@@ -96,7 +96,11 @@ PILLAR 3 | HALTING THE EXPANSION OF CYBER THREATS
 
 PILLAR 4 | MAINTAINING CONTROL OVER THE SECURITY OF OUR DIGITAL FOUNDATIONS
 
-## PILLAR 5 | SUPPORTING THE SECURITY AND STABILITY OF CYBERSPACE IN EUROPE AND INTERNATIONALLY 01 PILLAR — MAKING FRANCE A MAJOR POOL OF CYBER TALENT
+## PILLAR 5 | SUPPORTING THE SECURITY AND STABILITY OF CYBERSPACE IN EUROPE AND INTERNATIONALLY
+
+01
+
+### PILLAR — MAKING FRANCE A MAJOR POOL OF CYBER TALENT
 
 France's ability to develop and attract talent in the field of cybersecurity is essential to achieving world-class cyber resilience. That is why this ambition is the priority focus of this strategy.
 
@@ -128,7 +132,11 @@ France will support the emergence of a common set of cybersecurity skills at Eur
 
 To this end, it will encourage the creation of harmonised and recognised training courses in all EU countries, as well as the mobility of professionals within European institutions and between Member States.
 
-### PILLAR — 02 — STRENGTHENING THE NATION'S CYBER RESILIENCE
+PILLAR
+
+02
+
+### STRENGTHENING THE NATION'S CYBER RESILIENCE
 
 Since the White Paper on Defence and National Security, resilience has been defined as the willingness and ability of a country, society and public authorities to withstand the consequences of an attack or major disaster and then quickly restore their ability to function normally, or at least in a socially acceptable way. Russia's war of aggression in Ukraine demonstrates the vital need for a country to be collectively prepared for large-scale attacks, including in the field of cybersecurity. The nature of the cyberattacks likely to affect France in the coming years calls for the strengthening of the nation's cyber resilience.
 
@@ -158,7 +166,11 @@ Finally, France will establish a smooth support process tailored to the status o
 
 1 European Directive on the security of network and information systems.
 
-### PILLAR — 03 — HALTING THE EXPANSION OF CYBER THREATS
+PILLAR
+
+03
+
+### HALTING THE EXPANSION OF CYBER THREATS
 
 France is facing a growing threat of cyber attacks that is undermining its interests. On the one hand, it has seen the emergence, in sectors that had previously been spared, of increasingly intense methods of attack by perpetrators who no longer hesitate, often for criminal purposes, to paralyse critical national infrastructure, such as hospitals. On the other hand, it has observed an increase in the pressure and sophistication of espionage, destabilisation and sabotage operations targeting the nation's fundamental interests.
 
@@ -182,7 +194,11 @@ France will also deploy a cybersecurity filter for the general public, aimed at 
 
 France will also strengthen the sharing of technical information on threats between government services and private actors. This networking will be based in particular on the development of InterCERT France, the leading community of incident response centres in France, in its coordinating role. France will also take action to strengthen this sharing at European and international level in order to amplify its effect.
 
-### PILLAR — 04 — MAINTAINING CONTROL OVER THE SECURITY OF OUR DIGITAL FOUNDATIONS
+PILLAR
+
+04
+
+### MAINTAINING CONTROL OVER THE SECURITY OF OUR DIGITAL FOUNDATIONS
 
 The functioning of the economy and society relies on a set of essential digital technologies, such as communication networks, operating systems, the cloud and software applications. These technologies are the target of cyberattacks and their vulnerability can have serious and lasting consequences for the nation's digital infrastructure.
 
@@ -210,7 +226,9 @@ In addition, France will continue to invest in order to acquire a wider range of
 
 Finally, France will support the development of its security evaluation sector, which is internationally recognised for its excellence. It will also promote the emergence of an autonomous security evaluation capability within the European Union.
 
-### PILLAR SUPPORTING THE SECURITY AND STABILITY OF CYBERSPACE IN EUROPE AND INTERNATIONALLY — 05
+### PILLAR SUPPORTING THE SECURITY AND STABILITY OF CYBERSPACE IN EUROPE AND INTERNATIONALLY
+
+05
 
 A key factor in the resilience of nations and the stability of cyberspace, international cooperation today faces many challenges: growing conflict, including in the context of hybrid strategies2, the questioning of multilateralism and UN mechanisms, the promotion of an authoritarian vision of digital technology, the proliferation of cyber-intrusive tools, technological breakthroughs facilitating access to offensive capabilities, and the increased role of non-state actors. In this context, France will seek to maximise the impact of its international action by relying on several fundamental principles:
 

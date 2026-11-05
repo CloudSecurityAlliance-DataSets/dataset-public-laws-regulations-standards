@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 104-page PDF (https://www.sgdsn.gouv.fr/files/2025-08/20250713_NP_SGDSN_Actualisation_2025_RNS_FR.pdf) locally via PyMuPDF (291,202 chars). Parsed 42 sections (24 with explicit section identifiers)."
+    "notes": "Extracted 104-page PDF (https://www.sgdsn.gouv.fr/files/2025-08/20250713_NP_SGDSN_Actualisation_2025_RNS_FR.pdf) locally via PyMuPDF (291,678 chars). Parsed 141 sections (124 with explicit section identifiers)."
   },
   "extraction_history": [
     {

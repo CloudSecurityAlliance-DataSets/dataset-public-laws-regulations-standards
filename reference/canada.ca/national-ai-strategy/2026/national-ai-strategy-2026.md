@@ -58,7 +58,9 @@ We will strengthen Canadian sovereignty at a time when it is being deeply challe
 
 Canadians want safe, reliable, and sovereign AI. They want the best tools to build a prosperous future guided by our values.
 
-That is our plan. This is Canada’s AI for All moment. Let’s seize it.
+That is our plan. This is Canada’s AI for All
+
+moment. Let’s seize it.
 
 ## The Honourable Evan Solomon
 

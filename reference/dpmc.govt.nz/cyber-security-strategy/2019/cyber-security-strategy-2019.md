@@ -534,9 +534,9 @@ public and private sector organisations
 
 protect themselves 3445
 
-incidents reported in 2018 — OVER
+### incidents reported in 2018 — OVER
 
-## 347
+347
 
 incidents recorded from 1 July 2017 to
 

@@ -344,15 +344,17 @@ This last area is particularly relevant considering the risk that Italy could lo
 
 creation of synergies should be favored both with en­ terprises using technologies and with those operating in the ICT world enabling new AI solutions, in order to create a strong national ecosystem that is also fertile ground for the development of innovative startups.
 
-Objectives
+### Objectives
 
-## • Invest in foundational scientific research on
+• Invest in foundational scientific research on
 
 AI, consolidating existing initiatives such as the Ex­ tended Partnership on AI; promote collaboration among different skills, funding interdisciplinary projects; open the field to the exploration of highly ambitious and broad-spectrum (blue-sky) projects; support an extraordinary plan to retain and attract talents to sustain competitiveness in the internatio­
 
 nal context.
 
-• Enhance applied AI research through initiatives co-designed by public-private partnerships, inclu­ ding dedicated laboratories involving enterprises, universities, and research centers, focusing on con­ texts of greatest economic and social value for Italy and the greatest impact on citizen welfare.
+• Enhance applied AI research through initiatives
+
+co-designed by public-private partnerships, inclu­ ding dedicated laboratories involving enterprises, universities, and research centers, focusing on con­ texts of greatest economic and social value for Italy and the greatest impact on citizen welfare.
 
 ### Strategic Actions — R.1 | CONSOLIDATION OF THE ITALIAN RESEARCH ECOSYSTEM
 
@@ -426,7 +428,9 @@ and risks. Artificial Intelligence is increasingly showing us its enormous poten
 
 ### Objectives
 
-• Support administrative processes through AI te­ chnologies, increasing efficiency and optimizing the management of public resources; fund some natio­ nal-scale pilot projects; support the initiatives of indi­ vidual administrations, framed as a collective entity capable of realizing AI solutions and applications, de­ fined in accordance with precise interoperability gui­ delines that ensure adequate functional standards. • Facilitate the utilization of Public Administra­ tion services by citizens and businesses through AI solutions and technologies, ensuring usability, privacy, and process transparency; promote the te­ chnological neutrality of software and PA platforms to offer alternatives to the exclusive use of proprie­ tary solutions.
+• Support administrative processes through AI te­
+
+chnologies, increasing efficiency and optimizing the management of public resources; fund some natio­ nal-scale pilot projects; support the initiatives of indi­ vidual administrations, framed as a collective entity capable of realizing AI solutions and applications, de­ fined in accordance with precise interoperability gui­ delines that ensure adequate functional standards. • Facilitate the utilization of Public Administra­ tion services by citizens and businesses through AI solutions and technologies, ensuring usability, privacy, and process transparency; promote the te­ chnological neutrality of software and PA platforms to offer alternatives to the exclusive use of proprie­ tary solutions.
 
 ### Strategic Actions — PA.1 | GUIDELINES FOR PROMOTING THE ADOPTION OF AI IN PUBLIC ADMINISTRATION
 
@@ -502,7 +506,9 @@ In this sense, the design of an AI strategy in Italy must be strongly anchored t
 
 ### Objectives
 
-• Capture the innovation needs of Italian enter­ prises, financing and supporting an AI-centered ecosystem that can qualify a perspective where excellence is enhanced by technological solutions aimed at enhancing their distinctive traits. • Support the Italian ICT sector, promoting its enabling role for the definition of new AI applica­ tions, also with initiatives that respond to precise demands for innovation in the productive fabric; increase the possibilities to intercept funding for developing new AI project initiatives; support and enhance the AI startup ecosystem, attracting public and private capital.
+• Capture the innovation needs of Italian enter­
+
+prises, financing and supporting an AI-centered ecosystem that can qualify a perspective where excellence is enhanced by technological solutions aimed at enhancing their distinctive traits. • Support the Italian ICT sector, promoting its enabling role for the definition of new AI applica­ tions, also with initiatives that respond to precise demands for innovation in the productive fabric; increase the possibilities to intercept funding for developing new AI project initiatives; support and enhance the AI startup ecosystem, attracting public and private capital.
 
 ### Strategic Actions — I.1 | AI FACILITATORS FOR SMES
 
@@ -574,11 +580,15 @@ The implementation of effective reskilling and upskil­ ling programs across the
 
 ### Objectives
 
-• Promote widespread university education on AI in response to the increasingly urgent demands for new skills in society and the workforce, adop­ ting a transversal and interdisciplinary approach; consolidate specialized AI training in pathways ai­ med at technical profiles and researchers, such as the National PhD Program on Artificial Intelligence.
+• Promote widespread university education on AI
+
+in response to the increasingly urgent demands for new skills in society and the workforce, adop­ ting a transversal and interdisciplinary approach; consolidate specialized AI training in pathways ai­ med at technical profiles and researchers, such as the National PhD Program on Artificial Intelligence.
 
 ### Strategic Actions
 
-• Implement educational pathways on AI in scho­ ols to prepare new generations for careful and con­ scious use of new technologies; develop targeted dissemination initiatives to raise awareness and engage the Italian society in the AI revolution; fund and support reskilling and upskilling initiatives in all productive contexts.
+• Implement educational pathways on AI in scho­
+
+ols to prepare new generations for careful and con­ scious use of new technologies; develop targeted dissemination initiatives to raise awareness and engage the Italian society in the AI revolution; fund and support reskilling and upskilling initiatives in all productive contexts.
 
 ### F.1 | PATHWAYS FOR INTRODUCING AI IN SCHOOLS – STUDENTS AND TEACHERS
 
@@ -666,17 +676,21 @@ In particular, for the drafting of the report, the Founda­ tion will also utili
 
 Regarding the strategic area of EDUCATION, the panel of experts will take care to analyze some specific KPIs:
 
-## • The number of “interdisciplinary” degree courses
+• The number of “interdisciplinary” degree courses
 
 (not limited to computer science or computer en­ gineering) that include AI teachings;
 
-• The number of students enrolled in doctoral pro­ grams related to AI; • AI competence/awareness in citizenship, to be collected via CATI/CAWI surveys invol­ ving a stratified sample of the population22.
+• The number of students enrolled in doctoral pro­
+
+grams related to AI; • AI competence/awareness in citizenship, to be collected via CATI/CAWI surveys invol­ ving a stratified sample of the population22.
 
 19 Parmenter D. (2019) Key Performance Indicators: Developing, Implementing, and Using Winning KPIs, John Wiley & Sons Inc. 20 Blokdyk G. (2023) Delphi Method. A Complete Guide, The Art of Service. 21 Niederberger M., Renn O. (Eds, 2023) Delphi Methods in the Social and Health Sciences: Concepts, Applications and Case Studies, Springer Nature. 22 Un campione di 1.000 persone sul totale dei cittadini italiani può fornire risultati con un margine di errore del 3%.
 
 Regarding RESEARCH, both KPIs and flagship projects will be evaluated. Specifically:
 
-• Data on scientific production in Artificial Intelligen­ ce. In this sector, it is indeed possible to use establi­ shed bibliometric indicators, considering that “scien­ tometrics” has made great progress in terms of analysis, evaluation, and forecasting capabilities23. • The progress and quality of initiatives on strategic actions R.1 and R.3. These initiatives aim to promo­ te the strengthening of the research ecosystem and the creation of Italian LMMs and must be analyzed by evaluating the actual results achieved and the real impacts.
+• Data on scientific production in Artificial Intelligen­
+
+ce. In this sector, it is indeed possible to use establi­ shed bibliometric indicators, considering that “scien­ tometrics” has made great progress in terms of analysis, evaluation, and forecasting capabilities23. • The progress and quality of initiatives on strategic actions R.1 and R.3. These initiatives aim to promo­ te the strengthening of the research ecosystem and the creation of Italian LMMs and must be analyzed by evaluating the actual results achieved and the real impacts.
 
 As for PUBLIC ADMINISTRATION, interesting information, also with respect to comparisons among EU countries, is provided by the DESI report; however, this report, besides having a lag of about a year, offers a general view of the digitalization process and is not particularly focused on AI. On the other hand, a specific measure for all sectors would be difficult and especially costly, so the growth of the Public Administration system will be evaluated by accurately monitoring two important flagship projects: • The impact of initiatives on strategic action PA.5. In this regard, it is considered important to evaluate the improvement in access to and use of citizen services, also measuring their le­ vel of digitalization. Monitoring could be perfor­ med by allowing citizens who access a service platform to leave their feedback, as is often the case with services offered by the private sec­ tor; alternatively, surveys could be employed at predetermined intervals on a sample drawn from those who have made at least one access. • The impact of initiatives on strategic action PA.6. In this area, the involvement of experts well-versed in Public Administration is considered essential to assess the actual streamlining of administrative procedures. • Data on AI adoption in SMEs. In this regard, it is ob­ served that some interesting data are provided by the ISTAT survey on information and communica­ tion technologies in businesses, containing a specific section on AI. This section provides interesting insi­ ghts into the state of adoption of these technologies; however, it lacks a view on businesses that develop technology and provide services and/or products with a strong AI content. Thus, an extension of the questionnaire in the specified direction is proposed. • Impact of initiatives on strategic action I.2, characte­ rizing in particular the SMEs involved in facilitators
 

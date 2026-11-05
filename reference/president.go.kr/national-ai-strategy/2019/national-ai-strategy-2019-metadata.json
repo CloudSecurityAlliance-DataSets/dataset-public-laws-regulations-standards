@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 62-page PDF (https://wp.oecd.ai/app/uploads/2021/12/Korea_National_Strategy_for_Artificial_Intelligence_2019.pdf) locally via PyMuPDF (133,206 chars). Parsed 252 sections (4 with explicit section identifiers)."
+    "notes": "Extracted 62-page PDF (https://wp.oecd.ai/app/uploads/2021/12/Korea_National_Strategy_for_Artificial_Intelligence_2019.pdf) locally via PyMuPDF (133,206 chars). Parsed 250 sections (4 with explicit section identifiers)."
   },
   "extraction_history": [
     {

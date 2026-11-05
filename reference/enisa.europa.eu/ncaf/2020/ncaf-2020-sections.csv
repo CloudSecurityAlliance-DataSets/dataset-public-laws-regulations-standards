@@ -58,11 +58,8 @@ ISBN: 978-92-9204-443-5
 
 DOI: 10.2824/590072
 
-CATALOGUE: TP-06-20-047-EN-N
-
-1. TABLE OF CONTENTS
-
-ABOUT ENISA 1
+CATALOGUE: TP-06-20-047-EN-N"
+"2","1 (1)","TABLE OF CONTENTS","numbered","","ABOUT ENISA 1
 
 CONTACT 1
 
@@ -72,25 +69,16 @@ ACKNOWLEDGEMENTS 1
 
 LEGAL NOTICE 2
 
-COPYRIGHT NOTICE 2
+COPYRIGHT NOTICE 2"
+"2","1 (2)","TABLE OF CONTENTS 3","numbered","","GLOSSARY OF TERMS 5
 
-1. TABLE OF CONTENTS 3
-
-GLOSSARY OF TERMS 5
-
-EXECUTIVE SUMMARY 7
-
-1. INTRODUCTION 9
-
-1.1 STUDY SCOPE AND OBJECTIVES 9
+EXECUTIVE SUMMARY 7"
+"2","1 (3)","INTRODUCTION 9","numbered","","1.1 STUDY SCOPE AND OBJECTIVES 9
 
 1.2 METHODOLOGICAL APPROACH 9
 
-1.3 TARGET AUDIENCE 10
-
-2. BACKGROUND 11
-
-2.1 PREVIOUS WORK ON NCSS LIFECYCLE 11
+1.3 TARGET AUDIENCE 10"
+"2","2 (1)","BACKGROUND 11","numbered","","2.1 PREVIOUS WORK ON NCSS LIFECYCLE 11
 
 2.2 COMMON OBJECTIVES IDENTIFIED WITHIN THE EUROPEAN NCSS 11
 
@@ -98,11 +86,8 @@ EXECUTIVE SUMMARY 7
 
 2.4 CHALLENGES OF NCSS EVALUATION 17
 
-2.5 BENEFITS OF A NATIONAL CAPABILITIES ASSESSMENT 18
-
-3. METHODOLOGY OF THE NATIONAL CAPABILITIES ASSESSMENT FRAMEWORK 19
-
-3.1 GENERAL PURPOSE 19
+2.5 BENEFITS OF A NATIONAL CAPABILITIES ASSESSMENT 18"
+"2","3 (1)","METHODOLOGY OF THE NATIONAL CAPABILITIES ASSESSMENT FRAMEWORK 19","numbered","","3.1 GENERAL PURPOSE 19
 
 3.2 MATURITY LEVELS 19
 
@@ -110,19 +95,12 @@ EXECUTIVE SUMMARY 7
 
 3.4 SCORING MECHANISM 21
 
-3.5 REQUIREMENTS FOR THE SELF-ASSESSMENT FRAMEWORK 24
+3.5 REQUIREMENTS FOR THE SELF-ASSESSMENT FRAMEWORK 24"
+"2","4 (1)","NCAF INDICATORS 25","numbered","","4.1 FRAMEWORK INDICATORS 25
 
-4. NCAF INDICATORS 25
-
-4.1 FRAMEWORK INDICATORS 25
-
-4.2 GUIDELINES TO USE THE FRAMEWORK 52
-
-5. NEXT STEPS 54
-
-5.1 FUTURE IMPROVEMENTS 54
-
-ANNEX A – DESK RESEARCH RESULTS OVERVIEW 55
+4.2 GUIDELINES TO USE THE FRAMEWORK 52"
+"2","5 (1)","NEXT STEPS 54","numbered","",""
+"3","NEXT STEPS 54: 5.5.1","FUTURE IMPROVEMENTS 54","numbered","5 (1)","ANNEX A – DESK RESEARCH RESULTS OVERVIEW 55
 
 ANNEX B – DESK RESEARCH BIBLIOGRAPHY 79
 
@@ -261,12 +239,12 @@ The National Capabilities Assessment Framework covers 17 strategic objectives an
 ▶ Cluster #4: Cooperation
 
 15. Establish a public-private partnership 16. Institutionalise cooperation between public agencies 17. Engage in international cooperation"
-"2","1","INTRODUCTION","numbered","","The Network and Information Security (NIS) Directive, published in July 2016, requires EU Member States to adopt a national strategy on the security of network and information systems, also referred to as an NCSS (National Cyber Security Strategy), as laid down in Articles 1 and 7. In this context, an NCSS is defined as a framework which sets strategic principles, guidelines, strategic objectives, priorities, appropriate policies and regulatory measures. The foreseen objective of an NCSS is to reach and maintain a high level of network and systems security, thus allowing Member States to mitigate potential threats. Moreover, NCSS can also be a catalizer for industrial development and economic and social progress.
+"2","1 (4)","INTRODUCTION","numbered","","The Network and Information Security (NIS) Directive, published in July 2016, requires EU Member States to adopt a national strategy on the security of network and information systems, also referred to as an NCSS (National Cyber Security Strategy), as laid down in Articles 1 and 7. In this context, an NCSS is defined as a framework which sets strategic principles, guidelines, strategic objectives, priorities, appropriate policies and regulatory measures. The foreseen objective of an NCSS is to reach and maintain a high level of network and systems security, thus allowing Member States to mitigate potential threats. Moreover, NCSS can also be a catalizer for industrial development and economic and social progress.
 
 The EU Cybersecurity Act states that ENISA shall promote the dissemination of best practices in the definition and implementation of an NCSS by supporting Member States in the adoption of the NIS Directive and by collecting valuable feedback on their experiences. To this end, ENISA has developed several tools to assist the Member States with developing, implementing and evaluating their National Cyber Security Strategies (NCSS).
 
 As part of its mandate, ENISA aims to develop a national capabilities self-assessment framework to measure the level of maturity of the different NCSSs. The objective of this report is to present the study conducted in the definition of the self-assessment framework."
-"3","1.1","STUDY SCOPE AND OBJECTIVES","numbered","1","The main objective of this study is to create a national capabilities self-assessment framework, later referred to as NCAF, to measure the level of maturity of the cybersecurity capabilities of the Member States. More specifically, the framework should empower the Member States in:
+"3","1.1","STUDY SCOPE AND OBJECTIVES","numbered","1 (4)","The main objective of this study is to create a national capabilities self-assessment framework, later referred to as NCAF, to measure the level of maturity of the cybersecurity capabilities of the Member States. More specifically, the framework should empower the Member States in:
 
 ▶ Conducting the evaluation of their national cybersecurity capabilities.
 
@@ -277,7 +255,7 @@ As part of its mandate, ENISA aims to develop a national capabilities self-asses
 ▶ Building cybersecurity capabilities.
 
 This framework should help the Member States, and in particular national policymakers, to perform a self-assessment exercise with the aim to improve national cybersecurity capabilities."
-"3","1.2","METHODOLOGICAL APPROACH","numbered","1","The methodological approach used to develop the national capabilities self-assessment framework relies on four main steps:
+"3","1.2","METHODOLOGICAL APPROACH","numbered","1 (4)","The methodological approach used to develop the national capabilities self-assessment framework relies on four main steps:
 
 1. Desk Research: The first step involved conducting an extensive literature review to collect best practices regarding developing a maturity assessment framework for national cybersecurity strategies. The desk research focuses on a systematic analysis of relevant documents on cybersecurity capacity-building and strategy definition, on existing Member States’ NCSS’s and on a comparison of existing maturity models on cybersecurity. A benchmark exercise on existing maturity models was performed through the adoption of a framework of analysis developed for the purpose of this
 
@@ -288,11 +266,11 @@ study. The framework of analysis builds upon the Becker2 methodology for the dev
 3. Analysis of stocktaking input: The data collected through desk research and the interviews was subsequently analysed to identify best practices in the design of a self-assessment framework to measure the maturity of NCSS’s, to understand the needs of the Member States and to determine which data can feasibly be collected in the different European countries3. This analysis made it possible to fine-tune the preliminary model developed in the previous steps and to refine the set of indicators included in the model, the maturity levels and its dimensions.
 
 4. Finalisation of the model: Thereafter, an updated version of the national capabilities self-assessment framework was reviewed by the ENISA subject matter experts and then further validated by experts through a workshop held in October 2020 prior to publication."
-"3","1.3","TARGET AUDIENCE","numbered","1","The target audience of this report is policymakers, experts and government officials responsible for or involved in designing, implementing and evaluating the NCSS and, on a broader level, cybersecurity capabilities. Additionally, the findings formalised in this document can be of value to cybersecurity policy experts and researchers at the national or European level.
+"3","1.3","TARGET AUDIENCE","numbered","1 (4)","The target audience of this report is policymakers, experts and government officials responsible for or involved in designing, implementing and evaluating the NCSS and, on a broader level, cybersecurity capabilities. Additionally, the findings formalised in this document can be of value to cybersecurity policy experts and researchers at the national or European level.
 
 2 J. Becker, R. Knackstedt, and J. Pöppelbuß, “Developing Maturity Models for IT Management: A Procedure Model and its Application,” Business & Information Systems Engineering, vol. 1, no. 3, pp. 213–222, Jun. 2009. 3 For the purpose of this research, the ‘European countries’ referenced in this report includes the 27 EU Member States."
-"2","2","BACKGROUND","numbered","",""
-"3","2.1","PREVIOUS WORK ON NCSS LIFECYCLE","numbered","2","As stated in the EU Cybersecurity Act, one of the main goals of ENISA is to support the Member States in developing national strategies on the security of network and information systems, promote the dissemination of those strategies and monitor their implementation. As part of its mandate, ENISA has produced several documents on this subject in order to foster the sharing of good practices and support the implementation of NCSS’s across the EU:
+"2","2 (2)","BACKGROUND","numbered","",""
+"3","2.1","PREVIOUS WORK ON NCSS LIFECYCLE","numbered","2 (2)","As stated in the EU Cybersecurity Act, one of the main goals of ENISA is to support the Member States in developing national strategies on the security of network and information systems, promote the dissemination of those strategies and monitor their implementation. As part of its mandate, ENISA has produced several documents on this subject in order to foster the sharing of good practices and support the implementation of NCSS’s across the EU:
 
 ▶ The “Practical guide on the development and execution phase of NCSS”4 published in
 
@@ -317,7 +295,7 @@ published in 2012
 ANNEX A provides a short summary of ENISA’s main publications on this topic.
 
 The abovementioned guides and documents were studied as part of the desk research. In particular, the “National Cybersecurity Strategies Evaluation Tool”11 is a foundational element of the NCAF. The NCAF builds on the objectives covered in the NCSS online evaluation tool."
-"3","2.2","COMMON OBJECTIVES IDENTIFIED WITHIN THE EUROPEAN NCSS","numbered","2","The disparity between the different Member States makes it difficult to identify common activities or action plans among different national contexts, legal frameworks and political
+"3","2.2","COMMON OBJECTIVES IDENTIFIED WITHIN THE EUROPEAN NCSS","numbered","2 (2)","The disparity between the different Member States makes it difficult to identify common activities or action plans among different national contexts, legal frameworks and political
 
 4 NCSS: Practical Guide on Development and Execution (ENISA, 2012) https://www.enisa.europa.eu/publications/national-cyber-security-strategies-an-implementation-guide 5 NCSS: Setting the course for national efforts to strengthen security in cyberspace (ENISA, 2012) https://www.enisa.europa.eu/publications/cyber-security-strategies-paper 6 An evaluation framework for NCSS (ENISA, 2014) https://www.enisa.europa.eu/publications/an-evaluation-framework-for-cyber-security-strategies 7 National Cybersecurity Strategies - Interactive Map (ENISA, 2014, updated in 2019) https://www.enisa.europa.eu/topics/national-cyber-security-strategies/ncss-map/national-cyber-security-strategies-interactive-map 8 This document updates the 2012 guide: NCSS Good Practice Guide: Designing and Implementing National Cybersecurity Strategies (ENISA, 2016) https://www.enisa.europa.eu/publications/ncss-good-practice-guide 9 National Cybersecurity Strategies Evaluation Tool (2018) https://www.enisa.europa.eu/topics/national-cyber-security-strategies/national-cyber-security-strategies-guidelines-tools/national-cyber-security-strategies-evaluation-tool 10 https://www.enisa.europa.eu/publications/good-practices-in-innovation-on-cybersecurity-under-the-ncss-1 11 National Cybersecurity Strategies Evaluation Tool (2018) https://www.enisa.europa.eu/topics/national-cyber-security-strategies/national-cyber-security-strategies-guidelines-tools/national-cyber-security-strategies-evaluation-tool
 
@@ -505,7 +483,7 @@ The following strategic objectives were studied as future considerations:
 ▶ Ensure data sovereignty; and
 
 ▶ Provide incentives for the development of the cyber insurance industry."
-"3","2.3","KEY TAKEAWAYS FROM THE BENCHMARK EXERCISE","numbered","2","The desktop research on existing maturity models related to cybersecurity was carried out with the aim of collecting information and evidence to support the design of the national capabilities’ self-assessment framework in the area of NCSS. In this context, an extensive literature review of existing models was conducted to complement the findings from the initial scoping research on cybersecurity maturity models and existing NCSS, developed in sections 2.1 and 2.2. This systematic review supports the selection and justification of the maturity levels of the assessment framework and the definition of the different dimensions and indicators.
+"3","2.3","KEY TAKEAWAYS FROM THE BENCHMARK EXERCISE","numbered","2 (2)","The desktop research on existing maturity models related to cybersecurity was carried out with the aim of collecting information and evidence to support the design of the national capabilities’ self-assessment framework in the area of NCSS. In this context, an extensive literature review of existing models was conducted to complement the findings from the initial scoping research on cybersecurity maturity models and existing NCSS, developed in sections 2.1 and 2.2. This systematic review supports the selection and justification of the maturity levels of the assessment framework and the definition of the different dimensions and indicators.
 
 In the scope of the systematic review of maturity models, 10 models were considered and analysed on the basis of their key features. The global overview of the key features for each model reviewed in the scope of this study is available in Table 2: Overview of analysed maturity models and a more detailed analysis can be found in ANNEX A.
 
@@ -607,7 +585,7 @@ Results representation
 read.
 
 The conceptual model was built based on the benchmarking exercise of the different maturity models as well as on previous work from ENISA. Also, it was decided to build upon the ENISA online interactive tool to develop maturity indicators used for each attribute."
-"3","2.4","CHALLENGES OF NCSS EVALUATION","numbered","2","Member States are faced with many challenges when building cybersecurity capabilities and more specifically, when ensuring that their capabilities are up to date with the latest developments. Below is a summary of the challenges identified by and discussed with Member States as part of this study:
+"3","2.4","CHALLENGES OF NCSS EVALUATION","numbered","2 (2)","Member States are faced with many challenges when building cybersecurity capabilities and more specifically, when ensuring that their capabilities are up to date with the latest developments. Below is a summary of the challenges identified by and discussed with Member States as part of this study:
 
 ▶ Difficulties in coordination and cooperation: Coordinating cybersecurity efforts at a
 
@@ -632,7 +610,7 @@ measure different areas, such as progress, implementation, maturity and effectiv
 ▶ Difficulty to adopt a common framework: EU Member States operate in different
 
 contexts in terms of politics, organizations, culture, society structure and NCSS maturity. Certain Member States interviewed as part of this study expressed that it might prove difficult to defend and use a “one-size-fits-all” self-assessment framework."
-"3","2.5","BENEFITS OF A NATIONAL CAPABILITIES ASSESSMENT","numbered","2","Since 2017, all EU Member States have an NCSS20. While a positive development, it is also important that Member States are able to properly assess these NCSS’s, thus bringing added value to their strategic planning and implementation.
+"3","2.5","BENEFITS OF A NATIONAL CAPABILITIES ASSESSMENT","numbered","2 (2)","Since 2017, all EU Member States have an NCSS20. While a positive development, it is also important that Member States are able to properly assess these NCSS’s, thus bringing added value to their strategic planning and implementation.
 
 One of the goals of the national capabilities assessment framework is to evaluate the cybersecurity capabilities based on the priorities set forth in the various NCSS’s. Fundamentally, the framework assesses the level of maturity of the cybersecurity capabilities of the Member States in the domains defined by the NCSS objectives. Thus, the results of the framework support the Member States’ policymakers in defining the national strategy on cybersecurity by providing them with country intelligence on state of play21. The NCAF is ultimately intended to help Member States identify areas of improvement and build capabilities.
 
@@ -665,9 +643,9 @@ and
 ▶ Help evaluate the national capabilities regarding cybersecurity.
 
 20 https://www.enisa.europa.eu/topics/national-cyber-security-strategies/ncss-map/national-cyber-security-strategies-interactive-map 21 Weiss, C.H. (1999). The interface between evaluation and public policy. Evaluation, 5(4), 468-486."
-"2","3","METHODOLOGY OF THE NATIONAL CAPABILITIES ASSESSMENT FRAMEWORK","numbered","",""
-"3","3.1","GENERAL PURPOSE","numbered","3","The main objective of the NCAF is to measure the maturity level of the cybersecurity capabilities of the Member States to support them in conducting an evaluation of their national cybersecurity capability, enhancing awareness of the country maturity level, identifying areas for improvement and building cybersecurity capabilities."
-"3","3.2","MATURITY LEVELS","numbered","3","The framework is based on five maturity levels defining the stages that the Member States go through when building cybersecurity capabilities in the area covered by each NCSS objective. The levels represent increasing levels of maturity, starting from the initial Level 1, whereby the Member States do not have a clearly defined approach for cybersecurity capacity-building in the areas covered by the NCSS objectives and finishing with Level 5, whereby the cybersecurity capacity-building strategy is dynamic and adaptive to environmental developments. Table 4 shows the maturity level scale with a description of each level of maturity.
+"2","3 (2)","METHODOLOGY OF THE NATIONAL CAPABILITIES ASSESSMENT FRAMEWORK","numbered","",""
+"3","3.1","GENERAL PURPOSE","numbered","3 (2)","The main objective of the NCAF is to measure the maturity level of the cybersecurity capabilities of the Member States to support them in conducting an evaluation of their national cybersecurity capability, enhancing awareness of the country maturity level, identifying areas for improvement and building cybersecurity capabilities."
+"3","3.2","MATURITY LEVELS","numbered","3 (2)","The framework is based on five maturity levels defining the stages that the Member States go through when building cybersecurity capabilities in the area covered by each NCSS objective. The levels represent increasing levels of maturity, starting from the initial Level 1, whereby the Member States do not have a clearly defined approach for cybersecurity capacity-building in the areas covered by the NCSS objectives and finishing with Level 5, whereby the cybersecurity capacity-building strategy is dynamic and adaptive to environmental developments. Table 4 shows the maturity level scale with a description of each level of maturity.
 
 Table 4: The ENISA National Capabilities Assessment Framework five-level maturity scale
 
@@ -692,7 +670,7 @@ LEVEL 5 - ADAPTIVENESS
 The action plan is assessed on a regular basis: it is prioritised, optimised and sustainable. The performance of cybersecurity capacity-building activities is regularly measured. Success factors, challenges and gaps in the implementation of activities are identified.
 
 The cybersecurity capacity-building strategy is dynamic and adaptive. Constant attention to environmental developments (technological advancements, global conflict, new threats…) fosters a rapid-decision capability and an ability to act quickly for improvement."
-"3","3.3","CLUSTERS & OVERARCHING STRUCTURE OF THE SELF- ASSESSMENT FRAMEWORK","numbered","3","The self-assessment framework is characterised by four clusters: (I) Cybersecurity governance and standards, (II) Capacity-building and awareness, (III) Legal and regulatory and (IV) Cooperation. Each of those clusters covers a key thematic area for building cybersecurity capacity in a country and contains a pool of different objectives that the Member States might include in their NCSS. In particular:
+"3","3.3","CLUSTERS & OVERARCHING STRUCTURE OF THE SELF- ASSESSMENT FRAMEWORK","numbered","3 (2)","The self-assessment framework is characterised by four clusters: (I) Cybersecurity governance and standards, (II) Capacity-building and awareness, (III) Legal and regulatory and (IV) Cooperation. Each of those clusters covers a key thematic area for building cybersecurity capacity in a country and contains a pool of different objectives that the Member States might include in their NCSS. In particular:
 
 ▶ (I) Cybersecurity governance and standards: this cluster measures the capacity of
 
@@ -763,7 +741,7 @@ The four clusters and underlying objectives are combined in the model to have a 
 Figure 1: Self-assessment framework structure
 
 For each objective included within the self-assessment framework, there are a series of indicators distributed between the five levels of maturity. Every indicator is based on a dichotomous (yes/no) question. The indicator can be a requisite or a non requisite."
-"3","3.4","SCORING MECHANISM","numbered","3","The scoring mechanism of the self-assessment framework takes into consideration the abovementioned elements and the principles listed in section 3.5. In fact, the model provides a score based on the value of two parameters, the maturity level and the coverage ratio. Each of these parameters can be calculated at different levels: (i) per objective, (ii) per cluster of objectives or (iii) overall.
+"3","3.4","SCORING MECHANISM","numbered","3 (2)","The scoring mechanism of the self-assessment framework takes into consideration the abovementioned elements and the principles listed in section 3.5. In fact, the model provides a score based on the value of two parameters, the maturity level and the coverage ratio. Each of these parameters can be calculated at different levels: (i) per objective, (ii) per cluster of objectives or (iii) overall.
 
 Scores at objective level The maturity level score gives an overview of the level of maturity by showing what capabilities and practices were put in place. The maturity level score is calculated as the highest level for which the respondent satisfied all the requisites (i.e. YES answer to all requisite questions), in addition to having fulfilled all requisites of the previous levels of maturity.
 
@@ -816,7 +794,7 @@ Since the cluster level and overall level are consolidated for reporting purpose
 Figure 3 below summarizes the scoring mechanisms throughout the different levels of the model (objective, cluster, overall).
 
 Figure 3: Overall scoring mechanism"
-"3","3.5","REQUIREMENTS FOR THE SELF-ASSESSMENT FRAMEWORK","numbered","3","The national capabilities assessment framework presented in this section is based on the needs highlighted by the Member States and it is built around a set of requirements listed hereafter:
+"3","3.5","REQUIREMENTS FOR THE SELF-ASSESSMENT FRAMEWORK","numbered","3 (2)","The national capabilities assessment framework presented in this section is based on the needs highlighted by the Member States and it is built around a set of requirements listed hereafter:
 
 ▶ The NCAF is deployed on a voluntary basis by the Member State as a self-assessment
 
@@ -847,8 +825,8 @@ therefore, they have the same importance. The same is applicable to the indicato
 The self-assessment framework aims at supporting the Member States in building cybersecurity capabilities, Hence, it also includes a set of recommendations or guidelines to guide the European countries in improving their level of maturity.
 
 Note: those recommendations or guidelines are generic and based on ENISA publications and lessons learnt from other countries and will depend on the result of the self-assessment."
-"2","4","NCAF INDICATORS","numbered","",""
-"3","4.1","FRAMEWORK INDICATORS","numbered","4","This section presents the ENISA National Capabilities Assessment Framework indicators. The following sections are organised by cluster.
+"2","4 (2)","NCAF INDICATORS","numbered","",""
+"3","4.1","FRAMEWORK INDICATORS","numbered","4 (2)","This section presents the ENISA National Capabilities Assessment Framework indicators. The following sections are organised by cluster.
 
 For each cluster, a table presents the comprehensive set of indicators in the form of questions representative of a given maturity level. The questionnaire is the main instrument for the self-assessment. For each objective, there are two sets of indicators to be noted:
 
@@ -4705,7 +4683,7 @@ international treaties or conventions in the area of cybersecurity? e.g. Interna
 Security, Convention on
 
 Cybercrime"
-"3","4.2","GUIDELINES TO USE THE FRAMEWORK","numbered","4","This section aims at providing Member States some guidelines and recommendations for rolling out the framework and for filling out the questionnaire. The recommendations listed below are mainly deriving from the feedback collected from the interviews with the Member States’ representatives:
+"3","4.2","GUIDELINES TO USE THE FRAMEWORK","numbered","4 (2)","This section aims at providing Member States some guidelines and recommendations for rolling out the framework and for filling out the questionnaire. The recommendations listed below are mainly deriving from the feedback collected from the interviews with the Member States’ representatives:
 
 ▶ Anticipate coordination activities to gather data and consolidate data. Most of
 
@@ -4736,8 +4714,8 @@ decrease (in case the newly added objective is at a beginning stage and thus has
 ▶ When filling out the self-assessment questionnaire, keep in mind that the
 
 primary goal is to support Member States in cybersecurity capacity-building. Therefore, when filling in the self-assessment, even if it can be difficult in some situations to answer the question in a definite manner, it is recommended to choose the answer that is most generally accepted. If, for example, the answer to a question is YES on a certain scope but is NO on another scope, Member States should keep in mind that a NO answer requires an action: either a remediation plan or a plan to act on an improvement area that must be considered in future developments."
-"2","5","NEXT STEPS","numbered","",""
-"3","5.1","FUTURE IMPROVEMENTS","numbered","5","During interviews with Member States’ representatives and during the desk research phase, the following recommendations to improve the current National Capabilities Assessment Framework were also identified as potential future evolutions:
+"2","5 (2)","NEXT STEPS","numbered","",""
+"3","NEXT STEPS: 5.5.1","FUTURE IMPROVEMENTS","numbered","5 (2)","During interviews with Member States’ representatives and during the desk research phase, the following recommendations to improve the current National Capabilities Assessment Framework were also identified as potential future evolutions:
 
 ▶ Develop the scoring system to allow for more accuracy. For example, a
 

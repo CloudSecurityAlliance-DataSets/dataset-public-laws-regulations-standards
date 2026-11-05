@@ -38,7 +38,7 @@ The opportunity ____________________________________________________________ 5
 
 1.2 Unlocking data assets in the public and private sector __________________________ 9
 
-1.3 Training, retaining, and attracting the next generation of AI scientists and founders __ 10
+### 1.3 Training, retaining, and attracting the next generation of AI scientists and founders __ 10
 
 1.4 Enabling safe and trusted AI development and adoption through regulation, safety and assurance ______________________________________________________________ 13
 
@@ -50,7 +50,7 @@ The opportunity ____________________________________________________________ 5
 
 2.3 Enable public and private sectors to reinforce each other ______________________ 19
 
-2.4 Address private-sector-user-adoption barriers _______________________________ 19
+### 2.4 Address private-sector-user-adoption barriers _______________________________ 19
 
 3. Secure our future with homegrown AI _______________________________________ 21
 

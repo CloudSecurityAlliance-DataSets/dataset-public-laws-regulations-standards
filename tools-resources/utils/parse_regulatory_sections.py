@@ -267,6 +267,16 @@ def main():
         if section_id:
             ancestor_id_row_by_depth[depth] = i
 
+    # Ensure child section depth is always strictly greater than its parent's depth
+    changed_depth = True
+    while changed_depth:
+        changed_depth = False
+        for r in rows:
+            pidx = r.get("_parent_row_idx")
+            if pidx is not None and rows[pidx]["depth"] >= r["depth"]:
+                r["depth"] = rows[pidx]["depth"] + 1
+                changed_depth = True
+
     # Disambiguate duplicate section_ids top-down by depth so child parent_ids stay synchronized
     from collections import Counter
     max_depth = max((r["depth"] for r in rows), default=0)

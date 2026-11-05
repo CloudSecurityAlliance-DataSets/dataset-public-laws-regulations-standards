@@ -716,9 +716,7 @@ Key concept: Training requirements will depend on the nature of the role in rela
 
 AI impact and risk management processes need to consider how the AI system is used. Begin assessments with the full range of potential harms with information from the stakeholder impact assessment (guardrail 10). The impact and risk assessments must align with organisational risk appetite and tolerance levels. You must complete the risk assessments throughout the lifecycle of the AI system and on an ongoing basis to ensure the risk mitigations are effective. These assessments may be required to input into any future conformity assessments mandated for use in high-risk settings.
 
-2.1.
-
-AI risk and impact management processes
+### 2.1. AI risk and impact management processes
 
 Commit to creating, documenting and applying an organisational-level risk management approach that considers the specific characteristics of AI systems.
 
@@ -738,9 +736,7 @@ Key concept: Do not use the potential benefits to an organisation of deploying a
 
 2.1.7. Evaluate and document the high-level risks and liabilities related to the organisation’s existing or planned use of third party-provided systems and components (including open-source software).
 
-2.2.
-
-System risk and impact assessment
+### 2.2. System risk and impact assessment
 
 Commit to rigorous risk and impact management processes for assessing AI systems against the organisational risk tolerance.
 
@@ -766,9 +762,7 @@ and provenance.
 
 You must have appropriate data governance, privacy and cybersecurity measures in place to appropriately protect and manage AI systems. These will differ depending on use case and risk profile. Organisations must account for the unique characteristics of AI systems such as data quality, data provenance and cyber vulnerabilities.
 
-3.1.
-
-Data governance, privacy and cybersecurity
+### 3.1. Data governance, privacy and cybersecurity
 
 Commit to fit-for-purpose approaches to data governance, privacy and cybersecurity management of AI systems. This will help realise the value and mitigate the emerging and amplified risks.
 
@@ -786,9 +780,7 @@ Commit to fit-for-purpose approaches to data governance, privacy and cybersecuri
 
 3.1.7. Document how the Essential Eight Maturity Model for cybersecurity risks has been applied to each AI system in use, including those developed or provided by third parties. 45
 
-3.2.
-
-Data governance measures to manage data quality and provenance
+### 3.2. Data governance measures to manage data quality and provenance
 
 Commit to evaluating the requirements of each AI system in relation to data quality, data provenance, information security and information management, including where systems are provided by third parties. Documentation of this activity may be required to input into any future conformity assessments mandated for use in high-risk settings
 
@@ -816,9 +808,7 @@ once deployed.
 
 Thoroughly test AI systems and AI models before you deploy them, and then monitor for potential behaviour changes or unintended consequences. Perform these tests according to the clearly defined acceptance criteria that considers the prior risk and impact assessment.
 
-4.1.
-
-Organisational-level reporting, evaluation and continual improvement
+### 4.1. Organisational-level reporting, evaluation and continual improvement
 
 Commit to a robust process for timely and regular monitoring, evaluation and reporting of AI system performance.
 
@@ -830,9 +820,7 @@ Commit to a robust process for timely and regular monitoring, evaluation and rep
 
 4.1.4. Create a process for determining whether an AI system requires regular auditing, appropriate to the level of risk identified by its risk assessment.
 
-4.2.
-
-AI system acceptance criteria
+### 4.2. AI system acceptance criteria
 
 Commit to specifying, justifying and documenting acceptance criteria your organisation will need to meet to consider potential harms to be adequately controlled.
 
@@ -842,9 +830,7 @@ Commit to specifying, justifying and documenting acceptance criteria your organi
 
 4.2.3. Regularly review and update the acceptance criteria to reflect any changes in the system, the identified harms or the broader context in which the system operates. Record any findings or changes in the acceptance criteria registry.56
 
-4.3.
-
-Testing of AI systems or models to determine performance and mitigate any risks
+### 4.3. Testing of AI systems or models to determine performance and mitigate any risks
 
 Commit to rigorously testing the system against the acceptance criteria before deployment, documenting the results and deciding whether to deploy.
 
@@ -860,7 +846,7 @@ Key concept: AI model testing verifies and validates an AI system’s underlying
 
 • For general-purpose AI systems, such as those based on large language models, include adversarial testing procedures such as red teaming.
 
-4.3.2. Compile a complete test report, including:
+### 4.3.2. Compile a complete test report, including:
 
 • a summary of the testing goals
 
@@ -876,9 +862,7 @@ Key concept: AI model testing verifies and validates an AI system’s underlying
 
 4.3.3. Apply the organisational process for reviewing and approving the testing results to ensure the system meets all acceptance criteria before you deploy it.58 The system deployment authorisation must come from the person or people accountable for the AI system.
 
-4.4.
-
-Ongoing system evaluation and monitoring
+### 4.4. Ongoing system evaluation and monitoring
 
 Commit to implementing robust AI system performance monitoring and evaluation, and to ensuring each system remains fit for purpose.
 
@@ -890,9 +874,7 @@ Commit to implementing robust AI system performance monitoring and evaluation, a
 
 4.4.4. Ensure that people who review individual-level feedback can trigger recourse and redress processes where there is an obligation to do so. High-impact decisions may warrant direct human oversight.61
 
-4.5.
-
-Regular system audit or assessments
+### 4.5. Regular system audit or assessments
 
 Commit to regular system audits for ongoing compliance with the acceptance criteria (or justify why you don’t need to carry out audits).
 
@@ -944,9 +926,7 @@ content.
 
 Create trust with users. Provide people, society and other organisations with confidence that you are using AI safely and responsibly. Disclose when you use AI, its role and when content is AI-generated. Disclosure can occur in many ways. It is up to the organisation to identify the most appropriate mechanism based on the use case, stakeholders and technology used.
 
-6.1.
-
-Transparency and contestability
+### 6.1. Transparency and contestability
 
 Commit to creating processes for stakeholders impacted by the decisions or behaviours of AI systems, so they understand when AI systems that could affect them are in use. Give stakeholders the opportunity to contest the decisions and outputs of those systems.
 
@@ -962,9 +942,7 @@ Key concept: Technologies such as watermarking and labelling can help create tra
 
 6.1.5. Create and document a process to evaluate any specific reporting and disclosure obligations under the Online Safety Act relevant to AI systems usage.
 
-6.2.
-
-Transparency for AI systems
+### 6.2. Transparency for AI systems
 
 Commit to communicating with sufficient transparency to demonstrate safe and responsible use of AI systems.
 
@@ -992,9 +970,7 @@ challenge use or outcomes.
 
 Organisations must provide processes for users, organisations, people and society impacted by AI systems to challenge how AI is used, contest decisions, outcomes or interactions that involve AI.
 
-7.1.
-
-Contestability and related risk controls
+### 7.1. Contestability and related risk controls
 
 Commit to creating processes for stakeholders of AI systems to understand and challenge the use of those systems.
 
@@ -1016,9 +992,7 @@ address risks.
 
 Organisations must provide information to organisations downstream in the AI supply chain for them to understand the components of the AI system, how it was built and to understand and manage the risk of the use of the AI system.
 
-8.1.
-
-Transparency between developers and deployers
+### 8.1. Transparency between developers and deployers
 
 Commit to sharing information and establishing processes to provide sufficient transparency between developers and deployers of AI systems.
 
@@ -1050,7 +1024,7 @@ Key concept: When using open-source AI models, deployers need to consider which 
 
 • issues, faults and incidents that occur with the system.
 
-8.1.3. Agree with your suppliers of systems:
+### 8.1.3. Agree with your suppliers of systems:
 
 • responsibility and accountability for monitoring and evaluation of system performance
 
@@ -1072,13 +1046,11 @@ assess compliance with guardrails.
 
 Organisations must maintain records to demonstrate that they have implemented and are complying with the guardrails, this includes maintaining an AI inventory and consistent AI system documentation. These records may be required to input into any future conformity assessments mandated for use in high-risk settings.
 
-9.1.
-
-AI inventory and consistent documentation
+### 9.1. AI inventory and consistent documentation
 
 Commit to adopting an inventory of the AI systems you use and deploy. Define and apply documentation standards for these systems.
 
-9.1.1. Create and maintain an up-to-date, organisation-wide inventory of each AI system, which includes79:
+### 9.1.1. Create and maintain an up-to-date, organisation-wide inventory of each AI system, which includes79:
 
 • people accountable
 
@@ -1102,9 +1074,7 @@ Commit to adopting an inventory of the AI systems you use and deploy. Define and
 
 • dates of review.
 
-9.2.
-
-Critical system documentation
+### 9.2. Critical system documentation
 
 Commit to understanding and documenting critical information about each AI system you deploy and use. Include the purpose, context, expected benefit and sufficient technical detail for the system to be understood. Be aware that the documentation you record will be the foundation to demonstrate compliance with future regulation in the form of conformity assessments.
 
@@ -1160,7 +1130,7 @@ Commit to system-level stakeholder engagement and evaluation of potential harm.
 
 Key concept: Stakeholder engagement is effective in responsible AI system deployment, particularly when carried out at the earliest possible stages in the AI lifecycle and embedded throughout the end-to-end lifecycle.
 
-10.3.1. Identify and document where expected users interact with each AI system, including:
+### 10.3.1. Identify and document where expected users interact with each AI system, including:
 
 • user interactions with the system or AI system-generated content
 

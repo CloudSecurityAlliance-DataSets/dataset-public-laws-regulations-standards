@@ -1844,7 +1844,11 @@ L’axe administratif est essentiel : tout chercheur attiré en France puis rebu
 
 pression administrative. Les facilités permises par des fondations ou des associa­ tions loi 1901 par exemple, doivent devenir la règle au sein des instituts 3IA, notamment en ce qui concerne les embauches et les achats. Les grilles de salaire de la fonction publique sont dissuasives, nous espérons l’avoir montré, compte tenu de deux faits : 1. La productivité varie de plusieurs ordres de grandeur entre les chercheurs dans ce domaine ; 2. Il existe des concurrents nombreux et capables de verser des salaires royaux après un circuit de décision court.
 
-## Tout chercheur attiré en France puis rebuté — par les délais de réponse et les arguties incompréhensibles de l’administration fera — une contre-publicité durable à l’ensemble — de notre système. Il faut relâcher — la pression administrative
+## Tout chercheur attiré en France puis rebuté — par les délais de réponse et les arguties incompréhensibles de l’administration fera
+
+une contre-publicité durable à l’ensemble de notre système. Il faut relâcher
+
+## la pression administrative
 
 Outre les embauches, en ce qui concerne les achats et les missions, il faut renverser la charge de la preuve, en autorisant systématiquement les achats par carte achat, et en effectuant des contrôles a posteriori sur les missions.
 

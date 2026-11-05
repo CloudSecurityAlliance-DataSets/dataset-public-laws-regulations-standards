@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 80-page PDF (https://openresearch-repository.anu.edu.au/server/api/core/bitstreams/1d8b7128-57ce-45b4-acf2-932eb11d689c/content) locally via PyMuPDF (121,857 chars). Parsed 44 sections (41 with explicit section identifiers)."
+    "notes": "Extracted 80-page PDF (https://openresearch-repository.anu.edu.au/server/api/core/bitstreams/1d8b7128-57ce-45b4-acf2-932eb11d689c/content) locally via PyMuPDF (121,861 chars). Parsed 45 sections (42 with explicit section identifiers)."
   },
   "extraction_history": [
     {

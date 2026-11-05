@@ -606,17 +606,17 @@ ment owner, is organized into three main areas of intervention and will involve 
 
 cybersecurity national stakeholder, in accordance with the NRRP technical-organizational rules:
 
-## 02
+02
 
 ACTIONS TO ENHANCE PUBLIC ADMINISTRATION’S CYBER-RESILIENCE
 
-## 01
+01
 
 174 M€
 
 NATIONAL CYBERSECURITY SERVICES
 
-## 03
+03
 
 ### 301.7 M€ — 147.3 M€
 

@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 45-page PDF (https://www.ki-strategie-deutschland.de/files/downloads/Nationale_KI-Strategie_engl.pdf) locally via PyMuPDF (165,201 chars). Parsed 23 sections (18 with explicit section identifiers)."
+    "notes": "Extracted 45-page PDF (https://www.ki-strategie-deutschland.de/files/downloads/Nationale_KI-Strategie_engl.pdf) locally via PyMuPDF (165,201 chars). Parsed 20 sections (16 with explicit section identifiers)."
   },
   "extraction_history": [
     {

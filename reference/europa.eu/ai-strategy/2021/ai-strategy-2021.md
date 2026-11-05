@@ -459,7 +459,7 @@ Knowledge is key. Sharing knowledge and policy insights, and coordinating policy
 [14](https://publications.europa.eu/resource/cellar/01ff45fa-a375-11eb-9585-01aa75ed71a1.0001.03/DOC_3#footnote15)
 ; and the Commission pledged to monitor developments and mobilise expertise.
 
-#### 1.1. Maximise the advantages from national strategies and accelerate the proposed actions
+##### 1.1. Maximise the advantages from national strategies and accelerate the proposed actions
 
 Overview of actions taken
 
@@ -493,7 +493,7 @@ Member States are strongly encouraged to:
 
 -share, develop and implement actions on national/regional level that proved to be successful in other Member States, for example, successful national initiatives to develop and promote a virtual warehouse of data.
 
-#### 1.2. Reap the full benefit of the technical expertise of expert groups on AI facilitated by the European Commission
+##### 1.2. Reap the full benefit of the technical expertise of expert groups on AI facilitated by the European Commission
 
 Technological and socioeconomic developments relating to AI are very dynamic and often require specialised expertise. Accordingly, to monitor the advancement and uptake of AI technologies and facilitate evidence-based policy on AI, the Commission has put considerable effort into mobilising expertise, collecting data, monitoring developments and collecting and analysing stakeholder opinions related to AI.
 
@@ -596,7 +596,7 @@ In consultation with Member States, the Commission will
 
 -regularly monitor the implementation of the Coordinated Plan to ensure it remains up to date. On the basis of feedback from Member States on the 2021 review and in consultation with other EU institutions and bodies, the Commission will propose in 2022 a timeline, a matrix and a methodology for the next review of the Coordinated Plan.
 
-#### 1.3. Strengthen exchanges and collaboration through the Member States’ Group on AI and Digitising European Industry
+##### 1.3. Strengthen exchanges and collaboration through the Member States’ Group on AI and Digitising European Industry
 
 The action to facilitate cooperation among Member States and between Member States and the Commission is further supported by governance mechanisms that facilitate the exchange of information and help to set the strategic direction for collaboration on AI policy.
 

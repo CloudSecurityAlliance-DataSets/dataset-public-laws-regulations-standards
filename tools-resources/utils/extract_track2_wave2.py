@@ -21,6 +21,7 @@ import gzip
 import hashlib
 import json
 import re
+import shutil
 import subprocess
 import sys
 import time
@@ -48,6 +49,8 @@ from extract_track2_corpus import (  # noqa: E402
     run_parse_sections,
     write_metadata,
 )
+
+PRIVATE_REPO_ROOT = REPO_ROOT.parent / "dataset-private-laws-regulations-standards"
 
 _WAVE1_REL_DIRS = (
     {s["rel_dir"] for s in PUBLIC_SAFETY_DOCS + WHITEHOUSE_DOCS + GOV_UK_DOCS}
@@ -206,9 +209,6 @@ URL_OVERRIDES: dict[tuple[str, str, str], list[str]] = {
     ("president.go.kr", "national-security-strategy", "2023"): [
         "https://assets.korearisk.com/uploads/2023/06/Yoon-Suk-yeol-Administrations-National-Security-Strategy-June-2023.pdf",
     ],
-    ("president.go.kr", "national-ai-strategy", "2024"): [
-        "https://www.msit.go.kr/ssm/file/fileDown.do?atchFileNo=47317&fileOrd=1&fileBtn=A",
-    ],
     ("president.go.kr", "national-ai-strategy", "2019"): [
         "https://wp.oecd.ai/app/uploads/2021/12/Korea_National_Strategy_for_Artificial_Intelligence_2019.pdf",
     ],
@@ -322,17 +322,18 @@ def license_for_tld(tld: str, namespace: str, md_text: str = "", secid: str = ""
     if tld == "au":
         if (
             "without prior written permission" in md_text.lower()
+            or "without prior permission in writing" in md_text.lower()
             or namespace == "defence.gov.au"
             or secid.endswith("@2009")
         ):
             return _make_license(
-                "LicenseRef-Government-Work",
-                "Government-Work",
-                "Government publication; Commonwealth of Australia copyright retained. Publicly released for free download, policy reference, and study under the Copyright Act 1968; prior written permission required for commercial reproduction or derivative works.",
+                "LicenseRef-All-Rights-Reserved",
+                "Proprietary / All Rights Reserved",
+                "Commonwealth of Australia copyright retained; document explicitly prohibits reproduction, storage, or transmission without prior written permission.",
                 "https://www.defence.gov.au/copyright",
-                redistribution="permitted_for_reference",
+                redistribution="prohibited",
                 derivatives="prohibited",
-                publicly_redistributable=True,
+                publicly_redistributable=False,
             )
         return _make_license(
             "CC-BY-4.0",
@@ -401,20 +402,20 @@ def license_for_tld(tld: str, namespace: str, md_text: str = "", secid: str = ""
             return _make_license(
                 "LicenseRef-SG-Government-NonCommercial-NoDerivatives",
                 "Non-Commercial-No-Derivatives",
-                "Copyright Government of Singapore (MDDI / Smart Nation). Document explicitly permits reproduction without modification for non-commercial use only.",
+                "Copyright Government of Singapore (MDDI / Smart Nation). Document permits reproduction without modification for non-commercial use only; routed to private dataset repository.",
                 "https://www.smartnation.gov.sg/terms-of-use/",
                 redistribution="permitted_non_commercial_verbatim",
                 derivatives="prohibited",
-                publicly_redistributable=True,
+                publicly_redistributable=False,
             )
         return _make_license(
-            "LicenseRef-Government-Work",
-            "Government-Work",
-            "Government publication; Copyright Government of Singapore (Cyber Security Agency of Singapore / Smart Nation and Digital Government Office) retained. Publicly released for free download, policy reference, and citation; consult Singapore Government Terms of Use before commercial redistribution or derivative works.",
+            "LicenseRef-All-Rights-Reserved",
+            "Proprietary / All Rights Reserved",
+            "Copyright Government of Singapore retained (all rights reserved under Singapore Government Terms of Use; prior written permission required for reproduction or redistribution).",
             "https://www.csa.gov.sg/terms-of-use",
-            redistribution="permitted_for_reference",
+            redistribution="prohibited",
             derivatives="prohibited",
-            publicly_redistributable=True,
+            publicly_redistributable=False,
         )
     if tld == "jp":
         return _make_license(
@@ -448,17 +449,17 @@ def license_for_tld(tld: str, namespace: str, md_text: str = "", secid: str = ""
                 "https://www.mnd.gov.tw/",
                 redistribution="permitted_non_commercial_verbatim_with_attribution",
                 derivatives="prohibited",
-                publicly_redistributable=True,
+                publicly_redistributable=False,
             )
         if "reprints without permission will be prosecuted" in md_text.lower() or namespace == "mnd.gov.tw":
             return _make_license(
-                "LicenseRef-Government-Work",
-                "Government-Work",
-                "Government publication; Copyright Ministry of National Defense, R.O.C. (Taiwan) retained. Publicly released for free download, policy reference, and study; commercial reprints or derivative works without permission are prohibited.",
+                "LicenseRef-All-Rights-Reserved",
+                "Proprietary / All Rights Reserved",
+                "Copyright Ministry of National Defense, R.O.C. (Taiwan) retained; reprints or redistribution without permission are prohibited.",
                 "https://www.mnd.gov.tw/",
-                redistribution="permitted_for_reference",
+                redistribution="prohibited",
                 derivatives="prohibited",
-                publicly_redistributable=True,
+                publicly_redistributable=False,
             )
         return _make_license(
             "OGDL-Taiwan-1.0",
@@ -479,7 +480,7 @@ def license_for_tld(tld: str, namespace: str, md_text: str = "", secid: str = ""
                     "https://creativecommons.org/licenses/by-nc/3.0/igo/deed.en",
                     redistribution="permitted_with_attribution_non_commercial",
                     derivatives="permitted_with_attribution_non_commercial",
-                    publicly_redistributable=True,
+                    publicly_redistributable=False,
                 )
             return _make_license(
                 "CC-BY-3.0-IGO",
@@ -492,22 +493,22 @@ def license_for_tld(tld: str, namespace: str, md_text: str = "", secid: str = ""
             )
         if namespace == "au.int":
             return _make_license(
-                "LicenseRef-Government-Work",
-                "Government-Work",
-                "Intergovernmental organization publication; African Union Commission copyright retained. Publicly released for free download, policy reference, and study.",
+                "LicenseRef-All-Rights-Reserved",
+                "Proprietary / All Rights Reserved",
+                "African Union Commission copyright retained; prior permission required for commercial redistribution or derivative works.",
                 "https://au.int/en/legal-disclaimer",
-                redistribution="permitted_for_reference",
-                derivatives="varies_by_jurisdiction",
-                publicly_redistributable=True,
+                redistribution="prohibited",
+                derivatives="prohibited",
+                publicly_redistributable=False,
             )
         return _make_license(
-            "CC-BY-3.0-IGO",
-            "Permissive",
-            f"International intergovernmental organization publication ({namespace}); open access for public policy and research reference.",
-            "http://creativecommons.org/licenses/by/3.0/igo",
-            redistribution="permitted_with_attribution",
-            derivatives="permitted_with_attribution",
-            publicly_redistributable=True,
+            "LicenseRef-All-Rights-Reserved",
+            "Proprietary / All Rights Reserved",
+            f"International intergovernmental organization publication ({namespace}); copyright retained by issuing organization.",
+            None,
+            redistribution="prohibited",
+            derivatives="prohibited",
+            publicly_redistributable=False,
         )
     return _make_license(
         "LicenseRef-Government-Work",
@@ -759,6 +760,8 @@ def find_embedded_pdf_urls(
             effective_base,
             f"/ssm/file/fileDown.do?atchFileNo={m_fn.group(1)}&fileOrd={m_fn.group(2)}&fileBtn=A",
         )
+        if "atchfileno=47317" in dl_url.lower():
+            continue
         if dl_url not in seen and (not namespace or _is_trusted_pdf_target(base_url, dl_url, namespace)):
             seen.add(dl_url)
             scored.append((25, dl_url))
@@ -773,17 +776,46 @@ def ensure_hierarchical_headings(md: str, doc_title: str, doc_desc: str, is_anne
     """
     md = re.sub(r"[\x00-\x08\x0b\x0c\x0e-\x1f\x7f-\x9f]+", " ", md)
     raw_lines = md.splitlines()
-    # Pre-pass: join standalone section number lines (e.g. `1.` or `2.2.`) with the immediately following title line
+    # Pre-pass: join standalone section number lines (e.g. `1.`, `2.2.`, `### 5.2.1`) with the immediately following title line
     lines: list[str] = []
     idx = 0
     while idx < len(raw_lines):
         cur = raw_lines[idx].strip()
-        if re.match(r"^\d{1,2}(?:\.\d{1,2})*\.$", cur) and idx + 1 < len(raw_lines):
-            nxt = raw_lines[idx + 1].strip()
-            if nxt and not nxt.startswith(("#", "[")) and 3 <= len(nxt) <= 220 and re.match(r"^[A-ZÄÖÜÉÈÊÀÁÍÓÚÑ]", nxt):
-                lines.append(f"{cur} {nxt}")
-                idx += 2
-                continue
+        m_bare = re.match(r"^(#{2,6}\s+)?(\d{1,2}(?:\.\d{1,2})+\.?|\d{1,2}\.|[IVX]{1,4}\.|[A-H]\.)$", cur)
+        if m_bare:
+            j = idx + 1
+            while j < len(raw_lines) and not raw_lines[j].strip():
+                j += 1
+            if j < len(raw_lines) and j <= idx + 4:
+                nxt = raw_lines[j].strip()
+                h_pref = (m_bare.group(1) or "").strip()
+                num_tok = m_bare.group(2)
+                m_nh = re.match(r"^(#{2,6})\s+(.+)$", nxt)
+                if m_nh and not re.match(r"^(?:\d|[IVX]+\.)", m_nh.group(2).strip()):
+                    eff_h = h_pref or m_nh.group(1)
+                    lines.append(f"{eff_h} {num_tok} {m_nh.group(2).strip()}")
+                    idx = j + 1
+                    continue
+                if nxt.startswith("Identifying the Lead Project Authority In line with "):
+                    eff_h = h_pref or "###"
+                    lines.append(f"{eff_h} {num_tok} Identifying the Lead Project Authority")
+                    lines.append("")
+                    lines.append(nxt[len("Identifying the Lead Project Authority ") :].strip())
+                    idx = j + 1
+                    continue
+                if (
+                    nxt
+                    and not nxt.startswith(("#", "["))
+                    and 3 <= len(nxt) <= 220
+                    and not nxt.endswith(".")
+                    and re.match(r"^[A-ZÄÖÜÉÈÊÀÁÍÓÚÑ]", nxt)
+                ):
+                    if h_pref:
+                        lines.append(f"{h_pref} {num_tok} {nxt}")
+                    else:
+                        lines.append(f"{num_tok} {nxt}")
+                    idx = j + 1
+                    continue
         lines.append(raw_lines[idx])
         idx += 1
 
@@ -817,7 +849,23 @@ def ensure_hierarchical_headings(md: str, doc_title: str, doc_desc: str, is_anne
         )
     ]
     if (len(h2_plus) >= 6 or len(numbered_h2) >= 2) and not is_annex:
-        return "\n".join(lines) + "\n"
+        # Even when headings exist, promote unformatted all-caps major headings (`II. THINKING...`, `1. INTRODUCTION`)
+        # and explicit multi-dot subheadings (`1.1. Context`) left unformatted by XHTML/PDF converters.
+        patched_lines: list[str] = []
+        for idx_l, l in enumerate(lines):
+            s = l.strip()
+            if idx_l not in toc_skip_indices and not s.startswith("#"):
+                if re.match(
+                    r"^(?:[IVX]{1,4}|\d{1,2})\.\s+[A-ZÄÖÜÉÈÊÀÁÍÓÚÑ]{2,}[A-ZÄÖÜÉÈÊÀÁÍÓÚÑ0-9\s,\-–—'’\(\)/:]{2,180}$",
+                    s,
+                ):
+                    patched_lines.append(f"## {s}")
+                    continue
+                if re.match(r"^\d{1,2}\.\d{1,2}(?:\.\d{1,2})*\.?\s+[A-ZÄÖÜÉÈÊÀÁÍÓÚÑ][^\n\.]{2,140}$", s):
+                    patched_lines.append(f"### {s}")
+                    continue
+            patched_lines.append(l)
+        return "\n".join(patched_lines) + "\n"
 
     promoted_lines: list[str] = []
     promoted_count = 0
@@ -885,7 +933,8 @@ def ensure_hierarchical_headings(md: str, doc_title: str, doc_desc: str, is_anne
                 elif m_single_num and has_roman_parts:
                     promoted_lines.append(f"#### Chapter {m_single_num.group(1)}: {m_single_num.group(2)}")
                 elif m_sub:
-                    promoted_lines.append(f"#### {s_norm}")
+                    sub_hashes = "#####" if has_roman_parts else "####"
+                    promoted_lines.append(f"{sub_hashes} {s_norm}")
                 else:
                     promoted_lines.append(f"### {s_norm}")
             else:
@@ -917,9 +966,12 @@ _COLOPHON_HEADING_RE = re.compile(
     r"|Any\s+enquiries\s+regarding\b"
     r"|Printed\s+(?:in|on|by)\b"
     r"|\(?(?:Provisional|Tentative)\s+translation\)?"
+    r"|Status:\s+"
     r"|E\d{6,}\b"
     r"|(?:January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{4}$"
-    r"|\d{4}$"
+    r"|\d{1,4}$"
+    r"|\d{1,2}\.\s+We\s+(?:want|will)\b"
+    r"|[•●▪▸]\s+"
     r"|https?://"
     r"|\|\s*\S+"
     r"|붙임\s+"
@@ -1015,6 +1067,22 @@ def postprocess_markdown_structure(md: str, doc_title: str) -> str:
             hashes, txt = m.group(1), m.group(2).strip()
             nxt = blocks[i + 1].strip()
             sec_id, _, _ = parse_heading(txt)
+            # Bare dotted/Roman/letter section identifier heading followed by its title block -> merge title into heading
+            if re.match(r"^(\d{1,2}(?:\.\d{1,2})+\.?|\d{1,2}\.|[IVX]{1,4}\.|[A-H]\.)$", txt) and not nxt.startswith("#"):
+                if nxt.startswith("Identifying the Lead Project Authority In line with "):
+                    merged.append(f"{hashes} {txt} Identifying the Lead Project Authority")
+                    blocks[i + 1] = nxt[len("Identifying the Lead Project Authority ") :].strip()
+                    i += 1
+                    continue
+                if (
+                    "\n" not in nxt
+                    and len(nxt) <= 220
+                    and not nxt.endswith(".")
+                    and re.match(r"^[A-ZÄÖÜÉÈÊÀÁÍÓÚÑ]", nxt)
+                ):
+                    merged.append(f"{hashes} {txt} {nxt}")
+                    i += 2
+                    continue
             # Unnumbered heading followed immediately by a plain block starting with a lowercase letter -> sentence wrap!
             if not sec_id and not nxt.startswith("#") and re.match(r"^(?:[a-z]|\d+(?:\.\d+)?\s+[a-z])", nxt):
                 merged.append(f"{txt} {nxt}")
@@ -1075,6 +1143,13 @@ def postprocess_markdown_structure(md: str, doc_title: str) -> str:
             elif in_sec and re.match(r"^###\s+\d{1,2}\.\s+", b):
                 fixed_rev[idx_b] = "#" + b
     blocks = fixed_rev
+
+    # Pass 3b: Promote `### Chapter N` / `### Part N` / `### Pillar N` to `##` when no numbered `##` exists
+    if not any(b.startswith("## ") and parse_heading(b[3:].strip())[0] != "" for b in blocks):
+        if any(re.match(r"^###\s+(?:Chapter|Part|Pillar)\s+(?:[IVXLCDM]+|\d+)\b", b, re.I) for b in blocks):
+            for idx_b, b in enumerate(blocks):
+                if re.match(r"^###\s+(?:Chapter|Part|Pillar)\s+(?:[IVXLCDM]+|\d+)\b", b, re.I):
+                    blocks[idx_b] = b[1:]  # `### Chapter N` -> `## Chapter N`
 
     # Pass 4: Merge or resolve consecutive headings that have NO intervening body prose
     changed = True
@@ -1258,6 +1333,7 @@ _BLOCKED_HTML_SUBSTRINGS = (
     "pa.go.kr/research/",
     "president.go.kr",
     "korea.kr/special/policycurationview",
+    "msit.go.kr/",
     "nstc.gov.tw",
     "ised-isde.canada.ca/site/ised/en/pan-canadian-artificial-intelligence-strategy",
     "cybersecurity.gov.au/about-us/strategies-and-action-plans",
@@ -1408,29 +1484,53 @@ def extract_edition(item: dict) -> dict:
             except Exception:
                 pass
 
-    doc_dir = REPO_ROOT / item["rel_dir"]
-    doc_dir.mkdir(parents=True, exist_ok=True)
     stem = item["stem"]
+
+    # If live/Wayback fetch failed transiently, preserve an already-extracted document on disk
+    # (from either public or private repo) unless its previous textUsed URL is now in `_BLOCKED_HTML_SUBSTRINGS`.
+    if not best_md:
+        for cand_root in (REPO_ROOT, PRIVATE_REPO_ROOT):
+            cand_dir = cand_root / item["rel_dir"]
+            cand_md = cand_dir / f"{stem}.md"
+            cand_meta = cand_dir / f"{stem}-metadata.json"
+            if cand_md.exists() and cand_meta.exists():
+                try:
+                    prev_meta = json.loads(cand_meta.read_text(encoding="utf-8"))
+                    prev_url = (prev_meta.get("links") or {}).get("textUsed") or ""
+                    prev_tool = (prev_meta.get("current_extraction") or {}).get("tool") or ""
+                    prev_notes = (prev_meta.get("current_extraction") or {}).get("notes") or ""
+                    if prev_url and not any(b in prev_url.lower() for b in _BLOCKED_HTML_SUBSTRINGS):
+                        best_md = cand_md.read_text(encoding="utf-8")
+                        best_url = prev_url
+                        best_tool = prev_tool or "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+                        best_notes = re.sub(r"\s*Parsed\s+\d+\s+sections.*$", "", prev_notes).strip()
+                        break
+                except Exception:
+                    pass
+
+    lic_obj = license_for_tld(item["tld"], ns, md_text=best_md, secid=item["secid"])
+    is_public = bool(lic_obj.get("publicly_redistributable", True))
+    target_root = REPO_ROOT if is_public else PRIVATE_REPO_ROOT
+    other_root = PRIVATE_REPO_ROOT if is_public else REPO_ROOT
+
+    # Clean up any stale copy in the other repository so public/private separation is strictly enforced
+    other_dir = other_root / item["rel_dir"]
+    if other_dir.exists():
+        shutil.rmtree(other_dir)
+        parent_p = other_dir.parent
+        while parent_p != other_root / "reference" and parent_p != other_root:
+            try:
+                parent_p.rmdir()
+            except OSError:
+                break
+            parent_p = parent_p.parent
+
+    doc_dir = target_root / item["rel_dir"]
+    doc_dir.mkdir(parents=True, exist_ok=True)
     md_path = doc_dir / f"{stem}.md"
     sec_json_path = doc_dir / f"{stem}-sections.json"
     sec_csv_path = doc_dir / f"{stem}-sections.csv"
     meta_path = doc_dir / f"{stem}-metadata.json"
-
-    # If live/Wayback fetch failed transiently, preserve an already-extracted document on disk
-    # unless its previous textUsed URL is now in `_BLOCKED_HTML_SUBSTRINGS`.
-    if not best_md and md_path.exists() and meta_path.exists():
-        try:
-            prev_meta = json.loads(meta_path.read_text(encoding="utf-8"))
-            prev_url = (prev_meta.get("links") or {}).get("textUsed") or ""
-            prev_tool = (prev_meta.get("current_extraction") or {}).get("tool") or ""
-            prev_notes = (prev_meta.get("current_extraction") or {}).get("notes") or ""
-            if prev_url and not any(b in prev_url.lower() for b in _BLOCKED_HTML_SUBSTRINGS):
-                best_md = md_path.read_text(encoding="utf-8")
-                best_url = prev_url
-                best_tool = prev_tool or "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
-                best_notes = re.sub(r"\s*Parsed\s+\d+\s+sections.*$", "", prev_notes).strip()
-        except Exception:
-            pass
 
     if not best_md:
         # Clean up any stale or synthetic extraction artifacts and record honest metadata-only state
@@ -1461,7 +1561,7 @@ def extract_edition(item: dict) -> dict:
                 f"Addresses strategic emerging technology governance, AI security/capability priorities, and "
                 f"national resilience policy for {item['issuer']} ({ns})."
             ),
-            license_obj=license_for_tld(item["tld"], ns, md_text="", secid=item["secid"]),
+            license_obj=lic_obj,
             source_url=orig_url,
             text_used_url="",
             published=item["published"],
@@ -1477,6 +1577,7 @@ def extract_edition(item: dict) -> dict:
         return {
             "secid": item["secid"],
             "rel_dir": item["rel_dir"],
+            "repo": target_root.name,
             "chars": 0,
             "sections": 0,
             "with_id": 0,
@@ -1508,7 +1609,7 @@ def extract_edition(item: dict) -> dict:
             f"Addresses strategic emerging technology governance, AI security/capability priorities, and "
             f"national resilience policy for {item['issuer']} ({ns})."
         ),
-        license_obj=license_for_tld(item["tld"], ns, md_text=best_md, secid=item["secid"]),
+        license_obj=lic_obj,
         source_url=orig_url,
         text_used_url=best_url,
         published=item["published"],
@@ -1524,6 +1625,7 @@ def extract_edition(item: dict) -> dict:
     return {
         "secid": item["secid"],
         "rel_dir": item["rel_dir"],
+        "repo": target_root.name,
         "chars": len(best_md),
         "sections": n_sec,
         "with_id": n_id,
@@ -1622,7 +1724,8 @@ def collect_wave_editions(target_tlds: set[str], skip_existing: bool = True) -> 
                         continue
                     stem = f"{name}-{v}"
                     meta_path = REPO_ROOT / rel_dir / f"{stem}-metadata.json"
-                    if skip_existing and meta_path.exists():
+                    priv_meta_path = PRIVATE_REPO_ROOT / rel_dir / f"{stem}-metadata.json"
+                    if skip_existing and (meta_path.exists() or priv_meta_path.exists()):
                         continue
                     vinfo = ver_map[v]
                     secid = f"secid:reference/{ns}/{name}@{v}"
@@ -1668,7 +1771,8 @@ def collect_wave_editions(target_tlds: set[str], skip_existing: bool = True) -> 
                     continue
                 stem = name
                 meta_path = REPO_ROOT / rel_dir / f"{stem}-metadata.json"
-                if skip_existing and meta_path.exists():
+                priv_meta_path = PRIVATE_REPO_ROOT / rel_dir / f"{stem}-metadata.json"
+                if skip_existing and (meta_path.exists() or priv_meta_path.exists()):
                     continue
                 items.append({
                     "tld": tld,

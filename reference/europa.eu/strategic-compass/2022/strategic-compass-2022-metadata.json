@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 47-page PDF (https://data.consilium.europa.eu/doc/document/ST-7371-2022-INIT/en/pdf) locally via PyMuPDF (141,309 chars). Parsed 8 sections (3 with explicit section identifiers)."
+    "notes": "Extracted 47-page PDF (https://data.consilium.europa.eu/doc/document/ST-7371-2022-INIT/en/pdf) locally via PyMuPDF (141,307 chars). Parsed 8 sections (5 with explicit section identifiers)."
   },
   "extraction_history": [
     {

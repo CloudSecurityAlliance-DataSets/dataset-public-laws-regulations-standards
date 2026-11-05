@@ -54,7 +54,7 @@ Zum ersten Mal formulieren wir unsere Politik so umfassend in einer Nationalen S
 
 Annalena Baerbock, Bundesministerin des Auswärtigen der Bundesrepublik Deutschland
 
-## 30
+30
 
 Wehrhaft: Frieden in Freiheit
 
@@ -64,7 +64,9 @@ Nachhaltig: Die Sicherheit
 
 Deutschland in Europa und der Welt.
 
-## 18 — 46
+18
+
+46
 
 Resilient: Die Sicherung unserer Werte durch innere Stärke
 

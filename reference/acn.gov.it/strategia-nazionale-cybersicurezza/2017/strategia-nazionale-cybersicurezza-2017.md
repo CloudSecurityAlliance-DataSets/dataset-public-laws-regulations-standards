@@ -160,7 +160,7 @@ La visione sistematica che informa il presente piano d’azione è volta ad assi
 
 La protezione cibernetica e la sicurezza informatica nazionali, per essere efficacemente per­ seguite, presuppongono, in prima istanza, un’approfondita conoscenza delle vulnerabilità – non solo del fattore tecnologico ma anche di quello umano – e delle minacce cibernetiche che le sfruttano, al fine rendere le reti e i sistemi, in particolare nel caso delle infrastrutture critiche, più resilienti, assicurando, al contempo, l’efficacia del contrasto.
 
-1.1 Analisi delle minacce e delle vulnerabilità
+### 1.1 Analisi delle minacce e delle vulnerabilità
 
 a. Analizzare e valutare in modo continua­
 
@@ -174,7 +174,7 @@ ricerca, anche privati, per l’elaborazio­ ne di metodologie e tecnologie inno
 
 1.2 Sviluppo delle capacità di raccol­ ta, elaborazione e disseminazione delle informazioni (cyber intel­ ligence), nonché della gestione della conoscenza che ne deriva (knowledge management)
 
-1.3 Sviluppo delle capacità di contra­ sto alla minaccia cibernetica
+### 1.3 Sviluppo delle capacità di contra­ sto alla minaccia cibernetica
 
 a. Potenziare le capacità di cyber intelligence b. Sviluppare capacità e procedure per
 
@@ -192,7 +192,7 @@ tegrata, secondo protocolli e regole d’ingaggio prestabiliti, ad incidenti in�
 
 Potenziamento delle capacità di intelligence, di polizia e di difesa civile e militare
 
-1.4 Sviluppo delle capacità operative fondamentali, idonee ad espleta­ re i compiti della Difesa nell’am­ biente cibernetico
+### 1.4 Sviluppo delle capacità operative fondamentali, idonee ad espleta­ re i compiti della Difesa nell’am­ biente cibernetico
 
 a. Potenziare le strutture preposte alla
 
@@ -218,7 +218,7 @@ Potenziamento dell’organizzazione e delle modalità di coordinamento e di inte
 
 2.2 Strumenti di cooperazione tra il settore Pubblico ed il settore Privato
 
-2.3 Partecipazione degli operatori privati ad eventi di sicurezza cibernetica anche internazionali, a livello bilaterale e multilaterale
+### 2.3 Partecipazione degli operatori privati ad eventi di sicurezza cibernetica anche internazionali, a livello bilaterale e multilaterale
 
 a. Elaborare una metodologia per l’iden­
 
@@ -248,7 +248,7 @@ La formazione e l’addestramento nel settore della sicurezza informatica sono s
 
 3.2 Promozione e diffusione del­ la cultura della sicurezza informatica
 
-3.3 Educazione, formazione e addestramento
+### 3.3 Educazione, formazione e addestramento
 
 strategico internazionale, aggiornare i concetti e sviluppare le dottrine sulle attività cibernetiche anche attraverso l’individuazione delle best practices in­ ternazionali
 
@@ -280,7 +280,7 @@ teria
 
 Il carattere per definizione transnazionale della minaccia cibernetica e la sua pervasività richiedono un approccio internazionale alla tematica, posto che i singoli Stati devono necessa­ riamente agire sinergicamente per far fronte alla stessa. Ciò presuppone, necessariamente, un comune livello di preparazione e di interoperabilità.
 
-4.1 Rafforzamento della cooperazio­ ne bilaterale e multilaterale
+### 4.1 Rafforzamento della cooperazio­ ne bilaterale e multilaterale
 
 a. Instaurare rapporti strutturati di co­
 
@@ -296,7 +296,7 @@ zioni nazionali di sicurezza informatica (es. Cyber Italy), stimolando la partec
 
 Cooperazione internazionale ed esercitazioni
 
-4.3 Progetti dell’Unione Europea e di organizzazioni internazionali
+### 4.3 Progetti dell’Unione Europea e di organizzazioni internazionali
 
 b. Coordinare la partecipazione nazionale,
 
@@ -312,7 +312,7 @@ organizzazioni internazionali
 
 L’approntamento di capacità di prevenzione e reazione ad eventi cibernetici richiede lo svi­ luppo di Computer Emergency Response Team (CERT) quali soggetti erogatori di servizi di assi­ stenza tecnica, ricerca e sviluppo, formazione e informazione per i rispettivi utenti, pubblici e/o privati. La Direttiva NIS prevede, quantomeno a favore dei gestori di servizi essenziali, la costitu­ zione dei Computer Security Incident Response Team (CSIRT), una nuova tipologia di organismo intesa quale evoluzione dei CERT in grado di assicurare una effettiva capacità di assistenza e sup­ porto attivo alla propria constituency in caso di evento cibernetico. Nel contesto del recepimento delle novità introdotte dalla Direttiva NIS, occorre ridefinire il ruolo rivestito dagli attori presenti nell’attuale architettura nazionale (i vari CERT) e quelli che vi faranno ingresso (oltre a CSIRT, Autorità nazionale/i e punto unico di contatto). Nelle more del recepimento della direttiva NIS, sarà avviato un processo di progressiva unificazione dei CERT pubblici per sancire, nei settori di interesse strategico, la competenza esclusiva di un CERT nazionale unico, ovvero per creare una rete nazionale di CERT individuando un soggetto con poteri di coordinamento.
 
-5.1 Sviluppo di una capacità nazio­ nale integrata di incident pre­ vention, response e remediation
+### 5.1 Sviluppo di una capacità nazio­ nale integrata di incident pre­ vention, response e remediation
 
 a. Istituire un punto unico di contatto e uno
 
@@ -338,7 +338,7 @@ matici che hanno comportato la perdita o la sottrazione di informazioni (classif
 
 dei CERT, prevedendo l’eventuale ade­ guamento dei rispettivi compiti e dota­ zioni alla luce delle modalità con le quali sarà implementa l’architettura nazionale al fine di recepire la Direttiva NIS (Auto­ rità nazionale, CSIRT, ecc.).
 
-5.3 Procedure per l’acquisizione di beni e servizi
+### 5.3 Procedure per l’acquisizione di beni e servizi
 
 b. Incrementare l’efficacia dell’azione dei
 
@@ -358,7 +358,7 @@ ci coinvolti nel relativo processo (AgID, ANAC, Corte dei Conti, Consip, ecc.), 
 
 La rapida evoluzione tecnologico-informatica comporta un’altrettanto veloce obsolescenza delle norme che disciplinano materie correlate alle tecnologie dell’informazione e della comunica­ zione. Pertanto, esse necessitano di periodiche revisioni e aggiornamenti, oltre che di integrazioni, anche per creare un substrato giuridico alle attività condotte ai fini della protezione cibernetica e della sicurezza informatica e per responsabilizzare gli amministratori e gli utenti delle operazioni da questi compiute sui sistemi loro assegnati.
 
-6.1 Revisione e consolidamento della legislazione in materia di sicurez­ za informatica
+### 6.1 Revisione e consolidamento della legislazione in materia di sicurez­ za informatica
 
 a. Mettere a sistema conoscenze giuridi­
 
@@ -370,7 +370,7 @@ vo alle infrastrutture critiche nazionali informatizzate, pubbliche e private, v
 
 6.2 Definizione di un quadro giuri­ dico adeguato per supportare attività di sicurezza in materia cyber
 
-6.3 Attribuzione di responsabilità e sanzione delle violazioni
+### 6.3 Attribuzione di responsabilità e sanzione delle violazioni
 
 d. Semplificare e armonizzare gli adempi­
 
@@ -390,7 +390,7 @@ metodologia di riferimento al fine di identificare gli strumenti tecnici, in­ c
 
 Interventi legislativi e compliance con obblighi internazionali
 
-6.4 Direttiva (UE) 2016/1148 recante misure per un livello comune elevato di sicurezza delle reti e dei sistemi informativi nell’Unione
+### 6.4 Direttiva (UE) 2016/1148 recante misure per un livello comune elevato di sicurezza delle reti e dei sistemi informativi nell’Unione
 
 a. Promuovere il confronto con Istituzio­
 
@@ -422,7 +422,7 @@ riferimento quali manuali, elenchi di procedure standard e raccomandazioni (best
 
 7.3 Revisione documenti di gestione a. Sottoporre a revisione ed aggiornamen­
 
-7.4 Certificazioni e valutazioni di sicurezza
+### 7.4 Certificazioni e valutazioni di sicurezza
 
 to periodico la documentazione (nor­ me, procedure, ecc.) relativa alla gestio­ ne della sicurezza dei sistemi e delle reti
 
@@ -436,7 +436,7 @@ tro Valutazione – quale laboratorio di sicurezza informatica che opera nella v
 
 indirizzo degli accordi di mutuo rico­ noscimento internazionale nel settore delle certificazioni e. Ampliare lo spettro d’azione del DIS-UCSe ai fini del rilascio delle certificazioni di sicurezza e omologazioni di apparati e sistemi che gestiscono informazioni classificate, prevedendo procedure di verifica estese anche agli ambiti non classificati onde valutare la sicurezza complessiva dei sistemi in uso (classificati e non)
 
-7.5 Verifica delle misure cyber defen­ ce applicate a gestori di servizi essenziali e infrastrutture critiche
+### 7.5 Verifica delle misure cyber defen­ ce applicate a gestori di servizi essenziali e infrastrutture critiche
 
 a. Effettuare test periodici dei sistemi di
 
@@ -448,7 +448,7 @@ dente (es. audit esterno)
 
 La garanzia dell’affidabilità e della sicurezza di componenti hardware e software prodotte nell’Unione Europea e nei Paesi terzi, specie di quelle impiegate da infrastrutture critiche e da soggetti che svolgono attività di rilevanza strategica per il Paese, rappresenta un obiettivo conse­ guibile solo se tutti gli attori della catena del valore (produttori di componenti hardware, svilup­ patori di software, fornitori di servizi della società dell’informazione) faranno della sicurezza una priorità.
 
-8.1 Produzione, Innovazione e Cooperazione Tecnologica
+### 8.1 Produzione, Innovazione e Cooperazione Tecnologica
 
 a. Favorire la realizzazione di una catena
 
@@ -458,7 +458,7 @@ tando anche l’introduzione di meccani­ smi incentivanti, per lo sviluppo di u
 
 multilaterali e bilaterali per favorire le funzioni di ricerca e sviluppo nazionali nel contesto europeo e internazionale
 
-8.2 Implementazione di un labo­ ratorio governativo di analisi comparativa
+### 8.2 Implementazione di un labo­ ratorio governativo di analisi comparativa
 
 a. Favorire la costituzione di un labora­
 
@@ -468,7 +468,7 @@ torio governativo di verifica che sotto­ ponga ad analisi comparativa i sistemi
 
 La comunicazione circa un evento cibernetico occorso e le relative conseguenze assume un’im­ portanza strategica, in quanto le singole Amministrazioni interessate ed i soggetti privati gestori di servizi essenziali devono essere in grado di fornire, ove necessario o opportuno, un’informazio­ ne completa, corretta, veritiera e trasparente, senza con ciò creare inutili allarmismi che verreb­ bero ad amplificare l’impatto economico e sociale dell’evento stesso.
 
-9.1 Comunicazione strategica e operativa
+### 9.1 Comunicazione strategica e operativa
 
 a. Sviluppare un coordinamento sulla
 
@@ -480,7 +480,7 @@ Punto di partenza per un’oculata pianificazione finanziaria e per la ripartizi
 
 10.1 Pianificazione finanziaria e aspetti economici
 
-10.2 Misurazione dei costi ricon­ ducibili ad eventi di natura cibernetica
+### 10.2 Misurazione dei costi ricon­ ducibili ad eventi di natura cibernetica
 
 a. Definire le priorità e i costi associati alle
 

@@ -69,7 +69,15 @@
     "section_name": "Empower our workers as our first line of cyber defence, our ‘human firewall’",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "a. Build cyber awareness within Australia’s workforce and supply chains.\n\n1.2 Make it easier for small and medium businesses, and the not-for-profit sector, to strengthen their cyber security\n\na. Simplify cyber security for small and medium businesses and provide targeted\n\nand actionable support through a new CyberSmart program. b. Drive cyber uplift and maturity for the not-for-profit sector. c. Offer tailored advice to support small and medium businesses, not-for-profits\n\nand individuals"
+    "body": "a. Build cyber awareness within Australia’s workforce and supply chains."
+  },
+  {
+    "depth": 3,
+    "section_id": "1.2 (1)",
+    "section_name": "Make it easier for small and medium businesses, and the not-for-profit sector, to strengthen their cyber security",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "a. Simplify cyber security for small and medium businesses and provide targeted\n\nand actionable support through a new CyberSmart program. b. Drive cyber uplift and maturity for the not-for-profit sector. c. Offer tailored advice to support small and medium businesses, not-for-profits\n\nand individuals"
   },
   {
     "depth": 3,
@@ -113,7 +121,7 @@
   },
   {
     "depth": 3,
-    "section_id": "1.2",
+    "section_id": "1.2 (2)",
     "section_name": "Make it easier for small and medium businesses, and the not-for-profit sector, to strengthen their cyber security",
     "id_kind": "numbered",
     "parent_id": "",

@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 59-page PDF (https://www.enisa.europa.eu/sites/default/files/publications/Updated%20Good%20Practice%20Guide%20on%20NCSS.pdf) locally via PyMuPDF (150,610 chars). Parsed 46 sections (7 with explicit section identifiers)."
+    "notes": "Extracted 59-page PDF (https://www.enisa.europa.eu/sites/default/files/publications/Updated%20Good%20Practice%20Guide%20on%20NCSS.pdf) locally via PyMuPDF (150,622 chars). Parsed 49 sections (10 with explicit section identifiers)."
   },
   "extraction_history": [
     {

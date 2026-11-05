@@ -26,7 +26,7 @@
   "links": {
     "wikipedia": "",
     "source": "https://www.msit.go.kr/eng/bbs/view.do?sCode=eng&mId=4&bbsSeqNo=42&nttSeqNo=1037",
-    "textUsed": "https://www.msit.go.kr/ssm/file/fileDown.do?atchFileNo=47317&fileOrd=1&fileBtn=A",
+    "textUsed": "",
     "csaLocation": ""
   },
   "lifecycle": {
@@ -37,27 +37,12 @@
     "retiredFromActiveUse": null,
     "notes": ""
   },
-  "current_extraction": {
-    "s3_timestamp": "2026-11-04T05-00-00Z",
-    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
-    "tool_version": "1.0",
-    "extraction_host": "local",
-    "flags": [],
-    "force_ocr": false,
-    "notes": "Extracted 8-page PDF (https://www.msit.go.kr/ssm/file/fileDown.do?atchFileNo=47317&fileOrd=1&fileBtn=A) locally via PyMuPDF (7,719 chars). Parsed 8 sections (0 with explicit section identifiers)."
-  },
-  "extraction_history": [
-    {
-      "s3_timestamp": "2026-11-04T05-00-00Z",
-      "status": "current",
-      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
-      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
-    }
-  ],
+  "current_extraction": null,
+  "extraction_history": [],
   "scope": {},
-  "notes": "",
+  "notes": "Official primary full-text document for secid:reference/president.go.kr/national-ai-strategy@2024 (https://www.msit.go.kr/eng/bbs/view.do?sCode=eng&mId=4&bbsSeqNo=42&nttSeqNo=1037) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
   "desired_end_state": {
-    "state": "extracted",
-    "reason": "policy-doc"
+    "state": "metadata-only",
+    "reason": "source-unavailable"
   }
 }

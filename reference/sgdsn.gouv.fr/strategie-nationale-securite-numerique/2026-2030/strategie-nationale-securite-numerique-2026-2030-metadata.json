@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 36-page PDF (https://www.sgdsn.gouv.fr/files/files/National%20cybersecurity%20strategy_ENG.pdf) locally via PyMuPDF (36,862 chars). Parsed 26 sections (14 with explicit section identifiers)."
+    "notes": "Extracted 36-page PDF (https://www.sgdsn.gouv.fr/files/files/National%20cybersecurity%20strategy_ENG.pdf) locally via PyMuPDF (36,862 chars). Parsed 27 sections (14 with explicit section identifiers)."
   },
   "extraction_history": [
     {

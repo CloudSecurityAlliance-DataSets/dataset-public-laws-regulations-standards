@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 40-page PDF (https://www.governo.it/sites/governo.it/files/piano-nazionale-cyber-2017.pdf) locally via PyMuPDF (46,799 chars). Parsed 20 sections (0 with explicit section identifiers)."
+    "notes": "Extracted 40-page PDF (https://www.governo.it/sites/governo.it/files/piano-nazionale-cyber-2017.pdf) locally via PyMuPDF (46,887 chars). Parsed 38 sections (18 with explicit section identifiers)."
   },
   "extraction_history": [
     {

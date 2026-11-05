@@ -16,7 +16,7 @@ COUNCIL
 
 Resilience, Deterrence and Defence: Building strong cybersecurity for the EU
 
-1. INTRODUCTION
+## 1. INTRODUCTION
 
 Cybersecurity is critical to both our prosperity and our security. As our daily lives and economies become increasingly dependent on digital technologies, we become more and more exposed. Cybersecurity incidents are diversifying both in terms of who is responsible and what they seek to achieve. Malicious cyber activities not only threaten our economies and the drive to the Digital Single Market, but also the very functioning of our democracies, our freedoms and our values. Our future security depends on transforming our ability to protect the EU against cyber threats: both civilian infrastructure and military capacity rely on secure digital systems. This has been recognised by the June 2017 European Council1, as well as in the Global Strategy on Foreign and Security Policy for the European Union.2
 
@@ -36,15 +36,13 @@ The EU is already working on many of these issues: it is now time to draw the va
 
 The EU is well placed to address cybersecurity, given the scope of its policies and the tools, structures and capabilities at its disposal. While Member States remain responsible for national security, the scale and cross-border nature of the threat make a powerful case for EU action providing incentives and support for Member States to develop and maintain more and better national cybersecurity capabilities, while at the same time building EU-level capacity. This approach is designed to galvanise all actors – the EU, Member States, industry and individuals – to give cybersecurity the priority it needs to build resilience and deliver a better EU response to cyber-attacks. It will bring concrete steps to help detect and investigate any form of cyber incidents against the EU and its Member States and to respond appropriately, including by prosecuting criminals. It will enable EU external action to effectively promote cybersecurity on the global stage. The result will be a shift for the EU from a reactive to a proactive approach to protecting European prosperity, society and values, as well as fundamental rights and freedoms, through responding to both existing and future threats.
 
-2. BUILDING EU RESILIENCE TO CYBER ATTACKS
+## 2. BUILDING EU RESILIENCE TO CYBER ATTACKS
 
 Strong cyber resilience needs a collective and wide-ranging approach. This calls for more robust and effective structures to promote cybersecurity and to respond to cyber-attacks in the Member States but also in the EU's own institutions, agencies and bodies. It also requires a more comprehensive, cross-policy approach to building cyber-resilience and strategic autonomy, with a strong Single Market, major advances in the EU's technological capability, and far greater numbers of skilled experts. At the heart of this is a broader acceptance that cybersecurity is a common societal challenge, so that multiple layers of government, economy and society should be involved.
 
 9 COM(2015) 185 final. 10 JOIN(2016) 18 final. 11 COM(2017) 295. 12 The approach is also substantiated by independent scientific advice provided by the European Commission’s Scientific Advice Mechanism High Level Group of scientific advisors (see references below). 13 JOIN(2013) 1 final. An assessment of this strategy is available in SWD (2017) 295. 14 Unless otherwise stated, proposals in this Communication are budgetary neutral. Any initiative having budgetary implications will duly follow the annual budget procedures and cannot prejudge the next Multi- Annual Financial Framework post-2020.
 
-### 2.1
-
-Strengthening the European Union Agency for Network and Information Security
+### 2.1 Strengthening the European Union Agency for Network and Information Security
 
 The European Union Agency for Network and Information Security (ENISA) has a key role to play in strengthening EU cyber resilience and response but is constrained by its current mandate. The Commission is therefore presenting an ambitious reform proposal, including a permanent mandate for the agency.15 This will ensure that ENISA can provide support to Member States, EU institutions and businesses in key areas, including the implementation of the Directive on the Security of Network and Information Systems16 (the "NIS Directive") and the proposed cybersecurity certification Framework.
 
@@ -52,9 +50,7 @@ The reformed ENISA will have a strong advisory role on policy development and im
 
 A rapid and shared understanding of threats and incidents as they unfold is a prerequisite for deciding whether joint mitigation or response action supported by the EU is needed. Such information exchange requires the involvement of all relevant actors – EU bodies and agencies, as well as Member States – at technical, operational and strategic levels. ENISA, in cooperation with the relevant bodies at Member State and EU level, notably the network of Computer security incident response teams17, CERT-EU, Europol and the EU Intelligence and Situation Centre (INTCEN), will also contribute to EU-level situational awareness. This can be fed into threat intelligence and policy-making in the context of regular monitoring of the threat landscape and effective operational cooperation, as well as in response to large-scale cross-border incidents.
 
-### 2.2
-
-Towards a Single Cybersecurity Market
+### 2.2 Towards a Single Cybersecurity Market
 
 The growth of the cybersecurity market in the EU – in terms of products, services and processes – is held back in a number of ways. A key aspect is the lack of cybersecurity certification schemes recognised across the EU to build higher standards of resilience into products and to underpin EU-wide market confidence. The Commission is therefore putting forward a proposal to set up an EU cybersecurity certification framework.18 The Framework would lay down the procedure for the creation of EU-wide cybersecurity certification schemes, covering products, services and/or systems, which adapt the level of assurance to the use involved (be it critical infrastructures or consumer devices).19 It would bring clear benefits to businesses by avoiding the need to go through several certification processes when trading across borders, thereby limiting administrative and financial costs. The use of schemes developed under this Framework would also help build consumers'
 
@@ -94,9 +90,7 @@ The Commission has already highlighted the specific issues concerning liability 
 
 Finally, the development of the EU single market is also dependent on factoring cybersecurity into policy on trade and investment. The effect of foreign acquisitions on critical technologies – of which cybersecurity is an important example – is a key aspect in the framework for the screening of foreign direct investment in the European Union31, which aims to enable the screening of investments from third countries on the grounds of security and public order. By the same token, cybersecurity requirements have already created trade barriers for EU goods and services in important sectors in a number of third country economies. The EU cybersecurity certification framework will further strengthen Europe's international position, and should be complemented by continued efforts towards the development of high-security global standards and mutual recognition agreements.
 
-### 2.3
-
-Implementing the Directive on the Security of Network and Information Systems in full
+### 2.3 Implementing the Directive on the Security of Network and Information Systems in full
 
 With the main tools to combat cybersecurity today in national hands, the EU has recognised the need to drive standards higher. Large-scale cybersecurity incidents rarely affect only one Member State due to the increasingly globalised, digitally-reliant and interconnected nature of key sectors such as banking, energy or transport.
 
@@ -108,9 +102,7 @@ Full implementation of the Directive by all Member States by May 2018 is essenti
 
 An area where the Directive will need to be supplemented is information flow. For example, the Directive only covers key strategic sectors – but logically a similar approach by all stakeholders hit by cyberattacks would be necessary to have a systematic assessment of vulnerabilities and entry points for cyber attackers. In addition, cooperation and information sharing between the public and private sectors faces a number of obstacles. Governments and public authorities are reluctant to share cybersecurity-relevant information for fear of compromising national security or competitiveness. Private undertakings are reluctant to share information on their cyber vulnerabilities and resulting losses for fear of compromising sensitive business information, risking their reputation or risking breaching data protection rules.34 Trust needs to be strengthened for public-private partnerships to underpin wider cooperation and sharing of information across a greater number of sectors. The role of Information Sharing and Analysis Centres is particularly important in creating the necessary trust for sharing information between private and public sector. Some first steps have been taken in respect of specific critical sectors such as aviation, through the creation of the European Center for Cybersecurity in Aviation,35 and energy, by developing Information Sharing and Analysis Centres.36 The Commission will contribute in full to this approach with support from ENISA, with an acceleration needed in particular with regard to sectors providing essential services as identified in the NIS Directive.
 
-### 2.4
-
-Resilience through rapid emergency response
+### 2.4 Resilience through rapid emergency response
 
 When a cyber-attack takes place, a fast and effective response can mitigate its impact. This can also demonstrate that public authorities are not powerless in the face of cyber-attacks, and contribute to building trust. As regards the EU institutions' own response, in the first instance 32 Directive 2016/1148 of the European Parliament and of the Council of 6 July 2016 concerning measures for a high common level of security of network and information systems across the Union. 33 COM(2017) 476. 34 Cybersecurity in the European Digital Single Market, High level group of Scientific Advisors, March 2017. A specific issue concerns trade secrets, where the July 2016 Communication "Strengthening Europe's Cyber Resilience System" noted the reticence to report the cyber theft of trade secrets and the importance of trusted reporting channels ensuring confidentiality. 35 https://www.easa.europa.eu/newsroom-and-events/news/implementation-european-centre-cyber-security-aviationeccsa. 36 These are non-profit, member-driven organisations formed by private and public entities to share information on cyber threats, risks, prevention, mitigation and response. See e.g. the European Energy Information Sharing and Analysis Centres (http://www.ee-isac.eu).
 
@@ -120,9 +112,7 @@ A fast and effective response also relies on a swift information exchange mechan
 
 Given that cybersecurity incidents might substantially impact the functioning of economies and the daily lives of people, an option would be to investigate the possibility of a Cybersecurity Emergency Response Fund, following the example of other such crisis mechanisms in other EU policy areas. This would allow Member States to seek help at the EU level during or following a major incident, provided that the Member State had put in place a prudent system of cybersecurity prior to the incident, including full implementation of the NIS Directive, mature risk management and supervisory frameworks at national level. Such a Fund, complementing existing crisis management mechanisms at EU level, could deploy a rapid response capability in the interests of solidarity and finance specific emergency response actions such as replacing compromised equipment or deploying mitigation or response tools, drawing on national expertise along the lines of the EU Civil Protection Mechanism.
 
-### 2.5
-
-A cybersecurity competence network with a European Cybersecurity Research and Competence Centre
+### 2.5 A cybersecurity competence network with a European Cybersecurity Research and Competence Centre
 
 The technological tools of cybersecurity are strategic assets, as well as being key growth technologies for the future. It is in the EU's strategic interest to ensure that the EU retains and develops the essential capacities to secure its digital economy, society and democracy, to protect critical hardware and software and to provide key cybersecurity services.
 
@@ -148,9 +138,7 @@ As the EU civilian and defence cybersecurity markets share common challenges49 a
 
 The high level of resilience required in cyber defence calls for specific targeting of research and technology efforts. The cyber defence projects or technologies developed by undertakings could benefit from European Defence Fund financing when it comes to both the research and development phase.50 Specific areas such as encryption systems based on quantum technologies, cyber situational awareness, biometric access control systems, Advanced Persistent Threats detection, or data mining could be particularly relevant in this context. The High Representative, the European Defence Agency and the Commission will support Member States in identifying areas where common cybersecurity projects could be considered for financing by the European Defence Fund.
 
-### 2.6
-
-Building a strong EU cyber skills base
+### 2.6 Building a strong EU cyber skills base
 
 There is a strong education dimension to cyber security. Effective cybersecurity relies heavily on the skills of the people concerned. But the cybersecurity skills gap for professionals working in the private sector in Europe is predicted to be 350,000 by 2022.51 Cybersecurity education should be developed at all levels, starting from regular training of a cyber workforce, additional cybersecurity training for all ICT specialists, and new specific cybersecurity curricula. Strong academic competence centres should be established to meet the demands for accelerated education and training, which could draw on guidance from a European Cybersecurity Research and Competence Centre and ENISA. The goal should be that it becomes natural to design ICT products and systems which incorporate security principles from the very beginning. Cybersecurity education should not be limited to IT professionals, but should be mainstreamed in curricula for other areas, such as engineering, business management or law, as well as for sector-specific education tracks. Finally, teachers
 
@@ -160,9 +148,7 @@ and pupils in primary and secondary education should be sensitised to cybercrime
 
 The EU, together with the Member States, should also make a contribution to this work by building on the work of the Digital Skills and Jobs Coalition52 and by putting in place, for example, apprenticeship schemes in cybersecurity for SMEs.
 
-### 2.7
-
-Promoting cyber hygiene and awareness
+### 2.7 Promoting cyber hygiene and awareness
 
 With some 95 % of incidents said to be enabled by "some type of human error – intentional or not",53 there is a strong human factor at play. So cybersecurity is everyone's responsibility. This means personal, corporate and public administration behaviour must change to ensure everybody understands the threat, and is equipped with the tools and skills necessary to quickly detect and actively protect themselves against attacks. People need to develop cyber hygiene habits and businesses and organisations must adopt appropriate risk-based cybersecurity programmes and update them regularly to reflect the evolving risk landscape.
 
@@ -196,7 +182,7 @@ government and awareness campaigns;  Action by industry to step up cybersecur
 
 "security by design" approach for their products, services and processes.
 
-3. CREATING EFFECTIVE EU CYBER DETERRENCE
+## 3. CREATING EFFECTIVE EU CYBER DETERRENCE
 
 Effective deterrence means putting in place a framework of measures that are both credible and dissuasive for would-be cyber criminals and attackers. As long as the perpetrators of cyber-attacks – both non-state and state – have nothing to fear besides failure, they will have little incentive to stop trying. A more effective law enforcement response focusing on detection, traceability and prosecution of cyber criminals is central to building effective
 
@@ -206,9 +192,7 @@ deterrence. Added to this is the need for the EU to support its Member States in
 
 One step towards improving the criminal law response to cyber-attacks was already taken with the adoption in 2013 of the Directive on attacks against information systems.59 This established minimum rules concerning the definition of criminal offences and sanctions in the area of attacks against information systems and provided for operational measures to improve cooperation amongst authorities. The Directive has led to substantive progress in criminalising cyber-attacks at a comparable level across the Member States, which facilitates the cross-border cooperation of law enforcement authorities investigating these types of offences. However, there is still scope for the Directive to reach its full potential if Member States were to implement all of its provisions fully.60 The Commission will continue to provide support to the Member States in their implementation of the Directive and currently sees no need to propose amendments to it.
 
-### 3.1
-
-Identifying malicious actors
+### 3.1 Identifying malicious actors
 
 In order to increase our chances of bringing perpetrators to justice, we need to urgently improve our capacity to identify those responsible for cyber-attacks. Finding useful information for cybercrime investigations, mostly in the form of digital traces, is a major challenge for law enforcement authorities. We therefore need to increase our technological capability to investigate effectively including by reinforcing Europol's cybercrime unit with cyber experts. Europol has become a key actor in supporting Member States' multi-jurisdictional investigations. It should become a centre of expertise for Member States' law enforcement on online investigations and cyber forensics.
 
@@ -218,9 +202,7 @@ The widespread practice of placing multiple of users – sometimes thousands of 
 
 Belgium leads the world61 in the rate of IPv6 adoption also thanks to public-private cooperation: relevant stakeholders have considered limiting the use of one IP address to a maximum of 16 users as part of a voluntary self-regulatory measure, which incentivised IPv6 transition.62 More generally, online accountability should be further promoted. This means promoting measures to prevent the abuse of domain names for the distribution of unsolicited messages or phishing attacks. To this end, the Commission will work to improve the functioning of and the availability and accuracy of information in the Domain Name and IP WHOIS63 systems in line with the efforts of the Internet Corporation for Assigned Names and Numbers.64
 
-### 3.2
-
-Stepping up the law enforcement response
+### 3.2 Stepping up the law enforcement response
 
 Effective investigation and prosecution of cyber-enabled crime is a key deterrent to cyber-attacks. However, today's procedural framework needs to be better adapted to the internet age.65 The speed of cyber-attacks can overwhelm our procedures, as well as creating particular needs for swift cooperation across borders. To this end, as announced under the European Agenda on Security, the Commission will in early 2018 put forward proposals to facilitate cross-border access to electronic evidence. In parallel, the Commission is implementing practical measures to improve cross-border access to electronic evidence for criminal investigations, including funding for training on cross-border cooperation, the development of an electronic platform to exchange information within the EU, and the standardisation of judicial cooperation forms used between Member States.
 
@@ -238,17 +220,13 @@ The cybercrime investigative capabilities of Member States' law enforcement auth
 
 and violations of network security. https://www.coe.int/en/web/conventions/full-list/-/conventions/treaty/185 In 2017, 55 governments had ratified or acceeded to the Council of Europe Convention on Cybercrime. 69 Terms of Reference for the preparation of a draft 2nd Additional Protocol to the Budapest Convention on Cybercrime, T-CY (2017)3. 70 The darknet consists of content in overlay networks which use the internet but require specific software, configurations or authorization to access. The darknet forms a small part of the deep web, the part of the Web not indexed by search engines. 71 A notable exception is the recent takedown of two of the largest criminal Dark Web markets, AlphaBay and Hansa: https://www.europol.europa.eu/newsroom/news/massive-blow-to-criminal-dark-web-activities-after-globally-coordinated-operation. 72 Europol already plays an important role in this area. For a recent example see: https://www.europol.europa.eu/newsroom/news/massive-blow-to-criminal-dark-web-activities-after-globally-coordinated-operation. 73 The proceeds of fraud are an important source of income for organised crime and therefore an enabler for other criminal activities such as terrorism, drug trafficking and trafficking in human beings. 74 COM(2017) 489.
 
-### 3.3
-
-Public-private cooperation against cybercrime
+### 3.3 Public-private cooperation against cybercrime
 
 The effectiveness of traditional law enforcement mechanisms is challenged by the features of the digital world, which consists mostly of privately-owned infrastructure and numerous different players across a variety of jurisdictions. As a result, cooperation with the private sector, including industry and civil society, is fundamental for public authorities to fight crime effectively. In this context, the financial sector is also key and cooperation should be stepped up. For example, the role of Financial Intelligence Units75 in the context of cybercrime should be strengthened.
 
 Some Member States have already taken key steps. In the Netherlands, financial institutions and law enforcement authorities work side-by-side to address online fraud and cybercrime in the Electronic Crime Task Force. The German Competence Centre against Cyber Crime provides the operational hub for its members to exchange information in close collaboration with the German Federal Police Office and develop measures aimed at ensuring protection against cybercrime. 16 Member States76 have created Cybercrime Centres of Excellence to facilitate cooperation between law enforcement authorities, academia and private partners for the development and exchange of best practices, training and capacity building. The Commission supports the establishment of public-private partnerships and cooperation mechanisms through dedicated projects such as the Online Fraud Cyber Centre and Experts Network,77 implementing information sharing model and standard in order to analyse and mitigate electronic crimes risks and online frauds. In the context of cybercrime, private undertakings need to be able to share information on concrete incidents with law enforcement – including personal data – in full respect of data protection rules. The EU data protection reform, which will enter into application in May 2018, provides a common set of rules setting out the conditions under which law enforcement authorities and private entities can cooperate. The European Commission will work with the European Data Protection Board and relevant stakeholders to identify best practices in this area and, where appropriate, provide guidance.
 
-### 3.4
-
-Stepping up the political response
+### 3.4 Stepping up the political response
 
 The recently adopted framework for a joint EU diplomatic response to malicious cyber activities78 (the “cyber diplomacy toolbox”) sets out the measures under the Common Foreign and Security Policy, including restrictive measures which can be used to strengthen the EU's response to activities that harm its political, security and economic interests. The framework constitutes an important step in the development of signaling and reactive capacities at EU and Member State level. It will increase our capacity to attribute malicious cyber activities, with the aim of influencing the behaviour of potential aggressors, while taking into account the need to ensure proportionate responses. Attribution to a State or a non-State actor remains a sovereign political decision based on all-source intelligence. Implementation work on the
 
@@ -256,9 +234,7 @@ The recently adopted framework for a joint EU diplomatic response to malicious c
 
 Framework is currently ongoing with Member States and would also be taken forward in close coordination with the Blueprint to respond to large scale cyber incidents79. Situational awareness necessary for the use of measures within the framework should be fused, analysed and shared by INTCEN,80 working closely together with the Member States and EU institutions.
 
-### 3.5
-
-Building cybersecurity deterrence through the Member States' defence capability
+### 3.5 Building cybersecurity deterrence through the Member States' defence capability
 
 Member States are already developing cyber defence capabilities. In addition, given the blurring of lines between cyber defence and cybersecurity and the dual-use nature of cyber tools and technologies, as well as of the great variations between Member States’ approaches, the EU is well placed to help promote synergies between military and civilian efforts.81
 
@@ -284,13 +260,11 @@ funding; voluntary agreements between Member States and Internet Service Provide
 
 activities;  Enhanced financial support to national and transnational projects improving criminal justice in cyberspace.  A cybersecurity-related education platform to address the current skills gap in cybersecurity and cyber defence in 2018.
 
-4. STRENGHTENING INTERNATIONAL COOPERATION ON CYBERSECURITY
+## 4. STRENGHTENING INTERNATIONAL COOPERATION ON CYBERSECURITY
 
 Guided by the EU core values and fundamental rights such as freedom of expression and the right to privacy and protection of personal data, and the promotion of the open, free and secure cyberspace, the EU's international cybersecurity policy is designed to address the continuously evolving challenge of promoting global cyber stability, as well as contributing to Europe’s strategic autonomy in cyberspace.
 
-### 4.1
-
-Cybersecurity in external relations
+### 4.1 Cybersecurity in external relations
 
 Evidence suggests that people from around the globe identify cyber attacks from other countries as among the leading threats to national security.83 Given the global nature of the threat, building and maintaining robust alliances and partnerships with third countries is fundamental to the prevention and deterrence of cyber-attacks – which are increasingly central to international stability and security. The EU will prioritise the establishment of a strategic framework for conflict prevention and stability in cyberspace in its bilateral, regional, multi-stakeholder and multilateral engagements.
 
@@ -304,9 +278,7 @@ regard the EU emphasises the importance of all stakeholders’ involvement in th
 
 The Commission has also put forward a proposal87 to modernise EU export controls, including the introduction of controls on the export on critical cyber-surveillance technologies that could cause violations of human rights or be misused against the EU's own security and will step up dialogues with third countries to promote global convergence and responsible behaviour in this area.
 
-### 4.2
-
-Cybersecurity capacity building
+### 4.2 Cybersecurity capacity building
 
 Global cyber stability relies on the local and national ability of all countries to prevent and react to cyber incidents and investigate and prosecute cybercrime cases. Supporting efforts to build national resilience in third countries will increase the level of cybersecurity globally, with positive consequences for the EU. Countering fast-evolving cyber threats would suggest a need for training, policy and legislation development efforts, as well as efficiently functioning Computer Emergency Response Teams and cybercrime units in all countries worldwide.
 
@@ -316,9 +288,7 @@ In order to improve the EU’s ability to mobilise its collective expertise to s
 
 The EU will also work together with other donors in this field to avoid duplication of effort and facilitate more targeted capacity building in different regions.
 
-### 4.3
-
-EU-NATO cooperation
+### 4.3 EU-NATO cooperation
 
 Building on the substantial progress already achieved, the EU will deepen EU and NATO cooperation on cybersecurity, hybrid threats and defence, as foreseen in the Joint Declaration of 8 July 2016.89 Priorities include fostering interoperability through coherent cyber defence requirements and standards, strengthening cooperation on training and exercises, harmonising training requirements.
 
@@ -336,9 +306,7 @@ cyber threats and EU Cybersecurity Capacity Building Guidelines to better priori
 
 coordinated exercises and enhanced interoperability of cybersecurity standards.
 
-5.
-
-### CONCLUSION
+### 5. CONCLUSION
 
 EU cyber preparedness is central to both the Digital Single Market and our Security and Defence Union. Enhancing European cybersecurity and addressing threats to both civilian and military targets is a must.
 

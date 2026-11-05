@@ -278,7 +278,7 @@ European Commission, EGovernment Benchmark 2020
 
 https://op.europa.eu/en/publication-detail/-/publication/8e708e4f-f98c-11ea-b44f-01aa75ed71a1/language-en/format-PDF/source-233013088
 
-1.2 Italy’s international position
+### 1.2 Italy’s international position
 
 14
 
@@ -342,9 +342,7 @@ AI pubblications (2019)
 
 Average AI researchers productivity
 
-2.00
-
-Patenting strategy intensity index (% global patents/% global publications)
+### 2.00 Patenting strategy intensity index (% global patents/% global publications)
 
 Patents Equivalent patent applications 2019 (WNG: all fields, not only AI)
 
@@ -468,7 +466,7 @@ Calculated based on data from UNESCO UIS, Eurostat 2020, "R&D expenditure in the
 
 AI unicorn companies count on Dealroom.com
 
-1.2.1 Research position
+### 1.2.1 Research position
 
 Italian AI researchers have a widely recognized international standing regarding scientific output, both in terms of quantity and quality . Nevertheless, there are several limitations affecting the Italian research landscape -both in the public and private sphere -which need to be explicitly considered and addressed. In particular:
 
@@ -482,7 +480,7 @@ The public research system is less funded than peers and wages are low. On avera
 
 In the private sector, firms are underinvesting in R&D. Although Italian companies spend €14.7 billion in R&D per annum (2018) this figure is less than average EU peers. Investments are also constrained by the small size of the average Italian firm. Lastly, Italy is missing global Digital Champions in the hardware, software and integration areas, and is thus missing a key factor in stimulating innovation.
 
-1.2.2 Technology & solution providers
+### 1.2.2 Technology & solution providers
 
 23
 
@@ -490,7 +488,7 @@ The Italian Market for AI solutions is still small, as Italian companies are lag
 
 25
 
-1.3 Summary: Challenges ahead
+### 1.3 Summary: Challenges ahead
 
 24
 
@@ -568,7 +566,7 @@ Proposal for a regulation of the European Parliament and of the Council laying d
 
 AI is therefore a key priority for the European Union. Italy aims to be aligned with this European priority and integrate its Strategic Programme within this European approach.
 
-2.2 Guiding Principles
+### 2.2 Guiding Principles
 
 This National Strategic Programme for Artificial Intelligence defines a coherent and holistic framework of initiatives to support the development of a national AI ecosystem. Its design is inspired by five guiding principles.
 

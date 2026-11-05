@@ -266,15 +266,19 @@ PwC(2018)
 
 OECD(2019)
 
-• By 2030, 15~30% of global jobs will be automated.
+• By 2030, 15~30% of global
 
-### • By mid-2030, job automation rates will be 38% in the U.S., 24% in Japan, and 22% in
+jobs will be automated.
+
+• By mid-2030, job automation rates will be 38% in the U.S., 24% in Japan, and 22% in
 
 Korea.
 
-• Job automation rate in OECD member states will be 14% on average.
+• Job automation rate in OECD member states will be 14%
 
-### • In Korea, existing jobs will decline by 7 million while 7.3 million new jobs are created
+on average.
+
+• In Korea, existing jobs will decline by 7 million while 7.3 million new jobs are created
 
 • It will be around 10% in Korea.
 
@@ -2010,7 +2014,9 @@ Professionals
 
 ## 4,000
 
-300 people per year
+300
+
+people per year
 
 people per year
 

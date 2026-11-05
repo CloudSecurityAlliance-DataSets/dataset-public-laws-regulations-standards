@@ -16,23 +16,23 @@ Contents
 
 1.1. A PARADIGM SHIFT BROUGHT ABOUT BY CYBERSPACE ······································ 1
 
-1.2. CHANGES SINCE 2015 ············································································· 2
+### 1.2. CHANGES SINCE 2015 ············································································· 2
 
 2. UNDERSTANDING ON CYBERSPACE ········································· 4
 
 2.1. BENEFITS OF CYBERSPACE ········································································ 4
 
-2.2. INCREASING THREATS IN CYBERSPACE ·························································· 6
+### 2.2. INCREASING THREATS IN CYBERSPACE ·························································· 6
 
 3. VISIONS AND OBJECTIVES OF THIS STRATEGY ·························· 9
 
 3.1. ADHERENCE TO THE BASIC POSITION ON CYBERSECURITY··································· 9
 
-3.2. BASIC VISION OF CYBERSECURITY AS A GOAL ················································ 11
+### 3.2. BASIC VISION OF CYBERSECURITY AS A GOAL ················································ 11
 
 4. POLICY APPROACHES TOWARDS ACHIEVING THE OBJECTIVE ····15
 
-4.1. ENABLING SOCIO-ECONOMIC VITALITY AND SUSTAINABLE DEVELOPMENT ·············· 15
+### 4.1. ENABLING SOCIO-ECONOMIC VITALITY AND SUSTAINABLE DEVELOPMENT ·············· 15
 
 Advancing Cybersecurity as Value Creation Driver ·························································· 15
 
@@ -40,7 +40,7 @@ Achieving a Supply Chain that Creates Values through Diverse Connections ···�
 
 Building Secure IoT Systems ··················································································· 20
 
-4.2. BUILDING A SAFE AND SECURE SOCIETY FOR THE PEOPLE ·································· 22
+### 4.2. BUILDING A SAFE AND SECURE SOCIETY FOR THE PEOPLE ·································· 22
 
 Measures for the Protection of the People and Society ······················································ 22
 
@@ -64,7 +64,7 @@ Strengthening Capabilities for Defense, Deterrence, and Situational Awareness ·
 
 International Cooperation and Collaboration ·································································· 40
 
-4.4. CROSS-CUTTING APPROACHES TO CYBERSECURITY ········································· 42
+### 4.4. CROSS-CUTTING APPROACHES TO CYBERSECURITY ········································· 42
 
 Development and Assurance of Cybersecurity Human Resource ·········································· 42
 
@@ -1022,7 +1022,7 @@ As unification of cyberspace and real space accelerates, previously nonexistent 
 
 different industries and enterprises is occurring on a global scale as we move towards Society
 
-5.0. Furthermore, diverse and fluid forms that go beyond the traditional supply train are emerging,
+### 5.0. Furthermore, diverse and fluid forms that go beyond the traditional supply train are emerging,
 
 such as the automation of trade. Given these new forms, cybersecurity issues that occur at the
 

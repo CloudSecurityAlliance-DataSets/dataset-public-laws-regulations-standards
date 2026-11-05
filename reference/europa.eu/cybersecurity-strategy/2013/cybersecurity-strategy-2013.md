@@ -32,13 +32,9 @@ Cybersecurity Strategy of the European Union:
 
 An Open, Safe and Secure Cyberspace
 
-1.
+1. INTRODUCTION
 
-### INTRODUCTION
-
-1.1.
-
-Context
+### 1.1. Context
 
 Over the last two decades, the Internet and more broadly cyberspace has had a tremendous impact on all parts of society. Our daily life, fundamental rights, social interactions and economies depend on information and communication technology working seamlessly. An open and free cyberspace has promoted political and social inclusion worldwide; it has broken down barriers between countries, communities and citizens, allowing interaction and sharing of information and ideas across the globe; it has provided a forum for freedom of expression and exercise of fundamental rights, and empowered people in their quest for democratic and more just societies -most strikingly during the Arab Spring.
 
@@ -60,9 +56,7 @@ In countries outside the EU, governments may also misuse cyberspace for surveill
 
 All these factors explain why governments across the world have started to develop cyber-security strategies and to consider cyberspace as an increasingly important international issue. The time has come for the EU to step up its actions in this area. This proposal for a Cybersecurity strategy of the European Union, put forward by the Commission and the High Representative of the Union for Foreign Affairs and Security Policy (High Representative), outlines the EU's vision in this domain, clarifies roles and responsibilities and sets out the actions required based on strong and effective protection and promotion of citizens' rights to make the EU's online environment the safest in the world.
 
-1.2.
-
-Principles for cybersecurity
+### 1.2. Principles for cybersecurity
 
 The borderless and multi-layered Internet has become one of the most powerful instruments for global progress without governmental oversight or regulation. While the private sector should continue to play a leading role in the construction and day-to-day management of the Internet, the need for requirements for transparency, accountability and security is becoming more and more prominent. This strategy clarifies the principles that should guide cybersecurity policy in the EU and internationally.
 
@@ -88,7 +82,7 @@ A shared responsibility to ensure security
 
 The growing dependency on information and communications technologies in all domains of human life has led to vulnerabilities which need to be properly defined, thoroughly analysed, remedied or reduced. All relevant actors, whether public authorities, the private sector or individual citizens, need to recognise this shared responsibility, take action to protect themselves and if necessary ensure a coordinated response to strengthen cybersecurity.
 
-2. STRATEGIC PRIORITIES AND ACTIONS
+## 2. STRATEGIC PRIORITIES AND ACTIONS
 
 The EU should safeguard an online environment providing the highest possible freedom and security for the benefit of everyone. While acknowledging that it is predominantly the task of Member States to deal with security challenges in cyberspace, this strategy proposes specific actions that can enhance the EU's overall performance. These actions are both short and long term, they include a variety of policy tools7 and involve different types of actors, be it the EU institutions, Member States or industry.
 
@@ -100,7 +94,7 @@ The EU vision presented in this strategy is articulated in five strategic priori
 
 • Developing cyberdefence policy and capabilities related to the Common Security and Defence Policy (CSDP) • Develop the industrial and technological resources for cybersecurity • Establish a coherent international cyberspace policy for the European Union and promote core EU values
 
-2.1. Achieving cyber resilience
+### 2.1. Achieving cyber resilience
 
 To promote cyber resilience in the EU, both public authorities and the private sector must develop capabilities and cooperate effectively. Building on the positive results achieved via the activities carried out to date8 further EU action can help in particular to counter cyber risks and threats having a cross-border dimension, and contribute to a coordinated response in emergency situations. This will strongly support the good functioning of the internal market and boost the internal security of the EU.
 
@@ -178,9 +172,7 @@ The Commission invites industry to:
 
 the interface with customers. In particular, industry should reflect on ways to make CEOs and Boards more accountable for ensuring cybersecurity.
 
-2.2.
-
-Drastically reducing cybercrime
+### 2.2. Drastically reducing cybercrime
 
 The more we live in a digital world, the more opportunities for cyber criminals to exploit. Cybercrime is one of the fastest growing forms of crime, with more than one million people worldwide becoming victims each day. Cybercriminals and cybercrime networks are becoming increasingly sophisticated and we need to have the right operational tools and capabilities to tackle them. Cybercrimes are high-profit and low-risk, and criminals often exploit the anonymity of website domains. Cybercrime knows no borders -the global reach of the Internet means that law enforcement must adopt a coordinated and collaborative cross-border approach to respond to this growing threat.
 
@@ -248,9 +240,7 @@ The Commission asks Eurojust and Europol (EC3) to:
 
 •
 
-2.3.
-
-Developing cyberdefence policy and capabilities related to the framework of the Common Security and Defence Policy (CSDP)
+### 2.3. Developing cyberdefence policy and capabilities related to the framework of the Common Security and Defence Policy (CSDP)
 
 Cybersecurity efforts in the EU also involve the cyber defence dimension. To increase the resilience of the communication and information systems supporting Member States' defence and national security interests, cyberdefence capability development should concentrate on detection, response and recovery from sophisticated cyber threats
 
@@ -268,9 +258,7 @@ and information sharing. Improve Cyber Defence Training & Exercise Opportunities
 
 • Ensure dialogue with international partners, including NATO, other international organisations and multinational Centres of Excellence, to ensure effective defence capabilities, identify areas for cooperation and avoid duplication of efforts.
 
-2.4.
-
-Develop industrial and technological resources for cybersecurity
+### 2.4. Develop industrial and technological resources for cybersecurity
 
 Europe has excellent research and development capacities, but many of the global leaders providing innovative ICT products and services are located outside the EU. There is a risk that Europe not only becomes excessively dependent on ICT produced elsewhere, but also on security solutions developed outside its frontiers. It is key to ensure that hardware and software components produced in the EU and in third countries that are used in critical services and infrastructure and increasingly in mobile devices are trustworthy, secure and guarantee the protection of personal data.
 
@@ -332,9 +320,7 @@ The Commission invites public and private stakeholders to:
 
 • Develop, in cooperation with the insurance sector, harmonised metrics for calculating risk premiums, that would enable companies that have made investments in security to benefit from lower risk premiums.
 
-2.5.
-
-Establish a coherent international cyberspace policy for the European Union and promote EU core values
+### 2.5. Establish a coherent international cyberspace policy for the European Union and promote EU core values
 
 Preserving open, free and secure cyberspace is a global challenge, which the EU should address together with the relevant international partners and organisations, the private sector and civil society.
 
@@ -378,7 +364,7 @@ In cooperation with the Member States, the Commission and the High Representativ
 
 • Increase policy coordination and information sharing through the international Critical Information Infrastructure Protection networks such as the Meridian network, cooperation among NIS competent authorities and others.
 
-3. ROLES AND RESPONSIBILITIES
+## 3. ROLES AND RESPONSIBILITIES
 
 Cyber incidents do not stop at borders in the interconnected digital economy and society. All actors, from NIS competent authorities, CERTs and law enforcement to industry, must take responsibility both nationally and at EU-level and work together to strengthen cybersecurity. As different legal frameworks and jurisdictions may be involved, a key challenge for the EU is to clarify the roles and responsibilities of the many actors involved.
 
@@ -416,9 +402,7 @@ NATIONAL
 
 • National defence and security authorities
 
-3.1.
-
-Coordination between NIS competent authorities/CERTs, law enforcement and defence
+### 3.1. Coordination between NIS competent authorities/CERTs, law enforcement and defence
 
 National level
 
@@ -438,9 +422,7 @@ International
 
 The Commission and the High Representative ensure, together with the Member States, coordinated international action in the field of cybersecurity. In so doing, the Commission and the High Representative will uphold EU core values and promote a peaceful, open and transparent use of cyber technologies. The Commission, the High Representative and the Member States engage in policy dialogue with international partners and with international organisations such as Council of Europe, OECD, OSCE, NATO and UN.
 
-3.2.
-
-EU support in case of a major cyber incident or attack
+### 3.2. EU support in case of a major cyber incident or attack
 
 Major cyber incidents or attacks are likely to have an impact on EU governments, business and individuals. As a result of this strategy, and in particular the proposed directive on NIS, the prevention, detection and response to cyber incidents should improve and Member States and the Commission should keep each other more closely informed about major cyber incidents or attacks. However, the response mechanisms will differ depending on the nature, magnitude and cross-border implications of the incident.
 
@@ -458,9 +440,7 @@ If the incident seems having compromised personal data, the national Data Protec
 
 Finally, the handling of cyber incidents and attacks will benefit from contact networks and support from international partners. This may include technical mitigation, criminal investigation, or activation of crisis management response mechanisms.
 
-4.
-
-### CONCLUSION AND FOLLOW-UP
+### 4. CONCLUSION AND FOLLOW-UP
 
 This proposed cybersecurity strategy of the European Union, put forward by the Commission and the High Representative of the Union for Foreign Affairs and Security Policy, outlines the EU's vision and the actions required, based on strongly protecting and promoting citizens' rights, to make the EU's online environment the safest in the world.32
 

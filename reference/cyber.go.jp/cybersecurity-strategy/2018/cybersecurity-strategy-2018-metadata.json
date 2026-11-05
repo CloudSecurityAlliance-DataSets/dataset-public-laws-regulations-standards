@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 56-page PDF (https://www.cyber.go.jp/eng/pdf/cs-senryaku2018-en.pdf) locally via PyMuPDF (138,558 chars). Parsed 40 sections (15 with explicit section identifiers)."
+    "notes": "Extracted 56-page PDF (https://www.cyber.go.jp/eng/pdf/cs-senryaku2018-en.pdf) locally via PyMuPDF (138,598 chars). Parsed 47 sections (22 with explicit section identifiers)."
   },
   "extraction_history": [
     {

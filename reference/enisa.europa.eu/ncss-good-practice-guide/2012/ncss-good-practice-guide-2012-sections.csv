@@ -120,7 +120,7 @@ A national cyber security strategy (hereafter 'strategy') is a tool to improve t
 EU Member States need to have flexible and dynamic cyber-security strategies to meet new global threats. In light of this, and to assist the EU Member States, the European Network and Information Security Agency (ENISA)4 has developed this guide, which presents good practices and recommendations on how to develop, implement and maintain a cyber-security strategy.
 
 Developing a comprehensive strategy can pose many challenges. A document that ticks all the right boxes for what should be included can be easily made. However, this is unlikely to achieve any real impact in terms of improving the cyber security and resilience of a country. To develop a strategy it is necessary to achieve cooperation and agreement from a wide range of stakeholders on a common course of action – this will not be an easy task. It should be realised that the process of developing the strategy is probably as important as the final document."
-"3","1.1","The European policy context","numbered","1","The main regulatory and policy statements governing activities in the cyber-security strategy field are briefly summarised below.
+"4","1.1","The European policy context","numbered","1","The main regulatory and policy statements governing activities in the cyber-security strategy field are briefly summarised below.
 
 The Strategy for a Secure Information Society
 
@@ -205,7 +205,7 @@ At the time of writing, the European Strategy for Cyber Security is still under 
 EC proposal for a Regulation on electronic identification and trusted services for electronic transactions in the internal market
 
 The aim of the European Directive 1999/93/EC on a community framework for electronic signatures was the legal recognition of electronic signatures.16 Assessing the need for secure and seamless electronic transactions as well as the shortcomings of the Directive, the European Commission adopted on 4 June 2012 a proposal for a Regulation on electronic identification and trusted services for electronic transactions in the internal market.17"
-"3","1.2","Scope","numbered","1","This guide aims to provide useful and practical recommendations to relevant public and private stakeholders on the development, implementation and maintenance of a cyber-security strategy. More specifically the guide aims to:
+"4","1.2","Scope","numbered","1","This guide aims to provide useful and practical recommendations to relevant public and private stakeholders on the development, implementation and maintenance of a cyber-security strategy. More specifically the guide aims to:
 
  define the areas of interest of a cyber-security strategy;  identify useful recommendations for public and private stakeholders;  help EU Member States to develop, manage, evaluate and upgrade their national
 
@@ -226,15 +226,15 @@ cyber-security strategy;  the main elements of each phase;  good practices
 17 http://ec.europa.eu/information_society/policy/esignature/eu_legislation/regulation/index_en.htm
 
 Practical Guide on Development and Execution"
-"3","1.3","Target audience","numbered","1","The target audience of this guide is public officials and policy makers: that is, those who usually lead the process of developing a national cyber-security strategy. The guide also provides useful insights for the stakeholders involved in the lifecycle of the strategy, such as private, civil and industry stakeholders. Typical examples include policy makers, regulators, telecommunication providers and internet service providers (ISPs), online banks, utility companies, computer emergency response team (CERT) experts and others."
-"3","1.4","Methodology","numbered","1","This guide was prepared by surveying and interviewing public authorities, chief information security officers, chief information officers, security architects and other IT/cyber security experts from various industry sectors about their experiences, expertise, and recommendations for effective practices in developing, implementing, evaluating and maintaining strategies.
+"4","1.3","Target audience","numbered","1","The target audience of this guide is public officials and policy makers: that is, those who usually lead the process of developing a national cyber-security strategy. The guide also provides useful insights for the stakeholders involved in the lifecycle of the strategy, such as private, civil and industry stakeholders. Typical examples include policy makers, regulators, telecommunication providers and internet service providers (ISPs), online banks, utility companies, computer emergency response team (CERT) experts and others."
+"4","1.4","Methodology","numbered","1","This guide was prepared by surveying and interviewing public authorities, chief information security officers, chief information officers, security architects and other IT/cyber security experts from various industry sectors about their experiences, expertise, and recommendations for effective practices in developing, implementing, evaluating and maintaining strategies.
 
 A questionnaire was prepared and distributed to representatives of the public sectors of EU Member States and of countries outside the EU. Several interviews were performed with stakeholders from the private sector. The companies interviewed were located in nine different EU Member States.
 
 Following completion of this research, the results were analysed, recommendations were identified, and these findings were then prepared in the form of this guide.
 
 A validation workshop was organised to assess the ENISA initial findings in September 2012.18 Inputs and comments gathered during the workshop were elaborated and included in this guide."
-"3","1.5","How to use this guide","numbered","1","This guide can be used in a number of ways:
+"4","1.5","How to use this guide","numbered","1","This guide can be used in a number of ways:
 
  as a practical, step-by-step guide for creating a brand new cyber-security strategy;  as an incentive for enhancing or complementing parts of an existing national cyber-
 
@@ -269,7 +269,7 @@ This report is an overview and the accent is on the development and execution ph
 
 Practical Guide on Development and Execution"
 "3","3","Develop and execute the national cyber-security strategy","numbered","","This chapter will aim at providing guidance to the steering and editorial teams of the strategy on the main components and actions that should be considered during the development and execution phases. Each sub-chapter will focus on specific objectives that require attention and a non-exhaustive list of tasks required to meet these objectives. In this sense, these phases will outline the core of the overall ‘national philosophy’ on cyber security."
-"3","3.1","Set the vision, scope, objectives and priorities","numbered","3","The Oxford Dictionary defines a strategy as a plan of actions designed to achieve a long-term or overall aim.20 The aim of a cyber security strategy is to increase the global resilience and security of national ICT assets, which support critical functions of the state or of the society as a whole. Setting clear objectives and priorities is thus of paramount importance for successfully reaching this aim.
+"4","3.1","Set the vision, scope, objectives and priorities","numbered","3","The Oxford Dictionary defines a strategy as a plan of actions designed to achieve a long-term or overall aim.20 The aim of a cyber security strategy is to increase the global resilience and security of national ICT assets, which support critical functions of the state or of the society as a whole. Setting clear objectives and priorities is thus of paramount importance for successfully reaching this aim.
 
 Typical tasks to consider in this step are listed here.
 
@@ -318,7 +318,7 @@ In December 2005 the Action Plan on Information Security Measures for Critical I
 Source: (1) Special Action Plan on Countermeasures to Cyber-terrorism for Critical Infrastructures, Cabinet Secretariat, Japan, 2000; (2) Action Plan on Information Security Measures for Critical Infrastructures, The Information Security Policy Council, Japan, 2005; (3) The Second Action Plan on Information Security Measures for Critical Infrastructures, The Information Security Policy Council, Japan, 2009.
 
 Practical Guide on Development and Execution"
-"3","3.2","Follow a national risk assessment approach","numbered","3","One of the key elements of a cyber-security strategy is the national risk assessment, with a specific focus on critical information infrastructures. Risk assessment is a scientific and technologically based process consisting of three steps: risk identification, risk analysis and risk evaluation.21 The scope of the assessment is to coordinate the use of resources and to monitor, control, and minimise the probability and/or impact of unfortunate events that might put at risk the objectives of the vision.
+"4","3.2","Follow a national risk assessment approach","numbered","3","One of the key elements of a cyber-security strategy is the national risk assessment, with a specific focus on critical information infrastructures. Risk assessment is a scientific and technologically based process consisting of three steps: risk identification, risk analysis and risk evaluation.21 The scope of the assessment is to coordinate the use of resources and to monitor, control, and minimise the probability and/or impact of unfortunate events that might put at risk the objectives of the vision.
 
 Risk assessments can provide valuable information for developing, executing and evaluating a strategy. By carrying out a national risk assessment and aligning the objectives of the strategy with national security needs, it is possible to focus on the most important challenges with regard to cyber security.
 
@@ -355,7 +355,7 @@ The UK strategy includes a risk-based approach as one of its three underlying pr
 Practical Guide on Development and Execution
 
 absolute security. We will therefore apply a risk-based approach to prioritizing our response.' Source: The UK Cyber Security Strategy – Protecting and promoting the UK in a digital world, Cabinet Office, United Kingdom, London, 2011."
-"3","3.3","Take stock of existing policies, regulations and capabilities","numbered","3","Before defining in detail the objective of the cyber-security strategy, it is important to take stock of the status of the key elements of the strategy at national level. At the end of this activity important gaps must be identified.
+"4","3.3","Take stock of existing policies, regulations and capabilities","numbered","3","Before defining in detail the objective of the cyber-security strategy, it is important to take stock of the status of the key elements of the strategy at national level. At the end of this activity important gaps must be identified.
 
 Typical tasks to consider in this step include the following.
 
@@ -378,7 +378,7 @@ An example: An essential principle in the Strategy of the Czech Republic
 It is highly desirable to support all initiatives, be they of the state (civilian, police, military) or of commercial or academic sectors, which have already accomplished a lot in the field of cyber security. Such joint efforts have led to improved cyber security and in many cases prevented dispersion of resources and unnecessary duplication. Much of the ICT infrastructure and many related products and services are provided by the private sector. Mutual trust and sharing of information are essential conditions of successful cooperation between the private and the public sectors.
 
 Source: Cyber Security Strategy of the Czech Republic for the 2011–2015 period, Czech Republic, 2011"
-"3","3.4","Develop a clear governance structure","numbered","3","The cyber security strategy will succeed only if a clear governance framework is in place. A governance framework defines the roles, responsibilities and accountability of all relevant
+"4","3.4","Develop a clear governance structure","numbered","3","The cyber security strategy will succeed only if a clear governance framework is in place. A governance framework defines the roles, responsibilities and accountability of all relevant
 
 Practical Guide on Development and Execution
 
@@ -427,7 +427,7 @@ CESG is the National Technical Authority for Information Assurance and is situat
 Computer emergency response teams (CERTs) exist in a number of public and private sector organisations. GovCERTUK is responsible for all government networks, while CSIRTUK, CPNI’s CERT, responds to reported incidents concerning private sector networks in the critical national infrastructure.
 
 Source: Cyber Security in the UK, Postnote No 389, September 2011."
-"3","3.5","Identify and engage stakeholders","numbered","3","A successful cyber-security strategy requires proper co-operation between public and private stakeholders. Identifying and engaging stakeholders are crucial steps for the success of the strategy. Public stakeholders usually have a policy, regulatory and operational mandate. They ensure the safety and security of the nation’s critical infrastructures and services. Selected private entities should be part of the development process due to the fact that they are likely the owners of most of the critical information infrastructures and services.
+"4","3.5","Identify and engage stakeholders","numbered","3","A successful cyber-security strategy requires proper co-operation between public and private stakeholders. Identifying and engaging stakeholders are crucial steps for the success of the strategy. Public stakeholders usually have a policy, regulatory and operational mandate. They ensure the safety and security of the nation’s critical infrastructures and services. Selected private entities should be part of the development process due to the fact that they are likely the owners of most of the critical information infrastructures and services.
 
 Practical Guide on Development and Execution
 
@@ -468,7 +468,7 @@ Practical Guide on Development and Execution
 The Implementation Plan of Estonia’s strategy was developed on the basis of proposals from different state agencies and working groups which have been set up for development of the strategy. Attention was given to the actions and funds needed to achieve the objectives of the strategy in its various fields of competence. Implementation plans have been developed for two periods: 2008–2010 and 2011–2013.
 
 Source: Cyber Security Strategy, Cyber Security Strategy Committee, Ministry of Defence, Estonia, Tallinn, 2008."
-"3","3.6","Establish trusted information-sharing mechanisms","numbered","3","Information-sharing among private and public stakeholders is a powerful mechanism to better understand a constantly changing environment. Information-sharing is a form of strategic partnership among key public and private stakeholders. Owners of critical infrastructures could potentially share with public authorities their input on mitigating emerging risks, threats, and vulnerabilities while public stakeholders could provide on a 'need to know basis' information on aspects related to the status of national security, including findings based on information collected by intelligence and cyber-crime units. Combining both views gives a very powerful insight on how the threat landscape evolves.
+"4","3.6","Establish trusted information-sharing mechanisms","numbered","3","Information-sharing among private and public stakeholders is a powerful mechanism to better understand a constantly changing environment. Information-sharing is a form of strategic partnership among key public and private stakeholders. Owners of critical infrastructures could potentially share with public authorities their input on mitigating emerging risks, threats, and vulnerabilities while public stakeholders could provide on a 'need to know basis' information on aspects related to the status of national security, including findings based on information collected by intelligence and cyber-crime units. Combining both views gives a very powerful insight on how the threat landscape evolves.
 
 These are the typical objectives of an information sharing scheme.
 
@@ -513,7 +513,7 @@ An example: The German Strategy
 Quick and close information sharing on weaknesses of IT products, vulnerabilities, forms of attacks and profiles of perpetrators enables the National Cyber Response Centre to analyse IT incidents and give consolidated recommendations for action. The interests of the private sector to protect itself against crime and espionage in cyberspace should also be adequately taken into account. At the same time respective responsibilities must be observed. Every stakeholder takes the necessary measures in its remit on the basis of the jointly developed national cyber security assessment and coordinates them with the competent authorities as well as partners from industry and academia.
 
 Source: Cyber Security Strategy of Germany, Federal Ministry of the Interior, 2011"
-"3","3.7","Develop national cyber contingency plans","numbered","3","National cyber contingency plans (NCPs) are the interim structures and measures for responding to, and recovering services following, major incidents that involve critical information infrastructures (CIIs).23 A national cyber security contingency plan should be part of an overall national contingency plan. It is also an integral part of the cyber security strategy.
+"4","3.7","Develop national cyber contingency plans","numbered","3","National cyber contingency plans (NCPs) are the interim structures and measures for responding to, and recovering services following, major incidents that involve critical information infrastructures (CIIs).23 A national cyber security contingency plan should be part of an overall national contingency plan. It is also an integral part of the cyber security strategy.
 
 The objectives of a NCP are to:
 
@@ -546,7 +546,7 @@ procedures, roles and responsibilities and communication mechanisms.  Review 
 exercises.
 
 For more information on this topic, please check ENISA’s webpage Good Practice Guide on National Contingency Plans.24"
-"3","3.8","Organise cyber security exercises","numbered","3","Exercises enable competent authorities to test existing emergency plans, target specific weaknesses, increase cooperation between different sectors, identify interdependencies, stimulate improvements in continuity planning, and generate a culture of cooperative effort to boost resilience. Cyber exercises are important tools to assess preparedness of a community against natural disasters, technology failures, cyber-attacks and emergencies.
+"4","3.8","Organise cyber security exercises","numbered","3","Exercises enable competent authorities to test existing emergency plans, target specific weaknesses, increase cooperation between different sectors, identify interdependencies, stimulate improvements in continuity planning, and generate a culture of cooperative effort to boost resilience. Cyber exercises are important tools to assess preparedness of a community against natural disasters, technology failures, cyber-attacks and emergencies.
 
 Typical objectives for this step are to:
 
@@ -593,7 +593,7 @@ better meet the needs of the cyber security strategy. For more information on th
 26 ENISA, Good Practice Guide on National Exercises –Enhancing the Resilience of Public Communication Networks, 2009. https://www.enisa.europa.eu/activities/Resilience-and-CIIP/cyber-crisis-cooperation/exercises/national-exercise-good-practice-guide
 
 Practical Guide on Development and Execution"
-"3","3.9","Establish baseline security requirements","numbered","3","All relevant public and private organisations should take necessary measures to protect their information infrastructure from threats, risks and vulnerabilities identified after the completion of the national risk assessment. Baseline security requirements for a given sector define the minimum security level that all organisations in that sector should comply with. Such requirements could be based on existing security standards or frameworks and good practices widely recognised by the industry.
+"4","3.9","Establish baseline security requirements","numbered","3","All relevant public and private organisations should take necessary measures to protect their information infrastructure from threats, risks and vulnerabilities identified after the completion of the national risk assessment. Baseline security requirements for a given sector define the minimum security level that all organisations in that sector should comply with. Such requirements could be based on existing security standards or frameworks and good practices widely recognised by the industry.
 
 Defining a minimum set of security measures is a complex exercise that should take into account the following aspects: the different level of maturity among the stakeholders, the differences in terms of the operational capacity of each organization and the different standards existing in each critical sector under consideration.
 
@@ -624,7 +624,7 @@ them.  Mandate information security audits to competent authorities based on 
 minimum measures.  Update the baseline requirements based on reported incidents of significant impact.
 
 Practical Guide on Development and Execution"
-"3","3.10","Establish incident reporting mechanisms","numbered","3","Reporting security incidents plays an important role in enhancing national cyber security. The more a person knows about major incidents the better they can understand the threat environment. Incident reporting and analysis helps in adjusting and tailoring the security measures list, referred to in the previous section, to the changing threat landscape. This way, the national preparedness, response and recovery capabilities are enhanced.
+"4","3.10","Establish incident reporting mechanisms","numbered","3","Reporting security incidents plays an important role in enhancing national cyber security. The more a person knows about major incidents the better they can understand the threat environment. Incident reporting and analysis helps in adjusting and tailoring the security measures list, referred to in the previous section, to the changing threat landscape. This way, the national preparedness, response and recovery capabilities are enhanced.
 
 Typical tasks of this activity include the following.
 
@@ -657,7 +657,7 @@ Practical Guide on Development and Execution
 and seven large telecommunications operators and the members of the Swedish Urban Network Association. The total infrastructure handled within the partnership adds up to about 80%–90% within the country. Additional telecommunications operators should be able to participate in the future.
 
 Source: Good Practices on Reporting Security Incidents, ENISA, 2009."
-"3","3.11","User awareness","numbered","3","Raising awareness about cyber-security threats and vulnerabilities and their impact on society has become vital. Through awareness-raising, individual and corporate users can learn how to behave in the online world and protect themselves from typical risks. Awareness activities occur on an ongoing basis and use a variety of delivery methods to reach broad audiences.27
+"4","3.11","User awareness","numbered","3","Raising awareness about cyber-security threats and vulnerabilities and their impact on society has become vital. Through awareness-raising, individual and corporate users can learn how to behave in the online world and protect themselves from typical risks. Awareness activities occur on an ongoing basis and use a variety of delivery methods to reach broad audiences.27
 
 Security awareness activities may be triggered by different events or factors, which may be internal or external to an organisation. Major external factors could include: recent security breaches, threats and incidents, new risks, updates of security policy and/or strategy. Among the internal factors are new laws, new governments etc.28
 
@@ -694,7 +694,7 @@ An example: The Finnish Strategy
 National Information Security Strategy is to integrate information security firmly into the basic structures of the information society. This requires improvements in general information security awareness and skills, and better consideration of information security aspects in the purchase of systems and the procedures for making agreements. Increasing information security awareness and competence: the National Information Security Day project will be developed; awareness of information security will be improved, the level of awareness will be monitored and information security skills will be developed; a proactive plan for communications will be drawn up.
 
 Source: Cyber Security Strategy of Finland"
-"3","3.12","Foster R&D","numbered","3","Our lives depend on new IT tools and services. Before such tools and services become commercially widespread, it is important that research activities cover the cyber security requirements. A cyber security strategy should emphasise the importance of including – in the research and development lifecycle – concepts such as secure by design and privacy by design.
+"4","3.12","Foster R&D","numbered","3","Our lives depend on new IT tools and services. Before such tools and services become commercially widespread, it is important that research activities cover the cyber security requirements. A cyber security strategy should emphasise the importance of including – in the research and development lifecycle – concepts such as secure by design and privacy by design.
 
 Typical objectives of this phase include the following.
 
@@ -729,7 +729,7 @@ An example: The Estonian Strategy
 It is important to stress that when it comes to cyber security, research and development cannot be separated from defence-related activities. Scientific research is important primarily because the implementation of protective measures for information systems is a rapidly advancing high-technology field. Efficient protection against malware is possible only if new versions of the threat are immediately identified and neutralised. The priority areas for development include intelligent protection software and the simulation of cyber-attacks to ensure cyber security and provide training. This line of research is also supported by the NATO Centre of Excellence of Cooperative Cyber Defence, based in Estonia.
 
 Source: Cyber Security Strategy, Ministry of Defence, Estonia."
-"3","3.13","Strengthen training and educational programmes","numbered","3","Unfortunately, our universities and R&D institutions do not produce enough cyber-security experts to meet the increasing needs of this sector. Cyber security is usually not a separate academic topic but part of the computer science curriculum. Cyber security is also a continuously changing topic that requires constant training and education.
+"4","3.13","Strengthen training and educational programmes","numbered","3","Unfortunately, our universities and R&D institutions do not produce enough cyber-security experts to meet the increasing needs of this sector. Cyber security is usually not a separate academic topic but part of the computer science curriculum. Cyber security is also a continuously changing topic that requires constant training and education.
 
 The objectives of a training and education program are to:
 
@@ -754,7 +754,7 @@ An example: United Kingdom
 The UK strategy states that 'As for business, some firms recognize the growing scale and impact of the risks. However, some sectors of the economy, particularly small and medium sized businesses, do not have access to the skills and knowledge to protect themselves online. We need to improve our understanding of the threat across the board and manage it more effectively. This can mean relying upon skills and knowledge, not often found in the same place.'
 
 Source: The UK Cyber Security Strategy – Protecting and promoting the UK in a digital world, Cabinet Office, United Kingdom, London, 2011."
-"3","3.14","Establish an incident response capability","numbered","3","National/governmental CERTs play a key role in coordinating incident management with the relevant stakeholders at national level. In addition, they bear responsibility for cooperation with the national/governmental teams in other countries.31
+"4","3.14","Establish an incident response capability","numbered","3","National/governmental CERTs play a key role in coordinating incident management with the relevant stakeholders at national level. In addition, they bear responsibility for cooperation with the national/governmental teams in other countries.31
 
 In order to perform their tasks properly, it is important that the national cyber-security strategy empower CERTs with sufficient capabilities in the following categories.
 
@@ -795,7 +795,7 @@ require the cooperation of a wide range of stakeholders, both private and public
 management (period, early warning, deployment requirements, etc.). Testbeds (clones/mirrors) should be considered in order to avoid major disturbances of systems after patching essential components of critical applications.
 
 An example: The Finnish Strategy Securing cyberspace largely relies on the exchange of information which, at the international level, is best achieved through co-operation networks. Such networks bolster the ability to take immediate actions in ensuring cyber security and combating cyber crime. The professional co-operation networks of the public and private sectors allow for the exchange of information on innovative IT solutions, best practice and other expert information. The exchange of expert information on cyber security requires close co-operation between the networks which deal with international data security, cyber defence and law enforcement. The most significant of these include the international network of national CERTs, the network of government CERTs (GovCERT), Interpol and Europol for co-operation in law enforcement, and organisations dealing with Critical Information Infrastructure Protection. Source: The Cyber Security Strategy of Finland"
-"3","3.15","Address cyber crime","numbered","3","The fight against cyber crime requires the collaboration of many actors and communities to be successful. In this respect, it is important to address and counter the rise of cyber crime and to prepare a concerted and coordinated response with relevant stakeholders.
+"4","3.15","Address cyber crime","numbered","3","The fight against cyber crime requires the collaboration of many actors and communities to be successful. In this respect, it is important to address and counter the rise of cyber crime and to prepare a concerted and coordinated response with relevant stakeholders.
 
 Typical tasks that should be considered include the following:
 
@@ -822,7 +822,7 @@ identify and respond to cyber crime related issues.
 For more on this topic, please check the websites of both ENISA32 and the European Commission33 on cyber crime.
 
 An example: The Czech Republic The Czech Republic will improve legislative and procedural steps so that the cyber security field ultimately comprises prevention, detection, reaction and measures designed to identify and combat cyber crime. Source: The Cyber Security Strategy of the Czech Republic"
-"3","3.16","Engage in international cooperation","numbered","3","Cyber security threats and vulnerabilities are international in nature. Engaging in cooperation and information sharing with partners abroad is important to better understand and respond to a constantly changing threat environment.
+"4","3.16","Engage in international cooperation","numbered","3","Cyber security threats and vulnerabilities are international in nature. Engaging in cooperation and information sharing with partners abroad is important to better understand and respond to a constantly changing threat environment.
 
 The following points should be followed during the development of the strategy.
 
@@ -851,7 +851,7 @@ Code of Conduct for Information Security, Convention on Cyber crime) related to 
 of supporting cooperation with strategic partners.
 
 An example: The German Strategy Given the global nature of information and communications technology, international coordination and appropriate networks focusing on foreign and security policy aspects are indispensable. This includes cooperation not only in the United Nations, but also in the EU, the Council of Europe, NATO, the G8, the OSCE and other multinational organizations. The aim is to ensure the coherence and capabilities of the international community to protect cyberspace. Source: The Cyber Security Strategy of Germany"
-"3","3.17","Establish a public–private partnership","numbered","3","A public–private partnership (PPP) establishes a common scope and objectives and uses defined roles and work methodology to achieve shared goals.34 PPPs may focus on different aspects of security and resilience; these can be defined as the following:
+"4","3.17","Establish a public–private partnership","numbered","3","A public–private partnership (PPP) establishes a common scope and objectives and uses defined roles and work methodology to achieve shared goals.34 PPPs may focus on different aspects of security and resilience; these can be defined as the following:
 
  deterring (to deter attackers);  protecting (uses research into new security threats);  detecting (uses information-sharing to address new threats);  responding (to deliver the capability to cope with the initial impact of an incident);  recovering (to deliver the capability of repairing the final impact of an incident).
 
@@ -886,7 +886,7 @@ sharing and collaboration.
 An example: The Netherlands ICT infrastructure, products and services are for the greater part supplied by private sectors. Continuity and certainty of supply are not only important for the business world in connection with their continuity. Society itself has an interest in this, e.g. to prevent social unrest due to disruptions. Mutual trust is essential for cooperation and sharing information with each other. Government and business communities must work together as equal partners. The relevant parties must derive benefit from participation in joint initiatives. A good cooperation model with clear tasks, responsibilities, powers and safeguards supports this. Source: Cyber Security Strategy of the Netherlands
 
 Practical Guide on Development and Execution"
-"3","3.18","Balance security with privacy","numbered","3","Counter-terrorism measures and tools that tackle cyber crime often invade privacy in the most brutal ways and, at the same time, lack of personal online security leads to breaches of that same privacy. A cyber-security strategy should seek for the right balance between these two concepts. Moreover, the European Commission has provided the regulatory tools in order to support the Member States in facing this challenge. For this reason, every Member State should take seriously into account the right of citizens’ privacy. Finally, the reader should bear in mind that privacy is a horizontal issue that cuts across most of the activities relevant to cyber strategy.
+"4","3.18","Balance security with privacy","numbered","3","Counter-terrorism measures and tools that tackle cyber crime often invade privacy in the most brutal ways and, at the same time, lack of personal online security leads to breaches of that same privacy. A cyber-security strategy should seek for the right balance between these two concepts. Moreover, the European Commission has provided the regulatory tools in order to support the Member States in facing this challenge. For this reason, every Member State should take seriously into account the right of citizens’ privacy. Finally, the reader should bear in mind that privacy is a horizontal issue that cuts across most of the activities relevant to cyber strategy.
 
 Typical tasks to consider include the following.
 
@@ -914,7 +914,7 @@ Practical Guide on Development and Execution"
 "3","4","Evaluate and adjust the national cyber-security strategy","numbered","","Once the strategy has been developed and is being executed, the extent to which the objectives are achieved should be assessed. By assessing the achieved results of the activities it is possible to take any required corrective and preventative actions in order to align with or change the objectives of the strategy.
 
 This chapter will cover the explicit requirements needed to evaluate and adjust the strategy. Evaluation is necessary to determine whether the objectives and the planned results have been effectively reached. The primary purpose of evaluation, in addition to gaining insights into the status of the existing initiatives, is to identify future objectives and adjust the strategy accordingly."
-"3","4.1","Evaluation approach","numbered","4","There are different methodologies to evaluate a strategy. In this chapter, we will not propose a specific one but rather focus on specific, practical actions necessary to perform an evaluation. This process should end with a report on the status of affairs and a list of actions that the national cyber-security strategy owner(s) should implement.
+"4","4.1","Evaluation approach","numbered","4","There are different methodologies to evaluate a strategy. In this chapter, we will not propose a specific one but rather focus on specific, practical actions necessary to perform an evaluation. This process should end with a report on the status of affairs and a list of actions that the national cyber-security strategy owner(s) should implement.
 
 The following suggestions can be considered in defining the strategy evaluation report.
 
@@ -945,7 +945,7 @@ assessment as well as the evaluation of each activity.  Prepare an analytical
 expectations for the next evaluation.  Carry out benchmarking studies in order to compare strategies between different
 
 Member States. The outcomes of a benchmarking study can be used to identify areas of improvement."
-"3","4.2","Key performance indicators","numbered","4","Both qualitative and quantitative measurements can be used to define KPIs. These KPIs might refer either to the strategy as a whole or to the activities of the strategy already described above. Below, we present a list of possible and indicative KPIs that could be considered for some of the key strategy components presented in Chapter 3.
+"4","4.2","Key performance indicators","numbered","4","Both qualitative and quantitative measurements can be used to define KPIs. These KPIs might refer either to the strategy as a whole or to the activities of the strategy already described above. Below, we present a list of possible and indicative KPIs that could be considered for some of the key strategy components presented in Chapter 3.
 
  Set the vision, scope, objectives and priorities: By assessing the objectives of the
 

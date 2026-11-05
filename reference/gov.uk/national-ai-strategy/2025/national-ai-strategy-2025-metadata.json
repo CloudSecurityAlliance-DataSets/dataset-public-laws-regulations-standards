@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Discovered primary PDF (https://assets.publishing.service.gov.uk/media/67851771f0528401055d2329/ai_opportunities_action_plan.pdf) from landing page (https://www.gov.uk/government/publications/ai-opportunities-action-plan); extracted 26-page PDF via PyMuPDF (56,671 chars). Parsed 57 sections (52 with explicit section identifiers)."
+    "notes": "Discovered primary PDF (https://assets.publishing.service.gov.uk/media/67851771f0528401055d2329/ai_opportunities_action_plan.pdf) from landing page (https://www.gov.uk/government/publications/ai-opportunities-action-plan); extracted 26-page PDF via PyMuPDF (56,699 chars). Parsed 59 sections (54 with explicit section identifiers)."
   },
   "extraction_history": [
     {

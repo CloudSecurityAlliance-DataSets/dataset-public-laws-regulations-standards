@@ -1258,7 +1258,7 @@ Based on the analysis of 22 EU Member States and EFTA countries, this section wi
 
  Low degree of implementation: <10 countries have largely implemented the objective  Medium degree of implementation: between 10 and 16 countries have largely implemented the objective  High degree of implementation: >16 countries have largely implemented the objective
 
-6.3.1 Low degree of implementation
+### 6.3.1 Low degree of implementation
 
 20
 
@@ -1318,7 +1318,7 @@ Only eight countries have established baseline security requirements across all 
 
 Privacy is a topic, which has gained momentum in recent years through events such as the global surveillance disclosures or the recent legal dispute between Apple and Federal Bureau of Investigation (FBI) on phone encryption. To determine if countries appropriately consider the balance between security and privacy, we examined if and to what extent the national data protection authority (DPA) is involved in the development of strategy papers, measures and preparation and drafting of legal documents. In nine countries, the DPA works together with the respective cyber security authorities in at least one of the mentioned areas (to varying degrees). In nine countries, the national DPA is not formally involved in these issues.
 
-6.3.2 Medium degree of implementation
+### 6.3.2 Medium degree of implementation
 
 20
 
@@ -1390,7 +1390,7 @@ In order to establish whether countries have developed national cyber contingenc
 
 The examined countries have developed different measures to strengthen training and educational programmes. Some countries are engaged in intensified dialogue with private stakeholders and academic institutions. The goal is to develop new cyber security courses at universities or to include cyber security in existing ones. Other governments are offering cyber security trainings for civil servants. Sixteen of the examined countries have implemented such measures to increase the number of cyber security experts in their country.
 
-6.3.3 High degree of implementation
+### 6.3.3 High degree of implementation
 
 20
 

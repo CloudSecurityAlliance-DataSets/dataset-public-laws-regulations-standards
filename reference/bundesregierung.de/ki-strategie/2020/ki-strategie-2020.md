@@ -1,6 +1,8 @@
 # Artificial Intelligence Strategy of the German Federal Government — 2020 Update
 
-## Status: December 2020
+## 2020 Update
+
+Status: December 2020
 
 Content
 

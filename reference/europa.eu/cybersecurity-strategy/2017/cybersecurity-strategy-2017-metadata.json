@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 21-page PDF (http://publications.europa.eu/resource/cellar/794f8627-985b-11e7-b92d-01aa75ed71a1.0001.02/DOC_1) locally via PyMuPDF (72,239 chars). Parsed 17 sections (0 with explicit section identifiers)."
+    "notes": "Extracted 21-page PDF (http://publications.europa.eu/resource/cellar/794f8627-985b-11e7-b92d-01aa75ed71a1.0001.02/DOC_1) locally via PyMuPDF (72,235 chars). Parsed 21 sections (20 with explicit section identifiers)."
   },
   "extraction_history": [
     {

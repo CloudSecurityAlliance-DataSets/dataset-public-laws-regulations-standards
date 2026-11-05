@@ -132,7 +132,7 @@ Shield
 
 a. Build cyber awareness within Australia’s workforce and supply chains.
 
-1.2 Make it easier for small and medium businesses, and the not-for-profit sector, to strengthen their cyber security
+### 1.2 Make it easier for small and medium businesses, and the not-for-profit sector, to strengthen their cyber security
 
 a. Simplify cyber security for small and medium businesses and provide targeted
 

@@ -1,6 +1,8 @@
 # Artificial Intelligence Strategy of the German Federal Government (2018)
 
-## Status: November 2018
+## Artificial Intelligence Strategy
+
+Status: November 2018
 
 The Federal Government’s Artificial Intelligence (AI) strategy was jointly developed by the Federal Ministry of Education and Research, the Federal Ministry for Economic Affairs and Energy, and the Federal Ministry of Labour and Social Affairs based on suggestions taken from an nationwide
 
@@ -82,7 +84,7 @@ Germany is already extremely well positioned in many areas of AI. This Strategy 
 
 In the 2019 federal budget, the Federation has taken a first step, allocating a total of €500 million to beef up the AI strategy for 2019 and the following years. Up to and including 2025, the Federation intends to provide around €3 billion for the implementation of the Strategy. The leverage effect this will have on business, science and the Länder will mean that the overall amount available is at least doubled.
 
-### 1. We want to make Germany and Europe a leading centre for AI and thus help safeguard Germany’s competitive­
+1. We want to make Germany and Europe a leading centre for AI and thus help safeguard Germany’s competitive­
 
 ness in the future.
 
@@ -92,21 +94,29 @@ and develop them into a national network of at least twelve centres and applicat
 
 2. We want a responsible development and use of AI which serves the good of society.
 
-• The Federal Government will establish a German observatory for artificial intelligence and will support the establishment of similar observatories at European and international level.
+• The Federal Government will establish a German observatory for artificial intelligence and will support
 
-• The Federal Government is initiating a European and transatlantic dialogue on the human-centric use of AI in the world of work.
+the establishment of similar observatories at European and international level.
 
-• As part of a National Further Training Strategy, the Federal Government will develop a broad-based set of instruments to foster the skills of the workforce.
+• The Federal Government is initiating a European and transatlantic dialogue on the human-centric use
 
-## • The Federal Government will use the results of a new skills monitoring to inform and develop its
+of AI in the world of work.
+
+• As part of a National Further Training Strategy, the Federal Government will develop a broad-based set
+
+of instruments to foster the skills of the workforce.
+
+• The Federal Government will use the results of a new skills monitoring to inform and develop its
 
 Skilled Labour Strategy in the fields of digital skills and new technologies such as AI. • The Federal Government will safeguard the possibilities for works councils to engage in co-determination when it comes to the introduction and use of AI. • We will fund in-company innovation spaces for AI applications in the world of work. • We will fund AI applications to benefit the environment and the climate, and will develop assessment principles for this. Our goal is to initiate 50 flagship applications in this field.
 
-### 3. We will integrate AI in society in ethical, legal, cultural and institutional terms in the context of a broad societal
+3. We will integrate AI in society in ethical, legal, cultural and institutional terms in the context of a broad societal
 
 dialogue and active political measures.
 
-• The Federal Government will invite data protection authorities and business associations for a round table and work together to develop joint guidelines for developing and using AI systems in a way that is compatible with data protection rules and to highlight best practice examples. • The Federal Government is providing funding for the development of innovative applications that support self-determination, social inclusion, cultural participation and the protection of citizens’ privacy. • The Federal Government will establish a Digital Work and Society Future Fund (Zukunftsfonds Digitale Arbeit und Gesellschaft) to get the message out and to promote multidisciplinary social technology design. • The Federal Government will further develop the Plattform Lernende Systeme into an Artificial Intelligence Platform that hosts a dialogue between government, science and commerce with civil society.
+• The Federal Government will invite data protection authorities and business associations for a round table
+
+and work together to develop joint guidelines for developing and using AI systems in a way that is compatible with data protection rules and to highlight best practice examples. • The Federal Government is providing funding for the development of innovative applications that support self-determination, social inclusion, cultural participation and the protection of citizens’ privacy. • The Federal Government will establish a Digital Work and Society Future Fund (Zukunftsfonds Digitale Arbeit und Gesellschaft) to get the message out and to promote multidisciplinary social technology design. • The Federal Government will further develop the Plattform Lernende Systeme into an Artificial Intelligence Platform that hosts a dialogue between government, science and commerce with civil society.
 
 ### 1. Goals
 

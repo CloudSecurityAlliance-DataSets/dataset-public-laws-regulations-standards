@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 40-page PDF (https://assets.innovazione.gov.it/1637777513-strategic-program-aiweb.pdf) locally via PyMuPDF (82,488 chars). Parsed 45 sections (13 with explicit section identifiers)."
+    "notes": "Extracted 40-page PDF (https://assets.innovazione.gov.it/1637777513-strategic-program-aiweb.pdf) locally via PyMuPDF (82,511 chars). Parsed 51 sections (19 with explicit section identifiers)."
   },
   "extraction_history": [
     {

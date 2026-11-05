@@ -9,35 +9,20 @@ Contents
 
 1. INTRODUCTION ····································································· 1
 
-1.1. A PARADIGM SHIFT BROUGHT ABOUT BY CYBERSPACE ······································ 1
+1.1. A PARADIGM SHIFT BROUGHT ABOUT BY CYBERSPACE ······································ 1"
+"3","1.2","CHANGES SINCE 2015 ············································································· 2","numbered","","2. UNDERSTANDING ON CYBERSPACE ········································· 4
 
-1.2. CHANGES SINCE 2015 ············································································· 2
+2.1. BENEFITS OF CYBERSPACE ········································································ 4"
+"3","2.2","INCREASING THREATS IN CYBERSPACE ·························································· 6","numbered","","3. VISIONS AND OBJECTIVES OF THIS STRATEGY ·························· 9
 
-2. UNDERSTANDING ON CYBERSPACE ········································· 4
-
-2.1. BENEFITS OF CYBERSPACE ········································································ 4
-
-2.2. INCREASING THREATS IN CYBERSPACE ·························································· 6
-
-3. VISIONS AND OBJECTIVES OF THIS STRATEGY ·························· 9
-
-3.1. ADHERENCE TO THE BASIC POSITION ON CYBERSECURITY··································· 9
-
-3.2. BASIC VISION OF CYBERSECURITY AS A GOAL ················································ 11
-
-4. POLICY APPROACHES TOWARDS ACHIEVING THE OBJECTIVE ····15
-
-4.1. ENABLING SOCIO-ECONOMIC VITALITY AND SUSTAINABLE DEVELOPMENT ·············· 15
-
-Advancing Cybersecurity as Value Creation Driver ·························································· 15
+3.1. ADHERENCE TO THE BASIC POSITION ON CYBERSECURITY··································· 9"
+"3","3.2","BASIC VISION OF CYBERSECURITY AS A GOAL ················································ 11","numbered","","4. POLICY APPROACHES TOWARDS ACHIEVING THE OBJECTIVE ····15"
+"3","4.1","ENABLING SOCIO-ECONOMIC VITALITY AND SUSTAINABLE DEVELOPMENT ·············· 15","numbered","","Advancing Cybersecurity as Value Creation Driver ·························································· 15
 
 Achieving a Supply Chain that Creates Values through Diverse Connections ···························· 18
 
-Building Secure IoT Systems ··················································································· 20
-
-4.2. BUILDING A SAFE AND SECURE SOCIETY FOR THE PEOPLE ·································· 22
-
-Measures for the Protection of the People and Society ······················································ 22
+Building Secure IoT Systems ··················································································· 20"
+"3","4.2","BUILDING A SAFE AND SECURE SOCIETY FOR THE PEOPLE ·································· 22","numbered","","Measures for the Protection of the People and Society ······················································ 22
 
 Protection of Critical Infrastructure through Public and Private Sector Cooperation ···················· 24
 
@@ -57,11 +42,8 @@ Commitment to a Free, Fair, and Secure Cyberspace ···············
 
 Strengthening Capabilities for Defense, Deterrence, and Situational Awareness ························· 37
 
-International Cooperation and Collaboration ·································································· 40
-
-4.4. CROSS-CUTTING APPROACHES TO CYBERSECURITY ········································· 42
-
-Development and Assurance of Cybersecurity Human Resource ·········································· 42
+International Cooperation and Collaboration ·································································· 40"
+"3","4.4","CROSS-CUTTING APPROACHES TO CYBERSECURITY ········································· 42","numbered","","Development and Assurance of Cybersecurity Human Resource ·········································· 42
 
 Advancement of Research and Development ································································· 46
 
@@ -122,7 +104,7 @@ agricultural society, industrial society, and information society to “Society 
 1 Multiple stakeholders are defined as “the national government, local governments, CII Operators, and Cyberspace-related Business Entities” in Article 16 of the Basic Act on Cybersecurity. Article 7 of the same Act defines Cyberspace-related Business Entities as “Cyberspace-Related Business Entities (referring to those engaged in business regarding the maintenance of the Internet and other advanced information and telecommunications networks, the utilization of information and telecommunications technologies, or involved in business related to Cybersecurity; the same applies hereinafter).” 2 In the Cybersecurity Strategy report (September 2015), the impact of these characteristics on society is compared to the explosion of knowledge triggered by Gutenberg’s invention of letterpress printing. 3 Society 5.0 is the 5th stage of human history, following the hunting society, agricultural society, industrial society, and information society. It is a society in which new value and new services are created continuously bringing wealth to the people of society. (Source: Growth Strategy 2017 (Cabinet Decision on June 9, 2017))
 
 examine the future vision of cybersecurity whilst taking into consideration these transformations."
-"3","1.2","Changes Since 2015","numbered","1","The Cybersecurity Strategy (hereinafter referred to as the “Strategy 2015”), enacted by the Cabinet
+"3","1.1.2","Changes Since 2015","numbered","1","The Cybersecurity Strategy (hereinafter referred to as the “Strategy 2015”), enacted by the Cabinet
 
 decision in September 2015 after deliberations by the Cybersecurity Strategic Headquarters
 
@@ -357,7 +339,7 @@ in which cooperation occurs across domains via cyberspace, and new services are 
 emerge continuously that generate more abundance for people through the sharing and analysis
 
 of data."
-"3","2.2","Increasing Threats in Cyberspace","numbered","2","While AI and IoT technologies and services have the potential to bring many benefits to people,
+"3","2.2.2","Increasing Threats in Cyberspace","numbered","2","While AI and IoT technologies and services have the potential to bring many benefits to people,
 
 there is always the latent risk that the providers of these technologies and services will lose the
 
@@ -575,7 +557,7 @@ efforts. States have the role of promoting this coordination and collaboration, 
 measures enabling the fulfillment of such roles.
 
 33"
-"3","3.2","Basic Vision of Cybersecurity as a Goal","numbered","3","Based on Japan’s idea mentioned above, the following presents the desired outcome that
+"3","3.3.2","Basic Vision of Cybersecurity as a Goal","numbered","3","Based on Japan’s idea mentioned above, the following presents the desired outcome that
 
 cybersecurity initiatives must aim for and three approaches required to promoting such initiatives
 
@@ -754,7 +736,7 @@ three years, for delivering results of the strategy. Each policy is expected to 
 following three approaches described in Japan’s Idea on Cybersecurity and the Basic Vision of
 
 Cybersecurity."
-"3","4.1","Enabling Socio-Economic Vitality and Sustainable Development","numbered","4","Enterprises are improving productivity of their business with active use of digital devices, such as
+"3","4.4.1","Enabling Socio-Economic Vitality and Sustainable Development","numbered","4","Enterprises are improving productivity of their business with active use of digital devices, such as
 
 personal computers and smart phones, and the Internet. Such technologies are also utilized to
 
@@ -960,11 +942,8 @@ Achieving a Supply Chain that Creates Values through Diverse Connections
 
 As unification of cyberspace and real space accelerates, previously nonexistent trade between
 
-different industries and enterprises is occurring on a global scale as we move towards Society
-
-5.0. Furthermore, diverse and fluid forms that go beyond the traditional supply train are emerging,
-
-such as the automation of trade. Given these new forms, cybersecurity issues that occur at the
+different industries and enterprises is occurring on a global scale as we move towards Society"
+"3","5.0","Furthermore, diverse and fluid forms that go beyond the traditional supply train are emerging,","numbered","","such as the automation of trade. Given these new forms, cybersecurity issues that occur at the
 
 edge of these connections of supply chains have the potential to spread more broadly than before
 
@@ -1179,7 +1158,7 @@ In the future, the government intends to contribute to establishing a safe envir
 improving global information and communication networks by taking these Japanese measures
 
 as models and expanding them overseas through international coordination and standardization."
-"3","4.2","Building a Safe and Secure Society for the People","numbered","4","For the realization of society in which the people can live safely and securely, it is important to
+"3","4.4.2","Building a Safe and Secure Society for the People","numbered","4","For the realization of society in which the people can live safely and securely, it is important to
 
 ensure multi-layered cybersecurity, through the coordination of multi-stakeholders, including
 
@@ -2397,7 +2376,7 @@ According to the Basic Strategy on Cybersecurity Capacity Building for Developin
 published in 2016, the government will proactively promote capacity building in developing
 
 countries."
-"3","4.4","Cross-Cutting Approaches to Cybersecurity","numbered","4","In order to achieve the three policy goals – “enabling socio-economic vitality and sustainable
+"3","4.4.4","Cross-Cutting Approaches to Cybersecurity","numbered","4","In order to achieve the three policy goals – “enabling socio-economic vitality and sustainable
 
 development,” “building a safe and secure society for the people,” and “contribution to the peace
 

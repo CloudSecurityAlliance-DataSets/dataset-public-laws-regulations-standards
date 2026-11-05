@@ -76,13 +76,13 @@ Preface 5
 
 1.3 Overall structure and usage of the Guide 9
 
-1.4 Target audience 10
+### 1.4 Target audience 10
 
 2 Introduction 11
 
 2.1 What is cybersecurity 13
 
-2.2 Benefits of a National Cybersecurity Strategy and Strategy development process 13
+### 2.2 Benefits of a National Cybersecurity Strategy and Strategy development process 13
 
 3 Lifecycle of a National Cybersecurity Strategy 15
 
@@ -128,7 +128,7 @@ Preface 5
 
 3.5.2 Monitoring the progress of the implementation of the Strategy 26
 
-3.5.3 Evaluating the outcomes of the Strategy 27
+### 3.5.3 Evaluating the outcomes of the Strategy 27
 
 4 Overarching principles 29
 
@@ -148,7 +148,7 @@ Preface 5
 
 4.8 Clear leadership, roles and resource allocation 34
 
-4.9 Trust environment 34
+### 4.9 Trust environment 34
 
 5 National Cybersecurity Strategy Good Practice 35
 
@@ -230,7 +230,7 @@ Preface 5
 
 5.7.3 Promote formal and informal cooperation in cyberspace 50
 
-5.7.4 Align domestic and international cybersecurity efforts 50
+### 5.7.4 Align domestic and international cybersecurity efforts 50
 
 6 Reference materials 51
 
@@ -424,15 +424,13 @@ Strategy
 
 In accordance with Sections 4 and 5 of this document, the initiation phase of a National Cybersecurity Strategy provides the foundations for its efficient development. This phase is expected to focus on processes, timelines, and identification of key stakeholders who should be involved in the production of the Strategy. The outcome of this phase is the elaboration of a plan for the development of the Strategy. When foreseen by the country’s governance process, the plan may require the approval of the country’s Executive.3
 
-### 3.1.1
+### 3.1.1 Identifying the Lead Project Authority
 
-Identifying the Lead Project Authority In line with the principle of defining clear leadership, roles and resource allocation (Section 4.8), the Strategy development process should be coordinated by a single, competent authority. The Executive should appoint an either pre-existing or newly created public entity, such as a ministry, agency, or a department, to lead the development of the Strategy. This entity, referred to in this document as the Lead Project Authority, should in turn, appoint an individual responsible and accountable for leading the Strategy development process.
+In line with the principle of defining clear leadership, roles and resource allocation (Section 4.8), the Strategy development process should be coordinated by a single, competent authority. The Executive should appoint an either pre-existing or newly created public entity, such as a ministry, agency, or a department, to lead the development of the Strategy. This entity, referred to in this document as the Lead Project Authority, should in turn, appoint an individual responsible and accountable for leading the Strategy development process.
 
 The Lead Project Authority should be neutral throughout the development process. To this end, it is recommended that this entity be different from the one(s) that will be responsible for the implementation of the Strategy. This or other mechanisms should be adopted to overcome any inherent bias and help avoid intra-governmental competition for resources.
 
-### 3.1.2
-
-Establishing a Steering Committee
+### 3.1.2 Establishing a Steering Committee
 
 The Executive should also establish a Steering Committee to work with the Lead Project Authority in developing the Strategy. It should be empowered to provide guidance, as well as play a role in quality assurance. In addition, it should guarantee the transparency and inclusiveness of the process, in accordance with the principle on clear leadership, roles and resource allocation (Section 4.8). The Steering Committee’s role, set-up and membership should be clearly defined from the outset.
 
@@ -440,9 +438,7 @@ As the Steering Committee may need to review sensitive documents, it should be c
 
 3 The individual or entity in charge of the decision-making process at the national level.
 
-### 3.1.3
-
-Identifying stakeholders to be involved in the development of the Strategy
+### 3.1.3 Identifying stakeholders to be involved in the development of the Strategy
 
 In this step, the Lead Project Authority should identify an initial set of stakeholders to be involved in the development of the Strategy. It should also clarify the roles of the different stakeholders and outline how they will collaborate in order to manage expectations throughout the process.
 
@@ -450,9 +446,7 @@ Throughout the process, the Lead Project Authority may need to reach out to addi
 
 Such cooperation mechanism could take the form of an Advisory Committee, that would contribute in providing members to the Steering Committee, as well as be consulted on the various phases.
 
-### 3.1.4
-
-Planning the development of the Strategy
+### 3.1.4 Planning the development of the Strategy
 
 In the final step of the Initiation phase, the Lead Project Authority should prepare a plan for developing the National Cybersecurity Strategy. Once the plan has been drafted, it should be submitted, as applicable, to the Steering Committee and the Executive, for approval, in accordance with the national governance processes.
 
@@ -514,9 +508,7 @@ Lastly, the analysis should result in an assessment of all relevant and desirabl
 
 Further references available on page 55.
 
-### 3.2.1
-
-Assessing the national cybersecurity landscape
+### 3.2.1 Assessing the national cybersecurity landscape
 
 For the National Cybersecurity Strategy to be effective, it needs to reflect the cybersecurity posture of the country. To this end, an analysis of the country’s existing cybersecurity strengths and weaknesses should be conducted, and relevant materials and documents should be consulted in collaboration with relevant stakeholders across government, private sector and civil society. This step should embrace the principle of comprehensive approach and tailored priorities (described in Section 4.2).
 
@@ -530,9 +522,7 @@ Relevant information provided by the private sector, research institutions and o
 
 Finally, the Lead Project Authority should also investigate similar information at the regional and international levels, and examine sector-specific strategies and initiatives.
 
-### 3.2.2
-
-Assessing the cyber-risk landscape
+### 3.2.2 Assessing the cyber-risk landscape
 
 Building on the information collected in the previous step, the Lead Project Authority should assess the risks the nation faces due to digital dependence. This can be achieved through the identification of national digital assets, both public and private, their interdependencies, vulnerabilities and threats, and an estimation of the likelihood and potential impact of a cyber-incident.
 
@@ -542,9 +532,7 @@ This effort embraces the principle of risk management and resilience (Section 4.
 
 The purpose of this phase is to develop the text of the Strategy by engaging key stakeholders from the public sector, private sector and civil society through a series of public consultations and working groups. This broader group of stakeholders, coordinated by the Lead Project Authority, will be responsible for defining the overall vision and scope of the Strategy, setting high-level objectives, taking stock of the current situation (detailed in Phase II), prioritising objectives in terms of impact on society, citizens and the economy, and ensuring the necessary financial resources. As part of this phase, all the cross-cutting principles (Section 4) should be considered and good-practice elements (Section 5) detailed in this Guide should be considered.
 
-### 3.3.1
-
-Drafting the National Cybersecurity Strategy
+### 3.3.1 Drafting the National Cybersecurity Strategy
 
 Once the stocktaking and analysis phase is complete, the Lead Project Authority, in collaboration with the Steering Committee, should initiate the drafting of the Strategy. Dedicated working groups could be created either to focus on specific topics, or to draft different sections of the Strategy. The working groups should follow the processes established in the Initiation Phase, adjusting these as necessary.
 
@@ -554,23 +542,17 @@ Similarly to the step dealing with planning the development of the Strategy, the
 
 The Strategy also needs to define or confirm the mandate of the different entities responsible for initiating and developing cybersecurity policies and regulations within the country. In addition, it should define the responsibilities and tasks of the entities responsible for collecting threat and vulnerability information, responding to cyber-incidents (e.g., national CERTs), strengthening preparedness and performing crisis management. It should also ensure that it is clear how all of these entities interact with each other and with the central authority.
 
-### 3.3.2
-
-Consulting with a broad range of stakeholders
+### 3.3.2 Consulting with a broad range of stakeholders
 
 As mentioned above, engaging stakeholders is crucial for the success of a Strategy. In order to ensure that the final Strategy is based on a shared vision, the draft document should be disseminated across a wide stakeholder group not limited to those who participated in the Strategy development process. This can happen through a variety of engagements, including online consultation, validation workshops, and additional working groups. It is expected that feedback and comments resulting from this process will be used to finalise the Strategy.
 
-### 3.3.3
-
-Seeking formal approval
+### 3.3.3 Seeking formal approval
 
 In the final step of the Strategy development, the Lead Project Authority should ensure that the Strategy is formally adopted by the Executive. This official adoption process will vary by country and be based on how the Strategy is defined in the legislative framework. For example, it could be adopted through a parliamentary procedure or a government decree.
 
 Furthermore, it is pivotal that the Strategy is not only developed with approval from the highest levels of government, but that this commitment continues in its implementation phase. The relevant officials should be held accountable and be supported by both political capital and resources.
 
-### 3.3.4
-
-Publishing the Strategy
+### 3.3.4 Publishing the Strategy
 
 The Strategy should be a public document and should be made readily available. Its broad availability will both ensure that the general public is aware of the government’s cybersecurity priorities and objectives, and also support any effort to raise cybersecurity awareness. Should the Strategy be accompanied by an Action Plan, the latter should also indicate additional opportunities for further engagement and cooperation with civil society and the private sector.
 
@@ -580,9 +562,7 @@ Further references available on page 55.
 
 The Implementation phase is the most important element of the overall National Cybersecurity Strategy lifecycle. A structured approach to implementation, supported by adequate human and financial resources, is critical to the success of the Strategy and needs to be considered as part of its development. The implementation phase is frequently centred on an Action Plan, which guides the various activities envisioned.
 
-### 3.4.1
-
-Developing the action plan
+### 3.4.1 Developing the action plan
 
 As with the development of the Strategy, its implementation cannot be the sole responsibility of a single authority. Instead, it requires engagement and coordination of a range of different stakeholders across the government, as well as support from civil society and the private sector. The Action Plan, developed in accordance with the principle of clear leadership, roles and resource allocation (Section 4.8), can support the effective implementation of the Strategy.
 
@@ -590,9 +570,7 @@ The development of the Action Plan is almost as important as the Plan itself. Th
 
 process, orchestrated by the Lead Project Authority, should serve as a mechanism to bring the relevant stakeholders together to agree on objectives and outcomes, as well as coordinate efforts and pool resources.
 
-### 3.4.2
-
-Determining initiatives to be implemented
+### 3.4.2 Determining initiatives to be implemented
 
 The National Cybersecurity Strategy highlights the government’s objectives and the outcomes they wish to realise across the different focus areas identified. In the Action Plan, the Lead Project Authority should – in coordination with relevant stakeholders – identify the specific initiatives within each focus area that will help meet those objectives. Examples could include organising cybersecurity exercises,
 
@@ -600,17 +578,13 @@ establishing security baselines for critical infrastructures, or setting an inci
 
 The timeline and effort needed for the implementation of these initiatives should be prioritised in accordance with their criticality to ensure that limited resources are appropriately leveraged. To this end, results and outcomes of Phase II (Stocktaking and analysis) specifically with regards to “Assessing the cyber-risk landscape” (Section 3.2.2) might be considered.
 
-### 3.4.3
-
-Allocating human and financial resources for the implementation
+### 3.4.3 Allocating human and financial resources for the implementation
 
 Once the priority initiatives have been identified, the Lead Project Authority should identify specific government entities as owners for each of those initiatives. In turn, these government entities would be responsible and accountable for the implementation of each specific initiative assigned to them and be expected to coordinate their efforts with other relevant stakeholders as part of the implementation process.
 
 To ensure these entities can deliver the expected outcomes, the Lead Project Authority should assess whether they have been given an appropriate mandate – legal or otherwise – required for the implementation. The Lead Project Authority should also work with the owners of the specific initiatives to understand what resources are required to accomplish the work. This assessment should incorporate human resources, expertise and funding needs. The Lead Project Authority should then work with the owners to help them identify and secure the required resources in accordance with administrative financial structures of the country.
 
-### 3.4.4
-
-Setting timeframes and metrics
+### 3.4.4 Setting timeframes and metrics
 
 The final critical element of the Action Plan is the development of specific metrics and key performance indicators to assess each of the initiatives undertaken, such as whether the country conducted an awareness campaign on the importance of information sharing, organised and executed a cybersecurity exercise with critical infrastructure sector, or passed a security baseline law. Specific timelines for implementation should also be set.
 
@@ -622,9 +596,7 @@ Further references available on page 55.
 
 During this phase, a competent authority should devise a formal process to monitor and evaluate the Strategy. In the monitoring phase, the government should ensure that the Strategy is implemented in accordance with its Action Plan. In the evaluation phase, the government and its competent authority should assess whether the Strategy is still relevant in light of the changing risk environment and whether it still reflects the government’s objectives and what adjustments are necessary.
 
-### 3.5.1
-
-Establishing a formal process
+### 3.5.1 Establishing a formal process
 
 To ensure effective monitoring and evaluation of the implementation of the Strategy, the government will have to identify an independent entity responsible for monitoring and evaluating the implementation progress and efficiency. The entity should ideally be involved in defining appropriate monitoring and evaluation metrics for the implementation of the Strategy and associated Action Plan and initiatives, which should take place during the Production and Initiation phases.
 
@@ -642,17 +614,13 @@ Monitoring and measuring the performance and successful execution of the impleme
 
 The establishment of baseline metrics will enable better monitoring of actions and highlight areas of potential improvement. Furthermore, the allocation of budgets should match the levels of ambition and complexity of the desired impact.
 
-### 3.5.2
-
-Monitoring the progress of the implementation of the Strategy
+### 3.5.2 Monitoring the progress of the implementation of the Strategy
 
 The entity responsible for monitoring the progress of implementation of the Strategy should do so in accordance with an agreed upon timeline over the course of the entire lifecycle of the Strategy. The outcome of such monitoring activity (e.g., a report), should note any deviations from the agreed upon timelines and the reasons for any delays, such as priorities shifting, insufficient staffing or resources, etc. This should be done in addition to periodic updates by the owners of the different strands of the implementation of the Strategy to the Lead Project Authority.
 
 This approach will ensure that the relevant stakeholders are held accountable to the commitments set; it will also ensure that any challenges to implementation are identified early on. In turn, this would allow the government to either rectify the situation or adapt its plans accordingly based on the lessons learnt in the implementation process.
 
-### 3.5.3
-
-Evaluating the outcomes of the Strategy
+### 3.5.3 Evaluating the outcomes of the Strategy
 
 In addition to assessing the progress across the agreed upon metrics, it is important to also periodically evaluate the outcomes and compare them with the objectives set. This is critical for understanding whether the objectives of the Strategy are being realised or whether different actions should be considered. As part of this process, the broader risk environment also needs to be regularly re-evaluated to understand whether any external changes are affecting the outcomes of the Strategy. Effectively, this process acts as a light-touch revision of a country’s risk assessment profile.
 
@@ -790,15 +758,11 @@ To that end, the Strategy should identify and empower the competent authority ac
 
 funding, time and people) to achieve the desired outcomes.
 
-### 5.1.1
-
-Ensure the highest level of support
+### 5.1.1 Ensure the highest level of support
 
 The Strategy should have the formal endorsement of the highest level of government. This endorsement serves two important purposes. Firstly, it improves the likelihood that sufficient resources will be allocated and that coordination efforts will be successful. Secondly, it signals to the broader national ecosystem how significant the country finds cybersecurity.
 
-### 5.1.2
-
-Establish a competent cybersecurity authority
+### 5.1.2 Establish a competent cybersecurity authority
 
 The Strategy should identify a dedicated national-competent cybersecurity authority – a leader (whether an individual or an entity) who is elevated and strongly anchored at the highest level of government to provide direction, to coordinate action, and to monitor the implementation of the Strategy.
 
@@ -806,31 +770,23 @@ Such a national competent cybersecurity authority should also act as management 
 
 Given the fact that cybersecurity intersects many different issue areas, it is important to ensure that the national-competent authority has the ability to involve and direct relevant stakeholders.
 
-### 5.1.3
-
-Ensure intra-government cooperation
+### 5.1.3 Ensure intra-government cooperation
 
 The Strategy should establish a mechanism to identify and include the government entities affected by or responsible for its implementation. Intra-governmental commitment, coordination and cooperation are core functions of those governmental institutions, needed to ensure that the governance mechanisms (i.e. rules) and resources yield the desired outcomes of the Strategy.
 
 Effective communication and coordination ensure that all ministries and government agencies are aware of each other’s respective authorities, missions and tasks. Commitment, however, is about supporting consistent policies over time to ensure that promises in the Strategy are delivered. An example of a coordination mechanism would be conducting periodic meetings that involve all relevant stakeholders in the plans of actions that are to be jointly reviewed. An example of a cooperation mechanism would be the creation of an intra-government task force to address a particular issue. An example of commitment is consistency between the country’s domestic and foreign policy agendas, so that one ministry does not undermine the credibility of another by representing different positions on the same policy issue area.
 
-### 5.1.4
-
-Ensure inter-sectoral cooperation
+### 5.1.4 Ensure inter-sectoral cooperation
 
 The Strategy should reflect an understanding of the dependencies that the government has on the private sector and other national stakeholders (and vice-versa) in ensuring cybersecurity. To this end, it should articulate how the government will engage these stakeholders and define their roles and responsibilities. For example, the Strategy should identify a network of authoritative national contact points for critical industries that are essential for the operation and recovery of critical services and infrastructures.
 
-### 5.1.5
-
-Allocate dedicated budget and resources
+### 5.1.5 Allocate dedicated budget and resources
 
 The Strategy should specify the allocation of dedicated and appropriate resources for its implementation, maintenance and revision. Sufficient, consistent and continuous funding provides the foundations for an effective national cybersecurity posture. Resources should be defined in terms of money (i.e. dedicated budget), people, material, as well as the relationships and partnerships and continued political commitment and leadership required for successful execution. Resourcing the objectives and tasks within the Strategy should not be viewed as a one-time initiative. Resources can be allocated by task or objective, or by a governmental entity.
 
 The government may also consider the establishment of a central budget for cybersecurity, managed by a central cybersecurity governance mechanism. Whether assembling disparate funding sources into a coherent, integrated programme or creating a unified intra-governmental budget, the overall programme should be managed and tracked by milestones to ensure successful implementation of the Strategy.
 
-### 5.1.6
-
-Develop an implementation plan
+### 5.1.6 Develop an implementation plan
 
 The Strategy should be accompanied by, or reference, an implementation plan that outlines in greater detail how its strategic objectives will be achieved. Effective implementation plans identify the accountable entity responsible for each task and objective, the resources required to execute them over time (near-term, mid-term, long-term), the processes that will be used, and the outcomes that are expected (Section 3.4 on Initiating Implementation).
 
@@ -842,17 +798,13 @@ This focus area introduces good practices for addressing cybersecurity through r
 
 It is also important to note that, as cybersecurity threats are extremely dynamic and unpredictable, any risk-management approach should be reviewed regularly. As such, the Strategy should plan for monitoring and evaluation of risk-management activities to ensure continuous improvement.
 
-### 5.2.1
-
-Define a risk-management approach
+### 5.2.1 Define a risk-management approach
 
 The Strategy should define a coherent approach for risk management to be followed by all government entities and critical-infrastructure operators identified domestically. The approach should result in the identification of key assets and services critical to the proper functioning of the society and economy, threats, and the risks associated with them.
 
 The approach should aim to develop a national risk register, securely stored and communicated, to allow government oversight of risks and approaches taken to manage these. The approach should moreover develop a method of prioritisation based on a calculation of the probability of realising the risks and their impact. It should furthermore specify the responsibilities of key entities in each sector regarding the assessment, acceptance and treatment of national-level cybersecurity risks.
 
-### 5.2.2
-
-Identify a common methodology for managing cybersecurity risk
+### 5.2.2 Identify a common methodology for managing cybersecurity risk
 
 The Strategy should identify a common methodology for managing cybersecurity risks. This will ensure efficiency and consistency across all organisations and facilitate the exchange of risk information across inter-dependent systems. A methodology based on international standards should be favoured as it may reduce costs and yield better interaction with the private sector.
 
@@ -860,17 +812,13 @@ The methodology should provide guidance on assigning roles and responsibilities 
 
 Importantly, for the procurement and development of infrastructure or services, the risk-management methodology should furthermore provide guidance on minimising risk through secure architecture and design, recognising that security is best achieved where it is an integral part of the design process of a product, process or service (security by design).
 
-### 5.2.3
-
-Develop sectoral cybersecurity risk profiles
+### 5.2.3 Develop sectoral cybersecurity risk profiles
 
 The Strategy should call for the use of sectoral risk profiles for cybersecurity. A sectoral risk profile is a quantitative analysis of the types of threats faced. The goal of a risk profile is to provide a less-subjective understanding of risk by assigning numerical values to variables representing different types of threats and the danger they pose. The Strategy should recommend risk profiles to be developed for those sectors that the country considers critical to its society and economy.
 
 The use of sectoral risk profiles provides a basis for more specific risk assessments for individual organisations, introduces coherence within and across all sectors nationally, and reduces the resources needed for organisational risk assessments. They should be regularly updated to ensure that they remain current.
 
-### 5.2.4
-
-Establishing cybersecurity policies
+### 5.2.4 Establishing cybersecurity policies
 
 The Strategy should encourage the establishment of cybersecurity policies for critical national entities, such as government authorities and critical infrastructures operators, among others. Such policies, adopted in accordance with the Principle of an Appropriate Set of Policy Instruments (Section 4.7), would cover governance, operational and technical requirements, and instruct stakeholders on their roles and responsibilities, as well as guide or mandate specific approaches to these issues.
 
@@ -884,9 +832,7 @@ Further references available on page 61.
 
 This focus area provides an overview of good practices that support the establishment and sustainability of effective national capabilities to prevent, detect, mitigate and respond to major cybersecurity incidents, and to improve a country’s overall cyber-resilience.
 
-### 5.3.1
-
-Establish cyber-incident response capabilities
+### 5.3.1 Establish cyber-incident response capabilities
 
 The Strategy should call for the establishment of appropriate national incident-response capabilities to address operational cybersecurity challenges. Often, this capability refers to the establishment of Computer Emergency Response Teams (CERTs), Computer Security Incident Response Teams (CSIRTs) or Computer Incident Response Teams (CIRTs) with national responsibility.
 
@@ -894,17 +840,13 @@ Although the specific organisational form of a CERT/CSIRT/CIRT may vary (e.g., n
 
 The Strategy should also identify and develop cooperation mechanisms and communication procedures between national and sectorial incident-response teams (should they exist in the country), as well as with international counterparts.
 
-### 5.3.2
-
-Establish contingency plans for cybersecurity crisis management
+### 5.3.2 Establish contingency plans for cybersecurity crisis management
 
 The Strategy should call for the development of a national contingency plan for cybersecurity emergencies and crises. The plan should be part of, or aligned with, the overall national contingency plan. A specific plan for critical information infrastructures should also be considered.
 
 This national cybersecurity contingency plan should consider the findings from the national risk assessments and any cross-sector dependencies that could affect the continuity of operations of critical infrastructures, as well as any disaster-recovery mechanisms. Moreover, it should provide an overview of the national incident-response mechanisms; as well as highlight how cybersecurity incidents are categorised, based on their impact on critical assets and services.
 
-### 5.3.3
-
-Promote information-sharing
+### 5.3.3 Promote information-sharing
 
 The Strategy should call for the establishment of information-sharing mechanisms to enable the exchange of actionable intelligence and threat information between and amongst the public and private sectors.
 
@@ -914,9 +856,7 @@ The Strategy should identify one or more institutional structures (i.e. competen
 
 Information-sharing should be a two-way process. If governments are willing to share the information they retain, their actions will demonstrate to private sector entities that the government is indeed a partner in threat-information sharing, and help ensure that responders are focused on and better prepared to respond to essential threats.
 
-### 5.3.4
-
-Conduct cybersecurity exercises
+### 5.3.4 Conduct cybersecurity exercises
 
 The Strategy should encourage the organisation and coordination of domestic and international cybersecurity and incident response exercises. These can follow different formats (e.g., simulations or real-time exercises) and target the technical and decision-making audiences.
 
@@ -938,17 +878,13 @@ Alternatively, the concept of essential services may be applied, referring to se
 
 In either case, a few non-exhaustive examples of these services include: energy (electricity, oil and gas), transportation (air, rail, water and road), finance and banking (credit institutions, trading venues and central counterparties), healthcare (healthcare organisations, including hospitals and private clinics), drinking-water supply and distribution, digital and telecommunications (fixed and mobile telephone services and provision of internet infrastructure, such as internet exchange points (IXPs) and domain name service, among others).
 
-### 5.4.1
-
-Establish a risk-management approach to protecting critical infrastructures and services
+### 5.4.1 Establish a risk-management approach to protecting critical infrastructures and services
 
 The Strategy should address the protection of CIs and CIIs from a risk-management perspective, in accordance with Principle of Risk Management and Resilience (Section 4.6). A detailed risk assessment should guide the identification of national CIs and CIIs and critical services, whose disruption may have a serious impact on the health, safety, security, or economic well-being of citizens, or on the effective functioning of government or the economy.
 
 Furthermore, a risk-based approach should also be adopted in identifying and prioritising implementation of programmes and policies designed to protect CIs and CIIs. To facilitate engagement with the private sector, a risk-management approach based on international standards might also be considered.
 
-### 5.4.2
-
-Adopt a governance model with clear responsibilities
+### 5.4.2 Adopt a governance model with clear responsibilities
 
 The Strategy should at a high level describe the governance structure, roles and responsibilities of the different stakeholders for CI and CII protection. As stipulated in the Principle of Clear Leadership, Roles and Resource Allocation (Section 4.8), an effective and efficient CI-protection programme requires that stakeholders have clearly defined roles and responsibilities and establish a coordination mechanism for managing ongoing issues.
 
@@ -956,9 +892,7 @@ CIs and CIIs are often not owned or controlled by the government, and CI and CII
 
 The governance model for CI and CII protection should include the identification of government entities in charge of specific verticals, the responsibilities and accountability of operators of CIs and CIIs, as well as the communication channels and cooperation mechanisms between public and private agencies to ensure the operation and recovery of critical services and infrastructures.
 
-### 5.4.3
-
-Define minimum cybersecurity baselines
+### 5.4.3 Define minimum cybersecurity baselines
 
 The Strategy should either highlight the existing or propose the development of new legislative and regulatory frameworks outlining minimum cybersecurity baselines for CI and CII operators, among others. When developing such baselines, internationally recognised standards and best practices should be considered to ensure better security outcomes and greater efficiencies.
 
@@ -966,17 +900,13 @@ Security baselines should be outcomes-focused, articulating what organisations s
 
 from continuous security improvements. In addition, an outcomes-based approach to the development of these baselines leaves room for sector-specific implementation or “how to” guidance, which allows enterprises the flexibility to regularly update their own guidance to reflect the changing technology and threat environments.
 
-### 5.4.4
-
-Utilise a wide range of market levers
+### 5.4.4 Utilise a wide range of market levers
 
 The Strategy should consider a wide range of policies to ensure that all organisations and individuals are indeed incentivised to fulfil their individual cybersecurity responsibilities, commensurate with the risks they face, in accordance with the principle of comprehensive approach and tailored priorities (Section 4.2).
 
 Identifying gaps between what the markets can and should drive and what the risk environment requires is a crucial step towards determining when and how to leverage the range of incentives and disincentives available to improve security. To encourage the uptake of cybersecurity standards and practices across CIs and CIIs, the Strategy should indicate that the government will consider a range of policy options and market levers at its disposal.
 
-### 5.4.5
-
-Establish public-private partnerships
+### 5.4.5 Establish public-private partnerships
 
 The Strategy should encourage the creation of formal public-private partnerships to increase the security of Cis and CIIs. Public-private partnerships are a cornerstone of effectively protecting critical infrastructure and managing security risks in both the short-and long-term. They are essential for boosting trust amongst and between the industry and the government.
 
@@ -990,33 +920,25 @@ Technology and policy considerations can dominate cybersecurity discussions, ove
 
 Good practices considered in this section include, the establishment of dedicated cybersecurity curricula and awareness-raising programmes, expansion of training schemes and workforce-development programmes, adoption of international certification schemes, and promotion of innovation and research and development (R&D) clusters.
 
-### 5.5.1
-
-Develop cybersecurity curricula
+### 5.5.1 Develop cybersecurity curricula
 
 The Strategy should facilitate the development of school curricula with the aim of accelerating cybersecurity skills development and awareness throughout the formal education system. This should include developing dedicated cybersecurity curricula across primary and secondary schools, integrating cybersecurity courses in all computer science and IT programmes in higher education, and creating dedicated cybersecurity degrees and government apprenticeships.
 
 Additionally, the school curricula should foster awareness of and stimulate interest in cybersecurity career opportunities. To further the efforts in this space, the government should also consider establishing various incentive schemes, such as scholarships for private education programmes and grants for relevant apprenticeships.
 
-### 5.5.2
-
-Stimulate skills development and workforce training
+### 5.5.2 Stimulate skills development and workforce training
 
 The Strategy should address the development of cybersecurity training and skills-development schemes for experts and non-experts in both public and private sectors. The effort could include the provision of executive and operational training, formal internships and traineeships, and (national and international) certification of security professionals, based on the needs identified by industry and government. Technical training should be complemented with initiatives focused on risk management.
 
 The Strategy should also foster initiatives, which aim to develop dedicated cybersecurity career paths, in particular for the public sector, and incentives to increase the supply of qualified cybersecurity professionals. These should be created in partnership with academia, the private sector and civil society. To address the ongoing gender gap of experts in cybersecurity, a gender-balanced approach that motivates, encourages and facilitates more engagement from women should be considered across all efforts aimed at skills-development and training, ensuring inclusivity in the future.
 
-### 5.5.3
-
-Implement a coordinated cybersecurity awareness-raising programme
+### 5.5.3 Implement a coordinated cybersecurity awareness-raising programme
 
 The Strategy should assign responsibility to coordinate cybersecurity awareness campaigns and activities at the national level to a competent authority to ensure resources are streamlined and accountability established. The authority should collaborate with relevant stakeholders to develop and implement cybersecurity awareness programmes focusing on disseminating information about cybersecurity risks and threats, as well as about best practices for countering them.
 
 A cybersecurity awareness-raising programme could include awareness-raising campaigns aimed at the general public, children, digitally challenged, consumer-focused education programmes, and awareness-raising initiatives among others, targeted at executives across public and private sectors.
 
-### 5.5.4
-
-Foster cybersecurity innovation and R&D
+### 5.5.4 Foster cybersecurity innovation and R&D
 
 The Strategy should foster an environment that stimulates basic and applied research in cybersecurity across sectors and various stakeholder groups. Such initiatives include, for example, ensuring that national research efforts support the objectives of the National Cybersecurity Strategy; developing cybersecurity-focused R&D programmes in public research organisations; effective dissemination of new findings, baseline technologies, techniques, processes and tools. Moreover, as part of the Strategy, countries should also seek to establish ties with the international research community in the scientific fields related to cybersecurity, such as computer science, electrical engineering, applied mathematics and cryptography, but also non-technical fields such as social and political sciences, business and management studies and psychology to name a few.
 
@@ -1028,43 +950,31 @@ Further references available on pages 64 and 65.
 
 This focus area covers the development of a legal and regulatory framework to protect society against cybercrime and promote a safe and secure cyber-environment, in accordance with the Principles of Inclusiveness and on Trust Environment (Sections 4.3 and 4.9, respectively). Such a framework could include: the adoption of legislation that defines what constitutes illegal cyber-activity; legal recognition of individual rights and civil liberties; establishment of compliance mechanisms; the building of capacity to enforce the framework; institutionalisation of critical entities; and international cooperation to fight cybercrime.
 
-### 5.6.1
-
-Establish cybercrime legislation
+### 5.6.1 Establish cybercrime legislation
 
 The Strategy should promote the development of a domestic legal framework that clearly defines what constitutes prohibited cyber-activity, and that aims to reduce online crime. Most often, this capability takes the form of cybercrime legislation, which can be achieved by enacting specific new laws or amending existing ones (e.g., the penal code, laws regulating banking, telecommunications and other sectors).
 
 The Strategy should also encourage the creation of a process to monitor the implementation and review of legislation and governance mechanisms, identify gaps and overlapping authorities, and clarify and prioritise areas that require modernisation (e.g., existing laws such as old telecommunication laws).
 
-### 5.6.2
-
-Recognise and safeguard individual rights and liberties
+### 5.6.2 Recognise and safeguard individual rights and liberties
 
 The Strategy should safeguard essential due process rights (in the case of criminal investigations and prosecutions), as well as rights of data protection, including protecting the privacy of personal data (possibly through the development of a data-protection and privacy framework) and freedom of expression, in accordance with the Principle of Fundamental Human Rights (Section 4.5).
 
-### 5.6.3
-
-Create compliance mechanisms
+### 5.6.3 Create compliance mechanisms
 
 The Strategy should promote the establishment of domestic compliance mechanisms (both enforcement and incentives). These mechanisms should be set in place to prevent, combat and mitigate actions directed against the confidentiality, integrity and availability of ICT systems and infrastructures, and threatening computer data, in accordance with the aforementioned legal framework. They should inter alia cover the particularities of digital investigation, lawful interception of communications and use of electronic evidence.
 
-### 5.6.4
-
-Promote capacity-building for law enforcement
+### 5.6.4 Promote capacity-building for law enforcement
 
 The Strategy should encourage the development of cyber-law-enforcement capacity, including training and education for a range of stakeholders involved in combating cybercrime (e.g., judges, prosecutors, lawyers, law-enforcement officials, forensic specialists and other investigators). Law enforcement should receive specialised training to interpret and apply domestic cybercrime laws (i.e., translate the law into technical notions and vice versa); to effectively detect, deter, investigate and prosecute cybercrime offenses; and to effectively collaborate with industry and international law-enforcement entities (e.g., INTERPOL, Europol) to tackle cybercrime and to boost cybersecurity. This element should take into consideration focus area 5 on Capability and Capacity Building and Awareness Raising (Section 5.5).
 
-### 5.6.5
-
-Establish inter-organisational processes
+### 5.6.5 Establish inter-organisational processes
 
 The Strategy should identify and recognise the mandates of domestic agencies with the primary authority to ensure compliance with cybercrime legislation, those responsible for protecting critical infrastructures, and those responsible for ensuring that all international cybercrime requirements are being met (e.g., ensure that national laws comply with international treaty obligations) and across judicial lines (e.g., cross-border cooperation) (see also Section 5.1.3 and 5.1.4; and Section 5.6.6).
 
 In some legal systems, legislation might be required for the establishment of institutions involved in cybersecurity, such as national CERTs/CIRTs/CSIRTs, or in clarifying the authority of a single agency to coordinate cyber-policy in a country.
 
-### 5.6.6
-
-Support international cooperation to combat cybercrime
+### 5.6.6 Support international cooperation to combat cybercrime
 
 The Strategy should demonstrate a commitment to protect society against cybercrime globally, through ratification, where possible and in accordance with the overall national agenda, of international cybercrime agreements or equivalent agreements to fight cybercrime, and through the promotion of coordination mechanisms to address international cybercrime. This may include aligning national laws with international treaty obligations and bilateral agreements, for example by establishing mutual legal assistance, enabling cross-border investigations and prosecutions, handling of digital evidence, and extradition. This element should take into consideration focus area 7 on international cooperation (Section 5.7).
 
@@ -1080,9 +990,7 @@ In accordance with the principle of comprehensive approach and tailored prioriti
 
 harmony with the political, social, cultural and economic layout of the country, as well as its foreign-policy priorities.
 
-### 5.7.1
-
-Recognise the importance of cybersecurity as a priority of foreign policy
+### 5.7.1 Recognise the importance of cybersecurity as a priority of foreign policy
 
 The Strategy should express a commitment to international cooperation on cybersecurity and recognise cyber-issues as an integral component of the country’s foreign policy. To this end, it is important to encourage the development and use of competencies and skills focused on cyber-issues (cyber-diplomacy) to complement the traditional methods and processes of diplomacy. The Strategy may also include the development of specific organisational structures and the establishment of some dedicated office or trained personnel whose primary focus is diplomatic engagement on cyber-issues.
 
@@ -1090,23 +998,17 @@ More specifically, the Strategy should clearly articulate the government’s foc
 
 This may also require better harmonisation among different governmental players (e.g., head of state and cabinet, Ministry of Foreign Affairs, Ministry of ICT, Ministry of Industry and Trade, Ministry of Justice, Ministry of Defence, etc.) so that the policy position expressed by one domestic player at a negotiating table in the international cybersecurity arena is properly coordinated and aligned with other governmental bodies.
 
-### 5.7.2
-
-Engage in international discussions
+### 5.7.2 Engage in international discussions
 
 The Strategy should identify specific international fora and cooperation mechanisms that the country wishes to join to effectively engage diplomatically on cyber-related issues. These could include regional or global organisations, intergovernmental discussions, public and/or private-sector alliances, as well as established traditional cooperation and collaboration mechanisms that include cybersecurity issues.
 
 As the country begins to undertake such engagements, these will likely require the government to develop additional competencies and skills focused on cyber-issues and increase its overall cybersecurity capacity. It is therefore important to effectively prioritise these efforts and allocate adequate resources (personnel and money) to ensure that they deliver concrete results.
 
-### 5.7.3
-
-Promote formal and informal cooperation in cyberspace
+### 5.7.3 Promote formal and informal cooperation in cyberspace
 
 The Strategy should indicate the operational international-cooperation mechanisms that the country wishes to commit to. The country may wish to engage in formal and informal international endeavours advancing cooperation on, for example, policy and legislative development, law enforcement, incident-response, information-and threat-sharing. Participation in such initiatives could, for example, support better cooperation and exchange of information between relevant authorities on potential threats and vulnerabilities.
 
-### 5.7.4
-
-Align domestic and international cybersecurity efforts
+### 5.7.4 Align domestic and international cybersecurity efforts
 
 The Strategy should consider existing regional and international cybersecurity initiatives and foster harmonisation and alignment. This would allow the country to leverage existing best practices, as well as to contribute towards cohesion and convergence of cybersecurity approaches.
 

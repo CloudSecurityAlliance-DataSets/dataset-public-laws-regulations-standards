@@ -132,11 +132,8 @@ costituiscono una risorsa utile ai fini del potenziamento del NSC e, per il suo 
 Nell’ambito della cornice sopra deli­ neata, si prevede anche un supporto alle iniziative del Ministero della Difesa volte a: • istituire un Comando Interforze Ope­ razioni Cibernetiche (CIOC), deputa­ to alla protezione dei sistemi e delle reti di quel Dicastero nonché all’ef­ fettuazione delle operazioni in campo cibernetico; • realizzare, presso la Scuola Telecomu­ nicazioni delle Forze Armate di Chiava­ ri (GE), un poligono virtuale nazionale. Da collegare a tali iniziative, infine, la definizione, all’esito di articolate in­ terlocuzioni, di un apposito protocollo d’intesa attraverso il quale il Comparto intelligence e lo Stato Maggiore della Difesa hanno elaborato un quadro strategico e tattico allineato, tale da permettere il miglior posizionamento del costituendo CIOC con riguardo all’operatività nel do­ minio digitale anche alla luce dell’espe­ rienze in corso di sedimentazione nell’Al­ leanza Atlantica.
 
 La visione sistematica che informa il presente piano d’azione è volta ad assicu­ rare la messa in sicurezza degli assetti na­ zionali secondo una progressione dettata da una scala di criticità: • 1° livello – sicurezza nazionale dello Stato [Comparto Intelligence, Difesa, Interno, altre amministrazioni CISR]; • 2° livello – le infrastrutture critiche na­ zionali [TLC, utilities, settore finanzia­ rio, trasporto] altre amministrazioni pubbliche sensibili [Sanità, etc.]; • 3° livello – tessuto produttivo naziona­ le, cittadinanza."
-"2","","INDIRIZZO OPERATIVO 1 POTENZIAMENTO DELLE CAPACITÀ DI INTELLIGENCE, DI POLIZIA E DI DIFESA CIVILE E MILITARE","","","La protezione cibernetica e la sicurezza informatica nazionali, per essere efficacemente per­ seguite, presuppongono, in prima istanza, un’approfondita conoscenza delle vulnerabilità – non solo del fattore tecnologico ma anche di quello umano – e delle minacce cibernetiche che le sfruttano, al fine rendere le reti e i sistemi, in particolare nel caso delle infrastrutture critiche, più resilienti, assicurando, al contempo, l’efficacia del contrasto.
-
-1.1 Analisi delle minacce e delle vulnerabilità
-
-a. Analizzare e valutare in modo continua­
+"2","","INDIRIZZO OPERATIVO 1 POTENZIAMENTO DELLE CAPACITÀ DI INTELLIGENCE, DI POLIZIA E DI DIFESA CIVILE E MILITARE","","","La protezione cibernetica e la sicurezza informatica nazionali, per essere efficacemente per­ seguite, presuppongono, in prima istanza, un’approfondita conoscenza delle vulnerabilità – non solo del fattore tecnologico ma anche di quello umano – e delle minacce cibernetiche che le sfruttano, al fine rendere le reti e i sistemi, in particolare nel caso delle infrastrutture critiche, più resilienti, assicurando, al contempo, l’efficacia del contrasto."
+"3","1.1","Analisi delle minacce e delle vulnerabilità","numbered","","a. Analizzare e valutare in modo continua­
 
 tivo le minacce cibernetiche e le vulnera­ bilità b. Monitorare le innovazioni tecnologi­
 
@@ -146,11 +143,8 @@ con tutti i gestori di servizi essenziali e i responsabili di infrastrutture cri
 
 ricerca, anche privati, per l’elaborazio­ ne di metodologie e tecnologie inno­ vative per la rilevazione e l’analisi delle minacce e delle vulnerabilità
 
-1.2 Sviluppo delle capacità di raccol­ ta, elaborazione e disseminazione delle informazioni (cyber intel­ ligence), nonché della gestione della conoscenza che ne deriva (knowledge management)
-
-1.3 Sviluppo delle capacità di contra­ sto alla minaccia cibernetica
-
-a. Potenziare le capacità di cyber intelligence b. Sviluppare capacità e procedure per
+1.2 Sviluppo delle capacità di raccol­ ta, elaborazione e disseminazione delle informazioni (cyber intel­ ligence), nonché della gestione della conoscenza che ne deriva (knowledge management)"
+"3","1.3","Sviluppo delle capacità di contra­ sto alla minaccia cibernetica","numbered","","a. Potenziare le capacità di cyber intelligence b. Sviluppare capacità e procedure per
 
 il monitoraggio dei volumi di traffico e per l’analisi di contesto degli eventi ai fini della tempestiva rilevazione di anomalie associate a stati della mi­ naccia c. Implementare procedure di early warning d. Sviluppare capacità informative inte­
 
@@ -164,11 +158,8 @@ vi tra le Autorità competenti in mate­ ria ed il settore privato d. Potenziare
 
 tegrata, secondo protocolli e regole d’ingaggio prestabiliti, ad incidenti in­ formatici e di contrasto ad ogni forma di crimine informatico, adeguando il quadro normativo alla possibilità di creare pool d’intervento tecnici in sup­ porto, in caso di gravi eventi ciberne­ tici, alle amministrazioni centrali e ai gestori di servizi essenziali e di infra­ strutture critiche (OS 5.1.c)
 
-Potenziamento delle capacità di intelligence, di polizia e di difesa civile e militare
-
-1.4 Sviluppo delle capacità operative fondamentali, idonee ad espleta­ re i compiti della Difesa nell’am­ biente cibernetico
-
-a. Potenziare le strutture preposte alla
+Potenziamento delle capacità di intelligence, di polizia e di difesa civile e militare"
+"3","1.4","Sviluppo delle capacità operative fondamentali, idonee ad espleta­ re i compiti della Difesa nell’am­ biente cibernetico","numbered","","a. Potenziare le strutture preposte alla
 
 difesa dello spazio cibernetico ed ave­ re cura che gli assetti che le compon­ gono raggiungano e mantengano nel tempo i necessari livelli di efficacia ed efficienza b. Sviluppare strutture di Comando e
 
@@ -187,11 +178,8 @@ tavoli tecnici ed organismi competenti che prevedono la partecipazione di ge­ s
 
 Potenziamento dell’organizzazione e delle modalità di coordinamento e di interazione a livello nazionale tra soggetti pubblici e privati
 
-2.2 Strumenti di cooperazione tra il settore Pubblico ed il settore Privato
-
-2.3 Partecipazione degli operatori privati ad eventi di sicurezza cibernetica anche internazionali, a livello bilaterale e multilaterale
-
-a. Elaborare una metodologia per l’iden­
+2.2 Strumenti di cooperazione tra il settore Pubblico ed il settore Privato"
+"3","2.3","Partecipazione degli operatori privati ad eventi di sicurezza cibernetica anche internazionali, a livello bilaterale e multilaterale","numbered","","a. Elaborare una metodologia per l’iden­
 
 tificazione dei sistemi cibernetici e in­ formatici che supportano funzioni cri­ tiche, anche in relazione all’erogazione di servizi essenziali b. Potenziare il sistema di info-sharing, an­
 
@@ -214,11 +202,8 @@ INFORMATICA."
 
 3.1 Sviluppo concetti e dottrina a. Analizzare l’evoluzione del quadro
 
-3.2 Promozione e diffusione del­ la cultura della sicurezza informatica
-
-3.3 Educazione, formazione e addestramento
-
-strategico internazionale, aggiornare i concetti e sviluppare le dottrine sulle attività cibernetiche anche attraverso l’individuazione delle best practices in­ ternazionali
+3.2 Promozione e diffusione del­ la cultura della sicurezza informatica"
+"3","3.3","Educazione, formazione e addestramento","numbered","","strategico internazionale, aggiornare i concetti e sviluppare le dottrine sulle attività cibernetiche anche attraverso l’individuazione delle best practices in­ ternazionali
 
 a. Organizzare mirate iniziative diffe­
 
@@ -243,11 +228,8 @@ rizzando quelli esistenti, le funzioni di formazione ed addestramento nel set­ 
 ri e di ricerca nella definizione di per­ corsi formativi ad hoc a favore di perso­ nale della Pubblica Amministrazione e delle imprese g. Mappare i centri di eccellenza in ma­
 
 teria"
-"2","","INDIRIZZO OPERATIVO 4 — COOPERAZIONE INTERNAZIONALE ED ESERCITAZIONI","","","Il carattere per definizione transnazionale della minaccia cibernetica e la sua pervasività richiedono un approccio internazionale alla tematica, posto che i singoli Stati devono necessa­ riamente agire sinergicamente per far fronte alla stessa. Ciò presuppone, necessariamente, un comune livello di preparazione e di interoperabilità.
-
-4.1 Rafforzamento della cooperazio­ ne bilaterale e multilaterale
-
-a. Instaurare rapporti strutturati di co­
+"2","","INDIRIZZO OPERATIVO 4 — COOPERAZIONE INTERNAZIONALE ED ESERCITAZIONI","","","Il carattere per definizione transnazionale della minaccia cibernetica e la sua pervasività richiedono un approccio internazionale alla tematica, posto che i singoli Stati devono necessa­ riamente agire sinergicamente per far fronte alla stessa. Ciò presuppone, necessariamente, un comune livello di preparazione e di interoperabilità."
+"3","4.1","Rafforzamento della cooperazio­ ne bilaterale e multilaterale","numbered","","a. Instaurare rapporti strutturati di co­
 
 operazione con i Paesi membri della NATO, della UE e con le nazioni partner b. Assicurare la massima integrazione e
 
@@ -259,11 +241,8 @@ fine di garantire una visione integrale e assicurare la coerenza degli indirizzi
 
 zioni nazionali di sicurezza informatica (es. Cyber Italy), stimolando la parteci­ pazione dei principali operatori di servizi essenziali e dei gestori di infrastrutture critiche e/o i settori strategici nazionali
 
-Cooperazione internazionale ed esercitazioni
-
-4.3 Progetti dell’Unione Europea e di organizzazioni internazionali
-
-b. Coordinare la partecipazione nazionale,
+Cooperazione internazionale ed esercitazioni"
+"3","4.3","Progetti dell’Unione Europea e di organizzazioni internazionali","numbered","","b. Coordinare la partecipazione nazionale,
 
 nella componente pubblica e privata, alle esercitazioni pan-europee (Cyber Europe), con gli Stati Uniti (Cyber Atlantic) ed in ambito NATO (Cyber Coalition)
 
@@ -272,11 +251,8 @@ a. Promuovere e diffondere, anche a be­
 neficio del settore privato, l’informa­ zione relativa alle iniziative ed alle mo­ dalità di partecipazione ai fondi resi disponibili dall’Unione Europea b. Ottimizzare l’accesso ai fondi dell’Unione Europea c. Partecipare a progetti finanziati dall’Unione Europea d. Partecipare a progetti NATO e di altre
 
 organizzazioni internazionali"
-"2","","INDIRIZZO OPERATIVO 5 — OPERATIVITÀ DELLE STRUTTURE NAZIONALI DI INCIDENT PREVENTION, RESPONSE E REMEDIATION","","","L’approntamento di capacità di prevenzione e reazione ad eventi cibernetici richiede lo svi­ luppo di Computer Emergency Response Team (CERT) quali soggetti erogatori di servizi di assi­ stenza tecnica, ricerca e sviluppo, formazione e informazione per i rispettivi utenti, pubblici e/o privati. La Direttiva NIS prevede, quantomeno a favore dei gestori di servizi essenziali, la costitu­ zione dei Computer Security Incident Response Team (CSIRT), una nuova tipologia di organismo intesa quale evoluzione dei CERT in grado di assicurare una effettiva capacità di assistenza e sup­ porto attivo alla propria constituency in caso di evento cibernetico. Nel contesto del recepimento delle novità introdotte dalla Direttiva NIS, occorre ridefinire il ruolo rivestito dagli attori presenti nell’attuale architettura nazionale (i vari CERT) e quelli che vi faranno ingresso (oltre a CSIRT, Autorità nazionale/i e punto unico di contatto). Nelle more del recepimento della direttiva NIS, sarà avviato un processo di progressiva unificazione dei CERT pubblici per sancire, nei settori di interesse strategico, la competenza esclusiva di un CERT nazionale unico, ovvero per creare una rete nazionale di CERT individuando un soggetto con poteri di coordinamento.
-
-5.1 Sviluppo di una capacità nazio­ nale integrata di incident pre­ vention, response e remediation
-
-a. Istituire un punto unico di contatto e uno
+"2","","INDIRIZZO OPERATIVO 5 — OPERATIVITÀ DELLE STRUTTURE NAZIONALI DI INCIDENT PREVENTION, RESPONSE E REMEDIATION","","","L’approntamento di capacità di prevenzione e reazione ad eventi cibernetici richiede lo svi­ luppo di Computer Emergency Response Team (CERT) quali soggetti erogatori di servizi di assi­ stenza tecnica, ricerca e sviluppo, formazione e informazione per i rispettivi utenti, pubblici e/o privati. La Direttiva NIS prevede, quantomeno a favore dei gestori di servizi essenziali, la costitu­ zione dei Computer Security Incident Response Team (CSIRT), una nuova tipologia di organismo intesa quale evoluzione dei CERT in grado di assicurare una effettiva capacità di assistenza e sup­ porto attivo alla propria constituency in caso di evento cibernetico. Nel contesto del recepimento delle novità introdotte dalla Direttiva NIS, occorre ridefinire il ruolo rivestito dagli attori presenti nell’attuale architettura nazionale (i vari CERT) e quelli che vi faranno ingresso (oltre a CSIRT, Autorità nazionale/i e punto unico di contatto). Nelle more del recepimento della direttiva NIS, sarà avviato un processo di progressiva unificazione dei CERT pubblici per sancire, nei settori di interesse strategico, la competenza esclusiva di un CERT nazionale unico, ovvero per creare una rete nazionale di CERT individuando un soggetto con poteri di coordinamento."
+"3","5.1","Sviluppo di una capacità nazio­ nale integrata di incident pre­ vention, response e remediation","numbered","","a. Istituire un punto unico di contatto e uno
 
 o più CSIRT dotati di adeguate capacità di incident response (Direttiva NIS) b. Rendere operativa una (o più) Autorità na­
 
@@ -298,11 +274,8 @@ matici che hanno comportato la perdita o la sottrazione di informazioni (classif
 
 5.2 Sviluppo dei CERT a. Sviluppo delle infrastrutture e dei servizi
 
-dei CERT, prevedendo l’eventuale ade­ guamento dei rispettivi compiti e dota­ zioni alla luce delle modalità con le quali sarà implementa l’architettura nazionale al fine di recepire la Direttiva NIS (Auto­ rità nazionale, CSIRT, ecc.).
-
-5.3 Procedure per l’acquisizione di beni e servizi
-
-b. Incrementare l’efficacia dell’azione dei
+dei CERT, prevedendo l’eventuale ade­ guamento dei rispettivi compiti e dota­ zioni alla luce delle modalità con le quali sarà implementa l’architettura nazionale al fine di recepire la Direttiva NIS (Auto­ rità nazionale, CSIRT, ecc.)."
+"3","5.3","Procedure per l’acquisizione di beni e servizi","numbered","","b. Incrementare l’efficacia dell’azione dei
 
 CERT verso le rispettive constituency, con particolare riferimento, per il CERT-N, al sistema delle imprese, incluse le PMI, e, per il CERT-PA, allo sviluppo di livel­ li superiori di accreditamento da parte delle pubbliche amministrazioni c. Valutare le modalità più opportune per
 
@@ -315,11 +288,8 @@ a. Definire modalità ordinarie di acqui­
 sizione di beni e servizi da parte delle P.A., anche mediante l’utilizzo delle cen­ trali d’acquisto pubbliche (CONSIP), per approntare adeguate misure di sicu­ rezza a protezione dei rispettivi assetti cibernetici b. Individuare, a cura degli attori pubbli­
 
 ci coinvolti nel relativo processo (AgID, ANAC, Corte dei Conti, Consip, ecc.), strumenti idonei per l’acquisizione dei beni e servizi da parte della P.A. necessari a fronteggiare le emergenze cibernetiche"
-"2","","INDIRIZZO OPERATIVO 6 — INTERVENTI LEGISLATIVI E COMPLIANCE CON OBBLIGHI INTERNAZIONALI","","","La rapida evoluzione tecnologico-informatica comporta un’altrettanto veloce obsolescenza delle norme che disciplinano materie correlate alle tecnologie dell’informazione e della comunica­ zione. Pertanto, esse necessitano di periodiche revisioni e aggiornamenti, oltre che di integrazioni, anche per creare un substrato giuridico alle attività condotte ai fini della protezione cibernetica e della sicurezza informatica e per responsabilizzare gli amministratori e gli utenti delle operazioni da questi compiute sui sistemi loro assegnati.
-
-6.1 Revisione e consolidamento della legislazione in materia di sicurez­ za informatica
-
-a. Mettere a sistema conoscenze giuridi­
+"2","","INDIRIZZO OPERATIVO 6 — INTERVENTI LEGISLATIVI E COMPLIANCE CON OBBLIGHI INTERNAZIONALI","","","La rapida evoluzione tecnologico-informatica comporta un’altrettanto veloce obsolescenza delle norme che disciplinano materie correlate alle tecnologie dell’informazione e della comunica­ zione. Pertanto, esse necessitano di periodiche revisioni e aggiornamenti, oltre che di integrazioni, anche per creare un substrato giuridico alle attività condotte ai fini della protezione cibernetica e della sicurezza informatica e per responsabilizzare gli amministratori e gli utenti delle operazioni da questi compiute sui sistemi loro assegnati."
+"3","6.1","Revisione e consolidamento della legislazione in materia di sicurez­ za informatica","numbered","","a. Mettere a sistema conoscenze giuridi­
 
 che specialistiche in materia di cyber-security, presenti nelle strutture delle diverse Amministrazioni sia di staff che di line b. Valutare l’allineamento tra l’attuale
 
@@ -327,11 +297,8 @@ assetto giuridico interno e le dinami­ che di sviluppo legate all’innovazione
 
 vo alle infrastrutture critiche nazionali informatizzate, pubbliche e private, volto alla definizione dei criteri per la loro individuazione tenendo conto an­ che di quelli stabiliti per i settori rien­ tranti nel campo di applicazione della Direttiva NIS
 
-6.2 Definizione di un quadro giuri­ dico adeguato per supportare attività di sicurezza in materia cyber
-
-6.3 Attribuzione di responsabilità e sanzione delle violazioni
-
-d. Semplificare e armonizzare gli adempi­
+6.2 Definizione di un quadro giuri­ dico adeguato per supportare attività di sicurezza in materia cyber"
+"3","6.3","Attribuzione di responsabilità e sanzione delle violazioni","numbered","","d. Semplificare e armonizzare gli adempi­
 
 menti e gli obblighi gravanti su ammi­ nistrazioni e imprese in materia, al fine di incrementare l’efficacia delle comu­ nicazioni in tema di data breach e in­ cident notification nonché l’effettività e l’efficienza di politiche e di misure di sicurezza e. Stimolare in ambito europeo l’avvio di
 
@@ -347,11 +314,8 @@ a. Elaborare un quadro legale ed una
 
 metodologia di riferimento al fine di identificare gli strumenti tecnici, in­ clusi quelli relativi all’indirizzamento, necessari all’attribuzione di responsa­ bilità in caso di violazioni di sicurezza (e delle relative sanzioni) da parte di amministratori ed utenti delle reti di interesse
 
-Interventi legislativi e compliance con obblighi internazionali
-
-6.4 Direttiva (UE) 2016/1148 recante misure per un livello comune elevato di sicurezza delle reti e dei sistemi informativi nell’Unione
-
-a. Promuovere il confronto con Istituzio­
+Interventi legislativi e compliance con obblighi internazionali"
+"3","6.4","Direttiva (UE) 2016/1148 recante misure per un livello comune elevato di sicurezza delle reti e dei sistemi informativi nell’Unione","numbered","","a. Promuovere il confronto con Istituzio­
 
 ni e settore privato al fine di elaborare proposte per il recepimento della Di­ rettiva in materia di cyber security, con particolare riguardo all’individuazione di misure tecnico-organizzative volte all’incremento della sicurezza nei setto­ ri individuati dalla medesima Direttiva b. Valutare l’impatto della Direttiva sull’ar­
 
@@ -376,11 +340,8 @@ Compliance a standard e protocolli di sicurezza
 
 riferimento quali manuali, elenchi di procedure standard e raccomandazioni (best practices di settore), tassonomia e lessico uniforme da utilizzare per lo scambio di informazioni
 
-7.3 Revisione documenti di gestione a. Sottoporre a revisione ed aggiornamen­
-
-7.4 Certificazioni e valutazioni di sicurezza
-
-to periodico la documentazione (nor­ me, procedure, ecc.) relativa alla gestio­ ne della sicurezza dei sistemi e delle reti
+7.3 Revisione documenti di gestione a. Sottoporre a revisione ed aggiornamen­"
+"3","7.4","Certificazioni e valutazioni di sicurezza","numbered","","to periodico la documentazione (nor­ me, procedure, ecc.) relativa alla gestio­ ne della sicurezza dei sistemi e delle reti
 
 a. Gestire lo Schema Nazionale di Certi­
 
@@ -390,46 +351,31 @@ nazionale per la certificazione dei pro­ cessi utilizzati dai sistemi informati
 
 tro Valutazione – quale laboratorio di sicurezza informatica che opera nella valutazione tecnica di prodotti e siste­ mi ICT che trattano dati classificati d. Partecipare ai lavori degli organi di
 
-indirizzo degli accordi di mutuo rico­ noscimento internazionale nel settore delle certificazioni e. Ampliare lo spettro d’azione del DIS-UCSe ai fini del rilascio delle certificazioni di sicurezza e omologazioni di apparati e sistemi che gestiscono informazioni classificate, prevedendo procedure di verifica estese anche agli ambiti non classificati onde valutare la sicurezza complessiva dei sistemi in uso (classificati e non)
-
-7.5 Verifica delle misure cyber defen­ ce applicate a gestori di servizi essenziali e infrastrutture critiche
-
-a. Effettuare test periodici dei sistemi di
+indirizzo degli accordi di mutuo rico­ noscimento internazionale nel settore delle certificazioni e. Ampliare lo spettro d’azione del DIS-UCSe ai fini del rilascio delle certificazioni di sicurezza e omologazioni di apparati e sistemi che gestiscono informazioni classificate, prevedendo procedure di verifica estese anche agli ambiti non classificati onde valutare la sicurezza complessiva dei sistemi in uso (classificati e non)"
+"3","7.5","Verifica delle misure cyber defen­ ce applicate a gestori di servizi essenziali e infrastrutture critiche","numbered","","a. Effettuare test periodici dei sistemi di
 
 protezione attraverso verifiche tecni­ che e procedurali b. Definire un sistema di verifica indipen­
 
 dente (es. audit esterno)"
-"2","","INDIRIZZO OPERATIVO 8 — SUPPORTO ALLO SVILUPPO INDUSTRIALE E TECNOLOGICO","","","La garanzia dell’affidabilità e della sicurezza di componenti hardware e software prodotte nell’Unione Europea e nei Paesi terzi, specie di quelle impiegate da infrastrutture critiche e da soggetti che svolgono attività di rilevanza strategica per il Paese, rappresenta un obiettivo conse­ guibile solo se tutti gli attori della catena del valore (produttori di componenti hardware, svilup­ patori di software, fornitori di servizi della società dell’informazione) faranno della sicurezza una priorità.
-
-8.1 Produzione, Innovazione e Cooperazione Tecnologica
-
-a. Favorire la realizzazione di una catena
+"2","","INDIRIZZO OPERATIVO 8 — SUPPORTO ALLO SVILUPPO INDUSTRIALE E TECNOLOGICO","","","La garanzia dell’affidabilità e della sicurezza di componenti hardware e software prodotte nell’Unione Europea e nei Paesi terzi, specie di quelle impiegate da infrastrutture critiche e da soggetti che svolgono attività di rilevanza strategica per il Paese, rappresenta un obiettivo conse­ guibile solo se tutti gli attori della catena del valore (produttori di componenti hardware, svilup­ patori di software, fornitori di servizi della società dell’informazione) faranno della sicurezza una priorità."
+"3","8.1","Produzione, Innovazione e Cooperazione Tecnologica","numbered","","a. Favorire la realizzazione di una catena
 
 di approvvigionamento di componen­ ti sicure e resilienti dal punto di vista della sicurezza cibernetica, supportata da un processo flessibile e veloce di va­ lidazione, verifica e certificazione b. Promuovere l’innovazione ICT, valu­
 
 tando anche l’introduzione di meccani­ smi incentivanti, per lo sviluppo di un adeguato tessuto industriale compe­ titivo nel panorama nazionale e inter­ nazionale, favorendo la costituzione di supply-chain verticali, a livello di Unione europea e nazionale, in cui la produzio­ ne sia basata su metodologie di proget­ tazione orientate alla “security by design” c. Potenziare programmi di cooperazione
 
-multilaterali e bilaterali per favorire le funzioni di ricerca e sviluppo nazionali nel contesto europeo e internazionale
-
-8.2 Implementazione di un labo­ ratorio governativo di analisi comparativa
-
-a. Favorire la costituzione di un labora­
+multilaterali e bilaterali per favorire le funzioni di ricerca e sviluppo nazionali nel contesto europeo e internazionale"
+"3","8.2","Implementazione di un labo­ ratorio governativo di analisi comparativa","numbered","","a. Favorire la costituzione di un labora­
 
 torio governativo di verifica che sotto­ ponga ad analisi comparativa i sistemi ICT di interesse delle Amministrazioni e delle Infrastrutture Critiche di inte­ resse nazionale"
-"2","","INDIRIZZO OPERATIVO 9 — COMUNICAZIONE STRATEGICA","","","La comunicazione circa un evento cibernetico occorso e le relative conseguenze assume un’im­ portanza strategica, in quanto le singole Amministrazioni interessate ed i soggetti privati gestori di servizi essenziali devono essere in grado di fornire, ove necessario o opportuno, un’informazio­ ne completa, corretta, veritiera e trasparente, senza con ciò creare inutili allarmismi che verreb­ bero ad amplificare l’impatto economico e sociale dell’evento stesso.
-
-9.1 Comunicazione strategica e operativa
-
-a. Sviluppare un coordinamento sulla
+"2","","INDIRIZZO OPERATIVO 9 — COMUNICAZIONE STRATEGICA","","","La comunicazione circa un evento cibernetico occorso e le relative conseguenze assume un’im­ portanza strategica, in quanto le singole Amministrazioni interessate ed i soggetti privati gestori di servizi essenziali devono essere in grado di fornire, ove necessario o opportuno, un’informazio­ ne completa, corretta, veritiera e trasparente, senza con ciò creare inutili allarmismi che verreb­ bero ad amplificare l’impatto economico e sociale dell’evento stesso."
+"3","9.1","Comunicazione strategica e operativa","numbered","","a. Sviluppare un coordinamento sulla
 
 Situation Awareness dei contenuti e delle informazioni, allo scopo di rendere efficaci i flussi comunicativi anche in funzione delle relative azioni di risposta e ripristino, individuando le circostanze in cui può rendersi necessaria la diffusione al pubblico delle informazioni e relativi canali di comunicazione"
 "2","","INDIRIZZO OPERATIVO 10 — RISORSE","","","Punto di partenza per un’oculata pianificazione finanziaria e per la ripartizione delle risorse è l’analisi dei costi di eventi cibernetici occorsi o potenziali, in quanto la rilevanza del rischio è direttamente proporzionale alla probabilità ed all’entità del danno. Parimenti, l’opportunità e la priorità d’intervento su una specifica vulnerabilità potrebbero essere meglio supportate a livello decisionale qualora corredate degli opportuni elementi di valutazione economica. Quest’ultima potrebbe meglio bilanciare l’analisi dei costi correlata alle esigenze di investimento nel settore pubblico quanto in quello privato.
 
-10.1 Pianificazione finanziaria e aspetti economici
-
-10.2 Misurazione dei costi ricon­ ducibili ad eventi di natura cibernetica
-
-a. Definire le priorità e i costi associati alle
+10.1 Pianificazione finanziaria e aspetti economici"
+"3","10.2","Misurazione dei costi ricon­ ducibili ad eventi di natura cibernetica","numbered","","a. Definire le priorità e i costi associati alle
 
 misure di cyber-security e di cyber-defence per la protezione delle infrastrutture critiche e per lo sviluppo delle capacità operative fondamentali, sia per le com­ ponenti materiali e strumentali che per quelle relative al personale
 

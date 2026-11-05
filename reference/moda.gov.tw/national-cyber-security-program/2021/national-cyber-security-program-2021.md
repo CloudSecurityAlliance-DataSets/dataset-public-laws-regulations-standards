@@ -2506,7 +2506,7 @@ of CI, develop relevant courses year by year, and train a certain
 
 number of employees.
 
-2.2 Establish a simulated field as a practical response capability;
+#### 2.2 Establish a simulated field as a practical response capability;
 
 incorporate cyber security situation into teaching and training
 

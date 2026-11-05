@@ -82,15 +82,15 @@ OS 3 Une économie qui se prépare à la guerre 45 OS 4 Une résilience cyber de
 
 18. Cette ambition se décline en onze objectifs stratégiques, qui seront mis en œuvre simultanément, et déclinés au moyen d’éléments concrets présentés dans la troisième partie du document.
 
-## ÉVOLUTION DU CONTEXTE STRATÉGIQUE DEPUIS 2022 — Appréciation de l’évolution de l’environnement stratégique
+ÉVOLUTION DU CONTEXTE STRATÉGIQUE DEPUIS 2022 — Appréciation de l’évolution de l’environnement stratégique
 
-### 1. Une dégradation accélérée de l’environnement sécuritaire mondial
+## 1. Une dégradation accélérée de l’environnement sécuritaire mondial
 
 19. Le durcissement des rivalités de puissance se traduit par une hausse en nombre et en intensité des conflits dans le monde, aux conséquences humanitaires, socio-économiques et sécuritaires toujours plus importantes. L’usage systématique, brutal et désinhibé de la force, par des États mais aussi des acteurs non-étatiques, contribue à décrédibiliser et remettre en cause le cadre de sécurité collective. Les puissances révisionnistes militarisées attaquent frontalement ce cadre et portent ainsi directement atteinte à l’environnement de sécurité de la France et de l’Europe.
 
 1.1 Durcissement des postures coercitives et révisionnistes
 
-1.1.1 Fédération de Russie
+### 1.1.1 Fédération de Russie
 
 20. À l’horizon des années à venir, et d’ici 2030, la principale menace pour la France et les Européens est celle posée par le risque d’une guerre ouverte contre le cœur de l’Europe. En effet, dans le contexte de la guerre d’agression contre l’Ukraine, la Russie a multiplié les actions hostiles vis-à-vis de la France et de ses partenaires européens en deçà du conflit direct : posture d’intimidation nucléaire, ingérences dans le champ informationnel, cyberattaques, sabotage, espionnage, détention arbitraire de ressortissants, survol du territoire de certains alliés, velléités d’ingérence dans les processus électoraux, manifestations hostiles contre les forces françaises et alliées, actions sur le territoire national. Ces actions de déstabilisation de plus en plus désinhibées, ainsi que la priorité absolue accordée par Moscou au renforcement de ses forces armées confirment l’approche confrontationnelle prise par la Russie à l’égard de la France et de ses partenaires européens.
 
@@ -108,13 +108,13 @@ OS 3 Une économie qui se prépare à la guerre 45 OS 4 Une résilience cyber de
 
 26. Enfin, Moscou poursuit son réarmement avec l’objectif d’accroître son armée de 300 000 soldats, 3 000 chars et 300 avions de combat supplémentaires à l’horizon 2030. Ses dépenses militaires représentent près de 40 % de son budget.
 
-1.1.2 République islamique d’Iran
+### 1.1.2 République islamique d’Iran
 
 27. Dans le cadre de sa stratégie de puissance révolutionnaire islamiste révisionniste, la République islamique d’Iran a poursuivi ses activités déstabilisatrices régionales et internationales par le soutien au Hamas, au Hezbollah, aux Houthis, par des tentatives de déploiement en Afrique par la diplomatie religieuse et l’exportation de technologies et d’armement. Les stratégies iraniennes régionales et nationales de puissance conventionnelle, développées depuis une vingtaine d’années à des fins dissuasives, ont été toutes activées dans une logique de guerre régionale indirecte après les 7 et 8 octobre 2023, déstabilisant davantage toute la région (Israël et territoires palestiniens, Iran, Liban, Jordanie, Syrie, Irak, Yémen et jusqu’à la Turquie). Ces actions ainsi que la poursuite de ses programmes balistique, de déstabilisation régionale et nucléaire, sans aucune justification civile et au mépris de ses obligations et engagements passés ou actuels (accord de Vienne sur le nucléaire iranien – JCPoA2, accord de garanties généralisées) ont conduit à la confrontation directe la plus grave au Moyen-Orient depuis vingt ans.
 
 28. Cette guerre directe de haute intensité entre Israël (soutenu par les États-Unis) et l’Iran a renforcé l’affaiblissement de la République islamique sur le plan régional (déjà entamé largement avec l’affaiblissement du Hezbollah et du Hamas, et la chute de Bachar al-Assad) et sur le plan interne (dégradation rapide des conditions économiques et sociales, divisions politiques) qui accroît encore les risques de fuite en avant répressive et sécuritaire du régime. Téhéran pourrait en effet être tenté de relancer un programme nucléaire militaire clandestin sans aucune surveillance internationale pour garantir la survie du régime et sa sécurité, et de frapper les intérêts des pays occidentaux (politique d’otages d’État, actions violentes, etc.).
 
-1.2 Durcissement de la posture de la République populaire de Chine
+### 1.2 Durcissement de la posture de la République populaire de Chine
 
 29. La Chine conçoit sa rivalité avec les États-Unis, profonde et multidimensionnelle, comme inévitable. Celle-ci est amenée à perdurer quelle que soit l’évolution de la relation bilatérale : pour Pékin, l’objectif est de dépasser les États-Unis comme première puissance mondiale à l’horizon 2050, pour le centenaire de la création de la République populaire de Chine.
 
@@ -130,7 +130,7 @@ autour de Taïwan, d’ampleur inédite, ont marqué une nette accélération du
 
 33. Sa coopération militaire bilatérale avec la Russie a continué de se développer. La Chine considère en effet la Russie comme un partenaire majeur stratégique de long terme, notamment pour faire front commun dans l’évolution des rapports de force. Elle facilite directement l’effort de guerre russe en Ukraine.
 
-1.3 La centralité de l’arme nucléaire dans l’affirmation des puissances
+### 1.3 La centralité de l’arme nucléaire dans l’affirmation des puissances
 
 34. L’environnement stratégique se caractérise par une centralité réaffirmée de l’arme nucléaire dans le jeu des puissances, du fait de trois évolutions parallèles : les actions déstabilisatrices de certains États dotés ; les crises de prolifération nucléaire ; le délitement des instruments de non-prolifération, de désarmement et de maîtrise des armements, qui ne permet pas d’enrayer ces dynamiques préoccupantes.
 
@@ -158,7 +158,7 @@ revendiquée de 12 000 km dans le Pacifique depuis Hainan) et son signalement st
 
 42. Enfin, les grands traités et outils de maîtrise des armements issus de la guerre froide ne sont plus opérationnels. Le traité New START expirera en 2026, alors que le traité sur les forces nucléaires à portée intermédiaire (FNI) a été violé puis dénoncé. L’architecture de non-prolifération a été de plus en plus fragilisée, en raison d’une polarisation croissante des positions entre les États dotés et les États non dotés de l’arme nucléaire. De plus, l’environnement stratégique n’est pas propice à de nouvelles avancées en matière de désarmement nucléaire, en raison notamment de l’aggravation des crises de prolifération iranienne et nord-coréenne. La remise en cause par certains États des régimes de contrôle des exportations y contribue également. Dans le même temps, les actions pour interdire les armes nucléaires (notamment menées dans le cadre du traité d’interdiction des armes nucléaires – TIAN), ont nui à la stabilité stratégique en remettant en cause la centralité du TNP.
 
-1.4 Multiplication des conflits et fragilités régionales
+### 1.4 Multiplication des conflits et fragilités régionales
 
 43. Si le défi générationnel que posent les puissances autoritaires révisionnistes est central, la France et ses partenaires sont aussi confrontés à d’autres menaces tout autant structurantes.
 
@@ -172,7 +172,7 @@ revendiquée de 12 000 km dans le Pacifique depuis Hainan) et son signalement st
 
 47. Enfin, en périphérie immédiate de l’Union européenne (Biélorussie, Balkans, Moldavie) les actions russes ont augmenté les tensions sécuritaires dans la région.
 
-1.4.1 Moyen-Orient après le 7 octobre 2023
+### 1.4.1 Moyen-Orient après le 7 octobre 2023
 
 48. L’embrasement du Moyen-Orient, à la suite des attaques terroristes de masse du 7 octobre 2023 contre Israël, a marqué une rupture stratégique des équilibres régionaux et a entraîné des conséquences humanitaires et sécuritaires sans précédent, et de long terme, pour l’ensemble des États et des populations de la région.
 
@@ -186,7 +186,7 @@ revendiquée de 12 000 km dans le Pacifique depuis Hainan) et son signalement st
 
 1.4.2 Afrique
 
-### 53. En
+## 53. En
 
 Afrique, les enjeux sécuritaires (terrorisme, trafics, criminalité organisée, guerres communautaires), démographiques et migratoires (diasporas) n’ont pas diminué.
 
@@ -200,19 +200,19 @@ question de l’influence occidentale, renforcé leur entrisme et leurs stratég
 
 1.5 Menaces transnationales
 
-1.5.1 Menace terroriste d’inspiration djihadiste
+### 1.5.1 Menace terroriste d’inspiration djihadiste
 
 57. Les reconfigurations en cours au Moyen-Orient et en Afrique, notamment depuis le 7 octobre 2023 et la guerre régionale qui s’en est suivie, ont entraîné sur le territoire national l’activation d’un plus grand nombre d’individus inspirés par la mouvance islamiste. Elles ont également entraîné le renouveau d’une menace d’inspiration qaïdiste ou daeshi en provenance de l’étranger susceptible de passer à l’acte.
 
 58. Dans le même temps, la zone afghano-pakistanaise, sanctuaire de la branche Khorassan de Daech où opèrent les filières centre-asiatique et nord-caucasienne, est restée la principale menace terroriste exogène pour la France.
 
-1.5.2 Criminalité organisée, cybercriminalité et trafics
+### 1.5.2 Criminalité organisée, cybercriminalité et trafics
 
 59. En France et en Europe, les principales organisations criminelles ont atteint une taille critique, une puissance financière et une agilité structurelle qui leur permettent d’exploiter davantage les opportunités offertes par la mondialisation, de diversifier rapidement leur activité et de travailler dans une logique d’offre de leurs services criminels. À partir de territoires-sanctuaires ou de pays-refuges, elles ont déployé une activité criminelle transnationale s’appuyant sur les réseaux humains, logistiques et économiques, et utilisant la corruption ou la coercition (homicides, enlèvements, etc.) pour arriver à leurs fins. La puissance financière de cette criminalité globalisée repose sur le développement d’une véritable économie parallèle et souterraine qui exploite les circuits financiers internationaux et ses nouveaux vecteurs (cryptomonnaies), contribuant de facto à la banalisation d’une forme de séparatisme économique. Le narcotrafic est la tête de pont de ces trafics qui se sont fortement développés (trafic d’êtres humains, enlèvements, fraudes organisées, trafics de déchets, d’espèces protégées, d’œuvres d’art et de pièces archéologiques, etc.).
 
 60. Enfin la cybercriminalité7 s’est développée, massivement : elle touche désormais tous les pans de la société (hôpitaux, collectivités territoriales, petites et moyennes entreprises – PME, etc.). Se développant notamment en Russie où elle bénéficie d’une certaine impunité, et alimentant tout un écosystème criminel grâce aux données personnelles volées, cette menace pèse sur le développement économique de la France et porte atteinte à la confiance des populations dans le numérique.
 
-1.5.3 Séparatisme et extrémismes violents
+### 1.5.3 Séparatisme et extrémismes violents
 
 61. Des phénomènes de contestations de toutes natures (politique, idéologique, etc.) ont continué à se développer en intégrant désormais des modes d’action de plus en plus violents (troubles à l’ordre public, sabotage, destruction, etc.). Ils peuvent porter préjudice aux valeurs de la République, à la tranquillité et à la paix publiques, et amplifier les phénomènes de
 
@@ -224,7 +224,7 @@ communautarisme ainsi que les velléités insurrectionnelles voire séparatistes
 
 1.6 Autres enjeux sécuritaires transverses
 
-1.6.1 Migrations
+### 1.6.1 Migrations
 
 63. Un renforcement des migrations massives de population, accentué par les conflits et les crises, a été observé au niveau mondial8. Ce phénomène déjà constaté en outre-mer, particulièrement à Mayotte, a pu y déstabiliser le fonctionnement de certains services publics (accès aux services essentiels : logement, eau, salubrité publique, santé, etc.). Au regard du contexte international et des impacts du changement climatique, il pourrait encore s’amplifier.
 
@@ -232,7 +232,7 @@ communautarisme ainsi que les velléités insurrectionnelles voire séparatistes
 
 65. Ces phénomènes migratoires ont aussi fait l’objet d’une instrumentalisation croissante par les acteurs étatiques et non étatiques (criminalité organisée internationale). Ces acteurs utilisent ces moyens pour faire pression, augmenter leur influence, voire à des fins de prédation économique, de renseignement ou de déstabilisation, notamment à travers l’activation et le contrôle de diasporas présentes en Europe. Parmi eux, la Russie a sciemment dirigé des flux migratoires par son territoire vers l’Europe du Nord à des fins de déstabilisation.
 
-1.6.2 Changement climatique, effondrement de la biodiversité et santé
+### 1.6.2 Changement climatique, effondrement de la biodiversité et santé
 
 66. Le changement climatique s’est encore accéléré, entraînant de nombreuses catastrophes naturelles aux effets sécuritaires et économiques très importants (incendies, crues, inondations, etc.). Les travaux de l’organisation météorologique mondiale (OMM) ont par ailleurs confirmé la corrélation entre le changement climatique et ses impacts sur les populations et les écosystèmes. Les effets du changement climatique ont ainsi précipité des menaces existentielles sur certains territoires (littoraux, zones montagneuses, outre-mer) et risquent de causer à terme la disparition partielle ou totale de certains États et de leur zone économique exclusive (ZEE) sous l’effet de l’élévation du niveau des océans (Maldives, Kiribati, îles Marshall, îles Salomon, Tuvalu, Vanuatu etc.). Ces effets se traduisent par l’ouverture de nouvelles voies navigables dans le Grand Nord, mais aussi l’accès à de nouvelles ressources qui touchent les intérêts européens.
 
@@ -246,17 +246,17 @@ espaces naturels, du milieu ambiant et du vivant ainsi que la préservation du c
 
 69. Par ailleurs, avec la résurgence de certaines maladies et du risque pandémique, la perméabilité croissante aux thèses dogmatiques non étayées par la science (comme celles développées par les mouvements anti-vaccins) fait peser un risque important aux populations et représente un défi majeur. La fragilisation de l’organisation mondiale de la santé (OMS) et la diminution des financements internationaux dédiés à ces questions sont d’autant plus préoccupantes.
 
-1.6.3 Démographies
+### 1.6.3 Démographies
 
 70. Dans un contexte marqué par la baisse globale des taux de fécondité, la croissance de la population mondiale a continué à ralentir avec de fortes disparités régionales. Les deux tiers de la population mondiale vivent déjà dans un pays ou une région où la fécondité se trouve sous le seuil de renouvellement. Ces évolutions sont accompagnées d’autres phénomènes comme une urbanisation croissante, notamment en Asie et en Afrique, et une accélération des migrations régionales ou internationales. La plupart des pays développés, dont la France, ont commencé à être touchés par un vieillissement historique de leur population et une diminution progressive du nombre d’actifs.
 
 71. Les territoires d’outre-mer sont confrontés à une évolution démographique particulièrement contrastée. Aux Antilles, le vieillissement de la population pose un problème de renouvellement de générations dans de nombreux secteurs, en particulier l’agriculture, et fait émerger de nouveaux besoins non satisfaits. En Guyane ou en Polynésie française, ce sont des enjeux d’insertion et de débouchés professionnels qui se posent pour une population jeune et sédentaire. La forte poussée démographique en Guyane, comme à Mayotte a été accentuée par la pression migratoire respectivement du Brésil d’une part, des Comores et d’Afrique de l’Est et des Grands lacs d’autre part.
 
-1.6.4 Enjeux économiques
+### 1.6.4 Enjeux économiques
 
 72. Les perspectives économiques tracées par le fonds monétaire international (FMI) sont pessimistes au moins jusqu’en 2026 (moyenne de croissance anticipée de 3 %, dont 0,8 % pour la zone euro). Couplées au brouillard de la guerre commerciale actuelle, et au niveau d’endettement de nombreux pays, cette situation complique les arbitrages financiers de tous les acteurs économiques (gouvernements, entreprises), au moment où ils doivent investir massivement dans l’innovation, la défense ou les infrastructures.
 
-1.6.5 Enjeux énergétiques et d’accès aux matières premières
+### 1.6.5 Enjeux énergétiques et d’accès aux matières premières
 
 73. La baisse tendancielle des cours du pétrole depuis 2022 s’est accélérée en 2025. Elle aura des effets ambivalents sur les économies des pays occidentaux tout en restreignant les sources de financements de l’effort de guerre russe.
 
@@ -264,9 +264,9 @@ espaces naturels, du milieu ambiant et du vivant ainsi que la préservation du c
 
 75. La consommation mondiale d’énergie a augmenté. Cette tendance devrait se poursuivre, en particulier au profit du développement des nouvelles technologies. De même, la relance des projets électronucléaires civils implique l’augmentation des besoins en uranium, tandis que les énergies renouvelables, la mobilité électrique et le numérique augmentent ceux en métaux et terres rares.
 
-### 2. La solidarité transatlantique et la stabilité stratégique à l’épreuve
+2. La solidarité transatlantique et la stabilité stratégique à l’épreuve
 
-2.1 Une relation transatlantique dans une phase d’incertitude
+### 2.1 Une relation transatlantique dans une phase d’incertitude
 
 76. L’élection de Donald Trump a entériné la nouvelle hiérarchie des priorités américaines de politique étrangère, déjà largement engagée par les administrations précédentes. Les États-Unis mènent une politique extérieure moins prévisible, avec des conséquences potentiellement majeures pour les alliances (notamment l’OTAN), les relations transatlantiques, la résolution du conflit en Ukraine et plus largement la sécurité en Europe, sur laquelle pèse le risque d’une conjonction entre la menace russe et un désengagement américain, et la sécurité en Asie. Au-delà, les États-Unis revendiquent des divergences de vues et de valeurs avec les Européens.
 
@@ -274,7 +274,7 @@ espaces naturels, du milieu ambiant et du vivant ainsi que la préservation du c
 
 78. Les leviers de la puissance américaine sont pleinement exploités au service d’un agenda plus protectionniste, doublé d’un lien quasi-systématique entre l’économie (droits de douane ou exigence de contreparties commerciales) et la sécurité. Ceci accélère la tendance à la fragmentation de l’économie mondiale, avec, outre le risque de guerre commerciale, la montée en puissance des outils de sécurité économique utilisés pour demeurer la première puissance économique mondiale (extraterritorialité par exemple).
 
-2.2 Une accélération du délitement des cadres de sécurité
+### 2.2 Une accélération du délitement des cadres de sécurité
 
 79. Le cadre international de sécurité collective mis en place après 1945, déjà fragilisé depuis 2014, s’est fortement dégradé depuis février 2022. La remise en cause assumée de la sécurité européenne par la Russie a précipité le délitement de l’architecture de sécurité et de maîtrise des armements en Europe, et mis à bas l’ordre européen fondé sur l’acte final d’Helsinki, la charte de Paris et l’organisation pour la sécurité et la coopération en Europe (OSCE). Le Conseil de sécurité de l’ONU reste capable de dépasser ses divisions et d’agir sur nombre de sujets, mais le recours croissant au veto observé depuis 2022 entrave cette capacité, tandis que certains de ses membres permanents participent directement à l’érosion des modes d’actions onusiens. Les grands traités et outils de maîtrise des armements conventionnels sont fragilisés ou ne sont plus opérationnels avec la suspension du traité sur les forces conventionnelles en Europe (TFCE10) et les retraits russe et américain du traité ciel ouvert11. La multiplication des crises a également alimenté un risque accru de dissémination d’armes légères de petit calibre contribuant aussi à cet affaiblissement.
 
@@ -288,7 +288,7 @@ espaces naturels, du milieu ambiant et du vivant ainsi que la préservation du c
 
 sensibles ou proliférantes a été minée de l’intérieur. Les tentatives d’imposition de nouveaux standards par nos adversaires traduisent une volonté d’affaiblissement du cadre normatif applicable et une volonté de s’extraire des mécanismes de redevabilité.
 
-2.3 Le réveil stratégique de l’Europe
+### 2.3 Le réveil stratégique de l’Europe
 
 81. Depuis le début de la guerre d’agression russe en Ukraine en février 2022, la mobilisation européenne est intervenue sur une échelle qui n’était pas imaginable avant le déclenchement du conflit. La publication de la Boussole stratégique cette même année et celle du Livre blanc pour une défense européenne en mars 2025 illustrent la prise de responsabilité accrue des Européens pour un changement d’échelle dans leur capacité à défendre le continent. Dans ce contexte, le soutien à l’Ukraine face à la Russie est resté la priorité stratégique immédiate de quasiment tous les Européens. Depuis le début du conflit, l’Union européenne, ses États membres et plus largement l’ensemble des Européens ont déployé un soutien budgétaire massif, permettant la résilience économique (mesures d’assistance financière) et militaire de Kyiv (des outils dédiés comme la facilité européenne pour la paix – FEP), y compris au travers de l’usage des intérêts des avoirs russes gelés. Mandatée par ses États membres, l’Union européenne a adopté un nombre sans précédent de sanctions contre l’effort de guerre russe, et contre ses acteurs de déstabilisation.
 
@@ -298,9 +298,9 @@ sensibles ou proliférantes a été minée de l’intérieur. Les tentatives d�
 
 84. Les efforts de coopération à l’échelle européenne se sont aussi renforcés, avec l’approfondissement de partenariats sectoriels sur le long terme, dans leurs dimensions politiques (triangle de Weimar, format « coalition des volontaires » en soutien à l’Ukraine, format ad hoc E3 et E514, etc.) et capacitaires avec la France (initiative ELSA15 sur les capacités de frappes à longue portée, système de combat aérien du futur – SCAF, système principal de combat terrestre – MGCS, capacité motorisée – CaMo, etc.) mais aussi sans elle (programme Global Combat Air Programme – GCAP, coopération Rheinmetall-Leonardo sur le terrestre, TKMS-Leonardo sur les sous-marins). Dans le domaine militaire ces efforts se sont concrétisés notamment au travers de l’atteinte de la pleine capacité opérationnelle de la CJEF16 en 2023 et de progrès dans la mise en œuvre de l’initiative européenne d’intervention (IEI).
 
-### 3. Extensions des champs de la conflictualité, simultanéité et imbrication des crises
+3. Extensions des champs de la conflictualité, simultanéité et imbrication des crises
 
-3.1 Extensions des champs de conflictualité et imbrication des crises
+### 3.1 Extensions des champs de conflictualité et imbrication des crises
 
 85. L’extension des champs de la conflictualité, en particulier dans l’espace informationnel, et plus largement dans les espaces communs fait l’objet d’une compétition de puissances de plus en plus
 
@@ -318,7 +318,7 @@ débridée et brutale. Elle se décline dans tout le triptyque compétition-cont
 
 86. Les conflits et les crises survenues depuis trois ans ont également eu une résonance immédiate au niveau national et dans le débat politique. L’imbrication des enjeux extérieurs et intérieurs s’est renforcée.
 
-3.2 Un recours accru à des stratégies hybrides
+### 3.2 Un recours accru à des stratégies hybrides
 
 87. Depuis 2022, les adversaires de la France ont eu recours de manière désinhibée à des stratégies hybrides qui portent atteinte à ses intérêts et à ceux de ses partenaires et alliés. Les rapports de force géopolitiques ont contribué au recours croissant à des pratiques stratégiques de subversion et à la systématisation de la désinformation dans les rapports internationaux.
 
@@ -346,7 +346,7 @@ attaques par déni d’accès. La Fédération de Russie et certains acteurs ré
 
 97. Enfin, la menace d’actions hostiles dans les fonds marins s’est considérablement renforcée contre les infrastructures dédiées à l’énergie ou à l’information dont certaines revêtent un caractère critique.
 
-3.3 L’extension des champs géographiques
+### 3.3 L’extension des champs géographiques
 
 98. La conflictualité s’est étendue à toutes les zones géographiques dans les dimensions matérielles et immatérielles pour le contrôle des ressources naturelles, des flux (énergie, communications) et des trafics.
 
@@ -358,13 +358,13 @@ attaques par déni d’accès. La Fédération de Russie et certains acteurs ré
 
 18 Successivement, du sol à 20 km d’altitude, de 20 à 100 km environ, de 100 à 700 km environ et au-delà de 700 km d’altitude.
 
-3.4 Instrumentalisation de l’économie et des normes
+### 3.4 Instrumentalisation de l’économie et des normes
 
 102. L’utilisation de l’économie comme arme stratégique est de plus en plus assumée depuis 2022. Compte tenu de leur poids dans les échanges internationaux, les évolutions récentes en Chine (Export Control Law) et aux États-Unis (Export Administration Regulations – EAR, Foreign Direct Product Rule – FDPR) ont eu un impact systémique. Certains pays ont eu recours de manière systématique à des mesures à finalité coercitive, remettant en cause les principes de l’organisation mondiale du commerce (OMC), afin de contraindre l’action politique ou commerciale d’un autre État. Cette coercition prend des formes diverses selon les objectifs : directe et frontale, elle vise à affaiblir un État de manière non discriminée ; indirecte, elle cible les dépendances d’un État et vise à fragiliser certaines entreprises ou secteurs économiques (terres rares, parts de marché, composants critiques).
 
 103. Dans la zone Pacifique et au-delà, la stratégie chinoise d’investissements économiques s’est accompagnée d’une volonté d’étendre son influence politique. Par ailleurs, dans les outre-mer, compte tenu de leur potentiel d’attractivité et du point d’entrée au marché européen qu’ils représentent, les offres des acteurs étrangers font l’objet d’une vigilance toute particulière dans les domaines stratégiques des télécommunications (réseaux satellites, câbles sous-marins), de l’énergie (photovoltaïque) et du secteur minier.
 
-3.5 Un basculement technologique qui place l’Europe face à de nouveaux défis
+### 3.5 Un basculement technologique qui place l’Europe face à de nouveaux défis
 
 104. L’accélération de l’innovation est inédite depuis la dernière revue stratégique. Les Européens sont mis au défi de rester dans la course technologique et industrielle qui est au cœur de la rivalité sino-américaine. L’enjeu pour la France et l’Europe est de faire émerger des champions, rattraper le retard, exporter nos technologies innovantes et promouvoir activement nos normes et standards.
 
@@ -386,7 +386,7 @@ ARN messager, pharmaceutique, quantique, etc.). La contrainte sur les ambitions 
 
 111. L’accélération du basculement stratégique mondial entraîne des conséquences majeures pour la France, ses alliés et ses partenaires en Europe et dans le monde.
 
-### 1. Les Européens face au risque de guerre et à l’isolement stratégique
+## 1. Les Européens face au risque de guerre et à l’isolement stratégique
 
 112. L’hypothèse d’une participation des armées françaises à une guerre majeure de haute intensité dans le voisinage de l’Europe et le risque d’actions concomitantes déstabilisatrices de nature hybride pour la sécurité intérieure de la France atteignent un niveau inégalé depuis la fin de la guerre froide. La menace d’une guerre conventionnelle majeure sur le territoire national hexagonal n’est en revanche pas considérée comme crédible.
 
@@ -414,7 +414,7 @@ mutuelles consenties, piliers d’une plus grande efficacité et d’une réelle
 
 123. Enfin, la communauté politique européenne (CPE) offre un cadre élargi utile pour aborder ces enjeux de sécurité.
 
-### 2. Le fait nucléaire au cœur des rapports de force
+## 2. Le fait nucléaire au cœur des rapports de force
 
 124. Les fondamentaux de la doctrine de dissuasion française restent parfaitement adaptés. L’évolution de l’environnement stratégique appelle toutefois à s’assurer de la pertinence des choix capacitaires qui sont faits pour armer les forces stratégiques ainsi que le bon dimensionnement de leur épaulement conventionnel.
 
@@ -422,7 +422,7 @@ mutuelles consenties, piliers d’une plus grande efficacité et d’une réelle
 
 126. Le risque d’une nouvelle vague de prolifération associé au délitement des traités et des normes de maîtrise des armements constitue un enjeu majeur pour la France et l’Europe.
 
-### 3. Le défi des recompositions régionales pour les intérêts français et européens
+## 3. Le défi des recompositions régionales pour les intérêts français et européens
 
 127. Au Moyen-Orient, le risque sécuritaire posé par l’Iran constitue le principal défi stratégique pour la France et les Européens. L’absence de règlement politique des différentes crises dans la région, et en particulier du conflit israélo-palestinien, renforce ce risque. Les attaques houthies nuisent directement à la liberté de navigation, à nos intérêts et à ceux de nos partenaires.
 
@@ -440,7 +440,7 @@ chercher à se coordonner, au cas par cas, et à saisir l'opportunité de la rem
 
 132. De même, la multiplication possible des théâtres de crise en Indopacifique questionne la capacité de la France à trouver un juste équilibre entre signalement stratégique et pré-positionnement, notamment dans le contexte d’un recentrage stratégique contraint vers le théâtre européen. Malgré les difficultés inhérentes à la zone Indopacifique (éloignement de l’hexagone, enjeux logistiques), le maintien de capacités d’action sur ce théâtre est essentiel au regard des intérêts français (populations et territoires d’outre-mer, partenariats).
 
-### 4. Des risques sécuritaires qui fragilisent les démocraties
+## 4. Des risques sécuritaires qui fragilisent les démocraties
 
 133. Les défis sécuritaires augmentent, alors que la menace terroriste d’inspiration djihadiste demeure élevée. L’accumulation des crises s’inscrit également dans le contexte d’autres défis globaux, notamment en outre-mer (effondrement de la biodiversité, changement climatique, risques de pandémies, risques de crise alimentaire, amplification des phénomènes migratoires, vieillissement de la population), qui mettent sous tension les services de l’État. L’imbrication des enjeux sécuritaires externes et internes devient plus évidente en raison de la résonance immédiate que provoquent certaines crises emblématiques sur la scène intérieure. Elle nécessite une réponse globale en matière de défense et de sécurité nationale, alors que les risques d’atteinte aux intérêts fondamentaux de la Nation20 (IFN) n’ont jamais été aussi élevés depuis la fin de la guerre froide.
 
@@ -454,7 +454,7 @@ chercher à se coordonner, au cas par cas, et à saisir l'opportunité de la rem
 
 20 Définis par l’article 410-1 du code pénal.
 
-### 5. Une liberté d’action et de projection contrainte
+## 5. Une liberté d’action et de projection contrainte
 
 138. La robustesse, la pérennité et la capacité d’adaptation des moyens souverains de la France pour faire face à l’ensemble de ces menaces et aux évolutions rapides du monde conditionnent son autonomie de décision et d’action.
 
@@ -472,7 +472,7 @@ chercher à se coordonner, au cas par cas, et à saisir l'opportunité de la rem
 
 145. Enfin, des points d’appui géographiques fiables conservent toujours un rôle clef pour défendre l’accès souverain de la France aux zones critiques.
 
-### 6. Guerre économique et technologique
+## 6. Guerre économique et technologique
 
 146. L’accélération des évolutions technologiques représente un enjeu vital pour la France et l’Europe. Il s’agit en particulier de préserver la place de la France en tant que puissance industrielle et de défense, participant au renforcement de l’Europe de la défense, notamment face aux États-Unis et à la Chine qui investissent massivement dans ces domaines. Un retard dans l’acquisition de nouvelles technologies, notamment l’intelligence artificielle, pourrait entraîner un déclassement stratégique majeur pour la France et ses alliés européens. Ceci s’applique particulièrement à l’appui aux opérations. La maîtrise de la robotique et d’un degré d’autonomisation élevé sont essentiels, tout au long du cycle de la donnée.
 
@@ -492,7 +492,7 @@ chercher à se coordonner, au cas par cas, et à saisir l'opportunité de la rem
 
 153. Enfin, la course technologique renforce les contraintes sur les industries technologiques française et européenne et questionne le besoin d’une stratégie de long terme visant la protection des actifs matériels et immatériels sensibles, au travers d’investissements massifs, qu’ils soient publics ou privés.
 
-### 7. Conclusion
+## 7. Conclusion
 
 154. L’évolution de l’environnement stratégique oblige la France à s’adapter, de manière simultanée, à l’urgence immédiate en accélérant son réarmement global, à se préparer à l’hypothèse d’un engagement majeur de haute intensité dans le voisinage de l’Europe à horizon 2027-2030, parallèle à une hausse massive des attaques hybrides sur son territoire, et à engager la préparation de l’avenir pour rester pleinement maître de son destin national et européen à l’horizon 2040-2050.
 
@@ -566,7 +566,7 @@ OBJECTIF STRATÉGIQUE
 
 165. La France dispose d’une dissuasion nucléaire indépendante et souveraine, légitime articulée autour de deux composantes stratégiques (océanique et aéroportée) dont le renouvellement a été décidé par le Président de la République.
 
-### 1. Fondamentaux de la doctrine française
+## 1. Fondamentaux de la doctrine française
 
 166. La stratégie de dissuasion française est nucléaire. Elle a été réaffirmée de manière continue et transparente, quelles qu’aient été les alternances politiques. Elle est adaptée au fil de l’évolution du contexte stratégique, dans les discours des Présidents de la République successifs. Ces discours ont été déclinés dans les différents Livres blancs sur la Défense et les revues stratégiques et sont fondateurs de la doctrine française. Ainsi, le Président de la République Emmanuel Macron a présenté à l’École de guerre la stratégie de défense et de dissuasion de la France dans un discours prononcé le 7 février 2020, qui est la référence actuelle. Les lois de programmation militaire successives, votées par le Parlement ont traduit sur le temps long cette détermination politique, notamment sur le plan budgétaire et ont garanti sa mise en œuvre.
 
@@ -576,7 +576,7 @@ OBJECTIF STRATÉGIQUE
 
 169. La dissuasion vise à porter le doute chez l’adversaire. Cela exige un juste équilibre de détermination politique à défendre les intérêts vitaux de la France, de transparence doctrinale et d’ambiguïté délibérée concernant les circonstances exactes dans lesquelles un emploi de l’arme nucléaire pourrait être envisagé.
 
-1.1 Une vocation strictement défensive
+### 1.1 Une vocation strictement défensive
 
 170. L’emploi de l’arme nucléaire n’est concevable et envisageable que dans des circonstances extrêmes de légitime défense, et non à des fins de conquête, d’agression, de coercition ou de consolidation d’un avantage militaire : « une guerre nucléaire ne peut être gagnée et ne doit jamais être menée22 ». Compte tenu des conséquences qu’aurait l’emploi des armes nucléaires, la France affirme que, tant que ces armes existent, elles ne doivent servir qu’à des strictes fins défensives, de
 
@@ -584,29 +584,29 @@ OBJECTIF STRATÉGIQUE
 
 dissuasion et de prévention de la guerre.
 
-1.2 Les intérêts vitaux
+### 1.2 Les intérêts vitaux
 
 171. Il appartient au seul Président de la République d'en apprécier les contours. Le choix de maintenir une ambiguïté délibérée, réaffirmé par chaque Président, complique les calculs d’un agresseur qui envisagerait de s’en prendre aux intérêts de la France et contraint par là même les entreprises éventuelles de contournement de la dissuasion.
 
-1.3 Caractère unique de l’arme nucléaire – dommages inacceptables
+### 1.3 Caractère unique de l’arme nucléaire – dommages inacceptables
 
 172. La nature, la puissance hors norme, la fulgurance et les effets de l’arme nucléaire la rendent unique et incomparable à n’importe quelle arme conventionnelle. Ce sont ces caractéristiques intrinsèques qui permettent d’infliger instantanément des dommages absolument inacceptables. Cette capacité fait peser un risque sans commune mesure avec les gains que pourrait escompter un agresseur potentiel. Dans la dialectique des volontés, c’est cette perspective qui doit le détourner de toute velléité d’agression. Tout emploi de l’arme nucléaire dans un conflit en changerait irrémédiablement et fondamentalement la nature. C’est pourquoi la dissuasion nucléaire est singulière, fondamentalement distincte de toute forme de découragement entreprise par des moyens conventionnels, politiques ou économiques.
 
-1.4 L’avertissement nucléaire
+### 1.4 L’avertissement nucléaire
 
 173. Si un adversaire étatique prenait le risque de s’en prendre à la France, en ayant mal apprécié la nature de ses intérêts vitaux, une frappe nucléaire dite d’avertissement pourrait être effectuée contre lui. Celle-ci viserait à démontrer clairement à cet agresseur que la nature du conflit a radicalement changé et à rétablir la dialectique de dissuasion en l’amenant à renoncer aux actes d’agression en cours contre notre pays.
 
 174. Cet avertissement nucléaire est optionnel, unique et non renouvelable. Il ne vise pas à prendre l’ascendant militaire sur un adversaire, car l’arme nucléaire française n’est en aucun cas une arme du champ de bataille.
 
-1.5 La stricte suffisance
+### 1.5 La stricte suffisance
 
 175. La France refuse toute course aux armements. Le niveau des forces nucléaires françaises ne dépend pas des capacités offensives, nucléaires ou conventionnelles, des autres États. La France ne vise aucune forme de parité. Ce niveau résulte uniquement de la capacité des forces nucléaires françaises à causer des dommages inacceptables à tout État qui en viendrait à menacer les intérêts vitaux de la France.
 
-1.6 La permanence
+### 1.6 La permanence
 
 176. La dissuasion française s’exerce en permanence grâce à la capacité qu’ont les forces nucléaires d’infliger à tout moment des dommages inacceptables. La permanence repose sur la complémentarité des deux composantes nucléaires. Les équipages ne s’entraînent pas à être prêts : ils sont prêts. La permanence conditionne la crédibilité de la dissuasion française. Elle évite toute surprise stratégique et participe à la liberté d’action du Président de la République en toutes situations.
 
-1.7 Épaulement des forces nucléaires et conventionnelles
+### 1.7 Épaulement des forces nucléaires et conventionnelles
 
 177. La stratégie de défense de la France est un ensemble cohérent voyant forces nucléaires et forces conventionnelles s’épauler en permanence. Dès lors que les intérêts vitaux sont susceptibles d’être
 
@@ -614,15 +614,15 @@ menacés, la manœuvre militaire conventionnelle peut s’inscrire dans l’exer
 
 178. Plus particulièrement, les capacités de défense aérienne et antimissile, et de frappe conventionnelle dans la profondeur, qui ont sensiblement crû en importance à l’échelle européenne depuis la guerre en Ukraine, sont deux des piliers qui permettront d’élargir cet épaulement.
 
-1.8 Complémentarité des composantes
+### 1.8 Complémentarité des composantes
 
 179. La France s’appuie au quotidien sur les deux composantes de ses forces nucléaires, océanique et aéroportée, qui sont complémentaires. Toutes deux concourent à l’ensemble des missions de la dissuasion. Leurs capacités respectives les rendent complémentaires car elles compliquent fortement les calculs d’un adversaire potentiel et le dimensionnement de ses défenses. Cette complémentarité met notre dissuasion à l’abri d’une rupture technologique imprévue dans les domaines de la défense aérienne, de la défense anti-missile ou de la détection sous-marine. Grâce à ces deux composantes, le chef de l’État dispose d’options multiples et diversifiées, permettant d’assurer la crédibilité de la dissuasion en toutes circonstances.
 
-1.9 Renouvellement des forces nucléaires stratégiques
+### 1.9 Renouvellement des forces nucléaires stratégiques
 
 180. La France s’est engagée depuis 2017 dans le renouvellement de ses deux composantes nucléaires. Les forces océaniques stratégiques bénéficient d’un nouvel incrément du missile balistique intercontinental M51 et la troisième génération de sous-marin nucléaire lanceur d’engins a été mise en chantier. La composante nucléaire aéroportée dispose d’une version rénovée du missile ASMPA23 et bénéficiera dans les prochaines années d’un missile nucléaire hypersonique et hypervéloce (ASN4G24).
 
-### 2. La dissuasion française et l’Europe
+## 2. La dissuasion française et l’Europe
 
 181. La politique de dissuasion de la France doit tenir compte de l’évolution de notre environnement stratégique, de nos alliances et de la construction européenne. La France considère depuis l’origine que sa dissuasion a un rôle européen25, compte tenu du caractère unique de la construction européenne et de la solidarité inébranlable qu'elle a créée entre la France et ses partenaires européens. Le Président de la République a affirmé en février 2020 que « nos forces nucléaires
 
@@ -638,7 +638,7 @@ jouent un rôle dissuasif propre, notamment en Europe. Elles renforcent la sécu
 
 183. Les États européens doivent, compte tenu de la menace russe et d’autres risques potentiels ou prévisibles, être capables de mieux se défendre. En 2020, puis en 2024, la France a proposé aux partenaires européens qui le souhaitent un dialogue stratégique sur la contribution de la dissuasion nucléaire française dans la sécurité collective de l’Europe. Le 5 mars 2025, le Président de la République a annoncé ouvrir le débat stratégique sur la protection de nos alliés du continent européen par la dissuasion française. Ce dialogue a vocation à s’inscrire en pleine complémentarité avec la politique nucléaire de l’Alliance atlantique, sans chercher à s’y substituer. Ce dialogue s’appuiera notamment sur trois fondamentaux : i) la décision d’employer la dissuasion nucléaire française ne sera pas partagée (le Président de la République en est le seul détenteur), ii) la doctrine française souligne le caractère stratégique de l’arme nucléaire rejetant toute notion d’emploi tactique et iii) l’offre faite aux Européens ne viendra pas en soustraction des besoins nécessaires à notre dissuasion nationale.
 
-### 3. Prévenir la course aux armements, la dissémination et la prolifération
+## 3. Prévenir la course aux armements, la dissémination et la prolifération
 
 184. La France œuvrera à préserver la centralité du TNP dans l’architecture internationale de désarmement et de non-prolifération nucléaires et à promouvoir une approche réaliste et progressive du désarmement nucléaire.
 
@@ -648,7 +648,7 @@ jouent un rôle dissuasif propre, notamment en Europe. Elles renforcent la sécu
 
 187. La France renforcera en parallèle les cadres existants de lutte contre la prolifération et la dissémination des armes (arrangements dans le cadre du contrôle export, conventions et traités internationaux). Elle contribuera aux efforts de promotion des plus hauts standards de non-prolifération auprès de ses partenaires.
 
-### 4. Promouvoir la maîtrise des armements
+## 4. Promouvoir la maîtrise des armements
 
 188. Dans le contexte de délitement de l’architecture de sécurité et de maîtrise des armements, la France continuera de soutenir des accords de maîtrise des armements stratégiques ambitieux et vérifiables entre les arsenaux nucléaires mondiaux les plus importants, afin d’assurer la stabilité stratégique. Elle réitérera son attachement aux instruments de maîtrise des armements stratégiques, y compris américano-russes (New START), et au maintien des cadres politiques existants pour garantir la stabilité stratégique européenne.
 
@@ -674,7 +674,7 @@ OBJECTIF STRATÉGIQUE
 
 28 Fr-Alert est le dispositif d’alerte et d’information des populations.
 
-2.1 Assurer la résilience de la vie économique de la Nation
+### 2.1 Assurer la résilience de la vie économique de la Nation
 
 193. Les réseaux vitaux pour la Nation doivent fonctionner en permanence, s’il le faut en mode dégradé et pour les usages prioritaires. Il s’agit ainsi d’assurer la disponibilité, sans aucune discontinuité, des réseaux de télécommunication civils pour les numéros d’urgence, des réseaux de l’État, classifiés ou non, des réseaux de distribution d’énergie et d’eau potable. La résilience cyber des entités critiques (établissements de santé, hôpitaux, opérateurs de télécommunication, secteur énergétique, établissements bancaires, alimentation, réseaux d’eau et d’assainissement, transports, etc.) doit également être garantie.
 
@@ -684,7 +684,7 @@ OBJECTIF STRATÉGIQUE
 
 196. Les efforts seront également poursuivis au sein de l’Union européenne et de l’OTAN pour renforcer les outils et la stratégie en cours de développement, en bonne articulation avec les compétences nationales. La France contribuera au développement de la stratégie de gestion de crise de l’Union européenne.
 
-2.2 Assurer le réarmement moral de la Nation en faisant des citoyens des acteurs de la cohésion et de la résilience en cas de crise majeure
+### 2.2 Assurer le réarmement moral de la Nation en faisant des citoyens des acteurs de la cohésion et de la résilience en cas de crise majeure
 
 197. Tous les citoyens doivent pouvoir devenir acteurs de la cohésion nationale et de la résilience pour se protéger eux-mêmes, leurs proches et ainsi permettre une meilleure préparation de l’ensemble du pays. L’engagement, sous toutes ses formes au sein des armées ou d’un dispositif de mobilisation civile, doit être ancré dans le parcours citoyen de chacun et valorisé au quotidien.
 
@@ -720,7 +720,7 @@ reposant sur une structuration clarifiée de l’offre d’engagement. Ces dispo
 
 206. Les ministères poursuivront leurs efforts de sensibilisation et de formation sur les enjeux stratégiques internationaux auprès des mondes politique, économique et associatif, des milieux universitaires, de la jeunesse et du grand public, notamment par le biais des actions menées par l’académie diplomatique et consulaire du ministère de l’Europe et des affaires étrangères et de ses différents vecteurs.
 
-2.3 Anticiper et lutter contre les atteintes à l’intégrité de tous les territoires
+### 2.3 Anticiper et lutter contre les atteintes à l’intégrité de tous les territoires
 
 207. En lien ou non avec un engagement majeur de nos armées en dehors du territoire national, une hausse des manœuvres hybrides (sabotage, guerre économique, ingérences, cyberattaques, manipulations de l’information, etc.) portant atteinte à tous les territoires de la République doit être anticipée. L’articulation entre la montée en puissance des forces françaises dans une crise et le besoin de renforcement de la protection des territoires doit être repensée dans ce scénario et la coordination civilo-militaire rénovée.
 
@@ -734,7 +734,7 @@ permettre de moduler les niveaux d’alerte sur le théâtre national, en parall
 
 210. Une attention particulière sera portée aux territoires ultramarins en raison de leur dimension stratégique, pour leur propre sécurité et celle de l’hexagone. Des adaptations sont nécessaires pour faire face non seulement aux catastrophes naturelles, mais aussi à la criminalité organisée, aux menaces hybrides ou encore aux revendications étrangères qui ne cessent d’augmenter. Ces adaptations impliquent le pré-positionnement de moyens et de capacités de résilience, de défense et de sécurité, le développement de procédures d’échanges réguliers d’informations sur les poussées séparatistes, les ingérences détectées au niveau central avec les territoires concernés et sur les actions de suivi. Une capacité de réaction rapide des armées, parmi les moyens d’actions de l’État, est indispensable, notamment pour prévenir toute tentative de fait accompli visant certains de ces territoires. Une attention particulière sera portée à la montée en puissance des acteurs locaux pour lutter contre les manipulations de l’information.
 
-2.4 Assurer la protection de la Nation contre les risques et les menaces
+### 2.4 Assurer la protection de la Nation contre les risques et les menaces
 
 211. La résilience de la Nation passera par le renforcement d’une défense totale en complément de la refonte de la planification de défense et de sécurité nationale qui sera menée à son terme.
 
@@ -790,9 +790,9 @@ d’industrie de défense en région – AIDER), national (dispositifs « accél
 
 230. Enfin, la France a diversifié ses leviers de financement des entreprises de défense, constituant notamment un réseau d’acteurs économiques susceptibles d’investir dans la BITD et d’accompagner des projets de levées de fonds au profit d’entreprises du secteur. Des actions ont également été menées auprès d’organismes européens (autorité des marchés financiers européenne, banque européenne d’investissement) pour supprimer les verrous empêchant les entreprises de la BITD d’accéder aux financements privés ou publics à l’échelle européenne (exclusion défense).
 
-### 2. Plan d’action pour atteindre l’objectif stratégique
+2. Plan d’action pour atteindre l’objectif stratégique
 
-2.1 Renforcer l’aptitude de l’industrie à répondre aux besoins de défense et de sécurité
+### 2.1 Renforcer l’aptitude de l’industrie à répondre aux besoins de défense et de sécurité
 
 231. Le secteur de l’industrie, dont la BITD, doit être en mesure de répondre au besoin de production rapide, agile et en masse tout en maintenant la capacité à garantir dans la durée la production de systèmes complexes. Pour cela, la réduction des vulnérabilités de production (goulets d’étranglement, approvisionnement, sécurité et disponibilité énergétique) doit être poursuivie. La résilience des chaînes de sous-traitance doit être garantie, y compris par le recours à des entreprises européennes quand cela est possible. La recherche de mesures visant à gagner sur les coûts, les délais et les cadences de production doit être poursuivie en lien avec les acteurs industriels, en envisageant, au besoin, le recours à des méthodes de production du secteur civil.
 
@@ -808,7 +808,7 @@ d’industrie de défense en région – AIDER), national (dispositifs « accél
 
 à la structuration de son écosystème et plus largement aux industries européennes duales.
 
-2.2 Améliorer la sécurité économique, cyber et physique des entreprises de la BITD et de la filière des industries de sécurité
+### 2.2 Améliorer la sécurité économique, cyber et physique des entreprises de la BITD et de la filière des industries de sécurité
 
 237. La sécurité économique, physique et cyber des entreprises de la BITD et de la filière des industries de sécurité doit être assurée pour protéger le patrimoine intellectuel et les moyens de production.
 
@@ -818,7 +818,7 @@ d’industrie de défense en région – AIDER), national (dispositifs « accél
 
 240. Enfin, la France doit mettre à profit les financements européens sur le court et long terme (ASAP, EDIRPA, EDIP33, FEDEF34, etc.) et favoriser l’émergence de nouveaux leviers intégrant pleinement la préférence et l’autonomie stratégique européennes.
 
-2.3 Insuffler un « faire autrement »
+### 2.3 Insuffler un « faire autrement »
 
 241. Les procédures d’achat doivent continuer à évoluer pour répondre aux exigences d’agilité, d’acquisitions rapides et d’« urgences innovation » au profit des armées. Elles doivent, entre autres, permettre des achats « sur étagère » ou faciliter le passage à l’échelle, en privilégiant les sources européennes. Un effort particulier sera réalisé sur les capacités innovantes, à coût maîtrisé, à cycle de production court afin qu’elles soient rapidement intégrées ou déployées en appui des systèmes d’armes plus classiques (drones à bas coûts par exemple).
 
@@ -832,7 +832,7 @@ d’industrie de défense en région – AIDER), national (dispositifs « accél
 
 34 Fonds Européen de Défense (FEDEF).
 
-2.4 Améliorer le financement des entreprises de défense et de sécurité, préparer les « finances de guerre »
+### 2.4 Améliorer le financement des entreprises de défense et de sécurité, préparer les « finances de guerre »
 
 245. Les investisseurs, publics et privés, institutionnels (Bpifrance, caisse des dépôts et consignations, banque européenne d’investissements – BEI) et particuliers seront mobilisés au profit du financement des entreprises de défense pour notamment soutenir et favoriser l’émergence de PME, d’ETI et de start-ups performantes au sein de la BITD et de la BITS.
 
@@ -902,15 +902,15 @@ des actions de politique publique de cybersécurité avec les acteurs de l’adm
 
 265. Enfin, plusieurs exercices de dimension nationale ou internationale ont été conduits afin de diffuser une culture de gestion de crise au profit d’un large spectre d’acteurs (exercices REMPAR22 et JOP23).
 
-### 2. Plan d’action pour atteindre l’objectif stratégique
+## 2. Plan d’action pour atteindre l’objectif stratégique
 
 266. Issues de la stratégie nationale de cybersécurité validée en conseil de défense et de sécurité nationale le 27 novembre 2024, les nouvelles mesures proposées visent à accélérer sa mise en œuvre pour avoir une des meilleures résiliences cyber à l’horizon 2030.
 
-2.1 Faire de la France le plus grand vivier de talents cyber d’Europe
+### 2.1 Faire de la France le plus grand vivier de talents cyber d’Europe
 
 267. Face à la pénurie de main d’œuvre dans le secteur de la cybersécurité, la France doit investir massivement pour orienter vers ces métiers et soutenir les plans de formation et de reconversion, condition première de la réussite de l’ambition portée en termes de résilience cyber.
 
-2.2 Renforcer la résilience cyber de la Nation
+### 2.2 Renforcer la résilience cyber de la Nation
 
 268. La France doit mettre en œuvre un plan ambitieux pour élever le niveau général de cybersécurité, dont celui du socle informatique de l’État, et entraîner la Nation à réagir aux crises cyber.
 
@@ -918,7 +918,7 @@ des actions de politique publique de cybersécurité avec les acteurs de l’adm
 
 270. Il est également indispensable de mettre en œuvre un programme de prévention en matière de cybersécurité.
 
-2.3 Entraver l’expansion de la cybermenace
+### 2.3 Entraver l’expansion de la cybermenace
 
 271. La France renforcera sa capacité à anticiper les menaces cyber et à les entraver pour augmenter significativement le coût pour les attaquants.
 
@@ -932,7 +932,7 @@ des actions de politique publique de cybersécurité avec les acteurs de l’adm
 
 275. Enfin, la posture cyber nationale sera renforcée pour intégrer l’hypothèse d’un affrontement majeur en Europe.
 
-2.4 Garder la maîtrise de la sécurité de nos fondements numériques
+### 2.4 Garder la maîtrise de la sécurité de nos fondements numériques
 
 276. Pour assurer sa résilience cyber, la France doit maîtriser les technologies critiques et les capacités d’évaluation des produits et services. Elle soutiendra à cet effet la consolidation au niveau européen d’acteurs industriels de premier rang mondial. Elle doit également identifier ses dépendances et vulnérabilités technologiques majeures, aussi bien pour l’État que pour l’économie, et développer un plan de remédiation réaliste et progressif afin de maîtriser durablement sa souveraineté et sa résilience numérique.
 
@@ -946,7 +946,7 @@ des actions de politique publique de cybersécurité avec les acteurs de l’adm
 
 281. Enfin, la France mettra aussi en œuvre un plan de transition vers la cryptographie post-quantique, qu’elle soutiendra par ailleurs au niveau européen.
 
-2.5 Soutenir la sécurité et la stabilité du cyberespace en Europe et à l’international
+### 2.5 Soutenir la sécurité et la stabilité du cyberespace en Europe et à l’international
 
 282. La France confirmera son statut de puissance cyber responsable, coopérative et solidaire, en renforçant ses capacités de coopération et d’influence.
 
@@ -988,15 +988,15 @@ intérieur brut (PIB) en 2024 et pour les années suivantes. Cet effort signific
 
 295. Dans le domaine des ressources humaines, une politique volontariste a été menée, pour améliorer le taux français d’armement des postes, notamment au sein de la NATO Command Structure, mais aussi au sein du secrétariat et de l’état-major international, pour prendre pleinement part aux décisions de l’Alliance.
 
-### 2. Plan d’action pour atteindre l’objectif stratégique
+2. Plan d’action pour atteindre l’objectif stratégique
 
-2.1 Entretenir le lien transatlantique avec exigence et réalisme
+### 2.1 Entretenir le lien transatlantique avec exigence et réalisme
 
 296. La France continuera de porter la logique d’un partage équilibré du fardeau de la sécurité de l’Europe sur la base d’une autonomie stratégique européenne réelle et de la base industrielle de défense européenne.
 
 297. La France poursuivra le dialogue avec les États-Unis autour d’intérêts communs en défendant les cadres d’action établis et la contribution européenne à la sécurité du continent européen, dans le prolongement de l’agenda porté depuis 2017 de renforcement de l’autonomie stratégique et de la défense européenne.
 
-2.2 Être moteur du renforcement du pilier européen de l’OTAN
+### 2.2 Être moteur du renforcement du pilier européen de l’OTAN
 
 298. La France, membre fondateur de l’OTAN, sera un moteur d’un pilier européen fort et crédible de l’Alliance. Le renforcement de celui-ci, avec le concours des institutions européennes et des États européens, est indispensable afin de pallier les effets d’un moindre engagement américain tout en préservant la sécurité du continent. Avec les Européens, notamment l’Allemagne, le Royaume-Uni, la Pologne, l’Italie, les États baltes et les pays nordiques (Finlande, Norvège et Suède), elle continuera à donner corps à ce pilier en incarnant la capacité des Européens à agir pour la défense de la zone euro-atlantique, au profit de la paix sur le continent, y compris de manière autonome si nécessaire. Le renforcement de l’engagement français au sein de l’Alliance, et plus largement des nations européennes, en est une condition essentielle. La meilleure prise en charge par les Européens de la sécurité de leur continent doit faire l’objet d’une feuille de route ambitieuse pour garantir la résilience de l’Alliance et de l’Union européenne face à la Russie, avec une aide plus limitée de Washington.
 
@@ -1016,13 +1016,13 @@ renforcement durable de la posture de dissuasion et de défense de l’Alliance.
 
 303. Enfin, le dialogue renouvelé entre l’OTAN et l’Union européenne devra être mené dans le respect des mandats respectifs de ces organisations et en pleine transparence vis-à-vis des nations, en particulier dans les échanges d’informations.
 
-2.3 Saisir les opportunités offertes par une expansion maîtrisée des besoins de l’Alliance
+### 2.3 Saisir les opportunités offertes par une expansion maîtrisée des besoins de l’Alliance
 
 304. L’augmentation significative du besoin capacitaire doit être prise en compte. La crédibilité de la réponse française au défi nécessaire à la défense collective de l’Alliance dans un contexte stratégique en dégradation significative, impliquera une adaptation cohérente du volume des dépenses nationales dédiées à la défense. En parallèle, elle veillera à encadrer les financements et les investissements capacitaires communs pour garantir l’efficacité opérationnelle des dépenses. La France saisira les opportunités de solutions capacitaires ad hoc.
 
 305. En matière d’innovation, il est nécessaire de soutenir les actions et initiatives du commandement suprême allié pour la transformation. L’inclusion des technologies innovantes dans les exercices et opérations de l’OTAN, et leur exploitation pour aider les nations à atteindre leurs cibles capacitaires et produire de la masse à un coût soutenable, constituent des orientations positives.
 
-2.4 Ancrer la stratégie partenariale de l’OTAN dans le cadre de ses missions agréées
+### 2.4 Ancrer la stratégie partenariale de l’OTAN dans le cadre de ses missions agréées
 
 306. La relation avec l’Ukraine devra rester centrale dans la stratégie partenariale de l’OTAN en application de son mandat de la défense de la zone euro-atlantique. Il est nécessaire de préserver et de faire fructifier le dialogue avec l’Ukraine, et le traitement de la menace russe par l’OTAN.
 
@@ -1058,9 +1058,9 @@ OBJECTIF STRATÉGIQUE
 
 316. Par ailleurs, la France a soutenu depuis 2022 plusieurs initiatives qui participent au renforcement de la résilience européenne et au développement d’outils pour faire face aux stratégies hybrides des compétiteurs.
 
-### 2. Plan d’action pour atteindre l’objectif stratégique
+2. Plan d’action pour atteindre l’objectif stratégique
 
-2.1 Fédérer autour d’une prise de responsabilités accrue des européens dans la sécurité du continent et contribuer à une Europe unie et crédible
+### 2.1 Fédérer autour d’une prise de responsabilités accrue des européens dans la sécurité du continent et contribuer à une Europe unie et crédible
 
 317. Face aux défis sur le continent européen et ailleurs, la France prend pleinement sa part de responsabilité et cherche à favoriser l’unité et la solidarité des Européens quels que soient les scénarios d’évolution de la politique américaine vis-à-vis de l’Europe. Elle le fait à la fois par des investissements majeurs dans les capacités et technologies de défense clefs pour la souveraineté européenne et en favorisant les coopérations équilibrées et ambitieuses avec ses principaux partenaires, actant le principe de dépendances mutuelles agréées. Les partenariats bilatéraux doivent, à cet égard, servir l’objectif d’autonomie stratégique, le renforcement de l’Europe de la défense sur le long terme, et contribuer à incarner et renforcer le pilier européen de l’OTAN.
 
@@ -1090,7 +1090,7 @@ OBJECTIF STRATÉGIQUE
 
 329. La stabilité et la sécurité des Balkans demeurera un enjeu d’attention pour la sécurité du continent européen, au regard des foyers de tension persistants (Bosnie-Herzégovine, Serbie, Kosovo) et des différends bilatéraux.
 
-2.2 Poursuivre le renforcement des capacités européennes de défense
+### 2.2 Poursuivre le renforcement des capacités européennes de défense
 
 330. L’Union européenne doit poursuivre le développement d’une BITDE autonome et souveraine selon un changement d’échelle décisif, via la priorisation des domaines capacitaires clefs repris dans le Livre blanc sur la défense européenne du 19 mars 2025. Cette priorisation doit s’accompagner du soutien aux industries et de l’agrégation de la demande des États membres en vue de renforcer la compétitivité et la résilience de cette BITDE ainsi que de financements européens adaptés. Les initiatives de l’Union européenne doivent inscrire ce soutien dans une logique de long terme et soutenir la production d’équipements de défense européens, pour résorber les dépendances industrielles. Cette logique bénéficiera d’un effort de réduction des dépendances externes en matière d’énergie et d’approvisionnement.
 
@@ -1104,13 +1104,13 @@ OBJECTIF STRATÉGIQUE
 
 335. Par ailleurs, l’agence européenne de défense (AED) sera valorisée. Elle occupe dans l’identification des domaines de coopération un rôle important en tant qu’enceinte intergouvernementale permettant de faire émerger des choix communs entre Européens.
 
-2.3 Assurer la supériorité technologique européenne dans les domaines critiques
+### 2.3 Assurer la supériorité technologique européenne dans les domaines critiques
 
 336. Au service de sa stratégie de montée en puissance technologique, la France s’appuiera en tant que de besoin sur la feuille de route européenne pour les technologies d’armement mentionnée dans le Livre blanc, et sur des coopérations avec ses partenaires européens.
 
 337. Il est nécessaire de soutenir davantage les PME, ETI et start-ups françaises et européennes émergentes dans le domaine de la défense par des investissements et des achats. Cela nécessitera d’engager l’ensemble des acteurs concernés (industriels, entreprises de services du numérique, PME et ETI, start-ups, fonds de capital-risque) pour s’accorder sur des procédures adaptées aux acteurs de l’innovation). Il s’agira également d’intéresser les meilleures start-ups au développement d’applications à usage militaire et d’inciter le secteur bancaire et les fonds de capital-risque européens à lever les barrières au financement de l’innovation de défense. Ce renforcement massif du soutien européen à l’innovation de défense, par des méthodes agiles et duales, doit être un pilier majeur de notre stratégie de souveraineté européenne.
 
-2.4 Renforcer les outils européens pour lutter contre les stratégies hybrides et développer la résilience européenne
+### 2.4 Renforcer les outils européens pour lutter contre les stratégies hybrides et développer la résilience européenne
 
 338. La France contribuera, par son expertise en matière de résilience, au développement d’une culture commune européenne sur ce sujet, qu’il importe de mettre en valeur au niveau européen.
 
@@ -1118,7 +1118,7 @@ OBJECTIF STRATÉGIQUE
 
 340. Dans le même temps, le soutien à un niveau élevé d’une ambition européenne pour lutter contre les stratégies hybrides doit être assuré.
 
-2.5 Renforcer la capacité d’action européenne
+### 2.5 Renforcer la capacité d’action européenne
 
 341. La France soutiendra les initiatives relatives à l’opérationnalisation des clauses de solidarité des articles 4248 du traité sur l’Union européenne (TUE) et 222 du traité sur le fonctionnement de l’Union européenne (TFUE).
 
@@ -1130,7 +1130,7 @@ OBJECTIF STRATÉGIQUE
 
 344. Enfin, l’initiative européenne d’intervention (IEI) contribue au développement d’une culture stratégique commune et d’une coopération renforcée entre les États membres. Lancé par la France en 2018, le format reste pertinent pour accompagner une prise de responsabilité croissante des Européens dans leur propre sécurité. En étant redynamisée, l’IEI pourrait se traduire par des engagements, des réflexions et des exercices opérationnels.
 
-2.6 Garantir l’autonomie d’accès et la liberté d’action européenne dans l’espace
+### 2.6 Garantir l’autonomie d’accès et la liberté d’action européenne dans l’espace
 
 345. Les Européens doivent conserver et si nécessaire se doter de capacités souveraines d’accès, de recours aux services spatiaux essentiels (navigation, surveillance, connectivité, observation, traitement de données) et d’action libre dans l’espace. À ce titre, le développement et l’exploitation de lanceurs européens souverains (Ariane 6 ou Vega-C par exemple) sont une priorité. Le centre spatial guyanais (CSG), stratégiquement localisé, est aussi un élément central. Il reste la principale porte de l'Europe vers l'espace.
 
@@ -1158,7 +1158,7 @@ OBJECTIF STRATÉGIQUE
 
 49 La mission Clémenceau 2025 et les missions Pégase (annuelles depuis 2022) ont consisté à déployer dans la région Indopacifique respectivement le groupe aéronaval de la marine nationale et des avions de combat (et le dispositif de soutien associé) de l’armée de l’air et de l’espace, avec une dimension partenariale forte.
 
-2.1 Consolider notre nouvelle offre partenariale en Afrique
+### 2.1 Consolider notre nouvelle offre partenariale en Afrique
 
 353. En Afrique, il convient de poursuivre l’adaptation de l’offre sécuritaire française plus ciblée et mieux adaptée aux enjeux de sécurité identifiés par les partenaires. La France recentrera et approfondira ainsi la coopération avec les pays désireux d’une offre française (en particulier en termes de formation, de fourniture d’équipements et d’appui au développement capacitaire et industriel).
 
@@ -1166,7 +1166,7 @@ OBJECTIF STRATÉGIQUE
 
 355. Dans ce cadre, elle prendra en compte les demandes africaines (identification des besoins, capacité d’absorption, etc.) et promouvra les initiatives de sécurité européennes et multilatérales sur le continent, en bonne adéquation avec ces demandes.
 
-2.2 Consolider l’engagement de la France au Proche et Moyen-Orient au profit de la paix et de la sécurité régionales
+### 2.2 Consolider l’engagement de la France au Proche et Moyen-Orient au profit de la paix et de la sécurité régionales
 
 356. L’engagement de la France doit s’appuyer sur les partenariats entretenus avec les États du Golfe (Émirats arabes unis, Arabie saoudite, Qatar, Koweït, Oman et Bahreïn), l’Égypte et la Jordanie. Il conviendra de densifier nos partenariats et de les engager sur le règlement des crises et sur la stabilisation régionale.
 
@@ -1178,7 +1178,7 @@ OBJECTIF STRATÉGIQUE
 
 360. Il conviendra également de poursuivre la lutte contre les éléments narratifs anti-occidentaux diffusés par certains États en sensibilisant les partenaires de la région aux intérêts convergents de sécurité.
 
-2.3 Contribuer de manière efficace à la sûreté des espaces communs et à la stabilité régionale en Méditerranée et en mer Rouge
+### 2.3 Contribuer de manière efficace à la sûreté des espaces communs et à la stabilité régionale en Méditerranée et en mer Rouge
 
 361. La France maintiendra une présence en mer Méditerranée, en mer Rouge et dans le nord-ouest de l’océan Indien dans le cadre de sa mission de pourvoyeur de sécurité dans le domaine maritime (en particulier pour protéger les axes et infrastructures stratégiques dans ces deux espaces maritimes). Elle approfondira la coopération avec les partenaires régionaux dans les deux zones autour d’efforts mutuellement bénéfiques. Elle maintiendra en parallèle une coordination étroite dans ces régions pour chercher à rationaliser les efforts, en privilégiant le cadre européen lorsqu’il est pertinent.
 
@@ -1186,7 +1186,7 @@ OBJECTIF STRATÉGIQUE
 
 363. Enfin, la Méditerranée est traversée par les trois principales voies d’accès migratoires irrégulières à l’Union européenne (occidentale, centrale et orientale). Face à ces enjeux qui comportent aussi des risques pour la sécurité et la cohésion nationales, la France poursuivra les efforts de maîtrise de ces flux dans le cadre de coopérations européennes et régionales.
 
-2.4 Renforcer l’opérationnalisation de notre approche en Indopacifique
+### 2.4 Renforcer l’opérationnalisation de notre approche en Indopacifique
 
 364. La France valorisera les efforts concrets menés en cohérence avec sa stratégie Indopacifique et continuera de contribuer à l’essor d’une approche européenne de la région.
 
@@ -1194,7 +1194,7 @@ OBJECTIF STRATÉGIQUE
 
 366. Un réseau robuste et diversifié de points d’appui dans cette région reste essentiel aux intérêts souverains français.
 
-2.5 Renforcer l’intégration et la place des territoires ultramarins français dans les partenariats régionaux
+### 2.5 Renforcer l’intégration et la place des territoires ultramarins français dans les partenariats régionaux
 
 367. La France accompagnera l’intégration régionale des territoires ultramarins. Elle favorisera le développement des initiatives à vocation régionale et de ses partenariats régionaux.
 
@@ -1202,7 +1202,7 @@ OBJECTIF STRATÉGIQUE
 
 369. En parallèle, il sera nécessaire de faire face aux enjeux concernant ces territoires (propagande anti-française, trafics illicites, prédation des ressources, restriction d’accès). La France renforcera à ce titre ses moyens régaliens permanents dans ces territoires, et sa capacité de projection de moyens complémentaires. De même, la France veillera à sécuriser les lignes de communication aériennes, maritimes et digitales qui relient l’hexagone aux outre-mer, en raison de leur importance stratégique. Cela est particulièrement le cas dans la région Indopacifique, épicentre de l’économie mondiale, où les collectivités d’outre-mer représentent la seule présence européenne.
 
-2.6 Promouvoir un multilatéralisme ambitieux, renouvelé et efficace
+### 2.6 Promouvoir un multilatéralisme ambitieux, renouvelé et efficace
 
 370. La France maintiendra son engagement pour le respect de la charte des Nations unies et du droit international pour assurer la paix et la sécurité internationales. Par son approche au CSNU et à l’assemblée générale des Nations unies, par son action sur les terrains de crises, par sa participation aux opérations de maintien de la paix des Nations unies, elle est engagée de manière concrète pour que le dialogue et le respect du droit international prévalent sur le rapport de force.
 
@@ -1236,9 +1236,9 @@ OBJECTIF STRATÉGIQUE
 
 ▪ la réponse à ces attaques dans une approche interministérielle et interservices.
 
-### 2. Plan d’action pour atteindre l’objectif stratégique
+2. Plan d’action pour atteindre l’objectif stratégique
 
-2.1 Renforcer les capacités de renseignement et d’action de l’État face à la dégradation du contexte global
+### 2.1 Renforcer les capacités de renseignement et d’action de l’État face à la dégradation du contexte global
 
 378. Les capacités de renseignement nationales doivent fournir aux décideurs, en temps utile, une appréciation éclairée du contexte stratégique et de la situation intérieure, ainsi qu’une information
 
@@ -1248,7 +1248,7 @@ fiable et pertinente, actuelle et exclusive, en fonction des priorités fixées,
 
 380. La France doit aussi disposer d’un renseignement d’intérêt militaire capable de répondre aux exigences d’une guerre. Celui-ci doit évaluer les capacités et possibilités d’actions, voire les intentions des armées ou groupes armés susceptibles de nuire aux intérêts français. Il couvre tous les champs de conflictualité et caractérise à ce titre les programmes d’armement conventionnels et non conventionnels, la capacité d’innovation des compétiteurs, le moral de leurs forces de défense et de sécurité ainsi que la solidité de leurs partenaires. Le renseignement militaire doit permettre également aux armées de planifier et de conduire des opérations. En complément des capteurs militaires, il exploite des capacités civiles ou duales, notamment dans le secteur spatial.
 
-2.2 Faire concourir le renseignement à la résilience de la Nation
+### 2.2 Faire concourir le renseignement à la résilience de la Nation
 
 381. Sur le territoire national, les services de renseignement doivent prendre toute leur part à la réponse aux menaces qui érodent la résilience et la cohésion de la Nation. Les services sont mobilisés dans la détection des actions de terrorisme d’inspiration djihadiste, d’entrisme dans les institutions et des phénomènes de repli communautaire, dans le suivi des mouvances extrémistes potentiellement violentes et dans l’entrave des actions violentes. Aux côtés des chefs de file judiciaires et des services enquêteurs, les services de renseignement contribueront à la prévention de la criminalité organisée.
 
@@ -1258,13 +1258,13 @@ fiable et pertinente, actuelle et exclusive, en fonction des priorités fixées,
 
 384. Ces derniers doivent également contribuer à la protection de la BITD, de la BITS, et plus largement aux secteurs stratégiques duaux, tels que le secteur spatial. Cette problématique recouvre la détection de manœuvres de prédation de fleurons industriels de la part d’acteurs étrangers et les questions relatives à la sécurité des approvisionnements majeurs, principalement en matières premières.
 
-2.3 Mobiliser les ressources humaines et techniques déterminantes
+### 2.3 Mobiliser les ressources humaines et techniques déterminantes
 
 385. En 2030, les services de renseignement s’appuieront sur une stratégie rénovée pour attirer les meilleurs talents, les fidéliser, dans l’ensemble des métiers.
 
 386. Les services renforceront la mutualisation de leurs moyens techniques, à la faveur de nouveaux investissements et de développements capacitaires. Les services de renseignement exploiteront tout le potentiel des technologies de rupture, en déclinant les stratégies en matière d’intelligence artificielle et de technologies quantiques de l’État. L’expertise technique de pointe souveraine en matière de détection, recueil, décryptement, traitement et analyse de l’information, y compris sur son volet spatial, sera également renforcée. Par ailleurs, ils devront soutenir les filières technologiques industrielles souveraines, dans les domaines capacitaires où l’autonomie stratégique et la résilience sont primordiales.
 
-2.4 Renforcer l’anticipation ministérielle et interministérielle
+### 2.4 Renforcer l’anticipation ministérielle et interministérielle
 
 387. Afin de contribuer à guider l'action des ministères, notamment dans leur capacité à faire face aux crises futures, les travaux d’anticipation50 doivent être intensifiés, dans l’objectif de prévenir la survenue d’événements, lorsque cela est possible, ou d'élaborer une planification de contingence. Cela doit se traduire par une plus forte mutualisation des études réalisées par les cellules anticipation des ministères. De plus, dans le cadre du réseau anticipation du ministère de l’Europe et des affaires étrangères sur l’élaboration d'alertes précoces, un travail spécifique de gestion du risque sur un nombre limité de scénarios sera désormais conduit. Selon les sujets, les mondes académiques et économico-financiers seront mieux associés à ces travaux.
 
@@ -1320,33 +1320,35 @@ OBJECTIF STRATÉGIQUE
 
 57 Cette campagne de manipulation de l’information contre la France a été conduite par la Russie en 2023.
 
-2.1 Renforcer l’organisation défensive et les capacités de réponse
+### 2.1 Renforcer l’organisation défensive et les capacités de réponse
 
 402. Les dispositifs de détection, d’action et de réponse dans les champs hybrides, notamment ceux reposant sur la communauté du renseignement, seront consolidés pour décourager tout adversaire de conduire des attaques à l’encontre de la France et de ses intérêts.
 
 403. Face aux cyberattaques, la France saisira l’ensemble des leviers à sa disposition afin d’enrayer la dynamique de développement de la menace et d’imposer un coût accru aux agresseurs, y compris en s’associant avec ses partenaires étrangers. La coordination et le processus de prise de décision seront améliorés.
 
-2.2 Sensibiliser davantage les Français
+### 2.2 Sensibiliser davantage les Français
 
 404. Les efforts de sensibilisation des Français aux stratégies hybrides, devront être accrus.
 
 405. Une stratégie globale de lutte contre les manipulations de l’information sera mise en œuvre, notamment pour créer les conditions favorables à une immunité collective aux ingérences numériques étrangères (INE) tout particulièrement pendant les périodes électorales. La réactivité et la capacité de réponse déterminée du dispositif interministériel de lutte contre les ingérences numériques étrangères sera renforcée et la stratégie d’influence dans le champ informationnel de la France sera rénovée.
 
-2.3 S’engager dans la compétition normative face au lawfare
+### 2.3 S’engager dans la compétition normative face au lawfare
 
 406. La France poursuivra le développement des outils de lutte contre le lawfare, notamment dans le domaine économique en mobilisant l’échelon européen, indispensable pour structurer une réponse efficace.
 
-2.4 Renforcer les capacités des armées pour mieux se protéger et agir
+### 2.4 Renforcer les capacités des armées pour mieux se protéger et agir
 
 407. À l’horizon 2030, des investissements en termes de ressources humaines et de technologies numériques augmenteront les marges de manœuvre, contribuant notamment à l’augmentation des capacités militaires françaises dans le champ informationnel en lien avec les opérations militaires.
 
-2.5 Renforcer les liens avec les partenaires
+### 2.5 Renforcer les liens avec les partenaires
 
 408. La France poursuivra ses efforts bilatéraux et multilatéraux de coordination et d’action, notamment au sein de l’OTAN et de l’Union européenne pour renforcer les outils et stratégies en cours de développement.
 
 409. Il conviendra également de poursuivre la lutte contre les éléments narratifs anti-occidentaux véhiculés par certains compétiteurs stratégiques. À cette fin, la France coordonnera son action avec ses alliés et ses partenaires afin de contrer les influences là où elles menacent ses intérêts et les intérêts convergents de ses alliés et partenaires.
 
-## La capacité d’emporter la décision dans les opérations militaires — 10
+## La capacité d’emporter la décision dans les opérations militaires
+
+10
 
 OBJECTIF STRATÉGIQUE
 
@@ -1366,13 +1368,13 @@ OBJECTIF STRATÉGIQUE
 
 415. Enfin, la France a lancé le développement de capacités militaires pour élargir son spectre d’action dans les espaces communs (affirmer sa présence, surveiller, dissuader et agir). En effet, la compétition entre nations pour la maîtrise des espaces maritimes, dont les fonds marins, de la très haute altitude (THA) et de l’espace exo-atmosphérique s’est renforcée. Le développement, par certaines nations, de capacités militaires dans chacun de ces milieux confirme que ces derniers sont des espaces potentiels de confrontation.
 
-### 2. Plan d’action pour atteindre l’objectif stratégique
+## 2. Plan d’action pour atteindre l’objectif stratégique
 
 416. Pour vaincre des adversaires fortement armés qui tirent profit des nouvelles technologies, contournent ou épuisent les systèmes les plus sophistiqués par des équipements produits massivement à bas coût et mettent en œuvre des campagnes hybrides pour déstabiliser le territoire national, les armées doivent accélérer leur transformation initiée depuis la RNS 2022.
 
 417. L’effort de réarmement vise à protéger le cœur de souveraineté, renforcer la solidarité stratégique entre alliés et partenaires, démontrer crédibilité et détermination dès le stade de la compétition et gérer l’escalade. Cela repose sur un format d’armées cohérent et des forces prêtes à un engagement sans délai, seules ou en coalition.
 
-2.1 Sanctuariser le cœur de souveraineté
+### 2.1 Sanctuariser le cœur de souveraineté
 
 418. La protection de son territoire et de sa population demeure la priorité absolue de la France. À cette fin, les armées tiennent des postures permanentes de dissuasion, de sûreté aérienne, de sauvegarde maritime et de cybersécurité mais aussi de protection terrestre en appui des forces de sécurité intérieure. La protection des emprises à vocation nucléaire reste essentielle à la dissuasion. Pour s’adapter à l’évolution des menaces, la coordination entre la défense civile et la défense militaire doit être renforcée. La contribution des armées doit être plus réactive et décentralisée, à l’image de l’articulation retenue pour les JOP 2024.
 
@@ -1388,7 +1390,7 @@ OBJECTIF STRATÉGIQUE
 
 423. L’actuel déclin démographique impose aux armées de consolider leur attractivité, la fidélisation et la préparation au combat des femmes et des hommes qui resteront la clef de voûte de leurs capacités opérationnelles même si certaines fonctions devront être automatisées. La perspective du temps de guerre implique d’anticiper des changements d’échelle majeurs et de préparer les réserves qui permettront aux armées de disposer des effectifs en nombre et en qualité pour faire face à un affrontement de haute intensité dans la durée.
 
-2.2 Renforcer la solidarité stratégique
+### 2.2 Renforcer la solidarité stratégique
 
 424. Seule une solidarité stratégique crédible et concrète permettra à la France et ses alliés de peser sur l’environnement géopolitique, d’affronter le durcissement de la conflictualité et de prévenir les faits accomplis. Il s’agit pour la France d’affermir les partenariats actuels et d’en bâtir de nouveaux afin de renforcer ses capacités d’appréciation et sa liberté de manœuvre, d’accroître le volume de forces disponibles et d’agréger des capacités décisives.
 
@@ -1400,7 +1402,7 @@ OBJECTIF STRATÉGIQUE
 
 428. Consciente que l’OTAN demeure le creuset de la préparation à la haute intensité, la France devra être pour ses alliés un partenaire lisible et engagé au profit d’une Alliance toujours plus dissuasive. Pour ce faire, la France favorisera une culture stratégique commune et démontrera sa détermination à défendre les intérêts européens par des mesures concrètes et des prises de risques.
 
-2.3 Démontrer crédibilité et détermination pour gagner la guerre avant la guerre
+### 2.3 Démontrer crédibilité et détermination pour gagner la guerre avant la guerre
 
 429. Seule ou avec ses alliés, la France doit pouvoir défendre ses intérêts et faire respecter l’application du droit international dès la phase de compétition. La valeur opérationnelle des armées, la létalité de leurs capacités et la réactivité de la chaîne de commandement doivent permettre de décourager et d’intimider les compétiteurs et adversaires. L’acceptation d’un niveau de risque accru, l’initiative et l’agilité doivent irriguer l’action pour conserver l’ascendant sur les adversaires.
 
@@ -1410,7 +1412,7 @@ OBJECTIF STRATÉGIQUE
 
 particulièrement en matière de frappes dans la profondeur conventionnelles et de défense antimissile) viendront renforcer cet épaulement, tout particulièrement en Europe.
 
-2.4 Disposer d’une armée prête aux affrontements de haute intensité
+### 2.4 Disposer d’une armée prête aux affrontements de haute intensité
 
 432. La France doit disposer d’armées prêtes à la guerre de haute intensité. La montée en puissance des armées, de leur écosystème et de la Nation pour faire face à un engagement majeur doit être préparée.
 
@@ -1426,7 +1428,9 @@ particulièrement en matière de frappes dans la profondeur conventionnelles et 
 
 438. Les armées s’appuieront sur des soutiens robustes capables de régénérer le potentiel des unités, de reconstituer les stocks de munitions et de pièces de rechange, de soutenir les forces au quotidien, à l’entraînement et en opération. Un maillage adapté de prestataires de services, fournisseurs et industriels sur le territoire national contribuera à cet objectif.
 
-## Une excellence académique, scientifique et technologique au service de la souveraineté française et européenne — 11
+## Une excellence académique, scientifique et technologique au service de la souveraineté française et européenne
+
+11
 
 OBJECTIF STRATÉGIQUE
 
@@ -1454,7 +1458,7 @@ OBJECTIF STRATÉGIQUE
 
 2.1 Créer les conditions de l’excellence technologique
 
-2.1.1 Anticiper et concrétiser le transfert d’innovation vers l’industrie
+### 2.1.1 Anticiper et concrétiser le transfert d’innovation vers l’industrie
 
 449. La recherche scientifique est la première brique de l’innovation technologique. L’innovation, l’industrialisation de la recherche et son passage à l’échelle sont une autre brique critique de la souveraineté française. Aussi, la France doit structurer ses efforts pour détecter, accompagner, et accélérer le développement des technologies critiques sur tout le cycle de recherche et développement, du niveau territorial au niveau national. Il convient dans ce cadre, de réduire les barrières réglementaires et de créer les modèles de financement multi-acteurs, publics, privés, adaptés à la maturité de chaque projet.
 
@@ -1464,7 +1468,7 @@ OBJECTIF STRATÉGIQUE
 
 452. Lorsque les technologies atteignent le bon niveau de maturité, la création de start-ups doit être encouragée. À ce titre, le plan « Deeptech » lancé par l’État en 2019, qui prévoit de tripler le nombre de start-ups issues des laboratoires, doit être revu et renforcé.
 
-2.1.2 Maîtriser les avancées technologiques clefs sur le long terme
+### 2.1.2 Maîtriser les avancées technologiques clefs sur le long terme
 
 453. Une attention particulière doit être portée à l’évolution et à la maîtrise dans la durée des technologies fondamentales, dont celles qui contribuent à la sûreté des aéronefs et du nucléaire, à la propulsion sous toutes ses formes (réacteurs, hypervélocité, nucléaire), aux matériaux (tissus, composites, métaux, revêtements) et savoir-faire associés (assemblage, usinage, production), ainsi qu’aux énergies nouvelles.
 
@@ -1476,7 +1480,7 @@ communication, composants électroniques, furtivité, matériaux critiques, gest
 
 455. La maîtrise d’ouvrage étatique et la maîtrise technologique au profit des deux composantes de la dissuasion et de ses transmissions devront être aussi renforcées au cours des dix prochaines années, dans le cadre de leur modernisation.
 
-2.1.2.1 Intelligence artificielle (IA) et gestion des données
+### 2.1.2.1 Intelligence artificielle (IA) et gestion des données
 
 456. La France se positionnera comme leader en matière d’intelligence artificielle, sur l’ensemble de la chaîne de valeur (théorisation mathématique, développement des infrastructures de calcul, analyse, stockage et gestion des données, utilisation de l’IA en transversal).
 
@@ -1484,11 +1488,11 @@ communication, composants électroniques, furtivité, matériaux critiques, gest
 
 458. Dans le même temps, la France devra développer une politique ambitieuse visant la sécurisation des technologies numériques et de leurs usages. Elle établira les conditions favorables à un renforcement de la cybersécurité dans l’ensemble des filières de recherche et industrielles y compris la protection des données. L’État soutient à cet effet la montée en gamme d’une offre cloud privée nationale et la sécurisation de la protection des données sensibles (référentiel SecNumCloud). La France portera cette ambition dans la révision du cadre de certification de cybersécurité européen.
 
-2.1.2.2 Spatial
+### 2.1.2.2 Spatial
 
 459. Le développement et l’acquisition des technologies spatiales souveraines essentielles et utiles doivent être assurés, en cohérence avec la stratégie spatiale nationale, afin notamment de maîtriser avec nos principaux partenaires, notamment européens, les nécessaires dépendances mutuellement garanties. Il s’agit notamment d’assurer la pérennité de la capacité européenne d’accès autonome à l’espace, des capacités d’observation de la terre dont les signaux d’origine électromagnétique à des fins de renseignement) et de surveillance de l’espace, des télécommunications, des moyens de navigation, de la capacité d’action dans l’espace, et la sécurisation des systèmes spatiaux.
 
-2.1.2.3 Quantique
+### 2.1.2.3 Quantique
 
 460. Le domaine du quantique doit être particulièrement investi. La mise en œuvre de la stratégie nationale pour les technologies quantiques de 202161 doit être poursuivie pour permettre l’émergence d’entreprises françaises et européennes pouvant devenir des leaders mondiaux dans ce domaine. La création d’une filière industrielle compétitive dans les domaines d’application des technologies quantiques est ainsi un objectif à atteindre. La priorisation de la recherche à faible niveau de maturité est également nécessaire.
 
@@ -1496,25 +1500,25 @@ communication, composants électroniques, furtivité, matériaux critiques, gest
 
 61 www.quantique.france2030.gouv.fr
 
-2.1.2.4 NRBC
+### 2.1.2.4 NRBC
 
 462. Il conviendra de préserver les capacités de la France en recherche, en renseignement et en expertise technique sur les sujets NRBC (nucléaire, radiologique, biologique et chimique). Il conviendra de suivre tout particulièrement les ruptures provoquées par les progrès des biotechnologies et la prolifération de nouvelles menaces biologiques et chimiques facilitées par l’utilisation de l’intelligence artificielle.
 
-2.1.2.5 Sciences de la Terre
+### 2.1.2.5 Sciences de la Terre
 
 463. La France doit renforcer ses capacités autonomes d’appréciation, d’analyse et d’anticipation dans les sciences de la Terre, enjeu crucial de souveraineté. Le changement climatique et les phénomènes extrêmes associés imposent par ailleurs d’anticiper les modifications en termes d’équipements et de matériaux utilisés.
 
-2.1.3 Renforcer et développer la pensée stratégique et critique
+### 2.1.3 Renforcer et développer la pensée stratégique et critique
 
 464. Un effort particulier doit être mené pour construire une offre de formation et de recherche d’excellence qui permette le développement d’une pensée stratégique contextualisée et le renforcement du sens critique. La connaissance et la compréhension des enjeux internationaux et globaux, ainsi que la capacité d’anticipation, doivent être renforcées en tant que piliers de l’autonomie stratégique en complément de la maîtrise technologique. L’expertise académique et universitaire doit inclure tout particulièrement les problématiques nucléaires, les rapports de force internationaux et l’appréhension de l’hybridité (en particulier sous l’angle de l’influence informationnelle).
 
-2.1.4 Former et attirer les meilleurs talents
+### 2.1.4 Former et attirer les meilleurs talents
 
 465. La France doit disposer des meilleurs talents, les plus innovants et visionnaires. Dans ce cadre, les capacités de formation et de montée en compétences des talents, notamment sur les secteurs stratégiques, sont un enjeu majeur. La France doit accroître l’adéquation des formations existantes avec les besoins de réindustrialisation et de souveraineté dans les secteurs critiques, en structurant les filières prioritaires (celles des agences de programme déjà évoquées).
 
 466. La capacité de la France à former, attirer et fidéliser les meilleurs étudiants et scientifiques, chercheurs et ingénieurs français et internationaux est tout autant essentielle alors que le métier d’enseignant-chercheur perd de son attractivité et que les viviers diminuent. Elle est un véritable vecteur d’influence et un symbole d’excellence. Elle doit permettre de combler certaines lacunes et créer des liens de long terme qui pourront être stratégiques sur les plans économiques et politiques. La LPR doit y contribuer.
 
-2.2 Renforcer les dispositifs de protection de la recherche et du développement technologique
+### 2.2 Renforcer les dispositifs de protection de la recherche et du développement technologique
 
 467. En matière de recherche et d’innovation, il est nécessaire d'encourager les collaborations et coopérations internationales tout en préservant l'équilibre entre le développement et le renouvellement des compétences et la protection de la recherche française face aux tentatives de captation.
 
@@ -1544,9 +1548,9 @@ projets d'accords entre établissements. Une plus grande responsabilisation des 
 
 477. Enfin, le développement d’une défense européenne devra être encouragé, tant sur le plan des normes que des instruments budgétaires et des capacités opérationnelles. La France devra rester à l’initiative et accompagner un changement d’échelle permettant aux Européens d’exercer des responsabilités croissantes, grâce à une Europe de la défense plus souveraine.
 
-### 1. Protéger la Nation et augmenter la cohésion et la résilience de ses acteurs
+1. Protéger la Nation et augmenter la cohésion et la résilience de ses acteurs
 
-1.1 Amélioration de notre arsenal législatif et réglementaire
+### 1.1 Amélioration de notre arsenal législatif et réglementaire
 
 478. La loi relative à la résilience des infrastructures critiques et au renforcement de la cybersécurité (transpositions des directives européennes REC, NIS 2, DORA) améliorera sensiblement les dispositifs de protection physique et numérique des opérateurs d’importance vitale (OIV), de leurs infrastructures critiques, des entités qualifiées d’essentielles ou d’importantes, et des organisations du secteur financier. À l’horizon 2029, il s’agira d’étudier l’état de mise en œuvre opérationnelle et le besoin d’un éventuel renforcement législatif de ces dispositifs pour permettre, le cas échéant, de pallier tout manquement majeur et notamment de prendre en compte le risque environnemental dans la résilience des OIV et de leurs infrastructures critiques.
 
@@ -1560,7 +1564,7 @@ opérationnelle du territoire datant de 1993 seront actualisées afin de les ada
 
 1.2 La mobilisation nationale
 
-1.2.1 Une mobilisation citoyenne repensée
+### 1.2.1 Une mobilisation citoyenne repensée
 
 482. La « journée défense et citoyenneté » est en cours de transformation. Une interface numérique permettra de mieux guider et orienter les jeunes en fonction de leurs compétences et de leur souhait d’engagement vers trois viviers : la réserve de sécurité nationale63, le service de sécurité nationale64 et le vivier des bénévoles et des volontaires65.
 
@@ -1590,7 +1594,7 @@ armées et des forces de sécurité intérieure : au-delà de sa dimension forma
 
 491. Les spécificités des territoires ultramarins (exposition aux risques majeurs, insularité, etc.), leurs richesses intrinsèques et leurs vulnérabilités propres seront particulièrement prises en compte. Des coopérations régionales seront développées à cet effet et à court terme par chaque département, région et collectivité d’outre-mer, dans tous les domaines de la sécurité avec l’appui des opérateurs français (institut de recherche pour le développement – IRD, agence française de développement – AFD, Business France, etc.).
 
-1.2.2 Le potentiel scientifique et technologique optimisé et protégé
+### 1.2.2 Le potentiel scientifique et technologique optimisé et protégé
 
 492. Une véritable culture commune de sécurité appuyée sur une vision des enjeux de coopération scientifique et technique et d’analyse des risques, sera instaurée à l’horizon 2027 tout en reconnaissant la nécessité de l’ouverture internationale pour garantir l’excellence scientifique et technologique de la Nation. Cela passera par la systématisation des dispositifs de protection de la recherche et des mesures de sensibilisation accrue des étudiants, des chercheurs et des enseignants-chercheurs, par des mesures de gouvernance renouvelées. Pour ce faire, le réseau des fonctionnaires de sécurité et de défense (FSD) sera étendu, de même que les services de l’État chargés de la protection du potentiel économique, industriel et scientifique du pays (notamment au sein du ministère de l’intérieur et du ministère de l’économie, des finances et de la souveraineté industrielle et numérique, du ministère de l’éducation nationale, de l’enseignement supérieur et de la recherche et du ministère de l’Europe et des affaires étrangères). Le contrôle des coopérations internationales au titre de la PPST sera renforcé avec la mise en place de bases de données dédiées et une adaptation du code de l’éducation aux nouveaux enjeux.
 
@@ -1602,19 +1606,19 @@ coordonnée de nouveaux dispositifs nationaux de protection et de contrôle sera
 
 494. En parallèle, les dispositifs d’attractivité des étudiants, chercheurs, scientifiques, ingénieurs seront consolidés et renforcés – à la fois pour attirer les talents étrangers, et éviter la fuite des talents français et européens.
 
-1.2.3 L’organisation renforcée de la cybersécurité
+### 1.2.3 L’organisation renforcée de la cybersécurité
 
 495. Pour ce qui concerne le domaine de la cybersécurité, le lancement à compter de 2026 d’un programme de bourses visant à rendre accessibles les métiers de la sécurité du numérique et résorber un manque en actifs contribuera à faire de la France un des plus grands viviers d’Europe en la matière.
 
 496. Enfin, la création d’une marque nationale de prévention du risque numérique, connue du grand public, portée par le groupement d’intérêt public action contre la cyber malveillance (GIP ACYMA) dans le cadre de ses missions de prévention, sera effective à échéance 202667.
 
-1.2.4 Des moyens contre la criminalité organisée et les narcotrafics
+### 1.2.4 Des moyens contre la criminalité organisée et les narcotrafics
 
 497. La lutte contre la criminalité organisée transnationale exige une meilleure connaissance des réseaux criminels passant par une coordination accrue des services de renseignement. De même, l’emploi des moyens humains et techniques sera optimisé dans les délais les plus brefs. Les agents publics doivent également être protégés contre la corruption. Enfin, visant toutes les filières criminelles, cette lutte sera menée par une coordination internationale et nationale renforcée, et impliquera l’ensemble des services de l’État dans les territoires.
 
 1.3 Des moyens pour faire face
 
-1.3.1 Une planification de défense et de sécurité nationale et des capacités de gestion des crises renforcées
+### 1.3.1 Une planification de défense et de sécurité nationale et des capacités de gestion des crises renforcées
 
 498. L’optimisation de la planification sera réalisée d’ici 2026. En particulier, la déclinaison de la directive générale interministérielle relative à la planification de défense et de sécurité nationale68 sera approfondie pour disposer d'un catalogue générique de mesures visant à répondre à l'ensemble des risques et menaces identifiées. Ce travail sera piloté par le secrétariat général de la défense et de la sécurité nationale, en lien avec les ministères, et en cohérence avec les travaux relatifs à l’actualisation du dispositif VIGIPIRATE et la déclinaison interministérielle des stades de défense et de sécurité nationale intégrés et civilo-militaires qui seront menés selon le même calendrier.
 
@@ -1626,7 +1630,7 @@ coordonnée de nouveaux dispositifs nationaux de protection et de contrôle sera
 
 69 Via l'outil ATHENA.
 
-1.3.2 Renforcement de la continuité des approvisionnements critiques
+### 1.3.2 Renforcement de la continuité des approvisionnements critiques
 
 500. Tout d’abord, l’analyse en temps réel des approvisionnements et des chaînes de valeur sera mise en place d’ici 2026 (création d’un outil informatique mobilisant les données douanières). En parallèle, les ministères et les OIV définiront et actualiseront la liste des biens vitaux à la continuité de la vie de la Nation. Ils évalueront particulièrement leur niveau de criticité et de dépendance. Ce travail de cartographie a pour finalité de disposer de réserves pour s’assurer d’une autonomie suffisante pendant les premières semaines d’un conflit majeur qui interromprait les voies d’approvisionnement du territoire national, et de garanties d’approvisionnement. Il pourra concerner également la conversion de l’économie civile et des stocks civils.
 
@@ -1634,13 +1638,13 @@ coordonnée de nouveaux dispositifs nationaux de protection et de contrôle sera
 
 502. Les mesures de remédiation (relocalisation, prépositionnement, diversification, éventuellement constitution d’un stock stratégique70) pour les biens vitaux définis comme tels, seront établies et pleinement déployées à échéance 203071. En parallèle, les capacités productives des secteurs clefs permettant une remontée capacitaire d’urgence seront identifiées au début de l’année 2026. La délégation interministérielle à la sécurisation de l’approvisionnement en minerais et métaux stratégiques (DIAMMS) implémentera ces éléments dans ses travaux.
 
-1.3.3 Une résilience énergétique garantie
+### 1.3.3 Une résilience énergétique garantie
 
 503. La continuité de l’approvisionnement électrique et énergétique fera l’objet d’un effort budgétaire dédié afin d’assurer la résilience et la sécurité énergétique de l’économie nationale et de la BITD.
 
 504. La relance du nucléaire civil permettra de sécuriser la production d’énergie décarbonée en France. Elle se concrétisera par la construction de nouveaux réacteurs nucléaires EPR 2, dont les premiers seront mis en service à la fin de la décennie 2030. Les travaux visant à la fermeture du cycle du combustible, permettront également, à terme, de réduire drastiquement les besoins en uranium naturel pour le fonctionnement des réacteurs, menant ainsi à la souveraineté en matière de production d’électricité.
 
-1.3.4 Des investissements dans la cybersécurité
+### 1.3.4 Des investissements dans la cybersécurité
 
 505. Dans le domaine de la cybersécurité, les investissements dans les technologies d’avenir et dans la sécurisation des fondements numériques de l’économie (réseaux, cloud, logiciel, calcul, IA) et de la société françaises seront réalisés pour permettre à la France de maîtriser des dépendances et de conserver sa liberté d’action (technologies innovantes critiques en cybersécurité – cryptographie post-quantique, confidential computing72 ; exploitation et traitement des données de masse ; utilisation des outils d’IA ; renforcement de la capacité française sur le sujet de l’évaluation ; lancement d’initiatives de normalisation coordonnées sur la cybersécurité).
 
@@ -1660,7 +1664,7 @@ coordonnée de nouveaux dispositifs nationaux de protection et de contrôle sera
 
 509. Enfin, un filtre de cybersécurité à destination du grand public visant à prévenir l’accès aux sites web malveillants sera déployé dès 2025.
 
-1.3.5 Des capacités pour faire face aux risques sanitaires et aux conséquences du changement climatique
+### 1.3.5 Des capacités pour faire face aux risques sanitaires et aux conséquences du changement climatique
 
 510. Pour être en mesure de prendre en compte les enjeux du changement climatique, l’État maintiendra sa capacité autonome d’observation et d’analyse et augmentera sa capacité de réponse nationale aux catastrophes naturelles et aux effets des aléas climatiques en renforçant les capacités des acteurs de sécurité civile et leurs soutiens dans les meilleurs délais (création de détachements permanents de la sécurité civile dans l’océan Indien, en Guyane et aux Antilles, augmentation des capacités de sécurité civile, etc.). Le soutien des armées et l’utilisation des éventuels mécanismes de soutien européen pourront être recherchés.
 
@@ -1668,9 +1672,9 @@ coordonnée de nouveaux dispositifs nationaux de protection et de contrôle sera
 
 512. L’accomplissement de ces ambitions nécessitera de garantir l’excellence de l’expertise scientifique française.
 
-### 2. Renforcer l’autonomie stratégique et disposer d’une capacité d’action souveraine et crédible
+2. Renforcer l’autonomie stratégique et disposer d’une capacité d’action souveraine et crédible
 
-2.1 Renforcement du réseau et des moyens diplomatiques
+### 2.1 Renforcement du réseau et des moyens diplomatiques
 
 513. La mise en œuvre des priorités diplomatiques françaises, fixées par le Président de la République le 16 mars 2023 à l’issue des États généraux de la diplomatie73 sera poursuivie, de même que le réarmement humain et matériel de notre outil diplomatique à l’appui de ces objectifs. À ce titre, le ministère de l’Europe et des affaires étrangères continuera sa remontée en puissance en matière d’analyse politique des zones de crise, d’enjeux globaux, de veille et de riposte informationnelle et d’influence, notamment en Europe, en Afrique, au Proche et Moyen-Orient, et dans l’Indopacifique. Il maintiendra sa capacité de réponse aux crises et de coordination de l’aide humanitaire d’urgence à titre national, notamment à travers l’outil à vocation interministérielle constitué par le centre de crise et de soutien qui verra ses moyens renforcés. Il continuera de soutenir également l’action humanitaire des organisations internationales, capables d’agir de manière rapide, efficace et à grande échelle, comme le CICR, le HCR, le PAM et l’UNICEF, et dont la pérennité est essentielle
 
@@ -1686,7 +1690,7 @@ pour l’ensemble du système humanitaire (par exemple, l’action du CICR et ce
 
 517. Dans les outre-mer, la France soutiendra l’adhésion et la participation des collectivités territoriales aux organisations régionales (OR), tout en y renforçant sa représentation (notamment dans le Pacifique). Les liens avec les délégations et entités de l’Union européenne présentes dans les sous-régions seront aussi renforcés. Les mécanismes de concertation État-collectivités pour définir le positionnement commun au sein de ces OR seront renforcés à court terme. Pour l’océan Indien et la zone Atlantique, l’adoption de documents d’orientations stratégiques État-collectivités sera recherchée à l’horizon 2026. Des axes de coopérations thématiques seront densifiés en fonction des spécificités des zones (sécurité, pêche, environnement, recherche scientifique).
 
-2.2 Sécurisation du droit et simplification des cadres normatifs
+### 2.2 Sécurisation du droit et simplification des cadres normatifs
 
 518. Des outils juridiques seront déployés au plus tôt pour améliorer la lutte contre le terrorisme (création d’une injonction aux personnes suivies pour radicalisation terroriste et présentant des signes de troubles psychiatrique de se soumettre à une expertise psychiatrique), contre les extrémismes violents, contre le séparatisme, et contre la compromission, afin d’assurer la sécurité des emprises et des personnels des services.
 
@@ -1700,7 +1704,7 @@ pour l’ensemble du système humanitaire (par exemple, l’action du CICR et ce
 
 2.3 Structuration de nos capacités de réponses industrielles et hybrides
 
-2.3.1 Des organisations industrielles consolidées au profit des armées et des forces de sécurité intérieure
+### 2.3.1 Des organisations industrielles consolidées au profit des armées et des forces de sécurité intérieure
 
 521. En ce qui concerne les moyens nécessaires à la défense, plusieurs mesures ont été identifiées.
 
@@ -1714,7 +1718,7 @@ pour l’ensemble du système humanitaire (par exemple, l’action du CICR et ce
 
 526. Enfin, le ministère des armées définira pour 2026 un schéma directeur identifiant le niveau de souveraineté souhaité (maîtrise nationale, maîtrise à travers des coopérations ou recours au marché) en matière de capacités de conception, de production et de maintenance de systèmes de défense.
 
-2.3.2 Une organisation renforcée dans les domaines hybrides
+### 2.3.2 Une organisation renforcée dans les domaines hybrides
 
 527. Les administrations concernées poursuivront leurs efforts de signalement de comportements inauthentiques aux plateformes et contribueront aux enquêtes sur le défaut de modération des plateformes dans le cadre du DSA. Elles procéderont également au renforcement de leurs capacités
 
@@ -1730,7 +1734,7 @@ opérationnelles76. Un centre d’excellence en IA77 et une académie78 de la lu
 
 2.4 Consolidation de l’existant et développement de nouveaux moyens
 
-2.4.1 Renseignement et traitement des données
+### 2.4.1 Renseignement et traitement des données
 
 532. Dans le domaine du renseignement, les efforts de court et moyen termes viseront à préserver les capacités techniques et opérationnelles acquises et à en développer de nouvelles (capacités d’observation, d’interception et d’exploitation ; traitement massif de la donnée ; intégration de l’IA ; anticipation des technologies de rupture ; etc.). Il faudra en particulier répondre au défi du traitement massif des données grâce à l’IA.
 
@@ -1738,7 +1742,7 @@ opérationnelles76. Un centre d’excellence en IA77 et une académie78 de la lu
 
 534. La question de la montée en puissance des capacités nationales d’OSINT (renseignement en sources ouvertes) fera l’objet d’une étude approfondie d’ici fin 2026 afin de doter la France de réelles capacités dans le domaine.
 
-2.4.2 Armées et financement de la défense
+### 2.4.2 Armées et financement de la défense
 
 535. Concernant les armées, l’accélération des efforts capacitaires, appuyée par la révolution nécessaire dans ce domaine, portera sur le renforcement du socle de la protection, des moyens offensifs et des moyens de commandement (numérique et connectivité). Ces efforts porteront plus particulièrement sur les munitions, les drones et munitions téléopérées, la suppression des défenses
 
@@ -1764,7 +1768,7 @@ adverses, la défense sol-air et lutte anti-drones, la guerre dans le champ éle
 
 541. Enfin, dans la prolongation des travaux relatifs à la réévaluation du dispositif de flotte stratégique, il s’agira, dès 2026, de travailler à l’établissement d’une liste de navires pouvant être réquisitionnés et de tirer tous les bénéfices de la « conteneurisation » de capacités (médicales, renseignement, etc.).
 
-2.4.3 Forces de sécurité intérieure
+### 2.4.3 Forces de sécurité intérieure
 
 542. Le ministère de l’intérieur engagera le réexamen des capacités des forces de sécurité intérieure et de sécurité civile à l’aune de l’évolution des menaces, en vue de la préparation de la prochaine loi
 
@@ -1778,7 +1782,7 @@ d’orientation et de programmation du ministère de l’intérieur. Les besoins
 
 544. La mise en place d’une interopérabilité tactique et technique entre les forces de sécurité intérieure et les armées (compréhension mutuelle, partage de renseignements, interconnexion des systèmes de communications83, partage de situations tactiques, connaissance mutuelle des cadres et schémas opérationnels, etc.) devra également être activement poursuivie dès à présent.
 
-2.4.4 Capacités de défense et de sécurité dans les outre-mer
+### 2.4.4 Capacités de défense et de sécurité dans les outre-mer
 
 545. Outre-mer, les capacités des armées seront renforcées pour améliorer la surveillance des espaces souverains, pour constituer des points d’appui et intervenir sans préavis dans leur zone de responsabilité et pour accueillir des renforts venus de l’hexagone. À l’horizon 2030, elles disposeront de près de 1 000 militaires supplémentaires, d’équipements modernisés (SCORPION, drones, patrouilleurs maritimes, etc.) de capacités de commandement renforcées et d’infrastructures opérationnelles adaptées.
 
@@ -1786,7 +1790,7 @@ d’orientation et de programmation du ministère de l’intérieur. Les besoins
 
 547. Il convient également de développer au plus tôt une doctrine de communication, une consolidation des capacités de rayonnement, d’anticipation et de gestion de crise des zones de défense et de sécurité ultramarines contre les risques naturels. Une action régulière de sensibilisation à toutes les formes d’ingérences étrangères devra par ailleurs être assurée de manière à renforcer la vigilance et la prévention des différents acteurs locaux (institutionnels, économiques, universitaires, etc.) face aux jeux d’influence et d’ingérence de compétiteurs stratégiques et visant directement les territoires français ultramarins en raison de leur importance stratégique mais aussi à cause de leur éloignement.
 
-2.4.5 Développement des technologies de rupture
+### 2.4.5 Développement des technologies de rupture
 
 548. Pour soutenir le développement des technologies stratégiques, la loi de programmation de la recherche (LPR) sera sécurisée et renforcée. Elle constitue le meilleur véhicule pour atteindre les objectifs d’excellence académique, scientifique et technologique et favoriser le transfert d’innovation (la trajectoire financière du secteur spatial est notamment régie par la LPR). Cette loi de programmation permettra d’accompagner l’installation dans la durée des agences de
 
@@ -1802,9 +1806,9 @@ programme portant les thématiques de recherche stratégique, de développer les
 
 551. En particulier, le projet PROQCIMA de développement d’une capacité souveraine de calcul quantique au meilleur niveau mondial sera soutenu pour permettre de disposer à l’horizon 2032 de prototypes d’ordinateurs quantiques universels produits par des industriels français.
 
-### 3. Contribuer à la sécurité de l’Europe et à la sécurité internationale
+3. Contribuer à la sécurité de l’Europe et à la sécurité internationale
 
-3.1 Une inflation réglementaire contenue et un partage des bonnes pratiques
+### 3.1 Une inflation réglementaire contenue et un partage des bonnes pratiques
 
 552. En matière de règlements, la France œuvrera dès 2025 à promouvoir une plus grande stabilité réglementaire afin de fournir de la visibilité aux entreprises européennes de défense et leur permettre de s’adapter aux nombreuses normes déjà en vigueur. Elle travaillera en parallèle à la simplification des règlements existants et veillera à l’impact des réglementations transverses (comme REACH85) sur les chaînes de production du secteur de défense et de sécurité, les potentielles pertes de performance et l’augmentation des coûts des équipements destinés aux armées.
 
@@ -1812,7 +1816,7 @@ programme portant les thématiques de recherche stratégique, de développer les
 
 3.2 Actions concertées en Europe, influence sur la scène internationale
 
-3.2.1 Initiatives de financement européen
+### 3.2.1 Initiatives de financement européen
 
 554. Pour donner corps au Livre blanc sur la défense européenne, les ministères des armées de certains pays européens créeront de nouvelles coalitions capacitaires. La France prendra toute sa part à cette démarche qui vise à synchroniser le réarmement des pays européens pour bénéficier des capacités industrielles existantes, faire des économies d’échelles, optimiser les outils de production et financer ensembles des capacités stratégiques mutualisables. Des travaux d’identification de premiers projets communs seront consolidés dès 2026. Au regard du besoin de réarmement de l’Europe, la France proposera des modèles de coopération innovants visant des délais de livraison plus ambitieux basés sur une gouvernance forte et plus efficace.
 
@@ -1826,17 +1830,17 @@ programme portant les thématiques de recherche stratégique, de développer les
 
 556. En parallèle dans le cadre du projet de règlement EDIP et SAFE, la France continuera de promouvoir des critères de préférence européenne et le mode de subvention des capacités de production industrielles créées par le règlement ASAP qui s’est révélé particulièrement efficace et utile pour le financement du projet Eurenco à Bergerac. Elle proposera la création de lignes de production d’industriels européens ailleurs en Europe et cherchera à développer des chaînes d’approvisionnements croisées pour améliorer la résilience et l’autonomie de la BITDE.
 
-3.2.2 Lutte contre les manipulations de l’information à l’international
+### 3.2.2 Lutte contre les manipulations de l’information à l’international
 
 557. Dans le domaine de la lutte contre les manipulations de l’information, les administrations concernées renforceront en 2026 la dynamique des dialogues bilatéraux, multilatéraux et les partenariats internationaux, notamment autour de la poursuite des programmes de capacity-building menés par VIGINUM et à travers les mécanismes de coopération français et européens sous l'égide du ministère de l’Europe et des affaires étrangères (coopération médias, triangle de Weimar, système d’alerte rapide du service européen pour l’action extérieure – SEAE). Ils pourront à cette fin s’appuyer sur des moyens dédiés.
 
 558. Le travail scientifique, l’accès aux archives et le débat entre historiens doivent servir à la consolidation de mémoires partagées, en particulier en direction et en partenariat avec les nations européennes. Le renforcement des commémorations et actions mémorielles communes sur l’histoire combattante partagée doivent contribuer à resserrer les liens avec les partenaires et alliés de la France en soutien des axes diplomatiques classiques, de l’accord culturel à l’accord de défense et de la lutte contre les manipulations de l’information.
 
-3.2.3 Coopérations renseignement
+### 3.2.3 Coopérations renseignement
 
 559. Le renseignement, compétence des États, doit pouvoir faire l’objet d’un meilleur partage à l’échelle européenne, entre services, mais aussi avec les institutions de l’Union européenne par l’intermédiaire de la SIAC87 qui doit rester le point d’entrée unique pour le partage de renseignement à l’Union européenne. La France s’attachera à ce titre à proposer des modalités pour améliorer les synergies dans le domaine avec les États membres de l’Union européenne tout en préservant leurs prérogatives.
 
-3.2.4 Sécurité et stabilité du cyberespace en Europe et à l’international
+### 3.2.4 Sécurité et stabilité du cyberespace en Europe et à l’international
 
 560. La France se dotera de moyens pour conduire des actions ciblées de développement capacitaire en matière de cybersécurité, concentrées sur des partenaires prioritaires. Cet appui, qui a vocation à promouvoir l’approche française en matière de résilience, pourra prendre une forme structurelle (promotion de bonnes pratiques, programmes de renforcement capacitaire) ou opérationnelle, y compris sur le plan militaire (« Partenariat cyber agile » ou « Tailored Cyber Partnership »), notamment en Afrique.
 
@@ -1846,7 +1850,7 @@ programme portant les thématiques de recherche stratégique, de développer les
 
 87 Single Intelligence Analysis Capacity.
 
-3.2.5 Investissements au sein des institutions internationales et auprès des partenaires
+### 3.2.5 Investissements au sein des institutions internationales et auprès des partenaires
 
 563. La France doit par ailleurs continuer à investir dans l’OTAN et dans les institutions européennes. De manière générale, au sein des armées et de la diplomatie, le parcours des cadres sera repensé, et la mobilité à l’OTAN et les institutions européennes encouragée, afin de prendre en compte l’importance de ces expériences multilatérales dans la construction des carrières.
 
@@ -1854,7 +1858,7 @@ programme portant les thématiques de recherche stratégique, de développer les
 
 565. En Afrique, au Moyen-Orient, en Asie et en Amérique latine, les partenariats de sécurité et de défense de la France seront réévalués ou renforcés, en application de stratégies pluriannuelles déclinées conjointement par les ministères de l’Europe et des affaires étrangères, des armées et de l’intérieur. Une voie alternative et une adaptation des efforts pourront être proposées, en phase avec ses intérêts nationaux et internationaux, industriels comme opérationnels. Lorsque cela se justifie, une stratégie de renforcement du partenariat économique sera recherchée et accompagnera ces adaptations.
 
-3.3 Soutien aux projets capacitaires européens
+### 3.3 Soutien aux projets capacitaires européens
 
 566. Dans le cadre de la mise en œuvre du Livre blanc sur la défense européenne, la France s’attachera également à présenter des projets à forte valeur ajoutée dans les domaines capacitaires identifiés par les conclusions du conseil européen extraordinaire du 6 mars 2025, comme le segment des communications sécurisées spatiales, la défense surface-air ou encore le transport aérien tactique et stratégique.
 

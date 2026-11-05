@@ -18,7 +18,7 @@ PART IV STEADY EFFORTS AIMED FOR "AI FOR ALL" ..................................
 
 1
 
-### PART I BASIC CONCEPT
+## PART I BASIC CONCEPT
 
 1. Introduction
 
@@ -502,7 +502,7 @@ to future economic and social development.
 
 8
 
-### PART II DEALING WITH IMMINENT CRISES
+## PART II DEALING WITH IMMINENT CRISES
 
 1. Environment surrounding Japan
 
@@ -1192,7 +1192,7 @@ AI Strategy 2022 sees Japan's future in it.
 
 19
 
-### PART III PROMOTION OF IMPLEMENTATION IN SOCIETY
+## PART III PROMOTION OF IMPLEMENTATION IN SOCIETY
 
 1. Background of implementation in society
 
@@ -1688,7 +1688,7 @@ logistics ; (5) regional revitalization ; (6) manufacturing ; and (7) security)
 
 27
 
-### Part IV STEADY EFFORTS AIMED FOR "AI FOR ALL"
+## Part IV STEADY EFFORTS AIMED FOR "AI FOR ALL"
 
 In Part IV, based on the results of the steady implementation of the Strategy, we
 

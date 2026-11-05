@@ -118,17 +118,13 @@ active au sein de l’organisation du traité de l’Atlantique nord (OTAN) et d
 
 ## UN MONDE DE TENSIONS RENOUVELÉES
 
-### 1.1
-
-DE LA COMPÉTITION À LA CONFRONTATION STRATÉGIQUE
+### 1.1 DE LA COMPÉTITION À LA CONFRONTATION STRATÉGIQUE
 
 15) Identifié dès la revue stratégique de défense et de sécurité nationale de 2017 puis dans l’actualisation stratégique de 2021 comme une tendance de temps long, le renouveau du phénomène de compétition stratégique se décline aujourd’hui au niveau mondial comme régional, dans des configurations qui nous exposent plus visiblement et se généralisent. Les ambitions révisionnistes se sont exacerbées, donnant ainsi lieu, du Sahel au Pacifique, en passant par la Méditerranée orientale, à de nombreuses démonstrations d’opportunisme désinhibé. Nous passons ainsi d’une compétition latente à une confrontation ouverte, de la part de la Russie et, de plus en plus, à une compétition exacerbée avec la République populaire de Chine (RPC). La pandémie, la crise climatique, les crises migratoires et le retour d’une guerre de haute intensité sur le sol européen nous rappellent l’interdépendance profonde entre scènes nationale et internationale, dans les domaines politique, économique, énergétique ou encore alimentaire. Ces crises illustrent la manière dont la fracturation de l’ordre mondial est susceptible de contraindre notre liberté d’action. Aussi la revue nationale stratégique 2022 s’inscrit-t-elle dans la continuité et en complément de la boussole stratégique de l’Union européenne (UE) et du concept stratégique de l’OTAN, adoptés cette année. Elle vise à décliner ces stratégies en intégrant nos spécificités nationales.
 
 16) Les pratiques de contestation et de contournement de l’ordre international fondé sur le multilatéralisme et la règle de droit, qu’elles se reflètent aux Nations unies, à l’organisation d’interdiction des armes chimiques (OIAC) ou dans la réactivation de litiges territoriaux, se banalisent et se diversifient, s’ajoutant aux violations passées (principes d’Helsinki, traités FNI et Ciel ouvert, mémorandum de Budapest, etc.). L’ensemble d’accords et de normes édifié depuis la fin de la guerre froide connaît un effritement qui, sans que ses causes soient récentes, s’est brutalement accéléré depuis 2014. À titre d’illustration, des accords qui stabilisaient jusqu’à récemment les équilibres euro-atlantiques ne subsiste aujourd’hui que le traité new START, voué à expirer en 2026 et à la succession incertaine. Contournée et vidée de sa substance lorsqu’elle n’est pas dénoncée frontalement, cette architecture de maîtrise des armements se trouve aujourd’hui à la fois plus nécessaire et plus affaiblie qu’à tout autre moment depuis près de quarante ans.
 
-### 1.2
-
-UNE CRISTALLISATION DES PRINCIPAUX ANTAGONISMES Russie : des ambitions révisionnistes assumées
+### 1.2 UNE CRISTALLISATION DES PRINCIPAUX ANTAGONISMES Russie : des ambitions révisionnistes assumées
 
 17) La Russie poursuit une stratégie de remise en cause de la sécurité européenne dont la guerre engagée contre l’Ukraine le 24 février 2022 représente la manifestation la plus ouverte et la plus brutale. Dans la mise en œuvre de son ambition de puissance conçue comme une opposition à ce que la Russie désigne comme « l’Occident collectif », Moscou avait longtemps privilégié une approche plus indirecte, misant en priorité sur un travail de sape politico-diplomatique : guerre de l’information et ingérence, modes d’action difficiles à attribuer, recherche d’un découplage transatlantique, etc. Sans avoir disparu, cette stratégie se double désormais d’une volonté d’engager la confrontation militaire directe, matérialisée par la guerre d’agression déclenchée contre l’Ukraine. Réécrivant l’histoire et le récit national, le pouvoir russe assume de plus en plus ouvertement son ambition impérialiste à travers une logique de rapport de forces.
 
@@ -158,9 +154,7 @@ LES DÉMOCRATIES CONTESTÉES ET FRAGILISÉES DANS LA BATAILLE DE L’INFLUENCE
 
 27) Enfin, les États occidentaux doivent intégrer l’inéluctabilité du rattrapage et de la dissémination dans le domaine technologique qui se confirme. Cette forme d’égalisation des niveaux technologiques contribue à redonner de l’importance au nombre. Empruntant parfois une approche plus agile et disposant de volumes plus importants, nos compétiteurs stratégiques ont la capacité de faire basculer des équilibres régionaux, comme par exemple l’Iran dans le domaine balistique. Dans le même temps, les régimes multilatéraux de lutte contre cette dissémination ont perdu de leur efficacité, minés de l’intérieur par la Russie dans la plupart des cas. Les GAFAM1, ou d’autres acteurs privés, s'imposent comme des acteurs non étatiques dont les contributions actives ou passives doivent être intégrées comme données d'entrée dès les phases de contestation.
 
-### 1.4
-
-LA CONFLICTUALITÉ ENTRE RETOUR DU FAIT NUCLÉAIRE, HAUTE INTENSITÉ ET HYBRIDITÉ
+### 1.4 LA CONFLICTUALITÉ ENTRE RETOUR DU FAIT NUCLÉAIRE, HAUTE INTENSITÉ ET HYBRIDITÉ
 
 28) Les premiers enseignements de la guerre en Ukraine sont notamment caractérisés par la menace d’escalade nucléaire et sa banalisation de la part d’un État doté. Associée à l’effondrement de l’architecture de maîtrise des armements et à la persistance des crises de prolifération, l’utilisation par la Russie d’une rhétorique nucléaire à des fins offensives en appui de l’invasion de l’Ukraine est susceptible de fragiliser les équilibres stratégiques et, à plus long terme, de renforcer la prolifération. La réussite d’une manœuvre coercitive appuyée par l’arme nucléaire constituerait un dangereux précédent. L’intimidation et les menaces de coercition russes sous l’ombre portée de l’arme nucléaire remettent en outre en cause les efforts de transparence doctrinale des États dotés du P5.
 
@@ -176,9 +170,7 @@ profondeur. Les enseignements de cet engagement majeur sous la voûte nucléaire
 
 32) Parmi les champs de l’hybridité, les États utilisent de plus en plus systématiquement l’arme cyber afin de défendre leurs intérêts stratégiques ou dans le cadre de tensions géopolitiques. Outre le développement de capacités offensives, des armes et des outils d’espionnage cyber sophistiqués prêts à l’emploi sont progressivement développés par des entreprises privées. Cette course à l’armement cyber accroît le risque d’escalade, dont la compréhension des étapes n’est pas partagée. La menace cybercriminelle, qui atteint un niveau inédit de sophistication et de désinhibition, constitue enfin un défi stratégique pour notre sécurité nationale.
 
-### 1.5
-
-FOYERS DE CRISES ET OPPORTUNISMES RÉGIONAUX
+### 1.5 FOYERS DE CRISES ET OPPORTUNISMES RÉGIONAUX
 
 33) Le recentrage américain sur la compétition stratégique avec la RPC s’accompagne d’une recomposition des rapports de force entre puissances régionales. Au Proche et au Moyen- Orient, l’enhardissement diplomatique et militaire de certaines puissances régionales est concomitant à la déstabilisation de pays déjà fragiles. La persistance des crises de prolifération (Iran, Corée du Nord, Syrie pour les armes chimiques) contribue à attiser ces foyers de déstabilisation régionale. Ces dynamiques affectent nos intérêts stratégiques parce qu’elles s’accompagnent d’un réagencement des ententes ou alliances et des rapports de force intra-régionaux. La défiance à l’égard des Occidentaux et des normes qu’ils promeuvent fait le lit des politiques d’influence de la Russie et de la RPC, en Afrique comme au Proche et Moyen-Orient. Dans le périmètre même de l’Europe, les Balkans occidentaux constitueront probablement à
 
@@ -196,9 +188,7 @@ court terme une zone de fragilité que ces pays pourront chercher à exploiter p
 
 38) La dégradation de l’environnement international, le risque de stratégies opportunistes face à l’étirement de nos intérêts et la diversité des zones d’action mettent en lumière l’immense difficulté pour la France de répondre seule à l’ensemble des défis (Europe orientale et septentrionale, Méditerranée-mer Rouge, Proche et Moyen Orient, Indopacifique, Afrique, Arctique, etc.). La robustesse de nos partenariats, le maintien d’un haut niveau d’interopérabilité avec les États-Unis, notre capacité à construire des alignements stratégiques permanents ou temporaires dans un environnement mouvant conditionneront plus sûrement notre influence globale et notre poids dans le développement d’un environnement plus stable. Ils nous permettront en outre d’anticiper – et donc de prévenir – de potentiels effets indésirables de la compétition, voire de la concurrence entre alliés.
 
-### 2.1
-
-L’EUROPE À LA CROISÉE DES CHEMINS POUR DEVENIR UN ACTEUR STRATÉGIQUE
+### 2.1 L’EUROPE À LA CROISÉE DES CHEMINS POUR DEVENIR UN ACTEUR STRATÉGIQUE
 
 39) De nombreuses avancées ont été réalisées ces dernières années en matière de défense européenne, tant dans le domaine capacitaire – création du fonds européen de défense (FED), mise en œuvre de la coopération structurée permanente (CSP), renforcement du processus capacitaire européen – que dans le domaine opérationnel avec la création de la facilité européenne de paix, ou dans le domaine social avec le traitement des crises migratoires.
 
@@ -210,17 +200,13 @@ L’EUROPE À LA CROISÉE DES CHEMINS POUR DEVENIR UN ACTEUR STRATÉGIQUE
 
 43) Enfin, nos efforts de coopération à l’échelle européenne se sont densifiés, en s’orientant vers des partenaires plus variés avec lesquels des coopérations sectorielles d’envergure ont pu être lancées, qu’elles aient une dimension capacitaire, opérationnelle ou à travers l’établissement de partenariats stratégiques.
 
-### 2.2
-
-UNE ALLIANCE ATLANTIQUE CONFORTÉE DANS LE CONTEXTE
+### 2.2 UNE ALLIANCE ATLANTIQUE CONFORTÉE DANS LE CONTEXTE
 
 44) L’OTAN reste aujourd’hui le fondement et le cadre essentiel de la sécurité collective de l’Europe. Pour la majorité de nos partenaires européens, ce constat s’impose avec une force renouvelée par le retour de la guerre sur le Continent et la confrontation ouverte et durable avec la Russie, comme en témoignent les demandes d’adhésion de la Finlande et de la Suède.
 
 45) La période ouverte en 2014 avec l’annexion de la Crimée et l’entretien d’un conflit dans le Donbass, signaux tangibles d’une agressivité militaire russe croissante, a contraint l’OTAN à un effort d’adaptation majeur. Cette prise de conscience collective s’est manifestée par des investissements accrus avec un tiers des alliés atteignant ou dépassant les 2 % du PIB dans leurs budgets de défense. Cet effort net doit se poursuivre dans le cadre d’une remontée en puissance collective face à des adversaires décomplexés. Cette évolution est bénéfique en ce qu’elle rapproche nos partenaires européens de nos vues selon lesquelles nous devons collectivement assumer davantage de responsabilités en matière de défense.
 
-### 2.3
-
-LE « PIVOT » AMÉRICAIN
+### 2.3 LE « PIVOT » AMÉRICAIN
 
 46) Pour les États-Unis, la RPC est la priorité stratégique de temps long, avec un mouvement de fond engagé dès 2007. Cette focalisation irrigue beaucoup de pans de la politique américaine, les relations avec les alliés traditionnels et son positionnement dans les enceintes multilatérales.
 
@@ -228,9 +214,7 @@ LE « PIVOT » AMÉRICAIN
 
 48) À travers la guerre en Ukraine, les États-Unis sont à nouveau apparus comme le principal pourvoyeur de la sécurité européenne, par l’ampleur des efforts de réassurance et de soutien militaire à l’Ukraine. Un potentiel affaiblissement de l’investissement américain dans les zones d’intérêt européen (Afrique, Moyen-Orient), par ailleurs plus exposées aux visées unilatérales de puissances intermédiaires et à la montée d’opinions anti-occidentales, pourrait affecter notre capacité à contribuer durablement à la sécurité et la stabilité de ces régions.
 
-### 2.4
-
-NOS PARTENARIATS À RÉINVENTER
+### 2.4 NOS PARTENARIATS À RÉINVENTER
 
 49) La France, puissance d’équilibres, refuse de s’enfermer dans une logique de blocs. Il importe de maintenir ce positionnement ancien et original dans la recherche d’une relation équilibrée avec nos alliés. La France a une longue histoire d’établissement de partenariats stratégiques dans ses zones d’intérêt, dans lesquels nos partenaires doivent trouver sécurité, stabilité et développement.
 
@@ -266,9 +250,7 @@ NOS PARTENARIATS À RÉINVENTER
 
 ## 1. LES PRIORITÉS DE SÉCURITÉ DE LA FRANCE
 
-### 1.1
-
-LE RENFORCEMENT DE NOTRE AUTONOMIE STRATÉGIQUE
+### 1.1 LE RENFORCEMENT DE NOTRE AUTONOMIE STRATÉGIQUE
 
 60) L’autonomie stratégique est la condition sine qua non de la protection de nos intérêts fondamentaux. Les capacités d’appréciation, de décision et d’action autonomes en constituent le cœur.
 
@@ -278,9 +260,7 @@ LE RENFORCEMENT DE NOTRE AUTONOMIE STRATÉGIQUE
 
 63) L’autonomie stratégique repose également sur d’autres facteurs : cohésion nationale, indépendance économique et industrielle, sécurisation de nos approvisionnements, influence internationale notamment au moyen d’une diplomatie forte.
 
-### 1.2
-
-LA CONCRÉTISATION DE LA SOUVERAINETÉ EUROPÉENNE ET LA CONSOLIDATION DE NOS ALLIANCES
+### 1.2 LA CONCRÉTISATION DE LA SOUVERAINETÉ EUROPÉENNE ET LA CONSOLIDATION DE NOS ALLIANCES
 
 64) La protection et la promotion de nos intérêts fondamentaux ne sauraient être limitées à la seule échelle nationale. Nous devons continuer de contribuer activement à la défense des intérêts européens et à notre sécurité collective. Ces objectifs nécessitent le renforcement de nos coopérations internationales, de nos partenariats et de nos alliances, en premier lieu au sein de l’UE et de l’OTAN, où nous sommes liés par certaines garanties de sécurité (article 5 du traité de l’Atlantique nord et article 42 du traité sur l’UE). L’investissement de partenariats ad hoc, déjà existants ou à créer, nous permettra aussi de forger des réponses communes à certains défis selon des géographies précises.
 
@@ -308,9 +288,7 @@ LA DÉFENSE D’UN ORDRE INTERNATIONAL STABLE, FONDÉ SUR LE RESPECT DU DROIT ET
 
 70) Leur bonne articulation sert une approche intégrée visant à répondre à l’évolution du continuum de menaces que font peser nos adversaires sur nos intérêts et nos valeurs ainsi que ceux de nos plus proches partenaires. À cet égard, elles restent fonction de notre capacité à assurer une bonne coordination au niveau européen comme multilatéral.
 
-### 2.1
-
-CONNAISSANCE – COMPRÉHENSION – ANTICIPATION
+### 2.1 CONNAISSANCE – COMPRÉHENSION – ANTICIPATION
 
 71) La fonction connaissance-compréhension-anticipation irrigue l’ensemble des autres fonctions stratégiques. Le maintien d’une capacité d’appréciation autonome est une garantie de la prise de décision souveraine. Elle contribue directement à la compréhension des intentions de nos compétiteurs. Tout en étant la condition de l’efficacité opérationnelle des forces, elle contribue à l’économie des moyens utilisés.
 
@@ -320,9 +298,7 @@ CONNAISSANCE – COMPRÉHENSION – ANTICIPATION
 
 74) La fonction connaissance-compréhension-anticipation comporte une dimension partenariale forte. Pour pouvoir conserver une appréciation autonome de situation sur des enjeux prioritaires, la France doit aussi s’appuyer sur l’appréciation de ses partenaires en complément de ses moyens propres.
 
-### 2.2
-
-DISSUASION
+### 2.2 DISSUASION
 
 75) La dissuasion nucléaire repose sur sa crédibilité politique, opérationnelle et technique. Pour être solide, cette crédibilité doit continuer à être irriguée par une culture stratégique approfondie, une recherche scientifique dynamique et de pointe, des savoirs faire techniques et opérationnels sans cesse entretenus, une forte souveraineté industrielle et une appropriation des enjeux par nos concitoyens.
 
@@ -330,9 +306,7 @@ DISSUASION
 
 77) Engagés dans un mouvement de renouvellement, tout en étant maintenus à un niveau de stricte suffisance, les moyens de la dissuasion devront rester adaptés à une grande diversité de situations et continuer d’offrir au chef de l’État une gamme suffisamment large de modes d’actions. Pour cela, la dissuasion continuera de s’appuyer sur les composantes aéroportée et océanique. Réunissant trois forces nucléaires2 aux caractéristiques propres, elles permettent en effet, par leur complémentarité et leurs atouts différenciés, une grande diversité d’options et un haut niveau de flexibilité et de réactivité.
 
-### 2.3
-
-PROTECTION – RÉSILIENCE
+### 2.3 PROTECTION – RÉSILIENCE
 
 78) La mise en œuvre d’une fonction stratégique dédiée à la protection-résilience est désormais indispensable. Les notions de protection et de résilience se complètent, la résilience étant un prérequis indispensable pour assurer la protection des Français et du territoire national et garantir la continuité des fonctions essentielles de la Nation. Cette fonction appelle une coopération renforcée avec nos alliés et partenaires.
 
@@ -344,9 +318,7 @@ PROTECTION – RÉSILIENCE
 
 missions intérieures et d’opérations militaires propres. Elles assurent les postures permanentes de sûreté air et de sauvegarde maritime (PPSA et PPSM), qui permettent de garantir la souveraineté nationale dans les espaces aériens et maritimes, et qui participent à la sécurisation des voies d’approvisionnement et de communication. Ces dispositifs du quotidien sont renforcés en fonction de la menace ou des évènements particuliers. La recrudescence de comportements inamicaux dans nos approches territoriales implique de disposer de moyens robustes de détection, remédiation et réponse, y compris dans l’espace et dans le cyberespace. Les capacités des forces armées demandent ainsi à être renforcées et articulées dans le cadre de l’effort global de l’État pour affronter des crises de grande ampleur.
 
-### 2.4
-
-PRÉVENTION
+### 2.4 PRÉVENTION
 
 81) La prévention concerne tant le territoire national que l’action de la France hors de ses frontières. Sa mise en œuvre inclut aussi bien l’élaboration de normes nationales et internationales que la lutte contre les trafics et la prolifération des armes de destruction massive comme de leurs vecteurs, pour le désarmement et la consolidation de la paix. L’appui à la stabilisation d’États en crise contribue à la prévention des conflits et limite le coût d’une intervention ultérieure. La fonction prévention s’appuie sur un large éventail de scénarios potentiels de crises ou d’escalades, qui couvre le haut du spectre et la compétition entre grandes puissances, comme les manifestations d’une conflictualité en rapide évolution.
 
@@ -356,9 +328,7 @@ PRÉVENTION
 
 84) La fonction prévention doit être articulée avec la fonction intervention. Cette articulation s’incarne dans la capacité à signifier la détermination, clarifier les intentions et décourager les adversaires – y compris dans le champ des perceptions – pour « gagner la guerre avant la guerre ».
 
-### 2.5
-
-INTERVENTION
+### 2.5 INTERVENTION
 
 85) La fonction intervention sert trois objectifs : assurer la protection de nos ressortissants à l’étranger ; défendre nos intérêts prioritaires et ceux de nos partenaires et alliés ; être à la hauteur de nos responsabilités internationales.
 
@@ -368,9 +338,7 @@ INTERVENTION
 
 88) La fonction intervention ne peut être dissociée des autres fonctions, en particulier dans le cadre d’un engagement de haute intensité. Qu’il s’agisse de la fonction connaissance-compréhension-anticipation (anticiper et caractériser les menaces pour permettre un champ large d’options), de la prévention (valeur de signalement de nos déploiements actifs), de la protection-résilience (sécurisation de nos chaînes d’approvisionnement) et de la dissuasion (concept d’épaulement entre posture conventionnelle et dissuasion nucléaire), la fonction intervention se traduit par des actions multimilieux et multichamps.
 
-### 2.6
-
-INFLUENCE
+### 2.6 INFLUENCE
 
 89) La fonction stratégique influence vise à promouvoir et à défendre les intérêts et les valeurs de la France. Il s’agit d’un volet essentiel à l’expression de puissance. À cet égard, la France dispose de nombreux atouts. Elle a en effet un poids politique majeur du fait de son siège de membre permanent du CSNU, de son statut d’État doté et de sa présence Outre-mer, d’un modèle complet d’armée et de troupes déployées sur de nombreux continents, de son attractivité économique, de la langue française parlée par 300 millions d’individus, d’une image positive du fait de notre influence culturelle, de la projection globale soutenue par l’universalité du réseau diplomatique, culturel et éducatif, de nos partenariats de sécurité, etc.
 
@@ -624,9 +592,7 @@ l’acquisition en commun de matériels critiques et innovants. Le rôle central
 
 ## 1. S’AFFIRMER COMME UN PARTENAIRE LUCIDE, À HAUTE VALEUR AJOUTÉE
 
-### 1.1
-
-DÉVELOPPER UNE STRATÉGIE INCLUSIVE EN EUROPE ET AVEC LES ÉTATS-UNIS
+### 1.1 DÉVELOPPER UNE STRATÉGIE INCLUSIVE EN EUROPE ET AVEC LES ÉTATS-UNIS
 
 164) En Europe, la France doit à la fois refondre ses relations avec ses partenaires traditionnels, mais également développer une stratégie inclusive à destination d’autres pays :
 
@@ -648,21 +614,15 @@ DÉVELOPPER UNE STRATÉGIE INCLUSIVE EN EUROPE ET AVEC LES ÉTATS-UNIS
 
 questions de sécurité et construire, dans la durée, une proximité stratégique plus forte avec les armées africaines qui le souhaitent, notamment dans la perspective de la renégociation de plusieurs traités majeurs. La coordination avec nos partenaires européens et internationaux continuera d’être essentielle à cet égard.
 
-### 1.3
-
-ADOPTER UNE STRATÉGIE PARTENARIALE AMBITIEUSE EN MÉDITERRANÉE ET EN MER ROUGE
+### 1.3 ADOPTER UNE STRATÉGIE PARTENARIALE AMBITIEUSE EN MÉDITERRANÉE ET EN MER ROUGE
 
 167) Compte tenu de la compétition et de la militarisation accrues dans le continuum de la Méditerranée à la mer Rouge, la France doit renforcer ses mesures de réassurance, soutenir les missions et opérations de l’UE et de l’OTAN et renforcer l’efficacité et le niveau de coopération capacitaire avec l’ensemble des pays de la zone. La densification de certains partenariats stratégiques ou de référence permettra également à la France de garantir sa liberté de manœuvre, la continuité de ses chaînes d’approvisionnement et la stabilité régionale.
 
-### 1.4
-
-CONTRIBUER À LA STABILITÉ RÉGIONALE ET SÉCURISER LES FLUX DANS LE GOLFE ARABO- PERSIQUE
+### 1.4 CONTRIBUER À LA STABILITÉ RÉGIONALE ET SÉCURISER LES FLUX DANS LE GOLFE ARABO- PERSIQUE
 
 168) Une redynamisation des partenariats de la France dans le Golfe est nécessaire pour faire face à la structuration de nouvelles ententes stratégiques, au désengagement américain et à l’accroissement des rivalités régionales. La France doit pouvoir, avec et auprès de ses partenaires, entraver et contrer les activités déstabilisatrices de certains acteurs régionaux et sécuriser son dispositif en particulier avec la signature d’arrangements de sécurité dans les domaines de la lutte contre le terrorisme, le renseignement et l’armement. La France doit également continuer à soutenir les projets d’acquisition d’équipements de défense et de sécurité tout en renforçant la lutte contre le détournement des matériels de guerre, la dissémination d’armement conventionnel et la prolifération des armes de destruction massive et de leurs vecteurs.
 
-### 1.5
-
-ACCROÎTRE NOTRE CAPACITÉ À CONCOURIR AU MAINTIEN DE LA STABILITÉ STRATÉGIQUE EN INDOPACIFIQUE
+### 1.5 ACCROÎTRE NOTRE CAPACITÉ À CONCOURIR AU MAINTIEN DE LA STABILITÉ STRATÉGIQUE EN INDOPACIFIQUE
 
 169) Le rôle de la France comme puissance d’équilibres en Indopacifique doit être réaffirmé. Pour cela, la France s’attache à bâtir des partenariats avec des pays de la zone indopacifique, notamment l’Inde, l’Australie, et le Japon, ainsi que l’Indonésie et Singapour. Elle développe ses capacités d’anticipation et de signalement stratégique, vis-à-vis de ses compétiteurs, réaffirme et renforce sa position dans le multilatéralisme politico-militaire de la région, en accroissant sa capacité d’entrainement et, si besoin, en favorisant l’émergence de structures ad hoc. La France veillera également à favoriser la concrétisation de la stratégie de l’UE pour la région et son partenariat avec l’association des nations de l’Asie du sud-est (ASEAN).
 

@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 90-page PDF (https://www.enisa.europa.eu/sites/default/files/publications/WP2020%200.3.1.2%20National%20Capabilities%20Assessment%20Framework.pdf) locally via PyMuPDF (222,598 chars). Parsed 47 sections (24 with explicit section identifiers)."
+    "notes": "Extracted 90-page PDF (https://www.enisa.europa.eu/sites/default/files/publications/WP2020%200.3.1.2%20National%20Capabilities%20Assessment%20Framework.pdf) locally via PyMuPDF (222,683 chars). Parsed 55 sections (32 with explicit section identifiers)."
   },
   "extraction_history": [
     {

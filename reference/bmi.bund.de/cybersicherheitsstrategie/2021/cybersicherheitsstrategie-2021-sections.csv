@@ -72,21 +72,12 @@
 
 8.1.5 Guaranteeing secure electronic identities ............................................................... 37
 
-8.1.6 Protecting the authenticity and integrity of algorithms, data and documents, and the electronic identities of people and things in the broader sense........................................... 39
+8.1.6 Protecting the authenticity and integrity of algorithms, data and documents, and the electronic identities of people and things in the broader sense........................................... 39"
+"3","8.1.7","Creating the conditions for secure electronic communication and safe web offerings 41","numbered","","8.1.8 Responding responsibly to vulnerabilities – promoting coordinated vulnerability disclosure ......................................................................................................................... 42"
+"3","8.1.9","Using encryption – a prerequisite for self-determined, autonomous action – across the board 44","numbered","","8.1.10 Guaranteeing IT security through AI and for AI ...................................................... 46
 
-8.1.7 Creating the conditions for secure electronic communication and safe web offerings 41
-
-8.1.8 Responding responsibly to vulnerabilities – promoting coordinated vulnerability disclosure ......................................................................................................................... 42
-
-8.1.9 Using encryption – a prerequisite for self-determined, autonomous action – across the board 44
-
-8.1.10 Guaranteeing IT security through AI and for AI ...................................................... 46
-
-8.2 Action Area 2: Government and private industry working together ............................ 49
-
-8.2.1 Reinforcing the coordination function of the NCSR in the cyber security landscape 50
-
-8.2.2 Improving cooperation between government, private industry, the research community and civil society on matters of cyber security ................................................. 52
+8.2 Action Area 2: Government and private industry working together ............................ 49"
+"3","8.2.1","Reinforcing the coordination function of the NCSR in the cyber security landscape 50","numbered","","8.2.2 Improving cooperation between government, private industry, the research community and civil society on matters of cyber security ................................................. 52
 
 8.2.3 Establishing a cooperative platform for government, private industry, the research community and society to enable communication about cyber attacks ............................. 55
 
@@ -100,11 +91,8 @@
 
 8.2.8 Strengthening the security of future technologies and key enabling technologies through security by design ............................................................................................... 66
 
-8.2.9 Providing IT security through quantum technology ............................................... 68
-
-8.2.10 Harmonising testing and approval processes with innovation cycles (time to market) 70
-
-8.2.11 Improving the protection of critical infrastructures ................................................ 72
+8.2.9 Providing IT security through quantum technology ............................................... 68"
+"3","8.2.10","Harmonising testing and approval processes with innovation cycles (time to market) 70","numbered","","8.2.11 Improving the protection of critical infrastructures ................................................ 72
 
 8.2.12 Cyber security certification .................................................................................... 74
 
@@ -134,17 +122,11 @@
 
 8.3.10 Fostering responsible handling of zero-day vulnerabilities and exploits .................. 96
 
-8.3.11 Increasing the digital sovereignty of the security authorities by expanding the Central Office for Information Technology in the Security Sector ................................................. 98
+8.3.11 Increasing the digital sovereignty of the security authorities by expanding the Central Office for Information Technology in the Security Sector ................................................. 98"
+"3","8.3.12","Raising the level of cyber security through increased preventive intelligence gathering 100","numbered","","8.3.13 Strengthening defence aspects of cyber security ................................................... 102
 
-8.3.12 Raising the level of cyber security through increased preventive intelligence gathering 100
-
-8.3.13 Strengthening defence aspects of cyber security ................................................... 102
-
-8.3.14 Adapting telecommunications and telemedia law and other specialist legislation to technological progress .................................................................................................... 104
-
-8.4 Action Area 4: Germany's active role in European and international cyber security policy 106
-
-8.4.1 Actively shaping effective European cyber security policy .................................... 107
+8.3.14 Adapting telecommunications and telemedia law and other specialist legislation to technological progress .................................................................................................... 104"
+"3","8.4","Action Area 4: Germany's active role in European and international cyber security policy 106","numbered","","8.4.1 Actively shaping effective European cyber security policy .................................... 107
 
 8.4.2 Shaping cyber security and defence in NATO ....................................................... 110
 
@@ -295,23 +277,17 @@ There is no doubt that technologies such as AI and quantum computing offer huge 
 "3","5.2","Threats – what are the new trends in cyber attacks?","numbered","5","The widespread integration of IT into life in our society has brought a whole spectrum of new threats with it. Online media provision creates new opportunities to manipulate public opinion. The fact that social media can be used both easily and anonymously has resulted, among other things, in higher volumes of fake news and hate speech. Online dissemination of illegal content such as child sexual abuse images and copyrighted materials continues to increase, aided in particular by the use of anonymisation and encryption services.
 
 However, this strategy does not focus on phishing crimes or on threat situations in which IT is used to disseminate illegal content. Instead, it focuses on cyber attacks that directly and substantially compromise the availability, integrity and confidentiality of IT systems. This frequently includes data protection violations to collect personal data. Cyber attacks can also be used as a part of hybrid threats. In addition, cyber attacks are a typical element of cyber crime, cyber terrorism, cyber espionage and cyber sabotage, all of which can target critical infrastructures in ways that can cause considerable financial and social impact."
-"3","","5.2.1","","","Cyber crime
-
-In the field of cyber crime, the use of ransomware to prevent access to data or systems is currently one of the greatest threats. Perpetrators attack wherever they find unprotected vulnerabilities, regardless of whether these involve companies, government agencies or private users. The cyber attack itself is followed by attempts to blackmail the victim, with threats ranging from publishing customer data online to revealing sensitive information to competitors. Ransomware has developed to a point where it can cause considerable damage, particularly because those affected are often part of global networks. This means that whole divisions of companies, or entire infrastructure areas, can be affected by outages caused by this type of attack. The danger posed by what is known as “big game hunting” should also be taken seriously. In this type of attack, perpetrators target particularly wealthy or potentially lucrative victims so they can demand very high ransoms.
+"4","5.2.1","Cyber crime","numbered","5.2","In the field of cyber crime, the use of ransomware to prevent access to data or systems is currently one of the greatest threats. Perpetrators attack wherever they find unprotected vulnerabilities, regardless of whether these involve companies, government agencies or private users. The cyber attack itself is followed by attempts to blackmail the victim, with threats ranging from publishing customer data online to revealing sensitive information to competitors. Ransomware has developed to a point where it can cause considerable damage, particularly because those affected are often part of global networks. This means that whole divisions of companies, or entire infrastructure areas, can be affected by outages caused by this type of attack. The danger posed by what is known as “big game hunting” should also be taken seriously. In this type of attack, perpetrators target particularly wealthy or potentially lucrative victims so they can demand very high ransoms.
 
 Distributed denial-of-service (DDoS) attacks generally lead to IT systems overloading with network traffic, and are also often threatened as part of blackmail attacks. Attacks of this type often use botnets. In a botnet attack, perpetrators hijack several IT systems which they then control remotely, or they misappropriate publicly accessible systems which may be configured wrongly or in some cases cannot be secured, in order to overload the system they are targeting. The malware used for this type of attack has developed considerably over the years, often enabling perpetrators not just to carry out DDoS attacks, but at the same time to access the data in the bots, which means they can then collect victims’ personal data. This is a typical gateway for obtaining access data. Another sphere of activity for DDoS attacks is unwelcome online content. This can be used to obstruct political party events, for example. The potential motives for attacks like this, such as hacktivism or government influence, are becoming increasingly blurry."
-"3","","5.2.2","","","State-sponsored cyber attacks
-
-Government and non-government organisations and private companies alike are increasingly faced with strategic activity on the part of cyber threat actors carrying out state-sponsored cyber attacks such as cyber espionage and cyber sabotage. The threat actors most commonly active in this field, known as advanced persistent threat (APT) groups, are characterised by their access to sometimes substantial resources, their tenacity, and their comprehensive technical expertise.
+"4","5.2.2","State-sponsored cyber attacks","numbered","5.2","Government and non-government organisations and private companies alike are increasingly faced with strategic activity on the part of cyber threat actors carrying out state-sponsored cyber attacks such as cyber espionage and cyber sabotage. The threat actors most commonly active in this field, known as advanced persistent threat (APT) groups, are characterised by their access to sometimes substantial resources, their tenacity, and their comprehensive technical expertise.
 
 14
 
 Their activities are therefore often ascribed to intelligence services or groups acting on behalf of intelligence services.
 
 These groups use complex long-term strategies to try and infiltrate IT systems undetected. As well as the use of these intrusions for cyber espionage purposes such as stealing sensitive information, an increase has recently been observed in activities to lay the groundwork for cyber sabotage, known as pre-positioning. As more and more state governments are developing their cyber expertise, it is likely that cyber attacks by APT groups will remain a major threat for the foreseeable future. In some cases, a developing symbiosis is visible between threat actors in the areas of cyber crime and cyber espionage/cyber sabotage. Military actors are also working continually on expanding their cyber capabilities. This means that any assessment of the cyber threat situation must also take into account the military component."
-"3","","5.2.3","","","Cyber attacks as a component of hybrid threats
-
-The term hybrid threat means targeted activity by government actors and their non-government upstream entities (proxies) and can encompass a broad range of concealed and open means of carrying out this activity. This means that attacks in cyberspace can affect broader areas (for example the information domain), can take place in conjunction with activities in other areas, or can serve as preparation for other activities with the aim of exerting illicit influence.
+"4","5.2.3","Cyber attacks as a component of hybrid threats","numbered","5.2","The term hybrid threat means targeted activity by government actors and their non-government upstream entities (proxies) and can encompass a broad range of concealed and open means of carrying out this activity. This means that attacks in cyberspace can affect broader areas (for example the information domain), can take place in conjunction with activities in other areas, or can serve as preparation for other activities with the aim of exerting illicit influence.
 
 There is a close relationship between cyberspace and the information domain, given that the information domain is increasingly based on information technology and is characterised by high levels of connectivity. One example of attacks resulting from hybrid threats are cyber espionage attacks which illegally obtain sensitive information from IT systems and then disseminate this information to manipulative ends, causing damages in the information domain by discrediting the victim or spreading disinformation.
 
@@ -359,16 +335,12 @@ The stakeholders and initiatives involved in providing cyber security in Germany
 
 Networks such as the Alliance for Cybersecurity, the UP KRITIS public-private partnership and the Economic Security Initiative therefore help raise Germany’s profile as an attractive location for business."
 "3","6.4","Government initiatives and stakeholders","numbered","6","It is the state’s responsibility to play a leading role in ensuring high levels of cyber security. Government tasks in this regard range from drawing up threat situation reports, preventing, detecting and defending against threats, managing incidents when they occur, and carrying out law enforcement activities, through defending against espionage and gathering intelligence for prevention purposes, to cyber defence and international cyber policy. Numerous stakeholders at federal and state level are therefore closely involved in responding to threats from cyberspace on the basis of their respective competences. Federal Government activities are divided between the strategic and the operational level."
-"3","","6.4.1","","","Strategic level
-
-The different ministries are responsible for the strategic orientation of their cyber security policy and monitoring its implementation. The ministries are responsible for managing the activities in their remits independently, based on the principle of ministerial autonomy. At federal level, the Federal Ministry of the Interior, Building and Community is responsible for coordinating domestic cyber security policy and the Federal Foreign Office is responsible for coordinating international cyber security policy. The Federal Ministry of Defence is responsible for cyber defence.
+"4","6.4.1","Strategic level","numbered","6.4","The different ministries are responsible for the strategic orientation of their cyber security policy and monitoring its implementation. The ministries are responsible for managing the activities in their remits independently, based on the principle of ministerial autonomy. At federal level, the Federal Ministry of the Interior, Building and Community is responsible for coordinating domestic cyber security policy and the Federal Foreign Office is responsible for coordinating international cyber security policy. The Federal Ministry of Defence is responsible for cyber defence.
 
 The NCSR is the Federal Government’s strategic advisory body. It was created on the basis of the Cyber Security Strategy for Germany 2011 and was further developed in the Cyber Security Strategy for Germany 2016. Consisting as it does of representatives from federal, state and local governments and from private industry, the NCSR serves as the fulcrum for the relevant stakeholders in the German cyber security landscape. A permanent scientific working group was set up in 2018 to advise the NCSR from a research perspective on the developments and challenges associated with secure, reliable digital transformation.
 
 Responsibility for the strategic orientation of federal IT security management and the implementation of the cabinet decision on the guideline for information security in the public administration (UP Bund) lies with the CIO Council and its working group on information security. The office of Federal Government Commissioner for Information Technology is within the Federal Ministry of the Interior, Building and Community. Among other things, the Commissioner is responsible for steering information security management on the basis of the UP Bund guideline for information security."
-"3","","6.4.2","","","Operational level
-
-The strategic guidelines and objectives are implemented at operational level primarily by the subordinate authorities of the Federal Chancellery and of the ministries. The following task areas and stakeholders are especially important in this context.
+"4","6.4.2","Operational level","numbered","6.4","The strategic guidelines and objectives are implemented at operational level primarily by the subordinate authorities of the Federal Chancellery and of the ministries. The following task areas and stakeholders are especially important in this context.
 
 19
 
@@ -385,9 +357,7 @@ The Central Office for Information Technology in the Security Sector (ZITiS) is 
 The federal authorities and companies that are tasked with the secure operation of federal IT infrastructure are also extremely important. They include the Federal Agency for Public Safety Digital Radio (BDBOS), which operates the federal public safety radio networks, the Federal Information Technology Centre, and the Federal Foreign Office, as operator of Germany’s IT abroad.
 
 20"
-"3","","6.4.3","","","Cooperation between the Federation and the states
-
-The broad range of government tasks required in cyberspace can only be carried out with a joint effort by the Federation and the states. Activities at federal and state level must be closely interlinked with the aim of ensuring cooperation and complementary efforts.
+"4","6.4.3","Cooperation between the Federation and the states","numbered","6.4","The broad range of government tasks required in cyberspace can only be carried out with a joint effort by the Federation and the states. Activities at federal and state level must be closely interlinked with the aim of ensuring cooperation and complementary efforts.
 
 The Standing Conference of the Interior Ministers of the Länder in the Federal Republic of Germany, with its cyber security working group at state level, and the IT Planning Council, with its information security working group, are the key committees for coordinating cooperation between federal and state level. The IT Planning Council and its working group are also responsible for information security management between federal and state level.
 
@@ -495,9 +465,7 @@ One important factor in supporting users’ ability to assess these things are p
 The Federal Government has numerous options to increase the population’s cyber security literacy: it can take measures and offer products that raise awareness among users; it can take classic consumer protection measures; and it can use regulatory measures to create a framework supporting safety and autonomy in a digital environment. The following objectives work towards these things.
 
 28"
-"3","","8.1.1","","","Promoting digital literacy among all users
-
-Why is the objective relevant?
+"4","8.1.1","Promoting digital literacy among all users","numbered","8.1","Why is the objective relevant?
 
 An awareness of safety in cyberspace among all users, from the general public and small and large companies right up to government agencies, is a fundamental requirement for protection against cyber risks and digital carelessness.
 
@@ -550,9 +518,7 @@ The Federal Government will examine attainment of the objective based on the fol
 21 Available in German at: https://www.sicher-im-netz.de/dsin-digitalfuehrerschein
 
 30"
-"3","","8.1.2","","","Increasing the user-friendliness of security solutions
-
-Why is the objective relevant?
+"4","8.1.2","Increasing the user-friendliness of security solutions","numbered","8.1","Why is the objective relevant?
 
 In IT security solutions, which in some cases must fulfil very specific requirements, user-friendliness is often given second billing. However, it is key for the acceptance, and therefore the active use, of such products. The (failure) safety and solidity of a product, in terms of its protection against malfunctions or cyber attacks, are key elements of user experience which are gaining in importance in light of the increasing dependency of IT systems.
 
@@ -583,9 +549,7 @@ The Federal Government will examine attainment of the objective based on the fol
 • The Federal Government has incorporated user-friendliness as a criterion in its invitations to tender for security solutions. • Research and development in the field of user-friendly security solutions has been stepped up. The topics of usable security and security by design are more closely integrated into programmes and guidelines for research funding. • The number of marketable, user-friendly products with integrated IT security characteristics such as end-to-end encryption has increased. • The use of products with IT security characteristics has increased.
 
 32"
-"3","","8.1.3","","","Expanding government measures to protect consumers in the digital world
-
-Why is the objective relevant?
+"4","8.1.3","Expanding government measures to protect consumers in the digital world","numbered","8.1","Why is the objective relevant?
 
 The increasing connectivity of information and entertainment electronics, household devices and other day-to-day objects, along with the growing use of digital services, creates new risks and potential for attacks. Security in the sense of consumer protection in the digital world is therefore becoming more and more important, both for individual users and society as a whole.
 
@@ -626,9 +590,7 @@ The Federal Government will examine attainment of the objective based on the fol
 • The BSI monitors the consumer market for IT products and services and carries out its own testing. • The BSI has created a central service centre for multichannel first-level support and general advisory services and for the collection, coordination and documentation of and response to enquiries from government, private industry and the public. • The needs of specific target groups among citizens have been ascertained and this knowledge is used to provide tailored awareness-raising measures. • A permanent digital consumer protection advisory council has been established at the BSI.
 
 34"
-"3","","8.1.4","","","Establishing uniform European security requirements
-
-Why is the objective relevant?
+"4","8.1.4","Establishing uniform European security requirements","numbered","8.1","Why is the objective relevant?
 
 The cyber security of products and services on the market is at times unsatisfactory and can also not be transparently assessed. This situation should be countered by increasing cyber security requirements at European level. In particular, binding uniform EU-wide IT security requirements should be introduced.
 
@@ -657,9 +619,7 @@ The Federal Government will examine attainment of the objective based on the fol
 • Binding IT security requirements for IT consumer products are being drawn up and implemented as a consequence of the Council conclusions on the cybersecurity of connected devices.
 
 36"
-"3","","8.1.5","","","Guaranteeing secure electronic identities
-
-Why is the objective relevant?
+"4","8.1.5","Guaranteeing secure electronic identities","numbered","8.1","Why is the objective relevant?
 
 Secure electronic identities (eID) are essential for many day-to-day actions in the digital age. They are relevant to industry, the research community and private users. Not only that, but they are an imperative element of government activity. This means that the state should be responsible for setting out the requirements for electronic identification procedures and their security to ensure that a uniform solution is created for every area in which this technology is used.
 
@@ -696,9 +656,7 @@ The Federal Government will examine attainment of the objective based on the fol
 • The number of downloads and installations of the Ausweis-App2 app (including the applet) on smartphones has increased. • The number of active users of the online identification function has increased. • The number of options for using the online identification function has increased. • The smart eID has been notified to the European Commission, which means it has to be recognised as a means of identification throughout the EU. • An identity ecosystem has been piloted in conjunction with private industry. • The smart eID function is available for smartphones. A secure eID infrastructure for smartphones is available. • Card-based online identification using a national ID card, an electronic residence permit or an eID card for EU citizens is easy to use.
 
 38"
-"3","","8.1.6","","","Protecting the authenticity and integrity of algorithms, data and documents, and the electronic identities of people and things in the broader sense
-
-Why is the objective relevant?
+"4","8.1.6","Protecting the authenticity and integrity of algorithms, data and documents, and the electronic identities of people and things in the broader sense","numbered","8.1","Why is the objective relevant?
 
 Even now, the ongoing digital revolution is the result of huge amounts of interconnectedness among physical objects, algorithms, data, documents and people. The number of participants in different digital networks, and the depth of connection among them, will grow continually in the future. Examples of this type of network are the IoT, connected vehicles, distributed AI systems, energy networks and digital learning platforms. Protecting the identity (people and objects) or the authenticity and integrity (data, algorithms and documents) of participants in these networks is a fundamental requirement for trust in these networks, and therefore for a successful digital transformation.
 
@@ -731,9 +689,7 @@ The Federal Government will examine attainment of the objective based on the fol
 • Evaluation methods for authentication and identification processes that take into account the required assurance level have been developed and established as standard. For example, the security requirements for identification and authentication methods for access to digital education provision have been standardised. • In biometrics, the aspects of different attack methods have been examined in detail and documented, and their prevention and detection has been systematically improved and implemented in practice. The relevant technical guidelines have been published or developed further. • Methods for the reliable identification of wireless devices using physical fingerprinting (individual characteristics of their electronic components) have been developed and demonstrated. • The security of PKI, which is needed for the rollout and management of cryptographic key pairs, has been further developed, as have eID technologies and PKI itself, while secure eID interoperability infrastructure has been established. These things undergo regular maintenance. A PKI toolkit has been established for digital transformation projects by modularising PKI standards and implementing uniform standards for secure elements. • The security of integrity protection processes and long-term digital preservation technology has improved significantly on the basis of the BSI’s technical guidelines. The relevant technical guidelines have been further developed accordingly. • A secure server has been implemented to ensure the verifiability of the origins and integrity of electronic documents. Digital seals and signed barcodes to protect the integrity and to prove the authenticity of paper documents and data have been developed for new areas of application.
 
 40"
-"3","","8.1.7","","","Creating the conditions for secure electronic communication and safe web offerings
-
-Why is the objective relevant?
+"4","8.1.8.1.7","Creating the conditions for secure electronic communication and safe web offerings","numbered","8.1","Why is the objective relevant?
 
 Secure, interoperable communication and safe web offerings are essential requirements for successful digital transformation across the spectrum of areas of application, such as in vehicle-to-vehicle and vehicle-to-cloud communication, email, health care and the implementation of the Online Access Act.
 
@@ -758,9 +714,7 @@ The Federal Government will examine attainment of the objective based on the fol
 • In regard to mobility, the IT security of communication between vehicles and of the connection of vehicles to the cloud has increased. • In the ongoing development of telematics infrastructure, the use of both stationary applications and new mobile options for telematics infrastructure applications by patient and provider is secure at all times. • In addition to De-Mail, the mailboxes of interoperable user accounts provide a further secure communication route for the public administration. The security of these mailboxes is ensured through a BSI technical guideline compiled in cooperation with federal and state governments. A technical guideline has been drawn up for the secure implementation of the Online Access Act.
 
 41"
-"3","","8.1.8","","","Responding responsibly to vulnerabilities – promoting coordinated vulnerability disclosure
-
-Why is the objective relevant?
+"4","8.1.8","Responding responsibly to vulnerabilities – promoting coordinated vulnerability disclosure","numbered","8.1","Why is the objective relevant?
 
 Fixing known vulnerabilities quickly in systems, products and service provision is a cornerstone of cyber security. A user who discovers a vulnerability should contact the manufacturer of the product in question or the provider of the service in question immediately and in confidence, so that vulnerabilities that are detected can be fixed with a patch or update within a reasonable time period. There must be careful consideration of whether the vulnerability should be made public knowledge before the relevant updates or patches are available. Putting these factors into practice in a coordinated process is known as coordinated vulnerability disclosure (CVD).
 
@@ -795,9 +749,7 @@ The Federal Government will examine attainment of the objective based on the fol
 • There is legal certainty surrounding seeking and finding vulnerabilities. • The Federal Government regulates the involvement of the BSI in CVD events and publishes a coordinated process for the responsible public announcement of vulnerabilities (CVD process). • Vulnerabilities that are discovered are increasingly reported. • Incentives for manufacturers and service providers to remedy reported vulnerabilities in a suitable time frame have been increased.
 
 43"
-"3","","8.1.9","","","Using encryption – a prerequisite for self-determined, autonomous action – across the board
-
-Why is the objective relevant?
+"4","8.1.8.1.9","Using encryption – a prerequisite for self-determined, autonomous action – across the board","numbered","8.1","Why is the objective relevant?
 
 Encryption guarantees the confidentiality, integrity and authenticity of digital information, making it a cornerstone of cyber and information security. Encryption processes effectively protect government, industry and individual users from the theft, espionage or sabotage of personal, business or official digital information and communication. They create trust, which in turn increases acceptance of the use of new technologies. However, encryption processes face continually evolving threats, making their continuous evaluation and development essential.
 
@@ -906,9 +858,7 @@ Stronger cyber security in industry therefore calls for cooperation between gove
 28 Available in German at: https://www.gesetze-im-internet.de/bsig_2009/BJNR282110009.html
 
 49"
-"3","","8.2.1","","","Reinforcing the coordination function of the NCSR in the cyber security landscape
-
-Why is the objective relevant?
+"4","8.2.8.2.1","Reinforcing the coordination function of the NCSR in the cyber security landscape","numbered","8.2","Why is the objective relevant?
 
 There are no areas of life or sectors of the economy that are not affected by the digital revolution. Ensuring high levels of cyber security is therefore of growing importance for society. To keep pace with this development, the NCSR needs to bring together the different perspectives from the private sector and society as a whole in the strategic advice it gives the Federal Government, and to give this advice a more formal status.
 
@@ -937,9 +887,7 @@ The Federal Government will examine attainment of the objective based on the fol
 a more targeted advisory process, and offers a more comprehensive overview of the cyber security landscape for decision-makers in all of the relevant bodies.
 
 51"
-"3","","8.2.2","","","Improving cooperation between government, private industry, the research community and civil society on matters of cyber security
-
-Why is the objective relevant?
+"4","8.2.2","Improving cooperation between government, private industry, the research community and civil society on matters of cyber security","numbered","8.2","Why is the objective relevant?
 
 Cyber security in Germany can only be strengthened on a lasting basis if government, the private sector, civil society and the research community work together.
 
@@ -984,9 +932,7 @@ The Federal Government will examine attainment of the objective based on the fol
 • The Federal Ministry for Economic Affairs and Energy’s Mittelstand Digital (medium-sized companies go digital) network and its IT security options are used by private industry, particularly SMEs.
 
 54"
-"3","","8.2.3","","","Establishing a cooperative platform for government, private industry, the research community and society to enable communication about cyber attacks
-
-Why is the objective relevant?
+"4","8.2.3","Establishing a cooperative platform for government, private industry, the research community and society to enable communication about cyber attacks","numbered","8.2","Why is the objective relevant?
 
 Organisations in government, the private sector, the research community and society as a whole that are affected by cyber attacks need usable technical information if they are to detect these attacks. Such information is based on analyses of cyber attacks. These analyses are carried out by federal authorities and IT security service providers, for example. If the organisations affected can be provided with this information effectively and efficiently, it can lead to a significant reduction in or even the prevention of damages resulting from cyber attacks.
 
@@ -1015,9 +961,7 @@ The Federal Government will examine attainment of the objective based on the fol
 • The new cooperative information-sharing portal for the voluntary exchange of information on cyber attacks has been established. • Sensitive, detailed information is handled confidentially, in line among other things with applicable legal regulations and current provisions affecting the transmission of information, which means it is effectively protected from misuse. • Incentives for participating in the exchange of information and for sharing information have been increased. • The amount of information and technical specifications regarding cyber attacks shared among the organisations affected has increased, and protection against damages resulting from cyber attacks has improved.
 
 56"
-"3","","8.2.4","","","Protecting businesses in Germany
-
-Why is the objective relevant?
+"4","8.2.4","Protecting businesses in Germany","numbered","8.2","Why is the objective relevant?
 
 Businesses in Germany face wide-ranging, constantly evolving risks in the form of cyber attacks. A lack of resources and expertise means that SMEs in particular are not adequately equipped for the challenges posed by cyber attacks. They therefore need suitable support to ensure they are properly protected against cyber attacks. This type of business is in the majority in the private sector in Germany.
 
@@ -1058,9 +1002,7 @@ The Federal Government will examine attainment of the objective based on the fol
 33 Available in German at: https://www.bmwi.de/Redaktion/DE/Dossier/digital-jetzt.html
 
 58"
-"3","","8.2.5","","","Strengthening Germany's digital economy
-
-Why is the objective relevant?
+"4","8.2.5","Strengthening Germany's digital economy","numbered","8.2","Why is the objective relevant?
 
 German industry has a wide range of innovations and success stories on which to build. However, at the same time it is faced with stiff international competition. Alongside new areas of application like smart home and smart city, the digital transformation of long-established industries is also particularly important. Targeted measures are needed to ensure that German industry continues to play a leading role in the digital future, to enable its success in other branches, and to strengthen digital sovereignty. The associated supply chains must also be taken into account.
 
@@ -1093,9 +1035,7 @@ The Federal Government will examine attainment of the objective based on the fol
 • Data transmission to and from mobility data rooms and autonomous driving functions have been secured. Resilience against attacks on vehicle sensors has increased and the associated technical guidelines have been published. To ensure cyber security, the type approval and market monitoring of motor vehicles and motor vehicle components has been designed by the BSI in conjunction with the Federal Motor Transport Authority. • The PKI for smart metering, which is a key infrastructure component for digitalising the energy transformation, is operated successfully for growing user numbers. The Federal Ministry for Economic Affairs and Energy/BSI roadmap for developing technical cornerstones for the areas of application smart grid (controlled consumption and production facilities), smart mobility (integration of the charging infrastructure of electric vehicles), and smart/sub metering (cross-sector measurement for electricity, gas, water, and heating or heat) has been implemented through several standardisation projects. In the smart home/consumer IoT sector, standards, norms, technical guidelines and inspection criteria (for example the TR-Router inspection specification) for use, among other things, in conjunction with national and international labelling and certification processes (such as within the Cybersecurity Act) have been developed in cooperation with key stakeholders from government, private industry and society. • In the smart cities sector, existing municipal IoT infrastructure has been analysed and recommendations for its secure expansion and operation, technical guidelines, and standards for key enabling technologies and platforms have been drawn up in cooperation with key stakeholders from government, private industry and society. In addition, the legal framework for a binding obligation to implement the measures for improving IT security in critical areas of application has been put in place. • Regarding Industry 4.0, a concept for trust infrastructure for constructing digital value-creation networks has been agreed in the international context and recommendations for action (best practices) for implementing important components of trust infrastructure have been compiled for SMEs. Additionally, service interfaces for secure digital transformation and Industry 4.0 have been created. • In health care, a catalogue of security requirements for digital health care applications has been established as part of the approval process, and digital activities to combat the pandemic have continued. Initiatives in health care have been expanded to include rescue activities. • In the finance sector, security analyses of online payment processes have been communicated and updated, and the security requirements for biometrics applications for two-factor authentication have been established.
 
 60"
-"3","","8.2.6","","","Creating a uniform European regulatory framework for businesses
-
-Why is the objective relevant?
+"4","8.2.6","Creating a uniform European regulatory framework for businesses","numbered","8.2","Why is the objective relevant?
 
 The regulatory framework for the cyber security of products and services is inconsistent at national and international level. It is distributed among a wide range of standards, norms and laws. Binding standards in some cases do not exist or are insufficient. Moreover, ascertaining the relevant regulation can be time-consuming and error-prone.
 
@@ -1136,9 +1076,7 @@ The Federal Government will examine attainment of the objective based on the fol
 • Double regulation for businesses is kept to a minimum. • Germany is actively contributing to drawing up an EU-wide standard, horizontal legal framework for cyber security and sectoral cyber regulations. • An interministerial committee has been set up for ICT standardisation in cyber security. • The number of stakeholders and areas of technology represented in the interministerial committee for ICT standardisation in cyber security has increased.
 
 62"
-"3","","8.2.7","","","Promoting research and development into more resilient, more secure IT products, services and systems for the EU single market
-
-Why is the objective relevant?
+"4","8.2.7","Promoting research and development into more resilient, more secure IT products, services and systems for the EU single market","numbered","8.2","Why is the objective relevant?
 
 Today’s IT security research is tomorrow’s innovation. This type of research is essential for strengthening digital sovereignty and the resilience of IT systems. While objective 8.2.6 Creating a uniform European regulatory framework for businesses aims to foster targeted cooperation between government and industry experts, this objective will affect the general public.
 
@@ -1191,9 +1129,7 @@ The Federal Government will examine attainment of the objective based on the fol
 • Standards and norms for open basic technologies have been developed with the help of funding and have been successfully field tested. They have, where appropriate, been recognised by standards or certification organisations. One example of this is Open RAN. • IT security research in Germany is internationally renowned. • Innovations resulting from our IT security research are increasingly used in practice and/or marketed by businesses and start-ups. • Recommendations for action have been made on the basis of research findings.
 
 65"
-"3","","8.2.8","","","Strengthening the security of future technologies and key enabling technologies through security by design
-
-Why is the objective relevant?
+"4","8.2.8","Strengthening the security of future technologies and key enabling technologies through security by design","numbered","8.2","Why is the objective relevant?
 
 Future technologies and key enabling technologies like AI, IoT and robotics are driving the ongoing digitalisation of products, services and processes. To ensure that the resulting push for innovation is not weakened by IT security risks, it is essential to take security considerations into account from the very start of the development process. Security by design systematically ascertains these considerations at the start of the development process and includes them in the design. This prevents or minimises the need to resolve security vulnerabilities at a later stage.
 
@@ -1228,9 +1164,7 @@ The Federal Government will examine attainment of the objective based on the fol
 • Security by design is increasingly included as a component of competitive tendering processes for projects funded or commissioned for production by the state. • Requirements, criteria and standards have been set out that IT systems must meet to be considered trustworthy (including trustworthy electronics). • Organisation, quality assurance and communication infrastructure has been established the length of the value creation chain for trustworthy IT systems. Work is under way on projects in a range of technology fields within the network for trustworthy IT that has been created by private sector stakeholders. • The number of stakeholders involved in the network for trustworthy IT has increased. • Trustworthy IT products are successfully placed on the market.
 
 67"
-"3","","8.2.9","","","Providing IT security through quantum technology
-
-Why is the objective relevant?
+"4","8.2.9","Providing IT security through quantum technology","numbered","8.2","Why is the objective relevant?
 
 Development in the field of quantum technology is making rapid progress. This implies vast potential, but also new challenges, for cyber security.
 
@@ -1275,7 +1209,7 @@ The Federal Government will examine attainment of the objective based on the fol
 • In the field of quantum computing, by 2025 computers with processors of a minimum of 100 qubits are ready to use, based on sovereign technology from Germany and Europe, and are available for application testing to check their security levels. • In high-security fields, the changeover to quantum-safe cryptography has begun. • The urgency of the change to quantum-safe cryptography is generally accepted by the state, private industry and society as a whole, and this change has been initiated in key areas. Pilot infrastructures are in place, involving partners from the different areas. • Quantum communication technologies and solutions from German and European providers are available to the state, private industry and society. • The feasibility study on quantum computers is ongoing and is updated regularly.
 
 69"
-"4","8.2.10","Harmonising testing and approval processes with innovation cycles (time to market)","numbered","8.2","Why is the objective relevant?
+"4","8.2.8.2.10","Harmonising testing and approval processes with innovation cycles (time to market)","numbered","8.2","Why is the objective relevant?
 
 New IT products and services in the areas of smart home, automotive technology, medical technology and energy, among others, are brought to market within extremely short innovation cycles and facilitate the increasing connectivity of all areas of life, particularly in regard to IoT applications. It cannot be ruled out, particularly for new software and hardware products, that not all security aspects are taken into account or are recognisable. Criminals try to exploit potential vulnerabilities to infiltrate systems or to use them for criminal purposes. Aside from systematic law enforcement, the state should support businesses in creating products that are more secure and less vulnerable from the start.
 
@@ -1436,9 +1370,7 @@ These challenges can only be countered effectively if the cyber security archite
 We, the Federal Government, have set the following strategic objectives so that we can fulfil these tasks.
 
 78"
-"3","","8.3.1","","","Improving the options available to the Federal Government for threat prevention in case of cyber attacks
-
-Why is the objective relevant?
+"4","8.3.1","Improving the options available to the Federal Government for threat prevention in case of cyber attacks","numbered","8.3","Why is the objective relevant?
 
 In general, Germany’s federal states are responsible for threat prevention. However, cyber attacks tend to affect more than one federal state; often, they have an international dimension. Protecting against cyber attacks requires an extremely high level of technical know-how. To be most effective, this requires a consolidation of expertise in a small number of authorities. If cyber attacks originate abroad, foreign and security policy aspects must be taken into account in defending against such attacks; responsibility for these aspects lies with the Federal Government.
 
@@ -1461,9 +1393,7 @@ The Federal Government will examine attainment of the objective based on the fol
 • By amending the Basic Law, the options available to the Federation to counter threats from particularly severe and significant cyber attacks have been extended. • The federal (security) authorities have been assigned additional tasks and powers in the field of cyber threat prevention.
 
 79"
-"3","","8.3.2","","","Equipping the technical and operational divisions of the BSI for the future and creating a network for them
-
-Why is the objective relevant?
+"4","8.3.2","Equipping the technical and operational divisions of the BSI for the future and creating a network for them","numbered","8.3","Why is the objective relevant?
 
 The BSI must continually adapt its capabilities for the technical and operational detection of and reaction to cyber security incidents to keep pace with the very dynamic threat situation. To do so, it needs operational units that have sufficient technical, human and financial resources and that work closely in an effective network with their counterparts in other national bodies and bodies at EU, state, private industry and research community level.
 
@@ -1498,9 +1428,7 @@ The Federal Government will examine attainment of the objective based on the fol
 • The BSOC has been established as the national liaison office for the EU Cyber Shield initiative. • The BSOC cooperates with the state agencies responsible for detection. • The MIRTs can respond rapidly and effectively to calls for support for critical infrastructures and institutions of special public interest.
 
 81"
-"3","","8.3.3","","","Strengthening institutionalised cooperation between the BSI and the states
-
-Why is the objective relevant?
+"4","8.3.3","Strengthening institutionalised cooperation between the BSI and the states","numbered","8.3","Why is the objective relevant?
 
 Cyberspace is intricately networked across international borders. Close cooperation between federal and state governments, also involving local governments, is crucial for providing a uniform level of cyber security where possible, and for reacting effectively to cyber threats. Cooperation must be institutionalised to ensure the success of the intensive ongoing information, coordination and support processes this requires.
 
@@ -1531,9 +1459,7 @@ The Federal Government will examine attainment of the objective based on the fol
 • The BSI has signed bilateral cooperation agreements with the states and joint projects are under way. • Following changes to the Basic Law and subsequent amendments to ordinary national law, the BSI has been developed into a hub for federal and state cooperation.
 
 83"
-"3","","8.3.4","","","Developing the National Cyber Response Centre
-
-Why is the objective relevant?
+"4","8.3.4","Developing the National Cyber Response Centre","numbered","8.3","Why is the objective relevant?
 
 Cyber threats and the motives and goals of cyber attacks are often not immediately clear. This means that depending on the situation, it regularly happens that only some of the responsible authorities, and sometimes only the individual institutions which are affected, are aware of cyber attacks and cyber threats. In addition, issues that are relevant for all levels of government are not always immediately recognised as such. This makes it more difficult to react appropriately to cyber incidents.
 
@@ -1562,9 +1488,7 @@ The Federal Government will examine attainment of the objective based on the fol
 • The basis for the exchange of information among authorities in the National Cyber Response Centre has been updated. • Cyber security incidents and cyber situations are processed quickly and effectively. • A comprehensive, up-to-date cyber situation report is available at all times.
 
 85"
-"3","","8.3.5","","","Strengthening cyber and information security in the federal administration
-
-Why is the objective relevant?
+"4","8.3.5","Strengthening cyber and information security in the federal administration","numbered","8.3","Why is the objective relevant?
 
 The federal administration is undergoing a process of digital transformation. A digital administration is essential for a functional, efficient and modern government. At the same time, the state is increasing the proportion of services it offers in digital format to the private sector and the public. In this area, too, cyber and information security is indispensable for the provision of functional, trustworthy digital government services.
 
@@ -1591,9 +1515,7 @@ The Federal Government will examine attainment of the objective based on the fol
 increasing cyber and information security and improving cooperation among the (ministerial) information security officers at Federal Government level. • Cooperation among IT security officers in federal ministries has been intensified considerably. To this end, measures have been taken at institutional level and in terms of the substance of cooperation. • The BSI’s centre of excellence for federal operational security advisory services has been established and has started work. • A targeted programme to strengthen the cyber and information security of the Federal Government has been agreed on among the ministries and adopted.
 
 87"
-"3","","8.3.6","","","Stepping up cyber security associated with elections
-
-Why is the objective relevant?
+"4","8.3.6","Stepping up cyber security associated with elections","numbered","8.3","Why is the objective relevant?
 
 Universal, direct, free, equal and secret elections are the basis of our democracy. The digital transformation knows no bounds, however. The internet is a source of information for forming political opinions, social media are used as an election campaign tool, and the preliminary election results are even transmitted digitally. This means that protecting elections is also a cyber security challenge.
 
@@ -1624,9 +1546,7 @@ The Federal Government will examine attainment of the objective based on the fol
 • Measures have been taken to raise awareness among target groups in the political sphere of cyber security issues associated with elections. • A well-founded cyber threat situation report exists specific to the issue of elections. The report lists malicious actors, their motives and their modus operandi.
 
 89"
-"3","","8.3.7","","","Ramping up law enforcement in cyberspace
-
-Why is the objective relevant?
+"4","8.3.7","Ramping up law enforcement in cyberspace","numbered","8.3","Why is the objective relevant?
 
 The number of computer systems and terminal devices affected by cyber crime is not the only thing that is increasing. The professionalism of perpetrators is too. On the one hand, offenders continue to try to infect as many computers as possible with malware with as little effort as possible to steal account data and passwords, for example. On the other, we see more and more extremely well-prepared, highly organised cyber attacks on selected targets (for example private companies or critical infrastructures) where the damage caused to those affected is potentially much greater. At the same time, current technical developments such as automotive IT and IoT create new trends in crime and opportunities for criminals.
 
@@ -1657,9 +1577,7 @@ The Federal Government will examine attainment of the objective based on the fol
 • Powers under the Code of Criminal Procedure (Strafprozessordnung, StPO) satisfy requirements in practice. • Legislative proposals have been submitted for amendments to the Criminal Code, if a review considered this to be necessary.
 
 91"
-"3","","8.3.8","","","Expanding central skills and services of the BKA for combating cyber crime
-
-Why is the objective relevant?
+"4","8.3.8","Expanding central skills and services of the BKA for combating cyber crime","numbered","8.3","Why is the objective relevant?
 
 One of the current tasks of the BKA is to support the federal and state police forces by providing operational data and by making the latest technology in criminal policing available as a package. Cyber crime is still increasingly characterised by attacks that take place in waves over a fixed time period, with the number increasing and then decreasing again, affecting victims in several federal states or all over the country. Extensive coordination of all the investigating authorities involved is necessary to detect the relationship between the attacks.
 
@@ -1690,9 +1608,7 @@ The Federal Government will examine attainment of the objective based on the fol
 • Central investigations are used more often. • CyberToolBox user numbers have increased. • The number of specialist enquiries to the CyberToolBox has increased. • The rate of hits found and information provided by the CyberToolBox has increased. • The amount of data provided via the CyberToolBox has increased.
 
 93"
-"3","","8.3.9","","","Providing security through encryption, and security despite encryption
-
-Why is the objective relevant?
+"4","8.3.9","Providing security through encryption, and security despite encryption","numbered","8.3","Why is the objective relevant?
 
 Growing numbers of communication channels and data storage services are protected by end-to-end encryption. Secure encryption is an essential tool for protecting the basic rights and the digital security of government, the private sector and society. However, criminals also use encryption to prepare and commit offences. Encryption makes accessing and analysing the content of communication as part of lawfully ordered interception of telecommunication extremely difficult or even impossible. This type of access and analysis is a key source of information for authorities investigating extremely severe offences and organised crime.
 
@@ -1762,7 +1678,7 @@ The Federal Government will examine attainment of the objective based on the fol
 • A binding process has been established regulating a responsible approach to zero-day vulnerabilities and exploits.
 
 97"
-"3","8.3.11","Increasing the digital sovereignty of the security authorities by expanding the Central","numbered","8.3","Office for Information Technology in the Security Sector
+"4","8.3.11","Increasing the digital sovereignty of the security authorities by expanding the Central","numbered","8.3","Office for Information Technology in the Security Sector
 
 Why is the objective relevant?
 
@@ -1797,7 +1713,7 @@ The Federal Government will examine attainment of the objective based on the fol
 • The federal security authorities use the services provided and developments made by the Central Office for Information Technology in the Security Sector. • The level of dependence of the security authorities on products and services from outside of Europe has reduced. • The number of highly specialised experts in the key areas has increased. • Sufficient internal capacity has been built up at the security authorities for the in-house development of critical or risk-affected systems and methods. • The Central Office for Information Technology in the Security Sector has central competence for evaluating products and systems obtained from global supply chains. The security authorities make use of this competence.
 
 99"
-"4","8.3.12","Raising the level of cyber security through increased preventive intelligence gathering","numbered","8.3","Why is the objective relevant?
+"4","8.3.8.3.12","Raising the level of cyber security through increased preventive intelligence gathering","numbered","8.3","Why is the objective relevant?
 
 The purposes of cyber attacks include espionage, gaining political influence, and sabotage. Germany is among the targets of foreign intelligence units, which use very advanced attack techniques (Advanced Persistent Threats). In addition, extremist and terrorist actors are also among the users of cyber technologies, some of which can be obtained online as a service, to achieve their aims. Given these threats, it is important to raise widespread awareness of these threats (prevention), to identify the actors, their motives and their skills (intelligence gathering), to uncover specific attacks or preparation for attacks (detection), to provide information allowing defensive measures to be taken (warning) and to discover the authors of the attacks (attribution).
 
@@ -1863,7 +1779,7 @@ The Federal Government will examine attainment of the objective based on the fol
 • A strategy has been agreed and put in place for defence in cyberspace in defensive cases and cases of tension and is practised regularly. • The networks and systems of the Federal Government are sufficiently protected to ensure that cyber attacks cannot substantially impact their availability. • The Bundeswehr is geared up to provide available resources for incident response in particular, in accordance with the legal provisions for administrative assistance. Regular exercises to practise this are carried out by the Incident Response Teams.
 
 103"
-"3","8.3.14","Adapting telecommunications and telemedia law and other specialist legislation to technological progress","numbered","8.3","Why is the objective relevant?
+"4","8.3.14","Adapting telecommunications and telemedia law and other specialist legislation to technological progress","numbered","8.3","Why is the objective relevant?
 
 The legal powers for the security authorities to carry out their duties according to specialist legislation and telecommunications law must be continually adapted to keep pace with technological development. Rapid development in the networking and communication of the future is bringing about major changes, particularly in the fields of mobile communication, IoT and automotive IT. The transition to the fifth generation of mobile communication (5G) implies technological evolution that will be disruptive in nature. The number of connected mobile objects will increase greatly, with devices such as drones, robots, communication terminals, smart glasses, holographic displays, and a wide range of sensors making all kinds of everyday objects digital.
 
@@ -1896,7 +1812,7 @@ The Federal Government will examine attainment of the objective based on the fol
 • A system has been put in place which checks whether the security authorities have sufficient capabilities to carry out their duties as required by law in the digital world. • The need for amendments to legislation is continually examined.
 
 105"
-"3","8.4","Action Area 4: Germany's active role in European and international cyber security policy","numbered","8","Growing levels of transnational networking are making the digital world smaller. Cooperation with our international partners in the EU and NATO and other partners who share our values, and the incorporation of national measures into European and international processes, are therefore essential to ensuring a high level of cyber security for Germany. While this must be taken into consideration in all action areas, Action Area 4 specifically addresses those objectives that Germany is actively striving for in European and international cyber security policy.
+"3","8.8.4","Action Area 4: Germany's active role in European and international cyber security policy","numbered","8","Growing levels of transnational networking are making the digital world smaller. Cooperation with our international partners in the EU and NATO and other partners who share our values, and the incorporation of national measures into European and international processes, are therefore essential to ensuring a high level of cyber security for Germany. While this must be taken into consideration in all action areas, Action Area 4 specifically addresses those objectives that Germany is actively striving for in European and international cyber security policy.
 
 Germany’s involvement in the EU is of particular importance, with the following high-level objectives: a high standard of cyber security throughout the EU; working together with Germany’s EU partners on the international stage; and enhanced dialogue as part of cooperation between police forces and judiciary, while taking EU competences into consideration. In this respect, the 2021 Cyber Security Strategy dovetails with the EU’s 2020 Cybersecurity Strategy, working at national level to increase collective resilience to cyber threats in Europe.
 
@@ -1909,9 +1825,7 @@ Working with international partners that share our values, Germany is committed 
 We, the Federal Government, have set the following strategic objectives so that we can fulfil these tasks.
 
 106"
-"3","","8.4.1","","","Actively shaping effective European cyber security policy
-
-Why is the objective relevant?
+"4","8.4.1","Actively shaping effective European cyber security policy","numbered","8.8.4","Why is the objective relevant?
 
 The rapidly advancing digital transformation and increasing connectivity within the EU underscore the need to find European solutions in cyber security. Germany sees cyber security as a central organisational task for the EU (within the limits of its competences) and works together with its partners in the EU to achieve a strong cyber security architecture and a better exchange of information among EU member states. A shared vision and strategy for cyber security must be developed and updated as needed. By enforcing minimum standards for prevention, detection and reaction, European cyber security policy can improve cyber security throughout the EU.
 
@@ -1966,9 +1880,7 @@ The Federal Government will examine attainment of the objective based on the fol
 46The attribution of cyber attacks remains a member state competence. Supplementary to this, there is the possibility of coordinated or joint attribution.
 
 109"
-"3","","8.4.2","","","Shaping cyber security and defence in NATO
-
-Why is the objective relevant?
+"4","8.4.2","Shaping cyber security and defence in NATO","numbered","8.8.4","Why is the objective relevant?
 
 NATO is fundamental to German and Euro-Atlantic security. NATO brings its member states together in an organisation that is both political and military. For more than 70 years, it has worked to protect their sovereignty, security, stability and territorial integrity. NATO also relies on sufficient protection against attacks in and through cyberspace to carry out its core tasks. NATO’s cyber priorities are therefore protecting NATO’s own network, strengthening the resilience of member states in terms of protection against cyber threats, and ensuring the Alliance’s ability to deter, defend against and otherwise react to cyber threats.
 
@@ -2023,9 +1935,7 @@ The Federal Government will examine attainment of the objective based on the fol
 • The fundamentals of NATO’s cyber defence policy are reviewed continually and refined as needed. • Processes are in place through which NATO can be supported to an adequate extent when necessary with national cyber capabilities. • The implementation of the objectives of the NATO Cyber Defence Pledge is under way and is moving forward at national level. • The EU and NATO have deepened their cooperation on matters of cyber security and cyber defence policy.
 
 111"
-"3","","8.4.3","","","Strengthening international law and the legislative framework for cyberspace and working towards responsible state behaviour
-
-Why is the objective relevant?
+"4","8.4.3","Strengthening international law and the legislative framework for cyberspace and working towards responsible state behaviour","numbered","8.8.4","Why is the objective relevant?
 
 Cyber security cannot be attained at national level by states working alone; measures at this level must be supplemented by the relevant activities at international level. Any attempt to regulate cyberspace alone, that is, solely at national level, is doomed to failure due to the far-reaching, cross-border interdependence of national cyber systems. Cyber security can only be provided and strengthened on the basis of close cooperation among states and international organisations, civil society, the private sector and the research community. International law plays a key role in this. The rules-based international order is therefore also generally a cornerstone of German foreign policy. Alongside this, voluntary commitments by states to behave responsibly can complement the framework of international law, helping to flesh it out. Germany is therefore working around the world to strengthen and further develop international law, its institutions, and voluntary commitments in the field of cyber security. Formulating international standards is crucial to creating trust and security in cyberspace.
 
@@ -2058,9 +1968,7 @@ The Federal Government will examine attainment of the objective based on the fol
 • On the basis of the position paper from March 2021, the Federal Government is involved in discussions at bilateral and multilateral level and in communication with civil society about the applicability of international law in cyberspace and about the implementation of voluntary commitments on responsible state behaviour. • Germany is involved in the relevant discussions at UN level regarding cyber security, where it actively puts forward its position. • Regular dialogue has been established at international and national level with society, the research community and the private sector on aspects of the legislative framework for cyberspace. • Germany participates in resolutions and declarations on the topic of human rights online and in support of a free, open, global, safe internet.
 
 113"
-"3","","8.4.4","","","Promoting confidence-building measures
-
-Why is the objective relevant?
+"4","8.4.4","Promoting confidence-building measures","numbered","8.8.4","Why is the objective relevant?
 
 It is often just as difficult to recognise the motivation and aims of malicious behaviour in the cyber domain as it is to ascertain who is responsible for a cyber attack. At the same time, cyberspace is highly interconnected internationally. This creates considerable potential for misinterpretations and misjudgements which can lead to tension between states. In this context, measures to increase transparency and build confidence are important in preventing the risk of conflict and escalation.
 
@@ -2085,9 +1993,7 @@ The Federal Government will examine attainment of the objective based on the fol
 • Germany reports on national assessments and developments in the field of cyber security in bilateral, regional and international forums. • Germany is involved in the relevant discussions on confidence-building measures in the cyber security field at international and regional level, where it actively puts forward its position, in particular regarding the applicability of international law in cyberspace and responsible state behaviour. • Germany ensures that the contact persons it has named and the communication channels it has agreed during confidence-building measures are available and reliable.
 
 114"
-"3","","8.4.5","","","Strengthening bilateral and regional support and cooperation for cyber capacity building
-
-Why is the objective relevant?
+"4","8.4.5","Strengthening bilateral and regional support and cooperation for cyber capacity building","numbered","8.8.4","Why is the objective relevant?
 
 Given the advanced digital transformation and the global interconnection of the world, cyber capacity building is extremely important. Cyber threats and attacks can greatly hinder or reverse the economic, social and political development of certain countries and population groups. Special needs arise where resources, infrastructure and capacities for cyber security are lacking. Cyber capacity building in partner countries and regions can help protect human rights, strengthen the rule of law and foster sustainable economic growth. It is therefore an important instrument in Germany’s development cooperation work. Cyber capacity building allows the opportunities offered by the digital transformation to be used in full and the associated risks to be mitigated. The necessary conditions and awareness to ensure the secure and dependable use of cyberspace require support, especially where development policy has provided access to cyberspace for the first time. This will also have a positive impact on Germany’s cyber security.
 
@@ -2114,9 +2020,7 @@ The Federal Government will examine attainment of the objective based on the fol
 • Cyber capacity building is established as a topic in international bodies and has been enshrined in policy documents. • Germany participates in implementing and/or supporting capacity-building measures in the national, EU, NATO or international context.
 
 116"
-"3","","8.4.6","","","Strengthening international law enforcement cooperation and combating international cyber crime
-
-Why is the objective relevant?
+"4","8.4.6","Strengthening international law enforcement cooperation and combating international cyber crime","numbered","8.8.4","Why is the objective relevant?
 
 Cyber crime is a global phenomenon that does not stop at international borders. Effective law enforcement is therefore often only possible as part of coordinated international investigations. Strengthening international cooperation in law enforcement regarding cyber crime can increase the success of the responsible agencies and their investigations. The increased likelihood of detection can lead to a tangible drop in cyber crime.
 
@@ -2163,9 +2067,7 @@ The Federal Government will examine attainment of the objective based on the fol
 • The number and value of internationally coordinated evaluation and investigation processes has increased. • The number of police capacity-building measures carried out from Germany for foreign security authorities has increased. • The number of conferences and workshops that Germany has participated in and organised on the topic of internationally coordinated law enforcement and cyber crime has increased. • The Budapest Convention is being ratified by more states.
 
 118"
-"3","","8.4.7","","","Working jointly in the EU on innovative solutions for combating crime more effectively
-
-Why is the objective relevant?
+"4","8.4.7","Working jointly in the EU on innovative solutions for combating crime more effectively","numbered","8.8.4","Why is the objective relevant?
 
 For effective law enforcement, investigators need technical solutions that are available for operational use as quickly as possible. These solutions are often based on new and hybrid technologies, and developing them requires a great deal of specialist expertise and technical equipment. European law enforcement authorities do not all have these resources in equal measure, but every EU state is equally affected by crime and the need for technical support for investigation and law enforcement.
 

@@ -189,7 +189,15 @@
     "section_name": "Set up Chief Information Security Officer (CISO) and strengthen",
     "id_kind": "numbered",
     "parent_id": "2",
-    "body": "personnel’s cyber security professional capabilities\n\n(1) Promote CI providers to set up high-level cyber security chiefs to\n\ncoordinate the cyber security policies and resource scheduling; and\n\ndrive CI organizational culture that highlights cyber security.\n\n(2) Establish a database of cyber security experts in various CI sectors\n\n(such as retirees or vendors) to handle external cyber security audits\n\nor drills of CI providers.\n\n(3) Develop learning maps for cyber security functions in various sectors\n\nof CI, develop relevant courses year by year, and train a certain\n\nnumber of employees.\n\n2.2 Establish a simulated field as a practical response capability;\n\nincorporate cyber security situation into teaching and training\n\nEstablish a national CI simulation field; provide an empirical field\n\nof cyber security protection solutions required in the domestic CI field;\n\nand support education and training, large-scale offensive and defensive\n\ndrills, and international cyber security offensive and defense competitions.\n\n3. Public-private partnership cooperation to deepen the exchange of information and implementation of response drills in normal times"
+    "body": "personnel’s cyber security professional capabilities\n\n(1) Promote CI providers to set up high-level cyber security chiefs to\n\ncoordinate the cyber security policies and resource scheduling; and\n\ndrive CI organizational culture that highlights cyber security.\n\n(2) Establish a database of cyber security experts in various CI sectors\n\n(such as retirees or vendors) to handle external cyber security audits\n\nor drills of CI providers.\n\n(3) Develop learning maps for cyber security functions in various sectors\n\nof CI, develop relevant courses year by year, and train a certain\n\nnumber of employees."
+  },
+  {
+    "depth": 4,
+    "section_id": "2.2.2 (1)",
+    "section_name": "Establish a simulated field as a practical response capability;",
+    "id_kind": "numbered",
+    "parent_id": "2",
+    "body": "incorporate cyber security situation into teaching and training\n\nEstablish a national CI simulation field; provide an empirical field\n\nof cyber security protection solutions required in the domestic CI field;\n\nand support education and training, large-scale offensive and defensive\n\ndrills, and international cyber security offensive and defense competitions.\n\n3. Public-private partnership cooperation to deepen the exchange of information and implementation of response drills in normal times"
   },
   {
     "depth": 4,
@@ -241,7 +249,7 @@
   },
   {
     "depth": 4,
-    "section_id": "2.2.2 (1)",
+    "section_id": "2.2.2 (2)",
     "section_name": "Integrate domestic and foreign sources of information, and deepen",
     "id_kind": "numbered",
     "parent_id": "2",
@@ -313,7 +321,7 @@
   },
   {
     "depth": 4,
-    "section_id": "2.2.2 (2)",
+    "section_id": "2.2.2 (3)",
     "section_name": "Focus on the security of telecommunications chip products",
     "id_kind": "numbered",
     "parent_id": "2",

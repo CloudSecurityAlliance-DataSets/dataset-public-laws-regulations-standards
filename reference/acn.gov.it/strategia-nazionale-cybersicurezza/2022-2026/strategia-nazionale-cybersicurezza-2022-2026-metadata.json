@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 32-page PDF (https://www.acn.gov.it/portale/documents/20119/531899/ACN_EN_Strategy.pdf/4ccff3e7-b88f-e5e2-d429-01c982994e73?t=1719931787736) locally via PyMuPDF (58,131 chars). Parsed 17 sections (3 with explicit section identifiers)."
+    "notes": "Extracted 32-page PDF (https://www.acn.gov.it/portale/documents/20119/531899/ACN_EN_Strategy.pdf/4ccff3e7-b88f-e5e2-d429-01c982994e73?t=1719931787736) locally via PyMuPDF (58,131 chars). Parsed 14 sections (3 with explicit section identifiers)."
   },
   "extraction_history": [
     {

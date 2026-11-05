@@ -76,17 +76,17 @@ Published by Federal Ministry of the Interior, Building and Community Contact in
 
 8.1.6 Protecting the authenticity and integrity of algorithms, data and documents, and the electronic identities of people and things in the broader sense........................................... 39
 
-8.1.7 Creating the conditions for secure electronic communication and safe web offerings 41
+### 8.1.7 Creating the conditions for secure electronic communication and safe web offerings 41
 
 8.1.8 Responding responsibly to vulnerabilities – promoting coordinated vulnerability disclosure ......................................................................................................................... 42
 
-8.1.9 Using encryption – a prerequisite for self-determined, autonomous action – across the board 44
+### 8.1.9 Using encryption – a prerequisite for self-determined, autonomous action – across the board 44
 
 8.1.10 Guaranteeing IT security through AI and for AI ...................................................... 46
 
 8.2 Action Area 2: Government and private industry working together ............................ 49
 
-8.2.1 Reinforcing the coordination function of the NCSR in the cyber security landscape 50
+### 8.2.1 Reinforcing the coordination function of the NCSR in the cyber security landscape 50
 
 8.2.2 Improving cooperation between government, private industry, the research community and civil society on matters of cyber security ................................................. 52
 
@@ -104,7 +104,7 @@ Published by Federal Ministry of the Interior, Building and Community Contact in
 
 8.2.9 Providing IT security through quantum technology ............................................... 68
 
-8.2.10 Harmonising testing and approval processes with innovation cycles (time to market) 70
+### 8.2.10 Harmonising testing and approval processes with innovation cycles (time to market) 70
 
 8.2.11 Improving the protection of critical infrastructures ................................................ 72
 
@@ -138,13 +138,13 @@ Published by Federal Ministry of the Interior, Building and Community Contact in
 
 8.3.11 Increasing the digital sovereignty of the security authorities by expanding the Central Office for Information Technology in the Security Sector ................................................. 98
 
-8.3.12 Raising the level of cyber security through increased preventive intelligence gathering 100
+### 8.3.12 Raising the level of cyber security through increased preventive intelligence gathering 100
 
 8.3.13 Strengthening defence aspects of cyber security ................................................... 102
 
 8.3.14 Adapting telecommunications and telemedia law and other specialist legislation to technological progress .................................................................................................... 104
 
-8.4 Action Area 4: Germany's active role in European and international cyber security policy 106
+### 8.4 Action Area 4: Germany's active role in European and international cyber security policy 106
 
 8.4.1 Actively shaping effective European cyber security policy .................................... 107
 
@@ -316,17 +316,13 @@ The widespread integration of IT into life in our society has brought a whole sp
 
 However, this strategy does not focus on phishing crimes or on threat situations in which IT is used to disseminate illegal content. Instead, it focuses on cyber attacks that directly and substantially compromise the availability, integrity and confidentiality of IT systems. This frequently includes data protection violations to collect personal data. Cyber attacks can also be used as a part of hybrid threats. In addition, cyber attacks are a typical element of cyber crime, cyber terrorism, cyber espionage and cyber sabotage, all of which can target critical infrastructures in ways that can cause considerable financial and social impact.
 
-### 5.2.1
-
-Cyber crime
+### 5.2.1 Cyber crime
 
 In the field of cyber crime, the use of ransomware to prevent access to data or systems is currently one of the greatest threats. Perpetrators attack wherever they find unprotected vulnerabilities, regardless of whether these involve companies, government agencies or private users. The cyber attack itself is followed by attempts to blackmail the victim, with threats ranging from publishing customer data online to revealing sensitive information to competitors. Ransomware has developed to a point where it can cause considerable damage, particularly because those affected are often part of global networks. This means that whole divisions of companies, or entire infrastructure areas, can be affected by outages caused by this type of attack. The danger posed by what is known as “big game hunting” should also be taken seriously. In this type of attack, perpetrators target particularly wealthy or potentially lucrative victims so they can demand very high ransoms.
 
 Distributed denial-of-service (DDoS) attacks generally lead to IT systems overloading with network traffic, and are also often threatened as part of blackmail attacks. Attacks of this type often use botnets. In a botnet attack, perpetrators hijack several IT systems which they then control remotely, or they misappropriate publicly accessible systems which may be configured wrongly or in some cases cannot be secured, in order to overload the system they are targeting. The malware used for this type of attack has developed considerably over the years, often enabling perpetrators not just to carry out DDoS attacks, but at the same time to access the data in the bots, which means they can then collect victims’ personal data. This is a typical gateway for obtaining access data. Another sphere of activity for DDoS attacks is unwelcome online content. This can be used to obstruct political party events, for example. The potential motives for attacks like this, such as hacktivism or government influence, are becoming increasingly blurry.
 
-### 5.2.2
-
-State-sponsored cyber attacks
+### 5.2.2 State-sponsored cyber attacks
 
 Government and non-government organisations and private companies alike are increasingly faced with strategic activity on the part of cyber threat actors carrying out state-sponsored cyber attacks such as cyber espionage and cyber sabotage. The threat actors most commonly active in this field, known as advanced persistent threat (APT) groups, are characterised by their access to sometimes substantial resources, their tenacity, and their comprehensive technical expertise.
 
@@ -336,9 +332,7 @@ Their activities are therefore often ascribed to intelligence services or groups
 
 These groups use complex long-term strategies to try and infiltrate IT systems undetected. As well as the use of these intrusions for cyber espionage purposes such as stealing sensitive information, an increase has recently been observed in activities to lay the groundwork for cyber sabotage, known as pre-positioning. As more and more state governments are developing their cyber expertise, it is likely that cyber attacks by APT groups will remain a major threat for the foreseeable future. In some cases, a developing symbiosis is visible between threat actors in the areas of cyber crime and cyber espionage/cyber sabotage. Military actors are also working continually on expanding their cyber capabilities. This means that any assessment of the cyber threat situation must also take into account the military component.
 
-### 5.2.3
-
-Cyber attacks as a component of hybrid threats
+### 5.2.3 Cyber attacks as a component of hybrid threats
 
 The term hybrid threat means targeted activity by government actors and their non-government upstream entities (proxies) and can encompass a broad range of concealed and open means of carrying out this activity. This means that attacks in cyberspace can affect broader areas (for example the information domain), can take place in conjunction with activities in other areas, or can serve as preparation for other activities with the aim of exerting illicit influence.
 
@@ -410,9 +404,7 @@ Networks such as the Alliance for Cybersecurity, the UP KRITIS public-private pa
 
 It is the state’s responsibility to play a leading role in ensuring high levels of cyber security. Government tasks in this regard range from drawing up threat situation reports, preventing, detecting and defending against threats, managing incidents when they occur, and carrying out law enforcement activities, through defending against espionage and gathering intelligence for prevention purposes, to cyber defence and international cyber policy. Numerous stakeholders at federal and state level are therefore closely involved in responding to threats from cyberspace on the basis of their respective competences. Federal Government activities are divided between the strategic and the operational level.
 
-### 6.4.1
-
-Strategic level
+### 6.4.1 Strategic level
 
 The different ministries are responsible for the strategic orientation of their cyber security policy and monitoring its implementation. The ministries are responsible for managing the activities in their remits independently, based on the principle of ministerial autonomy. At federal level, the Federal Ministry of the Interior, Building and Community is responsible for coordinating domestic cyber security policy and the Federal Foreign Office is responsible for coordinating international cyber security policy. The Federal Ministry of Defence is responsible for cyber defence.
 
@@ -420,9 +412,7 @@ The NCSR is the Federal Government’s strategic advisory body. It was created o
 
 Responsibility for the strategic orientation of federal IT security management and the implementation of the cabinet decision on the guideline for information security in the public administration (UP Bund) lies with the CIO Council and its working group on information security. The office of Federal Government Commissioner for Information Technology is within the Federal Ministry of the Interior, Building and Community. Among other things, the Commissioner is responsible for steering information security management on the basis of the UP Bund guideline for information security.
 
-### 6.4.2
-
-Operational level
+### 6.4.2 Operational level
 
 The strategic guidelines and objectives are implemented at operational level primarily by the subordinate authorities of the Federal Chancellery and of the ministries. The following task areas and stakeholders are especially important in this context.
 
@@ -442,9 +432,7 @@ The federal authorities and companies that are tasked with the secure operation 
 
 20
 
-### 6.4.3
-
-Cooperation between the Federation and the states
+### 6.4.3 Cooperation between the Federation and the states
 
 The broad range of government tasks required in cyberspace can only be carried out with a joint effort by the Federation and the states. Activities at federal and state level must be closely interlinked with the aim of ensuring cooperation and complementary efforts.
 
@@ -576,9 +564,7 @@ The Federal Government has numerous options to increase the population’s cyber
 
 28
 
-### 8.1.1
-
-Promoting digital literacy among all users
+### 8.1.1 Promoting digital literacy among all users
 
 Why is the objective relevant?
 
@@ -634,9 +620,7 @@ The Federal Government will examine attainment of the objective based on the fol
 
 30
 
-### 8.1.2
-
-Increasing the user-friendliness of security solutions
+### 8.1.2 Increasing the user-friendliness of security solutions
 
 Why is the objective relevant?
 
@@ -670,9 +654,7 @@ The Federal Government will examine attainment of the objective based on the fol
 
 32
 
-### 8.1.3
-
-Expanding government measures to protect consumers in the digital world
+### 8.1.3 Expanding government measures to protect consumers in the digital world
 
 Why is the objective relevant?
 
@@ -716,9 +698,7 @@ The Federal Government will examine attainment of the objective based on the fol
 
 34
 
-### 8.1.4
-
-Establishing uniform European security requirements
+### 8.1.4 Establishing uniform European security requirements
 
 Why is the objective relevant?
 
@@ -750,9 +730,7 @@ The Federal Government will examine attainment of the objective based on the fol
 
 36
 
-### 8.1.5
-
-Guaranteeing secure electronic identities
+### 8.1.5 Guaranteeing secure electronic identities
 
 Why is the objective relevant?
 
@@ -792,9 +770,7 @@ The Federal Government will examine attainment of the objective based on the fol
 
 38
 
-### 8.1.6
-
-Protecting the authenticity and integrity of algorithms, data and documents, and the electronic identities of people and things in the broader sense
+### 8.1.6 Protecting the authenticity and integrity of algorithms, data and documents, and the electronic identities of people and things in the broader sense
 
 Why is the objective relevant?
 
@@ -830,9 +806,7 @@ The Federal Government will examine attainment of the objective based on the fol
 
 40
 
-### 8.1.7
-
-Creating the conditions for secure electronic communication and safe web offerings
+### 8.1.7 Creating the conditions for secure electronic communication and safe web offerings
 
 Why is the objective relevant?
 
@@ -860,9 +834,7 @@ The Federal Government will examine attainment of the objective based on the fol
 
 41
 
-### 8.1.8
-
-Responding responsibly to vulnerabilities – promoting coordinated vulnerability disclosure
+### 8.1.8 Responding responsibly to vulnerabilities – promoting coordinated vulnerability disclosure
 
 Why is the objective relevant?
 
@@ -900,9 +872,7 @@ The Federal Government will examine attainment of the objective based on the fol
 
 43
 
-### 8.1.9
-
-Using encryption – a prerequisite for self-determined, autonomous action – across the board
+### 8.1.9 Using encryption – a prerequisite for self-determined, autonomous action – across the board
 
 Why is the objective relevant?
 
@@ -1020,9 +990,7 @@ Stronger cyber security in industry therefore calls for cooperation between gove
 
 49
 
-### 8.2.1
-
-Reinforcing the coordination function of the NCSR in the cyber security landscape
+### 8.2.1 Reinforcing the coordination function of the NCSR in the cyber security landscape
 
 Why is the objective relevant?
 
@@ -1054,9 +1022,7 @@ a more targeted advisory process, and offers a more comprehensive overview of th
 
 51
 
-### 8.2.2
-
-Improving cooperation between government, private industry, the research community and civil society on matters of cyber security
+### 8.2.2 Improving cooperation between government, private industry, the research community and civil society on matters of cyber security
 
 Why is the objective relevant?
 
@@ -1104,9 +1070,7 @@ The Federal Government will examine attainment of the objective based on the fol
 
 54
 
-### 8.2.3
-
-Establishing a cooperative platform for government, private industry, the research community and society to enable communication about cyber attacks
+### 8.2.3 Establishing a cooperative platform for government, private industry, the research community and society to enable communication about cyber attacks
 
 Why is the objective relevant?
 
@@ -1138,9 +1102,7 @@ The Federal Government will examine attainment of the objective based on the fol
 
 56
 
-### 8.2.4
-
-Protecting businesses in Germany
+### 8.2.4 Protecting businesses in Germany
 
 Why is the objective relevant?
 
@@ -1184,9 +1146,7 @@ The Federal Government will examine attainment of the objective based on the fol
 
 58
 
-### 8.2.5
-
-Strengthening Germany's digital economy
+### 8.2.5 Strengthening Germany's digital economy
 
 Why is the objective relevant?
 
@@ -1222,9 +1182,7 @@ The Federal Government will examine attainment of the objective based on the fol
 
 60
 
-### 8.2.6
-
-Creating a uniform European regulatory framework for businesses
+### 8.2.6 Creating a uniform European regulatory framework for businesses
 
 Why is the objective relevant?
 
@@ -1268,9 +1226,7 @@ The Federal Government will examine attainment of the objective based on the fol
 
 62
 
-### 8.2.7
-
-Promoting research and development into more resilient, more secure IT products, services and systems for the EU single market
+### 8.2.7 Promoting research and development into more resilient, more secure IT products, services and systems for the EU single market
 
 Why is the objective relevant?
 
@@ -1326,9 +1282,7 @@ The Federal Government will examine attainment of the objective based on the fol
 
 65
 
-### 8.2.8
-
-Strengthening the security of future technologies and key enabling technologies through security by design
+### 8.2.8 Strengthening the security of future technologies and key enabling technologies through security by design
 
 Why is the objective relevant?
 
@@ -1366,9 +1320,7 @@ The Federal Government will examine attainment of the objective based on the fol
 
 67
 
-### 8.2.9
-
-Providing IT security through quantum technology
+### 8.2.9 Providing IT security through quantum technology
 
 Why is the objective relevant?
 
@@ -1592,9 +1544,7 @@ We, the Federal Government, have set the following strategic objectives so that 
 
 78
 
-### 8.3.1
-
-Improving the options available to the Federal Government for threat prevention in case of cyber attacks
+### 8.3.1 Improving the options available to the Federal Government for threat prevention in case of cyber attacks
 
 Why is the objective relevant?
 
@@ -1620,9 +1570,7 @@ The Federal Government will examine attainment of the objective based on the fol
 
 79
 
-### 8.3.2
-
-Equipping the technical and operational divisions of the BSI for the future and creating a network for them
+### 8.3.2 Equipping the technical and operational divisions of the BSI for the future and creating a network for them
 
 Why is the objective relevant?
 
@@ -1660,9 +1608,7 @@ The Federal Government will examine attainment of the objective based on the fol
 
 81
 
-### 8.3.3
-
-Strengthening institutionalised cooperation between the BSI and the states
+### 8.3.3 Strengthening institutionalised cooperation between the BSI and the states
 
 Why is the objective relevant?
 
@@ -1696,9 +1642,7 @@ The Federal Government will examine attainment of the objective based on the fol
 
 83
 
-### 8.3.4
-
-Developing the National Cyber Response Centre
+### 8.3.4 Developing the National Cyber Response Centre
 
 Why is the objective relevant?
 
@@ -1730,9 +1674,7 @@ The Federal Government will examine attainment of the objective based on the fol
 
 85
 
-### 8.3.5
-
-Strengthening cyber and information security in the federal administration
+### 8.3.5 Strengthening cyber and information security in the federal administration
 
 Why is the objective relevant?
 
@@ -1762,9 +1704,7 @@ increasing cyber and information security and improving cooperation among the (m
 
 87
 
-### 8.3.6
-
-Stepping up cyber security associated with elections
+### 8.3.6 Stepping up cyber security associated with elections
 
 Why is the objective relevant?
 
@@ -1798,9 +1738,7 @@ The Federal Government will examine attainment of the objective based on the fol
 
 89
 
-### 8.3.7
-
-Ramping up law enforcement in cyberspace
+### 8.3.7 Ramping up law enforcement in cyberspace
 
 Why is the objective relevant?
 
@@ -1834,9 +1772,7 @@ The Federal Government will examine attainment of the objective based on the fol
 
 91
 
-### 8.3.8
-
-Expanding central skills and services of the BKA for combating cyber crime
+### 8.3.8 Expanding central skills and services of the BKA for combating cyber crime
 
 Why is the objective relevant?
 
@@ -1870,9 +1806,7 @@ The Federal Government will examine attainment of the objective based on the fol
 
 93
 
-### 8.3.9
-
-Providing security through encryption, and security despite encryption
+### 8.3.9 Providing security through encryption, and security despite encryption
 
 Why is the objective relevant?
 
@@ -2110,9 +2044,7 @@ We, the Federal Government, have set the following strategic objectives so that 
 
 106
 
-### 8.4.1
-
-Actively shaping effective European cyber security policy
+### 8.4.1 Actively shaping effective European cyber security policy
 
 Why is the objective relevant?
 
@@ -2170,9 +2102,7 @@ The Federal Government will examine attainment of the objective based on the fol
 
 109
 
-### 8.4.2
-
-Shaping cyber security and defence in NATO
+### 8.4.2 Shaping cyber security and defence in NATO
 
 Why is the objective relevant?
 
@@ -2230,9 +2160,7 @@ The Federal Government will examine attainment of the objective based on the fol
 
 111
 
-### 8.4.3
-
-Strengthening international law and the legislative framework for cyberspace and working towards responsible state behaviour
+### 8.4.3 Strengthening international law and the legislative framework for cyberspace and working towards responsible state behaviour
 
 Why is the objective relevant?
 
@@ -2268,9 +2196,7 @@ The Federal Government will examine attainment of the objective based on the fol
 
 113
 
-### 8.4.4
-
-Promoting confidence-building measures
+### 8.4.4 Promoting confidence-building measures
 
 Why is the objective relevant?
 
@@ -2298,9 +2224,7 @@ The Federal Government will examine attainment of the objective based on the fol
 
 114
 
-### 8.4.5
-
-Strengthening bilateral and regional support and cooperation for cyber capacity building
+### 8.4.5 Strengthening bilateral and regional support and cooperation for cyber capacity building
 
 Why is the objective relevant?
 
@@ -2330,9 +2254,7 @@ The Federal Government will examine attainment of the objective based on the fol
 
 116
 
-### 8.4.6
-
-Strengthening international law enforcement cooperation and combating international cyber crime
+### 8.4.6 Strengthening international law enforcement cooperation and combating international cyber crime
 
 Why is the objective relevant?
 
@@ -2382,9 +2304,7 @@ The Federal Government will examine attainment of the objective based on the fol
 
 118
 
-### 8.4.7
-
-Working jointly in the EU on innovative solutions for combating crime more effectively
+### 8.4.7 Working jointly in the EU on innovative solutions for combating crime more effectively
 
 Why is the objective relevant?
 
