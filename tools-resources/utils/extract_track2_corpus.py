@@ -159,12 +159,15 @@ def sort_blocks_column_aware(blocks: list[dict], page_w: float, page_h: float, r
     col_items = []
     for b in text_blocks:
         x0, y0, x1, y1 = b.get("bbox", (0, 0, 0, 0))
-        first_l = ""
-        if b.get("lines"):
-            first_l = re.sub(r"\s+", " ", "".join(s.get("text", "") for s in b["lines"][0].get("spans", []))).strip()
+        full_b_txt = re.sub(
+            r"\s+",
+            " ",
+            " ".join("".join(s.get("text", "") for s in l.get("spans", [])).strip() for l in b.get("lines", [])),
+        ).strip()
         is_band_heading = (
             x0 <= page_w * 0.20
-            and bool(re.match(r"^(?:[IVX]{1,4}\.\d{1,2}|\d{1,2}\.\d{1,2})\s+[A-Z]{2,}", first_l))
+            and not full_b_txt.startswith(("•", "-"))
+            and bool(re.match(r"^[A-Z0-9\s,\-–—\(\)’':;/\.]{2,140}$", full_b_txt))
             and not any(
                 ob is not b
                 and ob.get("bbox", (0, 0, 0, 0))[0] >= page_w * 0.46
@@ -323,7 +326,49 @@ def pdf_bytes_to_markdown(pdf_bytes: bytes, doc_title: str) -> tuple[str, int]:
             nonlocal para_parts
             if para_parts:
                 joined = " ".join(para_parts)
-                joined = re.sub(r"-\s+([a-z])", r"-\1", joined)
+                _keep_hyph = {
+                    "non", "multi", "co", "re", "sub", "post", "anti", "self", "well",
+                    "high", "low", "long", "short", "open", "end", "to", "state", "public",
+                    "private", "real", "large", "small", "micro", "macro", "cross", "socio",
+                    "up", "e", "on", "in", "by", "two", "three", "four", "five", "hand",
+                    "ever", "under", "over", "user", "cost", "risk", "decision", "zero",
+                    "next", "bi", "tri", "pan", "side", "first", "second", "third", "full",
+                    "part", "medium", "human", "machine", "data", "cloud", "sector", "system",
+                    "network", "service", "it", "ai", "eu", "un", "tailor", "know", "awareness",
+                    "information", "test", "bug", "pen", "skill", "fine", "one", "security",
+                    "privacy", "blockchain", "trust", "zero", "source", "based",
+                }
+
+                def _fix_wrap_hyph(m_h: re.Match) -> str:
+                    p1, p2 = m_h.group(1), m_h.group(2)
+                    low1, low2 = p1.lower(), p2.lower()
+                    if low1 == "inter":
+                        return (
+                            f"{p1}{p2}"
+                            if low2.startswith(("nation", "operab", "depend", "connect", "relat", "act", "change", "fer", "pret", "cept", "nal", "net"))
+                            else f"{p1}-{p2}"
+                        )
+                    if low1 == "cyber":
+                        return (
+                            f"{p1}{p2}"
+                            if low2.startswith(("secur", "spac", "crim", "attack", "defen", "threat", "world", "way"))
+                            else f"{p1}-{p2}"
+                        )
+                    if low1 == "pre":
+                        return (
+                            f"{p1}{p2}"
+                            if low2.startswith(("pared", "vent", "sent", "par", "dic", "requis", "domin", "caut", "mise", "rogat", "amble", "ced"))
+                            else f"{p1}-{p2}"
+                        )
+                    if low1 in _keep_hyph:
+                        return f"{p1}-{p2}"
+                    return f"{p1}{p2}"
+
+                joined = re.sub(r"([A-Za-z]+)-\s+([a-z]{2,})", _fix_wrap_hyph, joined)
+                for _ in range(2):
+                    joined = re.sub(r"\b([A-Za-z]+)-([a-z]{2,})\b", _fix_wrap_hyph, joined)
+                for _ in range(3):
+                    joined = re.sub(r"(https?://[A-Za-z0-9._/\-]*[\./\-])\s+([A-Za-z0-9._/\-]+)", r"\1\2", joined)
                 md_lines.append(joined)
                 md_lines.append("")
                 para_parts = []

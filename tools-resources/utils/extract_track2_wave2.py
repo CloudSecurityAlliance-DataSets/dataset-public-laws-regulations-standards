@@ -356,9 +356,9 @@ _TLD_STATUTORY_LICENSES: dict[str, tuple[str, str, str, str]] = {
         "https://data.gov.be/en/legal-framework",
     ),
     "by": (
-        "LicenseRef-BY-Law262Z-Art7",
+        "LicenseRef-BY-Law262Z-Art7-1",
         "Public Domain",
-        "Law of the Republic of Belarus No. 262-Z of May 17, 2011 on Copyright and Related Rights Art. 7(2) (official documents—laws, court decisions, and other texts of a legislative, administrative, and judicial character—are not objects of copyright).",
+        "Law of the Republic of Belarus No. 262-Z of May 17, 2011 on Copyright and Related Rights Art. 7(1) (official documents—laws, court decisions, and other texts of a legislative, administrative, and judicial character—are not objects of copyright).",
         "https://www.wipo.int/wipolex/ru/legislation/details/22302",
     ),
     "ch": (
@@ -401,7 +401,7 @@ _TLD_STATUTORY_LICENSES: dict[str, tuple[str, str, str, str]] = {
         "LicenseRef-GR-Law2121-Art2",
         "Government-Work",
         "Greek Copyright Law 2121/1993 Art. 2(5) (official texts expressive of authority excluded from copyright) and Law 4727/2020 (Digital Governance and Open Data / PSI reuse).",
-        "https://www.wipo.int/wipolex/en/legislation/details/19036",
+        "https://www.wipo.int/wipolex/en/legislation/details/8757",
     ),
     "ie": (
         "CC-BY-4.0",
@@ -424,7 +424,7 @@ _TLD_STATUTORY_LICENSES: dict[str, tuple[str, str, str, str]] = {
     "lu": (
         "LicenseRef-LU-SIP-Prior-Agreement",
         "Proprietary / All Rights Reserved",
-        "Grand Duchy of Luxembourg Government / HCPN General Legal Notice (users may view, download, and print text documents; prior agreement from the Government Information and Press Service (SIP) is required for other uses, redistribution, or modifications).",
+        "Grand Duchy of Luxembourg Government / HCPN General Legal Notice (permits viewing, downloading, and printing; prior agreement from the Government Information and Press Service (SIP) is required for public redistribution or derivative works — stored in private internal repository, not publicly redistributed).",
         "https://hcpn.gouvernement.lu/en/support/aspects-legaux.html",
     ),
     "lv": (
@@ -452,9 +452,9 @@ _TLD_STATUTORY_LICENSES: dict[str, tuple[str, str, str, str]] = {
         "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19940240083",
     ),
     "pt": (
-        "LicenseRef-PT-CDADC-Art7",
+        "LicenseRef-PT-CDADC-Art8-1",
         "Government-Work",
-        "Portuguese Code of Copyright and Related Rights (CDADC, Decreto-Lei n.º 63/85) Art. 7.º (official public texts and Council of Ministers resolutions excluded from copyright).",
+        "Portuguese Code of Copyright and Related Rights (CDADC, Decreto-Lei n.º 63/85) Art. 8.º(1) read with Art. 3.º(1)(c) (compiled or annotated official public texts and public speeches/reports not protected by copyright beyond the compiler's annotations).",
         "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1985-34475475",
     ),
     "ro": (
@@ -467,7 +467,7 @@ _TLD_STATUTORY_LICENSES: dict[str, tuple[str, str, str, str]] = {
         "LicenseRef-RS-Copyright-Art6",
         "Public Domain",
         "Republic of Serbia Law on Copyright and Related Rights (Official Gazette RS, No. 104/2009) Art. 6 (official materials of state bodies, laws, decrees, and strategies published in the Official Gazette are not protected by copyright).",
-        "https://www.pravno-informacioni-sistem.rs/SlGlasnikPortal/eli/rep/sgrs/skupstina/zakon/2009/104/2",
+        "https://www.wipo.int/wipolex/en/legislation/details/6838",
     ),
     "se": (
         "LicenseRef-SE-Upphovsratt-Sec9",
@@ -1513,6 +1513,10 @@ def postprocess_markdown_structure(md: str, doc_title: str) -> str:
             break
 
     # Pass 1: Normalize interior `# ` headings to `## ` and demote colophon/imprint/copyright/quote/date lines
+    has_part_ii_container = any(
+        "NATIONALCYBERSECURITYSTRATEGYIV(2021-2025)" in re.sub(r"\s+", "", blk)
+        for blk in blocks
+    )
     for i, b in enumerate(blocks):
         if i > 0 and re.match(r"^#\s+\S", b):
             b = "#" + b
@@ -1573,7 +1577,6 @@ def postprocess_markdown_structure(md: str, doc_title: str) -> str:
             hashes = "#####"
         sec_id, _, _ = parse_heading(txt)
         if re.match(r"^\d{1,2}(?:\.\d{1,2})+\b", sec_id):
-            has_part_ii_container = any("II. NATIONAL CYBERSECURITY STRATEGY IV" in blk for blk in blocks[:15])
             min_dotted_depth = min(6, sec_id.count(".") + (3 if has_part_ii_container else 2))
             if len(hashes) < min_dotted_depth:
                 hashes = "#" * min_dotted_depth
@@ -1943,7 +1946,10 @@ def postprocess_markdown_structure(md: str, doc_title: str) -> str:
     merged_blocks: list[str] = []
     idx_m = 0
     while idx_m < len(blocks):
-        cur_b = blocks[idx_m]
+        cur_b = blocks[idx_m].replace(
+            "I n i t i a t i v e s /A s s o c i a t i o n s / N e t w o r k s",
+            "Initiatives / Associations / Networks",
+        )
         if cur_b == "· I N T R O D U C T I O N : M A I N T R E N D S A N D T H R E AT S ·":
             idx_m += 1
             continue
@@ -1952,7 +1958,11 @@ def postprocess_markdown_structure(md: str, doc_title: str) -> str:
             and not cur_b.startswith("#")
             and not blocks[idx_m + 1].startswith(("#", "•", "- "))
             and not cur_b.endswith((".", ":", ";", "!", "?", ")", '"', "'", "”", "’"))
-            and re.match(r"^[a-zà-öø-ÿ]", blocks[idx_m + 1])
+            and (
+                re.match(r"^[a-zà-öø-ÿ]", blocks[idx_m + 1])
+                or re.search(r"\b(?:the|a|an|of|in|to|for|with|by|and|or|at|from|as)$", cur_b, re.I)
+            )
+            and not re.match(r"^[A-Z0-9\s,\-–—\(\)’':;/\.]{2,80}$", blocks[idx_m + 1])
         ):
             nxt_b = blocks[idx_m + 1]
             if re.search(r"[a-zA-Z]-$", cur_b):
@@ -2212,8 +2222,8 @@ def extract_edition(item: dict) -> dict:
                     pass
 
     lic_obj = license_for_tld(item["tld"], ns, md_text=best_md, secid=item["secid"])
-    # Metadata-only records (no body text redistributed) belong in the public catalog repository unless TLD is `sg`
-    if not best_md and item["tld"] != "sg":
+    # Metadata-only records (no body text redistributed) belong in the public catalog repository unless the source license is Proprietary/Non-Commercial (e.g. `sg`, `lu`)
+    if not best_md and item["tld"] not in ("sg", "lu") and lic_obj.get("Grouping") not in ("Proprietary / All Rights Reserved", "Non-Commercial", "Non-Commercial-No-Derivatives"):
         is_public = True
     else:
         is_public = bool(lic_obj.get("publicly_redistributable", True))

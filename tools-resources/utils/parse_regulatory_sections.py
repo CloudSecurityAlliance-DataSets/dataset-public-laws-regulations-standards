@@ -272,6 +272,14 @@ def main():
                         parent_row_idx = cand_idx
                         parent_id = rows[cand_idx]["section_id"]
                         break
+        elif depth >= 3:
+            for d in range(depth - 1, 1, -1):
+                if d in ancestor_id_row_by_depth:
+                    cand_idx = ancestor_id_row_by_depth[d]
+                    if rows[cand_idx].get("section_id"):
+                        parent_row_idx = cand_idx
+                        parent_id = rows[cand_idx]["section_id"]
+                        break
 
         enclosing_any_idx = next(
             (ancestor_row_by_depth[d] for d in range(depth - 1, min_enc_depth - 1, -1) if d in ancestor_row_by_depth),
@@ -381,7 +389,7 @@ def main():
     json_path = doc_dir / f"{stem}-sections.json"
     fields = ["depth", "section_id", "section_name", "id_kind", "parent_id", "body"]
     with csv_path.open("w", newline="", encoding="utf-8") as f:
-        w = csv.DictWriter(f, fieldnames=fields, quoting=csv.QUOTE_ALL)
+        w = csv.DictWriter(f, fieldnames=fields, quoting=csv.QUOTE_ALL, lineterminator="\n")
         w.writeheader()
         w.writerows(rows)
     json_path.write_text(json.dumps(rows, indent=2, ensure_ascii=False))
