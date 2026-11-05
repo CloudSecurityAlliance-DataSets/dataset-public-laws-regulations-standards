@@ -360,6 +360,18 @@ def pdf_bytes_to_markdown(pdf_bytes: bytes, doc_title: str) -> tuple[str, int]:
                             if low2.startswith(("pared", "vent", "sent", "par", "dic", "requis", "domin", "caut", "mise", "rogat", "amble", "ced"))
                             else f"{p1}-{p2}"
                         )
+                    if low1 == "sub":
+                        return (
+                            f"{p1}{p2}"
+                            if low2.startswith(("ject", "mit", "sequ", "stant", "sidi", "scrib", "stitut", "ordin", "vers", "urb", "tle"))
+                            else f"{p1}-{p2}"
+                        )
+                    if low1 == "high":
+                        return (
+                            f"{p1}{p2}"
+                            if low2.startswith(("est", "er", "ly", "light", "way"))
+                            else f"{p1}-{p2}"
+                        )
                     if low1 in _keep_hyph:
                         return f"{p1}-{p2}"
                     return f"{p1}{p2}"
@@ -369,7 +381,14 @@ def pdf_bytes_to_markdown(pdf_bytes: bytes, doc_title: str) -> tuple[str, int]:
                     joined = re.sub(r"(https?://[A-Za-z0-9._/\-]*[\./_])\s+([A-Za-z0-9._/\-]+)", r"\1\2", joined)
                     joined = re.sub(
                         r"(https?://[A-Za-z0-9._/\-]*?([A-Za-z]+))-\s+([a-z][A-Za-z0-9._/\-]*)",
-                        lambda m_u: m_u.group(1) + ("-" if m_u.group(2).lower() in _keep_hyph else "") + m_u.group(3),
+                        lambda m_u: m_u.group(1)
+                        + (
+                            ""
+                            if (m_u.group(2) + re.split(r"[/._\-]", m_u.group(3))[0]).lower()
+                            in ({"medienkompass", "silversurfer"} | set(re.findall(r"[a-z]{6,}", m_u.group(1).lower())))
+                            else "-"
+                        )
+                        + m_u.group(3),
                         joined,
                     )
                 joined = re.sub(r"(https?://\S+)\s+\)", r"\1)", joined)
