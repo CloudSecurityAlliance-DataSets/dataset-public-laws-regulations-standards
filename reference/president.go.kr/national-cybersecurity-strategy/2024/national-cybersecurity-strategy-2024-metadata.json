@@ -43,6 +43,6 @@
   "notes": "Official primary full-text document for secid:reference/president.go.kr/national-cybersecurity-strategy@2024 (https://nsp.nanet.go.kr/plan/subject/detail.do?nationalPlanControlNo=PLAN0000043771) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
   "desired_end_state": {
     "state": "metadata-only",
-    "reason": "source-unavailable"
+    "reason": "pending-acquisition"
   }
 }

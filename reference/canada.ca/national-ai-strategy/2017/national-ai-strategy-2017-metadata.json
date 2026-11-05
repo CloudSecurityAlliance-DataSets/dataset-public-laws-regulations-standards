@@ -43,6 +43,6 @@
   "notes": "Official primary full-text document for secid:reference/canada.ca/national-ai-strategy@2017 (https://ised-isde.canada.ca/site/ised/en/pan-canadian-artificial-intelligence-strategy) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
   "desired_end_state": {
     "state": "metadata-only",
-    "reason": "source-unavailable"
+    "reason": "pending-acquisition"
   }
 }

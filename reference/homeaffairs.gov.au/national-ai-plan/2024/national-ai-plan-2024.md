@@ -638,9 +638,7 @@ Accountability
 
 Guidance for working with suppliers is provided in aqua boxes.
 
-## 1. Guardrail 1: Establish, implement and publish an accountability process including governance, internal capability and a strategy for
-
-regulatory compliance.
+## 1. Guardrail 1: Establish, implement and publish an accountability process including governance, internal capability and a strategy for regulatory compliance.
 
 Guardrail 1 creates the foundation for your organisation’s use of AI. Set up the required accountability processes to guide your organisation’s safe and responsible use of AI, including:
 
@@ -756,9 +754,7 @@ Key concept: A key risk is the over-reliance end users place on outputs or other
 
 Procurement guidance for guardrail 2: Understand your suppliers’ risk management processes. Make sure you have sufficient information about the system, such as identified risks and potential harms for the intended use of the system, to conduct your own risk and impact management process.39 Reflect agreed processes in your contracts.
 
-## 3. Guardrail 3: Protect AI systems, and implement data governance measures to manage data quality
-
-and provenance.
+## 3. Guardrail 3: Protect AI systems, and implement data governance measures to manage data quality and provenance.
 
 You must have appropriate data governance, privacy and cybersecurity measures in place to appropriately protect and manage AI systems. These will differ depending on use case and risk profile. Organisations must account for the unique characteristics of AI systems such as data quality, data provenance and cyber vulnerabilities.
 
@@ -802,9 +798,7 @@ Key concept: You should understand and document your data sources, put in place 
 
 Procurement guidance for guardrail 3: Your suppliers must have appropriate data management (including data quality and data provenance), privacy, security and cybersecurity practices for the AI system or component.51 Reflect this in your contracts.
 
-## 4. Guardrail 4. Test AI models and systems to evaluate model performance and monitor the system
-
-once deployed.
+## 4. Guardrail 4. Test AI models and systems to evaluate model performance and monitor the system once deployed.
 
 Thoroughly test AI systems and AI models before you deploy them, and then monitor for potential behaviour changes or unintended consequences. Perform these tests according to the clearly defined acceptance criteria that considers the prior risk and impact assessment.
 
@@ -890,15 +884,11 @@ If an audit is necessary:
 
 Procurement guidance for guardrail 4: Clarify who is responsible and accountable for this monitoring and evaluation (between the supplier and the deployer). Regularly review with the accountable person and make sure each system remains fit for purpose. If the supplier is responsible for monitoring the AI system or its components, put an agreement in place.
 
-## 5. Guardrail 5: Enable human control or intervention in an AI system to
-
-achieve meaningful human oversight.
+## 5. Guardrail 5: Enable human control or intervention in an AI system to achieve meaningful human oversight.
 
 It is critical to ensure human control or intervention mechanisms are in place as needed across the AI system lifecycle. AI systems are generally made up of multiple components supplied by different parties in the supply chain. Meaningful human oversight will result in appropriate intervention and reduce the potential for unintended consequences and harms.
 
-5.1.
-
-Accountability and human control to achieve meaningful human oversight.
+### 5.1. Accountability and human control to achieve meaningful human oversight
 
 Commit to assigning accountability to a suitably competent and empowered person in the organisation for each AI system and product.
 
@@ -920,9 +910,7 @@ Commit to assigning accountability to a suitably competent and empowered person 
 
 Procurement guidance for guardrail 5: Develop a plan with your supplier for governance and oversight over the AI system or component, with clear responsibilities between parties. Reflect this in your contracts.69
 
-## 6. Guardrail 6: Inform end-users regarding AI-enabled decisions, interactions with AI and AI-generated
-
-content.
+## 6. Guardrail 6: Inform end-users regarding AI-enabled decisions, interactions with AI and AI-generated content.
 
 Create trust with users. Provide people, society and other organisations with confidence that you are using AI safely and responsibly. Disclose when you use AI, its role and when content is AI-generated. Disclosure can occur in many ways. It is up to the organisation to identify the most appropriate mechanism based on the use case, stakeholders and technology used.
 
@@ -964,9 +952,7 @@ Key concept: Certain internal and external stakeholders may require different le
 
 Procurement guidance for guardrail 6: Agree with your supplier the transparency mechanisms required for the AI system or component.76 Reflect this in contracts and project documentation.
 
-## 7. Guardrail 7: Establish processes for people impacted by AI systems to
-
-challenge use or outcomes.
+## 7. Guardrail 7: Establish processes for people impacted by AI systems to challenge use or outcomes.
 
 Organisations must provide processes for users, organisations, people and society impacted by AI systems to challenge how AI is used, contest decisions, outcomes or interactions that involve AI.
 
@@ -986,9 +972,7 @@ Commit to creating processes for stakeholders of AI systems to understand and ch
 
 Procurement guidance for guardrail 7: Agree with your supplier a process to raise issues and contested outcomes. Reflect this in contracts and project documentation.
 
-## 8. Guardrail 8: Be transparent with other organisations across the AI supply chain about data, models and systems to help them effectively
-
-address risks.
+## 8. Guardrail 8: Be transparent with other organisations across the AI supply chain about data, models and systems to help them effectively address risks.
 
 Organisations must provide information to organisations downstream in the AI supply chain for them to understand the components of the AI system, how it was built and to understand and manage the risk of the use of the AI system.
 
@@ -1040,9 +1024,7 @@ Key concept: When using open-source AI models, deployers need to consider which 
 
 Procurement guidance for guardrail 8: Agree with your supplier roles, responsibilities and information flows across the lifecycle of the AI system from initial implementation through to end of life.Reflect in contracts and project documentation.
 
-## 9. Guardrail 9: Keep and maintain records to allow third parties to
-
-assess compliance with guardrails.
+## 9. Guardrail 9: Keep and maintain records to allow third parties to assess compliance with guardrails.
 
 Organisations must maintain records to demonstrate that they have implemented and are complying with the guardrails, this includes maintaining an AI inventory and consistent AI system documentation. These records may be required to input into any future conformity assessments mandated for use in high-risk settings.
 
@@ -1094,9 +1076,7 @@ Commit to understanding and documenting critical information about each AI syste
 
 Procurement guidance for guardrail 9: Work with your supplier to understand and document the expected use, capabilities and limitations of the AI system or component84. This should include technical details of the system and the data used in relation to the AI system (including the use of third-party data). Integrate expectations into contract, including ongoing scheduled reviews.
 
-## 10. Guardrail 10: Engage your stakeholders and evaluate their needs and circumstances, with a focus on safety, diversity, inclusion
-
-and fairness.
+## 10. Guardrail 10: Engage your stakeholders and evaluate their needs and circumstances, with a focus on safety, diversity, inclusion and fairness.
 
 It is critical for AI deployers to identify and engage with stakeholders for the life the AI system. It helps in identifying potential harms and understanding if there are any potential or real unintended consequences from the use of AI. Deployers must identify potential bias, minimise negative effects of unwanted bias, ensure accessibility and remove ethical prejudices from the AI solution or component.
 
@@ -1160,9 +1140,7 @@ Key concept: Organisations need to evaluate the potential impact of unwanted bia
 
 Procurement guidance for guardrail 10: Work with your supplier to undertake AI impact assessments and understand the needs of system stakeholders.91 Know suppliers’ actions to understand potential bias, minimise negative effects of unwanted bias, implement accessibility and remove ethical prejudices from the AI solution or component.92 Ensure you haven’t reintroduced any unwanted bias during deployment.
 
-## Part 4: Applying and adopting the standard
-
-through examples.
+## Part 4: Applying and adopting the standard through examples.
 
 The range of applications of AI is effectively infinite. While we can’t give guidance on how the standard might apply to every use case, we can use examples to illustrate how you can use the guardrails to manage the risks and benefits of a specific AI system.
 

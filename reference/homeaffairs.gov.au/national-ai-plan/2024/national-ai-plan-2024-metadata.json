@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 69-page PDF (https://web.archive.org/web/20240905133137id_/https://apo.org.au/sites/default/files/resource-files/2024-09/apo-nid328206.pdf) locally via PyMuPDF (125,427 chars). Parsed 78 sections (40 with explicit section identifiers)."
+    "notes": "Extracted 69-page PDF (https://web.archive.org/web/20240905133137id_/https://apo.org.au/sites/default/files/resource-files/2024-09/apo-nid328206.pdf) locally via PyMuPDF (125,427 chars). Parsed 79 sections (41 with explicit section identifiers)."
   },
   "extraction_history": [
     {

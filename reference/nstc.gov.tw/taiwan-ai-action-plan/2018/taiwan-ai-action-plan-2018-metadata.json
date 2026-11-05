@@ -43,6 +43,6 @@
   "notes": "Official primary full-text document for secid:reference/nstc.gov.tw/taiwan-ai-action-plan@2018 (https://www.nstc.gov.tw/) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
   "desired_end_state": {
     "state": "metadata-only",
-    "reason": "source-unavailable"
+    "reason": "pending-acquisition"
   }
 }

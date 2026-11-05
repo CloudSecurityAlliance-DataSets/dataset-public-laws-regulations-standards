@@ -807,13 +807,14 @@ def ensure_hierarchical_headings(md: str, doc_title: str, doc_desc: str, is_anne
                     nxt
                     and not nxt.startswith(("#", "["))
                     and 3 <= len(nxt) <= 220
-                    and not nxt.endswith(".")
+                    and (not nxt.endswith(".") or (re.match(r"^\d{1,2}(?:\.\d{1,2})+\.?$", num_tok) and len(nxt) <= 120))
                     and re.match(r"^[A-ZÄÖÜÉÈÊÀÁÍÓÚÑ]", nxt)
                 ):
+                    clean_nxt = nxt.rstrip(".") if nxt.endswith(".") else nxt
                     if h_pref:
-                        lines.append(f"{h_pref} {num_tok} {nxt}")
+                        lines.append(f"{h_pref} {num_tok} {clean_nxt}")
                     else:
-                        lines.append(f"{num_tok} {nxt}")
+                        lines.append(f"{num_tok} {clean_nxt}")
                     idx = j + 1
                     continue
         lines.append(raw_lines[idx])
@@ -1062,6 +1063,18 @@ def postprocess_markdown_structure(md: str, doc_title: str) -> str:
     i = 0
     while i < len(blocks):
         b = blocks[i]
+        if re.match(r"^\d{1,2}(?:\.\d{1,2})+\.$", b) and i + 1 < len(blocks):
+            nxt = blocks[i + 1].strip()
+            if (
+                "\n" not in nxt
+                and not nxt.startswith(("#", "["))
+                and 3 <= len(nxt) <= 120
+                and re.match(r"^[A-ZÄÖÜÉÈÊÀÁÍÓÚÑ]", nxt)
+            ):
+                lvl = min(6, b.rstrip(".").count(".") + 2)
+                merged.append(f"{'#' * lvl} {b} {nxt.rstrip('.')}")
+                i += 2
+                continue
         m = re.match(r"^(#{2,6})\s+(.+?)\s*$", b)
         if m and i + 1 < len(blocks):
             hashes, txt = m.group(1), m.group(2).strip()
@@ -1077,15 +1090,31 @@ def postprocess_markdown_structure(md: str, doc_title: str) -> str:
                 if (
                     "\n" not in nxt
                     and len(nxt) <= 220
-                    and not nxt.endswith(".")
+                    and (not nxt.endswith(".") or (re.match(r"^\d{1,2}(?:\.\d{1,2})+\.?$", txt) and len(nxt) <= 120))
                     and re.match(r"^[A-ZÄÖÜÉÈÊÀÁÍÓÚÑ]", nxt)
                 ):
-                    merged.append(f"{hashes} {txt} {nxt}")
+                    clean_nxt = nxt.rstrip(".") if nxt.endswith(".") else nxt
+                    merged.append(f"{hashes} {txt} {clean_nxt}")
                     i += 2
                     continue
             # Unnumbered heading followed immediately by a plain block starting with a lowercase letter -> sentence wrap!
             if not sec_id and not nxt.startswith("#") and re.match(r"^(?:[a-z]|\d+(?:\.\d+)?\s+[a-z])", nxt):
                 merged.append(f"{txt} {nxt}")
+                i += 2
+                continue
+            # Numbered heading without terminal sentence punctuation followed by a short lowercase wrapped continuation line -> join into heading
+            if (
+                sec_id
+                and not txt.endswith((":", ".", ";", "?", "!"))
+                and "list of " not in txt.lower()
+                and not nxt.startswith("#")
+                and "\n" not in nxt
+                and re.match(r"^[a-z]", nxt)
+                and not re.match(r"^[a-h]\.\s", nxt)
+                and not nxt.endswith(";")
+                and len(nxt.split()) <= 10
+            ):
+                merged.append(f"{hashes} {txt} {nxt}")
                 i += 2
                 continue
             # Heading ending with a dangling preposition/article followed by a short title phrase -> join into heading
@@ -1144,11 +1173,24 @@ def postprocess_markdown_structure(md: str, doc_title: str) -> str:
                 fixed_rev[idx_b] = "#" + b
     blocks = fixed_rev
 
-    # Pass 3b: Promote `### Chapter N` / `### Part N` / `### Pillar N` to `##` when no numbered `##` exists
+    # Pass 3b: Demote single-number headings inside a Figure diagram block (e.g. ITU NCS Guide 2025 Figure 4)
+    in_figure_callout = False
+    for idx_b, b in enumerate(blocks):
+        if re.match(r"^Figure\s+\d+\s*[-–—:]", b, re.I):
+            in_figure_callout = True
+        elif in_figure_callout:
+            if re.match(r"^#{2,6}\s+(?:\d{1,2}\.\d{1,2}|Section\s+\d+|Chapter\s+\d+|Part\s+\d+)\b", b, re.I) or "guardrail" in b.lower():
+                in_figure_callout = False
+            elif not b.startswith("#") and b.endswith(".") and len(b) >= 40:
+                in_figure_callout = False
+            elif re.match(r"^#{2,6}\s+\d{1,2}\.\s+", b):
+                blocks[idx_b] = re.sub(r"^#{2,6}\s+", "", b)
+
+    # Pass 3c: Promote `### Chapter N` / `### Part N` / `### Pillar N` / `### Section N` to `##` when no numbered `##` exists
     if not any(b.startswith("## ") and parse_heading(b[3:].strip())[0] != "" for b in blocks):
-        if any(re.match(r"^###\s+(?:Chapter|Part|Pillar)\s+(?:[IVXLCDM]+|\d+)\b", b, re.I) for b in blocks):
+        if any(re.match(r"^###\s+(?:Chapter|Part|Pillar|Section)\s+(?:[IVXLCDM]+|\d+)\b", b, re.I) for b in blocks):
             for idx_b, b in enumerate(blocks):
-                if re.match(r"^###\s+(?:Chapter|Part|Pillar)\s+(?:[IVXLCDM]+|\d+)\b", b, re.I):
+                if re.match(r"^###\s+(?:Chapter|Part|Pillar|Section)\s+(?:[IVXLCDM]+|\d+)\b", b, re.I):
                     blocks[idx_b] = b[1:]  # `### Chapter N` -> `## Chapter N`
 
     # Pass 4: Merge or resolve consecutive headings that have NO intervening body prose
@@ -1572,7 +1614,7 @@ def extract_edition(item: dict) -> dict:
             tool_str="",
             extraction_notes=unavail_note,
             end_state="metadata-only",
-            end_reason="source-unavailable",
+            end_reason="pending-acquisition",
         )
         return {
             "secid": item["secid"],
