@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/europa.eu/strategic-compass@2022",
+  "name": "A Strategic Compass for Security and Defence (2022)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2022",
+  "publication_id": "strategic-compass-2022",
+  "owner": "European Union",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Adopted by the Council of the European Union on March 21, 2022 (ST 7371/22). Overarching European Union security and defence strategy adopted by the Council of the European Union on March 21, 2022 and endorsed by the European Council on March 25, 2022, setting an action plan through 2030 across four pillars: Act, Secure (including the EU Cyber Defence Policy and Hybrid Toolbox), Invest, and Partner.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by European Union (europa.eu) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for European Union (europa.eu).",
+  "license": {
+    "spdx": "LicenseRef-EU-Reuse-Decision-2011-833",
+    "Grouping": "Permissive",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
+    "publicly_redistributable": true,
+    "license_text_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011D0833",
+    "note": "European Union official publication (europa.eu); reuse authorized with attribution under Commission Decision 2011/833/EU.",
+    "notes": "European Union official publication (europa.eu); reuse authorized with attribution under Commission Decision 2011/833/EU."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://data.consilium.europa.eu/doc/document/ST-7371-2022-INIT/en/pdf",
+    "textUsed": "https://data.consilium.europa.eu/doc/document/ST-7371-2022-INIT/en/pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2022-03-21",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 47-page PDF (https://data.consilium.europa.eu/doc/document/ST-7371-2022-INIT/en/pdf) locally via PyMuPDF (141,307 chars). Parsed 8 sections (5 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

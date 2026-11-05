@@ -1,0 +1,266 @@
+[
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "New Zealand's Cyber Security Strategy 2019",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "New Zealand’s cyber security strategy 2019",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Enabling New Zealand to thrive online",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "2019 © Crown Copyright\n\nThis work is licensed under the Creative Commons Attribution 4.0 New Zealand licence. You are free to copy, distribute and adapt the work, as long as you attribute the work to the Department of the Prime Minister and Cabinet (DPMC) and follow any other licence terms. To see a copy of this licence, visit creativecommons.org/licenses/by/4.0\n\nPublished by the Department of the Prime Minister and Cabinet (DPMC), July 2019. dpmc.govt.nz • information@dpmc.govt.nz\n\nISBN 978-0-947520-12-0 (print)\n\nISBN 978-0-947520-11-3 (online)\n\nInternet service provider"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Ministerial foreword",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Cyber security is fundamental to a robust and thriving society",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Being connected online has greatly benefited\n\nNew Zealand and New Zealanders. We are more\n\nclosely connected to global culture and the\n\ninternational economy than ever before. Internet\n\nconnectivity brings New Zealand to the world,\n\nunderpins our prosperity, and helps to negate the\n\ndownsides of distance.\n\nNew Zealanders can enjoy the benefits of this\n\nconnectedness in their homes and neighbourhoods,\n\nand this connectedness is increasingly important to\n\nindividuals and communities.\n\nThe benefits of these global connections will continue\n\nto increase. Being able to work, play and interact\n\nsafely online is a critical enabler for our economic,\n\nsocial and cultural development – New Zealand is\n\nbecoming a digital nation.\n\nAs the benefits increase, so does our dependence\n\non a free, open and secure internet and trusted\n\nunderlying infrastructure and technology. Almost\n\nevery aspect of our daily life now depends on the\n\ninternet and information technology. This ranges\n\nfrom the basic functioning of New Zealand’s economy\n\nand society – from our jobs, banks, schools – to the\n\ndelivery of government and telecommunications,\n\nand electricity services. While around 90% of\n\nNew Zealand’s population are active internet users,\n\neveryone depends on the internet.\n\nOur children communicate with us and their peers\n\nonline, and their schools use internet as a vital tool.\n\nWe remain close to friends at a distance and whānau\n\nonline, we share our news, consume our news and\n\nshop online. Importantly, many communities are now\n\ninternet enabled: these ongoing connections are\n\nincreasingly vital in our lives.\n\nWe need to know that our systems will keep running,\n\nthat our personal and commercial information is\n\nsafe, and that we can trust the information that we\n\nuse to make decisions.\n\nGood cyber security is therefore essential. Cyber\n\nsecurity is not simply an IT issue – it’s critical for every\n\nbusiness and for every person living, working or\n\nvisiting New Zealand. New Zealand’s cyber security\n\npolicy is therefore about making the most of\n\nthe opportunities that the internet provides and\n\nprotecting the things most important to us.\n\nBut with new opportunities come evolving\n\ncyber security risks. Artificial intelligence (AI)\n\nand cognitive technologies are becoming\n\nincreasingly commonplace, along with a range of\n\ninternet-connected everyday devices. The arrival\n\nof 5G wireless networks is close and quantum\n\ncomputing is on the horizon.\n\nThese new technologies will be disruptive. That will\n\nallow us to innovate, but may also expose us to\n\ngreater risk. These technological changes are not\n\nhappening in a vacuum: the geopolitical picture has\n\nalso shifted, with a greater range of state actors\n\nmaking the most of cyber-enabled tools to steal\n\ninformation, spread disinformation and launch\n\nattacks. New Zealand’s response to the evolving risk\n\nneeds to be commensurate with our dependence on\n\ninternet connectivity.\n\nThis strategy emphasises that the government needs\n\nto work with individuals, businesses, community\n\norganisations and the private sector, in order to\n\nminimise harm and disruption, and make the most of\n\ntechnological advances.\n\nI look forward to working with you all to achieve our\n\nvision of New Zealand being confident and secure\n\nin the digital world – enabling New Zealand and all\n\nNew Zealanders – to thrive online.\n\nHon Kris Faafoi\n\nMinister of Broadcasting,\n\nCommunications and\n\nDigital Media"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Challenges to maintaining cyber security",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Cyber-enabled threats to our security continue to\n\ngrow in number, scope and scale. Cyber criminals\n\nand malicious state-backed actors are targeting\n\nNew Zealand now. Access is being sought to our\n\npersonal information, bank accounts, intellectual\n\nproperty and nationally important data on a\n\n24/7 basis. From home-users to businesses, to\n\ngovernment to critical national infrastructure,\n\neveryone using the internet faces a constant and\n\nevolving threat. Potential harms include financial\n\nlosses, reputational damage, loss of intellectual\n\nproperty and disruption to critical services.\n\nConstant vigilance and active protection of our\n\nsensitive data and networks is no longer optional.\n\nWe also need to be ready to detect, respond to, and\n\nrecover from any intrusions."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Technology is evolving quickly…",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "The nature and consequences of cyber incidents\n\ncan vary widely, and, as new technologies are\n\ndeveloped and adopted, new threats will emerge.\n\nResponding to these threats in the context of\n\nrapid technological change will require us to adapt\n\nquickly. The exponential increase in the use of\n\nIoT (Internet of Things) devices is an example of\n\nhow the rush to deploy new products and services\n\nhas led to the re-emergence of security issues that\n\nhad been largely addressed in mature technology\n\nsectors. In October 2016, millions of IoT devices\n\nwere taken over to form the Mirai botnet, which was\n\nused to launch a massive denial of service attack that\n\ndisrupted the internet for almost the entire eastern\n\nUnited States.\n\nCyber security is a complex problem – it’s about\n\npeople, policies, technology, trust and reliability. It is\n\nnot always possible to predict what will happen and\n\nat what pace.\n\nThe emergence of AI is an example of a technological\n\nshift where the impact for cyber security is largely\n\nunknown. The potential national security issues\n\nposed by the adoption of 5G technology present new\n\nand different risks from that of previous generations\n\nof mobile infrastructure. Cyber attacks can also have\n\nunintended consequences: the NotPetya malware*\n\ninitially only targeted Ukrainian entities but ended up\n\nspreading to cause damage and disruption across\n\nthe globe."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "…And threat actors are on the increase and becoming more sophisticated…",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "The number of malicious actors seeking to do\n\nharm on the internet also continues to rise. Threat\n\nactors of all kinds are increasingly bold, brazen and\n\ndisruptive. As more people use and do business\n\non the internet, the pay-offs from cyber and\n\ncyber-enabled crimes will also increase, attracting\n\ngreater numbers of cybercriminals. Almost every\n\ncyber attack is a criminal act, regardless of who is\n\nbehind it.\n\nCyber criminals and other threat actors are\n\nbecoming more sophisticated. More and more,\n\nthreat actors from individuals to nation states have\n\naccess to the same tools and techniques. In 2017,\n\nthe WannaCry outbreak caused major international\n\ndisruption, including shutting down computers in the\n\nUnited Kingdom’s National Health Service. WannaCry\n\nwas attributed to North Korean actors by a number\n\nof New Zealand’s international partners, highlighting\n\nhow nation states can use cybercriminal tools, and\n\nvice versa.\n\n* NotPetya malware:  a particular piece of malicious software that spread across the internet and encrypted (locked up) files on an infected computer system. A number of states have attributed this malware to Russian state actors.\n\nCyber risks are growing in an increasingly contested\n\ninternational order. In the context of growing great\n\npower competition and increasing challenges to the\n\ninternational rules-based order, state-sponsored\n\nactors are using cyber tools for geopolitical\n\nadvantage. The number of state-sponsored cyber\n\noperations is rising and more governments are\n\nopenly developing offensive cyber capabilities.\n\nCyber tools have been used by state-sponsored\n\nactors to steal sensitive commercial information,\n\nto disrupt critical systems and to interfere with\n\ndemocratic processes."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "…So New Zealand must be ready to deter and respond to threats",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "New Zealand must stand up for responsible state\n\nbehaviour in cyberspace, and advocate for an\n\ninternational rules-based order that promotes\n\na stable and peaceful online environment.\n\nNew Zealand must also be ready to deter and\n\nrespond to cyber threats when they arise.\n\nAs all nations improve their cyber security, and where\n\nusers respond to one cyber security challenge,\n\nmalicious actors will seek new vulnerabilities and\n\nopportunities. New Zealand must stay towards\n\nthe front of the pack so that it does not become a\n\ntarget of choice – we want to erect barriers against\n\nmalicious actors.\n\nThere is no simple way to articulate the cyber\n\nsecurity risk to New Zealand, because the threats\n\nare so diverse. The challenges for home-users\n\nare not necessarily the same challenges that our\n\nlargest companies face. But it is clear that trust\n\nand confidence in the internet and our internet\n\ninfrastructure is vital for New Zealand and\n\nNew Zealanders: for our economy, for our society,\n\nand for our national security. We all need to take\n\naction to maintain that trust."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Case study: WannaCry",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "WannaCry ransomware spread across the\n\nglobe in May 2017 in one of the most disruptive\n\ncyber attacks to date.\n\nRansomware is a kind of malicious software that\n\nlocks up the files on a computer system until a\n\nsum of money is paid.\n\nWannaCry affected over 200,000 computers in\n\nat least 100 countries. The United Kingdom’s\n\nNational Health Service was particularly badly\n\naffected, with systems down in hospitals across\n\nthe United Kingdom, forcing the cancellation of\n\nnearly 20,000 hospital appointments.\n\nThe attack also affected major companies,\n\nincluding French car manufacturer Renault and\n\ninternational shipping company FedEX.\n\nIn December 2017, New Zealand publicly\n\nhighlighted its close partners’ attribution of the\n\nattack to North Korea. The United States has\n\nsubsequently charged a North Korean hacker\n\nin connection with this attack."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "What have we done so far?",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "New Zealand has issued two previous cyber security\n\nstrategies in response to this challenge. The 2011\n\nstrategy outlined the Government’s response to the\n\ngrowing threat and established the National Cyber\n\nSecurity Centre and the National Cyber Policy Office.\n\nThe 2015 Cyber Security Strategy acknowledged\n\nthat technology was transforming New Zealand and\n\noutlined a vision of a secure, resilient and prosperous\n\nonline New Zealand.\n\nSince 2015, a range of actions have been taken to\n\nadvance that vision, including the establishment\n\nof CERT NZ to respond to cyber security threats in\n\nNew Zealand, New Zealand’s first Cyber Security\n\nSummit, the Government Communication Security\n\nBureau’s (GCSB) deployment of CORTEX services\n\nto nationally significant organisations (preventing\n\n$67 million of financial harm in the first 2 years of\n\noperation), GCSB’s development of Malware-Free\n\nNetworks, the designation of the Director-General\n\nof the GCSB as the Government Chief Information\n\nSecurity Officer, the introduction of greater\n\ncybercrime training for New Zealand Police, and the\n\ndevelopment of a cyber credentials scheme to help\n\nsmall businesses improve their cyber security.\n\nBut the world has shifted since 2015 and our\n\nresponse has to adapt to these changes.\n\nSocial engineering is one of the most commonly used techniques among cyber criminals.\n\nFor example, in a recent case, an employee of\n\na finance company was deceived into providing\n\ncredentials, after responding to a phone call\n\nfrom a person claiming to be from the helpdesk.\n\nThe criminal then used the employee’s login\n\ndetails and emailed the company’s customers,\n\nasking them to pay invoices from the company\n\nto the criminal’s bank account instead. Several\n\ncustomers did so before the breach was\n\nuncovered. The account was closed down, but\n\nnot before several customers had paid a total\n\namount in the $100,000s.\n\nIn cases like this, no one “hacked” into the\n\ncompany’s network – they breached the\n\ncompany’s security by tricking the employee.\n\nThe employee lacked cyber security training,\n\nand were unaware of the threats and the\n\nmeasures needed to protect themselves and\n\ntheir company from this kind of crime."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Cyber threats by the numbers",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "CERT NZ 2018 Summary Report",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "CERT NZ supports businesses,\n\norganisations and individuals affected by\n\ncyber security incidents"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "National Cyber Security Centre: Cyber Threat Report 2017–2018",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "The NCSC helps New Zealand’s most significant\n\npublic and private sector organisations\n\nprotect themselves 3445"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "incidents reported in 2018 — OVER",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "347\n\nincidents recorded from 1 July 2017 to"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "$14.1m",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "in total financial loss — Most reported incidents: phishing and credential harvesting (stealing people’s IDs and passwords)\n\n30 June 2018"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "39%",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "of those incidents linked to state-sponsored actors"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "What does this mean for New Zealand?",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "New Zealanders and their businesses are losing money every day.\n\nPeople’s accounts and personal data are being compromised.\n\nState-sponsored actors are targeting organisations that are significant to\n\nNew Zealand."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Our vision New Zealand is confident and secure in the digital world: Enabling New Zealand to thrive online",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "This strategy has a vision that New Zealand is confident and secure in the digital world – it is about enabling\n\nNew Zealand to thrive online. We want New Zealanders to make the most of the opportunities provided\n\nby an increasingly connected world, without suffering harm or loss. The vision acknowledges that while\n\nconnectivity brings risks, we can take action to minimise those risks, and that connectivity has become vital for\n\nNew Zealand’s society and economy.\n\nIt is an opportunity for the New Zealand Government to take a lead in responding to cyber risks but also\n\nfor us to achieve this vision as a nation. One of the priority areas in this strategy is to develop cyber security\n\naware and active citizens. There are actions we can take collectively to reduce the risk for everyone, and\n\nresponding to emerging issues requires everyone to take action: individuals, businesses, non-government\n\norganisations, and government. This strategy outlines the areas in which we will prioritise action and how we\n\nwill work together."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Guiding principles",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "This strategy sets out five priority areas for action to deliver the vision. To deepen collaboration and\n\nto take effective collective action in each of these areas, we will work in a way that:\n\n• builds and maintains trust\n\n• is people-centric, respectful, and inclusive\n\n• balances risk with being agile and adaptive\n\n• uses our collective strengths to deliver better results and outcomes\n\n• is open and accountable.\n\nThese principles are a practical way of giving effect to the values that underpin the strategy and\n\nto get more effective results.\n\nThese principles acknowledge that cyber security is not a ‘problem’ the government can fix, it is everybody’s\n\nresponsibility and means we need to work together in different ways to get better results. These principles\n\nwere designed using feedback from the engagement as the strategy developed."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Our values",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "This strategy signals the Government’s commitment\n\nto enabling New Zealand and New Zealanders\n\nto thrive online. But we can only achieve that if\n\nwe work together. New Zealand’s small scale and\n\nrelatively simple telecommunications and network\n\nstructure enables the public and private sector to\n\nwork closely together to embed a cyber security\n\nculture, and to respond to evolving cyber risks.\n\nNew Zealand is a modern, progressive, safe\n\nand internationally-collaborative country.\n\nOur cyber-security system is maturing.\n\nNew institutions like CERT NZ have been\n\nestablished and all our government agencies\n\nwith cyber security responsibilities are building\n\nsignificant connections across the system,\n\nboth domestically and internationally."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Partnerships are crucial",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "The government has a leadership role to play\n\nin cyber security – but not on its own. Close\n\npartnerships are required with the private sector,\n\nnon-government organisations and the international\n\ncommunity. Businesses drive the New Zealand\n\neconomy and depend on the internet and networked\n\ntechnologies. They must protect the information that\n\nis critical to their commercial success. The private\n\nsector and technical community have considerable\n\ncyber security expertise, and we need to work\n\nwith international partners in order to combat\n\ntrans-national threats."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "People are secure and human rights are respected online",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "The openness of the internet is part of its unique\n\nvalue – allowing for unrestricted participation and\n\nthe free flow of information. People need to be able\n\nto operate in the digital world confident that their\n\nprivacy will be protected and that their private and\n\nfinancial details will be protected. They should be\n\nable to engage online without suffering harm or\n\nunlawful interference, and be able to pursue criminal\n\nand consumer redress when things go wrong.\n\nHuman rights should be protected online as they are\n\noffline. International and domestic law similarly apply\n\nonline as offline. This includes the right to freedom of\n\nexpression, and the protection of privacy, as set out\n\nin New Zealand law and existing international law."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Economic growth is enhanced",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Strong cyber security practices result in businesses\n\nremaining productive, profitable and transparent to\n\ncustomers and shareholders. New Zealand will be\n\nrecognised as a desirable place to do business, store\n\ndata, and invest. Information and communication\n\ntechnologies and enhanced connectivity will continue\n\nto boost economic growth, and minimise costs of\n\ncyber insecurity. New Zealand and New Zealand\n\nbusinesses can benefit from the growth of the\n\ndigital economy and new technologies can help\n\ndrive innovation."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "National security is protected",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Cyber threats to New Zealand – particularly\n\nstate-sponsored espionage, cyber terrorism, theft\n\nof intellectual property from government and\n\ncritical infrastructures – are national security risks.\n\nUpholding New Zealand’s national security in the face\n\nof this threat is a fundamental part of a successful\n\nstrategy. Protecting our national security requires\n\nus to be adaptable, resilient, and prepared to\n\nmanage uncertainty."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Delivering the vision Our five priority areas to improve cyber security (2019–2023)",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "The following sections provide an overview of the\n\nfive priority areas for this strategy and the actions\n\nthat we will take to improve New Zealand’s cyber\n\nsecurity, allowing us to make the most of the\n\ndigital world.\n\nThe cyber security landscape will continue to change\n\nwith new technologies, risks and opportunities\n\nemerging. Predicting the future will not get easier,\n\nso our ability and willingness to adapt to change and\n\ncollaborate is critical."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Cyber security aware and active citizens — Strong and capable cyber security workforce and ecosystem — Internationally active",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "An annual work programme will accompany the\n\nstrategy. The work programme will outline a range\n\nof actions to advance each of these priority areas.\n\nThe responsible Minister will release a public annual\n\nreport on progress under each of the priority areas.\n\nResilient and responsive New Zealand — Proactively tackle cybercrime"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Cyber security aware and active citizens",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "This priority area is about building a culture in which people can operate securely online and know what to do\n\nif something goes wrong. Our work in this area will focus on:\n\n• practical, targeted and regular awareness campaigns to build\n\nawareness and resilience among different groups of people\n\n• making it easier for everybody to report cyber incidents and\n\nget help from relevant government agencies\n\n• increasing the availability of educative tools so people can be\n\nsecure and safe online\n\n• increasing efforts to educate vulnerable users,\n\nsuch as the elderly and children, to prevent victimisation\n\n• sharing research so people can understand the threat and\n\nvulnerability landscape for their businesses, communities and families."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Strong and capable cyber security workforce and ecosystem",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "New Zealand needs to be able to rely on a strong cyber security workforce, capable of preventing, adapting to,\n\nand responding to threats. Our work in this area will focus on:\n\n• incentivising and increasing the supply of skilled cyber security workers\n\n• supporting the expansion of roles and opportunities for cyber security workers\n\n• incentivising the growth of the cyber security industry in New Zealand\n\n• supporting industry and professional organisations to promote responsible\n\nmanagement of cyber security across their organisations and workplaces\n\n• encouraging the development of a world-class cyber security academic\n\nresearch community\n\n• supporting high-quality cyber security research and encouraging links\n\nbetween academia and industry."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Internationally active",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "New Zealand’s interests will be advanced and protected through our international activity. We will continue\n\nto champion a free, open, secure internet. New Zealand’s voice in international discussions related to\n\ncyber issues will support the international rules-based order and promote peace and stability in cyberspace.\n\nNew Zealand considers that existing international law applies online as it does offline and supports the\n\ndevelopment and implementation of norms for responsible state behaviour to maintain a peaceful and\n\nstable online environment. Cooperation and dialogue on cyber issues is central to building confidence\n\nand understanding to reduce the risk of conflict. We will act bilaterally, regionally and globally to build trust\n\nin cyberspace.\n\nWe will respond to unacceptable behaviour in cyberspace and we will cooperate with others to prevent and\n\ndeter malicious activity that threatens peace and security.\n\nNew Zealand’s international engagement on cyber security issues will:\n\n• build clearly prioritised international partnerships and cooperation at\n\npolicy and operational levels\n\n• influence to support the rules-based international order and\n\na free, open, multi-stakeholder internet\n\n• prevent, detect, deter, and respond to malicious behaviour online\n\n• secure our neighbourhood by strengthening regional capacity-building,\n\nconfidence, and operational cooperation, including for law enforcement activities\n\n• contribute to New Zealand’s economic prosperity."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Resilient and responsive New Zealand",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "This priority area is about ensuring that New Zealand can resist cyber threats and that we have the tools\n\nand know-how to protect ourselves. The focus of this area is expanding from building resilience in significant\n\ninfrastructure to being able to respond to incidents across the system.\n\nThat wider system focus will include:\n\n• vigorously protecting New Zealand’s most important information infrastructures\n\n• supporting businesses, NGOs, community organisations, and individuals\n\nto be protected and resilient to major cyber incidents\n\n• using cyber tools and partnerships to further New Zealand’s interests,\n\nincluding national security and law enforcement activities\n\n• supporting critical national infrastructure organisations and ensuring\n\nthose organisations take responsibility for the security of their systems\n\n• improving the information security capabilities and resilience of the public sector."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Proactively tackle cybercrime",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Criminal activity will continue to adapt and the consequences will become more severe. Our response needs to\n\nmeet this challenge. New Zealand must proactively and collaboratively prevent, investigate, deter and respond\n\nto cybercrime, cyber-enabled crime and terrorist use of the internet. Work continues on implementing the\n\n2015 National Plan to Address Cybercrime, including consideration of accession to the Council of Europe\n\nConvention on Cybercrime (the Budapest Convention). We will also continue to work with others on issues\n\nrelated to encryption: ensuring that law enforcement can access the information it needs while balancing the\n\nrights of New Zealanders to protect their privacy and security.\n\nAny action to address online harms, such as the Christchurch Call to Action to Eliminate Terrorist and Violent\n\nExtremist Content Online, will be consistent with New Zealand’s wider cyber policy positions, including the importance\n\nof maintaining a free, open and secure internet and the application of international human rights law online. Key areas of focus will include\n\n• seeking Cabinet agreement to accede to the Budapest Convention\n\n• preventing cybercrime particularly for vulnerable groups\n\n• increasing support to people affected by cybercrime\n\n• encouraging reporting of cybercrime and improving sharing of information about cybercrimes\n\n• improving information-sharing between law enforcement and the financial sector to reduce victimisation\n\n• making the law fit-for-purpose to enable agencies to better manage and respond to cybercrime\n\n• investing more to contribute to international efforts to deter organised cybercrime at the source,\n\nbefore it affects our communities\n\n• raising our ability to respond to objectionable material and terrorist activity online\n\n• investing more in skilled people and resources to combat cybercrime and cyber-enabled crime."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Glossary",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "5G technology  5G is the 5th generation of mobile technology. It is likely to bring higher rates of data transmission, reliability, and connectivity.\n\nArtificial intelligence  A computerised system capable of simulating human decision making and learning, including performing cognitive functions associated with the human mind including learning and language.\n\nCredential harvesting  Collecting legitimate users’ usernames and passwords to gain access to target systems, for malicious purposes.\n\nCritical infrastructure/critical national infrastructure  Physical and digital assets, services, and supply chains, the disruption (loss, compromise) of which would severely impact the maintenance of national security, public safety, fundamental rights, and well-being of all New Zealanders.\n\nCyber attack Deliberate exploitation of information systems to cause harm.\n\nCyber incident  An event, whether intentional or not, that causes adverse consequences to an information system or its data.\n\nCyber security  Protecting people and their computers, networks, programs and data from unauthorised access, exploitation, or modification.\n\nCyber terrorism The use of computer systems in committing a terrorist act.\n\nCybercrime  Crimes that are committed through the use of computer systems, and are directed at computer systems. Examples include producing malicious software, denial of service attacks, and phishing.\n\nCyber-enabled crime  Crimes that are assisted, facilitated or escalated in scale by the use of technology. Examples are cyber-enabled fraud and the online distribution of child exploitation material.\n\nCyberspace  The internet and everything connected to it – the global network of interdependent information systems, telecommunications networks and information technology infrastructures.\n\nDistributed Denial of Service Attack (DDoS)  A cyber attack that stops users from accessing a service or resource, by overloading that service with requests.\n\nEncryption  The transformation of otherwise readable data into a form that conceals its original meaning, to prevent it from being known or used. Strong encryption is a fundamental element of good cyber security, which is increasingly critical to New Zealand’s national security and economic prosperity.\n\nInformation system/computer system  A computer system for the collection, organization, storage and communication of information.\n\nInternet of Things  Computing devices connected to the internet and embedded into everyday objects, enabling them to send and receive data.\n\nMalicious software/ malware  Software designed to infiltrate or damage a computer system. Examples include computer viruses, worms, Trojans, spyware, and adware.\n\nPhishing  Using fraudulent emails to persuade people to reveal confidential information, such as login or banking information.\n\nQuantum Computing  Whereas a classical computer works with ones and zeros, quantum computers have the advantage of using ones, zeros and “superpositions” of ones and zeros. This means they can perform calculations at a far greater rate than classical computers.\n\nRansomware  A type of malicious software that locks up the files on an information system until a ransom is paid.\n\nSoftware  The programs used by a computer, as well as other information that it relies on to operate.\n\n2019 © Crown Copyright\n\nPublished by the Department of the Prime Minister and Cabinet (DPMC), July 2019. dpmc.govt.nz • information@dpmc.govt.nz\n\nTech Services"
+  }
+]

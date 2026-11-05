@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/sgdsn.gouv.fr/strategie-nationale-ia@2021",
+  "name": "Stratégie nationale pour l'intelligence artificielle — 2e phase (2021)",
+  "acronym": "SNIA",
+  "alternate_names": [],
+  "version": "2021",
+  "publication_id": "strategie-nationale-ia-2021",
+  "owner": "Secrétariat général de la défense et de la sécurité nationale",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Stratégie nationale pour l'intelligence artificielle — 2e phase (France 2030, November 8, 2021). France's national artificial intelligence strategy launched in March 2018 following the Villani mission ('Donner un sens à l'intelligence artificielle') and expanded in November 2021 under France 2030 to train AI talent, develop sovereign foundational models and embedded/frugal AI, and build national compute infrastructure.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Secrétariat général de la défense et de la sécurité nationale (sgdsn.gouv.fr) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Secrétariat général de la défense et de la sécurité nationale (sgdsn.gouv.fr).",
+  "license": {
+    "spdx": "etalab-2.0",
+    "Grouping": "Permissive",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.etalab.gouv.fr/licence-ouverte-open-licence/",
+    "note": "Licence Ouverte / Open Licence Version 2.0 (Etalab, République française).",
+    "notes": "Licence Ouverte / Open Licence Version 2.0 (Etalab, République française)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2021-11/dossier-de-presse---strat-gie-nationale-pour-l-intelligence-artificielle-2e-phase-14920.pdf",
+    "textUsed": "https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2021-11/dossier-de-presse---strat-gie-nationale-pour-l-intelligence-artificielle-2e-phase-14920.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2021-11-08",
+    "active": true,
+    "supersedes": "secid:reference/sgdsn.gouv.fr/strategie-nationale-ia@2018",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 28-page PDF (https://www.enseignementsup-recherche.gouv.fr/sites/default/files/2021-11/dossier-de-presse---strat-gie-nationale-pour-l-intelligence-artificielle-2e-phase-14920.pdf) locally via PyMuPDF (60,705 chars). Parsed 27 sections (0 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

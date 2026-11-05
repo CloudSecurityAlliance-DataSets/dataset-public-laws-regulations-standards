@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/nstc.gov.tw/taiwan-ai-action-plan@2025",
+  "name": "Taiwan AI Action Plan & AI New Ten Major Construction Initiatives (台灣AI行動計畫 / AI新十大建設) (2025)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2025",
+  "publication_id": "taiwan-ai-action-plan-2025",
+  "owner": "National Science and Technology Council (Taiwan)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Taiwan AI Action Plan & AI New Ten Major Construction Initiatives (台灣AI行動計畫 / AI新十大建設)",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by National Science and Technology Council (Taiwan) (nstc.gov.tw) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for National Science and Technology Council (Taiwan) (nstc.gov.tw).",
+  "license": {
+    "spdx": "OGDL-Taiwan-1.0",
+    "Grouping": "Permissive",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
+    "publicly_redistributable": true,
+    "license_text_url": "https://data.gov.tw/license",
+    "note": "Open Government Data License, version 1.0 (Taiwan).",
+    "notes": "Open Government Data License, version 1.0 (Taiwan)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.nstc.gov.tw/",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2025-06-01",
+    "active": true,
+    "supersedes": "secid:reference/nstc.gov.tw/taiwan-ai-action-plan@2023",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/nstc.gov.tw/taiwan-ai-action-plan@2025 (https://www.nstc.gov.tw/) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

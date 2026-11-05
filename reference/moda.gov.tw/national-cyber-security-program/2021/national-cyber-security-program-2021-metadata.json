@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/moda.gov.tw/national-cyber-security-program@2021",
+  "name": "National Cyber Security Program of Taiwan (國家資通安全發展方案) (2021)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2021",
+  "publication_id": "national-cyber-security-program-2021",
+  "owner": "Ministry of Digital Affairs — Administration for Cyber Security (Taiwan)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Official 2021 edition of National Cyber Security Program of Taiwan (國家資通安全發展方案) (National Cyber Security Program of Taiwan (國家資通安全發展方案) (2021)), published by Ministry of Digital Affairs — Administration for Cyber Security (Taiwan) (moda.gov.tw).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Ministry of Digital Affairs — Administration for Cyber Security (Taiwan) (moda.gov.tw) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Ministry of Digital Affairs — Administration for Cyber Security (Taiwan) (moda.gov.tw).",
+  "license": {
+    "spdx": "OGDL-Taiwan-1.0",
+    "Grouping": "Permissive",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
+    "publicly_redistributable": true,
+    "license_text_url": "https://data.gov.tw/license",
+    "note": "Open Government Data License, version 1.0 (Taiwan).",
+    "notes": "Open Government Data License, version 1.0 (Taiwan)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://moda.gov.tw/en/ACS/laws/strategy/642",
+    "textUsed": "https://openresearch-repository.anu.edu.au/server/api/core/bitstreams/1d8b7128-57ce-45b4-acf2-932eb11d689c/content",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2021-01-01",
+    "active": false,
+    "supersedes": null,
+    "supersededBy": "secid:reference/moda.gov.tw/national-cyber-security-program@2025",
+    "retiredFromActiveUse": "2025-04-01",
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 80-page PDF (https://openresearch-repository.anu.edu.au/server/api/core/bitstreams/1d8b7128-57ce-45b4-acf2-932eb11d689c/content) locally via PyMuPDF (121,861 chars). Parsed 45 sections (42 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

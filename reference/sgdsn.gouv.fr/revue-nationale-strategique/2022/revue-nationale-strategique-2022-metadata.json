@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/sgdsn.gouv.fr/revue-nationale-strategique@2022",
+  "name": "Revue nationale stratégique 2022",
+  "acronym": "RNS",
+  "alternate_names": [],
+  "version": "2022",
+  "publication_id": "revue-nationale-strategique-2022",
+  "owner": "Secrétariat général de la défense et de la sécurité nationale",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Revue nationale stratégique 2022 (published November 9, 2022).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Secrétariat général de la défense et de la sécurité nationale (sgdsn.gouv.fr) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Secrétariat général de la défense et de la sécurité nationale (sgdsn.gouv.fr).",
+  "license": {
+    "spdx": "etalab-2.0",
+    "Grouping": "Permissive",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.etalab.gouv.fr/licence-ouverte-open-licence/",
+    "note": "Licence Ouverte / Open Licence Version 2.0 (Etalab, République française).",
+    "notes": "Licence Ouverte / Open Licence Version 2.0 (Etalab, République française)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.sgdsn.gouv.fr/files/files/rns-2022-def.pdf",
+    "textUsed": "https://www.vie-publique.fr/files/rapport/pdf/287163.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2022-11-09",
+    "active": false,
+    "supersedes": "secid:reference/sgdsn.gouv.fr/revue-nationale-strategique@2017",
+    "supersededBy": "secid:reference/sgdsn.gouv.fr/revue-nationale-strategique@2025",
+    "retiredFromActiveUse": "2025-07-14",
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 60-page PDF (https://www.vie-publique.fr/files/rapport/pdf/287163.pdf) locally via PyMuPDF (118,858 chars). Parsed 70 sections (48 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

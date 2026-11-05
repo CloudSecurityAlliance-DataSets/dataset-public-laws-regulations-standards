@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/agid.gov.it/strategia-italiana-ia@2024-2026",
+  "name": "Italian Strategy for Artificial Intelligence 2024-2026",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2024-2026",
+  "publication_id": "strategia-italiana-ia-2024-2026",
+  "owner": "Agenzia per l'Italia Digitale",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Italian Strategy for Artificial Intelligence 2024-2026 (published July 18, 2024). Italy's national artificial intelligence strategy prepared for the Presidency of the Council of Ministers (Department for Digital Transformation) and AgID, setting national priorities across scientific research, public administration adoption, enterprise transformation, and education.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Agenzia per l'Italia Digitale (agid.gov.it) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Agenzia per l'Italia Digitale (agid.gov.it).",
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "Grouping": "Permissive",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
+    "publicly_redistributable": true,
+    "license_text_url": "https://creativecommons.org/licenses/by/4.0/",
+    "note": "Italian Government open publication (agid.gov.it); licensed under CC BY 4.0 (CAD Art. 52 / IODL 2.0).",
+    "notes": "Italian Government open publication (agid.gov.it); licensed under CC BY 4.0 (CAD Art. 52 / IODL 2.0)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.agid.gov.it/sites/agid/files/2024-07/Italian_strategy_for_artificial_intelligence_2024-2026.pdf",
+    "textUsed": "https://www.agid.gov.it/sites/agid/files/2024-07/Italian_strategy_for_artificial_intelligence_2024-2026.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2024-07-18",
+    "active": true,
+    "supersedes": "secid:reference/agid.gov.it/strategia-italiana-ia@2022-2024",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 38-page PDF (https://www.agid.gov.it/sites/agid/files/2024-07/Italian_strategy_for_artificial_intelligence_2024-2026.pdf) locally via PyMuPDF (128,180 chars). Parsed 66 sections (0 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

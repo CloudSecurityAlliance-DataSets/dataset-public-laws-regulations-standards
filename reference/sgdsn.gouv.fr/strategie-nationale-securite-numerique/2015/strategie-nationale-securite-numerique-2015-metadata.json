@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/sgdsn.gouv.fr/strategie-nationale-securite-numerique@2015",
+  "name": "Stratégie nationale pour la sécurité du numérique (2015)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2015",
+  "publication_id": "strategie-nationale-securite-numerique-2015",
+  "owner": "Secrétariat général de la défense et de la sécurité nationale",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Stratégie nationale pour la sécurité du numérique (October 16, 2015).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Secrétariat général de la défense et de la sécurité nationale (sgdsn.gouv.fr) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Secrétariat général de la défense et de la sécurité nationale (sgdsn.gouv.fr).",
+  "license": {
+    "spdx": "etalab-2.0",
+    "Grouping": "Permissive",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.etalab.gouv.fr/licence-ouverte-open-licence/",
+    "note": "Licence Ouverte / Open Licence Version 2.0 (Etalab, République française).",
+    "notes": "Licence Ouverte / Open Licence Version 2.0 (Etalab, République française)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://cyber.gouv.fr/",
+    "textUsed": "https://web.archive.org/web/20220111160749id_/https://www.ssi.gouv.fr/uploads/2015/10/strategie_nationale_securite_numerique_fr.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2015-10-16",
+    "active": false,
+    "supersedes": null,
+    "supersededBy": "secid:reference/sgdsn.gouv.fr/strategie-nationale-securite-numerique@2021",
+    "retiredFromActiveUse": "2021-02-18",
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 44-page PDF (https://web.archive.org/web/20220111160749id_/https://www.ssi.gouv.fr/uploads/2015/10/strategie_nationale_securite_numerique_fr.pdf) locally via PyMuPDF (73,364 chars). Parsed 27 sections (0 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

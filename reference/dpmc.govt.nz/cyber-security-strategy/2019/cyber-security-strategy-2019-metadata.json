@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/dpmc.govt.nz/cyber-security-strategy@2019",
+  "name": "New Zealand's Cyber Security Strategy 2019",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2019",
+  "publication_id": "cyber-security-strategy-2019",
+  "owner": "Department of the Prime Minister and Cabinet (New Zealand)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "New Zealand's Cyber Security Strategy 2019 (published July 2, 2019).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Department of the Prime Minister and Cabinet (New Zealand) (dpmc.govt.nz) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Department of the Prime Minister and Cabinet (New Zealand) (dpmc.govt.nz).",
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "Grouping": "Permissive",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
+    "publicly_redistributable": true,
+    "license_text_url": "https://creativecommons.org/licenses/by/4.0/",
+    "note": "Crown copyright New Zealand (dpmc.govt.nz); licensed under Creative Commons Attribution 4.0 International (NZGOAL / CC BY 4.0).",
+    "notes": "Crown copyright New Zealand (dpmc.govt.nz); licensed under Creative Commons Attribution 4.0 International (NZGOAL / CC BY 4.0)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.dpmc.govt.nz/sites/default/files/2019-07/Cyber%20Security%20Strategy.pdf",
+    "textUsed": "https://www.dpmc.govt.nz/sites/default/files/2019-07/Cyber%20Security%20Strategy.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2019-07-02",
+    "active": false,
+    "supersedes": "secid:reference/dpmc.govt.nz/cyber-security-strategy@2015",
+    "supersededBy": "secid:reference/dpmc.govt.nz/cyber-security-strategy@2026-2030",
+    "retiredFromActiveUse": "2026-01-01",
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 17-page PDF (https://www.dpmc.govt.nz/sites/default/files/2019-07/Cyber%20Security%20Strategy.pdf) locally via PyMuPDF (29,204 chars). Parsed 33 sections (0 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

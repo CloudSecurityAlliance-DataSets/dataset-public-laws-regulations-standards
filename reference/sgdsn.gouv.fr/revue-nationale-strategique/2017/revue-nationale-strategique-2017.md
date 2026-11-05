@@ -1,0 +1,1541 @@
+# Revue stratégique de défense et de sécurité nationale 2017
+
+## de défense et de sécurité nationale
+
+PREFACE DU PRESIDENT DE LA REPUBLIQUE . . . . . . . . . . . . . . . 5 AVANT-PROPOS DE LA MINISTRE DES ARMEES. . . . . . . . . . . . . . . 9 INTRODUCTION. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+
+PARTIE A UN CONTEXTE STRATEGIQUE EN DEGRADATION RAPIDE ET DURABLE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+
+1. Un système international contesté. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17 1. 1. Remise en cause de l’ordre multilatéral. . . . . . . . . . . . . . . . . . . . . 17 1. 2. Déconstruction de l’architecture de sécurité en Europe . . . . . . . . 19 1. 3. Tensions au sein de l’Union européenne. . . . . . . . . . . . . . . . . . . . . 19
+
+S O M M A I R E
+
+2. Une France exposée et engagée. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20 2. 1. Des engagements simultanés et inscrits dans la durée . . . . . . . . . 20 • Le territoire national directement attaqué. . . . . . . . . . . . . . . . . . . . . . . 21 • La bande sahélo-saharienne vulnérable . . . . . . . . . . . . . . . . . . . . . . . . 21 • Le Proche et Moyen-Orient déstabilisé . . . . . . . . . . . . . . . . . . . . . . . . 21 • Les flancs est et nord de l’Europe sous tension . . . . . . . . . . . . . . . . . . 23 2. 2. Des zones porteuses de risques . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24 • Méditerranée et rive sud . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24 • Balkans . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25 • Afrique subsaharienne . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25 • Asie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+
+3. Des fragilités multiples, facteurs d’aggravation des crises . . . . . . . . . 30 3. 1. Pressions démographiques et migratoires . . . . . . . . . . . . . . . . . . . 30 3. 2. Dérèglements climatiques . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30 3. 3. Risques sanitaires . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31 3. 4. Rivalités énergétiques . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31 3. 5. Criminalité organisée . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+
+4. Des ruptures technologiques et numériques . . . . . . . . . . . . . . . . . . . . . 33 4. 1.  Un double risque : décrochage technologique et nivellement opérationnel . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34 4. 2. Renforcement des menaces dans le cyberespace . . . . . . . . . . . . . . 35
+
+PARTIE B DE NOUVELLES FORMES DE GUERRE ET DE CONFLICTUALITE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+
+1. Durcissement et diffusion des menaces . . . . . . . . . . . . . . . . . . . . . . . . 37 1. 1. Enracinement et dissémination du terrorisme jihadiste . . . . . . . 37 1. 2. Accélération de la prolifération . . . . . . . . . . . . . . . . . . . . . . . . . . . 38 • Dissémination conventionnelle. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39 • Prolifération biologique et chimique . . . . . . . . . . . . . . . . . . . . . . . . . . 39 • Prolifération nucléaire . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40 • Multipolarité nucléaire . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41 1. 3. Le retour de la compétition militaire . . . . . . . . . . . . . . . . . . . . . . . 41 • Les problématiques du renouveau de la puissance russe . . . . . . . . . . . 42 • La Chine, une puissance aux ambitions globales . . . . . . . . . . . . . . . . 42
+
+2. Des espaces contestés . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43 • Les espaces maritimes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43 • L’espace aérien . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45 • L’espace exo-atmosphérique . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45 • L’espace numérique . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 46
+
+3. De l’ambiguïté à l’escalade . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47 • Ambiguïté et intimidation stratégique . . . . . . . . . . . . . . . . . . . . . . . . . 47 • Durcissement de l’environnement opérationnel . . . . . . . . . . . . . . . . . 48 • Des risques accrus d’escalade . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 50
+
+PARTIE C NOTRE STRATEGIE DE DEFENSE : AUTONOMIE STRATEGIQUE ET AMBITION EUROPEENNE . . . 52
+
+1. Intérêts de sécurité et autonomie stratégique . . . . . . . . . . . . . . . . . . . . 54 1. 1. Nos intérêts et priorités de sécurité . . . . . . . . . . . . . . . . . . . . . . . . 54 1. 2. Notre autonomie stratégique . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 56 • Cohésion et résilience . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 56 • Une diplomatie forte au service d’une approche globale . . . . . . . . . . 57
+
+2. Une ambition européenne exigeante et des responsabilités globales . 58 2. 1. La construction d’une autonomie stratégique européenne . . . . . . 58 • L’émergence d’intérêts de sécurité européens . . . . . . . . . . . . . . . . . . . 58 • Un renforcement pragmatique de la PSDC . . . . . . . . . . . . . . . . . . . . . 59
+
+• L’Alliance atlantique, élément clé de la sécurité européenne . . . . . . . 60 • Une nouvelle approche des coopérations de défense . . . . . . . . . . . . . . 61 2. 2.  Un cadre multilatéral renforcé, des partenariats stratégiques indispensables . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 63 • Notre engagement pour un multilatéralisme renforcé . . . . . . . . . . . . . 63 • Un approfondissement de nos partenariats stratégiques . . . . . . . . . . . 64
+
+3. Une ambition industrielle et technologique réaffirmée . . . . . . . . . . . . 66 3. 1. La nécessité d’une BITD forte . . . . . . . . . . . . . . . . . . . . . . . . . . . . 66 3. 2. Des coopérations technologiques et industrielles maîtrisées . . . . 67 3. 3.  La préparation de l’avenir et l’intégration de l’innovation et du numérique . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 70
+
+4. Consolider les fonctions stratégiques . . . . . . . . . . . . . . . . . . . . . . . . . . 71 • Dissuasion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 72 • Protection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 73 • Connaissance et anticipation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 74 • Intervention . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 75 • Prévention . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 76
+
+5. Des armées adaptées aux défis stratégiques actuels et futurs . . . . . . . 78 5. 1. Un modèle complet et équilibré pour agir sur tout le spectre . . . 78 5. 2. Des coopérations opérationnelles maîtrisées . . . . . . . . . . . . . . . . . 79 5. 3. Des aptitudes militaires à renforcer . . . . . . . . . . . . . . . . . . . . . . . . 80 • Renseigner et commander . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 80 • Entrer en premier . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 82 • Combattre et protéger . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 83 • Soutenir et durer . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 85 5. 4. Des femmes et des hommes formés, entraînés et valorisés . . . . . . 86
+
+CONCLUSION . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 87
+
+ANNEXES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 90 - Liste des aptitudes opérationnelles. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 91 - Liste des principaux sigles. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 96 -  Lettre de mission du Président de la République
+
+à la Ministre des Armées . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 100 - Arrêté portant création du comité de la Revue stratégique . . . . . . . . . . . 102 -  Personnalités auditionnées par le comité et consultations menées
+
+au titre de la Revue stratégique. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 104 - Composition du comité de rédaction de la Revue stratégique . . . . . . . . . 106
+
+### PREFACE DU PRESIDENT DE LA REPUBLIQUE
+
+La capacité militaire de la France est au cœur de notre ambition. Etre à la hauteur de ces ambitions exige des moyens financiers et humains. Mais cela exige aussi une vision stratégique.
+
+C’est pourquoi, dès mon élection, j’ai demandé à la Ministre des Armées de conduire une Revue stratégique de défense et de sécurité nationale venant étayer notre vision et alimenter une nouvelle loi de programmation militaire. La ministre s’est entourée pour cela d’experts reconnus qui ont travaillé en profondeur.
+
+Nous sommes entrés dans une ère de grandes turbulences. Pour la plupart, les risques et les menaces auxquels nous sommes confrontés ne nous étaient pas inconnus, mais leurs manifestations se sont accélérées, leurs effets se sont amplifiés et rapprochés. Leur accumulation traduit un affaiblissement du système international et l’émergence d’acteurs qui cherchent à le contester ouvertement.
+
+La France et l’Europe se trouvent désormais directement exposées.
+
+Le terrorisme islamiste, qui a frappé notre sol, se propage à de nouvelles régions malgré nos avancées militaires. Sur la scène internationale, la menace d’une déflagration majeure redevient possible. Les affirmations de puissance et les régimes autoritaires émergent ou reviennent, tandis que le multilatéralisme semble s’effacer devant la loi du plus fort. Le cyberespace est le théâtre d’actions agressives régulières, aux conséquences potentiellement dramatiques. L’idée européenne même, projet de paix et de prospérité né des drames du siècle passé, est profondément ébranlée, par
+
+le Brexit, par la crise des réfugiés et par le doute qui naît dans nos populations sur la capacité de l’Europe à les protéger.
+
+Dans cet environnement qui remet en cause les certitudes et les repères de trois décennies, seule une France forte, maîtresse de son destin, peut apporter des réponses aux grandes crises contemporaines, promouvoir ses valeurs et faire valoir ses intérêts. Cette ambition ne peut se passer d’une diplomatie et d’une défense de premier plan, soutenues par une grande armée, forte et crédible, capable d’agir face à toutes les menaces et dans tous les espaces. C’est ainsi que nous conforterons notre place au sein du Conseil de sécurité des Nations Unies et que nous conserverons, dans l’ordre multilatéral qui doit prévaloir, la capacité d’initiative et d’action qui garantit notre souveraineté.
+
+C’est la raison pour laquelle j’ai décidé le maintien de notre stratégie de dissuasion nucléaire et le renouvellement de ses deux composantes : elles sont la garantie ultime de nos intérêts vitaux, de notre indépendance et, plus largement, de notre liberté de décision.
+
+C’est également la raison pour laquelle je souhaite que nos armées et nos services de renseignement disposent de tous les moyens nécessaires à leurs missions, afin qu’ils puissent faire face tant aux engagements d’aujourd’hui qu’aux enjeux de demain. Dans cet environnement stratégique incertain, et dans un contexte de forte tension opérationnelle pour nos armées, nous avons besoin d’un outil de défense agile, projetable et résilient.
+
+Sa mission primordiale demeurera d’assurer la protection des Français et de notre territoire, en métropole comme outre-mer. C’est la nature même du lien fondamental qui unit la République à ses armées. La menace du terrorisme djihadiste n’est pas la seule ; d’autres menaces s’affirment, des crises peuvent survenir à tout moment, auxquelles la modernisation et la consolidation des armées doivent répondre, en particulier par leur capacité à se projeter loin de nos frontières, partout où cela est nécessaire. Je souhaite également que leur rôle de prévention soit réaffirmé, dans le cadre d’une approche globale alliant sécurité, développement et diplomatie, au service de la paix.
+
+Nos armées permettront également à la France de demeurer fidèle à ses engagements internationaux, afin que ses alliés puissent continuer de compter sur elle en toute circonstance, et de poursuivre ses partenariats stratégiques en Afrique, au Moyen‑Orient, en Asie-Pacifique.
+
+Enfin, les progrès de l’Europe dans le domaine de la défense devront être consolidés. Les bases d’une autonomie stratégique européenne ont été posées. Plusieurs de nos partenaires prennent conscience que l’Europe constitue, dans le cadre d’une relation transatlantique équilibrée, le cadre naturel de notre sécurité, de la protection de nos frontières, face à des défis qui ne peuvent être relevés qu’ensemble. Le moment est donc venu de relancer l’Europe de la défense, en rapprochant nos cultures stratégiques, en nourrissant des partenariats pragmatiques avec les Etats européens qui ont la volonté politique et la capacité militaire d’assumer avec nous leurs responsabilités en opérations, en dégageant les ressources nécessaires au niveau européen, en consolidant nos industries de défense pour qu’elles conservent leur excellence technologique et demeurent compétitives à l’échelle mondiale.
+
+La sécurité et la défense de la Nation engagent bien sûr l’intégralité de la communauté de défense. Mais c’est l’ensemble de l’Etat et, au-delà, toutes les ressources vives de la communauté nationale -ses collectivités, ses forces politiques, ses entreprises, sa jeunesse -qui doivent se mobiliser autour de ces enjeux.
+
+Cet effort collectif, nous le devons également à nos militaires, aux femmes et aux hommes du ministère des Armées qui, jour et nuit, à l’étranger ou sur le territoire national, en unités de combat et dans les services et les directions qui les soutiennent, défendent avec détermination et abnégation notre pays et nos concitoyens, prêts à l’ultime sacrifice.
+
+Cette Revue stratégique est la reconnaissance de leur rôle central dans la vie de la Nation aujourd’hui et demain. La loi de programmation militaire à venir en sera la traduction concrète.
+
+Emmanuel Macron
+
+### AVANT-PROPOS DE LA MINISTRE DES ARMEES
+
+Cette Revue stratégique intervient à un moment charnière pour nos armées et pour notre défense, pour notre pays et pour l’Europe.
+
+Un moment charnière d’abord car la remontée en puissance des moyens alloués à notre défense décidée par le Président de la République nous offrira des marges de manœuvre qui nécessitent, pour en tirer le meilleur parti dans le cadre de la loi de programmation militaire, une compréhension fine des menaces qui pèsent sur l’Europe et sur la France, du contexte stratégique actuel et prévisible, et donc de l’environnement dans lequel opéreront nos forces.
+
+Un moment charnière également car notre environnement est soumis à des bouleversements majeurs.
+
+Les menaces et les risques identifiés dans le Livre blanc de 2013 se sont manifestés plus rapidement, avec une intensité plus forte qu’anticipé.
+
+Le terrorisme jihadiste reste la menace qui pèse aujourd’hui le plus directement sur notre territoire. Ce terrorisme a frappé brutalement la France comme ses voisins européens. Nos armées progressent jour après jour pour réduire l’emprise territoriale de Daech au Levant, mais nous ne devons pas nous y tromper. Ce terrorisme se recompose et s’étend à de nouvelles régions, en prospérant sur les situations de chaos, de guerre civile et sur les fragilités des Etats. Il demeurera une menace prioritaire pour nos sociétés et nos populations. Notre mobilisation et notre fermeté pour lutter contre ce phénomène demeureront totales.
+
+Nous avons également pris, ces dernières années, la pleine mesure de ce à quoi pouvait ressembler un monde multipolaire où les rapports de force se développent pendant que le système multilatéral s’affaiblit. L’affirmation militaire d’un nombre croissant de puissances, établies ou émergentes, dans des régions sous tension, renforce l’instabilité et l’imprévisibilité auxquelles nous sommes confrontés. Les cadres internationaux sont remis en cause et affaiblis, tandis que des armements avancés se diffusent de plus en plus largement, au profit d’Etats comme de groupes non étatiques. Couplées au développement de nouveaux modes opératoires, basés sur l’ambiguïté, l’intimidation ou la déstabilisation, ces évolutions renforcent les risques d’escalade.
+
+Nos alliances, aussi, ont évolué. Nous ne pouvons plus être certains de compter, partout et toujours, sur nos partenaires traditionnels.
+
+Cette situation impose d’agir selon plusieurs axes.
+
+Premièrement, un modèle d’armée complet et équilibré doit être assuré, car avec le maintien de la stratégie de dissuasion nucléaire et le renouvellement de ses deux composantes décidé par le Président de la République, ainsi qu’avec des services de renseignement disposant des capacités nécessaires, ce modèle est le seul à donner à la France les moyens de son autonomie stratégique et de sa liberté d’action.
+
+Deuxièmement, l’entretien d’une ambition industrielle et technologique élevée est indispensable. Celle-ci passe en particulier par la préparation de l’avenir, comme clé de notre performance technologique, et plus largement par une politique globale de soutien à l’innovation. Elle repose également sur une politique active de soutien à l’exportation. Enfin, cette ambition et la maîtrise technique qui en découle sont des conditions nécessaires à la construction, dans le domaine industriel, de coopérations européennes équilibrées.
+
+Troisièmement, notre ambition européenne doit être non seulement réaffirmée mais surtout renouvelée, comme le Président de la République l’a rappelé avec force le 26 septembre à La Sorbonne. La France souhaite contribuer à lancer de nouvelles dynamiques en Europe, qui reconnaissent que la défense européenne ne se réduit pas à des avancées institutionnelles, mais repose d’abord sur la volonté politique et la capacité militaire des Européens à assumer leurs responsabilités face aux menaces et aux défis qui pèsent sur nous. Cette volonté et cette capacité renforceront l’Union européenne comme l’OTAN, toutes deux indispensables pour assurer la sécurité de l’Europe et des Européens. Elles nous permettront aussi d’agir militairement à chaque fois que cela sera nécessaire, de manière pragmatique, dans le cadre de partenariats exigeants et confiants.
+
+Enfin, la Revue stratégique nous montre l’impérieuse nécessité d’innover. L’innovation et l’audace doivent être les maîtres mots de notre stratégie de défense, car c’est un enjeu essentiel de notre efficacité et de notre souveraineté.
+
+Rien de tout ceci ne sera possible sans des femmes et des hommes dont la formation, les compétences et le sens du devoir méritent la pleine considération de la Nation. Le maintien de l’attractivité des carrières et la fidélisation du personnel exigent une amélioration de la condition du personnel, une valorisation des carrières et une juste reconnaissance de la spécificité de la mission des femmes et des hommes de la défense.
+
+Je remercie Arnaud Danjean et l’ensemble du comité de rédaction de la Revue stratégique, pour le travail remarquable qu’ils ont effectué, en un temps très court, sans sacrifier à la rapidité de la rédaction ni la qualité des analyses et des recommandations, ni la diversité des personnalités consultées, en France comme à l’étranger.
+
+Les conclusions de cette revue seront déclinées, en termes capacitaires et budgétaires, dans la prochaine loi de programmation militaire. La défense de la France et des Français peut compter sur la détermination et la volonté du Président de la République, du Premier ministre et de moi-même, de donner aux armées, directions et services de ce ministère, les moyens pour faire face aux menaces auxquelles notre pays sera confronté.
+
+Florence Parly
+
+### INTRODUCTION
+
+Le Livre blanc sur la défense et la sécurité nationale de 2013, dans le prolongement de celui de 2008, indiquait dans son introduction que les évolutions rapides du contexte international imposeraient inévitablement une révision régulière de notre stratégie de défense. Les bouleversements intervenus depuis 2013, en particulier les attaques terroristes jihadistes sur notre sol, mais aussi la dégradation sécuritaire aux frontières européennes, et la nécessité de préparer une nouvelle loi de programmation militaire adaptée aux engagements de nos forces, ont conduit le Président de la République à lancer cet exercice de revue dès l’été 2017.
+
+Les évolutions et les ruptures portent sur l’accélération et l’intensité plus que sur l’identification et l’anticipation des phénomènes : terrorisme, retour de la guerre ouverte dans notre voisinage, montée en puissance militaire et industrielle de nombreux Etats, fragilités et recompositions européennes… La soudaineté de leur irruption et l’ampleur de leurs manifestations ont directement affecté notre communauté nationale et les sociétés européennes. Les menaces se sont rapprochées, elles se sont exprimées avec une violence nouvelle alors même que le système international censé amortir ces chocs est contesté et affaibli. L’incertitude sur la crédibilité des alliances, dans un contexte de retour des rapports de forces, contribue également à la perception d’un environnement plus instable.
+
+A l’imprévisibilité accrue de ce monde en transition s’ajoutent la simultanéité et la complexité des crises dans lesquelles nous sommes directement engagés, du Sahel au Moyen-Orient, conjointement avec nos partenaires, au premier rang desquels les Etats-Unis. Nous sommes confrontés à des acteurs plus nombreux, plus divers, aux ambitions et postures plus affirmées, aux capacités plus robustes. Les zones
+
+de frictions ou d’affrontements ne sont plus seulement des espaces géographiques contestés, mais incluent également l’espace numérique.
+
+Ces risques et menaces, caractérisés aussi par leur durcissement et leur ambiguïté, vont continuer de peser sur notre défense. De plus, les ruptures technologiques majeures et rapides accentuent la recomposition stratégique. Elles banalisent, d’une part, l’accès à des dispositifs et à des espaces (numérique, exo-atmosphérique) jusqu’alors maîtrisés par un nombre relativement réduit d’acteurs. Elles exigent, d’autre part, des efforts importants d’investissement et d’adaptation pour conserver un avantage sans cesse remis en cause. Cela vaut en particulier dans le domaine industriel comme dans le domaine militaire.
+
+En considérant l’ensemble des risques, menaces et opportunités pour notre pays, deux problématiques ont structuré notre réflexion :
+
+-  La France ne peut pas, bien entendu, faire face seule et partout à ces défis.
+
+Notre autonomie, que nous souhaitons la plus complète possible, est réelle mais relative dans un nombre croissant de domaines. Il convient donc d’être lucide sur les priorités qui s’imposent à nous, en raison de la proximité géographique des menaces, ou de leur impact sur notre communauté nationale. Nos partenaires, européens et américains, sont indispensables pour faire face à ces défis.
+
+-  Nous avons également des intérêts globaux, qui découlent de notre statut au
+
+sein des instances multilatérales, de notre présence mondiale (en particulier outre-mer et dans notre zone économique exclusive) ainsi que de la contraction géographique liée aux interdépendances induites par la mondialisation des échanges, des flux et des technologies.
+
+Dans ce contexte, la responsabilité de la France repose sur une singularité stratégique objective. Seul pays européen (après le Brexit) membre permanent du Conseil de sécurité des Nations Unies et puissance nucléaire, membre fondateur de l’Union européenne et de l’OTAN, dotée d’un modèle d’armée complet et d’emploi, la France doit maintenir une double ambition : préserver son autonomie stratégique et construire une Europe plus robuste, pour faire face à la multiplication des défis communs.
+
+L’engagement récent et encore inégal des Etats européens à accroître leur effort de défense et à assumer plus de responsabilités dans leur propre sécurité ouvre des perspectives inédites. Qu’il s’agisse de dispositifs innovants en matière capacitaire et de recherche portés par les institutions de l’Union européenne, de la mise en œuvre de l’ensemble des dispositions des Traités, des responsabilités croissantes des Européens dans l’Alliance atlantique ou encore de coopérations multilatérales
+
+pragmatiques, les initiatives européennes offrent des possibilités pour affermir d’indispensables solidarités.
+
+Cette ambition européenne doit être à la fois déterminée et lucide, tant elle s’est trop souvent, par le passé, heurtée aux limites de formules incantatoires et de projets irréalistes. Le pragmatisme et la flexibilité que nous recommandons doivent permettre de surmonter progressivement les obstacles, que nous ne négligeons pas, et de façonner des réponses communes adaptées aux principaux enjeux de sécurité du continent. Notre objectif d’une coopération plus étroite avec l’Allemagne, ainsi qu’avec les pays européens ayant la capacité et la volonté d’avancer, tout comme le maintien d’un lien bilatéral solide avec le Royaume-Uni, doivent permettre de réaliser des avancées significatives.
+
+Dans le contexte international que décrit la revue, les sollicitations pour nos armées et notre défense ne peuvent que s’accroître. Ce constat doit conduire au maintien d’un niveau d’ambition élevé dans tous les domaines, qu’ils soient technologiques, industriels, capacitaires ou opérationnels, reposant sur une politique d’innovation exigeante. En outre, alors que la place du fait nucléaire dans notre environnement stratégique ira croissant dans les années à venir, le maintien sur le long terme de la dissuasion nucléaire, clé de voûte de notre stratégie de défense, demeure plus que jamais nécessaire.
+
+Cette dégradation du contexte international doit conduire également à renforcer la fonction connaissance et anticipation, dans ses diverses dimensions, et à mieux articuler tout ce qui, au niveau du ministère des Armées comme de l’ensemble de l’Etat, participe de la prévention et de l’approche globale des crises, qu’elles concernent le territoire national ou nos interventions extérieures.
+
+Il convient enfin de garantir la soutenabilité de nos engagements militaires. La cohérence dans la durée entre leurs missions et leurs moyens est décisive pour conforter leur efficacité.
+
+Il appartient maintenant à la future loi de programmation militaire de s’assurer que, sur la base du constat effectué dans le cadre de la revue, la France dispose d’un modèle d’armée complet et équilibré sur le long terme.
+
+PARTIE A UN CONTEXTE STRATEGIQUE EN DEGRADATION RAPIDE ET DURABLE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+
+1. Un système international contesté. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17 1. 1. Remise en cause de l’ordre multilatéral. . . . . . . . . . . . . . . . . . . . . 17 1. 2. Déconstruction de l’architecture de sécurité en Europe . . . . . . . . 19 1. 3. Tensions au sein de l’Union européenne. . . . . . . . . . . . . . . . . . . . . 19
+
+2. Une France exposée et engagée . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20 2. 1. Des engagements simultanés et inscrits dans la durée . . . . . . . . . 20 • Le territoire national directement attaqué. . . . . . . . . . . . . . . . . . . . . . . 21 • La bande sahélo-saharienne vulnérable . . . . . . . . . . . . . . . . . . . . . . . . 21 • Le Proche et Moyen-Orient déstabilisé . . . . . . . . . . . . . . . . . . . . . . . . 21 • Les flancs est et nord de l’Europe sous tension . . . . . . . . . . . . . . . . . . 23 2. 2. Des zones porteuses de risques . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24 • Méditerranée et rive sud . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24 • Balkans . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25 • Afrique subsaharienne . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25 • Asie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+
+3. Des fragilités multiples, facteurs d’aggravation des crises . . . . . . . . . 23 3. 1. Pressions démographiques et migratoires . . . . . . . . . . . . . . . . . . . 30 3. 2. Dérèglements climatiques . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30 3. 3. Risques sanitaires . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31 3. 4. Rivalités énergétiques . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 31 3. 5. Criminalité organisée . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+
+4. Des ruptures technologiques et numériques . . . . . . . . . . . . . . . . . . . . . 25 4. 1.  Un double risque : décrochage technologique et nivellement opérationnel . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34 4. 2. Renforcement des menaces dans le cyberespace . . . . . . . . . . . . . . 35
+
+1. Un système international contesté
+
+### 1.1. Remise en cause de l’ordre multilatéral
+
+1.  Le système international est marqué par l’autonomie croissante des acteurs de toute taille, jusqu’à l’affirmation d’organisations terroristes proto-étatiques.
+
+2.  La hiérarchie de la puissance internationale est aujourd’hui en évolution rapide. L’incertitude, l’anxiété ou au contraire les ambitions nouvelles générées par cette situation mouvante sont en soi facteurs de risque. La compétition, d’abord économique et technologique, s’étend de plus en plus au domaine militaire.
+
+3.  Ce climat d’incertitude générale pousse certains pays à douter de leurs alliés et à rechercher encore plus d’autonomie, tandis que d’autres développent des ambitions nationalistes. L’émergence stratégique et militaire de plusieurs puissances régionales consacre l’avènement d’un monde multipolaire.
+
+4.  Cette autonomisation des acteurs se double d’une hétérogénéité grandissante entre eux, qui augmente les risques liés aux incompréhensions et aux erreurs de perception. L’influence accrue des acteurs non étatiques (organisations terroristes ou criminelles, grandes multinationales, diasporas) accentue cette dynamique. Plus qu’à aucun autre moment depuis la fin de la guerre froide, l’imprévisibilité est donc la figure dominante de l’environnement stratégique.
+
+5.  L’émergence de cette multipolarité et de cette compétition nouvelle se traduit par une remise en cause des règles et des institutions internationales qui permettent un encadrement juridique et une régulation du recours à la force depuis la Seconde Guerre mondiale. Ces règles sont contestées ou contournées par des acteurs qui récusent un ordre international dicté selon eux par l’Occident, et en ont désormais les moyens.
+
+6.  Certaines grandes puissances font le choix d’une posture privilégiant ouvertement les rapports de force.
+
+7.  L’Organisation des Nations Unies (ONU) et ses agences demeurent pourtant essentielles pour organiser un monde régi par des règles adoptées collectivement. Elles sont fondamentales pour prévenir les conflits, y compris dans leurs nouvelles formes, répondre aux crises humanitaires, légitimer les opérations extérieures et engager la stabilisation après des interventions militaires.
+
+8.  Le Conseil de sécurité des Nations Unies est confronté à de nombreux blocages, en raison du primat accordé ouvertement par certains Etats à leurs seuls intérêts
+
+de puissance. Pour la France, le recours au véto implique des devoirs et une responsabilité particulière conférée par la Charte des Nations Unies. C’est pourquoi Paris a pris l’initiative dès 2013 de l’encadrer, en proposant que les cinq membres permanents du Conseil s’engagent volontairement et collectivement à ne pas y recourir dès lors que des atrocités de masse seraient constatées.
+
+9.  Si les difficultés rencontrées ne sont pas nouvelles, leur récurrence nourrit les reproches d’inefficacité adressés à l’ONU. Les difficultés des Nations Unies à apporter une réponse effective à la crise sans précédent des réfugiés et déplacés dans le monde, l’absence de sanctions effectives à l’utilisation d’armes chimiques par le régime de Damas et le manque de réponses efficaces aux provocations du régime nord-coréen contribuent à miner la confiance envers les institutions multilatérales et à faire régresser la résolution des différends par la régulation.
+
+10.  Les opérations de maintien de la paix (OMP) conduites par l’ONU font également l’objet de critiques régulières (mandats faibles, manque de réactivité, contingents insuffisamment formés et sélectionnés). Depuis 15 ans, ces opérations ont connu de nets progrès, tant du point de vue de la robustesse et de la mise en œuvre des mandats que des équipements mis à disposition, face à des adversaires parfois lourdement équipés. Ces acquis doivent être préservés.
+
+11.  D’autres instances internationales voient elles aussi leur action paralysée ou leur légitimité remise en question : Cour permanente d’arbitrage (CPA), Organisation pour l’interdiction des armes chimiques (OIAC), conférence du désarmement, Cour pénale internationale (CPI), Organisation pour la sécurité et la coopération en Europe (OSCE). En témoignent la contestation par Pékin des grands principes reconnus du droit de la mer, les blocages russes à l’OSCE et la défiance de certains Etats africains vis-à-vis de la CPI.
+
+12.  La contestation accrue de l’ordre international existant ne porte pas uniquement sur la gouvernance mondiale, mais aussi sur ses aspects normatifs. De façon croissante, ils deviennent un champ de compétition touchant directement les questions de défense et de sécurité. Plusieurs pays, y compris des membres permanents du Conseil de sécurité, invoquent l’histoire ou leurs valeurs pour relativiser la portée et le caractère juridiquement contraignant de principes internationaux auxquels ils ont pourtant adhéré.
+
+13.  La Russie mène ainsi un travail de contestation ou de blocage des institutions et instruments internationaux et promeut, lorsque ses intérêts sont en jeu, des instances régionales alternatives. La Chine fait le choix, dans son voisinage, d’une posture privilégiant l’influence économique et les rapports bilatéraux.
+
+14.  Les Etats-Unis eux-mêmes recourent à l’action unilatérale. Washington peut se montrer réticent à ratifier des accords limitant sa souveraineté (Statut de Rome de la CPI, Traité d’interdiction complète des essais nucléaires) et se réserve la possibilité de révoquer tout engagement jugé contraignant et « injuste » (Accords de Paris sur le climat) ou de donner à sa propre législation une portée extraterritoriale. De même, les Etats-Unis diminuent les ressources allouées aux instances multilatérales (réduction de la contribution aux OMP à l’ONU).
+
+### 1.2. Déconstruction de l’architecture de sécurité en Europe
+
+15.  L’architecture héritée de la guerre froide a donné à la sécurité européenne un niveau suffisant de transparence, de clarté et de prévisibilité pour garantir, conjointement avec une dissuasion crédible, la stabilité stratégique. Le risque d’escalade involontaire ou non maîtrisée a été ainsi ramené au minimum.
+
+16.  L’annexion de la Crimée par la Russie viole les principes d’Helsinki et fragilise l’architecture de sécurité du continent, tandis qu’au sein de l’OSCE, les traités sur les Forces conventionnelles en Europe (FCE), Ciel ouvert et la refonte du Document de Vienne sont suspendus ou affaiblis. De plus, des doutes sérieux se sont fait jour sur l’avenir du Traité FNI1 et le respect de ses clauses. Il reste un instrument essentiel pour la stabilité et la sécurité européennes, qui doit être préservé et conservé.
+
+17.  Les conséquences de cette déconstruction progressive de l’architecture européenne de sécurité sont graves. La disparition des mesures de limitation et l’invalidation progressive des mécanismes de transparence et de réduction des risques accroissent l’imprévisibilité et l’ambiguïté stratégiques, ainsi que les risques d’escalade qui en découlent.
+
+### 1.3. Tensions au sein de l’Union européenne
+
+18.  L’Union européenne et ses Etats membres ont affronté dans la dernière décennie une instabilité croissante du voisinage (Géorgie, Libye, Syrie, Sahel, Ukraine…) et une succession de crises à dimension existentielle : crise économique et financière en 2008-2009, crise de la dette souveraine et de l’euro en 2011‑2013, crise migratoire et, en 2016, vote en faveur du Brexit. Enfin et surtout, les sociétés européennes sont confrontées depuis 2015 à une menace terroriste jihadiste d’ampleur inédite.
+
+1  Traité Forces nucléaires intermédiaires : traité entre les Etats-Unis et l’URSS, issu de la crise des Euromissiles des années 1980, sur l’élimination de leurs missiles à portée intermédiaire et à courte portée.
+
+19.  Les tensions qui en ont résulté se sont traduites dans un premier temps par des différences de priorités stratégiques, selon que les pays européens ont privilégié des menaces à l’Est ou au Sud.
+
+20.  En parallèle, au moment même où les Etats membres étaient en désaccord quant aux priorités économiques, la montée des populismes et des contestations internes a mis en cause les fondements et les valeurs de l’UE. Est apparu ainsi le double risque de divergences politiques irréconciliables et d’une régionalisation des politiques de sécurité européennes.
+
+21.  Alors que certaines de ces tendances centrifuges ont connu des coups d’arrêt politiques, elles n’en restent pas moins présentes au sein des opinions. Elles prospèrent également au travers des discours présentés comme alternatifs, complaisamment relayés par certains Etats.
+
+22.  La perméabilité des sociétés européennes aux influences extérieures a enfin été illustrée, de façon tragique, par l’efficacité de la propagande jihadiste. Cette dernière est parvenue non seulement à recruter des soutiens et des terroristes au sein des populations en Europe, mais encore à fragiliser les sentiments d’appartenance, affectant ainsi la cohésion des sociétés.
+
+## 2. Une France exposée et engagée
+
+23.  La contraction de l’espace géopolitique, résultat de l’accroissement des interdépendances, facilite la propagation rapide des effets des crises, même lointaines, jusque sur le continent européen, plaçant ses pays et ses populations au contact direct des tensions de toute nature.
+
+24.  Plusieurs zones de crise ouvertes et simultanées méritent une attention particulière, en raison des risques qu’elles font peser sur les intérêts de la France et de l’engagement durable de ses forces. En outre, les fragilités inhérentes à quatre régions requièrent une vigilance renforcée, compte tenu de leur importance pour la France et l’Europe.
+
+### 2.1.  Des engagements simultanés et inscrits dans la durée
+
+25.  Par leur simultanéité, la soudaineté de leurs manifestations et leur intensité, les crises dans lesquelles les armées françaises sont engagées ont mis les capacités de celles-ci sous tension. Déployées au Sahel dans un cadre national et intégrées au Levant dans une coalition internationale, elles participent en parallèle à la
+
+réassurance sur le flanc est de l’Europe et aux mesures de défense et de protection du territoire national, tout en assurant la permanence et la sûreté de la dissuasion.
+
+• Le territoire national directement attaqué
+
+26.  Le sol français est exposé au terrorisme depuis de nombreuses décennies. Les attentats survenus en 2015 sur le territoire national ont démontré la gravité inédite de la menace représentée par un terrorisme jihadiste militarisé, frappant directement les sociétés occidentales. Ceux du 13 novembre, exécutés par des commandos équipés et entraînés, marquent une rupture dans la nature même de cette menace et justifient la continuité entre les notions de sécurité et de défense. Ces attentats, planifiés et organisés depuis l’étranger, se sont doublés d’une menace persistante d’attentats inspirés, plus rudimentaires et imprévisibles. Ces événements ont requis une réponse rapide de l’Etat, concrétisée par la mise en place du dispositif Sentinelle, déploiement sans précédent par sa durée et son volume. Celui-ci s’inscrit dans le rôle d’ultima ratio des armées, par une adaptation permanente à l’évolution de la menace et une complémentarité renforcée avec les autres acteurs de la sécurité publique.
+
+27.  Par ailleurs, la maîtrise des approches directes de métropole et des DROM-COM et la surveillance des espaces de souveraineté français requièrent la mise en œuvre de moyens ou de savoir-faire spécifiquement militaires. Complémentaires de celles des autres administrations de l’Etat, les capacités militaires de surveillance et d’intervention sont engagées dans la lutte contre le narcotrafic et le pillage des ressources naturelles. Elles apportent également une contribution à la protection des frontières et au traitement des crises migratoires qui, si elles s’aggravaient, constitueraient un défi majeur pour le territoire national.
+
+• La bande sahélo-saharienne vulnérable
+
+28.  Porteur d’enjeux prioritaires pour la France en matière de lutte contre le terrorisme et les trafics, ainsi que de protection des communautés d’expatriés, l’espace sahélo-saharien connaît un risque d’enracinement durable des mouvances jihadistes. Profitant des faiblesses dans les domaines de la gouvernance, de la sécurité et du développement, celles-ci s’adaptent et se recomposent, aggravant les déséquilibres structurels et les fragilités des Etats, tout en menaçant à la fois leur voisinage nord (Maghreb) et sud (Afrique subsaharienne). Ces évolutions se manifestent au Mali, avec l’implantation officielle de Daech en 2016 et le rapprochement des différentes mouvances qaïdistes ; elles s’observent également avec la résilience de Boko Haram et l’émergence de nouveaux groupes. Les risques de connexion avec les groupes islamistes libyens et la perméabilité de certaines communautés locales à l’influence islamiste doivent aussi faire l’objet d’une attention particulière.
+
+29.  Mobilisant d’importants moyens terrestres et aériens sur un théâtre aux élongations considérables, à l’échelle de la sous-région sahélo-saharienne, l’opération Barkhane s’appuie sur les dispositifs basés au Tchad, au Mali et au Niger. Ceux-ci sont complétés par les déploiements navals en appui des forces et participant aux contrôles des flux qui alimentent les réseaux criminels et terroristes. Barkhane soutient d’autre part la montée en puissance de la force conjointe du G5 Sahel, avec le concours des partenaires européens et internationaux.
+
+30.  L’appropriation des enjeux de sécurité par les Etats sahéliens enregistre des succès qui doivent être consolidés (force conjointe du G5 Sahel et Force multinationale mixte (FMM) contre Boko Haram). Le règlement de la question intermalienne connaît toutefois des progrès trop limités, depuis la signature de l’accord de paix et de réconciliation (APR) à l’été 2015, en raison de l’attentisme politique des parties, de l’intérêt de celles-ci pour le statu quo et de problèmes de gouvernance. Un investissement international soutenu, au sein de la MINUSMA comme des actions de l’UE, est plus que jamais nécessaire. A cet égard, priorité doit être donnée à nos partenaires européens, grâce à leur prise de conscience des enjeux de sécurité en Afrique.
+
+• Le Proche et Moyen-Orient déstabilisé
+
+31.  Les armées françaises sont particulièrement mobilisées dans l’ensemble de cette région : engagées contre Daech au Levant (opération Chammal) avec les composantes terrestre, aérienne et navale, elles agissent également au Liban dans le cadre de la FINUL depuis sa création. Elles maintiennent enfin une présence importante, avec leurs dispositifs permanents, aux Emirats Arabes Unis et à Djibouti et des déploiements permanents en océan Indien et dans le golfe Arabo-Persique.
+
+32.  Au Levant, les défaites militaires successives de Daech amorcent une phase de transition complexe, qui demeurera dominée en Syrie et en Irak par les fractures communautaires, le jeu des puissances régionales, la gestion des réfugiés et l’évolution des relations russo-américaines.
+
+33.  En Irak, les progrès significatifs contre l’Etat islamique ne peuvent masquer la persistance de la fragmentation communautaire. Celle-ci pénalise la reconstruction et la restauration de l’Etat, tandis que Daech conserve un fort potentiel de nuisance, à mesure qu’il bascule dans une posture insurrectionnelle et exploite les frustrations sunnites.
+
+34.  En Syrie, la dynamique de consolidation du régime ne fait pas disparaître les fractures et les conflits internes, aggravés par la multiplicité des acteurs et des fronts. Elle ne conduit pas non plus à une solution durable du conflit et favorise
+
+les risques de frictions ou d’incident grave entre les puissances régionales ou globales impliquées. Le régime de Damas demeurera dans une position de dépendance renforcée à l’égard de ses alliés russe et iranien, dont la présence est appelée à durer.
+
+35.  La période qui s’ouvre pourrait s’avérer particulièrement délicate à gérer pour les autorités libanaises, confrontées à la redéfinition de la place du Hezbollah et au problème du retour des réfugiés, question essentielle pour les équilibres démographiques et politiques de ce pays. Elle pourrait également affecter la Jordanie voisine, engagée militairement dans le conflit et exposée au même défi. La question kurde enfin reste ouverte.
+
+36.  L’absence de règlement de la question israélo-palestinienne demeure un facteur majeur de tensions. Au-delà du risque d’affrontement armé toujours possible entre Israéliens et Palestiniens, elle favorise l’implantation de la mouvance jihadiste proche de Daech et a des répercussions dans les sociétés européennes.
+
+37.  L’ensemble des recompositions à venir au Proche et au Moyen-Orient s’inscrit dans un contexte dominé par l’influence de la Russie, de l’Iran et de la Turquie.
+
+38.  Le golfe Arabo-Persique reste une zone porteuse de risques élevés. La rivalité entre Riyad et Téhéran entretient les tensions régionales. D’autre part, l’enlisement du conflit au Yémen exacerbe l’antagonisme entre Sunnites et Chiites. Il s’ajoute aux autres facteurs d’instabilité et rend difficile la libre circulation en mer Rouge. Il favorise le renforcement et l’enracinement local des groupes jihadistes, AQPA en particulier.
+
+• Les flancs est et nord de l’Europe sous tension
+
+39.  Théâtre de la réaffirmation de la puissance russe, Les flancs est et nord de l’Europe ont connu la résurgence de la guerre. Ils sont également marqués par la volonté de Moscou de reconstituer une zone d’influence.
+
+40.  L’intégrité territoriale de l’Ukraine a été gravement mise en cause par la force. L’annexion illégale de la Crimée s’est accompagnée d’un renforcement massif et rapide des capacités militaires russes, qui lui confère un rôle de bastion méridional en mer Noire, comparable à la situation de Kaliningrad en mer Baltique. Au Donbass, l’absence de progrès dans l’application des accords de Minsk entretient les divisions intérieures et un conflit de basse intensité durable. Les capacités militaires engagées font également courir un risque permanent d’escalade.
+
+41.  En Baltique, la posture provocatrice de Moscou se manifeste par des démonstrations militaires récurrentes. Elle a conduit l’Alliance atlantique à adopter, en complément des missions de police du ciel et de surveillance maritime déjà en vigueur, un ensemble de mesures visant à réaffirmer sa cohésion et à répondre par une posture équilibrée, dissuasive et prévisible : création de la force à très haut niveau de réactivité (VJTF) et déploiement de forces avancées. Les forces françaises contribuent à ce nouveau dispositif terrestre et continueront de participer aux missions de contrôle et de surveillance des espaces aériens et maritimes.
+
+42.  L’Atlantique Nord voit également une recrudescence des activités russes (vols de bombardiers stratégiques, déploiements de sous-marins), jusqu’aux approches nationales. Ces dernières constituent un espace essentiel pour la défense collective de l’OTAN, pour les intérêts économiques de l’Europe et pour la liberté d’action des forces françaises, notamment pour la dissuasion nucléaire. L’activisme russe dans ces zones est un motif majeur de préoccupation, partagé par nos principaux alliés, qui mobilise en retour des moyens conséquents.
+
+43.  Les différents conflits gelés de l’espace post-soviétique (Abkhazie et Ossétie du Sud, Haut-Karabagh, Transnistrie) entretiennent de plus l’instabilité aux marches orientales de l’Europe et des foyers de crise susceptibles d’être réactivés.
+
+* * *
+
+44.  Ces engagements traduisent une évolution des caractéristiques des conflits dans lesquels les forces françaises sont et seront déployées. La dispersion, l’éloignement et la taille des théâtres, mais aussi la concomitance d’opérations et de déploiements dans la durée engendrent, d’ores et déjà, un phénomène d’usure des ressources humaines et matérielles.
+
+### 2.2.  Des zones porteuses de risques
+
+• Méditerranée et rive sud
+
+45.  En raison de leur fragilité, plusieurs Etats de la rive sud de la Méditerranée peinent à contrôler leur territoire ou leurs flux de populations. S’y ajoute la menace des groupes jihadistes opérant en Libye. En raison de son rôle central dans la crise migratoire actuelle et des risques d’implantation durable d’une menace terroriste renforcée, ce pays concentre nombre des défis de la région. Un retour des stratégies de puissance est également manifeste dans la zone, avec la présence permanente de moyens aériens et navals russes, l’arrivée de la
+
+Chine et l’acquisition par plusieurs Etats riverains de moyens militaires avancés, qui placent le sol européen à portée de capacités conventionnelles modernes. La Méditerranée, en particulier dans sa partie orientale, est ainsi devenue un espace fortement militarisé, tandis qu’en Méditerranée occidentale, le manque de structures de coopération reste préjudiciable au traitement des tensions qui y convergent.
+
+46.  Les intérêts de sécurité européens seraient également mis à l’épreuve en cas de déstabilisation brutale d’un Etat de la rive sud. L’afflux de réfugiés et le retour de combattants jihadistes du Levant et de Libye sont autant de facteurs de crise qui se sont amplifiés ces dernières années sur fond de tensions politiques, d’urbanisation anarchique et de pressions sur les ressources naturelles.
+
+• Balkans
+
+47.  Les Balkans représentent un enjeu majeur pour l’Europe et pour la sécurité de l’ensemble du continent. La région reste divisée par son histoire et par des trajectoires économiques très contrastées. Ainsi, cette zone souffre de faiblesses qui peuvent être utilisées à des fins de déstabilisation par des mouvements radicaux (notamment jihadistes), des groupes criminels ou des Etats tiers.
+
+48.  Le retour de troubles dans les Balkans représenterait un lourd échec des efforts réalisés par l’UE et l’OTAN pour la stabilisation de cette région. Il aurait également un impact sérieux sur la sécurité intérieure des pays européens.
+
+• Afrique subsaharienne
+
+49.  La France a un intérêt sécuritaire et économique direct à la stabilité du continent africain et des espaces adjacents. Outre les nombreux expatriés ou binationaux présents de part et d’autre, les accords de défense, les bases militaires françaises et les coopérations permanentes en Afrique traduisent cette proximité mutuelle. Les crises en Afrique peuvent donc avoir des répercussions directes – sécuritaires, humanitaires, migratoires et économiques – sur le territoire national. Elles justifient des mesures de prévention, de protection et d’intervention le cas échéant.
+
+50.  Le décollage économique de l’Afrique subsaharienne est une réalité porteuse d’espoirs et de réponses aux multiples défis que celle-ci doit relever (gouvernance, démographie, urbanisation, accès aux ressources fondamentales, développement humain, sécurité). De même, la consolidation progressive de la démocratie dans certains pays du continent est facteur de stabilité et de légitimité. Cependant, cette tendance ne doit pas faire oublier les difficultés persistantes et les incertitudes autour des relèves politiques chez plusieurs acteurs majeurs. La perméabilité de nombreuses économies aux trafics et leur trop lente diversification par
+
+rapport au pétrole et à d’autres ressources naturelles constituent des handicaps supplémentaires.
+
+51.  Une radicalisation islamiste visible, alimentée par des influences idéologiques extérieures, touche une part croissante des populations, notamment dans leurs franges les plus jeunes ou les plus défavorisées. Conséquence de luttes d’influence entre courants wahhabites et salafistes, elle se traduit par le prosélytisme actif d’ONG religieuses et le financement extérieur de structures sociales de santé et d’éducation. Toutes ces initiatives se substituent durablement à l’action des Etats et font de l’islam subsaharien un vecteur d’autant plus efficace qu’il permet de contester les injustices socio-économiques et les pouvoirs en place.
+
+52.  Premier partenaire économique du continent, la Chine porte son intérêt essentiellement sur les matières premières, tout en développant ses activités vers de nouveaux secteurs comme l’armement, les transports, les télécommunications, l’énergie et les infrastructures. Elle est également devenue le principal bailleur de fonds de l’Afrique, grâce aux prêts octroyés par ses banques d’Etat pour l’export, et accompagne le déploiement de ses entreprises d’Etat dans tous les secteurs d’activité.
+
+53.  La région du golfe de Guinée, riche en ressources (pétrolières, minières, halieutiques), est confrontée à de multiples fléaux (trafics, piraterie, terrorisme), alors que les intérêts stratégiques comme économiques de la France y sont particulièrement nombreux. Outre notre forte présence militaire, elle concentre une importante communauté nationale dans les Etats francophones riverains.
+
+54.  La présence de nombreuses forces militaires étrangères dans la Corne de l’Afrique, en particulier européennes, témoigne de l’importance stratégique de cette région. Si elle comporte plusieurs pôles de stabilité relative, elle connaît des conflits persistants : menace Chebab en Somalie, crise des Soudans, tensions de l’Erythrée avec ses voisins. Elle subit également les répercussions de la guerre au Yémen et des rivalités entre puissances régionales.
+
+• Asie
+
+55.  L’évolution des dynamiques stratégiques en Asie demeure particulièrement préoccupante. La région, qui a connu le plus fort accroissement des dépenses mondiales de défense de la dernière décennie, concentre un nombre de tensions sans équivalent, alors que l’architecture régionale de sécurité demeure lacunaire. Des conflits éventuels pourraient comporter une dimension nucléaire.
+
+56.  En Asie du Nord-Est, sur fond de compétition stratégique entre les Etats-Unis et la Chine, la crise provoquée et entretenue par la Corée du Nord bouleverse
+
+profondément les conditions de la stabilité régionale et internationale. Susceptible de mettre en jeu les garanties de sécurité des Etats-Unis envers leurs alliés, la rupture du statu quo conduit également le Japon et la Corée du Sud à réviser leurs postures militaires, alimentant les tensions structurelles avec Pékin.
+
+57.  Simultanément, la mer de Chine demeure le théâtre privilégié de l’affirmation de la puissance chinoise où Pékin invoque des « droits historiques » et emploie des méthodes comme la poldérisation de certains îlots ou la tentative de mise en place d’une zone d’exclusion aérienne pour créer des situations de fait accompli.
+
+58.  En Asie du Sud, la région demeure fragilisée par des contentieux historiques entre l’Inde et le Pakistan. Les tensions bilatérales latentes sont ponctuées périodiquement de crises violentes. La mobilité et l’activité soutenue des réseaux terroristes qui opèrent en Afghanistan et au Pakistan concourent à l’instabilité de la situation. La rivalité traditionnelle entre l’Inde et la Chine et leur montée en puissance respective constituent un facteur de tension croissante.
+
+59.  Une dégradation de la sécurité en Asie entraînerait des conséquences importantes pour la France, en raison de son statut de membre permanent du Conseil de sécurité des Nations Unies, de ses intérêts propres (territoires d’outre-mer, ressortissants, intérêts économiques), et enfin des partenariats établis avec plusieurs Etats : l’Australie et l’Inde au premier rang, mais également le Japon, Singapour ainsi que la Malaisie, l’Indonésie et le Vietnam. Les libertés d’approvisionnement et de navigation, intérêts partagés de tous les Européens, seraient également menacées par une détérioration du contexte stratégique régional. A proximité relative de ces régions éloignées de la métropole, la France maintient des dispositifs de souveraineté dans les DROM-COM du Pacifique et de l’océan Indien.
+
+60.  Enfin, à la jonction du Moyen-Orient et de l’Asie du Sud, l’Afghanistan reste un enjeu de sécurité important. La présence jihadiste s’y accroît, avec l’implantation de Daech et le renforcement des mouvements talibans dans l’ensemble de la région Afghanistan-Pakistan. Soumis aux visées antagonistes des puissances régionales (Inde, Pakistan, Chine) mais aussi déstabilisé en profondeur par les activités criminelles et la corruption induites par le trafic de drogues, l’Afghanistan demeure dans une impasse politique, sécuritaire et humanitaire : ses forces de sécurité n’obtiennent que des résultats limités, malgré le soutien prolongé de la communauté internationale, et le pays demeure une source majeure d’immigration illégale et de trafic de drogue jusqu’en Europe.
+
+* * *
+
+61.  En plus des crises ouvertes dans lesquelles elles sont impliquées ou susceptibles de l’être à travers les dispositifs de souveraineté et de prépositionnement, les armées sont également directement engagées sur le territoire national, outre-mer comme en métropole, dans le cadre de la posture de dissuasion, et de missions de protection (mission Sentinelle), de sauvegarde maritime et de sûreté aérienne. Ce dispositif s’appuie sur un réseau de bases, permanentes ou projetées, dont le maintien représente un investissement et un atout pour la sauvegarde de nos intérêts et l’exercice de nos responsabilités globales. Compte tenu du format actuel des armées, il en résulte un dépassement des contrats opérationnels et des difficultés lourdes en matière d’entraînement et de soutien.
+
+## 3.  Des fragilités multiples, facteurs d’aggravation des crises
+
+62.  L’augmentation continue des flux de biens comme de personnes, ainsi que la relativisation des distances et du temps peuvent fragiliser la capacité des Etats à garantir l’intégrité de leurs territoires et la protection de leurs citoyens. Un ensemble d’autres facteurs est susceptible de favoriser l’émergence de conflits ou de crises.
+
+### 3.1. Pressions démographiques et migratoires
+
+63.  Malgré une décélération tendancielle, la population mondiale continue d’augmenter. Selon les projections réalisées par les Nations Unies, elle atteindra 8,6 milliards en 2030, puis 9,8 milliards en 2050. Or, l’Afrique connaît une très forte croissance dans ce domaine, qui défie le modèle traditionnel de transition démographique : avec en 2030 près d’1,7 milliard d’habitants, le continent africain devrait concentrer plus de la moitié de la croissance mondiale, pour atteindre 2,4 milliards d’habitants à l’horizon 2050.
+
+64.  Les conflits récents (Syrie, Irak, Nigéria, République centrafricaine, Libye, Ukraine) ont entraîné des déplacements considérables de populations. La crise syrienne a provoqué à elle seule l’exode de plus de cinq millions de réfugiés, dont la majorité s’est déplacée vers les pays voisins (Turquie, Liban, Jordanie). L’Union européenne elle-même a été confrontée à l’entrée irrégulière de millions de personnes, avec un pic de près de 1,9 million de personnes en 2015, dont 1,2 million de demandeurs d’asile.
+
+65.  L’afflux de migrants et de réfugiés dans des régions déjà fragilisées, tout comme l’accroissement exponentiel de la population dans des pays peu développés avec de faibles capacités d’absorption, représentent un défi majeur, tant ces mouvements peuvent exacerber des tensions politiques et sociales existantes, en particulier dans les pays fragiles.
+
+### 3.2. Dérèglements climatiques
+
+66. La fréquence des événements climatiques de grande ampleur s’est accrue. Ce phénomène génère des situations de crise au cours desquelles les forces armées sont naturellement requises en appui des forces de sécurité intérieure. Les DROM-COM présentent une vulnérabilité particulière et récurrente à ces risques.
+
+67.  Les régions parmi les plus fragiles du monde, au premier rang desquelles l’espace sahélien (Niger, Mauritanie, Mali, Tchad), l’espace sud-asiatique (Pakistan, Bangladesh) et, dans une moindre mesure, les petits Etats insulaires du Pacifique, sont aussi les plus exposées aux aléas climatiques. Dans les zones intertropicales sèches (Sahel) et humides (Bangladesh), très exposées aux phénomènes dépressionnaires extrêmes, la poursuite du réchauffement peut accentuer les mouvements de migration.
+
+68.  La pression générée par les événements climatiques extrêmes sur la disponibilité des ressources critiques (agricoles, halieutiques) est susceptible d’accroître la compétition internationale et locale pour leur contrôle. L’Arctique, où le réchauffement climatique est deux fois plus rapide que celui observé en moyenne mondiale, pourrait ainsi constituer un jour un espace de confrontation.
+
+### 3.3. Risques sanitaires
+
+69.  L’accroissement de la mobilité de la population favorise l’extension des aires de diffusion de certaines maladies, ainsi que la propagation rapide et à grande échelle de virus à l’origine d’épidémies diverses (syndrome respiratoire aigu sévère – SRAS). Le service de santé des armées et ses capacités de recherche sont ainsi régulièrement mobilisés pour faire face à ce type de situation. La dernière épidémie d’Ebola survenue en 2014-2016 dans des pays fragiles d’Afrique de l’Ouest a démontré combien la densification des flux pouvait compliquer le confinement des grandes crises sanitaires, au point de devoir faire appel à la communauté internationale.
+
+70.  Le risque d’émergence d’un nouveau virus franchissant la barrière des espèces ou échappant à un laboratoire de confinement est réel. De même, l’interconnexion des filières alimentaires génère des risques sur la santé humaine et offre un terrain propice à d’éventuelles actions « agro-terroristes ». Plus grave encore, la diffusion des biotechnologies pourrait permettre à des groupes terroristes de conduire des attaques biologiques sophistiquées.
+
+### 3.4. Rivalités énergétiques
+
+71.  L’approvisionnement en énergie est un domaine de compétition stratégique majeur. Alors que la demande mondiale en pétrole et en gaz va continuer de croître, le marché européen devrait voir s’affronter des intérêts contradictoires entre les pays exportateurs de gaz naturel liquéfié, les pays exportateurs par gazoducs et les pays de transit.
+
+72.  La sécurité énergétique de la France repose sur un approvisionnement sûr, c’est- à-dire non soumis à des aléas politiques et à des coûts pouvant être supportés par les acteurs économiques. C’est pourquoi la France a fait le choix de l’électricité nucléaire dans les années 1970, facilité par le libre approvisionnement en uranium. Elle suppose la sécurisation globale des voies maritimes, principaux détroits et infrastructures terrestres, ainsi que la stabilisation des zones de production. Elle revêt une forte dimension européenne en raison des flux transitant par des Etats membres de l’UE, des stocks stratégiques et de l’architecture législative et réglementaire.
+
+73.  Les rentes pétrolières et gazières de certains Etats constituent une part importante de leurs ressources budgétaires et financent directement leurs efforts de défense. Ceci constitue pour eux à la fois un élément de puissance mais aussi de dépendance à l’égard des prix du marché et des coopérations internationales.
+
+### 3.5. Criminalité organisée
+
+74.  L’Office des Nations Unies contre la Drogue et le Crime (ONUDC) estime aujourd’hui les ressources du crime organisé, pour le seul blanchiment d’argent, entre 2 et 5 % du PIB mondial (soit entre 715 milliards et 1870 milliards d’euros). Alors que les crises de gouvernance et les fragilités étatiques facilitent le développement des organisations criminelles, celles-ci figurent parmi les grands bénéficiaires de la mondialisation.
+
+75.  La porosité entre activités terroristes et criminelles s’est aggravée avec l’émergence d’organisations jihadistes transnationales. Celles-ci partagent avec les réseaux du crime organisé des pratiques et des expertises identiques (clandestinité, blanchiment d’argent) voire exploitent ponctuellement les mêmes filières. Des armes en provenance des Balkans occidentaux ont ainsi été utilisées dans les attentats de Paris de novembre 2015. Au Sahel et dans la zone afghano-pakistanaise, les activités illicites liées au trafic de drogue contribuent au climat de violence et à la dégradation de la situation sécuritaire et au financement des activités terroristes. Au Mali, elles apparaissent comme l’une des causes profondes de la crise que connaît le pays et participent au financement de groupes armés et terroristes.
+
+76.  En outre, certains Etats comme la Corée du Nord alimentent, voire s’impliquent directement dans le développement de ces activités criminelles, afin d’échapper à leurs obligations, de contourner les sanctions ou de trouver des sources de financement.
+
+77.  Le développement de ces organisations criminelles, de leurs activités et de leurs capacités d’action constitue un défi pour les opérations extérieures. L’action de la France peut contrarier les intérêts criminels et les activités illégales, dont les liens avec les pouvoirs locaux sont parfois ambigus.
+
+78.  Enfin, dans l’espace numérique, les possibilités d’anonymisation (réseau TOR) et la création de monnaies électroniques (Bitcoin notamment) présentent de nouvelles opportunités criminelles dont les perspectives de développement semblent exponentielles.
+
+## 4.  Des ruptures technologiques et numériques
+
+79.  Les ruptures technologiques, si elles peuvent être porteuses de progrès, alimentent également l’instabilité de l’environnement stratégique : la sophistication des armements et la diffusion rapide de nombreuses technologies permettent désormais à des Etats de taille intermédiaire, mais aussi à des individus isolés ou à des groupes, de se doter ou de développer des capacités jusqu’ici maîtrisées par un nombre restreint d’Etats.
+
+80.  Historiquement, les ruptures majeures en matière d’armement ont été le fruit de financements à finalité militaire. Aujourd’hui encore, la plupart des technologies qui modifieront en profondeur les futurs systèmes de défense sont financées par les Etats (hypervélocité et hypermanœuvrabilité des missiles, amélioration et mise en réseau des capteurs, furtivité active, armes à énergie dirigée…). Toutefois, le domaine civil étatique ou privé fait émerger un nombre croissant de technologies d’intérêt militaire à un rythme de plus en plus soutenu.
+
+81.  Ainsi, le génie génétique et en particulier la biologie de synthèse (notamment l’ingénierie des génomes), tout comme les technologies issues des neurosciences et de l’homme augmenté, offrent des potentialités importantes même s’il est encore difficile d’en évaluer pleinement le potentiel militaire. Dans le domaine spatial, la banalisation de l’accès à l’espace exo-atmosphérique permise par le New Space ouvre de nombreuses opportunités, comme la miniaturisation des équipements ou la disponibilité de nouveaux services, à des coûts toujours plus faibles.
+
+82.  La révolution numérique en cours, stimulée par les usages publics et professionnels, devrait apporter les ruptures technologiques les plus importantes. L’hyperconnectivité, les technologies du big data, l’Internet des objets et la robotique sont quelques exemples d’opportunités majeures pour la défense. L’intelligence artificielle, en particulier, est amenée à jouer un rôle central dans
+
+les systèmes de défense, où elle contribuera de façon significative à la supériorité opérationnelle mais induira de nouveaux risques.
+
+### 4.1.  Un double risque : décrochage technologique et nivellement opérationnel
+
+83.  L’émergence et la diffusion de nouvelles technologies, sources d’opportunités, remettent aussi en cause la supériorité technologique des armées occidentales et fragilisent leurs industries de défense.
+
+84.  Dans un contexte de réarmement global, les grandes puissances accélèrent leurs efforts sur les systèmes de très haute technologie (hypervélocité ou furtivité), entraînant un risque de décrochage de l’Europe. En outre, de plus en plus d’Etats acquièrent des armes sophistiquées (systèmes antimissiles, antiaériens, voire antisatellites). L’accroissement de la portée et de la vélocité des missiles, les combinaisons de capteurs multiples et la mise en réseau favorisent l’orientation plus rapide vers de nouvelles cibles, réduisent l’efficacité de la furtivité et offrent ainsi une capacité de déni d’accès plus ardue à contrer.
+
+85.  La dissémination de nouvelles technologies civiles ou duales (civiles et militaires) permet à des acteurs de tous types, ne disposant pas de base industrielle, de se doter de moyens avancés, naguère possédés par les seuls Etats (cryptographie, navigation GPS, moyens de télécommunication et de brouillage). Dans un marché global en pleine expansion, les risques de perte de contrôle et de détournement de ces techniques sont nombreux et avérés.
+
+86.  Dans l’espace, les mutations en cours engendrent d’ores et déjà une densification du trafic (notamment avec les constellations de petits satellites) et un risque croissant de collision avec des débris, rendant nécessaire la maîtrise de la surveillance de l’espace et la résilience de nos capacités spatiales.
+
+87.  L’ensemble de ces évolutions, associées à des modes d’action artisanaux et à d’autres méthodes plus innovantes (engins explosifs improvisés ou EEI sur drones), tend à niveler les rapports de force militaires, d’autant plus que les technologies sous-jacentes ne sont pas suffisamment couvertes par des mécanismes de contrôle.
+
+### 4.2.  Renforcement des menaces dans le cyberespace
+
+88.  Les attaques informatiques se sont fortement intensifiées au cours de la dernière décennie, témoignant d’une dissémination et d’une sophistication croissante des moyens d’agression. Les Etats contribuent directement à ces évolutions en diffusant des armes cybernétiques qui, une fois connues, peuvent être étudiées, retravaillées et réutilisées. Ils y contribuent également, indirectement, en laissant transiter ou se développer sur leurs territoires les moyens de ces attaques.
+
+89.  En parallèle, l’exposition croissante des sociétés développées à la numérisation et à l’interconnexion augmente leur vulnérabilité. L’utilisation des outils cybernétiques permet de provoquer des dommages industriels importants et d’atteindre des réseaux ou des infrastructures critiques pour le fonctionnement des sociétés ou des Etats. La difficulté de contrôler la propagation des attaques, leurs vecteurs et leurs conséquences fait également courir des risques systémiques majeurs. Ceux‑ci sont d’autant plus importants que les actions dans le cyberespace permettent de produire des effets globaux avec des ressources limitées. Dans le domaine militaire, la dépendance croissante des systèmes d’armes ou de commandement aux technologies numériques les rend toujours plus sensibles à cette menace.
+
+90.  Dans le cyberespace, certaines attaques, en raison de leur ampleur et de leur gravité, pourraient relever de la qualification d’agression armée : une attaque informatique majeure, par les dommages qu’elle causerait, pourrait ainsi justifier l’invocation de la légitime défense au sens de l’article 51 de la Charte des Nations Unies.
+
+91.  Les difficultés d’attribution des actions et la combinaison d’actions directes avec les techniques d’influence et de propagande rendent possibles de nombreux scénarios d’instrumentalisation, à des fins de déstabilisation ou en appui à des opérations plus classiques. La prise en compte de la menace cyber et de ses évolutions est d’autant plus complexe qu’elle ne peut se limiter au périmètre de la défense, en raison de l’enchevêtrement des enjeux et de l’imbrication des acteurs publics comme privés.
+
+PARTIE B DE NOUVELLES FORMES DE GUERRE ET DE CONFLICTUALITE . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+
+1. Durcissement et diffusion des menaces . . . . . . . . . . . . . . . . . . . . . . . . 37 1. 1. Enracinement et dissémination du terrorisme jihadiste . . . . . . . . 37 1. 2. Accélération de la prolifération . . . . . . . . . . . . . . . . . . . . . . . . . . . 38 • Dissémination conventionnelle. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39 • Prolifération biologique et chimique . . . . . . . . . . . . . . . . . . . . . . . . . . 39 • Prolifération nucléaire . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 40 • Multipolarité nucléaire . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41 1. 3. Le retour de la compétition militaire . . . . . . . . . . . . . . . . . . . . . . . 41 • Les problématiques du renouveau de la puissance russe . . . . . . . . . . . 42 • La Chine, une puissance aux ambitions globales . . . . . . . . . . . . . . . . 42
+
+2. Des espaces contestés . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43 • Les espaces maritimes . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43 • L’espace aérien . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45 • L’espace exo-atmosphérique . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45 • L’espace numérique . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 46
+
+3. De l’ambiguïté à l’escalade . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47 • Ambiguïté et intimidation stratégique . . . . . . . . . . . . . . . . . . . . . . . . . 47 • Durcissement de l’environnement opérationnel . . . . . . . . . . . . . . . . . 48 • Des risques accrus d’escalade . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 50
+
+92.  La croissance des menaces dites asymétriques, la montée en puissance d’Etats et d’organisations non étatiques, via en particulier la prolifération de systèmes conventionnels sophistiqués voire d’armes de destruction massive et l’émergence d’une compétition militaire intensifiée entre grandes puissances entraînent une mutation de la conflictualité. Elle se déploie désormais dans tous les domaines et en amont du conflit ouvert. Il en résulte une rivalité renouvelée pour le contrôle des espaces communs ou partagés et un durcissement des opérations dans tous les milieux. Ces évolutions concourent à la permanence d’un état de crise à l’échelle mondiale, marqué par des risques d’escalade accrus.
+
+1. Durcissement et diffusion des menaces
+
+### 1.1. Enracinement et dissémination du terrorisme jihadiste
+
+93.  Menace la plus immédiate et la plus prégnante, car elle s’exerce contre nos populations et sur notre propre sol, le terrorisme jihadiste connaît une phase de transformation qui n’en atténuera ni la portée, ni le danger pour la décennie à venir : les principales organisations jihadistes reculeront sur certains théâtres sans pour autant disparaître, tandis que l’idéologie qui les sous-tend ne faiblira pas.
+
+94.  Matrices à la fois idéologiques et opérationnelles, où les savoir-faire sont transmis d’une génération à l’autre, les organisations jihadistes actuelles, Daech, Al Qaïda et leurs différentes filiales, sont parvenues à s’adapter et à muter malgré les revers qu’elles ont subis. Leurs ramifications profitent ainsi des situations de chaos, de guerre civile et des zones non gouvernées pour s’enraciner sur de nouveaux terrains, en bénéficiant des retours ou des transferts de cadres expérimentés, depuis les zones de combat du Moyen-Orient. A partir du Levant, centre de gravité de ces dynamiques où se sont croisés plusieurs dizaines de milliers de combattants, leur dissémination en Afghanistan, en Asie du Sud-Est mais également en Asie centrale et potentiellement en Afrique subsaharienne témoigne de la rapidité de cette recomposition. Aggravée par l’acquisition de compétences militaires et technologiques (drones, cryptographie, communication, armes chimiques), la menace jihadiste est amplifiée par le retour, dans leurs régions d’origine, des combattants étrangers qui pourraient menacer la France depuis l’Afrique du Nord. Cette évolution du phénomène représente un défi sécuritaire de première importance pour les Etats occidentaux, leurs intérêts et leurs ressortissants.
+
+95.  Au moment où se profile la fin du pseudo-Califat territorialisé et militarisé en Irak et en Syrie, il convient de ne pas sous-estimer le maintien de son potentiel offensif. Daech demeure une organisation à la portée opérationnelle globale,
+
+forte de ressources militaires et économiques importantes. La diminution de son emprise se traduit par un passage progressif à la clandestinité au Levant et, simultanément, par une lutte globale, exportée sur le territoire de ses ennemis et relayée dans différentes zones-refuges, où elle suscite de nouveaux effets déstabilisateurs (est de l’Afghanistan, sud de la Libye, Nigéria, Bangladesh, Asie du Sud-Est). Daech continue par ailleurs ses activités globales de propagande.
+
+96.  La visibilité de Daech ne doit pas occulter Al Qaïda, mouvement transnational qui a également fait la preuve de ses capacités d’adaptation. Il essaime sa marque auprès de divers mouvements régionaux, comme en Syrie avec Hay’at Tahrir al Sham (ex Jabhat al Nostra – JAN), en Somalie avec Al Shabab ou encore au Sahel avec l’unification des groupes jihadistes sous sa bannière (Nousrat al Islam wal Muslimin – NIM). L’organisation s’implante durablement au sein des populations, visant leur soutien autant que leur contrôle, selon le modèle développé au Yémen par Al Qaïda en péninsule arabique (AQPA).
+
+97.  Ces deux mouvements partagent une même matrice idéologique, le salafisme jihadiste, et la volonté de détruire les régimes du monde musulman jugés illégitimes, comme les sociétés jugées impies.
+
+98.  De l’Afrique de l’Ouest à l’Asie du Sud-Est, en passant par la Somalie et le Levant, l’évolution du phénomène jihadiste devrait donc être marquée par la prolifération et l’enkystement d’enclaves ou de guérillas persistantes, voire de proto-Etats bénéficiant de la sympathie et parfois du concours actif des populations.
+
+99.  Le jihadisme depuis plus de vingt ans ne faiblit pas mais se déplace et se recompose. Comme le montre la diffusion de l’islam radical à travers le monde, de l’Afrique de l’Ouest à l’Indonésie, ces recompositions s’inscrivent dans un phénomène de civilisation plus global qui doit être appréhendé dans toutes ses dimensions. Les réponses à ce défi requièrent une mobilisation de toutes les politiques publiques : renseignement, sécurité, justice, éducation, diplomatie…
+
+### 1.2. Accélération de la prolifération
+
+100.  La prolifération des armes de destruction massive (ADM), la diffusion de systèmes conventionnels sophistiqués et les transformations induites par les progrès technologiques vont offrir des moyens inédits d’agression et de perturbation aux puissances régionales comme à certaines organisations non étatiques.
+
+• Dissémination conventionnelle
+
+101.  Les acteurs non étatiques, mouvements terroristes ou milices, profitent depuis longtemps de l’abondante diffusion d’armes (armes légères, armes antichars, engins explosifs improvisés, mines…) issues des trafics criminels comme du pillage d’anciens arsenaux. Ce phénomène s’étend également aux armements tactiques de dernière génération (charges thermobariques sur le théâtre levantin), ainsi que des armements lourds, comme de l’artillerie sol-sol ou sol-air, des mines terrestres ou navales.
+
+102.  En outre, ces acteurs mettent désormais en œuvre des armements sophistiqués comme des missiles balistiques, des missiles sol-air ou antinavires de courte à moyenne portée, utilisés à des fins d’interdiction de zone ou comme armes de terreur contre les populations. La rébellion des Houthis en est une illustration récente, avec l’emploi de telles capacités à des fins tactiques (contre des navires émiratis et américains le long des côtes yéménites), mais également stratégiques (tirs balistiques sur le territoire saoudien).
+
+103.  Dans des espaces fermés à forte densité de trafic ou de population (Méditerranée, golfe Arabo-Persique), l’accumulation de systèmes d’anti-accès, au service de postures de « sanctuarisation agressive », pourrait s’avérer préoccupante en cas de montée des tensions. Cette prolifération concerne également des moyens de frappe à distance comme les missiles balistiques et de croisière. Plus de 40 Etats se sont dotés de cette capacité offensive susceptible d’emporter des charges classiques mais aussi des armes de destruction massive.
+
+• Prolifération biologique et chimique
+
+104.  Le conflit en Syrie a été l’occasion d’une banalisation de l’emploi des armes chimiques, avec de nombreuses utilisations documentées depuis 2013 d’ypérite ou de sarin. Leur usage répété par Daech et surtout par le régime de Bachar el Assad, l’existence de stocks de précurseurs en Libye démontrent que les arsenaux chimiques et les savoir-faire nécessaires à leur utilisation sont une réalité toujours tangible. Or ces violations n’ont pas été suivies de sanctions à la hauteur du tabou qu’elles ont brisé, pas plus que l’assassinat de Kim Jong-Nam à l’aide d’un neurotoxique. L’utilisation d’agents chimiques contre les forces ou sur le territoire national est donc une hypothèse qui ne peut être exclue.
+
+105.  De la même façon, le risque biologique, particulièrement difficile à qualifier en raison de son caractère éminemment dual, continue à se développer avec les recherches en biologie de synthèse. La capacité à reconstituer ou modifier des virus par génie génétique constitue également un motif de préoccupation majeure.
+
+• Prolifération nucléaire
+
+106.  La lutte contre la prolifération nucléaire s’impose comme une nécessité objective. S’agissant de l’Iran et de ses intentions, le Joint Comprehensive Plan of Action (JCPOA – accord de Vienne de juillet 2015) est venu contraindre fortement, au moins jusqu’en 2025, le programme nucléaire iranien. En outre, l’Iran possède un arsenal balistique opérationnel conséquent, diversifié et sophistiqué. Il poursuit l’amélioration de ses vecteurs et développe en particulier un programme ambitieux de missile intercontinental.
+
+107.  Le défi stratégique posé par la Corée du Nord a changé de nature et vient bouleverser les équilibres stratégiques régionaux, et à terme globaux. Après des progrès nettement plus rapides qu’anticipé, Pyongyang se trouve sur le point de disposer d’un arsenal opérationnel à l’échelle régionale. La priorité déclarée du régime, à savoir la constitution d’une force nucléaire opérationnelle de portée globale, pourrait se réaliser à brève échéance, menaçant directement les Etats-Unis, mais aussi le territoire européen. La Corée du Nord développe un discours et des capacités qui ont pour objectif de provoquer un découplage entre Washington et ses alliés asiatiques. La crise nord-coréenne est donc un problème de prolifération qui se double d’une question de dissuasion et de défense, menaçant non seulement la stabilité régionale mais encore le régime de non-prolifération et la sécurité internationale. En outre, la Corée du Nord joue depuis plusieurs années un rôle notoire dans les transferts proliférants. Cette activité vers le Moyen-Orient, qui concerne les armes de destruction massive comme les vecteurs, représente une menace pour l’Europe.
+
+108.  Pour sa part, le Pakistan développe de façon soutenue son arsenal nucléaire tactique, et alimente ainsi les fortes incertitudes relatives à l’abaissement du seuil d’emploi, à la sécurité et à la sûreté de ses armes. Islamabad est également engagé dans un programme d’accroissement de la portée de ses missiles, qui pourrait lui permettre de cibler à terme des territoires au-delà du sous-continent.
+
+109.  De plus, les engagements de non-prolifération nucléaire adoptés par plusieurs pays du Moyen-Orient restent incomplets et laissent subsister des zones grises.
+
+110.  Enfin, le Traité d’interdiction des armes nucléaires adopté le 7 juillet 2017, après une négociation hâtive, risque d’affaiblir le régime de non-prolifération, en particulier le Traité sur la non-prolifération des armes nucléaires (TNP), dans un monde où le fait nucléaire réapparaît en force. Le désarmement ne se décrète pas, il se construit progressivement. C’est pourquoi il importe de favoriser la relance d’un processus réaliste de limitation des armements et de renforcement de la confiance, afin de contribuer à la stabilité stratégique et à la sécurité partagée. Les tensions américano-russes actuelles affectent par
+
+exemple l’avenir des outils de désarmement bilatéraux. Le monde pourrait alors être confronté dans un horizon proche à l’absence de tout cadre de maîtrise des armements stratégiques américains et russes.
+
+111.  Au-delà de la menace directe que représente aujourd’hui la Corée du Nord, les puissances régionales proliférantes font courir le risque d’un effondrement du régime de non-prolifération et d’une prolifération en cascade, les voisins de ces Etats considérant qu’ils n’ont d’autre recours que de développer leur propre programme d’ADM.
+
+• Multipolarité nucléaire
+
+112.  Les nouveaux acteurs, enfin, sont peu connus (Corée du Nord), ce qui contribue à rendre l’équation de la dissuasion plus instable. Certains Etats possédant des capacités nucléaires ont par ailleurs opté soit pour des postures opaques, en rupture avec les codes classiques de la dissuasion (qu’il s’agisse de doctrine publique ou de prudence déclaratoire) soit pour des postures nucléaires agressives incluant une dimension de chantage. La France est ainsi confrontée à l’émergence d’une véritable multipolarité nucléaire militaire et doit continuer de s’adapter à cette réalité nouvelle, en renforçant en particulier ses outils de renseignement et d’analyse.
+
+### 1.3. Le retour de la compétition militaire
+
+113.  Si les Etats-Unis demeurent sans conteste et pour longtemps encore le leader en matière militaire, leur part dans les dépenses mondiales de défense diminue. Ce phénomène s’avère beaucoup plus prononcé encore dans la plupart des pays européens, qui ont profondément réduit leurs capacités militaires pendant les années 2000, jusqu’à déboucher sur un déclin historique. Dans le même temps, la Chine et la Russie, non seulement sont présentes sur tout le spectre et y détiennent des capacités souvent supérieures en nombre aux capacités européennes, mais encore sont engagées dans une politique de modernisation capacitaire et de rattrapage technologique. Enfin, un nombre croissant de puissances régionales se dotent également d’armements performants.
+
+114.  Les pays européens devront assumer une part plus importante de responsabilités sur tout le pourtour du continent et au-delà, non seulement pour gérer les crises et concourir à la stabilisation régionale, mais également pour défendre les intérêts nationaux et européens face aux grandes puissances entreprenantes.
+
+• Les problématiques du renouveau de la puissance russe
+
+115.  Tout en dénonçant « l’expansionnisme occidental », la Russie cherche à affaiblir le lien transatlantique et diviser l’Union européenne. De manière inédite depuis la guerre froide, elle développe une politique d’affirmation tous azimuts (flanc est, Méditerranée, Syrie, Balkans) et dans tous les champs. Celle-ci s’inscrit notamment dans une logique de sphère d’influence, qui s’accompagne d’un recours préoccupant à des formes d’intimidation stratégique.
+
+116.  Lancés dès les années 2000 et accélérés à partir de 2010, les efforts russes de modernisation militaire, soutenus par des budgets très importants (entre 3 % et 4 % du PIB), portent aujourd’hui leurs fruits. Si une partie de la marine de surface et de l’armée de terre sont encore en dessous des standards occidentaux, les segments effectivement modernisés sont suffisamment nombreux et performants pour offrir à la Russie des capacités d’intervention très substantielles dans ce qu’elle estime être son « étranger proche », qui est aussi celui de l’Europe. Elles sont désormais significatives au-delà : la présence navale permanente depuis 2013 et la conduite d’une campagne aérienne pendant plus d’un an en Syrie l’ont démontré. Au niveau stratégique, la Russie est en passe de finaliser la modernisation de l’ensemble de ses forces nucléaires.
+
+117.  Cette affirmation de la puissance russe appelle en réponse une fermeté qui doit s’accompagner d’un dialogue, notamment sur les sujets d’intérêt commun, pour lesquels Moscou demeure un acteur clé. Ce dialogue doit aussi avoir pour objectif de définir les modalités d’une relation constructive entre l’Europe et la Russie.
+
+• La Chine, une puissance aux ambitions globales
+
+118.  La Chine devient la seconde puissance mondiale. Le maintien de sa stabilité intérieure passe par une action internationale planifiée sur le long terme. La Chine poursuit l’ambition d’être, à brève échéance, la puissance dominante en Asie orientale et, à moyen terme, d’égaler ou de surpasser la puissance américaine. Pour ce faire, le développement de ses capacités militaires constitue un axe prioritaire.
+
+119.  Longtemps orientée vers la seule défense du territoire et de ses approches, l’armée chinoise a bénéficié d’une hausse continue de son budget depuis 25 ans. Celui-ci est aujourd’hui plus de quatre fois supérieur à celui de la France, pour une valeur équivalente il y a dix ans.
+
+120.  Ses efforts de modernisation sont consacrés en priorité au haut du spectre, au renseignement, aux domaines spatiaux, cyber et aux capacités de projection de
+
+force et de puissance. La montée en puissance de la marine chinoise a d’abord répondu à l’objectif de sanctuarisation de la mer de Chine méridionale. Une nouvelle étape a été franchie au cours des dernières années avec la création par poldérisation d’îlots artificiels militarisés, équipés de pistes d’aviation et d’infrastructures portuaires. Parallèlement, la production régulière de nouvelles unités, en particulier la mise en service d’un sous-marin par an, à laquelle s’ajoutent le projet emblématique d’une capacité aéronavale et le développement d’avions de chasse de 5e génération, illustrent cette ambition. Dans le domaine de la vente de matériel militaire, la Chine déploie d’importants efforts pour exporter y compris vers des zones de crise. Ces matériels se retrouvent de plus en plus directement en concurrence avec nos propres produits.
+
+121.  De ce fait, il est donc important d’entretenir avec Pékin un dialogue stratégique lucide et exigeant, en suivant attentivement la montée en puissance militaire chinoise et les conséquences qu’elle pourra avoir dans les nouvelles zones d’interaction en Afrique (Djibouti) et dans l’océan Indien.
+
+## 2. Des espaces contestés
+
+122.  Enjeu traditionnel de rivalité entre grands Etats, l’accès aux espaces stratégiques communs ou partagés (maritime, aérien, exo-atmosphérique, numérique) fait l’objet d’une compétition dont l’intensité croît, alors que les règles communes qui les gouvernent sont soit insuffisantes (spatial et cyberespace), soit fragilisées ou contestées (droit aérien ou maritime) au profit des rapports de force. Cette compétition est également caractérisée par l’augmentation rapide du nombre des acteurs, puissances établies ou émergentes, étatiques ou non étatiques, comme de leurs moyens d’action.
+
+• Les espaces maritimes
+
+123.  Les espaces maritimes sont au cœur de tensions croissantes, par leur rôle central dans la mondialisation des flux de toutes natures, y compris numériques (câbles sous-marins), les ressources qu’ils contiennent et le développement des capacités navales et aériennes de frappe à distance. Outre la mer de Chine, où les tensions ont des conséquences dans le Pacifique en général, l’Atlantique Nord, la Méditerranée et l’océan Indien illustrent cette problématique.
+
+124.  Espace de rapprochement entre Etats riverains du Nord et du Sud, autour d’enjeux de sécurité communs, la Méditerranée est également un carrefour majeur vers l’océan Atlantique, l’océan Indien et la mer Noire, dont les détroits jouent un rôle critique pour le trafic maritime et informationnel mondial
+
+(25 % du trafic). La militarisation croissante de son littoral comme de ses eaux internationales est le fait de nouvelles puissances maritimes régionales qui se dotent progressivement d’équipements navals comme de systèmes de déni de zone modernes (lutte antisurface, anti-sous-marine ou antiaérienne), entraînant des risques potentiels d’appropriation de leurs approches maritimes ou aériennes, au détriment de la liberté de circulation internationale. La Russie a ainsi retrouvé son statut de puissance méditerranéenne, comme en attestent ses démonstrations de puissance aéronavale et son implantation durable en Méditerranée orientale, grâce au renforcement de son réseau de points d’appui, depuis la Crimée jusqu’à la Syrie. Pékin développe également sa présence en Méditerranée. L’intensification des flux commerciaux maritimes entre la Chine et l’Union européenne, dont témoignent son statut de deuxième partenaire commercial de l’UE et le rachat du port autonome du Pirée, a rendu crucial l’accès à la Méditerranée via le canal de Suez dans le cadre des « nouvelles routes maritimes de la soie » promues par Pékin.
+
+125.  Espace de toute première importance pour l’économie mondiale, l’océan Indien voit transiter 25 % du trafic mondial et 75 % des exportations de l’UE. Le canal de Mozambique constitue notamment une zone d’intérêt stratégique, avec le passage d’une route maritime commerciale essentielle qui reste sous la menace d’activités liées à la piraterie. Défi stratégique d’une autre nature, la présence navale chinoise s’intensifie : initiée en 2008, elle est désormais permanente, renforcée par la mise en œuvre opérationnelle d’une base à Djibouti et d’un point d’appui à Gwadar (Pakistan). Cette évolution s’inscrit dans un projet ambitieux visant à exercer une plus grande influence dans un espace maritime qui s’étend de la mer de Chine méridionale à l’ensemble de l’océan Indien. Sa mise en œuvre modifie en profondeur les équilibres du pourtour de l’océan Indien et inquiète la majorité des Etats riverains, au premier rang desquels l’Inde, qui s’y considère comme la puissance naturelle, et l’Australie, seul pays au monde avec la France et les Etats-Unis à être présente à la fois dans le Pacifique et l’océan Indien.
+
+126.  Enfin, sur le territoire national, la mise en place d’une posture de défense maritime et d’un dispositif spécifique intégrant l’ensemble des administrations s’avère efficace en métropole (notamment grâce aux sémaphores et à une couverture radar des approches maritimes) mais nécessite encore d’être développé outremer.
+
+• L’espace aérien
+
+127.  Le trafic aérien mondial connaît une progression régulière. Le volume de passagers transportés annuellement atteindra 6 milliards en 2030. Les espaces aériens européens, et en particulier français (15 000 mouvements quotidiens), constituent un carrefour majeur pour ces flux, avec une concentration unique de routes de
+
+navigation et d’aéroports internationaux parmi les plus importants au monde. A la densité du trafic commercial classique s’ajoute à présent l’exploitation de nouveaux vecteurs – drones de toute taille pour de multiples usages, appareils ultralégers, objets stratosphériques – dont il faut organiser l’intégration tout en respectant la fluidité et la sécurité d’ensemble. La gestion de ces flux est à ce point optimisée qu’une entrave même ponctuelle a immédiatement de lourdes conséquences économiques. En dehors des opérations strictement militaires, le trafic aérien présente des dangers spécifiques : risques d’attentats, utilisations détournées d’appareils (11 Septembre, nouvelle menace des drones, qui concerne l’ensemble des opérateurs d’importance vitale), interactions entre zones de conflit et mouvements aériens civils (destruction du vol MH 17 au-dessus de l’Ukraine en juillet 2014).
+
+128.  Pour les nombreux acteurs concernés – armée de l’air à titre principal (posture permanente de sûreté), ministères de l’Intérieur, de la Justice, des Transports, de l’Economie… –, les enjeux portent sur la garantie de notre souveraineté, sur la circulation opérationnelle militaire et les espaces d’entraînement, enfin sur le développement et l’interopérabilité des systèmes de commandement et de contrôle. En effet, cette souveraineté est soumise d’une part à l’effet des règlementations internationales et d’autre part à la densité du trafic aérien.
+
+• L’espace exo-atmosphérique
+
+129.  Peu régulé, l’espace exo-atmosphérique est en profonde mutation et investi, lui aussi, par les logiques de compétition stratégique et militaire. La multiplication des acteurs étatiques et privés entraîne une banalisation de l’accès à l’espace. De plus en plus d’Etats ont en effet acquis des capacités industrielles leur permettant de réaliser des lanceurs spatiaux et des satellites.
+
+130.  L’évolution technologique sans précédent qui sous-tend cette expansion permet l’émergence d’une nouvelle manière de concevoir et d’exploiter les systèmes spatiaux (New Space) mais aussi une banalisation des usages, un risque dangereux de prolifération, une compétition accrue entre Etats et une intense concurrence industrielle. Fournisseur de services aujourd’hui indispensables de navigation, de communication, de météorologie ou d’imagerie, le domaine spatial est aussi un espace de confrontation où certains Etats peuvent être tentés d’user de la force pour en dénier l’accès ou menacer l’intégrité de ses composants.
+
+131.  Les progrès des techniques de rendez-vous dans l’espace, les capacités de robotique et de propulsion électrique permettent de réparer, de ravitailler en carburant voire de désorbiter des engins spatiaux. Sous couvert d’objectifs civils, des Etats peuvent donc financer ouvertement des technologies potentiellement antisatellites. Celles-ci permettraient la mise en service d’outils dont les actions
+
+seraient beaucoup plus difficiles à détecter, à suivre, à attribuer et à contrer que des actions exo-atmosphériques plus classiques (missiles, lasers, brouilleurs…).
+
+132.  Les activités liées à ce nouveau paradigme posent également de nombreuses questions juridiques (contrôle à l’exportation, réglementation de la diffusion de données et sécurité de l’espace en lien avec la multiplication des satellites ou les débris…). Le problème de l’arsenalisation de l’espace se pose donc dans des termes renouvelés.
+
+• L’espace numérique
+
+133.  Désormais considéré comme un champ de confrontation à part entière, l’espace numérique fait l’objet d’une compétition stratégique intense. La numérisation massive que connaissent nos sociétés depuis une dizaine d’années et l’interconnexion globale des systèmes d’information et de communication suscitent l’émergence de nouvelles menaces comme de nouvelles opportunités. Elles mettent à portée de tous de puissants outils d’expression, d’influence, de propagande et de renseignement, d’immenses volumes de données mais aussi de redoutables vecteurs d’attaque. Elles favorisent la montée en puissance de nouveaux acteurs privés, qui s’imposent sur la scène internationale comme un défi à la souveraineté des Etats mais aussi comme des partenaires parfois essentiels. Elles transforment de fait les rapports de pouvoir entre acteurs étatiques, non étatiques et le secteur privé.
+
+134.  Les plateformes d’intermédiation privées nées de la révolution numérique, comme Google, Facebook ou Baidu, s’imposent désormais comme des acteurs majeurs de l’environnement géopolitique. Grâce au nombre considérable d’usagers qu’elles drainent, ces entreprises collectent et contrôlent d’immenses volumes de données et assurent désormais des services essentiels. La détention, le croisement et l’exploitation de ces informations constituent un avantage majeur dans le domaine économique, mais aussi stratégique (connaissance, anticipation, etc.). Elles sont au cœur des enjeux de la lutte antiterroriste comme de cybersécurité, de protection des données personnelles, et pour certaines de détection, d’attribution et de réponse aux cyberattaques.
+
+135.  Les Etats-Unis, la Chine et la Russie ont favorisé l’émergence de géants nationaux de l’Internet dans le cadre de stratégies globales de puissance et de souveraineté. La suprématie des Etats-Unis dans toutes les dimensions de l’espace numérique (matérielle, technologique, économique, juridique, politique et militaire) offre un contraste saisissant avec la situation des Européens, qui demeurent fortement dépendants de l’extérieur et dont les investissements comme les acteurs peinent à atteindre une taille critique. La Chine investit massivement dans l’Internet du futur, l’innovation et l’e-commerce et le
+
+développement d’une « route de la soie numérique ». Ce faisant, elle vise à assurer un contrôle souverain sur la partie de l’espace numérique qu’elle assimile à son territoire national et à étendre son influence au-delà. Imposant la localisation des données relatives à ses citoyens sur son territoire, la Russie investit massivement dans la construction de data centers dans une stratégie de maîtrise des données et de sécurité informationnelle.
+
+136.  Enfin, la fréquence, l’ampleur et la sophistication technologique des agressions augmentent sans cesse dans l’espace numérique, où les Etats se livrent à des affrontements constants, qui pourraient à l’avenir relever du seuil de l’emploi de la force ou de l’agression armée, avec des conséquences collatérales potentielles pour les acteurs privés. Si le principe de l’applicabilité du droit international à l’espace numérique et aux cyber opérations, défendu par la France, fait l’objet d’un consensus croissant, certains Etats continuent de s’y opposer. Par ailleurs, la question de ses modalités d’application et surtout du contrôle de leur mise en œuvre reste ouverte.
+
+## 3. De l’ambiguïté à l’escalade
+
+137.  Le développement technologique, la dissémination des capacités militaires avancées et le développement des nouveaux domaines de confrontation posent des défis nouveaux aux systèmes de défense et de sécurité traditionnels. En élargissant la gamme des options disponibles aux acteurs de tous types, ils favorisent le développement de stratégies totales ou «intégrales», l’association de capacités militaires et non militaires et la combinaison de postures ambiguës, souvent qualifiées « d’hybrides », de pressions directes et indirectes permettant d’agir depuis le temps de paix jusqu’au conflit ouvert. Alors que le renforcement généralisé des capacités militaires, dans le haut comme dans le bas du spectre, rend les conflits armés plus durs, les risques d’incidents graves ou d’escalades non maîtrisées augmentent.
+
+• Ambiguïté et intimidation stratégique
+
+138.  Les acteurs étatiques comme non étatiques ont aujourd’hui à leur disposition une palette considérablement élargie pour atteindre leurs objectifs politiques sans avoir à engager leurs moyens militaires dans des affrontements directs.
+
+139.  Les nouveaux milieux de confrontation (cyberespace, espace exo-atmosphérique) comme les moyens d’action démultipliés dans le champ de l’information (Internet, réseaux sociaux, propagande numérique) permettent d’agir à distance en s’affranchissant des frontières entre « l’intérieur » et « l’extérieur » des Etats, ainsi que des séparations traditionnelles entre temps de paix, de crise et de guerre.
+
+Ces leviers sont d’autant plus attractifs qu’ils sont aujourd’hui peu régulés par le droit, peu encadrés par des instruments de contrôle et que l’attribution des actions y est problématique. Leur point d’application est moins le champ matériel que des objectifs touchant directement le cœur des sociétés (infrastructures critiques, ressources) ou leurs dimensions immatérielles (forces morales, cohésion politique). Aux instruments traditionnels de la propagande par les médias officiels ou les moyens d’action clandestins s’ajoutent ainsi les trolls actifs sur les réseaux sociaux et les groupes de hackers. Plus ou moins discret, le travail de désinformation démultiplié par Internet peut déboucher sur une forme de subversion douce, qui vise à accroître les tensions internes de la société ciblée, à l’influencer et à favoriser sa paralysie politique.
+
+140.  La généralisation de l’ambiguïté ou de l’agression dissimulée se vérifie également avec l’emploi de plus en plus fréquent, par certains Etats, de groupes agissant par procuration (proxies), allant de diasporas instrumentalisées à des milices ou groupes armés capables de tenir en échec des forces classiques. Enfin, les capacités de frappe à distance à la portée et à la précision accrues (missiles de croisière ou balistiques, systèmes non pilotés) ajoutent à ces moyens une dimension offensive, à des fins démonstratives et politiques.
+
+141.  En jouant avec agilité sur la totalité des registres de l’action, par la combinaison de déstabilisations intérieures, de pressions diplomatiques ou économiques d’un côté, de démonstrations militaires et de « sanctuarisation agressive » de leurs approches de l’autre, des puissances étatiques de premier rang comme régionales parviennent ainsi à développer des stratégies « intégrales » d’intimidation pour s’imposer face à leurs rivaux ou à leurs adversaires.
+
+142.  Il résulte de l’ensemble de ces facteurs une forme d’état de tension endémique à l’échelle mondiale, qui se manifeste dans les zones de crise et affecte en permanence les relations entre puissances. L’un des dangers principaux de ces stratégies est l’effet d’érosion qu’elles sont susceptibles de provoquer, dans la durée, sur les volontés politiques et la cohésion interne des Etats ou des alliances.
+
+• Durcissement de l’environnement opérationnel
+
+143.  Dès lors que la force est ouvertement utilisée, l’environnement opérationnel est marqué par le nivellement technologique entre adversaires potentiels et le durcissement des conflits. Constaté de l’Afghanistan jusqu’au Sahel, ce durcissement rend désormais la supériorité militaire occidentale fragile et réversible, et ce dans tous les milieux.
+
+144.  Dans le milieu terrestre, la généralisation des combats en milieu urbain réduit les effets de la supériorité technologique et peut imposer aux armées modernes de concentrer des volumes importants de forces qui devront être fortement protégées, pour éviter de les exposer à des niveaux élevés de pertes. Plus largement, dans le bas du spectre, les adversaires asymétriques emploient désormais des capacités « nivelantes » et des tactiques innovantes qui durcissent considérablement les conditions d’engagement. Dans le haut du spectre, la dissémination d’équipements nombreux et modernes (chars et hélicoptères d’attaque de dernière génération, artillerie à longue portée et moyens de guerre électronique) remet en cause le rapport de force jusqu’ici favorable aux forces terrestres européennes et peut aller jusqu’à l’inverser dans certains domaines. Celles-ci doivent reconstruire leur supériorité en l’appuyant sur le triptyque constitué par la haute technologie et l’interopérabilité mais aussi par le rétablissement de leur masse critique.
+
+145.  Dans le milieu naval, des tendances similaires se dégagent : durcissement dans le bas du spectre, dans les zones côtières, et arsenalisation de la haute mer (augmentation de flottes sous-marines, acquisition de porte-avions, développement de missiles mer-sol…). A la diffusion déjà ancienne de mines, s’ajoute désormais la menace d’EEI navals. L’amélioration des systèmes de surveillance (satellites, radars, drones) et la prolifération des missiles antinavires augmentent la vulnérabilité des forces navales. En parallèle, le réarmement naval en cours modifie l’équilibre numérique et qualitatif des forces, contraignant la liberté de manœuvre des forces navales occidentales qui vont par conséquent devoir améliorer significativement leurs capacités de protection comme de riposte.
+
+146.  L’espace aérien est autant un élément des opérations conduites en surface qu’un milieu de combat en lui-même, dont la maîtrise est déterminante. Là aussi, la période de suprématie occidentale est close, menaçant la liberté d’action des forces aériennes, y compris dans des zones considérées il y a peu comme permissives. Nos compétiteurs stratégiques ont en effet prouvé qu’ils sont en mesure de déployer une gamme complète de capacités aériennes aux performances comparables et parfois supérieures. Les capacités de déni d’accès et d’interdiction de zone (A2/AD) en cours de dissémination reposent non seulement sur des moyens sol-air évolués (S-300), à la portée nettement accrue, mais encore sur des chasseurs furtifs, des radars performants et des systèmes de commandement et de contrôle intégrant tous ces éléments. Elles remettent en cause les capacités d’entrée en premier et la projection de forces et de puissance. Contrer les postures de déni d’accès et conquérir la supériorité aérienne redevient un objectif préalable à toutes les opérations, ce qui implique des efforts renouvelés, qu’il s’agisse de parcs d’avions (en nette diminution
+
+en Europe), de capacités de pointe (avions de générations 4+ et 5, munitions spécialisées) ou de technologies de rupture.
+
+147.  Ce renforcement généralisé des capacités militaires voit ses effets amplifiés par l’exploitation des technologies de l’information (cyber et spatial) : systématiquement plus intenses et plus destructeurs, les combats mettent aux prises des forces aux capacités de moins en moins différentes, dans tous les milieux. Ils se caractérisent également par une désinhibition croissante dans l’emploi de la violence, au mépris du droit de la guerre et du droit des conflits armés.
+
+• Des risques accrus d’escalade
+
+148.  Il résulte de ces tendances convergentes un risque accru d’escalade et de montée aux extrêmes entre Etats, potentiellement jusqu’au franchissement du seuil nucléaire, en raison des erreurs possibles concernant les seuils de réaction adverses. Ce risque se nourrit également des progrès dans la vitesse des vecteurs et, pour les chaînes de commandement, de la vitesse de décision grâce à l’automatisation. De telles évolutions sont de nature à rendre les rapports de puissance plus instables, en abaissant les seuils de déclenchement d’une confrontation, en favorisant les déclenchements accidentels ou en incitant à rechercher systématiquement l’initiative d’une première frappe. Cette prime à la frappe en premier entre puissances symétriques rivales pourrait concerner en particulier les domaines spatiaux ou cyber.
+
+PARTIE C NOTRE STRATEGIE DE DEFENSE : AUTONOMIE STRATEGIQUE ET AMBITION EUROPEENNE . . . 52
+
+1. Intérêts de sécurité et autonomie stratégique . . . . . . . . . . . . . . . . . . . . 54 1. 1. Nos intérêts et priorités de sécurité . . . . . . . . . . . . . . . . . . . . . . . . 54 1. 2. Notre autonomie stratégique . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 56 • Cohésion et résilience . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 56 • Une diplomatie forte au service d’une approche globale . . . . . . . . . . 57
+
+2. Une ambition européenne exigeante et des responsabilités globales . 58 2. 1. La construction d’une autonomie stratégique européenne . . . . . . 58 • L’émergence d’intérêts de sécurité européens . . . . . . . . . . . . . . . . . . . 58 • Un renforcement pragmatique de la PSDC . . . . . . . . . . . . . . . . . . . . . 59 • L’Alliance atlantique, élément clé de la sécurité européenne . . . . . . . 60 • Une nouvelle approche des coopérations de défense . . . . . . . . . . . . . . 61 2. 2.  Un cadre multilatéral renforcé, des partenariats stratégiques indispensables . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 63 • Notre engagement pour un multilatéralisme renforcé . . . . . . . . . . . . . 63 • Un approfondissement de nos partenariats stratégiques . . . . . . . . . . . 64
+
+3. Une ambition industrielle et technologique réaffirmée . . . . . . . . . . . . 66 3. 1. La nécessité d’une BITD forte . . . . . . . . . . . . . . . . . . . . . . . . . . . . 66 3. 2. Des coopérations technologiques et industrielles maîtrisées . . . . 67 3. 3.  La préparation de l’avenir et l’intégration de l’innovation et du numérique . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 70
+
+4. Consolider les fonctions stratégiques . . . . . . . . . . . . . . . . . . . . . . . . . . 71 • Dissuasion . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 72 • Protection . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 73 • Connaissance et anticipation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 74 • Intervention . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 75 • Prévention . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 76
+
+5. Des armées adaptées aux défis stratégiques actuels et futurs . . . . . . . 78 5. 1. Un modèle complet et équilibré pour agir sur tout le spectre . . . 78 5. 2. Des coopérations opérationnelles maîtrisées . . . . . . . . . . . . . . . . . 79 5. 3. Des aptitudes militaires à renforcer . . . . . . . . . . . . . . . . . . . . . . . . 80 • Renseigner et commander . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 80 • Entrer en premier . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 82 • Combattre et protéger . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 83 • Soutenir et durer . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 85 5. 4. Des femmes et des hommes formés, entraînés et valorisés . . . . . . 86
+
+149.  Face aux menaces décrites précédemment, la France doit maintenir sur le long terme une dissuasion nucléaire reposant sur deux composantes complémentaires, et relever simultanément quatre défis majeurs.
+
+150.  Le premier est celui de la protection du territoire national, de la sécurité des espaces aériens et de la sauvegarde des espaces maritimes de la France. Les postures permanentes de sûreté et de protection en sont la clé de voûte.
+
+151.  Le deuxième défi est celui de la capacité à répondre à une crise dans notre voisinage, ayant aussi un impact direct sur le territoire national. La combinaison des risques peut ainsi conduire nos forces à intervenir, éventuellement seules, dans un conflit à forte dimension humanitaire et migratoire.
+
+152.  Le troisième défi est de conserver en toute circonstance l’ascendant sur des adversaires non étatiques disséminés dans les zones d’intérêts de la France, disposant potentiellement de ressources importantes et de capacités militaires avancées.
+
+153.  Enfin, le quatrième défi consiste à assumer, dans toutes les situations, nos responsabilités dans une confrontation militaire avec des acteurs étatiques. La probabilité d’une telle confrontation est renforcée par la compétition stratégique accrue des Etats-puissances et les risques d’escalade qui en découlent. Plus symétrique et plus dure, une telle perspective requiert des capacités de combat modernes, capables de s’intégrer dans des opérations de haute intensité avec des alliés et des partenaires mettant eux-mêmes en œuvre des capacités du haut du spectre.
+
+154.  En conséquence, les armées françaises devront être capables d’opérer sur tout le spectre, ce qui justifie le maintien d’un modèle d’armée complet et équilibré, condition de l’autonomie stratégique française. Cette ambition structurante a été réaffirmée par les Livres blancs sur la défense et sur la sécurité nationale de 2008 et 2013.
+
+155.  L’ambition de notre pays repose également sur la préservation, au travers des services de renseignement, d’un degré d’indépendance d’évaluation de la situation, d’autonomie d’action et d’une capacité d’anticipation.
+
+156.  Conserver un tel modèle à l’horizon 2030 suppose de procéder à une remontée en puissance nationale, complétée par des coopérations effectives. Plus que par le passé, nous devons renforcer l’articulation entre autonomie stratégique nationale et ambition européenne, entre intérêts nationaux et intérêts partagés. En explicitant ses intérêts, la France cherche à faciliter la convergence stratégique
+
+en Europe. En parallèle, les Européens font progressivement émerger des intérêts partagés.
+
+157.  Pour la France, l’autonomie stratégique repose sur un socle politique et comprend deux piliers : un haut degré d’autonomie industrielle et technologique d’une part, et les moyens d’une autonomie opérationnelle d’autre part.
+
+1. Intérêts de sécurité et autonomie stratégique
+
+### 1.1. Nos intérêts et priorités de sécurité
+
+158.  Les intérêts de la France recouvrent tous les facteurs qui concourent à sa sécurité, à sa prospérité et à son influence. La défense de ces intérêts de toute nature passe par une gamme très vaste de moyens et d’actions aussi divers que le dynamisme de nos acteurs économiques ou le rétablissement de nos finances publiques, l’efficacité de notre diplomatie ou notre vitalité culturelle. Notre outil de défense y contribue à plusieurs niveaux, en tant que socle de notre liberté d’action dans le monde face aux menaces d’agression de toute nature.
+
+159.  Le concept d’intérêts a été principalement abordé dans la doctrine française à partir des intérêts vitaux, en lien étroit avec la dissuasion nucléaire. Ces intérêts vitaux ne sont jamais définis avec précision, car il est de la responsabilité ultime et unique du chef de l’Etat d’apprécier en toute circonstance leur éventuelle mise en cause et de décider, au cas par cas, de la nature de la réponse qu’il convient d’y apporter. L’intégrité de notre territoire et la sauvegarde de notre population en constituent le cœur. Quels que soient les moyens employés par l’adversaire étatique, nous devons préserver la capacité de notre nation à vivre. De plus, la définition de nos intérêts vitaux ne saurait être limitée à la seule échelle nationale, parce que la France ne conçoit pas sa stratégie de défense de manière isolée, même dans le domaine nucléaire.
+
+160.  Nous avons souscrit, dans le cadre du Traité sur l’Union européenne et du Traité de Washington, des engagements contraignants qui incarnent la solidarité de droit et de fait européenne et alliée.
+
+161.  Ainsi, au titre de l’article 42. 7 du TUE, « au cas où un État membre serait l’objet d’une agression armée sur son territoire, les autres États membres lui doivent aide et assistance par tous les moyens en leur pouvoir, conformément à l’article 51 de la charte des Nations Unies ». Le TUE rappelle que « les engagements et la coopération dans ce domaine demeurent conformes aux engagements
+
+souscrits au sein de l’Organisation du Traité de l’Atlantique Nord, qui reste, pour les États qui en sont membres, le fondement de leur défense collective et l’instance de sa mise en œuvre ». Dans le cadre du Traité de Washington, nous nous sommes collectivement engagés à « assister la partie ou les parties ainsi attaquées en prenant aussitôt, telle action [qu’ils jugeront] nécessaire, y compris l’emploi de la force armée, pour rétablir et assurer la sécurité dans la région de l’Atlantique Nord ».
+
+162.  Au-delà de ces engagements, nos intérêts doivent être appréciés à la lumière de l’imbrication croissante des intérêts des Etats européens. Notre communauté de destin, la convergence des menaces sur l’Europe et le dialogue approfondi entre Européens quant aux priorités stratégiques font progressivement émerger un nombre croissant d’intérêts fondamentalement partagés.
+
+163.  Lorsque, au lendemain des attentats du 13 novembre 2015, la France a invoqué, pour la première fois de l’histoire de l’Union européenne, l’article 42. 7 TUE, ses partenaires ont soutenu cette invocation de manière unanime, ouvrant la voie à de nombreuses contributions militaires additionnelles à notre effort commun de lutte contre le terrorisme.
+
+164.  Au-delà de ces engagements, cette réalité politique implique qu’une agression extérieure contre l’intégrité ou la cohésion européenne affecterait gravement nos intérêts.
+
+165.  Les intérêts de sécurité à défendre sont néanmoins plus larges. La garantie de nos approvisionnements stratégiques, notre liberté d’action dans les espaces communs et notre souveraineté dans l’espace numérique doivent également être préservées. Parce qu’ils jouent un rôle clé pour défendre l’accès à des zones ou à des points de passage critiques qui seraient menacés, nos propres points d’appui doivent faire l’objet d’une attention particulière. La France peut être amenée à s’engager au titre d’une vision de ses intérêts de sécurité qui intègre ses responsabilités au regard du maintien de la paix et de la sécurité internationale, au sens de la Charte des Nations Unies.
+
+166.  Outre les engagements souscrits envers nos alliés et partenaires européens, nos intérêts doivent aussi prendre en compte les Etats auxquels nous sommes liés par des partenariats ou des accords de défense, par exemple en Afrique, au Moyen-Orient et en Asie-Océanie.
+
+167.  La géographie continuera ainsi d’être un paramètre important dans la définition de nos priorités. La protection du territoire national et de ses approches en est par définition tributaire. Une partie des flux physiques (trafics, migrations illégales…) qui affectent notre sécurité sont eux aussi fonction de la géographie.
+
+Dans l’espace euro-méditerranéen et en Afrique, nous sommes amenés à assumer des responsabilités politiques et militaires plus importantes, le cas échéant avec les partenaires européens les plus concernés.
+
+168.  Cependant, la proximité géographique ne peut servir de critère exclusif pour deux raisons au moins : d’une part, il suffit de songer à l’impact qu’aurait sur nos intérêts une crise de grande ampleur en Asie, ou encore aux menaces dans l’espace numérique ; d’autre part la France a la volonté d’assumer ses responsabilités de manière globale, et pas uniquement dans son voisinage.
+
+169.  Cette lecture n’est pas statique. La grille de lecture des intérêts de la France doit en effet s’adapter en permanence et, en tout état de cause, il demeurera de la responsabilité suprême du Président de la République d’apprécier en permanence la nature de nos intérêts vitaux et les atteintes qui pourraient y être portées.
+
+### 1.2. Notre autonomie stratégique
+
+170.  Parce qu’elle conditionne l’exercice de notre souveraineté et de notre liberté d’action, notre autonomie stratégique demeure un objectif prioritaire de notre politique de défense. Dans un système international marqué par l’instabilité et l’incertitude, la France doit conserver sa capacité à décider et à agir seule pour défendre ses intérêts.
+
+171.  Cette autonomie est la condition de sa crédibilité, à l’égard de ses alliés comme de ses partenaires. Au moment où l’Europe affirme sa volonté de jeter les bases de sa propre autonomie, face à des menaces et des défis partagés, la capacité de la France à continuer de peser et d’agir est un atout pour soutenir et fédérer les volontés de ses voisins, en particulier les plus capables au plan militaire.
+
+172.  Outre ses dimensions opérationnelle et industrielle ou technologique, notre autonomie stratégique repose également sur un socle plus large, qui comprend d’une part les facteurs concourant à la résilience de la Nation et à la sécurité de ses fonctions essentielles, et d’autre part les moyens d’une diplomatie forte et engagée, indissociable de l’action de nos forces.
+
+• Cohésion et résilience
+
+173.  La cohésion nationale et la résilience des fonctions essentielles à la continuité de l’Etat comme à la vie de la Nation constituent le fondement indispensable de notre liberté d’action.
+
+174.  La cohésion nationale conditionne la légitimité de l’action des armées par le soutien de la Nation aux décisions de recours à la force. Cette cohésion est aujourd’hui confrontée à la diffusion d’idéologies remettant en cause les valeurs et les principes de la République. L’exploitation des progrès en matière numérique et médiatique renforce les capacités d’influence ou d’ingérence extérieure, étatique comme non étatique. Affermir cette cohésion, en particulier au sein de la jeunesse, doit demeurer un axe d’effort prioritaire qui doit mobiliser l’ensemble des moyens concernés de l’Etat et de la société.
+
+175.  Dans ce domaine, les armées jouent un rôle de socialisation, par leur recrutement mais aussi par les dispositifs auxquels elles participent (Garde Nationale, Service Militaire Volontaire, Service Militaire Adapté…).
+
+176.  Sur un autre plan, les secteurs d’importance vitale comme les domaines stratégiques de l’industrie et de la recherche doivent voir leur résilience consolidée. Exposée au développement des cybermenaces et aux risques associés (pillage, espionnage, vol de données), une partie d’entre eux demeure insuffisamment protégée et sensibilisée.
+
+177.  La préservation de la chaîne d’approvisionnement en matériels de défense est également un point de vigilance. Parce qu’elles ont besoin de diversifier leur activité face à un marché de défense irrégulier et étroit, de nombreuses entreprises peuvent se détourner progressivement de leur activité de défense. De plus, leur survie passe parfois par des regroupements dans le cadre de concentrations transfrontalières, pouvant amener à des pertes de la maîtrise strictement française de certaines compétences. Le contrôle des investissements étrangers en France vise à accompagner ces mouvements et à assortir les prises de contrôle de conditions particulières.
+
+• Une diplomatie forte au service d’une approche globale
+
+178.  L’autonomie repose aussi sur la diplomatie et notamment la capacité à préparer le cadre politique et juridique de l’action militaire.
+
+179.  L’action diplomatique permet ainsi de fédérer nos interventions et celles de nos partenaires autour d’objectifs communs. La phase d’élaboration politique d’une décision nationale comporte presque toujours une dimension internationale (avec nos partenaires) et multilatérale (dans le cadre des Nations Unies ou des organisations régionales de sécurité). L’investissement de la France au sein de l’Alliance atlantique, de l’Union européenne, de l’OSCE et des Nations Unies doit donc aussi être considéré comme un élément central de notre autonomie de décision. Il suppose que soient préservés les moyens de notre présence et de notre influence, aussi bien diplomatiques que militaires.
+
+180.  Notre autonomie suppose aussi de disposer des capacités d’accompagnement et de sortie de nos opérations militaires, dans le cadre d’une approche globale : soutien de partenaires qui seront en première ligne, soutien aux opérations d’organisations régionales et aux OMP, effort diplomatique parallèle à l’engagement pour résoudre la crise, moyens financiers d’intervention rapide pour la stabilisation, l’assistance d’urgence et la reconstruction… Autrement dit, l’autonomie stratégique ne saurait se penser en termes exclusivement militaires et suppose une articulation étroite avec nos instruments civils, qu’il s’agisse de diplomatie ou de développement.
+
+## 2.  Une ambition européenne exigeante et des responsabilités globales
+
+181.  Face à la contestation des instruments de sécurité et de stabilité mondiaux, la France doit pleinement s’investir dans la refondation d’un ordre collectif et multilatéral, en lien avec ses alliés et partenaires. Cet engagement passe d’abord, dans le domaine de la défense, par l’Europe, les coopérations européennes bilatérales et le lien transatlantique. L’ensemble des partenariats bilatéraux de la France contribue également à la garantie des intérêts communs.
+
+### 2.1. La construction d’une autonomie stratégique européenne
+
+• L’émergence d’intérêts de sécurité européens
+
+182.  La convergence des menaces sur l’Europe nécessite que les Européens soient davantage engagés en faveur de leur propre sécurité, et travaillent à l’ambition d’une autonomie stratégique commune. Reconnue pour la première fois en juin 2016 par les 28 chefs d’Etat et de gouvernement dans la stratégie globale de l’UE, cette ambition exigeante suppose une vision renouvelée des conditions de la sécurité européenne et repose sur de nouvelles initiatives pragmatiques.
+
+183.  La géographie et l’histoire restent des données importantes dans la hiérarchie que les Etats européens font des menaces et des risques qui pèsent sur eux, et plus largement, dans la diversité de leurs cultures stratégiques. La réduction considérable de l’effort de défense en Europe depuis la fin de la guerre froide a également nourri un ressentiment accru, de la part des Américains vis-à-vis des Européens comme entre les Européens eux-mêmes. Plus récemment, les modalités de réponse à la crise migratoire ont ouvert des tensions fortes sur le continent.
+
+184.  Pour autant, émerge une prise de conscience collective des défis de sécurité partagés d’autant que les Européens sont désormais un peu plus seuls qu’auparavant. Les migrations, la criminalité organisée et les réseaux terroristes affectent à des degrés divers tout l’espace européen et sont perçus comme tels. La nécessité de sécuriser nos approches, de renforcer notre défense collective et de stabiliser notre voisinage est quant à elle de mieux en mieux partagée. Face à des menaces multiformes qu’ils n’ont pas le luxe de choisir les Européens savent qu’ils ont un intérêt fondamental à la stabilité du continent.
+
+185.  Ceci s’est traduit tout d’abord par une solidarité de fait entre Européens, comme le soulignent les réponses à l’invocation par la France de l’article 42. 7 après les attentats du 13 novembre 2015, l’implication allemande au Sahel, la participation de nombreux alliés aux mesures de réassurance dans les pays baltes et en Pologne ou encore l’engagement pour la première fois de l’Estonie à nos côtés en RCA en 2014. De même constate-t-on désormais l’amorce d’un redressement en matière de dépenses et d’investissements de défense. La remontée en puissance des Européens doit être appréhendée comme un effort de long terme : trop récent et limité pour répondre à une subite aggravation des menaces, il devra être ajusté à l’évolution des capacités de nos adversaires potentiels et constamment soutenu par les principaux pays européens, dont la France.
+
+186.  La nécessité d’efforts convergents et durables en matière de défense est aujourd’hui reconnue par les institutions européennes. La Haute représentante, et plus récemment la Commission européenne, mobilisent ainsi l’Union pour qu’elle joue tout son rôle dans la protection et la sécurité des citoyens européens et encourage les Etats membres à faire davantage en matière de défense.
+
+• Un renforcement pragmatique de la PSDC
+
+187.  L’unité européenne et la capacité des Etats membres à exercer collectivement leurs responsabilités en matière de sécurité figurent parmi les objectifs traditionnels de la France. Aussi a-t-elle lancé en 2016 avec Berlin et avec le soutien appuyé de Rome et Madrid, une initiative de relance de l’Europe de la défense, couvrant à la fois les aspects opérationnels (financement des opérations, renforcement des capacités des partenaires africains, capacité de planification et de conduite des missions), capacitaires et industriels (programmes communs, investissement dans les technologies de défense).
+
+188.  La proposition de créer un Fonds européen de la défense (FED) est un événement majeur sur le plan politique comme industriel pour l’Europe. Pour la première fois, la recherche et le développement de capacités de défense seraient financés sur fonds européens, afin d’encourager la coopération entre Etats membres et
+
+de soutenir l’industrie européenne de défense. La réussite du FED dépendra de deux conditions : savoir intégrer les spécificités de la défense et garantir les moyens budgétaires de nos ambitions, tout en évitant la duplication des compétences industrielles et les effets d’éviction sur nos investissements nationaux de défense.
+
+189.  En parallèle, la Coopération structurée permanente (CSP) doit permettre d’effectuer un saut qualitatif en matière de défense européenne. Les engagements doivent être suffisamment forts pour favoriser des projets fédérateurs et ambitieux et, surtout, répondre aux besoins des armées européennes pour agir en opérations.
+
+• L’Alliance atlantique, élément clé de la sécurité européenne
+
+190.  En organisant en 2009 son retour dans le commandement militaire intégré de l’Alliance atlantique, tout en préservant son statut spécifique dans le domaine nucléaire, la France a pleinement reconnu la place que l’OTAN joue dans la défense de l’Europe. Elle a tiré les conséquences du rôle assumé progressivement par les armées françaises dans les structures et les opérations de l’OTAN – rôle incarné aujourd’hui par la présence d’un officier général français au poste de commandant suprême pour la transformation (SACT). De plus, la France participe activement aux structures de commandement pouvant être mises à la disposition de l’OTAN comme de l’UE (Eurocorps de Strasbourg, Corps de réaction rapide-France à Lille…).
+
+191.  La France a fortement soutenu l’investissement renouvelé de l’OTAN dans la défense collective (article 5 du Traité), concrétisé par les décisions prises aux sommets de Galles (2014) et de Varsovie (2016). Qu’il s’agisse de combiner fermeté et dialogue avec la Russie ou d’adapter sa posture de dissuasion et de défense, l’Alliance est parvenue à élaborer une approche équilibrée, dissuasive mais prévisible. D’une part, le déploiement successif de troupes, notamment françaises, dans le cadre de la présence avancée renforcée de l’OTAN (eFP, enhanced Forward Presence) dans les pays Baltes et en Pologne, a renforcé la sécurité à l’Est et au Nord de l’Europe. D’autre part, l’Alliance permet d’assurer une meilleure sécurisation des approches au Sud de l’Europe et participe, par des moyens navals en particulier, à la lutte contre le terrorisme et les risques en Méditerranée. En outre, sur un plan capacitaire, l’OTAN reste le meilleur garant de l’interopérabilité – technique et humaine – des forces alliées et de la cohérence de leurs efforts d’équipements.
+
+192.  Le début de remontée en puissance des Européens, traduit entre autres par leur engagement au sein de l’OTAN à consacrer 2 % de leur PIB à la Défense d’ici fin 2024, doit ainsi être compris moins comme répondant aux demandes américaines d’un plus juste « partage du fardeau » que comme une prise de
+
+responsabilité croissante dans leur propre sécurité, rendue indispensable par la dégradation de leur environnement stratégique.
+
+193.  La capacité de l’OTAN à assurer ses missions demeure cependant étroitement dépendante de la force de la relation transatlantique. Or, l’éloignement grandissant de la classe politique et de la population américaine à l’égard de l’Europe comme les évolutions politiques récentes aux Etats-Unis suscitent, plus que par le passé, des interrogations profondes en Europe.
+
+194.  Pour autant, les Etats-Unis représentent un partenaire fondamental, en raison de la convergence des intérêts de défense et de sécurité et des relations bilatérales fortes, du point de vue des opérations comme du renseignement. Cette coopération particulière doit être maintenue et faire l’objet d’une attention partagée.
+
+• Une nouvelle approche des coopérations de défense
+
+195.  La coopération est d’ores et déjà une réalité pour les armées qui contribuent aux structures de commandement de l’OTAN et de l’UE et à de nombreux dispositifs multilatéraux ou bilatéraux. A ce titre, elles participent à la mutualisation des moyens de transport et ravitaillement (EATC), au partage des missions de police du ciel, à la surveillance de l’Atlantique Nord et la gestion des espaces sous-marins. Le groupe aéronaval agrège systématiquement des moyens de nos partenaires européens (frégates, hélicoptères). Sur le plan bilatéral, les partenariats sont nombreux. En Europe, la brigade franco-allemande, le corps expéditionnaire franco-britannique (CJEF), l’unité franco-allemande de transport aérien C130 J et les formations communes (Tigre, A400M) sont emblématiques. En Afrique et au Proche et Moyen-Orient, l’assistance militaire opérationnelle est un pilier de la prévention. Enfin, chaque armée entretient des relations étroites avec ses homologues américains et européens les plus engagés dans la défense de l’Europe, afin de garantir l’interopérabilité nécessaire aux engagements en commun.
+
+196.  L’Allemagne est un partenaire primordial pour le renforcement d’une ambition européenne en matière de défense et de sécurité. Le réinvestissement budgétaire y a été enclenché et Berlin s’est engagé au Sahel (MINUSMA, EUTM Mali, soutien au G5 Sahel) et au Levant (action dans la Coalition anti-Daech et livraisons d’armes aux forces kurdes en Irak). La coopération bilatérale est renforcée dans tous les domaines, par des projets qui ont une importance décisive pour l’avenir de la défense européenne2. Cette évolution de l’Allemagne doit être soutenue et accompagnée au plus près par la France. Ceci nécessite des
+
+2  Projets structurels dans le domaine des drones MALE en coopération également avec Madrid et Rome, de l’observation spatiale de la terre avec CSO/SARah, du futur avion de combat ; rapprochement de Nexter et Krauss-Maffei Wegmann au sein de l’alliance KNDS, en vue du développement d’un futur char de combat ; initiative en matière de transport aérien, avec l’unité conjointe de C130 J à Evreux.
+
+investissements industriels et financiers conséquents, condition d’un partenariat équilibré et à la hauteur des défis actuels.
+
+197.  La relation de défense franco-britannique s’est encore renforcée avec les Traités de Lancaster House (2010) dans les domaines opérationnel, capacitaire, industriel et nucléaire3. L’enjeu pour la France reste bien, en dépit du Brexit, d’ancrer le Royaume-Uni dans une coopération bilatérale de défense structurante dans tous les domaines, et ainsi de maintenir une relation de défense privilégiée avec le seul pays européen toujours doté d’ambitions globales, d’une dissuasion nucléaire et de la capacité de mener des opérations de haute intensité. Pour demeurer dynamique, cette relation spéciale doit être nourrie de réalisations concrètes, d’opérations conjointes. Dès la mise en place, en 1992, d’une commission mixte sur les questions de politique et de doctrine nucléaire, la France et le Royaume-Uni affirmaient qu’il ne pouvait y avoir de situation dans laquelle les intérêts vitaux de l’un seraient menacés sans que les intérêts vitaux de l’autre ne le soient aussi. Cette position commune, exprimée publiquement au plus haut niveau au Sommet de Chequers d’octobre 19954, a été régulièrement répétée depuis.
+
+198.  Le Royaume-Uni et l’Allemagne sont des partenaires stratégiques en matière de renseignement. Ce partenariat tripartite constitue un noyau essentiel à la constitution d’un espace européen sécurisé.
+
+199.  Ces deux grandes relations bilatérales de défense doivent être complétées par une attention renforcée de la France à ses autres partenaires européens, en tenant pleinement compte de leurs attentes comme de leurs contributions à la sécurité de l’Europe.
+
+200.  L’Espagne comme l’Italie demeurent engagées avec nous dans des opérations, en Méditerranée, en Afrique du Nord ou au Sahel. La France conduit aussi avec ces deux pays, dotés de capacités militaires significatives, des coopérations industrielles ou d’armement (drones, frégates, NH90, missiles sol-air, espace, etc. ) structurantes pour nous et pour l’Europe.
+
+201.  De même, d’autres pays européens disposent aujourd’hui, à des échelles différentes, de capacités spécifiques qui peuvent apporter des contributions importantes aux diverses opérations militaires dans lesquelles nous nous engageons, quel que soit leur cadre. Le réengagement de la France vers les pays du Nord et de l’Est de l’Europe a été amorcé et doit être pérennisé et valorisé,
+
+3  Force expéditionnaire commune interarmées ou CJEF pour Combined Joint Expeditionary Force ; drones de combat ou FCAS pour Future Combat Air System, drones navals, guerre des mines ; One MBDA notamment dans l’optique du développement conjoint des missiles de croisière ; Traité Teutatès avec notamment les installations conjointes des simulateurs EPURE à Valduc. 4 Conférence de presse conjointe de MM. Jacques Chirac et John Major, Londres le 30 octobre 1995.
+
+tout comme l’implication de la France en faveur de la sécurité européenne, au Sud comme au Nord et à l’Est, de la Baltique à la mer Noire.
+
+202.  C’est pourquoi, parallèlement au renforcement de la PSDC et afin de concourir à l’indispensable augmentation des budgets et des capacités, la France soutient la combinaison optimale des différents formats de coopération européenne de défense. Les cadres institutionnels tels que l’OTAN ou l’UE ont été utilement complétés par le lancement d’initiatives et de clusters de défense (l’EATC européen, la Joint Expeditionary Force britannique dans le domaine opérationnel, le FNC allemand pour le capacitaire), rejoignant des groupements régionaux plus anciens (NORDEFCO).
+
+203.  Dans la nouvelle Europe qui se dessine, la France doit proposer des partenariats de défense ambitieux à ses partenaires, selon une logique différenciée et en priorité aux pays européens volontaires et capables. Ceci implique de soutenir, au sein comme en dehors de l’UE et de l’OTAN, toutes les initiatives prometteuses qui renforcent la convergence stratégique entre Européens et intéressent leur sécurité commune. C’est pourquoi la France veut œuvrer au renforcement de l’autonomie stratégique de l’Europe, ce qui nécessite le développement d’une culture stratégique commune. Au début de la prochaine décennie, l’objectif est que les Européens disposent d’un corps de doctrine commun, de la capacité à intervenir militairement ensemble de façon crédible, et des instruments budgétaires communs adaptés. Dans cette perspective, la France propose dès à présent à ses partenaires un cadre de coopération ambitieux : l’Initiative européenne d’intervention, annoncée par le Président de la République le 26 septembre 2017. Celle-ci contribuera également à renforcer leur interopérabilité dans l’ensemble des scénarios d’engagements de leurs forces.
+
+### 2.2.  Un cadre multilatéral renforcé, des partenariats stratégiques indispensables
+
+• Notre engagement pour un multilatéralisme renforcé
+
+204.  Face aux nouveaux défis globaux, le monde a besoin d’un multilatéralisme efficace, incarné par une ONU forte. De plus, l’émergence du monde multipolaire, si elle n’est pas adossée à un multilatéralisme robuste, entraînera un retour aux zones d’influence dont l’histoire nous enseigne tous les dangers. C’est pourquoi la France continuera à s’investir pleinement au profit d’une vision des rapports de force et de puissance régulés par le droit, autour de la clé de voûte que constitue la Charte des Nations Unies. C’est particulièrement le cas dans certains domaines émergents de l’action militaire, qui requièrent un effort
+
+particulier d’élaboration de normes de comportement permettant de garantir la stabilité stratégique, notamment dans l’espace exo-atmosphérique ou dans l’espace numérique.
+
+205.  Aujourd’hui engagée dans les missions des Nations Unies au Liban, au Mali et en RCA, la France continue de s’investir dans les OMP de l’ONU, notamment en fournissant certaines capacités critiques.
+
+• Un approfondissement de nos partenariats stratégiques
+
+206.  La France entretient hors de l’espace euro-atlantique des partenariats de sécurité, des accords de défense et des forces prépositionnées, au Moyen-Orient comme en Afrique. Cette présence lui permet de s’appuyer sur des partenaires de sécurité ou sur des points d’appui qui facilitent la réactivité de ses forces. Ces relations entraînent des obligations réciproques auxquelles elle est fidèle.
+
+207.  En Afrique du Nord et au Proche-Orient, malgré l’absence d’accords de défense, la France entretient des relations étroites et historiques avec plusieurs Etats clés de la région (Maroc, Liban, Tunisie, Jordanie, Egypte) et participe à la stabilisation d’Etats fortement fragilisés par des crises multiples pouvant affecter nos intérêts. Au Proche-Orient, le Liban est un partenaire prioritaire, largement affecté par la crise syrienne et dont il faut renforcer les capacités sécuritaires. La Jordanie est également un acteur important pour la stabilité de la région.
+
+208.  Dans le cadre de la modernisation des relations avec ses partenaires africains, la France a renouvelé l’ensemble de ses accords de partenariat de défense en Afrique, en faisant effort sur leur caractère équilibré et transparent. Ces accords permettent à la France d’honorer ses engagements et de pouvoir s’engager militairement rapidement dans la région en faveur de la paix et de la sécurité régionale, à la demande de ses partenaires. Au-delà des partenariats bilatéraux, la posture de la France en Afrique repose sur un effort soutenu dans le domaine multilatéral (soutien aux efforts de l’Union africaine, du G5 Sahel), y compris en mobilisant ses partenaires européens. L’objectif partagé avec nos partenaires africains est une meilleure appropriation de leur sécurité.
+
+209.  Pour la France, en raison de l’histoire commune ainsi que des intérêts qu’elle partage avec eux, la montée en puissance et la pérennisation des capacités des Etats du continent africain sont cruciales, notamment pour la gestion des défis migratoires et du terrorisme. La consolidation des points d’appui militaires français est indispensable.
+
+210.  Le golfe Arabo-Persique est également un espace stratégique essentiel pour la France. Paris est ainsi lié par des accords de défense engageants avec les
+
+Emirats Arabes Unis, le Qatar et le Koweït. Cette coopération militaire s’est concrétisée par l’installation d’une base permanente à Abu Dhabi. Nous devons enfin conserver des capacités d’engagement et une liberté de mouvement intacte du Golfe au canal de Suez.
+
+211.  Seul pays européen à disposer d’une présence militaire permanente dans l’océan Indien et dans le Pacifique, la France renforce ses liens avec les grandes démocraties de la région qui partagent sa vision de la sécurité internationale. Ces liens garantissent sa capacité à comprendre et à agir dans un espace où les équilibres stratégiques évoluent rapidement. Avec l’Inde, la France a noué un partenariat stratégique majeur bâti sur la confiance qui a vocation à structurer notre relation dans la durée, au profit de la sécurité de nos deux pays.
+
+212.  La France développe avec l’Australie un partenariat structurant et de longue durée, matérialisé par la réalisation en commun de la future génération de sous-marins australiens. Grâce à cet acteur fiable et capable en Asie-Pacifique, présent sur les principaux théâtres à ses côtés (hier l’Afghanistan, aujourd’hui le Levant), la France noue des liens utiles au renforcement de la sécurité maritime dans l’Indopacifique.
+
+213.  La France accompagne également le Japon dans son effort d’engagement international accru sur les questions de défense et de sécurité. Le partenariat d’exception que Paris entretient avec Tokyo illustre la proximité de nos intérêts stratégiques à l’échelle globale.
+
+214.  Singapour constitue également un partenaire stratégique, avec lequel nous avons développé une relation de confiance autour de projets en coopération en matière de recherche et de technologies de défense, ainsi que des liens étroits sur le plan opérationnel.
+
+215.  Avec la Malaisie, ainsi qu’avec des pays comme l’Indonésie et la Nouvelle- Zélande, la France entretient une relation de défense régulière et nourrie. Ces relations bilatérales se doublent d’un rapprochement avec les structures de l’ASEAN.
+
+216.  Enfin, en Amérique du Sud, la France bénéficie avec le Brésil d’une relation de défense solide, sur la base d’un partenariat stratégique signé en 2008. Nos échanges sont très denses dans le domaine de l’industrie de défense. Soumise à de nombreux trafics illicites, la protection de notre frontière commune justifie également une coopération étroite.
+
+3. Une ambition industrielle et technologique réaffirmée
+
+### 3.1. La nécessité d’une BITD forte
+
+217.  La Base Industrielle et Technologique de Défense (BITD) française est constituée d’une dizaine de grands groupes de taille mondiale et de près de 4 000 PME, représentant en 2017 plus de 200 000 emplois en France, pour la plupart de haute technicité et difficilement délocalisables, avec un impact positif majeur sur la balance commerciale (supérieur à 6 Md€ en 2016). Elle est complétée par un ensemble de moyens et compétences étatiques (organismes de recherche, centres d’expertise et d’essais, agences…).
+
+218.  Le maintien de la vitalité de cet écosystème est un enjeu de souveraineté. Garantir l’approvisionnement et le maintien en condition opérationnelle des équipements des armées, en particulier ceux concourant à la mise en œuvre de la dissuasion nucléaire, conditionne la liberté d’action de la France et, à ce titre, constitue un pilier de son autonomie stratégique. Plus largement, ce moteur industriel et technologique irrigue l’économie et contribue au rayonnement et à l’influence de la France dans le monde. Par conséquent, la BITD doit être soutenue et entretenue à tous les niveaux (start-up, PME, ETI, grands groupes). Ce soutien s’exerce par des politiques de long terme en matière de recherche et d’investissement, de coopération, de soutien à l’export, d’acquisition et de protection vis-à-vis d’investissements étrangers.
+
+219.  La France jouit d’un statut de grande puissance technologique, qui contribue de manière décisive à son rang parmi les premiers exportateurs mondiaux de matériel militaire. Cette situation est le fruit d’un investissement continu et d’une politique qui garantit en permanence l’équilibre entre l’export, la dualité civilo-militaire et les acquisitions nationales. En apportant un volume d’activité complémentaire à la commande nationale et en stimulant l’innovation dans un environnement international très concurrentiel, l’export reste capital pour une industrie de défense compétitive et le maintien des compétences. Les succès français dans ce domaine ont été permis par un engagement fort de l’Etat qui doit être maintenu. Celui-ci continuera d’assurer, avec le plus haut niveau d’exigence, le contrôle des exportations de matériels militaires ou assimilés, conformément aux engagements internationaux de la France.
+
+220.  Cependant, l’application par les Etats-Unis de leur contrôle des exportations (dont ITAR) contraint fortement notre autonomie d’exportation.
+
+221.  De plus, face à la fluctuation des prises de commandes, une meilleure coordination des politiques d’achat entre acteurs nationaux (acteurs publics interministériels
+
+et grands maîtres d’œuvre industriels) apparaît comme une solution possible pour lisser le plan de charge des entreprises stratégiques les plus vulnérables.
+
+222.  Enfin, pour préserver les entreprises françaises porteuses de savoir-faire et de pépites technologiques faisant l’objet d’une démarche de rachat par des fonds étrangers, le développement d’un capital dédié est une nécessité. La création d’un fonds national d’investissement de défense, annoncée en mai 2017, y contribue, en complément d’une démarche globale de protection du potentiel scientifique et technique (PPST).
+
+223.  De même, la préservation de la capacité de la France à agir de manière souveraine dans le cyberespace repose sur la maîtrise des technologies, des équipements, des services et des données et de leur traitement, tant sur les aspects industriels que réglementaires. Elle nécessite notamment de s’appuyer sur une base d’acteurs industriels de confiance, qu’il faut préserver et même développer, capables de produire des briques technologiques de qualité et de concevoir des systèmes complexes, intégrant des briques non nationales avec des partenaires de confiance.
+
+224.  La pérennisation de la dynamique actuelle requiert une stratégie de long terme pour assurer l’avenir de l’industrie de défense, garante de l’excellence technologique de la France et catalyseur de l’Europe de la défense.
+
+### 3.2. Des coopérations technologiques et industrielles maîtrisées
+
+225.  En décembre 2016, le Conseil européen a donné un nouvel élan à la politique de sécurité et de défense commune en adoptant un plan d’action ambitieux, qui représente une opportunité pour construire une industrie européenne solide et cohérente. S’appuyant sur les atouts de son industrie, la France entend participer pleinement à cette dynamique, via son implication dans le Fonds européen de la défense et le renouvellement de son ambition en matière de coopération technologique et industrielle. Cette nouvelle dynamique européenne en matière de défense ne doit pas pour autant se concevoir au détriment de la liberté d’usage, d’action et de décision nationale.
+
+226.  L’analyse présentée ci-dessous vise à définir de façon schématique les coopérations envisageables concernant les modalités de réalisation des systèmes de défense5. Elle reflète les quatre approches possibles au regard des objectifs de souveraineté, d’autonomie opérationnelle ou encore des contraintes budgétaires ou de confidentialité.
+
+5  Entendu ici comme l’ensemble des compétences, technologies et moyens permettant de concevoir, produire et éventuellement soutenir des matériels militaires.
+
+-  La souveraineté relève d’une approche nationale, non partageable
+
+où des garanties d’intégrité, de liberté d’emploi ou du maintien de la supériorité opérationnelle prévalent. Les technologies émergentes entrent a priori dans cette posture afin d’en évaluer le potentiel, d’atteindre un niveau de maîtrise suffisant et de décider, en connaissance de cause, de la conduite à tenir en matière de coopération.
+
+-  La coopération avec maintien des compétences en France concerne
+
+les matériels pour lesquels un partage peut être envisagé (pour des raisons techniques, politiques ou budgétaires), sans qu’il constitue la règle générale. Le retour à la posture de souveraineté reste possible.
+
+-  La coopération avec dépendance mutuelle repose sur la mise en
+
+place d’une rationalisation durable de compétences techniques ou technologiques complémentaires entre partenaires qui acceptent, d’une part de renoncer chacun à une ou des compétences, de façon croisée, et d’autre part de partager les compétences conservées. Il s’agit d’une interdépendance réciproque réelle et durable qui doit toutefois préserver des garanties d’accès et d’autonomie suffisantes (par exemple en matière d’exportation). Cette approche nécessite une structuration industrielle ad hoc adossée à des accords intergouvernementaux pour offrir un niveau de garantie sur sa pérennité, à l’image de l’opération One MBDA
+
+-  Le recours au marché recouvre les domaines techniques présentant des
+
+spécificités militaires ou nationales marginales, faisant l’objet d’une offre large et multiforme ou encore caractérisés par un coût de rétablissement (« le ticket d’entrée ») considéré comme acceptable.
+
+227.  Pour ces trois derniers cas, la préférence européenne est recherchée, sans pour autant exclure des partenaires de confiance hors Europe. Enfin, quelle que soit l’approche retenue, la maîtrise nationale des règles de propriété intellectuelle, et la liberté de vente à l’export doivent être conservées.
+
+228.  Cette grille de lecture a été appliquée aux principaux domaines de compétences techniques en matière d’armement, afin de fournir une vision prescriptive, par milieu, des ambitions de la France en termes de coopérations technologique et industrielle. Sans présager de ce qui pourra être atteint, le tableau ci-dessous reflète une volonté initiale, qui fera l’objet d’une analyse au cas par cas en fonction des systèmes envisagés et de la phase de vie du programme d’armement considéré.
+
+aérien espace cyber
+
+Ambition en matière de coopérations technologique et industrielle
+
+maritime Domaine
+
+terrestre Domaine
+
+Domaine
+
+milieux non permissifs*
+
+(munitions, bombes, armes...)
+
+autres
+
+platefOrmes milieux permissifs
+
+missiles
+
+Chaînes de COmmandement
+
+(sonar, Optique, radar, Ge...)
+
+et de missiOn temps réel
+
+### effeCteurs
+
+Capteurs noyau dur
+
+Furtivité
+
+autre
+
+systèmes d’infOrmatiOn
+
+OpératiOnnels
+
+COmmuniCatiOns
+
+& réseaux
+
+229.  Cette politique de coopération est appelée à évoluer dans le temps, afin de prendre en compte les technologies transverses émergentes (intelligence artificielle, robotique, connectivité, matériaux…) et futures.
+
+### 3.3.  La préparation de l’avenir et l’intégration de l’innovation et du numérique
+
+230.  La préparation de l’avenir est un facteur clé du maintien de l’excellence de notre BITD, garante de la supériorité technologique et de l’autonomie stratégique de la France. En effet, consentir des financements importants aux travaux amont garantit la capacité de notre industrie à maintenir son positionnement sur la scène internationale et à maîtriser les technologies dont les forces auront besoin face à l’évolution des menaces. Cette maîtrise technique est par ailleurs nécessaire à la construction de coopérations équilibrées où la France peut légitimement influer, voire revendiquer un leadership.
+
+231.  Dans un contexte d’incertitude sur l’environnement stratégique et d’évolution permanente de la menace, le maintien de l’ambition de couvrir tous les domaines industriels et techniques devient plus prégnant et requiert l’augmentation du niveau des ressources budgétaires dédiées à la S&T (science, recherche, technologie et innovation).
+
+232.  Cet effort financier permettra de continuer à investir dans les technologies les plus longues et coûteuses à maîtriser, spécifiques au domaine de la défense (hypervélocité, amélioration et fusion des senseurs, furtivité active…). Il rendra également possible une démarche exploratoire accrue dans les domaines technologiques porteurs de ruptures et issus du domaine civil (intelligence artificielle, robotique et autonomie décisionnelle, mise en réseau des systèmes, nouveaux matériaux, biotechnologies…). Des démonstrateurs d’envergure permettront de mieux préparer la prochaine génération de systèmes et d’équipements, aptes à conférer la supériorité opérationnelle et à assurer de futurs succès à l’export, dans un contexte de compétition exacerbée.
+
+233.  Par ailleurs, cette démarche de préparation du temps long devra être complétée par une politique globale de soutien à l’innovation afin d’identifier, de générer, de capter, d’expérimenter et de soutenir les technologies du temps court, puis de les intégrer de manière réactive dans les systèmes d’armes.
+
+234.  Pour optimiser les moyens humains et financiers, des modes de fonctionnement plus agiles6 devront être mis en place. Les procédures d’acquisition des
+
+6  Entendu ici comme permettant une adaptation rapide et réversible à une situation donnée, sans empêcher par ailleurs les actions inscrites sur le plus long terme.
+
+équipements7 doivent notamment être adaptées pour tenir compte de façon plus réactive, durant tout leur cycle de vie, de l’évolution des menaces, et pour mieux intégrer les innovations technologiques ou d’usage, y compris lorsqu’elles sont issues du domaine civil.
+
+235.  Cette démarche d’agilité inclut la construction de partenariats et la fluidification des échanges, y compris en termes de ressources humaines, au sein d’un écosystème élargi impliquant des acteurs civils et militaires, étatiques, universitaires, entrepreneuriaux et industriels. La compatibilité de cet objectif avec les contraintes de déontologie doit faire l’objet d’une attention particulière.
+
+236.  Enfin, la France devra continuer à proposer une offre de formation au meilleur niveau afin de rester attractive et de préparer les futures générations aux défis à relever en matière de sécurité et de défense. A ce titre, l’agilité et l’innovation sont non seulement des facteurs décisifs pour assurer dans la durée notre supériorité technologique et opérationnelle, mais ont aussi un pouvoir d’attraction essentiel pour le recrutement et la fidélisation des meilleurs collaborateurs au sein du ministère des Armées comme des entreprises de la défense.
+
+## 4. Consolider les fonctions stratégiques
+
+237.  Utilisées pour décrire la mise en œuvre de la stratégie de défense et de sécurité de la France et structurer le modèle d’armée nécessaire à son ambition, les cinq fonctions stratégiques définies par le Livre blanc de 2013 conservent leur pertinence.
+
+238.  Les fonctions stratégiques sont interdépendantes. Leur équilibre garantit la cohérence et la crédibilité de nos forces. La continuité entre sécurité intérieure et défense contre les menaces extérieures accroît leur complémentarité. Les liens sont ainsi devenus plus étroits entre l’intervention, la protection et la prévention, à l’extérieur et à l’intérieur du territoire national, tandis que la complémentarité entre la dissuasion et l’ensemble des autres fonctions s’est renforcée.
+
+239.  A cet égard, un effort doit être consenti pour rendre à la fonction prévention toute son importance. Dans une approche approfondie et élargie, centrée sur le maintien de la stabilité et sur le développement dans le long terme, elle doit permettre d’agir plus efficacement en amont sur l’origine des crises. Elle passe
+
+7  Incluant l’expression de besoin, la spécification, l’acte d’achat, la recette et le maintien en condition opérationnelle des systèmes.
+
+par un réinvestissement prioritaire dans nos dispositifs avancés, permanents et non-permanents, et dans ceux de nos alliés ou de nos partenaires.
+
+• Dissuasion
+
+240.  La dissuasion nucléaire demeure la clé de voûte de notre stratégie de défense. Elle protège la France contre toute agression d’origine étatique contre ses intérêts vitaux, d’où qu’elle vienne et quelle qu’en soit la forme. Elle préserve en toute circonstance notre liberté d’action et de décision, en écartant toute menace de chantage d’origine étatique qui viserait à nous paralyser.
+
+241.   Notre dissuasion est strictement défensive. L’emploi de l’arme nucléaire ne serait concevable que dans des circonstances extrêmes de légitime défense, droit consacré par la Charte des Nations Unies. A ce titre, la dissuasion est la garantie ultime de la sécurité, de la protection et de l’indépendance de la Nation.
+
+242.  Elle contribue, par son existence, à la sécurité de l’Alliance atlantique et à celle de l’Europe.
+
+243.  La stratégie de dissuasion est indissociable des autres volets de la politique de défense et de sécurité nationale, qui prend en compte l’ensemble des menaces, y compris celles qui se situent sous le seuil des intérêts vitaux. A ce titre, elle est directement liée à notre capacité d’intervention et de protection.
+
+244.  La dissuasion nucléaire continuera de se fonder sur la posture permanente des deux composantes océanique et aéroportée, indissociables et complémentaires. Toutes deux concourent à l’ensemble des missions de la dissuasion. Leurs performances, leur adaptabilité et leurs caractéristiques permettent le maintien d’un outil crédible à long terme, tout en restant à un niveau de stricte suffisance. En outre, les capacités de simulation dont la France s’est dotée après l’arrêt de ses essais nucléaires assurent la fiabilité et la sûreté des armes nucléaires.
+
+245.  La nécessaire adaptation de nos capacités de dissuasion doit se poursuivre, pour répondre aux transformations du contexte stratégique, à l’évolution des menaces et aux changements dans le domaine de la défense aérienne, de la défense antimissiles ou de la détection sous-marine. Elle suppose le renouvellement des deux composantes et le soutien à la pérennisation de nos têtes nucléaires.
+
+246.  Exerçant un effet d’entraînement sur l’ensemble de notre appareil de défense et garantissant la liberté d’action de nos forces, les deux composantes sont soutenues par un ensemble de capacités conventionnelles, pour offrir une gamme élargie d’options stratégiques. De nombreux moyens qui concourent à la dissuasion peuvent être utilisés pour les opérations conventionnelles.
+
+247.  En outre, par ses exigences en termes d’efficacité, de fiabilité et de sûreté, la dissuasion nucléaire nourrit nos efforts de recherche et développement et contribue à l’excellence et à la compétitivité de notre industrie de défense. Elle a également un effet d’entraînement sur nos aptitudes technologiques.
+
+248.  Alors que plusieurs puissances développent leurs forces nucléaires et que certaines n’hésitent pas à les manier à des fins de démonstration, d’intimidation voire de chantage, le maintien de nos capacités de dissuasion sur le long terme est indispensable.
+
+• Protection
+
+249.  La mission première des armées est d’assurer la protection de la Nation contre toute menace de nature militaire. Les forces armées assurent en permanence la sûreté du territoire, de l’espace aérien et de nos approches maritimes. Les attentats en 2015-2016 ont rappelé la centralité de cette fonction et conduit au réengagement massif des armées sur le territoire national. Au sein du continuum sécurité-défense, son ampleur a toutefois soulevé la question de l’équilibre entre les fonctions intervention et protection, en fragilisant l’aptitude au combat des forces.
+
+250.  A la demande du Président de la République, le Conseil de défense et de sécurité nationale du 14 septembre 2017 a acté une évolution de la force Sentinelle, aux termes de laquelle le contrat de protection est maintenu au même niveau mais la doctrine d’emploi et les modes d’action sont adaptés pour donner plus de souplesse dans l’engagement de la force, pour gagner en flexibilité et en imprévisibilité, sous l’autorité de la chaîne préfectorale.
+
+251.  Le territoire national, en métropole comme dans les DROM-COM, a été affecté récemment par des situations de crise qui par leur ampleur ou leur gravité ont nécessité d’engager des moyens militaires, en complément de ceux des forces de sécurité intérieure et des autres moyens de l’Etat. En cas d’événement NRBC sur le territoire national, il serait également fait appel aux capacités spécifiques des armées.
+
+252.  Les attaques cyber répétées ont révélé des vulnérabilités dans les réseaux indispensables au fonctionnement de l’Etat et à la sécurité nationale. Elles requièrent le renforcement prioritaire des moyens de défense et le développement de capacités offensives comme défensive. C’est pourquoi la France a décidé de se doter d’une posture permanente de cyber sécurité.
+
+253.  Dans l’espace exo-atmosphérique, la vulnérabilité de nos propres capacités et notre dépendance à leur égard suppose de développer leur protection et, en
+
+coopération étroite avec nos alliés américains et européens, leur éventuelle redondance supplémentaire. La résilience des armées et des services redevient également un enjeu opérationnel. A ce titre, l’organisation de l’environnement et du soutien des forces, conçue sur la base d’un territoire national épargné par la menace, doit être réévaluée. Parallèlement, la « protection-défense8 » revêt aujourd’hui une sensibilité particulière face à un ennemi qui pourrait, sur le territoire national, prendre pour cible les installations militaires ou le personnel. Cette dimension doit faire l’objet d’un réinvestissement humain et matériel à court terme.
+
+254.  Enfin, la protection de nos ressortissants à l’étranger peut nécessiter leur évacuation, ainsi que la prise en charge de citoyens de pays amis. A tout moment et en tout lieu, seule ou dans le cadre d’une coopération ad hoc, la France doit être en mesure de déclencher une intervention visant à assurer leur sécurité.
+
+• Connaissance et anticipation
+
+255.  Notre aptitude à connaître, comprendre, caractériser et prévoir est centrale pour permettre à la France de décider et d’agir de manière autonome et souveraine, y compris dans les actions menées avec des partenaires et alliés. Le renseignement en est l’élément premier et doit être renforcé. L’anticipation à court et moyen terme des risques pesant sur la sécurité nationale comme des ruptures technologiques justifie que la France développe des capacités autonomes à la hauteur de ses besoins.
+
+256.  Conserver à la France l’indépendance de ses analyses et de ses positions nécessitera un investissement accru dans le renseignement humain, dans la poursuite des grands programmes techniques lui permettant de rester au meilleur niveau en la matière et dans le développement des capacités d’analyse nécessaires pour exploiter le volume considérable et en croissance rapide des données humaines et techniques recueillies. A cet égard, la maîtrise de l’intelligence artificielle représentera un enjeu de souveraineté, dans un environnement industriel caractérisé par des innovations technologiques rapides et aujourd’hui dominé par des entreprises étrangères.
+
+257.  L’existence d’un ensemble de centres de recherche universitaires et de think tanks contribue à nos capacités de connaissance, d’anticipation et d’analyse des crises. Elle suppose un rapprochement accru entre les mondes de la défense, de la recherche et de la formation. C’est dans cet esprit qu’a été lancé le « Pacte enseignement supérieur » en janvier 2017 par le ministère de la Défense.
+
+8  Ensemble des dispositifs matériels et humains mis en place pour protéger les informations et activités abritées par une installation contre une agression liée au terrorisme, au sabotage et aux actes de malveillance.
+
+L’exploitation des sources ouvertes, qui représente un enjeu fort, devra être plus systématiquement assurée par l’Etat en lien avec le monde de la recherche.
+
+258.  La priorité est accordée à la lutte contre le terrorisme mais ne doit pas pour autant obérer les besoins en matière de géopolitique, de suivi des capacités militaires des grandes puissances, de contre-prolifération, de contre-ingérence, de contre-espionnage, de lutte contre la criminalité organisée et de protection de nos intérêts économiques.
+
+259.  L’affirmation du cyberespace et l’émergence de l’espace exo-atmosphérique comme milieux de confrontation placent la caractérisation et l’attribution des attaques au cœur de notre besoin d’appréciation autonome, alors qu’ils se prêtent particulièrement à la clandestinité et à la manipulation.
+
+260.  L’enjeu considérable que représente la menace cyber appelle un renforcement substantiel à la fois des moyens défensifs et offensifs de la France. La capacité de détection et d’attribution des attaques, qui repose sur l’acquisition de renseignement d’origine humaine aussi bien que technique, en sera un élément clé. Dans le domaine spatial, la mutualisation acceptée avec les alliés européens doit permettre le renouvellement et l’augmentation des capacités d’appréciation de situation, et de détection de la menace.
+
+261.  Les efforts de réorganisation et de rationalisation au sein de la communauté française du renseignement doivent être poursuivis. La mutualisation des capacités techniques de l’ensemble des services concernés est désormais bien engagée et doit continuer.
+
+262.  Le besoin de capacités militaires nationales pour l’exercice de cette fonction est indissociable de l’ambition de la France de pouvoir demeurer nation-cadre. En coalition, la mise à disposition des capacités nationales et le partage de l’information constituent un levier d’influence, tout en facilitant par exemple l’intégration aux processus de ciblage.
+
+• Intervention
+
+263.  L’intervention contribue directement à défendre les intérêts nationaux, protéger les ressortissants à l’étranger, honorer les obligations de la France et appuyer la communauté internationale.
+
+264.  Si elle permet la défense dans la profondeur stratégique loin de l’Europe, elle constitue aussi l’instrument clé de la défense immédiate de la France dans un contexte de rapprochement géographique de la menace.
+
+265.  Les interventions des armées françaises, outre la capacité de la France à honorer ses engagements au titre de l’article 5 du Traité de Washington, se déclinent principalement selon trois modes opératoires : l’engagement direct, où la France lance seule une intervention qui peut ensuite s’élargir et dont elle devient alors chef de file, comme illustré en Afrique par l’opération Serval ; la contribution à une opération multinationale d’envergure, le cas échéant à distance, au sein d’une coalition selon le modèle de l’opération Chammal au Levant ou au sein de l’OTAN (Afghanistan, Libye…) ; l’appui aux opérations de gestion de crise de l’ONU ou de l’UE, pour lesquelles la France offre notamment une capacité d’intervention rapide.
+
+266.  La fonction intervention est désormais confrontée à l’apparition de stratégies de déni d’accès dans tous les milieux qui nécessitent de porter une attention particulière aux facteurs de supériorité opérationnelle les plus critiques pour l’entrée en premier. La montée en compétences technologique et opérationnelle des différents acteurs, terroristes, milices, puissances intermédiaires et grandes puissances représente un défi durable aux capacités d’intervention.
+
+267.  Les actions coercitives s’inscrivent généralement, comme au Sahel, dans le cadre d’une approche globale visant à stabiliser une région en crise. L’approche globale repose sur l’utilisation de moyens diplomatiques et civils. Elle requiert la mobilisation de forces militaires importantes pour, simultanément, sécuriser le théâtre d’opération, former les forces locales qui prendront le relais et appuyer l’action civile menée par des acteurs publics et privés. L’effort militaire initial doit s’accompagner d’une dynamique diplomatique afin d’élargir rapidement le champ des contributeurs militaires et civils étrangers.
+
+• Prévention
+
+268.  Inséparable des formats de coopération internationale, existants ou à réinventer, la prévention contribue à la stabilisation des Etats et des zones dont la situation représente un enjeu direct pour nos intérêts de sécurité. Elle nécessite à l’extérieur une coordination étroite entre l’action militaire et la diplomatie, l’action des services de renseignement et la mobilisation de capacités humaines et financières d’autres ministères que ceux chargés de la défense et des affaires étrangères. La mobilisation de l’ensemble des acteurs du développement, notamment l’Agence française de développement (AFD), concourt à la fonction prévention.
+
+269.  Le dispositif français de coopération de défense, opérationnel et structurel, répond à l’impératif d’être en permanence au plus près des zones de crises potentielles. Il repose principalement sur trois bases opérationnelles avancées (Abu Dhabi, Abidjan, Djibouti) et deux pôles de coopération (Dakar, Libreville),
+
+ainsi que sur de nombreux autres déploiements et opérations. Ce dispositif est, désormais, dimensionné au plus juste.
+
+270.  Comme points d’appui, ces moyens de prévention concourent à la fonction intervention et représentent à cet égard un dispositif unique qui garantit la liberté d’action de la France en lui donnant la réactivité, la flexibilité, et enfin la possibilité de bascules d’effort indispensables en cas de crise. Ils concourent également à la fonction connaissance et anticipation par une connaissance approfondie des situations locales.
+
+271.  Les fragilités de la rive sud de la Méditerranée imposent de consacrer un effort particulier de prévention dans cette zone. Cette orientation géographique de l’approche globale pourra aussi se traduire par la recherche de coopérations bilatérales avec les pays européens les plus concernés. Plus au sud, le dispositif en Afrique subsaharienne s’est révélé pertinent en évitant l’effondrement de certains Etats et en permettant de frapper les terroristes dans leurs zones refuges. Le partenariat militaire élargi avec le G5 Sahel contribue à la prise en charge plus autonome de leur sécurité par les pays de la sous-région. L’opération Corymbe remplit une mission identique dans le golfe de Guinée. La crédibilité internationale de la France auprès de ses alliés et partenaires est ainsi renforcée. De la même manière, l’implantation d’une base interarmées dans la péninsule arabique aux Emirats Arabes Unis a rapproché la France du centre de gravité des opérations contre Daech, en facilitant le soutien des déploiements opérationnels en Jordanie, en Irak et dans le golfe Arabo-Persique.
+
+272.  Dans le reste du monde, les DROM-COM constituent des atouts majeurs en termes de coopération militaire, d’anticipation des crises et d’intégration régionale. Ils hébergent également des bases permettant de participer au contrôle des espaces communs et d’aider des pays frappés par des catastrophes naturelles. Elles offrent à la France des plateformes sûres de projection de puissance partout dans le monde et la possibilité de se redéployer militairement au gré de l’évolution de la situation stratégique. La France est ainsi présente en océan Indien et en Asie-Pacifique comme un partenaire et un allié crédible.
+
+273.  Outre les dispositifs permanents, nos actions de prévention incluent également l’ensemble des déploiements ponctuels ou récurrents, qui concourent à affirmer notre présence, soutenir nos alliés et qui contribuent à la stabilisation de zones de tension. A cet égard, notre participation à la présence avancée renforcée de l’OTAN chez nos alliés et partenaires baltes relève à la fois d’une logique préventive et dissuasive.
+
+5.  Des armées adaptées aux défis stratégiques actuels et futurs
+
+### 5.1.  Un modèle complet et équilibré pour agir sur tout le spectre
+
+274.  Pour assurer l’ensemble des fonctions stratégiques face à toutes les menaces, un modèle d’armée complet et équilibré est indispensable. Ce modèle doit disposer de l’ensemble des aptitudes et capacités, y compris les plus critiques et les plus rares, pour atteindre les effets militaires recherchés. Il ne s’agit pas d’être capable d’agir en autonomie dans tous les contextes ni de détenir toutes les aptitudes au plus haut niveau de performance ou de masse. En revanche, il faut être conscient que renoncer à une aptitude opérationnelle, même temporairement, fait courir le risque de perdre définitivement certaines compétences.
+
+275.  Le modèle complet et équilibré assure à la France son indépendance nationale, son autonomie stratégique et sa liberté d’action. C’est un modèle dynamique qui s’adapte à l’évolution de la conflictualité. Il traduit notre ambition et notre savoir-faire militaire.
+
+276.  Le modèle complet apporte une légitimité complémentaire pour générer des partenariats et assurer le rôle de nation-cadre, en particulier pour ce qui relève des aptitudes militaires à haute valeur ajoutée détenues par quelques rares puissances.
+
+277.  Les armées doivent pouvoir s’engager, y compris sous très faible préavis, sur l’ensemble du spectre de la menace et de la conflictualité. Elles doivent en conséquence être capables d’assurer les postures permanentes de dissuasion, de sûreté et de protection du territoire national, de conduire des opérations de stabilisation ou de contre-insurrection et de s’engager en opération de haute intensité, dans tous les milieux : terrestre, maritime, aérien, espaces exo-atmosphérique et numérique.
+
+278.  La BITD nécessaire au modèle d’armée complet et équilibré requiert le soutien des armées. Les tâches associées, notamment dans le domaine de l’export, sollicitent leur format et représentent une contrainte qu’il faudra intégrer.
+
+279.  Enfin, la dispersion des théâtres d’opération, la simultanéité et la durée des engagements nécessitent des volumes de forces disponibles (équipements, hommes et stocks) adaptés, avec une masse critique suffisante.
+
+### 5.2. Des coopérations opérationnelles maîtrisées
+
+280.  Les armées françaises doivent être en mesure d’agir de façon autonome et durable dans les domaines du renseignement (autonomie d’appréciation), de la protection permanente de notre territoire, du commandement des opérations (contrôle national de l’emploi des forces), des opérations de sûreté, des opérations spéciales, de l’espace numérique, de la protection face aux menaces asymétriques, de la démonstration de puissance en appui de la volonté politique, ou encore des actions d’influence. Dans ces domaines, les contributions de partenaires pourront être recherchées pour amplifier l’efficacité de nos forces, sans pour autant constituer un préalable à l’engagement opérationnel. En effet, leur processus décisionnel national est souvent moins réactif que celui de la France compte tenu de leurs cadres constitutionnels et politiques.
+
+281.  Les forces françaises doivent par ailleurs être capables d’acquérir et de conserver la supériorité au combat dans tous les milieux, de frapper dans la profondeur, d’acheminer des moyens en urgence sur un théâtre durci et de les protéger contre les menaces conventionnelles, d’être mobiles en intra-théâtre, de fournir les appuis feu au contact de l’adversaire, de mener des opérations amphibies, aéroportées ou dans les milieux complexes ou extrêmes (zone urbaine, montagne, désert, jungle, etc. ), et d’extraire du personnel en milieu hostile. Dans ces domaines, le partenariat sera systématiquement recherché lorsque nous ne disposons pas seuls des capacités nécessaires et que les conditions politiques sont réunies.
+
+282.  Enfin, pour assurer la sécurité des moyens spatiaux militaires, les forces françaises devront continuer d’agir en partenariat avec les nations détenant les moyens d’appréciation et d’action dans l’espace exo-atmosphérique.
+
+283.  Les partenariats et coopérations opérationnels noués par la France, notamment en Europe, ont pour objectif de faciliter nos engagements conjoints en opérations, et donc de renforcer in fine notre autonomie opérationnelle relative en nous apportant des moyens supplémentaires ou complémentaires. Ils apportent aussi d’autres bénéfices, en termes de légitimité et d’acceptabilité des opérations que la France souhaite mener. Ils permettent enfin de créer ou de renforcer des solidarités de fait, qui reposent sur une prise en compte par chacun des priorités de sécurité respectives des partenaires. A cette fin, sur la base d’une évaluation a priori, les projets de coopération doivent refléter une convergence suffisante des volontés politiques et des besoins militaires, en termes de calendrier et de capacités. En matière capacitaire, elles doivent contribuer à la soutenabilité des opérations et, à terme, générer des économies (coût, volume en parc, maintien en condition, effectifs déployés, etc. ) par rapport à une approche strictement nationale.
+
+284.  Dans de nombreuses configurations, les partenariats, bilatéraux ou multilatéraux, sont donc nécessaires, quel que soit le degré d’autonomie opérationnelle recherché. L’interopérabilité, indispensable pour agir ensemble, se conçoit en termes de normes techniques communes aux systèmes de commandement et aux équipements majeurs ainsi qu’en matière de concepts, de doctrines, de tactiques et de procédures.
+
+285.  La France doit conserver sa capacité à être nation-cadre, c’est-à-dire à fédérer des partenaires et susciter leur confiance, en assumant la responsabilité de la planification, de la génération de force, du commandement et du contrôle d’une opération militaire. Elle doit être en mesure de fournir les capacités discriminantes et un volume de forces significatif. Dans le cadre de l’OTAN, la France s’est engagée à fournir les capacités nécessaires au commandement d’une SJO (Small Joint Operation) et d’une composante dans le cadre d’une MJO (Major Joint Operation). Elle participe en outre activement à la définition des normes de l’Alliance, pour assurer l’interopérabilité de ses matériels et veiller au contrôle politique des nations sur les capacités communes essentielles. En dehors de ce cadre institutionnel, elle doit pouvoir fournir à ses alliés et partenaires de circonstance la capacité à œuvrer avec elle (procédures, équipements).
+
+### 5.3. Des aptitudes militaires à renforcer
+
+286.  Afin de prendre en compte l’usure de notre outil militaire et la préparation de l’avenir, les efforts engagés au cours des lois de programmation précédentes doivent être maintenus, tandis que de nouveaux efforts doivent être entrepris en matière de capacités de renseignement et de commandement, d’entrée en premier, de combat et de soutien.
+
+• Renseigner et commander
+
+287.  Analyser et comprendre sont des préalables à toute décision politique et militaire. Ils sont indispensables à la conduite de la manœuvre militaire aux niveaux stratégique, opératif et tactique. Les efforts dans ce domaine ne recouvrent qu’une partie des besoins identifiés pour la fonction connaissance et anticipation, ceux-ci dépassant le seul cadre des armées.
+
+288.  Il est d’abord nécessaire de poursuivre les investissements humains et techniques en matière de recueil de renseignement sur l’ensemble du spectre (humain, électromagnétique, radar, optique, numérique) en diversifiant, s’agissant des armées, les plates-formes, les capteurs et les modes de recueil (notamment aéronefs habités et drones, unités navales, moyens spatiaux). La complémentarité
+
+des capteurs doit permettre l’accès à des cibles d’intérêt sur tout le spectre des menaces, quel que soit le niveau de permissivité de l’engagement. Elle visera le meilleur équilibre entre les moyens de surveillance disposant de champs étroits et ceux capables de les orienter (champs larges).
+
+289.  Nous devrons également relever le défi de l’exploitation et de l’analyse de volumes de données en croissance exponentielle. Pour cela, il est nécessaire d’améliorer l’interconnexion entre les différents systèmes et d’intégrer, à tous les niveaux, des traitements automatisés d’exploitation et d’analyse afin d’accélérer les boucles décisionnelles du renseignement d’intérêt militaire. Un effort particulier sera porté sur l’aide augmentée à l’analyse du renseignement (big data, intelligence artificielle).
+
+290.  Le milieu exo-atmosphérique revêt une importance cruciale pour l’ensemble de nos capacités de défense. Il est devenu un champ de vulnérabilité croissante pour nos moyens de commandement et de surveillance. La surveillance des objets en orbite basse – et surtout la veille des orbites géostationnaires, prévues notamment dans le cadre du Système de commandement et de conduite des opérations aérospatiales (SCCOA) – est indispensable pour assurer la sécurité de nos moyens spatiaux et la conduite de nos opérations. Le niveau de protection des futurs satellites Syracuse 4 devra être renforcé et leur résilience augmentée.
+
+291.  Outre une capacité de surveillance temps réel du ciel et de l’espace, déjà évoquée, une capacité d’alerte avancée permettrait de mieux caractériser la menace balistique, de déterminer l’origine d’un tir et d’évaluer la zone ciblée.
+
+292.  Les structures de commandement constituent le système nerveux de l’action. Elles nécessitent des capacités de planification, de commandement et de contrôle aux niveaux stratégique, opératif et tactique (composantes aérienne, navale et terrestre), notamment des modules déployables, ainsi que des ressources humaines entraînées et formées pour tenir compte de la multiplicité de nos engagements. Les efforts engagés afin d’améliorer l’homogénéité de nos systèmes de commandement et leur interopérabilité avec les systèmes alliés visent à :
+
+-  disposer de moyens de commandement interopérables avec les pays
+
+de l’Alliance atlantique et avec des partenaires de circonstance ;
+
+-  améliorer l’interconnexion et le partage d’information entre nos propres
+
+systèmes afin d’accélérer la boucle décisionnelle ;
+
+-  garantir la fluidité des échanges et conserver la maîtrise de l’information
+
+dans un contexte de risque cyber et d’un accroissement du volume de données à traiter, notamment en provenance des nouveaux capteurs.
+
+• Entrer en premier
+
+293.  La prolifération des systèmes défensifs de haute technologie dote nos adversaires de capacités de déni d’accès dans tous les milieux, physiques et immatériels. Ces dispositifs sont de nature à entraver notre liberté d’action et à augmenter le niveau de risque. L’entrée en premier désigne la capacité à pénétrer ces espaces contestés et à réduire le niveau de menace pour y conduire des opérations militaires.
+
+294.  La phase initiale de combat doit permettre de créer un rapport de force favorable à un engagement ultérieur au niveau de risque acceptable. Elle nécessite des capacités destinées à obtenir et conserver la supériorité terrestre, navale et aérienne pour sidérer l’adversaire, s’emparer de points d’entrée sur le théâtre et d’espaces pour la manœuvre. Les efforts seront accentués sur l’obtention et la conservation de la supériorité aérienne, la frappe dans la profondeur, la lutte sous la mer, les capacités des forces spéciales et d’extraction de personnel d’un milieu hostile (CSAR) et les actions de lutte dans l’espace numérique.
+
+295.  La supériorité aérienne est un prérequis des opérations militaires. Cette aptitude couvre les savoir-faire et capacités requises pour réduire les menaces aériennes adverses à un niveau conférant la liberté d’action nécessaire aux forces terrestres et navales. Cette aptitude, qui n’est pas exclusive de l’entrée en premier, suppose la persistance pour maintenir une pression permanente sur l’adversaire. Les prochaines évolutions du Rafale et de ses armements, comme le futur système de combat aérien, dont il convient de lancer les études approfondies sans tarder, devront apporter une réponse à ce défi par l’apport de la connectivité, l’intégration de capacités pour neutraliser les systèmes de défense adverses et le développement de systèmes autonomes (drones de combat).
+
+296.  Frapper les centres de gravité ennemis dans la profondeur de son dispositif, en limitant l’exposition de nos forces, nécessite de pouvoir opérer à distance depuis le territoire national, à partir de bases aériennes projetées, d’emprises terrestres ou encore depuis la mer (groupe aéronaval). Les capacités de pénétration et l’allonge des systèmes d’armes sont un critère déterminant. La combinaison entre plates-formes (ravitailleurs le cas échéant) et armements est à cet égard essentielle.
+
+297.  Les missiles de croisière constituent un facteur discriminant qu’il importe de développer afin de garantir nos capacités de projection de puissance. Dans ce cadre, les missiles de croisière naval, la rénovation des missiles de croisière aéroportés, les futurs missiles antinavires et de croisière développés en coopération avec le Royaume-Uni, permettront de disposer de capacités au meilleur niveau. L’amélioration des capacités militaires de positionnement
+
+permettra d’accroître fortement la précision des effets militaires et la capacité des armées à agir dans un environnement non permissif.
+
+298.  Les forces spéciales continueront de jouer un rôle majeur, tant pour l’entrée en premier que dans la lutte contre le terrorisme. Il est donc indispensable que leurs capacités soient prioritairement renforcées, notamment en matière de projection et de mobilité. Il en va de même pour l’aptitude à récupérer du personnel en milieu hostile, qui nécessite de maîtriser l’insertion lointaine de forces spécialisées pour rechercher, sécuriser et extraire le personnel (ressortissants, pilotes éjectés, otages).
+
+299.  Les armées doivent enfin planifier et conduire les opérations dans l’espace numérique jusqu’au niveau tactique, de façon totalement intégrée, à la chaîne de planification et de conduite des opérations cinétiques9. En plus des opérations spécifiques au cyberespace, les opérations dans l’espace numérique élargissent la palette des effets traditionnels à la disposition des autorités politiques et exploitent la numérisation croissante de nos adversaires, étatiques ou non. Cette aptitude nécessite une ressource humaine renforcée et suffisamment agile, ainsi que le développement permanent de solutions techniques spécifiques.
+
+• Combattre et protéger
+
+300.  Que ce soit pour la protection permanente de notre territoire et de sa population, ou pour gagner les combats contre un adversaire plus au loin, il convient d’établir et de conserver un rapport de force favorable dans les milieux terrestre, maritime et aérien.
+
+301.  Dans ce cadre, des efforts significatifs de modernisation sont déjà engagés. Ils comprennent notamment la modernisation des systèmes sol-air, les hélicoptères légers, les systèmes de lutte antidrones, la rénovation des frégates de défense aérienne, l’acquisition de moyens de détection et de neutralisation de la menace RAM (Roquettes, artillerie et mortiers), le renouvellement de la capacité de chasse aux mines, la rénovation des Atlantique 2, de la flottille amphibie, des SNA, l’acquisition de frégates de taille intermédiaire (FTI), de véhicules blindés protégés et connectés (JAGUAR, GRIFFON, VBMR légers) et de moyens d’appui génie et artillerie.
+
+302.  La protection de nos approches maritimes et de nos intérêts en mer, mise au défi par une multiplication de menaces et d’enjeux, requiert, ponctuellement, des capacités de haut du spectre pour faire face à des menaces comme le terrorisme maritime ou les tentatives d’incursion dans nos eaux territoriales. Elle nécessite impérativement un effort particulier dans les équipements
+
+9 Action militaire ayant pour objectif de provoquer des dommages physiques ou des destructions.
+
+permettant d’intervenir dans le cadre de la défense maritime du territoire et de l’action de l’Etat en mer, sous peine de renoncer à surveiller certaines zones et de ne plus être en mesure d’assumer les responsabilités de l’Etat, notamment dans les DROM-COM. En complément du renouvellement indispensable des patrouilleurs et des avions de surveillance maritime (de préférence en coopération européenne), la surveillance maritime doit être renforcée (couverture radar du réseau Spationav, surveillance satellitaire, traitement des données, drones…).
+
+303.  Le maintien de la supériorité aéromaritime implique de préparer le renouvellement du groupe aéronaval. Les travaux lancés en coopération avec le Royaume-Uni permettront en outre de doter nos forces d’un successeur du missile antinavires de la famille Exocet.
+
+304.  La protection de l’espace aérien national est également un enjeu majeur face à un spectre diversifié de menaces et de risques.
+
+305.  Pérenniser la capacité nationale de surveillance et de contrôle de l’espace aérien national nécessite la poursuite de la modernisation et de l’homogénéisation de la couverture radar 3D (avec un effort substantiel en très basse altitude), l’amélioration de performances et la consolidation des chaines de commandement du territoire national pour faire face aux nouvelles menaces.
+
+306.  Ultime recours en cas de crise majeure sur le sol national, la Posture de Protection Terrestre (PPT) regroupe un ensemble cohérent de mesures destinées à appuyer et à soutenir l’action interministérielle. Elle requiert la mobilité immédiate des unités, l’épaisseur organique de certaines capacités clés et la faculté à opérer dans un milieu NRBC.
+
+307.  En matière de combat terrestre, le programme SCORPION, qui vise à renforcer l’aptitude opérationnelle des forces au contact ou dans la profondeur tactique et à contrôler le milieu dans la durée, permettra d’augmenter la puissance et l’agilité des unités engagées. A plus long terme, le projet de Main Ground System, qui vise à définir le successeur du char Leclerc, ainsi que le système d’artillerie du futur devront être menés en coopération avec l’Allemagne.
+
+308.  L’armement des drones aériens, qui apportera une capacité de réaction adaptée à des adversaires toujours plus fugaces et des espaces étendus, doit être accéléré.
+
+309.  Un effort doit être porté sur le développement de capacités de détection et de neutralisation, notamment des drones aériens, ainsi que sur la protection des équipements et des hommes. Ces capacités concourront à la contribution des armées pour la protection du territoire national.
+
+310.  La robustesse et la résilience face aux attaques cyber des équipements, systèmes d’armes et systèmes d’information doivent également être accrues.
+
+• Soutenir et durer
+
+311.  Les opérations militaires s’inscrivent dans le temps long avec une durée moyenne de 10-15 ans pour les engagements récents. L’endurance est nécessaire aux forces d’intervention ainsi qu’aux échelons de soutien engagés dans un environnement toujours plus contraignant.
+
+312.  La capacité à durer dépend du volume des forces, des équipements et des stocks, de l’organisation logistique et de la capacité à régénérer le capital humain comme matériel.
+
+313.  Le recomplètement et le maintien à niveau des stocks de munitions sont engagés pour toutes les plates-formes (artillerie, avions de combat, unités navales). Cette remise à niveau concernera également les infrastructures utilisées par les armées.
+
+314.  Les fonctions soutien commun, santé, énergie, flux logistiques (ravitaillement), le maintien en condition opérationnelle des équipements et des combattants, le recrutement et la formation concourent directement à la capacité des forces à conduire leur préparation opérationnelle et à opérer sur les théâtres extérieurs, ainsi que sur le territoire national, et ce dans la durée. Le maintien en condition opérationnelle des équipements, les capacités de transport stratégique et tactique dans les trois milieux et le soutien médical des forces en opérations (antennes chirurgicales déployées) doivent faire l’objet d’un effort prioritaire.
+
+315.  La disponibilité d’une réserve stratégique en hommes, équipements et munitions constitue à la fois la capacité à faire face à une surprise stratégique et une capacité de régénération initiale d’un engagement durable ; dès son emploi, elle doit pouvoir être reconstituée dans des délais contraints.
+
+316.  La capacité à durer dépend de la résilience de l’outil militaire. Celle-ci peut reposer sur l’agilité comme sur la robustesse et la redondance des systèmes, réseaux et équipements critiques. En matière de soutien, la résilience dépend des leviers que le commandement conserve sur les organisations pour garantir la sûreté, la continuité et la réactivité nécessaires aux opérations et à la préparation opérationnelle. La résilience du soutien comprend également les chaînes d’approvisionnement industrielles et opérationnelles qui doivent donc être protégées.
+
+### 5.4. Des femmes et des hommes formés, entraînés et valorisés
+
+317.  Dans un contexte d’évolution des modes de vie et de concurrence accrue pour certaines compétences clés sur le marché de l’emploi, le maintien de l’attractivité et de la fidélisation est un enjeu qui exige une amélioration de la vie quotidienne des militaires et la valorisation des carrières.
+
+318.  Au-delà de la formation aux savoir-faire militaires fondamentaux d’armées, la maîtrise des compétences opérationnelles, techniques et technologiques les plus avancées passe par un dispositif de formation militaire et civil dynamique et intégré.
+
+319.  Nos armées doivent pouvoir compter sur une juste reconnaissance par la Nation de la spécificité de leur mission, que traduit leur statut.
+
+320.  Les vétérans et les familles des militaires blessés ou décédés en opération doivent faire l’objet d’une attention particulière à la hauteur de leur engagement et de leur sacrifice. Le suivi sanitaire et social des blessés physiques et psychologiques requiert une prise en compte spécifique dans la durée.
+
+321.  L’adhésion de l’opinion publique, dans le cadre d’un lien armées-société civile renouvelé, et la préservation d’un consensus national sur les grandes orientations de notre défense contribuent à la capacité des femmes et des hommes des armées à faire face à la dureté croissante des conditions d’engagement.
+
+### CONCLUSION
+
+La France et l’Europe sont directement exposées, désormais, au rapprochement des menaces et des crises de tous ordres : au retour de la guerre aux frontières européennes et aux attaques terroristes s’ajoute une concentration, sans précédent depuis la fin de la guerre froide, de foyers de tension dans l’espace euro-méditerranéen, de l’Atlantique Nord au Sahel. En outre, la mondialisation des crises, par la contraction de l’espace géopolitique et l’accroissement des interconnexions, expose le continent européen aux conséquences directes des crises, même les plus éloignées. L’ensemble de ces phénomènes est aggravé par des fragilités de toute nature (démographiques, politiques, environnementales, sanitaires).
+
+Les événements survenus depuis le Livre blanc de 2013, dont plusieurs ont frappé le territoire de la France et sa population, ont confirmé la dégradation durable de l’environnement international. A la persistance d’une menace terroriste jihadiste s’ajoutent les incertitudes liées au retour des politiques de puissance et de la compétition militaire, par un nombre croissant d’Etats, susceptibles de mettre en cause nos intérêts de sécurité. L’émergence d’un monde multipolaire s’accompagne ainsi de rivalités accrues entre Etats pour le contrôle d’espaces communs ou partagés, et d’évolution des formes d’affrontement vers des logiques d’intimidation ou des modes d’action ambigus, qui accroissent les risques d’incident ou d’escalade. L’incertitude générée par ces évolutions est d’autant plus forte qu’elle se double d’une contestation directe des normes et des institutions internationales censées encadrer le recours à la force, et d’une poursuite préoccupante des logiques de prolifération. Enfin, le durcissement général des capacités militaires, qui découle
+
+de la dissémination technologique, rendra l’environnement opérationnel sans cesse plus exigeant pour nos forces, sur tout le spectre des engagements.
+
+Pour la France, puissance européenne aux responsabilités et aux intérêts globaux, la réponse à l’ensemble de ces défis sécuritaires passe prioritairement par une consolidation de son autonomie stratégique. La préservation de sa liberté d’appréciation, de décision et d’action s’appuiera en particulier sur le renouvellement de l’ensemble des composantes de la dissuasion nucléaire, auquel devra s’ajouter la poursuite des efforts en matière de connaissance et d’anticipation. Ces efforts devront s’accompagner d’un indispensable renforcement de la résilience des fonctions comme des secteurs essentiels à la vie de la Nation. Les domaines stratégiques de l’industrie et de la recherche notamment, particulièrement exposés, devront faire l’objet d’une mobilisation de l’ensemble des services concernés de l’Etat. Enfin l’autonomie stratégique de la France continuera de reposer sur une diplomatie forte et engagée, au service d’une approche globale des crises qui intègre sécurité et développement, étroitement articulée avec l’action militaire.
+
+Cette consolidation est indissociable d’un soutien à la construction d’une autonomie stratégique européenne. Alors que la cohésion de l’Union européenne elle-même est fragilisée et que des interrogations ont été soulevées sur la crédibilité des alliances, la prise de conscience d’intérêts de sécurité partagés entre Européens progresse, tout comme l’ambition de disposer de moyens d’action plus autonomes. Ces efforts doivent être encouragés et accompagnés, par des avancées concrètes en termes de soutien à la recherche comme par des coopérations plus flexibles, qui facilitent le rapprochement des cultures stratégiques et l’interopérabilité, entre partenaires volontaires et militairement capables. La proposition française d’Initiative européenne d’intervention s’inscrit dans cette logique, en proposant un cadre de coopération opérationnelle ambitieux et exigeant, alors que s’amorce une remontée des budgets de défense européens, après deux décennies de réductions significatives. L’augmentation des capacités européennes contribuera également à renforcer l’Alliance atlantique, élément clé de la sécurité européenne.
+
+La faculté de la France à agir seule, si les circonstances l’imposent, et à fédérer des partenaires continuera de dépendre du maintien d’un modèle d’armée complet et équilibré. La préservation de la capacité de nos forces à emporter la décision, dans tous les milieux et sur tout le spectre des engagements exigera un effort continu de remontée en puissance, au-delà de la prochaine loi de programmation militaire.
+
+Certaines aptitudes devront faire l’objet d’un renforcement prioritaire, notamment celles qui contribuent au renseignement, au rôle de la France comme nation-cadre, à l’entrée en premier et à la capacité à durer dans les engagements. La complémentarité et les liens entre certaines fonctions stratégiques devront également être consolidés. La fonction prévention en particulier devra retrouver toute son importance, par
+
+un effort en direction des dispositifs prépositionnés, des déploiements avancés et des coopérations. Les réflexions sur l’équilibre entre prévention, protection et intervention devront également être poursuivies, pour s’adapter aux évolutions des menaces et des risques.
+
+Le maintien d’une base industrielle et technologique de défense performante demeurera la condition de cette autonomie. Préserver à la France sa position de grande puissance technologique, garantir aux forces des équipements au meilleur niveau et entretenir la vitalité de l’écosystème industriel de défense continueront d’exiger des politiques de long terme, en matière de recherche et d’investissement, de soutien à l’export, et de protection du potentiel scientifique et technologique. La nouvelle dynamique européenne en matière de défense permettra par ailleurs de donner un nouvel élan à la recherche de coopérations résolues et maîtrisées. Ces objectifs ne pourront être atteints que s’ils s’accompagnent d’une politique globale de soutien à l’innovation, et d’une transformation globale de cet écosystème qui permette de gagner en réactivité pour susciter, capter et intégrer les ruptures, technologiques ou d’usage, en particulier celles issues du domaine civil.
+
+Cette démarche d’agilité ne peut se limiter au seul domaine industriel et technologique. Dans un contexte de ressources limitées, elle doit orienter la transformation de l’ensemble des acteurs de la défense, pour accroître leur capacité à intégrer l’innovation et en accélérer les effets. Elle doit également permettre aux forces de conserver leur supériorité opérationnelle, face à des adversaires eux-mêmes inventifs et réactifs.
+
+Les conclusions de la Revue permettront d’orienter l’effort significatif de défense, décidé par le Président de la République, qui se déclinera dans la prochaine loi de programmation militaire. L’effort de défense significatif dans lequel s’inscrit cette revue reposera sur une communauté humaine, militaire et civile, dont la formation, les compétences et le sens du devoir méritent la considération de la Nation. C’est en pensant à l’engagement total de ces femmes et de ces hommes, que le comité de la Revue a formulé ses recommandations, afin qu’ils disposent des conditions les plus favorables à l’exercice de leur mission au service de la France.
+
+ANNEXES
+
+Liste des aptitudes opérationnelles . . . . . . . . . . . . . . . . . . . . . . . . . . . . 91
+
+Liste des principaux sigles . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 96
+
+Lettre de mission du Président de la République à la ministre des Armées. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 100
+
+Arrêté portant création du comité de la Revue stratégique . . . . . . . 102
+
+Personnalités auditionnées par le comité et consultations menées au titre de la Revue stratégique . . . . . . . . 104
+
+Composition du comité de rédaction de la Revue stratégique . . . . . 106
+
+### LISTE DES APTITUDES OPERATIONNELLES
+
+Les aptitudes opérationnelles sont définies comme une disposition particulière pour remplir une mission. Toutes les aptitudes opérationnelles ci-dessous sont nécessaires à la cohérence et à la complétude du modèle d’armée.
+
+Mettre en œuvre la posture de dissuasion nucléaire : aptitude permettant de garantir la permanence et la crédibilité de la dissuasion nucléaire. Cette aptitude s’appuie sur la mise en œuvre en sûreté de tous les moyens de la dissuasion dans un environnement par ailleurs pleinement maîtrisé avec le soutien des forces conventionnelles. Les niveaux requis de fiabilité, de conformité et de sécurité nucléaire sont démontrés dans le cadre du contrôle gouvernemental.
+
+Collecter, exploiter et diffuser du renseignement : aptitude qui nécessite de maîtriser le cycle complet du renseignement (recueil, analyse, orientation, diffusion) d’origine humaine (ROHUM) et technique (renseignements d’origine image et électromagnétique – ROIM, ROEM – et sensitive site exploitation SSE100), dans un cadre de coordination étroite entre les services de renseignement français ainsi qu’avec les services de nos alliés et partenaires.
+
+Identifier les menaces et attribuer les agressions : aptitude qui permet de confirmer l’existence d’une agression, d’identifier son origine et de la caractériser. Elle est rendue plus difficile dans le champ cyber et dans l’espace exo-atmosphérique, notamment en raison de la diversité des acteurs, y compris non étatiques.
+
+Construire, entretenir, partager une situation opérationnelle : aptitude qui doit permettre d’établir dans la durée, à partir de situations opérationnelles de milieu, une vision globale partagée du champ de bataille, à titre national comme avec nos alliés.
+
+Commander une opération militaire : aptitude à planifier et conduire une opération dans tous ses aspects pour atteindre l’objectif assigné. Cette aptitude nécessite des capacités de planification, de commandement et de contrôle de niveau stratégique, opératif et tactique.
+
+Assurer la sauvegarde maritime du territoire national : aptitude caractérisée par la posture permanente de sauvegarde maritime (PPSM) qui regroupe l’ensemble des dispositions prises par les armées pour la défense maritime du territoire et la contribution à l’action de l’Etat en mer. Cette aptitude implique d’assurer notamment, dans les espaces maritimes et en particulier les approches, la sûreté face aux menaces de nature militaire ou terroriste, l’ordre public, la prévention des accidents, la
+
+100  Exploitation immédiate des données recueillies sur les sites d’actions ou de combat : analyses technico-scientifiques, ADN…
+
+sauvegarde des biens et des personnes, la lutte contre toutes les activités illicites menaçant la sécurité intérieure (narcotrafic, trafic de migrants, trafic d’armes), la préservation de l’environnement maritime et la protection des ressources en ZEE.
+
+Assurer la sûreté de l’espace aérien national : aptitude qui regroupe un ensemble cohérent de mesures défensives mises sur pied et appliquées à tous les échelons du commandement dans le but d’obtenir et de maintenir la sûreté de l’espace aérien national ainsi que de ses approches, tout en assurant les missions d’assistance aux aéronefs et aux personnes (Search and rescue – SAR). Elle est connue sous le nom de posture permanente de sûreté aérienne (PPSA).
+
+Contribuer à la sécurité intérieure sur le territoire national : aptitude qui regroupe un ensemble cohérent de mesures permanentes et conjoncturelles destinées à appuyer et soutenir l’action interministérielle. Le principe des 4 « i » (indisponible, insuffisant, inadapté, inexistant) doit s’appliquer pour justifier une demande de concours ou une réquisition de moyens et de compétences militaires au profit de l’autorité civile. Cet ensemble de mesures constitue la Posture de protection terrestre (PPT).
+
+Assurer la sécurité des moyens spatiaux : aptitude qui consiste à assurer l’intégrité physique et numérique, la fiabilité et la sûreté de l’utilisation de nos moyens nationaux, de contribuer à celles des moyens partagés, que ce soit pour les satellites ou leurs segments sol. Elle suppose une connaissance de la situation spatiale et une aptitude à agir si cette sécurité est menacée.
+
+Mener des actions de lutte dans l’espace cyber : aptitude qui consiste à combattre, de façon défensive ou offensive dans l’ensemble du milieu numérique, contre des adversaires étatiques ou non.
+
+Obtenir et conserver la supériorité aérienne : aptitude qui consiste à réduire dans la durée, depuis les airs ou la surface, la menace aérienne (vecteurs pilotés ou non) adverse à un niveau significativement inférieur à son propre niveau de contrôle des airs. En préalable et durant les opérations interarmées, elle permet leur succès à un niveau de pertes acceptable. Elle suppose de pouvoir détecter et détruire les menaces et vecteurs aériens adverses.
+
+Obtenir et conserver la supériorité terrestre : aptitude qui consiste à réduire la menace terrestre adverse à un niveau significativement inférieur à son propre niveau de combat aéroterrestre. Pendant toute la durée des opérations, elle consiste à établir un rapport de force favorable, en recherchant l’affaiblissement préalable de l’adversaire dans les champs matériels et immatériels, dans la profondeur de son dispositif, sans exclure l’action au contact, jusque dans ses sanctuaires (zone urbaine par exemple).
+
+Obtenir et conserver la supériorité aéromaritime : aptitude qui consiste à réduire dans la durée la menace aéromaritime (de surface, aérienne ou sous-marine) adverse à un niveau permettant de disposer, pour un espace et une période considérés, de la liberté et de la sûreté d’action. Elle présuppose une connaissance de la zone et de ses acteurs et exige de pouvoir neutraliser les menaces pour nos propres bâtiments, en préalable et durant les opérations maritimes, en vue de permettre leur succès à un niveau de pertes acceptable.
+
+Projeter et démontrer la puissance : aptitude à traduire la volonté politique par une démonstration de puissance militaire visant à influer sur le développement d’une situation, tant dans le champ physique que dans celui des perceptions. Elle se traduit initialement par un déploiement d’outils de puissance, pouvant être employés immédiatement le cas échéant.
+
+Acheminer des forces sur un théâtre : aptitude qui consiste à permettre le déploiement des moyens humains, matériels et logistiques depuis leur stationnement jusqu’à leur zone d’intervention, par voie terrestre, maritime ou aérienne.
+
+Protéger les forces déployées contre les menaces surface-surface : aptitude qui regroupe des dispositions de protection (hommes, équipements) et de neutralisation (dont des moyens de contre-batterie) face aux menaces de type sol-sol, mer-mer, sol-mer, mer-sol.
+
+Protéger les forces déployées contre les menaces air-surface et balistiques : aptitude qui regroupe des dispositions de protection et de neutralisation face aux menaces air-mer, air-sol et balistiques. La défense antimissile balistique de théâtre, la protection de groupes aéronavals et des bases aériennes projetées, la défense sol-air basse couche d’accompagnement des forces terrestres font partie intégrante de cette aptitude.
+
+Protéger les forces déployées contre les menaces sous-marines : aptitude qui regroupe des dispositions de protection et de neutralisation face aux menaces (conventionnelles ou non) de type mines et torpilles. Les dispositions doivent permettre de protéger les unités (militaires et civiles affrétées) en mer mais aussi dans les ports. Cette aptitude revêt une importance particulière pour la composante océanique de dissuasion.
+
+Protéger contre les agressions NRBC et opérer en milieu NRBC : aptitude qui doit permettre en opérations extérieures et intérieures de se protéger (détection, analyse, décontamination) et de combattre en milieu pollué ; cette aptitude se décline en dispositions pour les hommes (combattants et soutenants) et les équipements (terrestres, aériens et maritimes).
+
+Protéger les forces contre les menaces non conventionnelles : aptitude à détecter et contrer ces menaces, qui nécessite de savoir intégrer sans délai les innovations technologiques (souvent duales ou issues du civil). La capacité d’adaptation de la doctrine et des règles d’engagements sont également nécessaires à cette lutte non conventionnelle.
+
+Assurer la mobilité tactique des forces : aptitude qui prend en compte le besoin de mobilité des forces en opération (extérieure et intérieure), dans tous les milieux y compris les milieux complexes et extrêmes. Les caractéristiques des opérations (durcissement, dispersion) sont dimensionnantes.
+
+Frapper dans la profondeur (en territoire ennemi) : aptitude différenciante parmi les puissances militaires, qui fait peser une menace permanente sur l’adversaire et en particulier sur des cibles à haute valeur ; elle nécessite de maîtriser les phases de renseignement, de pénétration des défenses adverses, de guidage et d’évaluation d’impact (effet militaire et effets collatéraux éventuels) avant de frapper. La frappe peut être effectuée à distance (depuis les espaces communs, depuis le territoire national ou depuis un territoire ami) ou au contact. Cette aptitude doit prendre en compte le besoin de frapper des cibles statiques et mobiles.
+
+Appuyer des forces au contact : aptitude qui doit permettre d’apporter des appuis quand nos forces sont au contact de l’ennemi ; il peut s’agir d’un appui feu aérien, naval et terrestre, d’un appui renseignement depuis les trois milieux ou d’un appui cyber.
+
+Conduire des opérations spéciales : aptitude permettant de planifier et de conduire des opérations militaires menées en dehors des cadres d’action classiques, visant à atteindre des objectifs d’intérêt stratégique. Ces opérations se traduisent par des actions d’environnement, d’intervention dans la profondeur sur des objectifs à haute valeur, de lutte contre les organisations terroristes, de recueil et d’exploitation de renseignement en milieu non permissif et de partenariat militaire opérationnel avec des forces étrangères. Cette aptitude nécessite une chaîne de commandement, des moyens spécifiques et une complémentarité entre forces spéciales, forces conventionnelles et services de renseignement.
+
+Conduire une opération amphibie : aptitude à planifier, commander et conduire des opérations de la mer vers la terre (et inversement) ; elles peuvent prendre l’aspect d’opérations from ship to shore11, from ship to objective12 et nécessitent de maîtriser les segments aéromaritime, aéroterrestre, l’appui feu depuis la mer et les changements de milieu.
+
+11 Action de bâtiments amphibies vers la côte, puis de la côte vers l’objectif. 12 Action directe vers l’objectif (opération aéroterrestre depuis un porte-hélicoptères).
+
+Conduire une opération aéroportée : aptitude qui doit permettre de projeter par les airs directement des forces ou un soutien logistique à proximité d’un objectif (terrestre, maritime). Au-delà de l’effet de surprise, cette aptitude permet de gagner des délais et d’attaquer des objectifs dans la profondeur.
+
+Conduire une opération en milieu complexe et extrême : aptitude à combattre dans des milieux physiques inhospitaliers aux combattants et à la manœuvre des forces. Elle requiert des compétences et des équipements spécifiques. Ces milieux complexes et extrêmes sont les zones urbaines, les zones montagneuses et de grand froid, les espaces désertiques et équatoriaux.
+
+Récupérer et extraire du personnel d’un milieu hostile : aptitude qui nécessite de maîtriser l’insertion lointaine de forces spécialisées pour rechercher, sécuriser et extraire les personnels (ressortissants, pilotes éjectés, otages). Aptitude associée à un haut niveau d’alerte et de réactivité.
+
+Conduire des opérations d’influence : aptitude qui désigne un ensemble de procédés qui visent à susciter l’adhésion, légitimer ou favoriser l’action de notre force avant, pendant et après les opérations ; elles s’insèrent dans une approche globale des opérations et se conduisent dans les champs matériels et immatériels.
+
+Soutenir les opérations et les forces : aptitude permettant aux forces de durer en opérations extérieures et sur le territoire national. Les fonctions soutien commun, santé, énergie, flux logistiques (ravitaillement), maintien en condition opérationnelle des équipements et des combattants, recrutement et formation constituent les piliers de cette aptitude.
+
+### LISTE DES PRINCIPAUX SIGLES
+
+SIGLE DEFINITION
+
+A2/AD Anti-Access and Area Denial Déni d’accès -interdiction de zone
+
+ADM Arme de destruction massive
+
+AFD Agence française de développement
+
+APL Armée populaire de libération
+
+APR Accord de paix et de réconciliation
+
+AQPA Al Qaïda dans la péninsule arabique
+
+ASEAN Association of Southeast Asian Nations Association des nations de l’Asie du Sud-Est
+
+AWACS Airborne Warning and Control System Système de détection et de commandement aéroporté
+
+BITD Base industrielle et technologique de défense
+
+CEDH Cour européenne des droits de l’Homme
+
+CJEF Combined Joint Expeditionary Force Force expéditionnaire conjointe interarmées
+
+CPA Cour permanente d’arbitrage
+
+CPI Cour pénale internationale
+
+CSAR Combat Search and Rescue Recherche et sauvetage au combat
+
+CSP Coopération structurée permanente
+
+DMT Défense maritime du territoire
+
+DROM-COM Départements, régions et communautés d’outre-mer
+
+EATC European Air Transport Command Commandement européen du transport aérien
+
+eFP enhanced Forward Presence Présence avancée renforcée
+
+ETI Entreprise de taille intermédiaire
+
+EUTM Mali European Union Training Mission in Mali Mission de formation de l’Union européenne au Mali
+
+FCE Traité sur les forces conventionnelles en Europe
+
+FED Fonds européen de la défense
+
+FINUL Force intérimaire des Nations Unies au Liban
+
+FMM Force mixte multinationale
+
+FNC Framework Nation Concept Concept de nation-cadre
+
+FNI Traité sur les forces nucléaires à portée intermédiaire
+
+FTI Frégates de taille intermédiaire
+
+G5 Sahel Organisation regroupant le Burkina Faso, le Mali, la Mauritanie, le Niger et le Tchad
+
+GAN Groupe aéronaval
+
+GPS Global Positioning System
+
+IED / EEI Improvised Explosive Device Engin explosif improvisé
+
+International Traffic in Arms Regulation Réglementation américaine sur les exportations internationales d’armement
+
+ITAR
+
+Joint Comprehensive Plan of Action Plan d’action global commun (accord signé le 14 juillet 2015 entre l’Allemagne, la Chine, les Etats-Unis, la France, le Royaume-Uni, la Russie, l’Union européenne et l’Iran sur le programme nucléaire iranien)
+
+JCPOA
+
+LRU Lance-roquettes unitaire
+
+MdCN Missile de croisière naval
+
+MICA Missile d’interception, de combat et d’autodéfense
+
+MINUSMA Mission multidimensionnelle intégrée des Nations Unies pour la stabilisation au Mali
+
+Major Joint Operation Opération du niveau corps d’armée pour l’armée de terre, de niveau JFACC (350 sorties par jour) pour l’armée de l’air et de niveau Task Force pour la marine (OTAN)
+
+MJO
+
+MRTT Multi Role Tanker Transport Avions de ravitaillement et de transport stratégique
+
+NORDEFCO Nordic Defence Cooperation Coopération de défense nordique
+
+NRBC Nucléaire, radiologique, biologique et chimique
+
+OIAC Organisation pour l’interdiction des armes chimiques
+
+OMP Opération de maintien de la paix
+
+ONG Organisation non gouvernementale
+
+ONU Organisation des Nations Unies
+
+ONUDC Office des Nations Unies contre la Drogue et le Crime
+
+OSCE Organisation pour la sécurité et la coopération en Europe
+
+OTAN Organisation du Traité de l’Atlantique Nord
+
+PME Petites et moyennes entreprises
+
+PPSA Posture permanente de sûreté aérienne
+
+PPSM Posture permanente de sauvegarde maritime
+
+PPST Protection du potentiel scientifique et technique
+
+PPT Posture de protection terrestre
+
+PSDC Politique de sécurité et de défense commune
+
+RAM Roquettes, artillerie et mortiers
+
+RCA République centrafricaine
+
+ROEM Renseignement d’origine électromagnétique
+
+ROHUM Renseignement d’origine humaine
+
+ROIM Renseignement d’origine image
+
+S&T Science, recherche, technologie et innovation
+
+SACT Supreme Allied Commander Transformation Commandant suprême allié pour la transformation
+
+SAMP/T Système sol-air de moyenne portée/terrestre
+
+SAR Search and rescue mission Mission de recherche et de sauvetage
+
+SCAF Système de combat aérien futur
+
+SCALP Système de croisière conventionnel autonome à longue portée
+
+SCCOA Système de commandement et de conduite des opérations aérospatiales
+
+Synergie du contact renforcé par la polyvalence et l’infovalorisation Programme de modernisation des capacités de combat des groupements tactiques interarmes
+
+SCORPION
+
+SJO Small Joint Operation Opération de niveau division ou équivalent (OTAN)
+
+SNA Sous-marin nucléaire d’attaque
+
+SRAS Syndrome respiratoire aigu sévère
+
+Sensitive Site Exploitation Exploitation immédiate des données recueillies sur les sites d’action ou de combat TN Territoire national
+
+SSE
+
+TNP Traité de non-prolifération
+
+The Onion Ring Réseau informatique permettant d’anonymiser l’origine des connexions
+
+TOR
+
+TUE Traité sur l’Union européenne
+
+UE Union européenne
+
+VBMR Véhicule blindé multirôle
+
+Very High Readiness Joint Task Force Force opérationnelle interarmées à très haut niveau de préparation
+
+VJTF
+
+ZEE Zone économique exclusive
+
+### LETTRE DE MISSION DU PRESIDENT DE LA REPUBLIQUE — A LA MINISTRE DES ARMEES — ARRETE PORTANT CREATION DU COMITE DE LA REVUE STRATEGIQUE — PERSONNALITES AUDITIONNEES PAR LE COMITE — ET CONSULTATIONS MENEES AU TITRE — DE LA REVUE STRATEGIQUE
+
+Personnalités auditionnées par le comité
+
+Monsieur le Préfet Pierre de Bousquet de Florian, coordonnateur national du renseignement et de la lutte contre le terrorisme
+
+Monsieur Alain Charmeau, président d’Ariane Group
+
+Monsieur Bernard Emié, directeur général de la sécurité extérieure
+
+Monsieur Louis Gautier, secrétaire général de la défense et de la sécurité nationale
+
+Monsieur François Heisbourg, conseiller spécial du président de la Fondation pour la recherche stratégique
+
+Monsieur Jean-Claude Mallet, conseiller spécial auprès du ministre de l’Europe et des Affaires étrangères
+
+Monsieur l’ambassadeur Nikolaus Meyer-Landrut, ambassadeur de la République fédérale d’Allemagne en France
+
+Monsieur le Préfet Laurent Nuñez, directeur général de la sécurité intérieure
+
+Général de corps d’armée Grégoire de Saint Quentin, sous-chef opérations de l’État-major des armées
+
+Monsieur Bruno Tertrais, directeur adjoint de la Fondation pour la recherche stratégique
+
+Monsieur Hubert Védrine, ancien ministre des Affaires étrangères
+
+Monsieur Henri Verdier, directeur interministériel du numérique et du système d’information et de communication de l’Etat
+
+Consultations menées au titre de la Revue stratégique
+
+Le président du comité a mené de larges consultations, à Paris et à l’étranger. Il a rencontré une cinquantaine de personnalités à Paris et une soixantaine à Berlin, Bruxelles, Londres et Washington. Le comité a pu bénéficier de l’apport d’un séminaire associant une cinquantaine de jeunes chercheurs et d’un séminaire de haut niveau regroupant 52 participants, organisés respectivement les 29 et 30 août 2017 à l’Ecole militaire.
+
+### COMPOSITION DU COMITÉ DE RÉDACTION — DE LA REVUE STRATÉGIQUE
+
+Président Monsieur Arnaud Danjean, député européen
+
+Secrétaire général Monsieur Philippe Errera, directeur général des relations internationales et de la stratégie du ministère des Armées
+
+Suppléant : vice-amiral d’escadre Hervé de Bonnaventure, directeur général adjoint des relations internationales et de la stratégie
+
+Au titre des administrations
+
+Premier ministre : Monsieur Frédéric Journès, directeur des affaires internationales, stratégiques et technologiques du secrétariat général de la défense et de la sécurité nationale
+
+Suppléant : ingénieur général de 2e classe de l’armement Thierry Carlier, directeur adjoint des affaires internationales, stratégiques et technologiques du secrétariat général de la défense et de la sécurité nationale
+
+Ministère de l’Intérieur : Préfet Michel Cadot, préfet de la région Île-de-France
+
+Suppléant : sous-préfet Bruno André, directeur de cabinet du préfet de la région Île-de-France
+
+Ministère de l’Europe et des Affaires étrangères : Monsieur Nicolas Roche, directeur des affaires stratégiques, de sécurité et du désarmement.
+
+Suppléant : Monsieur Justin Vaïsse, directeur du centre d’analyse, de prévision et de stratégie
+
+Ministère des Armées : Général d’armée François Lecointre, chef d’état-major des armées
+
+Suppléant : amiral Philippe Coindreau, major général des armées
+
+Ingénieur général de l’armement de classe exceptionnelle Joël Barre, délégué général pour l’armement
+
+Suppléante : ingénieure générale hors-classe de l’armement Caroline Laurent, directrice de la stratégie de la direction générale de l’armement
+
+Contrôleur général des armées Jean-Paul Bodin, secrétaire général pour l’administration
+
+Suppléant : Monsieur Paul Serre, adjoint au secrétaire général pour l’administration
+
+Général d’armée Jean-Pierre Bosser, chef d’état-major de l’armée de terre
+
+Suppléant : général de corps d’armée Bertrand Houitte de la Chesnais, major général de l’armée de terre
+
+Amiral Christophe Prazuck, chef d’état-major de la marine
+
+Suppléant : amiral Arnaud de Tarlé, inspecteur général des armées - Marine
+
+Général d’armée aérienne André Lanata, chef d’état-major de l’armée de l’air
+
+Suppléant : général de corps aérien Olivier Taprest, major général de l’armée de l’air
+
+Monsieur Guillaume Schlumberger, directeur stratégie de défense, prospective et contre-prolifération de la direction générale des relations internationales et de la stratégie
+
+Suppléant : Monsieur Etienne de Durand, délégué politique et prospective de défense de la direction générale des relations internationales et de la stratégie
+
+Les personnes qualifiées suivantes
+
+Monsieur Bernard Bajolet, ambassadeur de France
+
+Madame Frédérick Douzet, professeure des universités
+
+Monsieur Thomas Gomart, directeur de l’Institut français des relations internationales
+
+Monsieur Hervé Guillou, président du Conseil des industries de défense françaises
+
+Suppléant : Monsieur Pierre-Eric Pommellet, Conseil des industries de défense françaises
+
+Madame Céline Jurgensen, directrice de la stratégie du Commissariat à l’énergie atomique et aux énergies alternatives
+
+Monsieur Bruno Racine, président du conseil d’administration de la Fondation pour la recherche stratégique
+
+Secrétariat du comité de rédaction
+
+Coordinateur de la rédaction : colonel François-Marie Gougeon
+
+Rédacteurs :  ingénieure en chef de l’armement Elodie Contrastin
+
+docteur Xavier Dramard colonel Cyrille Duvivier Monsieur Henri-Damien Ferret ingénieur en chef de l’armement Guillaume Galtier colonel Guillaume Garnier colonel Pierre-Joseph Givre capitaine de vaisseau Christophe Pasco Madame Manon Poirier colonel Pierre Réal
+
+Coordinateur exécutif : lieutenant-colonel Pascal Levant
+
+Chargé de mission auprès de Monsieur Arnaud Danjean : Monsieur Edouard Gendrot
+
+Gestion de l’information : Madame Marie-Madeleine Marçais
+
+Secrétaires :  adjudant Emilie Aligon
+
+sergent Charlotte Molinet quartier-maître de première classe Kassandra Chauvet
+
+Revue stratégique
+
+de défense et de sécurité nationale
+
+DICoD - Bureau des Éditions - Octobre 2017

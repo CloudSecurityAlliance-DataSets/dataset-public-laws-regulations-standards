@@ -1,0 +1,3795 @@
+# National Strategy for Artificial Intelligence (인공지능 국가전략, 2019)
+
+GPRN — 11-1721000-000393-01
+
+## National Strategy for Artificial Intelligence
+
+Presidential Initiative for Artificial Intelligence(AI) — October 28, 2019
+
+## President Moon Jae-in
+
+Fellow Koreans and the main architects of the Republic of Korea’s artificial intelligence development, At 3:40 a.m. one early morning in May this year, an elderly man called out “help me” to an AI speaker as he collapsed from high blood pressure. The virtual assistant recognized his shout as an emergency signal, alerted a 119 rescue squad and saved his life in the end. Similar cases have been reported several times already. The Government has provided AI speakers to
+
+perform this function as part of its support for senior citizens who live alone.
+
+The era of artificial intelligence is now coming into full view. Our daily use of artificial intelligence
+
+includes automatic translation services on smartphones and automotive navigation systems.
+
+AlphaGo, which defeated the world’s strongest 9-dan Go player Lee Sedol, might be seen as just the beginning of artificial intelligence. AI has progressed to the extent of bringing innovation to industries, transforming our everyday lives and providing in-home care services. It is moving
+
+beyond scientific and technological advancements and is approaching us as a new civilization.
+
+Today at DEVIEW 2019, Korea’s largest artificial intelligence developers conference, I am meeting with the first generation of a new type of humans who are creating an AI-based civilization. Automobiles, one of the mainstays of our conventional flagship industries, are
+
+being fused with AI and evolving into future cars, typified by autonomous driving vehicles.
+
+Korean smart factories, known for using AI to enhance productivity and energy efficiency, has been identified as one of the “lighthouse factories” – those leading the global transformation of manufacturing. A Korean startup that applies a deep-learning algorithm to detect defects has been valued at US$200 million. Another Korean business venture that produces AI-based software to assist with medical diagnosis has been listed on the AI 100 ranking, which showcases the 100 most promising artificial intelligence companies in the world. It has attracted 20 billion
+
+won in venture investment this year alone.
+
+Entrepreneurs and developers who are writing success stories in various AI fields, I am very reassured by and grateful to all of you. I am pleased to inform you first of Presidential Initiative
+
+for Artificial Intelligence.
+
+Fellow Koreans, AI is the companion of humanity. Humans became the masters of the earth as they came to have intelligence and, at the same time, began to take unlimited responsibility for
+
+this world. Human beings might be the only creature with high intelligence in the vast universe.
+
+However, we are prone to err and often make irrational decisions. Humanity’s intellectual exploration has helped unceasingly expand its own intellectual ability. AI is the culmination of a
+
+human dream to constantly complement shortcomings and become more perfect.
+
+The era of the Fourth Industrial Revolution is indeed an age in which imagination can change the world. Korea is neither the first country to have ushered in the era of artificial intelligence nor the country with the best AI technology at present. However, the country has people capable of turning their imagination into reality and taking on challenges to pursue novelty. Even in the throes of the 1997 Asian financial crisis, the country led the Internet Revolution and now boasts world-class manufacturing competitiveness, globally unmatched ICT infrastructure and abundant data concerning e-government. If we link artificial intelligence primarily with the sectors in which we’ve accumulated extensive experience and competitiveness, such as manufacturing and semiconductors, we will be able to give birth to the smartest yet most humanlike artificial intelligence. The Government will join forces with developers to help them
+
+fully utilize their imaginations and turn their ideas into reality.
+
+First, we’ll create an environment where they can exercise their imagination to the fullest, work together and take on new challenges. Among the numerous theories on human intelligence, I feel particularly drawn to the theory that its development has been to further cooperation. If we ensure that developers can turn their imagination into reality by switching to a so-called negative regulatory system defined by the principle of “approve first, regulate later” and if we enable scientists, engineers, artists and students to cooperate by boldly tearing down barriers between different sectors, our country’s AI will bring about the fastest progress in the world. We will also create a new model of global cooperation through an AI Olympics, a festival of creative ideas and technologies, and the AI Grand Challenge where the best brains participate in solving pending issues. In addition to existing policies concerning the establishment of AI graduate schools and the Innovation Academy, we will allow universities to create new, or expand existing, majors related to high-tech fields. University professors will be permitted to hold positions in companies concurrently, which will help attract the world’s best minds to our country. We will actively cooperate with the National Assembly to ensure that the three bills concerning the data
+
+economy are passed before the end of this year.
+
+Second, we will provide support companies to earn profits. The Government has earmarked 1.7 trillion won in next year’s budget for data, networks and AI, up 50 percent from this year.
+
+We will create an environment in which companies can confidently invest in areas where they’re competitive and quickly make profits. We will intensively funnel our policy funds into startups that will determine our future and will create an industrial ecosystem where innovation continues perpetually. The Government will make preemptive investments in such sectors as next-generation AI chips so as to secure a leading position in the global market. Data and cloud computing are needed in the age of AI. The Government will fundamentally innovate the establishment, opening and utilization of data sources at every stage. Open data will be made available to the public in principle, and the Government will expand its support for the high-capacity cloud computing
+
+needed for the development of AI by businesses, universities and research institutions.
+
+Third, we will be unrivalled in terms of our use of AI. The more people use AI without fear, the more our industry can grow. Opportunities to learn about AI will be provided to everyone: young people in their 20s searching for jobs, employees in their 30s and 40s seeking career changes, those in their 50s and 60s preparing for a second-career opportunity after retirement, and seniors. The Government will make sure that AI can be utilized and consumed without
+
+restraint.
+
+Fourth, the Government will become AI-oriented. Right after the inauguration, my Administration launched the Presidential Committee on the Fourth Industrial Revolution. It selected ‘Data, Network, and AI(DNA)’ as three new innovative industries and has supported them. Last year, ‘AI R&D Strategy’ and ‘Data Industry Vitalization Strategy’ were put in place at the pan-government level and have steadily been implemented. The Government itself will actively use and support AI at every opportunity. We will transform ourselves into an AI- based digital government, going beyond the world’s best e-government. We will provide high- quality services, starting with those areas that can directly impact the people’s lives such as the environment, disasters, safety and national defense, so that the public can sense the changes. The
+
+Government’s public services will also be transitioned to internet-and smartphone-based ones.
+
+Fellow Koreans, distinguished AI developers and Entrepreneurs, the advancement of AI will lead humanity into a world never experienced before. AI will not only affect industrial sectors but also solve many issues facing our society: public health in an aging society, welfare for senior citizens living alone, the safety of women living by themselves and the prevention of crimes that are becoming more sophisticated. Let us work together so that AI can operate in a people- centered manner and become a driving force behind social innovation. By the end of this year, the Government will propose a national AI strategy based on this framework initiative for a completely new AI. The Korean government will also pay special attention to changes in the job
+
+market and AI-related ethical issues.
+
+The development of innovative technologies will be achieved through sharing and interaction like at DEVIEW 2019. I ask you to share your rich experience and wisdom filled with innovative
+
+imagination. I hope everyone will work together to realize our dream. Thank you.
+
+### Foreword
+
+The world is entering a new era of transformation, the 4th Industrial Revolution, and artificial intelligence(AI) is at the center of this huge revolution. AI, which only existed in the imagination in the past, is rapidly growing based on the development of ICTs such as the increase of computing power, data accumulation, and network advancement such as 5G. AI has started to be used and spread through all industries, including manufacturing, healthcare, transportation, environment, and education, and we can now easily
+
+encounter it in almost every aspect of our daily lives.
+
+Artificial intelligence, with its cognitive, learning, and reasoning abilities, is expected to assist or replace human intellectual functions in the future, in the same way as machines such as steam engines substituted human physical labor in the age of industrialization. AI will create new added value by catalyzing innovation throughout the industries, provide people with greater convenience in their daily lives, and will also be a powerful way to resolve social problems such as population aging and crime prevention. In the AI era, AI fundamentally changes the way of working and the job structure, while proliferation of AI could present dysfunction and security threats. Therefore, rather than accepting these
+
+changes passively, we should be active change agents in creating a brighter future.
+
+I think it is time for us to prepare for a world where people and artificial intelligence can coexist. For this, in December last year, the government adopted a government-wide National Strategy for Artificial Intelligence under the vision of “Toward AI World Leader beyond IT” in an effort to give shape to the “Presidential Initiative for Artificial Intelligence (Oct. 2019)” announced by President Moon Jae-in. The strategy focused on maximizing our national strengths such as the world’s best ICT infrastructure and semiconductor and manufacturing technology, while realizing people-centered artificial intelligence with consideration and respect for people, beyond technical and industrial viewpoints. If the public and private sectors work together to successfully implement this national strategy, we can secure world-class
+
+digital competitiveness and significantly improve the quality of life for people by 2030.
+
+We are standing at an important crossroads where the lives of our future generations are at stake. In the meantime, we have to enhance our nation’s capacities to raise our status as the world’s top-10 economy, and to enable people to enjoy a more affluent and happier life. In the era of AI that harmonizes with innovation and engagement, I would welcome your active interest and participation in opening a new
+
+future AI era for the Republic of Korea.
+
+Minister, Ministry of Science and ICT
+
+## Choi Kiyoung
+
+Contents
+
+1
+
+What is the prospect for AI?
+
+1 Changes caused by AI  06
+
+2 Current Situation  09
+
+3 Necessity of National Strategy for AI  11
+
+4 Action Strategy  14 2
+
+Where is Korea aiming? (Vision and Goals)  16
+
+3
+
+How to archieve? (Core Strategies and Tasks)
+
+1 Establishment of Global-Leading AI Ecosystem  17
+
+2 The Country that Makes Best Use of AI  30
+
+3 Realization of People-Centered AI  44
+
+Annex 2 Major Progress  56 4
+
+50 How to approach? (Governance and Action Plans)
+
+Annex 1 List of Detailed Tasks  51
+
+## What is the prospect for AI? — Changes caused by AI
+
+1
+
+### The world in which we are living faces a huge civilizational change through the 4th
+
+Industrial Revolution that we have never experienced before. At the center of this change is
+
+artificial intelligence (AI), which performs human intellectual functions as machinery replaced human physical labor in the past industrialization process.
+
+AI Industrialization
+
+machinery Human physical labor
+
+Replaced by
+
+by AI Human intellectual
+
+Replaced
+
+labor
+
+By engaging in intellectual activities of human beings with a computer, AI has developed the ability to perceive situations, to make rational and logical judgments and take actions,
+
+and to conduct emotional and creative functions, which are regarded to be owned only by humans. As a result, AI is expected to bring about a paradigm shift in all areas, including the
+
+humanities and societies, beyond mere technical dimensions. Many experts are presenting
+
+### diverse opinions that our society can be transformed into a utopia or dystopia. More
+
+importantly, experts share a common perception that we have to be thoroughly prepared for the huge wave of the 4th Industrial Revolution.
+
+### Comparison of Changes and Influence of the Industrial Revolution
+
+Increase of scope + influence
+
+National Strategy for Artificial Intelligence
+
+2nd Industrial Revolution
+
+Computer,
+
+1st Industrial Revolution
+
+Internet
+
+Electric
+
+energy
+
+Steam engine
+
+4th Industrial Revolution
+
+AI + Big data, Hyper-connectivity
+
+3rd Industrial Revolution
+
+Industrial transformation
+
+Repetitive learning of vast data
+
+A.I
+
+Social progress
+
+Planned programming by human ICT
+
+Data
+
+Network
+
+Change of
+
+Late 20th century Early 21th century
+
+18th century
+
+19th~early 20th century
+
+Cycle of industrial revolution getting faster and faster
+
+life
+
+※ Source(reorganized): Presidential Committee on the 4th Industrial Revolution
+
+It is expected that the future development of AI will lead to innovative transformation throughout the industries, societies and life.
+
+Expand into industries and
+
+Technological
+
+Industrial innovation
+
+development
+
+societies
+
+Advances in algorithm such as deep learning
+
+2. Where is Korea aiming? (Vision and Goals) 3. How to archieve? (Core Strategies and Tasks) 1. What is the prospect for AI?
+
+Reorganize
+
+Social changes
+
+industrial structure
+
+Innovation in production
+
+Changes in job structure
+
+Gap between new industry
+
+Increase productivity
+
+Development of networks, big data
+
+and old system
+
+Creation of new industry
+
+Change in the way of life
+
+First of all, in terms of technology, the development of AI technology will be accelerated with the emergence of technologies such as AI algorithm (deep learning), which discovers,
+
+judges, and infers rules through self-learning based on networks and big data that have been developed separately in the past.
+
+### In industrial terms, AI is not only a new industry that generates enormous added value, but
+
+also a source fundamentally changing the competitive structure of the existing industries by innovating existing production methods, increasing productivity and creating new industries.
+
+### Global companies such as Microsoft, Amazon, Apple, and Google are all transforming — themselves into AI companies based on big data and platforms. By 2030, 70% of companies — around the world will use AI and global GDP will grow by $13 trillion. (McKinsey, 2018) — In addition, in terms of society and human life, AI will bring fundamental changes in the job — structure, and enhance convenience of life for the people, while creating the gap between — the old system and new technology. As AI replaces simple and repetitive tasks, new jobs
+
+will be created focusing on tasks that require creativity, and job changes and job transfer will accelerate.
+
+McKinsey (2017~2018)
+
+PwC(2018)
+
+OECD(2019)
+
+• By 2030, 15~30% of global
+
+jobs will be automated.
+
+• By mid-2030, job automation rates will be 38% in the U.S., 24% in Japan, and 22% in
+
+Korea.
+
+• Job automation rate in OECD member states will be 14%
+
+on average.
+
+• In Korea, existing jobs will decline by 7 million while 7.3 million new jobs are created
+
+• It will be around 10% in Korea.
+
+The proliferation of AI will provide convenient services and contribute to solving the problems that our society is encountering. But the diffusion of new innovative services will
+
+also be new conflict factors among various stakeholder groups.
+
+Reference 1
+
+## Understanding AI
+
+[Concept] Artificial Intelligence (AI) is a science and technology that performs human
+
+intellectual functions with machines.
+
+[Growth] AI has rapidly advanced in the 2000s with the growth of computing power,
+
+the emergence of excellent algorithms, the accumulation of data* resulting from the
+
+widespread penetration of smartphones, and network development**.
+
+*  Annual data accumulation amount: 15.5 Zeta Byte(2015) → 50.5(2020) → 175(2025) (equivalent to 175 trillion of 1G films)
+
+**  Penetration of optical cable-based high-speed Internet and spread of wireless Internet and Internet of Things (IoT), etc.
+
+[Utilization] AI can perform machine learning, have cognitive functions such as verbal,
+
+visual and auditory senses, and understand and interpret the situation. It can create
+
+new added value through convergence.
+
+Cognition, learning,
+
+Judgment,
+
+AI
+
+reasoning
+
+reasoning
+
+CLOUD COMPUTING
+
+Data analysis Data accumulation
+
+Big Data
+
+Internet
+
+Mobile
+
+Transmission
+
+Internet 5G WIFI
+
+Network
+
+CCTV
+
+Automobileg
+
+IoT
+
+Data collection
+
+Medical health
+
+Infrastructure
+
+ce
+
+En
+
+an
+
+er
+
+Fin
+
+gy
+
+Energy
+
+ng
+
+uri
+
+new industry
+
+Fintech
+
+Ci
+
+ct
+
+tie
+
+fa
+
+nu
+
+s
+
+Cloud
+
+Smart factory
+
+Ma
+
+Smart city
+
+AI
+
+Ag
+
+Me
+
+Intelligent semiconductor computing power
+
+ric
+
+Smart
+
+farm Bio health
+
+di
+
+ult
+
+ca
+
+ur
+
+l
+
+e
+
+algorithm
+
+Future vehicle
+
+Drone
+
+Tr
+
+Data·5G
+
+an
+
+s
+
+ic
+
+sp
+
+st
+
+ort
+
+gi
+
+Intellectual government
+
+Lo
+
+ati
+
+Legal Tech
+
+on
+
+on
+
+ati
+
+La
+
+str
+
+ws
+
+ni
+
+mi
+
+Ad
+
+[Impact] International organizations and global consulting institutions are paying special
+
+attention to the potential and ripple effects of AI.
+
+OECD  AI will change the economy and society, improve productivity and well-being, and contribute to solving global challenges.
+
+National Strategy for Artificial Intelligence
+
+WTO  New technologies such as AI will fundamentally change trade, resulting in annual trade growth of 1.8~2%.
+
+McKinsey  AI has the potential to generate trillions of dollars worth of value across the
+
+economy
+
+PwC  AI is not just a new technology, but a new world and it has already changed everything
+
+Current Situation
+
+[ Global Trend ]
+
+2. Where is Korea aiming? (Vision and Goals) 3. How to archieve? (Core Strategies and Tasks) 1. What is the prospect for AI?
+
+The recent proliferation of protectionism like the U.S.-China trade conflict and Brexit has
+
+increased global uncertainties and concerns over the economic downturn. The political and
+
+economic environment in Northeast Asia is also rapidly changing. China continues to lead
+
+the technological innovation ranking 1st in the Supercom TOP500 countries and showing
+
+the most AI-related paper publishing results (49,000 cases between 2013 and 2017) while
+
+Japan strengthens its checks on Korea through export control.
+
+Increase ratio in global trade (IMF, % (YOY)) Monthly exports increase ratio by major countries in 2019 (IMF, %)
+
+7
+
+15
+
+6
+
+5
+
+5
+
+4
+
+-5
+
+3
+
+2
+
+-15
+
+1
+
+0 2016.1/4 2017.1/4 2018.1/4 2019.1/4
+
+-25
+
+Jan. Mar. May Feb. April June
+
+Existing industries face difficulties due to the saturated global demand and increased
+
+uncertainties. In particular, the continued global recession in Korea’s key industries, such as
+
+shipbuilding and automobile industries, is having a negative impact on our economy.
+
+Global ship ordering volume (unit: vessels)
+
+5,252
+
+0
+
+2,745 3,052
+
+-2
+
+1,869
+
+-4
+
+1,258 1,534
+
+-6
+
+629
+
+-8
+
+’07 ’08 ’10 ’12 ’14 ’16 ’18 ’09 ’11 ’13 ’15 ’17 ’19 ’20
+
+Fluctuation in sales of automobiles in major countries (unit : % (YOY))
+
+2018 9 2019 1 10 11 12 2 3 4 5 6 7 8
+
+-1.5
+
+-3.8
+
+-3.9
+
+-5.0
+
+-6.5
+
+-6.9 -7.0 -6.4
+
+-7.3 -6.9
+
+-8.2
+
+-8.5
+
+* Source: Clarkson, Outlook after 2018 (2018) * Source: Korea Automobile Manufacturers Association (2019)
+
+[ Domestic Trends ]
+
+The Korean government has continued to assist innovative growth by drastically expanding
+
+the budgets for DNA (Data, Network, AI) and the BIG3 sector (System Semiconductors, Bio
+
+Health, Future Vehicles) (3.2 trillion won in 2019 → 4.7 trillion won in 2020). Thanks to such
+
+expansion, key indicators such as new corporations including startups and SMEs as well as
+
+venture investments are continuously improving.
+
+Highest growth in number of startups (2018)
+
+New startups (unit: 10 thousand)
+
+11.0
+
+9.6 9.8 10.2
+
+10.0
+
+9.0
+
+8.0
+
+7.2
+
+7.0
+
+6.0
+
+5.0
+
+4.0 2016 2017 2018 2019.8
+
+Highest amount in investment into venture (2018)
+
+Investment in venture (unit: 100 million won)
+
+40,000
+
+34,249 35,249
+
+30,000
+
+21,503 23,803
+
+20,000
+
+10,000
+
+0 2016 2017 2018 2019.10
+
+* Source: Ministry of SMEs and Startups *  Investment in venture companies is expected to record the highest in 2019 (about 4 trillion won) as it reached 3.5 trillion till October 2019
+
+With the global economic slowdown weakening the growth potential of the Korean
+
+economy, it is time for active response to revitalize the economy.
+
+In addition to the rapid demographic changes, various social problems also require urgent
+
+solutions. Due to the low birthrate, Korea is aging the fastest in the world, and this rapid
+
+increase in welfare demands is boosting the need for preemptive actions. Active responses
+
+by the current government have led to a rise in total household income, which has partially
+
+alleviated the deterioration in income distribution, increasing the income of the first bracket
+
+in six quarters (Q2 in 2019. KOSIS). However, distribution of income is still inadequate
+
+compared to major advanced OECD countries.
+
+National Strategy for Artificial Intelligence
+
+Aging pace of major countries (OECD) Changes in demographics (NSO)
+
+Aging society
+
+Aged society
+
+Years consumed
+
+80
+
+Korea 2000 2018 18 years
+
+Japan 1970 1994 24 years
+
+60
+
+Germany 1932 1972 40 years
+
+40
+
+Italy 1927 1988 61 years
+
+20
+
+U.S. 1942 2015 73 years
+
+France 115 years
+
+100 (years old)
+
+2000 2018
+
+Male Female Male Female
+
+(10 thousand people)
+
+## Necessity of National Strategy for AI
+
+2. Where is Korea aiming? (Vision and Goals) 3. How to archieve? (Core Strategies and Tasks) 1. What is the prospect for AI?
+
+### In an environment where the global economic downturn and uncertainty are surging, AI
+
+is emerging as a powerful solution that can increase economic vitality and resolve various social problems.
+
+### The cognitive, learning and reasoning capabilities of AI will improve industrial productivity
+
+and result in new added value throughout industry by maintaining an optimal production environment and predicting and controlling obstacles. In addition, more use of AI-based
+
+### precision diagnosis and real-time risk detection functions will greatly contribute to solving
+
+social problems such as caring for the elderly in the aging era, preventing crime and strengthening public safety.
+
+### Expected effects of Utilizing AI in each Sector (~2022)
+
+Traffic congestion 10%
+
+Traffic accident 5%
+
+Logistics efficiency 33%
+
+Healthy life expectancy 3 years old
+
+Achieve 95% of accuracy
+
+in early diagnosis of dementia
+
+Transportation Medical
+
+Logistics Welfare
+
+Manufacturing productivity 10%
+
+Obtain 95% accuracy
+
+in detecting financial accidents
+
+Achieve 90% of crime
+
+clean-up rate
+
+Manufacturing Safety
+
+Finance Security
+
+Forest damage area 10%
+
+### Therefore, advanced countries are utilizing their strengths such as technologies of private — sectors (USA), manufacturing competitiveness (Germany), large-scale capital and data
+
+(China), and taking the lead in global AI to solve national challenges such as the aging population (Japan) with AI.
+
+### In particular, the world’s major countries are concentrating their national capacity by — leaders’ declarations and announcements on AI strategies such as U.S. President Trump’s
+
+approval of the American AI initiative (Feb. 2019), Chinese President Xi Jinping’s declaration of AI vision (Oct. 2017), and German Chancellor Merkel’s resolution on AI strategy (Nov. 2018).
+
+As the development of AI and competition to take leadership are accelerating, the future of next generations is expected to depend on the current efforts.
+
+### It is necessary to prepare a national strategy and implement it nationwide so as to take
+
+advantage of the radical change in the course of human history caused by AI as an opportunity to restore economic vitality and solve many issues facing our society.
+
+Reference 2
+
+Policy Trends of Major Global Players
+
+Country Main Contents
+
+• (American AI Initiative Executive Order (Feb, 2019)) Enhance autonomous competitiveness of the private sector and give priority to AI investment through long-term and proactive government investment in R&D and human talents.
+
+Focus on utilization of next-generation R&D and military security, which are not
+
+U.S.
+
+easily pursued by the private sector
+
+• (Next Generation AI Development Plan (July 2017)) Promote government-led large-scale investment and human resources development in Data and AI sectors, and foster specialized platforms* for each industry by designating leading companies.
+
+*  Baidu (autonomous car), Alibaba (Smart cities), Tencent (medical/ health), iFLYTEK (voice)
+
+Securing AI competitiveness by building industry-specific platforms utilizing
+
+China
+
+domestic companies and accumulating enormous data under the government’s lead
+
+• (AI Strategy 2019 (March 2019)) Accelerate AI technology innovation as means of revitalizing industrial power and solving social problems such as low growth and aging population, and nurture 250,000 AI applying talents, 2,000 high-skilled talents, and 100 top-quality talents every year.
+
+Perceive it as major tasks required to secured industrial competitiveness and
+
+Japan
+
+solve social problems
+
+• (AI Made in Germany (Nov. 2018)) Secure AI Technology through large-scale investment for the purpose of securing industrial competitiveness in the small and medium-sized manufacturing sector through AI, promote the Industry 4.0 strategy through AI application, and promote vocational training and improve legal regulations responding to changes in labor markets.
+
+In addition to efforts for securing industrial competitiveness in the small and
+
+Germany
+
+medium-sized manufacturing sector, it entails responses to changes in job markets (vocational training, etc.)
+
+• (AI Sector Deal (April 2018)) Propose five AI-related polices including attracting AI global enterprises, establishing AI environment and nurturing human resources to increase industrial productivity.
+
+Focus on nurturing AI talent and creating business environment based on
+
+U.K.
+
+cooperation with the private sector
+
+National Strategy for Artificial Intelligence
+
+• (AI Recommendation (March 2018)) As AI is the core factor of the future digital economy, aiming at competing with AI powerhouse and solving social problems through AI, France is pushing for the creation of data and AI ecosystems, industrialization of strategic areas and solving issues on job, employment, ethics, etc.
+
+France
+
+Include responses to job changes as well as securing industrial competitiveness
+
+and solving social issues
+
+Reference 3
+
+## AI Use Cases and Domestic Market Trends
+
+### AI Use cases
+
+[Welfare] Kimpo City’s Chatbot
+
+‘Dasomi’, a companion and
+
+guardian of the elderly
+
+[Education] AI, an assistant teacher of Seoul Metropolitan
+
+Office of Education who can speak with students in English
+
+[Manufacturing] POSCO’s second hot rolling plant, which was selected as the nation’s first
+
+‘Lighthouse factory’ by WEF
+
+[Agriculture] ‘Planty Cube’ which
+
+can control the environment
+
+according to the sort of crops
+
+[Security] AI, which wipes the tears from the eyes of victimized
+
+women of illegal shooting of
+
+pictures
+
+### Domestic Market Trends
+
+Venture Investment in AI
+
+(Ministry of SMEs and Startups)
+
+66 cases
+
+136.9 billion won 39 cases
+
+40.8 billion won
+
+2. Where is Korea aiming? (Vision and Goals) 3. How to archieve? (Core Strategies and Tasks) 1. What is the prospect for AI?
+
+The AI care robot ‘Dasomi’ talks to the elderly when they do not speak for 30 minutes or more and automatically calls to a guardian and life manager if the elderly person does not move for more than 5 hours.
+
+‘AI-powered English assistant teacher’ using technology assists English teacher classes through conversations and quizzes in English (checking speaking ability by students)
+
+Reduce energy input by 2% and save 1 billion won annually by collecting and analyzing manufacturing environment data through dozens of sensors in the factory and maintaining the optimal environment through AI
+
+Container farms that can harvest high-quality crops up to 13 times per year by controlling the environment according to farm size and crop demand using intelligent technologies such as AI
+
+AI quickly finds illegal photographs distributed online and deletes them (Jointly developed by Ministry of Science and ICT and Ministry of Gender Equality and Family in July 2019)
+
+Investment Trends of Major Companies
+
+Establish seven AI centers in five countries around the world
+
+Establish NAVER LABS for AI R&D
+
+Expand investment in AI speakers and smart homes, etc.
+
+Select AI as sector for strategic investment and expand investment 2018 2017
+
+Success Cases of Domestic Startups
+
+‘SUALAB’ rewriting the history of M&A of
+
+domestic startups
+
+‘MINDs Lab’, the nation’s representative AI
+
+service provider
+
+Developed AI-based manufacturing unmanned inspection solution and was acquired by America’s Cognex (a machine vision company) for $195 million, the largest amount among domestic startups’s overseas M&As
+
+Sales of various AI technologies and services, including AI-based customer service and automatic connection to a call center, AI voice generation, and traffic management → Annual sales of 11 billion won, investment attraction of 26.3 billion won.
+
+## Action Strategy
+
+### Since the establishment of the Presidential Committee on the 4th Industrial Revolution
+
+(Nov. 2017), the Korean government has significantly expanded its support for DNA(Data,
+
+### Network and AI), announcing various policies including: AI R&D Strategy (May 2018); Data — Industry Activation Strategy (June 2018); System Semiconductor Strategy (April 2019); 5G+
+
+Strategy (April 2019); and Manufacturing Renaissance Strategy (June 2019).
+
+### In particular, President Moon Jae-in recently announced the ‘Presidential Initiative for — AI’ (Oct. 2019) to raise public awareness of AI, the decisive driver of the 4th Industrial
+
+Revolution, and to create an opportunity for the purpose of gathering national capabilities.
+
+### Korea has many advantages of utilizing AI including high education level (1st in higher — education completion rate of young people in OECD countries), high acceptance of new — technology (1st in the world of smartphone penetration rate), and the world’s best ICT
+
+infrastructure and semiconductor and manufacturing technology (1st in market share in memory semiconductor).
+
+If we focus our national support on the areas of strengths based on our policy efforts, we can close the gap with global AI leaders. To this end, the government presents a national
+
+vision and nationwide action plans for a new leap forward in our economy and a better society, taking advantage of the civilizational changes by AI as a great opportunity.
+
+1st market share in memory semiconductor (IHS Markit, 2018)
+
+1st in higher education completion rate of young people
+
+(OECD, 2019)
+
+1st in smartphone penetration rate (Pew Research, 2019)
+
+Japan 9% Taiwan 5%
+
+61% 69.6%
+
+49.4%
+
+U.S. 18%
+
+U.S. Japan Korea
+
+National Strategy for Artificial Intelligence
+
+Policy efforts of Korean government
+
+• Launch the Presidential Committee on the 4th Industrial Revolution (Nov. 2017)
+
+Investment in DNA
+
+1,710 billion won
+
+• Declare a transition to the Data Economy (Aug. 2018)
+
+1,158.9 billion won
+
+• System Semiconductor Strategy (April 2019)
+
+• Commercialization of world’s first 5G (April 2019)
+
+• Manufacturing Renaissance Strategy (June 2019)
+
+2019
+
+2020 (Draft)
+
+95%
+
+81% 76%
+
+66%
+
+Korea
+
+58%
+
+Korea U.S. U.K. Japan
+
+Our strengths
+
+Presidential Initiative for AI
+
+• Create an environment where people can exercise their imagination to the fullest, work together and take on new challenges
+
+• Support companies to earn profits
+
+• Be unrivalled in terms of the use of AI.
+
+• AI-oriented government
+
+Fundamental innovation in the economy and society as a whole will require combined national capacities. In the AI era, the private sectors, including the people who are the
+
+### change agents, the companies that are the source of AI competitiveness, and the academic
+
+2. Where is Korea aiming? (Vision and Goals) 3. How to archieve? (Core Strategies and Tasks) 1. What is the prospect for AI?
+
+### community who can present the future directions, are expected to lead the innovation. In — the meantime, the Korean government, as a reliable supporter, plans to implement policies — of building infrastructure for the industry and society, including active support for private
+
+sector’s innovation, cultivation of human talents and improvement of future capabilities of people, and innovation of regulatory and legal systems for large-scale AI projects, etc.
+
+### Roles of respective Innovation Players
+
+Main player in securing AI Industry
+
+Company competitiveness
+
+Advance technologies and create
+
+an innovative ecosystem through exploration of new AI services and investment in R&D
+
+Perform social responsibilities by
+
+strengthening employee retraining
+
+### People
+
+Group directly involved in leading AI era
+
+Improve creativity and basic skills of
+
+SW and AI
+
+Consumer for dynamic markets and
+
+participant in the social discussion
+
+Supporter to strengthen capabilities of
+
+Government companies/private sectors
+
+Create industrial and social infrastructure
+
+including promotion policies such as large-scale projects and innovation of regulatory and legal system
+
+Nurture talent and improve future
+
+capabilities of the people
+
+Expert who prepares for the desired AI era
+
+Academia,
+
+and presents direction
+
+### etc
+
+Develop AI technologies and nurture talent
+
+Proactively participate in research for
+
+future society
+
+We are faced with challenges to revitalize the industry, solve social problems and achieve people-centered social innovation beyond the development of AI technologies. To this end, we
+
+leverage our strengths to establish our own strategies in three areas: AI ecosystem, AI utilization,
+
+and people-centered, to secure world-class AI competitiveness, enhance vitality in the economy and society in general, and promote the happiness and quality of life of the people.
+
+### Future Vision Based on National AI Strategy — Strengths
+
+• Excellent human talent • Manufacturing competitiveness
+
+AI ecosystem
+
+• Information system in each sector • High acceptance for technology
+
+AI utilization
+
+• Successful experiences of overcoming national crises
+
+People-centered
+
+### Strategies — Future vision
+
+Establish reliable AI infrastructure including AI human talent and technologies, etc.
+
+Secure world-class AI competitiveness
+
+Expand utilization of AI to whole industrial and social sectors
+
+Enhance economic
+
+and social vitality
+
+Improve happiness of people
+
+Respond proactively to social changes including job markets
+
+and quality of life
+
+## Where is Korea aiming? (Vision and Goals) — AI for Everyone, AI of Everything Toward — World Leader beyond
+
+### Core Strategies and Goals (2030)
+
+Innovation of AI Competitiveness
+
+① AI Infrastructure enhancement
+
+② Securing competitiveness in AI technology
+
+③ Drastic regulatory innovation and revision of laws
+
+④ Nurturing global AI start-ups
+
+Establishment of global-leading AI
+
+ecosystem
+
+Full-scale Utilization of AI
+
+⑤ Nurturing world’s best AI talent and educating people
+
+⑥ Diffusing AI technology across all industry areas
+
+⑦ Building the best-performing digital government
+
+The country that makes
+
+best use of AI
+
+Harmony and coexistence with AI
+
+⑧ Establishing an inclusive job safety network
+
+⑨ Preventing dysfunction and establishing AI ethics
+
+National Strategy for Artificial Intelligence
+
+Realization of people-centered AI
+
+Open 45,000 sorts of big data
+
+World’s 3rd largest digital competitiveness
+
+* now, 1,500 sorts
+
+* now, world’s 10th country (IMD)
+
+Achieve 95% of AI technology competitiveness
+
+* now, 82% (IITP, compared with U.S.)
+
+Create one of top-5 regulatory environments
+
+* now, 26th (IMD)
+
+Improve basic AI ability of people
+
+Economic effect of AI,
+
+* now, focused on elementary and middle school
+
+Up to 455 trillion won
+
+* McKinsey, KISDI
+
+Achieve 30% of manufacturing
+
+value added rate
+
+* now, 25.5% (OECD) ‘Manufacturing renaissance strategy’
+
+complete next-generation
+
+intellectual government
+
+Top-5 countries in terms
+
+Top-10 countries in terms of quality of life
+
+of life satisfaction
+
+* now, ranked 31st (OECD)
+
+* now, top 30 (OECD)
+
+Establish global-level AI ethics
+
+Top-3 countries in cyber safety index
+
+* now, ranked 15th (ITU)
+
+### [ Nine major strategies ] — [ Three major areas ] — [ 100 major tasks ]
+
+① securing infrastructures~
+
+ecosystem, utilization,
+
+100 tasks to be implemented nationwide
+
+⑨ preparing AI ethics
+
+people-centered
+
+## How to archieve? (Core Strategies and Tasks)
+
+2. Where is Korea aiming? (Vision and Goals) 3. How to archieve? (Core Strategies and Tasks) 1. What is the prospect for AI?
+
+Establishment of Global-Leading AI Ecosystem
+
+1
+
+## AI Infrastructure Enhancement 1-1
+
+### Strengthen the core infrastructure — of the AI industry, including data and computing power, and expand
+
+regional AI innovation clusters
+
+## 45,000 7,500 1,500
+
+throughout the country in 2030 in 2022 in 2019 (tentative)
+
+## Current Situation and Issues
+
+〈 Number of open data cases for big data platform (cumulative) 〉
+
+There is a lack of data available to individuals and companies, and the distribution structure is closed. In particular, it is not easy for small and medium-sized companies to secure high-
+
+performance computing resources* that cost a great deal to build.
+
+*  The first reason for not undertaking data analysis at smart factories (Manufacturing innovation TF, July 2019): it is difficult to establish infrastructure (30.3%)
+
+## Action Strategy
+
+### The key strategy is to expand and improve data supply and demand-generation systems — reflecting private demand, and secure large-scale high-performance computing resources
+
+to support data utilization, and build AI innovation clusters at major hubs across the country to promote balanced national development beyond the revitalization of regional economies.
+
+Open up data as much as possible Supply
+
+Public data Private data open public data
+
+open big data platform
+
+(cumulative)
+
+data(cumulative)
+
+140,000
+
+45,000
+
+55,000
+
+7,500
+
+Expand social and industrial use Demand
+
+Data Voucher card transaction data
+
+traffic data
+
+satellite data
+
+AI Voucher support the adoption of AI customized for enterprise
+
+Data flagship social safety
+
+finance
+
+manufacturing
+
+## Key Tasks
+
+### Promotion of Opening Up Data and Reuse
+
+“Full Opening of Public Data (~2021)”
+
+### Promoting full opening of public data held by public institutions (~2021)
+
+-  In particular, actively exploring and opening public data to promote the use of AI in new industries
+
+(such as autonomous driving, smart cities, etc.)
+
+-  As for the data that is not openly available (personal information), carrying out projects which
+
+enable enterprises to access data to develop algorithm and actively use it
+
+*  (Example) AI-based airport identification tracking system (2019~2022): Development of algorithm by establishing a separate space with a secure environment to safely utilize 90 million facial data held by the Ministry of Justice
+
+### Full opening and distributing the data in 10 big data platforms (built in 2019)
+
+-  Strengthening the linkage with the big data centers in the public sector and increasing
+
+participation of private organizations with data
+
+### Expanding the construction of AI learning data and securing of AI development infrastructure — through the ‘AI Hub’* platform supply
+
+*  Platform which provides data required for AI R&D, SW and high-performance computing service seamlessly
+
+-  Constructing and opening of specific data such as x-ray and autonomous driving video, etc.
+
+including speech recognition in Korean language and letter images and other general purpose
+
+data (200 million in 75 kinds by 2022)
+
+*  (Example) Developing Korean Corpus linguistics (National Institute of the Korean Language· Ministry of Culture, Sports and Tourism, 2019~2022)
+
+### Strengthening strategic cooperation with the rapidly growing new southern and northern — countries which are rapidly growing based on Official Development Assistance (ODA) and securing scarce data resources — Strengthening Linkage between Public/Private Data Map
+
+“Linkage between Public /
+
+National Strategy for Artificial Intelligence
+
+Private Data Map (2021)”
+
+### Reinforcing the linkage of public and private data maps in order to provide comprehensive — support for the production, distribution, and utilization of data in all areas of society
+
+-  Establishing government-wide data platforms through analysis and utilization of decentralized
+
+data in public sectors* (national data map has already been constructed (April 2019))
+
+*  Central government agencies in 2019 → municipalities and public institutions in 2020
+
+-  Building a private data map* (2020) for each sector and combining it with the national data map
+
+(2021)
+
+* Integrating data generated from big data platform and data store with the result of comprehensive data survey
+
+Private data Public data
+
+Government-wide data platform /
+
+Full Survey of public data
+
+Big data platform
+
+2. Where is Korea aiming? (Vision and Goals) 3. How to archieve? (Core Strategies and Tasks) 1. What is the prospect for AI?
+
+and center Data store, etc.
+
+laws industries employment culture distribution healthcare tourism science technology
+
+public administration
+
+education
+
+Strengthening linkage between public and private data maps
+
+### data utilization — integrated data search — dashboard — link between — analysis and visualization — data — of data — Support for Data Utilization
+
+“Introduction of New AI Voucher System (2020)”
+
+### Expanding support for utilization of customized data required by each company
+
+-  Introducing an AI voucher system that enables companies that are willing to adopt the optimal AI
+
+solutions for their products (2020)
+
+〈 Operation Method of AI Voucher System 〉 — Identify companies — Match supplier — that need the use — user
+
+↔
+
+### of AI — Develop solution and — Verify use and pay — issue voucher — voucher fee
+
+-  Diversifying the data voucher program which supports data purchasing or processing services in
+
+accordance with the demand of companies (2020~)
+
+### Expanding the ‘MyData Demonstration Project’ (2018~, Ministry of Science and ICT) — using the personal data with the consent of the information owners to the administration, medical, and finance fields (2020~) — Revising ‘Three Acts on Data’ for the safe use of data and establishing data-related legal — systems (safeguarding personal rights and establishing the concept of data ownership) — Securing High-performance Computing Resources
+
+“Expansion of Support for AI Hub 200 → 800 organizations (2020)”
+
+Expanding computing power to support the development of AI by universities, companies,
+
+### and research institutes
+
+-  Increasing the computing resources of the ‘AI Hub’ and differentiating* the support according to
+
+users’ demand
+
+*  (2019) 200 institutes, 20TF each (Tera Flops) → (2020) 800 institutes, 10~40TF, differential support
+
+-  Building a data center (within the ‘Gwangju AI Cluster’, ~2024) which provides world-class
+
+computing resources
+
+### Proliferation of AI Innovation Cluster
+
+“Establishing National AI Hub Strategy (2020)”
+
+### Creating an innovative AI ecosystem that promotes convergence of AI and the region’s — flagship industry such as automobiles, energy and healthcare (‘Gwangju AI Cluster’ (2020~2024), total project cost of 393.9 billion won)
+
+*  △Building the core infrastructure for AI development (data centers, etc.) △supporting AI industrial convergence R&D and AI startup
+
+R&D
+
+Spin off
+
+Development of AI items and
+
+prototypes
+
+New data Provision of AI computing power
+
+Feedback
+
+Demonstration of R&D results
+
+Utilization of data without regulation constraint
+
+Provision of resident/ education space
+
+Data center
+
+Securing reliability through reliability and performance
+
+evaluation
+
+Demonstration center
+
+Startup item
+
+Test-bed for three major industries
+
+Startup center
+
+### Establishing a ‘National AI Hub Strategy’ considering the characteristics of each major hub in — order to expand the ‘AI Innovation Cluster’ (2020)
+
+National Strategy for Artificial Intelligence
+
+-  Developing a comprehensive support strategy that reflects various demands, such as collaboration
+
+and joint studies between universities and nearby startup complexes and the convergence
+
+research and commercialization cooperation between universities and research institutes
+
+▶  In recent years, various efforts have been undertaken, such as the creation of industrial-
+
+academic cooperation complexes (Seoul National University), support for startups linking universities and local venture valleys (POSTECH), and AI R&D and commercialization cooperation between universities and funded entities (KAIST) by developing a site near the universities.
+
+## Securing Competitiveness in AI Technology 1-2
+
+### Lead the global AI market and ecosystem by securing competitive technologies and
+
+industries equal to leading countries.
+
+2. Where is Korea aiming? (Vision and Goals) 3. How to archieve? (Core Strategies and Tasks) 1. What is the prospect for AI?
+
+## 95% 90% 81.6%
+
+2030 2022 2018
+
+〈 Evaluation of technology level compared with AI leading countries (U.S. 100%). IITP 〉
+
+## Current Situation and Issues
+
+While the USA is leading the global AI ecosystem, China is growing rapidly with massive capital and data. In addition, given the rapid pace of AI development, there is a growing
+
+concern that the gap between Korea and the leading countries will widen.
+
+### Technology Gap with the USA (IITP, 2018) — 100 100
+
+100
+
+90.1 86.3 88.1
+
+88.1 86.4
+
+81.9 81.9 81.9
+
+### 81.6 73.9 78.1 71.8
+
+Reversed
+
+2016 2017 2018
+
+## Action Strategy
+
+### AI Competitiveness Map (McKinsey·Element AI, etc.)
+
+AI utility capability High Low
+
+Low AI competitiveness High
+
+### We secure AI competitiveness that encompasses hardware and software by ‘selecting
+
+and focusing’ on the areas where ➊ Korea can do well and ➋ dominate the market in advance. In addition, we will ➌ expand the support for AI basic research and software, and
+
+➍ reorganize the AI R&D methods completely to reinforce AI fundamentals.
+
+## Key Tasks
+
+### Securing AI Semiconductor Competitiveness
+
+“World’s No.1 as AI Semiconductor”
+
+### Proactively developing next-generation intelligence semiconductors that will become the core — competitiveness in the AI ecosystem
+
+-  Investing* heavily on ➊ design technology to improve the computational
+
+speed, ➋ future devices to reduce power consumption, and ➌
+
+equipment and process technology for the microprocess (2020~2029)
+
+*  Total project cost of 1,009.6 billion won: Ministry of Science and ICT 488 billion won, Ministry of Trade, Industry and Energy 521.6 billion won
+
+What is AI Semiconductor?
+
+• mass simultaneous (parallel) processing of memory and operations like the human brain
+
+-  Securing a global technological competitiveness* through platform
+
+development in core fields, leveraging the world’s No.1 memory
+
+technology, and innovating R&D strategies
+
+• available for image and sound recognition and learning and judgment
+
+*  Computational speed up by 25 times and power consumption down by 1,000 times by 2029
+
+### 〈 Innovation of AI Semiconductor R&D Strategy 〉
+
+Classification AS-IS Innovation Direction (TO-BE)
+
+Method/Scale bottom up/a lot of small projects top down + bottom up / large-scale open platform project
+
+Development scope semiconductor technology semiconductor + software + system technology
+
+### Taking advantage of the world-class memory semiconductor competitiveness to develop — new-concept artificial intelligence chips (PIM)* that integrate memory and calculation (processor)
+
+*  Processing-In-Memory: A semiconductor which transfers CPU centered computing into memory centered computing like brain structures, which is expected to solve current memory-processor speed efficiency degradation and power growth problem
+
+### Dominating Next-generation AI
+
+“Dominating Next-generation AI (2030. More than five core technologies)”
+
+### Making proactive investments in the creative and challenging next-generation AI research and National Strategy for Artificial Intelligence — development (R&D) (2020~) where there is no outstanding player
+
+*  Preliminary feasibility study on the next-generation AI development project → securing more than five core technologies by 2030
+
+### 〈 Next-generation AI Research (Example) 〉
+
+AI to learn with small amount of data Explainable AI about decision-making processes
+
+### AI — Next- generation
+
+AI with applied learning AI to measure and express learning capability
+
+### Strengthening AI fundamentals
+
+“Intensive Investment in Basic AI Research (2020. Preliminary feasibility)”
+
+2. Where is Korea aiming? (Vision and Goals) 3. How to archieve? (Core Strategies and Tasks) 1. What is the prospect for AI?
+
+### (Basic Research) Expanding support for basic AI research*
+
+*  Conducting preliminary feasibility studies in related fields such as brain function, cognitive science, and machine learning research
+
+### (SW) Improving systems to promote the growth of the SW industry which is the foundation of — AI (revising the ‘Software Industry Promotion Act’) and mainstreaming SW-friendly education and culture
+
+-  Moving to the Cloud in the public sectors to promote the use of the Cloud service, which is an
+
+element of the ‘Data-Cloud-AI’ chain (2020)
+
+-  Preparing and sharing standard contract to promote SW business and to protect SW developer,
+
+and conducting a written survey on subcontract status for SW companies in the public sector (2020)
+
+### (Statistics and Analysis) Establishing an AI industry statistics system for AI market analysis — and policy development, and providing relevant information to companies and universities by analyzing big data on AI patents (2020) — Complete reorganization of AI R&D
+
+“Expansion of Innovative R&D (2020~)”
+
+### Expanding AI R&D in innovative ways that will promote competition in good faith and creative — challenges
+
+-  Increasing the proportion of survival-type ‘Competitive R&D’ and ‘Challenging R&D (competition)’
+
+that solves national social issues with AI (2020~)
+
+### Researching and introducing new types of R&D that can significantly strengthen expertise — away from the mechanical fairness-oriented evaluation system (Organizing and operating specialized research group 2020) — 〈 Differences between Existing Methods and Innovation R&D 〉 — AS-IS — Competitive R&D — Challenging R&D
+
+Announcement on project
+
+Announcement on project
+
+and evaluation
+
+and evaluation
+
+Competition for multiple players
+
+Selection of multiple number of implementation
+
+Selection of single implementation organization
+
+Support for R&D
+
+Support for follow-up
+
+organizations
+
+research
+
+Support for R&D
+
+Selection of winner
+
+Interim evaluation, elimination
+
+of some organizations
+
+## Drastic Regulatory Innovation and Revision of Laws 1-3
+
+### Create an enabling environment — where innovative companies
+
+and developers can imagine within top 5 within top 10 ranked
+
+## 26th
+
+without limitations and take on challenges together. 2030 2022 2019
+
+## Current Situation and Issues
+
+〈 Rankings of regulatory environment, IMD Digital Competitiveness 〉
+
+### Despite the advent of the AI era, there are concerns that there will be a gap between
+
+the current legal system and new technologies, and that technological innovation may be delayed due to the lack of basic principles responding to the proliferation of AI. In particular,
+
+as AI is expected to have a great impact and a chain effect on the entire nation and society in the future, a comprehensive regulatory innovation strategy is required. At the same time,
+
+there is an urgent need for follow-up revision of laws and regulation concerning the cases already allowed through the regulatory sandbox.
+
+*  Among a total of 40 cases permitted under the ICT regulatory sandbox (as of November 2019), 30 cases require follow-up regulations and revision (16 laws, 9 presidential decree·rules, five standards·notice (excluding overlapped cases and authoritative interpretation))
+
+## Action Strategy
+
+### The current regulatory framework should be changed into a negative regulatory system to
+
+allow all innovative attempts to create new services and accelerate the spread of innovation by pushing for revision of laws subject to regulated sandbox cases. In addition, we are going
+
+to establish a future-oriented legal system that supports the AI era as soon as possible.
+
+‘Approval first and Regulate later’ on New Industries and New Technologies
+
+We will drastically make a transition to a comprehensive negative regulation system.
+
+National Strategy for Artificial Intelligence
+
+### Positive List Regulation
+
+List items to be allowed. Excluded items are not allowed.
+
+### Negative List Regulation
+
+List items not to be allowed.
+
+Everything is allowed in principle except for those items.
+
+## Key Tasks
+
+2. Where is Korea aiming? (Vision and Goals) 3. How to archieve? (Core Strategies and Tasks) 1. What is the prospect for AI?
+
+### Shifting Regulatory Paradigm in AI Field
+
+“Establishment of Comprehensive Negative Regulation Roadmap (2020)”
+
+### Establishing a ‘comprehensive negative list regulation roadmap’ in AI field under the basic — principle of ‘Approval first and Regulate later’ to keep up with the fast pace of AI-based innovative services (2020) — 〈 Comprehensive Negative List Regulation System 〉
+
+Comprehensive Negative List Regulation System
+
+Flexible legislation Regulatory sandbox
+
+* Supplementing comprehensiveness and flexibility in legislation * Permitting trial of new industries under some conditions in spite of existing regulations
+
+definition of comprehensive
+
+flexible classification
+
+ex-post evaluation and
+
+negative list
+
+concept
+
+system
+
+management
+
+prompt check of
+
+temporary permission special cases
+
+regulations
+
+Spreading the case of innovation through timely revision of laws and regulations (2020),
+
+focusing on matters requiring revision of laws and regulations based on cases of temporary approval and case study results under the regulatory sandbox
+
+### Regulatory Sandbox
+
+(Concept) A system which supports the demonstration or market launch despite the existing
+
+laws and regulations in case where new technologies and services do not harm the lives and safety of the people
+
+(Main content) Prompt check, Special cases, Temporary permission
+
+(Operation status) (as of Nov. 2019) ICT(Jan.17, 2019~, 40 cases), Industry convergence
+
+(Jan.17~, 33 cases, Regulation free zone (April 17~, 23 cases), Finance (April 1~, 60 cases)
+
+(Typical cases)
+
+Management of patient with wearable electro-cardiograph (Huinno, special case)
+
+Mobile driver’s license
+
+Mobile electronic notice of public institutions (Kakao pay. KT, temporary permission)
+
+Sharing economy accommodation service (Wehome. special case)
+
+(Additional support) Providing close support for the entire process of commercialization,
+
+including demonstration project costs, customized commercialization consulting, and prioritization of patent applications, through the ‘Growth program’ designed for startups and small and medium-sized enterprises.
+
+(Case of Legislation) : Two cases
+
+①  Mobile e-Notice service for administrative and public institution’s notice based on text
+
+message, info-talk (Temporary permission in Feb. 2019) → Pursuing revision of [Standards for Designating Personal Identification Institution (Notification)] ②  Smart IoT electric vehicle charging outlet (Temporary permission in March 2019) →
+
+Preparing temporary criteria for power metering performance evaluation
+
+Establishment of Future-Oriented Legal System in the era of AI “Launch Organization for Improvement
+
+of Legal System for AI (2020)”
+
+Preparing framework legislation that presents a national strategic direction, including basic
+
+values and principles of the AI era, and measures to prevent dysfunction (2020)
+
+〈 Main contents of framework legislation (Draft) 〉
+
+Classification
+
+Contents
+
+Basic principles • Pursuing national and social development, sharing benefits and opportunities of economic growth in a comprehensive manner, etc.
+
+• Building a basis for intelligent informatization by fostering related industries through technology development support, nurturing of human talent, support for industrialization and commercialization, and data policy regulations
+
+Establishment of basis for intelligent
+
+informatization
+
+Countermeasures against environmental
+
+• Mandatory provision requiring the government to establish countermeasures against changes in the job and labor environment
+
+change
+
+Ethical standards • Preparing grounds for new ethical standards, preventing infringement on privacy and personal information
+
+• Establishing minimum protection measures (kill switches) for securing safety and reliability for each new technology and service
+
+Minimal protection
+
+measures
+
+Preemptively reorganizing the legal system of each sector to keep up with technological
+
+development and social change in the AI era in line with discussions at the global level
+
+-  Launching ‘(Temporary name) Legislative Preparation TF for the Future AI Society’ (2020), involving
+
+relevant ministries, ICT institutions, corporations, and academia, respectively, by mobilizing all
+
+national capabilities
+
+*  Preparing a reorganization plan by identifying common and sector-wise legal issues that may face the era of AI
+
+Common legal issues
+
+• Granting legal status to AI: Issues of responsibilities for accidents occurring when using AI services • Securing safety of AI: Introduction of emergency stop (Kill switch) of AI and necessity of penal provision • Relations of rights and duties including contract upon using AI algorithm and data, and data ownership • Whether or not granting status of copyright holder and inventor to AI for its creation and invention, etc., and granting method and scope, etc.
+
+National Strategy for Artificial Intelligence
+
+Legal issues by sectors
+
+Finance
+
+Laws
+
+Taxation
+
+Distribution
+
+Administration
+
+Labor replacement
+
+Investment recommendation by AI
+
+Judgment prepared
+
+by AI
+
+by Robot
+
+Responsibility for
+
+Whether the effect of
+
+robot tax
+
+damage
+
+the judgment can be
+
+admitted
+
+Delivery service
+
+Administrative service
+
+by drone
+
+by AI
+
+Whether existing regulations can be applied to the flight
+
+Dispute resolution
+
+procedure to administrative effect of
+
+AI service
+
+## Nurturing Global AI Start-ups 1-4
+
+### Create an innovative ecosystem where anyone can start his or her own business and grow it, providing
+
+that he/she has innovative Ideas and AI technologies.
+
+2. Where is Korea aiming? (Vision and Goals) 3. How to archieve? (Core Strategies and Tasks) 1. What is the prospect for AI?
+
+within top 10 within top 20 ranked
+
+## 37th
+
+2030 2022 2019
+
+〈 Rank in growth level of innovative companies, WEF Global Competitiveness Report 〉
+
+## Current Situation and Issues
+
+### Recently, the demand base of the AI market has been expanding as products such as — AI speakers and Chatbots are released. However, the size and investment level of the — domestic AI market are still low compared to the global market. Moreover, a number of
+
+innovative startups are emerging in various application fields such as medical, finance, and education, but this does not lead to the creation of a sustainable AI ecosystem.
+
+### Ratio of Korea in the Global AI Market (IDC, 2018)
+
+Out of US$15 billion
+
+of Global AI market
+
+1.3%
+
+## Action Strategy
+
+Ratio of Korea in Global AI Investment Amount (Ministry of SMEs and Startups, 2019)
+
+2017
+
+2018
+
+### 0.3% — 0.7%
+
+The Korean government plans to greatly expand the support throughout the entire life cycle for challenging and creative startups that can lead the AI ecosystem. In addition, it
+
+also aims to become the center of the global AI startup ecosystem by enhancing technology of domestic startups through a big event such as the ‘AI Olympics’.
+
+## Key Tasks
+
+### Creation of Innovation Ecosystem
+
+“Creation of AI Investment Fund (2020)”
+
+### Expanding the investment and funding for promising AI startups
+
+-  Creating an AI investment fund and holding investor relations (IRs) for AI startups (2020)
+
+*  Securing investment in the DNA sectors by utilizing a 2020 venture fund (more than 5 trillion won), which will be raised by investing the parent fund
+
+*  Raising AI funding of around 300 billion won through KIF (Korea IT Fund) contribution and matching of other funds
+
+-  Supporting AI innovators by establishing a ‘Future Technology Development Fund’ (2020)
+
+### Future Technology Development Fund
+
+▶  Policy fund to support small and medium-sized enterprises and startups in the innovative
+
+growth fields such as DNA (Data, Network, AI) and three major new industries (system semiconductors, bio-health and future vehicles), etc.
+
+▶  Providing support for companies with a history of 3~10 years within the amount of 10 billion
+
+won (working capital of 1 billion won)
+
+-  Providing preferential treatment to guarantee technology (guarantee ratio 85% → 95%) and
+
+reducing guarantee fees (0.3%p) for innovative AI technology holders
+
+### Identifying and nurturing outstanding AI startups using startup platforms
+
+-  Identifying and supporting data-based AI startups using Open Square-D* which is a public-data-
+
+based startup platform (2020)
+
+*  Hub for startups which provides consulting and training services as well as business space (six cities including Seoul, Busan, Gangwon, Daejeon, Daegu, and Gwangju)
+
+### 〈 Main Program of Open Square-D 〉
+
+Program Main contents
+
+Provision of data Provision of public data and support for utilization
+
+Field training on data Training on utilization of public data and education on analysis and visualization
+
+National Strategy for Artificial Intelligence
+
+Consulting on data Consulting on data utilization customized for company
+
+-  Creating the local government league and private league within K-Startup, the startup competition
+
+jointly held by the government (2020) to expand opportunities for identifying excellent startups
+
+-  Providing preferential treatment to companies specialized in AI and big data when selecting TIPS*
+
+(Tech Incubator Program for Startups) operators (2020)
+
+*  Program that selects and intensively nurtures startup teams that have global market leading technology through the private sector
+
+### Securing infrastructures to promote AI startups
+
+-  Holding an event where AI experts and startups can exchange technology and know-how (‘AI
+
+Meetup’ in 2020)
+
+2. Where is Korea aiming? (Vision and Goals) 3. How to archieve? (Core Strategies and Tasks) 1. What is the prospect for AI?
+
+-  Expanding the voucher program* supporting commercialization funds for prospective AI business
+
+founders (1.9 billion won in 2019 (34 people) → 2.2 billion won in 2020 (40 people)
+
+*  Initial commercialization fund (maximum 100 million won) and training on startup and exclusive mentoring services are available.
+
+-  Improving the legal system to promote technology-based startup and to strengthen public-
+
+private sector cooperation and entry into the global market (Revision of the Support for Small and
+
+Medium Enterprise Establishment Act, 2020)
+
+### Globalization of AI Startups
+
+“Hosting AI Olympics (2020)”
+
+### Advancing as a global AI mecca by hosting the ‘AI Olympics’ (2020~), a venue for competition — and exchange among AI startups around the world
+
+*  Hosting the ‘AI Olympics’ as main event of the Global Startup Festival ‘ComeUp2020’
+
+-  Selecting excellent teams and providing fund for commercialization through competitive games
+
+and challenges linked to the world AI startup competition and AI R&D Grand Challenge
+
+-  Developing networks of technology exchanges and investments for AI experts and startups by
+
+providing a venue where cutting-edge AI products and services will be demonstrated
+
+### 〈 Events of AI Olympics (Example) 〉
+
+Competition of AI image recognition
+
+AI Games
+
+Robot Soccer
+
+Competition for AI translation and interpretation
+
+## The Country that Makes Best Use of AI — Nurturing World’s Best AI Talent and Educating People 2-1
+
+Innovate the education system so that the world’s best talent can grow continuously and all citizens can make good use of AI.
+
+## Current Situation and Issues
+
+Korea faces an absolute shortage — of AI talent compared to the leading
+
+12,000
+
+countries, and it is expected that the
+
+9,000
+
+lack of human talent will be intensified
+
+6,000
+
+### due to the increasing demand in the
+
+3,000
+
+AI industrial field.
+
+0
+
+Top talent
+
+Professionals
+
+Top talent
+
+Professionals
+
+## 2,000
+
+8,000 people per year 1,000
+
+## 4,000
+
+300
+
+people per year
+
+people per year
+
+2030 2022 2019
+
+〈 Scale of Training on AI Professionals per Year 〉
+
+### Outlook for AI talent shortage between 2018 and 2022 (SPRi, 2018)
+
+15,000 demand supply ▵9,986
+
+▵7,268
+
+▵2,048 ▵671
+
+Associate degree Bachelor Master/Doctor Total sum
+
+### The era of AI will be start with the eradication of digital illiteracy around SW and AI, but
+
+our SW and AI education has still stayed at the beginning stage, resulting in a miss of educational opportunities at school and after graduation.
+
+*  Israel provides mandatory curriculum for SW for a total of 180 hours at middle school, and other countries such as U.S., U.K. and Japan are also actively providing mandatory education. In Korea, SW education is given for only 51 hours (17 hours at elementary school, and 34 hours at middle school).
+
+## Action Strategy
+
+Resolving AI issues, and developing new model and algorithm
+
+The government makes policy efforts to secure a National Strategy for Artificial Intelligence
+
+AI Top Talent
+
+### system and nurturing programs that will enable human
+
+talents to grow into the world’s best AI talents by offering interdisciplinary AI convergence curriculum.
+
+Developing AI platform and system
+
+AI Professionals
+
+Applying AI Tool and SW in industrial fields (AI+X)
+
+AI practitioners
+
+In order to cultivate digital literacy for all the people,
+
+### the government is planning to expand education
+
+Improving AI ability (Ability to use, and ethics and literacy)
+
+General public
+
+programs by life cycle and job type, and reform the school education system focusing on SW and AI.
+
+## Key Tasks
+
+### Establishment of a System Nurturing AI Top Talent and Professionals
+
+2. Where is Korea aiming? (Vision and Goals) 3. How to archieve? (Core Strategies and Tasks) 1. What is the prospect for AI?
+
+“Innovation of University Education System including Creation
+
+and Expansion of AI-related departments (2020~)”
+
+### Laying the foundation for a steady inflow of talented people by improving regulations on — university operations
+
+-  Allowing the creation and expansion of AI-related departments using vacancy (100~300 students
+
+per year) and increasing the number of enrollments in the national universities if additional demand
+
+for new departments is recognized (in non metropolitan areas) (2020~)
+
+-  Establishing a customized incentive system by allowing AI-related teachers to hold positions in
+
+private sector to attract AI experts working in the private sector as professors (2020)
+
+### Expanding the highest level of master’s and doctoral level AI education and research — programs* within the university
+
+*  Creating AI sector at the four-stage Brain Korea 21 (2020~2027) course and university-centered research institutes (2020~)
+
+-  Expanding and diversifying AI graduate programs reflecting specificity of each university*
+
+*  (Current criteria) opening of department → (Revised criteria) opening of department, converged department, cooperative course, regional industry convergence track, center in university, etc. (2020~)
+
+### Providing various channels to nurture AI professionals, including short-term intensive curricula* — (non-degree course) and industry-specific customized curricula** based on cooperation with industries
+
+*  Creating Innovation Academy (‘42 Seoul’) (Dec. 2019. 500 students per year)
+
+**  LINC+(Socially customized department) Planning to create additional AI-related agreements course using increased budget (2020)/Promoting ‘Industrial AI Professionals (Master’s and Doctoral-level) Training Projects’ in the areas of steel and automobiles (2019~)
+
+### Full-scale AI Convergence Education
+
+“Requisition for SW/AI Basic Education at University (2020)”
+
+### Easing the regulations to promote the creation and operation of interdisciplinary majors — between AI and other majors*
+
+*  Improving the regulations so that universities can autonomously create a new interdisciplinary major and choose its department regardless of the admission unit (revision of the university establishment operation regulations, 2020).
+
+### Reinforcing basic education for SW and AI to enable the growth of converged talents who can — combine AI capabilities and expertise in other fields (humanities, society, medical and arts)
+
+-  Making SW-AI education compulsory for all students from SW-centered University, and promoting
+
+AI-teaching among the professors “Teach the Teachers” to spread to universities nationwide in the
+
+future.
+
+### Cultivation of AI Technology Sensitivity by Occupational Group
+
+“Conducting AI Education for Military Personnel and Public Officers (2020)”
+
+### Running AI basic literacy training course for all military personnel (2020~)
+
+*  Using the military massive online open course (M-MOOC), military educational institutions and information education centers, etc.
+
+-  Providing in-depth education in partnership with the specialized training institution for ICT-related
+
+arm of service
+
+### Making AI literacy education mandatory course for new and promoted public officials to — enhance the AI awareness of public sectors (2020~, aiming at least 1,500 persons per year) — Spreading the AI utilization capability training required at industrial sites for employees in each — industry including small and medium-sized enterprises (SMEs) and venture companies, and industrial complex (2020~)
+
+-  Developing and operating industry-specific AI training programs focusing on improving the work
+
+proficiency and productivity of field workers (2020~)
+
+### 〈 Curricula by Occupational Group (Industry) 〉
+
+Soliders Public Officials Employees at SMEs and
+
+Venture companies
+
+Small business
+
+Employees at industrial
+
+owners
+
+complexes
+
+• AI contract department for employees working for SMEs • Specialized course for high school graduate
+
+• Mandatory AI course for new employees and promoted employees
+
+• AI basic education
+
+• Education on AI utilization based on cooperation with private companies
+
+• Review on establishment and utilization of joint training center by industrial complex
+
+### Systematic Delivery of Lifelong AI Education
+
+“Online/Offline Lifelong Education for All People (’20)”
+
+### Providing online and offline lifelong education courses so that anyone can acquire AI literacy — and knowledge
+
+-  Creating AI programs or courses within the academic credit bank system, and evaluating the
+
+learning processes according to the Act on Credit Recognition (2020~)
+
+National Strategy for Artificial Intelligence
+
+-  Developing and providing various online education contents* including the Massive Open Online
+
+Course (K-MOOC) and cyber university so that adult learners can acquire AI competency
+
+*  K-MOOC AI fields will provide 20 courses (2020), cyber universities will provide two courses (2020).
+
+-  Providing various AI experiences and education* tailored to characteristics of places and users by
+
+utilizing spaces close to the public, such as libraries, museums, science museums, and welfare
+
+facilities for the elderly
+
+*  (Library) Education utilizing AI sensitivity experience ("Read to a Robot”), (Museum) Exhibition guide AI robot experience, (Science Museum) AI basic experience education, (Welfare facility) AI Speaker and Chatbot for the elderly, etc.
+
+### Revision of Curriculum of SW Curricula AI-centered School
+
+“Expansion of Mandatory SW Education at Elementary and Middle Schools (2022)”
+
+2. Where is Korea aiming? (Vision and Goals) 3. How to archieve? (Core Strategies and Tasks) 1. What is the prospect for AI?
+
+### Significantly expanding SW and AI learning opportunities to reinforce the computational — thinking of elementary, middle and high school students
+
+-  (Lower grades of elementary school) Including the SW and AI curriculum focusing on play and
+
+experience to foster understanding and interest in SW and AI from an early age (2022)
+
+-  (Higher grades of elementary school and middle school) Expanding the mandatory education
+
+so that all students can acquire the basic skills of SW and AI, which are essential for the future society (~2022)
+
+*  Expanding the curriculum of elementary and middle school education (currently 51 hours) and improving SW and AI capabilities through various subjects
+
+-  (High School) Continuous expansion of high schools focused on SW·AI curriculum so that
+
+students can voluntarily complete the advanced SW and AI courses (2020~)
+
+High school
+
+Higher grade of elementary school~middle school
+
+Lower grade of elementary school
+
+Voluntary deep learning
+
+Improved required capability
+
+Improved interests
+
+SW/AI centered High school
+
+*  High schools for convergence education (2020, 34 public high schools) SW curriculum-focused schools (2020~, 31 schools) AI high schools (2020~2024, 10 schools in Seoul) AI specialized education at three public technical high schools (2020)
+
+Expanding mandatory SW
+
+Expanding play and experience
+
+education
+
+opportunity using SW/AI
+
+*  Revising curricula of next term (~2022)
+
+*  Reading books and doing math with AI, etc.
+
+### Strengthening Teachers’ SW·AI Capabilities and Securing School Infrastructures
+
+“Strengthening Teachers’ SW/AI Capabilities (2020~)”
+
+### Supporting teachers to complete SW and AI courses from the training and recruitment stages — (2020~)
+
+▶  (University of Education) Revise the standard (notification) for the qualification of teachers to
+
+complete the AI-related contents.
+
+▶  (College of Education) Include SW and AI related contents in teaching and related majors
+
+▶  (Graduate School of Education) Establish new majors related to AI integrated education and
+
+supporting participating teachers
+
+### Establishing Giga speed wireless network (at least four classrooms per one school) (2020) at — elementary and middle schools across the country
+
+Providing SW/AI educational opportunities* at various levels and locations outside the school,
+
+such as finding and nurturing SW and AI gifted students, ensuring educational opportunities for vulnerable classes and rural residents and training instructors, etc.
+
+*  Institute of Information Security Education for the Gifted (4 in 2019 → 5 in 2020), Future SW Center (5 in 2019 → 10 in 2020), SW Education Support·Experience Center (3 in 2020), SW/AI Work Experience Bus (20 occasions in 2019 → 40 occasions in 2020)
+
+### Reference 4 — Follow-up Measures for ‘Presidential Initiative for AI’ ① — - Direction of Nurturing of Human Talent in Future Society Cutting Edge Sectors-
+
+“In addition to existing policies concerning the establishment of AI graduate schools and the Innovation Academy, we will allow universities to create new, or expand existing, majors related to high-tech fields. University professors will be permitted to hold positions in companies concurrently, which will help attract the world’s best minds to our country."
+
+(Presidential Initiative, Oct. 28, 2019)
+
+A Mid-to Long-term Plan for Human Talent in preparation for Future Society with
+
+the participation of relevant ministries led by Ministry of Education (Nov. 11, 2019,
+
+Ministerial Meeting for Social Affairs)
+
+Not only a follow-up measure of ‘Presidential Initiative for AI’ but an AI HR Plan
+
+aligned to 「10 Major Tasks of Investment in Human Resources」 (’19.4, Presidential
+
+Committee on Jobs) and 「University Innovation Support Plan」 (Announced in August
+
+2019)
+
+### Main Contents
+
+① Fostering Talents in Future High-tech Fields
+
+Intensive development of talents in relevant fields through new creation and
+
+expansion of departments related to government-designated new industries.
+
+② Fostering Innovative Talents in Science and Engineering Fields
+
+Examination of innovative ways to foster future talents in science and technology
+
+specialized in new industries, etc. and suggestion of ways to resolve mismatches
+
+between industry and education
+
+③ Revamping Teacher Training System
+
+Mitigating rigid qualifications requirements for elementary and secondary teachers
+
+National Strategy for Artificial Intelligence
+
+so that they can be the subject of future school innovation, and comprehensive
+
+improvement of teacher nurturing, selection and training system
+
+④ Restructuring Medical Staff Training System
+
+Preparation for changes in future medical environment such as aging population
+
+and the 4th Industrial Revolution, and fostering human resources in the medical
+
+field to improve regional and public medical services
+
+Diffusing AI Technology across All Industry Areas 2-2
+
+Revitalize our economy and secure
+
+future growth engines through intelligentization of all industries.
+
+Current Situation and Issues
+
+2. Where is Korea aiming? (Vision and Goals) 3. How to archieve? (Core Strategies and Tasks) 1. What is the prospect for AI?
+
+Up to 455 trillion won
+
+Up to 126 trillion won
+
+2022
+
+2030
+
+〈 Effect of Intelligent Economy, McKinsey/KISDI 〉
+
+With the spread of the 4th Industrial Revolution, advanced ICTs such as AI have emerged
+
+as key elements of market competition and industrial production. However, the global
+
+competitiveness of our traditional industries such as manufacturing industry is deteriorating,
+
+so it is very necessary to secure new growth momentum by accelerating existing policies
+
+such as the ‘Vision and Strategy for Manufacturing Renaissance’.
+
+Change of the global top 5 companies in terms of market capitalization
+
+Year 2008 Name of company
+
+June 2019 Name of company
+
+1 PetroChina
+
+1 Microsoft
+
+2 Exxon Mobile
+
+2 Amazon
+
+3 GE
+
+3 Apple
+
+4 China Mobile
+
+4 Alphabet (Google)
+
+5 ICBC
+
+5 Facebook
+
+Energy Financials Industrials Al-related companies
+
+Action Strategy
+
+Added value rate of manufacturing industries of advanced countries (Global Insight, ’18)
+
+40%
+
+35
+
+30
+
+25
+
+20
+
+15
+
+Japan Germany India U.S. Korea China
+
+It is essential both to achieve tangible results* through AI convergence focusing on
+
+the sector with larger market size and higher effect and to expand to other areas such
+
+as transportation, cities, and culture to upgrade the overall industrial system. In order to
+
+promote AI convergence and utilization in all industries, the government is implementing the
+
+‘AI+X Projects’.
+
+*  Increasing revenue and cost-reduction will bring about economic effects of up to 19 trillion won in the manufacturing sector and 25 trillion won in the medical sector (KISDI, 2019).
+
+### Implement AI Convergence Project (AI+X)
+
+“Implementation of Large-Scale AI Convergence Project (2018~)”
+
+### Implementing AI convergence projects that can generate significant results that the public can — feel by facilitating the convergence of AI and each industry through the use of the large-scale data held by the public sector
+
+-  Building a public-private sector collaborative ecosystem in which companies specialized in AI,
+
+competing companies in each sector and the public organizations participate, and providing initial
+
+business opportunities to domestic AI companies
+
+### Case of AI Convergence Project — Dr. Answer (AI-based Precision Medical Solution)
+
+▶  It is under clinical test with the AI-based disease prediction, diagnosis, and treatment solution
+
+(2018~2020, total 36.4 billion won)
+
+*  Total of 46 industries, universities and institutes including Seoul Asan Hospital, Medical institutes/ICT companies, etc.
+
+### Expansion of AI Convergence from Manufacturing Sector to All Industries — Manufacturing Sector and Overall Industries — Advancing smart factories based on AI and data
+
+•Building AI-based Smart Factory(2,000 in 2030) •Implementation of ‘Industry AI Project’ specialized by industries
+
+-  Building a manufacturing data center and platform that accumulates smart factory data and
+
+supports process and quality analysis (2020)
+
+-  Preparing a plan to support AI utilization in manufacturing sectors such as product simulation,
+
+remote diagnosis, and facility predictive maintenance through high-performance computing
+
+infrastructure
+
+National Strategy for Artificial Intelligence
+
+-  Building AI-based Smart Factory which increases productivity while reducing waste through
+
+process optimization by digital data analysis using AI (100 in 2022 to 2,000 in 2030)
+
+### Realizing the manufacturing sector’s renaissance through ‘intelligentization of all industries’ — where AI and industry converge
+
+-  Building and spreading problem-solving industrial data platforms which combines data collection
+
+based on industry-specific standard and AI application services
+
+-  Implementing the ‘Industrial AI Project’ including development of industry-specific standard AI
+
+modules for the industrial use of AI
+
+### Developing and commercializing AI convergence products with global competitiveness by — industry
+
+2. Where is Korea aiming? (Vision and Goals) 3. How to archieve? (Core Strategies and Tasks) 1. What is the prospect for AI?
+
+Industry Details
+
+• Implement innovative project to develop autonomous driving technology for world’s first commercialization of Level 4 autonomous driving (2021~2027, under preliminary feasibility study)
+
+Autonomous
+
+driving car
+
+Shipbuilding • Develop autonomous ship (2020~2025) and Korean-type smart yard (K-Yard) (2021~2026, under preliminary feasibility study)
+
+• Establish digital engineering platform to implement design automation ((2021~2025, under preliminary feasibility study)
+
+Designing Automation
+
+Robot • Develop AI Converged Next-generation Robot (2019~2022) and establish performance evaluation·demonstration infrastructures (2020~2024)
+
+AI Home appliance • Establish Home appliance big data common platform to support SMEs (2019~2022)
+
+Ceramic • Establish I-ceramic platform to improve process efficiency and flexible production in large volume (2019~2021)
+
+Materials • Establish digital simulation platform to draw optimal development method befitting to material and parts(~2021)
+
+### Supporting the innovation of SMEs and small merchant using AI
+
+-  Supporting smart services that enhance the added value of products and services of SMEs through
+
+AI and big data-based pre-diagnosis (predictive maintenance, function improvement, etc.) (2020)
+
+-  Promoting product and service innovation for small merchant by developing/distributing smart
+
+store* (2020~) and establishing a measuring data analysis and utilization platform (2021~)
+
+*  A store which dramatically improves services and management using advanced digital technologies such as AI, VR·AR, fintech, O2O, etc.
+
+### Bio / Medical
+
+•Establishment of New Drug Development AI Platform (2021)
+
+### Nurturing bio and medical sectors as the next major industries by leveraging AI
+
+-  Dramatically reducing the new drug development period (15 years → 7~8 years) through establishing
+
+the phased new drug development AI platform (~2021)
+
+Invest huge amount of time and costs to
+
+explore and verify optimal new drug material
+
+Insufficient use of accumulated data in
+
+developing new drugs
+
+Reducing research time and costs by half
+
+and exploring new drug materials using AI
+
+Establish data collection-sharing-utilization
+
+system
+
+-  Building a dataset and AI development ecosystem centered on medical institutions, such as medical
+
+data-oriented hospitals* and field demonstration of medical AI services and products** (2020~)
+
+*  Support by designating hospitals with medical research capabilities, establishing medical data production and utilization, and information systems (May 2020)
+
+**  Support empirical research of various medical services such as emergency response, medical voice support, patient counseling
+
+-  Improving the quality of AI medical devices and reducing time required for commercialization from
+
+three years to one year by establishing standard data for clinical verification and a professional review system (~2021)
+
+•Establishment of Open Smart City Data Hub (2021) Smart City / Construction
+
+### Improving the quality of urban life and the productivity and safety of the construction industry — through AI Convergence
+
+-  Establishing AI-based data hub connecting and utilizing smart city data
+
+-  Securing smart construction technologies such as CPS (Cyber Physical System) based
+
+construction site control and simulation (2020~), and building a smart construction support center
+
+(2021)
+
+•Development of Autonomous Driving Public Transportation Technologies (2021) Transportation / Logistics
+
+### Creating an autonomous driving environment based on AI technology and advancing the — logistics industry
+
+-  Developing autonomous cooperative driving technology (2019~) that responds to all risks, and
+
+autonomous driving public transportation technology (2021~) that optimizes routes and intervals
+
+according to the demand for traffic
+
+-  Securing port logistics optimization technology to share and analyze port resources such as
+
+containers, workers in real time using AI and IoT technologies (~2021)
+
+•Establishment of Energy Big Data Platform (2020~) Energy
+
+### Using AI for efficient energy consumption and supply
+
+-  Establishing an energy big data platform which develops and provides new services by
+
+accumulating and utilizing major energy supply and consumption data such as electricity, heat,
+
+and gas (2020~)
+
+-  Developing intelligent power generation which reduces maintenance costs by combining AI with
+
+sunlight (2020~)
+
+•Improvement of Accuracy of Fine Dust Forecast (2018~) Environment
+
+National Strategy for Artificial Intelligence
+
+### Improving the accuracy of fine dust forecasting (2018~) using AI-based big data analysis and — building a real-time monitoring system for underground water pollution by livestock manure (2018~)
+
+•Automation of 5G Core Network (2020) Network
+
+### Developing intelligent network slicing through AI-based automation of the 5G core network — (2020, when adopting the Stand Alone method) to create a 5G convergence service
+
+•Creation of Smart Farm Innovation Valley (4 places in 2022) and Aqua Farm 4.0 (more than 6 places in 2022) Agriculture and Fisheries
+
+2. Where is Korea aiming? (Vision and Goals) 3. How to archieve? (Core Strategies and Tasks) 1. What is the prospect for AI?
+
+### Supporting agricultural and fisheries workers with smart technologies such as AI and — enhancing high added value of the agricultural and fisheries industries
+
+-  Developing intelligent smart farm solutions* (~2027), and creating a smart farm innovation valley
+
+for technology demonstration, data collection and AI utilization (four regions by 2022)
+
+*  Smart farm decision-making support model, and unmanned automation smart farm technology which allows AI itself to grow agricultural products
+
+-  Building test beds for smart farming (more than six places by 2022), and carrying out ‘Aqua
+
+Farm 4.0’, which applies AI and data as the foundation for AI in the entire farming cycle (2019~.
+
+preliminary study)
+
+•Support and Vitalization of Intelligent Contents Creation (2020~) Culture / Arts
+
+### Creating new markets for the cultural industry through the production of converged content — combined with AI
+
+-  Developing intelligent character creation engines and platforms that give intelligence to characters
+
+(~2021) and an AI-creation platform that supports content creation based on learning (2020~)
+
+### Providing AI information* that can be used for performances and exhibitions and establishing — a platform connected with creation support (~2021)
+
+-  Automatic image creation program (GAN), music analysis, learning intelligence, audience emotion
+
+recognition intelligence, motion recognition intelligence, etc.
+
+•Establishment of Smart Correctional Facilities (2019~) Legal Affairs
+
+### Building smart correctional facilities with advanced ICT-based smart bands such as AI and IoT — and noiseless mobile CCTVs (2019~)
+
+•Establishment of Intelligent National Defense Platform (2020~) National Defense
+
+### Realizing efficient and reliable defense by advancing core works based on AI and data
+
+-  Expanding AI convergence in core tasks in accordance with the Defense Intelligence Promotion
+
+Roadmap (2020) and building an intelligent platform* (2020~) that develops and supports
+
+common AI service for all military forces
+
+*  Quickly analyze and process large-scale defense data and develop and support common services such as medical care, logistics, and administration
+
+-  Accelerating the development of intelligence that supports the command system (collaboration
+
+and determination process) by building an intelligent data center (2020~) for the standardization,
+
+accumulation and sharing of defense data
+
+### Reference 5 — Full-Scale Plan to Utilize Industry-specific AI
+
+Industry Details
+
+• Building manufacturing data centers and platforms (2020), and AI smart factories (100 in 2020 → 2,000 in 2030)
+
+• Building and spreading problem-solving industry data platform and developing standard industry AI module
+
+Manufacturing
+
+and Overall
+
+• Developing and commercializing AI convergence products in autonomous vehicles, shipbuilding, design, robots, home appliances, ceramics, and material sectors
+
+Industries
+
+• Developing and distributing smart stores to support innovation of SMEs and small merchant (2020~), etc.
+
+• Establishing the phased new drug development AI platform at each stage (~2021), supporting for medical data-oriented hospitals and field demonstration of medical AI services and products (2020~)
+
+Bio·Medical
+
+• Establishing sample data and professional review system for clinical verification of AI-based medical devices (~2021)
+
+• Building an AI-based open data hub in smart cities (2020)
+
+Smart city· Construction
+
+• Securing smart construction technology (2020~), completion and expanding smart construction support center (2021~)
+
+• Developing autonomous cooperative driving technology (2019~) and autonomous driving public transportation technology (2021~)
+
+Transportation·
+
+Logistics
+
+• Securing real-time sharing and analysis technology for port resources (containers, workers, etc.) (~2021)
+
+Energy • Building an energy big data platform that accumulates and utilizes energy supply and consumption data and promoting intelligent solar power generation (2020~)
+
+• Developing Intelligent network through 5G core network automation (2020)
+
+Network
+
+• Optimizing radio resource utilization by converging with AI (2021~)
+
+• Creating Smart Farm Innovation Valley (4 places in 2022), and developing intelligent smart farm solution (~2027)
+
+Agriculture and Fisheries
+
+• Building test beds for smart farming (6 places in 2022), and ‘Aqua Farm 4.0’ which applies AI in entire farming cycle (2019~)
+
+• Implementing intelligent character engine and platform (~2021) and AI creation platform (2020~)
+
+Culture·Art
+
+• Supporting art creation, performances, and exhibitions using AI (~2021)
+
+• Converging air-quality forecasting with AI and improving accuracy in predicting highly concentrated fine dust (2019~2022)
+
+National Strategy for Artificial Intelligence
+
+Environment
+
+• Establishing AI-based underground water pollution monitoring and prediction system (2019~2022)
+
+Legal Affairs • Constructing and operating ICT-based correctional facilities for efficient management (2019~2028)
+
+• intelligent core tasks and Supporting common AI service for all military forces through building an intelligent platform (2020)
+
+National Defense
+
+• Accelerating the development of intelligent that supports command systems by building an intelligent data center for defense (2020~)
+
+## Building the Best-performing Digital Government 2-3
+
+Transform ourselves into a digital government that supports people in need, works hard,
+
+### and better serves citizens
+
+2. Where is Korea aiming? (Vision and Goals) 3. How to archieve? (Core Strategies and Tasks) 1. What is the prospect for AI?
+
+ranked within top 10 countries ranked
+
+20th ranked
+
+## 36th
+
+2030 2022 2019
+
+〈 Rank in Government’s Responding ability, WEF Global competitiveness Report 〉
+
+## Current Situation and Issues
+
+### As the maintenance costs of e-government systems (16,282 in 2017) have been
+
+continuously increasing (40.5% of ICT budget in 2017), it is not easy to secure financial resources for new investment.
+
+### As a result, the system is aging due to — the delayed application of advanced digital
+
+technologies such as AI, resulting in not only the decline in e-government performance,
+
+### but also slowdown of innovating the way
+
+the government works and the way public services are delivered*.
+
+*  Rank in government’s responding ability, WEF Global Competitiveness Report: 36th
+
+### Export amount of e-government
+
+US$530 million
+
+US$270 million
+
+US$230 million
+
+2015 2016 2017
+
+## Action Strategy
+
+### Trend in Informatization Project Scale and Maintenance Costs
+
+16,282
+
+14,657
+
+15,052 13,672
+
+10,697
+
+Informatization project (number of case)
+
+8,159
+
+Maintenance costs (100 million won)
+
+2013 2015 2017
+
+### Ranking of e-governments (UN)
+
+1st
+
+3rd 3rd
+
+2014 2016 2018
+
+### Through diagnosis and improvement of major e-government systems, the Korean
+
+government is evolving into AI-based digital government and is also innovating how the government works using cutting edge technology. Most of all, the public sector lead the
+
+adoption and utilization of AI as the centerpiece to stimulate the early AI market, thereby accelerating the transition to customized and intelligent public services.
+
+## Key Tasks
+
+### Realization of Next-generation Intelligent Government
+
+“Diagnosis of e-Government System and Establishment
+
+of Digital Transformation Roadmap (2020)”
+
+### Improving the system which meets the direction of digital innovation by diagnosing major — e-government systems (2020) and based on this, establishing a mid- to long-term digital transformation roadmap (2020) — Upgrading the work environment to innovate the government’s way of working
+
+-  Expanding public participation by integrating call centers in the public sector (~2022) and operating
+
+a platform for citizen-led problem-solving (tentatively named ‘Challenge!, Korea’ platform).
+
+-  Promoting cloud services in the public sector to support field-oriented collaboration (~2022) and
+
+building a smart/mobile-oriented work environment (e.g., 2 PCs → 1 laptop)
+
+### Innovation of Public Services
+
+“Provision of Preemptive Customized Services (2020)”
+
+### Identifying people in need first without blind spots and providing customized services in a — preemptive manner through construction of database for various service sectors and the use of AI
+
+-  Preemptively providing services customized to vulnerable sectors of society through the next-generation
+
+social security system (~2021) and expanding one-stop packages based on each life cycle (two packages for childbirth and succession in 2019 → more than 10 packages in 2022)
+
+### Innovating public services in earnest by introducing AI in areas where the public can feel the — benefits such as provision of customized cultural welfare and patent information (2020~) — 〈 Tasks related to Introduction / Utilization of Public Services (Example) 〉
+
+Classification Examples
+
+• Recommending place to use individual-specific culture voucher, predicting and informing non-use of voucher
+
+Customized culture /
+
+welfare
+
+• Immediate translation and provision of patent information in foreign language, and prompt check of existing patent information
+
+High-quality patent information
+
+• Developing short-and mid-term fine dust forecasting technology, and monitoring and predicting underground water pollution
+
+Response to environmental pollution
+
+National Strategy for Artificial Intelligence
+
+Better efficiency in correction • Establishing ICT-based smart prison for efficient management
+
+People’s safety • Predicting and responding to crime through analysis of criminal information
+
+• Caring and nursing the elderly and dementia patients and supporting physical activities
+
+Strengthened welfare
+
+for the elderly
+
+Securing SoC Safety • Managing safety of facilities such as underground, water and sewage and railway through AI·5G convergence
+
+### Developing a digital service contract system and operating a specialized distribution platform — for efficient operation (2020~) — Reference 6 — Follow-up Measures for ‘Presidential Initiative for AI’ ②
+
+2. Where is Korea aiming? (Vision and Goals) 3. How to archieve? (Core Strategies and Tasks) 1. What is the prospect for AI?
+
+### - 「Plan for Digital Government Innovation」 -
+
+“We will transform ourselves into an AI-based digital government, going beyond the world’s best e-Government. We will provide high-quality services, starting with those areas that can directly impact the people’s lives such as the environment, disasters, safety and national defense, so that the public can sense the changes“
+
+(Presidential Initiative, Oct. 28, 2019)
+
+Comprehensive plan to transform into innovative and people-centered digital
+
+government going beyond the existing e-government paradigm as the digital era has
+
+come.
+
+Established by the Ministry of the Interior and Safety with the participation of relevant
+
+ministries including Ministry of Science and ICT (Oct. 29, 2019. Cabinet council)
+
+### Main Contents
+
+① Innovation of people-centered Public Services
+
+• Preemptive provision of services suitable for each citizen without blind spots.
+
+• Promoting the use of self-information for civil affairs and issuance/utilization of
+
+various certificates, bills, and ID cards electronically
+
+② Innovation of Government’s Way of Working
+
+• Upgrading the civil service counter and policy participation channel to expand
+
+the civil participation, and improving accessibility to government for digitally
+
+underprivileged people
+
+• Creating a productive smart work environment for realizing collaborative
+
+administration and site-based administration
+
+③  Expansion of Digital Technology Introduction and Establishment of Open Data
+
+Ecosystem
+
+• Expanding the private sector’s cloud use and introducing a digital service
+
+contract system
+
+• Building a foundation to connect and utilize government data, and opening
+
+valuable public data and services to the people by Open API
+
+Realization of People-Centered AI
+
+3
+
+## Establishing an Inclusive Job Safety Network 3-1
+
+### Create a society where all of the people enjoy the benefits of AI even — in the face of rapidly changing
+
+technology and social change
+
+## Current Situation and Issues — 7 points
+
+(within top 5) 6.5 points (within top 20) 5.9 points (ranked 31st)
+
+2030 2022 2019
+
+〈 OECD Better Life Index 〉
+
+The use of AI across industries leads to job losses centered on simple repetitive tasks,
+
+while creating new jobs needed to use and apply AI-related technologies. And while AI
+
+### improves the convenience in our lives, there are also concerns that the underprivileged
+
+groups and those who do not possess the basic skills of AI and AI literacy may not benefit from AI.
+
+### Analysis of Job Automation
+
+▶  47% of 702 detailed occupations can be
+
+automated in the U.S. (Frey&Osborne, 2013)
+
+▶  27% of total labor hours in Korea can be
+
+automated by 2030 (McKinsey, 2018)
+
+▶  Among OECD countries, Jobs which
+
+are automated more than 70% amount to 14% on average (OECD, 2019)
+
+National Strategy for Artificial Intelligence
+
+## Action Strategy
+
+### Ratio of New Technologies provided during Job Training (Ministry of Labor, 2019)
+
+New Technology
+
+sector (4%)
+
+### The government is firmly determined to strengthen job-safety networks such as support — for maintaining livelihoods and employment to alleviate social shocks caused by sudden — changes in the labor market and support the groups vulnerable to job changes, and
+
+reorganize the job training system focused on AI in order to improve AI utilization capabilities of the workforce and to expand the job mobility.
+
+## Key Tasks
+
+2. Where is Korea aiming? (Vision and Goals) 3. How to archieve? (Core Strategies and Tasks) 1. What is the prospect for AI?
+
+### Securing Job-Safety Network
+
+“Establishment/Advancement of National Employment
+
+Information Platform (2020)”
+
+### Preemptively reinforcing the employment safety network in response to the diversification of — employment patterns caused by AI (increase in the number of workers in special types of employment, etc.)
+
+-  Expanding the application of social insurance* to protect various types of workers, including
+
+workers in special types of employment and artists, and changing the insurance subject from ‘workers’ to ‘the insured’ from a mid-  to long-term perspective
+
+*  Applying industrial accident compensation insurance for special types of employment, and employment insurance for special types of employment and artist
+
+-  Strengthening insurance coverage by expanding the level of payment of unemployment benefits
+
+and the period of payment (2019~)
+
+▶  Raise payment level: 50% → 60% of average salary
+
+▶  Extend payment period: up to 8 months → 9 months, Abolish differential payment for youth
+
+▶  Ease eligibility requirements*: 18 months/ more than 180 days → 24 months / more than 180 days
+
+*  Upon changing jobs, a worker is required to work less than two days per week/ 15 hours per week.
+
+### Introducing the ‘National Employment System’ to remove blind spots in the employment — safety network (2020)
+
+-  Providing employment supporting service to the employment vulnerable class including job
+
+seekers in low income families and people who closed the businesses, and strengthening income support under the premise of job search activities
+
+### Overview of The National Employment System
+
+▶  (Subjects of Support) Low-income job seeker who makes less than 50% of median income
+
+(120% for young people aged between 18 and 34) (Type I) / Job seeker who makes less than 100% of median income and workers in special types of employment such as marriage immigrants and North Korean defectors (Type II)
+
+▶  (Contents of Support) ① Employment support services such as vocational training, work
+
+experience programs, and connecting welfare services are provided. ② The low-income families are paid a job-seeking allowance (500,000 won per month × 6 months) during the job-seeking period.
+
+▶  (Scale of Support) Scale of support will be gradually expanded to 600,000 people by 2022.
+
+### Upgrading AI and job big data-based National Job Information Platform and establishing a — job matching system (2020)
+
+*  AI can analyze job status in real time and provide customized employment services by matching employer’s requirement and job seeker’s capability based on big data on jobs
+
+### Revision of Vocational Training
+
+“Expansion of Training in New Technologies (4% (provisional) in 2019 → 15% in 2022)”
+
+### Ensuring the ‘lifelong employment’ with increasing ‘employment possibilities’ of job seekers — and adaptability of employees through vocational training in new technology sectors
+
+-  Significantly increasing the proportion of new technologies vocational training (AI, fintech, etc.) for
+
+job search and transfer (4% (provisional) in 2019 to 15% in 2022)
+
+*  The portion of high-tech courses in Polytechs will be increased from 11% in 2019 to 25% in 2022 by
+
+establishing and reorganizing the department and hi-tech course will be increased (775 people in 2019 →
+
+1,500 people in 2022)
+
+-  Improving competency of teachers and lecturers who provide vocational training in the advanced
+
+new industry sectors
+
+*  Providing training courses for teachers and instructors (3,600 people per year) to support the development
+
+of competency in new industries such as AI, and providing vocational competency development training
+
+courses for smart factories using the K-Factory of Korea TECH.
+
+-  Developing future promising NCS (National Competency Standards) and spreading it to the
+
+training courses of private training institutes and vocational high schools
+
+*  Collecting and announcing opinions concerning NCS, including planning and installing Intelligent Transport
+
+System (ITS), installing smart factory system, and establishing cloud platform
+
+### Providing all the people with an opportunity to develop lifelong job ability without blind spots
+
+-  Providing ‘National Tomorrow Learning Card’ to all citizens (2020) and expanding the subject of
+
+vocational training focused on the unemployed and workers of SMEs
+
+*  Selecting courses and delivering training programs that can improve the basic understanding of AI among the
+
+occupations eligible for the ‘National Tomorrow Learning Card’
+
+### 〈 Main Changes In National Tomorrow Learning Card 〉
+
+Classification AS-IS TO-BE
+
+Eligibility • The unemployed, workers of SMEs and irregular workers
+
+• People who want to take vocational training (Excluding public officials, subject to pension fund for teachers at private schools, and students, etc.)
+
+Validity • 1 year for the unemployed, 3 years for employee • Five years (available to apply again after 5 years)
+
+National Strategy for Artificial Intelligence
+
+Details • 2~3 million won • 3~5 million won
+
+-  Expanding practical educational platforms* for better accessibility to vocational training and
+
+providing various contents through a smart training platform (opened in Oct. 2019).
+
+*  Innovation Square: One place in 2019 (Seoul) → Four places in 2020 (for each regional base)
+
+## Preventing Dysfunction and Establishing AI Ethics 3-2
+
+### Establish an AI code of ethics
+
+2. Where is Korea aiming? (Vision and Goals) 3. How to archieve? (Core Strategies and Tasks) 1. What is the prospect for AI?
+
+within top 5 within top 10 ranked
+
+and create the safest AI-use environment in preparation for dysfunction and security threats that may occur due to spread of AI
+
+2030 2022 2019
+
+## Current Situation and Issues — 15th
+
+〈 ITU Global Cybersecurity Index (GCI) 〉
+
+### The use of AI technology and the proliferation of AI-based products and services have — increased security threats, and caused the emergence of new forms of dysfunctions such
+
+as ‘Deep Fakes’. As a result, countries around the world are beginning to develop norms to address AI ethics issues such as safety, legal responsibility and human nature.
+
+### 〈 Status of Preparation of AI Code of Ethics and Guideline 〉
+
+2017
+
+2018
+
+2019.2
+
+2019.4
+
+Administrative order regarding
+
+Preparation for AI Future
+
+Principles in Using AI
+
+Guideline on AI Ethics
+
+AI Initiative
+
+## Action Strategy
+
+2019
+
+2019.5
+
+2019.6
+
+2020
+
+Discussion between
+
+Agreement on
+
+Government and Private Sector
+
+G20 People-
+
+OECD Council Recommendation
+
+centered AI Principle (Proposed by
+
+on AI Ethics
+
+on AI
+
+Guideline and Norms
+
+Korea)
+
+Human rights, privacy, transparency, reliability,
+
+nondiscrimination, fairness, accountability,
+
+sustainability, etc.
+
+### The government focuses on advancing cyber threat response systems based on
+
+intelligent technologies such as AI, and developing technology for countermeasures along with government-wide collaboration system. In addition, for the realization of people-
+
+centered AI and human-like AI we establish a global level of AI code of ethics based on social debate and consensus.
+
+## Key Tasks
+
+### Innovation of Intelligent Information Protection
+
+“Detection/Response to AI-Based Cyber Infringement (2020)”
+
+### Establishing a cyber infringement detection, analysis, and response system based on — intelligent technology that applies AI technology to overall detection and responses to threats — (report receipt → classification → verification → actions) (2020~) — Developing AI-based information protection technology that automatically analyzes — vulnerabilities of various devices and networks and verifies password safety (2020~)
+
+*  Developing intelligent video security technology (2020~2023), anonymous-based network threat verification
+
+and demonstration technology (2020~2023), etc.
+
+### Building an ‘Information Protection AI Learning Support Center’ for comprehensive verification — and consulting services for information protection AI machines in the private sectors (2020~) — Prevention of AI Dysfunction
+
+“Exhaustive Preparation for New Types of Dysfunction”
+
+### Conducting R&D in order to develop new services and prevent dysfunctions resulting from AI — development simultaneously, and establishing a inter-ministerial cooperative system (2020)
+
+*  (Example) Deepfake is a compound word of deep learning and fake, and image synthesis technology based on AI
+
+-  There are concerns about side effects such as defamation, identity theft, and financial fraud in
+
+areas where new markets and services are expected to be created (such as medical video and
+
+camera apps) through video synthesis technology.
+
+-  Planning to develop technologies of identifying and detecting Deepfake and revise relevant laws
+
+and regulations while pursuing cooperation in criminal investigation
+
+National Strategy for Artificial Intelligence
+
+### Establishing a quality management system that verifies reliability and safety in response to the — proliferation of AI products and services (2020~) — Establishment of AI Ethics
+
+“Preparation of AI Ethical Standards and Action Plan (2020)”
+
+2. Where is Korea aiming? (Vision and Goals) 3. How to archieve? (Core Strategies and Tasks) 1. What is the prospect for AI?
+
+### Leading the global discussions on AI ethics (2020~) including the efforts to prepare the follow- — up measures of the OECD AI Recommendation (May 2019) — 〈 Main Contents of OECD AI Recommendation 〉
+
+Classification Contents
+
+① Inclusive growth and sustainable development ② Human-centered values and fairness ③ Transparency and explainability ④ Robustness, security and safety ⑤ Accountability
+
+General principles
+
+for reliable AI
+
+① Investing in AI R&D ② Fostering a digital ecosystem ③ Promoting a policy environment ④ Building human capacity and preparing for labor market transformation ⑤ International co-operation
+
+National policies for trustworthy AI
+
+### Establishing AI ethical standards* that are consistent with global norms by identifying and — analyzing the AI Code of Ethics and discussion trends in international organizations and major countries, and setting up action plans (2020) — 〈 AI Code of Ethics and Discussion Trends in Major countries 〉
+
+Countries Code of Ethics
+
+U.S. Google principle on AI utilization (June 2018, Google), Ethical design report (March 2019, IEEE)
+
+China Next generation AI management principle (June 2019, Select Committee on AI)
+
+Japan Human-centered AI society principle (March 2019, Integrated Innovation Strategy Meeting)
+
+U.K. Report on Harmful AI (Feb. 2018, Center for Existential Risk, University of Cambridge)
+
+EU Reliable AI Ethics Guideline (Dec. 2018, AI High-level Expert Group)
+
+-  Establishing a mid-to long-term policy making support system to protect the users in the future
+
+(operating the Policy Center within the Korea Information Society Development Institute(KISDI)*,
+
+2019~) and developing and distributing AI ethics education curriculum** for students, developers,
+
+and users (general citizens) (2021~).
+
+*  Operating a public-private council involving companies, experts, and users (2020~)
+
+**  (Student and user) AI and bioethics, personal information protection and understanding on media algorithm, etc. (Developer) Designing ethical AI architecture, and information security, etc.
+
+## How to approach? (Governance and Action Plans) — Governance
+
+The 4th Industrial Revolution Committee will be re-established as an AI-oriented pan-government committee.
+
+### The committee will ➊ establish an inter-ministerial collaborative system, and ➋
+
+support the establishment of follow-up plans for national strategies, and conduct periodic inspections and evaluations. It will also ➌ comprehensively check and
+
+manage the resources for implementing the action plans and ➍ play a leading role in social discussions such as holding an industry-specific regulation heckathon.
+
+### Moreover, strategic meeting presided by the president will be held and each — ministry, such as the Ministry of Science and ICT and the Ministry of Economy and Finance, will present its strategy and review its performance. At the same time,
+
+participation of citizens is strongly encouraged and the result of performance will be publicly released.
+
+## Action Plans
+
+### Nine strategies and 100 tasks in the three areas of AI ecosystem, AI utilization, and — people-centered AI, which are the main pillars of the [Presidential Initiative for Artificial
+
+Intelligence] and [National Strategy for Artificial Intelligence], will be reflected in each ministry’s annual plan in 2020 for implementation.
+
+In addition, each ministry and the relevant ministries involved will develop and implement detailed action plans* for each sector.
+
+*  Following the announcement of the framework on October 28, the [Digital Government Innovation Plan (October 29)] and the [Plan to foster talents of advanced sectors in the future society (November11)] were announced.
+
+National Strategy for Artificial Intelligence
+
+In particular, the ministries in charge will prepare detailed action plans related to the nationwide AI education of entire people and human resource development,
+
+### promotion of AI industry such as R&D, and the spread of the utilization of the AI in
+
+overall industries and present sequentially through strategic meetings presided over by the president.
+
+## List of Detailed Tasks Annex 1
+
+(9 strategies and 100 tasks in three areas)
+
+### Annex
+
+Agenda Names of Tasks Ministry in charge /
+
+Relevant ministry
+
+### 1 Establishment of Global-Leading AI Ecosystem
+
+• Full opening of public data Ministry of Interior and Safety
+
+• Developing AI identification tracking system Ministry of Justice· Ministry of
+
+Science and ICT
+
+• Opening and distributing the data in 10 big data platforms Ministry of Science and ICT
+
+• Expanding the construction of AI learning data Ministry of Science and ICT /
+
+Whole Ministries
+
+• Developing Korean Corpus linguistics Ministry of Culture, Sports and
+
+Tourism
+
+Ministry of Science and ICT / Ministry of Interior and Safety·
+
+• Supporting for expansion of data resources of ODA-linked new southern and northern countries
+
+### 1-1
+
+Ministry of Foreign Affairs
+
+• Strengthening linkage between public and private sector data map Ministry of Interior and Safety·
+
+AI Infrastructure
+
+Enhancement
+
+Ministry of Science and ICT
+
+• Establishing data platforms in public sectors (government-wide) Ministry of Interior and Safety
+
+• Supporting AI vouchers and data vouchers Ministry of Science and ICT
+
+Ministry of Science and ICT
+
+/ Ministry of Interior and Safety·Ministry of Health and Welfare ·Financial Supervisory
+
+• Expanding ‘MyData Demonstration Project’ (administration, medical, finance)
+
+Commission
+
+Ministry of Interior and Safety·Financial Supervisory
+
+• Revising ‘Three Acts on Data’ (Personal Information Protection Act, Act on Promotion of Information and Communications Network Utilization and Information Protection, etc., Credit Information Use and Protection Act)
+
+Commission ·Korea Communications Commission
+
+• Securing high-performance computing resource (AI Hub) Ministry of Science and ICT
+
+•Establishing Gwangju AI Cluster and National AI Hub Strategy Ministry of Science and ICT
+
+Ministry of Science and ICT· Ministry of Trade, Industry, and
+
+• Developing next-generation intelligent semiconductor and new-concept AI chips (PIM)
+
+Energy
+
+• Dominating next-generation AI Ministry of Science and ICT
+
+• Expanding support for basic AI research on brain function and cognitive science Ministry of Science and ICT
+
+### 1-2
+
+Securing Competitiveness
+
+• Improving SW system and mainstreaming SW-friendly education and culture Ministry of Science and ICT
+
+in AI Technology
+
+• Conducting a written survey on subcontract status for SW companies in the public sector Korea Fair Trade Commission
+
+• Establishing an AI industry statistics system and analyzing AI patents Ministry of Science and ICT·
+
+Patent Office
+
+• Innovating R&D in AI areas Whole Ministries
+
+### Annex
+
+Agenda Names of Tasks Ministry in charge /
+
+Relevant ministry
+
+• Shifting regulatory paradigm in AI field such as establishing comprehensive negative regulation roadmap in AI field, etc
+
+### 1-3
+
+Drastic Regulatory
+
+Innovation and Revision of Laws
+
+Ministry of Science and ICT /
+
+Whole Ministries
+
+• Establishing framework legislation and reorganizing the legal system of each sector
+
+Ministry of Science and ICT /
+
+Whole Ministries
+
+• Creating an AI investment fund and holding IRs for AI startups Ministry of SMEs and Startups·
+
+Ministry of Science and ICT
+
+• Establishing a future technology development fund and providing preferential treatment to guarantee technology Ministry of SMEs and Startups
+
+### 1-4
+
+• Identifying and nurturing AI startups (Open Square-D, etc.) Ministry of SMEs and Startups·Ministry of Interior and
+
+Nurturing Global
+
+AI Start-ups
+
+Safety
+
+• Improving the legal system to promote AI startups Ministry of SMEs and Startups
+
+• Hosting the AI Olympics Ministry of SMEs and Startups·
+
+Ministry of Science and ICT
+
+### 2 The Country that Makes Best Use of AI
+
+• Allowing the creation and expansion of cutting-edge technology departments such as AI and allowing AI-related teachers to hold positions in private sector
+
+Ministry of Education· Ministry of
+
+Science and ICT
+
+• Fostering AI/SW master’s and doctoral degrees (following BK21, university-centered research institutes)
+
+Ministry of Education· Ministry of
+
+Science and ICT
+
+• Expanding and diversifying AI graduate programs Ministry of Science and ICT·
+
+Ministry of Education
+
+Ministry of Science and ICT· Ministry of Education·Ministry of
+
+• Operating Innovation Academy to nurture AI professionals, LINC+ (socially customized department), and Industrial AI Professionals Training Projects
+
+Trade, Industry, and Energy
+
+• Easing the regulations related to promote the creation and operation of interdisciplinary majors
+
+### 2-1
+
+Ministry of Education· Ministry of
+
+Science and ICT
+
+• Reinforcing basic education for SW and AI (Teach the Teachers, etc.) Ministry of Science and ICT
+
+Nurturing World-
+
+Best AI Talent and Educating
+
+• Fostering middle-sized technical talents in SW and AI sectors (college innovation support project) Ministry of Education
+
+People
+
+• Expanding the national college course dedicated for SW and AI for high school graduates Ministry of Education
+
+National Strategy for Artificial Intelligence
+
+• Spreading AI education for all military personnel Ministry of Defense / Ministry of
+
+Science and ICT
+
+• Conducting full-scale AI training for public officers Ministry of Personnel Management
+
+/ Ministry of Science and ICT
+
+• Providing AI training for employees at SMEs and startups Ministry of SMEs and Startups
+
+• Establishing AI majors and courses within the academic credit bank system Ministry of Education
+
+• Developing online AI education contents (K-MOOC, cyber university) Ministry of Education
+
+### Annex
+
+Agenda Names of Tasks Ministry in charge /
+
+Relevant ministry
+
+Ministry of Culture, Sports and Tourism· Ministry of Science and
+
+• AI education for general public using SOC (museums, libraries, science museums, senior welfare facilities, etc.)
+
+ICT· Local governments
+
+• Organizing SW and AI curriculum focusing on play and experience of lower grades of elementary school Ministry of Education
+
+• Expanding the mandatory SW and AI education for higher grades of elementary school and middle schools Ministry of Education
+
+• Continuously expanding high schools focused on SW and AI curriculum (high schools for AI convergence education, sw curriculum-focused schools, AI high schools, and three public technical high schools)
+
+Ministry of Education· Ministry of Science and ICT· Ministry of SMEs
+
+and Startups
+
+• Supporting teachers to complete SW and AI courses from the training and recruitment stages Ministry of Education
+
+• Establishing wireless network at elementary, middle and high schools Ministry of Education
+
+• Reinforcing work experience for SW and AI (work experience bus) Ministry of Education
+
+• Supporting local education infrastructures such as Future SW Center and Institute of Information Security Education for the Gifted, etc.
+
+Ministry of Science and ICT·
+
+Ministry of Education
+
+• Implementing AI convergence project (AI+X) Ministry of Science and ICT /
+
+Whole Ministries
+
+• Advancing smart factories based on AI (manufacturing data center and platform) Ministry of SMEs and Startups
+
+• Building and spreading industrial data platforms Ministry of Trade, Industry, and
+
+Energy
+
+• Implementing the Industrial AI project including development of industry-specific standard AI modules
+
+Ministry of Trade, Industry, and
+
+Energy
+
+• Developing AI convergence products for shipbuilding, robot, home appliance, and material parts
+
+Ministry of Trade, Industry, and
+
+Energy
+
+• Supporting the innovation for SMEs and small merchant using AI Ministry of SMEs and Startups
+
+### 2-2
+
+•Establishing the new drug development AI platform Ministry of Health and Welfare·
+
+Diffusing AI Technology across
+
+Ministry of Science and ICT
+
+• Supporting medical data-oriented hospitals and demonstrating medical AI services and products Ministry of Health and Welfare
+
+All Industry Areas
+
+• Establishing standard data for clinical verification of AI medical devices Ministry of Food and Drug Safety
+
+• Establishing professional review system for AI medical devices Ministry of Food and Drug Safety
+
+• Establishing smart city data hub Ministry of Land, Infrastructure
+
+and Transport
+
+• Securing smart construction technology and building a smart construction support center
+
+Ministry of Land, Infrastructure
+
+and Transport
+
+Ministry of Land, Infrastructure and Transport·Ministry of Trade, Industry, and Energy· Ministry of
+
+• Developing autonomous cooperative driving technology and autonomous driving public transportation technology
+
+Science and ICT
+
+• Securing port logistics optimization technology Ministry of Maritime Affairs
+
+### Annex
+
+Agenda Names of Tasks Ministry in charge /
+
+Relevant ministry
+
+• Establishing an energy big data platform Ministry of Trade, Industry, and
+
+Energy
+
+• Automating the 5G core network Ministry of Science and ICT
+
+• Creating a Smart Farm Innovation Valley Ministry of Agriculture, Food, and
+
+Rural Affairs
+
+• Developing AI-based intelligent smart farm solutions Ministry of Agriculture, Food, and
+
+Rural Affairs
+
+• Applying AI and data in the entire framing cycle (Aqua Farm 4.0) Ministry of Maritime Affairs
+
+• Developing intelligent character creation engines Ministry of Culture, Sports and
+
+Tourism
+
+• Establishing a platform for providing AI information and supporting creation
+
+Ministry of Culture, Sports and
+
+Tourism
+
+• Establishing an intelligent defense platform Ministry of Defense
+
+• Establishing a defense intelligence data center and developing the intelligent supporting command system Ministry of Defense
+
+• Establishing a mid-to long-term digital transformation roadmap Ministry of Interior and Safety
+
+• Integrating call centers in public sector to expand citizen participation Ministry of Interior and Safety /
+
+Whole Ministries
+
+• Advancing a citizen-led problem-solving platform Ministry of Interior and Safety /
+
+Whole Ministries
+
+• Building a smart work environment that supports field-oriented collaboration
+
+Ministry of Interior and Safety /
+
+Whole Ministries
+
+• Promoting cloud services in the public sector Ministry of Interior and Safety /
+
+Whole Ministries
+
+• Building an open data/service ecosystem Ministry of Interior and Safety /
+
+Whole Ministries
+
+• Recommending place to use individual-specific culture voucher Ministry of Culture, Sports and
+
+### 2-3
+
+Tourism
+
+• Establishing AI patent system and data Patent Office
+
+Building the Best-performing Digital
+
+• Expanding AI-based fine dust forecasting function Ministry of Environment
+
+• Establishing AI monitoring system to predict underground water pollution due to livestock manure Ministry of Environment
+
+Government
+
+• Establishing accommodation control system using smart band Ministry of Justice / Ministry of
+
+Trade, Industry, and Energy
+
+• Establishing AI-based noiseless and mobile CCTVs at correctional facilities
+
+National Strategy for Artificial Intelligence
+
+Ministry of Justice / Ministry of
+
+SMEs and Startups
+
+• Analyzing criminal information for predicting and responding to occurrence of crime
+
+National Police Agency· Ministry
+
+of Science and ICT
+
+• Caring and nursing the elderly and dementia patients and supporting the physical activities
+
+Ministry of Health and Welfare·
+
+Ministry of Science and ICT
+
+• Securing SoC safety through AI (underground, water and sewage, etc.) Local governments· Ministry of
+
+Science and ICT
+
+• Developing a digital service contract system Ministry of Strategy and Finance·Public Procurement
+
+Service / Whole Ministries
+
+### Annex
+
+Agenda Names of Tasks Ministry in charge /
+
+Relevant ministry
+
+### 3 Realization of People-centered AI
+
+• Expanding coverage of industrial accidents and employment insurance (special types of employment, artists, etc.)
+
+Ministry of Environment
+
+and Labor
+
+• Expanding the level of payment of unemployment benefits and the period of payment
+
+Ministry of Environment
+
+and Labor
+
+• Introducing the National Employment System Ministry of Environment
+
+and Labor
+
+• Upgrading a National Job Information Platform and establishing a job matching system
+
+### 3-1
+
+Establishing an
+
+Ministry of Environment
+
+and Labor
+
+• Expanding vocational training in new technology sectors Ministry of Environment
+
+Inclusive Job Safety Network
+
+and Labor
+
+• Providing opportunities to develop lifelong job capabilities using National Tomorrow Learning Card
+
+Ministry of Environment
+
+and Labor
+
+• Improving AI competency of teachers and lecturers to promote vocational training using AI
+
+Ministry of Environment
+
+and Labor
+
+• Operating a smart vocational training platform Ministry of Environment
+
+and Labor
+
+• Expanding and operating the Innovation Square Ministry of Science and ICT
+
+• Innovating intelligent information protection through AI Ministry of Science and ICT
+
+### 3-2
+
+• Developing technologies preventing AI dysfunctions and establishing a inter-ministerial cooperative system
+
+Preventing Dysfunction and
+
+Ministry of Science and ICT /
+
+Whole Ministries
+
+• Establishing a AI code of ethics and developing and distributing AI ethics education curriculum
+
+Establishing AI
+
+Ethics
+
+Ministry of Science and ICT /
+
+Ministry of Education
+
+• Establishing a policy making support system to protect users Korea Communications
+
+Commission
+
+## Major Progress Annex 2
+
+### Annex
+
+The Ministry of Science and ICT (MSIT) has been continuously collecting various opinions from experts in the private sector (about 150 people over 13 occasions) since June 2019, and has sought to adopt national strategies for AI by exploring policy tasks with
+
+diverse relevant ministries.
+
+At first, MSIT held not only industry-wise professional meetings with AI and SW- related academia, large and small companies, and startups, but also held a number of university-industry-research meetings in AI industries including technology, laws and
+
+systems, education, human talents, vision and strategies. (From June to November).
+
+In the industrial sector, electronics and automobile manufacturers (Samsung Electronics,
+
+LG Electronics and Hyundai Motor), telecommunications companies (SKT and KT), Internet service providers (Naver and Kakao), game companies (NCSoft), semiconductor developers (Telechips), AI and data companies (Saltlux, Runit, Mines Lab, etc.), and other companies in diverse fields — participated in the meetings joined by ICT professional bodies such as the Institute of Information& Communications Technology Planning&Evaluation (IITP), the National IT Industry Promotion Agency (NIPA), the National Information Society Agency (NIA), and the Software Policy & Research Institute
+
+(SPRi), and the Electronics and Telecommunications Research Institute (ETRI).
+
+### In addition, from September, headed by the office of the Advisor to the president for
+
+Science and Technology, three relevant ministries started to have discussions in three areas: education innovation, responses to jobs and social changes, and strengthening of AI competitiveness. MSIT and 19 relevant ministries* have implemented close pan-
+
+government cooperation by exploring policies and collecting opinions.
+
+*  Ministry of Strategy and Finance; Ministry of Education; Ministry of Justice; Ministry of National Defense; Ministry of Interior and Safety; Ministry of Culture, Sports and Tourism; Ministry of Agriculture, Food, and Rural Affairs; Ministry of Trade, Industry, and Energy; Ministry of Health and Welfare; Ministry of Environment and Labor; Ministry of Employment and Labor; Ministry of Land, Infrastructure and Transport; Ministry of Maritime Affairs; Ministry of SMEs and Startups; Korea Communications Commission; Korea Fair Trade Commission; Ministry of Personnel Management; Ministry of Food and Drug Safety; and Patent Office, etc.
+
+In October 2019, President Moon Jae-in attended the nation’s largest event for artificial intelligence developers and announced plans to establish a national strategy within the year, presenting the "Presidential Initiative for Artificial Intelligence."
+
+National Strategy for Artificial Intelligence
+
+MSIT and other relevant ministries gathered their wisdom aiming at shaping a vision and future for the country and realizing the Korean President’s resolve on promoting AI. In this process, Artificial Intelligence Policy Bureau (Director General-level organization) was
+
+established to lead Korea’s artificial intelligence policy within the Ministry of Science and ICT.
+
+「National Strategy for Artificial Intelligence」 created through this process has been finalized after the 27th Economic Vitality Action Meeting (Dec.11) and the 53rd cabinet meeting (Dec.17).
+
+“Toward AI World Leader, beyond IT”
+
+## National Strategy for Artificial Intelligence
+
+### Issuing Agency |  Ministry of Science and ICT — Artificial Intelligence Policy Division — Date of Issue | December, 2019 — Address |  (Zip code) 30121
+
+194, Gareum-ro, Sejong-si, the Republic of Korea
+
+## Toward World Leader beyond
+
+Contact : AI Policy Division of MSIT | Tel. +82-44-202-6271 | www.msit.go.kr

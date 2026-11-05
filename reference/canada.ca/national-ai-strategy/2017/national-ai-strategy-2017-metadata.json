@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/canada.ca/national-ai-strategy@2017",
+  "name": "Pan-Canadian Artificial Intelligence Strategy — Phase 1 (2017)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2017",
+  "publication_id": "national-ai-strategy-2017",
+  "owner": "Government of Canada",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Pan-Canadian Artificial Intelligence Strategy Phase 1 (launched March 22, 2017).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Government of Canada (canada.ca) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Government of Canada (canada.ca).",
+  "license": {
+    "spdx": "OGL-Canada-2.0",
+    "Grouping": "Permissive",
+    "redistribution": "yes",
+    "derivatives": "yes",
+    "publicly_redistributable": true,
+    "license_text_url": "https://open.canada.ca/en/open-government-licence-canada",
+    "note": "Open Government Licence – Canada (https://open.canada.ca/en/open-government-licence-canada).",
+    "notes": "Open Government Licence – Canada (https://open.canada.ca/en/open-government-licence-canada)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://ised-isde.canada.ca/site/ised/en/pan-canadian-artificial-intelligence-strategy",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2017-03-22",
+    "active": false,
+    "supersedes": null,
+    "supersededBy": "secid:reference/canada.ca/national-ai-strategy@2022",
+    "retiredFromActiveUse": "2022-06-22",
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/canada.ca/national-ai-strategy@2017 (https://ised-isde.canada.ca/site/ised/en/pan-canadian-artificial-intelligence-strategy) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/cyber.go.jp/cybersecurity-strategy@2021",
+  "name": "Cybersecurity Strategy of Japan (September 2021)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2021",
+  "publication_id": "cybersecurity-strategy-2021",
+  "owner": "National Cybersecurity Office (NCO) / Cybersecurity Strategic Headquarters",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Cybersecurity Strategy (Cabinet decision, September 28, 2021).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by National Cybersecurity Office (NCO) / Cybersecurity Strategic Headquarters (cyber.go.jp) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for National Cybersecurity Office (NCO) / Cybersecurity Strategic Headquarters (cyber.go.jp).",
+  "license": {
+    "spdx": "LicenseRef-Japan-Government-Notification-Likely-Excluded",
+    "Grouping": "Government-Work",
+    "redistribution": "likely_permitted",
+    "derivatives": "likely_permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.digital.go.jp/resources/open_data/public_data_license_v1.0",
+    "note": "Japanese Copyright Act Article 13 excludes laws, regulations, and government notifications from copyright; Cabinet-level strategy/guideline status is slightly nuanced (likely excluded as an official government directive, or covered under the Government of Japan Standard Terms of Use / Public Data License 1.0).",
+    "notes": "Japanese Copyright Act Article 13 excludes laws, regulations, and government notifications from copyright; Cabinet-level strategy/guideline status is slightly nuanced (likely excluded as an official government directive, or covered under the Government of Japan Standard Terms of Use / Public Data License 1.0)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.nisc.go.jp/eng/pdf/cs-senryaku2021-en.pdf",
+    "textUsed": "https://www.cyber.go.jp/eng/pdf/cs-senryaku2021-en.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2021-09-28",
+    "active": false,
+    "supersedes": "secid:reference/cyber.go.jp/cybersecurity-strategy@2018",
+    "supersededBy": "secid:reference/cyber.go.jp/cybersecurity-strategy@2025",
+    "retiredFromActiveUse": "2025-12-23",
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 54-page PDF (https://www.cyber.go.jp/eng/pdf/cs-senryaku2021-en.pdf) locally via PyMuPDF (165,492 chars). Parsed 62 sections (6 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

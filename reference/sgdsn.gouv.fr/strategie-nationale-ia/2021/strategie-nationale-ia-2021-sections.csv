@@ -1,0 +1,524 @@
+"depth","section_id","section_name","id_kind","parent_id","body"
+"1","","Stratégie nationale pour l'intelligence artificielle — 2e phase (2021)","","",""
+"2","","STRATÉGIE NATIONALE POUR L’INTELLIGENCE ARTIFICIELLE – 2e phase — Conquérir les talents et transformer notre potentiel scientifique en succès économiques — Dossier de presse 8 novembre 2021","","","Sommaire
+
+Éditorial ............................................................................................................ 4
+
+Introduction ...................................................................................................... 6
+
+Une nouvelle phase pour démultiplier les talents et transformer notre potentiel scientifique et R&D en succès économique ........................................................................................................................ 6
+
+Plus de 2Md€ pour faire de la France un champion de l’IA ................................................................ 7
+
+Objectifs clés ....................................................................................................................................... 7
+
+Indicateurs de succès à 2025 .............................................................................................................. 7
+
+Synthèse des montants mobilisés ....................................................................................................... 8
+
+Stratégie nationale pour l’IA : la France aux avant-postes européens ..... 9
+
+L’IA, paradigme technologique toujours en plein essor ...................................................................... 9
+
+Stratégie nationale pour l’IA (2018 – 2022) : atouts et axes principaux ........................................... 10
+
+Dans le top 3 des écosystèmes européens de l’IA, la France doit viser la 1ère place pour le futur .. 14
+
+Capitaliser et accélérer dans les 5 prochaines années ............................ 16
+
+Un nouvel élan ambitieux pour l’IA (2021-2025) ............................................................................... 16
+
+Compétences et talents : un plan massif de formation à l’IA ............................................................ 17
+
+Positionner l’économie française sur des domaines d’avenir de l’IA ................................................ 19
+
+Accélérer la diffusion des systèmes d’IA responsables pour moderniser l’économie ....................... 24
+
+Gouvernance .................................................................................................. 27"
+"2","","Éditorial","","","Le 29 mars 2018 au Collège de France, le Président de la République présentait sa vision et sa stratégie pour faire de la France un pays leader de l’intelligence artificielle. Nous arrivons aujourd’hui au terme de la première phase de cette stratégie nationale pour l’IA.
+
+Les travaux de la mission conduite par Cédric Villani ont été précurseurs. Ils ont directement inspiré le plan dont s’est dotée la France au moment où d’autres puissances adoptaient également leurs propres stratégies.
+
+Depuis la conférence de Dartmouth en 1956, le développement de l’IA a connu plusieurs hivers et plusieurs phases d’accélération. Nous avons la conviction que la phase d’accélération connue depuis 2015, année où AlphaGo a battu l’Homme au jeu de Go, est appelée à se poursuivre avec une diffusion de l'IA dans de nouveaux pans de l'économie, accompagnée par l’essor de la 5G, des objets connectés et du cloud.
+
+Bruno Le Maire, Ministre de l’Économie, des Finances et de la Relance
+
+Exceller en IA et dans l’utilisation de l'IA constitue un défi majeur pour notre pays, pour conserver la maîtrise de notre destin technologique, créer les emplois de demain et préserver la compétitivité de nos entreprises.
+
+La première phase de la stratégie IA avait notamment pour vocation de préserver le potentiel scientifique et technologique de notre pays, au moment où de nombreux compétiteurs s’intéressaient de près à nos talents. Elle avait également au plan économique pour objectif d’engager notre pays dans le champ de l’innovation de rupture dans de nombreux domaines de l’IA et en particulier celui de l’IA de confiance, c’est-à-dire l’ensemble des technologies qui permettront demain d’évaluer, d’auditer et de certifier les algorithmes afin que ceux-ci ne constituent plus des boîtes noires. Cette première phase a été particulièrement utile pour permettre à la France de renforcer ses capacités en matière de recherche et consolider notre potentiel scientifique.
+
+Frédérique Vidal, Ministre de l'Enseignement supérieur, de la Recherche et de l'Innovation
+
+A l’heure où le Président de la République a fixé l’ambition de faire de la France un pays pionnier en matière d’innovation à horizon 2030, il est aujourd’hui nécessaire de renforcer notre ambition, afin de permettre à la France d’exceller au niveau international et de mobiliser tout le potentiel de transformation de l’IA au service de notre économie et de notre société.
+
+La priorité de cette nouvelle phase de notre stratégie est d’assurer que la France ait les moyens de former et d’attirer les meilleurs talents internationaux en IA. Il s’agit d’un enjeu décisif pour permettre à la France de peser dans le paysage mondial de l’IA et de renforcer notre attractivité pour les futurs champions du secteur, à l’heure de la pénurie des compétences dans le numérique. Dans
+
+Cédric O, Secrétaire d'Etat chargé de la Transition numérique et des Communications électroniques
+
+l’IA, comme plus généralement dans le numérique, « il n’y a de richesse que d’hommes » : la matière grise et les talents sont plus que jamais le nerf de la compétition
+
+Il s’agit en outre d’accélérer les premiers résultats obtenus en succès économiques. Tournée vers les startups et l’industrie, cette deuxième phase ambitieuse fait ainsi le pari de positionner la France sur des segments prometteurs de l’IA et de faire émerger les champions de demain.
+
+La France et l’Europe ont tous les atouts pour réussir dans l’intelligence artificielle. Pour cela, nous pouvons compter sur la mobilisation résolue de l’ensemble des acteurs : entreprises, chercheurs, étudiants, puissance publique. C’est à ce prix et au bout de cette aventure que nous parviendrons à préserver et renforcer notre souveraineté politique, économique et technologique."
+"2","","Introduction","","",""
+"3","","Une nouvelle phase pour démultiplier les talents et transformer notre potentiel scientifique et R&D en succès économique","","","Technologie transversale, « d’usage général » selon la terminologie adoptée par les économistes de la croissance économique1, l’IA permet des gains substantiels de compétitivité ou de productivité dans tous les secteurs de l’économie et dans les services publics. La science des données, l’apprentissage machine et la robotique forment ainsi la matrice de la « 4e révolution industrielle ».
+
+Le Président de la République avait fixé en mars 2018 un cap ambitieux : faire de la France un leader mondial de l’intelligence artificielle. Pour y parvenir, la stratégie nationale pour l’IA, dotée d’un premier plan de 1,5 Md€ de crédits publics, a notamment conduit à la création et au développement d’un réseau d'instituts interdisciplinaires d’intelligence artificielle, le soutien à des chaires d’excellence en IA, le financement de programmes doctoraux et l’investissement dans les capacités de calcul de la recherche publique (Jean Zay). Depuis 2018, cette première phase très concentrée sur le renforcement des capacités de recherche est un succès dans le contexte de bataille mondiale pour les talents : elle a permis de maintenir notre potentiel scientifique et de R&D sur notre territoire et de rendre la France plus attractive, avec en particulier l’installation de plusieurs laboratoires de référence.
+
+Le Gouvernement lance désormais une deuxième phase de la stratégie nationale pour l’IA, afin de démultiplier les talents formés en IA, nerf de la compétition, et accélérer notre potentiel de R&D en succès économiques.
+
+Les atouts de notre pays dans ce domaine sont structurels."
+"2","","Les atouts de la France dans l’IA","","","• Une école mathématique mondialement reconnue
+
+• De nombreux chercheurs français parmi les stars mondiales de la discipline
+
+• Le plus grand nombre de laboratoires IA parmi les pays européens (81)
+
+• Un écosystème entrepreneurial en dynamique croissante
+
+• Des grandes entreprises particulièrement sensibilisées aux enjeux de l’IA
+
+1 T. BRESNAHAN & M/ TRAJTENBERG, « General purpose technologies 'engines of growth'? » Journal of econometrics, 1995"
+"2","","Plus de 2Md€ pour faire de la France un champion de l’IA","","","La deuxième phase de la stratégie nationale pour l’IA prévoit au de consacrer au total 2,22 Mds€ à l’IA pour les 5 ans qui viennent, dont 1,5 Mds€ de financements publics et 506 M€ de cofinancements privés.
+
+La contribution publique proviendra du PIA4 (557 M€), d’autres crédits publics (crédits budgétaires des ministères et opérateurs, financements européens, et financements des collectivités à hauteur de 288 M€) et de France 2030 (plan d’investissement exceptionnel dans la formation à l’IA de plus de 700 M€).
+
+Sur le total de 1,5 Mds€, la formation représente plus de la moitié de l’effort (50 %), les mesures de soutien à l’innovation et économiques 40 % et les mesures pour la recherche scientifique et de transfert près de 10%."
+"2","","Objectifs clés","","","• Faire monter la nation en compétences
+
+• Faire de la France un leader dans les domaines de l’IA embarquée et de l’IA de confiance
+
+• Accélérer le déploiement de l’IA dans l’économie"
+"2","","Indicateurs de succès à 2025","","","Compétences et talents
+
+• Former et financer une cible d’au moins 2000 étudiants en DUT / licence / licence pro, 1500 étudiants en master et 200 thèses supplémentaires par an en régime de croisière
+
+• Placer au minimum 1 établissement d’excellence dans les meilleurs rangs internationaux
+
+• Recruter 15 scientifiques étrangers d’envergure mondiale d’ici janvier 2024
+
+IA embarquée, frugale et de confiance
+
+• Capter de 10 à 15% des parts du marché mondial de l’IA embarquée à horizon 2025 et faire de la France un leader mondial dans le domaine
+
+• Soutenir 10 projets d’IA de démonstrateurs ou de développement technologique d’IA frugale
+
+• Lancer 4 démonstrateurs d’usages de l’IA dans les verticales prioritaires que sont l’automobile, l’aéronautique, l’industrie 4.0 et l’énergie d’ici fin 2022
+
+• Livrer 3 à 4 plateformes logicielles interopérables multi-acteurs, d’envergure européenne, dans les domaines de l’IA embarquée ou décentralisée et de l’IA de confiance
+
+Diffusion de l’IA
+
+• Développer les plateformes souveraines libres et leurs écosystèmes en data science, apprentissage machine et robotique
+
+• Participer à plusieurs projets de Plateformes européennes de test et d’expérimentation en IA
+
+• Renforcer le transfert de la recherche à l’innovation par le passage à l’échelle de plusieurs accélérateurs, avec pour objectif de tripler le nombre de start-ups créées d’ici fin 2023
+
+• Accompagner 400 PME et ETI d’ici à 2025 dans l’adoption de solutions IA visant à accroître leur compétitivité
+
+Synthèse des montants mobilisés
+
+Programme Equipements Prioritaires de
+
+Développer
+
+l’IA décentralisée et embarquée
+
+En M€
+
+Recherche
+
+Part publique
+
+Accélérer la diffusion des systèmes d’IA
+
+Développer l’IA
+
+Compétences
+
+et talents Total
+
+de confiance
+
+responsable
+
+134 265 111 259 776 1545
+
+(PIA4)
+
+Part privée 310 105 86 5 506
+
+Financement
+
+s européens 60 10 16 86
+
+Total 134 635 226 361 781 2137
+
+Le 4e Programme d’investissements d’avenir contribuera à l’investissement dans le développement d’une offre d’IA et sa diffusion au sein de l’économie à hauteur de 228 M€ sur 2021-2022 et 329 M€ pour les années suivantes.
+
+France 2030 contribuera à l’investissement dans la formation à l’IA à hauteur de 700 M€ à l’horizon 2025."
+"2","","Stratégie nationale pour l’IA : la France aux avant-postes européens — L’IA, paradigme technologique toujours en plein essor","","","La science des données, l’IA et la robotique sont devenues un terrain d’affrontement dans la compétition économique. Maîtriser leurs technologies constitue un atout indispensable pour la puissance industrielle de l’avenir.
+
+Au cours de la dernière décennie, les progrès rapides de l’IA, notamment dans le domaine de l’apprentissage automatique, ont ouvert de nouveaux champs à l’automatisation : la vision par ordinateur, le traitement de la parole, le traitement automatique des langues, mais aussi le traitement des signaux faibles.
+
+Il devient impossible d’imaginer, de produire ou de distribuer un bien ou un service sans que sa conception, sa fabrication, sa production, voire sa consommation, ne nécessitent de recourir aux technologies numériques. L'IA peut elle-même intervenir sur l’ensemble des maillons de la chaîne.
+
+Les systèmes d’IA contribuent à l’évolution technologique actuelle à travers de multiples dimensions : intégration dans les processus internes de l’entreprise pour maîtriser la consommation de ressources et d’énergie, développement des jumeaux numériques et des systèmes cyber-physiques fondés sur les objets connectés, création de produits et services aux fonctionnalités enrichies grâce à l’IA, automatisation partielle du contrôle-qualité et de la maintenance prédictive, automatisation des relations avec le client, développement des interfaces humain-machine, facilitation de l’accès aux bases de connaissance de l’entreprise par les salariés, nouvelle génération de robotique perceptive et mobile, etc.
+
+Les résultats économiques attendus de ces technologies sont évalués à près de 90 milliards de dollars dès 2025, contre 7 milliards en 2020, selon le cabinet de conseil Statistica. Les gains associés à la productivité du travail devraient eux représenter plus de la moitié (55%) des bénéfices économiques permis par l'IA sur la période 2016-2030, selon une étude de PWC.
+
+Les technologies de protection des données sensibles, au premier rang desquelles les données relatives à la vie privée, sont enfin un domaine de recherche et un marché en pleine expansion. Il est crucial de développer plus rapidement les technologies permettant à plusieurs parties de mettent en commun leurs ensembles de données pour construire collectivement un meilleur modèle que celui qu'une seule partie peut construire. Cependant, il faut pouvoir préserver la confidentialité des données de chaque partie à partir de méthodes cryptographiques et statistiques telles que le calcul multipartite sécurisé, le chiffrement
+
+homomorphique, les preuves à connaissance zéro, la confidentialité différentielle et les enclaves sécurisées.
+
+La confiance doit être le socle d’un marché dynamique et d’une créativité bouillonnante. La France poursuivra ses efforts dans cette direction tout au long de la mise en œuvre de la présente Stratégie d’accélération.
+
+Stratégie nationale pour l’IA (2018 – 2022) : atouts et axes principaux
+
+Initialement dotée de près de 1,5 Md€ sur la période 2018-2022, la Stratégie nationale pour l’IA (2018-2022) a pour vocation de positionner la France comme l’un des leaders mondiaux de cet ensemble de disciplines scientifiques et de technologies-clés du traitement de l’information.
+
+A la suite de la vision apportée par la Mission Villani, elle a jeté les bases d’une structuration de long terme de l’écosystème d’IA, à tous les stades du développement technologique : recherche, développements et innovations applicatifs, mise sur le marché et diffusion intersectorielle, soutien et encadrement du déploiement.
+
+Stratégie nationale pour l’IA - Phase 1
+
+En M€ Recherche Enseignement
+
+supérieur Économie Transformation
+
+Défense-
+
+Sécurité Total
+
+publique
+
+Public 469 46 290 204 334 1342
+
+Privé 59 - 245 - - 304
+
+Total 528 46 535 204 334 1646
+
+La Stratégie nationale pour l’IA a déjà permis d’engranger des résultats majeurs depuis son lancement en mars 2018.
+
+Attractivité
+
+L’attractivité de la France s’est fortement renforcée dans le domaine de R&D&I privée en IA. Depuis 2018, de nombreuses entreprises étrangères ont choisi notre pays pour y implanter leurs laboratoires IA ou pour les renforcer : Cisco, DeepMind, Facebook, Fujitsu, Google, HPE, IBM, Intel, Microsoft, NaverLabs, SAP.
+
+Structuration de la recherche autour de centres interdisciplinaires de référence en IA
+
+La recherche en IA est anciennement établie en France et s’appuie sur des pôles d’excellence : une école de mathématiques de haut niveau ; des laboratoires de recherche en science des données, intelligence artificielle et robotique réputés ; un réseau d’écoles d’ingénieur de grande qualité.
+
+Mais le statu quo n’est pas une option, car les disciplines de l’IA connaissent depuis une décennie une expansion rapide. La pénurie de talents au niveau mondial créée par le
+
+décollage soudain des applications scientifiques et économiques de l’IA entraîne une compétition intense.
+
+C’est pourquoi, dès 2018, la ministre de l’enseignement supérieur, de la recherche et de l’innovation a confié coordination du Programme National de Recherche en IA à Inria et fait du renforcement de l’écosystème de recherche en IA une priorité assortie d’importants moyens d’action :
+
+La création de 4 nouveaux Instituts interdisciplinaires de l’IA (MIAI à Grenoble, 3IA Côte d’Azur à Nice, PRAIRIE à Paris, ANITI à Toulouse). Parallèlement, 3 autres instituts d’excellence sont nés ou se sont renforcés : Institut Data-IA à Paris-Saclay, SCAI à Paris- Sorbonne Université et Hi Paris ! (Groupes IPP et HEC) également à Paris-Saclay. Les 4 instituts 3IA ont un mode de financement très incitatif à la recherche partenariale et collaborative. Tous les centres ont noué des partenariats avec des dizaines d’entreprises de toute taille.
+
+Au total, ce sont 190 chaires de recherche environnées qui ont été financées, pour la quasi-totalité au sein de ces établissements. 8% sont internationales. Ceci s’est accompagné d’une extension très substantielle des programmes doctoraux de recherche, avec près de 370 contrats de thèse supplémentaires, dont une centaine de thèses en entreprise CIFRE, soit 500 nouveaux docteurs en IA au total.
+
+Ce premier programme de recherche au eu pour effet de renforcer la place et de la visibilité de l’IA dans les trois grands organismes de recherche nationaux CEA et CNRS et Inria, qui sont en outre convenus de renforcer leur coopération dans le cadre de l’Alliance Allistène et qui piloteront de concert le Programme de recherche et la définition des équipements prioritaires de recherche de la présente deuxième phase.
+
+Le rapprochement des centres de recherche Inria avec les grandes Universités d’enseignement supérieur de recherche à l’été 2021 favorisera enfin durablement la symbiose des écosystèmes de recherche régionaux et la recherche en IA en bénéficiera directement. On observe un cercle vertueux dans la recherche partenariale, qui s'est saisie de l'IA : les dépenses de recherche déjà engagées par les Instituts Carnot et les Instituts pour la Recherche Technologiques – Instituts pour la Transition Energétique (IRT-ITE) entre 2018 et 2020 (83M€) et leur programmation initiale pour 2021-2022 (78 M€) est 4 fois supérieure aux prévisions faites en 2018.
+
+On observe un cercle vertueux dans la recherche partenariale, qui s'est saisie de l'IA : les dépenses de recherche déjà engagées par les Instituts Carnot et les Instituts pour la Recherche Technologiques – Instituts pour la Transition Energétique (IRT-ITE) entre 2018 et 2020 (83M€) et leur programmation initiale pour 2021-2022 (78 M€) est 4 fois supérieure aux prévisions faites en 2018.
+
+Quelques avancées internationales depuis 2018
+
+L'effort sur la coopération franco-allemande de recherche en IA avec une feuille de route adoptée au niveau ministériel en octobre 2019. Un accord entre Inria et le DFKI allemand la concrétise, de même que déjà deux saisons d’appels à projets binationaux, pour soutenir des projets de collaboration stratégique, de recherche, de maturation. Un autre appel très souscrit a soutenu des initiatives pour la gestion des risques, de la prévention des crises et de la résilience (février 2021).
+
+Des projets ambitieux ont été lancés : partenariat franco-québécois DEEL sur le développement d'applications IA pour l’aéronautique (IRT Sant Exupéry) et DOS sur l’automatisation de la fonction d’observation des conducteurs de trains (SystemX).
+
+L'impact de ces actions en termes d'attractivité est déjà mesurable, avec par exemple :
+
+Deux conférences majeures prochainement organisées en France : ECML en 2022 et ICCV en 2023 démontrant la visibilité de l'écosystème français ;
+
+Le recrutement d'experts d'envergure internationale. Par exemple, Joao Marques- Silva, référence mondiale du raisonnement automatique et précédemment professeur à l'University College de Dublin et à l'Université de Lisbonne, a été recruté en tant que directeur de recherche au CNRS. Justine Cassel, professeur à l’Université de Carnegie Mellon (USA) et spécialiste des agents conversationnels capables de dialoguer avec les humains, a été recrutée en 2019 en tant que directrice de recherche chez Inria."
+"2","","Préservation de l’égalité d’accès au supercalcul","","","Les années les plus récentes montrent que pour se maintenir à la frontière scientifique et technologique de l’IA, il est indispensable que les scientifiques et les innovateurs puissent accéder à des capacités de calcul croissantes.
+
+C’est tout particulièrement le cas des disciplines de l’apprentissage automatique profond. C’est pourquoi, à l’horizon prévisible, la mise à disposition de capacités de supercalcul souveraines, faciles d’accès et complétées par des interfaces logicielles simples d’utilisation reste essentielle pour les communautés académiques, ainsi que les startups, PME et ETI. Il est indispensable, pour préserver l’innovation, de compenser les inégalités d’accès au calcul et le risque d’exclusion d’une partie de la recherche de pointe en IA des laboratoires publics et des acteurs privés de taille modeste, pour lesquels le coût d’accès au calcul sur le marché peut se révéler rédhibitoire à la conduite de projets.
+
+La conquête de la puissance de calcul exascale (supérieur à 1 exaflops, soit 1 milliards de milliards d’opérations par secondes) au bénéfice de la recherche en IA mobilise déjà la plupart des pays technologiquement avancés en IA. Cet horizon est aussi celui de la France, en imbrication avec le Plan coordonné européen et l’Initiative européenne de supercalcul EuroHPC. Pour cette échelle de puissance de calcul, indispensable pour les futures découvertes qui marqueront des disciplines comme la physique computationnelle, la biologie moléculaire ou les sciences du climat, ainsi que pour la compétitivité de certaines applications industrielles d’IA qui en découlent, une coopération « public – privé » intégrant l’ensemble des capacités de calcul nationales sera nécessaire.
+
+Un acquis majeur du Programme national de recherche en IA (SNIA) depuis 2018 a été la création d’un équipement de supercalcul structurant pour l’écosystème. Le supercalculateur Jean Zay, inauguré par GENCI et le CNRS en 2019, consacre exclusivement une section de sa puissance de calcul aux applications d’IA. Des investissements ultérieurs de récupération de l’énergie dissipée en ont fait une référence d’efficacité énergétique pour ce type d’équipement.
+
+Pour la communauté scientifique française de l’IA, il a réellement joué un rôle catalyseur. En moins de 18 mois, le nombre de projets a fortement progressé, saturant la capacité d’absorption, avec désormais près de 2 projets déposés par jour, soumis à un comité de sélection scientifique. Il est également ouvert à des projets de recherche partenariale ou même, sous conditions à des projets de recherche et d’innovation d’entreprises. Après une
+
+première extension de capacité en 2020, un nouvel accroissement de la capacité de calcul de sa section dédiée à l’IA est programmée pour 2022, soit un doublement au total depuis 2018.
+
+10 % des capacités de Jean ZAY bénéficient aux entreprises, au premier rang desquelles des startups, et cette proportion sera amenée à croître. Le plus gros projet actuellement soutenu est un consortium de recherche de classe mondiale, emmené par la startup franco-américaine HuggingFace. Il vise à développer selon les critères de la science ouverte un modèle de langage géant multilingue capable de rivaliser avec les modèles de pointe actuellement disponibles. Le français en sera une des 8 langues pivots. Par ailleurs, un autre acteur français, la startup Lighton, qui participe à ce consortium, développe aussi des projets de modèles monolingues dans les langues de l’Union européenne. A travers ces projets, l’équipement national contribue à renforcer la place du français dans l’IA linguistique internationale.
+
+Le nouveau supercalculateur, de classe exascale, que la France développera à l’horizon 2024- 2025, sera accessible à la recherche fondamentale et applicative en IA mutualisée public-privé sera recherchée."
+"2","","Soutien à l’innovation de rupture en IA dans les secteurs prioritaires","","","Depuis plus de trois ans, l'innovation de rupture a été fortement soutenue dans la santé, la mobilité, la sécurité et la défense, ainsi que l’environnement, sans exclure son développement dans d’autres secteurs.
+
+Plusieurs outils opérés par BPI France ou le Secrétariat Général Pour l’Investissement ont été mobilisés pour cela : grand défi, challenges IA, Projets de recherche et de développement structurants pour la compétitivité, appel à projets de mutualisation de données.
+
+Quelques actions de soutien à l’innovation de rupture – Phase 1 exemples
+
+• Grand Défi : le programme Confiance.ai, associant partenaires académiques et industriels français, permet le développement d’une plateforme d’outils logiciels pour la conception, la qualification et le déploiement d’une IA de confiance au service de l’Industrie (première version livrée Q4 2021). Ce programme est doté de 45 M€ dont 15 M€ d’investissements privés.
+
+• Projets industriels : 10 Projets de recherche et de développement structurants pour la compétitivité (PSPC) ont été lancés, notamment dans les domaines la santé (comme Neurolead, sur l’IA hybride pour le criblage thérapeutique) ou l’automobile (projet EXPRESSo sur l’utilisation de l’IA pour la production de modules puissance avec Valéo).
+
+• 4 projets majeurs de mutualisation des données, inter ou intra-filières soutenus depuis 2019 dans les secteurs de l’agriculture (AgDataHub), de la logistique (IACargo), du traitement automatique de la voix (VoiceLab), accompagnés d'une plateforme générique d’IA « as-a-service » (Aleia).
+
+• 13 Challenges IA ont permis l’accompagnement de 21 entreprises et 5 structures publiques, par exemple dans l’environnement (analyse et prévention des risques naturels), ou encore la sécurité (simulateur de stratégie de défense, contrôle des sites radioélectriques).
+
+• Manifeste des grandes entreprises pour l’IA. Il regroupe 16 entreprises : Airbus, Air Liquide, Dassault Aviation, EDF, Michelin, Orange, Naval Group, Renault, Safran, Saint Gobain, Schlumberger, STMicroelectronics, Thales, Total, Valeo et Veolia. Ses membres soutiennent une dizaine de chaires de recherche et d’enseignement. Ils sont aussi impliqués dans des travaux avec les 3IA et les Grands Défis et financent plus d’une centaine de thèses en IA.
+
+Depuis 2018, on note une très forte accélération des financements publics dédiés à soutenir le développement de projets innovants en matière d’intelligence artificielle. L’intelligence artificielle est en effet omniprésente parmi les projets soutenus par les dispositifs nationaux et régionaux2 visant à financer la recherche et l’innovation.
+
+Le décollage exponentiel des aides économiques à l’innovation pour des projets IA opérées par Bpifrance est un point marquant de la première phase.
+
+Alors que le montant des aides nationales et régionales sur des projets dédiés à l’IA était en 2018 de 170 M€ (dont 69 M€ issus du PIA), ceux-ci représentaient 600 M€ en 2020 (dont 183 M€ de PIA) et 1 180 M€ en 2021 (dont 526 M€ de PIA)."
+"3","","Dans le top 3 des écosystèmes européens de l’IA, la France doit viser la 1ère place","","","Malgré le nombre limité de grandes entreprises numériques au sein de sa base industrielle, la France a su nourrir un écosystème de startups en IA extrêmement dynamique, comme en témoignent les recensements annuels effectués par bpifrance3 et France Digitale4 ainsi que la très utile enquête European AI Landscape, publiée pour la 1ère fois en novembre 2020 par le Hub France IA avec des partenaires allemands et suédois5.
+
+La cartographie de France Digitale – édition 2021 publiée en ce début de Paris AI Week) démontre que les créations d’entreprises axées sur l’IA couvrent tous les domaines technologiques, toutes les verticales fonctionnelles des organisations et la plupart des secteurs d’activité. Avec 502 startups spécialisées en IA en 2021, c’est une hausse de 11% par rapport au recensement de 2020 qui a été enregistrée.
+
+2 (i-demo (ex Projets Structurants Pour la Compétitivité et PSPC-Régions), Concours d’innovation, PIAVE, mutualisation des données, Grands Défis
+
+3 https://lehub.bpifrance.fr/mapping-startups-intelligence-artificielle/ 4 https://francedigitale.org/combat/les-startups-specialisees-dans-lia-continuent-a-augmenter-en-france/ 5 https://www.ai-startups-europe.eu/
+
+Il faut se féliciter de l’essor d’au moins 6 licornes françaises dans le domaine de l’IA ces dernières années (ContentSquare, Dental Monitoring, Shift Technology, Alan, Mirakl, Meero).
+
+Par ailleurs, elles attirent de plus en plus d’investisseurs : elles ont déjà levé deux fois plus de fonds que l’année dernière (1,6 Md€ en 2021 contre 708 M€ en 2020).
+
+Enfin, ces acteurs créent de l’emploi aujourd’hui en France : 13 459 personnes travaillent dans les start-ups de l’IA en 2021 (pour 70 000 emplois indirects générés), c’est-à-dire une augmentation de 35% par rapport à 2020 (10 008 employés), et ces entreprises prévoient de recruter plus 9 000 personnes sur l’année 2022 selon le recensement de France Digitale."
+"2","","Capitaliser et accélérer dans les 5 prochaines années — Un nouvel élan ambitieux pour l’IA (2021-2025)","","","Depuis 2018, la compétition internationale s’est fortement accrue dans les domaines de l’IA: des progrès très nets du traitement automatisé du langage naturel aux résultats prédictifs des modèles d’apprentissage profonds en matière de biologie moléculaire structurale, par exemple.
+
+Il existe une myriade d’applications concrètes à exploiter. La France et l’Europe doivent donc accélérer.
+
+Dans ce contexte, la stratégie d’accélération poursuit une « thèse d’investissement » sur des objectifs ciblés et délimités :
+
+• Faire monter la nation en compétences, pour desserrer la contrainte liée à la pénurie de talents et préparer la population active aux métiers de demain
+
+• Faire de la France un leader dans les domaines de l’IA embarquée, de l’IA frugale et de l’IA de confiance
+
+• Soutenir la diffusion de l’IA dans l’économie
+
+La deuxième phase de la stratégie nationale pour l’IA prévoit au de consacrer au total 2,22 Mds€ à l’IA pour les 5 ans qui viennent, dont 1,5 Mds€ de financements publics et 506 M€ de cofinancements privés.
+
+La contribution publique proviendra du PIA4 (648 M€), d’autres crédits publics (crédits budgétaires des ministères et opérateurs, UE, collectivités à hauteur de 288 M€) et de France 2030 (pour le plan d’investissement exceptionnel dans la formation à l’IA de plus de 700 M€.
+
+Sur le total de 1,5 Mds€, la formation représente 56 %, les mesures de soutien à l’innovation et économiques 33,5 % et les mesures pour la recherche scientifique et de transfert 10,5%."
+"2","","Compétences et talents : un plan massif de formation à l’IA","","","Faire de la France un acteur du premier cercle mondial de l’IA implique le développement massif et à 360° des compétences requises en mathématiques, en informatique et en sciences cognitives. Cela implique aussi la formation de profils interdisciplinaires dans les champs scientifiques ou les domaines technologiques de plus en plus nombreux à s’hybrider avec l’IA.
+
+L’éventail des talents nécessaires recouvre :
+
+• Ceux destinés à contribuer directement à l’aventure scientifique et technologique de l’IA en se projetant sur ses frontières avancées, dans toutes les disciplines et applications de pointe ;
+
+• Ceux qui développeront des produits et services innovants intégrant les technologies d’IA validées et éprouvées, en diffusant les solutions vers de nouveaux secteurs, dans les entreprises ou les services publics ;
+
+• Les personnes qui utiliseront professionnellement les systèmes d’IA, qui seront chargées de leur maintenance ou encore responsables des conséquences de leur usage : elles devront en être des utilisateurs avertis, au fait de leurs principes technologiques, de leur potentiel, de leurs limites et des enjeux éthiques qu’ils soulèvent ;
+
+• La jeunesse, qu’il faut former aux métiers de l’avenir et, au-delà, l’ensemble de la population, qui doit posséder les clefs nécessaires à la compréhension du monde qui s’invente. L’IA fait partie des sujets à intégrer à des degrés divers dans la formation tout au long de la vie en raison de l’accélération du rythme de l’innovation technologique.
+
+Le décollage soudain et rapide de l’IA applicative engendre partout de fortes pénuries de profils disposant des compétences nécessaires sur le marché du travail :
+
+• Dans une économie de la donnée qui progresse d’environ 10 % par an, le déficit de profils pourrait doubler et atteindre 160 000 à l’horizon 20256 ;
+
+• Les emplois directement liés à la science des données et à l’IA devraient croître de 60 % en 5 ans pour la seule branche de l’ingénierie et du conseil numérique7 ;
+
+• 91 % des grands groupes ont recruté ou formé en interne ces 3 dernières années et 75 % affichent des besoins pour les prochaines années8 ;
+
+• La création de startups spécialisées sera l’un des plus efficaces vecteurs de diffusion de l’IA dans notre pays et source de création d’emplois9.
+
+L’adoption de l’IA au sein des organisations et dans les différents secteurs d’activités se trouve freinée par la pénurie de profils bien formés, ce qui pourrait substantiellement nuire à la compétitivité française et à l’innovation globale dans le pays si la capacité de formation n’était pas rapidement étendue.
+
+6 The European Data Market Monitoring, D2.9 Final Study Report, 2019
+
+7 Etude « Data Science, IA : 7 500 créations d’emploi dans la Branche d’ici 5 ans » https://www.opiiec.fr/
+
+8 « Le futur des métiers de la data vu par les grands groupes français », Etude de Kantar & ESSEC Business School pour la Mission Numérique Gouvernementale des Grands Groupes, 2021
+
+9 « Performance économique et sociale des start-ups du numérique en France», EY, septembre 2021 « L’emploi dans les startups françaises », France Stratégie & DGE, octobre 2021
+
+Afin d’accompagner la formation de la jeunesse au numérique, le décollage de notre écosystème tech et la structuration des campus d’excellence de référence internationale, un plan de formation massif en deux volets sera déployé pendant 5 ans, pour un montant total de 700 M€ : un volet « formation d’excellence » dans le cadre du Plan « France 2030 » et un volet « massification de l’offre nationale de formation en IA » dans le double cadre de la Stratégie d’accélération pour l’IA et du Plan « France 2030. Cela représentera un effort de 781 M€ au total, ensemble des cofinancements publics (autres crédits budgétaires du ministère de la recherche et de l’enseignement supérieur et des établissements) et privés compris."
+"2","","Volet Formation d’excellence","","","Il s’agit de hisser plusieurs établissements d’enseignement supérieur français déjà leaders des disciplines de l’IA au niveau national jusqu’aux sommets européens et mondiaux, tout en accroissant simultanément la taille de leurs promotions.
+
+Le renforcement de l’attractivité de « l’école française de l’IA » et l’ouverture aux meilleurs étudiants internationaux sera recherchée. Il s’agit à la fois de retenir les meilleurs profils français et d’attirer les meilleurs potentiels étrangers en garantissant une offre d’enseignement et de débouchés de premier ordre aux niveaux master et doctorat.
+
+Mesure : Développer les formations d’excellence aux disciplines de l’IA en soutenant l’émergence de quelques pôles de formation d’excellence et d’envergure mondiale [500 M€ sur 5 ans, France 2030]"
+"2","","Volet Massification de l’offre nationale de formation en IA","","","Sur la base du socle commun en mathématiques et informatique nécessaire pour aborder l’IA, une pluralité d’enseignements sera développée, et pas uniquement en cursus d’ingénieur ou au niveau master, dans l’objectif d’accroître en volume et en gamme les formations à la science des données, l’IA et la robotique.
+
+Les formations inter-ou pluri-disciplinaires seront valorisées (IA & cloud, IA & cybersécurité, IA & sciences de la matière, IA & sciences du vivant, IA & santé, IA pour les SHS, IA pour les humanités numériques, Traitement automatisé de la parole et des langues, IA & numérique éducatif, IA & droit computationnel, IA & finance ou assurance, IA & sciences de gestion des entreprises, robotique industrielle, etc.).
+
+Cette massification de l’offre nationale de formation en IA doit permettre de former et de financer une cible d’au moins 2000 étudiants en 1er cycle (DUT / licence / licence pro), 1500 étudiants en master et 200 thèses supplémentaires par an.
+
+Un nouveau diagnostic national sera conduit en 2022 pour évaluer l’impact de la Stratégie nationale sur l’offre de formation initiale depuis la publication du Rapport Villani. Il dressera un recensement exhaustif de l’existant et conduira à la création d’un Portail national de recensement des formations à la science des données, à l’IA et à la robotique. Il permettra à l’ensemble des étudiants de mieux repérer les établissements pour effectuer leurs choix.
+
+Un second diagnostic relatif à la formation continue à la science des données, à l’IA et à la robotique sera conduit dans le secteur de la formation professionnelle et de la préparation de l’économie française aux métiers numériques automatisés du futur.
+
+Mesure : Lancement d’un programme de formation massif à l’IA (276M€)"
+"2","","Positionner l’économie française sur des domaines d’avenir de l’IA","","","Avec cette deuxième phase, notre pays renforce son soutien à l’innovation de rupture en IA en misant sur des tendances de marché prometteuses et émergentes. Nous investirons:
+
+• sur des segments de marché économiquement contestables et à fort potentiel de croissance comme l’IA décentralisée et embarquée
+
+• sur des technologies d’IA de confiance indispensables à la transformation numérique des bases industrielles françaises
+
+• sur des technologies d’IA frugales compatibles avec la transition écologique"
+"3","","Un nouveau programme de recherche pour lever certains verrous scientifiques de l’IA","","","La phase initiale du volet recherche de la Stratégie nationale pour l’IA s’est traduite par un très net renforcement de moyens pour les équipes de la recherche française en IA, avec une logique de concentration assumée autour de quelques centres interdisciplinaires sélectionnés par un jury international (les 3IA).
+
+Outre l’amélioration des conditions de rémunération et de travail grâce à la création de 190 chaires environnées, c’est la formation à l’échelle de la nouvelle génération d’experts pour la recherche publique, privée et les entreprises deeptech qui a été principalement visée : près de 500 doctorats supplémentaires.
+
+Le PIA 4 financera également une deuxième étape très substantielle du volet recherche de la Stratégie nationale, grâce à une enveloppe de 73 M€ couvrant à la fois la recherche amont et les actions de pré-maturation et maturation des travaux de recherche. 61 M€ de crédits budgétaires viendront compléter ce financement.
+
+Les priorités seront les suivantes :
+
+• recherche sur l'IA embarquée (composants et architectures nanoélectroniques, couches logicielles et interfaces composants/logiciels) et l'IA frugale (en données / en puissance de calcul / efficience énergétique) ;
+
+• recherche sur l'IA décentralisée (complémentarités et alternatives entre les architectures décentralisées et le cloud pour l'IA) et l'IA de confiance dans les systèmes critiques et complexes, et notamment les principes d'alignement du fonctionnement avec les fonctions d'objectifs, de généralisation, de robustesse, d'explicabilité ou interprétabilité, de limitation des biais, les risques de cybersécurité spécifiques aux systèmes d'IA ainsi que les technologies natives de protection des données sensibles ;
+
+• recherche sur l'approfondissement des fondements mathématiques de l'IA, permettant de renforcer les interfaces entre les mathématiques et les autres disciplines.
+
+En outre, une partie de l’enveloppe sera dédiée au financement d’un programme d’attractivité autour de chaires internationales de recherche. Le Programme « Choose France » aura pour objectif de recruter une quinzaine de scientifiques internationaux de haut niveau en IA pour venir enseigner et faire de la recherche en France.
+
+Le cadrage scientifique sera conjointement élaboré dans les prochaines semaines par les 3 pilotes retenus : CEA, CNRS et Inria.
+
+L’UE ayant fait de l’IA une grande priorité stratégique, l’effet de levier potentiel via des appels à projets européens pourra être substantiel et devra être recherché. Le programme Horizon
+
+Europe sera en effet doté de 2,6 milliards de financements pour la recherche en IA sur la période 2021-2027. Les organismes nationaux de recherche devront mettre leurs outils de veille et d’aide au montage des dossiers en synergie, au bénéfice des scientifiques afin d’alléger leurs tâches administratives, afin de potentialiser cet effet de levier.
+
+La coordination du volet recherche de la Stratégie nationale pour l'IA continuera d’être assurée par Inria pour le compte du MESRI.
+
+Mesure : Programme pour la recherche en IA (134 M€)."
+"2","","Saisir la fenêtre d’opportunité de l’IA décentralisée et embarquée","","","En lien direct avec l’essor rapide de l’internet des objets, l’arrivée de la 5G et le développement du calcul décentralisé (« edge computing ») attendu dans les 5 prochaines années, l’IA décentralisée ou embarquée (« edge AI, embedded AI ») représente un marché à très forte croissance. Le marché des puces dédiées à l’IA embarquée pourrait ainsi tripler d’ici 2025 pour atteindre un niveau supérieur à 50 Mds$ (instituts Omdia, Tractica, Global Market Insights).
+
+Le calcul décentralisé au plus près des objets connectés, ou embarqué en leur sein, correspond à la deuxième vague de diffusion des technologies d’IA. La première a principalement concerné des applications peu critiques destinées au consommateur (B2C). L’IA décentralisée ou embarquée concerne davantage les services aux entreprises ainsi que les réseaux industriels et les équipements collectifs de la Nation (B2B, B2G).
+
+L’essor des objets connectés exigera des traitements locaux de données de plus en plus perfectionnés et de plus en plus intelligents pour en tirer le plein potentiel.
+
+Déjà déployés de manière pionnière dans de nombreux secteurs, les cas d’usage de l’IA embarquée ne vont donc cesser de s’étendre, à commencer par les systèmes de transport connectés ou autonomes (trains, voitures, navires, avions).
+
+Dans l’industrie 4.0, l’automatisation renforcée des chaînes de production, la maintenance prédictive, le contrôle-qualité, les fonctions de stockage ou encore de préparation de commandes, donnent progressivement naissance à une robotique de nouvelle génération largement fondée sur l’IA.
+
+L’IA embarquée fonctionnera en complémentarité avec le cloud, et sera même souvent pilotée ou consolidée au sein de celui-ci. Mais elle constitue une nouvelle tendance de fond. La Commission européenne estime que si 80 % des flux de données sont actuellement traités dans le cloud centralisé, contre 20 % localement environ, ce rapport pourrait s’inverser d’ici 5 ans.
+
+Pour assurer leur avenir industriel, la France et ses partenaires européens doivent impérativement se positionner rapidement sur ce marché global, qui n’est pas encore préempté, même par les plus grands acteurs numériques internationaux. La France dispose d’atouts solides pour y parvenir.
+
+Elle peut d’abord s’appuyer sur le dynamisme de son écosystème de recherche-innovation en électronique, ingénierie et informatique.
+
+Elle possède également des bases industrielles diversifiées et de grandes entreprises de taille internationale : équipementiers et constructeurs automobiles, industriels de défense, opérateurs de réseaux urbains, d’énergie ou de télécommunications ont fait de l’IA embarquée une priorité dans leur feuille de route stratégique.
+
+Le renouveau entrepreneurial français s’exprime enfin à travers le foisonnement créatif des startups spécialisées en IA, et pas seulement dans le domaine logiciel ou des services
+
+numériques : c’est tout un écosystème qui a décidé de relever les défis de l’embarqué jusque dans les composants électroniques dédiés à l’IA.
+
+Les actions financées pourront concerner tout l’éventail technologique de l’IA embarquée, du composant jusqu’aux modèles et aux plateformes déployés en production, sans omettre leur intégration dans des systèmes numériques ou cyber-physiques plus larges.
+
+Chaque fois que possible, les actions seront conduites en imbrication avec les dispositifs européens du Plan coordonné pour l’IA : Electronic Components and Systems for European Leadership (ECSEL), projets nanoélectroniques importants d’intérêt européen commun (IPCEI), plateformes de test et d’expérimentation pour l’IA du Programme Europe Numérique (Testing & Experimentation Facilities, TEFs), etc.
+
+Au total, la deuxième phase de la stratégie nationale pour l’IA consacrera 265 M€ de crédits du PIA 4, soit 40 % du total, à l’objectif de placer la France parmi les leaders mondiaux de l’IA embarquée dès 2025.
+
+Ces investissements ont pour objectif :
+
+• de diffuser des solutions matérielles et logicielles d’IA embarquée à la pointe de l’état de l’art dans les secteurs économiques pour renforcer leur compétitivité, diminuer leurs coûts et optimiser leur consommation énergétique
+
+• de porter à maturité des architectures matérielles particulièrement avancées
+
+Mesure : Faire de la France un leader mondial de l’IA décentralisée et embarquée (635 M€ dont 265 M€ de financement public)."
+"2","","Occuper une place de premier rang pour l’IA de confiance","","","L’apprentissage automatique a enregistré des progrès fulgurants ces dix dernières années. Son déploiement rapide au sein de technologies qui le combinent avec d’autres disciplines de l’IA, ou de l’informatique en général, peut cependant avoir un impact direct sur les vies ou sur l’autonomie humaines.
+
+Il est indispensable de s’assurer que le fonctionnement de tels systèmes automatisés repose sur des résultats corrects, fiables, robustes, sûrs, sécurisés (en particulier en cas d'attaques adverses), interprétables, équitables, éthiques et respectueux des données sensibles à protéger.
+
+Dès son lancement en 2018, la Stratégie nationale pour l’intelligence artificielle a priorisé parmi ses actions le traitement effectif des enjeux de l’IA de confiance. Le précédent Programme d’investissements d’avenir, le PIA 3, a ainsi financé le lancement d’un « Grand Défi » intitulé « Sécuriser, certifier et fiabiliser les systèmes fondés sur l’intelligence artificielle ».
+
+Grand défi « Confiance.ai»
+
+Doté à l’origine de 45 millions d’euros de cofinancements public-privé sur 4 ans, il est structuré autour de deux pôles territoriaux majeurs de l’IA française, le Plateau de Saclay et Toulouse. Chaque pôle bénéficie de l’appui d’un centre interdisciplinaire d’IA, respectivement l’Institut Data-IA de l’Université Paris Saclay et ANITI, créé en 2019 et financé par la Stratégie nationale pour l’IA. En outre, le programme franco-québécois DEEL contribue aussi au projet depuis le pôle toulousain.
+
+Initialement impulsé par un collectif de 9 industriels français et de 4 organismes de recherche publics, le pilier technologique du Grand Défi, le Programme « Confiance.ai » a suscité une dynamique d’adhésion : Air Liquide, Airbus, Atos, Naval Group, Renault, Safran, Sopra Steria, Thales, Valeo, ainsi que le CEA, Inria et les Instituts de recherche technologique Saint-Exupéry (Toulouse) et SystemX (Saclay).10 Le nombre de partenaires atteindra la quarantaine fin 2021. Outre les entreprises Apsys et Numalis, deux établissements publics d’importance contribueront au projet : le Laboratoire National d’Essais et l’ONERA
+
+10 Air Liquide, Airbus, Atos, Naval Group, Renault, Safran, Sopra Steria, Thales, Valeo, ainsi que le CEA, Inria et les Instituts de recherche technologique Saint-Exupéry (Toulouse) et SystemX (Saclay).
+
+De manière convergente, la Commission Européenne entend positionner l’Europe en pointe dans le domaine de l’IA de confiance, ainsi qu’en témoignent la proposition de règlement européen horizontal sur l’IA, l’ajustement des régimes de responsabilité du fait des produits et la transformation de la « directive Machines » en règlement.
+
+Le niveau d’ambition du projet de règlement, sans équivalent à ce jour ailleurs dans le monde, exigera beaucoup d’efforts tant de la part des acteurs économiques que des régulateurs pour que sa mise en œuvre opérationnelle soit un succès. A sa façon, il aura un impact au moins aussi fort que le RGPD.
+
+Il est donc indispensable d’accélérer le développement des solutions techniques permettant aux industriels de répondre à ses exigences pour les applications qualifiées « à haut risque ».
+
+Indépendamment de la nécessité de développer des technologies d’auditabilité, d’évaluation, de certification ou garantissant la transparence et ou d’explicabilité des résultats des algorithmes pour assurer un bon niveau de contrôle et de fiabilité des IA, ces technologies constitueront un marché à fort potentiel et seront indispensable pour la diffusion et l’adoption de l’IA par l’industrie (« systèmes critiques ») et de nouveaux produits (véhicules autonomes).
+
+Sur le marché mondial de 9 secteurs clés pour l’économie (aéronautique, automobile, ferroviaire, énergie et réseaux, minerais et métaux, pétrole et gaz, pharmaceutique, assurance et banque), les investissements privés dans des projets dédiés à l’IA en 2021 ont été chiffrés à hauteur de 80 Mds €, dont 52 Mds € dédiés à des applicatifs d’IA nécessitant de la confiance11. La France peut légitimement afficher une ambition forte sur ce segment marché, à condition de prévoir de passer en phase de commercialisation rapidement et à l’échelle requise pour concrétiser cette ambition.
+
+En continuité avec l’action pour l’IA de confiance engagée depuis 2018 et en anticipation de la future réglementation européenne, la présente deuxième phase de la stratégie IA prévoit au total 80 M€ de moyens publics de financement pour prolonger l’impulsion du Grand Défi « Sécuriser, certifier et fiabiliser les systèmes fondés sur l’intelligence artificielle » et contribuer à faire de la France un leader mondial de l’IA de confiance. Ces investissements ont pour objectif :
+
+• de valider en conditions réelles les solutions de sécurité, sûreté et certification développées par le programme Confiance.ai
+
+• de mettre sur pied des plateformes multi-acteurs ouvertes aux écosystèmes visant mettre à disposition de tous types d’entreprises des outils pour intégrer des logiciels d’IA sur des composants, et tester et qualifier ces systèmes
+
+• de construire un partenariat industriel franco-allemand sur le développement d’une IA de confiance, capable de fédérer les écosystèmes industriels européens sur ces enjeux
+
+Mesure : Soutenir le développement d’une IA de confiance pour accélérer son appropriation au sein des secteurs économiques (226 M€ dont 80 M€ de financement public).
+
+11 Rapport intermédiaire d’EY “Sans confiance, quel avenir pour l’Intelligence Artificielle dans l’industrie ? »"
+"3","","Accélérer la diffusion des systèmes d’IA responsables pour moderniser l’économie — Faciliter l’industrialisation de l’IA et l’accès aux données par des services","","","Comme les autres vagues de technologies numériques avant elle, l’IA connaît un vaste mouvement de création de services destinés à accélérer et simplifier son déploiement dans les entreprises dans de bonnes conditions de sécurité. Il comporte plusieurs dimensions :
+
+• Les briques technologiques associées au cycle de la donnée ;
+
+• Les fonctionnalités d’automatisation des opérations de sélection des hyper-paramètres des modèles de sciences des données et d’IA, regroupées sous l’appellation AutoML (automated machine learning) ;
+
+• Les enjeux de passage à l’échelle d’ordre logiciel, lorsque les prototypes de modèles sont exposés à de grands nombres d’utilisateurs. C’est la terminologie MLOps (machine learning operations) qui prévaut ;
+
+• Les enjeux de « démocratisation technique » par l’intermédiaire de plateformes accessibles aux non informaticiens (Low Code).
+
+• La stratégie d’accélération accompagnera ce mouvement pour faciliter l’appropriation et la diffusion des technologies d’IA, en s’attachant à favoriser le développement d’un écosystème souverain, national ou européen.
+
+Afin de couvrir l’ensemble de ces besoins, 361 M€ seront dédiés à un plan d’action visant à accélérer la diffusion de cette technologie au sein des secteurs économiques, à accompagner les PME dans leur transformation et à donner davantage de visibilité à l’écosystème des acteurs émergents. 259 M€ de financements publics seront dirigés vers la mise en œuvre de ces dispositifs. Le développement de l'écosystème Scikit-Learn, l'une des librairies de référence au niveau international, initiée et portée depuis le début par Inria, pour la préparation, l'exploration et la visualisation de données et plus généralement pour la science des données ainsi que pour l'apprentissage automatique non profond, offrira des solutions à ces besoins.
+
+Les projets pourront aussi consister dans le développement de nouvelles briques permettant de mieux traiter l'intégralité du cycle de vie des données et des modèles de science des données, notamment les modèles profonds.
+
+Mesure : Développer des solutions innovantes et des plateformes souveraines et interopérables pour le développement d’applications IA ou de sciences des données (32 M€ de financement public)
+
+En décembre 2011, une vingtaine de chercheurs et codeurs se retrouvent en marge d’une grande conférence d’IA. Ils sont venus des quatre coins du monde pour travailler sur un embryon de plateforme, appelé scikit-learn. C’est la première fois qu’ils rencontrent le noyau de chercheurs français à l’origine du projet.
+
+Le défi est d’alimenter un projet collaboratif assemblant une grande variété d’algorithmes, briques élémentaires de la science des données et de l’IA. C'est la naissance d'une boîte-à-outils destinée à un grand avenir. L’ambition du projet est de faciliter l’échange et le travail collaboratif entre chercheurs afin d’aboutir à un outil robuste et utilisable sur des applications industrielles ou d’intérêt social.
+
+La suite sera marquante pour ces chercheurs et codeurs dont le travail a eu un impact incroyable sur le monde industriel (63% des utilisateurs) et académiques. 10 ans après, scikit-learn est utilisé par des millions de data scientists quotidiennement et figure au 4ème rang des étoiles GitHub. L’écosystème bénéficie de plus de 35000 citations scientifiques. Le logiciel sert aujourd’hui de base à toutes les formations d’IA."
+"2","","Développer l’écosystème de startups en IA","","","Le soutien à la création d’entreprises d’IA provenant de la recherche partenariale ou du ponde académique sera fortement encouragé. A titre d'illustration, Inria s’est fixé comme objectif de multiplier par 10 d’ici 5 ans le nombre de créations annuelles d’entreprises deeptech. Cette action vient en complément du plan deeptech et des outils de financement de l’écosystème de startups (fonds national d’amorçage, French Tech Seed, etc).
+
+Mesure : Financer le passage à l’échelle des incubateurs/accélérateurs de startups issus du monde académique ou de la recherche partenariale (40 M€ dont 25 M€ de financement public)."
+"2","","Faciliter l’appropriation de l’IA par les petites et moyennes entreprises","","","La capacité de l’ensemble du tissu économique à accomplir sa transformation numérique, dont l’adoption des technologies d’IA au sein du processus de production, de distribution et de relation client est décisive pour la compétitivité.
+
+Une action permettant de renforcer les outils d’aide à la découverte, de diagnostic et d’accompagnement dans une logique d’adaptation de filière ou à chaque entreprise sera déployée, le cas échéant en coopération avec les collectivités régionales. Des opérateurs qualifiés seront sélectionnés.
+
+Lancée au titre du plan de relance dès 2022, cette mesure permettra d’accompagner les PME et ETI de tous secteurs pour l’intégration de solutions permettant de répondre à leurs problématiques de coûts et de consommation énergétique, renforçant ainsi leur compétitivité.
+
+Le dispositif mettra les PME et ETI en relation avec les offres de start-ups spécialisées sur l’IA afin de moderniser leurs processus de production ou leurs processus internes.
+
+Seront particulièrement concernées les solutions d’optimisation de processus, d’automatisation logistique, de contrôle-qualité, de maintenance prédictive, d’automatisation de la relation-client, etc.
+
+Le soutien pourra intégrer :
+
+• Audit de la stratégie et du pilotage de l’entreprise en lien avec une transformation numérique et des cas d’usage d’IA
+
+• Définition de projets dont le retour potentiel sur investissement est élevé
+
+• Accompagnement à la conception et au début du déploiement
+
+• Retour d’expérience sur les preuves de concept et le déploiement du projet
+
+Mesure : Accompagner 500 PME et ETI dans l’adoption et l’intégration de solutions d’IA pour accélérer leur modernisation (25 M€ de financement public)."
+"2","","Développement des usages au service de la transition écologique","","","L'IA présente des opportunités significatives pour accélérer la lutte contre le climatique. De très nombreuses applications sont possibles telles que la prévision de la production d'énergies renouvelables, la modélisation des choix de rénovation des bâtiments, l’optimisation des réseaux de transports, l’agriculture de précision.
+
+Dans le même temps, chaque application de l'IA a aussi une incidence sur le climat via la consommation énergétique liée à son utilisation.
+
+Afin d’accélérer le déploiement de solutions écologiquement responsables, des démonstrateurs seront cofinancés en coopération avec les collectivités territoriales. Ceux-ci auront pour objectif de faire usage d’une IA frugale en énergie au service des défis et objectifs environnementaux des collectivités, tout en validant en environnement réel des technologies d’acteurs émergents à la pointe de l’état de l’art.
+
+Mesure : Mise en place de démonstrateurs d’une IA frugale dans des domaines clés de la transition écologique (120 M€ dont 80 M€ de financement public)."
+"2","","Gouvernance","","","La stratégie est pilotée par le coordinateur national pour l’intelligence artificielle Renaud Vedel, et s’inscrit dans la gouvernance des crédits PIA et France 2030 par le Secrétariat général pour l’investissement (SGPI).
+
+La stratégie soutiendra l’animation de l'écosystème de l'IA au niveau national dans le cadre d'un partenariat-public privé
+
+Elle s’appuiera, sous la houlette de la French Tech, les actions déjà entreprises par différents acteurs comme la Commission IA de France Digitale, le Hub France IA, la Commission IA de Numeum, le Manifeste des Grandes entreprises pour l’IA, l’Innovation Makers Alliance et la Smart Building Alliance.
+
+Elle appuiera également les efforts de coordination en matière d’IA des pôles de compétitivité et des futurs pôles d’innovation numériques européens (eDIHs), en construction sur une échelle régionale.
+
+Cette animation comportera un volet dédié aux ressources de la recherche publique et partenariale (Programme national de recherche en IA, Alliance Allistène pour le numérique, Instituts Carnots impliqués dans l’IA, Initiative Teralab de l’Institut Mines-Télécom, programme EngageAI des Instituts de recherche technologique).
+
+Mesure : Rassembler le dynamisme des entreprises et l’excellence de la formation nationales en IA sous une bannière unifiée, visible à l’international (5 M€ de financement public)."
+"3","","Contacts presse","","","Cabinet de Bruno Le Maire presse.mineco@cabinets.finances.gouv.fr 01 53 18 42 68
+
+Cabinet de Frédérique Vidal secretariat.communication@recherche.gouv.fr 01 55 55 84 24 Cabinet de Cédric O presse@numerique.gouv.fr 01 53 18 43 10
+
+Secrétariat général pour l’investissement presse.sgpi@pm.gouv.fr 01 42 75 64 58"
