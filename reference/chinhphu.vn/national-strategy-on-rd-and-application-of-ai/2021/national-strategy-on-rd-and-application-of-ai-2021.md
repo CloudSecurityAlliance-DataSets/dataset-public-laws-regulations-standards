@@ -18,22 +18,22 @@ số 52-NQ/TW ngày 27 tháng 9 năm 2019 của Bộ Chính trị vê một sô 
 trương, chính sách chủ động tham gia cuộc Cách mạng công nghiệp lần thứ tư;
 Theo đề nghị của Bộ trưởng Bộ Khoa học và Công nghệ,
 QUYẾT ĐỊNH:
-| Điều 1. Ban hành Chiến lược quốc gia về nghiên cứu, phát triển và ứng
-dụng Trí tuệ nhân tạo đến năm 2030 (sau đây viết tặt là Chiên lược) với các
-nội dung sau:
 
-## I. QUAN ĐIỂM CHÍ ĐẠO |
+Điều 1. Ban hành Chiến lược quốc gia về nghiên cứu, phát triển và ứng dụng Trí tuệ nhân tạo đến năm 2030 (sau đây viết tặt là Chiên lược) với các nội dung sau
 
-1. Trí tuệ nhân tạo (TTNT) là một lĩnh vực công nghệ nền tảng của Cách mạng công nghiệp lân thứ tư, góp phân quan trọng tạo bước phát triên đột phá
+## I. QUAN ĐIỂM CHÍ ĐẠO
+
+1. Trí tuệ nhân tạo (TTNT) là một lĩnh vực công nghệ nền tảng của Cách
+mạng công nghiệp lân thứ tư, góp phân quan trọng tạo bước phát triên đột phá
 về năng lực sản xuật, nâng cao năng lực cạnh tranh quốc gia, thúc đây phát
 triên kinh tê tăng trưởng bên vững.
-
-2. Kế thừa và phát huy những thành tựu mới nhất của nhân loại, nghiên cứu, phát triên và ứng dụng TTNT găn với các nhiệm vụ, mục tiêu phát triển
+2. Kế thừa và phát huy những thành tựu mới nhất của nhân loại, nghiên
+cứu, phát triên và ứng dụng TTNT găn với các nhiệm vụ, mục tiêu phát triển
 kinh tê - xã hội, bảo đảm quộc phòng an ninh, phát triển khoa học và công
 nghệ; phát huy tiêm năng của doanh nghiệp, khai thác hiệu quả mọi nguồn
 lực; từng bước nhận chuyên giao, làm chủ, tiên tới sáng tạo công nghệ.
 
-| 3. Tập trung nguồn lực để tạo ra và phát triển các sản phẩm TTNT, dịch . )
+3. Tập trung nguồn lực để tạo ra và phát triển các sản phẩm TTNT, dịch . )
 vụ TTNT quan trọng mà Việt Nam có lợi thê cạnh tranh; đâu tư có trọng điểm
 ứng dụng TTNT trong một sô lĩnh vực liên quan tới quốc phòng an ninh,quản
 lý tài nguyên, môi trường và dịch vụ cho người dân; phát triên mạnh các |
@@ -47,7 +47,9 @@ công nghiệp lân thứ tư. Đên năm 2030, Việt Nam trở thành trung t�
 sáng tạo, phát triên các giải pháp và ứng dụng TTNT trong khu vực ASEAN
 và trên thê giới.
 
-1. Mục tiêu đến năm 2025 - a) Đưa TTNT trở thành lĩnh vực công nghệ quan trọng của Việt Nam
+### 1. Mục tiêu đến năm 2025
+
+a) Đưa TTNT trở thành lĩnh vực công nghệ quan trọng của Việt Nam
 | - Việt Nam nằm trong nhóm 5 nước dẫn đầu trong khu vực ASEAN và
 nhóm 60 nước dẫn đầu trên thế giới về nghiên cứu, phát triển và ứng dụng
 TINT; l |
@@ -72,7 +74,9 @@ gian chờ đợi và chỉ phí của người dân;
 thị, đặc biệt tại các thành phố lớn như Hà Nội, thành phô Hô Chí Minh và
 Đà Năng.
 
-2. Mục tiêu đến năm 2030 . | a) Đưa TINT trở thành lĩnh vực công nghệ quan trọng của Việt Nam
+### 2. Mục tiêu đến năm 2030
+
+a) Đưa TINT trở thành lĩnh vực công nghệ quan trọng của Việt Nam
 _..- Việt Nam năm trong nhóm 4 nước dẫn đầu trong khu vực ASEAN và
 nhóm 50 nước dẫn đầu trên thế giới về nghiên cứu, phát triên và ứng dụng
 TINT;
@@ -104,9 +108,10 @@ lao động và cải thiện chất lượng cuộc sông của người dân;
 - Cùng với chuyển đổi số, ứng dụng TTNT góp phần thúc đẩy tăng
 trưởng một sô ngành kinh tê. | | |
 
-....... HI. ĐỊNH HƯỚNG CHIẾN LƯỢC
-ni ...1. Xây dựng hệ thống văn bản quy phạm pháp luật và hành lang pháp lý
-liên quan đên TTNT : —
+## III. ĐỊNH HƯỚNG CHIẾN LƯỢC
+
+### 1. Xây dựng hệ thống văn bản quy phạm pháp luật và hành lang pháp lý liên quan đên TTNT
+
 - Xây dựng, hoàn thiện chính sách, pháp luật tạo hành lang pháp lý thông
 thoáng đáp ứng yêu cầu thúc đây nghiên cứu, phát triển và ứng dụng TTNT
 vào cuộc sông.
@@ -114,9 +119,8 @@ vào cuộc sông.
 tâm, tránh lạm dụng công nghệ và xâm phạm quyên, lợi ích hợp pháp của tô
 chức, cá nhân.
 
-### 2. Xây dựng hạ tầng dữ liệu và tính toán cho nghiên cứu, phát triển và
+### 2. Xây dựng hạ tầng dữ liệu và tính toán cho nghiên cứu, phát triển và ứng dụng TTNT
 
-ứng dụng TTNT .
 - Thúc đẩy chia sẻ dữ liệu phục vụ nghiên cứu, phát triển và ứng dụng
 TIMT, hình thành các cơ sở dữ liệu dùng chung, chia sẻ, mở đề nghiên cứu,
 phát triển các ứng dụng TTNT. Xây dụng cơ chê chia sẻ dữ liệu theo nguyên
@@ -126,7 +130,7 @@ nhân hay tô chức.
 - Tăng cường năng lực quốc gia về tính toán hiệu năng cao, tính toán
 đám mây, tính toán sương mù.
 
-### 3. Phát triển hệ sinh thái TTNT |
+### 3. Phát triển hệ sinh thái TTNT
 
 - Phát triển nguồn nhân lực: Triển khai phố cập kỹ năng cơ bản về ứng
 dụng TTNT và khoa học dữ liệu (KHDL,) nhăm thúc đây đổi mới sáng tạo cho
@@ -147,7 +151,9 @@ triên trong các lĩnh vực khác.
 - Thúc đẩy xây dựng các trung tâm ươm tạo và thu hút đầu tư cho phát
 triển doanh nghiệp TTNT: Triên khai các giải pháp huy động vôn đâu tư cho
 . phát triển các doanh nghiệp và thương hiệu vê TTNT ở Việt Nam.
-| 4. Thúc đấy ứng dụng TTNT | |
+
+### 4. Thúc đấy ứng dụng TTNT
+
 - Phát triển doanh nghiệp ứng dụng TTNT: Gia tăng số lượng các doanh
 nghiệp triển khai, phát triển và ứng dụng TTNT nhăm đáp ứng nhu câu trong
 : nước đôi với các lĩnh vực đã săn sàng về dữ liệu, công nghệ và kinh phí đầu
@@ -287,7 +293,9 @@ ngành, các cập, các tô chức, đoàn thê, cá nhân hiệu rõ vai trò,
 TTNT, các kỹ năng cơ bản cân thiết phải chuân bị để đón nhận, phát triển các
 ứng dụng TTNT, trong đó quan tâm đến giải pháp nâng cao nhận thức về quản
 lý thay đôi.
-| 3. Bộ Quốc phòng
+
+### 3. Bộ Quốc phòng
+
 ....- Triển khai xây dựng trung tâm cấp quốc gia về lưu trữ dữ liệu lớn và
 tính toán hiệu năng cao, tính toán đám mây, tính toán sương mù.
 - Thúc đẩy phát triển và triển khai các ứng dụng TTNT trong lĩnh vực
@@ -312,7 +320,7 @@ dụng thành tựu khoa học về TTNT.
 
 › R 9
 
-5. Bộ Giáo dục và Đào tạo... :
+### 5. Bộ Giáo dục và Đào tạo
 
 - Triển khai các chương trình đào tạo STEAM cho thanh thiếu niên; triển
 khai đại trà các chương trình phô cập kỹ năng xây dựng dữ liệu, ứng dụng
@@ -330,7 +338,9 @@ sinh viên, hô trợ sinh viên xác định được thê mạnh việc làm k
 động hóa quy trình nghiệp vụ của giáo viên; xác định các tiêu chí nhăm đạt
 mục tiêu học tập; cá nhân hóa việc học tập, nâng cao hiệu quả học tập có sự
 trợ giúp của giáo viên và trợ giảng ảo; hỗ trợ nâng cao nhận thức của sinh viên.
-. 6. Bộ Kế hoạch và Đầu tư :
+
+### 6. Bộ Kế hoạch và Đầu tư
+
 - Xây dựng cơ chế đặc thù cho các trung tâm đổi mới sáng tạo để thu hút
 các quỹ đầu tư mạo hiệm vào các doanh nghiệp khởi nghiệp sáng tạo về
 TTNT ở Việt Nam..
@@ -341,12 +351,12 @@ ngày 20 tháng 8 năm 2019 của Bộ Chính trị vê định hướng hoàn t
 chính sách, nâng cao chất lượng, hiệu quả hợp tác đâu tư nước ngoài đên
 năm 2030.
 
-### 7. Bộ Tài chính: l
+### 7. Bộ Tài chính
 
 Thúc đầy phát triển và ứng dụng TTNT trong lĩnh vực tài chính. Căn cứ
 theo quy định pháp luật cân đôi, bô trí kinh phí đê thực hiện Chiên lược.
 
-### 8. Bộ Công Thương '
+### 8. Bộ Công Thương
 
 - Tập hợp, chuẩn hóa, chia sẻ các bộ dữ liệu mở trong nước trong lĩnh
 vực công nghiệp là đâu vào cho các ứng dụng sẵn có, phục vụ cho nhu cầu
@@ -362,7 +372,9 @@ _„ - quản lý; tôi ưu hóa bán hàng, phân loại sản phâm; tôi ưu 
 quảng bá và đáp ứng nhu cầu hiền thị trang web trong thời gian thực; cá nhân
 hóa các khuyến nghị, cung cấp hỗ trợ trực tuyên với các trợ lý ảo và chatbot;
 tự động thanh toán tại cửa hàng và hoàn thiện phân phôi.
-9, Bộ Nông nghiệp và Phát triển nông thôn mm
+
+### 9. Bộ Nông nghiệp và Phát triển nông thôn
+
 - Tập hợp, chuẩn hóa, chia sẻ các bộ dữ liệu mở trong nước trong lĩnh
 vực nông nghiệp là đầu vào cho các ứng dụng sẵn có, phục vụ cho nhu cầu
 ứng dụng TTNT trong các lĩnh vực này
@@ -371,7 +383,9 @@ vực nông nghiệp là đầu vào cho các ứng dụng sẵn có, phục v�
 hóa quy trình sản xuất, nâng cao năng suất chât lượng sản phâm nông nghiệp,
 đảm bảo quy trình sản xuất, xuất xứ minh bạch, cung cấp thực phẩm sạch cho
 người tiêu dùng.
-| | 10. Bộ Giao thông vận tải |
+
+### 10. Bộ Giao thông vận tải
+
 Thúc đầy phát triển và triển khai các ứng dụng TTNT trong lĩnh vực giao
 thông, vận tải, logistics: tự động phát hiện định danh phương tiện giao thông,
 xác định tốc độ và tự động hóa quy trình xử lý tại các trung tâm giám sát điều
@@ -393,24 +407,31 @@ hợp với các dịch vụ tư vân du lịch thông mình hướng người d
 m xã hội quan điệm người dùng, góp phân nâng cao chât lượng quy hoạch và
 .. chất lượng dịch vụ du lịch thông minh.
 
-### 12. Bộ Lao động - Thương binh và Xã hội |
+### 12. Bộ Lao động - Thương binh và Xã hội
 
 . . Triển khai tư vấn đào tạo về TTNT và KHDL cho người lao động có nhu
 ] câu chuyên đôi nghệ nghiệp.
 
-13. Ngân hàng Nhà nước Việt Nam | in Thúc đấy phát triển và triển khai các ứng dụng TTNT trong lĩnh vực
+### 13. Ngân hàng Nhà nước Việt Nam
+
+Thúc đấy phát triển và triển khai các ứng dụng TTNT trong lĩnh vực
+
 .. ngân hàng: phân tích, dự đoán nhu câu vay vôn, đôi tượng vay vôn, hô trợ
 hoạt động cấp tín dụng; phát hiện các hành vi gian lận; cá nhân hóa các dịch
 „ vụ ngân hàng cho khách hàng; cung câp các dịch vụ hỗ trợ tức thời cho khách
 hàng thông qua các trợ lý ảo và chatbot.
-l 14. Bộ Tài nguyên và Môi trường.
+
+### 14. Bộ Tài nguyên và Môi trường
+
 Thúc đầy phát triển và triển khai các ứng dụng TTNT trong lĩnh vực tài
 nguyên và môi trường: dự báo sô liệu ngành tài nguyên môi trường, áp dụng
 TTNT trong quan trắc, thu nhận, đo đạc, điều tra, khảo sát vê đât đai và tài
 nguyên môi trường nhăm cung cấp và chia sẻ thông tin, dữ liệu quan trắc,
 điều tra cơ bản về đất đai và tài nguyên môi trường theo thời gian thực; đảm
 bảo xử lý hiệu quả ô nhiễm môi trường và ứng phó với biên đôi khí hậu.
-l „15 Bộ Y tế l
+
+### 15. Bộ Y tế
+
 - Tập hợp, chuẩn hóa, chia sẻ các bộ dữ liệu mở trong nước trong lĩnh
 vực y tế là đầu vào cho các ứng dụng sẵn có, phục vụ cho nhu câu ứng dụng
 TTNT trong các lĩnh vực này.
@@ -429,29 +450,29 @@ pháp lý của các đôi tượng liên quan tới TTNT. l
 Triển khai xây dựng trung tâm cấp quốc gia về lưu trữ dữ liệu lớn và tính
 toán hiệu năng cao, tính toán đám mây, tính toán sương mù.
 
-| Điều 2. Tổ chức thực hiện . .
-ni Bộ Khoa học và Công nghệ có trách nhiệm: Làm đầu mối tổng hợp
+## Điều 2. Tổ chức thực hiện
+
+1. Bộ Khoa học và Công nghệ có trách nhiệm: Làm đầu mối tổng hợp
+
 | tình hình thực hiện Chiên lược; chủ trì tô chức thực hiện Chiên lược; định kỳ
 hằng năm báo cáo Thủ tướng Chính phủ; tô chức sơ kêt việc thực hiện Chiên
 ... lược đến năm 2025 và xác định các nhiệm vụ, đề án ưu tiên cho giai đoạn tiệp
 .. theo đền năm 2030. l
-: | 2. Các bộ, ngành, cơ quan liên quan có trách nhiệm tổ chức triển khai
+2. Các bộ, ngành, cơ quan liên quan có trách nhiệm tổ chức triển khai
 thực hiện Chiến lược trong phạm vi chức năng, nhiệm vụ được giao và theo
 quy định pháp luật hiện hành.
-
-3. Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương có trách nhiệm triển khai thực hiện Chiên lược, bảo đảm tính thông nhât, đồng bộ với
+3. Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương có trách
+nhiệm triển khai thực hiện Chiên lược, bảo đảm tính thông nhât, đồng bộ với
 việc thực hiện kế hoạch phát triển kinh tê - xã hội của địa phương. Đây nhanh
 ứng dụng các giải pháp TTNT trong quản lý đô thị, quản lý xã hội và hành
 chính công. m
-
-4. Các viện nghiên cứu, trường đại học căn cứ vào nội dung và giải pháp của Chiến lược, xây dựng các nội dung triển khai, đề xuât giải pháp với các
+4. Các viện nghiên cứu, trường đại học căn cứ vào nội dung và giải pháp
+của Chiến lược, xây dựng các nội dung triển khai, đề xuât giải pháp với các
 bộ, ngành, địa phương.
-
-5. Các bộ, ngành, địa phương định kỳ hàng năm gửi báo cáo Bộ Khoa học và Công nghệ tình hình triển khai Chiên lược trước ngày 15 tháng 12 đê
+5. Các bộ, ngành, địa phương định kỳ hàng năm gửi báo cáo Bộ Khoa
+học và Công nghệ tình hình triển khai Chiên lược trước ngày 15 tháng 12 đê
 tông hợp, báo cáo Thủ tướng Chính phủ.
-
-### 6. Nguồn vốn thực hiện |
-
+6. Nguồn vốn thực hiện |
 - Nguồn vốn để thực hiện Chiến lược bao gồm nguồn vốn từ ngân sách
 nhà nước, vôn doanh nghiệp, tài trợ quốc tê và các nguôn vôn huy động hợp
 pháp khác theo quy định của pháp luật.

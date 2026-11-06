@@ -93,13 +93,18 @@ def parse_heading(text: str):
     """Return (section_id, section_name, id_kind) for a heading text. If no id
     pattern matches, section_id and id_kind are empty strings."""
     cleaned = clean_heading_text(text)
+    if len(cleaned) > 310:
+        return "", cleaned, ""
     for pat, kind in ID_PATTERNS:
         m = pat.match(cleaned)
         if m:
             if m.lastindex and m.lastindex >= 2:
                 title_part = m.group(2).strip()
+                has_delim = bool(re.match(r"^" + re.escape(m.group(1)) + r"\s*[:\.\-–—]", cleaned))
+                if not has_delim and title_part and re.match(r"^[a-z]", title_part):
+                    continue
                 if (pat is ID_PATTERNS[-1][0] or kind in ("letter", "roman")) and title_part and not (
-                    title_part[0].isupper() or "\u0600" <= title_part[0] <= "\u9fff"
+                    title_part[0].isupper() or "\u0590" <= title_part[0] <= "\u9fff"
                 ):
                     continue
                 sid_clean = m.group(1).rstrip(".")

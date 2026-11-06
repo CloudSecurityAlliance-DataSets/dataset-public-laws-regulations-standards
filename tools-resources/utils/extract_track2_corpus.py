@@ -185,16 +185,23 @@ def sort_blocks_column_aware(blocks: list[dict], page_w: float, page_h: float, r
         b_copy["lines"] = lines_keep
         text_blocks.append(b_copy)
 
-    # Detect 3-column landscape layouts (e.g. OAS 2022 Inter-American Cybersecurity Strategy Pillar pages)
+    # Detect 3-column landscape layouts (e.g. OAS 2022 Inter-American Cybersecurity Strategy pages)
     is_three_col = page_w > page_h and any(
         b.get("bbox", (0, 0, 0, 0))[0] >= page_w * 0.34
         and b.get("bbox", (0, 0, 0, 0))[2] <= page_w * 0.70
         and (b.get("bbox", (0, 0, 0, 0))[2] - b.get("bbox", (0, 0, 0, 0))[0]) <= page_w * 0.34
         for b in text_blocks
-    ) and any(
-        b.get("bbox", (0, 0, 0, 0))[0] >= page_w * 0.65
-        and (b.get("bbox", (0, 0, 0, 0))[2] - b.get("bbox", (0, 0, 0, 0))[0]) <= page_w * 0.34
-        for b in text_blocks
+    ) and (
+        any(
+            b.get("bbox", (0, 0, 0, 0))[2] <= page_w * 0.42
+            and (b.get("bbox", (0, 0, 0, 0))[2] - b.get("bbox", (0, 0, 0, 0))[0]) <= page_w * 0.34
+            for b in text_blocks
+        )
+        or any(
+            b.get("bbox", (0, 0, 0, 0))[0] >= page_w * 0.65
+            and (b.get("bbox", (0, 0, 0, 0))[2] - b.get("bbox", (0, 0, 0, 0))[0]) <= page_w * 0.34
+            for b in text_blocks
+        )
     )
 
     col_items = []
@@ -218,17 +225,17 @@ def sort_blocks_column_aware(blocks: list[dict], page_w: float, page_h: float, r
                 for ob in text_blocks
             )
         )
-        if is_band_heading:
-            col = "full"
-        elif is_three_col:
-            if bw <= page_w * 0.36 and x1 <= page_w * 0.38:
+        if is_three_col:
+            if bw <= page_w * 0.38 and x1 <= page_w * 0.42:
                 col = "col1"
-            elif bw <= page_w * 0.36 and x0 >= page_w * 0.33 and x1 <= page_w * 0.71:
+            elif bw <= page_w * 0.38 and x0 >= page_w * 0.36 and x1 <= page_w * 0.70:
                 col = "col2"
-            elif bw <= page_w * 0.36 and x0 >= page_w * 0.64:
+            elif bw <= page_w * 0.38 and x0 >= page_w * 0.65:
                 col = "col3"
             else:
                 col = "full"
+        elif is_band_heading:
+            col = "full"
         elif x1 <= page_w * 0.54:
             col = "left"
         elif x0 >= page_w * 0.46:

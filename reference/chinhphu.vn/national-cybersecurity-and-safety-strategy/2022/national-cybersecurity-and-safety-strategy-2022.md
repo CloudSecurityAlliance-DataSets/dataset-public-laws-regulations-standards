@@ -24,30 +24,30 @@ Theo đề nghị của Bộ trưởng Bộ Công an và Bộ trưởng Bộ Th�
 Truyền thông.
 QUYẾT ĐỊNH:
 
-## Điều 1. Phê duyệt Chiến lược An toàn, An ninh mạng quốc gia, chủ
+## Điều 1. Phê duyệt Chiến lược An toàn, An ninh mạng quốc gia, chủ động ứng phó với các thách thức từ không gian mạng đến năm 2025, tâm nhìn
 
-động ứng phó với các thách thức từ không gian mạng đến năm 2025, tâm nhìn
 2030 (sau đây gọi tặt là Chiên lược) với những nội dung chủ yếu sau đây: .
-L QUAN ĐIỀM
 
-1. Bảo đảm sự lãnh đạo toàn diện của Đảng, sự quản lý của Nhà nước trong công tác bảo đảm an toàn thông tin mạng và an ninh mạng (gọi tắt là an
+## I. QUAN ĐIỂM
+
+1. Bảo đảm sự lãnh đạo toàn diện của Đảng, sự quản lý của Nhà nước
+trong công tác bảo đảm an toàn thông tin mạng và an ninh mạng (gọi tắt là an
 toàn, an ninh mạng), chủ động ứng phó với các thách thức từ không gian
 mạng. Xây dựng lực lượng bảo đảm an toàn, an ninh mạng hiện đại, chuyên.
 nghiệp, có đủ nguôn nhân lực chât lượng cao đáp ứng yêu câu thực tiễn.
 
-2. An toàn, an ninh mạng là trọng tâm của quá trình chuyền đồi số, là trụ cột quan trọng tạo lập niềm tin số và sự phát triển thịnh vượng trong kỷ
+2. An toàn, an ninh mạng là trọng tâm của quá trình chuyền đồi số, là trụ
+cột quan trọng tạo lập niềm tin số và sự phát triển thịnh vượng trong kỷ
 nguyên số. An toàn, an ninh mạng là nhiệm vụ trọng yếu, thường xuyên, lâu
 dài nhằm khởi tạo và duy trì môi trường mạng an toàn, lành mạnh, tin cậy cho
 các cơ quan, tổ chức, doanh nghiệp và mỗi người dân. Đầu tư cho an toàn, an
 ninh mạng là đầu tư cho phát triển bền vững và tạo ra giá trị.
-
-3. Nắm bắt kịp thời, tận dụng hiệu quả các cơ hội do không gian mạng mang lại để phát triển kinh tế, xã hội, đồng thời chủ động phòng ngừa, sẵn
+3. Nắm bắt kịp thời, tận dụng hiệu quả các cơ hội do không gian mạng
+mang lại để phát triển kinh tế, xã hội, đồng thời chủ động phòng ngừa, sẵn
 sàng ứng phó để hạn chế các tác động tiêu cực, bảo đảm quốc phòng, chủ
 quyền, lợi ích, an ninh quốc gia, trật tự an toàn xã hội và tính bền vững của
 quá trình phát triển đất nước trong thời đại Cách mạng công nghiệp lần thứ tư.
-
-### 4. Phát huy sức mạnh của cả hệ thống chính trị và toàn xã hội, chủ động
-
+4. Phát huy sức mạnh của cả hệ thống chính trị và toàn xã hội, chủ động
 ứng phó từ sớm, từ xa với các nguy cơ, thách thức, hoạt động gây tồn hại tới
 chủ quyền, lợi ích, an ninh quốc gia trên không gian mạng và an toàn thông
 tin mạng quốc gia, trong đó cơ quan quản lý nhà nước giữ vai trò điều phối,
@@ -57,29 +57,29 @@ mạnh của quần chúng nhân dân là quan trọng, đột phá. Bộ Công 
 phòng, Bộ Thông tin và Truyền thông chia sẻ thông tin giám sát không gian
 mạng nhằm phục vụ công tác bảo đảm an toàn, an ninh mạng và bảo vệ chủ
 quyền quốc gia trên không gian mạng.
-
-5. Chuyên đổi căn bản về nhận thức và cách làm để thích ứng một cách chủ động, linh hoạt và giảm thiểu các nguy cơ, đe dọa an toàn, an ninh mạng
+5. Chuyên đổi căn bản về nhận thức và cách làm để thích ứng một cách
+chủ động, linh hoạt và giảm thiểu các nguy cơ, đe dọa an toàn, an ninh mạng
 (cyber resilience): Từ mô hình bảo vệ phân tán sang mô hình bảo vệ tập trung;
 từ bị động ứng cứu sự cố sang chủ động dự báo sớm, cảnh báo sớm, phòng
 ngừa và ứng phó hiệu quả; từ đơn độc bảo vệ, giấu kín thông tin bị tấn công
 mạng sang chủ động hợp tác, chia sẻ thông tin nhằm chủ động phòng ngừa và
 hỗ trợ xử lý sự cố, phục hồi hoạt động bình thường của hệ thống thông tin.
-
-6. Thúc đầy chuyên gia, nghiên cứu, phát triển tự chủ về công nghệ, sản phẩm, dịch vụ an toàn, an ninh mạng Việt Nam là giải pháp căn cơ bảo đảm
+6. Thúc đầy chuyên gia, nghiên cứu, phát triển tự chủ về công nghệ, sản
+phẩm, dịch vụ an toàn, an ninh mạng Việt Nam là giải pháp căn cơ bảo đảm
 an toàn, an ninh mạng quốc gia; phát triển thị trường, doanh nghiệp, năng lực
 cạnh tranh về an toàn, an ninh mạng, đưa Việt Nam trở thành quốc gia có
 năng lực cao về bảo đảm an toàn, an ninh mạng.
-
-7. Chủ động hội nhập quốc tế trong lĩnh vực an toàn, an ninh mạng trên tỉnh thần làm bạn, đối tác tin cậy, có trách nhiệm trong cộng đồng quốc tế, tôn
+7. Chủ động hội nhập quốc tế trong lĩnh vực an toàn, an ninh mạng trên
+tỉnh thần làm bạn, đối tác tin cậy, có trách nhiệm trong cộng đồng quốc tế, tôn
 trọng chủ quyền quốc gia trên không gian mạng của các nước khác, tuân thủ luật
 pháp quốc tế và các hiệp ước đa phương, song phương mà Việt Nam tham gia.
 
-## II. TÂM NHÌN ĐÉN NĂM 2030 |
+## II. TÂM NHÌN ĐÉN NĂM 2030
 
 Trở thành quốc gia tự chủ về an toàn, an ninh mạng để bảo vệ sự thịnh
 vượng của Việt Nam trên không gian mạng.
 
-## II. MỤC TIỂU
+## III. MỤC TIÊU
 
 ### 1. Mục tiêu tổng quát
 
@@ -92,7 +92,9 @@ hội; bảo vệ chủ quyên quôc gia trên không gian mạng và công cu�
 đôi sô quốc gia, quyên và lợi ích hợp pháp của tổ chức, cá nhân Việt Nam
 trên không gian mạng.
 
-2. Mục tiêu cụ thể đến năm 2025 a) Duy trì thứ hạng 25 đến 30 về Chỉ số an toàn, an ninh mạng theo đánh
+### 2. Mục tiêu cụ thể đến năm 2025
+
+a) Duy trì thứ hạng 25 đến 30 về Chỉ số an toàn, an ninh mạng theo đánh
 giá của Liên mình Viên thông quốc tê (Chỉ sô GCI).
 b) Xây dựng được hệ thống Thế trận An ninh nhân dân trên không gian
 mạng có khả năng chỉ huy, kêt nôi, chia sẻ thông tìn, tiệp nhận và xử lý sớm
@@ -134,7 +136,9 @@ phâm, dịch vụ an toàn thông tin mạng mới.
 | n) Kinh phí bảo đảm an toàn, an ninh mạng đạt tối thiểu 10% kinh phí
 chi cho khoa học công nghệ, chuyên đôi sô, ứng dụng công nghệ thông tin.
 
-3. Mục tiêu cụ thể đến năm 2030 a) Duy trì, nâng cao năng lực, thứ hạng về an toàn, an ninh mạng của
+### 3. Mục tiêu cụ thể đến năm 2030
+
+a) Duy trì, nâng cao năng lực, thứ hạng về an toàn, an ninh mạng của
 Việt Nam trên bảng xêp hạng toàn câu.
 b) Xây dựng được Thế trận An ninh nhân dân trên không gian mạng với
 sự tham gia đông đảo, tích cực của quân chúng nhân dân.
@@ -156,7 +160,9 @@ trưởng từ 10 - 20%.
 
 ## IV. NHIỆM VỤ, GIẢI PHÁP
 
-1. Tăng cường vai trò lãnh đạo của Đảng, quản lý của Nhà nước a) Thống nhất nhận thức từ trung ương tới địa phương về bảo đảm an
+### 1. Tăng cường vai trò lãnh đạo của Đảng, quản lý của Nhà nước
+
+a) Thống nhất nhận thức từ trung ương tới địa phương về bảo đảm an
 toàn, an ninh mạng là trách nhiệm của cả hệ thông chính trị, trong đó Ban Chỉ
 đạo An toàn, An ninh mạng quôc gia điều phôi chung sự phôi hợp giữa 4 lực
 lượng (các Bộ: Công an, Quôc phòng, Thông tin và Truyên thông và Ban
@@ -184,7 +190,9 @@ chê hợp tác giữa Nhà nước và các doanh nghiệp, hiệp hội doanh 
 xây dựng và thực thi các chính sách vê an toàn, an ninh mạng. Đây mạnh phô
 biên kỹ năng tham gia không gian mạng an toàn.
 
-2. Hoàn thiện hành lang pháp lý a) Bộ Công an
+### 2. Hoàn thiện hành lang pháp lý
+
+a) Bộ Công an
 - Xây dựng, hoàn thiện chính sách, pháp luật về bảo vệ an ninh mạng
 đông bộ, thông nhât từ trung ương đến địa phương theo định hướng điêu
 chỉnh đây đủ các lĩnh vực phát sinh hành vi sử dụng không gian mạng xâm
@@ -239,7 +247,8 @@ d) Bộ Quốc phòng, Bộ Công an, Bộ Thông tìn và Truyền thông và c
 cơ quan liên quan phôi hợp bảo vệ chủ quyên quôc gia trên không gian mạng
 theo đúng chức năng, nhiệm vụ được giao.
 
-4. Bảo vệ hạ tầng số, nền tảng số, dữ liệu số, cơ sở hạ tầng không gian mạng quôc gia
+### 4. Bảo vệ hạ tầng số, nền tảng số, dữ liệu số, cơ sở hạ tầng không gian mạng quôc gia
+
 a) Bảo vệ cơ sở hạ tằng không gian mạng quốc gia
 - Bảo đảm an toàn, an ninh mạng trong quá trình lựa chọn, triển khai các
 dịch vụ, công nghệ cho cơ sở hạ tâng không gian mạng quôc gia; ưu tiên sử
@@ -411,7 +420,9 @@ cường thu thập, phân tích, nghiên cứu, phán đoán và cảnh báo s�
 tin rủi ro bảo mật dữ liệu. Xây dựng cơ chê phản ứng khân cấp trong trường
 hợp xảy ra sự cô bảo mật dữ liệu.
 
-5. Bảo vệ hệ thống thông tin của các cơ quan Đảng, Nhà nước a) Chủ quản hệ thống thông tin
+### 5. Bảo vệ hệ thống thông tin của các cơ quan Đảng, Nhà nước
+
+a) Chủ quản hệ thống thông tin
 - Nâng cao trách nhiệm tự bảo vệ hệ thống thông tin thuộc phạm vi quản
 lý. Găn trách nhiệm của người đứng đâu cơ quan chủ quản hệ thông thông tin
 . . với trách nhiệm bảo đảm an toàn, an ninh mạng.
@@ -519,9 +530,8 @@ Nhà nước theo chức năng, nhiệm vụ được giao.
 
 mm 15
 
-### 6. Bảo vệ hệ thống thông tin của các lĩnh vực quan trọng cần ưu tiên bảo
+### 6. Bảo vệ hệ thống thông tin của các lĩnh vực quan trọng cần ưu tiên bảo đảm an toàn thông tin
 
-đảm an toàn thông tin
 a) Chủ quản hệ thống thông tin
 - Triển khai phương án bảo đảm an toàn thông tin theo cấp độ và mô
 hình bảo vệ 4 lớp đôi với hệ thông thông tin của các lĩnh vực quan trọng.
@@ -551,7 +561,8 @@ tin thuộc 11 lĩnh vực quan trọng cân ưu tiên bảo đảm an toàn th�
 (trừ các hệ thông thông tin thuộc phạm vi quản lý của Bộ Công an, Bộ Quốc
 phòng). | l
 
-7. Tạo lập niềm tin số, xây dựng môi trường mạng trung thực, văn minh, lành mạnh và phòng, chông vi phạm pháp luật trên không gian mạng
+### 7. Tạo lập niềm tin số, xây dựng môi trường mạng trung thực, văn minh, lành mạnh và phòng, chông vi phạm pháp luật trên không gian mạng
+
 a) Bộ Công an
 | - Xây dựng cơ chế, thiết lập đường dây nóng, hệ thống tiếp nhận, xử lý
 thông tin về tội phạm mạng từ không gian mạng để quân chúng nhân dân
@@ -624,9 +635,8 @@ quản lý.
 mạng uy tín, nhiều tương tác đê tuyên truyền, định hướng thông tin, dư luận
 và phản bác hiệu quả các thông tin tiêu cực về đất nước, con người Việt Nam.
 
-### 8. Làm chủ, tự chủ công nghệ, sản phẩm, dịch vụ đủ khả năng chủ động
+### 8. Làm chủ, tự chủ công nghệ, sản phẩm, dịch vụ đủ khả năng chủ động ứng phó với các thách thức từ không gian mạng
 
-ứng phó với các thách thức từ không gian mạng
 a) Làm chủ, tự chủ công nghệ
 - Bộ Thông tin và Truyền thông: |
 + Nghiên cứu và phát triển: |
@@ -779,7 +789,9 @@ _.- Tập trung đầu tư cho một số đề án, dự án lớn về tự ch
 Đâu tư và triên khai Đê án “Trung tâm nghiên cứu, giải mã, sản xuất, chế tạo
 sản phâm, dịch vụ công nghệ an toàn, an ninh mạng”.
 
-9. Đào tạo và phát triển nguồn nhân lực a) Bộ Thông tin và Truyền thông
+### 9. Đào tạo và phát triển nguồn nhân lực
+
+a) Bộ Thông tin và Truyền thông
 - Triển khai Đề án “Đào tạo và phát triển nguồn nhân lực an toàn thông
 tin giai đoạn 2021 - 2025”: nghiên cứu, đê xuất phương án thúc đầy hoạt động
 trong lĩnh vực này giai đoạn 2026 - 2030.
@@ -836,7 +848,8 @@ dưỡng nghiệp vụ và nghiên cứu khoa học về tác chiên không gian
 nghiên cứu, xây dựng chê độ, chính sách cho lực lượng tác chiên không gian
 mạng và các lực lượng tham gia bảo vệ Tô quốc trên không gian mạng.
 
-10. Tuyên truyền, phổ biến, nâng cao nhận thức và kỹ năng an toàn, an ninh mạng
+### 10. Tuyên truyền, phổ biến, nâng cao nhận thức và kỹ năng an toàn, an ninh mạng
+
 a) Bộ Thông tin và Truyền thông
 - Triển khai Đề án “Tuyên truyền, nâng cao nhận thức và phố biến kiến
 thức về an toàn thông tin giai đoạn 2021 - 2025”.
@@ -883,7 +896,9 @@ mạng; có biện pháp kỹ thuật hạn chê tin giả, tin sai sự thật,
 - Các tổ chức truyền thông, báo chí tăng cường thông tin về xu hướng, kiến
 thức, tình hình, nguy cơ, hậu quả an toàn, an ninh mạng thể giới và Việt Nam.
 
-11. Nâng cao uy tín quốc gia và hợp tác quốc tế a) Bộ Công an
+### 11. Nâng cao uy tín quốc gia và hợp tác quốc tế
+
+a) Bộ Công an
 - Chủ động mở rộng hợp tác quốc tế về bảo đảm an ninh mạng với các
 nước, đặc biệt là các nước đôi tác chiên lược có trình độ khoa học công nghệ
 tiên tiên, phục vụ sự nghiệp bảo vệ an ninh quốc gia, trật tự an toàn xã hội
@@ -944,7 +959,9 @@ d) Bộ Ngoại giao
 Phối hợp Bộ Công an, Bộ Quốc phòng, Bộ Thông tin và Truyền thông
 thúc đây hợp tác quôc tê với các quốc gia hàng đâu về an toàn, an ninh mạng,
 phù hợp với quy định của pháp luật.
-| 12. Đầu tư nguồn lực và bảo đảm kinh phí thực hiện
+
+### 12. Đầu tư nguồn lực và bảo đảm kinh phí thực hiện
+
 a) Bố trí đủ nhân lực chuyên trách, chịu trách nhiệm về an toàn, an ninh
 mạng trong các cơ quan, tô chức nhà nước.
 b) Đầu tư nguồn lực để xây dựng hệ thống kỹ thuật, công cụ và triển
@@ -965,9 +982,11 @@ trình quộc gia đê phát triển công nghệ cao, chương trình phát tri
 quôc gia đê phát triển sản phâm, dịch vụ, giải pháp nội địa và các nhiệm vụ
 nghiên cứu, phát triên, chuyên giao công nghệ thuộc Chiên lược.
 
-## V. TÔ CHỨC THỰC HIỆN l
+## V. TÔ CHỨC THỰC HIỆN
 
-1. Ban Chỉ đạo An toàn, An ninh mạng quốc gia a) Giúp Thủ tướng Chính phủ, Trưởng Ban Chỉ đạo An toàn, An ninh
+### 1. Ban Chỉ đạo An toàn, An ninh mạng quốc gia
+
+a) Giúp Thủ tướng Chính phủ, Trưởng Ban Chỉ đạo An toàn, An ninh
 mạng quôc gia chỉ đạo sơ kêt, tông kêt việc thực hiện Chiên lược này.
 | b) Đề xuất với Thủ tướng Chính phủ chỉ đạo, điều phối xử lý các vần đề
 mới, quan trọng, liên ngành, chưa được quy định hoặc chồng chéo, phức tạp
@@ -976,7 +995,9 @@ Về an toàn, an ninh mạng trong nội dung Chiên lược này, cần sự p
 
 em 27
 
-2. Bộ Công an a) Chủ trì, phối hợp hướng dẫn, đôn đốc, kiểm tra các cơ quan, tổ chức,
+### 2. Bộ Công an
+
+a) Chủ trì, phối hợp hướng dẫn, đôn đốc, kiểm tra các cơ quan, tổ chức,
 doanh nghiệp triển khai thực hiện các nội dung về an ninh mạng tại Chiên
 lược; tô chức sơ kêt, tông kêt, tổng hợp, báo cáo Thủ tướng Chính phủ tình
 hình thực hiện và đê xuất, kiên nghị nhiệm vụ mới cho phù hợp với tình hình
@@ -990,7 +1011,9 @@ tại các bộ, ngành có cơ sở hạ tâng không gian mạng, hạ tầng 
 trọng phục vụ chuyên đôi sô, phát triển kinh tê sô, xã hội sô theo chức năng,
 nhiệm vụ được giao.
 
-3. Bộ Thông tin và Truyền thông a) Chủ trì, phối hợp, hướng dẫn, đôn đốc, kiểm tra các cơ quan, tổ chức,
+### 3. Bộ Thông tin và Truyền thông
+
+a) Chủ trì, phối hợp, hướng dẫn, đôn đốc, kiểm tra các cơ quan, tổ chức,
 doanh nghiệp tô chức triên khai thực hiện các nội dung về an toàn thông tin
 mạng tại Chiên lược này; tô chức sơ kêt, tông kêt, tông hợp, báo cáo Thủ
 tướng Chính phủ tình hình thực hiện và đê xuât, kiên nghị nhiệm vụ mới cho
@@ -1002,14 +1025,16 @@ thông tại phân IV; thực hiện nhiệm vụ tại các Mục 1, điểm d 
 các điêm a và d Mục 4, điểm e Mục 5, điểm b Mục 6 phân IV theo chức năng,
 nhiệm vụ được giao.
 
-4. Bộ Quốc phòng a) Thực hiện phòng ngừa, ứng phó, xử lý các nguy cơ, thách thức từ
+### 4. Bộ Quốc phòng
+
+a) Thực hiện phòng ngừa, ứng phó, xử lý các nguy cơ, thách thức từ
 không gian mạng theo chức năng, nhiệm vụ được giao.
 b) Chủ trì, phối hợp với các bộ, ngành, địa phương và tổ chức, doanh
 nghiệp liên quan thực hiện các nhiệm vụ đã giao Bộ Quốc phòng tại phần IV;
 thực hiện nhiệm vụ tại các Mục 1, điêm d Mục 2, Mục 3, các điểm a và d Mục
 4, điêm e Mục 5, điêm b Mục 6 phân IV theo chức năng, nhiệm vụ được giao.
 
-### 5. Bộ Khoa học và Công nghệ |
+### 5. Bộ Khoa học và Công nghệ
 
 Chủ trì, phối hợp với Bộ Công an, Bộ Thông tin và Truyền thông và các
 cơ quan, tô chức, doanh nghiệp liên quan nghiên cứu, thực hiện chuyên giao
@@ -1033,10 +1058,12 @@ toàn, an ninh mạng; tăng cường hợp tác song phương với các quốc
 thê giới về an toàn, an ninh mạng; triên khai các biện pháp ngoại giao, hợp tác
 quôc tê vê an toàn, an ninh mạng.
 
-8. Bộ Kế hoạch và Đầu tư, Bộ Tài chính ưu tiên bố trí kinh phí từ ngân sách nhà nước đê triên khai các nhiệm vụ của Chiên lược theo quy định của
-pháp luật về đâu tư công, pháp luật về ngân sách nhà nước.
+### 8. Bộ Kế hoạch và Đầu tư, Bộ Tài chính
 
-9. Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, Uỷ ban nhân dân các tỉnh, thành phô trực thuộc trung ương
+Ưu tiên bố trí kinh phí từ ngân sách nhà nước đê triên khai các nhiệm vụ của Chiên lược theo quy định của pháp luật về đâu tư công, pháp luật về ngân sách nhà nước
+
+### 9. Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ, Uỷ ban nhân dân các tỉnh, thành phô trực thuộc trung ương
+
 a) Chủ trì, phối hợp Bộ Công an, Bộ Thông tin và Truyền thông tổ chức
 thực hiện các nhiệm vụ được giao tại Chiên lược.
 : b) Đầy mạnh hoạt động bảo đảm an toàn, an ninh mạng trong phạm vi
@@ -1066,7 +1093,9 @@ của Bộ Công an, Bộ Thông tin và Truyền thông về tình hình, kết
 khai Chiên lược đê tông hợp, báo cáo Thủ tướng Chính phủ theo quy định về
 chê độ báo cáo. m
 
-10. Ban Cơ yếu Chính phủ a) Phát triển hạ tằng mật mã quốc gia để bảo vệ thông tin phục vụ lãnh
+### 10. Ban Cơ yếu Chính phủ
+
+a) Phát triển hạ tằng mật mã quốc gia để bảo vệ thông tin phục vụ lãnh
 đạo, chỉ đạo, chỉ huy của Đảng, Nhà nước và các lực lượng vũ trang được
 truyền, lưu giữ trên không gian mạng.
 b) Chủ trì, phối hợp với Bộ Thông tin và Truyền thông, các cơ quan liên
@@ -1079,7 +1108,9 @@ chính trị theo quy định của pháp luật về cơ yêu.
 Căn cứ nội dung của Chiến lược này, tổ chức triển khai công tác bảo
 đảm an toàn, an ninh mạng trong hoạt động của doanh nghiệp theo hướng dẫn
 của Bộ Công an, Bộ Thông tin và Truyên thông.
-| 12. Hiệp hội An ninh mạng quốc gia, Hiệp hội An toàn thông tin Việt Nam
+
+### 12. Hiệp hội An ninh mạng quốc gia, Hiệp hội An toàn thông tin Việt Nam
+
 a) Phối hợp chặt chẽ với Bộ Công an, Bộ Thông tin và Truyền thông
 trong triên khai thực các nhiệm vụ tại Chiên lược.
 b) Vận động các hội viên, doanh nghiệp tích cực nghiên cứu, phát triển,
@@ -1088,7 +1119,9 @@ lượng cao; vận động các cơ quan, tô chức ưu tiên sử dụng sả
 giải pháp an toàn thông tin mạng Make in Viet Nam và giải pháp an ninh
 mạng tự chủ.
 
-13. Các doanh nghiệp viễn thông, Internet, doanh nghiệp chủ quản nền tảng số a) Chủ động, tích cực phối hợp triển khai công tác bảo đảm an toàn, an
+### 13. Các doanh nghiệp viễn thông, Internet, doanh nghiệp chủ quản nền tảng số
+
+a) Chủ động, tích cực phối hợp triển khai công tác bảo đảm an toàn, an
 ninh mạng trong hoạt động của doanh nghiệp.
 b) Tuân thủ các hướng dẫn, yêu cầu của Bộ Công an, Bộ Thông tin và
 Truyên thông trong hoạt động phát triển hạ tầng số, nên tảng số và bảo vệ dữ
@@ -1096,15 +1129,12 @@ liệu sô.
 - c) Định kỳ hàng năm hoặc đột xuất báo cáo Bộ Công an, Bộ Thông tin
 và Truyền thông tình hình, kết quả triển khai các nhiệm vụ theo hướng dẫn.
 
-## Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký banhành.. `
+## Điều 2. Quyết định này có hiệu lực thi hành kể từ ngày ký banhành
 
 30 . ? cụ +
 
-## Điều 3. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ
+## Điều 3. Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc trung ương và Thủ trưởng các cơ quan; tô chức, doanh nghiệp liên quan chịu trách nhiệm thi hành Quyêt định này
 
-quan thuộc Chính phủ, Chủ tịch Ủy ban nhân dân tỉnh, thành phố trực thuộc
-trung ương và Thủ trưởng các cơ quan; tô chức, doanh nghiệp liên quan chịu
-trách nhiệm thi hành Quyêt định này
 -.. Nơi nhận: „AT. THỦ TƯỚNG
 - Ban Bí thư Trung ương Đảng; DTf. HỦ TƯỚN
 - Thủ tướng, các Phó Thủ tướng Chính phủ; —_ 4 ƯỚNG

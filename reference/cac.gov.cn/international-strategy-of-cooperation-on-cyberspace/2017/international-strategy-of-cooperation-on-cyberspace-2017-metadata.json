@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted official HTML publication (https://www.xinhuanet.com/politics/2017-03/01/c_1120552767.htm) to Markdown (8,583 chars). Parsed 29 sections (27 with explicit section identifiers)."
+    "notes": "Extracted official HTML publication (https://www.xinhuanet.com/politics/2017-03/01/c_1120552767.htm) to Markdown (8,577 chars). Parsed 26 sections (23 with explicit section identifiers)."
   },
   "extraction_history": [
     {

@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Discovered primary PDF (https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/08/964qd.signed.pdf) from landing page (https://chinhphu.vn/?docid=206362&pageid=27160); extracted 30-page PDF via PyMuPDF + Tesseract OCR (vie) (64,398 chars). Parsed 17 sections (16 with explicit section identifiers)."
+    "notes": "Discovered primary PDF (https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/08/964qd.signed.pdf) from landing page (https://chinhphu.vn/?docid=206362&pageid=27160); extracted 30-page PDF via PyMuPDF + Tesseract OCR (vie) (64,360 chars). Parsed 37 sections (36 with explicit section identifiers)."
   },
   "extraction_history": [
     {

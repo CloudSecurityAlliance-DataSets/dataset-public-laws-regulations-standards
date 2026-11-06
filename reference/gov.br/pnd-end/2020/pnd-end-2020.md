@@ -346,9 +346,9 @@ rania dos Estados e defender que qualquer ação nesse sentido seja realizada de
 
 IV. buscar a manutenção do Atlântico Sul a redução das deficiências estruturais das na-
 
-XI. participar de operações internacionais, com os ditames do ordenamento jurídico como zona de paz e cooperação;
+XI. participar de operações internacionais, como zona de paz e cooperação;
 
-ções; da Diplomacia, para a conjugação dos internacional; e visando a contribuir para a estabilidade muninteresses conflitantes de países; e da Defesa,
+ções; da Diplomacia, para a conjugação dos com os ditames do ordenamento jurídico internacional; e visando a contribuir para a estabilidade muninteresses conflitantes de países; e da Defesa,
 
 V. priorizar os investimentos em Saúde, para a dissuasão ou o enfrentamento de ações dial e o bem-estar dos povos;
 
@@ -406,9 +406,9 @@ Trata da preservação da identidade nacional, de recursos orçamentários condi
 
 Em decorrência da análise dos ambientes
 
-Refere-se à participação do Brasil nos medos valores, das tradições e dos costumes a estatura político-estratégica do Brasil, com internacional e nacional e suas projeções, bem canismos de resolução de controvérsias do povo brasileiro, assim como dos objetivos a devida regularidade e continuidade, e com como da Concepção Política, são estabelecino âmbito dos organismos internacionais, fundamentais e comuns à toda a Nação, gao suporte das infraestruturas críticas, tais dos os Objetivos Nacionais de Defesa, os quais complementada pelas relações com toda a rantindo aos cidadãos o pleno exercício dos como transporte, energia e comunicação, devem ser interpretados como as condições a direitos e deveres constitucionais.
+Refere-se à participação do Brasil nos medos valores, das tradições e dos costumes a estatura político-estratégica do Brasil, com internacional e nacional e suas projeções, bem canismos de resolução de controvérsias do povo brasileiro, assim como dos objetivos a devida regularidade e continuidade, e com como da Concepção Política, são estabelecino âmbito dos organismos internacionais, fundamentais e comuns à toda a Nação, gao suporte das infraestruturas críticas, tais dos os Objetivos Nacionais de Defesa, os quais complementada pelas relações com toda a rantindo aos cidadãos o pleno exercício dos como transporte, energia e comunicação, devem ser interpretados como as condições a comunidade mundial, na busca de confiandireitos e deveres constitucionais.
 
-comunidade mundial, na busca de confianentre outros. Leva em conta a necessidade serem alcançadas e mantidas permanentemente ça mútua, pela colaboração nos interesses de contínuo aperfeiçoamento das técnicas pela nação brasileira no âmbito de Defesa.
+entre outros. Leva em conta a necessidade serem alcançadas e mantidas permanentemente ça mútua, pela colaboração nos interesses de contínuo aperfeiçoamento das técnicas pela nação brasileira no âmbito de Defesa.
 
 comuns e pela cooperação em assuntos de
 
@@ -526,9 +526,9 @@ Cerimônia de troca da bandeira em Brasília
 
 ## 2. CONCEPÇÃO ESTRATÉGICA DE DEFESA
 
-O Ministério da Defesa, demais ministérios externa e do ordenamento jurídico internacional, envolvidos e as Forças Armadas deverão increo Brasil poderá participar de arranjos de defesa mentar o apoio necessário à participação brasicoletiva e de operações internacionais, visando contribuir para a estabilidade mundial.
+O Ministério da Defesa, demais ministérios externa e do ordenamento jurídico internacional, envolvidos e as Forças Armadas deverão increo Brasil poderá participar de arranjos de defesa mentar o apoio necessário à participação brasicoletiva e de operações internacionais, visando leira nos processos de decisão sobre o destino contribuir para a estabilidade mundial.
 
-leira nos processos de decisão sobre o destino da Região Antártica, defendendo a exploração
+da Região Antártica, defendendo a exploração
 
 A integração regional contribui para a defesa daquele continente para fins de pesquisa cientí- do Brasil, fomenta a confiança e transparência
 
@@ -720,9 +720,9 @@ Tal condição requer, entre outros aspectos, o Sistema Nacional de Mobilizaçã
 
 tes adequada e que privilegie a interação e a inde 2007, o qual possui como órgão central o Misete funções logísticas (Engenharia, Manuten-
 
-A Capacidade de Desenvolvimento Tecnotegração dos diversos modais, de sorte que posnistério da Defesa e estrutura-se sob a forma de ção, Recursos Humanos, Salvamento, Saúde, lógico de Defesa proporciona o desenvolvimensam atuar de forma complementar.
+A Capacidade de Desenvolvimento Tecnotegração dos diversos modais, de sorte que posnistério da Defesa e estrutura-se sob a forma de ção, Recursos Humanos, Salvamento, Saúde, sam atuar de forma complementar.
 
-direções setoriais que responderão pelas neces-
+lógico de Defesa proporciona o desenvolvimendireções setoriais que responderão pelas neces-
 
 Suprimentos e Transporte), que, de forma harto e/ou modernização de Produtos de Defesa -
 
@@ -846,9 +846,9 @@ ter universal, exprime o conjunto da sociedade
 
 A composição dos efetivos deverá, pois, estar pelo Exército Brasileiro e pela Força Aérea Brasi-
 
-Para cumprir sua destinação constitucional, brasileira, e deverá, portanto, manter seu acesso em consonância com a política de emprego raleira é responsável pelo preparo e pelo emprego as Forças Armadas devem conceber suas esfacultado a todas as classes sociais.
+Para cumprir sua destinação constitucional, brasileira, e deverá, portanto, manter seu acesso em consonância com a política de emprego raleira é responsável pelo preparo e pelo emprego facultado a todas as classes sociais.
 
-cional dos recursos humanos, sendo imperativo da expressão militar do Poder Nacional.
+cional dos recursos humanos, sendo imperativo as Forças Armadas devem conceber suas esda expressão militar do Poder Nacional.
 
 truturas organizacionais e operacionais em torno
 
@@ -1152,9 +1152,9 @@ Importa, nesse contexto, a capacitação do País de uso pacífico, inclusive po
 
 do combustível nuclear, inclusive a conversão tecnologia nuclear, optou por empregá-la para cional condições de adaptar-se às circunstâncias e e seu enriquecimento, e da tecnologia de fins pacíficos, decisão consubstanciada no de servir-se do potencial de emprego que abrigam.
 
-construção de reatores nucleares;
+e) incrementar a capacidade de prover a construção de reatores nucleares;
 
-e) incrementar a capacidade de prover a texto constitucional e referendada pela adesão
+texto constitucional e referendada pela adesão
 
 Esses setores estratégicos apresentam elevadefesa nuclear; e do País ao Tratado de Não Proliferação de Arda complexidade, de forma que, ao mesmo temc) aprimorar as tecnologias e capacitações mas Nucleares.
 
@@ -1170,11 +1170,11 @@ Dessa forma, busca-se fomentar a pesquisa, d) promover a cooperação internacio
 
 No Setor Espacial, a Força Aérea, em con-
 
-No Setor Cibernético, as capacitações deso desenvolvimento e a inovação, com foco nas áreas de concepção, de projeto, de desenjunto com a Agência Espacial Brasileira, por intinar-se-ão ao mais amplo espectro de emprego tecnologias que permitam o planejamento e a volvimento e de operação de sistemas espatermédio de todo o complexo científico-tecnodual. Incluirão, como parte prioritária, as tecnoexecução das atividades Cibernéticas no âmbiciais, com vistas a acelerar a aquisição de lógico e da interação com a Base Industrial de logias de comunicações entre as unidades das to do Setor de Defesa e que contribuam com a Forças Armadas, de modo a assegurar sua inte-
+No Setor Cibernético, as capacitações deso desenvolvimento e a inovação, com foco nas áreas de concepção, de projeto, de desenjunto com a Agência Espacial Brasileira, por intinar-se-ão ao mais amplo espectro de emprego tecnologias que permitam o planejamento e a volvimento e de operação de sistemas espatermédio de todo o complexo científico-tecnodual. Incluirão, como parte prioritária, as tecnoexecução das atividades Cibernéticas no âmbiciais, com vistas a acelerar a aquisição de lógico e da interação com a Base Industrial de logias de comunicações entre as unidades das to do Setor de Defesa e que contribuam com a conhecimento científico e tecnológico.
 
 Defesa, tem as seguintes atribuições:
 
-conhecimento científico e tecnológico.
+Forças Armadas, de modo a assegurar sua inte-
 
 Segurança Cibernética no âmbito nacional, enroperabilidade e a capacidade de atuar de forma volvendo a comunidade acadêmica doméstica integrada, com segurança.
 
@@ -1272,11 +1272,11 @@ trapor à concentração de forças hostis nas e distribuição de água; geraç
 
 Significa incrementar todo tipo de meios de proximidades das fronteiras, dos limites das distribuição de energia elétrica; transporte;
 
-que dispõe a Nação (infraestruturas, instaladas e produção e distribuição de combustíveis; e potenciais, e capital humano), assim como aper-
-
-ED-3 Regularidade orçamentária comunicações, entre outros.
+que dispõe a Nação (infraestruturas, instaladas e produção e distribuição de combustíveis; e potenciais, e capital humano), assim como apercomunicações, entre outros.
 
 feiçoar os procedimentos de emprego dos recursos utilizados na aplicação das expressões do
+
+### ED-3 Regularidade orçamentária
 
 AED-14 Buscar a destinação de recursos or-
 
@@ -1314,11 +1314,9 @@ AED-14 Buscar a destinação de recursos equipamento para as Forças Armadas, po
 
 AED-16 Intensificar a presença de diversos orçamentários e financeiros capazes de
 
-Significa o compromisso do poder público no meio da Lei Orçamentária Anual, no patamar atender as necessidades de articulação e setores governamentais nas áreas estratégisentido de se fazer presente, inclusive nas áreas de 2% do PIB.
+Significa o compromisso do poder público no meio da Lei Orçamentária Anual, no patamar atender as necessidades de articulação e setores governamentais nas áreas estratégisentido de se fazer presente, inclusive nas áreas cas de baixa densidade demográfica.
 
-cas de baixa densidade demográfica.
-
-menos favorecidas do País, para atender neces-
+menos favorecidas do País, para atender necesde 2% do PIB.
 
 ED-5 Dimensionamento do Setor de Defesa sidades básicas da população, promovendo a AED-17 Intensificar a contribuição de diversos integração e a cidadania e consolidando a iden-
 
@@ -1390,9 +1388,9 @@ Visa possibilitar ao Setor de Defesa metalidade seletiva, estimulando o desenvol
 
 AED-21 Articular as três Forças Singulares, lhores condições de planejar o emprego dos remento e a fabricação nacionais.
 
-AED-13 Buscar a regularidade e a cursos orçamentários, e, dessa forma, racionacom ênfase na interoperabilidade.
+AED-13 Buscar a regularidade e a com ênfase na interoperabilidade.
 
-previsibilidade orçamentária para o Setor de lizar o seu uso, tornando os gastos em defesa
+cursos orçamentários, e, dessa forma, racionaprevisibilidade orçamentária para o Setor de lizar o seu uso, tornando os gastos em defesa
 
 AED-22 Incrementar as capacidades das
 
@@ -1452,11 +1450,11 @@ Significa incrementar todo tipo de meios de de Operações Conjuntas (IDOC) da E
 
 AED-28 Adequar a composição dos efetivos çamentários e financeiros capazes de aten-
 
-Superior de Guerra como padronizador do potenciais, e capital humano), assim como aperder as necessidades de articulação e equiensino da doutrina e incentivador da pesquido Setor de Defesa, com base em uma polítifeiçoar os procedimentos de emprego dos recurpamento para as Forças Armadas, por meio sa sobre operações conjuntas.
+Superior de Guerra como padronizador do potenciais, e capital humano), assim como aperder as necessidades de articulação e equiensino da doutrina e incentivador da pesquido Setor de Defesa, com base em uma polítifeiçoar os procedimentos de emprego dos recursa sobre operações conjuntas.
 
 ca de racionalização dos recursos humanos.
 
-sos utilizados na aplicação das expressões do da Lei Orçamentária Anual, no patamar de
+pamento para as Forças Armadas, por meio sos utilizados na aplicação das expressões do da Lei Orçamentária Anual, no patamar de
 
 Poder Nacional, com ênfase na expressão militar.
 
@@ -1518,15 +1516,15 @@ aprimoramento dos instrumentos de gestão e cerias e intercâmbios na área de p
 
 AED-39 Estimular projetos de interesse
 
-AED-45 Promover as exportações da Base da defesa que empreguem produtos e
+AED-45 Promover as exportações da Base aperfeiçoamento de doutrinas operacionais.
+
+tecnologias de interesse da defesa.
+
+da defesa que empreguem produtos e
 
 Industrial de Defesa.
 
 tecnologias duais.
-
-tecnologias de interesse da defesa.
-
-aperfeiçoamento de doutrinas operacionais.
 
 AED-57 Promover a integração do Setor de
 
@@ -1848,13 +1846,15 @@ operações internacionais e nas ações de coopetratégica e com as atribuiçõ
 
 Continental brasileira. Ela deve ser interpretada ração com outros países e organismos estranritório, das águas jurisdicionais, da plataforma sob quatro vertentes: econômica, científica, am-
 
-AED-86 Intensificar a atuação do Setor de geiros, de modo a ampliar a participação dos pabiental e de soberania.
-
-continental e do espaço aéreo brasileiros.
+AED-86 Intensificar a atuação do Setor de geiros, de modo a ampliar a participação dos pa-
 
 Defesa em organismos internacionais.
 
 íses na discussão de temas de interesse global, conferindo às decisões maior legitimidade.
+
+biental e de soberania.
+
+continental e do espaço aéreo brasileiros.
 
 ATLÂNTICO SUL - É a região delimitada geo-
 
@@ -1932,11 +1932,11 @@ CAPACIDADE DE MOBILIDADE ESTRATÉGICA
 
 de se adaptar às variações de situação que se
 
-Manutenção, Recursos Humanos, Salvamento, permitir às Forças Armadas deslocar-se, rapipossam apresentar, no desenrolar do combate
+Manutenção, Recursos Humanos, Salvamento, permitir às Forças Armadas deslocar-se, rapi-
 
 Saúde, Suprimentos e Transporte).
 
-damente, para a área de emprego, no território ou missão recebida. 2 Capacidade de organi-
+damente, para a área de emprego, no território possam apresentar, no desenrolar do combate ou missão recebida. 2 Capacidade de organi-
 
 DEFESA NACIONAL - É o conjunto de atitunacional ou no exterior, quando assim impuser zar grupamentos operativos de diferentes valodes, medidas e ações do Estado, com ênfase
 
@@ -1952,9 +1952,9 @@ CAPACIDADE DE MOBILIZAÇÃO - É a capautilizando unidades aéreas para a realiz
 
 uma gama variada de tipos de missões, com o denada e sinérgica de órgãos governamentais cácia do emprego da expressão militar que está guerra naval ou aérea, ou para propiciar o início convergentes que atendam ao bem comum, evineutralização de suas forças navais, do ataque emprego, em cada caso, de táticas e armamende uma campanha terrestre; negar ao inimigo o tando a duplicidade de ações, dispersão de recuràs suas linhas de comunicação marítimas e aos tos adequados à operação a ser realizada. 4 uso de uma área capturada; apoiar operações sos e a divergência de soluções com eficiência, pontos de apoio.
 
-Característica decorrente de estruturas com mí- nima rigidez preestabelecida, faculta um númeeficácia, efetividade e menores custos.
+Característica decorrente de estruturas com mí- em terra; e salvaguardar a vida humana ou reseficácia, efetividade e menores custos.
 
-em terra; e salvaguardar a vida humana ou resgatar pessoas e materiais de interesse.
+nima rigidez preestabelecida, faculta um númegatar pessoas e materiais de interesse.
 
 OPERAÇÃO COMBINADA - Operação emprero maior de opções para reorganizar os elemen-
 
@@ -1974,11 +1974,9 @@ OPERAÇÃO CONJUNTA - Operação que en-
 
 INTEROPERABILIDADE - Capacidade de forqualquer natureza, e a garantia aos cidadãos do nacionais, o qual se manifesta em cinco expresvolve o emprego coordenado de elementos de ças militares nacionais ou aliadas operarem em exercício dos direitos e deveres constitucionais.
 
-sões: a política, a econômica, a psicossocial, a mais de uma Força Armada, mediante a consticonjunto, efetivamente, de acordo com a estrumilitar e a científico-tecnológica.
+sões: a política, a econômica, a psicossocial, a mais de uma Força Armada, mediante a consticonjunto, efetivamente, de acordo com a estrutuição de um Comando Conjunto.
 
-tuição de um Comando Conjunto.
-
-tura de comando estabelecida, na execução de uma missão de natureza estratégica ou tática,
+tura de comando estabelecida, na execução de uma missão de natureza estratégica ou tática, militar e a científico-tecnológica.
 
 SISTEMA DE LOGÍSTICA DE DEFESA -
 

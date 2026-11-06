@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 64-page PDF (https://www.cac.gov.cn/rootimages/uploadimg/1642205314564505/1642205314564505.pdf) locally via PyMuPDF (40,767 chars). Parsed 104 sections (103 with explicit section identifiers)."
+    "notes": "Extracted 64-page PDF (https://www.cac.gov.cn/rootimages/uploadimg/1642205314564505/1642205314564505.pdf) locally via PyMuPDF (40,385 chars). Parsed 38 sections (37 with explicit section identifiers)."
   },
   "extraction_history": [
     {

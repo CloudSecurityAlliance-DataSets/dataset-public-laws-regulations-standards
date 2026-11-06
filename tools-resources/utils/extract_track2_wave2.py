@@ -910,12 +910,13 @@ def license_for_tld(tld: str, namespace: str, md_text: str = "", secid: str = ""
         )
     if (
         secid == "secid:reference/gov.br/pbia@2024-2028"
+        or "os textos contidos nesta publicação poderão ser reproduzidos" in low_md
         or "é permitida a reprodução parcial ou total desta obra" in low_md
     ):
         return _make_license(
             "LicenseRef-BR-MCTI-CGEE-Attribution",
             "Permissive",
-            "Federative Republic of Brazil (MCTI / CGEE) official publication; explicit open-attribution notice on page 4 ('É permitida a reprodução parcial ou total desta obra, desde que citada a fonte') and Brazilian Copyright Law (Lei nº 9.610/1998) Art. 8º(IV).",
+            "Federative Republic of Brazil (MCTI / CGEE) official publication; explicit open-attribution notice on page 4 ('Os textos contidos nesta publicação poderão ser reproduzidos, armazenados ou transmitidos, desde que citada a fonte') and Brazilian Copyright Law (Lei nº 9.610/1998) Art. 8º(IV).",
             "https://www.planalto.gov.br/ccivil_03/leis/l9610.htm",
             redistribution="permitted_with_attribution",
             derivatives="permitted_with_attribution",
@@ -1537,118 +1538,38 @@ def ensure_hierarchical_headings(md: str, doc_title: str, doc_desc: str, is_anne
     md = re.sub(r"[\x00-\x08\x0b\x0c\x0e-\x1f\x7f-\x9f\xad]+", " ", md)
     # Restore raster chapter and pillar divider headings in Costa Rica's 2023-2027 National Cybersecurity Strategy from Page 7 Table of Contents
     if "Estrategia Nacional de Ciberseguridad de Costa Rica" in doc_title or "PARTICIPACIÓN SOCIAL Y CIUDADANA 7." in md:
-        _cr_replacements = [
+        md = re.sub(r"(?m)^osta Rica (cuenta|ha vivido)\b([^\n]+?)\s+C$", r"Costa Rica \1\2", md)
+        _cr_regex_subs = [
+            (r"(?m)^L\s+a\s+pandemia\b", "## 1. CONTEXTO ACTUAL DE CIBERSEGURIDAD\n\nLa pandemia"),
+            (r"(?m)^Costa\s+Rica\s+cuenta\b", "## 2. MARCO NORMATIVO\n\nCosta Rica cuenta"),
+            (r"(?m)^Costa\s+Rica\s+ha\s+vivido\b", "## 3. DIAGNÓSTICO\n\nCosta Rica ha vivido"),
+            (r"(?m)^L\s+a\s+Estrategia\s+Nacional\s+de\s+Ciberseguridad\s+2023-202715\b", "## 4. MARCO ESTRATÉGICO\n\nLa Estrategia Nacional de Ciberseguridad 2023-202715"),
+            (r"(?m)^C\s+osta\s+Rica\s+continuará\b", "## 5. INTERVENCIONES PÚBLICAS\n\nCosta Rica continuará"),
+            (r"(?m)^E\s+l\s+seguimiento\b", "El seguimiento"),
+            (r"(?m)^L\s+a\s+construcción\b", "La construcción"),
+            (r"(?m)^E\s+n\s+línea\b", "En línea"),
             (
-                "L\n\na pandemia de COVID-19 y la postpandemia han generado",
-                "## 1. CONTEXTO ACTUAL DE CIBERSEGURIDAD\n\nLa pandemia de COVID-19 y la postpandemia han generado",
-            ),
-            (
-                "L a pandemia de COVID-19 y la postpandemia han generado",
-                "## 1. CONTEXTO ACTUAL DE CIBERSEGURIDAD\n\nLa pandemia de COVID-19 y la postpandemia han generado",
-            ),
-            (
-                "osta Rica cuenta con un marco jurídico y reglamentario para proteger a la sociedad contra la ciberdelincuencia y promover un entorno cibernético seguro, de conformidad con los principios de inclusión y de entorno de confianza. C",
-                "## 2. MARCO NORMATIVO\n\nCosta Rica cuenta con un marco jurídico y reglamentario para proteger a la sociedad contra la ciberdelincuencia y promover un entorno cibernético seguro, de conformidad con los principios de inclusión y de entorno de confianza.",
-            ),
-            (
-                "osta Rica ha vivido una profunda transformación digital durante la última década. Según la Superintendencia de Telecomunicaciones (SUTEL), Internet se ha convertido en un servicio esencial para los consumidores tanto a través de redes fijas como móviles. El aumento ha sido significativo tanto en la cantidad de usuarios como en las velocidades y el volumen de tráfico de la información (SUTEL, 2023). C",
-                "## 3. DIAGNÓSTICO\n\nCosta Rica ha vivido una profunda transformación digital durante la última década. Según la Superintendencia de Telecomunicaciones (SUTEL), Internet se ha convertido en un servicio esencial para los consumidores tanto a través de redes fijas como móviles. El aumento ha sido significativo tanto en la cantidad de usuarios como en las velocidades y el volumen de tráfico de la información (SUTEL, 2023).",
-            ),
-            (
-                "L\n\na Estrategia Nacional de Ciberseguridad 2023-202715 proporciona una visión cohesiva",
-                "## 4. MARCO ESTRATÉGICO\n\nLa Estrategia Nacional de Ciberseguridad 2023-202715 proporciona una visión cohesiva",
-            ),
-            (
-                "L a Estrategia Nacional de Ciberseguridad 2023-202715 proporciona una visión cohesiva",
-                "## 4. MARCO ESTRATÉGICO\n\nLa Estrategia Nacional de Ciberseguridad 2023-202715 proporciona una visión cohesiva",
-            ),
-            (
-                "Costa Rica establecerá un marco de gobernanza que defina roles,",
-                "#### Pilar 1. Reforzar la gobernanza de ciberseguridad\n\nCosta Rica establecerá un marco de gobernanza que defina roles,",
-            ),
-            (
-                "Costa Rica desarrollará legislación y regulación cibernética junto con un marco normativo",
-                "#### Pilar 2. Adecuar el marco jurídico cibernético\n\nCosta Rica desarrollará legislación y regulación cibernética junto con un marco normativo",
-            ),
-            (
-                "Costa Rica establecerá un marco de gestión integral de riesgos de ciberseguridad que permita",
-                "#### Pilar 3. Fortalecer la protección de infraestructuras y la ciber resiliencia nacional\n\nCosta Rica establecerá un marco de gestión integral de riesgos de ciberseguridad que permita",
-            ),
-            (
-                "Costa Rica desarrollará una fuerza laboral capacitada en ciberseguridad a través de programas",
-                "#### Pilar 4. Reforzar las capacidades del ecosistema de ciberseguridad\n\nCosta Rica desarrollará una fuerza laboral capacitada en ciberseguridad a través de programas",
-            ),
-            (
-                "Costa Rica impulsará la cooperación nacional e internacional, la colaboración y el intercambio",
-                "#### Pilar 5. Cooperar en el entorno digital\n\nCosta Rica impulsará la cooperación nacional e internacional, la colaboración y el intercambio",
-            ),
-            (
-                "C\n\nosta Rica continuará avanzando en su desarrollo y empleará las oportunidades de optimización",
-                "## 5. INTERVENCIONES PÚBLICAS\n\nCosta Rica continuará avanzando en su desarrollo y empleará las oportunidades de optimización",
-            ),
-            (
-                "C osta Rica continuará avanzando en su desarrollo y empleará las oportunidades de optimización",
-                "## 5. INTERVENCIONES PÚBLICAS\n\nCosta Rica continuará avanzando en su desarrollo y empleará las oportunidades de optimización",
-            ),
-            (
-                "E\n\nl seguimiento a la ejecución física y presupuestal",
-                "El seguimiento a la ejecución física y presupuestal",
-            ),
-            (
-                "E l seguimiento a la ejecución física y presupuestal",
-                "El seguimiento a la ejecución física y presupuestal",
-            ),
-            (
-                "## PARTICIPACIÓN SOCIAL Y CIUDADANA 7.",
-                "## 7. PARTICIPACIÓN SOCIAL Y CIUDADANA",
-            ),
-            (
-                "PARTICIPACIÓN SOCIAL Y CIUDADANA 7.",
-                "## 7. PARTICIPACIÓN SOCIAL Y CIUDADANA",
-            ),
-            (
-                "L\n\na construcción de la Estrategia Nacional de Ciberseguridad 2023-2027",
-                "La construcción de la Estrategia Nacional de Ciberseguridad 2023-2027",
-            ),
-            (
-                "L a construcción de la Estrategia Nacional de Ciberseguridad 2023-2027",
-                "La construcción de la Estrategia Nacional de Ciberseguridad 2023-2027",
-            ),
-            (
-                "## DIVULGACIÓN 8.",
-                "## 8. DIVULGACIÓN",
-            ),
-            (
-                "DIVULGACIÓN 8.",
-                "## 8. DIVULGACIÓN",
-            ),
-            (
-                "E\n\nn línea con lo dispuesto en el Plan Nacional de Desarrollo",
-                "En línea con lo dispuesto en el Plan Nacional de Desarrollo",
-            ),
-            (
-                "E n línea con lo dispuesto en el Plan Nacional de Desarrollo",
-                "En línea con lo dispuesto en el Plan Nacional de Desarrollo",
-            ),
-            (
-                "## GLOSARIO 9.",
-                "## 9. GLOSARIO",
-            ),
-            (
-                "GLOSARIO 9.",
-                "## 9. GLOSARIO",
-            ),
-            (
-                "## REFERENCIAS BIBLIOGRÁFICAS 10.",
-                "## 10. REFERENCIAS BIBLIOGRÁFICAS",
-            ),
-            (
-                "REFERENCIAS BIBLIOGRÁFICAS 10.",
-                "## 10. REFERENCIAS BIBLIOGRÁFICAS",
+                r"(?m)^(?:#{2,6}\s+)?(PARTICIPACIÓN SOCIAL Y CIUDADANA|DIVULGACIÓN|GLOSARIO|REFERENCIAS BIBLIOGRÁFICAS)\s+(\d{1,2})\.$",
+                r"## \2. \1",
             ),
         ]
-        for old_s, new_s in _cr_replacements:
-            md = md.replace(old_s, new_s, 1)
+        for pat_s, repl_s in _cr_regex_subs:
+            md = re.sub(pat_s, repl_s, md, count=1 if "## " in repl_s and not repl_s.startswith("## \\") else 0)
+        m_pilar_titles = dict(re.findall(r"•\s*Pilar\s+([1-5]):\s*([^,\n]+)", md))
+        p48_pos = md.find("4.8.")
+        if p48_pos != -1 and len(m_pilar_titles) == 5:
+            head_md, tail_md = md[:p48_pos], md[p48_pos:]
+            p_idx = 0
+
+            def _inject_pilar(m_p: re.Match) -> str:
+                nonlocal p_idx
+                p_idx += 1
+                if p_idx <= 5 and str(p_idx) in m_pilar_titles:
+                    return f"#### Pilar {p_idx}. {m_pilar_titles[str(p_idx)].strip()}\n\n{m_p.group(0)}"
+                return m_p.group(0)
+
+            tail_md = re.sub(r"(?m)^Costa Rica (?:establecerá|desarrollará|impulsará)\b", _inject_pilar, tail_md, count=5)
+            md = head_md + tail_md
     # Split inline concatenated Turkish `Eylem N.M_` table cells onto their own lines
     md = re.sub(r"([^\n#])\s+(Eylem\s+\d+\.\d+[_\s:])", r"\1\n\n\2", md)
     raw_lines = md.splitlines()
@@ -1738,15 +1659,16 @@ def ensure_hierarchical_headings(md: str, doc_title: str, doc_desc: str, is_anne
         lines.append(raw_lines[idx])
         idx += 1
 
-    # Detect Table of Contents block (e.g. `Contents`, `Table of contents`, `Índice`, `Sumario`)
+    # Detect Table of Contents block (e.g. `Contents`, `Table of contents`, `Índice`, `Sumario`, `目录`)
     def _norm_toc_line(s: str) -> str:
         s = re.sub(r"^#+\s*", "", s.strip())
+        s = re.sub(r"^\*\*(.+?)\*\*$", r"\1", s.strip())
         s = re.sub(r"[\.\s]+\d{1,3}$", "", s).strip()
         return s.lower()
 
     toc_skip_indices: set[int] = set()
     for i, l in enumerate(lines[:95]):
-        low_tok = re.sub(r"^#+\s*", "", l.strip()).lower().rstrip(":")
+        low_tok = re.sub(r"^\*\*(.+?)\*\*$", r"\1", re.sub(r"^#+\s*", "", l.strip())).lower().rstrip(":")
         if low_tok in (
             "contents",
             "table of contents",
@@ -1761,12 +1683,13 @@ def ensure_hierarchical_headings(md: str, doc_title: str, doc_desc: str, is_anne
             "sommaire",
             "table des matières",
             "目录",
-        ):
+        ) or re.sub(r"\s+", "", low_tok) == "目录":
             first_entry = ""
             first_idx = -1
             for j in range(i + 1, min(i + 18, len(lines))):
                 cand_e = _norm_toc_line(lines[j])
-                if len(cand_e) >= 4 and not cand_e.startswith("[") and not cand_e.isdigit():
+                min_c_len = 2 if re.search(r"[\u4e00-\u9fff]", cand_e) else 4
+                if len(cand_e) >= min_c_len and not cand_e.startswith("[") and not cand_e.isdigit():
                     first_entry = cand_e.split(" capítulo ")[0].strip()
                     first_idx = j
                     break
@@ -1780,6 +1703,89 @@ def ensure_hierarchical_headings(md: str, doc_title: str, doc_desc: str, is_anne
                                 lines[idx_t] = re.sub(r"^#+\s*", "", lines[idx_t].strip())
                         break
             break
+
+    # Demote any pre-existing TOC dot-leader headings or CJK run-in numbered paragraph lines
+    has_cjk_major = any(
+        re.match(r"^(?:#{2,6}\s+)?(?:\*\*)?[一二三四五六七八九十]+[、．\.]", l.strip())
+        for idx_l, l in enumerate(lines)
+        if idx_l not in toc_skip_indices
+    )
+    for idx_l, l in enumerate(lines):
+        if l.lstrip().startswith("#") and not l.lstrip().startswith("# "):
+            if (
+                re.search(r"\.{3,}\s*\d+$", l.strip())
+                or re.match(r"^#{2,6}\s+\d{4}\s*年\s*\d{1,2}\s*月$", l.strip())
+                or (
+                    re.match(r"^#{2,6}\s+\d{1,2}\.\s+", l.strip())
+                    and ("。" in l or has_cjk_major)
+                )
+            ):
+                lines[idx_l] = re.sub(r"^#+\s*", "", l.strip())
+                toc_skip_indices.add(idx_l)
+            elif re.match(r"^###\s+(?:序言|前言|结束语|结语)$", l.strip()):
+                lines[idx_l] = l.strip()[1:]
+
+    # Normalize Vietnamese OCR heading lines when running on cached or live OCR markdown
+    if any("Điều 1" in l or "QUAN ĐIỂM" in l for l in lines[:60]):
+        vn_norm_lines: list[str] = []
+        seen_vn_tam_nhin = False
+        for l in lines:
+            st = l.strip()
+            st_clean = re.sub(
+                r"^(?:(?:ni|l|mm)\s+)?[\.\|\s:'\"_ˆ„«»\-]*(?=(?:Điều\s+\d+|[IVX]{1,4}\.\s+|HI\.\s+|L\.?\s+QUAN\s+ĐI|PHỤ\s+LỤC|\d{1,2}[\.,]?\s+[A-ZĐÂĂÊÔƠƯ]))",
+                "",
+                st,
+            )
+            st_clean = re.sub(
+                r"^(\d{1,2})[,\s]\s*(Bộ\s+|Ban\s+|Ngân\s+hàng\s+|Viện\s+|Hiệp\s+hội\s+|Các\s+)",
+                r"\1. \2",
+                st_clean,
+            )
+            st_clean = re.sub(r"^HI\.\s+", "III. ", st_clean)
+            st_clean = re.sub(r"^L\.?\s+QUAN\s+ĐI[ỀỂ]M\b", "I. QUAN ĐIỀM", st_clean)
+            if re.match(r"^(?:#{2,6}\s+)?II\.\s+T[ẦÂ]M\s+NHÌN\b", st_clean):
+                seen_vn_tam_nhin = True
+            elif seen_vn_tam_nhin and re.match(r"^(?:#{2,6}\s+)?II\.\s+MỤC\s+TI[ÊỂ]U\b", st_clean):
+                st_clean = re.sub(r"^((?:#{2,6}\s+)?)II\.\s+MỤC\s+TI[ÊỂ]U\b", r"\1III. MỤC TIÊU", st_clean)
+            m_d2_split = re.match(r"^(?:#{2,6}\s+)?(Điều\s+2\.\s+Tổ chức thực hiện)\s*[\.\s]*(?:ni\s+)?(Bộ Khoa học.+)$", st_clean)
+            if m_d2_split:
+                vn_norm_lines.append(f"## {m_d2_split.group(1)}")
+                vn_norm_lines.append("")
+                vn_norm_lines.append(f"1. {m_d2_split.group(2)}")
+                continue
+            m_sbv = re.match(r"^(?:#{2,6}\s+)?(13\.\s+Ngân hàng Nhà nước Việt Nam)\s*\|\s*(?:in\s+)?(Thúc\s+.+)$", st_clean)
+            if m_sbv:
+                vn_norm_lines.append(f"### {m_sbv.group(1)}")
+                vn_norm_lines.append("")
+                vn_norm_lines.append(m_sbv.group(2))
+                continue
+            m_monre = re.match(r"^(14\.\s+Bộ Tài nguyên và Môi trường)\.?$", st_clean)
+            if m_monre:
+                vn_norm_lines.append(f"### {m_monre.group(1)}")
+                vn_norm_lines.append("")
+                continue
+            m_mpi = re.match(r"^(8\.\s+Bộ Kế hoạch và Đầu tư,\s*Bộ Tài chính)\s+(ưu tiên\s+.+)$", st_clean)
+            if m_mpi:
+                vn_norm_lines.append(f"### {m_mpi.group(1)}")
+                vn_norm_lines.append("")
+                vn_norm_lines.append(m_mpi.group(2)[0].upper() + m_mpi.group(2)[1:])
+                continue
+            vn_norm_lines.append(l if st_clean == st else st_clean)
+        lines = vn_norm_lines
+
+    has_cjk_chapters = any(
+        re.match(r"^(?:#{2,6}\s+)?(?:\*\*)?第[一二三四五六七八九十百0-9０-９]+[章节篇编部節編]\b", l.strip())
+        for idx_l, l in enumerate(lines)
+        if idx_l not in toc_skip_indices
+    )
+    if has_cjk_chapters:
+        for idx_l, l in enumerate(lines):
+            if idx_l in toc_skip_indices:
+                continue
+            if re.match(r"^##\s+[一二三四五六七八九十]+[、．\.]", l.strip()):
+                lines[idx_l] = "#" + l.strip()
+            elif re.match(r"^###\s+[（\(][一二三四五六七八九十0-9]+[）\)]", l.strip()):
+                lines[idx_l] = "#" + l.strip()
 
     has_part_or_chapter_structure = any(
         re.match(r"^(?:#{2,6}\s+)?(?:РАЗДЕЛ|Раздел|РОЗДІЛ|Розділ|ГЛАВА|Глава|CAP[ÍI]TULO|Capítulo)\s+(?:[IVXLCDM]+|\d+)\b", l.strip())
@@ -1804,15 +1810,21 @@ def ensure_hierarchical_headings(md: str, doc_title: str, doc_desc: str, is_anne
         for idx_l, l in enumerate(lines):
             s = re.sub(r"^\*\*(.+?)\*\*$", r"\1", l.strip()).strip()
             s = re.sub(r"^(Eylem\s+\d+\.\d+)_+\s*", r"\1: ", s)
-            if idx_l not in toc_skip_indices and not s.startswith("#"):
+            if idx_l not in toc_skip_indices and not s.startswith("#") and not re.search(r"\.{3,}\s*\d+$", s):
+                m_heb_ch = re.match(r"^([1-8])\s*\.\s*(פרק\s+[^\n\.]{2,90})$", s)
+                if m_heb_ch:
+                    patched_lines.append(f"## {m_heb_ch.group(1)}. {m_heb_ch.group(2).strip()}")
+                    continue
                 if re.match(r"^Eylem\s+\d+\.\d+:\s+\S", s):
                     patched_lines.append(f"### {s.rstrip('.')}")
                     continue
                 if re.match(r"^[一二三四五六七八九十]+[、．\.]\s*[^。；\n]{2,50}$", s):
-                    patched_lines.append(f"## {s}")
+                    cjk_m_hashes = "###" if has_cjk_chapters else "##"
+                    patched_lines.append(f"{cjk_m_hashes} {s}")
                     continue
-                if re.match(r"^[（\(][一二三四五六七八九十0-9]+[）\)]\s*[^；\n]{2,50}。?$", s):
-                    patched_lines.append(f"### {s.rstrip('。')}")
+                if re.match(r"^[（\(][一二三四五六七八九十0-9]+[）\)]\s*[^。；\n]{2,50}。?$", s):
+                    cjk_s_hashes = "####" if has_cjk_chapters else "###"
+                    patched_lines.append(f"{cjk_s_hashes} {s.rstrip('。')}")
                     continue
                 if re.match(r"^(?:\d+\s*-\s*)?ИЛОВА$", s):
                     patched_lines.append(f"## {s}")
@@ -1827,7 +1839,7 @@ def ensure_hierarchical_headings(md: str, doc_title: str, doc_desc: str, is_anne
                     patched_lines.append(f"## {s}")
                     continue
                 if re.match(
-                    r"^(?:РАЗДЕЛ|Раздел|РОЗДІЛ|Розділ|ЧАСТЬ|Часть|ЧАСТИНА|Частина|PART|PARTIE|PARTE|TEIL)\s+(?:[IVXLCDM]+|\d+)\b.{0,180}$",
+                    r"^(?:РАЗДЕЛ|Раздел|РОЗДІЛ|Розділ|ЧАСТЬ|Часть|ЧАСТИНА|Частина|PART|PARTIE|PARTE|TEIL|Part)\s+(?:[IVXLCDM]+|\d+)\b.{0,180}$",
                     s,
                 ):
                     patched_lines.append(f"## {s.rstrip('.')}")
@@ -1873,7 +1885,7 @@ def ensure_hierarchical_headings(md: str, doc_title: str, doc_desc: str, is_anne
         r"|[壹貳參肆伍陸柒捌玖拾]+[、．\.]\s*.{2,80}"
         r"|[ⅠⅡⅢⅣⅤⅥⅦⅧⅨⅩ]+[\.\s、．]\s*.{2,80}"
         r"|제\s*\d+\s*[장절편]\s*.{1,80}"
-        r"|前言|目录|结束语|结语|Global AI Governance Initiative"
+        r"|序言|前言|目录|结束语|结语|Global AI Governance Initiative"
         r"|Executive Summary|Foreword|Preface|Introduction|Conclusion|Conclusions:?|Overview|Background|Strategic Context|Vision|Implementation|Governance|Abbreviations|Definitions"
         r"|Introduction:\s+.{5,140}"
         r"|IT threat assessment|Framework conditions|Basic principles.*|Strategic objectives and measures|Sustainable implementation"
@@ -1887,6 +1899,11 @@ def ensure_hierarchical_headings(md: str, doc_title: str, doc_desc: str, is_anne
             promoted_lines.append(line)
             continue
         s = re.sub(r"^\*\*(.+?)\*\*$", r"\1", line.strip()).strip()
+        m_heb_ch = re.match(r"^([1-8])\s*\.\s*(פרק\s+[^\n\.]{2,90})$", s)
+        if m_heb_ch and not re.search(r"\.{3,}\s*\d+$", s):
+            promoted_lines.append(f"## {m_heb_ch.group(1)}. {m_heb_ch.group(2).strip()}")
+            promoted_count += 1
+            continue
         if re.match(r"^[（\(][一二三四五六七八九十0-9]+[）\)]\s*[^。；\n]{2,50}。$", s):
             s = s.rstrip("。")
         s = re.sub(r"^(Eylem\s+\d+\.\d+)_+\s*", r"\1: ", s)
@@ -1898,12 +1915,14 @@ def ensure_hierarchical_headings(md: str, doc_title: str, doc_desc: str, is_anne
         )
         allow_trailing_dot = bool(explicit_sec_prefix_re.match(s))
         max_len = 360 if allow_trailing_dot else 230
-        if has_part_or_chapter_structure and re.match(r"^\d{1,2}\.\s+", s):
+        if (has_part_or_chapter_structure or has_cjk_major) and re.match(r"^\d{1,2}\.\s+", s):
             promoted_lines.append(line)
             continue
         if (
             not s.startswith("#")
-            and 3 <= len(s) <= max_len
+            and 2 <= len(s) <= max_len
+            and "。" not in s
+            and not re.search(r"\.{3,}\s*\d+$", s)
             and not s.endswith((";", "。", "；", "-"))
             and (not s.endswith(":") or re.match(r"^(?:Introduction|Conclusions?):", s, re.I))
             and (allow_trailing_dot or not s.endswith("."))
@@ -1937,7 +1956,12 @@ def ensure_hierarchical_headings(md: str, doc_title: str, doc_desc: str, is_anne
                 else:
                     promoted_lines.append(f"### {s_norm}")
             else:
-                prefix = "###" if m_sub else "##"
+                if has_cjk_chapters and re.match(r"^[一二三四五六七八九十]+[、．\.]", s_norm):
+                    prefix = "###"
+                elif has_cjk_chapters and re.match(r"^[（\(][一二三四五六七八九十0-9]+[）\)]", s_norm):
+                    prefix = "####"
+                else:
+                    prefix = "###" if m_sub else "##"
                 promoted_lines.append(f"{prefix} {s_norm}")
             promoted_count += 1
         else:
@@ -1970,7 +1994,7 @@ _COLOPHON_HEADING_RE = re.compile(
     r"|(?:January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{4}$"
     r"|\d{1,4}$"
     r"|\d{1,3}\s+(?:QUADRILLION|TRILLION|BILLION|MILLION|THOUSAND|PERCENT)\b"
-    r"|¡¡\s+|US\$\d+|0?\d+%\s+OF\s+THE|ICT/BPO\s+OPERATIONS|50\s+INTERNET\s+HAS|BILLION\s+CONNECTIONS|BY\s+2020$|INCREASE\s+TO$|IT\s+IS\s+PREDICTED\s+TO\s+INCREASE\s+TO$|CYBERCRIMES[’']\s+ESTIMATED\s+COST"
+    r"|¡¡\s+|US\$\d+|0?\d+%\s+OF\s+THE|ICT/BPO\s+OPERATIONS|50\s+INTERNET\s+HAS|BILLION\s+CONNECTIONS|BY\s+2020$|INCREASE\s+TO$|IT\s+IS\s+PREDICTED\s+TO\b|CYBERCRIMES[’']\s+ESTIMATED\s+COST"
     r"|1\.\s+SOCIEDAD\s+Y\s+CIENCIAS\s+SOCIALES"
     r"|A\s+sustainable\s+framework\s+to\s+ensure\s+the\s+availability\s+of\s+human\s+capital"
     r"|\d{1,2}\.\s+We\s+(?:want|will)\b"
@@ -2257,7 +2281,11 @@ def postprocess_markdown_structure(md: str, doc_title: str) -> str:
             # Heading followed immediately by a multi-word plain block starting with a lowercase letter -> sentence/word wrap!
             if (
                 not nxt.startswith("#")
-                and re.match(r"^(?:[a-z]|\d+(?:\.\d+)?\s+[a-z])", nxt)
+                and re.match(
+                    r"^(?:[a-zà-öø-ÿăâđêôơưáàảãạấầẩẫậắằẳẵặéèẻẽẹếềểễệíìỉĩịóòỏõọốồổỗộớờởỡợúùủũụứừửữựýỳỷỹỵ]|\d+(?:\.\d+)?\s+[a-z])",
+                    nxt,
+                )
+                and not re.match(r"^[a-zđ][\)\.]\s+", nxt)
                 and (not sec_id or (len(hashes) >= 3 and re.match(r"^\d{1,2}$", sec_id)))
             ):
                 merged.append(f"{txt} {nxt}")
@@ -2402,7 +2430,9 @@ def postprocess_markdown_structure(md: str, doc_title: str) -> str:
                         blocks[i] = h1_txt
                         changed = True
                     elif id1 and id2 and len(h1_hashes) >= len(h2_hashes):
-                        if id1.startswith("Eylem ") and len(h1_txt) > 30:
+                        if (id1.startswith("Eylem ") and len(h1_txt) > 30) or (
+                            id1.startswith("Điều ") and kind2 == "roman"
+                        ):
                             pass
                         elif (
                             (
@@ -2669,6 +2699,7 @@ def fallback_pdf_text_to_markdown(pdf_bytes: bytes, doc_title: str, ocr_lang: st
     vn_heading_re = re.compile(
         r"^(?:Điều\s+\d+[\.\:]?\s+\S|[IVX]{1,4}\.\s+[A-ZĐÂĂÊÔƠƯÁÀẢÃẠÉÈẺẼẸÍÌỈĨỊÓÒỎÕỌÚÙỦŨỤÝỲỶỸỴ]{2,}|\d{1,2}\.\s+[A-ZĐÂĂÊÔƠƯÁÀẢÃẠÉÈẺẼẸÍÌỈĨỊÓÒỎÕỌÚÙỦŨỤÝỲỶỸỴ]\S+|PHỤ\s+LỤC\b)"
     )
+    all_page_lines: list[str] = []
     for page in doc:
         txt = page.get_text("text").strip()
         if (not txt or (ocr_lang == "vie" and len(txt) < 500)) and num_pages <= 120:
@@ -2698,16 +2729,87 @@ def fallback_pdf_text_to_markdown(pdf_bytes: bytes, doc_title: str, ocr_lang: st
             clean_l = re.sub(r"\s+", " ", raw_line).strip()
             if not clean_l or re.match(r"^\d{1,3}$", clean_l):
                 continue
-            if ocr_lang == "vie" and vn_heading_re.match(clean_l):
+            if ocr_lang == "vie":
+                clean_l = re.sub(
+                    r"^(?:(?:ni|l|mm)\s+)?[\.\|\s:'\"_ˆ„«»\-]+(?=(?:Điều\s+\d+|[IVX]{1,4}\.\s+|HI\.\s+|L\.?\s+QUAN\s+ĐI|PHỤ\s+LỤC|\d{1,2}[\.,]?\s+[A-ZĐÂĂÊÔƠƯ]))",
+                    "",
+                    clean_l,
+                )
+                clean_l = re.sub(
+                    r"^(\d{1,2})[,\s]\s*(Bộ\s+|Ban\s+|Ngân\s+hàng\s+|Viện\s+|Hiệp\s+hội\s+|Các\s+)",
+                    r"\1. \2",
+                    clean_l,
+                )
+                clean_l = re.sub(r"^HI\.\s+", "III. ", clean_l)
+                clean_l = re.sub(r"^L\.?\s+QUAN\s+ĐI[ỀỂ]M\b", "I. QUAN ĐIỂM", clean_l)
+                m_sbv = re.match(r"^(13\.\s+Ngân hàng Nhà nước Việt Nam)\s*\|\s*(?:in\s+)?(Thúc\s+.+)$", clean_l)
+                if m_sbv:
+                    all_page_lines.append(m_sbv.group(1))
+                    all_page_lines.append(m_sbv.group(2))
+                    continue
+                m_mpi = re.match(r"^(8\.\s+Bộ Kế hoạch và Đầu tư,\s*Bộ Tài chính)\s+(ưu tiên\s+.+)$", clean_l)
+                if m_mpi:
+                    all_page_lines.append(m_mpi.group(1))
+                    all_page_lines.append(m_mpi.group(2))
+                    continue
+                m_inline_a = re.match(r"^(\d{1,2}\.\s+[^\n]+?)\s+(?:[\-\.\|]+\s*)?(a\)\s+.+)$", clean_l)
+                if m_inline_a:
+                    all_page_lines.append(m_inline_a.group(1).strip())
+                    all_page_lines.append(m_inline_a.group(2).strip())
+                    continue
+            all_page_lines.append(clean_l)
+        all_page_lines.append("")
+
+    cur_vn_sec = ""
+    seen_tam_nhin = False
+    idx_p = 0
+    while idx_p < len(all_page_lines):
+        clean_l = all_page_lines[idx_p]
+        if not clean_l:
+            out.append("")
+            idx_p += 1
+            continue
+        if ocr_lang == "vie":
+            if re.match(r"^II\.\s+T[ẦÂ]M\s+NHÌN\b", clean_l):
+                seen_tam_nhin = True
+            elif seen_tam_nhin and re.match(r"^II\.\s+MỤC\s+TI[ÊỂ]U\b", clean_l):
+                clean_l = re.sub(r"^II\.\s+MỤC\s+TI[ÊỂ]U\b", "III. MỤC TIÊU", clean_l)
+            m_dieu = re.match(r"^Điều\s+(\d+)\b", clean_l)
+            m_rom = re.match(r"^([IVX]{1,4})\.\s+", clean_l)
+            if m_dieu:
+                cur_vn_sec = f"DIEU{m_dieu.group(1)}"
+            elif m_rom:
+                cur_vn_sec = m_rom.group(1)
+            elif re.match(r"^PHỤ\s+LỤC\b", clean_l):
+                cur_vn_sec = "PHULUC"
+
+            is_vn_major = bool(re.match(r"^(?:Điều\s+\d+|[IVX]{1,4}\.\s+|PHỤ\s+LỤC\b)", clean_l))
+            is_vn_sub = bool(cur_vn_sec in ("II", "III", "IV", "V") and re.match(r"^\d{1,2}\.\s+", clean_l))
+            if vn_heading_re.match(clean_l) and (is_vn_major or is_vn_sub):
+                # Join short wrapped continuation line onto heading when present
+                while idx_p + 1 < len(all_page_lines):
+                    nxt_l = all_page_lines[idx_p + 1].strip()
+                    if (
+                        nxt_l
+                        and len(nxt_l) <= 85
+                        and re.match(
+                            r"^[a-zà-öø-ÿăâđêôơưáàảãạấầẩẫậắằẳẵặéèẻẽẹếềểễệíìỉĩịóòỏõọốồổỗộớờởỡợúùủũụứừửữựýỳỷỹỵ]",
+                            nxt_l,
+                        )
+                        and not re.match(r"^[a-zđ]\)\s+", nxt_l)
+                    ):
+                        clean_l = f"{clean_l} {nxt_l}"
+                        idx_p += 1
+                    else:
+                        break
+                clean_h = re.sub(r"[\s\|\.:'\"`ˆ—\-]+(?:l|mm)?[\s\|\.:'\"`ˆ—\-]*$", "", clean_l).strip()
                 out.append("")
-                if re.match(r"^(?:Điều\s+\d+|[IVX]{1,4}\.\s+|PHỤ\s+LỤC\b)", clean_l):
-                    out.append(f"## {clean_l.rstrip('.')}")
-                else:
-                    out.append(f"### {clean_l.rstrip('.')}")
+                out.append(f"{'##' if is_vn_major else '###'} {clean_h}")
                 out.append("")
-            else:
-                out.append(clean_l)
-        out.append("")
+                idx_p += 1
+                continue
+        out.append(clean_l)
+        idx_p += 1
     return "\n".join(out).strip() + "\n", num_pages
 
 

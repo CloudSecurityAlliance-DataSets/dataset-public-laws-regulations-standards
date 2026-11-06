@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted official HTML publication (https://www.gov.cn/zhengce/2019-07/24/content_5414325.htm) to Markdown (21,266 chars). Parsed 8 sections (6 with explicit section identifiers)."
+    "notes": "Extracted official HTML publication (https://www.gov.cn/zhengce/2019-07/24/content_5414325.htm) to Markdown (21,269 chars). Parsed 9 sections (6 with explicit section identifiers)."
   },
   "extraction_history": [
     {

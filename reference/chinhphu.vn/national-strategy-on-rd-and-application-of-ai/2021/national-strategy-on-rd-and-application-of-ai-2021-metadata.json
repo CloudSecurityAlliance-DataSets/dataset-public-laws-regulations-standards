@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Discovered primary PDF (https://datafiles.chinhphu.vn/cpp/files/vbpq/2021/01/127.signed.pdf) from landing page (https://web.archive.org/web/20260205043801id_/https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=202565); extracted 14-page PDF via PyMuPDF + Tesseract OCR (vie) (28,837 chars). Parsed 18 sections (17 with explicit section identifiers)."
+    "notes": "Discovered primary PDF (https://datafiles.chinhphu.vn/cpp/files/vbpq/2021/01/127.signed.pdf) from landing page (https://web.archive.org/web/20260205043801id_/https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=202565); extracted 14-page PDF via PyMuPDF + Tesseract OCR (vie) (28,774 chars). Parsed 31 sections (30 with explicit section identifiers)."
   },
   "extraction_history": [
     {
