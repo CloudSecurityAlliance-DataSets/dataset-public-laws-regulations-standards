@@ -1,0 +1,1178 @@
+"depth","section_id","section_name","id_kind","parent_id","body"
+"1","","Estrategia Nacional de Inteligencia Artificial 2024–2030","","",""
+"2","","Artificial Uruguay 2024 – 2030 — Año: 2024","","","Tabla de Contenido Introducción ......................................................................................................................... 4
+
+Antecedentes ....................................................................................................................... 7
+
+Contexto país ................................................................................................................... 7
+
+Indicadores ................................................................................................................... 7
+
+Principales hitos ............................................................................................................. 12
+
+2018: Centro Nacional de Supercomputación (ClusterUY) .......................................... 12
+
+2019: Hoja de Ruta de Ciencia de Datos y Aprendizaje Automático ........................... 12
+
+2020: Estrategia de IA para el Gobierno Digital .......................................................... 12
+
+2021: Centro Interdisciplinario de Ciencia de Datos y Aprendizaje Automático ........... 13
+
+2022: Pensamiento computacional e Inteligencia Artificial, Innovación apoyo a startups y modificación de la Ley de Protección de Datos Personales ...................................... 13
+
+2023: Declaración de Montevideo, nuevo marco normativo y proceso de revisión de la Estrategia de IA para el Gobierno Digital .................................................................... 14
+
+2024: Recomendaciones sobre el marco regulatorio, Observatorio de IA en el Estado y programas académicos y especializaciones ............................................................... 16
+
+Compromiso con la ética y los derechos humanos ..................................................... 17
+
+Articulación y liderazgo regional e internacional.......................................................... 18
+
+Impacto y futuro .......................................................................................................... 19
+
+Objetivos de la Estrategia .................................................................................................. 20
+
+Objetivo general ............................................................................................................. 20
+
+Objetivos específicos ...................................................................................................... 20
+
+Principios rectores ............................................................................................................. 21
+
+Propósito y alcance ........................................................................................................ 21
+
+Principios ....................................................................................................................... 23
+
+1. IA para el bienestar de las personas y el desarrollo sostenible ............................ 23
+
+2. Fortalecimiento de la democracia ........................................................................ 23
+
+3. Respeto de la dignidad y los derechos humanos ................................................. 25
+
+4. Equidad y no discriminación ................................................................................ 27
+
+5. Protección y privacidad de los datos personales .................................................. 28
+
+6. Transparencia y explicabilidad ............................................................................. 29
+
+7. Responsabilidad y rendición de cuentas .............................................................. 30
+
+8. Fiabilidad y seguridad .......................................................................................... 30
+
+9. Innovación responsable y segura ........................................................................ 31
+
+10. Múltiples partes interesadas ............................................................................. 32
+
+Ejes temáticos ................................................................................................................... 33
+
+Eje 1. Gobernanza ......................................................................................................... 33
+
+P á g i n a 2 d e 5 5
+
+Línea 1.1 Institucionalidad .......................................................................................... 33
+
+Línea 1.2 Marcos regulatorios ..................................................................................... 34
+
+Línea 1.3 Articulación internacional............................................................................. 36
+
+Eje 2. Capacidades para la IA ........................................................................................ 37
+
+Línea 2.1 Infraestructura ............................................................................................. 38
+
+Línea 2.2 Datos para la IA ........................................................................................... 39
+
+Línea 2.3 Ciberseguridad ............................................................................................ 40
+
+Línea 2.4 Gestión de talento ....................................................................................... 41
+
+Eje 3. Desarrollo sostenible ............................................................................................ 42
+
+Línea 3.1 Sectores de la economía nacional ............................................................... 43
+
+Línea 3.2 Investigación e innovación .......................................................................... 43
+
+Línea 3.3 IA y Sociedad .............................................................................................. 45
+
+Línea 3.4 Gestión pública ........................................................................................... 46
+
+Línea 3.5 Impactos de la IA en el empleo .................................................................... 48
+
+Proceso de creación, seguimiento y revisión de la Estrategia ............................................ 50
+
+Cocreación de la Estrategia ........................................................................................... 50
+
+Seguimiento de la implementación ................................................................................. 51
+
+Período de vigencia ........................................................................................................ 52
+
+Participantes ...................................................................................................................... 53
+
+Organismos del Estado ............................................................................................... 53
+
+Academia.................................................................................................................... 54
+
+Sector privado ............................................................................................................ 54
+
+Sociedad Civil ............................................................................................................. 54
+
+Organización internacional ......................................................................................... 55
+
+P á g i n a 3 d e 5 5"
+"2","","Introducción","","","La inteligencia artificial (IA) se hace cada día más presente en todos los ámbitos de la sociedad a nivel global y en nuestra vida cotidiana, aunque no siempre somos plenamente conscientes de ello. En este contexto de creciente importancia, las repercusiones -positivas y adversaseconómicas, sociales, culturales y ambientales de la IA no se encuentran distribuidas equitativamente entre los países, y frecuentemente, tampoco a la interna de estos.
+
+La relevancia social, económica y geopolítica de la IA se ha visto potenciada por el avance tecnológico que ha sido particularmente vertiginoso en los últimos años, desembocando en nuevos desafíos para todos los gobiernos. En este escenario, la comunidad internacional ha desarrollado diferentes esfuerzos (en los que Uruguay ha contribuido activamente) con el fin de establecer las bases para una gobernanza de la IA global e inclusiva, que permita contar con marcos comunes e interoperables, para garantizar el desarrollo y uso ético, seguro, responsable, crítico y creativo de estas tecnologías en beneficio de la humanidad1.
+
+Asimismo, junto con los países de la región, Uruguay ha destacado la necesidad de que esta gobernanza internacional, sus marcos, procesos y mecanismos, contemplen las particularidades de América Latina y el Caribe para fortalecer el acceso equitativo de la región a las oportunidades y beneficios implicados en la IA.
+
+Para que las potencialidades que ofrece la IA para el bienestar de los seres humanos se vuelvan tangibles, y para prevenir y mitigar los riesgos e impactos adversos para los derechos de las personas, los consensos logrados en estos esfuerzos globales y regionales requieren ser traducidos por los gobiernos en políticas públicas construidas e implementadas de manera conjunta y colaborativa con las múltiples partes interesadas.
+
+1 La referencia al desarrollo y uso ético, seguro, responsable, crítico y creativo de la inteligencia artificial subraya, entre otros aspectos relevantes, que los desarrollos y su utilización se rigen por principios éticos y están centrados en las personas; promueven y respetan plenamente la protección de los derechos humanos; garantizan la privacidad; son fiables y explicables; y se orientan hacia el desarrollo sostenible en sus diversas dimensiones: económica, social y cultural. Además, se conciben y aplican de manera crítica y creativa, considerando los distintos impactos involucrados, con el objetivo de generar soluciones innovadoras que contribuyan al bien común y faciliten el logro de los objetivos establecidos en la Estrategia.
+
+P á g i n a 4 d e 5 5
+
+Esta nueva Estrategia Nacional de Inteligencia Artificial constituye la piedra angular para el despliegue de una política pública de IA que comprenda al sector público, sector privado y todas las partes interesadas, y que potencie el desarrollo sostenible de Uruguay en todas sus dimensiones, contribuyendo al crecimiento económico inclusivo, a la sostenibilidad ambiental del país y al fortalecimiento de su soberanía.
+
+Con este propósito la presente Estrategia Nacional establece las bases para la gobernanza nacional de la IA sobre un enfoque de múltiples partes interesadas, y para asegurar las capacidades que habiliten su aprovechamiento para el desarrollo de los diferentes sectores de la economía y el logro de una sociedad más igualitaria e inclusiva. Se apoya en los avances alcanzados por el país en materia de transformación digital y en el campo de la investigación e innovación, fomentándolos al mismo tiempo.
+
+Esta Estrategia articula la política de inteligencia artificial con la Estrategia Nacional de Ciberseguridad (2024-2030), la Estrategia Nacional de Ciudadanía Digital para una Sociedad de la Información y el Conocimiento (2024-2028)2 y la Estrategia
+
+Nacional de Datos cocreada juntamente con la presente.
+
+En el ámbito público, en especial, brinda sostenibilidad a los avances logrados por el país a partir de la Estrategia de IA para el Gobierno Digital3 (2020) y busca profundizarlos impulsando el aprovechamiento de la IA para la mejora de los servicios públicos y la gestión de las entidades públicas.
+
+Sienta las bases para promover y optimizar la inversión pública y privada que posibilite al país contar con la infraestructura y las capacidades necesarias para el desarrollo y despliegue de la IA por parte del sector público y privado, reconociendo que en este aspecto radica un importante desafío para nuestro país en función del volumen de su economía y del presupuesto nacional.
+
+2 https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/comunicacion/publicaciones/estrategia-nacional-ciudadania-digital-para-sociedad-informacion 3 https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/comunicacion/publicaciones/estrategia-inteligencia-artificial-para-gobierno-digital/estrategia
+
+P á g i n a 5 d e 5 5
+
+La Estrategia no soslaya los riesgos para la sociedad, los derechos humanos y la democracia implicados en la IA. Por el contrario, establece los cimientos para que puedan ser abordados de manera adecuada y efectiva, planteando diversas líneas de acción orientadas a desarrollar marcos regulatorios y las capacidades necesarias, promoviendo la colaboración de las múltiples partes interesadas.
+
+Este instrumento fue creado a través de un amplio proceso participativo, que recogió aportes de más de 300 personas de diferentes disciplinas y ámbitos, referentes de más de 40 instituciones del Estado, 11 organizaciones de la sociedad civil, 45 organizaciones del sector privado, la academia y diversos colectivos de interés, que contribuyeron desde sus perspectivas. Contó con la cooperación técnica del Banco de Desarrollo de América Latina y el Caribe (CAF) y la
+
+Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura
+
+(UNESCO).
+
+Este proceso colaborativo ha sido precisamente el pilar metodológico que ha dado sustento a la creación de la Estrategia y será la clave del éxito de su implementación, seguimiento y revisión periódica para dar cumplimiento a los objetivos nacionales que en ella se trazan.
+
+P á g i n a 6 d e 5 5"
+"2","","Antecedentes","","","Desde 2019, Uruguay ha avanzado en el campo de la Inteligencia Artificial (IA), impulsado por la colaboración entre el Estado, la academia, la sociedad civil y el sector privado. Este esfuerzo conjunto ha contribuido a posicionar al país en la región en términos de innovación tecnológica y adopción de IA, siempre con un firme compromiso con los derechos humanos, la privacidad y la ética, alineándose con las Recomendación sobre la ética de la IA de UNESCO4. A continuación, se describen algunos de los indicadores del contexto país y principales hitos."
+"3","","Contexto país","","","Indicadores
+
+Uruguay ha experimentado significativos avances en el acceso y uso de internet, progresando en la conectividad, el acceso de hogares y personas y a los servicios de gobierno digital.
+
+Además, ha desarrollado iniciativas que fomentan la inclusión digital garantizando la cobertura total de los establecimientos educativos, el 90% de ellos con acceso de alta velocidad.
+
+De acuerdo con la Encuesta de Uso de Tecnologías de la Información y la
+
+Comunicación (EUTIC) 20225, el 90% de las personas de 14 años y más son usuarias de internet, y el 83% lo utiliza diariamente. Las brechas digitales de acceso y uso son muy bajas, ya sea si se analizan por edad, por género o por nivel socioeconómico.
+
+Estos avances, en gran medida, se relacionan con políticas públicas específicas de largo aliento, como se puede constatar a través de las sucesivas agendas digitales desarrolladas desde el año 20086 .
+
+4 https://unesdoc.unesco.org/ark:/48223/pf0000381137_spa 5 https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/observatorio-sociedad-informacion 6 https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/politicas-y-gestion/programas/agenda-digital-del-uruguay
+
+P á g i n a 7 d e 5 5
+
+Las condiciones actuales en los aspectos de desarrollo digital, conectividad y clima de negocios han llevado a que nuestro país sea el destino de importantes inversiones e iniciativas que reafirman a Uruguay como un polo de innovación tecnológica, tales como el AI Co-Innovation Lab de Microsoft -siendo el primer país de América Latina y el tercero fuera de Estados Unidos junto a China y Alemania que cuenta con dicho laboratorio-, y la instalación de un Datacenter por parte de
+
+Google -el segundo en América Latina además de Chile-, o la llegada de la conectividad satelital.
+
+A continuación, se resumen algunos datos relacionados al contexto país:
+
+Desarrollo digital
+
+ Acceso a internet en hogares: El 91% de los hogares uruguayos cuenta con acceso a Internet. El 72% de los hogares cuenta con conexión de banda ancha fija.
+
+ Uso de internet en personas: como se menciona anteriormente, el
+
+90% de las personas mayores de 14 años son usuarias de Internet, y el 83% lo utiliza diariamente. Entre los menores de 50 años, el uso de internet es universal, es decir, alcanza al 100% de dicha población7.
+
+ Índice de Desarrollo Digital: Uruguay se posiciona en el puesto número 2 en América Latina y el Caribe y 43 en el mundo, en este índice de la Unión Internacional de Telecomunicaciones (UIT) que mide el nivel de desarrollo del sector de las Tecnologías de la
+
+Información y la Comunicación (TIC) de 169 países a nivel mundial8.
+
+ Brújula de Desarrollo Digital (DDC por su sigla en inglés): es una herramienta desarrollada por el Programa de Naciones Unidas para el
+
+Desarrollo (PNUD) que mide el progreso digital de los países, lanzada en 2023. Utiliza una base de datos extensa con indicadores de desarrollo digital, organizados en varios pilares del Marco de
+
+7 https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/datos-y-estadisticas/estadisticas/encuesta-uso-tecnologias-informacion-comunicacion-2022 8 https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/datos-y-estadisticas/estadisticas/indice-desarrollo-digital-ict
+
+P á g i n a 8 d e 5 5
+
+Transformación Digital del PNUD. Uruguay se destaca en varios aspectos, especialmente en los siguientes pilares: Conectividad,
+
+Gobierno (Uruguay es líder en la digitalización de servicios públicos),
+
+Personas (uso y habilidades digitales extendidas) e Infraestructura
+
+Pública Digital; logros que posicionan a Uruguay como un referente en la región en términos de desarrollo digital9.
+
+Industria del Software
+
+ Crecimiento del sector: en 2022, las exportaciones del sector TI alcanzaron los US$ 1.816 millones, equivalente al 65% de su facturación total, con el 85% de estas exportaciones dirigidas principalmente a Estados Unidos. El modelo de negocio del sector, centrado en el desarrollo de software, representa el 70% de la actividad sectorial y el 80% de las exportaciones. Según la Cámara
+
+Uruguaya de Tecnologías de la Información (CUTI) el sector TI crece más que el promedio de la economía y su participación en el Producto
+
+Interno Bruto (PIB) se viene duplicando cada 10 años10.
+
+ Según el Índice Mundial de Innovación Global en Propiedad
+
+Intelectual 2023, Uruguay muestra una presencia moderada en las exportaciones de alta tecnología, constituyendo el 0,8% de su comercio total (posición 75 a nivel mundial). Sin embargo, el país sobresale significativamente en la exportación de servicios de TIC, representando el 7,9% de su comercio total y ocupando la séptima posición a nivel mundial en este sector11.
+
+ Las exportaciones uruguayas en tecnologías de la información en
+
+2022 ascendieron a 1.172 millones de dólares, el segundo servicio más exportado en el país después del turismo12. Es el mayor
+
+9 https://www.digitaldevelopmentcompass.org/country/URY 10 https://cuti.org.uy/destacados/el-sector-ti-en-la-economia-uruguaya-impacto-del-4-3-en-el-pib-y-quinto-rubro-de-exportacion-del-pais/11 https://www.wipo.int/publications/es/details.jsp?id=4680 12 https://www.uruguayxxi.gub.uy/es/centro-informacion/articulo/informe-anual-de-comercio-exterior-de-uruguay-2023/
+
+P á g i n a 9 d e 5 5 exportador de software per cápita de la región, y el cuarto en facturación anual de exportaciones de TI.
+
+Transformación Digital de Gobierno
+
+ Índice de Gobierno Digital: Uruguay se posiciona en el puesto 1 en
+
+América Latina, puesto 2 en las Américas y puesto 25 entre 193 países en el Índice de Gobierno Digital de Naciones Unidas de 2024.
+
+Este es un índice compuesto que incluye las dimensiones
+
+Infraestructura de telecomunicaciones, Capital humano, Servicios en línea y Participación ciudadana13.
+
+ Índice de Madurez de GovTech: Uruguay se encuentra en el grupo de nivel de desarrollo Muy Alto (grupo A) del índice elaborado por el
+
+Banco Mundial. El índice se desarrolló como parte de la iniciativa
+
+GovTech para introducir una medida de la madurez de GovTech en cuatro áreas de enfoque: apoyo a los sistemas gubernamentales centrales, mejora de la prestación de servicios, integración de la participación ciudadana y fomento de los habilitadores de GovTech14.
+
+Innovación
+
+ Índice Global de Innovación (IGI): Uruguay se ubica en la 4ta posición en América Latina y el Caribe en la edición 2023 del Índice Mundial de
+
+Innovación. El Índice Global de Innovación (IGI) es elaborado por la
+
+Organización Mundial de la Propiedad Intelectual (OMPI) de las
+
+Naciones Unidas, y mide el desempeño en innovación de 132 países a nivel mundial, localizando los 100 principales grupos de innovación en ciencia y tecnología15.
+
+ Inversión en Innovación: La Agencia Nacional de Investigación e
+
+Innovación (ANII) ha incrementado su presupuesto para actividades
+
+13 https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/datos-y-estadisticas/estadisticas/indice-desarrollo-del-gobierno-electronico-egdi 14 https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/datos-y-estadisticas/estadisticas/indice-madurez-govtech-gtmi 15 https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/datos-y-estadisticas/estadisticas/indice-global-innovacion-igi
+
+P á g i n a 1 0 d e 5 5 de promoción de la innovación, alcanzando los 48 millones de dólares en 2023.
+
+Inteligencia Artificial
+
+ Índice Latinoamericano de Inteligencia Artificial: De acuerdo con este índice, elaborado por el Centro Nacional de Inteligencia Artificial de
+
+Chile (CENIA) con el apoyo de múltiples actores del sector público, privado, multilateral y académico, Uruguay presenta importantes fortalezas y también oportunidades de mejora que lo posicionan en el lugar 3 en la región detrás de Brasil y Chile. Este estudio profundiza en las dimensiones: factores habilitantes, investigación, desarrollo y adopción y gobernanza16.
+
+ El Índice Global de IA Responsable: este índice, elaborado por el
+
+Centro Global sobre Gobernanza de la IA (GCG, por su sigla en inglés) ubica a Uruguay en el puesto 19 a nivel mundial y en el puesto
+
+2 en América del Sur. Incluye un conjunto de indicadores que permiten comparar los compromisos gubernamentales y las capacidades de los países con base en tres dimensiones:
+
+Capacidades, Derechos humanos y Gobernanza. Cada una de ellas evalúa el desempeño de tres pilares diferentes del ecosistema de inteligencia artificial (IA) responsable: marcos institucionales, acciones gubernamentales e iniciativas de actores no estatales, como sociedad civil, empresas y academia17.
+
+16 https://www.cepal.org/es/eventos/lanzamiento-la-segunda-version-indice-latinoamericano-inteligencia-artificial-ilia 17 https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/datos-y-estadisticas/estadisticas/indice-global-ia-responsable
+
+P á g i n a 1 1 d e 5 5"
+"3","","Principales hitos","","","2018: Centro Nacional de Supercomputación (ClusterUY)
+
+En 2018, comenzó a funcionar el Centro Nacional de Supercomputación
+
+(ClusterUY)18, y se ha consolidado como una plataforma clave para la computación de alto desempeño en Uruguay. Este centro, es una plataforma de computación de alto desempeño que gestiona múltiples recursos de cómputo de manera coordinada. Cuenta con una infraestructura que incluye más de 2.240 núcleos de cómputo CPU y 100.352 núcleos de cómputo GPU; y es fundamental para el apoyo a proyectos de investigación y desarrollo de IA, proporcionando la infraestructura necesaria para realizar complejas operaciones de procesamiento de datos y simulaciones avanzadas.
+
+2019: Hoja de Ruta de Ciencia de Datos y Aprendizaje Automático
+
+El Sistema Nacional de Transformación Productiva y Competitividad lanzó la Hoja de Ruta en Ciencia de Datos y Aprendizaje Automático19, presentando un conjunto de iniciativas en sectores estratégicos. Fue coordinada por el Ministerio de
+
+Industria, Energía y Minería (MIEM) junto con la Secretaría de Transforma Uruguay.
+
+Este esfuerzo involucró la colaboración de varios actores clave del sector público y privado, incluyendo instituciones como la Administración Nacional de Educación
+
+Pública (ANEP), Ceibal, UdelaR, Uruguay XXI, la Agencia Nacional de
+
+Investigación e Innovación (ANII), entre otros.
+
+2020: Estrategia de IA para el Gobierno Digital
+
+En 2020, Uruguay dio un paso significativo con la aprobación de la Estrategia de IA para el Gobierno Digital20. Esta estrategia, desarrollada por la Agencia de Gobierno
+
+Electrónico y Sociedad de la Información y del Conocimiento (Agesic), buscó incorporar la IA en el gobierno digital para mejorar la toma de decisiones basadas
+
+18 https://www.cluster.uy/19 https://www.gub.uy/ministerio-industria-energia-mineria/sites/ministerio-industria-energia-mineria/files/documentos/publicaciones/6112019%2BHoja%2Bde%2BRuta%2BCD%2BAA.pdf 20 https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/comunicacion/publicaciones/estrategia-inteligencia-artificial-para-gobierno-digital/estrategia
+
+P á g i n a 1 2 d e 5 5 en evidencias y desarrollar servicios proactivos. El instrumento se basó en un conjunto de nueve principios: finalidad, interés general, respeto de los derechos humanos, transparencia, responsabilidad, ética, valor agregado, privacidad por diseño y seguridad, e incorporó los principios de protección de datos personales.
+
+Su objetivo general se fundamentó en cuatro pilares: gobernanza de la IA en la administración pública, desarrollo de capacidades para la IA, uso y aplicación de la
+
+IA, y ciudadanía digital e IA.
+
+2021: Centro Interdisciplinario de Ciencia de Datos y Aprendizaje Automático
+
+En 2021 se lanzó el Centro Interdisciplinario de Ciencia de Datos y Aprendizaje
+
+Automático21 (CICADA). Esta iniciativa de la Universidad de la República (UdelaR), tiene el objetivo de reunir a investigadores de diversas disciplinas para abordar problemas complejos utilizando ciencia de datos y aprendizaje automático. Desde sus inicios, CICADA22 ha lanzado proyectos en diferentes áreas. Se mencionan a modo de ejemplo proyectos desarrollados en torno a genómica y bioinformática, procesamiento de imágenes médicas, los análisis epidemiológicos, los trabajos de ecología y ciencias ambientales, investigaciones en neurociencia y educación y aquellos que abarcan el procesamiento de lenguaje natural, promoviendo la investigación interdisciplinaria, la colaboración internacional y enfocándose actualmente en los desafíos y oportunidad de la IA en Uruguay.
+
+2022: Pensamiento computacional e Inteligencia Artificial, Innovación apoyo a startups y modificación de la Ley de Protección de Datos Personales
+
+En 2022, el programa de Pensamiento Computacional de Ceibal, que desde 2017 se ofrece a grupos de 4to, 5to y 6to de educación primaria pública, incorpora dentro de la currícula proyectos de inteligencia artificial que permiten abordar cómo funciona la IA, su potencial y sus límites. Se planifica su expansión y en 2024 el programa, además de pasar a llamarse Pensamiento Computacional e Inteligencia
+
+Artificial, abarca al 74% de los estudiantes de 4to, 5to y 6to de educación primaria
+
+21 https://www.fing.edu.uy/es/node/41277 22 Centro Interdisciplinario en Ciencia de Datos y Aprendizaje Automático (cicada.uy)
+
+P á g i n a 1 3 d e 5 5 pública. A partir de esta experiencia, Ceibal desarrolló y presentó el primer marco referencial para la enseñanza de la inteligencia artificial en Uruguay en 2023.
+
+Además, se lanzó el Uruguay Innovation Hub23, un programa impulsado por el
+
+Ministerio de Industria, Energía y Minería (MIEM), con el apoyo del Ministerio de
+
+Economía y Finanzas (MEF), la ANII, el instituto Uruguay XXI y el Banco
+
+Interamericano de Desarrollo (BID). Este programa tiene como objetivo fortalecer el ecosistema de innovación y emprendimiento en Uruguay, así como posicionar al país como un polo de innovación regional y global. Este hub busca atraer inversiones y aumentar el crecimiento económico mediante la creación de una economía basada en el conocimiento. Además, el Microsoft AI Co-Innovation Lab24 en Montevideo, en colaboración con el Laboratorio Tecnológico del Uruguay
+
+(LATU), dio apoyo a más de 70 startups uruguayas, ayudándolas a desarrollar y escalar soluciones innovadoras basadas en IA.
+
+El mismo año, mediante el artículo 63 de la Ley Nº 20.075 de 20 de octubre de
+
+202225, se modificó el artículo 34 de la Ley de Protección de datos Personales, Ley
+
+Nº 18.331, de 11 de agosto de 2008, y se atribuyó a la Unidad Reguladora y de
+
+Control de Datos Personales (URDCP) la potestad de: “I) Establecer los criterios y procedimientos que deban observar los responsables y encargados, en el tratamiento automatizado de datos personales indicados en el artículo 16” de la citada Ley.
+
+2023: Declaración de Montevideo, nuevo marco normativo y proceso de revisión de la Estrategia de IA para el Gobierno Digital
+
+En marzo de 2023, se adopta la Declaración de Montevideo sobre Inteligencia
+
+Artificial26, en el Encuentro Latinoamericano de Inteligencia Artificial (Khipu), que subraya la importancia de utilizar la IA de manera responsable y ética. Sus principios incluyen el uso de la IA para mejorar la calidad de vida respetando los derechos humanos, la representación de la diversidad cultural y geográfica, la
+
+23 https://uih.uy/24 https://www.gub.uy/ministerio-industria-energia-mineria/comunicacion/noticias/microsoft-ai-co-innovation-lab-celebro-ano-se-situa-exitosos-empresa-mundo 25 https://www.impo.com.uy/bases/leyes/20075-2022/63 26 https://zenodo.org/records/8208793
+
+P á g i n a 1 4 d e 5 5 minimización del impacto ambiental y social, y la mejora de las condiciones laborales. Además, se enfatiza la necesidad de fortalecer la soberanía y la regulación en los países latinoamericanos para asegurar un desarrollo tecnológico inclusivo y sostenible, con enfoque regional.
+
+En junio de 2023, Agesic inició el proceso de revisión de la Estrategia de IA para el
+
+Gobierno Digital27 a través de un amplio proceso participativo.
+
+Complementariamente el artículo 74 de la Ley Nº 20.212, de 6 de noviembre de
+
+202328, cometió a Agesic el diseño y desarrollo de una estrategia nacional “basada en estándares internacionales, en los ámbitos público y privado”. La Ley también estableció que la estrategia debe estar alineada con la Estrategia Nacional de
+
+Datos, considerando que los datos son un elemento central en el desarrollo de los sistemas de IA.
+
+Además se incorporó a la Agenda Uruguay Digital 2025, en la versión 202329, la siguiente meta: “constituir el marco institucional y de gobernanza definido en el proceso participativo de elaboración de la Estrategia Nacional de Inteligencia
+
+Artificial y de la Estrategia Nacional de Datos, para la implementación y sostenibilidad de los pilares y objetivos desarrollados en éstas, bajo los principios de equidad, no discriminación, responsabilidad, rendición de cuentas, transparencia, auditoría e innovación segura, respetando la dignidad humana, el sistema democrático y la forma republicana de gobierno, considerando los principios de protección de datos personales.”, reafirmando el compromiso con la política digital del país.
+
+27 https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/politicas-y-gestion/proceso-revision-estrategia-inteligencia-artificial-elaboracion-estrategia 28 https://www.impo.com.uy/bases/leyes/20212-2023/74#:~:text=Atrib%C3%BAyese%20a%20la%20Agencia%20para,los%20%C3%A1mbitos%20p%C3%BAbl ico%20y%20privado. 29 https://www.gub.uy/uruguay-digital/comunicacion/publicaciones/agenda-uruguay-digital-2025-actualizacion-medio-termino
+
+P á g i n a 1 5 d e 5 5
+
+2024: Recomendaciones sobre el marco regulatorio, Observatorio de IA en el
+
+Estado y programas académicos y especializaciones
+
+En junio de 2024 Agesic elevó al Poder Legislativo el informe “Artículo 74 de la Ley
+
+Nº 20.212 de 6 de noviembre de 202330: recomendaciones para una regulación de la Inteligencia Artificial (IA) orientada al desarrollo ético, la protección de los derechos humanos y el fomento de la innovación tecnológica”31.
+
+El informe fue elaborado con la colaboración de diversas entidades públicas, y se nutrió de los aportes de referentes de la academia y de la sociedad civil. Realizó recomendaciones sobre tres aspectos centrales: institucionalidad y gobernanza de la IA; ética, derechos humanos y democracia; e innovación responsable.
+
+Además, se lanzó el Observatorio de Inteligencia Artificial en el Estado32, un compromiso asumido en el marco del Quinto Plan de Acción Nacional de Gobierno
+
+Abierto 2021 - 202433, con el objetivo de promover el uso ético y responsable de la
+
+IA en el sector público. El diseño fue realizado incorporando el aporte de diversos actores de las instituciones públicas, la sociedad civil y la academia, y en su etapa inicial el observatorio incluyó los resultados del primer relevamiento de casos de uso de IA en el Estado y una guía con recomendaciones para la transparencia algorítmica.
+
+Al 2024, Uruguay cuenta con programas académicos y especializaciones en el campo de la IA orientados a formar profesionales altamente capacitados para enfrentar los desafíos y aprovechar las oportunidades que ofrece esta disciplina.
+
+Entre estos programas se destacan la Licenciatura en Ingeniería de Datos e
+
+Inteligencia Artificial de la Universidad Tecnológica del Uruguay (UTEC), la
+
+Ingeniería en Inteligencia Artificial y Ciencia de Datos de la Universidad Católica del
+
+Uruguay (UCU), el Diploma de Especialización en Inteligencia Artificial de la
+
+Universidad ORT Uruguay, la Ingeniería de Datos e Inteligencia Artificial de la
+
+Universidad de Montevideo (UM), Diploma en Inteligencia Artificial aplicada de la
+
+30 https://www.impo.com.uy/bases/leyes/20212-2023/74 31 https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/comunicacion/noticias/recomendaciones-para-regulacion-inteligencia-artificial 32 https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/observatorio-inteligencia-artificial 33 https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/node/6200
+
+P á g i n a 1 6 d e 5 5
+
+Universidad de la Empresa (UDE) y la Maestría en Ciencia de Datos aplicada de la
+
+Universidad de la República (UdelaR). Estas iniciativas amplían la oferta educativa en el país y refuerzan el compromiso de Uruguay con la innovación y el desarrollo tecnológico.
+
+Compromiso con la ética y los derechos humanos
+
+Uruguay ha demostrado un firme compromiso con la aplicación de principios éticos y la protección de los derechos humanos en su integralidad en el desarrollo y la implementación de la IA.
+
+En 2023 el país adhirió a la Recomendación sobre la ética de la IA de UNESCO34 y aplicó la Metodología de evaluación del estado de preparación del país (RAM, por su sigla en inglés), para la aplicación efectiva de la Recomendación, cuyo informe final fue publicado en octubre de 202435. También se unió como miembro observador al Comité de Inteligencia Artificial del Consejo de Europa, ámbito intergubernamental en el cual se elaboró el Convenio Marco sobre Inteligencia
+
+Artificial, Derechos Humanos, Estado de Derecho y Democracia36, que representa el primer tratado vinculante en la materia y que fue abierto a la firma el 5 de setiembre de 2024.
+
+En 2024 Uruguay adhirió a la Recomendación del Consejo sobre la inteligencia artificial de la Organización para la Cooperación y el Desarrollo Económico
+
+(OCDE)37. El 21 de marzo de este mismo año se convirtió en uno de los más de
+
+120 países en acompañar en el ámbito de las Naciones Unidas la adopción de la resolución histórica de la Asamblea General, denominada “Aprovechar las oportunidades de sistemas seguros y fiables de inteligencia artificial para el desarrollo sostenible” (A/RES/78/265)38.
+
+34 https://unesdoc.unesco.org/ark:/48223/pf0000381137_spa 35 https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/comunicacion/noticias/presentacion-del-informe-metodologia-ram-uruguay 36 https://rm.coe.int/1680afae3c 37 https://one.oecd.org/document/C/MIN(2019)3/FINAL/en/pdf 38 https://documents.un.org/doc/undoc/gen/n24/087/86/pdf/n2408786.pdf
+
+P á g i n a 1 7 d e 5 5
+
+Articulación y liderazgo regional e internacional
+
+En 2022 Uruguay asumió la presidencia de la Agenda digital para América Latina y el Caribe (eLAC) para el período 2022 -2024, en el marco de la Octava Conferencia
+
+Ministerial sobre la Sociedad de la Información de América Latina y el Caribe realizada en Montevideo. En este marco, se conformó el Grupo de trabajo sobre inteligencia artificial coordinado por el Centro Nacional de Inteligencia Artificial de
+
+Chile y la Agencia de Gobierno Electrónico y Sociedad de la Información y del
+
+Conocimiento (Agesic) de Uruguay39.
+
+En 2024 Uruguay fue sede de la Reunión preparatoria de la Novena Conferencia
+
+Ministerial sobre la Sociedad de la Información de América Latina y el Caribe
+
+(eLAC) donde se trabajó en los acuerdos que dieron lugar a la nueva Agenda
+
+Digital Regional 2026, aprobada en noviembre de 2024 en Santiago de Chile.
+
+En el mismo año Uruguay fue sede y coorganizador de la Segunda Cumbre
+
+Ministerial y de Altas Autoridades sobre la Ética de la IA en América Latina y el
+
+Caribe, donde se aprobó la Declaración de Montevideo40 y la Hoja de Ruta de
+
+Inteligencia Artificial Ética para América Latina y el Caribe 2024 – 202541, dando continuidad al proceso iniciado en la Primera Cumbre que tuvo lugar en el año 2023 en Santiago de Chile.
+
+En dicha Cumbre se consolidó la creación del Grupo de Trabajo sobre la Ética de la
+
+Inteligencia Artificial en América Latina y el Caribe como espacio de diálogo permanente y de reunión periódica, con enfoque regional y de coordinación de las acciones necesarias para la implementación de la Hoja de Ruta aprobada. En el marco de la Cumbre Uruguay asumió el liderazgo del Grupo de Trabajo comprometiéndose a conducir su labor para avanzar en la implementación de la
+
+Hoja de Ruta 2024 -2025. Dicho grupo cuenta con la secretaría técnica de CAF y
+
+UNESCO.
+
+39 https://elac.cepal.org/docs/TdR%20Grupo%20de%20IA%2007_23.pdf 40 https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/comunicacion/noticias/aprobacion-declaracion-montevideo 41 https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/comunicacion/noticias/aprobacion-declaracion-montevideo
+
+P á g i n a 1 8 d e 5 5
+
+También en el año 2024, en la undécima reunión de la Cumbre Ministerial del
+
+Digital Nations (DN) se acordó que Uruguay lidere el grupo de trabajo de IA durante el año 2025.
+
+Impacto y futuro
+
+Los esfuerzos realizados hasta la fecha están teniendo un impacto auspicioso en diversos sectores estratégicos. En la salud, la IA se utiliza para mejorar el diagnóstico y tratamiento de enfermedades, así como la gestión de datos de pacientes. En la agricultura, tecnologías como la detección de malezas y la optimización del riego están transformando la producción agrícola. En el sector energético, la IA ayuda a gestionar y optimizar la producción y distribución de energía, especialmente en proyectos de energías renovables.
+
+Estas iniciativas reflejan el compromiso de Uruguay con la innovación y el desarrollo tecnológico. La colaboración continua entre el Estado, la academia, la sociedad civil y el sector privado será crucial para enfrentar los desafíos futuros y aprovechar las oportunidades que la IA ofrece, siempre con un enfoque ético y respetuoso de los derechos humanos.
+
+Contar con una nueva Estrategia de IA de alcance nacional, articulada con todos los instrumentos de la política digital del país y otras estrategias nacionales, es clave para continuar y fortalecer la colaboración entre los múltiples partes interesadas en favor del desarrollo sostenible, fomentar la innovación, contar con políticas horizontales y sectoriales consistentes con los estándares internacionales, asegurar que los beneficios de la IA sean accesibles para todas las personas, y potenciar el liderazgo regional de Uruguay y la participación del país en los distintos esfuerzos para la gobernanza global de la IA. La Estrategia se convierte también en un importante instrumento para avanzar en la implementación de los compromisos asumidos en el marco del Pacto Digital Global, aprobado por resolución de la
+
+Asamblea General de las Naciones Unidas el 22 de septiembre de 2024 en la
+
+Cumbre del Futuro.
+
+P á g i n a 1 9 d e 5 5"
+"2","","Objetivos de la Estrategia","","",""
+"3","","Objetivo general","","","Aprovechar la inteligencia artificial (IA) como instrumento para el desarrollo sostenible y el crecimiento inclusivo de Uruguay, impulsando su desarrollo y uso ético, responsable, seguro, crítico, creativo y pro-innovación, en beneficio del bienestar de las personas y de todos los sectores de la sociedad, la economía y la mejora de la gestión pública."
+"3","","Objetivos específicos","","","1. Gobernanza: establecer un marco de gobernanza que garantice el desarrollo y uso ético, responsable y seguro de la IA, asegurando una institucionalidad adecuada, marcos regulatorios claros y procesos eficientes que promuevan la transparencia, la seguridad, la inclusión y la seguridad jurídica en el ámbito de la IA.
+
+2. Capacidades: desarrollar las capacidades y las condiciones nacionales necesarias para fomentar y aprovechar la innovación y la aplicación de la IA, con un enfoque integral que contemple la infraestructura, los datos, la gestión del talento y las habilidades.
+
+3. Desarrollo sostenible: aprovechar la IA como motor clave para el crecimiento económico con inclusión, el desarrollo sostenible del país, el fortalecimiento de la competitividad del sector privado, la profundización del proceso de transformación digital del Uruguay, la mejora de la gestión y los servicios públicos, y potenciar la investigación y la innovación. Maximizar los beneficios de esta tecnología para la sociedad considerando los impactos positivos y mitigando los posibles impactos adversos, desarrollando las capacidades para la integración crítica de la IA en la sociedad.
+
+P á g i n a 2 0 d e 5 5"
+"2","","Principios rectores","","",""
+"3","","Propósito y alcance","","","La presente sección desarrolla el conjunto de principios rectores en los que se funda la Estrategia Nacional de Inteligencia Artificial de Uruguay de conformidad con el artículo 74 de la Ley Nº 20.212, de 6 de noviembre de 202342.
+
+Estos principios deben regir la gobernanza de la IA para asegurar el desarrollo y uso ético, seguro, responsable y pro-innovación de estas tecnologías y lograr los objetivos de la presente Estrategia. Abarcan al sector público y privado, y deben aplicarse según el contexto, los diferentes roles, obligaciones y responsabilidades que les corresponden a sus diversos actores de conformidad con el ordenamiento jurídico. No crean ninguna nueva obligación jurídica diferente a las que se desprenden del ordenamiento jurídico, sino que especifican las medidas y prácticas mínimas que posibilitan su implementación.
+
+Articulan la Estrategia Nacional de IA de Uruguay con los diversos instrumentos que hacen a la política digital del país, entre otros, la Agenda Uruguay Digital 2025, la Estrategia Nacional de Ciberseguridad (2024 – 2030), la Estrategia Nacional de
+
+Ciudadanía Digital para una Sociedad de la Información y el Conocimiento (2024-
+
+2028)43 y la Estrategia Nacional de Datos cuya construcción sucedió de forma simultánea a la presente. Se basan en la Recomendación sobre la ética de la inteligencia artificial de la UNESCO44, y la Recomendación del Consejo sobre la inteligencia artificial de la OCDE45 a las cuales Uruguay adhirió.
+
+También recogen los estándares emergentes del Convenio Marco sobre
+
+Inteligencia Artificial, Derechos Humanos, Democracia y Estado de Derecho adoptado por el Consejo de Europa que fue elaborado por el Comité de Inteligencia
+
+42 https://www.impo.com.uy/bases/leyes/20212-2023/74#:~:text=Atrib%C3%BAyese%20a%20la%20Agencia%20para,los%20%C3%A1mbitos%20p%C3%BAbl ico%20y%20privado. 43 https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/comunicacion/publicaciones/estrategia-nacional-ciudadania-digital-para-sociedad-informacion 44 https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/comunicacion/noticias/uruguay-adhiere-recomendacion-etica-inteligencia-artificial-unesco 45 https://one.oecd.org/document/C/MIN(2019)3/FINAL/en/pdf
+
+P á g i n a 2 1 d e 5 5
+
+Artificial de la organización intergubernamental en el cual Uruguay participa como observador.
+
+Asimismo, los principios rectores contribuyen a la implementación a nivel nacional de la Resolución de la Asamblea General de Naciones Unidas del 21 de marzo de
+
+2024, “Aprovechar las oportunidades de sistemas seguros y fiables de inteligencia artificial para el desarrollo sostenible” (A/RES/78/265)46, la cual fue apoyada por más de 120 Estados, incluyendo a Uruguay.
+
+Se presentan agrupados según los valores principales que subyacen como fundamento, sin perjuicio de la interrelación y complementariedad de los principios y de que deben entenderse como un conjunto indivisible.
+
+Para los fines de la Estrategia, se adoptan las siguientes definiciones elaboradas por la OCDE, que se reproducen a continuación47:
+
+Actores de la IA: los actores de IA son aquellos que desempeñan un papel activo en el ciclo de vida del sistema de IA, como las entidades y personas que despliegan y explotan la IA.
+
+Ciclo de vida del sistema de IA: el ciclo de vida de un sistema de IA comprende generalmente varias fases: planificación y diseño; recopilación y tratamiento de datos; creación de modelo(s) y/o adaptación de modelo(s) existente(s) a tareas específicas; prueba, evaluación, verificación y validación; entrada en servicio/despliegue; explotación y supervisión; y retirada/desmantelamiento. Estas fases a menudo se desarrollan de forma iterativa y no son necesariamente secuenciales. La decisión de dejar de explotar un sistema de IA puede producirse en cualquier momento durante la fase de explotación y supervisión.
+
+Sistema de IA: un sistema de IA es un sistema basado en máquinas que, para objetivos explícitos o implícitos, infiere, a partir de los datos de entrada que recibe, cómo generar información de salida como predicciones, contenidos, recomendaciones o decisiones, que pueden influir en entornos reales o virtuales.
+
+46 https://documents.un.org/doc/undoc/gen/n24/087/86/pdf/n2408786.pdf 47 OCDE (2019). Recomendación del Consejo sobre Inteligencia Artificial, C/MIN(2019)3/FINAL, punto (I). Traducción no oficial. Disponible en: https://one.oecd.org/document/C/MIN(2019)3/FINAL/en/pdf
+
+P á g i n a 2 2 d e 5 5
+
+Una vez implementados, los distintos sistemas de IA presentan diversos niveles de autonomía y varían en su capacidad de adaptación."
+"3","","Principios","","","1. IA para el bienestar de las personas y el desarrollo sostenible
+
+El bienestar de las personas debe ser colocado en el centro de las decisiones, procesos y aplicaciones relacionados con la inteligencia artificial.
+
+Los avances tecnológicos representan nuevas oportunidades y también nuevos retos para asegurar el desarrollo sostenible, que involucra entre otras dimensiones, el crecimiento económico inclusivo, la inclusión social y la protección del ambiente.
+
+Aprovechar la IA como instrumento para el cumplimiento de estas metas requiere de políticas públicas, del esfuerzo conjunto y la colaboración entre el sector público, el sector privado y las partes interesadas, y la evaluación continua de las repercusiones sociales, económicas y ambientales implicadas en el desarrollo y aplicación de los sistemas de IA.
+
+2. Fortalecimiento de la democracia
+
+El desarrollo y aplicación de la IA debe ser consistente con los valores democráticos. Esto supone aprovechar los potenciales beneficios que puede traer la incorporación de la IA para el funcionamiento de la democracia y abordar los retos que requieren atención.
+
+Tal propósito exige, por un lado, identificar y apropiarse de las posibilidades que ofrece la IA para fortalecer los pilares del funcionamiento democrático, tales como la transparencia y rendición de cuentas pública, la participación ciudadana y el acceso a la información, así como para la mejora de la eficiencia de la gestión pública a través de su incorporación a los procesos que se beneficien de la IA.
+
+Simultáneamente, exige atender los desafíos actuales y futuros amplificados por la
+
+IA en relación con la protección del debate público, el derecho de las personas a formar sus opiniones libremente, la libertad de expresión, y la integridad de los
+
+P á g i n a 2 3 d e 5 5 procesos electorales. Lo anteriormente mencionado demanda abordar las repercusiones de la IA en la desinformación de manera consistente con la libertad de expresión y otros derechos y buscando además aprovechar la IA para combatir este fenómeno.
+
+Este abordaje debe realizarse bajo un enfoque integral que involucre a las múltiples partes interesadas e incluir medidas para fortalecer la alfabetización digital e informacional en todos los segmentos de la población, medidas para la regulación legal y la corregulación, y cuando sea pertinente, el apoyo a las medidas de autorregulación que sean adoptadas proactivamente en las áreas en las que este tipo de medidas pueda resultar adecuada y/o complementaria de las otras, de conformidad con los estándares internacionales.
+
+Frente a los contenidos generados por IA este enfoque integral debe asegurar que las personas estén informadas cuando interactúan con un sistema de IA y comprendan cuándo el contenido ha sido generado o manipulado por IA.
+
+Desde una perspectiva amplia, implica considerar el impacto de la IA en la desinformación en los marcos que se desarrollen para la gobernanza de las plataformas; fortalecer las habilidades digitales instrumentales y fundamentales de las personas para interactuar de manera crítica en el entorno digital y comprender cómo funcionan los algoritmos y el uso de la IA en la moderación y curación de contenidos; así como asegurar la transparencia y rendición de cuentas de los marcos y procesos en que estos se sustentan.
+
+La integración de la IA en la sociedad debe hacerse de manera que fortalezca, y no debilite, los principios fundamentales del Estado de derecho y la democracia. Al garantizar la transparencia, la responsabilidad, la integridad de la información y el respeto por la libertad de expresión, los actores de la IA pueden contribuir a un ecosistema informativo más seguro y confiable. La lucha contra la desinformación es un desafío continuo que requiere la colaboración de gobiernos, empresas tecnológicas, organizaciones civiles y la ciudadanía en general.
+
+P á g i n a 2 4 d e 5 5
+
+3. Respeto de la dignidad y los derechos humanos
+
+Los sistemas de IA deben ser desarrollados y utilizados bajo principios éticos, de manera compatible con la dignidad humana y respetuosa de los derechos humanos protegidos por los instrumentos internacionales ratificados por el Estado y por la legislación nacional, asegurando la autonomía de las personas, su privacidad, libertades fundamentales, igualdad y no discriminación, entre otros derechos.
+
+Con este fin la actuación de los actores de la IA del sector público se debe regir en función de la obligación jurídica del Estado de respetar, garantizar y proteger los derechos humanos.
+
+Esto supone, en primer lugar, abstenerse de usar los sistemas de IA de una manera que pueda vulnerar los derechos de las personas. Asimismo, y en función de la posición garante del Estado, implica el deber de los organismos públicos de mantener o adoptar en el ámbito de sus competencias, las medidas que resulten necesarias y adecuadas para proteger los derechos humanos en relación con las actividades tanto del sector público como privado, implicadas en el ciclo de vida de la IA.
+
+Estas medidas deben incluir marcos y procedimientos que posibiliten identificar, evaluar, prevenir y mitigar, según corresponda ex ante o de manera iterativa durante el ciclo de vida de los sistemas de IA, los impactos adversos en los derechos humanos en función del riesgo y uso previsto implicado. Dichos marcos deben tener en cuenta el contexto y uso previsto de los sistemas de IA, así como la gravedad y probabilidad de los riesgos e impactos sobre los derechos humanos.
+
+Asimismo, tales medidas deberán asegurar que las vulneraciones de los derechos humanos que resulten de la actividad del sector público y privado implicadas en el ciclo de vida de los sistemas de IA puedan ser debidamente reparadas asegurando la disponibilidad de mecanismos y recursos para ello.
+
+Para los organismos públicos, la implementación de este principio supone el deber específico de mantener o adoptar medidas para asegurar que las soluciones tecnológicas que utilicen IA que desarrollen, adquieran o utilicen en el ejercicio de sus cometidos, respeten la dignidad humana y los derechos de las personas.
+
+P á g i n a 2 5 d e 5 5
+
+Al implementar este principio, la actuación de los actores del sector privado debe enmarcarse en la responsabilidad de las entidades privadas de respetar los derechos humanos48 y la obligación de cumplir las normas nacionales e internacionales que protegen tales derechos.
+
+La responsabilidad de respetar los derechos humanos exige la acción proactiva por parte de las entidades privadas.
+
+En tal sentido y siguiendo los Principios Rectores sobre Empresas y Derechos
+
+Humanos de las Naciones Unidas49 tal deber implica: I) abstenerse de infringir los derechos humanos; ii) contar con un proceso de debida diligencia en materia de derechos humanos para identificar, prevenir, mitigar y rendir cuentas de cómo abordan su impacto sobre tales derechos, los cuales deben ser definidos en función de la gravedad de los riesgos e impactos implicados para los derechos humanos;
+
+iii) y mecanismos para remediar las vulneraciones en las que hayan incurrido.
+
+El uso de sistemas de IA en la toma de decisiones plantea un desafío fundamental:
+
+asegurar que tales decisiones sean justas, transparentes y responsables.
+
+La supervisión y decisión humanas cumplen un papel fundamental para prevenir que las aplicaciones de los sistemas de IA puedan tener efectos negativos sobre los derechos de las personas. En aras de un uso de la IA ético y respetuoso de los derechos humanos los actores de la IA deben asegurar que, cuando los sistemas de IA se utilicen para tomar decisiones o apoyar la toma de decisiones, siempre haya una supervisión humana sobre los resultados producidos por la IA, siendo pertinente considerar las características que debe tener dicha supervisión fundamentalmente en los sistemas de alto riesgo. Será un reto establecer controles sobre los datos y los sistemas, pero al igual que con los procesos automatizados utilizados antes del surgimiento de esta tecnología, es imperativo supervisar los resultados y asegurar su fiabilidad antes de tomar decisiones con base en ellos.
+
+48 Conforme los Principios sobre Derechos Humanos y Empresas adoptados por el Consejo de Derechos Humanos de las Naciones Unidas en 2011, “la responsabilidad de respetar los derechos humanos constituye una norma de conducta mundial aplicable a todas las empresas, dondequiera que operen. Existe con independencia de la capacidad y/o voluntad de los Estados de cumplir sus propias obligaciones de derechos humanos y no reduce esas obligaciones. Se trata de una responsabilidad adicional a la de cumplir las leyes y normas nacionales de protección de los derechos humanos” 49 https://www.ohchr.org/sites/default/files/documents/publications/guidingprinciplesbusinesshr_sp.pdf
+
+P á g i n a 2 6 d e 5 5
+
+Otro aspecto de la gobernanza de la IA que particularmente requiere ser atendido bajo este principio rector es el desarrollo y uso de la inteligencia artificial en el campo de la neurotecnología. En tal sentido, maximizar las oportunidades presentes y futuras implicadas en la neurotecnología para la humanidad, exige abordar los retos para los derechos humanos derivados de la convergencia, uso y desarrollo de la IA en este ámbito, tal y como ha sido planteado por el Comité experto Asesor del Consejo de Derechos Humanos en esta materia50.
+
+Aplicar el enfoque de derechos humanos a la gobernanza de la IA también exige maximizar las oportunidades de impacto positivo y abordar los riesgos diferenciados implicados para los grupos en situación de mayor vulnerabilidad.
+
+4. Equidad y no discriminación
+
+Los sistemas de IA deben ser desarrollados y utilizados de forma que se respete la igualdad, así como la prohibición de discriminación.
+
+Con este fin los actores de la IA deben considerar durante todas las fases del ciclo de vida de los sistemas, las necesidades específicas y los impactos diferenciados en los grupos en situación de vulnerabilidad, incluyendo aquellos cuya situación puede verse potenciada por las características propias de los sistemas de IA y su aplicación en ámbitos específicos, tales como los niños, niñas y adolescentes, las personas mayores, y las personas en situación de discapacidad, entre otras.
+
+Asimismo, la implementación de este principio pone de manifiesto la importancia de la adopción de medidas proactivas para abordar las repercusiones de IA en relación con la igualdad de género y otras desigualdades estructurales. Tales medidas deben estar orientadas a evitar que los estereotipos y los sesgos discriminatorios debido a factores tales como el género, la identidad étnico-racial, la condición social, el origen nacional, entre otros, se vean reproducidos y/o perpetuados en los sistemas de IA y su aplicación.
+
+50 https://documents.un.org/doc/undoc/gen/g24/133/31/pdf/g2413331.pdf
+
+P á g i n a 2 7 d e 5 5
+
+Todos los actores de la IA deben trabajar colaborativamente para reducir la posibilidad de sesgos no deseados en los datos y modelos utilizados que puedan impactar de manera negativa en las personas, adoptando medidas que propendan a la calidad de los datos de entrenamiento y para ello es importante la diversidad e interdisciplinariedad de los equipos que participan en el diseño, desarrollo y monitoreo de estos sistemas. Con este mismo fin el sector público debe fomentar el desarrollo de modelos de IA que utilicen datos de calidad adoptando medidas que faciliten la apertura y el acceso a datos públicos que contribuyan a superar la subrepresentación estructural de diversos grupos de la sociedad.
+
+Este principio abarca tanto a la discriminación basada en sesgo algorítmico, como la basada en sesgos de automatización, esto es, la tendencia humana a confiar excesivamente en el apoyo de algoritmos, incluso cuando estos cometen errores.
+
+Al implementar este principio, los actores del sector público deben velar en el ámbito de sus competencias por fomentar el acceso equitativo de todas las personas a los beneficios de las tecnologías de la IA, abordando las brechas digitales que habiliten el logro de ese objetivo. Asimismo, los esfuerzos que desarrollen el sector privado, las organizaciones de la sociedad civil y la academia son importantes para el logro de ese objetivo y deberían ser alentados.
+
+5. Protección y privacidad de los datos personales
+
+La protección y el respeto por la privacidad de los datos personales deben asegurarse desde el diseño y en todas las fases del ciclo de vida de los sistemas de
+
+IA.
+
+Para ello, los actores de la IA –del ámbito público o privadodeben garantizar que los datos que recopilen y utilicen, cumplan con la normativa vigente sobre protección y privacidad de datos personales, y los lineamientos de la Unidad
+
+Reguladora y de Control de Datos Personales (URCDP). Ello implica desde el cumplimiento de obligaciones formales como la inscripción de bases de datos o la notificación de vulneraciones de seguridad, hasta medidas de responsabilidad proactiva como la implementación de evaluaciones de impacto en la protección de
+
+P á g i n a 2 8 d e 5 5 datos personales, la designación de delegados de protección de datos, la adopción de medidas de privacidad por diseño y por defecto entre otros.
+
+La transversalidad de los principios de la protección de datos contribuye a generar certeza en el uso de la información personal y de los sistemas de IA en particular, lo que se complementa con un conjunto de derechos que aportan a llevar transparencia a las actividades de tratamiento automatizado, y seguridad jurídica a los actores de la IA, entre otros.
+
+Los Principios de la Protección de Datos Personales establecidos por la Ley Nº
+
+18.331 de 200851, de 11 de agosto de 2008, integran los principios de esta
+
+Estrategia, de conformidad con el artículo 74 de la Ley Nº 20.212, de 6 de noviembre de 202352. Estos principios, regulados en los artículos 5 a 12 de la Ley
+
+Nº 18.331 referida, son: legalidad, veracidad, finalidad, previo consentimiento informado, seguridad de los datos, reserva y responsabilidad –proactiva-.
+
+6. Transparencia y explicabilidad
+
+La transparencia y explicabilidad cumplen un papel crucial para garantizar la efectividad de todos los principios anteriores. Los actores de la IA deben asegurar la transparencia y explicabilidad en relación con los sistemas de IA.
+
+Esto implica proporcionar información significativa adecuada al contexto y la situación específica, de manera equilibrada con la protección de otros derechos que puedan estar implicados. La información divulgada debe permitir que los resultados se hagan inteligibles y debe ser apropiada para habilitar que las personas puedan impugnarlos cuando se vean afectadas.
+
+Para ello deben asegurar que las personas sean informadas sobre el uso que se realiza de la IA y adoptar medidas que posibiliten la identificación de contenido generado por esta tecnología cuando sea técnicamente viable y apropiado.
+
+51 https://www.impo.com.uy/bases/leyes/18331-2008 52 https://www.impo.com.uy/bases/leyes/20212-2023/74#:~:text=Atrib%C3%BAyese%20a%20la%20Agencia%20para,los%20%C3%A1mbitos%20p%C3%BAbl ico%20y%20privado.
+
+P á g i n a 2 9 d e 5 5
+
+En el caso específico del sector público, la implementación de este principio supone además que las entidades públicas que utilicen IA, ya sea en la entrega de servicios públicos o en el apoyo a la toma de decisiones, garanticen el acceso a la información pública respectiva, de conformidad con lo establecido por la Ley N°
+
+18.381 de octubre de 200853 y sus decretos reglamentarios.
+
+La aplicación por los actores del sector público de la Ley N° 19.179 de 27 de diciembre de 2013, reglamentada por el Decreto N° 44/015, de 30 de enero de
+
+2015, y la utilización de modelos de IA abiertos, también son elementos fundamentales para asegurar la transparencia y explicabilidad de los sistemas desarrollados, utilizados y adquiridos por el Estado.
+
+7. Responsabilidad y rendición de cuentas
+
+Los actores de la IA deben ser responsables del correcto funcionamiento de los sistemas de IA y velar por que cumplan con todos los principios rectores.
+
+De acuerdo con sus funciones, el contexto y el estado de la tecnología, deberán establecer los responsables y mecanismos para asegurar que sean auditables y la trazabilidad de los conjuntos de datos que utilicen.
+
+Los procesos de supervisión y rendición de cuentas deben ser transparentes para que el público y quienes utilizan los sistemas puedan ver cómo se están gestionando y supervisando.
+
+Otro aspecto a considerar lo constituye la definición de los correspondientes ámbitos de responsabilidad de cada uno de los actores del sistema, a través de normas legales, reglamentarias o contractuales, cuando corresponda.
+
+8. Fiabilidad y seguridad
+
+Los sistemas de IA deben ser fiables, seguros y resilientes, de forma que tengan capacidad para recuperarse en caso de fallos o ataques y generen resultados y acciones coherentes. Los actores de la IA deben asegurar que los sistemas de IA
+
+53 https://www.impo.com.uy/bases/leyes/18381-2008
+
+P á g i n a 3 0 d e 5 5 funcionen adecuadamente y no planteen riesgos en materia de seguridad, y cumplan con los principios de seguridad de la información desde el diseño.
+
+Esto supone que deben adoptar medidas y procedimientos para asegurar la robustez y resiliencia de los sistemas, su actualización y mejora continua, la calidad de los datos, la precisión y consistencia de los modelos, la estabilidad de los sistemas, la transparencia y explicabilidad, la privacidad, la protección de datos personales y la seguridad frente a posibles ataques cibernéticos, así como su desarrollo y adopción bajo principios éticos.
+
+Los lineamientos y la normativa relacionada con ciberseguridad vigentes en
+
+Uruguay que apliquen al desarrollo y uso de la IA se consideran parte de estos principios.
+
+9. Innovación responsable y segura
+
+La implementación de estos principios debería realizarse sobre la base de la importancia que revisten la investigación y la innovación como factores clave para el desarrollo sostenible del país en sus diferentes dimensiones.
+
+La colaboración entre el sector público y privado, la academia y los centros de investigación y emprendimiento son esenciales para fomentar la innovación tecnológica orientada a potenciar y aprovechar los beneficios de la IA en favor de las personas y la sociedad. Igualmente lo son las redes de conocimiento y colaboración a nivel nacional e internacional.
+
+La innovación responsable y segura en IA implica, entonces, desarrollar tecnologías alineadas con principios éticos y derechos humanos, incorporando medidas de seguridad y privacidad desde el diseño y durante todo el ciclo de vida, cumpliendo con regulaciones y adaptándose a cambios normativos. La innovación responsable implica también promover un impacto social positivo y evaluar y ajustar continuamente las innovaciones basándose en la retroalimentación para asegurar una implementación segura y ética.
+
+P á g i n a 3 1 d e 5 5
+
+10. Múltiples partes interesadas
+
+La gobernanza de la IA debe basarse en el enfoque de múltiples partes interesadas.
+
+Esto supone que debe avanzar con la participación del sector público, el sector privado, la sociedad civil, la comunidad técnica y la academia, entre otros actores, sustentada en un diseño institucional que contemple espacios y mecanismos que lo posibiliten.
+
+Este principio es clave para habilitar una gobernanza de la IA en la que estén presentes distintas perspectivas, enfoques y disciplinas, e involucra una participación amplia, diversa e interdisciplinaria.
+
+P á g i n a 3 2 d e 5 5"
+"2","","Ejes temáticos","","",""
+"3","","Eje 1. Gobernanza","","","Establecer un marco de gobernanza orientado a asegurar el desarrollo y el uso ético, responsable y seguro de la inteligencia artificial, utilizando su potencial como herramienta para el desarrollo sostenible e inclusivo del país.
+
+Este marco debe establecer la institucionalidad, la organización, los marcos regulatorios y los procesos necesarios para el cumplimiento del objetivo, así como fortalecer la colaboración y la articulación con las partes interesadas, para asegurar una implementación efectiva y coordinada.
+
+Línea 1.1 Institucionalidad
+
+Establecer el diseño institucional y organizativo acorde a los objetivos de la
+
+Estrategia, que incorpore procesos e instrumentos para su implementación, seguimiento, monitoreo y actualización, asegurando la integración articulada de múltiples partes interesadas.
+
+Acciones
+
+1. Definir y constituir el modelo gobernanza país y el diseño institucional adecuado para la implementación de la Estrategia Nacional de IA, que asegure abordajes integrales y sectoriales que garanticen su sostenibilidad y mejoramiento continuo; mecanismos de articulación y participación permanentes para integrar enfoques de múltiples actores y sectores; y mecanismos de seguimiento, monitoreo y rendición de cuentas.
+
+2. Incorporar y/o adecuar las competencias de los organismos públicos en relación con sus cometidos sustantivos, para fortalecer la supervisión y fiscalización, y la disponibilidad de mecanismos adecuados y efectivos para la reclamación.
+
+P á g i n a 3 3 d e 5 5
+
+3. Evolucionar y consolidar el Observatorio de IA en el Estado54 como una herramienta para promover la transparencia en el uso de la IA por parte del
+
+Estado, generar información para la toma de decisiones y posicionarlo como un centro de recursos para la gestión del conocimiento en la materia, para todos los sectores del ecosistema.
+
+Línea 1.2 Marcos regulatorios
+
+Desarrollar y adoptar los marcos regulatorios necesarios basados en un enfoque de riesgo y otros que se determinen para fomentar el desarrollo y uso ético, responsable y seguro de los sistemas de IA, de conformidad con los principios establecidos en esta Estrategia.
+
+Estos marcos deben promover y garantizar la transparencia y el respeto por los derechos humanos, incluyendo la privacidad y la protección de datos personales, la democracia y el Estado de Derecho a lo largo de todas las etapas del ciclo de vida de los sistemas de IA, desde el análisis inicial hasta la implementación y fiscalización, así como brindar seguridad jurídica.
+
+Acciones
+
+1. Identificar brechas existentes a nivel normativo que limiten o impidan la consecución de una adecuada gobernanza basada en principios éticos, la protección de los derechos humanos y el fomento del desarrollo sostenible y la innovación, y promover bajo un enfoque basado en el riesgo y otros que se determinen, instrumentos -vinculantes o node carácter regulatorio, corregulatorio y de autorregulación, cuando corresponda, adecuando los requisitos regulatorios a las distintas capas de la arquitectura tecnológica y los diferentes roles dentro del ciclo de vida de la IA. Analizar y definir sobre la base de consensos nacionales las aplicaciones de los sistemas de IA que resultan inaceptables como sociedad por su impacto sobre los derechos de
+
+54 Observatorio de Inteligencia Artificial | Agencia de Gobierno Electrónico y Sociedad de la Información y del Conocimiento
+
+P á g i n a 3 4 d e 5 5 las personas, evaluando las prohibiciones o moratorias que resulten adecuadas.
+
+2. Elaborar un diagnóstico que identifique las brechas existentes a nivel regulatorio para abordar los retos implicados en la IA en relación con el régimen de propiedad intelectual y responsabilidad civil y establecer los marcos sustentados en consensos nacionales sobre la base de un enfoque multiactor, que contemple los distintos intereses y equilibrios necesarios.
+
+3. Abordar los impactos del uso de la IA con fines de seguridad pública procurando un equilibrio entre, por un lado, la innovación en materia de seguridad pública y, por otro, los derechos civiles y políticos y sus garantías.
+
+4. Crear marcos regulatorios sectoriales específicos a través de espacios multiactor en torno a temáticas tales como salud, educación, seguros y finanzas, seguridad y privacidad, industrias creativas, medio ambiente, neurotecnologías, entre otros.
+
+5. Generar marcos que garanticen la disponibilidad de instrumentos para identificar, evaluar, prevenir, mitigar los riesgos y abordar el impacto adverso de la aplicación de la IA en los derechos humanos, la protección ambiental, y en otras dimensiones del desarrollo sostenible, así como en sectores que requieran medidas especiales.
+
+6. Abordar los impactos de la IA en el fenómeno de la desinformación y en la integridad de los procesos democráticos, de forma consistente con la libertad de expresión, a través de un enfoque holístico y sistémico.
+
+7. Establecer y adoptar una política para las compras pública que, incluya el desarrollo, uso, adquisición e implementación de soluciones de IA, incorpore los principios de uso ético, responsable y seguro de esta tecnología, y contemple las adecuaciones del marco regulatorio que resulten pertinentes.
+
+8. Generar marcos para la transparencia y rendición de cuentas sobre el desarrollo y uso de la IA, estableciendo requisitos adecuados a los
+
+P á g i n a 3 5 d e 5 5 contextos, usos previstos y riesgos específicos asociados con esta tecnología.
+
+9. Desarrollar los marcos necesarios para implementar modelos de auditoría para los casos en que se establezca en la regulación, y/o que permitan supervisar la adopción de estándares y garantizar la calidad en los sistemas de IA, tanto en el sector público como en el privado.
+
+10. Adecuar el marco de ciberseguridad vigente en el país para integrar los aspectos específicos de la IA de manera consistente con los estándares internacionales. En este contexto, se deberán desarrollar técnicas de evaluación y gestión de riesgos de seguridad asociados con la IA, especialmente en áreas como la salud, la ciberseguridad, la infraestructura crítica de información y la seguridad nacional.
+
+11. Fomentar la adopción de principios éticos para la IA en el sector privado, abarcando todas las ramas de actividad económica, para asegurar prácticas responsables en el diseño y desarrollo de sistemas de IA.
+
+12. En consonancia con lo prescrito en el artículo 75 de la Ley N° 20.212 de 6 de noviembre de 202355, fomentar la institucionalización de iniciativas de experimentación regulatoria, que habiliten espacios para probar productos, servicios o modelos de negocio innovadores para producir evidencia que informe la toma de decisiones regulatorias y/u oriente a los regulados sobre la normatividad aplicable. Entre estas herramientas, se considerarán los sandboxes regulatorios y los hubs de innovación.
+
+Línea 1.3 Articulación internacional
+
+Fortalecer la participación de Uruguay en los espacios e instancias internacionales donde se aborden cuestiones relacionadas con la inteligencia artificial, impulsar la construcción de una perspectiva regional y contribuir a la cooperación internacional en este ámbito. Asimismo, avanzar en la adopción de estándares e instrumentos internacionales que estén alineados con la política nacional, promoviendo así el
+
+55 https://www.impo.com.uy/bases/leyes/20212-2023/75
+
+P á g i n a 3 6 d e 5 5 posicionamiento global de Uruguay como un actor clave para la atracción de inversiones.
+
+Acciones
+
+1. Fortalecer la participación de Uruguay en los ámbitos subregionales, regionales e internacionales en materia de IA, fomentando la articulación interinstitucional y la formación especializada de los referentes nacionales que participan de estos ámbitos.
+
+2. Promover las acciones de cooperación técnica con organismos multilaterales, el intercambio y la cooperación bilateral con otros países y la participación en foros y redes internacionales para el desarrollo de las acciones propuestas en la estrategia.
+
+3. Fortalecer la adhesión de Uruguay a los más altos estándares e instrumentos internacionales y promover su implementación a nivel nacional.
+
+4. Promover el acceso del país a fondos de cooperación técnica internacionales para el desarrollo de proyectos nacionales o regionales, intercambio de experiencias, transferencia tecnológica y desarrollo de capacidades.
+
+5. Fomentar la participación de actores del sector privado, la academia y de la sociedad civil en los ámbitos internacionales donde se definan estándares técnicos para la gobernanza de la IA."
+"3","","Eje 2. Capacidades para la IA","","","Desarrollar las capacidades y las condiciones nacionales necesarias para fomentar y aprovechar la innovación y la aplicación de la inteligencia artificial.
+
+Para abordar este objetivo se requiere un enfoque integral, que contemple la gestión del talento humano y la promoción de habilidades digitales. También es esencial garantizar una infraestructura adecuada, asegurar la protección de los datos —al tiempo que se promueve el intercambio y compartición segura de estos—,
+
+P á g i n a 3 7 d e 5 5 y fortalecer la ciberseguridad. Estos elementos son fundamentales para construir un ecosistema robusto que impulse la IA como herramienta clave para el desarrollo sostenible y competitivo del país, y el bienestar de las personas.
+
+Línea 2.1 Infraestructura
+
+Asegurar la infraestructura disponible en el país para fortalecer el desarrollo y uso de la IA, fomentando la innovación pública y privada y la mejora de los servicios públicos.
+
+Esto implica el acceso a infraestructura tecnológica de alta calidad incluyendo redes de alta velocidad, almacenamiento de datos y capacidad de procesamiento que dé soporte a proyectos de IA, contribuyendo a la soberanía nacional en la materia.
+
+Acciones
+
+1. Diseñar e implementar un plan de infraestructura digital avanzada para el desarrollo y uso de la IA en el país, de acuerdo con estándares internacionales.
+
+2. Establecer una infraestructura centralizada para la IA que incluya plataformas, soluciones y ecosistemas, que incorpore estándares y buenas prácticas y que sea accesible a todos los organismos del Estado. Esta infraestructura permitirá dar soporte a la implementación de servicios, optimizar recursos y mejorar la eficiencia.
+
+3. Fortalecer la infraestructura nacional para la IA mediante la consolidación de un ecosistema robusto, que promueva la colaboración entre el sector público, el sector privado, la academia y la sociedad civil. Esta articulación intersectorial permitirá maximizar el potencial de la IA en el país, impulsando su aplicación en diferentes ámbitos y facilitando el desarrollo de soluciones innovadoras que contribuyan al crecimiento sostenible y al bienestar de la sociedad.
+
+P á g i n a 3 8 d e 5 5
+
+4. Impulsar acuerdos regionales e internacionales para compartir conocimiento, y facilitar el acceso del ecosistema de IA en Uruguay a centros y redes de computación de alto desempeño.
+
+5. Articular la Estrategia de IA con las estrategias y políticas nacionales en materia ambiental, y participar de los estudios sobre riesgos ambientales por el uso y desarrollo de la IA en América Latina y el Caribe que se realizarán en el marco de la implementación de la hoja de ruta de IA ética para ALC
+
+2020-2025.
+
+Línea 2.2 Datos para la IA
+
+Contribuir al desarrollo de soluciones de inteligencia artificial adaptadas al contexto de Uruguay mediante la democratización del acceso a los datos públicos. Esto incluye mejorar la calidad de los datos disponibles, establecer lineamientos para reducir los sesgos, y optimizar las aplicaciones de IA desarrolladas o utilizadas, según lo establecido en la Estrategia Nacional de Datos.
+
+Asimismo, y en consonancia con lo dispuesto en la Estrategia Nacional de Datos, generar incentivos para el intercambio y compartición segura y fiable de datos entre actores del sector público, el sector privado, la academia, y la sociedad civil, promoviendo su (re)utilización para el desarrollo de soluciones de IA.
+
+Acciones
+
+1. Generar y hacer disponibles conjuntos de datos para el entrenamiento de modelos, que contemplen las características de Uruguay, tales como su cultura, su organización política institucional, y la diversidad de la composición social, en el marco de la comunidad regional a la que pertenece.
+
+2. Fortalecer el ecosistema de datos públicos a través del fomento a la creación y uso de plataformas de datos abiertos, que permita a empresas, investigadores y entidades públicas acceder a información relevante para desarrollar y probar soluciones de IA.
+
+P á g i n a 3 9 d e 5 5
+
+3. Apoyar la creación de espacios de datos que contribuyan al entrenamiento de modelos, para el desarrollo, implementación y uso de soluciones de IA, en sectores estratégicos.
+
+4. Promover la colaboración entre el sector público y privado para facilitar el acceso seguro a conjuntos de datos privados bajo condiciones que respeten la privacidad y los derechos de las personas, asegurando el cumplimiento de normativas y estándares éticos.
+
+Línea 2.3 Ciberseguridad
+
+Desarrollar capacidades para mitigar las amenazas que plantea la IA y fortalecer los mecanismos de respuesta con la ayuda de la IA.
+
+Promover la adopción de pautas y técnicas para proyectos de sistemas de IA fiables y seguros desde el diseño, así como la formación y capacitación en todos los niveles involucrados.
+
+Acciones
+
+1. Establecer ámbitos especializados en ciberseguridad en IA (en conjunto con la academia, sector privado y sector público), que, mediante la investigación, se centren en formular mecanismos de respuesta a las amenazas que plantea la IA, para la detección temprana de amenazas y la coordinación de acciones rápidas tendientes a mitigar sus efectos negativos.
+
+2. Adecuar el marco de ciberseguridad del país integrando aspectos vinculados a la inteligencia artificial y abordar los riesgos de seguridad de los sistemas de inteligencia artificial, con respecto a sectores como salud, infraestructura de información crítica y seguridad nacional.
+
+3. Investigar y desarrollar pautas técnicas para el diseño de sistemas de IA fiables, seguros y resilientes a ataques, con la participación de la academia, el sector privado y el sector público. A partir de ellos desarrollar y ofrecer programas de capacitación enfocados en IA para profesionales en sectores críticos.
+
+P á g i n a 4 0 d e 5 5
+
+Línea 2.4 Gestión de talento
+
+Fortalecer las capacidades que se requieren en el país para desarrollar, aprovechar y optimizar el uso de la inteligencia artificial, potenciando, además, las políticas que promuevan la adaptación y la permanencia laboral de las personas en un entorno en constante evolución.
+
+Para lograrlo, es esencial fomentar el desarrollo de competencias y habilidades tecnológicas en la población, promoviendo la incorporación de conocimientos sobre
+
+IA en distintos enfoques de capacitación y formación, bajo una perspectiva interdisciplinaria. Esto permitirá asegurar una adaptación efectiva a los nuevos desafíos del mercado laboral.
+
+Acciones
+
+1. Relevar y comprender las necesidades de capacitación en IA en Uruguay y el impacto de esta tecnología en el mercado laboral, sentando las bases para un monitoreo continuo.
+
+2. Promover la incorporación de formación en IA en la educación formal y no formal en el Uruguay en los diferentes niveles educativos y desde la educación inicial, favoreciendo la incorporación de habilidades y competencias necesarias para el trabajo y el desarrollo de la industria.
+
+3. Generar instrumentos e incentivos para fortalecer la capacidad de las universidades para la generación y retención de talentos en IA desde disciplinas asociadas a la ciencia, la tecnología, la ingeniería, las matemáticas y las humanidades (entre otras), incluida la investigación, innovación y desarrollo.
+
+4. Continuar fomentando, a través de diversas iniciativas, la matriculación de las mujeres en las carreras tecnológicas (áreas Ciencia, Tecnología,
+
+Ingeniería y Matemáticas, STEM – en inglés-) para fortalecer su participación en el ecosistema de la IA.
+
+P á g i n a 4 1 d e 5 5
+
+5. Incluir en todas las propuestas y planes de formación destinados a la capacitación laboral contenidos sobre el impacto de las tecnologías en el trabajo, con especial énfasis en la inteligencia artificial. Esto fortalecerá los procesos de reconversión laboral y contribuirá a la actualización continua de las habilidades de las personas para el ámbito laboral.
+
+6. Diseñar e implementar un plan de formación integral orientado a todas las personas del Estado involucradas, en todos los niveles."
+"3","","Eje 3. Desarrollo sostenible","","","Aprovechar la IA como motor clave para el desarrollo sostenible del país, el crecimiento económico con inclusión, el fortalecimiento de la competitividad del sector privado y la profundización del proceso de transformación digital de Uruguay, promoviendo la integración de bienes públicos digitales y la infraestructura pública digital como elementos clave para el logro de estos objetivos.
+
+Establecer programas e incentivos para fomentar la explotación y adopción de la IA, así como la investigación y la innovación para maximizar los beneficios de esta tecnología, potenciando además el aprovechamiento de los mismos para la sociedad en las diferentes áreas y sectores, abordando los impactos positivos y adversos, contemplando los efectos diferenciados sobre los distintos segmentos de la población.
+
+Para lograrlo, es imprescindible desarrollar capacidades en toda la población, asegurando que las personas estén preparadas para gestionar y aprovechar las herramientas de IA de manera ética, responsable, crítica y creativa. Estas condiciones promoverán, al mismo tiempo, la inclusión digital.
+
+Incorporar la IA para mejorar la gestión pública y la calidad de los servicios públicos e impulsar la colaboración entre el Estado, el sector privado, la academia y la sociedad civil.
+
+P á g i n a 4 2 d e 5 5
+
+Línea 3.1 Sectores de la economía nacional
+
+Maximizar la explotación de los beneficios de la IA por parte de los distintos sectores de la economía nacional para mejorar su competitividad y fomentar la inversión que habilite la investigación e innovación con este propósito.
+
+Acciones
+
+1. Apoyar la adopción de la IA en el sector privado para la mejora de sus procesos productivos y operativos que contribuyan a fortalecer su competitividad, a través de diferentes instrumentos (incentivos, programas, planes de formación, acompañamiento en la validación de propuestas), con especial foco en las Pequeñas y Medianas Empresas (PyMEs).
+
+2. Promover la inversión privada en IA que contribuya a impulsar la investigación e innovación en aras del crecimiento de la economía nacional y sus sectores.
+
+3. Promover la creación, mejora y uso de los sistemas de IA de código abierto como instrumento para fortalecer el ecosistema y la innovación abierta contribuyendo al desarrollo de distintos sectores y al beneficio de la sociedad en su conjunto.
+
+Línea 3.2 Investigación e innovación
+
+Fortalecer a través de distintos instrumentos el apoyo a la investigación sobre inteligencia artificial y sobre ética de la IA y fomentar la innovación segura y responsable.
+
+Acciones
+
+1. Incentivar la creación de centros multidisciplinarios dedicados a la investigación en IA que ofrezcan soluciones a problemas específicos con mecanismos que fomenten la colaboración entre el sector público, la academia, la sociedad civil y el sector privado.
+
+P á g i n a 4 3 d e 5 5
+
+2. Fortalecer el ecosistema en el campo de la investigación en IA promoviendo la creación y/o consolidación de redes de investigadores que involucre a emprendedores y la promoción de intercambios académicos para educación avanzada (maestría o doctorado).
+
+3. Fomentar diferentes instrumentos para impulsar y apoyar la participación e involucramiento de las mujeres en áreas de investigación y desarrollo de la
+
+IA.
+
+4. Promover incentivos y espacios de colaboración y apoyo técnico para el desarrollo del ecosistema emprendedor en IA, a través de la creación y/o fortalecimiento de incubadoras y aceleradoras de startups especializadas en
+
+IA, y la creación de incentivos para la inversión en I+D en IA.
+
+5. Establecer alianzas con instituciones y organizaciones internacionales para el desarrollo de proyectos de investigación conjunta en IA.
+
+6. Impulsar una estrategia que fomente la inversión pública y privada en investigación y desarrollo de IA de forma ética, responsable y sustentable en áreas de impacto clave para el desarrollo del país, considerando en particular el desarrollo de bienes públicos digitales.
+
+7. Investigar el impacto social, económico y ambiental de la IA y generar instrumentos para su medición y abordaje a través de diversas herramientas, tales como protocolos, guías de buenas prácticas y recomendaciones, así como ampliar el conocimiento público sobre tales impactos y brindar soporte a la toma de decisiones.
+
+8. Fortalecer el ecosistema de innovación local promoviendo la colaboración entre el sector público, las universidades y las empresas para el desarrollo de soluciones de IA fomentando un enfoque alineado al estándar de bienes públicos digitales para sectores estratégicos para el país.
+
+P á g i n a 4 4 d e 5 5
+
+Línea 3.3 IA y Sociedad
+
+Fortalecer las iniciativas existentes y fomentar la creación de nuevas medidas que permitan dotar a las personas de competencias y habilidades digitales instrumentales y fundamentales para comprender los conceptos involucrados en el desarrollo y uso de la IA, con un pensamiento crítico y creativo. Es fundamental que se consideren para ello tanto los riesgos como las oportunidades, en sinergia con los objetivos y las acciones establecidas en la Estrategia de Ciudadanía Digital.56
+
+Maximizar los beneficios de la IA para la sociedad, abordando las oportunidades y desafíos para distintas áreas y sectores para aprovechar los impactos positivos y mitigando los posibles impactos adversos. Al respecto, se deberán considerar los retos e impactos diferenciados planteados para distintos segmentos de la población.
+
+Acciones
+
+1. Desarrollar planes de capacitación y sensibilización adaptados a los diferentes segmentos de la población, en torno a la identificación de las oportunidades y riesgos de la IA; la interacción segura con esta tecnología; la generación de habilidades instrumentales para su aprovechamiento; y la comprensión de sus impactos desde una perspectiva crítica, ética y social.
+
+2. Diseñar campañas de sensibilización y difusión para promover que las personas conozcan cómo ejercer sus derechos y responsabilidades cuando interactúan con sistemas de IA en el entorno digital, así como los mecanismos para exigir su protección.
+
+3. Fortalecer la capacitación en IA en la comunidad educativa, especialmente en los roles vinculados a las gestiones académica y educativa.
+
+56 https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/comunicacion/publicaciones/estrategia-nacional-ciudadania-digital-para-sociedad-informacion
+
+P á g i n a 4 5 d e 5 5
+
+4. Consolidar una línea de formación de formadores articulando con distintas instituciones, en todos los aspectos vinculados a los sistemas y/o productos que incorporen IA, con amplio criterio inclusivo, ayudando a reducir las brechas existentes en el uso de esta tecnología.
+
+5. Impulsar acciones de sensibilización y formación en materia de ciberseguridad e IA, en instancias formales y no formales.
+
+6. Impulsar acciones de sensibilización y formación en materia de uso ético de la IA, en instancias formales y no formales.
+
+7. Promover la investigación e innovación con el fin de aprovechar el potencial de la IA para sectores tales como la educación y la atención de la salud.
+
+8. Abordar los retos particulares implicados en la IA con respecto a diversos segmentos de la población, como los niños, niñas y adolescentes, las personas en situación de discapacidad y las personas mayores.
+
+9. Promover iniciativas para garantizar el acceso equitativo a los beneficios de la IA para las personas.
+
+Línea 3.4 Gestión pública
+
+Aplicar inteligencia artificial en el sector público para mejorar los servicios transversales, integrar soluciones que permitan automatizar los procesos que puedan beneficiarse de esta tecnología, mejorar la eficiencia, promover la transparencia, y mejorar la calidad de los servicios públicos, asegurando la integración adecuada con los sistemas existentes y la capacitación continua de todas las personas involucradas.
+
+Acciones
+
+1. Elaborar un diagnóstico y un plan de adopción y uso de la IA en el sector público, que permita potenciar soluciones transversales que se beneficien de
+
+P á g i n a 4 6 d e 5 5 la aplicación de estas tecnologías, tales como la atención ciudadana, la gestión documental y las búsquedas de información en el Estado. Además, se debe considerar la integración con los sistemas existentes y el involucramiento del personal para una gestión del cambio efectiva, así como la habilitación de canales de atención alternativos que aseguren las posibilidades de acceso para todas las personas.
+
+2. Potenciar el uso de la IA por parte del Estado uruguayo para aprovechar sus beneficios actuales y futuros en sectores estratégicos, y temáticas de interés público, tales como educación, salud, trabajo, economía y medio ambiente, entre otros. La IA como instrumento que permita predecir tendencias, gestionar recursos, simplificar procesos, monitorear políticas públicas entre otros, mejorando así la eficiencia y efectividad de los servicios públicos.
+
+3. Promover que las soluciones y plataformas de IA utilizadas por el Estado prioricen la adopción estándares internacionales, de especificaciones abiertas e interoperables que aporten a los bienes públicos digitales como parte de la infraestructura pública digital.
+
+4. Diseñar e implementar un plan de formación integral en colaboración con expertos en IA de diferentes sectores, orientado a las personas involucradas en funciones técnicas, especializadas y operativas en todos los sectores, y en todos los niveles de decisión del Estado. Este plan incluirá acciones específicas orientadas a quienes integren el cuerpo legislativo, el sistema de justicia y los organismos reguladores.
+
+5. Implementar un sistema de indicadores y mecanismos para evaluar la mejora continua de los procesos que incorporan IA, así como para monitorear la política pública y la evolución de dichos indicadores. Los posibles indicadores podrían incluir: adopción de IA, eficiencia operativa, percepción y satisfacción de la ciudadanía con los servicios públicos mejorados por IA, impacto económico, incluyendo la creación de empleos y nuevas empresas tecnológicas, calidad de los servicios públicos, innovación
+
+P á g i n a 4 7 d e 5 5 y desarrollo, capacitación y formación, evaluación del marco regulatorio y su efectividad en la implementación ética y segura de la IA.
+
+6. Fortalecer e impulsar la Comunidad de inteligencia artificial del Estado uruguayo, mediante la implementación de acciones que contribuyan a la gestión del conocimiento y al desarrollo de capacidades institucionales.
+
+Línea 3.5 Impactos de la IA en el empleo
+
+Contar con instrumentos que permitan abordar los impactos de la IA en el empleo, incluyendo mecanismos de monitoreo e incentivos, así como programas para asegurar la vigencia laboral de todas las personas, y fomentar la creación de empleos en sectores emergentes.
+
+Acciones
+
+1. Realizar estudios y proyecciones sobre cómo la IA afectará diferentes sectores laborales para anticipar cambios y preparar respuestas adecuadas, incluyendo la identificación de las brechas existentes en la regulación para garantizar los derechos de las personas en el ámbito laboral frente al desarrollo y uso de la IA.
+
+2. Diseñar instrumentos para mantener la vigencia laboral de las personas e implementar programas de formación y capacitación para quienes se encuentren o no en actividad.
+
+3. Incorporar el uso de la IA en los procesos vinculados a la gestión y asesoramiento a quienes trabajan y el monitoreo continuo del impacto de la
+
+IA en el trabajo.
+
+4. Generar espacios de trabajo con las cámaras empresariales y agrupaciones representativas de personas trabajadoras para identificar oportunidades y líneas de desarrollo de capital humano en diferentes sectores.
+
+P á g i n a 4 8 d e 5 5
+
+5. Incentivar la formación y la creación de oportunidades laborales considerando una variedad de nuevos empleos que están surgiendo a partir de la IA tales como la especialización en diseño generativo, gestión de entradas y salidas de IA, revisión de contenidos de IA, especialización en seguridad de la IA, especialización en educación de la IA entre otros.
+
+6. Promover el desarrollo y uso de la IA como instrumento para favorecer la inclusión de grupos tradicionalmente excluidos del mercado laboral, como es el caso de las personas en situación de discapacidad.
+
+P á g i n a 4 9 d e 5 5"
+"2","","Proceso de creación, seguimiento y revisión de la Estrategia","","",""
+"3","","Cocreación de la Estrategia","","","El proceso de revisión de la Estrategia Nacional de Inteligencia Artificial fue liderado y articulado por Agesic en coordinación con el Comité Estratégico del Sector
+
+Público para la Inteligencia Artificial y Datos, al amparo del artículo 74 de la Ley N°
+
+20.212 de 6 de noviembre de 202357, y cuenta con la cooperación técnica del
+
+Banco de Desarrollo de América Latina (CAF) y la Organización de las Naciones
+
+Unidas para la Educación, la Ciencia y la Cultura (UNESCO).
+
+Se inició en junio de 2023 y se desarrolló en cinco etapas, utilizando los estándares de participación establecidos por la Alianza para el Gobierno Abierto para la creación de planes de acción nacionales:
+
+ Etapa 1 - Diagnóstico. Durante esta etapa, se aplicó la Metodología de evaluación del estadio de preparación: una herramienta de la
+
+Recomendación sobre la Ética de la Inteligencia Artificial desarrollada por la
+
+UNESCO58 para evaluar el grado de preparación para aplicar la Inteligencia
+
+Artificial de forma ética y responsable para la ciudadanía y se analizó el marco institucional utilizando. Se utilizó la herramienta desarrollada por CAF para analizar el marco institucional para la gobernanza, implementación y sostenibilidad de políticas de Inteligencia Artificial, así como un análisis comparativo del estado del arte en la materia.
+
+ Etapa 2 - Propuestas. Se llevaron a cabo 7 mesas de diálogo y trabajo para el relevamiento de propuestas vinculadas a los posibles objetivos y acciones a integrar en la nueva estrategia, y grupos de discusión con niños, niñas y adolescentes.
+
+Las mesas de diálogo contaron con la participación de más de 300 personas referentes de más de 40 instituciones del Estado, 11 organizaciones de la sociedad civil, 45 organizaciones del sector privado, la academia y diversos
+
+57 https://www.impo.com.uy/bases/leyes/20212-2023/74 58 https://unesdoc.unesco.org/ark:/48223/pf0000385198_spa
+
+P á g i n a 5 0 d e 5 5 colectivos de interés, que aportaron diferentes perspectivas. Todos los informes con cada uno de los aportes se encuentran publicados en la página de Agesic.
+
+ Etapa 3 - Sistematización de propuestas. Se profundizó en las líneas de acción, se realizó un análisis de viabilidad en conjunto con las diferentes instituciones vinculadas a las propuestas y se elaboró un primer borrador de la Estrategia Nacional de Inteligencia Artificial.
+
+ Etapa 4 - Consulta pública. El documento se publicó en consulta pública del
+
+16 de setiembre al 21 de octubre de 2024 a través de la Plataforma de
+
+Participación ciudadana Digital59, permitiendo así que todas las personas interesadas en la temática puedan realizar sus aportes.
+
+Se recibieron 28 propuestas de 4 organizaciones de la sociedad civil nacional e internacional, 6 organizaciones del sector privado, 1 organismo multilateral, y 6 personas interesadas en carácter individual. Estas propuestas se tradujeron en 78 aportes de los cuales el 63% fueron incorporados en forma total o parcial al documento y otros serán incorporados en la Hoja de Ruta que será elaborada.
+
+ Etapa 5 - Aprobación y publicación. La etapa final incluye la aprobación y la publicación del documento final"
+"3","","Seguimiento de la implementación","","","El proceso de implementación y seguimiento de la Estrategia Nacional de
+
+Inteligencia Artificial busca asegura el cumplimiento de los objetivos planteados en este instrumento, así como la transparencia y rendición de cuentas sobre su ejecución.
+
+Para asegurar una adecuada implementación de la estrategia, se elaborará una
+
+Hoja de Ruta que establecerá plazos, instituciones responsables, metas específicas e indicadores de monitoreo.
+
+59 https://plataformaparticipacionciudadana.gub.uy/processes/consulta-publica-estrategia-ia
+
+P á g i n a 5 1 d e 5 5
+
+El objetivo estratégico del proceso de seguimiento y monitoreo es establecer un marco que permita medir el progreso, identificar áreas de mejora para asegurar que la Estrategia cumpla con sus objetivos y metas.
+
+Se implementará una herramienta de monitoreo público a través de la cual las instituciones responsables de liderar cada una de las acciones informarán semestralmente sobre sus avances.
+
+Cada una de las instituciones será responsable por la ejecución de las acciones previstas en la Hoja de Ruta y tendrá a su cargo el liderazgo, la ejecución y la rendición de cuentas en relación con la implementación de tales acciones, debiendo realizar los reportes periódicos.
+
+Se difundirá los resultados alcanzados regularmente a todas las partes interesadas."
+"3","","Período de vigencia","","","El plazo de vigencia de la presente Estrategia es 2024-2030. A efectos de asegurar que el país cuente con instrumentos idóneos y efectivos que se adapten a la naturaleza de los avances tecnológicos, las potencialidades y desafíos asociados, se realizará una revisión de medio término.
+
+P á g i n a 5 2 d e 5 5"
+"2","","Participantes","","","El proceso de revisión de la Estrategia Nacional de Inteligencia Artificial, contó con la participación de organizaciones representadas en los espacios de diálogo desarrollados en las diferentes etapas del proceso.
+
+A continuación, se detallan las organizaciones participantes.
+
+Organismos del Estado
+
+Administración de Servicios de Salud del Estado, Administración Nacional de
+
+Combustibles, Alcohol y Portland, Administración Nacional de Telecomunicaciones,
+
+Agencia de Gobierno Electrónico y Sociedad de la Información y del Conocimiento,
+
+Agencia del Cine y el Audiovisual del Uruguay, Agencia Nacional de Investigación e
+
+Innovación, Área de Economía Creativa del Ministerio de Educación y Cultura,
+
+Archivo General de la Nación, Banco Central del Uruguay, Banco Hipotecario del
+
+Uruguay, Banco de Previsión Social, Banco de la República Oriental del Uruguay,
+
+Banco de Seguros del Estado, Centro de Fotografía de la Intendencia de
+
+Montevideo, Contaduría General de la Nación, Dirección General Impositiva,
+
+Dirección General de Registros, Dirección Nacional de Aduanas, Dirección
+
+Nacional de Catastro, Dirección Nacional de la Propiedad Industrial, Dirección
+
+Nacional de Telecomunicaciones, Fiscalía General de la Nación, Infraestructura de
+
+Datos Espaciales, Intendencia de Montevideo, Intendencia de Canelones, Instituto
+
+Nacional de Artes Escénicas, Institución Nacional de Derechos Humanos y
+
+Defensoría del Pueblo, Instituto Nacional de Artes Visuales, Instituto Nacional de
+
+Letras, Instituto Nacional de Meteorología, Instituto Nacional de Música, Instituto del
+
+Niño y Adolescente del Uruguay, Instituto Nacional de Empleo y Formación
+
+Profesional, Ministerio de Ambiente, Ministerio de Educación y Cultura, Ministerio de Industria, Energía y Minería, Ministerio de Defensa Nacional, Ministerio de
+
+Desarrollo Social, Ministerio de Economía y Finanzas, Ministerio de Ganadería,
+
+Agricultura y Pesca, Ministerio de Relaciones Exteriores, Ministerio de Salud
+
+Pública, Ministerio de Transporte y Obras Públicas, Ministerio del Interior, Oficina
+
+Nacional del Servicio Civil, Oficina de Planeamiento y Presupuesto, Obras
+
+Sanitarias del Estado, Poder Judicial, Poder Legislativo - Cámara de
+
+P á g i n a 5 3 d e 5 5
+
+Representantes, Poder Legislativo - Cámara de Senadores, Unidad de Acceso a la
+
+Información Pública, Usinas y Transmisiones Eléctricas, Unidad Reguladora y de
+
+Control de Datos Personales, Unidad Reguladora de Servicios Eléctricos.
+
+Academia
+
+Centro de innovación educativa con tecnologías digitales de Uruguay – Ceibal,
+
+Centro Latinoamericano de Economía Humana, Centro Universitario Regional del
+
+Este, Universidad Católica del Uruguay, Universidad de la Empresa, Universidad de la República Oriental del Uruguay, Universidad de Montevideo, Universidad ORT
+
+Uruguay, Universidad Tecnológica del Uruguay.
+
+Sector privado
+
+Abitab S.A., ABYA, Adagio Consultores, Alphalabs, Amazon Web Services (AWS)
+
+Bantotal, Deloitte, Digital Sense, Discere, Editorial Planeta, Equipos, Flipando.ai,
+
+Fusion IT, Genexus Consulting, Geocom, Google, Goshops.ai, Intermedia, Internet
+
+Society, IUGO, IWTG, Knowmad Mood, Mega 6 S.A., Microsoft, Penguin Random
+
+House, Promptior, Quanam, Sonda, Soul Training Taligent Telefónica Movistar,
+
+Wais SRL, Zafrales, Yeda, Asociación Latinoamericana de Internet, Cámara de la
+
+Economía Digital del Uruguay, Cámara Uruguaya de Tecnologías de la Información,
+
+Cámara Uruguaya de Desarrolladores de Videojuegos.
+
+Sociedad Civil
+
+Asociación de Escribanos del Uruguay, Asociación de Bibliotecólogos de Uruguay,
+
+Asociación General de Autores del Uruguay, Asociación Uruguaya de Creadores de
+
+Historietas, Cámara de Diseño del Uruguay Colectivo Arte es Ética, Colegio de
+
+Traductores del Uruguay Data Uruguay, Dataysoc, Data Management, Directores,
+
+Directoras y Guionistas del Uruguay, El Abrojo, Entidad de Gestión de Derechos de
+
+Productores Audiovisuales, Fundación Bensadoun Laurent, Liga de Defensa
+
+Comercial, Mujeres IT, Nahual IT-Argentina, Personas IT, Sociedad Uruguaya de
+
+Artistas e Intérpretes, Youth IGF Uruguay.
+
+P á g i n a 5 4 d e 5 5
+
+Organización internacional
+
+Banco de Desarrollo de América Latina y el Caribe, Banco Interamericano de
+
+Desarrollo, Center for AI and Digital Policy, Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura, Organización de Estados Americanos.
+
+P á g i n a 5 5 d e 5 5"

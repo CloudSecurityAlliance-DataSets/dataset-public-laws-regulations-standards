@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/gov.br/pnd-end@2025",
+  "name": "Política Nacional de Defesa e Estratégia Nacional de Defesa (2025)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2025",
+  "publication_id": "pnd-end-2025",
+  "owner": "Governo Federal do Brasil",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Política Nacional de Defesa e Estratégia Nacional de Defesa (Decreto nº 12.725, November 18, 2025). Brazil's overarching national security and defense strategy documents mandated every four years by Complementary Law No. 97/1999 (as amended by Complementary Law No. 136/2010), designating the cyber, nuclear, and space sectors as strategic national defense priorities.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Governo Federal do Brasil (gov.br) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Governo Federal do Brasil (gov.br).",
+  "license": {
+    "spdx": "LicenseRef-BR-Law9610-Art8-IV",
+    "Grouping": "Public Domain",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.planalto.gov.br/ccivil_03/leis/l9610.htm",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (gov.br) is governed by Brazilian Copyright Law (Lei nº 9.610, de 19 de fevereiro de 1998) Art. 8º(IV) (texts of treaties, laws, decrees, regulations, judicial decisions, and other official acts are not objects of copyright protection) and Federal Open Data Policy (Decreto nº 8.777/2016).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (gov.br) is governed by Brazilian Copyright Law (Lei nº 9.610, de 19 de fevereiro de 1998) Art. 8º(IV) (texts of treaties, laws, decrees, regulations, judicial decisions, and other official acts are not objects of copyright protection) and Federal Open Data Policy (Decreto nº 8.777/2016)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://legislacao.presidencia.gov.br/ficha/?/legisla/legislacao.nsf/Viw_Identificacao/DEC%2012.725-2025&OpenDocument",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2025-11-18",
+    "active": true,
+    "supersedes": "secid:reference/gov.br/pnd-end@2020",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/gov.br/pnd-end@2025 (https://legislacao.presidencia.gov.br/ficha/?/legisla/legislacao.nsf/Viw_Identificacao/DEC%2012.725-2025&OpenDocument) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

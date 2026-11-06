@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/ict.go.ke/kenya-national-cybersecurity-strategy@2014",
+  "name": "Kenya National Cybersecurity Strategy (2022–2027 / 2014)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2014",
+  "publication_id": "kenya-national-cybersecurity-strategy-2014",
+  "owner": "Ministry of Information, Communications and The Digital Economy (Kenya)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Official 2014 edition of Kenya National Cybersecurity Strategy (2022–2027 / 2014) (Kenya National Cybersecurity Strategy (2022–2027 / 2014)), published by Ministry of Information, Communications and The Digital Economy (Kenya) (ict.go.ke).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Ministry of Information, Communications and The Digital Economy (Kenya) (ict.go.ke) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Ministry of Information, Communications and The Digital Economy (Kenya) (ict.go.ke).",
+  "license": {
+    "spdx": "LicenseRef-KE-Cap130-Sec25",
+    "Grouping": "Government-Work",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/KE",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (ict.go.ke) is governed by Republic of Kenya Copyright Act (Cap. 130, Act No. 12 of 2001) Sec. 2 & Sec. 25 (exclusion of written laws and Government copyright in commissioned publications).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (ict.go.ke) is governed by Republic of Kenya Copyright Act (Cap. 130, Act No. 12 of 2001) Sec. 2 & Sec. 25 (exclusion of written laws and Government copyright in commissioned publications)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://ict.go.ke/",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2014-06-01",
+    "active": false,
+    "supersedes": null,
+    "supersededBy": "secid:reference/ict.go.ke/kenya-national-cybersecurity-strategy@2022",
+    "retiredFromActiveUse": "2022-09-01",
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/ict.go.ke/kenya-national-cybersecurity-strategy@2014 (https://ict.go.ke/) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

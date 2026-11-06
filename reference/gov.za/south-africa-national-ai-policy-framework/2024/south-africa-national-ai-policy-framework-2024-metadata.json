@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/gov.za/south-africa-national-ai-policy-framework@2024",
+  "name": "South Africa National Artificial Intelligence Policy Framework (2024)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2024",
+  "publication_id": "south-africa-national-ai-policy-framework-2024",
+  "owner": "Government of the Republic of South Africa",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "South Africa National Artificial Intelligence Policy Framework",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Government of the Republic of South Africa (gov.za) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Government of the Republic of South Africa (gov.za).",
+  "license": {
+    "spdx": "LicenseRef-ZA-Act98-1978-Sec12-8",
+    "Grouping": "Public Domain",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/ZA",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (gov.za) is governed by Republic of South Africa Copyright Act 98 of 1978 Sec. 12(8)(a) (no copyright shall subsist in official texts of a legislative, administrative or legal nature, or in official translations of such texts).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (gov.za) is governed by Republic of South Africa Copyright Act 98 of 1978 Sec. 12(8)(a) (no copyright shall subsist in official texts of a legislative, administrative or legal nature, or in official translations of such texts)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.dcdt.gov.za/",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2024-08-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/gov.za/south-africa-national-ai-policy-framework@2024 (https://www.dcdt.gov.za/) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

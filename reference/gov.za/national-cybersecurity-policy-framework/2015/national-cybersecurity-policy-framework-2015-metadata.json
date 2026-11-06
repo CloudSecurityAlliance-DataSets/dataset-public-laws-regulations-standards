@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/gov.za/national-cybersecurity-policy-framework@2015",
+  "name": "National Cybersecurity Policy Framework (NCPF) for South Africa (2015)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2015",
+  "publication_id": "national-cybersecurity-policy-framework-2015",
+  "owner": "Government of the Republic of South Africa",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "National Cybersecurity Policy Framework (NCPF) for South Africa",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Government of the Republic of South Africa (gov.za) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Government of the Republic of South Africa (gov.za).",
+  "license": {
+    "spdx": "LicenseRef-ZA-Act98-1978-Sec12-8",
+    "Grouping": "Public Domain",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/ZA",
+    "note": "Official publication (gov.za); Republic of South Africa Copyright Act 98 of 1978 Sec. 12(8)(a) (no copyright shall subsist in official texts of a legislative, administrative or legal nature, or in official translations of such texts).",
+    "notes": "Official publication (gov.za); Republic of South Africa Copyright Act 98 of 1978 Sec. 12(8)(a) (no copyright shall subsist in official texts of a legislative, administrative or legal nature, or in official translations of such texts)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.gov.za/documents/national-cybersecurity-policy-framework-4-dec-2015-0000",
+    "textUsed": "https://www.gov.za/sites/default/files/gcis_document/201512/39475gon609.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2015-12-04",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Discovered primary PDF (https://www.gov.za/sites/default/files/gcis_document/201512/39475gon609.pdf) from landing page (https://www.gov.za/documents/national-cybersecurity-policy-framework-4-dec-2015-0000); extracted 30-page PDF via PyMuPDF (64,729 chars). Parsed 121 sections (91 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

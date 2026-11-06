@@ -1,0 +1,1157 @@
+# Política Nacional de Inteligencia Artificial 2021-2030 (Decreto Supremo N° 20/2021)
+
+## POLÍTICA NACIONAL DE INTELIGENCIA ARTIFICIAL
+
+• Marcelo Arenas Pontificia Universidad Católica de Chile e IM Fundamentos de los Datos • Néstor Becerra Universidad de Chile • Raphael Bergoeing Universidad de Chile y Comisión Nacional de Productividad • Alberto Cerda Universidad de Chile • Aisén Etcheverry Agencia Nacional de Investigación y Desarrollo
+
+COMITÉ INTERMINISTERIAL
+
+• Ministerio de Ciencia, Tecnología, Conocimiento e Innovación • Ministerio de Interior y Seguridad Pública • Ministerio de Defensa Nacional • Ministerio de Relaciones Exteriores • Ministerio de Educación • Ministerio de Hacienda • Ministerio Secretaría General de la Presidencia • Ministerio de Economía, Fomento y Turismo • Ministerio de Desarrollo Social y Familia
+
+• María Paz Hermosilla Universidad Adolfo Ibáñez • César Hidalgo Universidad de Toulouse, Instituto de Inteligencia Artificial y Natural • Andrea Rodríguez Universidad de Concepción • José Rodríguez Universidad Andrés Bello en Santiago • Álvaro Soto Pontificia Universidad Católica de Chile • Juan Velásquez Dpto. Ingeniería Industrial, FCFM, Universidad de Chile e ISCI
+
+• Ministerio de Trabajo y Previsión Social • Ministerio de Transporte y Telecomunicaciones • Ministerio de las Culturas, las Artes y el Patrimonio • Agencia Nacional de Innovación y Desarrollo • Corporación de Fomento de la Producción • Servicio Nacional de Capacitación y Empleo • Comisión Nacional de Energía • Poder Judicial
+
+COORDINACIÓN REDACCIÓN Y EDICIÓN COMUNICACIONES Y DISEÑO
+
+Demián Arancibia Carlos Ávila María José Caro Jacinta Girardi Natalia González R. José A. Guridi Andrea Rivera
+
+José A. Guridi Carlos Ávila
+
+Mónica Martin Francisca Miranda Patricio Alarcón Fernanda Schorr Pilar Grant
+
+ÍNDICE DE CONTENIDOS
+
+Resumen Ejecutivo 6
+
+Introducción 8
+
+¿Qué es la Inteligencia Artificial? 8
+
+¿Qué lugar ocupa la IA en nuestra sociedad? 9
+
+¿Cuál será el impacto de la IA en nuestro futuro? 9
+
+¿Por qué Chile necesita la presente Política de IA? 11
+
+¿Cómo se elaboró la presente política? 12
+
+¿Cómo se organiza la presente Política de IA? 16
+
+Objetivo, Principios y Ejes de la Política Nacional de IA 17
+
+Objetivo 18
+
+Principios Transversales 18
+
+Ejes 20
+
+EJE 1. Factores Habilitantes 23
+
+1.1 Desarrollo de Talento 24
+
+1.2 Infraestructura Tecnológica 30
+
+1.3 Datos 35
+
+EJE 2. Desarrollo y Adopción 39
+
+EJE 3. Ética, Aspectos Legales y Regulatorios, 49 e Impactos Socioeconómicos
+
+3.1. Ética 50
+
+3.2. Impactos en el trabajo 54
+
+3.3. Relaciones de Consumo 57
+
+3.4. Creación, Propiedad Intelectual 58 y Propiedad Industrial
+
+3.5. Ciberseguridad y Ciberdefensa 61
+
+### 3.6. Género 64
+
+Glosario 68
+
+Referencias 72
+
+## RESUMEN EJECUTIVO
+
+En octubre de 2020 el Ministerio de Ciencia, Conocimiento, Tecnología e Innovación (MinCiencia) publicó su primera Políti- ca Nacional de Ciencia, Conocimiento, Tecnología e Innovación (CTCI). Su segundo eje, denominado “Futuro”, propone “aprovechar el conocimiento, la tecnología y la innovación para anticiparse, priorizar y construir nuevas y diversas formas de valor, ancladas fundamentalmente en desafíos y singularidades del país”, apuntando a “construir una sociedad que mire con responsabilidad y sabiduría el futuro, entendiendo que, en cualquier escenario, las CTCI juegan un rol gravitante”.
+
+En cumplimiento de la política, mientras se instalaba el MinCiencia en 2019, se observó que la Inteligencia Artificial (IA), una tecnología de propósito general, tendría un impacto relevante en el futuro del país, en su cultura y su economía y que, frente a ello, nuestro país debía contar con una estrategia nacional para anticiparse a sus efectos.
+
+La presente política emerge de emprender esa tarea colectivamente, y propone, como resultado de un proceso participativo, el objetivo de aprovechar y fomentar las capacidades del país para posicionarnos por sobre el promedio OCDE y como el país más avanzado en IA en América Latina y el Caribe al 2031, inserto en la vanguardia global, especialmente en la formación y atracción de talento, uso de datos, desarrollo y adopción, y en su apropiación por la ciudadanía acorde a principios transversales de oportunidad y responsabilidad.
+
+Durante 2019 presentamos la necesidad de elaborar esta política al Presidente S.E. Sebastián Piñera quien encargó su elaboración a este Ministerio, con especial atención a que contáramos con un plan de acción específico que derive de ella, considerando las oportunidades únicas de nuestro país en base a nuestra historia, nuestros habitantes y nuestro territorio, y apuntando a garantizar el porvenir de Chile.
+
+Desde entonces a la fecha, se convocó a un grupo interdisciplinario y diverso de 12 expertos y expertas de la academia, sector productivo y sociedad civil, y se impulsó un proceso de coordinación del sector público mediante un comité interministerial.
+
+En conjunto, se habilitó un diálogo nacional convocando de forma amplia y abierta a más de 1.300 personas que participaron en talleres, a 400 personas que participaron en encuentros en cada una de las regiones del país, y a más de 5.300 personas que asistieron a 15 encuentros en los que se abordó la IA desde múltiples perspectivas y disciplinas. Todo lo anterior se sintetizó en un borrador del presente documento que fue
+
+RESUMEN EJECUTIVO sometido a un proceso de consulta pública, en la cual participaron más de 200 personas naturales y jurídicas. Los insumos recibidos durante aquel proceso fueron sistematizados,analizados en profundidad y consolidados junto con las discusiones ministeriales y con expertos, teniendo como resultado la primera Política Nacional de Inteligencia Artificial de Chile.
+
+Así, esta Política de IA termina fundamen- tándose en cuatro principios transversales: IA con centro en el bienestar de las personas, respeto a los derechos humanos y la seguridad; IA para el desarrollo sostenible; IA inclusiva; e IA globalizada.
+
+También es estructurada en tres ejes: el primer eje, Factores Habilitantes, se re-fiere a los elementos estructurales que posibilitan la existencia y el despliegue de la IA, como lo son el desarrollo de talentos, infraestructura tecnológica, y datos; el segundo eje, Desarrollo y Adopción, comprende el espacio donde se crea y despliega la IA, es decir, quienes generan, proveen y demandan sus diferentes aplicaciones y técnicas, que incluyen a la Academia, el Estado, el sector productivo y la sociedad civil; y el último eje, Ética, Aspectos Normativos, e Impactos Socioeconómicos aborda las nuevas discusiones que han surgido a propósito de la interacción humano-máquina y el sistema socio-técnico que configura.
+
+¿QUÉ ES LA INTELIGENCIA ARTIFICIAL?
+
+Una definición simplificada y general elaborada por la Universidad de Montreal entiende la Inteligencia Artificial (IA) como “el conjunto de técnicas informáticas que permiten a una máquina (por ejemplo, un ordenador, un teléfono) realizar tareas que, por lo común, requieren inteligencia tales como el razonamiento o el aprendizaje” (Dihlac et al., 2020, p. 4). La Organización para la Cooperación y el Desarrollo Eco- nómico (OCDE) propone una definición en la misma línea: “un sistema computacional que puede, para un determinado conjunto de objetivos definidos por humanos, hacer predicciones y recomendaciones o tomar decisiones que influyen en entornos reales o virtuales. Los sistemas de IA están diseñados para operar con distintos niveles de autonomía” (Organización para la Cooperación y Desarrollo Económico, 2019, p. 12-13; Cabrol et al., 2020, p. 10).
+
+FIGURA 1: Visión Conceptual de la IA. Fuentes: Gómez et al., 2020; Cabrol et al., 2020; Organización para la Cooperación y Desarrollo Económico, 2019..
+
+¿QUÉ LUGAR OCUPA LA IA EN NUESTRA SOCIEDAD?
+
+La IA ha adquirido un rol protagónico en los últimos años dado su carácter de tecnolo- gía de propósito general, el aumento en la productividad que brinda y la abundancia de los factores que la habilitan (Bresnahan y Trajtenberg, 1995; Klinger et al., 2018).
+
+Hoy nos rodea, y está inmersa en distintos sectores de la economía, el conocimiento y la sociedad. Nos recomienda las mejores rutas para llegar a nuestros destinos, o las pe- lículas y canciones que podrían gustarnos, contribuye a diagnosticar enfermedades oportunamente, o analiza grandes volúme-
+
+¿CUÁL SERÁ EL IMPACTO DE LA IA EN NUESTRO FUTURO?
+
+La IA está teniendo un gran impacto en la economía global y es probable que sea cada vez mayor. Por ejemplo, fruto del desarrollo de la IA la consultora PricewaterhouseCoopers(PwC) estima que el Producto Interno Bruto (PIB) será un 14% mayor al 2030 producto del desarrollo acelerado y adopción de la IA (Rao et al., 2017). Lo anterior, sin considerar el efecto provocado por la pandemia del COVID-19, que podría acelerar aún más la digitalización y el uso de estas herramientas a nivel global (Chang, 2020).
+
+El potencial impacto de la IA, cuando se analiza en los países emergentes, se reduce dramáticamente. De hecho, el mismo estudio de PwC, estima que Latinoamérica nes de datos astronómicos para encontrar supernovas o planetas como el nuestro.
+
+Pese a que el concepto comenzó a ser desarrollado en la década de 1950 (Ronseblatt, 1950; Minsky, 1961), la adopción de esta tecnología se ha acelerado en los últimos diez años gracias al explosivo aumento en la cantidad de datos disponibles, la capacidad de cómputo, la cantidad de personas capaces de desarrollarla, y el avance de otras tecnologías complementarias, haciendo posibles y potenciando técnicas de aprendizaje de máquinas.
+
+y el Caribe apenas recibirán un 5,4% del incremento en el PIB mundial (Rao et al., 2017). En esta línea, la región presenta importantes desafíos y exhibe menor desarrollo que los países líderes, lo que se evidencia en un reciente reporte de fAIr LAC del BID, un proyecto que une a gobiernos, universidades y sector privado para promover un uso ético de la IA, que analiza los doce países mejor posicionados de la re-gión, encontrando brechas en infraestructura digital, educación, brecha de género en ciencia, tecnología, ingeniería y mate- máticas (STEM por sus siglas en inglés), patentes, ciberseguridad, descentralización, desigualdad, entre otros. Pese a esto, el mismo reporte destaca oportunidades en el ecosistema emprendedor, el desarrollo de investigaciones en universidades y centros de investigación (Gómez et al., 2020). Diversas aplicaciones de IA están también transformando los servicios que prestan los gobiernos, facilitando evaluaciones para programas sociales y creando nuevos canales de atención ciudadana, complementando acciones de prevención del delito con algoritmos que detectan fraudes, contribuyendo a mitigar riesgos en las ciudades, o ayudando a la salud pública con sistemas que mejoran la precisión de los diagnósti- cos o ayudando a prevenir la propagación de enfermedades, entre muchos otros.
+
+Por consiguiente, la adopción de IA por parte del Estado también representa una oportunidad para mejorar la calidad de vida de los ciudadanos y enfrentar diversos retos en países emergentes. Sin embargo, los Estados latinoamericanos deben esforzarse para aprovechar esta oportunidad. El Government AI Readiness Index del 2020, desarrollado por Oxford Insights and the International Re-search Development Centre, indica que el país latinoamericano mejor posicionado es Uruguay, apenas en el puesto 42, siendo Chile el segundo, en el puesto 47.
+
+Los países de América Latina y el Caribe también han tenido una baja participación en la discusión y elaboración del uso responsable, la gobernanza y los principios éticos que deben guiar la IA (Jobin et al., 2019; Fjeld et al., 2020). Chile, sin embargo, ha estado avanzando en su posicionamiento en la materia, y desde el 2020 participa del Comité Asesor Multisectorial de IA desde la Agenda de Cooperación Digital (Roadmap for Digital Cooperation) de la Secretaría General de la Organización de Naciones Unidas (ONU). Este comité busca levantar proyectos y compartir experiencias en cómo la IA afecta a estos cinco pilares: confianza, derechos humanos, seguridad, sostenibilidad e incentivar la paz.
+
+Dado que en la región existe un nivel de desarrollo y discusión distinto al del hemisferio norte, es urgente que los países emergentes se hagan presentes en las instancias internacionales de deliberación—y que, quienes las promueven, hagan un esfuerzo activo de incorporarlos—a la vez que se avanza en principios y gobernanzas locales.
+
+Esto ha sido reconocido y abordado en los principios que están siendo desarrollados por la La Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura (UNESCO) que fueron consultados públi- ca y abiertamente en 2020 (Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura, 2020).
+
+¿POR QUÉ CHILE NECESITA LA PRESENTE POLÍTICA DE IA?
+
+El desafío de la revolución tecnológica plantea la necesidad de acelerar nuestra adaptación a los cambios producidos por la masificación de tecnologías como la IA en la sociedad y, dado que la IA es una tecnología de propósito general y su impacto en la productividad es transversal a las oportunidades del futuro, es clave empoderarnos en su desarrollo y empleo. De hecho, el crecimiento económico futuro del país depende de la IA al punto que la tasa de crecimiento de Chile podría incrementarse por esta tecnología en 1 punto porcentual por cada 3 puntos de crecimiento al 2035 (BID, 2018).
+
+El Consejo Nacional de Innovación para el Desarrollo (CNID) planteó el 2019 cinco dimensiones de acción relacionadas a este tema: talentos y empleo, capital tecnológi- co, capital social, modernización del Estado y marco ético y regulatorio; proponiendo también cinco oportunidades: Chile como polo mundial de ciencia de datos, ecosistema de emprendimiento e innovación, revolución tecnológica inclusiva, Estado digital y talentos para el siglo XXI (Consejo Nacional de Innovación para el Desarrollo, 2019).
+
+En esta línea, durante el 2019, un grupo de ministerios liderados por el Ministerio de Ciencia, Tecnología, Conocimiento e Innovación (en adelante MinCiencia) presentaron un diagnóstico sobre la necesidad de elaborar una Política Nacional de IA. Lo anterior fue complementado por la Comisión Desafíos del Futuro, Ciencia, Tecnología e
+
+Innovacióndel Senado de la República de Chile que estuvo de acuerdo en la necesidad de generar una hoja de ruta para potenciar la investigación y desarrollo (I+D) en IA, la innovación y capturar así sus beneficios sociales y económicos (Comisión Desafíos del Futuro, Ciencia,Tecnología e Innovación del Senado de la República de Chile, 2019).
+
+Además, Chile adhirió a las recomendaciones del Consejo de IA de la OCDE, el primer estándar a nivel internacional en la materia. Este documento plantea cinco principios: (1) crecimiento inclusivo, desarrollo sustentable y bienestar; (2) centrado en el ser humano y justicia; (3) transparencia y explicabilidad; (4) robustez, seguridad y protección; y (5) responsabilidad y rendición de cuentas (en inglés accountability).
+
+Además, propone que los países adopten políticas orientadas a: (1) invertir en I+D relacionado a IA; (2) fomentar el ecosistema digital para la IA; (3) moldear un ambiente político favorable y habilitador de la IA; (4) construir capacidades humanasy prepararse para la transformación del mercado laboral; y (5) cooperar internacionalmente para tener una IA confiable (Organización para la Cooperación y el Desarrollo Económico, 2019b).
+
+Finalmente, es relevante construir un camino nacional y atingente a Chile respecto de la IA, que incorpore cómo cambiaremos las chilenas y chilenos con esta tecnología en los próximos años. El avance de IA está condicionado y condiciona, al mismo tiempo, el desarrollo de la sociedad.
+
+Así, la Política que aquí presentamos abarca tanto la especificidad técnica de la IA, como también sus oportunidades en nuestra economía, y el sentir de la ciudadanía con respecto a ella, lo que contribuye a un imaginario u objetivo común, que ha nacido del encuentro entre las ciudadanas y ciudadanos de nuestro país y las expertas y expertos que contribuyeron a este documento, cuyas habilidades y experiencias se destacan en campos diversos como IA, productividad, educación, leyes, sociolo- gía, infraestructura, industria y políticas públicas, entre muchos otros.
+
+¿CÓMO SE ELABORÓ LA PRESENTE POLÍTICA?
+
+Durante el primer semestre de 2019, Min- Ciencia junto con los Ministerios de Econo- mía, Fomento y Turismo y de la Secretaría General de la Presidencia desarrollaron un análisis comparado de las estrategias y políticas de IA publicadas hasta ese perío- do, observándose la oportunidad de estar dentro de la vanguardia internacional de países que cuentan con una estrategia nacional de IA, integrada mayoritariamente por países del hemisferio norte. Adicionalmente, se hizo una revisión en el Estado en la que se detectaron más de 30 iniciativas relacionadas a la IA en distintos servicios públicos que estaban en proceso de diseño, implementación o en operación. El Ministerio de Ciencia presentó este aná- lisis preliminar al presidente S.E. Sebastián Piñera, quien le encargó a la cartera la elaboración de una Política Nacional de IA y un Plan de Acción. A continuación, se resumen los principales hitos del proceso a tra- vés del cual se elaboró la presente Política.
+
+Durante septiembre de 2019 el Ministerio convocó a un grupo interdisciplinario y diverso de 12 expertos y expertas para formar parte de un comité encargado de apoyar el desarrollo del documento base de la Polí- tica. Durante el mismo mes, la Comisión de Desafíos del Futuro, Ciencia, Tecnología e Innovación del Senado de la República de Chile (2019) presentó al Presidente y al Ministro de Ciencia un diagnóstico elaborado sobre la necesidad de una estrategia de IA para Chile titulado “Inteligencia Artificial para Chile: La urgencia de desarrollar una Estrategia”. Como resultado se incorporaron al Comité de Expertos dos académicos que lideraron la redacción de dicho documento.
+
+En paralelo a la formación del Comité de Expertos, se creó un Comité Interministerial liderado por MinCiencia para la articulación de los ministerios y servicios del Estado que participarían en la tarea. A los ministerios que habían comenzado a trabajar en la etapa de diagnóstico se les sumaron diver-
+
+• Marcelo Arenas Ph.D. en Ciencias de la Computación de la Universidad de Toronto. Es Profesor de la Pontificia Universidad Católica de Chile y Director del Instituto Milenio Fundamentos de los Datos. • Néstor Becerra Ph.D. de la Universidad de Edinburgh. Profesor titular de la Universidad de Chile. • Raphael Bergoeing Ph.D. en Economía de la Universidad de Minnesota. Profesor de la Universidad de Chile y Presidente de la Comisión Nacional de Productividad. • Alberto Cerda Ph.D. en derecho en Georgetown University. Profesor de la Universidad de Chile. • Aisén Etcheverry Master of Law de la Universidad de San Francisco. Directora Agencia Nacional de Investigación y Desarrollo. • María Paz Hermosilla Master in Public Administration de la Universidad de Nueva York. Profesora de la Universidad Adolfo Ibáñez y directora del GobLab UAI.
+
+COMITÉ INTERMINISTERIAL
+
+• Ministerio de Ciencia, Tecnología, Conocimiento e Innovación • Ministerio de Interior y Seguridad Pública • Ministerio de Defensa Nacional • Ministerio de Relaciones Exteriores • Ministerio de Educación • Ministerio de Hacienda • Ministerio Secretaría General de la Presidencia • Ministerio de Economía, Fomento y Turismo • Ministerio de Desarrollo Social y Familia • Ministerio de Trabajo y Previsión Social
+
+• César Hidalgo Ph.D. en Física de la Universidad de Notre Dame. Profesor de la Universidad de Tolouse donde es Chair del Instituto de Inteligencia Artificial y Natural • María Pérez Ph.D. en Economía de la Universidad de Stanford. Es Data Science Lead Homes Platform de AirBnB. • Andrea Rodríguez Ph.D. en Información Espacial Universidad de Maine. Profesora y Vicerrectora de Investigación de la Universidad de Concepción. • José Rodríguez Ph.D. en ingeniería eléctrica de la Universidad de Erlangen. Profesor de la Universidad Andrés Bello en Santiago. • Álvaro Soto Ph.D. de la Universidad Carnegie Mellon. Profesor de la Pontificia Universidad Católica de Chile. • Juan Velásquez Ph.D Ingeniería de la Información, Universidad de Tokio. Profesor Titular Dpto. de Ing. Industrial, Facultad de Ciencias Físicas y Matemáticas, Universidad de Chile e Investigador del Instituto Sistemas Complejos de Ingeniería.
+
+• Ministerio de Transporte y Telecomunicaciones • Ministerio de las Culturas, las Artes y el Patrimonio • Agencia Nacional de Innovación y Desarrollo • Corporación de Fomento de la Producción • Servicio Nacional de Capacitación y Empleo • Comisión Nacional de Energía • Poder Judicial sos servicios públicos y nuevos miembros a medida que avanzó el desarrollo de la Po- lítica. Adicionalmente, MinCiencia generó una red de contrapartes en los demás ministerios para su revisión y para avanzar en un catastro de iniciativas relacionadas a IA.
+
+Para incorporar una activa participación ciudadana se diseñó un proceso que constó de dos etapas. La primera consistió en una convocatoria amplia y abierta para contribuir al desarrollo de la Política publicando un índice tentativo de esta, de forma que cualquier persona u organización pudiera contribuir con su visión, experiencia y co-nocimientos. A este llamado respondieron más de 1.300 personas. A continuación, se organizaron mesas en todas las regiones del país, convocando a 400 personas que se reunieron a examinar la temática considerando las características de sus respectivos territorios. En paralelo, se organizaron una serie de 15 webinars en los que se abordó la IA desde múltiples disciplinas y perspectivas y en los que participaron más de 6.600 personas (disponibles en bit.ly/Webinars- MincienciaIA). Los insumos generados durante este proceso fueron sistematizados, analizados en profundidad y consolidados junto con las discusiones ministeriales y con expertos.
+
+Este proceso de análisis junto a la difusión permitió generar una mayor conciencia sobre la IA. Los webinars y las mesas de trabajo fueron un espacio en que chilenos y chilenas pudieron co-construir en torno a la IA y, al mismo tiempo, aprender sobre la tecnología, sin verse inmersos en instancias verticales de educación. La figura 2 resume el alcance de la primera etapa del proceso de participación ciudadana.
+
+69 70 15
+
+Mesas auto-
+
+Mesas de trabajo
+
+Reuniones temáticas convocadas regionales online personas se reunieron 400 1300 personas participaron
+
+Llegaron en total a 6600 personas
+
+39% Academia 22% Academia
+
+28 expositores
+
+30% Industria 35% Industria
+
+14 14
+
+14% Otros 7% Sector público
+
+17% Sector público y sociedad civil
+
+36% Sociedad civil expertas expertos
+
+FIGURA 2: Síntesis del proceso de participación Política Nacional de Inteligencia Artificial.
+
+La segunda etapa fue una consulta pública del primer borrador de la Política. Esta consulta permaneció abierta entre diciembre de 2020 y enero de 2021 y permitió que 209 personas naturales y jurídicas hicieran comentarios detallados sobre él, que han sido considerados en el presente texto. Las características de los participantes y resultados principales serán detallados en un documento complementario, proveniente del proceso de Consulta Pública acorde a los estándares definidos por la División Jurídica de MinCiencia. Por lo tanto, el presente documento ha sido construido considerando los insumos recibidos por medio de los grupos expertos, el equipo interministerial, las mesas autoconvocadas, mesas regionales y consulta pública.
+
+MinCiencia tiene el gran desafío de posicionar la ciencia, la tecnología, el conocimiento y la innovación como agentes fundamentales en el desarrollo sustentable de Chile. La elaboración de la Política de IA, como parte del Plan de Acción más amplio de la primera Política de Ciencia, Tecnología, Co-nocimiento e Innovación generada bajo la nueva institucionalidad científica del país, apunta en la dirección de empoderar a ciudadanas y ciudadanos en su relación con la ciencia y la tecnología, haciendo suyos los potenciales beneficios, pero también convirtiéndonos todos en responsables de mitigar sus potenciales riesgos. Así es como avanzamos en trazar un camino propio con miras a mejorar la calidad de vida de chilenas y chilenos, y aportar al desarrollo de nuestros territorios.
+
+RESPONDIERON RESUMEN
+
+## PERSONAS 209 — 87,2% +80%
+
+ESTÁ DE ACUERDO Y MUY DE ACUERDO CON EL OBJETIVO GENERAL PLANTEADO EN EL BORRADOR DE LA POLÍTICA.
+
+% DE APROBACIÓN DE EJES
+
+DE LAS RESPUESTAS RECIBIDAS MANIFIESTAN ESTAR DE ACUERDO O MUY DE ACUERDO CON LOS EJES Y OBJETIVOS PROPUESTOS.
+
+EN LOS 3 EJES SE INCORPORARON NUEVAS VISIONES Y ENFOQUES PROPUESTOS POR LOS Y LAS PARTICIPANTES DE LA CONSULTA.
+
+1. FACTORES HABILITANTES
+
+## 3. ÉTICA, ASPECTOS REGULATORIOS E IMPACTOS SOCIOECONÓMICOS 88,8% 88,8% 83,3% 89,1% 87,3%
+
+### 2. DESARROLLO
+
+Y ADOPCIÓN
+
+DESAROLLO DE TALENTO
+
+INFRAESTRUCTURA TECNOLÓGICA
+
+DE ACUERDO Y MUY DE ACUERDO
+
+DATOS
+
+DE ACUERDO Y MUY DE ACUERDO
+
+¿CÓMO SE ORGANIZA LA PRESENTE POLÍTICA DE IA?
+
+Esta Política Nacional de IA contiene en las siguientes páginas un Objetivo, que opera como pilar conceptual del texto, y que expresa el lugar en que nos imaginamos al país impulsado por las iniciativas que la presente política organiza.
+
+El texto contiene además cuatro Principios, y está dividido en tres Ejes, con interdepedendencia, que corresponden a Factores Habilitantes, Desarrollo y Adopción, y Ética, Aspectos Legales y Regulatorios, e Impactos Socioeconómicos. Cada eje aborda las oportunidades y brechas en su ámbito, e introduce los objetivos y acciones prioritarias que el país debe emprender en un horizonte de tiempo de 10 años para cumplir con el objetivo de esta política el 2031.
+
+Finalmente, el documento cuenta con un glosario con términos que facilitan la comprensión de aspectos técnicos de la Política.
+
+Este documento es acompañado de un Plan de Acción de IA, que especifica las iniciativas comprendidas en cada una de las acciones prioritarias del documento, e incluye responsables y plazos de ejecución en el horizonte de la próxima década.
+
+## OBJETIVO, PRINCIPIOS Y EJES DE LA POLÍTICA NACIONAL DE IA
+
+Insertar a Chile en la vanguardia y colaboración global re-lacionada con IA, con un ecosistema de investigación, desarrollo e innovación en IA que cree nuevas capacidades en los sectores productivos, académicos y estatales, y que orientadas acorde a principios transversales de oportunidad y responsabilidad, contribuyan al desarrollo sustentable y mejoren nuestra calidad de vida.
+
+OBJETIVO — PRINCIPIOS TRANSVERSALES
+
+## 1. IA CON CENTRO EN EL BIENESTAR DE LAS PERSONAS, RESPETO A LOS DERECHOS HUMANOS Y LA SEGURIDAD
+
+cialmente cuando se trata de datos personales, deben ser sistemas seguros. Las acciones contemplarán evaluaciones de los riesgos y vulnerabilidades en dichos procesos para así evitar el uso de conjuntos de datos que puedan llevar a decisiones o resultados arbitrariamente discriminatorios, y proteger algoritmos críticos que en caso de ser vulnerados podrían comprometer la seguridad de nuestro país.
+
+La IA debe contribuir al bienestar integral de las personas. Las acciones estarán orientadas a que las personas tengan una mejor calidad de vida, aprovechando los beneficios de la IA y abordando sus riesgos y potenciales impactos negativos, con un irrestricto respeto a los derechos humanos de toda la ciudadanía. Tanto los algoritmos como los datos utilizados para entrenar los sistemas automatizados, espe-
+
+## 2. IA PARA EL DESARROLLO SOSTENIBLE
+
+La IA tiene un gran potencial para que los países emergentes, como Chile, puedan diversificar su matriz económica y hacer más productivas sus industrias, así como fomentar su ecosistema de investigación, tecnología, innovación y las aplicaciones comerciales derivadas de él.
+
+Las acciones se orientarán a potenciar el uso y desarrollo de la tecnología en el país, el fortalecimiento del ecosistema y la incorporación de la IA como un eje del desarrollo sostenible del país, esto es, con consideraciones sociales y medioambientales.
+
+## 3. IA INCLUSIVA
+
+Debido a la estrecha dependencia que existe entre el entrenamiento de algoritmos y el uso de datos para ello, la transparencia y explicabilidad se transforman en elementos relevantes para la concepción de una IA inclusiva, por ende, las acciones pondrán especial én- fasis en los atributos de integridad y calidad de los datos para garantizar que sus sesgos sean conocidos y tratados adecuadamente.
+
+mos que velen por su bienestar y su incorporación al momento de desarrollar las nuevas tecnologías (Fondo de las Naciones Unidas para la Infancia, 2020).
+
+La IA debe comprenderse como un sistema que está cambiando la naturaleza misma del ser humano y la sociedad. En esta línea, toda acción relacionada a la IA debe abordarse en forma interdisciplinaria, potenciando la contribución de las diversas áreas del saber. Además, como tecnología de propósito general, es imposible abordarla desde la exclusiva mirada de expertos. El conocimiento y la construcción de imaginarios en torno a la IA están distribuidos en la sociedad y, conforme a eso deben constituir un esfuerzo por integrar la inteligencia y el sentir colectivo a través de procesos abiertos de deliberación.
+
+La IA no debe discriminar en base a categorías protegidas ni ser utilizada en perjuicio de ningún grupo. En particular, es de especial importancia que la IA se desarrolle con perspectiva de género y diversidad sexual, inclusiva a grupos históricamente relegados como los pueblos originarios, las personas con capacidades especiales, o los sectores más vulnerables de nuestra economía, para convertirse en un instrumento útil para las personas, velando por disminuir y cerrar brechas.
+
+Finalmente, Chile cuenta con territorios de realidades y caracte- rísticas diversas a lo largo de su geografía. Por ello se impulsará la generación de estrategias regionales y/o macrozonales que permitan aprovechar los beneficios de la tecnología desde las particularidades de cada territorio y desarrollar cada región desde su realidad.
+
+Asimismo, la IA debe desarrollarse con especial consideración por ni- ñas, niños y adolescentes desde una perspectiva de protección, provisión y participación. Esto se justifica en muchas ocasiones este grupo no tiene las oportunidades o mecanis-
+
+## 4. IA GLOBALIZADA Y EN EVOLUCIÓN
+
+Las acciones e iniciativas con respecto a IA desde Chile considerarán cómo se insertan en el contexto internacional impulsando la participación en espacios bilaterales y multilaterales de los que nuestro país sea parte. Además, se alinearán con los principios y acuerdos que Chile ha suscrito, como los Principios sobre la IA de la OCDE, y se actualizarán de acuerdo con aquellos que se suscriban en el futuro.
+
+## EJES DE LA POLÍTICA
+
+El desarrollo global de la IA y la discusión sobre los dilemas éti- cos que plantea puede conflictuar con las realidades locales. Por ello considerará especialmente las características únicas de nuestro país, teniendo en cuenta nuestras necesidades alineadas a la evolución de la tecnología y sus factores habilitantes, es por ello que se apuntará a un camino propio y en constante revisión, que no necesariamente es el mismo que siguen los países del hemisferio norte.
+
+En base al análisis comparado de las estrategias de IA publicadas a la fecha por diversos países, y con el objetivo de facilitar su elaboración y la deliberación ciudadana, especialmente entre grupos con intereses generales o aquellos que tienen un foco muy específico, la Política de IA fue estructurada en tres ejes. Sin embargo, es preciso tener presente que muchas de las temáticas tratadas están in-terrelacionadas, conexión que se representa en los principios señalados en la siguiente sección1.
+
+1 Entonces, la Política reconoce un rol armonizador de sus Principios Transversales. La numeración de los ejes que luego se enuncian no significa necesariamente una priorización ni el establecimiento de un orden de prelación entre ellos.
+
+EJE Nº1. FACTORES HABILITANTES
+
+Son los elementos basales que posibilitan la existencia y el despliegue de la IA. Es decir, aquellos componentes sin los cuales el uso y desarrollo de esta tecnología se hace imposible.
+
+Se incluyen en este eje el desarrollo de talentos, infraestructura tecnológica, y datos.
+
+EJE Nº2. DESARROLLO Y ADOPCIÓN
+
+Comprende el espacio donde se desarrolla y despliega la IA. Este espacio contiene a los actores que crean, proveen y demandan sus diferentes aplicaciones y técnicas, como la academia, el Estado, el sector privado y la sociedad civil.
+
+En este eje se incluye investigación básica y aplicada, transferencia tecnológica, innovación, emprendimiento, mejoramiento de servicios pú- blicos, desarrollo económico basado en tecnología, entre otros.
+
+EJE Nº3. ÉTICA, ASPECTOS NORMATIVOS, Y EFECTOS SOCIOECONÓMICOS
+
+Siendo probablemente el eje más heterogéneo de la Política, aborda las nuevas discusiones que han surgido a propósito de la interacción humano-máquina y el sistema socio-técni- co que configura, entendiendo que algunas de ellas están más avanzadas y otras en un nivel de desarrollo inicial.
+
+guridad. Además, comprende temas como explicabilidad / transparencia, y género e impacto en el mercado laboral entre otros aspectos éticos, sociales y económicos.
+
+En las secciones siguientes se describen los tópicos abordados en cada eje, los principales objetivos espe- cíficos y las estrategias propuestas para alcanzarlos. El detalle de las iniciativas se incluyen en el Plan de Acción que acompaña esta Política. En conjunto, estas iniciativas nos permitirán superar el promedio OCDE en diversos indicadores de IA relacionados con los tres ejes y avanzar a ser el país que lidere en la materia en América Latina y el Caribe durante la próxima década.
+
+Aquí se encuentran incluidos algunos de los aspectos normativos más re-levantes de acuerdo con la discusión ciudadana y a la experiencia nacional e internacional. Por ejemplo, aborda la IA en la protección al consumidor, en la privacidad, en el sistema de propiedad intelectual y en la ciberse-
+
+EJE 1.
+
+## FACTORES HABILITANTES
+
+### 1.1. DESARROLLO DE TALENTO
+
+Tanto el uso como el desarrollo de IA, tiene como primer requisito la presencia de personas con adecuada formación, experiencia y comprensión en materia de datos, estadística, matemáticas, ingenierías, procesamiento de señales, programación, entre otras, para lo cual debemos orientar esfuerzos para proveer, fomentar y facilitar la formación de talentos en estas materias (OCDE, 2019).
+
+El escenario actual en Chile es tal que existen marcadas brechas en capacidad y talentos en todos los niveles para áreas relacionadas con la transformación digital. Por ejemplo, el programa Talento Digital diagnosticó una brecha de aproximadamente 65.000 profesionales al año en tecnologías digitales (Talento Digital, 2020). El nivel escolar es un excelente momento para incluir y preparar a niñas, niños y adolescentes para un mundo en que el uso de tecnologías basadas en IA es generalizado, reconociendo su influencia y potencialidades para ser usuarios y ciudadanos proactivos, a la vez que se busca estimular su interés por desarrollar sistemas de IA (Sandoval, 2018).
+
+En lo que respecta a la formación técni- co-profesional existe la necesidad de re-convertir parte de la fuerza laboral, especialmente a las personas susceptibles de ser reemplazadas por máquinas (Clapes
+
+UC, 2018). Con respecto a futuros trabajadores, diversos estudios han identificado una brecha entre las habilidades que entregan las Instituciones de Educación Superior (IES) y las competencias que demanda nuestra industria, específicamente en cuanto a habilidades relacionadas a la Industria 4.0 (Comisión Nacional de Productividad, 2018).
+
+En cuanto a la formación universitaria de pre y postgrado, resulta indispensable contar con personas dedicadas a I+D en IA en Chile y en el mundo. A nivel global, se observa un aumento en la escasez de personas con estas capacidades (OCDE, 2019). En nuestro país, existe apenas una persona dedicada a I+D por cada mil trabajadores (as), 8 veces bajo el promedio OCDE (Políti- ca Nacional de Ciencia, Tecnología, Conocimiento e Innovación, 2021).
+
+Por último, a raíz de la naturaleza de la evolución de la IA, y a la posibilidad de que surjan otras tecnologías con potencial de generar un impacto relevante en su naturaleza y su despliegue, necesitamos crear y mantener ejercicios de anticipación para que el desarrollo de talento continúe alineado con el devenir de la IA y otras tecnologías aún por emerger.
+
+Para abordar estos desafíos se plantean los siguientes objetivos:
+
+OBJETIVO 1.1.1
+
+Promover la formación de habilidades, conocimientos y aptitudes para el uso, desarrollo, comprensión y análisis de la IA en el sistema escolar, considerando las implicaciones positivas y negativas de la tecnología y fomentando la formación de usuarios y ciudadanos con pensamiento crítico y principios éticos.
+
+· Generación de recursos educativos para trabajar la IA en el contexto escolar. Con tal de acelerar la transformación, proporcionaremos recursos para nivelar a ni- ños, niñas y adolescentes en conocimientos y habilidades básicas requeridas en el desarrollo de las competencias digitales y la IA. Estos recursos les permitirán enfrentarse a la industria 4.0 como usuarios y creadores, teniendo la posibilidad de ejercer una mirada crítica ante los usos y aplicaciones de este conocimiento.
+
+El acceso a los recursos educativos será de carácter abierto, utilizando diversas metodologías pedagógicas de ayuda para los estudiantes. Para lo anterior, se utilizarán metodologías de apoyo que hayan resultado exitosas a nivel educativo comparado, a fin de que sirvan de apoyo al proceso de actualización de profesores y comunidades educativas en el contexto nacional.
+
+· Reformulación y monitoreo del currículum escolar para incorporar habilidades necesarias para el desarrollo de IA. El cambio digital está avanzando de forma acelerada, y las generaciones venideras deben incorporarse dentro de este circuito desde los primeros años. Para ello, fomentaremos acciones que tengan por objetivo el desarrollo del pensamiento creativo, computacional y la conciencia sobre los sistemas electrónicos desde la etapa escolar, en forma progresiva, tal como se enseñan otras habilidades esenciales como las asociadas al lenguaje. El objetivo será favorecer el desarrollo de habilidades de pensamiento específicas a IA y, también, preparar a los estudiantes para el uso de nuevas tecnologías, las comunicaciones globales, manejar grandes cantidades de datos y desarrollar el pensamiento crítico y creativo en torno a su desarrollo y uso.
+
+· Formación de la comunidad educativa en habilidades necesarias para el desarrollo de IA. Si bien los estudiantes deberán actualizarse, el contexto también demandará a los educadores formarse y adquirir nuevos co-nocimientos y habilidades, al tiempo que interactúan en forma creciente con la tecnología dentro y fuera de la sala de clases. En esta línea, coordinaremos a los actores que forman parte de la comunidad educativa, sensibilizando a las instituciones, y entregando incentivos para que puedan actualizar sus competencias.
+
+Además, dada la velocidad a la que avanza la tecnología y la urgencia que existe en adquirir las habilidades en torno a ella, impulsaremos avances hacia un sistema más flexible que permita a expertos externos a las comunidades educativas hacerse parte y contribuir con su conocimiento, por medio de la promoción de espacios de inter-cambio y cooperación entre universidades regionales y comunidades educativas de educación básica y media.
+
+· Generación de espacios de participación a nivel nacional para estudiantes de educación básica y media, en base al desarrollo de proyectos y la resolución de desafíos. Crearemos plataformas de colaboración con niñas, niños y adolescentes como audiencia y autores principales, pues los espacios de interacción entre distintos establecimientos educacionales crean un ambiente provechoso para mostrar cómo sus ideas se están conformando, lo que contribuye a una retroalimentación entre pares.
+
+OBJETIVO 1.1.2 Evaluar, incorporar e impulsar la IA como una disciplina transversal en la formación profesional y técnico-profesional.
+
+· Desarrollar programa de IA en CFT e IP para concientizar y luego formar en IA. De acuerdo con la Comisión Nacional de Productividad, el 2017 los Establecimientos de Educación Superior Técnico Profesional (ESTP) albergaron un 44% de las matrículas de pregrado del sistema (Arroyo y Pacheco, 2017). Además, de acuerdo a un estudio reciente, las carreras técnicas con mayor empleabilidad fueron las relacionadas a tecnología y administración (Subsecretaría de Educación Superior, 2020). Se prevé que las carreras incipientes en el área de IA sean aquellas referentes al entrenamiento de máquinas, como en el área de la salud, o al resguardo y protección de los datos, como ciberseguridad, entre otras.
+
+Además, la creciente adopción de tecnología en la industria requerirá que las personas, independiente que su carrera sea en un área tecnológica o no, tengan nociones básicas sobre la tecnología y la interacción humano-máquina. Lo anterior se vuelve necesario, e indispensable, para concientizar en IA, y luego formar en la misma área.
+
+Los CFT e IP ya han hecho notar su motivación por integrar este conocimiento para aventajarse en la industria 4.0 (Tomarelli, 2020). Estas instituciones son esenciales para comenzar con la actualización y reconversión de los trabajadores, principalmente, en trabajos relacionados con la automatización. Una muestra de ello es la participación de CFT Estatales y CFT e IP privados en el piloto de del Marco de Cualificaciones Técnico Profesional en el sector Mantenimiento 4.0 de acuerdo con la Ley Sobre Educación Superior N° 21.091. La ESTP, gracias a su configuración, tiene la flexibilidad para adaptarse con mayor eficiencia a estos nuevos desafíos, capacitando, así, a la futura fuerza laboral.
+
+Por ello integraremos una mesa públi- co-privada para incorporar IA en la malla curricular de CFT e IP, que también impulsará iniciativas relacionadas a la orientación vocacional y laboral, que permitan visibilizar las oportunidades que presentan el área de IA para los estudiantes, y los motive a seguir trayectorias formativolaborales asociadas al desarrollo y uso de sistemas de IA.
+
+Impulsaremos a que la mesa evalúe inicialmente las carreras en las cuales se incorpore la IA como disciplina transversal, como también las iniciativas que permitan a los docentes de la ESTP formarse en habilidades digitales y, en particular, en IA. En esta línea, se potenciarán programas como las becas de capacitación para directivos y docentes impulsadas por el Ministerio de Educación y CORFO como parte de la iniciativa IP-CFT 2030, que incorpora herramientas y conocimientos de innovación y transferencia tecnológica (Ministerio de Educación, 2020).
+
+· Identificar, diseñar, adaptar y potenciar instrumentos de certificación o calificación para habilidades relacionadas a IA. La demanda por habilidades relacionadas al manejo de datos, la computación de alto rendimiento, la administración y despliegue de plataformas en la nube y de IA ha ido en aumento sostenido. Sin embargo, para los empleadores que requieren este tipo de habilidades, los diplomas y certificaciones clásicas no son suficientes. A esto se le suma la complejidad de un ámbito que es sumamente cambiante y que avanza a gran velocidad, dificultando acordar el contenido en las evaluaciones.
+
+Este escenario plantea el desafío de identificar las competencias necesarias, diseñar y organizar la certificación de este tipo de aprendizajes, o bien de diseñar plataformas dinámicas que permitan calificar experiencia y habilidades, tal como hoy muchas entidades realizan pruebas ad-hoc a sus procesos de contratación.
+
+Diseñaremos nuevas maneras de certificar conocimientos que vaya más allá de los diplomas tradicionales—como certificaciones profesionales, títulos universitarios o técnico profesional—y que cambie la clásica certificación que indica que se ha completado la asistencia a un determinado plan de estudios, por una nueva que, en cambio, certifique experiencia, habilidades y competencias.
+
+Además, se incluirá en este diseño la conformación de trayectorias formativas y laborales en competencias afines a tecnologías e IA, para el desarrollo armónico y eficiente del proceso formativo de las personas a lo largo de su vida, reconociendo los conocimientos adquiridos previamente.
+
+OBJETIVO 1.1.3.
+
+Promover la formación de habilidades, conocimientos y aptitudes para el uso, desarrollo, comprensión y análisis crítico de la IA a todos los trabajadores chilenos.
+
+· Potenciar programas e instrumentos de capacitación para entregar actualizar y reconvertir (upskilling y reskilling) a todos los trabajadores chilenos. Uno de los grandes desafíos en el ámbito del talento, será capacitar a la fuerza laboral actual, de manera de evitar la obsolescencia de los conocimientos y brindar competencias necesarias para responder a la transformación digital, especialmente a la automatización de tareas. Por lo tanto, crearemos programas e instrumentos de capacitación con foco en IA que será el principal motor para impulsar la transformación digital en las empresas, incrementando la productividad, y mejorando la calidad de vida de trabajadores y trabajadoras. En esta línea, diseñaremos, actualizaremos y focalizaremos programas e instrumentos que, entre otras cosas, se hagan cargo de: capacitar a los distintos grupos que conforman la sociedad frente a la automatización; fomentar la capacitación continua en las empresas; y proveer herramientas abiertas y gratuitas para la población en general. Cabe mencionar que estas acciones fomentarán programas existentes como la iniciativa de Talento Digital, construyendo sobre lo que se ha realizado y aprovechando los aprendizajes, las redes y el prestigio alcanzado.
+
+OBJETIVO 1.1.4.
+
+Fomentar la creación de programas especializados en IA en la malla curricular de las IES y, al mismo tiempo, su incorporación en forma transversal a través de las distintas disciplinas.
+
+· Incorporar la IA como un conocimiento transversal a las carreras de las IES. Se requiere IA en forma transversal a las distintas carreras dada su ubicuidad a través de disciplinas e industrias. Considerando lo anterior, a nivel de pregrado, sin perjuicio que se requiere fortalecer la formación técnica de uso y desarrollo en AI, la formación en distintos ámbitos debe adecuarse también, o existir como una formación complementaria. Estableceremos incentivos para que las IES creen iniciativas multi-departamentales, programas de formación continua, plataformas que entreguen desafíos y herramientas a los estudiantes, entre otras cosas. Por ejemplo, son necesarios profesionales en aspectos legales de AI, en formación continua o de especialidad, en las ciencias sociales y humanidades, en áreas de negocios, innovación y emprendimiento, entre otras.
+
+· Formación y fortalecimiento de carreras ligadas a las ciencias de la computación, robótica y hardware asociado a IA. Para fomentar la investigación, desarrollo, innovación y emprendimiento en torno a la IA, es necesario fortalecer las carreras ligadas a las ciencias de la computación, robótica y hardware asociado a inteligencia artificial. En esta línea, generaremos los incentivos para que las IES incrementen y mejoren la oferta de cursos asociados a la IA, incluso nuevas mallas curriculares, y teniendo en consideración la creación de profesionales trainers, explainers y sustainers (Wilson et al., 2017).
+
+OBJETIVO 1.1.5.
+
+Incrementar la cantidad de expertos y expertas en IA, es decir, magíster y doctores, a un valor igual o superior al promedio de la OECD y crear incentivos para la incorporación de este talento tanto al sector académico, como al Estado y privado.
+
+· Focalización de fondos públicos destinados a formar talentos ligado a labores de investigación y técnicas en torno a la IA. Con el fin de fortalecer las instituciones de investigación, centros tecnológicos y empresas, se precisa tener una acción coordinada entre la formación de talentos, y una adecuada inserción de esta nueva generación de investigadores e investigadoras. Estos talentos son indispensables y encargados de ser un motor de innovación y cambio dentro de las organizaciones.
+
+La evidencia muestra cómo la inserción de investigadores e investigadoras en la in-dustria tiene un efecto positivo en la productividad. Es así como ya existen esfuerzos dispuestos para esta meta como la Política Nacional de Ciencia, Tecnología, Conocimiento e Innovación, liderada por MinCiencia, que incluye la formación e inserción de talentos en la estructura productiva y en la academia del país, también teniendo en consideración el fortalecimiento de programas locales de magíster y doctorado.
+
+En esta línea, implementaremos acciones de focalización y diseñaremos mecanismos para estudios en áreas relacionadas a la IA en Chile o el extranjero, acorde al piloto implementado en 2020 que focalizó Becas Chile de doctorado en el extranjero. Al mismo tiempo, para aprovechar el potencial de las IES chilenas y su posición destacada en la región, se crearán instrumentos para atraer talentos y así fortalecer los programas nacionales.
+
+Por último, trabajaremos en conjunto con la industria para potenciar la inversión en talentos en el sector privado mediante acuerdos y diseño de nuevos instrumentos de financiamiento compartido.
+
+· Generación de incentivos en la academia y la industria local para aprovechar los talentos formados en IA. En vista de la creciente inserción de nuevas tecnologías al ecosistema nacional, es fundamental retener el talento y la inversión en educación del país. Por lo tanto, no solo se debe poner el foco en incrementar el núme- ro de personas formadas en IA, sino también, generar un entorno estable en el tiempo capaz de ofrecer oportunidades competitivas de desarrollo académico y profesional.
+
+En esta línea, y en acuerdo con el sector privado haremos más atractivo el ecosistema nacional y fomentaremos la inserción de expertos en la industria y la academia. Adicionalmente, aprovecharemos a quienes decidieron hacer su carrera en el extranjero, generando redes de profesionales y expertos nacionales que contribuyan al desarrollo del ecosistema local de ciencia, tecnología, conocimiento e innovación.
+
+· Adecuar la acreditación de los programas nacionales de acuerdo con métricas internacionales de IA. La IA y las disciplinas asociadas a su desarrollo responden a incentivos y tienen formas de medir su éxito y desarrollo distintas a otras áreas del saber. Analizaremos el estado del arte internacional, para diseñar indicadores adecuados para acreditar los programas asociados a las ciencias de la computación, ingeniería eléctrica y la IA en general.
+
+Así, se contribuirá a la revisión y actualización de la acreditación de los programas de las IES por parte de la CNA, al tiempo que estableceremos incentivos para la implementación de iniciativas.
+
+OBJETIVO 1.1.6. Coordinar el sistema nacional de ciencia, tecnología, conocimiento e innovación para que el talento formado apunte al futuro que anhelamos.
+
+· Ejercicios permanentes de prospección de demanda. Mantendremos un catastro que cuantifique y proyecte las necesidades de talento especializado en IA y otras tecnologías, identificando claramente la demanda del sector público, privado y académico.
+
+· Ejercicios permanentes de anticipación. Coordinaremos ejercicios de anticipación de forma permanente con miras a propiciar la creación de escenarios deseables para el país y contener escenarios riesgosos a tra- vés de la formación e inserción de talento.
+
+· Actualización constante de hojas de ruta de formación de talento. A partir de la línea base presentada por la prospección de demanda y de los escenarios tecnológicos, oportunidades y riesgos identificados en los ejercicios de anticipación, coordinaremos la creación de hojas de ruta respecto de la formación de talento, que especifiquen necesidades, levanten y direccionen instrumentos de financiamiento, colaboraciones necesarias, y llamen a la ejecución de políticas públicas, medidas e inversiones requeridas
+
+### 1.2. INFRAESTRUCTURA TECNOLÓGICA
+
+La infraestructura tecnológica es una necesidad para mejorar la productividad y el desarrollo del país, integrándose en forma respetuosa, segura y de calidad en la realidad de cada territorio. El desarrollo y uso de la IA tiene como requisito una adecuada conectividad, plataformas accesibles de manera ubicua (como la nube), centros de almacenamiento de datos, entre otros.
+
+La infraestructura tecnológica no solo impacta a través de la mejora en procesos productivos y metodologías de trabajo, sino que también en el servicio final que recibe la población y las facilidades que significan para su vida cotidiana. Un ejemplo es la implementación del 5G que ha significado grandes inversiones en los últimos años para sustentar la transformación digital.
+
+Actualmente, América Latina se encuentra muy atrasada en comparación al hemisferio norte y Oceanía en cuanto a infraestructura requerida, pero en una fase de crecimiento que involucra la llegada de nuevas tecnologías que están aportando al bienestar de la población, y que han sido fundamentales, por ejemplo, para mantener la continuidad de las actividades durante la pandemia. Dichas actividades han creado una creciente demanda de infraestructura.
+
+En este sentido Chile destaca en América Latina y el Caribe por el acceso a internet, más de un 82% de la población cuenta con acceso a internet, lo que lo convierte en uno de los con mayor cobertura con un Índice de Adopción Digital de 75,62 de acuerdo con el Banco Mundial (Gómez et al., 2020). Además, existe una creciente presencia de data centers de grandes empresas tecnológicas, infraestructura de procesamiento como el Laboratorio Nacional de Computación de Alto Rendimiento (NLHPC) e iniciativas público-privadas como el Data Observatory, que aprovecha las condiciones únicas en un campo cien- tífico como la astronomía para fomentar la formación de talento y el uso y desarrollo de sistemas para el análisis de grandes vo- lúmenes de datos.
+
+Pese a lo anterior, Chile todavía tiene que resolver importantes brechas, acelerar el despliegue de infraestructura y capitalizar las oportunidades existentes para obtener mayor cantidad de beneficios de la IA. Por ejemplo, acorde a un estudio realizado por la Subsecretaría de Telecomunicaciones del Ministerio de Transportes y Telecomunicaciones (Subtel), apenas un 57% de los hogares cuentan con internet residencial, y debido a la alta concentración de la población del país en zonas urbanas, un porcentaje importante del territorio nacional no tiene conectividad suficiente para el uso y desarrollo de IA.
+
+Chile cuenta, eso sí, con el valor de múlti- ples Laboratorios Naturales, es decir sitios con características geográficas únicas que habilitan ventajas competitivas para el desarrollo de la ciencia y la tecnología a nivel global (Guridi et al., 2020). Esto tiene gran relevancia pues demuestra que existen zonas del país que vale el esfuerzo conectar para estudiarlas y poner el conocimiento de valor global que ahí se genera a disposición de la humanidad.
+
+Por último, como se mencionó en la sección anterior, en paralelo al desarrollo de la IA, otras tecnologías evolucionan a gran velocidad y con potencial de generar un impacto relevante en su naturaleza y su despliegue. En ese sentido debemos mantener ejercicios de anticipación para que esta Política continúe alineada con el devenir de la IA y otras tecnologías aún por conocer, también en relación con la infraestructura. Para abordar estos desafíos se proponen los siguientes objetivos:
+
+OBJETIVO 1.2.1.
+
+Convertir a Chile en un hub global para el hemisferio sur en infraestructura tecnológica que esté a la vanguardia global en IA.
+
+· Aceleración del despliegue del Sistema de Conectividad Nacional. Si bien Chile presenta una buena infraestructura en cuanto a conectividad en comparación a los países de la región, persisten desafíos en zonas alejadas de la capital nacional y en la provisión de la última milla.
+
+En consecuencia, facilitaremos por un lado el avance acelerado de las licitaciones de fibra óptica en la zona norte y la zona austral y su construcción oportuna para proveer la conectividad troncal y, por otro, la implementación de soluciones de última milla y 5G que habilitan el acceso a los mayores anchos de banda2.
+
+2 El 5G es la quinta generación de redes móviles que habilita un salto en velocidad, capacidad y tiempos de respuesta en la comunicación entre dispositivos móviles. Esto tendrá importantes consecuencias en diferentes aspectos de la vida cotidiana, la seguridad y la economía en todo el mundo. Se espera que 5G promueva la innovación en los mercados, mejore el desempeño de la economía y la calidad de vida de los ciudadanos.
+
+· Formación de alianzas en América Latina y el Caribe para la implementación de proyectos de importancia regional y global. Impulsaremos iniciativas para el desarrollo de infraestructura de importancia regional como el puente digital entre Asia y Latinoamérica y el Caribe. Dada la posición de liderazgo que tiene Chile en este ámbito en la región (Gómez et al., 2020), se busca consolidar sus ventajas comparativas y así atraer inversión y facilitar la internacionalización de los desarrollos locales.
+
+Además, abriremos la oportunidad para incorporar contraprestaciones a nivel regional para el desarrollo de ciencia y tecnología tanto en Chile como en alianza con otros actores de Latinoamérica y el Caribe en los procesos de licitación.
+
+OBJETIVO 1.2.2.
+
+Desplegar infraestructura de conectividad que garantice un acceso con altos estándares de calidad para chilenos y chilenas.
+
+· Generación de proyectos de conectividad ciudadana y subsidios estatales. Para impulsar el uso de IA y otras tecnologías, trabajaremos en acuerdos y están- dares para lograr mínimos de calidad en el acceso a la conectividad a la ciudadanía.
+
+En este sentido, promoveremos proyectos del tipo Wi-Fi públicos, al tiempo que se exigirá a los proveedores llegar a mínimos consensuados de calidad. Además, estableceremos como prioridad la conectividad de universidades y centros de I+D al momento de licitar e implementar los proyectos de última milla, en conjunto con la red universitaria nacional (REUNA).
+
+Para atraer inversión en zonas menos pobladas, el Estado cuenta con subsidios especialmente diseñados para cubrir estas brechas. En esta línea, identificaremos zonas que requieren subsidios y proyectos de conectividad para garantizar un mínimo de acceso a toda la ciudadanía.
+
+· Modernizar la regulación para garantizar estándares mínimos de acceso y calidad de servicio. Impulsaremos un análisis de la institucionalidad y la regulación vigente para que existan en el Estado las competencias necesarias de fiscalización a los proveedores, las cuales son difusas o inexistentes en las instituciones actuales.
+
+Además, contribuiremos a establecer los estándares de cumplimiento en calidad de servicio en base a ejemplos internacionales consensuados con los proveedores. En este sentido, promoveremos el empoderamiento de los chilenos y chilenas como fiscalizadores de la calidad de los servicios de internet que reciben
+
+OBJETIVO 1.2.3.
+
+Desplegar infraestructura tecnológica que aumente las capacidades de almacenamiento y procesamiento en el país.
+
+· Fomento de inversión privada, pública y público-privada en infraestructura tecnológica basada en las ventajas comparativas de Chile. Impulsaremos iniciativas que aprovechen nuestras ventajas comparativas a nivel global para atraer inversión pública y privada incluyendo nuestros Laboratorios Naturales, y fomentaremos la colaboración en la instalación de infraestructura científico-tec- nológica en colaboraciones internacionales; ejemplos de lo anterior son el Parque Astro- nómico Chajnantor o el desarrollo científi- co, tecnológico y logístico antártico.
+
+OBJETIVO 1.2.4.
+
+Coordinar al ecosistema de ciencia, tecnología, conocimiento e innovación para conocer las necesidades de infraestructura tecnológica asociada a IA que el futuro que anhelamos requiere.
+
+· Ejercicios permanentes de prospección y anticipación de demanda de in-fraestructura para desafíos país. Mantendremos un catastro que cuantifique y proyecte la necesidad y el uso de infraestructura de almacenamiento y cóm- puto, computación de alto rendimiento o infraestructura afín por parte del ecosistema nacional de ciencia, tecnología, conocimiento e innovación.
+
+Coordinaremos ejercicios de anticipación de forma permanente con miras a propiciar la creación de escenarios deseables para el país y contener escenarios riesgosos a través de la inversión en infraestructura tecnológica, estableciendo desafíos de innovación y hojas de ruta que especifiquen necesidades, levanten y direccionen financiamiento, colaboraciones necesarias, y ejecución de políti- cas públicas, medidas e inversiones.
+
+Las hojas de ruta diseñarán e implementa- rán mecanismos de atracción de inversión privada en infraestructura tecnológica, re-conociendo que las principales capacidades se encuentran en las empresas del rubro. Para esto, fomentaremos la demanda de servicios de infraestructura tecnológica, la evaluación de subsidios para acceso en zonas de menor demanda, y la generación de alianzas multi-sectoriales.
+
+### 1.3. DATOS
+
+La pandemia COVID-19 ha contribuido a valorar la evidencia científica en la toma de decisiones y la disponibilidad de datos abiertos de buena calidad, organizados co-rrectamente, en los volúmenes y formatos adecuados. Esto último ha sido importante para el conocimiento y el control del virus y su impacto en la salud pública y economía, permitiendo tomar decisiones oportunas y robustas que han facilitado el trabajo para superar la emergencia. Para la IA los datos constituyen un requisito indispensable (Sub-mesa de Datos COVID-19, 2020).
+
+Para que exista un despliegue efectivo de IA en Chile es necesario un ecosistema donde existan repositorios abiertos y de alta calidad, pero que también sean seguros y resguarden los derechos de las personas, por esto es relevante promover modelos que fortalezcan la confianza y las condiciones para propiciar que múltiples organizaciones y/o empresas compartan datos en favor del bien común.
+
+Aunque la existencia de grandes volú- menes de datos no es garantía de buenos algoritmos de IA, existe consenso con respecto a la conveniencia de contar con ellos para entrenamientos adecuados de los algoritmos, incluso llegando a que un algoritmo de nivel medio alcance o supere a uno de primer nivel si tiene un mayor volumen de datos (Lee, 2018).
+
+No obstante, no solo basta con volumen, sino que se requiere que los datos representen adecuadamente la realidad (sean de buena calidad), con niveles de sesgo controlado, interoperables, correctamente anonimizados y agregados (si corresponde), entre otras características.
+
+Contar con Laboratorios Naturales, permite a nuestro país construir un camino de desarrollo de repositorios de datos únicos en el mundo, atrayendo con ello capacidades avanzadas para IA a Chile, que incluyen talento, instituciones e inversiones de primer nivel en el escenario global.
+
+Por último, si bien el uso de datos no apunta necesariamente a aquellos que son asociables a un titular, es necesario actualizar la regulación sobre el uso de datos personales con miras a reducir la incertidumbre y a alcanzar los estándares internacionales. En esta línea, debemos contar con una reformada ley de protección de datos personales y también con desarrollos institucionales y técnicos transversales para permitir el avance de la tecnología, al tiempo que los derechos a la privacidad, la protección de datos personales y la no discriminación arbitraria sean cautelados.
+
+Para abordar estos desafíos se plantean los siguientes objetivos:
+
+OBJETIVO 1.3.1.
+
+Fomentar y consolidar una agenda de datos de interés público, que resulte tanto en certezas legales como en definiciones claras de responsabilidades al interior del Estado, y que impulse un ecosistema público-privado de generación y acceso a datos de calidad para el uso y desarrollo de IA y tecnologías afines.
+
+· Actualizar la regulación sobre datos personales y generar mecanismos que permitan adaptarse a los nuevos desarrollos tecnológicos. Impulsaremos el trabajo legislativo pen-diente respecto de Datos Personales, in-corporando lo aprendido en Europa con el Reglamento General de Protección de Datos (GDPR).
+
+Generaremos pilotos que permitan hacer evaluaciones técnicas y habilitar espacios de diálogo e intercambio de expertise, de promover análisis diferenciados en el Estado y en el sector privado, e impulsaremos alianzas entre el sector privado y el sector públi- co con actores de la industria que posean datos de valor para el desarrollo de ciencia, tecnología, innovación y emprendimiento, y servicios como MinCiencia, el Ministerio de Economía y/o el Ministerio de Trabajo.
+
+Fomentaremos la investigación y el uso de sistemas que permitan procesar los datos en forma distribuida y segura. También, promoveremos la investigación y el desarrollo de técnicas de anonimización, identificación de sesgos y seguridad computacional que permitan el uso de los datos acorde a los principios que guían esta política.
+
+· Crear y consolidar una gobernanza adecuada de datos en el Estado que fomente la disponibilidad de datos de calidad. El Estado maneja una gran cantidad de datos administrativos y de la población, los que pueden ser utilizados por agencias gubernamentales, académicos y organizaciones privadas, para generar conocimiento y soluciones que aportan a la calidad de vida de los ciudadanos.
+
+Para que esto ocurra, el Estado debe ser capaz de disponibilizar, cumpliendo la normativa y la protección de datos personales, la mayor cantidad de datos posible, procurando que sea en forma oportuna (es decir, cuando se requieren), de alta frecuencia y periodicidad, de fácil interpretación, confiable, con un estándar adecuado para ser trabajados e interoperables, de tal forma que puedan utilizarse desde distintos servicios.
+
+Los datos que disponibiliza el sector pú- blico muestran importantes brechas para cumplir con estas características. Si bien existe la plataforma centralizada de datos para el sector público, denominada Portal de Datos Abiertos (datos.gob.cl), del Ministerio Secretaría General de la Presidencia, las instituciones la utilizan solo parcialmente y en forma esporádica.
+
+Por otro lado, dado el carácter sensible de algunos datos manejados por el Estado, su publicación debe hacerse con estándares de consentimiento informado y tiene la obligación proteger los datos personales y sensibles. Esto no implica almacenarlos en forma cerrada y generar repositorios in-accesibles, sino que generar mecanismos administrativos y tecnológicos a través de los cuales se pueda trabajar con estos datos sin vulnerar a las personas y su privacidad. En esta línea, diseñaremos una gobernanza adecuada de datos en el Estado que fomente la disponibilidad de datos de calidad, en las plataformas adecuadas, con el mejor orden posible, con estándares de interoperabilidad, de manera segura, debidamente agregados y/o anonimizados si corresponde.
+
+· Fomentar el desarrollo de institucionalidad, confianza y mecanismos para que la industria comparta y disponga datos a nivel sectorial. Los datos agregados y anonimizados a nivel de sectores industriales y/o territorios suficientemente grandes pueden generar repositorios de alto valor que impulsen la productividad de todas las empresas del rubro, además de abrir espacios de in-vestigación, desarrollo, innovación y emprendimiento. Esto supone desafíos a nivel tecnológico, institucional y de confianza, ya que se deben acordar mecanismos para compartir datos cautelando los derechos de las personas y la competitividad de las empresas. En este sentido, analizaremos la institución actual y trabajaremos con la industria pública y privada para avanzar en la materia. Esto incluye diseñar incentivos adecuados, construir confianzas, fomentar mediante instrumentos de ANID y CORFO según corresponda el desarrollo de repositorios comunes a nivel de sector econó- mico o industria e incluso poner en marcha inicialmente estas plataformas.
+
+Así, impulsaremos un ecosistema de datos de valor global desde Chile, con fuentes de alto mérito para el desarrollo de co-nocimiento de vanguardia, datos públicos, abiertos y seguros para el desarrollo de IA, que fomente el desarrollo de talento y tecnología y atraiga voluntades desde otros hubs globales del desarrollo de IA en el hemisferio norte y Oceanía.
+
+· Poner en marcha iniciativas que ac- túen como catalizadores del ecosistema en áreas prioritarias, en base a ventajas estratégicas del país. Pondremos en marcha entidades, como el Data Observatory y el Observatorio del Cambio Climático, que serán catalizadores de la creación de talento y soluciones tecnológicas para el acceso a grandes vo- lúmenes de datos.
+
+Estas entidades tendrán como misión central el fomentar el ecosistema y sus capacidades, usando como activo principal la apropiada disponibilización de conjuntos de datos que tiene Chile y son únicos en el planeta, como los de nuestros cielos que permiten avanzar a la Astronomía global en el norte del país, o los de nuestros océanos y criósfera que permiten avanzar en la adaptación y mitigación del Cambio Climático.
+
+· Fomentar la disponibilización de datos científicos. La disponibilización de datos científicos es de relevancia para el avance de la ciencia, y de especial importancia para la replicabilidad de los resultados experimentales obtenidos, acorde a los principios FAIR3.
+
+Avanzaremos en la implementación de mecanismos técnicos y legales que permitan una mayor disponibilización de datos cien- tíficos para fomentar la colaboración, ade- más de que estos datos puedan ser utilizados por la ciudadanía y el sector productivo.
+
+Lo anterior no está exento de desafíos, ya que requiere de la coordinación de diversos actores, la protección de intereses le-
+
+3 Los principios FAIR consisten en un conjunto de cualidades para conseguir que los datos sean Encontrables, Accesibles, Interoperables y Reutilizables.
+
+gítimos—como períodos de embargo para que los investigadores que extrajeron los datos puedan publicar—, entre otros factores que han sido identificados por ANID en su Política de datos Abiertos (ANID, 2020).
+
+· Fomentar la creación y actividades de comités o comunidades de usuarios de datos de interés público. Impulsaremos el crecimiento de comunidades de usuarios de datos de interés pú- blico, con foco en la creación de confianza, estándares y acuerdos entre productores y consumidores de datos, y en el desarrollo de un ecosistema que considere adecuadamente los diversos casos de uso que la evidencia tiene.
+
+EJE 2.
+
+## DESARROLLO Y ADOPCIÓN
+
+En América Latina y, en particular en Chile, existen importantes desafíos relativos a la investigación, el desarrollo, la innovación, el emprendimiento y la adopción de la IA.
+
+Para aumentar la productividad de nuestro país y posicionarnos como un líder en IA en la región, nuestra economía relativa a IA debe ser mucho más fuerte. En esa línea, en este eje abordaremos los factores que permiten el incremento de la oferta y demanda de la IA, entendiéndolo como el desarrollo de soluciones basadas en IA, y la adopción de estas mismas para aumentar la productividad en la generación de conocimiento, elementos culturales, productos o servicios.
+
+Actualmente, el impacto global de la I+D hecha en Latinoamérica y el Caribe es mí- nimo. De hecho, el AI Index Report elaborado por la Universidad de Stanford (2019) reporta esta región aporta menos del 5% de las publicaciones en revistas acadé- micas y conferencias (ver figuras 3 y 4), y genera menos de un 2% de las citas tanto para revistas académicas como conferencias. En cuanto a patentes relacionadas con la IA, el panorama es un más crítico, menos de un 1% corresponden a América Latina y el Caribe (Stanford University, 2019). En consecuencia, los niveles de inversión del sector privado en IA en la región son muy inferiores a los que se registran en Estados Unidos y China (ver figura 5).
+
+FIGURA 3: Porcentaje de publicaciones de IA en revistas académicas por región entre 1990 y 2018. Fuente: AI Index Report 2019.
+
+55
+
+50
+
+45
+
+40
+
+35
+
+Asia Oriental y Oceanía
+
+30
+
+25
+
+20
+
+OECD
+
+Norteamérica
+
+15
+
+10
+
+Latinoamérica y el Caribe
+
+Sur de Asia Medio Oriente y Norte de África
+
+5
+
+0
+
+Sur de África
+
+1990 1992 1994 1996 1998 2000 2002 2004 2006 2008 2010 2012 2014 2016 2018
+
+FIGURA 4: Porcentaje de publicaciones de IA en conferencias por región entre 1990 y 2018. Fuente: AI Index Report 2019.
+
+70
+
+65
+
+60
+
+55
+
+50
+
+45
+
+40
+
+35
+
+30
+
+25
+
+20
+
+East Asia & Pacific
+
+Norteamérica
+
+15
+
+10
+
+Latinoamérica y el Caribe
+
+5
+
+Medio Oriente y Norte de África
+
+0
+
+Sur de Asia
+
+Sur de África
+
+1990 1992 1994 1996 1998 2000 2002 2004 2006 2008 2010 2012 2014 2016 2018
+
+FIGURA 5: Inversión total en IA de enero 2018 a octubre 2019 en billones de dólares corrientes. Fuente: AI Index Report 2019.
+
+Estados Unidos
+
+China
+
+Reino Unido
+
+Israel
+
+Canadá
+
+Francia
+
+Japón
+
+Singapur
+
+Alemania
+
+India
+
+Corea del Sur
+
+Australia
+
+Suiza
+
+Finlandia
+
+Suecia
+
+España
+
+Hong Kong
+
+Bélgica
+
+México
+
+Irlanda
+
+Holanda
+
+Emiratos Árabes
+
+Noruega
+
+Dinamarca
+
+Chile
+
+Luxemburgo
+
+Brazil
+
+En nuestro país, la adopción de IA y su impacto en productividad es aún baja y se encuentra lejos de los niveles que necesitamos para lograr el objetivo de la presente polí- tica. Un estudio exploratorio en empresas realizado en Chile por la Cámara Chileno Norteamericana de Comercio (AMCHAM) y la Universidad del Desarrollo, encuentra que un 78% de las empresas encuestadas no utiliza los datos que tienen para tomar decisiones y se encuentra muy lejos de implementar sistemas de inteligencia prescriptiva en base a ellos (Cámara Chileno Norteamericana de Comercio y Universidad del Desarrollo, 2019).
+
+En consistencia con lo anterior, en la última encuesta de Tecnologías de la Información del Ministerio de Economía, encontramos que apenas un 2,2% de las empresas hacen uso del análisis datos (Ministerio de Economía, Fomento y Turismo, 2020). Por último, Chile no cuenta hoy con indicadores y líneas de base sobre el uso y la productividad de la IA, necesitamos crearlos pues constituyen un recurso objetivo para saber el progreso en las iniciativas planteadas y compararnos con otros países
+
+Para abordar estos desafíos se proponen los siguientes objetivos:
+
+OBJETIVO 2.1. Generar indicadores de productividad de la IA para Chile.
+
+· Generar indicadores de productividad científica y transferencia tecno- lógica de la IA. No existen actualmente indicadores adecuados que monitoreen la producción científica, y la transferencia tecnológica relacionadas a la IA. En esta línea, construiremos los indicadores necesarios de acuerdo con la experiencia internacional, para luego mantener un monitoreo y actualización continua. Para contener estos indicadores utilizaremos “Observa”, el Observatorio de Ciencia, Tecnología, Conocimiento e Innovación, que mantendrá esta información disponible.
+
+· Generar indicadores de productividad de la IA en la economía. En la actualidad, no existe una medición oficial y confiable de la productividad de IA en nuestra economía.
+
+En consecuencia, los construiremos en base a la experiencia internacional y utilizaremos instrumentos existentes como la encuesta TIC del Ministerio de Economía, Fomento y Turismo, aplicada por el INE por primera vez el 2018 para levantar la información requerida. Impulsaremos la adopción de estos indicadores por parte del INE.
+
+· Generar indicadores de productividad de la IA en el Estado. Actualmente solo existe un indicador que permite medir la adopción de IA en el Estado, que corresponde a la encuesta aplicada por la División de Gobierno Digital con respecto a múltiples tecnologías. En esta línea, impulsaremos y mejoraremos ese instrumento para que mida productividad, y levante información para indicadores en forma más robusta y periódica. Además, dada la existencia de iniciativas como el Observatorio de Políticas de IA de la OECD, diseñaremos un censo a nivel nacional, que visibilice el uso de la IA en las distintas re-particiones del Estado, que se actualice de forma constante.
+
+OBJETIVO 2.2.
+
+Potenciar la I+D chilena en IA para lograr un nivel igual o superior al promedio OECD.
+
+· Modificar criterios de acreditación para programas relacionados a IA, que se adecuen a cada disciplina. En la actualidad, los criterios utilizados para acreditar y evaluar el desempeño de investigadores e investigadoras relacionadas a IA no se ajustan a su quehacer, ni a la dinámica de la comunidad académica in-ternacional. En línea con lo propuesto en la sección previa de “Desarrollo de Talento”, propondremos modificaciones a la forma en que se evalúa el desempeño de investigadores e investigadoras en IA, que está bajo el mandato de la CNA, de forma que se ajuste al escenario actual. Asimismo, mantendremos un monitoreo de la realidad in-ternacional y una actualización constante y periódica de los criterios de acreditación, en apoyo a la labor que cumple la CNA.
+
+· Fomentar la I+D en IA, tanto en la academia como en la industria. Los avances en IA se dan tanto en la academia como en la industria, e involucran múl- tiples disciplinas además de las ingenierías y ciencias de la computación.
+
+Destinaremos o focalizaremos recursos hacia las disciplinas asociadas a la IA y/o que generen aplicaciones utilizando sus sistemas, o hacia atraer más investigadores e investigadoras tanto a la industria como a las IES. En esta línea, promoveremos acuerdos público-privados que permitan fomentar la I+D en IA en el sector productivo.
+
+OBJETIVO 2.3. Impulsar la colaboración entre la academia y el sector productivo para I+D de sistemas con IA.
+
+· Fomentar el desarrollo de proyectos conjuntos industria-universidad. Algunas de las aplicaciones más importantes de IA han sido desarrolladas en las IES, dando origen a exitosos productos y empresas.
+
+En concordancia con lo anterior, elaboraremos un catastro y visibilizaremos los casos de éxito existentes de proyectos de colaboración entre el sector productivo y la academia. De igual forma, diseñaremos instrumentos e institucionalidad que fortalezcan y fomenten relaciones de largo plazo entre el sector productivo y la academia, lo cual permitirá la generación de proyectos de visión compartida con beneficios para ambas partes.
+
+· Fomentar y potenciar programas de postgrado que incorporen objetivos del sector productivo. En línea con la acción anterior, un mecanismo eficaz de transferencia de conocimiento son los programas conjuntos de postgrado entre universidades y empresas. En Chile están comenzando a surgir programas de IA en distintas instituciones. Estos programas se deben consolidar como espacios reales de colaboración, por lo que promoveremos su acreditación y diseñare- mos incentivos que estimulen la participación e involucramiento activo de los estudiantes en las empresas.
+
+· Fomentar la inserción de talentos en el sector productivo. En el campo de la IA, existe una importante demanda de expertos a nivel internacional y, si una vez formados en Chile no existen condiciones adecuadas para su inserción, será difícil que aporten localmente, co-rriendo el riesgo de fuga de talento.
+
+En esta línea, impulsaremos la innovación en el sector productivo y revisaremos los mecanismos de inserción competitivos a nivel internacional para que los profesionales asociados a los campos de la IA contribuyan a la industria local. Además, impulsaremos mayor flexibilidad en la academia para que profesores o profesoras universitarias puedan contribuir al sector productivo sin ver perjudicadas sus carreras académicas y con el reconocimiento adecuado al desarrollo productivo que sus aportes generen.
+
+OBJETIVO 2.4.
+
+Fomentar el desarrollo del ecosistema de I+D+i en IA donde el Estado, el sector productivo y la academia generen, estén atentos e inviertan en oportunidades relacionadas a la IA.
+
+· Anticipar desafíos y misiones que orienten el trabajo del ecosistema. La IA abre la oportunidad de ser pioneros en mercados emergentes a través de ejercicios de prospección, anticipación y priorización. Levantaremos el uso y desarrollo de IA multi-sectorial para prospectar su evolución y coordinaremos ejercicios de anticipación.
+
+Los resultados de estas acciones servirán para identificar, desde los distintos territorios del país, misiones y desafíos que permitirán orientar el desarrollo del ecosistema estratégicamente, aprovechando las ventajas comparativas de cada territorio.
+
+· Fomentar el desarrollo de emprendimientos de base científico-tecno- lógica con IA. Los emprendimientos de base científi- co-tecnológica (EBCT) son distintos a otros tipos de empresas, ya que estas son creadas sobre la base de conocimientos con potencial innovador, que surge de la I+D llevada a cabo al interior de la academia o la industria (Ematris, 2020). Es por lo anterior que para promoverlos se debe contar con instrumentos especializados que se adecuen a su realidad y apunten a generar condiciones míni- mas para su existencia y supervivencia.
+
+Impulsaremos la inversión en EBCT de IA a un nivel igual o superior al promedio OCDE, en primer lugar, observando los resultados de la acción prioritaria anterior y complementando con catastros de casos de éxito de EBCT que puedan emerger para estudiar sus necesidades. En seguida, revisaremos los instrumentos de fomento del Estado y promoveremos acuerdos público-privados, incluyendo atracción de inversión estranjera para que respondan a esas necesidades.
+
+Además, impulsaremos la existencia de capital de riesgo para los EBCT en sus distintas etapas, desde fondos semilla para el prototipado hasta la expansión e internacionalización. El caso de Israel, que se acerca a la inversión de la Unión Europea (OCDE, 2019), es un ejemplo para seguir.
+
+· Generar una comunidad de emprendedores e innovadores en IA. Para incentivar la inversión y fomentar el emprendimiento basado en IA se debe consolidar y fortalecer una comunidad en torno a la I+D y uso de la tecnología. En esta línea, generaremos canales y eventos que permitan armar redes, compartir experiencias, visibilizar casos de éxito y atraer inversionistas. Esto se combina con las estrategias para fomentar la adopción de la tecnología en las empresas, ya que a través de estas comunidades y el fortalecimiento del ecosistema se disminuirán las barreras acelerando la transformación digital.
+
+OBJETIVO 2.5.
+
+Fomentar e impulsar la productividad económica de la IA para llegar a niveles iguales o superiores al promedio de crecimiento económico para países OCDE por el impacto de IA.
+
+· Capacitación a directorios, niveles ejecutivos y dirigencias gremiales del sector productivo. Un déficit detectado en el sector productivo es el bajo involucramiento y alto desconocimiento de sus liderazgos sobre el potencial y la naturaleza del uso y desarrollo de la IA. Lo anterior también se ve en gremios y asociaciones. Esto genera muchas dificultades en las transformaciones requeridas, igualmente ocurre que muchas organizaciones sienten la necesidad de implementar sistemas de IA sin requerirlo para sus objetivos o, peor, sin una adecuada gestión de los riesgos asociados. En consecuencia, crearemos e impulsaremos instancias de capacitación para roles de liderazgo en el sector productivo, adecuado a sus anhelos y sensibilidades.
+
+· Generación de incentivos y fomentos a la adopción de IA en la industria. En base a los datos recogidos por la encuesta
+
+TIC, los desafíos y las misiones definidas, revisaremos los incentivos e instrumentos de fomento existentes para el uso y desarrollo de IA en el país, e impulsaremos la creación de nuevos para fortalecer el ecosistema. Esto contribuirá a promover la adopción de la tecnología en un escenario de recuperación económica posterior a la pandemia por COVID-19.
+
+· Visibilizar el uso de IA en la industria. La divulgación de casos de éxito y una mayor difusión de la temática es vital para que tomadores de decisiones en las empresas aceleren su implementación y gatillen un aumento de inversión en soluciones nacionales. Para ello, implementaremos una plataforma que agrupe iniciativas para visibilizar los desarrollos locales, la que también contará con un plan de difusión coordinado entre las unidades de comunicaciones de todos los ministerios participantes.
+
+OBJETIVO 2.6.
+
+Acelerar la modernización del Estado mediante IA.
+
+· Misiones y desafíos de innovación en el Estado. En base a los datos recolectados por la encuesta de la División de Gobierno Digital, los avances en la implementación de sistemas de IA en distintas reparticiones, los proyectos detectados por el censo propuesto, y los resultados de los ejercicios de anticipación orientaremos e impulsaremos los procesos de transformación digital que requiere el sector público para la implementación de IA con un impacto en su eficiencia y productividad.
+
+· Capacitación e incentivos para impulsar la IA en el Estado. La implementación de sistemas de IA en el sector público depende, en gran medida, de que se puedan alinear adecuadamente los incentivos de funcionarios públicos con los ciudadanos. En esta línea, diseñaremos instrumentos de gestión que generen los incentivos adecuados en las personas para la implementación de sistemas de IA en el Estado, como son los Programas de Mejoramiento de Gestión (PMG).
+
+Tal como existe desconocimiento en los directivos del sector privado, esto también es una realidad en el Estado. Los problemas son similares, ya que se compran sistemas sin conocimiento, los cuales no son aplicados en forma adecuada, se pierden oportunidades, no existe noción de la transversalidad de la tecnología, entre otros. Sin embargo, el riesgo en estas aplicaciones es más grande, ya que tecnologías mal utilizadas en el Estado, u oportunidades perdidas, significan potenciales pérdida de beneficios o daños para la sociedad. En esta línea, articularemos capacitaciones en IA de funcionarios públicos, tanto a nivel de autoridades, directivos, y equipos técnicos.
+
+· Modernización de los procesos de compras públicas de sistemas de IA. La implementación y adopción de sistemas de IA en el sector público depende, en gran medida, de contar con un sistema adecuado para adquirirlos, lo cual se observa en los reglamentos de Compras Públicas. En esta línea, modernizaremos los procesos de Compras Públicas, para que permitan adquirir e implementar sistemas de IA en forma correcta.
+
+En este punto es relevante destacar la generación de incentivos para la compra de sistemas desarrollados en forma nacional. Así, las compras públicas permiten incentivar el ecosistema local de innovación y emprendimiento, y el Estado puede optar a soluciones ajustadas a la realidad nacional.
+
+· Puesta en valor de casos de éxito en la adopción y uso de IA en el Estado. Además, no existe coordinación entre distintos servicios públicos para la implementación de sistemas de IA y traspaso de mejores prácticas. En consecuencia, visibilizaremos los casos de éxito que emerjan. Estos ejemplos servirán como aprendizaje al momento de diseñar e implementar nuevos proyectos.
+
+OBJETIVO 2.7.
+
+Adopción en desafíos clave: mitigar y adaptarnos al Cambio Climático con IA.
+
+· Fomentar la investigación, el desarrollo y el uso de sistemas de IA respetuosas del medio ambiente. El poder de cómputo usado en entrenamiento de algoritmos se ha duplicado en escalas temporales mensuales durante los últimos años, por lo que se calcula que para el 2030 la mitad del consumo de electricidad del mundo será por esta actividad (National Institute for Research in Digital Science and Technology, 2020).
+
+En consecuencia, estableceremos los in-centivos para que el desarrollo y adopción de IA en Chile ponga su foco en la eficiencia energética. Lo anterior será posible realizando una revisión de la Ley 19.300 de Bases Generales sobre el Medio Ambiente, en materia de eficiencia energética de los sistemas tecnológicos basados en IA.
+
+Además, incorporaremos consideraciones medioambientales a instrumentos de fomento y se elaborarán guías de buenas prácticas—basadas en pilotos—para el uso responsable con el medio ambiente en el sector público y privado.
+
+· Impulsar el uso de herramientas de IA para un monitoreo oportuno, eficaz y eficiente del medio ambiente que contribuyan a disminuir el impacto ambiental del Estado y la industria. Impulsaremos estándares, interoperabilidad y acceso a datos críticos sobre nuestro medio ambiente, apuntando a hacer más eficiente y productivo el monitoreo de cumplimiento de normativa ambiental, pero también para comenzar a generar análisis predictivos que permitan prevenir catástrofes.
+
+Para esto, articularemos estándares y re-unión de datos provenientes de múltiples fuentes, capturándolos en tiempo-real, de forma masiva y automatizada. Esto permitirá, por ejemplo, que la Superintendencia de Medio Ambiente (SMA) pueda activar alertas oportunas y activar acciones de los órganos del Estado competentes.
+
+En la misma línea, impulsaremos que la ciudadanía tenga acceso adecuado a la información relevante y en tiempo real sobre el cambio climático en su territorio, a través de un Observatorio del Cambio Climático (OCC).
+
+EJE 3.
+
+## ÉTICA, ASPECTOS LEGALES Y REGULATORIOS, E IMPACTOS SOCIOECONÓMICOS
+
+### 3.1. ÉTICA
+
+Si bien la IA ofrece oportunidades y beneficios a la sociedad, existen usos de esta tecnología que presentan riesgos asociados a derechos fundamentales como la dignidad, la privacidad, la libertad de expresión y la no discriminación arbitraria.
+
+Por eso es imprescindible que su desarrollo considere reflexiones respecto de los problemas culturales y éticos que puede generar, y acciones de mitigación de riesgos para implementar la IA de manera responsable. Debido a su rápida evolución, y su incorporación creciente en la vida cotidiana, estos análisis van más allá de la legalidad, y motivan un debate social: qué usos son beneficiosos y cuáles no para los individuos, comunidades y/o la sociedad en general; la interacción humano-máquina plantea oportunidades de colaboración, pero al mismo tiempo nuevas preguntas e impactos.
+
+Algunos de los temas que se relevan en este ámbito son la presencia o amplificación de sesgos no deseados en algoritmos y las bases de datos que alimentan los sistemas de IA; el desarrollo de sistemas de vigilancia basados en reconocimiento biométrico, los cuales al ser mal usados podrían poner en jaque nuestra personalidad en el mundo digital (Garrido y Becker, 2017); el adecuado balance entre privacidad y explicabilidad con eficiencia y eficacia (Kearns, 2019), de modo de no comprometer el derecho a la privacidad en desmedro de ciertos grupos de la sociedad;
+
+la necesidad de consensos en aplicaciones como vehículos autónomos (Awad, 2018), desde los dilemas morales en accidentes fatales hasta los ciberataques a estas tecnologías (BID, 2019); el impacto de la automatización en el área laboral (Autor, 2018), en las cuales existirán riesgos asociados a pérdida de puestos de empleo en tareas que pueden ser realizadas por una máqui- na, pero se generarán a la vez muchos más nuevos roles (WEF, 2020), entre muchos otros temas.
+
+Este escenario hace especialmente importante considerar las preocupaciones, ventajas y oportunidades que perciben las personas sobre esta tecnología y las soluciones basadas en ella (Hidalgo, 2021). En este sentido, la búsqueda de soluciones a través de estándares y principios globales se enfrenta a la multiplicidad y diversidad de culturas e idiosincrasias en que los sistemas de IA están inmersos. Por lo mismo, las respuestas a las encrucijadas éticas no son únicas, dado que a lo técnico se acopla un debate social y político que debe propiciarse a nivel local. Por ello las culturas y las idiosincrasias locales deben ser tomadas en cuenta al momento de elaborar po- líticas y estrategias nacionales de IA.
+
+Sin embargo, hasta la fecha, la discusión que ha derivado en la creación de un ca- tálogo de principios que deben regir la IA ha estado concentrada en el hemisferio norte, en particular en Estados Unidos y
+
+Europa. Esto se evidencia en la publicación del Harvard Berkmann Klein Center: de 36 principios de IA identificados en el mundo, solo dos tienen su origen en Latinoamérica (Fjeld et al., 2020). Otra publicación analiza 84 documentos con lineamientos éticos, de los cuales ninguno procede de América Latina o África (Jobin et al., 2019). El borrador de la Recomendación sobre la Ética de la IA de la UNESCO sometido a consulta pública hasta el 31 de julio de 2020 expresa esta preocupación:
+
+“Haciendo hincapié en que debe prestarse atención específica a los países de ingreso mediano bajo, incluidos, entre otros, los de África, América Latina y el Caribe y Asia Central, así como los pequeños Estados insulares en desarrollo, ya que han estado insuficientemente representados en el debate sobre la ética de la IA, lo que suscita la preocupación de que se descuiden los conocimientos locales, el pluralismo cultural y ético, los sistemas de valores y las exigencias de equidad mundial.” (Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura, 2020).
+
+Esta concentración de la discusión hace sumamente relevante que los países en desarrollo se hagan parte y contribuyan desde su realidad local a la discusión de los principios que deben regir la IA.
+
+Se hace cada vez necesario que cada país analice si sus normas vigentes son suficientes, si requieren modificaciones, o si bien es pertinente el impulso y la generación de nuevas normas. En el caso de nuestro país, en ese análisis debemos considerar los proyectos de ley que permiten un uso seguro y confiable de la IA, estando entre ellos especialmente los que modifican las leyes No. 19.628, sobre protección de la vida privada (1999), y No. 19.223, que tipifica figuras penales relativas a la informática (1993).
+
+OBJETIVO 3.1.1. Impulsar la construcción de certezas regulatorias sobre los sistemas de IA que permitan su desarrollo, respetando los derechos fundamentales de acuerdo con la Constitución y las leyes.
+
+· Desarrollar una prospección sobre aspectos éticos y normativos de la IA. La discusión sobre normativa y gobernanza de la IA es reciente y está lejos de llegar a un punto de término a nivel mundial, hay muchas áreas que aún no han sido analizadas desde su perspectiva normativa. Dicho lo anterior, los países de América Latina como Chile están particularmente retrasados, tanto en la discusión como en los avances regulatorios. Este retraso genera incertidumbre a la hora de investigar, desarrollar, innovar, emprender y adoptar.
+
+En esta línea, diseñaremos e implementaremos una agenda de revisión de la re-gulación existente relativa a los derechos fundamentales que están siendo o pueden ser impactados por la IA, y determinaremos qué normas deberían ser derogadas o actualizadas, de acuerdo con el avance de la IA.
+
+Es importante precisar que el desarrollo y evolución de tecnologías emergentes como la IA imponen el desafío de una re-visión y actualización permanente y ágil, de manera que sea posible responder a la velocidad de sus avances. Por lo tanto, en esta agenda debemos fomentar un diálo- go abierto y constante, que nos permita alcanzar consensos y generar normas de manera dinámica y que se adecúen a la nuestra realidad nacional, no sólo adoptando lo desarrollado en otros países.
+
+· Hacerse parte activa de la discusión internacional sobre principios y estándares, visibilizando la realidad nacional y tomando un rol de liderazgo a nivel regional. Los países emergentes, y en particular los de América Latina y el Caribe, han experimentado una baja participación en la discusión y elaboración de principios que gobernarán la IA los próximos años.
+
+Debido a la alta participación ciudadana en la elaboración de esta Política ya contamos con un camino recorrido. Por ello buscaremos ahora participar de espacios internacionales de discusión e intercambio, velando por reflejar en ellos los Principios Transversales de la IA, por ejemplo, aquellos de la UNESCO, las recomendaciones de la OCDE, entre otros.
+
+Además, es crucial acercar posiciones en América Latina. Estas permitirán abordar la discusión internacional desde la región e influir en las decisiones sobre principios y posiciones. Desempeñaremos un rol de liderazgo al ser de los países de la región con un ecosistema de IA más desarrollado. De hecho, nuestro país aparece en el segundo lugar en Latinoamérica en el AI Government Readiness Index elaborado por Oxford (2020).
+
+· Desarrollar los requisitos para cautelar en forma ágil el desarrollo y uso responsable de la IA. Diseñaremos una institucionalidad ágil, que establezca los requisitos o aspectos que deben ser cumplidos para responder a los cambios y al rápido desarrollo de la tecnología, propiciando el desarrollo de un marco normativo flexible y de un ecosistema no sobre regulado. Esta institucionalidad deberá mantener una comunicación activa con los organismos reguladores y fiscalizadores sectoriales, actuando como informante técnico en materias relativas o asociadas a la IA.
+
+En el mismo sentido, la institucionalidad deberá promover colaboraciones, alianzas y compromisos en el sector privado para el desarrollo de buenas prácticas en el desarrollo y uso ético de la IA. Esto tiene como fin responder en forma oportuna a los desafíos, reconociendo la rigidez de la regulación por vía de normas de rango legal, dando flexibilidad para no perjudicar el desarrollo.
+
+Por otro lado, la institucionalidad promove- rá la formulación de guías de buenas prác- ticas a partir de pilotos y experiencias comparadas, tanto para el Estado como para el sector privado; identificará espacios para la implementación de incentivos para el buen uso de IA; y explorará la posibilidad de generar sandboxes regulatorios para ciertas aplicaciones, entre otras medidas.
+
+Igualmente, es importante para el adecuado funcionamiento de esta institucionalidad contar con el apoyo desde la academia, el cual será necesario por su conocimiento especializado en la materia.
+
+OBJETIVO 3.1.2. Impulsar la transparencia algorítmica.
+
+· Establecer estándares y recomendaciones de transparencia algorítmica para aplicaciones críticas. La entrega de información sobre cómo funcionan los algoritmos decisionales que utilizan los órganos de la administración del estado, así como los datos involucrados en la toma de decisiones, incluyendo los de su fase de aprendizaje, debe ser oportuna y clara en concordancia con el derecho de acceso establecido en la Ley N°19.628.
+
+Asimismo, debemos velar por la identificación de sesgos en algoritmos, bases de datos y demás componentes de los siste-
+
+La institucionalidad contribuirá a orientar el desarrollo de investigación en torno a tópi- cos relevantes a la hora de cautelar el uso de la IA, como la transparencia y explicabilidad de los algoritmos, la identificación y supresión de sesgos y discriminaciones arbitrarias, la ciberseguridad, entre otros.
+
+Por último, esta institucionalidad debe- rá considerar los intereses y visiones de grupos sub-representados al momento de abordar estas temáticas. Un ejemplo es la especial preocupación que se debe tener en sistemas de IA que inciden en decisiones asociadas a niñas, niños y adolescentes.
+
+mas de IA, y por la mitigación de riesgos de afectación de derechos fundamentales, especialmente tratándose de los de privacidad, protección de datos personales y no discriminación arbitraria utilizados por los órganos de la administración del Estado.
+
+En este sentido, en base al liderazgo in-ternacional de Chile en transparencia elaboraremos recomendaciones para los sectores privado y público en relación con identificación de sesgos no deseados y transparencia algorítmica, que podrán ser piloteadas en áreas de riesgo.
+
+### 3.2. IMPACTOS EN EL TRABAJO
+
+Los avances en el desarrollo de tecnologías emergentes, incluida la IA, están cambiando la naturaleza del trabajo, y se espera que continúen en las próximas décadas. Asimismo, está exigiendo que las nuevas generaciones actualicen las competencias necesarias que les permitan trabajar y adaptarse en la era IA. Este tipo de transformaciones han sido fuente de preocupación por el riesgo de que ciertas tareas comúnmente realizadas por humanos sean reemplazadas por máquinas, lo que implicaría la pérdida de trabajo para un gran número de personas, especialmente para aquellas que desempe- ñan labores repetitivas.
+
+Además, la adopción de la IA no solo hace posible automatizar tareas rutinarias o que requieren elevados niveles de cualificación que hasta ahora no era posible, sino que cambia la naturaleza de muchas ocupaciones. En este sentido, las personas no solo deben reconvertirse, sino también actualizarse y adaptarse a la creciente interacción humano-máquina en diversas áreas. En Chile el empleo está asociado a la red de protección social, por tanto este riesgo tiene un impacto potencial mayor.
+
+Sin embargo, la evidencia internacional muestra que en el largo plazo la adopción de nuevas tecnologías representa una oportunidad para generar nuevos empleos y aumentar la productividad de un país, algo que ya ha ocurrido con otras revoluciones industriales en el curso de la historia (Organización para la Cooperación y Desarrollo Económico, 2019). En esta línea, trabajaremos conjuntamente con el sector privado en la promoción de medidas para mitigar el impacto en la vida de las personas y contribuir a que los cambios sean para mejorar su bienestar futuro.
+
+OBJETIVO 3.2.1. Realizar análisis prospectivos para detectar activamente las ocupaciones más vulnerables, anticipar la creación de nuevos empleos por IA y apoyar a los trabajadores en la transición a nuevas ocupaciones, minimizando sus costos personales y familiares.
+
+· Prospección y anticipación a cambios en el mercado laboral para disminución de brechas. Uno de los fenómenos que ocurre con la automatización es lo que se ha descrito como “polarización del empleo”, que se caracteriza por un aumento en la contratación de sectores de baja y de alta calificación, en detrimento de aquellos sectores de calificación intermedia, los sectores de más baja calificación están más expuestos a riesgos de automatización. Aún cuando depende del estudio y la metodología utilizada, y sin considerar el efecto de la pandemia por COVID-19, que ha demostrado tener el potencial de acelerar estos procesos, la mayoría de las proyecciones concluyen que el mayor impacto en el país podría observarse en las próximas dos dé- cadas. Algunas cifras indican que Chile es uno de los países de la OCDE con mayor probabilidad promedio de automatización, oscilando entre un 42% y un 52% de las ocupaciones. Otras, señalan que la primera ola de automatización en el país ocurrirá inicios de la década 2021-2030, afectando apenas el 1% de los empleos, que hacia el final una segunda ola afectaría al 13% y que a fines de la década 2031-2040 habrá alcanzado al 28% (PwC, 2018).
+
+Por otro lado, la automatización también podría profundizar desigualdades tanto entre los países, como al interior de ellos entre ocupaciones, niveles educativos y en materia de género. En particular, en Chile la probabilidad de automatización es considerablemente mayor para ocupaciones elementales como encargados del registro de datos, etiquetado, atención al cliente, agricultores, operadores de máquinas y para ocupaciones de servicios y vendedores. Sobre este último punto, las principales preocupaciones de la ciudadanía dicen relación con la reconversión y con temáticas de género. En cuanto a la primera, si bien las ocupaciones de menor calificación no son necesariamente las que se exponen a un mayor riesgo de automatización, sí pueden tener significativas dificultades de reconversión.
+
+En esta línea, potenciaremos el Observatorio Laboral junto con iniciativas como Destino Empleo, que levantan datos relevantes para el diseño de políticas públicas que permitan anticiparse a los cambios del mercado, entregar recomendaciones a las personas para la búsqueda de empleo, y orientar políticas de capacitación en miras de las nuevas ocupaciones que se irán generando. Esta labor la realizaremos en estrecha colaboración con el sector privado el cual, desde su realidad, puede in-formar sobre los requerimientos y las posibilidades de implementación de diversas políticas. Estas acciones permitirán contar con información sobre el impacto de la IA considerando la realidad local y nuevas variables, como el tamaño de empresa, el sector económico, el nivel de adopción de IA, y tecnologías asociadas, entre otras.
+
+· Fomentar la creación de empleo potenciado por la tecnología y apoyar la transición de los trabajadores impactados por la automatización. El cambio en la composición del mercado laboral como consecuencia de la irrupción de nuevas tecnologías puede traer importantes consecuencias para aquellos trabajadores que no logran adaptarse rápida y eficazmente.
+
+Además, la evidencia indica que las personas enfrentan la reconversión en forma poco eficaz principalmente por falta de in-formación. En esta línea, estudios han documentado cómo las personas, ante la pér- dida de sus trabajos, suelen transitar de un sector de alto riesgo a otros de mismas características (Oxford Economics, 2019), o se capacitan y reconvierten ineficazmente, sin aprovechar las competencias que poseen.
+
+En consecuencia, junto con el sector productivo proporcionaremos más y mejor información para la toma de decisiones en función de recomendar transiciones laborales que minimicen los costos personales e individuales. Asimismo, impulsaremos la creación de instrumentos de apoyo para que las familias puedan sostener los perío- dos de transición en forma adecuada.
+
+OBJETIVO 3.2.2.
+
+Proveer apoyo a los trabajadores frente a la automatización.
+
+· Promover la reflexión crítica en torno a la interacción humano-máquina en el mundo del trabajo. Una de las formas más eficaces de facilitar la transición de los trabajadores cuyas funciones han sido automatizadas o fuertemente modificadas, es por medio de la generación de instancias de discusión in-tersectoriales y multiactorales respecto a las implicancias de estos procesos en el ámbito laboral. Lo anterior no se constituye como un conteo de impactos, sino más bien, como un proceso de reconocimiento respecto a las expectativas, preocupaciones y percepciones de los trabajadores.
+
+Para ello, dispondremos de mecanismos que insten a la reflexión sobre la integración de estos sistemas en un contexto de reconversión laboral y nuevos patrones relacionales al interior de las organizaciones. Esto permitirá que, al elaborar y pilotar guías de buenas prácticas, estas sean en base a lo declarado desde la fuerza laboral afectada.
+
+· Análisis y prospección de la regulación laboral con respecto a la IA y la automatización. En base a la discusión y análisis crítico de los impactos y transformaciones del mundo del trabajo, estudiaremos la institucionalidad y regulación laboral; determinaremos hasta qué punto puede responder a las demandas de la IA; y generaremos modificaciones y nuevos proyectos de ley, que apunten en la dirección del bienestar de las personas.
+
+### 3.3. RELACIONES DE CONSUMO
+
+La masificación del comercio digital (en in-glés e-commerce) ha ido acompañada de la creciente utilización de la IA en las interacciones de consumo entre proveedores y consumidores. A través de la utilización de sistemas de IA, los proveedores pueden asistir virtualmente a los consumidores, pronosticar gustos, inquietudes y preferencias de sus clientes en base a sus experiencias de navegación y, conforme a ello, ofrecerles servicios personalizados o formular decisiones automatizadas.
+
+Sin embargo, debido a la asimetría que puede caracterizar las relaciones de consumo, el potencial de la IA no está exento de riesgos para los derechos de los consumidores, entre ellos, la generación de resultados in-justos o arbitrariamente discriminatorios; la ausencia de transparencia en las condiciones que posibilitan la contratación de productos y servicios; o el tratamiento indebido de datos personales de los consumidores. En consecuencia, los proveedores de productos y servicios que utilicen esta tecnología deben velar por mitigar estos riesgos. Complementariamente, acciones de mitigación efectiva no sólo deben orientarse a reducir el riesgo de daño a los consumidores, sino también a generar confianza entre estos últimos, sobre la aplicación de la IA en las relaciones de consumo.
+
+OBJETIVO 3.3.1.
+
+Fomentar un uso de IA en el comercio digital transparente, no discriminatorio y respetuoso de las normas de protección de datos personales.
+
+· Desarrollar un ecosistema de comercio digital propicio para el buen uso de los sistemas de IA que interactúen con consumidores. Impulsaremos la promoción de un uso éti- co y responsable de la IA en las relaciones de consumo, que incluyen pero no se limitan a contratación automatizada, normas de responsabilidad por servicios asociados a IA, entre otros, a fin de que la IA sea implementada en el marco de un comercio digital transparente, que asegure un trato justo a los consumidores, en el que se pueda fiscalizar adecuadamente la protección del consumidor.
+
+Esto implica informar a los consumidores, entre otras cosas, sobre el uso de este tipo de sistemas; la finalidad del tratamiento de sus datos personales; y el proceso en virtud del cual el proveedor arriba a una decisión que impacta en el consumidor, por ejemplo, al dar o no lugar a la contratación de un servicio, o al formular una oferta personalizada para un grupo de consumidores.
+
+Siendo un eje central de la protección del consumidor procurar la formación de un consentimiento informado, es necesario que aseguremos que los consumidores comprendan, oportunamente, las implicancias del uso de la IA. Para ello, la información debe ser comunicada de manera clara y sencilla, utilizando un lenguaje comprensible para un consumidor sin conocimientos previos sobre tecnologías de información.
+
+A fin de asegurar el trato justo y no discriminatorio al consumidor en el contexto de decisiones automatizadas, trabajaremos junto a los proveedores para procurar la utilización de algoritmos explicables y justos. Estos algoritmos estarán configurados con estructuras internas de revisión, que pre-vengan decisiones automatizadas que no se ajusten a los parámetros de protección del consumidor, conforme a la legislación nacional. Asimismo, estos algoritmos habilitarán acciones para remediarlas, en el caso de no ajustarse a la legislación vigente. Este tipo de estructuras tienen por objetivo evitar que los sistemas puedan operar utilizando criterios discriminatorios, tales como diferenciar condiciones de contratación o precio según género, re-ligión u otra. Entendiendo que el concepto de explicabilidad de los sistemas de IA aún se encuentra en desarrollo, trabajaremos por desarrollar estándares y buenas prác- ticas en forma flexible y de acuerdo con el desarrollo y entendimiento de la operación de esta tecnología.
+
+En suma, la promoción de un comercio transparente, no discriminatorio y respetuoso de los derechos de los consumidores nos permitirá aprovechar plenamente los beneficios y oportunidades que la IA ofrece respecto de las relaciones de consumo.
+
+### 3.4. CREACIÓN, PROPIEDAD INTELECTUAL Y PROPIEDAD INDUSTRIAL
+
+En tanto tecnología de propósito general, la IA ha permeado con fuerza el terreno de la Propiedad Intelectual y la Propiedad Industrial (PI). Ya entre los años 2013 y 2016 las patentes en el área habían experimentado un significativo aumento en diversos sectores de la industria (134% en transporte, 84% en telecomunicaciones, 40% en ciencias de la medicina y 36% en dispositivos personales) (Organización Mundial de Propiedad Intelectual, 2019) y para el año 2020 más de 130.000 solicitudes de patentes se han presentado incluyendo técnicas como aprendizaje profundo y redes neuronales.
+
+El desarrollo y la adopción de la IA no solo han abierto preguntas antes impensadas entre los expertos, como si una máquina puede o no ser titular de derechos de propiedad in-telectual o industrial, sino que hoy también se extienden a otras materias igualmente relevantes. En un escenario mundial digitalizado, la protección de los software o programas computacionales, de los datos y bases de datos para entrenamiento de sistemas de IA, la definición de las materias patentables, entre otros temas, parecen definiciones cada vez más esenciales.
+
+Sin embargo, la Organización Mundial de Propiedad Intelectual (OMPI) y las distintas jurisdicciones, han dado pasos cautelosos y actualmente se trata de un diálogo en desarrollo. Por ejemplo, parece haber consenso en descartar la posibilidad de que máquinas puedan ser titulares de derechos de PI, pero en lo que se refiere a materias patentables los países han abordado la protección (o no protección) de los sistemas de IA por distintas vías. Mientras que algunos han desarrollado criterios de patentabilidad por vía jurisprudencial, otros han optado por formalizarlos en directrices descartando o aceptando casos concretos. En Chile el criterio deberá adoptarse a través de una norma legal y/o reglamentaria.
+
+Por otro lado, están los datos y las bases de datos. Ellos son una materia prima de los sistemas de IA, de manera que la definición sobre su protección destaca también como una de primer orden. A este respecto, de acuerdo con la Ley N°17.336, Chile cuenta con un sistema de protección de bases de datos, por vía de derechos de autor.
+
+Asimismo, se ha relevado el valor de la IA como herramienta útil para las agencias de PI para entregar o no protección a distintas clases de activos. No obstante, nuevamente existen discusiones abiertas en cuanto a cómo afectará su incorporación, por ejemplo, en los exámenes de patentabilidad, dado que sistemas integrados de datos contribuirán a un aumento en el conocimiento global, cien- tífico, tecnológico y comercial.
+
+Aun cuando nuestro país no figura entre los primeros rankings internacionales en el ám- bito de la propiedad intelectual, la apertura de nuestras fronteras y la cuarta revolución industrial exigen que nos hagamos parte de este diálogo. En él, será necesario considerar y visibilizar posibles repercusiones de esta vinculación PI-IA en la generación y adopción local de IA y abordar el tema con una mirada renovada y de futuro, capaz de conservar el adecuado balance entre el progreso, los derechos de creadores y de la sociedad de acceder al conocimiento, entregando también certeza jurídica.
+
+Además, la discusión se dará a la luz del desafío que significa la integración de la IA en sistemas socio-técnicos complejos. Como se ha indicado “en la esfera de las invenciones realizadas por IA, sería aconsejable que aquél [el derecho] sirviese de instrumento preventivo y dotase a éstas de una regulación que tuviera en cuenta las numerosas connotaciones éticas, sociales y económi- cas que este fenómeno puede comportar” (Sánchez García, 2018, 52).
+
+OBJETIVO 3.4.1.
+
+Promover un sistema de PI actualizado, capaz de fomentar y fortalecer la creatividad y la innovación basada en IA, recompensando a los creadores e innovadores de manera de incentivarlos a hacer pública su creación e innovación y que así la sociedad toda pueda beneficiarse de ella.
+
+· Participar activamente en instancias de diálogo y decisión sobre la regulación de IA en el ámbito inter-nacional de la Propiedad Intelectual, manteniendo información actualizada a disposición del público sobre los avances nacionales e internacionales. El sistema de PI actualmente tiene una arquitectura internacional armonizada, con estándares determinados en el Acuerdo sobre los Derechos de Propiedad Intelectual relacionados con el Comercio, ADPIC, de la OMC. Además, los sistemas nacionales de PI están hasta nuestros días influidos por tratados internacionales nacidos en el siglo XIX, estando la vigencia de sus disposiciones reforzada por otros acuerdos multilaterales y bilaterales.
+
+Dado lo anterior, el adaptar nuestros es- tándares a tecnologías disruptivas como la IA supone un nuevo desafío que debe- rá estar presente frente a la proposición de nuevas soluciones en el ámbito de la PI para que estas sean capaces de perdurar en el tiempo.
+
+Por lo mismo, organismos multilaterales como la OMPI y la OECD que hoy discuten sobre la relación entre IA y PI, y países como Australia, Estados Unidos, Francia, Reino Unido y la Unión Europea han abierto procesos de consultas públicas. Nos sumaremos a esas y otras instancias multilaterales, con la finalidad de visibilizar nuestro estado de situación y ser un aporte con las consideraciones expuestas en esta sección, y, ante propuestas de cambios regulatorios, nos sumaremos a la tendencia de consultas públicas no vinculantes.
+
+· Impulsar el desarrollo y adopción de la IA resguardando los derechos de creadores e innovadores. Sobre la base de la legislación vigente, al promover mecanismos que impulsen el desarrollo y adopción de la IA mantendremos el adecuado equilibrio entre derechos y obligaciones de creadores e innovadores y de la sociedad como beneficiaria de esas creaciones e innovaciones.
+
+Esto supone importantes desafíos en tér- minos de potenciar la apertura de bases de datos y softwares, definir criterios de patentabilidad de los sistemas de IA, así como desarrollar licencias adecuadas a las normas internas de nuestro país, pero co-nectadas con el tránsito jurídico y comercial internacional.
+
+· Identificar el impacto de la normativa de PI en la IA. Hasta el momento, se desconoce si las normas nacionales de PI favorecen o perjudican el desarrollo y adopción de la IA, al igual que otras tecnologías emergentes asociadas a ella, como cloud computing, IoT y los protocolos descentralizados basados en blockchain.
+
+Realizaremos catastros de invenciones y obras creadas para, por o con asistencia de sistemas de IA. También generaremos aná- lisis regulatorios prospectivos que consideren índices de adopción y madurez de esta tecnología, abordando patentes, derechos de autor, especialmente sobre software y bases de datos, y secretos comerciales.
+
+· Fomentar I+D+i en IA para la industria creativa. La IA tiene un alto potencial de impacto en el ecosistema cultural y en la cadena de valor asociados. La implementación de IA puede mejorar la toma de decisiones del Estado y los creadores y la experiencia de públicos y audiencias, dado que las nuevas tecnologías afectan cómo accedemos a y participamos las artes y la cultura. Por ello, promoveremos la reflexión crítica en torno a los usos, limitaciones y disyuntivas que plantea la IA para el ámbito artístico, cultural y patrimonial.
+
+A partir de esto, fomentaremos la creación de espacios de capacitación y formación, colaborando con plataformas intersectoriales de desarrollo de IA para su integración en ámbitos de creación artísticas y econo- mías creativas. Además, impulsaremos las mejoras de calidad e interoperabilidad de datos en todas las actividades asociadas a la industria creativa, permitiendo la efectiva inclusión de la IA en este ámbito.
+
+### 3.5. CIBERSEGURIDAD Y CIBERDEFENSA
+
+En un mundo crecientemente digitalizado y automatizado, la ciberseguridad ha adquirido especial relevancia. El significativo aumento y complejidad de los ciberataques ejecutados diariamente se suma a los diversos propósitos e intereses que ellos persiguen, así como también a la multiplicidad de brechas, vulnerabilidades y vectores de ataque. Un ciberataque puede llegar a ser tan efectivo y perjudicial como un ataque armado, y más aún ante posibles usos béli- cos de estos sistemas automatizados.
+
+A ello se suma que las capacidades de propagación de los ciberataques y potencial lesividad en ciertas infraestructuras o actividades, inclusive aquellas interdependientes, e implicancias geopolíticas, complejizan la aplicación de los principios del Derecho Internacional sobre los dominios tradicionales de tierra, aire, mar, espacio y el ciberespacio. Esto indudablemente implica un desafío y riesgo actual. De hecho, el 15vo Reporte de Riesgo Global del Foro Económico Mundial de 2020 sitúa a los ciberataques dentro de los escenarios más preocupantes a nivel global.
+
+En este contexto, la progresiva adopción de la IA y otras tecnologías emergentes está también aumentando los factores de riesgo. Esto requiere aplicar estrategias de control sobre los riesgos emergentes, teniendo en cuenta las limitaciones intrínsecas de dichos procesos, así como también análisis de nuevos riesgos y vulnerabilidades. Asimismo, las vulnerabilidades en los sistemas de IA podrían producir efectos no deseados y conducir a acciones incorrectas. Por ello, una adecuada gestión de riesgos supone un diálogo que incorpore al sector público, privado, la academia y la sociedad civil.
+
+La IA es un elemento diferenciador para mantenerse a la vanguardia en cuanto al uso de las tecnologías, procedimientos, equipamiento y capacidades de la ciberdefensa nacional, tanto en acciones de legítima defensa, como efectos de disuasión y manejo de crisis. De hecho, aún cuando la IA crea nuevas oportunidades para ciberatacantes, esta tecnología también tiene el potencial de mejorar la velocidad, precisión e impacto de la defensa operacional, así como apoyar la resiliencia operacional (World Economic Forum, 2020).
+
+Así, la IA se presenta como una nueva herramienta para mantener el ciberespacio libre, abierto, seguro y resiliente y, con ello, cumplir los objetivos señalados en nuestra actual Política Nacional de Ciberseguridad (Gobierno de Chile, 2017). De ahí la vinculación entre ambas Políticas. La IA, en general, puede contribuir optimizando los tiempos de respuesta, la identificación de vulnerabilidades, la detección de intrusiones, fraudes o identificación de malwares, además de identificar tendencias y/o elaborar rankings de los riesgos relevantes en la red y analizar grandes volúmenes de información de contexto reduciendo al mismo tiempo la inter-vención humana.
+
+La fuente y veracidad de la información es también un elemento clave para el funcionamiento de estos sistemas automatizados, siendo primordial la ciberseguridad para los procesos de recolección, almacenamiento, tratamiento y transmisión de datos. En ese sentido, el principio de seguridad en la integridad sobre los datos cobra la mayor relevancia.
+
+De lo anterior se sigue la necesidad de que abordemos el tema desde ópticas diversas, incluyendo materias tan relevantes como la protección en el tratamiento de los datos personales y el posible compromiso y protección de la infraestructura crítica de la información, servicios y actividades esenciales del país. En el mismo sentido, las organizaciones también requerirán equipos especializados y capacitados tanto en aspectos defensivos como ofensivos, con responsabilidades y roles claramente determinados.
+
+OBJETIVO 3.5.1.
+
+Posicionar la IA como un componente relevante en el ámbito de la ciberseguridad y ciberdefensa, promoviendo sistemas tecnológicos seguros.
+
+· Incorporar la IA en las estrategias de ciberseguridad y ciberdefensa, así como en proyectos de ley asociados a ellas. Incorporaremos la IA como un componente en las próximas actualizaciones de la Polí- tica Nacional de Ciberseguridad y así también en las políticas de ciberdefensa por medios de diálogos multiactor.
+
+Además, analizaremos el marco legal vigente en cuanto a las implicaciones del uso de IA en el ámbito de la ciberseguridad, y le daremos impulso a proyectos de ley de re-levancia en este aspecto, como el Proyecto de Ley Marco de Ciberseguridad e Infraestructura crítica y el Proyecto de Ley sobre Delitos Informáticos.
+
+· Fomentar el uso de sistemas de IA para reaccionar a los ataques infor- máticos en el Estado. Generaremos recomendaciones para el uso de IA en los sistemas del Estado para combatir los ataques informáticos. Esto lo haremos en conjunto con los actores con competencias en materias de ciberseguridad, para aprovechar la potencialidad de la tecnología.
+
+· Fomentar la capacitación en las áreas asociadas a la ciberseguridad. Incorporaremos en las Políticas de Ciberseguridad y Ciberdefensa planes de capacitación sobre IA de los profesionales que desarrollan, implementan y tienen a su cargo sistemas informáticos.
+
+Adicionalmente, en cuanto el avance es constante tanto de la sofisticación de los ataques como de técnicas defensivas, se promoverá mayor investigación, desarrollo e innovación en tecnologías del futuro, por ejemplo, tecnologías cuánticas, que proveerán mejores herramientas para abordar estas técnicas defensivas y formación de expertos y profesionales.
+
+· Incorporar la IA en la institucionalidad pública de ciberseguridad. El Decreto Supremo N°533, de 2015, del Ministerio del Interior y Seguridad Públi- ca, creó el Comité Interministerial sobre Ciberseguridad (“CICS”), con la misión de confeccionar la Política Nacional de Ciberseguridad del país.
+
+Actualizaremos este Comité para que se posicione como un espacio intersectorial propicio para impulsar y concretar acciones en materia de ciberseguridad que incluyan IA.
+
+### 3.6. GÉNERO
+
+En el sistema de investigación, tecnología e innovación existen importantes brechas de género. Esto se da tanto a nivel horizontal (por ejemplo, áreas como la ingeniería o la matemática, que están fuertemente masculinizadas, y otras como la educación o los servicios, que están marcadamente feminizadas) como a nivel vertical (por ejemplo, mujeres excluidas de cargos de poder o toma de decisión).
+
+Por ello, se hace imperativo abrazar como principio rector en las políticas impulsadas la igualdad de género, es decir, que no exista discriminación arbitraria, directa o indirecta, contra las mujeres. En esa dirección, en enero de 2020 MinCiencia estableció una Hoja de Ruta de Género para avanzar hacia la plena participación de las mujeres en la generación, desarrollo y aplicación de co-nocimiento en Chile.
+
+Por un lado, las ventajas y mejoras que esta tecnología brinda pueden ser un motor eficiente de la superación de las brechas de género que tenemos como sociedad, por otro, muchos de los potenciales efectos negativos de la IA tienen su origen en sesgos existentes en los datos con que se entrenan los algoritmos y/o la composición de los equipos de desarrollo de software y hardware relacionado a la IA. Por ejemplo, el World Economic Forum revela que el 78% de los profesionales de la IA son hombres (World Economic Forum, 2018).
+
+En el caso de nuestro país, apenas 1 de 4 matrículas en carreras de STEM corresponde a mujeres (Ministerio de la Mujer y Equidad de Género, 2018). Ejemplos prácticos de los efectos de esto se pueden observar en algoritmos de reconocimiento facial que tienen más dificultad en reconocer a mujeres que hombres; o en traductores que, al pasar de un lenguaje neutro a uno que no lo es, toman preferencias a la hora de determinar el género de una profesión.
+
+Finalmente, la forma de abordar el desafío de la equidad de género es compleja e in-volucra acciones en diversos ámbitos considerando el ciclo de vida completo de los sistemas de IA. Así, se debe trabajar en pos de equipos de desarrollo más igualitarios, bases de datos libres de sesgo no deseados, sistemas de auditoría en distintas etapas, entre otros. La incorporación de mujeres debe ser como participantes activas en la creación e implementación, y no como beneficiarias pasivas.
+
+OBJETIVO 3.6.1.
+
+Fomentar la participación de mujeres en áreas de investigación y desarrollo relacionadas a la IA hasta alcanzar un nivel igual o mayor a la OCDE.
+
+· Generar un sistema de monitoreo y análisis con indicadores respecto a la participación por género en el sistema de investigación, tecnolo- gía, e innovación que incluirá un foco en áreas relacionadas a la IA. Los indicadores de género sirven para capturar la intensidad y magnitud de las brechas. Conformaremos un sistema de monitoreo y análisis que contribuirá al control de aquellos indicadores para mantener una tasa de participación equitativa en las áreas relacionadas con la IA.
+
+· Promover activamente el acceso, la participación y el desarrollo igualitario de las mujeres en las áreas relacionadas a IA. Cuando existen desbalances dentro de las distintas esferas en que se desarrolla la IA, es necesario regularizar mediante acciones afirmativas como cuotas o criterios de desempate con tal de reducir las desigualdades. En este caso, las mujeres se ven sub-representadas tanto en el acceso, participación y desarrollo, debido que se relegan sus capacidades, especialmente, en áreas como la tecnología. Por ende, las medidas afirmativas impulsan encontrar un equilibrio justo y ético de aquellas personas que están en desventaja frente a grupos que han conformado a lo largo del tiempo una posición favorecida. Promocionaremos estas acciones que reformarían el actual equilibrio, ya que las mujeres podrían alcanzar aquellas oportunidades que las situaría en igualdad de condiciones.
+
+OBJETIVO 3.6.2.
+
+Fomentar la participación de mujeres en áreas de IA en la industria hasta alcanzar, al menos, un valor igual o superior al promedio OCDE y velar porque el impacto de automatización no perjudique por género y que la creación de empleo sea equitativa.
+
+· Generar indicadores para establecer líneas de base y monitorear la inclusión de mujeres en las áreas relacionadas a IA en la industria. Elaboraremos indicadores que permitan evaluar y comparar la brecha de género dentro de las distintas áreas relacionadas a IA en la industria.
+
+Para esto, realizaremos un monitoreo perió- dico de la inclusión de mujeres a través de la observación y detección temprana de patrones socioculturales que relegan a las mujeres.
+
+· Incorporar variables de género en los ejercicios de prospección del Mercado Laboral, focalizando políti- cas de capacitación y actualización a mujeres para mitigar el impacto de la automatización en ámbitos donde son mayormente perjudicadas. Profundizando los impactos de la automatización abordados en el apartado de impactos en el trabajo, existen sectores, como la manufactura, que usualmente son intensivos en trabajo laboral femenino. La creación de variables e indicadores que determinen riesgo diferenciando por género debe permitir alertar y reaccionar a tiempo para acompañar la transición y prospectar trayectorias laborales.
+
+En esta línea, diseñaremos e implementaremos las políticas de capacitación y actualización teniendo en especial consideración a las mujeres. Al segmentar el riesgo por género, diseñaremos medidas con mayor focalización y eficacia al momento de mitigar el impacto de la automatización en el bienestar de las personas.
+
+OBJETIVO 3.6.3. Fomentar la equidad de género en la implementación de sistemas de IA.
+
+· Fomentar la equidad de género dentro de las buenas prácticas en el desarrollo de sistemas de IA. La representación de grupos tradicionalmente excluidos se vuelve pertinente para el amparo de sus intereses. Tener equipos diversos permite una adecuada alineación de perspectivas, procurando que las necesidades de cada grupo encuentren reparos justos social y culturalmente. La equidad explica cómo la interseccionalidad incide en las soluciones a las que podrían acceder las mujeres, ya que la pertenencia a múl- tiples categorías sociales suele definir la calidad del acuerdo.
+
+En la misma línea, las bases de datos son la materia prima para realizar los algoritmos. Así como se elaboran mediante investigación, esta puede venir sesgada en su construcción reforzando la discriminación y los estereotipos. Por ello, crearemos una guía de recomendaciones que, por ejemplo, in-corpore tener las bases de datos con un extenso número de desagregaciones para disminuir las brechas. Sin embargo, esto puede generar riesgos a la privacidad, por lo que deberá desarrollarse acorde a lo planteado en el apartado de ética.
+
+La relevancia del trabajo con las bases de datos radica en una adecuada incorporación de criterios de género, equidad y socioeconómicos para entrenar adecuadamente los algoritmos e irá acompañada de un relato público para evidenciar la contribución de las mujeres en las disciplinas asociadas a la IA.
+
+· Establecer requerimientos de evaluación durante todo el ciclo o de vida de los sistemas de IA para evitar discriminación por género. Estos criterios deberán ser acordes a la criticidad de la aplicación.
+
+Profundizando lo planteado en el apartado de ética, es necesario que realicemos una evaluación permanente sobre cuáles son las tomas de decisiones que los algoritmos están realizando y si sus resultados no esconden brechas o discriminaciones.
+
+Esta medida preventiva pretende revisar si las decisiones están cargadas hacia algún grupo, para frenar o reevaluar el diseño algorítmico y dar lugar a su uso responsable. Incorporaremos estas consideraciones en la formulación de proyectos que involucren IA en aplicaciones críticas del sector público y generaremos recomendaciones para el sector privado producto de un diá- logo multiactor.
+
+## GLOSARIO
+
+5g: Es la quinta generación de dispositivos y redes móviles, que se caracteriza por ser una tecnología inalámbrica de alta velocidad, gran capacidad y baja latencia (tiempo de respuesta de la red).
+
+Algoritmo: Conjunto ordenado y finito de operaciones que permite hallar la solución de un problema.
+
+Anonimización: Expresar un dato relativo a entidades o personas, eliminando la referencia a su identidad.
+
+Automatización: Aplicación de máquinas o de procedimientos automáticos en la realización de un proceso o una industria.
+
+Big Data: Son agrupaciones de datos tan complejas y grandes que para tratarlos de manera adecuada requieren de procesos y aplicaciones informáticas no tradicionales.
+
+Blockchain: Es una estructura de datos compuesta por bloques. Cada uno de ellos (excepto por el primero) se encuentra unido a uno anterior formando una línea. Nuevos datos pueden ser agregados formando un bloque, uniéndose al último bloque de la estructura.
+
+Esta estructura ha sido útil para la creación de protocolos descentralizados que regulan interacciones complejas de nuestra sociedad (como es el caso de las monedas, pero puede ampliarse a otras actividades y quehaceres).
+
+Computación de alto rendimiento: Usar la potencia de cálculo para resolver problemas complejos en ingeniería, gestión y ciencia. Para ello, se sostiene en ciertas tecnologías computacionales como los supercomputadores o la computación paralela.
+
+Dato: En el contexto de la IA, corresponden a una observación, representación o sampleo de fe- nómenos reales, que funcionan como materia prima para los algoritmos, y que permite entrenar y mejorar algoritmos y modelos apuntando a explicar o predecir los fenómenos re-presentados o sampleados u observados.
+
+Data center: Espacio donde se concentran los recursos necesarios para el procesamiento de la información de una organización. Entre sus características principales se destacan el almacenamiento, distribución y tratamiento de los datos.*
+
+Deep learning (aprendizaje profundo): Consiste en un método de aprendizaje del Machine Learning, a través del cual se utiliza una red neuronal artificial compuesta de un nú- mero de niveles jerárquicos por los que avanza la información hacia niveles superiores. Esta información es elaborada en cada nivel y una vez transformada, pasa al siguiente nivel, y así sucesivamente.
+
+Encriptación: Transcripción con una clave.
+
+Explicabilidad: Este término hace referencia a métodos y técnicas que se utilizan para que la inteligencia artificial y sus resultados puedan ser explicables, o mejor dicho, entendidos por expertas/os.
+
+Gobernanza: Arte o manera de gobernar que se propone como objetivo el logro de un desarrollo eco- nómico, social e institucional duradero, promoviendo un sano equilibrio entre el Estado, la sociedad civil y el mercado de la economía.
+
+Fibra óptica: Hilo o haz de hilos de vidrio altamente transparente por el cual se transmite información a grandes distancias mediante señales luminosas.
+
+Inteligencia Artificial (IA): Sistema computacional que puede, para un determinado conjunto de objetivos definidos por humanos, hacer predicciones y recomendaciones o tomar decisiones que influyen en entornos reales o virtuales.
+
+Interseccionalidad: La interseccionalidad reconoce que no existe un único eje en el que opere la discriminación, o escasee la equidad, o abunden las desigualdades. Así, permite identificar y mitigar la opresión o sesgo en género, respecto de ingresos, de representación, de participación, de etnia, de orientación sexual, u otras categorías.
+
+IoT o Internet de las Cosas (del inglés Internet of Things): Una interconexión digital de objetos cotidianos con internet.
+
+Machine learning (aprendizaje automático): Disciplina científica de la inteligencia artificial que diseña y construye sistemas que aprenden de manera automática por medio de la identificación de patrones complejos en un universo con grandes cantidades de datos.
+
+Malware: Cualquier tipo de software que realiza acciones dañinas en un sistema informático de forma intencionada y sin el consentimiento.
+
+Participación equitativa: Participación desde la promoción de un acceso más generalizado a las oportunidades económicas, sociales y políticas.
+
+Pensamiento computacional: Es la capacidad de un individuo de analizar y resolver problemas utilizando habilidades adquiridas que son propias de la computación y del pensamiento crítico, entre otras.
+
+Reconversión laboral: Proceso por medio del cual se propone adaptar a las personas a las nuevas configuraciones laborales, como lo son, por ejemplo, las nuevas tecnologías.
+
+Reskilling: Capacitación de trabajadores en una nueva habilidad como respuesta al cambio tecnológico en la organización. En otras palabras, supone un “reciclaje profesional” de las/los trabajadores.
+
+Sandbox: Sistema de aislamiento de procesos o entorno aislado, a menudo usado como medida de seguridad.
+
+Sesgo: Error sistemático en el que se puede incurrir cuando al hacer muestreos o ensayos se seleccionan o favorecen unas respuestas frente a otras.
+
+Software: Conjunto de programas y rutinas que permiten a la computadora realizar determinadas tareas.
+
+STEM: Acrónimo de los términos en inglés Science, Technology, Engineering and Mathematics (ciencia, tecnología, ingeniería y matemáticas).
+
+Transformación digital: Cambios asociados a la aplicación de tecnologías digitales en todos los ámbitos de la vida cotidiana y la sociedad.
+
+Tecnología de nube (computación en la nube): Tecnología que permite ofrecer servicios de computación a través de una red, que generalmente es internet.
+
+Tecnología de propósito general: Corresponde a una tecnología que tiene el potencial de impactar las estructuras sociales y económicas de toda la sociedad.
+
+Upskilling: Capacitación adicional que reciben trabajadoras/es, la cual les ayuda a mejorar sus competencias personales y así, desempeñar de manera más eficiente las tareas de su trabajo.
+
+Última milla: Tramo final de una línea de comunicación, ya sea telefónica o un cable óptico, que llega al usuario final.
+
+## REFERENCIAS
+
+· Arroyo, C., & Pacheco, F. (2017). Los Resultados de la Educación Técnica en Chile. Comisión Nacional de Productividad. https://www.comisiondeproductividad.cl/wp-content/uploads/2018/06/Nota-T%C3%A9cnica-3.-Educaci%C3%B3n.pdf
+
+· Autor, David, and Anna Salomons. Is automation labor-displacing? Productivity growth, employment, and the labor share. No. w24871. National Bureau of Economic Research, 2018.
+
+· Awad, Edmond, Sohan Dsouza, Richard Kim, Jonathan Schulz, Joseph Henrich, Azim Shariff, Jean-François Bonnefon, and Iyad Rahwan. “The moral machine experiment.” Nature 563, no. 7729 (2018): 59-64.
+
+· Banco Interamericano de Desarrollo (Ed.). (2018). Algoritmolandia: Inteligencia Artificial para una integración predictiva e inclusiva de América Latina. Planeta.
+
+· Bresnahan, T., & Trajtenberg, M. (1995). General purpose technologies ‘engines of growth’? Journal of econometrics, 61(1), 83-108.
+
+· Cabrol, M., González, N., Pombo, C., & Sánchez, R. (2020, Enero). Adopción ética y responsable de la inteligencia artificial en América Latina y El Caribe. Nota técni- ca N° IDB-TN-1839. https://publications.iadb.org/publications/spanish/document/fAIr_LAC_Adopci%C3%B3n_%C3%A9tica_y_responsable_de_la_inteligen- cia_artificial_en_Am%C3%A9rica_Latina_y_el_Caribe_es.pdf
+
+· Cámara Chileno Norteamericana de Comercio & Universidad del Desarrollo. (2019). AI Readiness. Diagnóstico de la adopción de la inteligencia artificial (IA) de empresas en Chile. https://amchamchile.cl/wp-content/uploads/2019/09/L.-Bra-vo-UDD.pdf
+
+· CNCA-IFACCA. (2014). Documento de discusión, 6° Cumbre Mundial de las Artes y la Cultura. · Comisión Desafíos del Futuro, Ciencia, Tecnología e Innovación del Senado de la República de Chile. (2019). Inteligencia Artificial para Chile: La urgencia de desarrollar una estrategia.
+
+· Comisión Nacional de Productividad. (2018). Los Resultados de la Educación Técnica en Chile.https://www.comisiondeproductividad.cl/wp-content/uploads/2018/06/Nota-T%C3%A9cnica-3.-Educaci%C3%B3n.pdf
+
+· Consejo Nacional de Innovación para el Desarrollo. (2019). Revolución Tecnológi- ca: Cómo la ciencia, tecnología, conocimiento e innovación pueden contribuir al desafío país.
+
+· Deloitte. (2019). Artificial Intelligence, the next frontier for investment management firms.
+
+· Dihlac, M., Mai, V., Mörch, C., Noiseau, P., & Voarino, N. (2020). Pensar la Inteligencia Artificial responsable: una guía de deliberación.
+
+· Ermólieva, E. (2010). Fuga de Cerebros: Un Tema Viejo con Nuevos Matices. Iberoamérica, (2), 86-104. http://biblioteca.clacso.edu.ar/gsdl/collect/clacso/index/assoc/D13252.dir/Antologia_del_pensamiento_ruso.pdf#page=237
+
+· Fjeld, J., Achten, N., Hilligoss, H., Nagy, A., & Srikumar, M. (2020, Enero). Principled Artificial Intelligence: Mapping Consensus in Ethical and Rights-Based Approaches to Principles for AI. Berkman Klein Center Research Publication, (2020-1). https:// papers.ssrn.com/sol3/papers.cfm?abstract_id=3518482
+
+· Fondo de las Naciones Unidas para la Infancia. (2020). Policy guidance on AI for children.
+
+· Gobierno de Chile. (2017). Política Nacional de Ciberseguridad.
+
+· Gómez, C., May, C., Martínez, C., & Martín del Campo, A. (2020, Mayo). La inteligencia artificial al servicio del bien social en América Latina y el Caribe: Panorámica regional e instantáneas de doce países. http://dx.doi.org/10.18235/0002393
+
+· Guridi, J. A., Pertuze, J. A., & Pfotenhauer, S. (2020). Natural laboratories as policy instruments for technological learning and institutional capacity building: The case of Chile’s astronomy cluster. Research Policy, 49(2). https://www.sciencedi-rect.com/science/article/abs/pii/S0048733319302173
+
+· Jobin, A., Ienca, M., & Vayena, E. (2019). The global landscape of AI ethics guidelines. Nature Machine Intelligence, 1, 389 - 399. https://www.nature.com/articles/s42256-019-0088-2
+
+· Hidalgo, César A., Diana Orghiain, Jordi Albo Canals, Filipa De Almeida, and Natalia Martín. How Humans Judge Machines. MIT Press, 2021.
+
+· Kearns, Michael, and Aaron Roth. The ethical algorithm: The science of socially aware algorithm design. Oxford University Press, 2019.
+
+· Klinger, J., Mateos-Garcia, J., & Stathoulopoulos, K. (2018, Agosto 20). Deep learning, deep change? Mapping the development of the Artificial Intelligence General Purpose Technology.
+
+· Lee, K. (2018). AI Superpowers: China, Silicon Valley, and the New World Order.
+
+· Ministerio de Ciencia, Tecnología, Conocimiento e Innovación. (2020). Política Nacional de Ciencia, Tecnología, Conocimiento e Innovación. https://drive.google.com/file/u/2/d/1OxfIe-1lQ1btfalFycSnZ_lSbKX00-Y2/view?usp=sharing
+
+· Ministerio de Economía, Fomento y Turismo. (2020). Encuesta TIC, año de referencia 2018. https://www.economia.gob.cl/2020/07/08/encuesta-tic-2018.htm
+
+· Ministerio de Educación. (2020, Septiembre 4). Mineduc y CORFO entregarán más de 1.500 becas de capacitación para directivos y docentes de IP y CFT. Subsecretaría de Educación Superior. Retrieved Noviembre 3, 2020, from https://educacionsuperior.mineduc.cl/2020/09/04/mineduc-y-corfo-entregaran-mas-de-1-500-be-cas-de-capacitacion-para-directivos-y-docentes-de-institutos-profesiona-les-y-centros-de-formacion-tecnica/
+
+· Ministerio de la Mujer y Equidad de Género. (2018). Más mujeres más ciencia. Retrieved Noviembre, 2020, from https://minmujeryeg.gob.cl/?page_id=4080 · Minsky, Marvin. “Steps toward artificial intelligence.” Proceedings of the IRE 49, no. 1 (1961): 8-30.
+
+· Morgan, S. (2020, Octubre 26). Global Cybercrime Damages Predicted To Reach $6 Trillion Annually By 2021. Cybercrime Magazine. Retrieved Noviembre 8, 2020, from https://cybersecurityventures.com/cybercrime-damages-6-trillion-by-2021/
+
+· National Institute for Research in Digital Science and Technology. (2020). Green AI @ Inria. Retrieved Octubre 27, 2020, from http://greenai.inria.fr/
+
+· Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura. (2020). Elaboration of a Recommendation on the ethics of artificial intelligence. Elaboration of a Recommendation on the ethics of artificial intelligence. Retrieved Octubre 29, 2020, from https://en.unesco.org/artificial-intelligence/ethics
+
+· Organización para la Cooperación y Desarrollo Económico. (2016). Skills Matter: Further Results from the Survey of Adults Skills. OECD Publishing. https://www.oecd-ilibrary.org/docserver/9789264258051-en.pdf?expires=1604416597&id=i- d&accname=guest&checksum=F28D17ADB8C8763274B6680D86B25C5F
+
+· Organización para la Cooperación y Desarrollo Económico. (2019). Artificial Intelligence in Society. OECD Publishing. https://doi.org/10.1787/eedfee77-en
+
+· Organización para la Cooperación y el Desarrollo Económico. (2019). OECD Principles on AI. Going Digital, Making the transformation work for growth and well-being. https://www.oecd.org/going-digital/ai/principles/
+
+· Organización para la Cooperación y el Desarrollo Económico. (2020, Diciembre 11). Main Science and Technology Indicators.
+
+· Oxfords Economics. (2019). How Robots Change the World. Oxford Economics Publishing.https://www.oxfordeconomics.com/recent-releases/how-robots-chan-ge-the-world
+
+· PwC. (2018). Will robots really steal our jobs? Will robots really steal our jobs? https://www.pwc.co.uk/economic-services/assets/international-impact-of-auto-mation-feb-2018.pdf
+
+· Rao, A., Verweij, G., & Cameron, E. (2017). Sizing the Prize: What Is the Real Value of AI for Your Business and How Can You Capitalise? PwC Whitepaper.
+
+· Rolnick, D., Donti, P., Kaack, L., Kochanski, K., Lacoste, A., Sankaran, K., Slavin Ross, A., Milojevic-Dupont, N., Jaques, N., Waldman-Brown, A., Luccioni, A., Maharaj, T., Sherwin, E. D., Karthik Mukkavilli, S., Körding, K. P., Gomes, C., Ng, A. Y., Hassabis, D., Platt, J., … Bengio, Y. (2019, Noviembre). Tackling Climate Change with Machine Learning. arXiv. https://arxiv.org/pdf/1906.05433.pdf
+
+· Rosenblatt, F. (1958). The perceptron: a probabilistic model for information storage and organization in the brain. Psychological review, 65(6), 386.
+
+· Sandoval, E. (2018, Noviembre). Aprendizaje e Inteligencia Artificial en la Era Digital: Implicancias Socio-Pedagógicas ¿Reales o Futuras? Boletín Redipe, 7(11), 155- 171. https://revista.redipe.org/index.php/1/article/view/626/583
+
+· Schwartz, R., Dodge, J., Smith, N., & Etzioni, O. (2019, Julio). Green AI. arXiv. https:// arxiv.org/pdf/1907.10597.pdf
+
+· Subsecretaría de Educación Superior. (2020). Las carreras técnicas de tecnología y administración lideran empleabilidad en Chile. mifuturo.cl. Retrieved Noviembre 3, 2020, from https://www.mifuturo.cl/las-carreras-de-tecnologia-y-administra-cion-lideran-empleabilidad-en-chile/
+
+· Tomarelli, G. (2020, Enero 24). Educación técnica e industria 4.0. Vertebral Chile. Re-trieved Noviembre 3, 2020, from https://vertebralchile.cl/2020/01/24/carta-de-nues-tro-secretario-general-gonzalo-tomarelli-educacion-tecnica-e-industria-4-0/
+
+· World Economic Forum. (2018). Assessing Gender Gaps in Artificial Intelligence.https://reports.weforum.org/global-gender-gap-report-2018/asses-sing-gender-gaps-in-artificial-intelligence/
+
+· World Economic Forum. (2020). Future series: Cybersecurity, emerging technology and systemic risk. http://www3.weforum.org/docs/WEF_Future_Se-ries_Cybersecurity_emerging_technology_and_systemic_risk_2020.pdf
+
+· World Economic Forum. (2020). Global Risk Report. http://www3.weforum.org/docs/WEF_Global_Risk_Report_2020.pdf

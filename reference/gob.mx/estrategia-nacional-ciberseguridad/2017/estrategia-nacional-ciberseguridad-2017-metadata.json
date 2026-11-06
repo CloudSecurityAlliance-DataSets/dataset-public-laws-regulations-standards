@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/gob.mx/estrategia-nacional-ciberseguridad@2017",
+  "name": "Estrategia Nacional de Ciberseguridad (2017)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2017",
+  "publication_id": "estrategia-nacional-ciberseguridad-2017",
+  "owner": "Gobierno de México — Presidencia de la República",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Estrategia Nacional de Ciberseguridad (published November 13, 2017). Mexico's national cybersecurity strategy published by the Federal Government in November 2017 across five strategic objectives (society and rights, economy and innovation, public institutions, critical infrastructure, and national security) and eight cross-cutting pillars.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Gobierno de México — Presidencia de la República (gob.mx) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Gobierno de México — Presidencia de la República (gob.mx).",
+  "license": {
+    "spdx": "LicenseRef-MX-LFDA-Art14-VIII",
+    "Grouping": "Public Domain",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/MX",
+    "note": "Official publication (gob.mx); United Mexican States Federal Copyright Law (Ley Federal del Derecho de Autor) Art. 14(VIII) (legislative, regulatory, administrative or judicial texts and their official translations are not subject to copyright protection) and Libre Uso MX (datos.gob.mx).",
+    "notes": "Official publication (gob.mx); United Mexican States Federal Copyright Law (Ley Federal del Derecho de Autor) Art. 14(VIII) (legislative, regulatory, administrative or judicial texts and their official translations are not subject to copyright protection) and Libre Uso MX (datos.gob.mx)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.gob.mx/cms/uploads/attachment/file/271884/Estrategia_Nacional_Ciberseguridad.pdf",
+    "textUsed": "https://www.gob.mx/cms/uploads/attachment/file/271884/Estrategia_Nacional_Ciberseguridad.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2017-11-13",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 31-page PDF (https://www.gob.mx/cms/uploads/attachment/file/271884/Estrategia_Nacional_Ciberseguridad.pdf) locally via PyMuPDF (66,130 chars). Parsed 11 sections (0 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

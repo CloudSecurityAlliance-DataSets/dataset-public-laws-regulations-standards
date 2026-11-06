@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/citra.gov.kw/kuwait-national-cybersecurity-strategy@2017",
+  "name": "National Cyber Security Strategy for the State of Kuwait (2017–2020)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2017",
+  "publication_id": "kuwait-national-cybersecurity-strategy-2017",
+  "owner": "Communication and Information Technology Regulatory Authority (CITRA) & NCSC Kuwait",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "National Cyber Security Strategy for the State of Kuwait (2017–2020)",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Communication and Information Technology Regulatory Authority (CITRA) & NCSC Kuwait (citra.gov.kw) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Communication and Information Technology Regulatory Authority (CITRA) & NCSC Kuwait (citra.gov.kw).",
+  "license": {
+    "spdx": "LicenseRef-KW-Law75-2019-Art4",
+    "Grouping": "Public Domain",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/KW",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (citra.gov.kw) is governed by State of Kuwait Law No. 75 of 2019 on Copyright and Related Rights Art. 4(1) (official documents such as laws, regulations, and administrative decisions are excluded from copyright protection).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (citra.gov.kw) is governed by State of Kuwait Law No. 75 of 2019 on Copyright and Related Rights Art. 4(1) (official documents such as laws, regulations, and administrative decisions are excluded from copyright protection)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.citra.gov.kw/",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2017-01-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/citra.gov.kw/kuwait-national-cybersecurity-strategy@2017 (https://www.citra.gov.kw/) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

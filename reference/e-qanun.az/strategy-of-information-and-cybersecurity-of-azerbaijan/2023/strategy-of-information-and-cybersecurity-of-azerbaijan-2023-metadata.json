@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/e-qanun.az/strategy-of-information-and-cybersecurity-of-azerbaijan@2023",
+  "name": "Strategy of the Republic of Azerbaijan on Information Security and Cybersecurity for 2023–2027",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2023",
+  "publication_id": "strategy-of-information-and-cybersecurity-of-azerbaijan-2023",
+  "owner": "Unified Electronic Legal Database of the Republic of Azerbaijan (e-Qanun)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Strategy of the Republic of Azerbaijan on Information Security and Cybersecurity for 2023–2027",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Unified Electronic Legal Database of the Republic of Azerbaijan (e-Qanun) (e-qanun.az) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Unified Electronic Legal Database of the Republic of Azerbaijan (e-Qanun) (e-qanun.az).",
+  "license": {
+    "spdx": "LicenseRef-AZ-Law115IQ-Art7",
+    "Grouping": "Public Domain",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/AZ",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (e-qanun.az) is governed by Law of the Republic of Azerbaijan on Copyright and Related Rights (No. 115-IQ) Art. 7(a) (official documents — laws, court decisions, Presidential orders, and other texts of a legislative, administrative or judicial character — and their official translations are not objects of copyright).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (e-qanun.az) is governed by Law of the Republic of Azerbaijan on Copyright and Related Rights (No. 115-IQ) Art. 7(a) (official documents — laws, court decisions, Presidential orders, and other texts of a legislative, administrative or judicial character — and their official translations are not objects of copyright)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://e-qanun.az/framework/55029",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2023-08-28",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/e-qanun.az/strategy-of-information-and-cybersecurity-of-azerbaijan@2023 (https://e-qanun.az/framework/55029) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

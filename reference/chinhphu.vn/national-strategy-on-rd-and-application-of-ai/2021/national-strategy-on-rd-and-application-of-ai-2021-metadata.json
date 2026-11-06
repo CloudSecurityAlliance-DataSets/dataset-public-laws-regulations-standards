@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/chinhphu.vn/national-strategy-on-rd-and-application-of-ai@2021",
+  "name": "National Strategy on R&D and Application of Artificial Intelligence until 2030 (Decision No. 127/QĐ-TTg) (2021)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2021",
+  "publication_id": "national-strategy-on-rd-and-application-of-ai-2021",
+  "owner": "Government of the Socialist Republic of Vietnam (Cổng Thông tin điện tử Chính phủ)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "National Strategy on R&D and Application of Artificial Intelligence until 2030 (Decision No. 127/QĐ-TTg)",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Government of the Socialist Republic of Vietnam (Cổng Thông tin điện tử Chính phủ) (chinhphu.vn) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Government of the Socialist Republic of Vietnam (Cổng Thông tin điện tử Chính phủ) (chinhphu.vn).",
+  "license": {
+    "spdx": "LicenseRef-VN-IP-Law-Art15-2",
+    "Grouping": "Public Domain",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/VN",
+    "note": "Official publication (chinhphu.vn); Socialist Republic of Vietnam Law on Intellectual Property (No. 50/2005/QH11, as amended) Art. 15(2) (documents of state agencies, political organizations, and armed forces units in the domain of state management — including administrative documents and Prime Ministerial Decisions — and their official translations are not covered by copyright protection).",
+    "notes": "Official publication (chinhphu.vn); Socialist Republic of Vietnam Law on Intellectual Property (No. 50/2005/QH11, as amended) Art. 15(2) (documents of state agencies, political organizations, and armed forces units in the domain of state management — including administrative documents and Prime Ministerial Decisions — and their official translations are not covered by copyright protection)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=202565",
+    "textUsed": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2021/01/127.signed.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2021-01-26",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tesseract-ocr (vie) + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Discovered primary PDF (https://datafiles.chinhphu.vn/cpp/files/vbpq/2021/01/127.signed.pdf) from landing page (https://web.archive.org/web/20260205043801id_/https://vanban.chinhphu.vn/default.aspx?pageid=27160&docid=202565); extracted 14-page PDF via PyMuPDF + Tesseract OCR (vie) (28,774 chars). Parsed 31 sections (30 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tesseract-ocr (vie) + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

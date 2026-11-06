@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/nca.gov.sa/national-cybersecurity-strategy@2020",
+  "name": "National Cybersecurity Strategy (2020)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2020",
+  "publication_id": "national-cybersecurity-strategy-2020",
+  "owner": "الهيئة الوطنية للأمن السيبراني / National Cybersecurity Authority (NCA)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "National Cybersecurity Strategy of the Kingdom of Saudi Arabia (December 2020). National Cybersecurity Strategy of the Kingdom of Saudi Arabia issued by the National Cybersecurity Authority (NCA), structured around six strategic objectives towards a 'safe and reliable Saudi cyberspace that enables growth and prosperity' under Saudi Vision 2030.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by الهيئة الوطنية للأمن السيبراني / National Cybersecurity Authority (NCA) (nca.gov.sa) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for الهيئة الوطنية للأمن السيبراني / National Cybersecurity Authority (NCA) (nca.gov.sa).",
+  "license": {
+    "spdx": "LicenseRef-SA-NCA-Open-TLP-White",
+    "Grouping": "Government-Work",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/SA",
+    "note": "Kingdom of Saudi Arabia National Cybersecurity Authority (NCA) official publication ('Sharing Notice: White | Document Classification: Open' — unrestricted public sharing) and Saudi Copyright Law (Royal Decree No. M/41) Art. 4(1).",
+    "notes": "Kingdom of Saudi Arabia National Cybersecurity Authority (NCA) official publication ('Sharing Notice: White | Document Classification: Open' — unrestricted public sharing) and Saudi Copyright Law (Royal Decree No. M/41) Art. 4(1)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://cdn.nca.gov.sa/api/files/public/upload/b2bf9688-b7d1-4cd2-8e40-d075612a2323_national_cybersecurity_strategy-en.pdf",
+    "textUsed": "https://cdn.nca.gov.sa/api/files/public/upload/b2bf9688-b7d1-4cd2-8e40-d075612a2323_national_cybersecurity_strategy-en.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2020-12-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 23-page PDF (https://cdn.nca.gov.sa/api/files/public/upload/b2bf9688-b7d1-4cd2-8e40-d075612a2323_national_cybersecurity_strategy-en.pdf) locally via PyMuPDF (32,083 chars). Parsed 17 sections (2 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/cscouncil.gov.mn/national-cybersecurity-strategy-of-mongolia@2022",
+  "name": "National Cybersecurity Strategy of Mongolia (2022–2027)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2022",
+  "publication_id": "national-cybersecurity-strategy-of-mongolia-2022",
+  "owner": "Cyber Security Council & Parliament of Mongolia",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "National Cybersecurity Strategy of Mongolia (2022–2027)",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Cyber Security Council & Parliament of Mongolia (cscouncil.gov.mn) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Cyber Security Council & Parliament of Mongolia (cscouncil.gov.mn).",
+  "license": {
+    "spdx": "LicenseRef-MN-Copyright-2021-Art8",
+    "Grouping": "Public Domain",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/MN",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (cscouncil.gov.mn) is governed by Law of Mongolia on Copyright (2021) Art. 8.1.1 (laws, legislative acts, State Great Khural resolutions, and other official documents of a legislative, administrative, or judicial nature and their official translations are not protected by copyright).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (cscouncil.gov.mn) is governed by Law of Mongolia on Copyright (2021) Art. 8.1.1 (laws, legislative acts, State Great Khural resolutions, and other official documents of a legislative, administrative, or judicial nature and their official translations are not protected by copyright)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://cscouncil.gov.mn/",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2022-11-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/cscouncil.gov.mn/national-cybersecurity-strategy-of-mongolia@2022 (https://cscouncil.gov.mn/) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

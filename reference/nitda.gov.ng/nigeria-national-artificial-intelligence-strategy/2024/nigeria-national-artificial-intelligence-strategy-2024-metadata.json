@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/nitda.gov.ng/nigeria-national-artificial-intelligence-strategy@2024",
+  "name": "Nigeria National Artificial Intelligence Strategy (NAIS) (2024)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2024",
+  "publication_id": "nigeria-national-artificial-intelligence-strategy-2024",
+  "owner": "National Information Technology Development Agency (NITDA) & Office of the National Security Adviser (Nigeria)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Nigeria National Artificial Intelligence Strategy (NAIS)",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by National Information Technology Development Agency (NITDA) & Office of the National Security Adviser (Nigeria) (nitda.gov.ng) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for National Information Technology Development Agency (NITDA) & Office of the National Security Adviser (Nigeria) (nitda.gov.ng).",
+  "license": {
+    "spdx": "LicenseRef-NG-Copyright-2022-Sec28",
+    "Grouping": "Government-Work",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/NG",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (nitda.gov.ng) is governed by Federal Republic of Nigeria Copyright Act, 2022 (Act No. 8 of 2023) Sec. 28 (Government copyright in works made under the direction or control of the Government or a state authority).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (nitda.gov.ng) is governed by Federal Republic of Nigeria Copyright Act, 2022 (Act No. 8 of 2023) Sec. 28 (Government copyright in works made under the direction or control of the Government or a state authority)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://nitda.gov.ng/",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2024-08-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/nitda.gov.ng/nigeria-national-artificial-intelligence-strategy@2024 (https://nitda.gov.ng/) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

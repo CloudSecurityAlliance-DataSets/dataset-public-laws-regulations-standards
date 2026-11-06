@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/aig.gob.pa/estrategia-nacional-ciberseguridad@2013",
+  "name": "Estrategia Nacional de Seguridad Cibernética y Protección de Infraestructuras Críticas (2013)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2013",
+  "publication_id": "estrategia-nacional-ciberseguridad-2013",
+  "owner": "Autoridad Nacional para la Innovación Gubernamental de Panamá",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Estrategia Nacional de Seguridad Cibernética y Protección de Infraestructuras Críticas (Resolución de Gabinete N° 54, Gaceta Oficial N° 27289-A, May 17, 2013).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Autoridad Nacional para la Innovación Gubernamental de Panamá (aig.gob.pa) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Autoridad Nacional para la Innovación Gubernamental de Panamá (aig.gob.pa).",
+  "license": {
+    "spdx": "LicenseRef-PA-Law64-2012-Art9",
+    "Grouping": "Public Domain",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/PA",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (aig.gob.pa) is governed by Republic of Panama Law No. 64 of October 10, 2012 on Copyright and Neighboring Rights Art. 9(2) (official texts of a legislative, administrative or judicial nature, and their official translations, are not protected by copyright).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (aig.gob.pa) is governed by Republic of Panama Law No. 64 of October 10, 2012 on Copyright and Neighboring Rights Art. 9(2) (official texts of a legislative, administrative or judicial nature, and their official translations, are not protected by copyright)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.itu.int/en/ITU-D/Cybersecurity/Documents/National_Strategies_Repository/Panama%20Estrategia_Nacional_de_Seguridad_Cibernetica_y_Proteccion_de_Infraestructuras_Criticas.pdf",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2013-05-17",
+    "active": false,
+    "supersedes": null,
+    "supersededBy": "secid:reference/aig.gob.pa/estrategia-nacional-ciberseguridad@2021-2024",
+    "retiredFromActiveUse": "2021-10-01",
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/aig.gob.pa/estrategia-nacional-ciberseguridad@2013 (https://www.itu.int/en/ITU-D/Cybersecurity/Documents/National_Strategies_Repository/Panama%20Estrategia_Nacional_de_Seguridad_Cibernetica_y_Proteccion_de_Infraestructuras_Criticas.pdf) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

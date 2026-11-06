@@ -1,0 +1,583 @@
+# National Security Policy of Pakistan (2022–2026)
+
+This material may not be copied, reproduced or transmitted in whole or in part without attribution to the Government of Pakistan.
+
+Copyright © National Security Division 2022
+
+TABLE OF CONTENTS
+
+MESSAGE BY THE PRIME MINISTER...................................................... i MESSAGE BY THE NATIONAL SECURITY ADVISER........................... ii ACKNOWLEDGEMENTS...........................................................................iii IMPORTANT TERMS................................................................................... v EXECUTIVE SUMMARY............................................................................. vi I. POLICY FORMULATION.........................................................................1
+
+The Need............................................................................................................................2
+
+The Process........................................................................................................................2
+
+Periodic Review of National Security Policy................................................................3
+
+II. NATIONAL SECURITY FRAMEWORK................................................ 5
+
+National Security Vision..................................................................................................6
+
+Conceptualising National Security.................................................................................6
+
+Principles of Policy Implementation.............................................................................8
+
+III. NATIONAL COHESION...................................................................... 11
+
+Opportunities and Challenges..................................................................................... 12
+
+Policy Guidelines............................................................................................................ 13
+
+IV. SECURING OUR ECONOMIC FUTURE............................................15
+
+Opportunities and Challenges..................................................................................... 16
+
+Policy Guidelines............................................................................................................ 20
+
+V. DEFENCE AND TERRITORIAL INTEGRITY....................................23
+
+Opportunities and Challenges..................................................................................... 24
+
+Policy Guidelines............................................................................................................ 26
+
+VI. INTERNAL SECURITY.........................................................................29
+
+Opportunities and Challenges..................................................................................... 30
+
+Policy Guidelines............................................................................................................ 31
+
+VII. FOREIGN POLICY IN A CHANGING WORLD...............................33
+
+Opportunities and Challenges..................................................................................... 34
+
+External Context............................................................................................................ 35
+
+Policy Guidelines............................................................................................................ 40
+
+VIII. HUMAN SECURITY...........................................................................43
+
+Opportunities and Challenges..................................................................................... 44
+
+Policy Guidelines............................................................................................................ 46
+
+CONCLUSION.............................................................................................48
+
+## PRIME MINISTER
+
+Bold visions and big ideas lie at the heart of human progress and prosperity. Policies that encapsulate these contribute towards galvanising national sentiments in line with the vision and goals a nation sets for itself. Pakistan’s first comprehensive National Security Policy is an important milestone in this respect.
+
+The National Security Policy 2022-2026 centres on my government’s vision, which believes that the security of Pakistan rests in the security of its citizens. This citizencentric approach to national security prioritises national cohesion and the prosperity of people, while guaranteeing fundamental rights and social justice without discrimination.
+
+Realising the symbiotic relationship between economic, human, and traditional security is now imperative for Pakistan’s long-term development. Domestic stability and regional peace based on mutual co-existence, regional connectivity, and shared prosperity are essential prerequisites to optimising national security. Moreover, to achieve the vast potential of our citizens, it is necessary to promote delivery-based good governance through strengthening of institutions, rule of law, transparency, accountability, and openness.
+
+This National Security Policy contains our boldly defined and clearly articulated goals as a self-respecting, sovereign, and inclusive state. I am confident that effective implementation of this Policy will contribute immensely to our country’s economic security, human welfare on the lines of Riasat-e-Medina, and a stronger defence capability.
+
+## NATIONAL SECURITY ADVISER
+
+Pakistan’s approach to national security is broad, proactive, and resolute and aims to ensure the security of our most vulnerable citizens. Rather than being set in an archaic guns versus butter debate, our national security thinking seeks to identify means of expanding economic resources such that Pakistan can simultaneously strengthen its traditional and non-traditional security. The most prudent approach is to keep economic security at the core, and judiciously transfer the dividends of a strong economy to further strengthen our defence and human security. This is the vision that the National Security Policy strives to pursue.
+
+Cognizant of Pakistan’s complex security requirements, the National Security Policy adopts a directional tone, providing strategic guidance on priority areas for policy action while identifying opportunities for and challenges to our national security in the medium and long term. The Policy conveys a clear and bold vision, emphasising a geo-economic paradigm that supplements our geo-strategic approach, laying down a broad roadmap on how to actualise the chosen path.
+
+Like all such guiding documents, the National Security Policy is aspirational in some respects. One of the key focus areas for policymakers must therefore be to bridge the gap between the ambition and reality of attaining comprehensive national security in the shortest possible time period. Ensuring this will be an important benchmark of success of the Policy.
+
+As drafters of the first National Security Policy, my team and I wish to thank the Prime Minister and the broader civil and military leadership for their constant support to the effort. Besides the National Security Division, current and former officials from many other parts of the government worked diligently to mature the National Security Policy document over the years. I wish to recognise each one of them for their contribution.
+
+## ACKNOWLEDGEMENTS
+
+The National Security Policy 2022-2026 is the fruition of a devoted ambition towards servicing Pakistan with a guiding national security vision. Years of dedicated work and numerous consultations have resulted in the formulation of a document we hope the people of Pakistan will take pride in.
+
+This achievement would not have been possible without the support of multiple individuals and offices. At the outset, we are thankful to the Prime Minister for his constant leadership. His guidance and vision were crucial for steering the policy process. We would also like to thank Federal Ministers, Chief Ministers, and governments of Gilgit-Baltistan and Azad Jammu and Kashmir for their constant support, as well as all other civilian and military stakeholders for providing valuable input throughout the process. Their participation and productive engagement helped coalesce varied views on national security.
+
+We would also like to thank our in-house experts of the Strategic Policy Planning Cell (SPPC) at the National Security Division (NSD), who spearheaded the process of collating input from all stakeholders and drafting a final cohesive policy document. The SPPC team also undertook tireless efforts in engaging independent experts across Pakistan in multiple rounds of consultations. In particular, we would like to thank and congratulate Syed Hassan Akbar, Senior Policy Specialist on Traditional Security, for taking the lead in the policy drafting process.
+
+The officers of the NSD deserve our utmost gratitude for steering numerous inter-ministerial consultations and providing administrative support to this entire effort. Yet, these acknowledgements will be incomplete without recognising the efforts of the former leadership of the NSD, particularly the former National Security Advisers and Secretaries.
+
+It is also important to acknowledge the contribution and input of NSD’s Advisory Board, academic institutions, particularly the National Defence University, think tank experts, independent analysts, ulema, university students, and the broader civil society from across Pakistan. Throughout the formulation process, the NSD reached out to these essential stakeholders to make the policy document inclusive.
+
+Finally, the National Security Policy is dedicated to its prime audience: the citizens of Pakistan. The Policy links the security of Pakistan with the economic and social well-being of its people. The spirit, passion, and resilience of the people of Pakistan have been decisive in facing national challenges. The National Security Policy seeks to strengthen this spirit.
+
+Dr. Moeed W. Yusuf Eng. Aamir Hasan
+
+National Security Adviser Secretary, National Security Division
+
+## IMPORTANT TERMS
+
+### National Security Policy
+
+Articulates Pakistan’s national security vision, interests, and priorities while providing a detailed implementation framework.
+
+### Comprehensive National Security
+
+A conception of security that recognises that traditional and non-traditional threats and opportunities together impinge on overall national security. Comprehensive national security forms the core of Pakistan’s security vision going forward.
+
+### National Security Framework
+
+Outlines the conceptual elements of Pakistan’s vision for comprehensive national security.
+
+### Vital National Security Interests
+
+Interests that are essential for the integrity and security of Pakistan.
+
+### Critical Enabling Factors
+
+Factors that reinforce and support the fulfillment of vital national interests.
+
+### Principles of Policy Implementation
+
+Overarching principles that reflect the state’s general approach towards policy and guide the implementation of the National Security Policy.
+
+## EXECUTIVE SUMMARY
+
+The National Security Policy 2022-2026 is Pakistan’s first national security policy document. It seeks to co-locate Pakistan in emerging global trends and identifies policy objectives and priority areas where Pakistan should invest its national resources to ensure the most beneficial outcomes.
+
+The Policy articulates a citizen-centric ‘Comprehensive National Security’ framework for Pakistan whose ultimate purpose is to ensure the safety, security, dignity, and prosperity of our people. It recognises both traditional and non-traditional security aspects that impinge on our national security. The Policy places economic security at the core of comprehensive national security, emphasising a geo-economic vision to supplement the focus on geo-strategy, and recognises that sustainable and inclusive economic growth is needed to expand our national resource pie. This will in turn allow greater availability of resources to bolster traditional and human security. Appreciating this symbiotic relationship between economic, traditional, and human security allows the articulation of holistic policy actions that will prepare Pakistan to optimise national security outcomes in the coming decades.
+
+The Policy captures ongoing trends in the changing world order and their implications for Pakistan. The emergence of multiple centres of economic and military power and a move towards a multipolar world are key features of the contemporary global landscape. Pakistan’s location at the cross-roads of historic confluence and regional flashpoints provides unique opportunities amidst global competition for power. The policy guidance in the document emphasises a proactive, forward-looking approach for Pakistan’s policy makers. It recognises that a static or reactive outlook in a fluid global environment can have negative consequences and affect not only Pakistan’s external relations but also its internal security and societal harmony.
+
+This public version of the National Security Policy is meant to provide an insight into the overall vision and direction of the country’s national security. Major opportunities and challenges as well as policy objectives for each significant aspect of national security are described briefly. Specific details and analyses of the security landscape, the country’s vital national security interests, priority actions, and implementation framework have not been included in this document.
+
+The document contains eight sections. After explaining the policy formulation process in Section I, conceptual elements of Pakistan’s national security framework are explained in Section II. Six thematic sections follow, each of which provides an assessment of the context and Pakistan’s desired goals and objectives in the particular area of national security covered in the respective sections. Section III on ‘National Cohesion’ examines preservation of ideology and culture, ensuring unity and stability, and making public service responsive to the needs of citizens. Section IV, titled ‘Securing Our Economic Future’, focuses on economic security, specifically discussing the economy, trade, energy, education and human resource, and emerging technologies. Section V, titled ‘Defence and Territorial Integrity’, provides policy guidelines for ensuring defence, deterrence, and territorial integrity, and space and cyber security. Section VI focuses on ‘Internal Security’ and examines challenges of terrorism, violent sub-nationalisms, extremism and sectarianism, and organized crime. Section VII on ‘Foreign Policy in a Changing World’ assesses global realignments, Pakistan’s key bilateral and multilateral relationships, and our overall approach towards diplomacy. Finally, Section VIII, titled ‘Human Security’, examines population and migration, health security, climate and water security, food security, and gender security.
+
+The National Security Policy has been framed after seven years of diligent and rigorous analysis and consultations led by the National Security Division. Yet, the Policy document will continue to evolve to reflect emerging challenges to Pakistan’s security while providing guidelines to mitigate threats and avail new opportunities to make our country even more secure and prosperous. This public document will contribute to the Policy’s evolution by generating an intellectual debate on the notion of comprehensive national security, on which Pakistan’s future security vision is centered. It will complement the National Security Policy’s recommendation for a dedicated political discourse to develop a broad consensus on national security that transcends political differences and is not affected by changes in the national political space.
+
+## SECTION I: POLICY FORMULATION POLICY FORMULATION
+
+### The Need
+
+The conception of national security has evolved over time. Many countries have worked towards integrating defence capabilities with their economic and societal capacities to leverage national power potentials. In Pakistan, successive governments have articulated distinct policies on internal security, foreign policy, defence modernisation and indigenisation, economic growth and development, food security, and climate change, among others. These policies have contributed to enhancing Pakistan’s security in their respective domains.
+
+Yet, Pakistan has lacked a comprehensive security policy that brings traditional and non-traditional strands of security under one umbrella document to provide overarching direction and guidance. The National Security Policy has been envisioned to fill this void, thereby allowing Pakistan to optimally leverage varied elements of national power. Overtime, sectoral policies of strategic nature will link up with the vision of the National Security Policy to actualise the overall national security outlook and direction chosen by the country’s leadership.
+
+### The Process
+
+The process of formulating the National Security Policy began in 2014. Throughout the process, multiple rounds of consultations were held with official stakeholders, including all federal ministries and divisions, provincial governments, governments of Gilgit-Baltistan and Azad Jammu and Kashmir, and military institutions. Input was also sought from intelligentsia and citizens. Salient features of the National Security Division’s (NSD) consultations with over 120 experts through thematic working groups under its Council of Experts were incorporated in the Policy document. In 2021, online and in-person consultations were also held with over 500 specialists and civil society members, including university students representing the views of the country’s future generation. At the tail end of the finalisation process, open hearings on the key contours of the Policy were held in public and private universities. While extensive consultations have meant a long gestation period for this document, the fact that the National Security Policy includes buy-in from all official stakeholders will be crucial in ensuring the sustainability of its recommendations.
+
+### Periodic Review of National Security Policy
+
+Recognising the need for flexibility in a global and national security landscape marked by fluidity, the National Security Policy is envisioned for a period of five years. Under the guidance of the National Security Committee (NSC), and in coordination with the Office of the National Security Adviser, the NSD will review and recommend updates to the Policy on a yearly basis, when a new government is formed, or in case of a major event that has far reaching implications for Pakistan’s security. This will ensure that significant developments are accorded necessary attention and policy priorities of any new government are adequately reflected.
+
+The NSD is responsible for monitoring the implementation of the National Security Policy. Its effective and efficient implementation will require a well-coordinated whole-of-government approach. In working with all relevant stakeholders to prioritise actions and pursue implementation plans, the NSD will ensure that existing structures for coordination are used optimally and strengthened further.
+
+## SECTION II: NATIONAL SECURITY FRAMEWORK NATIONAL SECURITY FRAMEWORK
+
+A country is as secure as its most vulnerable citizen. The safety, security, dignity, and prosperity of citizens in all their manifestations will remain the ultimate purpose of Pakistan’s national security.
+
+### National Security Vision
+
+Pakistan is envisioned as an Islamic welfare state, internationally relevant and aligned with universal principles of justice, equality, and tolerance. Seeking a peaceful neighbourhood based on mutual co-existence, regional connectivity, and shared prosperity. A secure and economically resilient Pakistan, empowered by diversity of culture, and demographic dividends while ensuring fundamental rights and social justice without discrimination on the basis of caste, creed, or belief. Promoting good governance through strengthening of institutions, transparency, accountability, and openness as articles of faith.
+
+### Conceptualising National Security
+
+The ultimate purpose of national security must be to ensure citizens’ safety, security, dignity, and prosperity. The national security framework presented in this document conceptualises the elements of policy necessary to achieve this objective by introducing the concept of comprehensive national security. It recognises the interconnectedness of traditional and non-traditional elements of national security and proposes a whole-of-government approach to charting a cohesive, unified, and responsive security policy for the coming decades. While traditional security focuses on defence, territorial integrity, internal security, and diplomacy, non-traditional security comprises broader elements that impinge on a country’s economic health and citizen well-being.
+
+Pakistan is navigating myriad national security challenges amidst a changing world order. The nation’s resolute response to internal and external threats has helped Pakistan overcome many of these challenges in our recent past. However, during this period, traditional security imperatives have been compounded by emerging non-traditional security challenges. Terrorism and growing conventional force differential in the region have heightened threat perceptions. Equally, economic vulnerability, deficits in public service delivery for a growing population, natural disasters, and a pandemic have demonstrated that Pakistan’s national security is increasingly predicated on all aspects of governance that impact the lives of citizens. A holistic understanding of national security, one that encapsulates the entire spectrum of comprehensive national security, is necessary to create sustainable solutions for Pakistan.
+
+Pakistan is committed to safeguarding its sovereignty in all its manifestations by ensuring national cohesion and harmony, preserving territorial integrity, enhancing economic independence, and ensuring the writ of the state. Our guiding principle for national cohesion and harmony will remain ‘unity in diversity’. Territorial integrity in land, air, and sea, as well as the space and cyber domains will be achieved through defence, deterrence, astute diplomacy, and the building of robust space and cyber capabilities. Sustainable and inclusive economic growth will lead to the prosperity of citizens. Protection of the fundamental rights of all citizens as enshrined in the Constitution will be guaranteed by ensuring rule of law.
+
+Pakistan’s vital national security interests are best served by placing economic security as the core element of national security. The country’s security imperatives in the next decade will be driven by the need to realise its economic potential while ensuring national cohesion, territorial integrity, internal security, and citizen welfare.
+
+In the context of comprehensive national security, achieving economic security is predicated on an expanding national resource pie and a redistributive model that can transfer the benefits of greater availability of resources to human welfare. Sustainable and inclusive economic growth that expands Pakistan’s global economic footprint, reduces external economic dependency, and allows Pakistan to better leverage its resultant economic clout will also ensure our traditional security requirements are adequately resourced.
+
+The challenge before us is to move away from the traditional guns versus butter debate, instead recognising that traditional and non-traditional aspects of national security must be linked through a symbiotic relationship.
+
+Figure 1: Symbiotic Relationship Between Traditional and Non-Traditional Security
+
+The sustained macro-economic stability needed for economic security is linked to two interconnected elements. First, through a development and growth orientation, regeneration of economic activity and domestic investment is achieved. Second, through an export, investment, and connectivity focus, opportunities for economic growth through greater inflow of external resources and the consequent improvement in the country’s external imbalance are created. Pakistan is already focusing on both these elements of economic security through dedicated programmes and strategies. What is envisioned here is also a psychological shift in the national approach that truly recognises the imperative of further enhancing economic security in the medium term to ensure comprehensive security in the long term.
+
+### Principles of Policy Implementation
+
+The National Security Policy outlines principles that inform both the formulation of policy and its implementation. These are:
+
+Whole-of-Government Approach
+
+Turning Pakistan’s national security challenges into opportunities requires a wholeof-government approach where all organs of the state work in close coordination to tackle increasingly complex and cross-cutting issues. Breaking silos and moving towards inter-departmental synergy is necessary to meet evolving requirements of comprehensive national security. This would invariably require a review of current coordination mechanisms and removing any barriers while incentivising collaboration to achieve overall objectives.
+
+Inclusivity
+
+Policies on matters of national importance and their implementation should always remain inclusive of the opinions and concerns of all segments of society. Inclusive policy formation generates a positive state-citizen connection and makes government policy responsive. This requires that all elements of national power, including government institutions and departments, private enterprises, and civil society, be channeled towards the fulfilment of Pakistan’s vital national security interests.
+
+Self-confidence and Resolve
+
+Our resilience as a nation rests in the resolve of our people against internal and external challenges. Pakistan’s actions must continue to demonstrate confidence in the capabilities of our state institutions and people. A strong and healthy state-citizen relationship is a prerequisite for nourishing this confidence. All efforts must be made to sustain and strengthen this bond so that no amount of external coercion or challenges bend our national resolve. Pursing our vital national security interests unapologetically will be a cornerstone of our approach to the world.
+
+Introspection and Pragmatism
+
+Successful policy requires a culture of introspection that is open to re-examining existing approaches to national security. This introspection must be coupled with a pragmatic approach that privileges national interests over emotive policy making. Pakistan’s approach to national security decision making will remain introspective and pragmatic for the furtherance of our vital national security interests.
+
+Proactiveness
+
+In a fluid global environment, fast-changing geo-political realities will inevitably throw up new opportunities and challenges. Through an approach guided by long-term strategic thinking and planning, Pakistan will proactively identify and capitalise on these opportunities and mitigate any threats.
+
+Prioritisation
+
+As a populous and dynamic country positioned in an economically and strategically relevant region, Pakistan faces innumerable internal and external factors that impact its security. The National Security Policy recognises that security and continued prosperity of Pakistan requires a graduated approach. It prioritises policy interventions deemed to have the greatest impact on the vital national security interests of Pakistan.
+
+Consistency
+
+Pakistan requires policy continuity to navigate evolving challenges and turn them into opportunities. The country can ill-afford policy reversals or changing interest in the implementation of agreed major policy directions. Policy continuity should be ensured through democratic processes. The National Security Policy recognises this and proposes dedicated strategies to create broad consensus on important national security issues that should not be affected by political differences.
+
+## SECTION III: NATIONAL COHESION NATIONAL COHESION
+
+An Islamic Republic based on the principles of equality and justice, empowered by diversity of culture, ensuring fundamental rights and social justice without discrimination, and delivering on its social contract with its people through good governance to strengthen national esteem and cohesion.
+
+### Opportunities and Challenges
+
+Identity and Culture
+
+Pakistan’s ideology as enshrined in the Constitution and our diverse culture inform the identity of our citizens and provide them with a sense of pride and national esteem. It is imperative that we reinforce our coherent national identity based on the principle of unity in diversity. Divisive discourse around ethnic, religious, and social differences is a concern, exacerbated by disruptive external support that aims to undermine national cohesion and incite disharmony on issues of identity. These have not succeeded due to untiring efforts by the state and citizens. Continuous and dedicated efforts will be made through an approach centered on cherishing the diversity of Pakistan, inculcating tolerance, and promoting national cohesion through educational and cultural institutions and an inclusive national discourse.
+
+Socio-Economic Inequalities
+
+Socio-economic inequalities make cohesion more challenging by exacerbating societal fault lines. Addressing these inequalities plays a direct role in strengthening national cohesion. Since the early 2000s, Pakistan has made significant gains in poverty alleviation, reducing poverty by more than half. However, as a developing country, greater effort to further address socio-economic inequalities between the haves and have-nots is essential for fostering national cohesion. This requires further strengthening welfare-focused social funds, dedicated efforts to create employment opportunities for the small and medium enterprise sector, and addressing distortions created by the gap between the formal and informal economy. Equally, geographical disparities exist across Pakistan in terms of key development indicators. Despite efforts by successive governments to address these inequities, affirmative action is required for additional resource allocation and dedicated development projects in far flung areas to erase any sense of deprivation and counter narratives that seek to exploit differences between developed and under-developed regions.
+
+Governance and Institutional Capacity
+
+Good governance strengthens the state-citizen bond, fosters citizen contentment, and helps bring the society together. Existing administrative reforms are geared towards enhancing the capacity of the public sector to deliver according to modern requirements. Enhanced federal-provincial, inter-provincial, and inter-departmental coordination will allow tackling increasingly complex issues that are often cross-cutting in nature. Similarly, regularly upgrading and reforming procedures will ensure better coordination among institutions and delivery of public services under new realities. Initiatives such as citizen complaint portals, digitisation of land records, and steps towards e-governance are opportunities that require continuity. Devolution of ministries has shifted the burden of delivering the majority of public services to Pakistan’s federating units. This requires further strengthening coordination mechanisms such as the Ministry of Inter-Provincial Coordination, Council of Common Interests, National Finance Commission, and National Economic Council, among others. Existing division of responsibilities between provincial and local governments can be improved through more empowered and responsive governance at district and lower levels.
+
+### Policy Guidelines
+
+Preserving our Identity
+
+Preservation of the Islamic character as enshrined in the Constitution and our diverse cultural heritage.
+
+Policy Objectives: Foster patriotism and social cohesion through national values and ethnic, religious, cultural and linguistic diversity. Promote interfaith harmony and minority rights, and intellectual expression and thought based on openness and equal opportunities irrespective of caste, creed, religion, gender, or socio-economic standing.
+
+Ensuring Unity and Stability
+
+A strong Federation through democratic strengthening, political stability, consistent policies, and consensus on issues of national importance.
+
+Policy Objectives: Strengthen the federal nature of Pakistan’s structure by adhering to democratic principles. Ensure harmony among federating units and the territories of Gilgit-Baltistan and Azad Jammu and Kashmir through prudent policy implementation at all levels. Promote and strengthen mutual cooperation among all levels of the federal structure to guide our approach and efforts.
+
+Making Public Service Responsive
+
+A responsive and efficient public sector geared towards meeting demands of citizens in the twentyfirst century, especially through focusing on devolution to the local levels and e-governance.
+
+Policy Objectives: Good governance to strengthen the state-citizen contract by ensuring timely, equitable, and effective delivery of public services. Promote devolution down to the local levels. Ensure transparency and accountability, including through e-governance.
+
+## SECTION IV: SECURING OUR ECONOMIC FUTURE SECURING OUR ECONOMIC FUTURE
+
+Achieve economic security and sovereignty through sustainable growth, inclusive development, and financial solvency.
+
+### Opportunities and Challenges
+
+The economic security dimension of the National Security Policy focuses primarily on reducing three challenges for national security emanating from the economic sphere: external imbalance, vertical inequalities, and horizontal inequalities.
+
+External Imbalance
+
+This imbalance emanates from consistently higher foreign exchange outflows as compared to inflows. In order to exercise the full spectrum of sovereign choice in both domestic development objectives and international affairs, addressing the issue of external imbalance is essential. Long-term sustainability depends in large part on Pakistan’s ability to correct its current account deficit. This will primarily be achieved through a dedicated focus on export growth and export-oriented foreign direct investment enabled by ease of doing business, as well as increasing foreign remittances. Equally, ensuring a manageable fiscal deficit through a consistent increase in government revenues requires continued focus on tax reforms.
+
+Vertical Inequalities
+
+The first axis of inequity is socio-economic inequality manifested in the gap between the rich and the poor. Such inequality, which can be a result of market forces or inequitable economic policies, can have a disruptive effect by way of social unrest and political instability. Equitable economic development is therefore a national security priority which will be pursued by preventing elite capture of policy, removing barriers and expanding opportunities for low-income households, and providing access to entrepreneurship and ownership. At the same time, the most vulnerable citizens will continue to be provided direct support to ensure their social security. Existing programmes such as Ehsaas and Panah Gah, among others, will be further strengthened to ensure this. Policies designed to promote equity will enhance social cohesion and reduce internal conflicts in the long term, while automatically strengthening the human security pillar of comprehensive national security.
+
+Horizontal Inequalities
+
+Removing disparities in economic development between various regions of the country is also a key national security priority. Disparities in prosperity and opportunity between regions have been used by sub-nationalist elements to generate a narrative of grievance based on under-development in their regions. These inequalities have also precipitated growing migration to urban centres, created imbalances in local economies, and directly affected livelihoods. The South Balochistan, Sindh, and Gilgit-Baltistan development packages, along with increased allocation for Newly Merged Districts of Khyber Pakhtunkhwa, are aimed at addressing these horizontal inequities. Continued effort to balance public sector financial allocations to meet the needs of under-developed regions will be pursued to ensure sustainable and equitable development in the long term.
+
+Keeping in view the goals of reducing external economic imbalance and vertical and horizontal inequalities, the following discussion focuses on sectoral opportunities and challenges that directly impact these three dimensions.
+
+Growth and Development
+
+Sustainable growth and inclusive development are hallmarks of a secure nation. A healthy economy assures availability of required resources for livelihoods of citizens. Pakistan’s economic resilience is demonstrated by a positive growth trajectory and vibrant economy despite political uncertainty and security challenges. However, with approximately 2 million new entrants to the workforce each year, Pakistan requires consistently high growth to ensure employment opportunities commensurate with their education levels and skills. Equally, achieving sustained growth requires raising the savings rate through improved banking footprint and access to an expanded set of financial services. In addition, increasing productivity of the agricultural and industrial sectors, and information technology and enabled services must be a medium to long-term goal. In the agriculture sector, improving the value chain by bridging the gap between farmers and consumers through reducing the role of intermediaries will help increase production, result in higher returns for farmers, and lower commodity prices. Consolidating industry by encouraging scale and value addition will help spur economic growth and exports. Information technology and enabled servcies along with the provision of digital connectivity will help augment
+
+Pakistan’s economic output and open new avenues for exports. Policy continuity is essential for achieving our sustainable growth and development objectives. This would benefit from consensus on the economy that cuts across political differences and promotes guiding principles for long-term economic planning.
+
+Trade, Investment and Connectivity
+
+As Pakistan supplements its geo-strategic focus with an added emphasis on geoeconomics, it envisions itself as a melting pot of global economic interests offering economic bases to its partner countries for development partnerships. A dedicated economic outreach initiative focuses on bilateral and multilateral engagement with the aim of increasing Pakistan’s exports, especially by widening our export base to include services and non-traditional goods, and building win-win relationships in trade and investment. Pakistan’s prized geo-economic location provides a unique opportunity through north-south and east-west connectivity for South and Central Asia, the Middle East, and Africa. Westward connectivity is also a significant driver for Pakistan’s continued push for regional peace and stability in Afghanistan, which is ever more important given that eastward connectivity is held hostage to India’s regressive approach. The China Pakistan Economic Corridor and other connectivity initiatives provide an opportunity to expand our export and industrial base while building rewarding economic relationships in our wider region. Equally, Pakistan’s vast Exclusive Economic Zone and coastline present unexplored opportunities for trade connectivity, natural resource exploration, and wealth generation. A comprehensive maritime policy will be developed to optimise the blue economy of Pakistan by tapping the economic potential of the maritime sector with special focus on transshipment, ship construction, offshore exploration, ports infrastructure, fishing, coastal tourism, and other maritime industries.
+
+Fiscal Management
+
+Sustained fiscal deficits have resulted in mounting public debt. Given the need for balancing our requirement for consistent growth with maintaining solvency, efforts are being directed to ensure that public debt remains at a sustainable level while increasing the government’s ability to generate revenues through a transparent, responsive, and progressive tax regime. This will allow the mobilisation of sufficient revenues to meet Pakistan’s development needs without compromising the overall investment scenario or burdening taxpayers in a manner that affects productivity and output.
+
+Energy Security
+
+Pakistan’s energy sector has contributed to low economic output, rising costs of production, and increased burden on government funds in the form of subsidies and capacity payments. Circular debt remains a critical sectoral challenge. Our infrastructure in the renewable sector and electricity transmission requires fresh investment and upgradation. Pakistan aims to increase the share of installed capacity through renewable sources to 30 per cent by 2030. Together with prioritising investments in hydropower projects, the country’s share of clean energy should reach 60 per cent by 2030. Moving towards a market-based energy sector and improving the energy mix by emphasising sustainability and lower costs will be priority areas in the coming decades. While necessary, energy imports make energy security vulnerable to international prices and supply fluctuations. In the future, the country will maximise energy production based on indigenous resources, including through a renewed focus on indigenous onshore and offshore energy exploration. Increasing oil and gas storage capacity to meet emergency demand and provide a buffer against global energy market shocks is also necessary.
+
+Education, Technology and Innovation
+
+According to estimates, many of the existing jobs in our region will become obsolete in the coming three decades. As labour-intensive work is replaced with automation, the strength of our economy and the livelihoods of our citizens will be linked to Pakistan’s pace of technological adaptation and innovation. Ensuring employment at home and abroad for the labour force will depend on their access to quality education and skills that prepare them for a competitive global market. This requires a shift from knowledge consumption to knowledge creation through rising standards in higher education, connecting universities and vocational institutes with employers, and advanced skills training in line with market demand. Emerging technologies and their application in Artificial Intelligence (AI), data sciences, quantum computing, and automation are set to reshape the future of technology, societies, and economies. To ensure that Pakistan is a net knowledge creator in AI and its related fields, a dedicated effort towards supporting AI education, research initiatives, and start-ups will be undertaken to build sufficient public and private capacity to take Pakistan into a new technological era.
+
+Global Human Resource
+
+In addition to fulfilling local demand, which must remain the first priority, a globally competitive workforce, especially in the skilled and semi-skilled categories, will help create opportunities for citizens abroad. Pakistan is one of the most populous countries of the world and the second largest manpower exporting country in South Asia – a region projected to house one-fourth of all global labour by 2030. Greater focus on skilled and semi-skilled manpower export will contribute to even more robust and influential diaspora presence, while increasing the sustainability of remittance inflows.
+
+### Policy Guidelines
+
+Economy and Trade
+
+Ensure a prosperous and growth-oriented Pakistan that is economically vibrant and a major partner in the global economy through trade, investment, and connectivity initiatives.
+
+Policy Objectives: Promote economic policies to join the ranks of upper middleincome countries by focusing on enhanced productivity, investment, and savings, addressing the external imbalance, and astute fiscal management. Channelise Pakistan’s geo-economic location for trade and connectivity. Prioritise equitable development initiatives that focus on uplifting our most vulnerable citizens and our least developed areas.
+
+Energy Security
+
+Secure adequate cost-effective energy supplies at home and from abroad for economic growth.
+
+Policy Objectives: Reform Pakistan’s energy sector by promoting sustainable ecofriendly energy development at competitive rates proportional to the demand for energy in a growing Pakistan. Move towards a market-based energy sector, improve energy storage, and secure dependable international access to energy sources to meet future demand while prioritising indigenous energy resource development.
+
+Education Security and Global Human Resource
+
+An educated and skilled Pakistan that is globally competitive.
+
+Policy Objectives: Promote an education system that provides access to affordable quality education at the primary level, and a higher education system that is globally competitive and focused on knowledge creation, marketable skills, and science and technology.
+
+Emerging Technologies and Artificial Intelligence
+
+Prepare Pakistan for the Fourth Industrial Revolution as a knowledge creator.
+
+Policy Objectives: Usher in an era of technological innovation and focus on science, engineering, and smart technologies. Support research, development, and education systems that invest in intellectual capital, promote innovation, and support international research collaboration.
+
+## SECTION V: DEFENCE AND TERRITORIAL INTEGRITY DEFENCE AND TERRITORIAL INTEGRITY
+
+Ensure the defence and territorial integrity of Pakistan in all their manifestations.
+
+### Opportunities and Challenges
+
+Securing Our Borders
+
+The security of our land, air, and sea borders along with space and cyber domains is paramount. Pakistan is pursuing ‘open and secure borders’ with respect to ease of movement, economic activity, and linkages with overall plans for economic connectivity. The recent war against terrorism has highlighted the role of military, paramilitary, and Law Enforcement Agencies (LEAs). LEAs have taken on an expanded role in urban cities and far-flung rural areas. Focused attention will be given to the training and modernisation of our paramilitary forces to meet requirements of border security in the coming decades. Equally, Pakistan will strengthen its aviation security protocols and expand maritime surveillance of coastal areas by investing in new technologies to ensure security of airspace and the sea. Pakistan’s airspace surveillance should be guaranteed by a network of assets, and through robust communications and resilient command and control for comprehensive air and maritime situational awareness. Special attention is required to manage lingering border disputes which continue to pose security threats, particularly along the Line of Control and Working Boundary where ceasefire violations by India threaten civilian lives and property while endangering regional stability. Opportunities afforded by newly instituted border management initiatives and fencing of the western border and merger of the erstwhile Federally Administered Tribal Areas with Khyber Pakhtunkhwa must be capitalised on while securing hard-earned gains against terrorism.
+
+Conventional Military Threats
+
+With a regressive and dangerous ideology gripping the collective conscience in our immediate neighbourhood, the prospects of violent conflict have grown immensely. The possibility of use of force by the adversary as a deliberate policy choice cannot be ruled out. Pakistan is committed to defending its territorial integrity in response to any military misadventure. Requisite conventional capabilities will be ensured through astute investment in constant modernisation of our armed forces without embroiling in any arms race. In addition, indigenisation of defence production, increased capabilities in network centricity, battlefield awareness, electronic warfare capabilities, and other force multipliers will be prioritised. Gains from economic security will allow additional resources to be allocated for ensuring credibility of defence by acquiring capabilities in keeping with an expanding threat spectrum.
+
+Maritime Competition
+
+The Indian Ocean is fast becoming a space for contestation. The self-professed role of any one country as a so-called net-security provider in the wider Indian Ocean would affect the region’s security and economic interests negatively. Multi-directional challenges in the maritime domain include cyber intrusion and surveillance of our sea lines of communication along the Indian Ocean, among others. This requires a renewed focus on strengthening Pakistan’s capabilities to meet emerging challenges. Protection of our Exclusive Economic Zone, ensuring freedom of navigation, and protection against piracy will remain critically important.
+
+Strategic Stability
+
+Nuclear deterrence occupies a critical role in the security calculus of South Asia. Pakistan’s nuclear capability deters war through full spectrum deterrence within the precincts of credible minimum nuclear deterrence in concert with our conventional military capabilities and all elements of national power. The expansion of India’s nuclear triad, open-ended statements on nuclear policy, and investments in and introduction of destabilising technologies disturb the strategic balance in the region.
+
+Pakistan’s deterrence regime is vital for and aimed at regional peace.
+
+Space Security
+
+With space-based applications and activities growing at an unprecedented pace, space is emerging as a critical element of national power, one that is fast developing as the new frontier of global contestation. Space-based technology is being used widely to enable safe communications, guidance systems for stand-off weapons, advanced meteorology, navigation systems, and surveillance of adversaries. Pakistan continues to maintain a policy against the militarisation of space at international forums. However, we remain cognizant of emerging uses of space and will continue to invest in our national space program in national interest.
+
+Information and Cyber Security Threats
+
+In the information age, the security and surveillance of communications and cyber space are crucial aspects of defence. While new technologies coupled with greater internet accessibility have broadened individual freedoms and availability of information, they have also exposed citizens and governments to spyware and data theft, and infrastructure systems to cyber attacks. With information and cyber warfare posing a new dimension to our security challenges, instituting robust mechanisms to protect cyber space from malicious use are essential tools for our security. In addition, investments in cyber security of critical infrastructure are crucial for ensuring uninterrupted supply of essential services and the security of privileged information. Access to alternative sources of technologies and building domestic capacity to develop our own secure networks and hosting capabilities are needed to monitor and minimise both surveillance and cyber intrusion. Replicating best practices in tackling cyber threats will create necessary capabilities for a robust cyber security paradigm.
+
+Hybrid Warfare
+
+Hybrid warfare is an evolving concept with expanding and blurring boundaries. It has found salience in the contemporary era due to technological and information evolution. Apart from information and cyber warfare, disinformation, influence operations, lawfare, and economic coercion, among other hybrid warfare tools are increasingly being applied. Hybrid threats against Pakistan originate from states and their proxies as well as from non-state actors. Pakistan will adopt a holistic, interconnected whole-of-nation approach to neutralise attempts to undermine Pakistan’s security and stability through hybrid warfare.
+
+### Policy Guidelines
+
+Defence, Deterrence and Territorial Integrity
+
+Deter war through all elements of national power, while exercising our right to self defence if war is imposed.
+
+Policy Objectives: Defend Pakistan’s territorial integrity at all costs. Deter any aggression by maintaining a cost-effective and adaptive military focused on modernisation and optimisation of force structures to ensure adequate conventional capability and maintain full spectrum deterrence within the precincts of credible minimum nuclear deterrence, without getting involved in an arms race.
+
+Space, Information and Cyber Security
+
+Enhance space capabilities to meet emerging threats and create a whole-of-nation capacity against hybrid warfare, especially ensuring information and cyber security.
+
+Policy Objectives: Strengthen and enhance space-based technology and its application to meet future challenges. Combat disinformation and influence operations while enhancing information and cyber security, data security, and surveillance capacity. Ensure the security and privacy of government and citizen data while engaging effectively with the international technology ecosystem to secure national interests.
+
+## SECTION VI: INTERNAL SECURITY INTERNAL SECURITY
+
+A stable and secure Pakistan where citizens enjoy their constitutional privileges and are protected against violence, extremism, and crime, and where rule of law is upheld equally for all.
+
+### Opportunities and Challenges
+
+Terrorism
+
+The most acute form of efforts to undermine stability and national harmony of a society is terrorism. Pakistan pursues a policy of zero tolerance for any groups involved in terrorist activities on its soil. With national resolve and dedication, Pakistan has fought one of the most successful wars against terrorism in the past two decades. Despite this success, the threat remains. The employment of terrorism has become a preferred policy choice for hostile actors in addition to soft intrusion through various non-kinetic means. Terrorism is also being used to disrupt and delay development initiatives. Pakistan has been acknowledged globally for taking positive strides towards creating a strong financial monitoring system to prevent terror financing. The state has also undertaken special development projects in parts of the country previously affected by terrorism. Continuing this positive trajectory by strengthening police forces and associated counter-terrorism agencies, undertaking intelligence-based operations against all terrorist groups, preventing any use of financial sources for terrorism, addressing structural deficiencies and sense of deprivation in recruitment areas, and promoting a pluralistic anti-terror narrative will remain priorities for continued improvement in our internal security environment.
+
+Violent Sub-Nationalisms
+
+Fringe violent sub-nationalist tendencies have been exploited by hostile intelligence agencies that have provided support and sanctuary to subversive elements. The ideological undercurrent for violent sub-nationalisms exploits socio-economic disparities and governance gaps. Pakistan will adopt a four-pronged policy of engagement: separating reconcilables from irreconcilables; cutting off recruitment; constricting financial sources; and pursuing targeted socio-economic policies to address governance-related concerns in regions where violent sub-nationalist elements operate.
+
+Extremism and Sectarianism
+
+Pakistan is a diverse nation comprising various ethnicities, religious beliefs, sects, and languages. Extremism and radicalisation on the basis of ethnicity or religion pose a challenge to our society. The exploitation and manipulation of ethnic, religious, and sectarian lines through violent extremist ideologies cannot be allowed. Inculcating interfaith and intersectarian harmony and societal tolerance in all its forms will be prioritised. Cooperation of religious scholars from every school of thought will be elicited to expand de-radicalisation programmes and promote a united narrative against extremism. Action against those producing and disseminating hate speech and material will be swift and uncompromising.
+
+Narcotics and Organised Crime
+
+Pakistan has been declared a poppy-free country since 2001. Yet, nestled in a region that has a history of drug trade and production, narco-trafficking poses a threat to Pakistan’s international standing. It also results in the supply of drugs and harmful substances among our young demographic. Organised crime and its nexus with politics, business, and violence threaten the safety of our metropolitan cities, the environment in which businesses operate, and the robustness of our economy. Fighting these menaces with dedication and commitment is necessary to protect our citizens and ensure a safe environment for business and investment.
+
+### Policy Guidelines
+
+Securing Pakistan Internally
+
+Achieve a secure Pakistan by protecting citizens against terrorism, violent sub-nationalisms, extremism, sectarianism, and organised crime.
+
+Policy Objectives: Ensure writ of the state in all parts of the country to guarantee security of life and property of all citizens. Prioritise combatting terrorism, violent sub-nationalisms, extremism, sectarianism, and organised crime. Ensure Pakistan remains a secure destination for intellectual activity, businesses, investors, and visitors.
+
+Rule of Law
+
+Equitable and responsive justice system that upholds the rule of law for all citizens equally and impartially.
+
+Policy Objectives: Equal opportunities for all citizens to pursue their ambitions under the laws of Pakistan. Independent, expeditious, and citizen-focused justice system that preserves the rights guaranteed by the Constitution.
+
+## SECTION VII: FOREIGN POLICY IN A CHANGING WORLD FOREIGN POLICY IN A CHANGING WORLD
+
+Secure Pakistan’s interests and position in the comity of nations through political and economic diplomacy.
+
+### Opportunities and Challenges
+
+Global Realignments
+
+International politics is in an extremely fluid state. Great power competition and regional pivots are defining the race over resources and influence. Traditional regionalism that once provided an alternative mechanism for cooperation is giving way to issue-based partnerships. The pace and magnitude of change in the geopolitical arena today calls for a nuanced understanding of global developments and their implications on national security.
+
+The militarisation of the global commons is triggering a retreat of major powers from arms control treaties, investments in new military technologies at a pace not witnessed since the heyday of the Cold War, and renewed competition in military domination. While conflict is not implausible, manifestation of major interstate frictions is likely to remain below the threshold of war in most cases, resulting in the persistence of a hybrid approach to conflict. Although nascent, new cooperation mechanisms and connectivity initiatives seeking to tap unexplored markets in Eurasia and Africa will influence the shape of future economies. Innovation, technological advancement, capital accumulation, and a young workforce in some parts of the world will define the future pivots of the global economy.
+
+Foreign Policy in an Evolving World Order
+
+Pakistan has adopted a dynamic and self-confident approach to a fast-changing world order. This requires bolstering traditional political diplomacy while refocusing our energies on engagement under new realities. Economic diplomacy in Pakistan’s context requires leveraging political relations for economic gains while building new economic partnerships to in turn support our political and strategic interests. As trade and economic connectivity gain importance in a more connected world, Pakistan must ensure a greater focus on economic diplomacy with human resource that has the right skill set to capitalise on economic opportunities across the world. Our geo-economically pivotal location affords Pakistan the ability to offer itself as a melting pot of regional and global economic interests through connectivity initiatives. This remains a priority and its success requires regional peace and stability to which Pakistan remains fully committed.
+
+Projecting Pakistan’s Positive Reality
+
+Pakistan will emphasise its economic and human security-centric outlook and reverse any unfair negativity attached to its image due to sustained disinformation and influence operations by adversaries. A dedicated effort based on new and emerging trends in consumption of information will reflect Pakistan’s reality as a responsible state that offers an economic hub for regional and global activity while striving for peace within and beyond its borders.
+
+### External Context
+
+Pakistan’s location at the cross-roads of historic confluence provides unique opportunities amidst regional and global competition, especially as a hub for connecting important economic and resource-rich regions. Historical, ethnic, and religious ties to Pakistan’s immediate west create externalities wherein peace and stability have a positive influence on internal security. Towards the immediate east, bilateral ties have been stymied as a consequence of the unresolved Kashmir dispute and India’s hegemonic designs. Pakistan remains committed to normalisation of relations with its neighbours based on mutual respect, sovereign equality, and a collective effort to find pathways for conflict resolution with the belief that shared economic opportunities are cornerstones for achieving prosperity in Pakistan and the region. Pakistan also maintains mutually beneficial relationships with all major powers and will further these based on commonality of interests.
+
+Jammu and Kashmir
+
+A just and peaceful resolution of the Jammu and Kashmir dispute remains a vital national security interest for Pakistan. India’s illegal and unilateral actions of August 2019 have been rejected by the people of Indian Illegally Occupied Jammu and Kashmir (IIOJK). Indian occupation forces continue to undertake human rights abuses and oppression through war crimes, crimes against humanity, and genocidal acts in IIOJK. In addition, India continues to create false propaganda around the Kashmiri resistance to hide its illegal actions. Pakistan remains steadfast in its moral, diplomatic, political, and legal support to the people of Kashmir until they achieve their right to self-determination guaranteed by the international community as per
+
+United Nations Security Council (UNSC) resolutions.
+
+The Neighbourhood
+
+Afghanistan
+
+Pakistan and Afghanistan share historical ties. Pakistan remains committed to facilitating and supporting peace and stability in Afghanistan in close collaboration with the international community through addressing economic, humanitarian, and security issues. Afghanistan’s potential as a gateway for economic connectivity with Central Asian states is a key driver for Pakistan’s support for peace in Afghanistan.
+
+China
+
+Pakistan’s deep-rooted historic ties with China are driven by shared interests and mutual understanding. Bilateral relations continue to expand based on trust and strategic convergence. Pakistan will continue to strengthen this relationship across all areas of mutual engagement. As a project of national importance, China Pakistan Economic Corridor (CPEC) enjoys national consensus. It is redefining regional connectivity and providing impetus to Pakistan’s economy with the potential to jump-start domestic growth, alleviate poverty, and improve regional connectivity. Pakistan welcomes Foreign Direct Investment in CPEC-related and other Special Economic Zones from interested countries.
+
+India
+
+Pakistan, under its policy of peace at home and abroad, wishes to improve its relationship with India. A just and peaceful resolution of the Jammu and Kashmir dispute remains at the core of our bilateral relationship. The rise of Hindutva-driven politics in India is deeply concerning and impacts Pakistan’s immediate security. The political exploitation of a policy of belligerence towards Pakistan by India’s leadership has led to the threat of military adventurism and non-contact warfare to our immediate east. Growing Indian arms build-up, facilitated by access to advanced technologies and exceptions in the non-proliferation rules, is a matter of concern for Pakistan. Besides impacting regional stability, such policies of exceptionalism also undermine the global non-proliferation regime. India’s pursuit of unilateral policy actions on outstanding issues are attempts to impose one-sided solutions that can have far reaching negative consequences for regional stability. India is also consistently engaged in an effort to spread disinformation targeting Pakistan. Pakistan continues to believe in resolving all outstanding issues through dialogue; however, recent Indian actions remain significant hurdles in this direction.
+
+Iran
+
+Pakistan enjoys historical and religious ties with Iran. As neighbours, Pakistan and Iran continue to share interests in border management and regional peace and stability. Improving intelligence sharing and patrolling of border areas will have a positive effect on bilateral ties.
+
+Rest of the World
+
+Middle East and West Asia
+
+Pakistan shares deep fraternal and religious ties with all Gulf countries. The relationship is based on our historic trust, mutual cooperation, and long-standing economic ties. Gulf countries are home to millions of Pakistanis and are an important source of foreign investments and remittances. Pakistan’s deep brotherly ties with Saudi Arabia are reinforced by shared interests and a multifaceted relationship in trade, investment, energy, defence, and cultural domains. Pakistan is fully committed to the security and safety of the two holiest sites of Islam. Pakistan continues to support a just and equitable two-state solution acceptable to the Palestinians, in accordance with relevant United Nations (UN) and Organisation of Islamic Cooperation (OIC) resolutions. Pakistan shares brotherly ties with Turkey, which are based on cultural, religious, and historic affinity. Pakistan is committed to further improving bilateral economic linkages and defence cooperation with Turkey in particular, and brotherly countries of West Asia in general. A peaceful, interconnected, and conflict-free Middle East and West Asia remains critical to Pakistan’s economic, energy, and internal security.
+
+United States
+
+Pakistan and the United States share a long history of bilateral cooperation. Pakistan does not subscribe to ‘camp politics’. We believe that our continued cooperation with the United States will remain critical for regional peace and stability. We seek to diversify this relationship through mutually beneficial engagements. Communicating Pakistan’s concerns to policy makers in Washington while seeking to broaden our partnership beyond a narrow counter-terrorism focus will be a priority. Pakistan will continue to seek areas of convergence with the United States in trade, investment, connectivity, energy, counter-terrorism, security, and intelligence cooperation.
+
+United Kingdom and Europe
+
+Pakistan enjoys a historical relationship with the United Kingdom based on mutual economic and strategic interests and a large diaspora community. Pakistan remains committed to further strengthening this relationship by continuing to explore new economic and trade initiatives post-Brexit, increasing our strategic cooperation in the region on counter-terrorism and connectivity, and promoting even stronger people-to-people ties. Similarly, since independence, Pakistan has shared bilateral ties with all European countries through cooperation in trade, industrialisation, science and technology, and on strategic issues. Pakistan intends to build on these relationships by exploring new opportunities for trade and investment with European Union countries.
+
+Central Asia and Russia
+
+Pakistan’s geo-economic pivot is focused on enhancing trade and economic ties through connectivity that links Central Asia to our warm waters. Under ‘Vision Central Asia’, Pakistan is working towards actualising agreements on energy and transit with the Central Asian Republics. Pakistan is committed to reimagining its partnership with Russia in energy, defence cooperation, and investment. The relationship is already witnessing a positive trajectory and Pakistan will continue to strive to maximise mutual gains. Russia, Central Asian countries, and Pakistan are also important partners in our shared objectives of peace and stability in Afghanistan.
+
+Other Important Regions
+
+In line with the foreign policy vision of our founder Quaid-e-Azam, Pakistan continues to pursue mutually beneficial relationships with interested countries. Pakistan’s engagement with Africa, Asia-Pacific, Australia, and Latin America is premised on exploring opportunities for cooperation in bilateral trade, global connectivity, and shared challenges in the global commons including climate change, trade openness, energy security, poverty alleviation, and global security. Pakistan is committed to strengthening its bilateral and multilateral cooperation with countries in the Asia-Pacific region, including expanding our trade and economic ties with Association of South East Asian Nations member states and our partners in East Asia. Pakistan also seeks to widen its economic outreach through the ‘Engage Africa’ initiative and build more extensive relationships with countries in Latin America and elsewhere under its economic diplomacy initiative.
+
+Multilateral Cooperation
+
+Pakistan strongly believes in the notion of multilateralism for promoting and protecting global values and ensuring the rights of developing countries. Multilateral institutions and monitoring frameworks such as the UN, International Monetary Fund, World Bank, and others continue to have salience for Pakistan’s security, economy, and diplomacy. Pakistan believes in an equitable and standards-based reform of multilateral structures where exceptions are minimised and the collective interests of the Global South are addressed.
+
+United Nations
+
+The UN and its forums provide platforms for Pakistan to advance and safeguard its interests on issues such as human rights, climate change, refugees, non-proliferation and arms control, and the peaceful uses of nuclear technology, among others. Our diplomacy recognises that the role of Islamic, African, Small Island Developing States, and other countries in the UN is as relevant as that of larger powers. Pakistan will expand its diplomatic effort to engage with these countries on shared global challenges. Pakistan also recognises the centrality of the UN in ensuring that the people of Jammu and Kashmir are allowed to exercise their right to self-determination in accordance with relevant UNSC resolutions.
+
+Other Multilateral Forums
+
+Pakistan remains committed to the revival of the South Asian Association for Regional Cooperation in an equitable manner. Pakistan will also remain committed to the efficacy of the OIC, the Shanghai Cooperation Organisation, the Economic Cooperation Organization, and other similar multilateral platforms and will continue to work with member countries to pursue our economic and political interests at these forums.
+
+Championing Global Causes
+
+Pakistan’s diplomatic tradition of championing global causes will continue to form the bedrock of our future global engagements. In multilateral as well as bilateral arenas, Pakistan will stand against injustice and xenophobia, promoting fairness and tolerance. We have already become a leading voice on issues like Islamophobia, debt relief for developing countries, and the return of ill-gotten wealth from developed countries. Similarly, Pakistan’s consistent advocacy and actions in climate change are helping shape our global engagement in a cause that impacts the lives and livelihoods of the entire world. We will continue to take bold, principled positions on the world stage.
+
+### Policy Guidelines
+
+Foreign Policy
+
+A balanced and adequately resourced foreign policy that reduces conflicts while protecting and advancing national interests through political and economic diplomacy.
+
+Policy Objectives: Cultivate broad-based relationships with global powers through a proactive, pragmatic, and unapologetic approach based on shared convergence on strategic and economic interests. Minimise potential threats, maintain diversified foreign policy options, and enhance the role of economic diplomacy in our foreign policy initiatives. Seek regional peace through normalisation of relations in our immediate neighbourhood on the basis of mutual respect and sovereign equality.
+
+Conduct of Diplomacy
+
+Present Pakistan’s proactive and self-confident policy approach.
+
+Policy Objectives: Adopt a proactive and self-confident policy approach to the world. Improve coordination among relevant institutions on strategic communication for a united and cohesive external facing national narrative aimed at depicting Pakistan’s reality and countering the false propaganda against Pakistan. Leverage our diversity and vast potential while countering negative perceptions. Engage Pakistani diaspora on national issues through a dedicated strategy.
+
+## SECTION VIII: HUMAN SECURITY HUMAN SECURITY
+
+Pakistan’s youth is the future of our country. Equipping them with the necessary tools and environment for their productive contribution towards the nation will help leapfrog Pakistan into the future.
+
+### Opportunities and Challenges
+
+Population Growth and Migration
+
+Pakistan is one of the most populous countries in the world. According to the 2017 census, the country’s population has grown at 2.4 per cent over the last two decades. Over half the population is below the age of 30 years. This large youth demographic is both an opportunity and a challenge. While it has put stress on public services, natural resources, and the economy, Pakistan’s youth bulge can help the country achieve exponential economic progress if its potential is galvanised and concentrated in productive endeavors. A dedicated focus on youth is essential for our future progress. In the past, population management has suffered from lack of political ownership, ineffectiveness of national awareness campaigns, and social taboos. In addition, Pakistan is also one of the fastest urbanising countries in South Asia. In another two decades, nearly 50 per cent of Pakistanis will be living in our major cities. Urban migration requires immediate attention through population stabilisation and management, futuristic urban planning, and proportional investment in development of the rural economy and smaller cities to decrease urban migratory pressures on larger metropolitan areas.
+
+Health Security
+
+No single event has underscored the national security link to health more clearly than the Covid-19 pandemic. It has brought healthcare into sharp focus and impacted the political and economic stability of countries across the world. Pakistan needs a healthy population to ensure a productive workforce. Healthcare coverage should keep abreast of population growth and needs. Pakistan is committed to correcting shortage of quality health facilities, especially in rural areas, and increasing investment in the preventive, promotive, and public health ecosystem. Health sector interventions will be empowered by a focus on surveillance of disease outbreak, preventive healthcare, expansion and advocacy of the path-breaking Sehat Sahulat health insurance programme, greater dedicated efforts to eradicate malnutrition and stunting, and the introduction of technology-based policy reforms that can increase health coverage for our citizens.
+
+Climate and Water Stress
+
+Pakistan is among the countries most vulnerable to climate stress. Over 140 extreme weather events have occurred in Pakistan over the past two decades. These events have affected citizens individually and collectively, while bringing enormous losses to Pakistan’s resource-constrained economy. Equally, climate is affecting cropping patterns, available farm land, and per capita availability of water that impact our agriculture-based economy. Pakistan ranks third in the list of countries facing acute water shortage, with our per capita water availability standing at 908 cubic meters in 2021, down from 1,500 cubic meters in 2009. Nearly 80 per cent of the Indus Water Basin originates outside Pakistan, which makes access to transboundary watercourses a national security imperative. With low precipitation rates, Pakistan relies heavily on surface water and annual monsoon rainfall, both of which are endangered by global warming. Accelerated melting of the northern glacial cap is also creating severe consequences for our shared watershed. Pakistan’s efforts in climate change have been recognised globally. Pakistan has established a dedicated Ministry of Climate Change, developed a Climate Change Policy, undertaken a ten billion tree plantation drive, and committed to a 50 per cent reduction in projected emissions by 2030 subject to international grant finance. Further efforts aimed at freeing up financial resources for climate change policy implementation, transforming water management and use, creating additional water storage capacity, and focusing on climate mitigation and adaptation are being made.
+
+Food Security
+
+Feeding Pakistan’s growing population through a sustainable food basket is essential. Agriculture remains the largest contributor to Pakistan’s Gross Domestic Product and rural employment. Effective implementation of the National Food Security Policy 2018 remains critical to institutionalising food security in the country. Challenges include ensuring production of food rich in micronutrients, changing consumption patterns towards a healthier food basket, increasing cultivable land, increasing yield per acre for major cash crops through high yield seeds, undertaking fresh agricultural zoning, introducing import substitution for commodities and products that contribute disproportionately to the import bill, and legislating against illegal market practices including hoarding and smuggling. Challenges pertaining to socio-economic access to food include improving people’s purchasing power and strengthening social safety nets. In terms of food utilisation, enhanced provision of drinking water and sanitation facilities is necessary. Investments in the agriculture sector through the introduction of modern farming techniques and corporate agriculture will help increase productivity and exports, but these must be balanced with the need to secure small farmers and domestic supply of essential food items.
+
+Gender Security
+
+With women comprising half of Pakistan’s population, no security policy can be successful unless it adopts a gendered lens to achieving peace and security. Gender equality and human rights more broadly are cross-cutting issues of paramount importance as inequality and structural violence undermine women’s ability for equal participation. Women’s increased participation in the workplace and especially the law enforcement and justice sectors is essential for securing their equitable access to public services. Equally, providing women and transgender persons a safe environment at home, in public spaces, and at the workplace are priorities for the country.
+
+### Policy Guidelines
+
+Population and Migration
+
+A productive population able to contribute to growth and prosperity, while having access to public service delivery unhindered by geographical spread.
+
+Policy Objectives: Achieve progress towards the sustainable development agenda by ensuring population management, urban planning, reenergising the rural economy, and the equitable development of smaller cities and towns to decrease migratory pressures on larger cities. Equally, pursue dedicated policies focused on the youth to promote skills development and entrepreneurship.
+
+Health Security
+
+A healthy, vibrant Pakistan whose citizens are provided adequate healthcare and are able to contribute to the country’s prosperity and progress.
+
+Policy Objectives: Make quality healthcare more affordable, further strengthen disease surveillance and prevention, address malnutrition and stunting, mainstream preventive healthcare, and put in place pandemic and epidemic response mechanisms for a healthy and vibrant Pakistan.
+
+Climate Resilience and Water Security
+
+A climate resilient Pakistan that prioritises climate adaptation, sustainable water management, and disaster preparedness.
+
+Policy Objectives: Mainstream climate adaptation and response, particularly in socio-economically vulnerable regions, to steer Pakistan towards climate resilient development. Ensure a cohesive national response to looming water scarcity through improved water storage capacity, sustainable water management, and protecting Pakistan’s transboundary water rights. Strengthen robust disaster preparedness, management, and response mechanisms.
+
+Food Security
+
+A Pakistan that is food secure while adopting climate resilient agriculture and contributing to valueadded exports after meeting domestic demand.
+
+Policy Objectives: Promote sustainable agriculture with high yields to ensure adequate availability of and affordable access to food. Secure dependable food imports, usher adoption of climate-smart farming techniques, and promote quality control and diversification to increase exports and encourage import substitution.
+
+Gender Security
+
+Promote the women, peace and security agenda and ensure integration of gender equity into national security narratives through full and meaningful participation of women in decision-making, law enforcement, justice sector, and peacekeeping.
+
+Policy Objectives: Enable free and secure participation of women and transgender persons in all avenues of public life. Maximise the inclusion of women in decision making forums, policy formulation, and institutions working on peace, protection and security. Protect citizens, especially women and transgender persons, from gender-based violence.
+
+## CONCLUSION
+
+The world is witnessing a transformation in inter-state relations, major power competition and the struggle for influence and resources. Pakistan aims to advance its vital national security interests through a whole-of-nation approach that synergises collective efforts towards the attainment of a prosperous and secure country that is at peace with itself and others. With immeasurable power potential and a young and energetic demographic, our destiny is determined by our actions and limited only by our lack of imagination. In order to fulfill the vision of our forefathers and the aspirations of our citizens, we will march ahead with confidence in our national resolve and trust in our abilities.
+
+Pakistan seeks to reposition itself at the crucible of history by recognising emerging trends, investment in key areas that will lead the technological revolution in the coming decades, and a whole-of-government approach that leverages our advantages and addresses our challenges to find opportunity within a period of great change. Pakistan’s future lies in embracing change and breaking the inertia of status-quo in a world that is undergoing fundamental transformation.
+
+Pakistan is poised to take advantage of its geo-economically pivotal location to operate as a production, trade and investment, and connectivity hub for our wider region to strengthen our economic security. Increased economic gains will continue to be transferred judiciously towards human welfare and ensuring a more robust defence and deterrence capability. The foremost aim of our military capability and foreign policy will remain peace and stability in the region and beyond, based on mutual respect and sovereign equality.
+
+The results of our collective efforts will be as great as the courage of our convictions and the sincerity of our purpose. By embracing a comprehensive national security vision, we will forge an even more secure and prosperous Pakistan where all citizens are able to live with security and dignity.

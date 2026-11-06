@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/moitt.gov.pk/national-security-policy-of-pakistan@2022",
+  "name": "National Security Policy of Pakistan (2022–2026)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2022",
+  "publication_id": "national-security-policy-of-pakistan-2022",
+  "owner": "Ministry of Information Technology and Telecommunication (MoITT) & National Security Division of Pakistan",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "National Security Policy of Pakistan (2022–2026)",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Ministry of Information Technology and Telecommunication (MoITT) & National Security Division of Pakistan (moitt.gov.pk) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Ministry of Information Technology and Telecommunication (MoITT) & National Security Division of Pakistan (moitt.gov.pk).",
+  "license": {
+    "spdx": "LicenseRef-PK-NSD-Attribution",
+    "Grouping": "Permissive",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/PK",
+    "note": "Government of Pakistan (National Security Division, Prime Minister's Office) explicit open publication license ('This publication may be reproduced and transmitted by any means for non-commercial or commercial Reference with due attribution to the Government of Pakistan') and Pakistan Copyright Ordinance 1962 Sec. 57(1)(q).",
+    "notes": "Government of Pakistan (National Security Division, Prime Minister's Office) explicit open publication license ('This publication may be reproduced and transmitted by any means for non-commercial or commercial Reference with due attribution to the Government of Pakistan') and Pakistan Copyright Ordinance 1962 Sec. 57(1)(q)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://nsd.gov.pk/",
+    "textUsed": "https://nsd.gov.pk/SiteImage/Publication/NSP%20Policy.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2022-01-14",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Discovered primary PDF (https://nsd.gov.pk/SiteImage/Publication/NSP%20Policy.pdf) from landing page (https://nsd.gov.pk/); extracted 62-page PDF via PyMuPDF (84,373 chars). Parsed 40 sections (8 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

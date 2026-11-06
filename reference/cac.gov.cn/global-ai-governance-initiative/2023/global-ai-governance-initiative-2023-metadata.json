@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/cac.gov.cn/global-ai-governance-initiative@2023",
+  "name": "全球人工智能治理倡议 (Global AI Governance Initiative, 2023)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2023",
+  "publication_id": "global-ai-governance-initiative-2023",
+  "owner": "Cyberspace Administration of China (国家互联网信息办公室 / 中央网络安全和信息化委员会办公室)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Global AI Governance Initiative (October 18, 2023). China's flagship international and domestic strategic policy statement on artificial intelligence safety, risk classification, alignment, and multilateral governance, announced on October 18, 2023.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Cyberspace Administration of China (国家互联网信息办公室 / 中央网络安全和信息化委员会办公室) (cac.gov.cn) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Cyberspace Administration of China (国家互联网信息办公室 / 中央网络安全和信息化委员会办公室) (cac.gov.cn).",
+  "license": {
+    "spdx": "LicenseRef-CN-Copyright-Art5-1",
+    "Grouping": "Public Domain",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/CN",
+    "note": "Official publication (cac.gov.cn); Copyright Law of the People's Republic of China Art. 5(1) (laws, regulations, resolutions, decisions and orders of state organs, and other documents of a legislative, administrative or judicial nature and their official translations are excluded from copyright protection).",
+    "notes": "Official publication (cac.gov.cn); Copyright Law of the People's Republic of China Art. 5(1) (laws, regulations, resolutions, decisions and orders of state organs, and other documents of a legislative, administrative or judicial nature and their official translations are excluded from copyright protection)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.cac.gov.cn/2023-10/18/c_1699291032884978.htm",
+    "textUsed": "https://www.cac.gov.cn/2023-10/18/c_1699291032884978.htm",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2023-10-18",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official HTML publication (https://www.cac.gov.cn/2023-10/18/c_1699291032884978.htm) to Markdown (8,122 chars). Parsed 2 sections (0 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

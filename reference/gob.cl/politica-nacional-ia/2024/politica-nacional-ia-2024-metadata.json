@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/gob.cl/politica-nacional-ia@2024",
+  "name": "Actualización de la Política Nacional de Inteligencia Artificial (2024)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2024",
+  "publication_id": "politica-nacional-ia-2024",
+  "owner": "Gobierno de Chile",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Actualización de la Política Nacional de Inteligencia Artificial (May 2024). Chile's national artificial intelligence strategy led by MinCiencia, organized around enabling factors (human capital, compute infrastructure, data), AI development and adoption, and governance/ethics.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Gobierno de Chile (gob.cl) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Gobierno de Chile (gob.cl).",
+  "license": {
+    "spdx": "LicenseRef-CL-Law17336-Official",
+    "Grouping": "Government-Work",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/CL",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (gob.cl) is governed by Republic of Chile Law No. 17,336 on Intellectual Property and Diario Oficial / MinCiencia open government publication terms (official supreme decrees and open-licensed national policy documents).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (gob.cl) is governed by Republic of Chile Law No. 17,336 on Intellectual Property and Diario Oficial / MinCiencia open government publication terms (official supreme decrees and open-licensed national policy documents)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://minciencia.gob.cl/areas/inteligencia-artificial/politica-nacional-de-inteligencia-artificial/",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2024-05-07",
+    "active": true,
+    "supersedes": "secid:reference/gob.cl/politica-nacional-ia@2021-2030",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/gob.cl/politica-nacional-ia@2024 (https://minciencia.gob.cl/areas/inteligencia-artificial/politica-nacional-de-inteligencia-artificial/) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

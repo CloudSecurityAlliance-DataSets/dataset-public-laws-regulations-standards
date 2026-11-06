@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/gob.pe/marco-confianza-digital@2020",
+  "name": "Marco de Confianza Digital (Decreto de Urgencia N° 007-2020)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2020",
+  "publication_id": "marco-confianza-digital-2020",
+  "owner": "Presidencia del Consejo de Ministros del Perú — Secretaría de Gobierno y Transformación Digital",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Marco de Confianza Digital (Decreto de Urgencia N° 007-2020, January 9, 2020). National digital trust and cybersecurity framework of Peru managed by the Centro Nacional de Seguridad Digital (SGTD / PCM).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Presidencia del Consejo de Ministros del Perú — Secretaría de Gobierno y Transformación Digital (gob.pe) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Presidencia del Consejo de Ministros del Perú — Secretaría de Gobierno y Transformación Digital (gob.pe).",
+  "license": {
+    "spdx": "LicenseRef-PE-DL822-Art9",
+    "Grouping": "Public Domain",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/PE",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (gob.pe) is governed by Republic of Peru Legislative Decree No. 822 (Law on Copyright) Art. 9(b) (official texts of a legislative, administrative or judicial nature, and their official translations, are not objects of copyright protection).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (gob.pe) is governed by Republic of Peru Legislative Decree No. 822 (Law on Copyright) Art. 9(b) (official texts of a legislative, administrative or judicial nature, and their official translations, are not objects of copyright protection)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.gob.pe/seguridaddigital",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2020-01-09",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/gob.pe/marco-confianza-digital@2020 (https://www.gob.pe/seguridaddigital) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}
