@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/minict.gov.rw/rwanda-national-cyber-security-strategic-plan@2024",
+  "name": "Rwanda National Cyber Security Strategic Plan (2024)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2024",
+  "publication_id": "rwanda-national-cyber-security-strategic-plan-2024",
+  "owner": "Ministry of ICT and Innovation (MINICT) & National Cyber Security Authority (Rwanda)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Rwanda National Cyber Security Strategic Plan",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Ministry of ICT and Innovation (MINICT) & National Cyber Security Authority (Rwanda) (minict.gov.rw) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Ministry of ICT and Innovation (MINICT) & National Cyber Security Authority (Rwanda) (minict.gov.rw).",
+  "license": {
+    "spdx": "LicenseRef-RW-Law055-2024-Art244",
+    "Grouping": "Public Domain",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/RW",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (minict.gov.rw) is governed by Republic of Rwanda Law No. 055/2024 of 20/06/2024 on Protection of Intellectual Property Art. 244(2) (official texts of a legislative, administrative or judicial nature, as well as their official translations, are excluded from copyright protection).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (minict.gov.rw) is governed by Republic of Rwanda Law No. 055/2024 of 20/06/2024 on Protection of Intellectual Property Art. 244(2) (official texts of a legislative, administrative or judicial nature, as well as their official translations, are excluded from copyright protection)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.ncsa.gov.rw/",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2024-01-01",
+    "active": true,
+    "supersedes": "secid:reference/minict.gov.rw/rwanda-national-cyber-security-strategic-plan@2015",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/minict.gov.rw/rwanda-national-cyber-security-strategic-plan@2024 (https://www.ncsa.gov.rw/) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

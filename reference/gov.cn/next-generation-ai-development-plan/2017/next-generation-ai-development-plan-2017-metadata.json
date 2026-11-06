@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/gov.cn/next-generation-ai-development-plan@2017",
+  "name": "新一代人工智能发展规划 (Next Generation Artificial Intelligence Development Plan, 2017)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2017",
+  "publication_id": "next-generation-ai-development-plan-2017",
+  "owner": "State Council of the People's Republic of China (中华人民共和国国务院)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Next Generation Artificial Intelligence Development Plan (Guofa [2017] No. 35, July 20, 2017). China's master national artificial intelligence strategy issued by the State Council on July 20, 2017 (Guofa [2017] No. 35), establishing three-step strategic milestones for 2020, 2025, and 2030 across AI R&D, industrial transformation, military-civil fusion, and three-stage AI legal and ethical governance.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by State Council of the People's Republic of China (中华人民共和国国务院) (gov.cn) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for State Council of the People's Republic of China (中华人民共和国国务院) (gov.cn).",
+  "license": {
+    "spdx": "LicenseRef-CN-Copyright-Art5-1",
+    "Grouping": "Public Domain",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/CN",
+    "note": "Official publication (gov.cn); Copyright Law of the People's Republic of China Art. 5(1) (laws, regulations, resolutions, decisions and orders of state organs, and other documents of a legislative, administrative or judicial nature and their official translations are excluded from copyright protection).",
+    "notes": "Official publication (gov.cn); Copyright Law of the People's Republic of China Art. 5(1) (laws, regulations, resolutions, decisions and orders of state organs, and other documents of a legislative, administrative or judicial nature and their official translations are excluded from copyright protection)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.gov.cn/zhengce/content/2017-07/20/content_5211996.htm",
+    "textUsed": "https://www.gov.cn/zhengce/content/2017-07/20/content_5211996.htm",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2017-07-20",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official HTML publication (https://www.gov.cn/zhengce/content/2017-07/20/content_5211996.htm) to Markdown (20,680 chars). Parsed 30 sections (29 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

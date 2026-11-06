@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/gob.cl/politica-nacional-ciberseguridad@2017-2022",
+  "name": "Política Nacional de Ciberseguridad 2017-2022",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2017-2022",
+  "publication_id": "politica-nacional-ciberseguridad-2017-2022",
+  "owner": "Gobierno de Chile",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Política Nacional de Ciberseguridad 2017-2022 (adopted April 27, 2017).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Gobierno de Chile (gob.cl) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Gobierno de Chile (gob.cl).",
+  "license": {
+    "spdx": "CC-BY-SA-4.0",
+    "Grouping": "Share-Alike",
+    "redistribution": "permitted_with_attribution_share_alike",
+    "derivatives": "permitted_with_attribution_share_alike",
+    "publicly_redistributable": true,
+    "license_text_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "note": "Government of Chile official publication (gob.cl); explicitly licensed in the document imprint under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+    "notes": "Government of Chile official publication (gob.cl); explicitly licensed in the document imprint under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.itu.int/en/ITU-D/Cybersecurity/Documents/National_Strategies_Repository/Chile_NCSP%20%28ENG%29.pdf",
+    "textUsed": "https://www.itu.int/en/ITU-D/Cybersecurity/Documents/National_Strategies_Repository/Chile_NCSP%20%28ENG%29.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2017-04-27",
+    "active": false,
+    "supersedes": null,
+    "supersededBy": "secid:reference/gob.cl/politica-nacional-ciberseguridad@2023-2028",
+    "retiredFromActiveUse": "2023-12-04",
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 41-page PDF (https://www.itu.int/en/ITU-D/Cybersecurity/Documents/National_Strategies_Repository/Chile_NCSP%20%28ENG%29.pdf) locally via PyMuPDF (83,549 chars). Parsed 65 sections (44 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

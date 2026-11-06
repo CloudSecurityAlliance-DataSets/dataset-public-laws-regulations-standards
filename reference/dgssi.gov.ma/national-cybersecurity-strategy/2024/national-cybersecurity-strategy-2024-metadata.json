@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/dgssi.gov.ma/national-cybersecurity-strategy@2024",
+  "name": "National Cybersecurity Strategy of the Kingdom of Morocco (Stratégie Nationale de Cybersécurité 2030) (2024)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2024",
+  "publication_id": "national-cybersecurity-strategy-2024",
+  "owner": "General Directorate of Information Systems Security (DGSSI) & Ministry of Digital Transition (Morocco)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "National Cybersecurity Strategy of the Kingdom of Morocco (Stratégie Nationale de Cybersécurité 2030)",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by General Directorate of Information Systems Security (DGSSI) & Ministry of Digital Transition (Morocco) (dgssi.gov.ma) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for General Directorate of Information Systems Security (DGSSI) & Ministry of Digital Transition (Morocco) (dgssi.gov.ma).",
+  "license": {
+    "spdx": "LicenseRef-MA-Law2-00-Art8",
+    "Grouping": "Public Domain",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/MA",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (dgssi.gov.ma) is governed by Kingdom of Morocco Law No. 2-00 on Copyright and Related Rights Art. 8(a) (protection does not extend to official texts of a legislative, administrative or judicial nature, nor to their official translations).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (dgssi.gov.ma) is governed by Kingdom of Morocco Law No. 2-00 on Copyright and Related Rights Art. 8(a) (protection does not extend to official texts of a legislative, administrative or judicial nature, nor to their official translations)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.dgssi.gov.ma/fr/strategie-nationale-de-cybersecurite",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2024-09-01",
+    "active": true,
+    "supersedes": "secid:reference/dgssi.gov.ma/national-cybersecurity-strategy@2012",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/dgssi.gov.ma/national-cybersecurity-strategy@2024 (https://www.dgssi.gov.ma/fr/strategie-nationale-de-cybersecurite) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

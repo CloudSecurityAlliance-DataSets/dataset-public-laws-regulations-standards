@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/ncsa.or.th/thailand-national-ai-strategy-and-action-plan@2022",
+  "name": "Thailand National AI Strategy and Action Plan (2022–2027)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2022",
+  "publication_id": "thailand-national-ai-strategy-and-action-plan-2022",
+  "owner": "National Cyber Security Agency (NCSA) & Government of Thailand",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Thailand National AI Strategy and Action Plan (2022–2027)",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by National Cyber Security Agency (NCSA) & Government of Thailand (ncsa.or.th) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for National Cyber Security Agency (NCSA) & Government of Thailand (ncsa.or.th).",
+  "license": {
+    "spdx": "LicenseRef-TH-Copyright-BE2537-Sec7",
+    "Grouping": "Public Domain",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/TH",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (ncsa.or.th) is governed by Kingdom of Thailand Copyright Act B.E. 2537 (1994) Sec. 7(2)-(3) (constitutions, legislation, regulations, notifications, orders, explanations and official correspondence of Ministries, Departments, or state agencies are not deemed copyright works).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (ncsa.or.th) is governed by Kingdom of Thailand Copyright Act B.E. 2537 (1994) Sec. 7(2)-(3) (constitutions, legislation, regulations, notifications, orders, explanations and official correspondence of Ministries, Departments, or state agencies are not deemed copyright works)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://ai.in.th/en/about-thailand-national-ai-strategy/",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2022-07-26",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/ncsa.or.th/thailand-national-ai-strategy-and-action-plan@2022 (https://ai.in.th/en/about-thailand-national-ai-strategy/) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

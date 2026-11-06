@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/gob.mx/programa-seguridad-nacional@2014-2018",
+  "name": "Programa para la Seguridad Nacional 2014-2018",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2014-2018",
+  "publication_id": "programa-seguridad-nacional-2014-2018",
+  "owner": "Gobierno de México — Presidencia de la República",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Programa para la Seguridad Nacional 2014–2018 (DOF April 30, 2014). Overarching Mexican national security strategy published in the Diario Oficial de la Federación (DOF) under the National Security Law (Ley de Seguridad Nacional).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Gobierno de México — Presidencia de la República (gob.mx) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Gobierno de México — Presidencia de la República (gob.mx).",
+  "license": {
+    "spdx": "LicenseRef-MX-LFDA-Art14-VIII",
+    "Grouping": "Public Domain",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/MX",
+    "note": "Official publication (gob.mx); United Mexican States Federal Copyright Law (Ley Federal del Derecho de Autor) Art. 14(VIII) (legislative, regulatory, administrative or judicial texts and their official translations are not subject to copyright protection) and Libre Uso MX (datos.gob.mx).",
+    "notes": "Official publication (gob.mx); United Mexican States Federal Copyright Law (Ley Federal del Derecho de Autor) Art. 14(VIII) (legislative, regulatory, administrative or judicial texts and their official translations are not subject to copyright protection) and Libre Uso MX (datos.gob.mx)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://dof.gob.mx/nota_detalle.php?codigo=5342824&fecha=30/04/2014",
+    "textUsed": "https://dof.gob.mx/nota_detalle.php?codigo=5342824&fecha=30/04/2014",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2014-04-30",
+    "active": true,
+    "supersedes": "secid:reference/gob.mx/programa-seguridad-nacional@2009-2012",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official HTML publication (https://dof.gob.mx/nota_detalle.php?codigo=5342824&fecha=30/04/2014) to Markdown (188,736 chars). Parsed 26 sections (25 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

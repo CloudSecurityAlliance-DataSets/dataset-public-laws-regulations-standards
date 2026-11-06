@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/mocit.gov.np/national-artificial-intelligence-policy@2025",
+  "name": "National Artificial Intelligence Policy of Nepal (2082 / 2025)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2025",
+  "publication_id": "national-artificial-intelligence-policy-2025",
+  "owner": "Ministry of Communication and Information Technology (MoCIT), Government of Nepal",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "National Artificial Intelligence Policy of Nepal (2082 / 2025)",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Ministry of Communication and Information Technology (MoCIT), Government of Nepal (mocit.gov.np) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Ministry of Communication and Information Technology (MoCIT), Government of Nepal (mocit.gov.np).",
+  "license": {
+    "spdx": "LicenseRef-NP-Copyright-2059-Sec4",
+    "Grouping": "Public Domain",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/NP",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (mocit.gov.np) is governed by Nepal Copyright Act, 2059 (2002) Sec. 4(a) (no copyright protection extends to any constitution, law, rule, order, judicial decision, or official administrative text).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (mocit.gov.np) is governed by Nepal Copyright Act, 2059 (2002) Sec. 4(a) (no copyright protection extends to any constitution, law, rule, order, judicial decision, or official administrative text)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://mocit.gov.np/",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2025-08-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/mocit.gov.np/national-artificial-intelligence-policy@2025 (https://mocit.gov.np/) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

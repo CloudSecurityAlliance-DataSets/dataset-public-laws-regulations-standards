@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/mtcit.gov.om/national-program-for-ai-and-advanced-digital-technologies@2024",
+  "name": "National Program for Artificial Intelligence and Advanced Digital Technologies (Oman) (2024)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2024",
+  "publication_id": "national-program-for-ai-and-advanced-digital-technologies-2024",
+  "owner": "Ministry of Transport, Communications and Information Technology (MTCIT), Sultanate of Oman",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "National Program for Artificial Intelligence and Advanced Digital Technologies (Oman)",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Ministry of Transport, Communications and Information Technology (MTCIT), Sultanate of Oman (mtcit.gov.om) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Ministry of Transport, Communications and Information Technology (MTCIT), Sultanate of Oman (mtcit.gov.om).",
+  "license": {
+    "spdx": "LicenseRef-OM-RD65-2008-Art4",
+    "Grouping": "Public Domain",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/OM",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (mtcit.gov.om) is governed by Sultanate of Oman Royal Decree No. 65/2008 promulgating the Law on Copyright and Related Rights Art. 4(a) (official documents of a legislative, administrative or judicial nature and their official translations are excluded from copyright protection).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (mtcit.gov.om) is governed by Sultanate of Oman Royal Decree No. 65/2008 promulgating the Law on Copyright and Related Rights Art. 4(a) (official documents of a legislative, administrative or judicial nature and their official translations are excluded from copyright protection)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.mtcit.gov.om/",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2024-09-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/mtcit.gov.om/national-program-for-ai-and-advanced-digital-technologies@2024 (https://www.mtcit.gov.om/) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

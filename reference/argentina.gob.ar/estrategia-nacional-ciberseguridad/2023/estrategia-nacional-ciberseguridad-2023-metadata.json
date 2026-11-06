@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/argentina.gob.ar/estrategia-nacional-ciberseguridad@2023",
+  "name": "Segunda Estrategia Nacional de Ciberseguridad (Resolución 44/2023)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2023",
+  "publication_id": "estrategia-nacional-ciberseguridad-2023",
+  "owner": "Presidencia de la Nación Argentina — Jefatura de Gabinete de Ministros",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Segunda Estrategia Nacional de Ciberseguridad (Resolución 44/2023, September 4, 2023). National cybersecurity strategy of the Argentine Republic approved by the Chief of the Cabinet of Ministers, setting strategic lines for critical infrastructure protection, CERT.ar incident response, regulatory modernization, and federal cyber resilience.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Presidencia de la Nación Argentina — Jefatura de Gabinete de Ministros (argentina.gob.ar) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Presidencia de la Nación Argentina — Jefatura de Gabinete de Ministros (argentina.gob.ar).",
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "Grouping": "Permissive",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.argentina.gob.ar/terminos-y-condiciones",
+    "note": "Official publication (argentina.gob.ar); República Argentina official government publication (Argentina.gob.ar / InfoLEG Terms and Conditions: licensed under Creative Commons Attribution 4.0 International — CC BY 4.0).",
+    "notes": "Official publication (argentina.gob.ar); República Argentina official government publication (Argentina.gob.ar / InfoLEG Terms and Conditions: licensed under Creative Commons Attribution 4.0 International — CC BY 4.0)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://servicios.infoleg.gob.ar/infolegInternet/anexos/385000-389999/389245/norma.htm",
+    "textUsed": "https://servicios.infoleg.gob.ar/infolegInternet/anexos/385000-389999/389245/norma.htm",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2023-09-04",
+    "active": true,
+    "supersedes": "secid:reference/argentina.gob.ar/estrategia-nacional-ciberseguridad@2019",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official HTML publication (https://servicios.infoleg.gob.ar/infolegInternet/anexos/385000-389999/389245/norma.htm) to Markdown (35,435 chars). Parsed 25 sections (20 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

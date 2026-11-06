@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/ictd.gov.bd/bangladesh-cybersecurity-strategy@2021",
+  "name": "Bangladesh Cyber Security Strategy 2021–2025",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2021",
+  "publication_id": "bangladesh-cybersecurity-strategy-2021",
+  "owner": "Information and Communication Technology Division (ICTD), Government of Bangladesh",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Bangladesh Cyber Security Strategy 2021–2025",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Information and Communication Technology Division (ICTD), Government of Bangladesh (ictd.gov.bd) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Information and Communication Technology Division (ICTD), Government of Bangladesh (ictd.gov.bd).",
+  "license": {
+    "spdx": "LicenseRef-BD-Copyright-Sec72",
+    "Grouping": "Government-Work",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/BD",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (ictd.gov.bd) is governed by Bangladesh Copyright Act, 2023 (Act No. 34 of 2023, replacing Copyright Act 2000) Sec. 72(1)(q)-(r) (official acts, Gazette publications, and government reports).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (ictd.gov.bd) is governed by Bangladesh Copyright Act, 2023 (Act No. 34 of 2023, replacing Copyright Act 2000) Sec. 72(1)(q)-(r) (official acts, Gazette publications, and government reports)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.cirt.gov.bd/",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2021-06-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/ictd.gov.bd/bangladesh-cybersecurity-strategy@2021 (https://www.cirt.gov.bd/) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

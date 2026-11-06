@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/gov.cn/national-security-in-the-new-era@2025",
+  "name": "新时代的中国国家安全 (China's National Security in the New Era, 2025)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2025",
+  "publication_id": "national-security-in-the-new-era-2025",
+  "owner": "State Council of the People's Republic of China (中华人民共和国国务院)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "China's National Security in the New Era (新时代的中国国家安全, May 12, 2025). First comprehensive national security white paper issued by the State Council Information Office (SCIO) on May 12, 2025, codifying China's Holistic Approach to National Security (总体国家安全观) across political, territorial, military, economic, cyber, data, and artificial intelligence security.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by State Council of the People's Republic of China (中华人民共和国国务院) (gov.cn) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for State Council of the People's Republic of China (中华人民共和国国务院) (gov.cn).",
+  "license": {
+    "spdx": "LicenseRef-CN-Copyright-Art5-1",
+    "Grouping": "Public Domain",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/CN",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (gov.cn) is governed by Copyright Law of the People's Republic of China Art. 5(1) (laws, regulations, resolutions, decisions and orders of state organs, and other documents of a legislative, administrative or judicial nature and their official translations are excluded from copyright protection).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (gov.cn) is governed by Copyright Law of the People's Republic of China Art. 5(1) (laws, regulations, resolutions, decisions and orders of state organs, and other documents of a legislative, administrative or judicial nature and their official translations are excluded from copyright protection)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.gov.cn/zhengce/202505/content_7023306.htm",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2025-05-12",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/gov.cn/national-security-in-the-new-era@2025 (https://www.gov.cn/zhengce/202505/content_7023306.htm) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

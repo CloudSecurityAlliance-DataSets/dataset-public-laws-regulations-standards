@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/mcit.gov.eg/egypt-national-artificial-intelligence-strategy@2025",
+  "name": "Egypt National Artificial Intelligence Strategy (Second Edition 2025–2030 & First Edition 2021)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2025",
+  "publication_id": "egypt-national-artificial-intelligence-strategy-2025",
+  "owner": "Ministry of Communications and Information Technology (MCIT) & EG-CERT (Egypt)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Egypt National Artificial Intelligence Strategy (Second Edition 2025–2030 & First Edition 2021)",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Ministry of Communications and Information Technology (MCIT) & EG-CERT (Egypt) (mcit.gov.eg) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Ministry of Communications and Information Technology (MCIT) & EG-CERT (Egypt) (mcit.gov.eg).",
+  "license": {
+    "spdx": "LicenseRef-EG-Law82-2002-Art141",
+    "Grouping": "Public Domain",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/EG",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (mcit.gov.eg) is governed by Arab Republic of Egypt Law No. 82 of 2002 on the Protection of Intellectual Property Rights Art. 141(1) (official documents such as laws, regulations, and administrative decisions are excluded from copyright protection).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (mcit.gov.eg) is governed by Arab Republic of Egypt Law No. 82 of 2002 on the Protection of Intellectual Property Rights Art. 141(1) (official documents such as laws, regulations, and administrative decisions are excluded from copyright protection)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://ai.gov.eg/",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2025-01-19",
+    "active": true,
+    "supersedes": "secid:reference/mcit.gov.eg/egypt-national-artificial-intelligence-strategy@2021",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/mcit.gov.eg/egypt-national-artificial-intelligence-strategy@2025 (https://ai.gov.eg/) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

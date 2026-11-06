@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/gob.cl/politica-nacional-ciberseguridad@2023-2028",
+  "name": "Política Nacional de Ciberseguridad 2023-2028 (Decreto Supremo N° 164/2023)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2023-2028",
+  "publication_id": "politica-nacional-ciberseguridad-2023-2028",
+  "owner": "Gobierno de Chile",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Política Nacional de Ciberseguridad 2023-2028 (Decreto Supremo N° 164/2023, published December 4, 2023). Chile's national cybersecurity strategy defining objectives across resilient infrastructure, citizen rights in cyberspace, cybersecurity culture, industrial/research development, and international governance under Law No. 21.663 (Ley Marco sobre Ciberseguridad).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Gobierno de Chile (gob.cl) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Gobierno de Chile (gob.cl).",
+  "license": {
+    "spdx": "LicenseRef-CL-Law17336-Official",
+    "Grouping": "Government-Work",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/CL",
+    "note": "Official publication (gob.cl); Republic of Chile Law No. 17,336 on Intellectual Property and Diario Oficial / MinCiencia open government publication terms (official supreme decrees and open-licensed national policy documents).",
+    "notes": "Official publication (gob.cl); Republic of Chile Law No. 17,336 on Intellectual Property and Diario Oficial / MinCiencia open government publication terms (official supreme decrees and open-licensed national policy documents)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.diariooficial.interior.gob.cl/publicaciones/2023/12/04/43717/01/2415658.pdf",
+    "textUsed": "https://www.diariooficial.interior.gob.cl/publicaciones/2023/12/04/43717/01/2415658.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2023-12-04",
+    "active": true,
+    "supersedes": "secid:reference/gob.cl/politica-nacional-ciberseguridad@2017-2022",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 12-page PDF (https://www.diariooficial.interior.gob.cl/publicaciones/2023/12/04/43717/01/2415658.pdf) locally via PyMuPDF (54,349 chars). Parsed 6 sections (2 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

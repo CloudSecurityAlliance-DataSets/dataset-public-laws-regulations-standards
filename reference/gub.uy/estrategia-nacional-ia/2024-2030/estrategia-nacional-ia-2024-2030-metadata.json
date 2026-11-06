@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/gub.uy/estrategia-nacional-ia@2024-2030",
+  "name": "Estrategia Nacional de Inteligencia Artificial 2024–2030",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2024-2030",
+  "publication_id": "estrategia-nacional-ia-2024-2030",
+  "owner": "Presidencia de la República Oriental del Uruguay — AGESIC",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Estrategia Nacional de Inteligencia Artificial 2024–2030 (December 2024). National artificial intelligence strategy of Uruguay coordinated by AGESIC, expanding the 2020 Digital Government AI Strategy into a comprehensive national strategy for 2024–2030.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Presidencia de la República Oriental del Uruguay — AGESIC (gub.uy) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Presidencia de la República Oriental del Uruguay — AGESIC (gub.uy).",
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "Grouping": "Permissive",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.gub.uy/terminos-uso",
+    "note": "Official publication (gub.uy); Oriental Republic of Uruguay official government publication (gub.uy Portal Unificado del Estado Uruguayo Terms of Use / Decree No. 54/017: licensed under Creative Commons Attribution 4.0 International — CC BY 4.0).",
+    "notes": "Official publication (gub.uy); Oriental Republic of Uruguay official government publication (gub.uy Portal Unificado del Estado Uruguayo Terms of Use / Decree No. 54/017: licensed under Creative Commons Attribution 4.0 International — CC BY 4.0)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://oecd.ai/en/dashboards/policy-initiatives/national-artificial-intelligence-strategy-20242030-8923",
+    "textUsed": "https://api.oecd.ai/storage//policy-initiatives/Jul2025/fu_zuwvsu4684ubk5n.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2024-12-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Discovered primary PDF (https://api.oecd.ai/storage//policy-initiatives/Jul2025/fu_zuwvsu4684ubk5n.pdf) from landing page (https://oecd.ai/en/dashboards/policy-initiatives/national-artificial-intelligence-strategy-20242030-8923); extracted 55-page PDF via PyMuPDF (105,759 chars). Parsed 21 sections (0 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

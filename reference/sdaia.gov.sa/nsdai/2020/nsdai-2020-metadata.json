@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/sdaia.gov.sa/nsdai@2020",
+  "name": "National Strategy for Data & AI (NSDAI, 2020)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2020",
+  "publication_id": "nsdai-2020",
+  "owner": "الهيئة السعودية للبيانات والذكاء الاصطناعي / Saudi Data and Artificial Intelligence Authority (SDAIA)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "National Strategy for Data & AI (NSDAI, launched October 21, 2020 with 2030 horizon). National Strategy for Data & AI (NSDAI) of the Kingdom of Saudi Arabia issued by the Saudi Data and AI Authority (SDAIA), setting strategic targets through 2030 across six dimensions: Ambition, Skills, Policy & Regulations, Investment, Research & Innovation, and Ecosystem.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by الهيئة السعودية للبيانات والذكاء الاصطناعي / Saudi Data and Artificial Intelligence Authority (SDAIA) (sdaia.gov.sa) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for الهيئة السعودية للبيانات والذكاء الاصطناعي / Saudi Data and Artificial Intelligence Authority (SDAIA) (sdaia.gov.sa).",
+  "license": {
+    "spdx": "LicenseRef-SA-RD-M41-Art4",
+    "Grouping": "Government-Work",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/SA",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (sdaia.gov.sa) is governed by Kingdom of Saudi Arabia Copyright Law (Royal Decree No. M/41 of 2 Rajab 1424H) Art. 4(1) (laws, regulations, decisions of administrative commissions, and official documents and official translations thereof are excluded from protection).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (sdaia.gov.sa) is governed by Kingdom of Saudi Arabia Copyright Law (Royal Decree No. M/41 of 2 Rajab 1424H) Art. 4(1) (laws, regulations, decisions of administrative commissions, and official documents and official translations thereof are excluded from protection)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://sdaia.gov.sa/en/SDAIA/SdaiaStrategies/Pages/NationalStrategyForDataAndAI.aspx",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2020-10-21",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/sdaia.gov.sa/nsdai@2020 (https://sdaia.gov.sa/en/SDAIA/SdaiaStrategies/Pages/NationalStrategyForDataAndAI.aspx) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/gov.br/e-ciber@2020",
+  "name": "Estratégia Nacional de Segurança Cibernética 2020–2023 (Decreto nº 10.222/2020)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2020",
+  "publication_id": "e-ciber-2020",
+  "owner": "Governo Federal do Brasil",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Estratégia Nacional de Segurança Cibernética (E-Ciber 2020–2023, Decreto nº 10.222/2020).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Governo Federal do Brasil (gov.br) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Governo Federal do Brasil (gov.br).",
+  "license": {
+    "spdx": "LicenseRef-BR-Law9610-Art8-IV",
+    "Grouping": "Public Domain",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.planalto.gov.br/ccivil_03/leis/l9610.htm",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (gov.br) is governed by Brazilian Copyright Law (Lei nº 9.610, de 19 de fevereiro de 1998) Art. 8º(IV) (texts of treaties, laws, decrees, regulations, judicial decisions, and other official acts are not objects of copyright protection) and Federal Open Data Policy (Decreto nº 8.777/2016).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (gov.br) is governed by Brazilian Copyright Law (Lei nº 9.610, de 19 de fevereiro de 1998) Art. 8º(IV) (texts of treaties, laws, decrees, regulations, judicial decisions, and other official acts are not objects of copyright protection) and Federal Open Data Policy (Decreto nº 8.777/2016)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://legislacao.presidencia.gov.br/ficha/?/legisla/legislacao.nsf/Viw_Identificacao/DEC%2010.222-2020&OpenDocument",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2020-02-05",
+    "active": false,
+    "supersedes": null,
+    "supersededBy": "secid:reference/gov.br/e-ciber@2023",
+    "retiredFromActiveUse": "2023-12-26",
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/gov.br/e-ciber@2020 (https://legislacao.presidencia.gov.br/ficha/?/legisla/legislacao.nsf/Viw_Identificacao/DEC%2010.222-2020&OpenDocument) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

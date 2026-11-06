@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/chinhphu.vn/national-cybersecurity-and-safety-strategy@2022",
+  "name": "National Cyber Security and Safety Strategy, Proactively Responding to Challenges from Cyberspace until 2025, Vision 2030 (Decision No. 964/QĐ-TTg) (2022)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2022",
+  "publication_id": "national-cybersecurity-and-safety-strategy-2022",
+  "owner": "Government of the Socialist Republic of Vietnam (Cổng Thông tin điện tử Chính phủ)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "National Cyber Security and Safety Strategy, Proactively Responding to Challenges from Cyberspace until 2025, Vision 2030 (Decision No. 964/QĐ-TTg)",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Government of the Socialist Republic of Vietnam (Cổng Thông tin điện tử Chính phủ) (chinhphu.vn) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Government of the Socialist Republic of Vietnam (Cổng Thông tin điện tử Chính phủ) (chinhphu.vn).",
+  "license": {
+    "spdx": "LicenseRef-VN-IP-Law-Art15-2",
+    "Grouping": "Public Domain",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/VN",
+    "note": "Official publication (chinhphu.vn); Socialist Republic of Vietnam Law on Intellectual Property (No. 50/2005/QH11, as amended) Art. 15(2) (documents of state agencies, political organizations, and armed forces units in the domain of state management — including administrative documents and Prime Ministerial Decisions — and their official translations are not covered by copyright protection).",
+    "notes": "Official publication (chinhphu.vn); Socialist Republic of Vietnam Law on Intellectual Property (No. 50/2005/QH11, as amended) Art. 15(2) (documents of state agencies, political organizations, and armed forces units in the domain of state management — including administrative documents and Prime Ministerial Decisions — and their official translations are not covered by copyright protection)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://chinhphu.vn/?docid=206362&pageid=27160",
+    "textUsed": "https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/08/964qd.signed.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2022-08-10",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tesseract-ocr (vie) + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Discovered primary PDF (https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/08/964qd.signed.pdf) from landing page (https://chinhphu.vn/?docid=206362&pageid=27160); extracted 30-page PDF via PyMuPDF + Tesseract OCR (vie) (64,360 chars). Parsed 37 sections (36 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tesseract-ocr (vie) + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

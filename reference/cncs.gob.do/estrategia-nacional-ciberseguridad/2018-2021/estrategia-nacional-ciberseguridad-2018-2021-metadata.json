@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/cncs.gob.do/estrategia-nacional-ciberseguridad@2018-2021",
+  "name": "Estrategia Nacional de Ciberseguridad 2018-2021 (Decreto 230-18)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2018-2021",
+  "publication_id": "estrategia-nacional-ciberseguridad-2018-2021",
+  "owner": "Centro Nacional de Ciberseguridad de la República Dominicana",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Estrategia Nacional de Ciberseguridad 2018–2021 (Decreto No. 230-18 of June 15, 2018).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Centro Nacional de Ciberseguridad de la República Dominicana (cncs.gob.do) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Centro Nacional de Ciberseguridad de la República Dominicana (cncs.gob.do).",
+  "license": {
+    "spdx": "LicenseRef-DO-Law65-00-Art4-3",
+    "Grouping": "Public Domain",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/DO",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (cncs.gob.do) is governed by Dominican Republic Law No. 65-00 on Copyright Art. 4(3) (official texts of a legislative, administrative or judicial nature, and their official translations, are excluded from copyright protection).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (cncs.gob.do) is governed by Dominican Republic Law No. 65-00 on Copyright Art. 4(3) (official texts of a legislative, administrative or judicial nature, and their official translations, are excluded from copyright protection)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://cncs.gob.do/wp-content/uploads/2022/07/Decreto-313-22.pdf",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2018-06-15",
+    "active": false,
+    "supersedes": null,
+    "supersededBy": "secid:reference/cncs.gob.do/estrategia-nacional-ciberseguridad@2022-2030",
+    "retiredFromActiveUse": "2022-06-14",
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/cncs.gob.do/estrategia-nacional-ciberseguridad@2018-2021 (https://cncs.gob.do/wp-content/uploads/2022/07/Decreto-313-22.pdf) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

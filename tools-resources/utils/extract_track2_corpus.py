@@ -97,13 +97,22 @@ def html_to_clean_markdown(html_text: str, base_url: str, doc_title: str | None 
             tag.decompose()
 
     main = (
-        soup.select_one("main")
+        soup.select_one("#UCAP-CONTENT")
+        or soup.select_one(".pages_content")
+        or soup.select_one("#p-detail")
+        or soup.select_one("#divCont")
+        or soup.select_one("#BodyLabel")
+        or soup.select_one("#content")
+        or soup.select_one("main")
         or soup.select_one("#wb-cont")
         or soup.select_one(".govspeak")
         or soup.select_one("article")
         or soup.body
         or soup
     )
+    if main is not soup.body and soup.body is not None:
+        if len(main.get_text(strip=True)) < 800 and len(soup.body.get_text(strip=True)) > 2000:
+            main = soup.body
     for a_tag in main.find_all("a", href=True):
         href = a_tag["href"].strip()
         if not href:
@@ -122,8 +131,26 @@ def html_to_clean_markdown(html_text: str, base_url: str, doc_title: str | None 
         bullets="-",
         strip=["img"],
     )
-    # Normalize whitespace and blank lines
-    lines = [line.rstrip() for line in md.splitlines()]
+    # Normalize whitespace, strip lex.uz UI widget/classifier chrome, and collapse blank lines
+    lines = []
+    skip_lex_classifier = False
+    for raw_line in md.splitlines():
+        line = raw_line.rstrip()
+        s_line = line.strip()
+        if s_line in ("Ҳужжатга таклиф юборишАудиони тинглашҲужжат элементидан ҳавола олиш", "Ҳужжатга таклиф юбориш"):
+            continue
+        if s_line.startswith(("[**ОКОЗ:**", "[**ТСЗ:**")):
+            if s_line.endswith("]"):
+                continue
+            skip_lex_classifier = True
+            continue
+        if skip_lex_classifier:
+            if s_line.endswith("]"):
+                skip_lex_classifier = False
+            continue
+        if re.match(r"^\[Олдинги\]\(https?://lex\.uz/docs/[^)]+\)\s*таҳрирга\s*қаранг\.?$", s_line):
+            continue
+        lines.append(line)
     cleaned = "\n".join(lines).strip()
     cleaned = re.sub(r"\n{3,}", "\n\n", cleaned)
     if doc_title and not cleaned.startswith("# "):
@@ -132,12 +159,12 @@ def html_to_clean_markdown(html_text: str, base_url: str, doc_title: str | None 
 
 
 def sort_blocks_column_aware(blocks: list[dict], page_w: float, page_h: float, repeated_edges: set[str]) -> list[dict]:
-    """Order PDF text blocks cleanly across single-column, two-column, and bridged full-width layouts."""
+    """Order PDF text blocks cleanly across single-column, two-column, three-column, and bridged full-width layouts."""
     text_blocks = []
     for b in blocks:
         if b.get("type") != 0:
             continue
-        # Check if entire block is an edge header/footer or page number
+        # Check if entire block is an edge header/footer, page number, or margin pillar navigation badge (P1..P5)
         lines_keep = []
         for l in b.get("lines", []):
             l_text = re.sub(r"\s+", " ", "".join(s.get("text", "") for s in l.get("spans", []))).strip()
@@ -149,6 +176,8 @@ def sort_blocks_column_aware(blocks: list[dict], page_w: float, page_h: float, r
                 or re.match(r"^(page\s+)?(\d+|[ivxlcdm]+)$", l_text, re.I)
             ):
                 continue
+            if re.match(r"^P[1-5]$", l_text) and (lb[2] < 45 or lb[0] > page_w - 45):
+                continue
             lines_keep.append(l)
         if not lines_keep:
             continue
@@ -156,26 +185,54 @@ def sort_blocks_column_aware(blocks: list[dict], page_w: float, page_h: float, r
         b_copy["lines"] = lines_keep
         text_blocks.append(b_copy)
 
+    # Detect 3-column landscape layouts (e.g. OAS 2022 Inter-American Cybersecurity Strategy pages)
+    is_three_col = (
+        page_w > page_h
+        and sum(
+            1
+            for b in text_blocks
+            if page_w * 0.35 <= b.get("bbox", (0, 0, 0, 0))[0] <= page_w * 0.44
+            and b.get("bbox", (0, 0, 0, 0))[2] <= page_w * 0.70
+            and page_w * 0.18 <= (b.get("bbox", (0, 0, 0, 0))[2] - b.get("bbox", (0, 0, 0, 0))[0]) <= page_w * 0.34
+        )
+        >= 2
+        and not any(
+            page_w * 0.37 <= (b.get("bbox", (0, 0, 0, 0))[2] - b.get("bbox", (0, 0, 0, 0))[0]) <= page_w * 0.45
+            for b in text_blocks
+        )
+    )
+
     col_items = []
     for b in text_blocks:
         x0, y0, x1, y1 = b.get("bbox", (0, 0, 0, 0))
+        bw = x1 - x0
         full_b_txt = re.sub(
             r"\s+",
             " ",
             " ".join("".join(s.get("text", "") for s in l.get("spans", [])).strip() for l in b.get("lines", [])),
         ).strip()
+        min_other_x = page_w * 0.34 if is_three_col else page_w * 0.46
         is_band_heading = (
             x0 <= page_w * 0.20
             and not full_b_txt.startswith(("•", "-"))
             and bool(re.match(r"^[A-Z0-9\s,\-–—\(\)’':;/\.]{2,140}$", full_b_txt))
             and not any(
                 ob is not b
-                and ob.get("bbox", (0, 0, 0, 0))[0] >= page_w * 0.46
+                and ob.get("bbox", (0, 0, 0, 0))[0] >= min_other_x
                 and not (ob.get("bbox", (0, 0, 0, 0))[3] < y0 - 2 or ob.get("bbox", (0, 0, 0, 0))[1] > y1 + 2)
                 for ob in text_blocks
             )
         )
-        if is_band_heading:
+        if is_three_col:
+            if bw <= page_w * 0.38 and x1 <= page_w * 0.42:
+                col = "col1"
+            elif bw <= page_w * 0.38 and x0 >= page_w * 0.36 and x1 <= page_w * 0.70:
+                col = "col2"
+            elif bw <= page_w * 0.38 and x0 >= page_w * 0.65:
+                col = "col3"
+            else:
+                col = "full"
+        elif is_band_heading:
             col = "full"
         elif x1 <= page_w * 0.54:
             col = "left"
@@ -186,6 +243,11 @@ def sort_blocks_column_aware(blocks: list[dict], page_w: float, page_h: float, r
         col_items.append((col, y0, x0, b))
 
     def order_band(band_items: list[tuple[str, float, float, dict]]) -> list[dict]:
+        if is_three_col and any(c in ("col1", "col2", "col3") for c, _, _, _ in band_items):
+            c1 = [item[3] for item in sorted(band_items, key=lambda t: (t[1], t[2])) if item[0] == "col1"]
+            c2 = [item[3] for item in sorted(band_items, key=lambda t: (t[1], t[2])) if item[0] == "col2"]
+            c3 = [item[3] for item in sorted(band_items, key=lambda t: (t[1], t[2])) if item[0] == "col3"]
+            return c1 + c2 + c3
         has_l = any(c == "left" for c, _, _, _ in band_items)
         has_r = any(c == "right" for c, _, _, _ in band_items)
         if has_l and has_r:
@@ -238,6 +300,17 @@ def is_toc_or_rollup_page(blocks: list[dict]) -> bool:
 def pdf_bytes_to_markdown(pdf_bytes: bytes, doc_title: str) -> tuple[str, int]:
     """Convert PDF bytes to structured Markdown using column-aware PyMuPDF block ordering + TOC + font-size analysis."""
     doc = pymupdf.open(stream=pdf_bytes, filetype="pdf")
+    # Repair corrupt Hebrew ToUnicode CMap streams (e.g. Israel INCD 2025 strategy PDF where glyphs 0x0B7D=ץ and 0x0B7F=ק map to 0x0020 space)
+    for xref in range(1, doc.xref_length()):
+        try:
+            st = doc.xref_stream(xref)
+        except Exception:
+            st = None
+        if st and b"begincmap" in st and (b"<0B7D> <0B7D> [<0020>]" in st or b"<0B7F> <0B7F> [<0020>]" in st):
+            st_fixed = st.replace(b"<0B7D> <0B7D> [<0020>]", b"<0B7D> <0B7D> [<05E5>]").replace(
+                b"<0B7F> <0B7F> [<0020>]", b"<0B7F> <0B7F> [<05E7>]"
+            )
+            doc.update_stream(xref, st_fixed)
     num_pages = len(doc)
     toc = doc.get_toc()
     toc_map = {}

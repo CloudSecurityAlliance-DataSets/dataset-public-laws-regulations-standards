@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/dgssi.gov.ma/maroc-digital-2030@2024",
+  "name": "Maroc Digital 2030 (National Digital and AI Strategy of Morocco) (2024)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2024",
+  "publication_id": "maroc-digital-2030-2024",
+  "owner": "General Directorate of Information Systems Security (DGSSI) & Ministry of Digital Transition (Morocco)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Maroc Digital 2030 (National Digital and AI Strategy of Morocco)",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by General Directorate of Information Systems Security (DGSSI) & Ministry of Digital Transition (Morocco) (dgssi.gov.ma) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for General Directorate of Information Systems Security (DGSSI) & Ministry of Digital Transition (Morocco) (dgssi.gov.ma).",
+  "license": {
+    "spdx": "LicenseRef-MA-Law2-00-Art8",
+    "Grouping": "Public Domain",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/MA",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (dgssi.gov.ma) is governed by Kingdom of Morocco Law No. 2-00 on Copyright and Related Rights Art. 8(a) (protection does not extend to official texts of a legislative, administrative or judicial nature, nor to their official translations).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (dgssi.gov.ma) is governed by Kingdom of Morocco Law No. 2-00 on Copyright and Related Rights Art. 8(a) (protection does not extend to official texts of a legislative, administrative or judicial nature, nor to their official translations)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.mmsp.gov.ma/",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2024-09-25",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/dgssi.gov.ma/maroc-digital-2030@2024 (https://www.mmsp.gov.ma/) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

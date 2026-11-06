@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/mitic.gov.py/estrategia-nacional-ciberseguridad@2025-2028",
+  "name": "Estrategia Nacional de Ciberseguridad del Paraguay 2025–2028 (Decreto N° 3900/2025)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2025-2028",
+  "publication_id": "estrategia-nacional-ciberseguridad-2025-2028",
+  "owner": "Ministerio de Tecnologías de la Información y Comunicación del Paraguay",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Estrategia Nacional de Ciberseguridad 2025–2028 (enacted by Decreto N° 3900/2025 of May 22, 2025; text published November 14, 2024). National cybersecurity strategy of the Republic of Paraguay prepared by MITIC and CERT-PY.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Ministerio de Tecnologías de la Información y Comunicación del Paraguay (mitic.gov.py) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Ministerio de Tecnologías de la Información y Comunicación del Paraguay (mitic.gov.py).",
+  "license": {
+    "spdx": "LicenseRef-PY-Law1328-Art8",
+    "Grouping": "Public Domain",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/PY",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (mitic.gov.py) is governed by Republic of Paraguay Law No. 1328/1998 on Copyright and Related Rights Art. 8(2) (official texts of a legislative, administrative or judicial nature, and their official translations, are excluded from copyright protection).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (mitic.gov.py) is governed by Republic of Paraguay Law No. 1328/1998 on Copyright and Related Rights Art. 8(2) (official texts of a legislative, administrative or judicial nature, and their official translations, are excluded from copyright protection)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://mitic.gov.py/eoj0cad9uplo/2024/11/ENC-Paraguay-2024-2028-14Nov2024-1.pdf",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2025-05-22",
+    "active": true,
+    "supersedes": "secid:reference/mitic.gov.py/estrategia-nacional-ciberseguridad@2017",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/mitic.gov.py/estrategia-nacional-ciberseguridad@2025-2028 (https://mitic.gov.py/eoj0cad9uplo/2024/11/ENC-Paraguay-2024-2028-14Nov2024-1.pdf) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

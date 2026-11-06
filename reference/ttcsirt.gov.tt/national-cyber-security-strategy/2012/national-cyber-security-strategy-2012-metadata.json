@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/ttcsirt.gov.tt/national-cyber-security-strategy@2012",
+  "name": "Government of the Republic of Trinidad and Tobago National Cyber Security Strategy (2012)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2012",
+  "publication_id": "national-cyber-security-strategy-2012",
+  "owner": "Trinidad and Tobago Cyber Security Incident Response Team (TT-CSIRT)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Government of the Republic of Trinidad and Tobago National Cyber Security Strategy (December 2012). National cybersecurity strategy of the Republic of Trinidad and Tobago prepared by the Inter-Ministerial Committee for Cyber Security across governance, incident management (establishing TT-CSIRT), critical infrastructure protection, legal reform, and culture/awareness.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Trinidad and Tobago Cyber Security Incident Response Team (TT-CSIRT) (ttcsirt.gov.tt) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Trinidad and Tobago Cyber Security Incident Response Team (TT-CSIRT) (ttcsirt.gov.tt).",
+  "license": {
+    "spdx": "LicenseRef-TT-Chap82-80-Sec7",
+    "Grouping": "Public Domain",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/TT",
+    "note": "Official publication (ttcsirt.gov.tt); Republic of Trinidad and Tobago Copyright Act (Chap. 82:80, Act No. 8 of 1997) Sec. 7(1)(b) (no copyright protection extends to any official text of a legislative, administrative or legal nature, or any official translation thereof).",
+    "notes": "Official publication (ttcsirt.gov.tt); Republic of Trinidad and Tobago Copyright Act (Chap. 82:80, Act No. 8 of 1997) Sec. 7(1)(b) (no copyright protection extends to any official text of a legislative, administrative or legal nature, or any official translation thereof)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://ttcsirt.gov.tt/wp-content/uploads/2024/07/National_Cyber_Security_Stategy_2012.pdf",
+    "textUsed": "https://ttcsirt.gov.tt/wp-content/uploads/2024/07/National_Cyber_Security_Stategy_2012.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2012-12-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 30-page PDF (https://ttcsirt.gov.tt/wp-content/uploads/2024/07/National_Cyber_Security_Stategy_2012.pdf) locally via PyMuPDF (40,945 chars). Parsed 11 sections (8 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}
