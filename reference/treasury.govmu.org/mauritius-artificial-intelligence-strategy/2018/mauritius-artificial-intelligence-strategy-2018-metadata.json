@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/treasury.govmu.org/mauritius-artificial-intelligence-strategy@2018",
+  "name": "Mauritius Artificial Intelligence Strategy (2018)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2018",
+  "publication_id": "mauritius-artificial-intelligence-strategy-2018",
+  "owner": "Government of the Republic of Mauritius (Ministry of Information Technology, Communication and Innovation)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Mauritius Artificial Intelligence Strategy",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Government of the Republic of Mauritius (Ministry of Information Technology, Communication and Innovation) (treasury.govmu.org) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Government of the Republic of Mauritius (Ministry of Information Technology, Communication and Innovation) (treasury.govmu.org).",
+  "license": {
+    "spdx": "LicenseRef-MU-Copyright-2014-Sec7",
+    "Grouping": "Public Domain",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.wipo.int/wipolex/en/legislation/details/15091",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (treasury.govmu.org) is governed by Republic of Mauritius Copyright Act 2014 (Act No. 2 of 2014) Sec. 7(1)(b) (no copyright protection extends to any official text of a legislative, administrative or legal nature, or any official translation thereof).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (treasury.govmu.org) is governed by Republic of Mauritius Copyright Act 2014 (Act No. 2 of 2014) Sec. 7(1)(b) (no copyright protection extends to any official text of a legislative, administrative or legal nature, or any official translation thereof)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://mitci.govmu.org/",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2018-11-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/treasury.govmu.org/mauritius-artificial-intelligence-strategy@2018 (https://mitci.govmu.org/) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

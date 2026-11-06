@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/chinhphu.vn/vietnam-national-defense-white-paper@2019",
+  "name": "Vietnam National Defense White Paper (Sách trắng Quốc phòng Việt Nam) (2019)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2019",
+  "publication_id": "vietnam-national-defense-white-paper-2019",
+  "owner": "Government of the Socialist Republic of Vietnam (Cổng Thông tin điện tử Chính phủ)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Vietnam National Defense White Paper (Sách trắng Quốc phòng Việt Nam)",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Government of the Socialist Republic of Vietnam (Cổng Thông tin điện tử Chính phủ) (chinhphu.vn) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Government of the Socialist Republic of Vietnam (Cổng Thông tin điện tử Chính phủ) (chinhphu.vn).",
+  "license": {
+    "spdx": "LicenseRef-VN-IP-Law-Art15-2",
+    "Grouping": "Public Domain",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.wipo.int/wipolex/en/legislation/details/21392",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (chinhphu.vn) is governed by Socialist Republic of Vietnam Law on Intellectual Property (No. 50/2005/QH11, as amended) Art. 15(2) (documents of state agencies, political organizations, and armed forces units in the domain of state management — including administrative documents and Prime Ministerial Decisions — and their official translations are not covered by copyright protection).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (chinhphu.vn) is governed by Socialist Republic of Vietnam Law on Intellectual Property (No. 50/2005/QH11, as amended) Art. 15(2) (documents of state agencies, political organizations, and armed forces units in the domain of state management — including administrative documents and Prime Ministerial Decisions — and their official translations are not covered by copyright protection)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://mod.gov.vn/",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2019-11-25",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/chinhphu.vn/vietnam-national-defense-white-paper@2019 (https://mod.gov.vn/) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

@@ -39,9 +39,17 @@ ID_PATTERNS = [
     # Part I / Part 1 / Part (1) / Part One / Раздел I / Розділ I / Teil 1 / Partie 1: "Part I: ..."
     (re.compile(r"^((?:Part|Partie|Parte|Teil|Deel|Del|Část|Časť|Раздел|Розділ|Часть|Частина)\s+(?:[IVXLCDM]+|\([ivxlcdm]+\)|\d+|\(\d+\)|One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten))\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "part"),
     # CHAPTER 25.1 / Chapter 1 / Chapter One / Глава 1 / Kapitel 1 / Chapitre 1 / Capítulo 1: "CHAPTER 25.1. Transparency in ..."
-    (re.compile(r"^((?:CHAPTER|Chapitre|Cap[ií]tulo|Capitolo|Kapitel|Hoofdstuk|Kapitola|Poglavje|Rozdzia[łl]|Глава)\s+(?:\d+(?:\.\d+)?|\(\d+\)|[IVXLCDM]+|\([ivxlcdm]+\)|One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten))\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "chapter"),
-    # Strategic Objective 1.1 / Objective 1.1 / Objective 2a / Implementation 6.1
-    (re.compile(r"^((?:Strategic\s+)?Objective\s+\d+[a-z]?(?:\.\d+)*|Implementation\s+\d+(?:\.\d+)*)\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "objective"),
+    (re.compile(r"^((?:CHAPTER|Chapitre|Cap[ií]tulo|Capitolo|Kapitel|Hoofdstuk|Kapitola|Poglavje|Rozdzia[łl]|Глава|BAHAGIAN)\s+(?:\d+(?:\.\d+)?|\(\d+\)|[IVXLCDM]+|\([ivxlcdm]+\)|One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten))\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "chapter"),
+    # Chinese & Uzbek/Kazakh chapter/section/annex markers: "第一章 ...", "第一节 ...", "1-боб. ...", "I-бўлим. ...", "1-ИЛОВА"
+    (re.compile(r"^(第[一二三四五六七八九十百0-9０-９]+[章节篇编部節編条])\s*(.+)$"), "chapter"),
+    (re.compile(r"^((?:[IVXLCDM]+|\d+)-(?:боб|бўлим|тарау|ИЛОВА))\s*[:\.\-–—]?\s*(.*)$", re.IGNORECASE), "chapter"),
+    # CJK top-level & parenthesized numbering: "一、...", "（一）..."
+    (re.compile(r"^([一二三四五六七八九十壹貳參肆伍陸柒捌玖拾]+)[、．\.]\s*(.+)$"), "numbered"),
+    (re.compile(r"^[（\(]([一二三四五六七八九十0-9]+)[）\)]\s*(.+)$"), "numbered"),
+    # Artículo / Artigo / Article / Thrust: "ARTÍCULO 1. Objeto..."
+    (re.compile(r"^((?:Art[ií]culo|Artigo|Article|Thrust\s*#?)\s*\d+(?:\.\d+)*[º°]?)\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "section_word"),
+    # Strategic Objective 1.1 / Objective 1.1 / Objective 2a / Implementation 6.1 / Línea Estratégica 1.1
+    (re.compile(r"^((?:Strategic\s+)?Objective\s+\d+[a-z]?(?:\.\d+)*|Implementation\s+\d+(?:\.\d+)*|L[ií]nea\s+Estrat[eé]gica\s+\d+(?:\.\d+)*)\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "objective"),
     # Initiative 1.1.1 / Eylem 1.1: Title
     (re.compile(r"^((?:Initiative|Eylem)\s+\d+(?:\.\d+)+)\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "initiative"),
     # Goal 1 / Priority 1 / Strategic Priority 1 / Línea de acción 1 / Line of action 1 / Principle 1 / Recommendation 1 / Finding 1: Title
@@ -59,7 +67,7 @@ ID_PATTERNS = [
     # Plain hierarchical numbering "1.1 Title" / "1.1. Title" / "2.3.1 Title"
     (re.compile(r"^(\d{1,2}(?:\.\d{1,2}){1,3})\.?\s*[:\-–—]?\s+(?!(?:M€|B€|€|\$|£|%|million|billion|trillion)\b)(.+)$", re.IGNORECASE), "numbered"),
     # Single-number section heading "1. Introduction" / "1 Introduction" (excluding "4 x SSBN" force counts and "30 June 2018" dates)
-    (re.compile(r"^(\d{1,3})(?:[:\.\-–—]\s+|\s+(?![xX]\b)(?!(?:January|February|March|April|May|June|July|August|September|October|November|December|Jan|Feb|Mar|Apr|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\b)(?!.*\b\d+\s+[xX]\s+))([A-Z\u00c0-\u024f\u0400-\u04ff].+)$"), "numbered"),
+    (re.compile(r"^(\d{1,3})(?:[:\.\-–—]\s+|\s+(?![xX]\b)(?!(?:January|February|March|April|May|June|July|August|September|October|November|December|Jan|Feb|Mar|Apr|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\b)(?!.*\b\d+\s+[xX]\s+))([A-Z\u00c0-\u024f\u0400-\u04ff\u0590-\u06ff\u0e00-\u0e7f\u4e00-\u9fff].+)$"), "numbered"),
 ]
 
 
@@ -89,7 +97,9 @@ def parse_heading(text: str):
         if m:
             if m.lastindex and m.lastindex >= 2:
                 title_part = m.group(2).strip()
-                if (pat is ID_PATTERNS[-1][0] or kind in ("letter", "roman")) and title_part and not title_part[0].isupper():
+                if (pat is ID_PATTERNS[-1][0] or kind in ("letter", "roman")) and title_part and not (
+                    title_part[0].isupper() or "\u0600" <= title_part[0] <= "\u9fff"
+                ):
                     continue
                 return m.group(1).rstrip("."), title_part, kind
             sid_val = m.group(1).rstrip(".")

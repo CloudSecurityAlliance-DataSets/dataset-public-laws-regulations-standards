@@ -16,7 +16,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 
 ## Summary
 
-**Total documents indexed:** 767
+**Total documents indexed:** 914
 
 | Type | structured | extracted | metadata-only | readme-only | empty | **Total** |
 |---|---:|---:|---:|---:|---:|---:|
@@ -25,8 +25,8 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `weakness/` | 1 | — | 1 | — | — | **2** |
 | `ttp/` | 1 | — | 4 | — | — | **5** |
 | `methodology/` | 9 | — | — | — | — | **9** |
-| `reference/` | 189 | 122 | 214 | 4 | 6 | **535** |
-| **Total** | **320** | **179** | **258** | **4** | **6** | **767** |
+| `reference/` | 221 | 122 | 329 | 4 | 6 | **682** |
+| **Total** | **352** | **179** | **373** | **4** | **6** | **914** |
 
 ## control/
 
@@ -292,14 +292,26 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/acn.gov.it/strategia-nazionale-cybersicurezza/2013/` | structured | 4 | `MX·CS··` | `secid:reference/acn.gov.it/strategia-nazionale-cybersicurezza@2013` |
 | `reference/acn.gov.it/strategia-nazionale-cybersicurezza/2017/` | structured | 4 | `MX·CS··` | `secid:reference/acn.gov.it/strategia-nazionale-cybersicurezza@2017` |
 | `reference/acn.gov.it/strategia-nazionale-cybersicurezza/2022-2026/` | structured | 4 | `MX·CS··` | `secid:reference/acn.gov.it/strategia-nazionale-cybersicurezza@2022-2026` |
+| `reference/adilet.zan.kz/concept-for-development-of-ai-in-kazakhstan/2024/` | metadata-only | 1 | `M······` | `secid:reference/adilet.zan.kz/concept-for-development-of-ai-in-kazakhstan@2024` |
+| `reference/adilet.zan.kz/cybershield-kazakhstan/2017/` | metadata-only | 1 | `M······` | `secid:reference/adilet.zan.kz/cybershield-kazakhstan@2017` |
+| `reference/adilet.zan.kz/cybershield-kazakhstan/2023/` | metadata-only | 1 | `M······` | `secid:reference/adilet.zan.kz/cybershield-kazakhstan@2023` |
+| `reference/adilet.zan.kz/national-security-strategy-of-kazakhstan/2021/` | metadata-only | 1 | `M······` | `secid:reference/adilet.zan.kz/national-security-strategy-of-kazakhstan@2021` |
 | `reference/agid.gov.it/cert-agid-glossario/` | structured | 5 | `MX·CSP·` | `secid:reference/agid.gov.it/cert-agid-glossario` |
 | `reference/agid.gov.it/strategia-italiana-ia/2022-2024/` | structured | 4 | `MX·CS··` | `secid:reference/agid.gov.it/strategia-italiana-ia@2022-2024` |
 | `reference/agid.gov.it/strategia-italiana-ia/2024-2026/` | structured | 4 | `MX·CS··` | `secid:reference/agid.gov.it/strategia-italiana-ia@2024-2026` |
+| `reference/aig.gob.pa/estrategia-nacional-ciberseguridad/2013/` | metadata-only | 1 | `M······` | `secid:reference/aig.gob.pa/estrategia-nacional-ciberseguridad@2013` |
+| `reference/aig.gob.pa/estrategia-nacional-ciberseguridad/2021-2024/` | metadata-only | 1 | `M······` | `secid:reference/aig.gob.pa/estrategia-nacional-ciberseguridad@2021-2024` |
+| `reference/aii.et/ethiopia-national-artificial-intelligence-policy/2024/` | metadata-only | 1 | `M······` | `secid:reference/aii.et/ethiopia-national-artificial-intelligence-policy@2024` |
+| `reference/aii.et/national-information-security-policy-of-ethiopia/2011/` | metadata-only | 1 | `M······` | `secid:reference/aii.et/national-information-security-policy-of-ethiopia@2011` |
 | `reference/amazon.com/aws-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/amazon.com/aws-glossary` |
 | `reference/amazon.com/security-guidance/` | empty | 0 | `·······` | — |
 | `reference/amazon.com/wellarchitected-security-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/amazon.com/wellarchitected-security-glossary` |
 | `reference/anthropic.com/model-cards/` | readme-only | 1 | `·······` | — |
 | `reference/apple.com/platform-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/apple.com/platform-security-glossary` |
+| `reference/argentina.gob.ar/directiva-politica-defensa-nacional/2021/` | metadata-only | 1 | `M······` | `secid:reference/argentina.gob.ar/directiva-politica-defensa-nacional@2021` |
+| `reference/argentina.gob.ar/estrategia-nacional-ciberseguridad/2019/` | metadata-only | 1 | `M······` | `secid:reference/argentina.gob.ar/estrategia-nacional-ciberseguridad@2019` |
+| `reference/argentina.gob.ar/estrategia-nacional-ciberseguridad/2023/` | structured | 4 | `MX·CS··` | `secid:reference/argentina.gob.ar/estrategia-nacional-ciberseguridad@2023` |
+| `reference/argentina.gob.ar/plan-nacional-ia/2019/` | structured | 4 | `MX·CS··` | `secid:reference/argentina.gob.ar/plan-nacional-ia@2019` |
 | `reference/asisonline.org/security-industry-glossary/` | metadata-only | 1 | `M······` | `secid:reference/asisonline.org/security-industry-glossary` |
 | `reference/bankid.com/glossary/` | metadata-only | 1 | `M······` | `secid:reference/bankid.com/glossary` |
 | `reference/beyondtrust.com/cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/beyondtrust.com/cybersecurity-glossary` |
@@ -318,11 +330,18 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/broadcom.com/enterprise-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/broadcom.com/enterprise-security-glossary` |
 | `reference/bsi.bund.de/glossary/` | metadata-only | 1 | `M······` | `secid:reference/bsi.bund.de/glossary` |
 | `reference/bsigroup.com/cyber-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/bsigroup.com/cyber-security-glossary` |
+| `reference/bssn.go.id/buku-putih-pertahanan-indonesia/2015/` | metadata-only | 1 | `M······` | `secid:reference/bssn.go.id/buku-putih-pertahanan-indonesia@2015` |
+| `reference/bssn.go.id/strategi-keamanan-siber-nasional/2023/` | metadata-only | 1 | `M······` | `secid:reference/bssn.go.id/strategi-keamanan-siber-nasional@2023` |
+| `reference/bssn.go.id/strategi-nasional-kecerdasan-artifisial/2020/` | metadata-only | 1 | `M······` | `secid:reference/bssn.go.id/strategi-nasional-kecerdasan-artifisial@2020` |
 | `reference/bugcrowd.com/glossary/` | metadata-only | 1 | `M······` | `secid:reference/bugcrowd.com/glossary` |
 | `reference/bundesregierung.de/ki-strategie/2018/` | structured | 4 | `MX·CS··` | `secid:reference/bundesregierung.de/ki-strategie@2018` |
 | `reference/bundesregierung.de/ki-strategie/2020/` | structured | 4 | `MX·CS··` | `secid:reference/bundesregierung.de/ki-strategie@2020` |
 | `reference/bundesregierung.de/nationale-sicherheitsstrategie/2023/` | structured | 4 | `MX·CS··` | `secid:reference/bundesregierung.de/nationale-sicherheitsstrategie@2023` |
 | `reference/ca.gov/sam-5300-definitions/` | structured | 5 | `MX·CSP·` | `secid:reference/ca.gov/sam-5300-definitions` |
+| `reference/cac.gov.cn/14th-five-year-plan-national-informatization/2021-2025/` | structured | 4 | `MX·CS··` | `secid:reference/cac.gov.cn/14th-five-year-plan-national-informatization@2021-2025` |
+| `reference/cac.gov.cn/global-ai-governance-initiative/2023/` | structured | 4 | `MX·CS··` | `secid:reference/cac.gov.cn/global-ai-governance-initiative@2023` |
+| `reference/cac.gov.cn/international-strategy-of-cooperation-on-cyberspace/2017/` | structured | 4 | `MX·CS··` | `secid:reference/cac.gov.cn/international-strategy-of-cooperation-on-cyberspace@2017` |
+| `reference/cac.gov.cn/national-cyberspace-security-strategy/2016/` | structured | 4 | `MX·CS··` | `secid:reference/cac.gov.cn/national-cyberspace-security-strategy@2016` |
 | `reference/canada.ca/enterprise-cyber-security-strategy/2024/` | structured | 4 | `MX·CS··` | `secid:reference/canada.ca/enterprise-cyber-security-strategy@2024` |
 | `reference/canada.ca/enterprise-cyber-security-strategy-glossary/` | structured | 7 | `MX·CSP·` | `secid:reference/canada.ca/enterprise-cyber-security-strategy-glossary` |
 | `reference/canada.ca/national-ai-strategy/2017/` | metadata-only | 1 | `M······` | `secid:reference/canada.ca/national-ai-strategy@2017` |
@@ -344,6 +363,9 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/ccb.fgov.be/cyber-security-strategy-belgium/2021/` | metadata-only | 1 | `M······` | `secid:reference/ccb.fgov.be/cyber-security-strategy-belgium@2021` |
 | `reference/ccb.fgov.be/national-security-strategy/2022/` | metadata-only | 1 | `M······` | `secid:reference/ccb.fgov.be/national-security-strategy@2022` |
 | `reference/ccdcoe.org/glossary/` | structured | 6 | `MX·CSP·` | `secid:reference/ccdcoe.org/glossary` |
+| `reference/cert.gov.lk/national-information-and-cyber-security-strategy/2019/` | metadata-only | 1 | `M······` | `secid:reference/cert.gov.lk/national-information-and-cyber-security-strategy@2019` |
+| `reference/cert.gov.lk/national-information-and-cyber-security-strategy/2025/` | metadata-only | 1 | `M······` | `secid:reference/cert.gov.lk/national-information-and-cyber-security-strategy@2025` |
+| `reference/cert.gov.lk/sri-lanka-national-ai-strategy/2024/` | metadata-only | 1 | `M······` | `secid:reference/cert.gov.lk/sri-lanka-national-ai-strategy@2024` |
 | `reference/cfcs.dk/foreign-and-security-policy-strategy/2023/` | metadata-only | 1 | `M······` | `secid:reference/cfcs.dk/foreign-and-security-policy-strategy@2023` |
 | `reference/cfcs.dk/national-strategy-for-artificial-intelligence/2019/` | metadata-only | 1 | `M······` | `secid:reference/cfcs.dk/national-strategy-for-artificial-intelligence@2019` |
 | `reference/cfcs.dk/national-strategy-for-artificial-intelligence/2024/` | metadata-only | 1 | `M······` | `secid:reference/cfcs.dk/national-strategy-for-artificial-intelligence@2024` |
@@ -351,6 +373,9 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/checkmarx.com/application-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/checkmarx.com/application-security-glossary` |
 | `reference/checkmk.com/glossary/` | metadata-only | 1 | `M······` | `secid:reference/checkmk.com/glossary` |
 | `reference/checkpoint.com/cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/checkpoint.com/cybersecurity-glossary` |
+| `reference/chinhphu.vn/national-cybersecurity-and-safety-strategy/2022/` | structured | 4 | `MX·CS··` | `secid:reference/chinhphu.vn/national-cybersecurity-and-safety-strategy@2022` |
+| `reference/chinhphu.vn/national-strategy-on-rd-and-application-of-ai/2021/` | structured | 4 | `MX·CS··` | `secid:reference/chinhphu.vn/national-strategy-on-rd-and-application-of-ai@2021` |
+| `reference/chinhphu.vn/vietnam-national-defense-white-paper/2019/` | metadata-only | 1 | `M······` | `secid:reference/chinhphu.vn/vietnam-national-defense-white-paper@2019` |
 | `reference/cisa.gov/cpg/` | extracted | 3 | `MX·····` | `secid:reference/cisa.gov/cpg` |
 | `reference/cisa.gov/govcar/` | metadata-only | 2 | `M······` | `secid:reference/cisa.gov/govcar` |
 | `reference/cisa.gov/kev/` | metadata-only | 2 | `M······` | `secid:reference/cisa.gov/kev` |
@@ -359,6 +384,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/cisco.com/security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cisco.com/security-glossary` |
 | `reference/cisecurity.org/cybersecurity-terms-definitions/` | metadata-only | 1 | `M······` | `secid:reference/cisecurity.org/cybersecurity-terms-definitions` |
 | `reference/cisecurity.org/oval/` | extracted | 3 | `MX·····` | `secid:reference/cisecurity.org/oval` |
+| `reference/citra.gov.kw/kuwait-national-cybersecurity-strategy/2017/` | metadata-only | 1 | `M······` | `secid:reference/citra.gov.kw/kuwait-national-cybersecurity-strategy@2017` |
 | `reference/citrix.com/glossary/` | metadata-only | 1 | `M······` | `secid:reference/citrix.com/glossary` |
 | `reference/cloudflare.com/ai-crawl-control-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/ai-crawl-control-glossary` |
 | `reference/cloudflare.com/ai-gateway-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/ai-gateway-glossary` |
@@ -395,12 +421,20 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/cloudsecurityalliance.org/cloud-security-glossary/` | structured | 7 | `MX·CSP·` | `secid:reference/cloudsecurityalliance.org/cloud-security-glossary` |
 | `reference/cloudsecurityalliance.org/star-for-ai-level-1-submission-guide/v1.1/` | extracted | 10 (+6 imgs) | `MX····I` | `secid:reference/cloudsecurityalliance.org/star-for-ai-level-1-submission-guide@v1.1` |
 | `reference/cmu.edu/iso-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cmu.edu/iso-glossary` |
+| `reference/cncs.gob.do/estrategia-nacional-ciberseguridad/2018-2021/` | metadata-only | 1 | `M······` | `secid:reference/cncs.gob.do/estrategia-nacional-ciberseguridad@2018-2021` |
+| `reference/cncs.gob.do/estrategia-nacional-ciberseguridad/2022-2030/` | structured | 4 | `MX·CS··` | `secid:reference/cncs.gob.do/estrategia-nacional-ciberseguridad@2022-2030` |
 | `reference/cncs.gov.pt/ai-portugal-2030/2019/` | metadata-only | 1 | `M······` | `secid:reference/cncs.gov.pt/ai-portugal-2030@2019` |
 | `reference/cncs.gov.pt/ai-portugal-2030/2026/` | metadata-only | 1 | `M······` | `secid:reference/cncs.gov.pt/ai-portugal-2030@2026` |
 | `reference/cncs.gov.pt/national-cyberspace-security-strategy/2019/` | metadata-only | 1 | `M······` | `secid:reference/cncs.gov.pt/national-cyberspace-security-strategy@2019` |
 | `reference/cncs.gov.pt/strategic-concept-of-national-defence/2013/` | metadata-only | 1 | `M······` | `secid:reference/cncs.gov.pt/strategic-concept-of-national-defence@2013` |
 | `reference/connectwise.com/connectwise-cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/connectwise.com/connectwise-cybersecurity-glossary` |
 | `reference/cribl.io/cribl-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cribl.io/cribl-glossary` |
+| `reference/csa.gov.gh/ghana-national-artificial-intelligence-strategy/2023/` | metadata-only | 1 | `M······` | `secid:reference/csa.gov.gh/ghana-national-artificial-intelligence-strategy@2023` |
+| `reference/csa.gov.gh/ghana-national-cybersecurity-policy-and-strategy/2015/` | metadata-only | 1 | `M······` | `secid:reference/csa.gov.gh/ghana-national-cybersecurity-policy-and-strategy@2015` |
+| `reference/csa.gov.gh/ghana-national-cybersecurity-policy-and-strategy/2024/` | metadata-only | 1 | `M······` | `secid:reference/csa.gov.gh/ghana-national-cybersecurity-policy-and-strategy@2024` |
+| `reference/csa.gov.gh/ghana-national-security-strategy/2021/` | metadata-only | 1 | `M······` | `secid:reference/csa.gov.gh/ghana-national-security-strategy@2021` |
+| `reference/cscouncil.gov.mn/national-cybersecurity-strategy-of-mongolia/2022/` | metadata-only | 1 | `M······` | `secid:reference/cscouncil.gov.mn/national-cybersecurity-strategy-of-mongolia@2022` |
+| `reference/cscouncil.gov.mn/national-security-concept-of-mongolia/2010/` | metadata-only | 1 | `M······` | `secid:reference/cscouncil.gov.mn/national-security-concept-of-mongolia@2010` |
 | `reference/ct.gov/cybersecurity-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/ct.gov/cybersecurity-glossary` |
 | `reference/cve.org/cve-glossary/` | structured | 6 | `MX·CSP·` | `secid:reference/cve.org/cve-glossary` |
 | `reference/cyber.gc.ca/glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/cyber.gc.ca/glossary` |
@@ -414,6 +448,22 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/cyberveilignederland.nl/cyberveilig-woordenboek/` | structured | 5 | `MX·CSP·` | `secid:reference/cyberveilignederland.nl/cyberveilig-woordenboek` |
 | `reference/debian.org/debian-security-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/debian.org/debian-security-glossary` |
 | `reference/devolutions.net/devolutions-it-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/devolutions.net/devolutions-it-security-glossary` |
+| `reference/dgssi.gov.ma/maroc-digital-2030/2024/` | metadata-only | 1 | `M······` | `secid:reference/dgssi.gov.ma/maroc-digital-2030@2024` |
+| `reference/dgssi.gov.ma/national-cybersecurity-strategy/2012/` | metadata-only | 1 | `M······` | `secid:reference/dgssi.gov.ma/national-cybersecurity-strategy@2012` |
+| `reference/dgssi.gov.ma/national-cybersecurity-strategy/2024/` | metadata-only | 1 | `M······` | `secid:reference/dgssi.gov.ma/national-cybersecurity-strategy@2024` |
+| `reference/dict.gov.ph/national-ai-strategy-roadmap/2021/` | metadata-only | 1 | `M······` | `secid:reference/dict.gov.ph/national-ai-strategy-roadmap@2021` |
+| `reference/dict.gov.ph/national-ai-strategy-roadmap/2024/` | metadata-only | 1 | `M······` | `secid:reference/dict.gov.ph/national-ai-strategy-roadmap@2024` |
+| `reference/dict.gov.ph/national-cybersecurity-plan/2023/` | metadata-only | 1 | `M······` | `secid:reference/dict.gov.ph/national-cybersecurity-plan@2023` |
+| `reference/dict.gov.ph/national-security-policy/2023/` | metadata-only | 1 | `M······` | `secid:reference/dict.gov.ph/national-security-policy@2023` |
+| `reference/digital.gov.fj/fiji-national-cybersecurity-strategy/2015/` | metadata-only | 1 | `M······` | `secid:reference/digital.gov.fj/fiji-national-cybersecurity-strategy@2015` |
+| `reference/digital.gov.fj/fiji-national-cybersecurity-strategy/2025/` | metadata-only | 1 | `M······` | `secid:reference/digital.gov.fj/fiji-national-cybersecurity-strategy@2025` |
+| `reference/digitaltransformation.gov.to/tonga-national-cybersecurity-strategy/2024/` | metadata-only | 1 | `M······` | `secid:reference/digitaltransformation.gov.to/tonga-national-cybersecurity-strategy@2024` |
+| `reference/dnp.gov.co/politica-nacional-ia/2019/` | structured | 4 | `MX·CS··` | `secid:reference/dnp.gov.co/politica-nacional-ia@2019` |
+| `reference/dnp.gov.co/politica-nacional-ia/2025/` | structured | 4 | `MX·CS··` | `secid:reference/dnp.gov.co/politica-nacional-ia@2025` |
+| `reference/dnp.gov.co/politica-nacional-seguridad-digital/2011/` | structured | 4 | `MX·CS··` | `secid:reference/dnp.gov.co/politica-nacional-seguridad-digital@2011` |
+| `reference/dnp.gov.co/politica-nacional-seguridad-digital/2016/` | structured | 4 | `MX·CS··` | `secid:reference/dnp.gov.co/politica-nacional-seguridad-digital@2016` |
+| `reference/dnp.gov.co/politica-nacional-seguridad-digital/2020/` | structured | 4 | `MX·CS··` | `secid:reference/dnp.gov.co/politica-nacional-seguridad-digital@2020` |
+| `reference/dnp.gov.co/politica-nacional-seguridad-digital/2025-2027/` | structured | 4 | `MX·CS··` | `secid:reference/dnp.gov.co/politica-nacional-seguridad-digital@2025-2027` |
 | `reference/dnsc.gov.ro/national-cybersecurity-strategy/2021/` | metadata-only | 1 | `M······` | `secid:reference/dnsc.gov.ro/national-cybersecurity-strategy@2021` |
 | `reference/dnsc.gov.ro/national-defence-strategy/2020/` | metadata-only | 1 | `M······` | `secid:reference/dnsc.gov.ro/national-defence-strategy@2020` |
 | `reference/dnsc.gov.ro/national-defence-strategy/2025/` | metadata-only | 1 | `M······` | `secid:reference/dnsc.gov.ro/national-defence-strategy@2025` |
@@ -431,6 +481,9 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/dsn.gob.es/estrategia-seguridad-nacional/2013/` | structured | 4 | `MX·CS··` | `secid:reference/dsn.gob.es/estrategia-seguridad-nacional@2013` |
 | `reference/dsn.gob.es/estrategia-seguridad-nacional/2017/` | structured | 4 | `MX·CS··` | `secid:reference/dsn.gob.es/estrategia-seguridad-nacional@2017` |
 | `reference/dsn.gob.es/estrategia-seguridad-nacional/2021/` | structured | 4 | `MX·CS··` | `secid:reference/dsn.gob.es/estrategia-seguridad-nacional@2021` |
+| `reference/e-qanun.az/artificial-intelligence-strategy-of-azerbaijan/2025/` | metadata-only | 1 | `M······` | `secid:reference/e-qanun.az/artificial-intelligence-strategy-of-azerbaijan@2025` |
+| `reference/e-qanun.az/national-security-concept-of-azerbaijan/2007/` | metadata-only | 1 | `M······` | `secid:reference/e-qanun.az/national-security-concept-of-azerbaijan@2007` |
+| `reference/e-qanun.az/strategy-of-information-and-cybersecurity-of-azerbaijan/2023/` | metadata-only | 1 | `M······` | `secid:reference/e-qanun.az/strategy-of-information-and-cybersecurity-of-azerbaijan@2023` |
 | `reference/enisa.europa.eu/enisa-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/enisa.europa.eu/enisa-glossary` |
 | `reference/enisa.europa.eu/ncaf/2020/` | structured | 4 | `MX·CS··` | `secid:reference/enisa.europa.eu/ncaf@2020` |
 | `reference/enisa.europa.eu/ncss-good-practice-guide/2012/` | structured | 4 | `MX·CS··` | `secid:reference/enisa.europa.eu/ncss-good-practice-guide@2012` |
@@ -491,11 +544,32 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/gartner.com/it-glossary/` | metadata-only | 1 | `M······` | `secid:reference/gartner.com/it-glossary` |
 | `reference/github.com/advisory-database/` | readme-only | 1 | `·······` | — |
 | `reference/gitlab.com/security-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/gitlab.com/security-glossary` |
+| `reference/gob.cl/politica-nacional-ciberseguridad/2017-2022/` | structured | 4 | `MX·CS··` | `secid:reference/gob.cl/politica-nacional-ciberseguridad@2017-2022` |
+| `reference/gob.cl/politica-nacional-ciberseguridad/2023-2028/` | structured | 4 | `MX·CS··` | `secid:reference/gob.cl/politica-nacional-ciberseguridad@2023-2028` |
+| `reference/gob.cl/politica-nacional-ia/2021-2030/` | structured | 4 | `MX·CS··` | `secid:reference/gob.cl/politica-nacional-ia@2021-2030` |
+| `reference/gob.cl/politica-nacional-ia/2024/` | metadata-only | 1 | `M······` | `secid:reference/gob.cl/politica-nacional-ia@2024` |
+| `reference/gob.mx/estrategia-nacional-ciberseguridad/2017/` | structured | 4 | `MX·CS··` | `secid:reference/gob.mx/estrategia-nacional-ciberseguridad@2017` |
+| `reference/gob.mx/programa-seguridad-nacional/2009-2012/` | metadata-only | 1 | `M······` | `secid:reference/gob.mx/programa-seguridad-nacional@2009-2012` |
+| `reference/gob.mx/programa-seguridad-nacional/2014-2018/` | structured | 4 | `MX·CS··` | `secid:reference/gob.mx/programa-seguridad-nacional@2014-2018` |
+| `reference/gob.pe/estrategia-nacional-ia/2025/` | metadata-only | 1 | `M······` | `secid:reference/gob.pe/estrategia-nacional-ia@2025` |
+| `reference/gob.pe/marco-confianza-digital/2020/` | metadata-only | 1 | `M······` | `secid:reference/gob.pe/marco-confianza-digital@2020` |
+| `reference/gob.pe/politica-seguridad-defensa-nacional/2021-2030/` | metadata-only | 1 | `M······` | `secid:reference/gob.pe/politica-seguridad-defensa-nacional@2021-2030` |
 | `reference/google.com/model-cards/` | readme-only | 1 | `·······` | — |
 | `reference/google.com/security-guidance/` | empty | 0 | `·······` | — |
 | `reference/google.com/security-operations-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/google.com/security-operations-glossary` |
 | `reference/gov.bc.ca/infosec-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/gov.bc.ca/infosec-glossary` |
+| `reference/gov.br/e-ciber/2020/` | metadata-only | 1 | `M······` | `secid:reference/gov.br/e-ciber@2020` |
+| `reference/gov.br/e-ciber/2023/` | metadata-only | 1 | `M······` | `secid:reference/gov.br/e-ciber@2023` |
+| `reference/gov.br/e-ciber/2025/` | metadata-only | 1 | `M······` | `secid:reference/gov.br/e-ciber@2025` |
 | `reference/gov.br/glossario-seguranca-informacao/` | structured | 5 | `MX·CSP·` | `secid:reference/gov.br/glossario-seguranca-informacao` |
+| `reference/gov.br/pbia/2021/` | metadata-only | 1 | `M······` | `secid:reference/gov.br/pbia@2021` |
+| `reference/gov.br/pnd-end/2008/` | metadata-only | 1 | `M······` | `secid:reference/gov.br/pnd-end@2008` |
+| `reference/gov.br/pnd-end/2012/` | metadata-only | 1 | `M······` | `secid:reference/gov.br/pnd-end@2012` |
+| `reference/gov.br/pnd-end/2020/` | structured | 4 | `MX·CS··` | `secid:reference/gov.br/pnd-end@2020` |
+| `reference/gov.br/pnd-end/2025/` | metadata-only | 1 | `M······` | `secid:reference/gov.br/pnd-end@2025` |
+| `reference/gov.cn/national-defense-in-the-new-era/2019/` | structured | 4 | `MX·CS··` | `secid:reference/gov.cn/national-defense-in-the-new-era@2019` |
+| `reference/gov.cn/national-security-in-the-new-era/2025/` | metadata-only | 1 | `M······` | `secid:reference/gov.cn/national-security-in-the-new-era@2025` |
+| `reference/gov.cn/next-generation-ai-development-plan/2017/` | structured | 4 | `MX·CS··` | `secid:reference/gov.cn/next-generation-ai-development-plan@2017` |
 | `reference/gov.pl/cybersecurity-strategy-of-poland/2019/` | structured | 4 | `MX·CS··` | `secid:reference/gov.pl/cybersecurity-strategy-of-poland@2019` |
 | `reference/gov.pl/national-security-strategy-of-poland/2020/` | metadata-only | 1 | `M······` | `secid:reference/gov.pl/national-security-strategy-of-poland@2020` |
 | `reference/gov.pl/policy-for-ai-development-in-poland/2020/` | metadata-only | 1 | `M······` | `secid:reference/gov.pl/policy-for-ai-development-in-poland@2020` |
@@ -512,6 +586,14 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/gov.uk/national-security-strategy/2015/` | structured | 4 | `MX·CS··` | `secid:reference/gov.uk/national-security-strategy@2015` |
 | `reference/gov.uk/national-security-strategy/2025/` | structured | 4 | `MX·CS··` | `secid:reference/gov.uk/national-security-strategy@2025` |
 | `reference/gov.uk/ncsc-glossary/` | structured | 8 | `MX·CSP·` | `secid:reference/gov.uk/ncsc-glossary` |
+| `reference/gov.vu/vanuatu-national-cybersecurity-strategy/2013/` | metadata-only | 1 | `M······` | `secid:reference/gov.vu/vanuatu-national-cybersecurity-strategy@2013` |
+| `reference/gov.vu/vanuatu-national-cybersecurity-strategy/2021/` | metadata-only | 1 | `M······` | `secid:reference/gov.vu/vanuatu-national-cybersecurity-strategy@2021` |
+| `reference/gov.vu/vanuatu-national-security-strategy/2019/` | metadata-only | 1 | `M······` | `secid:reference/gov.vu/vanuatu-national-security-strategy@2019` |
+| `reference/gov.za/national-cybersecurity-policy-framework/2015/` | structured | 4 | `MX·CS··` | `secid:reference/gov.za/national-cybersecurity-policy-framework@2015` |
+| `reference/gov.za/south-africa-national-ai-policy-framework/2024/` | metadata-only | 1 | `M······` | `secid:reference/gov.za/south-africa-national-ai-policy-framework@2024` |
+| `reference/gov.za/south-african-defence-review/2015/` | metadata-only | 1 | `M······` | `secid:reference/gov.za/south-african-defence-review@2015` |
+| `reference/gub.uy/estrategia-nacional-ciberseguridad/2024-2030/` | metadata-only | 1 | `M······` | `secid:reference/gub.uy/estrategia-nacional-ciberseguridad@2024-2030` |
+| `reference/gub.uy/estrategia-nacional-ia/2024-2030/` | structured | 4 | `MX·CS··` | `secid:reference/gub.uy/estrategia-nacional-ia@2024-2030` |
 | `reference/h-isac.org/health-isac-acronyms/` | metadata-only | 1 | `M······` | `secid:reference/h-isac.org/health-isac-acronyms` |
 | `reference/hackerone.com/hackerone-glossary/` | metadata-only | 1 | `M······` | `secid:reference/hackerone.com/hackerone-glossary` |
 | `reference/himss.org/infosec-cybersecurity-terms/` | metadata-only | 1 | `M······` | `secid:reference/himss.org/infosec-cybersecurity-terms` |
@@ -529,6 +611,14 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/iapp.org/privacy-glossary/` | metadata-only | 1 | `M······` | `secid:reference/iapp.org/privacy-glossary` |
 | `reference/ibm.com/security-guidance/` | structured | 9 | `M··CS··` | `secid:reference/ibm.com/security-guidance` |
 | `reference/ibm.com/security-terminology/` | metadata-only | 1 | `M······` | `secid:reference/ibm.com/security-terminology` |
+| `reference/ict.go.ke/kenya-national-artificial-intelligence-strategy/2025/` | metadata-only | 1 | `M······` | `secid:reference/ict.go.ke/kenya-national-artificial-intelligence-strategy@2025` |
+| `reference/ict.go.ke/kenya-national-cybersecurity-strategy/2014/` | metadata-only | 1 | `M······` | `secid:reference/ict.go.ke/kenya-national-cybersecurity-strategy@2014` |
+| `reference/ict.go.ke/kenya-national-cybersecurity-strategy/2022/` | metadata-only | 1 | `M······` | `secid:reference/ict.go.ke/kenya-national-cybersecurity-strategy@2022` |
+| `reference/ict.gov.pg/national-cyber-security-strategy/2021/` | metadata-only | 1 | `M······` | `secid:reference/ict.gov.pg/national-cyber-security-strategy@2021` |
+| `reference/ict.gov.pg/national-cyber-security-strategy/2024/` | metadata-only | 1 | `M······` | `secid:reference/ict.gov.pg/national-cyber-security-strategy@2024` |
+| `reference/ict.gov.pg/papua-new-guinea-national-security-policy/2013/` | metadata-only | 1 | `M······` | `secid:reference/ict.gov.pg/papua-new-guinea-national-security-policy@2013` |
+| `reference/ictd.gov.bd/bangladesh-cybersecurity-strategy/2021/` | metadata-only | 1 | `M······` | `secid:reference/ictd.gov.bd/bangladesh-cybersecurity-strategy@2021` |
+| `reference/ictd.gov.bd/national-strategy-for-artificial-intelligence-bangladesh/2020/` | metadata-only | 1 | `M······` | `secid:reference/ictd.gov.bd/national-strategy-for-artificial-intelligence-bangladesh@2020` |
 | `reference/iec.ch/iec-glossary/` | metadata-only | 1 | `M······` | `secid:reference/iec.ch/iec-glossary` |
 | `reference/ietf.org/rfc4949-internet-security-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/ietf.org/rfc4949-internet-security-glossary` |
 | `reference/illumio.com/cybersecurity-101-glossary/` | metadata-only | 1 | `M······` | `secid:reference/illumio.com/cybersecurity-101-glossary` |
@@ -548,14 +638,33 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/keepersecurity.com/iam-glossary/` | metadata-only | 1 | `M······` | `secid:reference/keepersecurity.com/iam-glossary` |
 | `reference/kubernetes.io/kubernetes-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/kubernetes.io/kubernetes-glossary` |
 | `reference/legifrance.gouv.fr/vocabulaire-cyberdefense/` | structured | 5 | `MX·CSP·` | `secid:reference/legifrance.gouv.fr/vocabulaire-cyberdefense` |
+| `reference/lex.uz/ai-technologies-development-strategy-2030/2024/` | structured | 4 | `MX·CS··` | `secid:reference/lex.uz/ai-technologies-development-strategy-2030@2024` |
+| `reference/lex.uz/uzbekistan-2030-strategy/2023/` | structured | 4 | `MX·CS··` | `secid:reference/lex.uz/uzbekistan-2030-strategy@2023` |
 | `reference/maryland.gov/cybersecurity-privacy-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/maryland.gov/cybersecurity-privacy-glossary` |
+| `reference/mcit.gov.eg/egypt-national-artificial-intelligence-strategy/2021/` | metadata-only | 1 | `M······` | `secid:reference/mcit.gov.eg/egypt-national-artificial-intelligence-strategy@2021` |
+| `reference/mcit.gov.eg/egypt-national-artificial-intelligence-strategy/2025/` | metadata-only | 1 | `M······` | `secid:reference/mcit.gov.eg/egypt-national-artificial-intelligence-strategy@2025` |
+| `reference/mcit.gov.eg/national-cybersecurity-strategy/2017/` | metadata-only | 1 | `M······` | `secid:reference/mcit.gov.eg/national-cybersecurity-strategy@2017` |
+| `reference/mcit.gov.eg/national-cybersecurity-strategy/2023/` | metadata-only | 1 | `M······` | `secid:reference/mcit.gov.eg/national-cybersecurity-strategy@2023` |
+| `reference/mcit.gov.ws/samoa-national-cybersecurity-strategy/2016/` | metadata-only | 1 | `M······` | `secid:reference/mcit.gov.ws/samoa-national-cybersecurity-strategy@2016` |
+| `reference/mcit.gov.ws/samoa-national-cybersecurity-strategy/2024/` | metadata-only | 1 | `M······` | `secid:reference/mcit.gov.ws/samoa-national-cybersecurity-strategy@2024` |
+| `reference/mcit.gov.ws/samoa-national-security-policy/2018/` | metadata-only | 1 | `M······` | `secid:reference/mcit.gov.ws/samoa-national-security-policy@2018` |
+| `reference/mctn.sn/strategie-nationale-d-intelligence-artificielle-du-senegal/2023/` | metadata-only | 1 | `M······` | `secid:reference/mctn.sn/strategie-nationale-d-intelligence-artificielle-du-senegal@2023` |
+| `reference/mctn.sn/strategie-nationale-de-cybersecurite-du-senegal/2017/` | metadata-only | 1 | `M······` | `secid:reference/mctn.sn/strategie-nationale-de-cybersecurite-du-senegal@2017` |
+| `reference/meity.gov.in/national-ai-strategy/2024/` | metadata-only | 1 | `M······` | `secid:reference/meity.gov.in/national-ai-strategy@2024` |
+| `reference/meity.gov.in/national-cyber-security-policy/2013/` | metadata-only | 1 | `M······` | `secid:reference/meity.gov.in/national-cyber-security-policy@2013` |
 | `reference/metacpan.org/cpansec-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/metacpan.org/cpansec-glossary` |
+| `reference/micitt.go.cr/estrategia-nacional-ciberseguridad/2017-2021/` | metadata-only | 1 | `M······` | `secid:reference/micitt.go.cr/estrategia-nacional-ciberseguridad@2017-2021` |
 | `reference/microsoft.com/msrc-glossary/` | metadata-only | 1 | `M······` | `secid:reference/microsoft.com/msrc-glossary` |
 | `reference/microsoft.com/security-guidance/` | empty | 0 | `·······` | — |
 | `reference/mindigital.gov.gr/blueprint-for-greeces-ai-transformation/2024/` | metadata-only | 1 | `M······` | `secid:reference/mindigital.gov.gr/blueprint-for-greeces-ai-transformation@2024` |
 | `reference/mindigital.gov.gr/national-cybersecurity-strategy/2020/` | metadata-only | 1 | `M······` | `secid:reference/mindigital.gov.gr/national-cybersecurity-strategy@2020` |
+| `reference/minict.gov.rw/rwanda-national-artificial-intelligence-policy/2023/` | metadata-only | 1 | `M······` | `secid:reference/minict.gov.rw/rwanda-national-artificial-intelligence-policy@2023` |
+| `reference/minict.gov.rw/rwanda-national-cyber-security-strategic-plan/2015/` | metadata-only | 1 | `M······` | `secid:reference/minict.gov.rw/rwanda-national-cyber-security-strategic-plan@2015` |
+| `reference/minict.gov.rw/rwanda-national-cyber-security-strategic-plan/2024/` | metadata-only | 1 | `M······` | `secid:reference/minict.gov.rw/rwanda-national-cyber-security-strategic-plan@2024` |
 | `reference/mit.edu/ai-risk-repository/` | structured | 13 | `M··C···` | `secid:reference/mit.edu/ai-risk-repository` |
 | `reference/mit.edu/infoprotect-definitions/` | metadata-only | 1 | `M······` | `secid:reference/mit.edu/infoprotect-definitions` |
+| `reference/mitic.gov.py/estrategia-nacional-ciberseguridad/2017/` | metadata-only | 1 | `M······` | `secid:reference/mitic.gov.py/estrategia-nacional-ciberseguridad@2017` |
+| `reference/mitic.gov.py/estrategia-nacional-ciberseguridad/2025-2028/` | structured | 4 | `MX·CS··` | `secid:reference/mitic.gov.py/estrategia-nacional-ciberseguridad@2025-2028` |
 | `reference/mitre.org/ctid/` | metadata-only | 2 | `M······` | `secid:reference/mitre.org/ctid` |
 | `reference/mitre.org/cve-program/` | metadata-only | 2 | `M······` | `secid:reference/mitre.org/cve-program` |
 | `reference/mitre.org/cwe-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/mitre.org/cwe-glossary` |
@@ -564,19 +673,38 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/mkm.ee/cybersecurity-strategy/2019-2022/` | metadata-only | 1 | `M······` | `secid:reference/mkm.ee/cybersecurity-strategy@2019-2022` |
 | `reference/mkm.ee/cybersecurity-strategy/2024-2027/` | metadata-only | 1 | `M······` | `secid:reference/mkm.ee/cybersecurity-strategy@2024-2027` |
 | `reference/mlcommons.org/ai-safety-glossary/` | metadata-only | 1 | `M······` | `secid:reference/mlcommons.org/ai-safety-glossary` |
+| `reference/mocit.gov.np/national-artificial-intelligence-policy/2025/` | metadata-only | 1 | `M······` | `secid:reference/mocit.gov.np/national-artificial-intelligence-policy@2025` |
+| `reference/mocit.gov.np/national-cyber-security-policy/2023/` | metadata-only | 1 | `M······` | `secid:reference/mocit.gov.np/national-cyber-security-policy@2023` |
 | `reference/mod.gov.lv/cybersecurity-strategy-of-latvia/2023/` | metadata-only | 1 | `M······` | `secid:reference/mod.gov.lv/cybersecurity-strategy-of-latvia@2023` |
 | `reference/mod.gov.lv/informative-report-on-development-of-ai-solutions/2020/` | metadata-only | 1 | `M······` | `secid:reference/mod.gov.lv/informative-report-on-development-of-ai-solutions@2020` |
 | `reference/mod.gov.lv/national-security-concept/2023/` | metadata-only | 1 | `M······` | `secid:reference/mod.gov.lv/national-security-concept@2023` |
 | `reference/moda.gov.tw/national-cyber-security-program/2021/` | structured | 4 | `MX·CS··` | `secid:reference/moda.gov.tw/national-cyber-security-program@2021` |
 | `reference/moda.gov.tw/national-cyber-security-program/2025/` | metadata-only | 1 | `M······` | `secid:reference/moda.gov.tw/national-cyber-security-program@2025` |
+| `reference/modee.gov.jo/jordanian-artificial-intelligence-strategy/2022/` | metadata-only | 1 | `M······` | `secid:reference/modee.gov.jo/jordanian-artificial-intelligence-strategy@2022` |
+| `reference/modee.gov.jo/national-cyber-security-strategy/2018/` | metadata-only | 1 | `M······` | `secid:reference/modee.gov.jo/national-cyber-security-strategy@2018` |
+| `reference/moitt.gov.pk/national-artificial-intelligence-policy/2025/` | metadata-only | 1 | `M······` | `secid:reference/moitt.gov.pk/national-artificial-intelligence-policy@2025` |
+| `reference/moitt.gov.pk/national-cyber-security-policy/2021/` | metadata-only | 1 | `M······` | `secid:reference/moitt.gov.pk/national-cyber-security-policy@2021` |
+| `reference/moitt.gov.pk/national-security-policy-of-pakistan/2022/` | structured | 4 | `MX·CS··` | `secid:reference/moitt.gov.pk/national-security-policy-of-pakistan@2022` |
+| `reference/mots.gov.zm/zambia-national-artificial-intelligence-strategy/2024/` | metadata-only | 1 | `M······` | `secid:reference/mots.gov.zm/zambia-national-artificial-intelligence-strategy@2024` |
+| `reference/mots.gov.zm/zambia-national-cyber-security-policy/2021/` | metadata-only | 1 | `M······` | `secid:reference/mots.gov.zm/zambia-national-cyber-security-policy@2021` |
+| `reference/mtcit.gov.om/national-program-for-ai-and-advanced-digital-technologies/2024/` | metadata-only | 1 | `M······` | `secid:reference/mtcit.gov.om/national-program-for-ai-and-advanced-digital-technologies@2024` |
 | `reference/mtt.gov.rs/ai-development-strategy-in-serbia/2019/` | metadata-only | 1 | `M······` | `secid:reference/mtt.gov.rs/ai-development-strategy-in-serbia@2019` |
 | `reference/mtt.gov.rs/ai-development-strategy-in-serbia/2025/` | metadata-only | 1 | `M······` | `secid:reference/mtt.gov.rs/ai-development-strategy-in-serbia@2025` |
 | `reference/mtt.gov.rs/national-security-strategy-of-serbia/2019/` | structured | 4 | `MX·CS··` | `secid:reference/mtt.gov.rs/national-security-strategy-of-serbia@2019` |
 | `reference/mtt.gov.rs/strategy-for-development-of-information-society-and-information-security/2021/` | metadata-only | 1 | `M······` | `secid:reference/mtt.gov.rs/strategy-for-development-of-information-society-and-information-security@2021` |
+| `reference/nacsa.gov.my/malaysia-cyber-security-strategy/2020/` | metadata-only | 1 | `M······` | `secid:reference/nacsa.gov.my/malaysia-cyber-security-strategy@2020` |
+| `reference/nacsa.gov.my/malaysia-national-ai-roadmap/2021/` | metadata-only | 1 | `M······` | `secid:reference/nacsa.gov.my/malaysia-national-ai-roadmap@2021` |
+| `reference/nacsa.gov.my/malaysia-national-ai-roadmap/2025/` | metadata-only | 1 | `M······` | `secid:reference/nacsa.gov.my/malaysia-national-ai-roadmap@2025` |
 | `reference/nbu.gov.sk/action-plan-for-digital-transformation-of-slovakia/2023/` | metadata-only | 1 | `M······` | `secid:reference/nbu.gov.sk/action-plan-for-digital-transformation-of-slovakia@2023` |
 | `reference/nbu.gov.sk/national-cybersecurity-strategy-of-slovakia/2021/` | metadata-only | 1 | `M······` | `secid:reference/nbu.gov.sk/national-cybersecurity-strategy-of-slovakia@2021` |
 | `reference/nbu.gov.sk/security-strategy-of-the-slovak-republic/2021/` | structured | 4 | `MX·CS··` | `secid:reference/nbu.gov.sk/security-strategy-of-the-slovak-republic@2021` |
 | `reference/nbu.gov.sk/slovnik-hybridnych-hrozieb/` | structured | 6 | `MX·CSP·` | `secid:reference/nbu.gov.sk/slovnik-hybridnych-hrozieb` |
+| `reference/nca.gov.sa/national-cybersecurity-strategy/2020/` | structured | 4 | `MX·CS··` | `secid:reference/nca.gov.sa/national-cybersecurity-strategy@2020` |
+| `reference/ncsa.gov.qa/national-cyber-security-strategy/2014/` | metadata-only | 1 | `M······` | `secid:reference/ncsa.gov.qa/national-cyber-security-strategy@2014` |
+| `reference/ncsa.gov.qa/national-cyber-security-strategy/2024-2030/` | metadata-only | 1 | `M······` | `secid:reference/ncsa.gov.qa/national-cyber-security-strategy@2024-2030` |
+| `reference/ncsa.or.th/national-cybersecurity-strategic-plan/2022/` | metadata-only | 1 | `M······` | `secid:reference/ncsa.or.th/national-cybersecurity-strategic-plan@2022` |
+| `reference/ncsa.or.th/national-security-policy-and-plan/2023/` | structured | 4 | `MX·CS··` | `secid:reference/ncsa.or.th/national-security-policy-and-plan@2023` |
+| `reference/ncsa.or.th/thailand-national-ai-strategy-and-action-plan/2022/` | metadata-only | 1 | `M······` | `secid:reference/ncsa.or.th/thailand-national-ai-strategy-and-action-plan@2022` |
 | `reference/ncsc.ch/nationale-cyberstrategie/2012-2017/` | structured | 4 | `MX·CS··` | `secid:reference/ncsc.ch/nationale-cyberstrategie@2012-2017` |
 | `reference/ncsc.ch/nationale-cyberstrategie/2018-2022/` | structured | 4 | `MX·CS··` | `secid:reference/ncsc.ch/nationale-cyberstrategie@2018-2022` |
 | `reference/ncsc.ch/nationale-cyberstrategie/2023-2027/` | structured | 4 | `MX·CS··` | `secid:reference/ncsc.ch/nationale-cyberstrategie@2023-2027` |
@@ -589,6 +717,8 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/ncsc.fi/kyberturvallisuusstrategia/2019/` | structured | 4 | `MX·CS··` | `secid:reference/ncsc.fi/kyberturvallisuusstrategia@2019` |
 | `reference/ncsc.fi/kyberturvallisuusstrategia/2024-2035/` | metadata-only | 1 | `M······` | `secid:reference/ncsc.fi/kyberturvallisuusstrategia@2024-2035` |
 | `reference/ncsc.fi/ncsc-fi-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/ncsc.fi/ncsc-fi-glossary` |
+| `reference/ncsc.gov.bh/bahrain-national-cybersecurity-strategy/2017/` | metadata-only | 1 | `M······` | `secid:reference/ncsc.gov.bh/bahrain-national-cybersecurity-strategy@2017` |
+| `reference/ncsc.gov.bh/bahrain-national-cybersecurity-strategy/2023/` | metadata-only | 1 | `M······` | `secid:reference/ncsc.gov.bh/bahrain-national-cybersecurity-strategy@2023` |
 | `reference/ncsc.gov.ie/ai-here-for-good/2021/` | structured | 4 | `MX·CS··` | `secid:reference/ncsc.gov.ie/ai-here-for-good@2021` |
 | `reference/ncsc.gov.ie/ai-here-for-good/2024/` | structured | 4 | `MX·CS··` | `secid:reference/ncsc.gov.ie/ai-here-for-good@2024` |
 | `reference/ncsc.gov.ie/national-cyber-security-strategy/2019/` | structured | 4 | `MX·CS··` | `secid:reference/ncsc.gov.ie/national-cyber-security-strategy@2019` |
@@ -675,6 +805,11 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/nist.gov/ir-8425/` | extracted | 19 (+14 imgs) | `MX····I` | `secid:reference/nist.gov/ir-8425` |
 | `reference/nist.gov/ir-8454/` | extracted | 50 (+45 imgs) | `MX····I` | `secid:reference/nist.gov/ir-8454` |
 | `reference/nist.gov/tn-2111/` | extracted | 9 (+6 imgs) | `MX····I` | `secid:reference/nist.gov/tn-2111` |
+| `reference/nitda.gov.ng/national-cybersecurity-policy-and-strategy/2014/` | metadata-only | 1 | `M······` | `secid:reference/nitda.gov.ng/national-cybersecurity-policy-and-strategy@2014` |
+| `reference/nitda.gov.ng/national-cybersecurity-policy-and-strategy/2021/` | metadata-only | 1 | `M······` | `secid:reference/nitda.gov.ng/national-cybersecurity-policy-and-strategy@2021` |
+| `reference/nitda.gov.ng/national-security-strategy-of-nigeria/2014/` | metadata-only | 1 | `M······` | `secid:reference/nitda.gov.ng/national-security-strategy-of-nigeria@2014` |
+| `reference/nitda.gov.ng/national-security-strategy-of-nigeria/2019/` | metadata-only | 1 | `M······` | `secid:reference/nitda.gov.ng/national-security-strategy-of-nigeria@2019` |
+| `reference/nitda.gov.ng/nigeria-national-artificial-intelligence-strategy/2024/` | metadata-only | 1 | `M······` | `secid:reference/nitda.gov.ng/nigeria-national-artificial-intelligence-strategy@2024` |
 | `reference/nstc.gov.tw/taiwan-ai-action-plan/2018/` | metadata-only | 1 | `M······` | `secid:reference/nstc.gov.tw/taiwan-ai-action-plan@2018` |
 | `reference/nstc.gov.tw/taiwan-ai-action-plan/2023/` | metadata-only | 1 | `M······` | `secid:reference/nstc.gov.tw/taiwan-ai-action-plan@2023` |
 | `reference/nstc.gov.tw/taiwan-ai-action-plan/2025/` | metadata-only | 1 | `M······` | `secid:reference/nstc.gov.tw/taiwan-ai-action-plan@2025` |
@@ -687,6 +822,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/nvidia.com/nvidia-glossary/` | metadata-only | 1 | `M······` | `secid:reference/nvidia.com/nvidia-glossary` |
 | `reference/ny.gov/its-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/ny.gov/its-glossary` |
 | `reference/oaic.gov.au/app-key-concepts/` | structured | 5 | `MX·CSP·` | `secid:reference/oaic.gov.au/app-key-concepts` |
+| `reference/oas.org/inter-american-cybersecurity-strategy/2004/` | metadata-only | 1 | `M······` | `secid:reference/oas.org/inter-american-cybersecurity-strategy@2004` |
 | `reference/oasis-open.org/saml-2.0-security-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/oasis-open.org/saml-2.0-security-glossary` |
 | `reference/oasis-open.org/stix-taxii/` | extracted | 3 | `MX·····` | `secid:reference/oasis-open.org/stix-taxii` |
 | `reference/oecd.org/oecd-ai-glossary/` | structured | 6 | `MX·CSP·` | `secid:reference/oecd.org/oecd-ai-glossary` |
@@ -710,6 +846,10 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/pingidentity.com/identity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/pingidentity.com/identity-glossary` |
 | `reference/pravo.by/concept-of-information-security-of-belarus/2019/` | structured | 4 | `MX·CS··` | `secid:reference/pravo.by/concept-of-information-security-of-belarus@2019` |
 | `reference/pravo.by/national-security-concept-of-belarus/2024/` | structured | 4 | `MX·CS··` | `secid:reference/pravo.by/national-security-concept-of-belarus@2024` |
+| `reference/pravo.gov.ru/doctrine-of-information-security-of-the-russian-federation/2016/` | metadata-only | 1 | `M······` | `secid:reference/pravo.gov.ru/doctrine-of-information-security-of-the-russian-federation@2016` |
+| `reference/pravo.gov.ru/national-security-strategy-of-the-russian-federation/2021/` | metadata-only | 1 | `M······` | `secid:reference/pravo.gov.ru/national-security-strategy-of-the-russian-federation@2021` |
+| `reference/pravo.gov.ru/national-strategy-for-the-development-of-ai-until-2030/2019/` | metadata-only | 1 | `M······` | `secid:reference/pravo.gov.ru/national-strategy-for-the-development-of-ai-until-2030@2019` |
+| `reference/pravo.gov.ru/national-strategy-for-the-development-of-ai-until-2030/2024/` | metadata-only | 1 | `M······` | `secid:reference/pravo.gov.ru/national-strategy-for-the-development-of-ai-until-2030@2024` |
 | `reference/president.go.kr/national-ai-strategy/2019/` | structured | 4 | `MX·CS··` | `secid:reference/president.go.kr/national-ai-strategy@2019` |
 | `reference/president.go.kr/national-ai-strategy/2024/` | metadata-only | 1 | `M······` | `secid:reference/president.go.kr/national-ai-strategy@2024` |
 | `reference/president.go.kr/national-cybersecurity-basic-plan/2019/` | structured | 4 | `MX·CS··` | `secid:reference/president.go.kr/national-cybersecurity-basic-plan@2019` |
@@ -763,6 +903,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/sailpoint.com/identity-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/sailpoint.com/identity-security-glossary` |
 | `reference/sans.org/glossary/` | metadata-only | 1 | `M······` | `secid:reference/sans.org/glossary` |
 | `reference/saviynt.com/identity-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/saviynt.com/identity-security-glossary` |
+| `reference/sdaia.gov.sa/nsdai/2020/` | metadata-only | 1 | `M······` | `secid:reference/sdaia.gov.sa/nsdai@2020` |
 | `reference/securityscorecard.com/securityscorecard-glossary/` | metadata-only | 1 | `M······` | `secid:reference/securityscorecard.com/securityscorecard-glossary` |
 | `reference/sgdsn.gouv.fr/revue-nationale-strategique/2017/` | structured | 4 | `MX·CS··` | `secid:reference/sgdsn.gouv.fr/revue-nationale-strategique@2017` |
 | `reference/sgdsn.gouv.fr/revue-nationale-strategique/2022/` | structured | 4 | `MX·CS··` | `secid:reference/sgdsn.gouv.fr/revue-nationale-strategique@2022` |
@@ -789,8 +930,14 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/tenable.com/cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/tenable.com/cybersecurity-glossary` |
 | `reference/texas.gov/cybersecurity-terminology/` | structured | 6 | `MX·CSP·` | `secid:reference/texas.gov/cybersecurity-terminology` |
 | `reference/thecyberwire.com/glossary/` | metadata-only | 1 | `M······` | `secid:reference/thecyberwire.com/glossary` |
+| `reference/treasury.govmu.org/mauritius-artificial-intelligence-strategy/2018/` | metadata-only | 1 | `M······` | `secid:reference/treasury.govmu.org/mauritius-artificial-intelligence-strategy@2018` |
+| `reference/treasury.govmu.org/mauritius-national-cyber-security-strategy/2014/` | metadata-only | 1 | `M······` | `secid:reference/treasury.govmu.org/mauritius-national-cyber-security-strategy@2014` |
+| `reference/treasury.govmu.org/mauritius-national-cyber-security-strategy/2023/` | metadata-only | 1 | `M······` | `secid:reference/treasury.govmu.org/mauritius-national-cyber-security-strategy@2023` |
 | `reference/trendmicro.com/what-is-cybersecurity-terms/` | metadata-only | 1 | `M······` | `secid:reference/trendmicro.com/what-is-cybersecurity-terms` |
+| `reference/ttcsirt.gov.tt/national-cyber-security-strategy/2012/` | structured | 4 | `MX·CS··` | `secid:reference/ttcsirt.gov.tt/national-cyber-security-strategy@2012` |
 | `reference/txone.com/ot-cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/txone.com/ot-cybersecurity-glossary` |
+| `reference/u.ae/national-ai-strategy/2031/` | metadata-only | 1 | `M······` | `secid:reference/u.ae/national-ai-strategy@2031` |
+| `reference/u.ae/national-cybersecurity-strategy/2025-2031/` | metadata-only | 1 | `M······` | `secid:reference/u.ae/national-cybersecurity-strategy@2025-2031` |
 | `reference/uab.gov.tr/national-artificial-intelligence-strategy/2021/` | structured | 4 | `MX·CS··` | `secid:reference/uab.gov.tr/national-artificial-intelligence-strategy@2021` |
 | `reference/uab.gov.tr/national-artificial-intelligence-strategy/2024/` | structured | 4 | `MX·CS··` | `secid:reference/uab.gov.tr/national-artificial-intelligence-strategy@2024` |
 | `reference/uab.gov.tr/national-cyber-security-strategy-and-action-plan/2020/` | metadata-only | 1 | `M······` | `secid:reference/uab.gov.tr/national-cyber-security-strategy-and-action-plan@2020` |

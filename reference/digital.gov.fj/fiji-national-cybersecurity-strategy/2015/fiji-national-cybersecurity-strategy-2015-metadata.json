@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/digital.gov.fj/fiji-national-cybersecurity-strategy@2015",
+  "name": "Fiji National Cybersecurity Strategy (2015)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2015",
+  "publication_id": "fiji-national-cybersecurity-strategy-2015",
+  "owner": "Ministry of Trade, Co-operatives, Micro, Small and Medium Enterprises and Communications (Fiji)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Official 2015 edition of Fiji National Cybersecurity Strategy (Fiji National Cybersecurity Strategy (2015)), published by Ministry of Trade, Co-operatives, Micro, Small and Medium Enterprises and Communications (Fiji) (digital.gov.fj).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Ministry of Trade, Co-operatives, Micro, Small and Medium Enterprises and Communications (Fiji) (digital.gov.fj) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Ministry of Trade, Co-operatives, Micro, Small and Medium Enterprises and Communications (Fiji) (digital.gov.fj).",
+  "license": {
+    "spdx": "LicenseRef-FJ-Copyright-1999-Sec26",
+    "Grouping": "Government-Work",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.wipo.int/wipolex/en/legislation/details/1583",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (digital.gov.fj) is governed by Fiji Copyright Act 1999 (Act No. 11 of 1999) Sec. 26 and Part X (State copyright and official legislative/inquiry exclusions).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (digital.gov.fj) is governed by Fiji Copyright Act 1999 (Act No. 11 of 1999) Sec. 26 and Part X (State copyright and official legislative/inquiry exclusions)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.digital.gov.fj/",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2015-01-01",
+    "active": false,
+    "supersedes": null,
+    "supersededBy": "secid:reference/digital.gov.fj/fiji-national-cybersecurity-strategy@2025",
+    "retiredFromActiveUse": "2025-01-01",
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/digital.gov.fj/fiji-national-cybersecurity-strategy@2015 (https://www.digital.gov.fj/) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

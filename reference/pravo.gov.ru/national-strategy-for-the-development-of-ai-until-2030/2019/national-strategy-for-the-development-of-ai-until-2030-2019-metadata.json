@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/pravo.gov.ru/national-strategy-for-the-development-of-ai-until-2030@2019",
+  "name": "National Strategy for the Development of Artificial Intelligence until 2030 (Presidential Decree No. 490 of Oct 10, 2019, amended by Decree No. 124 of Feb 15, 2024)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2019",
+  "publication_id": "national-strategy-for-the-development-of-ai-until-2030-2019",
+  "owner": "Official Internet Portal of Legal Information (State System of Legal Information of the Russian Federation)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Official 2019 edition of National Strategy for the Development of Artificial Intelligence until 2030 (Presidential Decree No. 490 of Oct 10, 2019, amended by Decree No. 124 of Feb 15, 2024) (National Strategy for the Development of Artificial Intelligence until 2030 (Presidential Decree No. 490 of Oct 10, 2019, amended by Decree No. 124 of Feb 15, 2024)), published by Official Internet Portal of Legal Information (State System of Legal Information of the Russian Federation) (pravo.gov.ru).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Official Internet Portal of Legal Information (State System of Legal Information of the Russian Federation) (pravo.gov.ru) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Official Internet Portal of Legal Information (State System of Legal Information of the Russian Federation) (pravo.gov.ru).",
+  "license": {
+    "spdx": "LicenseRef-RU-CivilCode-Art1259",
+    "Grouping": "Public Domain",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.wipo.int/wipolex/en/legislation/details/21560",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (pravo.gov.ru) is governed by Civil Code of the Russian Federation (Part Four) Art. 1259(6)(1) (official documents of state authorities, including laws, Presidential decrees, and other materials of a legislative, administrative or judicial nature and their official translations are not objects of copyright).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (pravo.gov.ru) is governed by Civil Code of the Russian Federation (Part Four) Art. 1259(6)(1) (official documents of state authorities, including laws, Presidential decrees, and other materials of a legislative, administrative or judicial nature and their official translations are not objects of copyright)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://pravo.gov.ru/",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2019-10-10",
+    "active": false,
+    "supersedes": null,
+    "supersededBy": "secid:reference/pravo.gov.ru/national-strategy-for-the-development-of-ai-until-2030@2024",
+    "retiredFromActiveUse": "2024-02-15",
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/pravo.gov.ru/national-strategy-for-the-development-of-ai-until-2030@2019 (https://pravo.gov.ru/) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

@@ -97,13 +97,22 @@ def html_to_clean_markdown(html_text: str, base_url: str, doc_title: str | None 
             tag.decompose()
 
     main = (
-        soup.select_one("main")
+        soup.select_one("#UCAP-CONTENT")
+        or soup.select_one(".pages_content")
+        or soup.select_one("#p-detail")
+        or soup.select_one("#divCont")
+        or soup.select_one("#BodyLabel")
+        or soup.select_one("#content")
+        or soup.select_one("main")
         or soup.select_one("#wb-cont")
         or soup.select_one(".govspeak")
         or soup.select_one("article")
         or soup.body
         or soup
     )
+    if main is not soup.body and soup.body is not None:
+        if len(main.get_text(strip=True)) < 800 and len(soup.body.get_text(strip=True)) > 2000:
+            main = soup.body
     for a_tag in main.find_all("a", href=True):
         href = a_tag["href"].strip()
         if not href:
@@ -122,8 +131,26 @@ def html_to_clean_markdown(html_text: str, base_url: str, doc_title: str | None 
         bullets="-",
         strip=["img"],
     )
-    # Normalize whitespace and blank lines
-    lines = [line.rstrip() for line in md.splitlines()]
+    # Normalize whitespace, strip lex.uz UI widget/classifier chrome, and collapse blank lines
+    lines = []
+    skip_lex_classifier = False
+    for raw_line in md.splitlines():
+        line = raw_line.rstrip()
+        s_line = line.strip()
+        if s_line in ("Ҳужжатга таклиф юборишАудиони тинглашҲужжат элементидан ҳавола олиш", "Ҳужжатга таклиф юбориш"):
+            continue
+        if s_line.startswith(("[**ОКОЗ:**", "[**ТСЗ:**")):
+            if s_line.endswith("]"):
+                continue
+            skip_lex_classifier = True
+            continue
+        if skip_lex_classifier:
+            if s_line.endswith("]"):
+                skip_lex_classifier = False
+            continue
+        if re.match(r"^\[Олдинги\]\(https?://lex\.uz/docs/[^)]+\)\s*таҳрирга\s*қаранг\.?$", s_line):
+            continue
+        lines.append(line)
     cleaned = "\n".join(lines).strip()
     cleaned = re.sub(r"\n{3,}", "\n\n", cleaned)
     if doc_title and not cleaned.startswith("# "):

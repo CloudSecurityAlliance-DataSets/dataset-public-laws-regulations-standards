@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/aii.et/ethiopia-national-artificial-intelligence-policy@2024",
+  "name": "National Artificial Intelligence Policy of Ethiopia (2024)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2024",
+  "publication_id": "ethiopia-national-artificial-intelligence-policy-2024",
+  "owner": "Ethiopian Artificial Intelligence Institute (EAII) & Information Network Security Administration (INSA)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "National Artificial Intelligence Policy of Ethiopia",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Ethiopian Artificial Intelligence Institute (EAII) & Information Network Security Administration (INSA) (aii.et) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Ethiopian Artificial Intelligence Institute (EAII) & Information Network Security Administration (INSA) (aii.et).",
+  "license": {
+    "spdx": "LicenseRef-ET-Proc410-2004-Art5",
+    "Grouping": "Public Domain",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.wipo.int/wipolex/en/legislation/details/5323",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (aii.et) is governed by Federal Democratic Republic of Ethiopia Copyright and Neighboring Rights Protection Proclamation No. 410/2004 Art. 5(b) (official texts of a legislative, administrative or legal nature and their official translations are excluded from copyright protection).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (aii.et) is governed by Federal Democratic Republic of Ethiopia Copyright and Neighboring Rights Protection Proclamation No. 410/2004 Art. 5(b) (official texts of a legislative, administrative or legal nature and their official translations are excluded from copyright protection)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.aii.et/",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2024-06-21",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/aii.et/ethiopia-national-artificial-intelligence-policy@2024 (https://www.aii.et/) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

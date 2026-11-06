@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/ict.gov.pg/national-cyber-security-strategy@2024",
+  "name": "Papua New Guinea National Cyber Security Strategy (2024–2030) & National Cyber Security Policy (2021)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2024",
+  "publication_id": "national-cyber-security-strategy-2024",
+  "owner": "Department of Information and Communications Technology (DICT), Papua New Guinea",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Papua New Guinea National Cyber Security Strategy (2024–2030) & National Cyber Security Policy (2021)",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Department of Information and Communications Technology (DICT), Papua New Guinea (ict.gov.pg) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Department of Information and Communications Technology (DICT), Papua New Guinea (ict.gov.pg).",
+  "license": {
+    "spdx": "LicenseRef-PG-Copyright-2000-Sec5",
+    "Grouping": "Public Domain",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.wipo.int/wipolex/en/legislation/details/3443",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (ict.gov.pg) is governed by Independent State of Papua New Guinea Copyright and Neighbouring Rights Act 2000 Sec. 5(b) (protection does not extend to any official text of a legislative, administrative or legal nature, or any official translation thereof).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (ict.gov.pg) is governed by Independent State of Papua New Guinea Copyright and Neighbouring Rights Act 2000 Sec. 5(b) (protection does not extend to any official text of a legislative, administrative or legal nature, or any official translation thereof)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.ict.gov.pg/",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2024-10-01",
+    "active": true,
+    "supersedes": "secid:reference/ict.gov.pg/national-cyber-security-strategy@2021",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/ict.gov.pg/national-cyber-security-strategy@2024 (https://www.ict.gov.pg/) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

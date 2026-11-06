@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/gub.uy/estrategia-nacional-ciberseguridad@2024-2030",
+  "name": "Estrategia Nacional de Ciberseguridad del Uruguay 2024–2030 (Decreto N° 311/024)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2024-2030",
+  "publication_id": "estrategia-nacional-ciberseguridad-2024-2030",
+  "owner": "Presidencia de la República Oriental del Uruguay — AGESIC",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Estrategia Nacional de Ciberseguridad del Uruguay 2024–2030 (Decreto N° 311/024, November 19, 2024). National cybersecurity strategy of the Oriental Republic of Uruguay approved by Presidential Decree N° 311/024 on November 19, 2024, establishing strategic pillars for cyber governance, critical infrastructure protection, incident response via CERTuy, and talent development through 2030.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Presidencia de la República Oriental del Uruguay — AGESIC (gub.uy) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Presidencia de la República Oriental del Uruguay — AGESIC (gub.uy).",
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "Grouping": "Permissive",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.gub.uy/terminos-uso",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (gub.uy) is governed by Oriental Republic of Uruguay official government publication (gub.uy Portal Unificado del Estado Uruguayo Terms of Use / Decree No. 54/017: licensed under Creative Commons Attribution 4.0 International — CC BY 4.0).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (gub.uy) is governed by Oriental Republic of Uruguay official government publication (gub.uy Portal Unificado del Estado Uruguayo Terms of Use / Decree No. 54/017: licensed under Creative Commons Attribution 4.0 International — CC BY 4.0)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/comunicacion/publicaciones/estrategia-nacional-ciberseguridad-del-uruguay-2024-2030/estrategia",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2024-11-19",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/gub.uy/estrategia-nacional-ciberseguridad@2024-2030 (https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/comunicacion/publicaciones/estrategia-nacional-ciberseguridad-del-uruguay-2024-2030/estrategia) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

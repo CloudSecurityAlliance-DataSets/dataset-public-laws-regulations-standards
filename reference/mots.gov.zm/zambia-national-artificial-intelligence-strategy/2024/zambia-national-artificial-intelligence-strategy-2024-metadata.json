@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/mots.gov.zm/zambia-national-artificial-intelligence-strategy@2024",
+  "name": "Zambia National Artificial Intelligence Strategy (2024–2026)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2024",
+  "publication_id": "zambia-national-artificial-intelligence-strategy-2024",
+  "owner": "Ministry of Technology and Science (MoTS), Republic of Zambia",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Zambia National Artificial Intelligence Strategy (2024–2026)",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Ministry of Technology and Science (MoTS), Republic of Zambia (mots.gov.zm) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Ministry of Technology and Science (MoTS), Republic of Zambia (mots.gov.zm).",
+  "license": {
+    "spdx": "LicenseRef-ZM-Cap406-Sec9",
+    "Grouping": "Government-Work",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.wipo.int/wipolex/en/legislation/details/4124",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (mots.gov.zm) is governed by Republic of Zambia Copyright and Performance Rights Act, 1994 (Chapter 406) Sec. 9(a) & Sec. 30 (legislative exclusions and State copyright in Government works).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (mots.gov.zm) is governed by Republic of Zambia Copyright and Performance Rights Act, 1994 (Chapter 406) Sec. 9(a) & Sec. 30 (legislative exclusions and State copyright in Government works)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.mots.gov.zm/",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2024-11-14",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/mots.gov.zm/zambia-national-artificial-intelligence-strategy@2024 (https://www.mots.gov.zm/) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

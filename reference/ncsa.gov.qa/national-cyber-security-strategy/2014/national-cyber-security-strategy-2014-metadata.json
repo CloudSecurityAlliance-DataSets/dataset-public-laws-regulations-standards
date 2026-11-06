@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/ncsa.gov.qa/national-cyber-security-strategy@2014",
+  "name": "Qatar National Cyber Security Strategy (2014)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2014",
+  "publication_id": "national-cyber-security-strategy-2014",
+  "owner": "الوكالة الوطنية للأمن السيبراني / National Cyber Security Agency (NCSA)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "First Qatar National Cyber Security Strategy (May 2014).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by الوكالة الوطنية للأمن السيبراني / National Cyber Security Agency (NCSA) (ncsa.gov.qa) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for الوكالة الوطنية للأمن السيبراني / National Cyber Security Agency (NCSA) (ncsa.gov.qa).",
+  "license": {
+    "spdx": "LicenseRef-QA-MCIT-QCRI-Terms",
+    "Grouping": "Proprietary / All Rights Reserved",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.wipo.int/wipolex/en/legislation/details/3533",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (ncsa.gov.qa) is governed by State of Qatar Law No. 7 of 2002 on the Protection of Copyright and Neighboring Rights and MCIT / Qatar Computing Research Institute (HBKU) publication terms.",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (ncsa.gov.qa) is governed by State of Qatar Law No. 7 of 2002 on the Protection of Copyright and Neighboring Rights and MCIT / Qatar Computing Research Institute (HBKU) publication terms."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://ncsa.gov.qa/en/national-cyber-security-strategy",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2014-05-01",
+    "active": false,
+    "supersedes": null,
+    "supersededBy": "secid:reference/ncsa.gov.qa/national-cyber-security-strategy@2024-2030",
+    "retiredFromActiveUse": "2024-05-01",
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/ncsa.gov.qa/national-cyber-security-strategy@2014 (https://ncsa.gov.qa/en/national-cyber-security-strategy) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

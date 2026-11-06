@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/lex.uz/ai-technologies-development-strategy-2030@2024",
+  "name": "Strategy for the Development of Artificial Intelligence Technologies until 2030 (Presidential Resolution No. PQ-358) (2024)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2024",
+  "publication_id": "ai-technologies-development-strategy-2030-2024",
+  "owner": "National Database of Legislation of the Republic of Uzbekistan (LexUZ)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Strategy for the Development of Artificial Intelligence Technologies until 2030 (Presidential Resolution No. PQ-358)",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by National Database of Legislation of the Republic of Uzbekistan (LexUZ) (lex.uz) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for National Database of Legislation of the Republic of Uzbekistan (LexUZ) (lex.uz).",
+  "license": {
+    "spdx": "LicenseRef-UZ-LawZRU42-Art8",
+    "Grouping": "Public Domain",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.wipo.int/wipolex/en/legislation/details/4078",
+    "note": "Official publication (lex.uz); Law of the Republic of Uzbekistan No. ZRU-42 of July 20, 2006 on Copyright and Related Rights Art. 8(1) (official documents — laws, Presidential decrees/resolutions, and decisions, as well as their official translations — are not objects of copyright).",
+    "notes": "Official publication (lex.uz); Law of the Republic of Uzbekistan No. ZRU-42 of July 20, 2006 on Copyright and Related Rights Art. 8(1) (official documents — laws, Presidential decrees/resolutions, and decisions, as well as their official translations — are not objects of copyright)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://lex.uz/docs/7158604",
+    "textUsed": "https://lex.uz/docs/7158604",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2024-10-14",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official HTML publication (https://lex.uz/docs/7158604) to Markdown (91,129 chars). Parsed 11 sections (9 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

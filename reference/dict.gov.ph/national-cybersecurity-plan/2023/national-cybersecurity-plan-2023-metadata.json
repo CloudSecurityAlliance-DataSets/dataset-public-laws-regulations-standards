@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/dict.gov.ph/national-cybersecurity-plan@2023",
+  "name": "Philippine National Cybersecurity Plan 2023–2028 (NCSP 2028)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2023",
+  "publication_id": "national-cybersecurity-plan-2023",
+  "owner": "Department of Information and Communications Technology (DICT) & Government of the Philippines",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Philippine National Cybersecurity Plan 2023–2028 (NCSP 2028)",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Department of Information and Communications Technology (DICT) & Government of the Philippines (dict.gov.ph) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Department of Information and Communications Technology (DICT) & Government of the Philippines (dict.gov.ph).",
+  "license": {
+    "spdx": "LicenseRef-PH-RA8293-Sec176",
+    "Grouping": "Public Domain",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.wipo.int/wipolex/en/legislation/details/16107",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (dict.gov.ph) is governed by Intellectual Property Code of the Philippines (Republic Act No. 8293) Sec. 176.1 (no copyright shall subsist in any work of the Government of the Philippines).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (dict.gov.ph) is governed by Intellectual Property Code of the Philippines (Republic Act No. 8293) Sec. 176.1 (no copyright shall subsist in any work of the Government of the Philippines)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://dict.gov.ph/",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2024-02-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/dict.gov.ph/national-cybersecurity-plan@2023 (https://dict.gov.ph/) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

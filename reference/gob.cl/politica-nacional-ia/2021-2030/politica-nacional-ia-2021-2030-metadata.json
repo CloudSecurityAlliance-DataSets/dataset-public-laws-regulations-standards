@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/gob.cl/politica-nacional-ia@2021-2030",
+  "name": "Política Nacional de Inteligencia Artificial 2021-2030 (Decreto Supremo N° 20/2021)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2021-2030",
+  "publication_id": "politica-nacional-ia-2021-2030",
+  "owner": "Gobierno de Chile",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Política Nacional de Inteligencia Artificial 2021-2030 (Decreto Supremo N° 20/2021, October 27, 2021).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Gobierno de Chile (gob.cl) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Gobierno de Chile (gob.cl).",
+  "license": {
+    "spdx": "LicenseRef-CL-Law17336-Official",
+    "Grouping": "Government-Work",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.wipo.int/wipolex/en/legislation/details/12491",
+    "note": "Official publication (gob.cl); Republic of Chile Law No. 17,336 on Intellectual Property and Diario Oficial / MinCiencia open government publication terms (official supreme decrees and open-licensed national policy documents).",
+    "notes": "Official publication (gob.cl); Republic of Chile Law No. 17,336 on Intellectual Property and Diario Oficial / MinCiencia open government publication terms (official supreme decrees and open-licensed national policy documents)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://minciencia.gob.cl/uploads/filer_public/bc/38/bc389daf-4514-4306-867c-760ae7686e2c/documento_politica_ia_digital_.pdf",
+    "textUsed": "https://minciencia.gob.cl/uploads/filer_public/bc/38/bc389daf-4514-4306-867c-760ae7686e2c/documento_politica_ia_digital_.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2021-10-27",
+    "active": false,
+    "supersedes": null,
+    "supersededBy": "secid:reference/gob.cl/politica-nacional-ia@2024",
+    "retiredFromActiveUse": "2024-05-07",
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 78-page PDF (https://minciencia.gob.cl/uploads/filer_public/bc/38/bc389daf-4514-4306-867c-760ae7686e2c/documento_politica_ia_digital_.pdf) locally via PyMuPDF (149,242 chars). Parsed 27 sections (16 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

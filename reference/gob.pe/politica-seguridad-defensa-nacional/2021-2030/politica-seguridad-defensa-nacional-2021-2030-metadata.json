@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/gob.pe/politica-seguridad-defensa-nacional@2021-2030",
+  "name": "Política Nacional Multisectorial de Seguridad y Defensa Nacional al 2030 (DS N° 005-2021-DE)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2021-2030",
+  "publication_id": "politica-seguridad-defensa-nacional-2021-2030",
+  "owner": "Presidencia del Consejo de Ministros del Perú — Secretaría de Gobierno y Transformación Digital",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Política Nacional Multisectorial de Seguridad y Defensa Nacional al 2030 (Decreto Supremo N° 005-2021-DE, July 22, 2021). Overarching Peruvian national security and defense strategy through 2030 approved by Decreto Supremo N° 005-2021-DE, including cyber defense and critical asset protection.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Presidencia del Consejo de Ministros del Perú — Secretaría de Gobierno y Transformación Digital (gob.pe) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Presidencia del Consejo de Ministros del Perú — Secretaría de Gobierno y Transformación Digital (gob.pe).",
+  "license": {
+    "spdx": "LicenseRef-PE-DL822-Art9",
+    "Grouping": "Public Domain",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.wipo.int/wipolex/en/legislation/details/3426",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (gob.pe) is governed by Republic of Peru Legislative Decree No. 822 (Law on Copyright) Art. 9(b) (official texts of a legislative, administrative or judicial nature, and their official translations, are not objects of copyright protection).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (gob.pe) is governed by Republic of Peru Legislative Decree No. 822 (Law on Copyright) Art. 9(b) (official texts of a legislative, administrative or judicial nature, and their official translations, are not objects of copyright protection)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.gob.pe/institucion/pcm/noticias/1396378-gobierno-aprueba-plan-estrategico-multisectorial-de-seguridad-y-defensa-nacional-al-2030",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2021-07-22",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/gob.pe/politica-seguridad-defensa-nacional@2021-2030 (https://www.gob.pe/institucion/pcm/noticias/1396378-gobierno-aprueba-plan-estrategico-multisectorial-de-seguridad-y-defensa-nacional-al-2030) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

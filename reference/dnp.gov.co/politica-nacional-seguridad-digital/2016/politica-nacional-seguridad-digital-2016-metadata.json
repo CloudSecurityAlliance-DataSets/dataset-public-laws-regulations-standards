@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/dnp.gov.co/politica-nacional-seguridad-digital@2016",
+  "name": "CONPES 3854 — Política Nacional de Seguridad Digital",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2016",
+  "publication_id": "politica-nacional-seguridad-digital-2016",
+  "owner": "Departamento Nacional de Planeación — Consejo Nacional de Política Económica y Social (CONPES)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "CONPES 3854 — Política Nacional de Seguridad Digital (April 11, 2016).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Departamento Nacional de Planeación — Consejo Nacional de Política Económica y Social (CONPES) (dnp.gov.co) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Departamento Nacional de Planeación — Consejo Nacional de Política Económica y Social (CONPES) (dnp.gov.co).",
+  "license": {
+    "spdx": "LicenseRef-CO-Law23-1982-Art41",
+    "Grouping": "Public Domain",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.wipo.int/wipolex/en/legislation/details/847",
+    "note": "Official publication (dnp.gov.co); Republic of Colombia Law 23 of 1982 on Copyright Art. 41 (permitted reproduction of the Constitution, laws, decrees, ordinances, regulations, and other administrative acts, including CONPES policy documents, conforming to the official edition) and Law 1712 of 2014 (Transparency and Open Data).",
+    "notes": "Official publication (dnp.gov.co); Republic of Colombia Law 23 of 1982 on Copyright Art. 41 (permitted reproduction of the Constitution, laws, decrees, ordinances, regulations, and other administrative acts, including CONPES policy documents, conforming to the official edition) and Law 1712 of 2014 (Transparency and Open Data)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://colaboracion.dnp.gov.co/CDT/Conpes/Econ%C3%B3micos/3854.pdf",
+    "textUsed": "https://colaboracion.dnp.gov.co/CDT/Conpes/Econ%C3%B3micos/3854.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2016-04-11",
+    "active": false,
+    "supersedes": "secid:reference/dnp.gov.co/politica-nacional-seguridad-digital@2011",
+    "supersededBy": "secid:reference/dnp.gov.co/politica-nacional-seguridad-digital@2020",
+    "retiredFromActiveUse": "2020-07-01",
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 91-page PDF (https://colaboracion.dnp.gov.co/CDT/Conpes/Econ%C3%B3micos/3854.pdf) locally via PyMuPDF (227,305 chars). Parsed 33 sections (27 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

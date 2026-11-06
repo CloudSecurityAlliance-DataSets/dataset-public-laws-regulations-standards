@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/cac.gov.cn/national-cyberspace-security-strategy@2016",
+  "name": "国家网络空间安全战略 (National Cyberspace Security Strategy, 2016)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2016",
+  "publication_id": "national-cyberspace-security-strategy-2016",
+  "owner": "Cyberspace Administration of China (国家互联网信息办公室 / 中央网络安全和信息化委员会办公室)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "National Cyberspace Security Strategy (国家网络空间安全战略, published December 27, 2016). China's foundational national cybersecurity strategy approved by the Central Cyberspace Affairs Leading Group and published by the Cyberspace Administration of China (CAC) on December 27, 2016, establishing the doctrine of cyber sovereignty (网络主权), critical information infrastructure protection, cyber defense, and cyber deterrence.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Cyberspace Administration of China (国家互联网信息办公室 / 中央网络安全和信息化委员会办公室) (cac.gov.cn) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Cyberspace Administration of China (国家互联网信息办公室 / 中央网络安全和信息化委员会办公室) (cac.gov.cn).",
+  "license": {
+    "spdx": "LicenseRef-CN-Copyright-Art5-1",
+    "Grouping": "Public Domain",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.wipo.int/wipolex/en/legislation/details/20621",
+    "note": "Official publication (cac.gov.cn); Copyright Law of the People's Republic of China Art. 5(1) (laws, regulations, resolutions, decisions and orders of state organs, and other documents of a legislative, administrative or judicial nature and their official translations are excluded from copyright protection).",
+    "notes": "Official publication (cac.gov.cn); Copyright Law of the People's Republic of China Art. 5(1) (laws, regulations, resolutions, decisions and orders of state organs, and other documents of a legislative, administrative or judicial nature and their official translations are excluded from copyright protection)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.cac.gov.cn/2016-12/27/c_1120195878.htm",
+    "textUsed": "https://www.cac.gov.cn/2016-12/27/c_1120195926.htm",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2016-12-27",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official HTML publication (https://www.cac.gov.cn/2016-12/27/c_1120195926.htm) to Markdown (6,711 chars). Parsed 20 sections (19 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

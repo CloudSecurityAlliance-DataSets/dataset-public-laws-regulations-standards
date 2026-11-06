@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/mcit.gov.ws/samoa-national-cybersecurity-strategy@2024",
+  "name": "Samoa National Cybersecurity Strategy (2024–2029 / 2016–2021)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2024",
+  "publication_id": "samoa-national-cybersecurity-strategy-2024",
+  "owner": "Ministry of Communications and Information Technology (MCIT), Government of Samoa",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Samoa National Cybersecurity Strategy (2024–2029 / 2016–2021)",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Ministry of Communications and Information Technology (MCIT), Government of Samoa (mcit.gov.ws) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Ministry of Communications and Information Technology (MCIT), Government of Samoa (mcit.gov.ws).",
+  "license": {
+    "spdx": "LicenseRef-WS-Copyright-1998-Sec5",
+    "Grouping": "Public Domain",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.wipo.int/wipolex/en/legislation/details/6993",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (mcit.gov.ws) is governed by Independent State of Samoa Copyright Act 1998 (No. 25 of 1998) Sec. 5(b) (no copyright protection extends to any official text of a legislative, administrative or legal nature, or any official translation thereof).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (mcit.gov.ws) is governed by Independent State of Samoa Copyright Act 1998 (No. 25 of 1998) Sec. 5(b) (no copyright protection extends to any official text of a legislative, administrative or legal nature, or any official translation thereof)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://mcit.gov.ws/",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2024-06-01",
+    "active": true,
+    "supersedes": "secid:reference/mcit.gov.ws/samoa-national-cybersecurity-strategy@2016",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/mcit.gov.ws/samoa-national-cybersecurity-strategy@2024 (https://mcit.gov.ws/) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

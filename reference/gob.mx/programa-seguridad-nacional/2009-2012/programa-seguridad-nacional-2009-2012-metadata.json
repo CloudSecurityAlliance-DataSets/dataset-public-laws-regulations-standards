@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/gob.mx/programa-seguridad-nacional@2009-2012",
+  "name": "Programa para la Seguridad Nacional 2009-2012",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2009-2012",
+  "publication_id": "programa-seguridad-nacional-2009-2012",
+  "owner": "Gobierno de México — Presidencia de la República",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Programa para la Seguridad Nacional 2009–2012 (DOF August 20, 2009).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Gobierno de México — Presidencia de la República (gob.mx) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Gobierno de México — Presidencia de la República (gob.mx).",
+  "license": {
+    "spdx": "LicenseRef-MX-LFDA-Art14-VIII",
+    "Grouping": "Public Domain",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.wipo.int/wipolex/en/legislation/details/20172",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (gob.mx) is governed by United Mexican States Federal Copyright Law (Ley Federal del Derecho de Autor) Art. 14(VIII) (legislative, regulatory, administrative or judicial texts and their official translations are not subject to copyright protection) and Libre Uso MX (datos.gob.mx).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (gob.mx) is governed by United Mexican States Federal Copyright Law (Ley Federal del Derecho de Autor) Art. 14(VIII) (legislative, regulatory, administrative or judicial texts and their official translations are not subject to copyright protection) and Libre Uso MX (datos.gob.mx)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://dof.gob.mx/nota_detalle.php?codigo=5106076&fecha=20/08/2009",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2009-08-20",
+    "active": false,
+    "supersedes": null,
+    "supersededBy": "secid:reference/gob.mx/programa-seguridad-nacional@2014-2018",
+    "retiredFromActiveUse": "2014-04-30",
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/gob.mx/programa-seguridad-nacional@2009-2012 (https://dof.gob.mx/nota_detalle.php?codigo=5106076&fecha=20/08/2009) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

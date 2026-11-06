@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/cert.gov.lk/national-information-and-cyber-security-strategy@2025",
+  "name": "National Information and Cyber Security Strategy of Sri Lanka (2025)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2025",
+  "publication_id": "national-information-and-cyber-security-strategy-2025",
+  "owner": "Sri Lanka CERT|CC & Ministry of Technology of Sri Lanka",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "National Information and Cyber Security Strategy of Sri Lanka",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Sri Lanka CERT|CC & Ministry of Technology of Sri Lanka (cert.gov.lk) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Sri Lanka CERT|CC & Ministry of Technology of Sri Lanka (cert.gov.lk).",
+  "license": {
+    "spdx": "LicenseRef-LK-Act36-2003-Sec8",
+    "Grouping": "Public Domain",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.wipo.int/wipolex/en/legislation/details/2795",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (cert.gov.lk) is governed by Democratic Socialist Republic of Sri Lanka Intellectual Property Act, No. 36 of 2003 Sec. 8(a) (no copyright protection extends to any official text of a legislative, administrative or legal nature, or any official translation thereof).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (cert.gov.lk) is governed by Democratic Socialist Republic of Sri Lanka Intellectual Property Act, No. 36 of 2003 Sec. 8(a) (no copyright protection extends to any official text of a legislative, administrative or legal nature, or any official translation thereof)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.cert.gov.lk/",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2025-01-01",
+    "active": true,
+    "supersedes": "secid:reference/cert.gov.lk/national-information-and-cyber-security-strategy@2019",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/cert.gov.lk/national-information-and-cyber-security-strategy@2025 (https://www.cert.gov.lk/) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/adilet.zan.kz/concept-for-development-of-ai-in-kazakhstan@2024",
+  "name": "Concept for the Development of Artificial Intelligence for 2024–2029 (Government Resolution No. 592)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2024",
+  "publication_id": "concept-for-development-of-ai-in-kazakhstan-2024",
+  "owner": "Legal Information System of Regulatory Legal Acts of the Republic of Kazakhstan",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Concept for the Development of Artificial Intelligence for 2024–2029 (Government Resolution No. 592)",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Legal Information System of Regulatory Legal Acts of the Republic of Kazakhstan (adilet.zan.kz) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Legal Information System of Regulatory Legal Acts of the Republic of Kazakhstan (adilet.zan.kz).",
+  "license": {
+    "spdx": "LicenseRef-KZ-Law6I-Art8-1",
+    "Grouping": "Public Domain",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.wipo.int/wipolex/en/legislation/details/2739",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (adilet.zan.kz) is governed by Law of the Republic of Kazakhstan No. 6-I of June 10, 1996 on Copyright and Related Rights Art. 8(1) (official documents — laws, resolutions, and other texts of a legislative, administrative, judicial or diplomatic character — and their official translations are not objects of copyright).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (adilet.zan.kz) is governed by Law of the Republic of Kazakhstan No. 6-I of June 10, 1996 on Copyright and Related Rights Art. 8(1) (official documents — laws, resolutions, and other texts of a legislative, administrative, judicial or diplomatic character — and their official translations are not objects of copyright)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://adilet.zan.kz/rus/docs/P2400000592",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2024-07-24",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/adilet.zan.kz/concept-for-development-of-ai-in-kazakhstan@2024 (https://adilet.zan.kz/rus/docs/P2400000592) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

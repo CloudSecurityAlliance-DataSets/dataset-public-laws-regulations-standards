@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/csa.gov.gh/ghana-national-security-strategy@2021",
+  "name": "National Security Strategy of Ghana: A Secure and Prosperous Ghana (2021)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2021",
+  "publication_id": "ghana-national-security-strategy-2021",
+  "owner": "Cyber Security Authority (CSA) & Ministry of National Security of Ghana",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "National Security Strategy of Ghana: A Secure and Prosperous Ghana",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Cyber Security Authority (CSA) & Ministry of National Security of Ghana (csa.gov.gh) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Cyber Security Authority (CSA) & Ministry of National Security of Ghana (csa.gov.gh).",
+  "license": {
+    "spdx": "LicenseRef-GH-Act690-Sec2",
+    "Grouping": "Government-Work",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.wipo.int/wipolex/en/legislation/details/1789",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (csa.gov.gh) is governed by Republic of Ghana Copyright Act, 2005 (Act 690) Sec. 2(b) (exclusion of enactments and official Government commission/agency reports published by the Government).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (csa.gov.gh) is governed by Republic of Ghana Copyright Act, 2005 (Act 690) Sec. 2(b) (exclusion of enactments and official Government commission/agency reports published by the Government)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://nsc.gov.gh/",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2021-06-07",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/csa.gov.gh/ghana-national-security-strategy@2021 (https://nsc.gov.gh/) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

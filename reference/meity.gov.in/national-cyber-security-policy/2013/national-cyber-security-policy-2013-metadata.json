@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/meity.gov.in/national-cyber-security-policy@2013",
+  "name": "National Cyber Security Policy - 2013",
+  "acronym": "NCSP 2013",
+  "alternate_names": [],
+  "version": "2013",
+  "publication_id": "national-cyber-security-policy-2013",
+  "owner": "Ministry of Electronics and Information Technology",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "National Cyber Security Policy - 2013 (notified July 2, 2013). Foundational national cybersecurity policy framework of India issued by the Department of Electronics and Information Technology (now MeitY) on July 2, 2013, establishing strategic objectives for critical information infrastructure protection (NCIIPC), 24x7 CERT-In coordination, indigenous security technology, and building a workforce of 500,000 cybersecurity professionals.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Ministry of Electronics and Information Technology (meity.gov.in) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Ministry of Electronics and Information Technology (meity.gov.in).",
+  "license": {
+    "spdx": "LicenseRef-IN-Copyright-1957-Sec17d",
+    "Grouping": "Proprietary / All Rights Reserved",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.wipo.int/wipolex/en/legislation/details/13825",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (meity.gov.in) is governed by Indian Copyright Act, 1957 (Act No. 14 of 1957) Sec. 17(d) (Government copyright in ministerial and NITI Aayog strategy publications unless explicitly released under GODL-India).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (meity.gov.in) is governed by Indian Copyright Act, 1957 (Act No. 14 of 1957) Sec. 17(d) (Government copyright in ministerial and NITI Aayog strategy publications unless explicitly released under GODL-India)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.meity.gov.in/divisions/cyber-security-group",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2013-07-02",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/meity.gov.in/national-cyber-security-policy@2013 (https://www.meity.gov.in/divisions/cyber-security-group) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/bssn.go.id/buku-putih-pertahanan-indonesia@2015",
+  "name": "Indonesian Defense White Paper (Buku Putih Pertahanan Indonesia) (2015)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2015",
+  "publication_id": "buku-putih-pertahanan-indonesia-2015",
+  "owner": "National Cyber and Crypto Agency (BSSN) & Government of Indonesia",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Indonesian Defense White Paper (Buku Putih Pertahanan Indonesia)",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by National Cyber and Crypto Agency (BSSN) & Government of Indonesia (bssn.go.id) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for National Cyber and Crypto Agency (BSSN) & Government of Indonesia (bssn.go.id).",
+  "license": {
+    "spdx": "LicenseRef-ID-Law28-2014-Art42",
+    "Grouping": "Public Domain",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.wipo.int/wipolex/en/legislation/details/15600",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (bssn.go.id) is governed by Republic of Indonesia Law No. 28 of 2014 on Copyright Art. 42(b) (no copyright subsists in laws, Government Regulations, Presidential Regulations/Decrees, regional regulations, and decisions of state bodies).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (bssn.go.id) is governed by Republic of Indonesia Law No. 28 of 2014 on Copyright Art. 42(b) (no copyright subsists in laws, Government Regulations, Presidential Regulations/Decrees, regional regulations, and decisions of state bodies)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.kemhan.go.id/",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2015-11-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/bssn.go.id/buku-putih-pertahanan-indonesia@2015 (https://www.kemhan.go.id/) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

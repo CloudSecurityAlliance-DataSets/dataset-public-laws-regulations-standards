@@ -302,6 +302,33 @@ URL_OVERRIDES: dict[tuple[str, str, str], list[str]] = {
     ("dsn.gob.es", "estrategia-nacional-ciberseguridad", "2019"): [
         "https://www.dsn.gob.es/sites/default/files/2025-04/Estrategia%20Nacional%20de%20Ciberseguridad%202019%20-%20%20Interactivo_0%20%281%29_0.pdf",
     ],
+    # Wave 2C: Rest of World
+    ("cac.gov.cn", "national-cyberspace-security-strategy", "2016"): [
+        "https://www.cac.gov.cn/2016-12/27/c_1120195926.htm",
+    ],
+    ("cac.gov.cn", "14th-five-year-plan-national-informatization", "2021-2025"): [
+        "https://www.cac.gov.cn/rootimages/uploadimg/1642205314564505/1642205314564505.pdf",
+    ],
+}
+
+# Editions whose registry URL is a generic portal root that serves an unrelated PDF, a different year's
+# edition, or an unextractable image-only scan without body text; force honest metadata-only records.
+_FORCE_METADATA_ONLY_SECIDS: set[str] = {
+    "secid:reference/gob.cl/politica-nacional-ia@2024",
+    "secid:reference/micitt.go.cr/estrategia-nacional-ciberseguridad@2017-2021",
+    "secid:reference/cncs.gob.do/estrategia-nacional-ciberseguridad@2018-2021",
+    "secid:reference/csa.gov.gh/ghana-national-artificial-intelligence-strategy@2023",
+    "secid:reference/bssn.go.id/buku-putih-pertahanan-indonesia@2015",
+    "secid:reference/ict.go.ke/kenya-national-artificial-intelligence-strategy@2025",
+    "secid:reference/cert.gov.lk/national-information-and-cyber-security-strategy@2019",
+    "secid:reference/cert.gov.lk/national-information-and-cyber-security-strategy@2025",
+    "secid:reference/dgssi.gov.ma/maroc-digital-2030@2024",
+    "secid:reference/nitda.gov.ng/nigeria-national-artificial-intelligence-strategy@2024",
+    "secid:reference/treasury.govmu.org/mauritius-national-cyber-security-strategy@2014",
+    "secid:reference/treasury.govmu.org/mauritius-national-cyber-security-strategy@2023",
+    "secid:reference/treasury.govmu.org/mauritius-artificial-intelligence-strategy@2018",
+    "secid:reference/pravo.gov.ru/national-strategy-for-the-development-of-ai-until-2030@2019",
+    "secid:reference/sdaia.gov.sa/nsdai@2020",
 }
 
 _LAST_WAYBACK_TS = 0.0
@@ -499,6 +526,331 @@ _TLD_STATUTORY_LICENSES: dict[str, tuple[str, str, str, str]] = {
         "Law of Ukraine on Copyright and Related Rights (No. 2811-IX) Art. 8(1)(3) (acts of state authorities, Presidential Decrees enacting NSDC decisions, and official documents are not objects of copyright).",
         "https://zakon.rada.gov.ua/laws/show/2811-20",
     ),
+    # Wave 2C: Rest of World (54 active strategy TLDs)
+    "ae": (
+        "LicenseRef-AE-TDRA-Terms",
+        "Proprietary / All Rights Reserved",
+        "UAE Telecommunications and Digital Government Regulatory Authority (TDRA) and UAE Government portal Terms and Conditions (copyright and intellectual property rights in ministerial strategy publications are reserved unless explicitly stated otherwise).",
+        "https://tdra.gov.ae/en/terms-and-conditions",
+    ),
+    "ar": (
+        "CC-BY-4.0",
+        "Permissive",
+        "República Argentina official government publication (Argentina.gob.ar / InfoLEG Terms and Conditions: licensed under Creative Commons Attribution 4.0 International — CC BY 4.0).",
+        "https://www.argentina.gob.ar/terminos-y-condiciones",
+    ),
+    "az": (
+        "LicenseRef-AZ-Law115IQ-Art7",
+        "Public Domain",
+        "Law of the Republic of Azerbaijan on Copyright and Related Rights (No. 115-IQ) Art. 7(a) (official documents — laws, court decisions, Presidential orders, and other texts of a legislative, administrative or judicial character — and their official translations are not objects of copyright).",
+        "https://www.wipo.int/wipolex/en/legislation/details/316",
+    ),
+    "bd": (
+        "LicenseRef-BD-Copyright-Sec72",
+        "Government-Work",
+        "Bangladesh Copyright Act, 2023 (Act No. 34 of 2023, replacing Copyright Act 2000) Sec. 72(1)(q)-(r) (official acts, Gazette publications, and government reports).",
+        "https://www.wipo.int/wipolex/en/legislation/details/394",
+    ),
+    "bh": (
+        "LicenseRef-BH-Law22-2006-Art4",
+        "Public Domain",
+        "Kingdom of Bahrain Law No. 22 of 2006 relating to the Protection of Copyright and Neighbouring Rights Art. 4(a) (official documents such as laws, decrees, regulations, decisions, and administrative decisions are excluded from copyright protection).",
+        "https://www.wipo.int/wipolex/en/legislation/details/7289",
+    ),
+    "br": (
+        "LicenseRef-BR-Law9610-Art8-IV",
+        "Public Domain",
+        "Brazilian Copyright Law (Lei nº 9.610, de 19 de fevereiro de 1998) Art. 8º(IV) (texts of treaties, laws, decrees, regulations, judicial decisions, and other official acts are not objects of copyright protection) and Federal Open Data Policy (Decreto nº 8.777/2016).",
+        "https://www.planalto.gov.br/ccivil_03/leis/l9610.htm",
+    ),
+    "bz": (
+        "LicenseRef-BZ-Copyright-Cap252",
+        "Proprietary / All Rights Reserved",
+        "Belize Copyright Act (Chapter 252, Part IX Government copyright); no general statutory public-domain exemption for ministerial or regulatory strategy reports without explicit open licensing.",
+        "https://www.wipo.int/wipolex/en/legislation/details/551",
+    ),
+    "cl": (
+        "LicenseRef-CL-Law17336-Official",
+        "Government-Work",
+        "Republic of Chile Law No. 17,336 on Intellectual Property and Diario Oficial / MinCiencia open government publication terms (official supreme decrees and open-licensed national policy documents).",
+        "https://www.wipo.int/wipolex/en/legislation/details/12491",
+    ),
+    "cn": (
+        "LicenseRef-CN-Copyright-Art5-1",
+        "Public Domain",
+        "Copyright Law of the People's Republic of China Art. 5(1) (laws, regulations, resolutions, decisions and orders of state organs, and other documents of a legislative, administrative or judicial nature and their official translations are excluded from copyright protection).",
+        "https://www.wipo.int/wipolex/en/legislation/details/20621",
+    ),
+    "co": (
+        "LicenseRef-CO-Law23-1982-Art41",
+        "Public Domain",
+        "Republic of Colombia Law 23 of 1982 on Copyright Art. 41 (permitted reproduction of the Constitution, laws, decrees, ordinances, regulations, and other administrative acts, including CONPES policy documents, conforming to the official edition) and Law 1712 of 2014 (Transparency and Open Data).",
+        "https://www.wipo.int/wipolex/en/legislation/details/847",
+    ),
+    "cr": (
+        "LicenseRef-CR-Law6683-Ministerial-Copyright",
+        "Proprietary / All Rights Reserved",
+        "Republic of Costa Rica Law No. 6683 on Copyright and Related Rights (ISBN-registered MICITT ministerial publications without an explicit open-redistribution license).",
+        "https://www.wipo.int/wipolex/en/legislation/details/878",
+    ),
+    "do": (
+        "LicenseRef-DO-Law65-00-Art4-3",
+        "Public Domain",
+        "Dominican Republic Law No. 65-00 on Copyright Art. 4(3) (official texts of a legislative, administrative or judicial nature, and their official translations, are excluded from copyright protection).",
+        "https://www.wipo.int/wipolex/en/legislation/details/1140",
+    ),
+    "eg": (
+        "LicenseRef-EG-Law82-2002-Art141",
+        "Public Domain",
+        "Arab Republic of Egypt Law No. 82 of 2002 on the Protection of Intellectual Property Rights Art. 141(1) (official documents such as laws, regulations, and administrative decisions are excluded from copyright protection).",
+        "https://www.wipo.int/wipolex/en/legislation/details/1307",
+    ),
+    "et": (
+        "LicenseRef-ET-Proc410-2004-Art5",
+        "Public Domain",
+        "Federal Democratic Republic of Ethiopia Copyright and Neighboring Rights Protection Proclamation No. 410/2004 Art. 5(b) (official texts of a legislative, administrative or legal nature and their official translations are excluded from copyright protection).",
+        "https://www.wipo.int/wipolex/en/legislation/details/5323",
+    ),
+    "fj": (
+        "LicenseRef-FJ-Copyright-1999-Sec26",
+        "Government-Work",
+        "Fiji Copyright Act 1999 (Act No. 11 of 1999) Sec. 26 and Part X (State copyright and official legislative/inquiry exclusions).",
+        "https://www.wipo.int/wipolex/en/legislation/details/1583",
+    ),
+    "gh": (
+        "LicenseRef-GH-Act690-Sec2",
+        "Government-Work",
+        "Republic of Ghana Copyright Act, 2005 (Act 690) Sec. 2(b) (exclusion of enactments and official Government commission/agency reports published by the Government).",
+        "https://www.wipo.int/wipolex/en/legislation/details/1789",
+    ),
+    "id": (
+        "LicenseRef-ID-Law28-2014-Art42",
+        "Public Domain",
+        "Republic of Indonesia Law No. 28 of 2014 on Copyright Art. 42(b) (no copyright subsists in laws, Government Regulations, Presidential Regulations/Decrees, regional regulations, and decisions of state bodies).",
+        "https://www.wipo.int/wipolex/en/legislation/details/15600",
+    ),
+    "il": (
+        "LicenseRef-IL-Copyright-2007-State",
+        "Proprietary / All Rights Reserved",
+        "State of Israel Copyright Act, 2007 (5768-2007) Chapter 6 Secs. 36, 42 (State copyright in non-legislative ministerial and INCD strategy publications) and gov.il Terms of Use.",
+        "https://www.wipo.int/wipolex/en/legislation/details/2490",
+    ),
+    "in": (
+        "LicenseRef-IN-Copyright-1957-Sec17d",
+        "Proprietary / All Rights Reserved",
+        "Indian Copyright Act, 1957 (Act No. 14 of 1957) Sec. 17(d) (Government copyright in ministerial and NITI Aayog strategy publications unless explicitly released under GODL-India).",
+        "https://www.wipo.int/wipolex/en/legislation/details/13825",
+    ),
+    "jm": (
+        "LicenseRef-JM-Copyright-1993-Crown",
+        "Proprietary / All Rights Reserved",
+        "Jamaica Copyright Act, 1993 (Part XII Crown/Government copyright); ministerial strategy publications remain subject to Government copyright unless openly licensed.",
+        "https://www.wipo.int/wipolex/en/legislation/details/2587",
+    ),
+    "jo": (
+        "LicenseRef-JO-Law22-1992-Art7",
+        "Public Domain",
+        "Hashemite Kingdom of Jordan Law on the Protection of Copyright and Related Rights No. 22 of 1992 Art. 7(a) (laws, regulations, administrative decisions, and all official documents and official translations thereof are excluded from copyright protection).",
+        "https://www.wipo.int/wipolex/en/legislation/details/2581",
+    ),
+    "ke": (
+        "LicenseRef-KE-Cap130-Sec25",
+        "Government-Work",
+        "Republic of Kenya Copyright Act (Cap. 130, Act No. 12 of 2001) Sec. 2 & Sec. 25 (exclusion of written laws and Government copyright in commissioned publications).",
+        "https://www.wipo.int/wipolex/en/legislation/details/19885",
+    ),
+    "kw": (
+        "LicenseRef-KW-Law75-2019-Art4",
+        "Public Domain",
+        "State of Kuwait Law No. 75 of 2019 on Copyright and Related Rights Art. 4(1) (official documents such as laws, regulations, and administrative decisions are excluded from copyright protection).",
+        "https://www.wipo.int/wipolex/en/legislation/details/19376",
+    ),
+    "kz": (
+        "LicenseRef-KZ-Law6I-Art8-1",
+        "Public Domain",
+        "Law of the Republic of Kazakhstan No. 6-I of June 10, 1996 on Copyright and Related Rights Art. 8(1) (official documents — laws, resolutions, and other texts of a legislative, administrative, judicial or diplomatic character — and their official translations are not objects of copyright).",
+        "https://www.wipo.int/wipolex/en/legislation/details/2739",
+    ),
+    "lk": (
+        "LicenseRef-LK-Act36-2003-Sec8",
+        "Public Domain",
+        "Democratic Socialist Republic of Sri Lanka Intellectual Property Act, No. 36 of 2003 Sec. 8(a) (no copyright protection extends to any official text of a legislative, administrative or legal nature, or any official translation thereof).",
+        "https://www.wipo.int/wipolex/en/legislation/details/2795",
+    ),
+    "ma": (
+        "LicenseRef-MA-Law2-00-Art8",
+        "Public Domain",
+        "Kingdom of Morocco Law No. 2-00 on Copyright and Related Rights Art. 8(a) (protection does not extend to official texts of a legislative, administrative or judicial nature, nor to their official translations).",
+        "https://www.wipo.int/wipolex/en/legislation/details/2917",
+    ),
+    "mn": (
+        "LicenseRef-MN-Copyright-2021-Art8",
+        "Public Domain",
+        "Law of Mongolia on Copyright (2021) Art. 8.1.1 (laws, legislative acts, State Great Khural resolutions, and other official documents of a legislative, administrative, or judicial nature and their official translations are not protected by copyright).",
+        "https://www.wipo.int/wipolex/en/legislation/details/21226",
+    ),
+    "mx": (
+        "LicenseRef-MX-LFDA-Art14-VIII",
+        "Public Domain",
+        "United Mexican States Federal Copyright Law (Ley Federal del Derecho de Autor) Art. 14(VIII) (legislative, regulatory, administrative or judicial texts and their official translations are not subject to copyright protection) and Libre Uso MX (datos.gob.mx).",
+        "https://www.wipo.int/wipolex/en/legislation/details/20172",
+    ),
+    "my": (
+        "LicenseRef-MY-Act332-Sec11-GovCopyright",
+        "Proprietary / All Rights Reserved",
+        "Malaysian Copyright Act 1987 (Act 332) Sec. 11 & Sec. 26 (Government copyright in works made under Government direction) and NACSA copyright reservation.",
+        "https://www.wipo.int/wipolex/en/legislation/details/21319",
+    ),
+    "ng": (
+        "LicenseRef-NG-Copyright-2022-Sec28",
+        "Government-Work",
+        "Federal Republic of Nigeria Copyright Act, 2022 (Act No. 8 of 2023) Sec. 28 (Government copyright in works made under the direction or control of the Government or a state authority).",
+        "https://www.wipo.int/wipolex/en/legislation/details/21623",
+    ),
+    "np": (
+        "LicenseRef-NP-Copyright-2059-Sec4",
+        "Public Domain",
+        "Nepal Copyright Act, 2059 (2002) Sec. 4(a) (no copyright protection extends to any constitution, law, rule, order, judicial decision, or official administrative text).",
+        "https://www.wipo.int/wipolex/en/legislation/details/3243",
+    ),
+    "om": (
+        "LicenseRef-OM-RD65-2008-Art4",
+        "Public Domain",
+        "Sultanate of Oman Royal Decree No. 65/2008 promulgating the Law on Copyright and Related Rights Art. 4(a) (official documents of a legislative, administrative or judicial nature and their official translations are excluded from copyright protection).",
+        "https://www.wipo.int/wipolex/en/legislation/details/7789",
+    ),
+    "org": (
+        "LicenseRef-MU-Copyright-2014-Sec7",
+        "Public Domain",
+        "Republic of Mauritius Copyright Act 2014 (Act No. 2 of 2014) Sec. 7(1)(b) (no copyright protection extends to any official text of a legislative, administrative or legal nature, or any official translation thereof).",
+        "https://www.wipo.int/wipolex/en/legislation/details/15091",
+    ),
+    "pa": (
+        "LicenseRef-PA-Law64-2012-Art9",
+        "Public Domain",
+        "Republic of Panama Law No. 64 of October 10, 2012 on Copyright and Neighboring Rights Art. 9(2) (official texts of a legislative, administrative or judicial nature, and their official translations, are not protected by copyright).",
+        "https://www.wipo.int/wipolex/en/legislation/details/12457",
+    ),
+    "pe": (
+        "LicenseRef-PE-DL822-Art9",
+        "Public Domain",
+        "Republic of Peru Legislative Decree No. 822 (Law on Copyright) Art. 9(b) (official texts of a legislative, administrative or judicial nature, and their official translations, are not objects of copyright protection).",
+        "https://www.wipo.int/wipolex/en/legislation/details/3426",
+    ),
+    "pg": (
+        "LicenseRef-PG-Copyright-2000-Sec5",
+        "Public Domain",
+        "Independent State of Papua New Guinea Copyright and Neighbouring Rights Act 2000 Sec. 5(b) (protection does not extend to any official text of a legislative, administrative or legal nature, or any official translation thereof).",
+        "https://www.wipo.int/wipolex/en/legislation/details/3443",
+    ),
+    "ph": (
+        "LicenseRef-PH-RA8293-Sec176",
+        "Public Domain",
+        "Intellectual Property Code of the Philippines (Republic Act No. 8293) Sec. 176.1 (no copyright shall subsist in any work of the Government of the Philippines).",
+        "https://www.wipo.int/wipolex/en/legislation/details/16107",
+    ),
+    "pk": (
+        "LicenseRef-PK-Ordinance1962-Sec57",
+        "Government-Work",
+        "Pakistan Copyright Ordinance, 1962 (Ordinance No. XXXIV of 1962) Sec. 57(1)(q) (permitted reproduction of official acts, Gazette publications, and government reports unless prohibited by the Government).",
+        "https://www.wipo.int/wipolex/en/legislation/details/3464",
+    ),
+    "py": (
+        "LicenseRef-PY-Law1328-Art8",
+        "Public Domain",
+        "Republic of Paraguay Law No. 1328/1998 on Copyright and Related Rights Art. 8(2) (official texts of a legislative, administrative or judicial nature, and their official translations, are excluded from copyright protection).",
+        "https://www.wipo.int/wipolex/en/legislation/details/3525",
+    ),
+    "qa": (
+        "LicenseRef-QA-MCIT-QCRI-Terms",
+        "Proprietary / All Rights Reserved",
+        "State of Qatar Law No. 7 of 2002 on the Protection of Copyright and Neighboring Rights and MCIT / Qatar Computing Research Institute (HBKU) publication terms.",
+        "https://www.wipo.int/wipolex/en/legislation/details/3533",
+    ),
+    "ru": (
+        "LicenseRef-RU-CivilCode-Art1259",
+        "Public Domain",
+        "Civil Code of the Russian Federation (Part Four) Art. 1259(6)(1) (official documents of state authorities, including laws, Presidential decrees, and other materials of a legislative, administrative or judicial nature and their official translations are not objects of copyright).",
+        "https://www.wipo.int/wipolex/en/legislation/details/21560",
+    ),
+    "rw": (
+        "LicenseRef-RW-Law055-2024-Art244",
+        "Public Domain",
+        "Republic of Rwanda Law No. 055/2024 of 20/06/2024 on Protection of Intellectual Property Art. 244(2) (official texts of a legislative, administrative or judicial nature, as well as their official translations, are excluded from copyright protection).",
+        "https://www.wipo.int/wipolex/en/legislation/details/22645",
+    ),
+    "sa": (
+        "LicenseRef-SA-RD-M41-Art4",
+        "Government-Work",
+        "Kingdom of Saudi Arabia Copyright Law (Royal Decree No. M/41 of 2 Rajab 1424H) Art. 4(1) (laws, regulations, decisions of administrative commissions, and official documents and official translations thereof are excluded from protection).",
+        "https://www.wipo.int/wipolex/en/legislation/details/3595",
+    ),
+    "sn": (
+        "LicenseRef-SN-Law2008-09-Art7",
+        "Public Domain",
+        "Republic of Senegal Law No. 2008-09 of January 25, 2008 on Copyright and Neighboring Rights Art. 7(a) (official texts of a legislative, administrative or judicial nature and their official translations are excluded from copyright protection).",
+        "https://www.wipo.int/wipolex/en/legislation/details/5519",
+    ),
+    "th": (
+        "LicenseRef-TH-Copyright-BE2537-Sec7",
+        "Public Domain",
+        "Kingdom of Thailand Copyright Act B.E. 2537 (1994) Sec. 7(2)-(3) (constitutions, legislation, regulations, notifications, orders, explanations and official correspondence of Ministries, Departments, or state agencies are not deemed copyright works).",
+        "https://www.wipo.int/wipolex/en/legislation/details/3842",
+    ),
+    "to": (
+        "LicenseRef-TO-Copyright-Cap38-12-Sec5",
+        "Public Domain",
+        "Kingdom of Tonga Copyright Act (Cap. 38.12 / Act 20 of 2002) Sec. 5(b) (no copyright protection extends to any official text of a legislative, administrative or legal nature, or any official translation thereof).",
+        "https://www.wipo.int/wipolex/en/legislation/details/8097",
+    ),
+    "tt": (
+        "LicenseRef-TT-Chap82-80-Sec7",
+        "Public Domain",
+        "Republic of Trinidad and Tobago Copyright Act (Chap. 82:80, Act No. 8 of 1997) Sec. 7(1)(b) (no copyright protection extends to any official text of a legislative, administrative or legal nature, or any official translation thereof).",
+        "https://www.wipo.int/wipolex/en/legislation/details/3904",
+    ),
+    "uy": (
+        "CC-BY-4.0",
+        "Permissive",
+        "Oriental Republic of Uruguay official government publication (gub.uy Portal Unificado del Estado Uruguayo Terms of Use / Decree No. 54/017: licensed under Creative Commons Attribution 4.0 International — CC BY 4.0).",
+        "https://www.gub.uy/terminos-uso",
+    ),
+    "uz": (
+        "LicenseRef-UZ-LawZRU42-Art8",
+        "Public Domain",
+        "Law of the Republic of Uzbekistan No. ZRU-42 of July 20, 2006 on Copyright and Related Rights Art. 8(1) (official documents — laws, Presidential decrees/resolutions, and decisions, as well as their official translations — are not objects of copyright).",
+        "https://www.wipo.int/wipolex/en/legislation/details/4078",
+    ),
+    "vn": (
+        "LicenseRef-VN-IP-Law-Art15-2",
+        "Public Domain",
+        "Socialist Republic of Vietnam Law on Intellectual Property (No. 50/2005/QH11, as amended) Art. 15(2) (documents of state agencies, political organizations, and armed forces units in the domain of state management — including administrative documents and Prime Ministerial Decisions — and their official translations are not covered by copyright protection).",
+        "https://www.wipo.int/wipolex/en/legislation/details/21392",
+    ),
+    "vu": (
+        "LicenseRef-VU-Cap331-Sec5",
+        "Public Domain",
+        "Republic of Vanuatu Copyright and Related Rights Act No. 42 of 2000 (Cap. 331) Sec. 5(1)(b) (copyright protection does not extend to any official text of a legislative, administrative or legal nature, or any official translation thereof).",
+        "https://www.wipo.int/wipolex/en/legislation/details/11484",
+    ),
+    "ws": (
+        "LicenseRef-WS-Copyright-1998-Sec5",
+        "Public Domain",
+        "Independent State of Samoa Copyright Act 1998 (No. 25 of 1998) Sec. 5(b) (no copyright protection extends to any official text of a legislative, administrative or legal nature, or any official translation thereof).",
+        "https://www.wipo.int/wipolex/en/legislation/details/6993",
+    ),
+    "za": (
+        "LicenseRef-ZA-Act98-1978-Sec12-8",
+        "Public Domain",
+        "Republic of South Africa Copyright Act 98 of 1978 Sec. 12(8)(a) (no copyright shall subsist in official texts of a legislative, administrative or legal nature, or in official translations of such texts).",
+        "https://www.wipo.int/wipolex/en/legislation/details/4111",
+    ),
+    "zm": (
+        "LicenseRef-ZM-Cap406-Sec9",
+        "Government-Work",
+        "Republic of Zambia Copyright and Performance Rights Act, 1994 (Chapter 406) Sec. 9(a) & Sec. 30 (legislative exclusions and State copyright in Government works).",
+        "https://www.wipo.int/wipolex/en/legislation/details/4124",
+    ),
 }
 
 
@@ -535,6 +887,16 @@ def license_for_tld(tld: str, namespace: str, md_text: str = "", secid: str = ""
                 derivatives="permitted_with_attribution_non_commercial",
                 publicly_redistributable=False,
             )
+        if namespace == "oas.org":
+            return _make_license(
+                "CC-BY-NC-ND-3.0-IGO",
+                "Non-Commercial-No-Derivatives",
+                "Licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 3.0 IGO (CC BY-NC-ND 3.0 IGO) as stated in the GS/OAS publication copyright notice; stored in private internal repository, not publicly redistributed.",
+                "https://creativecommons.org/licenses/by-nc-nd/3.0/igo/",
+                redistribution="permitted_with_attribution_non_commercial_verbatim",
+                derivatives="prohibited",
+                publicly_redistributable=False,
+            )
         return _make_license(
             "LicenseRef-NonCommercial",
             "Non-Commercial",
@@ -548,6 +910,7 @@ def license_for_tld(tld: str, namespace: str, md_text: str = "", secid: str = ""
         kw in low_md
         for kw in (
             "all rights reserved",
+            "all right reserved",
             "copyright retained",
             "redistribution subject to",
             "subject to separate terms",
@@ -557,6 +920,7 @@ def license_for_tld(tld: str, namespace: str, md_text: str = "", secid: str = ""
             "tous droits réservés",
             "alle rechte vorbehalten",
             "todos los derechos reservados",
+            "todos os direitos reservados",
             "sin permiso previo, expreso y por escrito",
         )
     ):
@@ -582,6 +946,16 @@ def license_for_tld(tld: str, namespace: str, md_text: str = "", secid: str = ""
     # If no full text has been acquired yet (`md_text` is empty), do not assert `publicly_redistributable: true`
     # until the primary document is acquired and inspected for imprint/third-party restrictions (except US 17 U.S.C. § 105 / OGL-Canada / OGL-UK).
     if not low_md.strip() and tld not in ("gov", "ca", "uk"):
+        if namespace == "oas.org":
+            return _make_license(
+                "LicenseRef-OAS-Terms",
+                "Proprietary / All Rights Reserved",
+                "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying General Secretariat of the Organization of American States (GS/OAS) publication is governed by OAS Terms and Conditions (copyright retained by GS/OAS).",
+                "https://www.oas.org/en/terms_conditions.asp",
+                redistribution="pending_verification",
+                derivatives="pending_verification",
+                publicly_redistributable=False,
+            )
         stat = _TLD_STATUTORY_LICENSES.get(tld)
         if stat:
             spdx_id, grp, basis_note, stat_url = stat
@@ -815,6 +1189,46 @@ def license_for_tld(tld: str, namespace: str, md_text: str = "", secid: str = ""
             derivatives="prohibited",
             publicly_redistributable=False,
         )
+    if namespace == "oas.org":
+        return _make_license(
+            "CC-BY-NC-ND-3.0-IGO",
+            "Non-Commercial-No-Derivatives",
+            "Licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 3.0 IGO (CC BY-NC-ND 3.0 IGO) as stated in the GS/OAS publication copyright notice; stored in private internal repository, not publicly redistributed.",
+            "https://creativecommons.org/licenses/by-nc-nd/3.0/igo/",
+            redistribution="permitted_with_attribution_non_commercial_verbatim",
+            derivatives="prohibited",
+            publicly_redistributable=False,
+        )
+    if secid == "secid:reference/gob.cl/politica-nacional-ciberseguridad@2017-2022" or "atribución-compartirigual 4.0" in low_md:
+        return _make_license(
+            "CC-BY-SA-4.0",
+            "Share-Alike",
+            "Government of Chile official publication (gob.cl); explicitly licensed in the document imprint under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
+            "https://creativecommons.org/licenses/by-sa/4.0/",
+            redistribution="permitted_with_attribution_share_alike",
+            derivatives="permitted_with_attribution_share_alike",
+            publicly_redistributable=True,
+        )
+    if secid == "secid:reference/moitt.gov.pk/national-security-policy-of-pakistan@2022":
+        return _make_license(
+            "LicenseRef-PK-NSD-Attribution",
+            "Permissive",
+            "Government of Pakistan (National Security Division, Prime Minister's Office) explicit open publication license ('This publication may be reproduced and transmitted by any means for non-commercial or commercial Reference with due attribution to the Government of Pakistan') and Pakistan Copyright Ordinance 1962 Sec. 57(1)(q).",
+            "https://www.wipo.int/wipolex/en/legislation/details/3464",
+            redistribution="permitted_with_attribution",
+            derivatives="permitted_with_attribution",
+            publicly_redistributable=True,
+        )
+    if secid == "secid:reference/nca.gov.sa/national-cybersecurity-strategy@2020":
+        return _make_license(
+            "LicenseRef-SA-NCA-Open-TLP-White",
+            "Government-Work",
+            "Kingdom of Saudi Arabia National Cybersecurity Authority (NCA) official publication ('Sharing Notice: White | Document Classification: Open' — unrestricted public sharing) and Saudi Copyright Law (Royal Decree No. M/41) Art. 4(1).",
+            "https://www.wipo.int/wipolex/en/legislation/details/3595",
+            redistribution="permitted",
+            derivatives="permitted",
+            publicly_redistributable=True,
+        )
     stat = _TLD_STATUTORY_LICENSES.get(tld)
     if stat:
         spdx_id, grp, basis_note, stat_url = stat
@@ -822,7 +1236,7 @@ def license_for_tld(tld: str, namespace: str, md_text: str = "", secid: str = ""
             return _make_license(
                 spdx_id,
                 grp,
-                f"Official publication ({namespace}); {basis_note}",
+                f"Official publication ({namespace}); {basis_note} Full-text extraction stored in private internal repository, not publicly redistributed.",
                 stat_url,
                 redistribution="prohibited" if "Proprietary" in grp else "permitted_non_commercial",
                 derivatives="prohibited",
@@ -1182,13 +1596,14 @@ def ensure_hierarchical_headings(md: str, doc_title: str, doc_desc: str, is_anne
                     and not nxt.startswith(("#", "["))
                     and 3 <= len(nxt) <= 220
                     and (not nxt.endswith(".") or (re.match(r"^\d{1,2}(?:\.\d{1,2})+\.?$", num_tok) and len(nxt) <= 120))
-                    and re.match(r"^[A-ZÄÖÜÉÈÊÀÁÍÓÚÑ\u0410-\u042f]", nxt)
+                    and re.match(r"^:?[A-ZÄÖÜÉÈÊÀÁÍÓÚÑ\u0410-\u042f\u0590-\u05ff\u4e00-\u9fff]", nxt)
                 ):
                     clean_nxt = nxt.rstrip(".") if nxt.endswith(".") else nxt
+                    norm_num_tok = num_tok if num_tok.endswith(".") else f"{num_tok}."
                     if h_pref:
-                        lines.append(f"{h_pref} {num_tok} {clean_nxt}")
+                        lines.append(f"{h_pref} {norm_num_tok} {clean_nxt}")
                     else:
-                        lines.append(f"{num_tok} {clean_nxt}")
+                        lines.append(f"{norm_num_tok} {clean_nxt}")
                     idx = j + 1
                     continue
         lines.append(raw_lines[idx])
@@ -1214,12 +1629,13 @@ def ensure_hierarchical_headings(md: str, doc_title: str, doc_desc: str, is_anne
             "inhaltsverzeichnis",
             "sommaire",
             "table des matières",
+            "目录",
         ):
             first_entry = ""
             first_idx = -1
             for j in range(i + 1, min(i + 18, len(lines))):
                 cand_e = _norm_toc_line(lines[j])
-                if len(cand_e) >= 8 and not cand_e.startswith("[") and not cand_e.isdigit():
+                if len(cand_e) >= 4 and not cand_e.startswith("[") and not cand_e.isdigit():
                     first_entry = cand_e.split(" capítulo ")[0].strip()
                     first_idx = j
                     break
@@ -1245,7 +1661,7 @@ def ensure_hierarchical_headings(md: str, doc_title: str, doc_desc: str, is_anne
         l
         for l in h2_plus
         if re.match(
-            r"^#{2,6}\s+(?:(?:CHAPTER|PART|SECTION|PILLAR|GOAL|OBJECTIVE|PRIORITY|ANNEX|APPENDIX|제\s*\d+\s*[장절편]|第[一二三四五六七八九十百0-9０-９]+[章節編部])\b|(?:\d{1,2}(?:\.\d{1,2})*|[IVXLCDM]{1,5}|[A-H])[\.\)\s]|[一二三四五六七八九十壹貳參肆伍陸柒捌玖拾ⅠⅡⅢⅣⅤⅥⅦⅧⅨⅩ]+[、．\.])",
+            r"^#{2,6}\s+(?:(?:CHAPTER|PART|SECTION|PILLAR|GOAL|OBJECTIVE|PRIORITY|ANNEX|APPENDIX|BAHAGIAN|제\s*\d+\s*[장절편]|第[一二三四五六七八九十百0-9０-９]+[章节篇编部節編])\b|(?:\d{1,2}(?:\.\d{1,2})*|[IVXLCDM]{1,5}|[A-H])[\.\)\s-]|[一二三四五六七八九十壹貳參肆伍陸柒捌玖拾ⅠⅡⅢⅣⅤⅥⅦⅧⅨⅩ]+[、．\.]|[（\(][一二三四五六七八九十0-9]+[）\)])",
             l,
             re.IGNORECASE,
         )
@@ -1255,10 +1671,22 @@ def ensure_hierarchical_headings(md: str, doc_title: str, doc_desc: str, is_anne
         # explicit part/chapter headers (`РАЗДЕЛ I ...`, `ГЛАВА 1 ...`, `CAPÍTULO 1`), and explicit multi-dot subheadings (`1.1. Context`).
         patched_lines: list[str] = []
         for idx_l, l in enumerate(lines):
-            s = l.strip()
+            s = re.sub(r"^\*\*(.+?)\*\*$", r"\1", l.strip()).strip()
             s = re.sub(r"^(Eylem\s+\d+\.\d+)_+\s*", r"\1: ", s)
             if idx_l not in toc_skip_indices and not s.startswith("#"):
                 if re.match(r"^Eylem\s+\d+\.\d+:\s+\S", s):
+                    patched_lines.append(f"### {s.rstrip('.')}")
+                    continue
+                if re.match(r"^[一二三四五六七八九十]+[、．\.]\s*[^。；\n]{2,50}$", s):
+                    patched_lines.append(f"## {s}")
+                    continue
+                if re.match(r"^[（\(][一二三四五六七八九十0-9]+[）\)]\s*[^；\n]{2,50}。?$", s):
+                    patched_lines.append(f"### {s.rstrip('。')}")
+                    continue
+                if re.match(r"^(?:\d+\s*-\s*)?ИЛОВА$", s):
+                    patched_lines.append(f"## {s}")
+                    continue
+                if re.match(r"^(?:[IVXLCDM]+|\d+)\s*-\s*(?i:боб|бўлим|параграф|bob|bo['ʻ’]lim)\.?\s+\S.{1,160}$", s):
                     patched_lines.append(f"### {s.rstrip('.')}")
                     continue
                 if not has_part_or_chapter_structure and re.match(
@@ -1285,7 +1713,7 @@ def ensure_hierarchical_headings(md: str, doc_title: str, doc_desc: str, is_anne
                 if re.match(r"^(?:Strategic\s+)?Objective\s+\d+\.\d+\.?\s+[A-Z].{2,160}$", s):
                     patched_lines.append(f"### {s.rstrip('.')}")
                     continue
-                if re.match(r"^\d{1,2}\.\d{1,2}(?:\.\d{1,2})*\.?\s+[A-ZÄÖÜÉÈÊÀÁÍÓÚÑ\u0410-\u042f][^\n\.:]{2,140}$", s):
+                if re.match(r"^\d{1,2}\.\d{1,2}(?:\.\d{1,2})*\.?\s+:?[A-ZÄÖÜÉÈÊÀÁÍÓÚÑ\u0410-\u042f\u0590-\u05ff\u4e00-\u9fff][^\n\.]{2,140}$", s):
                     patched_lines.append(f"### {s}")
                     continue
             patched_lines.append(l)
@@ -1301,29 +1729,35 @@ def ensure_hierarchical_headings(md: str, doc_title: str, doc_desc: str, is_anne
     )
     heading_pat = re.compile(
         r"^(?:"
-        r"(?i:CHAPTER|PART|SECTION|PILLAR|GOAL|OBJECTIVE|PRIORITY|ANNEX|APPENDIX|KAPITEL|TEIL|CHAPITRE|PARTIE|CAPITOLO|CAP[ÍI]TULO|PARTE|РАЗДЕЛ|РОЗДІЛ|ГЛАВА|ЧАСТЬ|ЧАСТИНА)\s+(?:[IVXLCDM]+|\d+(?:\.\d+)*|[A-Z])\b.*"
+        r"(?i:CHAPTER|PART|SECTION|PILLAR|GOAL|OBJECTIVE|PRIORITY|ANNEX|APPENDIX|KAPITEL|TEIL|CHAPITRE|PARTIE|CAPITOLO|CAP[ÍI]TULO|PARTE|BAHAGIAN|ART[ÍI]CULO|L[ÍI]NEA\s+ESTRAT[ÉE]GICA|РАЗДЕЛ|РОЗДІЛ|ГЛАВА|ЧАСТЬ|ЧАСТИНА)\s+(?:[IVXLCDM]+|\d+(?:\.\d+)*|[A-Z])\b.*"
+        r"|(?:[IVXLCDM]+|\d+)\s*-\s*(?i:боб|бўлим|параграф|ИЛОВА|bob|bo['ʻ’]lim)\.?\s*.{0,180}"
+        r"|ИЛОВА"
         r"|Eylem\s+\d+\.\d+[_\s:].*"
-        r"|(?:[IVXLCDM]{1,5}|\d{1,2}(?:\.\d{1,2}){0,2})[\.\)]\s*[A-Za-zÄÖÜÉÈÊÀÁÍÓÚÑ\u0400-\u04ff\u3040-\u30ff\u4e00-\u9fff\uac00-\ud7af].{2,220}"
+        r"|(?:[IVXLCDM]{1,5}|\d{1,2}(?:\.\d{1,2}){0,2})[\.\)]\s*:?[A-Za-zÄÖÜÉÈÊÀÁÍÓÚÑ\u0400-\u04ff\u0590-\u05ff\u3040-\u30ff\u4e00-\u9fff\uac00-\ud7af].{2,220}"
         r"|[A-H]\.\s*[A-Z][A-Za-z0-9\s,\-–—'’\(\)/:;\.]{2,220}"
         r"|[IVX]{1,4}\s+[A-Z][A-Za-z0-9\s,\-–—'’\(\)/]{2,90}"
-        r"|第[一二三四五六七八九十百0-9０-９]+[章節編部]\s*.{1,80}"
+        r"|第[一二三四五六七八九十百0-9０-９]+[章节篇编部節編]\s*.{1,80}"
         r"|[一二三四五六七八九十]+[、．\.]\s*.{2,80}"
+        r"|[（\(][一二三四五六七八九十0-9]+[）\)]\s*.{2,80}"
         r"|[壹貳參肆伍陸柒捌玖拾]+[、．\.]\s*.{2,80}"
         r"|[ⅠⅡⅢⅣⅤⅥⅦⅧⅨⅩ]+[\.\s、．]\s*.{2,80}"
         r"|제\s*\d+\s*[장절편]\s*.{1,80}"
+        r"|前言|目录|结束语|结语|Global AI Governance Initiative"
         r"|Executive Summary|Foreword|Preface|Introduction|Conclusion|Conclusions:?|Overview|Background|Strategic Context|Vision|Implementation|Governance|Abbreviations|Definitions"
         r"|Introduction:\s+.{5,140}"
         r"|IT threat assessment|Framework conditions|Basic principles.*|Strategic objectives and measures|Sustainable implementation"
         r")$"
     )
     explicit_sec_prefix_re = re.compile(
-        r"^(?:[A-H]\.\s*[A-Z]|Eylem\s+\d+\.\d+|(?i:CHAPTER|PART|SECTION|ANNEX|APPENDIX|CAP[ÍI]TULO|РАЗДЕЛ|РОЗДІЛ|ГЛАВА)\s+(?:[IVXLCDM]+|\d+))\b"
+        r"^(?:[A-H]\.\s*[A-Z]|Eylem\s+\d+\.\d+|(?:[IVXLCDM]+|\d+)\s*-\s*(?i:боб|бўлим|параграф|ИЛОВА|bob|bo['ʻ’]lim)|(?i:CHAPTER|PART|SECTION|ANNEX|APPENDIX|CAP[ÍI]TULO|BAHAGIAN|ART[ÍI]CULO|L[ÍI]NEA\s+ESTRAT[ÉE]GICA|РАЗДЕЛ|РОЗДІЛ|ГЛАВА)\s+(?:[IVXLCDM]+|\d+))\b"
     )
     for idx_l, line in enumerate(lines):
         if idx_l in toc_skip_indices:
             promoted_lines.append(line)
             continue
-        s = line.strip()
+        s = re.sub(r"^\*\*(.+?)\*\*$", r"\1", line.strip()).strip()
+        if re.match(r"^[（\(][一二三四五六七八九十0-9]+[）\)]\s*[^。；\n]{2,50}。$", s):
+            s = s.rstrip("。")
         s = re.sub(r"^(Eylem\s+\d+\.\d+)_+\s*", r"\1: ", s)
         # Normalize missing space after Appendix/Annex/Chapter/Part/Section number (e.g. `Appendix 2Analysis...` -> `Appendix 2: Analysis...`)
         s = re.sub(
@@ -1355,7 +1789,10 @@ def ensure_hierarchical_headings(md: str, doc_title: str, doc_desc: str, is_anne
                 s_norm = s_norm.rstrip(".")
             if re.match(r"^Appendix\s+\d+\b", s_norm, re.IGNORECASE):
                 in_appendix = True
-            m_sub = re.match(r"^(?:(\d{1,2}(?:\.\d{1,2})+)\.|(?i:ГЛАВА|Глава|CAP[ÍI]TULO)\s+\d+|Eylem\s+\d+\.\d+)", s_norm)
+            m_sub = re.match(
+                r"^(?:(\d{1,2}(?:\.\d{1,2})+)\.|(?i:ГЛАВА|Глава|CAP[ÍI]TULO)\s+\d+|Eylem\s+\d+\.\d+|[（\(][一二三四五六七八九十0-9]+[）\)]|第[一二三四五六七八九十百0-9０-９]+[节節]|\d+\s*-\s*(?i:боб|параграф|bob))",
+                s_norm,
+            )
             m_single_num = re.match(r"^(\d{1,2})\.\s+(.+)$", s_norm)
             if is_annex:
                 if m_single_num and in_appendix:
@@ -1672,7 +2109,7 @@ def postprocess_markdown_structure(md: str, doc_title: str) -> str:
                     "\n" not in nxt
                     and len(nxt) <= 220
                     and (not nxt.endswith(".") or (re.match(r"^\d{1,2}(?:\.\d{1,2})+\.?$", txt) and len(nxt) <= 120))
-                    and re.match(r"^[A-ZÄÖÜÉÈÊÀÁÍÓÚÑ\u0410-\u042f]", nxt)
+                    and re.match(r"^:?[A-ZÄÖÜÉÈÊÀÁÍÓÚÑ\u0410-\u042f\u0590-\u05ff\u4e00-\u9fff]", nxt)
                 ):
                     clean_nxt = nxt.rstrip(".") if nxt.endswith(".") else nxt
                     merged.append(f"{hashes} {txt} {clean_nxt}")
@@ -1797,7 +2234,7 @@ def postprocess_markdown_structure(md: str, doc_title: str) -> str:
                     h2_hashes, h2_txt = m2.group(1), m2.group(2).strip()
                     id1, name1, kind1 = parse_heading(h1_txt)
                     id2, name2, kind2 = parse_heading(h2_txt)
-                    if not id2 and ((id1 and name1 == id1) or _BARE_CONTAINER_HEADING_RE.match(h1_txt)):
+                    if not id2 and ((id1 and (name1 == id1 or not name1)) or _BARE_CONTAINER_HEADING_RE.match(h1_txt)):
                         clean_h1 = h1_txt.rstrip(" -–—:.")
                         new_blocks.append(f"{h1_hashes} {clean_h1}: {h2_txt}")
                         i += 2
@@ -2058,7 +2495,7 @@ def is_valid_html_strategy_doc(md: str, final_url: str, item: dict) -> bool:
     if any(b in low_url for b in _BLOCKED_HTML_SUBSTRINGS):
         return False
     parsed_u = urllib.parse.urlparse(low_url)
-    if parsed_u.path.rstrip("/") in ("", "/en", "/fr", "/de", "/es", "/ru", "/uk", "/pl"):
+    if parsed_u.path.rstrip("/") in ("", "/en", "/fr", "/de", "/es", "/ru", "/uk", "/pl", "/ar", "/zh"):
         return False
     # Official EUR-Lex / Publications Office Cellar XHTML documents and official legal gazette decrees are authoritative full texts
     if any(
@@ -2069,9 +2506,13 @@ def is_valid_html_strategy_doc(md: str, final_url: str, item: dict) -> bool:
             "pravo.by/document/",
             "zakon.rada.gov.ua/laws/show/",
             "boe.es/",
+            "gov.cn/zhengce/",
+            "cac.gov.cn/",
+            "xinhuanet.com/politics/",
+            "lex.uz/docs/",
         )
     ):
-        return len(md) >= 5000
+        return len(md) >= 2500
     # Require substantial prose and multiple real headings for general HTML strategy pages
     h2_count = sum(1 for l in md.splitlines() if re.match(r"^#{2,4}\s+\S+", l))
     return len(md) >= 25000 and h2_count >= 5
@@ -2110,12 +2551,13 @@ def extract_edition(item: dict) -> dict:
     orig_url = item["url"]
 
     candidates: list[str] = []
-    if (ns, name, ver) in URL_OVERRIDES:
-        candidates.extend(URL_OVERRIDES[(ns, name, ver)])
-    candidates.extend(rewrite_candidate_urls(orig_url))
-    # Also add Wayback Machine snapshot (`id_` raw mode) as final candidate
-    if not any("web.archive.org/" in c for c in candidates):
-        candidates.append(f"https://web.archive.org/web/2id_/{orig_url}")
+    if item["secid"] not in _FORCE_METADATA_ONLY_SECIDS:
+        if (ns, name, ver) in URL_OVERRIDES:
+            candidates.extend(URL_OVERRIDES[(ns, name, ver)])
+        candidates.extend(rewrite_candidate_urls(orig_url))
+        # Also add Wayback Machine snapshot (`id_` raw mode) as final candidate
+        if not any("web.archive.org/" in c for c in candidates):
+            candidates.append(f"https://web.archive.org/web/2id_/{orig_url}")
 
     best_md = ""
     best_url = orig_url
@@ -2202,8 +2644,9 @@ def extract_edition(item: dict) -> dict:
     stem = item["stem"]
 
     # If live/Wayback fetch failed transiently, preserve an already-extracted document on disk
-    # (from either public or private repo) unless its previous textUsed URL is now in `_BLOCKED_HTML_SUBSTRINGS`.
-    if not best_md:
+    # (from either public or private repo) unless its previous textUsed URL is now in `_BLOCKED_HTML_SUBSTRINGS`
+    # or the edition is in `_FORCE_METADATA_ONLY_SECIDS`.
+    if not best_md and item["secid"] not in _FORCE_METADATA_ONLY_SECIDS:
         for cand_root in (REPO_ROOT, PRIVATE_REPO_ROOT):
             cand_dir = cand_root / item["rel_dir"]
             cand_md = cand_dir / f"{stem}.md"
@@ -2224,8 +2667,8 @@ def extract_edition(item: dict) -> dict:
                     pass
 
     lic_obj = license_for_tld(item["tld"], ns, md_text=best_md, secid=item["secid"])
-    # Metadata-only records (no body text redistributed) belong in the public catalog repository unless the source license is Proprietary/Non-Commercial (e.g. `sg`, `lu`)
-    if not best_md and item["tld"] not in ("sg", "lu") and lic_obj.get("Grouping") not in ("Proprietary / All Rights Reserved", "Non-Commercial", "Non-Commercial-No-Derivatives"):
+    # Metadata-only records (no body text redistributed) belong in the public catalog repository unless the jurisdiction was placed in private (`sg`, `lu`)
+    if not best_md and item["tld"] not in ("sg", "lu"):
         is_public = True
     else:
         is_public = bool(lic_obj.get("publicly_redistributable", True))

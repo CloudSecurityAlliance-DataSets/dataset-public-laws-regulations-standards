@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/cac.gov.cn/international-strategy-of-cooperation-on-cyberspace@2017",
+  "name": "网络空间国际合作战略 (International Strategy of Cooperation on Cyberspace, 2017)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2017",
+  "publication_id": "international-strategy-of-cooperation-on-cyberspace-2017",
+  "owner": "Cyberspace Administration of China (国家互联网信息办公室 / 中央网络安全和信息化委员会办公室)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "International Strategy of Cooperation on Cyberspace (March 1, 2017). Joint strategy issued by China's Ministry of Foreign Affairs (MFA) and Cyberspace Administration of China (CAC) on March 1, 2017 setting out China's international cyberspace governance doctrine, sovereignty principles, and multilateral norms.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Cyberspace Administration of China (国家互联网信息办公室 / 中央网络安全和信息化委员会办公室) (cac.gov.cn) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Cyberspace Administration of China (国家互联网信息办公室 / 中央网络安全和信息化委员会办公室) (cac.gov.cn).",
+  "license": {
+    "spdx": "LicenseRef-CN-Copyright-Art5-1",
+    "Grouping": "Public Domain",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.wipo.int/wipolex/en/legislation/details/20621",
+    "note": "Official publication (cac.gov.cn); Copyright Law of the People's Republic of China Art. 5(1) (laws, regulations, resolutions, decisions and orders of state organs, and other documents of a legislative, administrative or judicial nature and their official translations are excluded from copyright protection).",
+    "notes": "Official publication (cac.gov.cn); Copyright Law of the People's Republic of China Art. 5(1) (laws, regulations, resolutions, decisions and orders of state organs, and other documents of a legislative, administrative or judicial nature and their official translations are excluded from copyright protection)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.xinhuanet.com/politics/2017-03/01/c_1120552767.htm",
+    "textUsed": "https://www.xinhuanet.com/politics/2017-03/01/c_1120552767.htm",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2017-03-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official HTML publication (https://www.xinhuanet.com/politics/2017-03/01/c_1120552767.htm) to Markdown (8,583 chars). Parsed 29 sections (27 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}
