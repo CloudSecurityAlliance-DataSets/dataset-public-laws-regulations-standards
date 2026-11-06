@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted official HTML publication (https://servicios.infoleg.gob.ar/infolegInternet/anexos/385000-389999/389245/norma.htm) to Markdown (34,772 chars). Parsed 20 sections (19 with explicit section identifiers)."
+    "notes": "Extracted official HTML publication (https://servicios.infoleg.gob.ar/infolegInternet/anexos/385000-389999/389245/norma.htm) to Markdown (35,435 chars). Parsed 25 sections (20 with explicit section identifiers)."
   },
   "extraction_history": [
     {

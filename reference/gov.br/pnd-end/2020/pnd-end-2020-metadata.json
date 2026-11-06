@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 41-page PDF (https://www.gov.br/defesa/pt-br/assuntos/copy_of_estado-e-defesa/pnd_end_congresso_1.pdf) locally via PyMuPDF (124,350 chars). Parsed 87 sections (62 with explicit section identifiers)."
+    "notes": "Extracted 41-page PDF (https://www.gov.br/defesa/pt-br/assuntos/copy_of_estado-e-defesa/pnd_end_congresso_1.pdf) locally via PyMuPDF (124,350 chars). Parsed 78 sections (61 with explicit section identifiers)."
   },
   "extraction_history": [
     {

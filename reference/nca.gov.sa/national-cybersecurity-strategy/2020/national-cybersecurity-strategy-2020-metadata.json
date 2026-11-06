@@ -19,7 +19,7 @@
     "redistribution": "permitted",
     "derivatives": "permitted",
     "publicly_redistributable": true,
-    "license_text_url": "https://www.wipo.int/wipolex/en/legislation/details/3595",
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/SA",
     "note": "Kingdom of Saudi Arabia National Cybersecurity Authority (NCA) official publication ('Sharing Notice: White | Document Classification: Open' — unrestricted public sharing) and Saudi Copyright Law (Royal Decree No. M/41) Art. 4(1).",
     "notes": "Kingdom of Saudi Arabia National Cybersecurity Authority (NCA) official publication ('Sharing Notice: White | Document Classification: Open' — unrestricted public sharing) and Saudi Copyright Law (Royal Decree No. M/41) Art. 4(1)."
   },
@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 23-page PDF (https://cdn.nca.gov.sa/api/files/public/upload/b2bf9688-b7d1-4cd2-8e40-d075612a2323_national_cybersecurity_strategy-en.pdf) locally via PyMuPDF (32,060 chars). Parsed 15 sections (2 with explicit section identifiers)."
+    "notes": "Extracted 23-page PDF (https://cdn.nca.gov.sa/api/files/public/upload/b2bf9688-b7d1-4cd2-8e40-d075612a2323_national_cybersecurity_strategy-en.pdf) locally via PyMuPDF (32,083 chars). Parsed 17 sections (2 with explicit section identifiers)."
   },
   "extraction_history": [
     {

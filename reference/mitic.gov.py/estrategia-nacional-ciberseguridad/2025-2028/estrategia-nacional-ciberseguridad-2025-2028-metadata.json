@@ -16,17 +16,17 @@
   "license": {
     "spdx": "LicenseRef-PY-Law1328-Art8",
     "Grouping": "Public Domain",
-    "redistribution": "permitted",
-    "derivatives": "permitted",
-    "publicly_redistributable": true,
-    "license_text_url": "https://www.wipo.int/wipolex/en/legislation/details/3525",
-    "note": "Official publication (mitic.gov.py); Republic of Paraguay Law No. 1328/1998 on Copyright and Related Rights Art. 8(2) (official texts of a legislative, administrative or judicial nature, and their official translations, are excluded from copyright protection).",
-    "notes": "Official publication (mitic.gov.py); Republic of Paraguay Law No. 1328/1998 on Copyright and Related Rights Art. 8(2) (official texts of a legislative, administrative or judicial nature, and their official translations, are excluded from copyright protection)."
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/PY",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (mitic.gov.py) is governed by Republic of Paraguay Law No. 1328/1998 on Copyright and Related Rights Art. 8(2) (official texts of a legislative, administrative or judicial nature, and their official translations, are excluded from copyright protection).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (mitic.gov.py) is governed by Republic of Paraguay Law No. 1328/1998 on Copyright and Related Rights Art. 8(2) (official texts of a legislative, administrative or judicial nature, and their official translations, are excluded from copyright protection)."
   },
   "links": {
     "wikipedia": "",
     "source": "https://mitic.gov.py/eoj0cad9uplo/2024/11/ENC-Paraguay-2024-2028-14Nov2024-1.pdf",
-    "textUsed": "https://web.archive.org/web/20250309231904id_/https://mitic.gov.py/eoj0cad9uplo/2024/11/ENC-Paraguay-2024-2028-14Nov2024-1.pdf",
+    "textUsed": "",
     "csaLocation": ""
   },
   "lifecycle": {
@@ -37,27 +37,12 @@
     "retiredFromActiveUse": null,
     "notes": ""
   },
-  "current_extraction": {
-    "s3_timestamp": "2026-11-04T05-00-00Z",
-    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
-    "tool_version": "1.0",
-    "extraction_host": "local",
-    "flags": [],
-    "force_ocr": false,
-    "notes": "Extracted 59-page PDF (https://web.archive.org/web/20250309231904id_/https://mitic.gov.py/eoj0cad9uplo/2024/11/ENC-Paraguay-2024-2028-14Nov2024-1.pdf) locally via PyMuPDF (149,632 chars). Parsed 80 sections (79 with explicit section identifiers)."
-  },
-  "extraction_history": [
-    {
-      "s3_timestamp": "2026-11-04T05-00-00Z",
-      "status": "current",
-      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
-      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
-    }
-  ],
+  "current_extraction": null,
+  "extraction_history": [],
   "scope": {},
-  "notes": "",
+  "notes": "Official primary full-text document for secid:reference/mitic.gov.py/estrategia-nacional-ciberseguridad@2025-2028 (https://mitic.gov.py/eoj0cad9uplo/2024/11/ENC-Paraguay-2024-2028-14Nov2024-1.pdf) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
   "desired_end_state": {
-    "state": "extracted",
-    "reason": "policy-doc"
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
   }
 }

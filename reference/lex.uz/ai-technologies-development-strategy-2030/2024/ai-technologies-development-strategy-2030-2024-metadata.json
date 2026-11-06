@@ -19,7 +19,7 @@
     "redistribution": "permitted",
     "derivatives": "permitted",
     "publicly_redistributable": true,
-    "license_text_url": "https://www.wipo.int/wipolex/en/legislation/details/4078",
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/UZ",
     "note": "Official publication (lex.uz); Law of the Republic of Uzbekistan No. ZRU-42 of July 20, 2006 on Copyright and Related Rights Art. 8(1) (official documents — laws, Presidential decrees/resolutions, and decisions, as well as their official translations — are not objects of copyright).",
     "notes": "Official publication (lex.uz); Law of the Republic of Uzbekistan No. ZRU-42 of July 20, 2006 on Copyright and Related Rights Art. 8(1) (official documents — laws, Presidential decrees/resolutions, and decisions, as well as their official translations — are not objects of copyright)."
   },
@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted official HTML publication (https://lex.uz/docs/7158604) to Markdown (91,129 chars). Parsed 11 sections (9 with explicit section identifiers)."
+    "notes": "Extracted official HTML publication (https://lex.uz/docs/7158604) to Markdown (91,129 chars). Parsed 11 sections (10 with explicit section identifiers)."
   },
   "extraction_history": [
     {

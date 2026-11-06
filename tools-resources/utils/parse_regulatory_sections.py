@@ -42,12 +42,13 @@ ID_PATTERNS = [
     (re.compile(r"^((?:CHAPTER|Chapitre|Cap[ií]tulo|Capitolo|Kapitel|Hoofdstuk|Kapitola|Poglavje|Rozdzia[łl]|Глава|BAHAGIAN)\s+(?:\d+(?:\.\d+)?|\(\d+\)|[IVXLCDM]+|\([ivxlcdm]+\)|One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten))\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "chapter"),
     # Chinese & Uzbek/Kazakh chapter/section/annex markers: "第一章 ...", "第一节 ...", "1-боб. ...", "I-бўлим. ...", "1-ИЛОВА"
     (re.compile(r"^(第[一二三四五六七八九十百0-9０-９]+[章节篇编部節編条])\s*(.+)$"), "chapter"),
-    (re.compile(r"^((?:[IVXLCDM]+|\d+)-(?:боб|бўлим|тарау|ИЛОВА))\s*[:\.\-–—]?\s*(.*)$", re.IGNORECASE), "chapter"),
+    (re.compile(r"^((?:\d+-)?ИЛОВА)\s*[:\.\-–—]?\s*(.*)$", re.IGNORECASE), "annex"),
+    (re.compile(r"^((?:[IVXLCDM]+|\d+)-(?:боб|бўлим|тарау))\s*[:\.\-–—]?\s*(.*)$", re.IGNORECASE), "chapter"),
     # CJK top-level & parenthesized numbering: "一、...", "（一）..."
-    (re.compile(r"^([一二三四五六七八九十壹貳參肆伍陸柒捌玖拾]+)[、．\.]\s*(.+)$"), "numbered"),
-    (re.compile(r"^[（\(]([一二三四五六七八九十0-9]+)[）\)]\s*(.+)$"), "numbered"),
-    # Artículo / Artigo / Article / Thrust: "ARTÍCULO 1. Objeto..."
-    (re.compile(r"^((?:Art[ií]culo|Artigo|Article|Thrust\s*#?)\s*\d+(?:\.\d+)*[º°]?)\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "section_word"),
+    (re.compile(r"^([一二三四五六七八九十壹貳參肆伍陸柒捌玖拾]+)[、．\.]\s*(.+)$"), "cjk_major"),
+    (re.compile(r"^([（\(][一二三四五六七八九十0-9]+[）\)])\s*(.+)$"), "cjk_sub"),
+    # Artículo / Artigo / Article / Điều / Thrust: "ARTÍCULO 1. Objeto..."
+    (re.compile(r"^((?:Art[ií]culo|Artigo|Article|Điều|Thrust\s*#?)\s*\d+(?:\.\d+)*[º°]?)\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "section_word"),
     # Strategic Objective 1.1 / Objective 1.1 / Objective 2a / Implementation 6.1 / Línea Estratégica 1.1
     (re.compile(r"^((?:Strategic\s+)?Objective\s+\d+[a-z]?(?:\.\d+)*|Implementation\s+\d+(?:\.\d+)*|L[ií]nea\s+Estrat[eé]gica\s+\d+(?:\.\d+)*)\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "objective"),
     # Initiative 1.1.1 / Eylem 1.1: Title
@@ -66,8 +67,8 @@ ID_PATTERNS = [
     (re.compile(r"^([A-Z])\.\s+([A-Z\u00c0-\u024f\u0400-\u04ff].+)$"), "letter"),
     # Plain hierarchical numbering "1.1 Title" / "1.1. Title" / "2.3.1 Title"
     (re.compile(r"^(\d{1,2}(?:\.\d{1,2}){1,3})\.?\s*[:\-–—]?\s+(?!(?:M€|B€|€|\$|£|%|million|billion|trillion)\b)(.+)$", re.IGNORECASE), "numbered"),
-    # Single-number section heading "1. Introduction" / "1 Introduction" (excluding "4 x SSBN" force counts and "30 June 2018" dates)
-    (re.compile(r"^(\d{1,3})(?:[:\.\-–—]\s+|\s+(?![xX]\b)(?!(?:January|February|March|April|May|June|July|August|September|October|November|December|Jan|Feb|Mar|Apr|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\b)(?!.*\b\d+\s+[xX]\s+))([A-Z\u00c0-\u024f\u0400-\u04ff\u0590-\u06ff\u0e00-\u0e7f\u4e00-\u9fff].+)$"), "numbered"),
+    # Single-number section heading "1. Introduction" / "1 Introduction" (excluding "4 x SSBN" force counts, "30 June 2018" dates, and "13 QUADRILLION" magnitude callouts)
+    (re.compile(r"^(\d{1,3})(?:[:\.\-–—]\s+(?!(?i:quadrillion|trillion|billion|million|thousand|percent)\b)|\s+(?![xX]\b)(?!(?i:January|February|March|April|May|June|July|August|September|October|November|December|Jan|Feb|Mar|Apr|Jun|Jul|Aug|Sep|Oct|Nov|Dec|quadrillion|trillion|billion|million|thousand|percent)\b)(?!.*\b\d+\s+[xX]\s+))([A-Z\u00c0-\u024f\u0400-\u04ff\u0590-\u06ff\u0e00-\u0e7f\u4e00-\u9fff].+)$"), "numbered"),
 ]
 
 
@@ -101,7 +102,8 @@ def parse_heading(text: str):
                     title_part[0].isupper() or "\u0600" <= title_part[0] <= "\u9fff"
                 ):
                     continue
-                return m.group(1).rstrip("."), title_part, kind
+                sid_clean = m.group(1).rstrip(".")
+                return sid_clean, (title_part or sid_clean), kind
             sid_val = m.group(1).rstrip(".")
             if kind == "standalone_id":
                 low_sid = sid_val.lower()
@@ -203,7 +205,7 @@ def is_valid_container(parent_row: dict, child_kind: str, child_id: str) -> bool
         return pkind in ("part", "chapter", "roman")
     if child_kind in ("pillar", "part", "chapter", "roman", "letter"):
         return pkind in ("part", "chapter", "roman", "annex") or (
-            child_kind == "pillar" and pkind == "numbered" and "." not in pid
+            child_kind == "pillar" and pkind == "numbered"
         )
     if child_kind in ("objective", "section_word"):
         if re.match(r"^Implementation\s+\d+\.\d+$", child_id, re.IGNORECASE):
@@ -213,10 +215,14 @@ def is_valid_container(parent_row: dict, child_kind: str, child_id: str) -> bool
         return pkind in ("pillar", "part", "chapter", "roman", "annex", "section_word", "goal") or (
             pkind == "numbered" and "." not in pid
         )
+    if child_kind == "cjk_major":
+        return pkind in ("part", "chapter", "roman", "annex")
+    if child_kind == "cjk_sub":
+        return pkind in ("cjk_major", "part", "chapter", "roman", "annex")
     if child_kind == "numbered":
         if "." in child_id:
             return False
-        return pkind in ("roman", "part", "chapter", "pillar", "annex", "section_word", "letter")
+        return pkind in ("roman", "part", "chapter", "pillar", "annex", "section_word", "letter", "cjk_major", "cjk_sub")
     return False
 
 
@@ -260,7 +266,7 @@ def main():
         section_id, section_name, id_kind = parse_heading(m.group(2))
         for d in [k for k in list(ancestor_row_by_depth) if k >= depth]:
             del ancestor_row_by_depth[d]
-        for d in [k for k in list(ancestor_id_row_by_depth) if (k >= depth if section_id else k > depth)]:
+        for d in [k for k in list(ancestor_id_row_by_depth) if k >= depth]:
             del ancestor_id_row_by_depth[d]
         if id_kind == "annex":
             seen_ids = {

@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/gov.br/pbia@2024-2028",
+  "name": "Plano Brasileiro de Inteligência Artificial (PBIA) 2024–2028: IA para o Bem de Todos",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2024-2028",
+  "publication_id": "pbia-2024-2028",
+  "owner": "Governo Federal do Brasil",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Plano Brasileiro de Inteligência Artificial (PBIA) 2024–2028: IA para o Bem de Todos (July 30, 2024). Brazil's national artificial intelligence strategies led by the Ministry of Science, Technology and Innovation (MCTI), comprising the Estratégia Brasileira de Inteligência Artificial (EBIA, established by Portaria MCTI nº 4.617 of April 6, 2021) and the R$ 23 billion Plano Brasileiro de Inteligência Artificial (PBIA 2024–2028, 'IA para o Bem de Todos', launched July 30, 2024).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Governo Federal do Brasil (gov.br) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Governo Federal do Brasil (gov.br).",
+  "license": {
+    "spdx": "LicenseRef-BR-MCTI-CGEE-Attribution",
+    "Grouping": "Permissive",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.planalto.gov.br/ccivil_03/leis/l9610.htm",
+    "note": "Federative Republic of Brazil (MCTI / CGEE) official publication; explicit open-attribution notice on page 4 ('É permitida a reprodução parcial ou total desta obra, desde que citada a fonte') and Brazilian Copyright Law (Lei nº 9.610/1998) Art. 8º(IV).",
+    "notes": "Federative Republic of Brazil (MCTI / CGEE) official publication; explicit open-attribution notice on page 4 ('É permitida a reprodução parcial ou total desta obra, desde que citada a fonte') and Brazilian Copyright Law (Lei nº 9.610/1998) Art. 8º(IV)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.cgee.org.br/documents/37878/43769/CGEE_PBIA.pdf/6174f551-a40f-7302-b74b-48c8d840fc65?t=1756481406537",
+    "textUsed": "https://www.cgee.org.br/documents/37878/43769/CGEE_PBIA.pdf/6174f551-a40f-7302-b74b-48c8d840fc65?t=1756481406537",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2025-01-01",
+    "active": true,
+    "supersedes": "secid:reference/gov.br/pbia@2021",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "Presented to President Luiz Inácio Lula da Silva at the 5th National Conference on Science, Technology and Innovation on 2024-07-30; final consolidated MCTI/CGEE book edition published in 2025."
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 108-page PDF (https://www.cgee.org.br/documents/37878/43769/CGEE_PBIA.pdf/6174f551-a40f-7302-b74b-48c8d840fc65?t=1756481406537) locally via PyMuPDF (243,895 chars). Parsed 95 sections (25 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

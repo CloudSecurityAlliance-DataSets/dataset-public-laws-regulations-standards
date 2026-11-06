@@ -1,579 +1,514 @@
 # National Strategy on R&D and Application of Artificial Intelligence until 2030 (Decision No. 127/QĐ-TTg) (2021)
 
-Người ký: Cổng Thông tin điện tử Chính phủ
-Email: thongtinchinhphu@chinhphu.vn
-Cơ quan: Văn phòng Chính phủ
-Thời gian ký: 27.01.2021 12:04:38 +07:00
+| THỦ TƯỚNG CHÍNH PHỦ. CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+nền . Độc lập - Tự do - Hạnh phúc
+| Số: 143/QĐ-TTg Hà Nội, ngày 46 tháng 01 năm 2021
+| | QUYẾT ĐỊNH l |
+Ban hành Chiến lược quốc gia về nghiên cứu, phát triển và ứng dụng -
+ni Trí tuệ nhân tạo đên năm 2030
+Ngày: ¿2 ; „ . -_
+| mg THỦ TƯỚNG CHÍNH PHỦ
+Căn cứ Luật Tổ chức Chính phủ ngày 19 tháng ó năm 2015; Luật sửa
+đổi, bồ sung một sô điều của Luật Tô chức Chính phủ và Luật Tô chức chính
+quyền địa phương ngày 22 tháng 11 năm 2019;
+| Căn cứ Luật Công nghệ cao ngày 13 tháng Ï Ï năm 2008; - |
+l Căn cứ Nghị quyết số 50/NQ-CP ngày 17 tháng 4 năm 2020 của Chính
+phủ ban hành Chương trình hành động của Chính phủ thực hiện Nghị quyết
+số 52-NQ/TW ngày 27 tháng 9 năm 2019 của Bộ Chính trị vê một sô chủ
+trương, chính sách chủ động tham gia cuộc Cách mạng công nghiệp lần thứ tư;
+Theo đề nghị của Bộ trưởng Bộ Khoa học và Công nghệ,
+QUYẾT ĐỊNH:
+| Điều 1. Ban hành Chiến lược quốc gia về nghiên cứu, phát triển và ứng
+dụng Trí tuệ nhân tạo đến năm 2030 (sau đây viết tặt là Chiên lược) với các
+nội dung sau:
 
-## 3. Tap trung ngudn luc dé tao ra va phat trién cdc san pham TINT, dich
+## I. QUAN ĐIỂM CHÍ ĐẠO |
 
-*
-vu TINT quan trong ma Viét Nam c6 loi thé canh tranh; dau tu cé trong diém
-img dyng TTNT trong mét so linh vye lién quan téi quéc phong an ninh, quan
-ly tai nguyén, méi trudng va dich vu cho ngudi dan; phat trién manh cac
-doanh nghiép tmg dyng TINT, doanh nghigp khéi nghiép vé TTNT.
+1. Trí tuệ nhân tạo (TTNT) là một lĩnh vực công nghệ nền tảng của Cách mạng công nghiệp lân thứ tư, góp phân quan trọng tạo bước phát triên đột phá
+về năng lực sản xuật, nâng cao năng lực cạnh tranh quốc gia, thúc đây phát
+triên kinh tê tăng trưởng bên vững.
 
-## I. MUC TIEU
+2. Kế thừa và phát huy những thành tựu mới nhất của nhân loại, nghiên cứu, phát triên và ứng dụng TTNT găn với các nhiệm vụ, mục tiêu phát triển
+kinh tê - xã hội, bảo đảm quộc phòng an ninh, phát triển khoa học và công
+nghệ; phát huy tiêm năng của doanh nghiệp, khai thác hiệu quả mọi nguồn
+lực; từng bước nhận chuyên giao, làm chủ, tiên tới sáng tạo công nghệ.
 
-pay manh nghién ctu, phat trién va tmg dung TINT, dua TTNT tr
-thanh linh vic cong nghé quan trong cia Viét Nam trong cugc Cach mang
-céng nghiép 1an thir tw. Dén nam 2030, Viét Nam tré thanh trung tam déi mdi
-sang tao, phat trian cdc giai phap va tmg dung TTNT trong khu vue ASEAN
-va trén thé gidi.
--
+| 3. Tập trung nguồn lực để tạo ra và phát triển các sản phẩm TTNT, dịch . )
+vụ TTNT quan trọng mà Việt Nam có lợi thê cạnh tranh; đâu tư có trọng điểm
+ứng dụng TTNT trong một sô lĩnh vực liên quan tới quốc phòng an ninh,quản
+lý tài nguyên, môi trường và dịch vụ cho người dân; phát triên mạnh các |
+doanh nghiệp ứng dụng TTNT, doanh nghiệp khởi nghiệp về TTNT.
 
-## 1. Muc tiéu dén nam 2025
+## II. MỤC TIÊU
 
-oO
-a) Dua TINT tré thanh linh vyc cong nghé quan trong ctia Viét Nam
-- Viét Nam nam trong nhém 5 nude dan dau trong khu vuc ASEAN va
-nhom 60 nuéc dan dau trén thé gidi vé nghién ctru, phat trien va ung dung
+| Đẩy mạnh nghiên cứu, phát triển và ứng dụng TTNT, đưa TTNT trở
+thành lĩnh vực công nghệ quan trọng của Việt Nam trong cuộc Cách mạng
+công nghiệp lân thứ tư. Đên năm 2030, Việt Nam trở thành trung tâm đôi mới
+sáng tạo, phát triên các giải pháp và ứng dụng TTNT trong khu vực ASEAN
+và trên thê giới.
+
+1. Mục tiêu đến năm 2025 - a) Đưa TTNT trở thành lĩnh vực công nghệ quan trọng của Việt Nam
+| - Việt Nam nằm trong nhóm 5 nước dẫn đầu trong khu vực ASEAN và
+nhóm 60 nước dẫn đầu trên thế giới về nghiên cứu, phát triển và ứng dụng
+TINT; l |
+- Xây dựng được 05 thương hiệu TTNT có uy tín trong khu vực;
+- Phát triển được 01 trung tâm quốc gia về lưu trữ dữ liệu lớn và tính
+toán hiệu năng cao.
+b) Việt Nam trở thành trung tâm đổi mới sáng tạo, phát triển các giải
+pháp và ứng dụng TTN1T
+= Hình thành được 02 trung tâm đổi mới sáng tạo quốc gia về TTNT; gia
+tăng số lượng doanh nghiệp khởi nghiệp sáng tạo về TTNT và tông vôn đầu
+tư vào lĩnh vực TTNT ở Việt Nam; |
+„ - Nâng cấp, hình thành mới được 10 cơ sở nghiên cứu và đào tạo trọng
+điệm về TTNIH. |
+U c) Góp phần xây dựng xã hội sáng tạo, chính phủ hiệu quả, bảo vệ an
+ninh quộc gia, giữ gìn trật tự an toàn xã hội và thúc đây phát triển kinh tê tăng
+trưởng bên vững
+- TTNT được ứng dụng rộng rãi trong hành chính công, dịch vụ công
+trực tuyến giúp giảm thời gian xử lý công việc, nhân lực bộ máy, giảm thời
+gian chờ đợi và chỉ phí của người dân;
+- Nâng cao hiệu quả hoạt động của hệ thống quản lý hành chính nhà
+... nước trong phân phôi, sử dụng nguôn lực xã hội, quản lý xã hội và quản lý đô
+thị, đặc biệt tại các thành phố lớn như Hà Nội, thành phô Hô Chí Minh và
+Đà Năng.
+
+2. Mục tiêu đến năm 2030 . | a) Đưa TINT trở thành lĩnh vực công nghệ quan trọng của Việt Nam
+_..- Việt Nam năm trong nhóm 4 nước dẫn đầu trong khu vực ASEAN và
+nhóm 50 nước dẫn đầu trên thế giới về nghiên cứu, phát triên và ứng dụng
 TINT;
-- XAy dung duge 05 thong hiéu TTNT cé uy tin trong khu vuc;
-- Phat trién duoc 01 trung tém quéc gia vé luu tri dit 1igu 16n va tinh
-toan hiéu nang cao.
-b) Viét Nam tré thanh trung tam déi mdi sang tao, phat trién cdc gidi
-phap va img dung TINT
-- Hinh thanh duge 02 trung tam adi mdi sang tao quéc gia vé TINT; gia
-tang sé lugng doanh nghiép khéi nghiép sang tao vé TINT va tong von dau
-tu vao linh vue TINT 6 Viét Nam;
-_
-7 Nang cap, hinh thanh mdi duge 10 co sé nghién ctru va dao tao trong
-diém vé TINT.
-c) Gop phan x4y dung x4 hi sang tao, chinh phu higu qua, bao vé an
-ninh quoc gia, gift gin trat tu an toan x4 hdi va thac day phat trién kinh té tang
-truong bén vitng,
-- TINT duge img dung rong rai trong hanh chinh céng, dich vu céng
-truc tuyén gitp giam thdi gian xt ly céng vigée, nhan luc bé may, giam thoi
-gian chd dgi va chi phi ctia ngudi dan;
-- Nang cao higu qua hoat dong ctia hé théng quan ly hanh chinh nha
-nuéc trong phan phi, str dung ngudn lyc xa hdi, quan ly xa hdi va quan ly dé
-thi, dac biét tai cdc thanh phé lén nhu Ha N6i, thanh pho H6 Chi Minh va
-Da Nang.
+- Xây dựng được 10 thương hiệu TTNT có uy tín trong khu vực;
+_ ~ Phát triển được 03 trung tâm quốc gia về lưu trữ dữ liệu lớn và tính
+toán hiệu năng cao; kết nối được các hệ thống trung tâm dữ liệu, trung tâm
+- . tính toán hiệu năng cao trong nước tạo thành mạng lưới chia sẻ năng lực dữ
+.. liệu lớn và tính toán phục vụ TTNT;
+- Hình thành được 50 bộ dữ liệu mở, liên thông và kết nối trong các
+ngành kinh tê, lĩnh vực kinh tê - xã hội phục vụ nghiên cứu, phát triển và ứng
+dụng TTNT.
+b) Việt Nam là trung tâm đổi mới sáng tạo, phát triển các giải pháp và
+ứng dụng TTNT mạnh
+| - Hình thành được 03 trung tâm đổi mới sáng tạo quốc gia về TTNT; |
+- Xây dụng được đội ngũ nhân lực chất lượng cao làm về TTNT bao
+' . gồm đội ngũ các chuyên gia và các kỹ sư triển khai ứng dụng TTNT. Tăng
+nhanh số lượng các công trình khoa học, đơn đăng ký sáng chê vê TTNT của
+Việt Nam;
+- Có ít nhất 01 đại diện năm trong bảng xếp hạng nhóm 20 cơ sở nghiên
+cứu và đào tạo về TTNT dẫn đầu trong khu vực ASEAN.
+c) Góp phần đẩy mạnh xã hội sáng tạo, chính phủ hiệu quả, bảo vệ an
+ninh quốc gia, giữ gìn trật tự an toàn xã hội và thúc đây phát triển kinh tế tăng
+trưởng bên vững
+- Phố cập được kỹ năng cơ bản về ứng dụng TTNT cho đội ngũ lao động
+| trực tiếp, phục vụ thúc đây đôi mới sáng tạo, giảm chi phí, nâng cao năng suất
+lao động và cải thiện chất lượng cuộc sông của người dân;
+- Ứng dụng TTNT phục vụ các nhiệm vụ quốc phòng an ninh, các hoạt
+động cứu hộ, cứu nạn, phòng chông thiên tai và ứng phó sự cố, dịch bệnh;
+- Cùng với chuyển đổi số, ứng dụng TTNT góp phần thúc đẩy tăng
+trưởng một sô ngành kinh tê. | | |
 
-2..Muc tiéu dén nam 2030
-a) Dua TINT tré thanh linh vyc céng nghé quan trong cua Viét Nam
-- Viét Nam nam trong nhém 4 nudéc din dau trong khu vue ASEAN va
-nhém 50 nuéc din dau trén thé gidi vé nghién ctru, phat trién va img dung
-TINT;
-- X4y dung duge 10 thuong hiéu TTNT cé uy tin trong khu vuc;
-- Phat trian dugc 03 trung tam quéc gia vé luu trit dé ligu lon va tinh
-toan hiéu nang cao; két néi duge cdc hé théng trung tam dé liéu, trung tam
-"tinh todn higu nang cao trong nuéc tao thanh mang Idi chia sé nang luc dtr
-_
-ligu 16n va tinh toan phuc vy TINT;
-- Hinh thanh duge 50 bé dit liéu mo, lién thong va két ndi trong cdc
-nganh kinh té, linh vue kinh té - x hOi phuc vy nghién ctru, phat trién va ing
-dung TTNT.
-b) Viét Nam 1a trung tam déi méi sang tao, phat trién cdc giai phap va
-wimg dung TINT manh
-- Hinh thanh dugc 03 trung tam d6i mdi sang tao quéc gia vé TINT;
-ot Xay dung duoc déi ngii nhan lye chat Iuong cao lam vé TINT bao
-gdm d6i ngii cdc chuyén gia va cdc k¥ su trién khai tng dung TTNT. Tang
-nhanh sé luong cdc céng trinh khoa hoc, don dang ky sang ché ve TINT cua
-Viét Nam;
-- Cé it nhat 01 dai dién nim trong bang xép hang nhém 20 co sé nghién
-cru va dao tao vé TINT dan dau trong khu vuc ASEAN.
-c) Gop phan day manh x4 hdi s4ng tao, chinh phi hiéu qua, bao vé an
-ninh quée gia, gitt gin trat ty an toan x4 hi va thic day phat trién kinh té tang
-truéng bén ving
-- Phé cap duge ky nang co ban vé tmg dung TTNT cho d@i ngii lao dong
-truc tiép, phuc vu thic day di mdi sang tao, giam chi phi, nang cao nang suat
-lao déng va cai thién chat luong cudc séng ctia ngudi dan;
-- Ung dung TTNT phuc vu cdc nhiém vu quéc phong an ninh, cdc hoat
-d6ng ctru hé, ctru nan, phong chong thién tai va ing phd su cé, dich bénh;
-- Cing vi chuyén abi sé, tmg dyng TTNT gdp phan thic day ting
-truéng mét s6 nganh kinh té.
+....... HI. ĐỊNH HƯỚNG CHIẾN LƯỢC
+ni ...1. Xây dựng hệ thống văn bản quy phạm pháp luật và hành lang pháp lý
+liên quan đên TTNT : —
+- Xây dựng, hoàn thiện chính sách, pháp luật tạo hành lang pháp lý thông
+thoáng đáp ứng yêu cầu thúc đây nghiên cứu, phát triển và ứng dụng TTNT
+vào cuộc sông.
+- Phát triển và ứng dụng TTNT lấy con người và doanh nghiệp làm trung
+tâm, tránh lạm dụng công nghệ và xâm phạm quyên, lợi ích hợp pháp của tô
+chức, cá nhân.
 
-Il. DINH HUONG CHIEN LUQC
-‘
+### 2. Xây dựng hạ tầng dữ liệu và tính toán cho nghiên cứu, phát triển và
 
-## 1. XAy dung hé théng van ban quy pham php luat va hanh lang phap ly
+ứng dụng TTNT .
+- Thúc đẩy chia sẻ dữ liệu phục vụ nghiên cứu, phát triển và ứng dụng
+TIMT, hình thành các cơ sở dữ liệu dùng chung, chia sẻ, mở đề nghiên cứu,
+phát triển các ứng dụng TTNT. Xây dụng cơ chê chia sẻ dữ liệu theo nguyên
+tắc các bên cùng có lợi, tạo động lực đề chia sẻ, đồng thời bảo đảm được phân
+quyên truy cập dữ liệu, tránh để lộ, lọt thông tin dữ liệu có tính riêng tư của cá .
+nhân hay tô chức.
+- Tăng cường năng lực quốc gia về tính toán hiệu năng cao, tính toán
+đám mây, tính toán sương mù.
 
-1ién quan dén TINT
-- Xay dung, hoan thign chinh sach, phap luat tao hanh lang phap ly thong
-thoang dap tmg yéu cau thic day nghién ciru, phat trién va ing dung TTNT
-vao cudc song.
-- Phat trién va mg dung TINT lay con ngudi va doanh nghiép lam trung
-tam, tranh lam dung céng nghé va x4m pham quyén, loi ich hgp phap cua to
-chirc, ca nhan.
+### 3. Phát triển hệ sinh thái TTNT |
 
-## 2. Kay dung ha tang dir liéu va tinh toén cho nghién ctu, phat trién va
+- Phát triển nguồn nhân lực: Triển khai phố cập kỹ năng cơ bản về ứng
+dụng TTNT và khoa học dữ liệu (KHDL,) nhăm thúc đây đổi mới sáng tạo cho
+_ thanh thiêu niên. Thúc đẩy triển khai các hình thức đào tạo chứng chỉ ngăn
+hạn và trung hạn về TTNT cho sinh viên thuộc các ngành nghệ khác nhau,
+người lao động có nhu câu chuyên đôi nghê nghiệp.
+- Xây dựng tổ chức: Thu hút các nguồn lực trong và ngoài nước xây
+dựng các trung tâm đào tạo, phát triển và ứng dụng TTNT và KHDL. Nhà
+nước đâu tư xây dựng một sô trung tâm trọng điểm nghiên cứu, đào tạo nhân
+tài, nguôn nhân lực chất lượng cao về TTNT và KHDL tại một sô trường đại
+học, viện nghiên cứu hàng đâu.
+- Triển khai nghiên cứu và phát triển: Tập trung đầu tư cho nghiên cứu
+ˆ phát triên một sô nên tảng, sản phẩm TTNT cấp thiêt và quan trọng phục vụ
+thị trường trong nước, hướng đên thị trường trong khu vực và toàn câu. Ứng
+. dụng TTNT đê nâng cao hiệu quả đâu ra của các hoạt động nghiên cứu, phát
+triên trong các lĩnh vực khác.
 
-ung dung TINT
-:
-- Thuc day chia sé dt ligu phuc vu nghién ciru, phat triénva wimg dung
-TINT, hinh thanh cdc co sé dir ligu ding chung, chia sé, mé dé nghién ctru,
-phat trién cdc tng dung TINT. Xay dung co ché chia sé di ligu theo nguyén
-tac cdc bén cing cé Igi, tao dong luc dé chia sé, déng thoi bao dam duge phan
-quyén truy cap dé liéu, tranh dé 16, lot thong tin di liéu cé tinh riéng tu cua c4
-nhan hay to chitc.
-- Tang cudng nang luc quéc gia vé tinh toén higu nang cao, tinh toan
-dam may, tinh todn suong mu.
+- Thúc đẩy xây dựng các trung tâm ươm tạo và thu hút đầu tư cho phát
+triển doanh nghiệp TTNT: Triên khai các giải pháp huy động vôn đâu tư cho
+. phát triển các doanh nghiệp và thương hiệu vê TTNT ở Việt Nam.
+| 4. Thúc đấy ứng dụng TTNT | |
+- Phát triển doanh nghiệp ứng dụng TTNT: Gia tăng số lượng các doanh
+nghiệp triển khai, phát triển và ứng dụng TTNT nhăm đáp ứng nhu câu trong
+: nước đôi với các lĩnh vực đã săn sàng về dữ liệu, công nghệ và kinh phí đầu
+tư. Đẩy mạnh triển khai các nên tảng phân mềm và ứng dụng mở về TINT
+săn có.
+- Ứng dụng TTNT trong quốc phòng an ninh và các lĩnh vực kinh tế - xã
+hội: Phát triển một số sản phẩm TTNT đặc thù của Việt Nam, từng bước hình
+. . thành công nghiệp TTNT tại Việt Nam. Thúc đây các bộ, ngành, địa phương
+sử dụng các ứng dụng, dịch vụ TTNT nhăm nâng cao hiệu quả hoạt động
+trong phân phôi, sử dụng nguôn lực xã hội, nâng cao chất lượng quản lý nhà
+nước, quản lý xã hội, quản lý đô thị.
+- Nâng cao nhận thức về TTNT: Nâng cao năng lực, trình độ, nhận thức
+của đội ngũ cán bộ, công chức, doanh nghiệp, người dân về dữ liệu và ứng
+dụng TTNT.
 
-## 3. Phat trién hé sinh thai TTNT
+### 5. Thúc đây hợp tác quốc tế trong lĩnh vực TTNT
 
-- Phat trién nguén nhan le: Trién khai phé cap ky nang co ban vé ing
-dung TTNT va khoa hoc dit ligu (KHDL) nham thic day d6i mdi sang tao cho
-thanh thiéu nién. Thic day trién khai cdc hinh thite dao tao ching chi ngan
-han va trung han ve TINT cho sinh vién thugc cac nganh nghé khac nhau,
-ngudi lao dong cé nhu cau chuyén déi nghé nghiép.
-- X4y dung t6 chic: Thu hut cac ngudn lye trong va ngoai nude xay
-dung cdc trung tém dao tao, phat trién va dng dyng TTNT va KHDL. Nha
-nude dau tu xay dung m6t so trung tam trong diém nghién ctru, dao tao nhan
-tai, ngudn nhan luc chat long cao vé TINT va KHDL tai mét s6 truong dai
-hoc, vién nghién ctu hang dau.
-- Trién khai nghién ctru va phat trién: Tap trung dau tu cho nghién ctru
-.
-phat trién mt sé nén tang, san pham TINT cap thiét va quan trong phuc vu
-thi trudng trong nuéc, hudng dén thi trudong trong khu vyce va toan cau. Ung
-dung TINT dé nang cao hiéu qua dau ra cia cdc hoat déng nghién citu, phat
-trién trong cac linh vuc khac.
+- Tham gia tổ chức và thực hiện các chương trình, dự án hợp tác nghiên
+cứu khoa học song phương và đa phương về TTNT. Thúc đây phát triển cơ
+sở, trung tâm hợp tác nghiên cứu TIN1; các dự án hợp tác chuyên giao công
+nghệ, khai thác các sáng chế, quyên sở hữu công nghiệp giữa các doanh
+nghiệp Việt Nam với các doanh nghiệp nước ngoài về TTNT; các trung tâm,
+chương trình đào tạo nhân lực TTNT chât lượng cao phục vụ thị trường trong
+nước và toàn câu...
+- Trao đổi chuyên gia, người làm công tác nghiên cứu, sinh viên của tổ
+chức, doanh nghiệp Việt Nam với các tô chức nghiên cứu, đảo tạo, doanh
+nghiệp TTNT nước ngoài. Tham gia các hội, hiệp hội quôc tê và tô chức khác
+về TTNT. Mời các chuyên gia TTNT nước ngoài, người Việt Nam ở nước
+ngoài đền Việt Nam tham gia tư vân, nghiên cứu, đào tạo vê TINT.
+- Hoàn thiện thể chế, các chính sách thu hút đầu tư trực tiếp của nước
+ngoài (FDI), các tập đoàn công nghệ cao đa quốc gia xây dụng trung tâm
+nghiên cứu, phát triên và ứng dụng TTNT ở Việt Nam.
 
-- Thuc day x4y dung cdc. trung tam wom tao va thu hut dau tu cho phat
-trién doanh nghiép TINT: Trién khai cdc gidi phap huy dong von dau tu cho
-phat trién cdc doanh nghiép va thuong hiéu vé TINT 6 Viét Nam.
+## IV. NHIỆM VỤ, GIẢI PHÁP
 
-## 4. Thic day img dung TINT
+### 1. Bộ Khoa học và Công nghệ
 
-- Phat trién doanh nghiép tmg dung TINT: Gia tang sé lung cac doanh
-nghiép trién khai, phat trién vaimg dung TINT nham dap tmg nhu cau trong
-nuéc déi véi cdc linh vuc da san sang ve dtr ligu, cong nghé va kinh phi dau
-tu. Day manh trién khai cdc nén tang phan mém va tng dyng mo vé TINT
-san cd.
-:
-- Ung dung TTNT trong quéc phéng an ninh va cac linh vuc kinh té - x4
-hoi: Phat trién mét sé san pham TTNT dac tht cua Viét Nam, timg bude hinh
-.
-thanh céng nghiép TTNT tai Viét Nam. Thuc day cdc bé, nganh, dia phuong
-str dung cdc ung dung, dich vu TINT nham nang cao higu qua hoat déng
-trong phan phdi, str dung ngudn lye x4 hdi, nang cao chat luong quan ly nha
-nuéc, quan ly x4 héi, quan ly d6 thi.
-- Nang cao nhan thire vé TINT: Nang cao nang luc, trinh dé, nhan thire
-cia déi ngii can bé, céng chitc, doanh nghiép, ngudi dan ve di ligu va ing
-dung TINT.
+- Xây dụng và hoàn thiện bồ sung các văn bản pháp luật về quyền sở hữu
+trí tuệ liên quan tới TTNT.
 
-## 5. Thuc day hop tac quéc té trong linh vie TINT
+và 6 s ] ‹
+_m - Mở rộng các dự án xây dựng dữ liệu cộng đồng theo hình thức của đề
+„ án Hệ trị thức Việt số hóa; kết nối các cộng đồng TTNT, cộng đồng khoa học
+| ...mở ở Việt Nam; hỗ trợ các nhiệm vụ nghiên cứu làm chủ, xây dựng các nền
+_.. tảng nội địa cho tính toán hiệu năng cao, tính toán đám mây, tính toán sương
+„mù; thường xuyên tổ chức các hoạt động kết nối các cộng đồng học thuật,
+nghiên cứu; cộng đồng nghề nghiệp phát triển và ứng dụng TTNT và khoa
+học dữ liệu (KHDL) trong vàngoài nước. ' |
+- Triển khai mạnh mẽ hình thức hợp tác công - tư, đồng tài trợ cho các
+trung tâm đào tạo, trung tâm nghiên cứu phát triển và trung tâm ứng dụng
+TTNT; đầu tư hình thành một số nhóm nghiên cứu trọng điểm về TTNT và
+KHDL trong một số trường đại học, viện nghiên cứu công lập; đầu tư cơ sở
+vật chất cho một số phòng thí nghiệm trọng điểm về TTNT và KHDL trong
+các trường đại học, viện nghiên cứu công lập; thúc đầy xây dựng một số trung
+tâm đổi mới sáng tạo về TTNT, hình thành một số thương hiệu của Việt Nam
+về TTNT trên thế giới.
+- Tổ chức triển khai nghiên cứu cơ bản về TTNT, giải mã công nghệ,
+làm chủ công nghệ, bắt kịp các tiến bộ trong lĩnh vực TTNT và bước đầu
+đóng góp trong phát triển phương pháp TTNT mới trong một số tổ chức
+nghiên cứu về toán học và công nghệ thông tin; tập trung đầu tư nghiên cứu,
+phát triển một số sản phẩm TTNT dựa trên nguồn dữ liệu và trì thức đặc thù
+của Việt Nam; triển khai chương trình nghiên cứu trọng điểm quốc gia về
+TINT gắn với đào tạo nghiên cứu sinh; triển khai nghiên cứu, phát triển một
+số nền tảng cung cấp dịch vụ, sản phẩm TTNT quan trọng như xử lý ngôn ngữ.
+tự nhiên, thị giác máy tính, quy trình tự động, các công nghệ TTNT dựa trên
+dữ liệu, người máy và các phương tiện tự hành, trong một số lĩnh vực đã sẵn
+sàng về dữ liệu, công nghệ và có nhu cầu ứng dụng ở trong nước, hướng đến
+thị trường trong khu vực và toàn cầu.
+- Thúc đấy hình thành các nhóm chuyên môn mở trong các lĩnh vực, cho
+phép rút ngắn thời gian hoàn thành các kết quả nghiên cứu; thúc đầy sử dụng
+dùng chung, chia sẻ, mở dữ liệu, công nghệ và ứng dụng TTNT theo hướng
+đa ngành, liên ngành và xuyên ngành để đẩy nhanh tốc độ hình thành các kết
+quả và nâng cao hiệu quả đầu ra của các hoạt động nghiên cứu phát triển
+trong các lĩnh vực khác; tập huấn rộng rãi các nền tảng mở về dữ liệu và ứng
+dụng TTNT; thúc đây các cộng đồng, diễn đàn nguồn mở về TTNT; khuyến
+khích doanh nghiệp đặt hàng viện nghiên cứu, trường đại học triển khai
+nghiên cứu, phát triển sản phẩm TTNT đặc thù của Việt Nam.
+- Tổ chức các chuỗi sự kiện về TTNT; hỗ trợ các cá nhân, tổ chức trong
+nước tham gia các hội thảo, triển lãm, kỳ thi quốc tế về TTNT; tham gia tổ
+chức và thực hiện các chương trình, dự án hợp tác nghiên cứu khoa học song
+phương và đa phương về TTNT; thúc đẩy phát triển cơ sở, trung tâm hợp tác
+nghiên cứu TTNT; các dự án hợp tác chuyển giao công nghệ, khai thác các sáng chế, quyền sở hữu công nghiệp giữa các doanh nghiệp Việt Nam với các
+...... doanh nghiệp nước ngoài về TTNT; các trung tâm, chương trình đào tạo nhân
+hi .. lực TTNT chất lượng cao phục vụ thị trường trong nước. và toàn câu; trao đôi
+chuyên gia, người làm công tác nghiên cứu, sinh viên của tổ chức, doanh
+nghiệp Việt Nam với các tổ chức nghiên cứu, đào tạo, doanh nghiệp TTNT
+nước ngoài. Tham gia các hội, hiệp hội quốc tế và tổ chức khác về TTNT.
 
-- Tham gia té chirc va thu hién cdc chuong trinh, du an hgp tac nghién
-ctu khoa hoc song phuong va da phuong vé TINT. Thuc day phat trién co
-sé, trung tam hop tac nghién ctru TINT; cac du an hop tac chuyén giao cong
-nghé, khai thac cdc sdng ché, quyén sé hitu céng nghiép gitta cac doanh
-nghiép Viét Nam voi cac doanh nghiép nude ngoai vé TTNT; cac trung tam,
-chuong trinh dao tao nhan luc TTNT chat luong cao phuc vy thi truong trong
-nu6éc va toan cau.
-- Trao déi chuyén gia, ngudi lam cong tac nghién ciru, sinh vién cia t6
-chic, doanh nghiép Viét Nam voi cac to chirc nghién ctu, dao tao, doanh
-nghiép TINT nudc ngoai. Tham gia cdc hdi, hiép hdi quéc té va to chitc khac
-vé TINT. Moi cac chuyén gia TTNT nude ngoai, ngudi Vist Nam 6 nude
-ngoai dén Viét Nam tham gia tu van, nghién ciru, dao tao vé TINT.
-- Hoan thién thé ché, cdc chinh sach thu hut dau tu true tiép cua nude
-ngoai (FDI), cac tap doan cong nghé cao da quéc gia xay dung trung tam
-nghién ctru, phat trién va ing dung TTNT 6 Viét Nam.
+### 2. Bộ Thông tin và Truyền thông
 
-## IV. NHIEM VU, GIAI PHAP
+- Xây dựng và hoàn thiện bổ sung các văn bản pháp luật về giao dịch
+.điện tử, về thiết lập và chia sẻ dữ liệu, về các khung thể chế thử nghiệm
+. . (sandbox), tạo ra một không gian thử nghiệm thuận lợi với khung chính sách
+.... -pháp lý riêng để tiền hành thử nghiệm TTNT trong các lĩnh vực có tiềm năng;
++ xây dựng các tiêu chuẩn, quy chuẩn kỹ thuật định dạng về công nghệ và sản
+phẩm TTNT. l
+- Hình thành nền tảng dữ liệu và tính toán: Xây dựng quy định, danh
+mục các cơ sở dữ liệu nghiệp vụ mà các bộ, ngành, địa phương phải dùng
+chung, chia sẻ, mở; thúc đẩy văn hóa xây dựng và dùng chung, chia sẻ, mở dữ
+. hệu trong cộng đồng khoa học, doanh nghiệp, người dân; thúc đầy thực hiện
+l Chiến lược dữ liệu quốc gia; tập trung đầu tư công trong hình thành các cơ sở
+dữ liệu hành chính dùng chung, chia sẻ, mở trong quá trình triển khai Chính
+phủ điện tử, xây dựng khung chia sẻ dữ liệu tỉn cậy nhằm thúc đẩy hợp tác
+chia sẻ dữ liệu giữa các doanh nghiệp, cá nhân thuộc khu vực tư nhân; tích
+hợp dữ liệu dùng chung, chia sẻ, mở của các bộ, ngành, địa phương lên Cổng
+dữ liệu quốc gia; triển khai hợp tác công - tư, đồng tài trợ cho xây dụng các
+nền tảng và hệ thống tính toán hiệu năng cao, tính toán đám mây, tính toán
+sương mù; xây dựng cơ chế hỗ trợ, khuyến khích, thúc đẩy sử dụng các nền
+tảng nội địa, cơ chế liên kết và chia sẻ các hệ thống tính toán hiệu năng cao,
+tính toán đám mây, tính toán sương mù.
+- Khuyến khích hình thành các tổ chức triển khai đào tạo ngắn hạn cho
+đội ngũ cán bộ nghiên cứu, cán bộ kỹ thuật và quản lý đáp ứng yêu cầu
+nghiên cứu và phát triển sản phẩm TTNT trong các tập đoàn, công ty và các
+đơn vị nghiên cứu; khuyến khích và thúc đầy xây dựng một số chương trình
+đào tạo chứng chỉ ngắn hạn và trung hạn về TTNT và KHDL; triển khai các
+chương trình đào tạo ngắn hạn về tích hợp công nghệ TTNT và KHDL vào
+các thiết bị của bên thứ ba. |
+- Hình thành các doanh nghiệp cung cấp giải pháp tích hợp dựa trên công
+nghệ TTNT,KHDL kết hợp với công nghệ blockchain, điện toán đám mây và
+Internet vạn vật; xây dựng cơ chế ưu đãi, triển khai công nghệ TTNT, KHDL
+thúc đây chuyên đôi số; xây dựng và cung cấp hạ tầng kỹ thuật, cung ứng dịch
+vụ TTNT, KHUL thúc đẩy chuyên đối số, dịch vụ và ứng dụng TTNT hỗ trợ m 8 |
+—_— các doanh nghiệp trong nước tham gia sâu vào chuỗi cung ứng của thị trường
+„ „„ toàn câu, đáp ứng nhu cầu của các thị trường logistics, thương mại điện tử và.
+l kinhtêsô. .
+- Thúc đây phát triển và triển khai các ứng dụng TTNT trong lĩnh vực
+đảm bảo an toàn dữ liệu, an toàn an ninh mạng; quản lý đô thị, quản lý xã hội
+„và hành chính công; viên thông; xây dựng chính sách, chương trình khuyên
+. khích các tập đoàn, doanh nghiệp CNTT phát triển nên tảng mở về dữ liệu và
+phần mềm phục vụ xây dụng ứng dụng TTNT; khuyên khích các tập đoàn,
+doanh nghiệp công nghệ của Việt Nam tập trung nghiên cứu, làm chủ công
+nghệ, phát triển sản phâm TTNT đặc thù của Việt Nam.
+..- Triển khai các chương trình tuyên truyền, nâng cao nhận thức của. cán -
+bộ, công chức, doanh nghiệp, người dân, thanh thiêu niên và học sinh về dữ
+. liệu và ứng dụng TTNT; các giải pháp nâng cao nhận thức về TTNT đê các
+ngành, các cập, các tô chức, đoàn thê, cá nhân hiệu rõ vai trò, lợi ích của
+TTNT, các kỹ năng cơ bản cân thiết phải chuân bị để đón nhận, phát triển các
+ứng dụng TTNT, trong đó quan tâm đến giải pháp nâng cao nhận thức về quản
+lý thay đôi.
+| 3. Bộ Quốc phòng
+....- Triển khai xây dựng trung tâm cấp quốc gia về lưu trữ dữ liệu lớn và
+tính toán hiệu năng cao, tính toán đám mây, tính toán sương mù.
+- Thúc đẩy phát triển và triển khai các ứng dụng TTNT trong lĩnh vực
+quân sự, quốc phòng, trong thông mình hóa, hiện đại hóa trang thiêt bị khí tài,
+trong xây dựng các phương án tác chiên, trong các hệ thông phòng thủ quôc
+gia, hệ thống phòng, ứng phó và phản ứng nhanh đôi với chiên tranh mạng,
+l sinh học, hóa học và các hoạt động cứu hộ, cứu nạn, phòng chông thiên tai và
+ứng phó sự cô, dịch bệnh.
 
-### 1. B6 Khoa hoc va Céng nghé
+### 4. Bộ Công an
 
-- Xay dung va hoan thién bé sung cdc van ban phép luat vé quyén sé hitu
-tri tué lién quan toi TTNT.
+- Xây dụng và hoàn thiện bổ sung các văn bản pháp luật về bảo vệ quyền
+| riêng tư, quyên con người, về an ninh trật tự có liên quan đên hoạt động phát
+triển và ứng dụng TTNT và về đảm bảo an toàn an ninh mạng cho các hoạt
+động lên quan tới TTNT.
+- Triển khai xây dựng trung tâm cấp quốc gia về lưu trữ dữ liệu lớn và
+tính toán hiệu năng cao, tính toán đám mây, tính toán sương mù.
+| =~ Triển khai các ứng dụng TTNƑ trong các hệ thống an ninh quốc gia, hệ
+thống quản lý xuất nhập cảnh, hệ thông kiêm soát phòng chông tội phạm công
+nghệ cao, xây dựng các giải pháp kỹ thuật chủ động phòng chông tội phạm sử
+dụng thành tựu khoa học về TTNT.
 
-- Mé réng cdc du an xdy dung dir ligu céng déng theo hinh thttc cia dé
-4n Hé tri thite Viét sé héa; két néi cac cong déng TINT, cong déng khoa hoc
-mé & Viét Nam; hé tro cdc nhiém vy nghién ctu lam chu, xay dung cdc nén
-tang ni dia cho tinh toan higu nang cao, tinh toan dam may, tinh todn suong
-mi; thudng xuyén t6 chitc cdc hoat dong két néi cdc céng déng hoc thuat,
-nghién ctru; cong déng nghé nghiép phat trién va img dung TTNT va khoa
-hoc dit ligu (KHDL) trong va ngoai nusc.
-- Trién khai manh mé hinh thitc hop tac cng - tu, déng tai tro cho cdc
-trung tam dao tao, trung tam nghién ctu phat trién va trung tam tng dung
-TINT; dau tu hinh thanh mét s6 nhém nghién ctu trong diém vé TINT va
-KHDL trong mét sé trudng dai hoc, vién nghién ctru cong lap; dau tu co sé
-vat chat cho mét sé phong thi nghiém trong diém vé TINT va KHDL trong
-cdc truong dai hoc, vién nghién ciru cong lap; thic day xay dung mét sé trung
-tam dai moi sang tao vé TINT, hinh thanh mét sé thuong higu cia Viét Nam
-vé TINT trén thé gidi.
-- Té chite trién khai nghién ctru co ban vé TINT, gidi ma céng nghé,
-lam cht céng nghé, bat kip cac tién bé trong linh vue TINT va bude dau
-déng g6p trong phat trién phuong phaép TINT mdi trong mét sé té chitc
-nghién cru vé toan hoc va cong nghé théng tin; tap trung dau tu nghién ctru,
-phat trién mét sé san pham TINT dvya trén nguén dit liéu va tri thire dic tha
-cia Viét Nam; trién khai chuong trinh nghién ctu trong diém quéc gia vé
-TINT gan voi dao tao nghién ctu sinh; trién khai nghién ctr, phat trién mét
-sé nén tang cung cap dich vu, san pham TTNT quan trong nhu xt ly ng6n ngfr
-tu nhién, thi giac may tinh, quy trinh ty dong, cdc cong nghé TINT dya trén
-dé ligu, ngudi may va cdc phuong tién ty hanh, trong mot s6 linh vuc da san
-sang vé dir liu, cong nghé va cé nhu cau img dung 6 trong nude, huéng dén
-thi truéng trong khu vuc va toan cau.
-- Thc day hinh thanh cdc nhém chuyén mén mé trong cac linh vuc, cho
-phép rut ngan thi gian hoan thanh cac két qua nghién ctru; thie day str dung
-ding chung, chia sé, mé dit liéu, céng nghé va tmg dung TINT theo huéng
-da nganh, lién nganh va xuyén nganh dé day nhanh téc d6 hinh thanh cac két
-qua va nang cao higu qua dau ra cia cdc hoat dong nghién ctu phat trién
-trong cdc linh vuc khac; tap huan réng rai cdc nén tang mé vé dit ligu va img
-dung TTNT; thuc day cdc cong déng, dién dan nguén mo vé TINT; khuyén
-khich doanh nghiép dat hang vién nghién cttu, trudng dai hoc trién khai
-nghién ctu, phat trién san pham TTNT dic thd cia Viét Nam.
-- Té chtre cdc chudi su kién vé TINT; hé tro cdc cd nhén, t6 chic trong
-nude tham gia cc héi thao, trién lam, ky thi quéc té vé TTNT; tham gia 16
-chitc va thuc hién cac chuong trinh, du 4n hop tac nghién ctru khoa hoc song
-phuong va da phuong vé TINT; thac day phat trién co sé, trung tam hop tac
-nghién cttu TTNT; cac du an hop tac chuyén giao cong nghé, khai thdc cdc sang ché, quyén so httu céng nghiép gitta cac doanh nghiép Viét Nam vdi cdc
-doanh nghiép nuéc ngoai vé TINT; cac trung tam, chuong trinh dao taonhan
-luc TINT chat lugng cao phuc vy thi trudng trong nuéc.va toan cau; trao déi
-chuyén gia, ngudi lam céng tac nghién ciru, sinh vién cla t6 chirc, doanh
-nghiép Viét Nam vdi cdc t6 chtre nghién ctru, dao tao, doanh nghi¢p TINT
-nuée ngoai. Tham gia cdc héi, hiép hi quéc t6 va t6 chire khdc vé TINT.
+› R 9
 
-## 2. BO Thong tin va Truyén thong
+5. Bộ Giáo dục và Đào tạo... :
 
-:
-- X4y dung va hoan thién bé sung cdc van ban phap luat vé giao dich
-dién tu, vé thiét lap va chia sé dir ligu, vé cdc khung thé ché thir nghiém
-.
-(sandbox), tao ra mét khéng gian thir nghiém thuan loi voi khung chinh sach
--phap ly riéng d@ tién hanh thir nghiém TTNT trong cac linh vuc cé tiém nang;
-+
-xdy dung cdc tiéu chuan, quy chuan ky thuat dinh dang vé céng nghé va san
-pham TINT.
-- Hinh thanh nén tang dir ligu va tinh toan: Xay dung quy dinh, danh
-muc céc co so dit ligu nghigp vu ma cac bé, nganh, dia phuong phai ding
-chung, chia sé, m6; thic day van héa xay dyng va ding chung, chia sé, mé dit
-liéu trong cong déng khoa hoc, doanh nghiép, ngudi dan; thuc day thuc hién
-Chién luoc dit ligu quéc gia; tap trung dau tw céng trong hinh thanh cac co sé
-dé ligu hanh chinh ding chung, chia sé, mo trong qua trinh trién khai Chinh
-pha dién ti; x4y dumg khung chia sé dét ligu tin cay nham thtic day hgp tac
-chia sé dt liéu gitta cdc doanh nghiép, ca nhan thudc khu vuc tu nhan; tich
-hop dé ligu ding chung, chia sé, md cua cdc bé, nganh, dia phuong lén Céng
-dit ligu quéc gia; trién khai hop tac cong - tu, déng tai tro cho xay dung cdc
-nén tang va hé théng tinh todn hiéu nang cao, tinh to4n dam may, tinh toan
-suong mu; xd4y dung co ché hé tro, khuyén khich, thuc day str dung cac nén
-tang ndi dia, co ché lién két va chia sé cdc hé théng tinh todn hiéu nang cao,
-tinh toan dam my, tinh ton suong mu.
-- Khuyén khich hinh thanh cdc t8 chire trién khai dao tao ngén han cho
-déi ngi can b6 nghién ctru, cdn b6 ky thuat va quan ly dap img yéu cau
-nghién cwru va phat trién san phim TTNT trong cdc tap doan, cong ty va cac
-don vi nghién cru; khuyén khich va thac day xy dung mét sé chuong trinh
-dao tao ching chi ngan han va trung han vé TINT va KHDL; trién khai cdc
-chuong trinh dao tao ngan han vé tich hop cong nghé TINT va KHDL vao
-cdc thiét bi cia bén thir ba.
-- Hinh thanh cdc doanh nghiép cung cp giai phdp tich hgp dya trén cong
-nghé TINT, KHDL két hop voi cong nghé blockchain, dién toan dam may va
-Internet van vat; xdy dung co ché wu dai, trién khai cong nghé TINT, KHDL
-thuc day chuyén d6i sé; xAy dung va cung cap ha tang k¥ thuat, cung tng dich
-vu TINT, KHDL thic d4y chuyén déi sé, dich vu va tng dyng TINT hé tro cdc doanh nghiép trong nuéc tham gia sau vao chudi cung tmg cua thi truong
-‘
-toan cau, dap img nhu cau cua cae thi triong logistics, thuong mai dign tu va
-kinh té so.
-- Thic day phat trian va trién khai cdc img dung TINT trong linh vue
-dam bao an toan dit ligu, an toan an ninh mang; quan ly dé thi, quan ly x4 hdi
-va hanh chinh céng; vién thong; xay dung chinh s4ch, chuong trinh khuyén
-khich cdc tap doan, doanh nghiép CNTT phat trién nén tang mé ve dit ligu va
-phan mém phyc vu x4y dung img dung TTNT; khuyén khich cdc tap doan,
-doanh nghiép céng nghé cua Viét Nam tap trung nghién ctru, lam chu céng
-nghé, phat trién san pham TTNT dac th: cua Viét Nam.
-- Trién khai cdc chuong trinh tuyén truyén, nang cao nhan thirc cla can
-bé, céng chic, doanh nghiép, ngudi dan, thanh thiéu nién va hoc sinh ve dt
-ligu va tmg dyng TTNT; cdc giai phap nang cao nhan thite vé TINT dé ¢ac
-nganh, cdc cap, cdc to chire, doan thé, ca nhan hiéu ro vai trd, loi ich cua
-TINT, cdc k¥ nang co ban can thiét phai chuan bi dé d6én nhan, phattrién cac
-img dungTINT, trong d6 quan tam dén gidi phap nang cao nhan thire vé quan
-ly thay ddi.
+- Triển khai các chương trình đào tạo STEAM cho thanh thiếu niên; triển
+khai đại trà các chương trình phô cập kỹ năng xây dựng dữ liệu, ứng dụng
+TTNT cho thanh thiêu niên; thúc đây các chương trình đào tạo chính quy vê.
+TTMT, khoa học dữ liệu; thúc đây đưa các môn học về phân tích dữ liệu, về
+ứng dụng TTNT vào chương trình đào tạo của các ngành học khác nhau trong
+các trường đại học và cao đăng.
+- Khuyến khích, thúc đầy các tập đoàn công nghệ trong nước đầu tư xây
+dựng viện nghiên cứu, cơ sở đào tạo chât lượng cao về TTNT và KHDL, đâu
+... tư cho một sô trường đại học triên khai đào tạo một sô ngành đào tạo đại học,
+- sau đại học vê TTNT và KHDL.
+- Thúc đây phát triển và triển khai các ứng dụng TTNT trong lĩnh vực
+. giáo dục: dự đoán nhu cầu công việc của thị trường; xác định tiêu chí đánh giá
+sinh viên, hô trợ sinh viên xác định được thê mạnh việc làm khi tôt nghiệp; tự
+động hóa quy trình nghiệp vụ của giáo viên; xác định các tiêu chí nhăm đạt
+mục tiêu học tập; cá nhân hóa việc học tập, nâng cao hiệu quả học tập có sự
+trợ giúp của giáo viên và trợ giảng ảo; hỗ trợ nâng cao nhận thức của sinh viên.
+. 6. Bộ Kế hoạch và Đầu tư :
+- Xây dựng cơ chế đặc thù cho các trung tâm đổi mới sáng tạo để thu hút
+các quỹ đầu tư mạo hiệm vào các doanh nghiệp khởi nghiệp sáng tạo về
+TTNT ở Việt Nam..
+- Hoàn thiện thể chế, các chính sách thu hút đầu tư trực tiếp của nước ngoài
+(FD]), các tập đoàn công nghệ cao đa quốc gia xây dựng trung tâm nghiên cứu,
+phát triển và ứng dụng TTNT ở Việt Nam theo Nghị quyết sô 50-NQ/TW
+ngày 20 tháng 8 năm 2019 của Bộ Chính trị vê định hướng hoàn thiện thê chê,
+chính sách, nâng cao chất lượng, hiệu quả hợp tác đâu tư nước ngoài đên
+năm 2030.
 
-## 3. BG Quéc phong
+### 7. Bộ Tài chính: l
 
-- Trién khai x4y dyng trung tam cap quéc gia vé luu tri di ligu lén va
-tinh toan hiéu nang cao, tinh todn dam may, tinh todn suong mu.
-- Thue day phat trién va trién khai cdc tmg dung TTNT trong linh vue
-quan su, quéc phong, trong thong minh héa, hién dai héa trang thiét bi khi tai,
-trong xdy dung cdc phuong 4n tac chién, trong cac hé thong phong thi: quoc
-gia, hé théng phong, tmg pho va phan tmg nhanh doi voi chien tranh mang,
-sinh hoc, hoa hoe va cdc hoat déng ctru hd, ctru nan, phong chong thién tai va
-ing phé sy cé, dich bénh.
+Thúc đầy phát triển và ứng dụng TTNT trong lĩnh vực tài chính. Căn cứ
+theo quy định pháp luật cân đôi, bô trí kinh phí đê thực hiện Chiên lược.
 
-## 4. B6 Céng an
+### 8. Bộ Công Thương '
 
-- Xay dung va hoan thign bé sung cdc van ban phap luat vé bao vé quyén
-riéng tu, quyén con ngudi, vé an ninh trat ty cé lién quan dén hoat déng phat
-trién va mg dung TTNT va vé dam bao an toan an ninh mang cho cac hoat
-d6ng 1én quan t6i TINT.
-- Trién khai x4y dung trung tam cap quéc gia vé luu trit dit liéu 1én va
-tinh todn hiéu nang cao, tinh toan dam may, tinh toan suong mu.
-a Trién khai cdc tng dung TINT trong cac hé théng an ninh quéc gia, hé
-théng quan ly xuat nhap canh, hé thong kiém soat phong chong tdi pham céng
-nghé cao, xay dung cdc giai phap ky thuat chi dong phong chong tdi pham su
-dung thanh tyu khoa hoe vé TINT.
+- Tập hợp, chuẩn hóa, chia sẻ các bộ dữ liệu mở trong nước trong lĩnh
+vực công nghiệp là đâu vào cho các ứng dụng sẵn có, phục vụ cho nhu cầu
+ứng dụng TTNT trong các lĩnh vực này.
 
-## 5. B6 Gido duc va Dao tao
+- Thúc đẩy phát triển và triển khai các ứng dụng TTNT trong lĩnh vực.
+mm công nghiệp nhăm cải tiên thông mình hóa, tự động hóa quy trình sản xuât sản
+_«„ „phẩm, nâng cao năng suất, chất lượng của sản phâm công nghiệp.
+- Thúc đẩy phát triển và triển khai các ứng dụng TTNT trong lĩnh vực
+- thương mại điện tử: dự báo xu hướng nhu câu, tôi đa hóa và tự động hóa đàm
+phán và thương lượng với nhà cung cấp; tự động hóa nhà xưởng và điêu hành
+_„ - quản lý; tôi ưu hóa bán hàng, phân loại sản phâm; tôi ưu hóa giá, cá nhân hóa
+quảng bá và đáp ứng nhu cầu hiền thị trang web trong thời gian thực; cá nhân
+hóa các khuyến nghị, cung cấp hỗ trợ trực tuyên với các trợ lý ảo và chatbot;
+tự động thanh toán tại cửa hàng và hoàn thiện phân phôi.
+9, Bộ Nông nghiệp và Phát triển nông thôn mm
+- Tập hợp, chuẩn hóa, chia sẻ các bộ dữ liệu mở trong nước trong lĩnh
+vực nông nghiệp là đầu vào cho các ứng dụng sẵn có, phục vụ cho nhu cầu
+ứng dụng TTNT trong các lĩnh vực này
+- Thúc đẩy và phát triển các ứng dụng TTNT trong lĩnh vực sản xuất
+.. nông nghiệp ứng dụng công nghệ cao, nhăm cải tiên thông minh hóa, tự động
+hóa quy trình sản xuất, nâng cao năng suất chât lượng sản phâm nông nghiệp,
+đảm bảo quy trình sản xuất, xuất xứ minh bạch, cung cấp thực phẩm sạch cho
+người tiêu dùng.
+| | 10. Bộ Giao thông vận tải |
+Thúc đầy phát triển và triển khai các ứng dụng TTNT trong lĩnh vực giao
+thông, vận tải, logistics: tự động phát hiện định danh phương tiện giao thông,
+xác định tốc độ và tự động hóa quy trình xử lý tại các trung tâm giám sát điều
+hành giao thông đường bộ; cải tiền quy trình của trạm giám sát và thu phí
+giao thông đường bộ găn với phát hiện và nhận dạng phương tiện giao thông;
+cung cấp dữ liệu phục vụ tôi ưu hóa các hệ thông logistics; cung cấp dịch vụ
+tự động tìm đường và tư vân khách hàng trong các mô hình vận tải công nghệ;
+nghiên cứu, triển khai các giải pháp cảnh báo tình huồng nguy hiệm cho
+người điều khiên phương tiện; hô trợ thông kê, đánh giá, phân tích và lập kê
+hoạch phục vụ công tác bảo trì, bảo dưỡng kêt câu hạ tầng giao thông, xây
+dựng quy hoạch giao thông vận tải, quản lý điều hành giao thông thông minh.
 
-:
-- Trién khai cdc chuong trinh dao tao STEAM cho thanh thiéu nién; trién
-khai dai tra cdc chuong trinh phd cap ky nang x4y dung dit liu, img dung
-TINT cho thanh thiéu nién; thac d4y cdc chuong trinh dao tao chinh quy vé
-TINT, khoa hoc dit liéu; thiic day dua c4c mén hoc vé phan tich di liéu, vé
-tmg dung TINT vao chuong trinh dao tao cia céc nganh hoc khac nhau trong
-cac truong dai hoc va cao dang.
-- Khuyén khich, thuc day cdc tp don céng nghé trong nudc dau tu x4y
-dung vién nghién ciru, co sé dao tao chat luong cao vé TINT va KHDL; dau
-_
-tucho mét sé trudng dai hoc trién khai dao tao mét sé nganh dao tao dai hoc,
-. sau dai hoc vé TINT va KHDL.
-;
-- Thic day phat trién va trién khai cdc img dung TINT trong linh vuc
-gido duc: dy dodn nhu cau céng viéc cua thi truong; xac dinh tiéu chi danh gia
-sinh vién, hé tro sinh vién xdc dinh dugc thé manh viéc lam khi tét nghiép; tu
-d6ng hoa quy trinh nghiép vu cla gido vién; xac dinh cdc tiéu chi nham dat
-muc tiéu hoc tap; cd nhan hoa viéc hoc tap, nang cao hiéu qua hoc tap cé su
-tro gitip cia gido vién va tro giang ao; hé tro nang cao nhan thre cua sinh vién.
+### 11. Bộ Văn hóa, Thể thao và Du lịch
 
-## 6. B6 Ké hoach va Dau tur
+Thúc đầy phát triển và triển khai các ứng dụng TTNT trong lĩnh vực văn.
+hóa và du lịch: phát triển công nghiệp văn hóa sô; tự động hóa quy trình xây
+dụng cơ sở dữ liệu sô hóa các điềm đên và các di sản văn hóa Việt Nam, kết
+hợp với các dịch vụ tư vân du lịch thông mình hướng người dùng: dự báo xu hướng và cá nhân hóa loại hình du lịch dựa trên phân tích thông tin trên mạng
+m xã hội quan điệm người dùng, góp phân nâng cao chât lượng quy hoạch và
+.. chất lượng dịch vụ du lịch thông minh.
 
-;
-- Xay dung co ché dic thi cho cdc trung tam di mdi s4ng tao dé thu hut
-cdc quy dau tu mao hiém vao c4c doanh nghiép khéi nghiép sdng tao vé
-TINT 6 Viét Nam.
-- Hoan thién thé ché, cdc chinh s4ch thu hit dau tu truc tiép cua nude ngoai
-(EDD), cdc tap doan céng nghé cao da quéc gia x4y dung trung tam nghién cin,
-phat trién va tng dung TINT 6 Viét Nam theo Nghi quyét sé 50-NQ/TW
-ngay 20 thang 8 nam 2019 ctia B6 Chinh trj vé dinh huéng hoan thién thé ché,
-chinh sdch, nang cao chat long, hiéu qua hop tac dau tu nude ngoai dén
-nam 2030.
-7. BO Tai chinh:
-Thuc day phat trién va wmg dung TTNT trong linh vuc tai chinh. Can ctr
-theo quy dinh phdp luat can déi, bé tri kinh phi dé thuc hiéri Chién luge.
+### 12. Bộ Lao động - Thương binh và Xã hội |
 
-## 8. B6 Céng Thuong
+. . Triển khai tư vấn đào tạo về TTNT và KHDL cho người lao động có nhu
+] câu chuyên đôi nghệ nghiệp.
 
-©
-- Tap hop, chuan héa, chia sé cdc b6 dé ligu mo trong nudc trong linh
-vuc céng nghiép 1a dau vao cho cdc (mg dung sn cé, phuc vu cho nhu cau
-tmg dung TTNT trong cac linh vuc nay.
+13. Ngân hàng Nhà nước Việt Nam | in Thúc đấy phát triển và triển khai các ứng dụng TTNT trong lĩnh vực
+.. ngân hàng: phân tích, dự đoán nhu câu vay vôn, đôi tượng vay vôn, hô trợ
+hoạt động cấp tín dụng; phát hiện các hành vi gian lận; cá nhân hóa các dịch
+„ vụ ngân hàng cho khách hàng; cung câp các dịch vụ hỗ trợ tức thời cho khách
+hàng thông qua các trợ lý ảo và chatbot.
+l 14. Bộ Tài nguyên và Môi trường.
+Thúc đầy phát triển và triển khai các ứng dụng TTNT trong lĩnh vực tài
+nguyên và môi trường: dự báo sô liệu ngành tài nguyên môi trường, áp dụng
+TTNT trong quan trắc, thu nhận, đo đạc, điều tra, khảo sát vê đât đai và tài
+nguyên môi trường nhăm cung cấp và chia sẻ thông tin, dữ liệu quan trắc,
+điều tra cơ bản về đất đai và tài nguyên môi trường theo thời gian thực; đảm
+bảo xử lý hiệu quả ô nhiễm môi trường và ứng phó với biên đôi khí hậu.
+l „15 Bộ Y tế l
+- Tập hợp, chuẩn hóa, chia sẻ các bộ dữ liệu mở trong nước trong lĩnh
+vực y tế là đầu vào cho các ứng dụng sẵn có, phục vụ cho nhu câu ứng dụng
+TTNT trong các lĩnh vực này.
+| - Thúc đẩy và phát triển các ứng dụng TTNT trong lĩnh vực y tế, chăm
+sóc sức khỏe người dân: hỗ trợ bác sỹ trong phát hiện, chân đoán và ra quyêt
+định, theo dối và chăm sóc sức khỏe bệnh nhân từ xa, cá nhân hoá việc điều
+trị, nghiên cứu sản xuât và bào chê thuôc.
 
-- Thuc dy phat trién va trién khai cdc (mg dung TINT trong linh vye
-‘
-céng nghiép nham cai tién thong minh hoa, ty d6ng héa quy trinh san xuat san
-pham, nang cao nang suat, chat long cia sin phdm céng nghiép.
-- Thtic day phat trién va trién khai cdc tmg dyng TTNT trong linh vue
-thuong mai dién ti: dy bao xu huéng nhu cau, toi da héa va ty déng hoa dam
-phan va thuong lugng vdi nha cung cap; tu déng héa nha xudéng va diéu hanh
-quan ly; tdi wu héa ban hang, phan loai san pham; toi wu héa gid, ca nhan héa
-quang ba va dap img nhu cau hién thj trang web trong théi gian thy; c4 nhan
-héa cdc khuyén nghi, cung cap hé trg truc tuyén véi cdc trg ly ao va chatbot;
-tu dong thanh todn tai ctra hang va hoan thién phan phoi.
-:
+### 16. Bộ Tư pháp
 
-## 9. BO Nong nghiép va Phat trién néng thén
+Xây dựng và hoàn thiện bồ sung các văn bản pháp luật về trách nhiệm
+pháp lý của các đôi tượng liên quan tới TTNT. l
 
-—
-- Tap hop, chuan héa, chia sé cdc bé dif ligu mé trong nude trong linh
-vuc néng nghiép 1a dau vao cho cdc tmg dung san cd, phuc vu cho nhu cau
-img dung TTNT trong cac linh vue nay
-- Thc day va phat trién céc ing dung TINT trong linh vuc san xuat
-néng nghiép img dung cong nghé cao, nham cai tién thong minh hoa, ty dong
-hoa quy trinh san xuat, nang cao nang suat chat lugng san pham néng nghiép,
-dam bao quy trinh san xuat, xuat xir minh bach, cung cap thye pham sach cho
-ngudi tiéu dung.
+### 17. Viện Hàn lâm Khoa học và Côñg nghệ Việt Nam
 
-## 10. B6 Giao théng van tai
+Triển khai xây dựng trung tâm cấp quốc gia về lưu trữ dữ liệu lớn và tính
+toán hiệu năng cao, tính toán đám mây, tính toán sương mù.
 
-Thc ddy phat trién va trién khai cdc tmg dung TTNT trong linh vuc giao
-thong, van tai, logistics: ty dong phat hién dinh danh phuong tién giao thong,
-xdc dinh téc d6 va ty déng héa quy trinh xt ly tai cdc trung tam gidm sat diéu
-hanh giao théng dudng bé; cai tién quy trinh cia tram giam sat va thu phi
-giao thong duéng b6 gan véi phat hién va nhan dang phuong tién giao thong;
-cung cap dit ligu phuc vu tdi wu héa cdc hé thong logistics; cung cap dich vu
-tu dong tim duéng va tu van khdch hang trong cdc mé hinh van tai cong nghé;
-nghién cir, trién khai cdc giai phép canh bao tinh huéng nguy hiém cho
-ngudi diéu khién phuong tién; hé tro thong ké, danh gia, phan tich va lap ké
-hoach phuc vu céng tac bao tri, bao dudéng két cau ha tang giao théng, xay
-dung quy hoach giao théng van tai, quan ly diéu hanh giao thong thong minh.
+| Điều 2. Tổ chức thực hiện . .
+ni Bộ Khoa học và Công nghệ có trách nhiệm: Làm đầu mối tổng hợp
+| tình hình thực hiện Chiên lược; chủ trì tô chức thực hiện Chiên lược; định kỳ
+hằng năm báo cáo Thủ tướng Chính phủ; tô chức sơ kêt việc thực hiện Chiên
+... lược đến năm 2025 và xác định các nhiệm vụ, đề án ưu tiên cho giai đoạn tiệp
+.. theo đền năm 2030. l
+: | 2. Các bộ, ngành, cơ quan liên quan có trách nhiệm tổ chức triển khai
+thực hiện Chiến lược trong phạm vi chức năng, nhiệm vụ được giao và theo
+quy định pháp luật hiện hành.
 
-## 11. Bd Van hoa, Thé thao va Du lich
+3. Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương có trách nhiệm triển khai thực hiện Chiên lược, bảo đảm tính thông nhât, đồng bộ với
+việc thực hiện kế hoạch phát triển kinh tê - xã hội của địa phương. Đây nhanh
+ứng dụng các giải pháp TTNT trong quản lý đô thị, quản lý xã hội và hành
+chính công. m
 
-Thuc day phat trién va trién khai cdc img dung TTNT trong linh ve van
-hoa va du lich: phat trién céng nghiép van héa s6; tu dong hoa quy trinh xay
-dung co sé dir ligu sé hoa cdc diém dén va cdc di san van hoa Viét Nam, két
-hop voi cdc dich vu tu van du lich théng minh hung ngudi ding; du bao xu huéng va cé nhan héa loai hinh du lich dua trén phan tich théng tin trén mang
-x@ hoi quan diém ngudi ding, gdp phan nang cao chat lugng quy hoach va
-chat lugng dich vy du lich théng minh.
+4. Các viện nghiên cứu, trường đại học căn cứ vào nội dung và giải pháp của Chiến lược, xây dựng các nội dung triển khai, đề xuât giải pháp với các
+bộ, ngành, địa phương.
 
-## 12. B6 Lao d6ng - Thuong binh va X4 hdi
+5. Các bộ, ngành, địa phương định kỳ hàng năm gửi báo cáo Bộ Khoa học và Công nghệ tình hình triển khai Chiên lược trước ngày 15 tháng 12 đê
+tông hợp, báo cáo Thủ tướng Chính phủ.
 
-Trién khai tu van dao tao v8
-TTNT va KHDL cho ngudi lao déng cé nhu
-cau chuyén doi nghé nghiép.
+### 6. Nguồn vốn thực hiện |
 
-## 13. Ngan hang Nha nude Viét Nam
+- Nguồn vốn để thực hiện Chiến lược bao gồm nguồn vốn từ ngân sách
+nhà nước, vôn doanh nghiệp, tài trợ quốc tê và các nguôn vôn huy động hợp
+pháp khác theo quy định của pháp luật.
+| - Đối với nguồn vốn từ ngân sách nhà nước, thực hiện theo phân cấp nhà
+nước hiện hành. Các bộ, cơ quan ngang bộ, Uy ban nhân dân các tỉnh, thành
+phô trực thuộc trung ương, căn cứ mục tiêu, nhiệm vụ nêu trong Chiên lược
+đề xây dựng dự toán kinh phí cụ thê đê triển khai thực hiện theo quy định.
+- Đẩy mạnh việc huy động các nguồn lực tài chính từ các tổ chức, cá
+nhân, các doanh nghiệp trong và ngoài nước tham gia thực hiện Chiên lược
+_. theo quy định pháp luật; lông ghép các nhiệm vụ giao cho các bộ, ngành, địa.
+phương trong các chương trình mục tiêu quôc gia khác có liên quan.
 
-Thuc day phat trién va trién khai cdc tng dung TTNT trong, linh_vye
-.
-ngan hang: phan tich, dw don nhu cau vay von, déi tugng vay von, ho tro
-hoat déng cap tin dyng; phat hién cac hanh vi gian lan; ca nhan héa cac dich
-vu ngan hang cho khach hang; cung cap cac dich vu hé trg tirc thoi cho khach
-hang théng qua cac trg ly ao va chatbot.
-14. B6 Tai nguyén va Mi truong.
-Thic day phat trién va trién khai cdc (mg dung TTNT trong linh vuc tai
-nguyén va méi truéng: dy bao so ligu nganh tai nguyén mdi trudng, ap dung
-TINT trong quan trac, thu nhan, do dac, diéu tra, khaéo sat vé dat dai va tai
-nguyén mdi trudng nham cung cAp va chia sé théng tin, di ligu quan trac,
-diéu tra co ban vé dat dai va tai nguyén mdi truéng theo thdi gian thuc; dam
-bao xir ly hiéu qua 6 nhiém méi trudng va tmg pho véi bién doi khi hau.
+## Điều 3. Hiệu lực và trách nhiệm thi hành
 
-## 15. BOY té
+- Quyết định này có hiệu lực kề từ ngày ký.
 
-- Tap hop, chuan héa, chia sé cdc bd dt liéu mo trong nude trong linh
-vuc y té 1a dau vao cho cdc tmg dung san cd, phyc vu cho nhu cau tng dung
-TINT trong cdc linh vyc nay.
-- Thie day va phat trién cde tmg dung TTNT trong linh vue y té, cham
-soc site khée ngudi dan: hé tro bac s¥ trong phat hién, chan doan va ra quyét
-dinh, theo déi va cham sdc strc khoe bénh nhan tir xa, ca nhan hoa viée diéu
-tri, nghién ctru san xuat va bao ché thudc.
+mm 13
+Các Bộ trưởng, Thủ trưởng cơ quan ngang bộ, Thủ trưởng cơ quan thuộc
+Chính phủ, Chủ tịch Ủy ban nhân dân các tỉnh, thành phô trực thuộc trung
+ương chịu trách nhiệm thi hành Quyêt định này. :
+Nơi nhận: "_ ZKT*THÚ TƯỚNG
+- Ban Bí thư Trung ương Đảng; Z⁄⁄$ PE & TỶ XIƯỚNG
+- Thủ tướng, các Phó Thủ tướng Chính phủ; 4 ^ qxZ⁄” ¬ã ầNG 2N
+- Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ; #ị= áo 4 SA \#4\
+- UBND các tỉnh, thành phố trực thuộc trung ương; đu . ghi gai mi
+- Văn phòng Trung ương và các Ban của Đảng; ả xe //ZAh €9 ú) Á
+- Văn phòng Tổng Bí thư; AV2 ng m 7/2/22
+- Văn phòng Chủ tịch nước; ` —ezZ£
+- Hội đồng Dân tộc và các Ủy ban của Quốc hội; &_⁄
+-. - Văn phòng Quốc hội; vũ Đức Đam
+- - Ủy ban trung ương Mặt trận Tổ quốc Việt Nam;
+- Cơ quan trung ương của các đoàn thể;
+- VPCP: BTCN, các PCN, Trợ lý TTg, TGĐ Cổng TTĐT,
+các Vụ, Cục, Công báo;
+| - Lưu: VT, KGVX (2).44
 
-## 16. B6 Tu phap
-
-Xay dung va hoan thién bé sung cdc van ban phap luat vé trach nhiém
-phap ly cua cac déi tuong lién quan toi TTNT.
-
-## 17. Vién Han lam Khoa hoc va Céng nghé Viét Nam
-
-Trién khai x4y dung trung tam c4p quéc gia vé lun trit dit ligu 1én va tinh
-toan hiéu nang cao, tinh toan dam my, tinh toan suong mu.
-
-Dieu 2. Té chire thye hién
-‘
-
-## 1. BO Khoa hoc va Céng nghé cé trach nhiém: Lam dau méi téng hop
-
-tinh hinh thie hién Chién luge; cht tri t6 chite thuc hién Chién luge; dinh ky
-hang nam bdo cdo Thu tuéng Chinh phu; to chite so két viée thyc hign Chien
-luge dén nim 2025 va xdc dinh cdc nhiém vy, dé an uu tién cho giai doan tiép
-theo dén nam 2030.
-
-## 2. C4 b6, nganh, co quan lién quan 6 trach nhiém té chite trién khai
-
-thuc hién Chién luge trong pham vi chtrc nang, nhiém vy duge giao va theo
-quy dinh phap luat hién hanh.
-
-## 3. Uy ban nhan dan cdc tinh, thanh phé truc thudc trung uong cé trach
-
-nhiém trién khai thuc hién Chién luge, bao dam tinh thong nhat, dong bd voi
-viéc thuc hién ké hoach phat trién kinh té - x4 hdi cla dia phuong. Day nhanh
-img dung cdc giai phap TINT trong quan ly dé thi, quan ly x4 hdi va hanh
-chinh céng.
-
-## 4. Cac vign nghién ctru, trudng dai hoc can ctr vao ngi dung va giai phap
-
-ctia Chién luge, x4y dung cdc néi dung trién khai, dé xuat giai phap voi cdc
-bé, nganh, dia phuong.
-
-## 5. Cac bé, nganh, dia phuong dinh ky hang nam gui bao cdo BO Khoa
-
-hoc va Céng nghé tinh hinh trién khai Chién luge truéc ngay 15 thang 12 dé
-téng hop, bao cdo Thu tuéng Chinh phu.
-
-## 6. Nguén vén thue hién
-
-- Nguén vén dé thyc hién Chién luge bao gém nguén vén tir ngan sach
-nha nuéc, von doanh nghiép, tai tro quéc té va cdc nguén von huy dong hop
-phap khac theo quy dinh cta phap luat.
-- Déi voi nguén vén tir ngan sdch nha nudc, thyc hién theo phan cap nha
-nuéc hign hanh. Cac b9, co quan ngang bd, Uy ban nhan dan cac tinh, thanh
-pho truc thudc trung uong, can cut myc tiéu, nhiém vu néu trong Chién luge
-dé xdy dung du toan kinh phi cu thé dé trién khai thuc hién theo quy dinh.
-- Day manh viéc huy d6éng cdc ngudn Ive tai chinh tir cdc td chitc, ca
-nhan, cdc doanh nghiép trong va ngoai nude tham gia thyc hign Chién luge
-theo quy dinh phap luat; long ghép cdc nhiém vy giao cho cdc bd, nganh, dia
-phuong trong cdc chuong trinh muc tiéu quéc gia khac c6 lién quan.
-Diéu 3. Higu le va trach nhiém thi hanh
-Quyét dinh nay c6 hiéu luc ké ttr ngay ky.
-
-.
-Cac B6 truéng, Thu trudng co quan ngang bd, Thu truong co quan thudc
-Chinh phi, Chu tich Uy ban nhan dan cdc tinh, thanh pho truce thudc trung
-uong chiu trach nhiém thi hanh Quyét dinh nay.
-:
-Noi nhan:
-IEP TUONG
-- Ban Bi thu Trung vong Dang;
-/
-SHO
-54 1s UONG
-- Thu tuwéng, cdc Pho Thi tuéng Chinh phi;
-YS GPO
-- Cc b6, coquan ngang bé, co quan thuéc Chinh phi,
-q
-fy D4 SN .
-- UBND cc tinh, thanh phé truc thuéc trung uong;
-acing
-wie
-\
-- Van phong Trung wong va cdc Ban ctia Dang;
-WYERemigy () LA
-- Van phong Téng Bi thu;
-WaryZY)
-- Van phong Chi tich nude;
-a >
-:
-- H6i déng Dan téc va cdc Uy ban cia Quéc hdi;
-. - Van phong Quéc hdi;
-Dic Dam
-.
-- Uy ban trung wong Mat tran Té quéc Viét Nam;
-- Co quan trung wong ctia cdc doan thé;
-- VPCP: BTCN, cdc PCN, Tro ly TTg, TGD Céng TIDT,
-cdc Vy, Cuc, Céng bao;
-- Luu: VT, KGVX (2). 44 os
--
-“ hy “AGG
-G TRINH, DE ANTRONG DIEM CUA CHIEN LUQC QUOC GIA
-WENGE, 1/00, PHAT TRIEN VAUNG DUNG TRI TUE NHAN TAO DEN NAM 2030
-ganar} (Ci
-fo Ouyét dinh sé 124/OD-TTg ngay£6 thang 01 nam 2021 cua Thi teéng Chinh phi)
-.
-xs
-ee
-TT
-Yén chwong trinh, dé 4
-Don vi
-cha tri
-Don vi
-phéi ho}
-Thoi gian
-g
-,
-dé
-an
-on vi chu
-i
-phoi
-hop
-thyc hign
-| Dé dn phat trién nguén nhan luc chat long
-BO Gido duc
-B6 Khoa hoc va Cong nghé; | 2020 - 2030
-cao vé TINT dén nam 2030
-va Dao tao
-B6o Thong tin va Truyén thong;
-B6 Lao dong - Thuong binh va
-|
-Xahdi__
-|pa an xay dung 03 Trung tam cdp quéc gia | BO Quoc phong;
-B6 Théng tin va Truyen thong; | 2020 - 2030
-va luna tri dif liu va tinh todn higu nang cao | BO Céngan; Vién | Bd Khoa hoc va Cong ngh¢
-Han 14m Khoa hoc
-va Céng nghé
-Viét Nam
-4 | Chuong trinh Khoa hoc va céng nghé quéc | BO Khoa hocva
-Cac b6, nganh lién quan —_}_2920 - 2030
-gia lién quan dén TINT
-Cong nghé
-5 |Chong trinh hé tro phat trién doanh nghigp | B9 Théng tin va | B9Khoahoc va Cong ngh¢ | 2020 - 2030
-TINT gan voi thuc hién Chuong trinh
-Truyén thong
-Chuyén déi sé quéc gia
-6 | Pd an xy dung cdc nhom ditt ligu mé chuyén | BO Khoa hocva
-Cac b6, nganh lién quan | 2920 - 2030
-nganh phuc vu nghién ctru, phat trién TTNT
-Céng nghé
-6 Viét Nam
-a7
+DA VN
+Đế g TC) _=—Ắ——›ớ ỏ- tủ. |
+[ĐC Á@ HƯỚNG TRÌNH, ĐÈ ÁN TRỌNG ĐIỀM CỦA CHIẾN LƯỢC QUỐC GIÁ
+mm VN GRI (ĐỮU, PHÁT TRIÊN VÀ ỨNG DỤNG TRÍ TUỆ NHÂN TẠO ĐÈN NĂM 2030
+1y he vo Quyết định số 423/QĐ-TTg ngày e6 tháng 0Ï năm 2021 của Thủ tướng Chính phủ)
+TT Tên chương trình, đề á Đơn vị chủ trì Đơn vị phối hợ Thời gian
+ng trình, đề án n vị chủ trì n vị phôi hợp thực hiện
+¡ |Đềánpháttriểnnguồnnhânlựcchấtlượng ¡Bộ Giáo dục Bộ Khoa học và Công nghệ; | 2020 - 2030
+cao về TTNT đến năm 2030... và Đào tạo Bộ Thông tin và Truyền thông; —
+Bộ Lao động - Thương bình và
+Xã hội
+2 Đề án xây dụng 03 Trung tâm cấp quốc gia Bộ Quốc phòng, Bộ Thông tin và Truyên thông; 2020 - 2030
+về lưu trữ dữ liệu và tính toán hiệu năng cao. | Bộ Công an; Viện | Bộ Khoa học và Công nghệ i
+- Hàn lâm Khoa học
+và Công nghệ
+Việt Nam:
+4 |Chương trình khoa học và công nghệ quốc| Bộ Khoa học và Các bộ, ngành liên quan 2020 - 2030
+gia liên quan đền TTNT Công nghệ
+5 | Chương trình hỗ trợ phát triển doanh nghiệp Bộ Thông tìn và | Bộ Khoa học và Công nghệ | 2020 - 2030
+TTNT găn với thực hiện Chương trình| - Truyền thông R
+| Chuyên đôi sô quôc gia
+Đề án xây dựng các nhóm dữ liệu mở chuyên Bộ Khoa học và Các bộ, ngành liên quan 2020 - 2030
+ngành phục vụ nghiên cứu, phát triển TTNT Công nghệ
+ở Việt Nam |

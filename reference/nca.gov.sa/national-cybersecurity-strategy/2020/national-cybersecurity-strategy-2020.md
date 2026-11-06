@@ -32,17 +32,15 @@ Crown Prince, Deputy Prime Minister,
 
 Minister of Defense
 
-Contents
-
 Forward
 
 10
 
 Executive Summary
 
-12
-
 Introduction
+
+12
 
 16
 
@@ -60,37 +58,39 @@ Strategy Elements
 
 Key Principles
 
-25
-
 Vision
+
+25
 
 26
 
 Strategic Goals
 
-27
-
 Private Sector
+
+27
 
 30
 
 National Frameworks
 
-32
-
 Action Plan
+
+32
 
 34
 
 Key Performance Indicators
 
-36
-
 Conclusion
+
+36
 
 38
 
-Forward
+Contents
+
+## Forward
 
 The Kingdom holds a prominent global and regional position, which requires great efforts to protect and enhance it on all fronts. It serves the guests of the Two Holy Mosques, represents a major source of energy in the global markets, seeks to provide an attractive investment destination for local and foreign investments, and contributes to enhancing regional and global security. The Kingdom will – with God’s permission – proceed with leadership from the Custodian of the Two Holy Mosques King Salman Bin Abdulaziz Al Saud – may God grant him success – and His Royal Highness the Crown Prince Mohammed Bin Salman Bin Abdulaziz – may God protect him and care for him – and in accordance with the Kingdom’s Vision 2030, towards enhancing its regional and international standing, and growing its economic power. It has also strived and will continue to strive to empower safety and security as it considers them the foundation for its structure, development, and prosperity to bring about a bright future. The Kingdom’s status renders it a target for actors looking to harm its security, economy, and development. As such, cyber attacks, which are increasing globally, has made cybersecurity a priority for all countries with the aim of strengthening their cyberspace and protecting themselves from various risks, threats, and geopolitical dimensions. Nowadays, threats and cyber attacks have become more sophisticated and dangerous to countries, their systems, and their institutions through innovative and unforeseen methods that are expected to rise in the future as these actors, threat mechanisms, and threat technologies are quickly shared across the globe to help conduct attacks. The Kingdom is aware of cyber threats and realizes that cybersecurity is a key pillar and objective in enhancing its position and protecting its vital interests, national security, critical infrastructure, key sectors, and government services and activities. As such, the Kingdom has reinforced its cybersecurity efforts and activities. One of the key outcomes was approving the establishment of the National Cybersecurity Authority (NCA), its regulations, and linking it directly to the King – God Bless Him – whereas it will oversee cybersecurity matters in the Kingdom and be the national reference for cybersecurity. The NCA has been assigned important strategic objectives, of which the most prominent is developing the National Cybersecurity Strategy, overseeing its execution, and proposing amendments. As such, the NCA has based this Strategy on a clear and specific vision aiming to achieve a secure and trusted Saudi cyberspace that enables growth and prosperity, endorsing the local economy, supporting businesses and other activities, providing opportunities for cybersecurity developments in the Kingdom, offering new jobs, building specialized capabilities, and providing incentives for research and development. The Strategy aims to establish an integrated national cybersecurity organization that is aligned with the most distinguished international practices in the field; build a comprehensive approach that enables all stakeholders to improve their cybersecurity; protect their networks, systems, and electronic data; develop cybersecurity principles; and reinforce organization and individual awareness of their national responsibilities. As such, it will achieve a high level of cybersecurity maturity and professionalism as each stakeholder is responsible for their own cybersecurity standing as long as they are in alignment with the NCA and its mandate. Supporting and funding this Strategy will be in alignment with the Kingdom’s efforts in maintaining and enhancing safety and security. It will also help achieve its ambitious vision (Vision 2030) and preserve its developmental, social, and economic gains, thus improving the efforts of their national organizations in raising the level of cybersecurity. As result, the Kingdom was ranked 13th in the Global Cybersecurity Index (GCI) for 2018, which is managed by the International Telecommunication Union (ITU) of the United Nations. As we realize that challenges are still substantial nowadays and overcoming them will require great efforts from both the NCA and national stakeholders, in addition to the high cost of cybersecurity and the even higher cost of cyber incidents – God Forbid – we hope that this National Cybersecurity Strategy and its frameworks will be implemented to reduce risks, increase trust, and enable growth. May God Grant Us Success.
 
@@ -162,15 +162,15 @@ A set of key performance indicators (KPI) has been identified and constructed to
 
 To establish A resilient, secure, and trusted Saudi cyberspace that enables growth and prosperity, this Strategy will be implemented in collaboration with stakeholders across the Kingdom as well as under the relevant national authorities and with the leadership of the NCA.
 
-The strategy aims to direct national efforts into reinforcing the security of the Kingdom’s cyberspace
-
-## Introduction
+## The strategy aims to — Introduction
 
 Cybersecurity is a critical national priority; it is vital to protecting the Kingdom’s economy and securing digital services and infrastructure. It is one of the main pillars needed to enable Vision 2030, considering growth in the Kingdom regarding the provision of digital services and spreading the use of technology. The Strategy aims to:
 
-cybersecurity environment and context and is informed by international data, events, variables, and trends as well the current shift towards a digital economy, the launch of the fourth industrial revolution, and the imminent arrival of 5G information and communications technology services. The impact of the growing emerging technologies, such as Internet-of-Things (IoT), has resulted in an expanded attack surface and increased risk levels. In the past, the impact of cyber attacks was often limited to data; however, today their impact on both society and the economy is far greater.
+direct national efforts into reinforcing the security of the Kingdom’s cyberspace cybersecurity environment and context and is informed by international data, events, variables, and trends as well the current shift towards a digital economy, the launch of the fourth industrial revolution, and the imminent arrival of 5G information and communications technology services. The impact of the growing emerging technologies, such as Internet-of-Things (IoT), has resulted in an expanded attack surface and increased risk levels. In the past, the impact of cyber attacks was often limited to data; however, today their impact on both society and the economy is far greater.
 
 • Direct national efforts into reinforcing the security of the Kingdom’s cyberspace by following secure practices needed to address new technology. • Protect national entities and critical national infrastructure information, data, and systems. • Build a capable cyber workforce. • Support and enable national organizations. • Facilitate private sector investment • Create an environment that fosters cybersecurity innovation. The Strategy considers the current
+
+## Introduction
 
 Digital economy fourth industrial revolution
 
@@ -180,7 +180,11 @@ Increase cybersecurity risk level
 
 Internet of Tings
 
-Technical systems and infrastructure across countries are exposed to cyber risks. As such, the cost of cyber attacks will continue to grow at both the national and global level. This incentivizes countries to invest more resources to manage these risks. At the same time countries should capitalize upon opportunities to develop their digital infrastructure and foster economic prosperity. Thus, it is vital to implement and activate this Strategy to manage the Kingdom’s cyberspace in an integrated fashion. The Strategy’s vision, key principles, and national strategic goals will direct all cybersecurity activities in the Kingdom. It is expected that national organizations and the private sector will align their cybersecurity priorities with those of the Strategy. The NCA will facilitate interpretation of this Strategy, roles and responsibilities, and relevant frameworks where policies, governance mechanisms, standards, controls, guidelines, and indexes are drawn and implemented. This Strategy was built using a methodology, aligned to the Kingdom’s Vision 2030, inclusive of its themes, goals, programs, and frameworks. The alignment between the Kingdom›s Vision 2030 and the Strategy is as follows:
+The elements of the Strategy have been identified and include the basic principles of development and the Strategy’s vision and national strategic goals. The Strategy highlights the related national cybersecurity frameworks needed to operationalize the Strategy. It also provides an overview of roles and responsibilities for national organizations, including the action plan
+
+Technical systems and infrastructure across countries are exposed to cyber risks. As such, the cost of cyber attacks will continue to grow at both the national and global level. This incentivizes countries to invest more resources to manage these risks. At the same time countries should capitalize upon opportunities to develop their digital infrastructure and foster economic prosperity. Thus, it is vital to implement and activate this Strategy to manage the Kingdom’s cyberspace in an integrated fashion. The Strategy’s vision, key principles, and national strategic goals will direct all cybersecurity consisting of its implementation tracks, initiatives, projects, and KPIs. NCA will lead national efforts through this Strategy and work on improving the engagement, participation, and integration of national entities to achieve a secure and trusted Saudi cyberspace that enables growth and prosperity .
+
+activities in the Kingdom. It is expected that national organizations and the private sector will align their cybersecurity priorities with those of the Strategy. The NCA will facilitate interpretation of this Strategy, roles and responsibilities, and relevant frameworks where policies, governance mechanisms, standards, controls, guidelines, and indexes are drawn and implemented. This Strategy was built using a methodology, aligned to the Kingdom’s Vision 2030, inclusive of its themes, goals, programs, and frameworks. The alignment between the Kingdom›s Vision 2030 and the Strategy is as follows:
 
 Vision 2030 and Natioal Cybersecurity Strategy
 
@@ -188,25 +192,11 @@ Government An Ambitious Nation
 
 Business A Triving Economy
 
-Socity A Vibrant Society
-
 • Diversiﬁed digital economy. • Connected and “smart“ production. • Diversiﬁed industry.
 
 • Increased interconnectedness of government. • E-services deliveredd digitally. • Agility and efﬁciency through technology.
 
-• Digital enablement • E-services deliveredd digitally. • Agility and efﬁciency through technology.
-
-National Cybersecurity Strategy Effects
-
-Promotes Growth Reduces Risk
-
-• Identify critical assets and processes • Provide actionable intelligence to prevent and detect attacks • Enable critical entities to respond and recover from attacks • Implement protective controls
-
-• Build world-class cybersecurity workforce • Drive public/private collaboration • Invest in native industry and local R&D
-
-Figure (1): Vision 2030 and the National Cybersecurity Strategy
-
-The elements of the Strategy have been identified and include the basic principles of development and the Strategy’s vision and national strategic goals. The Strategy highlights the related national cybersecurity frameworks needed to operationalize the Strategy. It also provides an overview of roles and responsibilities for national organizations, including the action plan consisting of its implementation tracks, initiatives, projects, and KPIs. NCA will lead national efforts through this Strategy and work on improving the engagement, participation, and integration of national entities to achieve a secure and trusted Saudi cyberspace that enables growth and prosperity .
+Socity A Vibrant Society
 
 Foster Trust
 
@@ -216,15 +206,25 @@ Strategic Outcomes Contribute to Growth Improves the Kingdom’s risk
 
 Reduce Risk proﬁle by reducing the number
 
-Accelerates growth through the and cost of cyber breaches in the interaction of ﬁscal investment in Kingdom, leading to substantial cybersecurity and associated multiplier economic beneﬁts.
+Accelerates growth through the
 
-effects across the Kingdom’s economy
+• Digital enablement • E-services deliveredd digitally. • Agility and efﬁciency through technology.
+
+National Cybersecurity Strategy Effects
+
+Promotes Growth Reduces Risk
+
+• Identify critical assets and processes • Provide actionable intelligence to prevent and detect attacks • Enable critical entities to respond and recover from attacks • Implement protective controls economic beneﬁts.
+
+and cost of cyber breaches in the interaction of ﬁscal investment in Kingdom, leading to substantial cybersecurity and associated multiplier effects across the Kingdom’s economy
 
 Loss avoidance due to cybersecurity incidents.
 
 Figure (2): Strategic Outcomes
 
-National Cybersecurity Strategy Methodology
+• Build world-class cybersecurity workforce • Drive public/private collaboration • Invest in native industry and local R&D
+
+Figure (1): Vision 2030 and the National Cybersecurity Strategy
 
 National Cybersecurity Strategy Methodology
 
@@ -232,25 +232,21 @@ The Strategy was established using a comprehensive approach consisting of six st
 
 6 5 4 3 2 1
 
+...require a comprehensive
+
+Expanding digital opportunity and National Cybersecurity cyber threats...
+
+Strategy...
+
 …translated into action by tangible
 
 ...informed by ...brought to life
 
-...and measured through a robust
+...and measured through a robust internal and global analyses with a national initiatives executed along
 
-...require a comprehensive
+Strategy, operating model, yet simple set of to ensure the optimal Strategy
 
-Expanding internal and global analyses with a national digital opportunity and initiatives executed along
-
-Strategy, operating model, yet simple set of National Cybersecurity to ensure the optimal Strategy
-
-KPIs cyber threats...
-
-an implementation and capability
-
-Strategy...
-
-for the Kingdom...
+KPIs an implementation and capability for the Kingdom...
 
 plans...
 
@@ -260,17 +256,19 @@ Review
 
 Inputs Strategy Framework Strategic
 
+Context
+
 Plans Strategy
 
 Strategy Implementation Strategy
 
 Strategy
 
-Context
-
 Metrics
 
 Figure (3): National Cybersecurity Strategy Development
+
+National Cybersecurity Strategy Methodology
 
 ### 2.1 Strategy Reference Model
 
@@ -358,31 +356,33 @@ Setting benchmarks and performance indicators
 
 • “Relying on Saudi Nationals and In-vestment Opportunities” Investing in national talent, fostering in-novation, developing the national industry, and attracting international investments, enhance the economic impact of the Kingdom.
 
-• “Setting benchmarks and performance indicators” Measuring performance to ensure the achievement of the objectives and to address the difficulties.
-
-“A resilient, secure, and trusted Saudi cyberspace that enables growth and prosperity”
-
 This vision is applicable across all the Kingdom’s cyberspace. It meets the Kingdom’s needs, priorities, and aspirations, and emphasizes protection of technical and operational systems and sensitive infrastructure in addition to the ability to withstand and respond to cyber incidents, absorb damage, and recover in a timely manner. The vision is comprised of five components as follows:
 
-Trusted
+• “Setting benchmarks and performance indicators” Measuring performance to ensure the achievement of the objectives and to address the difficulties.
 
 Resilient
+
+Underscores the need to recover quickly from cyber events and incidents
+
+Saudi Cyberspace
+
+Trusted
 
 Secure
 
 Emphasizes protection of the conﬁdentiality, integrity, and availability of digital or digitally
 
-Assures investors and citizens that the Saudi cyber ecosystem is a safe place to Underscores the need to recover quickly from cyber events and incidents connected assets, networks, and systems conduct business
-
-Saudi Cyberspace
+Assures investors and citizens that the Saudi cyber ecosystem is a safe place to connected assets, networks, and systems conduct business
 
 Growth
 
 Enables Provides a national point of emphasis on
 
+“A resilient, secure, the Kingdom's cyber program designed for its needs and priorities
+
 Reﬂects the priority of economic growth to the Kingdom and indicates the growth opportunities provided through cyberspace
 
-Highlights that the digital world contributes to and facilitates greater ambitions and needs the Kingdom's cyber program designed for its needs and priorities
+Highlights that the digital world contributes to and facilitates greater ambitions and needs
 
 Prosperity
 
@@ -392,27 +392,29 @@ Figure (5): Vision
 
 3.3 Strategic Goals To achieve the Kingdom’s vision of “A resilient, secure, and trusted Saudi cyberspace that enables growth and prosperity” six national strategic goals must be achieved as part of the Strategy. The national strategic goals are detailed as follows:
 
+and trusted Saudi cyberspace that enables
+
 Unify
 
 Manage
 
 Adaptive Cyber Risk Management on National
 
-Whole-of-Nation Cybersecurity Governance
-
-Level
+Whole-of-Nation Cybersecurity Governance growth and prosperity”
 
 Assure
 
-Defend
-
-Strengthening national technical defense capabilities
-
-Cyber Ecosystem Assurance against cyber threats (Dynamic Defense)
-
-Build
+Cyber Ecosystem Assurance
 
 Partner
+
+Level
+
+Defend
+
+Strengthening national technical defense capabilities against cyber threats (Dynamic Defense)
+
+Build
 
 National Capacity Building and Cybersecurity Industry Development (Cyber Ecosystem Development)
 
@@ -476,21 +478,23 @@ Defines key gaps in cybersecurity workforce in the kingdom and provide initiativ
 
 The action plan created three main tracks to achieve measurable national impacts in both the short and long term. These three tracks, shown below, were set to achieve both the Strategy’s vision and national strategic goals.
 
-Implementation Philosophy
-
 First Track
+
+High Return
+
+Project Focus
+
+Accomplish high-impact, low-effort security hygiene projects
+
+Implementation Philosophy
 
 Second Track
 
 Third Track
 
-High Return
-
 Cybersecurity Catalyst
 
 Long-Term Growth
-
-Project Focus
 
 Organization Focus
 
@@ -498,9 +502,7 @@ National Focus
 
 Execute multiple national
 
-Accomplish high-impact,
-
-Partner with key organization to enhance initiatives focused on long-term impacts over low-effort security hygiene projects their cyber operations the next ﬁve years
+Partner with key organization to enhance initiatives focused on long-term impacts over their cyber operations the next ﬁve years
 
 Figure (8): Action Plan Tracks
 

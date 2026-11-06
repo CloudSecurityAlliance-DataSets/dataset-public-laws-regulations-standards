@@ -42,8 +42,8 @@ Current state of every document tracked in this repo, broken down by SecID type 
 | `weakness/` | 1 | — | 1 | — | — | **2** |
 | `ttp/` | 1 | — | 4 | — | — | **5** |
 | `methodology/` | 9 | — | — | — | — | **9** |
-| `reference/` | 221 | 122 | 329 | 4 | 6 | **682** |
-| **Total** | **352** | **179** | **373** | **4** | **6** | **914** |
+| `reference/` | 220 | 122 | 320 | 4 | 6 | **672** |
+| **Total** | **351** | **179** | **364** | **4** | **6** | **904** |
 
 See [`INDEX.md`](INDEX.md) for the per-document table including SecID identifiers and extraction-state glyphs.
 <!-- INVENTORY-END -->

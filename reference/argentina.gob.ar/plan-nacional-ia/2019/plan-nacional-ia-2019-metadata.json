@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted 242-page PDF (https://oecd-opsi.org/wp-content/uploads/2021/02/Argentina-National-AI-Strategy.pdf) locally via PyMuPDF (479,361 chars). Parsed 52 sections (0 with explicit section identifiers)."
+    "notes": "Extracted 242-page PDF (https://oecd-opsi.org/wp-content/uploads/2021/02/Argentina-National-AI-Strategy.pdf) locally via PyMuPDF (479,358 chars). Parsed 52 sections (0 with explicit section identifiers)."
   },
   "extraction_history": [
     {
