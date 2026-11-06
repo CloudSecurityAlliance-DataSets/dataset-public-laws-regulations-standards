@@ -186,20 +186,18 @@ def sort_blocks_column_aware(blocks: list[dict], page_w: float, page_h: float, r
         text_blocks.append(b_copy)
 
     # Detect 3-column landscape layouts (e.g. OAS 2022 Inter-American Cybersecurity Strategy pages)
-    is_three_col = page_w > page_h and any(
-        b.get("bbox", (0, 0, 0, 0))[0] >= page_w * 0.34
-        and b.get("bbox", (0, 0, 0, 0))[2] <= page_w * 0.70
-        and (b.get("bbox", (0, 0, 0, 0))[2] - b.get("bbox", (0, 0, 0, 0))[0]) <= page_w * 0.34
-        for b in text_blocks
-    ) and (
-        any(
-            b.get("bbox", (0, 0, 0, 0))[2] <= page_w * 0.42
-            and (b.get("bbox", (0, 0, 0, 0))[2] - b.get("bbox", (0, 0, 0, 0))[0]) <= page_w * 0.34
+    is_three_col = (
+        page_w > page_h
+        and sum(
+            1
             for b in text_blocks
+            if page_w * 0.35 <= b.get("bbox", (0, 0, 0, 0))[0] <= page_w * 0.44
+            and b.get("bbox", (0, 0, 0, 0))[2] <= page_w * 0.70
+            and page_w * 0.18 <= (b.get("bbox", (0, 0, 0, 0))[2] - b.get("bbox", (0, 0, 0, 0))[0]) <= page_w * 0.34
         )
-        or any(
-            b.get("bbox", (0, 0, 0, 0))[0] >= page_w * 0.65
-            and (b.get("bbox", (0, 0, 0, 0))[2] - b.get("bbox", (0, 0, 0, 0))[0]) <= page_w * 0.34
+        >= 2
+        and not any(
+            page_w * 0.37 <= (b.get("bbox", (0, 0, 0, 0))[2] - b.get("bbox", (0, 0, 0, 0))[0]) <= page_w * 0.45
             for b in text_blocks
         )
     )

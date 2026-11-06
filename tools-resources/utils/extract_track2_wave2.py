@@ -2493,7 +2493,7 @@ def postprocess_markdown_structure(md: str, doc_title: str) -> str:
         elif h2_id:
             in_h2_container = False
         elif in_h2_container:
-            if re.match(r"^(?:Conclusion|Conclusions|Glossary|Abbreviations|Acknowledgements|References|Bibliography)\b", h2_txt, re.I):
+            if re.match(r"^(?:Conclusion|Conclusions|Glossary|Abbreviations|Acknowledgements|References|Bibliography|结束语|结语)\b", h2_txt, re.I):
                 in_h2_container = False
             else:
                 blocks[i] = "#" + b  # `## <unnumbered>` -> `### <unnumbered>` under active `## Chapter/Part/Pillar`
@@ -2564,6 +2564,7 @@ def postprocess_markdown_structure(md: str, doc_title: str) -> str:
                 re.match(r"^[a-zà-öø-ÿ]", blocks[idx_m + 1])
                 or re.search(r"\b(?:the|a|an|of|in|to|for|with|by|and|or|at|from|as)$", cur_b, re.I)
             )
+            and not (cur_b.isupper() and not blocks[idx_m + 1].isupper())
             and not re.match(r"^[A-Z0-9\s,\-–—\(\)’':;/\.]{2,80}$", blocks[idx_m + 1])
         ):
             nxt_b = blocks[idx_m + 1]
