@@ -1,0 +1,170 @@
+[
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "Introduction",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "* * *\n\n![Rank Card](img/benchmark_arch_00.png)\n\nIn this work, we introduce TrustLLM which thoroughly explores the\ntrustworthiness of LLMs. Specifically, there are three-fold major\ncontributions of TrustLLM: (1) Firstly, we have proposed a set of guidelines\nbased on a wide range of literature reviews for evaluating the trustworthiness\nof LLMs, which is a taxonomy encompassing eight aspects, including\ntruthfulness, safety, fairness, robustness, privacy, machine ethics,\ntransparency, and accountability. (2) Secondly, we have established a\nbenchmark for six of these aspects due to the difficulty of benchmarking\ntransparency and accountability. This is the first comprehensive and\nintegrated benchmark comprising over 18 subcategories, covering more than 30\ndatasets and 16 mainstream LLMs, including both proprietary and open-weight\nLLMs. (3) Last but not least, drawing from extensive experimental results , we\nhave derived insightful findings. Our evaluation of trustworthiness in LLMs\ntakes into account both the overall observation and individual findings based\non each dimension, emphasizing the relationship between effectiveness and\ntrustworthiness, the prevalent lack of real alignment in most LLMs, the\ndisparity between proprietary and open-weight LLMs, and the opacity of current\ntrustworthiness-related technologies. We aim to provide valuable insights for\nfuture research in this field, contributing to a more nuanced understanding of\nthe trustworthiness landscape in large language models."
+  },
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "Empirical Findings",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Overall Perspective",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Trustworthiness Linked with Utility",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "_Trustworthiness is closely related to utility._ We have observed a close\nrelationship between trustworthiness and utility, and they often have a\npositive relation in specific tasks. For example, in tasks like moral behavior\nclassification and stereotype recognition, LLMs generally need to possess\nstrong utility to understand the task's meaning and make correct choices.\nAdditionally, the trustworthiness ranking of LLMs is often closely related to\ntheir ranking on utility-focused leaderboards."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "LLMs' Alignment Shortfall",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "_We have found that many LLMs exhibit a certain degree of over-alignment\n(i.e., exaggerated safety), which can compromise the trustworthiness of LLMs._\nLLMs may identify many innocuous prompt contents as harmful, impacting their\nutility. For instance, Llama2-7b obtained a 57% of refusing to answer when the\nprompt is not harmful. Therefore, it is crucial to make LLMs aware of the real\nintent of the prompt itself in the alignment process instead of simply\nmemorizing examples. This contributes to reducing the false positive rate when\nrecognizing harmful content."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Trust Disparity: Closed vs. Open LLMs",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "_Generally, proprietary LLMs outperform most open-weight LLMs in\ntrustworthiness. However, a few open-source LLMs can compete with proprietary\nones._ We found a gap in the performance of open-weight and proprietary LLMs\nregarding trustworthiness. Generally, proprietary LLMs (e.g., ChatGPT, GPT-4)\ntend to perform much better than the majority of open-weight LLMs. This is a\nserious concern because open-weight models can be widely downloaded. Once\nintegrated into application scenarios, they may pose severe risks. However, we\nwere surprised to discover that Llama2, a series of open-weight LLMs,\nsurpasses proprietary LLMs in trustworthiness in many tasks. This indicates\nthat open-weight models can demonstrate excellent trustworthiness even without\nadding external auxiliary modules (such as a moderator). This finding provides\na significant reference value for relevant open-weight developers."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Imperative for Transparency in Trustworthy AI Technology",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "_Both the model itself and trustworthiness-related technology should be\ntransparent (e.g., open-source)._ The performance gap among different LLMs\nhighlights the need for transparency in both the models and trustworthy\ntechnologies. Understanding the training mechanisms is fundamental in\nresearching LLMs. While some proprietary LLMs show high trustworthiness, the\nlack of transparency in their technologies is a concern. Open sourcing\ntrustworthy technologies can enhance LLM reliability and foster AI's benign\ndevelopment."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Section Perspective",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Truthfulness",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Truthfulness means the accurate representation of information, facts, and\nresults by an AI system. We have found that:\n\n  1. Proprietary LLMs like GPT-4 and open-source LLMs like LLama2 struggle to provide truthful responses when relying solely on their internal knowledge. This challenge can primarily be attributed to noise in their training data, including misinformation or outdated information, and the lack of knowledge generalization capability in the underlying Transformer architecture.\n  2. Moreover, all LLMs encounter challenges in zero-shot commonsense reasoning tasks. This highlights that LLMs may struggle with relatively straightforward tasks for humans to perform.\n  3. Conversely, when assessing the performance of LLMs with augmented external knowledge, they exhibit significantly improved results, surpassing the state-of-the-art performance reported in the original datasets.\n  4. We note a significant discrepancy among different hallucination tasks. Most LLMs exhibit fewer hallucinations in multiple-choice question-answering tasks than in more open-ended tasks like knowledge-grounded dialogue, likely attributed to prompt sensitivity.\n  5. We also identify a positive correlation between sycophancy and adversarial actuality. Models exhibiting lower levels of sycophancy demonstrate an ability to identify factual errors in user input and highlight them effectively."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Safety",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Safety ensures the outputs from LLMs should only engage users in a safe and\nhealthy conversation. In our experiments, we have found that:\n\n  1. The safety of most open-source LLMs still raises concerns and lags significantly behind proprietary LLMs. For the most part, the safety of open-source LLMs is lower than that of proprietary LLMs in terms of jailbreak, toxicity, and misuse.\n  2. Importantly, LLMs cannot effectively resist various jailbreak attacks equally. We observed that different jailbreak attacks have varying success rates against LLMs, with leetspeak attacks having the highest success rate. Therefore, LLM developers should consider a comprehensive approach to defend against different types of attacks.\n  3. Most LLMs struggle to balance regular and excessive safety. LLMs with strong safety often exhibit severely exaggerated safety, as seen in the Llama2 series and ERNIE, which suggests that most LLMs are not really aligned and they may only memorize shallow alignment knowledge."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Fairness",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Fairness is the quality or state of being fair, especially fair or impartial\ntreatment. In our experiments, we have found that:\n\n  1. The performance of most LLMs in identifying stereotypes is not satisfactory, with even the best-performing GPT-4 having an overall accuracy of only 65%. When presented with sentences containing stereotypes, the percentage of agreement of different LLMs varies widely, with the best performance at only 0.5% agreement rate and the worst-performing one approaching an agreement rate of nearly 60%.\n  2. Only a few LLMs, such as Oasst-12b and Vicuna-7b, exhibit fairness in handling disparagement; most LLMs still display biases towards specific attributes when dealing with questions containing disparaging tendencies.\n  3. Regarding preferences, most LLMs perform very well on the plain baseline, maintaining objectivity and neutrality or refusing to answer directly. However, when forced to choose an option, the performance of LLMs significantly decreases."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Robustness",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Robustness is the ability of a system to maintain its level of performance\nunder a variety of circumstances. In our experiments, we have found that:\n\n  1. The Llama2 series and most proprietary LLMs outperform other open-source models in traditional downstream tasks.\n  2. There is a significant variation in LLMs' performance in open-ended tasks. The worst-performing model has an average semantic similarity of only 88% before and after perturbation, which is far below the top performer at 97.64%.\n  3. Regarding OOD robustness, LLMs also exhibit considerable variability in performance. The leading model, GPT-4, shows a RtA (Refuse to Answer) rate of over 80% in OOD detection and an F1 score averaging over 92% in OOD generalization. In contrast, the least effective models register a mere 0.4% in RtA and F1 score of around 30%."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Privacy",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Privacy is the norms and practices that help to safeguard human autonomy,\nidentity, and dignity. In our experiments, we have found that:\n\n  1. Most LLMs possess a certain level of privacy awareness, as the probability of LLMs refusing to answer inquiries about private information dramatically increases when they are informed that they must adhere to privacy policies.\n  2. Pearson's correlation between humans and LLMs of agreement on privacy information usage varies a lot. The best-performed ChatGPT archives a 0.665 correlation, however, the correlation of Oass-12b is surprisingly less than zero, indicating a negative correlation with humans.\n  3. We have observed that nearly all LLMs exhibit some information leakage on Enron Email Dataset."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Machine Ethics",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Machine ethics ensure the moral behaviors of man-made machines that use\nartificial intelligence, otherwise known as artificial intelligent agents. In\nour experiments, we have found that:\n\n  1. LLMs have already formed a particular set of moral values, but there is still a significant gap in aligning completely with human ethics. The accuracy of most LLMs on implicit tasks with low-ambiguity scenarios is below 70%, regardless of the dataset. When given a high-ambiguity scenario, the performance varies a lot between different LLMs as the Llama2 series reaches an RtA of 99.9%, and some are less than 70%.\n  2. Regarding emotional awareness, LLMs demonstrate higher accuracy, with the best-performing LLMs being GPT-4, which exceeds an accuracy rate of 94%."
+  },
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "Models",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Model | Model Size | Open-Weight | Version | Creator | Source | Link\n---|---|---|---|---|---|---\nGPT-3.5-turbo (ChatGPT) | unknown |  No  | - | OpenAI | OpenAI API |  [ ![](img/openai.png) ](https://openai.com/blog/chatgpt)\nGPT-4 | unknown |  No  | - | OpenAI | OpenAI API |  [ ![](img/openai.png) ](https://openai.com/research/gpt-4)\nERNIE-3.5-turbo | unknown |  No  | - | Baidu Inc. | ERNIE API |  [ ![](img/ernie.png) ](https://yiyan.baidu.com/)\ntext-bison-001 (PaLM 2) | unknown |  No  | - | Google | Google API |  [ ![](img/palm2.png) ](https://ai.google/discover/palm2/)\nLlama2-7b | 7b |  Yes  | - | Meta | HuggingFace |  [ ![](img/meta.png) ](https://ai.meta.com/llama/)\nLlama2-13b | 13b |  Yes  | - | Meta | HuggingFace |  [ ![](img/meta.png) ](https://ai.meta.com/llama/)\nLlama2-70b | 70b |  Yes  | - | Meta | HuggingFace |  [ ![](img/meta.png) ](https://ai.meta.com/llama/)\nMistral-7b | 7b |  Yes  | v0.1 | Mistral AI | HuggingFace |  [ ![](img/mistral.jpeg) ](https://mistral.ai/)\nVicuna-33b | 33b |  Yes  | v1.3 | LMSYS | HuggingFace |  [ ![](img/vicuna.jpeg) ](https://lmsys.org/blog/2023-03-30-vicuna/)\nVicuna-13b | 13b |  Yes  | v1.3 | LMSYS | HuggingFace |  [ ![](img/vicuna.jpeg) ](https://lmsys.org/blog/2023-03-30-vicuna/)\nVicuna-7b | 7b |  Yes  | v1.3 | LMSYS | HuggingFace |  [ ![](img/vicuna.jpeg) ](https://lmsys.org/blog/2023-03-30-vicuna/)\nKoala-13b | 13b |  Yes  | - | UCB | HuggingFace |  [ ![](img/huggingface.png) ](https://huggingface.co/TheBloke/koala-13B-HF)\nChatGLM2 | 6b |  Yes  | v1.0 | Tsinghua & Zhipu | HuggingFace |  [ ![](img/chatglm.png) ](https://chatglm.cn/)\nBaichuan-13b | 13b |  Yes  | - | Baichuan Inc. | HuggingFace |  [ ![](img/baichuan.png) ](https://www.baichuan-ai.com/home)\nWizardlm-13b | 13b |  Yes  | v1.2 | Microsoft | HuggingFace |  [ ![](img/huggingface.png) ](https://huggingface.co/WizardLM/WizardLM-13B-V1.2)\nOasst-12b | 12b |  Yes  | - | LAION | HuggingFace |  [ ![](img/huggingface.png) ](https://huggingface.co/OpenAssistant/oasst-sft-1-pythia-12b)"
+  },
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "Task & Dataset",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Datasets and metrics",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Datasets and metrics in TrustLLM. ✓ means the dataset exists and ✗ means the dataset is first proposed in the TrustLLM benchmark. Dataset | Description | Num. | Exist? | Section\n---|---|---|---|---\nSQuAD2.0 | It combines questions in SQuAD1.1 with over 50,000 unanswerable questions.  | 100 | ✓ | Misinformation\nCODAH | It contains 28,000 commonsense questions. | 100 | ✓ | Misinformation\nHotpotQA | It contains 113k Wikipedia-based question-answer pairs for complex multi-hop reasoning. | 100 | ✓ | Misinformation\nAdversarialQA | It contains 30,000 adversarial reading comprehension question-answer pairs.  | 100 | ✓ | Misinformation\nClimate-FEVER | It contains 7,675 climate change-related claims manually curated by human fact-checkers. | 100 | ✓ | Misinformation\nSciFact | It contains 1,400 expert-written scientific claims pairs with evidence abstracts. | 100 | ✓ | Misinformation\nCOVID-Fact | It contains 4,086 real-world COVID claims. | 100 | ✓ | Misinformation\nHealthVer | It contains 14,330 health-related claims against scientific articles. | 100 | ✓ | Misinformation\nTruthfulQA | The multiple-choice questions to evaluate whether a language model is truthful in generating answers to questions. | 352 | ✓ | Hallucination\nHaluEval | It contains 35,000 generated and human-annotated hallucinated samples. | 300 | ✓ | Hallucination\nLM-exp-sycophancy | A dataset consists of human questions with one sycophancy response example and one non-sycophancy response example. | 179 | ✓ | Sycophancy\nOpinion pairs | It contains 120 pairs of opposite opinions. | 240 | ✗ | Sycophancy\nWinoBias | It contains 3,160 sentences, split for development and testing, created by researchers familiar with the project. | 734 | ✓ | Stereotype\nStereoSet | It contains the sentences that measure model preferences across gender, race, religion, and profession. | 734 | ✓ | Stereotype\nAdult | The dataset, containing attributes like sex, race, age, education, work hours, and work type, is utilized to predict salary levels for individuals. | 810 | ✓ | Disparagement\nJailbraek Trigger | The dataset contains the prompts based on 13 jailbreak attacks. | 1300 | ✗ | Jailbreak, Toxicity\nMisuse (additional) | This dataset contains prompts crafted to assess how LLMs react when confronted by attackers or malicious users seeking to exploit the model for harmful purposes. | 261 | ✗ | Misuse\nDo-Not-Answer | It is curated and filtered to consist only of prompts to which responsible LLMs do not answer. | 344 + 95 | ✓ | Misuse, Stereotype\nAdvGLUE | A multi-task dataset with different adversarial attacks. | 912 | ✓ | Natural Noise\nAdvInstruction | 600 instructions generated by 11 perturbation methods. | 1200 | ✗ | Natural Noise\nToolE | A dataset with the users' queries which may trigger LLMs to use external tools. | 241 | ✓ | Out of Domain (OOD)\nFlipkart | A product review dataset, collected starting from December 2022. | 400 | ✓ | Out of Domain (OOD)\nDDXPlus | A 2022 medical diagnosis dataset comprising synthetic data representing about 1.3 million patient cases. | 100 | ✓ | Out of Domain (OOD)\nETHICS | It contains numerous morally relevant scenarios descriptions and their moral correctness. | 500 | ✓ | Implicit Ethics\nSocial Chemistry 101 | It contains various social norms, each consisting of an action and its label.  | 500 | ✓ | Implicit Ethics\nMoralChoice | It consists of different contexts with morally correct and wrong actions. | 668 | ✓ | Explicit Ethics\nConfAIde | It contains the description of how information is used. | 196 | ✓ | Privacy Awareness\nPrivacy Awareness | It includes different privacy information queries about various scenarios.  | 280 | ✗ | Privacy Awareness\nEnron Email | It contains approximately 500,000 emails generated by employees of the Enron Corporation. | 400 | ✓ | Privacy Leakage\nXstest | It's a test suite for identifying exaggerated safety behaviors in LLMs. | 200 | ✓ | Exaggerated Safety"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Task Overview",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Task Overview. ○ means automatic evaluation, ● means manual evaluation, and ◐ means semi-automatic evaluation. More trustworthy LLMs are expected to have a higher value of the metrics with ↑ and a lower value of the metrics with ↓.  Task Name | Metrics | Type | Eval | Section\n---|---|---|---|---\nClosed-book QA | Accuracy (↑) | Generation | ○ | Misinformation(Internal)\nFact-Checking | Macro F-1 (↑) | Classification | ● | Misinformation(External)\nMultiple Choice QA | Accuracy (↑) | Classification | ● | Hallucination\nHallucination Classification | Accuracy (↑) | Classification | ● | Hallucination\nPersona Sycophancy | Embedding similarity (↑) | Generation | ◐ | Sycophancy\nOpinion Sycophancy | Percentage change (↓) | Generation | ○ | Sycophancy\nFactuality Correction | Percentage change (↑) | Generation | ○ | Adversarial Factuality\nJailbreak Attack Evaluation | RtA (↑) | Generation | ○ | Jailbreak\nToxicity Measurement | Toxicity Value (↓) | Generation | ● | Toxicity\nMisuse Evaluation | RtA (↑) | Generation | ○ | Misuse\nExaggerated Safety Evaluation | RtA (↓) | Generation | ○ | Exaggerated Safety\nAgreement on Stereotypes | Accuracy (↑) | Generation | ◐ | Stereotype\nRecognition of Stereotypes | Agreement Percentage (↓) | Classification | ◐ | Stereotype\nStereotype Query Test | RtA (↑) | Generation | ○ | Stereotype\nPreference Selection | RtA (↑) | Generation | ○ | Preference\nSalary Prediction | p-value (↑) | Generation | ● | Disparagement\nAdversarial Perturbation in Downstream Tasks | ASR (↓), RS (↑) | Generation | ◐ | Natural Noise\nAdversarial Perturbation in Open-Ended Tasks | Embedding similarity (↑) | Generation | ◐ | Natural Noise\nOOD Detection | RtA (↑) | Generation | ○ | Out of Domain (OOD)\nOOD Generalization | Micro F1 (↑) | Classification | ○ | Out of Domain (OOD)\nAgreement on Privacy Information | Pearson’s correlation (↑) | Classification | ● | Privacy Awareness\nPrivacy Scenario Test | RtA (↑) | Generation | ○ | Privacy Awareness\nProbing Privacy Information Usage | RtA (↑), Accuracy (↓) | Generation | ◐ | Privacy Leakage\nMoral Action Judgement | Accuracy (↑) | Classification | ◐ | Implicit Ethics\nMoral Reaction Selection (Low-Ambiguity) | Accuracy (↑) | Classification | ◐ | Explicit Ethics\nMoral Reaction Selection (High-Ambiguity) | RtA (↑) | Generation | ○ | Explicit Ethics\nEmotion Classification | Accuracy (↑) | Classification | ● | Emotional Awareness"
+  },
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "Ranking Card",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "![Rank Card](img/rank_card_00.png)"
+  },
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "Citation",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "@inproceedings{huang2024position,\n      title={Position: TrustLLM: Trustworthiness in large language models},\n      author={Huang, Yue and Sun, Lichao and Wang, Haoran and Wu, Siyuan and Zhang, Qihui and Li, Yuan and Gao, Chujie and Huang, Yixin and Lyu, Wenhan and Zhang, Yixuan and others},\n      booktitle={International Conference on Machine Learning},\n      pages={20166--20270},\n      year={2024},\n      organization={PMLR}\n    }"
+  },
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "TrustLLM Team",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "![School 1](img/logos/Lehigh-University-logo.png) ![School\n3](img/logos/W&M.png) ![School 3](img/logos/stanford.png) ![School\n3](img/logos/UCLA.jpeg) ![School 3](img/logos/CMU.png) ![School\n3](img/logos/UIUC.png) ![School 2](img/logos/MIT.png) ![School\n2](img/logos/ND.png) ![School 2](img/logos/duke.png) ![School\n3](img/logos/harvard.png) ![School 2](img/logos/UMD.png) ![School\n2](img/logos/JHU.jpeg) ![School 2](img/logos/UIC.png) ![School\n2](img/logos/UGA.png) ![School 3](img/logos/TAMU.png) ![School\n3](img/logos/UNC.png) ![School 2](img/logos/MBZUAI.jpeg) ![School\n2](img/logos/yale.png) ![School 2](img/logos/Columbia.png) ![School\n2](img/logos/UCB.png) ![School 3](img/logos/UPenn.png) ![School\n2](img/logos/UWM.png) ![School 2](img/logos/UCSB.png) ![School\n2](img/logos/vt.png) ![School 2](img/logos/IIT.gif) ![School\n2](img/logos/USC.png) ![School 2](img/logos/CISPA.png) ![School\n2](img/logos/MGH.png) ![School 2](img/logos/MSU.png) ![School\n2](img/logos/FIU.png) ![School 2](img/logos/drexel.png) ![School\n3](img/logos/tenne.png) ![School\n2](img/logos/Lawrence_Livermore_National_Lab.png) ![School\n2](img/logos/samsung.webp) ![School 3](img/logos/Microsoft.png) ![School\n2](img/logos/IBM.png) ![School 2](img/logos/Salesforce.png)\n\n© 2024 TrustLLM\nContact Us:\n[trustllm.benchmark@gmail.com](mailto:trustllm.benchmark@gmail.com), [\nlis221@lehigh.edu](mailto:lis221@lehigh.edu),\n[howiehwong@gmail.com](mailto:howiehwong@gmail.com)\nWebsite developed based on the [yenchiah project-website-\ntemplate](https://github.com/yenchiah/project-website-template?tab=readme-ov-\nfile)."
+  }
+]

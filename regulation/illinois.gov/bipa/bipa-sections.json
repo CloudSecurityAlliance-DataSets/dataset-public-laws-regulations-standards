@@ -1,0 +1,122 @@
+[
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "2025 Illinois Compiled Statutes",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "Chapter 740",
+    "section_name": "CIVIL LIABILITIES",
+    "id_kind": "chapter",
+    "parent_id": "",
+    "body": "740 ILCS 14/ - Biometric Information Privacy Act.\n\n**[ Previous ](/codes/illinois/chapter-740/act-740-ilcs-13/) ** **[ Next\n](/codes/illinois/chapter-740/act-740-ilcs-15/) **\n\n(740 ILCS 14/1)"
+  },
+  {
+    "depth": 4,
+    "section_id": "Sec. 1",
+    "section_name": "Short title. This Act may be cited as the Biometric Information",
+    "id_kind": "section_word",
+    "parent_id": "Chapter 740",
+    "body": "Privacy Act.\n\n(Source: P.A. 95-994, eff. 10-3-08.)\n\n(740 ILCS 14/5)"
+  },
+  {
+    "depth": 4,
+    "section_id": "Sec. 5",
+    "section_name": "Legislative findings; intent. The General Assembly finds all of the",
+    "id_kind": "section_word",
+    "parent_id": "Chapter 740",
+    "body": "following:\n\n(a) The use of biometrics is growing in the business and security screening\nsectors and appears to promise streamlined financial transactions and security\nscreenings.\n\n(b) Major national corporations have selected the City of Chicago and other\nlocations in this State as pilot testing sites for new applications of\nbiometric-facilitated financial transactions, including finger-scan\ntechnologies at grocery stores, gas stations, and school cafeterias.\n\n(c) Biometrics are unlike other unique identifiers that are used to access\nfinances or other sensitive information. For example, social security numbers,\nwhen compromised, can be changed. Biometrics, however, are biologically unique\nto the individual; therefore, once compromised, the individual has no\nrecourse, is at heightened risk for identity theft, and is likely to withdraw\nfrom biometric-facilitated transactions.\n\n(d) An overwhelming majority of members of the public are weary of the use of\nbiometrics when such information is tied to finances and other personal\ninformation.\n\n(e) Despite limited State law regulating the collection, use, safeguarding,\nand storage of biometrics, many members of the public are deterred from\npartaking in biometric identifier-facilitated transactions.\n\n(f) The full ramifications of biometric technology are not fully known.\n\n(g) The public welfare, security, and safety will be served by regulating the\ncollection, use, safeguarding, handling, storage, retention, and destruction\nof biometric identifiers and information.\n\n(Source: P.A. 95-994, eff. 10-3-08.)\n\n(740 ILCS 14/10)"
+  },
+  {
+    "depth": 4,
+    "section_id": "Sec. 10",
+    "section_name": "Definitions. In this Act:",
+    "id_kind": "section_word",
+    "parent_id": "Chapter 740",
+    "body": "\"Biometric identifier\" means a retina or iris scan, fingerprint, voiceprint,\nor scan of hand or face geometry. Biometric identifiers do not include writing\nsamples, written signatures, photographs, human biological samples used for\nvalid scientific testing or screening, demographic data, tattoo descriptions,\nor physical descriptions such as height, weight, hair color, or eye color.\nBiometric identifiers do not include donated organs, tissues, or parts as\ndefined in the Illinois Anatomical Gift Act or blood or serum stored on behalf\nof recipients or potential recipients of living or cadaveric transplants and\nobtained or stored by a federally designated organ procurement agency.\nBiometric identifiers do not include biological materials regulated under the\nGenetic Information Privacy Act. Biometric identifiers do not include\ninformation captured from a patient in a health care setting or information\ncollected, used, or stored for health care treatment, payment, or operations\nunder the federal Health Insurance Portability and Accountability Act of 1996.\nBiometric identifiers do not include an X-ray, roentgen process, computed\ntomography, MRI, PET scan, mammography, or other image or film of the human\nanatomy used to diagnose, prognose, or treat an illness or other medical\ncondition or to further validate scientific testing or screening.\n\n\"Biometric information\" means any information, regardless of how it is\ncaptured, converted, stored, or shared, based on an individual's biometric\nidentifier used to identify an individual. Biometric information does not\ninclude information derived from items or procedures excluded under the\ndefinition of biometric identifiers.\n\n\"Confidential and sensitive information\" means personal information that can\nbe used to uniquely identify an individual or an individual's account or\nproperty. Examples of confidential and sensitive information include, but are\nnot limited to, a genetic marker, genetic testing information, a unique\nidentifier number to locate an account or property, an account number, a PIN\nnumber, a pass code, a driver's license number, or a social security number.\n\n\"Electronic signature\" means an electronic sound, symbol, or process attached\nto or logically associated with a record and executed or adopted by a person\nwith the intent to sign the record.\n\n\"Private entity\" means any individual, partnership, corporation, limited\nliability company, association, or other group, however organized. A private\nentity does not include a State or local government agency. A private entity\ndoes not include any court of Illinois, a clerk of the court, or a judge or\njustice thereof.\n\n\"Written release\" means informed written consent, electronic signature, or, in\nthe context of employment, a release executed by an employee as a condition of\nemployment.\n\n(Source: P.A. 103-769, eff. 8-2-24.)\n\n(740 ILCS 14/15)"
+  },
+  {
+    "depth": 4,
+    "section_id": "Sec. 15",
+    "section_name": "Retention; collection; disclosure; destruction.",
+    "id_kind": "section_word",
+    "parent_id": "Chapter 740",
+    "body": "(a) A private entity in possession of biometric identifiers or biometric\ninformation must develop a written policy, made available to the public,\nestablishing a retention schedule and guidelines for permanently destroying\nbiometric identifiers and biometric information when the initial purpose for\ncollecting or obtaining such identifiers or information has been satisfied or\nwithin 3 years of the individual's last interaction with the private entity,\nwhichever occurs first. Absent a valid warrant or subpoena issued by a court\nof competent jurisdiction, a private entity in possession of biometric\nidentifiers or biometric information must comply with its established\nretention schedule and destruction guidelines.\n\n(b) No private entity may collect, capture, purchase, receive through trade,\nor otherwise obtain a person's or a customer's biometric identifier or\nbiometric information, unless it first:\n\n  * (1) informs the subject or the subject's legally authorized representative in writing that a biometric identifier or biometric information is being collected or stored;\n  * (2) informs the subject or the subject's legally authorized representative in writing of the specific purpose and length of term for which a biometric identifier or biometric information is being collected, stored, and used; and\n  * (3) receives a written release executed by the subject of the biometric identifier or biometric information or the subject's legally authorized representative.\n\n(c) No private entity in possession of a biometric identifier or biometric\ninformation may sell, lease, trade, or otherwise profit from a person's or a\ncustomer's biometric identifier or biometric information.\n\n(d) No private entity in possession of a biometric identifier or biometric\ninformation may disclose, redisclose, or otherwise disseminate a person's or a\ncustomer's biometric identifier or biometric information unless:\n\n  * (1) the subject of the biometric identifier or biometric information or the subject's legally authorized representative consents to the disclosure or redisclosure;\n  * (2) the disclosure or redisclosure completes a financial transaction requested or authorized by the subject of the biometric identifier or the biometric information or the subject's legally authorized representative;\n  * (3) the disclosure or redisclosure is required by State or federal law or municipal ordinance; or\n  * (4) the disclosure is required pursuant to a valid warrant or subpoena issued by a court of competent jurisdiction.\n\n(e) A private entity in possession of a biometric identifier or biometric\ninformation shall:\n\n  * (1) store, transmit, and protect from disclosure all biometric identifiers and biometric information using the reasonable standard of care within the private entity's industry; and\n  * (2) store, transmit, and protect from disclosure all biometric identifiers and biometric information in a manner that is the same as or more protective than the manner in which the private entity stores, transmits, and protects other confidential and sensitive information.\n\n(Source: P.A. 95-994, eff. 10-3-08.)\n\n(740 ILCS 14/20)"
+  },
+  {
+    "depth": 4,
+    "section_id": "Sec. 20",
+    "section_name": "Right of action.",
+    "id_kind": "section_word",
+    "parent_id": "Chapter 740",
+    "body": "(a) Any person aggrieved by a violation of this Act shall have a right of\naction in a State circuit court or as a supplemental claim in federal district\ncourt against an offending party. A prevailing party may recover for each\nviolation:\n\n  * (1) against a private entity that negligently violates a provision of this Act, liquidated damages of $1,000 or actual damages, whichever is greater;\n  * (2) against a private entity that intentionally or recklessly violates a provision of this Act, liquidated damages of $5,000 or actual damages, whichever is greater;\n  * (3) reasonable attorneys' fees and costs, including expert witness fees and other litigation expenses; and\n  * (4) other relief, including an injunction, as the State or federal court may deem appropriate.\n\n(b) For purposes of subsection (b) of Section 15, a private entity that, in\nmore than one instance, collects, captures, purchases, receives through trade,\nor otherwise obtains the same biometric identifier or biometric information\nfrom the same person using the same method of collection in violation of\nsubsection (b) of Section 15 has committed a single violation of subsection\n(b) of Section 15 for which the aggrieved person is entitled to, at most, one\nrecovery under this Section.\n\n(c) For purposes of subsection (d) of Section 15, a private entity that, in\nmore than one instance, discloses, rediscloses, or otherwise disseminates the\nsame biometric identifier or biometric information from the same person to the\nsame recipient using the same method of collection in violation of subsection\n(d) of Section 15 has committed a single violation of subsection (d) of"
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "Section 15 for which the aggrieved person is entitled to, at most, one",
+    "id_kind": "",
+    "parent_id": "Chapter 740",
+    "body": "recovery under this Section regardless of the number of times the private\nentity disclosed, redisclosed, or otherwise disseminated the same biometric\nidentifier or biometric information of the same person to the same recipient.\n\n(Source: P.A. 103-769, eff. 8-2-24.)\n\n(740 ILCS 14/25)"
+  },
+  {
+    "depth": 4,
+    "section_id": "Sec. 25",
+    "section_name": "Construction.",
+    "id_kind": "section_word",
+    "parent_id": "Chapter 740",
+    "body": "(a) Nothing in this Act shall be construed to impact the admission or\ndiscovery of biometric identifiers and biometric information in any action of\nany kind in any court, or before any tribunal, board, agency, or person.\n\n(b) Nothing in this Act shall be construed to conflict with the X-Ray\nRetention Act, the federal Health Insurance Portability and Accountability Act\nof 1996 and the rules promulgated under either Act.\n\n(c) Nothing in this Act shall be deemed to apply in any manner to a financial\ninstitution or an affiliate of a financial institution that is subject to"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Title V of the federal Gramm-Leach-Bliley Act of 1999 and the rules",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "promulgated thereunder.\n\n(d) Nothing in this Act shall be construed to conflict with the Private\nDetective, Private Alarm, Private Security, Fingerprint Vendor, and Locksmith\nAct of 2004 and the rules promulgated thereunder.\n\n(e) Nothing in this Act shall be construed to apply to a contractor,\nsubcontractor, or agent of a State agency or local unit of government when\nworking for that State agency or local unit of government.\n\n(Source: P.A. 95-994, eff. 10-3-08.)\n\n(740 ILCS 14/30)"
+  },
+  {
+    "depth": 4,
+    "section_id": "Sec. 30",
+    "section_name": "(Repealed).",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "(Source: P.A. 95-994, eff. 10-3-08. Repealed internally, eff. 1-1-09.)\n\n(740 ILCS 14/99)"
+  },
+  {
+    "depth": 4,
+    "section_id": "Sec. 99",
+    "section_name": "Effective date. This Act takes effect upon becoming law.",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "(Source: P.A. 95-994, eff. 10-3-08.)\n\n**[ Previous ](/codes/illinois/chapter-740/act-740-ilcs-13/) ** **[ Next\n](/codes/illinois/chapter-740/act-740-ilcs-15/) **\n\n**Disclaimer:** These codes may not be the most recent version.\n[Illinois](/codes/states.html) may have more current or accurate information.\nWe make no warranties or guarantees about the accuracy, completeness, or\nadequacy of the information contained on this site or the information linked\nto on the state site. Please check official sources.\n\n[![Justia Elevate. Law Firm Websites Starting at Only $82.50/month*. Packed\nWith AI Tools (*Starting Price When Paid Annually). Discover Your\nPrice](https://justatic.com/v/20260325120135/shared/images/leads-v2/elevate/what-\nwould-cost-1.5x-a.jpg)](https://www.justia.com/marketing/elevate/price-\ncalculator/?utm_source=law&utm_medium=web&utm_campaign=elevate-what-would-\ncost-with-justia&utm_content=banner-sidebar-what-would-cost-with-justia-v2)\n\n[![Need CLE Credit? Explore upcoming live webinars and on-demand courses in\nthe Justia CLE & Webinars Center. Visit\nCenter](https://justatic.com/v/20260325120135/shared/images/leads-v2/webinars/need-\ncle-\ncredit-a.svg)](https://connect.justia.com/webinars?utm_source=law&utm_medium=web&utm_campaign=cle-\nwebinar-center&utm_content=tile-banner-need-cle-credit-v1)"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Free Daily Summaries in Your Inbox",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "You're all set! You already receive all suggested Justia Opinion Summary\nNewsletters. You can explore additional available newsletters\n[here](https://connect.justia.com/case-law-summary-newsletters).\n\nSign up for our free summaries and get the latest delivered directly to you."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Our Suggestions:",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Enter Your Email\n\nSomething went wrong, please try again later.\n\n**[Free Webinars for All](https://connect.justia.com/webinars) **\n\nDiscover the latest legal insights from our experts.\n\n[See All Webinars](https://connect.justia.com/webinars)\n\n[Ask a Lawyer\nGet Free Answers](https://answers.justia.com/)\n\nHave a legal question? Get free answers from experienced lawyers!\n\nAsk Question\n\n[Find a Lawyer](https://www.justia.com/lawyers/personal-injury/illinois)\n\n**[Lawyers - Get Listed Now!](https://lawyers.justia.com/lawyer-directory-\nlistings)** Get a free directory profile listing\n\n[ Toggle button ](#)"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Get free summaries of new opinions delivered to your inbox!",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Enter Your Email\n\nSign Up\n\nJustia Legal Resources\n\n[Find a Lawyer](https://www.justia.com/lawyers)\n![Arrow](//justatic.com/v/20260513163803/shared/images/icons/svgfiles/blue/down.svg)\n\n  * [Bankruptcy Lawyers](https://www.justia.com/lawyers/bankruptcy)\n  * [Business Lawyers](https://www.justia.com/lawyers/business-law)\n  * [Criminal Lawyers](https://www.justia.com/lawyers/criminal-law)\n  * [Employment Lawyers](https://www.justia.com/lawyers/employment-law)\n  * [Estate Planning Lawyers](https://www.justia.com/lawyers/estate-planning)\n  * [Family Lawyers](https://www.justia.com/lawyers/family-law)\n  * [Personal Injury Lawyers](https://www.justia.com/lawyers/personal-injury)\n  * [More... ](https://www.justia.com/lawyers)\n\n[Individuals](https://www.justia.com/individuals/)\n![Arrow](//justatic.com/v/20260513163803/shared/images/icons/svgfiles/blue/down.svg)\n\n  * [Bankruptcy](https://www.justia.com/bankruptcy/)\n  * [Criminal](https://www.justia.com/criminal/)\n  * [Divorce](https://www.justia.com/family/divorce/)\n  * [DUI](https://www.justia.com/criminal/drunk-driving-dui-dwi/)\n  * [Estate Planning](https://www.justia.com/estate-planning/)\n  * [Family Law](https://www.justia.com/family/)\n  * [Personal Injury](https://www.justia.com/injury/)\n  * [More...](https://www.justia.com/individuals/)\n\n[Business](https://www.justia.com/business/)\n![Arrow](//justatic.com/v/20260513163803/shared/images/icons/svgfiles/blue/down.svg)\n\n  * [Business Formation](https://www.justia.com/business-operations/starting-your-own-business/)\n  * [Business Operations](https://www.justia.com/business-operations/)\n  * [Employment](https://www.justia.com/employment/)\n  * [Intellectual Property](https://www.justia.com/intellectual-property/)\n  * [International Trade](https://www.justia.com/international-law/international-trade-law/)\n  * [Real Estate](https://www.justia.com/business-operations/commercial-real-estate-the-law/)\n  * [Tax Law](https://www.justia.com/tax/)\n  * [More... ](https://www.justia.com/business/)\n\n[Law Schools](https://www.justia.com/law-schools/)\n![Arrow](//justatic.com/v/20260513163803/shared/images/icons/svgfiles/blue/down.svg)\n\n  * [Dictionary](https://dictionary.justia.com/)\n  * [Admissions](https://www.justia.com/law-students/)\n  * [Financial Aid](https://www.justia.com/law-students/)\n  * [Course Outlines](https://www.justia.com/law-schools/outlines/)\n  * [Law Journals](https://www.justia.com/law-schools/)\n  * [Blogs](https://blawgsearch.justia.com/blogs/categories/law-student)\n  * [Employment](https://www.justia.jobs/jobs/summer-associate-legal-internship)\n  * [More...](https://www.justia.com/law-schools/)\n\n[U.S. Federal Law](https://law.justia.com/us/)\n![Arrow](//justatic.com/v/20260513163803/shared/images/icons/svgfiles/blue/down.svg)\n\n  * [U.S. Constitution](https://law.justia.com/constitution/us/)\n  * [U.S. Code](https://law.justia.com/codes/us)\n  * [Regulations](https://regulations.justia.com/)\n  * [Supreme Court](https://supreme.justia.com/)\n  * [Circuit Courts](https://law.justia.com/cases/federal/appellate-courts/)\n  * [District Courts](https://law.justia.com/cases/federal/district-courts/)\n  * [Dockets & Filings](https://dockets.justia.com/)\n  * [More...](https://law.justia.com/us/)\n\n[U.S. State Law](https://law.justia.com/us-states/)\n![Arrow](//justatic.com/v/20260513163803/shared/images/icons/svgfiles/blue/down.svg)\n\n  * [State Constitutions](https://law.justia.com/us-states/)\n  * [State Codes](https://law.justia.com/codes/)\n  * [State Case Law](https://law.justia.com/cases/)\n  * [California](https://law.justia.com/california/)\n  * [Florida](https://law.justia.com/florida/)\n  * [New York](https://law.justia.com/new-york/)\n  * [Texas](https://law.justia.com/texas/)\n  * [More... ](https://law.justia.com/us-states/)\n\n[Other Databases](https://www.justia.com/)\n![Arrow](//justatic.com/v/20260513163803/shared/images/icons/svgfiles/blue/down.svg)\n\n  * [Legal Jobs](https://www.justia.jobs/)\n  * [Legal Blogs](https://blawgsearch.justia.com/)\n  * [Business Forms](https://contracts.justia.com/)\n  * [Product Recalls](https://recalls.justia.com/)\n  * [Patents](https://patents.justia.com/)\n  * [Trademarks](https://trademarks.justia.com/)\n  * [Countries](https://www.justia.com/countries/)\n  * [More...](https://www.justia.com/)\n\n[Marketing Solutions](https://www.justia.com/marketing/)\n![Arrow](//justatic.com/v/20260513163803/shared/images/icons/svgfiles/blue/down.svg)\n\n  * [Justia Connect Membership](https://www.justia.com/marketing/connect/)\n  * [Justia Lawyer Directory](https://www.justia.com/marketing/lawyer-directory/)\n  * [Justia Premium Placements](https://www.justia.com/marketing/lawyer-directory/#premium-placements)\n  * [Justia Elevate (SEO, Websites)](https://www.justia.com/marketing/elevate/)\n  * [Justia Amplify (PPC, GBP)](https://www.justia.com/marketing/amplify/)\n  * [Justia Onward Blog](https://onward.justia.com/)\n  * [Testimonials](https://www.justia.com/marketing/testimonials/)\n  * [More...](https://www.justia.com/marketing/)\n\n[\n![LinkedIn](https://justatic.com/v/1/shared/images/icons/social/linkedin.svg)\n](https://www.linkedin.com/company/justia \"LinkedIn\") [\n![YouTube](https://justatic.com/v/1/shared/images/icons/social/youtube.svg)\n](https://www.youtube.com/justia \"YouTube\") [\n![Facebook](https://justatic.com/v/1/shared/images/icons/social/facebook.svg)\n](https://www.facebook.com/justia \"Facebook\") [\n![Instagram](https://justatic.com/v/1/shared/images/icons/social/instagram.svg)\n](https://www.instagram.com/justiacom \"Instagram\") [\n![Threads](https://justatic.com/v/1/shared/images/icons/social/threads.svg)\n](https://www.threads.com/@justiacom \"Threads\") [\n![Bluesky](https://justatic.com/v/1/shared/images/icons/social/bluesky.svg)\n](https://bsky.app/profile/justiacom.bsky.social \"Bluesky\") [\n![Twitter](https://justatic.com/v/1/shared/images/icons/social/twitter.svg)\n](https://x.com/justiacom \"Twitter\") [\n![Justia](https://justatic.com/v/1/shared/images/icons/social/justia.svg)\n](https://lawyers.justia.com/organization/justia-inc-16302 \"Justia Lawyer\nDirectory\") © 2026 [Justia](https://www.justia.com/) [Justia\nConnect](https://connect.justia.com/) [Legal Portal](https://www.justia.com/)\n[Company](https://company.justia.com/) [Help](https://support.justia.com/)\n[Terms of Service](https://www.justia.com/terms-of-service/) [Privacy\nPolicy](https://www.justia.com/privacy-policy/) [Marketing\nSolutions](https://www.justia.com/marketing/)"
+  }
+]

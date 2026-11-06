@@ -83,9 +83,9 @@ your feedback!
 
 Warning! Experimental feature conflicts detected.
 
-  *     * Replacement of CELEX identifiers by short titles - experimental feature. It replaces clickable CELEX identifiers of treaties and case-law by short titles. 
-    * Visualisation of document relationships. It displays a dynamic graph with relations between the act and related documents. It is currently only available for legal acts. 
-  *     * Deep linking. It enables links to other legal acts referred to within the documents. It is currently only available for documents smaller than 900 KB. 
+  *     * Replacement of CELEX identifiers by short titles - experimental feature. It replaces clickable CELEX identifiers of treaties and case-law by short titles.
+    * Visualisation of document relationships. It displays a dynamic graph with relations between the act and related documents. It is currently only available for legal acts.
+  *     * Deep linking. It enables links to other legal acts referred to within the documents. It is currently only available for documents smaller than 900 KB.
 
 Apply
 
@@ -241,7 +241,7 @@ Directive 2002/58/EC of the European Parliament and of the Council of 12 July
 in the electronic communications sector (Directive on privacy and electronic
 communications)
 
-_OJ L 201, 31.7.2002, pp. 37–47 (ES, DA, DE, EL, EN, FR, IT, NL, PT, FI, SV)  
+_OJ L 201, 31.7.2002, pp. 37–47 (ES, DA, DE, EL, EN, FR, IT, NL, PT, FI, SV)
 _
 
 _This document has been published in a special edition(s)_
@@ -253,18 +253,18 @@ _
 ⏵This document has been published in a special edition(s) (CS, ET, LV, LT, HU,
 MT, PL, SK, SL, BG, RO, HR)
 
-Special edition in Czech: Chapter 13 Volume 029 P. 514 - 524  
-Special edition in Estonian: Chapter 13 Volume 029 P. 514 - 524  
-Special edition in Latvian: Chapter 13 Volume 029 P. 514 - 524  
-Special edition in Lithuanian: Chapter 13 Volume 029 P. 514 - 524  
-Special edition in Hungarian Chapter 13 Volume 029 P. 514 - 524  
-Special edition in Maltese: Chapter 13 Volume 029 P. 514 - 524  
-Special edition in Polish: Chapter 13 Volume 029 P. 514 - 524  
-Special edition in Slovak: Chapter 13 Volume 029 P. 514 - 524  
-Special edition in Slovene: Chapter 13 Volume 029 P. 514 - 524  
-Special edition in Bulgarian: Chapter 13 Volume 036 P. 63 - 73  
-Special edition in Romanian: Chapter 13 Volume 036 P. 63 - 73  
-Special edition in Croatian: Chapter 13 Volume 052 P. 111 - 121  
+Special edition in Czech: Chapter 13 Volume 029 P. 514 - 524
+Special edition in Estonian: Chapter 13 Volume 029 P. 514 - 524
+Special edition in Latvian: Chapter 13 Volume 029 P. 514 - 524
+Special edition in Lithuanian: Chapter 13 Volume 029 P. 514 - 524
+Special edition in Hungarian Chapter 13 Volume 029 P. 514 - 524
+Special edition in Maltese: Chapter 13 Volume 029 P. 514 - 524
+Special edition in Polish: Chapter 13 Volume 029 P. 514 - 524
+Special edition in Slovak: Chapter 13 Volume 029 P. 514 - 524
+Special edition in Slovene: Chapter 13 Volume 029 P. 514 - 524
+Special edition in Bulgarian: Chapter 13 Volume 036 P. 63 - 73
+Special edition in Romanian: Chapter 13 Volume 036 P. 63 - 73
+Special edition in Croatian: Chapter 13 Volume 052 P. 111 - 121
 
 _
 
@@ -417,7 +417,7 @@ Display
 
 __Text
 
-[**Avis juridique important**](../../../editorial/legal_notice.htm)  
+[**Avis juridique important**](../../../editorial/legal_notice.htm)
 
 _|_
 
@@ -426,12 +426,12 @@ _|_
 **Directive 2002/58/EC of the European Parliament and of the Council of 12
 July 2002 concerning the processing of personal data and the protection of
 privacy in the electronic communications sector (Directive on privacy and
-electronic communications)**  
-_  
-Official Journal L 201 , 31/07/2002 P. 0037 - 0047  
+electronic communications)**
+_
+Official Journal L 201 , 31/07/2002 P. 0037 - 0047
 _
 
-  
+
 
 Directive 2002/58/EC of the European Parliament and of the Council
 
@@ -943,7 +943,7 @@ enters into force,
 
 HAVE ADOPTED THIS DIRECTIVE:
 
-Article 1
+### Article 1
 
 Scope and aim
 
@@ -965,7 +965,7 @@ concerning public security, defence, State security (including the economic
 well-being of the State when the activities relate to State security matters)
 and the activities of the State in areas of criminal law.
 
-Article 2
+### Article 2
 
 Definitions
 
@@ -1009,7 +1009,7 @@ for the transmission of a communication or the billing thereof;
 a public communications network which can be stored in the network or in the
 recipient's terminal equipment until it is collected by the recipient.
 
-Article 3
+### Article 3
 
 Services concerned
 
@@ -1026,7 +1026,7 @@ exchanges.
 disproportionate economic effort to fulfil the requirements of Articles 8, 10
 and 11 shall be notified to the Commission by the Member States.
 
-Article 4
+### Article 4
 
 Security
 
@@ -1043,7 +1043,7 @@ inform the subscribers concerning such risk and, where the risk lies outside
 the scope of the measures to be taken by the service provider, of any possible
 remedies, including an indication of the likely costs involved.
 
-Article 5
+### Article 5
 
 Confidentiality of the communications
 
@@ -1075,7 +1075,7 @@ communication over an electronic communications network, or as strictly
 necessary in order to provide an information society service explicitly
 requested by the subscriber or user.
 
-Article 6
+### Article 6
 
 Traffic data
 
@@ -1116,7 +1116,7 @@ for competent bodies to be informed of traffic data in conformity with
 applicable legislation with a view to settling disputes, in particular
 interconnection or billing disputes.
 
-Article 7
+### Article 7
 
 Itemised billing
 
@@ -1128,7 +1128,7 @@ calling users and called subscribers, for example by ensuring that sufficient
 alternative privacy enhancing methods of communications or payments are
 available to such users and subscribers.
 
-Article 8
+### Article 8
 
 Presentation and restriction of calling and connected line identification
 
@@ -1164,7 +1164,7 @@ connected line identification is offered, the providers of publicly available
 electronic communications services inform the public thereof and of the
 possibilities set out in paragraphs 1, 2, 3 and 4.
 
-Article 9
+### Article 9
 
 Location data other than traffic data
 
@@ -1194,7 +1194,7 @@ communications service or of the third party providing the value added
 service, and must be restricted to what is necessary for the purposes of
 providing the value added service.
 
-Article 10
+### Article 10
 
 Exceptions
 
@@ -1216,7 +1216,7 @@ with emergency calls and recognised as such by a Member State, including law
 enforcement agencies, ambulance services and fire brigades, for the purpose of
 responding to such calls.
 
-Article 11
+### Article 11
 
 Automatic call forwarding
 
@@ -1224,7 +1224,7 @@ Member States shall ensure that any subscriber has the possibility, using a
 simple means and free of charge, of stopping automatic call forwarding by a
 third party to the subscriber's terminal.
 
-Article 12
+### Article 12
 
 Directories of subscribers
 
@@ -1254,7 +1254,7 @@ applicable national legislation, that the legitimate interests of subscribers
 other than natural persons with regard to their entry in public directories
 are sufficiently protected.
 
-Article 13
+### Article 13
 
 Unsolicited communications
 
@@ -1292,7 +1292,7 @@ applicable national legislation, that the legitimate interests of subscribers
 other than natural persons with regard to unsolicited communications are
 sufficiently protected.
 
-Article 14
+### Article 14
 
 Technical features and standardisation
 
@@ -1317,7 +1317,7 @@ and control the use of their personal data, in accordance with Directive
 1999/5/EC and Council Decision 87/95/EEC of 22 December 1986 on
 standardisation in the field of information technology and communications(10).
 
-Article 15
+### Article 15
 
 Application of certain provisions of Directive 95/46/EC
 
@@ -1348,7 +1348,7 @@ regard to matters covered by this Directive, namely the protection of
 fundamental rights and freedoms and of legitimate interests in the electronic
 communications sector.
 
-Article 16
+### Article 16
 
 Transitional arrangements
 
@@ -1366,7 +1366,7 @@ including versions with reverse search functions, unless subscribers indicate
 otherwise, after having received complete information about purposes and
 options in accordance with Article 12 of this Directive.
 
-Article 17
+### Article 17
 
 Transposition
 
@@ -1383,7 +1383,7 @@ by the Member States.
 provisions of national law which they adopt in the field governed by this
 Directive and of any subsequent amendments to those provisions.
 
-Article 18
+### Article 18
 
 Review
 
@@ -1398,24 +1398,24 @@ submit proposals to amend this Directive, taking account of the results of
 that report, any changes in the sector and any other proposal it may deem
 necessary in order to improve the effectiveness of this Directive.
 
-Article 19
+### Article 19
 
 Repeal
 
 Directive 97/66/EC is hereby repealed with effect from the date referred to in
-Article 17(1).
+### Article 17(1).
 
 References made to the repealed Directive shall be construed as being made to
 this Directive.
 
-Article 20
+### Article 20
 
 Entry into force
 
 This Directive shall enter into force on the day of its publication in the
 Official Journal of the European Communities.
 
-Article 21
+### Article 21
 
 Addressees
 
@@ -1555,4 +1555,3 @@ Discover more on [europa.eu](https://europa.eu)
   *[ *]: Asterisk
   *[*]: Asterisk
   *[?]: Question mark
-

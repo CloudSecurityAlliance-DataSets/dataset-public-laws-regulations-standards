@@ -1,0 +1,296 @@
+[
+  {
+    "FedRAMP Continuous Monitoring Deliverables Template": "(Cloud Service Offering name)",
+    "_sheet": "FedRAMP-Continuous-Monitoring-Deliverables-Template-Con Mon Deliverables"
+  },
+  {
+    "FedRAMP Continuous Monitoring Deliverables Template": "(select)",
+    "_sheet": "FedRAMP-Continuous-Monitoring-Deliverables-Template-Con Mon Deliverables"
+  },
+  {
+    "FedRAMP Continuous Monitoring Deliverables Template": "(main POC name)",
+    "_sheet": "FedRAMP-Continuous-Monitoring-Deliverables-Template-Con Mon Deliverables"
+  },
+  {
+    "FedRAMP Continuous Monitoring Deliverables Template": "Responsible?",
+    "_sheet": "FedRAMP-Continuous-Monitoring-Deliverables-Template-Con Mon Deliverables"
+  },
+  {
+    "FedRAMP Continuous Monitoring Deliverables Template": "CSP",
+    "_sheet": "FedRAMP-Continuous-Monitoring-Deliverables-Template-Con Mon Deliverables"
+  },
+  {
+    "FedRAMP Continuous Monitoring Deliverables Template": "CSP",
+    "_sheet": "FedRAMP-Continuous-Monitoring-Deliverables-Template-Con Mon Deliverables"
+  },
+  {
+    "FedRAMP Continuous Monitoring Deliverables Template": "CSP",
+    "_sheet": "FedRAMP-Continuous-Monitoring-Deliverables-Template-Con Mon Deliverables"
+  },
+  {
+    "FedRAMP Continuous Monitoring Deliverables Template": "CSP",
+    "_sheet": "FedRAMP-Continuous-Monitoring-Deliverables-Template-Con Mon Deliverables"
+  },
+  {
+    "FedRAMP Continuous Monitoring Deliverables Template": "CSP",
+    "_sheet": "FedRAMP-Continuous-Monitoring-Deliverables-Template-Con Mon Deliverables"
+  },
+  {
+    "FedRAMP Continuous Monitoring Deliverables Template": "CSP",
+    "_sheet": "FedRAMP-Continuous-Monitoring-Deliverables-Template-Con Mon Deliverables"
+  },
+  {
+    "FedRAMP Continuous Monitoring Deliverables Template": "CSP",
+    "_sheet": "FedRAMP-Continuous-Monitoring-Deliverables-Template-Con Mon Deliverables"
+  },
+  {
+    "FedRAMP Continuous Monitoring Deliverables Template": "CSP",
+    "_sheet": "FedRAMP-Continuous-Monitoring-Deliverables-Template-Con Mon Deliverables"
+  },
+  {
+    "FedRAMP Continuous Monitoring Deliverables Template": "CSP",
+    "_sheet": "FedRAMP-Continuous-Monitoring-Deliverables-Template-Con Mon Deliverables"
+  },
+  {
+    "FedRAMP Continuous Monitoring Deliverables Template": "CSP",
+    "_sheet": "FedRAMP-Continuous-Monitoring-Deliverables-Template-Con Mon Deliverables"
+  },
+  {
+    "FedRAMP Continuous Monitoring Deliverables Template": "CSP",
+    "_sheet": "FedRAMP-Continuous-Monitoring-Deliverables-Template-Con Mon Deliverables"
+  },
+  {
+    "FedRAMP Continuous Monitoring Deliverables Template": "3PAO",
+    "_sheet": "FedRAMP-Continuous-Monitoring-Deliverables-Template-Con Mon Deliverables"
+  },
+  {
+    "FedRAMP Continuous Monitoring Deliverables Template": "3PAO",
+    "_sheet": "FedRAMP-Continuous-Monitoring-Deliverables-Template-Con Mon Deliverables"
+  },
+  {
+    "FedRAMP Continuous Monitoring Deliverables Template": "CSP",
+    "_sheet": "FedRAMP-Continuous-Monitoring-Deliverables-Template-Con Mon Deliverables"
+  },
+  {
+    "FedRAMP Continuous Monitoring Deliverables Template": "CSP",
+    "_sheet": "FedRAMP-Continuous-Monitoring-Deliverables-Template-Con Mon Deliverables"
+  },
+  {
+    "FedRAMP Continuous Monitoring Deliverables Template": "CSP",
+    "_sheet": "FedRAMP-Continuous-Monitoring-Deliverables-Template-Con Mon Deliverables"
+  },
+  {
+    "FedRAMP Continuous Monitoring Deliverables Template": "3PAO",
+    "_sheet": "FedRAMP-Continuous-Monitoring-Deliverables-Template-Con Mon Deliverables"
+  },
+  {
+    "FedRAMP Continuous Monitoring Deliverables Template": "3PAO",
+    "_sheet": "FedRAMP-Continuous-Monitoring-Deliverables-Template-Con Mon Deliverables"
+  },
+  {
+    "FedRAMP Continuous Monitoring Deliverables Template": "CSP",
+    "_sheet": "FedRAMP-Continuous-Monitoring-Deliverables-Template-Con Mon Deliverables"
+  },
+  {
+    "Col_1": "",
+    "Col_2": "How to Contact Us",
+    "FedRAMP® Continuous Monitoring\nDeliverables Template": "How to Contact Us",
+    "Col_7": "",
+    "_sheet": "FedRAMP-Continuous-Monitoring-Deliverables-Template-Instructions"
+  },
+  {
+    "Col_1": "",
+    "Col_2": "Questions about FedRAMP or this document should be directed to info@fedramp.gov. For more information about FedRAMP, visit the website at https://www.fedramp.gov.",
+    "FedRAMP® Continuous Monitoring\nDeliverables Template": "Questions about FedRAMP or this document should be directed to info@fedramp.gov. For more information about FedRAMP, visit the website at https://www.fedramp.gov.",
+    "Col_7": "",
+    "_sheet": "FedRAMP-Continuous-Monitoring-Deliverables-Template-Instructions"
+  },
+  {
+    "Col_1": "",
+    "Col_2": "About This Template and Who Should Use It",
+    "FedRAMP® Continuous Monitoring\nDeliverables Template": "About This Template and Who Should Use It",
+    "Col_7": "",
+    "_sheet": "FedRAMP-Continuous-Monitoring-Deliverables-Template-Instructions"
+  },
+  {
+    "Col_1": "",
+    "Col_2": "This template uses the term authorizing official (AO) to refer to each leveraging Agency’s AO.\n\nThis template summarizes what continuous monitoring (ConMon) deliverables must be submitted to the Cloud Service Offering (CSO) designated document repository for the AO's review. Cloud Service Providers (CSPs) must use this worksheet to document the schedule and location of CSO ConMon deliverables.\n\nInitial submission\n-CSPs in the continuous monitoring phase: Submit this completed worksheet as soon as possible (within a reasonable timeframe) and coordinate with your AO on the schedule for the initial submission.\n-CSPs pending authorization - Complete this worksheet within 10 business days from receipt of the authorization.\n\nMaintaining this worksheet\n-Coordinate with your AO(s) on any updates that are needed after the initial submission.\n-Update the worksheet when deliverables are completed and annually, by the CSO's Annual Assessment due date.\n\nWhere to post this worksheet\n-For CSPs using Connect.gov: Post the completed worksheet in the top-level Continuous Monitoring directory. Coordinate with your POCs to ensure the document is posted to the customer-facing Continuous Monitoring directory (if applicable).\n-For CSPs that do not use Connect.gov and maintain their own document repository: Post the completed worksheet in the top-level customer-facing Continuous Monitoring directory.",
+    "FedRAMP® Continuous Monitoring\nDeliverables Template": "This template uses the term authorizing official (AO) to refer to each leveraging Agency’s AO.\n\nThis template summarizes what continuous monitoring (ConMon) deliverables must be submitted to the Cloud Service Offering (CSO) designated document repository for the AO's review. Cloud Service Providers (CSPs) must use this worksheet to document the schedule and location of CSO ConMon deliverables.\n\nInitial submission\n-CSPs in the continuous monitoring phase: Submit this completed worksheet as soon as possible (within a reasonable timeframe) and coordinate with your AO on the schedule for the initial submission.\n-CSPs pending authorization - Complete this worksheet within 10 business days from receipt of the authorization.\n\nMaintaining this worksheet\n-Coordinate with your AO(s) on any updates that are needed after the initial submission.\n-Update the worksheet when deliverables are completed and annually, by the CSO's Annual Assessment due date.\n\nWhere to post this worksheet\n-For CSPs using Connect.gov: Post the completed worksheet in the top-level Continuous Monitoring directory. Coordinate with your POCs to ensure the document is posted to the customer-facing Continuous Monitoring directory (if applicable).\n-For CSPs that do not use Connect.gov and maintain their own document repository: Post the completed worksheet in the top-level customer-facing Continuous Monitoring directory.",
+    "Col_7": "",
+    "_sheet": "FedRAMP-Continuous-Monitoring-Deliverables-Template-Instructions"
+  },
+  {
+    "Col_1": "",
+    "Col_2": "Record of Changes for Template",
+    "Col_3": "Record of Changes for Template",
+    "Col_4": "Record of Changes for Template",
+    "Col_5": "Record of Changes for Template",
+    "Col_6": "",
+    "Col_7": "",
+    "Col_8": "",
+    "Col_9": "",
+    "Col_10": "",
+    "Col_11": "",
+    "Col_12": "",
+    "Col_13": "",
+    "Col_14": "",
+    "Col_15": "",
+    "Col_16": "",
+    "Col_17": "",
+    "Col_18": "",
+    "Col_19": "",
+    "Col_20": "",
+    "Col_21": "",
+    "Col_22": "",
+    "Col_23": "",
+    "Col_24": "",
+    "Col_25": "",
+    "Col_26": "",
+    "_sheet": "FedRAMP-Continuous-Monitoring-Deliverables-Template-Record of Change"
+  },
+  {
+    "Col_1": "",
+    "Col_2": "Date",
+    "Col_3": "Description",
+    "Col_4": "Version",
+    "Col_5": "Author",
+    "Col_6": "",
+    "Col_7": "",
+    "Col_8": "",
+    "Col_9": "",
+    "Col_10": "",
+    "Col_11": "",
+    "Col_12": "",
+    "Col_13": "",
+    "Col_14": "",
+    "Col_15": "",
+    "Col_16": "",
+    "Col_17": "",
+    "Col_18": "",
+    "Col_19": "",
+    "Col_20": "",
+    "Col_21": "",
+    "Col_22": "",
+    "Col_23": "",
+    "Col_24": "",
+    "Col_25": "",
+    "Col_26": "",
+    "_sheet": "FedRAMP-Continuous-Monitoring-Deliverables-Template-Record of Change"
+  },
+  {
+    "Col_1": "",
+    "Col_2": "2024-02-15 00:00:00",
+    "Col_3": "Initial publication",
+    "Col_4": "1",
+    "Col_5": "FedRAMP",
+    "Col_6": "",
+    "Col_7": "",
+    "Col_8": "",
+    "Col_9": "",
+    "Col_10": "",
+    "Col_11": "",
+    "Col_12": "",
+    "Col_13": "",
+    "Col_14": "",
+    "Col_15": "",
+    "Col_16": "",
+    "Col_17": "",
+    "Col_18": "",
+    "Col_19": "",
+    "Col_20": "",
+    "Col_21": "",
+    "Col_22": "",
+    "Col_23": "",
+    "Col_24": "",
+    "Col_25": "",
+    "Col_26": "",
+    "_sheet": "FedRAMP-Continuous-Monitoring-Deliverables-Template-Record of Change"
+  },
+  {
+    "Col_1": "",
+    "Col_2": "2024-03-04 00:00:00",
+    "Col_3": "Added Instructions tab\n- Corrected issues with Service Model dropdown\n- Updated Frequency for \"Collaborative Continuous Monitoring (applicable to Agency Authorized CSPs only)\"\n- Updates to clarify Low and Li-SaaS requirements\n- Integrated CA-07 and CM-06 for configuration scanning. Updated both instances of \"Vulnerability Scanning\" to \"Vulnerability and Configuration Scanning\"\n- Updated \"Location of Deliverables\" into two columns for specifying JAB-Internal  and Customer-Facing locations.\n- Formatting updates\n- Added Security Alerts, Advisories, and Directives SI-05",
+    "Col_4": "2",
+    "Col_5": "FedRAMP",
+    "Col_6": "",
+    "Col_7": "",
+    "Col_8": "",
+    "Col_9": "",
+    "Col_10": "",
+    "Col_11": "",
+    "Col_12": "",
+    "Col_13": "",
+    "Col_14": "",
+    "Col_15": "",
+    "Col_16": "",
+    "Col_17": "",
+    "Col_18": "",
+    "Col_19": "",
+    "Col_20": "",
+    "Col_21": "",
+    "Col_22": "",
+    "Col_23": "",
+    "Col_24": "",
+    "Col_25": "",
+    "Col_26": "",
+    "_sheet": "FedRAMP-Continuous-Monitoring-Deliverables-Template-Record of Change"
+  },
+  {
+    "Col_1": "",
+    "Col_2": "2024-10-08 00:00:00",
+    "Col_3": "Updated to align with OMB Memo M-24-15 and remove JAB and PMO references",
+    "Col_4": "3",
+    "Col_5": "FedRAMP",
+    "Col_6": "",
+    "Col_7": "",
+    "Col_8": "",
+    "Col_9": "",
+    "Col_10": "",
+    "Col_11": "",
+    "Col_12": "",
+    "Col_13": "",
+    "Col_14": "",
+    "Col_15": "",
+    "Col_16": "",
+    "Col_17": "",
+    "Col_18": "",
+    "Col_19": "",
+    "Col_20": "",
+    "Col_21": "",
+    "Col_22": "",
+    "Col_23": "",
+    "Col_24": "",
+    "Col_25": "",
+    "Col_26": "",
+    "_sheet": "FedRAMP-Continuous-Monitoring-Deliverables-Template-Record of Change"
+  },
+  {
+    "Col_1": "",
+    "Col_2": "2024-12-04 00:00:00",
+    "Col_3": "Updated minor formatting",
+    "Col_4": "3.1",
+    "Col_5": "FedRAMP",
+    "Col_6": "",
+    "Col_7": "",
+    "Col_8": "",
+    "Col_9": "",
+    "Col_10": "",
+    "Col_11": "",
+    "Col_12": "",
+    "Col_13": "",
+    "Col_14": "",
+    "Col_15": "",
+    "Col_16": "",
+    "Col_17": "",
+    "Col_18": "",
+    "Col_19": "",
+    "Col_20": "",
+    "Col_21": "",
+    "Col_22": "",
+    "Col_23": "",
+    "Col_24": "",
+    "Col_25": "",
+    "Col_26": "",
+    "_sheet": "FedRAMP-Continuous-Monitoring-Deliverables-Template-Record of Change"
+  }
+]

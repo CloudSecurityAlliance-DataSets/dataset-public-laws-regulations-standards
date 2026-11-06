@@ -1,0 +1,50 @@
+[
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "HarmBench: A Standardized Evaluation Framework for Automated Red Teaming and",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Robust Refusal\n\nThe HarmBench Team\n\n![outline](images/harmbench_splash-1.png)"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "What is HarmBench?",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Automated red teaming holds substantial promise for uncovering and mitigating\nthe risks associated with the malicious use of large language models (LLMs),\nyet the field lacks a standardized evaluation framework to rigorously assess\nthese methods. To address this issue, we introduce HarmBench, a standardized\nevaluation framework for automated red teaming. We identify key considerations\npreviously unaccounted for in red teaming evaluations and systematically\ndesign HarmBench to meet these criteria. Using HarmBench, we conduct a large-\nscale comparison of red teaming methods and target LLMs and defenses, yielding\nnovel insights. We also introduce a highly efficient adversarial training\nmethod that greatly enhances LLM robustness across a wide range of attacks,\ndemonstrating how HarmBench enables codevelopment of attacks and defenses.\n\n`\n\n![outline](images/eval_pipeline-1.png)\n\nThere are two primary ways to use HarmBench: (1) evaluating red teaming\nmethods against a set of LLMs, and (2) evaluating LLMs against a set of red\nteaming methods. These use cases are both supported by the same evaluation\npipeline, illustrated above."
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "Citation:",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "@article{mazeika2024harmbench,\n\ntitle={HarmBench: A Standardized Evaluation Framework for Automated Red\nTeaming and Robust Refusal},\n\nauthor={Mantas Mazeika and Long Phan and Xuwang Yin and Andy Zou and Zifan\nWang and Norman Mu and Elham Sakhaee and Nathaniel Li and Steven Basart and Bo\nLi and David Forsyth and Dan Hendrycks},\n\nyear={2024},\n\neprint={2402.04249},\n\narchivePrefix={arXiv},\n\nprimaryClass={cs.LG}\n\n}\n\n---"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "About",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Robust Refusal\n\nThe HarmBench Team\n\n![outline](images/harmbench_splash-1.png)"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "What is HarmBench?",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Automated red teaming holds substantial promise for uncovering and mitigating\nthe risks associated with the malicious use of large language models (LLMs),\nyet the field lacks a standardized evaluation framework to rigorously assess\nthese methods. To address this issue, we introduce HarmBench, a standardized\nevaluation framework for automated red teaming. We identify key considerations\npreviously unaccounted for in red teaming evaluations and systematically\ndesign HarmBench to meet these criteria. Using HarmBench, we conduct a large-\nscale comparison of red teaming methods and target LLMs and defenses, yielding\nnovel insights. We also introduce a highly efficient adversarial training\nmethod that greatly enhances LLM robustness across a wide range of attacks,\ndemonstrating how HarmBench enables codevelopment of attacks and defenses.\n\n`\n\n![outline](images/eval_pipeline-1.png)\n\nThere are two primary ways to use HarmBench: (1) evaluating red teaming\nmethods against a set of LLMs, and (2) evaluating LLMs against a set of red\nteaming methods. These use cases are both supported by the same evaluation\npipeline, illustrated above."
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "Citation:",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "@article{mazeika2024harmbench,\n\ntitle={HarmBench: A Standardized Evaluation Framework for Automated Red\nTeaming and Robust Refusal},\n\nauthor={Mantas Mazeika and Long Phan and Xuwang Yin and Andy Zou and Zifan\nWang and Norman Mu and Elham Sakhaee and Nathaniel Li and Steven Basart and Bo\nLi and David Forsyth and Dan Hendrycks},\n\nyear={2024},\n\neprint={2402.04249},\n\narchivePrefix={arXiv},\n\nprimaryClass={cs.LG}\n\n}"
+  }
+]

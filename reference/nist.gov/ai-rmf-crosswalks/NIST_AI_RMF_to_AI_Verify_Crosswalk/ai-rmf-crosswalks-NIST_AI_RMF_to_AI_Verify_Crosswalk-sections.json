@@ -1,0 +1,442 @@
+[
+  {
+    "depth": 2,
+    "section_id": "GOVERN 1",
+    "section_name": "Policies, processes, procedures,",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "AI RMF 1.0: GOVERN 1: Policies, processes, procedures,\n\nAI Verify Testing Framework: Transparency 1.1.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "and practices across the organization related to",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF 1.0: and practices across the organization related to\n\nAI Verify Testing Framework: Reproducibility 3.2.1, 3.11.1, 3.14.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "the mapping, measuring, and managing of AI",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF 1.0: the mapping, measuring, and managing of AI\n\nAI Verify Testing Framework: Safety 4.1.1, 4.3.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "risks are in place, transparent, and implemented",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF 1.0: risks are in place, transparent, and implemented\n\nAI Verify Testing Framework: Security 5.4.1, 5.5, 5.7"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "effectively.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF 1.0: effectively.\n\nAI Verify Testing Framework: Robustness 6.1.1, 6.5"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Fairness 7.2, 7.7, 7.8",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI Verify Testing Framework: Fairness 7.2, 7.7, 7.8"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Data Governance 8.3.1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI Verify Testing Framework: Data Governance 8.3.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Human Agency and Oversight 10.1.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI Verify Testing Framework: Human Agency and Oversight 10.1.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Organisational Considerations 12.1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI Verify Testing Framework: Organisational Considerations 12.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 2",
+    "section_name": "Accountability structures are in",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "AI RMF 1.0: GOVERN 2: Accountability structures are in\n\nAI Verify Testing Framework: Security 5.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "place so that the appropriate teams and",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF 1.0: place so that the appropriate teams and\n\nAI Verify Testing Framework: Data Governance 8.1.1, 8.4"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "individuals are empowered, responsible, and",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF 1.0: individuals are empowered, responsible, and\n\nAI Verify Testing Framework: Accountability 9.1, 9.3.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "trained for mapping, measuring, and managing",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF 1.0: trained for mapping, measuring, and managing\n\nAI Verify Testing Framework: Human Agency and Oversight 10.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "AI risks.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF 1.0: AI risks."
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 3",
+    "section_name": "Workforce diversity, equity,",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "AI RMF 1.0: GOVERN 3: Workforce diversity, equity,\n\nAI Verify Testing Framework: Transparency 1.2.4"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "inclusion, and accessibility processes are",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF 1.0: inclusion, and accessibility processes are\n\nAI Verify Testing Framework: Reproducibility 3.3.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "prioritized in the mapping, measuring, and",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF 1.0: prioritized in the mapping, measuring, and\n\nAI Verify Testing Framework: Safety 4.4"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "managing of AI risks throughout the lifecycle.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF 1.0: managing of AI risks throughout the lifecycle.\n\nAI Verify Testing Framework: Robustness 6.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Fairness 7.2, 7.4.2, 7.6, 7.9",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI Verify Testing Framework: Fairness 7.2, 7.4.2, 7.6, 7.9"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Accountability 9.1.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI Verify Testing Framework: Accountability 9.1.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Human Agency and Oversight 10.2.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI Verify Testing Framework: Human Agency and Oversight 10.2.3"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Inclusive growth, Societal & Environmental",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI Verify Testing Framework: Inclusive growth, Societal & Environmental"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Well-being 11.1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI Verify Testing Framework: Well-being 11.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 4",
+    "section_name": "Organizational teams are",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "AI RMF 1.0: GOVERN 4: Organizational teams are\n\nAI Verify Testing Framework: Transparency 1.1-1.3"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "committed to a culture that\nconsiders and",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF 1.0: committed to a culture that\nconsiders and\n\nAI Verify Testing Framework: Safety 4.1-\n4.6"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "communicates AI risk.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF 1.0: communicates AI risk.\n\nAI Verify Testing Framework: Fairness 7.1 -\n7.9"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Accountability 9.1.1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI Verify Testing Framework: Accountability 9.1.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 5",
+    "section_name": "Processes are in place for robust",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "AI RMF 1.0: GOVERN 5: Processes are in place for robust\n\nAI Verify Testing Framework: Transparency 1.2.4"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "engagement with relevant AI actors.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF 1.0: engagement with relevant AI actors.\n\nAI Verify Testing Framework: Safety 4.5.4"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Robustness 6.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI Verify Testing Framework: Robustness 6.3"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Data Governance 8.3.1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI Verify Testing Framework: Data Governance 8.3.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Fairness 7.2, 7.7, 7.4.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI Verify Testing Framework: Fairness 7.2, 7.7, 7.4.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Accountability 9.1.1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI Verify Testing Framework: Accountability 9.1.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Inclusive growth, Societal & Environmental",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI Verify Testing Framework: Inclusive growth, Societal & Environmental"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Well-being 11.1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI Verify Testing Framework: Well-being 11.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 6",
+    "section_name": "Policies and procedures are",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "AI RMF 1.0: GOVERN 6: Policies and procedures are\n\nAI Verify Testing Framework: Transparency 1.1.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "in place to address AI risks and benefits",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF 1.0: in place to address AI risks and benefits\n\nAI Verify Testing Framework: Reproducibility 3.13"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "arising from third-party software and data and",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF 1.0: arising from third-party software and data and\n\nAI Verify Testing Framework: Safety 4.4, 4.5"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "other supply chain issues.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF 1.0: other supply chain issues.\n\nAI Verify Testing Framework: Data Governance 8.1 -\n8.4"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Accountability 9.5",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI Verify Testing Framework: Accountability 9.5"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 1",
+    "section_name": "Context is established and understood.",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "AI RMF 1.0: MAP 1:\nContext is established and understood.\n\nAI Verify Testing Framework: Transparency 1.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Safety 4.1 -\n4.6",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI Verify Testing Framework: Safety 4.1 -\n4.6"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Robustness 6.1 -\n6.5\nFairness 7.3\nAccountability 9.1\nInclusive growth, Societal & Environmental\nWell-being 11.1\nOrganisa",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI Verify Testing Framework: Robustness 6.1 -\n6.5\nFairness 7.3\nAccountability 9.1\nInclusive growth, Societal & Environmental\nWell-being 11.1\nOrganisational Considerations 12.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "MAP 2: Categorization of the AI system is\nperformed.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF 1.0: MAP 2: Categorization of the AI system is\nperformed.\n\nAI Verify Testing Framework: Transparency 1.1-1.3\nExplainability 2.1\nReproducibility 3.1 -\n3.14\nHuman Agency & Oversight 10.5\nOrganisational Considerations 12.3"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "MAP 3:\nAI capabilities, targeted usage, goals,\nand expected benefits and costs compared with\nappropriate benchmarks are",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF 1.0: MAP 3:\nAI capabilities, targeted usage, goals,\nand expected benefits and costs compared with\nappropriate benchmarks are understood.\n\nAI Verify Testing Framework: Transparency 1.1-1.3\nReproducibility 3.1 -\n3.14\nSecurity 5.1\nData Governance 8.4\nAccountability 9.1\nHuman Agency and Oversight 10.1-10.5"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "MAP 4: Risks and benefits are mapped for all\ncomponents of the AI system including third\nparty software and data.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF 1.0: MAP 4: Risks and benefits are mapped for all\ncomponents of the AI system including third\nparty software and data.\n\nAI Verify Testing Framework: Reproducibility 3.13\nSafety 4.1-\n4.6\nData Governance 8.1 -\n8.4\nAccountability 9.5"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "MAP 5:\nImpacts to individuals, groups,\ncommunities, organizations, and society are\ncharacterized.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF 1.0: MAP 5:\nImpacts to individuals, groups,\ncommunities, organizations, and society are\ncharacterized.\n\nAI Verify Testing Framework: Transparency 1.2.4\nSafety 4.1-4.3\nFairness 7.4.2\nHuman Agency & Oversight 10.4, 10.5\nInclusive growth, Societal & Environmental\nWell-being 11.1\nOrganisational Considerations 12.4"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "MEASURE 1: Appropriate methods and\nmetrics are identified and applied.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF 1.0: MEASURE 1: Appropriate methods and\nmetrics are identified and applied.\n\nAI Verify Testing Framework: Transparency 1.2.4\nSafety 4.1-\n4.6\nFairness 7.3, 7.4\nAccountability 9.4\nHuman Agency & Oversight 10.4.1\nInclusive growth, Societal & Environmental\nWell-being 11.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "MEASURE 2:\nAI systems are evaluated for\ntrustworthy characteristics.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF 1.0: MEASURE 2:\nAI systems are evaluated for\ntrustworthy characteristics.\n\nAI Verify Testing Framework: Transparency 1.2\nExplainability 2.1\nReproducibility 3.11, 3.14\nSafety 4.2, 4.3, 4.5, 4.6\nSecurity 5.5\nRobustness 6.1, 6.2, 6.3, 6.5\nFairness 7.2, 7.4.2, 7.6, 7.7, 7.8, 7.9\nData Governance 8.1-8.4\nAccountability 9.1-9.5\nHuman Agency and Oversight 10.1.2\nInclusive growth, Societal & Environmental\nWell-being 11.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "MEASURE 3:\nMechanisms for tracking\nidentified AI risks over time are in place.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF 1.0: MEASURE 3:\nMechanisms for tracking\nidentified AI risks over time are in place.\n\nAI Verify Testing Framework: Reproducibility 3.11, 3.14\nSafety 4.3, 4.6\nSecurity 5.3 -\n5.7\nRobustness 6.1 -\n6.5\nFairness 7.2, 7.7, 7.8\nAccountability 9.1.2, 9.1.3\nHuman Agency & Oversight 10.4.1\nOrganisational Considerations 12.5"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "MEASURE 4:\nFeedback about efficacy of\nmeasurement is gathered and assessed.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF 1.0: MEASURE 4:\nFeedback about efficacy of\nmeasurement is gathered and assessed.\n\nAI Verify Testing Framework: Transparency 1.2.4\nAccountability 9.1.2, 9.4\nFairness 7.2\nAccountability 9.1.2\nHuman Agency and Oversight 10.1, 10.3, 10.5\nInclusive growth, Societal & Environmental\nWell-being 11.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "MANAGE\n1:\nAI risks based on assessments\nand other analytical output from the MAP and\nMEASURE functions are prioritized,",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF 1.0: MANAGE\n1:\nAI risks based on assessments\nand other analytical output from the MAP and\nMEASURE functions are prioritized, responded\nto, and managed.\n\nAI Verify Testing Framework: Safety 4.1, 4.2, 4.3, 4.6\nFairness 7.1 -\n7.9\nAccountability 9.1\nHuman Agency & Oversight 10.5"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "MANAGE 2:\nStrategies to maximize AI\nbenefits and minimize negative impacts are\nplanned, prepared, implemented, documente",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF 1.0: MANAGE 2:\nStrategies to maximize AI\nbenefits and minimize negative impacts are\nplanned, prepared, implemented, documented,\nand informed by input from relevant AI actors.\n\nAI Verify Testing Framework: Reproducibility 3.14\nSafety 4.3, 4.5\nSecurity 5.5\nRobustness 6.5\nFairness 7.2, 7.7, 7.8\nHuman Agency and Oversight 10.2\nOrganisational\nConsiderations 12.6"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "MANAGE 3:\nAI risks and benefits from third\nparty entities are managed.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF 1.0: MANAGE 3:\nAI risks and benefits from third\nparty entities are managed.\n\nAI Verify Testing Framework: Transparency 1.1\nReproducibility 3.13\nData governance 8.1 -\n8.3\nAccountability 9.5"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "MANAGE 4:\nRisk treatments, including\nresponse and recovery, and communication\nplans for the identified and measured AI r",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF 1.0: MANAGE 4:\nRisk treatments, including\nresponse and recovery, and communication\nplans for the identified and measured AI risks\nare documented and monitored regularly.\n\nAI Verify Testing Framework: Transparency 1.2.4\nReproducibility 3.14\nSafety 4.3, 4.5\nSecurity 5.5, 5.7\nRobustness 6.1 -\n6.5\nFairness 7.2, 7.7\nAccountability 9.4\nHuman Agency & Oversight 10.4, 10.5\nInclusive growth, Societal & Environmental\nWell-being 11.1"
+  }
+]

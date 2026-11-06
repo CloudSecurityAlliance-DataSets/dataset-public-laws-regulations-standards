@@ -20,14 +20,14 @@ FedRAMP® High Readiness Assessment Report (RAR) Template
 
 <a id="Date"></a><MM/DD/YYYY>
 
-**Company Sensitive and Proprietary  
+**Company Sensitive and Proprietary
 For Authorized Use Only**
 
 **IMPORTANT: **This FedRAMP Readiness Assessment Report (RAR) template is intended for systems categorized at the High security impact level, in accordance with the Federal Information Processing Standards (FIPS) Publication 199 security categorization. A RAR template for Moderate systems is available on the FedRAMP web site. RARs do not apply to Low and LI-SaaS systems.** **
 
 CSPs are urged to use the RAR template to do an honest self-assessment, prior to engaging with a FedRAMP 3PAO.
 
-**FedRAMP Ready status is valid for one calendar year after designation from the FedRAMP PMO.**
+## FedRAMP Ready status is valid for one calendar year after designation from the FedRAMP PMO.
 
 # <a id="_Toc167844779"></a>THIRD PARTY ASSESSMENT ORGANIZATION (3PAO) ATTESTATION
 
@@ -67,19 +67,19 @@ Delete instruction text after completion.
 
 System Information
 
-**CSP Name:**
+## CSP Name:
 
-**CSO Name (and Abbreviation):**
+## CSO Name (and Abbreviation):
 
-**FedRAMP Unique Identifier:**
+## FedRAMP Unique Identifier:
 
-**Service Model: **
+## Service Model:
 
 (IaaS, PaaS, SaaS)
 
-**FIPS PUB 199 System Security Level: (High)**
+## FIPS PUB 199 System Security Level: (High)
 
-**Digital Identity Determination Level:**
+## Digital Identity Determination Level:
 
 (IAL2/FAL2/AAL2, IAL3/FAL3/AAL3)
 
@@ -87,15 +87,15 @@ System Information
 
 Enter the date the system became fully operational.
 
-**Number of Customers (US Federal/Others):**
+## Number of Customers (US Federal/Others):
 
 Enter \# of US Federal customers / \# of other customers.
 
-**Deployment Model:**
+## Deployment Model:
 
 Public Cloud, Government-Only Cloud, Hybrid Cloud
 
-**System Functionality:**
+## System Functionality:
 
 Briefly describe the functionality of the system and service being provided. This narrative also includes the list of services available for purchase by the USG Agencies. It is important for Agencies to understand how much of the CSO is included in the FedRAMP authorization.
 
@@ -103,13 +103,13 @@ Briefly describe the functionality of the system and service being provided. Thi
 
 TEMPLATE REVISION HISTORY
 
-**Date**
+## Date
 
-**Description**
+## Description
 
-**Template Version**
+## Template Version
 
-**Author**
+## Author
 
 04/26/2017
 
@@ -658,7 +658,7 @@ Cryptographic Module Type
 
 FIPS 140-2 or 140-3 Validated?
 
-Describe Any Alternative Implementations  
+Describe Any Alternative Implementations
 (If Applicable)
 
 Describe Missing Elements or N/A Justification

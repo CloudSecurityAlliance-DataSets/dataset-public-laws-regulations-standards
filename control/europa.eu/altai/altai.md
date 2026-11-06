@@ -130,7 +130,7 @@ intelligence](/en/related-content?topic=119)
 
 [Shaping Europe’s digital future](https://digital-strategy.ec.europa.eu/en)
 
-This site is managed by:  
+This site is managed by:
 Directorate-General for Communications Networks, Content and Technology
 
   * [Digital EU on LinkedIn](https://www.linkedin.com/showcase/digital-eu/)
@@ -171,4 +171,3 @@ Follow the European Commission
   * [Privacy policy](https://commission.europa.eu/privacy-policy-websites-managed-european-commission_en)
   * [Legal notice](https://commission.europa.eu/legal-notice_en)
   * [Accessibility](/en/pages/accessibility)
-

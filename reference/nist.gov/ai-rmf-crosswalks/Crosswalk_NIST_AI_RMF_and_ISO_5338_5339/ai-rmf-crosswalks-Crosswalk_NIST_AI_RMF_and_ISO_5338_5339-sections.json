@@ -1,0 +1,114 @@
+[
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "\"AI risk management is a key\ncomponent of responsible\ndevelopment and use of AI systems.\nResponsible AI practices can he",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: \"AI risk management is a key\ncomponent of responsible\ndevelopment and use of AI systems.\nResponsible AI practices can help align\nthe decisions about AI system design,\ndevelopment, and uses with intended\naim and values. Core concepts in\nresponsible AI emphasize human\ncentricity, social responsibility, and\nsustainability. AI risk management can\ndrive responsible uses and practices by\nprompting organizations and their\ninternal teams who design, develop,\nand deploy AI to think more critically\nabout context and potential or\nunexpected negative and positive\nimpacts. Understanding and managing\nthe risks of AI systems will help to\nenhance trustworthiness, and in turn,\ncultivate public trust.\" ([1] page 1)."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "AI RMF\n–\nCharacteristics of",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: AI RMF\n–\nCharacteristics of\n\nISO/IEC 5339: ISO/IEC 5339\n-\nTrustworthiness (5.5.2)"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Trustworthy AI Systems\n(Section 3)",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: Trustworthy AI Systems\n(Section 3)\n\nISO/IEC 5339: (mostly derived from ISO/IEC 24028 [5])"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Valid and Reliable",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: Valid and Reliable\n\nISO/IEC 5339: 5.5.2.9, 5.5.2.3,\n5.5.2.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Safe",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: Safe\n\nISO/IEC 5339: –"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Secure\nand Resilient",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: Secure\nand Resilient\n\nISO/IEC 5339: 5.5.2.4"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Accountable\nand Transparent",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: Accountable\nand Transparent\n\nISO/IEC 5339: 5.5.2.8"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Explainable\nand Interpretable",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: Explainable\nand Interpretable\n\nISO/IEC 5339: 5.5.2.6"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Privacy-Enhanced",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: Privacy-Enhanced\n\nISO/IEC 5339: –"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Fair -\nwith Harmful Bias Managed",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: Fair -\nwith Harmful Bias Managed\n\nISO/IEC 5339: 5.5.2.10"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "–",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: –\n\nISO/IEC 5339: Controllability (5.5.2.7)"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "–",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: –\n\nISO/IEC 5339: Predictability (5.5.2.7)"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "–",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: –\n\nISO/IEC 5339: Dependable\n(5.5.2.1)"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Table 1. Comparison of Trustworthiness",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: Table 1. Comparison of Trustworthiness\n\ncol_3: Characteristics\n\ncol_4: from [1] and [3]"
+  }
+]

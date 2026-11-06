@@ -1,0 +1,82 @@
+[
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "STAR for AI Level 1 Submission Guide",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "```\nSubmit Self-Assessments to the STAR Registry\n```\n\nThese are the detailed instructions on **how to submit your STAR for AI Level 1 [Self-Assessment](https://cloudsecurityalliance.org/artifacts/ai-controls-matrix-v1-1) to the STAR Registry**. Note that this process is the same as the one used for the traditional cloud version of STAR Level 1.\n\nNote that advanced Level 1 processing can be attained through our [Valid-AI-ted](https://cloudsecurityalliance.org/artifacts/overview-of-csa-star-level-1-valid-ai-ted) service. Valid-AI-ted is available at no extra cost to CSA [Members.](https://cloudsecurityalliance.org/membership)"
+  },
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "Step 1: Prepare Your Submission",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "Create an Account",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "First, you will want to make sure that you have **created an account on the STAR [platform](https://star.watch/en/).**\n\nIf you create an account using the email and password option, be sure to use your work email that aligns with the organization's domain. If you signed up using an email and password, you will also need to **find the confirmation email from support@auth0.cloudsecurityalliance.org**. If your confirmation email doesn't arrive within 30 minutes, check your spam folder first, then reach out to [support@cloudsecurityalliance.org](mailto:support@cloudsecurityalliance.org)."
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "Gather Your Submission Information",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Next, **ensure that you have the correct information collected.** The following fields will be required:\n\n- Backup PoC\n- Backup PoC Email\n- Region\n\n![](_page_1_Picture_0.jpeg)\n\n![](_page_1_Picture_1.jpeg)\n\n- Organization Name, URL, and Description\n- Service Name, URL, and Description (\"Service\" refers to the service provided to the end users)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Fill Out the AI-CAIQ",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "It is required to **prepare the [self-assessment](https://cloudsecurityalliance.org/artifacts/filling-in-the-ai-caiq) information beforehand by completing the downloadable AI-CAIQ v1.0.2 or later**.\n\nThe AI-CAIQ **must be prepared and submitted in the original CSA format**. This means that:\n\n- No columns, rows, or sheets should be added or removed.\n- All fields in the **Service Provider AI-CAIQ Answer** and **SSRM Control Ownership** columns must be filled out. If a control is not marked as NA, the SSRM control ownership is usually ND (Not Determined)."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Step 2: Fill Out the STAR Submission Form",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Submit your completed AI-CAIQ v1.0.2 using the STAR [Submission](https://star.watch/en/star_submissions/new) Form. Complete the form with your information:\n\n- From the **Type of Registry Entry** dropdown, select **Self-assessment**.\n- Under **Specification**, select **AI-CAIQ**.\n- Attach your completed AI-CAIQ document (**.xlsx**) as the primary file for your submission."
+  },
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "Step 3: Confirm Your Submission",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "After submitting the form, you'll receive a confirmation email from **noreply@info.cloudsecurityalliance.org**. Click the link in the message to confirm your submission.\n\nIf you don't receive it within 30 minutes, check your spam folder first. If it's still missing, contact [support@cloudsecurityalliance.org](mailto:support@cloudsecurityalliance.org) or use the Support button on the lower right of the page."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Step 4: Select Your Organization",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "On the confirmation page, **choose your organization from the dropdown menu**. If this is your first submission and your organization doesn't appear, click **Create New Organization**.\n\n**Pro Tip:** Check carefully before creating a new listing—duplicate organizations cause delays. Names appear exactly as submitted, so use consistent spelling and formatting. To update existing organization details, contact [support@cloudsecurityalliance.org](mailto:support@cloudsecurityalliance.org).\n\n![](_page_2_Picture_0.jpeg)\n\n![](_page_2_Picture_1.jpeg)"
+  },
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "Step 5: Select Your Cloud Service",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Next, **select your Cloud Service from the dropdown list**. If it's not listed, click **Create New Cloud Service** and enter the information exactly as it appears to your customers.\n\n**Pro Tip:** Check for your service carefully before creating a new entry to avoid duplicates. If you need to update your existing Cloud Service details, reach out to [support@cloudsecurityalliance.org](mailto:support@cloudsecurityalliance.org)."
+  },
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "Step 6: Wait for Your STAR Registry Listing",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Once confirmed, your AI-CAIQ self-assessment is typically posted within one business day, though manual reviews can take **up to five business days**.\n\n*If you have any questions about this process, please contact [support@cloudsecurityalliance.org.](mailto:support@cloudsecurityalliance.org)*"
+  }
+]

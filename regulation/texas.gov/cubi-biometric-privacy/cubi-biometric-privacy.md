@@ -1,8 +1,8 @@
 [![Image of the Texas State Capitol. Click to return to the Texas Constitution
 and Statutes Homepage](/assets/images/capitolLarge.jpg)](/)[
 
-  * Texas Constitution 
-  * and Statutes 
+  * Texas Constitution
+  * and Statutes
 
 ](/)[ Skip To Main Content ](/#main-content)
 
@@ -22,7 +22,7 @@ Find Statute
 
 Search
 
-  
+
 
 Code:
 
@@ -164,4 +164,3 @@ Water Code
 chevron_right
 
 Vernon's Civil Statutes
-

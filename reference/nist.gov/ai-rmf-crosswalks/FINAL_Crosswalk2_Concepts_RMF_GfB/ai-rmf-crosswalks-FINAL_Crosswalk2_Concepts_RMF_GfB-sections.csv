@@ -1,0 +1,1347 @@
+"depth","section_id","section_name","id_kind","parent_id","body"
+"2","","NIST AI RMF
+References","","","Topic: NIST AI RMF
+References
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: NIST AI RMF subcategories linked to each topic by the Playbook"
+"2","","Japan AI GfB
+References","","","Topic: Japan AI GfB
+References
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Japan AI GfB sections (including appendices4
+) identified by Japan as
+addressing the topic"
+"2","","Notable
+Similarities &
+DiƯerences","","","Topic: Notable
+Similarities &
+DiƯerences
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Observations on how the NIST AI RMF and the Japan AI GfB align or diƯer on
+the treatment of each topic5"
+"2","","NIST AI RMF 1.0","","","Topic: NIST AI RMF 1.0
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Topic
+
+Column 3: Japan AI GfB
+
+Column 4: Notable Similarities &"
+"2","","References","","","Topic: References
+
+Column 3: References
+
+Column 4: Differences"
+"2","GOVERN 1.2","GOVERN 1.2","numbered","","Topic: Govern 1.2
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Accountability
+
+Column 3: Main:
+
+Column 4: No differences noted."
+"2","MAP 1.1","MAP 1.1","numbered","","Topic: Map 1.1
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: and Transparency
+
+Column 3: Part 2.C.6"
+"2","MAP 3.2","MAP 3.2","numbered","","Topic: Map 3.2
+
+Column 3: Part 2.C.7"
+"2","MEASURE 1.1","MEASURE 1.1","numbered","","Topic: Measure 1.1
+
+Column 3: Part 2.D.III"
+"2","MEASURE 2.8","MEASURE 2.8","numbered","","Topic: Measure 2.8
+
+Column 3: Part 2.D.XI"
+"2","MEASURE 4.2","MEASURE 4.2","numbered","","Topic: Measure 4.2
+
+Column 3: Part 2.E.3"
+"2","MEASURE 4.3","MEASURE 4.3","numbered","","Topic: Measure 4.3"
+"2","","Appendix:","","","Column 3: Appendix:"
+"2","","Appendix 2.A.1-1","","","Column 3: Appendix 2.A.1-1"
+"2","","Appendix 2.A.3-4-1","","","Column 3: Appendix 2.A.3-4-1"
+"2","","Appendix 2.A.4-1","","","Column 3: Appendix 2.A.4-1"
+"2","","Appendix 2.A.4-3","","","Column 3: Appendix 2.A.4-3"
+"2","","Appendix 3.A.D-2.ii","","","Column 3: Appendix 3.A.D-2.ii"
+"2","","Appendix 3.A.D-6.i","","","Column 3: Appendix 3.A.D-6.i"
+"2","","Appendix 3.A.D-6.ii","","","Column 3: Appendix 3.A.D-6.ii"
+"2","","Appendix 3.A.D-7.i","","","Column 3: Appendix 3.A.D-7.i"
+"2","","Appendix 3.A.D-7.ii","","","Column 3: Appendix 3.A.D-7.ii"
+"2","","Appendix 3.B.1","","","Column 3: Appendix 3.B.1"
+"2","","Appendix 3.B.6","","","Column 3: Appendix 3.B.6"
+"2","","Appendix 3.B.7","","","Column 3: Appendix 3.B.7"
+"2","","Appendix 3.C.I","","","Column 3: Appendix 3.C.I"
+"2","","Appendix 3.C.III","","","Column 3: Appendix 3.C.III"
+"2","","Appendix 3.C.IV","","","Column 3: Appendix 3.C.IV"
+"2","","Appendix 3.C.XI","","","Column 3: Appendix 3.C.XI"
+"2","","Appendix 4.A.P-4.i","","","Column 3: Appendix 4.A.P-4.i"
+"2","","Appendix 4.A.P-7.i","","","Column 3: Appendix 4.A.P-7.i"
+"2","","Appendix 4.B.6","","","Column 3: Appendix 4.B.6"
+"2","","Appendix 6.3","","","Column 3: Appendix 6.3"
+"2","GOVERN 4.1","GOVERN 4.1","numbered","","Topic: Govern 4.1
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Adversarial
+
+Column 3: Appendix:
+
+Column 4: Both the NIST AI RMF and the"
+"2","MANAGE 4.1","MANAGE 4.1","numbered","","Topic: Manage 4.1
+
+Column 3: Appendix 4.A.P-5.ii
+
+Column 4: Japan AI GfB highlight the"
+"2","MEASURE 2.7","MEASURE 2.7","numbered","","Topic: Measure 2.7
+
+Column 3: Appendix 5.A.U-5.i
+
+Column 4: significance of considering"
+"2","","adversarial attacks as a","","","Column 4: adversarial attacks as a"
+"2","","potential risk to AI system","","","Column 4: potential risk to AI system"
+"2","","vulnerabilities. In addition, the","","","Column 4: vulnerabilities. In addition, the"
+"2","","NIST AI RMF emphasizes the","","","Column 4: NIST AI RMF emphasizes the"
+"2","","importance of adversarial","","","Column 4: importance of adversarial"
+"2","","testing by red teaming as a","","","Column 4: testing by red teaming as a"
+"2","","suggested approach for risk","","","Column 4: suggested approach for risk"
+"2","","management.","","","Column 4: management."
+"2","","NIST AI RMF 1.0","","","Topic: NIST AI RMF 1.0
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Topic
+
+Column 3: Japan AI GfB
+
+Column 4: Notable Similarities &"
+"2","","References","","","Topic: References
+
+Column 3: References
+
+Column 4: Differences"
+"2","MANAGE 1.1","MANAGE 1.1","numbered","","Topic: Manage 1.1
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: AI Deployment
+
+Column 3: Main:
+
+Column 4: Both the NIST AI RMF and the"
+"2","MANAGE 2.2","MANAGE 2.2","numbered","","Topic: Manage 2.2
+
+Column 3: Part 2.D.I
+
+Column 4: Japan AI GfB emphasize the"
+"2","MANAGE 4.1","MANAGE 4.1","numbered","","Topic: Manage 4.1
+
+Column 3: Part 2.D.II
+
+Column 4: importance of regular"
+"2","","monitoring and mechanisms","","","Column 4: monitoring and mechanisms"
+"2","","Appendix:","","","Column 3: Appendix:
+
+Column 4: to sustain the value of AI"
+"2","","Appendix 3.A.D-2.i","","","Column 3: Appendix 3.A.D-2.i
+
+Column 4: systems post-deployment. In"
+"2","","Appendix 3.A.D-2.ii","","","Column 3: Appendix 3.A.D-2.ii
+
+Column 4: addition, the Japan AI GfB"
+"2","","Appendix 3.A.D-5.i","","","Column 3: Appendix 3.A.D-5.i
+
+Column 4: suggests incentives for"
+"2","","Appendix 3.A.D-5.ii","","","Column 3: Appendix 3.A.D-5.ii
+
+Column 4: reporting post-deployment"
+"2","","Appendix 3.A.D-6.ii","","","Column 3: Appendix 3.A.D-6.ii
+
+Column 4: issues."
+"2","GOVERN 4.3","GOVERN 4.3","numbered","","Topic: Govern 4.3
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: AI Incidents
+
+Column 3: Main:
+
+Column 4: No differences noted."
+"2","MANAGE 4.1","MANAGE 4.1","numbered","","Topic: Manage 4.1
+
+Column 3: Part 2.D.II"
+"2","MANAGE 4.3","MANAGE 4.3","numbered","","Topic: Manage 4.3
+
+Column 3: Part 2.D.IV"
+"2","","Appendix:","","","Column 3: Appendix:"
+"2","","Appendix 2.A.1-1","","","Column 3: Appendix 2.A.1-1"
+"2","","Appendix 2.A.1-2","","","Column 3: Appendix 2.A.1-2"
+"2","","Appendix 2.A.2-1","","","Column 3: Appendix 2.A.2-1"
+"2","","Appendix 2.A.3-1","","","Column 3: Appendix 2.A.3-1"
+"2","","Appendix 2.A.3-2","","","Column 3: Appendix 2.A.3-2"
+"2","","Appendix 2.A.3-3-2","","","Column 3: Appendix 2.A.3-3-2"
+"2","","Appendix 2.A.3-4","","","Column 3: Appendix 2.A.3-4"
+"2","","Appendix 2.A.3-4-2","","","Column 3: Appendix 2.A.3-4-2"
+"2","","Appendix 2.A.4-1","","","Column 3: Appendix 2.A.4-1"
+"2","","Appendix 2.A.5-1","","","Column 3: Appendix 2.A.5-1"
+"2","","Appendix 2.A.6-1","","","Column 3: Appendix 2.A.6-1"
+"2","","Appendix 3.A.D-2.iii","","","Column 3: Appendix 3.A.D-2.iii"
+"2","","Appendix 3.A.D-5.i
+Appendix 3.A.D-5.ii","","","Column 3: Appendix 3.A.D-5.i
+Appendix 3.A.D-5.ii"
+"2","","Appendix 3.A.D-6.ii","","","Column 3: Appendix 3.A.D-6.ii"
+"2","","Appendix 3.A.D-7.ii","","","Column 3: Appendix 3.A.D-7.ii"
+"2","","Appendix 4.A.P-2.i","","","Column 3: Appendix 4.A.P-2.i"
+"2","","Appendix 4.A.P-2.ii","","","Column 3: Appendix 4.A.P-2.ii"
+"2","","Appendix 4.A.P-6.i","","","Column 3: Appendix 4.A.P-6.i"
+"2","","Appendix 4.A.P-5.ii","","","Column 3: Appendix 4.A.P-5.ii"
+"2","","Appendix 4.A.P-6.ii","","","Column 3: Appendix 4.A.P-6.ii"
+"2","","Appendix 4.A.P-7.ii","","","Column 3: Appendix 4.A.P-7.ii"
+"2","","Appendix 4.B.2","","","Column 3: Appendix 4.B.2"
+"2","","Appendix 5.A.U-2.i","","","Column 3: Appendix 5.A.U-2.i"
+"2","","NIST AI RMF 1.0","","","Topic: NIST AI RMF 1.0
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Topic
+
+Column 3: Japan AI GfB
+
+Column 4: Notable Similarities &"
+"2","","References","","","Topic: References
+
+Column 3: References
+
+Column 4: Differences"
+"2","MEASURE 3.3","MEASURE 3.3","numbered","","Topic: Measure 3.3
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Contestability
+
+Column 3: Main:
+
+Column 4: No differences noted."
+"2","","Part 2.C.6","","","Column 3: Part 2.C.6"
+"2","","Appendix:","","","Column 3: Appendix:"
+"2","","Appendix 2.A.1-2","","","Column 3: Appendix 2.A.1-2"
+"2","","Appendix 2.A.3-1","","","Column 3: Appendix 2.A.3-1"
+"2","","Appendix 2.A.3-3-1","","","Column 3: Appendix 2.A.3-3-1"
+"2","","Appendix 2.A.3-3-2","","","Column 3: Appendix 2.A.3-3-2"
+"2","","Appendix 2.A.3-4-1","","","Column 3: Appendix 2.A.3-4-1"
+"2","","Appendix 2.A.5-2","","","Column 3: Appendix 2.A.5-2"
+"2","","Appendix 2.A.6-1","","","Column 3: Appendix 2.A.6-1"
+"2","","Appendix 3.A.D-6.ii","","","Column 3: Appendix 3.A.D-6.ii"
+"2","","Appendix 3.B.7","","","Column 3: Appendix 3.B.7"
+"2","","Appendix 4.B.6","","","Column 3: Appendix 4.B.6"
+"2","MAP 1.1","MAP 1.1","numbered","","Topic: Map 1.1
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Context of Use
+
+Column 3: Main:
+
+Column 4: No differences noted."
+"2","MAP 1.4","MAP 1.4","numbered","","Topic: Map 1.4
+
+Column 3: Part 2.C.1"
+"2","MAP 3.3","MAP 3.3","numbered","","Topic: Map 3.3
+
+Column 3: Part 2.D.II"
+"2","MEASURE 1.2","MEASURE 1.2","numbered","","Topic: Measure 1.2"
+"2","MEASURE 1.3","MEASURE 1.3","numbered","","Topic: Measure 1.3
+
+Column 3: Appendix:"
+"2","MEASURE 2.6","MEASURE 2.6","numbered","","Topic: Measure 2.6
+
+Column 3: Appendix 3.A.D-3.ii"
+"2","MEASURE 4.1","MEASURE 4.1","numbered","","Topic: Measure 4.1
+
+Column 3: Appendix 3.A.D-7.ii"
+"2","","Appendix 3.B.1","","","Column 3: Appendix 3.B.1"
+"2","","Appendix 3.B.6","","","Column 3: Appendix 3.B.6"
+"2","","Appendix 4.A.P-6.ii","","","Column 3: Appendix 4.A.P-6.ii"
+"2","","Appendix 4.B.1","","","Column 3: Appendix 4.B.1"
+"2","","Appendix 4.B.6","","","Column 3: Appendix 4.B.6"
+"2","","Appendix 5.A.U-2.i","","","Column 3: Appendix 5.A.U-2.i"
+"2","","Appendix 5.A.U-3.i","","","Column 3: Appendix 5.A.U-3.i"
+"2","","Appendix 5.A.U-6.i","","","Column 3: Appendix 5.A.U-6.i"
+"2","MEASURE 3.1","MEASURE 3.1","numbered","","Topic: Measure 3.1
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Continual
+
+Column 3: Main:
+
+Column 4: No differences noted."
+"2","MEASURE 3.2","MEASURE 3.2","numbered","","Topic: Measure 3.2
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Improvement
+
+Column 3: Part 2.E.4"
+"2","","Appendix:","","","Column 3: Appendix:"
+"2","","Appendix 2.A.3-1","","","Column 3: Appendix 2.A.3-1"
+"2","","Appendix 2.A.5-1","","","Column 3: Appendix 2.A.5-1"
+"2","","NIST AI RMF 1.0","","","Topic: NIST AI RMF 1.0
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Topic
+
+Column 3: Japan AI GfB
+
+Column 4: Notable Similarities &"
+"2","","References","","","Topic: References
+
+Column 3: References
+
+Column 4: Differences"
+"2","GOVERN 1.5","GOVERN 1.5","numbered","","Topic: Govern 1.5
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Continuous
+
+Column 3: Main:
+
+Column 4: No differences noted."
+"2","MANAGE 3.2","MANAGE 3.2","numbered","","Topic: Manage 3.2
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Monitoring
+
+Column 3: Part 2.C.2"
+"2","MANAGE 4.1","MANAGE 4.1","numbered","","Topic: Manage 4.1
+
+Column 3: Part 2.D.II"
+"2","MANAGE 4.2","MANAGE 4.2","numbered","","Topic: Manage 4.2
+
+Column 3: Part 2.D.IV"
+"2","MANAGE 4.3","MANAGE 4.3","numbered","","Topic: Manage 4.3
+
+Column 3: Part 2.E.4"
+"2","MEASURE 2.4","MEASURE 2.4","numbered","","Topic: Measure 2.4"
+"2","MEASURE 3.1","MEASURE 3.1","numbered","","Topic: Measure 3.1
+
+Column 3: Appendix:"
+"2","MEASURE 3.2","MEASURE 3.2","numbered","","Topic: Measure 3.2
+
+Column 3: Appendix 2.A.3-3"
+"2","","Appendix 2.A.4-2","","","Column 3: Appendix 2.A.4-2"
+"2","","Appendix 2.A.5-1","","","Column 3: Appendix 2.A.5-1"
+"2","","Appendix 2.A.6-1","","","Column 3: Appendix 2.A.6-1"
+"2","","Appendix 3.A.D-3.i","","","Column 3: Appendix 3.A.D-3.i"
+"2","","Appendix 3.A.D-3.ii","","","Column 3: Appendix 3.A.D-3.ii"
+"2","","Appendix 3.A.D-5.","","","Column 3: Appendix 3.A.D-5."
+"2","","Appendix 3.B.1","","","Column 3: Appendix 3.B.1"
+"2","","Appendix 3.B.7","","","Column 3: Appendix 3.B.7"
+"2","","Appendix 4.A.P-6.ii","","","Column 3: Appendix 4.A.P-6.ii"
+"2","","Appendix 4.B.6","","","Column 3: Appendix 4.B.6"
+"2","GOVERN 1.7","GOVERN 1.7","numbered","","Topic: Govern 1.7
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Decommission
+
+Column 3: Appendix:
+
+Column 4: The NIST AI RMF emphasizes"
+"2","MANAGE 2.4","MANAGE 2.4","numbered","","Topic: Manage 2.4
+
+Column 3: Appendix 5.A.U-7.i
+
+Column 4: the importance of establishing"
+"2","","Appendix 5.A.U-7.ii","","","Column 3: Appendix 5.A.U-7.ii
+
+Column 4: mechanisms and"
+"2","","responsibilities for safely","","","Column 4: responsibilities for safely"
+"2","","decommissioning AI systems,","","","Column 4: decommissioning AI systems,"
+"2","","while the Japan AI GfB focuses","","","Column 4: while the Japan AI GfB focuses"
+"2","","on the necessary disclosure of","","","Column 4: on the necessary disclosure of"
+"2","","information to stakeholders","","","Column 4: information to stakeholders"
+"2","","following the end of AI systems","","","Column 4: following the end of AI systems"
+"2","","and services use.","","","Column 4: and services use."
+"2","GOVERN 3.1","GOVERN 3.1","numbered","","Topic: Govern 3.1
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Diversity and
+
+Column 3: Main:
+
+Column 4: Both the NIST AI RMF and the"
+"2","MAP 1.2","MAP 1.2","numbered","","Topic: Map 1.2
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Interdisciplinarity
+
+Column 3: Part 2.C.1
+
+Column 4: Japan AI GfB focus on the"
+"2","","Part 2.C.3","","","Column 3: Part 2.C.3
+
+Column 4: importance of diversity of AI"
+"2","","Part 2.C.7","","","Column 3: Part 2.C.7
+
+Column 4: actors in the mapping,"
+"2","","measuring, and managing of AI","","","Column 4: measuring, and managing of AI"
+"2","","Appendix:","","","Column 3: Appendix:
+
+Column 4: risks throughout the lifecycle."
+"2","","Appendix 2.A.1-2","","","Column 3: Appendix 2.A.1-2
+
+Column 4: In addition, the NIST AI RMF"
+"2","","Appendix 3.B.1","","","Column 3: Appendix 3.B.1
+
+Column 4: emphasizes the importance of"
+"2","","Appendix 4.B.1","","","Column 3: Appendix 4.B.1
+
+Column 4: including interdisciplinary"
+"2","","Appendix 5.B.1","","","Column 3: Appendix 5.B.1
+
+Column 4: expertise from AI actors."
+"2","","NIST AI RMF 1.0","","","Topic: NIST AI RMF 1.0
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Topic
+
+Column 3: Japan AI GfB
+
+Column 4: Notable Similarities &"
+"2","","References","","","Topic: References
+
+Column 3: References
+
+Column 4: Differences"
+"2","GOVERN 1.4","GOVERN 1.4","numbered","","Topic: Govern 1.4
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Documentation
+
+Column 3: Main:
+
+Column 4: No differences noted."
+"2","GOVERN 1.6","GOVERN 1.6","numbered","","Topic: Govern 1.6
+
+Column 3: Part 2.C.7"
+"2","MAP 1.6","MAP 1.6","numbered","","Topic: Map 1.6
+
+Column 3: Part 2.D.II"
+"2","MAP 2.2","MAP 2.2","numbered","","Topic: Map 2.2
+
+Column 3: Part 2.D.III"
+"2","MAP 3.1","MAP 3.1","numbered","","Topic: Map 3.1"
+"2","MAP 3.3","MAP 3.3","numbered","","Topic: Map 3.3
+
+Column 3: Appendix:"
+"2","MEASURE 2.1","MEASURE 2.1","numbered","","Topic: Measure 2.1
+
+Column 3: Appendix 2.A.1-1"
+"2","","Appendix 2.A.3-3-1","","","Column 3: Appendix 2.A.3-3-1"
+"2","","Appendix 3.A.D-5.i","","","Column 3: Appendix 3.A.D-5.i"
+"2","","Appendix 3.A.D-7.i","","","Column 3: Appendix 3.A.D-7.i"
+"2","","Appendix 3.A.D-7.ii","","","Column 3: Appendix 3.A.D-7.ii"
+"2","","Appendix 3.C.I","","","Column 3: Appendix 3.C.I"
+"2","","Appendix 3.C.II","","","Column 3: Appendix 3.C.II"
+"2","","Appendix 3.C.III","","","Column 3: Appendix 3.C.III"
+"2","","Appendix 3.C.IV","","","Column 3: Appendix 3.C.IV"
+"2","","Appendix 4.A.P-6.i","","","Column 3: Appendix 4.A.P-6.i"
+"2","","Appendix 4.A.P-7.ii","","","Column 3: Appendix 4.A.P-7.ii"
+"2","","Appendix 4.B.6","","","Column 3: Appendix 4.B.6"
+"2","GOVERN 4.3","GOVERN 4.3","numbered","","Topic: Govern 4.3
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Drift
+
+Column 3: Appendix:
+
+Column 4: Both the NIST AI RMF and the"
+"2","MANAGE 2.2","MANAGE 2.2","numbered","","Topic: Manage 2.2
+
+Column 3: Appendix 3.A.D-2.i
+
+Column 4: Japan AI GfB state the possible"
+"2","MEASURE 2.4","MEASURE 2.4","numbered","","Topic: Measure 2.4
+
+Column 3: Appendix 3.A.D-6.i
+
+Column 4: risk of drift in AI systems. In"
+"2","","Appendix 3.A.D-7.i","","","Column 3: Appendix 3.A.D-7.i
+
+Column 4: addition, the NIST AI RMF"
+"2","","emphasizes the importance of","","","Column 4: emphasizes the importance of"
+"2","","a regular monitoring process","","","Column 4: a regular monitoring process"
+"2","","to detect and respond to drift.","","","Column 4: to detect and respond to drift."
+"2","MEASURE 2.13","MEASURE 2.13","numbered","","Topic: Measure 2.13
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Effectiveness
+
+Column 3: Main:
+
+Column 4: No differences noted."
+"2","","Part 2.E.4","","","Column 3: Part 2.E.4"
+"2","","Appendix:","","","Column 3: Appendix:"
+"2","","Appendix 2.A.3-1","","","Column 3: Appendix 2.A.3-1"
+"2","","Appendix 4.B.6","","","Column 3: Appendix 4.B.6"
+"2","MEASURE 2.12","MEASURE 2.12","numbered","","Topic: Measure 2.12
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Environmental
+
+Column 3: Main:
+
+Column 4: No differences noted."
+"2","","Impact","","","Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Impact
+
+Column 3: Part 2.C.1"
+"2","","Part 2.C.2","","","Column 3: Part 2.C.2"
+"2","","Appendix:","","","Column 3: Appendix:"
+"2","","Appendix 2.A.1-1","","","Column 3: Appendix 2.A.1-1"
+"2","","Appendix 2.A.1-2","","","Column 3: Appendix 2.A.1-2"
+"2","","Appendix 3.A.D-2.ii","","","Column 3: Appendix 3.A.D-2.ii"
+"2","","Appendix 3.B.1","","","Column 3: Appendix 3.B.1"
+"2","","Appendix 3.C.VIII","","","Column 3: Appendix 3.C.VIII"
+"2","","Appendix 4.A.P-2.i","","","Column 3: Appendix 4.A.P-2.i"
+"2","","Appendix 4.B.1","","","Column 3: Appendix 4.B.1"
+"2","","Appendix 4.B.2","","","Column 3: Appendix 4.B.2"
+"2","","Appendix 5.B.2","","","Column 3: Appendix 5.B.2"
+"2","","NIST AI RMF 1.0","","","Topic: NIST AI RMF 1.0
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Topic
+
+Column 3: Japan AI GfB
+
+Column 4: Notable Similarities &"
+"2","","References","","","Topic: References
+
+Column 3: References
+
+Column 4: Differences"
+"2","GOVERN 1.2","GOVERN 1.2","numbered","","Topic: Govern 1.2
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Explainability and
+
+Column 3: Main:
+
+Column 4: No differences noted."
+"2","MAP 1.1","MAP 1.1","numbered","","Topic: Map 1.1
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Interpretability
+
+Column 3: Part 2.C.6"
+"2","MAP 3.2","MAP 3.2","numbered","","Topic: Map 3.2"
+"2","MEASURE 1.1","MEASURE 1.1","numbered","","Topic: Measure 1.1
+
+Column 3: Appendix:"
+"2","MEASURE 2.9","MEASURE 2.9","numbered","","Topic: Measure 2.9
+
+Column 3: Appendix 3.A.D-6.i"
+"2","MEASURE 4.2","MEASURE 4.2","numbered","","Topic: Measure 4.2
+
+Column 3: Appendix 3.B.6"
+"2","MEASURE 4.3","MEASURE 4.3","numbered","","Topic: Measure 4.3
+
+Column 3: Appendix 3.C.I"
+"2","","Appendix 4.A.P-6.i","","","Column 3: Appendix 4.A.P-6.i"
+"2","","Appendix 4.B.3","","","Column 3: Appendix 4.B.3"
+"2","","Appendix 4.B.6","","","Column 3: Appendix 4.B.6"
+"2","","Appendix 5.A.U-6.i","","","Column 3: Appendix 5.A.U-6.i"
+"2","","Appendix 5.B.3","","","Column 3: Appendix 5.B.3"
+"2","GOVERN 1.2","GOVERN 1.2","numbered","","Topic: Govern 1.2
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Fairness and Bias
+
+Column 3: Main:
+
+Column 4: No differences noted."
+"2","GOVERN 4.3","GOVERN 4.3","numbered","","Topic: Govern 4.3
+
+Column 3: Part 2.C.1"
+"2","MAP 1.1","MAP 1.1","numbered","","Topic: Map 1.1
+
+Column 3: Part 2.C.3"
+"2","MAP 3.2","MAP 3.2","numbered","","Topic: Map 3.2
+
+Column 3: Part 2.C.7"
+"2","MEASURE 1.1","MEASURE 1.1","numbered","","Topic: Measure 1.1
+
+Column 3: Part 2.D.XI"
+"2","MEASURE 2.11","MEASURE 2.11","numbered","","Topic: Measure 2.11
+
+Column 3: Part 2.E.3"
+"2","MEASURE 4.2","MEASURE 4.2","numbered","","Topic: Measure 4.2"
+"2","MEASURE 4.3","MEASURE 4.3","numbered","","Topic: Measure 4.3
+
+Column 3: Appendix:"
+"2","","Appendix 2.A.1-1","","","Column 3: Appendix 2.A.1-1"
+"2","","Appendix 2.A.1-3","","","Column 3: Appendix 2.A.1-3"
+"2","","Appendix 2.A.3-1","","","Column 3: Appendix 2.A.3-1"
+"2","","Appendix 2.A.3-3-2","","","Column 3: Appendix 2.A.3-3-2"
+"2","","Appendix 2.A.4-2","","","Column 3: Appendix 2.A.4-2"
+"2","","Appendix 3.A.D-3.i","","","Column 3: Appendix 3.A.D-3.i"
+"2","","Appendix 3.A.D-3.ii","","","Column 3: Appendix 3.A.D-3.ii"
+"2","","Appendix 3.A.D-6.ii","","","Column 3: Appendix 3.A.D-6.ii"
+"2","","Appendix 3.A.D-7.i","","","Column 3: Appendix 3.A.D-7.i"
+"2","","Appendix 3.B.1","","","Column 3: Appendix 3.B.1"
+"2","","Appendix 3.C.I","","","Column 3: Appendix 3.C.I"
+"2","","Appendix 3.C.III","","","Column 3: Appendix 3.C.III"
+"2","","Appendix 4.A.P-3.i","","","Column 3: Appendix 4.A.P-3.i"
+"2","","Appendix 4.A.P-5.i","","","Column 3: Appendix 4.A.P-5.i"
+"2","","Appendix 4.A.P-6.ii","","","Column 3: Appendix 4.A.P-6.ii"
+"2","","Appendix 4.B.1","","","Column 3: Appendix 4.B.1"
+"2","","Appendix 4.B.3","","","Column 3: Appendix 4.B.3"
+"2","","Appendix 5.A.U-3.i","","","Column 3: Appendix 5.A.U-3.i"
+"2","","Appendix 5.A.U-6.i","","","Column 3: Appendix 5.A.U-6.i"
+"2","","Appendix 5.A.U-7.i","","","Column 3: Appendix 5.A.U-7.i"
+"2","","Appendix 5.B.1","","","Column 3: Appendix 5.B.1"
+"2","","Appendix 5.B.3","","","Column 3: Appendix 5.B.3"
+"2","","Appendix 5.B.8","","","Column 3: Appendix 5.B.8"
+"2","","NIST AI RMF 1.0","","","Topic: NIST AI RMF 1.0
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Topic
+
+Column 3: Japan AI GfB
+
+Column 4: Notable Similarities &"
+"2","","References","","","Topic: References
+
+Column 3: References
+
+Column 4: Differences"
+"2","GOVERN 1.1","GOVERN 1.1","numbered","","Topic: Govern 1.1
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Governance
+
+Column 3: Main:
+
+Column 4: No differences noted."
+"2","GOVERN 1.2","GOVERN 1.2","numbered","","Topic: Govern 1.2
+
+Column 3: Part 2.C.7"
+"2","GOVERN 1.3","GOVERN 1.3","numbered","","Topic: Govern 1.3
+
+Column 3: Part 2.D.V"
+"2","GOVERN 1.4","GOVERN 1.4","numbered","","Topic: Govern 1.4
+
+Column 3: Part 2.E"
+"2","GOVERN 1.5","GOVERN 1.5","numbered","","Topic: Govern 1.5"
+"2","GOVERN 1.6","GOVERN 1.6","numbered","","Topic: Govern 1.6
+
+Column 3: Appendix:"
+"2","GOVERN 1.7","GOVERN 1.7","numbered","","Topic: Govern 1.7
+
+Column 3: Appendix 2"
+"2","GOVERN 2.1","GOVERN 2.1","numbered","","Topic: Govern 2.1
+
+Column 3: Appendix 3.A.D-2.ii"
+"2","GOVERN 2.2","GOVERN 2.2","numbered","","Topic: Govern 2.2
+
+Column 3: Appendix 3.A.D-6.ii"
+"2","GOVERN 2.3","GOVERN 2.3","numbered","","Topic: Govern 2.3
+
+Column 3: Appendix 3.B.1"
+"2","GOVERN 3.1","GOVERN 3.1","numbered","","Topic: Govern 3.1
+
+Column 3: Appendix 3.B.7"
+"2","GOVERN 3.2","GOVERN 3.2","numbered","","Topic: Govern 3.2
+
+Column 3: Appendix 3.C.V"
+"2","GOVERN 4.1","GOVERN 4.1","numbered","","Topic: Govern 4.1
+
+Column 3: Appendix 4.A.P-6.ii"
+"2","GOVERN 4.2","GOVERN 4.2","numbered","","Topic: Govern 4.2
+
+Column 3: Appendix 4.B.8"
+"2","GOVERN 4.3","GOVERN 4.3","numbered","","Topic: Govern 4.3
+
+Column 3: Appendix 5.B.8"
+"2","GOVERN 5.1","GOVERN 5.1","numbered","","Topic: Govern 5.1"
+"2","GOVERN 5.2","GOVERN 5.2","numbered","","Topic: Govern 5.2"
+"2","GOVERN 6.1","GOVERN 6.1","numbered","","Topic: Govern 6.1"
+"2","GOVERN 6.2","GOVERN 6.2","numbered","","Topic: Govern 6.2"
+"2","GOVERN 3.2","GOVERN 3.2","numbered","","Topic: Govern 3.2
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Human Oversight
+
+Column 3: Main:
+
+Column 4: No differences noted."
+"2","MAP 2.2","MAP 2.2","numbered","","Topic: Map 2.2
+
+Column 3: Part 2.C.2"
+"2","MAP 3.5","MAP 3.5","numbered","","Topic: Map 3.5
+
+Column 3: Part 2.C.3"
+"2","","Part 2.C.7","","","Column 3: Part 2.C.7"
+"2","","Appendix:","","","Column 3: Appendix:"
+"2","","Appendix 3.A.D-3.i","","","Column 3: Appendix 3.A.D-3.i"
+"2","","Appendix 3.A.D-2.ii","","","Column 3: Appendix 3.A.D-2.ii"
+"2","","Appendix 3.A.D-3.ii","","","Column 3: Appendix 3.A.D-3.ii"
+"2","","Appendix 3.B.1","","","Column 3: Appendix 3.B.1"
+"2","","Appendix 4.A.P-2.i","","","Column 3: Appendix 4.A.P-2.i"
+"2","","Appendix 4.B.3","","","Column 3: Appendix 4.B.3"
+"2","","Appendix 5.A.U-3.i","","","Column 3: Appendix 5.A.U-3.i"
+"2","","Appendix 5.A.U-7.i","","","Column 3: Appendix 5.A.U-7.i"
+"2","","Appendix 5.B.3","","","Column 3: Appendix 5.B.3"
+"2","","NIST AI RMF 1.0","","","Topic: NIST AI RMF 1.0
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Topic
+
+Column 3: Japan AI GfB
+
+Column 4: Notable Similarities &"
+"2","","References","","","Topic: References
+
+Column 3: References
+
+Column 4: Differences"
+"2","MEASURE 2.2","MEASURE 2.2","numbered","","Topic: Measure 2.2
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Human Subjects
+
+Column 3: Main:
+
+Column 4: No differences noted."
+"2","","Protection","","","Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Protection
+
+Column 3: Part 2.C.1"
+"2","","Part 2.C.2","","","Column 3: Part 2.C.2"
+"2","","Part 2.C.4","","","Column 3: Part 2.C.4"
+"2","","Appendix:","","","Column 3: Appendix:"
+"2","","Appendix 3.A.D-2.i","","","Column 3: Appendix 3.A.D-2.i"
+"2","","Appendix 3.A.D-2.ii","","","Column 3: Appendix 3.A.D-2.ii"
+"2","","Appendix 3.B.1","","","Column 3: Appendix 3.B.1"
+"2","","Appendix 3.B.4","","","Column 3: Appendix 3.B.4"
+"2","","Appendix 3.C.VIII","","","Column 3: Appendix 3.C.VIII"
+"2","","Appendix 4.A.P-2.i","","","Column 3: Appendix 4.A.P-2.i"
+"2","","Appendix 4.A.P-4.i","","","Column 3: Appendix 4.A.P-4.i"
+"2","","Appendix 4.A.P-4.ii
+Appendix 4.B.1","","","Column 3: Appendix 4.A.P-4.ii
+Appendix 4.B.1"
+"2","","Appendix 4.B.2","","","Column 3: Appendix 4.B.2"
+"2","","Appendix 5.A.U-4.i","","","Column 3: Appendix 5.A.U-4.i"
+"2","","Appendix 5.B.1","","","Column 3: Appendix 5.B.1"
+"2","","Appendix 5.B.2","","","Column 3: Appendix 5.B.2"
+"2","GOVERN 3.2","GOVERN 3.2","numbered","","Topic: Govern 3.2
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Human-AI
+
+Column 3: Main:
+
+Column 4: No differences noted."
+"2","MAP 3.4","MAP 3.4","numbered","","Topic: Map 3.4
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Teaming
+
+Column 3: Part 2.C.1"
+"2","","Appendix:","","","Column 3: Appendix:"
+"2","","Appendix 3.A.D-3.i","","","Column 3: Appendix 3.A.D-3.i"
+"2","","Appendix 3.B.1","","","Column 3: Appendix 3.B.1"
+"2","","Appendix 3.B.8","","","Column 3: Appendix 3.B.8"
+"2","","Appendix 4.A.P-2.ii","","","Column 3: Appendix 4.A.P-2.ii"
+"2","","Appendix 4.A.P-7.i","","","Column 3: Appendix 4.A.P-7.i"
+"2","","Appendix 4.B.1","","","Column 3: Appendix 4.B.1"
+"2","","Appendix 4.B.2","","","Column 3: Appendix 4.B.2"
+"2","","Appendix 4.B.8","","","Column 3: Appendix 4.B.8"
+"2","","Appendix 5.A.U-2.i","","","Column 3: Appendix 5.A.U-2.i"
+"2","","Appendix 5.B.1","","","Column 3: Appendix 5.B.1"
+"2","","Appendix 5.B.2","","","Column 3: Appendix 5.B.2"
+"2","","Appendix 5.B.8","","","Column 3: Appendix 5.B.8"
+"2","","NIST AI RMF 1.0","","","Topic: NIST AI RMF 1.0
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Topic
+
+Column 3: Japan AI GfB
+
+Column 4: Notable Similarities &"
+"2","","References","","","Topic: References
+
+Column 3: References
+
+Column 4: Differences"
+"2","GOVERN 4.2","GOVERN 4.2","numbered","","Topic: Govern 4.2
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Impact
+
+Column 3: Main:
+
+Column 4: No differences noted."
+"2","GOVERN 4.3","GOVERN 4.3","numbered","","Topic: Govern 4.3
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Assessment
+
+Column 3: Part 2.C.6"
+"2","GOVERN 5.1","GOVERN 5.1","numbered","","Topic: Govern 5.1"
+"2","GOVERN 5.2","GOVERN 5.2","numbered","","Topic: Govern 5.2
+
+Column 3: Appendix:"
+"2","MANAGE 4.2","MANAGE 4.2","numbered","","Topic: Manage 4.2
+
+Column 3: Appendix 2.A.3-1"
+"2","MAP 1.1","MAP 1.1","numbered","","Topic: Map 1.1
+
+Column 3: Appendix 3.B.4"
+"2","MAP 1.6","MAP 1.6","numbered","","Topic: Map 1.6
+
+Column 3: Appendix 3.B.6"
+"2","MAP 2.2","MAP 2.2","numbered","","Topic: Map 2.2
+
+Column 3: Appendix 3.C.I"
+"2","MAP 2.3","MAP 2.3","numbered","","Topic: Map 2.3
+
+Column 3: Appendix 3.C.III"
+"2","MAP 3.2","MAP 3.2","numbered","","Topic: Map 3.2
+
+Column 3: Appendix 4.A.P-6.ii"
+"2","MAP 5.1","MAP 5.1","numbered","","Topic: Map 5.1"
+"2","MAP 5.2","MAP 5.2","numbered","","Topic: Map 5.2"
+"2","MEASURE 1.2","MEASURE 1.2","numbered","","Topic: Measure 1.2"
+"2","MEASURE 1.3","MEASURE 1.3","numbered","","Topic: Measure 1.3"
+"2","MEASURE 2.3","MEASURE 2.3","numbered","","Topic: Measure 2.3"
+"2","MEASURE 3.3","MEASURE 3.3","numbered","","Topic: Measure 3.3"
+"2","GOVERN 1.1","GOVERN 1.1","numbered","","Topic: Govern 1.1
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Legal and
+
+Column 3: Main:
+
+Column 4: No differences noted."
+"2","GOVERN 6.1","GOVERN 6.1","numbered","","Topic: Govern 6.1
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Regulatory
+
+Column 3: Part 2.E.5"
+"2","MANAGE 1.3","MANAGE 1.3","numbered","","Topic: Manage 1.3"
+"2","MAP 4.1","MAP 4.1","numbered","","Topic: Map 4.1
+
+Column 3: Appendix:"
+"2","","Appendix 2.A.1-2","","","Column 3: Appendix 2.A.1-2"
+"2","","Appendix 2.A.3-3","","","Column 3: Appendix 2.A.3-3"
+"2","","Appendix 2.A.6-1","","","Column 3: Appendix 2.A.6-1"
+"2","","Appendix 4.A.P-5.i","","","Column 3: Appendix 4.A.P-5.i"
+"2","","Appendix 4.A.P-6.ii","","","Column 3: Appendix 4.A.P-6.ii"
+"2","MAP 2.2","MAP 2.2","numbered","","Topic: Map 2.2
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Limitations
+
+Column 3: Main:
+
+Column 4: No differences noted."
+"2","MAP 2.3","MAP 2.3","numbered","","Topic: Map 2.3
+
+Column 3: Part 2.C.1"
+"2","","Part 2.C.6","","","Column 3: Part 2.C.6"
+"2","","Part 2.D.III","","","Column 3: Part 2.D.III"
+"2","","Appendix:","","","Column 3: Appendix:"
+"2","","Appendix 2.A.3-3","","","Column 3: Appendix 2.A.3-3"
+"2","","NIST AI RMF 1.0","","","Topic: NIST AI RMF 1.0
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Topic
+
+Column 3: Japan AI GfB
+
+Column 4: Notable Similarities &"
+"2","","References","","","Topic: References
+
+Column 3: References
+
+Column 4: Differences"
+"2","MANAGE 3.2","MANAGE 3.2","numbered","","Topic: Manage 3.2
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Pre-trained
+
+Column 3: Appendix:
+
+Column 4: The NIST AI RMF emphasizes"
+"2","MAP 4.1","MAP 4.1","numbered","","Topic: Map 4.1
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Models
+
+Column 3: Appendix 3.B.4
+
+Column 4: pre-trained models are to be"
+"2","MAP 4.2","MAP 4.2","numbered","","Topic: Map 4.2
+
+Column 3: Appendix 4.A.P-5.ii
+
+Column 4: monitored due to concerns"
+"2","","about privacy, bias, security,","","","Column 4: about privacy, bias, security,"
+"2","","unanticipated effects,","","","Column 4: unanticipated effects,"
+"2","","increased statistical","","","Column 4: increased statistical"
+"2","","uncertainty, difficulty with","","","Column 4: uncertainty, difficulty with"
+"2","","reproducibility, and issues","","","Column 4: reproducibility, and issues"
+"2","","with scientific validity. The","","","Column 4: with scientific validity. The"
+"2","","NIST AI RMF also emphasizes","","","Column 4: NIST AI RMF also emphasizes"
+"2","","identifying and documenting","","","Column 4: identifying and documenting"
+"2","","internal risk controls for","","","Column 4: internal risk controls for"
+"2","","evaluating third-party","","","Column 4: evaluating third-party"
+"2","","technologies to manage","","","Column 4: technologies to manage"
+"2","","potential risks with pre-trained","","","Column 4: potential risks with pre-trained"
+"2","","models. The Japan AI GfB","","","Column 4: models. The Japan AI GfB"
+"2","","expands on the security issue","","","Column 4: expands on the security issue"
+"2","","by stating the importance of","","","Column 4: by stating the importance of"
+"2","","using model reliability","","","Column 4: using model reliability"
+"2","","measures, learning","","","Column 4: measures, learning"
+"2","","mechanisms, traditional","","","Column 4: mechanisms, traditional"
+"2","","security measures against","","","Column 4: security measures against"
+"2","","vulnerabilities, and detection,","","","Column 4: vulnerabilities, and detection,"
+"2","","prevention, and removal of","","","Column 4: prevention, and removal of"
+"2","","poisoning of pre-trained","","","Column 4: poisoning of pre-trained"
+"2","","models.","","","Column 4: models."
+"2","","NIST AI RMF 1.0","","","Topic: NIST AI RMF 1.0
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Topic
+
+Column 3: Japan AI GfB
+
+Column 4: Notable Similarities &"
+"2","","References","","","Topic: References
+
+Column 3: References
+
+Column 4: Differences"
+"2","GOVERN 1.2","GOVERN 1.2","numbered","","Topic: Govern 1.2
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Privacy
+
+Column 3: Main:
+
+Column 4: No differences noted."
+"2","MAP 1.1","MAP 1.1","numbered","","Topic: Map 1.1
+
+Column 3: Part 2.C.4"
+"2","MAP 3.2","MAP 3.2","numbered","","Topic: Map 3.2
+
+Column 3: Part 2.C.6"
+"2","MEASURE 1.1","MEASURE 1.1","numbered","","Topic: Measure 1.1
+
+Column 3: Part 2.C.7"
+"2","MEASURE 2.10","MEASURE 2.10","numbered","","Topic: Measure 2.10
+
+Column 3: Part 2.D.V"
+"2","MEASURE 4.2","MEASURE 4.2","numbered","","Topic: Measure 4.2"
+"2","MEASURE 4.3","MEASURE 4.3","numbered","","Topic: Measure 4.3
+
+Column 3: Appendix:"
+"2","","Appendix 2.A.2-1","","","Column 3: Appendix 2.A.2-1"
+"2","","Appendix 2.A.3-1-1","","","Column 3: Appendix 2.A.3-1-1"
+"2","","Appendix 2.A.3-3","","","Column 3: Appendix 2.A.3-3"
+"2","","Appendix 2.A.3-4-2","","","Column 3: Appendix 2.A.3-4-2"
+"2","","Appendix 3.A.D-2.i","","","Column 3: Appendix 3.A.D-2.i"
+"2","","Appendix 3.A.D-3.i","","","Column 3: Appendix 3.A.D-3.i"
+"2","","Appendix 3.A.D-2.ii","","","Column 3: Appendix 3.A.D-2.ii"
+"2","","Appendix 3.A.D-2.iii","","","Column 3: Appendix 3.A.D-2.iii"
+"2","","Appendix 3.A.D-5.i","","","Column 3: Appendix 3.A.D-5.i"
+"2","","Appendix 3.A.D-6.ii","","","Column 3: Appendix 3.A.D-6.ii"
+"2","","Appendix 3.A.D-7.i","","","Column 3: Appendix 3.A.D-7.i"
+"2","","Appendix 3.B.1","","","Column 3: Appendix 3.B.1"
+"2","","Appendix 3.B.4","","","Column 3: Appendix 3.B.4"
+"2","","Appendix 3.B.6","","","Column 3: Appendix 3.B.6"
+"2","","Appendix 3.B.7","","","Column 3: Appendix 3.B.7"
+"2","","Appendix 3.C.I","","","Column 3: Appendix 3.C.I"
+"2","","Appendix 3.C.III","","","Column 3: Appendix 3.C.III"
+"2","","Appendix 3.C.V","","","Column 3: Appendix 3.C.V"
+"2","","Appendix 3.C.VIII","","","Column 3: Appendix 3.C.VIII"
+"2","","Appendix 3.C.XI","","","Column 3: Appendix 3.C.XI"
+"2","","Appendix 4.A.P-2.ii","","","Column 3: Appendix 4.A.P-2.ii"
+"2","","Appendix 4.A.P-3.i","","","Column 3: Appendix 4.A.P-3.i"
+"2","","Appendix 4.A.P-4.i","","","Column 3: Appendix 4.A.P-4.i"
+"2","","Appendix 4.A.P-5.i","","","Column 3: Appendix 4.A.P-5.i"
+"2","","Appendix 4.A.P-4.ii","","","Column 3: Appendix 4.A.P-4.ii"
+"2","","Appendix 4.A.P-5.ii","","","Column 3: Appendix 4.A.P-5.ii"
+"2","","Appendix 4.A.P-6.ii","","","Column 3: Appendix 4.A.P-6.ii"
+"2","","Appendix 4.A.P-7.i","","","Column 3: Appendix 4.A.P-7.i"
+"2","","Appendix 4.A.P-7.ii","","","Column 3: Appendix 4.A.P-7.ii"
+"2","","Appendix 5.B.1","","","Column 3: Appendix 5.B.1"
+"2","","Appendix 5.A.U-2.i","","","Column 3: Appendix 5.A.U-2.i"
+"2","","Appendix 5.A.U-3.i","","","Column 3: Appendix 5.A.U-3.i"
+"2","","Appendix 5.A.U-4.i","","","Column 3: Appendix 5.A.U-4.i"
+"2","","Appendix 5.A.U-7.i","","","Column 3: Appendix 5.A.U-7.i"
+"2","","Appendix 5.B.8","","","Column 3: Appendix 5.B.8"
+"2","MANAGE 1.1","MANAGE 1.1","numbered","","Topic: Manage 1.1
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Risk Assessment
+
+Column 3: Main:
+
+Column 4: No differences noted."
+"2","MANAGE 4.2","MANAGE 4.2","numbered","","Topic: Manage 4.2
+
+Column 3: Part 2.E.4"
+"2","MEASURE 1.1","MEASURE 1.1","numbered","","Topic: Measure 1.1"
+"2","","Appendix:","","","Column 3: Appendix:"
+"2","","Appendix 2.A.1-1","","","Column 3: Appendix 2.A.1-1"
+"2","","NIST AI RMF 1.0","","","Topic: NIST AI RMF 1.0
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Topic
+
+Column 3: Japan AI GfB
+
+Column 4: Notable Similarities &"
+"2","","References","","","Topic: References
+
+Column 3: References
+
+Column 4: Differences"
+"2","GOVERN 2.1","GOVERN 2.1","numbered","","Topic: Govern 2.1
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Risk Culture
+
+Column 3: Main:
+
+Column 4: No differences noted."
+"2","GOVERN 4.1","GOVERN 4.1","numbered","","Topic: Govern 4.1
+
+Column 3: Part 2.E"
+"2","GOVERN 4.2","GOVERN 4.2","numbered","","Topic: Govern 4.2"
+"2","GOVERN 4.3","GOVERN 4.3","numbered","","Topic: Govern 4.3
+
+Column 3: Appendix:"
+"2","","Appendix 2.A.6-1","","","Column 3: Appendix 2.A.6-1"
+"2","MANAGE 1.4","MANAGE 1.4","numbered","","Topic: Manage 1.4
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Risk Response
+
+Column 3: Appendix:
+
+Column 4: No differences noted."
+"2","MANAGE 2.3","MANAGE 2.3","numbered","","Topic: Manage 2.3
+
+Column 3: Appendix 2.A.3-4"
+"2","MANAGE 2.4","MANAGE 2.4","numbered","","Topic: Manage 2.4
+
+Column 3: Appendix 3.B.4"
+"2","MANAGE 4.1","MANAGE 4.1","numbered","","Topic: Manage 4.1"
+"2","GOVERN 1.3","GOVERN 1.3","numbered","","Topic: Govern 1.3
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Risk Tolerance
+
+Column 3: Appendix:
+
+Column 4: No differences noted."
+"2","GOVERN 2.3","GOVERN 2.3","numbered","","Topic: Govern 2.3
+
+Column 3: Appendix 2.A.2-1"
+"2","MANAGE 1.2","MANAGE 1.2","numbered","","Topic: Manage 1.2"
+"2","MANAGE 1.3","MANAGE 1.3","numbered","","Topic: Manage 1.3"
+"2","MANAGE 2.1","MANAGE 2.1","numbered","","Topic: Manage 2.1"
+"2","MAP 1.5","MAP 1.5","numbered","","Topic: Map 1.5"
+"2","MAP 4.1","MAP 4.1","numbered","","Topic: Map 4.1"
+"2","MANAGE 2.4","MANAGE 2.4","numbered","","Topic: Manage 2.4
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Risky Emergent
+
+Column 3: Main:
+
+Column 4: No differences noted."
+"2","MANAGE 4.1","MANAGE 4.1","numbered","","Topic: Manage 4.1
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Behavior
+
+Column 3: Part 2.C.5"
+"2","MAP 4.1","MAP 4.1","numbered","","Topic: Map 4.1"
+"2","MEASURE 1.1","MEASURE 1.1","numbered","","Topic: Measure 1.1"
+"2","MEASURE 2.7","MEASURE 2.7","numbered","","Topic: Measure 2.7"
+"2","GOVERN 1.2","GOVERN 1.2","numbered","","Topic: Govern 1.2
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Safety
+
+Column 3: Main:
+
+Column 4: No differences noted."
+"2","MAP 1.1","MAP 1.1","numbered","","Topic: Map 1.1
+
+Column 3: Part 2.C.2"
+"2","MAP 3.2","MAP 3.2","numbered","","Topic: Map 3.2
+
+Column 3: Part 2.D.I"
+"2","MEASURE 1.1","MEASURE 1.1","numbered","","Topic: Measure 1.1"
+"2","MEASURE 2.6","MEASURE 2.6","numbered","","Topic: Measure 2.6
+
+Column 3: Appendix:"
+"2","MEASURE 4.2","MEASURE 4.2","numbered","","Topic: Measure 4.2
+
+Column 3: Appendix 2.A.1-3"
+"2","MEASURE 4.3","MEASURE 4.3","numbered","","Topic: Measure 4.3
+
+Column 3: Appendix 3.A.D-2.ii"
+"2","","Appendix 3.A.D-10.i","","","Column 3: Appendix 3.A.D-10.i"
+"2","","Appendix 3.B.7","","","Column 3: Appendix 3.B.7"
+"2","","Appendix 4.A.P-6.ii","","","Column 3: Appendix 4.A.P-6.ii"
+"2","","Appendix 4.B.2","","","Column 3: Appendix 4.B.2"
+"2","","Appendix 5.B.2","","","Column 3: Appendix 5.B.2"
+"2","GOVERN 1.2","GOVERN 1.2","numbered","","Topic: Govern 1.2
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Secure and
+
+Column 3: Main:
+
+Column 4: No differences noted."
+"2","MAP 1.1","MAP 1.1","numbered","","Topic: Map 1.1
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Resilient
+
+Column 3: Part 2.C.8"
+"2","MAP 3.2","MAP 3.2","numbered","","Topic: Map 3.2"
+"2","MEASURE 1.1","MEASURE 1.1","numbered","","Topic: Measure 1.1
+
+Column 3: Appendix:"
+"2","MEASURE 2.7","MEASURE 2.7","numbered","","Topic: Measure 2.7
+
+Column 3: Appendix 3.A.D-2.ii"
+"2","MEASURE 4.2","MEASURE 4.2","numbered","","Topic: Measure 4.2
+
+Column 3: Appendix 3.A.D-3.i"
+"2","MEASURE 4.3","MEASURE 4.3","numbered","","Topic: Measure 4.3
+
+Column 3: Appendix 3.A.D-5.i"
+"2","","Appendix 3.B.8","","","Column 3: Appendix 3.B.8"
+"2","","Appendix 4.A.P-5.i","","","Column 3: Appendix 4.A.P-5.i"
+"2","","Appendix 4.B.8","","","Column 3: Appendix 4.B.8"
+"2","","Appendix 5.B.8","","","Column 3: Appendix 5.B.8"
+"2","MANAGE 2.2","MANAGE 2.2","numbered","","Topic: Manage 2.2
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Societal Values
+
+Column 3: Appendix:
+
+Column 4: No differences noted."
+"2","MAP 1.1","MAP 1.1","numbered","","Topic: Map 1.1
+
+Column 3: Appendix 2.A.1-2"
+"2","MAP 1.3","MAP 1.3","numbered","","Topic: Map 1.3
+
+Column 3: Appendix 2.A.2-1"
+"2","","Appendix 2.A.5-1","","","Column 3: Appendix 2.A.5-1"
+"2","","Appendix 4.A.P-4.ii","","","Column 3: Appendix 4.A.P-4.ii"
+"2","","NIST AI RMF 1.0","","","Topic: NIST AI RMF 1.0
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Topic
+
+Column 3: Japan AI GfB
+
+Column 4: Notable Similarities &"
+"2","","References","","","Topic: References
+
+Column 3: References
+
+Column 4: Differences"
+"2","MAP 1.1","MAP 1.1","numbered","","Topic: Map 1.1
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Socio-technical
+
+Column 3: Main:
+
+Column 4: No differences noted."
+"2","MAP 1.2","MAP 1.2","numbered","","Topic: Map 1.2
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Systems
+
+Column 3: Part 2.C.1"
+"2","MAP 1.3","MAP 1.3","numbered","","Topic: Map 1.3
+
+Column 3: Part 2.C.4"
+"2","MAP 1.6","MAP 1.6","numbered","","Topic: Map 1.6
+
+Column 3: Part 2.C.6"
+"2","MAP 2.1","MAP 2.1","numbered","","Topic: Map 2.1"
+"2","MAP 3.1","MAP 3.1","numbered","","Topic: Map 3.1
+
+Column 3: Appendix:"
+"2","","Appendix 3.A.D-3.ii","","","Column 3: Appendix 3.A.D-3.ii"
+"2","","Appendix 3.A.D-7.i","","","Column 3: Appendix 3.A.D-7.i"
+"2","","Appendix 3.B.1","","","Column 3: Appendix 3.B.1"
+"2","","Appendix 3.B.4","","","Column 3: Appendix 3.B.4"
+"2","","Appendix 3.B.6","","","Column 3: Appendix 3.B.6"
+"2","","Appendix 4.A.P-6.ii","","","Column 3: Appendix 4.A.P-6.ii"
+"2","GOVERN 6.1","GOVERN 6.1","numbered","","Topic: Govern 6.1
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Supply Chain
+
+Column 3: Main:
+
+Column 4: No differences noted."
+"2","GOVERN 6.2","GOVERN 6.2","numbered","","Topic: Govern 6.2
+
+Column 3: Part 2.E"
+"2","MANAGE 3.1","MANAGE 3.1","numbered","","Topic: Manage 3.1"
+"2","MAP 4.1","MAP 4.1","numbered","","Topic: Map 4.1
+
+Column 3: Appendix:"
+"2","","Appendix 2.A.1-1","","","Column 3: Appendix 2.A.1-1"
+"2","","Appendix 2.A.3-4-1","","","Column 3: Appendix 2.A.3-4-1"
+"2","","Appendix 3.A.D-5.i","","","Column 3: Appendix 3.A.D-5.i"
+"2","","Appendix 3.A.D-7.ii","","","Column 3: Appendix 3.A.D-7.ii"
+"2","","Appendix 3.B.8","","","Column 3: Appendix 3.B.8"
+"2","MAP 1.1","MAP 1.1","numbered","","Topic: Map 1.1
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: TEVV
+
+Column 3: Main:
+
+Column 4: No differences noted."
+"2","MAP 2.3","MAP 2.3","numbered","","Topic: Map 2.3
+
+Column 3: Part 2.C.6"
+"2","MEASURE 1.1","MEASURE 1.1","numbered","","Topic: Measure 1.1
+
+Column 3: Part 2.D.I"
+"2","MEASURE 1.2","MEASURE 1.2","numbered","","Topic: Measure 1.2"
+"2","MEASURE 2.1","MEASURE 2.1","numbered","","Topic: Measure 2.1
+
+Column 3: Appendix:"
+"2","MEASURE 2.3","MEASURE 2.3","numbered","","Topic: Measure 2.3
+
+Column 3: Appendix 2"
+"2","MEASURE 2.4","MEASURE 2.4","numbered","","Topic: Measure 2.4
+
+Column 3: Appendix 3.A.D-3.i"
+"2","MEASURE 2.5","MEASURE 2.5","numbered","","Topic: Measure 2.5
+
+Column 3: Appendix 3.A.D-2.ii"
+"2","MEASURE 2.6","MEASURE 2.6","numbered","","Topic: Measure 2.6
+
+Column 3: Appendix 3.A.D-3.ii"
+"2","MEASURE 2.7","MEASURE 2.7","numbered","","Topic: Measure 2.7
+
+Column 3: Appendix 3.B.4"
+"2","MEASURE 2.8","MEASURE 2.8","numbered","","Topic: Measure 2.8
+
+Column 3: Appendix 4.A.P-6.ii"
+"2","MEASURE 2.9","MEASURE 2.9","numbered","","Topic: Measure 2.9
+
+Column 3: Appendix 5.A.U-2.i"
+"2","MEASURE 2.10","MEASURE 2.10","numbered","","Topic: Measure 2.10"
+"2","MEASURE 2.11","MEASURE 2.11","numbered","","Topic: Measure 2.11"
+"2","MEASURE 2.12","MEASURE 2.12","numbered","","Topic: Measure 2.12"
+"2","MEASURE 2.13","MEASURE 2.13","numbered","","Topic: Measure 2.13"
+"2","MEASURE 3.1","MEASURE 3.1","numbered","","Topic: Measure 3.1"
+"2","MEASURE 3.3","MEASURE 3.3","numbered","","Topic: Measure 3.3"
+"2","MEASURE 4.1","MEASURE 4.1","numbered","","Topic: Measure 4.1"
+"2","MEASURE 4.2","MEASURE 4.2","numbered","","Topic: Measure 4.2"
+"2","MEASURE 4.3","MEASURE 4.3","numbered","","Topic: Measure 4.3"
+"2","","NIST AI RMF 1.0","","","Topic: NIST AI RMF 1.0
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Topic
+
+Column 3: Japan AI GfB
+
+Column 4: Notable Similarities &"
+"2","","References","","","Topic: References
+
+Column 3: References
+
+Column 4: Differences"
+"2","GOVERN 6.1","GOVERN 6.1","numbered","","Topic: Govern 6.1
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Third-party
+
+Column 3: Appendix:
+
+Column 4: No differences noted."
+"2","GOVERN 6.2","GOVERN 6.2","numbered","","Topic: Govern 6.2
+
+Column 3: Appendix 3.A.D-2.i"
+"2","MANAGE 3.1","MANAGE 3.1","numbered","","Topic: Manage 3.1
+
+Column 3: Appendix 3.A.D-2.ii"
+"2","MAP 4.1","MAP 4.1","numbered","","Topic: Map 4.1
+
+Column 3: Appendix 3.A.D-7.ii"
+"2","MAP 4.2","MAP 4.2","numbered","","Topic: Map 4.2
+
+Column 3: Appendix 3.C.II"
+"2","","Appendix 4.A.P-5.i","","","Column 3: Appendix 4.A.P-5.i"
+"2","","Appendix 4.B.2","","","Column 3: Appendix 4.B.2"
+"2","","Appendix 5.A.U-5.i","","","Column 3: Appendix 5.A.U-5.i"
+"2","","Appendix 5.A.U-7.i","","","Column 3: Appendix 5.A.U-7.i"
+"2","","Appendix 5.A.U-7.ii","","","Column 3: Appendix 5.A.U-7.ii"
+"2","","Appendix 5.B.2","","","Column 3: Appendix 5.B.2"
+"2","","Appendix 6.2","","","Column 3: Appendix 6.2"
+"2","GOVERN 2.2","GOVERN 2.2","numbered","","Topic: Govern 2.2
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Training (of AI
+
+Column 3: Appendix:
+
+Column 4: No differences noted."
+"2","","Actors)","","","Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Actors)
+
+Column 3: Appendix 2.A.1-3"
+"2","","Appendix 2.A.2-1","","","Column 3: Appendix 2.A.2-1"
+"2","","Appendix 3.A.D-5.i","","","Column 3: Appendix 3.A.D-5.i"
+"2","","Appendix 4.B.8","","","Column 3: Appendix 4.B.8"
+"2","GOVERN 1.2","GOVERN 1.2","numbered","","Topic: Govern 1.2
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Validity and
+
+Column 3: Main:
+
+Column 4: No differences noted."
+"2","MAP 1.1","MAP 1.1","numbered","","Topic: Map 1.1
+
+Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk: Reliability
+
+Column 3: Part 2.C.2"
+"2","MAP 3.2","MAP 3.2","numbered","","Topic: Map 3.2
+
+Column 3: Part 2.D.VII"
+"2","MEASURE 1.1","MEASURE 1.1","numbered","","Topic: Measure 1.1
+
+Column 3: Part 2.D.VIII"
+"2","MEASURE 2.1","MEASURE 2.1","numbered","","Topic: Measure 2.1"
+"2","MEASURE 2.5","MEASURE 2.5","numbered","","Topic: Measure 2.5
+
+Column 3: Appendix:"
+"2","MEASURE 4.2","MEASURE 4.2","numbered","","Topic: Measure 4.2
+
+Column 3: Appendix 2.A.3-2"
+"2","MEASURE 4.3","MEASURE 4.3","numbered","","Topic: Measure 4.3
+
+Column 3: Appendix 3.A.D-2.ii"
+"2","","Appendix 3.A.D-10.i","","","Column 3: Appendix 3.A.D-10.i"
+"2","","Appendix 4.A.P-2.i","","","Column 3: Appendix 4.A.P-2.i"
+"2","","Appendix 4.A.P-5.ii","","","Column 3: Appendix 4.A.P-5.ii"
+"2","","Appendix 4.B.3","","","Column 3: Appendix 4.B.3"

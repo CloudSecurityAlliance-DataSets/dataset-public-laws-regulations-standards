@@ -1,0 +1,4426 @@
+[
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "NIST AI RMF\nReferences",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Topic: NIST AI RMF\nReferences\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: NIST AI RMF subcategories linked to each topic by the Playbook"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Japan AI GfB\nReferences",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Topic: Japan AI GfB\nReferences\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Japan AI GfB sections (including appendices4\n) identified by Japan as\naddressing the topic"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Notable\nSimilarities &\nDiƯerences",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Topic: Notable\nSimilarities &\nDiƯerences\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Observations on how the NIST AI RMF and the Japan AI GfB align or diƯer on\nthe treatment of each topic5"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "NIST AI RMF 1.0",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Topic: NIST AI RMF 1.0\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Topic\n\nColumn 3: Japan AI GfB\n\nColumn 4: Notable Similarities &"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "References",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Topic: References\n\nColumn 3: References\n\nColumn 4: Differences"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 1.2",
+    "section_name": "GOVERN 1.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Govern 1.2\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Accountability\n\nColumn 3: Main:\n\nColumn 4: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 1.1",
+    "section_name": "MAP 1.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Map 1.1\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: and Transparency\n\nColumn 3: Part 2.C.6"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 3.2",
+    "section_name": "MAP 3.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Map 3.2\n\nColumn 3: Part 2.C.7"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 1.1",
+    "section_name": "MEASURE 1.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 1.1\n\nColumn 3: Part 2.D.III"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.8",
+    "section_name": "MEASURE 2.8",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 2.8\n\nColumn 3: Part 2.D.XI"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 4.2",
+    "section_name": "MEASURE 4.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 4.2\n\nColumn 3: Part 2.E.3"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 4.3",
+    "section_name": "MEASURE 4.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 4.3"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix:",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix:"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 2.A.1-1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 2.A.1-1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 2.A.3-4-1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 2.A.3-4-1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 2.A.4-1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 2.A.4-1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 2.A.4-3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 2.A.4-3"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.A.D-2.ii",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.A.D-2.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.A.D-6.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.A.D-6.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.A.D-6.ii",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.A.D-6.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.A.D-7.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.A.D-7.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.A.D-7.ii",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.A.D-7.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.B.1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.B.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.B.6",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.B.6"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.B.7",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.B.7"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.C.I",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.C.I"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.C.III",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.C.III"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.C.IV",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.C.IV"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.C.XI",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.C.XI"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.A.P-4.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.A.P-4.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.A.P-7.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.A.P-7.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.B.6",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.B.6"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 6.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 6.3"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 4.1",
+    "section_name": "GOVERN 4.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Govern 4.1\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Adversarial\n\nColumn 3: Appendix:\n\nColumn 4: Both the NIST AI RMF and the"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 4.1",
+    "section_name": "MANAGE 4.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Manage 4.1\n\nColumn 3: Appendix 4.A.P-5.ii\n\nColumn 4: Japan AI GfB highlight the"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.7",
+    "section_name": "MEASURE 2.7",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 2.7\n\nColumn 3: Appendix 5.A.U-5.i\n\nColumn 4: significance of considering"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "adversarial attacks as a",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 4: adversarial attacks as a"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "potential risk to AI system",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 4: potential risk to AI system"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "vulnerabilities. In addition, the",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 4: vulnerabilities. In addition, the"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "NIST AI RMF emphasizes the",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 4: NIST AI RMF emphasizes the"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "importance of adversarial",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 4: importance of adversarial"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "testing by red teaming as a",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 4: testing by red teaming as a"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "suggested approach for risk",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 4: suggested approach for risk"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "management.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 4: management."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "NIST AI RMF 1.0",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Topic: NIST AI RMF 1.0\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Topic\n\nColumn 3: Japan AI GfB\n\nColumn 4: Notable Similarities &"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "References",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Topic: References\n\nColumn 3: References\n\nColumn 4: Differences"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 1.1",
+    "section_name": "MANAGE 1.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Manage 1.1\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: AI Deployment\n\nColumn 3: Main:\n\nColumn 4: Both the NIST AI RMF and the"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 2.2",
+    "section_name": "MANAGE 2.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Manage 2.2\n\nColumn 3: Part 2.D.I\n\nColumn 4: Japan AI GfB emphasize the"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 4.1",
+    "section_name": "MANAGE 4.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Manage 4.1\n\nColumn 3: Part 2.D.II\n\nColumn 4: importance of regular"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "monitoring and mechanisms",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 4: monitoring and mechanisms"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix:",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix:\n\nColumn 4: to sustain the value of AI"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.A.D-2.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.A.D-2.i\n\nColumn 4: systems post-deployment. In"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.A.D-2.ii",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.A.D-2.ii\n\nColumn 4: addition, the Japan AI GfB"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.A.D-5.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.A.D-5.i\n\nColumn 4: suggests incentives for"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.A.D-5.ii",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.A.D-5.ii\n\nColumn 4: reporting post-deployment"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.A.D-6.ii",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.A.D-6.ii\n\nColumn 4: issues."
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 4.3",
+    "section_name": "GOVERN 4.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Govern 4.3\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: AI Incidents\n\nColumn 3: Main:\n\nColumn 4: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 4.1",
+    "section_name": "MANAGE 4.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Manage 4.1\n\nColumn 3: Part 2.D.II"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 4.3",
+    "section_name": "MANAGE 4.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Manage 4.3\n\nColumn 3: Part 2.D.IV"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix:",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix:"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 2.A.1-1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 2.A.1-1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 2.A.1-2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 2.A.1-2"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 2.A.2-1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 2.A.2-1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 2.A.3-1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 2.A.3-1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 2.A.3-2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 2.A.3-2"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 2.A.3-3-2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 2.A.3-3-2"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 2.A.3-4",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 2.A.3-4"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 2.A.3-4-2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 2.A.3-4-2"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 2.A.4-1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 2.A.4-1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 2.A.5-1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 2.A.5-1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 2.A.6-1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 2.A.6-1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.A.D-2.iii",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.A.D-2.iii"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.A.D-5.i\nAppendix 3.A.D-5.ii",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.A.D-5.i\nAppendix 3.A.D-5.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.A.D-6.ii",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.A.D-6.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.A.D-7.ii",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.A.D-7.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.A.P-2.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.A.P-2.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.A.P-2.ii",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.A.P-2.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.A.P-6.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.A.P-6.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.A.P-5.ii",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.A.P-5.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.A.P-6.ii",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.A.P-6.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.A.P-7.ii",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.A.P-7.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.B.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.B.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 5.A.U-2.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 5.A.U-2.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "NIST AI RMF 1.0",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Topic: NIST AI RMF 1.0\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Topic\n\nColumn 3: Japan AI GfB\n\nColumn 4: Notable Similarities &"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "References",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Topic: References\n\nColumn 3: References\n\nColumn 4: Differences"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 3.3",
+    "section_name": "MEASURE 3.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 3.3\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Contestability\n\nColumn 3: Main:\n\nColumn 4: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Part 2.C.6",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Part 2.C.6"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix:",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix:"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 2.A.1-2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 2.A.1-2"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 2.A.3-1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 2.A.3-1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 2.A.3-3-1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 2.A.3-3-1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 2.A.3-3-2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 2.A.3-3-2"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 2.A.3-4-1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 2.A.3-4-1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 2.A.5-2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 2.A.5-2"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 2.A.6-1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 2.A.6-1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.A.D-6.ii",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.A.D-6.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.B.7",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.B.7"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.B.6",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.B.6"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 1.1",
+    "section_name": "MAP 1.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Map 1.1\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Context of Use\n\nColumn 3: Main:\n\nColumn 4: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 1.4",
+    "section_name": "MAP 1.4",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Map 1.4\n\nColumn 3: Part 2.C.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 3.3",
+    "section_name": "MAP 3.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Map 3.3\n\nColumn 3: Part 2.D.II"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 1.2",
+    "section_name": "MEASURE 1.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 1.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 1.3",
+    "section_name": "MEASURE 1.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 1.3\n\nColumn 3: Appendix:"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.6",
+    "section_name": "MEASURE 2.6",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 2.6\n\nColumn 3: Appendix 3.A.D-3.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 4.1",
+    "section_name": "MEASURE 4.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 4.1\n\nColumn 3: Appendix 3.A.D-7.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.B.1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.B.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.B.6",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.B.6"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.A.P-6.ii",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.A.P-6.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.B.1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.B.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.B.6",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.B.6"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 5.A.U-2.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 5.A.U-2.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 5.A.U-3.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 5.A.U-3.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 5.A.U-6.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 5.A.U-6.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 3.1",
+    "section_name": "MEASURE 3.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 3.1\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Continual\n\nColumn 3: Main:\n\nColumn 4: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 3.2",
+    "section_name": "MEASURE 3.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 3.2\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Improvement\n\nColumn 3: Part 2.E.4"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix:",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix:"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 2.A.3-1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 2.A.3-1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 2.A.5-1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 2.A.5-1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "NIST AI RMF 1.0",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Topic: NIST AI RMF 1.0\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Topic\n\nColumn 3: Japan AI GfB\n\nColumn 4: Notable Similarities &"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "References",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Topic: References\n\nColumn 3: References\n\nColumn 4: Differences"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 1.5",
+    "section_name": "GOVERN 1.5",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Govern 1.5\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Continuous\n\nColumn 3: Main:\n\nColumn 4: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 3.2",
+    "section_name": "MANAGE 3.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Manage 3.2\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Monitoring\n\nColumn 3: Part 2.C.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 4.1",
+    "section_name": "MANAGE 4.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Manage 4.1\n\nColumn 3: Part 2.D.II"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 4.2",
+    "section_name": "MANAGE 4.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Manage 4.2\n\nColumn 3: Part 2.D.IV"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 4.3",
+    "section_name": "MANAGE 4.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Manage 4.3\n\nColumn 3: Part 2.E.4"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.4",
+    "section_name": "MEASURE 2.4",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 2.4"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 3.1",
+    "section_name": "MEASURE 3.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 3.1\n\nColumn 3: Appendix:"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 3.2",
+    "section_name": "MEASURE 3.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 3.2\n\nColumn 3: Appendix 2.A.3-3"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 2.A.4-2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 2.A.4-2"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 2.A.5-1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 2.A.5-1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 2.A.6-1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 2.A.6-1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.A.D-3.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.A.D-3.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.A.D-3.ii",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.A.D-3.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.A.D-5.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.A.D-5."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.B.1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.B.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.B.7",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.B.7"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.A.P-6.ii",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.A.P-6.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.B.6",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.B.6"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 1.7",
+    "section_name": "GOVERN 1.7",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Govern 1.7\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Decommission\n\nColumn 3: Appendix:\n\nColumn 4: The NIST AI RMF emphasizes"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 2.4",
+    "section_name": "MANAGE 2.4",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Manage 2.4\n\nColumn 3: Appendix 5.A.U-7.i\n\nColumn 4: the importance of establishing"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 5.A.U-7.ii",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 5.A.U-7.ii\n\nColumn 4: mechanisms and"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "responsibilities for safely",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 4: responsibilities for safely"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "decommissioning AI systems,",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 4: decommissioning AI systems,"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "while the Japan AI GfB focuses",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 4: while the Japan AI GfB focuses"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "on the necessary disclosure of",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 4: on the necessary disclosure of"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "information to stakeholders",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 4: information to stakeholders"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "following the end of AI systems",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 4: following the end of AI systems"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "and services use.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 4: and services use."
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 3.1",
+    "section_name": "GOVERN 3.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Govern 3.1\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Diversity and\n\nColumn 3: Main:\n\nColumn 4: Both the NIST AI RMF and the"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 1.2",
+    "section_name": "MAP 1.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Map 1.2\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Interdisciplinarity\n\nColumn 3: Part 2.C.1\n\nColumn 4: Japan AI GfB focus on the"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Part 2.C.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Part 2.C.3\n\nColumn 4: importance of diversity of AI"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Part 2.C.7",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Part 2.C.7\n\nColumn 4: actors in the mapping,"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "measuring, and managing of AI",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 4: measuring, and managing of AI"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix:",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix:\n\nColumn 4: risks throughout the lifecycle."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 2.A.1-2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 2.A.1-2\n\nColumn 4: In addition, the NIST AI RMF"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.B.1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.B.1\n\nColumn 4: emphasizes the importance of"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.B.1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.B.1\n\nColumn 4: including interdisciplinary"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 5.B.1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 5.B.1\n\nColumn 4: expertise from AI actors."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "NIST AI RMF 1.0",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Topic: NIST AI RMF 1.0\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Topic\n\nColumn 3: Japan AI GfB\n\nColumn 4: Notable Similarities &"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "References",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Topic: References\n\nColumn 3: References\n\nColumn 4: Differences"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 1.4",
+    "section_name": "GOVERN 1.4",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Govern 1.4\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Documentation\n\nColumn 3: Main:\n\nColumn 4: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 1.6",
+    "section_name": "GOVERN 1.6",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Govern 1.6\n\nColumn 3: Part 2.C.7"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 1.6",
+    "section_name": "MAP 1.6",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Map 1.6\n\nColumn 3: Part 2.D.II"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 2.2",
+    "section_name": "MAP 2.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Map 2.2\n\nColumn 3: Part 2.D.III"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 3.1",
+    "section_name": "MAP 3.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Map 3.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 3.3",
+    "section_name": "MAP 3.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Map 3.3\n\nColumn 3: Appendix:"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.1",
+    "section_name": "MEASURE 2.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 2.1\n\nColumn 3: Appendix 2.A.1-1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 2.A.3-3-1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 2.A.3-3-1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.A.D-5.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.A.D-5.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.A.D-7.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.A.D-7.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.A.D-7.ii",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.A.D-7.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.C.I",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.C.I"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.C.II",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.C.II"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.C.III",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.C.III"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.C.IV",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.C.IV"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.A.P-6.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.A.P-6.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.A.P-7.ii",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.A.P-7.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.B.6",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.B.6"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 4.3",
+    "section_name": "GOVERN 4.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Govern 4.3\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Drift\n\nColumn 3: Appendix:\n\nColumn 4: Both the NIST AI RMF and the"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 2.2",
+    "section_name": "MANAGE 2.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Manage 2.2\n\nColumn 3: Appendix 3.A.D-2.i\n\nColumn 4: Japan AI GfB state the possible"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.4",
+    "section_name": "MEASURE 2.4",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 2.4\n\nColumn 3: Appendix 3.A.D-6.i\n\nColumn 4: risk of drift in AI systems. In"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.A.D-7.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.A.D-7.i\n\nColumn 4: addition, the NIST AI RMF"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "emphasizes the importance of",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 4: emphasizes the importance of"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "a regular monitoring process",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 4: a regular monitoring process"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "to detect and respond to drift.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 4: to detect and respond to drift."
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.13",
+    "section_name": "MEASURE 2.13",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 2.13\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Effectiveness\n\nColumn 3: Main:\n\nColumn 4: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Part 2.E.4",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Part 2.E.4"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix:",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix:"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 2.A.3-1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 2.A.3-1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.B.6",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.B.6"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.12",
+    "section_name": "MEASURE 2.12",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 2.12\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Environmental\n\nColumn 3: Main:\n\nColumn 4: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Impact",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Impact\n\nColumn 3: Part 2.C.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Part 2.C.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Part 2.C.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix:",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix:"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 2.A.1-1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 2.A.1-1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 2.A.1-2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 2.A.1-2"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.A.D-2.ii",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.A.D-2.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.B.1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.B.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.C.VIII",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.C.VIII"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.A.P-2.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.A.P-2.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.B.1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.B.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.B.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.B.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 5.B.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 5.B.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "NIST AI RMF 1.0",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Topic: NIST AI RMF 1.0\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Topic\n\nColumn 3: Japan AI GfB\n\nColumn 4: Notable Similarities &"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "References",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Topic: References\n\nColumn 3: References\n\nColumn 4: Differences"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 1.2",
+    "section_name": "GOVERN 1.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Govern 1.2\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Explainability and\n\nColumn 3: Main:\n\nColumn 4: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 1.1",
+    "section_name": "MAP 1.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Map 1.1\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Interpretability\n\nColumn 3: Part 2.C.6"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 3.2",
+    "section_name": "MAP 3.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Map 3.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 1.1",
+    "section_name": "MEASURE 1.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 1.1\n\nColumn 3: Appendix:"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.9",
+    "section_name": "MEASURE 2.9",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 2.9\n\nColumn 3: Appendix 3.A.D-6.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 4.2",
+    "section_name": "MEASURE 4.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 4.2\n\nColumn 3: Appendix 3.B.6"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 4.3",
+    "section_name": "MEASURE 4.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 4.3\n\nColumn 3: Appendix 3.C.I"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.A.P-6.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.A.P-6.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.B.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.B.3"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.B.6",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.B.6"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 5.A.U-6.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 5.A.U-6.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 5.B.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 5.B.3"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 1.2",
+    "section_name": "GOVERN 1.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Govern 1.2\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Fairness and Bias\n\nColumn 3: Main:\n\nColumn 4: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 4.3",
+    "section_name": "GOVERN 4.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Govern 4.3\n\nColumn 3: Part 2.C.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 1.1",
+    "section_name": "MAP 1.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Map 1.1\n\nColumn 3: Part 2.C.3"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 3.2",
+    "section_name": "MAP 3.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Map 3.2\n\nColumn 3: Part 2.C.7"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 1.1",
+    "section_name": "MEASURE 1.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 1.1\n\nColumn 3: Part 2.D.XI"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.11",
+    "section_name": "MEASURE 2.11",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 2.11\n\nColumn 3: Part 2.E.3"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 4.2",
+    "section_name": "MEASURE 4.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 4.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 4.3",
+    "section_name": "MEASURE 4.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 4.3\n\nColumn 3: Appendix:"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 2.A.1-1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 2.A.1-1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 2.A.1-3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 2.A.1-3"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 2.A.3-1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 2.A.3-1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 2.A.3-3-2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 2.A.3-3-2"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 2.A.4-2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 2.A.4-2"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.A.D-3.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.A.D-3.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.A.D-3.ii",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.A.D-3.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.A.D-6.ii",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.A.D-6.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.A.D-7.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.A.D-7.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.B.1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.B.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.C.I",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.C.I"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.C.III",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.C.III"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.A.P-3.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.A.P-3.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.A.P-5.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.A.P-5.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.A.P-6.ii",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.A.P-6.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.B.1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.B.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.B.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.B.3"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 5.A.U-3.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 5.A.U-3.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 5.A.U-6.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 5.A.U-6.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 5.A.U-7.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 5.A.U-7.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 5.B.1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 5.B.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 5.B.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 5.B.3"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 5.B.8",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 5.B.8"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "NIST AI RMF 1.0",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Topic: NIST AI RMF 1.0\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Topic\n\nColumn 3: Japan AI GfB\n\nColumn 4: Notable Similarities &"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "References",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Topic: References\n\nColumn 3: References\n\nColumn 4: Differences"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 1.1",
+    "section_name": "GOVERN 1.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Govern 1.1\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Governance\n\nColumn 3: Main:\n\nColumn 4: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 1.2",
+    "section_name": "GOVERN 1.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Govern 1.2\n\nColumn 3: Part 2.C.7"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 1.3",
+    "section_name": "GOVERN 1.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Govern 1.3\n\nColumn 3: Part 2.D.V"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 1.4",
+    "section_name": "GOVERN 1.4",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Govern 1.4\n\nColumn 3: Part 2.E"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 1.5",
+    "section_name": "GOVERN 1.5",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Govern 1.5"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 1.6",
+    "section_name": "GOVERN 1.6",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Govern 1.6\n\nColumn 3: Appendix:"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 1.7",
+    "section_name": "GOVERN 1.7",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Govern 1.7\n\nColumn 3: Appendix 2"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 2.1",
+    "section_name": "GOVERN 2.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Govern 2.1\n\nColumn 3: Appendix 3.A.D-2.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 2.2",
+    "section_name": "GOVERN 2.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Govern 2.2\n\nColumn 3: Appendix 3.A.D-6.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 2.3",
+    "section_name": "GOVERN 2.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Govern 2.3\n\nColumn 3: Appendix 3.B.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 3.1",
+    "section_name": "GOVERN 3.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Govern 3.1\n\nColumn 3: Appendix 3.B.7"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 3.2",
+    "section_name": "GOVERN 3.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Govern 3.2\n\nColumn 3: Appendix 3.C.V"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 4.1",
+    "section_name": "GOVERN 4.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Govern 4.1\n\nColumn 3: Appendix 4.A.P-6.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 4.2",
+    "section_name": "GOVERN 4.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Govern 4.2\n\nColumn 3: Appendix 4.B.8"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 4.3",
+    "section_name": "GOVERN 4.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Govern 4.3\n\nColumn 3: Appendix 5.B.8"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 5.1",
+    "section_name": "GOVERN 5.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Govern 5.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 5.2",
+    "section_name": "GOVERN 5.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Govern 5.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 6.1",
+    "section_name": "GOVERN 6.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Govern 6.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 6.2",
+    "section_name": "GOVERN 6.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Govern 6.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 3.2",
+    "section_name": "GOVERN 3.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Govern 3.2\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Human Oversight\n\nColumn 3: Main:\n\nColumn 4: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 2.2",
+    "section_name": "MAP 2.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Map 2.2\n\nColumn 3: Part 2.C.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 3.5",
+    "section_name": "MAP 3.5",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Map 3.5\n\nColumn 3: Part 2.C.3"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Part 2.C.7",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Part 2.C.7"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix:",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix:"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.A.D-3.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.A.D-3.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.A.D-2.ii",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.A.D-2.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.A.D-3.ii",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.A.D-3.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.B.1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.B.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.A.P-2.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.A.P-2.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.B.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.B.3"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 5.A.U-3.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 5.A.U-3.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 5.A.U-7.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 5.A.U-7.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 5.B.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 5.B.3"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "NIST AI RMF 1.0",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Topic: NIST AI RMF 1.0\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Topic\n\nColumn 3: Japan AI GfB\n\nColumn 4: Notable Similarities &"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "References",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Topic: References\n\nColumn 3: References\n\nColumn 4: Differences"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.2",
+    "section_name": "MEASURE 2.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 2.2\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Human Subjects\n\nColumn 3: Main:\n\nColumn 4: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Protection",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Protection\n\nColumn 3: Part 2.C.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Part 2.C.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Part 2.C.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Part 2.C.4",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Part 2.C.4"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix:",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix:"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.A.D-2.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.A.D-2.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.A.D-2.ii",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.A.D-2.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.B.1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.B.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.B.4",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.B.4"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.C.VIII",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.C.VIII"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.A.P-2.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.A.P-2.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.A.P-4.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.A.P-4.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.A.P-4.ii\nAppendix 4.B.1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.A.P-4.ii\nAppendix 4.B.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.B.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.B.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 5.A.U-4.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 5.A.U-4.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 5.B.1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 5.B.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 5.B.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 5.B.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 3.2",
+    "section_name": "GOVERN 3.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Govern 3.2\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Human-AI\n\nColumn 3: Main:\n\nColumn 4: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 3.4",
+    "section_name": "MAP 3.4",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Map 3.4\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Teaming\n\nColumn 3: Part 2.C.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix:",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix:"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.A.D-3.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.A.D-3.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.B.1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.B.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.B.8",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.B.8"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.A.P-2.ii",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.A.P-2.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.A.P-7.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.A.P-7.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.B.1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.B.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.B.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.B.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.B.8",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.B.8"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 5.A.U-2.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 5.A.U-2.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 5.B.1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 5.B.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 5.B.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 5.B.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 5.B.8",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 5.B.8"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "NIST AI RMF 1.0",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Topic: NIST AI RMF 1.0\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Topic\n\nColumn 3: Japan AI GfB\n\nColumn 4: Notable Similarities &"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "References",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Topic: References\n\nColumn 3: References\n\nColumn 4: Differences"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 4.2",
+    "section_name": "GOVERN 4.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Govern 4.2\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Impact\n\nColumn 3: Main:\n\nColumn 4: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 4.3",
+    "section_name": "GOVERN 4.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Govern 4.3\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Assessment\n\nColumn 3: Part 2.C.6"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 5.1",
+    "section_name": "GOVERN 5.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Govern 5.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 5.2",
+    "section_name": "GOVERN 5.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Govern 5.2\n\nColumn 3: Appendix:"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 4.2",
+    "section_name": "MANAGE 4.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Manage 4.2\n\nColumn 3: Appendix 2.A.3-1"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 1.1",
+    "section_name": "MAP 1.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Map 1.1\n\nColumn 3: Appendix 3.B.4"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 1.6",
+    "section_name": "MAP 1.6",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Map 1.6\n\nColumn 3: Appendix 3.B.6"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 2.2",
+    "section_name": "MAP 2.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Map 2.2\n\nColumn 3: Appendix 3.C.I"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 2.3",
+    "section_name": "MAP 2.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Map 2.3\n\nColumn 3: Appendix 3.C.III"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 3.2",
+    "section_name": "MAP 3.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Map 3.2\n\nColumn 3: Appendix 4.A.P-6.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 5.1",
+    "section_name": "MAP 5.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Map 5.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 5.2",
+    "section_name": "MAP 5.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Map 5.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 1.2",
+    "section_name": "MEASURE 1.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 1.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 1.3",
+    "section_name": "MEASURE 1.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 1.3"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.3",
+    "section_name": "MEASURE 2.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 2.3"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 3.3",
+    "section_name": "MEASURE 3.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 3.3"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 1.1",
+    "section_name": "GOVERN 1.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Govern 1.1\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Legal and\n\nColumn 3: Main:\n\nColumn 4: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 6.1",
+    "section_name": "GOVERN 6.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Govern 6.1\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Regulatory\n\nColumn 3: Part 2.E.5"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 1.3",
+    "section_name": "MANAGE 1.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Manage 1.3"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 4.1",
+    "section_name": "MAP 4.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Map 4.1\n\nColumn 3: Appendix:"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 2.A.1-2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 2.A.1-2"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 2.A.3-3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 2.A.3-3"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 2.A.6-1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 2.A.6-1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.A.P-5.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.A.P-5.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.A.P-6.ii",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.A.P-6.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 2.2",
+    "section_name": "MAP 2.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Map 2.2\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Limitations\n\nColumn 3: Main:\n\nColumn 4: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 2.3",
+    "section_name": "MAP 2.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Map 2.3\n\nColumn 3: Part 2.C.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Part 2.C.6",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Part 2.C.6"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Part 2.D.III",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Part 2.D.III"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix:",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix:"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 2.A.3-3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 2.A.3-3"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "NIST AI RMF 1.0",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Topic: NIST AI RMF 1.0\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Topic\n\nColumn 3: Japan AI GfB\n\nColumn 4: Notable Similarities &"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "References",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Topic: References\n\nColumn 3: References\n\nColumn 4: Differences"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 3.2",
+    "section_name": "MANAGE 3.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Manage 3.2\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Pre-trained\n\nColumn 3: Appendix:\n\nColumn 4: The NIST AI RMF emphasizes"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 4.1",
+    "section_name": "MAP 4.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Map 4.1\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Models\n\nColumn 3: Appendix 3.B.4\n\nColumn 4: pre-trained models are to be"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 4.2",
+    "section_name": "MAP 4.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Map 4.2\n\nColumn 3: Appendix 4.A.P-5.ii\n\nColumn 4: monitored due to concerns"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "about privacy, bias, security,",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 4: about privacy, bias, security,"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "unanticipated effects,",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 4: unanticipated effects,"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "increased statistical",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 4: increased statistical"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "uncertainty, difficulty with",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 4: uncertainty, difficulty with"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "reproducibility, and issues",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 4: reproducibility, and issues"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "with scientific validity. The",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 4: with scientific validity. The"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "NIST AI RMF also emphasizes",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 4: NIST AI RMF also emphasizes"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "identifying and documenting",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 4: identifying and documenting"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "internal risk controls for",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 4: internal risk controls for"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "evaluating third-party",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 4: evaluating third-party"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "technologies to manage",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 4: technologies to manage"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "potential risks with pre-trained",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 4: potential risks with pre-trained"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "models. The Japan AI GfB",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 4: models. The Japan AI GfB"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "expands on the security issue",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 4: expands on the security issue"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "by stating the importance of",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 4: by stating the importance of"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "using model reliability",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 4: using model reliability"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "measures, learning",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 4: measures, learning"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "mechanisms, traditional",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 4: mechanisms, traditional"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "security measures against",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 4: security measures against"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "vulnerabilities, and detection,",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 4: vulnerabilities, and detection,"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "prevention, and removal of",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 4: prevention, and removal of"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "poisoning of pre-trained",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 4: poisoning of pre-trained"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "models.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 4: models."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "NIST AI RMF 1.0",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Topic: NIST AI RMF 1.0\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Topic\n\nColumn 3: Japan AI GfB\n\nColumn 4: Notable Similarities &"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "References",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Topic: References\n\nColumn 3: References\n\nColumn 4: Differences"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 1.2",
+    "section_name": "GOVERN 1.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Govern 1.2\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Privacy\n\nColumn 3: Main:\n\nColumn 4: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 1.1",
+    "section_name": "MAP 1.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Map 1.1\n\nColumn 3: Part 2.C.4"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 3.2",
+    "section_name": "MAP 3.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Map 3.2\n\nColumn 3: Part 2.C.6"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 1.1",
+    "section_name": "MEASURE 1.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 1.1\n\nColumn 3: Part 2.C.7"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.10",
+    "section_name": "MEASURE 2.10",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 2.10\n\nColumn 3: Part 2.D.V"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 4.2",
+    "section_name": "MEASURE 4.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 4.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 4.3",
+    "section_name": "MEASURE 4.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 4.3\n\nColumn 3: Appendix:"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 2.A.2-1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 2.A.2-1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 2.A.3-1-1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 2.A.3-1-1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 2.A.3-3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 2.A.3-3"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 2.A.3-4-2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 2.A.3-4-2"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.A.D-2.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.A.D-2.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.A.D-3.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.A.D-3.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.A.D-2.ii",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.A.D-2.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.A.D-2.iii",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.A.D-2.iii"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.A.D-5.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.A.D-5.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.A.D-6.ii",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.A.D-6.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.A.D-7.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.A.D-7.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.B.1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.B.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.B.4",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.B.4"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.B.6",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.B.6"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.B.7",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.B.7"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.C.I",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.C.I"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.C.III",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.C.III"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.C.V",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.C.V"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.C.VIII",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.C.VIII"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.C.XI",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.C.XI"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.A.P-2.ii",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.A.P-2.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.A.P-3.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.A.P-3.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.A.P-4.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.A.P-4.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.A.P-5.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.A.P-5.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.A.P-4.ii",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.A.P-4.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.A.P-5.ii",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.A.P-5.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.A.P-6.ii",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.A.P-6.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.A.P-7.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.A.P-7.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.A.P-7.ii",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.A.P-7.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 5.B.1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 5.B.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 5.A.U-2.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 5.A.U-2.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 5.A.U-3.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 5.A.U-3.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 5.A.U-4.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 5.A.U-4.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 5.A.U-7.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 5.A.U-7.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 5.B.8",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 5.B.8"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 1.1",
+    "section_name": "MANAGE 1.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Manage 1.1\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Risk Assessment\n\nColumn 3: Main:\n\nColumn 4: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 4.2",
+    "section_name": "MANAGE 4.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Manage 4.2\n\nColumn 3: Part 2.E.4"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 1.1",
+    "section_name": "MEASURE 1.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 1.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix:",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix:"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 2.A.1-1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 2.A.1-1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "NIST AI RMF 1.0",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Topic: NIST AI RMF 1.0\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Topic\n\nColumn 3: Japan AI GfB\n\nColumn 4: Notable Similarities &"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "References",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Topic: References\n\nColumn 3: References\n\nColumn 4: Differences"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 2.1",
+    "section_name": "GOVERN 2.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Govern 2.1\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Risk Culture\n\nColumn 3: Main:\n\nColumn 4: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 4.1",
+    "section_name": "GOVERN 4.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Govern 4.1\n\nColumn 3: Part 2.E"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 4.2",
+    "section_name": "GOVERN 4.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Govern 4.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 4.3",
+    "section_name": "GOVERN 4.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Govern 4.3\n\nColumn 3: Appendix:"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 2.A.6-1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 2.A.6-1"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 1.4",
+    "section_name": "MANAGE 1.4",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Manage 1.4\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Risk Response\n\nColumn 3: Appendix:\n\nColumn 4: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 2.3",
+    "section_name": "MANAGE 2.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Manage 2.3\n\nColumn 3: Appendix 2.A.3-4"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 2.4",
+    "section_name": "MANAGE 2.4",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Manage 2.4\n\nColumn 3: Appendix 3.B.4"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 4.1",
+    "section_name": "MANAGE 4.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Manage 4.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 1.3",
+    "section_name": "GOVERN 1.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Govern 1.3\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Risk Tolerance\n\nColumn 3: Appendix:\n\nColumn 4: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 2.3",
+    "section_name": "GOVERN 2.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Govern 2.3\n\nColumn 3: Appendix 2.A.2-1"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 1.2",
+    "section_name": "MANAGE 1.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Manage 1.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 1.3",
+    "section_name": "MANAGE 1.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Manage 1.3"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 2.1",
+    "section_name": "MANAGE 2.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Manage 2.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 1.5",
+    "section_name": "MAP 1.5",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Map 1.5"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 4.1",
+    "section_name": "MAP 4.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Map 4.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 2.4",
+    "section_name": "MANAGE 2.4",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Manage 2.4\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Risky Emergent\n\nColumn 3: Main:\n\nColumn 4: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 4.1",
+    "section_name": "MANAGE 4.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Manage 4.1\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Behavior\n\nColumn 3: Part 2.C.5"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 4.1",
+    "section_name": "MAP 4.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Map 4.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 1.1",
+    "section_name": "MEASURE 1.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 1.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.7",
+    "section_name": "MEASURE 2.7",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 2.7"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 1.2",
+    "section_name": "GOVERN 1.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Govern 1.2\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Safety\n\nColumn 3: Main:\n\nColumn 4: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 1.1",
+    "section_name": "MAP 1.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Map 1.1\n\nColumn 3: Part 2.C.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 3.2",
+    "section_name": "MAP 3.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Map 3.2\n\nColumn 3: Part 2.D.I"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 1.1",
+    "section_name": "MEASURE 1.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 1.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.6",
+    "section_name": "MEASURE 2.6",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 2.6\n\nColumn 3: Appendix:"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 4.2",
+    "section_name": "MEASURE 4.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 4.2\n\nColumn 3: Appendix 2.A.1-3"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 4.3",
+    "section_name": "MEASURE 4.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 4.3\n\nColumn 3: Appendix 3.A.D-2.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.A.D-10.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.A.D-10.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.B.7",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.B.7"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.A.P-6.ii",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.A.P-6.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.B.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.B.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 5.B.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 5.B.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 1.2",
+    "section_name": "GOVERN 1.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Govern 1.2\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Secure and\n\nColumn 3: Main:\n\nColumn 4: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 1.1",
+    "section_name": "MAP 1.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Map 1.1\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Resilient\n\nColumn 3: Part 2.C.8"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 3.2",
+    "section_name": "MAP 3.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Map 3.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 1.1",
+    "section_name": "MEASURE 1.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 1.1\n\nColumn 3: Appendix:"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.7",
+    "section_name": "MEASURE 2.7",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 2.7\n\nColumn 3: Appendix 3.A.D-2.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 4.2",
+    "section_name": "MEASURE 4.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 4.2\n\nColumn 3: Appendix 3.A.D-3.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 4.3",
+    "section_name": "MEASURE 4.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 4.3\n\nColumn 3: Appendix 3.A.D-5.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.B.8",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.B.8"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.A.P-5.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.A.P-5.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.B.8",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.B.8"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 5.B.8",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 5.B.8"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 2.2",
+    "section_name": "MANAGE 2.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Manage 2.2\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Societal Values\n\nColumn 3: Appendix:\n\nColumn 4: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 1.1",
+    "section_name": "MAP 1.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Map 1.1\n\nColumn 3: Appendix 2.A.1-2"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 1.3",
+    "section_name": "MAP 1.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Map 1.3\n\nColumn 3: Appendix 2.A.2-1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 2.A.5-1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 2.A.5-1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.A.P-4.ii",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.A.P-4.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "NIST AI RMF 1.0",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Topic: NIST AI RMF 1.0\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Topic\n\nColumn 3: Japan AI GfB\n\nColumn 4: Notable Similarities &"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "References",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Topic: References\n\nColumn 3: References\n\nColumn 4: Differences"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 1.1",
+    "section_name": "MAP 1.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Map 1.1\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Socio-technical\n\nColumn 3: Main:\n\nColumn 4: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 1.2",
+    "section_name": "MAP 1.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Map 1.2\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Systems\n\nColumn 3: Part 2.C.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 1.3",
+    "section_name": "MAP 1.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Map 1.3\n\nColumn 3: Part 2.C.4"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 1.6",
+    "section_name": "MAP 1.6",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Map 1.6\n\nColumn 3: Part 2.C.6"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 2.1",
+    "section_name": "MAP 2.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Map 2.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 3.1",
+    "section_name": "MAP 3.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Map 3.1\n\nColumn 3: Appendix:"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.A.D-3.ii",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.A.D-3.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.A.D-7.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.A.D-7.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.B.1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.B.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.B.4",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.B.4"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.B.6",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.B.6"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.A.P-6.ii",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.A.P-6.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 6.1",
+    "section_name": "GOVERN 6.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Govern 6.1\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Supply Chain\n\nColumn 3: Main:\n\nColumn 4: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 6.2",
+    "section_name": "GOVERN 6.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Govern 6.2\n\nColumn 3: Part 2.E"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 3.1",
+    "section_name": "MANAGE 3.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Manage 3.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 4.1",
+    "section_name": "MAP 4.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Map 4.1\n\nColumn 3: Appendix:"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 2.A.1-1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 2.A.1-1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 2.A.3-4-1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 2.A.3-4-1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.A.D-5.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.A.D-5.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.A.D-7.ii",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.A.D-7.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.B.8",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.B.8"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 1.1",
+    "section_name": "MAP 1.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Map 1.1\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: TEVV\n\nColumn 3: Main:\n\nColumn 4: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 2.3",
+    "section_name": "MAP 2.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Map 2.3\n\nColumn 3: Part 2.C.6"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 1.1",
+    "section_name": "MEASURE 1.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 1.1\n\nColumn 3: Part 2.D.I"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 1.2",
+    "section_name": "MEASURE 1.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 1.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.1",
+    "section_name": "MEASURE 2.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 2.1\n\nColumn 3: Appendix:"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.3",
+    "section_name": "MEASURE 2.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 2.3\n\nColumn 3: Appendix 2"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.4",
+    "section_name": "MEASURE 2.4",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 2.4\n\nColumn 3: Appendix 3.A.D-3.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.5",
+    "section_name": "MEASURE 2.5",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 2.5\n\nColumn 3: Appendix 3.A.D-2.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.6",
+    "section_name": "MEASURE 2.6",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 2.6\n\nColumn 3: Appendix 3.A.D-3.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.7",
+    "section_name": "MEASURE 2.7",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 2.7\n\nColumn 3: Appendix 3.B.4"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.8",
+    "section_name": "MEASURE 2.8",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 2.8\n\nColumn 3: Appendix 4.A.P-6.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.9",
+    "section_name": "MEASURE 2.9",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 2.9\n\nColumn 3: Appendix 5.A.U-2.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.10",
+    "section_name": "MEASURE 2.10",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 2.10"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.11",
+    "section_name": "MEASURE 2.11",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 2.11"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.12",
+    "section_name": "MEASURE 2.12",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 2.12"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.13",
+    "section_name": "MEASURE 2.13",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 2.13"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 3.1",
+    "section_name": "MEASURE 3.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 3.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 3.3",
+    "section_name": "MEASURE 3.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 3.3"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 4.1",
+    "section_name": "MEASURE 4.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 4.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 4.2",
+    "section_name": "MEASURE 4.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 4.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 4.3",
+    "section_name": "MEASURE 4.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 4.3"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "NIST AI RMF 1.0",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Topic: NIST AI RMF 1.0\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Topic\n\nColumn 3: Japan AI GfB\n\nColumn 4: Notable Similarities &"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "References",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Topic: References\n\nColumn 3: References\n\nColumn 4: Differences"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 6.1",
+    "section_name": "GOVERN 6.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Govern 6.1\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Third-party\n\nColumn 3: Appendix:\n\nColumn 4: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 6.2",
+    "section_name": "GOVERN 6.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Govern 6.2\n\nColumn 3: Appendix 3.A.D-2.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 3.1",
+    "section_name": "MANAGE 3.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Manage 3.1\n\nColumn 3: Appendix 3.A.D-2.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 4.1",
+    "section_name": "MAP 4.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Map 4.1\n\nColumn 3: Appendix 3.A.D-7.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 4.2",
+    "section_name": "MAP 4.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Map 4.2\n\nColumn 3: Appendix 3.C.II"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.A.P-5.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.A.P-5.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.B.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.B.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 5.A.U-5.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 5.A.U-5.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 5.A.U-7.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 5.A.U-7.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 5.A.U-7.ii",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 5.A.U-7.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 5.B.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 5.B.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 6.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 6.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 2.2",
+    "section_name": "GOVERN 2.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Govern 2.2\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Training (of AI\n\nColumn 3: Appendix:\n\nColumn 4: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Actors)",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Actors)\n\nColumn 3: Appendix 2.A.1-3"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 2.A.2-1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 2.A.2-1"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.A.D-5.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.A.D-5.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.B.8",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.B.8"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 1.2",
+    "section_name": "GOVERN 1.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Govern 1.2\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Validity and\n\nColumn 3: Main:\n\nColumn 4: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 1.1",
+    "section_name": "MAP 1.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Map 1.1\n\nConceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk: Reliability\n\nColumn 3: Part 2.C.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 3.2",
+    "section_name": "MAP 3.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Map 3.2\n\nColumn 3: Part 2.D.VII"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 1.1",
+    "section_name": "MEASURE 1.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 1.1\n\nColumn 3: Part 2.D.VIII"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.1",
+    "section_name": "MEASURE 2.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 2.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.5",
+    "section_name": "MEASURE 2.5",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 2.5\n\nColumn 3: Appendix:"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 4.2",
+    "section_name": "MEASURE 4.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 4.2\n\nColumn 3: Appendix 2.A.3-2"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 4.3",
+    "section_name": "MEASURE 4.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Topic: Measure 4.3\n\nColumn 3: Appendix 3.A.D-2.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 3.A.D-10.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 3.A.D-10.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.A.P-2.i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.A.P-2.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.A.P-5.ii",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.A.P-5.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appendix 4.B.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 3: Appendix 4.B.3"
+  }
+]

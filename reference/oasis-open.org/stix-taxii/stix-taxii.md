@@ -60,8 +60,8 @@ with common sharing models.
 TAXII is specifically designed to support the exchange of CTI represented in
 STIX.
 
-  
-  
+
+
 
 ![TAXII Collections](/cti-documentation/img/taxii_diagram.png) **TAXII
 Collections**
@@ -77,4 +77,3 @@ sharing for cybersecurity situational awareness, real-time network defense,
 and sophisticated threat analysis.
 
 Site Last Updated: Mon Jan 19 15:39:19 UTC 2026
-

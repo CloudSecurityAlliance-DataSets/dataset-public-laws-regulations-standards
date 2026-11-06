@@ -1,0 +1,105 @@
+[
+  {
+    "FedRAMP® Rev. 4 to Rev. 5 Assessment Controls - CSP-Specific Controls": "Indicate Rationale:  POA&M Closure, DR, System Change, Periodic Testing Requirement, Selected by CSP",
+    "_sheet": "FedRAMP-Rev-4-to-Rev-5-Assessment-Controls-Selection-Template-CSP-Specific Controls"
+  },
+  {
+    "FedRAMP® Rev. 4 to Rev. 5 Assessment Controls - Conditional Controls - High": "If the change described below has been previously tested, then the control does not need to be tested again; however, the analysis must be provided.",
+    "_sheet": "FedRAMP-Rev-4-to-Rev-5-Assessment-Controls-Selection-Template-Conditional Controls - High"
+  },
+  {
+    "FedRAMP® Rev. 4 to Rev. 5 Assessment Controls - Conditional Controls - High": "Analysis - Describe how the 3PAO determined that the control was previously assessed (E.g. \"Reviewed ABC.doc section 1.2.3 and XYZ_2-4-2013.xls Row 100\")",
+    "_sheet": "FedRAMP-Rev-4-to-Rev-5-Assessment-Controls-Selection-Template-Conditional Controls - High"
+  },
+  {
+    "FedRAMP® Rev. 4 to Rev. 5 Assessment Controls - Conditional Controls - Low": "If the change described below has been previously tested, then the control does not need to be tested again; however, the analysis must be provided.",
+    "_sheet": "FedRAMP-Rev-4-to-Rev-5-Assessment-Controls-Selection-Template-Conditional Controls - Low"
+  },
+  {
+    "FedRAMP® Rev. 4 to Rev. 5 Assessment Controls - Conditional Controls - Low": "Analysis - Describe how the 3PAO determined that the control was previously assessed (E.g. \"Reviewed ABC.doc section 1.2.3 and XYZ_2-4-2013.xls Row 100\")",
+    "_sheet": "FedRAMP-Rev-4-to-Rev-5-Assessment-Controls-Selection-Template-Conditional Controls - Low"
+  },
+  {
+    "FedRAMP® Rev. 4 to Rev. 5 Assessment Controls - Conditional Controls - Moderate": "If the change described below has been previously tested, then the control does not need to be tested again; however, the analysis must be provided.",
+    "_sheet": "FedRAMP-Rev-4-to-Rev-5-Assessment-Controls-Selection-Template-Conditional Controls - Mod."
+  },
+  {
+    "FedRAMP® Rev. 4 to Rev. 5 Assessment Controls - Conditional Controls - Moderate": "Analysis - Describe how the 3PAO determined that the control was previously assessed (E.g. \"Reviewed ABC.doc section 1.2.3 and XYZ_2-4-2013.xls Row 100\")",
+    "_sheet": "FedRAMP-Rev-4-to-Rev-5-Assessment-Controls-Selection-Template-Conditional Controls - Mod."
+  },
+  {
+    "FedRAMP® Rev. 4 to Rev. 5 Assessment Controls - CSP Inherited Controls": "Required for Testing in this Assessment (Yes/No)",
+    "_sheet": "FedRAMP-Rev-4-to-Rev-5-Assessment-Controls-Selection-Template-Inherited Controls"
+  },
+  {
+    "Col_1": "Record of Changes for Template",
+    "Col_2": "Record of Changes for Template",
+    "Col_3": "Record of Changes for Template",
+    "Col_4": "Record of Changes for Template",
+    "_sheet": "FedRAMP-Rev-4-to-Rev-5-Assessment-Controls-Selection-Template-Record of Changes"
+  },
+  {
+    "Col_1": "Date",
+    "Col_2": "Description",
+    "Col_3": "Version",
+    "Col_4": "Author",
+    "_sheet": "FedRAMP-Rev-4-to-Rev-5-Assessment-Controls-Selection-Template-Record of Changes"
+  },
+  {
+    "Col_1": "2023-06-30 00:00:00",
+    "Col_2": "Initial publication",
+    "Col_3": "1",
+    "Col_4": "FedRAMP PMO",
+    "_sheet": "FedRAMP-Rev-4-to-Rev-5-Assessment-Controls-Selection-Template-Record of Changes"
+  },
+  {
+    "Col_1": "2023-08-10 00:00:00",
+    "Col_2": "Removed a duplicate control and eliminated an incorrect reference to a control",
+    "Col_3": "1.1",
+    "Col_4": "FedRAMP PMO",
+    "_sheet": "FedRAMP-Rev-4-to-Rev-5-Assessment-Controls-Selection-Template-Record of Changes"
+  },
+  {
+    "Col_1": "2024-02-15 00:00:00",
+    "Col_2": "Added CA-8 (2) as a New control to the High and Moderate tabs",
+    "Col_3": "1.2",
+    "Col_4": "FedRAMP PMO",
+    "_sheet": "FedRAMP-Rev-4-to-Rev-5-Assessment-Controls-Selection-Template-Record of Changes"
+  },
+  {
+    "FedRAMP® Rev. 4 to Rev. 5 Controls Selection Worksheet - High": "General Information:",
+    "_sheet": "FedRAMP-Rev-4-to-Rev-5-Assessment-Controls-Selection-Template-Rev. 5 List of Controls - High"
+  },
+  {
+    "FedRAMP® Rev. 4 to Rev. 5 Controls Selection Worksheet - High": "Total Number of Controls Selected for This Assessment",
+    "_sheet": "FedRAMP-Rev-4-to-Rev-5-Assessment-Controls-Selection-Template-Rev. 5 List of Controls - High"
+  },
+  {
+    "FedRAMP® Rev. 4 to Rev. 5 Controls Selection Worksheet - High": "139",
+    "_sheet": "FedRAMP-Rev-4-to-Rev-5-Assessment-Controls-Selection-Template-Rev. 5 List of Controls - High"
+  },
+  {
+    "FedRAMP® Rev. 4 to Rev. 5 Controls Selection Worksheet - Low": "General Information:",
+    "_sheet": "FedRAMP-Rev-4-to-Rev-5-Assessment-Controls-Selection-Template-Rev. 5 List of Controls - Low"
+  },
+  {
+    "FedRAMP® Rev. 4 to Rev. 5 Controls Selection Worksheet - Low": "Total Number of Controls Selected for This Assessment",
+    "_sheet": "FedRAMP-Rev-4-to-Rev-5-Assessment-Controls-Selection-Template-Rev. 5 List of Controls - Low"
+  },
+  {
+    "FedRAMP® Rev. 4 to Rev. 5 Controls Selection Worksheet - Low": "87",
+    "_sheet": "FedRAMP-Rev-4-to-Rev-5-Assessment-Controls-Selection-Template-Rev. 5 List of Controls - Low"
+  },
+  {
+    "FedRAMP® Rev. 4 to Rev. 5 Controls Selection Worksheet - Moderate": "General Information:",
+    "_sheet": "FedRAMP-Rev-4-to-Rev-5-Assessment-Controls-Selection-Template-Rev. 5 List of Controls - Mod."
+  },
+  {
+    "FedRAMP® Rev. 4 to Rev. 5 Controls Selection Worksheet - Moderate": "Total Number of Controls Selected for This Assessment",
+    "_sheet": "FedRAMP-Rev-4-to-Rev-5-Assessment-Controls-Selection-Template-Rev. 5 List of Controls - Mod."
+  },
+  {
+    "FedRAMP® Rev. 4 to Rev. 5 Controls Selection Worksheet - Moderate": "130",
+    "_sheet": "FedRAMP-Rev-4-to-Rev-5-Assessment-Controls-Selection-Template-Rev. 5 List of Controls - Mod."
+  }
+]

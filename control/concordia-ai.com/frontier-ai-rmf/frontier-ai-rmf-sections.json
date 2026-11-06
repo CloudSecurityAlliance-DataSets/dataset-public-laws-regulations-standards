@@ -1,0 +1,42 @@
+[
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "Frontier AI Risk Management Framework",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "![](https://concordia-ai.com/wp-content/uploads/2025/07/双语封面（无版本号）-scaled.jpg)\n\nJuly 2025\n\nShanghai AI Laboratory and Concordia AI are proud to introduce the Frontier AI\nRisk Management Framework v1.0 (the “Framework”). We propose a robust set of\nprotocols designed to empower general-purpose AI developers with comprehensive\nguidelines for proactively identifying, assessing, mitigating, and governing a\nset of severe AI risks that pose threats to public safety and national\nsecurity, thereby safeguarding individuals and society.\n\nThis framework serves as a guideline for general-purpose AI model developers\nto manage the potential severe risks from their general-purpose AI models. The\nframework encompasses six interconnected stages: **Risk Identification**\ncategorises four major risk types (misuse, loss of control, accident, and\nsystemic risks); **Risk Thresholds** establish a set of unacceptable outcomes\n(red lines) and early warning indicators for escalating safety and security\nmeasures (yellow lines); **Risk Analysis** recommends conducting risk analysis\nthroughout the entire AI development lifecycle to determine whether the AI has\ncrossed the yellow lines; **Risk Evaluation** classifies models into green,\nyellow, or red zones based on risk levels; **Risk Mitigation** outlines\ndefense-in-depth approaches spanning safety training, deployment measures, and\nmodel security measures; and **Risk Governance** provides oversight mechanisms\nincluding internal governance, transparency and social oversight, emergency\ncontrols, and policy updates.\n\nRecognising AI safety as a global public good, we call for widespread adoption\nof compatible frameworks across the industry. This collaborative approach is\nessential to ensure that transformative AI technologies benefit humanity while\navoiding catastrophic risks, fostering a global “race to the top” in AI safety\nstandards.\n\nAlongside the Framework, Shanghai AI Laboratory released a technical report\n(_Frontier AI Risk Management Framework in Practice: A Risk Analysis Technical\nReport_) that evaluated several frontier models across seven key areas: (1)\ncyber offense, (2) biological and chemical risks, (3) persuasion and\nmanipulation, (4) strategic deception and scheming, (5) uncontrolled\nautonomous AI R&D, (6) self-replication, and (7) collusion. Concordia AI led\nthe biological and chemical risk evaluation of the technical report.\n\n[[English Version](https://concordia-ai.com/wp-\ncontent/uploads/2025/07/Frontier-AI-Risk-Management-Framework-v1.0-en.pdf)]\n[[Chinese Version](https://concordia-ai.com/wp-\ncontent/uploads/2025/07/Frontier-AI-Risk-Management-Framework-v1.0-cn.pdf)]\n\nAuthors: Shanghai AI Laboratory and Concordia AI"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Share This",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "* [ Twitter ](#)\n  * [ Facebook ](#)\n  * [ LinkedIn ](#)\n  * [ WeChat ](https://www.addtoany.com/ext/wechat/share/#url=https%3A%2F%2Fconcordia-ai.com%2Fresearch%2Ffrontier-ai-risk-management-framework%2F)\n  * [ Weibo ](https://service.weibo.com/share/share.php?url=https%3A%2F%2Fconcordia-ai.com%2Fresearch%2Ffrontier-ai-risk-management-framework%2F&title=Frontier%20AI%20Risk%20Management%20Framework)\n  * [ Email ](#)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Keep up to date with AI safety in China",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Our newsletter is the best way to stay up to date on China’s AI safety and\ngovernance.\n\nSubscribe\n\nBy subscribing, I agree to Substack’s [Terms of Use](https://substack.com/tos)\nand acknowledge its [Information Collection\nNotice](https://substack.com/ccpa#personal-data-collected) and [Privacy\nPolicy](https://substack.com/privacy)\n\n![](https://concordia-ai.com/wp-content/uploads/2025/02/Concordia-AI-logo-zh-\nhans-res.png)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Get Involved",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "[Careers](https://concordia-ai.com/about-us/careers/)\n\n[Contact](https://concordia-ai.com/contact/)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Follow Us",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "[LinkedIn](https://www.linkedin.com/company/concordiachina)[YouTube](https://www.youtube.com/channel/UCocWOR7NFRrnsVugM6ly_jw)[WeChat](https://mp.weixin.qq.com/s/7RQ4SL1Vy1PEDtG0gBpwHw)[Email](mailto:\ninfo@concordia-ai.com)\n\n[AI Safety in China](https://aisafetychina.substack.com/)\n\n[Chinese Perspectives on AI Safety](http://chineseperspectives.ai/)\n\n© 2026 Concordia AI （北京谋远咨询有限公司) -\n[京ICP备2022027933号-3](https://beian.miit.gov.cn/#/Integrated/recordQuery)\n\n  * [Privacy Policy](https://substack.com/privacy)\n\n[Back To Top](#top)"
+  }
+]

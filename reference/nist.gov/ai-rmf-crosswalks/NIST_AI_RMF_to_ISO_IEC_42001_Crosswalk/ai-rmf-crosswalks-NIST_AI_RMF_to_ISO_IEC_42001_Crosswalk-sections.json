@@ -1,0 +1,3442 @@
+[
+  {
+    "depth": 2,
+    "section_id": "GOVERN 1.1",
+    "section_name": "GOVERN 1.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Govern 1.1\n\nAI RMF: Legal and regulatory requirements\ninvolving AI are understood,\nmanaged, and documented.\n\ncol_3: 4.1\n\nISO/IEC FDIS 42001: Understanding the organization and its context"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "6.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: 6.2\n\nISO/IEC FDIS 42001: AI objectives and planning to achieve them"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.2.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.2.2\n\nISO/IEC FDIS 42001: AI policy"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.2.4",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.2.4\n\nISO/IEC FDIS 42001: Review of the AI policy"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 1.2",
+    "section_name": "GOVERN 1.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Govern 1.2\n\nAI RMF: The characteristics of trustworthy AI\nare integrated into organizational\npolicies, processes, procedures, and\npractices.\n\ncol_3: B.9.3\n\nISO/IEC FDIS 42001: Objectives for responsible use of AI system"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.6.1.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.6.1.2\n\nISO/IEC FDIS 42001: Objectives for responsible development of AI\nsystem"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.6.1.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.6.1.3\n\nISO/IEC FDIS 42001: Processes for responsible design and"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "development of AI systems",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "ISO/IEC FDIS 42001: development of AI systems"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.10.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.10.3\n\nISO/IEC FDIS 42001: Suppliers"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.2.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.2.2\n\nISO/IEC FDIS 42001: AI policy"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "4.4",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: 4.4\n\nISO/IEC FDIS 42001: AI management system"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "5.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: 5.2\n\nISO/IEC FDIS 42001: AI Policy"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 1.3",
+    "section_name": "GOVERN 1.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Govern 1.3\n\nAI RMF: Processes, procedures, and practices\nare in place to determine the needed\nlevel of risk management activities\nbased on the organization's risk\ntolerance.\n\ncol_3: 6.1.2\n\nISO/IEC FDIS 42001: AI risk assessment"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "6.1.1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: 6.1.1\n\nISO/IEC FDIS 42001: General"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "6.1.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: 6.1.3\n\nISO/IEC FDIS 42001: AI risk treatment"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 1.4",
+    "section_name": "GOVERN 1.4",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Govern 1.4\n\nAI RMF: The risk management process and its\noutcomes are established through\ntransparent policies, procedures, and\nother controls based on\norganizational risk priorities.\n\ncol_3: 6.1.2\n\nISO/IEC FDIS 42001: AI risk assessment"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "6.1.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: 6.1.3\n\nISO/IEC FDIS 42001: AI risk treatment"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "8.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: 8.3\n\nISO/IEC FDIS 42001: AI risk treatment"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 1.5",
+    "section_name": "GOVERN 1.5",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Govern 1.5\n\nAI RMF: Ongoing monitoring and periodic\nreview of the risk management\nprocess and its outcomes are planned\nand organizational roles and\nresponsibilities clearly defined,\nincluding determining the frequency\nof periodic review.\n\ncol_3: 8.2\n\nISO/IEC FDIS 42001: AI risk assessment"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "8.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: 8.3\n\nISO/IEC FDIS 42001: AI risk treatment"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "8.4",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: 8.4\n\nISO/IEC FDIS 42001: AI system impact assessment"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 1.6",
+    "section_name": "GOVERN 1.6",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Govern 1.6\n\nAI RMF: Mechanisms are in place to inventory\nAI systems and are resourced\naccording to organizational risk\npriorities.\n\ncol_3: B.4.5\n\nISO/IEC FDIS 42001: System and computing resources"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.4.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.4.3\n\nISO/IEC FDIS 42001: Data resources"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.4.4",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.4.4\n\nISO/IEC FDIS 42001: Tooling resources"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.4.6",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.4.6\n\nISO/IEC FDIS 42001: Human resources"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.4.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.4.2\n\nISO/IEC FDIS 42001: Resource documentation"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 1.7",
+    "section_name": "GOVERN 1.7",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Govern 1.7\n\nAI RMF: Processes and procedures are in place\nfor decommissioning and phasing out\n\ncol_3: B.6.2.6\n\nISO/IEC FDIS 42001: AI system operation and monitoring"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "AI systems safely and in a manner that",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: AI systems safely and in a manner that"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "does not increase risks or decrease",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: does not increase risks or decrease"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "the organization's trustworthiness.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: the organization's trustworthiness."
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 2.1",
+    "section_name": "GOVERN 2.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Govern 2.1\n\nAI RMF: Roles and responsibilities and lines of\ncommunication related to mapping,\nmeasuring, and managing AI risks are\ndocumented and are clear to\nindividuals and teams throughout the\norganization.\n\ncol_3: 9.1\n\nISO/IEC FDIS 42001: Monitoring, measurement, analysis and\nevaluation"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "5.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: 5.3\n\nISO/IEC FDIS 42001: Roles, responsibilities and authorities"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "7.1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: 7.1\n\nISO/IEC FDIS 42001: Resources"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "72",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: 72\n\nISO/IEC FDIS 42001: Competence"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "7.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: 7.3\n\nISO/IEC FDIS 42001: Awareness"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "7.4",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: 7.4\n\nISO/IEC FDIS 42001: Communication"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.3.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.3.2\n\nISO/IEC FDIS 42001: AI roles and responsibilities"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 2.2",
+    "section_name": "GOVERN 2.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Govern 2.2\n\nAI RMF: The organization's personnel and\npartners receive AI risk management\ntraining to enable them to perform\ntheir duties and responsibilities\nconsistent with related policies,\nprocedures, and agreements.\n\ncol_3: 7.2\n\nISO/IEC FDIS 42001: Competence"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 2.3",
+    "section_name": "GOVERN 2.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Govern 2.3\n\nAI RMF: Executive leadership of the\norganization takes responsibility for\ndecisions about risks associated with\nAI system development and\ndeployment.\n\ncol_3: 5.1\n\nISO/IEC FDIS 42001: Leadership and commitment"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "9.3.1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: 9.3.1\n\nISO/IEC FDIS 42001: General"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "9.3.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: 9.3.2\n\nISO/IEC FDIS 42001: Management review inputs"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "9.3.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: 9.3.3\n\nISO/IEC FDIS 42001: Management review results"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "5.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: 5.2\n\nISO/IEC FDIS 42001: AI Policy"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 3.1",
+    "section_name": "GOVERN 3.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Govern 3.1\n\nAI RMF: Decision-making related to mapping,\nmeasuring, and managing AI risks\nthroughout the lifecycle is informed\nby a diverse team (e.g., diversity of\ndemographics, disciplines, experience,\nexpertise, and backgrounds).\n\ncol_3: B.4.6\n\nISO/IEC FDIS 42001: Human resources"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.5.4",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.5.4\n\nISO/IEC FDIS 42001: Assessing AI system impact on individuals and\ngroups of individuals"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 3.2",
+    "section_name": "GOVERN 3.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Govern 3.2\n\nAI RMF: Policies and procedures are in place to\ndefine and differentiate roles and\nresponsibilities for human-AI\nconfigurations and oversight of AI\nsystems.\n\ncol_3: B.6.1.3\n\nISO/IEC FDIS 42001: Processes for responsible design and\ndevelopment of AI systems"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.9.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.9.3\n\nISO/IEC FDIS 42001: Objectives for responsible use of AI system"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.4.6",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.4.6\n\nISO/IEC FDIS 42001: Human resources"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.5.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.5.3\n\nISO/IEC FDIS 42001: Documentation of AI system impact"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "assessments",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "ISO/IEC FDIS 42001: assessments"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "7.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: 7.2\n\nISO/IEC FDIS 42001: Competence"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.3.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.3.2\n\nISO/IEC FDIS 42001: Management review inputs"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 4.1",
+    "section_name": "GOVERN 4.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Govern 4.1\n\nAI RMF: Organizational policies and practices\nare in place to foster a critical thinking\nand safety-first mindset in the design,\ndevelopment, deployment, and uses\nof AI systems to minimize potential\nnegative impacts.\n\ncol_3: B.5.2\n\nISO/IEC FDIS 42001: AI system impact assessment process"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.6.1.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.6.1.2\n\nISO/IEC FDIS 42001: Objectives for responsible development of AI\nsystem"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.6.1.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.6.1.3\n\nISO/IEC FDIS 42001: Processes for responsible design and\ndevelopment of AI systems"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.9.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.9.2\n\nISO/IEC FDIS 42001: Processes for responsible use of AI"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.9.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.9.3\n\nISO/IEC FDIS 42001: Objectives for responsible use of AI system"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.10.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.10.3\n\nISO/IEC FDIS 42001: Suppliers"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.5.4",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.5.4\n\nISO/IEC FDIS 42001: Assessing AI system impact on individuals and\ngroups of individuals"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 4.2",
+    "section_name": "GOVERN 4.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Govern 4.2\n\nAI RMF: Organizational teams document the\nrisks and potential impacts of the AI\ntechnology they design, develop,\ndeploy, evaluate, and use, and they\ncommunicate about the impacts more\nbroadly.\n\ncol_3: B.5.4\n\nISO/IEC FDIS 42001: Assessing AI system impact on individuals and\ngroups of individuals"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.8.5",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.8.5\n\nISO/IEC FDIS 42001: Information for interested parties"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "7.4",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: 7.4\n\nISO/IEC FDIS 42001: Communication"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "6.1.4",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: 6.1.4\n\nISO/IEC FDIS 42001: AI system impact assessment"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.5.5",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.5.5\n\nISO/IEC FDIS 42001: Assessing societal impacts of AI systems"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 4.3",
+    "section_name": "GOVERN 4.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Govern 4.3\n\nAI RMF: Organizational practices are in place\nto enable AI testing, identification of\nincidents, and information sharing.\n\ncol_3: B.6.2.4\n\nISO/IEC FDIS 42001: AI system verification and validation"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.6.2.6",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.6.2.6\n\nISO/IEC FDIS 42001: AI system operation and monitoring"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.6.2.7",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.6.2.7\n\nISO/IEC FDIS 42001: AI system technical documentation"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.8.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.8.2\n\nISO/IEC FDIS 42001: System documentation and information for\nusers"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.8.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.8.3\n\nISO/IEC FDIS 42001: External reporting"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.8.4",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.8.4\n\nISO/IEC FDIS 42001: Communication of incidents"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.8.5",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.8.5\n\nISO/IEC FDIS 42001: Information for interested parties"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.6.1.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.6.1.2\n\nISO/IEC FDIS 42001: Objectives for responsible development of AI\nsystem"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.6.1.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.6.1.3\n\nISO/IEC FDIS 42001: Processes for responsible design and"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "development of AI systems",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "ISO/IEC FDIS 42001: development of AI systems"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 5.1",
+    "section_name": "GOVERN 5.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Govern 5.1\n\nAI RMF: Organizational policies and practices\nare in place to collect, consider,\nprioritize, and integrate feedback\nfrom those external to the team that\ndeveloped or deployed the AI system\nregarding the potential individual and\nsocietal impacts related to AI risks.\n\ncol_3: B.10.4\n\nISO/IEC FDIS 42001: Customers"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.5.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.5.3\n\nISO/IEC FDIS 42001: Documentation of AI system impact"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.5.4",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.5.4\n\nISO/IEC FDIS 42001: assessments\nAssessing AI system impact on individuals and\ngroups of individuals"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.8.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.8.3\n\nISO/IEC FDIS 42001: External reporting"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 5.2",
+    "section_name": "GOVERN 5.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Govern 5.2\n\nAI RMF: Mechanisms are established to enable\nthe team that developed or deployed\nAI systems to regularly incorporate\nadjudicated feedback from relevant AI\nactors into system design and\nimplementation.\n\ncol_3: B.8.3\n\nISO/IEC FDIS 42001: External reporting"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.10.4",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.10.4\n\nISO/IEC FDIS 42001: Customers"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.5.4",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.5.4\n\nISO/IEC FDIS 42001: Assessing AI system impact on individuals and\ngroups of individuals"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.5.5",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.5.5\n\nISO/IEC FDIS 42001: Assessing societal impacts of AI systems"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.6.1.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.6.1.3\n\nISO/IEC FDIS 42001: Processes for responsible design and\ndevelopment of AI systems"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 5.2",
+    "section_name": "GOVERN 5.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Govern 5.2\n\nAI RMF: Mechanisms are established to enable\nthe team that developed or deployed\nAI systems to regularly incorporate\nadjudicated feedback from relevant AI\nactors into system design and\nimplementation.\n\ncol_3: B.6.2.6\n\nISO/IEC FDIS 42001: AI system operation and monitoring"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 6.1",
+    "section_name": "GOVERN 6.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Govern 6.1\n\nAI RMF: Policies and procedures are in place\n\ncol_3: B.10.2\n\nISO/IEC FDIS 42001: Allocating responsibilities"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "that address AI risks associated with",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: that address AI risks associated with"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "third-party entities, including risks of",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: third-party entities, including risks of"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "infringement of a third-party's\nintellectual property or other rights.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: infringement of a third-party's\nintellectual property or other rights."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.10.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.10.3\n\nISO/IEC FDIS 42001: Suppliers"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 6.2",
+    "section_name": "GOVERN 6.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Govern 6.2\n\nAI RMF: Contingency processes are in place to\n\ncol_3: B.10.2\n\nISO/IEC FDIS 42001: Allocating responsibilities"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "handle failures or incidents in third",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: handle failures or incidents in third"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "party data or AI systems deemed to",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: party data or AI systems deemed to"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "be high-risk.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: be high-risk."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.10.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.10.3\n\nISO/IEC FDIS 42001: Suppliers"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 1.1",
+    "section_name": "MAP 1.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Map 1.1\n\nAI RMF: Intended purposes, potentially\n\ncol_3: 6.1.4\n\nISO/IEC FDIS 42001: AI system impact assessment"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "beneficial uses, context specific laws,",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: beneficial uses, context specific laws,"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "norms and expectations, and",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: norms and expectations, and"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "prospective settings in which the AI",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: prospective settings in which the AI"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "system will be deployed are",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: system will be deployed are"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "understood and documented.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: understood and documented."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Considerations include: the specific",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: Considerations include: the specific"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "set or types of users along with their",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: set or types of users along with their"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "expectations; potential positive and",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: expectations; potential positive and"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "negative impacts of system uses to",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: negative impacts of system uses to"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "individuals, communities,",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: individuals, communities,"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "organizations, society, and the planet;",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: organizations, society, and the planet;"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "assumptions and related limitations",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: assumptions and related limitations"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "about AI system purposes, uses, and",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: about AI system purposes, uses, and"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "risks across the development or",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: risks across the development or"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "product AI lifecycle; and related TEVV",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: product AI lifecycle; and related TEVV"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "and system metrics.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: and system metrics."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.5.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.5.2\n\nISO/IEC FDIS 42001: AI system impact assessment process"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.5.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.5.3\n\nISO/IEC FDIS 42001: Documentation of AI system impact"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "assessments",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "ISO/IEC FDIS 42001: assessments"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.5.4",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.5.4\n\nISO/IEC FDIS 42001: Assessing AI system impact on individuals and"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "groups of individuals",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "ISO/IEC FDIS 42001: groups of individuals"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.5.5",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.5.5\n\nISO/IEC FDIS 42001: Assessing societal impacts of AI systems"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 1.2",
+    "section_name": "MAP 1.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Map 1.2\n\nAI RMF: Interdisciplinary AI actors,\n\ncol_3: B.4.6\n\nISO/IEC FDIS 42001: Human resources"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "competencies, skills, and capacities",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: competencies, skills, and capacities"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "for establishing context reflect",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: for establishing context reflect"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "demographic diversity and broad",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: demographic diversity and broad"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "domain and user experience",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: domain and user experience"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "expertise, and their participation is",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: expertise, and their participation is"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "documented. Opportunities for",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: documented. Opportunities for"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "interdisciplinary collaboration are",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: interdisciplinary collaboration are"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "prioritized.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: prioritized."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "7.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: 7.2\n\nISO/IEC FDIS 42001: Competence"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 1.3",
+    "section_name": "MAP 1.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Map 1.3\n\nAI RMF: The organization's mission and\n\ncol_3: 4.1\n\nISO/IEC FDIS 42001: Understanding the organization and its context"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "relevant goals for AI technology are",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: relevant goals for AI technology are"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "understood and documented",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: understood and documented"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "5.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: 5.2\n\nISO/IEC FDIS 42001: AI Policy"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "6.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: 6.2\n\nISO/IEC FDIS 42001: AI objectives and planning to achieve them"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "7.5.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: 7.5.3\n\nISO/IEC FDIS 42001: Control of documented information"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "7.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: 7.3\n\nISO/IEC FDIS 42001: Awareness"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "7.4",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: 7.4\n\nISO/IEC FDIS 42001: Communication"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 1.4",
+    "section_name": "MAP 1.4",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Map 1.4\n\nAI RMF: The business value or context of\n\ncol_3: 5.1\n\nISO/IEC FDIS 42001: Leadership and commitment"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "business use has been clearly defined",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: business use has been clearly defined"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "or – in the case of assessing existing AI",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: or – in the case of assessing existing AI"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "systems – re-evaluated.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: systems – re-evaluated."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "4.1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: 4.1\n\nISO/IEC FDIS 42001: Understanding the organization and its context"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.2.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.2.2\n\nISO/IEC FDIS 42001: Customers"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.5.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.5.2\n\nISO/IEC FDIS 42001: AI system impact assessment process"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.9.4",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.9.4\n\nISO/IEC FDIS 42001: Intended use of the AI system"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.6.2.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.6.2.2\n\nISO/IEC FDIS 42001: AI system requirements and specification"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 1.5",
+    "section_name": "MAP 1.5",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Map 1.5\n\nAI RMF: Organizational risk tolerances are\n\ncol_3: 6.1.1\n\nISO/IEC FDIS 42001: Objective"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "determined and documented.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: determined and documented."
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 1.6",
+    "section_name": "MAP 1.6",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Map 1.6\n\nAI RMF: System requirements (e.g., \"the\n\ncol_3: B.6.2.2\n\nISO/IEC FDIS 42001: AI system requirements and specification"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "system shall respect the privacy of its",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: system shall respect the privacy of its"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "users\") are elicited from and",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: users\") are elicited from and"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "understood by relevant AI actors.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: understood by relevant AI actors."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Design decisions take socio-technical",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: Design decisions take socio-technical"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "implications into account to address",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: implications into account to address"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "AI risks.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: AI risks."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.5.4",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.5.4\n\nISO/IEC FDIS 42001: Assessing AI system impact on individuals and"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "groups of individuals",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "ISO/IEC FDIS 42001: groups of individuals"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.5.5",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.5.5\n\nISO/IEC FDIS 42001: Assessing societal impacts of AI systems"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 2.1",
+    "section_name": "MAP 2.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Map 2.1\n\nAI RMF: The specific tasks and methods used\n\ncol_3: B.6.2.3\n\nISO/IEC FDIS 42001: Documentation of AI system design and"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "to implement the tasks that the AI",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: to implement the tasks that the AI\n\nISO/IEC FDIS 42001: development"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "system will support are defined (e.g.,",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: system will support are defined (e.g.,"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "classifiers, generative models,",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: classifiers, generative models,"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "recommenders).",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: recommenders)."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.4.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.4.2\n\nISO/IEC FDIS 42001: Resource documentation"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.4.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.4.3\n\nISO/IEC FDIS 42001: Data resources"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.4.4",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.4.4\n\nISO/IEC FDIS 42001: Tooling resources"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.4.5",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.4.5\n\nISO/IEC FDIS 42001: System and computing resources"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.4.6",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.4.6\n\nISO/IEC FDIS 42001: Human resources"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 2.2",
+    "section_name": "MAP 2.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Map 2.2\n\nAI RMF: Information about the AI system's\nknowledge limits and how system\noutput may be utilized and overseen\nby humans is documented.\nDocumentation provides sufficient\ninformation to assist relevant AI\nactors when making decisions and\ntaking subsequent actions\n\ncol_3: B.6.2.7\n\nISO/IEC FDIS 42001: AI system technical documentation"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.9.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.9.3\n\nISO/IEC FDIS 42001: Objectives for responsible use of AI system"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.8.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.8.2\n\nISO/IEC FDIS 42001: System documentation and information for\nusers"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 2.3",
+    "section_name": "MAP 2.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Map 2.3\n\nAI RMF: Scientific integrity and TEVV\nconsiderations are identified and\ndocumented, including those related\nto experimental design, data\ncollection and selection (e.g.,\navailability, representativeness,\nsuitability), system trustworthiness,\nand construct validation.\n\ncol_3: B.6.1.3\n\nISO/IEC FDIS 42001: Processes for responsible design and\ndevelopment of AI systems"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.6.2.7",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.6.2.7\n\nISO/IEC FDIS 42001: AI system technical documentation"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.7.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.7.2\n\nISO/IEC FDIS 42001: Data for development and enhancement of AI\nsystem"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.7.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.7.3\n\nISO/IEC FDIS 42001: Acquisition of data"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.7.4",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.7.4\n\nISO/IEC FDIS 42001: Quality of data for AI systems"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.7.5",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.7.5\n\nISO/IEC FDIS 42001: Data provenance"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.7.6",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.7.6\n\nISO/IEC FDIS 42001: Data preparation"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.6.2.4",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.6.2.4\n\nISO/IEC FDIS 42001: AI system verification and validation"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 3.1",
+    "section_name": "MAP 3.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Map 3.1\n\nAI RMF: Potential benefits of intended AI\nsystem functionality and performance\nare examined and documented.\n\ncol_3: B.5.2\n\nISO/IEC FDIS 42001: AI system impact assessment process"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.5.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.5.3\n\nISO/IEC FDIS 42001: Documentation of AI system impact\nassessments"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.5.4",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.5.4\n\nISO/IEC FDIS 42001: Assessing AI system impact on individuals and\ngroups of individuals"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.5.5",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.5.5\n\nISO/IEC FDIS 42001: Assessing societal impacts of AI systems"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 3.2",
+    "section_name": "MAP 3.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Map 3.2\n\nAI RMF: Potential costs, including non\nmonetary costs, which result from\nexpected or realized AI errors or\nsystem functionality and\ntrustworthiness – as connected to\norganizational risk tolerance – are\nexamined and documented\n\ncol_3: B.5.2\n\nISO/IEC FDIS 42001: AI system impact assessment process"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.5.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.5.3\n\nISO/IEC FDIS 42001: Documentation of AI system impact"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "assessments",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "ISO/IEC FDIS 42001: assessments"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.5.4",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.5.4\n\nISO/IEC FDIS 42001: Assessing AI system impact on individuals and"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "groups of individuals",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "ISO/IEC FDIS 42001: groups of individuals"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.5.5",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.5.5\n\nISO/IEC FDIS 42001: Assessing societal impacts of AI systems"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "8.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: 8.2\n\nISO/IEC FDIS 42001: AI risk assessment"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "8.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: 8.3\n\nISO/IEC FDIS 42001: AI risk treatment"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "8.4",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: 8.4\n\nISO/IEC FDIS 42001: AI system impact assessment"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 3.3",
+    "section_name": "MAP 3.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Map 3.3\n\nAI RMF: Targeted application scope is specified\n\ncol_3: 4.3\n\nISO/IEC FDIS 42001: Determining the scope of the AI management"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "and documented based on the",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: and documented based on the\n\nISO/IEC FDIS 42001: system"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "system's capability, established",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: system's capability, established"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "context, and AI system categorization.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: context, and AI system categorization."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.5.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.5.2\n\nISO/IEC FDIS 42001: AI system impact assessment process"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.5.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.5.3\n\nISO/IEC FDIS 42001: Documentation of AI system impact"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "assessments",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "ISO/IEC FDIS 42001: assessments"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.5.4",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.5.4\n\nISO/IEC FDIS 42001: Assessing AI system impact on individuals and"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "groups of individuals",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "ISO/IEC FDIS 42001: groups of individuals"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.5.5",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.5.5\n\nISO/IEC FDIS 42001: Assessing societal impacts of AI systems"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 3.4",
+    "section_name": "MAP 3.4",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Map 3.4\n\nAI RMF: Processes for operator and\n\ncol_3: 7.2\n\nISO/IEC FDIS 42001: Competence"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "practitioner proficiency with AI",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: practitioner proficiency with AI"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "system performance and",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: system performance and"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "trustworthiness – and relevant",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: trustworthiness – and relevant"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "technical standards and certifications",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: technical standards and certifications"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "– are defined, assessed, and",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: – are defined, assessed, and"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "documented.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: documented."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.4.6",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.4.6\n\nISO/IEC FDIS 42001: Human resources"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 3.5",
+    "section_name": "MAP 3.5",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Map 3.5\n\nAI RMF: Processes for human oversight are\n\ncol_3: B.6.1.3\n\nISO/IEC FDIS 42001: Processes for responsible design and"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "defined, assessed, and documented in",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: defined, assessed, and documented in\n\nISO/IEC FDIS 42001: development of AI systems"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "accordance with organizational",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: accordance with organizational"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "policies from the GOVERN function.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: policies from the GOVERN function."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.6.2.7",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.6.2.7\n\nISO/IEC FDIS 42001: AI system technical documentation"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.8.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.8.2\n\nISO/IEC FDIS 42001: System documentation and information for"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "users",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "ISO/IEC FDIS 42001: users"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 4.1",
+    "section_name": "MAP 4.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Map 4.1\n\nAI RMF: Approaches for mapping AI\n\ncol_3: 4.1\n\nISO/IEC FDIS 42001: Understanding the organization and its context"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "technology and legal risks of its",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: technology and legal risks of its"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "components – including the use of",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: components – including the use of"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "third-party data or software – are in",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: third-party data or software – are in"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "place, followed, and documented, as",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: place, followed, and documented, as"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "are risks of infringement of a third",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: are risks of infringement of a third"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "party's intellectual property or other",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: party's intellectual property or other"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "rights.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: rights."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.2.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.2.2\n\nISO/IEC FDIS 42001: AI policy"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.9.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.9.2\n\nISO/IEC FDIS 42001: Processes for responsible use of AI systems"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.9.4",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.9.4\n\nISO/IEC FDIS 42001: Intended use of the AI system"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 4.2",
+    "section_name": "MAP 4.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Map 4.2\n\nAI RMF: Internal risk controls for components\nof the AI system, including third-party\nAI technologies, are identified and\ndocumented.\n\ncol_3: B.6.2.7\n\nISO/IEC FDIS 42001: AI system technical documentation"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.8.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.8.2\n\nISO/IEC FDIS 42001: System documentation and information for"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.10.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.10.3\n\nISO/IEC FDIS 42001: users\nSuppliers"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 5.1",
+    "section_name": "MAP 5.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Map 5.1\n\nAI RMF: Likelihood and magnitude of each\nidentified impact (both potentially\nbeneficial and harmful) based on\nexpected use, past uses of AI systems\nin similar contexts, public incident\nreports, feedback from those external\nto the team that developed or\ndeployed the AI system, or other data\nare identified and documented.\n\ncol_3: 6.1.2\n\nISO/IEC FDIS 42001: AI risk assessment"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.5.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.5.2\n\nISO/IEC FDIS 42001: AI system impact assessment process"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 5.2",
+    "section_name": "MAP 5.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Map 5.2\n\nAI RMF: Practices and personnel for\nsupporting regular engagement with\nrelevant AI actors and integrating\nfeedback about positive, negative,\nand unanticipated impacts are in\nplace and documented.\n\ncol_3: B.6.1.3\n\nISO/IEC FDIS 42001: Processes for responsible design and\ndevelopment of AI systems"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.6.2.6",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.6.2.6\n\nISO/IEC FDIS 42001: AI system operation and monitoring"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.8.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.8.3\n\nISO/IEC FDIS 42001: External reporting"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 1.1",
+    "section_name": "MEASURE 1.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Measure 1.1\n\nAI RMF: Approaches and metrics for\nmeasurement of AI risks enumerated\nduring the MAP function are selected\nfor implementation starting with the\nmost significant AI risks. The risks or\ntrustworthiness characteristics that\nwill not – or cannot – be measured\nare properly documented.\n\ncol_3: 6.1.1\n\nISO/IEC FDIS 42001: General"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "6.1.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: 6.1.2\n\nISO/IEC FDIS 42001: AI risk assessment"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 1.2",
+    "section_name": "MEASURE 1.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Measure 1.2\n\nAI RMF: Appropriateness of AI metrics and\neffectiveness of existing controls are\nregularly assessed and updated,\nincluding reports of errors and\npotential impacts on affected\ncommunities.\n\ncol_3: B.6.2.4\n\nISO/IEC FDIS 42001: AI system verification and validation"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.5.4",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.5.4\n\nISO/IEC FDIS 42001: Assessing AI system impact on individuals and\ngroups of individuals"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.5.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.5.2\n\nISO/IEC FDIS 42001: AI system impact assessment process"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.5.5",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.5.5\n\nISO/IEC FDIS 42001: Assessing societal impacts of AI systems"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 1.3",
+    "section_name": "MEASURE 1.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Measure 1.3\n\nAI RMF: Internal experts who did not serve as\nfront-line developers for the system\nand/or independent assessors are\ninvolved in regular assessments and\nupdates. Domain experts, users, AI\nactors external to the team that\ndeveloped or deployed the AI system,\nand affected communities are\nconsulted in support of assessments\nas necessary per organizational risk\ntolerance.\n\ncol_3: 6.1.2\n\nISO/IEC FDIS 42001: AI risk assessment"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "9.2.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: 9.2.2\n\nISO/IEC FDIS 42001: Internal audit programme"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.5.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.5.2\n\nISO/IEC FDIS 42001: AI system impact assessment process"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.5.4",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.5.4\n\nISO/IEC FDIS 42001: Assessing AI system impact on individuals and"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "groups of individuals",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "ISO/IEC FDIS 42001: groups of individuals"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.5.5",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.5.5\n\nISO/IEC FDIS 42001: Assessing societal impacts of AI systems"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.1",
+    "section_name": "MEASURE 2.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Measure 2.1\n\nAI RMF: Test sets, metrics, and details about\nthe tools used during TEVV are\ndocumented.\n\ncol_3: B.8.4\n\nISO/IEC FDIS 42001: Communication of incidents"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.6.2.4",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.6.2.4\n\nISO/IEC FDIS 42001: AI system verification and validation"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.6.2.7",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.6.2.7\n\nISO/IEC FDIS 42001: AI system technical documentation"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.4.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.4.2\n\nISO/IEC FDIS 42001: Resource documentation"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.2",
+    "section_name": "MEASURE 2.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Measure 2.2\n\nAI RMF: Evaluations involving human subjects\nmeet applicable requirements\n(including human subject protection)\nand are representative of the relevant\npopulation\n\ncol_3: B.6.2.4\n\nISO/IEC FDIS 42001: AI system verification and validation"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.3",
+    "section_name": "MEASURE 2.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Measure 2.3\n\nAI RMF: AI system performance or assurance\ncriteria are measured qualitatively or\nquantitatively and demonstrated for\nconditions similar to deployment\nsetting(s). Measures are documented.\n\ncol_3: B.7.4\n\nISO/IEC FDIS 42001: Quality of data for AI systems"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.6.2.6",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.6.2.6\n\nISO/IEC FDIS 42001: AI system operation and monitoring"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.4",
+    "section_name": "MEASURE 2.4",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Measure 2.4\n\nAI RMF: The functionality and behavior of the\nAI system and its components – as\nidentified in the MAP function – are\nmonitored when in production.\n\ncol_3: 9.1\n\nISO/IEC FDIS 42001: Monitoring, measurement, analysis, and\nevaluation"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.6.2.6",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.6.2.6\n\nISO/IEC FDIS 42001: AI system operation and monitoring"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.6.2.8",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.6.2.8\n\nISO/IEC FDIS 42001: AI system recording of event logs"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.5",
+    "section_name": "MEASURE 2.5",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Measure 2.5\n\nAI RMF: The AI system to be deployed is\ndemonstrated to be valid and reliable.\nLimitations of the generalizability\nbeyond the conditions under which\nthe technology was developed are\ndocumented.\n\ncol_3: B.6.2.4\n\nISO/IEC FDIS 42001: AI system verification and validation"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.6.2.5",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.6.2.5\n\nISO/IEC FDIS 42001: AI system deployment"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.6.2.7",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.6.2.7\n\nISO/IEC FDIS 42001: AI system technical documentation"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.8.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.8.2\n\nISO/IEC FDIS 42001: System documentation and information for"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "users",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "ISO/IEC FDIS 42001: users"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.6",
+    "section_name": "MEASURE 2.6",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Measure 2.6\n\nAI RMF: The AI system is evaluated regularly\nfor safety risks – as identified in the\nMAP function. The AI system to be\ndeployed is demonstrated to be safe,\nits residual negative risk does not\nexceed the risk tolerance, and it can\nfail safely, particularly if made to\noperate beyond its knowledge limits.\nSafety metrics reflect system\nreliability and robustness, real-time\nmonitoring, and response times for AI\nsystem failures.\n\ncol_3: B.6.2.8\n\nISO/IEC FDIS 42001: AI system recording of event logs"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.6.2.6",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.6.2.6\n\nISO/IEC FDIS 42001: AI system operation and monitoring"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.6.2.4",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.6.2.4\n\nISO/IEC FDIS 42001: AI system verification and validation"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "8.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: 8.2\n\nISO/IEC FDIS 42001: AI risk assessment"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.7",
+    "section_name": "MEASURE 2.7",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Measure 2.7\n\nAI RMF: AI system security and resilience – as\nidentified in the MAP function – are\nevaluated and documented.\n\ncol_3: B.7.2\n\nISO/IEC FDIS 42001: Data for development and enhancement of AI\nsystem"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.3.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.3.2\n\nISO/IEC FDIS 42001: AI roles and responsibilities"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.2.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.2.3\n\nISO/IEC FDIS 42001: Alignment with other organizational policies"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.5.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.5.2\n\nISO/IEC FDIS 42001: AI system impact assessment process"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.6.1.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.6.1.2\n\nISO/IEC FDIS 42001: Objectives for responsible development of AI\nsystem"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.6.2.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.6.2.3\n\nISO/IEC FDIS 42001: Documentation of AI system design and\ndevelopment"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.9.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.9.3\n\nISO/IEC FDIS 42001: Objectives for responsible use of AI system"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.8",
+    "section_name": "MEASURE 2.8",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Measure 2.8\n\nAI RMF: Risks associated with transparency\nand accountability – as identified in\nthe MAP function – are examined and\ndocumented.\n\ncol_3: B.7.2\n\nISO/IEC FDIS 42001: Data for development and enhancement of AI\nsystem"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.5.4",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.5.4\n\nISO/IEC FDIS 42001: Assessing AI system impact on individuals and\ngroups of individuals"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.5.5",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.5.5\n\nISO/IEC FDIS 42001: Assessing societal impacts of AI systems"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.6.1.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.6.1.2\n\nISO/IEC FDIS 42001: Objectives for responsible development of AI\nsystem"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.9.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.9.3\n\nISO/IEC FDIS 42001: Objectives for responsible use of AI system"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "6.1.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: 6.1.2\n\nISO/IEC FDIS 42001: AI risk assessment"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.9",
+    "section_name": "MEASURE 2.9",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Measure 2.9\n\nAI RMF: The AI model is explained, validated,\n\ncol_3: B.7.5\n\nISO/IEC FDIS 42001: Data provenance"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "and documented, and AI system",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: and documented, and AI system"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "output is interpreted within its",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: output is interpreted within its"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "context – as identified in the MAP",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: context – as identified in the MAP"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "function – to inform responsible use",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: function – to inform responsible use"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "and governance.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: and governance."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.6.2.5",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.6.2.5\n\nISO/IEC FDIS 42001: AI system deployment"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.6.2.7",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.6.2.7\n\nISO/IEC FDIS 42001: AI system technical documentation"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.8.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.8.2\n\nISO/IEC FDIS 42001: System documentation and information for\nusers"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.10",
+    "section_name": "MEASURE 2.10",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Measure 2.10\n\nAI RMF: Privacy risk of the AI system – as\nidentified in the MAP function – is\n\ncol_3: B.5.2\n\nISO/IEC FDIS 42001: AI system impact assessment process"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "examined and documented.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: examined and documented."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.7.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.7.2\n\nISO/IEC FDIS 42001: Data for development and enhancement of AI\nsystem"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.7.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.7.3\n\nISO/IEC FDIS 42001: Acquisition of data"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.2.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.2.3\n\nISO/IEC FDIS 42001: Alignment with other organizational policies"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.11",
+    "section_name": "MEASURE 2.11",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Measure 2.11\n\nAI RMF: Fairness and bias – as identified in the\n\ncol_3: B.5.5\n\nISO/IEC FDIS 42001: Assessing societal impacts of AI systems"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "MAP function – are evaluated and",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: MAP function – are evaluated and"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "results are documented.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: results are documented."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.5.4",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.5.4\n\nISO/IEC FDIS 42001: Assessing AI system impact on individuals and"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "groups of individuals",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "ISO/IEC FDIS 42001: groups of individuals"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.12",
+    "section_name": "MEASURE 2.12",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Measure 2.12\n\nAI RMF: Environmental impact and\n\ncol_3: B.5.5\n\nISO/IEC FDIS 42001: Assessing societal impacts of AI systems"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "sustainability of AI model training and",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: sustainability of AI model training and"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "management activities – as identified",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: management activities – as identified"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "in the MAP function – are assessed",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: in the MAP function – are assessed"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "and documented.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: and documented."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.4.5",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.4.5\n\nISO/IEC FDIS 42001: System and computing resources"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.13",
+    "section_name": "MEASURE 2.13",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Measure 2.13\n\nAI RMF: Effectiveness of the employed TEVV\n\ncol_3: B.6.2.4\n\nISO/IEC FDIS 42001: AI system verification and validation"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "metrics and processes in the",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: metrics and processes in the"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "MEASURE function are evaluated and",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: MEASURE function are evaluated and"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "documented.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: documented."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.6.2.6",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.6.2.6\n\nISO/IEC FDIS 42001: AI system operation and monitoring"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 3.1",
+    "section_name": "MEASURE 3.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Measure 3.1\n\nAI RMF: Approaches, personnel, and\n\ncol_3: 8.2\n\nISO/IEC FDIS 42001: AI risk assessment"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "documentation are in place to",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: documentation are in place to"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "regularly identify and track existing,",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: regularly identify and track existing,"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "unanticipated, and emergent AI risks",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: unanticipated, and emergent AI risks"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "based on factors such as intended and",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: based on factors such as intended and"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "actual performance in deployed",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: actual performance in deployed"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "contexts.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: contexts."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "4.4",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: 4.4\n\nISO/IEC FDIS 42001: AI management system"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "8.4",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: 8.4\n\nISO/IEC FDIS 42001: AI system impact assessment"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 3.2",
+    "section_name": "MEASURE 3.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Measure 3.2\n\nAI RMF: Risk tracking approaches are\nconsidered for settings where AI risks\nare difficult to assess using currently\navailable measurement techniques or\nwhere metrics are not yet available.\n\ncol_3: B.6.2.8\n\nISO/IEC FDIS 42001: AI system recording of event logs"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.6.2.6",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.6.2.6\n\nISO/IEC FDIS 42001: AI system operation and monitoring"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "10.1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: 10.1\n\nISO/IEC FDIS 42001: Continual improvement"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 3.3",
+    "section_name": "MEASURE 3.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Measure 3.3\n\nAI RMF: Feedback processes for end users and\nimpacted communities to report\nproblems and appeal system\noutcomes are established and\nintegrated into AI system evaluation\nmetrics.\n\ncol_3: B.8.2\n\nISO/IEC FDIS 42001: System documentation and information for\nusers"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.8.4",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.8.4\n\nISO/IEC FDIS 42001: Communication of incidents"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.8.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.8.3\n\nISO/IEC FDIS 42001: External reporting"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 4.1",
+    "section_name": "MEASURE 4.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Measure 4.1\n\nAI RMF: Measurement approaches for\nidentifying AI risks are connected to\ndeployment context(s) and informed\nthrough consultation with domain\nexperts and other end users.\nApproaches are documented.\n\ncol_3: B.6.2.4\n\nISO/IEC FDIS 42001: AI system verification and validation"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.5.4",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.5.4\n\nISO/IEC FDIS 42001: Assessing AI system impact on individuals and\ngroups of individuals"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.5.5",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.5.5\n\nISO/IEC FDIS 42001: Assessing societal impacts of AI systems"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "9.1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: 9.1\n\nISO/IEC FDIS 42001: Monitoring, measurement, analysis, and\nevaluation"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 4.2",
+    "section_name": "MEASURE 4.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Measure 4.2\n\nAI RMF: Measurement results regarding AI\nsystem trustworthiness in deployment\ncontext(s) and across the AI lifecycle\nare informed by input from domain\nexperts and relevant AI actors to\nvalidate whether the system is\nperforming consistently as intended.\nResults are documented.\n\ncol_3: 9.1\n\nISO/IEC FDIS 42001: Monitoring, measurement, analysis, and\nevaluation"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.8.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.8.2\n\nISO/IEC FDIS 42001: System documentation and information for\nusers"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "9.2.1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: 9.2.1\n\nISO/IEC FDIS 42001: General"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.8.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.8.3\n\nISO/IEC FDIS 42001: External reporting"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 4.3",
+    "section_name": "MEASURE 4.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Measure 4.3\n\nAI RMF: Measurable performance\n\ncol_3: 9.3.1\n\nISO/IEC FDIS 42001: General"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "improvements or declines based on",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: improvements or declines based on"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "consultations with relevant AI actors,",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: consultations with relevant AI actors,"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "including affected communities, and",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: including affected communities, and"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "field data about context relevant risks",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: field data about context relevant risks"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "and trustworthiness characteristics",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: and trustworthiness characteristics"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "are identified and documented.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: are identified and documented."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.6.2.6",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.6.2.6\n\nISO/IEC FDIS 42001: AI system operation and monitoring"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.6.2.7",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.6.2.7\n\nISO/IEC FDIS 42001: AI system technical documentation"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 1.1",
+    "section_name": "MANAGE 1.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Manage 1.1\n\nAI RMF: A determination is made as to\n\ncol_3: B.9.3\n\nISO/IEC FDIS 42001: Objectives for responsible use of AI system"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "whether the AI system achieves its",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: whether the AI system achieves its"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "intended purposes and stated",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: intended purposes and stated"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "objectives and whether its",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: objectives and whether its"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "development or deployment should",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: development or deployment should"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "proceed.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: proceed."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.9.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.9.2\n\nISO/IEC FDIS 42001: Processes for responsible use of AI systems"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.9.4",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.9.4\n\nISO/IEC FDIS 42001: Intended use of the AI system"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.6.1.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.6.1.3\n\nISO/IEC FDIS 42001: Processes for responsible design and"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "development of AI systems",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "ISO/IEC FDIS 42001: development of AI systems"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.6.2.4",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.6.2.4\n\nISO/IEC FDIS 42001: AI system verification and validation"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.6.2.4",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.6.2.4\n\nISO/IEC FDIS 42001: AI system verification and validation"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 1.2",
+    "section_name": "MANAGE 1.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Manage 1.2\n\nAI RMF: Treatment of documented AI risks is\n\ncol_3: 9.3.3\n\nISO/IEC FDIS 42001: Management review results"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "prioritized based on impact,",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: prioritized based on impact,"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "likelihood, and available resources or",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: likelihood, and available resources or"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "methods.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: methods."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "6.1.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: 6.1.2\n\nISO/IEC FDIS 42001: AI risk assessment"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "6.1.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: 6.1.3\n\nISO/IEC FDIS 42001: AI risk treatment"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "6.1.4",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: 6.1.4\n\nISO/IEC FDIS 42001: AI system impact assessment"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 1.3",
+    "section_name": "MANAGE 1.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Manage 1.3\n\nAI RMF: Responses to the AI risks deemed high\n\ncol_3: 6.1.1\n\nISO/IEC FDIS 42001: General"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "priority, as identified by the MAP",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: priority, as identified by the MAP"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "function, are developed, planned, and",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: function, are developed, planned, and"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "documented. Risk response options",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: documented. Risk response options"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "can include mitigating, transferring,",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: can include mitigating, transferring,"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "avoiding, or accepting.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: avoiding, or accepting."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "6.1.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: 6.1.2\n\nISO/IEC FDIS 42001: AI risk assessment"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "6.1.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: 6.1.3\n\nISO/IEC FDIS 42001: AI risk treatment"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "6.1.4",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: 6.1.4\n\nISO/IEC FDIS 42001: AI system impact assessment"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 1.4",
+    "section_name": "MANAGE 1.4",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Manage 1.4\n\nAI RMF: Negative residual risks (defined as the\n\ncol_3: B.5.3\n\nISO/IEC FDIS 42001: Documentation of AI system impact"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "sum of all unmitigated risks) to both",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: sum of all unmitigated risks) to both\n\nISO/IEC FDIS 42001: assessments"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "downstream acquirers of AI systems",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: downstream acquirers of AI systems"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "and end users are documented.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: and end users are documented."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.5.4",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.5.4\n\nISO/IEC FDIS 42001: Assessing AI system impact on individuals and"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "groups of individuals",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "ISO/IEC FDIS 42001: groups of individuals"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.6.2.7",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.6.2.7\n\nISO/IEC FDIS 42001: AI system technical documentation"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.8.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.8.2\n\nISO/IEC FDIS 42001: System documentation and information for\nusers"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 2.1",
+    "section_name": "MANAGE 2.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Manage 2.1\n\nAI RMF: Resources required to manage AI risks\nare taken into account – along with\nviable non-AI alternative systems,\napproaches, or methods – to reduce\nthe magnitude or likelihood of\npotential impacts.\n\ncol_3: B.4.2\n\nISO/IEC FDIS 42001: Resource documentation"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "7.1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: 7.1\n\nISO/IEC FDIS 42001: Resources"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 2.2",
+    "section_name": "MANAGE 2.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Manage 2.2\n\nAI RMF: Mechanisms are in place and applied\nto sustain the value of deployed AI\nsystems.\n\ncol_3: B.3.3\n\nISO/IEC FDIS 42001: Reporting of concerns"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.6.1.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.6.1.2\n\nISO/IEC FDIS 42001: Objectives for responsible development of AI\nsystem"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.6.1.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.6.1.3\n\nISO/IEC FDIS 42001: Processes for responsible design and"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "development of AI systems",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "ISO/IEC FDIS 42001: development of AI systems"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.6.2.4",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.6.2.4\n\nISO/IEC FDIS 42001: AI system verification and validation"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.6.2.6",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.6.2.6\n\nISO/IEC FDIS 42001: AI system operation and monitoring"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.7.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.7.2\n\nISO/IEC FDIS 42001: Data for development and enhancement of AI"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "system",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "ISO/IEC FDIS 42001: system"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "7.1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: 7.1\n\nISO/IEC FDIS 42001: Resources"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "10.1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: 10.1\n\nISO/IEC FDIS 42001: Continual improvement"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 2.3",
+    "section_name": "MANAGE 2.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Manage 2.3\n\nAI RMF: Procedures are followed to respond\nto and recover from a previously\nunknown risk when it is identified.\n\ncol_3: 10.2\n\nISO/IEC FDIS 42001: Nonconformity and corrective action"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "6.1.1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: 6.1.1\n\nISO/IEC FDIS 42001: General"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "6.1.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: 6.1.2\n\nISO/IEC FDIS 42001: AI risk assessment"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "6.1.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: 6.1.3\n\nISO/IEC FDIS 42001: AI risk treatment"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 2.4",
+    "section_name": "MANAGE 2.4",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Manage 2.4\n\nAI RMF: Mechanisms are in place and applied,\nand responsibilities are assigned and\nunderstood, to supersede, disengage,\nor deactivate AI systems that\ndemonstrate performance or\noutcomes inconsistent with intended\nuse.\n\ncol_3: B.9.4\n\nISO/IEC FDIS 42001: Intended use of the AI system"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.8.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.8.2\n\nISO/IEC FDIS 42001: System documentation and information for\nusers"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.6.2.7",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.6.2.7\n\nISO/IEC FDIS 42001: AI system technical documentation"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.6.1.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.6.1.3\n\nISO/IEC FDIS 42001: Processes for responsible design and"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "development of AI systems",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "ISO/IEC FDIS 42001: development of AI systems"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 3.1",
+    "section_name": "MANAGE 3.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Manage 3.1\n\nAI RMF: AI risks and benefits from third-party\nresources are regularly monitored,\nand risk controls are applied and\ndocumented.\n\ncol_3: B.10.3\n\nISO/IEC FDIS 42001: Suppliers"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.10.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.10.2\n\nISO/IEC FDIS 42001: Allocating responsibilities"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 3.2",
+    "section_name": "MANAGE 3.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Manage 3.2\n\nAI RMF: Pre-trained models which are used for\n\ncol_3: B.4.4\n\nISO/IEC FDIS 42001: Tooling resources"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "development are monitored as part of",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: development are monitored as part of"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "AI system regular monitoring and",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: AI system regular monitoring and"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "maintenance.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: maintenance."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.6.2.6",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.6.2.6\n\nISO/IEC FDIS 42001: AI system operation and monitoring"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 4.1",
+    "section_name": "MANAGE 4.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Manage 4.1\n\nAI RMF: Post-deployment AI system\n\ncol_3: 9.2.1\n\nISO/IEC FDIS 42001: General"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "monitoring plans are implemented,",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: monitoring plans are implemented,"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "including mechanisms for capturing",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: including mechanisms for capturing"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "and evaluating input from users and",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: and evaluating input from users and"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "other relevant AI actors, appeal and",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: other relevant AI actors, appeal and"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "override, decommissioning, incident",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: override, decommissioning, incident"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "response, recovery, and change",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: response, recovery, and change"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "management.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: management."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.6.2.6",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.6.2.6\n\nISO/IEC FDIS 42001: AI system operation and monitoring"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.8.3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.8.3\n\nISO/IEC FDIS 42001: External reporting"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.10.4",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.10.4\n\nISO/IEC FDIS 42001: Customers"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 4.2",
+    "section_name": "MANAGE 4.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Manage 4.2\n\nAI RMF: Measurable activities for continual\n\ncol_3: 9.3.3\n\nISO/IEC FDIS 42001: Management review results"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "improvements are integrated into AI",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: improvements are integrated into AI"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "system updates and include regular",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: system updates and include regular"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "engagement with interested parties,",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: engagement with interested parties,"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "including relevant AI actors.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: including relevant AI actors."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.6.2.4",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.6.2.4\n\nISO/IEC FDIS 42001: AI system verification and validation"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.6.2.6",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.6.2.6\n\nISO/IEC FDIS 42001: AI system operation and monitoring"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 4.3",
+    "section_name": "MANAGE 4.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "col_1: Manage 4.3\n\nAI RMF: Incidents and errors are\n\ncol_3: 9.3.2\n\nISO/IEC FDIS 42001: Management review inputs"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "communicated to relevant AI actors,",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: communicated to relevant AI actors,"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "including affected communities.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: including affected communities."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Processes for tracking, responding to,",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: Processes for tracking, responding to,"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "and recovering from incidents and",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: and recovering from incidents and"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "errors are followed and documented.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: errors are followed and documented."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.8.5",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.8.5\n\nISO/IEC FDIS 42001: Information for interested parties"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "B.6.2.6",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: B.6.2.6\n\nISO/IEC FDIS 42001: AI system operation and monitoring"
+  }
+]

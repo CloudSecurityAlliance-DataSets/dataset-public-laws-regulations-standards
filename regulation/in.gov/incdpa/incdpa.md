@@ -54,9 +54,9 @@ Go to Other Versions of The Indiana Code
   3. [2023 Indiana Code](/codes/indiana/2023/title-24/article-15/)
   4. [View All Versions](/indiana/)
 
-# 2025 Indiana Code  
-Title 24. Trade Regulation  
-Article 15. Consumer Data Protection
+# 2025 Indiana Code
+### Title 24. Trade Regulation
+### Article 15. Consumer Data Protection
 
 **[ Previous ](/codes/indiana/title-24/article-14/) ** ****
 
@@ -94,7 +94,7 @@ cle-
 credit-a.svg)](https://connect.justia.com/webinars?utm_source=law&utm_medium=web&utm_campaign=cle-
 webinar-center&utm_content=tile-banner-need-cle-credit-v1)
 
-**Free Daily Summaries in Your Inbox**
+## Free Daily Summaries in Your Inbox
 
 You're all set! You already receive all suggested Justia Opinion Summary
 Newsletters. You can explore additional available newsletters
@@ -102,7 +102,7 @@ Newsletters. You can explore additional available newsletters
 
 Sign up for our free summaries and get the latest delivered directly to you.
 
-**Our Suggestions:**
+## Our Suggestions:
 
 Enter Your Email
 
@@ -114,7 +114,7 @@ Discover the latest legal insights from our experts.
 
 [See All Webinars](https://connect.justia.com/webinars)
 
-[Ask a Lawyer  
+[Ask a Lawyer
 Get Free Answers](https://answers.justia.com/)
 
 Have a legal question? Get free answers from experienced lawyers!
@@ -128,7 +128,7 @@ listings)** Get a free directory profile listing
 
 [ Toggle button ](#)
 
-**Get free summaries of new opinions delivered to your inbox!**
+## Get free summaries of new opinions delivered to your inbox!
 
 Enter Your Email
 
@@ -255,4 +255,3 @@ Connect](https://connect.justia.com/) [Legal Portal](https://www.justia.com/)
 [Terms of Service](https://www.justia.com/terms-of-service/) [Privacy
 Policy](https://www.justia.com/privacy-policy/) [Marketing
 Solutions](https://www.justia.com/marketing/)
-

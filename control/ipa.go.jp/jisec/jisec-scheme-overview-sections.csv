@@ -1,0 +1,81 @@
+"depth","section_id","section_name","id_kind","parent_id","body"
+"1","","IT Security Evaluation and Certification Scheme","","","IT Security Evaluation and Certification
+[JAPANESE]
+Japan Information Technology Security Evaluation and Certification Scheme
+Japan Information Technology Security Evaluation and Certification Scheme (""JISEC"") is a scheme under which third-party evaluation facilities evaluate whether IT product security is effective and reliably implemented in accordance with ISO/IEC 15408, the international standard for evaluation criteria for IT security based on CC and the certification provides independent confirmation of the validity of evaluation results by Innovation Platform Agency, Japan (""IPA""; formerly known as Information-technology Promotion Agency, Japan).
+Information
+【Sep 16, 2025】
+JISEC Documentation(CCS-01 and CCM-01) has been revised.
+【Aug 5, 2025】
+Cyprus has joined the CCRA as a Certificate Consuming participant.
+【Jul 10, 2025】
+Bangladesh has joined the CCRA as a Certificate Consuming participant.
+【Jun 18, 2025】
+Ukraine has joined the CCRA as a Certificate Consuming participant.
+CC Portal
+【Mar 31, 2023】
+We have renewed our website.
+The URL of each page has been changed due to the renewal.
+If you have added the link to each page to your browser's ""Favorites"" or ""Bookmarks"", please change it to the new URL.
+JISEC-Background
+JISEC-Scheme Overview
+JISEC-Evaluation and Certification[Software]
+JISEC-Evaluation and Certification[Hardware]
+JISEC-Protection Profiles Certification
+JISEC-CC/CEM
+JISEC-Evaluation and Certification Processes
+JISEC-Application
+JISEC-Assurance Continuity
+JISEC-Scheme Documentation
+JISEC-Use of Marks and Notifications
+JISEC-Evaluation Facilities
+JISEC-Policy Evaluation and Certification
+Hardcopy Devices Evaluation and Certification
+JISEC-Reference materials
+CC Supporting Documents related to Hardware Security  Devices
+JISEC-FAQ
+JISEC-Contact
+Change log
+Jul 15, 2026
+C0873 is listed to [Certified Products [Software]].
+Jul 9, 2026
+C0871 and C0872 are listed to [Certified Products [Software]].
+C0862, C0863, C0867 and C0868 are updated to [Certified Products [Software]].
+Jul 3, 2026
+[Products in Evaluation [Software]] is updated.
+Jun 30, 2026
+C0870 is listed to [Certified Products [Software]].
+Jun 24, 2026
+C0869 is listed to [Certified Products [Software]].
+Jun 19, 2026
+C0859 is updated to [JISEC-Protection Profiles].
+Jun 11, 2026
+C0866 is listed to [Certified Products [Software]].
+Jun 9, 2026
+C0867 and 0868 are listed to [Certified Products [Software]].
+Jun 4, 2026
+C0864 and 0865 are updated to [Certified Products [Software]].
+May 26, 2026
+C0862, C0863, C0864 and C0865 are listed to [Certified Products [Software]].
+
+JISEC-Scheme Overview
+Last Updated:Jul 7, 2022
+Japan Information Technology Security Evaluation and Certification Scheme (""JISEC"")
+Japan Information Technology Security Evaluation and Certification Scheme (
+""JISEC
+"") is a scheme under which third-party evaluation facilities evaluate whether IT product security is effective and reliably implemented in accordance with ISO/IEC 15408, the international standard for evaluation criteria for IT security based on CC and the certification provides independent confirmation of the validity of evaluation results by Innovation Platform Agency, Japan (""
+IPA
+"").
+IPA operates JISEC from the standpoint of the Certification Body and besides certification activities is also involved in overseeing the scheme and engaging in international collaboration.
+The benefit in having certified products and systems is that it provides the users of such products with confidence in the security functionality provided. Users can confirm precisely and in detail whether they can appropriately protect information assets and system resources.
+The Certification Body
+Japan's Sole Certification Body is an organization established within the Information-Technology Promotion Agency, Japan (IPA), is a government affiliated Agency (specially-approved corporation) which is operated under METI (Ministry of Economy, Trade and Industry) supervision.
+The Certification Body is supposed to take organizational and operational measures to satisfy the requirements provided for by JIS Q 17065 (General requirements for bodies operating product certification systems. ISO/IEC 17065) and CCRA.
+The Certification Body implements the Certification or ST Confirmation based on the results of an Evaluation made by an Evaluation Facility.
+Evaluation Facilities
+Evaluations under JISEC are performed by Commercial Evaluation Facilities. These are commercial organizations approved by National Institute of Technology and Evaluation (NITE) as the Accreditation Body.
+There are 3 evaluation facilities (
+ITSC, ECSEC, TÜViT
+) in Japan now.
+Accreditation Body
+Accreditation Body is established within the National Institute of technology and Evaluation (NITE) as an organization that accredits an Evaluation facility under the Scheme according to JIS Q 17025."

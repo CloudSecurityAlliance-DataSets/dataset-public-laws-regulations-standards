@@ -25,13 +25,13 @@ _Source: https://publications.tnsosfiles.com/acts/113/pub/pc0408.pdf — extract
 
 BE IT ENACTED BY THE GENERAL ASSEMBLY OF THE STATE OF TENNESSEE:
 
-        SECTION 1. This act is known and may be cited as the "Tennessee Information
+#### SECTION 1. This act is known and may be cited as the "Tennessee Information
 Protection Act."
 
-         SECTION 2. Tennessee Code Annotated, Title 47, Chapter 18, is amended by adding
+#### SECTION 2. Tennessee Code Annotated, Title 47, Chapter 18, is amended by adding
 the following as a new part:
 
-       47-18-3201. Part definitions.
+### 47-18-3201. Part definitions.
 
               As used in this part:
 
@@ -71,7 +71,8 @@ the following as a new part:
 
                       (5) "Child" means a natural person younger than thirteen (13) years of
                age;
-HB1181
+
+HB1181
 
 
                 (6) "Consent":
@@ -143,7 +144,8 @@ the following as a new part:
 
 
                                             2
-HB1181
+
+HB1181
 
 
                       (8) An organization exempt from taxation under the Internal
@@ -214,7 +216,8 @@ the following as a new part:
 
 
                                             3
-HB1181
+
+HB1181
 
 
                      (A) Means the exchange of personal information for valuable
@@ -286,7 +289,8 @@ the following as a new part:
 
 
                                           4
-HB1181
+
+HB1181
 
 
                       (29) "Third party" means a natural or legal person, public authority,
@@ -305,7 +309,7 @@ the following as a new part:
                              (B) Is the subject of efforts that are reasonable under the
                       circumstances to maintain the information's secrecy.
 
-     47-18-3202. Scope.
+### 47-18-3202. Scope.
 
             This part applies to persons that conduct business in this state producing
      products or services that target residents of this state and that:
@@ -322,7 +326,7 @@ the following as a new part:
                        information of at least one hundred seventy-five thousand (175,000)
                        consumers.
 
-         47-18-3203. Personal information rights - Consumers.
+### 47-18-3203. Personal information rights - Consumers.
 
                (a)
 
@@ -357,7 +361,8 @@ the following as a new part:
 
 
                                                  5
-HB1181
+
+HB1181
 
 
                                               (a) Retaining a record of the deletion request and
@@ -429,7 +434,8 @@ the following as a new part:
 
 
                                                   6
-HB1181
+
+HB1181
 
 
      must be made available to the consumer in a conspicuous manner, must be available at
@@ -441,7 +447,7 @@ the following as a new part:
      if available, or other method through which the consumer may contact the attorney
      general and reporter to submit a complaint.
 
-     47-18-3204. Data controller responsibilities -Transparency.
+### 47-18-3204. Data controller responsibilities -Transparency.
 
                (a) A controller shall:
 
@@ -500,7 +506,8 @@ the following as a new part:
 
 
                                                   7
-HB1181
+
+HB1181
 
 
                        (3). How consumers may exercise their consumer rights pursuant to§ 47-
@@ -538,7 +545,7 @@ the following as a new part:
                 order to exercise consumer rights in § 47-18-3203, but may require a consumer
                 to use an existing account.
 
-         47-18-3205. Responsibility according to role - Controller and processor.
+### 47-18-3205. Responsibility according to role - Controller and processor.
 
                  (a) A processor shall adhere to the instructions of a controller and shall assist the
          controller in meeting its obligations under this part. The assistance must include:
@@ -572,7 +579,8 @@ the following as a new part:
 
 
                                                     8
-HB1181
+
+HB1181
 
 
                        (4) Allow, and cooperate with, reasonable assessments by the controller
@@ -644,7 +652,8 @@ the following as a new part:
 
 
                                                   9
-HB1181
+
+HB1181
 
 
      controller shall make the data protection assessment available to the attorney general
@@ -666,7 +675,7 @@ the following as a new part:
             (f) Data protection assessment requirements apply to processing activities
      created or generated on or after July 1, 2024, and are not retroactive.
 
-     47-18-3207. Processing de-identified data - Exemptions.
+### 47-18-3207. Processing de-identified data - Exemptions.
 
                (a) The controller in possession of de-identified data shall:
 
@@ -688,7 +697,7 @@ the following as a new part:
                 consumer request with personal information; or
 
                        (3) Comply with an authenticated consumer rights request, pursuant to §
-                47-18-3203, if:
+### 47-18-3203, if:
 
                               (A) The controller is not reasonably capable of associating the
                        request with the personal information or it would be unreasonably
@@ -715,7 +724,8 @@ the following as a new part:
 
 
                                                   10
-HB1181
+
+HB1181
 
 
              (d) A controller that discloses pseudonymous data or de-identified data shall
@@ -723,7 +733,7 @@ the following as a new part:
      which the pseudonymous data or de-identified data is subject and shall take appropriate
      steps to address breaches of those contractual commitments.
 
-     47-18-3208. Limitations.
+### 47-18-3208. Limitations.
 
                (a) This part does not restrict a controller's or processor's ability to:
 
@@ -787,7 +797,8 @@ the following as a new part:
 
 
                                                     11
-HB1181
+
+HB1181
 
 
                existing relationship with the controller or are otherwise compatible with
@@ -851,13 +862,14 @@ the following as a new part:
          subdivisions (a)(1 )-(9) does not solely make an entity a controller with respect to the
          processing.
 
-         47-18-3209. Investigative authority.
+### 47-18-3209. Investigative authority.
 
 
 
 
                                                     12
-HB1181
+
+HB1181
 
 
              If the attorney general and reporter has reasonable cause to believe that an
@@ -865,7 +877,7 @@ the following as a new part:
      in a violation of this part, then the attorney general and reporter may issue a civil
      investigative demand.
 
-     47-18-3210. Exemptions.
+### 47-18-3210. Exemptions.
 
             (a) This part does not apply to:
 
@@ -927,7 +939,8 @@ the following as a new part:
 
 
                                                  13
-HB1181
+
+HB1181
 
 
                                (A) Derived from the healthcare-related information listed in this
@@ -997,13 +1010,14 @@ the following as a new part:
 
 
                                                   14
-HB1181
+
+HB1181
 
 
             (c) This part does not require a controller, processor, third party, or consumer to
      disclose trade secrets.
 
-     47-18-3211. Contracts.
+### 47-18-3211. Contracts.
 
              (a) A provision of a contract or agreement that waives or limits a consumer's
      rights under this part, including, but not limited to, a right to a remedy or means of
@@ -1017,7 +1031,7 @@ the following as a new part:
              (c) This part applies to contracts entered into, amended, or renewed on or after
      the effective date of this act.
 
-     47-18-3212. Enforcement- Civil penalty- Expenses.
+### 47-18-3212. Enforcement- Civil penalty- Expenses.
 
                 (a) The attorney general and reporter has exclusive authority to enforce this part.
 
@@ -1064,12 +1078,13 @@ the following as a new part:
          in investigating and preparing a case, including attorney fees, in an action initiated under
          this part.
 
-         47-18-3213. Affirmative defense - Voluntary privacy program.
+### 47-18-3213. Affirmative defense - Voluntary privacy program.
 
 
 
                                                    15
-HB1181
+
+HB1181
 
 
               (a) A controller or processor has an affirmative defense to a cause of action for a
@@ -1118,12 +1133,12 @@ the following as a new part:
                         (2) Certifications under subdivision (c)(1) may be considered in addition to
                 the factors in subsection (b).
 
-        SECTION 3. If a provision of this act or its application to a person or circumstance is
+#### SECTION 3. If a provision of this act or its application to a person or circumstance is
 held invalid, then the invalidity does not affect other provisions or applications of the act that can
 be given effect without the invalid provision or application, and to that end, the provisions of this
 act are severable.
 
-        SECTION 4. This act supersedes and preempts any conflicting provisions of any public
+#### SECTION 4. This act supersedes and preempts any conflicting provisions of any public
 or private act and laws, ordinances, resolutions, regulations, or the equivalent adopted by a
 home rule municipality, county, including a metropolitan government, or city regarding the
 processing of personal data by controllers or processors. To the extent there exists a conflict,
@@ -1131,17 +1146,18 @@ this section does not require the home rule municipality, county, or city to ado
 ordinance, resolution, regulation, or the equivalent to modify or repeal such conflicting
 provisions enacted prior to the effective date of this act.
 
-        SECTION 5. The headings in this act are for reference purposes only and do not
+#### SECTION 5. The headings in this act are for reference purposes only and do not
 constitute a part of the law enacted by this act. However, the Tennessee Code Commission is
 requested to include the headings in any compilation or publication containing this act.
 
-         SECTION 6. This act takes effect July 1, 2025, the public welfare requiring it.
+#### SECTION 6. This act takes effect July 1, 2025, the public welfare requiring it.
 
 
 
 
                                                   16
-                            HOUSE BILL NO.     1181
+
+                            HOUSE BILL NO.     1181
 
 
 
@@ -1172,4 +1188,5 @@ APPROVED this   f 11;£,..   day of   VV\:wy               2023
 
           ~
 BILL LEE, GOVERNOR                       -
-```
+
+```

@@ -1,0 +1,130 @@
+[
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "Microsoft Secure Score",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Feedback\n\nSummarize this article for me"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "In this article",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Microsoft Secure Score is a measurement of an organization's security posture,\nwith a higher number indicating more recommended actions taken. It can be\nfound at [Microsoft Secure Score](https://security.microsoft.com/securescore)\nin the Microsoft Defender portal.\n\nFollowing the Secure Score recommendations can protect your organization from\nthreats. From a centralized dashboard in the Microsoft Defender portal,\norganizations can monitor and work on the security of their Microsoft 365\nidentities, apps, and devices.\n\nSecure Score helps organizations:\n\n  * Report on the current state of the organization's security posture.\n  * Improve their security posture by providing discoverability, visibility, guidance, and control.\n  * Compare with benchmarks and establish key performance indicators (KPIs).\n\nWatch this video for a quick overview of Secure score.\n\nOrganizations gain access to robust visualizations of metrics and trends,\nintegration with other Microsoft products, score comparison with similar\norganizations, and much more. The score can also reflect when non-Microsoft\nsolutions addressed recommended actions.\n\n[ ![Screenshot that shows the Microsoft Secure Score homepage in the Microsoft\nDefender portal](media/secure-score-home-page.png) ](media/secure-score-home-\npage.png#lightbox)"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "How it works",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "You get points for the following actions:\n\n  * Configuring recommended security features\n  * Doing security-related tasks\n  * Addressing the recommended action with a non-Microsoft application or software, or an alternate mitigation\n\nSome recommended actions only give points when fully completed. Some actions\nresult in partial points if tasks are completed for some devices or users. If\nyou can't or don't want to enact one of the recommended actions, you can\nchoose to accept the risk or remaining risk.\n\nIf you have a license for one of the supported Microsoft products, then you\nsee recommendations for those products. We show you the full set of possible\nrecommendations for a product, regardless of license edition, subscription, or\nplan. This way, you can understand security best practices and improve your\nscore. Your absolute security posture, represented by Secure Score, stays the\nsame no matter what licenses your organization owns for a specific product.\nKeep in mind that security should be balanced with usability, and not every\nrecommendation can work for your environment.\n\nYour score is updated in real time to reflect the information presented in the\nvisualizations and recommended action pages. Secure Score also syncs daily to\nreceive system data about your achieved points for each action.\n\nNote\n\nFor Microsoft Teams and Microsoft Entra related recommendations, the\nrecommendation state will get updated when changes occur in the configuration\nstate. In addition, the recommendation state is refreshed once a month or once\na week, respectively."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "How recommended actions are scored",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Each recommended action is worth 10 points or less, and most are scored in a\nbinary fashion. If you implement the recommended action, like create a new\npolicy or turn on a specific setting, you get 100% of the points. For other\nrecommended actions, points are given as a percentage of the total\nconfiguration.\n\nFor example, a recommended action states you get 10 points by protecting all\nyour users with multifactor authentication. You only have 50 of 100 total\nusers protected, so you'd get a partial score of five points (50 protected /\n100 total * 10 max pts = 5 pts)."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Get started with Microsoft Secure Score",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "* [Check your current score](microsoft-secure-score-improvement-actions#check-your-current-score)\n  * [View recommended actions and decide an action plan](microsoft-secure-score-improvement-actions#take-action-to-improve-your-score)\n  * [Initiate work flows to investigate or implement](microsoft-secure-score-improvement-actions#view-recommended-action-details)\n  * [Compare your score to organizations like yours](microsoft-secure-score-history-metrics-trends#compare-your-score-to-organizations-like-yours)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Products included in Secure Score",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Currently there are recommendations for the following products:\n\n  * App governance\n  * Microsoft Entra ID\n  * Citrix ShareFile\n  * Microsoft Defender for Endpoint\n  * Microsoft Defender for Identity\n  * Microsoft Defender for Office\n  * Docusign\n  * Exchange Online\n  * GitHub\n  * Microsoft Defender for Cloud Apps\n  * Microsoft Purview Information Protection\n  * Microsoft Teams\n  * Okta\n  * Salesforce\n  * ServiceNow\n  * SharePoint Online\n  * Zoom\n\nRecommendations for other security products are coming soon. The\nrecommendations don't cover all the attack surfaces associated with each\nproduct, but they're a good baseline. You can also mark the recommended\nactions as covered by a non-Microsoft solution or alternate mitigation."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Security defaults",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Microsoft Secure Score includes updated recommended actions to support\n[security defaults in Microsoft Entra ID](/en-us/entra/fundamentals/security-\ndefaults) to make it easier to help protect your organization with\npreconfigured security settings for common attacks.\n\nIf you turn on security defaults, you are awarded full points for the\nfollowing recommended actions:\n\n  * Ensure all users can complete multifactor authentication for secure access (nine points)\n  * Require MFA for administrative roles (10 points)\n  * Enable policy to block legacy authentication (seven points)\n\nImportant\n\nSecurity defaults include security features that provide similar security to\nthe sign-in risk policy and user risk policy recommended actions. Instead of\nsetting up these policies on top of the security defaults, we recommend\nupdating their statuses to `Resolved through alternative mitigation`."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Secure Score permissions",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Important\n\nMicrosoft recommends that you use roles with the fewest permissions. This\nhelps improve security for your organization."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Manage permissions with Microsoft Defender XDR Unified role-based access",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "control (RBAC)\n\nWith [Microsoft Defender XDR Unified role-based access control(RBAC)](manage-\nrbac), you can create custom roles with specific permissions for Secure Score.\nThese permissions are located under the **Security posture** category in\nDefender XDR Unified RBAC permissions model and are named **Exposure\nManagement (read)** for read-only access and **Exposure Management (manage)**\nfor users who will have access to manage Secure Score recommendations.\n\nIn order for users to access Secure Score data, a custom role in Defender XDR\nUnified RBAC shall be assigned with the **Microsoft Security Exposure\nManagement** data source.\n\nTo start using Microsoft Defender XDR Unified RBAC to manage your Secure Score\npermissions, see [Microsoft Defender XDR Unified role-based access control\n(RBAC)](manage-rbac).\n\nNote\n\nDefender XDR Unified RBAC is automatically active for Secure Score access.\nOnce a custom role with one of the permissions is created, it has an immediate\nimpact on assigned users. There is no need to activate it.\n\nCurrently, the model is only supported in the Microsoft Defender portal. If\nyou want to use GraphAPI (for example, for internal dashboards or Defender for\nIdentity Secure Score) you should continue to use Microsoft Entra roles.\nSupport GraphAPI is planned at a later date."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Microsoft Entra global roles permissions",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Microsoft Entra global roles (for example, Security Administrator) can still\nbe used to access Secure Score. Users who have the supported Microsoft Entra\nglobal roles, but aren't assigned to a custom role in Microsoft Defender XDR\nUnified RBAC continue to have access to view (and manage where permitted)\nSecure Score data as outlined:\n\nThe following roles have read and write access and can make changes, directly\ninteract with Secure Score, and can assign read-only access to other users:\n\n  * Security Administrator or higher\n  * Exchange Administrator\n  * SharePoint Administrator\n\nThe following roles have read-only access and aren't able to edit status or\nnotes for a recommended action, edit score zones, or edit custom comparisons:\n\n  * Helpdesk Administrator\n  * User Administrator\n  * Service Support Administrator\n  * Security Reader\n  * Security Operator\n  * Global Reader\n\nNote\n\nIf you want to follow the principle of least privilege access (where you only\ngive users and groups the permissions, they need to do their job), Microsoft\nrecommends that you remove any existing elevated Microsoft Entra global roles\nfor users and/or security groups assigned a custom role with Secure Score\npermissions. This will ensure that the custom Microsoft Defender XDR Unified\nRBAC roles will take effect."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Risk awareness",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Microsoft Secure Score is a numerical summary of your security posture based\non system configurations, user behavior, and other security-related\nmeasurements. It isn't an absolute measurement of how likely your system or\ndata could be breached. Rather, it represents the extent to which you are\nusing security controls in your Microsoft environment that can help offset the\nrisk of being breached. No online service is immune from security breaches,\nand secure score shouldn't be interpreted as a guarantee against security\nbreach in any manner."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "We want to hear from you",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "If you have any issues, let us know by posting in the [Defender XDR\ncommunity](https://techcommunity.microsoft.com/category/microsoft-defender-\nxdr/discussions/microsoftthreatprotection)."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Related resources",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "* [Assess your security posture and see recommendations](microsoft-secure-score-improvement-actions)\n  * [Track your Microsoft Secure Score history and meet goals](microsoft-secure-score-history-metrics-trends)\n  * [What's coming](whats-new)\n  * [What's new](microsoft-secure-score-whats-new)\n\nTip\n\nDo you want to learn more? Engage with the Microsoft Security community in our\nTech Community: [Microsoft Defender XDR Tech\nCommunity](https://techcommunity.microsoft.com/t5/microsoft-365-defender/bd-p/MicrosoftThreatProtection).\n\n* * *"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Feedback",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Was this page helpful?\n\nYes No No\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?\n\nAsk Learn Ask Learn\n\nSuggest a fix?\n\n* * *"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Additional resources",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "* * *\n\n  * Last updated on  2026-03-07"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "In this article",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Was this page helpful?\n\nNeed help with this topic?\n\nWant to try using Ask Learn to clarify or guide you through this topic?\n\nAsk Learn Ask Learn\n\nSuggest a fix?\n\n[en-us](#)\n\n[ Your Privacy Choices](https://aka.ms/yourcaliforniaprivacychoices)\n\nTheme\n\n  * Light\n  * Dark\n  * High contrast\n\n  *   * [AI Disclaimer](https://learn.microsoft.com/en-us/principles-for-ai-generated-content)\n  * [Previous Versions](https://learn.microsoft.com/en-us/previous-versions/)\n  * [Blog](https://techcommunity.microsoft.com/t5/microsoft-learn-blog/bg-p/MicrosoftLearnBlog)\n  * [Contribute](https://learn.microsoft.com/en-us/contribute)\n  * [Privacy](https://go.microsoft.com/fwlink/?LinkId=521839)\n  * [Consumer Health Privacy](https://go.microsoft.com/fwlink/?linkid=2259814)\n  * [Terms of Use](https://learn.microsoft.com/en-us/legal/termsofuse)\n  * [Trademarks](https://www.microsoft.com/legal/intellectualproperty/Trademarks/)\n  * © Microsoft 2026"
+  }
+]

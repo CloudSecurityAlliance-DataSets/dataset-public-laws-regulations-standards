@@ -1,3 +1,5 @@
+# JailbreakBench
+
 [JailbreakBench](./index.html)
 
   * [Leaderboards](#leaderboard)
@@ -20,8 +22,8 @@ Second, existing works compute attacker costs and success rates in
 incomparable ways. Third, some works lack reproducibility as they withhold
 adversarial prompts or code, and rely on changing proprietary APIs for
 evaluation. Consequently, navigating the current literature and tracking
-progress can be challenging.  
-  
+progress can be challenging.
+
 To address this, we introduce JailbreakBench, a centralized benchmark with the
 following components:
 
@@ -67,8 +69,8 @@ works:
 Moreover, consider citing our whitepaper if you use the datasets, reference
 our leaderboard, or if you are using our evaluation library:
 
-    
-    
+
+
     @inproceedings{chao2024jailbreakbench,
             title={JailbreakBench: An Open Robustness Benchmark for Jailbreaking Large Language Models},
             author={Patrick Chao and Edoardo Debenedetti and Alexander Robey and Maksym Andriushchenko and Francesco Croce and Vikash Sehwag and Edgar Dobriban and Nicolas Flammarion and George J. Pappas and Florian Tramèr and Hamed Hassani and Eric Wong},
@@ -79,4 +81,3 @@ our leaderboard, or if you are using our evaluation library:
 * * *
 
 © 2024, JailbreakBench
-

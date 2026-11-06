@@ -1,0 +1,26 @@
+[
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "Understanding security standards in Security Hub CSPM",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "In AWS Security Hub CSPM, a _security standard_ is a set of requirements\nthat's based on regulatory frameworks, industry best practices, or company\npolicies. For details about the standards that Security Hub CSPM currently\nsupports, including the security controls that apply to each one, see the\n[Standards reference for Security Hub CSPM](./standards-reference.html).\n\nWhen you enable a standard, Security Hub CSPM automatically enables all the\ncontrols that apply to the standard. Security Hub CSPM then runs security\nchecks on the controls, which generates Security Hub CSPM findings. You can\ndisable and later re-enable individual controls as necessary. You can also\ndisable a standard completely. If you disable a standard, Security Hub CSPM\nstops running security checks on controls that apply to the standard. Findings\nare no longer generated for the controls.\n\nIn addition to findings, Security Hub CSPM generates a security score for each\nstandard that you enable. The score is based on the status of the controls\nthat apply to the standard. If you set an aggregation Region, the security\nscore for a standard reflects the status of the controls across all linked\nRegions. If you're the Security Hub CSPM administrator for an organization,\nthe score reflects the status of the controls for all the accounts in your\norganization. For more information, see [Calculating security\nscores](./standards-security-score.html).\n\nTo review and manage standards, you can use the Security Hub CSPM console or\nthe Security Hub CSPM API. On the console, the **Security standards** page\nshows all the security standards that Security Hub CSPM currently supports.\nThis includes a description of each standard and the current status of the\nstandard. If you enable a standard, you can also use this page to access\nadditional details for the standard. For example, you can review:\n\n  * The current security score for the standard.\n\n  * Aggregated statistics for controls that apply to the standard.\n\n  * A list of controls that apply to the standard and are currently enabled, including the compliance status of each one.\n\n  * A list of controls that apply to the standard but are currently disabled.\n\nFor deeper analysis, you can filter and sort the data, and drill down to\nreview the details of individual controls that apply to the standard.\n\nYou can enable standards individually for a single account and AWS Region.\nHowever, to save time and reduce configuration drift in multi-account and\nmulti-Region environments, we recommend using [central\nconfiguration](./central-configuration-intro.html) to enable and manage\nstandards. With central configuration, the delegated Security Hub CSPM\nadministrator can create policies that specify how to configure a standard\nacross multiple accounts and Regions."
+  },
+  {
+    "depth": 6,
+    "section_id": "",
+    "section_name": "Topics",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "* [Standards reference](./standards-reference.html)\n\n  * [Enabling a standard](./enable-standards.html)\n\n  * [Reviewing the details of a standard](./securityhub-standards-view-controls.html)\n\n  * [Turning off auto-enabled standards](./securityhub-auto-enabled-standards.html)\n\n  * [Disabling a standard](./disable-standards.html)\n\n![Warning](https://d1ge0kk1l5kms0.cloudfront.net/images/G/01/webservices/console/warning.png)"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Javascript is disabled or is unavailable in your browser.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "To use the Amazon Web Services Documentation, Javascript must be enabled.\nPlease refer to your browser's Help pages for instructions.\n\n[Document Conventions](/general/latest/gr/docconventions.html)\n\nStopping aggregation\n\nStandards reference\n\nDid this page help you? - Yes\n\nThanks for letting us know we're doing a good job!\n\nIf you've got a moment, please tell us what we did right so we can do more of\nit.\n\nDid this page help you? - No\n\nThanks for letting us know this page needs work. We're sorry we let you down.\n\nIf you've got a moment, please tell us how we can make the documentation\nbetter."
+  }
+]

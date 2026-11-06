@@ -1,0 +1,2355 @@
+[
+  {
+    "Col_1": "General Information",
+    "Col_2": "General Information",
+    "Col_3": "General Information",
+    "Col_4": "General Information",
+    "Col_5": "General Information",
+    "Col_6": "General Information",
+    "Col_7": "",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Control Selection"
+  },
+  {
+    "Col_1": "Date",
+    "Col_2": "<Current date - m/d/yyyy>",
+    "Col_3": "<Current date - m/d/yyyy>",
+    "Col_4": "<Current date - m/d/yyyy>",
+    "Col_5": "<Current date - m/d/yyyy>",
+    "Col_6": "<Current date - m/d/yyyy>",
+    "Col_7": "",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Control Selection"
+  },
+  {
+    "Col_1": "CSP",
+    "Col_2": "<CSP Name>",
+    "Col_3": "<CSP Name>",
+    "Col_4": "<CSP Name>",
+    "Col_5": "<CSP Name>",
+    "Col_6": "<CSP Name>",
+    "Col_7": "",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Control Selection"
+  },
+  {
+    "Col_1": "System Name",
+    "Col_2": "<System Name/Cloud Service Offering Name>",
+    "Col_3": "<System Name/Cloud Service Offering Name>",
+    "Col_4": "<System Name/Cloud Service Offering Name>",
+    "Col_5": "<System Name/Cloud Service Offering Name>",
+    "Col_6": "<System Name/Cloud Service Offering Name>",
+    "Col_7": "",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Control Selection"
+  },
+  {
+    "Col_1": "Baseline",
+    "Col_2": "<High, Moderate, Low, LI-SaaS>",
+    "Col_3": "<High, Moderate, Low, LI-SaaS>",
+    "Col_4": "<High, Moderate, Low, LI-SaaS>",
+    "Col_5": "<High, Moderate, Low, LI-SaaS>",
+    "Col_6": "<High, Moderate, Low, LI-SaaS>",
+    "Col_7": "",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Control Selection"
+  },
+  {
+    "Col_1": "3PAO",
+    "Col_2": "<3PAO Name>",
+    "Col_3": "<3PAO Name>",
+    "Col_4": "<3PAO Name>",
+    "Col_5": "<3PAO Name>",
+    "Col_6": "<3PAO Name>",
+    "Col_7": "",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Control Selection"
+  },
+  {
+    "Col_1": "Annual Assessment Due Date",
+    "Col_2": "<You must identify this date to properly set up this form - m/d/yyyy>",
+    "Col_3": "<You must identify this date to properly set up this form - m/d/yyyy>",
+    "Col_4": "<You must identify this date to properly set up this form - m/d/yyyy>",
+    "Col_5": "<You must identify this date to properly set up this form - m/d/yyyy>",
+    "Col_6": "<You must identify this date to properly set up this form - m/d/yyyy>",
+    "Col_7": "",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Control Selection"
+  },
+  {
+    "Col_1": "ERROR! Please populate Annual Assessment Due Date above",
+    "Col_2": "ERROR! Please populate Annual Assessment Due Date above",
+    "Col_3": "ERROR! Please populate Annual Assessment Due Date above",
+    "Col_4": "ERROR! Please populate Annual Assessment Due Date above",
+    "Col_5": "ERROR! Please populate Annual Assessment Due Date above",
+    "Col_6": "ERROR! Please populate Annual Assessment Due Date above",
+    "Col_7": "",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Control Selection"
+  },
+  {
+    "Col_1": "ERROR! Please populate Annual Assessment Due Date above",
+    "Col_2": "ERROR! Please populate Annual Assessment Due Date above",
+    "Col_3": "ERROR! Please populate Annual Assessment Due Date above",
+    "Col_4": "ERROR! Please populate Annual Assessment Due Date above",
+    "Col_5": "ERROR! Please populate Annual Assessment Due Date above",
+    "Col_6": "ERROR! Please populate Annual Assessment Due Date above",
+    "Col_7": "",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Control Selection"
+  },
+  {
+    "Col_1": "ERROR! Please populate Annual Assessment Due Date above",
+    "Col_2": "",
+    "Col_3": "ERROR! Please populate Annual Assessment Due Date above",
+    "Col_4": "",
+    "Col_5": "ERROR! Please populate Annual Assessment Due Date above",
+    "Col_6": "ERROR! Please populate Annual Assessment Due Date above",
+    "Col_7": "",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Control Selection"
+  },
+  {
+    "Col_1": "ERROR! Please populate Annual Assessment Due Date above",
+    "Col_2": "ERROR! Please populate Annual Assessment Due Date above",
+    "Col_3": "ERROR! Please populate Annual Assessment Due Date above",
+    "Col_4": "ERROR! Please populate Annual Assessment Due Date above",
+    "Col_5": "ERROR! Please populate Annual Assessment Due Date above",
+    "Col_6": "ERROR! Please populate Annual Assessment Due Date above",
+    "Col_7": "",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Control Selection"
+  },
+  {
+    "Col_1": "",
+    "Col_2": "",
+    "FedRAMP Annual Assessment Controls Selection Worksheet": "FedRAMP Annual Assessment Controls Selection Worksheet",
+    "Col_5": "",
+    "Col_6": "",
+    "Col_7": "",
+    "Col_8": "",
+    "Col_9": "",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Instructions"
+  },
+  {
+    "Col_1": "",
+    "Col_2": "",
+    "FedRAMP Annual Assessment Controls Selection Worksheet": "FedRAMP Annual Assessment Controls Selection Worksheet",
+    "Col_5": "",
+    "Col_6": "",
+    "Col_7": "",
+    "Col_8": "",
+    "Col_9": "",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Instructions"
+  },
+  {
+    "Col_1": "",
+    "Col_2": "",
+    "FedRAMP Annual Assessment Controls Selection Worksheet": "FedRAMP Annual Assessment Controls Selection Worksheet",
+    "Col_5": "",
+    "Col_6": "",
+    "Col_7": "",
+    "Col_8": "",
+    "Col_9": "",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Instructions"
+  },
+  {
+    "Col_1": "",
+    "Col_2": "",
+    "FedRAMP Annual Assessment Controls Selection Worksheet": "FedRAMP Annual Assessment Controls Selection Worksheet",
+    "Col_5": "",
+    "Col_6": "",
+    "Col_7": "",
+    "Col_8": "",
+    "Col_9": "",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Instructions"
+  },
+  {
+    "Col_1": "",
+    "Col_2": "",
+    "FedRAMP Annual Assessment Controls Selection Worksheet": "FedRAMP Annual Assessment Controls Selection Worksheet",
+    "Col_5": "",
+    "Col_6": "",
+    "Col_7": "",
+    "Col_8": "",
+    "Col_9": "",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Instructions"
+  },
+  {
+    "Col_1": "",
+    "Col_2": "",
+    "FedRAMP Annual Assessment Controls Selection Worksheet": "FedRAMP Annual Assessment Controls Selection Worksheet",
+    "Col_5": "",
+    "Col_6": "",
+    "Col_7": "",
+    "Col_8": "",
+    "Col_9": "",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Instructions"
+  },
+  {
+    "Col_1": "",
+    "Col_2": "",
+    "FedRAMP Annual Assessment Controls Selection Worksheet": "FedRAMP Annual Assessment Controls Selection Worksheet",
+    "Col_5": "",
+    "Col_6": "",
+    "Col_7": "",
+    "Col_8": "",
+    "Col_9": "",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Instructions"
+  },
+  {
+    "Col_1": "",
+    "Col_2": "",
+    "FedRAMP Annual Assessment Controls Selection Worksheet": "FedRAMP Annual Assessment Controls Selection Worksheet",
+    "Col_5": "",
+    "Col_6": "",
+    "Col_7": "",
+    "Col_8": "",
+    "Col_9": "",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Instructions"
+  },
+  {
+    "Col_1": "",
+    "Col_2": "",
+    "FedRAMP Annual Assessment Controls Selection Worksheet": "FedRAMP Annual Assessment Controls Selection Worksheet",
+    "Col_5": "",
+    "Col_6": "",
+    "Col_7": "",
+    "Col_8": "",
+    "Col_9": "",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Instructions"
+  },
+  {
+    "Col_1": "",
+    "Col_2": "Instructions",
+    "FedRAMP Annual Assessment Controls Selection Worksheet": "",
+    "Col_5": "",
+    "Col_6": "",
+    "Col_7": "",
+    "Col_8": "",
+    "Col_9": "",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Instructions"
+  },
+  {
+    "Col_1": "",
+    "Col_2": "Overview",
+    "FedRAMP Annual Assessment Controls Selection Worksheet": "",
+    "Col_5": "",
+    "Col_6": "",
+    "Col_7": "",
+    "Col_8": "",
+    "Col_9": "",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Instructions"
+  },
+  {
+    "Col_1": "",
+    "Col_2": "The FedRAMP Annual Assessment Controls Selection Worksheet provides a matrix to assist CSPs, 3PAOs, and federal agencies in assessing and tracking controls for their annual assessment. In May 2023, FedRAMP security control baselines were updated from NIST SP 800-53 Revision 4 (Rev. 4) to align with NIST SP 800-53 Revision 5 (Rev. 5). The list of core controls, those controls required to be assessed annually, are provided in several tabs of this worksheet.",
+    "FedRAMP Annual Assessment Controls Selection Worksheet": "The FedRAMP Annual Assessment Controls Selection Worksheet provides a matrix to assist CSPs, 3PAOs, and federal agencies in assessing and tracking controls for their annual assessment. In May 2023, FedRAMP security control baselines were updated from NIST SP 800-53 Revision 4 (Rev. 4) to align with NIST SP 800-53 Revision 5 (Rev. 5). The list of core controls, those controls required to be assessed annually, are provided in several tabs of this worksheet.",
+    "Col_5": "",
+    "Col_6": "",
+    "Col_7": "",
+    "Col_8": "",
+    "Col_9": "",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Instructions"
+  },
+  {
+    "Col_1": "",
+    "Col_2": "The subsections below provide an overview of each of the tabs and instructions on how to complete this workbook.",
+    "FedRAMP Annual Assessment Controls Selection Worksheet": "The subsections below provide an overview of each of the tabs and instructions on how to complete this workbook.",
+    "Col_5": "",
+    "Col_6": "",
+    "Col_7": "",
+    "Col_8": "",
+    "Col_9": "",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Instructions"
+  },
+  {
+    "Col_1": "",
+    "Col_2": "The subsections below provide an overview of each of the tabs and instructions on how to complete this workbook.",
+    "FedRAMP Annual Assessment Controls Selection Worksheet": "The subsections below provide an overview of each of the tabs and instructions on how to complete this workbook.",
+    "Col_5": "",
+    "Col_6": "",
+    "Col_7": "",
+    "Col_8": "",
+    "Col_9": "",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Instructions"
+  },
+  {
+    "Col_1": "",
+    "Col_2": "Control Selection Tab",
+    "FedRAMP Annual Assessment Controls Selection Worksheet": "Control Selection Tab",
+    "Col_5": "",
+    "Col_6": "",
+    "Col_7": "",
+    "Col_8": "",
+    "Col_9": "",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Instructions"
+  },
+  {
+    "Col_1": "",
+    "Col_2": "Section",
+    "FedRAMP Annual Assessment Controls Selection Worksheet": "Details",
+    "Col_5": "",
+    "Col_6": "",
+    "Col_7": "",
+    "Col_8": "",
+    "Col_9": "",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Instructions"
+  },
+  {
+    "Col_1": "",
+    "Col_2": "Date",
+    "FedRAMP Annual Assessment Controls Selection Worksheet": "Provide the date the template is completed.",
+    "Col_5": "",
+    "Col_6": "",
+    "Col_7": "",
+    "Col_8": "",
+    "Col_9": "",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Instructions"
+  },
+  {
+    "Col_1": "",
+    "Col_2": "CSP",
+    "FedRAMP Annual Assessment Controls Selection Worksheet": "The vendor name as supplied in any of the documents provided to an authorizing official (AO).",
+    "Col_5": "",
+    "Col_6": "",
+    "Col_7": "",
+    "Col_8": "",
+    "Col_9": "",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Instructions"
+  },
+  {
+    "Col_1": "",
+    "Col_2": "System Name",
+    "FedRAMP Annual Assessment Controls Selection Worksheet": "The information system name as supplied in any of the documents provided to an AO.",
+    "Col_5": "",
+    "Col_6": "",
+    "Col_7": "",
+    "Col_8": "",
+    "Col_9": "",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Instructions"
+  },
+  {
+    "Col_1": "",
+    "Col_2": "Baseline",
+    "FedRAMP Annual Assessment Controls Selection Worksheet": "Identify the cloud service offering's (CSO's) baseline with will one of the following: High, Moderate, Low, or LI-SaaS.",
+    "Col_5": "",
+    "Col_6": "",
+    "Col_7": "",
+    "Col_8": "",
+    "Col_9": "",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Instructions"
+  },
+  {
+    "Col_1": "",
+    "Col_2": "3PAO",
+    "FedRAMP Annual Assessment Controls Selection Worksheet": "The name of the 3PAO completing the assessment.",
+    "Col_5": "",
+    "Col_6": "",
+    "Col_7": "",
+    "Col_8": "",
+    "Col_9": "",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Instructions"
+  },
+  {
+    "Col_1": "",
+    "Col_2": "Annual Assessment Due Date",
+    "FedRAMP Annual Assessment Controls Selection Worksheet": "This field must be populated in order to properly to set up the form. This is the annual assessment due date, which is typically the P-ATO anniversary date or a new date that was requested by a CSP and formally approved by an AO.",
+    "Col_5": "",
+    "Col_6": "",
+    "Col_7": "",
+    "Col_8": "",
+    "Col_9": "",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Instructions"
+  },
+  {
+    "Col_1": "",
+    "Col_2": "Current Assessment",
+    "FedRAMP Annual Assessment Controls Selection Worksheet": "The \"Control ID\" and \"Indicate Rationale\" columns must be populated with information related to the upcoming annual assessment.",
+    "Col_5": "",
+    "Col_6": "",
+    "Col_7": "",
+    "Col_8": "",
+    "Col_9": "",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Instructions"
+  },
+  {
+    "Col_1": "",
+    "Col_2": "",
+    "FedRAMP Annual Assessment Controls Selection Worksheet": "This identifies the type of assessment. For \"Current Assessment\", this field is pre-populated with the default value of \"Annual Assessment\".",
+    "Col_5": "",
+    "Col_6": "",
+    "Col_7": "",
+    "Col_8": "",
+    "Col_9": "",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Instructions"
+  },
+  {
+    "Col_1": "",
+    "Col_2": "",
+    "FedRAMP Annual Assessment Controls Selection Worksheet": "These columns identify the NIST SP 800-53 unique control identifiers for controls a CSP is required to assess.",
+    "Col_5": "",
+    "Col_6": "",
+    "Col_7": "",
+    "Col_8": "",
+    "Col_9": "",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Instructions"
+  },
+  {
+    "Col_1": "",
+    "Col_2": "",
+    "FedRAMP Annual Assessment Controls Selection Worksheet": "These columns are for indicating the rationale for assessing this control (e.g., if the control requirement is related to a Deviation Request for a False Positive, Risk Adjustment, and/or Operational Requirement, Vendor Dependencies, or a system change implemented by a CSP since the last annual assessment). A 3PAO is required to validate these items for continued applicability to the system.\n\nWhere a control is selected for an assessment due to a system change, including significant/major change, the rationale should be concise and descriptive of the change.\n\nInformation on FedRAMP Rev. 4 and Rev. 5 core controls is included below.",
+    "Col_5": "",
+    "Col_6": "",
+    "Col_7": "",
+    "Col_8": "",
+    "Col_9": "",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Instructions"
+  },
+  {
+    "Col_1": "",
+    "Col_2": "",
+    "FedRAMP Annual Assessment Controls Selection Worksheet": "This cell with be automatically populated with a count of the controls in the \"Control ID\" column.",
+    "Col_5": "",
+    "Col_6": "",
+    "Col_7": "",
+    "Col_8": "",
+    "Col_9": "",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Instructions"
+  },
+  {
+    "Col_1": "",
+    "Col_2": "Prior Two Assessments",
+    "FedRAMP Annual Assessment Controls Selection Worksheet": "The \"Control ID\" and \"Indicate Rationale\" columns (descriptions below) must be populated with information for the two prior assessments, where applicable. There may have only been one prior assessment, such as the ATO/P-ATO assessment. The Assessment Type field is used to describe what type of assessment occurred for a prior year or if no assessment occur.",
+    "Col_5": "",
+    "Col_6": "",
+    "Col_7": "",
+    "Col_8": "",
+    "Col_9": "",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Instructions"
+  },
+  {
+    "Col_1": "",
+    "Col_2": "",
+    "FedRAMP Annual Assessment Controls Selection Worksheet": "This field is used to describe either the type of assessment occurred for a prior year (i.e., annual assessment or ATO/P-ATO assessment) or if no assessment occurred.",
+    "Col_5": "",
+    "Col_6": "",
+    "Col_7": "",
+    "Col_8": "",
+    "Col_9": "",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Instructions"
+  },
+  {
+    "Col_1": "",
+    "Col_2": "",
+    "FedRAMP Annual Assessment Controls Selection Worksheet": "These columns identify the NIST SP 800-53 unique control identifiers for controls a CSP is required to assess.",
+    "Col_5": "",
+    "Col_6": "",
+    "Col_7": "",
+    "Col_8": "",
+    "Col_9": "",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Instructions"
+  },
+  {
+    "Col_1": "",
+    "Col_2": "",
+    "FedRAMP Annual Assessment Controls Selection Worksheet": "These columns are for indicating the rationale for assessing this control (e.g., if the control requirement is related to a Deviation Request for a False Positive, Risk Adjustment, and/or Operational Requirement, Vendor Dependencies, or a system change implemented by the CSP since the last annual assessment). The 3PAO is required to validate these items for continued applicability to the system.\n\nWhere a control is selected for an assessment due to a system change, including a significant/major change, the rationale should be concise and descriptive of the change.\n\nInformation on FedRAMP Rev. 4 and Rev. 5 core controls is included below.",
+    "Col_5": "",
+    "Col_6": "",
+    "Col_7": "",
+    "Col_8": "",
+    "Col_9": "",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Instructions"
+  },
+  {
+    "Col_1": "",
+    "Col_2": "",
+    "FedRAMP Annual Assessment Controls Selection Worksheet": "This cell with be automatically populated with a count of the controls in the \"Control ID\" column.",
+    "Col_5": "",
+    "Col_6": "",
+    "Col_7": "",
+    "Col_8": "",
+    "Col_9": "",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Instructions"
+  },
+  {
+    "Col_1": "",
+    "Col_2": "FedRAMP Core Controls",
+    "FedRAMP Annual Assessment Controls Selection Worksheet": "",
+    "Col_5": "",
+    "Col_6": "",
+    "Col_7": "",
+    "Col_8": "",
+    "Col_9": "",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Instructions"
+  },
+  {
+    "Col_1": "",
+    "Col_2": "Rev5 High Core tab",
+    "FedRAMP Annual Assessment Controls Selection Worksheet": "There are a total of 101 core controls selected for the Rev. 5 High baseline.",
+    "Col_5": "",
+    "Col_6": "",
+    "Col_7": "",
+    "Col_8": "",
+    "Col_9": "",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Instructions"
+  },
+  {
+    "Col_1": "",
+    "Col_2": "Rev5 Moderate Core tab",
+    "FedRAMP Annual Assessment Controls Selection Worksheet": "There are a total of 80 core controls selected for the Rev. 5 Moderate baseline.",
+    "Col_5": "",
+    "Col_6": "",
+    "Col_7": "",
+    "Col_8": "",
+    "Col_9": "",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Instructions"
+  },
+  {
+    "Col_1": "",
+    "Col_2": "Rev5 Low Core tab",
+    "FedRAMP Annual Assessment Controls Selection Worksheet": "There are a total of 35 core controls selected for the Rev. 5 Low baseline.",
+    "Col_5": "",
+    "Col_6": "",
+    "Col_7": "",
+    "Col_8": "",
+    "Col_9": "",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Instructions"
+  },
+  {
+    "Col_1": "",
+    "Col_2": "Rev5 LI-SaaS Core",
+    "FedRAMP Annual Assessment Controls Selection Worksheet": "There are a total of 24 core controls selected for the Rev. 5 LI-SaaS baseline.",
+    "Col_5": "",
+    "Col_6": "",
+    "Col_7": "",
+    "Col_8": "",
+    "Col_9": "",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Instructions"
+  },
+  {
+    "Col_1": "",
+    "Col_2": "Rev4 Core tab",
+    "FedRAMP Annual Assessment Controls Selection Worksheet": "There are a total of 97 core controls selected for the Rev. 4 High, Moderate, and Low baselines.",
+    "Col_5": "",
+    "Col_6": "",
+    "Col_7": "",
+    "Col_8": "",
+    "Col_9": "",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Instructions"
+  },
+  {
+    "Col_1": "",
+    "Col_2": "",
+    "FedRAMP Annual Assessment Controls Selection Worksheet": "info@fedramp.gov\nfedramp.gov",
+    "Col_5": "",
+    "Col_6": "",
+    "Col_7": "",
+    "Col_8": "",
+    "Col_9": "",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Instructions"
+  },
+  {
+    "Col_1": "",
+    "Template Revision History": "Author",
+    "Col_7": "",
+    "Col_8": "",
+    "Col_9": "",
+    "Col_10": "",
+    "Col_11": "",
+    "Col_12": "",
+    "Col_13": "",
+    "Col_14": "",
+    "Col_15": "",
+    "Col_16": "",
+    "Col_17": "",
+    "Col_18": "",
+    "Col_19": "",
+    "Col_20": "",
+    "Col_21": "",
+    "Col_22": "",
+    "Col_23": "",
+    "Col_24": "",
+    "Col_25": "",
+    "Col_26": "",
+    "Col_27": "",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Record of Change"
+  },
+  {
+    "Col_1": "",
+    "Template Revision History": "FedRAMP PMO",
+    "Col_7": "",
+    "Col_8": "",
+    "Col_9": "",
+    "Col_10": "",
+    "Col_11": "",
+    "Col_12": "",
+    "Col_13": "",
+    "Col_14": "",
+    "Col_15": "",
+    "Col_16": "",
+    "Col_17": "",
+    "Col_18": "",
+    "Col_19": "",
+    "Col_20": "",
+    "Col_21": "",
+    "Col_22": "",
+    "Col_23": "",
+    "Col_24": "",
+    "Col_25": "",
+    "Col_26": "",
+    "Col_27": "",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Record of Change"
+  },
+  {
+    "Col_1": "",
+    "Template Revision History": "FedRAMP PMO",
+    "Col_7": "",
+    "Col_8": "",
+    "Col_9": "",
+    "Col_10": "",
+    "Col_11": "",
+    "Col_12": "",
+    "Col_13": "",
+    "Col_14": "",
+    "Col_15": "",
+    "Col_16": "",
+    "Col_17": "",
+    "Col_18": "",
+    "Col_19": "",
+    "Col_20": "",
+    "Col_21": "",
+    "Col_22": "",
+    "Col_23": "",
+    "Col_24": "",
+    "Col_25": "",
+    "Col_26": "",
+    "Col_27": "",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Record of Change"
+  },
+  {
+    "Col_1": "",
+    "Template Revision History": "FedRAMP PMO",
+    "Col_7": "",
+    "Col_8": "",
+    "Col_9": "",
+    "Col_10": "",
+    "Col_11": "",
+    "Col_12": "",
+    "Col_13": "",
+    "Col_14": "",
+    "Col_15": "",
+    "Col_16": "",
+    "Col_17": "",
+    "Col_18": "",
+    "Col_19": "",
+    "Col_20": "",
+    "Col_21": "",
+    "Col_22": "",
+    "Col_23": "",
+    "Col_24": "",
+    "Col_25": "",
+    "Col_26": "",
+    "Col_27": "",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Record of Change"
+  },
+  {
+    "Item\nNo.": "1",
+    "Rev. 4 Core Control ID (All Baselines)": "AC-1",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "2",
+    "Rev. 4 Core Control ID (All Baselines)": "AC-2",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "3",
+    "Rev. 4 Core Control ID (All Baselines)": "AC-2 (2)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "4",
+    "Rev. 4 Core Control ID (All Baselines)": "AC-2 (3)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "5",
+    "Rev. 4 Core Control ID (All Baselines)": "AC-2 (5)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "6",
+    "Rev. 4 Core Control ID (All Baselines)": "AC-2 (12)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "7",
+    "Rev. 4 Core Control ID (All Baselines)": "AC-6 (9)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "8",
+    "Rev. 4 Core Control ID (All Baselines)": "AC-7",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "9",
+    "Rev. 4 Core Control ID (All Baselines)": "AC-11",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "10",
+    "Rev. 4 Core Control ID (All Baselines)": "AC-12",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "11",
+    "Rev. 4 Core Control ID (All Baselines)": "AC-17 (9)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "12",
+    "Rev. 4 Core Control ID (All Baselines)": "AC-18",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "13",
+    "Rev. 4 Core Control ID (All Baselines)": "AC-19",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "14",
+    "Rev. 4 Core Control ID (All Baselines)": "AC-19 (5)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "15",
+    "Rev. 4 Core Control ID (All Baselines)": "AC-22",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "16",
+    "Rev. 4 Core Control ID (All Baselines)": "AT-1",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "17",
+    "Rev. 4 Core Control ID (All Baselines)": "AT-2",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "18",
+    "Rev. 4 Core Control ID (All Baselines)": "AT-3",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "19",
+    "Rev. 4 Core Control ID (All Baselines)": "AT-4",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "20",
+    "Rev. 4 Core Control ID (All Baselines)": "AU-1",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "21",
+    "Rev. 4 Core Control ID (All Baselines)": "AU-2",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "22",
+    "Rev. 4 Core Control ID (All Baselines)": "AU-2 (3)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "23",
+    "Rev. 4 Core Control ID (All Baselines)": "AU-6",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "24",
+    "Rev. 4 Core Control ID (All Baselines)": "AU-8 (1)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "25",
+    "Rev. 4 Core Control ID (All Baselines)": "AU-9 (2)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "26",
+    "Rev. 4 Core Control ID (All Baselines)": "AU-11",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "27",
+    "Rev. 4 Core Control ID (All Baselines)": "CA-1",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "28",
+    "Rev. 4 Core Control ID (All Baselines)": "CA-2",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "29",
+    "Rev. 4 Core Control ID (All Baselines)": "CA-2 (2)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "30",
+    "Rev. 4 Core Control ID (All Baselines)": "CA-3",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "31",
+    "Rev. 4 Core Control ID (All Baselines)": "CA-3 (5)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "32",
+    "Rev. 4 Core Control ID (All Baselines)": "CA-5",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "33",
+    "Rev. 4 Core Control ID (All Baselines)": "CA-7",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "34",
+    "Rev. 4 Core Control ID (All Baselines)": "CA-8",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "35",
+    "Rev. 4 Core Control ID (All Baselines)": "CA-9",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "36",
+    "Rev. 4 Core Control ID (All Baselines)": "CM-1",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "37",
+    "Rev. 4 Core Control ID (All Baselines)": "CM-2 (1)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "38",
+    "Rev. 4 Core Control ID (All Baselines)": "CM-3",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "39",
+    "Rev. 4 Core Control ID (All Baselines)": "CM-5 (5)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "40",
+    "Rev. 4 Core Control ID (All Baselines)": "CM-6",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "41",
+    "Rev. 4 Core Control ID (All Baselines)": "CM-7 (1)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "42",
+    "Rev. 4 Core Control ID (All Baselines)": "CM-7 (5)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "43",
+    "Rev. 4 Core Control ID (All Baselines)": "CM-8",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "44",
+    "Rev. 4 Core Control ID (All Baselines)": "CM-8(3)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "45",
+    "Rev. 4 Core Control ID (All Baselines)": "CM-9",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "46",
+    "Rev. 4 Core Control ID (All Baselines)": "CP-1",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "47",
+    "Rev. 4 Core Control ID (All Baselines)": "CP-2",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "48",
+    "Rev. 4 Core Control ID (All Baselines)": "CP-3",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "49",
+    "Rev. 4 Core Control ID (All Baselines)": "CP-4",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "50",
+    "Rev. 4 Core Control ID (All Baselines)": "CP-9 (1)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "51",
+    "Rev. 4 Core Control ID (All Baselines)": "IA-1",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "52",
+    "Rev. 4 Core Control ID (All Baselines)": "IA-4",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "53",
+    "Rev. 4 Core Control ID (All Baselines)": "IA-5",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "54",
+    "Rev. 4 Core Control ID (All Baselines)": "IA-5 (1)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "55",
+    "Rev. 4 Core Control ID (All Baselines)": "IR-1",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "56",
+    "Rev. 4 Core Control ID (All Baselines)": "IR-2",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "57",
+    "Rev. 4 Core Control ID (All Baselines)": "IR-3",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "58",
+    "Rev. 4 Core Control ID (All Baselines)": "IR-6",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "59",
+    "Rev. 4 Core Control ID (All Baselines)": "IR-8",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "60",
+    "Rev. 4 Core Control ID (All Baselines)": "IR-9 (2)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "61",
+    "Rev. 4 Core Control ID (All Baselines)": "MA-1",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "61",
+    "Rev. 4 Core Control ID (All Baselines)": "MA-4",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "63",
+    "Rev. 4 Core Control ID (All Baselines)": "MP-1",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "64",
+    "Rev. 4 Core Control ID (All Baselines)": "MP-6 (2)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "65",
+    "Rev. 4 Core Control ID (All Baselines)": "PE-1",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "66",
+    "Rev. 4 Core Control ID (All Baselines)": "PE-2",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "67",
+    "Rev. 4 Core Control ID (All Baselines)": "PE-3",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "68",
+    "Rev. 4 Core Control ID (All Baselines)": "PE-6",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "69",
+    "Rev. 4 Core Control ID (All Baselines)": "PE-8",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "70",
+    "Rev. 4 Core Control ID (All Baselines)": "PL-1",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "71",
+    "Rev. 4 Core Control ID (All Baselines)": "PL-2",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "72",
+    "Rev. 4 Core Control ID (All Baselines)": "PL-8",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "73",
+    "Rev. 4 Core Control ID (All Baselines)": "PS-1",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "74",
+    "Rev. 4 Core Control ID (All Baselines)": "PS_3",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "75",
+    "Rev. 4 Core Control ID (All Baselines)": "PS-4",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "76",
+    "Rev. 4 Core Control ID (All Baselines)": "PS-5",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "77",
+    "Rev. 4 Core Control ID (All Baselines)": "PS-6",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "78",
+    "Rev. 4 Core Control ID (All Baselines)": "PS-7",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "79",
+    "Rev. 4 Core Control ID (All Baselines)": "RA-1",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "80",
+    "Rev. 4 Core Control ID (All Baselines)": "RA-5",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "81",
+    "Rev. 4 Core Control ID (All Baselines)": "RA-5 (2)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "82",
+    "Rev. 4 Core Control ID (All Baselines)": "RA-5(5)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "83",
+    "Rev. 4 Core Control ID (All Baselines)": "SA-1",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "84",
+    "Rev. 4 Core Control ID (All Baselines)": "SC-1",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "85",
+    "Rev. 4 Core Control ID (All Baselines)": "SC-7 (4)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "86",
+    "Rev. 4 Core Control ID (All Baselines)": "SC-13",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "87",
+    "Rev. 4 Core Control ID (All Baselines)": "SI-1",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "88",
+    "Rev. 4 Core Control ID (All Baselines)": "SI-2",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "89",
+    "Rev. 4 Core Control ID (All Baselines)": "SI-2 (2)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "90",
+    "Rev. 4 Core Control ID (All Baselines)": "SI-3",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "91",
+    "Rev. 4 Core Control ID (All Baselines)": "SI-4",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "92",
+    "Rev. 4 Core Control ID (All Baselines)": "SI-4 (4)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "93",
+    "Rev. 4 Core Control ID (All Baselines)": "SI-4 (14)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "94",
+    "Rev. 4 Core Control ID (All Baselines)": "SI-6",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "95",
+    "Rev. 4 Core Control ID (All Baselines)": "SI-7 (1)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "96",
+    "Rev. 4 Core Control ID (All Baselines)": "SI-8 (1)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "97",
+    "Rev. 4 Core Control ID (All Baselines)": "SI-8 (2)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "Totals",
+    "Rev. 4 Core Control ID (All Baselines)": "97",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev4 Core"
+  },
+  {
+    "Item\nNo.": "1",
+    "Rev. 5 High Core Control ID": "AC-2",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "2",
+    "Rev. 5 High Core Control ID": "AC-2 (1)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "3",
+    "Rev. 5 High Core Control ID": "AC-2 (2)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "4",
+    "Rev. 5 High Core Control ID": "AC-2 (3)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "5",
+    "Rev. 5 High Core Control ID": "AC-2 (4)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "6",
+    "Rev. 5 High Core Control ID": "AC-2 (5)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "7",
+    "Rev. 5 High Core Control ID": "AC-2 (7)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "8",
+    "Rev. 5 High Core Control ID": "AC-2 (9)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "9",
+    "Rev. 5 High Core Control ID": "AC-2 (11)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "10",
+    "Rev. 5 High Core Control ID": "AC-2 (12)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "11",
+    "Rev. 5 High Core Control ID": "AC-2 (13)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "12",
+    "Rev. 5 High Core Control ID": "AC-3",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "13",
+    "Rev. 5 High Core Control ID": "AC-6",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "14",
+    "Rev. 5 High Core Control ID": "AC-6 (2)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "15",
+    "Rev. 5 High Core Control ID": "AC-6 (3)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "16",
+    "Rev. 5 High Core Control ID": "AC-6 (5)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "17",
+    "Rev. 5 High Core Control ID": "AC-6 (8)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "18",
+    "Rev. 5 High Core Control ID": "AC-6 (10)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "19",
+    "Rev. 5 High Core Control ID": "AC-17 (2)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "20",
+    "Rev. 5 High Core Control ID": "AU-2",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "21",
+    "Rev. 5 High Core Control ID": "AU-3",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "22",
+    "Rev. 5 High Core Control ID": "AU-3 (1)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "23",
+    "Rev. 5 High Core Control ID": "AU-4",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "24",
+    "Rev. 5 High Core Control ID": "AU-5",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "25",
+    "Rev. 5 High Core Control ID": "AU-5 (1)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "26",
+    "Rev. 5 High Core Control ID": "AU-5 (2)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "27",
+    "Rev. 5 High Core Control ID": "AU-6",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "28",
+    "Rev. 5 High Core Control ID": "AU-6 (1)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "29",
+    "Rev. 5 High Core Control ID": "AU-6 (3)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "30",
+    "Rev. 5 High Core Control ID": "AU-6 (4)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "31",
+    "Rev. 5 High Core Control ID": "AU-6 (5)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "32",
+    "Rev. 5 High Core Control ID": "AU-6 (6)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "33",
+    "Rev. 5 High Core Control ID": "AU-6 (7)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "34",
+    "Rev. 5 High Core Control ID": "AU-8",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "35",
+    "Rev. 5 High Core Control ID": "AU-10",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "36",
+    "Rev. 5 High Core Control ID": "AU-11",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "37",
+    "Rev. 5 High Core Control ID": "AU-12",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "38",
+    "Rev. 5 High Core Control ID": "AU-12 (1)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "39",
+    "Rev. 5 High Core Control ID": "AU-12 (3)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "40",
+    "Rev. 5 High Core Control ID": "CA-8 (1)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "41",
+    "Rev. 5 High Core Control ID": "CA-8 (2)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "42",
+    "Rev. 5 High Core Control ID": "CM-5",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "43",
+    "Rev. 5 High Core Control ID": "CM-6",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "44",
+    "Rev. 5 High Core Control ID": "CM-6 (1)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "45",
+    "Rev. 5 High Core Control ID": "CM-6 (2)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "46",
+    "Rev. 5 High Core Control ID": "CM-7",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "47",
+    "Rev. 5 High Core Control ID": "CM-7 (1)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "48",
+    "Rev. 5 High Core Control ID": "CM-7 (2)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "49",
+    "Rev. 5 High Core Control ID": "CM-7 (5)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "50",
+    "Rev. 5 High Core Control ID": "CM-8",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "51",
+    "Rev. 5 High Core Control ID": "CP-4",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "52",
+    "Rev. 5 High Core Control ID": "IA-2",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "53",
+    "Rev. 5 High Core Control ID": "IA-2 (1)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "54",
+    "Rev. 5 High Core Control ID": "IA-2 (2)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "55",
+    "Rev. 5 High Core Control ID": "IA-2 (5)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "56",
+    "Rev. 5 High Core Control ID": "IA-2 (6)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "57",
+    "Rev. 5 High Core Control ID": "IA-2 (8)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "58",
+    "Rev. 5 High Core Control ID": "IA-2 (12)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "59",
+    "Rev. 5 High Core Control ID": "IA-4",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "60",
+    "Rev. 5 High Core Control ID": "IA-5",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "61",
+    "Rev. 5 High Core Control ID": "IR-3",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "62",
+    "Rev. 5 High Core Control ID": "IR-4",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "63",
+    "Rev. 5 High Core Control ID": "IR-4 (1)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "64",
+    "Rev. 5 High Core Control ID": "IR-4 (2)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "65",
+    "Rev. 5 High Core Control ID": "IR-4 (4)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "66",
+    "Rev. 5 High Core Control ID": "IR-4 (6)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "67",
+    "Rev. 5 High Core Control ID": "MA-3 (2)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "68",
+    "Rev. 5 High Core Control ID": "PE-3",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "69",
+    "Rev. 5 High Core Control ID": "RA-5",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "70",
+    "Rev. 5 High Core Control ID": "RA-5 (2)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "71",
+    "Rev. 5 High Core Control ID": "RA-5 (3)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "72",
+    "Rev. 5 High Core Control ID": "SA-9",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "73",
+    "Rev. 5 High Core Control ID": "SA-11 (1)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "74",
+    "Rev. 5 High Core Control ID": "SC-7",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "75",
+    "Rev. 5 High Core Control ID": "SC-7 (3)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "76",
+    "Rev. 5 High Core Control ID": "SC-7 (4)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "77",
+    "Rev. 5 High Core Control ID": "SC-7 (5)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "78",
+    "Rev. 5 High Core Control ID": "SC-7 (7)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "79",
+    "Rev. 5 High Core Control ID": "SC-7 (8)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "80",
+    "Rev. 5 High Core Control ID": "SC-7 (12)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "81",
+    "Rev. 5 High Core Control ID": "SC-7 (18)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "82",
+    "Rev. 5 High Core Control ID": "SC-7 (20)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "83",
+    "Rev. 5 High Core Control ID": "SC-7 (21)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "84",
+    "Rev. 5 High Core Control ID": "SC-8",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "85",
+    "Rev. 5 High Core Control ID": "SC-12",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "86",
+    "Rev. 5 High Core Control ID": "SC-13",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "87",
+    "Rev. 5 High Core Control ID": "SC-21",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "88",
+    "Rev. 5 High Core Control ID": "SC-28",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "89",
+    "Rev. 5 High Core Control ID": "SC-45 (1)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "90",
+    "Rev. 5 High Core Control ID": "SI-3",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "91",
+    "Rev. 5 High Core Control ID": "SI-4 (1)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "92",
+    "Rev. 5 High Core Control ID": "SI-4 (2)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "93",
+    "Rev. 5 High Core Control ID": "SI-4 (10)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "94",
+    "Rev. 5 High Core Control ID": "SI-4 (16)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "95",
+    "Rev. 5 High Core Control ID": "SI-4 (19)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "96",
+    "Rev. 5 High Core Control ID": "SI-4 (20)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "97",
+    "Rev. 5 High Core Control ID": "SI-4 (23)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "98",
+    "Rev. 5 High Core Control ID": "SI-6",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "99",
+    "Rev. 5 High Core Control ID": "SI-7",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "100",
+    "Rev. 5 High Core Control ID": "SI-7 (1)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "101",
+    "Rev. 5 High Core Control ID": "SI-10",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "Total",
+    "Rev. 5 High Core Control ID": "101",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 High Core"
+  },
+  {
+    "Item\nNo.": "1",
+    "Rev. 5 LI-SaaS Core Control ID": "AC-2",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 LI-SaaS Core"
+  },
+  {
+    "Item\nNo.": "2",
+    "Rev. 5 LI-SaaS Core Control ID": "AC-3",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 LI-SaaS Core"
+  },
+  {
+    "Item\nNo.": "3",
+    "Rev. 5 LI-SaaS Core Control ID": "AU-3",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 LI-SaaS Core"
+  },
+  {
+    "Item\nNo.": "4",
+    "Rev. 5 LI-SaaS Core Control ID": "AU-5",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 LI-SaaS Core"
+  },
+  {
+    "Item\nNo.": "5",
+    "Rev. 5 LI-SaaS Core Control ID": "AU-6",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 LI-SaaS Core"
+  },
+  {
+    "Item\nNo.": "6",
+    "Rev. 5 LI-SaaS Core Control ID": "CA-8",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 LI-SaaS Core"
+  },
+  {
+    "Item\nNo.": "7",
+    "Rev. 5 LI-SaaS Core Control ID": "CM-5",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 LI-SaaS Core"
+  },
+  {
+    "Item\nNo.": "8",
+    "Rev. 5 LI-SaaS Core Control ID": "CM-6",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 LI-SaaS Core"
+  },
+  {
+    "Item\nNo.": "9",
+    "Rev. 5 LI-SaaS Core Control ID": "CM-8",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 LI-SaaS Core"
+  },
+  {
+    "Item\nNo.": "10",
+    "Rev. 5 LI-SaaS Core Control ID": "IA-2 (1)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 LI-SaaS Core"
+  },
+  {
+    "Item\nNo.": "11",
+    "Rev. 5 LI-SaaS Core Control ID": "IA-2 (2)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 LI-SaaS Core"
+  },
+  {
+    "Item\nNo.": "12",
+    "Rev. 5 LI-SaaS Core Control ID": "IA-2 (8)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 LI-SaaS Core"
+  },
+  {
+    "Item\nNo.": "13",
+    "Rev. 5 LI-SaaS Core Control ID": "IA-2 (12)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 LI-SaaS Core"
+  },
+  {
+    "Item\nNo.": "14",
+    "Rev. 5 LI-SaaS Core Control ID": "IR-4",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 LI-SaaS Core"
+  },
+  {
+    "Item\nNo.": "15",
+    "Rev. 5 LI-SaaS Core Control ID": "PE-3",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 LI-SaaS Core"
+  },
+  {
+    "Item\nNo.": "16",
+    "Rev. 5 LI-SaaS Core Control ID": "RA-5",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 LI-SaaS Core"
+  },
+  {
+    "Item\nNo.": "17",
+    "Rev. 5 LI-SaaS Core Control ID": "RA-5 (2)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 LI-SaaS Core"
+  },
+  {
+    "Item\nNo.": "18",
+    "Rev. 5 LI-SaaS Core Control ID": "SA-9",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 LI-SaaS Core"
+  },
+  {
+    "Item\nNo.": "19",
+    "Rev. 5 LI-SaaS Core Control ID": "SC-7",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 LI-SaaS Core"
+  },
+  {
+    "Item\nNo.": "20",
+    "Rev. 5 LI-SaaS Core Control ID": "SC-8",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 LI-SaaS Core"
+  },
+  {
+    "Item\nNo.": "21",
+    "Rev. 5 LI-SaaS Core Control ID": "SC-12",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 LI-SaaS Core"
+  },
+  {
+    "Item\nNo.": "22",
+    "Rev. 5 LI-SaaS Core Control ID": "SC-13",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 LI-SaaS Core"
+  },
+  {
+    "Item\nNo.": "23",
+    "Rev. 5 LI-SaaS Core Control ID": "SC-28",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 LI-SaaS Core"
+  },
+  {
+    "Item\nNo.": "24",
+    "Rev. 5 LI-SaaS Core Control ID": "SI-3",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 LI-SaaS Core"
+  },
+  {
+    "Item\nNo.": "Total",
+    "Rev. 5 LI-SaaS Core Control ID": "24",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 LI-SaaS Core"
+  },
+  {
+    "Item\nNo.": "1",
+    "Rev. 5 Low Core Control ID": "AC-2",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Low Core"
+  },
+  {
+    "Item\nNo.": "2",
+    "Rev. 5 Low Core Control ID": "AC-3",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Low Core"
+  },
+  {
+    "Item\nNo.": "3",
+    "Rev. 5 Low Core Control ID": "AU-2",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Low Core"
+  },
+  {
+    "Item\nNo.": "4",
+    "Rev. 5 Low Core Control ID": "AU-3",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Low Core"
+  },
+  {
+    "Item\nNo.": "5",
+    "Rev. 5 Low Core Control ID": "AU-4",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Low Core"
+  },
+  {
+    "Item\nNo.": "6",
+    "Rev. 5 Low Core Control ID": "AU-5",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Low Core"
+  },
+  {
+    "Item\nNo.": "7",
+    "Rev. 5 Low Core Control ID": "AU-6",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Low Core"
+  },
+  {
+    "Item\nNo.": "8",
+    "Rev. 5 Low Core Control ID": "AU-8",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Low Core"
+  },
+  {
+    "Item\nNo.": "9",
+    "Rev. 5 Low Core Control ID": "AU-11",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Low Core"
+  },
+  {
+    "Item\nNo.": "10",
+    "Rev. 5 Low Core Control ID": "AU-12",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Low Core"
+  },
+  {
+    "Item\nNo.": "11",
+    "Rev. 5 Low Core Control ID": "CA-08",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Low Core"
+  },
+  {
+    "Item\nNo.": "12",
+    "Rev. 5 Low Core Control ID": "CM-5",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Low Core"
+  },
+  {
+    "Item\nNo.": "13",
+    "Rev. 5 Low Core Control ID": "CM-6",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Low Core"
+  },
+  {
+    "Item\nNo.": "14",
+    "Rev. 5 Low Core Control ID": "CM-7",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Low Core"
+  },
+  {
+    "Item\nNo.": "15",
+    "Rev. 5 Low Core Control ID": "CM-8",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Low Core"
+  },
+  {
+    "Item\nNo.": "16",
+    "Rev. 5 Low Core Control ID": "CP-4",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Low Core"
+  },
+  {
+    "Item\nNo.": "17",
+    "Rev. 5 Low Core Control ID": "IA-2",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Low Core"
+  },
+  {
+    "Item\nNo.": "18",
+    "Rev. 5 Low Core Control ID": "IA-2 (1)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Low Core"
+  },
+  {
+    "Item\nNo.": "19",
+    "Rev. 5 Low Core Control ID": "IA-2 (2)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Low Core"
+  },
+  {
+    "Item\nNo.": "20",
+    "Rev. 5 Low Core Control ID": "IA-2 (8)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Low Core"
+  },
+  {
+    "Item\nNo.": "21",
+    "Rev. 5 Low Core Control ID": "IA-2 (12)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Low Core"
+  },
+  {
+    "Item\nNo.": "22",
+    "Rev. 5 Low Core Control ID": "IA-4",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Low Core"
+  },
+  {
+    "Item\nNo.": "23",
+    "Rev. 5 Low Core Control ID": "IA-5",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Low Core"
+  },
+  {
+    "Item\nNo.": "24",
+    "Rev. 5 Low Core Control ID": "IR-4",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Low Core"
+  },
+  {
+    "Item\nNo.": "25",
+    "Rev. 5 Low Core Control ID": "PE-3",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Low Core"
+  },
+  {
+    "Item\nNo.": "26",
+    "Rev. 5 Low Core Control ID": "RA-5",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Low Core"
+  },
+  {
+    "Item\nNo.": "27",
+    "Rev. 5 Low Core Control ID": "RA-5 (2)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Low Core"
+  },
+  {
+    "Item\nNo.": "28",
+    "Rev. 5 Low Core Control ID": "SA-9",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Low Core"
+  },
+  {
+    "Item\nNo.": "29",
+    "Rev. 5 Low Core Control ID": "SC-7",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Low Core"
+  },
+  {
+    "Item\nNo.": "30",
+    "Rev. 5 Low Core Control ID": "SC-8",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Low Core"
+  },
+  {
+    "Item\nNo.": "31",
+    "Rev. 5 Low Core Control ID": "SC-12",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Low Core"
+  },
+  {
+    "Item\nNo.": "32",
+    "Rev. 5 Low Core Control ID": "SC-13",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Low Core"
+  },
+  {
+    "Item\nNo.": "33",
+    "Rev. 5 Low Core Control ID": "SC-21",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Low Core"
+  },
+  {
+    "Item\nNo.": "34",
+    "Rev. 5 Low Core Control ID": "SC-28",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Low Core"
+  },
+  {
+    "Item\nNo.": "35",
+    "Rev. 5 Low Core Control ID": "SI-3",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Low Core"
+  },
+  {
+    "Item\nNo.": "Total",
+    "Rev. 5 Low Core Control ID": "35",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Low Core"
+  },
+  {
+    "Item\nNo.": "1",
+    "Rev. 5 Moderate Core Control ID": "AC-2",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "2",
+    "Rev. 5 Moderate Core Control ID": "AC-2 (1)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "3",
+    "Rev. 5 Moderate Core Control ID": "AC-2 (2)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "4",
+    "Rev. 5 Moderate Core Control ID": "AC-2 (3)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "5",
+    "Rev. 5 Moderate Core Control ID": "AC-2 (4)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "6",
+    "Rev. 5 Moderate Core Control ID": "AC-2 (5)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "7",
+    "Rev. 5 Moderate Core Control ID": "AC-2 (7)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "8",
+    "Rev. 5 Moderate Core Control ID": "AC-2 (9)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "9",
+    "Rev. 5 Moderate Core Control ID": "AC-2 (12)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "10",
+    "Rev. 5 Moderate Core Control ID": "AC-2 (13)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "11",
+    "Rev. 5 Moderate Core Control ID": "AC-3",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "12",
+    "Rev. 5 Moderate Core Control ID": "AC-6",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "13",
+    "Rev. 5 Moderate Core Control ID": "AC-6 (2)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "14",
+    "Rev. 5 Moderate Core Control ID": "AC-6 (5)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "15",
+    "Rev. 5 Moderate Core Control ID": "AC-6 (10)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "16",
+    "Rev. 5 Moderate Core Control ID": "AC-17 (2)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "17",
+    "Rev. 5 Moderate Core Control ID": "AU-2",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "18",
+    "Rev. 5 Moderate Core Control ID": "AU-3",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "19",
+    "Rev. 5 Moderate Core Control ID": "AU-3 (1)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "20",
+    "Rev. 5 Moderate Core Control ID": "AU-4",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "21",
+    "Rev. 5 Moderate Core Control ID": "AU-5",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "22",
+    "Rev. 5 Moderate Core Control ID": "AU-6",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "23",
+    "Rev. 5 Moderate Core Control ID": "AU-6 (1)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "24",
+    "Rev. 5 Moderate Core Control ID": "AU-6 (3)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "25",
+    "Rev. 5 Moderate Core Control ID": "AU-8",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "26",
+    "Rev. 5 Moderate Core Control ID": "AU-11",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "27",
+    "Rev. 5 Moderate Core Control ID": "AU-12",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "28",
+    "Rev. 5 Moderate Core Control ID": "CA-8 (1)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "29",
+    "Rev. 5 Moderate Core Control ID": "CA-8 (2)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "30",
+    "Rev. 5 Moderate Core Control ID": "CM-5",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "31",
+    "Rev. 5 Moderate Core Control ID": "CM-6",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "32",
+    "Rev. 5 Moderate Core Control ID": "CM-6 (1)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "33",
+    "Rev. 5 Moderate Core Control ID": "CM-7",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "34",
+    "Rev. 5 Moderate Core Control ID": "CM-7 (1)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "35",
+    "Rev. 5 Moderate Core Control ID": "CM-7 (2)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "36",
+    "Rev. 5 Moderate Core Control ID": "CM-7 (5)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "37",
+    "Rev. 5 Moderate Core Control ID": "CM-8",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "38",
+    "Rev. 5 Moderate Core Control ID": "CP-4",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "39",
+    "Rev. 5 Moderate Core Control ID": "IA-2",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "40",
+    "Rev. 5 Moderate Core Control ID": "IA-2 (1)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "41",
+    "Rev. 5 Moderate Core Control ID": "IA-2 (2)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "42",
+    "Rev. 5 Moderate Core Control ID": "IA-2 (5)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "43",
+    "Rev. 5 Moderate Core Control ID": "IA-2 (6)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "44",
+    "Rev. 5 Moderate Core Control ID": "IA-2 (8)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "45",
+    "Rev. 5 Moderate Core Control ID": "IA-2 (12)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "46",
+    "Rev. 5 Moderate Core Control ID": "IA-4",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "47",
+    "Rev. 5 Moderate Core Control ID": "IA-5",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "48",
+    "Rev. 5 Moderate Core Control ID": "IR-3",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "49",
+    "Rev. 5 Moderate Core Control ID": "IR-4",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "50",
+    "Rev. 5 Moderate Core Control ID": "IR-4 (1)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "51",
+    "Rev. 5 Moderate Core Control ID": "MA-3 (2)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "52",
+    "Rev. 5 Moderate Core Control ID": "PE-3",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "53",
+    "Rev. 5 Moderate Core Control ID": "RA-5",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "54",
+    "Rev. 5 Moderate Core Control ID": "RA-5 (2)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "55",
+    "Rev. 5 Moderate Core Control ID": "RA-5 (3)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "56",
+    "Rev. 5 Moderate Core Control ID": "SA-9",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "57",
+    "Rev. 5 Moderate Core Control ID": "SA-11 (1)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "58",
+    "Rev. 5 Moderate Core Control ID": "SC-7",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "59",
+    "Rev. 5 Moderate Core Control ID": "SC-7 (3)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "60",
+    "Rev. 5 Moderate Core Control ID": "SC-7 (4)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "61",
+    "Rev. 5 Moderate Core Control ID": "SC-7 (5)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "62",
+    "Rev. 5 Moderate Core Control ID": "SC-7 (7)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "63",
+    "Rev. 5 Moderate Core Control ID": "SC-7 (8)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "64",
+    "Rev. 5 Moderate Core Control ID": "SC-7 (12)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "65",
+    "Rev. 5 Moderate Core Control ID": "SC-7 (18)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "66",
+    "Rev. 5 Moderate Core Control ID": "SC-8",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "67",
+    "Rev. 5 Moderate Core Control ID": "SC-12",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "68",
+    "Rev. 5 Moderate Core Control ID": "SC-13",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "69",
+    "Rev. 5 Moderate Core Control ID": "SC-21",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "70",
+    "Rev. 5 Moderate Core Control ID": "SC-28",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "71",
+    "Rev. 5 Moderate Core Control ID": "SC-45 (1)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "72",
+    "Rev. 5 Moderate Core Control ID": "SI-3",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "73",
+    "Rev. 5 Moderate Core Control ID": "SI-4 (1)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "74",
+    "Rev. 5 Moderate Core Control ID": "SI-4 (2)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "75",
+    "Rev. 5 Moderate Core Control ID": "SI-4 (16)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "76",
+    "Rev. 5 Moderate Core Control ID": "SI-4 (23)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "77",
+    "Rev. 5 Moderate Core Control ID": "SI-6",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "78",
+    "Rev. 5 Moderate Core Control ID": "SI-7",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "79",
+    "Rev. 5 Moderate Core Control ID": "SI-7 (1)",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "80",
+    "Rev. 5 Moderate Core Control ID": "SI-10",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  },
+  {
+    "Item\nNo.": "Total",
+    "Rev. 5 Moderate Core Control ID": "80",
+    "_sheet": "CSP_Annual_Assessment_Controls_Selection_Worksheet-Rev5 Moderate Core"
+  }
+]

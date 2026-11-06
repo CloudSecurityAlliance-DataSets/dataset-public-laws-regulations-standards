@@ -1,0 +1,234 @@
+[
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "AI Exchange: the world's AI security guide",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "**300+ pages** of free, constantly-evolving, practical guidance on securing AI\nsystems. It covers the fundamentals and represents the closest publicly\navailable alignment of global expert consensus, feeding directly into the AI\nAct and ISO standards through a unique SDO partnership.\n\nThe OWASP AI Exchange is a global think tank and open-source initiative that\nbrings together experts in AI and cybersecurity. Its mission is to bring\nclarity in AI security by connecting practitioners, researchers, industry, and\npolicymakers.\n\n_Technology with global impact requires global action._\n\n[Get started](/docs/ai_security_overview/#how-to-use-this-document) [Ask\nquestion (Google\nlogin)](https://notebooklm.google.com/notebook/75840a00-78f8-454d-ad4d-9ac27ae4cf48)"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Discover, Connect, and Contribute",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "![About](/images/user.png)"
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "About",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "OWASP AI Exchange is the open-source platform driving global AI security\nstandards...\n\n[Learn more >](/go/about/)\n\n![Connect with us](/images/Network-Users--Streamline-Ultimate.png)"
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "Connect with us",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Connect with us through various platforms...\n\n[Learn more >](/connect)\n\n![Contribute](/images/Multiple-Neutral-2--Streamline-Ultimate.svg.png)"
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "Contribute",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Help shape the future of AI security by contributing to our resources and\nstandards.\n\n[Learn more >](/contribute)\n\n![Sponsor](/images/Group%201597883587.png)"
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "Sponsor",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Support our mission and gain visibility in the AI security community.\n\n[Learn more >](/sponsor)\n\n![Media](/images/Group%201597883588.png)"
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "Media",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Watch conference talks, webinars, and educational content from our experts.\n\n[Learn more >](/media)\n\n![Periodic table](/images/periodic_table_icon.png)"
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "Periodic table",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Explore our comprehensive periodic table of AI threats and controls.\n\n[Learn more >](/go/periodictable/)\n\nYour Guide to What's Inside"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Content Overview",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "![AI Security Overview](/images/r1.png) 00"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "AI Security Overview",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "This section provides an overview of AI security — including threats,\ncontrols, and risk analysis to help understand the structure of the AI\nExchange.\n\n[› About the AI Exchange](/go/about/) [› How to organize](/go/organize/) [›\nHow to Use This Document](/go/document/) [› Essentials](/go/essentials/) [›\nThreats](/go/threatsoverview/) [› Controls](/go/controlsoverview/) [› Risk\nAnalysis](/go/riskanalysis/) [› How About...](/docs/ai_security_overview/#how-\nabout-)\n\n[Learn more](/docs/ai_security_overview/)\n\n![General controls](/images/r2.png) 01"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "General controls",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "These are the controls every organisation should have in place...\n\n[› Governance controls](/go/governancecontrols/) [› Data\nLimitation](/go/datalimit/) [› Limit unwanted behaviour](/go/limitunwanted/)\n\n[Learn more](/docs/1_general_controls/)\n\n![Input threats and controls](/images/r3.png) 02"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Input threats and controls",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Attacks by crafting inputs to AI, and their countermeasures...\n\n[› Evasion](/go/evasion/) [› Prompt injection](/go/promptinjection/) [›\nSensitive data disclosure](/go/disclosureuse/) [› Model\nexfiltration](/go/modelexfiltration/) [›\nExhaustion](/go/airesourceexhaustion/) [› Culture-\nsensitivity](/go/culturesensitivealignment/)\n\n[Learn more](/docs/2_threats_through_use/)\n\n![Development-time threats and controls](/images/r4.png) 03"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Development-time threats and controls",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Attacks to the development environment and supply chain of AI systems, and\nwhat you can do about it...\n\n[› Introduction](/go/developmenttime/) [› Model poisoning](/go/modelpoison/)\n[› Dev. data leak](/go/devdataleak/)\n\n[Learn more](/docs/3_development_time_threats/)\n\n![Runtime conventional security threats](/images/r5.png) 04"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Runtime conventional security threats",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Attacks to the AI system in operation apart from the input attacks, and\nprotective controls...\n\n[› Non AI-specific threats](/go/genericsecthreats/) [› Runtime model\npoisoning](/go/runtimemodelpoison/) [› Direct runtime model\nleak](/go/runtimemodelleak/) [› Output\ninjection](/go/outputcontainsconventionalinjection/) [› Input data\nleak](/go/inputdataleak/) [› Augmentation data\nleak](/go/augmentationdataleak/) [› Augmentation data\nmanipulation](/go/augmentationdatamanipulation/)\n\n[Learn more](/docs/4_runtime_application_security_threats/)\n\n![AI Security Testing](/images/r6.png) 05"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "AI Security Testing",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI security tests simulate adversarial behaviours to uncover vulnerabilities,\nweaknesses and risks in AI systems...\n\n[› Introduction](/docs/5_testing/#introduction) [› Tools for generative\nAI](/docs/5_testing/#red-teaming-tools-for-ai-and-genai) [› Threats to\ntest](/docs/5_testing/#threats-to-test-for) [› Using\ntools](/docs/5_testing/#open-source-tools-for-predictive-ai-red-teaming) [›\nTools for predictive AI](/docs/5_testing/#open-source-tools-for-predictive-ai-\nred-teaming)\n\n[Learn more](/docs/5_testing/)\n\n![AI Privacy](/images/r7.png) 06"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "AI Privacy",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Apart from protecting personal data, AI systems have several responsibilities\nwhen it comes to privacy...\n\n[› Use Limitation](/docs/6_privacy/#1-use-limitation-and-purpose-\nspecification) [› Fairness](/docs/6_privacy/#2-fairness) [› Data\nminimization](/docs/6_privacy/#3-data-minimization-and-storage-limitation) [›\nPrivacy Rights](/docs/6_privacy/#5-privacy-rights) [› Data\naccuracy](/docs/6_privacy/#6-data-accuracy) [›\nConsent](/docs/6_privacy/#7-consent) [› Model\nattacks](/docs/6_privacy/#8-model-attacks) [›\nTransparency](/docs/6_privacy/#4-transparency)\n\n[Learn more](/docs/6_privacy/)\n\n![References](/images/r8.png) 07"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "References",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "References on specific topics can be found throughout the AI Exchange content.\nThis section contains an overview...\n\n[› Overview of AI Security](/docs/ai_security_references/#overviews-of-ai-\nsecurity-threats) [› Overview of AI Security / Privacy\nIncidents](/docs/ai_security_references/#overviews-of-ai-securityprivacy-\nincidents) [› Misc.](/docs/ai_security_references/#misc) [› Learning and\nTraining](/docs/ai_security_references/#learning-and-training)\n[](/docs/ai_security_index/)[› Index of the\nExchange](/docs/ai_security_index/)\n\n[Learn more](/docs/ai_security_references/)\n\n**Ongoing collaboration and alignment with:**\n\n[![SANS\nInstitute](/images/collaborators/sans_logo.svg)](https://www.sans.org/)\n\n[![Cloud Security Alliance](/images/collaborators/CSA-\nlogo.svg)](https://cloudsecurityalliance.org/)\n\n[![ISO/IEC](/images/collaborators/iso-logo.svg)](https://www.iso.org/)\n\n[![CEN/CENELEC](/images/collaborators/logo-cen-\ncenelec.svg)](https://www.cencenelec.eu/)\n\n[![GenAI security\nproject](/images/collaborators/GenAISecurityProject.webp)](https://genai.owasp.org/)\n\n[![NIST](/images/collaborators/NIST_logo.svg)](https://www.nist.gov/)\n\n[![MITRE](/images/collaborators/MITRE_logo.svg)](https://www.mitre.org/)\n\n[![ENISA](/images/collaborators/enisa-logo.svg)](https://www.enisa.europa.eu/)\n\n[![CosAI](/images/collaborators/cosAI_logo.webp)](https://www.cosai.in/)\n\n[![Alan Turing\nInstitute](/images/collaborators/TheAlanTurningInstitue_logo.svg)](https://www.turing.ac.uk/)\n\n[![SANS\nInstitute](/images/collaborators/sans_logo.svg)](https://www.sans.org/)\n\n[![Cloud Security Alliance](/images/collaborators/CSA-\nlogo.svg)](https://cloudsecurityalliance.org/)\n\n[![ISO/IEC](/images/collaborators/iso-logo.svg)](https://www.iso.org/)\n\n[![CEN/CENELEC](/images/collaborators/logo-cen-\ncenelec.svg)](https://www.cencenelec.eu/)\n\n[![GenAI security\nproject](/images/collaborators/GenAISecurityProject.webp)](https://genai.owasp.org/)\n\n[![NIST](/images/collaborators/NIST_logo.svg)](https://www.nist.gov/)\n\n[![MITRE](/images/collaborators/MITRE_logo.svg)](https://www.mitre.org/)\n\n[![ENISA](/images/collaborators/enisa-logo.svg)](https://www.enisa.europa.eu/)\n\n[![CosAI](/images/collaborators/cosAI_logo.webp)](https://www.cosai.in/)\n\n[![Alan Turing\nInstitute](/images/collaborators/TheAlanTurningInstitue_logo.svg)](https://www.turing.ac.uk/)\n\nLearn, Connect, and Innovate"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Contribute to the future of AI security",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "[Become A\nContributor](https://docs.google.com/forms/d/e/1FAIpQLSeuXZdg_iNbGwroZLeLsZTeXzmzertHqm5ivY9S5F9RNtqQ0w/viewform)\n\n[![Your go-to resource on AI security: the OWASP AI Exchange in 3 minutes with\nfounder Rob van der Veer](/images/ai-\noverview.png)](https://youtu.be/kQC7ouDB_z8?si=8aH7f6JE4D-anIdD)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "[Your go-to resource on AI security: the OWASP AI Exchange in 3 minutes",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "with founder Rob van der\nVeer](https://youtu.be/kQC7ouDB_z8?si=8aH7f6JE4D-anIdD)\n\n2024-02-20\n\n[![AI security demystified w/ Rob van der Veer](/images/AI-\nsecurity1.png)](https://youtu.be/P3zVhR4O7nY?si=IxZUuTeV4yRoZ6So)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "[AI security demystified w/ Rob van der",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Veer](https://youtu.be/P3zVhR4O7nY?si=IxZUuTeV4yRoZ6So)\n\n2025-05-14\n\n[![Optimizing AI w/ Rob van der Veer](/images/AI-\nsecurity2.png)](https://www.youtube.com/watch?v=HbtIccHgrNA)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "[Optimizing AI w/ Rob van der",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Veer](https://www.youtube.com/watch?v=HbtIccHgrNA)\n\n2025-04-23\n\n[View All Media](/media)\n\n![Sponsor Graphic](/images/sponserbg.webp)"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Support the Future of AI Security",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Get involved: aruneesh.salhotra@owasp.org\n\n[Sponsor Now](mailto:aruneesh.salhotra@owasp.org)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Our Sponsors",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "[![Straiker](/images/straikerlogo.png)\n](https://www.straiker.ai/)[![Casco](/images/cascologo.png)\n](https://casco.com/)[![AI Security Academy](/images/ais-\nlogo.png)](https://www.aisecurityacademy.ai/)"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Sponsorship benefits include",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "__"
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "Visibility",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Showcase your organization’s commitment to AI security within a network of\nindustry leaders and experts.\n\n__"
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "Collaboration",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Participate in the development of global AI security guidelines, standards,\nand regulations.\n\n__"
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "Thought Leadership",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Contribute to key insights on AI threats, risks, and controls, positioning\nyour organization as a leader in AI security."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "We are always happy to assist you!",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "[__](https://github.com/OWASP/www-project-ai-security-and-privacy-\nguide/discussions)[![Slack](/images/slack.png)\n](https://owasp.slack.com/join/shared_invite/zt-3iwx0wk01-vLwSQy1NfkD0Cv5UJeMbwQ#/shared-\ninvite/email)[__](https://www.linkedin.com/company/owasp-ai-\nexchange/)[__](https://www.youtube.com/playlist?list=PLCZNSZ1gyRoD5droM_qyXYyBofj00x_zO)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Send us a message",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Have questions about AI security? Want to contribute to our mission? We'd love\nto hear from you. Reach out through any of our channels or use the contact\nform.\n\nSubmit → ⏳\n\nSubmit → ⏳\n\n[![AI Exchange](/images/Owasp-AI-Exchange-Logo.png)](/)\n\nAdvancing AI security through community collaboration and open-source\nresources.\n\n  * [Home](/)\n  * [Overview](/docs/ai_security_overview/)\n  * [Media](/media/)\n  * [Sponsor](/sponsor/)\n  * [Contribute](/contribute/)\n  * [Connect](/connect/)\n\n[ __](https://github.com/OWASP/www-project-ai-security-and-privacy-\nguide)[__](https://owasp.slack.com/join/shared_invite/zt-3iwx0wk01-vLwSQy1NfkD0Cv5UJeMbwQ#/shared-\ninvite/email)[__](https://www.linkedin.com/company/owasp-ai-\nexchange/)[__](https://www.youtube.com/playlist?list=PLCZNSZ1gyRoD5droM_qyXYyBofj00x_zO)\n\nCopyright © owasp.org 2026. All Rights Reserved.\n\nDesigned & Developed by:\n\n![Usability Icon](/images/usability.png) [USABILITY\nDESIGNS](https://usabilitydesigns.com/)\n\n[![OWASP AI Exchange](/images/Owasp-AI-Exchange-Logo.png)](/)\n\n  * [Home](/)\n  * [Overview](/docs/ai_security_overview/)\n  * [Media](/media/)\n  * [Sponsor](/sponsor/)\n  * [Contribute](/contribute/)\n  * [Connect](/connect/)\n\n[ __](https://github.com/OWASP/www-project-ai-security-and-privacy-\nguide)[__](https://owasp.slack.com/join/shared_invite/zt-3iwx0wk01-vLwSQy1NfkD0Cv5UJeMbwQ#/shared-\ninvite/email)[__](https://www.linkedin.com/company/owasp-ai-\nexchange/)[__](https://www.youtube.com/playlist?list=PLCZNSZ1gyRoD5droM_qyXYyBofj00x_zO)\n\nCopyright © owasp.org 2026. All Rights Reserved.\n\nPROUDLY DESIGNED AND DEVELOPED BY: ![Usability Icon](/images/usability.png)\n[USABILITY DESIGNS](https://usabilitydesigns.com/)"
+  }
+]

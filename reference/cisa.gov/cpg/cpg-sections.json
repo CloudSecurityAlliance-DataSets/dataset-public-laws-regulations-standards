@@ -1,0 +1,218 @@
+[
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "Cross-Sector Cybersecurity Performance Goals",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "A common set of protections that all critical infrastructure entities - from\nlarge to small - should implement to meaningfully reduce the likelihood and\nimpact of known risks and adversary techniques.\n\nCISA's Cross-Sector Cybersecurity Performance Goals 2.0 (CPGs) are a subset of\ncybersecurity practices, selected through a thorough process of industry,\ngovernment, and expert consultation, aimed at meaningfully reducing risks to\nboth critical infrastructure operations and the American people. These\nvoluntary Cross-Sector CPGs strive to help small- and medium-sized\norganizations kickstart their cybersecurity efforts by prioritizing investment\nin a limited number of essential actions with high-impact security outcomes."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Cross-Sector Cybersecurity Performance Goals 2.0:",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "[View All CPGs](/cybersecurity-performance-goals-2-0-cpg-2-0 \"View All CPGs\")"
+  },
+  {
+    "depth": 5,
+    "section_id": "",
+    "section_name": "The Cross-Sector CPGs are intended to be:",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "* A baseline set of cybersecurity practices broadly applicable across critical infrastructure with known risk-reduction value.\n\n  * A benchmark for critical infrastructure operators to measure and improve their cybersecurity maturity.\n\n  * A combination of recommended practices for information technology and operational technology owners, including a prioritized set of security practices.\n\n  * Unique from other control frameworks as they consider not only the practices that address risk to individual entities, but also the aggregate risk to the nation."
+  },
+  {
+    "depth": 5,
+    "section_id": "",
+    "section_name": "Key Updates to the Cross-Sector Cybersecurity Performance Goals",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "CISA's Cross-Sector CPGs 2.0 have been updated to align to the [ _National\nInstitute of Standards and Technology (NIST) Cybersecurity Framework (CSF)\n2.0_](https://www.nist.gov/cyberframework) functions and the evolving\ncybersecurity threat landscape. The updated Cross-Sector CPGs 2.0 build upon\nthe foundation established in version 1.0.1.\n\n  * **Enhanced Alignment with NIST CSF 2.0** : The CPGs have been updated to reflect the latest cybersecurity best practices and frameworks with the addition of the GOVERN function. The GOVERN function regroups existing goals and creates new goals integrating leadership accountability, oversight, and risk management, mirroring NIST CSF 2.0’s new emphasis on organizational governance.\n  * **Goal Consolidation - Streamlining & Cross-Sector Alignment**: Operational Technology (OT) & Information Technology (IT) goals from CPG 1.0.1 are addressed holistically through new shared goals. Small- and medium-sized entities can apply one framework across their entire estate, without confusion over domain-specific goals.\n  * **Net-New Goals - Addressing Emerging Gaps & Threats**: New goals have been added to address emerging threats and include areas such as cybersecurity oversight, risks associated with managed service providers (MSPs), principle of least privileges, and incident communication procedures.\n  * **Deletions & Intent Preservation: ** CPGs 2.0 removes three duplicative goals based on real-world usage data and practitioner feedback. The original goals’ outcomes are now embedded in other goals.\n  * **Methodology & Documentation Enhancements: **The CPG 2.0 Report now includes improved Cost, Impact, and Ease of Implementation ratings for each goal. The definitions and logic for each rating are also included in the CPGs 2.0 Report to aid assessors in conducting CPG assessments with a greater degree of repeatable analytic consistency.\n  * **New CSET Assessment Module:** A new CSET module will be available in Q1 2026 for CPG 2.0, inclusive of the new set of goals and implementation scales. An accompanying updated CPG 2.0 Checklist will also be available at that time."
+  },
+  {
+    "depth": 5,
+    "section_id": "",
+    "section_name": "Sector Specific Goals",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "CISA is proud to introduce the first sets of Sector-Specific Goals (SSGs) that\nare tailored for organizations in select critical infrastructure sectors.\nDeveloped in partnership with Sector Risk Management Agencies (SRMAs) and\nsector stakeholders, SSGs address unique requirements in select critical\ninfrastructure sectors, and build upon CISA’s [ _Cross-Sector\nCPGs_](https://www.cisa.gov/news-events/alerts/2023/03/21/cisa-releases-\nupdated-cybersecurity-performance-goals)."
+  },
+  {
+    "depth": 5,
+    "section_id": "",
+    "section_name": "Available Now:",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "* Cross-Sector CPGs\n  * Chemical Sector SSGs\n  * Energy Sector (Distribution and Distributed Energy Resources) SSGs\n  * Healthcare SSGs\n  * Information Technology SSGs"
+  },
+  {
+    "depth": 5,
+    "section_id": "",
+    "section_name": "Coming Soon:",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "* Financial Services SSGs (Winter 2025)\n\nScroll down and explore the available SSGs!\n\nFor additional information or questions related to Cross-Sector CPGs and/or\nSSGs, please email [CybersecurityPerformanceGoals@cisa.dhs.gov(link sends\nemail)](mailto:CybersecurityPerformanceGoals@cisa.dhs.gov\n\"mailto:cybersecurityperformancegoals@cisa.dhs.gov\")."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Browse Featured CPG Content",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "![Abstract cyber background with a pcb overlayed with a lock\nicon](/sites/default/files/styles/16x9_small/public/2024-06/Skilling-\nHero.jpg?h=afa2e4b8&itok=06_e3ygE)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "[ Cybersecurity Performance Goals 2.0 Report",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "](https://www.cisa.gov/resources-tools/resources/cpg-report)\n\nBackground on the Cybersecurity Performance Goals 2.0, their formation, the\nmodel, relation to existing standards, and how they should be used is fully\noutlined in the CPG 2.0 Report document.\n\n![](/sites/default/files/styles/16x9_small/public/2023-01/stock_code.jpg?h=c6980913&itok=auz0-DkH)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "[ Cross-Sector Cybersecurity Performance Goals - Slick Sheet",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "](https://www.cisa.gov/resources-tools/resources/cross-sector-cybersecurity-\nperformance-goals-slick-sheet)\n\nThis factsheet provides an overview of the Cybersecurity Performance Goals.\n\n![Data Center With Rows of Rack Servers Connected with LAN Connection\nVisualization\nLines.](/sites/default/files/styles/16x9_small/public/2024-07/JCDC-\nIvanti_SS_stock_image.jpg?h=abce51c1&itok=pwVbxU7C)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "[ Cybersecurity Performance Goals: Frequently Asked Questions",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "](https://www.cisa.gov/cross-sector-cybersecurity-performance-\ngoals/frequently-asked-questions)\n\nView frequently asked questions related to CISA's Cybersecurity Performance\nGoals (CPGs) and learn about the CPGs' relationship to the NIST Cybersecurity\nFramework (CSF)."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Browse Featured SSG Content",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "![JCDC Artificial Intelligence Cyber Tabletop\nExercise](/sites/default/files/styles/16x9_small/public/2024-06/Factsheet_bg.png?h=47313171&itok=8v-sNijM)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "[ National Association of Regulatory Utility Commissioners and the U.S.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Department of Energy Cybersecurity Baselines for Energy (link is\nexternal)](https://www.naruc.org/core-sectors/critical-infrastructure-and-\ncybersecurity/cybersecurity-for-utility-regulators/cybersecurity-baselines/)\n\nIn February 2024, the National Association of Regulatory Utility Commissioners\nand the U.S. Department of Energy co-developed a set of cybersecurity\nbaselines for electric distribution systems and distributed energy resources\nthat connect them.\n\n![A photo of a water\nsystem](/sites/default/files/styles/16x9_small/public/2023-09/23-xxxx%20WEB%20-%20HERO%20Water%20Toolkit-\nOption-04.png?h=e0d9a4bb&itok=BDxLGkcg)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "[ EPA Guidance on Improving Cybersecurity at Drinking Water and",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Wastewater Systems ](https://www.cisa.gov/resources-tools/resources/epa-\nguidance-improving-cybersecurity-drinking-water-and-wastewater-systems)\n\nThis document was developed to assist owners and operators of drinking water\nand wastewater systems (WWSs) with assessing gaps in their current\ncybersecurity practices and controls and identifying actions that may reduce\ntheir risk from cyberattacks.\n\n![Chemical\nfacility](/sites/default/files/styles/16x9_small/public/2023-01/hero_chemicalfacility.jpg?h=e0d9a4bb&itok=pmUhckCg)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "[ Chemical Sector-Specific Goals ](https://www.cisa.gov/resources-",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "tools/resources/chemical-sector-specific-goals-ssgs)\n\nChemical SSGs are voluntary practices with high-impact security actions that\ngo beyond Cross-Sector CPGs and are measures where Chemical Sector businesses\ncan take to protect themselves against cyber threats.\n\n![Graphic for Healthcare\nCPGs](/sites/default/files/styles/16x9_small/public/2024-03/24-0536-CPG-HPH-\nTeaser-700x394px.jpg?h=abce51c1&itok=cSFiKisz)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "[ U.S. Department of Health and Human Services Health and Public Health",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Cybersecurity Performance Goals ](https://hphcyber.hhs.gov/performance-\ngoals.html)\n\nOn January 25, the U.S. Department of Health and Human Services published\nvoluntary healthcare specific Cybersecurity Performance Goals to help\nhealthcare organizations prioritize implementation of high-impact\ncybersecurity practices.\n\n![Magenta and blue circuit board with central chip as the\nfocus](/sites/default/files/styles/16x9_small/public/2024-12/23_1214_st_fa_leveraging_ai_3d_circuit_board.jpg?h=198a5201&itok=LtTZrFdU)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "[ Information Technology Sector-Specific Goals",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "](https://www.cisa.gov/resources-tools/resources/information-technology-it-\nsector-specific-goals-ssgs)\n\nIT SSGs are voluntary practices with high-impact security actions that go\nbeyond Cross-Sector CPGs and are measures where IT Sector businesses can take\nto protect themselves against cyber threats.\n\n![A landscape view of a large city with cyber map nodes overlayed over the\nsky](/sites/default/files/styles/16x9_small/public/2024-03/SED-ETB-image-\nSector-Mgmt.jpg?h=d1d68a86&itok=dmbmKZ8l)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "[ Cybersecurity Performance Goals: Sector-Specific Goals",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "](https://www.cisa.gov/news-events/news/cybersecurity-performance-goals-\nsector-specific-goals)\n\nNow that the cross-sector CPGs have been published, CISA is working to develop\nSector-Specific Goals (SSGs) for each of the 16 Critical Infrastructure\nsectors.\n\n![Boston's financial district\nbuildings](/sites/default/files/styles/16x9_small/public/2023-01/hero_financialoffices.jpg?h=e0d9a4bb&itok=85J6DHwx)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "[ Financial Sector-Specific Goals ](https://www.cisa.gov/)",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Blogs and Videos",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "![CISA Cybersecurity Performance Goals Document image from Intro to CISA\nCybersecurity Performance Goals\nvideo](/sites/default/files/styles/16x9_small/public/2024-07/Intro%20to%20CISA%20Cybersecurity%20Performance%20Goals.png?h=412ab9ff&itok=nzQGwi3p)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "[ Intro to CISA Cybersecurity Performance Goals (link is",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "external)](https://www.youtube.com/watch?v=W6Cu0xa8kds)\n\nIntro to the Cybersecurity Performance Goals and how they are an easy first\nstep for any organization to take looking to improve its cyber posture.\n\n![Graphic showing that the LinkedIn Live recording is now\navailable.](/sites/default/files/styles/16x9_small/public/2023-12/23-1400-SOCIAL-\nWEB---CPG-LinkedIN-Live-Updated-Graphic_3_IMAGE-CTA-%2B-HOMEPAGE-CAROUSEL---\n700x394.jpg?h=abce51c1&itok=WE6Ko-IH)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "[ Cybersecurity Performance Goals CISA Live! (link is",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "external)](https://youtu.be/podtgMpjVp4)\n\nOn November 29, 2023, we hosted our first _CISA Live!_ on LinkedIn featuring\nour Cybersecurity Performance Goals. We invite you to watch a recording of it.\nYou can also check out our FAQ document which includes some Q&A from the\nevent.\n\n![computer with digital floating\nscreen](/sites/default/files/styles/16x9_small/public/2024-07/JCDC-RM-\nSuccess_0.jpg?h=583e279f&itok=cxqPxjCR)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "[ Cybersecurity Performance Goals: Assessing How CPGs Help Organizations",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Reduce Cyber Risk ](https://www.cisa.gov/news-events/news/cybersecurity-\nperformance-goals-assessing-how-cpgs-help-organizations-reduce-cyber-risk)\n\nRecently, CISA identified positive trends on two CPGs across nearly 3,500\norganizations enrolled in our Vulnerability Scanning service. Read about the\nfindings in this blog.\n\n![An abstract image of the globe with cyber\nelements](/sites/default/files/styles/16x9_small/public/2023-02/hero_cyber4.jpg?h=e0d9a4bb&itok=Ct65lS9p)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "[ Take the First Steps Towards Better Cybersecurity With these Four Goals",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "](https://www.cisa.gov/news-events/news/take-first-steps-towards-better-\ncybersecurity-these-four-goals)\n\nEvery day, organizations across our country are impacted by cyber intrusions,\nmany of which affect the delivery of essential services."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Browse Related Resources",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "![A crowd of people with a colorful\nbackground](/sites/default/files/styles/16x9_small/public/2024-07/Careers%20Hero.jpg?h=82fd0a5d&itok=AxURU2TM)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "[ Physical Security Performance Goals for Faith-Based Communities",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "](https://www.cisa.gov/resources-tools/resources/physical-security-\nperformance-goals-faith-based-communities)\n\nThese goals provide readily implementable, cost-effective solutions and\nresources to help faith-based communities reduce risk and enhance resilience.\n\n![individuals working on a\ncomputer](/sites/default/files/styles/16x9_small/public/2023-09/SOW-\nUnderstanding-Patches-and-Software.png?h=abce51c1&itok=iYlFacg7)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "[ Downloading and Installing CSET ](https://www.cisa.gov/downloading-and-",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "installing-cset)\n\nThe Cyber Security Evaluation Tool (CSET) provides a systematic, disciplined,\nand repeatable approach for evaluating an organization’s security posture.\n\nFor more information or to seek additional help, contact [Central(link sends\nemail)](mailto:Central@cisa.gov \"Email Central\"). For media inquiries, please\ncontact CISA Media at [CISAMedia@cisa.dhs.gov(link sends\nemail)](mailto:CISAMedia@cisa.dhs.gov \"Email CISA Media\").\n\n[Return to top](#top)\n\n  * [Topics](/topics)\n  * [Spotlight](/spotlight)\n  * [Resources & Tools](/resources-tools)\n  * [News & Events](/news-events)\n  * [Careers](/careers)\n  * [About](/about)\n\n[ Cybersecurity & Infrastructure Security Agency ](/ \"Go to the Cybersecurity\n& Infrastructure Security Agency homepage\")\n\n  * [Facebook](https://www.facebook.com/CISA)\n  * [X](https://x.com/CISAgov)\n  * [LinkedIn](https://www.linkedin.com/company/cybersecurity-and-infrastructure-security-agency)\n  * [YouTube](https://www.youtube.com/@cisagov)\n  * [Instagram](https://www.instagram.com/cisagov)\n  * [RSS](/subscribe-updates-cisa)\n\nCISA Central [1-844-Say-CISA](tel:1-844-Say-CISA)\n[contact@cisa.dhs.gov](mailto:contact@cisa.dhs.gov)\n\nDHS Seal\n\nCISA.gov\n\nAn official website of the U.S. Department of Homeland Security\n\n  * [About CISA](/about \"About CISA\")\n  * [Budget and Performance](https://www.dhs.gov/performance-financial-reports \"Budget and Performance\")\n  * [DHS.gov](https://www.dhs.gov \"Department of Homeland Security\")\n  * [FOIA Requests](https://www.dhs.gov/foia \"FOIA Requests\")\n  * [No FEAR Act](/no-fear-act \"No FEAR Act Reporting\")\n  * [Office of Inspector General](https://www.oig.dhs.gov/ \"Office of Inspector General\")\n  * [Privacy Policy](/privacy-policy \"Privacy Policy\")\n  * [Subscribe](https://public.govdelivery.com/accounts/USDHSCISA/subscriber/new?topic_id=USDHSCISA_138 \"Subscribe to Email Updates\")\n  * [The White House](https://www.whitehouse.gov/ \"The White House\")\n  * [USA.gov](https://www.usa.gov/ \"USA.gov\")\n  * [Website Feedback](/forms/feedback \"Website Feedback\")\n\n![](https://www.cisa.gov/akam/13/pixel_7a483336?a=dD1iNGQyZGYyMzAyYjU2N2YyMzE3MGJkNWY5ZWUwNjRmZjRjYWNiYmQ4JmpzPW9mZg==)\n\n|\n---|---\n|\n---|---"
+  }
+]

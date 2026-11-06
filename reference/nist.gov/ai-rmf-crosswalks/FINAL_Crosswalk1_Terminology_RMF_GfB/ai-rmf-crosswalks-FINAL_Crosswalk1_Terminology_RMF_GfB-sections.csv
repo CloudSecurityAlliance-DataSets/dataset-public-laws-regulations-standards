@@ -1,0 +1,494 @@
+"depth","section_id","section_name","id_kind","parent_id","body"
+"2","","Valid & Reliable –","","","NIST AI RMF 1.0 -
+Characteristics of Trustworthy AI Systems: Valid & Reliable –"
+"2","","(Includes accuracy and robustness)","","","NIST AI RMF 1.0 -
+Characteristics of Trustworthy AI Systems: (Includes accuracy and robustness)"
+"2","","Validation:
+""confirmation, through the provision of objective evidence,
+that the requirements for a specific intended us","","","NIST AI RMF 1.0 -
+Characteristics of Trustworthy AI Systems: Validation:
+""confirmation, through the provision of objective evidence,
+that the requirements for a specific intended use or application have been
+fulfilled""1
+
+Japan AI GfB
+-
+Common Guiding Principles: Validation:
+(There is no definition for
+validation. Instead, as an element of
+transparency, the
+AI
+GfB indicates the importance of
+ensuring
+the
+verifiability
+of the AI systems and services
+as necessary and technically
+possible.)"
+"2","","Reliability:
+""ability of an item to perform as required, without failure, for a
+given time interval, under given conditi","","","NIST AI RMF 1.0 -
+Characteristics of Trustworthy AI Systems: Reliability:
+""ability of an item to perform as required, without failure, for a
+given time interval, under given conditions""2
+
+Japan AI GfB
+-
+Common Guiding Principles: Reliability:
+The AI works satisfactorily for the requirements, including the
+accuracy of its output"
+"2","","Accuracy:
+""closeness of results of observations,
+computations, or estimates
+to the true values or the values accepted as","","","NIST AI RMF 1.0 -
+Characteristics of Trustworthy AI Systems: Accuracy:
+""closeness of results of observations,
+computations, or estimates
+to the true values or the values accepted as being true""2
+
+Japan AI GfB
+-
+Common Guiding Principles: Accuracy:
+The AI works satisfactorily for the requirements"
+"2","","Robustness:
+""ability of a system to maintain its level of performance under
+a variety of circumstances""2","","","NIST AI RMF 1.0 -
+Characteristics of Trustworthy AI Systems: Robustness:
+""ability of a system to maintain its level of performance under
+a variety of circumstances""2
+
+Japan AI GfB
+-
+Common Guiding Principles: Robustness:
+Maintaining performance levels under a variety of conditions
+and avoiding significantly incorrect decisions regarding unrelated events"
+"2","","AI GfB Context
+2) Safety
+(Includes accuracy, reliability, and robustness)
+(1) Consideration for human life, body, proper","","","Japan AI GfB
+-
+Common Guiding Principles: AI GfB Context
+2) Safety
+(Includes accuracy, reliability, and robustness)
+(1) Consideration for human life, body, property and mind as well as
+the environment
+(3) Proper training"
+"2","","1 ISO 9000:2015","","","NIST AI RMF 1.0 -
+Characteristics of Trustworthy AI Systems: 1 ISO 9000:2015
+
+Japan AI GfB
+-
+Common Guiding Principles: 6) Transparency"
+"2","","2 ISO/IEC TS 5723:2022","","","NIST AI RMF 1.0 -
+Characteristics of Trustworthy AI Systems: 2 ISO/IEC TS 5723:2022
+
+Japan AI GfB
+-
+Common Guiding Principles: (1) Ensuring verifiability"
+"2","","Safe –","","","NIST AI RMF 1.0 -
+Characteristics of Trustworthy AI Systems: Safe –"
+"2","","Safe: AI systems should ""not under defined conditions, lead to a state in
+which human life, health, property, or the env","","","NIST AI RMF 1.0 -
+Characteristics of Trustworthy AI Systems: Safe: AI systems should ""not under defined conditions, lead to a state in
+which human life, health, property, or the environment is endangered""1
+
+Japan AI GfB
+-
+Common Guiding Principles: Safety:
+Through the development, provision, and use of AI systems and
+services, each AI business actor should not harm the lives, bodies, and
+property of stakeholders involved with AI."
+"2","","Note: As a complimentary concept to safety, the AI GfB proposes Human
+centric
+(see definition in 'Other
+Terminology'
+lis","","","Japan AI GfB
+-
+Common Guiding Principles: Note: As a complimentary concept to safety, the AI GfB proposes Human
+centric
+(see definition in 'Other
+Terminology'
+listed below)."
+"2","","AI GfB Context
+1) Human-centric","","","Japan AI GfB
+-
+Common Guiding Principles: AI GfB Context
+1) Human-centric"
+"2","","(3) Measures against disinformation, etc.","","","Japan AI GfB
+-
+Common Guiding Principles: (3) Measures against disinformation, etc."
+"2","","2) Safety","","","Japan AI GfB
+-
+Common Guiding Principles: 2) Safety"
+"2","","(1) Consideration for human life, body property and mind as well as
+the environment","","","Japan AI GfB
+-
+Common Guiding Principles: (1) Consideration for human life, body property and mind as well as
+the environment"
+"2","","1 ISO/IEC TS 5723:2022","","","NIST AI RMF 1.0 -
+Characteristics of Trustworthy AI Systems: 1 ISO/IEC TS 5723:2022
+
+Japan AI GfB
+-
+Common Guiding Principles: (2) Proper use"
+"2","","Secure & Resilient –","","","NIST AI RMF 1.0 -
+Characteristics of Trustworthy AI Systems: Secure & Resilient –"
+"2","","Secure:
+AI systems that can maintain confidentiality, integrity, and
+availability through protection mechanisms that pre","","","NIST AI RMF 1.0 -
+Characteristics of Trustworthy AI Systems: Secure:
+AI systems that can maintain confidentiality, integrity, and
+availability through protection mechanisms that prevent unauthorized
+access and use may be said to be secure.
+
+Japan AI GfB
+-
+Common Guiding Principles: Security: To maintain confidentiality, integrity and availability of AI systems
+and services, and always ensure the safe use of AI, to take reasonable
+measures in light of current technological level."
+"2","","Note: Recognize that it is not possible to completely eliminate
+vulnerabilities in AI systems and services.","","","Japan AI GfB
+-
+Common Guiding Principles: Note: Recognize that it is not possible to completely eliminate
+vulnerabilities in AI systems and services."
+"2","","Resilient:
+AI systems, as well as the ecosystems in which they are
+deployed, may be said to be resilient if they can wit","","","NIST AI RMF 1.0 -
+Characteristics of Trustworthy AI Systems: Resilient:
+AI systems, as well as the ecosystems in which they are
+deployed, may be said to be resilient if they can withstand unexpected
+adverse events or unexpected changes in their environment or use –
+or if
+they can maintain their functions and structure in the face of internal and
+external change and degrade safely and gracefully when this is necessary.1
+
+Japan AI GfB
+-
+Common Guiding Principles: Resilient: (There is no clear mention of resilience in the AI GfB. Rather, the
+AI GfB focuses on security, while also recognizing the vulnerabilities in AI
+systems and services.)"
+"2","","AI GfB Context","","","Japan AI GfB
+-
+Common Guiding Principles: AI GfB Context"
+"2","","5) Ensuring security","","","Japan AI GfB
+-
+Common Guiding Principles: 5) Ensuring security"
+"2","","(1) Security measures affecting AI systems and services","","","Japan AI GfB
+-
+Common Guiding Principles: (1) Security measures affecting AI systems and services"
+"2","","1
+Adapted from: ISO/IEC TS 5723:2022","","","NIST AI RMF 1.0 -
+Characteristics of Trustworthy AI Systems: 1
+Adapted from: ISO/IEC TS 5723:2022
+
+Japan AI GfB
+-
+Common Guiding Principles: (2) Attention to the latest trends"
+"2","","Accountable & Transparent –","","","NIST AI RMF 1.0 -
+Characteristics of Trustworthy AI Systems: Accountable & Transparent –"
+"2","","Accountability: In the development, provision, and use of AI systems and
+services, it is important for each AI business ","","","Japan AI GfB
+-
+Common Guiding Principles: Accountability: In the development, provision, and use of AI systems and
+services, it is important for each AI business actor to fulfill accountability to
+its stakeholders to a reasonable extent with regard to ensuring traceability
+and compliance with ""Common Guiding Principles"".
+Note: Accountability is sometimes defined as explainability. But in this"
+"2","","document, information disclosure is handled by transparency, and
+accountability refers to the assumption of de facto and","","","Japan AI GfB
+-
+Common Guiding Principles: document, information disclosure is handled by transparency, and
+accountability refers to the assumption of de facto and legal responsibility
+for AI and to the prerequisites for assuming that responsibility."
+"2","","Transparency:
+reflects the extent to which information about an AI system
+and its outputs is available to individuals in","","","NIST AI RMF 1.0 -
+Characteristics of Trustworthy AI Systems: Transparency:
+reflects the extent to which information about an AI system
+and its outputs is available to individuals interacting with such a system –
+regardless of whether they are even aware that they are doing so
+
+Japan AI GfB
+-
+Common Guiding Principles: Transparency:
+In the development, provision, and use of AI systems and
+services, it is important for AI business actor to provide appropriate
+information to stakeholders within a reasonable scope considering the
+social context in which the AI systems and services are used and ensuring
+the verifiability of the AI systems and services as necessary and technically
+possible."
+"2","","Note: Matters related to information disclosure are broadly referred to as
+'transparency'.","","","Japan AI GfB
+-
+Common Guiding Principles: Note: Matters related to information disclosure are broadly referred to as
+'transparency'."
+"2","","AI GfB Context","","","Japan AI GfB
+-
+Common Guiding Principles: AI GfB Context"
+"2","","1) Human-centric","","","Japan AI GfB
+-
+Common Guiding Principles: 1) Human-centric"
+"2","","(5) User support","","","Japan AI GfB
+-
+Common Guiding Principles: (5) User support"
+"2","","2) Safety
+(1) Consideration for human life, body property and mind as well as
+the environment","","","Japan AI GfB
+-
+Common Guiding Principles: 2) Safety
+(1) Consideration for human life, body property and mind as well as
+the environment"
+"2","","(3) Proper training
+6) Transparency","","","Japan AI GfB
+-
+Common Guiding Principles: (3) Proper training
+6) Transparency"
+"2","","(1) Ensuring verifiability","","","Japan AI GfB
+-
+Common Guiding Principles: (1) Ensuring verifiability"
+"2","","(2) Providing information to related stakeholders","","","Japan AI GfB
+-
+Common Guiding Principles: (2) Providing information to related stakeholders"
+"2","","(3) Reasonable and honest response","","","Japan AI GfB
+-
+Common Guiding Principles: (3) Reasonable and honest response"
+"2","","7) Accountability
+(1) Improving traceability","","","Japan AI GfB
+-
+Common Guiding Principles: 7) Accountability
+(1) Improving traceability"
+"2","","(2) Explanation of compliance status of ""Common Guiding Principles""
+(3) Clarification of responsible person
+(4) Distribu","","","Japan AI GfB
+-
+Common Guiding Principles: (2) Explanation of compliance status of ""Common Guiding Principles""
+(3) Clarification of responsible person
+(4) Distribution of responsibilities between parties
+(5) Specific responses to stakeholders"
+"2","","Explainable & Interpretable –
+Explainability:
+refers to a representation of the mechanisms underlying AI
+systems' operat","","","NIST AI RMF 1.0 -
+Characteristics of Trustworthy AI Systems: Explainable & Interpretable –
+Explainability:
+refers to a representation of the mechanisms underlying AI
+systems' operation
+
+Japan AI GfB
+-
+Common Guiding Principles: Explainability: (There is no definition
+for
+explainability.)"
+"2","","Interpretability:
+refers to the meaning of AI systems' output in the context
+of their designed functional purposes","","","NIST AI RMF 1.0 -
+Characteristics of Trustworthy AI Systems: Interpretability:
+refers to the meaning of AI systems' output in the context
+of their designed functional purposes
+
+Japan AI GfB
+-
+Common Guiding Principles: Interpretability: (There is no definition for
+interpretability.)
+Note: Improving explainability and interpretability to related stakeholders
+is associated with the action to analyze and understand what kind of
+explanation is required and take necessary measures for the purpose of
+gaining a sense of satisfaction and security feeling from related
+stakeholders, as well as presenting evidence of AI operations."
+"2","","AI GfB Context
+6) Transparency
+(1) Ensuring verifiability
+(2) Providing information to related stakeholders
+(4) Improvin","","","Japan AI GfB
+-
+Common Guiding Principles: AI GfB Context
+6) Transparency
+(1) Ensuring verifiability
+(2) Providing information to related stakeholders
+(4) Improving explainability and interpretability to related
+stakeholders
+7) Accountability
+(6) Documentation"
+"2","","Privacy-enhanced –","","","NIST AI RMF 1.0 -
+Characteristics of Trustworthy AI Systems: Privacy-enhanced –"
+"2","","Privacy:
+refers generally to the norms and practices that help to safeguard
+human autonomy, identity, and dignity.
+These","","","NIST AI RMF 1.0 -
+Characteristics of Trustworthy AI Systems: Privacy:
+refers generally to the norms and practices that help to safeguard
+human autonomy, identity, and dignity.
+These norms and practices typically
+address freedom from intrusion, limiting observation, or individuals'
+agency to consent to disclosure or control of facets of their identities (e.g.,
+body, data, reputation).
+
+Japan AI GfB
+-
+Common Guiding Principles: Privacy: (There is no definition for
+privacy.)
+Note: As a complimentary concept to privacy, the AI GfB proposes Human
+centric (see definition in 'Other Terminology' listed
+below)."
+"2","","AI GfB Context
+1) Human-centric
+(1) Human dignity and individual autonomy
+4) Privacy protection
+(1) Privacy protection i","","","Japan AI GfB
+-
+Common Guiding Principles: AI GfB Context
+1) Human-centric
+(1) Human dignity and individual autonomy
+4) Privacy protection
+(1) Privacy protection in general AI systems and services"
+"2","","Fair with harmful bias managed –","","","NIST AI RMF 1.0 -
+Characteristics of Trustworthy AI Systems: Fair with harmful bias managed –"
+"2","","Fair: Fairness in AI includes concerns for equality and equity by addressing
+issues such as harmful bias and discriminat","","","NIST AI RMF 1.0 -
+Characteristics of Trustworthy AI Systems: Fair: Fairness in AI includes concerns for equality and equity by addressing
+issues such as harmful bias and discrimination. Standards of fairness can
+be complex and difficult to define because perceptions of fairness differ
+among cultures and may shift depending on application.
+Harmful Bias Managed: Bias exists in many forms and can become
+ingrained in the automated systems that help make decisions about our
+lives. While bias is not always a negative phenomenon, AI systems can
+potentially increase the speed and scale of biases and perpetuate and
+amplify harms to individuals, groups, communities, organizations, and
+society.
+NIST identifies three major categories of AI bias to be managed
+(below), all of which can occur without prejudice, partiality, or
+discriminatory intent.
+
+Japan AI GfB
+-
+Common Guiding Principles: Fairness:
+In the development, provision, and use of AI systems and
+services, it is important for AI business actors to make efforts to do away
+with prejudice and discrimination not to impose unfair or harmful actions
+against specific individuals or groups based on diverse backgrounds such as
+race, gender, nationality, age, political opinion, religion, etc. In addition, it
+is important to recognize that some biases cannot be avoided, and
+evaluate whether these unavoidable biases are acceptable from the
+perspective of respecting human rights and diverse cultures. It is important
+to develop, provide, and use AI systems and services based on this
+understanding."
+"2","","Systemic bias:
+can be present in AI datasets, the organizational norms,
+practices, and processes across the AI lifecycle","","","NIST AI RMF 1.0 -
+Characteristics of Trustworthy AI Systems: Systemic bias:
+can be present in AI datasets, the organizational norms,
+practices, and processes across the AI lifecycle, and the broader society
+that uses AI systems.
+
+Japan AI GfB
+-
+Common Guiding Principles: Note: There are no categories of biases, though
+the AI
+GfB presupposes a
+variety of biases."
+"2","","Computational and statistical biases:
+can be present in AI datasets and
+algorithmic processes, and often stem from syste","","","NIST AI RMF 1.0 -
+Characteristics of Trustworthy AI Systems: Computational and statistical biases:
+can be present in AI datasets and
+algorithmic processes, and often stem from systematic errors due to non
+
+Japan AI GfB
+-
+Common Guiding Principles: AI GfB Context
+1) Human-centric"
+"2","","representative samples.","","","NIST AI RMF 1.0 -
+Characteristics of Trustworthy AI Systems: representative samples.
+
+Japan AI GfB
+-
+Common Guiding Principles: (2) Attention to decision-making and emotional manipulation by AI"
+"2","","(3) Measures against disinformation, etc.","","","Japan AI GfB
+-
+Common Guiding Principles: (3) Measures against disinformation, etc."
+"2","","Human-cognitive biases:
+relate to how an individual or group perceives AI
+system information to make a decision or fill ","","","NIST AI RMF 1.0 -
+Characteristics of Trustworthy AI Systems: Human-cognitive biases:
+relate to how an individual or group perceives AI
+system information to make a decision or fill in missing information, or
+
+Japan AI GfB
+-
+Common Guiding Principles: (4) Ensuring diversity and inclusion
+3) Fairness"
+"2","","how humans think about purposes and functions of an AI system. Human","","","NIST AI RMF 1.0 -
+Characteristics of Trustworthy AI Systems: how humans think about purposes and functions of an AI system. Human
+
+Japan AI GfB
+-
+Common Guiding Principles: (1) Consideration of bias included in each component technology of AI"
+"2","","cognitive biases are omnipresent in decision-making processes across the","","","NIST AI RMF 1.0 -
+Characteristics of Trustworthy AI Systems: cognitive biases are omnipresent in decision-making processes across the
+
+Japan AI GfB
+-
+Common Guiding Principles: model"
+"2","","AI lifecycle and system use, including the design, implementation,","","","NIST AI RMF 1.0 -
+Characteristics of Trustworthy AI Systems: AI lifecycle and system use, including the design, implementation,"
+"2","","operation, and maintenance of AI.","","","NIST AI RMF 1.0 -
+Characteristics of Trustworthy AI Systems: operation, and maintenance of AI."
+"2","","Other Terminology –","","","Japan AI GfB
+-
+Common Guiding Principles: Other Terminology –"
+"2","","(The following terms are not defined in the NIST AI RMF.)","","","Japan AI GfB
+-
+Common Guiding Principles: (The following terms are not defined in the NIST AI RMF.)"
+"2","","Human-centric: In the development, provision, and use of AI systems and","","","Japan AI GfB
+-
+Common Guiding Principles: Human-centric: In the development, provision, and use of AI systems and"
+"2","","services, each AI business actor must not at least violate the human rights","","","Japan AI GfB
+-
+Common Guiding Principles: services, each AI business actor must not at least violate the human rights"
+"2","","guaranteed by the Constitution or internationally recognized, as the basis","","","Japan AI GfB
+-
+Common Guiding Principles: guaranteed by the Constitution or internationally recognized, as the basis"
+"2","","for deriving all matters to be addressed, including the matters described","","","Japan AI GfB
+-
+Common Guiding Principles: for deriving all matters to be addressed, including the matters described"
+"2","","below.","","","Japan AI GfB
+-
+Common Guiding Principles: below."
+"2","","Education/Literacy: Each AI business actor is expected to provide the","","","Japan AI GfB
+-
+Common Guiding Principles: Education/Literacy: Each AI business actor is expected to provide the"
+"2","","necessary education so that those involved in AI within each AI business","","","Japan AI GfB
+-
+Common Guiding Principles: necessary education so that those involved in AI within each AI business"
+"2","","actor can have the knowledge, literacy, and ethical sense to properly
+understand AI and use it socially. Furthermore, ea","","","Japan AI GfB
+-
+Common Guiding Principles: actor can have the knowledge, literacy, and ethical sense to properly
+understand AI and use it socially. Furthermore, each AI business actor is"
+"2","","expected to educate stakeholders, taking into consideration the complexity","","","Japan AI GfB
+-
+Common Guiding Principles: expected to educate stakeholders, taking into consideration the complexity"
+"2","","of AI, its characteristics such as misinformation, and the possibility of","","","Japan AI GfB
+-
+Common Guiding Principles: of AI, its characteristics such as misinformation, and the possibility of"
+"2","","intentional misuse.","","","Japan AI GfB
+-
+Common Guiding Principles: intentional misuse."
+"2","","Ensuring fair competition: Each AI business actor is expected to strive to","","","Japan AI GfB
+-
+Common Guiding Principles: Ensuring fair competition: Each AI business actor is expected to strive to"
+"2","","maintain a fair competitive environment surrounding AI so that new","","","Japan AI GfB
+-
+Common Guiding Principles: maintain a fair competitive environment surrounding AI so that new"
+"2","","business services that utilize AI are created and sustainable economic","","","Japan AI GfB
+-
+Common Guiding Principles: business services that utilize AI are created and sustainable economic"
+"2","","growth is maintained, and solutions to social issues are presented.","","","Japan AI GfB
+-
+Common Guiding Principles: growth is maintained, and solutions to social issues are presented."
+"2","","Innovation: Each AI business actor is expected to strive to contribute to","","","Japan AI GfB
+-
+Common Guiding Principles: Innovation: Each AI business actor is expected to strive to contribute to"
+"2","","promoting innovation in society as a whole.","","","Japan AI GfB
+-
+Common Guiding Principles: promoting innovation in society as a whole."

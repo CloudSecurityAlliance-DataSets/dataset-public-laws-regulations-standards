@@ -1,0 +1,546 @@
+[
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "GOVERNANCE",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "BSA FRAMEWORK: GOVERNANCE"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Policies and\nProcesses",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "BSA FRAMEWORK: Policies and\nProcesses\n\ncol_3: Objectives: Integrate AI risk\nmanagement into broader risk\nmanagement functions.\n\nNIST AI RISK MANAGEMENT FRAMEWORK: Sec. 1.2.4: Organizational Integration and Management of Risk: AI\nrisk management should be integrated and incorporated into broader\nenterprise risk management strategies and processes. Treating AI risks\nalong with other critical risks, such as cybersecurity and privacy, will yield\na more integrated outcome and organizational efficiencies."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Processes: Establish processes\nfor identifying risks, assessing\nthe materiality of those risks,\nand mitigating risks at",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: Processes: Establish processes\nfor identifying risks, assessing\nthe materiality of those risks,\nand mitigating risks at each\nstage of the AI lifecycle.\n\nNIST AI RISK MANAGEMENT FRAMEWORK: Govern 1: Policies, processes, procedures, and practices across the\norganization related to the mapping, measuring, and managing of AI\nrisks are in place, transparent, and implemented effectively.\nGovern 4.3: Organizational practices are in place to enable AI testing,\nidentification of incidents, and information sharing.\nGovern 6.2: Contingency processes are in place to handle failures or\nincidents in third-party data or AI systems deemed to be high-risk.\nMeasure 3: Mechanisms for tracking identified AI risks over time are in\nplace.\nManage 3: AI risks and benefits from third-party entities are managed."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Evaluation Mechanisms:\nEstablish mechanisms, such as\nmetrics and benchmarks, that\nthe organization will use to\nevaluate",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: Evaluation Mechanisms:\nEstablish mechanisms, such as\nmetrics and benchmarks, that\nthe organization will use to\nevaluate whether policies and\nprocedures are being carried\nout as specified.\n\nNIST AI RISK MANAGEMENT FRAMEWORK: Govern 1.5: Ongoing monitoring and periodic review of the risk\nmanagement process and its outcomes are planned and organizational\nroles and responsibilities clearly defined, including determining the\nfrequency of periodic review."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Periodic Review: Organizations\nshould periodically review and\nupdate their AI governance\nframework so it remains\nfit-for",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: Periodic Review: Organizations\nshould periodically review and\nupdate their AI governance\nframework so it remains\nfit-for-purpose and capable\nof addressing the evolving\nlandscape of risk.\n\nNIST AI RISK MANAGEMENT FRAMEWORK: Govern 1.5: Ongoing monitoring and periodic review of the risk\nmanagement process and its outcomes are planned and organizational\nroles and responsibilities clearly defined, including determining the\nfrequency of periodic review."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Executive Oversight:\nGovernance framework should\nbe backed by executive\noversight, including\n(1) approval of governance",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: Executive Oversight:\nGovernance framework should\nbe backed by executive\noversight, including\n(1) approval of governance\npolicies, (2) active role\nin overseeing product\ndevelopment lifecycle, and (3)\naccountability for go/no-go\ndecisions for high-risk systems.\n\nNIST AI RISK MANAGEMENT FRAMEWORK: Govern 2.3: Executive leadership of the organization takes responsibility\nfor decisions about risks associated with AI system development and\ndeployment."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Identify and\nDocument\nObjectives and\nAssumptions",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "BSA FRAMEWORK: Identify and\nDocument\nObjectives and\nAssumptions\n\ncol_3: Document the intent and\npurpose of the system.\n\nNIST AI RISK MANAGEMENT FRAMEWORK: Map 1.1: Intended purposes, potentially beneficial uses, context\nspecific laws, norms and expectations, and prospective settings in\nwhich the AI system will be deployed are understood and documented.\nConsiderations include: the specific set or types of users along with\ntheir expectations; potential positive and negative impacts of system\nuses to individuals, communities, organizations, society, and the planet;\nassumptions and related limitations about AI system purposes, uses, and\nrisks across the development or product AI lifecycle; and related TEVV\nand system metrics.\nMap 3: AI capabilities, targeted usage, goals, and expected benefits\nand costs compared with appropriate benchmarks are understood."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Clearly define the model's\nintended effects.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: Clearly define the model's\nintended effects.\n\nNIST AI RISK MANAGEMENT FRAMEWORK: Map 1.1: Intended purposes, potentially beneficial uses, context\nspecific laws, norms and expectations, and prospective settings in\nwhich the AI system will be deployed are understood and documented.\nConsiderations include: the specific set or types of users along with\ntheir expectations; potential positive and negative impacts of system\nuses to individuals, communities, organizations, society, and the planet;\nassumptions and related limitations about AI system purposes, uses, and\nrisks across the development or product AI lifecycle; and related TEVV\nand system metrics."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Map 2.1: The specific tasks and methods used to implement the tasks\nthat the AI system will support are defined (e.g., c",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "NIST AI RISK MANAGEMENT FRAMEWORK: Map 2.1: The specific tasks and methods used to implement the tasks\nthat the AI system will support are defined (e.g., classifiers, generative\nmodels, recommenders)."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Map 3.3: Targeted application scope is specified and documented\nbased on the system's capability, established context, a",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "NIST AI RISK MANAGEMENT FRAMEWORK: Map 3.3: Targeted application scope is specified and documented\nbased on the system's capability, established context, and AI system\ncategorization."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Clearly define intended use\ncases and context in which the\nsystem will be deployed.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: Clearly define intended use\ncases and context in which the\nsystem will be deployed.\n\nNIST AI RISK MANAGEMENT FRAMEWORK: Map 1.1: Intended purposes, potentially beneficial uses, context\nspecific laws, norms and expectations, and prospective settings in\nwhich the AI system will be deployed are understood and documented.\nConsiderations include: the specific set or types of users along with\ntheir expectations; potential positive and negative impacts of system\nuses to individuals, communities, organizations, society, and the planet;\nassumptions and related limitations about AI system purposes, uses, and\nrisks across the development or product AI lifecycle; and related TEVV\nand system metrics."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Map 1.4: The business value or context of business use has been clearly\ndefined or—in the case of assessing existing AI",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "NIST AI RISK MANAGEMENT FRAMEWORK: Map 1.4: The business value or context of business use has been clearly\ndefined or—in the case of assessing existing AI systems—re-evaluated."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Select and\nDocument Metrics\nfor Evaluating\nFairness",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "BSA FRAMEWORK: Select and\nDocument Metrics\nfor Evaluating\nFairness\n\ncol_3: Identify \"fairness\" metrics that\nwill be used as a baseline for\nassessing bias in the AI system.\n\nNIST AI RISK MANAGEMENT FRAMEWORK: Measure 1: Appropriate methods and metrics are identified and\napplied."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Document\nStakeholder\nImpacts",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "BSA FRAMEWORK: Document\nStakeholder\nImpacts\n\ncol_3: Identify stakeholder groups\nthat may be impacted by the\nsystem.\n\nNIST AI RISK MANAGEMENT FRAMEWORK: Map 5: Impacts to individuals, groups, communities, organizations, and\nsociety are characterized."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Impact Assessment",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_1: Impact Assessment\n\nBSA FRAMEWORK: Document\nStakeholder\nImpacts\n(continued)\n\ncol_3: For each stakeholder group,\ndocument the potential\nbenefits and potential adverse\nimpacts, considering both the\nintended uses and reasonably\nforeseeable misuses of the\nsystem.\n\ncol_5: Map 1.1: Intended purposes, potentially beneficial uses, context\nspecific laws, norms and expectations, and prospective settings in\nwhich the AI system will be deployed are understood and documented.\nConsiderations include: the specific set or types of users along with\ntheir expectations; potential positive and negative impacts of system\nuses to individuals, communities, organizations, society, and the planet;\nassumptions and related limitations about AI system purposes, uses, and\nrisks across the development or product AI lifecycle; and related TEVV\nand system metrics.\nMap 5.1: Likelihood and magnitude of each identified impact (both\npotentially beneficial and harmful) based on expected use, past uses of\nAI systems in similar contexts, public incident reports, feedback from\nthose external to the team that developed or deployed the AI system,\nor other data are identified and documented.\nMap 5.3: Practices and personnel for supporting regular engagement\nwith relevant AI actors and integrating feedback about positive,\nnegative, and unanticipated impacts are in place and documented."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Assess whether the nature of\nthe system makes it prone to\npotential bias-related harms\nbased on user demographics.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: Assess whether the nature of\nthe system makes it prone to\npotential bias-related harms\nbased on user demographics.\n\ncol_5: Measure 2: AI systems are evaluated for trustworthy characteristics.\nMeasure 2.3: AI system performance or assurance criteria are measured\nqualitatively or quantitatively and demonstrated for conditions similar to\ndeployment setting(s). Measures are documented.\nMeasure 2.4: The functionality and behavior of the AI system and its\ncomponents—as identified in the MAP function—are monitored when in\nproduction.\nMeasure 2.5: The AI system to be deployed is demonstrated to be valid\nand reliable. Limitations of the generalizability beyond the conditions\nunder which the technology was developed are documented.\nMeasure 2.8: Risks associated with transparency and accountability—as\nidentified in the MAP function—are examined and documented.\nMeasure 2.9: The AI model is explained, validated, and documented,\nand AI system output is interpreted within its context—as identified in\nthe MAP function—to inform responsible use and governance.\nMeasure 2.11: Fairness and bias—as identified in the MAP function—\nare evaluated and results are documented."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Document Risk\nMitigations",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "BSA FRAMEWORK: Document Risk\nMitigations\n\ncol_3: If risk of bias is present,\ndocument efforts to mitigate\nrisks.\n\ncol_5: Manage 1: AI risks based on assessments and other analytical output\nfrom the MAP and MEASURE functions are prioritized, responded to,\nand managed.\nManage 1.3: Responses to the AI risks deemed high priority, as\nidentified by the MAP function, are developed, planned, and\ndocumented. Risk response options can include mitigating, transferring,\navoiding, or accepting."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Impact Assessment",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_1: Impact Assessment\n\nBSA FRAMEWORK: Document Risk\nMitigations\n(continued)\n\ncol_3: Document how identified risks\nand potential harms of each\nrisk will be measured and how\nthe effectiveness of mitigation\nstrategies will be evaluated.\n\nNIST AI RISK MANAGEMENT FRAMEWORK: Measure 1: Appropriate methods and metrics are identified and\napplied.\nMeasure 1.1: Approaches and metrics for measurement of AI risks\nenumerated during the MAP function are selected for implementation\nstarting with the most significant AI risks. The risks or trustworthiness\ncharacteristics that will not—or cannot—be measured are properly\ndocumented.\nMeasure 1.2: Appropriateness of AI metrics and effectiveness of\nexisting controls are regularly assessed and updated, including reports\nof errors and potential impacts on affected communities.\nMeasure 4: Feedback about efficacy of measurement is gathered and\nassessed."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "If risk of bias is present,\ndocument efforts to mitigate\nrisk.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: If risk of bias is present,\ndocument efforts to mitigate\nrisk.\n\nNIST AI RISK MANAGEMENT FRAMEWORK: Manage 1: AI risks based on assessments and other analytical output\nfrom the MAP and MEASURE functions are prioritized, responded to,\nand managed.\nManage 1.3: Responses to the AI risks deemed high priority, as\nidentified by the MAP function, are developed, planned, and\ndocumented. Risk response options can include mitigating, transferring,\navoiding, or accepting."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "If risks are unmitigated,\ndocument why the risk was\ndeemed acceptable.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: If risks are unmitigated,\ndocument why the risk was\ndeemed acceptable.\n\nNIST AI RISK MANAGEMENT FRAMEWORK: Manage 1.4: Negative residual risks (defined as the sum of all\nunmitigated risks) to both downstream acquirers of AI systems and end\nusers are documented."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Risk Mitigation Best Practices",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_1: Risk Mitigation Best Practices\n\nBSA FRAMEWORK: Independence\nand Diversity\n\ncol_3: Seek feedback from a diverse\nset of stakeholders to inform\nthe impact assessment.\n\nNIST AI RISK MANAGEMENT FRAMEWORK: Govern 3.1: Decision-making related to mapping, measuring, and\nmanaging AI risks throughout the lifecycle is informed by a diverse team\n(e.g., diversity of demographics, disciplines, experience, expertise, and\nbackgrounds).\nGovern 5.1: Organizational policies and practices are in place to collect,\nconsider, prioritize, and integrate feedback from those external to the\nteam that developed or deployed the AI system regarding the potential\nindividual and societal impacts related to AI risks.\nMap 1.2: Interdisciplinary AI actors, competencies, skills, and capacities\nfor establishing context reflect demographic diversity and broad domain\nand user experience expertise, and their participation is documented.\nOpportunities for interdisciplinary collaboration are prioritized.\nMeasure 1.3: Internal experts who did not serve as front-line developers\nfor the system and/or independent assessors are involved in regular\nassessments and updates. Domain experts, users, AI actors external\nto the team that developed or deployed the AI system, and affected\ncommunities are consulted in support of assessments as necessary per\norganizational risk tolerance.\nMeasure 4.1: Measurement approaches for identifying AI risks are\nconnected to deployment context(s) and informed through consultation\nwith domain experts and other end users. Approaches are documented.\nMeasure 4.2: Measurement results regarding AI system trustworthiness\nin deployment context(s) and across the AI lifecycle are informed\nby input from domain experts and relevant AI actors to validate\nwhether the system is performing consistently as intended. Results are\ndocumented.\nMeasure 4.3: Measurable performance improvements or declines based\non consultations with relevant AI actors, including affected communities,\nand field data about context-relevant risks and trustworthiness\ncharacteristics are identified and documented."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Risk Mitigation Best Practices",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_1: Risk Mitigation Best Practices\n\nBSA FRAMEWORK: Transparent\nDocumentation\n\ncol_3: Share impact assessment\ndocumentation with personnel\nworking on later stages of the\nAI pipeline so that risks and\npotential unintended impacts\ncan be monitored throughout\nthe development process.\n\nNIST AI RISK MANAGEMENT FRAMEWORK: Govern 4.2: Organizational teams document the risks and potential\nimpacts of the AI technology they design, develop, deploy, evaluate,\nand use, and they communicate about the impacts more broadly.\nMeasure 1.3: Internal experts who did not serve as front-line developers\nfor the system and/or independent assessors are involved in regular\nassessments and updates. Domain experts, users, AI actors external\nto the team that developed or deployed the AI system, and affected\ncommunities are consulted in support of assessments as necessary per\norganizational risk tolerance."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Accountability\nand Governance",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "BSA FRAMEWORK: Accountability\nand Governance\n\ncol_3: Ensure that senior leadership\nhas been adequately briefed on\npotential high-risk AI systems.\n\nNIST AI RISK MANAGEMENT FRAMEWORK: Govern 2.3: Executive leadership of the organization takes responsibility\nfor decisions about risks associated with AI system development and\ndeployment."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Impact Assessment",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_1: Impact Assessment\n\nBSA FRAMEWORK: Maintain\nRecords of Data\nProvenance\n\ncol_3: Maintain sufficient records\nto enable \"recreation\" of\nthe data used to train the AI\nmodel, verify that its results\nare reproducible, and monitor\nfor material updates to data\nsources.\n\nNIST AI RISK MANAGEMENT FRAMEWORK: Govern 4.2: Organizational teams document the risks and potential\nimpacts of the AI technology they design, develop, deploy, evaluate,\nand use, and they communicate about the impacts more broadly.\nManage 3.2: Pre-trained models which are used for development are\nmonitored as part of AI system regular monitoring and maintenance."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Examine Data for\nPotential Biases",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "BSA FRAMEWORK: Examine Data for\nPotential Biases\n\ncol_3: Scrutinize data for historical\nbiases.\n\nNIST AI RISK MANAGEMENT FRAMEWORK: Map 2.3: Scientific integrity and TEVV considerations are identified\nand documented, including those related to experimental design, data\ncollection and selection (e.g., availability, representativeness, suitability),\nsystem trustworthiness, and construct validation."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Evaluate \"representativeness\"\nof the data.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: Evaluate \"representativeness\"\nof the data.\n\nNIST AI RISK MANAGEMENT FRAMEWORK: Map 2.3: Scientific integrity and TEVV considerations are identified\nand documented, including those related to experimental design, data\ncollection and selection (e.g., availability, representativeness, suitability),\nsystem trustworthiness, and construct validation."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Scrutinize data labeling\nmethodology.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: Scrutinize data labeling\nmethodology.\n\nNIST AI RISK MANAGEMENT FRAMEWORK: Map 2.3: Scientific integrity and TEVV considerations are identified\nand documented, including those related to experimental design, data\ncollection and selection (e.g., availability, representativeness, suitability),\nsystem trustworthiness, and construct validation."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Document Risk\nMitigations",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "BSA FRAMEWORK: Document Risk\nMitigations\n\ncol_3: Document whether and\nhow data was augmented,\nmanipulated, or re-balanced to\nmitigate bias.\n\nNIST AI RISK MANAGEMENT FRAMEWORK: Map 2.3: Scientific integrity and TEVV considerations are identified\nand documented, including those related to experimental design, data\ncollection and selection (e.g., availability, representativeness, suitability),\nsystem trustworthiness, and construct validation."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Independence\nand Diversity",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "BSA FRAMEWORK: Independence\nand Diversity\n\ncol_3: To facilitate robust interrogation\nof the datasets, data review\nteams should include personnel\nthat are diverse in terms of their\nsubject matter expertise and\nlived experiences.\n\nNIST AI RISK MANAGEMENT FRAMEWORK: Govern 3.1: Decision-making related to mapping, measuring, and\nmanaging AI risks throughout the lifecycle is informed by a diverse team\n(e.g., diversity of demographics, disciplines, experience, expertise, and\nbackgrounds)."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Risk Mitigation Best Practices",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_1: Risk Mitigation Best Practices\n\nNIST AI RISK MANAGEMENT FRAMEWORK: Map 1.2: Interdisciplinary AI actors, competencies, skills, and capacities\nfor establishing context reflect demographic diversity and broad domain\nand user experience expertise, and their participation is documented.\nOpportunities for interdisciplinary collaboration are prioritized."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Measure 1.3: Internal experts who did not serve as front-line developers\nfor the system and/or independent assessors are",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "NIST AI RISK MANAGEMENT FRAMEWORK: Measure 1.3: Internal experts who did not serve as front-line developers\nfor the system and/or independent assessors are involved in regular\nassessments and updates. Domain experts, users, AI actors external\nto the team that developed or deployed the AI system, and affected\ncommunities are consulted in support of assessments as necessary per\norganizational risk tolerance."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Risk Mitigation Best Practices",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_1: Risk Mitigation Best Practices\n\nBSA FRAMEWORK: Re-Balancing\nUnrepresentative\nData\n\ncol_3: Consider re-balancing with\nadditional data.\n\nNIST AI RISK MANAGEMENT FRAMEWORK: Map 2.3: Scientific integrity and TEVV considerations are identified\nand documented, including those related to experimental design, data\ncollection and selection (e.g., availability, representativeness, suitability),\nsystem trustworthiness, and construct validation.\nMeasure 2.11: Fairness and bias—as identified in the MAP function—\nare evaluated and results are documented."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Consider re-balancing with\nsynthetic data.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: Consider re-balancing with\nsynthetic data.\n\nNIST AI RISK MANAGEMENT FRAMEWORK: Map 2.3: Scientific integrity and TEVV considerations are identified\nand documented, including those related to experimental design, data\ncollection and selection (e.g., availability, representativeness, suitability),\nsystem trustworthiness, and construct validation.\nMeasure 2.11: Fairness and bias—as identified in the MAP function—\nare evaluated and results are documented."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Data Labeling",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "BSA FRAMEWORK: Data Labeling\n\ncol_3: Establish objective and scalable\nlabeling guidelines.\n\nNIST AI RISK MANAGEMENT FRAMEWORK: Map 2.3: Scientific integrity and TEVV considerations are identified\nand documented, including those related to experimental design, data\ncollection and selection (e.g., availability, representativeness, suitability),\nsystem trustworthiness, and construct validation."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Accountability\nand Governance",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "BSA FRAMEWORK: Accountability\nand Governance\n\ncol_3: Integrate data labeling\nprocesses into a comprehensive\ndata strategy.\n\nNIST AI RISK MANAGEMENT FRAMEWORK: Map 2.3: Scientific integrity and TEVV considerations are identified\nand documented, including those related to experimental design, data\ncollection and selection (e.g., availability, representativeness, suitability),\nsystem trustworthiness, and construct validation."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "DATA PREPARATION AND MODEL DEFINITION",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "BSA FRAMEWORK: DATA PREPARATION AND MODEL DEFINITION"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Impact Assessment",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_1: Impact Assessment\n\nBSA FRAMEWORK: Document\nFeature Selection\nand Engineering\nProcesses\n\ncol_3: Document rationale for choices\nmade during the feature\nselection and engineering\nprocesses and evaluate their\nimpact on model performance.\n\nNIST AI RISK MANAGEMENT FRAMEWORK: Govern 1: Policies, processes, procedures, and practices across the\norganization related to the mapping, measuring, and managing of AI\nrisks are in place, transparent, and implemented effectively."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Document potential correlation\nbetween selected features\nand sensitive demographic\nattributes.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: Document potential correlation\nbetween selected features\nand sensitive demographic\nattributes.\n\nNIST AI RISK MANAGEMENT FRAMEWORK: Measure 2.11: Fairness and bias—as identified in the MAP function—\nare evaluated and results are documented."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Document Model\nSelection Process",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "BSA FRAMEWORK: Document Model\nSelection Process\n\ncol_3: Document rationale for the\nselected modeling approach.\n\nNIST AI RISK MANAGEMENT FRAMEWORK: Govern 1.4: The risk management process and its outcomes are\nestablished through transparent policies, procedures, and other controls\nbased on organizational risk priorities.\nMap 2.1: The specific tasks and methods used to implement the tasks\nthat the AI system will support are defined (e.g., classifiers, generative\nmodels, recommenders)."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Identify, document, and justify\nassumptions in the selected\napproach and potential\nresulting limitations.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: Identify, document, and justify\nassumptions in the selected\napproach and potential\nresulting limitations.\n\nNIST AI RISK MANAGEMENT FRAMEWORK: Govern 1.4: The risk management process and its outcomes are\nestablished through transparent policies, procedures, and other controls\nbased on organizational risk priorities.\nMap 2.2: Information about the AI system's knowledge limits and how\nsystem output may be utilized and overseen by humans is documented.\nDocumentation provides sufficient information to assist relevant AI\nactors when making decisions and taking subsequent actions."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Feature Selection",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "BSA FRAMEWORK: Feature Selection\n\ncol_3: Examine for biased proxy\nfeatures.\n\nNIST AI RISK MANAGEMENT FRAMEWORK: Measure 2.11: Fairness and bias—as identified in the MAP function—\nare evaluated and results are documented."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Scrutinize features that correlate\nto sensitive attributes.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: Scrutinize features that correlate\nto sensitive attributes.\n\nNIST AI RISK MANAGEMENT FRAMEWORK: Measure 2.11: Fairness and bias—as identified in the MAP function—\nare evaluated and results are documented."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Independence\nand Diversity",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "BSA FRAMEWORK: Independence\nand Diversity\n\ncol_3: Seek feedback from diverse\nstakeholders with domain\nspecific expertise.\n\nNIST AI RISK MANAGEMENT FRAMEWORK: Govern 3.1: Decision-making related to mapping, measuring, and\nmanaging AI risks throughout the lifecycle is informed by a diverse team\n(e.g., diversity of demographics, disciplines, experience, expertise, and\nbackgrounds).\nMap 1.2: Interdisciplinary AI actors, competencies, skills, and capacities\nfor establishing context reflect demographic diversity and broad domain\nand user experience expertise, and their participation is documented.\nOpportunities for interdisciplinary collaboration are prioritized.\nMeasure 1.3: Internal experts who did not serve as front-line developers\nfor the system and/or independent assessors are involved in regular\nassessments and updates. Domain experts, users, AI actors external\nto the team that developed or deployed the AI system, and affected\ncommunities are consulted in support of assessments as necessary per\norganizational risk tolerance.\nMeasure 4.1: Measurement approaches for identifying AI risks are\nconnected to deployment context(s) and informed through consultation\nwith domain experts and other end users. Approaches are documented.\nMeasure 4.2: Measurement results regarding AI system trustworthiness\nin deployment context(s) and across the AI lifecycle are informed\nby input from domain experts and relevant AI actors to validate\nwhether the system is performing consistently as intended. Results are\ndocumented.\nMeasure 4.3: Measurable performance improvements or declines based"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "on consultations with relevant AI actors, including affected communities,\nand field data about context-relevant risks an",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "NIST AI RISK MANAGEMENT FRAMEWORK: on consultations with relevant AI actors, including affected communities,\nand field data about context-relevant risks and trustworthiness\ncharacteristics are identified and documented."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Model Selection",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "BSA FRAMEWORK: Model Selection\n\ncol_3: Avoid inscrutable models in\ncircumstances where both the\nrisk and potential impact of bias\nare high.\n\nNIST AI RISK MANAGEMENT FRAMEWORK: No equivalent category"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Document\nValidation\nProcesses",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_1: Document\nValidation\nProcesses\n\nBSA FRAMEWORK: Document how the system (and\nindividual components) will be\nvalidated to evaluate whether\nit is performing consistent\nwith the design objectives and\nintended deployment scenarios.\n\ncol_3: Measure 1: Appropriate methods and metrics are identified and\napplied.\nMeasure 2.3: AI system performance or assurance criteria are measured\nqualitatively or quantitatively and demonstrated for conditions similar to\ndeployment setting(s). Measures are documented.\nMeasure 2.4: The functionality and behavior of the AI system and its\ncomponents—as identified in the MAP function—are monitored when in\nproduction.\nMeasure 2.5: The AI system to be deployed is demonstrated to be valid\nand reliable. Limitations of the generalizability beyond the conditions\nunder which the technology was developed are documented.\nMeasure 2.9: The AI model is explained, validated, and documented,\nand AI system output is interpreted within its context—as identified in\nthe MAP function—to inform responsible use and governance.\nMeasure 2.13: Effectiveness of the employed TEVV metrics and\nprocesses in the MEASURE function are evaluated and documented."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Document re-validation\nprocesses",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "BSA FRAMEWORK: Document re-validation\nprocesses\n\ncol_3: Manage 2.2: Mechanisms are in place and applied to sustain the value\nof deployed AI systems.\nManage 2.3: Procedures are followed to respond to and recover from a\npreviously unknown risk when it is identified."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Document Testing\nProcesses",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_1: Document Testing\nProcesses\n\nBSA FRAMEWORK: Test the system for bias by\nevaluating and documenting\nmodel performance.\n\ncol_3: Measure 2.11: Fairness and bias—as identified in the MAP function—\nare evaluated and results are documented."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Document how testing was\nperformed, which fairness\nmetrics were evaluated, and\nwhy those measures were\nselected.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "BSA FRAMEWORK: Document how testing was\nperformed, which fairness\nmetrics were evaluated, and\nwhy those measures were\nselected.\n\ncol_3: Measure 2.1: Test sets, metrics, and details about the tools used during\nTEVV are documented.\nMeasure 2.11: Fairness and bias—as identified in the MAP function—\nare evaluated and results are documented."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Document model interventions.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "BSA FRAMEWORK: Document model interventions.\n\ncol_3: Manage 1.3: Responses to the AI risks deemed high priority, as\nidentified by the MAP function, are developed, planned, and\ndocumented. Risk response options can include mitigating, transferring,\navoiding, or accepting."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Manage 2.3: Procedures are followed to respond to and recover from a\npreviously unknown risk when it is identified.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: Manage 2.3: Procedures are followed to respond to and recover from a\npreviously unknown risk when it is identified."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Manage 2.4: Mechanisms are in place and applied, and responsibilities\nare assigned and understood, to supersede, disenga",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: Manage 2.4: Mechanisms are in place and applied, and responsibilities\nare assigned and understood, to supersede, disengage, or deactivate\nAI systems that demonstrate performance or outcomes inconsistent with\nintended use."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Risk Mitigation Best Practices",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_1: Risk Mitigation Best Practices\n\nBSA FRAMEWORK: Model\nInterventions\n\ncol_3: Evaluate potential model\nrefinements to address bias\nsurfaced during testing.\n\nNIST AI RISK MANAGEMENT FRAMEWORK: Manage 1.3: Responses to the AI risks deemed high priority, as\nidentified by the MAP function, are developed, planned, and\ndocumented. Risk response options can include mitigating, transferring,\navoiding, or accepting.\nManage 2.3: Procedures are followed to respond to and recover from a\npreviously unknown risk when it is identified.\nManage 2.4: Mechanisms are in place and applied, and responsibilities\nare assigned and understood, to supersede, disengage, or deactivate\nAI systems that demonstrate performance or outcomes inconsistent with\nintended use."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Independence\nand Diversity",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "BSA FRAMEWORK: Independence\nand Diversity\n\ncol_3: Validation and testing\ndocumentation should be\nreviewed by personnel who\nwere not involved in the\nsystem's development.\n\nNIST AI RISK MANAGEMENT FRAMEWORK: Measure 1.3: Internal experts who did not serve as front-line developers\nfor the system and/or independent assessors are involved in regular\nassessments and updates. Domain experts, users, AI actors external\nto the team that developed or deployed the AI system, and affected\ncommunities are consulted in support of assessments as necessary per\norganizational risk tolerance."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Impact Assessment",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_1: Impact Assessment\n\nBSA FRAMEWORK: Document Lines\nof Responsibility\n\ncol_3: Define and document who is\nresponsible for the system's\noutputs and the outcomes they\nmay lead to, including details\nabout how a system's decisions\ncan be reviewed if necessary.\n\nNIST AI RISK MANAGEMENT FRAMEWORK: Govern 1.5: Ongoing monitoring and periodic review of the risk\nmanagement process and its outcomes are planned and organizational\nroles and responsibilities clearly defined, including determining the\nfrequency of periodic review.\nGovern 2.1: Roles and responsibilities and lines of communication\nrelated to mapping, measuring, and managing AI risks are documented\nand are clear to individuals and teams throughout the organization."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Establish management plans\nfor responding to potential\nincidents or reports of system\nerrors.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: Establish management plans\nfor responding to potential\nincidents or reports of system\nerrors.\n\nNIST AI RISK MANAGEMENT FRAMEWORK: Manage 2.3: Procedures are followed to respond to and recover from a\npreviously unknown risk when it is identified.\nManage 2.4: Mechanisms are in place and applied, and responsibilities\nare assigned and understood, to supersede, disengage, or deactivate\nAI systems that demonstrate performance or outcomes inconsistent with\nintended use.\nManage 4: Risk treatments, including response and recovery, and\ncommunication plans for the identified and measured AI risks are\ndocumented and monitored regularly.\nManage 4.1: Post-deployment AI system monitoring plans are\nimplemented, including mechanisms for capturing and evaluating\ninput from users and other relevant AI actors, appeal and override,\ndecommissioning, incident response, recovery, and change\nmanagement."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Document\nProcesses for\nMonitoring Data",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "BSA FRAMEWORK: Document\nProcesses for\nMonitoring Data\n\ncol_3: Document what processes\nand metrics will be used to\nevaluate whether production\ndata (i.e., input data the system\nencounters during deployment)\ndiffers materially from training\ndata.\n\nNIST AI RISK MANAGEMENT FRAMEWORK: Manage 4.1: Post-deployment AI system monitoring plans are\nimplemented, including mechanisms for capturing and evaluating\ninput from users and other relevant AI actors, appeal and override,\ndecommissioning, incident response, recovery, and change\nmanagement.\nMeasure 4.2: Measurement results regarding AI system trustworthiness\nin deployment context(s) and across the AI lifecycle are informed\nby input from domain experts and relevant AI actors to validate\nwhether the system is performing consistently as intended. Results are\ndocumented."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Impact Assessment",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_1: Impact Assessment\n\nBSA FRAMEWORK: Document\nProcesses for\nMonitoring Model\nPerformance\n\ncol_3: For static models, document\nhow performance levels\nand classes of error will be\nmonitored over time and\nbenchmarks that will trigger\nreview.\n\nNIST AI RISK MANAGEMENT FRAMEWORK: Manage 3.2: Pre-trained models which are used for development are\nmonitored as part of AI system regular monitoring and maintenance.\nManage 4.1: Post-deployment AI system monitoring plans are\nimplemented, including mechanisms for capturing and evaluating\ninput from users and other relevant AI actors, appeal and override,\ndecommissioning, incident response, recovery, and change\nmanagement."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "For models that are intended\nto evolve over time,\ndocument how changes will\nbe inventoried; if, when,\nand how versions w",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: For models that are intended\nto evolve over time,\ndocument how changes will\nbe inventoried; if, when,\nand how versions will be\ncaptured and managed; and\nhow performance levels will\nbe monitored (e.g., cadence\nof scheduled reviews,\nperformance indicators that\nmay trigger out-of-cycle review).\n\nNIST AI RISK MANAGEMENT FRAMEWORK: Manage 4.1: Post-deployment AI system monitoring plans are\nimplemented, including mechanisms for capturing and evaluating\ninput from users and other relevant AI actors, appeal and override,\ndecommissioning, incident response, recovery, and change\nmanagement."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Document Audit\nand End-of-Life\nProcesses",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "BSA FRAMEWORK: Document Audit\nand End-of-Life\nProcesses\n\ncol_3: Document the cadence at which\nimpact assessment evaluations\nwill be audited to evaluate\nwhether risk mitigation controls\nremain fit-for-purpose.\n\nNIST AI RISK MANAGEMENT FRAMEWORK: Govern 1.5: Ongoing monitoring and periodic review of the risk\nmanagement process and its outcomes are planned and organizational\nroles and responsibilities clearly defined, including determining the\nfrequency of periodic review."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Document expected timeline\nthat system support will be\nprovided and processes for\ndecommissioning system\nin event that i",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: Document expected timeline\nthat system support will be\nprovided and processes for\ndecommissioning system\nin event that it falls below\nreasonable performance\nthresholds.\n\nNIST AI RISK MANAGEMENT FRAMEWORK: Govern 1.7: Processes and procedures are in place for\ndecommissioning and phasing out AI systems safely and in a\nmanner that does not increase risks or decrease the organization's\ntrustworthiness.\nManage 4.1: Post-deployment AI system monitoring plans are\nimplemented, including mechanisms for capturing and evaluating\ninput from users and other relevant AI actors, appeal and override,\ndecommissioning, incident response, recovery, and change\nmanagement."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Risk Mitigation Best Practices",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_1: Risk Mitigation Best Practices\n\nBSA FRAMEWORK: Monitoring for\nDrift and Model\nDegradation\n\ncol_3: Input data encountered\nduring deployment can be\nevaluated against a statistical\nrepresentation of the system's\ntraining data to evaluate\nthe potential for data drift\n(i.e., material differences\nbetween the training data\nand deployment data that can\ndegrade model performance).\n\nNIST AI RISK MANAGEMENT FRAMEWORK: Measure 1.2: Appropriateness of AI metrics and effectiveness of\nexisting controls are regularly assessed and updated, including reports\nof errors and potential impacts on affected communities.\nManage 2.2: Mechanisms are in place and applied to sustain the value\nof deployed AI systems.\nManage 4.2: Measurable activities for continual improvements are\nintegrated into AI system updates and include regular engagement with\ninterested parties, including relevant AI actors."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Product Features\nand User Interface",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "BSA FRAMEWORK: Product Features\nand User Interface\n\ncol_3: Integrate product and user\ninterface features to mitigate\nrisk of foreseeable unintended\nuses (e.g., interface that\nenforces human-in-the-loop\nrequirements, alerts to notify\nwhen a system is being\nmisused).\n\nNIST AI RISK MANAGEMENT FRAMEWORK: Manage 1.4: Negative residual risks (defined as the sum of all\nunmitigated risks) to both downstream acquirers of AI systems and\nend users are documented.\nManage 2.4: Mechanisms are in place and applied, and responsibilities\nare assigned and understood, to supersede, disengage, or deactivate\nAI systems that demonstrate performance or outcomes inconsistent with\nintended use.\nManage 4.1: Post-deployment AI system monitoring plans are\nimplemented, including mechanisms for capturing and evaluating\ninput from users and other relevant AI actors, appeal and override,\ndecommissioning, incident response, recovery, and change\nmanagement."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "System\nDocumentation",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "BSA FRAMEWORK: System\nDocumentation\n\ncol_3: AI Developers should provide\nsufficient documentation\nregarding system capabilities,\nspecifications, limitations,\nand intended uses to enable\nAI Deployers to perform\nindependent impact assessment\nconcerning deployment risks.\n\nNIST AI RISK MANAGEMENT FRAMEWORK: No equivalent category"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Consider incorporating terms\ninto the End User License\nAgreement that set forth\nlimitations designed to prevent\nforeseea",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: Consider incorporating terms\ninto the End User License\nAgreement that set forth\nlimitations designed to prevent\nforeseeable misuses (e.g.,\ncontractual obligations to\nensure end user will comply\nwith acceptable use policy).\n\nNIST AI RISK MANAGEMENT FRAMEWORK: No equivalent category"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Sales and marketing materials\nshould be closely reviewed to\nensure that they are consistent\nwith the system's actual\ncap",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "col_3: Sales and marketing materials\nshould be closely reviewed to\nensure that they are consistent\nwith the system's actual\ncapabilities.\n\nNIST AI RISK MANAGEMENT FRAMEWORK: No equivalent category"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "AI User Training",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "BSA FRAMEWORK: AI User Training\n\ncol_3: AI Deployers should provide\ntraining for AI Users regarding\na system's capabilities and\nlimitations, and how outputs\nshould be evaluated and\nintegrated into a workflow.\n\nNIST AI RISK MANAGEMENT FRAMEWORK: Govern 2.2: The organization's personnel and partners receive AI\nrisk management training to enable them to perform their duties\nand responsibilities consistent with related policies, procedures, and\nagreements."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Incident Response\nand Feedback\nMechanisms",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "BSA FRAMEWORK: Incident Response\nand Feedback\nMechanisms\n\ncol_3: AI Deployers should maintain\na feedback mechanism to\nenable AI Users and Affected\nIndividuals (i.e., members of the\npublic who may interact with\nthe system) to report concerns\nabout the operation of a\nsystem.\n\nNIST AI RISK MANAGEMENT FRAMEWORK: Govern 5.2: Mechanisms are established to enable the team\nthat developed or deployed AI systems to regularly incorporate\nadjudicated feedback from relevant AI actors into system design and\nimplementation.\nMap 5.2: Practices and personnel for supporting regular engagement\nwith relevant AI actors and integrating feedback about positive,\nnegative, and unanticipated impacts are in place and documented.\nMeasure 3.3: Feedback processes for end users and impacted\ncommunities to report problems and appeal system outcomes are\nestablished and integrated into AI system evaluation metrics.\nMeasure 4: Feedback about efficacy of measurement is gathered and\nassessed.\nManage 4: Risk treatments, including response and recovery, and\ncommunication plans for the identified and measured AI risks are\ndocumented and monitored regularly."
+  }
+]

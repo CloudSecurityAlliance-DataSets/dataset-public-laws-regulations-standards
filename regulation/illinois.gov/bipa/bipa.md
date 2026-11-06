@@ -55,8 +55,8 @@ Go to Previous Versions of this Act
   3. [2023 Illinois Comp. Stat.](/codes/illinois/2023/chapter-740/act-740-ilcs-14/)
   4. [View All Versions](/illinois/)
 
-# 2025 Illinois Compiled Statutes  
-Chapter 740 - CIVIL LIABILITIES  
+# 2025 Illinois Compiled Statutes
+### Chapter 740 - CIVIL LIABILITIES
 740 ILCS 14/ - Biometric Information Privacy Act.
 
 **[ Previous ](/codes/illinois/chapter-740/act-740-ilcs-13/) ** **[ Next
@@ -64,14 +64,14 @@ Chapter 740 - CIVIL LIABILITIES
 
 (740 ILCS 14/1)
 
-Sec. 1. Short title. This Act may be cited as the Biometric Information
+#### Sec. 1. Short title. This Act may be cited as the Biometric Information
 Privacy Act.
 
 (Source: P.A. 95-994, eff. 10-3-08.)
 
 (740 ILCS 14/5)
 
-Sec. 5. Legislative findings; intent. The General Assembly finds all of the
+#### Sec. 5. Legislative findings; intent. The General Assembly finds all of the
 following:
 
 (a) The use of biometrics is growing in the business and security screening
@@ -108,7 +108,7 @@ of biometric identifiers and information.
 
 (740 ILCS 14/10)
 
-Sec. 10. Definitions. In this Act:
+#### Sec. 10. Definitions. In this Act:
 
 "Biometric identifier" means a retina or iris scan, fingerprint, voiceprint,
 or scan of hand or face geometry. Biometric identifiers do not include writing
@@ -160,7 +160,7 @@ employment.
 
 (740 ILCS 14/15)
 
-Sec. 15. Retention; collection; disclosure; destruction.
+#### Sec. 15. Retention; collection; disclosure; destruction.
 
 (a) A private entity in possession of biometric identifiers or biometric
 information must develop a written policy, made available to the public,
@@ -198,13 +198,13 @@ customer's biometric identifier or biometric information unless:
 information shall:
 
   * (1) store, transmit, and protect from disclosure all biometric identifiers and biometric information using the reasonable standard of care within the private entity's industry; and
-  * (2) store, transmit, and protect from disclosure all biometric identifiers and biometric information in a manner that is the same as or more protective than the manner in which the private entity stores, transmits, and protects other confidential and sensitive information. 
+  * (2) store, transmit, and protect from disclosure all biometric identifiers and biometric information in a manner that is the same as or more protective than the manner in which the private entity stores, transmits, and protects other confidential and sensitive information.
 
 (Source: P.A. 95-994, eff. 10-3-08.)
 
 (740 ILCS 14/20)
 
-Sec. 20. Right of action.
+#### Sec. 20. Right of action.
 
 (a) Any person aggrieved by a violation of this Act shall have a right of
 action in a State circuit court or as a supplemental claim in federal district
@@ -229,7 +229,7 @@ more than one instance, discloses, rediscloses, or otherwise disseminates the
 same biometric identifier or biometric information from the same person to the
 same recipient using the same method of collection in violation of subsection
 (d) of Section 15 has committed a single violation of subsection (d) of
-Section 15 for which the aggrieved person is entitled to, at most, one
+#### Section 15 for which the aggrieved person is entitled to, at most, one
 recovery under this Section regardless of the number of times the private
 entity disclosed, redisclosed, or otherwise disseminated the same biometric
 identifier or biometric information of the same person to the same recipient.
@@ -238,7 +238,7 @@ identifier or biometric information of the same person to the same recipient.
 
 (740 ILCS 14/25)
 
-Sec. 25. Construction.
+#### Sec. 25. Construction.
 
 (a) Nothing in this Act shall be construed to impact the admission or
 discovery of biometric identifiers and biometric information in any action of
@@ -250,7 +250,7 @@ of 1996 and the rules promulgated under either Act.
 
 (c) Nothing in this Act shall be deemed to apply in any manner to a financial
 institution or an affiliate of a financial institution that is subject to
-Title V of the federal Gramm-Leach-Bliley Act of 1999 and the rules
+### Title V of the federal Gramm-Leach-Bliley Act of 1999 and the rules
 promulgated thereunder.
 
 (d) Nothing in this Act shall be construed to conflict with the Private
@@ -265,13 +265,13 @@ working for that State agency or local unit of government.
 
 (740 ILCS 14/30)
 
-Sec. 30. (Repealed).
+#### Sec. 30. (Repealed).
 
 (Source: P.A. 95-994, eff. 10-3-08. Repealed internally, eff. 1-1-09.)
 
 (740 ILCS 14/99)
 
-Sec. 99. Effective date. This Act takes effect upon becoming law.
+#### Sec. 99. Effective date. This Act takes effect upon becoming law.
 
 (Source: P.A. 95-994, eff. 10-3-08.)
 
@@ -298,7 +298,7 @@ cle-
 credit-a.svg)](https://connect.justia.com/webinars?utm_source=law&utm_medium=web&utm_campaign=cle-
 webinar-center&utm_content=tile-banner-need-cle-credit-v1)
 
-**Free Daily Summaries in Your Inbox**
+## Free Daily Summaries in Your Inbox
 
 You're all set! You already receive all suggested Justia Opinion Summary
 Newsletters. You can explore additional available newsletters
@@ -306,7 +306,7 @@ Newsletters. You can explore additional available newsletters
 
 Sign up for our free summaries and get the latest delivered directly to you.
 
-**Our Suggestions:**
+## Our Suggestions:
 
 Enter Your Email
 
@@ -318,7 +318,7 @@ Discover the latest legal insights from our experts.
 
 [See All Webinars](https://connect.justia.com/webinars)
 
-[Ask a Lawyer  
+[Ask a Lawyer
 Get Free Answers](https://answers.justia.com/)
 
 Have a legal question? Get free answers from experienced lawyers!
@@ -332,7 +332,7 @@ listings)** Get a free directory profile listing
 
 [ Toggle button ](#)
 
-**Get free summaries of new opinions delivered to your inbox!**
+## Get free summaries of new opinions delivered to your inbox!
 
 Enter Your Email
 
@@ -459,4 +459,3 @@ Connect](https://connect.justia.com/) [Legal Portal](https://www.justia.com/)
 [Terms of Service](https://www.justia.com/terms-of-service/) [Privacy
 Policy](https://www.justia.com/privacy-policy/) [Marketing
 Solutions](https://www.justia.com/marketing/)
-
