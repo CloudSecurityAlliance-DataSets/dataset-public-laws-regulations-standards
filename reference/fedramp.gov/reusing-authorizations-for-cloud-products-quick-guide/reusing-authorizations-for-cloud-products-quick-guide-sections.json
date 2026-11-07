@@ -1,0 +1,34 @@
+[
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "visit the fedramp marketplace STEP 1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "- Review the FedRAMP Marketplace to determine if a Cloud Service Offering (CSO) is FedRAMP Authorized.\n- · If the CSO is FedRAMP Authorized, there will be an associated security package that is available for agency review.\n- Complete and sign the FedRAMP Package Access Request Form and associated Non-Disclosure Agreement.\n\nHELPFUL HINT: One form may be completed even if you are requesting access to multiple cloud products and associated package IDs.\n\n- Send the completed FedRAMP Package Access Request Form to package-access@fedramp.gov.\nHELPFUL HINT: Access to the security package will be valid for 60 days. Agencies may email the FedRAMP PMO (package-access@fedramp.gov) and request additional 30-day access increments."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "STEP 2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "CONDUCT PACKAGE REVIEW AND RISK ANALYSIS",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "- Review the security materials and continuous monitoring deliverables.\nHELPFUL HINT: There is an executive summary within the repository for every Agency Authorized CSO.\n\nHELPFUL HINT: Be sure to review the Customer Implementation Summary (CIS) and Customer Responsibility Matrix (CRM) to understand how to implement customer responsibilities.\n\n- Determine if the CSP needs to meet additional security requirements due to agency data types/mission/business needs.\n\t- ISSUE AUTHORITY TO OPERATE STEP 3 (ATO) AND SEND AGENCY ATO LETTERS TO FEDRAMP PMO (ATO-LETTER@FEDRAMP.GOV)\n- Follow your agency-defined process in issuing an Authority to Operate (ATO).\n\nNOTE: OMB Circular A-130 requires agencies to individually authorize operation of an information system and to explicitly accept the risk.\n\n- Submit a copy of the signed ATO letter to the FedRAMP PMO (ato-letter@fedramp.gov) to be granted permanent access to the repository.\nHELPFUL HINT: Once the agency has sent the signed ATO letter(s) to ato-letter@fedramp.gov, agency users will be granted permanent access to the security package for conducting ongoing, continuous monitoring for authorized services.\n\nSTEP 4"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "PERFORM CONTINUOUS MONITORING",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "- Review monthly continuous monitoring deliverables that are provided by the CSP.\nHELPFUL HINT: Establishing multi-agency continuous monitoring collaboration groups is highly recommended and can help agencies distribute the workload. Learn more about this in our Guide for Managing Multi-Agency Continuous Monitoring.\n\n![](_page_0_Picture_26.jpeg)"
+  }
+]

@@ -16,7 +16,7 @@ FedRAMP® Moderate Readiness Assessment Report (RAR) Template
 
 <a id="Date"></a><MM/DD/YYYY>
 
-**Company Sensitive and Proprietary  
+**Company Sensitive and Proprietary
 For Authorized Use Only**
 
 \_\_IMPORTANT: \_\_This FedRAMP Readiness Assessment Report (RAR) template is intended for systems categorized at the \_\_Moderate \_\_security impact level, in accordance with the Federal Information Processing Standards (FIPS) Publication 199 security categorization. A RAR template for High systems is available on the FedRAMP website.
@@ -63,19 +63,19 @@ Delete instruction text after completion.
 
 System Information
 
-**CSP Name:**
+## CSP Name:
 
-**CSO Name (and Abbreviation):**
+## CSO Name (and Abbreviation):
 
-**FedRAMP Unique Identifier:**
+## FedRAMP Unique Identifier:
 
-**Service Model: **
+## Service Model:
 
 (IaaS, PaaS, SaaS)
 
-**FIPS PUB 199 System Security Level: (Moderate)**
+## FIPS PUB 199 System Security Level: (Moderate)
 
-**Digital Identity Determination Level:**
+## Digital Identity Determination Level:
 
 (IAL2/FAL2/AAL2, IAL3/FAL3/AAL3)
 
@@ -83,15 +83,15 @@ System Information
 
 Enter the date the system became fully operational.
 
-**Number of Customers (US Federal/Others):**
+## Number of Customers (US Federal/Others):
 
 Enter \# of US Federal customers / \# of other customers.
 
-**Deployment Model:**
+## Deployment Model:
 
 Public Cloud, Government-Only Cloud, Hybrid Cloud
 
-**System Functionality:**
+## System Functionality:
 
 Briefly describe the functionality of the system and service being provided.
 
@@ -101,13 +101,13 @@ Briefly describe the functionality of the system and service being provided.
 
 TEMPLATE REVISION HISTORY
 
-**Date**
+## Date
 
-**Description**
+## Description
 
-**Template Version**
+## Template Version
 
-**Author**
+## Author
 
 04/26/2017
 
@@ -660,7 +660,7 @@ Cryptographic Module Type
 
 FIPS 140-validated?
 
-Describe Any Alternative Implementations  
+Describe Any Alternative Implementations
 (If Applicable)
 
 Describe Missing Elements or N/A Justification
@@ -1035,7 +1035,7 @@ Delete instruction text after completion.
 
 <a id="_37m2jsg"></a>*Table 4-9. Missing Policy and Procedure Elements*
 
-**Missing Policy and Procedure Elements**
+## Missing Policy and Procedure Elements
 
 ***Instructions: ***
 

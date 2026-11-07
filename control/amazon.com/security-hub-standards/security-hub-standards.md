@@ -70,7 +70,7 @@ across multiple accounts and Regions.
   * [Disabling a standard](./disable-standards.html)
 
 ![Warning](https://d1ge0kk1l5kms0.cloudfront.net/images/G/01/webservices/console/warning.png)
-**Javascript is disabled or is unavailable in your browser.**
+## Javascript is disabled or is unavailable in your browser.
 
 To use the Amazon Web Services Documentation, Javascript must be enabled.
 Please refer to your browser's Help pages for instructions.
@@ -94,4 +94,3 @@ Thanks for letting us know this page needs work. We're sorry we let you down.
 
 If you've got a moment, please tell us how we can make the documentation
 better.
-

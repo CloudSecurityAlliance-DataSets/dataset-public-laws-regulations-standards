@@ -1,0 +1,74 @@
+[
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "Security Controls Framework",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "The controls framework is the blueprint for how a company protects its",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "data and infrastructure.\n\nView the Full Controls Framework\n\n![](assets/chevron_right.svg)\n\nView the Framework Based on Your Role\n\n![](assets/chevron_right.svg)\n\nView the Framework by Domain\n\n![](assets/chevron_right.svg)\n\nView Compliance Framework Mappings\n\n![](assets/chevron_right.svg)"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Structure",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Five core capabilities - cybersecurity, privacy, fraud prevention, crisis\nmanagement, and physical security - are represented in these unified controls\nframework.\n\nThe NIST CSF version 1.1 and NIST PF were selected as the foundation for the\nsecurity controls framework because it supports a comprehensive, defense-in-\ndepth approach to security and privacy. Its flexible, risk-based structure can\nalso be tailored to meet a company's specific needs.\n\nThis framework enables an organization to:"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Identify",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Find risks and determine the severity"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Protect",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Ensure your assets are prepared for potential attackers"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Detect",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Discover vulnerabilities within your system"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Respond",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "When a vulnerability is found, act on it"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Recover",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Assess what happened to help prevent future incidents"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "How to Use the Controls Framework",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "**1.**\n\n**Select the Controls and Technical Requirements that work best for your\norganization.** Keep in mind that the Controls and Technical Requirements\nshould be tailored to represent the current point in time of your organization\nand not be inspirational.\n\n\n\n**2.**\n\n**Customize the Technical Requirements.** Partner with your Security or\nTechnology team to fill in the \"[INSERT] sections\" for certain technical\nrequirements.\n\n\n\n**3.**\n\n**Establish governance processes to ensure you are following the controls.**\nRemember, a governance process should result in escalations if what is\nprescribed is not met.\n\n\n\n**4.**\n\n**Keep the Controls and Technical Requirements up-to-date.** Your organization\nshould establish a cadence for reviewing and updating to reflect the ongoing\nmaturity of your organization.\n\n[Click here](https://github.com/Equifax-Public/SecurityControlsFramework) to\nview the framework on GitHub, where you can provide feedback and ask\nquestions.\n\n**Security Controls Framework** powered by\n\n![logo](assets/efxlogo-white.png)"
+  }
+]

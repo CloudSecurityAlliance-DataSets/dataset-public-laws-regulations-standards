@@ -56,14 +56,14 @@ There Is a Newer Version of this Chapter
 
 [ View Our Newest Version Here  ](/codes/nevada/chapter-603a/)
 
-# 2023 Nevada Revised Statutes  
-Chapter 603A - Security and Privacy of Personal Information
+# 2023 Nevada Revised Statutes
+### Chapter 603A - Security and Privacy of Personal Information
 
 **[ Previous ](/codes/nevada/2023/chapter-603/) ** **[ Next
 ](/codes/nevada/2023/chapter-604a/) **
 
-**SECURITY OF INFORMATION MAINTAINED BY DATA COLLECTORS AND OTHER BUSINESSES  
-  
+**SECURITY OF INFORMATION MAINTAINED BY DATA COLLECTORS AND OTHER BUSINESSES
+
 General Provisions**
 
   * [NRS 603A.010 - Definitions.](/codes/nevada/2023/chapter-603a/statute-603a-010/)
@@ -72,7 +72,7 @@ General Provisions**
   * [NRS 603A.040 - "Personal information" defined.](/codes/nevada/2023/chapter-603a/statute-603a-040/)
   * [NRS 603A.100 - Applicability; waiver of provisions prohibited.](/codes/nevada/2023/chapter-603a/statute-603a-100/)
 
-**Regulation of Business Practices**
+## Regulation of Business Practices
 
   * [NRS 603A.200 - Destruction of certain records.](/codes/nevada/2023/chapter-603a/statute-603a-200/)
   * [NRS 603A.210 - Security measures.](/codes/nevada/2023/chapter-603a/statute-603a-210/)
@@ -98,15 +98,15 @@ General Provisions**
   * [NRS 603A.545 - Discrimination prohibited. [Effective March 31, 2024.]](/codes/nevada/2023/chapter-603a/statute-603a-545/)
   * [NRS 603A.550 - Violation constitutes deceptive trade practice; no private right of action; other provisions of law unimpaired. [Effective March 31, 2024.]](/codes/nevada/2023/chapter-603a/statute-603a-550/)
 
-**Remedies and Penalties**
+## Remedies and Penalties
 
   * [NRS 603A.260 - Violation constitutes deceptive trade practice.](/codes/nevada/2023/chapter-603a/statute-603a-260/)
   * [NRS 603A.270 - Civil action.](/codes/nevada/2023/chapter-603a/statute-603a-270/)
   * [NRS 603A.280 - Restitution.](/codes/nevada/2023/chapter-603a/statute-603a-280/)
   * [NRS 603A.290 - Injunction.](/codes/nevada/2023/chapter-603a/statute-603a-290/)
 
-**NOTICE REGARDING PRIVACY OF INFORMATION COLLECTED ON INTERNET FROM CONSUMERS  
-  
+**NOTICE REGARDING PRIVACY OF INFORMATION COLLECTED ON INTERNET FROM CONSUMERS
+
 General Provisions**
 
   * [NRS 603A.300 - Definitions.](/codes/nevada/2023/chapter-603a/statute-603a-300/)
@@ -119,13 +119,13 @@ General Provisions**
   * [NRS 603A.337 - "Verified request" defined.](/codes/nevada/2023/chapter-603a/statute-603a-337/)
   * [NRS 603A.338 - Applicability of provisions. [Effective through March 30, 2024.] Applicability of provisions. [Effective March 31, 2024.]](/codes/nevada/2023/chapter-603a/statute-603a-338/)
 
-**Unlawful Acts, Penalties and Remedies**
+## Unlawful Acts, Penalties and Remedies
 
   * [NRS 603A.350 - Unlawful acts.](/codes/nevada/2023/chapter-603a/statute-603a-350/)
   * [NRS 603A.360 - Enforcement by Attorney General; civil penalty for violation or injunction; no private right of action against operator; provisions not exclusive.](/codes/nevada/2023/chapter-603a/statute-603a-360/)
 
-**SECURITY AND PRIVACY OF CONSUMER HEALTH DATA  
-  
+**SECURITY AND PRIVACY OF CONSUMER HEALTH DATA
+
 General Provisions**
 
   * [NRS 603A.400 - Definitions. [Effective March 31, 2024.]](/codes/nevada/2023/chapter-603a/statute-603a-400/)
@@ -164,7 +164,7 @@ would-cost-1.5x-a.jpg)](https://www.justia.com/marketing/elevate/price-
 calculator/?utm_source=law&utm_medium=web&utm_campaign=elevate-what-would-
 cost-with-justia&utm_content=banner-sidebar-what-would-cost-with-justia-v2)
 
-**Free Daily Summaries in Your Inbox**
+## Free Daily Summaries in Your Inbox
 
 You're all set! You already receive all suggested Justia Opinion Summary
 Newsletters. You can explore additional available newsletters
@@ -172,7 +172,7 @@ Newsletters. You can explore additional available newsletters
 
 Sign up for our free summaries and get the latest delivered directly to you.
 
-**Our Suggestions:**
+## Our Suggestions:
 
 Enter Your Email
 
@@ -184,7 +184,7 @@ Discover the latest legal insights from our experts.
 
 [See All Webinars](https://connect.justia.com/webinars)
 
-[Ask a Lawyer  
+[Ask a Lawyer
 Get Free Answers](https://answers.justia.com/)
 
 Have a legal question? Get free answers from experienced lawyers!
@@ -199,7 +199,7 @@ listings)** Get a free directory profile listing
 
 [ Toggle button ](#)
 
-**Get free summaries of new opinions delivered to your inbox!**
+## Get free summaries of new opinions delivered to your inbox!
 
 Enter Your Email
 
@@ -326,4 +326,3 @@ Connect](https://connect.justia.com/) [Legal Portal](https://www.justia.com/)
 [Terms of Service](https://www.justia.com/terms-of-service/) [Privacy
 Policy](https://www.justia.com/privacy-policy/) [Marketing
 Solutions](https://www.justia.com/marketing/)
-

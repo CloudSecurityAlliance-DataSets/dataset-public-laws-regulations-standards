@@ -1,0 +1,242 @@
+[
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "About this document",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "This document provides guidance and requirements for making significant changes to a Cloud Service Offering (CSO) in support of maintaining a Federal Risk and Authorization Management Program (FedRAMP) Authorization to Operate (ATO) or Provisional Authorization to Operate (P-ATO).\n\nThis document is not a FedRAMP template – there is nothing to fill out in this document.\n\nThis document uses the term authorizing official (AO). For systems with a Joint Authorization Board (JAB) P-ATO, AO refers primarily to the JAB unless this document explicitly says Agency AO. For systems with a FedRAMP Agency authorization to operate (ATO), AO refers to each leveraging Agency’s AO."
+  },
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "Who should use this document?",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "This document is intended to be used by Cloud Service Providers (CSPs), Third Party Assessor Organizations (3PAOs), government contractors working on FedRAMP projects, and government employees working on FedRAMP projects."
+  },
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "How to contact us",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Questions about FedRAMP or this document may be directed to [*info@fedramp.gov*](mailto:info@fedramp.gov)*. *\n\nFor more information about FedRAMP, visit the website at <https://www.fedramp.gov>.\n\nTABLE OF CONTENTS\n\n[About this document ii](#_Toc522716255)\n\n[Who should use this document? ii](#_Toc522716256)\n\n[How to contact us ii](#_Toc522716257)\n\n[1. Introduction 1](#_Toc522716258)\n\n[1.1. Purpose 1](#_Toc522716259)\n\n[1.2. Scope 1](#_Toc522716260)\n\n[1.3. Roles and Responsibilities 1](#_Toc522716261)\n\n[1.4. Compliance 3](#_Toc522716262)\n\n[2. Determining Significant and Minor Changes 3](#_Toc522716263)\n\n[2.1. Changes Likely Considered Significant or Major 3](#_Toc522716264)\n\n[2.2. Special Requirements for Specific Types of Significant Changes 4](#_Toc522716265)\n\n[2.2.1. New Technology 4](#_Toc522716266)\n\n[2.2.2. New Cloud Service Offering or Feature 5](#_Toc522716267)\n\n[2.2.3. Moderate to High FIPS 199 Categorization Change 6](#_Toc522716268)\n\n[2.2.4. New Code Release 7](#_Toc522716269)\n\n[3. Change Documentation Requirements 7](#_Toc522716270)\n\n[3.1. General 7](#_Toc522716271)\n\n[3.2. FedRAMP Significant Change Request Template 7](#_Toc522716272)\n\n[3.2.1. Security Impact Analysis 9](#_Toc522716273)\n\n[4. Significant Change Process 9](#_Toc522716274)\n\n[4.1. Significant Change Process 10](#_Toc522716275)\n\n[5. New Service or Feature On-boarding Process 11](#_Toc522716276)\n\n[5.1. New Cloud Services or Features On-boarding Process 11](#_Toc522716277)\n\n[6. Annual Assessments 12](#_Toc522716278)\n\n[6.1. Scheduling Significant Changes with Annual Assessments 12](#_Toc522716279)\n\n[6.2. New Cloud Service or Feature Offering 13](#_Toc522716280)\n\n[6.3. Assessment Reuse 13](#_Toc522716281)\n\n[Appendix A – Acronyms 14](#_Toc522716282)\n\n[Appendix B – SAP Minimum Controls Selections 15](#_Toc522716283)\n\n[Appendix C – New Cloud Service or Feature On-boarding 3PAO Attestation Template 16](#_Toc522716284)\n\n[Appendix D – CSP Services or Features Status Template 19](#_Toc522716285)\n\nList of Figures\n\n[Figure 4‑1. Significant Change Process 9](#_Toc522716286)\n\n[Figure 5‑1. New Service or Feature On-boarding Process 11](#_Toc522716287)\n\nList of Tables\n\n[Table 1‑1. Roles and Responsibilities 2](#_Toc522716288)\n\n[Table 2‑1. Changes Likely Considered Significant or Major 3](#_Toc522716289)\n\n[Table 2‑2. Comparison of Documentation Requirements 6](#_Toc522716290)\n\n[Table 3‑1. Significant Change Form Requirements 8](#_Toc522716291)"
+  },
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "Introduction",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "After a CSP obtains a FedRAMP ATO or P-ATO for its service offering, the next phase is the continuous monitoring (ConMon) of the system security controls. Continuous monitoring includes “documenting changes to the system or environment of operation, conducting security impact analyses of the associated changes, and reporting the security state of the system to appropriate organizational officials.”[[1]](#footnote-2)\n\nCSPs may need to make changes to their cloud services from time to time. FedRAMP may consider certain changes “significant.” A significant change is one that is likely to affect the security state of the information system[[2]](#footnote-3), a security state that formed the basis of the AO’s decision to issue the authorization to the cloud service. As one of the minimum requirements to ensure the cloud service authorization remains in good-standing, the P-ATO letter states that the “*CSP identifies and manages significant changes … in accordance with applicable Federal law, guidelines, and policies.”*\n\nFedRAMP complies with National Institute of Standards and Technology (NIST) standards and guidance. With respect to significant changes, it follows NIST Special Publication (SP) 800-37 and NIST SP 800-137.* *In accordance with these standards and guidance, additional program-specific guidance, requirements, and procedures are provided in this document to aide AOs, CSPs and 3PAOs when addressing significant changes."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Purpose",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "This publicly available document defines the FedRAMP policies and procedures for making significant changes. It provides requirements, guidance, and actions the FedRAMP PMO, AO, CSP, and 3PAO will take when a CSP wishes to make a significant change to its provisionally authorized cloud service."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Scope",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "This document specifically addresses significant changes of cloud services that were granted a FedRAMP P-ATO. It expands on Section 3.2 of FedRAMP Continuous Monitoring Strategy & Guide (Version 3.0, January 31, 2018). Agencies and CSPs with exclusively agency authorizations are welcome to use this guidance. In addition, this document addresses system changes that are considered significant or in the process of being confirmed as significant. Guidance on what types of changes may be considered significant is described in Section 2, Determining Significant and Minor Changes."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Roles and Responsibilities",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Table 1‑1 describes the roles and responsibilities of participants in the significant change process.\n\nTable 1‑1. Roles and Responsibilities\n\nRole\n\nResponsibility\n\nFedRAMP PMO\n\n**FedRAMP Director**\n\n- Issues and approves Corrective Action Plan (CAP), includes those related to significant changes\n- Monitors Performance Management Plan\n- Approves CAPs, Suspensions, and Revocations in coordination with the JAB reviewers\n\n**FedRAMP ConMon Manager**\n\n- As the primary ConMon process interface between the JAB and the PMO, provides recommendations and status updates, including those for significant changes, to the FedRAMP Director\n- Supports the JAB Reviewers as needed\n- Advises the JAB Reviewers on Escalation Actions\n\nAgency\n\n**Authorizing Official (AO)**\n\n- The approving authority for significant changes\n\nJAB Team\n\n**Joint Authorization Board (JAB)**\n\n- The AO for CSPs that have a JAB P-ATO\n- Composed of the CIOs of the Department of Defense (DOD), General Services Administration (GSA), and Department of Homeland Security (DHS)\n- The approving authority for significant changes\n\n**JAB Technical Reviewer (TR) Principal**\n\n- Principal Technical Reviewer for the JAB (one from DOD, GSA, and DHS)\n- Delegated approving authority (from JAB) for significant changes\n- Provides guidance and oversight of the significant change process\n- Effects Policy change relating to significant changes\n\n**JAB Technical Reviewer (TR) Lead**\n\n- One of three JAB TR Leads, one from DOD, GSA, and DHS\n- Delegated approving authority (from JAB TR Principal) for significant changes\n- Advises the JAB Reviewers and provides general oversight of all ConMon process areas, including significant changes\n\n**JAB Reviewers**\n\n- One of a team of three Technical Reviewers from either the DOD, GSA, or DHS\n- Serves as primary interface for ConMon activities, including significant changes, between JAB TR Principals, FedRAMP PMO, CSP and 3PAO\n- Notifies other JAB Reviewer Leads and FedRAMP PMO of Significant Change Request (SCR) submissions\n- Notifies CSP and 3PAO of due dates for comments, comment-responses and approval of comment responses\n- Reviews all SCRs and supporting documents within required timeframes\n- Makes risk-based recommendations related to significant changes\n- Provides required status updates to their JAB TR Lead\n- Provides routine status updates to the PMO\n- Consolidates SCR comments, where feasible\n\nCSP/3PAO\n\n**Cloud Service Provider (CSP)**\n\n- Maintains proper communication channels with the AO and 3PAO\n- Provides routine status updates related to significant changes\n- Submits significant change requests\n- Maintains a satisfactory Risk Management Program in accordance with FedRAMP guidelines\n\n**Third Party Assessment Organization (3PAO)**\n\n- Conducts security impact analysis\n- Performs independent security assessment of significant changes\n- Develops Security Assessment Plan (SAP) and Security Assessment Report (SAR) for significant change\n- Advises the CSP on significant change issues"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Compliance",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Significant change requests (SCR) must be submitted at least 30 days before they are implemented, to provide time for 3PAO assessment. CSPs should regularly inform AOs of upcoming changes to ensure significant changes are identified and addressed. The *Continuous Monitoring Performance Management Guide* defines the FedRAMP requirements for Continuous Monitoring Performance Management. The document is available on the FedRAMP web site at <https://www.fedramp.gov/documents/>. It explains the actions FedRAMP will take when a CSP fails to maintain an adequate risk management program, of which management of significant changes is a key aspect."
+  },
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "Determining Significant and Minor Changes",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "National Institute of Standards and Technology (NIST) Special Publication (SP) 800-37*, Revision 1, Guide for Applying the Risk Management Framework to Federal Information Systems: A Security Life Cycle Approach* (Appendix F, Section F.6, Page F-8) provides a general definition of what a significant change is and provides examples of what could be considered a significant change. A significant change is one that is likely to affect the security state of the information system.\n\nBecause the key role of the AO is to make risk-based decisions, they determine whether a change is deemed significant. Non-significant changes would be addressed by the CSP’s established Configuration Management Plan. Routine day-to-day changes (e.g. patching) would not be considered significant. If a change is “more of the same,” it is likely not significant in FedRAMP’s view."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Changes Likely Considered Significant or Major",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Table 2‑1 below is a list of changes that would likely be considered significant. However, this is not a comprehensive list. If after consulting this list and NIST 800-37 (Appendix F, Section F.6, Page F-8) the CSP is unsure, they should consult with their AO.\n\nTable 2‑1. Changes Likely Considered Significant or Major\n\nChanges Likely Considered Significant or Major\n\nNew Technology (New OS variant, including COTS and appliance, none of which currently exist in the environment)\n\nUse of new external services (e.g. ticketing system, monitoring system) in support of the cloud service\n\nNew Cloud Service Offering or Feature\n\nRemoval of system components or service offering\n\nFIPS 199 Categorization Change (e.g. Moderate to High)\n\nPaaS or SaaS changing IaaS Provider\n\nAdding/Removing security controls\n\nNew cryptographic modules or services or changes to existing modules/services\n\nChanging alternative (or compensating) security control(s)\n\nNew data center or moving to new facility\n\nNew interconnection or changes to existing\n\nScanning tool changes\n\nUpgrade of OS\n\nNew system monitoring capabilities or replacement of system monitoring capabilities\n\nNew Virtual Server(s)\n\nNew/upgrade of DBMS (MS SQL, Oracle, etc.)\n\nNew Code Release\n\nNew authentication mechanisms or changes to existing mechanisms\n\nNew boundary protection mechanisms or changes to existing mechanisms; changes to routing rules\n\nChange in cloud service ownership that would result in major changes (e.g. change to contingency planning or incident response processes/capabilities)\n\nChanged or updated backup mechanisms and processes\n\nMovement of information system data to a different system boundary"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Special Requirements for Specific Types of Significant Changes",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "New Technology",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "The requirements for significant changes, including the addition of new technology, are outlined in Section 3, Change Documentation Requirements, and Section 4, Significant Change Process. All components have, to varying degrees, access controls, audit logging controls, identification and authentication controls, configuration management controls, system integrity controls and so on. Controls can be implemented locally on the component or from a central mechanism that automatically applies and manages the controls on that component.\n\nNew technologies that are added to the boundary will have to be verified as compliant and/or integrated with the security controls applicable to the CSP environment.\n\nThe steps for providing the attestation and testing for the controls applicable to new technologies are as follows:\n\n- The 3PAO must document which controls that the new technology can integrate into within the current CSP environment. The 3PAO must verify that the new technology will integrate into these currently implemented security controls in the CSP environment. For example, if a new technology is integrating into the current account management controls, the 3PAO would verify that the integration will take place and the new technology will be inheriting and utilizing the current implementation. All controls that have been identified as being inherited by the new technology must be documented by the 3PAO in the New Technology minimum controls selection list (see Appendix B SAP Minimum Controls Selections).\n- For the remaining controls where the implementation for the new technology does not match what was implemented and tested in the current CSP environment the 3PAO must provide testing and or explanation for non-applicability in the New Technology minimum controls selection list (see Appendix B SAP Minimum Controls Selections).\n\nThe 3PAO must take all non-applicable controls for the new technology integration and provide a write-up as to why the controls are not applicable to the new technology’s implementation. Additionally, the 3PAO must document the remaining controls where the implementation of the security controls for the new technology is not in the current CSP implementation for the environment, and are to be tested. These two lists (see New Technology in see Appendix B SAP Minimum Controls Selections) along with the scope of controls for attestation, must be submitted with the SCR for approval prior to testing."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "New Cloud Service Offering or Feature",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Eligible cloud services or features may go through the FedRAMP New Cloud Service or Feature On-boarding process (as outlined in Section 5), a specialized process that differs from the standard FedRAMP significant change process that is outlined in Sections 3 and 4 below. This on-boarding process is intended to expedite authorization of new services or features, but requires a significant upfront investment. It is intended for offerings with a significant number of planned new services or features (for example, an offering that adds two to three new services or features every month). It is not recommended for cloud service offerings that add only a few services or features annually.\n\nIf the new services or features are found to be ineligible, either initially or after going through the evaluation period, they must go through the standard FedRAMP significant change process. Even if the services or features are eligible, the CSP may opt to submit them through the standard significant change process. The following are the criteria to qualify for the New Cloud Service or Feature On-boarding process:\n\n- The new service or feature has no impact on existing and already-authorized architecture and controls (these will remain static).\n- The new service or feature does not require service-specific or feature-specific controls to be added. All NIST SP 800-53 security controls required for the new services or features are in the existing (and already authorized) architecture and security controls.\n- The CSP Configuration Management (CM) and System Development Lifecycle (SDLC) capabilities are mature and ensure no impact on existing architecture and controls (these will remain static) as new services or features are on-boarded.\n- Continuous Monitoring (ConMon) activities remain un-affected and compliant as new services or features are on-boarded.\n\nFedRAMP requires that CSPs, desiring to use the FedRAMP New Cloud Service or Feature on-boarding process, undergo an evaluation period before being approved to use this process for future on-boarding requests of specified cloud services and features. Table 2‑2 below illustrates the difference in documentation requirements. “FedRAMP New Cloud Service Offering (CSO) or Feature On-boarding Request Template” is used to provide the necessary information for the AO to make a risk-based decision regarding A CSP’s eligibility to use the FedRAMP New Cloud Service or Feature On-boarding process for specified services and features. That template is available in the templates area of FedRAMP.gov (currently https://www.fedramp.gov/templates/).\n\nThe AO may request that the CSP/3PAO perform activities, provide information (documentation; briefings etc.) that promote understanding and provide assurance that the criteria/qualifications have been met for the current service/feature and for future service/feature requests.\n\nOnce certain types of services or features are approved to use the New Cloud Service or Feature on-boarding process, only a 3PAO attestation is required for subsequent on-boarding requests of service and features of those types. The 3PAO uses its expert judgment to subjectively evaluate the overall compliance of the new service or feature and attests to its readiness for inclusion into the existing system P-ATO boundary and factor this evaluation into its attestation*.* The template text for the 3PAO attestation letter is located in Appendix C New Cloud Service or Feature On-boarding 3PAO Attestation Template.\n\nApproved services or features must be documented and maintained within the CSP authorization package. The template to document the status of services/features is in Appendix D CSP Services or Features Status Template.\n\nTable 2‑2. Comparison of Documentation Requirements\n\nChange Type\n\nSC-REQUEST\n\nSC-REPORT\n\n**General**\n\n**SAP**\n\n**SAR**\n\n**New Cloud Service Offering (CSO) or Feature for a CSP not yet approved to use the FedRAMP New Cloud Service or Feature On-boarding process**\n\nFedRAMP New Cloud Service Offering (CSO) or Feature On-boarding Request Template\n\n**New Cloud Service Offering (CSO) or Feature for a CSP approved to use the FedRAMP New Cloud Service or Feature On-boarding process.**\n\nAppendix C New Cloud Service or Feature On-boarding 3PAO Attestation Template\n\nAppendix D CSP Services or Features Status Template\n\n**All Others**\n\nFedRAMP Significant Change Form Template\n\nFedRAMP Annual Security Assessment Plan (SAP) Template\n\nMinimum Controls Selection if available: Appendix B SAP Minimum Controls Selections\n\nFedRAMP Annual Security Assessment Report (SAR) Template"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Moderate to High FIPS 199 Categorization Change",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "The process for significant changes, including a change to the FIPs 199 categorization from Moderate to High, is outlined in Sections 3 and 4 below. In addition to the FedRAMP Significant Change Form Template, the CSP must submit a “FedRAMP High Readiness Assessment Report (RAR).” Both the form and RAR templates are available in the templates area of FedRAMP.gov (currently https://www.fedramp.gov/templates/).\n\nThe FedRAMP High RAR Template and its underlying assessment are intended to enable FedRAMP to reach a decision for a specific CSP’s system based on organizational processes and the security capabilities of the system. FedRAMP grants approval to proceed with the significant change process when the information in this report template indicates the CSP is likely to achieve an authorization (P-ATO or ATO) at the high baseline."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "New Code Release",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Every new code release is not automatically considered a significant change. The CSP must perform a security impact analysis (SIA), in compliance with FedRAMP control CM-4, on every new code release, including the analysis required by the FedRAMP SA-11 controls (the base control and enhancements). Therefore, if an SIA shows that the new code release will adversely affect the system’s security posture, the new code release must be treated as a significant change."
+  },
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "Change Documentation Requirements",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "General",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "The CSP must submit the FedRAMP Significant Change Request Template for all significant changes, with one exception: if a CSP is requesting a new service or feature and also wants to optionally use the FedRAMP New Cloud Services or Features On-boarding process (See Section 2.2.2). Additional documentation may be required based on specific types of changes. These are noted in Section 2.2, Special Requirements for Specific Types of Significant Changes. The FedRAMP Significant Change Request Template was developed to capture the type(s) of system changes requested and the supporting details surrounding requested system changes. It can be used to request a significant change within an existing authorization. It is recommended that the form be used even prior to a formal significant change request, to facilitate discussion and expedite the decision-making process.\n\n*All templates listed below are available at FedRAMP.gov *[*https://www.fedramp.gov/templates/*](https://www.fedramp.gov/templates/)*.*"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "FedRAMP Significant Change Request Template",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "The following information in Table 3-1 must be included in the FedRAMP Significant Change Template (SC-REQUEST) to facilitate understanding of the change and its security impacts:\n\nTable 3‑1. Significant Change Form Requirements\n\nSCR field\n\nIncluded Information\n\n**CSP Contact Information**\n\nCSP Name\n\nFedRAMP Authorized service being changed\n\nCSP System Owner\n\nPrimary CSP POC for change request\n\n**System Information**\n\nType of System (IaaS, PaaS, SaaS)\n\nDescription of service\n\nList all current and/or pending Federal customers\n\n**3PAO Information**\n\n3PAO Name\n\n3PAO POC for change request\n\nIf the 3PAO is under contract to assess the change\n\nIf the SAP is attached\n\n**Nature of Change**\n\n**Change Details**\n\nNarrative detailing the background and a description of the change\n\n**Type of Change**\n\nCheck all that apply\n\n**System Components Impacted**\n\nSystem diagrams showing before and after state of the system\n\nFor replacement of existing functionality, an “apples to apples” comparison demonstrating how the new implementation will continue to comply (meet or exceed) the same security requirements, standards, and functionality as the previous implementation\n\n**Security Controls Impacted**\n\nSecurity requirements that the new implementation will now support where there was not previously full support\n\nAn explanation for each technical, operational, and management control implementation that must change in support of the new implementation, including but not limited to ports/protocols, routing, contingency planning/testing, and incident response planning/testing\n\n**Status of Change**\n\nA description of how the CSP will implement the change, for 3PAO assessment, in such a way that:\n\nIt is not fully operational, yet enables the most accurate determination of security state (as if fully operational) to be reported\n\nIt minimizes the impact to the existing operational environment\n\n**Validation**\n\n3PAO Security Assessment Plan (SAP) is included as an attachment to the FedRAMP SC-REQUEST and must include Appendix B SAP Minimum Controls Selections (if available)\n\n**Demand/Justification**\n\nExamples of how a CSP could provide include (but are not limited to):\n\nGovernment RFIs, RFQs, and pending awards\n\nIndustry recognition (for example being in the Gartner Magic Quadrant)\n\nBusiness capture plan provided by CSP grounded by agency needs and spending\n\nUse by State, Local, Tribal, or Territorial Governments\n\n**CSP Signature**\n\n**Attachment A, Part 1**\n\n**(Only required for Mod**\n\n__ to High change)__\n\nList of all additional controls that do not exist in the Moderate baseline but must be addressed as part of the High baseline\n\n**Attachment A, Part 2**\n\nList of controls that exist in both the Moderate and High baselines; however, the FedRAMP prescribed parameter is different in the High baseline. When transitioning from Moderate to High, the CSP must update these parameters appropriately in their System Security Plan (SSP). The revised parameter changes the control requirement. The CSP must also revise the control implementation within the system, and the control description within the SSP to align with the new parameter."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Security Impact Analysis",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "The full SIA is effectively the combination of the CSP’s SIA provided in/with the significant change form plus the 3PAO SIA reflected in the SAP and 3PAO SIA reflected in the SAR. The SAP reflects 3PAO’s SIA, with respect to controls selection, general scope, and assessment activities. The SAR reflects 3PAO’s SIA, with respect to assessment results. The CSP may involve the 3PAO at any stage of the SIA process."
+  },
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "Significant Change Process",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Figure 4‑1 is an end-to-end diagram of the FedRAMP Significant Change Process which details the interaction between the AO, FedRAMP PMO, and CSP/3PAO.\n\n![](images/image_812c9968-16b2-4190-baac-64ed7ad4639c.png)\n\nFigure 4‑1. Significant Change Process"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Significant Change Process",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "1.  CSP START: Continue Continuous Monitoring (ConMon) Process.\n2.  CSP: The CSP, in coordination with the JAB, initially determines if a system change to the existing cloud service is required. Additionally, the CSP and AO meet to discuss the system change, potential security impacts and any increases in risk posture to the current authorization from the CSP’s perspective. The CSP determines the scope and type of change (i.e., a minor change or a major/significant change - See Section 2, Determining Significant and Minor Changes). The CSP also provides an estimate of known and potential* *security changes, and the security impact associated with these changes. To facilitate discussion and expedite decision-making, it is recommended that the CSP submit draft significant change documentation using the templates referenced in Section 3.\n    1.  NO- System change is considered minor. A minor system change does not impact the CSP security posture and does not require additional security controls or assessments. Return to STEP 1 (CSP START) and conduct normal ConMon processes.\n    2.  YES – This is a major/significant system change. GO TO STEP 3\n3.  CSP: Begins to consult with the 3PAO. If a 3PAO is not on contract then the CSP must begin this process.\n    1.  If it is determined that a 3PAO is on contract, then the 3PAO begins.\n4.  CSP: If this is a new cloud service or feature, does the CSP want to go through the FedRAMP New Cloud Service or Feature on-boarding process? Note: The CSP is not required to go through the New Service or Feature on-boarding process.\n    1.  YES - GO TO New Service or Feature On-boarding Process\n    2.  NO - GO TO STEP 5\n5.  The 3PAO begins to assess the significant change.\n    1.  3PAO Review SCR and other relevant system security documentation\n    2.  Assess impact of proposed change on system functionality and security\n    3.  Identify and document assessment scope in SAP (See Appendix B SAP Minimum Controls Selections )\n    4.  Review scope and impact of proposed change with JAB and CSP\n6.  Once complete, the 3PAO and CSP submit all necessary change and assessment forms. This must be delivered 30 days prior to the significant change being implemented.\n7.  Once received, the JAB will review all documentation to ensure completeness and security impact. If additional information is required the JAB will reach back to the CSP.\n8.  The CSP will take the necessary steps to implement the change to allow for testing to occur, while also ensuring minimal security impact to the existing environment.\n9.  The 3PAO will then, 1) Conduct testing on change, 2) Develop SAR package and briefings, and 3) Brief SAR to JAB and TR representatives.\n10. The JAB will review the testing and SAR Package and determine if the change is acceptable. If not, then the CSP would be required to roll back to the previous version. If the change is accepted, then the CSP must update the POA&M with any conditions and all other documentation no later than the next Annual Assessment.\n11. The CSP continues with regular ConMon Operations."
+  },
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "New Service or Feature On-boarding Process",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Figure 5‑1 is an end-to-end diagram of the FedRAMP New Service or Feature On-boarding Process which details the interaction between the AO, FedRAMP PMO, and CSP/3PAO.\n\n![](images/image_cb21d505-724e-4440-a56b-64f5248fa603.png)\n\nFigure 5‑1. New Service or Feature On-boarding Process"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "New Cloud Services or Features On-boarding Process",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "1.  CSP Start: The CSP coordinates with the 3PAO for assessment of the new service/feature.\n2.  CSP: Did the CSP already undergo the required eligibility evaluation for services/features of this type/category and get approval from the JAB?\n    1.  YES – If yes, then only the attestation process is required. GO TO STEP 10.\n    2.  NO – If not, the CSP undergoes the evaluation to determine if services/features of this type/category can go through the New Cloud Services or Features On-boarding process. This involves a sample size of two of the same type/category of services or features, which are assessed in succession. GO TO STEP 3.\n3.  3PAO: Conducts eligibility evaluation.\n4.  3PAO: Does the SCR process need to be initiated?\n    1.  YES – If the 3PAO determines the qualification criteria is not met, at any time during the assessment, the 3PAO notifies the JAB and the CSP initiates the standard significant change process. GO TO “Significant Change Process” STEP 5.\n    2.  NO - CONTINUE TO STEP 5.\n5.  3PAO: Briefs JAB on results and submits report based on “FedRAMP New Cloud Service Offering (CSO) or Feature On-boarding Request Template,” available in the templates area of FedRAMP.gov (currently https://www.fedramp.gov/templates/).\n6.  JAB: Reviews and submits comments to 3PAO.\n7.  JAB: Does the service need to go through the standard FedRAMP significant change process?\n    1.  YES - During their review, the JAB may determine that the service/feature is not eligible for the new services/features on-boarding process and must go through the standard FedRAMP significant change process. GO TO “Significant Change Process” STEP 5\n    2.  NO – GO TO STEP 8\n8.  JAB: Is the current service/feature assessment package approved (may include conditions)?\n    1.  YES – GO TO STEP 11\n    2.  NO – GO TO STEP 9\n9.  CSP/3PAO: Addresses JAB comments and submits response, including any documentation updates, to JAB for review. CSP updates all relevant package documentation: The POA&M is updated with any conditions; The SSP is updated to reflect the new service/feature; “CSP Services or Features Status” is updated (See Appendix D – CSP Services or Features Status Template; etc.\n10. 3PAO: Assesses new service/feature and submits attestation (see Appendix C – New Cloud Service or Feature On-boarding 3PAO Attestation Template) for JAB review. GO TO STEP 8.\n11. CSP implements new service and continues with ConMon process."
+  },
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "Annual Assessments",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Scheduling Significant Changes with Annual Assessments",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Significant changes may be scheduled with the annual assessment (AA). The process and requirements follow those described in Section 3 and 4, except that the SAP will include the assessment plan for both the AA and the significant change. Similarly, the AA SAR will incorporate the results of the AA as well as the results for the significant change."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "New Cloud Service or Feature Offering",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "As part of the, new services or features on-boarding process, the 3PAO provides attestations for the status of certain security controls (See Section 2.2.2 New Cloud Service Offering or Feature). The status of attested controls must be validated by the 3PAO in the next scheduled annual assessment following the on-boarding of the service or feature. Evidence will need to be provided where the 3PAO previously provided an attestation."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Assessment Reuse",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Under certain conditions, controls assessment results from approved changes may be reused for the current annual assessment. The result is that a portion of a control may have been assessed as part of an approved significant change request so that the 3PAO must only assess the delta. These conditions for reuse of assessment results are the following:\n\n- The change occurred between the last and current annual assessments.\n- The change was approved by the AO.\n- The assessment results for reuse are only NIST 800-53 controls assessment results (not scans or pen test results etc).\n- The change documentation is not an attestation (See Section 2.2.2* *New Cloud Service Offering or Feature*)*.\n\nIf assessment results from an approved significant change were reused for the annual assessment, the approved SAR and supporting documentation for that significant change must be included and referenced as artifacts in the annual assessment package.\n\nAppendix A – Acronyms\n\nAcronym\n\nExpansion\n\n3PAO\n\nThird Party Assessment Organization\n\nAA\n\nAnnual Assessment\n\nAO\n\nAuthorizing Official\n\nATO\n\nAuthorization to Operate\n\nCAP\n\nCorrective Action Plan\n\nConMon\n\nContinuous Monitoring\n\nCSP\n\nCloud Service Provider\n\nDHS\n\nDepartment of Homeland Security\n\nDFR\n\nDetailed Finding Review\n\nDOD\n\nDepartment of Defense\n\nGSA\n\nGeneral Services Administration\n\nJAB\n\nJoint Authorization Board\n\nFedRAMP\n\nFederal Risk and Authorization Management Program\n\nFISMA\n\nFederal Information Systems Management Act\n\nNIST\n\nNational Institute of Standards and Technology\n\nP-ATO\n\nProvisional Authorization to Operate\n\nPOA&M\n\nPlan of Action and Milestones\n\nPMI\n\nPerformance Management Indicator\n\nPMO\n\nProgram Management Office\n\nRMF\n\nRisk Management Framework\n\nSAR\n\nSecurity Assessment Report\n\nSAP\n\nSecurity Assessment Plan\n\nSC\n\nSignificant Change\n\nSCR\n\nSignificant Change Request\n\nSC-REQUEST\n\nSignificant Change Request\n\nSC-REPORT\n\nSignificant Change Report\n\nSIA\n\nSecurity Impact Analysis\n\nSOP\n\nStandard Operating Procedure\n\nSSP\n\nSystem Security Plan"
+  },
+  {
+    "depth": 1,
+    "section_id": "Appendix B",
+    "section_name": "SAP Minimum Controls Selections",
+    "id_kind": "annex",
+    "parent_id": "",
+    "body": "The following are minimum controls selections for specific types of significant changes. The CSP and 3PAO must select all control lists that apply (multiple may apply). The CSP and 3PAO must evaluate the minimum control set and add any additional controls deemed necessary to fully assess for the change. The CSP and 3PAO must provide a rationale for not assessing a control in the minimum control set.\n\n*All templates listed below are available at FedRAMP.gov *[*https://www.fedramp.gov/templates/*](https://www.fedramp.gov/templates/)*.*\n\nChange Type\n\nGuidance\n\nFile\n\nModerate to High FIPS 199 Categorization Change\n\nThe control selection for this change is contained in the FedRAMP Significant Change Report Form Template, Appendix A.\n\nFedRAMP Significant Change Report Form Template\n\nNew Technology\n\nSee Section 2.2.1 New Technology for additional guidance.\n\nSecurity Controls for New Technology SC-R.xlsx\n\n![](images/image_4c355199-5ba6-4a7d-be0c-31cbce5f5061.x-emf)\n\nNew Interconnection\n\nNote: If new components that do not exist in the environment are being added as part of the new interconnection, the New Technology controls set above must be selected.\n\nSecurity Controls for New Interconnection SC-R.xlsx\n\n![](images/image_a2a367e5-e95a-469b-a4aa-416d708ebe8e.x-emf)\n\nNew Data Center\n\nNote: If new components that do not exist in the environment are being added as part of the new interconnection, the New Technology controls set above must be selected.\n\nSecurity Controls for Data Center SC-R.xlsx\n\n![](images/image_a2e1100f-23a0-43f9-96c3-e1403e8ac7e3.x-emf)"
+  },
+  {
+    "depth": 1,
+    "section_id": "Appendix C",
+    "section_name": "New Cloud Service or Feature On-boarding 3PAO Attestation Template",
+    "id_kind": "annex",
+    "parent_id": "",
+    "body": "Once certain types of services or features are approved to use the New Cloud Service or Feature on-boarding process, as described in section 2.2.2 New Cloud Service Offering or Feature, only a 3PAO attestation is required for subsequent on-boarding requests of service and features of those types. The template text for the 3PAO attestation letter is included below.\n\n**To:** Ashley Mahan\n\nActing Director of Federal Risk and Authorization Management Program (FedRAMP)\n\nUS General Services Administration\n\n**From:** <Name>\n\n<Title>\n\n<Organization>\n\n**Date:** <m/d/yyyy>\n\n**Subject:** Attestation Letter for <CSP> <Service/Feature Name>\n\n<Salutation>\n\nThis letter is provided as an attestation for the services/features listed below. They have been independently validated by \\<3PAO\\>, a third-party assessment organization (3PAO). The evaluation took place from <m/d/yyyy> through <m/d/yyyy>. \\<3PAO\\> validated that these services/features were on-boarded in accordance with the applicable JAB-approved on-boarding process documented in <document title> (<filename>).\n\nServices/Features:\n\n- <Service/Feature Name>\n- <Service/Feature Name>\n\nThe JAB-approved on-boarding process is both specific to the CSP and to the type or category of services/features the CSP offers, in this case <service type/category name or feature type/category name>. It ensures that the services/features are brought on to the <CSP System> environments using a standardized, streamlined, and repeatable process. These services/features are not required to go through the standard FedRAMP significant change request (SCR) process because they:\n\n1.  Have no impact on existing and already authorized architecture and controls (these will remain static)\n2.  Do not require service-specific or feature-specific controls to be added. All NIST SP 800-53 security controls required for the new services or features are in the existing and already authorized architecture and security controls.\n3.  The CSP Configuration Management (CM) and System Development Lifecycle (SDLC) capabilities are mature and ensure no impact on existing architecture and controls (these will remain static) as new services or features are onboarded.\n4.  Continuous Monitoring (ConMon) activities remain un-affected and compliant as new services or features are onboarded.\n\nFurther assessment and validation of these services/features will occur at the next Annual Assessment (due <m/d/yyyy>) through interviews, onsite review, scans, and penetration testing.\n\n**The Validation Process **\n\nThe validation process is accomplished through a combination of the following:\n\n1.  Conduct Interviews –\n    1.  Interviews are conducted to determine whether the services or features are successfully using the existing <CSP System> security controls.\n    2.  Interviews also provide additional details about the proposed services or features, and allow the 3PAO to request relevant data (e.g., scan information, inventory data, nature of access and authentication, surface exposure, encryption employed, etc.) that needs to be considered for the on-boarding.\n2.  Review Evidence –\n    1.  \\<3PAO\\> requests evidence to show that the services/features adhere to currently approved and assessed security controls (e.g., Security Training, Change Management, Incident Response, Anti-Malware, etc.) and has implemented these controls for the services/features. It is important to note that a review of <CSP System> security controls is conducted during each annual assessment, which typically includes manual, physical, and logical testing. The latest assessment test cases are still valid for periodicity of this review and have been leveraged to prevent unnecessary duplication of efforts.\n3.  Validate Vulnerability Scanning –\n    1.  \\<3PAO\\> reviews configurations (e.g., screenshots or other evidence) to confirm that vulnerability scanning capability has been set up for the service/feature.\n    2.  <CSP> is conducting scanning of the services/features prior to on-boarding and the scan data <is being/will be> provided to FedRAMP.\n    3.  \\<Add for high-impact systems: If initial scan results indicate any High-risk vulnerabilities, the CSP stops the affected services/features from being considered for on-boarding until the vulnerabilities are resolved by the service team.\\>\n4.  Review Physical and Environment Controls –\n    1.  \\<3PAO\\> validates that physical and environmental security measures are in place at all applicable data centers. The following are the dates and locations of datacenter walkthroughs:\n        1.  <m/d/yyyy> - <Datacenter Name>, \\<City, State\\>\n        2.  <m/d/yyyy> - <Datacenter Name>, \\<City, State\\>\n    2.  <CSP> implements standardized physical and environmental processes for all data centers, therefore, the data center visits noted above are a representation of the implementation expected across all data centers consisting of <CSP System> assets.\n5.  Leverage Penetration Testing –\n    1.  \\<3PAO\\> conducts penetration testing during annual assessments and if proposed additions are determined to be a major change or impact to the security posture of the system.\n    2.  All services/features, whether on-boarded during an annual assessment or during another cycle, are included in penetration testing annually.\n\n**Attestation **\n\nFor services/features specified in this letter, \\<3PAO\\> attests that <CSP> has demonstrated successful on-boarding, which did not require initiation of the standard FedRAMP SCR process and occurred in compliance with the appropriate JAB-approved on-boarding process documented in <document title> (<filename>).\n\n<Closing>\n\n<Signature>\n\n<Name>\n\n<Title>\n\n<Organization>"
+  },
+  {
+    "depth": 1,
+    "section_id": "Appendix D",
+    "section_name": "CSP Services or Features Status Template",
+    "id_kind": "annex",
+    "parent_id": "",
+    "body": "The following is the template to document the status of services or features within the CSP package.\n\n![](images/image_5804d135-49be-4b4d-aabf-ffb8b62b3d29.x-emf)\n\n1.   National Institute of Standards and Technology (NIST) Special Publication (SP) 800-37*, Revision 1, Guide for Applying the Risk Management Framework to Federal Information Systems: A Security Life Cycle Approach*, Chapter2, Section 2.1, Page 8 [↑](#footnote-ref-2)\n\n2.   National Institute of Standards and Technology (NIST) Special Publication (SP) 800-37*, Revision 1, Guide for Applying the Risk Management Framework to Federal Information Systems: A Security Life Cycle Approach*) , Appendix F, Section F.6, Page F-8 [↑](#footnote-ref-3)"
+  }
+]

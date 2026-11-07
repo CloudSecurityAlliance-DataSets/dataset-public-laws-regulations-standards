@@ -30,23 +30,26 @@ HEADING_RE = re.compile(r"^(#+)\s+(.+?)\s*$", re.MULTILINE)
 # Identifier patterns tried in order. First match wins. Each returns the id
 # string from the heading text.
 ID_PATTERNS = [
-    # SB-53 style: "22757.10. Short Title" or "22757.10 Short Title"
-    (re.compile(r"^(\d{4,5}\.\d+(?:\.\d+)?)\.?\s+(.+)$"), "statute"),
-    # SECTION 1 / SECTION 2 / Section (1): "SECTION 1. Legislative Findings and Declarations"
-    (re.compile(r"^(SECTION\s+(?:\d+(?:\.\d+)*|\(\d+\)|\([ivxlcdm]+\)|[IVXLCDM]+))\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "section_word"),
+    # US / State statute sections: "22757.10. Short Title", "715D.1 Short title", "47-18-3201. Short title", "RCW 19.373.010", "NRS 603A.010", "§ 899-aa."
+    (re.compile(r"^((?:RCW\s+\d+\.\d+\.\d+|NRS\s+\d+[A-Z]?\.\d+|\d+\s+ILCS\s+\d+/\d+(?:\.\d+)?|§+\s*\d+[\dA-Za-z\.\-]*|\d{1,3}-\d{1,3}-\d{2,5}|\d{2,5}[A-Z]?\.\d+(?:\.\d+)?))\.?\s*[:\-–—]?\s+(.+)$", re.IGNORECASE), "statute"),
+    # SECTION 1 / SEC. 101 / Sec. 15 / Section 2-501 / Section (1) / S1.1-01: "SECTION 1. Legislative Findings and Declarations"
+    (re.compile(r"^((?:SECTION|SEC\.?)\s+(?:\d+[A-Za-z]?(?:[\.\-–]\d+[A-Za-z]?)*|\(\d+\)|\([ivxlcdm]+\)|[IVXLCDM]+)|S\d+\.\d+-\d+)(?![\.\-–]\d)\s*(?:[:\.\-–—]+|\s+)\s*(.+)$", re.IGNORECASE), "section_word"),
     # Pillar I / Pillar 1 / Pillar (i) / Pillar One / Eje Estratégico 1 / Handlungsfeld 1: "Pillar I: AI Use Restrictions ..."
-    (re.compile(r"^((?:Pillar|Pilier|Pilar|Pijler|Eje\s+Estrat[eé]gico|Handlungsfeld)\s+(?:[IVXLCDM]+|\([ivxlcdm]+\)|\d+|\(\d+\)|One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten))\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "pillar"),
-    # Part I / Part 1 / Part (1) / Part One / Раздел I / Розділ I / Teil 1 / Partie 1: "Part I: ..."
-    (re.compile(r"^((?:Part|Partie|Parte|Teil|Deel|Del|Část|Časť|Раздел|Розділ|Часть|Частина)\s+(?:[IVXLCDM]+|\([ivxlcdm]+\)|\d+|\(\d+\)|One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten))\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "part"),
-    # CHAPTER 25.1 / Chapter 1 / Chapter One / Глава 1 / Kapitel 1 / Chapitre 1 / Capítulo 1: "CHAPTER 25.1. Transparency in ..."
-    (re.compile(r"^((?:CHAPTER|Chapitre|Cap[ií]tulo|Capitolo|Kapitel|Hoofdstuk|Kapitola|Poglavje|Rozdzia[łl]|Глава|BAHAGIAN)\s+(?:\d+(?:\.\d+)?|\(\d+\)|[IVXLCDM]+|\([ivxlcdm]+\)|One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten))\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "chapter"),
-    # Chinese & Uzbek/Kazakh chapter/section/annex markers: "第一章 ...", "第一节 ...", "1-боб. ...", "I-бўлим. ...", "1-ИЛОВА"
-    (re.compile(r"^(第[一二三四五六七八九十百0-9０-９]+[章节篇编部節編条])\s*(.+)$"), "chapter"),
+    (re.compile(r"^((?:Pillar|Pilier|Pilar|Pijler|Eje\s+Estrat[eé]gico|Handlungsfeld)\s+(?:[IVXLCDM]+|\([ivxlcdm]+\)|\d+|\(\d+\)|One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten))(?![\.\-–]\d)\s*(?:[:\.\-–—]+|\s+)\s*(.+)$", re.IGNORECASE), "pillar"),
+    # Division A / Title I / Subtitle A / Part I / Part 1 / Part (1) / Part One / Раздел I / Розділ I / Teil 1 / Partie 1: "Part I: ..."
+    (re.compile(r"^((?:Division|Title|Subtitle|Part|Partie|Parte|Teil|Deel|Del|Část|Časť|Раздел|Розділ|Часть|Частина)\s+(?:[IVXLCDM]+|\([ivxlcdm]+\)|\d+(?:\.\d+)?|\(\d+\)|[A-Z]|One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten))(?![\.\-–]\d)\s*(?:[:\.\-–—]+|\s+)\s*(.+)$", re.IGNORECASE), "part"),
+    # CHAPTER 25.1 / Subchapter A / Chapter 1 / Chapter One / Глава 1 / Kapitel 1 / Chapitre 1 / Capítulo 1: "CHAPTER 25.1. Transparency in ..."
+    (re.compile(r"^((?:SUBCHAPTER|CHAPTER|Chapitre|Cap[ií]tulo|Capitolo|Kapitel|Hoofdstuk|Kapitola|Poglavje|Rozdzia[łl]|Глава|BAHAGIAN)\s+(?:\d+[A-Za-z]?(?:\.\d+)?|\(\d+\)|[IVXLCDM]+|\([ivxlcdm]+\)|[A-Z]|One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten))(?![\.\-–]\d)\s*(?:[:\.\-–—]+|\s+)\s*(.+)$", re.IGNORECASE), "chapter"),
+    # Chinese & Japanese chapter/section/article/supplementary-provision markers: "第一章 ...", "第１ はじめに", "第一节 ...", "第一条（目的）", "附則第一条（施行期日）"
+    (re.compile(r"^(第[一二三四五六七八九十百千0-9０-９]+[章篇编部編])\s*[:\.\-–—　]?\s*(.+)$"), "chapter"),
+    (re.compile(r"^(第[一二三四五六七八九十百千0-9０-９]+)[\s　]+(.+)$"), "chapter"),
+    (re.compile(r"^(第[一二三四五六七八九十百千0-9０-９]+[节節])\s*[:\.\-–—　]?\s*(.+)$"), "part"),
+    (re.compile(r"^((?:附則(?:（[^）]+）)?\s*)?第[一二三四五六七八九十百千0-9０-９]+[条條](?:の[一二三四五六七八九十0-9０-９]+)?)\s*[:\.\-–—　]?\s*(.+)$"), "section_word"),
     (re.compile(r"^((?:\d+-)?ИЛОВА)\s*[:\.\-–—]?\s*(.*)$", re.IGNORECASE), "annex"),
     (re.compile(r"^((?:[IVXLCDM]+|\d+)-(?:боб|бўлим|тарау))\s*[:\.\-–—]?\s*(.*)$", re.IGNORECASE), "chapter"),
-    # CJK top-level & parenthesized numbering: "一、...", "（一）..."
-    (re.compile(r"^([一二三四五六七八九十壹貳參肆伍陸柒捌玖拾]+)[、．\.]\s*(.+)$"), "cjk_major"),
-    (re.compile(r"^([（\(][一二三四五六七八九十0-9]+[）\)])\s*(.+)$"), "cjk_sub"),
+    # CJK top-level & parenthesized numbering: "一、...", "（一）...", "（１）..." (excluding prose clauses like "一、二线城市...")
+    (re.compile(r"^([一二三四五六七八九十壹貳參肆伍陸柒捌玖拾]+)[、．\.]\s*([^，]+)$"), "cjk_major"),
+    (re.compile(r"^([（\(][一二三四五六七八九十0-9０-９]+[）\)])\s*(.+)$"), "cjk_sub"),
     # Artículo / Artigo / Article / Điều / Thrust: "ARTÍCULO 1. Objeto..."
     (re.compile(r"^((?:Art[ií]culo|Artigo|Article|Điều|Thrust\s*#?)\s*\d+(?:\.\d+)*[º°]?)\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "section_word"),
     # Strategic Objective 1.1 / Objective 1.1 / Objective 2a / Implementation 6.1 / Línea Estratégica 1.1
@@ -57,8 +60,8 @@ ID_PATTERNS = [
     (re.compile(r"^((?:Goal|Objetivo|(?:Strategic\s+)?Priority|Stratejik\s+Öncelik|L[ií]nea\s+de\s+acci[oó]n|Line\s+of\s+action|Principle|Recommendation|Finding)\s+(?:[IVXLCDM]+|\d+(?:\.\d+)*))\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "goal"),
     # Annex / Appendix / Schedule A / 1 / I: Title
     (re.compile(r"^((?:Annex|Annexe|Anexo|Anhang|Bijlage|Appendix|Schedule)\s+(?:[A-Z]|\d+|[IVXLCDM]+))\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "annex"),
-    # Standalone identifiers without trailing title (e.g., "Principle 1", "Appendix A", "Part One.", "Goal I", "Objetivo I", "LÍNEA DE ACCIÓN 1")
-    (re.compile(r"^((?:Pillar|Pilier|Pilar|Pijler|Part|Partie|Parte|Teil|Chapter|Chapitre|Cap[ií]tulo|Kapitel|Глава|Раздел|Розділ|Section|Annex|Appendix|Schedule|Principle|Goal|Objetivo|(?:Strategic\s+)?Priority|Stratejik\s+Öncelik|L[ií]nea\s+de\s+acci[oó]n|Line\s+of\s+action|Objective|Finding|Recommendation)\s+(?:[IVXLCDM]+|\([ivxlcdm]+\)|\d+[a-z]?|\(\d+\)|[A-Z]|One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten))\.?$", re.IGNORECASE), "standalone_id"),
+    # Standalone identifiers without trailing title (e.g., "Principle 1", "Appendix A", "Section 2-501", "附則", "附則（...）")
+    (re.compile(r"^(附則(?:（[^）]+）)?|(?:Division|Title|Subtitle|Subchapter|Pillar|Pilier|Pilar|Pijler|Part|Partie|Parte|Teil|Chapter|Chapitre|Cap[ií]tulo|Kapitel|Глава|Раздел|Розділ|Section|Sec\.|Article|Art[ií]culo|Annex|Appendix|Schedule|Principle|Goal|Objetivo|(?:Strategic\s+)?Priority|Stratejik\s+Öncelik|L[ií]nea\s+de\s+acci[oó]n|Line\s+of\s+action|Objective|Finding|Recommendation|(?:附則(?:（[^）]+）)?\s*)?第[一二三四五六七八九十百千0-9０-９]+[章篇编部編节節条條](?:の[一二三四五六七八九十0-9０-９]+)?)\s*(?:[IVXLCDM]+|\([ivxlcdm]+\)|\d+[A-Za-z]?(?:[\.\-–]\d+[A-Za-z]?)*|\(\d+\)|[A-Z]|One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten)?)\.?$", re.IGNORECASE), "standalone_id"),
     # Roman-numeral dotted subsection: "I.1 Title" / "II.10 Title"
     (re.compile(r"^([IVX]{1,4}\.\d{1,2})\.?\s*[:\-–—]?\s+(.+)$"), "numbered"),
     # Roman numeral section: "I. Introduction" / "II. Our Vision" / "I Purpose" / "II Japan's National Interests"
@@ -100,7 +103,7 @@ def parse_heading(text: str):
         if m:
             if m.lastindex and m.lastindex >= 2:
                 title_part = m.group(2).strip()
-                has_delim = bool(re.match(r"^" + re.escape(m.group(1)) + r"\s*[:\.\-–—]", cleaned))
+                has_delim = bool(re.match(r"^" + re.escape(m.group(1)) + r"\s*[:\.\-–—]+", cleaned))
                 if not has_delim and title_part and re.match(r"^[a-z]", title_part):
                     continue
                 if (pat is ID_PATTERNS[-1][0] or kind in ("letter", "roman")) and title_part and not (
@@ -112,16 +115,16 @@ def parse_heading(text: str):
             sid_val = m.group(1).rstrip(".")
             if kind == "standalone_id":
                 low_sid = sid_val.lower()
-                if re.match(r"^(?:chapter|chapitre|cap[ií]tulo|kapitel|глава)\b", low_sid):
+                if re.match(r"^(?:section|sec\.|article|art[ií]culo)\b", low_sid) or re.search(r"[条條](?:の[一二三四五六七八九十0-9０-９]+)?$", sid_val):
+                    kind = "section_word"
+                elif re.match(r"^(?:subchapter|chapter|chapitre|cap[ií]tulo|kapitel|глава)\b", low_sid) or sid_val.startswith("附則") or re.search(r"[章篇编部編]$", sid_val):
                     kind = "chapter"
-                elif re.match(r"^(?:part|partie|parte|teil|раздел|розділ)\b", low_sid):
+                elif re.match(r"^(?:division|title|subtitle|part|partie|parte|teil|раздел|розділ)\b", low_sid) or re.search(r"[节節]$", sid_val):
                     kind = "part"
                 elif re.match(r"^(?:pillar|pilier|pilar|pijler)\b", low_sid):
                     kind = "pillar"
                 elif re.match(r"^(?:annex|appendix|schedule)\b", low_sid):
                     kind = "annex"
-                elif low_sid.startswith("section"):
-                    kind = "section_word"
                 elif low_sid.startswith("objective"):
                     kind = "objective"
                 else:
@@ -205,6 +208,18 @@ def is_valid_container(parent_row: dict, child_kind: str, child_id: str) -> bool
     if pid == child_id:
         return True
     if pkind == child_kind:
+        low_p, low_c = pid.lower(), child_id.lower()
+        if pkind == "part":
+            if low_p.startswith("division") and low_c.startswith(("title", "subtitle", "part")):
+                return True
+            if low_p.startswith("title") and low_c.startswith(("subtitle", "part")):
+                return True
+            if low_p.startswith("subtitle") and low_c.startswith("part"):
+                return True
+        if pkind == "chapter" and low_p.startswith("chapter") and low_c.startswith("subchapter"):
+            return True
+        if pkind == "section_word" and pid.startswith("SECTION ") and re.search(r"\d+[\-–]\d+", child_id):
+            return True
         return False
     if child_kind == "annex":
         return pkind in ("part", "chapter", "roman")
@@ -212,9 +227,11 @@ def is_valid_container(parent_row: dict, child_kind: str, child_id: str) -> bool
         return pkind in ("part", "chapter", "roman", "annex") or (
             child_kind == "pillar" and pkind == "numbered"
         )
-    if child_kind in ("objective", "section_word"):
+    if child_kind in ("objective", "section_word", "statute"):
         if re.match(r"^Implementation\s+\d+\.\d+$", child_id, re.IGNORECASE):
             return False
+        if child_kind == "section_word" and pkind == "numbered" and "." not in pid:
+            return True
         return pkind in ("pillar", "part", "chapter", "roman", "annex")
     if child_kind in ("goal", "standalone_id", "initiative"):
         return pkind in ("pillar", "part", "chapter", "roman", "annex", "section_word", "goal") or (
@@ -232,10 +249,12 @@ def is_valid_container(parent_row: dict, child_kind: str, child_id: str) -> bool
 
 
 def normalize_body(s: str) -> str:
+    s = s.replace("\r\n", "\n").replace("\r", "\n")
     s = re.sub(r"\\([_*\[\]\(\)\-\.])", r"\1", s)
     s = re.sub(r"<a id=\"[^\"]*\"></a>", "", s)
     s = re.sub(r"<span[^>]*>([^<]*)</span>", r"\1", s)
     s = re.sub(r"\{\d+\}-+", "", s)
+    s = "\n".join(l.rstrip() for l in s.splitlines())
     s = re.sub(r"\n{3,}", "\n\n", s)
     return s.strip()
 
@@ -251,12 +270,22 @@ def main():
     if not doc_dir.is_dir():
         raise SystemExit(f"Not a directory: {doc_dir}")
 
-    md_files = [p for p in doc_dir.glob("*.md")
-                if not p.name.endswith("-metadata.md")
-                and not p.name.startswith("README")]
+    md_files = sorted(
+        p for p in doc_dir.glob("*.md")
+        if not p.name.endswith(("-metadata.md", "-processed.md", "-definitions.md"))
+        and not p.name.startswith("README")
+    )
+    if not md_files:
+        md_files = sorted(
+            p for p in doc_dir.glob("*.md")
+            if not p.name.endswith("-metadata.md")
+            and not p.name.startswith("README")
+        )
     if not md_files:
         raise SystemExit(f"No source markdown in {doc_dir}")
-    md = md_files[0].read_text(encoding="utf-8")
+    stem_cand = args.out_stem or doc_dir.name
+    preferred = [p for p in md_files if p.stem == stem_cand]
+    md = (preferred[0] if preferred else md_files[0]).read_text(encoding="utf-8", errors="replace")
 
     headings = list(HEADING_RE.finditer(md))
     min_enc_depth = 1 if sum(1 for h in headings if len(h.group(1)) == 1) > 1 else 2

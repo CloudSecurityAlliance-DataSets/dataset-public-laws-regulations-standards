@@ -1,0 +1,26 @@
+[
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "CyberSecEval 4",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Advancing the Evaluation of Cybersecurity Risks and Capabilities in Large\nLanguage Models\n\n[Get Started](/PurpleLlama/CyberSecEval/docs/intro)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "CyberSecEval 4",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "This version introduces AutoPatchBench, a benchmark that measures an LLM\nagent's capability to automatically patch security vulnerabilities in native\ncode."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Prompt Guard",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Prompt Guard is a new model for guardrailing LLM inputs against prompt attacks\n- in particular jailbreaking techniques and indirect injections embedded into\nthird party data. For more information, see our Model card.\n\nDocs\n\n  * [Documentation](/PurpleLlama/CyberSecEval/docs/intro)\n\nCommunity\n\n  * [Twitter](https://twitter.com/metaOpenSource)\n\nMore\n\n  * [GitHub](https://github.com/meta-llama/purplellama)\n\nLegal\n\n  * [Privacy](https://opensource.facebook.com/legal/privacy/)\n  * [Terms](https://opensource.facebook.com/legal/terms/)\n\n[![Meta Open Source\nLogo](/PurpleLlama/CyberSecEval/img/meta_open_source_logo.svg)![Meta Open\nSource\nLogo](/PurpleLlama/CyberSecEval/img/meta_open_source_logo.svg)](https://opensource.fb.com)\n\nCopyright © 2026 Meta Platforms, Inc. Built with Docusaurus."
+  }
+]

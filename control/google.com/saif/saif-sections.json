@@ -1,0 +1,122 @@
+[
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "Google’s Secure AI Framework (SAIF)",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "> The potential of AI, especially generative AI, is immense. As innovation\n> moves forward, the industry needs security standards for building and\n> deploying AI responsibly. That’s why we introduced the Secure AI Framework\n> (SAIF), a conceptual framework to secure AI systems.\n\n  * [SAIF core elements](#six-core-elements-of-saif)\n  * [A safer ecosystem](#enabling-a-safer-ecosystem)\n  * [Resources](#additional-resources)\n  * [Common questions](#common-questions-about-saif)"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Six core elements of SAIF",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "SAIF is designed to address top-of-mind concerns for security professionals,\nsuch as AI/ML model risk management, security, and privacy — helping to ensure\nthat when AI models are implemented, they are secure by default.\n\n[ Download PDF\n](https://kstatic.googleusercontent.com/files/5b050a3618a99e6c98330d23c43d55c380e5dbf462c8dcdf98f8a01212b1a88e757d2a3d790972a2307abca04fde3fbb129d723b14fec57ca765d7808dd44321)\n\n  * ![Graphic with blue shield with keyhole in the center surrounded by blue cloud, red profile, yellow toggle, and green padlock icons.](https://www.gstatic.com/marketing-cms/assets/images/8d/b4/c2f5cf874032aaa5f382072c8d09/safer-by-design-ai-secure-ai-framework-strong-security-foundations.png=n-w543-h305-fcrop64=1,00000021ffffffbe-rw)\n\nExpand strong security foundations to the AI ecosystem\n\n  * ![Laptop computer with orange target and red warning icon.](https://www.gstatic.com/marketing-cms/assets/images/bb/76/20132b1642b79a6990b7600f95d0/safer-by-design-ai-secure-ai-framework-extend-detection-response-trans.svg)\n\nExtend detection and response to bring AI into an organization’s threat\nuniverse\n\n  * ![Graphic with two green icons with check marks and a red warning icon. ](https://www.gstatic.com/marketing-cms/assets/images/5e/9e/d42b2a054e9a92c41781a32b6919/safer-by-design-ai-secure-ai-framework-automate-defenses-trans.svg)\n\nAutomate defenses to keep pace with existing and new threats\n\n  * ![Circular diagram with green phone, yellow shield, and red card icons.](https://www.gstatic.com/marketing-cms/assets/images/94/81/9ce36bd94302841e0ff4826b8a72/safer-by-design-ai-secure-ai-framework-harmonize-platform-level-controls-trans.svg)\n\nHarmonize platform-level controls to ensure consistent security across the\norganization\n\n  * ![Triangle schematic with green check mark, yellow toggle, and blue shield with keyhole icons.](https://www.gstatic.com/marketing-cms/assets/images/cf/99/fad547c940e7ac71d31059158a7e/safer-by-design-ai-secure-ai-framework-adapt-controls-trans.svg)\n\nAdapt controls to adjust mitigations and create faster feedback loops for AI\ndeployment\n\n  * ![Constellation graphic with blue circle surrounded by other colored and gray circles.](https://www.gstatic.com/marketing-cms/assets/images/f8/a0/5e3317b34e9f82863793eb603369/safer-by-design-ai-secure-ai-framework-contextualize-ai-system-risks-trans.svg)\n\nContextualize AI system risks in surrounding business processes"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Enabling a safer ecosystem",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "We’re excited to share the first steps in our journey to build a SAIF\necosystem across governments, businesses, and organizations to advance a\nframework for secure AI deployment that works for all.\n\n![Graphic showing a pink grid sending prompts to a\nscreen.](https://www.gstatic.com/marketing-\ncms/assets/images/04/7d/e689845a45689066ac4a0ceee596/safer-by-design-ai-\nsecure-ai-framework-introducing-saif.png=s543-fcrop64=1,00000000ffffffff-rw)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Introducing SAIF.Google: Secure AI starts here",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "[_SAIF.Google_](https://saif.google/) is a resource hub to help security\nprofessionals navigate the evolving landscape of AI security. It provides a\ncollection of AI security risks and controls, including a “Risk Self-\nAssessment Report” to guide practitioners in understanding the risks that\ncould affect them and how to implement SAIF in their organizations. These\nresources will help address the critical need to build and deploy secure AI\nsystems in a rapidly evolving world.\n\n[ Get started ](https://saif.google/ )\n\n![Constellation graphic with a blue shield with a white G in the middle,\nsurrounded by building, padlock, profile, world and document\nicons.](https://www.gstatic.com/marketing-\ncms/assets/images/7b/41/2177336345d2bf85210cf89d0686/safer-by-design-ai-\nsecure-ai-framework-saif-to-governments-organizations.svg)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Bringing SAIF to governments and organizations",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "We collaborate with governments and organizations to help mitigate AI security\nrisks. Our work with policymakers and standards organizations such as\n[_NIST_](https://www.nist.gov/itl/ai-risk-management-framework) contributes to\nevolving regulatory frameworks. We recently highlighted [_SAIF's\nrole_](https://static.googleusercontent.com/media/publicpolicy.google/en//resources/whcommitments.pdf)\nin securing AI systems, aligning with the White House’s [AI\ncommitments.](https://www.whitehouse.gov/wp-content/uploads/2023/07/Ensuring-\nSafe-Secure-and-Trustworthy-AI.pdf)\n\n![Circle with tech company logos inside.](https://www.gstatic.com/marketing-\ncms/assets/images/fa/f0/08ad80214bdb868f809599ee9fdd/safer-by-design-ai-\nsecure-ai-framework-coalition-secure-ai.png=s543-fcrop64=1,00000000ffffffff-\nrw)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Coalition for Secure AI: Expanding SAIF with industry allies",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "We are advancing this work and fostering industry support by\n[_forming_](https://blog.google/technology/safety-security/google-coalition-\nfor-secure-ai/) the [_Coalition for Secure AI\n(CoSAI)_](https://www.coalitionforsecureai.org/) , with founding members like\nAnthropic, Cisco, GenLab, IBM, Intel, Nvidia, and Paypal, to address critical\nchallenges in implementing secure AI systems."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Additional resources",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "[ ![Graphic of a red warning icon, a blue angle-bracket icon, and a yellow\npower icon.](https://www.gstatic.com/marketing-\ncms/assets/images/d7/05/5ecba0f446efa935161e3eb0c98e/safer-by-design-ai-\nsecure-ai-framework-enhancing-ai-security-trans.svg) Enhancing AI security:\nGoogle’s AI Red Team Explore how Google’s AI Red Team, armed with cutting-edge\ntactics, enhances security for AI systems. Discover key insights and lessons\nin our latest report. Learn more ](https://blog.google/technology/safety-\nsecurity/googles-ai-red-team-the-ethical-hackers-making-ai-safer/ ) [\n![Constellation graphic with Gmail logo in the center surrounded by red X,\ngreen padlock, blue angle-bracket, and yellow world\nicons..](https://www.gstatic.com/marketing-\ncms/assets/images/85/f6/4d8752d34b188ec4704296bd0850/safer-by-design-ai-\nsecure-ai-framework-securing-ai-systems-mandiant-trans.svg) Securing AI\nsystems with Mandiant Mandiant urges proactive security integration in AI\nsystems, aligning with SAIF for robust protection. Learn more\n](https://cloud.google.com/security/resources?auHash=5gtSfUA195VegrTtP3QcAWqUloOG7hC7PInLM06c_Ou\n) [ ![Android logo.](https://www.gstatic.com/marketing-\ncms/assets/images/76/9b/c18c58a94546ba21bf43db93df63/safer-by-design-ai-\nsecure-ai-framework-android-secure-dev-guidelines-trans.svg) Android: Secure\ndevelopment guidelines Secure your organization with Android’s real-time\nvulnerability alerts and follow secure development guidelines for machine\nlearning code. Download pdf\n](https://kstatic.googleusercontent.com/files/f2003c247be2e427cdcfc342e3a396b96b3d932105b513aab0e135fb1f7b182716aefe35e98b7d25d2b6ab0fbf78c85c28168e6aba5986caafdbff59493893f0)\n[ ![Google Cloud logo in the middle of a triangle surrounded by green gavel,\nblue padlock, and yellow star icons.](https://www.gstatic.com/marketing-\ncms/assets/images/09/d5/f1c2dcf74bd181a0318acf2d8ed8/safer-by-design-ai-\nsecure-ai-framework-securing-ai-with-google-cloud-trans.svg) Securing AI with\nGoogle Cloud Google Cloud offers resources essential for boards of directors\nthat focus on cybersecurity, deployment of AI systems, risk governance, and\nsecure transformation. Learn more\n](https://cloud.google.com/solutions/security/board-of-directors#section-1 ) [\n![Constellation graphic with blue shield in the center surrounded by colored\ncircles with padlock, X, world, and check mark\nicons.](https://www.gstatic.com/marketing-\ncms/assets/images/6f/ea/31a19232437cad1b611e2cb39729/safer-by-design-ai-\nsecure-ai-framework-securing-ai-software-supply-chain-trans.svg) Securing the\nAI software supply chain This white paper addresses AI-supply-chain security\nusing provenance information, outlines traditional and AI-software risks, and\noffers practical solutions for organizations. Learn more\n](https://research.google/pubs/securing-the-ai-software-supply-chain/ )\n\n1\n\n/"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Common questions",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "about SAIF\n\nExpand all Collapse all"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "How are SAIF and Responsible AI related?",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Google has an imperative to build AI responsibly, and to empower others to do\nthe same. Our [_AI\nPrinciples_](https://ai.google/responsibility/principles/#our-ai-principles-\nin-action) , published in 2018, describe our commitment to developing\ntechnology responsibly and in a manner that is built for safety, enables\naccountability, and upholds high standards of scientific excellence.\nResponsible AI is our overarching approach, which has several dimensions, such\nas “Fairness,” “Interpretability,” “Security,” and “Privacy,” that guide all\nof Google’s AI product development.\n\nSAIF is our framework for creating a standardized and holistic approach to\nintegrating security and privacy measures into ML-powered applications. It is\naligned with the “Security” and “Privacy” dimensions of building AI\nresponsibly. SAIF ensures that ML-powered applications are developed in a\nresponsible manner, taking into account the evolving threat landscape and user\nexpectations."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "How is Google putting SAIF into action?",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Google has a long history of driving responsible AI and cybersecurity\ndevelopment, and we have been mapping security best practices to AI innovation\nfor many years. Our Secure AI Framework is distilled from the body of\nexperience and best practices we’ve developed and implemented, and reflects\nGoogle’s approach to building ML and generative-AI powered apps with\nresponsive, sustainable, and scalable protections for security and privacy. We\nwill continue to evolve and build SAIF to address new risks, changing\nlandscapes, and advancements in AI."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "How can practitioners implement the framework?",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "See our [_quick\nguide_](https://kstatic.googleusercontent.com/files/00e270b1cccb1f37302462a162c171d86f293a84de54036e0021e2fe0253cf05623bae2a62751b0840667bc6c8412fd70f45c9485972dc370be8394fae922d31)\nto implementing the SAIF framework:\n\n  * Step 1 - Understand the use\n\n    * Understanding the specific business problem AI will solve and the data needed to train the model will help drive the policy, protocols, and controls that need to be implemented as part of SAIF.\n  * Step 2 - Assemble the team\n\n    * Developing and deploying AI systems, just like traditional systems, are multidisciplinary efforts.\n    * AI systems are often complex and opaque, include large numbers of moving parts, rely on large amounts of data, are resource intensive, can be used to apply judgment-based decisions, and can generate novel content that may be offensive, harmful, or can perpetuate stereotypes and social biases.\n    * Establish the right cross-functional team to ensure that security, privacy, risk, and compliance considerations are included from the start.\n  * Step 3 - Level set with an AI primer\n\n    * As teams embark on evaluating the business use of AI, and the various and evolving complexities, risks, and security controls that apply, it is critical that all parties involved understand the [_basics of the AI model development life cycle_](https://cloud.google.com/blog/transform/generative-ai-primer-glossary-for-business-execs) , the design and logic of the model methodologies, including capabilities, merits, and limitations.\n  * Step 4 - Apply the [_six core elements of SAIF_](./../../../../../intl/en/safety/saif/#saif-core-elements )\n\n    * These elements are not intended to be applied in chronological order."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Where can I find more information about SAIF and how to apply it to my",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "business or entity?\n\nStay tuned! Google will continue to build and share Secure AI Framework\nresources, guidance, and tools, along with other best practices in AI\napplication development."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Why we support a secure AI community for everyone",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "As one of the first companies to articulate [_Al\nprinciples_](https://ai.google/responsibility/principles/) , we’ve set the\nstandard for [_responsible Al_](https://cloud.google.com/responsible-ai) , and\nit guides our product development for safety. We’ve advocated for and\ndeveloped industry frameworks to raise the security bar and learned that\nbuilding a community to advance this work is essential for success in the long\nterm. That’s why we’re excited to build an SAIF community for all.\n\nNot all products or features may be available in all locations\n\n![Blue shield with white Google G.](https://www.gstatic.com/marketing-\ncms/assets/images/de/aa/9480298544b9b3aaae30776a238f/icon-blue-shield-\ngoogle.svg)"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Footer links",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Social Module\n\nFollow us\n\n  * [ ](https://www.instagram.com/google/) Follow us on Instagram\n  * [ ](https://www.youtube.com/user/Google) Follow us on Youtube\n  * [ ](https://x.com/google) Follow us on X\n  * [ ](https://www.facebook.com/Google) Follow us on Facebook\n  * [ ](https://www.linkedin.com/company/google) Follow us on LinkedIn"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Related sites",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "* [ Families ](https://families.google/)\n  * [ Transparency Center ](https://transparency.google/)\n\n[ ![Google Logo](https://www.gstatic.com/marketing-\ncms/assets/images/2b/af/9d0f890e4525a684fc04a3aac56f/placeholder-google-logo-\nfooter.svg) ](https://www.google.com/ \"Google\")\n\n  * [About Google](https://about.google/)\n  * [Google products](https://about.google/products/)\n  * [Privacy policy](https://policies.google.com/privacy)\n  * [Terms](https://policies.google.com/terms)\n  * Cookies management controls\n\n  * [ Help](https://support.google.com/)"
+  }
+]

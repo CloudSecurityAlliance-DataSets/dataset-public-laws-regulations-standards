@@ -1,0 +1,1482 @@
+"depth","section_id","section_name","id_kind","parent_id","body"
+"2","Requirement 01","Risk management plan for AI system and execution of the plan","numbered","","TTA Guidebook Verification Items: (Requirement 01) Risk management plan for AI system and execution of the plan"
+"2","Requirement 01-1","Have you analyzed risk factors that may arise throughout the life cycle of the AI system?","numbered","","TTA Guidebook Verification Items: (Requirement 01-1) Have you analyzed risk factors that may arise throughout the life cycle of the
+AI system?"
+"2","01-1a","Have you identified the risk factors of the AI system and the ripple effect?","numbered","","#: 1
+
+TTA Guidebook Identifier: 01-1a
+
+TTA Guidebook Verification Items: Have you identified the risk factors of the AI system and
+the ripple effect?
+
+Relevant NIST AI RMF Subcategories: MAP 3.2, 5.1
+MEASURE 3.1
+MANAGE 1.2, 2.3"
+"2","Requirement 01-2","Have you prepared measures to remove and prevent risk factors or mitigate the effects?","numbered","","TTA Guidebook Identifier: (Requirement 01-2) Have you prepared measures to remove and prevent risk factors or mitigate
+the effects?"
+"2","01-2a","Have you developed measures to remove risk factors and confirmed if the ripple effects were mitigated?","numbered","","#: 2
+
+TTA Guidebook Identifier: 01-2a
+
+TTA Guidebook Verification Items: Have you developed measures to remove risk factors and
+confirmed if the ripple effects were mitigated?
+
+Relevant NIST AI RMF Subcategories: GOVERN 5.1*
+MANAGE 1.3, 2.1"
+"2","Requirement 02","Organization of an AI governance system","numbered","","TTA Guidebook Identifier: (Requirement 02) Organization of an AI governance system"
+"2","Requirement 02-1","Have you established guidelines and policies on AI governance?","numbered","","TTA Guidebook Identifier: (Requirement 02-1) Have you established guidelines and policies on AI governance?"
+"2","02-1a","Have you prepared internal guidelines and policies on AI governance?","numbered","","#: 3
+
+TTA Guidebook Identifier: 02-1a
+
+TTA Guidebook Verification Items: Have you prepared internal guidelines and policies on AI
+governance?
+
+Relevant NIST AI RMF Subcategories: GOVERN 1.1, 1.4, 2.1,
+5.1*, 6.1*
+MAP 3.5"
+"2","Requirement 02-2","Have you formed an AI governance group and reviewed the composition of the group?","numbered","","TTA Guidebook Identifier: (Requirement 02-2) Have you formed an AI governance group and reviewed the composition of
+the group?"
+"2","02-2a","Have you formed an AI governance group?","numbered","","#: 4
+
+TTA Guidebook Identifier: 02-2a
+
+TTA Guidebook Verification Items: Have you formed an AI governance group?
+
+Relevant NIST AI RMF Subcategories: GOVERN 1.2, 1.5"
+"2","02-2b","Is the AI governance group composed of adequately trained members?","numbered","","#: 5
+
+TTA Guidebook Identifier: 02-2b
+
+TTA Guidebook Verification Items: Is the AI governance group composed of adequately trained
+members?
+
+Relevant NIST AI RMF Subcategories: GOVERN 2.2, 3.1
+MAP 1.2
+MEASURE 1.3"
+"2","Requirement 02-3","Is the AI governance being supervised to ensure proper implementation?","numbered","","TTA Guidebook Identifier: (Requirement 02-3) Is the AI governance being supervised to ensure proper implementation?"
+"2","02-3a","Is compliance with internal guidelines and policies on AI governance being overseen?","numbered","","#: 6
+
+TTA Guidebook Identifier: 02-3a
+
+TTA Guidebook Verification Items: Is compliance with internal guidelines and policies on AI
+governance being overseen?
+
+Relevant NIST AI RMF Subcategories: GOVERN 2.3"
+"2","Requirement 02-4","Has the AI governance group reviewed the differences between the new and previous systems?","numbered","","TTA Guidebook Identifier: (Requirement 02-4) Has the AI governance group reviewed the differences between the new and
+previous systems?"
+"2","02-4a","Have you analyzed if the system can be implemented by improving, integrating, or abolishing other infrequently used systems?","numbered","","#: 7
+
+TTA Guidebook Identifier: 02-4a
+
+TTA Guidebook Verification Items: Have you analyzed if the system can be implemented by
+improving, integrating, or abolishing other infrequently used
+systems?
+
+Relevant NIST AI RMF Subcategories: MANAGE 2.4"
+"2","Requirement 03","Development of a plan to test trustworthiness in the AI system","numbered","","TTA Guidebook Verification Items: (Requirement 03) Development of a plan to test trustworthiness in the AI system"
+"2","Requirement 03-1","Have you designed a test environment in consideration of the AI system's features?","numbered","","TTA Guidebook Verification Items: (Requirement 03-1) Have you designed a test environment in consideration of the AI system's
+features?"
+"2","03-1a","Have you considered the operating environment of the AI system when determining the test environment?","numbered","","#: 8
+
+TTA Guidebook Identifier: 03-1a
+
+TTA Guidebook Verification Items: Have you considered the operating environment of the AI
+system when determining the test environment?
+
+Relevant NIST AI RMF Subcategories: MAP 2.3"
+"2","03-1b","Have you obtained a simulator if the AI system needs a virtual test environment?","numbered","","#: 9
+
+TTA Guidebook Identifier: 03-1b
+
+TTA Guidebook Verification Items: Have you obtained a simulator if the AI system needs a
+virtual test environment?
+
+Relevant NIST AI RMF Subcategories: MEASURE 2.5, 2.6"
+"2","Requirement 03-2","Have you organized a negotiation system to design the test for the AI system?","numbered","","TTA Guidebook Identifier: (Requirement 03-2) Have you organized a negotiation system to design the test for the AI
+system?"
+"2","03-2a","Have you organized a negotiation system to determine the expected output of the AI system?","numbered","","#: 10
+
+TTA Guidebook Identifier: 03-2a
+
+TTA Guidebook Verification Items: Have you organized a negotiation system to determine the
+expected output of the AI system?
+
+Relevant NIST AI RMF Subcategories: GOVERN 5.1
+MEASURE 1.3"
+"2","03-2b","Have you organized a user review group to check if the AI system is explainable and interpretable?","numbered","","#: 11
+
+TTA Guidebook Identifier: 03-2b
+
+TTA Guidebook Verification Items: Have you organized a user review group to check if the AI
+system is explainable and interpretable?
+
+Relevant NIST AI RMF Subcategories: GOVERN 5.1, 5.2
+MAP 1.6
+MEASURE 1.3, 4.2"
+"2","Requirement 04","Provision of detailed information for data utilization","numbered","","TTA Guidebook Identifier: (Requirement 04) Provision of detailed information for data utilization"
+"2","Requirement 04-1","Is there detailed information to support the accurate comprehension and utilization of data?","numbered","","TTA Guidebook Identifier: (Requirement 04-1) Is there detailed information to support the accurate comprehension and
+utilization of data?"
+"2","04-1a","Have you explained the data attributes before and after cleansing?","numbered","","#: 12
+
+TTA Guidebook Identifier: 04-1a
+
+TTA Guidebook Verification Items: Have you explained the data attributes before and after
+cleansing?
+
+Relevant NIST AI RMF Subcategories: MAP 2.2"
+"2","04-1b","Have you sorted data into training data and metadata and is there a specification document for each of them?","numbered","","#: 13
+
+TTA Guidebook Identifier: 04-1b
+
+TTA Guidebook Verification Items: Have you sorted data into training data and metadata and is
+there a specification document for each of them?
+
+Relevant NIST AI RMF Subcategories: GOVERN 4.2"
+"2","04-1c","Have you explained the reason for selecting the protected attributes and whether they were reflected?","numbered","","#: 14
+
+TTA Guidebook Identifier: 04-1c
+
+TTA Guidebook Verification Items: Have you explained the reason for selecting the protected
+attributes and whether they were reflected?
+
+Relevant NIST AI RMF Subcategories: MEASURE 2.10"
+"2","04-1d","Were data labelers trained and have you provided them with work instructions?","numbered","","#: 15
+
+TTA Guidebook Identifier: 04-1d
+
+TTA Guidebook Verification Items: Were data labelers trained and have you provided them
+with work instructions?
+
+Relevant NIST AI RMF Subcategories: GOVERN 2.2"
+"2","Requirement 04-2","Is data provenance documented and managed?","numbered","","TTA Guidebook Identifier: (Requirement 04-2) Is data provenance documented and managed?"
+"2","04-2a","Is the dataset provided by a trustworthy provenance?","numbered","","#: 16
+
+TTA Guidebook Identifier: 04-2a
+
+TTA Guidebook Verification Items: Is the dataset provided by a trustworthy provenance?
+
+Relevant NIST AI RMF Subcategories: GOVERN 4.2
+MAP 4.1, 4.2
+MEASURE 1.1
+MANAGE 3.1"
+"2","04-2b","Have you clearly stated the provenance when using an open-source dataset?","numbered","","#: 17
+
+TTA Guidebook Identifier: 04-2b
+
+TTA Guidebook Verification Items: Have you clearly stated the provenance when using an
+open-source dataset?
+
+Relevant NIST AI RMF Subcategories: MAP 4.1"
+"2","Requirement 05","Inspection of abnormal data to ensure data robustness","numbered","","TTA Guidebook Identifier: (Requirement 05) Inspection of abnormal data to ensure data robustness"
+"2","Requirement 05-1","Have you inspected the detection of abnormal data and their normality?","numbered","","TTA Guidebook Verification Items: (Requirement 05-1) Have you inspected the detection of abnormal data and their normality?"
+"2","05-1a","Have you checked any possible errors by visualizing the overall training data distribution?","numbered","","#: 18
+
+TTA Guidebook Identifier: 05-1a
+
+TTA Guidebook Verification Items: Have you checked any possible errors by visualizing the
+overall training data distribution?
+
+Relevant NIST AI RMF Subcategories: No equivalent category"
+"2","05-1b","Have you implemented techniques to detect outliers in training data?","numbered","","#: 19
+
+TTA Guidebook Identifier: 05-1b
+
+TTA Guidebook Verification Items: Have you implemented techniques to detect outliers in
+training data?
+
+Relevant NIST AI RMF Subcategories: MAP 2.3"
+"2","Requirement 05-2","Have you devised measures to defend against data-oriented attacks?","numbered","","TTA Guidebook Identifier: (Requirement 05-2) Have you devised measures to defend against data-oriented attacks?"
+"2","05-2a","Have you prepared measures to defend against poisoning and evasion attacks?","numbered","","#: 20
+
+TTA Guidebook Identifier: 05-2a
+
+TTA Guidebook Verification Items: Have you prepared measures to defend against poisoning
+and evasion attacks?
+
+Relevant NIST AI RMF Subcategories: MEASURE 2.7"
+"2","Requirement 06","Removal of bias in the collected and processed training data","numbered","","TTA Guidebook Verification Items: (Requirement 06) Removal of bias in the collected and processed training data"
+"2","Requirement 06-1","Have you prepared measures to mitigate bias due to human and physical elements in data collection?","numbered","","TTA Guidebook Identifier: (Requirement 06-1) Have you prepared measures to mitigate bias due to human and physical
+elements in data collection?"
+"2","06-1a","Have you implemented procedural and technical measures to eliminate human bias?","numbered","","#: 21
+
+TTA Guidebook Identifier: 06-1a
+
+TTA Guidebook Verification Items: Have you implemented procedural and technical measures
+to eliminate human bias?
+
+Relevant NIST AI RMF Subcategories: MAP 1.2"
+"2","06-1b","Have you used a heterogeneous device to ensure data diversity?","numbered","","#: 22
+
+TTA Guidebook Identifier: 06-1b
+
+TTA Guidebook Verification Items: Have you used a heterogeneous device to ensure data
+diversity?
+
+Relevant NIST AI RMF Subcategories: No equivalent category"
+"2","06-1c","Have you examined bias in data that may occur due to hardware?","numbered","","#: 23
+
+TTA Guidebook Identifier: 06-1c
+
+TTA Guidebook Verification Items: Have you examined bias in data that may occur due to
+hardware?
+
+Relevant NIST AI RMF Subcategories: GOVERN 6.1
+MANAGE 3.1"
+"2","Requirement 06-2","Have you analyzed features used in training and prepared selection criteria?","numbered","","TTA Guidebook Identifier: (Requirement 06-2) Have you analyzed features used in training and prepared selection criteria?"
+"2","06-2a","Have you made a thorough analysis when selecting the protected attributes?","numbered","","#: 24
+
+TTA Guidebook Identifier: 06-2a
+
+TTA Guidebook Verification Items: Have you made a thorough analysis when selecting the
+protected attributes?
+
+Relevant NIST AI RMF Subcategories: MEASURE 2.10"
+"2","06-2b","Have you mitigated the impact of features that may create bias?","numbered","","#: 25
+
+TTA Guidebook Identifier: 06-2b
+
+TTA Guidebook Verification Items: Have you mitigated the impact of features that may create
+bias?
+
+Relevant NIST AI RMF Subcategories: MEASURE 2.11"
+"2","06-2c","Have you reviewed whether features were removed excessively during data pre-processing?","numbered","","#: 26
+
+TTA Guidebook Identifier: 06-2c
+
+TTA Guidebook Verification Items: Have
+you
+reviewed
+whether
+features
+were
+removed
+excessively during data pre-processing?
+
+Relevant NIST AI RMF Subcategories: No equivalent category"
+"2","Requirement 06-3","Have you checked and prevented potential biased in data labeling?","numbered","","TTA Guidebook Identifier: (Requirement 06-3) Have you checked and prevented potential biased in data labeling?"
+"2","06-3a","Have you clearly established the data labeling standards and provided them to labelers?","numbered","","#: 27
+
+TTA Guidebook Identifier: 06-3a
+
+TTA Guidebook Verification Items: Have you clearly established the data labeling standards and
+provided them to labelers?
+
+Relevant NIST AI RMF Subcategories: MAP 2.3"
+"2","06-3b","Have you made an effort to recruit diverse data labelers?","numbered","","#: 28
+
+TTA Guidebook Identifier: 06-3b
+
+TTA Guidebook Verification Items: Have you made an effort to recruit diverse data labelers?
+
+Relevant NIST AI RMF Subcategories: MAP 1.2"
+"2","06-3c","Have you made an effort to recruit diverse reviewers for labeled data?","numbered","","#: 29
+
+TTA Guidebook Identifier: 06-3c
+
+TTA Guidebook Verification Items: Have you made an effort to recruit diverse reviewers for
+labeled data?
+
+Relevant NIST AI RMF Subcategories: MAP 1.2"
+"2","Requirement 06-4","Have you conducted sampling to prevent bias in data?","numbered","","TTA Guidebook Identifier: (Requirement 06-4) Have you conducted sampling to prevent bias in data?"
+"2","06-4a","Have you implemented a sampling method to prevent bias?","numbered","","#: 30
+
+TTA Guidebook Identifier: 06-4a
+
+TTA Guidebook Verification Items: Have you implemented a sampling method to prevent bias?
+
+Relevant NIST AI RMF Subcategories: MEASURE 2.11"
+"2","Requirement 07","Ensuring security and compatibility of the open-source library","numbered","","TTA Guidebook Verification Items: (Requirement 07) Ensuring security and compatibility of the open-source library"
+"2","Requirement 07-1","Have you confirmed the stability of the open-source library?","numbered","","TTA Guidebook Verification Items: (Requirement 07-1) Have you confirmed the stability of the open-source library?"
+"2","07-1a","Have you used an active open-source library?","numbered","","#: 31
+
+TTA Guidebook Identifier: 07-1a
+
+TTA Guidebook Verification Items: Have you used an active open-source library?
+
+Relevant NIST AI RMF Subcategories: MAP 4.1"
+"2","Requirement 07-2","Are you managing the risk factors of the open-source library?","numbered","","TTA Guidebook Verification Items: (Requirement 07-2) Are you managing the risk factors of the open-source library?"
+"2","07-2a","Have you fulfilled the license compliance of the open-source library in use?","numbered","","#: 32
+
+TTA Guidebook Identifier: 07-2a
+
+TTA Guidebook Verification Items: Have
+you
+fulfilled
+the
+license
+compliance
+of
+the
+open-source library in use?
+
+Relevant NIST AI RMF Subcategories: GOVERN 6.1
+MAP 4.1"
+"2","07-2b","Have you confirmed the compatibility and vulnerability of the open-source library in use?","numbered","","#: 33
+
+TTA Guidebook Identifier: 07-2b
+
+TTA Guidebook Verification Items: Have you confirmed the compatibility and vulnerability of
+the open-source library in use?
+
+Relevant NIST AI RMF Subcategories: MAP 4.1
+MANAGE 3.1"
+"2","Requirement 08","Removal of bias in the AI model","numbered","","TTA Guidebook Identifier: (Requirement 08) Removal of bias in the AI model"
+"2","Requirement 08-1","Have you implemented techniques to remove bias in the AI model?","numbered","","TTA Guidebook Identifier: (Requirement 08-1) Have you implemented techniques to remove bias in the AI model?"
+"2","08-1a","Have you chosen a bias removal technique appropriate to the model to be developed?","numbered","","#: 34
+
+TTA Guidebook Identifier: 08-1a
+
+TTA Guidebook Verification Items: Have you chosen a bias removal technique appropriate to
+the model to be developed?
+
+Relevant NIST AI RMF Subcategories: MEASURE 2.11"
+"2","08-1b","Have you selected quantitative indicators to evaluate and monitor bias and are you managing them?","numbered","","#: 35
+
+TTA Guidebook Identifier: 08-1b
+
+TTA Guidebook Verification Items: Have you selected quantitative indicators to evaluate and
+monitor bias and are you managing them?
+
+Relevant NIST AI RMF Subcategories: MEASURE 2.11"
+"2","Requirement 09","Establishment of defensive measures for AI model attacks","numbered","","TTA Guidebook Identifier: (Requirement 09) Establishment of defensive measures for AI model attacks"
+"2","Requirement 09-1","Do you have a defense technique in place against model extraction attacks?","numbered","","TTA Guidebook Identifier: (Requirement 09-1) Do you have a defense technique in place against model extraction attacks?"
+"2","09-1a","Have you implemented a defense technique to prepare for model extraction attacks?","numbered","","#: 36
+
+TTA Guidebook Identifier: 09-1a
+
+TTA Guidebook Verification Items: Have you implemented a defense technique to prepare for
+model extraction attacks?
+
+Relevant NIST AI RMF Subcategories: MEASURE 2.7"
+"2","Requirement 09-2","Do you have a defense technique in place against model evasion attacks?","numbered","","TTA Guidebook Verification Items: (Requirement 09-2) Do you have a defense technique in place against model evasion attacks?"
+"2","09-2a","Have you implemented a defense technique to prepare for model evasion attacks?","numbered","","#: 37
+
+TTA Guidebook Identifier: 09-2a
+
+TTA Guidebook Verification Items: Have you implemented a defense technique to prepare for
+model evasion attacks?
+
+Relevant NIST AI RMF Subcategories: MEASURE 2.7"
+"2","Requirement 10","Explanation of AI model specifications and the inference results","numbered","","TTA Guidebook Verification Items: (Requirement 10) Explanation of AI model specifications and the inference results"
+"2","Requirement 10-1","Do you provide evidence for users to accept the generation process of the model's inference results?","numbered","","TTA Guidebook Identifier: (Requirement 10-1) Do you provide evidence for users to accept the generation process of the
+model's inference results?"
+"2","10-1a","If XAI is applicable, have you reviewed the application of the technique to explain the inference results of the AI model?","numbered","","#: 38
+
+TTA Guidebook Identifier: 10-1a
+
+TTA Guidebook Verification Items: If XAI is applicable, have you reviewed the application of the
+technique to explain the inference results of the AI model?
+
+Relevant NIST AI RMF Subcategories: MEASURE 2.9"
+"2","10-1b","If XAI is not applicable, have you prepared measures other than the application of the technique?","numbered","","#: 39
+
+TTA Guidebook Identifier: 10-1b
+
+TTA Guidebook Verification Items: If XAI is not applicable, have you prepared measures other
+than the application of the technique?
+
+Relevant NIST AI RMF Subcategories: MEASURE 2.9"
+"2","Requirement 10-2","Have you transparently provided the specification of the model on the AI model specification document?","numbered","","TTA Guidebook Identifier: (Requirement 10-2) Have you transparently provided the specification of the model on the AI
+model specification document?"
+"2","10-2a","Have you prepared a document that describes the details of the system development process and model operation method?","numbered","","#: 40
+
+TTA Guidebook Identifier: 10-2a
+
+TTA Guidebook Verification Items: Have you prepared a document that describes the details of the
+system development process and model operation method?
+
+Relevant NIST AI RMF Subcategories: GOVERN 1.4, 4.3
+MEASURE 2.8, 2.9"
+"2","Requirement 10-3","When needed, do you provide an explanation about the inference results of the AI model?","numbered","","TTA Guidebook Verification Items: (Requirement 10-3) When needed, do you provide an explanation about the inference results of
+the AI model?"
+"2","10-3a","Have you reviewed whether an explanation of the model's inference result is needed?","numbered","","#: 41
+
+TTA Guidebook Identifier: 10-3a
+
+TTA Guidebook Verification Items: Have you reviewed whether an explanation of the model's
+inference result is needed?
+
+Relevant NIST AI RMF Subcategories: MEASURE 2.9"
+"2","10-3b","Have you provided an explanation to users about the inference results of the AI model?","numbered","","#: 42
+
+TTA Guidebook Identifier: 10-3b
+
+TTA Guidebook Verification Items: Have you provided an explanation to users about the
+inference results of the AI model?
+
+Relevant NIST AI RMF Subcategories: MEASURE 2.9"
+"2","Requirement 11","Removal of potential bias in the implementation of the AI system","numbered","","TTA Guidebook Identifier: (Requirement 11) Removal of potential bias in the implementation of the AI system"
+"2","Requirement 11-1","Have you made an effort to remove bias due to source code and user interface?","numbered","","TTA Guidebook Identifier: (Requirement 11-1) Have you made an effort to remove bias due to source code and user interface?"
+"2","11-1a","Have you examined the possibility of bias in the source code, such as the implementation process of the data access method?","numbered","","#: 43
+
+TTA Guidebook Identifier: 11-1a
+
+TTA Guidebook Verification Items: Have you examined the possibility of bias in the source code,
+such as the implementation process of the data access method?
+
+Relevant NIST AI RMF Subcategories: MEASURE 2.11"
+"2","11-1b","Have you examined bias due to the user interface and interaction method?","numbered","","#: 44
+
+TTA Guidebook Identifier: 11-1b
+
+TTA Guidebook Verification Items: Have you examined bias due to the user interface and
+interaction method?
+
+Relevant NIST AI RMF Subcategories: No equivalent category"
+"2","Requirement 12","Safe mode of AI system and establishment of a process for notification of problems","numbered","","TTA Guidebook Identifier: (Requirement 12) Safe mode of AI system and establishment of a process for notification of problems"
+"2","Requirement 12-1","Have you implemented a safe mode that can respond to problems such as attacks, low performance, and social issues?","numbered","","TTA Guidebook Identifier: (Requirement 12-1) Have you implemented a safe mode that can respond to problems such as
+attacks, low performance, and social issues?"
+"2","12-1a","Have you prepared an exception handling policy for such problems?","numbered","","#: 45
+
+TTA Guidebook Identifier: 12-1a
+
+TTA Guidebook Verification Items: Have you prepared an exception handling policy for such
+problems?
+
+Relevant NIST AI RMF Subcategories: GOVERN 6.2
+MEASURE 2.8
+MANAGE 4.3"
+"2","12-1b","Have you implemented a security technique to reinforce the security of the AI system?","numbered","","#: 46
+
+TTA Guidebook Identifier: 12-1b
+
+TTA Guidebook Verification Items: Have you implemented a security technique to reinforce the
+security of the AI system?
+
+Relevant NIST AI RMF Subcategories: MEASURE 2.7"
+"2","12-1c","Have you considered human intervention if there is a significant ripple effect and high uncertainty due to the AI system's decision-making?","numbered","","#: 47
+
+TTA Guidebook Identifier: 12-1c
+
+TTA Guidebook Verification Items: Have you considered human intervention if there is a
+significant ripple effect and high uncertainty due to the AI
+system's decision-making?
+
+Relevant NIST AI RMF Subcategories: GOVERN 3.2"
+"2","12-1d","Are guidance and action on handling expected user error provided?","numbered","","#: 48
+
+TTA Guidebook Identifier: 12-1d
+
+TTA Guidebook Verification Items: Are guidance and action on handling expected user error
+provided?
+
+Relevant NIST AI RMF Subcategories: MANAGE 4.3"
+"2","Requirement 12-2","Does the system perform the function of alerting the operator if a problem occurs in the AI system?","numbered","","TTA Guidebook Identifier: (Requirement 12-2) Does the system perform the function of alerting the operator if a problem
+occurs in the AI system?"
+"2","12-2a","Have you established a notification process for ethical issues such as prejudice and discrimination?","numbered","","#: 49
+
+TTA Guidebook Identifier: 12-2a
+
+TTA Guidebook Verification Items: Have you established a notification process for ethical issues
+such as prejudice and discrimination?
+
+Relevant NIST AI RMF Subcategories: GOVERN 4.3, 5.2*
+MAP 5.2
+MEASURE 3.3, 4.1
+MANAGE 4.3"
+"2","12-2b","Have you established a notification process by developing procedures and indicators to evaluate the low system performance?","numbered","","#: 50
+
+TTA Guidebook Identifier: 12-2b
+
+TTA Guidebook Verification Items: Have you established a notification process by developing
+procedures and indicators to evaluate the low system
+performance?
+
+Relevant NIST AI RMF Subcategories: MEASURE 2.3
+MANAGE 2.2, 2.4, 4.2,
+4.3"
+"2","Requirement 13","Improvement of users' comprehension of the explanation of the AI system","numbered","","TTA Guidebook Identifier: (Requirement 13) Improvement of users' comprehension of the explanation of the AI system"
+"2","Requirement 13-1","Have you analyzed user characteristics and constraints in the AI system?","numbered","","TTA Guidebook Identifier: (Requirement 13-1) Have you analyzed user characteristics and constraints in the AI system?"
+"2","13-1a","Have you analyzed specific considerations according to the user characteristics?","numbered","","#: 51
+
+TTA Guidebook Identifier: 13-1a
+
+TTA Guidebook Verification Items: Have you analyzed specific considerations according to the
+user characteristics?
+
+Relevant NIST AI RMF Subcategories: MEASURE 2.9"
+"2","Requirement 13-2","Have you provided a thorough explanation based on user characteristics?","numbered","","TTA Guidebook Identifier: (Requirement 13-2) Have you provided a thorough explanation based on user characteristics?"
+"2","13-2a","Have you established criteria for the evaluation of explanation according to user characteristics?","numbered","","#: 52
+
+TTA Guidebook Identifier: 13-2a
+
+TTA Guidebook Verification Items: Have you established criteria for the evaluation of explanation
+according to user characteristics?
+
+Relevant NIST AI RMF Subcategories: MEASURE 2.9"
+"2","13-2b","Have you refrained from using technical terms that are difficult for users to understand?","numbered","","#: 53
+
+TTA Guidebook Identifier: 13-2b
+
+TTA Guidebook Verification Items: Have you refrained from using technical terms that are
+difficult for users to understand?
+
+Relevant NIST AI RMF Subcategories: MEASURE 2.9"
+"2","13-2c","Have you used accurate expressions to lead users to specific behaviors and comprehension?","numbered","","#: 54
+
+TTA Guidebook Identifier: 13-2c
+
+TTA Guidebook Verification Items: Have you used accurate expressions to lead users to specific
+behaviors and comprehension?
+
+Relevant NIST AI RMF Subcategories: MEASURE 2.9"
+"2","13-2d","Are the location and timing where an explanation is needed appropriate?","numbered","","#: 55
+
+TTA Guidebook Identifier: 13-2d
+
+TTA Guidebook Verification Items: Are the location and timing where an explanation is needed
+appropriate?
+
+Relevant NIST AI RMF Subcategories: MEASURE 2.9"
+"2","13-2e","Have you utilized various user survey techniques to evaluate user experience?","numbered","","#: 56
+
+TTA Guidebook Identifier: 13-2e
+
+TTA Guidebook Verification Items: Have you utilized various user survey techniques to evaluate
+user experience?
+
+Relevant NIST AI RMF Subcategories: MEASURE 2.9"
+"2","Requirement 14","Ensuring traceability and modification history of the AI system","numbered","","TTA Guidebook Identifier: (Requirement 14) Ensuring traceability and modification history of the AI system"
+"2","Requirement 14-1","Have you established measures to track the AI system's decision-making?","numbered","","TTA Guidebook Identifier: (Requirement 14-1) Have you established measures to track the AI system's decision-making?"
+"2","14-1a","Have you developed measures to track the contribution to the AI system's decision-making?","numbered","","#: 57
+
+TTA Guidebook Identifier: 14-1a
+
+TTA Guidebook Verification Items: Have you developed measures to track the contribution to the
+AI system's decision-making?
+
+Relevant NIST AI RMF Subcategories: GOVERN 6.1"
+"2","14-1b","Have you put in place the log collection function to track the AI system's decision-making?","numbered","","#: 58
+
+TTA Guidebook Identifier: 14-1b
+
+TTA Guidebook Verification Items: Have you put in place the log collection function to track the AI
+system's decision-making?
+
+Relevant NIST AI RMF Subcategories: MEASURE 2.4"
+"2","14-1c","Do you collect and manage user logs to continuously monitor user experience?","numbered","","#: 59
+
+TTA Guidebook Identifier: 14-1c
+
+TTA Guidebook Verification Items: Do you collect and manage user logs to continuously monitor
+user experience?
+
+Relevant NIST AI RMF Subcategories: GOVERN 6.1"
+"2","Requirement 14-2","Have you obtained the modification history of training data and managed the impact of data modifications?","numbered","","TTA Guidebook Identifier: (Requirement 14-2) Have you obtained the modification history of training data and managed the
+impact of data modifications?"
+"2","14-2a","Have you prepared measures to track the data flow and lineage?","numbered","","#: 60
+
+TTA Guidebook Identifier: 14-2a
+
+TTA Guidebook Verification Items: Have you prepared measures to track the data flow and lineage?
+
+Relevant NIST AI RMF Subcategories: MAP 2.3"
+"2","14-2b","Have you developed measures to monitor modifications in the data source?","numbered","","#: 61
+
+TTA Guidebook Identifier: 14-2b
+
+TTA Guidebook Verification Items: Have you developed measures to monitor modifications in the
+data source?
+
+Relevant NIST AI RMF Subcategories: MANAGE 3.1"
+"2","14-2c","Have you managed the versions during data change?","numbered","","#: 62
+
+TTA Guidebook Identifier: 14-2c
+
+TTA Guidebook Verification Items: Have you managed the versions during data change?
+
+Relevant NIST AI RMF Subcategories: MANAGE 4.3"
+"2","14-2d","Do you provide information to stakeholders when data change?","numbered","","#: 63
+
+TTA Guidebook Identifier: 14-2d
+
+TTA Guidebook Verification Items: Do you provide information to stakeholders when data change?
+
+Relevant NIST AI RMF Subcategories: GOVERN 1.4, 4.3"
+"2","14-2e","When new data have been collected, do you reevaluate the performance of the AI model?","numbered","","#: 64
+
+TTA Guidebook Identifier: 14-2e
+
+TTA Guidebook Verification Items: When new data have been collected, do you reevaluate the
+performance of the AI model?
+
+Relevant NIST AI RMF Subcategories: MEASURE 4.3"
+"2","Requirement 15","Explanation about the scope of services provided and the subject of interactions","numbered","","TTA Guidebook Verification Items: (Requirement 15) Explanation about the scope of services provided and the subject of interactions"
+"2","Requirement 15-1","Do you provide an explanation to encourage proper usage of the AI service?","numbered","","TTA Guidebook Identifier: (Requirement 15-1) Do you provide an explanation to encourage proper usage of the AI service?"
+"2","15-1a","Do you provide an explanation about the goal and objective of the AI service?","numbered","","#: 65
+
+TTA Guidebook Identifier: 15-1a
+
+TTA Guidebook Verification Items: Do you provide an explanation about the goal and objective of
+the AI service?
+
+Relevant NIST AI RMF Subcategories: MAP 1.1, 2.2"
+"2","15-1b","Do you provide an explanation about the limitation and scope of the AI service?","numbered","","#: 66
+
+TTA Guidebook Identifier: 15-1b
+
+TTA Guidebook Verification Items: Do you provide an explanation about the limitation and scope
+of the AI service?
+
+Relevant NIST AI RMF Subcategories: GOVERN 4.3
+MAP 1.1, 2.2, 3.3
+MEASURE 2.5"
+"2","Requirement 15-2","Do you accurately explain the subject of the interaction?","numbered","","TTA Guidebook Identifier: (Requirement 15-2) Do you accurately explain the subject of the interaction?"
+"2","15-2a","Have you accurately explained to users that they are interacting with the AI?","numbered","","#: 67
+
+TTA Guidebook Identifier: 15-2a
+
+TTA Guidebook Verification Items: Have you accurately explained to users that they are
+interacting with the AI?
+
+Relevant NIST AI RMF Subcategories: MAP 3.4"
+"2","GOVERN","GOVERN","numbered","","NIST AI RMF Identifier: GOVERN"
+"2","GOVERN 1","Policies, processes, procedures, and practices across the organization related to the mapping, measuring, and managing of AI risks are in place, transparent, an","numbered","","NIST AI RMF Identifier: GOVERN 1: Policies, processes, procedures, and practices across the organization related to the
+mapping, measuring, and managing of AI risks are in place, transparent, and
+implemented effectively."
+"2","GOVERN 1.1","GOVERN 1.1","numbered","","#: 1
+
+NIST AI RMF Identifier: GOVERN 1.1
+
+NIST AI RMF Subcategories: Legal
+and
+regulatory
+requirements
+involving
+AI
+are
+understood, managed, and documented.
+
+Relevant TTA Guidebook Verification Items: 02-1a"
+"2","GOVERN 1.2","GOVERN 1.2","numbered","","#: 2
+
+NIST AI RMF Identifier: GOVERN 1.2
+
+NIST AI RMF Subcategories: The characteristics of trustworthy AI are integrated into
+organizational policies, processes, procedures, and practices.
+
+Relevant TTA Guidebook Verification Items: 02-2a"
+"2","GOVERN 1.3","GOVERN 1.3","numbered","","#: 3
+
+NIST AI RMF Identifier: GOVERN 1.3
+
+NIST AI RMF Subcategories: Processes, procedures, and practices are in place to
+determine the needed level of risk management activities
+based on the organization's risk tolerance.
+
+Relevant TTA Guidebook Verification Items: No equivalent item"
+"2","GOVERN 1.4","GOVERN 1.4","numbered","","#: 4
+
+NIST AI RMF Identifier: GOVERN 1.4
+
+NIST AI RMF Subcategories: The risk management process and its outcomes are
+established through transparent policies, procedures, and
+other controls based on organizational risk priorities.
+
+Relevant TTA Guidebook Verification Items: 02-1a
+10-2a
+14-2d"
+"2","GOVERN 1.5","GOVERN 1.5","numbered","","#: 5
+
+NIST AI RMF Identifier: GOVERN 1.5
+
+NIST AI RMF Subcategories: Ongoing
+monitoring
+and
+periodic
+review
+of
+the
+risk
+management process and its outcomes are planned and
+organizational roles and responsibilities clearly defined,
+including determining the frequency of periodic review.
+
+Relevant TTA Guidebook Verification Items: 02-2a"
+"2","GOVERN 1.6","GOVERN 1.6","numbered","","#: 6
+
+NIST AI RMF Identifier: GOVERN 1.6
+
+NIST AI RMF Subcategories: Mechanisms are in place to inventory AI systems and are
+resourced according to organizational risk priorities.
+
+Relevant TTA Guidebook Verification Items: No equivalent item"
+"2","GOVERN 1.7","GOVERN 1.7","numbered","","#: 7
+
+NIST AI RMF Identifier: GOVERN 1.7
+
+NIST AI RMF Subcategories: Processes and procedures are in place for decommissioning
+and phasing out AI systems safely and in a manner that does
+not increase risks or decrease the organization's trustworthiness.
+
+Relevant TTA Guidebook Verification Items: No equivalent item"
+"2","GOVERN 2","Accountability structures are in place so that the appropriate teams and individuals are empowered, responsible, and trained for mapping, measuring, and managin","numbered","","NIST AI RMF Identifier: GOVERN 2: Accountability structures are in place so that the appropriate teams and individuals are
+empowered, responsible, and trained for mapping, measuring, and managing AI risks."
+"2","GOVERN 2.1","GOVERN 2.1","numbered","","#: 8
+
+NIST AI RMF Identifier: GOVERN 2.1
+
+NIST AI RMF Subcategories: Roles and responsibilities and lines of communication related
+to mapping, measuring, and managing AI risks are documented
+and are clear to individuals and teams throughout the organization.
+
+Relevant TTA Guidebook Verification Items: 02-1a"
+"2","GOVERN 2.2","GOVERN 2.2","numbered","","#: 9
+
+NIST AI RMF Identifier: GOVERN 2.2
+
+NIST AI RMF Subcategories: The organization's personnel and partners receive AI risk
+management training to enable them to perform their
+duties and responsibilities consistent with related policies,
+procedures, and agreements.
+
+Relevant TTA Guidebook Verification Items: 02-2b
+04-1d"
+"2","GOVERN 2.3","GOVERN 2.3","numbered","","#: 10
+
+NIST AI RMF Identifier: GOVERN 2.3
+
+NIST AI RMF Subcategories: Executive leadership of the organization takes responsibility
+for decisions about risks associated with AI system
+development and deployment.
+
+Relevant TTA Guidebook Verification Items: 02-3a"
+"2","GOVERN 3","Workforce diversity, equity, inclusion, and accessibility processes are prioritized in the mapping, measuring, and managing of AI risks throughout the lifecycle","numbered","","NIST AI RMF Identifier: GOVERN 3: Workforce diversity, equity, inclusion, and accessibility processes are prioritized in the
+mapping, measuring, and managing of AI risks throughout the lifecycle."
+"2","GOVERN 3.1","GOVERN 3.1","numbered","","#: 11
+
+NIST AI RMF Identifier: GOVERN 3.1
+
+NIST AI RMF Subcategories: Decision-making related to mapping, measuring, and
+managing AI risks throughout the lifecycle is informed by a
+diverse team (e.g., diversity of demographics, disciplines,
+experience, expertise, and backgrounds).
+
+Relevant TTA Guidebook Verification Items: 02-2b"
+"2","GOVERN 3.2","GOVERN 3.2","numbered","","#: 12
+
+NIST AI RMF Identifier: GOVERN 3.2
+
+NIST AI RMF Subcategories: Policies and procedures are in place to define and
+differentiate
+roles
+and
+responsibilities
+for
+human-AI
+configurations and oversight of AI systems.
+
+Relevant TTA Guidebook Verification Items: 12-1c
+
+NIST AI RMF Subcategories: GOVERN 4: Organizational teams are committed to a culture that considers and communicates AI risk."
+"2","GOVERN 4.1","GOVERN 4.1","numbered","","#: 13
+
+NIST AI RMF Identifier: GOVERN 4.1
+
+NIST AI RMF Subcategories: Organizational policies and practices are in place to foster a
+critical thinking and safety-first mindset in the design,
+development, deployment, and uses of AI systems to
+minimize potential negative impacts.
+
+Relevant TTA Guidebook Verification Items: No equivalent item"
+"2","GOVERN 4.2","GOVERN 4.2","numbered","","#: 14
+
+NIST AI RMF Identifier: GOVERN 4.2
+
+NIST AI RMF Subcategories: Organizational teams document the risks and potential
+impacts of the AI technology they design, develop, deploy,
+evaluate, and use, and they communicate about the
+impacts more broadly.
+
+Relevant TTA Guidebook Verification Items: 04-1b
+04-2a"
+"2","GOVERN 4.3","GOVERN 4.3","numbered","","#: 15
+
+NIST AI RMF Identifier: GOVERN 4.3
+
+NIST AI RMF Subcategories: Organizational practices are in place to enable AI testing,
+identification of incidents, and information sharing.
+
+Relevant TTA Guidebook Verification Items: 10-2a
+12-2a
+14-2d
+15-1b"
+"2","GOVERN 5","Processes are in place for robust engagement with relevant AI actors.","numbered","","NIST AI RMF Identifier: GOVERN 5: Processes are in place for robust engagement with relevant AI actors."
+"2","GOVERN 5.1","GOVERN 5.1","numbered","","#: 16
+
+NIST AI RMF Identifier: GOVERN 5.1
+
+NIST AI RMF Subcategories: Organizational policies and practices are in place to collect,
+consider, prioritize, and integrate feedback from those
+external to the team that developed or deployed the AI
+system regarding the potential individual and societal
+impacts related to AI risks.
+
+Relevant TTA Guidebook Verification Items: 03-2a
+03-2b"
+"2","GOVERN 5.2","GOVERN 5.2","numbered","","#: 17
+
+NIST AI RMF Identifier: GOVERN 5.2
+
+NIST AI RMF Subcategories: Mechanisms are established to enable the team that
+developed or deployed AI systems to regularly incorporate
+adjudicated feedback from relevant AI actors into system
+design and implementation.
+
+Relevant TTA Guidebook Verification Items: 03-2b"
+"2","GOVERN 6","Policies and procedures are in place to address AI risks and benefits arising from third-party software and data and other supply chain issues.","numbered","","NIST AI RMF Identifier: GOVERN 6: Policies and procedures are in place to address AI risks and benefits arising from
+third-party software and data and other supply chain issues."
+"2","GOVERN 6.1","GOVERN 6.1","numbered","","#: 18
+
+NIST AI RMF Identifier: GOVERN 6.1
+
+NIST AI RMF Subcategories: Policies and procedures are in place that address AI risks
+associated with third-party entities, including risks of
+infringement of a third-party's intellectual property or other
+rights.
+
+Relevant TTA Guidebook Verification Items: 06-1c
+07-2a
+14-1a
+14-1c"
+"2","GOVERN 6.2","GOVERN 6.2","numbered","","#: 19
+
+NIST AI RMF Identifier: GOVERN 6.2
+
+NIST AI RMF Subcategories: Contingency processes are in place to handle failures or
+incidents in third-party data or AI systems deemed to be
+high-risk.
+
+Relevant TTA Guidebook Verification Items: 12-1a"
+"2","MAP","MAP","numbered","","NIST AI RMF Identifier: MAP
+
+NIST AI RMF Subcategories: MAP 1: Context is established and understood."
+"2","MAP 1.1","MAP 1.1","numbered","","#: 20
+
+NIST AI RMF Identifier: MAP 1.1
+
+NIST AI RMF Subcategories: Intended purposes, potentially beneficial uses, context
+specific laws, norms and expectations, and prospective
+settings in which the AI system will be deployed are
+understood and documented. Considerations include the
+specific set or types of users along with their expectations;
+potential positive and negative impacts of system uses to
+individuals, communities, organizations, society, and the
+planet; assumptions and related limitations about AI system
+purposes, uses, and risks across the development or
+product AI lifecycle; and related TEVV and system metrics.
+
+Relevant TTA Guidebook Verification Items: 15-1a
+15-1b"
+"2","MAP 1.2","MAP 1.2","numbered","","#: 21
+
+NIST AI RMF Identifier: MAP 1.2
+
+NIST AI RMF Subcategories: Interdisciplinary
+AI
+actors,
+competencies,
+skills,
+and
+capacities for establishing context reflect demographic
+diversity and broad domain and user experience expertise,
+and their participation is documented. Opportunities for
+interdisciplinary collaboration are prioritized.
+
+Relevant TTA Guidebook Verification Items: 02-2b
+06-1a
+06-3b
+06-3c"
+"2","MAP 1.3","MAP 1.3","numbered","","#: 22
+
+NIST AI RMF Identifier: MAP 1.3
+
+NIST AI RMF Subcategories: The organization's mission and relevant goals for AI
+technology are understood and documented.
+
+Relevant TTA Guidebook Verification Items: No equivalent item"
+"2","MAP 1.4","MAP 1.4","numbered","","#: 23
+
+NIST AI RMF Identifier: MAP 1.4
+
+NIST AI RMF Subcategories: The business value or context of business use has been
+clearly defined or – in the case of assessing existing AI
+systems – re-evaluated.
+
+Relevant TTA Guidebook Verification Items: No equivalent item"
+"2","MAP 1.5","MAP 1.5","numbered","","#: 24
+
+NIST AI RMF Identifier: MAP 1.5
+
+NIST AI RMF Subcategories: Organizational
+risk
+tolerances
+are
+determined
+and
+documented.
+
+Relevant TTA Guidebook Verification Items: No equivalent item"
+"2","MAP 1.6","MAP 1.6","numbered","","#: 25
+
+NIST AI RMF Identifier: MAP 1.6
+
+NIST AI RMF Subcategories: System requirements (e.g., ""the system shall respect the
+privacy of its users"") are elicited from and understood by
+relevant AI actors. Design decisions take socio-technical
+implications into account to address AI risks.
+
+Relevant TTA Guidebook Verification Items: 03-2b"
+"2","MAP 2","Categorization of the AI system is performed.","numbered","","NIST AI RMF Identifier: MAP 2: Categorization of the AI system is performed."
+"2","MAP 2.1","MAP 2.1","numbered","","#: 26
+
+NIST AI RMF Identifier: MAP 2.1
+
+NIST AI RMF Subcategories: The specific tasks and methods used to implement the
+tasks that the AI system will support are defined (e.g.,
+classifiers, generative models, recommenders).
+
+Relevant TTA Guidebook Verification Items: No equivalent item"
+"2","MAP 2.2","MAP 2.2","numbered","","#: 27
+
+NIST AI RMF Identifier: MAP 2.2
+
+NIST AI RMF Subcategories: Information about the AI system's knowledge limits and
+how system output may be utilized and overseen by
+humans is documented. Documentation provides sufficient
+information to assist relevant AI actors when making
+decisions and taking subsequent actions.
+
+Relevant TTA Guidebook Verification Items: 04-1a
+15-1a
+15-1b"
+"2","MAP 2.3","MAP 2.3","numbered","","#: 28
+
+NIST AI RMF Identifier: MAP 2.3
+
+NIST AI RMF Subcategories: Scientific integrity and TEVV considerations are identified
+and documented, including those related to experimental
+design, data collection and selection (e.g., availability,
+representativeness,
+suitability),
+system
+trustworthiness,
+and construct validation.
+
+Relevant TTA Guidebook Verification Items: 03-1a
+05-1b
+06-3a
+14-2a"
+"2","MAP 3","AI capabilities, targeted usage, goals, and expected benefits and costs compared with appropriate benchmarks are understood.","numbered","","NIST AI RMF Identifier: MAP 3: AI capabilities, targeted usage, goals, and expected benefits and costs compared with
+appropriate benchmarks are understood."
+"2","MAP 3.1","MAP 3.1","numbered","","#: 29
+
+NIST AI RMF Identifier: MAP 3.1
+
+NIST AI RMF Subcategories: Potential benefits of intended AI system functionality and
+performance are examined and documented.
+
+Relevant TTA Guidebook Verification Items: No equivalent item"
+"2","MAP 3.2","MAP 3.2","numbered","","#: 30
+
+NIST AI RMF Identifier: MAP 3.2
+
+NIST AI RMF Subcategories: Potential costs, including non-monetary costs, which result
+from expected or realized AI errors or system functionality
+and trustworthiness – as connected to organizational risk
+tolerance – are examined and documented.
+
+Relevant TTA Guidebook Verification Items: 01-1a"
+"2","MAP 3.3","MAP 3.3","numbered","","#: 31
+
+NIST AI RMF Identifier: MAP 3.3
+
+NIST AI RMF Subcategories: Targeted application scope is specified and documented
+based on the system's capability, established context, and
+AI system categorization.
+
+Relevant TTA Guidebook Verification Items: 15-1b"
+"2","MAP 3.4","MAP 3.4","numbered","","#: 32
+
+NIST AI RMF Identifier: MAP 3.4
+
+NIST AI RMF Subcategories: Processes for operator and practitioner proficiency with AI
+system performance and trustworthiness – and relevant
+technical
+standards
+and
+certifications
+–
+are
+defined,
+assessed, and documented.
+
+Relevant TTA Guidebook Verification Items: 15-2a"
+"2","MAP 3.5","MAP 3.5","numbered","","#: 33
+
+NIST AI RMF Identifier: MAP 3.5
+
+NIST AI RMF Subcategories: Processes for human oversight are defined, assessed, and
+documented in accordance with organizational policies from
+the GOVERN function.
+
+Relevant TTA Guidebook Verification Items: 02-1a"
+"2","MAP 4","Risks and benefits are mapped for all components of the AI system including third-party software and data.","numbered","","NIST AI RMF Identifier: MAP 4: Risks and benefits are mapped for all components of the AI system including third-party
+software and data."
+"2","MAP 4.1","MAP 4.1","numbered","","#: 34
+
+NIST AI RMF Identifier: MAP 4.1
+
+NIST AI RMF Subcategories: Approaches for mapping AI technology and legal risks of its
+components – including the use of third-party data or
+software – are in place, followed, and documented, as are
+risks of infringement of a third party's intellectual property
+or other rights.
+
+Relevant TTA Guidebook Verification Items: 04-2a
+04-2b
+07-1a
+07-2a
+07-2b"
+"2","MAP 4.2","MAP 4.2","numbered","","#: 35
+
+NIST AI RMF Identifier: MAP 4.2
+
+NIST AI RMF Subcategories: Internal risk controls for components of the AI system, including
+third-party AI technologies, are identified and documented.
+
+Relevant TTA Guidebook Verification Items: 04-2a"
+"2","MAP 5","Impacts to individuals, groups, communities, organizations, and society are characterized.","numbered","","NIST AI RMF Identifier: MAP 5: Impacts to individuals, groups, communities, organizations, and society are characterized."
+"2","MAP 5.1","MAP 5.1","numbered","","#: 36
+
+NIST AI RMF Identifier: MAP 5.1
+
+NIST AI RMF Subcategories: Likelihood and magnitude of each identified impact (both
+potentially beneficial and harmful) based on expected use,
+past uses of AI systems in similar contexts, public incident
+reports, feedback from those external to the team that
+developed or deployed the AI system, or other data are
+identified and documented.
+
+Relevant TTA Guidebook Verification Items: 01-1a"
+"2","MAP 5.2","MAP 5.2","numbered","","#: 37
+
+NIST AI RMF Identifier: MAP 5.2
+
+NIST AI RMF Subcategories: Practices and personnel for supporting regular engagement
+with relevant AI actors and integrating feedback about
+positive, negative, and unanticipated impacts are in place
+and documented.
+
+Relevant TTA Guidebook Verification Items: 12-2a"
+"2","MEASURE","MEASURE","numbered","","NIST AI RMF Identifier: MEASURE
+
+NIST AI RMF Subcategories: MEASURE 1: Appropriate methods and metrics are identified and applied."
+"2","MEASURE 1.1","MEASURE 1.1","numbered","","#: 38
+
+NIST AI RMF Identifier: MEASURE 1.1
+
+NIST AI RMF Subcategories: Approaches and metrics for measurement of AI risks
+enumerated during the MAP function are selected for
+implementation starting with the most significant AI risks.
+The risks or trustworthiness characteristics that will not – or
+cannot – be measured are properly documented.
+
+Relevant TTA Guidebook Verification Items: 04-2a"
+"2","MEASURE 1.2","MEASURE 1.2","numbered","","#: 39
+
+NIST AI RMF Identifier: MEASURE 1.2
+
+NIST AI RMF Subcategories: Appropriateness of AI metrics and effectiveness of existing
+controls are regularly assessed and updated, including reports
+of errors and potential impacts on affected communities.
+
+Relevant TTA Guidebook Verification Items: No equivalent item"
+"2","MEASURE 1.3","MEASURE 1.3","numbered","","#: 40
+
+NIST AI RMF Identifier: MEASURE 1.3
+
+NIST AI RMF Subcategories: Internal experts who did not serve as front-line developers
+for the system and/or independent assessors are involved
+in regular assessments and updates. Domain experts,
+users, AI actors external to the team that developed or
+deployed the AI system, and affected communities are
+consulted in support of assessments as necessary per
+organizational risk tolerance.
+
+Relevant TTA Guidebook Verification Items: 02-2b
+03-2a
+03-2b"
+"2","MEASURE 2","AI systems are evaluated for trustworthy characteristics.","numbered","","NIST AI RMF Identifier: MEASURE 2: AI systems are evaluated for trustworthy characteristics."
+"2","MEASURE 2.1","MEASURE 2.1","numbered","","#: 41
+
+NIST AI RMF Identifier: MEASURE 2.1
+
+NIST AI RMF Subcategories: Testsets, metrics, and details about the tools used during
+TEVV are documented.
+
+Relevant TTA Guidebook Verification Items: No equivalent item"
+"2","MEASURE 2.2","MEASURE 2.2","numbered","","#: 42
+
+NIST AI RMF Identifier: MEASURE 2.2
+
+NIST AI RMF Subcategories: Evaluations involving human subjects meet applicable
+requirements (including human subject protection) and are
+representative of the relevant population.
+
+Relevant TTA Guidebook Verification Items: No equivalent item"
+"2","MEASURE 2.3","MEASURE 2.3","numbered","","#: 43
+
+NIST AI RMF Identifier: MEASURE 2.3
+
+NIST AI RMF Subcategories: AI system performance or assurance criteria are measured
+qualitatively or quantitatively and demonstrated for conditions
+similar to deployment setting(s). Measures are documented.
+
+Relevant TTA Guidebook Verification Items: 12-2b"
+"2","MEASURE 2.4","MEASURE 2.4","numbered","","#: 44
+
+NIST AI RMF Identifier: MEASURE 2.4
+
+NIST AI RMF Subcategories: The functionality and behavior of the AI system and its
+components – as identified in the MAP function – are
+monitored when in production.
+
+Relevant TTA Guidebook Verification Items: 14-1b"
+"2","MEASURE 2.5","MEASURE 2.5","numbered","","#: 45
+
+NIST AI RMF Identifier: MEASURE 2.5
+
+NIST AI RMF Subcategories: The AI system to be deployed is demonstrated to be valid
+and reliable. Limitations of the generalizability beyond the
+conditions under which the technology was developed are
+documented.
+
+Relevant TTA Guidebook Verification Items: 03-1b
+15-1b"
+"2","MEASURE 2.6","MEASURE 2.6","numbered","","#: 46
+
+NIST AI RMF Identifier: MEASURE 2.6
+
+NIST AI RMF Subcategories: The AI system is evaluated regularly for safety risks – as
+identified in the MAP function. The AI system to be deployed
+is demonstrated to be safe, its residual negative risk does
+not exceed the risk tolerance, and it can fail safely, particularly
+if made to operate beyond its knowledge limits. Safety
+metrics reflect system reliability and robustness, real-time
+monitoring, and response times for AI system failures.
+
+Relevant TTA Guidebook Verification Items: 03-1b"
+"2","MEASURE 2.7","MEASURE 2.7","numbered","","#: 47
+
+NIST AI RMF Identifier: MEASURE 2.7
+
+NIST AI RMF Subcategories: AI system security and resilience – as identified in the MAP
+function – are evaluated and documented.
+
+Relevant TTA Guidebook Verification Items: 05-2a
+09-1a
+09-2a
+12-1b"
+"2","MEASURE 2.8","MEASURE 2.8","numbered","","#: 48
+
+NIST AI RMF Identifier: MEASURE 2.8
+
+NIST AI RMF Subcategories: Risks associated with transparency and account ability – as
+identified in the MAP function - are examined and documented.
+
+Relevant TTA Guidebook Verification Items: 10-2a
+12-1a"
+"2","MEASURE 2.9","MEASURE 2.9","numbered","","#: 49
+
+NIST AI RMF Identifier: MEASURE 2.9
+
+NIST AI RMF Subcategories: The AI model is explained, validated, and documented, and AI
+system output is interpreted within its context – as identified in
+the MAP function – to inform responsible use and governance.
+
+Relevant TTA Guidebook Verification Items: 10-1a
+10-1b
+10-2a
+10-3a
+10-3b
+13-1a
+13-2a
+13-2b
+13-2c
+13-2d
+13-2e"
+"2","MEASURE 2.10","MEASURE 2.10","numbered","","#: 50
+
+NIST AI RMF Identifier: MEASURE 2.10
+
+NIST AI RMF Subcategories: Privacy risk of the AI system – as identified in the MAP
+function – is examined and documented.
+
+Relevant TTA Guidebook Verification Items: 04-1c
+06-2a"
+"2","MEASURE 2.11","MEASURE 2.11","numbered","","#: 51
+
+NIST AI RMF Identifier: MEASURE 2.11
+
+NIST AI RMF Subcategories: Fairness and bias – as identified in the MAP function – are
+evaluated and results are documented.
+
+Relevant TTA Guidebook Verification Items: 06-2b
+06-4a
+08-1a
+08-1b
+11-1a"
+"2","MEASURE 2.12","MEASURE 2.12","numbered","","#: 52
+
+NIST AI RMF Identifier: MEASURE 2.12
+
+NIST AI RMF Subcategories: Environmental impact and sustainability of AI model training
+and management activities – as identified in the MAP
+function – are assessed and documented.
+
+Relevant TTA Guidebook Verification Items: No equivalent item"
+"2","MEASURE 2.13","MEASURE 2.13","numbered","","#: 53
+
+NIST AI RMF Identifier: MEASURE 2.13
+
+NIST AI RMF Subcategories: Effectiveness of the employed TEVV metrics and processes
+in the MEASURE function are evaluated and documented.
+
+Relevant TTA Guidebook Verification Items: No equivalent item"
+"2","MEASURE 3","Mechanisms for tracking identified AI risks over time are in place.","numbered","","NIST AI RMF Identifier: MEASURE 3: Mechanisms for tracking identified AI risks over time are in place."
+"2","MEASURE 3.1","MEASURE 3.1","numbered","","#: 54
+
+NIST AI RMF Identifier: MEASURE 3.1
+
+NIST AI RMF Subcategories: Approaches, personnel, and documentation are in place to
+regularly identify and track existing, unanticipated, and
+emergent AI risks based on factors such as intended and
+actual performance in deployed contexts.
+
+Relevant TTA Guidebook Verification Items: 01-1a"
+"2","MEASURE 3.2","MEASURE 3.2","numbered","","#: 55
+
+NIST AI RMF Identifier: MEASURE 3.2
+
+NIST AI RMF Subcategories: Risk tracking approaches are considered for settings where
+AI risks are difficult to assess using currently available
+measurement techniques or where metrics are not yet
+available.
+
+Relevant TTA Guidebook Verification Items: No equivalent item"
+"2","MEASURE 3.3","MEASURE 3.3","numbered","","#: 56
+
+NIST AI RMF Identifier: MEASURE 3.3
+
+NIST AI RMF Subcategories: Feedback
+processes
+for
+end
+users
+and
+impacted
+communities
+to
+report
+problems
+and
+appeal
+system
+outcomes are established and integrated into AI system
+evaluation metrics.
+
+Relevant TTA Guidebook Verification Items: 12-2a"
+"2","MEASURE 4","Feedback about efficacy of measurement is gathered and assessed.","numbered","","NIST AI RMF Identifier: MEASURE 4: Feedback about efficacy of measurement is gathered and assessed."
+"2","MEASURE 4.1","MEASURE 4.1","numbered","","#: 57
+
+NIST AI RMF Identifier: MEASURE 4.1
+
+NIST AI RMF Subcategories: Measurement
+approaches
+for
+identifying
+AI
+risks
+are
+connected to deployment context(s) and informed through
+consultation with domain experts and other end users.
+Approaches are documented.
+
+Relevant TTA Guidebook Verification Items: 12-2a"
+"2","MEASURE 4.2","MEASURE 4.2","numbered","","#: 58
+
+NIST AI RMF Identifier: MEASURE 4.2
+
+NIST AI RMF Subcategories: Measurement results regarding AI system trustworthiness
+in deployment context(s) and across the AI lifecycle are
+informed by input from domain experts and relevant AI
+actors to validate whether the system is performing
+consistently as intended. Results are documented.
+
+Relevant TTA Guidebook Verification Items: 03-2b"
+"2","MEASURE 4.3","MEASURE 4.3","numbered","","#: 59
+
+NIST AI RMF Identifier: MEASURE 4.3
+
+NIST AI RMF Subcategories: Measurable performance improvements or declines based
+on consultations with relevant AI actors, including affected
+communities, and field data about context relevant risks and
+trustworthiness characteristics are identified and documented.
+
+Relevant TTA Guidebook Verification Items: 14-2e"
+"2","MANAGE","MANAGE","numbered","","NIST AI RMF Identifier: MANAGE"
+"2","MANAGE 1","AI risks based on assessments and other analytical output from the MAP and MEASURE functions are prioritized, responded to, and managed.","numbered","","NIST AI RMF Identifier: MANAGE 1: AI risks based on assessments and other analytical output from the MAP and
+MEASURE functions are prioritized, responded to, and managed."
+"2","MANAGE 1.1","MANAGE 1.1","numbered","","#: 60
+
+NIST AI RMF Identifier: MANAGE 1.1
+
+NIST AI RMF Subcategories: A determination is made as to whether the AI system
+achieves its intended purposes and stated objectives and
+whether its development or deployment should proceed.
+
+Relevant TTA Guidebook Verification Items: No equivalent item"
+"2","MANAGE 1.2","MANAGE 1.2","numbered","","#: 61
+
+NIST AI RMF Identifier: MANAGE 1.2
+
+NIST AI RMF Subcategories: Treatment of documented AI risks is prioritized based on
+impact, likelihood, and available resources or methods.
+
+Relevant TTA Guidebook Verification Items: 01-1a"
+"2","MANAGE 1.3","MANAGE 1.3","numbered","","#: 62
+
+NIST AI RMF Identifier: MANAGE 1.3
+
+NIST AI RMF Subcategories: Responses to the AI risks deemed high priority, as
+identified by the MAP function, are developed, planned, and
+documented. Risk response options can include mitigating,
+transferring, avoiding, or accepting.
+
+Relevant TTA Guidebook Verification Items: 01-2a"
+"2","MANAGE 1.4","MANAGE 1.4","numbered","","#: 63
+
+NIST AI RMF Identifier: MANAGE 1.4
+
+NIST AI RMF Subcategories: Negative
+residual
+risks
+(defined
+as
+the
+sum
+of
+all
+unmitigated risks) to both downstream acquirers of AI
+systems and end users are documented.
+
+Relevant TTA Guidebook Verification Items: No equivalent item"
+"2","MANAGE 2","Strategies to maximize AI benefits and minimize negative impacts are planned, prepared, implemented, documented, and informed by input from relevant AI actors.","numbered","","NIST AI RMF Identifier: MANAGE 2: Strategies to maximize AI benefits and minimize negative impacts are planned,
+prepared, implemented, documented, and informed by input from relevant AI actors."
+"2","MANAGE 2.1","MANAGE 2.1","numbered","","#: 64
+
+NIST AI RMF Identifier: MANAGE 2.1
+
+NIST AI RMF Subcategories: Resources required to manage AI risks are taken into
+account – along with viable non-AI alternative systems,
+approaches, or methods – to reduce the magnitude or
+likelihood of potential impacts.
+
+Relevant TTA Guidebook Verification Items: 01-2a"
+"2","MANAGE 2.2","MANAGE 2.2","numbered","","#: 65
+
+NIST AI RMF Identifier: MANAGE 2.2
+
+NIST AI RMF Subcategories: Mechanisms are in place and applied to sustain the value of
+deployed AI systems.
+
+Relevant TTA Guidebook Verification Items: 12-2b"
+"2","MANAGE 2.3","MANAGE 2.3","numbered","","#: 66
+
+NIST AI RMF Identifier: MANAGE 2.3
+
+NIST AI RMF Subcategories: Procedures are followed to respond to and recover from a
+previously unknown risk when it is identified.
+
+Relevant TTA Guidebook Verification Items: 01-1a"
+"2","MANAGE 2.4","MANAGE 2.4","numbered","","#: 67
+
+NIST AI RMF Identifier: MANAGE 2.4
+
+NIST AI RMF Subcategories: Mechanisms are in place and applied, and responsibilities
+are assigned and understood, to supersede, disengage, or
+deactivate AI systems that demonstrate performance or
+outcomes inconsistent with intended use.
+
+Relevant TTA Guidebook Verification Items: 02-4a
+12-2b"
+"2","MANAGE 3","AI risks and benefits from third-party entities are managed.","numbered","","NIST AI RMF Identifier: MANAGE 3: AI risks and benefits from third-party entities are managed."
+"2","MANAGE 3.1","MANAGE 3.1","numbered","","#: 68
+
+NIST AI RMF Identifier: MANAGE 3.1
+
+NIST AI RMF Subcategories: AI risks and benefits from third-party resources are regularly
+monitored, and risk controls are applied and documented.
+
+Relevant TTA Guidebook Verification Items: 04-2a
+06-1c
+07-2b
+14-2b"
+"2","MANAGE 3.2","MANAGE 3.2","numbered","","#: 69
+
+NIST AI RMF Identifier: MANAGE 3.2
+
+NIST AI RMF Subcategories: Pre-trained models which are used for development are
+monitored as part of AI system regular monitoring and
+maintenance.
+
+Relevant TTA Guidebook Verification Items: No equivalent item"
+"2","MANAGE 4","Risk treatments, including response and recovery, and communication plans for the identified and measured AI risks are documented and monitored regularly.","numbered","","NIST AI RMF Identifier: MANAGE 4: Risk treatments, including response and recovery, and communication plans for the
+identified and measured AI risks are documented and monitored regularly."
+"2","MANAGE 4.1","MANAGE 4.1","numbered","","#: 70
+
+NIST AI RMF Identifier: MANAGE 4.1
+
+NIST AI RMF Subcategories: Post-deployment
+AI
+system
+monitoring
+plans
+are
+implemented, including mechanisms for capturing and
+evaluating input from users and other relevant AI actors,
+appeal and override, decommissioning, incident response,
+recovery, and change management.
+
+Relevant TTA Guidebook Verification Items: No equivalent item"
+"2","MANAGE 4.2","MANAGE 4.2","numbered","","#: 71
+
+NIST AI RMF Identifier: MANAGE 4.2
+
+NIST AI RMF Subcategories: Measurable
+activities
+for
+continual
+improvements
+are
+integrated into AI system updates and include regular
+engagement with interested parties, including relevant AI
+actors.
+
+Relevant TTA Guidebook Verification Items: 12-2b"
+"2","MANAGE 4.3","MANAGE 4.3","numbered","","#: 72
+
+NIST AI RMF Identifier: MANAGE 4.3
+
+NIST AI RMF Subcategories: Incidents and errors are communicated to relevant AI
+actors, including affected communities. Processes for
+tracking, responding to, and recovering from incidents and
+errors are followed and documented.
+
+Relevant TTA Guidebook Verification Items: 12-1a
+12-1d
+12-2a
+12-2b
+14-2c"

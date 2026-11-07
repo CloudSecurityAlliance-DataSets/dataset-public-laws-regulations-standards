@@ -20,7 +20,7 @@ Initial publication.
 
 FedRAMP PMO
 
-**How to contact us**
+## How to contact us
 
 For questions about FedRAMP, or for questions about this document including how to use it, contact [info@FedRAMP.gov.](mailto:info@FedRAMP.gov)
 
@@ -28,7 +28,7 @@ For more information about FedRAMP, see [www.FedRAMP.gov](http://www.fedramp.gov
 
 Delete this Template Revision History page and all other instructional text from your final version of this document.
 
-## Appendix Q <CSO Name> Encryption Implementation Status 
+## Appendix Q <CSO Name> Encryption Implementation Status
 
 Data in Transit (DIT)
 
@@ -36,27 +36,27 @@ Source
 
 Destination
 
-**Ref \#**
+## Ref \#
 
-**Areas of DIT<a id="footnote-ref-1"></a>[\[1\]](#footnote-1)**
+## Areas of DIT<a id="footnote-ref-1"></a>[\[1\]](#footnote-1)
 
-**CMVP \#<a id="footnote-ref-2"></a>[\[2\]](#footnote-2) **
+## CMVP \#<a id="footnote-ref-2"></a>[\[2\]](#footnote-2)
 
-**CM Vendr **
+## CM Vendr
 
-**Module Name**
+## Module Name
 
-**Areas of DIT**
+## Areas of DIT
 
-**CMVP \#<a id="footnote-ref-3"></a>[\[3\]](#footnote-3) **
+## CMVP \#<a id="footnote-ref-3"></a>[\[3\]](#footnote-3)
 
-**CM Vendor **
+## CM Vendor
 
-**Module Name**
+## Module Name
 
-**Usage**
+## Usage
 
-**Notes<a id="footnote-ref-4"></a>[\[4\]](#footnote-4) **
+## Notes<a id="footnote-ref-4"></a>[\[4\]](#footnote-4)
 
 1
 
@@ -132,7 +132,7 @@ Other
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-CentOS 7.9 
+CentOS 7.9
 
 OpenSSL 1.0.1
 
@@ -166,7 +166,7 @@ TLS 1.3
 
 Other \_\_\_\_\_\_\_\_
 
-Plans to move to RHEL 8. See POA&M ID 111. 
+Plans to move to RHEL 8. See POA&M ID 111.
 
 3
 
@@ -208,7 +208,7 @@ Other
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-Google 
+Google
 
 BoringCrypto
 
@@ -248,7 +248,7 @@ Other
 
 *<Fill In>*
 
-*<Fill In and Select Below>*\_\_  
+*<Fill In and Select Below>*\_\_
 \_\_
 
 Embedded CM
@@ -279,21 +279,21 @@ Other \_\_\_\_\_\_\_\_
 
 Data at Rest (DAR)
 
-**Ref \#**
+## Ref \#
 
-**Areas of DAR<a id="footnote-ref-5"></a>[\[5\]](#footnote-5)**
+## Areas of DAR<a id="footnote-ref-5"></a>[\[5\]](#footnote-5)
 
-**CMVP \# <a id="footnote-ref-6"></a>[\[6\]](#footnote-6)**
+## CMVP \# <a id="footnote-ref-6"></a>[\[6\]](#footnote-6)
 
-**CM Vendor Name**
+## CM Vendor Name
 
-**Module Name**
+## Module Name
 
-**Usage**
+## Usage
 
-**Encryption Type**
+## Encryption Type
 
-**Notes<a id="footnote-ref-7"></a>[\[7\]](#footnote-7) **
+## Notes<a id="footnote-ref-7"></a>[\[7\]](#footnote-7)
 
 1
 
@@ -375,7 +375,7 @@ S3 buckets
 
 \<Use Case Example - Please Delete\>
 
-**\#4177  
+**\#4177
 **
 
 Embedded CM
@@ -412,7 +412,7 @@ Other \_\_\_\_\_\_\_\_
 
 \<Use Case Example - Please Delete\>
 
-**\#3678  
+**\#3678
 **
 
 Embedded CM
@@ -449,7 +449,7 @@ Other \_\_\_\_\_\_\_\_
 
 *<Copy and Paste this Row to Complete>*
 
-*<Fill In and Select Below>*\_\_  
+*<Fill In and Select Below>*\_\_
 \_\_
 
 Embedded CM
@@ -486,21 +486,21 @@ Other \_\_\_\_\_\_\_\_
 
 Other (Hashes, Digital Signatures, MFA, etc.)
 
-**Ref \#**
+## Ref \#
 
-**Areas of Use<a id="footnote-ref-8"></a>[\[8\]](#footnote-8)**
+## Areas of Use<a id="footnote-ref-8"></a>[\[8\]](#footnote-8)
 
-**CMVP \#<a id="footnote-ref-9"></a>[\[9\]](#footnote-9) **
+## CMVP \#<a id="footnote-ref-9"></a>[\[9\]](#footnote-9)
 
-**CM Vendor Name**
+## CM Vendor Name
 
-**Module Name**
+## Module Name
 
-**Usage**
+## Usage
 
-**Encryption Type**
+## Encryption Type
 
-**Notes<a id="footnote-ref-10"></a>[\[10\]](#footnote-10) **
+## Notes<a id="footnote-ref-10"></a>[\[10\]](#footnote-10)
 
 1
 
@@ -510,7 +510,7 @@ MFA
 
 **\#3907**
 
-\_\_  
+\_\_
 \_\_
 
 Embedded CM
@@ -537,7 +537,7 @@ Hard token TOTP code generations
 
 *\<Use Case Example - Please Delete\>*
 
-*<Fill In and Select Below>*\_\_  
+*<Fill In and Select Below>*\_\_
 \_\_
 
 Embedded CM

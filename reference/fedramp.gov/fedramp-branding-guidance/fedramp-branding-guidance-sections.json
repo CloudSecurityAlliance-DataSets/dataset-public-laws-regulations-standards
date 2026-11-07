@@ -1,0 +1,274 @@
+[
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "Program Overview",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "The Federal Risk and Authorization Management Program (FedRAMP®) was established in 2011 to provide a cost effective, risk-based approach for the adoption and use of cloud services by the federal government. FedRAMP empowers agencies to use modern cloud technologies, with emphasis on security and protection of federal information."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Contents",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "| 1.0 | The FedRAMP Brand           |\n|-----|-----------------------------|\n| 2.0 | Logo Application            |\n| 3.0 | Incorrect Logo Usage        |\n| 4.0 | Color Palette               |\n| 5.0 | 508 Compliance              |\n| 6.0 | The GSA Star Mark           |\n| 7.0 | Fonts                       |\n| 8.0 | Guidance for 3PAOs and CSPs |\n| 9.0 | FedRAMP Brand Use Policy    |\n|     | 10.0 FedRAMP Messaging      |"
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "DOCUMENT REVISION HISTORY",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "| 12/01/2012 | v1.0 | Original Release                                                                                                                                                                                       |\n|------------|------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| 11/17/2014 |      | Updated branding guidance to highlight proper<br>use of new FedRAMP logo. Removed specific<br>logos for 3PAOs or types of authorizations.                                                              |\n| 06/06/2017 |      | Updated branding guidance to highlight proper<br>use of new FedRAMP logo, color palette, fonts<br>and icons.                                                                                           |\n| 12/17/2020 | v2.0 | Revised branding guidance to reflect the<br>full brand refresh and to provide additional<br>instruction to meet brand and 508 compliance<br>requirements when creating documents and<br>presentations. |\n| 09/01/2022 | v2.1 | Updated branding guidance to highlight proper<br>trademark usage.                                                                                                                                      |"
+  },
+  {
+    "depth": 2,
+    "section_id": "1.0",
+    "section_name": "The FedRAMP Brand",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "FedRAMP®",
+    "id_kind": "",
+    "parent_id": "1.0",
+    "body": "The registration symbol (®) must be used with the FedRAMP name. The symbol does not have to be used every time the FedRAMP name is used.\n\nInstead, use the reqistration symbol in the first instance the name is used, in the most prominent use, or in both.\n\n![](_page_3_Picture_4.jpeg)\n\nFedRAMP\n\nThe trademark symbol (TM) must be used with the FedRAMP loqo."
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "BRAND STANDARDS",
+    "id_kind": "",
+    "parent_id": "1.0",
+    "body": "- 1. The FedRAMP logo refers to the FedRAMP name and FedRAMP approved logo detailed in this document.\n- 2. The FedRAMP PMO will authorize an entity's ability to use the FedRAMP logo. The authorization will detail the specific circumstance(s) when an orqanization can use the FedRAMP logo.\n- 3. The FedRAMP logo and name may never be used in any manner that would imply qovernment endorsement of a company, its products, or its services. Neither the logo nor the FedRAMP name may be used in any other company name, product name, service name, domain name, or website title.\n- 4. The logo may not be altered, cut apart, separated, or otherwise distorted in perspective or appearance.\n- 5. The logo may never be used in a manner that would disparage FedRAMP or any government body.\n- 6. Abbreviation of the Federal Risk and Authorization Management Program must always appear as FedRAMP.\n- 7. Authorized organizations are responsible for the proper use of the FedRAMP logo as outlined in this document. This includes, but is not limited to, the use by any representatives, such as advertising agencies, system integrators, resellers, partners, etc."
+  },
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "Logo Application",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "CLEAR SPACE",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "The minimum amount of clear space is required to be no less than 50% of the width of the logo. No other graphic elements, such as text or images, can appear in this area.\n\n![](_page_4_Figure_4.jpeg)"
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "ALTERNATIVE LOGOS",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "Inverse",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "White to background color must have a color contrast of 4.5 : 1. See page 5\n\n![](_page_4_Picture_8.jpeg)"
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "One Color",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Only to be used when one color is required/ requested—often done for cost saving purposes.\n\n![](_page_4_Picture_11.jpeg)"
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "Stamp",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Only for use when being placed on a product or graphic as decorative and clearly produced by or associated with FedRAMP.\n\nfor busy backgrounds\n\nfor simple backgrounds\n\n![](_page_4_Picture_16.jpeg)\n\n![](_page_4_Picture_17.jpeg)"
+  },
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "Incorrect Logo Usage",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "DON'T:",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "- 1. Change the logo's orientation.\n- 2. Add extraneous effects to the logo. This includes, but is not limited to, bevel and emboss, lighting, and 3D effects.\n- 3. Place the logo on busy imagery.\n- 4. Scale the logo disproportionately.\n- 5. Make alterations, additions, or substitutions to the words and or colors contained in the logo.\n- 6. Only display the wordmark without the stamp.\n\n![](_page_5_Figure_9.jpeg)"
+  },
+  {
+    "depth": 2,
+    "section_id": "4.0",
+    "section_name": "Color Palette",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "The FedRAMP visual identity relies heavily on the use of color. The palette consists of a complementary range of colors to create a vibrant and bold energy.\n\nFedRAMP adopted a strict color palette, which is restricted to the colors on the right.\n\nThe goal is to produce bright and engaging visuals by using contrast. To achieve this, visuals should use one predominant color and two additional colors used for accents. Try to avoid using too many dark colors together. Tints should only be used to accent or to create a flat shadow effect.\n\n![](_page_6_Figure_4.jpeg)\n\n| BACKGROUND   | HEADINGS     | BODY TEXT    |\n|--------------|--------------|--------------|\n| Grade: 5     | Grade: 50    | Grade: 70    |\n| HEX: #f2f2f2 | HEX: #757575 | HEX: #454545 |\n| RGB 242      | RGB 117      | RGB 68       |"
+  },
+  {
+    "depth": 1,
+    "section_id": "5.0",
+    "section_name": "508 Compliance",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Section 508 refers to making sure individuals of all abilities have equal access to the information and data they seek from federal agencies or which they need to do their jobs within a federal agency."
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "Color Contrast",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Minimum Compliance (WCAG 2.0 level AA): Requires a contrast ratio of at least 4.5:1 for normal text and 3:1 for large text.\n\nHigh-Level Compliance (WCAG Level AAA): Requires a contrast ratio of at least 7:1 for normal text and 4.5:1 for large text.\n\n Note: Large text is defined as 14 point (typically 18.66px) or larger, or 18 point (typically 24px) or larger.\n\n Confirm compliance using WebAIM's contrast checker.\n\n![](_page_7_Figure_7.jpeg)"
+  },
+  {
+    "depth": 2,
+    "section_id": "6.0",
+    "section_name": "The GSA Star Mark",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "![](_page_8_Picture_1.jpeg)\n\nThe GSA Star Mark must accompany the FedRAMP logo on all print and digital marketing materials.\n\nThe one exception is that the GSA Star Mark is not required to be used in standalone graphics such as blog banners, social media graphics, diagrams, and informational visuals."
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "GSA STAR MARK REQUIREMENTS",
+    "id_kind": "",
+    "parent_id": "6.0",
+    "body": "The GSA Star Mark consists of three components: the Registered Trademark Designation, the SSA Monogram. Official artwork must always be used when reproducing the GSA Star Mark. The elements are fixed and should never be redrawn or altered in any way.\n\n| Minimum Size:    | The GSA Star Mark should never be reproduced smaller than 1/2 inch.                                                                                                                                                                                                         |\n|------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Clearspace:      | The distance between the GSA Star Mark and other graphic elements should be no less than<br>1/2 of the height of the GSA Star Mark.                                                                                                                                         |\n| Star Mark Color: | GSA blue is the default application. The star mark, in white, can used on a dark background.<br>The color contrast ratio for logo to background must be at least 3:1. Refer to page 5 for<br>approved FedRAMP colors or confirm compliance usinq WebAIM's contrast checker. |\n\nFor more information, see GSA's Brand Guide Strengthening Our Brand."
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "APPLYING THE GSA STAR MARK TO FEDRAMP MARKETING MATERIALS",
+    "id_kind": "",
+    "parent_id": "6.0",
+    "body": "Always place the GSA Star Mark in the lower left-hand corner, adjacent to the FedRAMP contact information, on the right (see below). The height of the GSA loqo must match the height of that contact information or be at minimum 1/2 inches (as noted above). The GSA Star Mark and contact information must be bottom aligned.\n\nFor publicly distributed materials that will be highly visible, the following text must be displayed next to the GSA Star Mark in the following manner: \"FedRAMP is a product of GSA's Technology Transformation Services.\" Do not recreate this, and always use official artwork.\n\nFedRAMP is a produc GSA's Technology Transformation Services info@fedramp.gov fedramp.gov\n\nNote: If the marketing material is comprised of multiple pages, it must appear, at minimum, on the opening and/or closing page."
+  },
+  {
+    "depth": 3,
+    "section_id": "7.0",
+    "section_name": "Fonts",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Only two typefaces are used to create FedRAMP collateral: Montserrat and Muli. Be sure to use these and only these typefaces.\n\n When applying a font weight to headings, go from thin to black as letter size reduces. For example:\n\n- Titles should use extra-light or light. .\n- Primary headings should use regular or medium.\n- Secondary headings should use bold or extra . bold.\n\nThe only exception to this font requirement is when working in the Microsoft Office Suite; Arial must be used as Montserrat and Muli will not be available."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Montserrat (For headings & call out text)",
+    "id_kind": "",
+    "parent_id": "6.0",
+    "body": "| Thin 100               | Reqular 400          | Bold 700              |\n|------------------------|----------------------|-----------------------|\n| Thin 100 italic        | Reqular 400 italic   | Bold 700 italic       |\n| Extra-light 200        | Medium 500           | Extra-bold 800        |\n| Extra-light 200 italic | Medium 500 italic    | Extra-bold 800 italic |\n| Light 300              | Semi-bold 600        | Black 900             |\n| Light 300 italic       | Semi-bold 600 italic | Black 900 italic      |"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "MUll (For body and table text)",
+    "id_kind": "",
+    "parent_id": "6.0",
+    "body": "| Reqular 400            | Bold 700 italic      |                       |\n|------------------------|----------------------|-----------------------|\n| Light 300 italic       | Bold 700             | Black 900 italic      |\n| Light 300              | Semi-bold 600 italic | Black 900             |\n| Extra-light 200 italic | Semi-bold 600        | Extra-bold 800 italic |\n| Extra-light 200        | Regular 400 italic   | Extra-bold 800        |\n\nBoth Montserrat and Muli are both open source, provided by Google. They are free for use in products and projects - print or digital, commercial, or otherwise. Visit fonts.google. com for more information and to download files or copy the code to embed."
+  },
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "Guidance for 3PAOs and CSPS",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "![](_page_10_Picture_2.jpeg)"
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "FOR THIRD PARTY ASSESSMENT ORGANIZATIONS (3PAOS)",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "FedRAMP allows the use of the FedRAMP name and logo for FedRAMP recognized 3PAOs under the following conditions:\n\n- 1. An orqanization must be a FedRAMP recognized 3PAO and maintain that designation in order to use the FedRAMP name and logo.\n- 2. A FedRAMP recognized 3PAO can refer to themselves in the following ways:\n\t- FedRAMP 3PAO\n\t- FedRAMP Third Party Assessment Orqanization\n\t- FedRAMP recognized 3PAO\n\t- FedRAMP Third Party Assessment Organization\n- 3. An orqanization can use the FedRAMP name and/or FedRAMP logo to designate themselves as a FedRAMP recognized 3PAO.\n- 4. FedRAMP recognized 3PAOs receive an official letter from the FedRAMP PMO designating their authorization to use the FedRAMP logo in the manner described above.\n\n![](_page_10_Picture_13.jpeg)"
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "FOR CLOUD SERVICE PROVIDERS (CSPs)",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "FedRAMP allows the use of the FedRAMP name and logo for CSPs that have met the FedRAMP requirements and are deemed FedRAMP Authorized by the FedRAMP PMO. In order to use the FedRAMP name and logo, a CSP must have their completed security authorization package available for a federal agency leveraging within the FedRAMP secure repository."
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "FedRAMP Authorized CSPs",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "- 1. A CSP with this level of authorization can refer to their product or service in the following ways:\n\t- Meet the FedRAMP security requirements\n\t- • Utilized a FedRAMP recognized 3PAO\n\t- · Granted an Authority to Operate by [Federal Agency(ies)]\n- 2. The use of the FedRAMP name and logo must clearly align with the product or service named within the assessment materials used to earn the FedRAMP Authorized designation.\n\nFedRAMP Brand Use Policy"
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "FEDRAMP NAME TRADEMARK",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "The FedRAMP name is a registered trademark of GSA (USPTO registration number 5725620), and companies can only use it in compliance with the terms of a license agreement with GSA. Companies that are not current FedRAMP participants listed on the FedRAMP Marketplace do not have the FedRAMP name, per GSA policy."
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "REQUIREMENTS FOR APPROVAL",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "The use of the FedRAMP name and/or logo in conjunction with gualified products or services (i.e. a recognized 3PAO or FedRAMP Authorized cloud service offering) does not require additional approval.\n\nThe FedRAMP PMO must approve any educational or promotional campaigns that fedRAMP name and/or logo prior to use. The submitted materials will be reviewed for consistency with these quidelines within two (2) weeks of receipt of the materials should be submitted to the FedRAMP Director at info@fedramp.gov with the following in the subject line: \"FedRAMP Branding Review.\""
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "LOGO AND NAME VIOLATIONS",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "The FedRAMP PMO actively monitors proper use of the FedRAMP name and logo. This includes, but is not limited to, the use by any representatives such as advertising agencies, system integrators, resellers, partners, etc. The following explains the general course of action for addressinq logo violations:\n\n- 1. Anyone who misuses the FedRAMP name and/or logo will be contacted in writing or by telephone/ teleconference.\n- 2. The FedRAMP PMO will provide a distinct timeframe to correct the error(s). The timeframe will be dependent upon the medium in which the violation appeared and the severity of the violation.\n- 3. Follow-up will be conducted to ensure that the error(s) has/have been corrected.\n\nFailure to make the required changes may result in termination of a stakeholder's participation in FedRAMP and/or legal action."
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "Questions about using the FedRAMP Logo?",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Please contact the FedRAMP PMO at info@fedramp.qov.\n\nFedRAMP Messaging This section outlines the messages that FedRAMP believes are important to convey regarding the benefits of the program. The government incorporates these messages into its materials and recommends those meeting the quidelines outlined in this document do the same, to the extent possible. The messages are:"
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "MISSION",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "FedRAMP is a qovernment-wide program that promotes the adoption of secure cloud services across the federal qovernment by providing a standardized approach to security and risk assessment for cloud technologies and federal agencies."
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "BENEFITS",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "- Reduces duplicative efforts, inconsistencies, and cost inefficiencies .\n- Establishes a public-private partnership to promote innovation and the advancement of more secure information technoloqies\n- Enables the federal qovernment to accelerate the adoption of cloud computing by creating transparent standards and processes for security authorizations and allowing agencies to leverage security authorizations on a qovernment-wide scale"
+  },
+  {
+    "depth": 4,
+    "section_id": "GOALS",
+    "section_name": "GOALS",
+    "id_kind": "goal",
+    "parent_id": "",
+    "body": "- Grow the use of secure cloud technologies in use by government agencies .\n- Enhance the framework by which the government secures and authorizes cloud technologies .\n- Build and foster strong partnerships with FedRAMP stakeholders ."
+  }
+]

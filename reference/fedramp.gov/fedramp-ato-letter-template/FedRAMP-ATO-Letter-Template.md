@@ -20,7 +20,7 @@ The security authorization of the information system will remain in effect for a
 
 {Federal Agency/Office} is leveraging the documentation provided within the FedRAMP secure repository as a key element of the Authority to Operate (ATO). Based on the documentation within the FedRAMP secure repository and customer-specific tailoring and operating procedures, the {Federal Agency/Office} believes the security authorization package accurately documents the {Insert CSP name} cloud system and clearly defines outstanding risk considerations.
 
-**SIGNED:**
+## SIGNED:
 
 <figure>
 <img src="images/image_29b8758f-bd66-4b57-824c-79eb02ed27df.png" alt="Microsoft Office Signature Line…" />

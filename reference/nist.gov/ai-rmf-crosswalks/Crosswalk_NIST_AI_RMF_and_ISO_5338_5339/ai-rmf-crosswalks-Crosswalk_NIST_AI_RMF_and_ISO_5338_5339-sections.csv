@@ -1,0 +1,67 @@
+"depth","section_id","section_name","id_kind","parent_id","body"
+"2","","""AI risk management is a key component of responsible development and use of AI systems. Responsible AI practices can he","","","AI RMF: ""AI risk management is a key
+component of responsible
+development and use of AI systems.
+Responsible AI practices can help align
+the decisions about AI system design,
+development, and uses with intended
+aim and values. Core concepts in
+responsible AI emphasize human
+centricity, social responsibility, and
+sustainability. AI risk management can
+drive responsible uses and practices by
+prompting organizations and their
+internal teams who design, develop,
+and deploy AI to think more critically
+about context and potential or
+unexpected negative and positive
+impacts. Understanding and managing
+the risks of AI systems will help to
+enhance trustworthiness, and in turn,
+cultivate public trust."" ([1] page 1)."
+"2","","Valid and Reliable","","","AI RMF – Characteristics of Trustworthy AI Systems
+(Section 3): Valid and Reliable
+
+ISO/IEC 5339 - Trustworthiness (5.5.2) (mostly derived from ISO/IEC 24028 [5]): 5.5.2.9, 5.5.2.3,
+5.5.2.2"
+"2","","Safe","","","AI RMF – Characteristics of Trustworthy AI Systems
+(Section 3): Safe
+
+ISO/IEC 5339 - Trustworthiness (5.5.2) (mostly derived from ISO/IEC 24028 [5]): –"
+"2","","Secure and Resilient","","","AI RMF – Characteristics of Trustworthy AI Systems
+(Section 3): Secure
+and Resilient
+
+ISO/IEC 5339 - Trustworthiness (5.5.2) (mostly derived from ISO/IEC 24028 [5]): 5.5.2.4"
+"2","","Accountable and Transparent","","","AI RMF – Characteristics of Trustworthy AI Systems
+(Section 3): Accountable
+and Transparent
+
+ISO/IEC 5339 - Trustworthiness (5.5.2) (mostly derived from ISO/IEC 24028 [5]): 5.5.2.8"
+"2","","Explainable and Interpretable","","","AI RMF – Characteristics of Trustworthy AI Systems
+(Section 3): Explainable
+and Interpretable
+
+ISO/IEC 5339 - Trustworthiness (5.5.2) (mostly derived from ISO/IEC 24028 [5]): 5.5.2.6"
+"2","","Privacy-Enhanced","","","AI RMF – Characteristics of Trustworthy AI Systems
+(Section 3): Privacy-Enhanced
+
+ISO/IEC 5339 - Trustworthiness (5.5.2) (mostly derived from ISO/IEC 24028 [5]): –"
+"2","","Fair - with Harmful Bias Managed","","","AI RMF – Characteristics of Trustworthy AI Systems
+(Section 3): Fair -
+with Harmful Bias Managed
+
+ISO/IEC 5339 - Trustworthiness (5.5.2) (mostly derived from ISO/IEC 24028 [5]): 5.5.2.10"
+"2","","–","","","AI RMF – Characteristics of Trustworthy AI Systems
+(Section 3): –
+
+ISO/IEC 5339 - Trustworthiness (5.5.2) (mostly derived from ISO/IEC 24028 [5]): Controllability (5.5.2.7)"
+"2","","–","","","AI RMF – Characteristics of Trustworthy AI Systems
+(Section 3): –
+
+ISO/IEC 5339 - Trustworthiness (5.5.2) (mostly derived from ISO/IEC 24028 [5]): Predictability (5.5.2.7)"
+"2","","–","","","AI RMF – Characteristics of Trustworthy AI Systems
+(Section 3): –
+
+ISO/IEC 5339 - Trustworthiness (5.5.2) (mostly derived from ISO/IEC 24028 [5]): Dependable
+(5.5.2.1)"

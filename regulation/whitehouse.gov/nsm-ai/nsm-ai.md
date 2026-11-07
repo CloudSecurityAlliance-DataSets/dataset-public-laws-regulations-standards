@@ -76,8 +76,8 @@ To search this site, enter a search term Search
   * [ThreadsOpens in a new window](https://www.threads.net/@whitehouse)
   * [Reddit](https://www.reddit.com/user/whitehouse/)
 
-**The White House**  
-1600 Pennsylvania Ave NW  
+## The White House
+1600 Pennsylvania Ave NW
 Washington, DC 20500
 
 ![](https://bidenwhitehouse.archives.gov/wp-
@@ -160,7 +160,7 @@ Objectives; and Fostering the Safety, Security,
 
 and Trustworthiness of Artificial Intelligence
 
-Section 1. Policy. (a) This memorandum fulfills the directive set forth in
+#### Section 1. Policy. (a) This memorandum fulfills the directive set forth in
 subsection 4.8 of Executive Order 14110 of October 30, 2023 (Safe, Secure, and
 Trustworthy Development and Use of Artificial Intelligence). This memorandum
 provides further direction on appropriately harnessing artificial intelligence
@@ -253,7 +253,7 @@ developed and used in the United States; enhance the United States
 Government’s appropriate, responsible, and effective adoption of AI in service
 of the national security mission; and minimize the misuse of AI worldwide.
 
-Sec. 2. Objectives. It is the policy of the United States Government that the
+#### Sec. 2. Objectives. It is the policy of the United States Government that the
 following three objectives will guide its activities with respect to AI and
 national security.
 
@@ -291,7 +291,7 @@ leadership in developing effective global norms and engaging in institutions
 rooted in international law, human rights, civil rights, and democratic
 values.
 
-Sec. 3. Promoting and Securing the United States’ Foundational AI
+#### Sec. 3. Promoting and Securing the United States’ Foundational AI
 Capabilities. (a) To preserve and expand United States advantages in AI, it is
 the policy of the United States Government to promote progress, innovation,
 and competition in domestic AI development; protect the United States AI
@@ -758,10 +758,10 @@ related to declassification of material, standards for sufficient
 anonymization, and similar activities, as well as the robustness of existing
 operational security and equity controls to protect classified or controlled
 information, given that AI systems have demonstrated the capacity to extract
-previously inaccessible insight from redacted and anonymized data.  
-  
+previously inaccessible insight from redacted and anonymized data.
 
-Sec. 4. Responsibly Harnessing AI to Achieve National Security Objectives. (a)
+
+#### Sec. 4. Responsibly Harnessing AI to Achieve National Security Objectives. (a)
 It is the policy of the United States Government to act decisively to enable
 the effective and responsible use of AI in furtherance of its national
 security mission. Achieving global leadership in national security
@@ -1193,7 +1193,7 @@ training, testing, accreditation, and security and cybersecurity; and
 
 (C) Any other issues that affect interoperability for AI and AI systems.
 
-Sec. 5. Fostering a Stable, Responsible, and Globally Beneficial International
+#### Sec. 5. Fostering a Stable, Responsible, and Globally Beneficial International
 AI Governance Landscape. (a) Throughout its history, the United States has
 played an essential role in shaping the international order to enable the
 safe, secure, and trustworthy global adoption of new technologies while also
@@ -1248,7 +1248,7 @@ applicable international law. The strategy shall advance the norms and
 practices established by this memorandum and measures endorsed in the
 Political Declaration on Responsible Military Use of AI and Autonomy.
 
-Sec. 6. Ensuring Effective Coordination, Execution, and Reporting of AI
+#### Sec. 6. Ensuring Effective Coordination, Execution, and Reporting of AI
 Policy. (a) The United States Government must work in a closely coordinated
 manner to make progress on effective and responsible AI adoption. Given the
 speed with which AI technology evolves, the United States Government must
@@ -1318,7 +1318,7 @@ for at least the next 5 years, the Coordination Group described in subsection
 consolidation and interoperability of AI efforts and systems for the purposes
 of national security.
 
-Sec. 7. Definitions. (a) This memorandum uses definitions set forth in section
+#### Sec. 7. Definitions. (a) This memorandum uses definitions set forth in section
 3 of Executive Order 14110. In addition, for the purposes of this memorandum:
 
 (i) The term “AI safety” means the mechanisms through which individuals and
@@ -1358,7 +1358,7 @@ widely available, typically through public release.
 (viii) The term “United States Government” means all agencies as defined in 44
 U.S.C. 3502(1).
 
-Sec. 8. General Provisions. (a) Nothing in this memorandum shall be construed
+#### Sec. 8. General Provisions. (a) Nothing in this memorandum shall be construed
 to impair or otherwise affect:
 
 (i) the authority granted by law to an executive department or agency, or the
@@ -1420,11 +1420,10 @@ content/themes/whitehouse/assets/img/footer-seal.svg)
   * [ThreadsOpens in a new window](https://www.threads.net/@whitehouse)
   * [Reddit](https://www.reddit.com/user/whitehouse/)
 
-**The White House**  
-1600 Pennsylvania Ave NW  
+## The White House
+1600 Pennsylvania Ave NW
 Washington, DC 20500
 
 [ WH.gov ](https://bidenwhitehouse.archives.gov/)
 
 [ Scroll to Top Scroll to Top  Top ](#content)
-

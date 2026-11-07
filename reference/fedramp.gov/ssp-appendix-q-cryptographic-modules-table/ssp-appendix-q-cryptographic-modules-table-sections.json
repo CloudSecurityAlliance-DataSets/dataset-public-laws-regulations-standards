@@ -1,0 +1,234 @@
+[
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "How to contact us",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "For questions about FedRAMP, or for questions about this document including how to use it, contact [info@FedRAMP.gov.](mailto:info@FedRAMP.gov)\n\nFor more information about FedRAMP, see [www.FedRAMP.gov](http://www.fedramp.gov).\n\nDelete this Template Revision History page and all other instructional text from your final version of this document."
+  },
+  {
+    "depth": 2,
+    "section_id": "Appendix Q",
+    "section_name": "<CSO Name> Encryption Implementation Status",
+    "id_kind": "annex",
+    "parent_id": "",
+    "body": "Data in Transit (DIT)\n\nSource\n\nDestination"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Ref \\#",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Areas of DIT[[1]](#footnote-1)",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "CMVP \\#[[2]](#footnote-2)",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "CM Vendr",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Module Name",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Areas of DIT",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "CMVP \\#[[3]](#footnote-3)",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "CM Vendor",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Module Name",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Usage",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Notes[[4]](#footnote-4)",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "1\n\nNGINX Server\n\n\\<Use Case Example - Please Delete\\>\n\n**\\#4271**\n\n Embedded CM\n\n Third-party CM\n\n Uses OS CM\n\n In FIPS Mode\n\n Other\n\n______________\n\nRed Hat, Inc.\n\nRHEL 8 OpenSSL\n\nAll Application Servers\n\n**\\#3980**\n\nEmbedded CM\n\nThird-party CM\n\nUses OS CM\n\nIn FIPS Mode\n\nOther\n\n______________\n\nCanonical Ltd.\n\nUbuntu 18.04 OpenSSH Server\n\nLoad Balancer TLS to Application Server\n\n TLS 1.1 or earlier\n\n TLS 1.2\n\nTLS 1.3\n\n Other ________\n\n2\n\nAll Application Servers\n\n\\<Use Case Example - Please Delete\\>\n\nNone\n\nEmbedded CM\n\nThird-party CM\n\nUses OS CM\n\nIn FIPS Mode\n\nOther\n\n______________\n\nCentOS 7.9\n\nOpenSSL 1.0.1\n\nPostgreSQL\n\n**\\#3980**\n\nEmbedded CM\n\nThird-party CM\n\nUses OS CM\n\nIn FIPS Mode\n\nOther\n\n______________\n\nCanonical Ltd.\n\nUbuntu 18.04 OpenSSH Server\n\nApplication servers to common DB\n\nTLS 1.1 or earlier\n\nTLS 1.2\n\nTLS 1.3\n\nOther ________\n\nPlans to move to RHEL 8. See POA&M ID 111.\n\n3\n\nContainer traffic\n\n\\<Use Case Example - Please Delete\\>\n\n**\\#3678**\n\nEmbedded CM\n\nThird-party CM\n\nUses OS CM\n\nIn FIPS Mode\n\nOther\n\n______________\n\nGoogle\n\nBoringCrypto\n\nContainer traffic\n\n**\\#3678**\n\nEmbedded CM\n\nThird-party CM\n\nUses OS CM\n\nIn FIPS Mode\n\nOther\n\n______________\n\nGoogle\n\nBoringCrypto\n\nIstio Tetrate service mesh\n\nTLS 1.1 or earlier\n\nTLS 1.2\n\nTLS 1.3\n\nOther ________\n\n\\#\n\n*<Fill In>*\n\n*<Copy and Paste this Row to Complete>*\n\n*<Fill In and Select Below>*\n\nEmbedded CM\n\nThird-party CM\n\nUses OS CM\n\nIn FIPS Mode\n\nOther\n\n______________\n\n*<Fill In>*\n\n*<Fill In>*\n\n*<Fill In>*\n\n*<Fill In and Select Below>*__\n__\n\nEmbedded CM\n\nThird-party CM\n\nUses OS CM\n\nIn FIPS Mode\n\nOther\n\n______________\n\n*<Fill In>*\n\n*<Fill In>*\n\n*<Fill In and Select Below>*\n\nTLS 1.1 or earlier\n\nTLS 1.2\n\nTLS 1.3\n\nOther ________\n\nData at Rest (DAR)"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Ref \\#",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Areas of DAR[[5]](#footnote-5)",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "CMVP \\# [[6]](#footnote-6)",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "CM Vendor Name",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Module Name",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Usage",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Encryption Type",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Notes[[7]](#footnote-7)",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "1\n\nPostgreSQL database\n\n\\<Use Case Example - Please Delete\\>\n\n**\\#3980**\n\nEmbedded CM\n\nThird-party CM\n\nUses OS CM\n\nIn FIPS Mode\n\nOther\n\n______________\n\nCanonical Ltd.\n\nUbuntu 18.04 OpenSSL Cryptographic Module\n\nVolume encryption\n\n Full disk\n\n File\n\n Record\n\n None\n\n Other ________\n\n2\n\nApp server local storage\n\n\\<Use Case Example - Please Delete\\>\n\n**\\#2931**\n\nEmbedded CM\n\nThird-party CM\n\nUses OS CM\n\nIn FIPS Mode\n\nOther\n\n______________\n\nMicrosoft\n\nWindows Server 2016\n\nOS and application binaries\n\nFull disk\n\nFile\n\nRecord\n\nNone\n\nOther ________\n\nCM is Historical, per NIST CMVP. Plans to move to Windows 2019 upon Active FIPS-140-validation achieved. See POA&M ID 123.\n\n3\n\nS3 buckets\n\n\\<Use Case Example - Please Delete\\>\n\n**\\#4177\n**\n\nEmbedded CM\n\nThird-party CM\n\nUses OS CM\n\nIn FIPS Mode\n\nOther\n\n______________\n\nAWS\n\nKey Management Service (KMS) HSM\n\nServer-side encryption with KMS keys (SSE-KMS) used to encrypt bucket\n\nFull disk\n\nFile\n\nRecord\n\nNone\n\nOther ________\n\n4\n\n[**Hashicorp Vault Enterprise**](https://developer.hashicorp.com/vault/docs/enterprise/fips/fips1402) credential storage\n\n\\<Use Case Example - Please Delete\\>\n\n**\\#3678\n**\n\nEmbedded CM\n\nThird-party CM\n\nUses OS CM\n\nIn FIPS Mode\n\nOther\n\n______________\n\nGoogle\n\nBoringCrypto\n\nStoring customer and system keys and passwords\n\nFull disk\n\nFile\n\nRecord\n\nNone\n\nOther ________\n\n5\n\n*<Fill In>*\n\n*<Copy and Paste this Row to Complete>*\n\n*<Fill In and Select Below>*__\n__\n\nEmbedded CM\n\nThird-party CM\n\nUses OS CM\n\nIn FIPS Mode\n\nOther\n\n______________\n\n*<Fill In>*\n\n*<Fill In>*\n\n*<Fill In>*\n\n*<Select Below>*\n\nFull disk\n\nFile\n\nRecord\n\nNone\n\nOther ________\n\n*<Fill In>*\n\nOther (Hashes, Digital Signatures, MFA, etc.)"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Ref \\#",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Areas of Use[[8]](#footnote-8)",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "CMVP \\#[[9]](#footnote-9)",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "CM Vendor Name",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Module Name",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Usage",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Encryption Type",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Notes[[10]](#footnote-10)",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "1\n\nMFA\n\n*\\<Use Case Example - Please Delete\\>*\n\n**\\#3907**\n\n__\n__\n\nEmbedded CM\n\nThird-party CM\n\nUses OS CM\n\nIn FIPS Mode\n\nOther\n\n______________\n\nYubico\n\nYubikey\n\nHard token TOTP code generations\n\n\\#\n\n*<Fill In>*\n\n*\\<Use Case Example - Please Delete\\>*\n\n*<Fill In and Select Below>*__\n__\n\nEmbedded CM\n\nThird-party CM\n\nUses OS CM\n\nIn FIPS Mode\n\nOther\n\n______________\n\n*<Fill In>*\n\n*<Fill In>*\n\n*<Fill In>*\n\n*<Fill In>*\n\n*<Fill In>*\n\n1.   Each entry should be the component or asset where the FIPS-140 validated cryptographic module is located. [↑](#footnote-ref-1)\n\n2.   If using cryptography that lacks FIPS validation, state “No FIPS”. If unencrypted, state “Unencrypted”. [↑](#footnote-ref-2)\n\n3.   If using cryptography that lacks FIPS validation, state “No FIPS”. If unencrypted, state “Unencrypted”. [↑](#footnote-ref-3)\n\n4.   For example, specify if the historical CM is used or the store lacks encryption entirely. Include the related POA&M ID, remediation plans, etc. [↑](#footnote-ref-4)\n\n5.   Each entry should be the component or asset where the FIPS-140 validated cryptographic module is located. [↑](#footnote-ref-5)\n\n6.   If using cryptography that lacks FIPS validation, state “No FIPS”. If unencrypted, state “Unencrypted”. [↑](#footnote-ref-6)\n\n7.   For example, specify if the historical CM is used or the store lacks encryption entirely. Include the related POA&M ID, remediation plans, etc. [↑](#footnote-ref-7)\n\n8.   Each entry should be the component or asset where the FIPS-140 validated cryptographic module is located. [↑](#footnote-ref-8)\n\n9.   If using cryptography that lacks FIPS validation, state “No FIPS”. If there is no cryptography, state “No Crypto”. [↑](#footnote-ref-9)\n\n10.  For example, specify if the historical CM is used or it lacks cryptography entirely. Include the related POA&M ID, remediation plans, etc. [↑](#footnote-ref-10)"
+  }
+]

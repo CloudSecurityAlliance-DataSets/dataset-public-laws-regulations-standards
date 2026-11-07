@@ -1,0 +1,458 @@
+[
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "FedRAMP Penetration Test Guidance",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Version 3 06/30/2022\n\n![](_page_0_Picture_3.jpeg)\n\ninfo@fedramp.gov fedramp.gov"
+  },
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "DOCUMENT REVISION HISTORY",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "| Date       | Version | Page (s) | Description                                                         | Author      |\n|------------|---------|----------|---------------------------------------------------------------------|-------------|\n| 06/30/2015 | 1.0     | All      | First Release                                                       | FedRAMP PMO |\n| 07/06/2015 | 1.0.1   | All      | Minor corrections and edits                                         | FedRAMP PMO |\n| 06/06/2017 | 1.0.1   | Cover    | Updated FedRAMP Logo                                                | FedRAMP PMO |\n| 11/24/2017 | 2.0     | All      | Updated to the new template                                         | FedRAMP PMO |\n| 06/30/2022 | 3.0     | All      | Updated to reflect current best<br>practices in penetration testing | FedRAMP PMO |"
+  },
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "About This Document",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "The purpose of this document is to provide requirements for organizations planning to conduct a FedRAMP penetration test, as well as the associated attack vectors and overall reporting requirements.\n\nA penetration test is a proactive and authorized exercise to break through the security of an IT system. The main objective of a penetration test is to identify exploitable security weaknesses in an information system. These vulnerabilities may include service and application flaws, insecure configurations, improper role-based privilege assignments, and risky end-user behavior. A penetration test may also evaluate an organization's security policy compliance, its employees' security awareness, and the organization's ability to identify and respond to security incidents. Threat actors work diligently to bypass initial system defenses. Penetration testing ensures that the depth of defense goes beyond initial compromise and/or takes into account things like proper coding practices being followed.\n\nZero Trust Protection mechanisms should be defined as part of the system boundary and are better addressed and included in the SSP front matter discussions.\n\nThis document uses the term authorizing official (AO). For systems with a Joint Authorization Board (JAB) provisional authorization to operate (P-ATO), AO refers primarily to the JAB unless this document explicitly says agency AO. For systems with a FedRAMP Agency authorization to operate (ATO), AO refers to each leveraging agency's AO.\n\nThe term authorization refers to either a FedRAMP JAB P-ATO or a FedRAMP Agency ATO.\n\nThe term third-party assessment organization (3PAO) refers to a FedRAMP recognized 3PAO. The use of a FedRAMP recognized 3PAO is required for systems with a FedRAMP JAB P-ATO; however, for systems\n\n![](_page_2_Picture_1.jpeg)\n\nwith a FedRAMP Agency ATO this may refer to any assessment organization designated by the agency AO."
+  },
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "Who Should Use This Document?",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "The following individuals should review this document:\n\n- . Cloud Service Providers (CSPs) when preparing to perform a penetration test on their cloud system\n- . Third Party Assessment Organizations (3PAOs) when planning, executing, and reporting on FedRAMP penetration testing activities\n- . AOs when developing and evaluating penetration test plans."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "How to Contact Us",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Questions about FedRAMP or this document should be directed to info@fedramp.gov.\n\nFor more information about FedRAMP, visit http://www.fedramp.gov."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "How this Document is Organized",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "This document is divided into the following primary sections and appendices:"
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "Table 1: Document Section Table",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "| Section   | Contents                     |\n|-----------|------------------------------|\n| Section 1 | Scope of Testing             |\n| Section 2 | Threats                      |\n| Section 3 | Attack Vectors               |\n| Section 4 | Scoping the Penetration Test |\n| Section 5 | Rules of Engagement          |\n| Section 6 | Reporting                    |\n\n![](_page_3_Picture_0.jpeg)\n\n| Section 7  | Test Schedule Requirements                                        |\n|------------|-------------------------------------------------------------------|\n| Section 8  | Third Party Assessment Organizations (3PAO) Staffing Requirements |\n| Appendix A | FedRAMP Acronyms                                                  |\n| Appendix B | Definitions                                                       |\n| Appendix C | References                                                        |\n| Appendix D | Rules of Engagement (ROE) / Test Plan Template                    |\n\n![](_page_4_Picture_1.jpeg)"
+  },
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "TABLE OF CONTENTS",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "| About This Document                                                           |    |\n|-------------------------------------------------------------------------------|----|\n| Who Should Use This Document?                                                 |    |\n| How to Contact Us                                                             |    |\n| How this Document is Organized                                                |    |\n| Table 1: Document Section Table                                               | 2  |\n| 1.0. Scope of Testing                                                         | 1  |\n| Table 2: Cloud Service Classification                                         | 1  |\n| 2.0. Threats                                                                  | 2  |\n| 2.1. Threat Models                                                            | 2  |\n| 2.2. Attack Models                                                            | 3  |\n| 3.0. Attack Vectors                                                           | 5  |\n| 3.1 Mandatory Attack Vectors                                                  | 5  |\n| 3.1.1 Attack Vector 1: External to Corporate                                  | 5  |\n| 3.1.2. Attack Vector 2: External to CSP Target System                         | 7  |\n| 3.1.3. Attack Vector 3: Tenant to CSP Management System                       | 8  |\n| 3.1.4. Attack Vector 4: Tenant-to-Tenant                                      | റി |\n| 3.1.5. Attack Vector 5: Mobile Application to Target System                   | 10 |\n| 3.1.6 Attack Vector 6: Client-side Application and/or Agents to Target System | 10 |\n| 4.0. Scoping the Penetration Test                                             | 10 |\n| 5.0 Rules of Engagement                                                       | 11 |\n| 6.0. Reporting                                                                | 12 |\n| 6.1. Scope of Target System                                                   | 13 |\n| 6.2. Attack Vectors Assessed During the<br>Penetration Test                   | 13 |\n| 6.3. Timeline for Assessment Activity                                         | 13 |\n| 6.4. Actual Tests Performed and Results                                       | 13 |\n| 6.5. Findings and Evidence                                                    | 13 |\n| 6.6. Access Paths                                                             | 14 |\n\n![](_page_5_Picture_0.jpeg)\n\n| 7.0. Testing Schedule Requirements                                     |    |\n|------------------------------------------------------------------------|----|\n| 8.0. Third Party Assessment Orqanizations (3PAO) Staffing Requirements |    |\n| Appendix A: FedRAMP Acronyms                                           |    |\n| Appendix B: Definitions                                                |    |\n| Appendix C: References                                                 |    |\n| Appendix D: Rules of Engagement / Test Plan Template                   | 16 |\n| Rules of Engagement / Test Plan                                        | 16 |\n| System Scope                                                           | 17 |\n| Assumptions and Limitations                                            | 17 |\n| Testing Schedule                                                       | 17 |\n| Testing Methodoloqy                                                    | 18 |\n| Relevant Personnel                                                     | 18 |\n| Incident Response Procedures                                           | 18 |\n| Evidence Handling Procedures                                           | 18 |\n\n![](_page_6_Picture_1.jpeg)"
+  },
+  {
+    "depth": 1,
+    "section_id": "1.0",
+    "section_name": "Scope of Testing",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "The Federal Risk and Authorization Management Program (FedRAMP) requires that penetration testing be conducted in compliance with the following guidance:\n\n- NIST SP 800-115 (Current Revision)Technical Guide to Information Security Testing and . Assessment\n- . NIST SP 800-145 (Current Revision) The NIST Definition of Cloud Computing\n- NIST SP 800-53 (Current Revision) Security and Privacy Controls for Information Systems and ● Organizations\n- NIST SP 800-53A (Current Revision) Assessing Security and Privacy Controls in Federal ● Information Systems and Organizations: Building Effective Assessment Plans\n\nFedRAMP also requires that a CSP's products and solutions (cloud services) undergoing a FedRAMP assessment and penetration test must be classified as a SaaS, PaaS, and/or laaS (see definitions in Table 2). In some scenarios, it may be appropriate to apply multiple cloud service models to a cloud service.\n\n| Cloud Service<br>Model          | NIST Description (Current Revision)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |\n|---------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n| Software as a<br>Service (SaaS) | The capability provided to the consumer is to use the provider's applications<br>running on a cloud infrastructure. The applications are accessible from various<br>client devices through either a thin-client interface, such as a web browser (e.g.,<br>web-based email), or a program interface. The consumer does not manage or<br>control the underlying cloud infrastructure including network, servers, operating<br>systems, storage, or even individual application capabilities, except for limited<br>user-specific application confiquration settings. |\n| Platform as a<br>Service (PaaS) | The capability provided to the consumer is to deploy onto the cloud infrastructure<br>consumer-created or acquired applications created using programming languages,<br>libraries, services, and tools supported by the provider. The consumer does not<br>manage or control the underlying cloud infrastructure including network, servers,<br>operating systems, or storage, but has control over the deployed applications and<br>possibly configuration settings for the application-hosting environment.                                                       |"
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "Table 2: Cloud Service Classification",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "![](_page_7_Picture_1.jpeg)"
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "Infrastructure as a Service (lagS)",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "The capability provided to the consumer is to provision processing, storage, networks, and other fundamental computing resources where the consumer can deploy and run arbitrary software. which can include operating systems and applications. The consumer does not manage or control the underlying cloud infrastructure but has control over operating systems, storage, and deployed applications and possibly limited control of select networking components (e.g., host firewalls).\n\nIn the final Penetration Test Plan, all components, associated services, and access paths (internal) within the defined test boundary of the CSP's system must be scoped and assessed. A set of attack vectors will be mandatory, regardless of classification (SaaS, laaS, or hybrid) and is outlined in Section 3.1, CSPs will work, in coordination with their 3PAO, to identify and scope-in other attack vectors prescribed in this quidance. Any deviations from the mandatory or scoped-in attack vectors must be approved by an Authorizing Official (AO). The Rules of Engagement (ROE) must identify and define the appropriate testinq method(s) and techniques associated with exploitation of the relevant devices and/or services.\n\nThe Penetration Test Plan must address all attack vectors described in Section 3 or explain why a particular attack vector was deemed out of scope or not applicable. 3PAOs may include additional attack vectors they believe are appropriate based on the cloud service offering beinq assessed. See Appendix D: Rules of Engagement (ROE)/Test Plan Template for more information regarding test plans."
+  },
+  {
+    "depth": 1,
+    "section_id": "2.0",
+    "section_name": "Threats",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "CSPs should consult with their 3PAO to derive the most efficient and effective risk profiling for their cloud service offering (CSO)."
+  },
+  {
+    "depth": 2,
+    "section_id": "2.1",
+    "section_name": "Threat Models",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "FedRAMP penetration testing follows multiple threat models developed to align with current adversarial tactics and techniques. These threat models are built into each attack vector to ensure real-world threats and risks are analyzed, assessed, mitiqated, and accepted by an authorizing authority. 3PAOs should assess the risk and security of a CSP minimally through the following threat models:\n\n- Internet based (Untrusted) ●\n\t- o Network threat actor\n\t- O Attack on CSP managed user\n\n![](_page_8_Picture_1.jpeg)\n\n- O Email attack against CSP managed user\n- Application threat actor o\n- Physical based attack O\n- CSP Corporate (Untrusted and Trusted)\n\t- Breach of CSP management systems o\n\t- Breach of CSP managed support system and/or networks O\n\t- Breach of CSP managed enclave of authorized systems O\n\t- Corporate insider threat O\n\t- Lost CSP managed system o\n\t- Interconnected networks including international entities, foreign adversaries internally O pivoting to US CSO enclave\n\t- Ransomware spread from CSP Corporate O\n\t- Unauthorized physical access to authorized system O\n- Internal Threat (Untrusted and Trusted)\n\t- Weak permissions and access control O\n\t- o Abuse of services of authorized system\n\t- Ransomware spread from qovernment system O\n\t- o Multi orqanization access to authorized system\n\t- Unauthorized physical access to authorized system O\n\nIf a 3PAO determines additional threat models are warranted in order to provide an adequate FedRAMP assessment, a CSP must be willing to consider what the 3PAO recommends. If a 3PAO and CSP cannot come to terms, and an AO determines that this additional testing should be performed, this may extend a CSP's time to FedRAMP authorization."
+  },
+  {
+    "depth": 2,
+    "section_id": "2.2",
+    "section_name": "Attack Models",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Depending on the authorized service architecture (IaaS, SaaS, hybrid), all or some attack models may apply. Additionally, attack may be tested in different or multiple ways, and testers are required to demonstrate the ability to exploit vulnerabilities or verify exploits when not feasible. The penetration test should not be strictly limited to automated scanning techniques, but manual techniques as well.\n\nA 3PAO's penetration testing methodology and report should provide an AO with a clear picture of attack models leveraged against the authorized system. The report should outline the specific attack narratives of verification and validation of vulnerabilities identified during testing. This requirement will ensure that the\n\n![](_page_9_Picture_0.jpeg)\n\napproach and attack models were properly met. While not a comprehensive list, the goal of penetration testing should be to attain all of the following, per the MITRE ATT&CK®1 knowledge base:\n\n- Enterprise .\n\t- o Reconnaissance\n\t- Resource Development o\n\t- Initial Access O\n\t- Execution O\n\t- Persistence O\n\t- Privilege Escalation o\n\t- Defense Evasion O\n\t- Credential Access O\n\t- Discovery O\n\t- Lateral Movement O\n\t- Collection O\n\t- Command and Control o\n\t- Exfiltration o\n\t- Impact O\n- Mobile .\n\t- Initial Access O\n\t- Execution O\n\t- Persistence O\n\t- Privilege Escalation o\n\t- Defense Evasion O\n\t- Credential Access O\n\t- Discovery O\n\t- Lateral Movement O\n\t- O Collection\n\t- O Command and Control\n\t- Exfiltration O\n\t- Impact O\n\t- Network Effects O\n\t- Remote Service Effects O\n\nFedRAMP redlizes that the goal of testing to attain all of the above is not feasible for every CSO. It is up to CSPs and 3PAOs to determine the tactics and techniques that most assuredly could affect the particular\n\n<sup>1</sup> https://attack.mitre.org/matrices/enterprise/cloud/\n\n![](_page_10_Picture_1.jpeg)\n\nsystem. FedRAMP relies extensively on a 3PAO's penetration testing expertise to identify and test the most applicable tactics that would be adopted by a malicious actor. 3PAOs should explain the rationale for choosing the specific penetration testing tactics for the system. A CSP should be aware that an AO may ask for additional testing during the review if common tactics for a CSO are not tested. This can delay the time for FedRAMP authorization."
+  },
+  {
+    "depth": 1,
+    "section_id": "3.0",
+    "section_name": "Attack Vectors",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Attack vectors are defined as potential avenues of compromise that may lead to a loss or degradation of system integrity, confidentiality, or availability. FedRAMP has identified and developed several risk scenarios for 3PAOs to review and address during penetration testing. CSPs and 3PAOs should agree on the attack vectors. If a specific attack vector cannot be performed, the deviation must be included in the SAR as a deviation from the Penetration Testing Guidance. CSPs must understand that a 3PAO might see non-conformance to testing a particular attack vector as a High Risk finding in the SAR Risk Exposure Table (RET). If a CSP feels strongly that testing the attack vector may result in a siqnificant negative impact to the production system, then the CSP is encouraqed to submit a non-conformance justification for why a 3PAO-recommended attack vector cannot be tested, to an AO. CSPs and 3PAOs must both be aware that any deviations or non-conformance to established guidance may result in a longer time to FedRAMP authorization due to the time required for an AO to understand and agree to the deviation or non-conformance."
+  },
+  {
+    "depth": 1,
+    "section_id": "3.1",
+    "section_name": "Mandatory Attack Vectors",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Techniques to test each system may vary depending on the service offering (laaS, PaaS, and Hybrid). Due to system commonalities, the following are mandatory attack vectors for all authorized systems:\n\n- . External to Corporate\n- External to CSP Target System ●\n- Tenant to CSP Management System\n- . Tenant to Tenant\n- Mobile Application to Target System\n- . Client-side Application and/or Agents to Target System"
+  },
+  {
+    "depth": 4,
+    "section_id": "3.1.1",
+    "section_name": "Attack Vector 1: External to Corporate",
+    "id_kind": "numbered",
+    "parent_id": "3.1",
+    "body": "The External to Corporate attack vector requires the execution of a social engineering (phishing) attack against a CSP's system administrators, and managing personnel who may influence system\n\nadministrators. If sampling is performed, it must be documented in the ROE and approved by an AO prior to test execution. An attackers' originating IPs and email domains will be allowed on all perimeter security devices such as firewalls, web application firewalls, SPAM filters, and intrusion protection systems."
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "Email Phish Campaign",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "A phishing test is a coordinated assessment between a 3PAO and CSP. The intent is to test user compliance, not email security. Users are the last line of defense and should be tested. Emails should be allow-listed on all security systems and be presented to the user unflagged, unmodified, and unaltered in any way.\n\n3PAOs must coordinate with CSP security teams to ensure testing is not manipulated in any way. CSP users that are in-scope for this attack vector are all users with access to CSP management, authorized systems, applications, or support systems. Additionally, any system administrators with privileged level access to CSP management endpoints should be considered in-scope of this assessment.\n\n3PAOs are authorized to coordinate with CSPs to utilize established user phishing programs to facilitate testing. 3PAOs will provide or approve email templates and landing pages used in testing. 3PAOs must either perform this attack vector themselves, or independently evaluate the effectiveness of a third party phishing campaign.\n\nLanding pages for CSP personnel who are victims of the phishing attack should immediately identify that the email was a phish, and provide supplemental information on how to identify phishing attacks in the future.\n\nThe email campaign will consist of the following:\n\n- Email with user name in body ●\n- . Link to landing page\n- . Ability to capture emails opened (hidden pixel)\n- Landing page ●\n- . Ability to tie landing page visits by user\n- Username and password capture ●\n- . Ability to track user submission\n\nFalse positives created by CSP security systems, e.q. sandboxinq and link clicking, are to be included in totals due to requirements of CSPs to bypass these protections. 3PAOs should not keep credentials and must destroy them after the test due to privacy and security risks. FedRAMP reguires that the 3PAO report back roles and/or metrics but not specific names. CSPs should also require all passwords changed post-test. Any data submitted to the application, real or not, is to be considered a failure of the test.\n\nMetrics for failures and severity can be based on the most current Common Vulnerability Scoring System (CVSS) and the 3PAO expertise. For instance, the number of clicks and credential submissions should be reported along with the 3PAO justification for the scoring.\n\n![](_page_12_Picture_1.jpeg)"
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "Non-Credentialed-Based Phishing Attack",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Determine if a user can run an untrusted PowerShell or Bash script. In this type of attack, the scripts could gather the local username and hostname of the machine and send the payload back to a 3PAO server. This shows that remote code execution is possible. 3PAOs are not required to capture credentials but should track items such as when the script was run, under what circumstances was it run, and the role allowed to run it. Credential harvesting is not the qoal of the phishing attack. If successful or not successful, a 3PAO can provide evidence of a macro or script execution in lieu of credentials."
+  },
+  {
+    "depth": 4,
+    "section_id": "3.1.2",
+    "section_name": "Attack Vector 2: External to CSP Target System",
+    "id_kind": "numbered",
+    "parent_id": "3.1",
+    "body": "The External to CSP Target System attack vector simulates and tests vulnerabilities from external threat actors and untrusted Internet-based attacks; internal threats such as weak permissions/access controls and abuse of system services; and poor customer separation measures (e.q., improper network seqmentation and poor implementation of security controls)."
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "Internal Threats",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "CISA states that \"Insider threats present a complex and dynamic risk affecting the public and private domains of all critical infrastructure sectors.\" Insider threats are unintentional or intentional. CISA defines the unintentional and intentional threats very clearly. These threats are synopsized here for ease of use."
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "Unintentional Threat (Negligence, Accidental)",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Human beings are one of the biggest threat vectors to any computing device. Human beings are sometimes impatient, careless, tired, make mistakes, and procrastinate.\n\nNeqligence is the failure to exercise reasonable care or due diligence. Most insider threats are the result of actions by people who actually understand the reason for physical and logical security. These people think security is for the lesser population and deliberately choose to ignore basic security principles. For instance, these people may choose to ignore a security update because it is inconvenient.\n\nAccidental threats are mostly carried out mistakenly, but can be the result of a negligent event. We look at accidental threats as caused by those people who mistakenly introduce risk to an organization. Mainly, this accidental threat happens because a person does not understand security principles and applications. For instance, this type of person may not understand privacy data and could send a list of employee Social Security Numbers as an unencrypted attachment to an external email. Or this might be because a person unknowingly forwards an email thread with sensitive company data to a business competitor. This type of person may love to forward email attachments or jokes to others and not realize that the attachment contains malware."
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "Intentional Threats",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Intentional threats are purposefully harmful to another person or an organization. These threats are the result of malcontents or disgruntled employees. Malcontents cause issues because they seek to disrupt life in qeneral because of some internal rebellion. Disqruntled employees may cause issues because they feel\n\n<sup>2</sup> https://www.cisa.gov/defining-insider-threats\n\n![](_page_13_Picture_0.jpeg)\n\nthey were treated unfairly. These types of people may try to sabotage equipment, or inflict other types of disruptions and violence. Other people may steal proprietary data or intellectual property in the false hope of advancing their career."
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "Other Threats",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Additional threats include collusion, third-party actors, and direct threats. 3PAOs and CSPs are urged to consider each type of insider threat and determine how to best test the CSO to minimize these threats."
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "Poor Separation Measures and Defense In Depth",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Applications and systems currently exposed to the public internet should be tested and risk-assigned based on the footprint provided as part of the external boundary of the information system. Application, API, and services testing should be done in sessions or a \"less than ideal scenario\" where all external endpoints are known to an attacker. Additionally, all passive or active blocking security devices, such as web application firewalls and or software-based security controls, will be bypassed to facilitate testing. \"Attack Vector 2\" may be tested along with \"Attack Vector 4\", as long as all attack scenarios are covered and user/management experiences do not differ. 3PAOs are also required to elevate risk ratings higher for compromise scenarios originating from public access.\n\n- o laaS – Testing should originate from public internet attacking exterior IPs or URLs used to host or manage authorized systems. This should include out-of-band, break glass, VPNs, or site-to-site connection interfaces (non-authenticated). 3PAOs should take into consideration corporate shared services and systems and the direct or indirect impact exploitation of these may have on Federal Government data and metadata. These systems usually reside on CSP \"corporate networks\" and the interconnections should be assessed due to their impact on the accredited system.\n- o PaaS – Testing should originate from public internet attackinq exterior IPs or URLs used to host and manage authorized systems and within the application or applicable database.\n- 0 SaaS – Testing should originate from public internet attacking exterior IPs or URLs used to host and manage authorized systems and within the application or applicable database."
+  },
+  {
+    "depth": 4,
+    "section_id": "3.1.3",
+    "section_name": "Attack Vector 3: Tenant to CSP Management System",
+    "id_kind": "numbered",
+    "parent_id": "3.1",
+    "body": "This Tenant to CSP Management System attack vector simulates and tests vulnerabilities, untrusted internal threats, and trusted internal threats that emanate from network threat actors, application threat actors, and abuse of services of the authorized system.\n\nThis attack vector is performed by conducting a full application test attempting to access CSP manaqement systems due to misconfiquration, flaw in system design, abuse of intended function, low-code or no-code software deployment, and/or command line interface (CLI) that allows access to the CSP management zone.\n\n![](_page_14_Picture_1.jpeg)"
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "Privileged and Unprivileged Users",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "CSPs will provide privileqed level accounts to applications within the production environment in order to facilitate and identify scenarios where the attacker may go from unauthenticated access to authenticated access to privileged level access. All Tenant to CSP Manaqement System attacks are to be conducted using the highest level of permissions available to customer users of the information system. The intent is to identify any opportunity that privileged customer accounts would have to compromise the underlying system architecture.\n\nWhile cloud providers may prefer to evaluate a tenant within the developments, these are rarely identical to the production deployment, and will not be used as a valid representation for the FedRAMP penetration test vectors. A CSP's production environment should be sufficiently resilient to sustain a FedRAMP penetration test.\n\n- . laaS – Testing should originate from hosted Virtual Private Cloud (VPC) service, server, or platform. Aqents, APIs, and applications that allow for communications between tenant space and infrastructure or platform layers are in scope to ensure host compromise is limited to VPC or platform.\n- . PaaS – Testing should originate from the platform provided and attempt to gain access to lower-level PaaS management systems or laaS level systems. Due to inherent PaaS customizations and modifications (based on the Service Level Agreement [SLA]), the probability that the PaaS implementation may affect the security of underlying laaS is high. Automated code deployment tools or CLIs to deploy SaaS solutions are considered in-scope and are required to be tested.\n- SaaS Testing should originate from an application, API, or CLI if provided as a tool that is ● presented as part of an authorized system."
+  },
+  {
+    "depth": 4,
+    "section_id": "3.1.4",
+    "section_name": "Attack Vector 4: Tenant-to-Tenant",
+    "id_kind": "numbered",
+    "parent_id": "3.1",
+    "body": "This attack vector simulates and tests vulnerabilities from untrusted internal threats and trusted internal threats that emanate from issues such as ransomware spread from qovernment and multi orqanization access to the authorized system.\n\nThis attack vector is performed by conducting a full application test which attempts to use provisional access of one tenant to compromise another tenant. Environments are required to be set up to test all aspects of the service provided, to include authentication, data access, user permissions, and sessions. Access to the cloud service offering should mirror the methods used by system customers. 3PAOs should be provisioned with two full production customer tenants for performing the Tenant attack vector.\n\n![](_page_15_Picture_1.jpeg)"
+  },
+  {
+    "depth": 4,
+    "section_id": "3.1.5",
+    "section_name": "Attack Vector 5: Mobile Application to Target System",
+    "id_kind": "numbered",
+    "parent_id": "3.1",
+    "body": "The Mobile Application to Tarqet System attack vector consists of emulating a mobile application user attempting to access a CSP target system or CSP manaqement system. This attack vector is tested on a representative mobile device and does not directly impact a CSP tarqet system or infrastructure. Information derived from this activity can be used to inform testing of other attack vectors. If a mobile application is not part of a CSP's CSO, then this attack vector can be marked as out-of-scope."
+  },
+  {
+    "depth": 4,
+    "section_id": "3.1.6",
+    "section_name": "Attack Vector 6: Client-side Application and/or Agents to Target System",
+    "id_kind": "numbered",
+    "parent_id": "3.1",
+    "body": "For this attack vector, if a CSP provides client-side components installed locally within a customer environment), those components must be included in the CSP's authorization boundary and tested as part of a CSP's system boundary security assessment if the components are essential for their customer's use of their CSO. Such client-side applications or components may include (though not exclusively) software applications, servers, appliances, browser extensions, thick clients, and aqents. If a CSP provides optional-use, client-side components, such components may be included in the CSP's tested authorization boundary, if agreed upon between the CSP and customer.\n\nCSPs should include in their SSP, and 3PAOs in their testing, any controls out of a customer's ability to remediate such as encryption and software development. It is recognized that many of these controls will have a significant customer responsibility. These shared responsibilities should be clearly called out in the SSP and assessed by a 3PAO.\n\nFedRAMP encourages inclusion of optional-use components within a CSP's tested boundary as it reduces the burden on customers for component assessment, authorization, and continuous monitorinq.\n\nWhen scoping the system boundaries for the assessment, it is important to consider the legal ramifications of performing penetration testing activities on third-party environments. All testing activities must be limited to the in-scope test boundary for the system to ensure adherence to all agreements and to limit leqal liability. Penetration testing should not be performed on assets for which permission has not been explicitly documented. Obtaining permissions for any third-party assets are required to be in-scope and are a CSP's responsibility."
+  },
+  {
+    "depth": 1,
+    "section_id": "4.0",
+    "section_name": "Scoping the Penetration Test",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "The authorization boundaries of a proposed cloud service will be initially determined based on the SSP and attachments. Section 9 of the SSP should clearly define authorization boundaries of the cloud system in a diagram and in words. During penetration test scoping discussions, individual system components will be reviewed and deemed as \"in-scope\" or \"out-of-scope\" for the penetration test. The agreed upon and authorized in-scope components will comprise the system boundary for the penetration test.\n\n![](_page_16_Picture_1.jpeg)\n\nWhen scoping the system boundaries for an assessment, it is important to consider the legal ramifications of performing penetration testing activities on third-party environments. All testing activities must be limited to the in-scope test boundary for the system to ensure adherence to all agreements and to limit leqal liability. Penetration testing should not be performed on assets for which permission has not been explicitly documented. Obtaining permissions for any third-party assets are required to be in-scope and is a CSP's responsibility.\n\nService models intending to use FedRAMP Authorized services lower in the \"cloud stack\" can leverage the FedRAMP compliance and security features of those services. As a result, attack vectors already addressed by other FedRAMP Authorized services lower in the \"cloud stack\" are not required to be re-evaluated. For example, if a PaaS and SaaS leverage another layer (i.e., laaS) that is FedRAMP Authorized, then penetration testinq of the lower layer is not required. However, a CSP must determine the authorization system boundaries and provide justification for any controls they intend to claim as inherited from the supporting service. If the PaaS and/or SaaS are including FedRAMP Authorized security features for the lower layers, then penetration testing of the lower layers is required and a CSP needs to obtain all the authorizations required for a 3PAO to perform penetration testing for the lower layers."
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "Penetration testing may require:",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "- Negotiation and agreement with third parties such as internet service providers (ISPs), managed ● security service providers (MSSPs), facility leaseholders, hosting services, and/or other orqanizations involved in, or affected by, the test. In such scenarios, a CSP is responsible for coordination and obtaining approvals from third parties prior to the commencement of testing.\n- . When a cloud system has multiple tenants, CSPs must build a temporary tenant environment if another tenant environment suitable for testing does not exist. Use of production to development instances to meet multi-tenancy may be used if a 3PAO validates attack vectors and models are effectively tested."
+  },
+  {
+    "depth": 1,
+    "section_id": "5.0",
+    "section_name": "Rules of Engagement (ROE)",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "The penetration test plan must include:",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "- A description of the approach, constraints, and methodologies for each planned attack.\n- . A detailed test schedule that specifies the start and end date/times and content of each test period and the overall penetration test beginning and end dates.\n- Technical points of contact (POC) with a backup for each subsystem and/or application that may . be included in the penetration test.\n\nThe penetration test ROE describes the target systems, scope, constraints, and proper notifications and disclosures of the penetration test. 3PAOs develop a ROE based on the parameters provided by a CSP. The\n\n![](_page_17_Picture_1.jpeg)\n\nROE must be developed in accordance with NIST Special Publication (SP) 800-115, Appendix B, and be approved by an AO prior to testing. Additionally, NIST SP 800-115, Section 7, Security Assessment Execution states, \"appropriate personnel such as the ClO, ClSO, and ISSO are informed of any critical high-impact vulnerabilities as soon as they are discovered.\" FedRAMP requires that the ROE must contain this clause and include the AO, in addition to the CIO, CISO, and ISSO. See Section 6, Rules of Engagement, of the FedRAMP Security Assessment Plan Template for more information on the ROE. 3PAOs must include a copy of the ROE in the FedRAMP Security Assessment Plan submitted to FedRAMP."
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "The ROE should also include:",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "- . Local computer incident response team or capability and their requirements for exercising the penetration test\n- . Physical penetration constraints\n- Acceptable social engineering pretext(s) to be fully worked out prior to the ROE being signed. Note: ●\n\t- Social engineering tests are based upon a 3PAO's expertise in challenging a CSP's users' o failures to follow documented CSO policies and procedures\n\t- Can be evaluated against the effectiveness of a CSP's security awareness and training o program\n\t- There is no \"one size fits all\" social engineering testing. 3PAOs should consider the threats, O at the time of testing, and incorporate these methods, as applicable, into their penetration testing methodoloqy.\n\nA summary and reference to any third-party agreements, including POCs for third parties that may be affected by the penetration test and must be included in the documentation. The time to authorization will be extended if the additional testing is required to be done based on an AOs review and prior to FedRAMP authorizing the package. 3PAOs are required to fully document, in the Penetration Testing Report section 6.0, the rationale behind a CSP not agreeing to a social engineering test. Also, CSPs are encouraged to report to FedRAMP any proposed 3PAO penetration testing exercises that seem too severe qiven the nature of the CSO being offered."
+  },
+  {
+    "depth": 1,
+    "section_id": "6.0",
+    "section_name": "Reporting",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Penetration test assessment activities and results must be organized and compiled into a comprehensive penetration test report to be included in the SAR. There is no template provided for the penetration test report.\n\nThe penetration test report should include appropriate confidentiality and sensitivity markings in compliance with a CSP's organizational policy. 3PAOs should provide the report to a CSP via a secure means in compliance with the CSP orqanization's policies. Any information included in the report that could\n\n![](_page_18_Picture_1.jpeg)\n\ncontain sensitive data (screenshots, tables, figures) must be sanitized, or masked, using techniques that render the sensitive data permanently unrecoverable by recipients of the report. 3PAOs must not include passwords (including those in encrypted form) in the final report or must mask them to ensure recipients of the report cannot recreate or guess the password.\n\nThe report is required to address the following sections, but not necessarily in this order:"
+  },
+  {
+    "depth": 2,
+    "section_id": "6.1",
+    "section_name": "Scope of Target System",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Outline the target system that was assessed and if any deviations were made from the ROE/TP document."
+  },
+  {
+    "depth": 1,
+    "section_id": "6.2",
+    "section_name": "Attack Vectors Assessed During the Penetration Test",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Describe the attack vector(s) tested and the threat model(s) followed for executing the penetration test."
+  },
+  {
+    "depth": 3,
+    "section_id": "6.3",
+    "section_name": "Timeline for Assessment Activity",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Document when penetration testing activity was performed."
+  },
+  {
+    "depth": 3,
+    "section_id": "6.4",
+    "section_name": "Actual Tests Performed and Results",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Document the actual tests performed to address the penetration test requirements outlined in this document and document the results of each test."
+  },
+  {
+    "depth": 2,
+    "section_id": "6.5",
+    "section_name": "Findings and Evidence",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Findings should include a description of the issue, the iarget system, a recommendation to the CSP, a risk rating, and relevant evidence to provide context for each finding.\n\n![](_page_19_Picture_1.jpeg)"
+  },
+  {
+    "depth": 3,
+    "section_id": "6.6",
+    "section_name": "Access Paths",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Access paths are the chain of attack vectors, exploitations, and post-exploitations that lead to a deqradation of system inteqrity, confidentiality, or availability. 3PAOs must describe the access path and the penetration test impact if multiple vulnerabilities could be coupled to form a sophisticated attack aqainst a CSP."
+  },
+  {
+    "depth": 1,
+    "section_id": "7.0",
+    "section_name": "Testing Schedule Requirements",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "For each initial security authorization, a penetration test must be completed by a 3PAO as a part of the assessment process described in the SAP. This initial penetration test must be performed no more than 6 months prior to the submission of the SAR. Once within the continuous monitoring phase of the FedRAMP process, additional penetration testing activities must be performed at least every 12 months, unless otherwise approved by an authorizing body with documented rationale."
+  },
+  {
+    "depth": 1,
+    "section_id": "8.0",
+    "section_name": "Third Party Assessment Organizations (3PAO) Staffing Requirements",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "All penetration test activities must be performed by a 3PAO that has demonstration testing proficiency and maintains a defined penetration test methodology. The penetration test team lead must have an industry-recognized credential for penetration testing and equivalent education and experience as required in the R311 Federal Risk and Authorization Management Program (FedRAMP): Specific Requirements.\n\n![](_page_20_Picture_1.jpeg)"
+  },
+  {
+    "depth": 1,
+    "section_id": "Appendix A",
+    "section_name": "FedRAMP Acronyms",
+    "id_kind": "annex",
+    "parent_id": "",
+    "body": "The master list of FedRAMP acronym and qlossary definitions for all FedRAMP templates is a helpful resource and can be found by utilizing the search function.\n\nPlease send questions to info@fedramp.gov."
+  },
+  {
+    "depth": 1,
+    "section_id": "Appendix B",
+    "section_name": "Definitions",
+    "id_kind": "annex",
+    "parent_id": "",
+    "body": "The following is a list of definitions for this document:\n\n- . Attack Vector – A prescribed attack scenario based on attack models and real-world threats.\n- . Cloud Service Provider (CSP) – The entity responsible for the deployment, maintenance, and security of the authorized system.\n- Cloud Service Offering (CSO) The service, platform or capability that is beinq offered and ● accredited by the qovernment customer.\n- . Corporate – An internal CSP network accessed outside the authorization boundary. This corporate boundary includes all resources owned, operated, maintained by the CSP to administer services of the system. This includes networks, laptops, mobile phones, systems that touch any part of the authorized system.\n- . CSP Management System – The backend applications, systems, services, hardware, infrastructure, or out of band management that facilitates administrative access to the cloud service. The management system is the support infrastructure only accessible to CSP personnel and authorized individuals.\n- Insider Threat An individual that is an employee, contractor, government employee or third party ● with access to a corporate or authorized system with malicious intent.\n- . Microservices – The capabilities provided or used to provide services.\n- Penetration Test A combination of automated and manual testing of technical security controls. ●\n- Target The intended end product being offered to the qovernment customer. ●\n- Tenant – A customer instance of a cloud service.\n\n![](_page_21_Picture_1.jpeg)"
+  },
+  {
+    "depth": 1,
+    "section_id": "Appendix C",
+    "section_name": "References",
+    "id_kind": "annex",
+    "parent_id": "",
+    "body": "The publications referenced in this document are available at the following URLs:\n\n- FedRAMP Documents and Templates: https://www.fedramp.gov/documents-templates/ ●\n- NIST Special Publication (SP) 800-115 Technical Guide to Information Security Testing and . Assessment: http://csrc.nist.gov/publications/nistpubs/800-115/SP800-115.pdf\n- NIST SP 800-53 Current Revision Security and Privacy Controls for Federal Information Systems . and Organizations: http://hvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r4.pdf\n- . NIST SP 800-145 The NIST Definition of Cloud Computing: http://csrc.nist.gov/publications/nistpubs/800-145/SP800-145.pdf\n- . MITRE ATT&CK® Matrix for Enterprise: https://attack.mitre.org/matrices/enterprise/cloud/"
+  },
+  {
+    "depth": 1,
+    "section_id": "Appendix D",
+    "section_name": "Rules of Engagement / Test Plan Template",
+    "id_kind": "annex",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "Rules of Engagement / Test Plan",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "The Penetration Test Rules of Engagement (ROE) and Test Plan (TP) documents describe the tarqet systems, scope, constraints, and proper notifications and disclosures of the Penetration Test. 3PAOs are required to develop a ROE and TP based on the parameters and system information provided by a CSP.\n\nThe ROE and TP document must be developed in accordance with NIST SP 800-115, Appendix B, and be approved by an AO prior to testing. 3PAOs must include a copy of the ROE in the FedRAMP Security Assessment Plan submitted to FedRAMP.\n\nPenetration test planning must include or account for the following considerations:\n\n- Penetration ●\n\t- Network penetration o\n\t- Wireless network penetration o\n\t- Physical penetration O\n\t- Social engineering penetration O\n- . Affected IP ranges and domains\n- Acceptable social engineering pretexts ●\n- Targeted organization's capabilities and technologies ●\n\n![](_page_22_Picture_1.jpeg)\n\n- . Investigative tools\n- Specific testing periods (start and end date/times) ●\n- . CSP reporting requirements (format, content, media, encryption)"
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "The Penetration Test Plan must describe:",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "- Target locations ●\n- . Cateqories of information such as open source intelligence, human intelligence\n- Type of information such as physical, relationship, logical, electronic, metadata ●\n- . Gathering techniques such as active, passive, on- and off-location\n- . Pervasiveness\n- . Constraints that do not exploit business relationships (customer, supplier, joint venture, or teaming partners). The CSO control baseline provides the means to thoroughly test these relationships, especially supply chain controls\n\n3PAOa must justify omitting any attack vectors described in Section 3 above in the ROE/TP and the Penetration Test Report."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "System Scope",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Provide a description of the boundaries and scope of the cloud service system, along with any identified supporting services or systems. System scope should account for all Internet Protocol (IP) addresses, Uniform Resource Identifiers (URLs), devices, components, software, and hardware."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Assumptions and Limitations",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Provide a description of the assumptions, dependencies, and limitations identified that may have an impact on penetration testing activities or results. Include references to local and federal legal constraints that may be relevant to testing or results. Assumptions also include any assumed agreement, or access to third party software, systems, or facilities."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Testing Schedule",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Provide a schedule that describes testing phases, initiation/completion dates, and allows for tracking of penetration test deliverables.\n\n![](_page_23_Picture_1.jpeg)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Testing Methodology",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "The methodology section will address relevant penetration testing activities as described in Section 5, above."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Relevant Personnel",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Provide a list of key personnel involved in the manaqement and execution of the penetration test. The list should include, at a minimum:\n\n- System Owner (CSP)\n- . Trusted Agent (CSP)\n- Penetration Test Team Lead (3PAO) ●\n- Penetration Test Team Member(s) (3PAO)\n- Escalation Points of Contact (CSP and 3PAO) ."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Incident Response Procedures",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Provide a description of the chain of communications and procedures to be followed should an event requiring incident response intervention be initiated during penetration testing."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Evidence Handling Procedures",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Provide a description of procedures for transmission and storage of penetration test evidence collected during the course of the assessment."
+  }
+]

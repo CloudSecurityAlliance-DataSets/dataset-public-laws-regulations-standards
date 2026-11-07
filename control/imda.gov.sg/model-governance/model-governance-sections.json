@@ -1,0 +1,98 @@
+[
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "Singapore’s Approach to AI Governance",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Published on 03 Nov 2023\n\nShare:\n\n  * facebook\n  * linkedin\n  * whatsapp\n\nAs Singapore develops its digital economy, a trusted ecosystem is key - one\nwhere organisations can benefit from tech innovations while consumers are\nconfident to adopt and use AI. In the global discourse on AI ethics and\ngovernance, Singapore believes that its balanced approach can facilitate\ninnovation, safeguard consumer interests, and serve as a common global\nreference point.\n\n![AI Verify](/assets/e1e4c1d6-8231-4e8e-adb6-9cf1404f7ea0)\n\nIMDA had developed AI Verify, an AI governance testing framework and a\nsoftware toolkit. The testing framework consists of 11 AI ethics principles*\nwhich jurisdictions around the world coalesce around, and are consistent with\ninternationally recognised AI frameworks such as those from EU, OECD and\nSingapore’s Model AI Governance Framework. AI Verify helps organisations\nvalidate the performance of their AI systems against these principles through\nstandardised tests.\n\n__\n\n _*The 11 governance principles are transparency, explainability,\nrepeatability/reproducibility, safety, security, robustness, fairness, data\ngovernance, accountability, human agency and oversight, inclusive growth,\nsocietal and environmental well-being._\n---\n\nThe testing processes comprises technical tests and process checks. The AI\nVerify toolkit is a single integrated software toolkit that operates within\nthe user’s enterprise environment. It enables users to conduct technical tests\non their AI models and record process checks. The toolkit then generates\ntesting reports for the AI model under test. User companies can be more\ntransparent about their AI by sharing these testing reports with their\nshareholders.\n\nAI Verify can currently perform technical tests on common supervised-learning\nclassification and regression models for most tabular and image datasets. AI\nVerify cannot test Generative AI/LLMs. AI Verify does not set ethical\nstandards, neither does it guarantee AI systems tested will be completely safe\nor be free from risks or biases.\n\nAI Verify was first developed in consultation with companies from different\nsectors and of different scales. These companies include AWS, DBS, Google,\nMeta, Microsoft, Singapore Airlines, NCS/LTA, Standard Chartered, UCARE.AI and\nX0PA. AI Verify was subsequently released in May 2022 for an international\npilot, which attracted the interest of over 50 local and multinational\ncompanies, including Dell, Hitachi and IBM.\n\n![AIVerify_Logo_RGB_Horizontal_Color](/assets/197029f3-3c8b-410c-bc84-0cfc1df5547d)\n\nAs AI testing technologies are still nascent and growing, there is a need to\ncrowd in the best expertise globally to advance in this area. IMDA has\ntherefore set up the AI Verify Foundation to harness the collective power and\ncontributions of the global open source community to develop AI Verify testing\ntools for the responsible use of AI. The Foundation will boost AI testing\ncapabilities and assurance to meet the needs of companies and regulators\nglobally.\n\nThe not-for-profit Foundation will:\n\n  * Foster a community to contribute to the use and development of AI testing frameworks, code base, standards, and best practices\n  * Create a neutral platform for open collaboration and idea-sharing on testing and governing AI\n  * Nurture a network of advocates for AI and drive broad adoption of AI testing through education and outreach\n\nAI Verify Foundation has seven premier members, namely, Aicadium, Google, IBM,\nIMDA, Microsoft, Red Hat and Salesforce, who will set strategic directions and\ndevelopment roadmap of AI Verify. The Foundation also has more than 60 general\nmembers. For more information, visit our [Foundation\nwebsite](https://aiverifyfoundation.sg/?utm_source=imda&utm_medium=referral&utm_campaign=20230607_referral_imda_website)."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Model AI Governance Framework",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "On 23 January 2019, the PDPC released its first edition of the Model AI\nGovernance Framework (Model Framework) for broader consultation, adoption and\nfeedback. The Model Framework provides detailed and readily-implementable\nguidance to private sector organisations to address key ethical and governance\nissues when deploying AI solutions. By explaining how AI systems work,\nbuilding good data accountability practices, and creating open and transparent\ncommunication, the Model Framework aims to promote public understanding and\ntrust in technologies.\n\nOn 21 January 2020, the PDPC released the second edition of the Model\nFramework."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Guiding Principles",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "![Checkbox tick](/assets/3dda9622-5ae0-48a8-89b5-09c8799e0f55)| Decisions made\nby AI should be\n**EXPLAINABLE, TRANSPARENT & FAIR **| ![Checkbox\ntick](/assets/3dda9622-5ae0-48a8-89b5-09c8799e0f55)| AI systems should be\n**HUMAN-CENTRIC**\n---|---|---|---"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "From Principles to Practice",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "![Internal Governance Structures and Measures](/assets/a1added6-0a8b-45ae-\nba0c-fb983cf39f9e)\n\n**Internal Governance Structures and Measures**\n\n  * Clear roles and responsibilities in your organisation\n  * SOPs to monitor and manage risks\n  * Staff training\n\n![Determining the Level of Human Involvement in AI-Augmented Decision-\nMaking](/assets/35abf3d7-cd58-4608-9a5a-a6502f560cb8)\n\n**Determining the Level of Human Involvement in AI-augmented Decision-making**\n\n  * Appropriate degree of human involvement\n  * Minimise the risk of harm to individuals\n\n![Operations Management](/assets/24861a75-1a21-4373-8894-b35ec9be3bdd)\n\n**Operations Management**\n\n  * Minimise bias in data and model\n  * Risk-based approach to measures such as explainability, robustness and regular tuning\n\n![Stakeholder Interaction and\nCommunication](/assets/75ec9b3d-8c67-4408-800a-c60fa03e12ab)\n\n**Stakeholder Interaction and Communication**\n\n  * Make AI policies known to users\n  * Allow users to provide feedback, if possible\n  * Make communications easy to understand\n\nThe second edition includes additional considerations (such as robustness and\nreproducibility) and refines the original Model Framework for greater\nrelevance and usability. For instance, the section on customer relationship\nmanagement has been expanded to include considerations on interactions and\ncommunications with a broader network of stakeholders. The second edition of\nthe Model Framework continues to take a sector- and technology-agnostic\napproach that can complement sector-specific requirements and guidelines.\n\nAccess the [second edition of the Model Framework ](http://go.gov.sg/ai-gov-\nmf-2)and the [primer](/assets/894997f1-f0ec-402a-b7e1-d95051a9be29)."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Implementation and Self Assessment Guide for Organisations (ISAGO)",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Intended as a companion guide to the Model Framework, ISAGO aims to help\norganisations assess the alignment of their AI governance practices with the\nModel Framework. It also provides an extensive list of useful industry\nexamples and practices to help organisations implement the Model Framework.\n\nISAGO is the result of the collaboration with World Economic Forum's Centre\nfor the Fourth Industrial Revolution to drive further AI and data innovation.\nISAGO was developed in close consultation with the industry, with\ncontributions from over 60 organisations.\n\nAccess the [ISAGO](http://go.gov.sg/isago)."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Compendium of Use Cases",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Complementing the Model Framework and ISAGO is a Compendium of Use Cases\n(Compendium) that demonstrates how local and international organisations\nacross different sectors and sizes implemented or aligned their AI governance\npractices with all sections of the Model Framework. The Compendium also\nillustrates how the featured organisations have effectively put in place\naccountable AI governance practices and benefitted from the use of AI in their\nline of business. We hope these real-world use cases will inspire other\ncompanies to do the same."
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "Volume 1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "[Volume 1](https://go.gov.sg/ai-gov-use-cases) features use cases from\nCallsign, DBS Bank, HSBC, MSD, Ngee Ann Polytechnic, Omada Health, UCARE.AI\nand Visa Asia Pacific."
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "Volume 2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "[Volume 2](https://go.gov.sg/ai-gov-use-cases-2) contains use cases from the\nCity of Darwin (Australia), Google, Microsoft, Taiger as well as special\nsection on how AI Singapore implemented our Model Framework in its 100\nExperiments projects with IBM, RenalTeam, Sompo Asia Holdings and VersaFleet."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "A Guide to Job Redesign in the Age of AI (Guide)",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Under the guidance of the Advisory Council of the Ethical Use of AI and Data,\nthe Infocomm Media Development Authority (IMDA) and the PDPC have collaborated\nwith the Lee Kuan Yew Centre for Innovative Cities (LKYCIC), Singapore\nUniversity of Technology and Design to launch the Singapore’s first guide that\nhelps organisations and employees understand how existing job roles can be\nredesigned to harness the potential of AI, so that the value of their work is\nincreased.\n\nLaunched on 4 December 2020, this Guide provides an industry-agnostic and\npractical approach to help companies manage AI's impact on employees, and for\norganisations that are adopting AI to prepare themselves for the digital\nfuture.\n\nThis Guide provides guidance on practical steps in four areas of job redesign:\n\n![Transforming Jobs-colored](/assets/50f0b74d-0d8f-41a2-9e0f-7545c593d5eb)\n\n**Transforming Jobs**\n\nAssess the impact of AI on tasks, including whether each task can be automated\nor augmented by AI or remain in human hands, and decide which jobs can be\ntransformed within an appropriate time frame.\n\n![Charting Pathways](/assets/e30e9971-8b11-4bab-bfc3-3f6537ba9355)\n\n**Charting Clear Pathways Between Jobs**\n\nChart task pathways between jobs within an organisation and identify the tasks\nemployees would need to learn to transition from one job to another.\n\n![Clearing Barriers - colored](/assets/12007445-8c0a-4e75-ab41-b39da5b2cdd0)\n\n**Clearing Barriers to Digital Transformation**\n\nSuggest ways to address potential challenges and support employees when\nimplementing AI.\n\n![Effective Comms - colored](/assets/e41b2c70-59f4-41ad-8dda-6eb629e02e90)\n\n**Enabling Effective Communication Between Employers and Employees**\n\nBuild a shared understanding within the organisation on “why”, “what”, and\n“how” AI will augment human capabilities and empower employees in their\ncareer.\n\nThe Guide supports IMDA’s efforts to build a trusted and progressive AI\nenvironment that benefits businesses, employees and consumers. For example,\nthe Model Framework guides organisations to deploy AI responsibly and address\nconsumer concerns. Likewise, the Guide encourages organisations to take a\nhuman-centric approach to manage the impact of AI adoption by investing in\nredesigning jobs and reskilling employees.\n\nAccess the [Guide](http://go.gov.sg/ai-guide-to-jobredesign) and the\n[primer](http://go.gov.sg/ai-guide-primer)."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Adoption and Feedback",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "We encourage organisations to use the Model Framework, ISAGO and Guide for\ninternal discussion and implementation. Trade associations and chambers,\nprofessional bodies, and interest groups are welcome to use this document for\ntheir discussions, and adapt it for their own use. The way in which businesses\nemploy AI continues to evolve and so will this living document in the form of\nfuture editions.\n\nTo this end, we welcome organisations to share with us:\n\n  * Practical examples that would aid in illustrating section(s) of the Model Framework and Guide; and/or\n  * Experiences in using the Model Framework, ISAGO and Guide, e.g. how easy it is to implement the measures, how the framework can be better improved, or a helpful case of implementation that we may publish as a use case. Your use cases would continue to inspire more companies to implement AI responsibly.\n\nPlease email us at [corporate@pdpc.gov.sg](mailto:corporate@pdpc.gov.sg)."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Advisory Council on the Ethical Use of AI and Data (Advisory Council)",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "The Advisory Council on the Ethical Use of AI & Data was first established in\n2018 for the purpose of:\n\n(a) advising the Government on ethical, policy and governance issues arising\nfrom the use of data-driven technologies in the private sector; and\n\n(b) supporting the Government in providing general guidance to businesses to\nminimise ethical, governance and sustainability risks, and to mitigate adverse\nimpact on consumers from the use of data-driven technologies.\n\nThe members of the Advisory Council are appointed by the Minister for\nCommunications and Information and supported by a Secretariat.\n\nThe Advisory Council members for the term 2022-2025 are:\n\nChairperson\nMr V.K. Rajah SC, Duxton Hill Chambers (Singapore Group Practice), former\nJudge of Appeal and the Attorney General of Singapore\n\nMembers (in alphabetical order)\n\n  1. Mr Blaise Aguera y Arcas, Engineering Fellow, Google Research\n  2. Ms Kathy Baxter, Principal Architect, Ethical AI Practice, Salesforce\n  3. Mr Chia Song Hwee, Deputy CEO, Temasek International\n  4. Mr Andreas Ebert, Worldwide National Technology Officer, Microsoft\n  5. Ms Kay Firth-Butterfield, Head of AI & Machine Learning and Member of the Executive Committee, WEF\n  6. Mr Piyush Gupta, CEO, DBS Group\n  7. Dr Hiroaki Kitano, President & CEO, Sony Computer Science Lab\n  8. Mr Shameek Kundu, Head of Financial Services and Chief Strategy Officer, TruEra Inc\n  9. Mr Li Chun, Group CEO, Lazada and Vice President, Alibaba Group\n  10. Dr Ieva Martinkenaite, Vice President of Telenor Research, Head of AI and Analytics\n  11. Dr Francesca Rossi, Fellow and AI Ethics Global Leader, IBM\n  12. Dr Tan Geok Leng, CEO, AIDA Technologies\n  13. Mr Andrew Wyckoff, Director of the Science, Technology and Innovation Directorate, OECD\n\nBrowse related tag:\n\n  * [AI Governance](/search?q=AI+Governance)\n\nShare:\n\n  * facebook\n  * linkedin\n  * whatsapp\n\nTo offer you a better experience, this site uses cookies. Read more about\ncookies in our [Privacy Statement](/privacy-statement).\n\nClose cookie message"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Personal Data Protection Commission",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "* [About](/about)\n  * [Organisations](/organisations)\n  * [Individuals](/individuals)\n  * [Media & Events](/media-events)\n  * [Contact](/contact-us)\n\n  * [Facebook](https://www.facebook.com/pdpcsg)\n  * [Instagram](https://www.instagram.com/pdpcsg/)\n  * [LinkedIn](https://sg.linkedin.com/company/pdpcsg)\n  * [Youtube](https://www.youtube.com/user/PDPCSingapore)\n\n* * *\n\n  * [Report Vulnerability](https://www.tech.gov.sg/report-vulnerability/)\n  * [Privacy Statement](/privacy-statement)\n  * [Terms and Conditions](/terms-and-conditions)\n  * [Reach](https://www.reach.gov.sg/)\n\n© 2026 Personal Data Protection CommissionLast updated 03 Nov 2023\n\nBack to top"
+  }
+]

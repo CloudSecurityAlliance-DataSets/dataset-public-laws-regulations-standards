@@ -1,0 +1,250 @@
+[
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "AI Risk & Reliability",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Support community development of AI risk and reliability tests and organize\ndefinition of research- and industry-standard AI safety benchmarks based on\nthose tests.\n\n[Join the Working Group](https://mlcommons.org/community/subscribe/)\n\nConnect with us:\n\n  * [ GitHub ](https://github.com/mlcommons/modelbench)\n  * [ Discord ](https://discord.gg/fRUXCsqYmr)\n\n![](https://mlcommons.org/wp-content/uploads/2024/10/ai4.jpg.webp)"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Purpose",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "* * *\n\nOur goal is for these benchmarks to guide responsible development, support\nconsumer / purchase decision making, and enable technically sound and risk-\nbased policy negotiation."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Deliverables",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "* * *\n\nWe are a community based effort and always welcome new members. There is no\nprevious experience or education required to join as a volunteer.\nSpecifically, the working group has the following four major tasks:\n\n  * Tests: Curate a pool of safety tests from diverse sources, including facilitating the development of better tests and testing methodologies.\n  * Benchmarks: Define benchmarks for specific AI use-cases, each of which uses a subset of the tests and summarizes the results in a way that enables decision making by non-experts.\n  * Platform: Develop a community platform for safety testing of AI systems that supports registration of tests, definition of benchmarks, testing of AI systems, management of test results, and viewing of benchmark scores.\n  * Governance: Define a set of principles and policies and initiate a broad multi-stakeholder process to ensure trustworthy decision making."
+  },
+  {
+    "depth": 5,
+    "section_id": "",
+    "section_name": "Meeting Schedule",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "**Monday** Weekly on Monday from 9:00-9:30AM Pacific."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "AI Risk & Reliability Working Group Projects",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "* * *\n\n[MLCommons AILuminate Benchmark Overview](https://mlcommons.org/ailuminate/)\n\n[See the AILuminate Safety Benchmark](https://mlcommons.org/ailuminate/safety)\n\n[See the AILuminate Jailbreak\nBenchmark](https://mlcommons.org/ailuminate/jailbreak/)\n\n[Read the AILuminate Assessment\nStandard](https://drive.google.com/file/d/1jVYoSGJHtDo1zQLTzU7QXDkRMZIberdo/view?usp=sharing)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "How to Join and Access Resources",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "* * *\n\nTo sign up for the group mailing list and receive the meeting invite:\n\n  * Fill out our [subscription form](https://mlcommons.org/community/subscribe/) and indicate that you’d like to join the AI Risk & Reliability Working Group.\n  * [Associate a Google account](https://accounts.google.com/SignUpWithoutGmail) with your organizational email address.\n  * Once your request to join the AI Risk & Reliability working group is approved, you’ll be able to access the [AI Risk & Reliability folder in the Public Google Drive](https://drive.google.com/drive/folders/1i1Ls_Cg8O8_c1ms7M2yEzOwKw2JsbAGl).\n\n* * *\n\nTo access the GitHub repositories (public):\n\n  1. If you want to contribute code, please submit your GitHub username to [our subscription form](https://mlcommons.org/community/subscribe/).\n  2. Visit the GitHub repositories:\n     * [ModelBench](https://github.com/mlcommons/modelbench)\n     * [ModelGauge](https://github.com/mlcommons/modelgauge)\n\n* * *"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Related Insights",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "[ ![](https://mlcommons.org/wp-content/uploads/2026/04/relmapclad.svg)\n](https://mlcommons.org/2026/04/airr-map/)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "[ AI Reliability Map: Rules and Circumstances",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "](https://mlcommons.org/2026/04/airr-map/)\n\nNews April 22, 2026\n\n[ ![](https://mlcommons.org/wp-content/uploads/2026/03/AI_Luminate-Jailbreak-\nBlog.svg) ](https://mlcommons.org/2026/03/airr-multilingual-apac/)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "[ Global Standards, Local Ground Truths: Piloting Multilingual,",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Multimodal AI Safety Understanding in APAC\n](https://mlcommons.org/2026/03/airr-multilingual-apac/)\n\nBlog March 13, 2026\n\n[ ![AILuminate Global Assurance Program](https://mlcommons.org/wp-\ncontent/uploads/2026/02/AI_Luminate-Jailbreak-Blog-2.svg)\n](https://mlcommons.org/2026/02/ailuminate-global-assurance/)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "[ A New Standard for AI Risk: How the AILuminate Global Assurance Program",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Is Reshaping Reliability ](https://mlcommons.org/2026/02/ailuminate-global-\nassurance/)\n\nNews February 19, 2026\n\n[ ![Jailbreak .7](https://mlcommons.org/wp-\ncontent/uploads/2026/02/AI_Luminate-Jailbreak-Blog-1.svg)\n](https://mlcommons.org/2026/02/jailbreak-0-7/)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "[ MLCommons Lays the Foundation for Defensible Jailbreak Benchmarking",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "](https://mlcommons.org/2026/02/jailbreak-0-7/)\n\nBlog February 16, 2026\n\n[View All](https://mlcommons.org/category/ailuminate/)\n\n* * *"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "AI Risk & Reliability Working Group Workstreams and Leads",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "**MLCommon’s Vision:** Better AI for Everyone\n\nBuilding trusted, safe, and efficient AI requires better systems for\nmeasurement and accountability. MLCommons’ collective engineering with\nindustry and academia continually measures and improves the accuracy, safety,\nspeed, and efficiency of AI technologies.\n\n**AIRR’s mission:**\n\nSupport community development of AI risk and reliability tests and organize\nresearch- and industry-standard AI safety benchmarks based on those tests.\n\n  * **Agentic** , workstream leads: Sean McGregor, Deepak Nathani, Lama Saouma\n  * **Multimodal** , workstream leads: Ken Fricklas and Lora Aroyo\n  * **Security** , workstream lead: James Goel\n  * **Scaling and Analytics** , workstream lead: James Ezick\n\n* * *"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "AI Risk & Reliability Working Group Chairs",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "To contact all AI Risk & Reliability working group chairs, email [ai-risk-and-\nreliability-chairs@mlcommons.org](mailto:ai-risk-and-reliability-\nchairs@mlcommons.org)."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Peter Mattson",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "[peter@mlcommons.org](mailto:peter@mlcommons.org)\n\n  * [ ](https://www.linkedin.com/in/peter-mattson-33b8863/)\n\nPeter Mattson is a senior staff engineer at Google. He founded and is\nPresident of MLCommons, and founded and was General Chair of the MLPerf\nconsortium that preceded it. Previously, he founded the Programming Systems\nand Applications Group at Nvidia Research, was VP of software infrastructure\nfor Stream Processors Inc (SPI), and was a managing engineer at Reservoir\nLabs. His research focuses on understanding machine learning models and data\nthrough quantitative metrics and analysis. Peter holds a PhD and MS from\nStanford University and a BS from the University of Washington."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Joaquin Vanschoren",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "[joaquin@mlcommons.org](mailto:joaquin@mlcommons.org)\n\n  * [ ](https://www.linkedin.com/in/jvanschoren/)\n  * [ ](https://twitter.com/joavanschoren)\n  * [ ](https://joaquinvanschoren.github.io/)\n\nJoaquin Vanschoren is an Associate Professor of Machine Learning at the\nEindhoven University of Technology. His research focuses on understanding and\ndemocratizing AI to build learning systems that help humanity. He performs\nleading work on making AI more open and accessible, turning insights into more\nautomated and efficient AI methods, and thoroughly benchmarking their real-\nworld performance and safety. He founded and leads OpenML.org, initiated and\nchaired the NeurIPS Datasets and Benchmarks track, is editor-in-chief of DMLR,\nand action editor for JMLR. He won the Dutch Data Prize, an Amazon Research\nAward, and several paper awards. He gave over 30 invited talks, was tutorial\nspeaker at NeurIPS and AAAI, and authored over 200 papers and reference books\non AutoML and meta-learning . He contributed to discussions at the Royal\nSociety and OECD and is a founding member of the European AI networks ELLIS\nand CLAIRE.\n\n* * *"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "AI Risk & Reliability Work Stream Leads",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "* * *"
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "Agentic",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Sean McGregor, PhD",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Sean McGregor is cofounder and lead research engineer with the AI Verification\nand Evaluation Research Institute, founder and executive director for the AI\nIncident Database, and a fellow of the Berkman Klein Center at Harvard\nUniversity. With an applications-centered research program spanning\nreinforcement learning for wildfire suppression and deep learning for\nheliophysics, Sean has covered a wide range of safety critical domains. Sean’s\nopen source development work has earned media attention in the Atlantic, Der\nSpiegel, Wired, Venture Beat, Vice, and Time Magazine while his technical\npublications have appeared in a variety of machine learning, HCI, ethics, and\napplication-centered proceedings."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Deepak Nathani",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Deepak Nathani is a PhD Candidate at the University of California, Santa\nBarbara, where he is part of the UCSB NLP group. His research centers on\nbuilding and evaluating autonomous AI agents, with a focus on tool use, self-\nfeedback systems, and accelerating AI-enabled scientific discovery. During his\nPhD, Deepak interned at GenAI at Meta, where he led the development of the\nfirst Gym environment for evaluating and training agents on open-ended machine\nlearning research tasks. Deepak’s work has garnered attention from the\nresearch community and has led to invited talks at the SEA workshop at\nNeurips, the AutoML podcast, and Google Research. Before his PhD, Deepak was a\npre-doctoral researcher at Google Research India, working on controllable text\ngeneration and conversational AI. He holds a dual B.Tech from IIT Hyderabad in\nMechanical Engineering and Computer Science."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Lama Saoma",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "* * *"
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "Analytics and Scaling",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "James Ezick",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "James Ezick is a Director at Qualcomm, where he leads the Trustworthy AI team\nwithin AI Research, advancing safety, reliability, and evaluation frameworks\nfor on‑device and hybrid AI systems. He brings over two decades of experience\nacross AI/ML, formal methods, cybersecurity, and advanced analytics, with a\ncareer focused on driving R&D programs at the limits of computing. Before\nbeing acquired by Qualcomm in 2021, he was VP of Engineering at Reservoir\nLabs, where he oversaw the delivery of high-impact computing solutions for\nindustry and the US Government. James holds a PhD and MS from Cornell\nUniversity and a BS from SUNY Buffalo."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Chang Liu",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Chang is currently a Senior Product Manager for Evaluation Tooling at\nMicrosoft CoreAI, where he leads the development of scalable AI evaluation and\nResponsible AI features. His work centers on establishing rigorous,\ninteroperable measurement frameworks that support trustworthy development and\ndeployment of advanced AI systems. He brings experience across applied\nresearch, product execution, and cross-organizational governance, with a focus\non operationalizing evaluation standards that balance technical rigor and\nreal-world applicability. Prior to Microsoft, he worked on interpretable\nmachine learning in the investment management industry. Chang holds a Master’s\ndegree in Finance and a Master’s degree in Machine Learning, and studied\nphilosophy at St. John’s College—an academic foundation that informs his\napproach to measurement, epistemology, and responsible AI governance.\n\n* * *"
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "Multimodal/Multilingual/Multicultural",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Lora Aroyo",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Lora Aroyo is a Senior Research Scientist and Team Lead at Google DeepMind,\nwhere she spearheads the Data Excellence for Evaluating Responsibly team. She\nco-leads the MLCommons Multimodal Safety Benchmarking working group and served\nas a Track Chair for NeurIPS Datasets & Benchmarks in 2024 and 2025.\nPreviously, she was a Full Professor at VU University Amsterdam, Visiting\nResearcher at Columbia University and a Visiting Researcher at IBM, where she\npioneered the CrowdTruth methodology. Her research focuses on responsible AI,\nspecifically metrics for data quality and safety evaluation of generative\nsystems. She has led safety evaluations for multiple modalities and\ncapabilities of flagship models like Gemini. Lora delivered the opening\nkeynote at NeurIPS 2023, and is serving on organization committees of major\ncomputer science conferences, like NeurIPS, AAAI, TheWebConference, ISWC."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Hiwot Tesfaye",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Hiwot is a Technical Advisor in Microsoft’s Office of Responsible AI where she\nblends her data science and AI policy backgrounds to support the development\nand adoption of practices across Microsoft that foster trust in AI solutions.\nShe recently led the publication of Microsoft’s 2025 Responsible AI\nTransparency Report and continues to advance Microsoft’s approach to building\nglobally relevant RAI practices. Hiwot leads the Global Perspectives on AI\nfellowship program that pulls in perspectives from the Global South and serves\nas the co-chair of the Aether Fairness and Inclusiveness working group. Hiwot\ncomes to Microsoft from SAS Institute where she co-founded the Data Ethics\nPractice and served as the lead data scientist. During her time at SAS, Hiwot\ndeveloped and operationalized a customer churn predictive model for internal\nuse and later worked as Sr. Data Scientist in the Health and Life Sciences\nteam where she advised health care customers on how to best leverage SAS’s\nmachine learning platform for their data-driven initiatives."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Ken Fricklas",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Ken Fricklas is CTO of Nodiac.ai, a company building small distributed AI\ndatacenters at renewable energy facilities to bring AI workloads to where\nenergy exists without overloading the grid, as well as CEO of Turaco Strategy,\nan AI Risk management consultancy. He is a serial founder of over a dozen\ncompanies and organizations, a former innovation lead at CableLabs, developed\nand taught the AI Ethics and Governance curriculum at the University of Denver\nand was head of program management for measurement tools at Google Search. He\nhas spoken at over 100 conferences and authored or co-authored 10 books on\nprogramming and machine learning. He is based in Boulder, Colorado.\n\n* * *"
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "Security",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "James Goel",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "James Goel is a Senior Director of AI Technical Standards at Qualcomm. He is\non the board of MLCommons Association, Video Electronics Standards Association\n(VESA) and the OpenGMSL Association. Previously, he was the VP of Engineering\nat Silicon Optix before it was acquired by Qualcomm in 2011. He holds a\nBachelor’s of Applied Science (B.A.Sc) in Electrical Engineering from the\nUniversity of Waterloo in Canada and is a licensed Professional Engineer (P.\nEng.) in Ontario where he’s practiced for the last 34 years."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Carsten Maple",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Carsten is Professor of Cyber Systems Engineering, WMG, and Director of the\nNCSC-EPSRC Academic Centre of Excellence in Cyber Security Research at the\nUniversity of Warwick. He is also a Fellow and Professor of the Alan Turing\nInstitute, where he is principal investigator on a $9 million project\ndeveloping trustworthy digital infrastructure. Carsten is also the Director\nfor Research and Innovation at EDGE-AI, the UK National Edge Artificial\nIntelligence Hub and leads security and privacy work on two further large\nprojects funded by EPSRC: the Framework for Responsible AI in Finance project;\nand Assurance and Insurance of AI. Carsten is a member of two Royal Society\nworking groups, including Privacy Enhancing Technologies, and was a\nparticipant at the Royal Society workshop to input into the Bletchley Park\nSummit. He is recognised as one of the global top 1% of scientists in AI and\nhis work has been used by academics and industry. He has shaped government\npolicy around the world including through his work representing the World\nBank.\n\n* * *"
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "Questions?",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Reach out to us at [ailuminate-support@mlcommons.org](mailto:ailuminate-\nsupport@mlcommons.org)\n\n[ ![ML Commons](https://mlcommons.org/wp-\ncontent/themes/mlcommons/build/img/ML-Commons-Logo-white.svg)\n](https://mlcommons.org) Better AI for Everyone\n\n**Stay Updated**\n\nGet the latest MLCommons updates delivered fresh to your inbox\n\n\"*\" indicates required fields\n\nEmail*\n\nBy submitting this form you agree to our [Privacy\nPolicy](https://drive.google.com/file/d/1TatG4zaK9kiXDrwEo9049VvB7Qurz6MU/view)\n\n© 2026 MLCommons. MLCommons, MLPerf and MLCube are registered trademarks of\nMLCommons Association.\n\n  * [Privacy Policy](https://drive.google.com/file/d/1TatG4zaK9kiXDrwEo9049VvB7Qurz6MU/view)\n  * [Policies](https://mlcommons.org/policies/)\n\n  * [ Follow us on GitHub ](https://github.com/mlcommons)\n  * [ Follow us on Discord ](https://discord.com/invite/rRbEjveNy5)\n  * [ Follow us on X ](https://twitter.com/MLCommons)\n  * [ Follow us on LinkedIn ](https://www.linkedin.com/company/mlcommons/)\n  * [ Follow us on YouTube ](https://www.youtube.com/@mlcommons)\n\nMLCommons uses cookies to enable and improve our website. Please see our\n[Privacy\nPolicy](https://drive.google.com/file/d/1TatG4zaK9kiXDrwEo9049VvB7Qurz6MU/view)\nfor more information.\n\nAccept\n\nClose GDPR Cookie Settings\n\n![](https://mlcommons.org/wp-content/uploads/2024/10/ML-Commons-Logo.svg)\n\n  * Privacy Overview\n  * Strictly Necessary Cookies\n\n[Powered by GDPR Cookie Compliance](https://wordpress.org/plugins/gdpr-cookie-\ncompliance/)\n\nPrivacy Overview\n\nThis website uses cookies so that we can provide you with the best user\nexperience possible. Cookie information is stored in your browser and performs\nfunctions such as recognising you when you return to our website and helping\nour team to understand which sections of the website you find most interesting\nand useful.\n\nStrictly Necessary Cookies\n\nStrictly Necessary Cookie should be enabled at all times so that we can save\nyour preferences for cookie settings.\n\nEnable or Disable Cookies Enabled Disabled\n\nEnable All Save Settings\n\nNotifications"
+  }
+]
