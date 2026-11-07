@@ -27,7 +27,7 @@
     "Col_25": "",
     "Col_26": "",
     "Col_27": "",
-    "_sheet": "SSP-Appendix-M-Integrated-Inventory-Workbook-Template-INSTRUCTIONS"
+    "_sheet": "SSP-Appendix-M-Integrated-Inventory-Workbook-Template-INSTRUCTIONS "
   },
   {
     "Col_1": "",
@@ -57,7 +57,7 @@
     "Col_25": "",
     "Col_26": "",
     "Col_27": "",
-    "_sheet": "SSP-Appendix-M-Integrated-Inventory-Workbook-Template-INSTRUCTIONS"
+    "_sheet": "SSP-Appendix-M-Integrated-Inventory-Workbook-Template-INSTRUCTIONS "
   },
   {
     "Col_1": "",
@@ -87,11 +87,11 @@
     "Col_25": "",
     "Col_26": "",
     "Col_27": "",
-    "_sheet": "SSP-Appendix-M-Integrated-Inventory-Workbook-Template-INSTRUCTIONS"
+    "_sheet": "SSP-Appendix-M-Integrated-Inventory-Workbook-Template-INSTRUCTIONS "
   },
   {
     "Col_1": "",
-    "Col_2": "- System Security Plan\n  - Security Assessment Plan\n  - Security Assessment Report",
+    "Col_2": "- System Security Plan \n  - Security Assessment Plan\n  - Security Assessment Report",
     "Col_3": "- Information System Contingency Plan\n  - Monthly Continuous Monitoring",
     "Col_4": "",
     "Col_5": "",
@@ -117,7 +117,7 @@
     "Col_25": "",
     "Col_26": "",
     "Col_27": "",
-    "_sheet": "SSP-Appendix-M-Integrated-Inventory-Workbook-Template-INSTRUCTIONS"
+    "_sheet": "SSP-Appendix-M-Integrated-Inventory-Workbook-Template-INSTRUCTIONS "
   },
   {
     "Col_1": "",
@@ -147,7 +147,7 @@
     "Col_25": "",
     "Col_26": "",
     "Col_27": "",
-    "_sheet": "SSP-Appendix-M-Integrated-Inventory-Workbook-Template-INSTRUCTIONS"
+    "_sheet": "SSP-Appendix-M-Integrated-Inventory-Workbook-Template-INSTRUCTIONS "
   },
   {
     "Col_1": "",
@@ -177,7 +177,7 @@
     "Col_25": "",
     "Col_26": "",
     "Col_27": "",
-    "_sheet": "SSP-Appendix-M-Integrated-Inventory-Workbook-Template-INSTRUCTIONS"
+    "_sheet": "SSP-Appendix-M-Integrated-Inventory-Workbook-Template-INSTRUCTIONS "
   },
   {
     "Col_1": "",
@@ -207,13 +207,13 @@
     "Col_25": "",
     "Col_26": "",
     "Col_27": "",
-    "_sheet": "SSP-Appendix-M-Integrated-Inventory-Workbook-Template-INSTRUCTIONS"
+    "_sheet": "SSP-Appendix-M-Integrated-Inventory-Workbook-Template-INSTRUCTIONS "
   },
   {
     "Col_1": "",
-    "Col_2": "1. The cloud service provider (CSP) must use this inventory template to capture inventory items for all components of the cloud service offering (CSO) as part of preparing for a Readiness Assessment or initial authorization of a CSO for a FedRAMP authorization.\n2. This inventory format must be used for assessment testing efforts by an independent assessor (IA).\n3. Once a CSO is in the Continuous Monitoring phase of its lifecycle, the CSP will continue to use this template to capture and submit inventory for monthly Continuous Monitoring efforts. Be sure to \"save-as\" the inventory to keep month-to-month submissions of the inventory. The CSP may either include the inventory as a tab within the monthly POA&M worksheet or may just keep the inventory as a separate worksheet.\n4. Optional fields should be left blank indicating no data instead of inserting \"n/a,\"\" N/A,\" \"na\" or other variants.\n\nThe templates referenced in these instructions are available on the FedRAMP Documents and Templates web page.",
-    "Col_3": "1. The cloud service provider (CSP) must use this inventory template to capture inventory items for all components of the cloud service offering (CSO) as part of preparing for a Readiness Assessment or initial authorization of a CSO for a FedRAMP authorization.\n2. This inventory format must be used for assessment testing efforts by an independent assessor (IA).\n3. Once a CSO is in the Continuous Monitoring phase of its lifecycle, the CSP will continue to use this template to capture and submit inventory for monthly Continuous Monitoring efforts. Be sure to \"save-as\" the inventory to keep month-to-month submissions of the inventory. The CSP may either include the inventory as a tab within the monthly POA&M worksheet or may just keep the inventory as a separate worksheet.\n4. Optional fields should be left blank indicating no data instead of inserting \"n/a,\"\" N/A,\" \"na\" or other variants.\n\nThe templates referenced in these instructions are available on the FedRAMP Documents and Templates web page.",
-    "Col_4": "1. The cloud service provider (CSP) must use this inventory template to capture inventory items for all components of the cloud service offering (CSO) as part of preparing for a Readiness Assessment or initial authorization of a CSO for a FedRAMP authorization.\n2. This inventory format must be used for assessment testing efforts by an independent assessor (IA).\n3. Once a CSO is in the Continuous Monitoring phase of its lifecycle, the CSP will continue to use this template to capture and submit inventory for monthly Continuous Monitoring efforts. Be sure to \"save-as\" the inventory to keep month-to-month submissions of the inventory. The CSP may either include the inventory as a tab within the monthly POA&M worksheet or may just keep the inventory as a separate worksheet.\n4. Optional fields should be left blank indicating no data instead of inserting \"n/a,\"\" N/A,\" \"na\" or other variants.\n\nThe templates referenced in these instructions are available on the FedRAMP Documents and Templates web page.",
+    "Col_2": "1. The cloud service provider (CSP) must use this inventory template to capture inventory items for all components of the cloud service offering (CSO) as part of preparing for a Readiness Assessment or initial authorization of a CSO for a FedRAMP authorization.\n2. This inventory format must be used for assessment testing efforts by an independent assessor (IA). \n3. Once a CSO is in the Continuous Monitoring phase of its lifecycle, the CSP will continue to use this template to capture and submit inventory for monthly Continuous Monitoring efforts. Be sure to \"save-as\" the inventory to keep month-to-month submissions of the inventory. The CSP may either include the inventory as a tab within the monthly POA&M worksheet or may just keep the inventory as a separate worksheet.\n4. Optional fields should be left blank indicating no data instead of inserting \"n/a,\"\" N/A,\" \"na\" or other variants.\n\nThe templates referenced in these instructions are available on the FedRAMP Documents and Templates web page.",
+    "Col_3": "1. The cloud service provider (CSP) must use this inventory template to capture inventory items for all components of the cloud service offering (CSO) as part of preparing for a Readiness Assessment or initial authorization of a CSO for a FedRAMP authorization.\n2. This inventory format must be used for assessment testing efforts by an independent assessor (IA). \n3. Once a CSO is in the Continuous Monitoring phase of its lifecycle, the CSP will continue to use this template to capture and submit inventory for monthly Continuous Monitoring efforts. Be sure to \"save-as\" the inventory to keep month-to-month submissions of the inventory. The CSP may either include the inventory as a tab within the monthly POA&M worksheet or may just keep the inventory as a separate worksheet.\n4. Optional fields should be left blank indicating no data instead of inserting \"n/a,\"\" N/A,\" \"na\" or other variants.\n\nThe templates referenced in these instructions are available on the FedRAMP Documents and Templates web page.",
+    "Col_4": "1. The cloud service provider (CSP) must use this inventory template to capture inventory items for all components of the cloud service offering (CSO) as part of preparing for a Readiness Assessment or initial authorization of a CSO for a FedRAMP authorization.\n2. This inventory format must be used for assessment testing efforts by an independent assessor (IA). \n3. Once a CSO is in the Continuous Monitoring phase of its lifecycle, the CSP will continue to use this template to capture and submit inventory for monthly Continuous Monitoring efforts. Be sure to \"save-as\" the inventory to keep month-to-month submissions of the inventory. The CSP may either include the inventory as a tab within the monthly POA&M worksheet or may just keep the inventory as a separate worksheet.\n4. Optional fields should be left blank indicating no data instead of inserting \"n/a,\"\" N/A,\" \"na\" or other variants.\n\nThe templates referenced in these instructions are available on the FedRAMP Documents and Templates web page.",
     "Col_5": "",
     "Col_6": "",
     "Col_7": "",
@@ -237,13 +237,13 @@
     "Col_25": "",
     "Col_26": "",
     "Col_27": "",
-    "_sheet": "SSP-Appendix-M-Integrated-Inventory-Workbook-Template-INSTRUCTIONS"
+    "_sheet": "SSP-Appendix-M-Integrated-Inventory-Workbook-Template-INSTRUCTIONS "
   },
   {
     "Col_1": "",
-    "Col_2": "FedRAMP requires that at each security assessment and for each monthly continuous monitoring submission, the CSO inventory aligns with the scan targets. FedRAMP requires tracking in the Integrated Inventory Workbook (IIW) by container asset class, meaning the container image in the container registry, not the runtime containers. If an assessment or continuous monitoring submission is submitted and the FedRAMP review of the raw scan results does not validate the IIW, the package will be rejected and analysis of the deficiencies will be provided.\n\nHere is what FedRAMP requires for the Inventory:\n1. For any scanned inventory item that is not a container, we expect that Column A, the Unique Asset Identifier (most likely hostname, IP, or URL for web) can be verified or found within the scans provided by the CSP. Column B is the IP address. This means that for some inventory items Column A and Column B may both be the IP address(es) for the specific component.\n2. For containers, there needs to be an identifiable string in the scans that maps back to the image name/version number in use as identified in the container registry. That is normally the repository/image/version# or can be represented as a checksum. This is what should be then put into the Inventory (IIW), POA&M, and on any Deviations submitted.\na. In Column A, the cell must contain the Repository/Image Name/Version# as the Unique Asset Identifier.\nb. In Column B, the cell must contain the individual hash of the container in the registry for each of the containers in production that align to that Image Name/Version.",
-    "Col_3": "FedRAMP requires that at each security assessment and for each monthly continuous monitoring submission, the CSO inventory aligns with the scan targets. FedRAMP requires tracking in the Integrated Inventory Workbook (IIW) by container asset class, meaning the container image in the container registry, not the runtime containers. If an assessment or continuous monitoring submission is submitted and the FedRAMP review of the raw scan results does not validate the IIW, the package will be rejected and analysis of the deficiencies will be provided.\n\nHere is what FedRAMP requires for the Inventory:\n1. For any scanned inventory item that is not a container, we expect that Column A, the Unique Asset Identifier (most likely hostname, IP, or URL for web) can be verified or found within the scans provided by the CSP. Column B is the IP address. This means that for some inventory items Column A and Column B may both be the IP address(es) for the specific component.\n2. For containers, there needs to be an identifiable string in the scans that maps back to the image name/version number in use as identified in the container registry. That is normally the repository/image/version# or can be represented as a checksum. This is what should be then put into the Inventory (IIW), POA&M, and on any Deviations submitted.\na. In Column A, the cell must contain the Repository/Image Name/Version# as the Unique Asset Identifier.\nb. In Column B, the cell must contain the individual hash of the container in the registry for each of the containers in production that align to that Image Name/Version.",
-    "Col_4": "FedRAMP requires that at each security assessment and for each monthly continuous monitoring submission, the CSO inventory aligns with the scan targets. FedRAMP requires tracking in the Integrated Inventory Workbook (IIW) by container asset class, meaning the container image in the container registry, not the runtime containers. If an assessment or continuous monitoring submission is submitted and the FedRAMP review of the raw scan results does not validate the IIW, the package will be rejected and analysis of the deficiencies will be provided.\n\nHere is what FedRAMP requires for the Inventory:\n1. For any scanned inventory item that is not a container, we expect that Column A, the Unique Asset Identifier (most likely hostname, IP, or URL for web) can be verified or found within the scans provided by the CSP. Column B is the IP address. This means that for some inventory items Column A and Column B may both be the IP address(es) for the specific component.\n2. For containers, there needs to be an identifiable string in the scans that maps back to the image name/version number in use as identified in the container registry. That is normally the repository/image/version# or can be represented as a checksum. This is what should be then put into the Inventory (IIW), POA&M, and on any Deviations submitted.\na. In Column A, the cell must contain the Repository/Image Name/Version# as the Unique Asset Identifier.\nb. In Column B, the cell must contain the individual hash of the container in the registry for each of the containers in production that align to that Image Name/Version.",
+    "Col_2": "FedRAMP requires that at each security assessment and for each monthly continuous monitoring submission, the CSO inventory aligns with the scan targets. FedRAMP requires tracking in the Integrated Inventory Workbook (IIW) by container asset class, meaning the container image in the container registry, not the runtime containers. If an assessment or continuous monitoring submission is submitted and the FedRAMP review of the raw scan results does not validate the IIW, the package will be rejected and analysis of the deficiencies will be provided.\n\nHere is what FedRAMP requires for the Inventory:\n1. For any scanned inventory item that is not a container, we expect that Column A, the Unique Asset Identifier (most likely hostname, IP, or URL for web) can be verified or found within the scans provided by the CSP. Column B is the IP address. This means that for some inventory items Column A and Column B may both be the IP address(es) for the specific component.\n2. For containers, there needs to be an identifiable string in the scans that maps back to the image name/version number in use as identified in the container registry. That is normally the repository/image/version# or can be represented as a checksum. This is what should be then put into the Inventory (IIW), POA&M, and on any Deviations submitted.\na. In Column A, the cell must contain the Repository/Image Name/Version# as the Unique Asset Identifier. \nb. In Column B, the cell must contain the individual hash of the container in the registry for each of the containers in production that align to that Image Name/Version.",
+    "Col_3": "FedRAMP requires that at each security assessment and for each monthly continuous monitoring submission, the CSO inventory aligns with the scan targets. FedRAMP requires tracking in the Integrated Inventory Workbook (IIW) by container asset class, meaning the container image in the container registry, not the runtime containers. If an assessment or continuous monitoring submission is submitted and the FedRAMP review of the raw scan results does not validate the IIW, the package will be rejected and analysis of the deficiencies will be provided.\n\nHere is what FedRAMP requires for the Inventory:\n1. For any scanned inventory item that is not a container, we expect that Column A, the Unique Asset Identifier (most likely hostname, IP, or URL for web) can be verified or found within the scans provided by the CSP. Column B is the IP address. This means that for some inventory items Column A and Column B may both be the IP address(es) for the specific component.\n2. For containers, there needs to be an identifiable string in the scans that maps back to the image name/version number in use as identified in the container registry. That is normally the repository/image/version# or can be represented as a checksum. This is what should be then put into the Inventory (IIW), POA&M, and on any Deviations submitted.\na. In Column A, the cell must contain the Repository/Image Name/Version# as the Unique Asset Identifier. \nb. In Column B, the cell must contain the individual hash of the container in the registry for each of the containers in production that align to that Image Name/Version.",
+    "Col_4": "FedRAMP requires that at each security assessment and for each monthly continuous monitoring submission, the CSO inventory aligns with the scan targets. FedRAMP requires tracking in the Integrated Inventory Workbook (IIW) by container asset class, meaning the container image in the container registry, not the runtime containers. If an assessment or continuous monitoring submission is submitted and the FedRAMP review of the raw scan results does not validate the IIW, the package will be rejected and analysis of the deficiencies will be provided.\n\nHere is what FedRAMP requires for the Inventory:\n1. For any scanned inventory item that is not a container, we expect that Column A, the Unique Asset Identifier (most likely hostname, IP, or URL for web) can be verified or found within the scans provided by the CSP. Column B is the IP address. This means that for some inventory items Column A and Column B may both be the IP address(es) for the specific component.\n2. For containers, there needs to be an identifiable string in the scans that maps back to the image name/version number in use as identified in the container registry. That is normally the repository/image/version# or can be represented as a checksum. This is what should be then put into the Inventory (IIW), POA&M, and on any Deviations submitted.\na. In Column A, the cell must contain the Repository/Image Name/Version# as the Unique Asset Identifier. \nb. In Column B, the cell must contain the individual hash of the container in the registry for each of the containers in production that align to that Image Name/Version.",
     "Col_5": "",
     "Col_6": "",
     "Col_7": "",
@@ -267,7 +267,7 @@
     "Col_25": "",
     "Col_26": "",
     "Col_27": "",
-    "_sheet": "SSP-Appendix-M-Integrated-Inventory-Workbook-Template-INSTRUCTIONS"
+    "_sheet": "SSP-Appendix-M-Integrated-Inventory-Workbook-Template-INSTRUCTIONS "
   },
   {
     "Col_1": "",
@@ -297,7 +297,7 @@
     "Col_25": "",
     "Col_26": "",
     "Col_27": "",
-    "_sheet": "SSP-Appendix-M-Integrated-Inventory-Workbook-Template-INSTRUCTIONS"
+    "_sheet": "SSP-Appendix-M-Integrated-Inventory-Workbook-Template-INSTRUCTIONS "
   },
   {
     "Col_1": "",
@@ -327,7 +327,7 @@
     "Col_25": "",
     "Col_26": "",
     "Col_27": "",
-    "_sheet": "SSP-Appendix-M-Integrated-Inventory-Workbook-Template-INSTRUCTIONS"
+    "_sheet": "SSP-Appendix-M-Integrated-Inventory-Workbook-Template-INSTRUCTIONS "
   },
   {
     "DELETE COLUMN A AND ROWS 3-12  BEFORE SUBMISSION": "DELETE COLUMN A AND ROWS 3-12  BEFORE SUBMISSION",

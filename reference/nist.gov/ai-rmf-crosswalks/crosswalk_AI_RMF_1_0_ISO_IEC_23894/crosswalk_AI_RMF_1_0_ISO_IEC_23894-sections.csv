@@ -1,76 +1,85 @@
 "depth","section_id","section_name","id_kind","parent_id","body"
-"2","","GOVERN: Culture
-of risk management
-is cultivated and
-present.","","","AI RMF 1.0 Function: GOVERN: Culture
+"2","","GOVERN: Culture of risk management is cultivated and present.","","","AI RMF 1.0 Function: GOVERN: Culture
 of risk management
 is cultivated and
 present.
 
-ISO/IEC FDIS 23894: 5.2 Leadership and commitment"
-"2","","5.3 Integration (references ISO 31000:2018)","","","ISO/IEC FDIS 23894: 5.3 Integration (references ISO 31000:2018)"
-"2","","5.4 Design","","","ISO/IEC FDIS 23894: 5.4 Design"
-"2","","5.4.1 Understanding the organization and its context","","","ISO/IEC FDIS 23894: 5.4.1 Understanding the organization and its context"
-"2","","5.4.2 Articulating risk management commitment (references
-ISO 31000:2018)","","","ISO/IEC FDIS 23894: 5.4.2 Articulating risk management commitment (references
-ISO 31000:2018)"
-"2","","5.4.3 Assigning organizational roles, authorities, responsibil
-ities, and accountabilities (references ISO 31000:2018)","","","ISO/IEC FDIS 23894: 5.4.3 Assigning organizational roles, authorities, responsibil
-ities, and accountabilities (references ISO 31000:2018)"
-"2","","5.4.4 Allocating resources (ref. ISO 31000:2018)","","","ISO/IEC FDIS 23894: 5.4.4 Allocating resources (ref. ISO 31000:2018)"
-"2","","5.4.5 Establishing communication and consultation (refer
-ences ISO 31000:2018)","","","ISO/IEC FDIS 23894: 5.4.5 Establishing communication and consultation (refer
+ISO/IEC FDIS 23894: 5.2 Leadership and commitment
+
+ISO/IEC FDIS 23894: 5.3 Integration (references ISO 31000:2018)
+
+ISO/IEC FDIS 23894: 5.4 Design
+
+ISO/IEC FDIS 23894: 5.4.1 Understanding the organization and its context
+
+ISO/IEC FDIS 23894: 5.4.2 Articulating risk management commitment (references
+ISO 31000:2018)
+
+ISO/IEC FDIS 23894: 5.4.3 Assigning organizational roles, authorities, responsibil
+ities, and accountabilities (references ISO 31000:2018)
+
+ISO/IEC FDIS 23894: 5.4.4 Allocating resources (ref. ISO 31000:2018)
+
+ISO/IEC FDIS 23894: 5.4.5 Establishing communication and consultation (refer
 ences ISO 31000:2018)"
-"2","","MAP: Context is
-recognized and risks
-related to context
-are identified.","","","AI RMF 1.0 Function: MAP: Context is
+"2","","MAP: Context is recognized and risks related to context are identified.","","","AI RMF 1.0 Function: MAP: Context is
 recognized and risks
 related to context
 are identified.
 
-ISO/IEC FDIS 23894: 5.4.1 Understanding the organization and its context"
-"2","","6.3.2 Defining the scope","","","ISO/IEC FDIS 23894: 6.3.2 Defining the scope"
-"2","","6.3.3 External and internal context","","","ISO/IEC FDIS 23894: 6.3.3 External and internal context"
-"2","","6.3.4 Defining risk criteria","","","ISO/IEC FDIS 23894: 6.3.4 Defining risk criteria"
-"2","","6.4.2 Risk identification","","","ISO/IEC FDIS 23894: 6.4.2 Risk identification"
-"2","","6.4.2.3 Identification of risk sources","","","ISO/IEC FDIS 23894: 6.4.2.3 Identification of risk sources"
-"2","","6.4.2.4 Identification of potential events and outcomes","","","ISO/IEC FDIS 23894: 6.4.2.4 Identification of potential events and outcomes"
-"2","","6.4.2.6 Identification of consequences","","","ISO/IEC FDIS 23894: 6.4.2.6 Identification of consequences"
-"2","","6.4.3 Risk Analysis","","","ISO/IEC FDIS 23894: 6.4.3 Risk Analysis"
-"2","","6.7 Recording and reporting","","","ISO/IEC FDIS 23894: 6.7 Recording and reporting"
-"2","","MEASURE:","","","AI RMF 1.0 Function: MEASURE:
+ISO/IEC FDIS 23894: 5.4.1 Understanding the organization and its context
 
-ISO/IEC FDIS 23894: 5.7 Improvement (references ISO 31000:2018)"
-"2","","Identified risks are
+ISO/IEC FDIS 23894: 6.3.2 Defining the scope
+
+ISO/IEC FDIS 23894: 6.3.3 External and internal context
+
+ISO/IEC FDIS 23894: 6.3.4 Defining risk criteria
+
+ISO/IEC FDIS 23894: 6.4.2 Risk identification
+
+ISO/IEC FDIS 23894: 6.4.2.3 Identification of risk sources
+
+ISO/IEC FDIS 23894: 6.4.2.4 Identification of potential events and outcomes
+
+ISO/IEC FDIS 23894: 6.4.2.6 Identification of consequences
+
+ISO/IEC FDIS 23894: 6.4.3 Risk Analysis
+
+ISO/IEC FDIS 23894: 6.7 Recording and reporting"
+"2","MEASURE","5.7 Improvement (references ISO 31000:2018)","numbered","","AI RMF 1.0 Function: MEASURE:
+
+ISO/IEC FDIS 23894: 5.7 Improvement (references ISO 31000:2018)
+
+AI RMF 1.0 Function: Identified risks are
 assessed, analyzed,
-or tracked.","","","AI RMF 1.0 Function: Identified risks are
-assessed, analyzed,
-or tracked.
+or tracked. | ISO/IEC FDIS 23894: 6.3.4 Defining risk criteria
 
-ISO/IEC FDIS 23894: 6.3.4 Defining risk criteria"
-"2","","6.4.2.5 Identification of controls","","","ISO/IEC FDIS 23894: 6.4.2.5 Identification of controls"
-"2","","6.4.3 Risk Analysis","","","ISO/IEC FDIS 23894: 6.4.3 Risk Analysis"
-"2","","6.4.3.2 Assessment of consequences","","","ISO/IEC FDIS 23894: 6.4.3.2 Assessment of consequences"
-"2","","6.4.3.3 Assessment of likelihood","","","ISO/IEC FDIS 23894: 6.4.3.3 Assessment of likelihood"
-"2","","6.6 Monitoring and review (references ISO 31000:2018)","","","ISO/IEC FDIS 23894: 6.6 Monitoring and review (references ISO 31000:2018)"
-"2","","Continued on next page","","","ISO/IEC FDIS 23894: Continued on next page"
-"2","","AI RMF 1.0 Function","","","AI RMF 1.0 Function: AI RMF 1.0 Function
+ISO/IEC FDIS 23894: 6.4.2.5 Identification of controls
 
-ISO/IEC FDIS 23894: ISO/IEC FDIS 23894
-6.7 Recording and reporting"
-"2","","MANAGE: Risks are
-prioritized and acted","","","AI RMF 1.0 Function: MANAGE: Risks are
+ISO/IEC FDIS 23894: 6.4.3 Risk Analysis
+
+ISO/IEC FDIS 23894: 6.4.3.2 Assessment of consequences
+
+ISO/IEC FDIS 23894: 6.4.3.3 Assessment of likelihood
+
+ISO/IEC FDIS 23894: 6.6 Monitoring and review (references ISO 31000:2018)
+
+ISO/IEC FDIS 23894: Continued on next page"
+"2","","MANAGE: Risks are prioritized and acted","","","AI RMF 1.0 Function: MANAGE: Risks are
 prioritized and acted
 
-ISO/IEC FDIS 23894: 5.5 Implementation (references ISO 31000:2018)"
-"2","","upon based on
-projected impact.","","","AI RMF 1.0 Function: upon based on
+ISO/IEC FDIS 23894 6.7 Recording and reporting: 5.5 Implementation (references ISO 31000:2018)"
+"2","","upon based on projected impact.","","","AI RMF 1.0 Function: upon based on
 projected impact.
 
-ISO/IEC FDIS 23894: 5.7 Improvement (references ISO 31000:2018)"
-"2","","6.5 Risk Treatment","","","ISO/IEC FDIS 23894: 6.5 Risk Treatment"
-"2","","6.5.2 Selection of risk treatment options","","","ISO/IEC FDIS 23894: 6.5.2 Selection of risk treatment options"
-"2","","6.5.3 Preparing and implementing risk treatment plans","","","ISO/IEC FDIS 23894: 6.5.3 Preparing and implementing risk treatment plans"
-"2","","6.6 Monitoring and review (references ISO 31000:2018)","","","ISO/IEC FDIS 23894: 6.6 Monitoring and review (references ISO 31000:2018)"
-"2","","6.7 Recording and reporting","","","ISO/IEC FDIS 23894: 6.7 Recording and reporting"
+ISO/IEC FDIS 23894 6.7 Recording and reporting: 5.7 Improvement (references ISO 31000:2018)
+
+ISO/IEC FDIS 23894 6.7 Recording and reporting: 6.5 Risk Treatment
+
+ISO/IEC FDIS 23894 6.7 Recording and reporting: 6.5.2 Selection of risk treatment options
+
+ISO/IEC FDIS 23894 6.7 Recording and reporting: 6.5.3 Preparing and implementing risk treatment plans
+
+ISO/IEC FDIS 23894 6.7 Recording and reporting: 6.6 Monitoring and review (references ISO 31000:2018)
+
+ISO/IEC FDIS 23894 6.7 Recording and reporting: 6.7 Recording and reporting"

@@ -1647,7 +1647,7 @@
     "_sheet": "SSP-Appendix-J-CSO-CIS-and-CRM-Workbook-Example CRM Worksheet Responses"
   },
   {
-    "Example CRM Worksheet Responses": "The Customer Agency/CSP is responsible for ensuring the tools used for code scanning are provided sufficient access to perform the full spectrum of scanning performed by the tool. All resources, including network, OS, and DB, are outside of the Customer Agency/CSP boundary and are the responsibility of <CSP> and <Leveraged CSP>.\n\n<ServiceName A>: If this service is used, the Customer Agency/CSP is responsible for code scanning on the service.",
+    "Example CRM Worksheet Responses": "The Customer Agency/CSP is responsible for ensuring the tools used for code scanning are provided sufficient access to perform the full spectrum of scanning performed by the tool. All resources, including network, OS, and DB, are outside of the Customer Agency/CSP boundary and are the responsibility of <CSP> and <Leveraged CSP>. \n\n<ServiceName A>: If this service is used, the Customer Agency/CSP is responsible for code scanning on the service.",
     "Col_4": "",
     "Col_5": "",
     "Col_6": "",
@@ -1674,7 +1674,7 @@
     "_sheet": "SSP-Appendix-J-CSO-CIS-and-CRM-Workbook-Example CRM Worksheet Responses"
   },
   {
-    "Example CRM Worksheet Responses": "The Customer Agency/CSP is responsible for ensuring the tools used for code scanning are provided sufficient access to perform the full spectrum of scanning performed by the tool. All resources, including network, OS, and DB, are outside of the Customer Agency/CSP boundary and are the responsibility of <CSP> and <Leveraged CSP>.\n\n<ServiceName A>: If this service is used, the Customer Agency/CSP is responsible for code scanning on the service.",
+    "Example CRM Worksheet Responses": "The Customer Agency/CSP is responsible for ensuring the tools used for code scanning are provided sufficient access to perform the full spectrum of scanning performed by the tool. All resources, including network, OS, and DB, are outside of the Customer Agency/CSP boundary and are the responsibility of <CSP> and <Leveraged CSP>. \n\n<ServiceName A>: If this service is used, the Customer Agency/CSP is responsible for code scanning on the service.",
     "Col_4": "",
     "Col_5": "",
     "Col_6": "",
@@ -1749,7 +1749,7 @@
     "_sheet": "SSP-Appendix-J-CSO-CIS-and-CRM-Workbook-High CIS Worksheet"
   },
   {
-    "FedRAMP High Customer Responsibility Matrix (CRM) Worksheet": "GUIDANCE:\n\n• Refer to CSP responses in the completed CIS Worksheet, “Control Origination” section.\n\n• For Control IDs identified in the CIS Worksheet as Service Provider Corporate, Service Provider System Specific, or Service Provider Hybrid (Corporate and System Specific), enter \"Yes\" in the \"Can Be Inherited from CSP\" column below, and leave the \"Specific Inheritance and Customer Agency/CSP Responsibilities\" column blank.\n\n• For Control IDs identified in the CIS Worksheet as Shared (Service Provider and Customer Responsibility), enter \"Partial\" in the \"Can Be Inherited from CSP\" column (below). In the \"Specific Inheritance and Customer Agency/CSP Responsibilities\" column, describe which elements are inherited from the CSP and describe the customer responsibilities.\n\n• For Control IDs identified in the CIS Worksheet as Configured by Customer (Customer System Specific) or Provided by Customer (Customer System Specific), enter \"No\" in the \"Can Be Inherited from CSP\" column (below). In the \"Specific Inheritance and Customer Agency/CSP Responsibilities\" column, explain why the Control ID cannot be inherited, and describe the customer responsibilities.\n\n• For CSPs that offer a variety of services or features, the CSP must clearly describe any customer responsibilities associated with each service or feature. In the \"Specific Inheritance and Customer Agency/CSP Responsibilities\" column, for each affected control, the CSP must clearly link the responsibilities to the service or feature. CSPs, with multiple services or features, may wish to add a key to the CRM Worksheet. See the examples below:\n\n- Customer responsibilities noted with \"<ServiceName A>:\" are added if <ServiceName A> is an optional service that can be used by the customer.\n- Customer responsibilities noted with \"<ServiceName B>:\" are added if <ServiceName B> is an optional service that can be used by the customer.\n\n• Example CRM responses, for sample Control IDs, are provided in the Example CRM Worksheet Responses sheet of this workbook.",
+    "FedRAMP High Customer Responsibility Matrix (CRM) Worksheet": "GUIDANCE: \n\n• Refer to CSP responses in the completed CIS Worksheet, “Control Origination” section. \n\n• For Control IDs identified in the CIS Worksheet as Service Provider Corporate, Service Provider System Specific, or Service Provider Hybrid (Corporate and System Specific), enter \"Yes\" in the \"Can Be Inherited from CSP\" column below, and leave the \"Specific Inheritance and Customer Agency/CSP Responsibilities\" column blank. \n\n• For Control IDs identified in the CIS Worksheet as Shared (Service Provider and Customer Responsibility), enter \"Partial\" in the \"Can Be Inherited from CSP\" column (below). In the \"Specific Inheritance and Customer Agency/CSP Responsibilities\" column, describe which elements are inherited from the CSP and describe the customer responsibilities. \n\n• For Control IDs identified in the CIS Worksheet as Configured by Customer (Customer System Specific) or Provided by Customer (Customer System Specific), enter \"No\" in the \"Can Be Inherited from CSP\" column (below). In the \"Specific Inheritance and Customer Agency/CSP Responsibilities\" column, explain why the Control ID cannot be inherited, and describe the customer responsibilities. \n\n• For CSPs that offer a variety of services or features, the CSP must clearly describe any customer responsibilities associated with each service or feature. In the \"Specific Inheritance and Customer Agency/CSP Responsibilities\" column, for each affected control, the CSP must clearly link the responsibilities to the service or feature. CSPs, with multiple services or features, may wish to add a key to the CRM Worksheet. See the examples below: \n\n- Customer responsibilities noted with \"<ServiceName A>:\" are added if <ServiceName A> is an optional service that can be used by the customer. \n- Customer responsibilities noted with \"<ServiceName B>:\" are added if <ServiceName B> is an optional service that can be used by the customer. \n\n• Example CRM responses, for sample Control IDs, are provided in the Example CRM Worksheet Responses sheet of this workbook.",
     "Col_4": "",
     "Col_5": "",
     "Col_6": "",
@@ -1805,7 +1805,7 @@
   {
     "Col_1": "",
     "Col_2": "System Name (CSP to complete all cells)",
-    "FedRAMP® System Security Plan (SSP) Appendix J: <CSO> CIS and CRM Workbook\n\n": "System Name (CSP to complete all cells)",
+    "FedRAMP® System Security Plan (SSP) Appendix J: <CSO> CIS and CRM Workbook": "System Name (CSP to complete all cells)",
     "Col_7": "",
     "Col_8": "",
     "Col_9": "",
@@ -1832,7 +1832,7 @@
   {
     "Col_1": "",
     "Col_2": "CSP",
-    "FedRAMP® System Security Plan (SSP) Appendix J: <CSO> CIS and CRM Workbook\n\n": "Impact Level",
+    "FedRAMP® System Security Plan (SSP) Appendix J: <CSO> CIS and CRM Workbook": "Impact Level",
     "Col_7": "",
     "Col_8": "",
     "Col_9": "",
@@ -1859,7 +1859,7 @@
   {
     "Col_1": "",
     "Col_2": "<CSP Name>",
-    "FedRAMP® System Security Plan (SSP) Appendix J: <CSO> CIS and CRM Workbook\n\n": "<Impact Level>",
+    "FedRAMP® System Security Plan (SSP) Appendix J: <CSO> CIS and CRM Workbook": "<Impact Level>",
     "Col_7": "",
     "Col_8": "",
     "Col_9": "",
@@ -1886,7 +1886,7 @@
   {
     "Col_1": "",
     "Col_2": "Document Revision History (CSP to complete all cells)",
-    "FedRAMP® System Security Plan (SSP) Appendix J: <CSO> CIS and CRM Workbook\n\n": "Document Revision History (CSP to complete all cells)",
+    "FedRAMP® System Security Plan (SSP) Appendix J: <CSO> CIS and CRM Workbook": "Document Revision History (CSP to complete all cells)",
     "Col_7": "",
     "Col_8": "",
     "Col_9": "",
@@ -1913,7 +1913,7 @@
   {
     "Col_1": "",
     "Col_2": "Date",
-    "FedRAMP® System Security Plan (SSP) Appendix J: <CSO> CIS and CRM Workbook\n\n": "Author",
+    "FedRAMP® System Security Plan (SSP) Appendix J: <CSO> CIS and CRM Workbook": "Author",
     "Col_7": "",
     "Col_8": "",
     "Col_9": "",
@@ -1940,7 +1940,7 @@
   {
     "Col_1": "",
     "Col_2": "MM/DD/YYYY",
-    "FedRAMP® System Security Plan (SSP) Appendix J: <CSO> CIS and CRM Workbook\n\n": "<CSP Name>",
+    "FedRAMP® System Security Plan (SSP) Appendix J: <CSO> CIS and CRM Workbook": "<CSP Name>",
     "Col_7": "",
     "Col_8": "",
     "Col_9": "",
@@ -1967,7 +1967,7 @@
   {
     "Col_1": "",
     "Col_2": "MM/DD/YYYY",
-    "FedRAMP® System Security Plan (SSP) Appendix J: <CSO> CIS and CRM Workbook\n\n": "<CSP Name>",
+    "FedRAMP® System Security Plan (SSP) Appendix J: <CSO> CIS and CRM Workbook": "<CSP Name>",
     "Col_7": "",
     "Col_8": "",
     "Col_9": "",
@@ -1994,7 +1994,7 @@
   {
     "Col_1": "",
     "Col_2": "How to Contact Us",
-    "FedRAMP® System Security Plan (SSP) Appendix J: <CSO> CIS and CRM Workbook\n\n": "How to Contact Us",
+    "FedRAMP® System Security Plan (SSP) Appendix J: <CSO> CIS and CRM Workbook": "How to Contact Us",
     "Col_7": "",
     "Col_8": "",
     "Col_9": "",
@@ -2021,7 +2021,7 @@
   {
     "Col_1": "",
     "Col_2": "Questions about FedRAMP or this document should be directed to info@fedramp.gov. For more information about FedRAMP, visit the website at https://www.fedramp.gov.",
-    "FedRAMP® System Security Plan (SSP) Appendix J: <CSO> CIS and CRM Workbook\n\n": "Questions about FedRAMP or this document should be directed to info@fedramp.gov. For more information about FedRAMP, visit the website at https://www.fedramp.gov.",
+    "FedRAMP® System Security Plan (SSP) Appendix J: <CSO> CIS and CRM Workbook": "Questions about FedRAMP or this document should be directed to info@fedramp.gov. For more information about FedRAMP, visit the website at https://www.fedramp.gov.",
     "Col_7": "",
     "Col_8": "",
     "Col_9": "",
@@ -2048,7 +2048,7 @@
   {
     "Col_1": "",
     "Col_2": "About This Template and Who Should Use It",
-    "FedRAMP® System Security Plan (SSP) Appendix J: <CSO> CIS and CRM Workbook\n\n": "About This Template and Who Should Use It",
+    "FedRAMP® System Security Plan (SSP) Appendix J: <CSO> CIS and CRM Workbook": "About This Template and Who Should Use It",
     "Col_7": "",
     "Col_8": "",
     "Col_9": "",
@@ -2075,7 +2075,7 @@
   {
     "Col_1": "",
     "Col_2": "Cloud Service Providers (CSPs) must use this Control Implementation Summary (CIS) and Customer Responsibility Matrix (CRM) Workbook Template to summarize a system’s implementation status for all controls and enhancements and to identify and describe the customer Agency/CSP responsibilities. The CSP must remove the tabs that are not applicable to their final security authorization package. The CSP must submit the completed CIS and CRM Workbook as part of the system’s final security authorization package, as System Security Plan (SSP) Appendix J.",
-    "FedRAMP® System Security Plan (SSP) Appendix J: <CSO> CIS and CRM Workbook\n\n": "Cloud Service Providers (CSPs) must use this Control Implementation Summary (CIS) and Customer Responsibility Matrix (CRM) Workbook Template to summarize a system’s implementation status for all controls and enhancements and to identify and describe the customer Agency/CSP responsibilities. The CSP must remove the tabs that are not applicable to their final security authorization package. The CSP must submit the completed CIS and CRM Workbook as part of the system’s final security authorization package, as System Security Plan (SSP) Appendix J.",
+    "FedRAMP® System Security Plan (SSP) Appendix J: <CSO> CIS and CRM Workbook": "Cloud Service Providers (CSPs) must use this Control Implementation Summary (CIS) and Customer Responsibility Matrix (CRM) Workbook Template to summarize a system’s implementation status for all controls and enhancements and to identify and describe the customer Agency/CSP responsibilities. The CSP must remove the tabs that are not applicable to their final security authorization package. The CSP must submit the completed CIS and CRM Workbook as part of the system’s final security authorization package, as System Security Plan (SSP) Appendix J.",
     "Col_7": "",
     "Col_8": "",
     "Col_9": "",
@@ -2102,7 +2102,7 @@
   {
     "Col_1": "",
     "Col_2": "The audience for the completed CIS and CRM Workbook includes Third Party Assessment Organizations (3PAOs); customer Agencies and CSPs; and the FedRAMP Joint Authorization Board (JAB) and Program Management Office (PMO).",
-    "FedRAMP® System Security Plan (SSP) Appendix J: <CSO> CIS and CRM Workbook\n\n": "The audience for the completed CIS and CRM Workbook includes Third Party Assessment Organizations (3PAOs); customer Agencies and CSPs; and the FedRAMP Joint Authorization Board (JAB) and Program Management Office (PMO).",
+    "FedRAMP® System Security Plan (SSP) Appendix J: <CSO> CIS and CRM Workbook": "The audience for the completed CIS and CRM Workbook includes Third Party Assessment Organizations (3PAOs); customer Agencies and CSPs; and the FedRAMP Joint Authorization Board (JAB) and Program Management Office (PMO).",
     "Col_7": "",
     "Col_8": "",
     "Col_9": "",
@@ -2129,7 +2129,7 @@
   {
     "Col_1": "",
     "Col_2": "This workbook should be updated as part of a CSP's regular continuous monitoring activities.",
-    "FedRAMP® System Security Plan (SSP) Appendix J: <CSO> CIS and CRM Workbook\n\n": "This workbook should be updated as part of a CSP's regular continuous monitoring activities.",
+    "FedRAMP® System Security Plan (SSP) Appendix J: <CSO> CIS and CRM Workbook": "This workbook should be updated as part of a CSP's regular continuous monitoring activities.",
     "Col_7": "",
     "Col_8": "",
     "Col_9": "",
@@ -2156,7 +2156,7 @@
   {
     "Col_1": "",
     "Col_2": "Instructions",
-    "FedRAMP® System Security Plan (SSP) Appendix J: <CSO> CIS and CRM Workbook\n\n": "Instructions",
+    "FedRAMP® System Security Plan (SSP) Appendix J: <CSO> CIS and CRM Workbook": "Instructions",
     "Col_7": "",
     "Col_8": "",
     "Col_9": "",
@@ -2183,7 +2183,7 @@
   {
     "Col_1": "",
     "Col_2": "The CSP must complete two worksheets in this CIS and CRM Workbook Template for their applicable impact level (High, Moderate, Low, Li-SaaS): the FedRAMP Control Implementation Summary (CIS) Worksheet, hereafter called the CIS Worksheet; and the FedRAMP Customer Responsibility Matrix (CRM) Worksheet, hereafter called the CRM Worksheet. The remaining worksheets (Instructions, Example CRM Worksheet Responses, and Key to LI-SaaS Baseline) provide information on completing the CIS and CRM worksheets.",
-    "FedRAMP® System Security Plan (SSP) Appendix J: <CSO> CIS and CRM Workbook\n\n": "The CSP must complete two worksheets in this CIS and CRM Workbook Template for their applicable impact level (High, Moderate, Low, Li-SaaS): the FedRAMP Control Implementation Summary (CIS) Worksheet, hereafter called the CIS Worksheet; and the FedRAMP Customer Responsibility Matrix (CRM) Worksheet, hereafter called the CRM Worksheet. The remaining worksheets (Instructions, Example CRM Worksheet Responses, and Key to LI-SaaS Baseline) provide information on completing the CIS and CRM worksheets.",
+    "FedRAMP® System Security Plan (SSP) Appendix J: <CSO> CIS and CRM Workbook": "The CSP must complete two worksheets in this CIS and CRM Workbook Template for their applicable impact level (High, Moderate, Low, Li-SaaS): the FedRAMP Control Implementation Summary (CIS) Worksheet, hereafter called the CIS Worksheet; and the FedRAMP Customer Responsibility Matrix (CRM) Worksheet, hereafter called the CRM Worksheet. The remaining worksheets (Instructions, Example CRM Worksheet Responses, and Key to LI-SaaS Baseline) provide information on completing the CIS and CRM worksheets.",
     "Col_7": "",
     "Col_8": "",
     "Col_9": "",
@@ -2210,7 +2210,7 @@
   {
     "Col_1": "",
     "Col_2": "Completing the CIS Worksheet",
-    "FedRAMP® System Security Plan (SSP) Appendix J: <CSO> CIS and CRM Workbook\n\n": "Completing the CIS Worksheet",
+    "FedRAMP® System Security Plan (SSP) Appendix J: <CSO> CIS and CRM Workbook": "Completing the CIS Worksheet",
     "Col_7": "",
     "Col_8": "",
     "Col_9": "",
@@ -2236,8 +2236,8 @@
   },
   {
     "Col_1": "",
-    "Col_2": "On the CIS Worksheet, enter an \"X\" to correspond to the selections for each control and control enhancement in the final, approved System Security Plan (SSP) for:\n\n1) Implementation Status\n\n\"Implementation Status\" refers to the implementation status of the control (e.g., Implemented, Partially Implemented, Planned, Alternative Implementation, N/A).\n\n2) Control Origination\n\n“Control Origination” refers to which entity has responsibility for implementing the control. The following table defines the control origination options.",
-    "FedRAMP® System Security Plan (SSP) Appendix J: <CSO> CIS and CRM Workbook\n\n": "On the CIS Worksheet, enter an \"X\" to correspond to the selections for each control and control enhancement in the final, approved System Security Plan (SSP) for:\n\n1) Implementation Status\n\n\"Implementation Status\" refers to the implementation status of the control (e.g., Implemented, Partially Implemented, Planned, Alternative Implementation, N/A).\n\n2) Control Origination\n\n“Control Origination” refers to which entity has responsibility for implementing the control. The following table defines the control origination options.",
+    "Col_2": "On the CIS Worksheet, enter an \"X\" to correspond to the selections for each control and control enhancement in the final, approved System Security Plan (SSP) for:\n \n1) Implementation Status\n\n\"Implementation Status\" refers to the implementation status of the control (e.g., Implemented, Partially Implemented, Planned, Alternative Implementation, N/A).\n\n2) Control Origination\n\n“Control Origination” refers to which entity has responsibility for implementing the control. The following table defines the control origination options.",
+    "FedRAMP® System Security Plan (SSP) Appendix J: <CSO> CIS and CRM Workbook": "On the CIS Worksheet, enter an \"X\" to correspond to the selections for each control and control enhancement in the final, approved System Security Plan (SSP) for:\n \n1) Implementation Status\n\n\"Implementation Status\" refers to the implementation status of the control (e.g., Implemented, Partially Implemented, Planned, Alternative Implementation, N/A).\n\n2) Control Origination\n\n“Control Origination” refers to which entity has responsibility for implementing the control. The following table defines the control origination options.",
     "Col_7": "",
     "Col_8": "",
     "Col_9": "",
@@ -2264,7 +2264,7 @@
   {
     "Col_1": "",
     "Col_2": "Control Origination and Definition",
-    "FedRAMP® System Security Plan (SSP) Appendix J: <CSO> CIS and CRM Workbook\n\n": "Control Origination and Definition",
+    "FedRAMP® System Security Plan (SSP) Appendix J: <CSO> CIS and CRM Workbook": "Control Origination and Definition",
     "Col_7": "",
     "Col_8": "",
     "Col_9": "",
@@ -2291,7 +2291,7 @@
   {
     "Col_1": "",
     "Col_2": "Control Origination",
-    "FedRAMP® System Security Plan (SSP) Appendix J: <CSO> CIS and CRM Workbook\n\n": "Example",
+    "FedRAMP® System Security Plan (SSP) Appendix J: <CSO> CIS and CRM Workbook": "Example",
     "Col_7": "",
     "Col_8": "",
     "Col_9": "",
@@ -2318,7 +2318,7 @@
   {
     "Col_1": "",
     "Col_2": "Service Provider Corporate",
-    "FedRAMP® System Security Plan (SSP) Appendix J: <CSO> CIS and CRM Workbook\n\n": "Domain Name System (DNS) from the corporate network provides address resolution services for the information system and the service offering.",
+    "FedRAMP® System Security Plan (SSP) Appendix J: <CSO> CIS and CRM Workbook": "Domain Name System (DNS) from the corporate network provides address resolution services for the information system and the service offering.",
     "Col_7": "",
     "Col_8": "",
     "Col_9": "",
@@ -2345,7 +2345,7 @@
   {
     "Col_1": "",
     "Col_2": "Service Provider System Specific",
-    "FedRAMP® System Security Plan (SSP) Appendix J: <CSO> CIS and CRM Workbook\n\n": "A unique host-based intrusion detection system (HIDS) is available on the service offering platform that is separate from the corporate network and dedicated to the service offering.",
+    "FedRAMP® System Security Plan (SSP) Appendix J: <CSO> CIS and CRM Workbook": "A unique host-based intrusion detection system (HIDS) is available on the service offering platform that is separate from the corporate network and dedicated to the service offering.",
     "Col_7": "",
     "Col_8": "",
     "Col_9": "",
@@ -2372,7 +2372,7 @@
   {
     "Col_1": "",
     "Col_2": "Service Provider Hybrid\n(Corporate and System Specific)",
-    "FedRAMP® System Security Plan (SSP) Appendix J: <CSO> CIS and CRM Workbook\n\n": "Corporate may provide scanning of the CSP's service offering utilizing the corporate network infrastructure, databases, or web-based applications.",
+    "FedRAMP® System Security Plan (SSP) Appendix J: <CSO> CIS and CRM Workbook": "Corporate may provide scanning of the CSP's service offering utilizing the corporate network infrastructure, databases, or web-based applications.",
     "Col_7": "",
     "Col_8": "",
     "Col_9": "",
@@ -2399,7 +2399,7 @@
   {
     "Col_1": "",
     "Col_2": "Configured by Customer\n(Customer System Specific)",
-    "FedRAMP® System Security Plan (SSP) Appendix J: <CSO> CIS and CRM Workbook\n\n": "User profiles, policy/audit configurations, enabling/disabling key switches (e.g., enable/disable http or https, etc.), entering an IP range specific to their organization that are configurable by the customer.",
+    "FedRAMP® System Security Plan (SSP) Appendix J: <CSO> CIS and CRM Workbook": "User profiles, policy/audit configurations, enabling/disabling key switches (e.g., enable/disable http or https, etc.), entering an IP range specific to their organization that are configurable by the customer.",
     "Col_7": "",
     "Col_8": "",
     "Col_9": "",
@@ -2426,7 +2426,7 @@
   {
     "Col_1": "",
     "Col_2": "Provided by Customer\n(Customer System Specific)",
-    "FedRAMP® System Security Plan (SSP) Appendix J: <CSO> CIS and CRM Workbook\n\n": "The customer provides a Security Assertion Markup Language (SAML) Single Sign On (SSO) solution to implement two-factor authentication.",
+    "FedRAMP® System Security Plan (SSP) Appendix J: <CSO> CIS and CRM Workbook": "The customer provides a Security Assertion Markup Language (SAML) Single Sign On (SSO) solution to implement two-factor authentication.",
     "Col_7": "",
     "Col_8": "",
     "Col_9": "",
@@ -2453,7 +2453,7 @@
   {
     "Col_1": "",
     "Col_2": "Shared\n(Service Provider and Customer Responsibility)",
-    "FedRAMP® System Security Plan (SSP) Appendix J: <CSO> CIS and CRM Workbook\n\n": "Security awareness training must be conducted by both the CSP and customer.",
+    "FedRAMP® System Security Plan (SSP) Appendix J: <CSO> CIS and CRM Workbook": "Security awareness training must be conducted by both the CSP and customer.",
     "Col_7": "",
     "Col_8": "",
     "Col_9": "",
@@ -2480,7 +2480,7 @@
   {
     "Col_1": "",
     "Col_2": "Inherited from Pre-Existing Authorization",
-    "FedRAMP® System Security Plan (SSP) Appendix J: <CSO> CIS and CRM Workbook\n\n": "A Platform as a Service (PaaS) or Software as a Service (SaaS) provider inherits Physical and Environmental Protection (PE) controls from an Infrastructure as a Service (IaaS) provider.",
+    "FedRAMP® System Security Plan (SSP) Appendix J: <CSO> CIS and CRM Workbook": "A Platform as a Service (PaaS) or Software as a Service (SaaS) provider inherits Physical and Environmental Protection (PE) controls from an Infrastructure as a Service (IaaS) provider.",
     "Col_7": "",
     "Col_8": "",
     "Col_9": "",
@@ -2507,7 +2507,7 @@
   {
     "Col_1": "",
     "Col_2": "Completing the CRM Worksheet",
-    "FedRAMP® System Security Plan (SSP) Appendix J: <CSO> CIS and CRM Workbook\n\n": "Completing the CRM Worksheet",
+    "FedRAMP® System Security Plan (SSP) Appendix J: <CSO> CIS and CRM Workbook": "Completing the CRM Worksheet",
     "Col_7": "",
     "Col_8": "",
     "Col_9": "",
@@ -2533,8 +2533,8 @@
   },
   {
     "Col_1": "",
-    "Col_2": "To complete the CRM Worksheet, follow the instructions in the “Guidance” section at the top of the CRM Worksheet. The CRM Worksheet responses must clearly describe what the CSP provides to customer agencies and CSPs and what responsibilities customers have for each control; therefore, it may also be necessary to reference the final, approved version of the SSP for customer responsibility details. There could be many different services offered by CSPs that are included within the authorization boundary. CSPs are required to delineate customer responsibilities associated with each service. Example CRM responses, for sample controls, are provided in the Example CRM Worksheet Responses sheet.\n\nCSP:\n\nThe CRM should contain information for what a leveraging party needs to implement in order to obtain and maintain their ATO. The customer responsibility outlines the remaining controls that need to be implemented by the leveraging entity for compliance. For example, if a CSP provides account management but not multifactor authentication, the CRM should include the provisioning responsibilities for creating accounts in AC-2 and should include the multifactor responsibilities in the IA-5 section of the CRM.\n\nLeveraging Entity:\n\nThe leveraging entity should be able to analyze the CRM to define all the controls they will need to engineer, design, define and implement in order to be in compliance with the FedRAMP baseline.\n\n3PAO:\n\nThe 3PAO will define the test cases needed to verify the accuracy of the CRM. The testing of the CRM should validate the items that the leveraging entities will need to implement to maintain compliance with the FedRAMP baseline are accurate.",
-    "FedRAMP® System Security Plan (SSP) Appendix J: <CSO> CIS and CRM Workbook\n\n": "To complete the CRM Worksheet, follow the instructions in the “Guidance” section at the top of the CRM Worksheet. The CRM Worksheet responses must clearly describe what the CSP provides to customer agencies and CSPs and what responsibilities customers have for each control; therefore, it may also be necessary to reference the final, approved version of the SSP for customer responsibility details. There could be many different services offered by CSPs that are included within the authorization boundary. CSPs are required to delineate customer responsibilities associated with each service. Example CRM responses, for sample controls, are provided in the Example CRM Worksheet Responses sheet.\n\nCSP:\n\nThe CRM should contain information for what a leveraging party needs to implement in order to obtain and maintain their ATO. The customer responsibility outlines the remaining controls that need to be implemented by the leveraging entity for compliance. For example, if a CSP provides account management but not multifactor authentication, the CRM should include the provisioning responsibilities for creating accounts in AC-2 and should include the multifactor responsibilities in the IA-5 section of the CRM.\n\nLeveraging Entity:\n\nThe leveraging entity should be able to analyze the CRM to define all the controls they will need to engineer, design, define and implement in order to be in compliance with the FedRAMP baseline.\n\n3PAO:\n\nThe 3PAO will define the test cases needed to verify the accuracy of the CRM. The testing of the CRM should validate the items that the leveraging entities will need to implement to maintain compliance with the FedRAMP baseline are accurate.",
+    "Col_2": "To complete the CRM Worksheet, follow the instructions in the “Guidance” section at the top of the CRM Worksheet. The CRM Worksheet responses must clearly describe what the CSP provides to customer agencies and CSPs and what responsibilities customers have for each control; therefore, it may also be necessary to reference the final, approved version of the SSP for customer responsibility details. There could be many different services offered by CSPs that are included within the authorization boundary. CSPs are required to delineate customer responsibilities associated with each service. Example CRM responses, for sample controls, are provided in the Example CRM Worksheet Responses sheet.  \n\nCSP:\n\nThe CRM should contain information for what a leveraging party needs to implement in order to obtain and maintain their ATO. The customer responsibility outlines the remaining controls that need to be implemented by the leveraging entity for compliance. For example, if a CSP provides account management but not multifactor authentication, the CRM should include the provisioning responsibilities for creating accounts in AC-2 and should include the multifactor responsibilities in the IA-5 section of the CRM. \n\nLeveraging Entity:\n\nThe leveraging entity should be able to analyze the CRM to define all the controls they will need to engineer, design, define and implement in order to be in compliance with the FedRAMP baseline. \n\n3PAO:\n\nThe 3PAO will define the test cases needed to verify the accuracy of the CRM. The testing of the CRM should validate the items that the leveraging entities will need to implement to maintain compliance with the FedRAMP baseline are accurate.",
+    "FedRAMP® System Security Plan (SSP) Appendix J: <CSO> CIS and CRM Workbook": "To complete the CRM Worksheet, follow the instructions in the “Guidance” section at the top of the CRM Worksheet. The CRM Worksheet responses must clearly describe what the CSP provides to customer agencies and CSPs and what responsibilities customers have for each control; therefore, it may also be necessary to reference the final, approved version of the SSP for customer responsibility details. There could be many different services offered by CSPs that are included within the authorization boundary. CSPs are required to delineate customer responsibilities associated with each service. Example CRM responses, for sample controls, are provided in the Example CRM Worksheet Responses sheet.  \n\nCSP:\n\nThe CRM should contain information for what a leveraging party needs to implement in order to obtain and maintain their ATO. The customer responsibility outlines the remaining controls that need to be implemented by the leveraging entity for compliance. For example, if a CSP provides account management but not multifactor authentication, the CRM should include the provisioning responsibilities for creating accounts in AC-2 and should include the multifactor responsibilities in the IA-5 section of the CRM. \n\nLeveraging Entity:\n\nThe leveraging entity should be able to analyze the CRM to define all the controls they will need to engineer, design, define and implement in order to be in compliance with the FedRAMP baseline. \n\n3PAO:\n\nThe 3PAO will define the test cases needed to verify the accuracy of the CRM. The testing of the CRM should validate the items that the leveraging entities will need to implement to maintain compliance with the FedRAMP baseline are accurate.",
     "Col_7": "",
     "Col_8": "",
     "Col_9": "",
@@ -2839,7 +2839,7 @@
     "_sheet": "SSP-Appendix-J-CSO-CIS-and-CRM-Workbook-LI-SaaS CIS Worksheet"
   },
   {
-    "FedRAMP LI-SaaS Customer Responsibility Matrix (CRM) Worksheet": "GUIDANCE:\n\n• Refer to CSP responses in the completed CIS Worksheet, “Control Origination” section.\n\n• For Control IDs identified in the CIS Worksheet as Service Provider Corporate, Service Provider System Specific, or Service Provider Hybrid (Corporate and System Specific), enter \"Yes\" in the \"Can Be Inherited from CSP\" column below, and leave the \"Specific Inheritance and Customer Agency/CSP Responsibilities\" column blank.\n\n• For Control IDs identified in the CIS Worksheet as Shared (Service Provider and Customer Responsibility), enter \"Partial\" in the \"Can Be Inherited from CSP\" column (below). In the \"Specific Inheritance and Customer Agency/CSP Responsibilities\" column, describe which elements are inherited from the CSP and describe the customer responsibilities.\n\n• For Control IDs identified in the CIS Worksheet as Configured by Customer (Customer System Specific) or Provided by Customer (Customer System Specific), enter \"No\" in the \"Can Be Inherited from CSP\" column (below). In the \"Specific Inheritance and Customer Agency/CSP Responsibilities\" column, explain why the Control ID cannot be inherited, and describe the customer responsibilities.\n\n• For CSPs that offer a variety of services or features, the CSP must clearly describe any customer responsibilities associated with each service or feature. In the \"Specific Inheritance and Customer Agency/CSP Responsibilities\" column, for each affected control, CSPs must clearly link the responsibilities to the service or feature. CSPs, with multiple services or features, may wish to add a key to the CRM Worksheet. See the examples below:\n\n- Customer responsibilities noted with \"<ServiceName A>:\" are added if <ServiceName A> is an optional service that can be used by the customer.\n- Customer responsibilities noted with \"<ServiceName B>:\" are added if <ServiceName B> is an optional service that can be used by the customer.\n\n• Example CRM responses, for sample Control IDs, are provided in the Example CRM Worksheet Responses sheet of this workbook.",
+    "FedRAMP LI-SaaS Customer Responsibility Matrix (CRM) Worksheet": "GUIDANCE: \n\n• Refer to CSP responses in the completed CIS Worksheet, “Control Origination” section. \n\n• For Control IDs identified in the CIS Worksheet as Service Provider Corporate, Service Provider System Specific, or Service Provider Hybrid (Corporate and System Specific), enter \"Yes\" in the \"Can Be Inherited from CSP\" column below, and leave the \"Specific Inheritance and Customer Agency/CSP Responsibilities\" column blank. \n\n• For Control IDs identified in the CIS Worksheet as Shared (Service Provider and Customer Responsibility), enter \"Partial\" in the \"Can Be Inherited from CSP\" column (below). In the \"Specific Inheritance and Customer Agency/CSP Responsibilities\" column, describe which elements are inherited from the CSP and describe the customer responsibilities. \n\n• For Control IDs identified in the CIS Worksheet as Configured by Customer (Customer System Specific) or Provided by Customer (Customer System Specific), enter \"No\" in the \"Can Be Inherited from CSP\" column (below). In the \"Specific Inheritance and Customer Agency/CSP Responsibilities\" column, explain why the Control ID cannot be inherited, and describe the customer responsibilities. \n\n• For CSPs that offer a variety of services or features, the CSP must clearly describe any customer responsibilities associated with each service or feature. In the \"Specific Inheritance and Customer Agency/CSP Responsibilities\" column, for each affected control, CSPs must clearly link the responsibilities to the service or feature. CSPs, with multiple services or features, may wish to add a key to the CRM Worksheet. See the examples below: \n\n- Customer responsibilities noted with \"<ServiceName A>:\" are added if <ServiceName A> is an optional service that can be used by the customer. \n- Customer responsibilities noted with \"<ServiceName B>:\" are added if <ServiceName B> is an optional service that can be used by the customer. \n\n• Example CRM responses, for sample Control IDs, are provided in the Example CRM Worksheet Responses sheet of this workbook.",
     "Col_4": "",
     "Col_5": "",
     "Col_6": "",
@@ -2941,7 +2941,7 @@
     "_sheet": "SSP-Appendix-J-CSO-CIS-and-CRM-Workbook-Low CIS Worksheet"
   },
   {
-    "FedRAMP Low Customer Responsibility Matrix (CRM) Worksheet": "GUIDANCE:\n\n• Refer to CSP responses in the completed CIS Worksheet, “Control Origination” section.\n\n• For Control IDs identified in the CIS Worksheet as Service Provider Corporate, Service Provider System Specific, or Service Provider Hybrid (Corporate and System Specific), enter \"Yes\" in the \"Can Be Inherited from CSP\" column below, and leave the \"Specific Inheritance and Customer Agency/CSP Responsibilities\" column blank.\n\n• For Control IDs identified in the CIS Worksheet as Shared (Service Provider and Customer Responsibility), enter \"Partial\" in the \"Can Be Inherited from CSP\" column (below). In the \"Specific Inheritance and Customer Agency/CSP Responsibilities\" column, describe which elements are inherited from the CSP and describe the customer responsibilities.\n\n• For Control IDs identified in the CIS Worksheet as Configured by Customer (Customer System Specific) or Provided by Customer (Customer System Specific), enter \"No\" in the \"Can Be Inherited from CSP\" column (below). In the \"Specific Inheritance and Customer Agency/CSP Responsibilities\" column, explain why the Control ID cannot be inherited, and describe the customer responsibilities.\n\n• For CSPs that offer a variety of services or features, the CSP must clearly describe any customer responsibilities associated with each service or feature. In the \"Specific Inheritance and Customer Agency/CSP Responsibilities\" column, for each affected control, the CSP must clearly link the responsibilities to the service or feature. CSPs, with multiple services or features, may wish to add a key to the CRM Worksheet. See the examples below:\n\n- Customer responsibilities noted with \"<ServiceName A>:\" are added if <ServiceName A> is an optional service that can be used by the customer.\n- Customer responsibilities noted with \"<ServiceName B>:\" are added if <ServiceName B> is an optional service that can be used by the customer.\n\n• Example CRM responses, for sample Control IDs, are provided in the Example CRM Worksheet Responses sheet of this workbook.",
+    "FedRAMP Low Customer Responsibility Matrix (CRM) Worksheet": "GUIDANCE: \n\n• Refer to CSP responses in the completed CIS Worksheet, “Control Origination” section. \n\n• For Control IDs identified in the CIS Worksheet as Service Provider Corporate, Service Provider System Specific, or Service Provider Hybrid (Corporate and System Specific), enter \"Yes\" in the \"Can Be Inherited from CSP\" column below, and leave the \"Specific Inheritance and Customer Agency/CSP Responsibilities\" column blank. \n\n• For Control IDs identified in the CIS Worksheet as Shared (Service Provider and Customer Responsibility), enter \"Partial\" in the \"Can Be Inherited from CSP\" column (below). In the \"Specific Inheritance and Customer Agency/CSP Responsibilities\" column, describe which elements are inherited from the CSP and describe the customer responsibilities. \n\n• For Control IDs identified in the CIS Worksheet as Configured by Customer (Customer System Specific) or Provided by Customer (Customer System Specific), enter \"No\" in the \"Can Be Inherited from CSP\" column (below). In the \"Specific Inheritance and Customer Agency/CSP Responsibilities\" column, explain why the Control ID cannot be inherited, and describe the customer responsibilities. \n\n• For CSPs that offer a variety of services or features, the CSP must clearly describe any customer responsibilities associated with each service or feature. In the \"Specific Inheritance and Customer Agency/CSP Responsibilities\" column, for each affected control, the CSP must clearly link the responsibilities to the service or feature. CSPs, with multiple services or features, may wish to add a key to the CRM Worksheet. See the examples below: \n\n- Customer responsibilities noted with \"<ServiceName A>:\" are added if <ServiceName A> is an optional service that can be used by the customer. \n- Customer responsibilities noted with \"<ServiceName B>:\" are added if <ServiceName B> is an optional service that can be used by the customer. \n\n• Example CRM responses, for sample Control IDs, are provided in the Example CRM Worksheet Responses sheet of this workbook.",
     "Col_4": "",
     "Col_5": "",
     "Col_6": "",
@@ -3043,7 +3043,7 @@
     "_sheet": "SSP-Appendix-J-CSO-CIS-and-CRM-Workbook-Moderate CIS Worksheet"
   },
   {
-    "FedRAMP Moderate Customer Responsibility Matrix (CRM) Worksheet": "GUIDANCE:\n\n• Refer to CSP responses in the completed CIS Worksheet, “Control Origination” section.\n\n• For Control IDs identified in the CIS Worksheet as Service Provider Corporate, Service Provider System Specific, or Service Provider Hybrid (Corporate and System Specific), enter \"Yes\" in the \"Can Be Inherited from CSP\" column below, and leave the \"Specific Inheritance and Customer Agency/CSP Responsibilities\" column blank.\n\n• For Control IDs identified in the CIS Worksheet as Shared (Service Provider and Customer Responsibility), enter \"Partial\" in the \"Can Be Inherited from CSP\" column (below). In the \"Specific Inheritance and Customer Agency/CSP Responsibilities\" column, describe which elements are inherited from the CSP and describe the customer responsibilities.\n\n• For Control IDs identified in the CIS Worksheet as Configured by Customer (Customer System Specific) or Provided by Customer (Customer System Specific), enter \"No\" in the \"Can Be Inherited from CSP\" column (below). In the \"Specific Inheritance and Customer Agency/CSP Responsibilities\" column, explain why the Control ID cannot be inherited, and describe the customer responsibilities.\n\n• For CSPs that offer a variety of services or features, the CSP must clearly describe any customer responsibilities associated with each service or feature. In the \"Specific Inheritance and Customer Agency/CSP Responsibilities\" column, for each affected control, the CSP must clearly link the responsibilities to the service or feature. CSPs, with multiple services or features, may wish to add a key to the CRM Worksheet. See the examples below:\n\n- Customer responsibilities noted with \"<ServiceName A>:\" are added if <ServiceName A> is an optional service that can be used by the customer.\n- Customer responsibilities noted with \"<ServiceName B>:\" are added if <ServiceName B> is an optional service that can be used by the customer.\n\n• Example CRM responses, for sample Control IDs, are provided in the Example CRM Worksheet Responses sheet of this workbook.",
+    "FedRAMP Moderate Customer Responsibility Matrix (CRM) Worksheet": "GUIDANCE: \n\n• Refer to CSP responses in the completed CIS Worksheet, “Control Origination” section. \n\n• For Control IDs identified in the CIS Worksheet as Service Provider Corporate, Service Provider System Specific, or Service Provider Hybrid (Corporate and System Specific), enter \"Yes\" in the \"Can Be Inherited from CSP\" column below, and leave the \"Specific Inheritance and Customer Agency/CSP Responsibilities\" column blank. \n\n• For Control IDs identified in the CIS Worksheet as Shared (Service Provider and Customer Responsibility), enter \"Partial\" in the \"Can Be Inherited from CSP\" column (below). In the \"Specific Inheritance and Customer Agency/CSP Responsibilities\" column, describe which elements are inherited from the CSP and describe the customer responsibilities. \n\n• For Control IDs identified in the CIS Worksheet as Configured by Customer (Customer System Specific) or Provided by Customer (Customer System Specific), enter \"No\" in the \"Can Be Inherited from CSP\" column (below). In the \"Specific Inheritance and Customer Agency/CSP Responsibilities\" column, explain why the Control ID cannot be inherited, and describe the customer responsibilities. \n\n• For CSPs that offer a variety of services or features, the CSP must clearly describe any customer responsibilities associated with each service or feature. In the \"Specific Inheritance and Customer Agency/CSP Responsibilities\" column, for each affected control, the CSP must clearly link the responsibilities to the service or feature. CSPs, with multiple services or features, may wish to add a key to the CRM Worksheet. See the examples below: \n\n- Customer responsibilities noted with \"<ServiceName A>:\" are added if <ServiceName A> is an optional service that can be used by the customer. \n- Customer responsibilities noted with \"<ServiceName B>:\" are added if <ServiceName B> is an optional service that can be used by the customer. \n\n• Example CRM responses, for sample Control IDs, are provided in the Example CRM Worksheet Responses sheet of this workbook.",
     "Col_4": "",
     "Col_5": "",
     "Col_6": "",

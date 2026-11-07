@@ -140,19 +140,16 @@ Maximized ROI
 
 ![3_image_4.png](3_image_4.png)
 
-
-
+
 
 Homeland Security
-
-
+
 
 ![3_image_1.png](3_image_1.png)
 
 ![3_image_2.png](3_image_2.png)
 
-
-
+
 
 ![3_image_0.png](3_image_0.png)
 
@@ -450,26 +447,22 @@ NIST is exploring pathways to publishing data-driven threat-based cybersecurity 
 
 
 
+
+
+
+
+ 
 
 
 
 
 
+
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+	
 
 ![16_image_0.png](16_image_0.png)
 

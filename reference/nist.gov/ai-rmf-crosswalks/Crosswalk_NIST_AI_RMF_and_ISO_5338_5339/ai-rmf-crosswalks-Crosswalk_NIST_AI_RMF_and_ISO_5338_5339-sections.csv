@@ -1,8 +1,5 @@
 "depth","section_id","section_name","id_kind","parent_id","body"
-"2","","""AI risk management is a key
-component of responsible
-development and use of AI systems.
-Responsible AI practices can he","","","AI RMF: ""AI risk management is a key
+"2","","""AI risk management is a key component of responsible development and use of AI systems. Responsible AI practices can he","","","AI RMF: ""AI risk management is a key
 component of responsible
 development and use of AI systems.
 Responsible AI practices can help align
@@ -22,62 +19,43 @@ impacts. Understanding and managing
 the risks of AI systems will help to
 enhance trustworthiness, and in turn,
 cultivate public trust."" ([1] page 1)."
-"2","","AI RMF
-–
-Characteristics of","","","AI RMF: AI RMF
-–
-Characteristics of
-
-ISO/IEC 5339: ISO/IEC 5339
--
-Trustworthiness (5.5.2)"
-"2","","Trustworthy AI Systems
-(Section 3)","","","AI RMF: Trustworthy AI Systems
+"2","","Trustworthy AI Systems (Section 3)","","","AI RMF – Characteristics of: Trustworthy AI Systems
 (Section 3)
 
-ISO/IEC 5339: (mostly derived from ISO/IEC 24028 [5])"
-"2","","Valid and Reliable","","","AI RMF: Valid and Reliable
+ISO/IEC 5339 - Trustworthiness (5.5.2): (mostly derived from ISO/IEC 24028 [5])"
+"2","","Valid and Reliable","","","AI RMF – Characteristics of: Valid and Reliable
 
-ISO/IEC 5339: 5.5.2.9, 5.5.2.3,
+ISO/IEC 5339 - Trustworthiness (5.5.2): 5.5.2.9, 5.5.2.3,
 5.5.2.2"
-"2","","Safe","","","AI RMF: Safe
+"2","","Safe","","","AI RMF – Characteristics of: Safe
 
-ISO/IEC 5339: –"
-"2","","Secure
-and Resilient","","","AI RMF: Secure
+ISO/IEC 5339 - Trustworthiness (5.5.2): –"
+"2","","Secure and Resilient","","","AI RMF – Characteristics of: Secure
 and Resilient
 
-ISO/IEC 5339: 5.5.2.4"
-"2","","Accountable
-and Transparent","","","AI RMF: Accountable
+ISO/IEC 5339 - Trustworthiness (5.5.2): 5.5.2.4"
+"2","","Accountable and Transparent","","","AI RMF – Characteristics of: Accountable
 and Transparent
 
-ISO/IEC 5339: 5.5.2.8"
-"2","","Explainable
-and Interpretable","","","AI RMF: Explainable
+ISO/IEC 5339 - Trustworthiness (5.5.2): 5.5.2.8"
+"2","","Explainable and Interpretable","","","AI RMF – Characteristics of: Explainable
 and Interpretable
 
-ISO/IEC 5339: 5.5.2.6"
-"2","","Privacy-Enhanced","","","AI RMF: Privacy-Enhanced
+ISO/IEC 5339 - Trustworthiness (5.5.2): 5.5.2.6"
+"2","","Privacy-Enhanced","","","AI RMF – Characteristics of: Privacy-Enhanced
 
-ISO/IEC 5339: –"
-"2","","Fair -
-with Harmful Bias Managed","","","AI RMF: Fair -
+ISO/IEC 5339 - Trustworthiness (5.5.2): –"
+"2","","Fair - with Harmful Bias Managed","","","AI RMF – Characteristics of: Fair -
 with Harmful Bias Managed
 
-ISO/IEC 5339: 5.5.2.10"
-"2","","–","","","AI RMF: –
+ISO/IEC 5339 - Trustworthiness (5.5.2): 5.5.2.10"
+"2","","–","","","AI RMF – Characteristics of: –
 
-ISO/IEC 5339: Controllability (5.5.2.7)"
-"2","","–","","","AI RMF: –
+ISO/IEC 5339 - Trustworthiness (5.5.2): Controllability (5.5.2.7)"
+"2","","–","","","AI RMF – Characteristics of: –
 
-ISO/IEC 5339: Predictability (5.5.2.7)"
-"2","","–","","","AI RMF: –
+ISO/IEC 5339 - Trustworthiness (5.5.2): Predictability (5.5.2.7)"
+"2","","–","","","AI RMF – Characteristics of: –
 
-ISO/IEC 5339: Dependable
+ISO/IEC 5339 - Trustworthiness (5.5.2): Dependable
 (5.5.2.1)"
-"2","","Table 1. Comparison of Trustworthiness","","","AI RMF: Table 1. Comparison of Trustworthiness
-
-col_3: Characteristics
-
-col_4: from [1] and [3]"

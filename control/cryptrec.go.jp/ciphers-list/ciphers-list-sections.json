@@ -2,697 +2,241 @@
   {
     "depth": 1,
     "section_id": "",
-    "section_name": "CRYPTREC Ciphers List",
+    "section_name": "電子政府における調達のために参照すべき暗号のリスト（CRYPTREC暗号リスト / CRYPTREC Ciphers List）",
     "id_kind": "",
     "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "CRYPTREC LS-0001-2022R2",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
+    "body": "CRYPTREC LS-0001-2022R2（令和５年３月30日 デジタル庁・総務省・経済産業省、最終更新：令和８年３月30日）"
   },
   {
     "depth": 2,
-    "section_id": "",
-    "section_name": "電子政府における調達のために参照すべき暗号のリスト",
-    "id_kind": "",
+    "section_id": "1",
+    "section_name": "電子政府推奨暗号リスト (e-Government Recommended Ciphers List)",
+    "id_kind": "numbered",
     "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "（CRYPTREC暗号リスト）",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "電子政府推奨暗号リスト",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
+    "body": "暗号技術検討会及び関連委員会（以下「CRYPTREC」という。）により安全性（セキュリティ）及び実装性能が確認された暗号技術について、市場における利用実績が十分であるか今後の普及が見込まれると判断され、当該技術の利用を推奨するもののリスト。なお、利用する鍵長について、「暗号強度要件（アルゴリズム及び鍵長選択）に関する設定基準」の規定に合致しない鍵長を用いた場合には、電子政府推奨暗号リストの暗号技術を利用しているとは見なされないことに留意すること。"
   },
   {
     "depth": 3,
-    "section_id": "",
-    "section_name": "令和５年３月30日 デジタル庁・総務省・経済産業省 （最終更新：令和８年３月30日）",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "暗号技術検討会1及び関連委員会（以下「CRYPTREC」という。）により安全性 （セキュリティ）及び実装性能が確認された暗号技術2について、市場における 利用実績が十分であるか今後の普及が見込まれると判断され、当該技術の利用 を推奨するもののリスト。なお、利用する鍵長について、「暗号強度要件（ア ルゴリズム及び鍵長選択）に関する設定基準」3の規定に合致しない鍵長を用い た場合には、電子政府推奨暗号リストの暗号技術を利用しているとは見なされ ないことに留意すること。",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "＜表１ 現行暗号リスト＞",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "技術分類 暗号技術",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "DSA（注１） ECDSA EdDSA RSA-PSS RSASSA-PKCS1-v1_5 守秘 RSA-OAEP",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "署名",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "公開鍵暗号",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "鍵共有 DH ECDH（注２）",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "64ビットブロック暗号（注３） 該当なし",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "128ビットブロック暗号 AES Camellia ストリーム暗号 KCipher-2",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "共通鍵暗号",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "SHA-256 SHA-384 SHA-512 SHA-512/256 SHA3-256 SHA3-384 SHA3-512 SHAKE128（注４） SHAKE256（注４） （次ページに続く）",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "ハッシュ関数",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "1 デジタル庁統括官、総務省サイバーセキュリティ統括官及び経済産業省商務情報政策局長が有識者の参集を求め、暗 号技術の普及による情報セキュリティ対策の推進を図る観点から、専門家による意見等を聴取することにより、デジ タル庁、総務省及び経済産業省における施策の検討に資することを目的として開催。 2 暗号利用モード、メッセージ認証コード、エンティティ認証は、他の技術分類の暗号技術と組み合わせて利用するこ ととされているが、その場合、CRYPTREC暗号リストに掲載されたいずれかの暗号技術と組み合わせること。 3 CRYPTREC, 暗号強度要件（アルゴリズム及び鍵長選択）に関する設定基準, https://www.cryptrec.go.jp/list.html なお、当該設定基準の見直しの検討を行う予定であり、当面の間、表２（耐量子計算機暗号（PQC）リスト）の公開鍵 暗号は、当該設定基準を適用しない。"
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "技術分類 暗号技術",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "秘匿モード",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "暗号利用モード",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "CBC CFB CTR OFB XTS（注５）",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "認証付き秘匿モード（注６） CCM GCM（注７）",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "メッセージ認証コード CMAC HMAC 認証暗号 ChaCha20-Poly1305",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "エンティティ認証",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "ISO/IEC 9798-2 ISO/IEC 9798-3 ISO/IEC 9798-4",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "（注１）FIPS PUB 186-5では廃止されているが、本リスト掲載時から安全性・利用実",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "績の状況に大きな変化がないため、掲載を継続する。",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "（注２）使用するMACはHMAC又はCMACに限る。",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "（注３）CRYPTREC暗号リストにおいて、64ビットブロック暗号により、同一の鍵を用",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "いて暗号化する場合、220ブロックまで、同一の鍵を用いてCMACでメッセージ 認証コードを生成する場合、221ブロックまでとする。",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "（注４）ハッシュ長は256ビット以上とすること。",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "（注５）ブロック暗号には、CRYPTREC暗号リスト掲載128ビットブロック暗号を使う。",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "利用用途はストレージデバイスの暗号化に限り、実装方法はNIST SP800-38E に従うこと。",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "（注６）CRYPTREC暗号リスト掲載のブロック暗号を、認証付き秘匿モードと組み合わ",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "せて、「認証暗号」として使うことができる。",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "（注７）初期化ベクトル長は96ビットを推奨する。",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
+    "section_id": "1.1",
+    "section_name": "表１ 現行暗号リスト (Table 1: Current Ciphers List)",
+    "id_kind": "numbered",
+    "parent_id": "1",
+    "body": "| 技術分類（大分類） | 技術分類（小分類） | 暗号技術 |\n| --- | --- | --- |\n| 公開鍵暗号 | 署名 | DSA（注１） |\n| 公開鍵暗号 | 署名 | ECDSA |\n| 公開鍵暗号 | 署名 | EdDSA |\n| 公開鍵暗号 | 署名 | RSA-PSS |\n| 公開鍵暗号 | 署名 | RSASSA-PKCS1-v1_5 |\n| 公開鍵暗号 | 守秘 | RSA-OAEP |\n| 公開鍵暗号 | 鍵共有 | DH |\n| 公開鍵暗号 | 鍵共有 | ECDH（注２） |\n| 共通鍵暗号 | 64ビットブロック暗号（注３） | 該当なし |\n| 共通鍵暗号 | 128ビットブロック暗号 | AES |\n| 共通鍵暗号 | 128ビットブロック暗号 | Camellia |\n| 共通鍵暗号 | ストリーム暗号 | KCipher-2 |\n| ハッシュ関数 | － | SHA-256 |\n| ハッシュ関数 | － | SHA-384 |\n| ハッシュ関数 | － | SHA-512 |\n| ハッシュ関数 | － | SHA-512/256 |\n| ハッシュ関数 | － | SHA3-256 |\n| ハッシュ関数 | － | SHA3-384 |\n| ハッシュ関数 | － | SHA3-512 |\n| ハッシュ関数 | － | SHAKE128（注４） |\n| ハッシュ関数 | － | SHAKE256（注４） |\n| 暗号利用モード | 秘匿モード | CBC |\n| 暗号利用モード | 秘匿モード | CFB |\n| 暗号利用モード | 秘匿モード | CTR |\n| 暗号利用モード | 秘匿モード | OFB |\n| 暗号利用モード | 秘匿モード | XTS（注５） |\n| 暗号利用モード | 認証付き秘匿モード（注６） | CCM |\n| 暗号利用モード | 認証付き秘匿モード（注６） | GCM（注７） |\n| メッセージ認証コード | － | CMAC |\n| メッセージ認証コード | － | HMAC |\n| 認証暗号 | － | ChaCha20-Poly1305 |\n| エンティティ認証 | － | ISO/IEC 9798-2 |\n| エンティティ認証 | － | ISO/IEC 9798-3 |\n| エンティティ認証 | － | ISO/IEC 9798-4 |\n\n- （注１）FIPS PUB 186-5では廃止されているが、本リスト掲載時から安全性・利用実績の状況に大きな変化がないため、掲載を継続する。\n- （注２）使用するMACはHMAC又はCMACに限る。\n- （注３）CRYPTREC暗号リストにおいて、64ビットブロック暗号により、同一の鍵を用いて暗号化する場合、2^20ブロックまで、同一の鍵を用いてCMACでメッセージ認証コードを生成する場合、2^21ブロックまでとする。\n- （注４）ハッシュ長は256ビット以上とすること。\n- （注５）ブロック暗号には、CRYPTREC暗号リスト掲載128ビットブロック暗号を使う。利用用途はストレージデバイスの暗号化に限り、実装方法はNIST SP800-38Eに従うこと。\n- （注６）CRYPTREC暗号リスト掲載のブロック暗号を、認証付き秘匿モードと組み合わせて、「認証暗号」として使うことができる。\n- （注７）初期化ベクトル長は96ビットを推奨する。"
   },
   {
     "depth": 4,
-    "section_id": "",
-    "section_name": "＜表２ 耐量子計算機暗号（PQC）リスト＞",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "現行暗号の解読に利用可能な水準の量子計算機（CRQC: Cryptographically Relevant Quantum Computer）への耐性を有することが確認された暗号技術のリ スト4。",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "技術分類 暗号技術",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "名称 パラメーターセット（注８）",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "署名",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "－ －"
-  },
-  {
-    "depth": 3,
-    "section_id": "",
+    "section_id": "1.1.1",
     "section_name": "公開鍵暗号",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
+    "id_kind": "numbered",
+    "parent_id": "1.1",
+    "body": "- **DSA（注１）**（署名）\n- **ECDSA**（署名）\n- **EdDSA**（署名）\n- **RSA-PSS**（署名）\n- **RSASSA-PKCS1-v1_5**（署名）\n- **RSA-OAEP**（守秘）\n- **DH**（鍵共有）\n- **ECDH（注２）**（鍵共有）"
   },
   {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "鍵共有 ML-KEM ML-KEM-768 (Category 3) ML-KEM-1024 (Category 5)",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
+    "depth": 4,
+    "section_id": "1.1.2",
+    "section_name": "共通鍵暗号",
+    "id_kind": "numbered",
+    "parent_id": "1.1",
+    "body": "- **該当なし**（64ビットブロック暗号（注３））\n- **AES**（128ビットブロック暗号）\n- **Camellia**（128ビットブロック暗号）\n- **KCipher-2**（ストリーム暗号）"
   },
   {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "共通鍵暗号 AES AES-192 (Category 3) AES-256 (Category 5)",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "SHA2 SHA-384 (Category 4) SHA-512",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
+    "depth": 4,
+    "section_id": "1.1.3",
     "section_name": "ハッシュ関数",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
+    "id_kind": "numbered",
+    "parent_id": "1.1",
+    "body": "- **SHA-256**\n- **SHA-384**\n- **SHA-512**\n- **SHA-512/256**\n- **SHA3-256**\n- **SHA3-384**\n- **SHA3-512**\n- **SHAKE128（注４）**\n- **SHAKE256（注４）**"
+  },
+  {
+    "depth": 4,
+    "section_id": "1.1.4",
+    "section_name": "暗号利用モード",
+    "id_kind": "numbered",
+    "parent_id": "1.1",
+    "body": "- **CBC**（秘匿モード）\n- **CFB**（秘匿モード）\n- **CTR**（秘匿モード）\n- **OFB**（秘匿モード）\n- **XTS（注５）**（秘匿モード）\n- **CCM**（認証付き秘匿モード（注６））\n- **GCM（注７）**（認証付き秘匿モード（注６））"
+  },
+  {
+    "depth": 4,
+    "section_id": "1.1.5",
+    "section_name": "メッセージ認証コード",
+    "id_kind": "numbered",
+    "parent_id": "1.1",
+    "body": "- **CMAC**\n- **HMAC**"
+  },
+  {
+    "depth": 4,
+    "section_id": "1.1.6",
+    "section_name": "認証暗号",
+    "id_kind": "numbered",
+    "parent_id": "1.1",
+    "body": "- **ChaCha20-Poly1305**"
+  },
+  {
+    "depth": 4,
+    "section_id": "1.1.7",
+    "section_name": "エンティティ認証",
+    "id_kind": "numbered",
+    "parent_id": "1.1",
+    "body": "- **ISO/IEC 9798-2**\n- **ISO/IEC 9798-3**\n- **ISO/IEC 9798-4**"
   },
   {
     "depth": 3,
-    "section_id": "",
-    "section_name": "SHA3 SHA3-384 (Category 4) SHA3-512",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "（注８）セキュリティのカテゴリを合わせて記載する。各カテゴリはNISTの",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "“Submission Requirements and Evaluation Criteria for the Post-Quantum Cryptography Standardization Process”に従い、次のように、カテゴリ名の 右に記載の鍵探索又は衝突探索と同程度以上の計算資源が攻撃に必要である ことを意味する。",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "・Category 1 128ビット鍵を持つブロック暗号に対する鍵探索 ・Category 2 256ビットのハッシュ関数に対する衝突探索 ・Category 3 192ビット鍵を持つブロック暗号に対する鍵探索 ・Category 4 384ビットのハッシュ関数に対する衝突探索 ・Category 5 256ビット鍵を持つブロック暗号に対する鍵探索 https://csrc.nist.gov/CSRC/media/Projects/Post-Quantum-Cryptography/ documents/call-for-proposals-final-dec-2016.pdf （令和８年３月25日現在）",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "4 暗号技術の耐量子計算機暗号（PQC）リストへの追加について検討中である。 https://www.cryptrec.go.jp/report/cryptrec-mt-1501-2026.pdf"
+    "section_id": "1.2",
+    "section_name": "表２ 耐量子計算機暗号（PQC）リスト (Table 2: Post-Quantum Cryptography List)",
+    "id_kind": "numbered",
+    "parent_id": "1",
+    "body": "現行暗号の解読に利用可能な水準の量子計算機（CRQC: Cryptographically Relevant Quantum Computer）への耐性を有することが確認された暗号技術のリスト。\n\n| 技術分類（大分類） | 技術分類（小分類） | 暗号技術（名称） | パラメーターセット（注８） |\n| --- | --- | --- | --- |\n| 公開鍵暗号 | 署名 | － | － |\n| 公開鍵暗号 | 鍵共有 | ML-KEM | ML-KEM-768 (Category 3) ML-KEM-1024 (Category 5) |\n| 共通鍵暗号 | － | AES | AES-192 (Category 3) AES-256 (Category 5) |\n| ハッシュ関数 | － | SHA2 | SHA-384 (Category 4) SHA-512 |\n| ハッシュ関数 | － | SHA3 | SHA3-384 (Category 4) SHA3-512 |\n\n- （注８）セキュリティのカテゴリを合わせて記載する。各カテゴリはNISTの“Submission Requirements and Evaluation Criteria for the Post-Quantum Cryptography Standardization Process”に従い、カテゴリ名の右に記載の鍵探索又は衝突探索と同程度以上の計算資源が攻撃に必要であることを意味する（Category 1: 128ビット鍵ブロック暗号、Category 2: 256ビットハッシュ関数、Category 3: 192ビット鍵ブロック暗号、Category 4: 384ビットハッシュ関数、Category 5: 256ビット鍵ブロック暗号）。"
   },
   {
     "depth": 2,
-    "section_id": "",
-    "section_name": "推奨候補暗号リスト",
-    "id_kind": "",
+    "section_id": "2",
+    "section_name": "推奨候補暗号リスト (Candidate Recommended Ciphers List)",
+    "id_kind": "numbered",
     "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "CRYPTRECにより安全性及び実装性能が確認され、今後、電子政府推奨暗号リ ストに掲載される可能性のある暗号技術5のリスト。なお、本リストに記載され ている暗号技術を利用する際は、「暗号強度要件（アルゴリズム及び鍵長選択） に関する設定基準」6の規定に合致する鍵長を用いることが求められることに留 意すること。",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
+    "body": "CRYPTRECにより安全性及び実装性能が確認され、今後、電子政府推奨暗号リストに掲載される可能性のある暗号技術のリスト。なお、本リストに記載されている暗号技術を利用する際は、「暗号強度要件（アルゴリズム及び鍵長選択）に関する設定基準」の規定に合致する鍵長を用いることが求められることに留意すること。\n\n| 技術分類（大分類） | 技術分類（小分類） | 暗号技術 |\n| --- | --- | --- |\n| 公開鍵暗号 | 署名 | 該当なし |\n| 公開鍵暗号 | 守秘 | 該当なし |\n| 公開鍵暗号 | 鍵共有 | PSEC-KEM（注９） |\n| 共通鍵暗号 | 64ビットブロック暗号（注10） | CIPHERUNICORN-E |\n| 共通鍵暗号 | 64ビットブロック暗号（注10） | Hierocrypt-L1 |\n| 共通鍵暗号 | 64ビットブロック暗号（注10） | MISTY1 |\n| 共通鍵暗号 | 128ビットブロック暗号 | CIPHERUNICORN-A |\n| 共通鍵暗号 | 128ビットブロック暗号 | CLEFIA |\n| 共通鍵暗号 | 128ビットブロック暗号 | Hierocrypt-3 |\n| 共通鍵暗号 | ストリーム暗号 | Enocoro-128v2 |\n| 共通鍵暗号 | ストリーム暗号 | MUGI |\n| 共通鍵暗号 | ストリーム暗号 | MULTI-S01（注11） |\n| ハッシュ関数 | － | 該当なし |\n| 暗号利用モード | 秘匿モード | 該当なし |\n| 暗号利用モード | 認証付き秘匿モード（注12） | 該当なし |\n| メッセージ認証コード | － | PC-MAC-AES |\n| 認証暗号 | － | 該当なし |\n| エンティティ認証 | － | 該当なし |\n\n- （注９）KEM (Key Encapsulating Mechanism) – DEM (Data Encapsulating Mechanism) 構成における利用を前提とする。\n- （注10）CRYPTREC暗号リストにおいて、64ビットブロック暗号により、同一の鍵を用いて暗号化する場合、2^20ブロックまで、同一の鍵を用いてCMACでメッセージ認証コードを生成する場合、2^21ブロックまでとする。\n- （注11）平文サイズは64ビットの倍数に限る。\n- （注12）CRYPTREC暗号リスト掲載のブロック暗号を、認証付き秘匿モードと組み合わせて、「認証暗号」として使うことができる。"
   },
   {
     "depth": 3,
-    "section_id": "",
-    "section_name": "技術分類 暗号技術",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "署名 該当なし 守秘 該当なし 鍵共有 PSEC-KEM（注９）",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
+    "section_id": "2.1",
     "section_name": "公開鍵暗号",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
+    "id_kind": "numbered",
+    "parent_id": "2",
+    "body": "- **該当なし**（署名）\n- **該当なし**（守秘）\n- **PSEC-KEM（注９）**（鍵共有）"
   },
   {
     "depth": 3,
-    "section_id": "",
-    "section_name": "64ビットブロック暗号（注10） CIPHERUNICORN-E Hierocrypt-L1 MISTY1",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "128ビットブロック暗号 CIPHERUNICORN-A CLEFIA Hierocrypt-3",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
+    "section_id": "2.2",
     "section_name": "共通鍵暗号",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
+    "id_kind": "numbered",
+    "parent_id": "2",
+    "body": "- **CIPHERUNICORN-E**（64ビットブロック暗号（注10））\n- **Hierocrypt-L1**（64ビットブロック暗号（注10））\n- **MISTY1**（64ビットブロック暗号（注10））\n- **CIPHERUNICORN-A**（128ビットブロック暗号）\n- **CLEFIA**（128ビットブロック暗号）\n- **Hierocrypt-3**（128ビットブロック暗号）\n- **Enocoro-128v2**（ストリーム暗号）\n- **MUGI**（ストリーム暗号）\n- **MULTI-S01（注11）**（ストリーム暗号）"
   },
   {
     "depth": 3,
-    "section_id": "",
-    "section_name": "Enocoro-128v2 MUGI MULTI-S01（注11） ハッシュ関数 該当なし",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
+    "section_id": "2.3",
+    "section_name": "ハッシュ関数",
+    "id_kind": "numbered",
+    "parent_id": "2",
+    "body": "- **該当なし**"
   },
   {
     "depth": 3,
-    "section_id": "",
-    "section_name": "ストリーム暗号",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
+    "section_id": "2.4",
+    "section_name": "暗号利用モード",
+    "id_kind": "numbered",
+    "parent_id": "2",
+    "body": "- **該当なし**（秘匿モード）\n- **該当なし**（認証付き秘匿モード（注12））"
   },
   {
     "depth": 3,
-    "section_id": "",
-    "section_name": "暗号利用モード 秘匿モード 該当なし 認証付き秘匿モード（注12） 該当なし メッセージ認証コード PC-MAC-AES 認証暗号 該当なし エンティティ認証 該当なし",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
+    "section_id": "2.5",
+    "section_name": "メッセージ認証コード",
+    "id_kind": "numbered",
+    "parent_id": "2",
+    "body": "- **PC-MAC-AES**"
   },
   {
     "depth": 3,
-    "section_id": "",
-    "section_name": "（注９）KEM (Key Encapsulating Mechanism) – DEM (Data Encapsulating Mechanism)",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
+    "section_id": "2.6",
+    "section_name": "認証暗号",
+    "id_kind": "numbered",
+    "parent_id": "2",
+    "body": "- **該当なし**"
   },
   {
     "depth": 3,
-    "section_id": "",
-    "section_name": "構成における利用を前提とする。",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "（注10）CRYPTREC暗号リストにおいて、64ビットブロック暗号により、同一の鍵を用",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "いて暗号化する場合、220ブロックまで、同一の鍵を用いてCMACでメッセージ 認証コードを生成する場合、221ブロックまでとする。",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "（注11）平文サイズは64ビットの倍数に限る。",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "（注12）CRYPTREC暗号リスト掲載のブロック暗号を、認証付き秘匿モードと組み合わ",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "せて、「認証暗号」として使うことができる。",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "5 暗号利用モード、メッセージ認証コード、エンティティ認証は、他の技術分類の暗号技術と組み合わせて利用するこ ととされているが、その場合、CRYPTREC暗号リストに掲載されたいずれかの暗号技術と組み合わせること。 6 CRYPTREC, 暗号強度要件（アルゴリズム及び鍵長選択）に関する設定基準, https://www.cryptrec.go.jp/list.html"
+    "section_id": "2.7",
+    "section_name": "エンティティ認証",
+    "id_kind": "numbered",
+    "parent_id": "2",
+    "body": "- **該当なし**"
   },
   {
     "depth": 2,
-    "section_id": "",
-    "section_name": "運用監視暗号リスト",
-    "id_kind": "",
+    "section_id": "3",
+    "section_name": "運用監視暗号リスト (Monitored Ciphers List)",
+    "id_kind": "numbered",
     "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "実際に解読されるリスクが高まるなど、推奨すべき状態ではなくなったと CRYPTRECにより確認された暗号技術7のうち、互換性維持のために継続利用を容 認するもののリスト。互換性維持8以外の目的での利用は推奨しない。なお、本 リストに記載されている暗号技術を利用する際は、「暗号強度要件（アルゴリ ズム及び鍵長選択）に関する設定基準」9の規定に合致する鍵長を用いることが 求められることに留意すること。",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
+    "body": "実際に解読されるリスクが高まるなど、推奨すべき状態ではなくなったとCRYPTRECにより確認された暗号技術のうち、互換性維持のために継続利用を容認するもののリスト。互換性維持以外の目的での利用は推奨しない。\n\n| 技術分類（大分類） | 技術分類（小分類） | 暗号技術 |\n| --- | --- | --- |\n| 公開鍵暗号 | 署名 | 該当なし |\n| 公開鍵暗号 | 守秘 | RSAES-PKCS1-v1_5（注13） |\n| 公開鍵暗号 | 鍵共有 | 該当なし |\n| 共通鍵暗号 | 64ビットブロック暗号（注14） | 3-key Triple DES（注15） |\n| 共通鍵暗号 | 128ビットブロック暗号 | 該当なし |\n| 共通鍵暗号 | ストリーム暗号 | 該当なし |\n| ハッシュ関数 | － | RIPEMD-160 |\n| ハッシュ関数 | － | SHA-1 |\n| 暗号利用モード | 秘匿モード | 該当なし |\n| 暗号利用モード | 認証付き秘匿モード（注16） | 該当なし |\n| メッセージ認証コード | － | CBC-MAC（注17） |\n| 認証暗号 | － | 該当なし |\n| エンティティ認証 | － | 該当なし |\n\n- （注13）TLS 1.0, 1.1, 1.2で利用実績があることから当面の利用を認める。\n- （注14）CRYPTREC暗号リストにおいて、64ビットブロック暗号により、同一の鍵を用いて暗号化する場合、2^20ブロックまで、同一の鍵を用いてCMACでメッセージ認証コードを生成する場合、2^21ブロックまでとする。\n- （注15）SP 800-67 Revision 2では廃止されているが、本リスト掲載時から安全性・利用実績の状況に大きな変化がないため、掲載を継続する。\n- （注16）CRYPTREC暗号リスト掲載のブロック暗号を、認証付き秘匿モードと組み合わせて、「認証暗号」として使うことができる。\n- （注17）安全性の観点から、メッセージ長を固定して利用すべきである。"
   },
   {
     "depth": 3,
-    "section_id": "",
-    "section_name": "技術分類 暗号技術",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "署名 該当なし 守秘 RSAES-PKCS1-v1_5（注13） 鍵共有 該当なし",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
+    "section_id": "3.1",
     "section_name": "公開鍵暗号",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
+    "id_kind": "numbered",
+    "parent_id": "3",
+    "body": "- **該当なし**（署名）\n- **RSAES-PKCS1-v1_5（注13）**（守秘）\n- **該当なし**（鍵共有）"
   },
   {
     "depth": 3,
-    "section_id": "",
-    "section_name": "64ビットブロック暗号（注14） 3-key Triple DES（注15） 128ビットブロック暗号 該当なし ストリーム暗号 該当なし",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
+    "section_id": "3.2",
     "section_name": "共通鍵暗号",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
+    "id_kind": "numbered",
+    "parent_id": "3",
+    "body": "- **3-key Triple DES（注15）**（64ビットブロック暗号（注14））\n- **該当なし**（128ビットブロック暗号）\n- **該当なし**（ストリーム暗号）"
   },
   {
     "depth": 3,
-    "section_id": "",
-    "section_name": "ハッシュ関数 RIPEMD-160 SHA-1",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
+    "section_id": "3.3",
+    "section_name": "ハッシュ関数",
+    "id_kind": "numbered",
+    "parent_id": "3",
+    "body": "- **RIPEMD-160**\n- **SHA-1**"
   },
   {
     "depth": 3,
-    "section_id": "",
-    "section_name": "暗号利用モード 秘匿モード 該当なし 認証付き秘匿モード（注16） 該当なし メッセージ認証コード CBC-MAC（注17） 認証暗号 該当なし エンティティ認証 該当なし",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
+    "section_id": "3.4",
+    "section_name": "暗号利用モード",
+    "id_kind": "numbered",
+    "parent_id": "3",
+    "body": "- **該当なし**（秘匿モード）\n- **該当なし**（認証付き秘匿モード（注16））"
   },
   {
     "depth": 3,
-    "section_id": "",
-    "section_name": "（注13）TLS 1.0, 1.1, 1.2で利用実績があることから当面の利用を認める。",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
+    "section_id": "3.5",
+    "section_name": "メッセージ認証コード",
+    "id_kind": "numbered",
+    "parent_id": "3",
+    "body": "- **CBC-MAC（注17）**"
   },
   {
     "depth": 3,
-    "section_id": "",
-    "section_name": "（注14）CRYPTREC暗号リストにおいて、64ビットブロック暗号により、同一の鍵を用",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
+    "section_id": "3.6",
+    "section_name": "認証暗号",
+    "id_kind": "numbered",
+    "parent_id": "3",
+    "body": "- **該当なし**"
   },
   {
     "depth": 3,
-    "section_id": "",
-    "section_name": "いて暗号化する場合、220ブロックまで、同一の鍵を用いてCMACでメッセージ 認証コードを生成する場合、221ブロックまでとする。",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "（注15）SP 800-67 Revision 2では廃止されているが、本リスト掲載時から安全性・",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "利用実績の状況に大きな変化がないため、掲載を継続する。",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "（注16）CRYPTREC暗号リスト掲載のブロック暗号を、認証付き秘匿モードと組み合わ",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "せて、「認証暗号」として使うことができる。",
-    "id_kind": "",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "",
-    "section_name": "（注17）安全性の観点から、メッセージ長を固定して利用すべきである。",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "7 暗号利用モード、メッセージ認証コード、エンティティ認証は、他の技術分類の暗号技術と組み合わせて利用するこ ととされているが、その場合、CRYPTREC暗号リストに掲載されたいずれかの暗号技術と組み合わせること。 8 既に稼働中のシステムやアプリケーション等との間での相互運用を継続すること 9 CRYPTREC, 暗号強度要件（アルゴリズム及び鍵長選択）に関する設定基準, https://www.cryptrec.go.jp/list.html"
+    "section_id": "3.7",
+    "section_name": "エンティティ認証",
+    "id_kind": "numbered",
+    "parent_id": "3",
+    "body": "- **該当なし**"
   },
   {
     "depth": 2,
-    "section_id": "",
-    "section_name": "更新履歴情報",
-    "id_kind": "",
+    "section_id": "4",
+    "section_name": "更新履歴情報 (Revision History)",
+    "id_kind": "numbered",
     "parent_id": "",
-    "body": "更新日付 更新箇所 更新前の記述 更新後の記述\n\n注 ［新規追加］ （注18）FIPS PUB 186-5では廃止されてい るが、本リスト掲載時から安全性・利用 実績の状況に大きな変化がないため、掲 載を継続する。\n\n令和６年 ５月16日\n\n注 ［新規追加］ （注19）SP 800-67 Revision 2では廃止さ れているが、本リスト掲載時から安全 性・利用実績の状況に大きな変化がない ため、掲載を継続する。\n\n暗号技術検討会及び関連委員会（以下、 「CRYPTREC」という。）により安全性及 び実装性能が確認された暗号技術につい て、市場における利用実績が十分である か今後の普及が見込まれると判断され、 当該技術の利用を推奨するもののリス ト。\n\n令和８年 ３月30日\n\n電子政府推奨暗号 リスト（本文）\n\n暗号技術検討会及び関連委員会（以下 「CRYPTREC」という。）により安全性 （セキュリティ）及び実装性能が確認さ れた暗号技術について、市場における利 用実績が十分であるか今後の普及が見込 まれると判断され、当該技術の利用を推 奨するもののリスト。\n\n［表の件名付与］ ＜表１ 現行暗号リスト＞\n\n電子政府推奨暗号 リスト（表）\n\n［表の新設］ ＜表２ 耐量子計算機暗号（PQC）リスト＞ 現行暗号の解読に利用可能な水準の量 子計算機（CRQC: Cryptographically Relev ant Quantum Computer）への耐性を有する ことが確認された暗号技術のリスト。\n\n電子政府推奨暗号 リスト（表）\n\n電子政府推奨暗号 リスト（耐量子計 算機暗号（PQC） リスト）\n\n［技術分類の追加］ 技術分類：公開鍵暗号－署名 名称／パラメーターセット：－ 技術分類：公開鍵暗号－鍵共有 名称：ML-KEM パラメーターセット： ML-KEM-768 (Category 3) ML-KEM-1024 (Category 5)\n\n［技術分類の追加］ 技術分類：共通鍵暗号 名称：AES パラメーターセット： AES-192 (Category 3) AES-256 (Category 5)\n\n電子政府推奨暗号 リスト（耐量子計 算機暗号（PQC） リスト）\n\n電子政府推奨暗号 リスト（耐量子計 算機暗号（PQC） リスト）\n\n［技術分類の追加］ 技術分類：ハッシュ関数 名称：SHA2 パラメーターセット： SHA-384 (Category 4) SHA-512 名称：SHA3 パラメーターセット： SHA3-384 (Category 4) SHA3-512\n\n脚注 ５ CRYPTREC, 暗号強度要件（アルゴリ ズム及び鍵長選択）に関する設定基準, https://www.cryptrec.go.jp/list.html\n\n３ CRYPTREC, 暗号強度要件（アルゴリ ズム及び鍵長選択）に関する設定基準, https://www.cryptrec.go.jp/list.html なお、当該設定基準の見直しの検討を行 う予定であり、当面の間、表２（耐量子 計算機暗号（PQC）リスト）の公開鍵暗号 は、当該設定基準を適用しない。\n\n脚注 ［新規追加］ ４ 暗号技術の耐量子計算機暗号（PQC） リストへの追加について検討中である。 https://www.cryptrec.go.jp/report/cry ptrec-mt-1501-2026.pdf\n\n脚注 脚注３、４、７、８ 脚注５、７、８、９\n\n注 （注１）「政府機関の情報システムにお いて使用されている暗号アルゴリズム SHA-1及びRSA1024に係る移行指針」（平 成20年４月情報セキュリティ政策会議決 定、平成24年10月情報セキュリティ対策推 進会議改定）を踏まえて利用すること。 https://www.nisc.go.jp/pdf/policy/gen eral/angou_ikoushishin.pdf （平成25年３月１日現在）\n\n［削除］\n\n注 （注８）「政府機関の情報システムにお いて使用されている暗号アルゴリズム SHA-1及びRSA1024に係る移行指針」（平 成20年４月情報セキュリティ政策会議決 定、平成24年10月情報セキュリティ対策推 進会議改定）を踏まえて利用すること。 https://www.nisc.go.jp/pdf/policy/gen eral/angou_ikoushishin.pdf （平成25年３月１日現在）\n\n［削除］\n\n注 ［新規追加］ （注２）使用するMACはHMACまたはCMACに 限る。\n\n注 ［新規追加］ （注８）セキュリティのカテゴリを合わ せて記載する。各カテゴリはNIST の “Submission Requirements and Evaluation Criteria for the Post-Quantum Cryptography Standardization Process”に従い、次のよう に、カテゴリ名の右に記載の鍵探索又は 衝突探索と同程度以上の計算資源が攻撃 に必要であることを意味する。 ・Category 1 128ビット鍵を持つブロッ\n\nク暗号に対する鍵探索 ・Category 2 256ビットのハッシュ関数\n\nに対する衝突探索 ・Category 3 192ビット鍵を持つブロッ\n\nク暗号に対する鍵探索 ・Category 4 384ビットのハッシュ関数\n\nに対する衝突探索 ・Category 5 256ビット鍵を持つブロッ\n\nク暗号に対する鍵探索 https://csrc.nist.gov/CSRC/media/Projec ts/Post-Quantum-Cryptography/documents/ call-for-proposals-final-dec-2016.pdf （令和８年３月25日現在）\n\n注 注18、２、12、17、13、４、５～７、 14、９、15、19、11 注１、３、４、５、６、７、９～11、 12、13、14、15、17"
+    "body": "| 更新日付 | 更新箇所 | 更新前の記述 | 更新後の記述 |\n| --- | --- | --- | --- |\n| 令和６年 ５月16日 | 注 | ［新規追加］ | （注18）FIPS PUB 186-5では廃止されてい るが、本リスト掲載時から安全性・利用 実績の状況に大きな変化がないため、掲 載を継続する。 |\n| 令和６年 ５月16日 | 注 | ［新規追加］ | （注19）SP 800-67 Revision 2では廃止さ れているが、本リスト掲載時から安全 性・利用実績の状況に大きな変化がない ため、掲載を継続する。 |\n| 令和８年 ３月30日 | 電子政府推奨暗号 リスト（本文） | 暗号技術検討会及び関連委員会（以下、 「CRYPTREC」という。）により安全性及 び実装性能が確認された暗号技術につい て、市場における利用実績が十分である か今後の普及が見込まれると判断され、 当該技術の利用を推奨するもののリス ト。 | 暗号技術検討会及び関連委員会（以下 「CRYPTREC」という。）により安全性 （セキュリティ）及び実装性能が確認さ れた暗号技術について、市場における利 用実績が十分であるか今後の普及が見込 まれると判断され、当該技術の利用を推 奨するもののリスト。 |\n| 令和８年 ３月30日 | 電子政府推奨暗号 リスト（表） | ［表の件名付与］ | ＜表１ 現行暗号リスト＞ |\n| 令和８年 ３月30日 | 電子政府推奨暗号 リスト（表） | ［表の新設］ | ＜表２ 耐量子計算機暗号（PQC）リスト＞ 現行暗号の解読に利用可能な水準の量 子計算機（CRQC: Cryptographically Relev ant Quantum Computer）への耐性を有する ことが確認された暗号技術のリスト。 |\n| 令和８年 ３月30日 | 電子政府推奨暗号 リスト（耐量子計 算機暗号（PQC） リスト） | ［技術分類の追加］ | 技術分類：公開鍵暗号－署名 名称／パラメーターセット：－ 技術分類：公開鍵暗号－鍵共有 名称：ML-KEM パラメーターセット： ML-KEM-768 (Category 3) ML-KEM-1024 (Category 5) |\n| 令和８年 ３月30日 | 電子政府推奨暗号 リスト（耐量子計 算機暗号（PQC） リスト） | ［技術分類の追加］ | 技術分類：共通鍵暗号 名称：AES パラメーターセット： AES-192 (Category 3) AES-256 (Category 5) |\n| 令和８年 ３月30日 | 電子政府推奨暗号 リスト（耐量子計 算機暗号（PQC） リスト） | ［技術分類の追加］ | 技術分類：ハッシュ関数 名称：SHA2 パラメーターセット： SHA-384 (Category 4) SHA-512 名称：SHA3 パラメーターセット： SHA3-384 (Category 4) SHA3-512 |\n| 令和８年 ３月30日 | 脚注 | ５ CRYPTREC, 暗号強度要件（アルゴリ ズム及び鍵長選択）に関する設定基準, https://www.cryptrec.go.jp/list.html | ３ CRYPTREC, 暗号強度要件（アルゴリ ズム及び鍵長選択）に関する設定基準, https://www.cryptrec.go.jp/list.html なお、当該設定基準の見直しの検討を行 う予定であり、当面の間、表２（耐量子 計算機暗号（PQC）リスト）の公開鍵暗号 は、当該設定基準を適用しない。 |\n| 令和８年 ３月30日 | 脚注 | ［新規追加］ | ４ 暗号技術の耐量子計算機暗号（PQC） リストへの追加について検討中である。 https://www.cryptrec.go.jp/report/cry ptrec-mt-1501-2026.pdf |\n| 令和８年 ３月30日 | 脚注 | 脚注３、４、７、８ | 脚注５、７、８、９ |\n| 令和８年 ３月30日 | 注 | （注１）「政府機関の情報システムにお いて使用されている暗号アルゴリズム SHA-1及びRSA1024に係る移行指針」（平 成20年４月情報セキュリティ政策会議決 定、平成24年10月情報セキュリティ対策推 進会議改定）を踏まえて利用すること。 https://www.nisc.go.jp/pdf/policy/gen eral/angou ikoushishin.pdf （平成25年３月１日現在） | ［削除］ |\n| 令和８年 ３月30日 | 注 | （注８）「政府機関の情報システムにお いて使用されている暗号アルゴリズム SHA-1及びRSA1024に係る移行指針」（平 成20年４月情報セキュリティ政策会議決 定、平成24年10月情報セキュリティ対策推 進会議改定）を踏まえて利用すること。 https://www.nisc.go.jp/pdf/policy/gen eral/angou ikoushishin.pdf （平成25年３月１日現在） | ［削除］ |\n| 令和８年 ３月30日 | 注 | ［新規追加］ | （注２）使用するMACはHMACまたはCMACに 限る。 |\n| 令和８年 ３月30日 | 注 | ［新規追加］ | （注８）セキュリティのカテゴリを合わ せて記載する。各カテゴリはNIST の “Submission Requirements and Evaluation Criteria for the Post-Quantum Cryptography Standardization Process”に従い、次のよう に、カテゴリ名の右に記載の鍵探索又は 衝突探索と同程度以上の計算資源が攻撃 に必要であることを意味する。 ・Category 1 128ビット鍵を持つブロッ ク暗号に対する鍵探索 ・Category 2 256ビットのハッシュ関数 に対する衝突探索 ・Category 3 192ビット鍵を持つブロッ ク暗号に対する鍵探索 ・Category 4 384ビットのハッシュ関数 に対する衝突探索 ・Category 5 256ビット鍵を持つブロッ ク暗号に対する鍵探索 https://csrc.nist.gov/CSRC/media/Projec ts/Post-Quantum-Cryptography/documents/ call-for-proposals-final-dec-2016.pdf （令和８年３月25日現在） |\n| 令和８年 ３月30日 | 注 | 注18、２、12、17、13、４、５～７、 14、９、15、19、11 | 注１、３、４、５、６、７、９～11、 12、13、14、15、17 |"
+  },
+  {
+    "depth": 2,
+    "section_id": "5",
+    "section_name": "CRYPTREC Ciphers List Overview (English Reference)",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "CRYPTREC Ciphers List\nThe list of ciphers that should be referred to in the procurement for the e-Government system (CRYPTREC Ciphers List)\nThe Digital Agency, MIC and the METI are evaluating the cryptographic technology used in e-Government through the CRYPTREC activity, and decided upon\n“The list of ciphers that should be referred to in the procurement for the e-Government system (CRYPTREC Ciphers List)”\n(last revision: March 30,2026, CRYPTREC LS-0001-2022R2,\nfirst edition: March 30,2023\n).\nThe CRYPTREC Ciphers List consists of “e-Government Recommended Ciphers List”, “Candidate Recommended Ciphers List” and “Monitored Ciphers List”.\nIn\n“Common Standards for Cybersecurity Measures for Government Agencies and Related Agencies”\n(published by Cybersecurity Strategic Headquarters, June 27, 2025, in Japanese),\ntentative translation version\n, the “e-Government Recommended Ciphers List” is referred as below for information system procurement in governmental organizations.\nThis list is based on the “CRYPTREC e-Government Recommended Ciphers List” formulated in March 2013(\nfirst edition: March 1,2013\n,\nlast revision: March 8,2023, CRYPTREC LS-0001-2012R8\n)was revised. And, CRYPTREC Ciphers List published in March 2013 is a revision\n“e-Goverment Recommended Ciphers List”(first edition: Feb. 20,2003)\n.\nStandards for Cryptographic Strength Requirements (Algorithm and Key Length Selection)\nIt should be noted that many of the cryptographic techniques on the CRYPTREC Cryptographic List allow multiple key lengths for a single algorithm and that the security strength and efficiency will depend on the key length used.\n            So, CRYPTREC decided upon\n“Standards for Cryptographic Strength Requirements (Algorithm and Key Length Selection)”\n, which specified how to select algorithms and key lengths to achieve appropriate security strength in consideration of the operation period of the information system when using cryptographic techniques listed in the CRYPTREC Ciphers List (First release: March 2022,CRYPTREC LS-0003-2022R1).\nNote that, if a key length is used that does not conform to the provisions of this document regarding the key length to be used, it is NOT considered to be using a cryptographic technique on the e-Government Recommended Ciphers List.\nCommon Standards for Cybersecurity Measures for Government Agencies and Related Agencies (Extract)\nInformation system security officers shall, based on the “e-Government Recommended Ciphers List” whose security and performance is confirmed by CRYPTREC (the Cryptography Research and Evaluation Committees), establish encryption and digital signature algorithm and key length used on information systems, a safe protocol using them, and operating procedures for methods to operate them.\n[References]\nCommon Model of Cybersecurity Measures for Government Agencies and Related Agencies(FY2025), tentative translation version\nCommon Standards for Cybersecurity Measures for Government Agencies and Related Agencies(FY2025), tentative translation version\nBACK TO TOP"
+  },
+  {
+    "depth": 2,
+    "section_id": "6",
+    "section_name": "Cryptographic Technique Evaluation in CRYPTREC",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Specifications of CRYPTREC Ciphers List\n“The list of ciphers that shoud be referred to in the procurement of the e-Government system(CRYPTREC Ciphers List)”\n(last revision: March 30,2026, CRYPTREC LS-0001-2022R2) consists of three lists: “e-Government Recommended Ciphers List”, “Candidate Recommended Ciphers List” and “Monitored Ciphers List”.\nThe specifications of the ciphers in these lists are shown in the following tables. Please note that the ciphers listed in the “CRYPTREC Ciphers List” are limited to those in the following tables.\n            For the specifications of the ciphers in the previous “e-Government Recommended Ciphers List”, please refer to\n“Specifications of e-Government Recommended Ciphers”\n.\nSpecifications of ciphers in the e-Government Recommended Ciphers List <Current Ciphers List>\nClassification\nCipher\nSpecification\nPublic key ciphers\nSignature\nDSA\nNIST FIPS PUB 186-4\nECDSA\nSEC 1: Elliptic Curve Cryptography (September 20, 2000 Version 1.0)\n(*3)\nor\nANSI X9.142-2020, Financial Services - Public Key Cryptography for The Financial Services Industry - The Elliptic Curve Digital Signature Algorithm -ECDSA (*2)\nEdDSA\nEdwards-Curve Digital Signature Algorithm (EdDSA), RFC 8032 (January, 2017)\nor\nNIST FIPS PUB 186-5\nRSA-PSS\nPKCS #1: RSA Cryptography Specifications Version 2.2, RFC 8017 (November, 2016)\nRSASSA-PKCS1-v1_5\nPKCS #1: RSA Cryptography Specifications Version 2.2, RFC 8017 (November, 2016)\nConfidentiality\nRSA-OAEP\nPKCS #1: RSA Cryptography Specifications Version 2.2, RFC 8017 (November, 2016)\nKey exchange\nDH\nANSI X9.42-2003, Public Key Cryptography for the Financial Services Industry: Agreement of Symmetric Keys Using Discrete Logarithm Cryptography (*2)\nor\nSpecified as FFC DH primitive in\nNIST SP 800-56A Revision 2 (May 2013)\nECDH\nSEC 1: Elliptic Curve Cryptography (September 20, 2000 Version 1.0)\n(*3)\nor\nSpecified as C(2e, 0s, ECC CDH) in\nNIST SP 800-56A Revision 3 (April 2018)\n(*4)\nSymmetric key ciphers\n64-bit block ciphers\nNA\n128-bit block ciphers\nAES\nNIST FIPS PUB 197\nCamellia\nAlgorithm specifications of 128-bits block cipher Camelia (2nd version: September 26, 2001)\nStream ciphers\nKCipher-2\nStream Cipher KCipher-2 (March 31, 2017 Version1.2)\nHash functions\nSHA-256\nNIST FIPS PUB 180-4\nSHA-384\nNIST FIPS PUB 180-4\nSHA-512\nNIST FIPS PUB 180-4\nSHA-512/256\nNIST FIPS PUB 180-4\nSHA3-256\nNIST FIPS PUB 202\nSHA3-384\nNIST FIPS PUB 202\nSHA3-512\nNIST FIPS PUB 202\nSHAKE128\nNIST FIPS PUB 202\nSHAKE256\nNIST FIPS PUB 202\nModes of operation\nEncryption modes\nCBC\nNIST SP 800-38A\nCFB\nNIST SP 800-38A\nCTR\nNIST SP 800-38A\nOFB\nNIST SP 800-38A\nXTS\nNIST SP 800-38E\nAuthenticated encryption modes\nCCM\nNIST SP 800-38C\nGCM\nNIST SP 800-38D\nMessage authentication codes\nCMAC\nNIST SP 800-38B\nHMAC\nNIST FIPS PUB 198-1\nAuthenticated encryption\nChaCha20-Poly1305\nChaCha20 and Poly1305 for IETF Protocols, RFC 8439 (June 2018)\nEntity authentication\nISO/IEC 9798-2 (*1)\nISO/IEC 9798-2:2008,\nISO/IEC 9798-2:2008/Cor 1:2010,\nISO/IEC 9798-2:2008/Cor 2:2012,\nISO/IEC 9798-2:2008/Cor 3:2013\nISO/IEC 9798-3 (*1)\nISO/IEC 9798-3:1998,\nISO/IEC 9798-3:1998/Amd 1:2010,\nISO/IEC 9798-3:1998/Cor 1:2009,\nISO/IEC 9798-3:1998/Cor 2:2012\nISO/IEC 9798-4(*1)\nISO/IEC 9798-4:1999，\nISO/IEC 9798-4:1999/Cor 1:2009,\nISO/IEC 9798-4:1999/Cor 2:2012\n(*1) Specifications can be purchased from\nJapanese Standards Association\n.\n(*2) Specifications can be purchased from\nhttps://www.x9.org/\n.\n(*3) A newer version has been published. CRYPTREC is considering the change of reference.\n(*4) The message authentication code algorithm shall be selected from HMAC and AES-CMAC.\nWhen a specification is linked to outside of this domain, the specification is managed by the linked organization.\nIf you find a broken link, please inform it to CRYPTREC Secretariat.\nBACK TO TOP\nSpecifications of ciphers in the e-Government Recommended Ciphers List <PQC List>\nClassification\nCipher\nSpecification\nPublic key ciphers\nSignature\n—\n—\nKey exchange\nML-KEM\nNIST FIPS PUB 203\nSymmetric key ciphers\nAES\nNIST FIPS PUB 197\nHash functions\nSHA-384\nNIST FIPS PUB 180-4\nSHA-512\nNIST FIPS PUB 180-4\nSHA3-384\nNIST FIPS PUB 202\nSHA3-512\nNIST FIPS PUB 202\nWhen a specification is linked to outside of this domain, the specification is managed by the linked organization.\n              If you find a broken link, please inform it to CRYPTREC Secretariat.\nBACK TO TOP\nSpecifications of ciphers in the Candidate Recommended Ciphers List\nClassification\nCipher\nSpecification\nPublic key ciphers\nSignature\nNA\nConfidentiality\nNA\nKey exchange\nPSEC-KEM\nPSEC-KEM specification (April 14, 2008)\nSymmetric key ciphers\n64-bit block ciphers\nCIPHERUNICORN-E\nCryptographic specifications CIPHERUNICORN-E (May 8, 2002)\nHierocrypt-L1\nCryptographic specifications :Hierocrypt-L1 (May 2002)\nMISTY1\nCryptographic specifications MISTY1 (updated May 13, 2002)\n128-bit block ciphers\nCIPHERUNICORN-A\nCryptographic specifications CIPHERUNICORN-A (May 8, 2002)\nCLEFIA\nThe 128-bit Blockcipher CLEFIA Specification Version 1.0 (January 29, 2010)\nHierocrypt-3\nSpecification on a Block Cipher : Hierocrypt-3 (May 2002)\nStream ciphers\nMUGI\nPseudo random number generator MUGI specifications, version 1.3 (May 14, 2002)\nEnocoro-128v2\nPseudorandom Number Generator Enocoro, Specification Ver. 2.0 (2 February 2010)\nMULTI-S01\nSpecifications MULTI-S01; Ciphers, Version 1.2 (May 14, 2002)\nHash functions\nNA\nModes of operation\nEncryption modes\nNA\nAuthenticated encryption modes\nNA\nMessage authentication codes\nPC-MAC-AES\nSpecification of Cryptographic Technique PC-MAC-AES (February 3, 2010)\nAuthenticated encryption\nNA\nEntity authentication\nNA\nWhen a specification is linked to outside of this domain, the specification is managed by the linked organization.\nIf you find a broken link, please inform it to CRYPTREC Secretariat.\nBACK TO TOP\nSpecifications of ciphers in the Monitored Ciphers List\nClassification\nCipher\nSpecification\nPublic key ciphers\nSignature\nNA\nConfidentiality\nRSAES-PKCS1-v1_5\nPKCS #1: RSA Cryptography Specifications Version 2.2, RFC 8017 (November, 2016)\nKey exchange\nNA\nSymmetric key ciphers\n64-bit block ciphers\n3-key Triple DES\nNIST SP 800-67 Revision 2 (November 2017)\n128-bit block ciphers\nNA\nStream ciphers\nNA\nHash functions\nRIPEMD-160\nThe hash function RIPEMD-160\nSHA-1\nNIST FIPS PUB 180-4\nModes of operation\nEncryption modes\nNA\nAuthenticated encryption modes\nNA\nMessage authentication codes\nCBC-MAC\nISO/IEC 9797-1:2011 (*1)\nAuthenticated encryption\nNA\nEntity authentication\nNA\n(*1) Specifications can be purchased from\nJapanese Standards Association\n.\nWhen a specification is linked to outside of this domain, the specification is managed by the linked organization.\n              If you find a broken link, please inform it to CRYPTREC Secretariat.\nContact: CRYPTREC Secretariat\nBACK TO TOP"
   }
 ]

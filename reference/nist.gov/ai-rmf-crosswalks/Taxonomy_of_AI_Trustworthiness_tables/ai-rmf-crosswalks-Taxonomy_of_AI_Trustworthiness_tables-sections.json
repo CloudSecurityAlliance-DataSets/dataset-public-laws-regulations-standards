@@ -5,63 +5,7 @@
     "section_name": "Valid and Reliable",
     "id_kind": "",
     "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: Valid and Reliable\n\nProperties of\nTrustworthiness: Fit for Purpose\n\nQuestion(s) to Consider: How will we assess whether the AI system\nis fit for purpose for each intended use and\nprovides a valid solution for the problems we\nare trying to solve? How will we ensure that\ninappropriate uses are rejected?\n\nRelevant NIST AI RMF\nSubcategories: Govern 5.1\nMap 1.1\nMap 1.2\nMap 1.3\nMap 1.4\nMap 3.1\nMap 3.2\nMap 3.3\nManage 1.1"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Predictable and\nDependable",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Predictable and\nDependable\n\nQuestion(s) to Consider: How will we ensure that the AI system will\nbehave as expected? If the AI system is\nnot fully predictable, how will we assess\nwhether it can still be depended upon for\nour purposes?\n\nRelevant NIST AI RMF\nSubcategories: Govern 4.1\nGovern 4.2\nGovern 4.3\nMap 2.2\nMap 2.3\nMeasure 2.3\nMeasure 2.4\nMeasure 2.5\nMeasure 2.6\nMeasure 2.7\nManage 2.4\nManage 4.1"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Appropriate Level of\nAutomation",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Appropriate Level of\nAutomation\n\nQuestion(s) to Consider: How will we determine the desired and\nappropriate degree of automation, given the\nAI system's characteristics and the context\nof its uses?\n\nRelevant NIST AI RMF\nSubcategories: Govern 3.2\nMap 1.1\nMap 1.2\nMap 1.3\nMap 2.2\nMap 3.5\nMeasure 4.2\nManage 1.1\nManage 4.1"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "NIST Characteristics of\nTrustworthiness",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: NIST Characteristics of\nTrustworthiness\n\nProperties of\nTrustworthiness: Properties of\nTrustworthiness\n\nQuestion(s) to Consider: Question(s) to Consider\n\nRelevant NIST AI RMF\nSubcategories: Relevant NIST AI RMF\nSubcategories"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "High Quality AI\nSystem Configuration",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: High Quality AI\nSystem Configuration\n\nQuestion(s) to Consider: How will we assess the quality of the AI\nsystem design and configuration and ensure\nconsistently high quality? For example, how\nwill we assess and ensure the quality of all\nof the software components integrated\ninto the AI system? How will we assess and\nensure the quality of the hardware for the AI\nsystem, such as AI chips, including graphics\nprocessing units (GPUs), field-programmable\ngate arrays (FPGAs), and application-specific\nintegrated circuits (ASICs)?\n\nRelevant NIST AI RMF\nSubcategories: Govern 4.3\nGovern 5.2\nGovern 6.1\nMap 1.6\nMap 2.3\nMeasure 1.3\nMeasure 2.3\nMeasure 3.3\nManage 3.1\nManage 3.2\nManage 4.1"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "High Quality Network\nResources and\nServices",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: High Quality Network\nResources and\nServices\n\nQuestion(s) to Consider: How will we assess and ensure the quality of\nshared network resources and services, e.g.,\ndistributed dataset access?\n\nRelevant NIST AI RMF\nSubcategories: Govern 6.1\nGovern 6.2\nMap 2.3\nMap 4.1\nMap 4.2\nMeasure 2.3\nMeasure 2.4\nMeasure 3.1\nMeasure 3.3\nManage 3.1\nManage 3.2"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Trusted Dependencies\non External Parties",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Trusted Dependencies\non External Parties\n\nQuestion(s) to Consider: How will we identify, assess, and monitor our\ndependencies on external parties?\n\nRelevant NIST AI RMF\nSubcategories: Govern 6.1\nGovern 6.2\nMap 4.1\nMap 4.2\nManage 3.1\nManage 3.2"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Foresight and\nScenario Planning",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Foresight and\nScenario Planning\n\nQuestion(s) to Consider: How will we assess and navigate possible\nfutures and the evolving risk landscape?\n\nRelevant NIST AI RMF\nSubcategories: Govern 3.1\nGovern 4.1\nMap 1.1\nMap 1.2\nMap 3.1\nMap 3.2\nMeasure 3.1\nMeasure 3.2"
+    "body": "NIST Characteristics of Trustworthiness: Valid and Reliable\n\nProperties of Trustworthiness: Fit for Purpose\n\nQuestion(s) to Consider: How will we assess whether the AI system\nis fit for purpose for each intended use and\nprovides a valid solution for the problems we\nare trying to solve? How will we ensure that\ninappropriate uses are rejected?\n\nRelevant NIST AI RMF Subcategories: Govern 5.1\nMap 1.1\nMap 1.2\nMap 1.3\nMap 1.4\nMap 3.1\nMap 3.2\nMap 3.3\nManage 1.1\n\nProperties of Trustworthiness: Predictable and\nDependable | Question(s) to Consider: How will we ensure that the AI system will\nbehave as expected? If the AI system is\nnot fully predictable, how will we assess\nwhether it can still be depended upon for\nour purposes? | Relevant NIST AI RMF Subcategories: Govern 4.1\nGovern 4.2\nGovern 4.3\nMap 2.2\nMap 2.3\nMeasure 2.3\nMeasure 2.4\nMeasure 2.5\nMeasure 2.6\nMeasure 2.7\nManage 2.4\nManage 4.1\n\nProperties of Trustworthiness: Appropriate Level of\nAutomation | Question(s) to Consider: How will we determine the desired and\nappropriate degree of automation, given the\nAI system's characteristics and the context\nof its uses? | Relevant NIST AI RMF Subcategories: Govern 3.2\nMap 1.1\nMap 1.2\nMap 1.3\nMap 2.2\nMap 3.5\nMeasure 4.2\nManage 1.1\nManage 4.1\n\nProperties of Trustworthiness: High Quality AI\nSystem Configuration | Question(s) to Consider: How will we assess the quality of the AI\nsystem design and configuration and ensure\nconsistently high quality? For example, how\nwill we assess and ensure the quality of all\nof the software components integrated\ninto the AI system? How will we assess and\nensure the quality of the hardware for the AI\nsystem, such as AI chips, including graphics\nprocessing units (GPUs), field-programmable\ngate arrays (FPGAs), and application-specific\nintegrated circuits (ASICs)? | Relevant NIST AI RMF Subcategories: Govern 4.3\nGovern 5.2\nGovern 6.1\nMap 1.6\nMap 2.3\nMeasure 1.3\nMeasure 2.3\nMeasure 3.3\nManage 3.1\nManage 3.2\nManage 4.1\n\nProperties of Trustworthiness: High Quality Network\nResources and\nServices | Question(s) to Consider: How will we assess and ensure the quality of\nshared network resources and services, e.g.,\ndistributed dataset access? | Relevant NIST AI RMF Subcategories: Govern 6.1\nGovern 6.2\nMap 2.3\nMap 4.1\nMap 4.2\nMeasure 2.3\nMeasure 2.4\nMeasure 3.1\nMeasure 3.3\nManage 3.1\nManage 3.2\n\nProperties of Trustworthiness: Trusted Dependencies\non External Parties | Question(s) to Consider: How will we identify, assess, and monitor our\ndependencies on external parties? | Relevant NIST AI RMF Subcategories: Govern 6.1\nGovern 6.2\nMap 4.1\nMap 4.2\nManage 3.1\nManage 3.2\n\nProperties of Trustworthiness: Foresight and\nScenario Planning | Question(s) to Consider: How will we assess and navigate possible\nfutures and the evolving risk landscape? | Relevant NIST AI RMF Subcategories: Govern 3.1\nGovern 4.1\nMap 1.1\nMap 1.2\nMap 3.1\nMap 3.2\nMeasure 3.1\nMeasure 3.2"
   },
   {
     "depth": 2,
@@ -69,111 +13,15 @@
     "section_name": "Safe",
     "id_kind": "",
     "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: Safe\n\nProperties of\nTrustworthiness: Protection of Physical\nand Psychological\nSafety\n\nQuestion(s) to Consider: How will we ensure that the AI system will\nnot cause physical or psychological harm or\nlead to a state in which human life, health,\nproperty, or the environment is endangered?\nHow will we anticipate potential failure\nmodes or unsafe conditions?\n\nRelevant NIST AI RMF\nSubcategories: Govern 1.7\nGovern 4.1\nGovern 4.2\nGovern 4.3\nGovern 5.1\nGovern 5.2\nGovern 6.2\nMap 1.1\nMeasure 1.2\nMeasure 1.3\nMeasure 2.6\nMeasure 3.1\nMeasure 3.3\nManage 2.4\nManage 4.1"
+    "body": "NIST Characteristics of Trustworthiness: Safe\n\nProperties of Trustworthiness: Protection of Physical\nand Psychological\nSafety\n\nQuestion(s) to Consider: How will we ensure that the AI system will\nnot cause physical or psychological harm or\nlead to a state in which human life, health,\nproperty, or the environment is endangered?\nHow will we anticipate potential failure\nmodes or unsafe conditions?\n\nRelevant NIST AI RMF Subcategories: Govern 1.7\nGovern 4.1\nGovern 4.2\nGovern 4.3\nGovern 5.1\nGovern 5.2\nGovern 6.2\nMap 1.1\nMeasure 1.2\nMeasure 1.3\nMeasure 2.6\nMeasure 3.1\nMeasure 3.3\nManage 2.4\nManage 4.1\n\nProperties of Trustworthiness: Assurance /\nManagement of\nUncertainty | Question(s) to Consider: If we do not know all of the elements\nrequired for the safe development and\ndeployment of the AI system, how will we\nmanage this uncertainty? | Relevant NIST AI RMF Subcategories: Govern 4.1\nGovern 4.2\nGovern 4.3\nMeasure 2.6\nMeasure 3.2\nManage 2.3\nManage 4.1\n\nProperties of Trustworthiness: Assurance /\nManagement of Multi\nCapability / Multi\nModal Systems | Question(s) to Consider: If an AI system has multiple capabilities or\nworks across multiple modalities, how will\nwe document and manage this complexity? | Relevant NIST AI RMF Subcategories: Govern 4.1\nGovern 4.2\nGovern 4.3\nMap 1.1\nMap 2.2\nMap 3.3\nMeasure 3.1\nMeasure 3.2\nMeasure 3.3\nManage 2.3\nManage 2.4\nManage 4.1\n\nProperties of Trustworthiness: Alignment with\nHuman Values | Question(s) to Consider: How will we ensure that the AI system abides\nby desired human values and does not\nsacrifice human values to achieve its narrow\ngoals? | Relevant NIST AI RMF Subcategories: Govern 3.1\nGovern 4.1\nGovern 4.2\nMap 1.1\nMap 1.2\nMap 1.6\nMap 3.5\nMeasure 2.6\nMeasure 3.1\nMeasure 3.3\nManage 4.1\n\nProperties of Trustworthiness: Governable | Question(s) to Consider: How will we ensure an AI system is designed\nand engineered to achieve its goals while\nmaintaining the ability to disengage or\ndeactivate the system if necessary? How\nwill we ensure an AI system would not have\nincentives to resist or deceive its operators? | Relevant NIST AI RMF Subcategories: Govern 4.1\nMap 2.2\nMeasure 2.4\nMeasure 2.5\nMeasure 2.6\nManage 2.4"
   },
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "NIST Characteristics of\nTrustworthiness",
+    "section_name": "Fair with Harmful Bias Managed",
     "id_kind": "",
     "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: NIST Characteristics of\nTrustworthiness\n\nProperties of\nTrustworthiness: Properties of\nTrustworthiness\n\nQuestion(s) to Consider: Question(s) to Consider\n\nRelevant NIST AI RMF\nSubcategories: Relevant NIST AI RMF\nSubcategories"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Assurance /\nManagement of\nUncertainty",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Assurance /\nManagement of\nUncertainty\n\nQuestion(s) to Consider: If we do not know all of the elements\nrequired for the safe development and\ndeployment of the AI system, how will we\nmanage this uncertainty?\n\nRelevant NIST AI RMF\nSubcategories: Govern 4.1\nGovern 4.2\nGovern 4.3\nMeasure 2.6\nMeasure 3.2\nManage 2.3\nManage 4.1"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Assurance /\nManagement of Multi\nCapability / Multi\nModal Systems",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Assurance /\nManagement of Multi\nCapability / Multi\nModal Systems\n\nQuestion(s) to Consider: If an AI system has multiple capabilities or\nworks across multiple modalities, how will\nwe document and manage this complexity?\n\nRelevant NIST AI RMF\nSubcategories: Govern 4.1\nGovern 4.2\nGovern 4.3\nMap 1.1\nMap 2.2\nMap 3.3\nMeasure 3.1\nMeasure 3.2\nMeasure 3.3\nManage 2.3\nManage 2.4\nManage 4.1"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Alignment with\nHuman Values",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Alignment with\nHuman Values\n\nQuestion(s) to Consider: How will we ensure that the AI system abides\nby desired human values and does not\nsacrifice human values to achieve its narrow\ngoals?\n\nRelevant NIST AI RMF\nSubcategories: Govern 3.1\nGovern 4.1\nGovern 4.2\nMap 1.1\nMap 1.2\nMap 1.6\nMap 3.5\nMeasure 2.6\nMeasure 3.1\nMeasure 3.3\nManage 4.1"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Governable",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Governable\n\nQuestion(s) to Consider: How will we ensure an AI system is designed\nand engineered to achieve its goals while\nmaintaining the ability to disengage or\ndeactivate the system if necessary? How\nwill we ensure an AI system would not have\nincentives to resist or deceive its operators?\n\nRelevant NIST AI RMF\nSubcategories: Govern 4.1\nMap 2.2\nMeasure 2.4\nMeasure 2.5\nMeasure 2.6\nManage 2.4"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Fair with Harmful Bias\nManaged",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: Fair with Harmful Bias\nManaged\n\nProperties of\nTrustworthiness: Diverse\n\nQuestion(s) to Consider: How will we ensure that gender, racial,\nage, ability, religious, cultural, disciplinary,\nand other relevant types of diversity are\nrepresented within the teams influencing AI\ndevelopment and use, throughout all stages\nof the AI lifecycle?\n\nRelevant NIST AI RMF\nSubcategories: Govern 2.1\nGovern 3.1\nGovern 5.1\nMap 1.2\nMeasure 1.3\nMeasure 2.2\nMeasure 4.2"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "NIST Characteristics of\nTrustworthiness",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: NIST Characteristics of\nTrustworthiness\n\nProperties of\nTrustworthiness: Properties of\nTrustworthiness\n\nQuestion(s) to Consider: Question(s) to Consider\n\nRelevant NIST AI RMF\nSubcategories: Relevant NIST AI RMF\nSubcategories"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Inclusive",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Inclusive\n\nQuestion(s) to Consider: How will we ensure inclusivity of all relevant\nexperts and communities in the design and\ndevelopment of the AI system?\n\nRelevant NIST AI RMF\nSubcategories: Govern 2.1\nGovern 3.1\nGovern 3.2\nGovern 5.1\nGovern 5.2\nMap 1.2\nMeasure 1.3\nMeasure 2.2\nMeasure 3.3\nMeasure 4.2\nManage 4.2"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Equitable",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Equitable\n\nQuestion(s) to Consider: How will we navigate structural power\ndynamics and promote equity in the design\nand use of the AI system? (For example, how\nwill different communities be given power\nto influence decisions? Who will experience\npotential benefits of the AI system and who\nwill experience potential harms?)\n\nRelevant NIST AI RMF\nSubcategories: Govern 3.1\nGovern 5.1\nGovern 5.2\nMap 1.1\nMap 1.2\nMap 5.1\nMap 5.2\nMeasure 1.2\nMeasure 1.3\nMeasure 2.2\nMeasure 2.11\nMeasure 3.3\nMeasure 4.3\nManage 4.1"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Just",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Just\n\nQuestion(s) to Consider: How will we ensure justice in the design and\nuse of the AI system? (For example, are all\nthe people involved in the training, design,\nand development of the AI system treated\nfairly, even in less visible roles, such as data\nannotators?)\n\nRelevant NIST AI RMF\nSubcategories: Govern 3.1\nGovern 4.2\nGovern 4.3\nGovern 5.1\nGovern 5.2\nMap 1.1\nMap 1.2\nMap 5.1\nMap 5.2\nMeasure 1.2\nMeasure 1.3\nMeasure 2.2\nMeasure 2.11\nMeasure 3.3\nMeasure 4.3\nManage 4.1\nManage 4.3"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "NIST Characteristics of\nTrustworthiness",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: NIST Characteristics of\nTrustworthiness\n\nProperties of\nTrustworthiness: Properties of\nTrustworthiness\n\nQuestion(s) to Consider: Question(s) to Consider\n\nRelevant NIST AI RMF\nSubcategories: Relevant NIST AI RMF\nSubcategories"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Mitigation of Systemic\nand Human Bias",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Mitigation of Systemic\nand Human Bias\n\nQuestion(s) to Consider: How will we assess and mitigate ways\nin which systemic and human bias may\ninfluence the design, development, and\ndeployment of the AI system?\n\nRelevant NIST AI RMF\nSubcategories: Govern 2.2\nGovern 3.1\nGovern 4.3\nGovern 5.1\nGovern 5.2\nMap 1.1\nMap 1.2\nMap 5.1\nMap 5.2\nMeasure 1.3\nMeasure 2.11\nMeasure 3.3\nMeasure 4.3\nManage 4.1"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Solidarity",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Solidarity\n\nQuestion(s) to Consider: How will we ensure the design and use of the\nAI system respects the solidarity of groups\nand communities, such as workers, women,\npeople with disabilities, ethnic minorities,\nchildren, or others?\n\nRelevant NIST AI RMF\nSubcategories: Govern 3.1\nGovern 3.2\nGovern 4.2\nGovern 5.1\nGovern 5.2\nMap 1.1\nMap 1.2\nMap 5.1\nMap 5.2\nMeasure 1.3\nMeasure 3.3\nMeasure 4.3\nManage 4.1"
+    "body": "NIST Characteristics of Trustworthiness: Fair with Harmful Bias\nManaged\n\nProperties of Trustworthiness: Diverse\n\nQuestion(s) to Consider: How will we ensure that gender, racial,\nage, ability, religious, cultural, disciplinary,\nand other relevant types of diversity are\nrepresented within the teams influencing AI\ndevelopment and use, throughout all stages\nof the AI lifecycle?\n\nRelevant NIST AI RMF Subcategories: Govern 2.1\nGovern 3.1\nGovern 5.1\nMap 1.2\nMeasure 1.3\nMeasure 2.2\nMeasure 4.2\n\nProperties of Trustworthiness: Inclusive | Question(s) to Consider: How will we ensure inclusivity of all relevant\nexperts and communities in the design and\ndevelopment of the AI system? | Relevant NIST AI RMF Subcategories: Govern 2.1\nGovern 3.1\nGovern 3.2\nGovern 5.1\nGovern 5.2\nMap 1.2\nMeasure 1.3\nMeasure 2.2\nMeasure 3.3\nMeasure 4.2\nManage 4.2\n\nProperties of Trustworthiness: Equitable | Question(s) to Consider: How will we navigate structural power\ndynamics and promote equity in the design\nand use of the AI system? (For example, how\nwill different communities be given power\nto influence decisions? Who will experience\npotential benefits of the AI system and who\nwill experience potential harms?) | Relevant NIST AI RMF Subcategories: Govern 3.1\nGovern 5.1\nGovern 5.2\nMap 1.1\nMap 1.2\nMap 5.1\nMap 5.2\nMeasure 1.2\nMeasure 1.3\nMeasure 2.2\nMeasure 2.11\nMeasure 3.3\nMeasure 4.3\nManage 4.1\n\nProperties of Trustworthiness: Just | Question(s) to Consider: How will we ensure justice in the design and\nuse of the AI system? (For example, are all\nthe people involved in the training, design,\nand development of the AI system treated\nfairly, even in less visible roles, such as data\nannotators?) | Relevant NIST AI RMF Subcategories: Govern 3.1\nGovern 4.2\nGovern 4.3\nGovern 5.1\nGovern 5.2\nMap 1.1\nMap 1.2\nMap 5.1\nMap 5.2\nMeasure 1.2\nMeasure 1.3\nMeasure 2.2\nMeasure 2.11\nMeasure 3.3\nMeasure 4.3\nManage 4.1\nManage 4.3\n\nProperties of Trustworthiness: Mitigation of Systemic\nand Human Bias | Question(s) to Consider: How will we assess and mitigate ways\nin which systemic and human bias may\ninfluence the design, development, and\ndeployment of the AI system? | Relevant NIST AI RMF Subcategories: Govern 2.2\nGovern 3.1\nGovern 4.3\nGovern 5.1\nGovern 5.2\nMap 1.1\nMap 1.2\nMap 5.1\nMap 5.2\nMeasure 1.3\nMeasure 2.11\nMeasure 3.3\nMeasure 4.3\nManage 4.1\n\nProperties of Trustworthiness: Solidarity | Question(s) to Consider: How will we ensure the design and use of the\nAI system respects the solidarity of groups\nand communities, such as workers, women,\npeople with disabilities, ethnic minorities,\nchildren, or others? | Relevant NIST AI RMF Subcategories: Govern 3.1\nGovern 3.2\nGovern 4.2\nGovern 5.1\nGovern 5.2\nMap 1.1\nMap 1.2\nMap 5.1\nMap 5.2\nMeasure 1.3\nMeasure 3.3\nMeasure 4.3\nManage 4.1"
   },
   {
     "depth": 2,
@@ -181,55 +29,15 @@
     "section_name": "Secure and Resilient",
     "id_kind": "",
     "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: Secure and Resilient\n\nProperties of\nTrustworthiness: Security-by-Design\n\nQuestion(s) to Consider: How will we build security into the AI system\ndesign, testing, deployment, and operation?\nHow often will we provide security updates\nto the AI system?\n\nRelevant NIST AI RMF\nSubcategories: Govern 4.1\nGovern 4.2\nGovern 4.3\nGovern 6.1\nMap 1.1\nMap 1.6\nMap 2.3\nMap 4.2\nMeasure 2.7\nManage 2.4"
+    "body": "NIST Characteristics of Trustworthiness: Secure and Resilient\n\nProperties of Trustworthiness: Security-by-Design\n\nQuestion(s) to Consider: How will we build security into the AI system\ndesign, testing, deployment, and operation?\nHow often will we provide security updates\nto the AI system?\n\nRelevant NIST AI RMF Subcategories: Govern 4.1\nGovern 4.2\nGovern 4.3\nGovern 6.1\nMap 1.1\nMap 1.6\nMap 2.3\nMap 4.2\nMeasure 2.7\nManage 2.4\n\nProperties of Trustworthiness: Availability | Question(s) to Consider: How will we ensure that information for and\nabout the AI system is available to authorized\npersonnel when it is needed? | Relevant NIST AI RMF Subcategories: Govern 4.1\nGovern 4.3\nGovern 6.1\nGovern 6.2\nMap 1.1\nMap 2.3\nMeasure 2.7\nMeasure 2.9\n\nProperties of Trustworthiness: Confidentiality | Question(s) to Consider: How will we ensure that information is not\nmade available or disclosed to unauthorized\nindividuals, entities, or processes? | Relevant NIST AI RMF Subcategories: Govern 4.1\nGovern 4.3\nGovern 6.1\nGovern 6.2\nMap 1.1\nMap 2.3\nMeasure 2.7\nMeasure 2.10\n\nProperties of Trustworthiness: Integrity | Question(s) to Consider: How will we maintain and ensure the\naccuracy, completeness, and appropriateness\nof data, models, and procedures informing\nthe AI system? | Relevant NIST AI RMF Subcategories: Govern 4.1\nGovern 4.3\nGovern 6.1\nGovern 6.2\nMap 1.1\nMap 2.3\nMeasure 2.7\nMeasure 2.9"
   },
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "Availability",
+    "section_name": "Explainable and Interpretable",
     "id_kind": "",
     "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Availability\n\nQuestion(s) to Consider: How will we ensure that information for and\nabout the AI system is available to authorized\npersonnel when it is needed?\n\nRelevant NIST AI RMF\nSubcategories: Govern 4.1\nGovern 4.3\nGovern 6.1\nGovern 6.2\nMap 1.1\nMap 2.3\nMeasure 2.7\nMeasure 2.9"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Confidentiality",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Confidentiality\n\nQuestion(s) to Consider: How will we ensure that information is not\nmade available or disclosed to unauthorized\nindividuals, entities, or processes?\n\nRelevant NIST AI RMF\nSubcategories: Govern 4.1\nGovern 4.3\nGovern 6.1\nGovern 6.2\nMap 1.1\nMap 2.3\nMeasure 2.7\nMeasure 2.10"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "NIST Characteristics of\nTrustworthiness",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: NIST Characteristics of\nTrustworthiness\n\nProperties of\nTrustworthiness: Properties of\nTrustworthiness\n\nQuestion(s) to Consider: Question(s) to Consider\n\nRelevant NIST AI RMF\nSubcategories: Relevant NIST AI RMF\nSubcategories"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Integrity",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Integrity\n\nQuestion(s) to Consider: How will we maintain and ensure the\naccuracy, completeness, and appropriateness\nof data, models, and procedures informing\nthe AI system?\n\nRelevant NIST AI RMF\nSubcategories: Govern 4.1\nGovern 4.3\nGovern 6.1\nGovern 6.2\nMap 1.1\nMap 2.3\nMeasure 2.7\nMeasure 2.9"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Explainable and\nInterpretable",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: Explainable and\nInterpretable\n\nProperties of\nTrustworthiness: Intelligible*\n\nQuestion(s) to Consider: How will we assess the system for intelligible\nexplanations and select a model to support\nthis?\n\nRelevant NIST AI RMF\nSubcategories: Map 1.1\nMap 2.2\nMeasure 2.9"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Positive Human\nMachine Interaction",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Positive Human\nMachine Interaction*\n\nQuestion(s) to Consider: How will we enable positive human-machine\ninteractions throughout the AI system's\noperation?\n\nRelevant NIST AI RMF\nSubcategories: Govern 3.2\nMap 1.1\nMap 1.2\nMap 2.2\nMap 3.5\nMap 5.2\nMeasure 2.9"
+    "body": "NIST Characteristics of Trustworthiness: Explainable and\nInterpretable\n\nProperties of Trustworthiness: Intelligible*\n\nQuestion(s) to Consider: How will we assess the system for intelligible\nexplanations and select a model to support\nthis?\n\nRelevant NIST AI RMF Subcategories: Map 1.1\nMap 2.2\nMeasure 2.9\n\nProperties of Trustworthiness: Positive Human\nMachine Interaction* | Question(s) to Consider: How will we enable positive human-machine\ninteractions throughout the AI system's\noperation? | Relevant NIST AI RMF Subcategories: Govern 3.2\nMap 1.1\nMap 1.2\nMap 2.2\nMap 3.5\nMap 5.2\nMeasure 2.9"
   },
   {
     "depth": 2,
@@ -237,359 +45,23 @@
     "section_name": "Privacy-Enhanced",
     "id_kind": "",
     "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: Privacy-Enhanced\n\nProperties of\nTrustworthiness: Privacy-by-Design*\n\nQuestion(s) to Consider: How will privacy be built into the AI system\ndesign, testing, deployment, and operation?\nIf data includes sensitive or personally\nidentifiable information including biometrics,\nwhat extra precautions will be taken?\n\nRelevant NIST AI RMF\nSubcategories: Govern 1.1\nGovern 1.2\nGovern 6.1\nMap 1.1\nMap 4.1\nMeasure 2.10"
+    "body": "NIST Characteristics of Trustworthiness: Privacy-Enhanced\n\nProperties of Trustworthiness: Privacy-by-Design*\n\nQuestion(s) to Consider: How will privacy be built into the AI system\ndesign, testing, deployment, and operation?\nIf data includes sensitive or personally\nidentifiable information including biometrics,\nwhat extra precautions will be taken?\n\nRelevant NIST AI RMF Subcategories: Govern 1.1\nGovern 1.2\nGovern 6.1\nMap 1.1\nMap 4.1\nMeasure 2.10\n\nProperties of Trustworthiness: Data Privacy or\nProtection Impact\nAssessment* | Question(s) to Consider: What is the impact of the AI system on\nprivacy? When and how will we conduct\na data privacy or data protection impact\nassessment? | Relevant NIST AI RMF Subcategories: Govern 1.1\nGovern 1.2\nGovern 6.1\nMap 1.1\nMap 4.1\nMeasure 2.10\nManage 4.1"
   },
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "Data Privacy or\nProtection Impact\nAssessment",
+    "section_name": "Accountable and Transparent",
     "id_kind": "",
     "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Data Privacy or\nProtection Impact\nAssessment*\n\nQuestion(s) to Consider: What is the impact of the AI system on\nprivacy? When and how will we conduct\na data privacy or data protection impact\nassessment?\n\nRelevant NIST AI RMF\nSubcategories: Govern 1.1\nGovern 1.2\nGovern 6.1\nMap 1.1\nMap 4.1\nMeasure 2.10\nManage 4.1"
+    "body": "NIST Characteristics of Trustworthiness: Accountable and\nTransparent\n\nProperties of Trustworthiness: Effective Policy and\nGovernance\n\nQuestion(s) to Consider: How will we analyze and follow or implement\nrelevant or desired AI and data standards,\npolicies, principles, and guidance?\n\nRelevant NIST AI RMF Subcategories: Govern 1.1\nGovern 1.2\nGovern 1.3\nMap 3.5\nMap 4.1\nMap 5.1\nMap 5.2\nMeasure 1.1\nMeasure 1.2\nMeasure 1.3\nMeasure 2.8\nManage 1.3\nManage 2.1\nManage 3.1\nManage 4.1\n\nProperties of Trustworthiness: Adherence to the Rule\nof Law | Question(s) to Consider: How will we analyze and ensure compliance\nwith all relevant laws and regulations across\nevery jurisdiction of use? How will we analyze\nliability considerations, and what precautions\nwill be taken? | Relevant NIST AI RMF Subcategories: Govern 1.1\nMap 4.1\nManage 1.3\n\nProperties of Trustworthiness: Coordination (Public\nPrivate; International) | Question(s) to Consider: How will we identify and coordinate\nwith relevant institutions, nationally and\ninternationally? | Relevant NIST AI RMF Subcategories: Govern 5.1\nGovern 5.2\nMap 5.2\nMeasure 1.3\nMeasure 4.1\nMeasure 4.2\nMeasure 4.3\n\nProperties of Trustworthiness: Effective Risk\nAssessments and\nImpact Assessments | Question(s) to Consider: How will we assess, document, and\ncommunicate (on a regular basis) the\nexpected, potential, and actual risks and\nimpacts of the AI system on people,\norganizations, and society (pre- and post\ndeployment)? If risks and impact are deemed\nto be unacceptable, how will we ensure the\nAI system is adjusted or rejected? | Relevant NIST AI RMF Subcategories: Govern 1.3\nGovern 1.4\nGovern 1.7\nGovern 6.1\nMap 1.1\nMap 3.2\nMap 5.1\nMap 5.2\nMeasure 1.1\nMeasure 1.3\nManage 1.1\nManage 1.2\nManage 1.3\nManage 1.4\nManage 2.1\nManage 2.3\nManage 2.4\n\nProperties of Trustworthiness: Community\nEngagement | Question(s) to Consider: How will we identify communities interested\nin, engaged in, or impacted by the AI\nsystem, and how will we encourage their\nparticipation throughout the AI lifecycle? | Relevant NIST AI RMF Subcategories: Govern 5.1\nGovern 5.2\nMap 1.2\nMap 5.2\nMeasure 3.3\nMeasure 4.1\nMeasure 4.2\nMeasure 4.3\nManage 4.2\n\nProperties of Trustworthiness: Open | Question(s) to Consider: How can we promote openness and\ntransparency about our development and\ngovernance of AI technologies, internally and\nexternally? | Relevant NIST AI RMF Subcategories: Govern 1.2\nGovern 1.4\nGovern 1.6\nGovern 4.2\nGovern 4.3\nMap 5.2\nMeasure 1.3\nMeasure 2.9\nMeasure 2.8\nManage 4.3\n\nProperties of Trustworthiness: Documentation | Question(s) to Consider: How will we document the AI system's\ndesign, datasets, training, characteristics,\ncapabilities, limitations, predictable failures,\nintended uses, etc.? How will we review and\nupdate the documentation on a regular\nbasis and as needed to document new uses,\nfunctionalities, etc.? | Relevant NIST AI RMF Subcategories: Govern 1.6\nGovern 4.2\nMap 1.1\nMap 2.3\nMap 3.1\nMap 3.2\nMap 3.3\nMap 3.4\nMap 3.5\nMap 4.1\nMap 4.2\nMap 5.1\nMap 5.2\nMeasure 2.9\nMeasure 2.8\n\nProperties of Trustworthiness: Internal Reporting /\nCulture of Safety | Question(s) to Consider: How will we incentivize internal reporting\nof challenges or concerns, and promote a\nculture of safety among teams involved with\nthe AI system and in general? | Relevant NIST AI RMF Subcategories: Govern 1.2\nGovern 2.2\nGovern 2.3\nGovern 4.1\nGovern 4.2\nGovern 4.3\nMeasure 2.8\n\nProperties of Trustworthiness: Internal Reviews | Question(s) to Consider: How will internal reviews be conducted to\nassess trustworthy AI practices? | Relevant NIST AI RMF Subcategories: Govern 1.5\nGovern 4.1\nGovern 4.2\nGovern 4.3\nMeasure 2.8\nMeasure 2.13"
   },
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "Accountable and\nTransparent",
+    "section_name": "Responsible Practice and Use",
     "id_kind": "",
     "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: Accountable and\nTransparent\n\nProperties of\nTrustworthiness: Effective Policy and\nGovernance\n\nQuestion(s) to Consider: How will we analyze and follow or implement\nrelevant or desired AI and data standards,\npolicies, principles, and guidance?\n\nRelevant NIST AI RMF\nSubcategories: Govern 1.1\nGovern 1.2\nGovern 1.3\nMap 3.5\nMap 4.1\nMap 5.1\nMap 5.2\nMeasure 1.1\nMeasure 1.2\nMeasure 1.3\nMeasure 2.8\nManage 1.3\nManage 2.1\nManage 3.1\nManage 4.1"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Adherence to the Rule\nof Law",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Adherence to the Rule\nof Law\n\nQuestion(s) to Consider: How will we analyze and ensure compliance\nwith all relevant laws and regulations across\nevery jurisdiction of use? How will we analyze\nliability considerations, and what precautions\nwill be taken?\n\nRelevant NIST AI RMF\nSubcategories: Govern 1.1\nMap 4.1\nManage 1.3"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "NIST Characteristics of\nTrustworthiness",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: NIST Characteristics of\nTrustworthiness\n\nProperties of\nTrustworthiness: Properties of\nTrustworthiness\n\nQuestion(s) to Consider: Question(s) to Consider\n\nRelevant NIST AI RMF\nSubcategories: Relevant NIST AI RMF\nSubcategories"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Coordination (Public\nPrivate; International)",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Coordination (Public\nPrivate; International)\n\nQuestion(s) to Consider: How will we identify and coordinate\nwith relevant institutions, nationally and\ninternationally?\n\nRelevant NIST AI RMF\nSubcategories: Govern 5.1\nGovern 5.2\nMap 5.2\nMeasure 1.3\nMeasure 4.1\nMeasure 4.2\nMeasure 4.3"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Effective Risk\nAssessments and\nImpact Assessments",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Effective Risk\nAssessments and\nImpact Assessments\n\nQuestion(s) to Consider: How will we assess, document, and\ncommunicate (on a regular basis) the\nexpected, potential, and actual risks and\nimpacts of the AI system on people,\norganizations, and society (pre- and post\ndeployment)? If risks and impact are deemed\nto be unacceptable, how will we ensure the\nAI system is adjusted or rejected?\n\nRelevant NIST AI RMF\nSubcategories: Govern 1.3\nGovern 1.4\nGovern 1.7\nGovern 6.1\nMap 1.1\nMap 3.2\nMap 5.1\nMap 5.2\nMeasure 1.1\nMeasure 1.3\nManage 1.1\nManage 1.2\nManage 1.3\nManage 1.4\nManage 2.1\nManage 2.3\nManage 2.4"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Community\nEngagement",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Community\nEngagement\n\nQuestion(s) to Consider: How will we identify communities interested\nin, engaged in, or impacted by the AI\nsystem, and how will we encourage their\nparticipation throughout the AI lifecycle?\n\nRelevant NIST AI RMF\nSubcategories: Govern 5.1\nGovern 5.2\nMap 1.2\nMap 5.2\nMeasure 3.3\nMeasure 4.1\nMeasure 4.2\nMeasure 4.3\nManage 4.2"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Open",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Open\n\nQuestion(s) to Consider: How can we promote openness and\ntransparency about our development and\ngovernance of AI technologies, internally and\nexternally?\n\nRelevant NIST AI RMF\nSubcategories: Govern 1.2\nGovern 1.4\nGovern 1.6\nGovern 4.2\nGovern 4.3\nMap 5.2\nMeasure 1.3\nMeasure 2.9\nMeasure 2.8\nManage 4.3"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "NIST Characteristics of\nTrustworthiness",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: NIST Characteristics of\nTrustworthiness\n\nProperties of\nTrustworthiness: Properties of\nTrustworthiness\n\nQuestion(s) to Consider: Question(s) to Consider\n\nRelevant NIST AI RMF\nSubcategories: Relevant NIST AI RMF\nSubcategories"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Documentation",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Documentation\n\nQuestion(s) to Consider: How will we document the AI system's\ndesign, datasets, training, characteristics,\ncapabilities, limitations, predictable failures,\nintended uses, etc.? How will we review and\nupdate the documentation on a regular\nbasis and as needed to document new uses,\nfunctionalities, etc.?\n\nRelevant NIST AI RMF\nSubcategories: Govern 1.6\nGovern 4.2\nMap 1.1\nMap 2.3\nMap 3.1\nMap 3.2\nMap 3.3\nMap 3.4\nMap 3.5\nMap 4.1\nMap 4.2\nMap 5.1\nMap 5.2\nMeasure 2.9\nMeasure 2.8"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Internal Reporting /\nCulture of Safety",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Internal Reporting /\nCulture of Safety\n\nQuestion(s) to Consider: How will we incentivize internal reporting\nof challenges or concerns, and promote a\nculture of safety among teams involved with\nthe AI system and in general?\n\nRelevant NIST AI RMF\nSubcategories: Govern 1.2\nGovern 2.2\nGovern 2.3\nGovern 4.1\nGovern 4.2\nGovern 4.3\nMeasure 2.8"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Internal Reviews",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Internal Reviews\n\nQuestion(s) to Consider: How will internal reviews be conducted to\nassess trustworthy AI practices?\n\nRelevant NIST AI RMF\nSubcategories: Govern 1.5\nGovern 4.1\nGovern 4.2\nGovern 4.3\nMeasure 2.8\nMeasure 2.13"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Responsible Practice\nand Use",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: Responsible Practice\nand Use\n\nProperties of\nTrustworthiness: Responsible Use\nin Government,\nEducation, Health,\nFinance, Workplace,\nIdentification and\nDetection, and other\nHigh-stakes Settings\n\nQuestion(s) to Consider: How will we ensure responsible potential and\nactual uses in high-stakes settings, such as\ngovernment, education, healthcare, finance,\nemployment, workplace, identification and\ndetection (such as emotion detection), and\nothers? If our AI system influences one of\nthese domains, how will we ensure that we\nengage sufficiently with domain experts and\nimpacted communities to better understand\nthe influence and impact we might have?\n\nRelevant NIST AI RMF\nSubcategories: A majority of all of the\nsubcategories are critical.\nMap 1.1 is especially\nrelevant to help\nunderstand the purpose,\ncontext, and impacts of\nthe intended use."
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Responsible Use in\nCritical Infrastructure\nand Safety-Critical\nSystems",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Responsible Use in\nCritical Infrastructure\nand Safety-Critical\nSystems\n\nQuestion(s) to Consider: How will we ensure responsible potential\nand actual uses for critical infrastructure and\nsafety-critical systems, including assessing\nthe potential for damaging effects from\ntechnical faults, defects, or attacks?\n\nRelevant NIST AI RMF\nSubcategories: A majority of all of the\nsubcategories are critical.\nMap 1.1 is especially\nrelevant to help\nunderstand the purpose,\ncontext, and impacts of\nthe intended use."
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Responsible Use in\nthe Criminal Legal\nSystem and by Law\nEnforcement",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Responsible Use in\nthe Criminal Legal\nSystem and by Law\nEnforcement\n\nQuestion(s) to Consider: How will we ensure responsible potential\nand actual uses in the criminal legal system\nor by law enforcement? For example, how\nwill we protect against abuses of biometric\nidentification in public spaces?\n\nRelevant NIST AI RMF\nSubcategories: A majority of all of the\nsubcategories are critical.\nMap 1.1 is especially\nrelevant to help\nunderstand the purpose,\ncontext, and impacts of\nthe intended use."
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "NIST Characteristics of\nTrustworthiness",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: NIST Characteristics of\nTrustworthiness\n\nProperties of\nTrustworthiness: Properties of\nTrustworthiness\n\nQuestion(s) to Consider: Question(s) to Consider\n\nRelevant NIST AI RMF\nSubcategories: Relevant NIST AI RMF\nSubcategories"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Responsible Use in\nDefense and National\nSecurity",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Responsible Use in\nDefense and National\nSecurity\n\nQuestion(s) to Consider: How will we promote peace and ensure\nresponsible and controlled uses for defense,\nmilitary, border control, and national security\npurposes, including for weapons systems?\n\nRelevant NIST AI RMF\nSubcategories: A majority of all of the\nsubcategories are critical.\nMap 1.1 is especially\nrelevant to help\nunderstand the purpose,\ncontext, and impacts of\nthe intended use."
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Verified Supply Chain",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Verified Supply Chain\n\nQuestion(s) to Consider: How will we assess and verify the relevant\ncomponents of the supply chain?\n\nRelevant NIST AI RMF\nSubcategories: Govern 6.1\nGovern 6.2\nMap 4.1\nMap 4.2\nManage 3.1\nManage 3.2"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Appropriate\nAssignment of\nOrganizational\nRoles, Authorities,\nand Responsibilities;\nDesignated Points of\nContact",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Appropriate\nAssignment of\nOrganizational\nRoles, Authorities,\nand Responsibilities;\nDesignated Points of\nContact\n\nQuestion(s) to Consider: How will we assign and document\norganizational roles, authorities, and\nresponsibilities? How will we designate\npoints of contact along the lifecycle?\n\nRelevant NIST AI RMF\nSubcategories: Govern 2.1\nGovern 2.2\nGovern 2.3\nGovern 3.1\nGovern 3.2\nMap 3.4\nMap 3.5\nManage 2.1"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Effective Capabilities",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Effective Capabilities\n\nQuestion(s) to Consider: How will we obtain the necessary resources\nand knowledge to achieve our trustworthy\nAI objectives?\n\nRelevant NIST AI RMF\nSubcategories: Govern 2.2\nMap 3.4"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Collaboration",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Collaboration\n\nQuestion(s) to Consider: How will we enable multi-stakeholder\ncollaboration?\n\nRelevant NIST AI RMF\nSubcategories: Govern 3.1\nGovern 5.1\nGovern 5.2\nMap 1.2\nMap 5.2\nManage 4.2"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Supportive\nGovernance and\nOrganizational\nStructure",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Supportive\nGovernance and\nOrganizational\nStructure\n\nQuestion(s) to Consider: How can our governance and organizational\nstructure support trustworthy AI? How do\nour strategy, objectives, and policies support\ntrustworthy AI? Are changes needed?\n\nRelevant NIST AI RMF\nSubcategories: Govern 1.1\nGovern 1.2\nGovern 1.3\nGovern 1.4\nGovern 1.5\nGovern 1.6\nGovern 1.7\nGovern 2.1\nGovern 2.2\nGovern 2.3\nGovern 4.1\nGovern 4.2\nGovern 4.3"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Effective Hiring and\nTraining",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Effective Hiring and\nTraining\n\nQuestion(s) to Consider: How will we support the hiring and training\nof individuals who can carry out trustworthy\nAI objectives?\n\nRelevant NIST AI RMF\nSubcategories: Govern 2.1\nGovern 2.2\nGovern 2.3"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "NIST Characteristics of\nTrustworthiness",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: NIST Characteristics of\nTrustworthiness\n\nProperties of\nTrustworthiness: Properties of\nTrustworthiness\n\nQuestion(s) to Consider: Question(s) to Consider\n\nRelevant NIST AI RMF\nSubcategories: Relevant NIST AI RMF\nSubcategories"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Responsible Labor\nPractices and Rights",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Responsible Labor\nPractices and Rights\n\nQuestion(s) to Consider: How can we support labor rights in our use\nof AI? How will the supply chain of the AI\nsystem be monitored to evaluate working\nconditions?\n\nRelevant NIST AI RMF\nSubcategories: Govern 1.1\nGovern 1.2\nGovern 2.1\nGovern 6.1\nMap 1.1\nMap 3.4\nMap 5.2"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Leadership\nCommitment",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Leadership\nCommitment\n\nQuestion(s) to Consider: How will we ensure long-term commitment\nto trustworthy AI from organizational\nleadership?\n\nRelevant NIST AI RMF\nSubcategories: Govern 2.1\nGovern 2.3"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Supportive\nOrganizational Culture",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Supportive\nOrganizational Culture\n\nQuestion(s) to Consider: How will our organizational culture support\nour trustworthy AI objectives? Are changes\nneeded?\n\nRelevant NIST AI RMF\nSubcategories: Govern 1.2\nGovern 1.4\nGovern 2.2\nGovern 2.3\nGovern 4.1"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Procurement\nStandards",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Procurement\nStandards\n\nQuestion(s) to Consider: How will we implement/ensure AI\nprocurement standards that support\ntrustworthy AI if we are procuring the AI\nsystem or providing it to others?\n\nRelevant NIST AI RMF\nSubcategories: Govern 1.2\nGovern 4.2\nGovern 6.1\nMap 1.3\nMap 1.4\nMap 4.1\nMap 4.2"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Appropriate\nRelationships,\nInterdependencies,\nand Interconnections",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Appropriate\nRelationships,\nInterdependencies,\nand Interconnections\n\nQuestion(s) to Consider: What relationships, interdependencies, and\ninterconnections will be involved in the\ndevelopment and use of the AI system, and\nhow do they intersect with our trustworthy\nAI objectives?\n\nRelevant NIST AI RMF\nSubcategories: Map 1.1\nMap 4.1\nManage 3.1"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Alignment with\nOrganizational Vision,\nMission, and Values",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Alignment with\nOrganizational Vision,\nMission, and Values\n\nQuestion(s) to Consider: How will we ensure the AI system is true to\nour vision, mission, and values?\n\nRelevant NIST AI RMF\nSubcategories: Govern 4.3\nGovern 5.1\nMap 1.1\nMap 5.2\nMeasure 4.2\nManage 1.1"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Socially Responsible",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Socially Responsible\n\nQuestion(s) to Consider: How will our AI system and its use align with\nour social responsibility efforts?\n\nRelevant NIST AI RMF\nSubcategories: Govern 1.2\nGovern 4.1\nMap 1.1\nMap 5.1\nMap 5.2\nManage 1.1"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Supportive of Fair\nCompetition",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Supportive of Fair\nCompetition\n\nQuestion(s) to Consider: How will we support fair competition among\na variety of actors in the domain in which\nour AI system is applied?\n\nRelevant NIST AI RMF\nSubcategories: Govern 5.1\nGovern 5.2\nMap 1.1\nMap 5.2\nManage 4.1"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "NIST Characteristics of\nTrustworthiness",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: NIST Characteristics of\nTrustworthiness\n\nProperties of\nTrustworthiness: Properties of\nTrustworthiness\n\nQuestion(s) to Consider: Question(s) to Consider\n\nRelevant NIST AI RMF\nSubcategories: Relevant NIST AI RMF\nSubcategories"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Supportive of Civil\nRights",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Supportive of Civil\nRights\n\nQuestion(s) to Consider: How will we protect and promote civil\nrights throughout the AI lifecycle, including\nprotection from unlawful discrimination\non the basis of race, color, national origin,\ndisability, age, religion, and sex (including\npregnancy, sexual orientation, and gender\nidentity)?\n\nRelevant NIST AI RMF\nSubcategories: Govern 1.1\nGovern 1.2\nGovern 4.2\nGovern 4.3\nGovern 5.1\nGovern 5.2\nMap 1.1\nMap 1.2\nMap 5.1\nMap 5.2\nMeasure 1.3\nMeasure 2.2\nMeasure 2.11\nMeasure 3.3\nManage 1.3\nManage 3.1\nManage 4.1\nManage 4.3"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Supportive of\nDemocratic Values\nand Processes",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Supportive of\nDemocratic Values\nand Processes\n\nQuestion(s) to Consider: How will we ensure the design and use of the\nAI system are consistent with democratic\nvalues such as freedom and equality? How\nwill we ensure that the uses of the AI system\ndo not interfere with democratic processes\nand citizens' rights, including the right to\nvote? How will we assess the impact of the AI\nsystem on democracy?\n\nRelevant NIST AI RMF\nSubcategories: Govern 1.1\nGovern 1.2\nGovern 4.2\nGovern 4.3\nGovern 5.1\nGovern 5.2\nMap 1.1\nMap 1.2\nMap 5.1\nMap 5.2\nMeasure 1.3\nManage 1.3\nManage 3.1\nManage 4.1\nManage 4.3"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Protection of Human\nAutonomy and\nFreedom",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Protection of Human\nAutonomy and\nFreedom\n\nQuestion(s) to Consider: How will we ensure that the AI system\nrespects the freedom and autonomy of\nindividuals and does not intrude on people's\nself-determination and ability to make life\ndecisions for themselves?\n\nRelevant NIST AI RMF\nSubcategories: Govern 1.1\nGovern 1.2\nGovern 4.2\nGovern 4.3\nGovern 5.1\nGovern 5.2\nMap 1.1\nMap 1.2\nMap 3.5\nMap 5.1\nMap 5.2\nMeasure 1.3\nManage 1.3\nManage 3.1\nManage 4.1\nManage 4.3"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "NIST Characteristics of\nTrustworthiness",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: NIST Characteristics of\nTrustworthiness\n\nProperties of\nTrustworthiness: Properties of\nTrustworthiness\n\nQuestion(s) to Consider: Question(s) to Consider\n\nRelevant NIST AI RMF\nSubcategories: Relevant NIST AI RMF\nSubcategories"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Protection of Human\nDignity",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Protection of Human\nDignity\n\nQuestion(s) to Consider: How will we ensure that the development\nand use of the AI system respect human\ndignity and treat people as having intrinsic\nworth, and not merely as objects?\n\nRelevant NIST AI RMF\nSubcategories: Govern 1.1\nGovern 1.2\nGovern 4.2\nGovern 4.3\nGovern 5.1\nGovern 5.2\nMap 1.1\nMap 1.2\nMap 3.5\nMap 5.1\nMap 5.2\nMeasure 1.3\nManage 1.3\nManage 3.1\nManage 4.1\nManage 4.3"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Protection of Human\nRights",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Protection of Human\nRights\n\nQuestion(s) to Consider: How will we ensure the AI system does not\nthreaten human rights? For example, how\nwill we ensure the right to privacy? How will\nwe ensure the AI system does not pose risks\nof gender or sexual violence? How will we\nensure it does not threaten children's rights?\nHow will we ensure the AI system does not\nthreaten freedom of religion, or freedom\nof expression? How will we ensure the AI\nsystem does not threaten the right to fair\ntrial or the right of peaceful assembly?\n\nRelevant NIST AI RMF\nSubcategories: Govern 1.1\nGovern 1.2\nGovern 4.2\nGovern 4.3\nGovern 5.1\nGovern 5.2\nMap 1.1\nMap 1.2\nMap 3.5\nMap 5.1\nMap 5.2\nMeasure 1.3\nManage 1.3\nManage 3.1\nManage 4.1\nManage 4.3"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Supportive of\nWellbeing",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Supportive of\nWellbeing\n\nQuestion(s) to Consider: How will we ensure the AI system supports\nindividual, community, and societal wellbeing,\nincluding mental or emotional wellbeing?\n\nRelevant NIST AI RMF\nSubcategories: Govern 1.1\nGovern 1.2\nGovern 4.2\nGovern 4.3\nGovern 5.1\nGovern 5.2\nMap 1.1\nMap 1.2\nMap 3.5\nMap 5.1\nMap 5.2\nMeasure 1.3\nManage 1.3\nManage 3.1\nManage 4.1\nManage 4.3"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "NIST Characteristics of\nTrustworthiness",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: NIST Characteristics of\nTrustworthiness\n\nProperties of\nTrustworthiness: Properties of\nTrustworthiness\n\nQuestion(s) to Consider: Question(s) to Consider\n\nRelevant NIST AI RMF\nSubcategories: Relevant NIST AI RMF\nSubcategories"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Reduction of Carbon\nEmissions",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Reduction of Carbon\nEmissions\n\nQuestion(s) to Consider: How can we reduce the carbon emissions\nfrom the design and use of AI systems in\ngeneral?\n\nRelevant NIST AI RMF\nSubcategories: Govern 1.7\nGovern 4.2\nMap 1.1\nMap 5.1\nMap 5.2\nMeasure 1.3\nMeasure 2.12\nManage 4.1"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Assessment of\nEconomic, Social,\nCultural, Political, and\nGlobal Implications",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Assessment of\nEconomic, Social,\nCultural, Political, and\nGlobal Implications\n\nQuestion(s) to Consider: How will we assess the economic\nimplications of the AI system, including\nwhether use of the system could impact\njobs or reduce the need for human labor?\nHow will we assess the social, cultural, and\npolitical implications of the AI system at the\nsocietal and global levels?\n\nRelevant NIST AI RMF\nSubcategories: Govern 3.1\nGovern 5.1\nMap 1.1\nMap 1.2\nMap 3.1\nMap 3.2\nMap 5.1\nMap 5.2\nMeasure 1.3"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "NIST Characteristics of\nTrustworthiness",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: NIST Characteristics of\nTrustworthiness\n\nProperties of\nTrustworthiness: Properties of\nTrustworthiness\n\nQuestion(s) to Consider: Question(s) to Consider\n\nRelevant NIST AI RMF\nSubcategories: Relevant NIST AI RMF\nSubcategories"
+    "body": "NIST Characteristics of Trustworthiness: Responsible Practice\nand Use\n\nProperties of Trustworthiness: Responsible Use\nin Government,\nEducation, Health,\nFinance, Workplace,\nIdentification and\nDetection, and other\nHigh-stakes Settings\n\nQuestion(s) to Consider: How will we ensure responsible potential and\nactual uses in high-stakes settings, such as\ngovernment, education, healthcare, finance,\nemployment, workplace, identification and\ndetection (such as emotion detection), and\nothers? If our AI system influences one of\nthese domains, how will we ensure that we\nengage sufficiently with domain experts and\nimpacted communities to better understand\nthe influence and impact we might have?\n\nRelevant NIST AI RMF Subcategories: A majority of all of the\nsubcategories are critical.\nMap 1.1 is especially\nrelevant to help\nunderstand the purpose,\ncontext, and impacts of\nthe intended use.\n\nProperties of Trustworthiness: Responsible Use in\nCritical Infrastructure\nand Safety-Critical\nSystems | Question(s) to Consider: How will we ensure responsible potential\nand actual uses for critical infrastructure and\nsafety-critical systems, including assessing\nthe potential for damaging effects from\ntechnical faults, defects, or attacks? | Relevant NIST AI RMF Subcategories: A majority of all of the\nsubcategories are critical.\nMap 1.1 is especially\nrelevant to help\nunderstand the purpose,\ncontext, and impacts of\nthe intended use.\n\nProperties of Trustworthiness: Responsible Use in\nthe Criminal Legal\nSystem and by Law\nEnforcement | Question(s) to Consider: How will we ensure responsible potential\nand actual uses in the criminal legal system\nor by law enforcement? For example, how\nwill we protect against abuses of biometric\nidentification in public spaces? | Relevant NIST AI RMF Subcategories: A majority of all of the\nsubcategories are critical.\nMap 1.1 is especially\nrelevant to help\nunderstand the purpose,\ncontext, and impacts of\nthe intended use.\n\nProperties of Trustworthiness: Responsible Use in\nDefense and National\nSecurity | Question(s) to Consider: How will we promote peace and ensure\nresponsible and controlled uses for defense,\nmilitary, border control, and national security\npurposes, including for weapons systems? | Relevant NIST AI RMF Subcategories: A majority of all of the\nsubcategories are critical.\nMap 1.1 is especially\nrelevant to help\nunderstand the purpose,\ncontext, and impacts of\nthe intended use.\n\nProperties of Trustworthiness: Verified Supply Chain | Question(s) to Consider: How will we assess and verify the relevant\ncomponents of the supply chain? | Relevant NIST AI RMF Subcategories: Govern 6.1\nGovern 6.2\nMap 4.1\nMap 4.2\nManage 3.1\nManage 3.2\n\nProperties of Trustworthiness: Appropriate\nAssignment of\nOrganizational\nRoles, Authorities,\nand Responsibilities;\nDesignated Points of\nContact | Question(s) to Consider: How will we assign and document\norganizational roles, authorities, and\nresponsibilities? How will we designate\npoints of contact along the lifecycle? | Relevant NIST AI RMF Subcategories: Govern 2.1\nGovern 2.2\nGovern 2.3\nGovern 3.1\nGovern 3.2\nMap 3.4\nMap 3.5\nManage 2.1\n\nProperties of Trustworthiness: Effective Capabilities | Question(s) to Consider: How will we obtain the necessary resources\nand knowledge to achieve our trustworthy\nAI objectives? | Relevant NIST AI RMF Subcategories: Govern 2.2\nMap 3.4\n\nProperties of Trustworthiness: Collaboration | Question(s) to Consider: How will we enable multi-stakeholder\ncollaboration? | Relevant NIST AI RMF Subcategories: Govern 3.1\nGovern 5.1\nGovern 5.2\nMap 1.2\nMap 5.2\nManage 4.2\n\nProperties of Trustworthiness: Supportive\nGovernance and\nOrganizational\nStructure | Question(s) to Consider: How can our governance and organizational\nstructure support trustworthy AI? How do\nour strategy, objectives, and policies support\ntrustworthy AI? Are changes needed? | Relevant NIST AI RMF Subcategories: Govern 1.1\nGovern 1.2\nGovern 1.3\nGovern 1.4\nGovern 1.5\nGovern 1.6\nGovern 1.7\nGovern 2.1\nGovern 2.2\nGovern 2.3\nGovern 4.1\nGovern 4.2\nGovern 4.3\n\nProperties of Trustworthiness: Effective Hiring and\nTraining | Question(s) to Consider: How will we support the hiring and training\nof individuals who can carry out trustworthy\nAI objectives? | Relevant NIST AI RMF Subcategories: Govern 2.1\nGovern 2.2\nGovern 2.3\n\nProperties of Trustworthiness: Responsible Labor\nPractices and Rights | Question(s) to Consider: How can we support labor rights in our use\nof AI? How will the supply chain of the AI\nsystem be monitored to evaluate working\nconditions? | Relevant NIST AI RMF Subcategories: Govern 1.1\nGovern 1.2\nGovern 2.1\nGovern 6.1\nMap 1.1\nMap 3.4\nMap 5.2\n\nProperties of Trustworthiness: Leadership\nCommitment | Question(s) to Consider: How will we ensure long-term commitment\nto trustworthy AI from organizational\nleadership? | Relevant NIST AI RMF Subcategories: Govern 2.1\nGovern 2.3\n\nProperties of Trustworthiness: Supportive\nOrganizational Culture | Question(s) to Consider: How will our organizational culture support\nour trustworthy AI objectives? Are changes\nneeded? | Relevant NIST AI RMF Subcategories: Govern 1.2\nGovern 1.4\nGovern 2.2\nGovern 2.3\nGovern 4.1\n\nProperties of Trustworthiness: Procurement\nStandards | Question(s) to Consider: How will we implement/ensure AI\nprocurement standards that support\ntrustworthy AI if we are procuring the AI\nsystem or providing it to others? | Relevant NIST AI RMF Subcategories: Govern 1.2\nGovern 4.2\nGovern 6.1\nMap 1.3\nMap 1.4\nMap 4.1\nMap 4.2\n\nProperties of Trustworthiness: Appropriate\nRelationships,\nInterdependencies,\nand Interconnections | Question(s) to Consider: What relationships, interdependencies, and\ninterconnections will be involved in the\ndevelopment and use of the AI system, and\nhow do they intersect with our trustworthy\nAI objectives? | Relevant NIST AI RMF Subcategories: Map 1.1\nMap 4.1\nManage 3.1\n\nProperties of Trustworthiness: Alignment with\nOrganizational Vision,\nMission, and Values | Question(s) to Consider: How will we ensure the AI system is true to\nour vision, mission, and values? | Relevant NIST AI RMF Subcategories: Govern 4.3\nGovern 5.1\nMap 1.1\nMap 5.2\nMeasure 4.2\nManage 1.1\n\nProperties of Trustworthiness: Socially Responsible | Question(s) to Consider: How will our AI system and its use align with\nour social responsibility efforts? | Relevant NIST AI RMF Subcategories: Govern 1.2\nGovern 4.1\nMap 1.1\nMap 5.1\nMap 5.2\nManage 1.1\n\nProperties of Trustworthiness: Supportive of Fair\nCompetition | Question(s) to Consider: How will we support fair competition among\na variety of actors in the domain in which\nour AI system is applied? | Relevant NIST AI RMF Subcategories: Govern 5.1\nGovern 5.2\nMap 1.1\nMap 5.2\nManage 4.1\n\nProperties of Trustworthiness: Supportive of Civil\nRights | Question(s) to Consider: How will we protect and promote civil\nrights throughout the AI lifecycle, including\nprotection from unlawful discrimination\non the basis of race, color, national origin,\ndisability, age, religion, and sex (including\npregnancy, sexual orientation, and gender\nidentity)? | Relevant NIST AI RMF Subcategories: Govern 1.1\nGovern 1.2\nGovern 4.2\nGovern 4.3\nGovern 5.1\nGovern 5.2\nMap 1.1\nMap 1.2\nMap 5.1\nMap 5.2\nMeasure 1.3\nMeasure 2.2\nMeasure 2.11\nMeasure 3.3\nManage 1.3\nManage 3.1\nManage 4.1\nManage 4.3\n\nProperties of Trustworthiness: Supportive of\nDemocratic Values\nand Processes | Question(s) to Consider: How will we ensure the design and use of the\nAI system are consistent with democratic\nvalues such as freedom and equality? How\nwill we ensure that the uses of the AI system\ndo not interfere with democratic processes\nand citizens' rights, including the right to\nvote? How will we assess the impact of the AI\nsystem on democracy? | Relevant NIST AI RMF Subcategories: Govern 1.1\nGovern 1.2\nGovern 4.2\nGovern 4.3\nGovern 5.1\nGovern 5.2\nMap 1.1\nMap 1.2\nMap 5.1\nMap 5.2\nMeasure 1.3\nManage 1.3\nManage 3.1\nManage 4.1\nManage 4.3\n\nProperties of Trustworthiness: Protection of Human\nAutonomy and\nFreedom | Question(s) to Consider: How will we ensure that the AI system\nrespects the freedom and autonomy of\nindividuals and does not intrude on people's\nself-determination and ability to make life\ndecisions for themselves? | Relevant NIST AI RMF Subcategories: Govern 1.1\nGovern 1.2\nGovern 4.2\nGovern 4.3\nGovern 5.1\nGovern 5.2\nMap 1.1\nMap 1.2\nMap 3.5\nMap 5.1\nMap 5.2\nMeasure 1.3\nManage 1.3\nManage 3.1\nManage 4.1\nManage 4.3\n\nProperties of Trustworthiness: Protection of Human\nDignity | Question(s) to Consider: How will we ensure that the development\nand use of the AI system respect human\ndignity and treat people as having intrinsic\nworth, and not merely as objects? | Relevant NIST AI RMF Subcategories: Govern 1.1\nGovern 1.2\nGovern 4.2\nGovern 4.3\nGovern 5.1\nGovern 5.2\nMap 1.1\nMap 1.2\nMap 3.5\nMap 5.1\nMap 5.2\nMeasure 1.3\nManage 1.3\nManage 3.1\nManage 4.1\nManage 4.3\n\nProperties of Trustworthiness: Protection of Human\nRights | Question(s) to Consider: How will we ensure the AI system does not\nthreaten human rights? For example, how\nwill we ensure the right to privacy? How will\nwe ensure the AI system does not pose risks\nof gender or sexual violence? How will we\nensure it does not threaten children's rights?\nHow will we ensure the AI system does not\nthreaten freedom of religion, or freedom\nof expression? How will we ensure the AI\nsystem does not threaten the right to fair\ntrial or the right of peaceful assembly? | Relevant NIST AI RMF Subcategories: Govern 1.1\nGovern 1.2\nGovern 4.2\nGovern 4.3\nGovern 5.1\nGovern 5.2\nMap 1.1\nMap 1.2\nMap 3.5\nMap 5.1\nMap 5.2\nMeasure 1.3\nManage 1.3\nManage 3.1\nManage 4.1\nManage 4.3\n\nProperties of Trustworthiness: Supportive of\nWellbeing | Question(s) to Consider: How will we ensure the AI system supports\nindividual, community, and societal wellbeing,\nincluding mental or emotional wellbeing? | Relevant NIST AI RMF Subcategories: Govern 1.1\nGovern 1.2\nGovern 4.2\nGovern 4.3\nGovern 5.1\nGovern 5.2\nMap 1.1\nMap 1.2\nMap 3.5\nMap 5.1\nMap 5.2\nMeasure 1.3\nManage 1.3\nManage 3.1\nManage 4.1\nManage 4.3\n\nProperties of Trustworthiness: Reduction of Carbon\nEmissions | Question(s) to Consider: How can we reduce the carbon emissions\nfrom the design and use of AI systems in\ngeneral? | Relevant NIST AI RMF Subcategories: Govern 1.7\nGovern 4.2\nMap 1.1\nMap 5.1\nMap 5.2\nMeasure 1.3\nMeasure 2.12\nManage 4.1\n\nProperties of Trustworthiness: Assessment of\nEconomic, Social,\nCultural, Political, and\nGlobal Implications | Question(s) to Consider: How will we assess the economic\nimplications of the AI system, including\nwhether use of the system could impact\njobs or reduce the need for human labor?\nHow will we assess the social, cultural, and\npolitical implications of the AI system at the\nsocietal and global levels? | Relevant NIST AI RMF Subcategories: Govern 3.1\nGovern 5.1\nMap 1.1\nMap 1.2\nMap 3.1\nMap 3.2\nMap 5.1\nMap 5.2\nMeasure 1.3"
   },
   {
     "depth": 2,
@@ -597,31 +69,7 @@
     "section_name": "Valid and Reliable",
     "id_kind": "",
     "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: Valid and Reliable\n\nProperties of\nTrustworthiness: Data Completeness\n\nQuestion(s) to Consider: How will we assess and improve the\ncompleteness, quantity, suitability, and\nrepresentativeness of the data?\n\nRelevant NIST AI RMF\nSubcategories: Govern 4.3\nGovern 5.1\nGovern 6.1\nMap 1.1\nMap 1.2\nMap 2.3\nMeasure 2.2\nMeasure 2.11\nManage 3.1\nManage 3.2"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Data Quality",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Data Quality\n\nQuestion(s) to Consider: How will we assess and improve the\nquality and relevance of the data? What\nbenchmarks will we use? How will we collect\nand process data, for example to annotate,\nlabel, clean, and aggregate as needed?\n\nRelevant NIST AI RMF\nSubcategories: Govern 4.3\nGovern 5.1\nGovern 6.1\nMap 1.1\nMap 1.2\nMap 2.3\nMeasure 2.2\nManage 1.1\nManage 3.1\nManage 3.2"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Responsible Data,\nInformation Systems\nand Information Flows",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Responsible Data,\nInformation Systems\nand Information Flows\n\nQuestion(s) to Consider: How will we obtain data, and what are\nour informational flows? How will we\nappropriately limit the scope of our data\ncollection? How will we retain and delete\ndata as needed?\n\nRelevant NIST AI RMF\nSubcategories: Govern 1.1\nGovern 1.2\nGovern 1.4\nGovern 4.3\nGovern 5.1\nGovern 6.1\nGovern 6.2\nMap 1.1\nMap 1.2\nMap 2.3\nMap 4.1\nMeasure 2.2\nMeasure 2.10\nManage 3.1\nManage 3.2\nManage 4.1"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "NIST Characteristics of\nTrustworthiness",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: NIST Characteristics of\nTrustworthiness\n\nProperties of\nTrustworthiness: Properties of\nTrustworthiness\n\nQuestion(s) to Consider: Question(s) to Consider\n\nRelevant NIST AI RMF\nSubcategories: Relevant NIST AI RMF\nSubcategories"
+    "body": "NIST Characteristics of Trustworthiness: Valid and Reliable\n\nProperties of Trustworthiness: Data Completeness\n\nQuestion(s) to Consider: How will we assess and improve the\ncompleteness, quantity, suitability, and\nrepresentativeness of the data?\n\nRelevant NIST AI RMF Subcategories: Govern 4.3\nGovern 5.1\nGovern 6.1\nMap 1.1\nMap 1.2\nMap 2.3\nMeasure 2.2\nMeasure 2.11\nManage 3.1\nManage 3.2\n\nProperties of Trustworthiness: Data Quality | Question(s) to Consider: How will we assess and improve the\nquality and relevance of the data? What\nbenchmarks will we use? How will we collect\nand process data, for example to annotate,\nlabel, clean, and aggregate as needed? | Relevant NIST AI RMF Subcategories: Govern 4.3\nGovern 5.1\nGovern 6.1\nMap 1.1\nMap 1.2\nMap 2.3\nMeasure 2.2\nManage 1.1\nManage 3.1\nManage 3.2\n\nProperties of Trustworthiness: Responsible Data,\nInformation Systems\nand Information Flows | Question(s) to Consider: How will we obtain data, and what are\nour informational flows? How will we\nappropriately limit the scope of our data\ncollection? How will we retain and delete\ndata as needed? | Relevant NIST AI RMF Subcategories: Govern 1.1\nGovern 1.2\nGovern 1.4\nGovern 4.3\nGovern 5.1\nGovern 6.1\nGovern 6.2\nMap 1.1\nMap 1.2\nMap 2.3\nMap 4.1\nMeasure 2.2\nMeasure 2.10\nManage 3.1\nManage 3.2\nManage 4.1"
   },
   {
     "depth": 2,
@@ -629,15 +77,15 @@
     "section_name": "Safe",
     "id_kind": "",
     "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: Safe\n\nProperties of\nTrustworthiness: Data Stability\n\nQuestion(s) to Consider: How will we analyze and monitor for data\ndrift over time?\n\nRelevant NIST AI RMF\nSubcategories: Govern 4.3\nGovern 5.1\nGovern 6.1\nGovern 6.2\nMap 2.3\nMeasure 2.7\nMeasure 3.1\nManage 3.2\nManage 4.1"
+    "body": "NIST Characteristics of Trustworthiness: Safe\n\nProperties of Trustworthiness: Data Stability\n\nQuestion(s) to Consider: How will we analyze and monitor for data\ndrift over time?\n\nRelevant NIST AI RMF Subcategories: Govern 4.3\nGovern 5.1\nGovern 6.1\nGovern 6.2\nMap 2.3\nMeasure 2.7\nMeasure 3.1\nManage 3.2\nManage 4.1"
   },
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "Fair with Harmful Bias\nManaged",
+    "section_name": "Fair with Harmful Bias Managed",
     "id_kind": "",
     "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: Fair with Harmful Bias\nManaged\n\nProperties of\nTrustworthiness: Data Balance*\n\nQuestion(s) to Consider: How will we assess and improve the\nbalance and diversity of the data? How\nwill we evaluate all data sets for inclusion\nand representation of demographic\ngroups? How will we guard against proxies\nfor demographic information that could\ncontribute to discrimination?\n\nRelevant NIST AI RMF\nSubcategories: Govern 3.1\nGovern 4.3\nGovern 5.1\nGovern 6.1\nMap 1.1\nMap 1.2\nMap 2.3\nMeasure 2.2\nMeasure 2.11\nManage 3.1\nManage 3.2\nManage 4.1"
+    "body": "NIST Characteristics of Trustworthiness: Fair with Harmful Bias\nManaged\n\nProperties of Trustworthiness: Data Balance*\n\nQuestion(s) to Consider: How will we assess and improve the\nbalance and diversity of the data? How\nwill we evaluate all data sets for inclusion\nand representation of demographic\ngroups? How will we guard against proxies\nfor demographic information that could\ncontribute to discrimination?\n\nRelevant NIST AI RMF Subcategories: Govern 3.1\nGovern 4.3\nGovern 5.1\nGovern 6.1\nMap 1.1\nMap 1.2\nMap 2.3\nMeasure 2.2\nMeasure 2.11\nManage 3.1\nManage 3.2\nManage 4.1"
   },
   {
     "depth": 2,
@@ -645,7 +93,7 @@
     "section_name": "Secure and Resilient",
     "id_kind": "",
     "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: Secure and Resilient\n\nProperties of\nTrustworthiness: Data Security\n\nQuestion(s) to Consider: How will the security of data that is used for\ntraining or created be ensured?\n\nRelevant NIST AI RMF\nSubcategories: Govern 4.3\nGovern 5.1\nGovern 6.1\nGovern 6.2\nMap 2.3\nMap 4.1\nMap 4.2\nMeasure 2.7\nManage 3.1\nManage 3.2\nManage 4.1"
+    "body": "NIST Characteristics of Trustworthiness: Secure and Resilient\n\nProperties of Trustworthiness: Data Security\n\nQuestion(s) to Consider: How will the security of data that is used for\ntraining or created be ensured?\n\nRelevant NIST AI RMF Subcategories: Govern 4.3\nGovern 5.1\nGovern 6.1\nGovern 6.2\nMap 2.3\nMap 4.1\nMap 4.2\nMeasure 2.7\nManage 3.1\nManage 3.2\nManage 4.1"
   },
   {
     "depth": 2,
@@ -653,71 +101,23 @@
     "section_name": "Privacy-Enhanced",
     "id_kind": "",
     "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: Privacy-Enhanced\n\nProperties of\nTrustworthiness: Data Protection*\n\nQuestion(s) to Consider: How will we protect the data used to build\nand operate the AI system? How will we use\nencryption, differential privacy, federated\nlearning, data minimization, and/or other\nbest practices to protect data?\n\nRelevant NIST AI RMF\nSubcategories: Govern 4.3\nGovern 5.1\nGovern 6.1\nMap 2.3\nMap 4.1\nMap 4.2\nMeasure 2.7\nMeasure 2.10\nManage 3.1\nManage 3.2\nManage 4.1"
+    "body": "NIST Characteristics of Trustworthiness: Privacy-Enhanced\n\nProperties of Trustworthiness: Data Protection*\n\nQuestion(s) to Consider: How will we protect the data used to build\nand operate the AI system? How will we use\nencryption, differential privacy, federated\nlearning, data minimization, and/or other\nbest practices to protect data?\n\nRelevant NIST AI RMF Subcategories: Govern 4.3\nGovern 5.1\nGovern 6.1\nMap 2.3\nMap 4.1\nMap 4.2\nMeasure 2.7\nMeasure 2.10\nManage 3.1\nManage 3.2\nManage 4.1\n\nProperties of Trustworthiness: Data Processing\nOversight* | Question(s) to Consider: How will we establish data oversight\nmechanisms, such as limiting and logging\ndata access? | Relevant NIST AI RMF Subcategories: Govern 4.3\nGovern 5.1\nGovern 6.1\nGovern 6.2\nMap 2.3\nMap 4.1\nMeasure 2.10\nMeasure 2.8\nManage 3.1\nManage 3.2\nManage 4.1\nManage 4.2\n\nProperties of Trustworthiness: Consent to Use of Data* | Question(s) to Consider: How will we enable people to consent to the\nuses of their data? | Relevant NIST AI RMF Subcategories: Govern 1.1\nGovern 5.2\nMap 4.1\nMap 5.2\nMeasure 2.8\nManage 4.1\nManage 4.2\nManage 4.3\n\nProperties of Trustworthiness: Control of Use of Data* | Question(s) to Consider: How will we ensure people have a say in how\ninformation about them is used? How will we\nhonor the right to rectification and the right\nto erasure? | Relevant NIST AI RMF Subcategories: Govern 1.1\nGovern 5.2\nMap 4.1\nMap 5.2\nManage 4.1\nManage 4.2\nManage 4.3"
   },
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "Data Processing\nOversight",
+    "section_name": "Accountable and Transparent",
     "id_kind": "",
     "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Data Processing\nOversight*\n\nQuestion(s) to Consider: How will we establish data oversight\nmechanisms, such as limiting and logging\ndata access?\n\nRelevant NIST AI RMF\nSubcategories: Govern 4.3\nGovern 5.1\nGovern 6.1\nGovern 6.2\nMap 2.3\nMap 4.1\nMeasure 2.10\nMeasure 2.8\nManage 3.1\nManage 3.2\nManage 4.1\nManage 4.2"
+    "body": "NIST Characteristics of Trustworthiness: Accountable and\nTransparent\n\nProperties of Trustworthiness: Data Governance*\n\nQuestion(s) to Consider: How will we analyze and follow data\ngovernance practices for all intended uses,\nstakeholders, and relevant geographic areas?\nHow will we ensure data rights and agency?\n\nRelevant NIST AI RMF Subcategories: Govern 1.1\nGovern 1.4\nGovern 6.1\nGovern 6.2\nMap 1.1\nMap 1.2\nMap 1.3\nMap 2.3\nMap 4.1\nMap 4.2\nMap 5.1\nMap 5.2\nMeasure 2.2\nMeasure 2.11\nMeasure 2.10\nManage 1.3\nManage 3.1\nManage 3.2\nManage 4.1\n\nProperties of Trustworthiness: Traceable | Question(s) to Consider: How will we document the provenance of\ndata, processes, and artifacts involved in the\nproduction of the AI system? | Relevant NIST AI RMF Subcategories: Govern 1.6\nGovern 4.2\nMap 1.1\nMap 2.3\nMap 4.1\nMeasure 2.1\nMeasure 2.2\nMeasure 2.8"
   },
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "NIST Characteristics of\nTrustworthiness",
+    "section_name": "Responsible Practice and Use",
     "id_kind": "",
     "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: NIST Characteristics of\nTrustworthiness\n\nProperties of\nTrustworthiness: Properties of\nTrustworthiness\n\nQuestion(s) to Consider: Question(s) to Consider\n\nRelevant NIST AI RMF\nSubcategories: Relevant NIST AI RMF\nSubcategories"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Consent to Use of Data",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Consent to Use of Data*\n\nQuestion(s) to Consider: How will we enable people to consent to the\nuses of their data?\n\nRelevant NIST AI RMF\nSubcategories: Govern 1.1\nGovern 5.2\nMap 4.1\nMap 5.2\nMeasure 2.8\nManage 4.1\nManage 4.2\nManage 4.3"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Control of Use of Data",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Control of Use of Data*\n\nQuestion(s) to Consider: How will we ensure people have a say in how\ninformation about them is used? How will we\nhonor the right to rectification and the right\nto erasure?\n\nRelevant NIST AI RMF\nSubcategories: Govern 1.1\nGovern 5.2\nMap 4.1\nMap 5.2\nManage 4.1\nManage 4.2\nManage 4.3"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Accountable and\nTransparent",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: Accountable and\nTransparent\n\nProperties of\nTrustworthiness: Data Governance*\n\nQuestion(s) to Consider: How will we analyze and follow data\ngovernance practices for all intended uses,\nstakeholders, and relevant geographic areas?\nHow will we ensure data rights and agency?\n\nRelevant NIST AI RMF\nSubcategories: Govern 1.1\nGovern 1.4\nGovern 6.1\nGovern 6.2\nMap 1.1\nMap 1.2\nMap 1.3\nMap 2.3\nMap 4.1\nMap 4.2\nMap 5.1\nMap 5.2\nMeasure 2.2\nMeasure 2.11\nMeasure 2.10\nManage 1.3\nManage 3.1\nManage 3.2\nManage 4.1"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Traceable",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Traceable\n\nQuestion(s) to Consider: How will we document the provenance of\ndata, processes, and artifacts involved in the\nproduction of the AI system?\n\nRelevant NIST AI RMF\nSubcategories: Govern 1.6\nGovern 4.2\nMap 1.1\nMap 2.3\nMap 4.1\nMeasure 2.1\nMeasure 2.2\nMeasure 2.8"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Responsible Practice\nand Use",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: Responsible Practice\nand Use\n\nProperties of\nTrustworthiness: Efficient Data Centers\n\nQuestion(s) to Consider: How can we make our use of data centers\nmore energy-efficient?\n\nRelevant NIST AI RMF\nSubcategories: Map 1.1\nMeasure 2.12"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "NIST Characteristics of\nTrustworthiness",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: NIST Characteristics of\nTrustworthiness\n\nProperties of\nTrustworthiness: Properties of\nTrustworthiness\n\nQuestion(s) to Consider: Question(s) to Consider\n\nRelevant NIST AI RMF\nSubcategories: Relevant NIST AI RMF\nSubcategories"
+    "body": "NIST Characteristics of Trustworthiness: Responsible Practice\nand Use\n\nProperties of Trustworthiness: Efficient Data Centers\n\nQuestion(s) to Consider: How can we make our use of data centers\nmore energy-efficient?\n\nRelevant NIST AI RMF Subcategories: Map 1.1\nMeasure 2.12"
   },
   {
     "depth": 2,
@@ -725,23 +125,7 @@
     "section_name": "Valid and Reliable",
     "id_kind": "",
     "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: Valid and Reliable\n\nProperties of\nTrustworthiness: Accurate\n\nQuestion(s) to Consider: How will we assess the accuracy of\nwhat the model has learned using an\ninterpretation method (descriptive\naccuracy)? How will we assess the\naccuracy of the underlying data\nrelationships with the model (predictive\naccuracy)? What benchmarks will we use?\nHow will we communicate this as needed?\n\nRelevant NIST AI RMF\nSubcategories: Govern 4.3\nMap 1.1\nMap 2.2\nMap 2.3\nMeasure 2.3\nMeasure 2.5\nManage 1.1\nManage 4.1"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Reproducible",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Reproducible\n\nQuestion(s) to Consider: How will we test whether desirable\noutputs of the AI system can be\nreproduced in different circumstances?\n\nRelevant NIST AI RMF\nSubcategories: Govern 4.3\nGovern 5.1\nMap 2.1\nMap 2.2\nMap 2.3\nMeasure 2.1\nMeasure 2.3\nMeasure 2.5\nManage 1.1"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Efficient",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Efficient\n\nQuestion(s) to Consider: How will we improve the efficiency of\nthe AI system in terms of its energy and\npower usage, model size, and memory\nconsumption? How can we make the\nmodel architecture of the AI system more\nefficient?\n\nRelevant NIST AI RMF\nSubcategories: Govern 4.3\nMap 2.1\nMap 2.2\nMap 2.3\nMeasure 2.3\nMeasure 2.4\nMeasure 2.5\nMeasure 2.12"
+    "body": "NIST Characteristics of Trustworthiness: Valid and Reliable\n\nProperties of Trustworthiness: Accurate\n\nQuestion(s) to Consider: How will we assess the accuracy of\nwhat the model has learned using an\ninterpretation method (descriptive\naccuracy)? How will we assess the\naccuracy of the underlying data\nrelationships with the model (predictive\naccuracy)? What benchmarks will we use?\nHow will we communicate this as needed?\n\nRelevant NIST AI RMF Subcategories: Govern 4.3\nMap 1.1\nMap 2.2\nMap 2.3\nMeasure 2.3\nMeasure 2.5\nManage 1.1\nManage 4.1\n\nProperties of Trustworthiness: Reproducible | Question(s) to Consider: How will we test whether desirable\noutputs of the AI system can be\nreproduced in different circumstances? | Relevant NIST AI RMF Subcategories: Govern 4.3\nGovern 5.1\nMap 2.1\nMap 2.2\nMap 2.3\nMeasure 2.1\nMeasure 2.3\nMeasure 2.5\nManage 1.1\n\nProperties of Trustworthiness: Efficient | Question(s) to Consider: How will we improve the efficiency of\nthe AI system in terms of its energy and\npower usage, model size, and memory\nconsumption? How can we make the\nmodel architecture of the AI system more\nefficient? | Relevant NIST AI RMF Subcategories: Govern 4.3\nMap 2.1\nMap 2.2\nMap 2.3\nMeasure 2.3\nMeasure 2.4\nMeasure 2.5\nMeasure 2.12"
   },
   {
     "depth": 2,
@@ -749,47 +133,15 @@
     "section_name": "Safe",
     "id_kind": "",
     "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: Safe\n\nProperties of\nTrustworthiness: Safely Interruptible\n\nQuestion(s) to Consider: How will we ensure that reliable technical\nand procedural controls, including\ndeactivation and fail-safe shutdown, are\nin place to enable the safe use of the AI\nsystem?\n\nRelevant NIST AI RMF\nSubcategories: Govern 1.2\nGovern 1.7\nGovern 4.1\nGovern 4.3\nGovern 6.2\nMap 1.6\nMap 2.2\nMeasure 2.6\nMeasure 3.1\nManage 2.4\nManage 4.1"
+    "body": "NIST Characteristics of Trustworthiness: Safe\n\nProperties of Trustworthiness: Safely Interruptible\n\nQuestion(s) to Consider: How will we ensure that reliable technical\nand procedural controls, including\ndeactivation and fail-safe shutdown, are\nin place to enable the safe use of the AI\nsystem?\n\nRelevant NIST AI RMF Subcategories: Govern 1.2\nGovern 1.7\nGovern 4.1\nGovern 4.3\nGovern 6.2\nMap 1.6\nMap 2.2\nMeasure 2.6\nMeasure 3.1\nManage 2.4\nManage 4.1\n\nProperties of Trustworthiness: Loyal | Question(s) to Consider: To whom or what will the AI system be\n\"loyal,\" and will that be optimal and made\ntransparent? | Relevant NIST AI RMF Subcategories: Govern 3.2\nGovern 4.2\nGovern 6.1\nMap 1.1\nMap 1.3\nMap 2.1\nMap 2.2\nMap 2.3\nMeasure 1.3\nMeasure 2.4\nMeasure 2.8\nManage 4.1\nManage 4.3\n\nProperties of Trustworthiness: Power-averse | Question(s) to Consider: How will we incentivize models to avoid\npower or avoid gaining more power than\nis necessary? | Relevant NIST AI RMF Subcategories: Govern 4.1\nGovern 4.2\nGovern 4.3\nMap 1.1\nMap 1.6\nMap 2.3\nMeasure 2.6\nMeasure 3.1\nManage 2.4\n\nProperties of Trustworthiness: Containment | Question(s) to Consider: How can we contain the AI system to\nprevent safety and security breaches? | Relevant NIST AI RMF Subcategories: Govern 1.7\nGovern 4.3\nMap 1.6\nMap 2.2\nMeasure 2.6\nMeasure 2.7\nManage 2.4\nManage 4.1"
   },
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "NIST Characteristics of\nTrustworthiness",
+    "section_name": "Fair with Harmful Bias Managed",
     "id_kind": "",
     "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: NIST Characteristics of\nTrustworthiness\n\nProperties of\nTrustworthiness: Properties of\nTrustworthiness\n\nQuestion(s) to Consider: Question(s) to Consider\n\nRelevant NIST AI RMF\nSubcategories: Relevant NIST AI RMF\nSubcategories"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Loyal",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Loyal\n\nQuestion(s) to Consider: To whom or what will the AI system be\n\"loyal,\" and will that be optimal and made\ntransparent?\n\nRelevant NIST AI RMF\nSubcategories: Govern 3.2\nGovern 4.2\nGovern 6.1\nMap 1.1\nMap 1.3\nMap 2.1\nMap 2.2\nMap 2.3\nMeasure 1.3\nMeasure 2.4\nMeasure 2.8\nManage 4.1\nManage 4.3"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Power-averse",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Power-averse\n\nQuestion(s) to Consider: How will we incentivize models to avoid\npower or avoid gaining more power than\nis necessary?\n\nRelevant NIST AI RMF\nSubcategories: Govern 4.1\nGovern 4.2\nGovern 4.3\nMap 1.1\nMap 1.6\nMap 2.3\nMeasure 2.6\nMeasure 3.1\nManage 2.4"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Containment",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Containment\n\nQuestion(s) to Consider: How can we contain the AI system to\nprevent safety and security breaches?\n\nRelevant NIST AI RMF\nSubcategories: Govern 1.7\nGovern 4.3\nMap 1.6\nMap 2.2\nMeasure 2.6\nMeasure 2.7\nManage 2.4\nManage 4.1"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Fair with Harmful Bias\nManaged",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: Fair with Harmful Bias\nManaged\n\nProperties of\nTrustworthiness: Mitigation of\nComputational Bias*\n\nQuestion(s) to Consider: How will we assess and mitigate\ncomputational bias (including biased\ninput data and biased model design)?\nHow will we ensure the AI system does\nnot provide a lower quality of service for\ncertain demographic groups, including\nmarginalized groups?\n\nRelevant NIST AI RMF\nSubcategories: Govern 1.1\nGovern 1.2\nGovern 3.1\nGovern 5.1\nGovern 5.2\nMap 1.1\nMap 1.2\nMap 2.3\nMap 5.2\nMeasure 1.3\nMeasure 2.2\nMeasure 2.11\nManage 4.1\nManage 4.3"
+    "body": "NIST Characteristics of Trustworthiness: Fair with Harmful Bias\nManaged\n\nProperties of Trustworthiness: Mitigation of\nComputational Bias*\n\nQuestion(s) to Consider: How will we assess and mitigate\ncomputational bias (including biased\ninput data and biased model design)?\nHow will we ensure the AI system does\nnot provide a lower quality of service for\ncertain demographic groups, including\nmarginalized groups?\n\nRelevant NIST AI RMF Subcategories: Govern 1.1\nGovern 1.2\nGovern 3.1\nGovern 5.1\nGovern 5.2\nMap 1.1\nMap 1.2\nMap 2.3\nMap 5.2\nMeasure 1.3\nMeasure 2.2\nMeasure 2.11\nManage 4.1\nManage 4.3"
   },
   {
     "depth": 2,
@@ -797,31 +149,15 @@
     "section_name": "Secure and Resilient",
     "id_kind": "",
     "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: Secure and Resilient\n\nProperties of\nTrustworthiness: Protection Against\nTrojans\n\nQuestion(s) to Consider: How will we detect if there is hidden\nfunctionality embedded in our models?\n\nRelevant NIST AI RMF\nSubcategories: Govern 4.1\nGovern 4.3\nMap 2.3\nMap 4.2\nMeasure 2.7\nManage 3.1\nManage 3.2\nManage 4.1"
+    "body": "NIST Characteristics of Trustworthiness: Secure and Resilient\n\nProperties of Trustworthiness: Protection Against\nTrojans\n\nQuestion(s) to Consider: How will we detect if there is hidden\nfunctionality embedded in our models?\n\nRelevant NIST AI RMF Subcategories: Govern 4.1\nGovern 4.3\nMap 2.3\nMap 4.2\nMeasure 2.7\nManage 3.1\nManage 3.2\nManage 4.1\n\nProperties of Trustworthiness: Built-in Defenses | Question(s) to Consider: How will the AI system respond to attacks\nas they occur? | Relevant NIST AI RMF Subcategories: Govern 4.1\nGovern 4.3\nMap 2.3\nMap 4.2\nMeasure 2.7\nManage 3.1\nManage 3.2\nManage 4.1\nManage 4.3"
   },
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "NIST Characteristics of\nTrustworthiness",
+    "section_name": "Explainable and Interpretable",
     "id_kind": "",
     "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: NIST Characteristics of\nTrustworthiness\n\nProperties of\nTrustworthiness: Properties of\nTrustworthiness\n\nQuestion(s) to Consider: Question(s) to Consider\n\nRelevant NIST AI RMF\nSubcategories: Relevant NIST AI RMF\nSubcategories"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Built-in Defenses",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Built-in Defenses\n\nQuestion(s) to Consider: How will the AI system respond to attacks\nas they occur?\n\nRelevant NIST AI RMF\nSubcategories: Govern 4.1\nGovern 4.3\nMap 2.3\nMap 4.2\nMeasure 2.7\nManage 3.1\nManage 3.2\nManage 4.1\nManage 4.3"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Explainable and\nInterpretable",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: Explainable and\nInterpretable\n\nProperties of\nTrustworthiness: Interpretable Uncertainty\n\nQuestion(s) to Consider: How will we make model uncertainty\nmore interpretable by adding features\nsuch as confidence interval outputs,\nconditional probabilistic predictions\nencoded through sentences, and\ncalibration?\n\nRelevant NIST AI RMF\nSubcategories: Govern 5.2\nMap 1.1\nMap 1.2\nMap 2.2\nMeasure 2.9"
+    "body": "NIST Characteristics of Trustworthiness: Explainable and\nInterpretable\n\nProperties of Trustworthiness: Interpretable Uncertainty\n\nQuestion(s) to Consider: How will we make model uncertainty\nmore interpretable by adding features\nsuch as confidence interval outputs,\nconditional probabilistic predictions\nencoded through sentences, and\ncalibration?\n\nRelevant NIST AI RMF Subcategories: Govern 5.2\nMap 1.1\nMap 1.2\nMap 2.2\nMeasure 2.9"
   },
   {
     "depth": 2,
@@ -829,31 +165,23 @@
     "section_name": "Privacy-enhanced",
     "id_kind": "",
     "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: Privacy-enhanced\n\nProperties of\nTrustworthiness: Model Protection*\n\nQuestion(s) to Consider: How will we protect model access that\ncould reveal sensitive information?\n\nRelevant NIST AI RMF\nSubcategories: Govern 1.1\nMap 4.2\nMeasure 2.7\nMeasure 2.10\nManage 4.1"
+    "body": "NIST Characteristics of Trustworthiness: Privacy-enhanced\n\nProperties of Trustworthiness: Model Protection*\n\nQuestion(s) to Consider: How will we protect model access that\ncould reveal sensitive information?\n\nRelevant NIST AI RMF Subcategories: Govern 1.1\nMap 4.2\nMeasure 2.7\nMeasure 2.10\nManage 4.1"
   },
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "Accountable and\nTransparent",
+    "section_name": "Accountable and Transparent",
     "id_kind": "",
     "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: Accountable and\nTransparent\n\nProperties of\nTrustworthiness: System Honesty\n\nQuestion(s) to Consider: How will we ensure the AI system only\npresents outputs that are accurate and\nnot intentionally deceptive?\n\nRelevant NIST AI RMF\nSubcategories: Govern 4.3\nMap 1.1\nMap 2.2\nMap 2.3\nMeasure 2.3\nMeasure 2.4\nMeasure 2.5\nMeasure 2.6\nMeasure 2.9\nManage 4.1"
+    "body": "NIST Characteristics of Trustworthiness: Accountable and\nTransparent\n\nProperties of Trustworthiness: System Honesty\n\nQuestion(s) to Consider: How will we ensure the AI system only\npresents outputs that are accurate and\nnot intentionally deceptive?\n\nRelevant NIST AI RMF Subcategories: Govern 4.3\nMap 1.1\nMap 2.2\nMap 2.3\nMeasure 2.3\nMeasure 2.4\nMeasure 2.5\nMeasure 2.6\nMeasure 2.9\nManage 4.1"
   },
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "Responsible Practice\nand Use",
+    "section_name": "Responsible Practice and Use",
     "id_kind": "",
     "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: Responsible Practice\nand Use\n\nProperties of\nTrustworthiness: Reduction of\nComputational\nRequirements\n\nQuestion(s) to Consider: How can we reduce the computational\nrequirements of the AI system?\n\nRelevant NIST AI RMF\nSubcategories: Govern 1.2\nMap 1.1\nMap 3.2\nMeasure 2.12"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "NIST Characteristics of\nTrustworthiness",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: NIST Characteristics of\nTrustworthiness\n\nQuestion(s) to Consider: Properties of\nTrustworthiness\n\nRelevant NIST AI RMF\nSubcategories: Question(s) to Consider\n\nColumn 5: Relevant NIST AI RMF\nSubcategories"
+    "body": "NIST Characteristics of Trustworthiness: Responsible Practice\nand Use\n\nProperties of Trustworthiness: Reduction of\nComputational\nRequirements\n\nQuestion(s) to Consider: How can we reduce the computational\nrequirements of the AI system?\n\nRelevant NIST AI RMF Subcategories: Govern 1.2\nMap 1.1\nMap 3.2\nMeasure 2.12"
   },
   {
     "depth": 2,
@@ -861,63 +189,7 @@
     "section_name": "Valid and Reliable",
     "id_kind": "",
     "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Valid and Reliable\n\nQuestion(s) to Consider: Verifiable\n\nRelevant NIST AI RMF\nSubcategories: How will we verify that the system is\nbehaving as expected?\n\nColumn 5: Govern 4.3\nMap 2.3\nMeasure 1.3\nMeasure 2.1\nMeasure 2.13\nManage 4.1"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Reliable",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Question(s) to Consider: Reliable\n\nRelevant NIST AI RMF\nSubcategories: How will we ensure the AI system\nperforms predictably and as intended,\nincluding in new environments or with\nnew inputs? How will we determine\nacceptable error rates for intended\nuses?\n\nColumn 5: Govern 4.3\nMap 1.1\nMap 2.2\nMap 2.3\nMeasure 2.5\nManage 3.1\nManage 4.1"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Replayable",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Question(s) to Consider: Replayable\n\nRelevant NIST AI RMF\nSubcategories: How can we replay the behavior of\nthe system to see if the same input\ngenerates the same output?\n\nColumn 5: Govern 4.3\nMap 2.3\nMeasure 2.4\nMeasure 2.5\nManage 4.1"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Effective",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Question(s) to Consider: Effective\n\nRelevant NIST AI RMF\nSubcategories: How will we judge sufficient\neffectiveness of the AI system, in the lab\nand in the real world?\n\nColumn 5: Govern 4.3\nMap 1.1\nMap 1.2\nMap 1.3\nMap 2.2\nMap 2.3\nMap 3.1\nMap 3.2\nMap 5.2\nMeasure 2.5\nMeasure 4.2\nMeasure 4.3\nManage 1.1\nManage 4.1"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Valid",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Question(s) to Consider: Valid\n\nRelevant NIST AI RMF\nSubcategories: How will we validate the outputs of the\nAI system, including through external\nvalidation?\n\nColumn 5: Govern 4.3\nGovern 5.1\nMap 5.2\nMeasure 1.3\nMeasure 2.5\nMeasure 3.3\nMeasure 4.2\nManage 1.1\nManage 4.1"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "NIST Characteristics of\nTrustworthiness",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: NIST Characteristics of\nTrustworthiness\n\nProperties of\nTrustworthiness: Properties of\nTrustworthiness\n\nQuestion(s) to Consider: Question(s) to Consider\n\nRelevant NIST AI RMF\nSubcategories: Relevant NIST AI RMF\nSubcategories"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Appropriate Capabilities\nfor the Tasks",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Appropriate Capabilities\nfor the Tasks\n\nQuestion(s) to Consider: How will we review whether the\ncapabilities of the AI system are\nappropriate for a particular use and\ncontext?\n\nRelevant NIST AI RMF\nSubcategories: Govern 4.3\nMap 1.1\nMap 1.2\nMap 1.3\nMap 2.1\nMap 2.2\nMap 2.3\nMeasure 1.3\nMeasure 2.4\nMeasure 2.5\nManage 4.1"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Appropriate System\nDesign and Training for\nthe Tasks",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Appropriate System\nDesign and Training for\nthe Tasks\n\nQuestion(s) to Consider: How will we review that the design and\ntraining of the system is appropriate\nfor intended and likely uses, and is not\nunderspecified?\n\nRelevant NIST AI RMF\nSubcategories: Govern 4.3\nMap 1.1\nMap 1.3\nMap 2.1\nMap 2.2\nMap 2.3\nMap 3.3\nMeasure 2.3\nMeasure 2.4\nMeasure 2.5\nManage 4.1"
+    "body": "NIST Characteristics of Trustworthiness: Valid and Reliable\n\nProperties of Trustworthiness: Verifiable\n\nQuestion(s) to Consider: How will we verify that the system is\nbehaving as expected?\n\nRelevant NIST AI RMF Subcategories: Govern 4.3\nMap 2.3\nMeasure 1.3\nMeasure 2.1\nMeasure 2.13\nManage 4.1\n\nProperties of Trustworthiness: Reliable | Question(s) to Consider: How will we ensure the AI system\nperforms predictably and as intended,\nincluding in new environments or with\nnew inputs? How will we determine\nacceptable error rates for intended\nuses? | Relevant NIST AI RMF Subcategories: Govern 4.3\nMap 1.1\nMap 2.2\nMap 2.3\nMeasure 2.5\nManage 3.1\nManage 4.1\n\nProperties of Trustworthiness: Replayable | Question(s) to Consider: How can we replay the behavior of\nthe system to see if the same input\ngenerates the same output? | Relevant NIST AI RMF Subcategories: Govern 4.3\nMap 2.3\nMeasure 2.4\nMeasure 2.5\nManage 4.1\n\nProperties of Trustworthiness: Effective | Question(s) to Consider: How will we judge sufficient\neffectiveness of the AI system, in the lab\nand in the real world? | Relevant NIST AI RMF Subcategories: Govern 4.3\nMap 1.1\nMap 1.2\nMap 1.3\nMap 2.2\nMap 2.3\nMap 3.1\nMap 3.2\nMap 5.2\nMeasure 2.5\nMeasure 4.2\nMeasure 4.3\nManage 1.1\nManage 4.1\n\nProperties of Trustworthiness: Valid | Question(s) to Consider: How will we validate the outputs of the\nAI system, including through external\nvalidation? | Relevant NIST AI RMF Subcategories: Govern 4.3\nGovern 5.1\nMap 5.2\nMeasure 1.3\nMeasure 2.5\nMeasure 3.3\nMeasure 4.2\nManage 1.1\nManage 4.1\n\nProperties of Trustworthiness: Appropriate Capabilities\nfor the Tasks | Question(s) to Consider: How will we review whether the\ncapabilities of the AI system are\nappropriate for a particular use and\ncontext? | Relevant NIST AI RMF Subcategories: Govern 4.3\nMap 1.1\nMap 1.2\nMap 1.3\nMap 2.1\nMap 2.2\nMap 2.3\nMeasure 1.3\nMeasure 2.4\nMeasure 2.5\nManage 4.1\n\nProperties of Trustworthiness: Appropriate System\nDesign and Training for\nthe Tasks | Question(s) to Consider: How will we review that the design and\ntraining of the system is appropriate\nfor intended and likely uses, and is not\nunderspecified? | Relevant NIST AI RMF Subcategories: Govern 4.3\nMap 1.1\nMap 1.3\nMap 2.1\nMap 2.2\nMap 2.3\nMap 3.3\nMeasure 2.3\nMeasure 2.4\nMeasure 2.5\nManage 4.1"
   },
   {
     "depth": 2,
@@ -925,31 +197,15 @@
     "section_name": "Safe",
     "id_kind": "",
     "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: Safe\n\nProperties of\nTrustworthiness: Protection from Proxy\nGaming\n\nQuestion(s) to Consider: How will we test the ability of the AI\nsystem to try to \"game\" a proxy of a\ntrue objective function, or to learn\nnovel methods to achieve its objective\nfunction? How will this be prevented?\n\nRelevant NIST AI RMF\nSubcategories: Govern 4.3\nMap 1.6\nMap 2.2\nMap 2.3\nMeasure 2.6\nMeasure 3.1\nManage 4.1\nManage 4.3"
+    "body": "NIST Characteristics of Trustworthiness: Safe\n\nProperties of Trustworthiness: Protection from Proxy\nGaming\n\nQuestion(s) to Consider: How will we test the ability of the AI\nsystem to try to \"game\" a proxy of a\ntrue objective function, or to learn\nnovel methods to achieve its objective\nfunction? How will this be prevented?\n\nRelevant NIST AI RMF Subcategories: Govern 4.3\nMap 1.6\nMap 2.2\nMap 2.3\nMeasure 2.6\nMeasure 3.1\nManage 4.1\nManage 4.3\n\nProperties of Trustworthiness: Review | Question(s) to Consider: How will we review any errors or\ninconsistencies with the AI system that\nemerge? | Relevant NIST AI RMF Subcategories: Govern 4.3\nMeasure 1.3\nMeasure 2.6\nMeasure 3.1\nManage 3.1\nManage 4.1\nManage 4.3"
   },
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "Review",
+    "section_name": "Fair with Harmful Bias Managed",
     "id_kind": "",
     "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Review\n\nQuestion(s) to Consider: How will we review any errors or\ninconsistencies with the AI system that\nemerge?\n\nRelevant NIST AI RMF\nSubcategories: Govern 4.3\nMeasure 1.3\nMeasure 2.6\nMeasure 3.1\nManage 3.1\nManage 4.1\nManage 4.3"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Fair with Harmful Bias\nManaged",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: Fair with Harmful Bias\nManaged\n\nProperties of\nTrustworthiness: Non-Discrimination*\n\nQuestion(s) to Consider: How will we ensure the AI system is not\ndiscriminatory across gender, racial,\nability, age, political beliefs, religion, or\nother dimensions?\n\nRelevant NIST AI RMF\nSubcategories: Govern 1.1\nGovern 1.2\nGovern 3.1\nGovern 5.1\nGovern 5.2\nMap 1.1\nMap 1.2\nMap 5.1\nMap 5.2\nMeasure 1.3\nMeasure 2.2\nMeasure 2.11\nMeasure 3.3\nManage 4.1"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "NIST Characteristics of",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: NIST Characteristics of\n\nProperties of\nTrustworthiness: Properties of\n\nQuestion(s) to Consider: Question(s) to Consider\n\nRelevant NIST AI RMF\nSubcategories: Relevant NIST AI RMF"
+    "body": "NIST Characteristics of Trustworthiness: Fair with Harmful Bias\nManaged\n\nProperties of Trustworthiness: Non-Discrimination*\n\nQuestion(s) to Consider: How will we ensure the AI system is not\ndiscriminatory across gender, racial,\nability, age, political beliefs, religion, or\nother dimensions?\n\nRelevant NIST AI RMF Subcategories: Govern 1.1\nGovern 1.2\nGovern 3.1\nGovern 5.1\nGovern 5.2\nMap 1.1\nMap 1.2\nMap 5.1\nMap 5.2\nMeasure 1.3\nMeasure 2.2\nMeasure 2.11\nMeasure 3.3\nManage 4.1"
   },
   {
     "depth": 2,
@@ -957,7 +213,7 @@
     "section_name": "Trustworthiness",
     "id_kind": "",
     "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: Trustworthiness\n\nProperties of\nTrustworthiness: Trustworthiness\n\nRelevant NIST AI RMF\nSubcategories: Subcategories"
+    "body": "NIST Characteristics of: Trustworthiness\n\nProperties of: Trustworthiness\n\nRelevant NIST AI RMF: Subcategories"
   },
   {
     "depth": 2,
@@ -965,15 +221,7 @@
     "section_name": "Secure and Resilient",
     "id_kind": "",
     "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: Secure and Resilient\n\nProperties of\nTrustworthiness: Robust\n\nQuestion(s) to Consider: How will we protect the AI system\nagainst cyber attacks, adversarial\nattacks, data poisoning, model leakage,\nevasion, inversion, etc., and ensure\nongoing performance? How will\nwe ensure the system is robust to\noptimizers that aim to induce specific\nsystem responses?\n\nRelevant NIST AI RMF\nSubcategories: Govern 4.1\nGovern 4.3\nGovern 6.1\nGovern 6.2\nMap 2.3\nMeasure 2.7\nManage 2.4\nManage 3.1\nManage 3.2\nManage 4.1\nManage 4.3"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Resilient",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Resilient\n\nQuestion(s) to Consider: How will we assess the AI system's\nability to handle uncertainty and\nunknown environments?\n\nRelevant NIST AI RMF\nSubcategories: Govern 4.1\nGovern 4.3\nGovern 6.1\nMap 1.1\nMap 2.2\nMap 2.3\nMeasure 2.5\nMeasure 2.7\nMeasure 3.1\nManage 4.1\nManage 4.3"
+    "body": "NIST Characteristics of: Secure and Resilient\n\nProperties of: Robust\n\nQuestion(s) to Consider: How will we protect the AI system\nagainst cyber attacks, adversarial\nattacks, data poisoning, model leakage,\nevasion, inversion, etc., and ensure\nongoing performance? How will\nwe ensure the system is robust to\noptimizers that aim to induce specific\nsystem responses?\n\nRelevant NIST AI RMF: Govern 4.1\nGovern 4.3\nGovern 6.1\nGovern 6.2\nMap 2.3\nMeasure 2.7\nManage 2.4\nManage 3.1\nManage 3.2\nManage 4.1\nManage 4.3\n\nProperties of: Resilient | Question(s) to Consider: How will we assess the AI system's\nability to handle uncertainty and\nunknown environments? | Relevant NIST AI RMF: Govern 4.1\nGovern 4.3\nGovern 6.1\nMap 1.1\nMap 2.2\nMap 2.3\nMeasure 2.5\nMeasure 2.7\nMeasure 3.1\nManage 4.1\nManage 4.3"
   },
   {
     "depth": 2,
@@ -981,23 +229,15 @@
     "section_name": "Privacy-Enhanced",
     "id_kind": "",
     "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: Privacy-Enhanced\n\nProperties of\nTrustworthiness: Protection from\nUnwarranted Data\nAccess*\n\nQuestion(s) to Consider: How will we ensure the AI system\ncannot be used to give unwarranted\naccess to data?\n\nRelevant NIST AI RMF\nSubcategories: Govern 1.1\nGovern 4.3\nGovern 6.1\nMap 2.3\nMeasure 2.7\nMeasure 2.10\nManage 3.1\nManage 3.2\nManage 4.1\nManage 4.3"
+    "body": "NIST Characteristics of: Privacy-Enhanced\n\nProperties of: Protection from\nUnwarranted Data\nAccess*\n\nQuestion(s) to Consider: How will we ensure the AI system\ncannot be used to give unwarranted\naccess to data?\n\nRelevant NIST AI RMF: Govern 1.1\nGovern 4.3\nGovern 6.1\nMap 2.3\nMeasure 2.7\nMeasure 2.10\nManage 3.1\nManage 3.2\nManage 4.1\nManage 4.3"
   },
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "Accountable and\nTransparent",
+    "section_name": "Accountable and Transparent",
     "id_kind": "",
     "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: Accountable and\nTransparent\n\nProperties of\nTrustworthiness: Future Projections of\nPossible System and\nEnvironmental Changes\n\nQuestion(s) to Consider: How might the AI system learn and\nevolve over time? How might the\nenvironment it is deployed in change\nover time?\n\nRelevant NIST AI RMF\nSubcategories: Govern 1.5\nGovern 4.3\nMap 1.1\nMap 3.3\nMap 5.1\nMeasure 2.8\nMeasure 3.1\nMeasure 3.2\nMeasure 3.3\nManage 2.3\nManage 4.1"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "NIST Characteristics of\nTrustworthiness",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: NIST Characteristics of\nTrustworthiness\n\nProperties of\nTrustworthiness: Properties of\nTrustworthiness\n\nQuestion(s) to Consider: Question(s) to Consider\n\nRelevant NIST AI RMF\nSubcategories: Relevant NIST AI RMF\nSubcategories"
+    "body": "NIST Characteristics of: Accountable and\nTransparent\n\nProperties of: Future Projections of\nPossible System and\nEnvironmental Changes\n\nQuestion(s) to Consider: How might the AI system learn and\nevolve over time? How might the\nenvironment it is deployed in change\nover time?\n\nRelevant NIST AI RMF: Govern 1.5\nGovern 4.3\nMap 1.1\nMap 3.3\nMap 5.1\nMeasure 2.8\nMeasure 3.1\nMeasure 3.2\nMeasure 3.3\nManage 2.3\nManage 4.1"
   },
   {
     "depth": 2,
@@ -1005,23 +245,7 @@
     "section_name": "Valid and Reliable",
     "id_kind": "",
     "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: Valid and Reliable\n\nProperties of\nTrustworthiness: Generalizable\n\nQuestion(s) to Consider: How will we ensure that the AI system\ncan generalize from the testing\nenvironment to the complexity or\ndifferent context of the application\nenvironment?\n\nRelevant NIST AI RMF\nSubcategories: Govern 4.3\nMap 1.1\nMap 1.3\nMap 2.2\nMap 3.3\nMeasure 2.5\nManage 1.1\nManage 4.1"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Effective Assessment\nof the Complexity\nof Networks and\nDependencies",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Effective Assessment\nof the Complexity\nof Networks and\nDependencies\n\nQuestion(s) to Consider: How will we assess the complexity of\nintegrated networks and dependencies\nrequired for the functioning of the AI\nsystem?\n\nRelevant NIST AI RMF\nSubcategories: Govern 2.1\nGovern 3.2\nGovern 6.1\nMap 1.1\nMap 4.1\nManage 3.1"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Usable",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Usable*\n\nQuestion(s) to Consider: How will we test the usability of the\nAI system for all kinds of users and\nfacilitate user feedback? How will the\nuser interface be tested for usability,\ncomprehension, and other attributes?\nHow will we ensure users know how to\ninterpret system behavior?\n\nRelevant NIST AI RMF\nSubcategories: Govern 5.2\nMap 1.1\nMap 1.2\nMap 1.3\nMeasure 2.9\nMeasure 3.3\nManage 4.2"
+    "body": "NIST Characteristics of Trustworthiness: Valid and Reliable\n\nProperties of Trustworthiness: Generalizable\n\nQuestion(s) to Consider: How will we ensure that the AI system\ncan generalize from the testing\nenvironment to the complexity or\ndifferent context of the application\nenvironment?\n\nRelevant NIST AI RMF Subcategories: Govern 4.3\nMap 1.1\nMap 1.3\nMap 2.2\nMap 3.3\nMeasure 2.5\nManage 1.1\nManage 4.1\n\nProperties of Trustworthiness: Effective Assessment\nof the Complexity\nof Networks and\nDependencies | Question(s) to Consider: How will we assess the complexity of\nintegrated networks and dependencies\nrequired for the functioning of the AI\nsystem? | Relevant NIST AI RMF Subcategories: Govern 2.1\nGovern 3.2\nGovern 6.1\nMap 1.1\nMap 4.1\nManage 3.1\n\nProperties of Trustworthiness: Usable* | Question(s) to Consider: How will we test the usability of the\nAI system for all kinds of users and\nfacilitate user feedback? How will the\nuser interface be tested for usability,\ncomprehension, and other attributes?\nHow will we ensure users know how to\ninterpret system behavior? | Relevant NIST AI RMF Subcategories: Govern 5.2\nMap 1.1\nMap 1.2\nMap 1.3\nMeasure 2.9\nMeasure 3.3\nManage 4.2"
   },
   {
     "depth": 2,
@@ -1029,23 +253,15 @@
     "section_name": "Safe",
     "id_kind": "",
     "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: Safe\n\nProperties of\nTrustworthiness: Effective Detection of\nAnomalies\n\nQuestion(s) to Consider: How will we detect potential novel\nhazards?\n\nRelevant NIST AI RMF\nSubcategories: Govern 4.1\nGovern 4.2\nGovern 4.3\nMap 2.2\nMap 2.3\nMeasure 2.6\nMeasure 2.7\nMeasure 3.1\nManage 4.1"
+    "body": "NIST Characteristics of Trustworthiness: Safe\n\nProperties of Trustworthiness: Effective Detection of\nAnomalies\n\nQuestion(s) to Consider: How will we detect potential novel\nhazards?\n\nRelevant NIST AI RMF Subcategories: Govern 4.1\nGovern 4.2\nGovern 4.3\nMap 2.2\nMap 2.3\nMeasure 2.6\nMeasure 2.7\nMeasure 3.1\nManage 4.1"
   },
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "Fair with Harmful Bias\nManaged",
+    "section_name": "Fair with Harmful Bias Managed",
     "id_kind": "",
     "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: Fair with Harmful Bias\nManaged\n\nProperties of\nTrustworthiness: Accessible*\n\nQuestion(s) to Consider: How will we ensure that the AI system's\nuser interface is usable by those with\nspecial needs or disabilities, or those at\nrisk of exclusion?\n\nRelevant NIST AI RMF\nSubcategories: Govern 1.1\nGovern 3.1\nGovern 5.1\nGovern 5.2\nMap 1.1\nMap 1.2\nMap 5.2\nManage 4.1"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "NIST Characteristics of\nTrustworthiness",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: NIST Characteristics of\nTrustworthiness\n\nProperties of\nTrustworthiness: Properties of\nTrustworthiness\n\nQuestion(s) to Consider: Question(s) to Consider\n\nRelevant NIST AI RMF\nSubcategories: Relevant NIST AI RMF\nSubcategories"
+    "body": "NIST Characteristics of Trustworthiness: Fair with Harmful Bias\nManaged\n\nProperties of Trustworthiness: Accessible*\n\nQuestion(s) to Consider: How will we ensure that the AI system's\nuser interface is usable by those with\nspecial needs or disabilities, or those at\nrisk of exclusion?\n\nRelevant NIST AI RMF Subcategories: Govern 1.1\nGovern 3.1\nGovern 5.1\nGovern 5.2\nMap 1.1\nMap 1.2\nMap 5.2\nManage 4.1"
   },
   {
     "depth": 2,
@@ -1053,79 +269,31 @@
     "section_name": "Secure and Resilient",
     "id_kind": "",
     "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: Secure and Resilient\n\nProperties of\nTrustworthiness: Use of Adversarial Testing\n\nQuestion(s) to Consider: How will we establish \"bug bounties\" and\nenable \"red teams\" to try to deliberately\nfind vulnerabilities in the AI system?\n\nRelevant NIST AI RMF\nSubcategories: Govern 4.1\nGovern 4.3\nGovern 5.1\nGovern 5.2\nMap 2.3\nMeasure 2.7\nMeasure 3.1\nManage 4.1"
+    "body": "NIST Characteristics of Trustworthiness: Secure and Resilient\n\nProperties of Trustworthiness: Use of Adversarial Testing\n\nQuestion(s) to Consider: How will we establish \"bug bounties\" and\nenable \"red teams\" to try to deliberately\nfind vulnerabilities in the AI system?\n\nRelevant NIST AI RMF Subcategories: Govern 4.1\nGovern 4.3\nGovern 5.1\nGovern 5.2\nMap 2.3\nMeasure 2.7\nMeasure 3.1\nManage 4.1"
   },
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "Explainable and\nInterpretable",
+    "section_name": "Explainable and Interpretable",
     "id_kind": "",
     "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: Explainable and\nInterpretable\n\nProperties of\nTrustworthiness: Interpretable*\n\nQuestion(s) to Consider: How will we judge the interpretability of\nthe system's explanation to the particular\ncontext and user?\n\nRelevant NIST AI RMF\nSubcategories: Govern 5.2\nMap 1.1\nMeasure 2.9\nManage 4.1"
+    "body": "NIST Characteristics of Trustworthiness: Explainable and\nInterpretable\n\nProperties of Trustworthiness: Interpretable*\n\nQuestion(s) to Consider: How will we judge the interpretability of\nthe system's explanation to the particular\ncontext and user?\n\nRelevant NIST AI RMF Subcategories: Govern 5.2\nMap 1.1\nMeasure 2.9\nManage 4.1"
   },
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "Accountable and\nTransparent",
+    "section_name": "Accountable and Transparent",
     "id_kind": "",
     "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: Accountable and\nTransparent\n\nProperties of\nTrustworthiness: Responsible Publication\nand Disclosure\n\nQuestion(s) to Consider: How will we assess potential risks of\npublicizing, publishing, opening up\nfor external use, or open-sourcing an\nAI system's code or model? How will\nwe determine a strategy to safely and\nappropriately release the AI system, and\nwhat protections may be necessary to\nprevent harm or misuse?\n\nRelevant NIST AI RMF\nSubcategories: Govern 1.2\nGovern 4.1\nMap 1.1\nMeasure 2.6\nMeasure 2.8\nManage 4 .1"
+    "body": "NIST Characteristics of Trustworthiness: Accountable and\nTransparent\n\nProperties of Trustworthiness: Responsible Publication\nand Disclosure\n\nQuestion(s) to Consider: How will we assess potential risks of\npublicizing, publishing, opening up\nfor external use, or open-sourcing an\nAI system's code or model? How will\nwe determine a strategy to safely and\nappropriately release the AI system, and\nwhat protections may be necessary to\nprevent harm or misuse?\n\nRelevant NIST AI RMF Subcategories: Govern 1.2\nGovern 4.1\nMap 1.1\nMeasure 2.6\nMeasure 2.8\nManage 4 .1\n\nProperties of Trustworthiness: Information-sharing | Question(s) to Consider: How will we share critical information\nabout our AI system with relevant\nauthorities and stakeholders? | Relevant NIST AI RMF Subcategories: Govern 1.1\nGovern 1.4\nGovern 4.2\nGovern 4.3\nMeasure 1.3\nMeasure 2.8\nManage 4.3\n\nProperties of Trustworthiness: User Testing and\nEngagement; User\nExperience* | Question(s) to Consider: How will we test the system with\nusers, and how will we engage them\nin iterating upon the system design\nand deployment? How will we test and\nimprove the user experience? | Relevant NIST AI RMF Subcategories: Govern 5.1\nGovern 5.2\nMap 5.2\nMeasure 3.3\nMeasure 4.1\nManage 4.1\n\nProperties of Trustworthiness: Proactive\nCommunication* | Question(s) to Consider: How can we inform users that they are\ninteracting with an AI system (and what\ntype of AI system), or that a decision that\nimpacts them was made by an AI system,\nand how can we provide expectations as\nto the system's capabilities, benefits, and\nlimitations and potential risks? | Relevant NIST AI RMF Subcategories: Govern 1.1\nMeasure 2.8\nManage 4.1\nManage 4.3"
   },
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "Information-sharing",
+    "section_name": "Responsible Practice and Use",
     "id_kind": "",
     "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Information-sharing\n\nQuestion(s) to Consider: How will we share critical information\nabout our AI system with relevant\nauthorities and stakeholders?\n\nRelevant NIST AI RMF\nSubcategories: Govern 1.1\nGovern 1.4\nGovern 4.2\nGovern 4.3\nMeasure 1.3\nMeasure 2.8\nManage 4.3"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "User Testing and\nEngagement; User\nExperience",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: User Testing and\nEngagement; User\nExperience*\n\nQuestion(s) to Consider: How will we test the system with\nusers, and how will we engage them\nin iterating upon the system design\nand deployment? How will we test and\nimprove the user experience?\n\nRelevant NIST AI RMF\nSubcategories: Govern 5.1\nGovern 5.2\nMap 5.2\nMeasure 3.3\nMeasure 4.1\nManage 4.1"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Proactive\nCommunication",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Proactive\nCommunication*\n\nQuestion(s) to Consider: How can we inform users that they are\ninteracting with an AI system (and what\ntype of AI system), or that a decision that\nimpacts them was made by an AI system,\nand how can we provide expectations as\nto the system's capabilities, benefits, and\nlimitations and potential risks?\n\nRelevant NIST AI RMF\nSubcategories: Govern 1.1\nMeasure 2.8\nManage 4.1\nManage 4.3"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "NIST Characteristics of\nTrustworthiness",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: NIST Characteristics of\nTrustworthiness\n\nProperties of\nTrustworthiness: Properties of\nTrustworthiness\n\nQuestion(s) to Consider: Question(s) to Consider\n\nRelevant NIST AI RMF\nSubcategories: Relevant NIST AI RMF\nSubcategories"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Responsible Practice\nand Use",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: Responsible Practice\nand Use\n\nProperties of\nTrustworthiness: Beneficial to Society\n\nQuestion(s) to Consider: How will we ensure the AI system will be\nleveraged to benefit society?\n\nRelevant NIST AI RMF\nSubcategories: Govern 1.2\nGovern 3.1\nGovern 5.1\nGovern 5.2\nMap 1.1\nMap 1.2\nMap 3.1\nMap 3.2\nMap 5.1\nMap 5.2\nMeasure 1.3"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Measure 3.3\nMeasure 4.2\nMeasure 4.3\nManage 1.1\nManage 4.1",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Relevant NIST AI RMF\nSubcategories: Measure 3.3\nMeasure 4.2\nMeasure 4.3\nManage 1.1\nManage 4.1"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "NIST Characteristics of\nTrustworthiness",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: NIST Characteristics of\nTrustworthiness\n\nProperties of\nTrustworthiness: Properties of\nTrustworthiness\n\nQuestion(s) to Consider: Question(s) to Consider\n\nRelevant NIST AI RMF\nSubcategories: Relevant NIST AI\nRMF Subcategories"
+    "body": "NIST Characteristics of Trustworthiness: Responsible Practice\nand Use\n\nProperties of Trustworthiness: Beneficial to Society\n\nQuestion(s) to Consider: How will we ensure the AI system will be\nleveraged to benefit society?\n\nRelevant NIST AI RMF Subcategories: Govern 1.2\nGovern 3.1\nGovern 5.1\nGovern 5.2\nMap 1.1\nMap 1.2\nMap 3.1\nMap 3.2\nMap 5.1\nMap 5.2\nMeasure 1.3\n\nRelevant NIST AI RMF Subcategories: Measure 3.3\nMeasure 4.2\nMeasure 4.3\nManage 1.1\nManage 4.1"
   },
   {
     "depth": 2,
@@ -1133,71 +301,7 @@
     "section_name": "Valid and Reliable",
     "id_kind": "",
     "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: Valid and Reliable\n\nProperties of\nTrustworthiness: Continuous Monitoring\n\nQuestion(s) to Consider: How will we monitor the AI system's capabilities,\noutputs, errors, breaches, success, and impacts\nover time, especially for self-learning or\ncontinuous-learning AI systems? How will we\ndetermine which events to monitor, and how to\nprioritize review and response?\n\nRelevant NIST AI RMF\nSubcategories: Govern 4.1\nGovern 4.2\nGovern 4.3\nMap 5.2\nMeasure 2.4\nMeasure 3.1\nManage 3.1\nManage 3.2\nManage 4.1"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Maintaining Quality\nOver Time",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Maintaining Quality\nOver Time\n\nQuestion(s) to Consider: How will we ensure the maintainability of the\nAI system after it is operationalized? How will\nwe maintain the quality of the system and its\noutputs over time?\n\nRelevant NIST AI RMF\nSubcategories: Govern 4.3\nMap 5.2\nMeasure 2.4\nMeasure 3.3\nMeasure 4.3\nManage 2.2\nManage 4.1\nManage 4.2"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Acceptable and\nDesirable",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Acceptable and\nDesirable\n\nQuestion(s) to Consider: How will we judge the acceptability and\ndesirability of the use of the AI system by the\ncommunities, organizations, and institutions that\nare using the system and are impacted by it?\n\nRelevant NIST AI RMF\nSubcategories: Govern 5.1\nGovern 5.2\nMap 1.1\nMap 5.2\nMeasure 1.3\nMeasure 3.3\nMeasure 4.2\nMeasure 4.3\nManage 1.1\nManage 4.1"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Human Agency",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Human Agency\n\nQuestion(s) to Consider: How will human agency be meaningfully\nincorporated in the operation of the AI system?\n\nRelevant NIST AI RMF\nSubcategories: Govern 2.1\nGovern 3.2\nGovern 5.2\nMap 1.1\nMap 2.2\nMeasure 1.3\nMeasure 2.2\nMeasure 3.3\nMeasure 4.3\nManage 4.1"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "NIST Characteristics of\nTrustworthiness",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: NIST Characteristics of\nTrustworthiness\n\nProperties of\nTrustworthiness: Properties of\nTrustworthiness\n\nQuestion(s) to Consider: Question(s) to Consider\n\nRelevant NIST AI RMF\nSubcategories: Relevant NIST AI\nRMF Subcategories"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Human Control",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Human Control\n\nQuestion(s) to Consider: How will we ensure that a human is in control\nor meaningfully in the loop of the operational\ndecision-making process of the AI system, and\nhas been trained to exercise oversight and avoid\noverconfidence in the system?\n\nRelevant NIST AI RMF\nSubcategories: Govern 2.1\nGovern 3.2\nGovern 4.3\nMap 1.1\nMap 2.2\nMap 3.4\nMap 3.5\nMeasure 1.2\nMeasure 3.3\nManage 2.4\nManage 4.1"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Human Oversight",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Human Oversight\n\nQuestion(s) to Consider: How will human oversight be ensured in\nthe operation of the AI system? How will we\ndesignate and train the stakeholders responsible\nfor managing and monitoring the AI system,\nincluding overriding or interrupting the system\nif necessary?\n\nRelevant NIST AI RMF\nSubcategories: Govern 2.1\nGovern 3.2\nGovern 4.3\nMap 1.1\nMap 2.2\nMap 3.4\nMap 3.5\nMap 5.2\nMeasure 1.3\nMeasure 3.3\nMeasure 4.2\nManage 4.1\nManage 4.3"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Appropriate Retirement",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Appropriate Retirement\n\nQuestion(s) to Consider: How will we determine when and how to retire\nthe use of the AI system?\n\nRelevant NIST AI RMF\nSubcategories: Govern 1.7\nMap 5.2\nMeasure 1.3\nMeasure 3.3\nManage 2.4\nManage 4.1"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Iterative Learning and\nImprovements",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Iterative Learning and\nImprovements\n\nQuestion(s) to Consider: How will we continue to learn, iterate, and\nimprove over time?\n\nRelevant NIST AI RMF\nSubcategories: Govern 1.5\nGovern 2.2\nGovern 3.1\nGovern 4.1\nGovern 5.1\nMap 5.2\nMeasure 1.3\nMeasure 3.3\nMeasure 4.1\nMeasure 4.2\nMeasure 4.3\nManage 4.1\nManage 4.2"
+    "body": "NIST Characteristics of Trustworthiness: Valid and Reliable\n\nProperties of Trustworthiness: Continuous Monitoring\n\nQuestion(s) to Consider: How will we monitor the AI system's capabilities,\noutputs, errors, breaches, success, and impacts\nover time, especially for self-learning or\ncontinuous-learning AI systems? How will we\ndetermine which events to monitor, and how to\nprioritize review and response?\n\nRelevant NIST AI RMF Subcategories: Govern 4.1\nGovern 4.2\nGovern 4.3\nMap 5.2\nMeasure 2.4\nMeasure 3.1\nManage 3.1\nManage 3.2\nManage 4.1\n\nProperties of Trustworthiness: Maintaining Quality\nOver Time | Question(s) to Consider: How will we ensure the maintainability of the\nAI system after it is operationalized? How will\nwe maintain the quality of the system and its\noutputs over time? | Relevant NIST AI RMF Subcategories: Govern 4.3\nMap 5.2\nMeasure 2.4\nMeasure 3.3\nMeasure 4.3\nManage 2.2\nManage 4.1\nManage 4.2\n\nProperties of Trustworthiness: Acceptable and\nDesirable | Question(s) to Consider: How will we judge the acceptability and\ndesirability of the use of the AI system by the\ncommunities, organizations, and institutions that\nare using the system and are impacted by it? | Relevant NIST AI RMF Subcategories: Govern 5.1\nGovern 5.2\nMap 1.1\nMap 5.2\nMeasure 1.3\nMeasure 3.3\nMeasure 4.2\nMeasure 4.3\nManage 1.1\nManage 4.1\n\nProperties of Trustworthiness: Human Agency | Question(s) to Consider: How will human agency be meaningfully\nincorporated in the operation of the AI system? | Relevant NIST AI RMF Subcategories: Govern 2.1\nGovern 3.2\nGovern 5.2\nMap 1.1\nMap 2.2\nMeasure 1.3\nMeasure 2.2\nMeasure 3.3\nMeasure 4.3\nManage 4.1\n\nProperties of Trustworthiness: Human Control | Question(s) to Consider: How will we ensure that a human is in control\nor meaningfully in the loop of the operational\ndecision-making process of the AI system, and\nhas been trained to exercise oversight and avoid\noverconfidence in the system? | Relevant NIST AI RMF Subcategories: Govern 2.1\nGovern 3.2\nGovern 4.3\nMap 1.1\nMap 2.2\nMap 3.4\nMap 3.5\nMeasure 1.2\nMeasure 3.3\nManage 2.4\nManage 4.1\n\nProperties of Trustworthiness: Human Oversight | Question(s) to Consider: How will human oversight be ensured in\nthe operation of the AI system? How will we\ndesignate and train the stakeholders responsible\nfor managing and monitoring the AI system,\nincluding overriding or interrupting the system\nif necessary? | Relevant NIST AI RMF Subcategories: Govern 2.1\nGovern 3.2\nGovern 4.3\nMap 1.1\nMap 2.2\nMap 3.4\nMap 3.5\nMap 5.2\nMeasure 1.3\nMeasure 3.3\nMeasure 4.2\nManage 4.1\nManage 4.3\n\nProperties of Trustworthiness: Appropriate Retirement | Question(s) to Consider: How will we determine when and how to retire\nthe use of the AI system? | Relevant NIST AI RMF Subcategories: Govern 1.7\nMap 5.2\nMeasure 1.3\nMeasure 3.3\nManage 2.4\nManage 4.1\n\nProperties of Trustworthiness: Iterative Learning and\nImprovements | Question(s) to Consider: How will we continue to learn, iterate, and\nimprove over time? | Relevant NIST AI RMF Subcategories: Govern 1.5\nGovern 2.2\nGovern 3.1\nGovern 4.1\nGovern 5.1\nMap 5.2\nMeasure 1.3\nMeasure 3.3\nMeasure 4.1\nMeasure 4.2\nMeasure 4.3\nManage 4.1\nManage 4.2"
   },
   {
     "depth": 2,
@@ -1205,127 +309,31 @@
     "section_name": "Safe",
     "id_kind": "",
     "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: Safe\n\nProperties of\nTrustworthiness: Re-evaluation\n\nQuestion(s) to Consider: How will we evaluate when the AI system has\nbeen sufficiently modified such that a new\nreview of its technical robustness and safety is\nwarranted?\n\nRelevant NIST AI RMF\nSubcategories: Govern 4.3\nMeasure 1.3\nMeasure 2.6\nMeasure 3.1\nManage 2.3\nManage 4.1"
+    "body": "NIST Characteristics of Trustworthiness: Safe\n\nProperties of Trustworthiness: Re-evaluation\n\nQuestion(s) to Consider: How will we evaluate when the AI system has\nbeen sufficiently modified such that a new\nreview of its technical robustness and safety is\nwarranted?\n\nRelevant NIST AI RMF Subcategories: Govern 4.3\nMeasure 1.3\nMeasure 2.6\nMeasure 3.1\nManage 2.3\nManage 4.1\n\nProperties of Trustworthiness: Assurance /\nManagement of\nContinual Learning | Question(s) to Consider: How will we assess shifts to an AI system\nif it learns and evolves over time, including\nthe possibility of emerging properties or\ndiscontinuous jumps in capabilities? | Relevant NIST AI RMF Subcategories: Govern 4.1\nGovern 4.3\nMap 2.2\nMeasure 2.6\nMeasure 3.1\nManage 2.3\nManage 4.1\n\nProperties of Trustworthiness: Awareness of Functional\nEvolution | Question(s) to Consider: How will we track shifts in the AI system's\nfunctionality over time? | Relevant NIST AI RMF Subcategories: Govern 4.1\nGovern 4.3\nMap 2.2\nMeasure 2.4\nMeasure 2.6\nMeasure 3.1\nManage 2.3\nManage 4.1\n\nProperties of Trustworthiness: Assurance /\nManagement\nof Emergent\nFunctionalities | Question(s) to Consider: How will we predict and detect new capabilities\nand goals of the AI system? | Relevant NIST AI RMF Subcategories: Govern 4.1\nGovern 4.3\nMap 2.2\nMeasure 2.4\nMeasure 2.6\nMeasure 3.1\nManage 2.3\nManage 4.1"
   },
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "NIST Characteristics of\nTrustworthiness",
+    "section_name": "Fair with Harmful Bias Managed",
     "id_kind": "",
     "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: NIST Characteristics of\nTrustworthiness\n\nProperties of\nTrustworthiness: Properties of\nTrustworthiness\n\nQuestion(s) to Consider: Question(s) to Consider\n\nRelevant NIST AI RMF\nSubcategories: Relevant NIST AI\nRMF Subcategories"
+    "body": "NIST Characteristics of Trustworthiness: Fair with Harmful Bias\nManaged\n\nProperties of Trustworthiness: Shared Benefit\n\nQuestion(s) to Consider: How will the benefits of the AI system's use be\ndistributed? Can those benefits be shared more\nwidely?\n\nRelevant NIST AI RMF Subcategories: Govern 3.1\nGovern 5.1\nGovern 5.2\nMap 1.1\nMap 1.2\nMap 3.1\nManage 2.2\nManage 4.2"
   },
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "Assurance /\nManagement of\nContinual Learning",
+    "section_name": "Accountable and Transparent",
     "id_kind": "",
     "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Assurance /\nManagement of\nContinual Learning\n\nQuestion(s) to Consider: How will we assess shifts to an AI system\nif it learns and evolves over time, including\nthe possibility of emerging properties or\ndiscontinuous jumps in capabilities?\n\nRelevant NIST AI RMF\nSubcategories: Govern 4.1\nGovern 4.3\nMap 2.2\nMeasure 2.6\nMeasure 3.1\nManage 2.3\nManage 4.1"
+    "body": "NIST Characteristics of Trustworthiness: Accountable and\nTransparent\n\nProperties of Trustworthiness: Auditable\n\nQuestion(s) to Consider: How will independent auditors or an\nindependent monitoring body be able to assess\nthe AI system and its impacts? Is there sufficient\ndocumentation to support an audit?\n\nRelevant NIST AI RMF Subcategories: Govern 1.4\nGovern 4.2\nMap 4.1\nMap 5.1\nMeasure 1.3\nMeasure 2.8\nManage 4.3"
   },
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "Awareness of Functional\nEvolution",
+    "section_name": "Responsible Practice and Use",
     "id_kind": "",
     "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Awareness of Functional\nEvolution\n\nQuestion(s) to Consider: How will we track shifts in the AI system's\nfunctionality over time?\n\nRelevant NIST AI RMF\nSubcategories: Govern 4.1\nGovern 4.3\nMap 2.2\nMeasure 2.4\nMeasure 2.6\nMeasure 3.1\nManage 2.3\nManage 4.1"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Assurance /\nManagement\nof Emergent\nFunctionalities",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Assurance /\nManagement\nof Emergent\nFunctionalities\n\nQuestion(s) to Consider: How will we predict and detect new capabilities\nand goals of the AI system?\n\nRelevant NIST AI RMF\nSubcategories: Govern 4.1\nGovern 4.3\nMap 2.2\nMeasure 2.4\nMeasure 2.6\nMeasure 3.1\nManage 2.3\nManage 4.1"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Fair with Harmful Bias\nManaged",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: Fair with Harmful Bias\nManaged\n\nProperties of\nTrustworthiness: Shared Benefit\n\nQuestion(s) to Consider: How will the benefits of the AI system's use be\ndistributed? Can those benefits be shared more\nwidely?\n\nRelevant NIST AI RMF\nSubcategories: Govern 3.1\nGovern 5.1\nGovern 5.2\nMap 1.1\nMap 1.2\nMap 3.1\nManage 2.2\nManage 4.2"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Accountable and\nTransparent",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: Accountable and\nTransparent\n\nProperties of\nTrustworthiness: Auditable\n\nQuestion(s) to Consider: How will independent auditors or an\nindependent monitoring body be able to assess\nthe AI system and its impacts? Is there sufficient\ndocumentation to support an audit?\n\nRelevant NIST AI RMF\nSubcategories: Govern 1.4\nGovern 4.2\nMap 4.1\nMap 5.1\nMeasure 1.3\nMeasure 2.8\nManage 4.3"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Responsible Practice\nand Use",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: Responsible Practice\nand Use\n\nProperties of\nTrustworthiness: Prevention of Significant\nAdverse Impacts\n\nQuestion(s) to Consider: How will we identify and prevent or mitigate\nand minimize significant adverse impacts,\nincluding harm and/or violence to people or\ncommunities, including harassment, stereotyping\nor demeaning, addiction, or over-reliance?\n\nRelevant NIST AI RMF\nSubcategories: A majority of all of\nthe subcategories\nare critical. Map 1.1\nis especially relevant\nto help understand\nthe purpose,\ncontext, and impacts\nof the intended use."
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "NIST Characteristics of\nTrustworthiness",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: NIST Characteristics of\nTrustworthiness\n\nProperties of\nTrustworthiness: Properties of\nTrustworthiness\n\nQuestion(s) to Consider: Question(s) to Consider\n\nRelevant NIST AI RMF\nSubcategories: Relevant NIST AI\nRMF Subcategories"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Prevention of Malicious\nor Harmful Synthetic\nContent",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Prevention of Malicious\nor Harmful Synthetic\nContent\n\nQuestion(s) to Consider: How will we monitor and prevent or mitigate\nthe creation or spread of malicious or harmful\nsynthetic content, such as non-consensual\ndeepfakes?\n\nRelevant NIST AI RMF\nSubcategories: Govern 1.1\nGovern 1.2\nMap 1.1\nMap 5.1\nMap 5.2\nMeasure 1.3\nMeasure 3.3\nManage 2.4\nManage 4.1"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Prevention of Misuses\nand Abuses",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Prevention of Misuses\nand Abuses\n\nQuestion(s) to Consider: How will we monitor uses and actively prevent\nor mitigate misuses and abuses, including human\nrights abuses? For example, how will we prevent\nthe sale or the system to actors with records of\nhuman rights abuses?\n\nRelevant NIST AI RMF\nSubcategories: Govern 1.1\nGovern 1.2\nMap 1.1\nMap 5.1\nMap 5.2\nMeasure 1.3\nMeasure 3.3\nManage 2.4\nManage 4.1"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Prevention of Social or\nBehavioral Manipulation",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Prevention of Social or\nBehavioral Manipulation\n\nQuestion(s) to Consider: How will we monitor and prevent or mitigate\nindividual or social manipulation, for example\nthrough recommender systems, dark patterns,\nor computational propaganda?\n\nRelevant NIST AI RMF\nSubcategories: Govern 1.1\nGovern 1.2\nMap 1.1\nMap 5.1\nMap 5.2\nMeasure 1.3\nMeasure 3.3\nManage 2.4\nManage 4.1"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Assessment of\nEnvironmental\nImplications",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Assessment of\nEnvironmental\nImplications\n\nQuestion(s) to Consider: How will we analyze and document the\nenvironmental implications of the AI system and\nits uses?\n\nRelevant NIST AI RMF\nSubcategories: Govern 3.1\nGovern 4.2\nMap 1.1\nMap 3.2\nMap 5.1\nMap 5.2\nMeasure 1.3\nMeasure 2.12\nManage 4.1"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Oversight of Third-Party\nUses",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Oversight of Third-Party\nUses\n\nQuestion(s) to Consider: How will we determine which third parties\nto do business with, and how will we oversee\nthird-party uses to help prevent misuses of the\nAI system?\n\nRelevant NIST AI RMF\nSubcategories: Govern 6.1\nGovern 6.2\nMap 4.1\nMap 4.2\nManage 3.1\nManage 3.2"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Assessment of\nImplications Over Time",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Assessment of\nImplications Over Time\n\nQuestion(s) to Consider: How will we assess the implications of the use\nof the AI system over time? What events should\ntrigger reevaluation, and how frequently should\nwe reevaluate?\n\nRelevant NIST AI RMF\nSubcategories: Govern 1.5\nGovern 4.2\nMap 1.1\nMeasure 1.2\nMeasure 1.3\nMeasure 3.1\nMeasure 3.3\nManage 2.3\nManage 4.1"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "NIST Characteristics of\nTrustworthiness",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: NIST Characteristics of\nTrustworthiness\n\nProperties of\nTrustworthiness: Properties of\nTrustworthiness\n\nQuestion(s) to Consider: Question(s) to Consider\n\nRelevant NIST AI RMF\nSubcategories: Relevant NIST AI RMF\nSubcategories"
+    "body": "NIST Characteristics of Trustworthiness: Responsible Practice\nand Use\n\nProperties of Trustworthiness: Prevention of Significant\nAdverse Impacts\n\nQuestion(s) to Consider: How will we identify and prevent or mitigate\nand minimize significant adverse impacts,\nincluding harm and/or violence to people or\ncommunities, including harassment, stereotyping\nor demeaning, addiction, or over-reliance?\n\nRelevant NIST AI RMF Subcategories: A majority of all of\nthe subcategories\nare critical. Map 1.1\nis especially relevant\nto help understand\nthe purpose,\ncontext, and impacts\nof the intended use.\n\nProperties of Trustworthiness: Prevention of Malicious\nor Harmful Synthetic\nContent | Question(s) to Consider: How will we monitor and prevent or mitigate\nthe creation or spread of malicious or harmful\nsynthetic content, such as non-consensual\ndeepfakes? | Relevant NIST AI RMF Subcategories: Govern 1.1\nGovern 1.2\nMap 1.1\nMap 5.1\nMap 5.2\nMeasure 1.3\nMeasure 3.3\nManage 2.4\nManage 4.1\n\nProperties of Trustworthiness: Prevention of Misuses\nand Abuses | Question(s) to Consider: How will we monitor uses and actively prevent\nor mitigate misuses and abuses, including human\nrights abuses? For example, how will we prevent\nthe sale or the system to actors with records of\nhuman rights abuses? | Relevant NIST AI RMF Subcategories: Govern 1.1\nGovern 1.2\nMap 1.1\nMap 5.1\nMap 5.2\nMeasure 1.3\nMeasure 3.3\nManage 2.4\nManage 4.1\n\nProperties of Trustworthiness: Prevention of Social or\nBehavioral Manipulation | Question(s) to Consider: How will we monitor and prevent or mitigate\nindividual or social manipulation, for example\nthrough recommender systems, dark patterns,\nor computational propaganda? | Relevant NIST AI RMF Subcategories: Govern 1.1\nGovern 1.2\nMap 1.1\nMap 5.1\nMap 5.2\nMeasure 1.3\nMeasure 3.3\nManage 2.4\nManage 4.1\n\nProperties of Trustworthiness: Assessment of\nEnvironmental\nImplications | Question(s) to Consider: How will we analyze and document the\nenvironmental implications of the AI system and\nits uses? | Relevant NIST AI RMF Subcategories: Govern 3.1\nGovern 4.2\nMap 1.1\nMap 3.2\nMap 5.1\nMap 5.2\nMeasure 1.3\nMeasure 2.12\nManage 4.1\n\nProperties of Trustworthiness: Oversight of Third-Party\nUses | Question(s) to Consider: How will we determine which third parties\nto do business with, and how will we oversee\nthird-party uses to help prevent misuses of the\nAI system? | Relevant NIST AI RMF Subcategories: Govern 6.1\nGovern 6.2\nMap 4.1\nMap 4.2\nManage 3.1\nManage 3.2\n\nProperties of Trustworthiness: Assessment of\nImplications Over Time | Question(s) to Consider: How will we assess the implications of the use\nof the AI system over time? What events should\ntrigger reevaluation, and how frequently should\nwe reevaluate? | Relevant NIST AI RMF Subcategories: Govern 1.5\nGovern 4.2\nMap 1.1\nMeasure 1.2\nMeasure 1.3\nMeasure 3.1\nMeasure 3.3\nManage 2.3\nManage 4.1"
   },
   {
     "depth": 2,
@@ -1333,15 +341,7 @@
     "section_name": "Valid and Reliable",
     "id_kind": "",
     "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: Valid and Reliable\n\nProperties of\nTrustworthiness: Engagement with\nImpacted Communities\n\nQuestion(s) to Consider: How will we identify and engage with\ncommunities impacted by the use of the\nsystem, either directly or indirectly, and\nincorporate their feedback?\n\nRelevant NIST AI RMF\nSubcategories: Govern 5.1\nGovern 5.2\nMap 5.2\nMeasure 1.3\nMeasure 3.3\nMeasure 4.3\nManage 4.1\nManage 4.3"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Effective Feedback",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Effective Feedback*\n\nQuestion(s) to Consider: How will we establish a dedicated channel\nfor feedback and questions about the AI\nsystem from users and the general public?\n\nRelevant NIST AI RMF\nSubcategories: Govern 5.1\nGovern 5.2\nMap 5.2\nMeasure 1.3\nMeasure 3.3\nManage 4.1"
+    "body": "NIST Characteristics of Trustworthiness: Valid and Reliable\n\nProperties of Trustworthiness: Engagement with\nImpacted Communities\n\nQuestion(s) to Consider: How will we identify and engage with\ncommunities impacted by the use of the\nsystem, either directly or indirectly, and\nincorporate their feedback?\n\nRelevant NIST AI RMF Subcategories: Govern 5.1\nGovern 5.2\nMap 5.2\nMeasure 1.3\nMeasure 3.3\nMeasure 4.3\nManage 4.1\nManage 4.3\n\nProperties of Trustworthiness: Effective Feedback* | Question(s) to Consider: How will we establish a dedicated channel\nfor feedback and questions about the AI\nsystem from users and the general public? | Relevant NIST AI RMF Subcategories: Govern 5.1\nGovern 5.2\nMap 5.2\nMeasure 1.3\nMeasure 3.3\nManage 4.1"
   },
   {
     "depth": 2,
@@ -1349,15 +349,15 @@
     "section_name": "Safe",
     "id_kind": "",
     "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: Safe\n\nProperties of\nTrustworthiness: Incident Reporting\n\nQuestion(s) to Consider: How will we publicly report incidents and\nadverse impacts of the AI system, such\nas mistakes, errors, breaches, unintended\nconsequences, etc.?\n\nRelevant NIST AI RMF\nSubcategories: Govern 4.2\nGovern 4.3\nMeasure 2.6\nManage 4.1\nManage 4.3"
+    "body": "NIST Characteristics of Trustworthiness: Safe\n\nProperties of Trustworthiness: Incident Reporting\n\nQuestion(s) to Consider: How will we publicly report incidents and\nadverse impacts of the AI system, such\nas mistakes, errors, breaches, unintended\nconsequences, etc.?\n\nRelevant NIST AI RMF Subcategories: Govern 4.2\nGovern 4.3\nMeasure 2.6\nManage 4.1\nManage 4.3"
   },
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "Fair with Harmful Bias\nManaged",
+    "section_name": "Fair with Harmful Bias Managed",
     "id_kind": "",
     "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: Fair with Harmful Bias\nManaged\n\nProperties of\nTrustworthiness: Fair Access to AI Tools\nand Services\n\nQuestion(s) to Consider: How can we promote widespread and\nequitable access to our AI tools and services,\nand any resources or opportunities they\nenable?\n\nRelevant NIST AI RMF\nSubcategories: Govern 3.1\nGovern 5.2\nMap 1.1\nMap 1.2\nMap 5.2\nManage 4.2"
+    "body": "NIST Characteristics of Trustworthiness: Fair with Harmful Bias\nManaged\n\nProperties of Trustworthiness: Fair Access to AI Tools\nand Services\n\nQuestion(s) to Consider: How can we promote widespread and\nequitable access to our AI tools and services,\nand any resources or opportunities they\nenable?\n\nRelevant NIST AI RMF Subcategories: Govern 3.1\nGovern 5.2\nMap 1.1\nMap 1.2\nMap 5.2\nManage 4.2"
   },
   {
     "depth": 2,
@@ -1365,23 +365,15 @@
     "section_name": "Secure and Resilient",
     "id_kind": "",
     "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: Secure and Resilient\n\nProperties of\nTrustworthiness: Vulnerability Disclosure\n\nQuestion(s) to Consider: How will we establish a coordinated policy to\nencourage responsible vulnerability research\nand disclosure?\n\nRelevant NIST AI RMF\nSubcategories: Govern 1.1\nGovern 1.2\nGovern 4.2\nGovern 4.3\nMap 5.2\nMeasure 2.7\nManage 4.1\nManage 4.3"
+    "body": "NIST Characteristics of Trustworthiness: Secure and Resilient\n\nProperties of Trustworthiness: Vulnerability Disclosure\n\nQuestion(s) to Consider: How will we establish a coordinated policy to\nencourage responsible vulnerability research\nand disclosure?\n\nRelevant NIST AI RMF Subcategories: Govern 1.1\nGovern 1.2\nGovern 4.2\nGovern 4.3\nMap 5.2\nMeasure 2.7\nManage 4.1\nManage 4.3"
   },
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "Explainable and\nInterpretable",
+    "section_name": "Explainable and Interpretable",
     "id_kind": "",
     "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: Explainable and\nInterpretable\n\nProperties of\nTrustworthiness: Relevant Explanation\n\nQuestion(s) to Consider: How will we judge how informative and\nrelevant a system's explanation is to the\nparticular context and user?\n\nRelevant NIST AI RMF\nSubcategories: Govern 5.2\nMap 5.2\nMeasure 2.9\nManage 4.2\nManage 4.3"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "NIST Characteristics of\nTrustworthiness",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: NIST Characteristics of\nTrustworthiness\n\nProperties of\nTrustworthiness: Properties of\nTrustworthiness\n\nQuestion(s) to Consider: Question(s) to Consider\n\nRelevant NIST AI RMF\nSubcategories: Relevant NIST AI RMF\nSubcategories"
+    "body": "NIST Characteristics of Trustworthiness: Explainable and\nInterpretable\n\nProperties of Trustworthiness: Relevant Explanation\n\nQuestion(s) to Consider: How will we judge how informative and\nrelevant a system's explanation is to the\nparticular context and user?\n\nRelevant NIST AI RMF Subcategories: Govern 5.2\nMap 5.2\nMeasure 2.9\nManage 4.2\nManage 4.3"
   },
   {
     "depth": 2,
@@ -1389,70 +381,22 @@
     "section_name": "Privacy-enhanced",
     "id_kind": "",
     "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: Privacy-enhanced\n\nProperties of\nTrustworthiness: Effective Notification*\n\nQuestion(s) to Consider: How will we notify users and impacted\ncommunities about privacy or security\nbreaches, or other incidents?\n\nRelevant NIST AI RMF\nSubcategories: Govern 1.1\nGovern 4.3\nMap 5.2\nMeasure 2.8\nManage 2.3\nManage 4.1\nManage 4.3"
+    "body": "NIST Characteristics of Trustworthiness: Privacy-enhanced\n\nProperties of Trustworthiness: Effective Notification*\n\nQuestion(s) to Consider: How will we notify users and impacted\ncommunities about privacy or security\nbreaches, or other incidents?\n\nRelevant NIST AI RMF Subcategories: Govern 1.1\nGovern 4.3\nMap 5.2\nMeasure 2.8\nManage 2.3\nManage 4.1\nManage 4.3"
   },
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "Accountable and\nTransparent",
+    "section_name": "Accountable and Transparent",
     "id_kind": "",
     "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: Accountable and\nTransparent\n\nProperties of\nTrustworthiness: Facilitation of\nContestability*\n\nQuestion(s) to Consider: How will users be able to contest or appeal a\ndecision or action made by the AI system?\n\nRelevant NIST AI RMF\nSubcategories: Govern 5.2\nMap 5.2\nMeasure 3.3\nManage 4.1"
+    "body": "NIST Characteristics of Trustworthiness: Accountable and\nTransparent\n\nProperties of Trustworthiness: Facilitation of\nContestability*\n\nQuestion(s) to Consider: How will users be able to contest or appeal a\ndecision or action made by the AI system?\n\nRelevant NIST AI RMF Subcategories: Govern 5.2\nMap 5.2\nMeasure 3.3\nManage 4.1\n\nProperties of Trustworthiness: Facilitation of Redress or\nRecourse | Question(s) to Consider: How will we support or compensate people\nwho are negatively affected by the use of the\nAI system? | Relevant NIST AI RMF Subcategories: Govern 5.2\nMap 5.2\nMeasure 3.3\nManage 4.1\nManage 4.3\n\nProperties of Trustworthiness: Engagement with\nGlobal Governance\nDeliberations | Question(s) to Consider: How will we analyze, follow, and engage in\nrelevant global governance deliberations and\npractices related to artificial intelligence? | Relevant NIST AI RMF Subcategories: Govern 1.1\nGovern 1.2\nGovern 5.1\nMap 5.2\nMeasure 2.8\n\nProperties of Trustworthiness: Data and System\nAccessibility | Question(s) to Consider: How can we enable access to the AI system\nand datasets to relevant authorities,\nindependent researchers, and trusted\nintermediaries? | Relevant NIST AI RMF Subcategories: Govern 4.2\nGovern 5.1\nMap 1.2\nMap 5.2\nMeasure 2.8\nManage 4.2\n\nProperties of Trustworthiness: Informed Consent of\nUse* | Question(s) to Consider: How will we enable users of the AI system to\nconsent to its use? How will we enable them\nto withdraw consent? | Relevant NIST AI RMF Subcategories: Govern 5.2\nMap 5.2\nMeasure 2.2\nManage 4.1"
   },
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "Facilitation of Redress or\nRecourse",
+    "section_name": "Responsible Practice and Use",
     "id_kind": "",
     "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Facilitation of Redress or\nRecourse\n\nQuestion(s) to Consider: How will we support or compensate people\nwho are negatively affected by the use of the\nAI system?\n\nRelevant NIST AI RMF\nSubcategories: Govern 5.2\nMap 5.2\nMeasure 3.3\nManage 4.1\nManage 4.3"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Engagement with\nGlobal Governance\nDeliberations",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Engagement with\nGlobal Governance\nDeliberations\n\nQuestion(s) to Consider: How will we analyze, follow, and engage in\nrelevant global governance deliberations and\npractices related to artificial intelligence?\n\nRelevant NIST AI RMF\nSubcategories: Govern 1.1\nGovern 1.2\nGovern 5.1\nMap 5.2\nMeasure 2.8"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Data and System\nAccessibility",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Data and System\nAccessibility\n\nQuestion(s) to Consider: How can we enable access to the AI system\nand datasets to relevant authorities,\nindependent researchers, and trusted\nintermediaries?\n\nRelevant NIST AI RMF\nSubcategories: Govern 4.2\nGovern 5.1\nMap 1.2\nMap 5.2\nMeasure 2.8\nManage 4.2"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Informed Consent of\nUse",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Informed Consent of\nUse*\n\nQuestion(s) to Consider: How will we enable users of the AI system to\nconsent to its use? How will we enable them\nto withdraw consent?\n\nRelevant NIST AI RMF\nSubcategories: Govern 5.2\nMap 5.2\nMeasure 2.2\nManage 4.1"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Responsible Practice\nand Use",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "NIST Characteristics of\nTrustworthiness: Responsible Practice\nand Use\n\nProperties of\nTrustworthiness: Ability to Opt Out*\n\nQuestion(s) to Consider: How will we ensure that people have specific\nand clear opportunities to opt out of use of\nthe AI system?\n\nRelevant NIST AI RMF\nSubcategories: Map 5.2\nMeasure 2.2\nManage 4.1"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Consumer Protection",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Consumer Protection*\n\nQuestion(s) to Consider: How will we protect consumers or users of\nthe system from harm?\n\nRelevant NIST AI RMF\nSubcategories: Govern 1.1\nGovern 4.1\nGovern 4.3\nGovern 5.1\nMap 1.1\nMap 3.4\nMap 3.5\nMap 5.1\nMap 5.2\nMeasure 1.3\nMeasure 3.3\nMeasure 4.1\nManage 4.1\nManage 4.3"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
-    "section_name": "Due Process and\nProtection",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "Properties of\nTrustworthiness: Due Process and\nProtection\n\nQuestion(s) to Consider: How will we protect whistleblowers, NGOs,\ntrade unions, or other entities who come\nforward with concerns about the AI system?\n\nRelevant NIST AI RMF\nSubcategories: Govern 1.1\nMap 4.1\nMeasure 3.3\nManage 4.1"
+    "body": "NIST Characteristics of Trustworthiness: Responsible Practice\nand Use\n\nProperties of Trustworthiness: Ability to Opt Out*\n\nQuestion(s) to Consider: How will we ensure that people have specific\nand clear opportunities to opt out of use of\nthe AI system?\n\nRelevant NIST AI RMF Subcategories: Map 5.2\nMeasure 2.2\nManage 4.1\n\nProperties of Trustworthiness: Consumer Protection* | Question(s) to Consider: How will we protect consumers or users of\nthe system from harm? | Relevant NIST AI RMF Subcategories: Govern 1.1\nGovern 4.1\nGovern 4.3\nGovern 5.1\nMap 1.1\nMap 3.4\nMap 3.5\nMap 5.1\nMap 5.2\nMeasure 1.3\nMeasure 3.3\nMeasure 4.1\nManage 4.1\nManage 4.3\n\nProperties of Trustworthiness: Due Process and\nProtection | Question(s) to Consider: How will we protect whistleblowers, NGOs,\ntrade unions, or other entities who come\nforward with concerns about the AI system? | Relevant NIST AI RMF Subcategories: Govern 1.1\nMap 4.1\nMeasure 3.3\nManage 4.1"
   }
 ]

@@ -27,471 +27,471 @@
 
         The table of contents for this Act is as follows:
 
-#### Sec. 1. Table of contents.
-#### Sec. 2. References.
+    Sec. 1. Table of contents.
+    Sec. 2. References.
 
-## DIVISION A--CHIPS ACT OF 2022
+                          DIVISION A--CHIPS ACT OF 2022
 
-#### Sec. 101. Short title.
-#### Sec. 102. Creating helpful incentives to produce semiconductors (CHIPS)
+    Sec. 101. Short title.
+    Sec. 102. Creating helpful incentives to produce semiconductors (CHIPS)
                for America fund.
-#### Sec. 103. Semiconductor incentives.
-#### Sec. 104. Opportunity and inclusion.
-#### Sec. 105. Additional GAO reporting requirements.
-#### Sec. 106. Appropriations for wireless supply chain innovation.
-#### Sec. 107. Advanced manufacturing investment credit.
+    Sec. 103. Semiconductor incentives.
+    Sec. 104. Opportunity and inclusion.
+    Sec. 105. Additional GAO reporting requirements.
+    Sec. 106. Appropriations for wireless supply chain innovation.
+    Sec. 107. Advanced manufacturing investment credit.
 
-## DIVISION B--RESEARCH AND INNOVATION
+                       DIVISION B--RESEARCH AND INNOVATION
 
-#### Sec. 10000. Table of contents.
-#### Sec. 10001. Short title.
-#### Sec. 10002. Definitions.
-#### Sec. 10003. Budgetary effects.
+    Sec. 10000. Table of contents.
+    Sec. 10001. Short title.
+    Sec. 10002. Definitions.
+    Sec. 10003. Budgetary effects.
 
-### TITLE I--DEPARTMENT OF ENERGY SCIENCE FOR THE FUTURE
+              TITLE I--DEPARTMENT OF ENERGY SCIENCE FOR THE FUTURE
 
-#### Sec. 10101. Mission of the Office of Science.
-#### Sec. 10102. Basic energy sciences program.
-#### Sec. 10103. Biological and environmental research.
-#### Sec. 10104. Advanced scientific computing research program.
-#### Sec. 10105. Fusion energy research.
-#### Sec. 10106. High energy physics program.
-#### Sec. 10107. Nuclear physics program.
-#### Sec. 10108. Science laboratories infrastructure program.
-#### Sec. 10109. Accelerator research and development.
-#### Sec. 10110. Isotope research, development, and production.
-#### Sec. 10111. Increased collaboration with teachers and scientists.
-#### Sec. 10112. High intensity laser research initiative; helium
+    Sec. 10101. Mission of the Office of Science.
+    Sec. 10102. Basic energy sciences program.
+    Sec. 10103. Biological and environmental research.
+    Sec. 10104. Advanced scientific computing research program.
+    Sec. 10105. Fusion energy research.
+    Sec. 10106. High energy physics program.
+    Sec. 10107. Nuclear physics program.
+    Sec. 10108. Science laboratories infrastructure program.
+    Sec. 10109. Accelerator research and development.
+    Sec. 10110. Isotope research, development, and production.
+    Sec. 10111. Increased collaboration with teachers and scientists.
+    Sec. 10112. High intensity laser research initiative; helium
                conservation program; Office of Science emerging biological
                threat preparedness research initiative; midscale
                instrumentation and research equipment program; authorization
                of appropriations.
-#### Sec. 10113. Established program to stimulate competitive research.
-#### Sec. 10114. Research security.
+    Sec. 10113. Established program to stimulate competitive research.
+    Sec. 10114. Research security.
 
-### TITLE II--NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY FOR THE FUTURE
+     TITLE II--NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY FOR THE FUTURE
 
-#### Sec. 10201. Definitions.
+    Sec. 10201. Definitions.
 
-### Subtitle A--Authorization of Appropriations
+                   Subtitle A--Authorization of Appropriations
 
-#### Sec. 10211. Authorization of appropriations.
+    Sec. 10211. Authorization of appropriations.
 
     [[Page 136 STAT. 1367]]
 
-### Subtitle B--Measurement Research
+                        Subtitle B--Measurement Research
 
-#### Sec. 10221. Engineering biology and biometrology.
-#### Sec. 10222. Greenhouse gas measurement research.
-#### Sec. 10223. NIST authority for cybersecurity and privacy activities.
-#### Sec. 10224. Software security and authentication.
-#### Sec. 10225. Digital identity management research.
-#### Sec. 10226. Biometrics research and testing.
-#### Sec. 10227. Federal biometric performance standards.
-#### Sec. 10228. Protecting research from cybersecurity theft.
-#### Sec. 10229. Dissemination of resources for research institutions.
-#### Sec. 10230. Advanced communications research.
-#### Sec. 10231. Neutron scattering.
-#### Sec. 10232. Artificial intelligence.
-#### Sec. 10233. Sustainable chemistry research and education.
-#### Sec. 10234. Premise plumbing research.
-#### Sec. 10235. Dr. David Satcher Cybersecurity Education Grant Program.
+    Sec. 10221. Engineering biology and biometrology.
+    Sec. 10222. Greenhouse gas measurement research.
+    Sec. 10223. NIST authority for cybersecurity and privacy activities.
+    Sec. 10224. Software security and authentication.
+    Sec. 10225. Digital identity management research.
+    Sec. 10226. Biometrics research and testing.
+    Sec. 10227. Federal biometric performance standards.
+    Sec. 10228. Protecting research from cybersecurity theft.
+    Sec. 10229. Dissemination of resources for research institutions.
+    Sec. 10230. Advanced communications research.
+    Sec. 10231. Neutron scattering.
+    Sec. 10232. Artificial intelligence.
+    Sec. 10233. Sustainable chemistry research and education.
+    Sec. 10234. Premise plumbing research.
+    Sec. 10235. Dr. David Satcher Cybersecurity Education Grant Program.
 
-### Subtitle C--General Activities
+                         Subtitle C--General Activities
 
-#### Sec. 10241. Educational outreach and support for underrepresented
+    Sec. 10241. Educational outreach and support for underrepresented
                communities.
-#### Sec. 10242. Other transactions authority.
-#### Sec. 10243. Report to Congress on collaborations with government
+    Sec. 10242. Other transactions authority.
+    Sec. 10243. Report to Congress on collaborations with government
                agencies.
-#### Sec. 10244. Hiring critical technical experts.
-#### Sec. 10245. International standards development.
-#### Sec. 10246. Standard technical update.
-#### Sec. 10247. GAO study of NIST research security policies and protocols.
-#### Sec. 10248. Standards development organization grants.
+    Sec. 10244. Hiring critical technical experts.
+    Sec. 10245. International standards development.
+    Sec. 10246. Standard technical update.
+    Sec. 10247. GAO study of NIST research security policies and protocols.
+    Sec. 10248. Standards development organization grants.
 
-### Subtitle D--Hollings Manufacturing Extension Partnership
+            Subtitle D--Hollings Manufacturing Extension Partnership
 
-#### Sec. 10251. Establishment of expansion awards pilot program as a part of
+    Sec. 10251. Establishment of expansion awards pilot program as a part of
                the Hollings Manufacturing Extension Partnership.
-#### Sec. 10252. Update to Hollings Manufacturing Extension Partnership.
-#### Sec. 10253. National Supply Chain Database.
-#### Sec. 10254. Hollings Manufacturing Extension Partnership activities.
-#### Sec. 10255. Amendment to the Hollings Manufacturing Extension
+    Sec. 10252. Update to Hollings Manufacturing Extension Partnership.
+    Sec. 10253. National Supply Chain Database.
+    Sec. 10254. Hollings Manufacturing Extension Partnership activities.
+    Sec. 10255. Amendment to the Hollings Manufacturing Extension
                Partnership relating to institutions of higher education.
 
-### Subtitle E--Manufacturing USA Program
+                      Subtitle E--Manufacturing USA Program
 
-#### Sec. 10261. Supporting geographic diversity.
-#### Sec. 10262. Expanding opportunities through the Manufacturing USA
+    Sec. 10261. Supporting geographic diversity.
+    Sec. 10262. Expanding opportunities through the Manufacturing USA
                Program.
-#### Sec. 10263. Promoting domestic production of technologies developed
+    Sec. 10263. Promoting domestic production of technologies developed
                under Manufacturing USA Program.
 
-### TITLE III--NATIONAL SCIENCE FOUNDATION FOR THE FUTURE
+              TITLE III--NATIONAL SCIENCE FOUNDATION FOR THE FUTURE
 
-### Subtitle A--Preliminary Matters
+                         Subtitle A--Preliminary Matters
 
-#### Sec. 10301. Sense of Congress.
-#### Sec. 10302. Definitions.
-#### Sec. 10303. Authorization of appropriations.
+    Sec. 10301. Sense of Congress.
+    Sec. 10302. Definitions.
+    Sec. 10303. Authorization of appropriations.
 
-### Subtitle B--STEM Education
+                           Subtitle B--STEM Education
 
-#### Sec. 10311. PreK-12 STEM education.
-#### Sec. 10312. Undergraduate STEM education.
-#### Sec. 10313. Graduate STEM education.
-#### Sec. 10314. STEM workforce data.
-#### Sec. 10315. Cyber workforce development research and development.
-#### Sec. 10316. Federal cyber scholarship-for-service program.
-#### Sec. 10317. Cybersecurity workforce data initiative.
-#### Sec. 10318. Microelectronics workforce development activities.
-#### Sec. 10319. Incorporation of art and design into certain STEM education.
-#### Sec. 10320. Mandatory cost-sharing.
-#### Sec. 10321. Programs to address the STEM workforce.
+    Sec. 10311. PreK-12 STEM education.
+    Sec. 10312. Undergraduate STEM education.
+    Sec. 10313. Graduate STEM education.
+    Sec. 10314. STEM workforce data.
+    Sec. 10315. Cyber workforce development research and development.
+    Sec. 10316. Federal cyber scholarship-for-service program.
+    Sec. 10317. Cybersecurity workforce data initiative.
+    Sec. 10318. Microelectronics workforce development activities.
+    Sec. 10319. Incorporation of art and design into certain STEM education.
+    Sec. 10320. Mandatory cost-sharing.
+    Sec. 10321. Programs to address the STEM workforce.
 
-### Subtitle C--Broadening Participation
+                      Subtitle C--Broadening Participation
 
-#### Sec. 10321. Presidential awards for excellence in mathematics and
+    Sec. 10321. Presidential awards for excellence in mathematics and
                science.
-#### Sec. 10322. Robert Noyce Teacher Scholarship program update.
-#### Sec. 10323. NSF Eddie Bernice Johnson INCLUDES Initiative.
-#### Sec. 10324. Broadening participation on major facilities awards.
-#### Sec. 10325. Expanding geographic and institutional diversity in
+    Sec. 10322. Robert Noyce Teacher Scholarship program update.
+    Sec. 10323. NSF Eddie Bernice Johnson INCLUDES Initiative.
+    Sec. 10324. Broadening participation on major facilities awards.
+    Sec. 10325. Expanding geographic and institutional diversity in
                research.
-#### Sec. 10326. Diversity in tech research.
-#### Sec. 10327. Chief Diversity Officer of the NSF.
+    Sec. 10326. Diversity in tech research.
+    Sec. 10327. Chief Diversity Officer of the NSF.
 
     [[Page 136 STAT. 1368]]
 
-#### Sec. 10328. Research and dissemination to increase the participation of
+    Sec. 10328. Research and dissemination to increase the participation of
                women and underrepresented minorities in STEM fields.
-#### Sec. 10329. Activities to expand STEM opportunities.
-#### Sec. 10330. Intramural emerging research institutions pilot program.
+    Sec. 10329. Activities to expand STEM opportunities.
+    Sec. 10330. Intramural emerging research institutions pilot program.
 
-### Subtitle D--NSF Research Security
+                        Subtitle D--NSF Research Security
 
-#### Sec. 10331. Office of Research Security and Policy.
-#### Sec. 10332. Chief of Research Security.
-#### Sec. 10333. Reporting to Congress.
-#### Sec. 10334. Online resource.
-#### Sec. 10335. Research awards.
-#### Sec. 10336. Authorities.
-#### Sec. 10337. Responsible conduct in research training.
-#### Sec. 10338. Research security and integrity information sharing analysis
+    Sec. 10331. Office of Research Security and Policy.
+    Sec. 10332. Chief of Research Security.
+    Sec. 10333. Reporting to Congress.
+    Sec. 10334. Online resource.
+    Sec. 10335. Research awards.
+    Sec. 10336. Authorities.
+    Sec. 10337. Responsible conduct in research training.
+    Sec. 10338. Research security and integrity information sharing analysis
                organization.
-#### Sec. 10339. Plan with respect to controlled information and background
+    Sec. 10339. Plan with respect to controlled information and background
                screening.
-#### Sec. 10339A. Foundation funding to institutions hosting or supporting
+    Sec. 10339A. Foundation funding to institutions hosting or supporting
                Confucius Institutes.
-#### Sec. 10339B. Foreign financial support.
-#### Sec. 10339C. Authorization of appropriations.
+    Sec. 10339B. Foreign financial support.
+    Sec. 10339C. Authorization of appropriations.
 
-### Subtitle E--Fundamental Research
+                        Subtitle E--Fundamental Research
 
-#### Sec. 10341. Broader impacts.
-#### Sec. 10342. Sense of Congress.
-#### Sec. 10343. Research ethics.
-#### Sec. 10344. Research reproducibility and replicability.
-#### Sec. 10345. Climate change research.
-#### Sec. 10346. Social, behavioral, and economic sciences.
-#### Sec. 10347. Measuring impacts of Federally funded research and
+    Sec. 10341. Broader impacts.
+    Sec. 10342. Sense of Congress.
+    Sec. 10343. Research ethics.
+    Sec. 10344. Research reproducibility and replicability.
+    Sec. 10345. Climate change research.
+    Sec. 10346. Social, behavioral, and economic sciences.
+    Sec. 10347. Measuring impacts of Federally funded research and
                development.
-#### Sec. 10348. Food-energy-water research.
-#### Sec. 10349. Biological Field Stations and Marine Laboratories.
-#### Sec. 10350. Sustainable chemistry research and education.
-#### Sec. 10351. Risk and resilience research.
-#### Sec. 10352. Unmanned aircraft systems technologies.
-#### Sec. 10353. Accelerating unmanned maritime systems technologies.
-#### Sec. 10354. Leveraging international expertise in research.
-#### Sec. 10355. Biological research collections.
-#### Sec. 10356. Clean water research and technology acceleration.
-#### Sec. 10357. Technology and behavioral science research.
-#### Sec. 10358. Manufacturing research amendment.
-#### Sec. 10359. Critical minerals mining research and development.
-#### Sec. 10360. Study of AI research capacity.
-#### Sec. 10361. Advancing IoT for Precision Agriculture Capabilities Act.
-#### Sec. 10362. Astronomy and satellite constellations.
-#### Sec. 10363. Research on the impact of inflation.
-#### Sec. 10364. Microgravity utilization policy.
-#### Sec. 10365. Recognition of the Arecibo Observatory.
+    Sec. 10348. Food-energy-water research.
+    Sec. 10349. Biological Field Stations and Marine Laboratories.
+    Sec. 10350. Sustainable chemistry research and education.
+    Sec. 10351. Risk and resilience research.
+    Sec. 10352. Unmanned aircraft systems technologies.
+    Sec. 10353. Accelerating unmanned maritime systems technologies.
+    Sec. 10354. Leveraging international expertise in research.
+    Sec. 10355. Biological research collections.
+    Sec. 10356. Clean water research and technology acceleration.
+    Sec. 10357. Technology and behavioral science research.
+    Sec. 10358. Manufacturing research amendment.
+    Sec. 10359. Critical minerals mining research and development.
+    Sec. 10360. Study of AI research capacity.
+    Sec. 10361. Advancing IoT for Precision Agriculture Capabilities Act.
+    Sec. 10362. Astronomy and satellite constellations.
+    Sec. 10363. Research on the impact of inflation.
+    Sec. 10364. Microgravity utilization policy.
+    Sec. 10365. Recognition of the Arecibo Observatory.
 
-### Subtitle F--Research Infrastructure
+                       Subtitle F--Research Infrastructure
 
-#### Sec. 10371. Facility operation and maintenance.
-#### Sec. 10372. Reviews.
-#### Sec. 10373. Helium conservation.
-#### Sec. 10374. Advanced computing.
-#### Sec. 10375. National secure data service.
+    Sec. 10371. Facility operation and maintenance.
+    Sec. 10372. Reviews.
+    Sec. 10373. Helium conservation.
+    Sec. 10374. Advanced computing.
+    Sec. 10375. National secure data service.
 
-### Subtitle G--Directorate for Technology, Innovation, and Partnerships
+      Subtitle G--Directorate for Technology, Innovation, and Partnerships
 
-#### Sec. 10381. Establishment.
-#### Sec. 10382. Purposes.
-#### Sec. 10383. Activities.
-#### Sec. 10384. Requirements.
-#### Sec. 10385. Assistant Director.
-#### Sec. 10386. Advisory committee.
-#### Sec. 10387. Challenges and focus areas.
-#### Sec. 10388. Regional Innovation Engines.
-#### Sec. 10389. Translation accelerator.
-#### Sec. 10390. Test beds.
-#### Sec. 10391. Planning and capacity building awards.
-#### Sec. 10392. Entrepreneurial fellowships.
-#### Sec. 10393. Scholarships and fellowships.
-#### Sec. 10394. Research and development awards.
-#### Sec. 10395. Scaling innovations in PreK-12 STEM education.
+    Sec. 10381. Establishment.
+    Sec. 10382. Purposes.
+    Sec. 10383. Activities.
+    Sec. 10384. Requirements.
+    Sec. 10385. Assistant Director.
+    Sec. 10386. Advisory committee.
+    Sec. 10387. Challenges and focus areas.
+    Sec. 10388. Regional Innovation Engines.
+    Sec. 10389. Translation accelerator.
+    Sec. 10390. Test beds.
+    Sec. 10391. Planning and capacity building awards.
+    Sec. 10392. Entrepreneurial fellowships.
+    Sec. 10393. Scholarships and fellowships.
+    Sec. 10394. Research and development awards.
+    Sec. 10395. Scaling innovations in PreK-12 STEM education.
 
     [[Page 136 STAT. 1369]]
 
-#### Sec. 10396. Authorities.
-#### Sec. 10397. Coordination of activities.
-#### Sec. 10398. Ethical, legal, and societal considerations.
-#### Sec. 10399. Reports and roadmaps.
-#### Sec. 10399A. Evaluation.
+    Sec. 10396. Authorities.
+    Sec. 10397. Coordination of activities.
+    Sec. 10398. Ethical, legal, and societal considerations.
+    Sec. 10399. Reports and roadmaps.
+    Sec. 10399A. Evaluation.
 
-### Subtitle H--Administrative Amendments
+                      Subtitle H--Administrative Amendments
 
-#### Sec. 10399D. Supporting veterans in STEM careers.
-#### Sec. 10399E. Sunshine Act compliance.
-#### Sec. 10399F. Science and engineering indicators report submission.
+    Sec. 10399D. Supporting veterans in STEM careers.
+    Sec. 10399E. Sunshine Act compliance.
+    Sec. 10399F. Science and engineering indicators report submission.
 
-### TITLE IV--BIOECONOMY RESEARCH AND DEVELOPMENT
+                  TITLE IV--BIOECONOMY RESEARCH AND DEVELOPMENT
 
-#### Sec. 10401. Definitions.
-#### Sec. 10402. National engineering biology research and development
+    Sec. 10401. Definitions.
+    Sec. 10402. National engineering biology research and development
                initiative.
-#### Sec. 10403. Initiative coordination.
-#### Sec. 10404. Advisory committee on engineering biology research and
+    Sec. 10403. Initiative coordination.
+    Sec. 10404. Advisory committee on engineering biology research and
                development.
-#### Sec. 10405. External review of ethical, legal, environmental, safety,
+    Sec. 10405. External review of ethical, legal, environmental, safety,
                security, and societal issues.
-#### Sec. 10406. Agency activities.
-#### Sec. 10407. Rule of construction.
+    Sec. 10406. Agency activities.
+    Sec. 10407. Rule of construction.
 
-### TITLE V--BROADENING PARTICIPATION IN SCIENCE
+                  TITLE V--BROADENING PARTICIPATION IN SCIENCE
 
-### Subtitle A--STEM Opportunities
+                         Subtitle A--STEM Opportunities
 
-#### Sec. 10501. Federal research agency policies for caregivers.
-#### Sec. 10502. Collection and reporting of data on federal research awards.
-#### Sec. 10503. Policies for review of Federal research awards.
-#### Sec. 10504. Collection of data on demographics of faculty.
-#### Sec. 10505. Cultural and institutional barriers to expanding the
+    Sec. 10501. Federal research agency policies for caregivers.
+    Sec. 10502. Collection and reporting of data on federal research awards.
+    Sec. 10503. Policies for review of Federal research awards.
+    Sec. 10504. Collection of data on demographics of faculty.
+    Sec. 10505. Cultural and institutional barriers to expanding the
                academic and Federal STEM workforce.
-#### Sec. 10506. Existing activities.
-#### Sec. 10507. Report to Congress.
-#### Sec. 10508. Merit review.
-#### Sec. 10509. Determination of budgetary effects.
-#### Sec. 10510. Definition.
+    Sec. 10506. Existing activities.
+    Sec. 10507. Report to Congress.
+    Sec. 10508. Merit review.
+    Sec. 10509. Determination of budgetary effects.
+    Sec. 10510. Definition.
 
-### Subtitle B--Rural STEM Education Research
+                    Subtitle B--Rural STEM Education Research
 
-#### Sec. 10511. Definition.
-#### Sec. 10512. National Science Foundation rural STEM activities.
-#### Sec. 10513. Opportunities for online education.
-#### Sec. 10514. National Academies evaluation.
-#### Sec. 10515. GAO review.
-#### Sec. 10516. NIST engagement with rural communities.
+    Sec. 10511. Definition.
+    Sec. 10512. National Science Foundation rural STEM activities.
+    Sec. 10513. Opportunities for online education.
+    Sec. 10514. National Academies evaluation.
+    Sec. 10515. GAO review.
+    Sec. 10516. NIST engagement with rural communities.
 
-### Subtitle C--MSI STEM Achievement
+                        Subtitle C--MSI STEM Achievement
 
-#### Sec. 10521. GAO review.
-#### Sec. 10522. Agency responsibilities.
-#### Sec. 10523. Research at the National Science Foundation.
-#### Sec. 10524. Capacity-building program for developing universities.
-#### Sec. 10525. Tribal Colleges and Universities program.
-#### Sec. 10526. Definitions.
+    Sec. 10521. GAO review.
+    Sec. 10522. Agency responsibilities.
+    Sec. 10523. Research at the National Science Foundation.
+    Sec. 10524. Capacity-building program for developing universities.
+    Sec. 10525. Tribal Colleges and Universities program.
+    Sec. 10526. Definitions.
 
-### Subtitle D--Combating Sexual Harassment in Science
+               Subtitle D--Combating Sexual Harassment in Science
 
-#### Sec. 10531. Findings.
-#### Sec. 10532. Purpose.
-#### Sec. 10533. Definition.
-#### Sec. 10534. Research awards.
-#### Sec. 10535. Responsible Conduct Guide.
-#### Sec. 10536. Interagency working group.
-#### Sec. 10537. National Academies assessment.
-#### Sec. 10538. GAO study.
-#### Sec. 10539. Authorization of appropriations.
+    Sec. 10531. Findings.
+    Sec. 10532. Purpose.
+    Sec. 10533. Definition.
+    Sec. 10534. Research awards.
+    Sec. 10535. Responsible Conduct Guide.
+    Sec. 10536. Interagency working group.
+    Sec. 10537. National Academies assessment.
+    Sec. 10538. GAO study.
+    Sec. 10539. Authorization of appropriations.
 
-### TITLE VI--MISCELLANEOUS SCIENCE AND TECHNOLOGY PROVISIONS
+            TITLE VI--MISCELLANEOUS SCIENCE AND TECHNOLOGY PROVISIONS
 
-### Subtitle A--Supporting Early-career Researchers
+                 Subtitle A--Supporting Early-career Researchers
 
-#### Sec. 10601. Early-career research fellowship program.
-#### Sec. 10602. Authorization of appropriations.
+    Sec. 10601. Early-career research fellowship program.
+    Sec. 10602. Authorization of appropriations.
 
-### Subtitle B--National Science and Technology Strategy
+              Subtitle B--National Science and Technology Strategy
 
-#### Sec. 10611. National science and technology strategy.
+    Sec. 10611. National science and technology strategy.
 
     [[Page 136 STAT. 1370]]
 
-#### Sec. 10612. Strategy and report on the Nation's economic security,
+    Sec. 10612. Strategy and report on the Nation's economic security,
                science, research, and innovation to support the national
                security strategy.
-#### Sec. 10613. Quadrennial science and technology review.
+    Sec. 10613. Quadrennial science and technology review.
 
-### Subtitle C--Regional Innovation
+                         Subtitle C--Regional Innovation
 
-#### Sec. 10621. Regional innovation capacity.
-#### Sec. 10622. Regional Clean Energy Innovation Program.
+    Sec. 10621. Regional innovation capacity.
+    Sec. 10622. Regional Clean Energy Innovation Program.
 
-### Subtitle D--Research Security
+                          Subtitle D--Research Security
 
-#### Sec. 10631. Requirements for foreign talent recruitment programs.
-#### Sec. 10632. Malign foreign talent recruitment program prohibition.
-#### Sec. 10633. Review of contracts and agreements.
-#### Sec. 10634. Research security training requirement for Federal research
+    Sec. 10631. Requirements for foreign talent recruitment programs.
+    Sec. 10632. Malign foreign talent recruitment program prohibition.
+    Sec. 10633. Review of contracts and agreements.
+    Sec. 10634. Research security training requirement for Federal research
                award personnel.
-#### Sec. 10635. Research funds accounting.
-#### Sec. 10636. Person or entity of concern prohibition.
-#### Sec. 10637. Nondiscrimination.
-#### Sec. 10638. Definitions.
+    Sec. 10635. Research funds accounting.
+    Sec. 10636. Person or entity of concern prohibition.
+    Sec. 10637. Nondiscrimination.
+    Sec. 10638. Definitions.
 
-### Subtitle E--Coastal and Ocean Acidification Research and Innovation
+       Subtitle E--Coastal and Ocean Acidification Research and Innovation
 
-#### Sec. 10641. Short title.
-#### Sec. 10642. Purposes.
-#### Sec. 10643. Definitions.
-#### Sec. 10644. Interagency working group.
-#### Sec. 10645. Strategic research plan.
-#### Sec. 10646. NOAA ocean acidification activities.
-#### Sec. 10647. NSF ocean acidification activities.
-#### Sec. 10648. NASA ocean acidification activities.
-#### Sec. 10649. Authorization of appropriations.
+    Sec. 10641. Short title.
+    Sec. 10642. Purposes.
+    Sec. 10643. Definitions.
+    Sec. 10644. Interagency working group.
+    Sec. 10645. Strategic research plan.
+    Sec. 10646. NOAA ocean acidification activities.
+    Sec. 10647. NSF ocean acidification activities.
+    Sec. 10648. NASA ocean acidification activities.
+    Sec. 10649. Authorization of appropriations.
 
-### Subtitle F--Interagency Working Group
+                      Subtitle F--Interagency Working Group
 
-#### Sec. 10651. Interagency working group.
+    Sec. 10651. Interagency working group.
 
-### Subtitle G--Quantum Networking and Communications
+                Subtitle G--Quantum Networking and Communications
 
-#### Sec. 10661. Quantum networking and communications.
+    Sec. 10661. Quantum networking and communications.
 
-### Subtitle H--Blockchain Specialist
+                        Subtitle H--Blockchain Specialist
 
-#### Sec. 10671. Establishment of blockchain and cryptocurrency specialist
+    Sec. 10671. Establishment of blockchain and cryptocurrency specialist
                position within OSTP.
 
-### Subtitle I--Partnerships for Energy Security and Innovation
+           Subtitle I--Partnerships for Energy Security and Innovation
 
-#### Sec. 10691. Foundation for Energy Security and Innovation.
+    Sec. 10691. Foundation for Energy Security and Innovation.
 
-### Subtitle J--Energizing Technology Transfer
+                   Subtitle J--Energizing Technology Transfer
 
-#### Sec. 10701. Definitions.
+    Sec. 10701. Definitions.
 
-### PART 1--National Clean Energy Technology Transfer Programs
+           PART 1--National Clean Energy Technology Transfer Programs
 
-#### Sec. 10713. National clean energy incubator program.
-#### Sec. 10714. Clean energy technology university prize competition.
-#### Sec. 10715. Clean energy technology transfer coordination.
+    Sec. 10713. National clean energy incubator program.
+    Sec. 10714. Clean energy technology university prize competition.
+    Sec. 10715. Clean energy technology transfer coordination.
 
-### PART 2--Supporting Technology Development at the National Laboratories
+     PART 2--Supporting Technology Development at the National Laboratories
 
-#### Sec. 10716. Lab partnering service pilot program.
-#### Sec. 10717. Lab-embedded entrepreneurship program.
-#### Sec. 10718. Small business voucher program.
-#### Sec. 10719. Entrepreneurial leave program.
-#### Sec. 10720. National Laboratory non-Federal employee outside employment
+    Sec. 10716. Lab partnering service pilot program.
+    Sec. 10717. Lab-embedded entrepreneurship program.
+    Sec. 10718. Small business voucher program.
+    Sec. 10719. Entrepreneurial leave program.
+    Sec. 10720. National Laboratory non-Federal employee outside employment
                authority.
 
-### PART 3--Department of Energy Modernization
+                   PART 3--Department of Energy Modernization
 
-#### Sec. 10722. Office of Technology Transitions.
-#### Sec. 10723. Management of Department of Energy demonstration projects.
-#### Sec. 10724. Streamlining prize competitions.
-#### Sec. 10725. Cost-share waiver extension.
-#### Sec. 10726. Special hiring authority for scientific, engineering, and
+    Sec. 10722. Office of Technology Transitions.
+    Sec. 10723. Management of Department of Energy demonstration projects.
+    Sec. 10724. Streamlining prize competitions.
+    Sec. 10725. Cost-share waiver extension.
+    Sec. 10726. Special hiring authority for scientific, engineering, and
                project management personnel.
-#### Sec. 10727. Technology transfer reports and evaluation.
+    Sec. 10727. Technology transfer reports and evaluation.
 
-### Subtitle K--Micro Act
+                              Subtitle K--Micro Act
 
-#### Sec. 10731. Microelectronics research for energy innovation.
+    Sec. 10731. Microelectronics research for energy innovation.
 
     [[Page 136 STAT. 1371]]
 
-### Subtitle L--National Nuclear University Research Infrastructure
+        Subtitle L--National Nuclear University Research Infrastructure
                                   Reinvestment
 
-#### Sec. 10741. Short title.
-#### Sec. 10742. Purposes.
-#### Sec. 10743. University infrastructure collaboration.
-#### Sec. 10744. Advanced nuclear research infrastructure enhancement
+    Sec. 10741. Short title.
+    Sec. 10742. Purposes.
+    Sec. 10743. University infrastructure collaboration.
+    Sec. 10744. Advanced nuclear research infrastructure enhancement
                subprogram.
-#### Sec. 10745. Science education and human resources scholarships,
+    Sec. 10745. Science education and human resources scholarships,
                fellowships, and research and development projects.
 
-### Subtitle M--Steel Upgrading Partnerships and Emissions Reduction
+        Subtitle M--Steel Upgrading Partnerships and Emissions Reduction
 
-#### Sec. 10751. Low-emissions steel manufacturing research program.
+    Sec. 10751. Low-emissions steel manufacturing research program.
 
-### Subtitle N--Applied Laboratories Infrastructure Restoration and
+        Subtitle N--Applied Laboratories Infrastructure Restoration and
                                   Modernization
 
-#### Sec. 10761. Applied laboratories infrastructure restoration and
+    Sec. 10761. Applied laboratories infrastructure restoration and
                modernization.
 
-### Subtitle O--Department of Energy Research, Development, and
+          Subtitle O--Department of Energy Research, Development, and
                             Demonstration Activities
 
-#### Sec. 10771. Department of Energy research, development, and
+    Sec. 10771. Department of Energy research, development, and
                demonstration activities.
 
-### Subtitle P--Fission for the Future
+                       Subtitle P--Fission for the Future
 
-#### Sec. 10781. Advanced nuclear technologies Federal research, development,
+    Sec. 10781. Advanced nuclear technologies Federal research, development,
                and demonstration program.
 
-### TITLE VII--NATIONAL AERONAUTICS AND SPACE ADMINISTRATION AUTHORIZATION
+     TITLE VII--NATIONAL AERONAUTICS AND SPACE ADMINISTRATION AUTHORIZATION
                                        ACT
 
-#### Sec. 10801. Short title.
-#### Sec. 10802. Definitions.
+    Sec. 10801. Short title.
+    Sec. 10802. Definitions.
 
-### Subtitle A--Exploration
+                             Subtitle A--Exploration
 
-#### Sec. 10811. Moon to Mars.
-#### Sec. 10812. Space Launch System configurations.
-#### Sec. 10813. Rocket engine test infrastructure.
-#### Sec. 10814. Pearl River maintenance.
-#### Sec. 10815. Extension and modification relating to International Space
+    Sec. 10811. Moon to Mars.
+    Sec. 10812. Space Launch System configurations.
+    Sec. 10813. Rocket engine test infrastructure.
+    Sec. 10814. Pearl River maintenance.
+    Sec. 10815. Extension and modification relating to International Space
                Station.
-#### Sec. 10816. Priorities for International Space Station.
-#### Sec. 10817. Technical amendments relating to Artemis missions.
+    Sec. 10816. Priorities for International Space Station.
+    Sec. 10817. Technical amendments relating to Artemis missions.
 
-### Subtitle B--Science
+                               Subtitle B--Science
 
-#### Sec. 10821. Science priorities.
-#### Sec. 10822. Search for life.
-#### Sec. 10823. Next generation of astrophysics great observatories.
-#### Sec. 10824. Earth science missions and programs.
-#### Sec. 10825. Planetary Defense Coordination Office.
+    Sec. 10821. Science priorities.
+    Sec. 10822. Search for life.
+    Sec. 10823. Next generation of astrophysics great observatories.
+    Sec. 10824. Earth science missions and programs.
+    Sec. 10825. Planetary Defense Coordination Office.
 
-### Subtitle C--Aeronautics
+                             Subtitle C--Aeronautics
 
-#### Sec. 10831. Experimental aircraft projects.
-#### Sec. 10832. Unmanned aircraft systems.
-#### Sec. 10833. Cleaner, quieter airplanes.
+    Sec. 10831. Experimental aircraft projects.
+    Sec. 10832. Unmanned aircraft systems.
+    Sec. 10833. Cleaner, quieter airplanes.
 
-### Subtitle D--Space Technology
+                          Subtitle D--Space Technology
 
-#### Sec. 10841. Space nuclear capabilities.
-#### Sec. 10842. Prioritization of low-enriched uranium technology.
+    Sec. 10841. Space nuclear capabilities.
+    Sec. 10842. Prioritization of low-enriched uranium technology.
 
-### Subtitle E--STEM Engagement
+                           Subtitle E--STEM Engagement
 
-#### Sec. 10851. Office of STEM Engagement.
+    Sec. 10851. Office of STEM Engagement.
 
-### Subtitle F--Miscellaneous
+                            Subtitle F--Miscellaneous
 
-#### Sec. 10861. Program, workforce, and industrial base reviews.
-#### Sec. 10862. Modification of lease of non-excess property.
+    Sec. 10861. Program, workforce, and industrial base reviews.
+    Sec. 10862. Modification of lease of non-excess property.
 
-## DIVISION C--SUPPLEMENTAL APPROPRIATIONS TO ADDRESS THREATS TO THE
+       DIVISION C--SUPPLEMENTAL APPROPRIATIONS TO ADDRESS THREATS TO THE
                        SUPREME COURT OF THE UNITED STATES
 
 #### SEC. 2. <<NOTE: 15 USC 4652 note.>> REFERENCES.
@@ -502,7 +502,7 @@
 
     [[Page 136 STAT. 1372]]
 
-    DIVISION <<NOTE: CHIPS Act of 2022.>> A--CHIPS ACT OF 2022
+## DIVISION A--CHIPS ACT OF 2022 <<NOTE: CHIPS Act of 2022.>>
 #### SEC. 101. <<NOTE: 15 USC 4651 note.>> SHORT TITLE.
 
         This division may be cited as the ``CHIPS Act of 2022''.
@@ -2352,462 +2352,461 @@
             Emergency Deficit Control Act of 1985 (2 U.S.C. 900 et seq.) on
             or after December 31, 2022.
 
-     DIVISION <<NOTE: Research and Development, Competition, and Innovation
-    Act.>>  B--RESEARCH AND INNOVATION
+## DIVISION B--RESEARCH AND INNOVATION <<NOTE: Research and Development, Competition, and Innovation Act.>>
 #### SEC. 10000. TABLE OF CONTENTS.
 
         The table of contents for this division is as follows:
 
-## DIVISION B--RESEARCH AND INNOVATION
+                       DIVISION B--RESEARCH AND INNOVATION
 
-#### Sec. 10000. Table of contents.
-#### Sec. 10001. Short title.
-#### Sec. 10002. Definitions.
-#### Sec. 10003. Budgetary effects.
+    Sec. 10000. Table of contents.
+    Sec. 10001. Short title.
+    Sec. 10002. Definitions.
+    Sec. 10003. Budgetary effects.
 
     [[Page 136 STAT. 1400]]
 
-### TITLE I--DEPARTMENT OF ENERGY SCIENCE FOR THE FUTURE
+              TITLE I--DEPARTMENT OF ENERGY SCIENCE FOR THE FUTURE
 
-#### Sec. 10101. Mission of the Office of Science.
-#### Sec. 10102. Basic energy sciences program.
-#### Sec. 10103. Biological and environmental research.
-#### Sec. 10104. Advanced scientific computing research program.
-#### Sec. 10105. Fusion energy research.
-#### Sec. 10106. High energy physics program.
-#### Sec. 10107. Nuclear physics program.
-#### Sec. 10108. Science laboratories infrastructure program.
-#### Sec. 10109. Accelerator research and development.
-#### Sec. 10110. Isotope research, development, and production.
-#### Sec. 10111. Increased collaboration with teachers and scientists.
-#### Sec. 10112. High intensity laser research initiative; helium
+    Sec. 10101. Mission of the Office of Science.
+    Sec. 10102. Basic energy sciences program.
+    Sec. 10103. Biological and environmental research.
+    Sec. 10104. Advanced scientific computing research program.
+    Sec. 10105. Fusion energy research.
+    Sec. 10106. High energy physics program.
+    Sec. 10107. Nuclear physics program.
+    Sec. 10108. Science laboratories infrastructure program.
+    Sec. 10109. Accelerator research and development.
+    Sec. 10110. Isotope research, development, and production.
+    Sec. 10111. Increased collaboration with teachers and scientists.
+    Sec. 10112. High intensity laser research initiative; helium
                conservation program; Office of Science emerging biological
                threat preparedness research initiative; midscale
                instrumentation and research equipment program; authorization
                of appropriations.
-#### Sec. 10113. Established program to stimulate competitive research.
-#### Sec. 10114. Research security.
+    Sec. 10113. Established program to stimulate competitive research.
+    Sec. 10114. Research security.
 
-### TITLE II--NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY FOR THE FUTURE
+     TITLE II--NATIONAL INSTITUTE OF STANDARDS AND TECHNOLOGY FOR THE FUTURE
 
-#### Sec. 10201. Definitions.
+    Sec. 10201. Definitions.
 
-### Subtitle A--Authorization of Appropriations
+                   Subtitle A--Authorization of Appropriations
 
-#### Sec. 10211. Authorization of appropriations.
+    Sec. 10211. Authorization of appropriations.
 
-### Subtitle B--Measurement Research
+                        Subtitle B--Measurement Research
 
-#### Sec. 10221. Engineering biology and biometrology.
-#### Sec. 10222. Greenhouse gas measurement research.
-#### Sec. 10223. NIST authority for cybersecurity and privacy activities.
-#### Sec. 10224. Software security and authentication.
-#### Sec. 10225. Digital identity management research.
-#### Sec. 10226. Biometrics research and testing.
-#### Sec. 10227. Federal biometric performance standards.
-#### Sec. 10228. Protecting research from cybersecurity theft.
-#### Sec. 10229. Dissemination of resources for research institutions.
-#### Sec. 10230. Advanced communications research.
-#### Sec. 10231. Neutron scattering.
-#### Sec. 10232. Artificial intelligence.
-#### Sec. 10233. Sustainable chemistry research and education.
-#### Sec. 10234. Premise plumbing research.
-#### Sec. 10235. Dr. David Satcher Cybersecurity Education Grant Program.
+    Sec. 10221. Engineering biology and biometrology.
+    Sec. 10222. Greenhouse gas measurement research.
+    Sec. 10223. NIST authority for cybersecurity and privacy activities.
+    Sec. 10224. Software security and authentication.
+    Sec. 10225. Digital identity management research.
+    Sec. 10226. Biometrics research and testing.
+    Sec. 10227. Federal biometric performance standards.
+    Sec. 10228. Protecting research from cybersecurity theft.
+    Sec. 10229. Dissemination of resources for research institutions.
+    Sec. 10230. Advanced communications research.
+    Sec. 10231. Neutron scattering.
+    Sec. 10232. Artificial intelligence.
+    Sec. 10233. Sustainable chemistry research and education.
+    Sec. 10234. Premise plumbing research.
+    Sec. 10235. Dr. David Satcher Cybersecurity Education Grant Program.
 
-### Subtitle C--General Activities
+                         Subtitle C--General Activities
 
-#### Sec. 10241. Educational outreach and support for underrepresented
+    Sec. 10241. Educational outreach and support for underrepresented
                communities.
-#### Sec. 10242. Other transactions authority.
-#### Sec. 10243. Report to Congress on collaborations with government
+    Sec. 10242. Other transactions authority.
+    Sec. 10243. Report to Congress on collaborations with government
                agencies.
-#### Sec. 10244. Hiring critical technical experts.
-#### Sec. 10245. International standards development.
-#### Sec. 10246. Standard technical update.
-#### Sec. 10247. GAO study of NIST research security policies and protocols.
-#### Sec. 10248. Standards development organization grants.
+    Sec. 10244. Hiring critical technical experts.
+    Sec. 10245. International standards development.
+    Sec. 10246. Standard technical update.
+    Sec. 10247. GAO study of NIST research security policies and protocols.
+    Sec. 10248. Standards development organization grants.
 
-### Subtitle D--Hollings Manufacturing Extension Partnership
+            Subtitle D--Hollings Manufacturing Extension Partnership
 
-#### Sec. 10251. Establishment of expansion awards pilot program as a part of
+    Sec. 10251. Establishment of expansion awards pilot program as a part of
                the Hollings Manufacturing Extension Partnership.
-#### Sec. 10252. Update to Hollings Manufacturing Extension Partnership.
-#### Sec. 10253. National Supply Chain Database.
-#### Sec. 10254. Hollings Manufacturing Extension Partnership activities.
-#### Sec. 10255. Amendment to the Hollings Manufacturing Extension
+    Sec. 10252. Update to Hollings Manufacturing Extension Partnership.
+    Sec. 10253. National Supply Chain Database.
+    Sec. 10254. Hollings Manufacturing Extension Partnership activities.
+    Sec. 10255. Amendment to the Hollings Manufacturing Extension
                Partnership relating to institutions of higher education.
 
-### Subtitle E--Manufacturing USA Program
+                      Subtitle E--Manufacturing USA Program
 
-#### Sec. 10261. Supporting geographic diversity.
-#### Sec. 10262. Expanding opportunities through the Manufacturing USA
+    Sec. 10261. Supporting geographic diversity.
+    Sec. 10262. Expanding opportunities through the Manufacturing USA
                Program.
-#### Sec. 10263. Promoting domestic production of technologies developed
+    Sec. 10263. Promoting domestic production of technologies developed
                under Manufacturing USA Program.
 
-### TITLE III--NATIONAL SCIENCE FOUNDATION FOR THE FUTURE
+              TITLE III--NATIONAL SCIENCE FOUNDATION FOR THE FUTURE
 
-### Subtitle A--Preliminary Matters
+                         Subtitle A--Preliminary Matters
 
-#### Sec. 10301. Sense of Congress.
+    Sec. 10301. Sense of Congress.
 
     [[Page 136 STAT. 1401]]
 
-#### Sec. 10302. Definitions.
-#### Sec. 10303. Authorization of appropriations.
+    Sec. 10302. Definitions.
+    Sec. 10303. Authorization of appropriations.
 
-### Subtitle B--STEM Education
+                           Subtitle B--STEM Education
 
-#### Sec. 10311. PreK-12 STEM education.
-#### Sec. 10312. Undergraduate STEM education.
-#### Sec. 10313. Graduate STEM education.
-#### Sec. 10314. STEM workforce data.
-#### Sec. 10315. Cyber workforce development research and development.
-#### Sec. 10316. Federal cyber scholarship-for-service program.
-#### Sec. 10317. Cybersecurity workforce data initiative.
-#### Sec. 10318. Microelectronics workforce development activities.
-#### Sec. 10319. Incorporation of art and design into certain STEM education.
-#### Sec. 10320. Mandatory cost-sharing.
-#### Sec. 10321. Programs to address the STEM workforce.
+    Sec. 10311. PreK-12 STEM education.
+    Sec. 10312. Undergraduate STEM education.
+    Sec. 10313. Graduate STEM education.
+    Sec. 10314. STEM workforce data.
+    Sec. 10315. Cyber workforce development research and development.
+    Sec. 10316. Federal cyber scholarship-for-service program.
+    Sec. 10317. Cybersecurity workforce data initiative.
+    Sec. 10318. Microelectronics workforce development activities.
+    Sec. 10319. Incorporation of art and design into certain STEM education.
+    Sec. 10320. Mandatory cost-sharing.
+    Sec. 10321. Programs to address the STEM workforce.
 
-### Subtitle C--Broadening Participation
+                      Subtitle C--Broadening Participation
 
-#### Sec. 10321. Presidential awards for excellence in mathematics and
+    Sec. 10321. Presidential awards for excellence in mathematics and
                science.
-#### Sec. 10322. Robert Noyce Teacher Scholarship program update.
-#### Sec. 10323. NSF Eddie Bernice Johnson INCLUDES Initiative.
-#### Sec. 10324. Broadening participation on major facilities awards.
-#### Sec. 10325. Expanding geographic and institutional diversity in
+    Sec. 10322. Robert Noyce Teacher Scholarship program update.
+    Sec. 10323. NSF Eddie Bernice Johnson INCLUDES Initiative.
+    Sec. 10324. Broadening participation on major facilities awards.
+    Sec. 10325. Expanding geographic and institutional diversity in
                research.
-#### Sec. 10326. Diversity in tech research.
-#### Sec. 10327. Chief Diversity Officer of the NSF.
-#### Sec. 10328. Research and dissemination to increase the participation of
+    Sec. 10326. Diversity in tech research.
+    Sec. 10327. Chief Diversity Officer of the NSF.
+    Sec. 10328. Research and dissemination to increase the participation of
                women and underrepresented minorities in STEM fields.
-#### Sec. 10329. Activities to expand STEM opportunities.
-#### Sec. 10330. Intramural emerging research institutions pilot program.
+    Sec. 10329. Activities to expand STEM opportunities.
+    Sec. 10330. Intramural emerging research institutions pilot program.
 
-### Subtitle D--NSF Research Security
+                        Subtitle D--NSF Research Security
 
-#### Sec. 10331. Office of Research Security and Policy.
-#### Sec. 10332. Chief of Research Security.
-#### Sec. 10333. Reporting to Congress.
-#### Sec. 10334. Online resource.
-#### Sec. 10335. Research awards.
-#### Sec. 10336. Authorities.
-#### Sec. 10337. Responsible conduct in research training.
-#### Sec. 10338. Research security and integrity information sharing analysis
+    Sec. 10331. Office of Research Security and Policy.
+    Sec. 10332. Chief of Research Security.
+    Sec. 10333. Reporting to Congress.
+    Sec. 10334. Online resource.
+    Sec. 10335. Research awards.
+    Sec. 10336. Authorities.
+    Sec. 10337. Responsible conduct in research training.
+    Sec. 10338. Research security and integrity information sharing analysis
                organization.
-#### Sec. 10339. Plan with respect to controlled information and background
+    Sec. 10339. Plan with respect to controlled information and background
                screening.
-#### Sec. 10339A. Foundation funding to institutions hosting or supporting
+    Sec. 10339A. Foundation funding to institutions hosting or supporting
                Confucius Institutes.
-#### Sec. 10339B. Foreign financial support.
-#### Sec. 10339C. Authorization of appropriations.
+    Sec. 10339B. Foreign financial support.
+    Sec. 10339C. Authorization of appropriations.
 
-### Subtitle E--Fundamental Research
+                        Subtitle E--Fundamental Research
 
-#### Sec. 10341. Broader impacts.
-#### Sec. 10342. Sense of Congress.
-#### Sec. 10343. Research ethics.
-#### Sec. 10344. Research reproducibility and replicability.
-#### Sec. 10345. Climate change research.
-#### Sec. 10346. Social, behavioral, and economic sciences.
-#### Sec. 10347. Measuring impacts of Federally funded research and
+    Sec. 10341. Broader impacts.
+    Sec. 10342. Sense of Congress.
+    Sec. 10343. Research ethics.
+    Sec. 10344. Research reproducibility and replicability.
+    Sec. 10345. Climate change research.
+    Sec. 10346. Social, behavioral, and economic sciences.
+    Sec. 10347. Measuring impacts of Federally funded research and
                development.
-#### Sec. 10348. Food-energy-water research.
-#### Sec. 10349. Biological Field Stations and Marine Laboratories.
-#### Sec. 10350. Sustainable chemistry research and education.
-#### Sec. 10351. Risk and resilience research.
-#### Sec. 10352. Unmanned aircraft systems technologies.
-#### Sec. 10353. Accelerating unmanned maritime systems technologies.
-#### Sec. 10354. Leveraging international expertise in research.
-#### Sec. 10355. Biological research collections.
-#### Sec. 10356. Clean water research and technology acceleration.
-#### Sec. 10357. Technology and behavioral science research.
-#### Sec. 10358. Manufacturing research amendment.
-#### Sec. 10359. Critical minerals mining research and development.
-#### Sec. 10360. Study of AI research capacity.
-#### Sec. 10361. Advancing IoT for Precision Agriculture Capabilities Act.
-#### Sec. 10362. Astronomy and satellite constellations.
-#### Sec. 10363. Research on the impact of inflation.
-#### Sec. 10364. Microgravity utilization policy.
-#### Sec. 10365. Recognition of the Arecibo Observatory.
+    Sec. 10348. Food-energy-water research.
+    Sec. 10349. Biological Field Stations and Marine Laboratories.
+    Sec. 10350. Sustainable chemistry research and education.
+    Sec. 10351. Risk and resilience research.
+    Sec. 10352. Unmanned aircraft systems technologies.
+    Sec. 10353. Accelerating unmanned maritime systems technologies.
+    Sec. 10354. Leveraging international expertise in research.
+    Sec. 10355. Biological research collections.
+    Sec. 10356. Clean water research and technology acceleration.
+    Sec. 10357. Technology and behavioral science research.
+    Sec. 10358. Manufacturing research amendment.
+    Sec. 10359. Critical minerals mining research and development.
+    Sec. 10360. Study of AI research capacity.
+    Sec. 10361. Advancing IoT for Precision Agriculture Capabilities Act.
+    Sec. 10362. Astronomy and satellite constellations.
+    Sec. 10363. Research on the impact of inflation.
+    Sec. 10364. Microgravity utilization policy.
+    Sec. 10365. Recognition of the Arecibo Observatory.
 
     [[Page 136 STAT. 1402]]
 
-### Subtitle F--Research Infrastructure
+                       Subtitle F--Research Infrastructure
 
-#### Sec. 10371. Facility operation and maintenance.
-#### Sec. 10372. Reviews.
-#### Sec. 10373. Helium conservation.
-#### Sec. 10374. Advanced computing.
-#### Sec. 10375. National secure data service.
+    Sec. 10371. Facility operation and maintenance.
+    Sec. 10372. Reviews.
+    Sec. 10373. Helium conservation.
+    Sec. 10374. Advanced computing.
+    Sec. 10375. National secure data service.
 
-### Subtitle G--Directorate for Technology, Innovation, and Partnerships
+      Subtitle G--Directorate for Technology, Innovation, and Partnerships
 
-#### Sec. 10381. Establishment.
-#### Sec. 10382. Purposes.
-#### Sec. 10383. Activities.
-#### Sec. 10384. Requirements.
-#### Sec. 10385. Assistant Director.
-#### Sec. 10386. Advisory committee.
-#### Sec. 10387. Challenges and focus areas.
-#### Sec. 10388. Regional Innovation Engines.
-#### Sec. 10389. Translation accelerator.
-#### Sec. 10390. Test beds.
-#### Sec. 10391. Planning and capacity building awards.
-#### Sec. 10392. Entrepreneurial fellowships.
-#### Sec. 10393. Scholarships and fellowships.
-#### Sec. 10394. Research and development awards.
-#### Sec. 10395. Scaling innovations in PreK-12 STEM education.
-#### Sec. 10396. Authorities.
-#### Sec. 10397. Coordination of activities.
-#### Sec. 10398. Ethical, legal, and societal considerations.
-#### Sec. 10399. Reports and roadmaps.
-#### Sec. 10399A. Evaluation.
+    Sec. 10381. Establishment.
+    Sec. 10382. Purposes.
+    Sec. 10383. Activities.
+    Sec. 10384. Requirements.
+    Sec. 10385. Assistant Director.
+    Sec. 10386. Advisory committee.
+    Sec. 10387. Challenges and focus areas.
+    Sec. 10388. Regional Innovation Engines.
+    Sec. 10389. Translation accelerator.
+    Sec. 10390. Test beds.
+    Sec. 10391. Planning and capacity building awards.
+    Sec. 10392. Entrepreneurial fellowships.
+    Sec. 10393. Scholarships and fellowships.
+    Sec. 10394. Research and development awards.
+    Sec. 10395. Scaling innovations in PreK-12 STEM education.
+    Sec. 10396. Authorities.
+    Sec. 10397. Coordination of activities.
+    Sec. 10398. Ethical, legal, and societal considerations.
+    Sec. 10399. Reports and roadmaps.
+    Sec. 10399A. Evaluation.
 
-### Subtitle H--Administrative Amendments
+                      Subtitle H--Administrative Amendments
 
-#### Sec. 10399D. Supporting veterans in STEM careers.
-#### Sec. 10399E. Sunshine Act compliance.
-#### Sec. 10399F. Science and engineering indicators report submission.
+    Sec. 10399D. Supporting veterans in STEM careers.
+    Sec. 10399E. Sunshine Act compliance.
+    Sec. 10399F. Science and engineering indicators report submission.
 
-### TITLE IV--BIOECONOMY RESEARCH AND DEVELOPMENT
+                  TITLE IV--BIOECONOMY RESEARCH AND DEVELOPMENT
 
-#### Sec. 10401. Definitions.
-#### Sec. 10402. National engineering biology research and development
+    Sec. 10401. Definitions.
+    Sec. 10402. National engineering biology research and development
                initiative.
-#### Sec. 10403. Initiative coordination.
-#### Sec. 10404. Advisory committee on engineering biology research and
+    Sec. 10403. Initiative coordination.
+    Sec. 10404. Advisory committee on engineering biology research and
                development.
-#### Sec. 10405. External review of ethical, legal, environmental, safety,
+    Sec. 10405. External review of ethical, legal, environmental, safety,
                security, and societal issues.
-#### Sec. 10406. Agency activities.
-#### Sec. 10407. Rule of construction.
+    Sec. 10406. Agency activities.
+    Sec. 10407. Rule of construction.
 
-### TITLE V--BROADENING PARTICIPATION IN SCIENCE
+                  TITLE V--BROADENING PARTICIPATION IN SCIENCE
 
-### Subtitle A--STEM Opportunities
+                         Subtitle A--STEM Opportunities
 
-#### Sec. 10501. Federal research agency policies for caregivers.
-#### Sec. 10502. Collection and reporting of data on federal research awards.
-#### Sec. 10503. Policies for review of Federal research awards.
-#### Sec. 10504. Collection of data on demographics of faculty.
-#### Sec. 10505. Cultural and institutional barriers to expanding the
+    Sec. 10501. Federal research agency policies for caregivers.
+    Sec. 10502. Collection and reporting of data on federal research awards.
+    Sec. 10503. Policies for review of Federal research awards.
+    Sec. 10504. Collection of data on demographics of faculty.
+    Sec. 10505. Cultural and institutional barriers to expanding the
                academic and Federal STEM workforce.
-#### Sec. 10506. Existing activities.
-#### Sec. 10507. Report to Congress.
-#### Sec. 10508. Merit review.
-#### Sec. 10509. Determination of budgetary effects.
-#### Sec. 10510. Definition.
+    Sec. 10506. Existing activities.
+    Sec. 10507. Report to Congress.
+    Sec. 10508. Merit review.
+    Sec. 10509. Determination of budgetary effects.
+    Sec. 10510. Definition.
 
-### Subtitle B--Rural STEM Education Research
+                    Subtitle B--Rural STEM Education Research
 
-#### Sec. 10511. Definition.
-#### Sec. 10512. National Science Foundation rural STEM activities.
-#### Sec. 10513. Opportunities for online education.
-#### Sec. 10514. National Academies evaluation.
-#### Sec. 10515. GAO review.
-#### Sec. 10516. NIST engagement with rural communities.
+    Sec. 10511. Definition.
+    Sec. 10512. National Science Foundation rural STEM activities.
+    Sec. 10513. Opportunities for online education.
+    Sec. 10514. National Academies evaluation.
+    Sec. 10515. GAO review.
+    Sec. 10516. NIST engagement with rural communities.
 
-### Subtitle C--MSI STEM Achievement
+                        Subtitle C--MSI STEM Achievement
 
-#### Sec. 10521. GAO review.
-#### Sec. 10522. Agency responsibilities.
+    Sec. 10521. GAO review.
+    Sec. 10522. Agency responsibilities.
 
     [[Page 136 STAT. 1403]]
 
-#### Sec. 10523. Research at the National Science Foundation.
-#### Sec. 10524. Capacity-building program for developing universities.
-#### Sec. 10525. Tribal Colleges and Universities program.
-#### Sec. 10526. Definitions.
+    Sec. 10523. Research at the National Science Foundation.
+    Sec. 10524. Capacity-building program for developing universities.
+    Sec. 10525. Tribal Colleges and Universities program.
+    Sec. 10526. Definitions.
 
-### Subtitle D--Combating Sexual Harassment in Science
+               Subtitle D--Combating Sexual Harassment in Science
 
-#### Sec. 10531. Findings.
-#### Sec. 10532. Purpose.
-#### Sec. 10533. Definition.
-#### Sec. 10534. Research awards.
-#### Sec. 10535. Responsible Conduct Guide.
-#### Sec. 10536. Interagency working group.
-#### Sec. 10537. National Academies assessment.
-#### Sec. 10538. GAO study.
-#### Sec. 10539. Authorization of appropriations.
+    Sec. 10531. Findings.
+    Sec. 10532. Purpose.
+    Sec. 10533. Definition.
+    Sec. 10534. Research awards.
+    Sec. 10535. Responsible Conduct Guide.
+    Sec. 10536. Interagency working group.
+    Sec. 10537. National Academies assessment.
+    Sec. 10538. GAO study.
+    Sec. 10539. Authorization of appropriations.
 
-### TITLE VI--MISCELLANEOUS SCIENCE AND TECHNOLOGY PROVISIONS
+            TITLE VI--MISCELLANEOUS SCIENCE AND TECHNOLOGY PROVISIONS
 
-### Subtitle A--Supporting Early-career Researchers
+                 Subtitle A--Supporting Early-career Researchers
 
-#### Sec. 10601. Early-career research fellowship program.
-#### Sec. 10602. Authorization of appropriations.
+    Sec. 10601. Early-career research fellowship program.
+    Sec. 10602. Authorization of appropriations.
 
-### Subtitle B--National Science and Technology Strategy
+              Subtitle B--National Science and Technology Strategy
 
-#### Sec. 10611. National science and technology strategy.
-#### Sec. 10612. Strategy and report on the Nation's economic security,
+    Sec. 10611. National science and technology strategy.
+    Sec. 10612. Strategy and report on the Nation's economic security,
                science, research, and innovation to support the national
                security strategy.
-#### Sec. 10613. Quadrennial science and technology review.
+    Sec. 10613. Quadrennial science and technology review.
 
-### Subtitle C--Regional Innovation
+                         Subtitle C--Regional Innovation
 
-#### Sec. 10621. Regional innovation capacity.
-#### Sec. 10622. Regional Clean Energy Innovation Program.
+    Sec. 10621. Regional innovation capacity.
+    Sec. 10622. Regional Clean Energy Innovation Program.
 
-### Subtitle D--Research Security
+                          Subtitle D--Research Security
 
-#### Sec. 10631. Requirements for foreign talent recruitment programs.
-#### Sec. 10632. Malign foreign talent recruitment program prohibition.
-#### Sec. 10633. Review of contracts and agreements.
-#### Sec. 10634. Research security training requirement for Federal research
+    Sec. 10631. Requirements for foreign talent recruitment programs.
+    Sec. 10632. Malign foreign talent recruitment program prohibition.
+    Sec. 10633. Review of contracts and agreements.
+    Sec. 10634. Research security training requirement for Federal research
                award personnel.
-#### Sec. 10635. Research funds accounting.
-#### Sec. 10636. Person or entity of concern prohibition.
-#### Sec. 10637. Nondiscrimination.
-#### Sec. 10638. Definitions.
+    Sec. 10635. Research funds accounting.
+    Sec. 10636. Person or entity of concern prohibition.
+    Sec. 10637. Nondiscrimination.
+    Sec. 10638. Definitions.
 
-### Subtitle E--Coastal and Ocean Acidification Research and Innovation
+       Subtitle E--Coastal and Ocean Acidification Research and Innovation
 
-#### Sec. 10641. Short title.
-#### Sec. 10642. Purposes.
-#### Sec. 10643. Definitions.
-#### Sec. 10644. Interagency working group.
-#### Sec. 10645. Strategic research plan.
-#### Sec. 10646. NOAA ocean acidification activities.
-#### Sec. 10647. NSF ocean acidification activities.
-#### Sec. 10648. NASA ocean acidification activities.
-#### Sec. 10649. Authorization of appropriations.
+    Sec. 10641. Short title.
+    Sec. 10642. Purposes.
+    Sec. 10643. Definitions.
+    Sec. 10644. Interagency working group.
+    Sec. 10645. Strategic research plan.
+    Sec. 10646. NOAA ocean acidification activities.
+    Sec. 10647. NSF ocean acidification activities.
+    Sec. 10648. NASA ocean acidification activities.
+    Sec. 10649. Authorization of appropriations.
 
-### Subtitle F--Interagency Working Group
+                      Subtitle F--Interagency Working Group
 
-#### Sec. 10651. Interagency working group.
+    Sec. 10651. Interagency working group.
 
-### Subtitle G--Quantum Networking and Communications
+                Subtitle G--Quantum Networking and Communications
 
-#### Sec. 10661. Quantum networking and communications.
+    Sec. 10661. Quantum networking and communications.
 
-### Subtitle H--Blockchain Specialist
+                        Subtitle H--Blockchain Specialist
 
-#### Sec. 10671. Establishment of blockchain and cryptocurrency specialist
+    Sec. 10671. Establishment of blockchain and cryptocurrency specialist
                position within OSTP.
 
-### Subtitle I--Partnerships for Energy Security and Innovation
+           Subtitle I--Partnerships for Energy Security and Innovation
 
-#### Sec. 10691. Foundation for Energy Security and Innovation.
+    Sec. 10691. Foundation for Energy Security and Innovation.
 
-### Subtitle J--Energizing Technology Transfer
+                   Subtitle J--Energizing Technology Transfer
 
-#### Sec. 10701. Definitions.
+    Sec. 10701. Definitions.
 
     [[Page 136 STAT. 1404]]
 
-### PART 1--National Clean Energy Technology Transfer Programs
+           PART 1--National Clean Energy Technology Transfer Programs
 
-#### Sec. 10713. National clean energy incubator program.
-#### Sec. 10714. Clean energy technology university prize competition.
-#### Sec. 10715. Clean energy technology transfer coordination.
+    Sec. 10713. National clean energy incubator program.
+    Sec. 10714. Clean energy technology university prize competition.
+    Sec. 10715. Clean energy technology transfer coordination.
 
-### PART 2--Supporting Technology Development at the National Laboratories
+     PART 2--Supporting Technology Development at the National Laboratories
 
-#### Sec. 10716. Lab partnering service pilot program.
-#### Sec. 10717. Lab-embedded entrepreneurship program.
-#### Sec. 10718. Small business voucher program.
-#### Sec. 10719. Entrepreneurial leave program.
-#### Sec. 10720. National Laboratory non-Federal employee outside employment
+    Sec. 10716. Lab partnering service pilot program.
+    Sec. 10717. Lab-embedded entrepreneurship program.
+    Sec. 10718. Small business voucher program.
+    Sec. 10719. Entrepreneurial leave program.
+    Sec. 10720. National Laboratory non-Federal employee outside employment
                authority.
 
-### PART 3--Department of Energy Modernization
+                   PART 3--Department of Energy Modernization
 
-#### Sec. 10722. Office of Technology Transitions.
-#### Sec. 10723. Management of Department of Energy demonstration projects.
-#### Sec. 10724. Streamlining prize competitions.
-#### Sec. 10725. Cost-share waiver extension.
-#### Sec. 10726. Special hiring authority for scientific, engineering, and
+    Sec. 10722. Office of Technology Transitions.
+    Sec. 10723. Management of Department of Energy demonstration projects.
+    Sec. 10724. Streamlining prize competitions.
+    Sec. 10725. Cost-share waiver extension.
+    Sec. 10726. Special hiring authority for scientific, engineering, and
                project management personnel.
-#### Sec. 10727. Technology transfer reports and evaluation.
+    Sec. 10727. Technology transfer reports and evaluation.
 
-### Subtitle K--Micro Act
+                              Subtitle K--Micro Act
 
-#### Sec. 10731. Microelectronics research for energy innovation.
+    Sec. 10731. Microelectronics research for energy innovation.
 
-### Subtitle L--National Nuclear University Research Infrastructure
+        Subtitle L--National Nuclear University Research Infrastructure
                                   Reinvestment
 
-#### Sec. 10741. Short title.
-#### Sec. 10742. Purposes.
-#### Sec. 10743. University infrastructure collaboration.
-#### Sec. 10744. Advanced nuclear research infrastructure enhancement
+    Sec. 10741. Short title.
+    Sec. 10742. Purposes.
+    Sec. 10743. University infrastructure collaboration.
+    Sec. 10744. Advanced nuclear research infrastructure enhancement
                subprogram.
-#### Sec. 10745. Science education and human resources scholarships,
+    Sec. 10745. Science education and human resources scholarships,
                fellowships, and research and development projects.
 
-### Subtitle M--Steel Upgrading Partnerships and Emissions Reduction
+        Subtitle M--Steel Upgrading Partnerships and Emissions Reduction
 
-#### Sec. 10751. Low-emissions steel manufacturing research program.
+    Sec. 10751. Low-emissions steel manufacturing research program.
 
-### Subtitle N--Applied Laboratories Infrastructure Restoration and
+        Subtitle N--Applied Laboratories Infrastructure Restoration and
                                   Modernization
 
-#### Sec. 10761. Applied laboratories infrastructure restoration and
+    Sec. 10761. Applied laboratories infrastructure restoration and
                modernization.
 
-### Subtitle O--Department of Energy Research, Development, and
+          Subtitle O--Department of Energy Research, Development, and
                             Demonstration Activities
 
-#### Sec. 10771. Department of Energy research, development, and
+    Sec. 10771. Department of Energy research, development, and
                demonstration activities.
 
-### Subtitle P--Fission for the Future
+                       Subtitle P--Fission for the Future
 
-#### Sec. 10781. Advanced nuclear technologies Federal research, development,
+    Sec. 10781. Advanced nuclear technologies Federal research, development,
                and demonstration program.
 
-### TITLE VII--NATIONAL AERONAUTICS AND SPACE ADMINISTRATION AUTHORIZATION
+     TITLE VII--NATIONAL AERONAUTICS AND SPACE ADMINISTRATION AUTHORIZATION
                                        ACT
 
-#### Sec. 10801. Short title.
-#### Sec. 10802. Definitions.
+    Sec. 10801. Short title.
+    Sec. 10802. Definitions.
 
-### Subtitle A--Exploration
+                             Subtitle A--Exploration
 
-#### Sec. 10811. Moon to Mars.
-#### Sec. 10812. Space Launch System configurations.
-#### Sec. 10813. Rocket engine test infrastructure.
-#### Sec. 10814. Pearl River maintenance.
-#### Sec. 10815. Extension and modification relating to International Space
+    Sec. 10811. Moon to Mars.
+    Sec. 10812. Space Launch System configurations.
+    Sec. 10813. Rocket engine test infrastructure.
+    Sec. 10814. Pearl River maintenance.
+    Sec. 10815. Extension and modification relating to International Space
                Station.
-#### Sec. 10816. Priorities for International Space Station.
-#### Sec. 10817. Technical amendments relating to Artemis missions.
+    Sec. 10816. Priorities for International Space Station.
+    Sec. 10817. Technical amendments relating to Artemis missions.
 
-### Subtitle B--Science
+                               Subtitle B--Science
 
-#### Sec. 10821. Science priorities.
-#### Sec. 10822. Search for life.
-#### Sec. 10823. Next generation of astrophysics great observatories.
-#### Sec. 10824. Earth science missions and programs.
-#### Sec. 10825. Planetary Defense Coordination Office.
+    Sec. 10821. Science priorities.
+    Sec. 10822. Search for life.
+    Sec. 10823. Next generation of astrophysics great observatories.
+    Sec. 10824. Earth science missions and programs.
+    Sec. 10825. Planetary Defense Coordination Office.
 
     [[Page 136 STAT. 1405]]
 
-### Subtitle C--Aeronautics
+                             Subtitle C--Aeronautics
 
-#### Sec. 10831. Experimental aircraft projects.
-#### Sec. 10832. Unmanned aircraft systems.
-#### Sec. 10833. Cleaner, quieter airplanes.
+    Sec. 10831. Experimental aircraft projects.
+    Sec. 10832. Unmanned aircraft systems.
+    Sec. 10833. Cleaner, quieter airplanes.
 
-### Subtitle D--Space Technology
+                          Subtitle D--Space Technology
 
-#### Sec. 10841. Space nuclear capabilities.
-#### Sec. 10842. Prioritization of low-enriched uranium technology.
+    Sec. 10841. Space nuclear capabilities.
+    Sec. 10842. Prioritization of low-enriched uranium technology.
 
-### Subtitle E--STEM Engagement
+                           Subtitle E--STEM Engagement
 
-#### Sec. 10851. Office of STEM Engagement.
+    Sec. 10851. Office of STEM Engagement.
 
-### Subtitle F--Miscellaneous
+                            Subtitle F--Miscellaneous
 
-#### Sec. 10861. Program, workforce, and industrial base reviews.
-#### Sec. 10862. Modification of lease of non-excess property.
+    Sec. 10861. Program, workforce, and industrial base reviews.
+    Sec. 10862. Modification of lease of non-excess property.
 
 #### SEC. 10001. <<NOTE: 42 USC 18901 note.>>  SHORT TITLE.
 
@@ -2991,7 +2990,7 @@
 
 #### SEC. 10101. MISSION OF THE OFFICE OF SCIENCE.
 
-#### Section 209 of the Department of Energy Organization Act (42 U.S.C.
+        Section 209 of the Department of Energy Organization Act (42 U.S.C.
     7139) is amended by adding at the end the following:
         ``(d) User Facilities.--The Director shall carry out the
     construction, operation, and maintenance of user facilities to support
@@ -5640,7 +5639,7 @@
                 ``(5) $1,554,874,657 for fiscal year 2027.''.
 #### SEC. 10107. NUCLEAR PHYSICS PROGRAM.
 
-#### Section 308 of the Department of Energy Research and Innovation Act
+        Section 308 of the Department of Energy Research and Innovation Act
     (Public Law 115-246; 132 Stat. 3150) <<NOTE: 42 USC 18646.>>  is amended
     to read as follows:
     ``SEC. 308. NUCLEAR PHYSICS.
@@ -5700,7 +5699,7 @@
                 ``(5) $1,248,463,709 for fiscal year 2027.''.
 #### SEC. 10108. SCIENCE LABORATORIES INFRASTRUCTURE PROGRAM.
 
-#### Section 309 of the Department of Energy Research and Innovation Act
+        Section 309 of the Department of Energy Research and Innovation Act
     (42 U.S.C. 18647) is amended by adding at the end the following:
         ``(c) <<NOTE: Determination.>>  Approach.--In carrying out the
     program under subsection (a), the Director shall use all available
@@ -7532,7 +7531,7 @@
             by Federal agencies and industry stakeholders.
 #### SEC. 10225. DIGITAL IDENTITY MANAGEMENT RESEARCH.
 
-#### Section 504 of the Cybersecurity Enhancement Act of 2014 (15 U.S.C.
+        Section 504 of the Cybersecurity Enhancement Act of 2014 (15 U.S.C.
     7464) is amended to read as follows:
     ``SEC. 504. IDENTITY MANAGEMENT RESEARCH AND DEVELOPMENT.
 
@@ -8056,7 +8055,7 @@
 #### SEC. 10241. EDUCATIONAL OUTREACH AND SUPPORT FOR UNDERREPRESENTED
                                 COMMUNITIES.
 
-#### Section 18 of the National Institute of Standards and Technology Act
+        Section 18 of the National Institute of Standards and Technology Act
     (15 U.S.C. 278g-1) is amended--
 
     [[Page 136 STAT. 1487]]
@@ -8147,7 +8146,7 @@
             challenges outlined in paragraph (1).
 #### SEC. 10244. HIRING CRITICAL TECHNICAL EXPERTS.
 
-#### Section 6 of the National Institute of Standards and Technology Act
+        Section 6 of the National Institute of Standards and Technology Act
     (15 U.S.C. 275) is amended to read as follows:
     ``SEC. 6. <<NOTE: Appointments.>>  HIRING CRITICAL TECHNICAL
                         EXPERTS.
@@ -12283,7 +12282,7 @@
     applications and disclosures to the Foundation.
 #### SEC. 10337. RESPONSIBLE CONDUCT IN RESEARCH TRAINING.
 
-#### Section 7009 of the America Creating Opportunities to Meaningfully
+         Section 7009 of the America Creating Opportunities to Meaningfully
     Promote Excellence in Technology, Education, and Science Act (42 U.S.C.
     1862o-1) is amended by--
                 (1) striking ``and postdoctoral researchers'' and inserting
@@ -17335,7 +17334,7 @@
 
 #### SEC. 10611. NATIONAL SCIENCE AND TECHNOLOGY STRATEGY.
 
-#### Section 206 of the National Science and Technology Policy,
+        Section 206 of the National Science and Technology Policy,
     Organization, and Priorities Act of 1976 (42 U.S.C. 6615) is amended to
     read as follows:
     ``SEC. 206. NATIONAL SCIENCE AND TECHNOLOGY STRATEGY.
@@ -19839,7 +19838,7 @@
     U.S.C. 3701(a)) is amended by striking ``(a) Purposes.--''.
 #### SEC. 10643. DEFINITIONS.
 
-#### Section 12403 of the Federal Ocean Acidification Research and
+        Section 12403 of the Federal Ocean Acidification Research and
     Monitoring Act of 2009 (33 U.S.C. 3702) is amended--
                 (1) in paragraph (1), by striking ``of the Earth's oceans''
             and all that follows before the period at the end and inserting
@@ -19873,7 +19872,7 @@
             States.''.
 #### SEC. 10644. INTERAGENCY WORKING GROUP.
 
-#### Section 12404 of the Federal Ocean Acidification Research and
+        Section 12404 of the Federal Ocean Acidification Research and
     Monitoring Act of 2009 (33 U.S.C. 3703) is amended--
                 (1) in the heading, by striking ``subcommittee'' and
             inserting ``working group'';
@@ -20096,7 +20095,7 @@
 
 #### SEC. 10645. STRATEGIC RESEARCH PLAN.
 
-#### Section 12405 of the Federal Ocean Acidification Research and
+        Section 12405 of the Federal Ocean Acidification Research and
     Monitoring Act of 2009 (33 U.S.C. 3704) is amended--
                 (1) in subsection (a)--
                         (A) by striking ``acidification'' each place it
@@ -20230,7 +20229,7 @@
 
 #### SEC. 10646. NOAA OCEAN ACIDIFICATION ACTIVITIES.
 
-#### Section 12406 of the Federal Ocean Acidification Research and
+        Section 12406 of the Federal Ocean Acidification Research and
     Monitoring Act of 2009 (33 U.S.C. 3705) is amended--
                 (1) in subsection (a)--
                         (A) in the matter preceding paragraph (1), by
@@ -20350,7 +20349,7 @@
             data.''.
 #### SEC. 10647. NSF OCEAN ACIDIFICATION ACTIVITIES.
 
-#### Section 12407 of the Federal Ocean Acidification Research and
+        Section 12407 of the Federal Ocean Acidification Research and
     Monitoring Act of 2009 (33 U.S.C. 3706) is amended--
                 (1) by striking ``ocean acidification'' each place it
             appears and inserting ``ocean acidification and coastal
@@ -20385,7 +20384,7 @@
             the Director or the Secretary.''.
 #### SEC. 10648. NASA OCEAN ACIDIFICATION ACTIVITIES.
 
-#### Section 12408 of the Federal Ocean Acidification Research and
+        Section 12408 of the Federal Ocean Acidification Research and
     Monitoring Act of 2009 (33 U.S.C. 3707) is amended--
                 (1) by striking ``ocean acidification'' each place it
             appears and inserting ``ocean acidification and coastal
@@ -20406,7 +20405,7 @@
 #### SEC. 10649. <<NOTE: Time periods.>>  AUTHORIZATION OF
                                 APPROPRIATIONS.
 
-#### Section 12409 of the Federal Ocean Acidification Research and
+        Section 12409 of the Federal Ocean Acidification Research and
     Monitoring Act of 2009 (33 U.S.C. 3708) is amended--
                 (1) in subsection (a), by striking ``subtitle--'' and all
             that follows through paragraph (4) and inserting the following:
@@ -21902,7 +21901,7 @@
 
 #### SEC. 10716. LAB PARTNERING SERVICE PILOT PROGRAM.
 
-#### Section 9002 of division Z of the Consolidated Appropriations Act,
+         Section 9002 of division Z of the Consolidated Appropriations Act,
     2021 (Public Law 116-260) <<NOTE: 42 USC 16391 note.>>  is amended by
     adding at the end the following:
 
@@ -21989,7 +21988,7 @@
     years 2023 through 2027.
 #### SEC. 10718. SMALL BUSINESS VOUCHER PROGRAM.
 
-#### Section 1003 of the Energy Policy Act of 2005 (42 U.S.C. 16393) is
+        Section 1003 of the Energy Policy Act of 2005 (42 U.S.C. 16393) is
     amended--
                 (1) in subsection (a)--
                         (A) in the matter preceding paragraph (1), by
@@ -22187,7 +22186,7 @@
 #### SEC. 10723. MANAGEMENT OF DEPARTMENT OF ENERGY DEMONSTRATION
                                 PROJECTS.
 
-#### Section 41201 of the Infrastructure Investment and Jobs Act (42
+        Section 41201 of the Infrastructure Investment and Jobs Act (42
     U.S.C. 18861) is amended--
                 (1) in subsection (b), by inserting ``including the Office
             of Technology Transitions, the Loan Program Office, and all
@@ -22276,7 +22275,7 @@
             research needs of the Department.
 #### SEC. 10727. TECHNOLOGY TRANSFER REPORTS AND EVALUATION.
 
-#### Section 9007 of division Z of the Consolidated Appropriations Act,
+        Section 9007 of division Z of the Consolidated Appropriations Act,
     2021 (Public Law 116-260) <<NOTE: 42 USC 16391a.>>  is amended as
     follows:
 
@@ -22770,8 +22769,7 @@
             than $25,000,000 to fund each Center for each of fiscal years
             2023 through 2027.
 
-      Subtitle <<NOTE: National Nuclear University Research Infrastructure
-    Reinvestment Act of 2021. Coordination.>> L--National Nuclear University
+### Subtitle L--National Nuclear University <<NOTE: National Nuclear University Research Infrastructure Reinvestment Act of 2021. Coordination.>>
     Research Infrastructure Reinvestment
 #### SEC. 10741. <<NOTE: 42 USC 15801 note.>> SHORT TITLE.
 

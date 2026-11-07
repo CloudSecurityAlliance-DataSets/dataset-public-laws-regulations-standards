@@ -31,7 +31,7 @@
   {
     "Col_1": "",
     "Col_2": "Instructions:",
-    "Col_3": "Before uploading the populated Security Assessment Report (SAR) Risk Exposure Table (RET) to the FedRAMP® Secure Repository, please follow these steps:\n\n1. Remove the RET Completion Guide tab from this workbook.\n\n2. Ensure that the items at the top left of each spreadsheet are filled in appropriately (i.e., CSP, System Name, Impact Level, and RET Date).\n\n3. Remove the word \"template\" from both worksheets since the worksheets, when populated, are no longer templates.\n\n4. Ensure data is populated in every field (column) of the RET and Risks Corrected During Testing (RCDT) tabs.",
+    "Col_3": "Before uploading the populated Security Assessment Report (SAR) Risk Exposure Table (RET) to the FedRAMP® Secure Repository, please follow these steps: \n\n1. Remove the RET Completion Guide tab from this workbook.\n\n2. Ensure that the items at the top left of each spreadsheet are filled in appropriately (i.e., CSP, System Name, Impact Level, and RET Date).\n\n3. Remove the word \"template\" from both worksheets since the worksheets, when populated, are no longer templates.\n\n4. Ensure data is populated in every field (column) of the RET and Risks Corrected During Testing (RCDT) tabs.",
     "Col_4": "",
     "Col_5": "",
     "Col_6": "",
@@ -997,6 +997,6 @@
     "Col_10": "Remediation Description",
     "Col_11": "Verification Statement/\nTesting Procedure",
     "Col_12": "Service Name",
-    "_sheet": "SAR-Appendix-A-FedRAMP-Risk-Exposure-Table-(RET)-Template-Risks Corrected During Testing"
+    "_sheet": "SAR-Appendix-A-FedRAMP-Risk-Exposure-Table-(RET)-Template-Risks Corrected During Testing "
   }
 ]

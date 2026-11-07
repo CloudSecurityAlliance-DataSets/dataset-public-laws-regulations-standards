@@ -1,9 +1,7 @@
 "depth","section_id","section_name","id_kind","parent_id","body"
-"2","","Valid and Reliable","","","NIST Characteristics of
-Trustworthiness: Valid and Reliable
+"2","","Valid and Reliable","","","NIST Characteristics of Trustworthiness: Valid and Reliable
 
-Properties of
-Trustworthiness: Fit for Purpose
+Properties of Trustworthiness: Fit for Purpose
 
 Question(s) to Consider: How will we assess whether the AI system
 is fit for purpose for each intended use and
@@ -11,8 +9,7 @@ provides a valid solution for the problems we
 are trying to solve? How will we ensure that
 inappropriate uses are rejected?
 
-Relevant NIST AI RMF
-Subcategories: Govern 5.1
+Relevant NIST AI RMF Subcategories: Govern 5.1
 Map 1.1
 Map 1.2
 Map 1.3
@@ -20,20 +17,14 @@ Map 1.4
 Map 3.1
 Map 3.2
 Map 3.3
-Manage 1.1"
-"2","","Predictable and
-Dependable","","","Properties of
-Trustworthiness: Predictable and
-Dependable
+Manage 1.1
 
-Question(s) to Consider: How will we ensure that the AI system will
+Properties of Trustworthiness: Predictable and
+Dependable | Question(s) to Consider: How will we ensure that the AI system will
 behave as expected? If the AI system is
 not fully predictable, how will we assess
 whether it can still be depended upon for
-our purposes?
-
-Relevant NIST AI RMF
-Subcategories: Govern 4.1
+our purposes? | Relevant NIST AI RMF Subcategories: Govern 4.1
 Govern 4.2
 Govern 4.3
 Map 2.2
@@ -44,19 +35,13 @@ Measure 2.5
 Measure 2.6
 Measure 2.7
 Manage 2.4
-Manage 4.1"
-"2","","Appropriate Level of
-Automation","","","Properties of
-Trustworthiness: Appropriate Level of
-Automation
+Manage 4.1
 
-Question(s) to Consider: How will we determine the desired and
+Properties of Trustworthiness: Appropriate Level of
+Automation | Question(s) to Consider: How will we determine the desired and
 appropriate degree of automation, given the
 AI system's characteristics and the context
-of its uses?
-
-Relevant NIST AI RMF
-Subcategories: Govern 3.2
+of its uses? | Relevant NIST AI RMF Subcategories: Govern 3.2
 Map 1.1
 Map 1.2
 Map 1.3
@@ -64,27 +49,10 @@ Map 2.2
 Map 3.5
 Measure 4.2
 Manage 1.1
-Manage 4.1"
-"2","","NIST Characteristics of
-Trustworthiness","","","NIST Characteristics of
-Trustworthiness: NIST Characteristics of
-Trustworthiness
+Manage 4.1
 
-Properties of
-Trustworthiness: Properties of
-Trustworthiness
-
-Question(s) to Consider: Question(s) to Consider
-
-Relevant NIST AI RMF
-Subcategories: Relevant NIST AI RMF
-Subcategories"
-"2","","High Quality AI
-System Configuration","","","Properties of
-Trustworthiness: High Quality AI
-System Configuration
-
-Question(s) to Consider: How will we assess the quality of the AI
+Properties of Trustworthiness: High Quality AI
+System Configuration | Question(s) to Consider: How will we assess the quality of the AI
 system design and configuration and ensure
 consistently high quality? For example, how
 will we assess and ensure the quality of all
@@ -94,10 +62,7 @@ ensure the quality of the hardware for the AI
 system, such as AI chips, including graphics
 processing units (GPUs), field-programmable
 gate arrays (FPGAs), and application-specific
-integrated circuits (ASICs)?
-
-Relevant NIST AI RMF
-Subcategories: Govern 4.3
+integrated circuits (ASICs)? | Relevant NIST AI RMF Subcategories: Govern 4.3
 Govern 5.2
 Govern 6.1
 Map 1.6
@@ -107,20 +72,13 @@ Measure 2.3
 Measure 3.3
 Manage 3.1
 Manage 3.2
-Manage 4.1"
-"2","","High Quality Network
-Resources and
-Services","","","Properties of
-Trustworthiness: High Quality Network
-Resources and
-Services
+Manage 4.1
 
-Question(s) to Consider: How will we assess and ensure the quality of
+Properties of Trustworthiness: High Quality Network
+Resources and
+Services | Question(s) to Consider: How will we assess and ensure the quality of
 shared network resources and services, e.g.,
-distributed dataset access?
-
-Relevant NIST AI RMF
-Subcategories: Govern 6.1
+distributed dataset access? | Relevant NIST AI RMF Subcategories: Govern 6.1
 Govern 6.2
 Map 2.3
 Map 4.1
@@ -130,32 +88,20 @@ Measure 2.4
 Measure 3.1
 Measure 3.3
 Manage 3.1
-Manage 3.2"
-"2","","Trusted Dependencies
-on External Parties","","","Properties of
-Trustworthiness: Trusted Dependencies
-on External Parties
+Manage 3.2
 
-Question(s) to Consider: How will we identify, assess, and monitor our
-dependencies on external parties?
-
-Relevant NIST AI RMF
-Subcategories: Govern 6.1
+Properties of Trustworthiness: Trusted Dependencies
+on External Parties | Question(s) to Consider: How will we identify, assess, and monitor our
+dependencies on external parties? | Relevant NIST AI RMF Subcategories: Govern 6.1
 Govern 6.2
 Map 4.1
 Map 4.2
 Manage 3.1
-Manage 3.2"
-"2","","Foresight and
-Scenario Planning","","","Properties of
-Trustworthiness: Foresight and
-Scenario Planning
+Manage 3.2
 
-Question(s) to Consider: How will we assess and navigate possible
-futures and the evolving risk landscape?
-
-Relevant NIST AI RMF
-Subcategories: Govern 3.1
+Properties of Trustworthiness: Foresight and
+Scenario Planning | Question(s) to Consider: How will we assess and navigate possible
+futures and the evolving risk landscape? | Relevant NIST AI RMF Subcategories: Govern 3.1
 Govern 4.1
 Map 1.1
 Map 1.2
@@ -163,11 +109,9 @@ Map 3.1
 Map 3.2
 Measure 3.1
 Measure 3.2"
-"2","","Safe","","","NIST Characteristics of
-Trustworthiness: Safe
+"2","","Safe","","","NIST Characteristics of Trustworthiness: Safe
 
-Properties of
-Trustworthiness: Protection of Physical
+Properties of Trustworthiness: Protection of Physical
 and Psychological
 Safety
 
@@ -178,8 +122,7 @@ property, or the environment is endangered?
 How will we anticipate potential failure
 modes or unsafe conditions?
 
-Relevant NIST AI RMF
-Subcategories: Govern 1.7
+Relevant NIST AI RMF Subcategories: Govern 1.7
 Govern 4.1
 Govern 4.2
 Govern 4.3
@@ -193,56 +136,27 @@ Measure 2.6
 Measure 3.1
 Measure 3.3
 Manage 2.4
-Manage 4.1"
-"2","","NIST Characteristics of
-Trustworthiness","","","NIST Characteristics of
-Trustworthiness: NIST Characteristics of
-Trustworthiness
+Manage 4.1
 
-Properties of
-Trustworthiness: Properties of
-Trustworthiness
-
-Question(s) to Consider: Question(s) to Consider
-
-Relevant NIST AI RMF
-Subcategories: Relevant NIST AI RMF
-Subcategories"
-"2","","Assurance /
+Properties of Trustworthiness: Assurance /
 Management of
-Uncertainty","","","Properties of
-Trustworthiness: Assurance /
-Management of
-Uncertainty
-
-Question(s) to Consider: If we do not know all of the elements
+Uncertainty | Question(s) to Consider: If we do not know all of the elements
 required for the safe development and
 deployment of the AI system, how will we
-manage this uncertainty?
-
-Relevant NIST AI RMF
-Subcategories: Govern 4.1
+manage this uncertainty? | Relevant NIST AI RMF Subcategories: Govern 4.1
 Govern 4.2
 Govern 4.3
 Measure 2.6
 Measure 3.2
 Manage 2.3
-Manage 4.1"
-"2","","Assurance /
-Management of Multi
-Capability / Multi
-Modal Systems","","","Properties of
-Trustworthiness: Assurance /
-Management of Multi
-Capability / Multi
-Modal Systems
+Manage 4.1
 
-Question(s) to Consider: If an AI system has multiple capabilities or
+Properties of Trustworthiness: Assurance /
+Management of Multi
+Capability / Multi
+Modal Systems | Question(s) to Consider: If an AI system has multiple capabilities or
 works across multiple modalities, how will
-we document and manage this complexity?
-
-Relevant NIST AI RMF
-Subcategories: Govern 4.1
+we document and manage this complexity? | Relevant NIST AI RMF Subcategories: Govern 4.1
 Govern 4.2
 Govern 4.3
 Map 1.1
@@ -253,19 +167,13 @@ Measure 3.2
 Measure 3.3
 Manage 2.3
 Manage 2.4
-Manage 4.1"
-"2","","Alignment with
-Human Values","","","Properties of
-Trustworthiness: Alignment with
-Human Values
+Manage 4.1
 
-Question(s) to Consider: How will we ensure that the AI system abides
+Properties of Trustworthiness: Alignment with
+Human Values | Question(s) to Consider: How will we ensure that the AI system abides
 by desired human values and does not
 sacrifice human values to achieve its narrow
-goals?
-
-Relevant NIST AI RMF
-Subcategories: Govern 3.1
+goals? | Relevant NIST AI RMF Subcategories: Govern 3.1
 Govern 4.1
 Govern 4.2
 Map 1.1
@@ -275,31 +183,23 @@ Map 3.5
 Measure 2.6
 Measure 3.1
 Measure 3.3
-Manage 4.1"
-"2","","Governable","","","Properties of
-Trustworthiness: Governable
+Manage 4.1
 
-Question(s) to Consider: How will we ensure an AI system is designed
+Properties of Trustworthiness: Governable | Question(s) to Consider: How will we ensure an AI system is designed
 and engineered to achieve its goals while
 maintaining the ability to disengage or
 deactivate the system if necessary? How
 will we ensure an AI system would not have
-incentives to resist or deceive its operators?
-
-Relevant NIST AI RMF
-Subcategories: Govern 4.1
+incentives to resist or deceive its operators? | Relevant NIST AI RMF Subcategories: Govern 4.1
 Map 2.2
 Measure 2.4
 Measure 2.5
 Measure 2.6
 Manage 2.4"
-"2","","Fair with Harmful Bias
-Managed","","","NIST Characteristics of
-Trustworthiness: Fair with Harmful Bias
+"2","","Fair with Harmful Bias Managed","","","NIST Characteristics of Trustworthiness: Fair with Harmful Bias
 Managed
 
-Properties of
-Trustworthiness: Diverse
+Properties of Trustworthiness: Diverse
 
 Question(s) to Consider: How will we ensure that gender, racial,
 age, ability, religious, cultural, disciplinary,
@@ -308,37 +208,17 @@ represented within the teams influencing AI
 development and use, throughout all stages
 of the AI lifecycle?
 
-Relevant NIST AI RMF
-Subcategories: Govern 2.1
+Relevant NIST AI RMF Subcategories: Govern 2.1
 Govern 3.1
 Govern 5.1
 Map 1.2
 Measure 1.3
 Measure 2.2
-Measure 4.2"
-"2","","NIST Characteristics of
-Trustworthiness","","","NIST Characteristics of
-Trustworthiness: NIST Characteristics of
-Trustworthiness
+Measure 4.2
 
-Properties of
-Trustworthiness: Properties of
-Trustworthiness
-
-Question(s) to Consider: Question(s) to Consider
-
-Relevant NIST AI RMF
-Subcategories: Relevant NIST AI RMF
-Subcategories"
-"2","","Inclusive","","","Properties of
-Trustworthiness: Inclusive
-
-Question(s) to Consider: How will we ensure inclusivity of all relevant
+Properties of Trustworthiness: Inclusive | Question(s) to Consider: How will we ensure inclusivity of all relevant
 experts and communities in the design and
-development of the AI system?
-
-Relevant NIST AI RMF
-Subcategories: Govern 2.1
+development of the AI system? | Relevant NIST AI RMF Subcategories: Govern 2.1
 Govern 3.1
 Govern 3.2
 Govern 5.1
@@ -348,20 +228,15 @@ Measure 1.3
 Measure 2.2
 Measure 3.3
 Measure 4.2
-Manage 4.2"
-"2","","Equitable","","","Properties of
-Trustworthiness: Equitable
+Manage 4.2
 
-Question(s) to Consider: How will we navigate structural power
+Properties of Trustworthiness: Equitable | Question(s) to Consider: How will we navigate structural power
 dynamics and promote equity in the design
 and use of the AI system? (For example, how
 will different communities be given power
 to influence decisions? Who will experience
 potential benefits of the AI system and who
-will experience potential harms?)
-
-Relevant NIST AI RMF
-Subcategories: Govern 3.1
+will experience potential harms?) | Relevant NIST AI RMF Subcategories: Govern 3.1
 Govern 5.1
 Govern 5.2
 Map 1.1
@@ -374,19 +249,14 @@ Measure 2.2
 Measure 2.11
 Measure 3.3
 Measure 4.3
-Manage 4.1"
-"2","","Just","","","Properties of
-Trustworthiness: Just
+Manage 4.1
 
-Question(s) to Consider: How will we ensure justice in the design and
+Properties of Trustworthiness: Just | Question(s) to Consider: How will we ensure justice in the design and
 use of the AI system? (For example, are all
 the people involved in the training, design,
 and development of the AI system treated
 fairly, even in less visible roles, such as data
-annotators?)
-
-Relevant NIST AI RMF
-Subcategories: Govern 3.1
+annotators?) | Relevant NIST AI RMF Subcategories: Govern 3.1
 Govern 4.2
 Govern 4.3
 Govern 5.1
@@ -402,33 +272,13 @@ Measure 2.11
 Measure 3.3
 Measure 4.3
 Manage 4.1
-Manage 4.3"
-"2","","NIST Characteristics of
-Trustworthiness","","","NIST Characteristics of
-Trustworthiness: NIST Characteristics of
-Trustworthiness
+Manage 4.3
 
-Properties of
-Trustworthiness: Properties of
-Trustworthiness
-
-Question(s) to Consider: Question(s) to Consider
-
-Relevant NIST AI RMF
-Subcategories: Relevant NIST AI RMF
-Subcategories"
-"2","","Mitigation of Systemic
-and Human Bias","","","Properties of
-Trustworthiness: Mitigation of Systemic
-and Human Bias
-
-Question(s) to Consider: How will we assess and mitigate ways
+Properties of Trustworthiness: Mitigation of Systemic
+and Human Bias | Question(s) to Consider: How will we assess and mitigate ways
 in which systemic and human bias may
 influence the design, development, and
-deployment of the AI system?
-
-Relevant NIST AI RMF
-Subcategories: Govern 2.2
+deployment of the AI system? | Relevant NIST AI RMF Subcategories: Govern 2.2
 Govern 3.1
 Govern 4.3
 Govern 5.1
@@ -441,18 +291,13 @@ Measure 1.3
 Measure 2.11
 Measure 3.3
 Measure 4.3
-Manage 4.1"
-"2","","Solidarity","","","Properties of
-Trustworthiness: Solidarity
+Manage 4.1
 
-Question(s) to Consider: How will we ensure the design and use of the
+Properties of Trustworthiness: Solidarity | Question(s) to Consider: How will we ensure the design and use of the
 AI system respects the solidarity of groups
 and communities, such as workers, women,
 people with disabilities, ethnic minorities,
-children, or others?
-
-Relevant NIST AI RMF
-Subcategories: Govern 3.1
+children, or others? | Relevant NIST AI RMF Subcategories: Govern 3.1
 Govern 3.2
 Govern 4.2
 Govern 5.1
@@ -465,19 +310,16 @@ Measure 1.3
 Measure 3.3
 Measure 4.3
 Manage 4.1"
-"2","","Secure and Resilient","","","NIST Characteristics of
-Trustworthiness: Secure and Resilient
+"2","","Secure and Resilient","","","NIST Characteristics of Trustworthiness: Secure and Resilient
 
-Properties of
-Trustworthiness: Security-by-Design
+Properties of Trustworthiness: Security-by-Design
 
 Question(s) to Consider: How will we build security into the AI system
 design, testing, deployment, and operation?
 How often will we provide security updates
 to the AI system?
 
-Relevant NIST AI RMF
-Subcategories: Govern 4.1
+Relevant NIST AI RMF Subcategories: Govern 4.1
 Govern 4.2
 Govern 4.3
 Govern 6.1
@@ -486,63 +328,34 @@ Map 1.6
 Map 2.3
 Map 4.2
 Measure 2.7
-Manage 2.4"
-"2","","Availability","","","Properties of
-Trustworthiness: Availability
+Manage 2.4
 
-Question(s) to Consider: How will we ensure that information for and
+Properties of Trustworthiness: Availability | Question(s) to Consider: How will we ensure that information for and
 about the AI system is available to authorized
-personnel when it is needed?
-
-Relevant NIST AI RMF
-Subcategories: Govern 4.1
+personnel when it is needed? | Relevant NIST AI RMF Subcategories: Govern 4.1
 Govern 4.3
 Govern 6.1
 Govern 6.2
 Map 1.1
 Map 2.3
 Measure 2.7
-Measure 2.9"
-"2","","Confidentiality","","","Properties of
-Trustworthiness: Confidentiality
+Measure 2.9
 
-Question(s) to Consider: How will we ensure that information is not
+Properties of Trustworthiness: Confidentiality | Question(s) to Consider: How will we ensure that information is not
 made available or disclosed to unauthorized
-individuals, entities, or processes?
-
-Relevant NIST AI RMF
-Subcategories: Govern 4.1
+individuals, entities, or processes? | Relevant NIST AI RMF Subcategories: Govern 4.1
 Govern 4.3
 Govern 6.1
 Govern 6.2
 Map 1.1
 Map 2.3
 Measure 2.7
-Measure 2.10"
-"2","","NIST Characteristics of
-Trustworthiness","","","NIST Characteristics of
-Trustworthiness: NIST Characteristics of
-Trustworthiness
+Measure 2.10
 
-Properties of
-Trustworthiness: Properties of
-Trustworthiness
-
-Question(s) to Consider: Question(s) to Consider
-
-Relevant NIST AI RMF
-Subcategories: Relevant NIST AI RMF
-Subcategories"
-"2","","Integrity","","","Properties of
-Trustworthiness: Integrity
-
-Question(s) to Consider: How will we maintain and ensure the
+Properties of Trustworthiness: Integrity | Question(s) to Consider: How will we maintain and ensure the
 accuracy, completeness, and appropriateness
 of data, models, and procedures informing
-the AI system?
-
-Relevant NIST AI RMF
-Subcategories: Govern 4.1
+the AI system? | Relevant NIST AI RMF Subcategories: Govern 4.1
 Govern 4.3
 Govern 6.1
 Govern 6.2
@@ -550,44 +363,32 @@ Map 1.1
 Map 2.3
 Measure 2.7
 Measure 2.9"
-"2","","Explainable and
-Interpretable","","","NIST Characteristics of
-Trustworthiness: Explainable and
+"2","","Explainable and Interpretable","","","NIST Characteristics of Trustworthiness: Explainable and
 Interpretable
 
-Properties of
-Trustworthiness: Intelligible*
+Properties of Trustworthiness: Intelligible*
 
 Question(s) to Consider: How will we assess the system for intelligible
 explanations and select a model to support
 this?
 
-Relevant NIST AI RMF
-Subcategories: Map 1.1
+Relevant NIST AI RMF Subcategories: Map 1.1
 Map 2.2
-Measure 2.9"
-"2","","Positive Human
-Machine Interaction","","","Properties of
-Trustworthiness: Positive Human
-Machine Interaction*
+Measure 2.9
 
-Question(s) to Consider: How will we enable positive human-machine
+Properties of Trustworthiness: Positive Human
+Machine Interaction* | Question(s) to Consider: How will we enable positive human-machine
 interactions throughout the AI system's
-operation?
-
-Relevant NIST AI RMF
-Subcategories: Govern 3.2
+operation? | Relevant NIST AI RMF Subcategories: Govern 3.2
 Map 1.1
 Map 1.2
 Map 2.2
 Map 3.5
 Map 5.2
 Measure 2.9"
-"2","","Privacy-Enhanced","","","NIST Characteristics of
-Trustworthiness: Privacy-Enhanced
+"2","","Privacy-Enhanced","","","NIST Characteristics of Trustworthiness: Privacy-Enhanced
 
-Properties of
-Trustworthiness: Privacy-by-Design*
+Properties of Trustworthiness: Privacy-by-Design*
 
 Question(s) to Consider: How will privacy be built into the AI system
 design, testing, deployment, and operation?
@@ -595,48 +396,36 @@ If data includes sensitive or personally
 identifiable information including biometrics,
 what extra precautions will be taken?
 
-Relevant NIST AI RMF
-Subcategories: Govern 1.1
+Relevant NIST AI RMF Subcategories: Govern 1.1
 Govern 1.2
 Govern 6.1
 Map 1.1
 Map 4.1
-Measure 2.10"
-"2","","Data Privacy or
-Protection Impact
-Assessment","","","Properties of
-Trustworthiness: Data Privacy or
-Protection Impact
-Assessment*
+Measure 2.10
 
-Question(s) to Consider: What is the impact of the AI system on
+Properties of Trustworthiness: Data Privacy or
+Protection Impact
+Assessment* | Question(s) to Consider: What is the impact of the AI system on
 privacy? When and how will we conduct
 a data privacy or data protection impact
-assessment?
-
-Relevant NIST AI RMF
-Subcategories: Govern 1.1
+assessment? | Relevant NIST AI RMF Subcategories: Govern 1.1
 Govern 1.2
 Govern 6.1
 Map 1.1
 Map 4.1
 Measure 2.10
 Manage 4.1"
-"2","","Accountable and
-Transparent","","","NIST Characteristics of
-Trustworthiness: Accountable and
+"2","","Accountable and Transparent","","","NIST Characteristics of Trustworthiness: Accountable and
 Transparent
 
-Properties of
-Trustworthiness: Effective Policy and
+Properties of Trustworthiness: Effective Policy and
 Governance
 
 Question(s) to Consider: How will we analyze and follow or implement
 relevant or desired AI and data standards,
 policies, principles, and guidance?
 
-Relevant NIST AI RMF
-Subcategories: Govern 1.1
+Relevant NIST AI RMF Subcategories: Govern 1.1
 Govern 1.2
 Govern 1.3
 Map 3.5
@@ -650,71 +439,38 @@ Measure 2.8
 Manage 1.3
 Manage 2.1
 Manage 3.1
-Manage 4.1"
-"2","","Adherence to the Rule
-of Law","","","Properties of
-Trustworthiness: Adherence to the Rule
-of Law
+Manage 4.1
 
-Question(s) to Consider: How will we analyze and ensure compliance
+Properties of Trustworthiness: Adherence to the Rule
+of Law | Question(s) to Consider: How will we analyze and ensure compliance
 with all relevant laws and regulations across
 every jurisdiction of use? How will we analyze
 liability considerations, and what precautions
-will be taken?
-
-Relevant NIST AI RMF
-Subcategories: Govern 1.1
+will be taken? | Relevant NIST AI RMF Subcategories: Govern 1.1
 Map 4.1
-Manage 1.3"
-"2","","NIST Characteristics of
-Trustworthiness","","","NIST Characteristics of
-Trustworthiness: NIST Characteristics of
-Trustworthiness
+Manage 1.3
 
-Properties of
-Trustworthiness: Properties of
-Trustworthiness
-
-Question(s) to Consider: Question(s) to Consider
-
-Relevant NIST AI RMF
-Subcategories: Relevant NIST AI RMF
-Subcategories"
-"2","","Coordination (Public
-Private; International)","","","Properties of
-Trustworthiness: Coordination (Public
-Private; International)
-
-Question(s) to Consider: How will we identify and coordinate
+Properties of Trustworthiness: Coordination (Public
+Private; International) | Question(s) to Consider: How will we identify and coordinate
 with relevant institutions, nationally and
-internationally?
-
-Relevant NIST AI RMF
-Subcategories: Govern 5.1
+internationally? | Relevant NIST AI RMF Subcategories: Govern 5.1
 Govern 5.2
 Map 5.2
 Measure 1.3
 Measure 4.1
 Measure 4.2
-Measure 4.3"
-"2","","Effective Risk
-Assessments and
-Impact Assessments","","","Properties of
-Trustworthiness: Effective Risk
-Assessments and
-Impact Assessments
+Measure 4.3
 
-Question(s) to Consider: How will we assess, document, and
+Properties of Trustworthiness: Effective Risk
+Assessments and
+Impact Assessments | Question(s) to Consider: How will we assess, document, and
 communicate (on a regular basis) the
 expected, potential, and actual risks and
 impacts of the AI system on people,
 organizations, and society (pre- and post
 deployment)? If risks and impact are deemed
 to be unacceptable, how will we ensure the
-AI system is adjusted or rejected?
-
-Relevant NIST AI RMF
-Subcategories: Govern 1.3
+AI system is adjusted or rejected? | Relevant NIST AI RMF Subcategories: Govern 1.3
 Govern 1.4
 Govern 1.7
 Govern 6.1
@@ -730,19 +486,13 @@ Manage 1.3
 Manage 1.4
 Manage 2.1
 Manage 2.3
-Manage 2.4"
-"2","","Community
-Engagement","","","Properties of
-Trustworthiness: Community
-Engagement
+Manage 2.4
 
-Question(s) to Consider: How will we identify communities interested
+Properties of Trustworthiness: Community
+Engagement | Question(s) to Consider: How will we identify communities interested
 in, engaged in, or impacted by the AI
 system, and how will we encourage their
-participation throughout the AI lifecycle?
-
-Relevant NIST AI RMF
-Subcategories: Govern 5.1
+participation throughout the AI lifecycle? | Relevant NIST AI RMF Subcategories: Govern 5.1
 Govern 5.2
 Map 1.2
 Map 5.2
@@ -750,17 +500,12 @@ Measure 3.3
 Measure 4.1
 Measure 4.2
 Measure 4.3
-Manage 4.2"
-"2","","Open","","","Properties of
-Trustworthiness: Open
+Manage 4.2
 
-Question(s) to Consider: How can we promote openness and
+Properties of Trustworthiness: Open | Question(s) to Consider: How can we promote openness and
 transparency about our development and
 governance of AI technologies, internally and
-externally?
-
-Relevant NIST AI RMF
-Subcategories: Govern 1.2
+externally? | Relevant NIST AI RMF Subcategories: Govern 1.2
 Govern 1.4
 Govern 1.6
 Govern 4.2
@@ -769,34 +514,15 @@ Map 5.2
 Measure 1.3
 Measure 2.9
 Measure 2.8
-Manage 4.3"
-"2","","NIST Characteristics of
-Trustworthiness","","","NIST Characteristics of
-Trustworthiness: NIST Characteristics of
-Trustworthiness
+Manage 4.3
 
-Properties of
-Trustworthiness: Properties of
-Trustworthiness
-
-Question(s) to Consider: Question(s) to Consider
-
-Relevant NIST AI RMF
-Subcategories: Relevant NIST AI RMF
-Subcategories"
-"2","","Documentation","","","Properties of
-Trustworthiness: Documentation
-
-Question(s) to Consider: How will we document the AI system's
+Properties of Trustworthiness: Documentation | Question(s) to Consider: How will we document the AI system's
 design, datasets, training, characteristics,
 capabilities, limitations, predictable failures,
 intended uses, etc.? How will we review and
 update the documentation on a regular
 basis and as needed to document new uses,
-functionalities, etc.?
-
-Relevant NIST AI RMF
-Subcategories: Govern 1.6
+functionalities, etc.? | Relevant NIST AI RMF Subcategories: Govern 1.6
 Govern 4.2
 Map 1.1
 Map 2.3
@@ -810,45 +536,31 @@ Map 4.2
 Map 5.1
 Map 5.2
 Measure 2.9
-Measure 2.8"
-"2","","Internal Reporting /
-Culture of Safety","","","Properties of
-Trustworthiness: Internal Reporting /
-Culture of Safety
+Measure 2.8
 
-Question(s) to Consider: How will we incentivize internal reporting
+Properties of Trustworthiness: Internal Reporting /
+Culture of Safety | Question(s) to Consider: How will we incentivize internal reporting
 of challenges or concerns, and promote a
 culture of safety among teams involved with
-the AI system and in general?
-
-Relevant NIST AI RMF
-Subcategories: Govern 1.2
+the AI system and in general? | Relevant NIST AI RMF Subcategories: Govern 1.2
 Govern 2.2
 Govern 2.3
 Govern 4.1
 Govern 4.2
 Govern 4.3
-Measure 2.8"
-"2","","Internal Reviews","","","Properties of
-Trustworthiness: Internal Reviews
+Measure 2.8
 
-Question(s) to Consider: How will internal reviews be conducted to
-assess trustworthy AI practices?
-
-Relevant NIST AI RMF
-Subcategories: Govern 1.5
+Properties of Trustworthiness: Internal Reviews | Question(s) to Consider: How will internal reviews be conducted to
+assess trustworthy AI practices? | Relevant NIST AI RMF Subcategories: Govern 1.5
 Govern 4.1
 Govern 4.2
 Govern 4.3
 Measure 2.8
 Measure 2.13"
-"2","","Responsible Practice
-and Use","","","NIST Characteristics of
-Trustworthiness: Responsible Practice
+"2","","Responsible Practice and Use","","","NIST Characteristics of Trustworthiness: Responsible Practice
 and Use
 
-Properties of
-Trustworthiness: Responsible Use
+Properties of Trustworthiness: Responsible Use
 in Government,
 Education, Health,
 Finance, Workplace,
@@ -867,175 +579,103 @@ engage sufficiently with domain experts and
 impacted communities to better understand
 the influence and impact we might have?
 
-Relevant NIST AI RMF
-Subcategories: A majority of all of the
+Relevant NIST AI RMF Subcategories: A majority of all of the
 subcategories are critical.
 Map 1.1 is especially
 relevant to help
 understand the purpose,
 context, and impacts of
-the intended use."
-"2","","Responsible Use in
-Critical Infrastructure
-and Safety-Critical
-Systems","","","Properties of
-Trustworthiness: Responsible Use in
-Critical Infrastructure
-and Safety-Critical
-Systems
+the intended use.
 
-Question(s) to Consider: How will we ensure responsible potential
+Properties of Trustworthiness: Responsible Use in
+Critical Infrastructure
+and Safety-Critical
+Systems | Question(s) to Consider: How will we ensure responsible potential
 and actual uses for critical infrastructure and
 safety-critical systems, including assessing
 the potential for damaging effects from
-technical faults, defects, or attacks?
-
-Relevant NIST AI RMF
-Subcategories: A majority of all of the
+technical faults, defects, or attacks? | Relevant NIST AI RMF Subcategories: A majority of all of the
 subcategories are critical.
 Map 1.1 is especially
 relevant to help
 understand the purpose,
 context, and impacts of
-the intended use."
-"2","","Responsible Use in
-the Criminal Legal
-System and by Law
-Enforcement","","","Properties of
-Trustworthiness: Responsible Use in
-the Criminal Legal
-System and by Law
-Enforcement
+the intended use.
 
-Question(s) to Consider: How will we ensure responsible potential
+Properties of Trustworthiness: Responsible Use in
+the Criminal Legal
+System and by Law
+Enforcement | Question(s) to Consider: How will we ensure responsible potential
 and actual uses in the criminal legal system
 or by law enforcement? For example, how
 will we protect against abuses of biometric
-identification in public spaces?
-
-Relevant NIST AI RMF
-Subcategories: A majority of all of the
+identification in public spaces? | Relevant NIST AI RMF Subcategories: A majority of all of the
 subcategories are critical.
 Map 1.1 is especially
 relevant to help
 understand the purpose,
 context, and impacts of
-the intended use."
-"2","","NIST Characteristics of
-Trustworthiness","","","NIST Characteristics of
-Trustworthiness: NIST Characteristics of
-Trustworthiness
+the intended use.
 
-Properties of
-Trustworthiness: Properties of
-Trustworthiness
-
-Question(s) to Consider: Question(s) to Consider
-
-Relevant NIST AI RMF
-Subcategories: Relevant NIST AI RMF
-Subcategories"
-"2","","Responsible Use in
+Properties of Trustworthiness: Responsible Use in
 Defense and National
-Security","","","Properties of
-Trustworthiness: Responsible Use in
-Defense and National
-Security
-
-Question(s) to Consider: How will we promote peace and ensure
+Security | Question(s) to Consider: How will we promote peace and ensure
 responsible and controlled uses for defense,
 military, border control, and national security
-purposes, including for weapons systems?
-
-Relevant NIST AI RMF
-Subcategories: A majority of all of the
+purposes, including for weapons systems? | Relevant NIST AI RMF Subcategories: A majority of all of the
 subcategories are critical.
 Map 1.1 is especially
 relevant to help
 understand the purpose,
 context, and impacts of
-the intended use."
-"2","","Verified Supply Chain","","","Properties of
-Trustworthiness: Verified Supply Chain
+the intended use.
 
-Question(s) to Consider: How will we assess and verify the relevant
-components of the supply chain?
-
-Relevant NIST AI RMF
-Subcategories: Govern 6.1
+Properties of Trustworthiness: Verified Supply Chain | Question(s) to Consider: How will we assess and verify the relevant
+components of the supply chain? | Relevant NIST AI RMF Subcategories: Govern 6.1
 Govern 6.2
 Map 4.1
 Map 4.2
 Manage 3.1
-Manage 3.2"
-"2","","Appropriate
-Assignment of
-Organizational
-Roles, Authorities,
-and Responsibilities;
-Designated Points of
-Contact","","","Properties of
-Trustworthiness: Appropriate
-Assignment of
-Organizational
-Roles, Authorities,
-and Responsibilities;
-Designated Points of
-Contact
+Manage 3.2
 
-Question(s) to Consider: How will we assign and document
+Properties of Trustworthiness: Appropriate
+Assignment of
+Organizational
+Roles, Authorities,
+and Responsibilities;
+Designated Points of
+Contact | Question(s) to Consider: How will we assign and document
 organizational roles, authorities, and
 responsibilities? How will we designate
-points of contact along the lifecycle?
-
-Relevant NIST AI RMF
-Subcategories: Govern 2.1
+points of contact along the lifecycle? | Relevant NIST AI RMF Subcategories: Govern 2.1
 Govern 2.2
 Govern 2.3
 Govern 3.1
 Govern 3.2
 Map 3.4
 Map 3.5
-Manage 2.1"
-"2","","Effective Capabilities","","","Properties of
-Trustworthiness: Effective Capabilities
+Manage 2.1
 
-Question(s) to Consider: How will we obtain the necessary resources
+Properties of Trustworthiness: Effective Capabilities | Question(s) to Consider: How will we obtain the necessary resources
 and knowledge to achieve our trustworthy
-AI objectives?
+AI objectives? | Relevant NIST AI RMF Subcategories: Govern 2.2
+Map 3.4
 
-Relevant NIST AI RMF
-Subcategories: Govern 2.2
-Map 3.4"
-"2","","Collaboration","","","Properties of
-Trustworthiness: Collaboration
-
-Question(s) to Consider: How will we enable multi-stakeholder
-collaboration?
-
-Relevant NIST AI RMF
-Subcategories: Govern 3.1
+Properties of Trustworthiness: Collaboration | Question(s) to Consider: How will we enable multi-stakeholder
+collaboration? | Relevant NIST AI RMF Subcategories: Govern 3.1
 Govern 5.1
 Govern 5.2
 Map 1.2
 Map 5.2
-Manage 4.2"
-"2","","Supportive
-Governance and
-Organizational
-Structure","","","Properties of
-Trustworthiness: Supportive
-Governance and
-Organizational
-Structure
+Manage 4.2
 
-Question(s) to Consider: How can our governance and organizational
+Properties of Trustworthiness: Supportive
+Governance and
+Organizational
+Structure | Question(s) to Consider: How can our governance and organizational
 structure support trustworthy AI? How do
 our strategy, objectives, and policies support
-trustworthy AI? Are changes needed?
-
-Relevant NIST AI RMF
-Subcategories: Govern 1.1
+trustworthy AI? Are changes needed? | Relevant NIST AI RMF Subcategories: Govern 1.1
 Govern 1.2
 Govern 1.3
 Govern 1.4
@@ -1047,190 +687,100 @@ Govern 2.2
 Govern 2.3
 Govern 4.1
 Govern 4.2
-Govern 4.3"
-"2","","Effective Hiring and
-Training","","","Properties of
-Trustworthiness: Effective Hiring and
-Training
+Govern 4.3
 
-Question(s) to Consider: How will we support the hiring and training
+Properties of Trustworthiness: Effective Hiring and
+Training | Question(s) to Consider: How will we support the hiring and training
 of individuals who can carry out trustworthy
-AI objectives?
-
-Relevant NIST AI RMF
-Subcategories: Govern 2.1
+AI objectives? | Relevant NIST AI RMF Subcategories: Govern 2.1
 Govern 2.2
-Govern 2.3"
-"2","","NIST Characteristics of
-Trustworthiness","","","NIST Characteristics of
-Trustworthiness: NIST Characteristics of
-Trustworthiness
+Govern 2.3
 
-Properties of
-Trustworthiness: Properties of
-Trustworthiness
-
-Question(s) to Consider: Question(s) to Consider
-
-Relevant NIST AI RMF
-Subcategories: Relevant NIST AI RMF
-Subcategories"
-"2","","Responsible Labor
-Practices and Rights","","","Properties of
-Trustworthiness: Responsible Labor
-Practices and Rights
-
-Question(s) to Consider: How can we support labor rights in our use
+Properties of Trustworthiness: Responsible Labor
+Practices and Rights | Question(s) to Consider: How can we support labor rights in our use
 of AI? How will the supply chain of the AI
 system be monitored to evaluate working
-conditions?
-
-Relevant NIST AI RMF
-Subcategories: Govern 1.1
+conditions? | Relevant NIST AI RMF Subcategories: Govern 1.1
 Govern 1.2
 Govern 2.1
 Govern 6.1
 Map 1.1
 Map 3.4
-Map 5.2"
-"2","","Leadership
-Commitment","","","Properties of
-Trustworthiness: Leadership
-Commitment
+Map 5.2
 
-Question(s) to Consider: How will we ensure long-term commitment
+Properties of Trustworthiness: Leadership
+Commitment | Question(s) to Consider: How will we ensure long-term commitment
 to trustworthy AI from organizational
-leadership?
+leadership? | Relevant NIST AI RMF Subcategories: Govern 2.1
+Govern 2.3
 
-Relevant NIST AI RMF
-Subcategories: Govern 2.1
-Govern 2.3"
-"2","","Supportive
-Organizational Culture","","","Properties of
-Trustworthiness: Supportive
-Organizational Culture
-
-Question(s) to Consider: How will our organizational culture support
+Properties of Trustworthiness: Supportive
+Organizational Culture | Question(s) to Consider: How will our organizational culture support
 our trustworthy AI objectives? Are changes
-needed?
-
-Relevant NIST AI RMF
-Subcategories: Govern 1.2
+needed? | Relevant NIST AI RMF Subcategories: Govern 1.2
 Govern 1.4
 Govern 2.2
 Govern 2.3
-Govern 4.1"
-"2","","Procurement
-Standards","","","Properties of
-Trustworthiness: Procurement
-Standards
+Govern 4.1
 
-Question(s) to Consider: How will we implement/ensure AI
+Properties of Trustworthiness: Procurement
+Standards | Question(s) to Consider: How will we implement/ensure AI
 procurement standards that support
 trustworthy AI if we are procuring the AI
-system or providing it to others?
-
-Relevant NIST AI RMF
-Subcategories: Govern 1.2
+system or providing it to others? | Relevant NIST AI RMF Subcategories: Govern 1.2
 Govern 4.2
 Govern 6.1
 Map 1.3
 Map 1.4
 Map 4.1
-Map 4.2"
-"2","","Appropriate
-Relationships,
-Interdependencies,
-and Interconnections","","","Properties of
-Trustworthiness: Appropriate
-Relationships,
-Interdependencies,
-and Interconnections
+Map 4.2
 
-Question(s) to Consider: What relationships, interdependencies, and
+Properties of Trustworthiness: Appropriate
+Relationships,
+Interdependencies,
+and Interconnections | Question(s) to Consider: What relationships, interdependencies, and
 interconnections will be involved in the
 development and use of the AI system, and
 how do they intersect with our trustworthy
-AI objectives?
-
-Relevant NIST AI RMF
-Subcategories: Map 1.1
+AI objectives? | Relevant NIST AI RMF Subcategories: Map 1.1
 Map 4.1
-Manage 3.1"
-"2","","Alignment with
-Organizational Vision,
-Mission, and Values","","","Properties of
-Trustworthiness: Alignment with
-Organizational Vision,
-Mission, and Values
+Manage 3.1
 
-Question(s) to Consider: How will we ensure the AI system is true to
-our vision, mission, and values?
-
-Relevant NIST AI RMF
-Subcategories: Govern 4.3
+Properties of Trustworthiness: Alignment with
+Organizational Vision,
+Mission, and Values | Question(s) to Consider: How will we ensure the AI system is true to
+our vision, mission, and values? | Relevant NIST AI RMF Subcategories: Govern 4.3
 Govern 5.1
 Map 1.1
 Map 5.2
 Measure 4.2
-Manage 1.1"
-"2","","Socially Responsible","","","Properties of
-Trustworthiness: Socially Responsible
+Manage 1.1
 
-Question(s) to Consider: How will our AI system and its use align with
-our social responsibility efforts?
-
-Relevant NIST AI RMF
-Subcategories: Govern 1.2
+Properties of Trustworthiness: Socially Responsible | Question(s) to Consider: How will our AI system and its use align with
+our social responsibility efforts? | Relevant NIST AI RMF Subcategories: Govern 1.2
 Govern 4.1
 Map 1.1
 Map 5.1
 Map 5.2
-Manage 1.1"
-"2","","Supportive of Fair
-Competition","","","Properties of
-Trustworthiness: Supportive of Fair
-Competition
+Manage 1.1
 
-Question(s) to Consider: How will we support fair competition among
+Properties of Trustworthiness: Supportive of Fair
+Competition | Question(s) to Consider: How will we support fair competition among
 a variety of actors in the domain in which
-our AI system is applied?
-
-Relevant NIST AI RMF
-Subcategories: Govern 5.1
+our AI system is applied? | Relevant NIST AI RMF Subcategories: Govern 5.1
 Govern 5.2
 Map 1.1
 Map 5.2
-Manage 4.1"
-"2","","NIST Characteristics of
-Trustworthiness","","","NIST Characteristics of
-Trustworthiness: NIST Characteristics of
-Trustworthiness
+Manage 4.1
 
-Properties of
-Trustworthiness: Properties of
-Trustworthiness
-
-Question(s) to Consider: Question(s) to Consider
-
-Relevant NIST AI RMF
-Subcategories: Relevant NIST AI RMF
-Subcategories"
-"2","","Supportive of Civil
-Rights","","","Properties of
-Trustworthiness: Supportive of Civil
-Rights
-
-Question(s) to Consider: How will we protect and promote civil
+Properties of Trustworthiness: Supportive of Civil
+Rights | Question(s) to Consider: How will we protect and promote civil
 rights throughout the AI lifecycle, including
 protection from unlawful discrimination
 on the basis of race, color, national origin,
 disability, age, religion, and sex (including
 pregnancy, sexual orientation, and gender
-identity)?
-
-Relevant NIST AI RMF
-Subcategories: Govern 1.1
+identity)? | Relevant NIST AI RMF Subcategories: Govern 1.1
 Govern 1.2
 Govern 4.2
 Govern 4.3
@@ -1247,25 +797,18 @@ Measure 3.3
 Manage 1.3
 Manage 3.1
 Manage 4.1
-Manage 4.3"
-"2","","Supportive of
-Democratic Values
-and Processes","","","Properties of
-Trustworthiness: Supportive of
-Democratic Values
-and Processes
+Manage 4.3
 
-Question(s) to Consider: How will we ensure the design and use of the
+Properties of Trustworthiness: Supportive of
+Democratic Values
+and Processes | Question(s) to Consider: How will we ensure the design and use of the
 AI system are consistent with democratic
 values such as freedom and equality? How
 will we ensure that the uses of the AI system
 do not interfere with democratic processes
 and citizens' rights, including the right to
 vote? How will we assess the impact of the AI
-system on democracy?
-
-Relevant NIST AI RMF
-Subcategories: Govern 1.1
+system on democracy? | Relevant NIST AI RMF Subcategories: Govern 1.1
 Govern 1.2
 Govern 4.2
 Govern 4.3
@@ -1279,22 +822,15 @@ Measure 1.3
 Manage 1.3
 Manage 3.1
 Manage 4.1
-Manage 4.3"
-"2","","Protection of Human
-Autonomy and
-Freedom","","","Properties of
-Trustworthiness: Protection of Human
-Autonomy and
-Freedom
+Manage 4.3
 
-Question(s) to Consider: How will we ensure that the AI system
+Properties of Trustworthiness: Protection of Human
+Autonomy and
+Freedom | Question(s) to Consider: How will we ensure that the AI system
 respects the freedom and autonomy of
 individuals and does not intrude on people's
 self-determination and ability to make life
-decisions for themselves?
-
-Relevant NIST AI RMF
-Subcategories: Govern 1.1
+decisions for themselves? | Relevant NIST AI RMF Subcategories: Govern 1.1
 Govern 1.2
 Govern 4.2
 Govern 4.3
@@ -1309,33 +845,13 @@ Measure 1.3
 Manage 1.3
 Manage 3.1
 Manage 4.1
-Manage 4.3"
-"2","","NIST Characteristics of
-Trustworthiness","","","NIST Characteristics of
-Trustworthiness: NIST Characteristics of
-Trustworthiness
+Manage 4.3
 
-Properties of
-Trustworthiness: Properties of
-Trustworthiness
-
-Question(s) to Consider: Question(s) to Consider
-
-Relevant NIST AI RMF
-Subcategories: Relevant NIST AI RMF
-Subcategories"
-"2","","Protection of Human
-Dignity","","","Properties of
-Trustworthiness: Protection of Human
-Dignity
-
-Question(s) to Consider: How will we ensure that the development
+Properties of Trustworthiness: Protection of Human
+Dignity | Question(s) to Consider: How will we ensure that the development
 and use of the AI system respect human
 dignity and treat people as having intrinsic
-worth, and not merely as objects?
-
-Relevant NIST AI RMF
-Subcategories: Govern 1.1
+worth, and not merely as objects? | Relevant NIST AI RMF Subcategories: Govern 1.1
 Govern 1.2
 Govern 4.2
 Govern 4.3
@@ -1350,13 +866,10 @@ Measure 1.3
 Manage 1.3
 Manage 3.1
 Manage 4.1
-Manage 4.3"
-"2","","Protection of Human
-Rights","","","Properties of
-Trustworthiness: Protection of Human
-Rights
+Manage 4.3
 
-Question(s) to Consider: How will we ensure the AI system does not
+Properties of Trustworthiness: Protection of Human
+Rights | Question(s) to Consider: How will we ensure the AI system does not
 threaten human rights? For example, how
 will we ensure the right to privacy? How will
 we ensure the AI system does not pose risks
@@ -1366,10 +879,7 @@ How will we ensure the AI system does not
 threaten freedom of religion, or freedom
 of expression? How will we ensure the AI
 system does not threaten the right to fair
-trial or the right of peaceful assembly?
-
-Relevant NIST AI RMF
-Subcategories: Govern 1.1
+trial or the right of peaceful assembly? | Relevant NIST AI RMF Subcategories: Govern 1.1
 Govern 1.2
 Govern 4.2
 Govern 4.3
@@ -1384,18 +894,12 @@ Measure 1.3
 Manage 1.3
 Manage 3.1
 Manage 4.1
-Manage 4.3"
-"2","","Supportive of
-Wellbeing","","","Properties of
-Trustworthiness: Supportive of
-Wellbeing
+Manage 4.3
 
-Question(s) to Consider: How will we ensure the AI system supports
+Properties of Trustworthiness: Supportive of
+Wellbeing | Question(s) to Consider: How will we ensure the AI system supports
 individual, community, and societal wellbeing,
-including mental or emotional wellbeing?
-
-Relevant NIST AI RMF
-Subcategories: Govern 1.1
+including mental or emotional wellbeing? | Relevant NIST AI RMF Subcategories: Govern 1.1
 Govern 1.2
 Govern 4.2
 Govern 4.3
@@ -1410,58 +914,30 @@ Measure 1.3
 Manage 1.3
 Manage 3.1
 Manage 4.1
-Manage 4.3"
-"2","","NIST Characteristics of
-Trustworthiness","","","NIST Characteristics of
-Trustworthiness: NIST Characteristics of
-Trustworthiness
+Manage 4.3
 
-Properties of
-Trustworthiness: Properties of
-Trustworthiness
-
-Question(s) to Consider: Question(s) to Consider
-
-Relevant NIST AI RMF
-Subcategories: Relevant NIST AI RMF
-Subcategories"
-"2","","Reduction of Carbon
-Emissions","","","Properties of
-Trustworthiness: Reduction of Carbon
-Emissions
-
-Question(s) to Consider: How can we reduce the carbon emissions
+Properties of Trustworthiness: Reduction of Carbon
+Emissions | Question(s) to Consider: How can we reduce the carbon emissions
 from the design and use of AI systems in
-general?
-
-Relevant NIST AI RMF
-Subcategories: Govern 1.7
+general? | Relevant NIST AI RMF Subcategories: Govern 1.7
 Govern 4.2
 Map 1.1
 Map 5.1
 Map 5.2
 Measure 1.3
 Measure 2.12
-Manage 4.1"
-"2","","Assessment of
-Economic, Social,
-Cultural, Political, and
-Global Implications","","","Properties of
-Trustworthiness: Assessment of
-Economic, Social,
-Cultural, Political, and
-Global Implications
+Manage 4.1
 
-Question(s) to Consider: How will we assess the economic
+Properties of Trustworthiness: Assessment of
+Economic, Social,
+Cultural, Political, and
+Global Implications | Question(s) to Consider: How will we assess the economic
 implications of the AI system, including
 whether use of the system could impact
 jobs or reduce the need for human labor?
 How will we assess the social, cultural, and
 political implications of the AI system at the
-societal and global levels?
-
-Relevant NIST AI RMF
-Subcategories: Govern 3.1
+societal and global levels? | Relevant NIST AI RMF Subcategories: Govern 3.1
 Govern 5.1
 Map 1.1
 Map 1.2
@@ -1470,32 +946,15 @@ Map 3.2
 Map 5.1
 Map 5.2
 Measure 1.3"
-"2","","NIST Characteristics of
-Trustworthiness","","","NIST Characteristics of
-Trustworthiness: NIST Characteristics of
-Trustworthiness
+"2","","Valid and Reliable","","","NIST Characteristics of Trustworthiness: Valid and Reliable
 
-Properties of
-Trustworthiness: Properties of
-Trustworthiness
-
-Question(s) to Consider: Question(s) to Consider
-
-Relevant NIST AI RMF
-Subcategories: Relevant NIST AI RMF
-Subcategories"
-"2","","Valid and Reliable","","","NIST Characteristics of
-Trustworthiness: Valid and Reliable
-
-Properties of
-Trustworthiness: Data Completeness
+Properties of Trustworthiness: Data Completeness
 
 Question(s) to Consider: How will we assess and improve the
 completeness, quantity, suitability, and
 representativeness of the data?
 
-Relevant NIST AI RMF
-Subcategories: Govern 4.3
+Relevant NIST AI RMF Subcategories: Govern 4.3
 Govern 5.1
 Govern 6.1
 Map 1.1
@@ -1504,18 +963,13 @@ Map 2.3
 Measure 2.2
 Measure 2.11
 Manage 3.1
-Manage 3.2"
-"2","","Data Quality","","","Properties of
-Trustworthiness: Data Quality
+Manage 3.2
 
-Question(s) to Consider: How will we assess and improve the
+Properties of Trustworthiness: Data Quality | Question(s) to Consider: How will we assess and improve the
 quality and relevance of the data? What
 benchmarks will we use? How will we collect
 and process data, for example to annotate,
-label, clean, and aggregate as needed?
-
-Relevant NIST AI RMF
-Subcategories: Govern 4.3
+label, clean, and aggregate as needed? | Relevant NIST AI RMF Subcategories: Govern 4.3
 Govern 5.1
 Govern 6.1
 Map 1.1
@@ -1524,22 +978,15 @@ Map 2.3
 Measure 2.2
 Manage 1.1
 Manage 3.1
-Manage 3.2"
-"2","","Responsible Data,
-Information Systems
-and Information Flows","","","Properties of
-Trustworthiness: Responsible Data,
-Information Systems
-and Information Flows
+Manage 3.2
 
-Question(s) to Consider: How will we obtain data, and what are
+Properties of Trustworthiness: Responsible Data,
+Information Systems
+and Information Flows | Question(s) to Consider: How will we obtain data, and what are
 our informational flows? How will we
 appropriately limit the scope of our data
 collection? How will we retain and delete
-data as needed?
-
-Relevant NIST AI RMF
-Subcategories: Govern 1.1
+data as needed? | Relevant NIST AI RMF Subcategories: Govern 1.1
 Govern 1.2
 Govern 1.4
 Govern 4.3
@@ -1555,31 +1002,14 @@ Measure 2.10
 Manage 3.1
 Manage 3.2
 Manage 4.1"
-"2","","NIST Characteristics of
-Trustworthiness","","","NIST Characteristics of
-Trustworthiness: NIST Characteristics of
-Trustworthiness
+"2","","Safe","","","NIST Characteristics of Trustworthiness: Safe
 
-Properties of
-Trustworthiness: Properties of
-Trustworthiness
-
-Question(s) to Consider: Question(s) to Consider
-
-Relevant NIST AI RMF
-Subcategories: Relevant NIST AI RMF
-Subcategories"
-"2","","Safe","","","NIST Characteristics of
-Trustworthiness: Safe
-
-Properties of
-Trustworthiness: Data Stability
+Properties of Trustworthiness: Data Stability
 
 Question(s) to Consider: How will we analyze and monitor for data
 drift over time?
 
-Relevant NIST AI RMF
-Subcategories: Govern 4.3
+Relevant NIST AI RMF Subcategories: Govern 4.3
 Govern 5.1
 Govern 6.1
 Govern 6.2
@@ -1588,13 +1018,10 @@ Measure 2.7
 Measure 3.1
 Manage 3.2
 Manage 4.1"
-"2","","Fair with Harmful Bias
-Managed","","","NIST Characteristics of
-Trustworthiness: Fair with Harmful Bias
+"2","","Fair with Harmful Bias Managed","","","NIST Characteristics of Trustworthiness: Fair with Harmful Bias
 Managed
 
-Properties of
-Trustworthiness: Data Balance*
+Properties of Trustworthiness: Data Balance*
 
 Question(s) to Consider: How will we assess and improve the
 balance and diversity of the data? How
@@ -1604,8 +1031,7 @@ groups? How will we guard against proxies
 for demographic information that could
 contribute to discrimination?
 
-Relevant NIST AI RMF
-Subcategories: Govern 3.1
+Relevant NIST AI RMF Subcategories: Govern 3.1
 Govern 4.3
 Govern 5.1
 Govern 6.1
@@ -1617,17 +1043,14 @@ Measure 2.11
 Manage 3.1
 Manage 3.2
 Manage 4.1"
-"2","","Secure and Resilient","","","NIST Characteristics of
-Trustworthiness: Secure and Resilient
+"2","","Secure and Resilient","","","NIST Characteristics of Trustworthiness: Secure and Resilient
 
-Properties of
-Trustworthiness: Data Security
+Properties of Trustworthiness: Data Security
 
 Question(s) to Consider: How will the security of data that is used for
 training or created be ensured?
 
-Relevant NIST AI RMF
-Subcategories: Govern 4.3
+Relevant NIST AI RMF Subcategories: Govern 4.3
 Govern 5.1
 Govern 6.1
 Govern 6.2
@@ -1638,11 +1061,9 @@ Measure 2.7
 Manage 3.1
 Manage 3.2
 Manage 4.1"
-"2","","Privacy-Enhanced","","","NIST Characteristics of
-Trustworthiness: Privacy-Enhanced
+"2","","Privacy-Enhanced","","","NIST Characteristics of Trustworthiness: Privacy-Enhanced
 
-Properties of
-Trustworthiness: Data Protection*
+Properties of Trustworthiness: Data Protection*
 
 Question(s) to Consider: How will we protect the data used to build
 and operate the AI system? How will we use
@@ -1650,8 +1071,7 @@ encryption, differential privacy, federated
 learning, data minimization, and/or other
 best practices to protect data?
 
-Relevant NIST AI RMF
-Subcategories: Govern 4.3
+Relevant NIST AI RMF Subcategories: Govern 4.3
 Govern 5.1
 Govern 6.1
 Map 2.3
@@ -1661,18 +1081,12 @@ Measure 2.7
 Measure 2.10
 Manage 3.1
 Manage 3.2
-Manage 4.1"
-"2","","Data Processing
-Oversight","","","Properties of
-Trustworthiness: Data Processing
-Oversight*
+Manage 4.1
 
-Question(s) to Consider: How will we establish data oversight
+Properties of Trustworthiness: Data Processing
+Oversight* | Question(s) to Consider: How will we establish data oversight
 mechanisms, such as limiting and logging
-data access?
-
-Relevant NIST AI RMF
-Subcategories: Govern 4.3
+data access? | Relevant NIST AI RMF Subcategories: Govern 4.3
 Govern 5.1
 Govern 6.1
 Govern 6.2
@@ -1683,67 +1097,39 @@ Measure 2.8
 Manage 3.1
 Manage 3.2
 Manage 4.1
-Manage 4.2"
-"2","","NIST Characteristics of
-Trustworthiness","","","NIST Characteristics of
-Trustworthiness: NIST Characteristics of
-Trustworthiness
+Manage 4.2
 
-Properties of
-Trustworthiness: Properties of
-Trustworthiness
-
-Question(s) to Consider: Question(s) to Consider
-
-Relevant NIST AI RMF
-Subcategories: Relevant NIST AI RMF
-Subcategories"
-"2","","Consent to Use of Data","","","Properties of
-Trustworthiness: Consent to Use of Data*
-
-Question(s) to Consider: How will we enable people to consent to the
-uses of their data?
-
-Relevant NIST AI RMF
-Subcategories: Govern 1.1
+Properties of Trustworthiness: Consent to Use of Data* | Question(s) to Consider: How will we enable people to consent to the
+uses of their data? | Relevant NIST AI RMF Subcategories: Govern 1.1
 Govern 5.2
 Map 4.1
 Map 5.2
 Measure 2.8
 Manage 4.1
 Manage 4.2
-Manage 4.3"
-"2","","Control of Use of Data","","","Properties of
-Trustworthiness: Control of Use of Data*
+Manage 4.3
 
-Question(s) to Consider: How will we ensure people have a say in how
+Properties of Trustworthiness: Control of Use of Data* | Question(s) to Consider: How will we ensure people have a say in how
 information about them is used? How will we
 honor the right to rectification and the right
-to erasure?
-
-Relevant NIST AI RMF
-Subcategories: Govern 1.1
+to erasure? | Relevant NIST AI RMF Subcategories: Govern 1.1
 Govern 5.2
 Map 4.1
 Map 5.2
 Manage 4.1
 Manage 4.2
 Manage 4.3"
-"2","","Accountable and
-Transparent","","","NIST Characteristics of
-Trustworthiness: Accountable and
+"2","","Accountable and Transparent","","","NIST Characteristics of Trustworthiness: Accountable and
 Transparent
 
-Properties of
-Trustworthiness: Data Governance*
+Properties of Trustworthiness: Data Governance*
 
 Question(s) to Consider: How will we analyze and follow data
 governance practices for all intended uses,
 stakeholders, and relevant geographic areas?
 How will we ensure data rights and agency?
 
-Relevant NIST AI RMF
-Subcategories: Govern 1.1
+Relevant NIST AI RMF Subcategories: Govern 1.1
 Govern 1.4
 Govern 6.1
 Govern 6.2
@@ -1761,16 +1147,11 @@ Measure 2.10
 Manage 1.3
 Manage 3.1
 Manage 3.2
-Manage 4.1"
-"2","","Traceable","","","Properties of
-Trustworthiness: Traceable
+Manage 4.1
 
-Question(s) to Consider: How will we document the provenance of
+Properties of Trustworthiness: Traceable | Question(s) to Consider: How will we document the provenance of
 data, processes, and artifacts involved in the
-production of the AI system?
-
-Relevant NIST AI RMF
-Subcategories: Govern 1.6
+production of the AI system? | Relevant NIST AI RMF Subcategories: Govern 1.6
 Govern 4.2
 Map 1.1
 Map 2.3
@@ -1778,39 +1159,19 @@ Map 4.1
 Measure 2.1
 Measure 2.2
 Measure 2.8"
-"2","","Responsible Practice
-and Use","","","NIST Characteristics of
-Trustworthiness: Responsible Practice
+"2","","Responsible Practice and Use","","","NIST Characteristics of Trustworthiness: Responsible Practice
 and Use
 
-Properties of
-Trustworthiness: Efficient Data Centers
+Properties of Trustworthiness: Efficient Data Centers
 
 Question(s) to Consider: How can we make our use of data centers
 more energy-efficient?
 
-Relevant NIST AI RMF
-Subcategories: Map 1.1
+Relevant NIST AI RMF Subcategories: Map 1.1
 Measure 2.12"
-"2","","NIST Characteristics of
-Trustworthiness","","","NIST Characteristics of
-Trustworthiness: NIST Characteristics of
-Trustworthiness
+"2","","Valid and Reliable","","","NIST Characteristics of Trustworthiness: Valid and Reliable
 
-Properties of
-Trustworthiness: Properties of
-Trustworthiness
-
-Question(s) to Consider: Question(s) to Consider
-
-Relevant NIST AI RMF
-Subcategories: Relevant NIST AI RMF
-Subcategories"
-"2","","Valid and Reliable","","","NIST Characteristics of
-Trustworthiness: Valid and Reliable
-
-Properties of
-Trustworthiness: Accurate
+Properties of Trustworthiness: Accurate
 
 Question(s) to Consider: How will we assess the accuracy of
 what the model has learned using an
@@ -1821,24 +1182,18 @@ relationships with the model (predictive
 accuracy)? What benchmarks will we use?
 How will we communicate this as needed?
 
-Relevant NIST AI RMF
-Subcategories: Govern 4.3
+Relevant NIST AI RMF Subcategories: Govern 4.3
 Map 1.1
 Map 2.2
 Map 2.3
 Measure 2.3
 Measure 2.5
 Manage 1.1
-Manage 4.1"
-"2","","Reproducible","","","Properties of
-Trustworthiness: Reproducible
+Manage 4.1
 
-Question(s) to Consider: How will we test whether desirable
+Properties of Trustworthiness: Reproducible | Question(s) to Consider: How will we test whether desirable
 outputs of the AI system can be
-reproduced in different circumstances?
-
-Relevant NIST AI RMF
-Subcategories: Govern 4.3
+reproduced in different circumstances? | Relevant NIST AI RMF Subcategories: Govern 4.3
 Govern 5.1
 Map 2.1
 Map 2.2
@@ -1846,19 +1201,14 @@ Map 2.3
 Measure 2.1
 Measure 2.3
 Measure 2.5
-Manage 1.1"
-"2","","Efficient","","","Properties of
-Trustworthiness: Efficient
+Manage 1.1
 
-Question(s) to Consider: How will we improve the efficiency of
+Properties of Trustworthiness: Efficient | Question(s) to Consider: How will we improve the efficiency of
 the AI system in terms of its energy and
 power usage, model size, and memory
 consumption? How can we make the
 model architecture of the AI system more
-efficient?
-
-Relevant NIST AI RMF
-Subcategories: Govern 4.3
+efficient? | Relevant NIST AI RMF Subcategories: Govern 4.3
 Map 2.1
 Map 2.2
 Map 2.3
@@ -1866,11 +1216,9 @@ Measure 2.3
 Measure 2.4
 Measure 2.5
 Measure 2.12"
-"2","","Safe","","","NIST Characteristics of
-Trustworthiness: Safe
+"2","","Safe","","","NIST Characteristics of Trustworthiness: Safe
 
-Properties of
-Trustworthiness: Safely Interruptible
+Properties of Trustworthiness: Safely Interruptible
 
 Question(s) to Consider: How will we ensure that reliable technical
 and procedural controls, including
@@ -1878,8 +1226,7 @@ deactivation and fail-safe shutdown, are
 in place to enable the safe use of the AI
 system?
 
-Relevant NIST AI RMF
-Subcategories: Govern 1.2
+Relevant NIST AI RMF Subcategories: Govern 1.2
 Govern 1.7
 Govern 4.1
 Govern 4.3
@@ -1889,30 +1236,11 @@ Map 2.2
 Measure 2.6
 Measure 3.1
 Manage 2.4
-Manage 4.1"
-"2","","NIST Characteristics of
-Trustworthiness","","","NIST Characteristics of
-Trustworthiness: NIST Characteristics of
-Trustworthiness
+Manage 4.1
 
-Properties of
-Trustworthiness: Properties of
-Trustworthiness
-
-Question(s) to Consider: Question(s) to Consider
-
-Relevant NIST AI RMF
-Subcategories: Relevant NIST AI RMF
-Subcategories"
-"2","","Loyal","","","Properties of
-Trustworthiness: Loyal
-
-Question(s) to Consider: To whom or what will the AI system be
+Properties of Trustworthiness: Loyal | Question(s) to Consider: To whom or what will the AI system be
 ""loyal,"" and will that be optimal and made
-transparent?
-
-Relevant NIST AI RMF
-Subcategories: Govern 3.2
+transparent? | Relevant NIST AI RMF Subcategories: Govern 3.2
 Govern 4.2
 Govern 6.1
 Map 1.1
@@ -1924,16 +1252,11 @@ Measure 1.3
 Measure 2.4
 Measure 2.8
 Manage 4.1
-Manage 4.3"
-"2","","Power-averse","","","Properties of
-Trustworthiness: Power-averse
+Manage 4.3
 
-Question(s) to Consider: How will we incentivize models to avoid
+Properties of Trustworthiness: Power-averse | Question(s) to Consider: How will we incentivize models to avoid
 power or avoid gaining more power than
-is necessary?
-
-Relevant NIST AI RMF
-Subcategories: Govern 4.1
+is necessary? | Relevant NIST AI RMF Subcategories: Govern 4.1
 Govern 4.2
 Govern 4.3
 Map 1.1
@@ -1941,15 +1264,10 @@ Map 1.6
 Map 2.3
 Measure 2.6
 Measure 3.1
-Manage 2.4"
-"2","","Containment","","","Properties of
-Trustworthiness: Containment
+Manage 2.4
 
-Question(s) to Consider: How can we contain the AI system to
-prevent safety and security breaches?
-
-Relevant NIST AI RMF
-Subcategories: Govern 1.7
+Properties of Trustworthiness: Containment | Question(s) to Consider: How can we contain the AI system to
+prevent safety and security breaches? | Relevant NIST AI RMF Subcategories: Govern 1.7
 Govern 4.3
 Map 1.6
 Map 2.2
@@ -1957,13 +1275,10 @@ Measure 2.6
 Measure 2.7
 Manage 2.4
 Manage 4.1"
-"2","","Fair with Harmful Bias
-Managed","","","NIST Characteristics of
-Trustworthiness: Fair with Harmful Bias
+"2","","Fair with Harmful Bias Managed","","","NIST Characteristics of Trustworthiness: Fair with Harmful Bias
 Managed
 
-Properties of
-Trustworthiness: Mitigation of
+Properties of Trustworthiness: Mitigation of
 Computational Bias*
 
 Question(s) to Consider: How will we assess and mitigate
@@ -1974,8 +1289,7 @@ not provide a lower quality of service for
 certain demographic groups, including
 marginalized groups?
 
-Relevant NIST AI RMF
-Subcategories: Govern 1.1
+Relevant NIST AI RMF Subcategories: Govern 1.1
 Govern 1.2
 Govern 3.1
 Govern 5.1
@@ -1989,47 +1303,25 @@ Measure 2.2
 Measure 2.11
 Manage 4.1
 Manage 4.3"
-"2","","Secure and Resilient","","","NIST Characteristics of
-Trustworthiness: Secure and Resilient
+"2","","Secure and Resilient","","","NIST Characteristics of Trustworthiness: Secure and Resilient
 
-Properties of
-Trustworthiness: Protection Against
+Properties of Trustworthiness: Protection Against
 Trojans
 
 Question(s) to Consider: How will we detect if there is hidden
 functionality embedded in our models?
 
-Relevant NIST AI RMF
-Subcategories: Govern 4.1
+Relevant NIST AI RMF Subcategories: Govern 4.1
 Govern 4.3
 Map 2.3
 Map 4.2
 Measure 2.7
 Manage 3.1
 Manage 3.2
-Manage 4.1"
-"2","","NIST Characteristics of
-Trustworthiness","","","NIST Characteristics of
-Trustworthiness: NIST Characteristics of
-Trustworthiness
+Manage 4.1
 
-Properties of
-Trustworthiness: Properties of
-Trustworthiness
-
-Question(s) to Consider: Question(s) to Consider
-
-Relevant NIST AI RMF
-Subcategories: Relevant NIST AI RMF
-Subcategories"
-"2","","Built-in Defenses","","","Properties of
-Trustworthiness: Built-in Defenses
-
-Question(s) to Consider: How will the AI system respond to attacks
-as they occur?
-
-Relevant NIST AI RMF
-Subcategories: Govern 4.1
+Properties of Trustworthiness: Built-in Defenses | Question(s) to Consider: How will the AI system respond to attacks
+as they occur? | Relevant NIST AI RMF Subcategories: Govern 4.1
 Govern 4.3
 Map 2.3
 Map 4.2
@@ -2038,13 +1330,10 @@ Manage 3.1
 Manage 3.2
 Manage 4.1
 Manage 4.3"
-"2","","Explainable and
-Interpretable","","","NIST Characteristics of
-Trustworthiness: Explainable and
+"2","","Explainable and Interpretable","","","NIST Characteristics of Trustworthiness: Explainable and
 Interpretable
 
-Properties of
-Trustworthiness: Interpretable Uncertainty
+Properties of Trustworthiness: Interpretable Uncertainty
 
 Question(s) to Consider: How will we make model uncertainty
 more interpretable by adding features
@@ -2053,41 +1342,33 @@ conditional probabilistic predictions
 encoded through sentences, and
 calibration?
 
-Relevant NIST AI RMF
-Subcategories: Govern 5.2
+Relevant NIST AI RMF Subcategories: Govern 5.2
 Map 1.1
 Map 1.2
 Map 2.2
 Measure 2.9"
-"2","","Privacy-enhanced","","","NIST Characteristics of
-Trustworthiness: Privacy-enhanced
+"2","","Privacy-enhanced","","","NIST Characteristics of Trustworthiness: Privacy-enhanced
 
-Properties of
-Trustworthiness: Model Protection*
+Properties of Trustworthiness: Model Protection*
 
 Question(s) to Consider: How will we protect model access that
 could reveal sensitive information?
 
-Relevant NIST AI RMF
-Subcategories: Govern 1.1
+Relevant NIST AI RMF Subcategories: Govern 1.1
 Map 4.2
 Measure 2.7
 Measure 2.10
 Manage 4.1"
-"2","","Accountable and
-Transparent","","","NIST Characteristics of
-Trustworthiness: Accountable and
+"2","","Accountable and Transparent","","","NIST Characteristics of Trustworthiness: Accountable and
 Transparent
 
-Properties of
-Trustworthiness: System Honesty
+Properties of Trustworthiness: System Honesty
 
 Question(s) to Consider: How will we ensure the AI system only
 presents outputs that are accurate and
 not intentionally deceptive?
 
-Relevant NIST AI RMF
-Subcategories: Govern 4.3
+Relevant NIST AI RMF Subcategories: Govern 4.3
 Map 1.1
 Map 2.2
 Map 2.3
@@ -2097,89 +1378,58 @@ Measure 2.5
 Measure 2.6
 Measure 2.9
 Manage 4.1"
-"2","","Responsible Practice
-and Use","","","NIST Characteristics of
-Trustworthiness: Responsible Practice
+"2","","Responsible Practice and Use","","","NIST Characteristics of Trustworthiness: Responsible Practice
 and Use
 
-Properties of
-Trustworthiness: Reduction of
+Properties of Trustworthiness: Reduction of
 Computational
 Requirements
 
 Question(s) to Consider: How can we reduce the computational
 requirements of the AI system?
 
-Relevant NIST AI RMF
-Subcategories: Govern 1.2
+Relevant NIST AI RMF Subcategories: Govern 1.2
 Map 1.1
 Map 3.2
 Measure 2.12"
-"2","","NIST Characteristics of
-Trustworthiness","","","Properties of
-Trustworthiness: NIST Characteristics of
-Trustworthiness
+"2","","Valid and Reliable","","","NIST Characteristics of Trustworthiness: Valid and Reliable
 
-Question(s) to Consider: Properties of
-Trustworthiness
+Properties of Trustworthiness: Verifiable
 
-Relevant NIST AI RMF
-Subcategories: Question(s) to Consider
-
-Column 5: Relevant NIST AI RMF
-Subcategories"
-"2","","Valid and Reliable","","","Properties of
-Trustworthiness: Valid and Reliable
-
-Question(s) to Consider: Verifiable
-
-Relevant NIST AI RMF
-Subcategories: How will we verify that the system is
+Question(s) to Consider: How will we verify that the system is
 behaving as expected?
 
-Column 5: Govern 4.3
+Relevant NIST AI RMF Subcategories: Govern 4.3
 Map 2.3
 Measure 1.3
 Measure 2.1
 Measure 2.13
-Manage 4.1"
-"2","","Reliable","","","Question(s) to Consider: Reliable
+Manage 4.1
 
-Relevant NIST AI RMF
-Subcategories: How will we ensure the AI system
+Properties of Trustworthiness: Reliable | Question(s) to Consider: How will we ensure the AI system
 performs predictably and as intended,
 including in new environments or with
 new inputs? How will we determine
 acceptable error rates for intended
-uses?
-
-Column 5: Govern 4.3
+uses? | Relevant NIST AI RMF Subcategories: Govern 4.3
 Map 1.1
 Map 2.2
 Map 2.3
 Measure 2.5
 Manage 3.1
-Manage 4.1"
-"2","","Replayable","","","Question(s) to Consider: Replayable
+Manage 4.1
 
-Relevant NIST AI RMF
-Subcategories: How can we replay the behavior of
+Properties of Trustworthiness: Replayable | Question(s) to Consider: How can we replay the behavior of
 the system to see if the same input
-generates the same output?
-
-Column 5: Govern 4.3
+generates the same output? | Relevant NIST AI RMF Subcategories: Govern 4.3
 Map 2.3
 Measure 2.4
 Measure 2.5
-Manage 4.1"
-"2","","Effective","","","Question(s) to Consider: Effective
+Manage 4.1
 
-Relevant NIST AI RMF
-Subcategories: How will we judge sufficient
+Properties of Trustworthiness: Effective | Question(s) to Consider: How will we judge sufficient
 effectiveness of the AI system, in the lab
-and in the real world?
-
-Column 5: Govern 4.3
+and in the real world? | Relevant NIST AI RMF Subcategories: Govern 4.3
 Map 1.1
 Map 1.2
 Map 1.3
@@ -2192,15 +1442,11 @@ Measure 2.5
 Measure 4.2
 Measure 4.3
 Manage 1.1
-Manage 4.1"
-"2","","Valid","","","Question(s) to Consider: Valid
+Manage 4.1
 
-Relevant NIST AI RMF
-Subcategories: How will we validate the outputs of the
+Properties of Trustworthiness: Valid | Question(s) to Consider: How will we validate the outputs of the
 AI system, including through external
-validation?
-
-Column 5: Govern 4.3
+validation? | Relevant NIST AI RMF Subcategories: Govern 4.3
 Govern 5.1
 Map 5.2
 Measure 1.3
@@ -2208,33 +1454,13 @@ Measure 2.5
 Measure 3.3
 Measure 4.2
 Manage 1.1
-Manage 4.1"
-"2","","NIST Characteristics of
-Trustworthiness","","","NIST Characteristics of
-Trustworthiness: NIST Characteristics of
-Trustworthiness
+Manage 4.1
 
-Properties of
-Trustworthiness: Properties of
-Trustworthiness
-
-Question(s) to Consider: Question(s) to Consider
-
-Relevant NIST AI RMF
-Subcategories: Relevant NIST AI RMF
-Subcategories"
-"2","","Appropriate Capabilities
-for the Tasks","","","Properties of
-Trustworthiness: Appropriate Capabilities
-for the Tasks
-
-Question(s) to Consider: How will we review whether the
+Properties of Trustworthiness: Appropriate Capabilities
+for the Tasks | Question(s) to Consider: How will we review whether the
 capabilities of the AI system are
 appropriate for a particular use and
-context?
-
-Relevant NIST AI RMF
-Subcategories: Govern 4.3
+context? | Relevant NIST AI RMF Subcategories: Govern 4.3
 Map 1.1
 Map 1.2
 Map 1.3
@@ -2244,21 +1470,14 @@ Map 2.3
 Measure 1.3
 Measure 2.4
 Measure 2.5
-Manage 4.1"
-"2","","Appropriate System
-Design and Training for
-the Tasks","","","Properties of
-Trustworthiness: Appropriate System
-Design and Training for
-the Tasks
+Manage 4.1
 
-Question(s) to Consider: How will we review that the design and
+Properties of Trustworthiness: Appropriate System
+Design and Training for
+the Tasks | Question(s) to Consider: How will we review that the design and
 training of the system is appropriate
 for intended and likely uses, and is not
-underspecified?
-
-Relevant NIST AI RMF
-Subcategories: Govern 4.3
+underspecified? | Relevant NIST AI RMF Subcategories: Govern 4.3
 Map 1.1
 Map 1.3
 Map 2.1
@@ -2269,11 +1488,9 @@ Measure 2.3
 Measure 2.4
 Measure 2.5
 Manage 4.1"
-"2","","Safe","","","NIST Characteristics of
-Trustworthiness: Safe
+"2","","Safe","","","NIST Characteristics of Trustworthiness: Safe
 
-Properties of
-Trustworthiness: Protection from Proxy
+Properties of Trustworthiness: Protection from Proxy
 Gaming
 
 Question(s) to Consider: How will we test the ability of the AI
@@ -2282,45 +1499,35 @@ true objective function, or to learn
 novel methods to achieve its objective
 function? How will this be prevented?
 
-Relevant NIST AI RMF
-Subcategories: Govern 4.3
+Relevant NIST AI RMF Subcategories: Govern 4.3
 Map 1.6
 Map 2.2
 Map 2.3
 Measure 2.6
 Measure 3.1
 Manage 4.1
-Manage 4.3"
-"2","","Review","","","Properties of
-Trustworthiness: Review
+Manage 4.3
 
-Question(s) to Consider: How will we review any errors or
+Properties of Trustworthiness: Review | Question(s) to Consider: How will we review any errors or
 inconsistencies with the AI system that
-emerge?
-
-Relevant NIST AI RMF
-Subcategories: Govern 4.3
+emerge? | Relevant NIST AI RMF Subcategories: Govern 4.3
 Measure 1.3
 Measure 2.6
 Measure 3.1
 Manage 3.1
 Manage 4.1
 Manage 4.3"
-"2","","Fair with Harmful Bias
-Managed","","","NIST Characteristics of
-Trustworthiness: Fair with Harmful Bias
+"2","","Fair with Harmful Bias Managed","","","NIST Characteristics of Trustworthiness: Fair with Harmful Bias
 Managed
 
-Properties of
-Trustworthiness: Non-Discrimination*
+Properties of Trustworthiness: Non-Discrimination*
 
 Question(s) to Consider: How will we ensure the AI system is not
 discriminatory across gender, racial,
 ability, age, political beliefs, religion, or
 other dimensions?
 
-Relevant NIST AI RMF
-Subcategories: Govern 1.1
+Relevant NIST AI RMF Subcategories: Govern 1.1
 Govern 1.2
 Govern 3.1
 Govern 5.1
@@ -2334,29 +1541,14 @@ Measure 2.2
 Measure 2.11
 Measure 3.3
 Manage 4.1"
-"2","","NIST Characteristics of","","","NIST Characteristics of
-Trustworthiness: NIST Characteristics of
+"2","","Trustworthiness","","","NIST Characteristics of: Trustworthiness
 
-Properties of
-Trustworthiness: Properties of
+Properties of: Trustworthiness
 
-Question(s) to Consider: Question(s) to Consider
+Relevant NIST AI RMF: Subcategories"
+"2","","Secure and Resilient","","","NIST Characteristics of: Secure and Resilient
 
-Relevant NIST AI RMF
-Subcategories: Relevant NIST AI RMF"
-"2","","Trustworthiness","","","NIST Characteristics of
-Trustworthiness: Trustworthiness
-
-Properties of
-Trustworthiness: Trustworthiness
-
-Relevant NIST AI RMF
-Subcategories: Subcategories"
-"2","","Secure and Resilient","","","NIST Characteristics of
-Trustworthiness: Secure and Resilient
-
-Properties of
-Trustworthiness: Robust
+Properties of: Robust
 
 Question(s) to Consider: How will we protect the AI system
 against cyber attacks, adversarial
@@ -2367,8 +1559,7 @@ we ensure the system is robust to
 optimizers that aim to induce specific
 system responses?
 
-Relevant NIST AI RMF
-Subcategories: Govern 4.1
+Relevant NIST AI RMF: Govern 4.1
 Govern 4.3
 Govern 6.1
 Govern 6.2
@@ -2378,16 +1569,11 @@ Manage 2.4
 Manage 3.1
 Manage 3.2
 Manage 4.1
-Manage 4.3"
-"2","","Resilient","","","Properties of
-Trustworthiness: Resilient
+Manage 4.3
 
-Question(s) to Consider: How will we assess the AI system's
+Properties of: Resilient | Question(s) to Consider: How will we assess the AI system's
 ability to handle uncertainty and
-unknown environments?
-
-Relevant NIST AI RMF
-Subcategories: Govern 4.1
+unknown environments? | Relevant NIST AI RMF: Govern 4.1
 Govern 4.3
 Govern 6.1
 Map 1.1
@@ -2398,11 +1584,9 @@ Measure 2.7
 Measure 3.1
 Manage 4.1
 Manage 4.3"
-"2","","Privacy-Enhanced","","","NIST Characteristics of
-Trustworthiness: Privacy-Enhanced
+"2","","Privacy-Enhanced","","","NIST Characteristics of: Privacy-Enhanced
 
-Properties of
-Trustworthiness: Protection from
+Properties of: Protection from
 Unwarranted Data
 Access*
 
@@ -2410,8 +1594,7 @@ Question(s) to Consider: How will we ensure the AI system
 cannot be used to give unwarranted
 access to data?
 
-Relevant NIST AI RMF
-Subcategories: Govern 1.1
+Relevant NIST AI RMF: Govern 1.1
 Govern 4.3
 Govern 6.1
 Map 2.3
@@ -2421,13 +1604,10 @@ Manage 3.1
 Manage 3.2
 Manage 4.1
 Manage 4.3"
-"2","","Accountable and
-Transparent","","","NIST Characteristics of
-Trustworthiness: Accountable and
+"2","","Accountable and Transparent","","","NIST Characteristics of: Accountable and
 Transparent
 
-Properties of
-Trustworthiness: Future Projections of
+Properties of: Future Projections of
 Possible System and
 Environmental Changes
 
@@ -2436,8 +1616,7 @@ evolve over time? How might the
 environment it is deployed in change
 over time?
 
-Relevant NIST AI RMF
-Subcategories: Govern 1.5
+Relevant NIST AI RMF: Govern 1.5
 Govern 4.3
 Map 1.1
 Map 3.3
@@ -2448,25 +1627,9 @@ Measure 3.2
 Measure 3.3
 Manage 2.3
 Manage 4.1"
-"2","","NIST Characteristics of
-Trustworthiness","","","NIST Characteristics of
-Trustworthiness: NIST Characteristics of
-Trustworthiness
+"2","","Valid and Reliable","","","NIST Characteristics of Trustworthiness: Valid and Reliable
 
-Properties of
-Trustworthiness: Properties of
-Trustworthiness
-
-Question(s) to Consider: Question(s) to Consider
-
-Relevant NIST AI RMF
-Subcategories: Relevant NIST AI RMF
-Subcategories"
-"2","","Valid and Reliable","","","NIST Characteristics of
-Trustworthiness: Valid and Reliable
-
-Properties of
-Trustworthiness: Generalizable
+Properties of Trustworthiness: Generalizable
 
 Question(s) to Consider: How will we ensure that the AI system
 can generalize from the testing
@@ -2474,67 +1637,50 @@ environment to the complexity or
 different context of the application
 environment?
 
-Relevant NIST AI RMF
-Subcategories: Govern 4.3
+Relevant NIST AI RMF Subcategories: Govern 4.3
 Map 1.1
 Map 1.3
 Map 2.2
 Map 3.3
 Measure 2.5
 Manage 1.1
-Manage 4.1"
-"2","","Effective Assessment
-of the Complexity
-of Networks and
-Dependencies","","","Properties of
-Trustworthiness: Effective Assessment
-of the Complexity
-of Networks and
-Dependencies
+Manage 4.1
 
-Question(s) to Consider: How will we assess the complexity of
+Properties of Trustworthiness: Effective Assessment
+of the Complexity
+of Networks and
+Dependencies | Question(s) to Consider: How will we assess the complexity of
 integrated networks and dependencies
 required for the functioning of the AI
-system?
-
-Relevant NIST AI RMF
-Subcategories: Govern 2.1
+system? | Relevant NIST AI RMF Subcategories: Govern 2.1
 Govern 3.2
 Govern 6.1
 Map 1.1
 Map 4.1
-Manage 3.1"
-"2","","Usable","","","Properties of
-Trustworthiness: Usable*
+Manage 3.1
 
-Question(s) to Consider: How will we test the usability of the
+Properties of Trustworthiness: Usable* | Question(s) to Consider: How will we test the usability of the
 AI system for all kinds of users and
 facilitate user feedback? How will the
 user interface be tested for usability,
 comprehension, and other attributes?
 How will we ensure users know how to
-interpret system behavior?
-
-Relevant NIST AI RMF
-Subcategories: Govern 5.2
+interpret system behavior? | Relevant NIST AI RMF Subcategories: Govern 5.2
 Map 1.1
 Map 1.2
 Map 1.3
 Measure 2.9
 Measure 3.3
 Manage 4.2"
-"2","","Safe","","","NIST Characteristics of
-Trustworthiness: Safe
+"2","","Safe","","","NIST Characteristics of Trustworthiness: Safe
 
-Properties of
-Trustworthiness: Effective Detection of
+Properties of Trustworthiness: Effective Detection of
 Anomalies
 
 Question(s) to Consider: How will we detect potential novel
 hazards?
 
-Relevant NIST AI RMF
-Subcategories: Govern 4.1
+Relevant NIST AI RMF Subcategories: Govern 4.1
 Govern 4.2
 Govern 4.3
 Map 2.2
@@ -2543,21 +1689,17 @@ Measure 2.6
 Measure 2.7
 Measure 3.1
 Manage 4.1"
-"2","","Fair with Harmful Bias
-Managed","","","NIST Characteristics of
-Trustworthiness: Fair with Harmful Bias
+"2","","Fair with Harmful Bias Managed","","","NIST Characteristics of Trustworthiness: Fair with Harmful Bias
 Managed
 
-Properties of
-Trustworthiness: Accessible*
+Properties of Trustworthiness: Accessible*
 
 Question(s) to Consider: How will we ensure that the AI system's
 user interface is usable by those with
 special needs or disabilities, or those at
 risk of exclusion?
 
-Relevant NIST AI RMF
-Subcategories: Govern 1.1
+Relevant NIST AI RMF Subcategories: Govern 1.1
 Govern 3.1
 Govern 5.1
 Govern 5.2
@@ -2565,32 +1707,15 @@ Map 1.1
 Map 1.2
 Map 5.2
 Manage 4.1"
-"2","","NIST Characteristics of
-Trustworthiness","","","NIST Characteristics of
-Trustworthiness: NIST Characteristics of
-Trustworthiness
+"2","","Secure and Resilient","","","NIST Characteristics of Trustworthiness: Secure and Resilient
 
-Properties of
-Trustworthiness: Properties of
-Trustworthiness
-
-Question(s) to Consider: Question(s) to Consider
-
-Relevant NIST AI RMF
-Subcategories: Relevant NIST AI RMF
-Subcategories"
-"2","","Secure and Resilient","","","NIST Characteristics of
-Trustworthiness: Secure and Resilient
-
-Properties of
-Trustworthiness: Use of Adversarial Testing
+Properties of Trustworthiness: Use of Adversarial Testing
 
 Question(s) to Consider: How will we establish ""bug bounties"" and
 enable ""red teams"" to try to deliberately
 find vulnerabilities in the AI system?
 
-Relevant NIST AI RMF
-Subcategories: Govern 4.1
+Relevant NIST AI RMF Subcategories: Govern 4.1
 Govern 4.3
 Govern 5.1
 Govern 5.2
@@ -2598,30 +1723,23 @@ Map 2.3
 Measure 2.7
 Measure 3.1
 Manage 4.1"
-"2","","Explainable and
-Interpretable","","","NIST Characteristics of
-Trustworthiness: Explainable and
+"2","","Explainable and Interpretable","","","NIST Characteristics of Trustworthiness: Explainable and
 Interpretable
 
-Properties of
-Trustworthiness: Interpretable*
+Properties of Trustworthiness: Interpretable*
 
 Question(s) to Consider: How will we judge the interpretability of
 the system's explanation to the particular
 context and user?
 
-Relevant NIST AI RMF
-Subcategories: Govern 5.2
+Relevant NIST AI RMF Subcategories: Govern 5.2
 Map 1.1
 Measure 2.9
 Manage 4.1"
-"2","","Accountable and
-Transparent","","","NIST Characteristics of
-Trustworthiness: Accountable and
+"2","","Accountable and Transparent","","","NIST Characteristics of Trustworthiness: Accountable and
 Transparent
 
-Properties of
-Trustworthiness: Responsible Publication
+Properties of Trustworthiness: Responsible Publication
 and Disclosure
 
 Question(s) to Consider: How will we assess potential risks of
@@ -2633,93 +1751,56 @@ appropriately release the AI system, and
 what protections may be necessary to
 prevent harm or misuse?
 
-Relevant NIST AI RMF
-Subcategories: Govern 1.2
+Relevant NIST AI RMF Subcategories: Govern 1.2
 Govern 4.1
 Map 1.1
 Measure 2.6
 Measure 2.8
-Manage 4 .1"
-"2","","Information-sharing","","","Properties of
-Trustworthiness: Information-sharing
+Manage 4 .1
 
-Question(s) to Consider: How will we share critical information
+Properties of Trustworthiness: Information-sharing | Question(s) to Consider: How will we share critical information
 about our AI system with relevant
-authorities and stakeholders?
-
-Relevant NIST AI RMF
-Subcategories: Govern 1.1
+authorities and stakeholders? | Relevant NIST AI RMF Subcategories: Govern 1.1
 Govern 1.4
 Govern 4.2
 Govern 4.3
 Measure 1.3
 Measure 2.8
-Manage 4.3"
-"2","","User Testing and
-Engagement; User
-Experience","","","Properties of
-Trustworthiness: User Testing and
-Engagement; User
-Experience*
+Manage 4.3
 
-Question(s) to Consider: How will we test the system with
+Properties of Trustworthiness: User Testing and
+Engagement; User
+Experience* | Question(s) to Consider: How will we test the system with
 users, and how will we engage them
 in iterating upon the system design
 and deployment? How will we test and
-improve the user experience?
-
-Relevant NIST AI RMF
-Subcategories: Govern 5.1
+improve the user experience? | Relevant NIST AI RMF Subcategories: Govern 5.1
 Govern 5.2
 Map 5.2
 Measure 3.3
 Measure 4.1
-Manage 4.1"
-"2","","Proactive
-Communication","","","Properties of
-Trustworthiness: Proactive
-Communication*
+Manage 4.1
 
-Question(s) to Consider: How can we inform users that they are
+Properties of Trustworthiness: Proactive
+Communication* | Question(s) to Consider: How can we inform users that they are
 interacting with an AI system (and what
 type of AI system), or that a decision that
 impacts them was made by an AI system,
 and how can we provide expectations as
 to the system's capabilities, benefits, and
-limitations and potential risks?
-
-Relevant NIST AI RMF
-Subcategories: Govern 1.1
+limitations and potential risks? | Relevant NIST AI RMF Subcategories: Govern 1.1
 Measure 2.8
 Manage 4.1
 Manage 4.3"
-"2","","NIST Characteristics of
-Trustworthiness","","","NIST Characteristics of
-Trustworthiness: NIST Characteristics of
-Trustworthiness
-
-Properties of
-Trustworthiness: Properties of
-Trustworthiness
-
-Question(s) to Consider: Question(s) to Consider
-
-Relevant NIST AI RMF
-Subcategories: Relevant NIST AI RMF
-Subcategories"
-"2","","Responsible Practice
-and Use","","","NIST Characteristics of
-Trustworthiness: Responsible Practice
+"2","","Responsible Practice and Use","","","NIST Characteristics of Trustworthiness: Responsible Practice
 and Use
 
-Properties of
-Trustworthiness: Beneficial to Society
+Properties of Trustworthiness: Beneficial to Society
 
 Question(s) to Consider: How will we ensure the AI system will be
 leveraged to benefit society?
 
-Relevant NIST AI RMF
-Subcategories: Govern 1.2
+Relevant NIST AI RMF Subcategories: Govern 1.2
 Govern 3.1
 Govern 5.1
 Govern 5.2
@@ -2729,36 +1810,16 @@ Map 3.1
 Map 3.2
 Map 5.1
 Map 5.2
-Measure 1.3"
-"2","","Measure 3.3
-Measure 4.2
-Measure 4.3
-Manage 1.1
-Manage 4.1","","","Relevant NIST AI RMF
-Subcategories: Measure 3.3
+Measure 1.3
+
+Relevant NIST AI RMF Subcategories: Measure 3.3
 Measure 4.2
 Measure 4.3
 Manage 1.1
 Manage 4.1"
-"2","","NIST Characteristics of
-Trustworthiness","","","NIST Characteristics of
-Trustworthiness: NIST Characteristics of
-Trustworthiness
+"2","","Valid and Reliable","","","NIST Characteristics of Trustworthiness: Valid and Reliable
 
-Properties of
-Trustworthiness: Properties of
-Trustworthiness
-
-Question(s) to Consider: Question(s) to Consider
-
-Relevant NIST AI RMF
-Subcategories: Relevant NIST AI
-RMF Subcategories"
-"2","","Valid and Reliable","","","NIST Characteristics of
-Trustworthiness: Valid and Reliable
-
-Properties of
-Trustworthiness: Continuous Monitoring
+Properties of Trustworthiness: Continuous Monitoring
 
 Question(s) to Consider: How will we monitor the AI system's capabilities,
 outputs, errors, breaches, success, and impacts
@@ -2767,8 +1828,7 @@ continuous-learning AI systems? How will we
 determine which events to monitor, and how to
 prioritize review and response?
 
-Relevant NIST AI RMF
-Subcategories: Govern 4.1
+Relevant NIST AI RMF Subcategories: Govern 4.1
 Govern 4.2
 Govern 4.3
 Map 5.2
@@ -2776,38 +1836,26 @@ Measure 2.4
 Measure 3.1
 Manage 3.1
 Manage 3.2
-Manage 4.1"
-"2","","Maintaining Quality
-Over Time","","","Properties of
-Trustworthiness: Maintaining Quality
-Over Time
+Manage 4.1
 
-Question(s) to Consider: How will we ensure the maintainability of the
+Properties of Trustworthiness: Maintaining Quality
+Over Time | Question(s) to Consider: How will we ensure the maintainability of the
 AI system after it is operationalized? How will
 we maintain the quality of the system and its
-outputs over time?
-
-Relevant NIST AI RMF
-Subcategories: Govern 4.3
+outputs over time? | Relevant NIST AI RMF Subcategories: Govern 4.3
 Map 5.2
 Measure 2.4
 Measure 3.3
 Measure 4.3
 Manage 2.2
 Manage 4.1
-Manage 4.2"
-"2","","Acceptable and
-Desirable","","","Properties of
-Trustworthiness: Acceptable and
-Desirable
+Manage 4.2
 
-Question(s) to Consider: How will we judge the acceptability and
+Properties of Trustworthiness: Acceptable and
+Desirable | Question(s) to Consider: How will we judge the acceptability and
 desirability of the use of the AI system by the
 communities, organizations, and institutions that
-are using the system and are impacted by it?
-
-Relevant NIST AI RMF
-Subcategories: Govern 5.1
+are using the system and are impacted by it? | Relevant NIST AI RMF Subcategories: Govern 5.1
 Govern 5.2
 Map 1.1
 Map 5.2
@@ -2816,15 +1864,10 @@ Measure 3.3
 Measure 4.2
 Measure 4.3
 Manage 1.1
-Manage 4.1"
-"2","","Human Agency","","","Properties of
-Trustworthiness: Human Agency
+Manage 4.1
 
-Question(s) to Consider: How will human agency be meaningfully
-incorporated in the operation of the AI system?
-
-Relevant NIST AI RMF
-Subcategories: Govern 2.1
+Properties of Trustworthiness: Human Agency | Question(s) to Consider: How will human agency be meaningfully
+incorporated in the operation of the AI system? | Relevant NIST AI RMF Subcategories: Govern 2.1
 Govern 3.2
 Govern 5.2
 Map 1.1
@@ -2833,32 +1876,13 @@ Measure 1.3
 Measure 2.2
 Measure 3.3
 Measure 4.3
-Manage 4.1"
-"2","","NIST Characteristics of
-Trustworthiness","","","NIST Characteristics of
-Trustworthiness: NIST Characteristics of
-Trustworthiness
+Manage 4.1
 
-Properties of
-Trustworthiness: Properties of
-Trustworthiness
-
-Question(s) to Consider: Question(s) to Consider
-
-Relevant NIST AI RMF
-Subcategories: Relevant NIST AI
-RMF Subcategories"
-"2","","Human Control","","","Properties of
-Trustworthiness: Human Control
-
-Question(s) to Consider: How will we ensure that a human is in control
+Properties of Trustworthiness: Human Control | Question(s) to Consider: How will we ensure that a human is in control
 or meaningfully in the loop of the operational
 decision-making process of the AI system, and
 has been trained to exercise oversight and avoid
-overconfidence in the system?
-
-Relevant NIST AI RMF
-Subcategories: Govern 2.1
+overconfidence in the system? | Relevant NIST AI RMF Subcategories: Govern 2.1
 Govern 3.2
 Govern 4.3
 Map 1.1
@@ -2868,19 +1892,14 @@ Map 3.5
 Measure 1.2
 Measure 3.3
 Manage 2.4
-Manage 4.1"
-"2","","Human Oversight","","","Properties of
-Trustworthiness: Human Oversight
+Manage 4.1
 
-Question(s) to Consider: How will human oversight be ensured in
+Properties of Trustworthiness: Human Oversight | Question(s) to Consider: How will human oversight be ensured in
 the operation of the AI system? How will we
 designate and train the stakeholders responsible
 for managing and monitoring the AI system,
 including overriding or interrupting the system
-if necessary?
-
-Relevant NIST AI RMF
-Subcategories: Govern 2.1
+if necessary? | Relevant NIST AI RMF Subcategories: Govern 2.1
 Govern 3.2
 Govern 4.3
 Map 1.1
@@ -2892,30 +1911,19 @@ Measure 1.3
 Measure 3.3
 Measure 4.2
 Manage 4.1
-Manage 4.3"
-"2","","Appropriate Retirement","","","Properties of
-Trustworthiness: Appropriate Retirement
+Manage 4.3
 
-Question(s) to Consider: How will we determine when and how to retire
-the use of the AI system?
-
-Relevant NIST AI RMF
-Subcategories: Govern 1.7
+Properties of Trustworthiness: Appropriate Retirement | Question(s) to Consider: How will we determine when and how to retire
+the use of the AI system? | Relevant NIST AI RMF Subcategories: Govern 1.7
 Map 5.2
 Measure 1.3
 Measure 3.3
 Manage 2.4
-Manage 4.1"
-"2","","Iterative Learning and
-Improvements","","","Properties of
-Trustworthiness: Iterative Learning and
-Improvements
+Manage 4.1
 
-Question(s) to Consider: How will we continue to learn, iterate, and
-improve over time?
-
-Relevant NIST AI RMF
-Subcategories: Govern 1.5
+Properties of Trustworthiness: Iterative Learning and
+Improvements | Question(s) to Consider: How will we continue to learn, iterate, and
+improve over time? | Relevant NIST AI RMF Subcategories: Govern 1.5
 Govern 2.2
 Govern 3.1
 Govern 4.1
@@ -2928,68 +1936,51 @@ Measure 4.2
 Measure 4.3
 Manage 4.1
 Manage 4.2"
-"2","","Safe","","","NIST Characteristics of
-Trustworthiness: Safe
+"2","","Safe","","","NIST Characteristics of Trustworthiness: Safe
 
-Properties of
-Trustworthiness: Re-evaluation
+Properties of Trustworthiness: Re-evaluation
 
 Question(s) to Consider: How will we evaluate when the AI system has
 been sufficiently modified such that a new
 review of its technical robustness and safety is
 warranted?
 
-Relevant NIST AI RMF
-Subcategories: Govern 4.3
+Relevant NIST AI RMF Subcategories: Govern 4.3
 Measure 1.3
 Measure 2.6
 Measure 3.1
 Manage 2.3
-Manage 4.1"
-"2","","NIST Characteristics of
-Trustworthiness","","","NIST Characteristics of
-Trustworthiness: NIST Characteristics of
-Trustworthiness
+Manage 4.1
 
-Properties of
-Trustworthiness: Properties of
-Trustworthiness
-
-Question(s) to Consider: Question(s) to Consider
-
-Relevant NIST AI RMF
-Subcategories: Relevant NIST AI
-RMF Subcategories"
-"2","","Assurance /
+Properties of Trustworthiness: Assurance /
 Management of
-Continual Learning","","","Properties of
-Trustworthiness: Assurance /
-Management of
-Continual Learning
-
-Question(s) to Consider: How will we assess shifts to an AI system
+Continual Learning | Question(s) to Consider: How will we assess shifts to an AI system
 if it learns and evolves over time, including
 the possibility of emerging properties or
-discontinuous jumps in capabilities?
-
-Relevant NIST AI RMF
-Subcategories: Govern 4.1
+discontinuous jumps in capabilities? | Relevant NIST AI RMF Subcategories: Govern 4.1
 Govern 4.3
 Map 2.2
 Measure 2.6
 Measure 3.1
 Manage 2.3
-Manage 4.1"
-"2","","Awareness of Functional
-Evolution","","","Properties of
-Trustworthiness: Awareness of Functional
-Evolution
+Manage 4.1
 
-Question(s) to Consider: How will we track shifts in the AI system's
-functionality over time?
+Properties of Trustworthiness: Awareness of Functional
+Evolution | Question(s) to Consider: How will we track shifts in the AI system's
+functionality over time? | Relevant NIST AI RMF Subcategories: Govern 4.1
+Govern 4.3
+Map 2.2
+Measure 2.4
+Measure 2.6
+Measure 3.1
+Manage 2.3
+Manage 4.1
 
-Relevant NIST AI RMF
-Subcategories: Govern 4.1
+Properties of Trustworthiness: Assurance /
+Management
+of Emergent
+Functionalities | Question(s) to Consider: How will we predict and detect new capabilities
+and goals of the AI system? | Relevant NIST AI RMF Subcategories: Govern 4.1
 Govern 4.3
 Map 2.2
 Measure 2.4
@@ -2997,41 +1988,16 @@ Measure 2.6
 Measure 3.1
 Manage 2.3
 Manage 4.1"
-"2","","Assurance /
-Management
-of Emergent
-Functionalities","","","Properties of
-Trustworthiness: Assurance /
-Management
-of Emergent
-Functionalities
-
-Question(s) to Consider: How will we predict and detect new capabilities
-and goals of the AI system?
-
-Relevant NIST AI RMF
-Subcategories: Govern 4.1
-Govern 4.3
-Map 2.2
-Measure 2.4
-Measure 2.6
-Measure 3.1
-Manage 2.3
-Manage 4.1"
-"2","","Fair with Harmful Bias
-Managed","","","NIST Characteristics of
-Trustworthiness: Fair with Harmful Bias
+"2","","Fair with Harmful Bias Managed","","","NIST Characteristics of Trustworthiness: Fair with Harmful Bias
 Managed
 
-Properties of
-Trustworthiness: Shared Benefit
+Properties of Trustworthiness: Shared Benefit
 
 Question(s) to Consider: How will the benefits of the AI system's use be
 distributed? Can those benefits be shared more
 widely?
 
-Relevant NIST AI RMF
-Subcategories: Govern 3.1
+Relevant NIST AI RMF Subcategories: Govern 3.1
 Govern 5.1
 Govern 5.2
 Map 1.1
@@ -3039,34 +2005,27 @@ Map 1.2
 Map 3.1
 Manage 2.2
 Manage 4.2"
-"2","","Accountable and
-Transparent","","","NIST Characteristics of
-Trustworthiness: Accountable and
+"2","","Accountable and Transparent","","","NIST Characteristics of Trustworthiness: Accountable and
 Transparent
 
-Properties of
-Trustworthiness: Auditable
+Properties of Trustworthiness: Auditable
 
 Question(s) to Consider: How will independent auditors or an
 independent monitoring body be able to assess
 the AI system and its impacts? Is there sufficient
 documentation to support an audit?
 
-Relevant NIST AI RMF
-Subcategories: Govern 1.4
+Relevant NIST AI RMF Subcategories: Govern 1.4
 Govern 4.2
 Map 4.1
 Map 5.1
 Measure 1.3
 Measure 2.8
 Manage 4.3"
-"2","","Responsible Practice
-and Use","","","NIST Characteristics of
-Trustworthiness: Responsible Practice
+"2","","Responsible Practice and Use","","","NIST Characteristics of Trustworthiness: Responsible Practice
 and Use
 
-Properties of
-Trustworthiness: Prevention of Significant
+Properties of Trustworthiness: Prevention of Significant
 Adverse Impacts
 
 Question(s) to Consider: How will we identify and prevent or mitigate
@@ -3075,43 +2034,21 @@ including harm and/or violence to people or
 communities, including harassment, stereotyping
 or demeaning, addiction, or over-reliance?
 
-Relevant NIST AI RMF
-Subcategories: A majority of all of
+Relevant NIST AI RMF Subcategories: A majority of all of
 the subcategories
 are critical. Map 1.1
 is especially relevant
 to help understand
 the purpose,
 context, and impacts
-of the intended use."
-"2","","NIST Characteristics of
-Trustworthiness","","","NIST Characteristics of
-Trustworthiness: NIST Characteristics of
-Trustworthiness
+of the intended use.
 
-Properties of
-Trustworthiness: Properties of
-Trustworthiness
-
-Question(s) to Consider: Question(s) to Consider
-
-Relevant NIST AI RMF
-Subcategories: Relevant NIST AI
-RMF Subcategories"
-"2","","Prevention of Malicious
+Properties of Trustworthiness: Prevention of Malicious
 or Harmful Synthetic
-Content","","","Properties of
-Trustworthiness: Prevention of Malicious
-or Harmful Synthetic
-Content
-
-Question(s) to Consider: How will we monitor and prevent or mitigate
+Content | Question(s) to Consider: How will we monitor and prevent or mitigate
 the creation or spread of malicious or harmful
 synthetic content, such as non-consensual
-deepfakes?
-
-Relevant NIST AI RMF
-Subcategories: Govern 1.1
+deepfakes? | Relevant NIST AI RMF Subcategories: Govern 1.1
 Govern 1.2
 Map 1.1
 Map 5.1
@@ -3119,20 +2056,14 @@ Map 5.2
 Measure 1.3
 Measure 3.3
 Manage 2.4
-Manage 4.1"
-"2","","Prevention of Misuses
-and Abuses","","","Properties of
-Trustworthiness: Prevention of Misuses
-and Abuses
+Manage 4.1
 
-Question(s) to Consider: How will we monitor uses and actively prevent
+Properties of Trustworthiness: Prevention of Misuses
+and Abuses | Question(s) to Consider: How will we monitor uses and actively prevent
 or mitigate misuses and abuses, including human
 rights abuses? For example, how will we prevent
 the sale or the system to actors with records of
-human rights abuses?
-
-Relevant NIST AI RMF
-Subcategories: Govern 1.1
+human rights abuses? | Relevant NIST AI RMF Subcategories: Govern 1.1
 Govern 1.2
 Map 1.1
 Map 5.1
@@ -3140,19 +2071,13 @@ Map 5.2
 Measure 1.3
 Measure 3.3
 Manage 2.4
-Manage 4.1"
-"2","","Prevention of Social or
-Behavioral Manipulation","","","Properties of
-Trustworthiness: Prevention of Social or
-Behavioral Manipulation
+Manage 4.1
 
-Question(s) to Consider: How will we monitor and prevent or mitigate
+Properties of Trustworthiness: Prevention of Social or
+Behavioral Manipulation | Question(s) to Consider: How will we monitor and prevent or mitigate
 individual or social manipulation, for example
 through recommender systems, dark patterns,
-or computational propaganda?
-
-Relevant NIST AI RMF
-Subcategories: Govern 1.1
+or computational propaganda? | Relevant NIST AI RMF Subcategories: Govern 1.1
 Govern 1.2
 Map 1.1
 Map 5.1
@@ -3160,20 +2085,13 @@ Map 5.2
 Measure 1.3
 Measure 3.3
 Manage 2.4
-Manage 4.1"
-"2","","Assessment of
-Environmental
-Implications","","","Properties of
-Trustworthiness: Assessment of
-Environmental
-Implications
+Manage 4.1
 
-Question(s) to Consider: How will we analyze and document the
+Properties of Trustworthiness: Assessment of
+Environmental
+Implications | Question(s) to Consider: How will we analyze and document the
 environmental implications of the AI system and
-its uses?
-
-Relevant NIST AI RMF
-Subcategories: Govern 3.1
+its uses? | Relevant NIST AI RMF Subcategories: Govern 3.1
 Govern 4.2
 Map 1.1
 Map 3.2
@@ -3181,36 +2099,24 @@ Map 5.1
 Map 5.2
 Measure 1.3
 Measure 2.12
-Manage 4.1"
-"2","","Oversight of Third-Party
-Uses","","","Properties of
-Trustworthiness: Oversight of Third-Party
-Uses
+Manage 4.1
 
-Question(s) to Consider: How will we determine which third parties
+Properties of Trustworthiness: Oversight of Third-Party
+Uses | Question(s) to Consider: How will we determine which third parties
 to do business with, and how will we oversee
 third-party uses to help prevent misuses of the
-AI system?
-
-Relevant NIST AI RMF
-Subcategories: Govern 6.1
+AI system? | Relevant NIST AI RMF Subcategories: Govern 6.1
 Govern 6.2
 Map 4.1
 Map 4.2
 Manage 3.1
-Manage 3.2"
-"2","","Assessment of
-Implications Over Time","","","Properties of
-Trustworthiness: Assessment of
-Implications Over Time
+Manage 3.2
 
-Question(s) to Consider: How will we assess the implications of the use
+Properties of Trustworthiness: Assessment of
+Implications Over Time | Question(s) to Consider: How will we assess the implications of the use
 of the AI system over time? What events should
 trigger reevaluation, and how frequently should
-we reevaluate?
-
-Relevant NIST AI RMF
-Subcategories: Govern 1.5
+we reevaluate? | Relevant NIST AI RMF Subcategories: Govern 1.5
 Govern 4.2
 Map 1.1
 Measure 1.2
@@ -3219,25 +2125,9 @@ Measure 3.1
 Measure 3.3
 Manage 2.3
 Manage 4.1"
-"2","","NIST Characteristics of
-Trustworthiness","","","NIST Characteristics of
-Trustworthiness: NIST Characteristics of
-Trustworthiness
+"2","","Valid and Reliable","","","NIST Characteristics of Trustworthiness: Valid and Reliable
 
-Properties of
-Trustworthiness: Properties of
-Trustworthiness
-
-Question(s) to Consider: Question(s) to Consider
-
-Relevant NIST AI RMF
-Subcategories: Relevant NIST AI RMF
-Subcategories"
-"2","","Valid and Reliable","","","NIST Characteristics of
-Trustworthiness: Valid and Reliable
-
-Properties of
-Trustworthiness: Engagement with
+Properties of Trustworthiness: Engagement with
 Impacted Communities
 
 Question(s) to Consider: How will we identify and engage with
@@ -3245,53 +2135,41 @@ communities impacted by the use of the
 system, either directly or indirectly, and
 incorporate their feedback?
 
-Relevant NIST AI RMF
-Subcategories: Govern 5.1
+Relevant NIST AI RMF Subcategories: Govern 5.1
 Govern 5.2
 Map 5.2
 Measure 1.3
 Measure 3.3
 Measure 4.3
 Manage 4.1
-Manage 4.3"
-"2","","Effective Feedback","","","Properties of
-Trustworthiness: Effective Feedback*
+Manage 4.3
 
-Question(s) to Consider: How will we establish a dedicated channel
+Properties of Trustworthiness: Effective Feedback* | Question(s) to Consider: How will we establish a dedicated channel
 for feedback and questions about the AI
-system from users and the general public?
-
-Relevant NIST AI RMF
-Subcategories: Govern 5.1
+system from users and the general public? | Relevant NIST AI RMF Subcategories: Govern 5.1
 Govern 5.2
 Map 5.2
 Measure 1.3
 Measure 3.3
 Manage 4.1"
-"2","","Safe","","","NIST Characteristics of
-Trustworthiness: Safe
+"2","","Safe","","","NIST Characteristics of Trustworthiness: Safe
 
-Properties of
-Trustworthiness: Incident Reporting
+Properties of Trustworthiness: Incident Reporting
 
 Question(s) to Consider: How will we publicly report incidents and
 adverse impacts of the AI system, such
 as mistakes, errors, breaches, unintended
 consequences, etc.?
 
-Relevant NIST AI RMF
-Subcategories: Govern 4.2
+Relevant NIST AI RMF Subcategories: Govern 4.2
 Govern 4.3
 Measure 2.6
 Manage 4.1
 Manage 4.3"
-"2","","Fair with Harmful Bias
-Managed","","","NIST Characteristics of
-Trustworthiness: Fair with Harmful Bias
+"2","","Fair with Harmful Bias Managed","","","NIST Characteristics of Trustworthiness: Fair with Harmful Bias
 Managed
 
-Properties of
-Trustworthiness: Fair Access to AI Tools
+Properties of Trustworthiness: Fair Access to AI Tools
 and Services
 
 Question(s) to Consider: How can we promote widespread and
@@ -3299,25 +2177,21 @@ equitable access to our AI tools and services,
 and any resources or opportunities they
 enable?
 
-Relevant NIST AI RMF
-Subcategories: Govern 3.1
+Relevant NIST AI RMF Subcategories: Govern 3.1
 Govern 5.2
 Map 1.1
 Map 1.2
 Map 5.2
 Manage 4.2"
-"2","","Secure and Resilient","","","NIST Characteristics of
-Trustworthiness: Secure and Resilient
+"2","","Secure and Resilient","","","NIST Characteristics of Trustworthiness: Secure and Resilient
 
-Properties of
-Trustworthiness: Vulnerability Disclosure
+Properties of Trustworthiness: Vulnerability Disclosure
 
 Question(s) to Consider: How will we establish a coordinated policy to
 encourage responsible vulnerability research
 and disclosure?
 
-Relevant NIST AI RMF
-Subcategories: Govern 1.1
+Relevant NIST AI RMF Subcategories: Govern 1.1
 Govern 1.2
 Govern 4.2
 Govern 4.3
@@ -3325,160 +2199,101 @@ Map 5.2
 Measure 2.7
 Manage 4.1
 Manage 4.3"
-"2","","Explainable and
-Interpretable","","","NIST Characteristics of
-Trustworthiness: Explainable and
+"2","","Explainable and Interpretable","","","NIST Characteristics of Trustworthiness: Explainable and
 Interpretable
 
-Properties of
-Trustworthiness: Relevant Explanation
+Properties of Trustworthiness: Relevant Explanation
 
 Question(s) to Consider: How will we judge how informative and
 relevant a system's explanation is to the
 particular context and user?
 
-Relevant NIST AI RMF
-Subcategories: Govern 5.2
+Relevant NIST AI RMF Subcategories: Govern 5.2
 Map 5.2
 Measure 2.9
 Manage 4.2
 Manage 4.3"
-"2","","NIST Characteristics of
-Trustworthiness","","","NIST Characteristics of
-Trustworthiness: NIST Characteristics of
-Trustworthiness
+"2","","Privacy-enhanced","","","NIST Characteristics of Trustworthiness: Privacy-enhanced
 
-Properties of
-Trustworthiness: Properties of
-Trustworthiness
-
-Question(s) to Consider: Question(s) to Consider
-
-Relevant NIST AI RMF
-Subcategories: Relevant NIST AI RMF
-Subcategories"
-"2","","Privacy-enhanced","","","NIST Characteristics of
-Trustworthiness: Privacy-enhanced
-
-Properties of
-Trustworthiness: Effective Notification*
+Properties of Trustworthiness: Effective Notification*
 
 Question(s) to Consider: How will we notify users and impacted
 communities about privacy or security
 breaches, or other incidents?
 
-Relevant NIST AI RMF
-Subcategories: Govern 1.1
+Relevant NIST AI RMF Subcategories: Govern 1.1
 Govern 4.3
 Map 5.2
 Measure 2.8
 Manage 2.3
 Manage 4.1
 Manage 4.3"
-"2","","Accountable and
-Transparent","","","NIST Characteristics of
-Trustworthiness: Accountable and
+"2","","Accountable and Transparent","","","NIST Characteristics of Trustworthiness: Accountable and
 Transparent
 
-Properties of
-Trustworthiness: Facilitation of
+Properties of Trustworthiness: Facilitation of
 Contestability*
 
 Question(s) to Consider: How will users be able to contest or appeal a
 decision or action made by the AI system?
 
-Relevant NIST AI RMF
-Subcategories: Govern 5.2
-Map 5.2
-Measure 3.3
-Manage 4.1"
-"2","","Facilitation of Redress or
-Recourse","","","Properties of
-Trustworthiness: Facilitation of Redress or
-Recourse
-
-Question(s) to Consider: How will we support or compensate people
-who are negatively affected by the use of the
-AI system?
-
-Relevant NIST AI RMF
-Subcategories: Govern 5.2
+Relevant NIST AI RMF Subcategories: Govern 5.2
 Map 5.2
 Measure 3.3
 Manage 4.1
-Manage 4.3"
-"2","","Engagement with
-Global Governance
-Deliberations","","","Properties of
-Trustworthiness: Engagement with
-Global Governance
-Deliberations
 
-Question(s) to Consider: How will we analyze, follow, and engage in
+Properties of Trustworthiness: Facilitation of Redress or
+Recourse | Question(s) to Consider: How will we support or compensate people
+who are negatively affected by the use of the
+AI system? | Relevant NIST AI RMF Subcategories: Govern 5.2
+Map 5.2
+Measure 3.3
+Manage 4.1
+Manage 4.3
+
+Properties of Trustworthiness: Engagement with
+Global Governance
+Deliberations | Question(s) to Consider: How will we analyze, follow, and engage in
 relevant global governance deliberations and
-practices related to artificial intelligence?
-
-Relevant NIST AI RMF
-Subcategories: Govern 1.1
+practices related to artificial intelligence? | Relevant NIST AI RMF Subcategories: Govern 1.1
 Govern 1.2
 Govern 5.1
 Map 5.2
-Measure 2.8"
-"2","","Data and System
-Accessibility","","","Properties of
-Trustworthiness: Data and System
-Accessibility
+Measure 2.8
 
-Question(s) to Consider: How can we enable access to the AI system
+Properties of Trustworthiness: Data and System
+Accessibility | Question(s) to Consider: How can we enable access to the AI system
 and datasets to relevant authorities,
 independent researchers, and trusted
-intermediaries?
-
-Relevant NIST AI RMF
-Subcategories: Govern 4.2
+intermediaries? | Relevant NIST AI RMF Subcategories: Govern 4.2
 Govern 5.1
 Map 1.2
 Map 5.2
 Measure 2.8
-Manage 4.2"
-"2","","Informed Consent of
-Use","","","Properties of
-Trustworthiness: Informed Consent of
-Use*
+Manage 4.2
 
-Question(s) to Consider: How will we enable users of the AI system to
+Properties of Trustworthiness: Informed Consent of
+Use* | Question(s) to Consider: How will we enable users of the AI system to
 consent to its use? How will we enable them
-to withdraw consent?
-
-Relevant NIST AI RMF
-Subcategories: Govern 5.2
+to withdraw consent? | Relevant NIST AI RMF Subcategories: Govern 5.2
 Map 5.2
 Measure 2.2
 Manage 4.1"
-"2","","Responsible Practice
-and Use","","","NIST Characteristics of
-Trustworthiness: Responsible Practice
+"2","","Responsible Practice and Use","","","NIST Characteristics of Trustworthiness: Responsible Practice
 and Use
 
-Properties of
-Trustworthiness: Ability to Opt Out*
+Properties of Trustworthiness: Ability to Opt Out*
 
 Question(s) to Consider: How will we ensure that people have specific
 and clear opportunities to opt out of use of
 the AI system?
 
-Relevant NIST AI RMF
-Subcategories: Map 5.2
+Relevant NIST AI RMF Subcategories: Map 5.2
 Measure 2.2
-Manage 4.1"
-"2","","Consumer Protection","","","Properties of
-Trustworthiness: Consumer Protection*
+Manage 4.1
 
-Question(s) to Consider: How will we protect consumers or users of
-the system from harm?
-
-Relevant NIST AI RMF
-Subcategories: Govern 1.1
+Properties of Trustworthiness: Consumer Protection* | Question(s) to Consider: How will we protect consumers or users of
+the system from harm? | Relevant NIST AI RMF Subcategories: Govern 1.1
 Govern 4.1
 Govern 4.3
 Govern 5.1
@@ -3491,18 +2306,12 @@ Measure 1.3
 Measure 3.3
 Measure 4.1
 Manage 4.1
-Manage 4.3"
-"2","","Due Process and
-Protection","","","Properties of
-Trustworthiness: Due Process and
-Protection
+Manage 4.3
 
-Question(s) to Consider: How will we protect whistleblowers, NGOs,
+Properties of Trustworthiness: Due Process and
+Protection | Question(s) to Consider: How will we protect whistleblowers, NGOs,
 trade unions, or other entities who come
-forward with concerns about the AI system?
-
-Relevant NIST AI RMF
-Subcategories: Govern 1.1
+forward with concerns about the AI system? | Relevant NIST AI RMF Subcategories: Govern 1.1
 Map 4.1
 Measure 3.3
 Manage 4.1"
