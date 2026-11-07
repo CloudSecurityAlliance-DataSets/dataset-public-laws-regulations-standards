@@ -1004,11 +1004,11 @@ def process_crosswalk_tables_and_statutes() -> int:
                     m_id = re.match(r"^((?:GOVERN|MAP|MEASURE|MANAGE)\b(?:\s+\d+(?:\.\d+)?)?)\s*[:\-–—]?\s*(.*)$", primary, re.I | re.S)
                     m_tta = re.match(r"^\(?(Requirement\s+\d+(?:-\d+)?|\d{2}-\d[a-z])\)?\s*(.*)$", primary, re.I | re.S)
                     if m_id:
-                        sid = m_id.group(1).upper()
+                        sid = re.sub(r"\s+", " ", m_id.group(1)).strip().upper()
                         sname = m_id.group(2).strip() or (c1 if c0 and c1 else sid)
                         ikind = "numbered"
                     elif m_tta:
-                        sid = m_tta.group(1)
+                        sid = re.sub(r"\s+", " ", m_tta.group(1)).strip()
                         sname = m_tta.group(2).strip() or (c_stripped[2] if len(c_stripped) > 2 else sid)
                         ikind = "numbered"
                     else:
