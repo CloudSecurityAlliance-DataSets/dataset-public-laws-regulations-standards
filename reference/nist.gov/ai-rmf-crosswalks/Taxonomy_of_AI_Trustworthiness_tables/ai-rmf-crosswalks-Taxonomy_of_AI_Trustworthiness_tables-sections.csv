@@ -1541,14 +1541,9 @@ Measure 2.2
 Measure 2.11
 Measure 3.3
 Manage 4.1"
-"2","","Trustworthiness","","","NIST Characteristics of: Trustworthiness
+"2","","Secure and Resilient","","","NIST Characteristics of Trustworthiness: Secure and Resilient
 
-Properties of: Trustworthiness
-
-Relevant NIST AI RMF: Subcategories"
-"2","","Secure and Resilient","","","NIST Characteristics of: Secure and Resilient
-
-Properties of: Robust
+Properties of Trustworthiness: Robust
 
 Question(s) to Consider: How will we protect the AI system
 against cyber attacks, adversarial
@@ -1559,7 +1554,7 @@ we ensure the system is robust to
 optimizers that aim to induce specific
 system responses?
 
-Relevant NIST AI RMF: Govern 4.1
+Relevant NIST AI RMF Subcategories: Govern 4.1
 Govern 4.3
 Govern 6.1
 Govern 6.2
@@ -1571,9 +1566,9 @@ Manage 3.2
 Manage 4.1
 Manage 4.3
 
-Properties of: Resilient | Question(s) to Consider: How will we assess the AI system's
+Properties of Trustworthiness: Resilient | Question(s) to Consider: How will we assess the AI system's
 ability to handle uncertainty and
-unknown environments? | Relevant NIST AI RMF: Govern 4.1
+unknown environments? | Relevant NIST AI RMF Subcategories: Govern 4.1
 Govern 4.3
 Govern 6.1
 Map 1.1
@@ -1584,9 +1579,9 @@ Measure 2.7
 Measure 3.1
 Manage 4.1
 Manage 4.3"
-"2","","Privacy-Enhanced","","","NIST Characteristics of: Privacy-Enhanced
+"2","","Privacy-Enhanced","","","NIST Characteristics of Trustworthiness: Privacy-Enhanced
 
-Properties of: Protection from
+Properties of Trustworthiness: Protection from
 Unwarranted Data
 Access*
 
@@ -1594,7 +1589,7 @@ Question(s) to Consider: How will we ensure the AI system
 cannot be used to give unwarranted
 access to data?
 
-Relevant NIST AI RMF: Govern 1.1
+Relevant NIST AI RMF Subcategories: Govern 1.1
 Govern 4.3
 Govern 6.1
 Map 2.3
@@ -1604,10 +1599,10 @@ Manage 3.1
 Manage 3.2
 Manage 4.1
 Manage 4.3"
-"2","","Accountable and Transparent","","","NIST Characteristics of: Accountable and
+"2","","Accountable and Transparent","","","NIST Characteristics of Trustworthiness: Accountable and
 Transparent
 
-Properties of: Future Projections of
+Properties of Trustworthiness: Future Projections of
 Possible System and
 Environmental Changes
 
@@ -1616,7 +1611,7 @@ evolve over time? How might the
 environment it is deployed in change
 over time?
 
-Relevant NIST AI RMF: Govern 1.5
+Relevant NIST AI RMF Subcategories: Govern 1.5
 Govern 4.3
 Map 1.1
 Map 3.3

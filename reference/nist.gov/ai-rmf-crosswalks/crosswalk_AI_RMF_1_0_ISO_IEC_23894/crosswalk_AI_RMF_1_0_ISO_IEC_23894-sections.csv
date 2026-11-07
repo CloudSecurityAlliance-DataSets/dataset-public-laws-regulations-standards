@@ -1,5 +1,5 @@
 "depth","section_id","section_name","id_kind","parent_id","body"
-"2","","GOVERN: Culture of risk management is cultivated and present.","","","AI RMF 1.0 Function: GOVERN: Culture
+"2","GOVERN","Culture of risk management is cultivated and present.","numbered","","AI RMF 1.0 Function: GOVERN: Culture
 of risk management
 is cultivated and
 present.
@@ -22,7 +22,7 @@ ISO/IEC FDIS 23894: 5.4.4 Allocating resources (ref. ISO 31000:2018)
 
 ISO/IEC FDIS 23894: 5.4.5 Establishing communication and consultation (refer
 ences ISO 31000:2018)"
-"2","","MAP: Context is recognized and risks related to context are identified.","","","AI RMF 1.0 Function: MAP: Context is
+"2","MAP","Context is recognized and risks related to context are identified.","numbered","","AI RMF 1.0 Function: MAP: Context is
 recognized and risks
 related to context
 are identified.
@@ -64,22 +64,23 @@ ISO/IEC FDIS 23894: 6.4.3.3 Assessment of likelihood
 
 ISO/IEC FDIS 23894: 6.6 Monitoring and review (references ISO 31000:2018)
 
-ISO/IEC FDIS 23894: Continued on next page"
-"2","","MANAGE: Risks are prioritized and acted","","","AI RMF 1.0 Function: MANAGE: Risks are
+ISO/IEC FDIS 23894: Continued on next page
+
+ISO/IEC FDIS 23894: 6.7 Recording and reporting"
+"2","MANAGE","Risks are prioritized and acted","numbered","","AI RMF 1.0 Function: MANAGE: Risks are
 prioritized and acted
 
-ISO/IEC FDIS 23894 6.7 Recording and reporting: 5.5 Implementation (references ISO 31000:2018)"
-"2","","upon based on projected impact.","","","AI RMF 1.0 Function: upon based on
-projected impact.
+ISO/IEC FDIS 23894: 5.5 Implementation (references ISO 31000:2018)
 
-ISO/IEC FDIS 23894 6.7 Recording and reporting: 5.7 Improvement (references ISO 31000:2018)
+AI RMF 1.0 Function: upon based on
+projected impact. | ISO/IEC FDIS 23894: 5.7 Improvement (references ISO 31000:2018)
 
-ISO/IEC FDIS 23894 6.7 Recording and reporting: 6.5 Risk Treatment
+ISO/IEC FDIS 23894: 6.5 Risk Treatment
 
-ISO/IEC FDIS 23894 6.7 Recording and reporting: 6.5.2 Selection of risk treatment options
+ISO/IEC FDIS 23894: 6.5.2 Selection of risk treatment options
 
-ISO/IEC FDIS 23894 6.7 Recording and reporting: 6.5.3 Preparing and implementing risk treatment plans
+ISO/IEC FDIS 23894: 6.5.3 Preparing and implementing risk treatment plans
 
-ISO/IEC FDIS 23894 6.7 Recording and reporting: 6.6 Monitoring and review (references ISO 31000:2018)
+ISO/IEC FDIS 23894: 6.6 Monitoring and review (references ISO 31000:2018)
 
-ISO/IEC FDIS 23894 6.7 Recording and reporting: 6.7 Recording and reporting"
+ISO/IEC FDIS 23894: 6.7 Recording and reporting"

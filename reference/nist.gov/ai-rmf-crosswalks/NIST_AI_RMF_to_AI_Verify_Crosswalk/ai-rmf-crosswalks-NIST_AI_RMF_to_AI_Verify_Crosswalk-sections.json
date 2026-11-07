@@ -57,97 +57,97 @@
   },
   {
     "depth": 2,
-    "section_id": "",
-    "section_name": "MAP 2: Categorization of the AI system is performed.",
-    "id_kind": "",
+    "section_id": "MAP 2",
+    "section_name": "Categorization of the AI system is performed.",
+    "id_kind": "numbered",
     "parent_id": "",
     "body": "AI RMF 1.0: MAP 2: Categorization of the AI system is\nperformed.\n\nAI Verify Testing Framework: Transparency 1.1-1.3\nExplainability 2.1\nReproducibility 3.1 -\n3.14\nHuman Agency & Oversight 10.5\nOrganisational Considerations 12.3"
   },
   {
     "depth": 2,
-    "section_id": "",
-    "section_name": "MAP 3: AI capabilities, targeted usage, goals, and expected benefits and costs compared with appropriate benchmarks are ",
-    "id_kind": "",
+    "section_id": "MAP 3",
+    "section_name": "AI capabilities, targeted usage, goals, and expected benefits and costs compared with appropriate benchmarks are understood.",
+    "id_kind": "numbered",
     "parent_id": "",
     "body": "AI RMF 1.0: MAP 3:\nAI capabilities, targeted usage, goals,\nand expected benefits and costs compared with\nappropriate benchmarks are understood.\n\nAI Verify Testing Framework: Transparency 1.1-1.3\nReproducibility 3.1 -\n3.14\nSecurity 5.1\nData Governance 8.4\nAccountability 9.1\nHuman Agency and Oversight 10.1-10.5"
   },
   {
     "depth": 2,
-    "section_id": "",
-    "section_name": "MAP 4: Risks and benefits are mapped for all components of the AI system including third party software and data.",
-    "id_kind": "",
+    "section_id": "MAP 4",
+    "section_name": "Risks and benefits are mapped for all components of the AI system including third party software and data.",
+    "id_kind": "numbered",
     "parent_id": "",
     "body": "AI RMF 1.0: MAP 4: Risks and benefits are mapped for all\ncomponents of the AI system including third\nparty software and data.\n\nAI Verify Testing Framework: Reproducibility 3.13\nSafety 4.1-\n4.6\nData Governance 8.1 -\n8.4\nAccountability 9.5"
   },
   {
     "depth": 2,
-    "section_id": "",
-    "section_name": "MAP 5: Impacts to individuals, groups, communities, organizations, and society are characterized.",
-    "id_kind": "",
+    "section_id": "MAP 5",
+    "section_name": "Impacts to individuals, groups, communities, organizations, and society are characterized.",
+    "id_kind": "numbered",
     "parent_id": "",
     "body": "AI RMF 1.0: MAP 5:\nImpacts to individuals, groups,\ncommunities, organizations, and society are\ncharacterized.\n\nAI Verify Testing Framework: Transparency 1.2.4\nSafety 4.1-4.3\nFairness 7.4.2\nHuman Agency & Oversight 10.4, 10.5\nInclusive growth, Societal & Environmental\nWell-being 11.1\nOrganisational Considerations 12.4"
   },
   {
     "depth": 2,
-    "section_id": "",
-    "section_name": "MEASURE 1: Appropriate methods and metrics are identified and applied.",
-    "id_kind": "",
+    "section_id": "MEASURE 1",
+    "section_name": "Appropriate methods and metrics are identified and applied.",
+    "id_kind": "numbered",
     "parent_id": "",
     "body": "AI RMF 1.0: MEASURE 1: Appropriate methods and\nmetrics are identified and applied.\n\nAI Verify Testing Framework: Transparency 1.2.4\nSafety 4.1-\n4.6\nFairness 7.3, 7.4\nAccountability 9.4\nHuman Agency & Oversight 10.4.1\nInclusive growth, Societal & Environmental\nWell-being 11.1"
   },
   {
     "depth": 2,
-    "section_id": "",
-    "section_name": "MEASURE 2: AI systems are evaluated for trustworthy characteristics.",
-    "id_kind": "",
+    "section_id": "MEASURE 2",
+    "section_name": "AI systems are evaluated for trustworthy characteristics.",
+    "id_kind": "numbered",
     "parent_id": "",
     "body": "AI RMF 1.0: MEASURE 2:\nAI systems are evaluated for\ntrustworthy characteristics.\n\nAI Verify Testing Framework: Transparency 1.2\nExplainability 2.1\nReproducibility 3.11, 3.14\nSafety 4.2, 4.3, 4.5, 4.6\nSecurity 5.5\nRobustness 6.1, 6.2, 6.3, 6.5\nFairness 7.2, 7.4.2, 7.6, 7.7, 7.8, 7.9\nData Governance 8.1-8.4\nAccountability 9.1-9.5\nHuman Agency and Oversight 10.1.2\nInclusive growth, Societal & Environmental\nWell-being 11.1"
   },
   {
     "depth": 2,
-    "section_id": "",
-    "section_name": "MEASURE 3: Mechanisms for tracking identified AI risks over time are in place.",
-    "id_kind": "",
+    "section_id": "MEASURE 3",
+    "section_name": "Mechanisms for tracking identified AI risks over time are in place.",
+    "id_kind": "numbered",
     "parent_id": "",
     "body": "AI RMF 1.0: MEASURE 3:\nMechanisms for tracking\nidentified AI risks over time are in place.\n\nAI Verify Testing Framework: Reproducibility 3.11, 3.14\nSafety 4.3, 4.6\nSecurity 5.3 -\n5.7\nRobustness 6.1 -\n6.5\nFairness 7.2, 7.7, 7.8\nAccountability 9.1.2, 9.1.3\nHuman Agency & Oversight 10.4.1\nOrganisational Considerations 12.5"
   },
   {
     "depth": 2,
-    "section_id": "",
-    "section_name": "MEASURE 4: Feedback about efficacy of measurement is gathered and assessed.",
-    "id_kind": "",
+    "section_id": "MEASURE 4",
+    "section_name": "Feedback about efficacy of measurement is gathered and assessed.",
+    "id_kind": "numbered",
     "parent_id": "",
     "body": "AI RMF 1.0: MEASURE 4:\nFeedback about efficacy of\nmeasurement is gathered and assessed.\n\nAI Verify Testing Framework: Transparency 1.2.4\nAccountability 9.1.2, 9.4\nFairness 7.2\nAccountability 9.1.2\nHuman Agency and Oversight 10.1, 10.3, 10.5\nInclusive growth, Societal & Environmental\nWell-being 11.1"
   },
   {
     "depth": 2,
-    "section_id": "",
-    "section_name": "MANAGE 1: AI risks based on assessments and other analytical output from the MAP and MEASURE functions are prioritized, ",
-    "id_kind": "",
+    "section_id": "MANAGE\n1",
+    "section_name": "AI risks based on assessments and other analytical output from the MAP and MEASURE functions are prioritized, responded to, and managed.",
+    "id_kind": "numbered",
     "parent_id": "",
     "body": "AI RMF 1.0: MANAGE\n1:\nAI risks based on assessments\nand other analytical output from the MAP and\nMEASURE functions are prioritized, responded\nto, and managed.\n\nAI Verify Testing Framework: Safety 4.1, 4.2, 4.3, 4.6\nFairness 7.1 -\n7.9\nAccountability 9.1\nHuman Agency & Oversight 10.5"
   },
   {
     "depth": 2,
-    "section_id": "",
-    "section_name": "MANAGE 2: Strategies to maximize AI benefits and minimize negative impacts are planned, prepared, implemented, documente",
-    "id_kind": "",
+    "section_id": "MANAGE 2",
+    "section_name": "Strategies to maximize AI benefits and minimize negative impacts are planned, prepared, implemented, documented, and informed by input from relevant AI actors.",
+    "id_kind": "numbered",
     "parent_id": "",
     "body": "AI RMF 1.0: MANAGE 2:\nStrategies to maximize AI\nbenefits and minimize negative impacts are\nplanned, prepared, implemented, documented,\nand informed by input from relevant AI actors.\n\nAI Verify Testing Framework: Reproducibility 3.14\nSafety 4.3, 4.5\nSecurity 5.5\nRobustness 6.5\nFairness 7.2, 7.7, 7.8\nHuman Agency and Oversight 10.2\nOrganisational\nConsiderations 12.6"
   },
   {
     "depth": 2,
-    "section_id": "",
-    "section_name": "MANAGE 3: AI risks and benefits from third party entities are managed.",
-    "id_kind": "",
+    "section_id": "MANAGE 3",
+    "section_name": "AI risks and benefits from third party entities are managed.",
+    "id_kind": "numbered",
     "parent_id": "",
     "body": "AI RMF 1.0: MANAGE 3:\nAI risks and benefits from third\nparty entities are managed.\n\nAI Verify Testing Framework: Transparency 1.1\nReproducibility 3.13\nData governance 8.1 -\n8.3\nAccountability 9.5"
   },
   {
     "depth": 2,
-    "section_id": "",
-    "section_name": "MANAGE 4: Risk treatments, including response and recovery, and communication plans for the identified and measured AI r",
-    "id_kind": "",
+    "section_id": "MANAGE 4",
+    "section_name": "Risk treatments, including response and recovery, and communication plans for the identified and measured AI risks are documented and monitored regularly.",
+    "id_kind": "numbered",
     "parent_id": "",
     "body": "AI RMF 1.0: MANAGE 4:\nRisk treatments, including\nresponse and recovery, and communication\nplans for the identified and measured AI risks\nare documented and monitored regularly.\n\nAI Verify Testing Framework: Transparency 1.2.4\nReproducibility 3.14\nSafety 4.3, 4.5\nSecurity 5.5, 5.7\nRobustness 6.1 -\n6.5\nFairness 7.2, 7.7\nAccountability 9.4\nHuman Agency & Oversight 10.4, 10.5\nInclusive growth, Societal & Environmental\nWell-being 11.1"
   }

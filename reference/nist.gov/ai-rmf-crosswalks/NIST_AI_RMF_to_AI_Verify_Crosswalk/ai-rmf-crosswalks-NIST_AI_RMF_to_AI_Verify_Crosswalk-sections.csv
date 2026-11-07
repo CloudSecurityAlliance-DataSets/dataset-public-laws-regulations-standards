@@ -104,7 +104,7 @@ Accountability 9.1
 Inclusive growth, Societal & Environmental
 Well-being 11.1
 Organisational Considerations 12.2"
-"2","","MAP 2: Categorization of the AI system is performed.","","","AI RMF 1.0: MAP 2: Categorization of the AI system is
+"2","MAP 2","Categorization of the AI system is performed.","numbered","","AI RMF 1.0: MAP 2: Categorization of the AI system is
 performed.
 
 AI Verify Testing Framework: Transparency 1.1-1.3
@@ -113,7 +113,7 @@ Reproducibility 3.1 -
 3.14
 Human Agency & Oversight 10.5
 Organisational Considerations 12.3"
-"2","","MAP 3: AI capabilities, targeted usage, goals, and expected benefits and costs compared with appropriate benchmarks are ","","","AI RMF 1.0: MAP 3:
+"2","MAP 3","AI capabilities, targeted usage, goals, and expected benefits and costs compared with appropriate benchmarks are understood.","numbered","","AI RMF 1.0: MAP 3:
 AI capabilities, targeted usage, goals,
 and expected benefits and costs compared with
 appropriate benchmarks are understood.
@@ -125,7 +125,7 @@ Security 5.1
 Data Governance 8.4
 Accountability 9.1
 Human Agency and Oversight 10.1-10.5"
-"2","","MAP 4: Risks and benefits are mapped for all components of the AI system including third party software and data.","","","AI RMF 1.0: MAP 4: Risks and benefits are mapped for all
+"2","MAP 4","Risks and benefits are mapped for all components of the AI system including third party software and data.","numbered","","AI RMF 1.0: MAP 4: Risks and benefits are mapped for all
 components of the AI system including third
 party software and data.
 
@@ -135,7 +135,7 @@ Safety 4.1-
 Data Governance 8.1 -
 8.4
 Accountability 9.5"
-"2","","MAP 5: Impacts to individuals, groups, communities, organizations, and society are characterized.","","","AI RMF 1.0: MAP 5:
+"2","MAP 5","Impacts to individuals, groups, communities, organizations, and society are characterized.","numbered","","AI RMF 1.0: MAP 5:
 Impacts to individuals, groups,
 communities, organizations, and society are
 characterized.
@@ -147,7 +147,7 @@ Human Agency & Oversight 10.4, 10.5
 Inclusive growth, Societal & Environmental
 Well-being 11.1
 Organisational Considerations 12.4"
-"2","","MEASURE 1: Appropriate methods and metrics are identified and applied.","","","AI RMF 1.0: MEASURE 1: Appropriate methods and
+"2","MEASURE 1","Appropriate methods and metrics are identified and applied.","numbered","","AI RMF 1.0: MEASURE 1: Appropriate methods and
 metrics are identified and applied.
 
 AI Verify Testing Framework: Transparency 1.2.4
@@ -158,7 +158,7 @@ Accountability 9.4
 Human Agency & Oversight 10.4.1
 Inclusive growth, Societal & Environmental
 Well-being 11.1"
-"2","","MEASURE 2: AI systems are evaluated for trustworthy characteristics.","","","AI RMF 1.0: MEASURE 2:
+"2","MEASURE 2","AI systems are evaluated for trustworthy characteristics.","numbered","","AI RMF 1.0: MEASURE 2:
 AI systems are evaluated for
 trustworthy characteristics.
 
@@ -174,7 +174,7 @@ Accountability 9.1-9.5
 Human Agency and Oversight 10.1.2
 Inclusive growth, Societal & Environmental
 Well-being 11.1"
-"2","","MEASURE 3: Mechanisms for tracking identified AI risks over time are in place.","","","AI RMF 1.0: MEASURE 3:
+"2","MEASURE 3","Mechanisms for tracking identified AI risks over time are in place.","numbered","","AI RMF 1.0: MEASURE 3:
 Mechanisms for tracking
 identified AI risks over time are in place.
 
@@ -188,7 +188,7 @@ Fairness 7.2, 7.7, 7.8
 Accountability 9.1.2, 9.1.3
 Human Agency & Oversight 10.4.1
 Organisational Considerations 12.5"
-"2","","MEASURE 4: Feedback about efficacy of measurement is gathered and assessed.","","","AI RMF 1.0: MEASURE 4:
+"2","MEASURE 4","Feedback about efficacy of measurement is gathered and assessed.","numbered","","AI RMF 1.0: MEASURE 4:
 Feedback about efficacy of
 measurement is gathered and assessed.
 
@@ -199,7 +199,8 @@ Accountability 9.1.2
 Human Agency and Oversight 10.1, 10.3, 10.5
 Inclusive growth, Societal & Environmental
 Well-being 11.1"
-"2","","MANAGE 1: AI risks based on assessments and other analytical output from the MAP and MEASURE functions are prioritized, ","","","AI RMF 1.0: MANAGE
+"2","MANAGE
+1","AI risks based on assessments and other analytical output from the MAP and MEASURE functions are prioritized, responded to, and managed.","numbered","","AI RMF 1.0: MANAGE
 1:
 AI risks based on assessments
 and other analytical output from the MAP and
@@ -211,7 +212,7 @@ Fairness 7.1 -
 7.9
 Accountability 9.1
 Human Agency & Oversight 10.5"
-"2","","MANAGE 2: Strategies to maximize AI benefits and minimize negative impacts are planned, prepared, implemented, documente","","","AI RMF 1.0: MANAGE 2:
+"2","MANAGE 2","Strategies to maximize AI benefits and minimize negative impacts are planned, prepared, implemented, documented, and informed by input from relevant AI actors.","numbered","","AI RMF 1.0: MANAGE 2:
 Strategies to maximize AI
 benefits and minimize negative impacts are
 planned, prepared, implemented, documented,
@@ -225,7 +226,7 @@ Fairness 7.2, 7.7, 7.8
 Human Agency and Oversight 10.2
 Organisational
 Considerations 12.6"
-"2","","MANAGE 3: AI risks and benefits from third party entities are managed.","","","AI RMF 1.0: MANAGE 3:
+"2","MANAGE 3","AI risks and benefits from third party entities are managed.","numbered","","AI RMF 1.0: MANAGE 3:
 AI risks and benefits from third
 party entities are managed.
 
@@ -234,7 +235,7 @@ Reproducibility 3.13
 Data governance 8.1 -
 8.3
 Accountability 9.5"
-"2","","MANAGE 4: Risk treatments, including response and recovery, and communication plans for the identified and measured AI r","","","AI RMF 1.0: MANAGE 4:
+"2","MANAGE 4","Risk treatments, including response and recovery, and communication plans for the identified and measured AI risks are documented and monitored regularly.","numbered","","AI RMF 1.0: MANAGE 4:
 Risk treatments, including
 response and recovery, and communication
 plans for the identified and measured AI risks

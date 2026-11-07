@@ -210,18 +210,10 @@
   {
     "depth": 2,
     "section_id": "",
-    "section_name": "Trustworthiness",
-    "id_kind": "",
-    "parent_id": "",
-    "body": "NIST Characteristics of: Trustworthiness\n\nProperties of: Trustworthiness\n\nRelevant NIST AI RMF: Subcategories"
-  },
-  {
-    "depth": 2,
-    "section_id": "",
     "section_name": "Secure and Resilient",
     "id_kind": "",
     "parent_id": "",
-    "body": "NIST Characteristics of: Secure and Resilient\n\nProperties of: Robust\n\nQuestion(s) to Consider: How will we protect the AI system\nagainst cyber attacks, adversarial\nattacks, data poisoning, model leakage,\nevasion, inversion, etc., and ensure\nongoing performance? How will\nwe ensure the system is robust to\noptimizers that aim to induce specific\nsystem responses?\n\nRelevant NIST AI RMF: Govern 4.1\nGovern 4.3\nGovern 6.1\nGovern 6.2\nMap 2.3\nMeasure 2.7\nManage 2.4\nManage 3.1\nManage 3.2\nManage 4.1\nManage 4.3\n\nProperties of: Resilient | Question(s) to Consider: How will we assess the AI system's\nability to handle uncertainty and\nunknown environments? | Relevant NIST AI RMF: Govern 4.1\nGovern 4.3\nGovern 6.1\nMap 1.1\nMap 2.2\nMap 2.3\nMeasure 2.5\nMeasure 2.7\nMeasure 3.1\nManage 4.1\nManage 4.3"
+    "body": "NIST Characteristics of Trustworthiness: Secure and Resilient\n\nProperties of Trustworthiness: Robust\n\nQuestion(s) to Consider: How will we protect the AI system\nagainst cyber attacks, adversarial\nattacks, data poisoning, model leakage,\nevasion, inversion, etc., and ensure\nongoing performance? How will\nwe ensure the system is robust to\noptimizers that aim to induce specific\nsystem responses?\n\nRelevant NIST AI RMF Subcategories: Govern 4.1\nGovern 4.3\nGovern 6.1\nGovern 6.2\nMap 2.3\nMeasure 2.7\nManage 2.4\nManage 3.1\nManage 3.2\nManage 4.1\nManage 4.3\n\nProperties of Trustworthiness: Resilient | Question(s) to Consider: How will we assess the AI system's\nability to handle uncertainty and\nunknown environments? | Relevant NIST AI RMF Subcategories: Govern 4.1\nGovern 4.3\nGovern 6.1\nMap 1.1\nMap 2.2\nMap 2.3\nMeasure 2.5\nMeasure 2.7\nMeasure 3.1\nManage 4.1\nManage 4.3"
   },
   {
     "depth": 2,
@@ -229,7 +221,7 @@
     "section_name": "Privacy-Enhanced",
     "id_kind": "",
     "parent_id": "",
-    "body": "NIST Characteristics of: Privacy-Enhanced\n\nProperties of: Protection from\nUnwarranted Data\nAccess*\n\nQuestion(s) to Consider: How will we ensure the AI system\ncannot be used to give unwarranted\naccess to data?\n\nRelevant NIST AI RMF: Govern 1.1\nGovern 4.3\nGovern 6.1\nMap 2.3\nMeasure 2.7\nMeasure 2.10\nManage 3.1\nManage 3.2\nManage 4.1\nManage 4.3"
+    "body": "NIST Characteristics of Trustworthiness: Privacy-Enhanced\n\nProperties of Trustworthiness: Protection from\nUnwarranted Data\nAccess*\n\nQuestion(s) to Consider: How will we ensure the AI system\ncannot be used to give unwarranted\naccess to data?\n\nRelevant NIST AI RMF Subcategories: Govern 1.1\nGovern 4.3\nGovern 6.1\nMap 2.3\nMeasure 2.7\nMeasure 2.10\nManage 3.1\nManage 3.2\nManage 4.1\nManage 4.3"
   },
   {
     "depth": 2,
@@ -237,7 +229,7 @@
     "section_name": "Accountable and Transparent",
     "id_kind": "",
     "parent_id": "",
-    "body": "NIST Characteristics of: Accountable and\nTransparent\n\nProperties of: Future Projections of\nPossible System and\nEnvironmental Changes\n\nQuestion(s) to Consider: How might the AI system learn and\nevolve over time? How might the\nenvironment it is deployed in change\nover time?\n\nRelevant NIST AI RMF: Govern 1.5\nGovern 4.3\nMap 1.1\nMap 3.3\nMap 5.1\nMeasure 2.8\nMeasure 3.1\nMeasure 3.2\nMeasure 3.3\nManage 2.3\nManage 4.1"
+    "body": "NIST Characteristics of Trustworthiness: Accountable and\nTransparent\n\nProperties of Trustworthiness: Future Projections of\nPossible System and\nEnvironmental Changes\n\nQuestion(s) to Consider: How might the AI system learn and\nevolve over time? How might the\nenvironment it is deployed in change\nover time?\n\nRelevant NIST AI RMF Subcategories: Govern 1.5\nGovern 4.3\nMap 1.1\nMap 3.3\nMap 5.1\nMeasure 2.8\nMeasure 3.1\nMeasure 3.2\nMeasure 3.3\nManage 2.3\nManage 4.1"
   },
   {
     "depth": 2,

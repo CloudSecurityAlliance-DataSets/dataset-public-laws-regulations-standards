@@ -135,11 +135,17 @@ def disambiguate_csv_headers(raw_headers: list[str]) -> list[tuple[str, bool]]:
     """
     result: list[tuple[str, bool]] = []
     seen_counts: dict[str, int] = {}
+    used_names: set[str] = set()
     last_mapping_fw = ""
     for i, raw_h in enumerate(raw_headers):
         h = (raw_h or "").strip()
         if not h:
-            result.append((f"_col_{i + 1}", True))
+            col_name = f"_col_{i + 1}"
+            while col_name in used_names:
+                i += 1
+                col_name = f"_col_{i + 1}"
+            used_names.add(col_name)
+            result.append((col_name, True))
             continue
         if h.endswith("Control Mapping"):
             last_mapping_fw = h[: -len("Control Mapping")].strip()
@@ -154,11 +160,16 @@ def disambiguate_csv_headers(raw_headers: list[str]) -> list[tuple[str, bool]]:
             col_name = f"{last_mapping_fw} {suffix}"
         else:
             col_name = h
-        if col_name in seen_counts:
-            seen_counts[col_name] += 1
-            col_name = f"{col_name}_{seen_counts[col_name]}"
+        base_name = col_name
+        if col_name in used_names:
+            idx = seen_counts.get(base_name, 1) + 1
+            while f"{base_name}_{idx}" in used_names:
+                idx += 1
+            seen_counts[base_name] = idx
+            col_name = f"{base_name}_{idx}"
         else:
-            seen_counts[col_name] = 1
+            seen_counts[base_name] = 1
+        used_names.add(col_name)
         result.append((col_name, False))
     return result
 
@@ -283,7 +294,11 @@ def extract_cryptrec_ciphers_list(ciphers_dir: Path) -> str:
         "",
         "## 1. 電子政府推奨暗号リスト (e-Government Recommended Ciphers List)",
         "",
-        "暗号技術検討会及び関連委員会（以下「CRYPTREC」という。）により安全性（セキュリティ）及び実装性能が確認された暗号技術について、市場における利用実績が十分であるか今後の普及が見込まれると判断され、当該技術の利用を推奨するもののリスト。なお、利用する鍵長について、「暗号強度要件（アルゴリズム及び鍵長選択）に関する設定基準」の規定に合致しない鍵長を用いた場合には、電子政府推奨暗号リストの暗号技術を利用しているとは見なされないことに留意すること。",
+        "暗号技術検討会（脚注１）及び関連委員会（以下「CRYPTREC」という。）により安全性（セキュリティ）及び実装性能が確認された暗号技術（脚注２）について、市場における利用実績が十分であるか今後の普及が見込まれると判断され、当該技術の利用を推奨するもののリスト。なお、利用する鍵長について、「暗号強度要件（アルゴリズム及び鍵長選択）に関する設定基準」（脚注３）の規定に合致しない鍵長を用いた場合には、電子政府推奨暗号リストの暗号技術を利用しているとは見なされないことに留意すること。",
+        "",
+        "- （脚注１）デジタル庁統括官、総務省サイバーセキュリティ統括官及び経済産業省商務情報政策局長が有識者の参集を求め、暗号技術の普及による情報セキュリティ対策の推進を図る観点から、専門家による意見等を聴取することにより、デジタル庁、総務省及び経済産業省における施策の検討に資することを目的として開催。",
+        "- （脚注２）暗号利用モード、メッセージ認証コード、エンティティ認証は、他の技術分類の暗号技術と組み合わせて利用することとされているが、その場合、CRYPTREC暗号リストに掲載されたいずれかの暗号技術と組み合わせること。",
+        "- （脚注３）CRYPTREC, 暗号強度要件（アルゴリズム及び鍵長選択）に関する設定基準, https://www.cryptrec.go.jp/list.html なお、当該設定基準の見直しの検討を行う予定であり、当面の間、表２（耐量子計算機暗号（PQC）リスト）の公開鍵暗号は、当該設定基準を適用しない。",
         "",
         "### 1.1 表１ 現行暗号リスト (Table 1: Current Ciphers List)",
         "",
@@ -337,11 +352,15 @@ def extract_cryptrec_ciphers_list(ciphers_dir: Path) -> str:
             lines.append(f"| {cur_cat} | {cur_sub or '－'} | {c2} | {c3} |")
     lines.extend([
         "",
-        "- （注８）セキュリティのカテゴリを合わせて記載する。各カテゴリはNISTの“Submission Requirements and Evaluation Criteria for the Post-Quantum Cryptography Standardization Process”に従い、カテゴリ名の右に記載の鍵探索又は衝突探索と同程度以上の計算資源が攻撃に必要であることを意味する（Category 1: 128ビット鍵ブロック暗号、Category 2: 256ビットハッシュ関数、Category 3: 192ビット鍵ブロック暗号、Category 4: 384ビットハッシュ関数、Category 5: 256ビット鍵ブロック暗号）。",
+        "- （注８）セキュリティのカテゴリを合わせて記載する。各カテゴリはNISTの“Submission Requirements and Evaluation Criteria for the Post-Quantum Cryptography Standardization Process”に従い、カテゴリ名の右に記載の鍵探索又は衝突探索と同程度以上の計算資源が攻撃に必要であることを意味する（Category 1: 128ビット鍵ブロック暗号、Category 2: 256ビットハッシュ関数、Category 3: 192ビット鍵ブロック暗号、Category 4: 384ビットハッシュ関数、Category 5: 256ビット鍵ブロック暗号）。 https://csrc.nist.gov/CSRC/media/Projects/Post-Quantum-Cryptography/documents/call-for-proposals-final-dec-2016.pdf （令和８年３月25日現在）",
+        "- （脚注４）暗号技術の耐量子計算機暗号（PQC）リストへの追加について検討中である。 https://www.cryptrec.go.jp/report/cryptrec-mt-1501-2026.pdf",
         "",
         "## 2. 推奨候補暗号リスト (Candidate Recommended Ciphers List)",
         "",
-        "CRYPTRECにより安全性及び実装性能が確認され、今後、電子政府推奨暗号リストに掲載される可能性のある暗号技術のリスト。なお、本リストに記載されている暗号技術を利用する際は、「暗号強度要件（アルゴリズム及び鍵長選択）に関する設定基準」の規定に合致する鍵長を用いることが求められることに留意すること。",
+        "CRYPTRECにより安全性及び実装性能が確認され、今後、電子政府推奨暗号リストに掲載される可能性のある暗号技術（脚注５）のリスト。なお、本リストに記載されている暗号技術を利用する際は、「暗号強度要件（アルゴリズム及び鍵長選択）に関する設定基準」（脚注６）の規定に合致する鍵長を用いることが求められることに留意すること。",
+        "",
+        "- （脚注５）暗号利用モード、メッセージ認証コード、エンティティ認証は、他の技術分類の暗号技術と組み合わせて利用することとされているが、その場合、CRYPTREC暗号リストに掲載されたいずれかの暗号技術と組み合わせること。",
+        "- （脚注６）CRYPTREC, 暗号強度要件（アルゴリズム及び鍵長選択）に関する設定基準, https://www.cryptrec.go.jp/list.html",
         "",
         "| 技術分類（大分類） | 技術分類（小分類） | 暗号技術 |",
         "| --- | --- | --- |",
@@ -367,7 +386,11 @@ def extract_cryptrec_ciphers_list(ciphers_dir: Path) -> str:
     lines.extend([
         "## 3. 運用監視暗号リスト (Monitored Ciphers List)",
         "",
-        "実際に解読されるリスクが高まるなど、推奨すべき状態ではなくなったとCRYPTRECにより確認された暗号技術のうち、互換性維持のために継続利用を容認するもののリスト。互換性維持以外の目的での利用は推奨しない。",
+        "実際に解読されるリスクが高まるなど、推奨すべき状態ではなくなったとCRYPTRECにより確認された暗号技術（脚注７）のうち、互換性維持（脚注８）のために継続利用を容認するもののリスト。互換性維持以外の目的での利用は推奨しない。なお、本リストに記載されている暗号技術を利用する際は、「暗号強度要件（アルゴリズム及び鍵長選択）に関する設定基準」（脚注９）の規定に合致する鍵長を用いることが求められることに留意すること。",
+        "",
+        "- （脚注７）暗号利用モード、メッセージ認証コード、エンティティ認証は、他の技術分類の暗号技術と組み合わせて利用することとされているが、その場合、CRYPTREC暗号リストに掲載されたいずれかの暗号技術と組み合わせること。",
+        "- （脚注８）既に稼働中のシステムやアプリケーション等との間での相互運用を継続すること。",
+        "- （脚注９）CRYPTREC, 暗号強度要件（アルゴリズム及び鍵長選択）に関する設定基準, https://www.cryptrec.go.jp/list.html",
         "",
         "| 技術分類（大分類） | 技術分類（小分類） | 暗号技術 |",
         "| --- | --- | --- |",
@@ -901,28 +924,56 @@ def process_crosswalk_tables_and_statutes() -> int:
                         continue
                     if r_idx == 0 and (_is_cw_header_row(cells) or not headers):
                         if _is_cw_header_row(cells):
-                            headers = _normalize_cw_headers(cells)
+                            # Check if Marker merged a repeated page header with a numbered clause continuation line
+                            # (e.g., "ISO/IEC FDIS 23894\n6.7 Recording and reporting" in crosswalk_AI_RMF_1_0_ISO_IEC_23894)
+                            hdr_only_cells = []
+                            overflow_parts = []
+                            for idx_c, cell_val in enumerate(cells):
+                                c_lines = [cl.strip() for cl in cell_val.splitlines() if cl.strip()]
+                                if len(c_lines) >= 2 and re.match(r"^\d+\.\d+(?:\.\d+)?\s+", c_lines[-1]):
+                                    hdr_only_cells.append(" ".join(c_lines[:-1]))
+                                    overflow_parts.append((idx_c, c_lines[-1]))
+                                else:
+                                    hdr_only_cells.append(cell_val)
+                            headers = _normalize_cw_headers(hdr_only_cells)
+                            if overflow_parts and rows:
+                                cont_strs = [
+                                    f"{headers[idx_c] if idx_c < len(headers) else f'Column {idx_c + 1}'}: {val_s}"
+                                    for idx_c, val_s in overflow_parts
+                                ]
+                                rows[-1]["body"] += "\n\n" + " | ".join(cont_strs)
                             continue
                         elif not headers:
                             headers = [f"Column {i + 1}" for i in range(len(cells))]
                     if len(cells) != len(headers) and _is_cw_header_row(cells):
                         headers = _normalize_cw_headers(cells)
                         continue
-                    # Handle 2-line split header continuation (e.g. ['References', '', 'References', 'Differences'] in FINAL_Crosswalk2)
+                    # Handle 2-line split header continuations across crosswalk tables
                     c_stripped = [re.sub(r"\*+", "", c).strip() for c in cells]
-                    if len(c_stripped) == 4 and c_stripped[0] == "References" and c_stripped[2] == "References":
-                        headers = [f"{headers[i]} {c_stripped[i]}".strip() if i < len(headers) else c_stripped[i] for i in range(4)]
-                        continue
+                    if r_idx <= 2 and headers:
+                        is_split_hdr = (
+                            (len(c_stripped) == 4 and c_stripped[0] == "References" and c_stripped[2] == "References")
+                            or (len(c_stripped) >= 2 and c_stripped[0] == "Trustworthiness" and c_stripped[1] == "Trustworthiness")
+                            or (c_stripped[0].startswith("Trustworthy AI Systems") and headers[0].endswith("Characteristics of"))
+                        )
+                        if is_split_hdr:
+                            headers = [
+                                f"{headers[i]} {c_stripped[i]}".strip() if i < len(headers) else c_stripped[i]
+                                for i in range(len(c_stripped))
+                            ]
+                            continue
                     non_empty = [c for c in cells if c]
                     if not non_empty:
                         continue
                     c0 = c_stripped[0] if c_stripped else ""
                     c1 = c_stripped[1] if len(c_stripped) > 1 else ""
+                    non_empty_0 = re.sub(r"\*+", "", non_empty[0]).strip()
+                    has_tta_id = bool(re.match(r"^\(?(?:Requirement\s+\d+(?:-\d+)?|\d{2}-\d[a-z])\)?(?:\s|$)", non_empty_0, re.I))
                     # Check if this row is a continuation row of the previous logical mapping row
                     is_cont = False
-                    if rows:
+                    if rows and not has_tta_id:
                         if not c0:
-                            if not c1 or (headers and "ID" not in headers[0] and headers[0] != "Column 1"):
+                            if not c1 or (headers and "ID" not in headers[0] and headers[0] not in ("Column 1", "#")):
                                 is_cont = True
                             elif rows[-1]["section_id"] and not re.match(r"^(?:GOVERN|MAP|MEASURE|MANAGE)\b", c1, re.I):
                                 is_cont = True
@@ -945,11 +996,13 @@ def process_crosswalk_tables_and_statutes() -> int:
                             rows[-1]["body"] += "\n\n" + " | ".join(cont_parts)
                         continue
 
-                    primary = c0 or c1 or re.sub(r"\*+", "", non_empty[0]).strip()
+                    primary = c0 or c1 or non_empty_0
                     if re.match(r"^\d+$", primary) and c1:
                         primary = c1
-                    m_id = re.match(r"^((?:GOVERN|MAP|MEASURE|MANAGE)\b(?:\s+\d+(?:\.\d+)?)?)\s*[:\-–—]?\s*(.*)$", primary, re.I)
-                    m_tta = re.match(r"^\(?(Requirement\s+\d+|\d{2}-\d[a-z])\)?\s*(.*)$", primary, re.I)
+                    if has_tta_id:
+                        primary = non_empty_0
+                    m_id = re.match(r"^((?:GOVERN|MAP|MEASURE|MANAGE)\b(?:\s+\d+(?:\.\d+)?)?)\s*[:\-–—]?\s*(.*)$", primary, re.I | re.S)
+                    m_tta = re.match(r"^\(?(Requirement\s+\d+(?:-\d+)?|\d{2}-\d[a-z])\)?\s*(.*)$", primary, re.I | re.S)
                     if m_id:
                         sid = m_id.group(1).upper()
                         sname = m_id.group(2).strip() or (c1 if c0 and c1 else sid)

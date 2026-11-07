@@ -5,7 +5,15 @@
     "section_name": "Risk management plan for AI system and execution of the plan",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "TTA Guidebook Verification Items: (Requirement 01) Risk management plan for AI system and execution of the plan\n\nTTA Guidebook Verification Items: (Requirement 01-1) Have you analyzed risk factors that may arise throughout the life cycle of the\nAI system?"
+    "body": "TTA Guidebook Verification Items: (Requirement 01) Risk management plan for AI system and execution of the plan"
+  },
+  {
+    "depth": 2,
+    "section_id": "Requirement 01-1",
+    "section_name": "Have you analyzed risk factors that may arise throughout the life cycle of the AI system?",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "TTA Guidebook Verification Items: (Requirement 01-1) Have you analyzed risk factors that may arise throughout the life cycle of the\nAI system?"
   },
   {
     "depth": 2,
@@ -13,7 +21,15 @@
     "section_name": "Have you identified the risk factors of the AI system and the ripple effect?",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "#: 1\n\nTTA Guidebook Identifier: 01-1a\n\nTTA Guidebook Verification Items: Have you identified the risk factors of the AI system and\nthe ripple effect?\n\nRelevant NIST AI RMF Subcategories: MAP 3.2, 5.1\nMEASURE 3.1\nMANAGE 1.2, 2.3\n\nTTA Guidebook Identifier: (Requirement 01-2) Have you prepared measures to remove and prevent risk factors or mitigate\nthe effects?"
+    "body": "#: 1\n\nTTA Guidebook Identifier: 01-1a\n\nTTA Guidebook Verification Items: Have you identified the risk factors of the AI system and\nthe ripple effect?\n\nRelevant NIST AI RMF Subcategories: MAP 3.2, 5.1\nMEASURE 3.1\nMANAGE 1.2, 2.3"
+  },
+  {
+    "depth": 2,
+    "section_id": "Requirement 01-2",
+    "section_name": "Have you prepared measures to remove and prevent risk factors or mitigate the effects?",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "TTA Guidebook Identifier: (Requirement 01-2) Have you prepared measures to remove and prevent risk factors or mitigate\nthe effects?"
   },
   {
     "depth": 2,
@@ -21,7 +37,23 @@
     "section_name": "Have you developed measures to remove risk factors and confirmed if the ripple effects were mitigated?",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "#: 2\n\nTTA Guidebook Identifier: 01-2a\n\nTTA Guidebook Verification Items: Have you developed measures to remove risk factors and\nconfirmed if the ripple effects were mitigated?\n\nRelevant NIST AI RMF Subcategories: GOVERN 5.1*\nMANAGE 1.3, 2.1\n\nTTA Guidebook Identifier: (Requirement 02) Organization of an AI governance system\n\nTTA Guidebook Identifier: (Requirement 02-1) Have you established guidelines and policies on AI governance?"
+    "body": "#: 2\n\nTTA Guidebook Identifier: 01-2a\n\nTTA Guidebook Verification Items: Have you developed measures to remove risk factors and\nconfirmed if the ripple effects were mitigated?\n\nRelevant NIST AI RMF Subcategories: GOVERN 5.1*\nMANAGE 1.3, 2.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "Requirement 02",
+    "section_name": "Organization of an AI governance system",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "TTA Guidebook Identifier: (Requirement 02) Organization of an AI governance system"
+  },
+  {
+    "depth": 2,
+    "section_id": "Requirement 02-1",
+    "section_name": "Have you established guidelines and policies on AI governance?",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "TTA Guidebook Identifier: (Requirement 02-1) Have you established guidelines and policies on AI governance?"
   },
   {
     "depth": 2,
@@ -29,7 +61,15 @@
     "section_name": "Have you prepared internal guidelines and policies on AI governance?",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "#: 3\n\nTTA Guidebook Identifier: 02-1a\n\nTTA Guidebook Verification Items: Have you prepared internal guidelines and policies on AI\ngovernance?\n\nRelevant NIST AI RMF Subcategories: GOVERN 1.1, 1.4, 2.1,\n5.1*, 6.1*\nMAP 3.5\n\nTTA Guidebook Identifier: (Requirement 02-2) Have you formed an AI governance group and reviewed the composition of\nthe group?"
+    "body": "#: 3\n\nTTA Guidebook Identifier: 02-1a\n\nTTA Guidebook Verification Items: Have you prepared internal guidelines and policies on AI\ngovernance?\n\nRelevant NIST AI RMF Subcategories: GOVERN 1.1, 1.4, 2.1,\n5.1*, 6.1*\nMAP 3.5"
+  },
+  {
+    "depth": 2,
+    "section_id": "Requirement 02-2",
+    "section_name": "Have you formed an AI governance group and reviewed the composition of the group?",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "TTA Guidebook Identifier: (Requirement 02-2) Have you formed an AI governance group and reviewed the composition of\nthe group?"
   },
   {
     "depth": 2,
@@ -45,7 +85,15 @@
     "section_name": "Is the AI governance group composed of adequately trained members?",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "#: 5\n\nTTA Guidebook Identifier: 02-2b\n\nTTA Guidebook Verification Items: Is the AI governance group composed of adequately trained\nmembers?\n\nRelevant NIST AI RMF Subcategories: GOVERN 2.2, 3.1\nMAP 1.2\nMEASURE 1.3\n\nTTA Guidebook Identifier: (Requirement 02-3) Is the AI governance being supervised to ensure proper implementation?"
+    "body": "#: 5\n\nTTA Guidebook Identifier: 02-2b\n\nTTA Guidebook Verification Items: Is the AI governance group composed of adequately trained\nmembers?\n\nRelevant NIST AI RMF Subcategories: GOVERN 2.2, 3.1\nMAP 1.2\nMEASURE 1.3"
+  },
+  {
+    "depth": 2,
+    "section_id": "Requirement 02-3",
+    "section_name": "Is the AI governance being supervised to ensure proper implementation?",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "TTA Guidebook Identifier: (Requirement 02-3) Is the AI governance being supervised to ensure proper implementation?"
   },
   {
     "depth": 2,
@@ -53,7 +101,15 @@
     "section_name": "Is compliance with internal guidelines and policies on AI governance being overseen?",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "#: 6\n\nTTA Guidebook Identifier: 02-3a\n\nTTA Guidebook Verification Items: Is compliance with internal guidelines and policies on AI\ngovernance being overseen?\n\nRelevant NIST AI RMF Subcategories: GOVERN 2.3\n\nTTA Guidebook Identifier: (Requirement 02-4) Has the AI governance group reviewed the differences between the new and\nprevious systems?"
+    "body": "#: 6\n\nTTA Guidebook Identifier: 02-3a\n\nTTA Guidebook Verification Items: Is compliance with internal guidelines and policies on AI\ngovernance being overseen?\n\nRelevant NIST AI RMF Subcategories: GOVERN 2.3"
+  },
+  {
+    "depth": 2,
+    "section_id": "Requirement 02-4",
+    "section_name": "Has the AI governance group reviewed the differences between the new and previous systems?",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "TTA Guidebook Identifier: (Requirement 02-4) Has the AI governance group reviewed the differences between the new and\nprevious systems?"
   },
   {
     "depth": 2,
@@ -61,7 +117,23 @@
     "section_name": "Have you analyzed if the system can be implemented by improving, integrating, or abolishing other infrequently used systems?",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "#: 7\n\nTTA Guidebook Identifier: 02-4a\n\nTTA Guidebook Verification Items: Have you analyzed if the system can be implemented by\nimproving, integrating, or abolishing other infrequently used\nsystems?\n\nRelevant NIST AI RMF Subcategories: MANAGE 2.4\n\nTTA Guidebook Verification Items: (Requirement 03) Development of a plan to test trustworthiness in the AI system\n\nTTA Guidebook Verification Items: (Requirement 03-1) Have you designed a test environment in consideration of the AI system's\nfeatures?"
+    "body": "#: 7\n\nTTA Guidebook Identifier: 02-4a\n\nTTA Guidebook Verification Items: Have you analyzed if the system can be implemented by\nimproving, integrating, or abolishing other infrequently used\nsystems?\n\nRelevant NIST AI RMF Subcategories: MANAGE 2.4"
+  },
+  {
+    "depth": 2,
+    "section_id": "Requirement 03",
+    "section_name": "Development of a plan to test trustworthiness in the AI system",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "TTA Guidebook Verification Items: (Requirement 03) Development of a plan to test trustworthiness in the AI system"
+  },
+  {
+    "depth": 2,
+    "section_id": "Requirement 03-1",
+    "section_name": "Have you designed a test environment in consideration of the AI system's features?",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "TTA Guidebook Verification Items: (Requirement 03-1) Have you designed a test environment in consideration of the AI system's\nfeatures?"
   },
   {
     "depth": 2,
@@ -77,7 +149,15 @@
     "section_name": "Have you obtained a simulator if the AI system needs a virtual test environment?",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "#: 9\n\nTTA Guidebook Identifier: 03-1b\n\nTTA Guidebook Verification Items: Have you obtained a simulator if the AI system needs a\nvirtual test environment?\n\nRelevant NIST AI RMF Subcategories: MEASURE 2.5, 2.6\n\nTTA Guidebook Identifier: (Requirement 03-2) Have you organized a negotiation system to design the test for the AI\nsystem?"
+    "body": "#: 9\n\nTTA Guidebook Identifier: 03-1b\n\nTTA Guidebook Verification Items: Have you obtained a simulator if the AI system needs a\nvirtual test environment?\n\nRelevant NIST AI RMF Subcategories: MEASURE 2.5, 2.6"
+  },
+  {
+    "depth": 2,
+    "section_id": "Requirement 03-2",
+    "section_name": "Have you organized a negotiation system to design the test for the AI system?",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "TTA Guidebook Identifier: (Requirement 03-2) Have you organized a negotiation system to design the test for the AI\nsystem?"
   },
   {
     "depth": 2,
@@ -93,7 +173,23 @@
     "section_name": "Have you organized a user review group to check if the AI system is explainable and interpretable?",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "#: 11\n\nTTA Guidebook Identifier: 03-2b\n\nTTA Guidebook Verification Items: Have you organized a user review group to check if the AI\nsystem is explainable and interpretable?\n\nRelevant NIST AI RMF Subcategories: GOVERN 5.1, 5.2\nMAP 1.6\nMEASURE 1.3, 4.2\n\nTTA Guidebook Identifier: (Requirement 04) Provision of detailed information for data utilization\n\nTTA Guidebook Identifier: (Requirement 04-1) Is there detailed information to support the accurate comprehension and\nutilization of data?"
+    "body": "#: 11\n\nTTA Guidebook Identifier: 03-2b\n\nTTA Guidebook Verification Items: Have you organized a user review group to check if the AI\nsystem is explainable and interpretable?\n\nRelevant NIST AI RMF Subcategories: GOVERN 5.1, 5.2\nMAP 1.6\nMEASURE 1.3, 4.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "Requirement 04",
+    "section_name": "Provision of detailed information for data utilization",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "TTA Guidebook Identifier: (Requirement 04) Provision of detailed information for data utilization"
+  },
+  {
+    "depth": 2,
+    "section_id": "Requirement 04-1",
+    "section_name": "Is there detailed information to support the accurate comprehension and utilization of data?",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "TTA Guidebook Identifier: (Requirement 04-1) Is there detailed information to support the accurate comprehension and\nutilization of data?"
   },
   {
     "depth": 2,
@@ -125,7 +221,15 @@
     "section_name": "Were data labelers trained and have you provided them with work instructions?",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "#: 15\n\nTTA Guidebook Identifier: 04-1d\n\nTTA Guidebook Verification Items: Were data labelers trained and have you provided them\nwith work instructions?\n\nRelevant NIST AI RMF Subcategories: GOVERN 2.2\n\nTTA Guidebook Identifier: (Requirement 04-2) Is data provenance documented and managed?"
+    "body": "#: 15\n\nTTA Guidebook Identifier: 04-1d\n\nTTA Guidebook Verification Items: Were data labelers trained and have you provided them\nwith work instructions?\n\nRelevant NIST AI RMF Subcategories: GOVERN 2.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "Requirement 04-2",
+    "section_name": "Is data provenance documented and managed?",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "TTA Guidebook Identifier: (Requirement 04-2) Is data provenance documented and managed?"
   },
   {
     "depth": 2,
@@ -141,7 +245,23 @@
     "section_name": "Have you clearly stated the provenance when using an open-source dataset?",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "#: 17\n\nTTA Guidebook Identifier: 04-2b\n\nTTA Guidebook Verification Items: Have you clearly stated the provenance when using an\nopen-source dataset?\n\nRelevant NIST AI RMF Subcategories: MAP 4.1\n\nTTA Guidebook Identifier: (Requirement 05) Inspection of abnormal data to ensure data robustness\n\nTTA Guidebook Verification Items: (Requirement 05-1) Have you inspected the detection of abnormal data and their normality?"
+    "body": "#: 17\n\nTTA Guidebook Identifier: 04-2b\n\nTTA Guidebook Verification Items: Have you clearly stated the provenance when using an\nopen-source dataset?\n\nRelevant NIST AI RMF Subcategories: MAP 4.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "Requirement 05",
+    "section_name": "Inspection of abnormal data to ensure data robustness",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "TTA Guidebook Identifier: (Requirement 05) Inspection of abnormal data to ensure data robustness"
+  },
+  {
+    "depth": 2,
+    "section_id": "Requirement 05-1",
+    "section_name": "Have you inspected the detection of abnormal data and their normality?",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "TTA Guidebook Verification Items: (Requirement 05-1) Have you inspected the detection of abnormal data and their normality?"
   },
   {
     "depth": 2,
@@ -157,7 +277,15 @@
     "section_name": "Have you implemented techniques to detect outliers in training data?",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "#: 19\n\nTTA Guidebook Identifier: 05-1b\n\nTTA Guidebook Verification Items: Have you implemented techniques to detect outliers in\ntraining data?\n\nRelevant NIST AI RMF Subcategories: MAP 2.3\n\nTTA Guidebook Identifier: (Requirement 05-2) Have you devised measures to defend against data-oriented attacks?"
+    "body": "#: 19\n\nTTA Guidebook Identifier: 05-1b\n\nTTA Guidebook Verification Items: Have you implemented techniques to detect outliers in\ntraining data?\n\nRelevant NIST AI RMF Subcategories: MAP 2.3"
+  },
+  {
+    "depth": 2,
+    "section_id": "Requirement 05-2",
+    "section_name": "Have you devised measures to defend against data-oriented attacks?",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "TTA Guidebook Identifier: (Requirement 05-2) Have you devised measures to defend against data-oriented attacks?"
   },
   {
     "depth": 2,
@@ -165,7 +293,23 @@
     "section_name": "Have you prepared measures to defend against poisoning and evasion attacks?",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "#: 20\n\nTTA Guidebook Identifier: 05-2a\n\nTTA Guidebook Verification Items: Have you prepared measures to defend against poisoning\nand evasion attacks?\n\nRelevant NIST AI RMF Subcategories: MEASURE 2.7\n\nTTA Guidebook Verification Items: (Requirement 06) Removal of bias in the collected and processed training data\n\nTTA Guidebook Identifier: (Requirement 06-1) Have you prepared measures to mitigate bias due to human and physical\nelements in data collection?"
+    "body": "#: 20\n\nTTA Guidebook Identifier: 05-2a\n\nTTA Guidebook Verification Items: Have you prepared measures to defend against poisoning\nand evasion attacks?\n\nRelevant NIST AI RMF Subcategories: MEASURE 2.7"
+  },
+  {
+    "depth": 2,
+    "section_id": "Requirement 06",
+    "section_name": "Removal of bias in the collected and processed training data",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "TTA Guidebook Verification Items: (Requirement 06) Removal of bias in the collected and processed training data"
+  },
+  {
+    "depth": 2,
+    "section_id": "Requirement 06-1",
+    "section_name": "Have you prepared measures to mitigate bias due to human and physical elements in data collection?",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "TTA Guidebook Identifier: (Requirement 06-1) Have you prepared measures to mitigate bias due to human and physical\nelements in data collection?"
   },
   {
     "depth": 2,
@@ -189,7 +333,15 @@
     "section_name": "Have you examined bias in data that may occur due to hardware?",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "#: 23\n\nTTA Guidebook Identifier: 06-1c\n\nTTA Guidebook Verification Items: Have you examined bias in data that may occur due to\nhardware?\n\nRelevant NIST AI RMF Subcategories: GOVERN 6.1\nMANAGE 3.1\n\nTTA Guidebook Identifier: (Requirement 06-2) Have you analyzed features used in training and prepared selection criteria?"
+    "body": "#: 23\n\nTTA Guidebook Identifier: 06-1c\n\nTTA Guidebook Verification Items: Have you examined bias in data that may occur due to\nhardware?\n\nRelevant NIST AI RMF Subcategories: GOVERN 6.1\nMANAGE 3.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "Requirement 06-2",
+    "section_name": "Have you analyzed features used in training and prepared selection criteria?",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "TTA Guidebook Identifier: (Requirement 06-2) Have you analyzed features used in training and prepared selection criteria?"
   },
   {
     "depth": 2,
@@ -213,7 +365,15 @@
     "section_name": "Have you reviewed whether features were removed excessively during data pre-processing?",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "#: 26\n\nTTA Guidebook Identifier: 06-2c\n\nTTA Guidebook Verification Items: Have\nyou\nreviewed\nwhether\nfeatures\nwere\nremoved\nexcessively during data pre-processing?\n\nRelevant NIST AI RMF Subcategories: No equivalent category\n\nTTA Guidebook Identifier: (Requirement 06-3) Have you checked and prevented potential biased in data labeling?"
+    "body": "#: 26\n\nTTA Guidebook Identifier: 06-2c\n\nTTA Guidebook Verification Items: Have\nyou\nreviewed\nwhether\nfeatures\nwere\nremoved\nexcessively during data pre-processing?\n\nRelevant NIST AI RMF Subcategories: No equivalent category"
+  },
+  {
+    "depth": 2,
+    "section_id": "Requirement 06-3",
+    "section_name": "Have you checked and prevented potential biased in data labeling?",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "TTA Guidebook Identifier: (Requirement 06-3) Have you checked and prevented potential biased in data labeling?"
   },
   {
     "depth": 2,
@@ -237,7 +397,15 @@
     "section_name": "Have you made an effort to recruit diverse reviewers for labeled data?",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "#: 29\n\nTTA Guidebook Identifier: 06-3c\n\nTTA Guidebook Verification Items: Have you made an effort to recruit diverse reviewers for\nlabeled data?\n\nRelevant NIST AI RMF Subcategories: MAP 1.2\n\nTTA Guidebook Identifier: (Requirement 06-4) Have you conducted sampling to prevent bias in data?"
+    "body": "#: 29\n\nTTA Guidebook Identifier: 06-3c\n\nTTA Guidebook Verification Items: Have you made an effort to recruit diverse reviewers for\nlabeled data?\n\nRelevant NIST AI RMF Subcategories: MAP 1.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "Requirement 06-4",
+    "section_name": "Have you conducted sampling to prevent bias in data?",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "TTA Guidebook Identifier: (Requirement 06-4) Have you conducted sampling to prevent bias in data?"
   },
   {
     "depth": 2,
@@ -245,7 +413,23 @@
     "section_name": "Have you implemented a sampling method to prevent bias?",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "#: 30\n\nTTA Guidebook Identifier: 06-4a\n\nTTA Guidebook Verification Items: Have you implemented a sampling method to prevent bias?\n\nRelevant NIST AI RMF Subcategories: MEASURE 2.11\n\nTTA Guidebook Verification Items: (Requirement 07) Ensuring security and compatibility of the open-source library\n\nTTA Guidebook Verification Items: (Requirement 07-1) Have you confirmed the stability of the open-source library?"
+    "body": "#: 30\n\nTTA Guidebook Identifier: 06-4a\n\nTTA Guidebook Verification Items: Have you implemented a sampling method to prevent bias?\n\nRelevant NIST AI RMF Subcategories: MEASURE 2.11"
+  },
+  {
+    "depth": 2,
+    "section_id": "Requirement 07",
+    "section_name": "Ensuring security and compatibility of the open-source library",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "TTA Guidebook Verification Items: (Requirement 07) Ensuring security and compatibility of the open-source library"
+  },
+  {
+    "depth": 2,
+    "section_id": "Requirement 07-1",
+    "section_name": "Have you confirmed the stability of the open-source library?",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "TTA Guidebook Verification Items: (Requirement 07-1) Have you confirmed the stability of the open-source library?"
   },
   {
     "depth": 2,
@@ -253,7 +437,15 @@
     "section_name": "Have you used an active open-source library?",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "#: 31\n\nTTA Guidebook Identifier: 07-1a\n\nTTA Guidebook Verification Items: Have you used an active open-source library?\n\nRelevant NIST AI RMF Subcategories: MAP 4.1\n\nTTA Guidebook Verification Items: (Requirement 07-2) Are you managing the risk factors of the open-source library?"
+    "body": "#: 31\n\nTTA Guidebook Identifier: 07-1a\n\nTTA Guidebook Verification Items: Have you used an active open-source library?\n\nRelevant NIST AI RMF Subcategories: MAP 4.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "Requirement 07-2",
+    "section_name": "Are you managing the risk factors of the open-source library?",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "TTA Guidebook Verification Items: (Requirement 07-2) Are you managing the risk factors of the open-source library?"
   },
   {
     "depth": 2,
@@ -269,7 +461,23 @@
     "section_name": "Have you confirmed the compatibility and vulnerability of the open-source library in use?",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "#: 33\n\nTTA Guidebook Identifier: 07-2b\n\nTTA Guidebook Verification Items: Have you confirmed the compatibility and vulnerability of\nthe open-source library in use?\n\nRelevant NIST AI RMF Subcategories: MAP 4.1\nMANAGE 3.1\n\nTTA Guidebook Identifier: (Requirement 08) Removal of bias in the AI model\n\nTTA Guidebook Identifier: (Requirement 08-1) Have you implemented techniques to remove bias in the AI model?"
+    "body": "#: 33\n\nTTA Guidebook Identifier: 07-2b\n\nTTA Guidebook Verification Items: Have you confirmed the compatibility and vulnerability of\nthe open-source library in use?\n\nRelevant NIST AI RMF Subcategories: MAP 4.1\nMANAGE 3.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "Requirement 08",
+    "section_name": "Removal of bias in the AI model",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "TTA Guidebook Identifier: (Requirement 08) Removal of bias in the AI model"
+  },
+  {
+    "depth": 2,
+    "section_id": "Requirement 08-1",
+    "section_name": "Have you implemented techniques to remove bias in the AI model?",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "TTA Guidebook Identifier: (Requirement 08-1) Have you implemented techniques to remove bias in the AI model?"
   },
   {
     "depth": 2,
@@ -285,7 +493,23 @@
     "section_name": "Have you selected quantitative indicators to evaluate and monitor bias and are you managing them?",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "#: 35\n\nTTA Guidebook Identifier: 08-1b\n\nTTA Guidebook Verification Items: Have you selected quantitative indicators to evaluate and\nmonitor bias and are you managing them?\n\nRelevant NIST AI RMF Subcategories: MEASURE 2.11\n\nTTA Guidebook Identifier: (Requirement 09) Establishment of defensive measures for AI model attacks\n\nTTA Guidebook Identifier: (Requirement 09-1) Do you have a defense technique in place against model extraction attacks?"
+    "body": "#: 35\n\nTTA Guidebook Identifier: 08-1b\n\nTTA Guidebook Verification Items: Have you selected quantitative indicators to evaluate and\nmonitor bias and are you managing them?\n\nRelevant NIST AI RMF Subcategories: MEASURE 2.11"
+  },
+  {
+    "depth": 2,
+    "section_id": "Requirement 09",
+    "section_name": "Establishment of defensive measures for AI model attacks",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "TTA Guidebook Identifier: (Requirement 09) Establishment of defensive measures for AI model attacks"
+  },
+  {
+    "depth": 2,
+    "section_id": "Requirement 09-1",
+    "section_name": "Do you have a defense technique in place against model extraction attacks?",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "TTA Guidebook Identifier: (Requirement 09-1) Do you have a defense technique in place against model extraction attacks?"
   },
   {
     "depth": 2,
@@ -293,7 +517,15 @@
     "section_name": "Have you implemented a defense technique to prepare for model extraction attacks?",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "#: 36\n\nTTA Guidebook Identifier: 09-1a\n\nTTA Guidebook Verification Items: Have you implemented a defense technique to prepare for\nmodel extraction attacks?\n\nRelevant NIST AI RMF Subcategories: MEASURE 2.7\n\nTTA Guidebook Verification Items: (Requirement 09-2) Do you have a defense technique in place against model evasion attacks?"
+    "body": "#: 36\n\nTTA Guidebook Identifier: 09-1a\n\nTTA Guidebook Verification Items: Have you implemented a defense technique to prepare for\nmodel extraction attacks?\n\nRelevant NIST AI RMF Subcategories: MEASURE 2.7"
+  },
+  {
+    "depth": 2,
+    "section_id": "Requirement 09-2",
+    "section_name": "Do you have a defense technique in place against model evasion attacks?",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "TTA Guidebook Verification Items: (Requirement 09-2) Do you have a defense technique in place against model evasion attacks?"
   },
   {
     "depth": 2,
@@ -301,7 +533,23 @@
     "section_name": "Have you implemented a defense technique to prepare for model evasion attacks?",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "#: 37\n\nTTA Guidebook Identifier: 09-2a\n\nTTA Guidebook Verification Items: Have you implemented a defense technique to prepare for\nmodel evasion attacks?\n\nRelevant NIST AI RMF Subcategories: MEASURE 2.7\n\nTTA Guidebook Verification Items: (Requirement 10) Explanation of AI model specifications and the inference results\n\nTTA Guidebook Identifier: (Requirement 10-1) Do you provide evidence for users to accept the generation process of the\nmodel's inference results?"
+    "body": "#: 37\n\nTTA Guidebook Identifier: 09-2a\n\nTTA Guidebook Verification Items: Have you implemented a defense technique to prepare for\nmodel evasion attacks?\n\nRelevant NIST AI RMF Subcategories: MEASURE 2.7"
+  },
+  {
+    "depth": 2,
+    "section_id": "Requirement 10",
+    "section_name": "Explanation of AI model specifications and the inference results",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "TTA Guidebook Verification Items: (Requirement 10) Explanation of AI model specifications and the inference results"
+  },
+  {
+    "depth": 2,
+    "section_id": "Requirement 10-1",
+    "section_name": "Do you provide evidence for users to accept the generation process of the model's inference results?",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "TTA Guidebook Identifier: (Requirement 10-1) Do you provide evidence for users to accept the generation process of the\nmodel's inference results?"
   },
   {
     "depth": 2,
@@ -317,7 +565,15 @@
     "section_name": "If XAI is not applicable, have you prepared measures other than the application of the technique?",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "#: 39\n\nTTA Guidebook Identifier: 10-1b\n\nTTA Guidebook Verification Items: If XAI is not applicable, have you prepared measures other\nthan the application of the technique?\n\nRelevant NIST AI RMF Subcategories: MEASURE 2.9\n\nTTA Guidebook Identifier: (Requirement 10-2) Have you transparently provided the specification of the model on the AI\nmodel specification document?"
+    "body": "#: 39\n\nTTA Guidebook Identifier: 10-1b\n\nTTA Guidebook Verification Items: If XAI is not applicable, have you prepared measures other\nthan the application of the technique?\n\nRelevant NIST AI RMF Subcategories: MEASURE 2.9"
+  },
+  {
+    "depth": 2,
+    "section_id": "Requirement 10-2",
+    "section_name": "Have you transparently provided the specification of the model on the AI model specification document?",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "TTA Guidebook Identifier: (Requirement 10-2) Have you transparently provided the specification of the model on the AI\nmodel specification document?"
   },
   {
     "depth": 2,
@@ -325,7 +581,15 @@
     "section_name": "Have you prepared a document that describes the details of the system development process and model operation method?",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "#: 40\n\nTTA Guidebook Identifier: 10-2a\n\nTTA Guidebook Verification Items: Have you prepared a document that describes the details of the\nsystem development process and model operation method?\n\nRelevant NIST AI RMF Subcategories: GOVERN 1.4, 4.3\nMEASURE 2.8, 2.9\n\nTTA Guidebook Verification Items: (Requirement 10-3) When needed, do you provide an explanation about the inference results of\nthe AI model?"
+    "body": "#: 40\n\nTTA Guidebook Identifier: 10-2a\n\nTTA Guidebook Verification Items: Have you prepared a document that describes the details of the\nsystem development process and model operation method?\n\nRelevant NIST AI RMF Subcategories: GOVERN 1.4, 4.3\nMEASURE 2.8, 2.9"
+  },
+  {
+    "depth": 2,
+    "section_id": "Requirement 10-3",
+    "section_name": "When needed, do you provide an explanation about the inference results of the AI model?",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "TTA Guidebook Verification Items: (Requirement 10-3) When needed, do you provide an explanation about the inference results of\nthe AI model?"
   },
   {
     "depth": 2,
@@ -341,7 +605,23 @@
     "section_name": "Have you provided an explanation to users about the inference results of the AI model?",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "#: 42\n\nTTA Guidebook Identifier: 10-3b\n\nTTA Guidebook Verification Items: Have you provided an explanation to users about the\ninference results of the AI model?\n\nRelevant NIST AI RMF Subcategories: MEASURE 2.9\n\nTTA Guidebook Identifier: (Requirement 11) Removal of potential bias in the implementation of the AI system\n\nTTA Guidebook Identifier: (Requirement 11-1) Have you made an effort to remove bias due to source code and user interface?"
+    "body": "#: 42\n\nTTA Guidebook Identifier: 10-3b\n\nTTA Guidebook Verification Items: Have you provided an explanation to users about the\ninference results of the AI model?\n\nRelevant NIST AI RMF Subcategories: MEASURE 2.9"
+  },
+  {
+    "depth": 2,
+    "section_id": "Requirement 11",
+    "section_name": "Removal of potential bias in the implementation of the AI system",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "TTA Guidebook Identifier: (Requirement 11) Removal of potential bias in the implementation of the AI system"
+  },
+  {
+    "depth": 2,
+    "section_id": "Requirement 11-1",
+    "section_name": "Have you made an effort to remove bias due to source code and user interface?",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "TTA Guidebook Identifier: (Requirement 11-1) Have you made an effort to remove bias due to source code and user interface?"
   },
   {
     "depth": 2,
@@ -357,7 +637,23 @@
     "section_name": "Have you examined bias due to the user interface and interaction method?",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "#: 44\n\nTTA Guidebook Identifier: 11-1b\n\nTTA Guidebook Verification Items: Have you examined bias due to the user interface and\ninteraction method?\n\nRelevant NIST AI RMF Subcategories: No equivalent category\n\nTTA Guidebook Identifier: (Requirement 12) Safe mode of AI system and establishment of a process for notification of problems\n\nTTA Guidebook Identifier: (Requirement 12-1) Have you implemented a safe mode that can respond to problems such as\nattacks, low performance, and social issues?"
+    "body": "#: 44\n\nTTA Guidebook Identifier: 11-1b\n\nTTA Guidebook Verification Items: Have you examined bias due to the user interface and\ninteraction method?\n\nRelevant NIST AI RMF Subcategories: No equivalent category"
+  },
+  {
+    "depth": 2,
+    "section_id": "Requirement 12",
+    "section_name": "Safe mode of AI system and establishment of a process for notification of problems",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "TTA Guidebook Identifier: (Requirement 12) Safe mode of AI system and establishment of a process for notification of problems"
+  },
+  {
+    "depth": 2,
+    "section_id": "Requirement 12-1",
+    "section_name": "Have you implemented a safe mode that can respond to problems such as attacks, low performance, and social issues?",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "TTA Guidebook Identifier: (Requirement 12-1) Have you implemented a safe mode that can respond to problems such as\nattacks, low performance, and social issues?"
   },
   {
     "depth": 2,
@@ -389,7 +685,15 @@
     "section_name": "Are guidance and action on handling expected user error provided?",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "#: 48\n\nTTA Guidebook Identifier: 12-1d\n\nTTA Guidebook Verification Items: Are guidance and action on handling expected user error\nprovided?\n\nRelevant NIST AI RMF Subcategories: MANAGE 4.3\n\nTTA Guidebook Identifier: (Requirement 12-2) Does the system perform the function of alerting the operator if a problem\noccurs in the AI system?"
+    "body": "#: 48\n\nTTA Guidebook Identifier: 12-1d\n\nTTA Guidebook Verification Items: Are guidance and action on handling expected user error\nprovided?\n\nRelevant NIST AI RMF Subcategories: MANAGE 4.3"
+  },
+  {
+    "depth": 2,
+    "section_id": "Requirement 12-2",
+    "section_name": "Does the system perform the function of alerting the operator if a problem occurs in the AI system?",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "TTA Guidebook Identifier: (Requirement 12-2) Does the system perform the function of alerting the operator if a problem\noccurs in the AI system?"
   },
   {
     "depth": 2,
@@ -405,7 +709,23 @@
     "section_name": "Have you established a notification process by developing procedures and indicators to evaluate the low system performance?",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "#: 50\n\nTTA Guidebook Identifier: 12-2b\n\nTTA Guidebook Verification Items: Have you established a notification process by developing\nprocedures and indicators to evaluate the low system\nperformance?\n\nRelevant NIST AI RMF Subcategories: MEASURE 2.3\nMANAGE 2.2, 2.4, 4.2,\n4.3\n\nTTA Guidebook Identifier: (Requirement 13) Improvement of users' comprehension of the explanation of the AI system\n\nTTA Guidebook Identifier: (Requirement 13-1) Have you analyzed user characteristics and constraints in the AI system?"
+    "body": "#: 50\n\nTTA Guidebook Identifier: 12-2b\n\nTTA Guidebook Verification Items: Have you established a notification process by developing\nprocedures and indicators to evaluate the low system\nperformance?\n\nRelevant NIST AI RMF Subcategories: MEASURE 2.3\nMANAGE 2.2, 2.4, 4.2,\n4.3"
+  },
+  {
+    "depth": 2,
+    "section_id": "Requirement 13",
+    "section_name": "Improvement of users' comprehension of the explanation of the AI system",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "TTA Guidebook Identifier: (Requirement 13) Improvement of users' comprehension of the explanation of the AI system"
+  },
+  {
+    "depth": 2,
+    "section_id": "Requirement 13-1",
+    "section_name": "Have you analyzed user characteristics and constraints in the AI system?",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "TTA Guidebook Identifier: (Requirement 13-1) Have you analyzed user characteristics and constraints in the AI system?"
   },
   {
     "depth": 2,
@@ -413,7 +733,15 @@
     "section_name": "Have you analyzed specific considerations according to the user characteristics?",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "#: 51\n\nTTA Guidebook Identifier: 13-1a\n\nTTA Guidebook Verification Items: Have you analyzed specific considerations according to the\nuser characteristics?\n\nRelevant NIST AI RMF Subcategories: MEASURE 2.9\n\nTTA Guidebook Identifier: (Requirement 13-2) Have you provided a thorough explanation based on user characteristics?"
+    "body": "#: 51\n\nTTA Guidebook Identifier: 13-1a\n\nTTA Guidebook Verification Items: Have you analyzed specific considerations according to the\nuser characteristics?\n\nRelevant NIST AI RMF Subcategories: MEASURE 2.9"
+  },
+  {
+    "depth": 2,
+    "section_id": "Requirement 13-2",
+    "section_name": "Have you provided a thorough explanation based on user characteristics?",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "TTA Guidebook Identifier: (Requirement 13-2) Have you provided a thorough explanation based on user characteristics?"
   },
   {
     "depth": 2,
@@ -453,7 +781,23 @@
     "section_name": "Have you utilized various user survey techniques to evaluate user experience?",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "#: 56\n\nTTA Guidebook Identifier: 13-2e\n\nTTA Guidebook Verification Items: Have you utilized various user survey techniques to evaluate\nuser experience?\n\nRelevant NIST AI RMF Subcategories: MEASURE 2.9\n\nTTA Guidebook Identifier: (Requirement 14) Ensuring traceability and modification history of the AI system\n\nTTA Guidebook Identifier: (Requirement 14-1) Have you established measures to track the AI system's decision-making?"
+    "body": "#: 56\n\nTTA Guidebook Identifier: 13-2e\n\nTTA Guidebook Verification Items: Have you utilized various user survey techniques to evaluate\nuser experience?\n\nRelevant NIST AI RMF Subcategories: MEASURE 2.9"
+  },
+  {
+    "depth": 2,
+    "section_id": "Requirement 14",
+    "section_name": "Ensuring traceability and modification history of the AI system",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "TTA Guidebook Identifier: (Requirement 14) Ensuring traceability and modification history of the AI system"
+  },
+  {
+    "depth": 2,
+    "section_id": "Requirement 14-1",
+    "section_name": "Have you established measures to track the AI system's decision-making?",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "TTA Guidebook Identifier: (Requirement 14-1) Have you established measures to track the AI system's decision-making?"
   },
   {
     "depth": 2,
@@ -477,7 +821,15 @@
     "section_name": "Do you collect and manage user logs to continuously monitor user experience?",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "#: 59\n\nTTA Guidebook Identifier: 14-1c\n\nTTA Guidebook Verification Items: Do you collect and manage user logs to continuously monitor\nuser experience?\n\nRelevant NIST AI RMF Subcategories: GOVERN 6.1\n\nTTA Guidebook Identifier: (Requirement 14-2) Have you obtained the modification history of training data and managed the\nimpact of data modifications?"
+    "body": "#: 59\n\nTTA Guidebook Identifier: 14-1c\n\nTTA Guidebook Verification Items: Do you collect and manage user logs to continuously monitor\nuser experience?\n\nRelevant NIST AI RMF Subcategories: GOVERN 6.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "Requirement 14-2",
+    "section_name": "Have you obtained the modification history of training data and managed the impact of data modifications?",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "TTA Guidebook Identifier: (Requirement 14-2) Have you obtained the modification history of training data and managed the\nimpact of data modifications?"
   },
   {
     "depth": 2,
@@ -517,7 +869,23 @@
     "section_name": "When new data have been collected, do you reevaluate the performance of the AI model?",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "#: 64\n\nTTA Guidebook Identifier: 14-2e\n\nTTA Guidebook Verification Items: When new data have been collected, do you reevaluate the\nperformance of the AI model?\n\nRelevant NIST AI RMF Subcategories: MEASURE 4.3\n\nTTA Guidebook Verification Items: (Requirement 15) Explanation about the scope of services provided and the subject of interactions\n\nTTA Guidebook Identifier: (Requirement 15-1) Do you provide an explanation to encourage proper usage of the AI service?"
+    "body": "#: 64\n\nTTA Guidebook Identifier: 14-2e\n\nTTA Guidebook Verification Items: When new data have been collected, do you reevaluate the\nperformance of the AI model?\n\nRelevant NIST AI RMF Subcategories: MEASURE 4.3"
+  },
+  {
+    "depth": 2,
+    "section_id": "Requirement 15",
+    "section_name": "Explanation about the scope of services provided and the subject of interactions",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "TTA Guidebook Verification Items: (Requirement 15) Explanation about the scope of services provided and the subject of interactions"
+  },
+  {
+    "depth": 2,
+    "section_id": "Requirement 15-1",
+    "section_name": "Do you provide an explanation to encourage proper usage of the AI service?",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "TTA Guidebook Identifier: (Requirement 15-1) Do you provide an explanation to encourage proper usage of the AI service?"
   },
   {
     "depth": 2,
@@ -533,7 +901,15 @@
     "section_name": "Do you provide an explanation about the limitation and scope of the AI service?",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "#: 66\n\nTTA Guidebook Identifier: 15-1b\n\nTTA Guidebook Verification Items: Do you provide an explanation about the limitation and scope\nof the AI service?\n\nRelevant NIST AI RMF Subcategories: GOVERN 4.3\nMAP 1.1, 2.2, 3.3\nMEASURE 2.5\n\nTTA Guidebook Identifier: (Requirement 15-2) Do you accurately explain the subject of the interaction?"
+    "body": "#: 66\n\nTTA Guidebook Identifier: 15-1b\n\nTTA Guidebook Verification Items: Do you provide an explanation about the limitation and scope\nof the AI service?\n\nRelevant NIST AI RMF Subcategories: GOVERN 4.3\nMAP 1.1, 2.2, 3.3\nMEASURE 2.5"
+  },
+  {
+    "depth": 2,
+    "section_id": "Requirement 15-2",
+    "section_name": "Do you accurately explain the subject of the interaction?",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "TTA Guidebook Identifier: (Requirement 15-2) Do you accurately explain the subject of the interaction?"
   },
   {
     "depth": 2,
@@ -541,7 +917,23 @@
     "section_name": "Have you accurately explained to users that they are interacting with the AI?",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "#: 67\n\nTTA Guidebook Identifier: 15-2a\n\nTTA Guidebook Verification Items: Have you accurately explained to users that they are\ninteracting with the AI?\n\nRelevant NIST AI RMF Subcategories: MAP 3.4\n\nNIST AI RMF Identifier: GOVERN\n\nNIST AI RMF Identifier: GOVERN 1: Policies, processes, procedures, and practices across the organization related to the\nmapping, measuring, and managing of AI risks are in place, transparent, and\nimplemented effectively."
+    "body": "#: 67\n\nTTA Guidebook Identifier: 15-2a\n\nTTA Guidebook Verification Items: Have you accurately explained to users that they are\ninteracting with the AI?\n\nRelevant NIST AI RMF Subcategories: MAP 3.4"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN",
+    "section_name": "GOVERN",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF Identifier: GOVERN"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 1",
+    "section_name": "Policies, processes, procedures, and practices across the organization related to the mapping, measuring, and managing of AI risks are in place, transparent, an",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF Identifier: GOVERN 1: Policies, processes, procedures, and practices across the organization related to the\nmapping, measuring, and managing of AI risks are in place, transparent, and\nimplemented effectively."
   },
   {
     "depth": 2,
@@ -597,7 +989,15 @@
     "section_name": "GOVERN 1.7",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "#: 7\n\nNIST AI RMF Identifier: GOVERN 1.7\n\nNIST AI RMF Subcategories: Processes and procedures are in place for decommissioning\nand phasing out AI systems safely and in a manner that does\nnot increase risks or decrease the organization's trustworthiness.\n\nRelevant TTA Guidebook Verification Items: No equivalent item\n\nNIST AI RMF Identifier: GOVERN 2: Accountability structures are in place so that the appropriate teams and individuals are\nempowered, responsible, and trained for mapping, measuring, and managing AI risks."
+    "body": "#: 7\n\nNIST AI RMF Identifier: GOVERN 1.7\n\nNIST AI RMF Subcategories: Processes and procedures are in place for decommissioning\nand phasing out AI systems safely and in a manner that does\nnot increase risks or decrease the organization's trustworthiness.\n\nRelevant TTA Guidebook Verification Items: No equivalent item"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 2",
+    "section_name": "Accountability structures are in place so that the appropriate teams and individuals are empowered, responsible, and trained for mapping, measuring, and managin",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF Identifier: GOVERN 2: Accountability structures are in place so that the appropriate teams and individuals are\nempowered, responsible, and trained for mapping, measuring, and managing AI risks."
   },
   {
     "depth": 2,
@@ -621,7 +1021,15 @@
     "section_name": "GOVERN 2.3",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "#: 10\n\nNIST AI RMF Identifier: GOVERN 2.3\n\nNIST AI RMF Subcategories: Executive leadership of the organization takes responsibility\nfor decisions about risks associated with AI system\ndevelopment and deployment.\n\nRelevant TTA Guidebook Verification Items: 02-3a\n\nNIST AI RMF Identifier: GOVERN 3: Workforce diversity, equity, inclusion, and accessibility processes are prioritized in the\nmapping, measuring, and managing of AI risks throughout the lifecycle."
+    "body": "#: 10\n\nNIST AI RMF Identifier: GOVERN 2.3\n\nNIST AI RMF Subcategories: Executive leadership of the organization takes responsibility\nfor decisions about risks associated with AI system\ndevelopment and deployment.\n\nRelevant TTA Guidebook Verification Items: 02-3a"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 3",
+    "section_name": "Workforce diversity, equity, inclusion, and accessibility processes are prioritized in the mapping, measuring, and managing of AI risks throughout the lifecycle",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF Identifier: GOVERN 3: Workforce diversity, equity, inclusion, and accessibility processes are prioritized in the\nmapping, measuring, and managing of AI risks throughout the lifecycle."
   },
   {
     "depth": 2,
@@ -661,7 +1069,15 @@
     "section_name": "GOVERN 4.3",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "#: 15\n\nNIST AI RMF Identifier: GOVERN 4.3\n\nNIST AI RMF Subcategories: Organizational practices are in place to enable AI testing,\nidentification of incidents, and information sharing.\n\nRelevant TTA Guidebook Verification Items: 10-2a\n12-2a\n14-2d\n15-1b\n\nNIST AI RMF Identifier: GOVERN 5: Processes are in place for robust engagement with relevant AI actors."
+    "body": "#: 15\n\nNIST AI RMF Identifier: GOVERN 4.3\n\nNIST AI RMF Subcategories: Organizational practices are in place to enable AI testing,\nidentification of incidents, and information sharing.\n\nRelevant TTA Guidebook Verification Items: 10-2a\n12-2a\n14-2d\n15-1b"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 5",
+    "section_name": "Processes are in place for robust engagement with relevant AI actors.",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF Identifier: GOVERN 5: Processes are in place for robust engagement with relevant AI actors."
   },
   {
     "depth": 2,
@@ -677,7 +1093,15 @@
     "section_name": "GOVERN 5.2",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "#: 17\n\nNIST AI RMF Identifier: GOVERN 5.2\n\nNIST AI RMF Subcategories: Mechanisms are established to enable the team that\ndeveloped or deployed AI systems to regularly incorporate\nadjudicated feedback from relevant AI actors into system\ndesign and implementation.\n\nRelevant TTA Guidebook Verification Items: 03-2b\n\nNIST AI RMF Identifier: GOVERN 6: Policies and procedures are in place to address AI risks and benefits arising from\nthird-party software and data and other supply chain issues."
+    "body": "#: 17\n\nNIST AI RMF Identifier: GOVERN 5.2\n\nNIST AI RMF Subcategories: Mechanisms are established to enable the team that\ndeveloped or deployed AI systems to regularly incorporate\nadjudicated feedback from relevant AI actors into system\ndesign and implementation.\n\nRelevant TTA Guidebook Verification Items: 03-2b"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 6",
+    "section_name": "Policies and procedures are in place to address AI risks and benefits arising from third-party software and data and other supply chain issues.",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF Identifier: GOVERN 6: Policies and procedures are in place to address AI risks and benefits arising from\nthird-party software and data and other supply chain issues."
   },
   {
     "depth": 2,
@@ -693,7 +1117,15 @@
     "section_name": "GOVERN 6.2",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "#: 19\n\nNIST AI RMF Identifier: GOVERN 6.2\n\nNIST AI RMF Subcategories: Contingency processes are in place to handle failures or\nincidents in third-party data or AI systems deemed to be\nhigh-risk.\n\nRelevant TTA Guidebook Verification Items: 12-1a\n\nNIST AI RMF Identifier: MAP\n\nNIST AI RMF Subcategories: MAP 1: Context is established and understood."
+    "body": "#: 19\n\nNIST AI RMF Identifier: GOVERN 6.2\n\nNIST AI RMF Subcategories: Contingency processes are in place to handle failures or\nincidents in third-party data or AI systems deemed to be\nhigh-risk.\n\nRelevant TTA Guidebook Verification Items: 12-1a"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP",
+    "section_name": "MAP",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF Identifier: MAP\n\nNIST AI RMF Subcategories: MAP 1: Context is established and understood."
   },
   {
     "depth": 2,
@@ -741,7 +1173,15 @@
     "section_name": "MAP 1.6",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "#: 25\n\nNIST AI RMF Identifier: MAP 1.6\n\nNIST AI RMF Subcategories: System requirements (e.g., \"the system shall respect the\nprivacy of its users\") are elicited from and understood by\nrelevant AI actors. Design decisions take socio-technical\nimplications into account to address AI risks.\n\nRelevant TTA Guidebook Verification Items: 03-2b\n\nNIST AI RMF Identifier: MAP 2: Categorization of the AI system is performed."
+    "body": "#: 25\n\nNIST AI RMF Identifier: MAP 1.6\n\nNIST AI RMF Subcategories: System requirements (e.g., \"the system shall respect the\nprivacy of its users\") are elicited from and understood by\nrelevant AI actors. Design decisions take socio-technical\nimplications into account to address AI risks.\n\nRelevant TTA Guidebook Verification Items: 03-2b"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 2",
+    "section_name": "Categorization of the AI system is performed.",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF Identifier: MAP 2: Categorization of the AI system is performed."
   },
   {
     "depth": 2,
@@ -765,7 +1205,15 @@
     "section_name": "MAP 2.3",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "#: 28\n\nNIST AI RMF Identifier: MAP 2.3\n\nNIST AI RMF Subcategories: Scientific integrity and TEVV considerations are identified\nand documented, including those related to experimental\ndesign, data collection and selection (e.g., availability,\nrepresentativeness,\nsuitability),\nsystem\ntrustworthiness,\nand construct validation.\n\nRelevant TTA Guidebook Verification Items: 03-1a\n05-1b\n06-3a\n14-2a\n\nNIST AI RMF Identifier: MAP 3: AI capabilities, targeted usage, goals, and expected benefits and costs compared with\nappropriate benchmarks are understood."
+    "body": "#: 28\n\nNIST AI RMF Identifier: MAP 2.3\n\nNIST AI RMF Subcategories: Scientific integrity and TEVV considerations are identified\nand documented, including those related to experimental\ndesign, data collection and selection (e.g., availability,\nrepresentativeness,\nsuitability),\nsystem\ntrustworthiness,\nand construct validation.\n\nRelevant TTA Guidebook Verification Items: 03-1a\n05-1b\n06-3a\n14-2a"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 3",
+    "section_name": "AI capabilities, targeted usage, goals, and expected benefits and costs compared with appropriate benchmarks are understood.",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF Identifier: MAP 3: AI capabilities, targeted usage, goals, and expected benefits and costs compared with\nappropriate benchmarks are understood."
   },
   {
     "depth": 2,
@@ -805,7 +1253,15 @@
     "section_name": "MAP 3.5",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "#: 33\n\nNIST AI RMF Identifier: MAP 3.5\n\nNIST AI RMF Subcategories: Processes for human oversight are defined, assessed, and\ndocumented in accordance with organizational policies from\nthe GOVERN function.\n\nRelevant TTA Guidebook Verification Items: 02-1a\n\nNIST AI RMF Identifier: MAP 4: Risks and benefits are mapped for all components of the AI system including third-party\nsoftware and data."
+    "body": "#: 33\n\nNIST AI RMF Identifier: MAP 3.5\n\nNIST AI RMF Subcategories: Processes for human oversight are defined, assessed, and\ndocumented in accordance with organizational policies from\nthe GOVERN function.\n\nRelevant TTA Guidebook Verification Items: 02-1a"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 4",
+    "section_name": "Risks and benefits are mapped for all components of the AI system including third-party software and data.",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF Identifier: MAP 4: Risks and benefits are mapped for all components of the AI system including third-party\nsoftware and data."
   },
   {
     "depth": 2,
@@ -821,7 +1277,15 @@
     "section_name": "MAP 4.2",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "#: 35\n\nNIST AI RMF Identifier: MAP 4.2\n\nNIST AI RMF Subcategories: Internal risk controls for components of the AI system, including\nthird-party AI technologies, are identified and documented.\n\nRelevant TTA Guidebook Verification Items: 04-2a\n\nNIST AI RMF Identifier: MAP 5: Impacts to individuals, groups, communities, organizations, and society are characterized."
+    "body": "#: 35\n\nNIST AI RMF Identifier: MAP 4.2\n\nNIST AI RMF Subcategories: Internal risk controls for components of the AI system, including\nthird-party AI technologies, are identified and documented.\n\nRelevant TTA Guidebook Verification Items: 04-2a"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 5",
+    "section_name": "Impacts to individuals, groups, communities, organizations, and society are characterized.",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF Identifier: MAP 5: Impacts to individuals, groups, communities, organizations, and society are characterized."
   },
   {
     "depth": 2,
@@ -837,7 +1301,15 @@
     "section_name": "MAP 5.2",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "#: 37\n\nNIST AI RMF Identifier: MAP 5.2\n\nNIST AI RMF Subcategories: Practices and personnel for supporting regular engagement\nwith relevant AI actors and integrating feedback about\npositive, negative, and unanticipated impacts are in place\nand documented.\n\nRelevant TTA Guidebook Verification Items: 12-2a\n\nNIST AI RMF Identifier: MEASURE\n\nNIST AI RMF Subcategories: MEASURE 1: Appropriate methods and metrics are identified and applied."
+    "body": "#: 37\n\nNIST AI RMF Identifier: MAP 5.2\n\nNIST AI RMF Subcategories: Practices and personnel for supporting regular engagement\nwith relevant AI actors and integrating feedback about\npositive, negative, and unanticipated impacts are in place\nand documented.\n\nRelevant TTA Guidebook Verification Items: 12-2a"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE",
+    "section_name": "MEASURE",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF Identifier: MEASURE\n\nNIST AI RMF Subcategories: MEASURE 1: Appropriate methods and metrics are identified and applied."
   },
   {
     "depth": 2,
@@ -861,7 +1333,15 @@
     "section_name": "MEASURE 1.3",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "#: 40\n\nNIST AI RMF Identifier: MEASURE 1.3\n\nNIST AI RMF Subcategories: Internal experts who did not serve as front-line developers\nfor the system and/or independent assessors are involved\nin regular assessments and updates. Domain experts,\nusers, AI actors external to the team that developed or\ndeployed the AI system, and affected communities are\nconsulted in support of assessments as necessary per\norganizational risk tolerance.\n\nRelevant TTA Guidebook Verification Items: 02-2b\n03-2a\n03-2b\n\nNIST AI RMF Identifier: MEASURE 2: AI systems are evaluated for trustworthy characteristics."
+    "body": "#: 40\n\nNIST AI RMF Identifier: MEASURE 1.3\n\nNIST AI RMF Subcategories: Internal experts who did not serve as front-line developers\nfor the system and/or independent assessors are involved\nin regular assessments and updates. Domain experts,\nusers, AI actors external to the team that developed or\ndeployed the AI system, and affected communities are\nconsulted in support of assessments as necessary per\norganizational risk tolerance.\n\nRelevant TTA Guidebook Verification Items: 02-2b\n03-2a\n03-2b"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2",
+    "section_name": "AI systems are evaluated for trustworthy characteristics.",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF Identifier: MEASURE 2: AI systems are evaluated for trustworthy characteristics."
   },
   {
     "depth": 2,
@@ -965,7 +1445,15 @@
     "section_name": "MEASURE 2.13",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "#: 53\n\nNIST AI RMF Identifier: MEASURE 2.13\n\nNIST AI RMF Subcategories: Effectiveness of the employed TEVV metrics and processes\nin the MEASURE function are evaluated and documented.\n\nRelevant TTA Guidebook Verification Items: No equivalent item\n\nNIST AI RMF Identifier: MEASURE 3: Mechanisms for tracking identified AI risks over time are in place."
+    "body": "#: 53\n\nNIST AI RMF Identifier: MEASURE 2.13\n\nNIST AI RMF Subcategories: Effectiveness of the employed TEVV metrics and processes\nin the MEASURE function are evaluated and documented.\n\nRelevant TTA Guidebook Verification Items: No equivalent item"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 3",
+    "section_name": "Mechanisms for tracking identified AI risks over time are in place.",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF Identifier: MEASURE 3: Mechanisms for tracking identified AI risks over time are in place."
   },
   {
     "depth": 2,
@@ -989,7 +1477,15 @@
     "section_name": "MEASURE 3.3",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "#: 56\n\nNIST AI RMF Identifier: MEASURE 3.3\n\nNIST AI RMF Subcategories: Feedback\nprocesses\nfor\nend\nusers\nand\nimpacted\ncommunities\nto\nreport\nproblems\nand\nappeal\nsystem\noutcomes are established and integrated into AI system\nevaluation metrics.\n\nRelevant TTA Guidebook Verification Items: 12-2a\n\nNIST AI RMF Identifier: MEASURE 4: Feedback about efficacy of measurement is gathered and assessed."
+    "body": "#: 56\n\nNIST AI RMF Identifier: MEASURE 3.3\n\nNIST AI RMF Subcategories: Feedback\nprocesses\nfor\nend\nusers\nand\nimpacted\ncommunities\nto\nreport\nproblems\nand\nappeal\nsystem\noutcomes are established and integrated into AI system\nevaluation metrics.\n\nRelevant TTA Guidebook Verification Items: 12-2a"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 4",
+    "section_name": "Feedback about efficacy of measurement is gathered and assessed.",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF Identifier: MEASURE 4: Feedback about efficacy of measurement is gathered and assessed."
   },
   {
     "depth": 2,
@@ -1013,7 +1509,23 @@
     "section_name": "MEASURE 4.3",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "#: 59\n\nNIST AI RMF Identifier: MEASURE 4.3\n\nNIST AI RMF Subcategories: Measurable performance improvements or declines based\non consultations with relevant AI actors, including affected\ncommunities, and field data about context relevant risks and\ntrustworthiness characteristics are identified and documented.\n\nRelevant TTA Guidebook Verification Items: 14-2e\n\nNIST AI RMF Identifier: MANAGE\n\nNIST AI RMF Identifier: MANAGE 1: AI risks based on assessments and other analytical output from the MAP and\nMEASURE functions are prioritized, responded to, and managed."
+    "body": "#: 59\n\nNIST AI RMF Identifier: MEASURE 4.3\n\nNIST AI RMF Subcategories: Measurable performance improvements or declines based\non consultations with relevant AI actors, including affected\ncommunities, and field data about context relevant risks and\ntrustworthiness characteristics are identified and documented.\n\nRelevant TTA Guidebook Verification Items: 14-2e"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE",
+    "section_name": "MANAGE",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF Identifier: MANAGE"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 1",
+    "section_name": "AI risks based on assessments and other analytical output from the MAP and MEASURE functions are prioritized, responded to, and managed.",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF Identifier: MANAGE 1: AI risks based on assessments and other analytical output from the MAP and\nMEASURE functions are prioritized, responded to, and managed."
   },
   {
     "depth": 2,
@@ -1045,7 +1557,15 @@
     "section_name": "MANAGE 1.4",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "#: 63\n\nNIST AI RMF Identifier: MANAGE 1.4\n\nNIST AI RMF Subcategories: Negative\nresidual\nrisks\n(defined\nas\nthe\nsum\nof\nall\nunmitigated risks) to both downstream acquirers of AI\nsystems and end users are documented.\n\nRelevant TTA Guidebook Verification Items: No equivalent item\n\nNIST AI RMF Identifier: MANAGE 2: Strategies to maximize AI benefits and minimize negative impacts are planned,\nprepared, implemented, documented, and informed by input from relevant AI actors."
+    "body": "#: 63\n\nNIST AI RMF Identifier: MANAGE 1.4\n\nNIST AI RMF Subcategories: Negative\nresidual\nrisks\n(defined\nas\nthe\nsum\nof\nall\nunmitigated risks) to both downstream acquirers of AI\nsystems and end users are documented.\n\nRelevant TTA Guidebook Verification Items: No equivalent item"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 2",
+    "section_name": "Strategies to maximize AI benefits and minimize negative impacts are planned, prepared, implemented, documented, and informed by input from relevant AI actors.",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF Identifier: MANAGE 2: Strategies to maximize AI benefits and minimize negative impacts are planned,\nprepared, implemented, documented, and informed by input from relevant AI actors."
   },
   {
     "depth": 2,
@@ -1077,7 +1597,15 @@
     "section_name": "MANAGE 2.4",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "#: 67\n\nNIST AI RMF Identifier: MANAGE 2.4\n\nNIST AI RMF Subcategories: Mechanisms are in place and applied, and responsibilities\nare assigned and understood, to supersede, disengage, or\ndeactivate AI systems that demonstrate performance or\noutcomes inconsistent with intended use.\n\nRelevant TTA Guidebook Verification Items: 02-4a\n12-2b\n\nNIST AI RMF Identifier: MANAGE 3: AI risks and benefits from third-party entities are managed."
+    "body": "#: 67\n\nNIST AI RMF Identifier: MANAGE 2.4\n\nNIST AI RMF Subcategories: Mechanisms are in place and applied, and responsibilities\nare assigned and understood, to supersede, disengage, or\ndeactivate AI systems that demonstrate performance or\noutcomes inconsistent with intended use.\n\nRelevant TTA Guidebook Verification Items: 02-4a\n12-2b"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 3",
+    "section_name": "AI risks and benefits from third-party entities are managed.",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF Identifier: MANAGE 3: AI risks and benefits from third-party entities are managed."
   },
   {
     "depth": 2,
@@ -1093,7 +1621,15 @@
     "section_name": "MANAGE 3.2",
     "id_kind": "numbered",
     "parent_id": "",
-    "body": "#: 69\n\nNIST AI RMF Identifier: MANAGE 3.2\n\nNIST AI RMF Subcategories: Pre-trained models which are used for development are\nmonitored as part of AI system regular monitoring and\nmaintenance.\n\nRelevant TTA Guidebook Verification Items: No equivalent item\n\nNIST AI RMF Identifier: MANAGE 4: Risk treatments, including response and recovery, and communication plans for the\nidentified and measured AI risks are documented and monitored regularly."
+    "body": "#: 69\n\nNIST AI RMF Identifier: MANAGE 3.2\n\nNIST AI RMF Subcategories: Pre-trained models which are used for development are\nmonitored as part of AI system regular monitoring and\nmaintenance.\n\nRelevant TTA Guidebook Verification Items: No equivalent item"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 4",
+    "section_name": "Risk treatments, including response and recovery, and communication plans for the identified and measured AI risks are documented and monitored regularly.",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF Identifier: MANAGE 4: Risk treatments, including response and recovery, and communication plans for the\nidentified and measured AI risks are documented and monitored regularly."
   },
   {
     "depth": 2,
