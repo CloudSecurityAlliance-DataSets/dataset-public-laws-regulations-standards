@@ -1,0 +1,114 @@
+[
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "Bill Text",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "Bill Information",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "[PDF2](#) [Bill PDF](/faces/billPdf.xhtml?bill_id=201720180SB1001&version=20170SB100192CHP) |[Add To My Favorites](#) | Version: 09/28/18 - Chaptered 09/06/18 - Enrolled 08/24/18 - Amended Assembly 06/21/18 - Amended Assembly 05/25/18 - Amended Senate 04/26/18 - Amended Senate 03/14/18 - Amended Senate 02/05/18 - Introduced [ ![print page](/resources/images/print_24.gif)](# \"Print Bills1\")"
+  },
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "SB-1001 Bots: disclosure.(2017-2018)",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "[Text >>](/faces/billTextClient.xhtml?bill_id=201720180SB1001) [Votes\n>>](/faces/billVotesClient.xhtml?bill_id=201720180SB1001) [History\n>>](/faces/billHistoryClient.xhtml?bill_id=201720180SB1001) [Bill Analysis\n>>](/faces/billAnalysisClient.xhtml?bill_id=201720180SB1001 \"Bill Analysis\")\n[Today's Law As Amended\n>>](/faces/billCompareClient.xhtml?bill_id=201720180SB1001&showamends=false\n\"As Amends the Law\")[\n![information](/resources/images/info_popup.gif)](/faces/billNavClient.xhtml?bill_id=201720180SB1001)\n[Compare Versions\n>>](/faces/billVersionsCompareClient.xhtml?bill_id=201720180SB1001) [Status\n>>](/faces/billStatusClient.xhtml?bill_id=201720180SB1001 \"Bill Status\")\n[Comments To Author >>](#) [Add To My Favorites >>](#)\n\nSHARE THIS:[ ![share this bill in\nFacebook](https://leginfo.legislature.ca.gov/resources/images/facebook_32.png)](https://www.facebook.com/sharer/sharer.php?u=https%3A//leginfo.legislature.ca.gov%3A443/faces/billNavClient.xhtml%3Fbill_id=201720180SB1001&t=20172018SB-1001&)\n[ ![share this bill in\nTwitter](https://leginfo.legislature.ca.gov/resources/images/twitter-x-logo-\nblack.png)](https://twitter.com/home?status=20172018SB-1001\nhttps://leginfo.legislature.ca.gov:443/faces/billNavClient.xhtml?bill_id=201720180SB1001&)\n\nDate Published: 09/28/2018 09:00 PM"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Bill Start",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "**Senate Bill No. 1001**\n\nCHAPTER 892\n\n\n\nAn act to add Chapter 6 (commencing with Section 17940) to Part 3 of Division\n7 of the Business and Professions Code, relating to bots.\n\n\n\n[ Approved by  Governor  September 28, 2018.  Filed with  Secretary of State\nSeptember 28, 2018. ]"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "LEGISLATIVE COUNSEL'S DIGEST",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "SB 1001, Hertzberg. Bots: disclosure.\n\nExisting law regulates various businesses to, among other things, preserve and\nregulate competition, prohibit unfair trade practices, and regulate\nadvertising.\n\nThis bill would, with certain exceptions, make it unlawful for any person to\nuse a bot to communicate or interact with another person in California online\nwith the intent to mislead the other person about its artificial identity for\nthe purpose of knowingly deceiving the person about the content of the\ncommunication in order to incentivize a purchase or sale of goods or services\nin a commercial transaction or to influence a vote in an election. The bill\nwould define various terms for these purposes. The bill would make these\nprovisions operative on July 1, 2019."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Digest Key",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Vote: MAJORITY Appropriation: NO Fiscal Committee: YES Local Program: NO\n\n* * *"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Bill Text",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "The people of the State of California do enact as follows:",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "SECTION 1",
+    "section_name": "SECTION 1",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "Chapter 6 (commencing with Section 17940) is added to Part 3 of Division 7 of\nthe Business and Professions Code, to read:"
+  },
+  {
+    "depth": 5,
+    "section_id": "",
+    "section_name": "CHAPTER 6\\. Bots",
+    "id_kind": "",
+    "parent_id": "SECTION 1",
+    "body": ""
+  },
+  {
+    "depth": 6,
+    "section_id": "",
+    "section_name": "17940.",
+    "id_kind": "",
+    "parent_id": "SECTION 1",
+    "body": "For purposes of this chapter:\n\n(a) “Bot” means an automated online account where all or substantially all of\nthe actions or posts of that account are not the result of a person.\n\n(b) “Online” means appearing on any public-facing Internet Web site, Web\napplication, or digital application, including a social network or\npublication.\n\n(c) “Online platform” means any public-facing Internet Web site, Web\napplication, or digital application, including a social network or\npublication, that has 10,000,000 or more unique monthly United States visitors\nor users for a majority of months during the preceding 12 months.\n\n(d) “Person” means a natural person, corporation, limited liability company,\npartnership, joint venture, association, estate, trust, government,\ngovernmental subdivision or agency, or other legal entity or any combination\nthereof."
+  },
+  {
+    "depth": 6,
+    "section_id": "",
+    "section_name": "17941.",
+    "id_kind": "",
+    "parent_id": "SECTION 1",
+    "body": "(a) It shall be unlawful for any person to use a bot to communicate or\ninteract with another person in California online, with the intent to mislead\nthe other person about its artificial identity for the purpose of knowingly\ndeceiving the person about the content of the communication in order to\nincentivize a purchase or sale of goods or services in a commercial\ntransaction or to influence a vote in an election. A person using a bot shall\nnot be liable under this section if the person discloses that it is a bot.\n\n(b) The disclosure required by this section shall be clear, conspicuous, and\nreasonably designed to inform persons with whom the bot communicates or\ninteracts that it is a bot."
+  },
+  {
+    "depth": 6,
+    "section_id": "",
+    "section_name": "17942.",
+    "id_kind": "",
+    "parent_id": "SECTION 1",
+    "body": "(a) The duties and obligations imposed by this chapter are cumulative with any\nother duties or obligation imposed by any other law.\n\n(b) The provisions of this chapter are severable. If any provision of this\nchapter or its application is held invalid, that invalidity shall not affect\nother provisions or applications that can be given effect without the invalid\nprovision or application.\n\n(c) This chapter does not impose a duty on service providers of online\nplatforms, including, but not limited to, Web hosting and Internet service\nproviders."
+  },
+  {
+    "depth": 6,
+    "section_id": "",
+    "section_name": "17943.",
+    "id_kind": "",
+    "parent_id": "SECTION 1",
+    "body": "This chapter shall become operative on July 1, 2019."
+  }
+]

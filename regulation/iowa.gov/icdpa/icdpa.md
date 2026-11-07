@@ -7,18 +7,18 @@ _Source: https://www.legis.iowa.gov/docs/code/2025/715D.pdf — extracted via pd
 
 
 
-                                      CHAPTER 715D
+### CHAPTER 715D
                              CONSUMER DATA PROTECTIONS
                                    Referred to in §331.307, 364.22, 701.1
 
 
-715D.1      Definitions.                                  715D.6            Processing data — exemptions.
-715D.2      Scope and exemptions.                         715D.7            Limitations.
-715D.3      Consumer data rights.
-715D.4      Data controller duties.                       715D.8            Enforcement — penalties.
-715D.5      Processor duties.                             715D.9            Preemption.
+### 715D.1      Definitions.                                  715D.6            Processing data — exemptions.
+### 715D.2      Scope and exemptions.                         715D.7            Limitations.
+### 715D.3      Consumer data rights.
+### 715D.4      Data controller duties.                       715D.8            Enforcement — penalties.
+### 715D.5      Processor duties.                             715D.9            Preemption.
 
-  715D.1 Definitions.
+### 715D.1 Definitions.
   As used in this chapter, unless the context otherwise requires:
   1. “Affiliate” means a legal entity that controls, is controlled by, or is under common
 control with another legal entity or shares common branding with another legal entity. For
@@ -66,7 +66,8 @@ assisted living center licensed or certified by the state.
   g. A person licensed to practice dentistry in the state.
 
 Tue Nov 19 20:02:25 2024                                              Iowa Code 2025, Chapter 715D (13, 8)
-§715D.1, CONSUMER DATA PROTECTIONS                                                               2
+
+### §715D.1, CONSUMER DATA PROTECTIONS                                                               2
 
 
 
@@ -128,7 +129,8 @@ general public via a channel of mass media and did not restrict to a specific au
 to intentionally disclose personal data or intentionally interact with one or more third parties.
 
 Tue Nov 19 20:02:25 2024                                    Iowa Code 2025, Chapter 715D (13, 8)
-3                                                              CONSUMER DATA PROTECTIONS, §715D.2
+
+3                                                              CONSUMER DATA PROTECTIONS, §715D.2
 
 
 
@@ -171,7 +173,7 @@ to maintain its secrecy.
     NEW section
 
 
-  715D.2 Scope and exemptions.
+### 715D.2 Scope and exemptions.
    1. This chapter applies to a person conducting business in the state or producing products
 or services that are targeted to consumers who are residents of the state and that during a
 calendar year does either of the following:
@@ -192,7 +194,8 @@ D, of the federal Health Information Technology for Economic and Clinical Health
 
 
 Tue Nov 19 20:02:25 2024                                            Iowa Code 2025, Chapter 715D (13, 8)
-§715D.2, CONSUMER DATA PROTECTIONS                                                              4
+
+### §715D.2, CONSUMER DATA PROTECTIONS                                                              4
 
 
 
@@ -244,7 +247,7 @@ Act, 15 U.S.C. §6501 – 6506, and its rules, regulations, and exceptions there
   NEW section
 
 
-  715D.3 Consumer data rights.
+### 715D.3 Consumer data rights.
   1. A consumer may invoke the consumer rights authorized pursuant to this section at any
 time by submitting a request to the controller, through the means specified by the controller
 pursuant to section 715D.4, subsection 6, specifying the consumer rights the consumer
@@ -256,7 +259,8 @@ the following:
 
 
 Tue Nov 19 20:02:25 2024                                     Iowa Code 2025, Chapter 715D (13, 8)
-5                                                              CONSUMER DATA PROTECTIONS, §715D.4
+
+5                                                              CONSUMER DATA PROTECTIONS, §715D.4
 
 
 
@@ -310,7 +314,7 @@ general to submit a complaint.
     NEW section
 
 
-  715D.4 Data controller duties.
+### 715D.4 Data controller duties.
   1. A controller shall adopt and implement reasonable administrative, technical, and
 physical data security practices to protect the confidentiality, integrity, and accessibility of
 personal data. Such data security practices shall be appropriate to the volume and nature
@@ -320,7 +324,8 @@ purpose without the consumer having been presented with clear notice and an oppo
 to opt out of such processing, or, in the case of the processing of sensitive data concerning a
 
 Tue Nov 19 20:02:25 2024                                            Iowa Code 2025, Chapter 715D (13, 8)
-§715D.4, CONSUMER DATA PROTECTIONS                                                               6
+
+### §715D.4, CONSUMER DATA PROTECTIONS                                                               6
 
 
 
@@ -366,7 +371,7 @@ pursuant to section 715D.3, but may require a consumer to use an existing accoun
   NEW section
 
 
-  715D.5 Processor duties.
+### 715D.5 Processor duties.
   1. A processor shall assist a controller in duties required under this chapter, taking
 into account the nature of processing and the information available to the processor by
 appropriate technical and organizational measures, insofar as is reasonably practicable, as
@@ -384,7 +389,8 @@ and the rights and duties of both parties. The contract shall also include requi
 the processor shall do all of the following:
 
 Tue Nov 19 20:02:25 2024                                     Iowa Code 2025, Chapter 715D (13, 8)
-7                                                              CONSUMER DATA PROTECTIONS, §715D.7
+
+7                                                              CONSUMER DATA PROTECTIONS, §715D.7
 
 
 
@@ -411,7 +417,7 @@ instructions with respect to a specific processing of personal data remains a pr
     NEW section
 
 
-  715D.6 Processing data — exemptions.
+### 715D.6 Processing data — exemptions.
   1. Nothing in this chapter shall be construed to require the following:
   a. A controller or processor to re-identify de-identified data or pseudonymous data.
   b. Maintaining data in identifiable form.
@@ -443,14 +449,15 @@ address any breaches of those contractual commitments.
     NEW section
 
 
-  715D.7 Limitations.
+### 715D.7 Limitations.
   1. Nothing in this chapter shall be construed to restrict a controller’s or processor’s ability
 to do the following:
   a. Comply with federal, state, or local laws, rules, or regulations.
 
 
 Tue Nov 19 20:02:25 2024                                            Iowa Code 2025, Chapter 715D (13, 8)
-§715D.7, CONSUMER DATA PROTECTIONS                                                                8
+
+### §715D.7, CONSUMER DATA PROTECTIONS                                                                8
 
 
 
@@ -512,7 +519,8 @@ which it receives such personal data.
    5. Nothing in this chapter shall be construed as an obligation imposed on a controller or a
 
 Tue Nov 19 20:02:25 2024                                     Iowa Code 2025, Chapter 715D (13, 8)
-9                                                              CONSUMER DATA PROTECTIONS, §715D.9
+
+9                                                              CONSUMER DATA PROTECTIONS, §715D.9
 
 
 
@@ -543,7 +551,7 @@ disclose trade secrets.
     NEW section
 
 
-  715D.8 Enforcement — penalties.
+### 715D.8 Enforcement — penalties.
   1. The attorney general shall have exclusive authority to enforce the provisions of this
 chapter. Whenever the attorney general has reasonable cause to believe that any person has
 engaged in, is engaging in, or is about to engage in any violation of this chapter, the attorney
@@ -571,14 +579,15 @@ private right of action for violations of this chapter or under any other law.
     NEW section
 
 
-  715D.9 Preemption.
+### 715D.9 Preemption.
   1. This chapter supersedes and preempts all rules, regulations, codes, ordinances, and
 other laws adopted by a city, county, municipality, or local agency regarding the processing
 of personal data by controllers or processors.
 
 
 Tue Nov 19 20:02:25 2024                                            Iowa Code 2025, Chapter 715D (13, 8)
-§715D.9, CONSUMER DATA PROTECTIONS                                                            10
+
+### §715D.9, CONSUMER DATA PROTECTIONS                                                            10
 
 
 
@@ -593,4 +602,5 @@ federal agency, guidance issued by such agency thereto.
 
 
 Tue Nov 19 20:02:25 2024                                     Iowa Code 2025, Chapter 715D (13, 8)
-```
+
+```

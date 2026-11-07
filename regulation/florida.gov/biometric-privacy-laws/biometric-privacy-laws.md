@@ -46,7 +46,7 @@ Javascript must be enabled for site search.
 
 [Committee List](/Committees)
 
-[ Committee  
+[ Committee
 Publications ](/Committees/Publications)
 
   * [Session](/Session)
@@ -73,7 +73,7 @@ Publications ](/Committees/Publications)
 
 [Statutes](/Laws/Statutes)
 
-[ Help Searching  
+[ Help Searching
 Statutes ](/Search/StatuteSearchTips)
 
 [Constitution](/Laws/Constitution)
@@ -85,7 +85,7 @@ bin/View_Page.pl?Tab=info_center&Submenu=2&File=index.html&Directory=portal/legi
 
   * [Media](/Media)
 
-[ Video Broadcast  
+[ Video Broadcast
 Schedule ](/Media/VideoSchedule)
 
 [Publications](/Media/Publications)
@@ -169,12 +169,12 @@ SOLICITATIONS](/Laws/Statutes/2024/Title33/#Title33)
 [Chapter 501 CONSUMER PROTECTION](/Laws/Statutes/2024/Chapter501) [Entire
 Chapter](/Laws/Statutes/2024/Chapter501/All)
 
-SECTION 171  
+#### SECTION 171
 Security of confidential personal information.
 
 F.S. 501.171
 
-501.171 Security of confidential personal information.—
+### 501.171 Security of confidential personal information.—
 
 (1) DEFINITIONS.—As used in this section, the term:
 
@@ -512,7 +512,7 @@ business of the covered entity who is the subject of the information.
 History.—s. 3, ch. 2014-189; s. 1, ch. 2014-190; s. 1, ch. 2019-32; s. 25, ch.
 2023-201.
 
-  
+
 
 [ Home ](/)
 
@@ -592,7 +592,7 @@ History.—s. 3, ch. 2014-189; s. 1, ch. 2014-190; s. 1, ch. 2019-32; s. 25, ch.
   * [Twitter](http://www.twitter.com/flsenate)
   * [RSS](/Tracker/RSS)
 
-  
+
 
 [Senate Tracker](/Tracker)
 
@@ -609,7 +609,6 @@ Disclaimer: The information on this system is unverified. The journals or
 printed bills of the respective chambers should be consulted for official
 purposes.
 
-[Privacy Statement](/About/Privacy)|[Accessibility](/About/Accessibility)  
+[Privacy Statement](/About/Privacy)|[Accessibility](/About/Accessibility)
 
 Copyright © 2000- 2026 State of Florida.
-

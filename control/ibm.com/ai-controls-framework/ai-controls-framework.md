@@ -27,7 +27,7 @@ right arrow button
 [SubscribeSubscribe](https://www.ibm.com/thought-leadership/institute-
 business-value/en-us/newsletters)
 
-# Our data shows...  
+# Our data shows...
 this page is missing.
 
 You can find plenty of research waiting for you on the [IBV
@@ -35,4 +35,3 @@ homepage.](/thought-leadership/institute-business-value/en-us)
 
 ![Abstract grid pattern of geometric shapes](/thought-leadership/institute-
 business-value/public/static/images/404/mobile.png?w=1584&q=75)
-

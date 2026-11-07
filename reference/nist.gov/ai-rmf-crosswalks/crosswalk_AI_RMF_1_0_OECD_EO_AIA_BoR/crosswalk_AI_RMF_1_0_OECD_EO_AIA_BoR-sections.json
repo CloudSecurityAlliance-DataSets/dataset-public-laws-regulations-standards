@@ -1,0 +1,58 @@
+[
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Valid and Reliable - includes accuracy and robustness",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "NIST AI RMF: Valid and Reliable\n- includes\naccuracy and\nrobustness\n\nOECD Recom mendation on AI: Robustness - \"AI\nsystem lifecycle\nphases involve\nverifcation and\nvalidation\"\n\nEU AI Act (Proposed): Robustness;\nValidation;\nAccuracy\n\nEO 13960: Promoting the Use of Trustworthy AI in the Federal Government: Accurate; reliable,\nand effective;\nPurposeful and\nperformance\ndriven\n\nBlueprint for an AI Bill of Rights: Validity;\nAccuracy;\nReliability/reliable"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Safe",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "NIST AI RMF: Safe\n\nOECD Recom mendation on AI: Safe; Safety\n\nEU AI Act (Proposed): Safety\n\nEO 13960: Promoting the Use of Trustworthy AI in the Federal Government: Safe\n\nBlueprint for an AI Bill of Rights: Safe and effective"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Secure and Resilient",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "NIST AI RMF: Secure and\nResilient\n\nOECD Recom mendation on AI: Security\n\nEU AI Act (Proposed): Security;\nCybersecurity\nResilient\n\nEO 13960: Promoting the Use of Trustworthy AI in the Federal Government: Secure and\nresilient\n\nBlueprint for an AI Bill of Rights: Secure"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Accountable and Transparent",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "NIST AI RMF: Accountable and\nTransparent\n\nOECD Recom mendation on AI: Transparency;\nTransparency and\nresponsible\ndisclosure;\nAccountability\n\nEU AI Act (Proposed): Transparency;\nAccountability\n\nEO 13960: Promoting the Use of Trustworthy AI in the Federal Government: Transparent;\nAccountable\n\nBlueprint for an AI Bill of Rights: Accountability\nreporting;\nTransparency"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Explainable and Interpretable",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "NIST AI RMF: Explainable and\nInterpretable\n\nOECD Recom mendation on AI: Explainability\n\nEU AI Act (Proposed): Explainable;\nInterpretability\n\nEO 13960: Promoting the Use of Trustworthy AI in the Federal Government: Understandable\nby subject matter\nexperts, users, and\nothers, as\nappropriate\n\nBlueprint for an AI Bill of Rights: Notice and\nexplanation;\nExplainable;\nInterpretable"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Privacy-Enhanced",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "NIST AI RMF: Privacy-Enhanced\n\nOECD Recom mendation on AI: Privacy; Respect\nfor human rights\nand privacy\n\nEU AI Act (Proposed): Privacy\npreserving\nmeasures\n\nEO 13960: Promoting the Use of Trustworthy AI in the Federal Government: Lawful and\nrespectful of our\nNation's values\n\"Ensure that the\nuse of AI remains\nconsistent with all\napplicable laws,\nincluding those\nrelated to privacy,\ncivil rights, and\ncivil liberties.\"\n\nBlueprint for an AI Bill of Rights: Privacy; Data\nprivacy"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Fair – with Harmful Bias Managed",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "NIST AI RMF: Fair – with\nHarmful Bias\nManaged\n\nOECD Recom mendation on AI: Human-centered\nvalues and\nfairness\n\nEU AI Act (Proposed): Non-\ndiscrimination\n\nEO 13960: Promoting the Use of Trustworthy AI in the Federal Government: Lawful and\nrespectful of our\nNation's values;\nResponsible\n\nBlueprint for an AI Bill of Rights: Algorithmic\ndiscrimination\nprotections;\nProactive\nassessment of\nequity in design\nEnsuring\naccessibility;\nBasic safeguards\nagainst abuse,\nbias, and\ndiscrimination to\nensure all people\nare treated fairly"
+  }
+]

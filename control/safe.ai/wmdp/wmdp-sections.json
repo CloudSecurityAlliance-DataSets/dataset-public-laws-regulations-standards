@@ -1,0 +1,42 @@
+[
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "The WMDP Benchmark: Measuring and Reducing",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Malicious Use With Unlearning\n\nThe WMDP Team\n\n[ Paper](https://arxiv.org/abs/2403.03218)\n\n[ GitHub](https://github.com/centerforaisafety/wmdp)\n\n[![](images/hf-\nlogo.png)Collection](https://huggingface.co/collections/cais/wmdp-\nbenchmark-661ed0abb589122164900e0e)\n\n[![](https://assets-global.website-\nfiles.com/63fe96aeda6bea77ac7d3000/63fe9a72750bc67b129df210_CAIS%20Logo.svg)Blog](https://www.safe.ai/blog/wmdp-\nbenchmark)"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Introduction",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "The **W** eapons of **M** ass **D** estruction **P** roxy (WMDP) benchmark is\na dataset of 3,668 multiple-choice questions surrounding hazardous knowledge\nin![Biosecurity Icon](images/bio_icon.svg)biosecurity,![Cybersecurity\nIcon](images/cyber_icon.svg)cybersecurity, and![Chemical Security\nIcon](images/chem_icon.svg)chemical security. WMDP serves as both a proxy\nevaluation for hazardous knowledge in large language models (LLMs) and a\nbenchmark for unlearning methods to remove such knowledge.\n\nTo guide progress on mitigating risk from LLMs, we develop RMU, a state-of-\nthe-art unlearning method which reduces model performance on WMDP while\nmaintaining general language model capabilities.\n\n![outline](images/dataset.svg)"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Evaluating Risk From LLMs",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "![outline](images/three_panel.svg)\n\nTo measure risks of malicious use, government institutions and major AI labs\nare developing evaluations for hazardous capabilities in LLMs. However,\ncurrent evaluations are private and are limited to a narrow range of misuse\nscenarios. To fill these gaps, we publicly release WMDP, an expert-written\ndataset which measures how LLMs could aid malicious actors in developing\nbiological, cyber, and chemical attack capabilities. To avoid releasing\nsensitive and export-controlled information, we collect questions that are\nprecursors, neighbors, and components of the hazardous knowledge we wish to\nremove."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Mitigating Risk from LLMs",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "![outline](images/pipeline.svg)\n\nOn closed source API-access models, such as GPT-4 and Gemini, adversaries can\ndeploy adversarial attacks or harmful API-finetuning to bypass models’ refusal\ntraining and unlock their knowledge. Fortunately, model providers have\nleverage, as they may apply safety interventions before serving the model. In\nparticular, providers may perform machine unlearning to directly remove\nhazardous knowledge from models. Unlearned models have higher inherent safety:\neven if they are jailbroken, unlearned models lack the knowledge to be\nrepurposed for malicious use.\n\nTo guide progress on unlearning, we develop RMU, a state-of-the-art method\ninspired by [representation engineering](https://www.ai-transparency.org/),\nwhich improves unlearning precision: removing dangerous knowledge while\npreserving general model capabilities. RMU significantly reduces model\nperformance on WMDP, while mostly retaining general capabilities on MMLU and\nMT-Bench, suggesting that concrete progress in unlearning is feasible.\n\n![outline](images/main_results.png)"
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "Citation:",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "@misc{li2024wmdp,\n\ntitle={The WMDP Benchmark: Measuring and Reducing Malicious Use With\nUnlearning},\n\nauthor={Nathaniel Li and Alexander Pan and Anjali Gopal and Summer Yue and\nDaniel Berrios and Alice Gatti and Justin D. Li and Ann-Kathrin Dombrowski and\nShashwat Goel and Long Phan and Gabriel Mukobi and Nathan Helm-Burger and\nRassin Lababidi and Lennart Justen and Andrew B. Liu and Michael Chen and\nIsabelle Barrass and Oliver Zhang and Xiaoyuan Zhu and Rishub Tamirisa and\nBhrugu Bharathi and Adam Khoja and Zhenqi Zhao and Ariel Herbert-Voss and Cort\nB. Breuer and Samuel Marks and Oam Patel and Andy Zou and Mantas Mazeika and\nZifan Wang and Palash Oswal and Weiran Liu and Adam A. Hunt and Justin\nTienken-Harder and Kevin Y. Shih and Kemper Talley and John Guan and Russell\nKaplan and Ian Steneker and David Campbell and Brad Jokubaitis and Alex\nLevinson and Jean Wang and William Qian and Kallol Krishna Karmakar and Steven\nBasart and Stephen Fitz and Mindy Levine and Ponnurangam Kumaraguru and Uday\nTupakula and Vijay Varadharajan and Yan Shoshitaishvili and Jimmy Ba and Kevin\nM. Esvelt and Alexandr Wang and Dan Hendrycks},\n\nyear={2024},\n\neprint={2403.03218},\n\narchivePrefix={arXiv},\n\nprimaryClass={cs.LG}\n\n}"
+  }
+]

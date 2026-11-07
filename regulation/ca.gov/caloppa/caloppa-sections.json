@@ -1,0 +1,50 @@
+[
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "Code Section",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Code: Select Code CONS BPC CIV CCP COM CORP EDC ELEC EVID FAM FIN FGC FAC GOV\nHNC HSC INS LAB MVC PEN PROB PCC PRC PUC RTC SHC UIC VEH WAT WIC\nArticle:Section: ![information](/resources/images/info_popup.gif)\n\nCode: Select Code All BPC CIV CCP COM CORP EDC ELEC EVID FAM FIN FGC FAC GOV\nHNC HSC INS LAB MVC PEN PROB PCC PRC PUC RTC SHC UIC VEH WAT WIC Section:\nKeyword(s):\n\n[Code Search](#) [Text Search](#)\n\n[Up^](#)[<< Previous](#) [Next >>](#)[cross-reference chaptered bills](#)[PDF](#) | [Add To My Favorites](#)\n\n\nSearch Phrase:"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Code Text",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "Business and Professions Code - BPC",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 4,
+    "section_id": "DIVISION 8",
+    "section_name": "SPECIAL BUSINESS REGULATIONS [18400 - 22949.92.2]",
+    "id_kind": "part",
+    "parent_id": "",
+    "body": "_( Division 8 added by Stats. 1941, Ch. 44. )_"
+  },
+  {
+    "depth": 5,
+    "section_id": "CHAPTER 22",
+    "section_name": "Internet Privacy Requirements [22575 - 22579]",
+    "id_kind": "chapter",
+    "parent_id": "DIVISION 8",
+    "body": "_( Chapter 22 added by Stats. 2003, Ch. 829, Sec. 3. )_"
+  },
+  {
+    "depth": 6,
+    "section_id": "",
+    "section_name": "22575.",
+    "id_kind": "",
+    "parent_id": "CHAPTER 22",
+    "body": "(a) An operator of a commercial Web site or online service that collects\npersonally identifiable information through the Internet about individual\nconsumers residing in California who use or visit its commercial Web site or\nonline service shall conspicuously post its privacy policy on its Web site, or\nin the case of an operator of an online service, make that policy available in\naccordance with paragraph (5) of subdivision (b) of Section 22577. An operator\nshall be in violation of this subdivision only if the operator fails to post\nits policy within 30 days after being notified of noncompliance.\n\n(b) The privacy policy required by subdivision (a) shall do all of the\nfollowing:\n\n(1) Identify the categories of personally identifiable information that the\noperator collects through the Web site or online service about individual\nconsumers who use or visit its commercial Web site or online service and the\ncategories of third-party persons or entities with whom the operator may share\nthat personally identifiable information.\n\n(2) If the operator maintains a process for an individual consumer who uses or\nvisits its commercial Web site or online service to review and request changes\nto any of his or her personally identifiable information that is collected\nthrough the Web site or online service, provide a description of that process.\n\n(3) Describe the process by which the operator notifies consumers who use or\nvisit its commercial Web site or online service of material changes to the\noperator’s privacy policy for that Web site or online service.\n\n(4) Identify its effective date.\n\n(5) Disclose how the operator responds to Web browser “do not track” signals\nor other mechanisms that provide consumers the ability to exercise choice\nregarding the collection of personally identifiable information about an\nindividual consumer’s online activities over time and across third-party Web\nsites or online services, if the operator engages in that collection.\n\n(6) Disclose whether other parties may collect personally identifiable\ninformation about an individual consumer’s online activities over time and\nacross different Web sites when a consumer uses the operator’s Web site or\nservice.\n\n(7) An operator may satisfy the requirement of paragraph (5) by providing a\nclear and conspicuous hyperlink in the operator’s privacy policy to an online\nlocation containing a description, including the effects, of any program or\nprotocol the operator follows that offers the consumer that choice.\n\n_(Amended by Stats. 2013, Ch. 390, Sec. 1. (AB 370) Effective January 1,\n2014.)_"
+  }
+]

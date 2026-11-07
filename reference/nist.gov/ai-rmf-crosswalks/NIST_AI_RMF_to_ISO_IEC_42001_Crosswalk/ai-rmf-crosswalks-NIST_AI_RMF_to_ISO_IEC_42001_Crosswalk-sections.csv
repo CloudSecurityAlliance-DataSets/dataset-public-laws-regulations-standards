@@ -1,0 +1,1472 @@
+"depth","section_id","section_name","id_kind","parent_id","body"
+"2","GOVERN 1.1","Legal and regulatory requirements involving AI are understood, managed, and documented.","numbered","","AI RMF ID: Govern 1.1
+
+AI RMF: Legal and regulatory requirements
+involving AI are understood,
+managed, and documented.
+
+ISO/IEC FDIS 42001 ID: 4.1
+
+ISO/IEC FDIS 42001: Understanding the organization and its context
+
+ISO/IEC FDIS 42001 ID: 6.2 | ISO/IEC FDIS 42001: AI objectives and planning to achieve them
+
+ISO/IEC FDIS 42001 ID: B.2.2 | ISO/IEC FDIS 42001: AI policy
+
+ISO/IEC FDIS 42001 ID: B.2.4 | ISO/IEC FDIS 42001: Review of the AI policy"
+"2","GOVERN 1.2","The characteristics of trustworthy AI are integrated into organizational policies, processes, procedures, and practices.","numbered","","AI RMF ID: Govern 1.2
+
+AI RMF: The characteristics of trustworthy AI
+are integrated into organizational
+policies, processes, procedures, and
+practices.
+
+ISO/IEC FDIS 42001 ID: B.9.3
+
+ISO/IEC FDIS 42001: Objectives for responsible use of AI system
+
+ISO/IEC FDIS 42001 ID: B.6.1.2 | ISO/IEC FDIS 42001: Objectives for responsible development of AI
+system
+
+ISO/IEC FDIS 42001 ID: B.6.1.3 | ISO/IEC FDIS 42001: Processes for responsible design and
+
+ISO/IEC FDIS 42001: development of AI systems
+
+ISO/IEC FDIS 42001 ID: B.10.3 | ISO/IEC FDIS 42001: Suppliers
+
+ISO/IEC FDIS 42001 ID: B.2.2 | ISO/IEC FDIS 42001: AI policy
+
+ISO/IEC FDIS 42001 ID: 4.4 | ISO/IEC FDIS 42001: AI management system
+
+ISO/IEC FDIS 42001 ID: 5.2 | ISO/IEC FDIS 42001: AI Policy"
+"2","GOVERN 1.3","Processes, procedures, and practices are in place to determine the needed level of risk management activities based on the organization's risk tolerance.","numbered","","AI RMF ID: Govern 1.3
+
+AI RMF: Processes, procedures, and practices
+are in place to determine the needed
+level of risk management activities
+based on the organization's risk
+tolerance.
+
+ISO/IEC FDIS 42001 ID: 6.1.2
+
+ISO/IEC FDIS 42001: AI risk assessment
+
+ISO/IEC FDIS 42001 ID: 6.1.1 | ISO/IEC FDIS 42001: General
+
+ISO/IEC FDIS 42001 ID: 6.1.3 | ISO/IEC FDIS 42001: AI risk treatment"
+"2","GOVERN 1.4","The risk management process and its outcomes are established through transparent policies, procedures, and other controls based on organizational risk prioritie","numbered","","AI RMF ID: Govern 1.4
+
+AI RMF: The risk management process and its
+outcomes are established through
+transparent policies, procedures, and
+other controls based on
+organizational risk priorities.
+
+ISO/IEC FDIS 42001 ID: 6.1.2
+
+ISO/IEC FDIS 42001: AI risk assessment
+
+ISO/IEC FDIS 42001 ID: 6.1.3 | ISO/IEC FDIS 42001: AI risk treatment
+
+ISO/IEC FDIS 42001 ID: 8.3 | ISO/IEC FDIS 42001: AI risk treatment"
+"2","GOVERN 1.5","Ongoing monitoring and periodic review of the risk management process and its outcomes are planned and organizational roles and responsibilities clearly defined","numbered","","AI RMF ID: Govern 1.5
+
+AI RMF: Ongoing monitoring and periodic
+review of the risk management
+process and its outcomes are planned
+and organizational roles and
+responsibilities clearly defined,
+including determining the frequency
+of periodic review.
+
+ISO/IEC FDIS 42001 ID: 8.2
+
+ISO/IEC FDIS 42001: AI risk assessment
+
+ISO/IEC FDIS 42001 ID: 8.3 | ISO/IEC FDIS 42001: AI risk treatment
+
+ISO/IEC FDIS 42001 ID: 8.4 | ISO/IEC FDIS 42001: AI system impact assessment"
+"2","GOVERN 1.6","Mechanisms are in place to inventory AI systems and are resourced according to organizational risk priorities.","numbered","","AI RMF ID: Govern 1.6
+
+AI RMF: Mechanisms are in place to inventory
+AI systems and are resourced
+according to organizational risk
+priorities.
+
+ISO/IEC FDIS 42001 ID: B.4.5
+
+ISO/IEC FDIS 42001: System and computing resources
+
+ISO/IEC FDIS 42001 ID: B.4.3 | ISO/IEC FDIS 42001: Data resources
+
+ISO/IEC FDIS 42001 ID: B.4.4 | ISO/IEC FDIS 42001: Tooling resources
+
+ISO/IEC FDIS 42001 ID: B.4.6 | ISO/IEC FDIS 42001: Human resources
+
+ISO/IEC FDIS 42001 ID: B.4.2 | ISO/IEC FDIS 42001: Resource documentation"
+"2","GOVERN 1.7","Processes and procedures are in place for decommissioning and phasing out","numbered","","AI RMF ID: Govern 1.7
+
+AI RMF: Processes and procedures are in place
+for decommissioning and phasing out
+
+ISO/IEC FDIS 42001 ID: B.6.2.6
+
+ISO/IEC FDIS 42001: AI system operation and monitoring
+
+AI RMF: AI systems safely and in a manner that
+
+AI RMF: does not increase risks or decrease
+
+AI RMF: the organization's trustworthiness."
+"2","GOVERN 2.1","Roles and responsibilities and lines of communication related to mapping, measuring, and managing AI risks are documented and are clear to individuals and teams","numbered","","AI RMF ID: Govern 2.1
+
+AI RMF: Roles and responsibilities and lines of
+communication related to mapping,
+measuring, and managing AI risks are
+documented and are clear to
+individuals and teams throughout the
+organization.
+
+ISO/IEC FDIS 42001 ID: 9.1
+
+ISO/IEC FDIS 42001: Monitoring, measurement, analysis and
+evaluation
+
+ISO/IEC FDIS 42001 ID: 5.3 | ISO/IEC FDIS 42001: Roles, responsibilities and authorities
+
+ISO/IEC FDIS 42001 ID: 7.1 | ISO/IEC FDIS 42001: Resources
+
+ISO/IEC FDIS 42001 ID: 72 | ISO/IEC FDIS 42001: Competence
+
+ISO/IEC FDIS 42001 ID: 7.3 | ISO/IEC FDIS 42001: Awareness
+
+ISO/IEC FDIS 42001 ID: 7.4 | ISO/IEC FDIS 42001: Communication
+
+ISO/IEC FDIS 42001 ID: B.3.2 | ISO/IEC FDIS 42001: AI roles and responsibilities"
+"2","GOVERN 2.2","The organization's personnel and partners receive AI risk management training to enable them to perform their duties and responsibilities consistent with relate","numbered","","AI RMF ID: Govern 2.2
+
+AI RMF: The organization's personnel and
+partners receive AI risk management
+training to enable them to perform
+their duties and responsibilities
+consistent with related policies,
+procedures, and agreements.
+
+ISO/IEC FDIS 42001 ID: 7.2
+
+ISO/IEC FDIS 42001: Competence"
+"2","GOVERN 2.3","Executive leadership of the organization takes responsibility for decisions about risks associated with AI system development and deployment.","numbered","","AI RMF ID: Govern 2.3
+
+AI RMF: Executive leadership of the
+organization takes responsibility for
+decisions about risks associated with
+AI system development and
+deployment.
+
+ISO/IEC FDIS 42001 ID: 5.1
+
+ISO/IEC FDIS 42001: Leadership and commitment
+
+ISO/IEC FDIS 42001 ID: 9.3.1 | ISO/IEC FDIS 42001: General
+
+ISO/IEC FDIS 42001 ID: 9.3.2 | ISO/IEC FDIS 42001: Management review inputs
+
+ISO/IEC FDIS 42001 ID: 9.3.3 | ISO/IEC FDIS 42001: Management review results
+
+ISO/IEC FDIS 42001 ID: 5.2 | ISO/IEC FDIS 42001: AI Policy"
+"2","GOVERN 3.1","Decision-making related to mapping, measuring, and managing AI risks throughout the lifecycle is informed by a diverse team (e.g., diversity of demographics, di","numbered","","AI RMF ID: Govern 3.1
+
+AI RMF: Decision-making related to mapping,
+measuring, and managing AI risks
+throughout the lifecycle is informed
+by a diverse team (e.g., diversity of
+demographics, disciplines, experience,
+expertise, and backgrounds).
+
+ISO/IEC FDIS 42001 ID: B.4.6
+
+ISO/IEC FDIS 42001: Human resources
+
+ISO/IEC FDIS 42001 ID: B.5.4 | ISO/IEC FDIS 42001: Assessing AI system impact on individuals and
+groups of individuals"
+"2","GOVERN 3.2","Policies and procedures are in place to define and differentiate roles and responsibilities for human-AI configurations and oversight of AI systems.","numbered","","AI RMF ID: Govern 3.2
+
+AI RMF: Policies and procedures are in place to
+define and differentiate roles and
+responsibilities for human-AI
+configurations and oversight of AI
+systems.
+
+ISO/IEC FDIS 42001 ID: B.6.1.3
+
+ISO/IEC FDIS 42001: Processes for responsible design and
+development of AI systems
+
+ISO/IEC FDIS 42001 ID: B.9.3 | ISO/IEC FDIS 42001: Objectives for responsible use of AI system
+
+ISO/IEC FDIS 42001 ID: B.4.6 | ISO/IEC FDIS 42001: Human resources
+
+ISO/IEC FDIS 42001 ID: B.5.3 | ISO/IEC FDIS 42001: Documentation of AI system impact
+
+ISO/IEC FDIS 42001: assessments
+
+ISO/IEC FDIS 42001 ID: 7.2 | ISO/IEC FDIS 42001: Competence
+
+ISO/IEC FDIS 42001 ID: B.3.2 | ISO/IEC FDIS 42001: Management review inputs"
+"2","GOVERN 4.1","Organizational policies and practices are in place to foster a critical thinking and safety-first mindset in the design, development, deployment, and uses of AI","numbered","","AI RMF ID: Govern 4.1
+
+AI RMF: Organizational policies and practices
+are in place to foster a critical thinking
+and safety-first mindset in the design,
+development, deployment, and uses
+of AI systems to minimize potential
+negative impacts.
+
+ISO/IEC FDIS 42001 ID: B.5.2
+
+ISO/IEC FDIS 42001: AI system impact assessment process
+
+ISO/IEC FDIS 42001 ID: B.6.1.2 | ISO/IEC FDIS 42001: Objectives for responsible development of AI
+system
+
+ISO/IEC FDIS 42001 ID: B.6.1.3 | ISO/IEC FDIS 42001: Processes for responsible design and
+development of AI systems
+
+ISO/IEC FDIS 42001 ID: B.9.2 | ISO/IEC FDIS 42001: Processes for responsible use of AI
+
+ISO/IEC FDIS 42001 ID: B.9.3 | ISO/IEC FDIS 42001: Objectives for responsible use of AI system
+
+ISO/IEC FDIS 42001 ID: B.10.3 | ISO/IEC FDIS 42001: Suppliers
+
+ISO/IEC FDIS 42001 ID: B.5.4 | ISO/IEC FDIS 42001: Assessing AI system impact on individuals and
+groups of individuals"
+"2","GOVERN 4.2","Organizational teams document the risks and potential impacts of the AI technology they design, develop, deploy, evaluate, and use, and they communicate about t","numbered","","AI RMF ID: Govern 4.2
+
+AI RMF: Organizational teams document the
+risks and potential impacts of the AI
+technology they design, develop,
+deploy, evaluate, and use, and they
+communicate about the impacts more
+broadly.
+
+ISO/IEC FDIS 42001 ID: B.5.4
+
+ISO/IEC FDIS 42001: Assessing AI system impact on individuals and
+groups of individuals
+
+ISO/IEC FDIS 42001 ID: B.8.5 | ISO/IEC FDIS 42001: Information for interested parties
+
+ISO/IEC FDIS 42001 ID: 7.4 | ISO/IEC FDIS 42001: Communication
+
+ISO/IEC FDIS 42001 ID: 6.1.4 | ISO/IEC FDIS 42001: AI system impact assessment
+
+ISO/IEC FDIS 42001 ID: B.5.5 | ISO/IEC FDIS 42001: Assessing societal impacts of AI systems"
+"2","GOVERN 4.3","Organizational practices are in place to enable AI testing, identification of incidents, and information sharing.","numbered","","AI RMF ID: Govern 4.3
+
+AI RMF: Organizational practices are in place
+to enable AI testing, identification of
+incidents, and information sharing.
+
+ISO/IEC FDIS 42001 ID: B.6.2.4
+
+ISO/IEC FDIS 42001: AI system verification and validation
+
+ISO/IEC FDIS 42001 ID: B.6.2.6 | ISO/IEC FDIS 42001: AI system operation and monitoring
+
+ISO/IEC FDIS 42001 ID: B.6.2.7 | ISO/IEC FDIS 42001: AI system technical documentation
+
+ISO/IEC FDIS 42001 ID: B.8.2 | ISO/IEC FDIS 42001: System documentation and information for
+users
+
+ISO/IEC FDIS 42001 ID: B.8.3 | ISO/IEC FDIS 42001: External reporting
+
+ISO/IEC FDIS 42001 ID: B.8.4 | ISO/IEC FDIS 42001: Communication of incidents
+
+ISO/IEC FDIS 42001 ID: B.8.5 | ISO/IEC FDIS 42001: Information for interested parties
+
+ISO/IEC FDIS 42001 ID: B.6.1.2 | ISO/IEC FDIS 42001: Objectives for responsible development of AI
+system
+
+ISO/IEC FDIS 42001 ID: B.6.1.3 | ISO/IEC FDIS 42001: Processes for responsible design and
+
+ISO/IEC FDIS 42001: development of AI systems"
+"2","GOVERN 5.1","Organizational policies and practices are in place to collect, consider, prioritize, and integrate feedback from those external to the team that developed or de","numbered","","AI RMF ID: Govern 5.1
+
+AI RMF: Organizational policies and practices
+are in place to collect, consider,
+prioritize, and integrate feedback
+from those external to the team that
+developed or deployed the AI system
+regarding the potential individual and
+societal impacts related to AI risks.
+
+ISO/IEC FDIS 42001 ID: B.10.4
+
+ISO/IEC FDIS 42001: Customers
+
+ISO/IEC FDIS 42001 ID: B.5.3 | ISO/IEC FDIS 42001: Documentation of AI system impact
+
+ISO/IEC FDIS 42001 ID: B.5.4 | ISO/IEC FDIS 42001: assessments
+Assessing AI system impact on individuals and
+groups of individuals
+
+ISO/IEC FDIS 42001 ID: B.8.3 | ISO/IEC FDIS 42001: External reporting"
+"2","GOVERN 5.2","Mechanisms are established to enable the team that developed or deployed AI systems to regularly incorporate adjudicated feedback from relevant AI actors into s","numbered","","AI RMF ID: Govern 5.2
+
+AI RMF: Mechanisms are established to enable
+the team that developed or deployed
+AI systems to regularly incorporate
+adjudicated feedback from relevant AI
+actors into system design and
+implementation.
+
+ISO/IEC FDIS 42001 ID: B.8.3
+
+ISO/IEC FDIS 42001: External reporting
+
+ISO/IEC FDIS 42001 ID: B.10.4 | ISO/IEC FDIS 42001: Customers
+
+ISO/IEC FDIS 42001 ID: B.5.4 | ISO/IEC FDIS 42001: Assessing AI system impact on individuals and
+groups of individuals
+
+ISO/IEC FDIS 42001 ID: B.5.5 | ISO/IEC FDIS 42001: Assessing societal impacts of AI systems
+
+ISO/IEC FDIS 42001 ID: B.6.1.3 | ISO/IEC FDIS 42001: Processes for responsible design and
+development of AI systems"
+"2","GOVERN 5.2","Mechanisms are established to enable the team that developed or deployed AI systems to regularly incorporate adjudicated feedback from relevant AI actors into s","numbered","","AI RMF ID: Govern 5.2
+
+AI RMF: Mechanisms are established to enable
+the team that developed or deployed
+AI systems to regularly incorporate
+adjudicated feedback from relevant AI
+actors into system design and
+implementation.
+
+ISO/IEC FDIS 42001 ID: B.6.2.6
+
+ISO/IEC FDIS 42001: AI system operation and monitoring"
+"2","GOVERN 6.1","Policies and procedures are in place","numbered","","AI RMF ID: Govern 6.1
+
+AI RMF: Policies and procedures are in place
+
+ISO/IEC FDIS 42001 ID: B.10.2
+
+ISO/IEC FDIS 42001: Allocating responsibilities
+
+AI RMF: that address AI risks associated with
+
+AI RMF: third-party entities, including risks of
+
+AI RMF: infringement of a third-party's
+intellectual property or other rights.
+
+ISO/IEC FDIS 42001 ID: B.10.3 | ISO/IEC FDIS 42001: Suppliers"
+"2","GOVERN 6.2","Contingency processes are in place to","numbered","","AI RMF ID: Govern 6.2
+
+AI RMF: Contingency processes are in place to
+
+ISO/IEC FDIS 42001 ID: B.10.2
+
+ISO/IEC FDIS 42001: Allocating responsibilities
+
+AI RMF: handle failures or incidents in third
+
+AI RMF: party data or AI systems deemed to
+
+AI RMF: be high-risk.
+
+ISO/IEC FDIS 42001 ID: B.10.3 | ISO/IEC FDIS 42001: Suppliers"
+"2","MAP 1.1","Intended purposes, potentially","numbered","","AI RMF ID: Map 1.1
+
+AI RMF: Intended purposes, potentially
+
+ISO/IEC FDIS 42001 ID: 6.1.4
+
+ISO/IEC FDIS 42001: AI system impact assessment
+
+AI RMF: beneficial uses, context specific laws,
+
+AI RMF: norms and expectations, and
+
+AI RMF: prospective settings in which the AI
+
+AI RMF: system will be deployed are
+
+AI RMF: understood and documented.
+
+AI RMF: Considerations include: the specific
+
+AI RMF: set or types of users along with their
+
+AI RMF: expectations; potential positive and
+
+AI RMF: negative impacts of system uses to
+
+AI RMF: individuals, communities,
+
+AI RMF: organizations, society, and the planet;
+
+AI RMF: assumptions and related limitations
+
+AI RMF: about AI system purposes, uses, and
+
+AI RMF: risks across the development or
+
+AI RMF: product AI lifecycle; and related TEVV
+
+AI RMF: and system metrics.
+
+ISO/IEC FDIS 42001 ID: B.5.2 | ISO/IEC FDIS 42001: AI system impact assessment process
+
+ISO/IEC FDIS 42001 ID: B.5.3 | ISO/IEC FDIS 42001: Documentation of AI system impact
+
+ISO/IEC FDIS 42001: assessments
+
+ISO/IEC FDIS 42001 ID: B.5.4 | ISO/IEC FDIS 42001: Assessing AI system impact on individuals and
+
+ISO/IEC FDIS 42001: groups of individuals
+
+ISO/IEC FDIS 42001 ID: B.5.5 | ISO/IEC FDIS 42001: Assessing societal impacts of AI systems"
+"2","MAP 1.2","Interdisciplinary AI actors,","numbered","","AI RMF ID: Map 1.2
+
+AI RMF: Interdisciplinary AI actors,
+
+ISO/IEC FDIS 42001 ID: B.4.6
+
+ISO/IEC FDIS 42001: Human resources
+
+AI RMF: competencies, skills, and capacities
+
+AI RMF: for establishing context reflect
+
+AI RMF: demographic diversity and broad
+
+AI RMF: domain and user experience
+
+AI RMF: expertise, and their participation is
+
+AI RMF: documented. Opportunities for
+
+AI RMF: interdisciplinary collaboration are
+
+AI RMF: prioritized.
+
+ISO/IEC FDIS 42001 ID: 7.2 | ISO/IEC FDIS 42001: Competence"
+"2","MAP 1.3","The organization's mission and","numbered","","AI RMF ID: Map 1.3
+
+AI RMF: The organization's mission and
+
+ISO/IEC FDIS 42001 ID: 4.1
+
+ISO/IEC FDIS 42001: Understanding the organization and its context
+
+AI RMF: relevant goals for AI technology are
+
+AI RMF: understood and documented
+
+ISO/IEC FDIS 42001 ID: 5.2 | ISO/IEC FDIS 42001: AI Policy
+
+ISO/IEC FDIS 42001 ID: 6.2 | ISO/IEC FDIS 42001: AI objectives and planning to achieve them
+
+ISO/IEC FDIS 42001 ID: 7.5.3 | ISO/IEC FDIS 42001: Control of documented information
+
+ISO/IEC FDIS 42001 ID: 7.3 | ISO/IEC FDIS 42001: Awareness
+
+ISO/IEC FDIS 42001 ID: 7.4 | ISO/IEC FDIS 42001: Communication"
+"2","MAP 1.4","The business value or context of","numbered","","AI RMF ID: Map 1.4
+
+AI RMF: The business value or context of
+
+ISO/IEC FDIS 42001 ID: 5.1
+
+ISO/IEC FDIS 42001: Leadership and commitment
+
+AI RMF: business use has been clearly defined
+
+AI RMF: or – in the case of assessing existing AI
+
+AI RMF: systems – re-evaluated.
+
+ISO/IEC FDIS 42001 ID: 4.1 | ISO/IEC FDIS 42001: Understanding the organization and its context
+
+ISO/IEC FDIS 42001 ID: B.2.2 | ISO/IEC FDIS 42001: Customers
+
+ISO/IEC FDIS 42001 ID: B.5.2 | ISO/IEC FDIS 42001: AI system impact assessment process
+
+ISO/IEC FDIS 42001 ID: B.9.4 | ISO/IEC FDIS 42001: Intended use of the AI system
+
+ISO/IEC FDIS 42001 ID: B.6.2.2 | ISO/IEC FDIS 42001: AI system requirements and specification"
+"2","MAP 1.5","Organizational risk tolerances are","numbered","","AI RMF ID: Map 1.5
+
+AI RMF: Organizational risk tolerances are
+
+ISO/IEC FDIS 42001 ID: 6.1.1
+
+ISO/IEC FDIS 42001: Objective
+
+AI RMF: determined and documented."
+"2","MAP 1.6","System requirements (e.g., ""the","numbered","","AI RMF ID: Map 1.6
+
+AI RMF: System requirements (e.g., ""the
+
+ISO/IEC FDIS 42001 ID: B.6.2.2
+
+ISO/IEC FDIS 42001: AI system requirements and specification
+
+AI RMF: system shall respect the privacy of its
+
+AI RMF: users"") are elicited from and
+
+AI RMF: understood by relevant AI actors.
+
+AI RMF: Design decisions take socio-technical
+
+AI RMF: implications into account to address
+
+AI RMF: AI risks.
+
+ISO/IEC FDIS 42001 ID: B.5.4 | ISO/IEC FDIS 42001: Assessing AI system impact on individuals and
+
+ISO/IEC FDIS 42001: groups of individuals
+
+ISO/IEC FDIS 42001 ID: B.5.5 | ISO/IEC FDIS 42001: Assessing societal impacts of AI systems"
+"2","MAP 2.1","The specific tasks and methods used","numbered","","AI RMF ID: Map 2.1
+
+AI RMF: The specific tasks and methods used
+
+ISO/IEC FDIS 42001 ID: B.6.2.3
+
+ISO/IEC FDIS 42001: Documentation of AI system design and
+
+AI RMF: to implement the tasks that the AI | ISO/IEC FDIS 42001: development
+
+AI RMF: system will support are defined (e.g.,
+
+AI RMF: classifiers, generative models,
+
+AI RMF: recommenders).
+
+ISO/IEC FDIS 42001 ID: B.4.2 | ISO/IEC FDIS 42001: Resource documentation
+
+ISO/IEC FDIS 42001 ID: B.4.3 | ISO/IEC FDIS 42001: Data resources
+
+ISO/IEC FDIS 42001 ID: B.4.4 | ISO/IEC FDIS 42001: Tooling resources
+
+ISO/IEC FDIS 42001 ID: B.4.5 | ISO/IEC FDIS 42001: System and computing resources
+
+ISO/IEC FDIS 42001 ID: B.4.6 | ISO/IEC FDIS 42001: Human resources"
+"2","MAP 2.2","Information about the AI system's knowledge limits and how system output may be utilized and overseen by humans is documented. Documentation provides sufficient","numbered","","AI RMF ID: Map 2.2
+
+AI RMF: Information about the AI system's
+knowledge limits and how system
+output may be utilized and overseen
+by humans is documented.
+Documentation provides sufficient
+information to assist relevant AI
+actors when making decisions and
+taking subsequent actions
+
+ISO/IEC FDIS 42001 ID: B.6.2.7
+
+ISO/IEC FDIS 42001: AI system technical documentation
+
+ISO/IEC FDIS 42001 ID: B.9.3 | ISO/IEC FDIS 42001: Objectives for responsible use of AI system
+
+ISO/IEC FDIS 42001 ID: B.8.2 | ISO/IEC FDIS 42001: System documentation and information for
+users"
+"2","MAP 2.3","Scientific integrity and TEVV considerations are identified and documented, including those related to experimental design, data collection and selection (e.g.,","numbered","","AI RMF ID: Map 2.3
+
+AI RMF: Scientific integrity and TEVV
+considerations are identified and
+documented, including those related
+to experimental design, data
+collection and selection (e.g.,
+availability, representativeness,
+suitability), system trustworthiness,
+and construct validation.
+
+ISO/IEC FDIS 42001 ID: B.6.1.3
+
+ISO/IEC FDIS 42001: Processes for responsible design and
+development of AI systems
+
+ISO/IEC FDIS 42001 ID: B.6.2.7 | ISO/IEC FDIS 42001: AI system technical documentation
+
+ISO/IEC FDIS 42001 ID: B.7.2 | ISO/IEC FDIS 42001: Data for development and enhancement of AI
+system
+
+ISO/IEC FDIS 42001 ID: B.7.3 | ISO/IEC FDIS 42001: Acquisition of data
+
+ISO/IEC FDIS 42001 ID: B.7.4 | ISO/IEC FDIS 42001: Quality of data for AI systems
+
+ISO/IEC FDIS 42001 ID: B.7.5 | ISO/IEC FDIS 42001: Data provenance
+
+ISO/IEC FDIS 42001 ID: B.7.6 | ISO/IEC FDIS 42001: Data preparation
+
+ISO/IEC FDIS 42001 ID: B.6.2.4 | ISO/IEC FDIS 42001: AI system verification and validation"
+"2","MAP 3.1","Potential benefits of intended AI system functionality and performance are examined and documented.","numbered","","AI RMF ID: Map 3.1
+
+AI RMF: Potential benefits of intended AI
+system functionality and performance
+are examined and documented.
+
+ISO/IEC FDIS 42001 ID: B.5.2
+
+ISO/IEC FDIS 42001: AI system impact assessment process
+
+ISO/IEC FDIS 42001 ID: B.5.3 | ISO/IEC FDIS 42001: Documentation of AI system impact
+assessments
+
+ISO/IEC FDIS 42001 ID: B.5.4 | ISO/IEC FDIS 42001: Assessing AI system impact on individuals and
+groups of individuals
+
+ISO/IEC FDIS 42001 ID: B.5.5 | ISO/IEC FDIS 42001: Assessing societal impacts of AI systems"
+"2","MAP 3.2","Potential costs, including non monetary costs, which result from expected or realized AI errors or system functionality and trustworthiness – as connected to or","numbered","","AI RMF ID: Map 3.2
+
+AI RMF: Potential costs, including non
+monetary costs, which result from
+expected or realized AI errors or
+system functionality and
+trustworthiness – as connected to
+organizational risk tolerance – are
+examined and documented
+
+ISO/IEC FDIS 42001 ID: B.5.2
+
+ISO/IEC FDIS 42001: AI system impact assessment process
+
+ISO/IEC FDIS 42001 ID: B.5.3 | ISO/IEC FDIS 42001: Documentation of AI system impact
+
+ISO/IEC FDIS 42001: assessments
+
+ISO/IEC FDIS 42001 ID: B.5.4 | ISO/IEC FDIS 42001: Assessing AI system impact on individuals and
+
+ISO/IEC FDIS 42001: groups of individuals
+
+ISO/IEC FDIS 42001 ID: B.5.5 | ISO/IEC FDIS 42001: Assessing societal impacts of AI systems
+
+ISO/IEC FDIS 42001 ID: 8.2 | ISO/IEC FDIS 42001: AI risk assessment
+
+ISO/IEC FDIS 42001 ID: 8.3 | ISO/IEC FDIS 42001: AI risk treatment
+
+ISO/IEC FDIS 42001 ID: 8.4 | ISO/IEC FDIS 42001: AI system impact assessment"
+"2","MAP 3.3","Targeted application scope is specified","numbered","","AI RMF ID: Map 3.3
+
+AI RMF: Targeted application scope is specified
+
+ISO/IEC FDIS 42001 ID: 4.3
+
+ISO/IEC FDIS 42001: Determining the scope of the AI management
+
+AI RMF: and documented based on the | ISO/IEC FDIS 42001: system
+
+AI RMF: system's capability, established
+
+AI RMF: context, and AI system categorization.
+
+ISO/IEC FDIS 42001 ID: B.5.2 | ISO/IEC FDIS 42001: AI system impact assessment process
+
+ISO/IEC FDIS 42001 ID: B.5.3 | ISO/IEC FDIS 42001: Documentation of AI system impact
+
+ISO/IEC FDIS 42001: assessments
+
+ISO/IEC FDIS 42001 ID: B.5.4 | ISO/IEC FDIS 42001: Assessing AI system impact on individuals and
+
+ISO/IEC FDIS 42001: groups of individuals
+
+ISO/IEC FDIS 42001 ID: B.5.5 | ISO/IEC FDIS 42001: Assessing societal impacts of AI systems"
+"2","MAP 3.4","Processes for operator and","numbered","","AI RMF ID: Map 3.4
+
+AI RMF: Processes for operator and
+
+ISO/IEC FDIS 42001 ID: 7.2
+
+ISO/IEC FDIS 42001: Competence
+
+AI RMF: practitioner proficiency with AI
+
+AI RMF: system performance and
+
+AI RMF: trustworthiness – and relevant
+
+AI RMF: technical standards and certifications
+
+AI RMF: – are defined, assessed, and
+
+AI RMF: documented.
+
+ISO/IEC FDIS 42001 ID: B.4.6 | ISO/IEC FDIS 42001: Human resources"
+"2","MAP 3.5","Processes for human oversight are","numbered","","AI RMF ID: Map 3.5
+
+AI RMF: Processes for human oversight are
+
+ISO/IEC FDIS 42001 ID: B.6.1.3
+
+ISO/IEC FDIS 42001: Processes for responsible design and
+
+AI RMF: defined, assessed, and documented in | ISO/IEC FDIS 42001: development of AI systems
+
+AI RMF: accordance with organizational
+
+AI RMF: policies from the GOVERN function.
+
+ISO/IEC FDIS 42001 ID: B.6.2.7 | ISO/IEC FDIS 42001: AI system technical documentation
+
+ISO/IEC FDIS 42001 ID: B.8.2 | ISO/IEC FDIS 42001: System documentation and information for
+
+ISO/IEC FDIS 42001: users"
+"2","MAP 4.1","Approaches for mapping AI","numbered","","AI RMF ID: Map 4.1
+
+AI RMF: Approaches for mapping AI
+
+ISO/IEC FDIS 42001 ID: 4.1
+
+ISO/IEC FDIS 42001: Understanding the organization and its context
+
+AI RMF: technology and legal risks of its
+
+AI RMF: components – including the use of
+
+AI RMF: third-party data or software – are in
+
+AI RMF: place, followed, and documented, as
+
+AI RMF: are risks of infringement of a third
+
+AI RMF: party's intellectual property or other
+
+AI RMF: rights.
+
+ISO/IEC FDIS 42001 ID: B.2.2 | ISO/IEC FDIS 42001: AI policy
+
+ISO/IEC FDIS 42001 ID: B.9.2 | ISO/IEC FDIS 42001: Processes for responsible use of AI systems
+
+ISO/IEC FDIS 42001 ID: B.9.4 | ISO/IEC FDIS 42001: Intended use of the AI system"
+"2","MAP 4.2","Internal risk controls for components of the AI system, including third-party AI technologies, are identified and documented.","numbered","","AI RMF ID: Map 4.2
+
+AI RMF: Internal risk controls for components
+of the AI system, including third-party
+AI technologies, are identified and
+documented.
+
+ISO/IEC FDIS 42001 ID: B.6.2.7
+
+ISO/IEC FDIS 42001: AI system technical documentation
+
+ISO/IEC FDIS 42001 ID: B.8.2 | ISO/IEC FDIS 42001: System documentation and information for
+
+ISO/IEC FDIS 42001 ID: B.10.3 | ISO/IEC FDIS 42001: users
+Suppliers"
+"2","MAP 5.1","Likelihood and magnitude of each identified impact (both potentially beneficial and harmful) based on expected use, past uses of AI systems in similar contexts,","numbered","","AI RMF ID: Map 5.1
+
+AI RMF: Likelihood and magnitude of each
+identified impact (both potentially
+beneficial and harmful) based on
+expected use, past uses of AI systems
+in similar contexts, public incident
+reports, feedback from those external
+to the team that developed or
+deployed the AI system, or other data
+are identified and documented.
+
+ISO/IEC FDIS 42001 ID: 6.1.2
+
+ISO/IEC FDIS 42001: AI risk assessment
+
+ISO/IEC FDIS 42001 ID: B.5.2 | ISO/IEC FDIS 42001: AI system impact assessment process"
+"2","MAP 5.2","Practices and personnel for supporting regular engagement with relevant AI actors and integrating feedback about positive, negative, and unanticipated impacts a","numbered","","AI RMF ID: Map 5.2
+
+AI RMF: Practices and personnel for
+supporting regular engagement with
+relevant AI actors and integrating
+feedback about positive, negative,
+and unanticipated impacts are in
+place and documented.
+
+ISO/IEC FDIS 42001 ID: B.6.1.3
+
+ISO/IEC FDIS 42001: Processes for responsible design and
+development of AI systems
+
+ISO/IEC FDIS 42001 ID: B.6.2.6 | ISO/IEC FDIS 42001: AI system operation and monitoring
+
+ISO/IEC FDIS 42001 ID: B.8.3 | ISO/IEC FDIS 42001: External reporting"
+"2","MEASURE 1.1","Approaches and metrics for measurement of AI risks enumerated during the MAP function are selected for implementation starting with the most significant AI risk","numbered","","AI RMF ID: Measure 1.1
+
+AI RMF: Approaches and metrics for
+measurement of AI risks enumerated
+during the MAP function are selected
+for implementation starting with the
+most significant AI risks. The risks or
+trustworthiness characteristics that
+will not – or cannot – be measured
+are properly documented.
+
+ISO/IEC FDIS 42001 ID: 6.1.1
+
+ISO/IEC FDIS 42001: General
+
+ISO/IEC FDIS 42001 ID: 6.1.2 | ISO/IEC FDIS 42001: AI risk assessment"
+"2","MEASURE 1.2","Appropriateness of AI metrics and effectiveness of existing controls are regularly assessed and updated, including reports of errors and potential impacts on af","numbered","","AI RMF ID: Measure 1.2
+
+AI RMF: Appropriateness of AI metrics and
+effectiveness of existing controls are
+regularly assessed and updated,
+including reports of errors and
+potential impacts on affected
+communities.
+
+ISO/IEC FDIS 42001 ID: B.6.2.4
+
+ISO/IEC FDIS 42001: AI system verification and validation
+
+ISO/IEC FDIS 42001 ID: B.5.4 | ISO/IEC FDIS 42001: Assessing AI system impact on individuals and
+groups of individuals
+
+ISO/IEC FDIS 42001 ID: B.5.2 | ISO/IEC FDIS 42001: AI system impact assessment process
+
+ISO/IEC FDIS 42001 ID: B.5.5 | ISO/IEC FDIS 42001: Assessing societal impacts of AI systems"
+"2","MEASURE 1.3","Internal experts who did not serve as front-line developers for the system and/or independent assessors are involved in regular assessments and updates. Domain ","numbered","","AI RMF ID: Measure 1.3
+
+AI RMF: Internal experts who did not serve as
+front-line developers for the system
+and/or independent assessors are
+involved in regular assessments and
+updates. Domain experts, users, AI
+actors external to the team that
+developed or deployed the AI system,
+and affected communities are
+consulted in support of assessments
+as necessary per organizational risk
+tolerance.
+
+ISO/IEC FDIS 42001 ID: 6.1.2
+
+ISO/IEC FDIS 42001: AI risk assessment
+
+ISO/IEC FDIS 42001 ID: 9.2.2 | ISO/IEC FDIS 42001: Internal audit programme
+
+ISO/IEC FDIS 42001 ID: B.5.2 | ISO/IEC FDIS 42001: AI system impact assessment process
+
+ISO/IEC FDIS 42001 ID: B.5.4 | ISO/IEC FDIS 42001: Assessing AI system impact on individuals and
+
+ISO/IEC FDIS 42001: groups of individuals
+
+ISO/IEC FDIS 42001 ID: B.5.5 | ISO/IEC FDIS 42001: Assessing societal impacts of AI systems"
+"2","MEASURE 2.1","Test sets, metrics, and details about the tools used during TEVV are documented.","numbered","","AI RMF ID: Measure 2.1
+
+AI RMF: Test sets, metrics, and details about
+the tools used during TEVV are
+documented.
+
+ISO/IEC FDIS 42001 ID: B.8.4
+
+ISO/IEC FDIS 42001: Communication of incidents
+
+ISO/IEC FDIS 42001 ID: B.6.2.4 | ISO/IEC FDIS 42001: AI system verification and validation
+
+ISO/IEC FDIS 42001 ID: B.6.2.7 | ISO/IEC FDIS 42001: AI system technical documentation
+
+ISO/IEC FDIS 42001 ID: B.4.2 | ISO/IEC FDIS 42001: Resource documentation"
+"2","MEASURE 2.2","Evaluations involving human subjects meet applicable requirements (including human subject protection) and are representative of the relevant population","numbered","","AI RMF ID: Measure 2.2
+
+AI RMF: Evaluations involving human subjects
+meet applicable requirements
+(including human subject protection)
+and are representative of the relevant
+population
+
+ISO/IEC FDIS 42001 ID: B.6.2.4
+
+ISO/IEC FDIS 42001: AI system verification and validation"
+"2","MEASURE 2.3","AI system performance or assurance criteria are measured qualitatively or quantitatively and demonstrated for conditions similar to deployment setting(s). Measu","numbered","","AI RMF ID: Measure 2.3
+
+AI RMF: AI system performance or assurance
+criteria are measured qualitatively or
+quantitatively and demonstrated for
+conditions similar to deployment
+setting(s). Measures are documented.
+
+ISO/IEC FDIS 42001 ID: B.7.4
+
+ISO/IEC FDIS 42001: Quality of data for AI systems
+
+ISO/IEC FDIS 42001 ID: B.6.2.6 | ISO/IEC FDIS 42001: AI system operation and monitoring"
+"2","MEASURE 2.4","The functionality and behavior of the AI system and its components – as identified in the MAP function – are monitored when in production.","numbered","","AI RMF ID: Measure 2.4
+
+AI RMF: The functionality and behavior of the
+AI system and its components – as
+identified in the MAP function – are
+monitored when in production.
+
+ISO/IEC FDIS 42001 ID: 9.1
+
+ISO/IEC FDIS 42001: Monitoring, measurement, analysis, and
+evaluation
+
+ISO/IEC FDIS 42001 ID: B.6.2.6 | ISO/IEC FDIS 42001: AI system operation and monitoring
+
+ISO/IEC FDIS 42001 ID: B.6.2.8 | ISO/IEC FDIS 42001: AI system recording of event logs"
+"2","MEASURE 2.5","The AI system to be deployed is demonstrated to be valid and reliable. Limitations of the generalizability beyond the conditions under which the technology was ","numbered","","AI RMF ID: Measure 2.5
+
+AI RMF: The AI system to be deployed is
+demonstrated to be valid and reliable.
+Limitations of the generalizability
+beyond the conditions under which
+the technology was developed are
+documented.
+
+ISO/IEC FDIS 42001 ID: B.6.2.4
+
+ISO/IEC FDIS 42001: AI system verification and validation
+
+ISO/IEC FDIS 42001 ID: B.6.2.5 | ISO/IEC FDIS 42001: AI system deployment
+
+ISO/IEC FDIS 42001 ID: B.6.2.7 | ISO/IEC FDIS 42001: AI system technical documentation
+
+ISO/IEC FDIS 42001 ID: B.8.2 | ISO/IEC FDIS 42001: System documentation and information for
+
+ISO/IEC FDIS 42001: users"
+"2","MEASURE 2.6","The AI system is evaluated regularly for safety risks – as identified in the MAP function. The AI system to be deployed is demonstrated to be safe, its residual","numbered","","AI RMF ID: Measure 2.6
+
+AI RMF: The AI system is evaluated regularly
+for safety risks – as identified in the
+MAP function. The AI system to be
+deployed is demonstrated to be safe,
+its residual negative risk does not
+exceed the risk tolerance, and it can
+fail safely, particularly if made to
+operate beyond its knowledge limits.
+Safety metrics reflect system
+reliability and robustness, real-time
+monitoring, and response times for AI
+system failures.
+
+ISO/IEC FDIS 42001 ID: B.6.2.8
+
+ISO/IEC FDIS 42001: AI system recording of event logs
+
+ISO/IEC FDIS 42001 ID: B.6.2.6 | ISO/IEC FDIS 42001: AI system operation and monitoring
+
+ISO/IEC FDIS 42001 ID: B.6.2.4 | ISO/IEC FDIS 42001: AI system verification and validation
+
+ISO/IEC FDIS 42001 ID: 8.2 | ISO/IEC FDIS 42001: AI risk assessment"
+"2","MEASURE 2.7","AI system security and resilience – as identified in the MAP function – are evaluated and documented.","numbered","","AI RMF ID: Measure 2.7
+
+AI RMF: AI system security and resilience – as
+identified in the MAP function – are
+evaluated and documented.
+
+ISO/IEC FDIS 42001 ID: B.7.2
+
+ISO/IEC FDIS 42001: Data for development and enhancement of AI
+system
+
+ISO/IEC FDIS 42001 ID: B.3.2 | ISO/IEC FDIS 42001: AI roles and responsibilities
+
+ISO/IEC FDIS 42001 ID: B.2.3 | ISO/IEC FDIS 42001: Alignment with other organizational policies
+
+ISO/IEC FDIS 42001 ID: B.5.2 | ISO/IEC FDIS 42001: AI system impact assessment process
+
+ISO/IEC FDIS 42001 ID: B.6.1.2 | ISO/IEC FDIS 42001: Objectives for responsible development of AI
+system
+
+ISO/IEC FDIS 42001 ID: B.6.2.3 | ISO/IEC FDIS 42001: Documentation of AI system design and
+development
+
+ISO/IEC FDIS 42001 ID: B.9.3 | ISO/IEC FDIS 42001: Objectives for responsible use of AI system"
+"2","MEASURE 2.8","Risks associated with transparency and accountability – as identified in the MAP function – are examined and documented.","numbered","","AI RMF ID: Measure 2.8
+
+AI RMF: Risks associated with transparency
+and accountability – as identified in
+the MAP function – are examined and
+documented.
+
+ISO/IEC FDIS 42001 ID: B.7.2
+
+ISO/IEC FDIS 42001: Data for development and enhancement of AI
+system
+
+ISO/IEC FDIS 42001 ID: B.5.4 | ISO/IEC FDIS 42001: Assessing AI system impact on individuals and
+groups of individuals
+
+ISO/IEC FDIS 42001 ID: B.5.5 | ISO/IEC FDIS 42001: Assessing societal impacts of AI systems
+
+ISO/IEC FDIS 42001 ID: B.6.1.2 | ISO/IEC FDIS 42001: Objectives for responsible development of AI
+system
+
+ISO/IEC FDIS 42001 ID: B.9.3 | ISO/IEC FDIS 42001: Objectives for responsible use of AI system
+
+ISO/IEC FDIS 42001 ID: 6.1.2 | ISO/IEC FDIS 42001: AI risk assessment"
+"2","MEASURE 2.9","The AI model is explained, validated,","numbered","","AI RMF ID: Measure 2.9
+
+AI RMF: The AI model is explained, validated,
+
+ISO/IEC FDIS 42001 ID: B.7.5
+
+ISO/IEC FDIS 42001: Data provenance
+
+AI RMF: and documented, and AI system
+
+AI RMF: output is interpreted within its
+
+AI RMF: context – as identified in the MAP
+
+AI RMF: function – to inform responsible use
+
+AI RMF: and governance.
+
+ISO/IEC FDIS 42001 ID: B.6.2.5 | ISO/IEC FDIS 42001: AI system deployment
+
+ISO/IEC FDIS 42001 ID: B.6.2.7 | ISO/IEC FDIS 42001: AI system technical documentation
+
+ISO/IEC FDIS 42001 ID: B.8.2 | ISO/IEC FDIS 42001: System documentation and information for
+users"
+"2","MEASURE 2.10","Privacy risk of the AI system – as identified in the MAP function – is","numbered","","AI RMF ID: Measure 2.10
+
+AI RMF: Privacy risk of the AI system – as
+identified in the MAP function – is
+
+ISO/IEC FDIS 42001 ID: B.5.2
+
+ISO/IEC FDIS 42001: AI system impact assessment process
+
+AI RMF: examined and documented.
+
+ISO/IEC FDIS 42001 ID: B.7.2 | ISO/IEC FDIS 42001: Data for development and enhancement of AI
+system
+
+ISO/IEC FDIS 42001 ID: B.7.3 | ISO/IEC FDIS 42001: Acquisition of data
+
+ISO/IEC FDIS 42001 ID: B.2.3 | ISO/IEC FDIS 42001: Alignment with other organizational policies"
+"2","MEASURE 2.11","Fairness and bias – as identified in the","numbered","","AI RMF ID: Measure 2.11
+
+AI RMF: Fairness and bias – as identified in the
+
+ISO/IEC FDIS 42001 ID: B.5.5
+
+ISO/IEC FDIS 42001: Assessing societal impacts of AI systems"
+"2","MAP","function – are evaluated and","numbered","","AI RMF: MAP function – are evaluated and
+
+AI RMF: results are documented.
+
+ISO/IEC FDIS 42001 ID: B.5.4 | ISO/IEC FDIS 42001: Assessing AI system impact on individuals and
+
+ISO/IEC FDIS 42001: groups of individuals"
+"2","MEASURE 2.12","Environmental impact and","numbered","","AI RMF ID: Measure 2.12
+
+AI RMF: Environmental impact and
+
+ISO/IEC FDIS 42001 ID: B.5.5
+
+ISO/IEC FDIS 42001: Assessing societal impacts of AI systems
+
+AI RMF: sustainability of AI model training and
+
+AI RMF: management activities – as identified
+
+AI RMF: in the MAP function – are assessed
+
+AI RMF: and documented.
+
+ISO/IEC FDIS 42001 ID: B.4.5 | ISO/IEC FDIS 42001: System and computing resources"
+"2","MEASURE 2.13","Effectiveness of the employed TEVV","numbered","","AI RMF ID: Measure 2.13
+
+AI RMF: Effectiveness of the employed TEVV
+
+ISO/IEC FDIS 42001 ID: B.6.2.4
+
+ISO/IEC FDIS 42001: AI system verification and validation
+
+AI RMF: metrics and processes in the"
+"2","MEASURE","function are evaluated and","numbered","","AI RMF: MEASURE function are evaluated and
+
+AI RMF: documented.
+
+ISO/IEC FDIS 42001 ID: B.6.2.6 | ISO/IEC FDIS 42001: AI system operation and monitoring"
+"2","MEASURE 3.1","Approaches, personnel, and","numbered","","AI RMF ID: Measure 3.1
+
+AI RMF: Approaches, personnel, and
+
+ISO/IEC FDIS 42001 ID: 8.2
+
+ISO/IEC FDIS 42001: AI risk assessment
+
+AI RMF: documentation are in place to
+
+AI RMF: regularly identify and track existing,
+
+AI RMF: unanticipated, and emergent AI risks
+
+AI RMF: based on factors such as intended and
+
+AI RMF: actual performance in deployed
+
+AI RMF: contexts.
+
+ISO/IEC FDIS 42001 ID: 4.4 | ISO/IEC FDIS 42001: AI management system
+
+ISO/IEC FDIS 42001 ID: 8.4 | ISO/IEC FDIS 42001: AI system impact assessment"
+"2","MEASURE 3.2","Risk tracking approaches are considered for settings where AI risks are difficult to assess using currently available measurement techniques or where metrics ar","numbered","","AI RMF ID: Measure 3.2
+
+AI RMF: Risk tracking approaches are
+considered for settings where AI risks
+are difficult to assess using currently
+available measurement techniques or
+where metrics are not yet available.
+
+ISO/IEC FDIS 42001 ID: B.6.2.8
+
+ISO/IEC FDIS 42001: AI system recording of event logs
+
+ISO/IEC FDIS 42001 ID: B.6.2.6 | ISO/IEC FDIS 42001: AI system operation and monitoring
+
+ISO/IEC FDIS 42001 ID: 10.1 | ISO/IEC FDIS 42001: Continual improvement"
+"2","MEASURE 3.3","Feedback processes for end users and impacted communities to report problems and appeal system outcomes are established and integrated into AI system evaluation","numbered","","AI RMF ID: Measure 3.3
+
+AI RMF: Feedback processes for end users and
+impacted communities to report
+problems and appeal system
+outcomes are established and
+integrated into AI system evaluation
+metrics.
+
+ISO/IEC FDIS 42001 ID: B.8.2
+
+ISO/IEC FDIS 42001: System documentation and information for
+users
+
+ISO/IEC FDIS 42001 ID: B.8.4 | ISO/IEC FDIS 42001: Communication of incidents
+
+ISO/IEC FDIS 42001 ID: B.8.3 | ISO/IEC FDIS 42001: External reporting"
+"2","MEASURE 4.1","Measurement approaches for identifying AI risks are connected to deployment context(s) and informed through consultation with domain experts and other end users","numbered","","AI RMF ID: Measure 4.1
+
+AI RMF: Measurement approaches for
+identifying AI risks are connected to
+deployment context(s) and informed
+through consultation with domain
+experts and other end users.
+Approaches are documented.
+
+ISO/IEC FDIS 42001 ID: B.6.2.4
+
+ISO/IEC FDIS 42001: AI system verification and validation
+
+ISO/IEC FDIS 42001 ID: B.5.4 | ISO/IEC FDIS 42001: Assessing AI system impact on individuals and
+groups of individuals
+
+ISO/IEC FDIS 42001 ID: B.5.5 | ISO/IEC FDIS 42001: Assessing societal impacts of AI systems
+
+ISO/IEC FDIS 42001 ID: 9.1 | ISO/IEC FDIS 42001: Monitoring, measurement, analysis, and
+evaluation"
+"2","MEASURE 4.2","Measurement results regarding AI system trustworthiness in deployment context(s) and across the AI lifecycle are informed by input from domain experts and relev","numbered","","AI RMF ID: Measure 4.2
+
+AI RMF: Measurement results regarding AI
+system trustworthiness in deployment
+context(s) and across the AI lifecycle
+are informed by input from domain
+experts and relevant AI actors to
+validate whether the system is
+performing consistently as intended.
+Results are documented.
+
+ISO/IEC FDIS 42001 ID: 9.1
+
+ISO/IEC FDIS 42001: Monitoring, measurement, analysis, and
+evaluation
+
+ISO/IEC FDIS 42001 ID: B.8.2 | ISO/IEC FDIS 42001: System documentation and information for
+users
+
+ISO/IEC FDIS 42001 ID: 9.2.1 | ISO/IEC FDIS 42001: General
+
+ISO/IEC FDIS 42001 ID: B.8.3 | ISO/IEC FDIS 42001: External reporting"
+"2","MEASURE 4.3","Measurable performance","numbered","","AI RMF ID: Measure 4.3
+
+AI RMF: Measurable performance
+
+ISO/IEC FDIS 42001 ID: 9.3.1
+
+ISO/IEC FDIS 42001: General
+
+AI RMF: improvements or declines based on
+
+AI RMF: consultations with relevant AI actors,
+
+AI RMF: including affected communities, and
+
+AI RMF: field data about context relevant risks
+
+AI RMF: and trustworthiness characteristics
+
+AI RMF: are identified and documented.
+
+ISO/IEC FDIS 42001 ID: B.6.2.6 | ISO/IEC FDIS 42001: AI system operation and monitoring
+
+ISO/IEC FDIS 42001 ID: B.6.2.7 | ISO/IEC FDIS 42001: AI system technical documentation"
+"2","MANAGE 1.1","A determination is made as to","numbered","","AI RMF ID: Manage 1.1
+
+AI RMF: A determination is made as to
+
+ISO/IEC FDIS 42001 ID: B.9.3
+
+ISO/IEC FDIS 42001: Objectives for responsible use of AI system
+
+AI RMF: whether the AI system achieves its
+
+AI RMF: intended purposes and stated
+
+AI RMF: objectives and whether its
+
+AI RMF: development or deployment should
+
+AI RMF: proceed.
+
+ISO/IEC FDIS 42001 ID: B.9.2 | ISO/IEC FDIS 42001: Processes for responsible use of AI systems
+
+ISO/IEC FDIS 42001 ID: B.9.4 | ISO/IEC FDIS 42001: Intended use of the AI system
+
+ISO/IEC FDIS 42001 ID: B.6.1.3 | ISO/IEC FDIS 42001: Processes for responsible design and
+
+ISO/IEC FDIS 42001: development of AI systems
+
+ISO/IEC FDIS 42001 ID: B.6.2.4 | ISO/IEC FDIS 42001: AI system verification and validation
+
+ISO/IEC FDIS 42001 ID: B.6.2.4 | ISO/IEC FDIS 42001: AI system verification and validation"
+"2","MANAGE 1.2","Treatment of documented AI risks is","numbered","","AI RMF ID: Manage 1.2
+
+AI RMF: Treatment of documented AI risks is
+
+ISO/IEC FDIS 42001 ID: 9.3.3
+
+ISO/IEC FDIS 42001: Management review results
+
+AI RMF: prioritized based on impact,
+
+AI RMF: likelihood, and available resources or
+
+AI RMF: methods.
+
+ISO/IEC FDIS 42001 ID: 6.1.2 | ISO/IEC FDIS 42001: AI risk assessment
+
+ISO/IEC FDIS 42001 ID: 6.1.3 | ISO/IEC FDIS 42001: AI risk treatment
+
+ISO/IEC FDIS 42001 ID: 6.1.4 | ISO/IEC FDIS 42001: AI system impact assessment"
+"2","MANAGE 1.3","Responses to the AI risks deemed high","numbered","","AI RMF ID: Manage 1.3
+
+AI RMF: Responses to the AI risks deemed high
+
+ISO/IEC FDIS 42001 ID: 6.1.1
+
+ISO/IEC FDIS 42001: General
+
+AI RMF: priority, as identified by the MAP
+
+AI RMF: function, are developed, planned, and
+
+AI RMF: documented. Risk response options
+
+AI RMF: can include mitigating, transferring,
+
+AI RMF: avoiding, or accepting.
+
+ISO/IEC FDIS 42001 ID: 6.1.2 | ISO/IEC FDIS 42001: AI risk assessment
+
+ISO/IEC FDIS 42001 ID: 6.1.3 | ISO/IEC FDIS 42001: AI risk treatment
+
+ISO/IEC FDIS 42001 ID: 6.1.4 | ISO/IEC FDIS 42001: AI system impact assessment"
+"2","MANAGE 1.4","Negative residual risks (defined as the","numbered","","AI RMF ID: Manage 1.4
+
+AI RMF: Negative residual risks (defined as the
+
+ISO/IEC FDIS 42001 ID: B.5.3
+
+ISO/IEC FDIS 42001: Documentation of AI system impact
+
+AI RMF: sum of all unmitigated risks) to both | ISO/IEC FDIS 42001: assessments
+
+AI RMF: downstream acquirers of AI systems
+
+AI RMF: and end users are documented.
+
+ISO/IEC FDIS 42001 ID: B.5.4 | ISO/IEC FDIS 42001: Assessing AI system impact on individuals and
+
+ISO/IEC FDIS 42001: groups of individuals
+
+ISO/IEC FDIS 42001 ID: B.6.2.7 | ISO/IEC FDIS 42001: AI system technical documentation
+
+ISO/IEC FDIS 42001 ID: B.8.2 | ISO/IEC FDIS 42001: System documentation and information for
+users"
+"2","MANAGE 2.1","Resources required to manage AI risks are taken into account – along with viable non-AI alternative systems, approaches, or methods – to reduce the magnitude or","numbered","","AI RMF ID: Manage 2.1
+
+AI RMF: Resources required to manage AI risks
+are taken into account – along with
+viable non-AI alternative systems,
+approaches, or methods – to reduce
+the magnitude or likelihood of
+potential impacts.
+
+ISO/IEC FDIS 42001 ID: B.4.2
+
+ISO/IEC FDIS 42001: Resource documentation
+
+ISO/IEC FDIS 42001 ID: 7.1 | ISO/IEC FDIS 42001: Resources"
+"2","MANAGE 2.2","Mechanisms are in place and applied to sustain the value of deployed AI systems.","numbered","","AI RMF ID: Manage 2.2
+
+AI RMF: Mechanisms are in place and applied
+to sustain the value of deployed AI
+systems.
+
+ISO/IEC FDIS 42001 ID: B.3.3
+
+ISO/IEC FDIS 42001: Reporting of concerns
+
+ISO/IEC FDIS 42001 ID: B.6.1.2 | ISO/IEC FDIS 42001: Objectives for responsible development of AI
+system
+
+ISO/IEC FDIS 42001 ID: B.6.1.3 | ISO/IEC FDIS 42001: Processes for responsible design and
+
+ISO/IEC FDIS 42001: development of AI systems
+
+ISO/IEC FDIS 42001 ID: B.6.2.4 | ISO/IEC FDIS 42001: AI system verification and validation
+
+ISO/IEC FDIS 42001 ID: B.6.2.6 | ISO/IEC FDIS 42001: AI system operation and monitoring
+
+ISO/IEC FDIS 42001 ID: B.7.2 | ISO/IEC FDIS 42001: Data for development and enhancement of AI
+
+ISO/IEC FDIS 42001: system
+
+ISO/IEC FDIS 42001 ID: 7.1 | ISO/IEC FDIS 42001: Resources
+
+ISO/IEC FDIS 42001 ID: 10.1 | ISO/IEC FDIS 42001: Continual improvement"
+"2","MANAGE 2.3","Procedures are followed to respond to and recover from a previously unknown risk when it is identified.","numbered","","AI RMF ID: Manage 2.3
+
+AI RMF: Procedures are followed to respond
+to and recover from a previously
+unknown risk when it is identified.
+
+ISO/IEC FDIS 42001 ID: 10.2
+
+ISO/IEC FDIS 42001: Nonconformity and corrective action
+
+ISO/IEC FDIS 42001 ID: 6.1.1 | ISO/IEC FDIS 42001: General
+
+ISO/IEC FDIS 42001 ID: 6.1.2 | ISO/IEC FDIS 42001: AI risk assessment
+
+ISO/IEC FDIS 42001 ID: 6.1.3 | ISO/IEC FDIS 42001: AI risk treatment"
+"2","MANAGE 2.4","Mechanisms are in place and applied, and responsibilities are assigned and understood, to supersede, disengage, or deactivate AI systems that demonstrate perfor","numbered","","AI RMF ID: Manage 2.4
+
+AI RMF: Mechanisms are in place and applied,
+and responsibilities are assigned and
+understood, to supersede, disengage,
+or deactivate AI systems that
+demonstrate performance or
+outcomes inconsistent with intended
+use.
+
+ISO/IEC FDIS 42001 ID: B.9.4
+
+ISO/IEC FDIS 42001: Intended use of the AI system
+
+ISO/IEC FDIS 42001 ID: B.8.2 | ISO/IEC FDIS 42001: System documentation and information for
+users
+
+ISO/IEC FDIS 42001 ID: B.6.2.7 | ISO/IEC FDIS 42001: AI system technical documentation
+
+ISO/IEC FDIS 42001 ID: B.6.1.3 | ISO/IEC FDIS 42001: Processes for responsible design and
+
+ISO/IEC FDIS 42001: development of AI systems"
+"2","MANAGE 3.1","AI risks and benefits from third-party resources are regularly monitored, and risk controls are applied and documented.","numbered","","AI RMF ID: Manage 3.1
+
+AI RMF: AI risks and benefits from third-party
+resources are regularly monitored,
+and risk controls are applied and
+documented.
+
+ISO/IEC FDIS 42001 ID: B.10.3
+
+ISO/IEC FDIS 42001: Suppliers
+
+ISO/IEC FDIS 42001 ID: B.10.2 | ISO/IEC FDIS 42001: Allocating responsibilities"
+"2","MANAGE 3.2","Pre-trained models which are used for","numbered","","AI RMF ID: Manage 3.2
+
+AI RMF: Pre-trained models which are used for
+
+ISO/IEC FDIS 42001 ID: B.4.4
+
+ISO/IEC FDIS 42001: Tooling resources
+
+AI RMF: development are monitored as part of
+
+AI RMF: AI system regular monitoring and
+
+AI RMF: maintenance.
+
+ISO/IEC FDIS 42001 ID: B.6.2.6 | ISO/IEC FDIS 42001: AI system operation and monitoring"
+"2","MANAGE 4.1","Post-deployment AI system","numbered","","AI RMF ID: Manage 4.1
+
+AI RMF: Post-deployment AI system
+
+ISO/IEC FDIS 42001 ID: 9.2.1
+
+ISO/IEC FDIS 42001: General
+
+AI RMF: monitoring plans are implemented,
+
+AI RMF: including mechanisms for capturing
+
+AI RMF: and evaluating input from users and
+
+AI RMF: other relevant AI actors, appeal and
+
+AI RMF: override, decommissioning, incident
+
+AI RMF: response, recovery, and change
+
+AI RMF: management.
+
+ISO/IEC FDIS 42001 ID: B.6.2.6 | ISO/IEC FDIS 42001: AI system operation and monitoring
+
+ISO/IEC FDIS 42001 ID: B.8.3 | ISO/IEC FDIS 42001: External reporting
+
+ISO/IEC FDIS 42001 ID: B.10.4 | ISO/IEC FDIS 42001: Customers"
+"2","MANAGE 4.2","Measurable activities for continual","numbered","","AI RMF ID: Manage 4.2
+
+AI RMF: Measurable activities for continual
+
+ISO/IEC FDIS 42001 ID: 9.3.3
+
+ISO/IEC FDIS 42001: Management review results
+
+AI RMF: improvements are integrated into AI
+
+AI RMF: system updates and include regular
+
+AI RMF: engagement with interested parties,
+
+AI RMF: including relevant AI actors.
+
+ISO/IEC FDIS 42001 ID: B.6.2.4 | ISO/IEC FDIS 42001: AI system verification and validation
+
+ISO/IEC FDIS 42001 ID: B.6.2.6 | ISO/IEC FDIS 42001: AI system operation and monitoring"
+"2","MANAGE 4.3","Incidents and errors are","numbered","","AI RMF ID: Manage 4.3
+
+AI RMF: Incidents and errors are
+
+ISO/IEC FDIS 42001 ID: 9.3.2
+
+ISO/IEC FDIS 42001: Management review inputs
+
+AI RMF: communicated to relevant AI actors,
+
+AI RMF: including affected communities.
+
+AI RMF: Processes for tracking, responding to,
+
+AI RMF: and recovering from incidents and
+
+AI RMF: errors are followed and documented.
+
+ISO/IEC FDIS 42001 ID: B.8.5 | ISO/IEC FDIS 42001: Information for interested parties
+
+ISO/IEC FDIS 42001 ID: B.6.2.6 | ISO/IEC FDIS 42001: AI system operation and monitoring"

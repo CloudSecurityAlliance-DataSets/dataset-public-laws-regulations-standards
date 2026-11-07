@@ -1,0 +1,82 @@
+[
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "Google Cloud Well-Architected Framework Stay organized with collections",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Save and categorize content based on your preferences.\n\nLast reviewed 2026-01-28 UTC\n\nTo view all of the content in the Well-Architected Framework on a single page\nor to to get a PDF output of the content, see [View on one\npage](/architecture/framework/printable).\n\nThe Well-Architected Framework provides recommendations to help architects,\ndevelopers, administrators, and other cloud practitioners design and operate a\ncloud topology that's secure, efficient, resilient, high-performing, cost-\neffective, and sustainable.\n\nA cross-functional team of experts at Google validates the recommendations in\nthe Well-Architected Framework. The team curates the Well-Architected\nFramework to reflect the expanding capabilities of Google Cloud, industry best\npractices, community knowledge, and feedback from you. For a summary of the\nsignificant changes to the Well-Architected Framework, see [What's\nnew](/architecture/framework/whats-new).\n\nThe Well-Architected Framework is relevant to applications built for the cloud\n_and_ for workloads migrated from on-premises to Google Cloud, hybrid cloud\ndeployments, and multi-cloud environments."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Well-Architected Framework pillars and perspectives",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "The recommendations in the Well-Architected Framework are organized into\npillars and cross-pillar perspectives, as shown in the following diagram.\n\n![Well-Architected Framework.](/static/architecture/framework/images/af-\ninfographic.svg) ![Well-Architected\nFramework.](/static/architecture/framework/images/af-infographic.svg)\n\n  * A _pillar_ in the Well-Architected Framework provides principles and recommendations for a specific non-functional focus area: security, reliability, performance, cost, operations, or sustainability.\n\n  * A _perspective_ in the Well-Architected Framework is a cross-pillar view of recommendations for a specific technology, domain, or sector. The recommendations in a perspective align with the general principles and recommendations in the pillars.\n\nFor example, the financial services (FS) perspective recommends a disaster\nrecovery strategy that meets regulatory requirements for data residency. This\nFS-specific recommendation aligns with the reliability pillar's principle\nabout realistic targets, because the data residency requirements influence the\nchoice of failover region and, consequently, the recovery objectives."
+  },
+  {
+    "depth": 3,
+    "section_id": "Pillars",
+    "section_name": "Pillars",
+    "id_kind": "goal",
+    "parent_id": "",
+    "body": "construction [Operational excellence](/architecture/framework/operational-\nexcellence)\n\n    Efficiently deploy, operate, monitor, and manage your cloud workloads.\nsecurity [Security, privacy, and compliance](/architecture/framework/security)\n\n    Maximize the security of your data and workloads in the cloud, design for privacy, and align with regulatory requirements and standards.\nrestore [Reliability](/architecture/framework/reliability)\n\n    Design and operate resilient and highly available workloads in the cloud.\npayment [Cost optimization](/architecture/framework/cost-optimization)\n\n    Maximize the business value of your investment in Google Cloud.\nspeed [Performance optimization](/architecture/framework/performance-\noptimization)\n\n    Design and tune your cloud resources for optimal performance.\neco [Sustainability](/architecture/framework/sustainability)\n\n    Build and manage cloud workloads that are environmentally sustainable."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Cross-pillar perspectives",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "saved_search [AI and ML](/architecture/framework/perspectives/ai-ml)\n\n    A cross-pillar view of technology-specific recommendations for AI and ML workloads.\nsaved_search [Financial services](/architecture/framework/perspectives/fsi)\n\n    A cross-pillar view of recommendations for FS workloads."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Core principles",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Before you explore the recommendations in each pillar of the Well-Architected\nFramework, review the following core principles:"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Design for change",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "No system is static. The needs of its users, the goals of the team that builds\nthe system, and the system itself are constantly changing. With the need for\nchange in mind, build a development and production process that enables teams\nto regularly deliver small changes and get fast feedback on those changes.\nConsistently demonstrating the ability to deploy changes helps to build trust\nwith stakeholders, including the teams responsible for the system, and the\nusers of the system. Using [DORA's software delivery\nmetrics](https://dora.dev/guides/dora-metrics-four-keys/) can help your team\nmonitor the speed, ease, and safety of making changes to the system."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Document your architecture",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "When you start to move your workloads to the cloud or build your applications,\nlack of documentation about the system can be a major obstacle. Documentation\nis especially important for correctly visualizing the architecture of your\ncurrent deployments.\n\nQuality documentation isn't achieved by producing a specific amount of\ndocumentation, but by how clear content is, how useful it is, and how it's\nmaintained as the system changes.\n\nA properly documented cloud architecture establishes a common language and\nstandards, which enable cross-functional teams to communicate and collaborate\neffectively. The documentation also provides the information that's necessary\nto identify and guide future design decisions. Documentation should be written\nwith your use cases in mind, to provide context for the design decisions.\n\nOver time, your design decisions will evolve and change. The change history\nprovides the context that your teams require to align initiatives, avoid\nduplication, and measure performance changes effectively over time. Change\nlogs are particularly valuable when you onboard a new cloud architect who is\nnot yet familiar with your current design, strategy, or history.\n\n[Analysis by DORA](https://dora.dev/capabilities/documentation-quality/) has\nfound a clear link between documentation quality and organizational\nperformance — the organization's ability to meet their performance and\nprofitability goals."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Simplify your design and use fully managed services",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Simplicity is crucial for design. If your architecture is too complex to\nunderstand, it will be difficult to implement the design and manage it over\ntime. Where feasible, use fully managed services to minimize the risks, time,\nand effort associated with managing and maintaining baseline systems.\n\nIf you're already running your workloads in production, test with managed\nservices to see how they might help to reduce operational complexities. If\nyou're developing new workloads, then start simple, establish a minimal viable\nproduct (MVP), and resist the urge to over-engineer. You can identify\nexceptional use cases, iterate, and improve your systems incrementally over\ntime."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Decouple your architecture",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "[Research from DORA](https://dora.dev/capabilities/loosely-coupled-teams/)\nshows that architecture is an important predictor for achieving continuous\ndelivery. Decoupling is a technique that's used to separate your applications\nand service components into smaller components that can operate independently.\nFor example, you might separate a monolithic application stack into individual\nservice components. In a loosely coupled architecture, an application can run\nits functions independently, regardless of the various dependencies.\n\nA decoupled architecture gives you increased flexibility to do the following:\n\n  * Apply independent upgrades.\n  * Enforce specific security controls.\n  * Establish reliability goals for each subsystem.\n  * Monitor health.\n  * Granularly control performance and cost parameters.\n\nYou can start the decoupling process early in your design phase or incorporate\nit as part of your system upgrades as you scale."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Use a stateless architecture",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "A stateless architecture can increase both the reliability and scalability of\nyour applications.\n\nStateful applications rely on various dependencies to perform tasks, such as\nlocal caching of data. Stateful applications often require additional\nmechanisms to capture progress and restart gracefully. Stateless applications\ncan perform tasks without significant local dependencies by using shared\nstorage or cached services. A stateless architecture enables your applications\nto scale up quickly with minimum boot dependencies. The applications can\nwithstand hard restarts, have lower downtime, and provide better performance\nfor end users.\n\nSend feedback\n\nExcept as otherwise noted, the content of this page is licensed under the\n[Creative Commons Attribution 4.0\nLicense](https://creativecommons.org/licenses/by/4.0/), and code samples are\nlicensed under the [Apache 2.0\nLicense](https://www.apache.org/licenses/LICENSE-2.0). For details, see the\n[Google Developers Site Policies](https://developers.google.com/site-\npolicies). Java is a registered trademark of Oracle and/or its affiliates.\n\nLast updated 2026-01-28 UTC.\n\nNeed to tell us more?  [[[\"Easy to understand\",\"easyToUnderstand\",\"thumb-\nup\"],[\"Solved my problem\",\"solvedMyProblem\",\"thumb-\nup\"],[\"Other\",\"otherUp\",\"thumb-up\"]],[[\"Hard to\nunderstand\",\"hardToUnderstand\",\"thumb-down\"],[\"Incorrect information or sample\ncode\",\"incorrectInformationOrSampleCode\",\"thumb-down\"],[\"Missing the\ninformation/samples I need\",\"missingTheInformationSamplesINeed\",\"thumb-\ndown\"],[\"Other\",\"otherDown\",\"thumb-down\"]],[\"Last updated 2026-01-28\nUTC.\"],[],[]]\n\n  * ### Products and pricing\n\n    * [ See all products ](//cloud.google.com/products/)\n    * [ Google Cloud pricing ](//cloud.google.com/pricing/)\n    * [ Google Cloud Marketplace ](//cloud.google.com/marketplace/)\n    * [ Contact sales ](//cloud.google.com/contact/)\n  * ### Support\n\n    * [ Community forums ](//discuss.google.dev/c/google-cloud/14/)\n    * [ Support ](//cloud.google.com/support-hub/)\n    * [ Release Notes ](//docs.cloud.google.com/release-notes)\n    * [ System status ](//status.cloud.google.com)\n  * ### Resources\n\n    * [ GitHub ](//github.com/googlecloudPlatform/)\n    * [ Getting Started with Google Cloud ](/docs/get-started/)\n    * [ Code samples ](/docs/samples)\n    * [ Cloud Architecture Center ](/architecture/)\n    * [ Training and Certification ](//cloud.google.com/learn/training/)\n  * ### Engage\n\n    * [ Blog ](//cloud.google.com/blog/)\n    * [ Events ](//cloud.google.com/events/)\n    * [ X (Twitter) ](//x.com/googlecloud)\n    * [ Google Cloud on YouTube ](//www.youtube.com/googlecloud)\n    * [ Google Cloud Tech on YouTube ](//www.youtube.com/googlecloudplatform)\n\n  * [ About Google ](//about.google/)\n  * [ Privacy ](//policies.google.com/privacy)\n  * [ Site terms ](//policies.google.com/terms?hl=en)\n  * [ Google Cloud terms ](//cloud.google.com/product-terms)\n  * [ Manage cookies ](#)\n  * [ Our third decade of climate action: join us ](//cloud.google.com/sustainability)\n  * Sign up for the Google Cloud newsletter [ Subscribe ](//cloud.google.com/newsletter/)\n\n  * English\n  * Deutsch\n  * Español\n  * Español – América Latina\n  * Français\n  * Indonesia\n  * Italiano\n  * Português\n  * Português – Brasil\n  * עברית\n  * 中文 – 简体\n  * 中文 – 繁體\n  * 日本語\n  * 한국어"
+  }
+]

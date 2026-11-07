@@ -1,0 +1,90 @@
+[
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "\"AI risk management is a key component of responsible development and use of AI systems. Responsible AI practices can he",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF: \"AI risk management is a key\ncomponent of responsible\ndevelopment and use of AI systems.\nResponsible AI practices can help align\nthe decisions about AI system design,\ndevelopment, and uses with intended\naim and values. Core concepts in\nresponsible AI emphasize human\ncentricity, social responsibility, and\nsustainability. AI risk management can\ndrive responsible uses and practices by\nprompting organizations and their\ninternal teams who design, develop,\nand deploy AI to think more critically\nabout context and potential or\nunexpected negative and positive\nimpacts. Understanding and managing\nthe risks of AI systems will help to\nenhance trustworthiness, and in turn,\ncultivate public trust.\" ([1] page 1)."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Valid and Reliable",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF – Characteristics of Trustworthy AI Systems\n(Section 3): Valid and Reliable\n\nISO/IEC 5339 - Trustworthiness (5.5.2) (mostly derived from ISO/IEC 24028 [5]): 5.5.2.9, 5.5.2.3,\n5.5.2.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Safe",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF – Characteristics of Trustworthy AI Systems\n(Section 3): Safe\n\nISO/IEC 5339 - Trustworthiness (5.5.2) (mostly derived from ISO/IEC 24028 [5]): –"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Secure and Resilient",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF – Characteristics of Trustworthy AI Systems\n(Section 3): Secure\nand Resilient\n\nISO/IEC 5339 - Trustworthiness (5.5.2) (mostly derived from ISO/IEC 24028 [5]): 5.5.2.4"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Accountable and Transparent",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF – Characteristics of Trustworthy AI Systems\n(Section 3): Accountable\nand Transparent\n\nISO/IEC 5339 - Trustworthiness (5.5.2) (mostly derived from ISO/IEC 24028 [5]): 5.5.2.8"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Explainable and Interpretable",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF – Characteristics of Trustworthy AI Systems\n(Section 3): Explainable\nand Interpretable\n\nISO/IEC 5339 - Trustworthiness (5.5.2) (mostly derived from ISO/IEC 24028 [5]): 5.5.2.6"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Privacy-Enhanced",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF – Characteristics of Trustworthy AI Systems\n(Section 3): Privacy-Enhanced\n\nISO/IEC 5339 - Trustworthiness (5.5.2) (mostly derived from ISO/IEC 24028 [5]): –"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Fair - with Harmful Bias Managed",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF – Characteristics of Trustworthy AI Systems\n(Section 3): Fair -\nwith Harmful Bias Managed\n\nISO/IEC 5339 - Trustworthiness (5.5.2) (mostly derived from ISO/IEC 24028 [5]): 5.5.2.10"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "–",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF – Characteristics of Trustworthy AI Systems\n(Section 3): –\n\nISO/IEC 5339 - Trustworthiness (5.5.2) (mostly derived from ISO/IEC 24028 [5]): Controllability (5.5.2.7)"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "–",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF – Characteristics of Trustworthy AI Systems\n(Section 3): –\n\nISO/IEC 5339 - Trustworthiness (5.5.2) (mostly derived from ISO/IEC 24028 [5]): Predictability (5.5.2.7)"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "–",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "AI RMF – Characteristics of Trustworthy AI Systems\n(Section 3): –\n\nISO/IEC 5339 - Trustworthiness (5.5.2) (mostly derived from ISO/IEC 24028 [5]): Dependable\n(5.5.2.1)"
+  }
+]

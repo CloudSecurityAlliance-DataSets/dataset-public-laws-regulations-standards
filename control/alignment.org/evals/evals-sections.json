@@ -1,0 +1,154 @@
+[
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "[Task-Completion Time Horizons of Frontier AI Models __ We propose",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "measuring AI performance in terms of the length of software tasks AI agents\ncan complete. We show an exponential increase in this time horizon metric over\nthe past 6 years. ](/time-horizons/)\n\n[Read paper ](https://arxiv.org/abs/2503.14499) [View repo\n![](/assets/images/github.svg)](https://github.com/METR/eval-analysis-public)"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Featured Research",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Our AI evaluations research focuses on assessing broad autonomous capabilities\nand the ability of AI systems to accelerate AI R&D. We also study potential AI\nbehavior that threatens the integrity of evaluations and mitigations for such\nbehavior.\n\n[View all research __](/research)\n\n  * [General](#research-for-the-public)\n  * [Technical](#research-for-researchers)\n  * [Policy](#research-for-policy-researchers)\n  * [View all research __](/research)\n\n![Measuring the Self-Reported Impact of Early-2026 AI on Technical Worker\nProductivity](/assets/images/ai-usage-survey/headline.png)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Measuring the Self-Reported Impact of Early-2026 AI on Technical Worker",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Productivity\n\nA survey of 349 technical workers finds a median 1.4–2x self-reported change\nin value of work due to AI tools, expected to grow over time, though there are\nreasons to be skeptical of the magnitude.\n\n[Read more __](/blog/2026-05-11-ai-usage-survey/)\n\n![Early Work on Monitorability Evaluations](/assets/images/monitorability-\npost/time_horizon_ratio_non_visible_reasoning.png)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Early Work on Monitorability Evaluations",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "We show preliminary results on a prototype evaluation that tests monitors'\nability to catch AI agents doing side tasks, and AI agents' ability to bypass\nthis monitoring.\n\n[Read more __](/blog/2026-01-19-early-work-on-monitorability-evaluations/)\n\n![How Does Time Horizon Vary Across Domains?](/assets/images/time-horizon-\ndomains/time-horizons-increasing.png)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "How Does Time Horizon Vary Across Domains?",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "We build on our time-horizon work and analyze 9 benchmarks for scientific\nreasoning, math, robotics, computer use, and self-driving in terms of time-\nhorizon trends; we observe generally similar rates of improvement to the\n7-month doubling time in our original time-horizon work.\n\n[Read more __](/blog/2025-07-14-how-does-time-horizon-vary-across-domains/)\n\n![MALT](/assets/images/malt-post/overall_dataset.png)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "MALT",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "A dataset of natural and prompted examples of behaviors that threaten\nevaluation integrity, like generalized reward hacking or sandbagging\n\n[Read more __](/blog/2025-10-14-malt-dataset-of-natural-and-prompted-\nbehaviors/)\n\n![Hawk](/assets/images/hawk.png)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Hawk",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Our open-source platform for running AI agent evaluations at scale, built upon\nInspect AI\n\n[Read more __](https://hawk.metr.org/)\n\n![](/assets/images/logo/logo.svg)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Measuring autonomous AI capabilities — resource collection",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "An index of our research and guidance on how to measure AI systems' ability to\nautonomously complete a wide range of multi-hour tasks\n\n[Read more __](/measuring-autonomous-AI-capabilities)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Common Elements of Frontier AI Safety Policies",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "An analysis of the shared components across twelve published frontier AI\nsafety policies, including capability thresholds, model weight security, and\ndeployment mitigations\n\n[Read more __](/common-elements) [PDF __](common-elements.pdf)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Frontier AI Safety Policies",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "A list of AI companies' frontier safety policies intended to evaluate and\nmanage severe AI risks\n\n[Read more __](/fsp)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "What should companies share about risks from frontier AI models?",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "We describe areas for risk transparency and specific technical questions that\na frontier AI developer could answer.\n\n[Read more __](/blog/2025-06-27-risk-transparency/)"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Risk Assessment",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Our work assessing risks from frontier AI systems — including the Frontier\nRisk Report, independent reviews of AI developers' risk assessments, and\ncapability evaluations of frontier models."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "[Frontier Risk Report (Feb–Mar 2026) 19 May 2026 •",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Partnership  ](/blog/2026-05-19-frontier-risk-report/) [ ![Review of Anthropic\nRisk Report: February 2026 § Risks from automated R&D\nlogo](/assets/images/logo-anthropic.svg) Review of Anthropic Risk Report:\nFebruary 2026 § Risks from automated R&D 8 May 2026 •\nPartnership  ](/blog/2026-05-08-rd-section-anthropic-risk-report-\nfeb-2026-review/) [ ![Red-Teaming Anthropic's Internal Agent Monitoring\nSystems logo](/assets/images/logo-anthropic.svg) Red-Teaming Anthropic's\nInternal Agent Monitoring Systems 26 March 2026 •\nPartnership  ](/blog/2026-03-25-red-teaming-anthropic-agent-monitoring/) [\n![Review of the Anthropic Sabotage Risk Report: Claude Opus 4.6\nlogo](/assets/images/logo-anthropic.svg) Review of the Anthropic Sabotage Risk\nReport: Claude Opus 4.6 12 March 2026 •\nPartnership  ](/blog/2026-03-12-sabotage-risk-report-opus-4-6-review/) [\n![Review of the Anthropic Summer 2025 Pilot Sabotage Risk Report\nlogo](/assets/images/logo-anthropic.svg) Review of the Anthropic Summer 2025\nPilot Sabotage Risk Report 28 October 2025 •\nPartnership  ](/blog/2025-10-28-sabotage-report-review/) [ ![Summary of our\ngpt-oss methodology review logo](/assets/images/logo-openai.svg) Summary of\nour gpt-oss methodology review 23 October 2025 •\nPartnership  ](/blog/2025-10-23-gpt-oss-methodology-review/) [\n![GPT-5.1-Codex-Max logo](/assets/images/logo-openai.svg) GPT-5.1-Codex-Max 19\nNovember 2025 •\nPartnership  ](/evaluations/gpt-5-1-codex-max-report/) [ ![GPT-5\nlogo](/assets/images/logo-openai.svg) GPT-5 7 August 2025 •\nPartnership  ](/evaluations/gpt-5-report/) ### [DeepSeek and Qwen 27 June 2025\n•\nNo company involvement  ](/evaluations/deepseek-qwen-report/) [ ![OpenAI o3\nand o4-mini logo](/assets/images/logo-openai.svg) OpenAI o3 and o4-mini 16\nApril 2025 •\nPartnership  ](/evaluations/openai-o3-report/) [ ![Claude 3.7\nlogo](/assets/images/logo-anthropic.svg) Claude 3.7 4 April 2025 •\nPartnership  ](/evaluations/claude-3-7-report/) ### [DeepSeek-R1 5 March 2025\n•\nNo company involvement  ](/evaluations/deepseek-r1-report/) [ ![GPT-4.5\nlogo](/assets/images/logo-openai.svg) GPT-4.5 27 February 2025 •\nPartnership  ](https://metr.org/blog/2025-02-27-gpt-4-5-evals/) ###\n[DeepSeek-V3 12 February 2025 •\nNo company involvement  ](/evaluations/deepseek-v3-report/) [ ![Claude 3.5\nSonnet and o1 logo](/assets/images/logo-anthropic.svg) ![Claude 3.5 Sonnet and\no1 logo](/assets/images/logo-openai.svg) Claude 3.5 Sonnet and o1 31 January\n2025 •\nPartnership  ](https://metr.org/blog/2025-01-31-update-sonnet-o1-evals/) [\n![Claude 3.5 Sonnet (original) logo](/assets/images/logo-anthropic.svg)\nClaude 3.5 Sonnet (original) 30 October 2024 •\nPartnership  ](/evaluations/claude-3-5-sonnet-report/) [ ![o1-preview\nlogo](/assets/images/logo-openai.svg) o1-preview 12 September 2024 •\nPartnership  ](/evaluations/openai-o1-preview-report/) [ ![GPT-4o\nlogo](/assets/images/logo-openai.svg) GPT-4o 7 August 2024 •\nPartnership  ](/evaluations/gpt-4o-report/) [ ![GPT-4 and Claude\nlogo](/assets/images/logo-openai.svg) ![GPT-4 and Claude\nlogo](/assets/images/logo-anthropic.svg) GPT-4 and Claude 17 March 2023 •\nPartnership  ](https://metr.org/blog/2023-03-18-update-on-recent-evals/)\n\n[View all evaluation reports](#)\n\nMETR does not accept compensation for this work.\n\nCompanies such as OpenAI and Anthropic have provided access and compute\ncredits to support evaluation research. We also occasionally evaluate models\nindependently after they are released, without involvement from the model's\ndevelopers. Recent public reports resulting from this work are above, with\nadditional discussion in the respective system cards."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Frontier AI Safety Policies",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "We advise AI developers and governments on implementing risk assessment\nmethodologies for AI. For example, we have advised developers on Frontier AI\nSafety Policies.\n\n[Resources on FSPs](/fsp)\n\n[ ![Deepmind logo](/assets/images/logo-deepmind.svg) Google\n](https://storage.googleapis.com/deepmind-\nmedia/DeepMind.com/Blog/strengthening-our-frontier-safety-framework/frontier-\nsafety-framework_3-1.pdf)\n\n[ ![OpenAI logo](/assets/images/logo-openai.svg) OpenAI\n](https://cdn.openai.com/pdf/18a02b5d-6b67-4cec-\nab64-68cdfbddebcd/preparedness-framework-v2.pdf)\n\n[ ![Anthropic logo](/assets/images/logo-anthropic.svg) Anthropic\n](https://www.anthropic.com/responsible-scaling-policy)"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "METR in the press",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "[ 17 April 2026 __ ![The New York Times](/assets/images/media-\nlogos/NewYorkTimes.svg) ](https://www.nytimes.com/2026/04/17/technology/how-\ndo-you-measure-an-ai-boom.html) [ 5 February 2026 __ ![MIT Technology\nReview](/assets/images/media-logos/mit_technology_review.svg)\n](https://www.technologyreview.com/2026/02/05/1132254/this-is-the-most-\nmisunderstood-graph-in-ai/) [ 8 August 2025 __ ![The\nEconomist](/assets/images/media-logos/the_economist.svg)\n](https://www.economist.com/science-and-technology/2025/08/08/openais-latest-\nstep-towards-advanced-artificial-intelligence) [ 21 July 2025 __ ![NBC\nNews](/assets/images/media-logos/nbc.svg)\n](https://www.nbcnews.com/tech/innovation/ai-fuels-tech-job-cuts-efficiency-\nquestions-workers-rcna219364) [ 20 July 2025 __\n![Fortune](/assets/images/media-logos/fortune.svg)\n](https://fortune.com/2025/07/20/ai-hampers-productivity-software-developers-\nproductivity-study/) [ 15 July 2025 __ ![Axios](/assets/images/media-\nlogos/axios.svg) ](https://www.axios.com/2025/07/15/ai-coding-productivity-\nstudy) [ 14 July 2025 __ ![Ars Technica](/assets/images/media-\nlogos/ars_technica.svg) ](https://arstechnica.com/ai/2025/07/study-finds-ai-\ntools-made-open-source-software-developers-19-percent-slower/) [ 11 July 2025\n__ ![CNBC](/assets/images/media-logos/cnbc.png)\n](https://www.youtube.com/watch?v=WP4Ird7jZoA) [ 11 July 2025 __\n![TechCrunch](/assets/images/media-logos/techcrunch.svg)\n](https://techcrunch.com/2025/07/11/ai-coding-tools-may-not-speed-up-every-\ndeveloper-study-shows/) [ 11 July 2025 __ ![Business\nInsider](/assets/images/media-logos/business_insider.svg)\n](https://www.businessinsider.com/ai-coding-tools-may-decrease-productivity-\nexperienced-software-engineers-study-2025-7) [ 11 July 2025 __ ![The\nRegister](/assets/images/media-logos/the_register.svg)\n](https://www.theregister.com/2025/07/11/ai_code_tools_slow_down/) [ 10 July\n2025 __ ![Reuters](/assets/images/media-logos/reuters.svg)\n](https://www.reuters.com/business/ai-slows-down-some-experienced-software-\ndevelopers-study-finds-2025-07-10/) [ 10 July 2025 __ ![U.S.\nNews](/assets/images/media-logos/us_news.svg)\n](https://money.usnews.com/investing/news/articles/2025-07-10/ai-slows-down-\nsome-experienced-software-developers-study-finds) [ 2 July 2025 __ ![IEEE\nSpectrum](/assets/images/media-logos/ieee_spectrum.svg)\n](https://spectrum.ieee.org/llm-benchmarking-metr) [ 28 March 2025 __\n![Financial Times](/assets/images/media-logos/financial_times.png)\n](https://www.ft.com/content/471b5eba-2a71-4650-a019-e8d4065b78a0) [ 19 March\n2025 __ ![Nature](/assets/images/media-logos/nature.svg)\n](https://www.nature.com/articles/d41586-025-00831-8) [ 21 March 2024 __\n![Time](/assets/images/media-logos/time.svg)\n](https://time.com/6958868/artificial-intelligence-safety-evaluations-risks/)\n\n[View all press coverage](#)"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Recent",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "[ Frontier Risk Report (February to March 2026)  19 May 2026  A pilot\nassessment of rogue deployment risk at frontier AI companies. Starting in\nFebruary 2026, METR conducted a pilot exercise to assess misalignment risks\nfrom AI agents used inside frontier AI developers, with participation from\nAnthropic, Google, Meta, and OpenAI. Read more __ ![Frontier Risk Report\n(February to March 2026)](/assets/images/frontier-risk-\nreport/incidents_scatter_regions.png) ](/blog/2026-05-19-frontier-risk-\nreport/)\n\n[ Measuring the Self-Reported Impact of Early-2026 AI on Technical Worker\nProductivity  11 May 2026  A survey of 349 technical workers finds a median\n1.4–2x self-reported change in value of work due to AI tools, expected to grow\nover time, though there are reasons to be skeptical of the magnitude. Read\nmore __ ![Measuring the Self-Reported Impact of Early-2026 AI on Technical\nWorker Productivity](/assets/images/ai-usage-survey/headline.png)\n](/blog/2026-05-11-ai-usage-survey/)\n\n[ Review of the \"Risks from automated R&D\" section in the Anthropic Risk\nReport (February 2026)  8 May 2026  External review from METR of the \"Risks\nfrom automated R&D\" section in Anthropic's February 2026 Risk Report Read more\n__ ![](/assets/images/logo/logo.svg) ](/blog/2026-05-08-rd-section-anthropic-\nrisk-report-feb-2026-review/)\n\n[ Task Substitution and Uplift  8 May 2026  We distinguish three measures of\nAI uplift -- on old tasks, on new tasks, and in value -- and show that task\nsubstitution can cause these to diverge substantially. Read more __ ![Task\nSubstitution and Uplift](/assets/images/task-substitution-uplift/fig-\nsimple-1.png) ](/blog/2026-05-08-task-substitution-and-uplift/)\n\n[ Evidence on AI R&D Progress from NanoGPT  21 April 2026  Classifying human\nand agent contributions to the NanoGPT speedrun, and what publicly tracked\nchallenges can tell us about AI R&D acceleration. Read more __ ![Evidence on\nAI R&D Progress from NanoGPT](/assets/images/ai-rd-nanogpt-\nprogress/timeline_provenance.png) ](/notes/2026-04-21-ai-rd-nanogpt-progress/)\n\n[ MirrorCode: Evidence that AI can already do some weeks-long coding tasks  10\nApril 2026  Read more __ ![MirrorCode: Evidence that AI can already do some\nweeks-long coding\ntasks](/assets/images/blog_thumbnails/mirrorcode_thumbnail.png)\n](/blog/2026-04-10-mirrorcode-preliminary-results/)\n\n[ ![METR Logo](/assets/images/gen/home/evals-logo-slideable.svg) ](/)\n\nMETR (pronounced 'meter') is a research nonprofit that scientifically measures\nwhether and when AI systems might threaten catastrophic harm to society.\n\nSubscribe"
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "Research",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "* [Research](/research)\n  * [Notes](/notes)\n  * [Updates](/blog)"
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "Follow METR",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "* [ Substack Substack](https://metr.substack.com)\n  * [ twitter X (Twitter)](https://x.com/METR_Evals)\n  * [ LinkedIn](https://www.linkedin.com/company/metr-evals/)\n  * [ GitHub](https://github.com/METR/)"
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "Company",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "* [About Us](/about)\n  * [Careers](/careers)\n  * [Donate](/donate)\n\n© 2026 METR. All rights reserved."
+  }
+]

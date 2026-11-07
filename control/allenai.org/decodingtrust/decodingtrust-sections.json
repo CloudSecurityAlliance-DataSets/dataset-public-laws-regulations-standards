@@ -1,0 +1,58 @@
+[
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "DecodingTrust",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Comprehensive Assessment of Trustworthiness in GPT Models",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "What is DecodingTrust?",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "DecodingTrust aims at providing a thorough assessment of trustworthiness in\nGPT models.\n\nThis research endeavor is designed to help researchers and practitioners\nbetter understand the capabilities, limitations, and potential risks involved\nin deploying these state-of-the-art Large Language Models (LLMs).\n\nThis project is organized around the following eight primary perspectives of\ntrustworthiness, including:\n\n  * Toxicity\n  * Stereotype and bias\n  * Adversarial robustness\n  * Out-of-Distribution Robustness\n  * Privacy\n  * Robustness to Adversarial Demonstrations\n  * Machine Ethics\n  * Fairness\n\n\n![Our paper received the Outstanding Paper Award at\nNeurIPS'23.](crown.png)**_Our paper received the Outstanding Paper Award at\nNeurIPS'23._**\n![Our paper received the Outstanding Paper Award at\nNeurIPS'23.](crown.png)**_Our paper received the Best Scientific Cybersecurity\nPaper Award by National Security Agency'24._**"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Trustworthiness Perspectives",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "⚠️ WARNING: our data contains model outputs that may be considered offensive.\n\n\n\nDecodingTrust aims to provide a comprehensive trustworthiness evaluation on\nthe recent large language model GPT-4, in comparison to GPT-3.5, from\ndifferent perspectives, including toxicity, stereotype bias, adversarial\nrobustness, out-of-distribution robustness, robustness on adversarial\ndemonstrations, privacy, machine ethics, and fairness under different\nsettings.\n\n\n![Examples of unreliable responses of GPT-4 from different trustworthiness\nperspectives. GPT-4 can generate undesirable or unreliable content given\nbenign system prompts.](overview.png)"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Getting Started",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "We have built a few resources to help you get started with the dataset.\n\nExplore our dataset (distributed under the [CC BY-SA\n4.0](http://creativecommons.org/licenses/by-sa/4.0/legalcode) license):\n\n  * [dataset](https://github.com/AI-secure/DecodingTrust)\n\nTo evaluate your models, we have also made available the evaluation script for\ndifferent facets of trustworthiness. To replicate our evaluation, go the\ncorresponding subdirectories for detailed evaluation scripts.\n\n  * [Toxicity ](https://github.com/AI-secure/DecodingTrust/tree/main/src/dt/perspectives/toxicity)\n  * [Stereotype ](https://github.com/AI-secure/DecodingTrust/tree/main/src/dt/perspectives/stereotype)\n  * [Adversarial Robustness ](https://github.com/AI-secure/DecodingTrust/tree/main/src/dt/perspectives/advglue)\n  * [Out-of-distribution Robustness ](https://github.com/AI-secure/DecodingTrust/tree/main/src/dt/perspectives/ood)\n  * [Robustness against Adversarial Demonstrations ](https://github.com/AI-secure/DecodingTrust/tree/main/src/dt/perspectives/adv_demonstration)\n  * [Privacy ](https://github.com/AI-secure/DecodingTrust/tree/main/src/dt/perspectives/privacy)\n  * [Machine Ethics ](https://github.com/AI-secure/DecodingTrust/tree/main/src/dt/perspectives/machine_ethics)\n  * [Fairness ](https://github.com/AI-secure/DecodingTrust/tree/main/src/dt/perspectives/fairness)\n\nWhile our evaluation mainly focuses on GPT-3.5 and GPT-4, once you have a\nbuilt a model that works to your expectations, you can also submit the mode\ngenerations and their corresponding scores via submitting pull requests in\nGitHub. Because DecodingTrust is an ongoing effort, we expect the dataset to\nevolve."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Have Questions?",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Ask us questions at [boxinw2@illinois.edu](mailto:boxinw2@illinois.edu)."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Acknowledgements",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "We thank the [SQuAD team](https://rajpurkar.github.io/SQuAD-explorer/) for\nallowing us to use their website template and submission tutorials.\n\n  * [DecodingTrust](/)\n  * [UIUC Secure Learning Lab](https://aisecure.github.io/)\n  * [Microsoft Research](https://www.microsoft.com/en-us/research/)"
+  }
+]

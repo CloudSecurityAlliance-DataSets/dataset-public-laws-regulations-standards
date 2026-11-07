@@ -1,0 +1,1384 @@
+"depth","section_id","section_name","id_kind","parent_id","body"
+"2","","Topic","","","Column 1: Topic
+
+Column 2: Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor
+the comparative analysis of this crosswalk"
+"2","","NIST AI RMF References","","","Column 1: NIST AI RMF
+References
+
+Column 2: NIST AI RMF subcategories linked to each topic by the Playbook"
+"2","","Japan AI GfB References","","","Column 1: Japan AI GfB
+References
+
+Column 2: Japan AI GfB sections (including appendices4
+) identified by Japan as
+addressing the topic"
+"2","","Notable Similarities & DiƯerences","","","Column 1: Notable
+Similarities &
+DiƯerences
+
+Column 2: Observations on how the NIST AI RMF and the Japan AI GfB align or diƯer on
+the treatment of each topic5"
+"2","GOVERN 1.2","Accountability","numbered","","NIST AI RMF 1.0 References: Govern 1.2
+
+Topic: Accountability
+
+Japan AI GfB References: Main:
+
+Notable Similarities & Differences: No differences noted."
+"2","MAP 1.1","and Transparency","numbered","","NIST AI RMF 1.0 References: Map 1.1
+
+Topic: and Transparency
+
+Japan AI GfB References: Part 2.C.6"
+"2","MAP 3.2","MAP 3.2","numbered","","NIST AI RMF 1.0 References: Map 3.2
+
+Japan AI GfB References: Part 2.C.7"
+"2","MEASURE 1.1","MEASURE 1.1","numbered","","NIST AI RMF 1.0 References: Measure 1.1
+
+Japan AI GfB References: Part 2.D.III"
+"2","MEASURE 2.8","MEASURE 2.8","numbered","","NIST AI RMF 1.0 References: Measure 2.8
+
+Japan AI GfB References: Part 2.D.XI"
+"2","MEASURE 4.2","MEASURE 4.2","numbered","","NIST AI RMF 1.0 References: Measure 4.2
+
+Japan AI GfB References: Part 2.E.3"
+"2","MEASURE 4.3","MEASURE 4.3","numbered","","NIST AI RMF 1.0 References: Measure 4.3
+
+Japan AI GfB References: Appendix:
+
+Japan AI GfB References: Appendix 2.A.1-1
+
+Japan AI GfB References: Appendix 2.A.3-4-1
+
+Japan AI GfB References: Appendix 2.A.4-1
+
+Japan AI GfB References: Appendix 2.A.4-3
+
+Japan AI GfB References: Appendix 3.A.D-2.ii
+
+Japan AI GfB References: Appendix 3.A.D-6.i
+
+Japan AI GfB References: Appendix 3.A.D-6.ii
+
+Japan AI GfB References: Appendix 3.A.D-7.i
+
+Japan AI GfB References: Appendix 3.A.D-7.ii
+
+Japan AI GfB References: Appendix 3.B.1
+
+Japan AI GfB References: Appendix 3.B.6
+
+Japan AI GfB References: Appendix 3.B.7
+
+Japan AI GfB References: Appendix 3.C.I
+
+Japan AI GfB References: Appendix 3.C.III
+
+Japan AI GfB References: Appendix 3.C.IV
+
+Japan AI GfB References: Appendix 3.C.XI
+
+Japan AI GfB References: Appendix 4.A.P-4.i
+
+Japan AI GfB References: Appendix 4.A.P-7.i
+
+Japan AI GfB References: Appendix 4.B.6
+
+Japan AI GfB References: Appendix 6.3"
+"2","GOVERN 4.1","Adversarial","numbered","","NIST AI RMF 1.0 References: Govern 4.1
+
+Topic: Adversarial
+
+Japan AI GfB References: Appendix:
+
+Notable Similarities & Differences: Both the NIST AI RMF and the"
+"2","MANAGE 4.1","MANAGE 4.1","numbered","","NIST AI RMF 1.0 References: Manage 4.1
+
+Japan AI GfB References: Appendix 4.A.P-5.ii
+
+Notable Similarities & Differences: Japan AI GfB highlight the"
+"2","MEASURE 2.7","MEASURE 2.7","numbered","","NIST AI RMF 1.0 References: Measure 2.7
+
+Japan AI GfB References: Appendix 5.A.U-5.i
+
+Notable Similarities & Differences: significance of considering
+
+Notable Similarities & Differences: adversarial attacks as a
+
+Notable Similarities & Differences: potential risk to AI system
+
+Notable Similarities & Differences: vulnerabilities. In addition, the
+
+Notable Similarities & Differences: NIST AI RMF emphasizes the
+
+Notable Similarities & Differences: importance of adversarial
+
+Notable Similarities & Differences: testing by red teaming as a
+
+Notable Similarities & Differences: suggested approach for risk
+
+Notable Similarities & Differences: management."
+"2","MANAGE 1.1","AI Deployment","numbered","","NIST AI RMF 1.0 References: Manage 1.1
+
+Topic: AI Deployment
+
+Japan AI GfB References: Main:
+
+Notable Similarities & Differences: Both the NIST AI RMF and the"
+"2","MANAGE 2.2","MANAGE 2.2","numbered","","NIST AI RMF 1.0 References: Manage 2.2
+
+Japan AI GfB References: Part 2.D.I
+
+Notable Similarities & Differences: Japan AI GfB emphasize the"
+"2","MANAGE 4.1","MANAGE 4.1","numbered","","NIST AI RMF 1.0 References: Manage 4.1
+
+Japan AI GfB References: Part 2.D.II
+
+Notable Similarities & Differences: importance of regular
+
+Notable Similarities & Differences: monitoring and mechanisms
+
+Japan AI GfB References: Appendix: | Notable Similarities & Differences: to sustain the value of AI
+
+Japan AI GfB References: Appendix 3.A.D-2.i | Notable Similarities & Differences: systems post-deployment. In
+
+Japan AI GfB References: Appendix 3.A.D-2.ii | Notable Similarities & Differences: addition, the Japan AI GfB
+
+Japan AI GfB References: Appendix 3.A.D-5.i | Notable Similarities & Differences: suggests incentives for
+
+Japan AI GfB References: Appendix 3.A.D-5.ii | Notable Similarities & Differences: reporting post-deployment
+
+Japan AI GfB References: Appendix 3.A.D-6.ii | Notable Similarities & Differences: issues."
+"2","GOVERN 4.3","AI Incidents","numbered","","NIST AI RMF 1.0 References: Govern 4.3
+
+Topic: AI Incidents
+
+Japan AI GfB References: Main:
+
+Notable Similarities & Differences: No differences noted."
+"2","MANAGE 4.1","MANAGE 4.1","numbered","","NIST AI RMF 1.0 References: Manage 4.1
+
+Japan AI GfB References: Part 2.D.II"
+"2","MANAGE 4.3","MANAGE 4.3","numbered","","NIST AI RMF 1.0 References: Manage 4.3
+
+Japan AI GfB References: Part 2.D.IV
+
+Japan AI GfB References: Appendix:
+
+Japan AI GfB References: Appendix 2.A.1-1
+
+Japan AI GfB References: Appendix 2.A.1-2
+
+Japan AI GfB References: Appendix 2.A.2-1
+
+Japan AI GfB References: Appendix 2.A.3-1
+
+Japan AI GfB References: Appendix 2.A.3-2
+
+Japan AI GfB References: Appendix 2.A.3-3-2
+
+Japan AI GfB References: Appendix 2.A.3-4
+
+Japan AI GfB References: Appendix 2.A.3-4-2
+
+Japan AI GfB References: Appendix 2.A.4-1
+
+Japan AI GfB References: Appendix 2.A.5-1
+
+Japan AI GfB References: Appendix 2.A.6-1
+
+Japan AI GfB References: Appendix 3.A.D-2.iii
+
+Japan AI GfB References: Appendix 3.A.D-5.i
+Appendix 3.A.D-5.ii
+
+Japan AI GfB References: Appendix 3.A.D-6.ii
+
+Japan AI GfB References: Appendix 3.A.D-7.ii
+
+Japan AI GfB References: Appendix 4.A.P-2.i
+
+Japan AI GfB References: Appendix 4.A.P-2.ii
+
+Japan AI GfB References: Appendix 4.A.P-6.i
+
+Japan AI GfB References: Appendix 4.A.P-5.ii
+
+Japan AI GfB References: Appendix 4.A.P-6.ii
+
+Japan AI GfB References: Appendix 4.A.P-7.ii
+
+Japan AI GfB References: Appendix 4.B.2
+
+Japan AI GfB References: Appendix 5.A.U-2.i"
+"2","MEASURE 3.3","Contestability","numbered","","NIST AI RMF 1.0 References: Measure 3.3
+
+Topic: Contestability
+
+Japan AI GfB References: Main:
+
+Notable Similarities & Differences: No differences noted.
+
+Japan AI GfB References: Part 2.C.6
+
+Japan AI GfB References: Appendix:
+
+Japan AI GfB References: Appendix 2.A.1-2
+
+Japan AI GfB References: Appendix 2.A.3-1
+
+Japan AI GfB References: Appendix 2.A.3-3-1
+
+Japan AI GfB References: Appendix 2.A.3-3-2
+
+Japan AI GfB References: Appendix 2.A.3-4-1
+
+Japan AI GfB References: Appendix 2.A.5-2
+
+Japan AI GfB References: Appendix 2.A.6-1
+
+Japan AI GfB References: Appendix 3.A.D-6.ii
+
+Japan AI GfB References: Appendix 3.B.7
+
+Japan AI GfB References: Appendix 4.B.6"
+"2","MAP 1.1","Context of Use","numbered","","NIST AI RMF 1.0 References: Map 1.1
+
+Topic: Context of Use
+
+Japan AI GfB References: Main:
+
+Notable Similarities & Differences: No differences noted."
+"2","MAP 1.4","MAP 1.4","numbered","","NIST AI RMF 1.0 References: Map 1.4
+
+Japan AI GfB References: Part 2.C.1"
+"2","MAP 3.3","MAP 3.3","numbered","","NIST AI RMF 1.0 References: Map 3.3
+
+Japan AI GfB References: Part 2.D.II"
+"2","MEASURE 1.2","MEASURE 1.2","numbered","","NIST AI RMF 1.0 References: Measure 1.2"
+"2","MEASURE 1.3","MEASURE 1.3","numbered","","NIST AI RMF 1.0 References: Measure 1.3
+
+Japan AI GfB References: Appendix:"
+"2","MEASURE 2.6","MEASURE 2.6","numbered","","NIST AI RMF 1.0 References: Measure 2.6
+
+Japan AI GfB References: Appendix 3.A.D-3.ii"
+"2","MEASURE 4.1","MEASURE 4.1","numbered","","NIST AI RMF 1.0 References: Measure 4.1
+
+Japan AI GfB References: Appendix 3.A.D-7.ii
+
+Japan AI GfB References: Appendix 3.B.1
+
+Japan AI GfB References: Appendix 3.B.6
+
+Japan AI GfB References: Appendix 4.A.P-6.ii
+
+Japan AI GfB References: Appendix 4.B.1
+
+Japan AI GfB References: Appendix 4.B.6
+
+Japan AI GfB References: Appendix 5.A.U-2.i
+
+Japan AI GfB References: Appendix 5.A.U-3.i
+
+Japan AI GfB References: Appendix 5.A.U-6.i"
+"2","MEASURE 3.1","Continual","numbered","","NIST AI RMF 1.0 References: Measure 3.1
+
+Topic: Continual
+
+Japan AI GfB References: Main:
+
+Notable Similarities & Differences: No differences noted."
+"2","MEASURE 3.2","Improvement","numbered","","NIST AI RMF 1.0 References: Measure 3.2
+
+Topic: Improvement
+
+Japan AI GfB References: Part 2.E.4
+
+Japan AI GfB References: Appendix:
+
+Japan AI GfB References: Appendix 2.A.3-1
+
+Japan AI GfB References: Appendix 2.A.5-1"
+"2","GOVERN 1.5","Continuous","numbered","","NIST AI RMF 1.0 References: Govern 1.5
+
+Topic: Continuous
+
+Japan AI GfB References: Main:
+
+Notable Similarities & Differences: No differences noted."
+"2","MANAGE 3.2","Monitoring","numbered","","NIST AI RMF 1.0 References: Manage 3.2
+
+Topic: Monitoring
+
+Japan AI GfB References: Part 2.C.2"
+"2","MANAGE 4.1","MANAGE 4.1","numbered","","NIST AI RMF 1.0 References: Manage 4.1
+
+Japan AI GfB References: Part 2.D.II"
+"2","MANAGE 4.2","MANAGE 4.2","numbered","","NIST AI RMF 1.0 References: Manage 4.2
+
+Japan AI GfB References: Part 2.D.IV"
+"2","MANAGE 4.3","MANAGE 4.3","numbered","","NIST AI RMF 1.0 References: Manage 4.3
+
+Japan AI GfB References: Part 2.E.4"
+"2","MEASURE 2.4","MEASURE 2.4","numbered","","NIST AI RMF 1.0 References: Measure 2.4"
+"2","MEASURE 3.1","MEASURE 3.1","numbered","","NIST AI RMF 1.0 References: Measure 3.1
+
+Japan AI GfB References: Appendix:"
+"2","MEASURE 3.2","MEASURE 3.2","numbered","","NIST AI RMF 1.0 References: Measure 3.2
+
+Japan AI GfB References: Appendix 2.A.3-3
+
+Japan AI GfB References: Appendix 2.A.4-2
+
+Japan AI GfB References: Appendix 2.A.5-1
+
+Japan AI GfB References: Appendix 2.A.6-1
+
+Japan AI GfB References: Appendix 3.A.D-3.i
+
+Japan AI GfB References: Appendix 3.A.D-3.ii
+
+Japan AI GfB References: Appendix 3.A.D-5.
+
+Japan AI GfB References: Appendix 3.B.1
+
+Japan AI GfB References: Appendix 3.B.7
+
+Japan AI GfB References: Appendix 4.A.P-6.ii
+
+Japan AI GfB References: Appendix 4.B.6"
+"2","GOVERN 1.7","Decommission","numbered","","NIST AI RMF 1.0 References: Govern 1.7
+
+Topic: Decommission
+
+Japan AI GfB References: Appendix:
+
+Notable Similarities & Differences: The NIST AI RMF emphasizes"
+"2","MANAGE 2.4","MANAGE 2.4","numbered","","NIST AI RMF 1.0 References: Manage 2.4
+
+Japan AI GfB References: Appendix 5.A.U-7.i
+
+Notable Similarities & Differences: the importance of establishing
+
+Japan AI GfB References: Appendix 5.A.U-7.ii | Notable Similarities & Differences: mechanisms and
+
+Notable Similarities & Differences: responsibilities for safely
+
+Notable Similarities & Differences: decommissioning AI systems,
+
+Notable Similarities & Differences: while the Japan AI GfB focuses
+
+Notable Similarities & Differences: on the necessary disclosure of
+
+Notable Similarities & Differences: information to stakeholders
+
+Notable Similarities & Differences: following the end of AI systems
+
+Notable Similarities & Differences: and services use."
+"2","GOVERN 3.1","Diversity and","numbered","","NIST AI RMF 1.0 References: Govern 3.1
+
+Topic: Diversity and
+
+Japan AI GfB References: Main:
+
+Notable Similarities & Differences: Both the NIST AI RMF and the"
+"2","MAP 1.2","Interdisciplinarity","numbered","","NIST AI RMF 1.0 References: Map 1.2
+
+Topic: Interdisciplinarity
+
+Japan AI GfB References: Part 2.C.1
+
+Notable Similarities & Differences: Japan AI GfB focus on the
+
+Japan AI GfB References: Part 2.C.3 | Notable Similarities & Differences: importance of diversity of AI
+
+Japan AI GfB References: Part 2.C.7 | Notable Similarities & Differences: actors in the mapping,
+
+Notable Similarities & Differences: measuring, and managing of AI
+
+Japan AI GfB References: Appendix: | Notable Similarities & Differences: risks throughout the lifecycle.
+
+Japan AI GfB References: Appendix 2.A.1-2 | Notable Similarities & Differences: In addition, the NIST AI RMF
+
+Japan AI GfB References: Appendix 3.B.1 | Notable Similarities & Differences: emphasizes the importance of
+
+Japan AI GfB References: Appendix 4.B.1 | Notable Similarities & Differences: including interdisciplinary
+
+Japan AI GfB References: Appendix 5.B.1 | Notable Similarities & Differences: expertise from AI actors."
+"2","GOVERN 1.4","Documentation","numbered","","NIST AI RMF 1.0 References: Govern 1.4
+
+Topic: Documentation
+
+Japan AI GfB References: Main:
+
+Notable Similarities & Differences: No differences noted."
+"2","GOVERN 1.6","GOVERN 1.6","numbered","","NIST AI RMF 1.0 References: Govern 1.6
+
+Japan AI GfB References: Part 2.C.7"
+"2","MAP 1.6","MAP 1.6","numbered","","NIST AI RMF 1.0 References: Map 1.6
+
+Japan AI GfB References: Part 2.D.II"
+"2","MAP 2.2","MAP 2.2","numbered","","NIST AI RMF 1.0 References: Map 2.2
+
+Japan AI GfB References: Part 2.D.III"
+"2","MAP 3.1","MAP 3.1","numbered","","NIST AI RMF 1.0 References: Map 3.1"
+"2","MAP 3.3","MAP 3.3","numbered","","NIST AI RMF 1.0 References: Map 3.3
+
+Japan AI GfB References: Appendix:"
+"2","MEASURE 2.1","MEASURE 2.1","numbered","","NIST AI RMF 1.0 References: Measure 2.1
+
+Japan AI GfB References: Appendix 2.A.1-1
+
+Japan AI GfB References: Appendix 2.A.3-3-1
+
+Japan AI GfB References: Appendix 3.A.D-5.i
+
+Japan AI GfB References: Appendix 3.A.D-7.i
+
+Japan AI GfB References: Appendix 3.A.D-7.ii
+
+Japan AI GfB References: Appendix 3.C.I
+
+Japan AI GfB References: Appendix 3.C.II
+
+Japan AI GfB References: Appendix 3.C.III
+
+Japan AI GfB References: Appendix 3.C.IV
+
+Japan AI GfB References: Appendix 4.A.P-6.i
+
+Japan AI GfB References: Appendix 4.A.P-7.ii
+
+Japan AI GfB References: Appendix 4.B.6"
+"2","GOVERN 4.3","Drift","numbered","","NIST AI RMF 1.0 References: Govern 4.3
+
+Topic: Drift
+
+Japan AI GfB References: Appendix:
+
+Notable Similarities & Differences: Both the NIST AI RMF and the"
+"2","MANAGE 2.2","MANAGE 2.2","numbered","","NIST AI RMF 1.0 References: Manage 2.2
+
+Japan AI GfB References: Appendix 3.A.D-2.i
+
+Notable Similarities & Differences: Japan AI GfB state the possible"
+"2","MEASURE 2.4","MEASURE 2.4","numbered","","NIST AI RMF 1.0 References: Measure 2.4
+
+Japan AI GfB References: Appendix 3.A.D-6.i
+
+Notable Similarities & Differences: risk of drift in AI systems. In
+
+Japan AI GfB References: Appendix 3.A.D-7.i | Notable Similarities & Differences: addition, the NIST AI RMF
+
+Notable Similarities & Differences: emphasizes the importance of
+
+Notable Similarities & Differences: a regular monitoring process
+
+Notable Similarities & Differences: to detect and respond to drift."
+"2","MEASURE 2.13","Effectiveness","numbered","","NIST AI RMF 1.0 References: Measure 2.13
+
+Topic: Effectiveness
+
+Japan AI GfB References: Main:
+
+Notable Similarities & Differences: No differences noted.
+
+Japan AI GfB References: Part 2.E.4
+
+Japan AI GfB References: Appendix:
+
+Japan AI GfB References: Appendix 2.A.3-1
+
+Japan AI GfB References: Appendix 4.B.6"
+"2","MEASURE 2.12","Environmental","numbered","","NIST AI RMF 1.0 References: Measure 2.12
+
+Topic: Environmental
+
+Japan AI GfB References: Main:
+
+Notable Similarities & Differences: No differences noted.
+
+Topic: Impact | Japan AI GfB References: Part 2.C.1
+
+Japan AI GfB References: Part 2.C.2
+
+Japan AI GfB References: Appendix:
+
+Japan AI GfB References: Appendix 2.A.1-1
+
+Japan AI GfB References: Appendix 2.A.1-2
+
+Japan AI GfB References: Appendix 3.A.D-2.ii
+
+Japan AI GfB References: Appendix 3.B.1
+
+Japan AI GfB References: Appendix 3.C.VIII
+
+Japan AI GfB References: Appendix 4.A.P-2.i
+
+Japan AI GfB References: Appendix 4.B.1
+
+Japan AI GfB References: Appendix 4.B.2
+
+Japan AI GfB References: Appendix 5.B.2"
+"2","GOVERN 1.2","Explainability and","numbered","","NIST AI RMF 1.0 References: Govern 1.2
+
+Topic: Explainability and
+
+Japan AI GfB References: Main:
+
+Notable Similarities & Differences: No differences noted."
+"2","MAP 1.1","Interpretability","numbered","","NIST AI RMF 1.0 References: Map 1.1
+
+Topic: Interpretability
+
+Japan AI GfB References: Part 2.C.6"
+"2","MAP 3.2","MAP 3.2","numbered","","NIST AI RMF 1.0 References: Map 3.2"
+"2","MEASURE 1.1","MEASURE 1.1","numbered","","NIST AI RMF 1.0 References: Measure 1.1
+
+Japan AI GfB References: Appendix:"
+"2","MEASURE 2.9","MEASURE 2.9","numbered","","NIST AI RMF 1.0 References: Measure 2.9
+
+Japan AI GfB References: Appendix 3.A.D-6.i"
+"2","MEASURE 4.2","MEASURE 4.2","numbered","","NIST AI RMF 1.0 References: Measure 4.2
+
+Japan AI GfB References: Appendix 3.B.6"
+"2","MEASURE 4.3","MEASURE 4.3","numbered","","NIST AI RMF 1.0 References: Measure 4.3
+
+Japan AI GfB References: Appendix 3.C.I
+
+Japan AI GfB References: Appendix 4.A.P-6.i
+
+Japan AI GfB References: Appendix 4.B.3
+
+Japan AI GfB References: Appendix 4.B.6
+
+Japan AI GfB References: Appendix 5.A.U-6.i
+
+Japan AI GfB References: Appendix 5.B.3"
+"2","GOVERN 1.2","Fairness and Bias","numbered","","NIST AI RMF 1.0 References: Govern 1.2
+
+Topic: Fairness and Bias
+
+Japan AI GfB References: Main:
+
+Notable Similarities & Differences: No differences noted."
+"2","GOVERN 4.3","GOVERN 4.3","numbered","","NIST AI RMF 1.0 References: Govern 4.3
+
+Japan AI GfB References: Part 2.C.1"
+"2","MAP 1.1","MAP 1.1","numbered","","NIST AI RMF 1.0 References: Map 1.1
+
+Japan AI GfB References: Part 2.C.3"
+"2","MAP 3.2","MAP 3.2","numbered","","NIST AI RMF 1.0 References: Map 3.2
+
+Japan AI GfB References: Part 2.C.7"
+"2","MEASURE 1.1","MEASURE 1.1","numbered","","NIST AI RMF 1.0 References: Measure 1.1
+
+Japan AI GfB References: Part 2.D.XI"
+"2","MEASURE 2.11","MEASURE 2.11","numbered","","NIST AI RMF 1.0 References: Measure 2.11
+
+Japan AI GfB References: Part 2.E.3"
+"2","MEASURE 4.2","MEASURE 4.2","numbered","","NIST AI RMF 1.0 References: Measure 4.2"
+"2","MEASURE 4.3","MEASURE 4.3","numbered","","NIST AI RMF 1.0 References: Measure 4.3
+
+Japan AI GfB References: Appendix:
+
+Japan AI GfB References: Appendix 2.A.1-1
+
+Japan AI GfB References: Appendix 2.A.1-3
+
+Japan AI GfB References: Appendix 2.A.3-1
+
+Japan AI GfB References: Appendix 2.A.3-3-2
+
+Japan AI GfB References: Appendix 2.A.4-2
+
+Japan AI GfB References: Appendix 3.A.D-3.i
+
+Japan AI GfB References: Appendix 3.A.D-3.ii
+
+Japan AI GfB References: Appendix 3.A.D-6.ii
+
+Japan AI GfB References: Appendix 3.A.D-7.i
+
+Japan AI GfB References: Appendix 3.B.1
+
+Japan AI GfB References: Appendix 3.C.I
+
+Japan AI GfB References: Appendix 3.C.III
+
+Japan AI GfB References: Appendix 4.A.P-3.i
+
+Japan AI GfB References: Appendix 4.A.P-5.i
+
+Japan AI GfB References: Appendix 4.A.P-6.ii
+
+Japan AI GfB References: Appendix 4.B.1
+
+Japan AI GfB References: Appendix 4.B.3
+
+Japan AI GfB References: Appendix 5.A.U-3.i
+
+Japan AI GfB References: Appendix 5.A.U-6.i
+
+Japan AI GfB References: Appendix 5.A.U-7.i
+
+Japan AI GfB References: Appendix 5.B.1
+
+Japan AI GfB References: Appendix 5.B.3
+
+Japan AI GfB References: Appendix 5.B.8"
+"2","GOVERN 1.1","Governance","numbered","","NIST AI RMF 1.0 References: Govern 1.1
+
+Topic: Governance
+
+Japan AI GfB References: Main:
+
+Notable Similarities & Differences: No differences noted."
+"2","GOVERN 1.2","GOVERN 1.2","numbered","","NIST AI RMF 1.0 References: Govern 1.2
+
+Japan AI GfB References: Part 2.C.7"
+"2","GOVERN 1.3","GOVERN 1.3","numbered","","NIST AI RMF 1.0 References: Govern 1.3
+
+Japan AI GfB References: Part 2.D.V"
+"2","GOVERN 1.4","GOVERN 1.4","numbered","","NIST AI RMF 1.0 References: Govern 1.4
+
+Japan AI GfB References: Part 2.E"
+"2","GOVERN 1.5","GOVERN 1.5","numbered","","NIST AI RMF 1.0 References: Govern 1.5"
+"2","GOVERN 1.6","GOVERN 1.6","numbered","","NIST AI RMF 1.0 References: Govern 1.6
+
+Japan AI GfB References: Appendix:"
+"2","GOVERN 1.7","GOVERN 1.7","numbered","","NIST AI RMF 1.0 References: Govern 1.7
+
+Japan AI GfB References: Appendix 2"
+"2","GOVERN 2.1","GOVERN 2.1","numbered","","NIST AI RMF 1.0 References: Govern 2.1
+
+Japan AI GfB References: Appendix 3.A.D-2.ii"
+"2","GOVERN 2.2","GOVERN 2.2","numbered","","NIST AI RMF 1.0 References: Govern 2.2
+
+Japan AI GfB References: Appendix 3.A.D-6.ii"
+"2","GOVERN 2.3","GOVERN 2.3","numbered","","NIST AI RMF 1.0 References: Govern 2.3
+
+Japan AI GfB References: Appendix 3.B.1"
+"2","GOVERN 3.1","GOVERN 3.1","numbered","","NIST AI RMF 1.0 References: Govern 3.1
+
+Japan AI GfB References: Appendix 3.B.7"
+"2","GOVERN 3.2","GOVERN 3.2","numbered","","NIST AI RMF 1.0 References: Govern 3.2
+
+Japan AI GfB References: Appendix 3.C.V"
+"2","GOVERN 4.1","GOVERN 4.1","numbered","","NIST AI RMF 1.0 References: Govern 4.1
+
+Japan AI GfB References: Appendix 4.A.P-6.ii"
+"2","GOVERN 4.2","GOVERN 4.2","numbered","","NIST AI RMF 1.0 References: Govern 4.2
+
+Japan AI GfB References: Appendix 4.B.8"
+"2","GOVERN 4.3","GOVERN 4.3","numbered","","NIST AI RMF 1.0 References: Govern 4.3
+
+Japan AI GfB References: Appendix 5.B.8"
+"2","GOVERN 5.1","GOVERN 5.1","numbered","","NIST AI RMF 1.0 References: Govern 5.1"
+"2","GOVERN 5.2","GOVERN 5.2","numbered","","NIST AI RMF 1.0 References: Govern 5.2"
+"2","GOVERN 6.1","GOVERN 6.1","numbered","","NIST AI RMF 1.0 References: Govern 6.1"
+"2","GOVERN 6.2","GOVERN 6.2","numbered","","NIST AI RMF 1.0 References: Govern 6.2"
+"2","GOVERN 3.2","Human Oversight","numbered","","NIST AI RMF 1.0 References: Govern 3.2
+
+Topic: Human Oversight
+
+Japan AI GfB References: Main:
+
+Notable Similarities & Differences: No differences noted."
+"2","MAP 2.2","MAP 2.2","numbered","","NIST AI RMF 1.0 References: Map 2.2
+
+Japan AI GfB References: Part 2.C.2"
+"2","MAP 3.5","MAP 3.5","numbered","","NIST AI RMF 1.0 References: Map 3.5
+
+Japan AI GfB References: Part 2.C.3
+
+Japan AI GfB References: Part 2.C.7
+
+Japan AI GfB References: Appendix:
+
+Japan AI GfB References: Appendix 3.A.D-3.i
+
+Japan AI GfB References: Appendix 3.A.D-2.ii
+
+Japan AI GfB References: Appendix 3.A.D-3.ii
+
+Japan AI GfB References: Appendix 3.B.1
+
+Japan AI GfB References: Appendix 4.A.P-2.i
+
+Japan AI GfB References: Appendix 4.B.3
+
+Japan AI GfB References: Appendix 5.A.U-3.i
+
+Japan AI GfB References: Appendix 5.A.U-7.i
+
+Japan AI GfB References: Appendix 5.B.3"
+"2","MEASURE 2.2","Human Subjects","numbered","","NIST AI RMF 1.0 References: Measure 2.2
+
+Topic: Human Subjects
+
+Japan AI GfB References: Main:
+
+Notable Similarities & Differences: No differences noted.
+
+Topic: Protection | Japan AI GfB References: Part 2.C.1
+
+Japan AI GfB References: Part 2.C.2
+
+Japan AI GfB References: Part 2.C.4
+
+Japan AI GfB References: Appendix:
+
+Japan AI GfB References: Appendix 3.A.D-2.i
+
+Japan AI GfB References: Appendix 3.A.D-2.ii
+
+Japan AI GfB References: Appendix 3.B.1
+
+Japan AI GfB References: Appendix 3.B.4
+
+Japan AI GfB References: Appendix 3.C.VIII
+
+Japan AI GfB References: Appendix 4.A.P-2.i
+
+Japan AI GfB References: Appendix 4.A.P-4.i
+
+Japan AI GfB References: Appendix 4.A.P-4.ii
+Appendix 4.B.1
+
+Japan AI GfB References: Appendix 4.B.2
+
+Japan AI GfB References: Appendix 5.A.U-4.i
+
+Japan AI GfB References: Appendix 5.B.1
+
+Japan AI GfB References: Appendix 5.B.2"
+"2","GOVERN 3.2","Human-AI","numbered","","NIST AI RMF 1.0 References: Govern 3.2
+
+Topic: Human-AI
+
+Japan AI GfB References: Main:
+
+Notable Similarities & Differences: No differences noted."
+"2","MAP 3.4","Teaming","numbered","","NIST AI RMF 1.0 References: Map 3.4
+
+Topic: Teaming
+
+Japan AI GfB References: Part 2.C.1
+
+Japan AI GfB References: Appendix:
+
+Japan AI GfB References: Appendix 3.A.D-3.i
+
+Japan AI GfB References: Appendix 3.B.1
+
+Japan AI GfB References: Appendix 3.B.8
+
+Japan AI GfB References: Appendix 4.A.P-2.ii
+
+Japan AI GfB References: Appendix 4.A.P-7.i
+
+Japan AI GfB References: Appendix 4.B.1
+
+Japan AI GfB References: Appendix 4.B.2
+
+Japan AI GfB References: Appendix 4.B.8
+
+Japan AI GfB References: Appendix 5.A.U-2.i
+
+Japan AI GfB References: Appendix 5.B.1
+
+Japan AI GfB References: Appendix 5.B.2
+
+Japan AI GfB References: Appendix 5.B.8"
+"2","GOVERN 4.2","Impact","numbered","","NIST AI RMF 1.0 References: Govern 4.2
+
+Topic: Impact
+
+Japan AI GfB References: Main:
+
+Notable Similarities & Differences: No differences noted."
+"2","GOVERN 4.3","Assessment","numbered","","NIST AI RMF 1.0 References: Govern 4.3
+
+Topic: Assessment
+
+Japan AI GfB References: Part 2.C.6"
+"2","GOVERN 5.1","GOVERN 5.1","numbered","","NIST AI RMF 1.0 References: Govern 5.1"
+"2","GOVERN 5.2","GOVERN 5.2","numbered","","NIST AI RMF 1.0 References: Govern 5.2
+
+Japan AI GfB References: Appendix:"
+"2","MANAGE 4.2","MANAGE 4.2","numbered","","NIST AI RMF 1.0 References: Manage 4.2
+
+Japan AI GfB References: Appendix 2.A.3-1"
+"2","MAP 1.1","MAP 1.1","numbered","","NIST AI RMF 1.0 References: Map 1.1
+
+Japan AI GfB References: Appendix 3.B.4"
+"2","MAP 1.6","MAP 1.6","numbered","","NIST AI RMF 1.0 References: Map 1.6
+
+Japan AI GfB References: Appendix 3.B.6"
+"2","MAP 2.2","MAP 2.2","numbered","","NIST AI RMF 1.0 References: Map 2.2
+
+Japan AI GfB References: Appendix 3.C.I"
+"2","MAP 2.3","MAP 2.3","numbered","","NIST AI RMF 1.0 References: Map 2.3
+
+Japan AI GfB References: Appendix 3.C.III"
+"2","MAP 3.2","MAP 3.2","numbered","","NIST AI RMF 1.0 References: Map 3.2
+
+Japan AI GfB References: Appendix 4.A.P-6.ii"
+"2","MAP 5.1","MAP 5.1","numbered","","NIST AI RMF 1.0 References: Map 5.1"
+"2","MAP 5.2","MAP 5.2","numbered","","NIST AI RMF 1.0 References: Map 5.2"
+"2","MEASURE 1.2","MEASURE 1.2","numbered","","NIST AI RMF 1.0 References: Measure 1.2"
+"2","MEASURE 1.3","MEASURE 1.3","numbered","","NIST AI RMF 1.0 References: Measure 1.3"
+"2","MEASURE 2.3","MEASURE 2.3","numbered","","NIST AI RMF 1.0 References: Measure 2.3"
+"2","MEASURE 3.3","MEASURE 3.3","numbered","","NIST AI RMF 1.0 References: Measure 3.3"
+"2","GOVERN 1.1","Legal and","numbered","","NIST AI RMF 1.0 References: Govern 1.1
+
+Topic: Legal and
+
+Japan AI GfB References: Main:
+
+Notable Similarities & Differences: No differences noted."
+"2","GOVERN 6.1","Regulatory","numbered","","NIST AI RMF 1.0 References: Govern 6.1
+
+Topic: Regulatory
+
+Japan AI GfB References: Part 2.E.5"
+"2","MANAGE 1.3","MANAGE 1.3","numbered","","NIST AI RMF 1.0 References: Manage 1.3"
+"2","MAP 4.1","MAP 4.1","numbered","","NIST AI RMF 1.0 References: Map 4.1
+
+Japan AI GfB References: Appendix:
+
+Japan AI GfB References: Appendix 2.A.1-2
+
+Japan AI GfB References: Appendix 2.A.3-3
+
+Japan AI GfB References: Appendix 2.A.6-1
+
+Japan AI GfB References: Appendix 4.A.P-5.i
+
+Japan AI GfB References: Appendix 4.A.P-6.ii"
+"2","MAP 2.2","Limitations","numbered","","NIST AI RMF 1.0 References: Map 2.2
+
+Topic: Limitations
+
+Japan AI GfB References: Main:
+
+Notable Similarities & Differences: No differences noted."
+"2","MAP 2.3","MAP 2.3","numbered","","NIST AI RMF 1.0 References: Map 2.3
+
+Japan AI GfB References: Part 2.C.1
+
+Japan AI GfB References: Part 2.C.6
+
+Japan AI GfB References: Part 2.D.III
+
+Japan AI GfB References: Appendix:
+
+Japan AI GfB References: Appendix 2.A.3-3"
+"2","MANAGE 3.2","Pre-trained","numbered","","NIST AI RMF 1.0 References: Manage 3.2
+
+Topic: Pre-trained
+
+Japan AI GfB References: Appendix:
+
+Notable Similarities & Differences: The NIST AI RMF emphasizes"
+"2","MAP 4.1","Models","numbered","","NIST AI RMF 1.0 References: Map 4.1
+
+Topic: Models
+
+Japan AI GfB References: Appendix 3.B.4
+
+Notable Similarities & Differences: pre-trained models are to be"
+"2","MAP 4.2","MAP 4.2","numbered","","NIST AI RMF 1.0 References: Map 4.2
+
+Japan AI GfB References: Appendix 4.A.P-5.ii
+
+Notable Similarities & Differences: monitored due to concerns
+
+Notable Similarities & Differences: about privacy, bias, security,
+
+Notable Similarities & Differences: unanticipated effects,
+
+Notable Similarities & Differences: increased statistical
+
+Notable Similarities & Differences: uncertainty, difficulty with
+
+Notable Similarities & Differences: reproducibility, and issues
+
+Notable Similarities & Differences: with scientific validity. The
+
+Notable Similarities & Differences: NIST AI RMF also emphasizes
+
+Notable Similarities & Differences: identifying and documenting
+
+Notable Similarities & Differences: internal risk controls for
+
+Notable Similarities & Differences: evaluating third-party
+
+Notable Similarities & Differences: technologies to manage
+
+Notable Similarities & Differences: potential risks with pre-trained
+
+Notable Similarities & Differences: models. The Japan AI GfB
+
+Notable Similarities & Differences: expands on the security issue
+
+Notable Similarities & Differences: by stating the importance of
+
+Notable Similarities & Differences: using model reliability
+
+Notable Similarities & Differences: measures, learning
+
+Notable Similarities & Differences: mechanisms, traditional
+
+Notable Similarities & Differences: security measures against
+
+Notable Similarities & Differences: vulnerabilities, and detection,
+
+Notable Similarities & Differences: prevention, and removal of
+
+Notable Similarities & Differences: poisoning of pre-trained
+
+Notable Similarities & Differences: models."
+"2","GOVERN 1.2","Privacy","numbered","","NIST AI RMF 1.0 References: Govern 1.2
+
+Topic: Privacy
+
+Japan AI GfB References: Main:
+
+Notable Similarities & Differences: No differences noted."
+"2","MAP 1.1","MAP 1.1","numbered","","NIST AI RMF 1.0 References: Map 1.1
+
+Japan AI GfB References: Part 2.C.4"
+"2","MAP 3.2","MAP 3.2","numbered","","NIST AI RMF 1.0 References: Map 3.2
+
+Japan AI GfB References: Part 2.C.6"
+"2","MEASURE 1.1","MEASURE 1.1","numbered","","NIST AI RMF 1.0 References: Measure 1.1
+
+Japan AI GfB References: Part 2.C.7"
+"2","MEASURE 2.10","MEASURE 2.10","numbered","","NIST AI RMF 1.0 References: Measure 2.10
+
+Japan AI GfB References: Part 2.D.V"
+"2","MEASURE 4.2","MEASURE 4.2","numbered","","NIST AI RMF 1.0 References: Measure 4.2"
+"2","MEASURE 4.3","MEASURE 4.3","numbered","","NIST AI RMF 1.0 References: Measure 4.3
+
+Japan AI GfB References: Appendix:
+
+Japan AI GfB References: Appendix 2.A.2-1
+
+Japan AI GfB References: Appendix 2.A.3-1-1
+
+Japan AI GfB References: Appendix 2.A.3-3
+
+Japan AI GfB References: Appendix 2.A.3-4-2
+
+Japan AI GfB References: Appendix 3.A.D-2.i
+
+Japan AI GfB References: Appendix 3.A.D-3.i
+
+Japan AI GfB References: Appendix 3.A.D-2.ii
+
+Japan AI GfB References: Appendix 3.A.D-2.iii
+
+Japan AI GfB References: Appendix 3.A.D-5.i
+
+Japan AI GfB References: Appendix 3.A.D-6.ii
+
+Japan AI GfB References: Appendix 3.A.D-7.i
+
+Japan AI GfB References: Appendix 3.B.1
+
+Japan AI GfB References: Appendix 3.B.4
+
+Japan AI GfB References: Appendix 3.B.6
+
+Japan AI GfB References: Appendix 3.B.7
+
+Japan AI GfB References: Appendix 3.C.I
+
+Japan AI GfB References: Appendix 3.C.III
+
+Japan AI GfB References: Appendix 3.C.V
+
+Japan AI GfB References: Appendix 3.C.VIII
+
+Japan AI GfB References: Appendix 3.C.XI
+
+Japan AI GfB References: Appendix 4.A.P-2.ii
+
+Japan AI GfB References: Appendix 4.A.P-3.i
+
+Japan AI GfB References: Appendix 4.A.P-4.i
+
+Japan AI GfB References: Appendix 4.A.P-5.i
+
+Japan AI GfB References: Appendix 4.A.P-4.ii
+
+Japan AI GfB References: Appendix 4.A.P-5.ii
+
+Japan AI GfB References: Appendix 4.A.P-6.ii
+
+Japan AI GfB References: Appendix 4.A.P-7.i
+
+Japan AI GfB References: Appendix 4.A.P-7.ii
+
+Japan AI GfB References: Appendix 5.B.1
+
+Japan AI GfB References: Appendix 5.A.U-2.i
+
+Japan AI GfB References: Appendix 5.A.U-3.i
+
+Japan AI GfB References: Appendix 5.A.U-4.i
+
+Japan AI GfB References: Appendix 5.A.U-7.i
+
+Japan AI GfB References: Appendix 5.B.8"
+"2","MANAGE 1.1","Risk Assessment","numbered","","NIST AI RMF 1.0 References: Manage 1.1
+
+Topic: Risk Assessment
+
+Japan AI GfB References: Main:
+
+Notable Similarities & Differences: No differences noted."
+"2","MANAGE 4.2","MANAGE 4.2","numbered","","NIST AI RMF 1.0 References: Manage 4.2
+
+Japan AI GfB References: Part 2.E.4"
+"2","MEASURE 1.1","MEASURE 1.1","numbered","","NIST AI RMF 1.0 References: Measure 1.1
+
+Japan AI GfB References: Appendix:
+
+Japan AI GfB References: Appendix 2.A.1-1"
+"2","GOVERN 2.1","Risk Culture","numbered","","NIST AI RMF 1.0 References: Govern 2.1
+
+Topic: Risk Culture
+
+Japan AI GfB References: Main:
+
+Notable Similarities & Differences: No differences noted."
+"2","GOVERN 4.1","GOVERN 4.1","numbered","","NIST AI RMF 1.0 References: Govern 4.1
+
+Japan AI GfB References: Part 2.E"
+"2","GOVERN 4.2","GOVERN 4.2","numbered","","NIST AI RMF 1.0 References: Govern 4.2"
+"2","GOVERN 4.3","GOVERN 4.3","numbered","","NIST AI RMF 1.0 References: Govern 4.3
+
+Japan AI GfB References: Appendix:
+
+Japan AI GfB References: Appendix 2.A.6-1"
+"2","MANAGE 1.4","Risk Response","numbered","","NIST AI RMF 1.0 References: Manage 1.4
+
+Topic: Risk Response
+
+Japan AI GfB References: Appendix:
+
+Notable Similarities & Differences: No differences noted."
+"2","MANAGE 2.3","MANAGE 2.3","numbered","","NIST AI RMF 1.0 References: Manage 2.3
+
+Japan AI GfB References: Appendix 2.A.3-4"
+"2","MANAGE 2.4","MANAGE 2.4","numbered","","NIST AI RMF 1.0 References: Manage 2.4
+
+Japan AI GfB References: Appendix 3.B.4"
+"2","MANAGE 4.1","MANAGE 4.1","numbered","","NIST AI RMF 1.0 References: Manage 4.1"
+"2","GOVERN 1.3","Risk Tolerance","numbered","","NIST AI RMF 1.0 References: Govern 1.3
+
+Topic: Risk Tolerance
+
+Japan AI GfB References: Appendix:
+
+Notable Similarities & Differences: No differences noted."
+"2","GOVERN 2.3","GOVERN 2.3","numbered","","NIST AI RMF 1.0 References: Govern 2.3
+
+Japan AI GfB References: Appendix 2.A.2-1"
+"2","MANAGE 1.2","MANAGE 1.2","numbered","","NIST AI RMF 1.0 References: Manage 1.2"
+"2","MANAGE 1.3","MANAGE 1.3","numbered","","NIST AI RMF 1.0 References: Manage 1.3"
+"2","MANAGE 2.1","MANAGE 2.1","numbered","","NIST AI RMF 1.0 References: Manage 2.1"
+"2","MAP 1.5","MAP 1.5","numbered","","NIST AI RMF 1.0 References: Map 1.5"
+"2","MAP 4.1","MAP 4.1","numbered","","NIST AI RMF 1.0 References: Map 4.1"
+"2","MANAGE 2.4","Risky Emergent","numbered","","NIST AI RMF 1.0 References: Manage 2.4
+
+Topic: Risky Emergent
+
+Japan AI GfB References: Main:
+
+Notable Similarities & Differences: No differences noted."
+"2","MANAGE 4.1","Behavior","numbered","","NIST AI RMF 1.0 References: Manage 4.1
+
+Topic: Behavior
+
+Japan AI GfB References: Part 2.C.5"
+"2","MAP 4.1","MAP 4.1","numbered","","NIST AI RMF 1.0 References: Map 4.1"
+"2","MEASURE 1.1","MEASURE 1.1","numbered","","NIST AI RMF 1.0 References: Measure 1.1"
+"2","MEASURE 2.7","MEASURE 2.7","numbered","","NIST AI RMF 1.0 References: Measure 2.7"
+"2","GOVERN 1.2","Safety","numbered","","NIST AI RMF 1.0 References: Govern 1.2
+
+Topic: Safety
+
+Japan AI GfB References: Main:
+
+Notable Similarities & Differences: No differences noted."
+"2","MAP 1.1","MAP 1.1","numbered","","NIST AI RMF 1.0 References: Map 1.1
+
+Japan AI GfB References: Part 2.C.2"
+"2","MAP 3.2","MAP 3.2","numbered","","NIST AI RMF 1.0 References: Map 3.2
+
+Japan AI GfB References: Part 2.D.I"
+"2","MEASURE 1.1","MEASURE 1.1","numbered","","NIST AI RMF 1.0 References: Measure 1.1"
+"2","MEASURE 2.6","MEASURE 2.6","numbered","","NIST AI RMF 1.0 References: Measure 2.6
+
+Japan AI GfB References: Appendix:"
+"2","MEASURE 4.2","MEASURE 4.2","numbered","","NIST AI RMF 1.0 References: Measure 4.2
+
+Japan AI GfB References: Appendix 2.A.1-3"
+"2","MEASURE 4.3","MEASURE 4.3","numbered","","NIST AI RMF 1.0 References: Measure 4.3
+
+Japan AI GfB References: Appendix 3.A.D-2.ii
+
+Japan AI GfB References: Appendix 3.A.D-10.i
+
+Japan AI GfB References: Appendix 3.B.7
+
+Japan AI GfB References: Appendix 4.A.P-6.ii
+
+Japan AI GfB References: Appendix 4.B.2
+
+Japan AI GfB References: Appendix 5.B.2"
+"2","GOVERN 1.2","Secure and","numbered","","NIST AI RMF 1.0 References: Govern 1.2
+
+Topic: Secure and
+
+Japan AI GfB References: Main:
+
+Notable Similarities & Differences: No differences noted."
+"2","MAP 1.1","Resilient","numbered","","NIST AI RMF 1.0 References: Map 1.1
+
+Topic: Resilient
+
+Japan AI GfB References: Part 2.C.8"
+"2","MAP 3.2","MAP 3.2","numbered","","NIST AI RMF 1.0 References: Map 3.2"
+"2","MEASURE 1.1","MEASURE 1.1","numbered","","NIST AI RMF 1.0 References: Measure 1.1
+
+Japan AI GfB References: Appendix:"
+"2","MEASURE 2.7","MEASURE 2.7","numbered","","NIST AI RMF 1.0 References: Measure 2.7
+
+Japan AI GfB References: Appendix 3.A.D-2.ii"
+"2","MEASURE 4.2","MEASURE 4.2","numbered","","NIST AI RMF 1.0 References: Measure 4.2
+
+Japan AI GfB References: Appendix 3.A.D-3.i"
+"2","MEASURE 4.3","MEASURE 4.3","numbered","","NIST AI RMF 1.0 References: Measure 4.3
+
+Japan AI GfB References: Appendix 3.A.D-5.i
+
+Japan AI GfB References: Appendix 3.B.8
+
+Japan AI GfB References: Appendix 4.A.P-5.i
+
+Japan AI GfB References: Appendix 4.B.8
+
+Japan AI GfB References: Appendix 5.B.8"
+"2","MANAGE 2.2","Societal Values","numbered","","NIST AI RMF 1.0 References: Manage 2.2
+
+Topic: Societal Values
+
+Japan AI GfB References: Appendix:
+
+Notable Similarities & Differences: No differences noted."
+"2","MAP 1.1","MAP 1.1","numbered","","NIST AI RMF 1.0 References: Map 1.1
+
+Japan AI GfB References: Appendix 2.A.1-2"
+"2","MAP 1.3","MAP 1.3","numbered","","NIST AI RMF 1.0 References: Map 1.3
+
+Japan AI GfB References: Appendix 2.A.2-1
+
+Japan AI GfB References: Appendix 2.A.5-1
+
+Japan AI GfB References: Appendix 4.A.P-4.ii"
+"2","MAP 1.1","Socio-technical","numbered","","NIST AI RMF 1.0 References: Map 1.1
+
+Topic: Socio-technical
+
+Japan AI GfB References: Main:
+
+Notable Similarities & Differences: No differences noted."
+"2","MAP 1.2","Systems","numbered","","NIST AI RMF 1.0 References: Map 1.2
+
+Topic: Systems
+
+Japan AI GfB References: Part 2.C.1"
+"2","MAP 1.3","MAP 1.3","numbered","","NIST AI RMF 1.0 References: Map 1.3
+
+Japan AI GfB References: Part 2.C.4"
+"2","MAP 1.6","MAP 1.6","numbered","","NIST AI RMF 1.0 References: Map 1.6
+
+Japan AI GfB References: Part 2.C.6"
+"2","MAP 2.1","MAP 2.1","numbered","","NIST AI RMF 1.0 References: Map 2.1"
+"2","MAP 3.1","MAP 3.1","numbered","","NIST AI RMF 1.0 References: Map 3.1
+
+Japan AI GfB References: Appendix:
+
+Japan AI GfB References: Appendix 3.A.D-3.ii
+
+Japan AI GfB References: Appendix 3.A.D-7.i
+
+Japan AI GfB References: Appendix 3.B.1
+
+Japan AI GfB References: Appendix 3.B.4
+
+Japan AI GfB References: Appendix 3.B.6
+
+Japan AI GfB References: Appendix 4.A.P-6.ii"
+"2","GOVERN 6.1","Supply Chain","numbered","","NIST AI RMF 1.0 References: Govern 6.1
+
+Topic: Supply Chain
+
+Japan AI GfB References: Main:
+
+Notable Similarities & Differences: No differences noted."
+"2","GOVERN 6.2","GOVERN 6.2","numbered","","NIST AI RMF 1.0 References: Govern 6.2
+
+Japan AI GfB References: Part 2.E"
+"2","MANAGE 3.1","MANAGE 3.1","numbered","","NIST AI RMF 1.0 References: Manage 3.1"
+"2","MAP 4.1","MAP 4.1","numbered","","NIST AI RMF 1.0 References: Map 4.1
+
+Japan AI GfB References: Appendix:
+
+Japan AI GfB References: Appendix 2.A.1-1
+
+Japan AI GfB References: Appendix 2.A.3-4-1
+
+Japan AI GfB References: Appendix 3.A.D-5.i
+
+Japan AI GfB References: Appendix 3.A.D-7.ii
+
+Japan AI GfB References: Appendix 3.B.8"
+"2","MAP 1.1","TEVV","numbered","","NIST AI RMF 1.0 References: Map 1.1
+
+Topic: TEVV
+
+Japan AI GfB References: Main:
+
+Notable Similarities & Differences: No differences noted."
+"2","MAP 2.3","MAP 2.3","numbered","","NIST AI RMF 1.0 References: Map 2.3
+
+Japan AI GfB References: Part 2.C.6"
+"2","MEASURE 1.1","MEASURE 1.1","numbered","","NIST AI RMF 1.0 References: Measure 1.1
+
+Japan AI GfB References: Part 2.D.I"
+"2","MEASURE 1.2","MEASURE 1.2","numbered","","NIST AI RMF 1.0 References: Measure 1.2"
+"2","MEASURE 2.1","MEASURE 2.1","numbered","","NIST AI RMF 1.0 References: Measure 2.1
+
+Japan AI GfB References: Appendix:"
+"2","MEASURE 2.3","MEASURE 2.3","numbered","","NIST AI RMF 1.0 References: Measure 2.3
+
+Japan AI GfB References: Appendix 2"
+"2","MEASURE 2.4","MEASURE 2.4","numbered","","NIST AI RMF 1.0 References: Measure 2.4
+
+Japan AI GfB References: Appendix 3.A.D-3.i"
+"2","MEASURE 2.5","MEASURE 2.5","numbered","","NIST AI RMF 1.0 References: Measure 2.5
+
+Japan AI GfB References: Appendix 3.A.D-2.ii"
+"2","MEASURE 2.6","MEASURE 2.6","numbered","","NIST AI RMF 1.0 References: Measure 2.6
+
+Japan AI GfB References: Appendix 3.A.D-3.ii"
+"2","MEASURE 2.7","MEASURE 2.7","numbered","","NIST AI RMF 1.0 References: Measure 2.7
+
+Japan AI GfB References: Appendix 3.B.4"
+"2","MEASURE 2.8","MEASURE 2.8","numbered","","NIST AI RMF 1.0 References: Measure 2.8
+
+Japan AI GfB References: Appendix 4.A.P-6.ii"
+"2","MEASURE 2.9","MEASURE 2.9","numbered","","NIST AI RMF 1.0 References: Measure 2.9
+
+Japan AI GfB References: Appendix 5.A.U-2.i"
+"2","MEASURE 2.10","MEASURE 2.10","numbered","","NIST AI RMF 1.0 References: Measure 2.10"
+"2","MEASURE 2.11","MEASURE 2.11","numbered","","NIST AI RMF 1.0 References: Measure 2.11"
+"2","MEASURE 2.12","MEASURE 2.12","numbered","","NIST AI RMF 1.0 References: Measure 2.12"
+"2","MEASURE 2.13","MEASURE 2.13","numbered","","NIST AI RMF 1.0 References: Measure 2.13"
+"2","MEASURE 3.1","MEASURE 3.1","numbered","","NIST AI RMF 1.0 References: Measure 3.1"
+"2","MEASURE 3.3","MEASURE 3.3","numbered","","NIST AI RMF 1.0 References: Measure 3.3"
+"2","MEASURE 4.1","MEASURE 4.1","numbered","","NIST AI RMF 1.0 References: Measure 4.1"
+"2","MEASURE 4.2","MEASURE 4.2","numbered","","NIST AI RMF 1.0 References: Measure 4.2"
+"2","MEASURE 4.3","MEASURE 4.3","numbered","","NIST AI RMF 1.0 References: Measure 4.3"
+"2","GOVERN 6.1","Third-party","numbered","","NIST AI RMF 1.0 References: Govern 6.1
+
+Topic: Third-party
+
+Japan AI GfB References: Appendix:
+
+Notable Similarities & Differences: No differences noted."
+"2","GOVERN 6.2","GOVERN 6.2","numbered","","NIST AI RMF 1.0 References: Govern 6.2
+
+Japan AI GfB References: Appendix 3.A.D-2.i"
+"2","MANAGE 3.1","MANAGE 3.1","numbered","","NIST AI RMF 1.0 References: Manage 3.1
+
+Japan AI GfB References: Appendix 3.A.D-2.ii"
+"2","MAP 4.1","MAP 4.1","numbered","","NIST AI RMF 1.0 References: Map 4.1
+
+Japan AI GfB References: Appendix 3.A.D-7.ii"
+"2","MAP 4.2","MAP 4.2","numbered","","NIST AI RMF 1.0 References: Map 4.2
+
+Japan AI GfB References: Appendix 3.C.II
+
+Japan AI GfB References: Appendix 4.A.P-5.i
+
+Japan AI GfB References: Appendix 4.B.2
+
+Japan AI GfB References: Appendix 5.A.U-5.i
+
+Japan AI GfB References: Appendix 5.A.U-7.i
+
+Japan AI GfB References: Appendix 5.A.U-7.ii
+
+Japan AI GfB References: Appendix 5.B.2
+
+Japan AI GfB References: Appendix 6.2"
+"2","GOVERN 2.2","Training (of AI","numbered","","NIST AI RMF 1.0 References: Govern 2.2
+
+Topic: Training (of AI
+
+Japan AI GfB References: Appendix:
+
+Notable Similarities & Differences: No differences noted.
+
+Topic: Actors) | Japan AI GfB References: Appendix 2.A.1-3
+
+Japan AI GfB References: Appendix 2.A.2-1
+
+Japan AI GfB References: Appendix 3.A.D-5.i
+
+Japan AI GfB References: Appendix 4.B.8"
+"2","GOVERN 1.2","Validity and","numbered","","NIST AI RMF 1.0 References: Govern 1.2
+
+Topic: Validity and
+
+Japan AI GfB References: Main:
+
+Notable Similarities & Differences: No differences noted."
+"2","MAP 1.1","Reliability","numbered","","NIST AI RMF 1.0 References: Map 1.1
+
+Topic: Reliability
+
+Japan AI GfB References: Part 2.C.2"
+"2","MAP 3.2","MAP 3.2","numbered","","NIST AI RMF 1.0 References: Map 3.2
+
+Japan AI GfB References: Part 2.D.VII"
+"2","MEASURE 1.1","MEASURE 1.1","numbered","","NIST AI RMF 1.0 References: Measure 1.1
+
+Japan AI GfB References: Part 2.D.VIII"
+"2","MEASURE 2.1","MEASURE 2.1","numbered","","NIST AI RMF 1.0 References: Measure 2.1"
+"2","MEASURE 2.5","MEASURE 2.5","numbered","","NIST AI RMF 1.0 References: Measure 2.5
+
+Japan AI GfB References: Appendix:"
+"2","MEASURE 4.2","MEASURE 4.2","numbered","","NIST AI RMF 1.0 References: Measure 4.2
+
+Japan AI GfB References: Appendix 2.A.3-2"
+"2","MEASURE 4.3","MEASURE 4.3","numbered","","NIST AI RMF 1.0 References: Measure 4.3
+
+Japan AI GfB References: Appendix 3.A.D-2.ii
+
+Japan AI GfB References: Appendix 3.A.D-10.i
+
+Japan AI GfB References: Appendix 4.A.P-2.i
+
+Japan AI GfB References: Appendix 4.A.P-5.ii
+
+Japan AI GfB References: Appendix 4.B.3"

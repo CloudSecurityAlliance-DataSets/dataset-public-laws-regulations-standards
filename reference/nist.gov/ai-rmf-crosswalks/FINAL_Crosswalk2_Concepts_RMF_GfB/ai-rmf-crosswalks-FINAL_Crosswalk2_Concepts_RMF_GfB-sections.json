@@ -1,0 +1,1690 @@
+[
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Topic",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 1: Topic\n\nColumn 2: Conceptual topics derived from the NIST AI RMF Playbook3 used to anchor\nthe comparative analysis of this crosswalk"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "NIST AI RMF References",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 1: NIST AI RMF\nReferences\n\nColumn 2: NIST AI RMF subcategories linked to each topic by the Playbook"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Japan AI GfB References",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 1: Japan AI GfB\nReferences\n\nColumn 2: Japan AI GfB sections (including appendices4\n) identified by Japan as\naddressing the topic"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Notable Similarities & DiƯerences",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Column 1: Notable\nSimilarities &\nDiƯerences\n\nColumn 2: Observations on how the NIST AI RMF and the Japan AI GfB align or diƯer on\nthe treatment of each topic5"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 1.2",
+    "section_name": "Accountability",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Govern 1.2\n\nTopic: Accountability\n\nJapan AI GfB References: Main:\n\nNotable Similarities & Differences: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 1.1",
+    "section_name": "and Transparency",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Map 1.1\n\nTopic: and Transparency\n\nJapan AI GfB References: Part 2.C.6"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 3.2",
+    "section_name": "MAP 3.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Map 3.2\n\nJapan AI GfB References: Part 2.C.7"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 1.1",
+    "section_name": "MEASURE 1.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 1.1\n\nJapan AI GfB References: Part 2.D.III"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.8",
+    "section_name": "MEASURE 2.8",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 2.8\n\nJapan AI GfB References: Part 2.D.XI"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 4.2",
+    "section_name": "MEASURE 4.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 4.2\n\nJapan AI GfB References: Part 2.E.3"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 4.3",
+    "section_name": "MEASURE 4.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 4.3\n\nJapan AI GfB References: Appendix:\n\nJapan AI GfB References: Appendix 2.A.1-1\n\nJapan AI GfB References: Appendix 2.A.3-4-1\n\nJapan AI GfB References: Appendix 2.A.4-1\n\nJapan AI GfB References: Appendix 2.A.4-3\n\nJapan AI GfB References: Appendix 3.A.D-2.ii\n\nJapan AI GfB References: Appendix 3.A.D-6.i\n\nJapan AI GfB References: Appendix 3.A.D-6.ii\n\nJapan AI GfB References: Appendix 3.A.D-7.i\n\nJapan AI GfB References: Appendix 3.A.D-7.ii\n\nJapan AI GfB References: Appendix 3.B.1\n\nJapan AI GfB References: Appendix 3.B.6\n\nJapan AI GfB References: Appendix 3.B.7\n\nJapan AI GfB References: Appendix 3.C.I\n\nJapan AI GfB References: Appendix 3.C.III\n\nJapan AI GfB References: Appendix 3.C.IV\n\nJapan AI GfB References: Appendix 3.C.XI\n\nJapan AI GfB References: Appendix 4.A.P-4.i\n\nJapan AI GfB References: Appendix 4.A.P-7.i\n\nJapan AI GfB References: Appendix 4.B.6\n\nJapan AI GfB References: Appendix 6.3"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 4.1",
+    "section_name": "Adversarial",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Govern 4.1\n\nTopic: Adversarial\n\nJapan AI GfB References: Appendix:\n\nNotable Similarities & Differences: Both the NIST AI RMF and the"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 4.1",
+    "section_name": "MANAGE 4.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Manage 4.1\n\nJapan AI GfB References: Appendix 4.A.P-5.ii\n\nNotable Similarities & Differences: Japan AI GfB highlight the"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.7",
+    "section_name": "MEASURE 2.7",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 2.7\n\nJapan AI GfB References: Appendix 5.A.U-5.i\n\nNotable Similarities & Differences: significance of considering\n\nNotable Similarities & Differences: adversarial attacks as a\n\nNotable Similarities & Differences: potential risk to AI system\n\nNotable Similarities & Differences: vulnerabilities. In addition, the\n\nNotable Similarities & Differences: NIST AI RMF emphasizes the\n\nNotable Similarities & Differences: importance of adversarial\n\nNotable Similarities & Differences: testing by red teaming as a\n\nNotable Similarities & Differences: suggested approach for risk\n\nNotable Similarities & Differences: management."
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 1.1",
+    "section_name": "AI Deployment",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Manage 1.1\n\nTopic: AI Deployment\n\nJapan AI GfB References: Main:\n\nNotable Similarities & Differences: Both the NIST AI RMF and the"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 2.2",
+    "section_name": "MANAGE 2.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Manage 2.2\n\nJapan AI GfB References: Part 2.D.I\n\nNotable Similarities & Differences: Japan AI GfB emphasize the"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 4.1",
+    "section_name": "MANAGE 4.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Manage 4.1\n\nJapan AI GfB References: Part 2.D.II\n\nNotable Similarities & Differences: importance of regular\n\nNotable Similarities & Differences: monitoring and mechanisms\n\nJapan AI GfB References: Appendix: | Notable Similarities & Differences: to sustain the value of AI\n\nJapan AI GfB References: Appendix 3.A.D-2.i | Notable Similarities & Differences: systems post-deployment. In\n\nJapan AI GfB References: Appendix 3.A.D-2.ii | Notable Similarities & Differences: addition, the Japan AI GfB\n\nJapan AI GfB References: Appendix 3.A.D-5.i | Notable Similarities & Differences: suggests incentives for\n\nJapan AI GfB References: Appendix 3.A.D-5.ii | Notable Similarities & Differences: reporting post-deployment\n\nJapan AI GfB References: Appendix 3.A.D-6.ii | Notable Similarities & Differences: issues."
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 4.3",
+    "section_name": "AI Incidents",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Govern 4.3\n\nTopic: AI Incidents\n\nJapan AI GfB References: Main:\n\nNotable Similarities & Differences: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 4.1",
+    "section_name": "MANAGE 4.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Manage 4.1\n\nJapan AI GfB References: Part 2.D.II"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 4.3",
+    "section_name": "MANAGE 4.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Manage 4.3\n\nJapan AI GfB References: Part 2.D.IV\n\nJapan AI GfB References: Appendix:\n\nJapan AI GfB References: Appendix 2.A.1-1\n\nJapan AI GfB References: Appendix 2.A.1-2\n\nJapan AI GfB References: Appendix 2.A.2-1\n\nJapan AI GfB References: Appendix 2.A.3-1\n\nJapan AI GfB References: Appendix 2.A.3-2\n\nJapan AI GfB References: Appendix 2.A.3-3-2\n\nJapan AI GfB References: Appendix 2.A.3-4\n\nJapan AI GfB References: Appendix 2.A.3-4-2\n\nJapan AI GfB References: Appendix 2.A.4-1\n\nJapan AI GfB References: Appendix 2.A.5-1\n\nJapan AI GfB References: Appendix 2.A.6-1\n\nJapan AI GfB References: Appendix 3.A.D-2.iii\n\nJapan AI GfB References: Appendix 3.A.D-5.i\nAppendix 3.A.D-5.ii\n\nJapan AI GfB References: Appendix 3.A.D-6.ii\n\nJapan AI GfB References: Appendix 3.A.D-7.ii\n\nJapan AI GfB References: Appendix 4.A.P-2.i\n\nJapan AI GfB References: Appendix 4.A.P-2.ii\n\nJapan AI GfB References: Appendix 4.A.P-6.i\n\nJapan AI GfB References: Appendix 4.A.P-5.ii\n\nJapan AI GfB References: Appendix 4.A.P-6.ii\n\nJapan AI GfB References: Appendix 4.A.P-7.ii\n\nJapan AI GfB References: Appendix 4.B.2\n\nJapan AI GfB References: Appendix 5.A.U-2.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 3.3",
+    "section_name": "Contestability",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 3.3\n\nTopic: Contestability\n\nJapan AI GfB References: Main:\n\nNotable Similarities & Differences: No differences noted.\n\nJapan AI GfB References: Part 2.C.6\n\nJapan AI GfB References: Appendix:\n\nJapan AI GfB References: Appendix 2.A.1-2\n\nJapan AI GfB References: Appendix 2.A.3-1\n\nJapan AI GfB References: Appendix 2.A.3-3-1\n\nJapan AI GfB References: Appendix 2.A.3-3-2\n\nJapan AI GfB References: Appendix 2.A.3-4-1\n\nJapan AI GfB References: Appendix 2.A.5-2\n\nJapan AI GfB References: Appendix 2.A.6-1\n\nJapan AI GfB References: Appendix 3.A.D-6.ii\n\nJapan AI GfB References: Appendix 3.B.7\n\nJapan AI GfB References: Appendix 4.B.6"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 1.1",
+    "section_name": "Context of Use",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Map 1.1\n\nTopic: Context of Use\n\nJapan AI GfB References: Main:\n\nNotable Similarities & Differences: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 1.4",
+    "section_name": "MAP 1.4",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Map 1.4\n\nJapan AI GfB References: Part 2.C.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 3.3",
+    "section_name": "MAP 3.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Map 3.3\n\nJapan AI GfB References: Part 2.D.II"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 1.2",
+    "section_name": "MEASURE 1.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 1.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 1.3",
+    "section_name": "MEASURE 1.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 1.3\n\nJapan AI GfB References: Appendix:"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.6",
+    "section_name": "MEASURE 2.6",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 2.6\n\nJapan AI GfB References: Appendix 3.A.D-3.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 4.1",
+    "section_name": "MEASURE 4.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 4.1\n\nJapan AI GfB References: Appendix 3.A.D-7.ii\n\nJapan AI GfB References: Appendix 3.B.1\n\nJapan AI GfB References: Appendix 3.B.6\n\nJapan AI GfB References: Appendix 4.A.P-6.ii\n\nJapan AI GfB References: Appendix 4.B.1\n\nJapan AI GfB References: Appendix 4.B.6\n\nJapan AI GfB References: Appendix 5.A.U-2.i\n\nJapan AI GfB References: Appendix 5.A.U-3.i\n\nJapan AI GfB References: Appendix 5.A.U-6.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 3.1",
+    "section_name": "Continual",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 3.1\n\nTopic: Continual\n\nJapan AI GfB References: Main:\n\nNotable Similarities & Differences: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 3.2",
+    "section_name": "Improvement",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 3.2\n\nTopic: Improvement\n\nJapan AI GfB References: Part 2.E.4\n\nJapan AI GfB References: Appendix:\n\nJapan AI GfB References: Appendix 2.A.3-1\n\nJapan AI GfB References: Appendix 2.A.5-1"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 1.5",
+    "section_name": "Continuous",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Govern 1.5\n\nTopic: Continuous\n\nJapan AI GfB References: Main:\n\nNotable Similarities & Differences: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 3.2",
+    "section_name": "Monitoring",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Manage 3.2\n\nTopic: Monitoring\n\nJapan AI GfB References: Part 2.C.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 4.1",
+    "section_name": "MANAGE 4.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Manage 4.1\n\nJapan AI GfB References: Part 2.D.II"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 4.2",
+    "section_name": "MANAGE 4.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Manage 4.2\n\nJapan AI GfB References: Part 2.D.IV"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 4.3",
+    "section_name": "MANAGE 4.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Manage 4.3\n\nJapan AI GfB References: Part 2.E.4"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.4",
+    "section_name": "MEASURE 2.4",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 2.4"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 3.1",
+    "section_name": "MEASURE 3.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 3.1\n\nJapan AI GfB References: Appendix:"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 3.2",
+    "section_name": "MEASURE 3.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 3.2\n\nJapan AI GfB References: Appendix 2.A.3-3\n\nJapan AI GfB References: Appendix 2.A.4-2\n\nJapan AI GfB References: Appendix 2.A.5-1\n\nJapan AI GfB References: Appendix 2.A.6-1\n\nJapan AI GfB References: Appendix 3.A.D-3.i\n\nJapan AI GfB References: Appendix 3.A.D-3.ii\n\nJapan AI GfB References: Appendix 3.A.D-5.\n\nJapan AI GfB References: Appendix 3.B.1\n\nJapan AI GfB References: Appendix 3.B.7\n\nJapan AI GfB References: Appendix 4.A.P-6.ii\n\nJapan AI GfB References: Appendix 4.B.6"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 1.7",
+    "section_name": "Decommission",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Govern 1.7\n\nTopic: Decommission\n\nJapan AI GfB References: Appendix:\n\nNotable Similarities & Differences: The NIST AI RMF emphasizes"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 2.4",
+    "section_name": "MANAGE 2.4",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Manage 2.4\n\nJapan AI GfB References: Appendix 5.A.U-7.i\n\nNotable Similarities & Differences: the importance of establishing\n\nJapan AI GfB References: Appendix 5.A.U-7.ii | Notable Similarities & Differences: mechanisms and\n\nNotable Similarities & Differences: responsibilities for safely\n\nNotable Similarities & Differences: decommissioning AI systems,\n\nNotable Similarities & Differences: while the Japan AI GfB focuses\n\nNotable Similarities & Differences: on the necessary disclosure of\n\nNotable Similarities & Differences: information to stakeholders\n\nNotable Similarities & Differences: following the end of AI systems\n\nNotable Similarities & Differences: and services use."
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 3.1",
+    "section_name": "Diversity and",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Govern 3.1\n\nTopic: Diversity and\n\nJapan AI GfB References: Main:\n\nNotable Similarities & Differences: Both the NIST AI RMF and the"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 1.2",
+    "section_name": "Interdisciplinarity",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Map 1.2\n\nTopic: Interdisciplinarity\n\nJapan AI GfB References: Part 2.C.1\n\nNotable Similarities & Differences: Japan AI GfB focus on the\n\nJapan AI GfB References: Part 2.C.3 | Notable Similarities & Differences: importance of diversity of AI\n\nJapan AI GfB References: Part 2.C.7 | Notable Similarities & Differences: actors in the mapping,\n\nNotable Similarities & Differences: measuring, and managing of AI\n\nJapan AI GfB References: Appendix: | Notable Similarities & Differences: risks throughout the lifecycle.\n\nJapan AI GfB References: Appendix 2.A.1-2 | Notable Similarities & Differences: In addition, the NIST AI RMF\n\nJapan AI GfB References: Appendix 3.B.1 | Notable Similarities & Differences: emphasizes the importance of\n\nJapan AI GfB References: Appendix 4.B.1 | Notable Similarities & Differences: including interdisciplinary\n\nJapan AI GfB References: Appendix 5.B.1 | Notable Similarities & Differences: expertise from AI actors."
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 1.4",
+    "section_name": "Documentation",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Govern 1.4\n\nTopic: Documentation\n\nJapan AI GfB References: Main:\n\nNotable Similarities & Differences: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 1.6",
+    "section_name": "GOVERN 1.6",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Govern 1.6\n\nJapan AI GfB References: Part 2.C.7"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 1.6",
+    "section_name": "MAP 1.6",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Map 1.6\n\nJapan AI GfB References: Part 2.D.II"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 2.2",
+    "section_name": "MAP 2.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Map 2.2\n\nJapan AI GfB References: Part 2.D.III"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 3.1",
+    "section_name": "MAP 3.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Map 3.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 3.3",
+    "section_name": "MAP 3.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Map 3.3\n\nJapan AI GfB References: Appendix:"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.1",
+    "section_name": "MEASURE 2.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 2.1\n\nJapan AI GfB References: Appendix 2.A.1-1\n\nJapan AI GfB References: Appendix 2.A.3-3-1\n\nJapan AI GfB References: Appendix 3.A.D-5.i\n\nJapan AI GfB References: Appendix 3.A.D-7.i\n\nJapan AI GfB References: Appendix 3.A.D-7.ii\n\nJapan AI GfB References: Appendix 3.C.I\n\nJapan AI GfB References: Appendix 3.C.II\n\nJapan AI GfB References: Appendix 3.C.III\n\nJapan AI GfB References: Appendix 3.C.IV\n\nJapan AI GfB References: Appendix 4.A.P-6.i\n\nJapan AI GfB References: Appendix 4.A.P-7.ii\n\nJapan AI GfB References: Appendix 4.B.6"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 4.3",
+    "section_name": "Drift",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Govern 4.3\n\nTopic: Drift\n\nJapan AI GfB References: Appendix:\n\nNotable Similarities & Differences: Both the NIST AI RMF and the"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 2.2",
+    "section_name": "MANAGE 2.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Manage 2.2\n\nJapan AI GfB References: Appendix 3.A.D-2.i\n\nNotable Similarities & Differences: Japan AI GfB state the possible"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.4",
+    "section_name": "MEASURE 2.4",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 2.4\n\nJapan AI GfB References: Appendix 3.A.D-6.i\n\nNotable Similarities & Differences: risk of drift in AI systems. In\n\nJapan AI GfB References: Appendix 3.A.D-7.i | Notable Similarities & Differences: addition, the NIST AI RMF\n\nNotable Similarities & Differences: emphasizes the importance of\n\nNotable Similarities & Differences: a regular monitoring process\n\nNotable Similarities & Differences: to detect and respond to drift."
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.13",
+    "section_name": "Effectiveness",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 2.13\n\nTopic: Effectiveness\n\nJapan AI GfB References: Main:\n\nNotable Similarities & Differences: No differences noted.\n\nJapan AI GfB References: Part 2.E.4\n\nJapan AI GfB References: Appendix:\n\nJapan AI GfB References: Appendix 2.A.3-1\n\nJapan AI GfB References: Appendix 4.B.6"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.12",
+    "section_name": "Environmental",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 2.12\n\nTopic: Environmental\n\nJapan AI GfB References: Main:\n\nNotable Similarities & Differences: No differences noted.\n\nTopic: Impact | Japan AI GfB References: Part 2.C.1\n\nJapan AI GfB References: Part 2.C.2\n\nJapan AI GfB References: Appendix:\n\nJapan AI GfB References: Appendix 2.A.1-1\n\nJapan AI GfB References: Appendix 2.A.1-2\n\nJapan AI GfB References: Appendix 3.A.D-2.ii\n\nJapan AI GfB References: Appendix 3.B.1\n\nJapan AI GfB References: Appendix 3.C.VIII\n\nJapan AI GfB References: Appendix 4.A.P-2.i\n\nJapan AI GfB References: Appendix 4.B.1\n\nJapan AI GfB References: Appendix 4.B.2\n\nJapan AI GfB References: Appendix 5.B.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 1.2",
+    "section_name": "Explainability and",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Govern 1.2\n\nTopic: Explainability and\n\nJapan AI GfB References: Main:\n\nNotable Similarities & Differences: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 1.1",
+    "section_name": "Interpretability",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Map 1.1\n\nTopic: Interpretability\n\nJapan AI GfB References: Part 2.C.6"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 3.2",
+    "section_name": "MAP 3.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Map 3.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 1.1",
+    "section_name": "MEASURE 1.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 1.1\n\nJapan AI GfB References: Appendix:"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.9",
+    "section_name": "MEASURE 2.9",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 2.9\n\nJapan AI GfB References: Appendix 3.A.D-6.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 4.2",
+    "section_name": "MEASURE 4.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 4.2\n\nJapan AI GfB References: Appendix 3.B.6"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 4.3",
+    "section_name": "MEASURE 4.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 4.3\n\nJapan AI GfB References: Appendix 3.C.I\n\nJapan AI GfB References: Appendix 4.A.P-6.i\n\nJapan AI GfB References: Appendix 4.B.3\n\nJapan AI GfB References: Appendix 4.B.6\n\nJapan AI GfB References: Appendix 5.A.U-6.i\n\nJapan AI GfB References: Appendix 5.B.3"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 1.2",
+    "section_name": "Fairness and Bias",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Govern 1.2\n\nTopic: Fairness and Bias\n\nJapan AI GfB References: Main:\n\nNotable Similarities & Differences: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 4.3",
+    "section_name": "GOVERN 4.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Govern 4.3\n\nJapan AI GfB References: Part 2.C.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 1.1",
+    "section_name": "MAP 1.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Map 1.1\n\nJapan AI GfB References: Part 2.C.3"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 3.2",
+    "section_name": "MAP 3.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Map 3.2\n\nJapan AI GfB References: Part 2.C.7"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 1.1",
+    "section_name": "MEASURE 1.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 1.1\n\nJapan AI GfB References: Part 2.D.XI"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.11",
+    "section_name": "MEASURE 2.11",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 2.11\n\nJapan AI GfB References: Part 2.E.3"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 4.2",
+    "section_name": "MEASURE 4.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 4.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 4.3",
+    "section_name": "MEASURE 4.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 4.3\n\nJapan AI GfB References: Appendix:\n\nJapan AI GfB References: Appendix 2.A.1-1\n\nJapan AI GfB References: Appendix 2.A.1-3\n\nJapan AI GfB References: Appendix 2.A.3-1\n\nJapan AI GfB References: Appendix 2.A.3-3-2\n\nJapan AI GfB References: Appendix 2.A.4-2\n\nJapan AI GfB References: Appendix 3.A.D-3.i\n\nJapan AI GfB References: Appendix 3.A.D-3.ii\n\nJapan AI GfB References: Appendix 3.A.D-6.ii\n\nJapan AI GfB References: Appendix 3.A.D-7.i\n\nJapan AI GfB References: Appendix 3.B.1\n\nJapan AI GfB References: Appendix 3.C.I\n\nJapan AI GfB References: Appendix 3.C.III\n\nJapan AI GfB References: Appendix 4.A.P-3.i\n\nJapan AI GfB References: Appendix 4.A.P-5.i\n\nJapan AI GfB References: Appendix 4.A.P-6.ii\n\nJapan AI GfB References: Appendix 4.B.1\n\nJapan AI GfB References: Appendix 4.B.3\n\nJapan AI GfB References: Appendix 5.A.U-3.i\n\nJapan AI GfB References: Appendix 5.A.U-6.i\n\nJapan AI GfB References: Appendix 5.A.U-7.i\n\nJapan AI GfB References: Appendix 5.B.1\n\nJapan AI GfB References: Appendix 5.B.3\n\nJapan AI GfB References: Appendix 5.B.8"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 1.1",
+    "section_name": "Governance",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Govern 1.1\n\nTopic: Governance\n\nJapan AI GfB References: Main:\n\nNotable Similarities & Differences: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 1.2",
+    "section_name": "GOVERN 1.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Govern 1.2\n\nJapan AI GfB References: Part 2.C.7"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 1.3",
+    "section_name": "GOVERN 1.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Govern 1.3\n\nJapan AI GfB References: Part 2.D.V"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 1.4",
+    "section_name": "GOVERN 1.4",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Govern 1.4\n\nJapan AI GfB References: Part 2.E"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 1.5",
+    "section_name": "GOVERN 1.5",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Govern 1.5"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 1.6",
+    "section_name": "GOVERN 1.6",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Govern 1.6\n\nJapan AI GfB References: Appendix:"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 1.7",
+    "section_name": "GOVERN 1.7",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Govern 1.7\n\nJapan AI GfB References: Appendix 2"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 2.1",
+    "section_name": "GOVERN 2.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Govern 2.1\n\nJapan AI GfB References: Appendix 3.A.D-2.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 2.2",
+    "section_name": "GOVERN 2.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Govern 2.2\n\nJapan AI GfB References: Appendix 3.A.D-6.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 2.3",
+    "section_name": "GOVERN 2.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Govern 2.3\n\nJapan AI GfB References: Appendix 3.B.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 3.1",
+    "section_name": "GOVERN 3.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Govern 3.1\n\nJapan AI GfB References: Appendix 3.B.7"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 3.2",
+    "section_name": "GOVERN 3.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Govern 3.2\n\nJapan AI GfB References: Appendix 3.C.V"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 4.1",
+    "section_name": "GOVERN 4.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Govern 4.1\n\nJapan AI GfB References: Appendix 4.A.P-6.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 4.2",
+    "section_name": "GOVERN 4.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Govern 4.2\n\nJapan AI GfB References: Appendix 4.B.8"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 4.3",
+    "section_name": "GOVERN 4.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Govern 4.3\n\nJapan AI GfB References: Appendix 5.B.8"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 5.1",
+    "section_name": "GOVERN 5.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Govern 5.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 5.2",
+    "section_name": "GOVERN 5.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Govern 5.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 6.1",
+    "section_name": "GOVERN 6.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Govern 6.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 6.2",
+    "section_name": "GOVERN 6.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Govern 6.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 3.2",
+    "section_name": "Human Oversight",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Govern 3.2\n\nTopic: Human Oversight\n\nJapan AI GfB References: Main:\n\nNotable Similarities & Differences: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 2.2",
+    "section_name": "MAP 2.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Map 2.2\n\nJapan AI GfB References: Part 2.C.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 3.5",
+    "section_name": "MAP 3.5",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Map 3.5\n\nJapan AI GfB References: Part 2.C.3\n\nJapan AI GfB References: Part 2.C.7\n\nJapan AI GfB References: Appendix:\n\nJapan AI GfB References: Appendix 3.A.D-3.i\n\nJapan AI GfB References: Appendix 3.A.D-2.ii\n\nJapan AI GfB References: Appendix 3.A.D-3.ii\n\nJapan AI GfB References: Appendix 3.B.1\n\nJapan AI GfB References: Appendix 4.A.P-2.i\n\nJapan AI GfB References: Appendix 4.B.3\n\nJapan AI GfB References: Appendix 5.A.U-3.i\n\nJapan AI GfB References: Appendix 5.A.U-7.i\n\nJapan AI GfB References: Appendix 5.B.3"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.2",
+    "section_name": "Human Subjects",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 2.2\n\nTopic: Human Subjects\n\nJapan AI GfB References: Main:\n\nNotable Similarities & Differences: No differences noted.\n\nTopic: Protection | Japan AI GfB References: Part 2.C.1\n\nJapan AI GfB References: Part 2.C.2\n\nJapan AI GfB References: Part 2.C.4\n\nJapan AI GfB References: Appendix:\n\nJapan AI GfB References: Appendix 3.A.D-2.i\n\nJapan AI GfB References: Appendix 3.A.D-2.ii\n\nJapan AI GfB References: Appendix 3.B.1\n\nJapan AI GfB References: Appendix 3.B.4\n\nJapan AI GfB References: Appendix 3.C.VIII\n\nJapan AI GfB References: Appendix 4.A.P-2.i\n\nJapan AI GfB References: Appendix 4.A.P-4.i\n\nJapan AI GfB References: Appendix 4.A.P-4.ii\nAppendix 4.B.1\n\nJapan AI GfB References: Appendix 4.B.2\n\nJapan AI GfB References: Appendix 5.A.U-4.i\n\nJapan AI GfB References: Appendix 5.B.1\n\nJapan AI GfB References: Appendix 5.B.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 3.2",
+    "section_name": "Human-AI",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Govern 3.2\n\nTopic: Human-AI\n\nJapan AI GfB References: Main:\n\nNotable Similarities & Differences: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 3.4",
+    "section_name": "Teaming",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Map 3.4\n\nTopic: Teaming\n\nJapan AI GfB References: Part 2.C.1\n\nJapan AI GfB References: Appendix:\n\nJapan AI GfB References: Appendix 3.A.D-3.i\n\nJapan AI GfB References: Appendix 3.B.1\n\nJapan AI GfB References: Appendix 3.B.8\n\nJapan AI GfB References: Appendix 4.A.P-2.ii\n\nJapan AI GfB References: Appendix 4.A.P-7.i\n\nJapan AI GfB References: Appendix 4.B.1\n\nJapan AI GfB References: Appendix 4.B.2\n\nJapan AI GfB References: Appendix 4.B.8\n\nJapan AI GfB References: Appendix 5.A.U-2.i\n\nJapan AI GfB References: Appendix 5.B.1\n\nJapan AI GfB References: Appendix 5.B.2\n\nJapan AI GfB References: Appendix 5.B.8"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 4.2",
+    "section_name": "Impact",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Govern 4.2\n\nTopic: Impact\n\nJapan AI GfB References: Main:\n\nNotable Similarities & Differences: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 4.3",
+    "section_name": "Assessment",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Govern 4.3\n\nTopic: Assessment\n\nJapan AI GfB References: Part 2.C.6"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 5.1",
+    "section_name": "GOVERN 5.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Govern 5.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 5.2",
+    "section_name": "GOVERN 5.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Govern 5.2\n\nJapan AI GfB References: Appendix:"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 4.2",
+    "section_name": "MANAGE 4.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Manage 4.2\n\nJapan AI GfB References: Appendix 2.A.3-1"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 1.1",
+    "section_name": "MAP 1.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Map 1.1\n\nJapan AI GfB References: Appendix 3.B.4"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 1.6",
+    "section_name": "MAP 1.6",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Map 1.6\n\nJapan AI GfB References: Appendix 3.B.6"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 2.2",
+    "section_name": "MAP 2.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Map 2.2\n\nJapan AI GfB References: Appendix 3.C.I"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 2.3",
+    "section_name": "MAP 2.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Map 2.3\n\nJapan AI GfB References: Appendix 3.C.III"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 3.2",
+    "section_name": "MAP 3.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Map 3.2\n\nJapan AI GfB References: Appendix 4.A.P-6.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 5.1",
+    "section_name": "MAP 5.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Map 5.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 5.2",
+    "section_name": "MAP 5.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Map 5.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 1.2",
+    "section_name": "MEASURE 1.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 1.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 1.3",
+    "section_name": "MEASURE 1.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 1.3"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.3",
+    "section_name": "MEASURE 2.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 2.3"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 3.3",
+    "section_name": "MEASURE 3.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 3.3"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 1.1",
+    "section_name": "Legal and",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Govern 1.1\n\nTopic: Legal and\n\nJapan AI GfB References: Main:\n\nNotable Similarities & Differences: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 6.1",
+    "section_name": "Regulatory",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Govern 6.1\n\nTopic: Regulatory\n\nJapan AI GfB References: Part 2.E.5"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 1.3",
+    "section_name": "MANAGE 1.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Manage 1.3"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 4.1",
+    "section_name": "MAP 4.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Map 4.1\n\nJapan AI GfB References: Appendix:\n\nJapan AI GfB References: Appendix 2.A.1-2\n\nJapan AI GfB References: Appendix 2.A.3-3\n\nJapan AI GfB References: Appendix 2.A.6-1\n\nJapan AI GfB References: Appendix 4.A.P-5.i\n\nJapan AI GfB References: Appendix 4.A.P-6.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 2.2",
+    "section_name": "Limitations",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Map 2.2\n\nTopic: Limitations\n\nJapan AI GfB References: Main:\n\nNotable Similarities & Differences: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 2.3",
+    "section_name": "MAP 2.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Map 2.3\n\nJapan AI GfB References: Part 2.C.1\n\nJapan AI GfB References: Part 2.C.6\n\nJapan AI GfB References: Part 2.D.III\n\nJapan AI GfB References: Appendix:\n\nJapan AI GfB References: Appendix 2.A.3-3"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 3.2",
+    "section_name": "Pre-trained",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Manage 3.2\n\nTopic: Pre-trained\n\nJapan AI GfB References: Appendix:\n\nNotable Similarities & Differences: The NIST AI RMF emphasizes"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 4.1",
+    "section_name": "Models",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Map 4.1\n\nTopic: Models\n\nJapan AI GfB References: Appendix 3.B.4\n\nNotable Similarities & Differences: pre-trained models are to be"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 4.2",
+    "section_name": "MAP 4.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Map 4.2\n\nJapan AI GfB References: Appendix 4.A.P-5.ii\n\nNotable Similarities & Differences: monitored due to concerns\n\nNotable Similarities & Differences: about privacy, bias, security,\n\nNotable Similarities & Differences: unanticipated effects,\n\nNotable Similarities & Differences: increased statistical\n\nNotable Similarities & Differences: uncertainty, difficulty with\n\nNotable Similarities & Differences: reproducibility, and issues\n\nNotable Similarities & Differences: with scientific validity. The\n\nNotable Similarities & Differences: NIST AI RMF also emphasizes\n\nNotable Similarities & Differences: identifying and documenting\n\nNotable Similarities & Differences: internal risk controls for\n\nNotable Similarities & Differences: evaluating third-party\n\nNotable Similarities & Differences: technologies to manage\n\nNotable Similarities & Differences: potential risks with pre-trained\n\nNotable Similarities & Differences: models. The Japan AI GfB\n\nNotable Similarities & Differences: expands on the security issue\n\nNotable Similarities & Differences: by stating the importance of\n\nNotable Similarities & Differences: using model reliability\n\nNotable Similarities & Differences: measures, learning\n\nNotable Similarities & Differences: mechanisms, traditional\n\nNotable Similarities & Differences: security measures against\n\nNotable Similarities & Differences: vulnerabilities, and detection,\n\nNotable Similarities & Differences: prevention, and removal of\n\nNotable Similarities & Differences: poisoning of pre-trained\n\nNotable Similarities & Differences: models."
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 1.2",
+    "section_name": "Privacy",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Govern 1.2\n\nTopic: Privacy\n\nJapan AI GfB References: Main:\n\nNotable Similarities & Differences: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 1.1",
+    "section_name": "MAP 1.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Map 1.1\n\nJapan AI GfB References: Part 2.C.4"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 3.2",
+    "section_name": "MAP 3.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Map 3.2\n\nJapan AI GfB References: Part 2.C.6"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 1.1",
+    "section_name": "MEASURE 1.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 1.1\n\nJapan AI GfB References: Part 2.C.7"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.10",
+    "section_name": "MEASURE 2.10",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 2.10\n\nJapan AI GfB References: Part 2.D.V"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 4.2",
+    "section_name": "MEASURE 4.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 4.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 4.3",
+    "section_name": "MEASURE 4.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 4.3\n\nJapan AI GfB References: Appendix:\n\nJapan AI GfB References: Appendix 2.A.2-1\n\nJapan AI GfB References: Appendix 2.A.3-1-1\n\nJapan AI GfB References: Appendix 2.A.3-3\n\nJapan AI GfB References: Appendix 2.A.3-4-2\n\nJapan AI GfB References: Appendix 3.A.D-2.i\n\nJapan AI GfB References: Appendix 3.A.D-3.i\n\nJapan AI GfB References: Appendix 3.A.D-2.ii\n\nJapan AI GfB References: Appendix 3.A.D-2.iii\n\nJapan AI GfB References: Appendix 3.A.D-5.i\n\nJapan AI GfB References: Appendix 3.A.D-6.ii\n\nJapan AI GfB References: Appendix 3.A.D-7.i\n\nJapan AI GfB References: Appendix 3.B.1\n\nJapan AI GfB References: Appendix 3.B.4\n\nJapan AI GfB References: Appendix 3.B.6\n\nJapan AI GfB References: Appendix 3.B.7\n\nJapan AI GfB References: Appendix 3.C.I\n\nJapan AI GfB References: Appendix 3.C.III\n\nJapan AI GfB References: Appendix 3.C.V\n\nJapan AI GfB References: Appendix 3.C.VIII\n\nJapan AI GfB References: Appendix 3.C.XI\n\nJapan AI GfB References: Appendix 4.A.P-2.ii\n\nJapan AI GfB References: Appendix 4.A.P-3.i\n\nJapan AI GfB References: Appendix 4.A.P-4.i\n\nJapan AI GfB References: Appendix 4.A.P-5.i\n\nJapan AI GfB References: Appendix 4.A.P-4.ii\n\nJapan AI GfB References: Appendix 4.A.P-5.ii\n\nJapan AI GfB References: Appendix 4.A.P-6.ii\n\nJapan AI GfB References: Appendix 4.A.P-7.i\n\nJapan AI GfB References: Appendix 4.A.P-7.ii\n\nJapan AI GfB References: Appendix 5.B.1\n\nJapan AI GfB References: Appendix 5.A.U-2.i\n\nJapan AI GfB References: Appendix 5.A.U-3.i\n\nJapan AI GfB References: Appendix 5.A.U-4.i\n\nJapan AI GfB References: Appendix 5.A.U-7.i\n\nJapan AI GfB References: Appendix 5.B.8"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 1.1",
+    "section_name": "Risk Assessment",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Manage 1.1\n\nTopic: Risk Assessment\n\nJapan AI GfB References: Main:\n\nNotable Similarities & Differences: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 4.2",
+    "section_name": "MANAGE 4.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Manage 4.2\n\nJapan AI GfB References: Part 2.E.4"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 1.1",
+    "section_name": "MEASURE 1.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 1.1\n\nJapan AI GfB References: Appendix:\n\nJapan AI GfB References: Appendix 2.A.1-1"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 2.1",
+    "section_name": "Risk Culture",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Govern 2.1\n\nTopic: Risk Culture\n\nJapan AI GfB References: Main:\n\nNotable Similarities & Differences: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 4.1",
+    "section_name": "GOVERN 4.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Govern 4.1\n\nJapan AI GfB References: Part 2.E"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 4.2",
+    "section_name": "GOVERN 4.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Govern 4.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 4.3",
+    "section_name": "GOVERN 4.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Govern 4.3\n\nJapan AI GfB References: Appendix:\n\nJapan AI GfB References: Appendix 2.A.6-1"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 1.4",
+    "section_name": "Risk Response",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Manage 1.4\n\nTopic: Risk Response\n\nJapan AI GfB References: Appendix:\n\nNotable Similarities & Differences: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 2.3",
+    "section_name": "MANAGE 2.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Manage 2.3\n\nJapan AI GfB References: Appendix 2.A.3-4"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 2.4",
+    "section_name": "MANAGE 2.4",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Manage 2.4\n\nJapan AI GfB References: Appendix 3.B.4"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 4.1",
+    "section_name": "MANAGE 4.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Manage 4.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 1.3",
+    "section_name": "Risk Tolerance",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Govern 1.3\n\nTopic: Risk Tolerance\n\nJapan AI GfB References: Appendix:\n\nNotable Similarities & Differences: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 2.3",
+    "section_name": "GOVERN 2.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Govern 2.3\n\nJapan AI GfB References: Appendix 2.A.2-1"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 1.2",
+    "section_name": "MANAGE 1.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Manage 1.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 1.3",
+    "section_name": "MANAGE 1.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Manage 1.3"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 2.1",
+    "section_name": "MANAGE 2.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Manage 2.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 1.5",
+    "section_name": "MAP 1.5",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Map 1.5"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 4.1",
+    "section_name": "MAP 4.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Map 4.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 2.4",
+    "section_name": "Risky Emergent",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Manage 2.4\n\nTopic: Risky Emergent\n\nJapan AI GfB References: Main:\n\nNotable Similarities & Differences: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 4.1",
+    "section_name": "Behavior",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Manage 4.1\n\nTopic: Behavior\n\nJapan AI GfB References: Part 2.C.5"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 4.1",
+    "section_name": "MAP 4.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Map 4.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 1.1",
+    "section_name": "MEASURE 1.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 1.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.7",
+    "section_name": "MEASURE 2.7",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 2.7"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 1.2",
+    "section_name": "Safety",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Govern 1.2\n\nTopic: Safety\n\nJapan AI GfB References: Main:\n\nNotable Similarities & Differences: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 1.1",
+    "section_name": "MAP 1.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Map 1.1\n\nJapan AI GfB References: Part 2.C.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 3.2",
+    "section_name": "MAP 3.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Map 3.2\n\nJapan AI GfB References: Part 2.D.I"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 1.1",
+    "section_name": "MEASURE 1.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 1.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.6",
+    "section_name": "MEASURE 2.6",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 2.6\n\nJapan AI GfB References: Appendix:"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 4.2",
+    "section_name": "MEASURE 4.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 4.2\n\nJapan AI GfB References: Appendix 2.A.1-3"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 4.3",
+    "section_name": "MEASURE 4.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 4.3\n\nJapan AI GfB References: Appendix 3.A.D-2.ii\n\nJapan AI GfB References: Appendix 3.A.D-10.i\n\nJapan AI GfB References: Appendix 3.B.7\n\nJapan AI GfB References: Appendix 4.A.P-6.ii\n\nJapan AI GfB References: Appendix 4.B.2\n\nJapan AI GfB References: Appendix 5.B.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 1.2",
+    "section_name": "Secure and",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Govern 1.2\n\nTopic: Secure and\n\nJapan AI GfB References: Main:\n\nNotable Similarities & Differences: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 1.1",
+    "section_name": "Resilient",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Map 1.1\n\nTopic: Resilient\n\nJapan AI GfB References: Part 2.C.8"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 3.2",
+    "section_name": "MAP 3.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Map 3.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 1.1",
+    "section_name": "MEASURE 1.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 1.1\n\nJapan AI GfB References: Appendix:"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.7",
+    "section_name": "MEASURE 2.7",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 2.7\n\nJapan AI GfB References: Appendix 3.A.D-2.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 4.2",
+    "section_name": "MEASURE 4.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 4.2\n\nJapan AI GfB References: Appendix 3.A.D-3.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 4.3",
+    "section_name": "MEASURE 4.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 4.3\n\nJapan AI GfB References: Appendix 3.A.D-5.i\n\nJapan AI GfB References: Appendix 3.B.8\n\nJapan AI GfB References: Appendix 4.A.P-5.i\n\nJapan AI GfB References: Appendix 4.B.8\n\nJapan AI GfB References: Appendix 5.B.8"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 2.2",
+    "section_name": "Societal Values",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Manage 2.2\n\nTopic: Societal Values\n\nJapan AI GfB References: Appendix:\n\nNotable Similarities & Differences: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 1.1",
+    "section_name": "MAP 1.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Map 1.1\n\nJapan AI GfB References: Appendix 2.A.1-2"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 1.3",
+    "section_name": "MAP 1.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Map 1.3\n\nJapan AI GfB References: Appendix 2.A.2-1\n\nJapan AI GfB References: Appendix 2.A.5-1\n\nJapan AI GfB References: Appendix 4.A.P-4.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 1.1",
+    "section_name": "Socio-technical",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Map 1.1\n\nTopic: Socio-technical\n\nJapan AI GfB References: Main:\n\nNotable Similarities & Differences: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 1.2",
+    "section_name": "Systems",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Map 1.2\n\nTopic: Systems\n\nJapan AI GfB References: Part 2.C.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 1.3",
+    "section_name": "MAP 1.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Map 1.3\n\nJapan AI GfB References: Part 2.C.4"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 1.6",
+    "section_name": "MAP 1.6",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Map 1.6\n\nJapan AI GfB References: Part 2.C.6"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 2.1",
+    "section_name": "MAP 2.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Map 2.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 3.1",
+    "section_name": "MAP 3.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Map 3.1\n\nJapan AI GfB References: Appendix:\n\nJapan AI GfB References: Appendix 3.A.D-3.ii\n\nJapan AI GfB References: Appendix 3.A.D-7.i\n\nJapan AI GfB References: Appendix 3.B.1\n\nJapan AI GfB References: Appendix 3.B.4\n\nJapan AI GfB References: Appendix 3.B.6\n\nJapan AI GfB References: Appendix 4.A.P-6.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 6.1",
+    "section_name": "Supply Chain",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Govern 6.1\n\nTopic: Supply Chain\n\nJapan AI GfB References: Main:\n\nNotable Similarities & Differences: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 6.2",
+    "section_name": "GOVERN 6.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Govern 6.2\n\nJapan AI GfB References: Part 2.E"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 3.1",
+    "section_name": "MANAGE 3.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Manage 3.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 4.1",
+    "section_name": "MAP 4.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Map 4.1\n\nJapan AI GfB References: Appendix:\n\nJapan AI GfB References: Appendix 2.A.1-1\n\nJapan AI GfB References: Appendix 2.A.3-4-1\n\nJapan AI GfB References: Appendix 3.A.D-5.i\n\nJapan AI GfB References: Appendix 3.A.D-7.ii\n\nJapan AI GfB References: Appendix 3.B.8"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 1.1",
+    "section_name": "TEVV",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Map 1.1\n\nTopic: TEVV\n\nJapan AI GfB References: Main:\n\nNotable Similarities & Differences: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 2.3",
+    "section_name": "MAP 2.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Map 2.3\n\nJapan AI GfB References: Part 2.C.6"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 1.1",
+    "section_name": "MEASURE 1.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 1.1\n\nJapan AI GfB References: Part 2.D.I"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 1.2",
+    "section_name": "MEASURE 1.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 1.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.1",
+    "section_name": "MEASURE 2.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 2.1\n\nJapan AI GfB References: Appendix:"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.3",
+    "section_name": "MEASURE 2.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 2.3\n\nJapan AI GfB References: Appendix 2"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.4",
+    "section_name": "MEASURE 2.4",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 2.4\n\nJapan AI GfB References: Appendix 3.A.D-3.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.5",
+    "section_name": "MEASURE 2.5",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 2.5\n\nJapan AI GfB References: Appendix 3.A.D-2.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.6",
+    "section_name": "MEASURE 2.6",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 2.6\n\nJapan AI GfB References: Appendix 3.A.D-3.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.7",
+    "section_name": "MEASURE 2.7",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 2.7\n\nJapan AI GfB References: Appendix 3.B.4"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.8",
+    "section_name": "MEASURE 2.8",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 2.8\n\nJapan AI GfB References: Appendix 4.A.P-6.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.9",
+    "section_name": "MEASURE 2.9",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 2.9\n\nJapan AI GfB References: Appendix 5.A.U-2.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.10",
+    "section_name": "MEASURE 2.10",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 2.10"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.11",
+    "section_name": "MEASURE 2.11",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 2.11"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.12",
+    "section_name": "MEASURE 2.12",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 2.12"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.13",
+    "section_name": "MEASURE 2.13",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 2.13"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 3.1",
+    "section_name": "MEASURE 3.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 3.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 3.3",
+    "section_name": "MEASURE 3.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 3.3"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 4.1",
+    "section_name": "MEASURE 4.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 4.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 4.2",
+    "section_name": "MEASURE 4.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 4.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 4.3",
+    "section_name": "MEASURE 4.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 4.3"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 6.1",
+    "section_name": "Third-party",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Govern 6.1\n\nTopic: Third-party\n\nJapan AI GfB References: Appendix:\n\nNotable Similarities & Differences: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 6.2",
+    "section_name": "GOVERN 6.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Govern 6.2\n\nJapan AI GfB References: Appendix 3.A.D-2.i"
+  },
+  {
+    "depth": 2,
+    "section_id": "MANAGE 3.1",
+    "section_name": "MANAGE 3.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Manage 3.1\n\nJapan AI GfB References: Appendix 3.A.D-2.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 4.1",
+    "section_name": "MAP 4.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Map 4.1\n\nJapan AI GfB References: Appendix 3.A.D-7.ii"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 4.2",
+    "section_name": "MAP 4.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Map 4.2\n\nJapan AI GfB References: Appendix 3.C.II\n\nJapan AI GfB References: Appendix 4.A.P-5.i\n\nJapan AI GfB References: Appendix 4.B.2\n\nJapan AI GfB References: Appendix 5.A.U-5.i\n\nJapan AI GfB References: Appendix 5.A.U-7.i\n\nJapan AI GfB References: Appendix 5.A.U-7.ii\n\nJapan AI GfB References: Appendix 5.B.2\n\nJapan AI GfB References: Appendix 6.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 2.2",
+    "section_name": "Training (of AI",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Govern 2.2\n\nTopic: Training (of AI\n\nJapan AI GfB References: Appendix:\n\nNotable Similarities & Differences: No differences noted.\n\nTopic: Actors) | Japan AI GfB References: Appendix 2.A.1-3\n\nJapan AI GfB References: Appendix 2.A.2-1\n\nJapan AI GfB References: Appendix 3.A.D-5.i\n\nJapan AI GfB References: Appendix 4.B.8"
+  },
+  {
+    "depth": 2,
+    "section_id": "GOVERN 1.2",
+    "section_name": "Validity and",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Govern 1.2\n\nTopic: Validity and\n\nJapan AI GfB References: Main:\n\nNotable Similarities & Differences: No differences noted."
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 1.1",
+    "section_name": "Reliability",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Map 1.1\n\nTopic: Reliability\n\nJapan AI GfB References: Part 2.C.2"
+  },
+  {
+    "depth": 2,
+    "section_id": "MAP 3.2",
+    "section_name": "MAP 3.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Map 3.2\n\nJapan AI GfB References: Part 2.D.VII"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 1.1",
+    "section_name": "MEASURE 1.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 1.1\n\nJapan AI GfB References: Part 2.D.VIII"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.1",
+    "section_name": "MEASURE 2.1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 2.1"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 2.5",
+    "section_name": "MEASURE 2.5",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 2.5\n\nJapan AI GfB References: Appendix:"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 4.2",
+    "section_name": "MEASURE 4.2",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 4.2\n\nJapan AI GfB References: Appendix 2.A.3-2"
+  },
+  {
+    "depth": 2,
+    "section_id": "MEASURE 4.3",
+    "section_name": "MEASURE 4.3",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "NIST AI RMF 1.0 References: Measure 4.3\n\nJapan AI GfB References: Appendix 3.A.D-2.ii\n\nJapan AI GfB References: Appendix 3.A.D-10.i\n\nJapan AI GfB References: Appendix 4.A.P-2.i\n\nJapan AI GfB References: Appendix 4.A.P-5.ii\n\nJapan AI GfB References: Appendix 4.B.3"
+  }
+]

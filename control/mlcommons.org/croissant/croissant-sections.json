@@ -1,0 +1,218 @@
+[
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "Croissant",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Standardize how ML datasets are described to make them easily discoverable,\ngovernable, and usable across tools and platforms.\n\n[Join the Working Group](https://mlcommons.org/community/subscribe/)\n\nConnect with us:\n\n  * [ GitHub ](https://github.com/mlcommons/croissant)\n  * [ Discord ](https://discord.gg/59UkrvQAbh)\n\n![](https://mlcommons.org/wp-content/uploads/2024/10/ai5.jpg.webp)"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Purpose",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "* * *\n\nData is paramount in machine learning (ML). However, finding, understanding\nand using ML datasets is still unnecessarily tedious. One reason is the lack\nof a consistent way to describe ML datasets to facilitate reuse. That’s the\naim of Croissant.\n\nCroissant is an open, community-built, standardized metadata vocabulary for ML\ndatasets, including key attributes and properties of datasets, as well as\ninformation required to load them into ML tools. Croissant enables data\ninteroperability across ML frameworks and beyond, making ML easier to\nreproduce and replicate.\n\nBy building the vocabulary as an extension to\n[schema.org](https://schema.org/), a machine-readable standard to describe\nstructured data, Croissant also makes ML datasets discoverable beyond the\nscope of the repository where they have been published. Finally, Croissant\noperationalizes dataset documentation, extending existing approaches and\nvocabularies to describe a dataset’s contents, provenance, and usage\nrestrictions."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Deliverables",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "* * *\n\n  * A shared standard vocabulary to describe ML datasets.\n  * A representative set of real-world ML datasets described in this format.\n  * An open-source Python library capable of validating Croissant datasets, consuming their records, constructing Croissant datasets programmatically, and serializing them.\n  * An open-source visual editor that supports the creation, modification and loading of Croissant dataset descriptions.\n  * An integration with Model Context Protocol (MCP) and other emerging data access methods for AI.\n  * Extensions for RAI, geospatial datasets, life sciences, digital humanities datasets.\n  * Baseline implementations of these extensions in the tools from (3) and (4).\n\n* * *"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Key Terms (Elements)",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "* * *"
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "Facilitating data discovery and use",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Any dataset with Croissant metadata is discoverable via Google Dataset Search,\nmaking more than 700,000 datasets published across Hugging Face, Kaggle,\nOpenML, and the rest of the web easily findable and accessible. Croissant can\nalso be used to load a dataset into an ML workflow, with implementations in\nTensorFlow, JAX, and PyTorch, and MCP tooling with\n[Eclair](https://mlcommons.org/2025/10/croissant-mcp/).\n\n* * *"
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "Describing data provenance and governance",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Responsible ML requires a clear understanding of the lifecycle a dataset has\nbeen through, as well as what it is allowed to be used for. By building on the\nPROV-O and DUO ontologies, Croissant provides machine-readable descriptions of\ndataset provenance and permissions, enabling fast audit and governance\nprotocols.\n\n* * *"
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "Extending across domains and ontologies",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Croissant is extensible, interoperable, and translatable to any other metadata\nvocabulary or ontology, allowing it to be used across domains from the life\nsciences to space weather. Authors can mix-and-match to ensure datasets are\ndescribed as well as possible, with Croissant functionality under the surface."
+  },
+  {
+    "depth": 5,
+    "section_id": "",
+    "section_name": "Meeting Schedule",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "**Wednesday** Weekly from 9:05am-10:00am Pacific."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Croissant is for:",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "* * *"
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "Creators and maintainers of ML datasets",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Data work is tedious and often under-appreciated. Croissant makes datasets\nmore widely available, across repositories and ML frameworks. Croissant is\ndesigned to be modular and extensible – new vocabulary extensions are\nencouraged to address the distinct characteristics of datasets of certain\nmodalities (e.g. audio, video) or in certain sectors (e.g. life sciences,\ngeospatial).\n\n* * *"
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "ML researchers and practitioners",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Users of Croissant-enabled datasets have access to dataset documentation to\nunderstand how to make the most of the data and contribute to it. They can\nfind the data they need no matter where it was published online. They can load\nthe data into different ML platforms without any overhead to transform the\ndata from one format to another.\n\n* * *"
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "RAI researchers and practitioners",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Croissant offers a machine-readable summary of important attributes captured\nin a variety of data cards and similar approaches, which is portable and\ndiscoverable no matter where the dataset and its data card live, hence\npromoting better documentation practices.\n\n* * *"
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "Policy makers",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "As AI regulation emerges across the world, Croissant provides a standardized\nway to collect core information about datasets, hence facilitating the\ndevelopment of data-centric AI audit and assurance tools such as transparency\nindexes."
+  },
+  {
+    "depth": 5,
+    "section_id": "",
+    "section_name": "Getting started with Croissant is easy. You can:",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "* Find public datasets in the Croissant format on [Google Dataset Search](https://datasetsearch.research.google.com/).\n  * Download Croissant dataset descriptions from repositories such as Hugging Face, Kaggle, OpenML etc.\n  * Inspect, create or modify croissant descriptions using the Croissant editor. You can load your data into the editor and it will derive the metadata for you to fine-tune. You can find the editor on [GitHub](https://github.com/mlcommons/croissant/tree/main/editor) or try a hosted version [here](https://huggingface.co/spaces/MLCommons/croissant-editor).\n  * Validate and consume Croissant datasets in Python using the open-source ML Croissant library, available on [GitHub](https://github.com/mlcommons/croissant).\n  * Load a dataset into TensorFlow, JAX or PyTorch using custom-built loaders.\n\n* * *"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Croissant Specifications",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "[Croissant Spec](https://docs.mlcommons.org/croissant/docs/croissant-\nspec-1.1.html)\n\n[Croissant RAI Spec](https://mlcommons.org/croissant/RAI/1.0)\n\n* * *"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "How to Join and Access Croissant Resources",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "To sign up for the group mailing list, receive the meeting invite, and access\nshared documents and meeting minutes:\n\n  * Fill out our [subscription form](https://mlcommons.org/community/subscribe/) and indicate that you’d like to join the Medical Working Group.\n  * [Associate a Google account](https://accounts.google.com/SignUpWithoutGmail) with your organizational email address.\n  * Once you’ve joined the Croissant Working Group, you’ll be able to access the [Croissant folder in the Public Google Drive](https://drive.google.com/drive/folders/1StGRO4CGWUsX9kHdM5aOQNOF1L5e2y97).\n\n* * *\n\nIf you need help with Croissant or have technical questions, feel free to\nemail [[email protected]](/cdn-cgi/l/email-\nprotection#adcedfc2c4dedeccc3d980d8dec8dfdeedc0c1cec2c0c0c2c3de83c2dfca). You\ncan also join this forum\n[here](https://groups.google.com/a/mlcommons.org/g/croissant-users).\n\n* * *\n\nTo access the GitHub repositories (public):\n\n  1. If you want to contribute code, please submit your GitHub ID to [our subscription form](https://mlcommons.org/community/subscribe/).\n  2. Visit the [GitHub repository](https://github.com/mlcommons/croissant).\n\n* * *"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Related Insights",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "[ ![Croissant 1.1 adds machine-actionable provenance, vocabulary\ninteroperability, and automated governance to the ML dataset standard—making\n700K+ datasets agent-ready.](https://mlcommons.org/wp-\ncontent/uploads/2026/02/2.svg)\n](https://mlcommons.org/2026/02/croissant-1-1-standard/)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "[ What’s New in Croissant 1.1: Extensible, Agent-Ready ML Dataset",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Standard ](https://mlcommons.org/2026/02/croissant-1-1-standard/)\n\nBlog February 12, 2026\n\n[ ![croissant logo](https://mlcommons.org/wp-\ncontent/uploads/2025/02/croissantqablog.png)\n](https://mlcommons.org/2025/10/croissant-mcp/)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "[ Metadata, Meet Datasets: Croissant and MCP in Action",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "](https://mlcommons.org/2025/10/croissant-mcp/)\n\nNews October 1, 2025\n\n[ ![AAAI 2025: Datasets, evaluators and reducing AI\nRisk](https://mlcommons.org/wp-content/uploads/2025/06/Croissant-Gains-\nMomentum-within-the-Data-Community-Presentation-43.png)\n](https://mlcommons.org/2025/06/aaai2025/)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "[ Emerging themes from AAAI 2025: standardisation, evaluation &",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "collaboration in AI safety ](https://mlcommons.org/2025/06/aaai2025/)\n\nBlog June 3, 2025\n\n[ ![CKAN Blog Image Croissant](https://mlcommons.org/wp-\ncontent/uploads/2025/04/CKAN-Support-Croissant.jpg)\n](https://mlcommons.org/2025/04/ckan-croissant/)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "[ CKAN Announces Support for Croissant",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "](https://mlcommons.org/2025/04/ckan-croissant/)\n\nNews April 15, 2025\n\n[View All](https://mlcommons.org/category/croissant/)\n\n* * *"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Croissant Working Group Workstreams and Leads",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "* **Croissant RAI,** workstream leads: Albert Merono Penuela and Joan Giner-Miguelez, [[email protected]](/cdn-cgi/l/email-protection#066574696f75756768722b74676f466b6a65696b6b69687528697461)\n  * **GeoCroissant** , workstream leads: Rajat Shinde and Manil Maskey, [[email protected]](/cdn-cgi/l/email-protection#f89b8a97918b8b99968cd59f9d97b895949b97959597968bd6978a9f)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "*",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Croissant Working Group Chairs",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "To contact all Croissant working group chairs email [[email protected]](/cdn-\ncgi/l/email-\nprotection#e68594898f9595878892cb858e878f9495a68b8a85898b8b898895c8899481)."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Elena Simperl",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "[[email protected]](/cdn-cgi/l/email-\nprotection#7f1a131a111e3f12131c10121210110c51100d18)\n\n  * [ ](https://www.linkedin.com/in/elena-simperl-40b584b/)\n  * [ ](https://elenasimperl.eu/)\n\nElena Simperl is a professor of computer science at King’s College London and\nthe director of research at the Open Data Institute (ODI). She is also a\nFellow of the British Computer Society and of the Royal Society of Arts, and\nfeatures in the top 100 most influential scholars in knowledge engineering of\nthe last decade. Elena’s research is at the intersection between AI and social\ncomputing, helping designers understand how to build smart sociotechnical\nsystems that combine data and algorithms with human and social capabilities.\nShe is the president of the Semantic Web Science Association, a non-for-profit\nwith the purpose of promoting and exchanging scholarly work in semantic\ntechnologies and related fields throughout the world."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Omar Benjelloun",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "[[email protected]](/cdn-cgi/l/email-\nprotection#6b04060a192b0607080406060405184504190c)\n\n  * [ ](https://www.linkedin.com/in/omar-benjelloun-8b50764/)\n\nOmar Benjelloun is a software engineer at Google, where he has developed data-\nfocused products (Google Public Data Explorer, Google Dataset Search) and\nSearch features (media reviews, public statistics answers, related entities,\n…) for over a decade and a half. Prior to joining Google, Omar received a PhD\nin Databases from INRIA / University of Paris Orsay, and spent two years as a\npostdoc in the Database group at Stanford University."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Joaquin Vanschoren",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "[[email protected]](/cdn-cgi/l/email-\nprotection#c68ca9a7b7b3afa886abaaa5a9ababa9a8b5e8a9b4a1)\n\n  * [ ](https://www.linkedin.com/in/jvanschoren/)\n  * [ ](https://x.com/joavanschoren)\n  * [ ](https://joaquinvanschoren.github.io/home/)\n\nJoaquin Vanschoren is an Associate Professor of Machine Learning at the\nEindhoven University of Technology. His research focuses on understanding and\ndemocratizing AI to build learning systems that help humanity. He performs\nleading work on making AI more open and accessible, turning insights into more\nautomated and efficient AI methods, and thoroughly benchmarking their real-\nworld performance and safety. He founded and leads OpenML.org, initiated and\nchaired the NeurIPS Datasets and Benchmarks track, is editor-in-chief of DMLR,\nand action editor for JMLR. He won the Dutch Data Prize, an Amazon Research\nAward, and several paper awards. He gave over 30 invited talks, was tutorial\nspeaker at NeurIPS and AAAI, and authored over 200 papers and reference books\non AutoML and meta-learning . He contributed to discussions at the Royal\nSociety and OECD and is a founding member of the European AI networks ELLIS\nand CLAIRE.\n\n[ ![ML Commons](https://mlcommons.org/wp-\ncontent/themes/mlcommons/build/img/ML-Commons-Logo-white.svg)\n](https://mlcommons.org) Better AI for Everyone\n\n**Stay Updated**\n\nGet the latest MLCommons updates delivered fresh to your inbox\n\n\"*\" indicates required fields\n\nEmail*\n\nBy submitting this form you agree to our [Privacy\nPolicy](https://drive.google.com/file/d/1TatG4zaK9kiXDrwEo9049VvB7Qurz6MU/view)\n\n© 2026 MLCommons. MLCommons, MLPerf and MLCube are registered trademarks of\nMLCommons Association.\n\n  * [Privacy Policy](https://drive.google.com/file/d/1TatG4zaK9kiXDrwEo9049VvB7Qurz6MU/view)\n  * [Policies](https://mlcommons.org/policies/)\n\n  * [ Follow us on GitHub ](https://github.com/mlcommons)\n  * [ Follow us on Discord ](https://discord.com/invite/rRbEjveNy5)\n  * [ Follow us on X ](https://twitter.com/MLCommons)\n  * [ Follow us on LinkedIn ](https://www.linkedin.com/company/mlcommons/)\n  * [ Follow us on YouTube ](https://www.youtube.com/@mlcommons)\n\nMLCommons uses cookies to enable and improve our website. Please see our\n[Privacy\nPolicy](https://drive.google.com/file/d/1TatG4zaK9kiXDrwEo9049VvB7Qurz6MU/view)\nfor more information.\n\nAccept\n\nClose GDPR Cookie Settings\n\n![](https://mlcommons.org/wp-content/uploads/2024/10/ML-Commons-Logo.svg)\n\n  * Privacy Overview\n  * Strictly Necessary Cookies\n\n[Powered by GDPR Cookie Compliance](https://wordpress.org/plugins/gdpr-cookie-\ncompliance/)\n\nPrivacy Overview\n\nThis website uses cookies so that we can provide you with the best user\nexperience possible. Cookie information is stored in your browser and performs\nfunctions such as recognising you when you return to our website and helping\nour team to understand which sections of the website you find most interesting\nand useful.\n\nStrictly Necessary Cookies\n\nStrictly Necessary Cookie should be enabled at all times so that we can save\nyour preferences for cookie settings.\n\nEnable or Disable Cookies Enabled Disabled\n\nEnable All Save Settings"
+  }
+]

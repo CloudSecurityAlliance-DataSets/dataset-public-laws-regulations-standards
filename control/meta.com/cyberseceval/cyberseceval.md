@@ -46,4 +46,3 @@ Source
 Logo](/PurpleLlama/CyberSecEval/img/meta_open_source_logo.svg)](https://opensource.fb.com)
 
 Copyright © 2026 Meta Platforms, Inc. Built with Docusaurus.
-

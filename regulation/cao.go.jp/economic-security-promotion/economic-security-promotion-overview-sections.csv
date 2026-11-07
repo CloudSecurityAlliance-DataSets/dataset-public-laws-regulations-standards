@@ -1,0 +1,826 @@
+"depth","section_id","section_name","id_kind","parent_id","body"
+"1","","Act on the Promotion of Ensuring National Security through Integrated Implementation of Economic Measures","","",""
+"3","","【tentative translation】","","",""
+"2","","System for Ensuring Stable Provision of Specified Essential Infrastructure Services under the Economic Security Promotion Act","","",""
+"2","","July 7, 2026","","",""
+"2","","[Notes]","","",""
+"3","","Only the Japanese laws has legal effect, and this document is only reference materials for understanding. We cannot hold responsibility for any problems arise from the use of this document, so please refer to the official Japanese laws and regulations published in need． You can use this document for any purpose without our permission as long as you make no changes to it. If you use only certain slides or","","","parts of slides, please add the URL of the webpage where this full document can be found. Please refer only to the latest version of this document, as it is subject to revision."
+"3","","Outline of the System for Ensuring Stable Provision of Specified Essential Infrastructure","","",""
+"3","","Services under the Economic Security Promotion Act","","",""
+"3","","While it is important to ensure stable provision of specified essential infrastructure services, which are fundamental to the daily lives of Japanese","","","people and Japan’s economic activities, critical facilities used for such services may be misused to disrupt the stable provision of such services."
+"3","","For this reason, Chapter III of the Economic Security Promotion Act* provides that the State must designate business to be regulated (specified","","","essential infrastructure business) and service providers to be regulated (specified essential infrastructure service providers, a total of 258 designated service"
+"3","","providers, as of July 1, 2026) under certain criteria and that designated service providers must notify the State (the competent minister) and undergo screening before introducing or entrusting a third party with the maintenance and management of, a critical facility designated by the State","","","(specified critical facility). * Act on the Promotion of Ensuring National Security through Integrated Implementation of Economic Measures (Act No. 43 of 2022)  When concluding that the specified critical facility pertaining to a submitted plan is highly likely to be misused as a means for disruptive actions, the State may recommend (or order) that the service provider submitting the plan take necessary measures to prevent disruptive actions before the introduction or entrustment of maintenance and management."
+"2","","System structure","","",""
+"2","","Supplier/contractor","","",""
+"3","Supplier/contractor: (2)","Conduct screening (for 30 days (which can be extended or shortened)）","cjk_sub","",""
+"3","(0)","Conclude a contract on","cjk_sub","","introduction/ entrustment.
+
+(1) Submit an introduction/entrustment plan Specified essential"
+"2","","infrastructure service provider","","",""
+"3","infrastructure service provider: (3)","Hold consultations if","cjk_sub","",""
+"2","","Prime Minister","","","necessary"
+"2","","Competent minister","","",""
+"3","(5)","(If necessary) Issue a recommendation (or order)","cjk_sub","",""
+"3","","Relevant Administrative","","",""
+"3","Competent minister: (4)","Provide comments","cjk_sub","",""
+"3","","Organization","","",""
+"4","Organization: (1)","Regulated business sectors…The Act lists the regulated business sectors as shown below. The Cabinet Order details the regulated business and services","cjk_sub","","within each business sector."
+"3","1","Electricity 2. Gas 3. Petroleum 4. Water Supply 5. Railway 6. Truck Transportation 7. International Maritime","numbered","","Cargo"
+"3","8","Port and","numbered","","Harbor Transport"
+"3","9","Air Transport 10. Airports","numbered","","11.Telecommunications 12.Broadcasting"
+"3","13","Postal Service 14. Medical Care * 15. Financial Services 16. Credit Cards","numbered","",""
+"4","(2) (1)","Regulated service providers (specified essential infrastructure service providers)…For each business sector, the competent minister establishes designation","cjk_sub","","criteria under the Ministerial Order and designates and publicly announces regulated service providers.
+
+* On June 17, 2026, the amending act adding the medical sector was promulgated. It will come into force on a date specified by Cabinet Order within one year and six months from the date of promulgation."
+"3","","Scope of Information to be Provided under the System for Ensuring Stable Provision of Specified Essential Infrastructure Services under the Economic Security Promotion Act","","",""
+"3","","The Act requires notification and screening for the “introduction of specified critical facilities” (before introduction), as well as notification and screening for the “entrustment of the critical maintenance and management of specified critical facilities to third parties.” For the former notification, information on the suppliers of a specified critical facility and its component facilities must be provided. For the latter, information on all the contractors and subcontractors of critical maintenance and management. must be provided (for critical maintenance and management., some","","","information is not required if certain conditions are met)."
+"3","","Red frame: Scope of information to be provided to the competent minister","","",""
+"2","","Supplier of specified critical facility","","",""
+"3","","Supplier of component facility","","","(e.g.) Procure a component facility B"
+"3","","Introduce a specified critical facility","","",""
+"2","","Essential infrastructure service provider","","",""
+"3","","(specified essential infrastructure service provider)","","","of facility A
+
+(e.g.) Procure a specified"
+"3","","Supplier of component facility","","","(e.g.) Procure a component facility X
+
+critical facility A
+
+of facility A"
+"3","","Supplier of component facility","","",""
+"3","","Service provider D","","",""
+"3","","Service provider N","","",""
+"2","","・・・・・・","","","(e.g.) Procure a component facility C"
+"3","","(Information on the suppliers of facilities other than component facilities is not required.)","","","of facility B"
+"3","","Service provider Z","","",""
+"3","","Service provider Y","","",""
+"2","","・・・・・・","","",""
+"3","","(e.g.) Procure a component facility","","",""
+"3","","Y of facility X","","","* Facilities C and X have been designated as the component facilities of specified critical facility A."
+"3","","Entrust a third party with critical","","","maintenance and management.
+
+Subcontractor
+
+(e.g.) Subcontract (1) the maintenance and management"
+"2","","Contractor","","","(e.g.) Contract out (1) the
+
+of the facility
+
+maintenance and management of a facility and (2) the
+
+Subcontractor
+
+(e.g.) Subcontract (2)
+
+security of the facility
+
+the security of
+
+the facility
+
+Subcontractor (final contractor)"
+"2","","・・・・・・","","","Subcontractor
+
+(e.g.) Subcontract (1) the maintenance and management
+
+of the facility
+
+Subcontractor"
+"3","","(Information on the contractors and subcontractors who are not engaged in critical maintenance and management. is not required.)","","","(e.g.) Subcontract (2)
+
+the security of
+
+the facility
+
+* “(1) The maintenance and management” of the facility is critical maintenance and management, while “(2) the security of the facility” is not.
+
+Notification (Some required information may be provided by"
+"3","","Competent minister","","","the suppliers, contractor, and subcontractors
+
+directly to the competent minister.)"
+"3","","The competent minister may directly require the suppliers,","","","contractor, and subcontractors to provide necessary information."
+"3","","Notifications Required by the System for Ensuring Stable Provision of Specified Essential","","",""
+"3","","To introduce a specified critical facility or the entrustment of critical maintenance and management., to third parties, the Act requires (1) submission of an introduction plan, (2) submission of an urgent introduction notification, (3) notification of (in advance) draft changes to the introduction plan, and","","","(4) reporting of (urgent) changes to the introduction plan."
+"3","","Before introduction or entrustment","","",""
+"2","(1) (1)","Submit an introduction plan","cjk_sub","",""
+"3","","In case of urgency","","(1) (1)",""
+"2","","Start the introduction","","",""
+"2","","or entrustment","","",""
+"3","","30-day* screening period (prohibiting introduction)","","","* This period can be shortened or extended (up to four months)."
+"3","","Specified disruptive actions","","",""
+"3","","are highly likely","","","(within 10 days)"
+"3","","Authorized to start the introduction or entrustment","","",""
+"3","","Recommendation for changes or suspension","","",""
+"3","","Notify whether","","",""
+"3","","to accept it","","",""
+"2","(2) (2)","Submit an urgent introduction notification","cjk_sub","","If minor changes are necessary If changes other than material and minor ones are necessary
+
+If material changes"
+"3","","Make the changes","","(2) (2)","are necessary"
+"3","","(Not required to notify","","(2) (2)",""
+"3","","or report)","","(2) (2)",""
+"3","Submit an urgent introduction notification: (4)","Report the changes to the","cjk_sub","",""
+"3","Submit an urgent introduction notification: (3)","Notify (in advance) draft changes","cjk_sub","",""
+"3","","introduction plan","","(2) (2)",""
+"3","","to the introduction plan","","(2) (2)",""
+"2","","After introduction During entrustment*","","","If changes other than material and minor ones are necessary
+
+If changes to a component facility
+
+If a change to the specified critical facility
+
+are necessary
+
+is deemed the introduction of a new"
+"3","","Make the changes","","","If material changes
+
+are necessary"
+"4","Make the changes: (3)","Notify (in advance) draft changes","cjk_sub","","to the introduction plan
+
+If urgent changes
+
+are necessary"
+"3","","Make the changes","","",""
+"3","","Make the","","",""
+"3","","changes","","",""
+"4","changes: (4) (1)","Report the changes to the","cjk_sub","","introduction plan (not required to
+
+notify or report minor changes)"
+"4","changes: (4) (2)","Report the urgent","cjk_sub","","30-day* screening period (prohibiting entrustment) * This period can be shortened or extended (up to four months)."
+"3","After introduction During entrustment*: (1)","Submit a new","cjk_sub","",""
+"3","After introduction During entrustment*: (4)","Report the changes to","cjk_sub","",""
+"3","","the introduction plan","","","Authorized to make the changes
+
+changes to the
+
+* No notification is required after the completion of the entrustment."
+"3","","Structure of Ministerial Orders *1 under the System for Ensuring Stable Provision of Specified Essential","","","Provision Outline Relevant provisions of
+
+the Act*2 Relevant forms*3
+
+Defines specified critical facilities. Art. 50, para. (1)
+
+Designation of specified essential infrastructure service providers
+
+Provides the designation criteria for specified essential infrastructure service providers, how to notify designations, the procedures to notify name and address changes, and notice of designation cancellation. Art. 50 and Art. 51 Forms 1 to 3
+
+Provides the requirements for the parent corporations of corporations that can be identified with specified essential infrastructure service providers. Art. 52, para. (1) －
+
+Virtually identical corporation
+
+Define critical maintenance and management Art. 52, para. (1) －
+
+Critical maintenance and management
+
+Provides the form of introduction plan and requires submission of an introduction plan as well as certificates of registered information of suppliers and copies of the officers’ passports, family register transcripts, certificates of family register information, or copies of resident records containing the registered domicile of suppliers’ officers (or equivalent documents for foreigners)
+
+Form of introduction plan
+
+Art. 52, para. (1) Form 4
+
+Provides the requirements for urgency where the introduction of a specified critical facility is allowed without prior notification as follows: (1) there is an urgent need; (2) the specified essential infrastructure service provider does not attempt to evade giving notification; (3) the introduction is necessary; and (4) there are no alternatives.
+
+Urgency
+
+Art. 52, para. (1), proviso and Art. 52, para. (11) Form 5
+
+Specifies required information on the suppliers of a specified critical facility and its component facilities, required information on component facilities, and required information on the contractor and subcontractors of critical maintenance and management, and requires notification of risk management measures.
+
+Information to be provided and component facilities
+
+Art. 52, para. (2), items (ii) to (iv) －
+
+Provides that some information on subcontractors do not need to be provided if documentation supporting the confirmation required by the Ministerial Order is submitted. Art. 52, para. (1) －
+
+Exception to notification of subcontracting
+
+Procedure to shorten or extend the prohibition period Provides the procedure for the competent minister to shorten or extend the prohibition period based on screening results. Art. 52, para. (3) and (4) －
+
+Provides the form of notification of whether to accept a recommendation that specified essential infrastructure service providers receiving the recommendation must give within 10 days of the recommendation. Art. 52, para. (7) Form 6
+
+Notification of whether to accept a recommendation
+
+Resubmission of an introduction plan after a recommendation
+
+Provides the procedure for specified essential infrastructure service providers receiving a recommendation to resubmit an introduction plan based on the recommendation and the form of plan. Art. 52, para. (8) (Form 4)
+
+Ordering procedure Provides the procedure for the competent minister to issue orders to specified essential infrastructure service providers. Art. 52, para. (10) ―
+
+Material changes Defines changes that require prior notification (material changes), provides the form of material change notification and the procedure to notify material changes, and defines urgent changes. Art. 54, para. (1) to (3) Forms 7 and 8
+
+Minor changes Defines minor changes that do not require reporting or notification. Art. 54, para. (4) －
+
+Other changes Provides the procedure to make an after-the-fact report of changes and defines changes to component facilities that require after-thefact reporting. Art. 54, para. (4) Forms 9 and 10
+
+Provides that specified essential infrastructure service providers be required to give the reports necessary to check whether they meet the designation criteria. Art. 58, para. (1) and (2)
+
+Reporting and on-site inspection
+
+Provides the format of identification cards for on-site inspections. Art. 58, para. (2) Form 11
+
+*1 Under the Act, each ministry has its own ministerial order titled “Ministerial Order on Specified Essential Infrastructure Service Providers Related to the Ministry of  under the Act on the Promotion of Ensuring National Security through Integrated Implementation of Economic Measures” (with some exceptions). *2 Articles to which the listed articles apply, with the necessary changes, made are omitted. *3 Form numbers may differ from ministry to ministry."
+"3","","Information to be Provided under the System for Ensuring Stable Provision of Specified Essential Infrastructure Services (information required in the introduction plan)","","","Introduction of a specified critical facility Entrustment of critical maintenance and management to a third party
+
+(its type, name, functions, place of installation, and place of use) (its type, name, functions, place of installation, and place of use)
+
+Details and date of introduction Details and date or duration of the contract work
+
+Purpose of introduction ― Purpose of the contract work ―
+
+Names, etc.*2 of the parties involved in introduction ― Scope and place of the contract work ―
+
+Date of introduction ― Date or duration of the contract work ―
+
+Information on the supplier of the specified critical facility Information on the contractor of the critical maintenance and management
+
+The supplier’s name, address, and country with jurisdiction over incorporation
+
+Certificate of registered
+
+information*1
+
+The contractor’s name, address, and country with jurisdiction over incorporation
+
+Certificate of registered
+
+information*1
+
+Direct holders*2 of 5% or more of the supplier’s voting rights ― Direct holders*2 of 5% or more of the contactor’s voting rights ―
+
+Names, dates of birth, and nationalities of the supplier’s officers Copies of the officers’ passports,
+
+etc.*3
+
+Name of a foreign government, etc. and other information if the supplier’s annual sales from transactions with the foreign government, etc. account for 25% or more of its total annual sales
+
+―
+
+Place of facility’s manufacture ―
+
+Names, dates of birth, and nationalities of the contractor’s officers
+
+Copies of the officers’ passports,
+
+etc.*3
+
+Name of a foreign government, etc. and other information if the contractor’s annual sales from transactions with the foreign government, etc. account for 25% or more of its total annual sales
+
+―
+
+Information on each component facility Information on each subcontractor for the critical maintenance and management *4
+
+General information of the facility (its type, name, and functions) ― Details, place, and date or duration of the subcontract work ―
+
+The supplier’s name, address, and country with jurisdiction over incorporation
+
+Certificate of registered
+
+information*1
+
+The subcontractor’s name, address, and country with jurisdiction over incorporation
+
+Certificate of registered
+
+information*1
+
+Direct holders*2 of 5% or more of the supplier’s voting rights ― Direct holders*2 of 5% or more of the subcontractor's voting rights ―
+
+Names, dates of birth, and nationalities of the supplier’s officers Copies of the officers’ passports,
+
+etc.*3
+
+Name of a foreign government, etc. and other information if the supplier’s annual sales from transactions with the foreign government, etc. account for 25% or more of its total annual sales
+
+―
+
+Place of facility’s manufacture ―
+
+Risk management measures required for the introduction*2
+
+Names, dates of birth, and nationalities of the subcontractor’s officers
+
+Copies of the officers’ passports,
+
+etc.*3
+
+Name of a foreign government, etc. and other information if the subcontractor’s annual sales from transactions with the foreign government, etc. account for 25% or more of its total annual sales
+
+―
+
+Risk management measures required for the entrustment*2
+
+* Green underlines indicate the information that the suppliers, contractor, or subcontractors can provide directly to the State. *1 Certificates of registered information are not required for the suppliers, contractor, and subcontractors that have been registered in Japan. *2 This information relates to the nationalities of the individuals involved in the introduction, the countries with jurisdiction over incorporation or nationalities of the voting rights holders, and some of the required risk management measures. *3 Any one of a passport copy, a family register transcript, a certificate of family register information, or a copy of the resident record containing the registered domicile of the officer. If the officer is a foreigner, any equivalent document showing the name, date of birth, and nationality. *4 If the required information on a subcontractor is not provided, the plan must be accompanied by documentation supporting the implementation of the measures required by the Ministerial Order."
+"2","","Changes to the Introduction Plan for the Introduction of a Specified Critical Facility","","","The type, name, functions, place of installation, and place of use of the facility
+
+facility (Art. 52, para. (2), item (i))
+
+The purpose of the introduction of the facility and the names, etc. of the parties involved in the introduction Material change
+
+Details of the introduction (Art. 52. para. (2), item (ii)(a))
+
+The date of the introduction (when the facility will be available for the provision of infrastructure services) Change to be reported after the fact
+
+Date of the introduction (Art. 52. para. (2), item (ii)(a))
+
+• The supplier’s name: Material change • The representative’s name: Change to be reported after the fact
+
+The supplier’s name and its representative’s name (if the supplier is an individual, only their name)
+
+The supplier’s address • Change of the country: Material change • Other changes: Minor change
+
+The supplier’s country with jurisdiction over incorporation (if the supplier is an individual, their nationality) Material change
+
+• Information other than the proportion of voting rights held: Change to be reported after the fact • Proportion of voting rights held New direct holder (1) to (3) below: Change to be
+
+The names, countries with jurisdiction over incorporation or nationalities and proportions of voting rights held of the direct holders of 5% or more of the supplier’s voting rights * If there is a new director holder of 5% or more of the voting rights, that person must be reported after the fact as a change to the names of the voting rights holders.
+
+Information on the supplier of the specified critical facility (Art. 52, para. (2), item (ii)(b))"
+"3","","* To add a new supplier of the specified critical facility, submit a plan including all the required","","","information.
+
+reported after the fact Other new direct holder: Minor change"
+"3","(1) (2)","Direct holder of 25% or more but less than one-","cjk_sub","","third of the voting rights (2) Direct holder of one-third or more but less than
+
+50% of the voting rights (3) Direct holder of 50% or more of the voting rights
+
+The names, dates of birth, and nationalities of the supplier’s officers Change to be reported after the fact
+
+If the supplier’s annual sales from transactions with a foreign government, etc. accounted for 25% or more of its total annual sales in the last three years: the relevant business years, the name of the foreign country, and the percentage of the sales from the foreign government, etc.
+
+Change to be reported after the fact
+
+Location of the plant or place of business that will manufacture the facility
+
+• Change of the country: Material change • Other changes: Minor change
+
+Information on each component facility (Art. 52, para. (2), item (ii)(c)) (The same information as the information on the supplier of the specified critical facility)"
+"2","","Changes to the Introduction Plan for the Entrustment of Critical Maintenance and Management","","","The type, name, functions, place of installation, and place of use of facility
+
+facility (Art. 52, para. (2), item (i))
+
+Details of the contract work (Art. 52, para. (2), item (iii)(a)) The purpose, scope, and place of the contract work Material change
+
+Date or duration of the contract work (Art. 52, para. (2), item (iii)(a)) Date or duration of the contract work • Extension of the period: Material change • Other changes: Change to be reported after the fact
+
+• The contractor’s name: Material change • The representative’s name: Change to be reported after the fact
+
+The contractor’s name and its representative’s name (if the contractor is an individual, only their name)
+
+The contractor’s address • Change of the country: Material change • Other changes: Minor change
+
+The contractor’s country with jurisdiction over incorporation (if the contractor is an individual, their nationality) Material change
+
+• Information other than the proportion of voting rights held: Change to be reported after the fact • Proportion of voting rights held New direct holder (1) to (3) below: Change to be
+
+The names, countries with jurisdiction over incorporation or nationalities, and proportions of voting rights held of the direct holders of 5% or more of the contractor’s voting rights * If there is a new director holder of 5% or more of the voting rights, that person must be reported after the fact as a change to the names of the voting rights holders.
+
+Information on the contractor of the contract work (Art. 52, para. (2), item (iii)(b))
+
+* To add a new contractor of the critical maintenance and management, submit a plan including all the required information.
+
+reported after the fact
+
+Other new direct holder: Minor change (1) Direct holder of 25% or more but less than one-
+
+third of the voting rights (2) Direct holder of one-third or more but less than
+
+50% of the voting rights (3) Direct holder of 50% or more of the voting rights
+
+The names, dates of birth, and nationalities of the contractor’s officers Change to be reported after the fact
+
+If the contractor’s annual sales from transactions with a foreign government, etc. accounted for 25% or more of its total annual sales in the last three years: the relevant business years, the name of the foreign country, and the percentage of the sales from the foreign government, etc.
+
+Change to be reported after the fact
+
+(The same information as the information on the contractor of the critical maintenance and management)
+
+Information on the subcontract work (Art. 52, para. (2), item (iii)(c))"
+"3","","Details of the Information Required in the Introduction Plan (for introducing a specified critical facility [1])","","","◎ ◎ ◎
+
+Name Provide information about the facility that can distinguish it from other specified critical facilities of the same type, such as the product name and model number. Functions Describe the functions unique to the facility necessary for the stable provision of the specified essential infrastructure service. Place of installation Provide the place of installation and the place of use or operation of the facility. Provide the prefecture’s name at least (if the facility is located outside Japan, the name of the administrative district equivalent to a Japanese prefecture (such as a state of a federal nation)). Place of use"
+"2","","Details and date of introduction","","","Required information Instructions Purpose Provide the purpose of introduction (e.g., “periodic replacement” and “changing the scope of services”).
+
+◎
+
+Provide the names and representative’s names, addresses, countries or territories with jurisdiction over incorporation or nationalities, and relationship with the introduction (roles) of those involved in introduction*. Provide the information of all the parties involved. If there is no such a party, state “N/A.” * Persons who fall under (1) or (2) below. In the “relationship with introduction” section, state which category the party falls under. (1) Person who manages the supply network of the facility or plays other important roles in introduction of the facility as an intermediary between the specified essential
+
+Information on the parties involved in introduction
+
+◎
+
+infrastructure service provider and the supplier (2) Person who checks the implementation status of measures to prevent disruptions to the facility, including cybersecurity measures, and may bring changes to the
+
+facility’s functions
+
+Date Specify when (date) a series of the necessary processes for the installation of the facility will be completed and the facility will be available for the provision of infrastructure services.
+
+○"
+"2","","Information on the supplier of the specified critical facility","","","Required information Instructions
+
+The supplier’s information Provide the supplier’s name and representative’s name, address, and country or territory with jurisdiction over incorporation. [Necessary accompanying document: a certificate of registered information] Information on the direct holders of 5% or more of the voting rights of the supplier"
+"3","","◎★","","","Provide the names, countries or territories with jurisdiction over incorporation or nationalities, and proportions of voting rights held* of the direct holders of 5% or more of the supplier’s voting rights. * The proportion of voting rights held is the proportion of the voting rights held in the total voting rights of the supplier as of a day within two months before the date of notification.
+
+○★
+
+Provide the names, dates of birth, and nationalities of the supplier’s officers (as defined in the Ministerial Order; for example, directors and executive officers if the supplier is a company with nominating committee, etc.). [Necessary accompanying documents: a certificate of registered information and copies of their passports, etc.*] * Any one of a passport copy, a family register transcript, a certificate of family register information, or a copy of the resident record containing the registered domicile (or any equivalent document showing the name, date of birth, and nationality for foreigners) If the supplier’s annual sales from transactions with a foreign government, etc. account for 25% or more of its total annual sales
+
+○
+
+Information on the supplier’s officers
+
+If the supplier’s annual sales from transactions with a foreign government, etc. (the national government, a governmental organization, a local government, the central bank, or a political party or other political organization of a foreign country or territory) accounted for 25% or more of its total annual sales for a business year within the last three business years ending on or before the day two months before the date of notification, provide the relevant business years, the name of the foreign government, etc., and the percentage of the sales.
+
+○
+
+Facility’s place of manufacture Provide the name of the country or territory where the plant or place of business that will manufacture the facility is located. Confirm that the supplier will manufacture the facility on its own and will meet the functional requirements of the facility. * Changes to the information marked with a “◎” must be notified in advance as material changes, while changes to the information indicated by “○” must be reported after the fact. The symbol indicates that the information includes information whose changes may be treated differently (for example, the marks “◎★” includes refer to"
+"3","","◎★","","",""
+"3","","Details of the Information Required in the Introduction Plan (for introducing a specified critical facility [2])","","",""
+"2","","Information on each component facility","","","General information on each component facility
+
+◎
+
+Type Indicate which of the component facilities listed in the Ministerial Orders the facility falls under.
+
+Name Provide information on the facility that can distinguish it from other component facilities of the same type, such as the product name and model number.
+
+◎
+
+◎
+
+Functions Describe the functions unique to the facility necessary for the stable provision of the specified essential infrastructure service.
+
+Information on the supplier of each component facility
+
+The supplier’s information Provide the supplier’s name and representative’s name, address, and country or territory with jurisdiction over incorporation. [Necessary accompanying document: a certificate of registered information]"
+"3","","◎★","","","Information on the direct holders of 5% or more of the voting rights of the supplier
+
+Provide the names, countries or territories with jurisdiction over incorporation or nationalities, and proportions of voting rights held* of the direct holders of 5% or more of the supplier’s voting rights. * The proportion of voting rights held is the proportion of the voting rights held in the total voting rights of the supplier as of a day within two months before the date of notification.
+
+○★
+
+Provide the names, dates of birth, and nationalities of the supplier’s officers (as defined in the Ministerial Order; for example, directors and executive officers if the supplier is a company with nominating committee, etc.). [Necessary accompanying documents: a certificate of registered information and copies of their passports, etc.*] * Any one of a passport copy, a family register transcript, a certificate of family register information, or a copy of the resident record containing the registered domicile (or any equivalent document showing the name, date of birth, and nationality for foreigners) If the supplier’s annual sales from transactions with a foreign government, etc. account for 25% or more of its total annual sales
+
+Information on the supplier’s officers
+
+○
+
+If the supplier’s annual sales from transactions with a foreign government, etc. (the national government, a governmental organization, a local government, the central bank, or a political party or other political organization of a foreign country or territory) accounted for 25% or more of its total annual sales for a business year within the last three business years ending on or before the day two months before the date of notification, provide the relevant business years, the name of the foreign government, etc., and the percentage of the sales.
+
+○
+
+Facility’s place of manufacture Provide the name of the country or territory where the plant or place of business that will manufacture the facility is located. Confirm that the supplier will manufacture the facility on its own and will meet the functional requirements of the facility."
+"3","","◎★","","",""
+"2","","Information on measures to prevent specified disruptive actions (risk management measures)","","","◎
+
+Examples of the required risk management measures *For some measures, documentation supporting the implementation may be provided directly to the competent minister.
+
+Each specified essential infrastructure service provider must confirm that they have inspection arrangements for the specified critical facility in place, including an acceptance
+
+inspection to check for any malicious code and other security problems, and will conduct vulnerability tests of the specified critical facility before its introduction. Each specified essential infrastructure service provider must confirm that the supplier of the specified critical facility guarantees a sufficient after-sales service (such as responses
+
+to failures and vulnerabilities). Each specified essential infrastructure service provider must confirm the compliance of the supplier of the specified critical facility with domestic laws and international standards
+
+(including each country’s regulations based on the international standards), including its compliance for the three years before the date of notification. Each specified essential infrastructure service provider must ensure, under the contract with the supplier of the specified critical facility, that the supplier reports to the service
+
+provider any possible breaches of the contract that may result from the legislation of a foreign country or an external entity’s instructions (including both explicit and tacit ones)."
+"3","","Details of the Information Required in the Introduction Plan (for the entrustment of critical maintenance and management [1])","","",""
+"3","","General information of the critical specified facility (subject to critical maintenance and management)","","","Name Provide information on the facility that can distinguish it from other specified critical facilities of the same type, such as the product name and model number.
+
+◎
+
+◎ ◎ ◎
+
+Functions Describe the functions unique to the facility necessary for the stable provision of the specified essential infrastructure service.
+
+Place of installation Provide the place of installation and the place of use or operation of the facility. Provide the prefecture’s name at least (if the facility is located outside Japan, the name of the administrative district equivalent to a Japanese prefecture (such as a state of a federal nation)). Place of use"
+"2","","Details and date or duration of the contract work","","","Required information Instructions
+
+Purpose Provide the purpose of the critical maintenance and management to be contracted out (e.g., “periodical maintenance and inspection is necessary”).
+
+◎
+
+◎
+
+Scope Provide the scope of the contract work (e.g., “maintenance and inspection and replacement of parts”).
+
+◎
+
+Place Provide the place where the contract work will be performed.
+
+Date or duration If the contract work is one-time and non-continuous, specify the date of the work. If the contract work is recurring and continuous, specify the duration of the work."
+"3","","◎★","","",""
+"2","","Information on the contractor for the contract work","","","Required information Instructions
+
+The contractor’s information Provide the contractor’s name and representative’s name, address, and country or territory with jurisdiction over incorporation. [Necessary accompanying document: a certificate of registered information] Information on the direct holders of 5% or more of the voting rights of the contractor"
+"3","","◎★","","","Provide the names, countries or territories with jurisdiction over incorporation or nationalities, and proportions of voting rights held*
+
+○★
+
+of the direct holders of 5% or more of the contractor’s voting rights. * The proportion of voting rights held is the proportion of the voting rights held in the total voting rights of the contractor as of a day within two months before the date of notification.
+
+Provide the names, dates of birth, and nationalities of the contractor’s officers (as defined in the Ministerial Order; for example, directors and executive officers if the contractor is a company with nominating committee, etc.). [Necessary accompanying documents: a certificate of registered information and copies of their passports, etc.*] * Any one of a passport copy, a family register transcript, a certificate of family register information, or a copy of the resident record containing the registered domicile (or any equivalent document showing the name, date of birth, and nationality for foreigners)
+
+Information on the contractor’s officers
+
+○
+
+If the contractor’s annual sales from transactions with a foreign government, etc. (the national government, a governmental organization, a local government, the central bank, or a political party or other political organization of a foreign country or territory) accounted for 25% or more of its total annual sales for a business year within the last three business years ending on or before the day two months before the date of notification, provide the relevant business years, the name of the foreign government, etc., and the percentage of the sales. Green underlines indicate the information that the contractor can provide directly to the competent minister.
+
+If the contractor’s annual sales from transactions with a foreign government, etc. account for 25% or more of its total annual sales
+
+○"
+"3","","Details of the Information Required in the Introduction Plan (for the entrustment of critical maintenance and management [2])","","",""
+"2","","Information on the subcontract work","","","Details and period or duration of the subcontract work
+
+Purpose Provide the purpose of the critical maintenance and management to be subcontracted (e.g., “periodical maintenance and inspection is necessary”). Scope Provide the scope of the subcontract work (e.g., “maintenance and inspection and replacement of parts).
+
+◎ ◎
+
+Place Provide the place where the subcontract work will be performed.
+
+Date or duration If the subcontract work is one-time and non-continuous, specify the date of the work. If the subcontract work is recurring and continuous, specify the duration of the work. Information on each subcontractor"
+"3","","◎★","","","The subcontractor’s information Provide the subcontractor’s name and representative’s name, address, and country or territory with jurisdiction over incorporation. [Necessary accompanying document: a certificate of registered information] Information on the direct holders of 5% or more of the voting rights of the subcontractor"
+"3","","◎★","","","Provide the names, countries or territories with jurisdiction over incorporation or nationalities, and proportions of voting rights held* of the direct holders of 5% or more of the subcontractor’s voting rights. * The proportion of voting rights held is the proportion of the voting rights held in the total voting rights of the subcontractor as of a day within two months before the date of notification.
+
+○★
+
+Provide the names, dates of birth, and nationalities of the subcontractor’s officers (as defined in the Ministerial Order; for example, directors and executive officers if the contractor is a company with nominating committee, etc.). [Necessary accompanying documents: a certificate of registered information and copies of their passports, etc.*] * Copies of passports and any of family register transcripts, certificates of family register information, or copies of resident records containing the registered domicile (or equivalent documents for foreigners)
+
+Information on the subcontractor’s officers
+
+○
+
+If the subcontractor’s annual sales from transactions with a foreign government, etc. (the national government, a governmental organization, a local government, the central bank, or a political party or other political organization of a foreign country or territory) accounted for 25% or more of its total annual sales for a business year within the last three business years ending on or before the day two months before the date of notification, provide the relevant business years, the name of the foreign government, etc., and the percentage of the sales.
+
+If the subcontractor’s annual sales from transactions with a foreign government, etc. account for 25% or more of its total annual sales
+
+○"
+"2","","Information on measures to prevent specified disruptive actions (risk management measures)","","","◎
+
+Examples of the required risk management measures *For some measures, documentation supporting the implementation may be provided directly to the competent minister.
+
+Each specified essential infrastructure service provider must confirm that the contractor and each subcontractor have clarified procedures to keep and check operational logs,
+
+work histories, and other records of the specified critical facility and will periodically or as necessary check for any unauthorized changes to the facility with such records. Each specified essential infrastructure service provider must confirm the business stability of the contractor and each subcontractor based on their business plans (e.g., medium-
+
+term business plans), financial health, and service records. Each specified essential infrastructure service provider must confirm the compliance of the contractor and each subcontractor with domestic laws and international standards
+
+(including each country’s regulations based on the international standards), including their compliance for the three years before the date of notification. Each specified essential infrastructure service provider must ensure, under the contract with the contractor and each subcontractor, that they report to the service provider any
+
+possible breaches of the contract that may result from the legislation of a foreign country or an external entity’s instructions (including both explicit and tacit ones).
+
+the fact. The symbol indicates that the information includes information whose changes may be treated differently (for example, the marks “◎★” includes refer to information whose changes are treated as either minor changes or changes to be reported after the fact.) Green underlines indicate the information that the subcontractor can provide directly to the competent minister."
+"2","","List of Required Risk Management Measures (for introducing a specified critical facility [1])","","","To effectively reduce the risk that the specified critical facility to be introduced is misused as a means for specified disruptive actions, the specified essential infrastructure service provider should assess the risk and take risk management measures proportionate to the extent and level of the risk (they are not required to take all the listed measures).
+
+To submit an introduction plan, the checkboxes for the risk management measures that have already been taken must be checked. Even if the service provider has not taken a listed measure, as long as it is considered to have taken equivalent measures to manage risk, it can check the checkbox for the measures by describing the action in the notes section. * Since each ministry may require different risk management measures under its ministerial order, check the ministerial orders before submitting a plan."
+"3","","Category of risk management measures","","",""
+"3","","Risk management measures","","","(1)-1 The specified essential infrastructure service provider has confirmed that the service provider and other parties concerned have inspection arrangements for the specified critical facility in place, including an acceptance inspection to check for any malicious code and other security problems, and will conduct vulnerability tests of the specified critical facility before its introduction.*
+
+(1) Ensure, under the contract with the supplier of the specified critical facility and the supplier of each component facility, that the supplier manages the facility to prevent unauthorized changes to the facility in its manufacturing and other processes and that the specified essential infrastructure service provider can check its management status
+
+* Excluding inspections and vulnerability tests conducted by the supplier of the facility or the supplier of each component facility (1)-2 The specified essential infrastructure service provider*1 has confirmed that the service provider or the supplier of the specified critical facility has inspection arrangements for the component facilities in place, including an acceptance inspection to check for any malicious code and other security problems, and will conduct vulnerability tests of the component facilities before their introduction.*2
+
+*1 Including the supplier of the specified critical facility *2 Excluding inspections and vulnerability tests conducted by the supplier of each component facility
+
+(2)-1 The specified essential infrastructure service provider has confirmed that the supplier of the specified critical facility will meet the information security requirements (e.g., applying the latest security patches to the facility and updating the anti-malware software) specified by the service provider at the time of contracting before its introduction.
+
+(2)-2 The specified essential infrastructure service provider* has confirmed that the supplier of each component facility will meet the information security requirements (e.g., applying the latest security patches to the facility and updating the anti-malware software) specified by the service provider or the supplier of the specified critical facility at the time of contracting before its introduction.
+
+* Including the supplier of the specified critical facility
+
+(3)-1 The specified essential infrastructure service provider has confirmed that the supplier of the specified critical facility has a reliable quality assurance system in place for the manufacturing process (including the development process).
+
+(3)-2 The specified essential infrastructure service provider* has confirmed the supplier of each component facility has a reliable quality assurance system in place for the manufacturing process (including the development process).
+
+* Including the supplier of the specified critical facility
+
+(4)-1 The specified essential infrastructure service provider has confirmed that the supplier of the specified critical facility will periodically or as necessary check for any unauthorized changes to the manufacturing process (including the development process).
+
+(4)-2 The specified essential infrastructure service provider* has confirmed that the supplier of each component facility will periodically or as necessary check for any unauthorized changes to the manufacturing process (including the development process).
+
+* Including the supplier of the specified critical facility
+
+(5)-1 The specified essential infrastructure service provider has confirmed that the supplier of the specified critical facility will apply appropriate physical (e.g., access control using security cameras) and logical (e.g., control of access to data and systems) access control to the manufacturing environment
+
+(5)-2 The specified essential infrastructure service provider* has confirmed that the supplier of each component facility will apply appropriate physical (e.g., access control using security cameras) and logical (e.g., control of access to data and systems) access control to the manufacturing environment
+
+* Including the supplier of the specified critical facility"
+"2","","List of Required Risk Management Measures (for introducing a specified critical facility [2])","","",""
+"3","","Category of risk management measures","","","(6) The specified essential infrastructure service provider will add unauthorized access control functions to the specified critical facility if the facility is connected to the Internet and appropriately establish and follow manuals and related guidance.
+
+(1) Ensure, under the contract with the supplier of the specified critical facility and the supplier of each component facility, that the supplier manages the facility to prevent unauthorized changes to the facility in its manufacturing and other processes and that the specified essential infrastructure service provider can check its management status
+
+(7) The specified essential infrastructure service provider has confirmed that the supplier of the specified critical facility and those involved in its introduction have in place a system for preventing unauthorized changes to the facility in the installation process.
+
+(8)-1 The specified essential infrastructure service provider has confirmed that the supplier of the specified critical facility is required to cooperate in detailed investigations and on-site inspections if the facility is found or suspected to have any unauthorized changes after its introduction.
+
+(8)-2 The specified essential infrastructure service provider* has confirmed that the supplier of each component facility is required to cooperate in detailed investigations and on-site inspections if the facility is found or suspected to have any unauthorized changes after its introduction.
+
+* Including the supplier of the specified critical facility
+
+(9)-1 The specified essential infrastructure service provider has confirmed that the supplier of the specified critical facility guarantees sufficient after-sales service (e.g., responses to failures and vulnerabilities).
+
+(2) Select suppliers based on whether only they can perform maintenance and inspection work for the specified critical facility or component facility if the facility is expected to need maintenance and inspection
+
+(9)-2 The specified essential infrastructure service provider* has confirmed that the supplier of each component facility guarantees sufficient after-sales service (e.g., responses to failures and vulnerabilities).
+
+* Including the supplier of the specified critical facility (10)-1 The specified essential infrastructure service provider has considered alternatives or taken other necessary actions for the possible unavailability of the guaranteed after-sales service (e.g., responses to failures and vulnerabilities) for the specified critical facility.
+
+(10)-2 The specified essential infrastructure service provider has considered alternatives or taken other necessary actions for the possible unavailability of the guaranteed after-sales service (e.g., responses to failures and vulnerabilities) for each component facility.
+
+* Including the supplier of the specified critical facility
+
+(11) The specified essential infrastructure service provider has in place arrangements (e.g., backing up data, isolating backups, clarifying recovery procedures, and replacing the specified critical facility with a substitute facility) that ensure the provision of infrastructure services during disruptions, such as ransomware attacks, to the specified critical facility. (12) The specified essential infrastructure service provider has in place a policy and system for responding to information security incidents, such as information leaks (e.g., establishing manuals and conducting periodic incident drills).
+
+(3) Ensure that the specified critical facility and each component facility have a system for detecting signs of attempted disruptions and are sufficiently redundant or structured to ensure the provision of infrastructure services during disruptions
+
+(13) The specified essential infrastructure service provider has confirmed that the service provider or the supplier of the specified critical facility will introduce an access control system for the facility and add unauthorized access monitoring functions to the facility before its introduction."
+"2","","List of Required Risk Management Measures (for introducing a specified critical facility [3])","","","(14)-1 The specified essential infrastructure service provider has confirmed the compliance of the supplier of the specified critical facility with domestic laws and international standards (including each country’s regulations based on the international standards), including its compliance for the three years before the date of notification. (14)-2 The specified essential infrastructure service provider* has confirmed the compliance of the supplier of each component facility with domestic laws and international standards (including each country’s regulations based on the international standards), including its compliance for the three years before the date of notification.
+
+(4) Confirm the compliance of the supplier of the specified critical facility and the supplier of each component facility with domestic laws and international standards, including their past compliance
+
+* Including the supplier of the specified critical facility
+
+(15)-1 The specified essential infrastructure service provider ensures, under the contract with the supplier of the specified critical facility, that the supplier reports to the service provider any possible breaches of the contract that may result from the legislation of a foreign country or an external entity’s instructions (including both explicit and tacit ones).
+
+(5) Confirm that the appropriateness of the supply of the specified critical facility and each component facility will not be affected by foreign legislation
+
+(15)-2 The specified essential infrastructure service provider* ensures, under the contract with the supplier of each component facility, that the supplier reports to the service provider or the supplier of the specified critical facility any possible breaches of the contract that may result from the legislation of a foreign country or an external entity’s instructions (including both explicit and tacit ones).
+
+* Including the supplier of the specified critical facility
+
+(16) The specified essential infrastructure service provider has confirmed that if video equipment, such as security cameras and drones, is installed or used at the place of installation or use of the specified critical facility, the appropriateness of handling the video footage obtained from the equipment will not be affected by the legislation governing the location of the head office of the equipment supplier (including the head office of a direct or indirect holder of a majority of the supplier’s voting rights).
+
+(17) The specified essential infrastructure service provider ensures, under the contract with the supplier of the specified critical facility and the supplier of each component facility, that the supplier provides its information, such as its name, location, officers, capital ties, business plans and records, the location of the plant where the facility or parts will be manufactured, and the departments and qualifications (e.g., qualifications and training records related to information security) of its workers involved. The service provider also ensures, under the contract, that the supplier timely notifies any changes to such information after the conclusion of the contract.
+
+(6) Ensure, under the contract with the supplier of the specified critical facility and the supplier of each component facility, that the supplier provides its information that helps determine whether and to what extent it is under foreign influence and that it timely notifies any changes to such information after the conclusion of the contract"
+"3","","* For the required risk management measures checked, submit documentation supporting their implementation together with the plan. This documentation can be any documentation that can be considered as ensuring the implementation of the risk management measures, given","","","the reality of the business and other factors."
+"3","","* For the underlined measures ((1)-2, (2)-2, (3)-2, (4)-2, (5)-2, (8)-2, (9)-2, (10)-2, (14)-2, and (15)-2), the supplier of the specified critical facility and the supplier of each component facility can provide such documentation directly to the competent minister, bypassing the","","","specified essential infrastructure service provider."
+"3","","List of Required Risk Management Measures (for entrusting critical maintenance and management [1])","","","To effectively reduce the risk that the specified critical facility whose critical maintenance and management is to be contracted out will be misused as a means for specified disruptive actions, the specified essential infrastructure service provider should assess the risk and take measures proportionate to the extent and level of the risk (they are not required to take all the listed measures).
+
+ To submit an introduction plan, the checkboxes for the risk management measures that have already been taken must be checked. Even if the service provider has not taken a listed measure, as long as it is considered to taken equivalent efforts to manage risk, it can check the checkbox for the measure by describing the efforts in the notes section. * Since each ministry may require different risk management measures under its ministerial order, check the ministerial orders before submitting a plan."
+"3","","Category of risk management","","",""
+"3","","measures","","",""
+"3","","Risk management measures","","","(1) The specified essential infrastructure service provider* has confirmed that the contractor and each subcontractor have clarified procedures to keep and check operational logs, work histories, and other records of the specified critical facility and will periodically or as necessary use such records to check for any unauthorized changes to the facility.
+
+(1) Ensure, under the contract with the contractor (including each subcontractor) of the critical maintenance and management, that the contractor manages the specified critical facility to prevent the contractor (including its employees) from making changes to the facility that are not intended by the specified essential infrastructure service provider and that the service provider can check its management status
+
+* For the implementation status of each subcontractor, including the case where the contractor has confirmed it (2) The specified essential infrastructure service provider periodically conducts asset management of the specified critical facility and its component facilities, including maintaining an asset inventory and verifying that the latest security patches have been applied, and also conducts the same asset management for replacement facilities. (3) The specified essential infrastructure service provider* has confirmed that the contractor and each subcontractor will apply appropriate physical (e.g., access control using security cameras) and logical (e.g., control of access to data and systems) access control to their design specifications and information of the facility to prevent unauthorized access.
+
+* For the implementation status of each subcontractor, including the case where the contractor has confirmed it (4) The specified essential infrastructure service provider* has confirmed that the contractor and each subcontractor will apply appropriate physical (e.g., access control using security cameras) and logical (e.g., control of access to data and systems) access control to the working environment for the critical maintenance and management to prevent unauthorized access.
+
+* For the implementation status of each subcontractor, including the case where the contractor has confirmed it (5) The specified essential infrastructure service provider* has confirmed that the contractor and each subcontractor are committed to maintaining and improving the cybersecurity literacy of the workers and supervisor engaged in the critical maintenance and management by providing them with cybersecurity training periodically (at least once a year).
+
+* For the implementation status of each subcontractor, including the case where the contractor has confirmed it
+
+(6) The specified essential infrastructure service provider has confirmed that the contractor is required to obtain prior approval from the service provider for subcontracting the contract work and that each subcontractor is also required to obtain prior approval from the service provider for subcontracting the subcontract work. (7) The specified essential infrastructure service provider requires, under the contract with the contractor, that the contractor ensure that the subcontractor implements the same level of cybersecurity measures as the contractor to subcontract the contract work.
+
+(2) Ensure, under the contract with the contractor of the critical maintenance and management, that when subcontracting the contract work, the contractor provides the specified essential infrastructure service provider with the necessary information to check the subcontractor’s cybersecurity measures and that the contractor obtains prior approval from the service provider to subcontract the contract work
+
+(8) The specified essential infrastructure service provider* has confirmed the business stability of the contractor and each subcontractor based on their business plans (e.g., medium-term business plans), financial health, and service records.
+
+(3) Confirm that the contractor is unlikely to suspend or discontinue the critical maintenance and management in breach of the contract
+
+* For the business stability of each subcontractor, including the case where the contractor has confirmed it"
+"2","","List of Required Risk Management Measures (for entrusting critical maintenance and management [2])","","","(9)-1 The specified essential infrastructure service provider has confirmed the compliance of the contractor with domestic laws and international standards (including each country’s regulations based on the international standards), including its compliance for the three years before the date of notification. (9)-2 The specified essential infrastructure service provider* has confirmed the compliance of each subcontractor with domestic laws and international standards (including each country’s regulations based on the international standards), including its compliance for the three years before the date of notification.
+
+(4) Confirm the compliance of the contractor (including each subcontractor) with domestic laws and international standards, including its past compliance
+
+* Including the contractor
+
+(10)-1 The specified essential infrastructure service provider ensures, under the contract with the contractor, that the contractor reports to the service provider any possible breaches of the contract that may result from the legislation of a foreign country or an external entity’s instructions (including both explicit and tacit ones).
+
+(5) Confirm that the appropriateness of the critical maintenance and management to be contracted out (including to be subcontracted) will not be affected by foreign legislation
+
+(10)-2 The specified essential infrastructure service provider* ensures, under the contract with each subcontractor, that the subcontractor reports to the service provider or the contractor any possible breaches of the contract that may result from the legislation of a foreign country or an external entity’s instructions (including both explicit and tacit ones).
+
+* Including the contractor
+
+(11) The specified essential infrastructure service provider has confirmed that if video equipment, such as security cameras and drones, is installed or used at the place where the critical maintenance and management work is carried out, the appropriateness of handling the video footage obtained from the equipment will not be affected by the legislation governing the location of the head office of the equipment supplier (including the head office of a direct or indirect holder of a majority of the supplier’s voting rights).
+
+(12) The specified essential infrastructure service provider ensures, under the contract with the contractor and each subcontractor, that they provide their information, such as their name, location, officers, capital ties, business plans and records, the place where the critical maintenance and management will be performed, and the departments and qualifications (e.g., qualifications and training records related to information security) of their workers involved. The service provider also ensures, under the contract, that they timely notify any changes to such information after the conclusion of the contract.
+
+(6) Ensure, under the contract with the contractor (including each subcontractor), that the contractor provides its information that helps determine whether and to what extent it is under foreign influence and that it timely notifies any changes to such information after the conclusion of the contract"
+"3","","* For the required risk management measures checked, submit documentation supporting their implementation with the plan. This documentation can be any documentation that can be considered as ensuring the implementation of the risk management measures, given","","","the reality of the service/business and other factors."
+"3","","* For the underlined measures ((1), (3), (4), (5), (8), (9)-2, and (10)-2), the contractor and each subcontractor of the critical maintenance and management can provide such documentation directly to the competent minister, bypassing the specified essential infrastructure service","","","provider."
+"3","","Introduction of a Specified Critical Facility and Introduction Notification for Cases of Urgency","","","If introducing a specified critical facility or entrusting the critical maintenance and management of a specified critical facility to a third party is urgent, each specified essential infrastructure service provider may do so without submitting an introduction plan in advance. In this case, the service provider must submit an introduction notification without delay after the introduction.
+
+ Cases of urgency are defined in each Ministerial Order."
+"2","","Definition of cases of urgency","","","[Article of each Ministerial Order] The cases specified in the order of the competent ministry under the proviso of Article 52, paragraph (1) of the Act are cases where a specified essential infrastructure service provider has or is likely to have difficulty in providing the specified essential infrastructure service (unless the service provider has caused the risk of such difficulty in an attempt to evade the application of the main clause of the paragraph), has to urgently introduce a specified critical facility or entrust the critical maintenance and management of a specified critical facility to a third party in order to remove or prevent such difficulty, and has no appropriate alternatives.
+
+[This article says that if a specified essential infrastructure service provider meets all the following conditions (1) to (4), it may introduce a specified critical facility without submitting an introduction plan in advance.]
+
+⇒The introduction of a specified critical facility through the normal procedure may undermine the purpose of the Act (the stable provision of infrastructure services)"
+"4","Definition of cases of urgency: (1) (1)","The service provider has or is likely to have difficulty in providing the specified essential infrastructure service","cjk_sub","","(Urgent).
+
+⇒The service provider has not intentionally caused the risk of such difficulty in an attempt to evade giving prior notification (Unintentional)."
+"4","Definition of cases of urgency: (2) (1)","Unless the service provider has caused the risk of such difficulty in an attempt to evade the application of the main clause of the paragraph","cjk_sub","",""
+"4","Definition of cases of urgency: (3) (1)","The service provider has to urgently introduce a specified critical facility or entrust the critical maintenance and management of a specified critical","cjk_sub","","⇒The service provider’s introduction is necessary to remove or prevent such difficulty (Necessary)."
+"4","Definition of cases of urgency: (4) (1)","The service provider has no appropriate alternatives","cjk_sub","","facility to a third party in order to remove or prevent such difficulty
+
+⇒The service provider has no appropriate alternatives to the introduction (No alternatives).
+
+[Information required in an urgent introduction notification: the information (1) to (4) below must be provided in addition to the information required in an introduction plan]
+
+Required information: (1) the details of the difficulty in providing the service; (2) the date of occurrence and duration of the difficulty; (3) the
+
+impact of the difficulty on the provision of the service; (4) by when the urgent introduction had to take place; and (5) why an introduction plan could not be submitted in advance"
+"4","Definition of cases of urgency: (1) (2)","Urgent","cjk_sub","",""
+"4","Definition of cases of urgency: (2) (2)","Unintentional","cjk_sub","","Required information: (1) the causes of the difficulty; (2) when the difficulty was identified; and (3) why the difficulty was unavoidable"
+"4","Definition of cases of urgency: (3) (2)","Necessary","cjk_sub","","Required information: (1) the relationship between the difficulty and the specified critical facility and the details of the problems with the
+
+specified critical facility, and (2) the relationship between the difficulty and the urgent introduction"
+"4","Definition of cases of urgency: (4) (2)","No alternatives","cjk_sub","","Required information: (1) what alternatives were considered, and (2) why the alternatives could not be taken"
+"3","","Exemption from Providing Information on the Subcontractors of Critical Maintenance and Management","","","To entrust critical maintenance and management to a third party, each specified essential infrastructure service provider must, as a general rule, include information on all the subcontractors in the introduction plan.
+
+However, if the service provider satisfies all the exemption requirements specified in the Ministerial Order, the service provider is not required to provide some information on the subcontract that meets the requirements and documents related to the officers of the subcontractor by stating the satisfaction in and attaching documentation supporting the satisfaction to the introduction plan."
+"2","","Requirement for exemption","","","A specified essential infrastructure service provider who satisfies all the requirements is not required to provide information on the subcontract that satisfies the requirements other than the subcontractor’s name, address, and country with jurisdiction over incorporation by attaching documentation supporting the satisfaction to the introduction plan. The service provider is also not required to submit any documentation other than a certification of registered information.
+
+Requirement (1): The service provider has taken action to identify the scope and date or duration of the subcontract work.
+
+Requirement (2): The service provider or the contractor subcontracting the contract work has taken action to confirm that the subcontractor has taken the
+
+following measures:
+
+Subcontractor’s measure (1)
+
+Take measures to prevent unauthorized access to the place of the subcontract work, such as controlling access to the place
+
+Subcontractor’s measure (2)
+
+Periodically or as necessary audit the specified critical facility whose critical maintenance and management is to be subcontracted for any unauthorized operation or activities by establishing and requiring compliance with procedures to maintain and check the records of work performed by its workers
+
+<How the exemption applies>
+
+Essential infrastructure service provider
+
+Service provider B
+
+Service provider A
+
+(e.g.) Subcontract the maintenance and
+
+(e.g.) Contract out the maintenance and management of a
+
+management of
+
+the facility
+
+facility
+
+Service provider N (final contractor)
+
+Service provider C
+
+Service provider D
+
+・・・・・・
+
+(e.g.) Subcontract the maintenance and
+
+requirements ×
+
+management of
+
+the facility
+
+Not satisfying the
+
+⇒ The essential infrastructure service provider must provide all the required information on the contract with service provider A and the subcontract between service providers B and C.
+
+For the subcontract between service providers A and B, the subcontract between service providers C and D, and all other subsequent subcontracts, the essential infrastructure service provider is not required to provide information on the subcontracts other than the names, etc. of subcontractors B and D to N."
+"2","","Timeline of the System for Ensuring Stable Provision of Essential Infrastructure Services","","",""
+"2","","May 18, 2022","","","Promulgation of the Economic Security Promotion Act"
+"2","","April 28, 2023","","","Cabinet approval and release of the guiding principles*
+
+* Guiding Principles on Ensuring Stable Provision of Specified Essential Infrastructure Services by Preventing Specified Disruptive Actions
+
+Promulgation of the Cabinet Order (related to specified essential infrastructure business) and the Ministerial Orders (related to designation criteria for service providers, specified critical facilities, etc.) (enforced on November 1)"
+"2","","August 9","","","(September 15 to October 14: Public comment process for secondary drafts of ministerial orders) (October 6: Release of a technical guide*1 [provisional] and bidding guidelines*2) *1: Guide to the System for Ensuring Stable Provision of Specified Essential Infrastructure Services under the Economic Security Promotion Act *2: Guidelines on the Consistent Operation of the Bid Contract System with the System for Ensuring Stable Provision of Specified Essential Infrastructure Services under the Economic Security Promotion Act
+
+Partial enforcement of the Act (related to specified essential infrastructure business, designation criteria for specified essential infrastructure service providers, specified critical facilities, etc.)"
+"2","","November 1","","",""
+"2","","November 16","","","Designation of specified essential infrastructure service providers (a total of 210 designated service providers) (Note) Some specified essential infrastructure service providers were designated or canceled its designation afterwards. Promulgation of the Minitrial Orders (related to critical maintenance and management, information to be provided, recommendation procedures, etc.) (enforced on November 17)
+
+Partial enforcement of the Act (related to critical maintenance and management, information to be provided, recommendation procedures, etc.) Public announcement of designation of specified essential infrastructure service providers (listed in the official gazette)"
+"2","","November 17","","","* Six-month transition period (from November 17, 2023 to May 16, 2024)
+
+・ Activities to raise the public awareness of the system (including holding explanatory meetings
+
+in eight cities and releasing explanatory material on the website of the Cabinet Office) ・ Creation and release of technical guides"
+"2","","May 17, 2024","","","System begins operating (start date of the obligation to notify)
+
+Revision History
+
+Date Page Content
+
+2025-06-25 1 Updated the number of specified essential infrastructure service providers
+
+2025-07-15 1 Updated the number of specified essential infrastructure service providers
+
+2025-08-01 1 Updated the number of specified essential infrastructure service providers
+
+2026-04-01 1 Updated the reference date due to the revocation and new designation of specified essential infrastructure service providers
+
+2026-06-17 1 Added the medical sector to the regulated business sectors
+
+2026-07-07 1 Updated the number of specified essential infrastructure service providers"

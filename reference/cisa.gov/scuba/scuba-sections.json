@@ -1,0 +1,90 @@
+[
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "Secure Cloud Business Applications (SCuBA) Project",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Secure Cloud Business Applications (SCuBA)\n\n[ScubaGear GitHub(link is external)](https://github.com/cisagov/ScubaGear)\n[ScubaGoggles GitHub(link is\nexternal)](https://github.com/cisagov/Scubagoggles)\n\nRelated topics:\n\n[Cyber Threats and Response](/topics/cyber-threats-and-response), [Securing\nNetworks](/topics/cyber-threats-and-advisories/securing-networks)"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Description",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Secure Cloud Business Applications (SCuBA) provides tailored cloud solutions\nguidance and secure configuration baselines (SCBs) for Microsoft 365 (M365)\nand Google Workspace (GWS) applications. SCuBA’s guidance aims to protect\ninformation that organizations create, access, share, or store in cloud\nenvironments.\n\nCISA established the SCuBA project in 2022 to address cybersecurity and\nvisibility gaps exposed by software-as-a-service (SaaS) cyber intrusions and\ncompromises. Although its primary goal is to help secure Federal Civilian\nExecutive Branch (FCEB) information in cloud environments, all organizations\ncan use SCuBA to strengthen SaaS security.\n\nAdditionally, in 2023, CISA introduced ScubaGear for M365 tenants and\nScubaGoggles for GWS tenants, two assessment tools designed to reduce the\nburden to administrators of securing these cloud environments. These tools\nevaluate an organization’s current M365 and GWS tenant controls against CISA’s\nSCBs and generate clear, visual reports that highlight areas for security\nposture improvement."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Microsoft 365 & Google Workspace Secure Configuration Baselines",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "These secure configuration baselines (SCBs) for Microsoft 365 (M365) and\nGoogle Workspace (GWS) provide easily adoptable recommendations that\ncomplement an organization’s unique requirements and risk tolerance levels.\nThe baselines include automation features to help federal agencies rapidly\nassess their M365 and GWS services.\n\n[**_ScubaGear_**(link is external)](https://github.com/cisagov/ScubaGear)****\nis a no-cost assessment tool that verifies M365 tenant configuration alignment\nto the policies described in SCuBA’s secure configuration baselines. CISA has\nmade this tool and the baselines available to all agencies and private sector\norganizations seeking security improvements. Visit CISA’s [ _GitHub_(link is\nexternal)](https://github.com/cisagov/ScubaGear)__ and [ _PowerShell\nGallery_(link is\nexternal)](https://www.powershellgallery.com/packages/ScubaGear) to view the\nM365 baselines and download the ScubaGear assessment tool.\n\n[**_ScubaGoggles_**(link is\nexternal)](https://github.com/cisagov/Scubagoggles) is a no-cost assessment\ntool that verifies a GWS organization’s configuration conforms to the policies\nin SCuBA’s secure configuration baselines. ScubaGoggles provides a breakdown\nof security vulnerabilities in GWS, allowing organizations to see where\nchanges should be made to their configuration. CISA has made this tool and the\nbaselines available to all agencies and private sector organizations seeking\nsecurity improvements. Visit CISA’s [_GitHub_(link is\nexternal)](https://github.com/cisagov/Scubagoggles) or __[_Python Package\nIndex page_(link is external)](https://pypi.org/project/scubagoggles/\n\"https://pypi.org/project/scubagoggles/\") to view the GWS baselines and\ndownload the ScubaGoggles assessment tool.\n\nFeedback to help refine baselines implementation guidance or assessment tools\nshould be emailed to Cybersharedservices@mail.cisa.dhs.gov.\n\n[Microsoft Defender for Office 365](/resources-tools/services/m365-defender-\noffice \"Microsoft Defender for Office 365\")\n\n[Microsoft Entra ID](/resources-tools/services/m365-entra-id \"Microsoft Entra\nID\")\n\n[Microsoft Exchange Online](/resources-tools/services/m365-exchange-online\n\"Microsoft Exchange Online\")\n\n[Microsoft Sharepoint and OneDrive for Business](/resources-\ntools/services/m365-sharepoint-onedrive \"Microsoft OneDrive for Business\")\n\n[Microsoft Power BI](/resources-tools/services/m365-power-bi \"Microsoft Power\nBI\")\n\n[Microsoft Power Platform](/resources-tools/services/m365-power-platform\n\"Microsoft Power Platform\")\n\n[Microsoft Teams](/resources-tools/services/m365-teams \"Microsoft Teams\")\n\nThe GWS baselines are available to view through [GitHub(link is\nexternal)](https://github.com/cisagov/Scubagoggles \"ScubaGoggles GitHub\") and\n[_Python Package Index page_(link is\nexternal)](https://pypi.org/project/scubagoggles/\n\"https://pypi.org/project/scubagoggles/\") or by clicking the links below:\n\n[Groups for Business ](/resources-tools/services/gws-groupsforbusiness \"Groups\nfor Business\")\n\n[Gmail ](/resources-tools/services/gws-gmail \"Google Mail SCB\")\n\n[Google Calendar ](/resources-tools/services/gws-calendar \"Google Calendar\nSCB\")\n\n[Google Chat ](/resources-tools/services/gws-chat \"Google Chat SCB\")\n\n[Google Common Controls ](/resources-tools/services/gws-commoncontrols \"Google\nCommon Controls SCB\")\n\n[Google Classroom ](/resources-tools/services/gws-classroom \"Google Classroom\nSCB\")\n\n[Google Drive and Docs ](/resources-tools/services/gws-driveanddocs \"Google\nDrive and Docs SCB\")\n\n[Google Meet ](/resources-tools/services/gws-meet \"Google Meet SCB\")\n\n[Google Sites ](/resources-tools/services/gws-sites \"Google Sites SCB\")\n\n[Google Gemini](/node/24548 \"Google Sites SCB\")"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Hybrid Identity Solutions Guidance",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "CISA has finalized and released the Hybrid Identity Solutions Guidance. This\ndocument is designed to help agencies understand potential options for\nidentity management interoperability between on-premises and cloud-based\nsolutions, the challenges involved in each, and how to address those\nchallenges.\nThe document is available below.\n\n[Hybrid Identity Solutions GUIDANCe](/resources-tools/services/hybrid-\nidentity-solutions-guidance-hisg \"Hybrid Identity Solutions Guidance\")"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Service Materials",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "[SECURE CLOUD BUSINESS APPLICATIONS PROJECT FACT\nSHEET](/sites/default/files/2025-09/CSSO_SCuBA_Fact_Sheet_FINAL_Email_Update_9_2025.pdf)\n(PDF, 297.04 KB )\n\n[SECURE CLOUD BUSINESS APPLICATIONS FREQUENTLY ASKED\nQUESTIONS](/sites/default/files/2025-09/CSSO_SCuBA_FAQ_FINAL_Email_Update_9_2025.pdf)\n(PDF, 326.33 KB )\n\n[CSSO SCuBA TRA Guidance Document](/sites/default/files/2023-06/CSSO-SCUBA-\nTRA-guidance%20documentV2_508c.pdf) (PDF, 1.57 MB )\n\n[CISA SCuBA Hybrid Identity Solutions\nGuidance](/sites/default/files/2024-05/CISA%20SCuBA%20Hybrid%20Identity%20Solutions%20Guidance_0.pdf)\n(PDF, 2.85 MB )"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Tags",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "**Audience** : [Federal Government](/audiences/federal-government)\n\n**Topics** : [Cyber Threats and Response](/topics/cyber-threats-and-response),\n[Securing Networks](/topics/cyber-threats-and-advisories/securing-networks)"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Related Services",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "[ Gemini ](/resources-tools/services/gemini)",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "[ BOD 25-01: Implementing Secure Practices for Cloud Services Required",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Configurations ](/resources-tools/services/bod-25-01-implementing-secure-\npractices-cloud-services-required-configurations)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "[ Hybrid Identity Solutions Guidance (HISG) ](/resources-",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "tools/services/hybrid-identity-solutions-guidance-hisg)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "[ Technical Reference Architecture (TRA) ](/resources-",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "tools/services/technical-reference-architecture-tra)\n\n[Return to top](#top)\n\n  * [Topics](/topics)\n  * [Spotlight](/spotlight)\n  * [Resources & Tools](/resources-tools)\n  * [News & Events](/news-events)\n  * [Careers](/careers)\n  * [About](/about)\n\n[ Cybersecurity & Infrastructure Security Agency ](/ \"Go to the Cybersecurity\n& Infrastructure Security Agency homepage\")\n\n  * [Facebook](https://www.facebook.com/CISA)\n  * [X](https://x.com/CISAgov)\n  * [LinkedIn](https://www.linkedin.com/company/cybersecurity-and-infrastructure-security-agency)\n  * [YouTube](https://www.youtube.com/@cisagov)\n  * [Instagram](https://www.instagram.com/cisagov)\n  * [RSS](/subscribe-updates-cisa)\n\nCISA Central [1-844-Say-CISA](tel:1-844-Say-CISA)\n[contact@cisa.dhs.gov](mailto:contact@cisa.dhs.gov)\n\nDHS Seal\n\nCISA.gov\n\nAn official website of the U.S. Department of Homeland Security\n\n  * [About CISA](/about \"About CISA\")\n  * [Budget and Performance](https://www.dhs.gov/performance-financial-reports \"Budget and Performance\")\n  * [DHS.gov](https://www.dhs.gov \"Department of Homeland Security\")\n  * [FOIA Requests](https://www.dhs.gov/foia \"FOIA Requests\")\n  * [No FEAR Act](/no-fear-act \"No FEAR Act Reporting\")\n  * [Office of Inspector General](https://www.oig.dhs.gov/ \"Office of Inspector General\")\n  * [Privacy Policy](/privacy-policy \"Privacy Policy\")\n  * [Subscribe](https://public.govdelivery.com/accounts/USDHSCISA/subscriber/new?topic_id=USDHSCISA_138 \"Subscribe to Email Updates\")\n  * [The White House](https://www.whitehouse.gov/ \"The White House\")\n  * [USA.gov](https://www.usa.gov/ \"USA.gov\")\n  * [Website Feedback](/forms/feedback \"Website Feedback\")\n\n|\n---|---\n|\n---|---"
+  }
+]

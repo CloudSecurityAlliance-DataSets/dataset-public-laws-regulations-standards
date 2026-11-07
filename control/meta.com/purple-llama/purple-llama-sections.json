@@ -1,0 +1,346 @@
+[
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Navigation Menu",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Toggle navigation\n\n[ ](/)\n\n[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fmeta-\nllama%2FPurpleLlama)\n\nAppearance settings\n\n  * Platform\n\n    * AI CODE CREATION\n      * [GitHub CopilotWrite better code with AI](https://github.com/features/copilot)\n      * [GitHub SparkBuild and deploy intelligent apps](https://github.com/features/spark)\n      * [GitHub ModelsManage and compare prompts](https://github.com/features/models)\n      * [MCP RegistryNewIntegrate external tools](https://github.com/mcp)\n\n    * DEVELOPER WORKFLOWS\n      * [ActionsAutomate any workflow](https://github.com/features/actions)\n      * [CodespacesInstant dev environments](https://github.com/features/codespaces)\n      * [IssuesPlan and track work](https://github.com/features/issues)\n      * [Code ReviewManage code changes](https://github.com/features/code-review)\n\n    * APPLICATION SECURITY\n      * [GitHub Advanced SecurityFind and fix vulnerabilities](https://github.com/security/advanced-security)\n      * [Code securitySecure your code as you build](https://github.com/security/advanced-security/code-security)\n      * [Secret protectionStop leaks before they start](https://github.com/security/advanced-security/secret-protection)\n\n    * EXPLORE\n      * [Why GitHub](https://github.com/why-github)\n      * [Documentation](https://docs.github.com)\n      * [Blog](https://github.blog)\n      * [Changelog](https://github.blog/changelog)\n      * [Marketplace](https://github.com/marketplace)\n\n[View all features](https://github.com/features)\n\n  * Solutions\n\n    * BY COMPANY SIZE\n      * [Enterprises](https://github.com/enterprise)\n      * [Small and medium teams](https://github.com/team)\n      * [Startups](https://github.com/enterprise/startups)\n      * [Nonprofits](https://github.com/solutions/industry/nonprofits)\n\n    * BY USE CASE\n      * [App Modernization](https://github.com/solutions/use-case/app-modernization)\n      * [DevSecOps](https://github.com/solutions/use-case/devsecops)\n      * [DevOps](https://github.com/solutions/use-case/devops)\n      * [CI/CD](https://github.com/solutions/use-case/ci-cd)\n      * [View all use cases](https://github.com/solutions/use-case)\n\n    * BY INDUSTRY\n      * [Healthcare](https://github.com/solutions/industry/healthcare)\n      * [Financial services](https://github.com/solutions/industry/financial-services)\n      * [Manufacturing](https://github.com/solutions/industry/manufacturing)\n      * [Government](https://github.com/solutions/industry/government)\n      * [View all industries](https://github.com/solutions/industry)\n\n[View all solutions](https://github.com/solutions)\n\n  * Resources\n\n    * EXPLORE BY TOPIC\n      * [AI](https://github.com/resources/articles?topic=ai)\n      * [Software Development](https://github.com/resources/articles?topic=software-development)\n      * [DevOps](https://github.com/resources/articles?topic=devops)\n      * [Security](https://github.com/resources/articles?topic=security)\n      * [View all topics](https://github.com/resources/articles)\n\n    * EXPLORE BY TYPE\n      * [Customer stories](https://github.com/customer-stories)\n      * [Events & webinars](https://github.com/resources/events)\n      * [Ebooks & reports](https://github.com/resources/whitepapers)\n      * [Business insights](https://github.com/solutions/executive-insights)\n      * [GitHub Skills](https://skills.github.com)\n\n    * SUPPORT & SERVICES\n      * [Documentation](https://docs.github.com)\n      * [Customer support](https://support.github.com)\n      * [Community forum](https://github.com/orgs/community/discussions)\n      * [Trust center](https://github.com/trust-center)\n      * [Partners](https://github.com/partners)\n\n[View all resources](https://github.com/resources)\n\n  * Open Source\n\n    * COMMUNITY\n      * [GitHub SponsorsFund open source developers](https://github.com/sponsors)\n\n    * PROGRAMS\n      * [Security Lab](https://securitylab.github.com)\n      * [Maintainer Community](https://maintainers.github.com)\n      * [Accelerator](https://github.com/accelerator)\n      * [GitHub Stars](https://stars.github.com)\n      * [Archive Program](https://archiveprogram.github.com)\n\n    * REPOSITORIES\n      * [Topics](https://github.com/topics)\n      * [Trending](https://github.com/trending)\n      * [Collections](https://github.com/collections)\n\n  * Enterprise\n\n    * ENTERPRISE SOLUTIONS\n      * [Enterprise platformAI-powered developer platform](https://github.com/enterprise)\n\n    * AVAILABLE ADD-ONS\n      * [GitHub Advanced SecurityEnterprise-grade security features](https://github.com/security/advanced-security)\n      * [Copilot for BusinessEnterprise-grade AI features](https://github.com/features/copilot/copilot-business)\n      * [Premium SupportEnterprise-grade 24/7 support](https://github.com/premium-support)\n\n  * [Pricing](https://github.com/pricing)\n\nSearch or jump to..."
+  },
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "Search code, repositories, users, issues, pull requests...",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Search\n\nClear\n\n[Search syntax tips](https://docs.github.com/search-github/github-code-\nsearch/understanding-github-code-search-syntax)"
+  },
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "Provide feedback",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "We read every piece of feedback, and take your input very seriously.\n\nInclude my email address so I can be contacted\n\nCancel  Submit feedback"
+  },
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "Saved searches",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Use saved searches to filter your results more quickly",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Name\n\nQuery\n\nTo see all available qualifiers, see our\n[documentation](https://docs.github.com/search-github/github-code-\nsearch/understanding-github-code-search-syntax).\n\nCancel  Create saved search\n\n[ Sign in ](/login?return_to=https%3A%2F%2Fgithub.com%2Fmeta-\nllama%2FPurpleLlama)\n\n[ Sign up\n](/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-\nname%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=meta-\nllama%2FPurpleLlama)\n\nAppearance settings\n\nResetting focus\n\nYou signed in with another tab or window. [Reload]() to refresh your session.\nYou signed out in another tab or window. [Reload]() to refresh your session.\nYou switched accounts on another tab or window. [Reload]() to refresh your\nsession. Dismiss alert\n\n{{ message }}\n\n[ meta-llama ](/meta-llama) / **[PurpleLlama](/meta-llama/PurpleLlama) **\nPublic\n\n  * [ Notifications ](/login?return_to=%2Fmeta-llama%2FPurpleLlama) You must be signed in to change notification settings\n  * [ Fork 734 ](/login?return_to=%2Fmeta-llama%2FPurpleLlama)\n  * [ Star  4.2k ](/login?return_to=%2Fmeta-llama%2FPurpleLlama)\n\n  * [ Code ](/meta-llama/PurpleLlama)\n  * [ Issues 28 ](/meta-llama/PurpleLlama/issues)\n  * [ Pull requests 34 ](/meta-llama/PurpleLlama/pulls)\n  * [ Actions ](/meta-llama/PurpleLlama/actions)\n  * [ Projects ](/meta-llama/PurpleLlama/projects)\n  * [ Security and quality 0 ](/meta-llama/PurpleLlama/security)\n  * [ Insights ](/meta-llama/PurpleLlama/pulse)\n\nAdditional navigation options\n\n  * [ Code  ](/meta-llama/PurpleLlama)\n  * [ Issues  ](/meta-llama/PurpleLlama/issues)\n  * [ Pull requests  ](/meta-llama/PurpleLlama/pulls)\n  * [ Actions  ](/meta-llama/PurpleLlama/actions)\n  * [ Projects  ](/meta-llama/PurpleLlama/projects)\n  * [ Security and quality  ](/meta-llama/PurpleLlama/security)\n  * [ Insights  ](/meta-llama/PurpleLlama/pulse)\n\n[](/meta-llama/PurpleLlama)"
+  },
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "meta-llama/PurpleLlama",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "main\n\n[Branches](/meta-llama/PurpleLlama/branches)[Tags](/meta-\nllama/PurpleLlama/tags)\n\n[](/meta-llama/PurpleLlama/branches)[](/meta-llama/PurpleLlama/tags)\n\nGo to file\n\nCode\n\nOpen more actions menu"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Folders and files",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Name| Name| Last commit message| Last commit date\n---|---|---|---"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Latest commit",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "History",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "[465 Commits](/meta-llama/PurpleLlama/commits/main/)[](/meta-\nllama/PurpleLlama/commits/main/)465 Commits\n[.github/workflows](/meta-llama/PurpleLlama/tree/main/.github/workflows \"This path skips through empty directories\")| [.github/workflows](/meta-llama/PurpleLlama/tree/main/.github/workflows \"This path skips through empty directories\")|  |\n[CodeShield](/meta-llama/PurpleLlama/tree/main/CodeShield \"CodeShield\")| [CodeShield](/meta-llama/PurpleLlama/tree/main/CodeShield \"CodeShield\")|  |\n[CybersecurityBenchmarks](/meta-llama/PurpleLlama/tree/main/CybersecurityBenchmarks \"CybersecurityBenchmarks\")| [CybersecurityBenchmarks](/meta-llama/PurpleLlama/tree/main/CybersecurityBenchmarks \"CybersecurityBenchmarks\")|  |\n[Llama-Guard](/meta-llama/PurpleLlama/tree/main/Llama-Guard \"Llama-Guard\")| [Llama-Guard](/meta-llama/PurpleLlama/tree/main/Llama-Guard \"Llama-Guard\")|  |\n[Llama-Guard2](/meta-llama/PurpleLlama/tree/main/Llama-Guard2 \"Llama-Guard2\")| [Llama-Guard2](/meta-llama/PurpleLlama/tree/main/Llama-Guard2 \"Llama-Guard2\")|  |\n[Llama-Guard3](/meta-llama/PurpleLlama/tree/main/Llama-Guard3 \"Llama-Guard3\")| [Llama-Guard3](/meta-llama/PurpleLlama/tree/main/Llama-Guard3 \"Llama-Guard3\")|  |\n[Llama-Guard4](/meta-llama/PurpleLlama/tree/main/Llama-Guard4 \"Llama-Guard4\")| [Llama-Guard4](/meta-llama/PurpleLlama/tree/main/Llama-Guard4 \"Llama-Guard4\")|  |\n[Llama-Prompt-Guard-2](/meta-llama/PurpleLlama/tree/main/Llama-Prompt-Guard-2 \"Llama-Prompt-Guard-2\")| [Llama-Prompt-Guard-2](/meta-llama/PurpleLlama/tree/main/Llama-Prompt-Guard-2 \"Llama-Prompt-Guard-2\")|  |\n[LlamaFirewall](/meta-llama/PurpleLlama/tree/main/LlamaFirewall \"LlamaFirewall\")| [LlamaFirewall](/meta-llama/PurpleLlama/tree/main/LlamaFirewall \"LlamaFirewall\")|  |\n[Prompt-Guard](/meta-llama/PurpleLlama/tree/main/Prompt-Guard \"Prompt-Guard\")| [Prompt-Guard](/meta-llama/PurpleLlama/tree/main/Prompt-Guard \"Prompt-Guard\")|  |\n[SensitiveDocClassification](/meta-llama/PurpleLlama/tree/main/SensitiveDocClassification \"SensitiveDocClassification\")| [SensitiveDocClassification](/meta-llama/PurpleLlama/tree/main/SensitiveDocClassification \"SensitiveDocClassification\")|  |\n[.gitignore](/meta-llama/PurpleLlama/blob/main/.gitignore \".gitignore\")| [.gitignore](/meta-llama/PurpleLlama/blob/main/.gitignore \".gitignore\")|  |\n[.gitmodules](/meta-llama/PurpleLlama/blob/main/.gitmodules \".gitmodules\")| [.gitmodules](/meta-llama/PurpleLlama/blob/main/.gitmodules \".gitmodules\")|  |\n[CODE_OF_CONDUCT.md](/meta-llama/PurpleLlama/blob/main/CODE_OF_CONDUCT.md \"CODE_OF_CONDUCT.md\")| [CODE_OF_CONDUCT.md](/meta-llama/PurpleLlama/blob/main/CODE_OF_CONDUCT.md \"CODE_OF_CONDUCT.md\")|  |\n[CONTRIBUTING.md](/meta-llama/PurpleLlama/blob/main/CONTRIBUTING.md \"CONTRIBUTING.md\")| [CONTRIBUTING.md](/meta-llama/PurpleLlama/blob/main/CONTRIBUTING.md \"CONTRIBUTING.md\")|  |\n[LICENSE](/meta-llama/PurpleLlama/blob/main/LICENSE \"LICENSE\")| [LICENSE](/meta-llama/PurpleLlama/blob/main/LICENSE \"LICENSE\")|  |\n[README.md](/meta-llama/PurpleLlama/blob/main/README.md \"README.md\")| [README.md](/meta-llama/PurpleLlama/blob/main/README.md \"README.md\")|  |\n[logo.png](/meta-llama/PurpleLlama/blob/main/logo.png \"logo.png\")| [logo.png](/meta-llama/PurpleLlama/blob/main/logo.png \"logo.png\")|  |\nView all files"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Repository files navigation",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "* [README](#)\n  * [Code of conduct](#)\n  * [Contributing](#)\n  * [License](#)\n\n[![](https://github.com/facebookresearch/PurpleLlama/raw/main/logo.png)](https://github.com/facebookresearch/PurpleLlama/blob/main/logo.png)\n\n🤗 [ Models on Hugging Face](https://huggingface.co/meta-Llama) | [ Blog](https://ai.meta.com/blog/purple-llama-open-trust-safety-generative-ai) | [Website](https://ai.meta.com/llama/purple-llama) | [CyberSec Eval Paper](https://ai.meta.com/research/publications/purple-llama-cyberseceval-a-benchmark-for-evaluating-the-cybersecurity-risks-of-large-language-models/) | [Llama Guard Paper](https://ai.meta.com/research/publications/llama-guard-llm-based-input-output-safeguard-for-human-ai-conversations/)\n\n* * *"
+  },
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "Purple Llama",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "[](#purple-llama)\n\nPurple Llama is an umbrella project that over time will bring together tools\nand evals to help the community build responsibly with open generative AI\nmodels. The initial release will include tools and evals for Cyber Security\nand Input/Output safeguards but we plan to contribute more in the near future."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Why purple?",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "[](#why-purple)\n\nBorrowing a [concept](https://www.youtube.com/watch?v=ab_Fdp6FVDI) from the\ncybersecurity world, we believe that to truly mitigate the challenges which\ngenerative AI presents, we need to take both attack (red team) and defensive\n(blue team) postures. Purple teaming, composed of both red and blue team\nresponsibilities, is a collaborative approach to evaluating and mitigating\npotential risks and the same ethos applies to generative AI and hence our\ninvestment in Purple Llama will be comprehensive."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "License",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "[](#license)\n\nComponents within the Purple Llama project will be licensed permissively\nenabling both research and commercial usage. We believe this is a major step\ntowards enabling community collaboration and standardizing the development and\nusage of trust and safety tools for generative AI development. More concretely\nevals and benchmarks are licensed under the MIT license while any models use\nthe corresponding Llama Community license. See the table below:\n\n**Component Type** | **Components** | **License**\n---|---|---\nEvals/Benchmarks | Cyber Security Eval (others to come) | MIT\nSafeguard | Llama Guard | [Llama 2 Community License](https://github.com/facebookresearch/PurpleLlama/blob/main/LICENSE)\nSafeguard | Llama Guard 2 | [Llama 3 Community License](https://github.com/meta-llama/llama3/blob/main/LICENSE)\nSafeguard | Llama Guard 3-8B | [Llama 3.2 Community License](/meta-llama/PurpleLlama/blob/main/LICENSE)\nSafeguard | Llama Guard 3-1B | [Llama 3.2 Community License](/meta-llama/PurpleLlama/blob/main/LICENSE)\nSafeguard | Llama Guard 3-11B-vision | [Llama 3.2 Community License](/meta-llama/PurpleLlama/blob/main/LICENSE)\nSafeguard | Prompt Guard | [Llama 3.2 Community License](/meta-llama/PurpleLlama/blob/main/LICENSE)\nSafeguard | Code Shield | MIT"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "System-Level Safeguards",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "[](#system-level-safeguards)\n\nAs we outlined in Llama 3’s [Responsible Use\nGuide](https://ai.meta.com/llama/responsible-use-guide/), we recommend that\nall inputs and outputs to the LLM be checked and filtered in accordance with\ncontent guidelines appropriate to the application."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Llama Guard",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "[](#llama-guard)\n\nLlama Guard 3 consists of a series of high-performance input and output\nmoderation models designed to support developers to detect various common\ntypes of violating content.\n\nThey were built by fine-tuning Meta-Llama 3.1 and 3.2 models and optimized to\nsupport the detection of the MLCommons standard hazards taxonomy, catering to\na range of developer use cases. They support the release of Llama 3.2\ncapabilities, including 7 new languages, a 128k context window, and image\nreasoning. Llama Guard 3 models were also optimized to detect helpful\ncyberattack responses and prevent malicious code output by LLMs to be executed\nin hosting environments for Llama systems using code interpreters."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Prompt Guard",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "[](#prompt-guard)\n\nPrompt Guard is a powerful tool for protecting LLM powered applications from\nmalicious prompts to ensure their security and integrity.\n\nCategories of prompt attacks include prompt injection and jailbreaking:\n\n  * Prompt Injections are inputs that exploit the inclusion of untrusted data from third parties into the context window of a model to get it to execute unintended instructions.\n  * Jailbreaks are malicious instructions designed to override the safety and security features built into a model."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Code Shield",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "[](#code-shield)\n\nCode Shield adds support for inference-time filtering of insecure code\nproduced by LLMs. Code Shield offers mitigation of insecure code suggestions\nrisk, code interpreter abuse prevention, and secure command execution.\n[CodeShield Example Notebook](https://github.com/meta-\nllama/PurpleLlama/blob/main/CodeShield/notebook/CodeShieldUsageDemo.ipynb)."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Evals & Benchmarks",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "[](#evals--benchmarks)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Cybersecurity",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "[](#cybersecurity)"
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "CyberSec Eval v1",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "[](#cybersec-eval-v1)\n\nCyberSec Eval v1 was what we believe was the first industry-wide set of\ncybersecurity safety evaluations for LLMs. These benchmarks are based on\nindustry guidance and standards (e.g., CWE and MITRE ATT&CK) and built in\ncollaboration with our security subject matter experts. We aim to provide\ntools that will help address some risks outlined in the [White House\ncommitments on developing responsible AI](https://www.whitehouse.gov/briefing-\nroom/statements-releases/2023/07/21/fact-sheet-biden-harris-administration-\nsecures-voluntary-commitments-from-leading-artificial-intelligence-companies-\nto-manage-the-risks-posed-by-ai/), including:\n\n  * Metrics for quantifying LLM cybersecurity risks.\n  * Tools to evaluate the frequency of insecure code suggestions.\n  * Tools to evaluate LLMs to make it harder to generate malicious code or aid in carrying out cyberattacks.\n\nWe believe these tools will reduce the frequency of LLMs suggesting insecure\nAI-generated code and reduce their helpfulness to cyber adversaries. Our\ninitial results show that there are meaningful cybersecurity risks for LLMs,\nboth with recommending insecure code and for complying with malicious\nrequests. See our [Cybersec Eval\npaper](https://ai.meta.com/research/publications/purple-llama-cyberseceval-a-\nbenchmark-for-evaluating-the-cybersecurity-risks-of-large-language-models/)\nfor more details."
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "CyberSec Eval 2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "[](#cybersec-eval-2)\n\nCyberSec Eval 2 expands on its predecessor by measuring an LLM’s propensity to\nabuse a code interpreter, offensive cybersecurity capabilities, and\nsusceptibility to prompt injection. You can read the paper\n[here](https://ai.meta.com/research/publications/cyberseceval-2-a-wide-\nranging-cybersecurity-evaluation-suite-for-large-language-models/).\n\nYou can also check out the 🤗 leaderboard\n[here](https://huggingface.co/spaces/facebook/CyberSecEval)."
+  },
+  {
+    "depth": 4,
+    "section_id": "",
+    "section_name": "CyberSec Eval 3",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "[](#cybersec-eval-3)\n\nThe newly released CyberSec Eval 3 features three additional test suites:\nvisual prompt injection tests, spear phishing capability tests, and autonomous\noffensive cyber operations tests."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Getting Started",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "[](#getting-started)\n\nAs part of the [Llama reference system](https://github.com/meta-llama/llama-\nagentic-system), we’re integrating a safety layer to facilitate adoption and\ndeployment of these safeguards. Resources to get started with the safeguards\nare available in the [Llama-recipe GitHub repository](https://github.com/meta-\nllama/llama-recipes)."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "FAQ",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "[](#faq)\n\nFor a running list of frequently asked questions, for not only Purple Llama\ncomponents but also generally for Llama models, see the FAQ\n[here](https://ai.meta.com/llama/faq/)."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Join the Purple Llama community",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "[](#join-the-purple-llama-community)\n\nSee the [CONTRIBUTING](/meta-llama/PurpleLlama/blob/main/CONTRIBUTING.md) file\nfor how to help out."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "About",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Set of tools to assess and improve LLM security."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Resources",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "[ Readme ](#readme-ov-file)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "License",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "[ View license ](#License-1-ov-file)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Code of conduct",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "[ Code of conduct ](#coc-ov-file)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Contributing",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "[ Contributing ](#contributing-ov-file)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Uh oh!",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "There was an error while loading. [Please reload this page]().\n\n[ Activity](/meta-llama/PurpleLlama/activity)\n\n[ Custom properties](/meta-llama/PurpleLlama/custom-properties)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Stars",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "[ **4.2k** stars](/meta-llama/PurpleLlama/stargazers)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Watchers",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "[ **67** watching](/meta-llama/PurpleLlama/watchers)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Forks",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "[ **734** forks](/meta-llama/PurpleLlama/forks)\n\n[ Report repository ](/contact/report-\ncontent?content_url=https%3A%2F%2Fgithub.com%2Fmeta-\nllama%2FPurpleLlama&report=meta-llama+%28user%29)"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "[Releases](/meta-llama/PurpleLlama/releases)",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "No releases published"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "[Packages 0](/orgs/meta-llama/packages?repo_name=PurpleLlama)",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Uh oh!",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "There was an error while loading. [Please reload this page]()."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Uh oh!",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "There was an error while loading. [Please reload this page]()."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "[Contributors](/meta-llama/PurpleLlama/graphs/contributors)",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "*   *   *"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Uh oh!",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "There was an error while loading. [Please reload this page]()."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Languages",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "* [ Python 77.2% ](/meta-llama/PurpleLlama/search?l=python)\n  * [ C++ 17.4% ](/meta-llama/PurpleLlama/search?l=c%2B%2B)\n  * [ JavaScript 2.4% ](/meta-llama/PurpleLlama/search?l=javascript)\n  * [ Jupyter Notebook 1.0% ](/meta-llama/PurpleLlama/search?l=jupyter-notebook)\n  * [ CSS 0.9% ](/meta-llama/PurpleLlama/search?l=css)\n  * [ C 0.4% ](/meta-llama/PurpleLlama/search?l=c)\n  * Other 0.7%"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Footer",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "[ ](https://github.com) © 2026 GitHub, Inc."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Footer navigation",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "* [Terms](https://docs.github.com/site-policy/github-terms/github-terms-of-service)\n  * [Privacy](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement)\n  * [Security](https://github.com/security)\n  * [Status](https://www.githubstatus.com/)\n  * [Community](https://github.community/)\n  * [Docs](https://docs.github.com/)\n  * [Contact](https://support.github.com?tags=dotcom-footer)\n  * Manage cookies\n  * Do not share my personal information\n\nYou can’t perform that action at this time."
+  }
+]
