@@ -1,0 +1,20 @@
+[
+  {
+    "term": "cacheTtl",
+    "definition": "CacheTtl is a parameter that defines the length of time in seconds that a KV result is cached in the global network location it is accessed from.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/kv/glossary/#cachettl"
+  },
+  {
+    "term": "KV namespace",
+    "definition": "A KV namespace is a key-value database replicated to Cloudflare’s global network. A KV namespace must require a binding and an id.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/kv/glossary/#kv-namespace"
+  },
+  {
+    "term": "metadata",
+    "definition": "A metadata is a serializable value you append to each KV entry.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/kv/glossary/#metadata"
+  }
+]

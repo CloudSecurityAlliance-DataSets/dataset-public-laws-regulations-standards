@@ -1,0 +1,31 @@
+{
+  "secid": "secid:control/mygovid.gov.au/myid",
+  "name": "myID (formerly myGovID) — Australian Digital Identity",
+  "acronym": "myID",
+  "version": "",
+  "owner": "Services Australia / Australian Taxation Office",
+  "type": "Standard",
+  "description": "Australian government digital identity service. Recently rebranded from myGovID to myID. Used for ATO, business registries, and federal services.",
+  "relationToCloudSecurity": "",
+  "relationToAISecurity": "",
+  "license": {
+    "spdx": "LicenseRef-Publisher-Restricted",
+    "redistribution": "prohibited",
+    "derivatives": "prohibited_without_license",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.mygovid.gov.au",
+    "notes": "Public technical docs; participant rules partly restricted. Public-release government / central bank publication (Tier 1 of Kurt Seifried 2026-11-09 4-tier hosting rule: public government website content goes into the public dataset repository regardless of license)."
+  },
+  "links": {
+    "source": "https://www.mygovid.gov.au",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "active": true,
+    "supersedes": "",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "When CSA acquires a licensed copy, promote into a versioned subdir."
+  },
+  "notes": "Authored 2026-05-14. Stub-only — awaiting CSA's licensed copy / license-verification per public-repo TODO."
+}

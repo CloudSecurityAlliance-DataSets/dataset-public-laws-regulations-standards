@@ -1,0 +1,254 @@
+[
+  {
+    "term": "Active C2 Servers",
+    "definition": "Active C2 servers refers to actively-responsive and recently detected attacker infrastructure used for command and control (C2).",
+    "source_anchor": "https://docs.vulncheck.com/kb#active-c2-servers",
+    "notes": ""
+  },
+  {
+    "term": "Advanced Persistent Threat (APT)",
+    "definition": "A type of threat actor, often with a name (e.g., \"Comment Crew\") or other form of unique identifier (e.g., a MITRE identifier such as \"G0006\" or a MISP identifier such as \"1cb7e1cc-d695-42b1-92f4-fd0112a3c9be\").",
+    "source_anchor": "https://docs.vulncheck.com/kb#advanced-persistent-threat-apt",
+    "notes": ""
+  },
+  {
+    "term": "Attacker Infrastructure",
+    "definition": "Attacker Infrastructure refers to the many software components attackers use to execute attacks and maintain access. Examples include C2 servers, relays, and proxies.",
+    "source_anchor": "https://docs.vulncheck.com/kb#attacker-infrastructure",
+    "notes": ""
+  },
+  {
+    "term": "Botnet",
+    "definition": "A collection of computers that have been infected and controlled by a common attacker.",
+    "source_anchor": "https://docs.vulncheck.com/kb#botnet",
+    "notes": ""
+  },
+  {
+    "term": "Command and Control (C2 or C&C) Infrastructure",
+    "definition": "Attacker network infrastructure, typically previously compromised infrastructure (servers and applications), used to command and control downstream infrastructure.",
+    "source_anchor": "https://docs.vulncheck.com/kb#command-and-control-c2-or-c-c-infrastructure",
+    "notes": ""
+  },
+  {
+    "term": "Common Vulnerabilities and Exposures (CVE)",
+    "definition": "A standard for assessing the severity of software vulnerabilities, which assigns a score from 0.0 to 10.0 based on the vulnerability's characteristics.",
+    "source_anchor": "https://docs.vulncheck.com/kb#common-vulnerabilities-and-exposures-cve",
+    "notes": ""
+  },
+  {
+    "term": "Common Vulnerability Scoring System (CVSS)",
+    "definition": "A standard for assessing the severity of software vulnerabilities, which assigns a score from 0.0 to 10.0 based on the vulnerability's characteristics.",
+    "source_anchor": "https://docs.vulncheck.com/kb#common-vulnerability-scoring-system-cvss",
+    "notes": ""
+  },
+  {
+    "term": "Cybersecurity Supply Chain Risk Management (C-SCRM)",
+    "definition": "Defined by NIST SP 800-161 publication as a \"systematic process for managing exposure to cybersecurity risks through the supply chain and developing appropriate response strategies, policies, processes, and procedures.\" One such process is the generation of SBOM for a software product, performing a security analysis on the resulting data, remediating any found vulnerabilities, and repeating those steps to verify that the remediation occurred as a part of a SSDLC.",
+    "source_anchor": "https://docs.vulncheck.com/kb#cybersecurity-supply-chain-risk-management-c-scrm",
+    "notes": ""
+  },
+  {
+    "term": "CycloneDX",
+    "definition": "A Bill of Materials (BOM) standard developed by OWASP that supports the inclusion of software, hardware, machine learning, operations, and other BOM types, as well as additional information such as VDR and VEX data, in order to aid understanding the contents and relationships between system components. Serialization formats include both JSON and XML.",
+    "source_anchor": "https://docs.vulncheck.com/kb#cyclonedx",
+    "notes": ""
+  },
+  {
+    "term": "Dependency Graph",
+    "definition": "A graph depicting the hierarchy of software dependencies for a given package or software component.",
+    "source_anchor": "https://docs.vulncheck.com/kb#dependency-graph",
+    "notes": ""
+  },
+  {
+    "term": "Exploit Availability",
+    "definition": "A field used to denote whether an exploit is publicly available, commercially available, or reported to be privately available.",
+    "source_anchor": "https://docs.vulncheck.com/kb#exploit-availability",
+    "notes": ""
+  },
+  {
+    "term": "Exploit Chain",
+    "definition": "When two or more vulnerabilities are used together to achieve more access on the target, than if each vulnerability was independently exploited, without exploiting other vulnerabilities.",
+    "source_anchor": "https://docs.vulncheck.com/kb#exploit-chain",
+    "notes": ""
+  },
+  {
+    "term": "Exploit Intelligence",
+    "definition": "A field used to distinguish the maturity of a given exploit. The values range from (no known public exploit exists) to proof of concept (PoC) to weaponized exploit.",
+    "source_anchor": "https://docs.vulncheck.com/kb#exploit-intelligence",
+    "notes": ""
+  },
+  {
+    "term": "Exploit Maturity",
+    "definition": "A field used to distinguish the maturity of a given exploit. The values range from (no known public exploit exists) to proof of concept (PoC) to weaponized exploit.",
+    "source_anchor": "https://docs.vulncheck.com/kb#exploit-maturity",
+    "notes": ""
+  },
+  {
+    "term": "Exploit Proof of Concept (PoC)",
+    "definition": "An exploit which may not work against the majority of targets, which is likely distributed as a one-off, to demonstrate triggering the vulnerability.",
+    "source_anchor": "https://docs.vulncheck.com/kb#exploit-proof-of-concept-poc",
+    "notes": ""
+  },
+  {
+    "term": "Implant",
+    "definition": "Malicious software that provides advanced features like persistence, file and process hiding, and network communication obfuscation.",
+    "source_anchor": "https://docs.vulncheck.com/kb#implant",
+    "notes": ""
+  },
+  {
+    "term": "Initial Access Exploit",
+    "definition": "A proof of concept exploit that demonstrates remote code execution on the target, remotely via a network-bound application/port.",
+    "source_anchor": "https://docs.vulncheck.com/kb#initial-access-exploit",
+    "notes": ""
+  },
+  {
+    "term": "Initial Access Vulnerability",
+    "definition": "Initial Access vulnerabilities are those vulnerabilities, which may be exploited remotely and result in code execution. In contract to Remote Code Execution vulnerabilities, which have come to include vulnerabilities that may be exploited client-side, initial access vulnerabilities are almost exclusively exploited over the network, remotely, without user interaction.",
+    "source_anchor": "https://docs.vulncheck.com/kb#initial-access-vulnerability",
+    "notes": ""
+  },
+  {
+    "term": "IP Fingerprinting",
+    "definition": "A method of detecting C2 infrastructure on IPv4 and IPv6 networks.",
+    "source_anchor": "https://docs.vulncheck.com/kb#ip-fingerprinting",
+    "notes": ""
+  },
+  {
+    "term": "Named Threat Actor",
+    "definition": "A specified threat actor with a name or identifier, see also: Advanced Persistent Threat (APT). Meant to be distinguished against reports of generic exploitation in the wild, see also: Reported Exploited In-The-Wild (ITW).",
+    "source_anchor": "https://docs.vulncheck.com/kb#named-threat-actor",
+    "notes": ""
+  },
+  {
+    "term": "Open Directory",
+    "definition": "An HTTP server configured to allow directory listings that is sometimes used by attackers to host malware.",
+    "source_anchor": "https://docs.vulncheck.com/kb#open-directory",
+    "notes": ""
+  },
+  {
+    "term": "Package URL (purl)",
+    "definition": "A method of encoding a software package, its version, and where it was sourced from (e.g., \"pkg:pypi/aioxmpp@0.6.0\").",
+    "source_anchor": "https://docs.vulncheck.com/kb#package-url-purl",
+    "notes": ""
+  },
+  {
+    "term": "Potentially Vulnerable Servers",
+    "definition": "Servers or otherwise network-facing applications that show some indication of potentially being vulnerable to a known vulnerability (N-day), but which when interacted with directly, may actually not be vulnerable.",
+    "source_anchor": "https://docs.vulncheck.com/kb#potentially-vulnerable-servers",
+    "notes": ""
+  },
+  {
+    "term": "Proxy",
+    "definition": "A computer that acts as an intermediary between two or more computers.",
+    "source_anchor": "https://docs.vulncheck.com/kb#proxy",
+    "notes": ""
+  },
+  {
+    "term": "Relay (Redirector)",
+    "definition": "A relay, sometimes referred to as a redirector, is a proxy placed in front of the attacker's C2 infrastructure in order to hide where C2 communications are terminated.",
+    "source_anchor": "https://docs.vulncheck.com/kb#relay-redirector",
+    "notes": ""
+  },
+  {
+    "term": "Remote Code Execution (RCE) Exploit",
+    "definition": "A proof of concept exploit that demonstrates remote code execution on the target.",
+    "source_anchor": "https://docs.vulncheck.com/kb#remote-code-execution-rce-exploit",
+    "notes": ""
+  },
+  {
+    "term": "Remote Code Execution (RCE) Vulnerability",
+    "definition": "Remote Code Execution vulnerabilities are those vulnerabilities, which may be exploited remotely and result in code execution. Originally, remote code execution vulnerabilities were exploitable over the network, via an application bound to a port. Over time, remote code execution vulnerabilities have come to include client-side vulnerabilities, where an attacker sends document to the remote party.",
+    "source_anchor": "https://docs.vulncheck.com/kb#remote-code-execution-rce-vulnerability",
+    "notes": ""
+  },
+  {
+    "term": "Reported Exploited by Threat Actors",
+    "definition": "A boolean value set to true if one or more named threat actors (specific threat actors) have been reported in industry publications to have exploit that specific vulnerability in-the-wild (ITW).",
+    "source_anchor": "https://docs.vulncheck.com/kb#reported-exploited-by-threat-actors",
+    "notes": ""
+  },
+  {
+    "term": "Reported Exploited In-The-Wild (ITW)",
+    "definition": "A boolean value set to true if one or more of the following example conditions are true: if a CISA Alert has been issued on the vulnerability with reports of exploitation in-the-wild; if Google Project Zero's 0day In-The-Wild (ITW) list is reporting exploitation in-the-wild; or if named threat actors have been publicly reported to have exploited the vulnerability in-the-wild.",
+    "source_anchor": "https://docs.vulncheck.com/kb#reported-exploited-in-the-wild-itw",
+    "notes": ""
+  },
+  {
+    "term": "Secure Software Development Lifecycle (SSDLC)",
+    "definition": "The set of methods and processes for developing secure software as part of the overall software development lifecycle (SDLC). This can include, but is not limited to, iterative scanning of developed software for security vulnerabilities, remediating them, and scanning to ensure they were fixed.",
+    "source_anchor": "https://docs.vulncheck.com/kb#secure-software-development-lifecycle-ssdlc",
+    "notes": ""
+  },
+  {
+    "term": "Software Bill of Materials (SBOM)",
+    "definition": "An artifact, typically a JSON or XML file, expressed in CycloneDX or SPDX format, which contains metadata associated with delivered software, including the dependencies included in that software.",
+    "source_anchor": "https://docs.vulncheck.com/kb#software-bill-of-materials-sbom",
+    "notes": ""
+  },
+  {
+    "term": "Software Dependency Graphs",
+    "definition": "A graph depicting the hierarchy of software dependencies for a given package or software component.",
+    "source_anchor": "https://docs.vulncheck.com/kb#software-dependency-graphs",
+    "notes": ""
+  },
+  {
+    "term": "Software Identification (SWID) Tag",
+    "definition": "A structured metadata format for describing a software product that is defined by the ISO/IEC 19770-2 published standard in order to aid asset and information security management. There are tag types that represent certain states of the software lifecycle and each will provide different information based on this type. Some common information is the product name, version, and a (proxy) tag identifier. A given tag document will be in XML format.",
+    "source_anchor": "https://docs.vulncheck.com/kb#software-identification-swid-tag",
+    "notes": ""
+  },
+  {
+    "term": "Software Package Data Exchange (SPDX) blog/vulnerability-exchange-formats#software-package-data-exchange-spdx-a-flexible-and-open-sbom-standard",
+    "definition": "An international open standard (ISO/IEC 5962:2021) for supporting the communication of SBOM information in order to aid in security, license compliance, and other software supply chain use cases. Serialization formats include JSON, RDF/XML, tag-value, and YAML.",
+    "source_anchor": "https://docs.vulncheck.com/kb#software-package-data-exchange-spdx-blog-vulnerability-exchange-formats-software-package-data-exchange-spdx-a-flexible-and-open-sbom-standard",
+    "notes": ""
+  },
+  {
+    "term": "Software Supply Chain Security",
+    "definition": "The set of methods and processes for securing the software supply chain, including the software development lifecycle (SSDLC), software bill of materials (SBOM), and vulnerability management.",
+    "source_anchor": "https://docs.vulncheck.com/kb#software-supply-chain-security",
+    "notes": ""
+  },
+  {
+    "term": "Understanding Exploits",
+    "definition": "A non-specific threat actor, not currently associated with a name, identifier, or country; see also: Advanced Persistent Threat (APT).",
+    "source_anchor": "https://docs.vulncheck.com/kb#understanding-exploits",
+    "notes": ""
+  },
+  {
+    "term": "Unnamed Threat Actor",
+    "definition": "A non-specific threat actor, not currently associated with a name, identifier, or country; see also: Advanced Persistent Threat (APT).",
+    "source_anchor": "https://docs.vulncheck.com/kb#unnamed-threat-actor",
+    "notes": ""
+  },
+  {
+    "term": "Vulnerability Alias",
+    "definition": "A name assigned to a vulnerability, by a vendor or security researcher, such as Log4Shell or URGENT/11.",
+    "source_anchor": "https://docs.vulncheck.com/kb#vulnerability-alias",
+    "notes": ""
+  },
+  {
+    "term": "Vulnerability Disclosure Report (VDR)",
+    "definition": "A vendor produced document that discloses vulnerabilities in products and services. Both the ISO/IEC 29147:2018 international open standard and NIST SP 800-161 publication provide guidance on handling receiving reports of vulnerabilities, disclosing remediation actions, and other aspects of responsible vulnerability handling to reduce users' risk.",
+    "source_anchor": "https://docs.vulncheck.com/kb#vulnerability-disclosure-report-vdr",
+    "notes": ""
+  },
+  {
+    "term": "Vulnerability Exploitability eXchange (VEX)",
+    "definition": "A format developed by the National Telecommunications and Information Administration (NTIA) for the purpose of providing users additional information on whether an included component in a product is impacted by a specific vulnerability and justification for this statement. Additionally, the standard provides the ability to include recommended steps for remediation, if any exist. The primary use case is for inclusion in SBOMs in order to help avoid spending time on non-exploitable vulnerabilities, but it is not the only use case.",
+    "source_anchor": "https://docs.vulncheck.com/kb#vulnerability-exploitability-exchange-vex",
+    "notes": ""
+  },
+  {
+    "term": "Weaponized Exploit",
+    "definition": "An exploit which is either explicitly malicious, such as cases where the exploit is contained within malware (e.g., a malicious Microsoft Word document) or has been reported as exploited in the wild, or cases where the exploit facilitates \"point & click\" exploitation (e.g., works against all or most targets and works reliably -- such as exploits in MetaSploit, CANVAS, or Core Impact). Additionally, weaponized exploits typically have secondary payloads, droppers, or implants.",
+    "source_anchor": "https://docs.vulncheck.com/kb#weaponized-exploit",
+    "notes": ""
+  },
+  {
+    "term": "Web Shell",
+    "definition": "A malicious file uploaded to a victim HTTP server. Accessing the file allows the attacker to execute arbitrary code on the victim server.",
+    "source_anchor": "https://docs.vulncheck.com/kb#web-shell",
+    "notes": ""
+  }
+]

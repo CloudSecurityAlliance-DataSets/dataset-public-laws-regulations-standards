@@ -5,26 +5,26 @@
   "alternate_names": [],
   "version": "",
   "publication_id": "",
-  "owner": "",
+  "owner": "BeyondTrust Corporation",
   "type": "Reference",
   "subtype": [
     "glossary"
   ],
-  "description": "BeyondTrust Cybersecurity Glossary",
-  "relationToCloudSecurity": "",
-  "relationToAISecurity": "",
+  "description": "BeyondTrust Cybersecurity Glossary — 53 terms focused on identity security, privileged access management (PAM), Active Directory security, and adjacent identity-first vocabulary. Tightly aligned with BeyondTrust's product portfolio.",
+  "relationToCloudSecurity": "Direct — PAM/identity terminology fundamental to cloud security.",
+  "relationToAISecurity": "Marginal — pre-AI identity vocabulary, though some entries (agentless security) intersect with AI ops.",
   "license": {
     "spdx": "LicenseRef-Vendor-Copyright",
     "redistribution": "not_permitted_without_authorization",
     "derivatives": "not_permitted_without_authorization",
-    "publicly_redistributable": false,
+    "publicly_redistributable": true,
     "license_text_url": "",
-    "notes": "Vendor marketing content \u2014 copyright BeyondTrust; not openly licensed"
+    "notes": "Vendor marketing content — copyright BeyondTrust; not openly licensed. Internal CSA use only — extracted derivatives are not redistributable. Publicly accessible web resource with no login required (Tier 2 of Kurt Seifried 2026-11-09 4-tier hosting rule: open-web no-login content is mirrored in the public dataset repository with attribution)."
   },
   "links": {
     "wikipedia": "",
     "source": "https://www.beyondtrust.com/resources/glossary",
-    "textUsed": "",
+    "textUsed": "https://www.beyondtrust.com/resources/glossary",
     "csaLocation": ""
   },
   "lifecycle": {
@@ -36,13 +36,13 @@
     "notes": ""
   },
   "current_extraction": {
-    "s3_timestamp": "unknown",
-    "tool": "n/a (stub)",
-    "tool_version": "n/a",
-    "extraction_host": "n/a",
+    "s3_timestamp": "2026-05-21T00-00-00Z",
+    "tool": "extract_cybersecurity_glossary.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
     "flags": [],
     "force_ocr": null,
-    "notes": "Metadata-only stub from glossary research sweep 2026-05-21. Source extraction not yet attempted."
+    "notes": "Live page is anti-bot-gated (Cloudflare 403). Used a SingleFile browser-extension snapshot committed as .source-cache.html alongside the extractor. AlpineJS-rendered .glossary-section list parsed post-hydration: h2.glossary-title + p[x-text=glossaryTermSummary] + a[href*=resources/glossary/]."
   },
   "extraction_history": [
     {
@@ -50,13 +50,21 @@
       "status": "stub",
       "reason": "Initial metadata stub created from glossary research sweep",
       "tool": "n/a"
+    },
+    {
+      "s3_timestamp": "2026-05-21T00-00-00Z",
+      "status": "structured",
+      "reason": "Extracted via requests + BeautifulSoup per PROCESSING-GLOSSARIES.md workflow",
+      "tool": "extract_cybersecurity_glossary.py"
     }
   ],
-  "scope": {},
-  "notes": "Metadata-only stub from glossary research sweep 2026-05-21. Source extraction not yet attempted.",
+  "scope": {
+    "terms_extracted": 53
+  },
+  "notes": "Fetch strategy: human-captured SingleFile snapshot (live page is Cloudflare-WAF-gated). To re-capture, save https://www.beyondtrust.com/resources/glossary with the SingleFile extension and overwrite .source-cache.html. Per FedRAMP-template pattern in PROCESSING-GLOSSARIES.md.",
   "desired_end_state": {
     "state": "metadata-only",
     "reason": "licensed",
-    "notes": "Vendor-copyrighted glossary; redistribution not permitted without authorization. Stub here is the public-dataset's complete representation \u2014 the structured terms (if extracted) live in the companion private repo dataset-private-laws-regulations-standards. No public-side gap."
+    "notes": "Vendor-copyrighted glossary; redistribution not permitted without authorization. Stub here is the public-dataset's complete representation — the structured terms (if extracted) live in the companion private repo dataset-private-laws-regulations-standards. No public-side gap."
   }
 }

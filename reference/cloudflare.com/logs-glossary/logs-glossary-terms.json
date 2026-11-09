@@ -1,0 +1,44 @@
+[
+  {
+    "term": "debugging",
+    "definition": "The process of identifying and resolving errors or issues within software applications or systems, often facilitated by analyzing log data.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/logs/glossary/#debugging"
+  },
+  {
+    "term": "deprecation",
+    "definition": "Deprecation in software development involves officially labeling a feature as outdated. While a deprecated software feature remains within the software, users are warned and encouraged to adopt alternatives. Eventually, deprecated features may be removed. This approach ensures backward compatibility and gives programmers time to update their code.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/logs/glossary/#deprecation"
+  },
+  {
+    "term": "event",
+    "definition": "An occurrence or happening that is significant and worthy of being recorded in a log.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/logs/glossary/#event"
+  },
+  {
+    "term": "log",
+    "definition": "A chronological record of events, actions, or transactions, typically used for tracking and troubleshooting purposes.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/logs/glossary/#log"
+  },
+  {
+    "term": "log file",
+    "definition": "A file containing a collection of log entries, usually stored in a structured or semi-structured format.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/logs/glossary/#log-file"
+  },
+  {
+    "term": "logging",
+    "definition": "The process of recording events, actions, or transactions in a log.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/logs/glossary/#logging"
+  },
+  {
+    "term": "timestamp",
+    "definition": "A data field indicating the date and time when an event occurred, often used for sequencing and analysis.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/logs/glossary/#timestamp"
+  }
+]

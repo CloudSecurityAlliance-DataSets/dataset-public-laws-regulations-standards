@@ -1,0 +1,31 @@
+{
+  "secid": "secid:control/bot.or.th/promptpay",
+  "name": "PromptPay — Thai Real-Time Payments",
+  "acronym": "PromptPay",
+  "version": "",
+  "owner": "Bank of Thailand",
+  "type": "Standard",
+  "description": "Thai real-time payment system using national-ID or mobile-number as payee identifier. Operated by BoT.",
+  "relationToCloudSecurity": "",
+  "relationToAISecurity": "",
+  "license": {
+    "spdx": "LicenseRef-Publisher-Restricted",
+    "redistribution": "prohibited",
+    "derivatives": "prohibited_without_license",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.bot.or.th/en/financial-innovation/payment-systems-oversight/payment-system/promptpay.html",
+    "notes": "Operational rules published by BoT; participant security partly members-only. Public-release government / central bank publication (Tier 1 of Kurt Seifried 2026-11-09 4-tier hosting rule: public government website content goes into the public dataset repository regardless of license)."
+  },
+  "links": {
+    "source": "https://www.bot.or.th/en/financial-innovation/payment-systems-oversight/payment-system/promptpay.html",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "active": true,
+    "supersedes": "",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "When CSA acquires a licensed copy, promote into a versioned subdir."
+  },
+  "notes": "Authored 2026-05-14. Stub-only — awaiting CSA's licensed copy. Identity record in SecID registry."
+}

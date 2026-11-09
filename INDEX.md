@@ -16,22 +16,23 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 
 ## Summary
 
-**Total documents indexed:** 950
+**Total documents indexed:** 987
 
 | Type | structured | metadata-only | readme-only | empty | **Total** |
 |---|---:|---:|---:|---:|---:|
-| `control/` | 127 | 9 | — | — | **136** |
+| `control/` | 127 | 45 | — | — | **172** |
 | `regulation/` | 79 | 1 | — | — | **80** |
 | `weakness/` | 1 | 1 | — | — | **2** |
 | `ttp/` | 1 | 4 | — | — | **5** |
 | `methodology/` | 9 | — | — | — | **9** |
-| `reference/` | 376 | 332 | 4 | 6 | **718** |
-| **Total** | **593** | **347** | **4** | **6** | **950** |
+| `reference/` | 415 | 294 | 4 | 6 | **719** |
+| **Total** | **632** | **345** | **4** | **6** | **987** |
 
 ## control/
 
 | Path | State | Files | Glyphs (MXJCSPI) | SecID |
 |---|---|---|---|---|
+| `control/agid.gov.it/spid/` | metadata-only | 1 | `M······` | `secid:control/agid.gov.it/spid` |
 | `control/aicpa.org/tsc/2017/` | structured | 11 (+2 imgs) | `MXJCSPI` | `secid:control/aicpa.org/tsc@2017` |
 | `control/aiuc.com/aiuc-1/` | structured | 5 | `M··CSP·` | `secid:control/aiuc.com/aiuc-1` |
 | `control/alignment.org/evals/` | structured | 5 | `MX·CS··` | `secid:control/alignment.org/evals` |
@@ -41,10 +42,15 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/amazon.com/security-hub-standards/` | structured | 5 | `MX·CS··` | `secid:control/amazon.com/security-hub-standards` |
 | `control/amazon.com/well-architected/` | structured | 14 (+6 imgs) | `MX·CSPI` | `secid:control/amazon.com/well-architected` |
 | `control/axelos.com/itil/` | metadata-only | 2 | `M······` | `secid:control/axelos.com/itil` |
+| `control/banxico.org.mx/codi/` | metadata-only | 1 | `M······` | `secid:control/banxico.org.mx/codi` |
+| `control/bcb.gov.br/pix/` | metadata-only | 1 | `M······` | `secid:control/bcb.gov.br/pix` |
+| `control/berlin-group.org/nextgenpsd2/` | metadata-only | 1 | `M······` | `secid:control/berlin-group.org/nextgenpsd2` |
+| `control/bot.or.th/promptpay/` | metadata-only | 1 | `M······` | `secid:control/bot.or.th/promptpay` |
 | `control/bsi.bund.de/a5/` | structured | 17 | `MX·CS··` | `secid:control/bsi.bund.de/a5` |
 | `control/bsi.bund.de/ai-c4/` | structured | 7 | `MX·CS··` | `secid:control/bsi.bund.de/ai-c4` |
 | `control/bsi.bund.de/c5/` | structured | 10 | `M··CS··` | `secid:control/bsi.bund.de/c5` |
 | `control/bsi.bund.de/it-grundschutz/` | structured | 7 | `M··CSP·` | `secid:control/bsi.bund.de/it-grundschutz` |
+| `control/bsp.gov.ph/pesonet/` | metadata-only | 1 | `M······` | `secid:control/bsp.gov.ph/pesonet` |
 | `control/cisecurity.org/cis-controls/v8/` | structured | 6 | `MXJCS··` | `secid:control/cisecurity.org/cis-controls@8` |
 | `control/cloudsecurityalliance.org/aicm/0.0.2/` | structured | 17 | `M··CS··` | `secid:control/cloudsecurityalliance.org/aicm@0.0.2` |
 | `control/cloudsecurityalliance.org/aicm/1.0.3/` | structured | 4 | `M··CS··` | `secid:control/cloudsecurityalliance.org/aicm@1.0.3` |
@@ -63,10 +69,15 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/cryptrec.go.jp/ciphers-list/` | structured | 9 | `MX·CS··` | `secid:control/cryptrec.go.jp/ciphers-list` |
 | `control/cyber.go.jp/cip-policy/` | structured | 7 | `MX·CS··` | `secid:control/cyber.go.jp/cip-policy` |
 | `control/cyber.go.jp/common-standards/` | structured | 7 | `MX·CS··` | `secid:control/cyber.go.jp/common-standards` |
+| `control/digilocker.gov.in/integration-spec/` | metadata-only | 1 | `M······` | `secid:control/digilocker.gov.in/integration-spec` |
+| `control/digital.go.jp/my-number/` | metadata-only | 1 | `M······` | `secid:control/digital.go.jp/my-number` |
 | `control/enx.com/isa/6/` | structured | 5 | `M··CSP·` | `secid:control/enx.com/isa@6` |
 | `control/equifax.com/controls-framework/` | structured | 5 | `MX·CS··` | `secid:control/equifax.com/controls-framework` |
+| `control/etsi.org/en-303-645/` | metadata-only | 1 | `M······` | `secid:control/etsi.org/en-303-645` |
+| `control/etsi.org/qsc/` | metadata-only | 1 | `M······` | `secid:control/etsi.org/qsc` |
 | `control/europa.eu/altai/` | structured | 5 | `MX·CS··` | `secid:control/europa.eu/altai` |
 | `control/europa.eu/ethics-guidelines/` | structured | 5 | `MX·CS··` | `secid:control/europa.eu/ethics-guidelines` |
+| `control/europeanpaymentscouncil.eu/sct/` | metadata-only | 1 | `M······` | `secid:control/europeanpaymentscouncil.eu/sct` |
 | `control/fedramp.gov/csp-annual-assessment-controls-selection-worksheet/` | structured | 10 | `M··CS··` | `secid:control/fedramp.gov/csp-annual-assessment-controls-selection-worksheet` |
 | `control/fedramp.gov/fedramp-continuous-monitoring-deliverables-template/` | structured | 5 | `M··CS··` | `secid:control/fedramp.gov/fedramp-continuous-monitoring-deliverables-template` |
 | `control/fedramp.gov/fedramp-h-m-l-li-review-report-template-rev4/` | structured | 7 | `M··CS··` | `secid:control/fedramp.gov/fedramp-h-m-l-li-review-report-template-rev4` |
@@ -93,8 +104,11 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/google.com/frontier-safety/` | structured | 5 | `MX·CS··` | `secid:control/google.com/frontier-safety` |
 | `control/google.com/saif/` | structured | 5 | `MX·CS··` | `secid:control/google.com/saif` |
 | `control/google.com/security-best-practices/` | structured | 5 | `MX·CS··` | `secid:control/google.com/security-best-practices` |
+| `control/gov.br/gov-br/` | metadata-only | 1 | `M······` | `secid:control/gov.br/gov-br` |
+| `control/gov.uk/one-login/` | metadata-only | 1 | `M······` | `secid:control/gov.uk/one-login` |
 | `control/hitrustalliance.net/csf/v11.3.0/` | structured | 7 (+1 imgs) | `MX·CSPI` | `secid:control/hitrustalliance.net/csf@v11.3.0` |
 | `control/ibm.com/ai-controls-framework/` | structured | 5 | `MX·CS··` | `secid:control/ibm.com/ai-controls-framework` |
+| `control/idrbt.ac.in/cybersecurity-framework/` | metadata-only | 1 | `M······` | `secid:control/idrbt.ac.in/cybersecurity-framework` |
 | `control/imda.gov.sg/ai-verify/` | structured | 5 | `MX·CS··` | `secid:control/imda.gov.sg/ai-verify` |
 | `control/imda.gov.sg/model-governance/` | structured | 5 | `MX·CS··` | `secid:control/imda.gov.sg/model-governance` |
 | `control/ipa.go.jp/insider-breach-guidelines/` | structured | 7 | `MX·CS··` | `secid:control/ipa.go.jp/insider-breach-guidelines` |
@@ -106,6 +120,8 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/ismap.go.jp/control-criteria/2022-04-01/` | structured | 8 | `M··CSP·` | `secid:control/ismap.go.jp/control-criteria@2022-04-01` |
 | `control/jailbreakbench.github.io/benchmark/` | structured | 5 | `MX·CS··` | `secid:control/jailbreakbench.github.io/benchmark` |
 | `control/jipdec.or.jp/privacymark/` | structured | 7 | `MX·CS··` | `secid:control/jipdec.or.jp/privacymark` |
+| `control/kantarainitiative.org/iaf/` | metadata-only | 1 | `M······` | `secid:control/kantarainitiative.org/iaf` |
+| `control/logius.nl/digid/` | metadata-only | 1 | `M······` | `secid:control/logius.nl/digid` |
 | `control/meta.com/cyberseceval/` | structured | 5 | `MX·CS··` | `secid:control/meta.com/cyberseceval` |
 | `control/meta.com/purple-llama/` | structured | 5 | `MX·CS··` | `secid:control/meta.com/purple-llama` |
 | `control/meti.go.jp/ai-business-guidelines/` | structured | 7 | `MX·CS··` | `secid:control/meti.go.jp/ai-business-guidelines` |
@@ -117,6 +133,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/mhlw.go.jp/medical-info-systems-safety/` | structured | 8 | `MX·CS··` | `secid:control/mhlw.go.jp/medical-info-systems-safety` |
 | `control/microsoft.com/azure-security-benchmark/` | structured | 5 | `MX·CS··` | `secid:control/microsoft.com/azure-security-benchmark` |
 | `control/microsoft.com/secure-score/` | structured | 5 | `MX·CS··` | `secid:control/microsoft.com/secure-score` |
+| `control/mitid.dk/mitid/` | metadata-only | 1 | `M······` | `secid:control/mitid.dk/mitid` |
 | `control/mlcommons.org/ai-safety/` | structured | 5 | `MX·CS··` | `secid:control/mlcommons.org/ai-safety` |
 | `control/mlcommons.org/croissant/` | structured | 5 | `MX·CS··` | `secid:control/mlcommons.org/croissant` |
 | `control/mlcommons.org/mlperf/` | structured | 5 | `MX·CS··` | `secid:control/mlcommons.org/mlperf` |
@@ -126,6 +143,10 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/mlit.go.jp/logistics-truck-freight-security/` | structured | 7 | `MX·CS··` | `secid:control/mlit.go.jp/logistics-truck-freight-security` |
 | `control/mlit.go.jp/logistics-warehousing-security/` | structured | 7 | `MX·CS··` | `secid:control/mlit.go.jp/logistics-warehousing-security` |
 | `control/mlit.go.jp/railway-security/` | structured | 7 | `MX·CS··` | `secid:control/mlit.go.jp/railway-security` |
+| `control/mygovid.gov.au/myid/` | metadata-only | 1 | `M······` | `secid:control/mygovid.gov.au/myid` |
+| `control/nia.gov.gh/ghana-card/` | metadata-only | 1 | `M······` | `secid:control/nia.gov.gh/ghana-card` |
+| `control/nic.gov.sa/nafath/` | metadata-only | 1 | `M······` | `secid:control/nic.gov.sa/nafath` |
+| `control/nimc.gov.ng/nin/` | metadata-only | 1 | `M······` | `secid:control/nimc.gov.ng/nin` |
 | `control/nist.gov/800-160-v1/` | structured | 32 (+22 imgs) | `MX·CSPI` | `secid:control/nist.gov/800-160-v1` |
 | `control/nist.gov/800-161/r1/` | structured | 25 (+19 imgs) | `MX·CSPI` | `secid:control/nist.gov/800-161@r1` |
 | `control/nist.gov/800-171/` | structured | 11 (+3 imgs) | `MX·CSPI` | `secid:control/nist.gov/800-171` |
@@ -151,23 +172,38 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/nist.gov/fips-199/` | structured | 7 (+1 imgs) | `MX·CSPI` | `secid:control/nist.gov/fips-199` |
 | `control/nist.gov/fips-200/` | structured | 9 (+1 imgs) | `MX·CSPI` | `secid:control/nist.gov/fips-200` |
 | `control/nist.gov/privacy-framework/` | structured | 17 (+9 imgs) | `MX·CSPI` | `secid:control/nist.gov/privacy-framework` |
+| `control/npci.org.in/upi/` | metadata-only | 1 | `M······` | `secid:control/npci.org.in/upi` |
+| `control/numerique.gouv.fr/franceconnect/` | metadata-only | 1 | `M······` | `secid:control/numerique.gouv.fr/franceconnect` |
 | `control/openai.com/model-spec/` | structured | 6 | `MX·CSP·` | `secid:control/openai.com/model-spec` |
 | `control/openai.com/red-teaming/` | structured | 5 | `MX·CS··` | `secid:control/openai.com/red-teaming` |
 | `control/openai.com/system-cards/` | structured | 5 | `MX·CS··` | `secid:control/openai.com/system-cards` |
+| `control/openbanking.org.uk/read-write-api/` | metadata-only | 1 | `M······` | `secid:control/openbanking.org.uk/read-write-api` |
+| `control/openidentityexchange.org/trust-framework/` | metadata-only | 1 | `M······` | `secid:control/openidentityexchange.org/trust-framework` |
+| `control/payments.ca/lynx/` | metadata-only | 1 | `M······` | `secid:control/payments.ca/lynx` |
 | `control/pcisecuritystandards.org/pa-dss/` | metadata-only | 2 | `M······` | `secid:control/pcisecuritystandards.org/pa-dss` |
 | `control/pcisecuritystandards.org/pci-dss/v3.2.1/` | structured | 148 (+140 imgs) | `MXJCSPI` | `secid:control/pcisecuritystandards.org/pci-dss@3.2.1` |
 | `control/pcisecuritystandards.org/pci-dss/v4.0/` | structured | 348 (+340 imgs) | `MXJCSPI` | `secid:control/pcisecuritystandards.org/pci-dss@4.0` |
 | `control/pcisecuritystandards.org/pci-dss/v4.0.1/` | structured | 349 (+341 imgs) | `MXJCSPI` | `secid:control/pcisecuritystandards.org/pci-dss@4.0.1` |
 | `control/pcisecuritystandards.org/pci-pin/` | metadata-only | 2 | `M······` | `secid:control/pcisecuritystandards.org/pci-pin` |
 | `control/pcisecuritystandards.org/secure-software-standard/` | metadata-only | 2 | `M······` | `secid:control/pcisecuritystandards.org/secure-software-standard` |
+| `control/philsys.gov.ph/philsys/` | metadata-only | 1 | `M······` | `secid:control/philsys.gov.ph/philsys` |
+| `control/polishapi.org/polishapi/` | metadata-only | 1 | `M······` | `secid:control/polishapi.org/polishapi` |
 | `control/ppc.go.jp/appi-guidelines/` | structured | 7 | `MX·CS··` | `secid:control/ppc.go.jp/appi-guidelines` |
+| `control/pqcc.org/migration-roadmap/` | metadata-only | 1 | `M······` | `secid:control/pqcc.org/migration-roadmap` |
+| `control/psacertified.org/tmsa/` | metadata-only | 1 | `M······` | `secid:control/psacertified.org/tmsa` |
+| `control/realme.govt.nz/realme/` | metadata-only | 1 | `M······` | `secid:control/realme.govt.nz/realme` |
+| `control/ria.ee/x-road/` | metadata-only | 1 | `M······` | `secid:control/ria.ee/x-road` |
 | `control/safe.ai/harmbench/` | structured | 5 | `MX·CS··` | `secid:control/safe.ai/harmbench` |
 | `control/safe.ai/wmdp/` | structured | 5 | `MX·CS··` | `secid:control/safe.ai/wmdp` |
 | `control/securityforum.org/sogp/2022/` | metadata-only | 1 | `M······` | `secid:control/securityforum.org/sogp@2022` |
+| `control/singpass.gov.sg/singpass/` | metadata-only | 1 | `M······` | `secid:control/singpass.gov.sg/singpass` |
 | `control/soumu.go.jp/ai-security-guideline/` | structured | 6 | `MX·CS··` | `secid:control/soumu.go.jp/ai-security-guideline` |
+| `control/stet.eu/psd2-api/` | metadata-only | 1 | `M······` | `secid:control/stet.eu/psd2-api` |
 | `control/swift.com/csp/` | metadata-only | 2 | `M······` | `secid:control/swift.com/csp` |
 | `control/tc260.org.cn/ai-safety-governance/` | structured | 5 | `MX·CS··` | `secid:control/tc260.org.cn/ai-safety-governance` |
 | `control/trustllmbenchmark.github.io/benchmark/` | structured | 5 | `MX·CS··` | `secid:control/trustllmbenchmark.github.io/benchmark` |
+| `control/uaepass.ae/uaepass/` | metadata-only | 1 | `M······` | `secid:control/uaepass.ae/uaepass` |
+| `control/uidai.gov.in/auth-api/` | metadata-only | 1 | `M······` | `secid:control/uidai.gov.in/auth-api` |
 
 ## regulation/
 
@@ -307,7 +343,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/amazon.com/security-guidance/` | empty | 0 | `·······` | — |
 | `reference/amazon.com/wellarchitected-security-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/amazon.com/wellarchitected-security-glossary` |
 | `reference/anthropic.com/model-cards/` | readme-only | 1 | `·······` | — |
-| `reference/apple.com/platform-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/apple.com/platform-security-glossary` |
+| `reference/apple.com/platform-security-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/apple.com/platform-security-glossary` |
 | `reference/argentina.gob.ar/directiva-politica-defensa-nacional/2021/` | metadata-only | 1 | `M······` | `secid:reference/argentina.gob.ar/directiva-politica-defensa-nacional@2021` |
 | `reference/argentina.gob.ar/estrategia-nacional-ciberseguridad/2019/` | metadata-only | 1 | `M······` | `secid:reference/argentina.gob.ar/estrategia-nacional-ciberseguridad@2019` |
 | `reference/argentina.gob.ar/estrategia-nacional-ciberseguridad/2023/` | structured | 4 | `MX·CS··` | `secid:reference/argentina.gob.ar/estrategia-nacional-ciberseguridad@2023` |
@@ -315,10 +351,11 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/asisonline.org/security-industry-glossary/` | metadata-only | 1 | `M······` | `secid:reference/asisonline.org/security-industry-glossary` |
 | `reference/au.int/continental-artificial-intelligence-strategy/2024/` | structured | 4 | `MX·CS··` | `secid:reference/au.int/continental-artificial-intelligence-strategy@2024` |
 | `reference/bankid.com/glossary/` | metadata-only | 1 | `M······` | `secid:reference/bankid.com/glossary` |
-| `reference/beyondtrust.com/cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/beyondtrust.com/cybersecurity-glossary` |
+| `reference/barracuda.com/glossary/` | structured | 4 | `M··CSP·` | `secid:reference/barracuda.com/glossary` |
+| `reference/beyondtrust.com/cybersecurity-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/beyondtrust.com/cybersecurity-glossary` |
 | `reference/bimco.org/cyber-security-onboard-ships-glossary/` | metadata-only | 1 | `M······` | `secid:reference/bimco.org/cyber-security-onboard-ships-glossary` |
 | `reference/bitdefender.com/infozone-glossary/` | metadata-only | 1 | `M······` | `secid:reference/bitdefender.com/infozone-glossary` |
-| `reference/bitsight.com/cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/bitsight.com/cybersecurity-glossary` |
+| `reference/bitsight.com/cybersecurity-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/bitsight.com/cybersecurity-glossary` |
 | `reference/bka.gv.at/aim-at-2030/2021/` | metadata-only | 1 | `M······` | `secid:reference/bka.gv.at/aim-at-2030@2021` |
 | `reference/bka.gv.at/oesterreichische-sicherheitsstrategie/2013/` | metadata-only | 1 | `M······` | `secid:reference/bka.gv.at/oesterreichische-sicherheitsstrategie@2013` |
 | `reference/bka.gv.at/oesterreichische-sicherheitsstrategie/2024/` | metadata-only | 1 | `M······` | `secid:reference/bka.gv.at/oesterreichische-sicherheitsstrategie@2024` |
@@ -329,7 +366,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/bmi.bund.de/cybersicherheitsstrategie/2016/` | structured | 4 | `MX·CS··` | `secid:reference/bmi.bund.de/cybersicherheitsstrategie@2016` |
 | `reference/bmi.bund.de/cybersicherheitsstrategie/2021/` | structured | 4 | `MX·CS··` | `secid:reference/bmi.bund.de/cybersicherheitsstrategie@2021` |
 | `reference/broadcom.com/enterprise-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/broadcom.com/enterprise-security-glossary` |
-| `reference/bsi.bund.de/glossary/` | metadata-only | 1 | `M······` | `secid:reference/bsi.bund.de/glossary` |
+| `reference/bsi.bund.de/glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/bsi.bund.de/glossary` |
 | `reference/bsigroup.com/cyber-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/bsigroup.com/cyber-security-glossary` |
 | `reference/bssn.go.id/buku-putih-pertahanan-indonesia/2015/` | metadata-only | 1 | `M······` | `secid:reference/bssn.go.id/buku-putih-pertahanan-indonesia@2015` |
 | `reference/bssn.go.id/strategi-keamanan-siber-nasional/2023/` | metadata-only | 1 | `M······` | `secid:reference/bssn.go.id/strategi-keamanan-siber-nasional@2023` |
@@ -372,7 +409,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/cfcs.dk/national-strategy-for-artificial-intelligence/2024/` | metadata-only | 1 | `M······` | `secid:reference/cfcs.dk/national-strategy-for-artificial-intelligence@2024` |
 | `reference/cfcs.dk/national-strategy-for-cyber-and-information-security/2021/` | metadata-only | 1 | `M······` | `secid:reference/cfcs.dk/national-strategy-for-cyber-and-information-security@2021` |
 | `reference/checkmarx.com/application-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/checkmarx.com/application-security-glossary` |
-| `reference/checkmk.com/glossary/` | metadata-only | 1 | `M······` | `secid:reference/checkmk.com/glossary` |
+| `reference/checkmk.com/glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/checkmk.com/glossary` |
 | `reference/checkpoint.com/cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/checkpoint.com/cybersecurity-glossary` |
 | `reference/chinhphu.vn/national-cybersecurity-and-safety-strategy/2022/` | structured | 4 | `MX·CS··` | `secid:reference/chinhphu.vn/national-cybersecurity-and-safety-strategy@2022` |
 | `reference/chinhphu.vn/national-strategy-on-rd-and-application-of-ai/2021/` | structured | 4 | `MX·CS··` | `secid:reference/chinhphu.vn/national-strategy-on-rd-and-application-of-ai@2021` |
@@ -382,39 +419,39 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/cisa.gov/kev/` | metadata-only | 2 | `M······` | `secid:reference/cisa.gov/kev` |
 | `reference/cisa.gov/niccs-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/cisa.gov/niccs-glossary` |
 | `reference/cisa.gov/scuba/` | structured | 5 | `MX·CS··` | `secid:reference/cisa.gov/scuba` |
-| `reference/cisco.com/security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cisco.com/security-glossary` |
+| `reference/cisco.com/security-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/cisco.com/security-glossary` |
 | `reference/cisecurity.org/cybersecurity-terms-definitions/` | metadata-only | 1 | `M······` | `secid:reference/cisecurity.org/cybersecurity-terms-definitions` |
 | `reference/cisecurity.org/oval/` | structured | 5 | `MX·CS··` | `secid:reference/cisecurity.org/oval` |
 | `reference/citra.gov.kw/kuwait-national-cybersecurity-strategy/2017/` | metadata-only | 1 | `M······` | `secid:reference/citra.gov.kw/kuwait-national-cybersecurity-strategy@2017` |
 | `reference/citrix.com/glossary/` | metadata-only | 1 | `M······` | `secid:reference/citrix.com/glossary` |
-| `reference/cloudflare.com/ai-crawl-control-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/ai-crawl-control-glossary` |
-| `reference/cloudflare.com/ai-gateway-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/ai-gateway-glossary` |
-| `reference/cloudflare.com/api-shield-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/api-shield-glossary` |
-| `reference/cloudflare.com/bots-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/bots-glossary` |
-| `reference/cloudflare.com/byoip-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/byoip-glossary` |
-| `reference/cloudflare.com/cache-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/cache-glossary` |
-| `reference/cloudflare.com/cloudflare-one-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/cloudflare-one-glossary` |
-| `reference/cloudflare.com/cloudflare-wan-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/cloudflare-wan-glossary` |
-| `reference/cloudflare.com/d1-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/d1-glossary` |
-| `reference/cloudflare.com/dns-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/dns-glossary` |
-| `reference/cloudflare.com/durable-objects-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/durable-objects-glossary` |
-| `reference/cloudflare.com/fundamentals-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/fundamentals-glossary` |
-| `reference/cloudflare.com/kv-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/kv-glossary` |
-| `reference/cloudflare.com/logs-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/logs-glossary` |
-| `reference/cloudflare.com/magic-transit-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/magic-transit-glossary` |
-| `reference/cloudflare.com/network-flow-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/network-flow-glossary` |
-| `reference/cloudflare.com/queues-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/queues-glossary` |
-| `reference/cloudflare.com/radar-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/radar-glossary` |
+| `reference/cloudflare.com/ai-crawl-control-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/cloudflare.com/ai-crawl-control-glossary` |
+| `reference/cloudflare.com/ai-gateway-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/cloudflare.com/ai-gateway-glossary` |
+| `reference/cloudflare.com/api-shield-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/cloudflare.com/api-shield-glossary` |
+| `reference/cloudflare.com/bots-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/cloudflare.com/bots-glossary` |
+| `reference/cloudflare.com/byoip-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/cloudflare.com/byoip-glossary` |
+| `reference/cloudflare.com/cache-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/cloudflare.com/cache-glossary` |
+| `reference/cloudflare.com/cloudflare-one-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/cloudflare.com/cloudflare-one-glossary` |
+| `reference/cloudflare.com/cloudflare-wan-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/cloudflare.com/cloudflare-wan-glossary` |
+| `reference/cloudflare.com/d1-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/cloudflare.com/d1-glossary` |
+| `reference/cloudflare.com/dns-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/cloudflare.com/dns-glossary` |
+| `reference/cloudflare.com/durable-objects-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/cloudflare.com/durable-objects-glossary` |
+| `reference/cloudflare.com/fundamentals-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/cloudflare.com/fundamentals-glossary` |
+| `reference/cloudflare.com/kv-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/cloudflare.com/kv-glossary` |
+| `reference/cloudflare.com/logs-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/cloudflare.com/logs-glossary` |
+| `reference/cloudflare.com/magic-transit-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/cloudflare.com/magic-transit-glossary` |
+| `reference/cloudflare.com/network-flow-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/cloudflare.com/network-flow-glossary` |
+| `reference/cloudflare.com/queues-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/cloudflare.com/queues-glossary` |
+| `reference/cloudflare.com/radar-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/cloudflare.com/radar-glossary` |
 | `reference/cloudflare.com/security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/security-glossary` |
-| `reference/cloudflare.com/spectrum-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/spectrum-glossary` |
-| `reference/cloudflare.com/speed-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/speed-glossary` |
-| `reference/cloudflare.com/ssl-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/ssl-glossary` |
-| `reference/cloudflare.com/tenant-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/tenant-glossary` |
-| `reference/cloudflare.com/waf-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/waf-glossary` |
-| `reference/cloudflare.com/waiting-room-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/waiting-room-glossary` |
-| `reference/cloudflare.com/workers-ai-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/workers-ai-glossary` |
-| `reference/cloudflare.com/workers-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/workers-glossary` |
-| `reference/cloudflare.com/workflows-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cloudflare.com/workflows-glossary` |
+| `reference/cloudflare.com/spectrum-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/cloudflare.com/spectrum-glossary` |
+| `reference/cloudflare.com/speed-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/cloudflare.com/speed-glossary` |
+| `reference/cloudflare.com/ssl-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/cloudflare.com/ssl-glossary` |
+| `reference/cloudflare.com/tenant-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/cloudflare.com/tenant-glossary` |
+| `reference/cloudflare.com/waf-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/cloudflare.com/waf-glossary` |
+| `reference/cloudflare.com/waiting-room-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/cloudflare.com/waiting-room-glossary` |
+| `reference/cloudflare.com/workers-ai-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/cloudflare.com/workers-ai-glossary` |
+| `reference/cloudflare.com/workers-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/cloudflare.com/workers-glossary` |
+| `reference/cloudflare.com/workflows-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/cloudflare.com/workflows-glossary` |
 | `reference/cloudsecurityalliance.org/ai-caiq-instructions/v1.1/` | structured | 10 (+4 imgs) | `MX·CS·I` | `secid:reference/cloudsecurityalliance.org/ai-caiq-instructions@v1.1` |
 | `reference/cloudsecurityalliance.org/aicm-introductory-guidance/v1.1/` | structured | 118 (+112 imgs) | `MX·CS·I` | `secid:reference/cloudsecurityalliance.org/aicm-introductory-guidance@v1.1` |
 | `reference/cloudsecurityalliance.org/ccm-implementation-guidelines/` | empty | 0 | `·······` | — |
@@ -452,7 +489,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/cyber.gov.il/ai-policy/2023/` | structured | 4 | `MX·CS··` | `secid:reference/cyber.gov.il/ai-policy@2023` |
 | `reference/cyber.gov.il/national-cybersecurity-strategy/2017/` | structured | 4 | `MX·CS··` | `secid:reference/cyber.gov.il/national-cybersecurity-strategy@2017` |
 | `reference/cyber.gov.il/national-cybersecurity-strategy/2025-2028/` | structured | 4 | `MX·CS··` | `secid:reference/cyber.gov.il/national-cybersecurity-strategy@2025-2028` |
-| `reference/cyberark.com/cyberark-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cyberark.com/cyberark-glossary` |
+| `reference/cyberark.com/cyberark-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/cyberark.com/cyberark-glossary` |
 | `reference/cybersecurityworks.com/csw-cyber-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/cybersecurityworks.com/csw-cyber-security-glossary` |
 | `reference/cyberveilignederland.nl/cyberveilig-woordenboek/` | structured | 5 | `MX·CSP·` | `secid:reference/cyberveilignederland.nl/cyberveilig-woordenboek` |
 | `reference/debian.org/debian-security-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/debian.org/debian-security-glossary` |
@@ -552,7 +589,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/first.org/cti-sig-glossary/` | metadata-only | 1 | `M······` | `secid:reference/first.org/cti-sig-glossary` |
 | `reference/flexerasoftware.com/cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/flexerasoftware.com/cybersecurity-glossary` |
 | `reference/forcepoint.com/cyber-edu-glossary/` | metadata-only | 1 | `M······` | `secid:reference/forcepoint.com/cyber-edu-glossary` |
-| `reference/forescout.com/cybersecurity-glossary/` | metadata-only | 1 | `M······` | `secid:reference/forescout.com/cybersecurity-glossary` |
+| `reference/forescout.com/cybersecurity-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/forescout.com/cybersecurity-glossary` |
 | `reference/fortinet.com/cyberglossary/` | metadata-only | 1 | `M······` | `secid:reference/fortinet.com/cyberglossary` |
 | `reference/gartner.com/it-glossary/` | metadata-only | 1 | `M······` | `secid:reference/gartner.com/it-glossary` |
 | `reference/github.com/advisory-database/` | readme-only | 1 | `·······` | — |
@@ -678,7 +715,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/micitt.go.cr/estrategia-nacional-ciberseguridad/2017-2021/` | metadata-only | 1 | `M······` | `secid:reference/micitt.go.cr/estrategia-nacional-ciberseguridad@2017-2021` |
 | `reference/micitt.go.cr/estrategia-nacional-ciberseguridad/2023-2027/` | structured | 4 | `MX·CS··` | `secid:reference/micitt.go.cr/estrategia-nacional-ciberseguridad@2023-2027` |
 | `reference/micitt.go.cr/estrategia-nacional-ia/2024-2027/` | structured | 4 | `MX·CS··` | `secid:reference/micitt.go.cr/estrategia-nacional-ia@2024-2027` |
-| `reference/microsoft.com/msrc-glossary/` | metadata-only | 1 | `M······` | `secid:reference/microsoft.com/msrc-glossary` |
+| `reference/microsoft.com/msrc-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/microsoft.com/msrc-glossary` |
 | `reference/microsoft.com/security-guidance/` | empty | 0 | `·······` | — |
 | `reference/mindigital.gov.gr/blueprint-for-greeces-ai-transformation/2024/` | metadata-only | 1 | `M······` | `secid:reference/mindigital.gov.gr/blueprint-for-greeces-ai-transformation@2024` |
 | `reference/mindigital.gov.gr/national-cybersecurity-strategy/2020/` | metadata-only | 1 | `M······` | `secid:reference/mindigital.gov.gr/national-cybersecurity-strategy@2020` |
@@ -870,7 +907,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/owasp.org/ai-exchange/` | structured | 13 | `MX·CS··` | `secid:reference/owasp.org/ai-exchange` |
 | `reference/owasp.org/llm-ai-security-glossary/` | structured | 6 | `MX·CSP·` | `secid:reference/owasp.org/llm-ai-security-glossary` |
 | `reference/palantir.com/foundry-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/palantir.com/foundry-security-glossary` |
-| `reference/paloaltonetworks.com/cyberpedia-glossary/` | metadata-only | 1 | `M······` | `secid:reference/paloaltonetworks.com/cyberpedia-glossary` |
+| `reference/paloaltonetworks.com/cyberpedia-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/paloaltonetworks.com/cyberpedia-glossary` |
 | `reference/panasonic.com/security-system-glossary/` | metadata-only | 1 | `M······` | `secid:reference/panasonic.com/security-system-glossary` |
 | `reference/papercut.com/print-security-acronyms/` | metadata-only | 1 | `M······` | `secid:reference/papercut.com/print-security-acronyms` |
 | `reference/partnershiponai.org/synthetic-media-glossary/` | metadata-only | 1 | `M······` | `secid:reference/partnershiponai.org/synthetic-media-glossary` |
@@ -985,7 +1022,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/valitsus.ee/national-security-concept/2023/` | metadata-only | 1 | `M······` | `secid:reference/valitsus.ee/national-security-concept@2023` |
 | `reference/valitsus.ee/national-security-concept/2026/` | structured | 4 | `MX·CS··` | `secid:reference/valitsus.ee/national-security-concept@2026` |
 | `reference/virginia.gov/cov-it-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/virginia.gov/cov-it-glossary` |
-| `reference/vulncheck.com/vulncheck-glossary/` | metadata-only | 1 | `M······` | `secid:reference/vulncheck.com/vulncheck-glossary` |
+| `reference/vulncheck.com/vulncheck-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/vulncheck.com/vulncheck-glossary` |
 | `reference/wa.gov/data-breach-glossary/` | structured | 6 | `MX·CSP·` | `secid:reference/wa.gov/data-breach-glossary` |
 | `reference/watchguard.com/network-security-glossary/` | metadata-only | 1 | `M······` | `secid:reference/watchguard.com/network-security-glossary` |
 | `reference/whitehouse.gov/ai-action-plan/2025/` | structured | 4 | `MX·CS··` | `secid:reference/whitehouse.gov/ai-action-plan@2025` |

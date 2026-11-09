@@ -1,0 +1,68 @@
+[
+  {
+    "term": "AI crawler",
+    "definition": "A bot which scrapes content from websites in support of an AI model, including by scraping content for indexing, retrieval augmented generation, or training.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/ai-crawl-control/reference/glossary/#ai-crawler"
+  },
+  {
+    "term": "canonical URL",
+    "definition": "The preferred version of a web page, specified by a <link rel=\"canonical\"> HTML tag in the page's <head> section. When multiple URLs serve the same or similar content, the canonical URL tells search engines and crawlers which version is authoritative.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/ai-crawl-control/reference/glossary/#canonical-url"
+  },
+  {
+    "term": "category",
+    "definition": "A classification describing a crawler's stated purpose: \"AI Crawler\", \"AI Search\", \"AI Assistant\", or \"Search Engine\". One category per crawler.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/ai-crawl-control/reference/glossary/#category"
+  },
+  {
+    "term": "Content Signals",
+    "definition": "An emerging IETF standard for expressing AI content preferences via HTTP headers or metadata. Aims to replace non-standard vendor signals. Refer to contentsignals.org.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/ai-crawl-control/reference/glossary/#content-signals"
+  },
+  {
+    "term": "crawl",
+    "definition": "A single HTTP request from a bot to access a page on your site.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/ai-crawl-control/reference/glossary/#crawl"
+  },
+  {
+    "term": "crawler",
+    "definition": "A specific bot operated by a company to access web content. One operator (like OpenAI) may run multiple crawlers (GPTBot, ChatGPT-User).",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/ai-crawl-control/reference/glossary/#crawler"
+  },
+  {
+    "term": "In-band pricing",
+    "definition": "Pricing transmitted in HTTP response headers alongside content. In Pay Per Crawl, the origin sets prices via the crawler-price header.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/ai-crawl-control/reference/glossary/#in-band-pricing"
+  },
+  {
+    "term": "Merchant of Record",
+    "definition": "The entity who facilitates \"buying and selling\". For pay per crawl, Cloudflare is the merchant of record.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/ai-crawl-control/reference/glossary/#merchant-of-record"
+  },
+  {
+    "term": "operator",
+    "definition": "The company or organization that owns and operates an AI crawler. Examples include OpenAI, Microsoft, Google, ByteDance, Anthropic, and Meta. In AI Crawl Control, crawlers are grouped by their operators.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/ai-crawl-control/reference/glossary/#operator"
+  },
+  {
+    "term": "Referrer",
+    "definition": "The site a user was on before visiting your domain, tracked via the HTTP Referer header. In AI Crawl Control, referrer data shows traffic arriving from AI platforms like ChatGPT or Perplexity.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/ai-crawl-control/reference/glossary/#referrer"
+  },
+  {
+    "term": "robots.txt",
+    "definition": "A text file at the root of a website that instructs crawlers which pages they should or should not access. Compliance is voluntary. AI Crawl Control helps monitor which crawlers violate your robots.txt rules.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/ai-crawl-control/reference/glossary/#robots-txt"
+  }
+]

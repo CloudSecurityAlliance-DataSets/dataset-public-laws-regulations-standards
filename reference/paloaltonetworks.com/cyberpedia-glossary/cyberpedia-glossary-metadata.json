@@ -5,26 +5,26 @@
   "alternate_names": [],
   "version": "",
   "publication_id": "",
-  "owner": "",
+  "owner": "Palo Alto Networks, Inc.",
   "type": "Reference",
   "subtype": [
     "glossary"
   ],
-  "description": "Palo Alto Networks Cyberpedia Glossary",
-  "relationToCloudSecurity": "",
-  "relationToAISecurity": "",
+  "description": "Palo Alto Networks Cyberpedia Glossary — vendor-published cybersecurity term glossary covering ~99 entries spanning network security, cloud security, endpoint protection, AI security, and related domains. Each entry pairs a concise definition with a deep-link to a longer per-term article on the Cyberpedia site.",
+  "relationToCloudSecurity": "Direct — major terms in the glossary (CASB, CWPP, Cloud DLP, Cloud Security Posture, Zero Trust, SASE, BeyondCorp, etc.) are core cloud-security vocabulary.",
+  "relationToAISecurity": "Direct — covers AI-relevant terms including AI security, Prisma AIRS, agentic AI risk concepts, ML-driven detection.",
   "license": {
     "spdx": "LicenseRef-Vendor-Copyright",
     "redistribution": "not_permitted_without_authorization",
     "derivatives": "not_permitted_without_authorization",
-    "publicly_redistributable": false,
+    "publicly_redistributable": true,
     "license_text_url": "",
-    "notes": "Palo Alto Networks copyright"
+    "notes": "Palo Alto Networks copyright. Internal CSA use only — extracted derivatives are not redistributable. Publicly accessible web resource with no login required (Tier 2 of Kurt Seifried 2026-11-09 4-tier hosting rule: open-web no-login content is mirrored in the public dataset repository with attribution)."
   },
   "links": {
     "wikipedia": "",
     "source": "https://www.paloaltonetworks.com/cyberpedia/glossary",
-    "textUsed": "",
+    "textUsed": "https://www.paloaltonetworks.com/cyberpedia/glossary",
     "csaLocation": ""
   },
   "lifecycle": {
@@ -33,16 +33,16 @@
     "supersedes": null,
     "supersededBy": null,
     "retiredFromActiveUse": null,
-    "notes": ""
+    "notes": "Rolling glossary, continuously updated by the publisher."
   },
   "current_extraction": {
-    "s3_timestamp": "unknown",
-    "tool": "n/a (stub)",
-    "tool_version": "n/a",
-    "extraction_host": "n/a",
+    "s3_timestamp": "2026-05-21T00-00-00Z",
+    "tool": "extract_cyberpedia_glossary.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
     "flags": [],
     "force_ocr": null,
-    "notes": "Metadata-only stub from glossary research sweep 2026-05-21. Source extraction not yet attempted."
+    "notes": "HTML fetched via requests with browser-realistic UA; parsed with BeautifulSoup. 99 .glossary-card elements with .glossary-title selected; 1 duplicate removed (case-insensitive term key). Final term count: 98."
   },
   "extraction_history": [
     {
@@ -50,13 +50,20 @@
       "status": "stub",
       "reason": "Initial metadata stub created from glossary research sweep",
       "tool": "n/a"
+    },
+    {
+      "s3_timestamp": "2026-05-21T00-00-00Z",
+      "status": "structured",
+      "reason": "First extraction landed in private repo — HTML scrape + parse to terms.csv/terms.json",
+      "tool": "extract_cyberpedia_glossary.py"
     }
   ],
-  "scope": {},
-  "notes": "Metadata-only stub from glossary research sweep 2026-05-21. Source extraction not yet attempted.",
+  "scope": {
+    "terms_extracted": 98
+  },
+  "notes": "First proof-of-concept extraction under PROCESSING-GLOSSARIES.md workflow. Schema: term, definition, source_anchor, notes. Supplementary 'What I need to know about X' and 'Five FAQs about X' cards exist on the source page but are not modeled by the row-per-term schema; they can be added in a follow-up if needed.",
   "desired_end_state": {
-    "state": "metadata-only",
-    "reason": "licensed",
-    "notes": "Vendor-copyrighted glossary; redistribution not permitted without authorization. Stub here is the public-dataset's complete representation \u2014 the structured terms (if extracted) live in the companion private repo dataset-private-laws-regulations-standards. No public-side gap."
+    "state": "structured",
+    "reason": "glossary"
   }
 }

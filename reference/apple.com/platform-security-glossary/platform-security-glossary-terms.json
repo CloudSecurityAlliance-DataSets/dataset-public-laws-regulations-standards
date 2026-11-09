@@ -1,0 +1,362 @@
+[
+  {
+    "term": "Address Space Layout Randomization (ASLR)",
+    "definition": "A technique employed by operating systems to make the successful exploitation by a software bug much more difficult. By ensuring memory addresses and offsets are unpredictable, exploit code can’t hard code these values.",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#address-space-layout-randomization-aslr",
+    "notes": ""
+  },
+  {
+    "term": "AES (Advanced Encryption Standard)",
+    "definition": "A popular global encryption standard used to encrypt data to keep it private.",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#aes-advanced-encryption-standard",
+    "notes": ""
+  },
+  {
+    "term": "AES cryptographic engine",
+    "definition": "A dedicated hardware component that implements AES.",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#aes-cryptographic-engine",
+    "notes": ""
+  },
+  {
+    "term": "AES-XTS",
+    "definition": "A mode of AES defined in IEEE 1619-2007 meant to work for encrypting storage media.",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#aes-xts",
+    "notes": ""
+  },
+  {
+    "term": "Apple Business Manager",
+    "definition": "A simple, web-based portal for IT administrators that provides a fast, streamlined way for organizations to deploy Apple devices that they have purchased directly from Apple or from a participating Apple Authorized Reseller or carrier. They can automatically enrol devices in their device management service without having to physically touch or prepare the devices before users get them.",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#apple-business-manager",
+    "notes": ""
+  },
+  {
+    "term": "Apple File System (APFS)",
+    "definition": "The default file system for iOS, iPadOS, tvOS, Mac computers using macOS 10.13 or later, visionOS and watchOS. APFS features strong encryption, space sharing, snapshots, fast directory sizing and improved file system fundamentals.",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#apple-file-system-apfs",
+    "notes": ""
+  },
+  {
+    "term": "Apple Identity Service (IDS)",
+    "definition": "Apple’s directory of iMessage public keys, APNs addresses and phone numbers and email addresses, which are used to look up the keys and device addresses.",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#apple-identity-service-ids",
+    "notes": ""
+  },
+  {
+    "term": "Apple Push Notification service (APNs)",
+    "definition": "A worldwide service provided by Apple that delivers push notifications to Apple devices.",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#apple-push-notification-service-apns",
+    "notes": ""
+  },
+  {
+    "term": "Apple School Manager",
+    "definition": "A simple, web-based portal for IT administrators that provides a fast, streamlined way for organizations to deploy Apple devices that they have purchased directly from Apple or from a participating Apple Authorized Reseller or carrier. They can automatically enrol devices in their device management service without having to physically touch or prepare the devices before users get them.",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#apple-school-manager",
+    "notes": ""
+  },
+  {
+    "term": "Apple Security Bounty",
+    "definition": "A reward given by Apple to researchers who report a vulnerability that affects the latest shipping operating systems and, where relevant, the latest hardware.",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#apple-security-bounty",
+    "notes": ""
+  },
+  {
+    "term": "Boot Camp",
+    "definition": "A Mac utility that supports the installation of Microsoft Windows on supported Mac computers.",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#boot-camp",
+    "notes": ""
+  },
+  {
+    "term": "Boot Progress Register (BPR)",
+    "definition": "A set of system-on-chip (SoC) hardware flags that software can use to track the boot modes the device has entered, such as Device Firmware Update (DFU) mode and Recovery mode. After a Boot Progress Register flag is set, it can’t be cleared. This allows later software to get a trusted indicator of the state of the system.",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#boot-progress-register-bpr",
+    "notes": ""
+  },
+  {
+    "term": "Boot ROM",
+    "definition": "The very first code executed by a device’s processor when it first boots. As an integral part of the processor, it can’t be altered by either Apple or an attacker.",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#boot-rom",
+    "notes": ""
+  },
+  {
+    "term": "CKRecord",
+    "definition": "A dictionary of key-value pairs that contain data saved to or fetched from CloudKit.",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#ckrecord",
+    "notes": ""
+  },
+  {
+    "term": "Data Protection",
+    "definition": "A file and keychain protection mechanism for supported Apple devices. It can also refer to the APIs that apps use to protect files and keychain items.",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#data-protection",
+    "notes": ""
+  },
+  {
+    "term": "Data Vault",
+    "definition": "A mechanism—enforced by the kernel—to protect against unauthorized access to data regardless of whether the requesting app is itself sandboxed.",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#data-vault",
+    "notes": ""
+  },
+  {
+    "term": "Device Firmware Upgrade (DFU) mode",
+    "definition": "A mode in which a device’s Boot ROM code waits to be recovered over USB. The screen is black when in DFU mode, but upon connecting to a computer with the Finder or iTunes, the following prompt is presented: “Finder (or iTunes) has detected an [ iPad ] [ iPhone ] in Recovery mode. The user needs to restore this [ iPad ] [ iPhone ] before it can be used with Finder (or iTunes).”",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#device-firmware-upgrade-dfu-mode",
+    "notes": ""
+  },
+  {
+    "term": "device management service",
+    "definition": "A service that lets an administrator remotely manage enrolled devices. After a device is enrolled, the administrator can use the device management service over the network to configure settings and perform other tasks on the device without user interaction.",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#device-management-service",
+    "notes": ""
+  },
+  {
+    "term": "direct memory access (DMA)",
+    "definition": "A feature that allows hardware subsystems to access main memory directly, bypassing the CPU.",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#direct-memory-access-dma",
+    "notes": ""
+  },
+  {
+    "term": "Effaceable Storage",
+    "definition": "A dedicated area of NAND storage, used to store cryptographic keys, that can be addressed directly and wiped securely. While it doesn’t provide protection if an attacker has physical possession of a device, keys held in Effaceable Storage can be used as part of a key hierarchy to facilitate fast wipe and forward security.",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#effaceable-storage",
+    "notes": ""
+  },
+  {
+    "term": "Elliptic Curve Diffie-Hellman Exchange Ephemeral (ECDHE)",
+    "definition": "A key exchange mechanism based on elliptic curves. ECDHE allows two parties to agree on a secret key in a way that prevents the key from being discovered by an eavesdropper watching the messages between the two parties.",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#elliptic-curve-diffie-hellman-exchange-ephemeral-ecdhe",
+    "notes": ""
+  },
+  {
+    "term": "Elliptic Curve Digital Signature Algorithm (ECDSA)",
+    "definition": "A digital signature algorithm based on elliptic curve cryptography.",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#elliptic-curve-digital-signature-algorithm-ecdsa",
+    "notes": ""
+  },
+  {
+    "term": "Enhanced Serial Peripheral Interface (eSPI)",
+    "definition": "An all-in-one bus designed for synchronous serial communication.",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#enhanced-serial-peripheral-interface-espi",
+    "notes": ""
+  },
+  {
+    "term": "Exclusive Chip Identification (ECID)",
+    "definition": "A 64-bit identifier that’s unique to the processor in each iPad or iPhone that’s a part of the personalization process; it’s not considered a secret.",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#exclusive-chip-identification-ecid",
+    "notes": ""
+  },
+  {
+    "term": "file system key",
+    "definition": "The key that encrypts each file’s metadata, including its class key. This is kept in Effaceable Storage to facilitate fast wipe, rather than confidentiality.",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#file-system-key",
+    "notes": ""
+  },
+  {
+    "term": "Gatekeeper",
+    "definition": "On devices with macOS, a technology designed to help ensure that only trusted software runs on a user’s Mac.",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#gatekeeper",
+    "notes": ""
+  },
+  {
+    "term": "group ID (GID)",
+    "definition": "Like the UID, but common to every processor in a class.",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#group-id-gid",
+    "notes": ""
+  },
+  {
+    "term": "hardware security module (HSM)",
+    "definition": "A specialized tamper-resistant computer that safeguards and manages digital keys.",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#hardware-security-module-hsm",
+    "notes": ""
+  },
+  {
+    "term": "HMAC",
+    "definition": "A hash-based message authentication code based on a cryptographic hash function.",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#hmac",
+    "notes": ""
+  },
+  {
+    "term": "iBoot",
+    "definition": "The stage 2 boot loader for all Apple devices. Code that loads XNU, as part of the secure boot chain. Depending on the system-on-chip (SoC) generation, iBoot may be loaded by the Low-Level Bootloader or directly by the Boot ROM.",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#iboot",
+    "notes": ""
+  },
+  {
+    "term": "Input/Output Memory Management Unit (IOMMU)",
+    "definition": "An input/output memory management unit. A subsystem in an integrated chip that controls access to address space from other input/output devices and peripherals.",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#input-output-memory-management-unit-iommu",
+    "notes": ""
+  },
+  {
+    "term": "integrated circuit (IC)",
+    "definition": "Also known as a microchip .",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#integrated-circuit-ic",
+    "notes": ""
+  },
+  {
+    "term": "Joint Test Action Group (JTAG)",
+    "definition": "A standard hardware debugging tool used by programmers and circuit developers.",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#joint-test-action-group-jtag",
+    "notes": ""
+  },
+  {
+    "term": "key wrapping",
+    "definition": "Encrypting one key with another. iOS and iPadOS use NIST AES key wrapping, in accordance with RFC 3394 .",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#key-wrapping",
+    "notes": ""
+  },
+  {
+    "term": "Keybag",
+    "definition": "A data structure used to store a collection of class keys. Each type (user, device, system, backup, escrow or iCloud Backup ) has the same format. A header containing: Version (set to four in iOS 12 or later), Type (system, backup, escrow or iCloud Backup ), Keybag UUID, an HMAC if the keybag is signed and the method used for wrapping the class keys—tangling with the UID or PBKDF2, along with the salt and iteration count. A list of class keys: Key UUID, Class (which file or Keychain Data Protection class), wrapping type (UID-derived key only; UID-derived key and passcode-derived key), wrapped class key and a public key for asymmetric classes.",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#keybag",
+    "notes": ""
+  },
+  {
+    "term": "Keychain",
+    "definition": "The infrastructure and a set of APIs used by Apple operating systems and third-party apps to store and retrieve passwords, keys and other sensitive credentials.",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#keychain",
+    "notes": ""
+  },
+  {
+    "term": "Low-Level Bootloader (LLB)",
+    "definition": "On a Mac with a two-stage boot architecture, the LLB contains the code that’s invoked by the Boot ROM and that in turn loads iBoot, as part of the secure boot chain.",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#low-level-bootloader-llb",
+    "notes": ""
+  },
+  {
+    "term": "media key",
+    "definition": "Part of the encryption key hierarchy. The media key helps ensure quick, secure data wiping of Apple devices. On iPad, iPhone, Apple TV and Apple Watch , it does this by wrapping the metadata on the data volume. Without the media key, file keys are locked away, making files protected with Data Protection inaccessible. On Mac, the media key wraps key material, all metadata and FileVault data. In both cases, wiping the media key blocks access to encrypted data.",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#media-key",
+    "notes": ""
+  },
+  {
+    "term": "memory controller",
+    "definition": "The subsystem in a system on a chip that controls the interface between the system on a chip and its main memory.",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#memory-controller",
+    "notes": ""
+  },
+  {
+    "term": "NAND",
+    "definition": "Nonvolatile flash memory.",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#nand",
+    "notes": ""
+  },
+  {
+    "term": "Passcode-derived key (PDK)",
+    "definition": "The encryption key derived from the entangling of the user password with the long-term SKP key and the UID of the Secure Enclave.",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#passcode-derived-key-pdk",
+    "notes": ""
+  },
+  {
+    "term": "per-file key",
+    "definition": "The key used by Data Protection to encrypt a file on the file system. The per-file key is wrapped by a class key and is stored in the fileʼs metadata.",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#per-file-key",
+    "notes": ""
+  },
+  {
+    "term": "provisioning profile",
+    "definition": "A property list (.plist file) signed by Apple that contains a set of entities and entitlements allowing apps to be installed and tested on an iOS or iPadOS device. A development provisioning profile lists the devices that a developer has chosen for ad hoc distribution and a distribution provisioning profile contains the app ID of an enterprise-developed app.",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#provisioning-profile",
+    "notes": ""
+  },
+  {
+    "term": "Recovery mode",
+    "definition": "A mode used to restore many Apple devices if it doesn’t recognize the user’s device so the user can reinstall the operating system.",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#recovery-mode",
+    "notes": ""
+  },
+  {
+    "term": "ridge flow angle mapping",
+    "definition": "A mathematical representation of the direction and width of the ridges extracted from a portion of a fingerprint.",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#ridge-flow-angle-mapping",
+    "notes": ""
+  },
+  {
+    "term": "Sealed Key Protection (SKP)",
+    "definition": "A technology in Data Protection that protects, or seals , encryption keys with measurements of system software and keys available only in hardware (such as the UID of the Secure Enclave).",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#sealed-key-protection-skp",
+    "notes": ""
+  },
+  {
+    "term": "Secure Storage Component",
+    "definition": "A chip designed with immutable RO code, a hardware random number generator, cryptography engines and physical tamper detection. On supported devices, the Secure Enclave is paired with a Secure Storage Component for anti-replay value storage. To read and update anti-replay values, the Secure Enclave and storage chip employ a secure protocol that helps ensure exclusive access to the anti-replay values. There are multiple generations of this technology with differing security guarantees.",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#secure-storage-component",
+    "notes": ""
+  },
+  {
+    "term": "sepOS",
+    "definition": "The Secure Enclave firmware, based on an Apple-customized version of the L4 microkernel.",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#sepos",
+    "notes": ""
+  },
+  {
+    "term": "software seed bits",
+    "definition": "Dedicated bits in the Secure Enclave AES Engine that get appended to the UID when generating keys from the UID. Each software seed bit has a corresponding lock bit. The Secure Enclave Boot ROM and operating system can independently change the value of each software seed bit as long as the corresponding lock bit hasn’t been set. After the lock bit is set, neither the software seed bit nor the lock bit can be modified. The software seed bits and their locks are reset when the Secure Enclave reboots.",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#software-seed-bits",
+    "notes": ""
+  },
+  {
+    "term": "SSD controller",
+    "definition": "A hardware subsystem that manages the storage media (solid-state drive).",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#ssd-controller",
+    "notes": ""
+  },
+  {
+    "term": "System Coprocessor Integrity Protection (SCIP)",
+    "definition": "A mechanism Apple uses designed to prevent modification of coprocessor firmware.",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#system-coprocessor-integrity-protection-scip",
+    "notes": ""
+  },
+  {
+    "term": "system on a chip (SoC)",
+    "definition": "An integrated circuit (IC) that incorporates multiple components into a single chip. The Application Processor, the Secure Enclave and other coprocessors are components of the SoC.",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#system-on-a-chip-soc",
+    "notes": ""
+  },
+  {
+    "term": "system software authorization",
+    "definition": "A process that combines cryptographic keys built into hardware with an online service to check that only legitimate software from Apple, appropriate to supported devices, is supplied and installed at upgrade time.",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#system-software-authorization",
+    "notes": ""
+  },
+  {
+    "term": "tangling",
+    "definition": "The process by which a user’s passcode is turned into a cryptographic key and strengthened with the device’s UID. This process helps ensure that a brute-force attack needs to be performed on a given device, and thus is rate limited and can’t be performed in parallel. The tangling algorithm is PBKDF2, which uses AES keyed with the device UID as the pseudorandom function (PRF) for each iteration.",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#tangling",
+    "notes": ""
+  },
+  {
+    "term": "Unified Extensible Firmware Interface (UEFI) firmware",
+    "definition": "A replacement technology for BIOS to connect firmware to a computer’s operating system.",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#unified-extensible-firmware-interface-uefi-firmware",
+    "notes": ""
+  },
+  {
+    "term": "Uniform Resource Identifier (URI)",
+    "definition": "A string of characters that identifies a web‑based resource.",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#uniform-resource-identifier-uri",
+    "notes": ""
+  },
+  {
+    "term": "unique ID (UID)",
+    "definition": "A 256‑bit AES key that’s burned into each processor at manufacture. It can’t be read by firmware or software and it’s used only by the processor’s hardware AES Engine. To obtain the actual key, an attacker would have to mount a highly sophisticated and expensive physical attack against the processor’s silicon. The UID isn’t related to any other identifier on the device including, but not limited to, the UDID.",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#unique-id-uid",
+    "notes": ""
+  },
+  {
+    "term": "xART",
+    "definition": "An abbreviation for eXtended Anti-Replay Technology. A set of services that provide encrypted, authenticated persistent storage for the Secure Enclave with anti-replay capabilities based on the physical storage architecture. See Secure Storage Component.",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#xart",
+    "notes": ""
+  },
+  {
+    "term": "XNU",
+    "definition": "The kernel at the heart of the Apple operating systems. It’s assumed to be trusted and enforces security measures such as code signing, sandboxing, entitlement checking and Address Space Layout Randomization (ASLR).",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#xnu",
+    "notes": ""
+  },
+  {
+    "term": "XProtect",
+    "definition": "On devices with macOS, an antivirus technology for the signature-based detection and removal of malware.",
+    "source_anchor": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web#xprotect",
+    "notes": ""
+  }
+]

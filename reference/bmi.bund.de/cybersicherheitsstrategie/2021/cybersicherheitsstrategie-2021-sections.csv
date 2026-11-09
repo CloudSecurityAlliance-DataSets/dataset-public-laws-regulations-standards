@@ -123,7 +123,7 @@
 8.3.10 Fostering responsible handling of zero-day vulnerabilities and exploits .................. 96
 
 8.3.11 Increasing the digital sovereignty of the security authorities by expanding the Central Office for Information Technology in the Security Sector ................................................. 98"
-"3","8.3.12","Raising the level of cyber security through increased preventive intelligence gathering 100","numbered","","8.3.13 Strengthening defence aspects of cyber security ................................................... 102
+"3","8.3.12 (1)","Raising the level of cyber security through increased preventive intelligence gathering 100","numbered","","8.3.13 Strengthening defence aspects of cyber security ................................................... 102
 
 8.3.14 Adapting telecommunications and telemedia law and other specialist legislation to technological progress .................................................................................................... 104"
 "3","8.4","Action Area 4: Germany's active role in European and international cyber security policy 106","numbered","","8.4.1 Actively shaping effective European cyber security policy .................................... 107
@@ -689,7 +689,7 @@ The Federal Government will examine attainment of the objective based on the fol
 • Evaluation methods for authentication and identification processes that take into account the required assurance level have been developed and established as standard. For example, the security requirements for identification and authentication methods for access to digital education provision have been standardised. • In biometrics, the aspects of different attack methods have been examined in detail and documented, and their prevention and detection has been systematically improved and implemented in practice. The relevant technical guidelines have been published or developed further. • Methods for the reliable identification of wireless devices using physical fingerprinting (individual characteristics of their electronic components) have been developed and demonstrated. • The security of PKI, which is needed for the rollout and management of cryptographic key pairs, has been further developed, as have eID technologies and PKI itself, while secure eID interoperability infrastructure has been established. These things undergo regular maintenance. A PKI toolkit has been established for digital transformation projects by modularising PKI standards and implementing uniform standards for secure elements. • The security of integrity protection processes and long-term digital preservation technology has improved significantly on the basis of the BSI’s technical guidelines. The relevant technical guidelines have been further developed accordingly. • A secure server has been implemented to ensure the verifiability of the origins and integrity of electronic documents. Digital seals and signed barcodes to protect the integrity and to prove the authenticity of paper documents and data have been developed for new areas of application.
 
 40"
-"4","8.1.8.1.7","Creating the conditions for secure electronic communication and safe web offerings","numbered","8.1","Why is the objective relevant?
+"4","Action areas of the Cyber Security Strategy: 8.1.7","Creating the conditions for secure electronic communication and safe web offerings","numbered","8.1","Why is the objective relevant?
 
 Secure, interoperable communication and safe web offerings are essential requirements for successful digital transformation across the spectrum of areas of application, such as in vehicle-to-vehicle and vehicle-to-cloud communication, email, health care and the implementation of the Online Access Act.
 
@@ -749,7 +749,7 @@ The Federal Government will examine attainment of the objective based on the fol
 • There is legal certainty surrounding seeking and finding vulnerabilities. • The Federal Government regulates the involvement of the BSI in CVD events and publishes a coordinated process for the responsible public announcement of vulnerabilities (CVD process). • Vulnerabilities that are discovered are increasingly reported. • Incentives for manufacturers and service providers to remedy reported vulnerabilities in a suitable time frame have been increased.
 
 43"
-"4","8.1.8.1.9","Using encryption – a prerequisite for self-determined, autonomous action – across the board","numbered","8.1","Why is the objective relevant?
+"4","Action areas of the Cyber Security Strategy: 8.1.9","Using encryption – a prerequisite for self-determined, autonomous action – across the board","numbered","8.1","Why is the objective relevant?
 
 Encryption guarantees the confidentiality, integrity and authenticity of digital information, making it a cornerstone of cyber and information security. Encryption processes effectively protect government, industry and individual users from the theft, espionage or sabotage of personal, business or official digital information and communication. They create trust, which in turn increases acceptance of the use of new technologies. However, encryption processes face continually evolving threats, making their continuous evaluation and development essential.
 
@@ -858,7 +858,7 @@ Stronger cyber security in industry therefore calls for cooperation between gove
 28 Available in German at: https://www.gesetze-im-internet.de/bsig_2009/BJNR282110009.html
 
 49"
-"4","8.2.8.2.1","Reinforcing the coordination function of the NCSR in the cyber security landscape","numbered","8.2","Why is the objective relevant?
+"4","Action areas of the Cyber Security Strategy: 8.2.1","Reinforcing the coordination function of the NCSR in the cyber security landscape","numbered","8.2","Why is the objective relevant?
 
 There are no areas of life or sectors of the economy that are not affected by the digital revolution. Ensuring high levels of cyber security is therefore of growing importance for society. To keep pace with this development, the NCSR needs to bring together the different perspectives from the private sector and society as a whole in the strategic advice it gives the Federal Government, and to give this advice a more formal status.
 
@@ -1209,7 +1209,7 @@ The Federal Government will examine attainment of the objective based on the fol
 • In the field of quantum computing, by 2025 computers with processors of a minimum of 100 qubits are ready to use, based on sovereign technology from Germany and Europe, and are available for application testing to check their security levels. • In high-security fields, the changeover to quantum-safe cryptography has begun. • The urgency of the change to quantum-safe cryptography is generally accepted by the state, private industry and society as a whole, and this change has been initiated in key areas. Pilot infrastructures are in place, involving partners from the different areas. • Quantum communication technologies and solutions from German and European providers are available to the state, private industry and society. • The feasibility study on quantum computers is ongoing and is updated regularly.
 
 69"
-"4","8.2.8.2.10","Harmonising testing and approval processes with innovation cycles (time to market)","numbered","8.2","Why is the objective relevant?
+"4","Providing IT security through quantum technology: 8.2.10","Harmonising testing and approval processes with innovation cycles (time to market)","numbered","8.2","Why is the objective relevant?
 
 New IT products and services in the areas of smart home, automotive technology, medical technology and energy, among others, are brought to market within extremely short innovation cycles and facilitate the increasing connectivity of all areas of life, particularly in regard to IoT applications. It cannot be ruled out, particularly for new software and hardware products, that not all security aspects are taken into account or are recognisable. Criminals try to exploit potential vulnerabilities to infiltrate systems or to use them for criminal purposes. Aside from systematic law enforcement, the state should support businesses in creating products that are more secure and less vulnerable from the start.
 
@@ -1713,7 +1713,7 @@ The Federal Government will examine attainment of the objective based on the fol
 • The federal security authorities use the services provided and developments made by the Central Office for Information Technology in the Security Sector. • The level of dependence of the security authorities on products and services from outside of Europe has reduced. • The number of highly specialised experts in the key areas has increased. • Sufficient internal capacity has been built up at the security authorities for the in-house development of critical or risk-affected systems and methods. • The Central Office for Information Technology in the Security Sector has central competence for evaluating products and systems obtained from global supply chains. The security authorities make use of this competence.
 
 99"
-"4","8.3.8.3.12","Raising the level of cyber security through increased preventive intelligence gathering","numbered","8.3","Why is the objective relevant?
+"4","8.3.12 (2)","Raising the level of cyber security through increased preventive intelligence gathering","numbered","8.3","Why is the objective relevant?
 
 The purposes of cyber attacks include espionage, gaining political influence, and sabotage. Germany is among the targets of foreign intelligence units, which use very advanced attack techniques (Advanced Persistent Threats). In addition, extremist and terrorist actors are also among the users of cyber technologies, some of which can be obtained online as a service, to achieve their aims. Given these threats, it is important to raise widespread awareness of these threats (prevention), to identify the actors, their motives and their skills (intelligence gathering), to uncover specific attacks or preparation for attacks (detection), to provide information allowing defensive measures to be taken (warning) and to discover the authors of the attacks (attribution).
 
@@ -1812,7 +1812,7 @@ The Federal Government will examine attainment of the objective based on the fol
 • A system has been put in place which checks whether the security authorities have sufficient capabilities to carry out their duties as required by law in the digital world. • The need for amendments to legislation is continually examined.
 
 105"
-"3","8.8.4","Action Area 4: Germany's active role in European and international cyber security policy","numbered","8","Growing levels of transnational networking are making the digital world smaller. Cooperation with our international partners in the EU and NATO and other partners who share our values, and the incorporation of national measures into European and international processes, are therefore essential to ensuring a high level of cyber security for Germany. While this must be taken into consideration in all action areas, Action Area 4 specifically addresses those objectives that Germany is actively striving for in European and international cyber security policy.
+"3","Action areas of the Cyber Security Strategy: 8.4","Action Area 4: Germany's active role in European and international cyber security policy","numbered","8","Growing levels of transnational networking are making the digital world smaller. Cooperation with our international partners in the EU and NATO and other partners who share our values, and the incorporation of national measures into European and international processes, are therefore essential to ensuring a high level of cyber security for Germany. While this must be taken into consideration in all action areas, Action Area 4 specifically addresses those objectives that Germany is actively striving for in European and international cyber security policy.
 
 Germany’s involvement in the EU is of particular importance, with the following high-level objectives: a high standard of cyber security throughout the EU; working together with Germany’s EU partners on the international stage; and enhanced dialogue as part of cooperation between police forces and judiciary, while taking EU competences into consideration. In this respect, the 2021 Cyber Security Strategy dovetails with the EU’s 2020 Cybersecurity Strategy, working at national level to increase collective resilience to cyber threats in Europe.
 
@@ -1825,7 +1825,7 @@ Working with international partners that share our values, Germany is committed 
 We, the Federal Government, have set the following strategic objectives so that we can fulfil these tasks.
 
 106"
-"4","8.4.1","Actively shaping effective European cyber security policy","numbered","8.8.4","Why is the objective relevant?
+"4","8.4.1","Actively shaping effective European cyber security policy","numbered","Action areas of the Cyber Security Strategy: 8.4","Why is the objective relevant?
 
 The rapidly advancing digital transformation and increasing connectivity within the EU underscore the need to find European solutions in cyber security. Germany sees cyber security as a central organisational task for the EU (within the limits of its competences) and works together with its partners in the EU to achieve a strong cyber security architecture and a better exchange of information among EU member states. A shared vision and strategy for cyber security must be developed and updated as needed. By enforcing minimum standards for prevention, detection and reaction, European cyber security policy can improve cyber security throughout the EU.
 
@@ -1880,7 +1880,7 @@ The Federal Government will examine attainment of the objective based on the fol
 46The attribution of cyber attacks remains a member state competence. Supplementary to this, there is the possibility of coordinated or joint attribution.
 
 109"
-"4","8.4.2","Shaping cyber security and defence in NATO","numbered","8.8.4","Why is the objective relevant?
+"4","8.4.2","Shaping cyber security and defence in NATO","numbered","Action areas of the Cyber Security Strategy: 8.4","Why is the objective relevant?
 
 NATO is fundamental to German and Euro-Atlantic security. NATO brings its member states together in an organisation that is both political and military. For more than 70 years, it has worked to protect their sovereignty, security, stability and territorial integrity. NATO also relies on sufficient protection against attacks in and through cyberspace to carry out its core tasks. NATO’s cyber priorities are therefore protecting NATO’s own network, strengthening the resilience of member states in terms of protection against cyber threats, and ensuring the Alliance’s ability to deter, defend against and otherwise react to cyber threats.
 
@@ -1935,7 +1935,7 @@ The Federal Government will examine attainment of the objective based on the fol
 • The fundamentals of NATO’s cyber defence policy are reviewed continually and refined as needed. • Processes are in place through which NATO can be supported to an adequate extent when necessary with national cyber capabilities. • The implementation of the objectives of the NATO Cyber Defence Pledge is under way and is moving forward at national level. • The EU and NATO have deepened their cooperation on matters of cyber security and cyber defence policy.
 
 111"
-"4","8.4.3","Strengthening international law and the legislative framework for cyberspace and working towards responsible state behaviour","numbered","8.8.4","Why is the objective relevant?
+"4","8.4.3","Strengthening international law and the legislative framework for cyberspace and working towards responsible state behaviour","numbered","Action areas of the Cyber Security Strategy: 8.4","Why is the objective relevant?
 
 Cyber security cannot be attained at national level by states working alone; measures at this level must be supplemented by the relevant activities at international level. Any attempt to regulate cyberspace alone, that is, solely at national level, is doomed to failure due to the far-reaching, cross-border interdependence of national cyber systems. Cyber security can only be provided and strengthened on the basis of close cooperation among states and international organisations, civil society, the private sector and the research community. International law plays a key role in this. The rules-based international order is therefore also generally a cornerstone of German foreign policy. Alongside this, voluntary commitments by states to behave responsibly can complement the framework of international law, helping to flesh it out. Germany is therefore working around the world to strengthen and further develop international law, its institutions, and voluntary commitments in the field of cyber security. Formulating international standards is crucial to creating trust and security in cyberspace.
 
@@ -1968,7 +1968,7 @@ The Federal Government will examine attainment of the objective based on the fol
 • On the basis of the position paper from March 2021, the Federal Government is involved in discussions at bilateral and multilateral level and in communication with civil society about the applicability of international law in cyberspace and about the implementation of voluntary commitments on responsible state behaviour. • Germany is involved in the relevant discussions at UN level regarding cyber security, where it actively puts forward its position. • Regular dialogue has been established at international and national level with society, the research community and the private sector on aspects of the legislative framework for cyberspace. • Germany participates in resolutions and declarations on the topic of human rights online and in support of a free, open, global, safe internet.
 
 113"
-"4","8.4.4","Promoting confidence-building measures","numbered","8.8.4","Why is the objective relevant?
+"4","8.4.4","Promoting confidence-building measures","numbered","Action areas of the Cyber Security Strategy: 8.4","Why is the objective relevant?
 
 It is often just as difficult to recognise the motivation and aims of malicious behaviour in the cyber domain as it is to ascertain who is responsible for a cyber attack. At the same time, cyberspace is highly interconnected internationally. This creates considerable potential for misinterpretations and misjudgements which can lead to tension between states. In this context, measures to increase transparency and build confidence are important in preventing the risk of conflict and escalation.
 
@@ -1993,7 +1993,7 @@ The Federal Government will examine attainment of the objective based on the fol
 • Germany reports on national assessments and developments in the field of cyber security in bilateral, regional and international forums. • Germany is involved in the relevant discussions on confidence-building measures in the cyber security field at international and regional level, where it actively puts forward its position, in particular regarding the applicability of international law in cyberspace and responsible state behaviour. • Germany ensures that the contact persons it has named and the communication channels it has agreed during confidence-building measures are available and reliable.
 
 114"
-"4","8.4.5","Strengthening bilateral and regional support and cooperation for cyber capacity building","numbered","8.8.4","Why is the objective relevant?
+"4","8.4.5","Strengthening bilateral and regional support and cooperation for cyber capacity building","numbered","Action areas of the Cyber Security Strategy: 8.4","Why is the objective relevant?
 
 Given the advanced digital transformation and the global interconnection of the world, cyber capacity building is extremely important. Cyber threats and attacks can greatly hinder or reverse the economic, social and political development of certain countries and population groups. Special needs arise where resources, infrastructure and capacities for cyber security are lacking. Cyber capacity building in partner countries and regions can help protect human rights, strengthen the rule of law and foster sustainable economic growth. It is therefore an important instrument in Germany’s development cooperation work. Cyber capacity building allows the opportunities offered by the digital transformation to be used in full and the associated risks to be mitigated. The necessary conditions and awareness to ensure the secure and dependable use of cyberspace require support, especially where development policy has provided access to cyberspace for the first time. This will also have a positive impact on Germany’s cyber security.
 
@@ -2020,7 +2020,7 @@ The Federal Government will examine attainment of the objective based on the fol
 • Cyber capacity building is established as a topic in international bodies and has been enshrined in policy documents. • Germany participates in implementing and/or supporting capacity-building measures in the national, EU, NATO or international context.
 
 116"
-"4","8.4.6","Strengthening international law enforcement cooperation and combating international cyber crime","numbered","8.8.4","Why is the objective relevant?
+"4","8.4.6","Strengthening international law enforcement cooperation and combating international cyber crime","numbered","Action areas of the Cyber Security Strategy: 8.4","Why is the objective relevant?
 
 Cyber crime is a global phenomenon that does not stop at international borders. Effective law enforcement is therefore often only possible as part of coordinated international investigations. Strengthening international cooperation in law enforcement regarding cyber crime can increase the success of the responsible agencies and their investigations. The increased likelihood of detection can lead to a tangible drop in cyber crime.
 
@@ -2067,7 +2067,7 @@ The Federal Government will examine attainment of the objective based on the fol
 • The number and value of internationally coordinated evaluation and investigation processes has increased. • The number of police capacity-building measures carried out from Germany for foreign security authorities has increased. • The number of conferences and workshops that Germany has participated in and organised on the topic of internationally coordinated law enforcement and cyber crime has increased. • The Budapest Convention is being ratified by more states.
 
 118"
-"4","8.4.7","Working jointly in the EU on innovative solutions for combating crime more effectively","numbered","8.8.4","Why is the objective relevant?
+"4","8.4.7","Working jointly in the EU on innovative solutions for combating crime more effectively","numbered","Action areas of the Cyber Security Strategy: 8.4","Why is the objective relevant?
 
 For effective law enforcement, investigators need technical solutions that are available for operational use as quickly as possible. These solutions are often based on new and hybrid technologies, and developing them requires a great deal of specialist expertise and technical equipment. European law enforcement authorities do not all have these resources in equal measure, but every EU state is equally affected by crime and the need for technical support for investigation and law enforcement.
 

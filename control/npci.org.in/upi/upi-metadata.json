@@ -1,0 +1,31 @@
+{
+  "secid": "secid:control/npci.org.in/upi",
+  "name": "UPI — Unified Payments Interface",
+  "acronym": "UPI",
+  "version": "",
+  "owner": "National Payments Corporation of India (NPCI)",
+  "type": "Standard",
+  "description": "UPI is the world's largest real-time payments system by volume (10B+ transactions monthly as of 2024). Account-to-account instant transfers using virtual payment addresses (VPAs); core to India Stack.",
+  "relationToCloudSecurity": "",
+  "relationToAISecurity": "",
+  "license": {
+    "spdx": "LicenseRef-Publisher-Restricted",
+    "redistribution": "prohibited",
+    "derivatives": "prohibited_without_license",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.npci.org.in/what-we-do/upi/product-overview",
+    "notes": "Technical API specs partly public; participant security rules and operational guidelines members-only via NPCI participation agreements. Public-release government / central bank publication (Tier 1 of Kurt Seifried 2026-11-09 4-tier hosting rule: public government website content goes into the public dataset repository regardless of license)."
+  },
+  "links": {
+    "source": "https://www.npci.org.in/what-we-do/upi/product-overview",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "active": true,
+    "supersedes": "",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "When CSA acquires a licensed copy, promote into a versioned subdir."
+  },
+  "notes": "Authored 2026-05-14. Stub-only — awaiting CSA's licensed copy (or, where mostly-free, license-verification per the public-repo TODO list)."
+}

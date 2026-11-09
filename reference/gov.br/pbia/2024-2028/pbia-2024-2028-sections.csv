@@ -144,14 +144,14 @@ Introdução 11
 3.2. Montante de Investimentos 30
 
 3.3. Ações de impacto imediato 30"
-"3","3.4","Ações estruturantes 31","numbered","","3.4.1. Eixo 1: Infraestrutura e desenvolvimento de IA 34
+"3","Plano Brasileiro de Inteligência Artificial: 3.4","Ações estruturantes 31","numbered","","3.4.1. Eixo 1: Infraestrutura e desenvolvimento de IA 34
 
 3.4.2. Eixo 2: Difusão, formação e capacitação em IA 37
 
 3.4.3. Eixo 3: IA para melhoria do serviço público 38
 
 3.4.4. Eixo 4: IA para inovação empresarial 41"
-"4","3.4.5","Eixo 5: Apoio ao processo regulatório e de governança da IA 42","numbered","3.4","4. Governança e monitoramento do Plano de IA para o Bem de Todos 45
+"4","3.4.5","Eixo 5: Apoio ao processo regulatório e de governança da IA 42","numbered","Plano Brasileiro de Inteligência Artificial: 3.4","4. Governança e monitoramento do Plano de IA para o Bem de Todos 45
 
 Anexo 1. Ações de impacto imediato 47
 
@@ -248,7 +248,7 @@ O resultado desse processo foi uma proposta de Plano Brasileiro de Inteligência
 • operam com diferentes graus de autonomia para atingir objetivos definidos explícita ou implicitamente; • utilizam insumos (p.ex., dados) gerados por máquinas (p.ex., sensores, câmeras) e/ou humanos para perceber e analisar ambientes; • constroem modelos abstratos a partir desses insumos por meio de uma variedade de processos e técnicas de treinamento automatizados em diferentes graus; • aplicam esses modelos a diferentes cenários, para realizar inferências, gerar informações (p.ex., previsões, recomendações), executar ações ou apoiar a tomada de decisões; • podem ser especializados em tarefas de variado grau de especificidade, desde atividades peculiares a sistemas de propósito geral, capazes de realizar uma gama de trabalhos: e • incluem subtipos como IA generativa, capazes de gerar, modificar significativamente ou sintetizar diversos tipos de conteúdo, incluindo texto, imagens, áudio, vídeo e código de software, muitas vezes de forma indistinguível do conteúdo produzido por humanos.
 
 Esta combinação de análise e modelagem de dados com alto poder computacional confere à IA um potencial transformador sem precedentes, capaz de transformar diversos setores da sociedade e da economia."
-"3","1.1.2","O potencial transformador da inteligência artificial","numbered","1","A inteligência artificial representa uma das forças tecnológicas mais transformadoras de nosso tempo, com potencial para remodelar praticamente todos os setores da atividade humana. A emergência da IA generativa, capaz de gerar conteúdos significativos, novos ou aperfeiçoados a partir de dados existentes, amplia ainda mais esse potencial transformador. A IA já está reformulando setores inteiros, desde a educação até o entretenimento, exigindo uma reavaliação contínua das políticas públicas para garantir que seu uso seja benéfico e ético.
+"3","1.2 (1)","O potencial transformador da inteligência artificial","numbered","1","A inteligência artificial representa uma das forças tecnológicas mais transformadoras de nosso tempo, com potencial para remodelar praticamente todos os setores da atividade humana. A emergência da IA generativa, capaz de gerar conteúdos significativos, novos ou aperfeiçoados a partir de dados existentes, amplia ainda mais esse potencial transformador. A IA já está reformulando setores inteiros, desde a educação até o entretenimento, exigindo uma reavaliação contínua das políticas públicas para garantir que seu uso seja benéfico e ético.
 
 A disponibilização de múltiplos modelos de IA generativa para uso público a partir de 2022 marcou um momento crucial na evolução da inteligência artificial. Tais modelos atraíram milhões de usuários em poucos dias, demonstrando o amplo interesse e a acessibilidade da IA generativa para o público geral. Se, por um lado, as capacidades de geração de conteúdo demonstradas por esses modelos levaram a uma
 
@@ -318,7 +318,7 @@ Para que o País possa efetivamente se beneficiar da IA, é fundamental desenvol
 O Brasil enfrenta uma corrida contra o tempo para aproveitar as janelas de oportunidade existentes. Para isso, é necessário estabelecer uma estrutura de coordenação estratégica, desenvolver capacidades tecnológicas e infraestrutura adequada, adotar novos modelos regulatórios e organizacionais, e estabelecer parcerias estratégicas internacionais (Meira, 2024; ABC, 2023).
 
 A liderança estatal na promoção de parcerias e sinergias entre diferentes atores do ecossistema de inovação tem um papel-chave, tanto no campo da regulação e governança da IA, como no fomento e indução ao investimento privado."
-"3","1.1.4","Aspectos econômicos da IA e desafios para aplicação na indústria brasileira","numbered","1","A inteligência artificial apresenta grande potencial de impulsionar diversos setores da economia, não apenas em sua própria cadeia produtiva, mas também em setores correlatos. A cadeia de valor da IA é complexa e abrangente. Engloba hardware, infraestrutura de dados e aplicações. No âmbito do hardware, inclui-se a produção de chips especializados, processadores, data centers e equipamentos de rede. A infraestrutura de dados compreende soluções de armazenamento, processamento e gerenciamento de dados (incluindo aspectos de curadoria, de segurança e de privacidade), bem como plataformas de computação em nuvem e ferramentas para desenvolvedores. Um componente fundamental é o software, que compreende desde ambientes de desenvolvimento, bibliotecas, sistemas de tempo de execução, implementações de modelos e algoritmos, ao que genericamente denominamos pilha de software e que é utilizada para desenvolvimento de aplicações. O software inclui as plataformas de execução, monitoramento, gerenciamento, manutenção e evolução dos vários componentes mencionados, que são utilizados para as atividades de MLOps5. Também se incluem na cadeia de valor as redes de transmissão (físicas e sem fio) de alta velocidade. Já as aplicações abrangem uma vasta gama de soluções baseadas em IA para empresas e consumidores finais.
+"3","1.4 (1)","Aspectos econômicos da IA e desafios para aplicação na indústria brasileira","numbered","1","A inteligência artificial apresenta grande potencial de impulsionar diversos setores da economia, não apenas em sua própria cadeia produtiva, mas também em setores correlatos. A cadeia de valor da IA é complexa e abrangente. Engloba hardware, infraestrutura de dados e aplicações. No âmbito do hardware, inclui-se a produção de chips especializados, processadores, data centers e equipamentos de rede. A infraestrutura de dados compreende soluções de armazenamento, processamento e gerenciamento de dados (incluindo aspectos de curadoria, de segurança e de privacidade), bem como plataformas de computação em nuvem e ferramentas para desenvolvedores. Um componente fundamental é o software, que compreende desde ambientes de desenvolvimento, bibliotecas, sistemas de tempo de execução, implementações de modelos e algoritmos, ao que genericamente denominamos pilha de software e que é utilizada para desenvolvimento de aplicações. O software inclui as plataformas de execução, monitoramento, gerenciamento, manutenção e evolução dos vários componentes mencionados, que são utilizados para as atividades de MLOps5. Também se incluem na cadeia de valor as redes de transmissão (físicas e sem fio) de alta velocidade. Já as aplicações abrangem uma vasta gama de soluções baseadas em IA para empresas e consumidores finais.
 
 A IA generativa, um segmento em rápida expansão, possui uma cadeia de valor própria que se sobrepõe e complementa a cadeia mais ampla da IA. Esta inclui hardware otimizado para treinamento e inferência de modelos, plataformas de nuvem que fornecem recursos computacionais elásticos e em larga escala, modelos fundacionais que servem como base para aplicações específicas, hubs de modelos e ferramentas de MLOps (que nesse cenário já estão sendo denominadas LMOps) para gerenciamento, otimização, auditoria, rastreamento e monitorização, além de aplicações finais e serviços especializados.
 
@@ -556,7 +556,7 @@ As ações de impacto do PBIA abrangem uma ampla gama de setores críticos para 
 • Saúde • Agricultura e pecuária • Meio ambiente, clima e sustentabilidade • Indústria, comércio e serviços • Educação • Desenvolvimento social • Gestão de serviços públicos • Trabalho e emprego • Defesa, segurança pública e cibernética
 
 As ações de impacto imediato estão detalhadas no Anexo 1 e estão distribuídas em 3 tipos: (1) Ações de impacto - Novas, (2) Ações de impacto apoiadas pela Finep (em andamento); e (3) Ações de impacto aguardando definição de fonte orçamentária."
-"3","3.3.4","Ações estruturantes","numbered","3","As ações estruturantes são fundamentais para garantir a soberania nacional e a autonomia tecnológica, a competitividade, a inovação sustentável, e a adoção responsável e ética da IA no País. Embora os resultados mais significativos dessas ações sejam esperados no médio e longo prazo, há ações concretas previstas para serem iniciadas no curto prazo. As ações estruturantes serão periodicamente revisadas e ajustadas, considerando os avanços alcançados, a evolução da tecnologia e do contexto global, e as lições aprendidas ao longo do processo. Estas ações são caracterizadas por:
+"3","Plano de ação: 3.4","Ações estruturantes","numbered","3","As ações estruturantes são fundamentais para garantir a soberania nacional e a autonomia tecnológica, a competitividade, a inovação sustentável, e a adoção responsável e ética da IA no País. Embora os resultados mais significativos dessas ações sejam esperados no médio e longo prazo, há ações concretas previstas para serem iniciadas no curto prazo. As ações estruturantes serão periodicamente revisadas e ajustadas, considerando os avanços alcançados, a evolução da tecnologia e do contexto global, e as lições aprendidas ao longo do processo. Estas ações são caracterizadas por:
 
 • Sustentabilidade e eficiência energética: priorizam o desenvolvimento de infraestruturas e soluções de IA que maximizem o uso de energias renováveis e dos recursos naturais do Brasil, visando a estabelecer um ecossistema de IA ambientalmente responsável e energeticamente eficiente, valendo-se da matriz energética limpa do País. Nesse sentido, alinham-se e contribuem para o Plano de Transição Ecológica (PTE);
 
@@ -1508,7 +1508,7 @@ Fomento a P&D colaborativo internacional em IA, com instituições de pesquisa e
 » Componentes da ação: iniciativa única.
 
 Tabela 3 – Ações estruturantes aguardando definição de fonte orçamentária"
-"3","1.2","Programa de Sustentabilidade e Energias Renováveis para IA","numbered","","Centro de Monitoramento e Promoção da IA Sustentável (CMPIAS)
+"3","1.2 (2)","Programa de Sustentabilidade e Energias Renováveis para IA","numbered","","Centro de Monitoramento e Promoção da IA Sustentável (CMPIAS)
 
 Centro de Ciências de Dados voltados à Biodiversidade da Amazônia
 
@@ -1517,7 +1517,7 @@ Estabelecimento de centro dedicado ao monitoramento, avaliação e promoção de
 Criação de centro de pesquisa aplicando IA e ciência de dados para monitoramento, conservação e exploração sustentável da biodiversidade e sociobioeconomia amazônica, com participação de comunidades tradicionais e povos locais
 
 1.4. Programa de Pesquisa e Desenvolvimento em IA"
-"3","1.4","Programa de Pesquisa e Desenvolvimento em IA","numbered","","Criação de novos centros de pesquisa em IA
+"3","1.4 (2)","Programa de Pesquisa e Desenvolvimento em IA","numbered","","Criação de novos centros de pesquisa em IA
 
 Fonte: Elaboração própria
 

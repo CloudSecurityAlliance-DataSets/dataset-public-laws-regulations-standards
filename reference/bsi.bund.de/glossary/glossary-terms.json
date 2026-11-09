@@ -1,0 +1,38 @@
+[
+  {
+    "term": "Access to Account (XS2A) Interface for third-party payment service providers",
+    "definition": "An openly documented interface that enables third-party payment service providers to access customers' accounts on the respective customers' behalf",
+    "source_anchor": "https://www.bsi.bund.de/EN/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/Elektronischer-Zahlungsverkehr/Glossar/glossar_node.html#access-to-account-xs2a-interface-for-third-party-payment-service-providers",
+    "notes": ""
+  },
+  {
+    "term": "EBA",
+    "definition": "European Banking Authority",
+    "source_anchor": "https://www.bsi.bund.de/EN/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/Elektronischer-Zahlungsverkehr/Glossar/glossar_node.html#eba",
+    "notes": ""
+  },
+  {
+    "term": "EBA RTS",
+    "definition": "European Banking Authority Regulatory Technical Standard",
+    "source_anchor": "https://www.bsi.bund.de/EN/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/Elektronischer-Zahlungsverkehr/Glossar/glossar_node.html#eba-rts",
+    "notes": ""
+  },
+  {
+    "term": "MaSI",
+    "definition": "Minimum security requirements for online payments that were specified in a circular published by the Federal Financial Supervisory Authority (BaFin)",
+    "source_anchor": "https://www.bsi.bund.de/EN/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/Elektronischer-Zahlungsverkehr/Glossar/glossar_node.html#masi",
+    "notes": ""
+  },
+  {
+    "term": "PSD2",
+    "definition": "Payment Service Directive 2 (issued by the European Parliament and the European Council regarding payment services in the European Single Market)",
+    "source_anchor": "https://www.bsi.bund.de/EN/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/Elektronischer-Zahlungsverkehr/Glossar/glossar_node.html#psd2",
+    "notes": ""
+  },
+  {
+    "term": "SCA",
+    "definition": "This type of authentication incorporates at least two elements from three categories: knowledge (i.e. something only the user knows), possession (something only the user possesses), and inherence (a characteristic unique to the user). These elements must be sufficiently independent from one another so that non-fulfilment of one criterion will not call the reliability of the other criteria into question. Strong customer authentication must also protect the confidentiality of authentication data.",
+    "source_anchor": "https://www.bsi.bund.de/EN/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/Elektronischer-Zahlungsverkehr/Glossar/glossar_node.html#sca",
+    "notes": ""
+  }
+]

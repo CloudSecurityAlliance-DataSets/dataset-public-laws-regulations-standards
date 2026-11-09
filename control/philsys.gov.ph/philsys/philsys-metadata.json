@@ -1,0 +1,31 @@
+{
+  "secid": "secid:control/philsys.gov.ph/philsys",
+  "name": "PhilSys — Philippine National ID",
+  "acronym": "PhilSys",
+  "version": "",
+  "owner": "Philippine Statistics Authority",
+  "type": "Standard",
+  "description": "Philippine national identification system. Issues PhilID (national ID card) and PhilSys Number (PSN). Foundational identity initiative under the Philippine Identification System Act.",
+  "relationToCloudSecurity": "",
+  "relationToAISecurity": "",
+  "license": {
+    "spdx": "LicenseRef-Publisher-Restricted",
+    "redistribution": "prohibited",
+    "derivatives": "prohibited_without_license",
+    "publicly_redistributable": true,
+    "license_text_url": "https://philsys.gov.ph",
+    "notes": "Public technical specs at philsys.gov.ph; biometric and authentication-service participant rules partly restricted. Public-release government / central bank publication (Tier 1 of Kurt Seifried 2026-11-09 4-tier hosting rule: public government website content goes into the public dataset repository regardless of license)."
+  },
+  "links": {
+    "source": "https://philsys.gov.ph",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "active": true,
+    "supersedes": "",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "When CSA acquires a licensed copy, promote into a versioned subdir."
+  },
+  "notes": "Authored 2026-05-14. Stub-only — awaiting CSA's licensed copy / license-verification per public-repo TODO."
+}
