@@ -15,9 +15,9 @@
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for الوكالة الوطنية للأمن السيبراني / National Cyber Security Agency (NCSA) (ncsa.gov.qa).",
   "license": {
     "spdx": "LicenseRef-QA-MCIT-QCRI-Terms",
-    "Grouping": "Public-Release Government / Intergovernmental Strategy",
-    "redistribution": "permitted_with_attribution",
-    "derivatives": "permitted_with_attribution",
+    "Grouping": "Proprietary / All Rights Reserved",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
     "publicly_redistributable": true,
     "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/QA",
     "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (ncsa.gov.qa) is governed by State of Qatar Law No. 7 of 2002 on the Protection of Copyright and Neighboring Rights and MCIT / Qatar Computing Research Institute (HBKU) publication terms. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",

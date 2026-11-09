@@ -15,9 +15,9 @@
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for International Telecommunication Union (itu.int).",
   "license": {
     "spdx": "CC-BY-NC-3.0-IGO",
-    "Grouping": "Public-Release Government / Intergovernmental Strategy",
-    "redistribution": "permitted_with_attribution",
-    "derivatives": "permitted_with_attribution",
+    "Grouping": "Non-Commercial",
+    "redistribution": "permitted_with_attribution_non_commercial",
+    "derivatives": "permitted_with_attribution_non_commercial",
     "publicly_redistributable": true,
     "license_text_url": "https://creativecommons.org/licenses/by-nc/3.0/igo/deed.en",
     "note": "Licensed under Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO (CC BY-NC-SA 3.0 IGO / CC BY-NC 3.0 IGO) as stated in the publication copyright notice. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",

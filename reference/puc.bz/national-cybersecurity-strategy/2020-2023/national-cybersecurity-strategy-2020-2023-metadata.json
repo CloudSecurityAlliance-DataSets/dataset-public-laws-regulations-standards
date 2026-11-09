@@ -15,9 +15,9 @@
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Public Utilities Commission of Belize / National Cybersecurity Task Force (puc.bz).",
   "license": {
     "spdx": "LicenseRef-BZ-Copyright-Cap252",
-    "Grouping": "Public-Release Government / Intergovernmental Strategy",
-    "redistribution": "permitted_with_attribution",
-    "derivatives": "permitted_with_attribution",
+    "Grouping": "Proprietary / All Rights Reserved",
+    "redistribution": "prohibited",
+    "derivatives": "prohibited",
     "publicly_redistributable": true,
     "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/BZ",
     "note": "Official publication (puc.bz); Belize Copyright Act (Chapter 252, Part IX Government copyright); no general statutory public-domain exemption for ministerial or regulatory strategy reports without explicit open licensing. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",

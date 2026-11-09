@@ -15,9 +15,9 @@
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Department of Defence (Australia) (defence.gov.au).",
   "license": {
     "spdx": "LicenseRef-All-Rights-Reserved",
-    "Grouping": "Public-Release Government / Intergovernmental Strategy",
-    "redistribution": "permitted_with_attribution",
-    "derivatives": "permitted_with_attribution",
+    "Grouping": "Proprietary / All Rights Reserved",
+    "redistribution": "prohibited",
+    "derivatives": "prohibited",
     "publicly_redistributable": true,
     "license_text_url": "https://www.defence.gov.au/copyright",
     "note": "Commonwealth of Australia copyright retained; document explicitly prohibits reproduction, storage, or transmission without prior written permission. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",

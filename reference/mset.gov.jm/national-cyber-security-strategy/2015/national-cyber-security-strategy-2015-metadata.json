@@ -15,9 +15,9 @@
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Ministry of Science, Energy, Telecommunications and Transport of Jamaica (mset.gov.jm).",
   "license": {
     "spdx": "LicenseRef-JM-Copyright-1993-Crown",
-    "Grouping": "Public-Release Government / Intergovernmental Strategy",
-    "redistribution": "permitted_with_attribution",
-    "derivatives": "permitted_with_attribution",
+    "Grouping": "Proprietary / All Rights Reserved",
+    "redistribution": "prohibited",
+    "derivatives": "prohibited",
     "publicly_redistributable": true,
     "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/JM",
     "note": "Official publication (mset.gov.jm); Jamaica Copyright Act, 1993 (Part XII Crown/Government copyright); ministerial strategy publications remain subject to Government copyright unless openly licensed. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",

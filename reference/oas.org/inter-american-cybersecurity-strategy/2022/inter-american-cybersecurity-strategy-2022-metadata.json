@@ -15,13 +15,13 @@
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Organization of American States — Inter-American Committee against Terrorism (CICTE) (oas.org).",
   "license": {
     "spdx": "CC-BY-NC-ND-3.0-IGO",
-    "Grouping": "Public-Release Government / Intergovernmental Strategy",
-    "redistribution": "permitted_with_attribution",
-    "derivatives": "permitted_with_attribution",
+    "Grouping": "Non-Commercial-No-Derivatives",
+    "redistribution": "permitted_with_attribution_non_commercial_verbatim",
+    "derivatives": "prohibited",
     "publicly_redistributable": true,
     "license_text_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/igo/",
-    "note": "Licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 3.0 IGO (CC BY-NC-ND 3.0 IGO) as stated in the GS/OAS publication copyright notice; stored in private internal repository, not publicly redistributed. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
-    "notes": "Licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 3.0 IGO (CC BY-NC-ND 3.0 IGO) as stated in the GS/OAS publication copyright notice; stored in private internal repository, not publicly redistributed. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
+    "note": "Licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 3.0 IGO (CC BY-NC-ND 3.0 IGO) as stated in the GS/OAS publication copyright notice. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
+    "notes": "Licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 3.0 IGO (CC BY-NC-ND 3.0 IGO) as stated in the GS/OAS publication copyright notice. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
   },
   "links": {
     "wikipedia": "",

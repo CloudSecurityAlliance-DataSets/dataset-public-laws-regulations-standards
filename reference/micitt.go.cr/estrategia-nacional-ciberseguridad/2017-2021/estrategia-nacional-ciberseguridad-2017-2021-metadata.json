@@ -15,9 +15,9 @@
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Ministerio de Ciencia, Innovación, Tecnología y Telecomunicaciones (micitt.go.cr).",
   "license": {
     "spdx": "LicenseRef-CR-Law6683-Ministerial-Copyright",
-    "Grouping": "Public-Release Government / Intergovernmental Strategy",
-    "redistribution": "permitted_with_attribution",
-    "derivatives": "permitted_with_attribution",
+    "Grouping": "Proprietary / All Rights Reserved",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
     "publicly_redistributable": true,
     "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/CR",
     "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (micitt.go.cr) is governed by Republic of Costa Rica Law No. 6683 on Copyright and Related Rights (ISBN-registered MICITT ministerial publications without an explicit open-redistribution license). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",

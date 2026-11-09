@@ -15,9 +15,9 @@
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for وزارة الاتصالات وتكنولوجيا المعلومات / Ministry of Communications and Information Technology (MCIT) (mcit.gov.qa).",
   "license": {
     "spdx": "LicenseRef-QA-MCIT-QCRI-Terms",
-    "Grouping": "Public-Release Government / Intergovernmental Strategy",
-    "redistribution": "permitted_with_attribution",
-    "derivatives": "permitted_with_attribution",
+    "Grouping": "Proprietary / All Rights Reserved",
+    "redistribution": "prohibited",
+    "derivatives": "prohibited",
     "publicly_redistributable": true,
     "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/QA",
     "note": "Official publication (mcit.gov.qa); State of Qatar Law No. 7 of 2002 on the Protection of Copyright and Neighboring Rights and MCIT / Qatar Computing Research Institute (HBKU) publication terms. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",

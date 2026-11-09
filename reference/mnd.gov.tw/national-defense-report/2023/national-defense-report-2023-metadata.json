@@ -15,9 +15,9 @@
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Ministry of National Defense (Taiwan) (mnd.gov.tw).",
   "license": {
     "spdx": "LicenseRef-TW-MND-NonCommercial-NoDerivatives",
-    "Grouping": "Public-Release Government / Intergovernmental Strategy",
-    "redistribution": "permitted_with_attribution",
-    "derivatives": "permitted_with_attribution",
+    "Grouping": "Non-Commercial-No-Derivatives",
+    "redistribution": "permitted_non_commercial_verbatim_with_attribution",
+    "derivatives": "prohibited",
     "publicly_redistributable": true,
     "license_text_url": "https://www.mnd.gov.tw/",
     "note": "Copyright Ministry of National Defense, R.O.C. (Taiwan). Explicit copyright notice permits verbatim reproduction with attribution for non-commercial use only; commercial use and modifications are prohibited. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",

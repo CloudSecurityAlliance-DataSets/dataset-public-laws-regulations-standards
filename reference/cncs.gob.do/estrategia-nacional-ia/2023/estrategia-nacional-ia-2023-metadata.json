@@ -15,9 +15,9 @@
   "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Centro Nacional de Ciberseguridad de la República Dominicana (cncs.gob.do).",
   "license": {
     "spdx": "LicenseRef-All-Rights-Reserved",
-    "Grouping": "Public-Release Government / Intergovernmental Strategy",
-    "redistribution": "permitted_with_attribution",
-    "derivatives": "permitted_with_attribution",
+    "Grouping": "Proprietary / All Rights Reserved",
+    "redistribution": "prohibited",
+    "derivatives": "prohibited",
     "publicly_redistributable": true,
     "license_text_url": null,
     "note": "Official publication (cncs.gob.do) with explicit copyright reservation ('All rights reserved' or prior permission requirement) in document text. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
