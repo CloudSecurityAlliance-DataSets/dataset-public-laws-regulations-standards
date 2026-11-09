@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/cyber.gov.il/national-cybersecurity-strategy@2017",
+  "name": "Israel National Cyber Security Strategy in Brief (2017)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2017",
+  "publication_id": "national-cybersecurity-strategy-2017",
+  "owner": "Israel National Cyber Directorate (INCD) & Government of Israel",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Israel National Cyber Security Strategy in Brief (September 2017).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Israel National Cyber Directorate (INCD) & Government of Israel (cyber.gov.il) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Israel National Cyber Directorate (INCD) & Government of Israel (cyber.gov.il).",
+  "license": {
+    "spdx": "LicenseRef-IL-Copyright-2007-State",
+    "Grouping": "Proprietary / All Rights Reserved",
+    "redistribution": "prohibited",
+    "derivatives": "prohibited",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/IL",
+    "note": "Official publication (cyber.gov.il); State of Israel Copyright Act, 2007 (5768-2007) Chapter 6 Secs. 36, 42 (State copyright in non-legislative ministerial and INCD strategy publications) and gov.il Terms of Use. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
+    "notes": "Official publication (cyber.gov.il); State of Israel Copyright Act, 2007 (5768-2007) Chapter 6 Secs. 36, 42 (State copyright in non-legislative ministerial and INCD strategy publications) and gov.il Terms of Use. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://en-cyber.tau.ac.il/sites/cyberstudies-english.tau.ac.il/files/media_server/cyber%20center/cyber-center/Israel%20Cyber%20Security%20Strategy%20-%20Brief%20-%20English%20-%20Book%20-%20Final%20-%202017.pdf",
+    "textUsed": "https://en-cyber.tau.ac.il/sites/cyberstudies-english.tau.ac.il/files/media_server/cyber%20center/cyber-center/Israel%20Cyber%20Security%20Strategy%20-%20Brief%20-%20English%20-%20Book%20-%20Final%20-%202017.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2017-09-01",
+    "active": false,
+    "supersedes": null,
+    "supersededBy": "secid:reference/cyber.gov.il/national-cybersecurity-strategy@2025-2028",
+    "retiredFromActiveUse": "2025-02-01",
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 20-page PDF (https://en-cyber.tau.ac.il/sites/cyberstudies-english.tau.ac.il/files/media_server/cyber%20center/cyber-center/Israel%20Cyber%20Security%20Strategy%20-%20Brief%20-%20English%20-%20Book%20-%20Final%20-%202017.pdf) locally via PyMuPDF (12,677 chars). Parsed 19 sections (0 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

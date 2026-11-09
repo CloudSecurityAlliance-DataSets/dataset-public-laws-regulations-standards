@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/micitt.go.cr/estrategia-nacional-ciberseguridad@2023-2027",
+  "name": "Estrategia Nacional de Ciberseguridad de Costa Rica 2023-2027",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2023-2027",
+  "publication_id": "estrategia-nacional-ciberseguridad-2023-2027",
+  "owner": "Ministerio de Ciencia, Innovación, Tecnología y Telecomunicaciones",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Estrategia Nacional de Ciberseguridad de Costa Rica 2023–2027 (published November 10, 2023). National cybersecurity strategy of Costa Rica issued by MICITT defining national objectives for public sector cyber resilience, critical infrastructure protection, CSIRT-CR capacity, and cybersecurity education.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Ministerio de Ciencia, Innovación, Tecnología y Telecomunicaciones (micitt.go.cr) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Ministerio de Ciencia, Innovación, Tecnología y Telecomunicaciones (micitt.go.cr).",
+  "license": {
+    "spdx": "LicenseRef-CR-Law6683-Ministerial-Copyright",
+    "Grouping": "Proprietary / All Rights Reserved",
+    "redistribution": "prohibited",
+    "derivatives": "prohibited",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/CR",
+    "note": "Official publication (micitt.go.cr); Republic of Costa Rica Law No. 6683 on Copyright and Related Rights (ISBN-registered MICITT ministerial publications without an explicit open-redistribution license). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
+    "notes": "Official publication (micitt.go.cr); Republic of Costa Rica Law No. 6683 on Copyright and Related Rights (ISBN-registered MICITT ministerial publications without an explicit open-redistribution license). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.micitt.go.cr/sites/default/files/2023-11/NCS%20Costa%20Rica%20-%2010Nov2023%20SPA.pdf",
+    "textUsed": "https://www.micitt.go.cr/sites/default/files/2023-11/NCS%20Costa%20Rica%20-%2010Nov2023%20SPA.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2023-11-10",
+    "active": true,
+    "supersedes": "secid:reference/micitt.go.cr/estrategia-nacional-ciberseguridad@2017-2021",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 74-page PDF (https://www.micitt.go.cr/sites/default/files/2023-11/NCS%20Costa%20Rica%20-%2010Nov2023%20SPA.pdf) locally via PyMuPDF (145,006 chars). Parsed 32 sections (25 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

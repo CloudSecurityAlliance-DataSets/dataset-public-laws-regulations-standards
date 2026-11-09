@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/u.ae/national-cybersecurity-strategy@2019",
+  "name": "UAE National Cybersecurity Strategy (2019)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2019",
+  "publication_id": "national-cybersecurity-strategy-2019",
+  "owner": "United Arab Emirates Government Portal (u.ae) & UAE Cyber Security Council",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "UAE National Cybersecurity Strategy 2019 (TDRA).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by United Arab Emirates Government Portal (u.ae) & UAE Cyber Security Council (u.ae) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for United Arab Emirates Government Portal (u.ae) & UAE Cyber Security Council (u.ae).",
+  "license": {
+    "spdx": "LicenseRef-AE-TDRA-Terms",
+    "Grouping": "Proprietary / All Rights Reserved",
+    "redistribution": "prohibited",
+    "derivatives": "prohibited",
+    "publicly_redistributable": true,
+    "license_text_url": "https://tdra.gov.ae/en/terms-and-conditions",
+    "note": "Official publication (u.ae); UAE Telecommunications and Digital Government Regulatory Authority (TDRA) and UAE Government portal Terms and Conditions (copyright and intellectual property rights in ministerial strategy publications are reserved unless explicitly stated otherwise). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
+    "notes": "Official publication (u.ae); UAE Telecommunications and Digital Government Regulatory Authority (TDRA) and UAE Government portal Terms and Conditions (copyright and intellectual property rights in ministerial strategy publications are reserved unless explicitly stated otherwise). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://tdra.gov.ae/userfiles/assets/Lw3seRUaIMd.pdf",
+    "textUsed": "https://tdra.gov.ae/userfiles/assets/Lw3seRUaIMd.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2019-06-01",
+    "active": false,
+    "supersedes": null,
+    "supersededBy": "secid:reference/u.ae/national-cybersecurity-strategy@2025-2031",
+    "retiredFromActiveUse": "2025-01-01",
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 28-page PDF (https://tdra.gov.ae/userfiles/assets/Lw3seRUaIMd.pdf) locally via PyMuPDF (8,049 chars). Parsed 28 sections (0 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

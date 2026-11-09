@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/hcpn.gouvernement.lu/artificial-intelligence-a-strategic-vision-for-luxembourg@2025",
+  "name": "Artificial Intelligence: A Strategic Vision for Luxembourg & Accelerating Digital Sovereignty 2030 (2025)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2025",
+  "publication_id": "artificial-intelligence-a-strategic-vision-for-luxembourg-2025",
+  "owner": "High Commission for National Protection (HCPN) & Government of Luxembourg",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Artificial Intelligence: A Strategic Vision for Luxembourg & Accelerating Digital Sovereignty 2030",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by High Commission for National Protection (HCPN) & Government of Luxembourg (hcpn.gouvernement.lu) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for High Commission for National Protection (HCPN) & Government of Luxembourg (hcpn.gouvernement.lu).",
+  "license": {
+    "spdx": "LicenseRef-LU-SIP-Prior-Agreement",
+    "Grouping": "Proprietary / All Rights Reserved",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": true,
+    "license_text_url": "https://hcpn.gouvernement.lu/en/support/aspects-legaux.html",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (hcpn.gouvernement.lu) is governed by Grand Duchy of Luxembourg Government / HCPN General Legal Notice (permits viewing, downloading, and printing; prior agreement from the Government Information and Press Service (SIP) is required for public redistribution or derivative works). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (hcpn.gouvernement.lu) is governed by Grand Duchy of Luxembourg Government / HCPN General Legal Notice (permits viewing, downloading, and printing; prior agreement from the Government Information and Press Service (SIP) is required for public redistribution or derivative works). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://digital-luxembourg.public.lu/initiatives/artificial-intelligence-strategic-vision-luxembourg",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2025-05-01",
+    "active": true,
+    "supersedes": "secid:reference/hcpn.gouvernement.lu/artificial-intelligence-a-strategic-vision-for-luxembourg@2019",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/hcpn.gouvernement.lu/artificial-intelligence-a-strategic-vision-for-luxembourg@2025 (https://digital-luxembourg.public.lu/initiatives/artificial-intelligence-strategic-vision-luxembourg) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

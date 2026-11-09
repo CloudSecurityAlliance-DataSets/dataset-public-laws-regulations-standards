@@ -1,0 +1,1449 @@
+"depth","section_id","section_name","id_kind","parent_id","body"
+"1","","National Artificial Intelligence Strategy of Costa Rica 2024–2027","","","Ministerio de Ciencia, Innovación, Tecnología y Telecomunicaciones."
+"2","","Estrategia Nacional de Inteligencia Artificial 2024-2027","","","Versión 2.6
+
+23/08/2024"
+"2","","Presentation","","","The National Artificial Intelligence Strategy (ENIA) of Costa Rica is an initiative of the Ministry of Science, Innovation, Technology, and Telecommunications (MICITT), validated jointly with the public sector, civil society, the private sector, and academia, aiming to align national efforts toward a long-term vision.
+
+Its objective is to promote the use, adoption, and development of Artificial Intelligence (AI) in an ethical, secure, and responsible manner, seeking to maximize benefits for citizens and minimize any potential harm to individuals.
+
+The strategy establishes concrete lines of action to harness the potential benefits of AI while proactively addressing the ethical, social, and technical risks and challenges associated with its implementation.
+
+This effort represents a significant commitment by the Government of Costa Rica to the strategic, ethical, and effective management of technological advancement in the field of AI, marking an important milestone on our path toward responsible innovation and technological development.
+
+This document presents a simplified version of the ENIA to facilitate its readability.
+
+To consult the full version, visit www.micitt.go.cr.
+
+006.3
+
+Artificial Intelligence
+
+006.3
+
+Inteligencia artificial.
+
+Costa Rica, Ministry of Science, Innovation, Technology and Telecommunications (MICITT).
+
+Costa Rica, Ministerio de Ciencia, Innovación, Tecnología y Telecomunicaciones (MICITT).
+
+Estrategia Nacional de Inteligencia Artificial de Costa Rica. -San José, C.R.: MICITT, 2024.
+
+National Artificial Intelligence Strategy of Costa Rica. -San José, C.R.:
+
+ISBN: 978-9968-732-94-9.
+
+MICITT, 2024.
+
+1.SOCIEDAD Y CIENCIAS SOCIALES. 2. POLITICA Y GOBIERNO. 3. GOBIERNO CENTRAL. 4. POLÍTICAS DE GOBIERNO CENTRAL.
+
+ISBN: 978-9968-732-94-9."
+"3","Presentation: 1","SOCIETY AND SOCIAL SCIENCES. 2. POLICY AND GOVERNMENT. 3. CENTRAL","numbered","","GOVERNMENT. 4. CENTRAL GOVERNMENT POLICIES."
+"2","","Credits Acknowledgments","","",""
+"3","","General Directorae:","","","Paula Bogantes Zamora, Minister of Science, Innovation, Technology and Telecommunications.
+
+Orlando Vega Quesada, Deputy Minister of Science, Technology and Innovation."
+"3","","Institutional Technical Team","","","Marlon Ávalos Elizondo, Director of Research, Development, and Innovation.
+
+Antonette Williams Barnett, Head of the Institutional and Sectoral Planning Secretariat.
+
+Margarita Vargas Ramos, Ministerial Advisor"
+"3","","MICITT Team","","","Adelita Arce Rodríguez.
+
+Ana Carolina Vargas Obando.
+
+Eliana Ulate Brenes.
+
+Eysel Chacón Cordero
+
+Karen Artavia Herrera.
+
+Kattia Moodie Reid.
+
+Marcela Monge Campos.
+
+Marco Piedra Solano.
+
+Margoth Rojas Sánchez.
+
+Mariela Carballo Ledezma.
+
+Silvia Jiménez Navarro.
+
+Silvia Ramírez Segura.
+
+Susan Moreno Masís."
+"3","","Writing and layout","","","Marlon Ávalos Elizondo
+
+VERSION 1.0. SPANISH VERSION PUBLICATION DATE: Octuber 24, 2024. ENGLISH VERSION PUBLICATION DATE: February 3, 2025.
+
+Inhabitants’ Data Protection Agency (PRODHAB)
+
+Central Bank of Costa Rica, (BCCR)
+
+Inter-American Development Bank, (IDB)
+
+Bank for Latin America and the Caribbean, (CAF)
+
+Infocommunication and Technology Chamber, (Infocom)
+
+Costa Rican Chamber of Information and Communication Technologies, (CAMTIC)
+
+Chamber of Industries of Costa Rica, (ICRC)
+
+College of Professionals in Informatics and Computing, (CPIC)
+
+National Council of Rectors, (CONARE)
+
+Cybersec Cluster
+
+Directorate of Social Appropriation of Knowledge, MICITT
+
+Research, Development and Innovation Directorate, MICITT
+
+Cybersecurity Directorate, MICITT
+
+Directorate of Digital Governance and Digital Signature Certifiers, MICITT fAIr LAC, Inter-American Development Bank
+
+Konrad Adenauer Stiftung, (KAS)
+
+Paniamor Foundation
+
+Inter-American Institute for Cooperation on Agriculture (IICA)
+
+Institute of Technical Standards of Costa Rica, (INTECO)
+
+United Nations Educational, Scientific and Cultural Organization, (UNESCO)
+
+Organization for Economic Cooperation and Development, (OECD)
+
+Costa Rican Promoter of Innovation and Research
+
+International Cooperation Unit, MICITT
+
+University for Peace
+
+Vice Ministry of Telecommunications and its addresses, MICITT
+
+Contents
+
+Credits
+
+5
+
+Message from the Minister
+
+7
+
+Message from the Deputy Minister
+
+8
+
+Executive Summary
+
+9
+
+Introduction
+
+12
+
+What is an Artificial Intelligence System?
+
+12
+
+The AI Revolution
+
+13
+
+The Context of Costa Rica
+
+16
+
+Human-Centered AI
+
+21
+
+Guiding Principles
+
+30
+
+Guiding Principles
+
+30
+
+Cross-cutting Principles
+
+34
+
+Strategic Risk Management
+
+38
+
+Reference Regulatory Frameworks
+
+38
+
+Key risk related to Costa Rica
+
+39
+
+Reference Framework for Costa Rica
+
+41
+
+Risk Management and Response to AI Incidents
+
+43
+
+Key Stakeholders
+
+48
+
+Enabling Mechanisms
+
+53
+
+Strategic Framework
+
+57
+
+Objectives of the Strategy
+
+58
+
+Axes and Lines of Action
+
+64
+
+Glossary
+
+74
+
+References
+
+76"
+"2","","Message from the Minister","","","Dear Costa Ricans,
+
+It is an honor to present the National Artificial Intelligence Strategy (NAIS) 2024–2027, an essential pillar for the technological and economic future of our country. Under the leadership of the Ministry of Science, Innovation, Technology, and Telecommunications (MICITT), this strategy reaffirms our commitment to spearheading Costa Rica’s digital transformation, promoting the ethical, secure, and responsible use of Artificial Intelligence (AI).
+
+AI is a powerful tool with the potential to transform vital sectors such as health, education, security, and public administration. We are prepared to seize this historic opportunity, driving our economic and social development and positioning ourselves as regional leaders in the adoption and creation of advanced technologies.
+
+MICITT has been the driving force behind the formulation of the NAIS, guided by a strategic vision aimed at maximizing the benefits of AI while proactively addressing the ethical, social, and technical challenges its implementation entails.
+
+This public policy document establishes clear guidelines based on principles of transparency, equity, human oversight, and data protection, ensuring that people remain at the center of technological development. We have designed a roadmap that guarantees the use of AI to promote social well-being, respect fundamental rights, and reduce inequalities. By integrating ethical principles into all phases of the AI lifecycle, we foster inclusive and equitable technology that benefits society as a whole.
+
+NAIS will not only strengthen our commitment to inclusive and sustainable development but also enable us to collaborate with other countries and international organizations in exchanging knowledge and best practices.
+
+The Government of Costa Rica, through MICITT, is committed to creating an enabling environment for research, development, and innovation in AI, promoting strategic alliances among the public, private, and academic sectors, and training specialized talent.
+
+With the implementation of NAIS, we will advance toward a more innovative, competitive, and just Costa Rica, where technology becomes a driver of human development and sustainable growth.
+
+I invite all Costa Ricans to join this collective effort to build a future in which Artificial Intelligence enhances quality of life and promotes the well-being of our country."
+"2","","Paula Bogantes Zamora","","","Minister of Science, Innovation, Technology and Telecommunications."
+"2","","Message from the Deputy Minister","","","Artificial Intelligence (AI) represents one of the most significant advancements of our era, and its impact on science, technology, and innovation is redefining how we face global challenges and seize future opportunities.
+
+At the Ministry of Science, Innovation, Technology, and Telecommunications (MICITT), we recognize that the strategic adoption of AI is essential for positioning Costa Rica as a regional leader and a benchmark in the ethical and effective management of these technologies.
+
+As a country, we are at a crossroads where the strategic utilization of AI can define our place in the global knowledge economy. MICITT has embraced the challenge of leading this transformation, recognizing AI not only as a field of technological advancement but as a catalyst for driving innovation across all productive and social sectors in Costa Rica.
+
+In technology, it is driving the creation of solutions that enhance the efficiency and effectiveness of productive processes, while in innovation, it opens a vast field of new opportunities that strengthen our global competitiveness.
+
+Harnessing the potential of AI also entails a commitment to training specialized talent and creating an ecosystem that fosters research and development in this area. It is essential that MICITT continues to strengthen national capacities so that Costa Rica not only adopts AI but also becomes a generator of new technologies and solutions that help address humanity’s greatest challenges, such as environmental sustainability and social equity.
+
+The National Artificial Intelligence Strategy 2024– 2027 reflects MICITT’s commitment to the country’s technological future. It serves as a roadmap guiding our efforts to integrate AI ethically, inclusively, and sustainably, ensuring its benefits reach all Costa Rican citizens. By fostering an enabling environment for research, development, and innovation, we are laying the foundation for a future where AI becomes an essential tool for Costa Rica’s economic and social progress.
+
+I am convinced that through the implementation of this strategy, Costa Rica will not only be at the forefront of advanced technology adoption but also strengthen its role as a regional leader in innovation, contributing to sustainable and equitable development. Orlando Vega Quesada
+
+Deputy Minister of Science, Technology and Innovation."
+"2","","Executive Summary","","","Costa Rica stands at a pivotal moment in its technological development, with the opportunity to establish itself as a global benchmark in Artificial Intelligence (AI) governance.
+
+This document, the National Artificial Intelligence Strategy (NAIS) 2024–2027, sets forth an ambitious yet achievable proposal to position the country at the forefront of AI development and implementation.
+
+Building on its traditions of sustainability, social equity, and respect for human rights, Costa Rica seeks not only to integrate these technologies into its socio-economic fabric but also to influence their global evolution through active participation in key international forums such as the Organisation for Economic Co-operation and Development (OECD), the Global Partnership on Artificial Intelligence (GPAI), and the Hiroshima AI Process Friends Group (HAIP), among others.
+
+This instrument underscores the importance of training and talent development as fundamental pillars for the strategy’s success. Costa Rica is committed to developing specialized educational programs in AI, designed to prepare the current and future workforce for the challenges and opportunities posed by this technology.
+
+Through reskilling and upskilling initiatives, as well as the inclusion of AI content in formal and non-formal education programs, the country aims to ensure that all citizens have access to the skills needed to thrive in an AI-driven economy.
+
+NAIS is grounded in the construction of a robust digital infrastructure to support AI growth across all regions of the country. With a plan for deploying 5G networks and establishing a National Center of Excellence in AI, Costa Rica is poised to drive research, development, and the adoption of advanced technologies. This infrastructure will not only enable AI implementation in strategic sectors but also facilitate international collaboration and alignment with global standards for interoperability and security.
+
+The strategy also proactively addresses the risks associated with AI, proposing the creation of a comprehensive framework for risk management and incident response. This approach includes strengthening the National Agency for Digital Government (NADG) and the Cybersecurity Directorate of MICITT, equipping them with advanced capabilities to detect and mitigate threats, thereby protecting the country’s critical infrastructure and ensuring technological resilience that minimizes the risks inherent to AI use.
+
+On the international stage, Costa Rica aims to actively participate in the adoption of ethical and sustainable frameworks for AI, promoting equity in access to these technologies on a global scale.
+
+The strategy emphasizes the importance of collaborating with other countries and international organizations to develop a regional strategic framework that integrates ethical principles, sustainability, and the management of cross-border data. Through its leadership, Costa Rica seeks to close technological gaps and ensure that AI is used responsibly and adapted to the social and cultural contexts of each region.
+
+By adopting a holistic and responsible approach to AI governance, Costa Rica positions itself as a key player in shaping a global future where technology serves the well-being of all humanity. With a clear vision and a well-defined strategy, the country is prepared to lead the next wave of innovation and ensure that the benefits of AI are shared by all, leaving no one behind.
+
+This instrument highlights the importance of training and talent development as fundamental pillars for the success of the strategy.
+
+The future it’s today"
+"2","","Introduction","","","Artificial Intelligence (AI) is a disruptive technology that is redefining industries, economies, and public policies worldwide. Global investment in AI has shown exponential growth in recent years. Over the past decade, AI has emerged as one of the most transformative technologies, influencing multiple aspects of the economy, society, and global governance.
+
+Its ability to process large volumes of data with unmatched speed and precision offers unprecedented opportunities for progress in areas such as health, education, security, and administrative efficiency. However, the rapid development and adoption of AI also pose significant challenges related to ethics, privacy, security, and equity that must be carefully addressed.
+
+In the context of Costa Rica—a country known for its political stability, high levels of education, and commitment to sustainability and technological development—AI plays a decisive role in fostering inclusive and responsible national development. Recognizing this opportunity, the Ministry of Science, Innovation, Technology, and Telecommunications (MICITT) promotes the National Artificial Intelligence Strategy (NAIS) 2024–2027, designed to guide the ethical, secure, and responsible use, adoption, and development of AI technologies in the country.
+
+NAIS establishes precise lines of action and guidelines that maximize the benefits of AI while proactively addressing the associated ethical, social, and technical challenges.
+
+Key lines of action include: establishing a robust ethical and regulatory framework for the responsible use of AI; integrating AI into educational curricula; implementing AI solutions to improve public services; promoting the inclusion of AI in business value chains; and positioning Costa Rica as a leader in the global governance framework for AI.
+
+The publication of this strategy will not only align Costa Rica with international best practices in managing emerging technologies but also reinforce its position as a leader in technological innovation and ethical development in Latin America. This document provides the foundation for informed debate and decisive action for the country’s technological future."
+"2","","What is Artificial Intelligence System?","","","Various definitions of what constitutes an AI system have been developed to provide a deeper understanding of this technology. For the purposes of this strategy, the official definition established by the Organisation for Economic Co-operation and Development (OECD) is adopted, which defines an AI system as:
+
+“(...) An AI system is a machine-based system that, for explicit or implicit objectives, infers, from the input it receives, how to generate outputs such as predictions, content, recommendations, or decisions that can influence physical or virtual environments. Different AI systems vary in their levels of autonomy and adaptiveness after deployment.”, (OECD, 2023).
+
+According to the OECD, an AI system is a technology that uses data and algorithms to make decisions or perform tasks that typically require human intelligence. These systems can analyze large amounts of information, learn from patterns, and improve their performance over time.
+
+In essence, they are computer programs that can generate content, solve problems, predict outcomes, or intelligently automate processes in a manner similar to humans but at much greater scale and speed. The OECD emphasizes the importance of ensuring that these systems are transparent, ethical, and responsible to guarantee they benefit society in a fair and secure manner.
+
+Additionally, this strategy adopts the lifecycle model for an AI system as defined by the OECD, which includes: i) “design, data, and models”: a context-dependent sequence encompassing planning and design, data collection and processing, as well as model construction; ii) “verification and validation”; iii) “deployment”; and iv) “operation and monitoring”. These phases often occur iteratively and not necessarily sequentially. The decision to withdraw an AI system from operation may occur at any point during the operation and monitoring phase.
+
+From an economic development perspective, AI is a key driver of growth and innovation.."
+"2","","The AI Revolution","","","Recent technological advancements have enabled generative AI systems like GPT-4o, DALL-E, and DeepDream, among others, to achieve such advanced levels that users often struggle to distinguish between human-generated and AI-generated content.
+
+In the last quarter of 2022, these developments surprised many, although some researchers had anticipated such progress. Collaboration and interdisciplinarity among policymakers, AI developers, and researchers are crucial to keeping pace with AI advancements and bridging knowledge gaps (OECD, 2024).
+
+In terms of productivity, AI facilitates process automation across various sectors, optimizing operational efficiency and reducing costs. For example, a report by McKinsey (2024) indicates that AI can increase productivity by up to 50% in sectors such as manufacturing and logistics, improving supply chains and predictive maintenance. This allows companies to redirect resources toward innovation and development.
+
+From an economic development perspective, AI is a key driver of growth and innovation. Grand View Research (2024) projects that AI will contribute up to USD 1,812 billion by 2030, benefiting sectors like autonomous transportation and digital healthcare. AI’s ability to create new business opportunities and transform industries is essential for global economic dynamism.
+
+AI also plays a vital role in environmental management and combating climate change. Advanced algorithms analyze large volumes of environmental data, optimizing resource use and improving energy efficiency. According to PwC (2021), AI could help reduce greenhouse gas emissions by 4% by 2030, supporting the Sustainable Development Goals (SDGs) outlined in the 2030 Agenda.
+
+In the healthcare sector, AI can enhance disease diagnosis and treatment, with systems capable of analyzing medical images with accuracy surpassing that of humans. Tedros Adhanom, Director-General of the World Health Organization (WHO), stated in 2024 that AI is transforming areas such as clinical diagnosis, drug development, disease surveillance, and health system management.
+
+The future of healthcare is digital, and ensuring universal access to these innovations is critical to preventing them from becoming a new source of inequity.
+
+AI is also transforming governance by enabling more transparent and efficient public administration. Governments worldwide are implementing AI to automate bureaucratic processes, improve public service delivery, and increase citizen participation. The OECD (2022) highlights how AI can personalize government services, enhance policymaking, and promote transparency through algorithms that monitor governmental activities."
+"3","","Growth of the AI Market","","","The global AI market has demonstrated substantial growth, valued at approximately USD 196.63 billion in 2023 (Grand View Research, 2024), a significant increase from USD 60 billion in 2022. This growth is primarily driven by the extensive practical applications of AI, ranging from content creation to autonomous vehicles. The AI market is projected to reach USD 1.81 trillion by 2030, with a compound annual growth rate (CAGR) of 38.1%.
+
+Research and development in AI and venture capital investments are also on the rise. Since mid-2019, China has published more AI research than either the United States or the European Union. India is also progressing, doubling its AI research publications since 2015. Between 2015 and 2023, global venture capital investments in AI startups tripled, rising from USD 31 billion to USD 98 billion. Investments in generative AI specifically surged from 1% of total VC investments in AI in 2022 (USD 1.3 billion) to 18.2% (USD 17.8 billion) in 2023, despite the cooling of capital markets.
+
+The AI software segment generates annual revenues exceeding USD 50 billion globally, according to Omdia (2024). This includes applications such as natural language processing, machine learning, and data analytics. Additionally, the AI services market has grown more than sixfold in five years, projecting revenues of USD 126 billion by 2025, reflecting rapid adoption across multiple sectors.
+
+The wearable AI device segment, such as smartwatches, is also experiencing exponential growth, estimated to reach USD 180 billion by 2025 (Global Market Insights, 2024). From a broader economic perspective, PwC (2023)
+
+estimates that AI could boost global revenues by over USD 15 trillion by the end of the decade, contributing to a 26% increase in GDP for local economies. Meanwhile, Tractica (2023) projects that the AI market will grow at a CAGR of 26% until 2025.
+
+Various sectors, including banking and life sciences, stand to benefit significantly from AI. McKinsey (2023) estimates that in banking, AI could generate additional annual value between USD 200 billion and USD 340 billion."
+"3","","Impact of IA on Employment","","","The impact of AI on the labor market is complex. On the one hand, generative AI is expected to facilitate creative and repetitive tasks, increasing competition by enabling more individuals to perform these functions. However, this could also reduce earnings for highly skilled workers, as AI models allow less experienced workers to complete tasks more efficiently (Benedikt and Osborne, 2023).
+
+Generative AI has the potential to automate between 60% and 70% of current work activities, according to McKinsey (2023). Nevertheless, AI could also enable annual labor productivity growth of 0.1% to 0.6% through 2040, depending on the level of technological adoption. This shift necessitates investments in worker support during transitions to new activities or jobs.
+
+AI will change how almost everyone works, particularly at higher levels. Managers will need new skills to oversee teams where AI performs much of the work, and senior leadership will need to drive operations and business models that are AI-native (PwC, 2023).
+
+Historically, automation has displaced jobs but also created new occupations following technological innovations. Sixty percent of today’s workers are employed in occupations that did not exist in 1940, underscoring the role of technological innovation in creating jobs and driving economic growth (Author, 2024).
+
+According to the World Economic Forum (2023), nearly a quarter of all global jobs will undergo significant changes in the next five years due to AI and other emerging technologies. The adoption of AI not only alters employment structures but also creates new roles and demands new skills. However, businesses must still address the risks associated with AI, such as model inaccuracies and cybersecurity concerns.
+
+Health, security, education, agriculture, logistics, and entertainment are just some of the sectors that maximize the use of AI."
+"3","","Key Usages and Applications of IA","","","AI has impacted numerous sectors of the global economy, transforming operations, improving decision-making, and revolutionizing traditional interactions across industries such as healthcare, automotive, and finance.
+
+This section outlines the primary uses and current applications of AI, drawing from recent research and academic references.
+
+a. Healthcare: In the healthcare sector, AI is having a transformative impact, particularly in disease diagnosis and treatment. Deep learning technologies applied to radiology, as described by Esteva and Topol (2019), can identify pathologies in medical images with accuracy often surpassing that of human diagnosis. AI systems are also revolutionizing biomedicine by analyzing large datasets of genomic and biomarker information to personalize treatments. Additionally, AI is facilitating the development of new drugs through molecular simulation and modeling, accelerating the pharmaceutical innovation cycle.
+
+b. Automotive: In the automotive industry, AI is driving the development of autonomous vehicles. Advanced driver assistance systems (ADAS) utilize computer vision, signal processing, and machine learning techniques to enhance safety and driving efficiency. Companies like Tesla and Waymo are at the forefront of this field, developing and deploying technologies that promise to fundamentally reshape mobility and transportation paradigms (Hawkins, 2024).
+
+c. Finance: AI in the finance sector is improving operational efficiency and decision-making through algorithms capable of analyzing large volumes of data to detect trends, make market predictions, and manage risks. Intelligent chatbots and virtual assistants are transforming customer service, while AI-powered fraud detection systems use machine learning to identify suspicious transactions in real time. This area, highlighted by Chanda et al. (2024), is becoming increasingly vital in the fight against financial fraud.
+
+d. Retail and E-Commerce: The retail sector has embraced AI to personalize customer experiences, optimize logistics, and manage inventories. Predictive algorithms enhance product recommendations based on consumer behavior, while automated robots in warehouses improve supply chain efficiency. Amazon is a prominent example, utilizing AI for everything from personalized shopping experiences to the operations of its vast logistics network (Redek et al., 2023).
+
+e. Education: In the educational field, AI is personalizing learning through systems that adapt study materials to the individual needs of each student. AI also facilitates automated assessments, allowing educators to spend more time on interactive teaching and less on administrative tasks (Zawacki-Richter et al., 2024).
+
+f. Agriculture: In agriculture, AI is revolutionizing the sector through precision farming, which employs algorithms to optimize both crop yields and the efficient use of water and fertilizers. AI-based systems monitor and analyze real-time sensor data to predict plant needs, optimize resources, and prevent crop diseases. For example, Suárez et al. (2023) describe how AI can assist in the early detection of plant pathogens, which is crucial for avoiding massive crop losses.
+
+g. Logistics: Logistics has also benefited from the adoption of Artificial Intelligence (AI), particularly in route optimization and inventory management. AI systems analyze traffic patterns, weather conditions, and customer demands to optimize delivery routes and reduce costs. Additionally, AI is fundamental in warehouse automation, where intelligent robots efficiently organize and distribute products. McKinsey (2024) highlights that implementing AI in logistics not only improves operations but can also significantly reduce delivery times and human errors.
+
+h. Public Safety: In the field of public safety, AI is used to enhance surveillance and emergency response. AI-based facial recognition systems are being deployed in cities to improve urban security and respond quickly to criminal incidents. Moreover, AI aids in natural disaster management by using algorithms to analyze satellite data and predict extreme weather events in advance, enabling more efficient evacuations and emergency preparedness (Mazhar et al., 2023).
+
+i. Entertainment: In the entertainment industry, AI is transforming everything from movie production to video games and music. Machine learning algorithms are being used to personalize recommendations on streaming platforms like Netflix and Spotify based on user behavior and preferences. AI is also being utilized in video game development to create characters and environments that respond more realistically to player actions, significantly enhancing the gaming experience.
+
+j. Environment: Finally, AI contributes to environmental protection through the monitoring and management of natural resources. AI algorithms process satellite images to monitor deforestation, pollution levels, and other environmental changes. This technology enables faster and more effective responses to environmental issues, supporting conservation efforts and aiding in the implementation of sustainable policies."
+"2","","The context of Costa Rica","","",""
+"3","","Opportunities and challenges","","","The situational analysis of Costa Rica concerning AI highlights various opportunities and challenges shaping the country’s technological landscape (Brenes et al., 2021). AI offers the potential to significantly enhance business productivity by automating repetitive tasks, which not only increases efficiency but also fosters innovation within companies. The adoption of AI is projected to boost Costa Rica’s Gross Domestic Product (GDP) growth by up to 7.8% annually by 2030 (Microsoft, 2019).
+
+In the public sector, AI has the potential to optimize policy formulation, execution, and evaluation, improving service delivery and streamlining internal processes within state institutions, such as handling inquiries, correspondence, and report generation. Specific examples include process automation in ministries and improved health service quality and efficiency through platforms like EDUS from the Costa Rican Social Security Administration, which uses AI for chronic disease prevention and management.
+
+AI can also play a critical role in advancing the bioeconomy and decarbonization, aiding Costa Rica in transitioning to a circular bioeconomy and intelligent urban transport systems, consolidating its position as a leader in sustainability and eco-tourism (OECD, 2022). However, the country faces challenges such as inadequate technological infrastructure and a shortage of specialized AI talent, limiting its capacity to implement these technologies.
+
+The Latin American Artificial Intelligence Index (2023; 2024) emphasizes the need to improve Costa Rican professionals’ AI skills through specialized educational programs to ensure the country has the talent required to lead AI projects and compete globally. AI has the potential to transform key industries in Costa Rica by improving efficiency in healthcare, personalizing education, and optimizing agricultural production through precision farming techniques.
+
+In terms of gender equity, it is crucial that AI development considers its impact on women’s participation and other underrepresented groups. While AI has the potential to reduce gender gaps in the labor market, there is also a risk of perpetuating biases if it is not consciously and equitably designed and applied (UNESCO, 2021).
+
+Despite the opportunities, Costa Rica must address risks such as potential job displacement due to automation, the protection of sensitive data, and the increasing threat of cyberattacks targeting critical infrastructure. Additionally, the perception that AI investments are unnecessary in the public sector could limit funding and technology adoption.
+
+Although policies for science and technology exist, investment in Research, Development, and Innovation (R&D&I) remains insufficient, and the availability of AI-related educational programs is limited, restricting the country’s progress in this field (Wang et al., 2024).
+
+To address these challenges and maximize the social and environmental benefits of AI, Costa Rica must integrate gender equity and sustainability principles into its strategy.
+
+Improving technological infrastructure and fostering collaborations between the public and private sectors is also essential to address the lack of specialized talent and drive AI development in the country (Latin American Artificial Intelligence Index, 2023; 2024).
+
+In the public sector, AI has the potential to optimize the formulation, implementation, and evaluation of public policies, improving service delivery and streamlining internal institutional processes."
+"3","","Adoption of AI Among Indivuduals and Businesses","","","The Center for Studies and Research on Politics [CIEP, per its Spanish acronym] (2024) from the University of Costa Rica (UCR) revealed that 56% of Costa Ricans have used AI at least once, indicating a moderate integration of these technologies into daily life. However, the remaining 44% have not interacted with AI, suggesting a gap in technology usage and the need to strengthen technological education in certain population segments.
+
+Educational level significantly influences contact with AI. While 65% of the population has heard about AI, only 53% of those with university degrees have interacted with the technology, and just 5% of individuals with elementary education report being knowledgeable about the topic. This underscores the importance of strengthening technological education at all levels to ensure a broader understanding of AI in Costa Rican society.
+
+The survey also highlights gender and age disparities in AI knowledge. Forty percent of women and 29% of men report knowing nothing about AI, and younger individuals aged 18–35 are more likely to recognize and use AI compared to those over 55, half of whom have no knowledge of the subject. Additionally, internet access is crucial for AI awareness, as individuals with greater access demonstrate significantly higher familiarity with this technology.
+
+In the private sector, a recent study by Microsoft highlights a promising outlook for the implementation of AI among micro, small, and medium-sized enterprises (SMEs) in Costa Rica. More than 70% of SMEs are investing or planning to invest in AI technologies, reflecting strong optimism about the potential of AI to enhance their competitiveness and growth. A total of 34% of SMEs have already initiated AI investments and plan to continue in the near future, while 18% have completed the necessary investments. Additionally, 14% of SMEs are making continuous investments in AI, allocating an average of 25% of their budgets to these technologies (Microsoft, 2024).
+
+The primary drivers behind AI adoption include the need to remain competitive and improve customer satisfaction. Sixty four percent of businesses adopt AI to avoid falling behind their competitors, and 49% implement AI to enhance customer experience. The impact of AI on business operations has been notably positive, leading to improvements in efficiency and customer service, with an average 36% increase in productivity.
+
+In the public sector, although updated data is still being collected, several key initiatives stand out. The National Center of Excellence driven by MICITT is exploring cross-sectoral AI-supported solutions for national challenges. Furthermore, MICITT collaborates with public and private entities, as well as international organizations, to promote AI research and education.
+
+Adoption of AI in Costa Rica
+
+Source. CIEP, 2024."
+"3","","The implementation of Community Innovation","","","Laboratories by MICITT aims to decentralize and strengthen innovation and technological capabilities in regions outside the country’s
+
+Examples of these collaborations include training over 6,000 Costa Rican women in AI-related skills in partnership with INTEL and supporting businesses in integrating AI into their operations through the National Learning Institute (INA).
+
+The implementation of over 20 Community Innovation Labs (CINL) across various cantons represents a strategic effort by MICITT to decentralize innovation capacity building and foster technological skills in regions outside the Greater Metropolitan Area. This initiative involves significant investment in infrastructure and resources and aims to develop advanced skills in AI and other emerging technologies at the community level.
+
+The CINL program has provided specialized training to a substantial number of individuals, equipping them with foundational AI competencies and fostering a culture of innovation that integrates communities into the country’s digital transformation. This approach helps reduce the technological divide among regions, facilitates the inclusion of local talent in the digital economy, and promotes sustainable and equitable growth across the national territory.
+
+Costa Rica is currently in a phase of progressive AI adoption, characterized by significant advancements in the private sector, where leading companies are implementing AI solutions to optimize processes and enhance competitiveness. Simultaneously, the public sector is developing promising initiatives to integrate AI into public administration to improve service efficiency and quality.
+
+However, the country faces critical challenges that must be rigorously addressed to ensure that AI development is ethical, secure, and socially beneficial. Key challenges include expanding equitable access to AI technologies; strengthening education and training in advanced
+
+Greater Metropolitan Area.
+
+digital skills; establishing robust regulatory frameworks for data protection to ensure that AI use respects fundamental rights and promotes inclusion. These aspects are essential for Costa Rica not only to adopt AI but to do so in a way that maximizes its benefits for the entire society."
+"3","","Costa Rica in the Framework of Global AI","","","Governance.
+
+As AI continues to gain global prominence, the need to develop robust governance frameworks becomes increasingly critical. Organizations such as the European Union, the Organisation for Economic Co-operation and Development (OECD), and the Hiroshima AI Process (HAIP) Friends Group have spearheaded the establishment of standards to guide the ethical development and implementation of these technologies.
+
+In this context, Costa Rica, with its commitment to sustainability, social equity, and the promotion of human rights, is strategically positioned to significantly influence global AI governance. Costa Rica’s active participation in key international forums, such as the OECD AI Governance Committee (AIGO), the Global Partnership on Artificial Intelligence (GPAI), the HAIP, and the Digital Economy Partnership Agreement (DEPA), not only enhances its visibility but also empowers it to shape the future of AI in a global context.
+
+Many developing countries face significant challenges in implementing AI governance due to limited resources, language barriers, a lack of technical expertise, and inadequate regulatory infrastructure.
+
+By participating in these global initiatives, Costa Rica not only aligns with international best practices but also positions itself as a reference for promoting policies that ensure equitable access to emerging technologies. Costa Rica’s influence in shaping global and regional policies allows it to advocate for an inclusive approach that respects cultural and linguistic diversity, ensuring that the benefits of AI are accessible to all sectors of society, regardless of their geographic or economic background.
+
+This leadership is crucial to ensuring that the development and implementation of AI align with robust regulatory frameworks and international standards that protect fundamental rights and foster trust in technology and its responsible use. Through this leadership, Costa Rica can contribute significantly to creating a secure and trustworthy digital environment, essential for the global deployment and adoption of AI technologies.
+
+Promoting strategic actions to support the adoption of AI standards, including principles such as Data Free Flow With Trust (DFFT), is fundamental to ensuring that AI technologies are developed and implemented ethically and transparently, aligned with global best practices. Participation in forums like AIGO, GPAI, and HAIP reinforces Costa Rica’s role as a catalyst for adopting ethical and technical AI guidelines globally, always prioritizing the well-being of people.
+
+This leadership aims not only to bridge technological gaps between developed and developing countries but also to ensure that AI is used responsibly, mitigating associated risks, particularly in critical areas such as its environmental impact and the ethical and security implications of its military applications.
+
+Costa Rica can play a fundamental role in providing tools and resources to help other countries, especially in the developing world, overcome obstacles to AI governance.
+
+Costa Rica, committed to sustainability, social equity, and the promotion of human rights, is strategically positioned to make a significant impact on global AI governance.
+
+Costa Rica can play a key role in providing tools and resources to help other countries, especially developing ones, overcome challenges in AI governance."
+"2","","Human-Centered AI","","",""
+"3","","An Integrated Strategic Approach","","","Human-centered AI is an approach to developing and implementing this technology that prioritizes individuals and their rights in all technological decisions. This concept is based on the premise that AI should be designed and applied to benefit society as a whole, promoting collective well-being, respecting human rights, and reinforcing equity and social justice.
+
+Inspired by the OECD recommendations on AI, this approach is guided by ethical principles that ensure emerging technologies are not only efficient and advanced but also fair, inclusive, and sustainable. These principles aim to guarantee that AI promotes human dignity, autonomy, and equality while preventing any form of discrimination or exclusion (OECD, 2023).
+
+The importance of human-centered AI lies in its capacity to positively transform various aspects of human life, from the economy and employment, to education, health, and civic engagement.
+
+However, for these transformations to be truly beneficial, AI must be developed with a focus that considers and prioritizes its impact on people, particularly those who may be disproportionately affected by technological advancements.
+
+As stated by the European Commission in its AI Regulation proposal, technology should serve as a tool to “enhance the quality of life, strengthen social inclusion, and reduce inequalities” (European Commission, 2021).
+
+This approach is not only a matter of ethical responsibility but also of long-term viability. Policies that prioritize inclusion and respect for human rights are essential to ensure that AI is broadly and equitably accepted and used. For example, the European Union’s approach to trustworthy AI is based on principles of “fundamental rights, consumer protection, and respect for privacy,” ensuring that AI technologies uphold human dignity and promote the well-being of all (European Commission, 2020).
+
+The OECD recommendations on AI, approved in 2019 and updated in 2023, emphasize the necessity for AI to “enhance inclusive prosperity, respect human rights, and uphold fundamental freedoms” (OECD, 2019).
+
+In this regard, a human-centered AI approach is also critical for mitigating potential risks associated with its adoption. These risks include the perpetuation of biases, erosion of privacy, and digital exclusion. Consequently, it is essential that policies and regulations guiding AI development incorporate mechanisms for oversight and accountability, ensuring that individuals’ interests are safeguarded throughout the entire AI lifecycle.
+
+Ultimately, human-centered AI aims not only for technological advancement and efficiency but also for promoting a more just and equitable society where everyone can benefit from AI advancements without fear of being marginalized or harmed."
+"3","","AI for Social Inclusion and Reducting the Digital Divide","","","AI offers an unprecedented opportunity to close the digital divide and promote social inclusion, particularly in marginalized or low-income communities. These technologies can democratize access to information, improve the quality of public services, and create new education and employment opportunities for population segments traditionally excluded from technological development. However, for AI to fulfill this inclusive role, specific actions must be implemented to ensure its accessibility and adoption across all sectors of society.
+
+One of the primary ways AI can contribute to social inclusion is through personalized education and training. AI-powered learning platforms can adapt to the individual needs of students, offering content in multiple formats and languages, which is especially beneficial for individuals in rural or low-income communities. These platforms can help overcome geographic and economic barriers, enabling students to learn at their own pace and develop skills that integrate them into the national and global labor markets (Zowghi and da Rimini, 2023).
+
+AI can also improve access to essential public services, such as healthcare and social assistance, in underserved communities. For instance, AI-powered telemedicine can provide personalized diagnoses and treatments to rural areas where medical services are scarce. Furthermore, AI can optimize resource distribution in social assistance programs, ensuring that aid reaches those most in need efficiently and promptly (Van Deursen et al., 2017).
+
+To ensure all sectors of society benefit from AI, it is critical to implement digital literacy and training programs that enable individuals to acquire the competencies
+
+The importance of human- centered AI lies in its ability to positively transform various aspects of human life, from the economy and employment to education, health, and civic engagement.
+
+necessary to use these technologies effectively. These programs must be accessible, inclusive, and tailored to the needs of diverse demographic groups, including children and adolescents, older adults, women, and indigenous populations. Digital literacy should not only focus on basic technology use but also on understanding the risks and opportunities associated with AI, promoting an informed and conscious use of these tools (Van Deursen et al., 2017).
+
+Moreover, the actions outlined in public policies such as this strategy and technological development programs must be designed with an inclusive approach to ensure that marginalized communities are not left behind in AI adoption. This includes providing digital infrastructure in rural areas, reducing internet access costs, and promoting content in local and regional languages and dialects. Through a combination of education, accessibility, and inclusive policies, AI can serve as a powerful tool to reduce the digital divide and foster social inclusion, contributing to a more equitable and sustainable development for all."
+"3","","Ethical Safeguards and Human Rights Protection","","","The implementation of AI across various sectors brings significant benefits but also raises important challenges in terms of human rights protection.
+
+The speed and scope of AI development necessitate the adoption of ethical safeguards and robust regulatory frameworks to ensure these systems do not infringe on fundamental rights such as privacy, freedom of expression, and non-discrimination. These frameworks must be designed to ensure that AI is used in ways that respect and promote human rights, avoiding the perpetuation of existing biases and inequalities.
+
+One of the primary risks associated with AI is the violation of privacy. AI systems often rely on large volumes of personal data to function, raising concerns about the collection, storage, and use of such information.
+
+Key practices to mitigate these risks include data anonymization and minimization of data collection to ensure that sensitive information is not exposed or misused (Mantelero, 2023). Furthermore, implementing technologies such as encryption and consent-based access control can also strengthen privacy protection.
+
+AI can also enhance access to essential public services, such as healthcare and social assistance, in underserved communities.
+
+Protecting personal images and privacy is particularly critical in the AI era, given the increasing use of technologies like facial recognition and deepfakes. While these technologies offer benefits in certain contexts, they also pose significant risks to personal integrity if not properly regulated.
+
+According to the OECD, AI systems must respect privacy rights and personal data protection through measures like data anonymization and informed consent (OECD, 2019). Moreover, personal data must be handled with the highest level of security, employing advanced encryption technologies to prevent unauthorized access and potential breaches.
+
+Freedom of expression is another right that can be impacted by AI, especially in the context of social media and content platforms. Automated moderation algorithms, though necessary for managing large volumes of information, may silence legitimate voices or foster censorship if not designed with fairness and transparency. To address this, it is critical to ensure these systems are auditable and provide mechanisms for appealing automated decisions to prevent undue restrictions on freedom of expression (Chamberlain, 2023).
+
+Non-discrimination is a central concern in AI applications. If not carefully designed and monitored, AI systems can replicate and amplify biases present in training data, leading to discrimination against specific demographic groups. For example, facial recognition systems have shown significantly higher error rates for non-Caucasian individuals and women, resulting in unfair and harmful outcomes (Buolamwini and Gebru, 2018). To counteract this risk, it is essential to conduct regular bias audits and establish clear accountability mechanisms to enable the correction and adjustment of algorithms.
+
+To ensure that AI is developed and applied ethically and with a focus on people, it is necessary to establish regulatory frameworks that integrate fundamental human rights principles. These frameworks must be global in scope but adaptable to national contexts, allowing each country to tailor regulations according to its specific needs and values. The adoption of international standards, such as the OECD AI Principles, which promote transparency, safety, and accountability, is a crucial first step in building robust and ethical AI governance (OECD, 2019).
+
+Furthermore, it is essential that these regulatory frameworks include the participation of multiple stakeholders, including governments, the private sector, civil society, and academia, to ensure that diverse perspectives and concerns are considered in the regulatory process.
+
+The creation of independent ethics committees to oversee the development and implementation of AI systems can serve as an effective means to monitor compliance with these standards and to provide guidance in complex cases."
+"3","","Gender approach in AI","","","The integration of a gender approach in the development and implementation of Artificial Intelligence is crucial to preventing these technologies from perpetuating or amplifying existing gender inequalities. AI, which relies on large volumes of data for its functioning, risks incorporating historical and cultural biases that disadvantage women and other underrepresented groups. According to a report by UNESCO (2020), these biases can manifest in automated decisions that reinforce stereotypes or exclude women from opportunities in areas such as employment, education, and access to services.
+
+To address this challenge, it is essential to work in coordination with the Ministry of Women’s Affairs, the National Institute for Women (INAMU), and civil society organizations advocating for women’s rights, ensuring that a gender perspective is integrated throughout all phases of the AI system lifecycle—from design and development to implementation and evaluation.
+
+One of the most effective measures is conducting gender audits for algorithms to identify and mitigate discriminatory biases. These audits must be systematic and applied during both the development and usage stages of AI, ensuring that data models are representative and fair (Buolamwini and Gebru, 2018).
+
+Furthermore, it is vital to promote the active participation of women in AI development, governance, and decision-making processes. Currently, women account for only 22% of professionals in the AI field worldwide, limiting the diversity of perspectives in the development of these technologies (WEF, 2021).
+
+Initiatives such as creating mentorship programs, providing scholarships for women in technology, and implementing equity policies in hiring and promotion within tech companies are concrete steps to narrow this gap.
+
+The rapid development of AI demands ethical safeguards and robust regulatory frameworks to protect fundamental rights such as privacy, freedom of expression, and non-discrimination.
+
+It is essential to promote the active participation of women in the development, governance, and decision-making processes related to AI.
+
+A gender approach in AI is not only an ethical imperative but also a technical necessity to ensure that emerging technologies are inclusive and benefit society as a whole. Integrating this perspective will help create fairer AI systems that not only reflect humanity’s diversity but also contribute to reducing existing gender inequalities."
+"3","","AI for Children and Adolescents","","","AI holds significant potential to transform education and protect the rights of children and adolescents, offering advanced tools for personalized learning and safeguarding in digital environments. However, implementing AI in these contexts requires a rigorous technical and ethical approach to ensure that benefits are maximized and risks are minimized.
+
+The use of AI in education can facilitate the creation of educational content tailored to each student’s individual needs, promoting more inclusive and effective learning.
+
+AI-based personalized learning platforms can analyze students’ progress in real time and adapt content to optimize their educational experience, addressing their strengths and areas for improvement. According to UNESCO (2021), these technologies can help reduce learning gaps and ensure that all students, regardless of their circumstances, have access to quality education.
+
+Nevertheless, the use of AI in the context of children and adolescents also poses significant challenges, particularly regarding the protection of personal data and exposure to digital risks.
+
+Children and adolescents are particularly vulnerable to data manipulation and negative influences on digital platforms, such as exposure to inappropriate content or the exploitation of sensitive data for commercial purposes. To mitigate these risks, it is essential to establish robust ethical safeguards, including data anonymization, limitations on the collection and use of personal information, and the implementation of effective parental controls.
+
+Collaboration between the Ministry of Public Education (MEP) and the National Children’s Trust [PANI, per its Spanish acronym] is crucial to ensuring a comprehensive approach to the implementation of Artificial Intelligence (AI) in contexts involving children and adolescents.
+
+The MEP must not only lead the integration of AI tools into the educational system but also train teaching staff to acquire the necessary skills to maximize the use of these technologies. This includes equipping educators with the tools required to identify, mitigate, and properly manage any misuse or inappropriate application of AI by the student community.
+
+For its part, PANI is responsible for ensuring that robust measures are implemented to protect minors from potential abuses and risks associated with AI use.
+
+Collaboration between these two institutions will enable the development of policies and protocols that not only promote the acquisition of digital skills among young people but also establish a strong framework for protection, guaranteeing a safe and enriching environment for the integral development of minors."
+"3","","AI for older adults","","","AI offers significant potential to improve the well-being and quality of life of older adults, especially in critical areas such as health, mobility, and digital inclusion. In the field of health, AI can facilitate continuous monitoring of chronic conditions through smart medical devices that collect and analyze data in real time, enabling rapid and personalized interventions. These advancements not only improve medical care but also promote the independence and autonomy of older adults, reducing the need for hospitalizations and intensive care (Esteva and Topol, 2019).
+
+Additionally, AI can play a fundamental role in enhancing the mobility of older adults through assistive technologies such as smart wheelchairs, exoskeletons, and autonomous vehicles. These innovations can help overcome physical limitations, offering greater freedom of movement and improving overall quality of life. However, for these technologies to be effective, it is essential that they are designed with an accessibilityfocused approach, ensuring they are easy to use and adaptable to the individual needs of users (Fisk et al., 2020).
+
+Digital inclusion is another key area where AI can have a positive impact on the lives of older adults. However, one of the greatest challenges is digital literacy. Many older adults lack the necessary skills to use digital technologies, which can lead to their exclusion from the benefits AI offers.
+
+To address this challenge, it is crucial to implement specific training programs tailored to the pace and Children and adolescents are vulnerable to data manipulation, exposure to inappropriate content, and the exploitation of sensitive data for commercial purposes.
+
+learning capabilities of this demographic group. These programs should be promoted in community centers and through public initiatives, ensuring that older adults not only have access to technology but also feel comfortable and confident using it (Cinalioglu et al., 2023).
+
+The design of policies that promote accessibility and digital inclusion for older adults is a priority.
+
+These policies could include subsidies for accessible devices, the promotion of simplified interfaces, and support for networks providing specialized technical assistance. Only through an inclusive approach adapted to the specific needs of older adults can it be ensured that this demographic group fully benefits from the opportunities AI offers, avoiding their marginalization in an increasingly digital society."
+"3","","AI and People with Disabilities","","","AI has the potential to be a transformative tool for improving accessibility and independence for people with disabilities. AI-powered assistive technologies are designed to facilitate communication, mobility, and access to information, empowering people with disabilities to participate fully and actively in society. These innovations not only address physical and sensory barriers but also promote autonomy and enhance quality of life.
+
+In the field of communication, AI has driven the development of technologies such as voice recognition systems and predictive text generation devices, which are particularly beneficial for individuals with speech or motor disabilities. For example, people with cerebral palsy or amyotrophic lateral sclerosis (ALS) can use AI-based eye-tracking devices to control computers and communicate effectively (Wang et al., 2019). These tools not only simplify daily interactions but also open new opportunities for education and employment.
+
+Mobility is another area where AI has had a significant impact. Robotic exoskeletons and smart wheelchairs that use AI algorithms to adapt to users’ needs, enable individuals with motor disabilities to move more easily and safely. These technologies are also improving accessibility in urban environments through the implementation of assisted navigation systems for people with visual impairments. Such systems use AI to recognize and describe obstacles in real time (Biondi et al., 2023).
+
+Access to information is fundamental to the inclusion of people with disabilities, and AI plays a key role in this area. Tools such as AI-powered screen readers and automatic audio-to-text transcription systems allow individuals with visual or hearing impairments to independently access digital content.
+
+However, for these technologies to be genuinely inclusive, they must be designed with diverse user needs in mind. This requires not only creating accessible and user-friendly interfaces but also involving people with disabilities actively in all stages of technology design and development (Shinohara and Wobbrock, 2011 cited by Buker et al., 2024).
+
+It is essential that public policies promote the development and adoption of AI-based assistive technologies, ensuring that they are accessible and affordable for all individuals with disabilities.
+
+Additionally, research and innovation in this field should be encouraged, fostering collaboration among developers, academic institutions, and organizations representing people with disabilities to create solutions that address the real needs of this community. Only through an inclusive and participatory approach can AI fulfill its promise to improve accessibility and independence for all individuals.
+
+It is essential for public policies to promote the development and adoption of AI-based assistive technologies, ensuring they are accessible and affordable for all people with disabilities."
+"2","","Guiding Principles","","","2
+
+In alignment with the technical and ethical responsibility that underpins this strategy, Costa Rica acknowledges its commitments, particularly UNESCO’s recommendation on AI ethics and the OECD AI Principles.
+
+Guiding principles in AI are essential to steer its development and application responsibly, ensuring that it benefits society as a whole while minimizing potential risks. These principles help create an ethical framework that fosters innovation, transparency, and equity in this field.
+
+For this reason, the NAIS is based on guiding principles centered on individuals, which are fundamental in any context, including the digital one. Below are the principles of the NAIS:"
+"3","Guiding Principles: 1","Peace and human dignity","numbered","","By integrating peace as a key pillar, the strategy seeks to ensure that the development and application of AI are conducted ethically and responsibly, promoting inclusion and avoiding conflict.
+
+This includes discouraging the use, implementation, and development of AI systems for military purposes. The strategy reinforces Costa Rica’s pacifist identity and establishes a model for using technology to benefit society as a whole. AI should be a tool for development and stability, not a source of division or inequality.
+
+This principle aligns with Sustainable Development Goal (SDG) 16, which promotes peaceful and inclusive societies.
+
+Human dignity is an inherent and fundamental value, an inalienable right central to the essence of every human being.
+
+This dignity is closely linked to the free development of personality, as well as to the right to physical and moral integrity, freedom of thought and belief, honor, personal and family privacy, respect for one’s image, education, work, and other economic, social, and cultural rights that enable the development of the individual.
+
+AI should be a tool for development and stability, not a source of division or inequality.
+
+Technological advancement must fundamentally respect human dignity, life, and the life plans of each individual, always seeking a balance that promotes collective well-being.
+
+This well-being necessarily includes the development of skills and abilities that enable people to participate in technological progress through education, job opportunities, inclusion, and equity.
+
+Under this principle, the operation of AI systems must be directed toward the common good, avoiding harm and ensuring that technological progress promotes collective welfare. It must be guaranteed that any use of data and AI technologies respects these values, restricting actions that could compromise human dignity."
+"3","Guiding Principles: 2","Human Oversight","numbered","","The principle of human oversight focuses on maintaining ultimate human control over systems that use AI, ensuring that ethical and legal responsibility can always be clearly attributed to individuals or legal entities at any stage of these systems’ lifecycle. Although AI systems may be employed for their efficiency and ability to support decision-making and task execution, ultimate responsibility and accountability always lie with humans.
+
+Critical decisions, particularly those with significant implications such as life-or-death scenarios, can never be fully delegated to AI. Continuous and effective human oversight is essential to ensure that AI systems operate within established ethical and legal boundaries.
+
+Human oversight must be both individual and public, inclusive of mechanisms for control and auditing that enable effective human intervention whenever necessary.
+
+To ensure human oversight, various practical strategies can be implemented. For instance, in the healthcare sector, any diagnosis assisted by Artificial Intelligence (AI) must be reviewed and approved by a medical professional before it is communicated to the patient. In the judicial sector, algorithms that assist decision-making must be transparent and subject to review by judges and other justice officials to ensure that final decisions are fair and equitable.
+
+The importance of human supervision and control is emphasized to ensure accountability and responsibility
+
+Ensuring that AI is accessible to all sectors of society, respecting differences in age, ethnicity, gender, religion, economic capacity, and educational level.
+
+in the use of AI. Additionally, preserving human dignity and human rights in all technological applications is essential, ensuring that humans retain control over decisions that significantly affect people’s lives and well-being.
+
+Human oversight is fundamental to ensuring that AI is used ethically and responsibly, protecting the rights and dignity of all individuals. This principle reinforces the need to maintain human intervention and control in all critical aspects of AI development and usage."
+"3","3","Transparency and Explainability","numbered","","Entities developing and implementing AI systems must provide comprehensible, context-appropriate information that explains both the capabilities and limitations of AI. This is crucial to enable users to understand how and when they interact with AI and how it impacts their professional and personal environments.
+
+People will always have the right to know when they are interacting with AI and have the prerogative to decide that AI should not affect them.
+
+It is essential to provide clear details about data sources and the processes leading to automated decisions so individuals can understand and, if necessary, challenge these outcomes. This commitment to transparency is also vital to strengthen accountability and trust, particularly in the public sector.
+
+The implementation of AI systems must be auditable and adhere to legal and accountability standards, with effective governance and the possibility of human oversight.
+
+To ensure transparency and access to information, several practical strategies can be applied. For example, in the governmental sphere, any automated decision affecting citizens should be accompanied by a clear and accessible explanation of how the decision was made, including the data and algorithms used.
+
+In the private sector, companies must inform customers when AI is used in their services and provide options for users to opt out of being affected by these systems."
+"3","Guiding Principles: 4","Equity and non-discrimination","numbered","","AI systems must be designed and operated to promote inclusion and avoid perpetuating or creating new forms of discrimination.
+
+This includes ensuring that AI is accessible to all sectors of society, respecting differences in age, ethnicity, gender, religion, economic capacity, and educational level, while adapting systems to be culturally and linguistically appropriate.
+
+Equity in AI requires all involved stakeholders, from designers to implementers, to commit to minimizing biases in algorithms and databases that could negatively influence automated decisions. This involves conducting continuous audits and tests to identify and correct any potential biases in AI systems. Furthermore, policies and procedures must be implemented to promote diversity and inclusion at all stages of the AI system lifecycle.
+
+To ensure equity and non-discrimination, it is essential to create opportunities for training and skills development in emerging technologies for everyone. This includes specific training programs for underrepresented groups, ensuring they have access to the opportunities and benefits offered by AI.
+
+Similarly, it is essential for public policies to promote equal access to education and training in People will always have the right to know when they are interacting with AI.
+
+AI technologies, thereby fostering the inclusive and equitable development of AI."
+"3","5","Accountability","numbered","","The principle of accountability stipulates that all stakeholders involved in the lifecycle of systems utilizing AI must assume ethical and legal responsibility for their operations and impacts. This principle ensures that all actions and decisions influenced by these systems can be attributed to individuals or legal entities, thereby guaranteeing clear and effective accountability.
+
+Accountability in the context of AI not only involves overseeing and controlling automated operations but also requires the ability to intervene and correct the system when necessary.
+
+Actors involved in the lifecycle of AI systems must implement robust mechanisms for oversight, impact assessment, and auditing to ensure transparency and traceability of decisions and processes. This includes guaranteeing that critical decisions, particularly those with significant consequences for human rights and environmental well-being, remain under the supervision of competent human oversight.
+
+It is essential to promote collaboration among diverse stakeholders, including the public sector, academia, civil society, and the private sector, to develop an inclusive and equitable AI governance framework. Such governance must adapt to technological and social changes and enable effective participation from communities, especially those in vulnerable conditions, in the development and use of AI.
+
+Implementing these mechanisms ensures that AI is used ethically and responsibly, protecting the rights and dignity of all individuals while fostering trust in these technologies. Therefore, it is crucial to establish accountability and mechanisms for clear responsibility in the use of AI to guarantee safety, transparency, and trust."
+"3","6","Sustainability and well-being","numbered","","The principle of sustainability and well-being is grounded in the active promotion and contribution to sustainable development across its multiple dimensions: social, economic, environmental, and cultural.
+
+In this context, all stakeholders involved in the lifecycle of AI systems must continuously evaluate the impacts of these technologies on society, animal life, and the environment, adopting a holistic approach that considers both the advantages and potential adverse effects.
+
+The sustainability of AI requires ensuring that its deployment and operation contribute to equity, inclusion, and the protection of the natural environment while promoting inclusive growth and human creativity.
+
+Those responsible for implementing these systems must commit to responsible management that aligns technological innovation with environmental and social ethics, ensuring that all technological advancements strengthen human capacities.
+
+It is essential that AI is used in ways that respect and protect not only human life but also animal life and ecosystems. This includes avoiding applications that may harm fauna and flora and fostering technologies that support biodiversity and the restoration of natural habitats.
+
+Integrating sustainability principles into the development and use of AI also involves reducing energy consumption and minimizing technological waste, thus promoting more eco-friendly practices in the creation and maintenance of AI systems.
+
+7. Security, cybersecurity, and information protection.
+
+AI must be developed and applied securely, protecting individuals and the nation. It is crucial to identify and mitigate risks that AI may pose to ensure safety and trust in these technologies. This principle emphasizes the need for AI systems to be robust, secure, and reliable throughout their lifecycle, ensuring proper functionality under normal conditions of use as well as foreseeable misuse or adverse conditions.
+
+To guarantee safety and cybersecurity, mechanisms must be implemented to allow for supervision, intervention, and, if necessary, the safe deactivation of systems exhibiting unwanted or potentially harmful behavior. This includes the ability to safely repair or withdraw such systems, preventing undue harm to individuals, the environment, or institutions. Additionally, the integrity of information must be strengthened by developing
+
+All actions and decisions influenced by AI systems must be attributed to natural or legal persons, ensuring clear and effective accountability.
+
+secure, sustainable data access frameworks that respect privacy.
+
+AI security and cybersecurity also entail the creation of resilient systems capable of withstanding and quickly recovering from cyberattacks or technical failures. Developers and implementers of AI must ensure that systems are auditable and adhere to data protection and security regulations.
+
+This includes adopting security-by-design practices, implementing robust access controls, encrypting data, and establishing measures to protect against fraud and data manipulation."
+"2","","Cross-cutting Principles","","",""
+"3","Cross-cutting Principles: 1","Gender Approach","numbered","","The gender approach must be a cross-cutting principle in all phases of AI development and application. This involves ensuring that technologies do not perpetuate or amplify existing gender inequalities.
+
+Specific measures must be implemented to guarantee that women and other gender groups are not discriminated against and have equal access to the opportunities and benefits of AI. Additionally, it is necessary to promote the active participation of women in science, technology, engineering, and mathematics (STEM) and at all levels of AI development and governance."
+"3","Cross-cutting Principles: 2","Inclusion and accessibility","numbered","","AI must be developed and applied in ways that are accessible and inclusive to all individuals, regardless of age, gender, ethnicity, economic capacity, educational level, or disability.
+
+This includes designing systems that are culturally and linguistically appropriate and ensuring that technologies are available and usable by people with disabilities.
+
+3. Data protection, intellectual property, and privacy.
+
+Data protection, privacy, and intellectual property must be central considerations in all AI applications.
+
+This involves implementing strong security measures and strengthening legal frameworks to ensure that personal data is handled securely and ethically, and that individuals’ privacy rights are respected and protected.
+
+Furthermore, robust mechanisms must be established to safeguard intellectual property, ensuring that the creations and knowledge used in AI development are properly recognized and protected, respecting the rights of authors and creators."
+"3","Cross-cutting Principles: 4","Promoting R+D+i","numbered","","Research, development, and innovation in the field of AI must be responsibly promoted, ensuring that technological advancements equitably benefit all of society while always protecting human life.
+
+This includes fostering collaboration among the public sector, academia, civil society, the private sector, and international organizations to develop AI technologies that address the needs and challenges of society as a whole.
+
+It is crucial to create an environment that encourages advanced research and continuous innovation, ensuring that new technologies are accessible and useful to diverse population sectors, contributing to social and economic progress in an inclusive and sustainable manner.
+
+5. Education and training.
+
+Education and training are essential to ensure that all individuals have the necessary skills to use and benefit from AI.
+
+This includes integrating AI education into school, technical, and university curricula, as well as offering continuous training programs for workers across all productive sectors."
+"3","","Guiding and Cross-Cutting Principles of the Strategy","","","The integration of sustainability principles into the development and use of AI also includes reducing energy consumption and minimizing technological waste, thereby promoting more eco-friendly practices in the creation and maintenance of AI systems.
+
+Strategic Risk — Management — Strategic Risk Management
+
+3"
+"2","","Reference Regulatory Framework","","","The global approach to managing and classifying risks associated with AI systems varies significantly across major regions and international organizations, reflecting differing priorities and regulatory frameworks.
+
+The European Union, through the AI Act (which came into effect on August 1, 2024, and will be implemented gradually over a period of up to 36 months), adopts a strict regulatory approach that classifies AI systems into four levels of risk: unacceptable, high, limited, and minimal. This framework rigorously regulates high-risk systems that may affect fundamental rights, imposing compliance requirements before their deployment.
+
+In contrast, the United States, through the NIST AI Risk Management Framework, offers an approach that does not explicitly classify AI systems by risk level, but rather provides guidelines for organizations to evaluate and manage risks based on their specific context. This framework promotes transparency, fairness, and robustness, allowing organizations to adapt their risk mitigation strategies in a more contextualized manner. Similarly, the Hiroshima AI Process (HAIP), to which Costa Rica is a signatory, emphasizes the need for comprehensive risk assessments of AI systems before deployment. This includes not only technical risks but also ethical, social, and human rights risks.
+
+Risk assessment is viewed as a fundamental tool for anticipating and mitigating potential negative impacts of AI, particularly in high-risk applications such as security, justice, and surveillance.
+
+The OECD, through its AI Principles, establishes a framework based on transparency, accountability, and robustness without defining a specific risk classification system. Conversely, this framework encourages the adoption of best practices for managing AI risks, leaving governments and organizations responsible for evaluating and mitigating these risks adaptively.
+
+Together, these approaches represent a spectrum ranging from the European Union’s strict and regulated framework to the more flexible and adaptive guidelines of the United States and the OECD.
+
+Risk assessment is seen as a fundamental tool for anticipating and mitigating potential negative impacts of AI."
+"2","","Key Risks Associated with AI in Costa Rica","","","Research and expert opinions suggest that the future impacts of Artificial Intelligence (AI) could vary widely, promising significant socio-economic benefits while also presenting substantial risks that must be addressed.
+
+AI offers enormous potential advantages, such as productivity improvements, accelerated scientific progress, and assistance in combating climate change. However, it also poses critical risks, including the spread of misinformation and threats to human rights (OECD, 2024). The main risks associated with AI usage, supported by recent research, are outlined below:
+
+1. Impact on Employment: AI-driven automation could significantly displace the workforce across various sectors, creating a pressing need for precise public policies (Author, 2022).
+
+2. Impact on Human Behavior: AI can reshape social norms and individual autonomy, particularly when used to manipulate behaviors through recommendation systems or targeted advertising (Susser et al., 2024).
+
+3. Bias and Discrimination: Training data for AI systems can contain historical or cultural biases, leading AI to automate and amplify these biases, resulting in discrimination in critical areas such as hiring, bank lending, and law enforcement (Nzama-Sithole, 2023).
+
+4. Cyberattacks:
+
+AI systems are vulnerable to cyberattacks that could disrupt their functionality, with potentially devastating consequences for critical systems such as electrical grids, financial systems, and healthcare networks (Hine et al., 2024).
+
+5. Personal Data and Privacy: AI relies on vast amounts of data for its operation, raising serious concerns about the privacy and security of personal information. Unauthorized access or misuse of this data could lead to privacy violations affecting individuals and groups (Pew Research Center, 2022).
+
+6. Autonomous decision-making: The ability of AI to make decisions without human intervention presents ethical dilemmas, particularly in AI can offer enormous benefits in the future, such as improvements in productivity, acceleration of scientific progress, and support in the fight against climate change.
+
+However, it also presents critical risks, including the spread of misinformation and threats to human rights.
+
+contexts where such decisions could have significant implications for people’s lives, such as in healthcare (Stone and Mittelstadt, 2024) .
+
+7. Military Use and Surveillance: The development of Artificial Intelligence (AI) technologies for military and surveillance purposes raises ethical debates about the militarization of AI and the potential for abuse in mass surveillance. These discussions focus on the morality of automating armed conflict and the implications for civil rights (van Diggelen et al., 2023).
+
+8. Generation of False Content: AI can generate highly convincing false content, such as deepfake videos and fake news, which can be used to misinform and manipulate public opinion, eroding trust in the media and democratic institutions (Nieweglowska et al., 2024).
+
+9. Influence on Citizen Decisions: AI can significantly impact political and social decisions, ranging from resource allocation in public administration to the design of data-driven policies. These decisions, often motivated by algorithmic efficiency rather than humanistic considerations, may negatively affect social equity and justice (Zuboff, 2023).
+
+10. Technological Dependency: The increasing reliance on automated systems and AI solutions can lead to workforce “de-skilling,” where human skills deteriorate as machines perform complex tasks. This dependency increases vulnerability in the event of AI failures (Crawford, 2021).
+
+11. Inequality in Access to Technology: Uneven implementation of AI solutions may widen the digital divide, exacerbating existing inequalities in education, healthcare, and economic opportunities among different populations and countries (Capraro et al., 2024).
+
+12. Impact on Climate Change: Training AI models is highly energy-intensive. For instance, a single AI model can emit over 284 tons of CO2, equivalent to five times the emissions of an average car throughout its lifetime (Chen et al., 2023). This highlights the urgency of developing AI sustainably, prioritizing energy efficiency and the adoption of renewable energy sources."
+"3","","AI Risks Identified for Costa Rica","","","The growing reliance on automated systems and AI solutions can lead to “de-skilling” in the workforce.
+
+13. Impact on Creativity and Innovation: While AI can enhance efficiency in various processes, there is a concern that it may limit human creativity and innovation by prioritizing solutions based on historical patterns and data (Magni et al., 2024)."
+"3","14","Interpretation","numbered","","Issues and Inappropriate Contexts: AI systems can fail to interpret the social or cultural context of their applications correctly, leading to errors or inappropriate decisions. For example, facial recognition systems often exhibit higher error rates for certain demographic groups (Buolamwini and Gebru, 2018).
+
+15. Obsolescence and Maintenance of AI Systems:
+
+Maintaining and updating AI systems can be costly and technically challenging, particularly when models need to adapt to new data or circumstances. This creates significant risks regarding security and functionality (Hao and Liu, 2024; Kaplan and Haenlein, 2020)."
+"2","","Reference Framework for Costa Rica","","","Costa Rica faces the challenge of ensuring that AI is implemented in alignment with the guiding principles of this strategy.
+
+To address this challenge, it is essential to design a robust framework that allows for the identification, evaluation, and classification of risks associated with AI systems, ensuring that their design, development, and use do not compromise the fundamental principles of Costa Rican society.
+
+The following framework is inspired by work undertaken by the United States, the European Union (EU), the Organisation for Economic Co-operation and Development (OECD), and the Hiroshima AI Process (HAIP), while proposing an approach tailored to Costa Rica’s realities.
+
+Its objective is to effectively manage AI risks and ensure their positive contribution to the social and economic well-being of Costa Rica."
+"3","","Risk Classification","","","For the purposes of this strategy, four levels of risk are established, based on the AI Act of the European Union, but adapted to the realities and strategic priorities of Costa Rica:
+
+a. Unacceptable Risk: AI systems whose use is prohibited due to posing a significant threat to human rights, public safety, or Costa Rica’s fundamental values. Examples include technologies for unauthorized weaponry, technologies enabling mass facial recognition for surveillance, and social scoring systems.
+
+b. High Risk: AI systems that may have a significant impact on people’s lives, particularly in sensitive sectors such as healthcare, education, and justice. These systems require rigorous evaluations before deployment, constant human oversight, and regular audits to ensure compliance with national ethical and legal principles.
+
+c. Medium Risk: AI systems that, while not directly impacting fundamental rights, may affect equity and social justice if not managed appropriately. Examples include recommendation systems on digital platforms and AI tools for public administration. These systems must meet requirements for transparency and accountability and be subject to periodic reviews.
+
+d. Low Risk: AI systems used in applications that do not have a significant impact on people’s lives, such as spam filters or AI in video games. These systems require minimal monitoring and must comply with basic security and functionality standards."
+"3","","Risk Assessment","","","For each identified risk level, the following mitigation measures must be implemented:
+
+a. Impact on Fundamental Rights: Evaluate how the AI system may affect individuals’ privacy, autonomy, and other fundamental rights.
+
+b. Potential Bias and Discrimination: Analyze the training data and algorithms to identify and mitigate potential biases that could result in discrimination.
+
+c. Cybersecurity: Assess the system’s vulnerability to cyberattacks and its capacity to withstand security threats.
+
+d. Transparency and Explainability: Ensure that the system’s functionality is understandable to users and that automated decisions can be explained and justified.
+
+e. Enviromental Impact: Consider the energy consumption and carbon footprint of the AI system, promoting the adoption of renewable energy sources and energy efficiency."
+"3","","Mitigation Measures","","","For each identified risk level, the following mitigation measures must be implemented:
+
+a. Unacceptable Risk: Prohibit the development or use of these systems in Costa Rica..
+
+b. High Risk: Requirement for detailed impact assessments before implementation, mandatory human oversight, third-party audits, and clear accountability mechanisms.
+
+c. Medium Risk: Implementation of transparency measures, periodic reviews by ethical and technical committees, and mechanisms for correction and continuous improvement.
+
+d. Low Risk: Compliance with basic security and functionality standards, along with continuous monitoring to detect potential failures or areas for improvement."
+"3","","Audit and Review","","","The framework proposes conducting regular audits, both internal and external, to verify compliance with established standards. These audits will focus on identifying new risks, evaluating the effectiveness of implemented mitigation measures, and reviewing automated decision-making processes."
+"3","","Adaptability and Continuous Improvement","","","The framework will be adaptable and under constant review to integrate new knowledge and technologies.
+
+Continuous improvement will be encouraged through feedback from users and experts, as well as periodic updates to regulations and guidelines based on advancements in the AI field."
+"2","","Risk Management and Response to AI Incidents","","","In the context of Costa Rica’s digital transformation, it is essential to strengthen the capabilities of the National Agency for Digital Government (NADG) and the Cybersecurity Directorate of the MICITT to effectively manage risks and respond to incidents related to artificial intelligence.
+
+The NADG must lead the secure and efficient implementation of AI projects in the public sector, ensuring interoperability. Meanwhile, the Cybersecurity Directorate must focus on mitigating cyber risks and act as a comprehensive response center equipped with advanced tools to address threats and protect the country’s digital infrastructure. These efforts will ensure that the adoption of AI is carried out securely and for the benefit of society."
+"3","","National Agency for Digital Government","","","The National Agency for Digital Government (NADG) plays a fundamental role in the digital transformation of public institutions in Costa Rica. Within the context of this strategy, its role becomes even more critical, particularly in risk management and the provision of AI-related services.
+
+To achieve this, it is crucial to strengthen the NADG so that it can effectively address the challenges brought by the implementation of AI in public administration, with the participation of key stakeholders such as academia, the private sector, and civil society. The NADG’s ability to manage associated risks and provide advanced technological services to other institutions will be a cornerstone in ensuring efficiency, security, and transparency in the use of AI in the public sector.
+
+Within this framework, under the legal mandate of the NADG, the following strategic lines aligned with its functions are highlighted:"
+"3","","This strategy adopts the European","","","Union’s definition of risk, which classifies it into: unacceptable risk, high risk, medium risk, and low risk.
+
+The implementation of this framework will be carried out through the strategic lines included in the ENIA Action Plan, as well as the guidelines established in the National Digital Technologies
+
+Code (CNTD), issued by MICITT and formalized through Executive Decree No. 44507-MICITT, whose scope of application will be determined by that regulatory body.
+
+a. Development and Administration of Cross-
+
+Cutting Projects: The NADG must lead the development and administration of AI projects in the public sector, ensuring that the services offered are secure, efficient, and standardized. This includes creating interoperability platforms that enable institutions to exchange information securely and effectively, minimizing cybersecurity risks.
+
+b. Technical Support and Advisory Services:
+
+The NADG is authorized to provide technical support to public institutions for integrating AI solutions that not only improve operational efficiency but also mitigate potential associated cyber risks. The NADG must also assist in the development of strategic plans that incorporate risk management as a central component.
+
+c. Control and Administration of Public Resources: The NADG will be responsible for efficiently managing the resources allocated to AI projects, in accordance with its regulatory and legal framework, ensuring that these resources are used effectively to maximize their impact on improving citizen services. Proper allocation and use of these resources will help mitigate financial and operational risks associated with AI implementation.
+
+d. Development of Collaborative Spaces: The NADG can facilitate collaboration among public institutions, the private sector, and academia to implement AI projects that manage risks and promote innovation in the public sector. This collaborative approach will ensure the development of integrated and secure solutions, leveraging the best practices and knowledge available.
+
+e. Executor of Interoperability: Interoperability is key to managing risks in AI implementation. The NADG can promote the secure and efficient communication and data sharing between AI systems in the public sector, minimizing vulnerabilities and enhancing response capabilities during incidents.
+
+f. Mitigation of Diverse Risks: By developing cross-cutting projects, the NADG will be able to address and mitigate a variety of risks associated with AI, adapting to different sectors and scenarios. For instance, AI can be used to evaluate and correct biases in automated decision-making algorithms in public institutions and to predict and prevent failures in critical infrastructure through continuous monitoring and predictive analysis.
+
+g. Risk Assessments and Contingency Plans for AI: The Directorate will coordinate risk assessments that include the potential impact of AI-related incidents and propose mitigation measures. The development of contingency and disaster recovery plans must consider specific scenarios where AI plays a central role, ensuring business continuity and the resilience of public systems in the face of potential AI failures or attacks.
+
+In its role as a facilitator and executor of Costa Rica’s digital transformation, the NADG aligns strategically with the objectives of the NAIS to manage risks and maximize the benefits of AI in public administration.
+
+This includes not only the development, execution, and administration of cross-cutting projects and services in digital government, but also the creation of a collaborative and secure environment that allows public institutions to adopt AI efficiently and responsibly."
+"3","","Cybersecurity Directorae of MICITT","","","To reinforce the framework and effectively manage incidents associated with the misuse of AI, the Cybersecurity Directorate (CD) of the MICITT will be strengthened by equipping it with advanced digital forensic analysis capabilities.
+
+These capabilities will include AI-based specialized tools designed specifically to identify and mitigate incidents related to this technology.
+
+h. Development of Forensic Capabilities: The CD will be equipped with a suite of advanced AI tools capable of efficiently detecting and managing a wide range of incidents related to AI systems. These tools will be able to identify anomalous patterns in large volumes of financial data, suggesting possible fraudulent activities or money laundering. Additionally, they will be essential for real-time analysis of data traffic, enabling the rapid identification of potential cyberattacks detecting manipulations or alterations in digital content that could compromise the integrity and security of individuals.
+
+i. Incident Response in Various Contexts: The Directorate will act as a comprehensive response center capable of managing not only incidents related to content manipulation but also a broad range of adverse events linked to the use of AI in different contexts.
+
+j. Efficient Response to AI Incidents: The Incident Response Center (IRC) will be strengthened to ensure preparedness for responding to AI-related incidents, such as failures in autonomous decision-making or adverse manipulations of algorithms. This will involve coordinating with various institutions to ensure the rapid and effective containment of threats, as well as providing technical guidance on how to restore systems affected by AI incidents, minimizing the impact on public services.
+
+k. Strengthening Resilience and Security in Digital
+
+Infrastructure Using AI: The Cybersecurity Directorate, through its Cybersecurity Operations Center (SOC), must enhance its specific capabilities to monitor and protect AI systems within critical infrastructures. This will include the surveillance of AI systems used by public institutions, ensuring that algorithms and models are protected against cyberattacks and emerging vulnerabilities.
+
+l. Normative and Security Standards for AI: It is vital for the Directorate, in coordination with the Innovation Directorate, to promote the implementation of cybersecurity regulations and standards that include specific guidelines for AI systems. These regulations must ensure that the development and implementation of AI in the public sector comply with the highest security standards, protecting both digital infrastructure and the personal data managed by these systems.
+
+m. Training and Multidisciplinary Collaboration:
+
+The CD staff will receive specialized training to ensure they are prepared to address all risks that AI may present. Moreover, the Agency will actively collaborate with international organizations and technological platforms to share knowledge and continuously improve its response capabilities.
+
+The NADG plays a fundamental role in the digital transformation of public institutions in Costa Rica.
+
+n. International and Forensic Collaboration in AI Incidents: Given the global nature of cyber threats, the Directorate must strengthen its collaboration with international agencies and other countries to share information on AI-related incidents. Additionally, the IRC must specialize in post-incident forensic analysis, enabling the identification of root causes in AI system failures and supporting judicial authorities in cases with legal implications.
+
+o. Best Practices for the Use and Training of AI:
+
+The Cybersecurity Directorate of the MICITT will promote the adoption of recommended cybersecurity practices for the use and training of AI systems to ensure ethical and secure behavior of models. These guidelines will align with principles of transparency, security, and accountability.
+
+p. Cybersecurity by Design: The Directorate will encourage the concept of “security by design” in the development of AI systems, integrating security principles from the earliest phases of model construction. This approach will reduce the attack surface and ensure the integrity and protection of systems throughout their lifecycle.
+
+The MICITT Cybersecurity Directorate will promote the adoption of recommended cybersecurity practices for the use and training of artificial intelligence systems."
+"2","","Key Stakeholders","","","4
+
+Various stakeholders play an essential role in the processes of adapting and integrating information technologies in Costa Rica.
+
+In the field of AI, several key entities from both the public and private sectors will have strategic roles as promoters, drivers, and implementers of AI-related projects and programs. Among these, specific institutions will be fundamental to advancing AI in the country.
+
+To improve understanding and usability, the following table includes key stakeholders with their roles and responsibilities clearly defined."
+"2","","Public Sector","","","Government and regulatory entities will play a decisive role in defining policies and regulatory frameworks for AI. These actions will cover a wide range of aspects, including AI ethics, data protection, algorithmic transparency, and accountability in the use of automated technologies.
+
+Additionally, international collaboration will be key to establishing global standards that guide the development and implementation of AI. This will allow for harmonizing regulations and promoting ethical and responsible practices worldwide.
+
+Public Sector Stakeholders — The private sector is a key catalyst for the promotion and implementation of AI within the"
+"2","","Private Sector","","","The private sector serves as a significant catalyst for the promotion and execution of AI within the innovation ecosystem.
+
+Its role extends beyond the implementation of AI solutions, encompassing leadership in the innovation and adoption of these technologies at the national level.
+
+Additionally, the private sector is fundamental in creating strategic alliances and technological conglomerates that foster investment in AI projects, both locally and internationally.
+
+innovation ecosystem.
+
+Private Sector Stakeholders"
+"2","","Academia and Education Sector","","","Academia is the central pillar of research, development, and advancement in AI, acting as the primary driver of this technology. Universities and research centers are the main national catalysts, offering an environment conducive to experimentation and technological innovation.
+
+Academia Stakeholders"
+"2","","Civil Society","","","Civil society plays a vital role in shaping the local AI ecosystem. Its primary responsibility is to establish connections between communities, industries, and governmental authorities, ensuring that the specific needs and concerns of citizens are heard and addressed."
+"3","","Civil Society Stakeholders — Academia is the central pillar in","","","AI research, development, and advancement, serving as the main driver of this technology."
+"2","","International Organizations","","","International organizations act as intermediaries and high-level advisors for governments seeking to foster the development of AI.
+
+Their responsibilities include creating connections between countries and disseminating global best practices, policies, and technical standards that guide the integration of AI into national agendas."
+"3","","International Stakeholders","","","International organizations act as intermediaries and high-level advisors for governments seeking to promote AI development.
+
+Enabling Mechanisms
+
+5"
+"2","","Technological Enablers","","","Technological enablers refer to technologies and management processes that directly facilitate and enhance the development of AI. Certain lines of action and public interventions cannot be carried out, or are significantly limited, without the joint development of these enablers.
+
+AI."
+"2","","Cloud Computing and Accelerated Data Centers","","","The continuous use of new technologies has prompted a reevaluation of current technological applications. Services such as virtual assistants and advanced chatbots rely on cloud computing services, encompassing applications as a service, platforms as a service, and infrastructure as a service.
+
+As the use of these services grows, managing larger volumes of data to power AI becomes increasingly critical, highlighting the need for improved infrastructure and greater utilization of cloud computing.
+
+AI technologies enable nodes to be self-aware and manage data loads intelligently. An additional alternative to consider is advanced computing in Institutional Data Centers through hybrid infrastructure (Gartner, 2023).
+
+Big Data.
+
+Big Data and AI share a synergistic relationship. AI requires vast amounts of data to learn and improve decision-making processes, while Big Data analytics leverages AI for more effective data analysis.
+
+This convergence facilitates advanced analytical capabilities, such as predictive or augmented analytics, enabling more efficient extraction of actionable insights from large data repositories.
+
+By combining Big Data and AI technology, businesses can improve performance and efficiency by anticipating and capitalizing on emerging industry and market trends, analyzing consumer behavior, automating customer segmentation, personalizing and optimizing digital marketing campaigns, and utilizing intelligent decision-support systems powered by Big Data, AI, and predictive analytics.
+
+The country must ensure ethical and secure access to information sources to promote the responsible use of"
+"2","","Internet of Things","","","The Internet of Things (IoT) relies on the integration of sensors into various machines and even individuals. These sensors generate data streams into networks that enable communication between “things,” or physical objects. Any IoT application or service follows five basic steps: create, communicate, aggregate, analyze, and act.
+
+AI converges with IoT in the last two steps. AI enables data analysis to incorporate creativity and context, allowing smarter decisions based on sensorgenerated information. This significantly improves process efficiency, equipment maintenance, and risk management.
+
+Additionally, AI enhances the scalability of IoT networks by summarizing or synthesizing the vast data exchanged by connected devices, transferring only the information necessary for efficient operation."
+"2","","5G and Beyond Networks","","","AI can address challenges in designing and managing 4G, 5G, and next-generation mobile networks. By utilizing large data volumes, AI optimizes the planning and operation of these networks, improving site selection and radio spectrum management. In networks like IMT- 2030, AI enables ubiquitous intelligence, managing
+
+The country must consider ethical and secure access to information sources to enhance the responsible use of AI.
+
+technical complexities and adapting to diverse end-user requirements.
+
+AI applications in the Radio Access Network (RAN) include channel modeling, spectrum detection, channel quality estimation, and traffic analysis. In network management, AI enhances planning, fault diagnosis, and security. Self-organized networks (SON) autonomously adapt their performance, optimizing operations based on context.
+
+Additionally, AI detects illicit traffic patterns and base station spoofing, ensuring the security of mobile networks. The growing data volumes and complexity of 5G networks require a risk-based approach and adherence to international best practices, such as those outlined by the Organisation for Economic Co-operation and Development (OECD), to manage these advanced technologies responsibly.
+
+AI also organizes servers, assigns spectrum, and detects intrusions, optimizing latency, bandwidth, and reliability, ensuring that Costa Rica maintains its competitive advantages in this domain.
+
+Cybersecurity.
+
+AI offers numerous advantages and applications across a variety of areas, with cybersecurity being one of them. Given the rapid evolution of cyberattacks and the proliferation of connected devices, AI and machine learning can help stay ahead of cybercriminals, automate threat detection, and respond more effectively than conventional manual or software-based techniques (Zhang et al., 2022).
+
+For Costa Rica, AI’s evolution must align with significant advances in related areas. The National Artificial Intelligence Strategy is in harmony with the National Cybersecurity Strategy, particularly regarding the protection of essential services and the strengthening of the legal framework in cybersecurity and Information and Communication Technologies (ICT). This alignment is integrated with the strategic axes outlined in the current document.
+
+Data Governance.
+
+The Global Data Barometer compares 109 countries in terms of data governance, capacity, availability, use, and impact. Costa Rica ranks at the global average and below the Latin American average across all dimensions. Given AI’s critical dependence on data, it is essential for Costa Rica to address this technological and institutional gap.
+
+National efforts in digital governance must be complemented to bridge the gap with the Latin American average, focusing on an input data architecture for AI and oversight to eliminate biases in the data used by AI algorithms.
+
+Interoperability.
+
+Interoperability between applications and data is required for AI to use data effectively, both in terms of integrity and eliminating biases in input data. Interoperability is, therefore, a fundamental aspect of AI adoption within organizations.
+
+In this regard, and without prejudice to the provisions of other Digital Governance policies, at least the following actions must be undertaken: establish standards for input data and databases to be used and ensure that data usage complies with Law 8968, Protection of Individuals Regarding the Processing of Their Personal Data."
+"2","","Other Enablers — Regulatory Instruments","","","To ensure ethical and responsible AI development in Costa Rica, it is necessary to create and promulgate specific regulations, decrees, and guidelines to govern its implementation and use. These instruments must provide a clear framework guiding all stakeholders within the AI ecosystem, addressing operational, security, and ethical aspects.
+
+Executive decrees will establish clear guidelines for AI adoption in key areas such as public administration, education, and healthcare, while also serving as a guide for the private sector.
+
+Technical regulations and ethical guidelines will ensure that AI does not perpetuate discrimination or infringe upon fundamental rights, promoting transparency, accountability, equity, and inclusion."
+"2","","Public Investment in AI Innovation","","","Establishing dedicated budgets for Research, Development, and Innovation (R&D&I) in AI is critical for Costa Rica to advance technologically and maintain its global competitiveness.
+
+Allocating specific funds for R&D&I in AI will enable the financing of projects that drive the creation of innovative technologies, improve the efficiency of public and private services, and foster economic and social development.
+
+It is vital for the country to invest in the training of specialized talent and in the infrastructure needed to conduct advanced research and pilot projects across various sectors."
+"2","","Training and Education","","","Implementing educational and continuous training programs is essential to develop competencies in AI among professionals, public officials, and citizens in general.
+
+These programs must be designed to cover different levels of knowledge and application areas, ensuring that all segments of the population can benefit from the opportunities AI offers.
+
+AI education should begin in the early stages of the educational system, integrating into school and university curricula and extending to vocational and technical training programs.
+
+Continuous training is equally important to keep professionals and public officials updated on technological advancements. This includes workshops, online courses, certifications, and professional development programs addressing technical, ethical, and legal aspects of AI.
+
+AI training must be accessible and inclusive, ensuring that people of all ages, genders, and socioeconomic backgrounds acquire the skills needed to participate in the digital economy.
+
+By investing in AI education and training, Costa Rica will not only strengthen its human capital but also foster a culture of innovation and technological adaptation, essential for sustainable and competitive development."
+"2","","Strategic Framework","","","6
+
+AI has become a vector for change, transforming industries and sectors through its ability to revolutionize operational methods and decision-making paradigms. In this context, it is essential for organizations to adopt a robust strategic approach aligned with their business objectives and grounded in ethical and responsible principles.
+
+Deploying a well-defined strategic framework for AI is fundamental, providing a comprehensive roadmap for integrating AI into organizational operations. This framework must be holistic, encompassing conceptualization, implementation, and continuous monitoring to ensure that all AI applications are effective, secure, and ethically responsible."
+"2","","The Importance of a Strategic Framework","","","Costa Rica requires a strategic framework to capitalize on opportunities and mitigate risks associated with the advancement of AI. This technology offers significant benefits by improving business productivity through task automation and process optimization, facilitating decision-making, and strengthening competitiveness in the global economy.
+
+AI can significantly enhance the efficiency of Costa Rica’s public sector by improving policy formulation, resource management, and transparency in decision-making (Microsoft, 2019; 2024).
+
+Global investment in AI has shown exponential growth in recent years. According to a report by PwC (2020), the contribution of AI to the global Gross Domestic Product (GDP) is projected to reach USD 15.7 trillion by 2030, representing a significant increase from earlier estimates.
+
+This growth is attributed to improvements in productivity and personal consumption effects. The region contributing the most to this growth is Asia, led by China, which is expected to account for up to USD 7 trillion of the total (PwC, 2020). Additionally, the International
+
+Data Corporation (ICD) projects that global revenue from AI-centric systems will surpass USD 1.8 trillion by 2030, with a compound annual growth rate (CAGR) of 27.0%, reflecting the increasing integration of AI across various industrial sectors (Grand View Research, 2024).
+
+Implementing the National Artificial Intelligence Strategy (NAIS) is crucial for promoting education and developing technological skills in Costa Rica. Despite significant investment in education, there remains a shortage of research and specialized teams in AI and cybersecurity (International Science Ranking, 2023). A national strategy can guide educational efforts toward AI training, ensuring that the workforce is prepared for future challenges.
+
+At the social and cultural levels, the widespread adoption of AI continues to redefine labor norms and human interactions. As AI capabilities expand, so too do ethical concerns and debates surrounding privacy, data security, and equity. The implications of AI for autonomous decision-making and its influence on human behavior require careful consideration and adaptive regulations to mitigate potential risks associated with its misuse and disparities in access and benefits.
+
+Looking to the future, AI is expected to continue expanding into new areas, with emerging applications in renewable energy, climate change management, and sustainable development. AI’s ability to analyze large environmental datasets can play a crucial role in mitigating the effects of climate change and promoting sustainable development practices (Singh et al., 2024).
+
+From a technological perspective, Costa Rica must advance the deployment of key infrastructures such as 5G networks and access to open data. These enabling technologies are essential for the development and effective implementation of AI systems.
+
+The availability of official datasets for training AI algorithms can drive the creation of new applications and innovative solutions.
+
+The NAIS must also address risks associated with AI, such as worker displacement, misuse of technology, and personal data protection issues. Proper risk
+
+Costa Rica’s commitment to a comprehensive and ethical use of AI, guided by the principles of transparency, fairness, and respect for human rights, is essential for its sustainable development.
+
+management is fundamental to ensuring ethical and responsible AI development in the country (CAF, 2021). Clear policies must be established to protect human rights and privacy, while minimizing biases and errors in AI systems.
+
+Costa Rica’s commitment to the comprehensive and ethical use of AI, guided by the principles of transparency, equity, and respect for human rights, is essential for its sustainable development (UNESCO, 2023).
+
+The NAIS will enable Costa Rica to remain at the forefront of the digital and technological economy, promoting innovation and attracting foreign investments, while ensuring that the benefits of Artificial Intelligence (AI) are distributed equitably throughout society."
+"2","","Alignment with National Plans and Policies","","","In addition to its connection with global instruments adopted by the country, the NAIS is directly aligned with the Sustainable Development Goals (SDGs), the National Development and Public Investment Plan 2023-2026, and the National Science, Technology, and Innovation Plan 2022-2027."
+"2","","Objectives of the Strategy","","","Given the wide-ranging effects expected from AI on Costa Rican society, four clear pathways for action have been defined.
+
+These objectives set forth the purpose of this public policy and its goals for the country and its citizens, enabling the inclusion of indicators in the action plan to monitor the achievement of these national goals. Each strategic objective arises from a priority defined for AI development in Costa Rica. (Continued on page 59)."
+"2","","General Objective","","","Promote the ethical, secure, and responsible use, adoption, and development of AI to benefit citizens while preventing any harm, in alignment with national priorities"
+"2","","Specific Objectives — National Priorities","","",""
+"3","","Safe Use, Implementation, and Development of AI","","","Establishing the safe and responsible use, implementation, and development of AI as a national priority is based on the need to maximize benefits while minimizing the inherent risks of this disruptive technology. AI has the potential to significantly transform economic sectors, society, and governmental processes, justifying its strategic integration into national policies.
+
+Responsible AI use not only entails technological development but also the implementation of ethical and legal frameworks that ensure AI advancements align with human values and fundamental rights (Harvard Business Review, 2021). Strategic and responsible AI adoption can also provide countries with significant competitive advantages on the global stage, fostering innovation and sustainable economic growth (WeForum, 2021).
+
+In the context of Costa Rica, adopting AI as a national priority could facilitate infrastructure modernization, improve public services, and strengthen key economic sectors.
+
+Establishing clear and robust guidelines for AI development and use ensures that technological advancements contribute positively to citizens’ well-being and the country’s sustainable development (Springer, 2020).
+
+Related Strategic Objective: Encourage the adoption and development of ethical and regulatory frameworks to govern the use and access of AI in the country."
+"3","","Transition to a New Productive and Labor Model","","","There is a need to evaluate the implications of new technologies on the labor market (Chohan, 2023; Eloundou et al., 2023; Kausik, 2023; Noy and Zhang, 2023; Zarifhonarvar, 2023). Previous studies have linked the introduction of automation technologies, including Deep Learning Language Models (LLMs), with increased economic disparity and labor disruptions, potentially resulting in adverse side effects (Acemoglu
+
+The adoption of AI as a national priority can facilitate infrastructure modernization, improve public services, and strengthen key economic sectors.
+
+and Restrepo, 2024). Analyses of worker exposure in the United States highlight the urgency of policies to prepare for the economic disruptions these technologies could cause.
+
+The National Science, Technology, and Innovation Plan (NPSTI) 2022-2027 identifies AI as an opportunity for Costa Rica’s economy to achieve a significant leap in terms of innovation and added value.
+
+However, the anticipated productivity increase requires the implementation of robust labor policies that not only foster the creation of new skills related to automated jobs but also adequately manage the transition of workers who may face difficulties reintegrating into the new labor market due to demographic, educational, or socioeconomic reasons.
+
+It is essential to develop policies for workforce relocation that facilitate the acquisition of skills and competencies related to innovation and disruptive technologies. For example, with the advancement of Generative AI (GenAI), “prompt engineering” emerges as an effective strategy for building workforce capacities by tailoring the generic functionalities of GenAI to the specific needs and processes of businesses.
+
+These measures are fundamental to ensuring a smooth transition to a more advanced and technologically integrated productive and labor model.
+
+Related Strategic Objective: Stimulate Research, Development, and Innovation (R&D&I) in AI-related topics across various sectors to foster innovation as a driver of socio-economic development and competitiveness."
+"3","","Improving Public Services and Decision- Making","","","AI can significantly enhance public services through diverse applications that increase efficiency, effectiveness, and accessibility. Governments can use AI to improve the quality of public services, foster citizen trust, and enhance the efficiency and effectiveness of service delivery.
+
+For instance, AI can be applied in public administration to optimize processes such as tax collection, criminal justice, public health, where sophisticated computerized data systems are becoming essential elements for public policy implementation and the delivery of public services.
+
+Additionally, AI has the potential to transform how information is integrated, data is analyzed, and resulting insights are utilized to improve decision-making and optimize public services.
+
+The strategic use of AI in public services can not only enhance operational efficiency but also facilitate faster and more accurate responses to citizens’ needs, making services more accessible and effective. Thus, implementing AI in public services is paramount for governments seeking to innovate and strengthen their relationship with citizens.
+
+Related Strategic Objective: Promote the use of AI as a tool to improve the quality of services offered by the public sector."
+"3","","Skill and Capacity Building","","","In addition to improving Costa Ricans’ digital skills to leverage the opportunities offered by AI, it is necessary to prioritize competencies in Science, Technology, Engineering, Arts, and Mathematics (STEAM), from early education through university, as outlined in the National Science, Technology, and Innovation Plan (NPSTI).
+
+It is also crucial to focus on specific training programs that respond to technological changes and new business needs. According to the World Economic Forum (2023), specialists in AI and machine learning represent the fastest-growing occupation in its classification of jobs most in demand in the economy.
+
+However, a study by the Costa Rican Export Promotion Agency (PROCOMER) revealed that while 35% of the ICT business sector includes AI in its service portfolio, only 1% specializes in this area (PROCOMER, 2021). This situation underscores Costa Rica’s need to develop reskilling processes and generate new competencies, starting with the national ICT sector.
+
+AI can support the development of specific digital capacities in various ways. For example, AI-based educational systems can provide large-scale personalization, adapting learning to individual student needs and optimizing educational pathways to improve knowledge retention and understanding (Zawacki- Richter et al., 2024).
+
+Additionally, AI can help identify skill gaps in real time and suggest necessary training courses, ensuring that the workforce is adequately equipped to meet future challenges (Brougham and Haar, 2024).
+
+Therefore, integrating AI into education and training systems is not merely a strategy to enhance digital skills but also a critical necessity for maintaining economic competitiveness and fostering an adaptive and resilient labor market in Costa Rica.
+
+Related Strategic Objective: Build capacities, skills, and knowledge-sharing spaces for the responsible use and access to AI among the Costa Rican population."
+"3","","Improving Quality of Life","","","AI presents several risks to Costa Rican society, underscoring the importance of careful and regulated management of these technologies. Identified risks include the misuse of personal data, compromising privacy and confidentiality.
+
+Ethical concerns also arise in critical decision-making contexts such as hiring, judicial decisions, and public service distribution, where algorithms may challenge human expertise. Additionally, a lack of transparency in AI use can exacerbate trends and biases, foster fake news, and create other information-related problems.
+
+Cybersecurity vulnerabilities and data integrity issues also represent significant risks. Socioeconomically, the uneven adoption of AI could create winners and losers across sectors, affecting the labor market.
+
+To address these risks, a thorough analysis of AI’s risks and impacts must be maintained, focusing on harm prevention, respect for human autonomy, identification of hazardous practices, and equitable distribution of benefits and costs. Careful monitoring is required to prevent abusive effects of these technologies while promoting responsible and secure technological development.
+
+Related Strategic Objective: Encourage the adoption and development of ethical and regulatory frameworks to govern the use and access of AI in the country
+
+Establishing clear and robust guidelines for the development and use of AI ensures that technological advancements positively contribute to citizens’
+
+well-being and the country’s sustainable development."
+"2","","Axes and Lines of Action","","","7
+
+Given the challenge of social appropriation of disruptive technologies, this public policy framework organizes lines of action into seven fundamental thematic axes for public intervention. Each axis aligns with the strategic objectives of the NAIS and may require the use of multiple enabling technologies. Below are the axes, lines of action, and expected results."
+"2","","Axis 1: Ethical, Secure, and Responsible AI","","","This axis emphasizes the importance of integrating ethical principles into all phases of AI application, beginning with the initial stages such as programming and algorithm design. Developers and technological leaders working with AI in Costa Rica are encouraged to identify and address ethical dilemmas and biases, ensuring their projects respect universal rights and freedoms."
+"2","","Axis 2: Territorial Articulation","","","This strategic axis aims to strengthen territorial integration and promote economic development through the implementation of AI technologies across all regions of Costa Rica, with a particular focus on areas outside the Greater Metropolitan Area (GAM).
+
+This approach seeks to integrate different levels of government—national, regional, and local—along with key sectors of civil society and the private sector to coordinate efforts and optimize resource use.
+
+This will be achieved through the creation of innovation labs and AI clusters, which will act as engines for digital transformation in the regions, driving local talent and creating technological solutions tailored to each territory’s specific needs.
+
+Additionally, this axis promotes dynamism in the business sector through the adoption of AI technologies, facilitating the emergence of new business opportunities and improving the competitiveness of companies in both national and international markets.
+
+Efforts will be made to encourage AI adoption in small and medium-sized enterprises (SMEs), providing access to tools and knowledge to modernize their operations, increase efficiency, and access new market niches."
+"2","","Axis 3: Promotion of R&D&i in AI","","","To achieve this, dedicated funding mechanisms for AI research will be promoted, as well as incentives for the creation of public-private partnerships to accelerate knowledge transfer and the commercialization of new technologies.
+
+The objective is to create a robust innovation ecosystem where collaboration among academia, the private sector, and government drives advances in AI to address national and international challenges, from improving productivity and competitiveness to solving social and environmental problems.
+
+In terms of implementation, this axis aims to promote the adoption and use of AI across various productive sectors, including agriculture, healthcare, education, tourism, manufacturing, and public services.
+
+Pilot programs and regulatory frameworks will be designed to facilitate controlled and secure experimentation with new AI technologies in these sectors, enabling companies and organizations to adopt AI-based solutions that enhance efficiency, reduce costs, and create added value.
+
+A key component of this axis is the development of human and technical capacities to ensure that Costa Rica has the necessary talent to lead the development and implementation of AI.
+
+This includes the training of highly qualified professionals in areas such as machine learning, data processing, AI ethics, and algorithm governance. To achieve this, efforts will be coordinated with the education system to design and implement training and certification programs in AI, ranging from basic education to advanced levels of postgraduate and continuous training."
+"2","","Axis 4: Smart Government","","","This strategic axis focuses on modernizing Costa Rica’s public administration through the integration of Artificial Intelligence (AI) into daily processes and procedures, aiming to create a more efficient, accessible, and proactive government.
+
+The incorporation of emerging technologies will not only optimize decision-making and automate bureaucratic tasks but also provide personalized services that significantly improve interactions between the government and citizens, adapting more effectively and efficiently to their specific needs.
+
+As Costa Rica transitions to a more advanced phase of digital and electronic governance, this axis seeks to integrate AI into various government processes to optimize strategic decision-making, automate repetitive tasks such as document management and the analysis of large datasets, and personalize citizen experiences in their interactions with State institutions. This includes the automation of public services and the creation of intelligent platforms enabling more direct and effective interaction.
+
+Furthermore, the implementation of AI in the public sector will not only facilitate a more agile and efficient management of resources but also enhance transparency and accountability by providing access to public information, encouraging citizen participation in decision-making, and ensuring greater oversight of government actions.
+
+In the long term, this approach will contribute to strengthening trust in institutions and consolidating a government that is closer and more responsive to the needs of its citizens."
+"2","","Axis 5: Talent Training and Capacity Building","","","This strategic axis focuses on developing a training and education ecosystem that positions Costa Rica as a leader in competencies and skills related to Artificial Intelligence (AI).
+
+The objective is not only to equip professionals and public officials with the necessary tools to understand and apply AI in their respective fields but also to extend this knowledge to the general population, fostering an inclusive and advanced digital culture.
+
+The axis includes the implementation of educational programs at various levels, ranging from basic education to higher education, as well as continuous training and specialized technical education in AI.
+
+These programs will be designed to update and expand the skills of workers in using emerging technologies, ensuring that Costa Rica’s workforce is prepared to face the challenges and seize the opportunities brought by digital transformation.
+
+Furthermore, strategic partnerships will be promoted among educational institutions, the public sector, and the private sector to create a comprehensive educational framework that meets labor market demands and the country’s development needs.
+
+These partnerships will aim to create joint programs, internships, and online training platforms that ensure equitable and continuous access to AI education.
+
+The ultimate goal is to build a solid foundation of human talent to drive innovation, economic development, and Costa Rica’s global competitiveness in the field of artificial intelligence."
+"2","","Axis 6: Digital Infrastructure and Enabling Technologies","","","This strategic axis focuses on developing and strengthening the digital infrastructure necessary to support and enhance the growth and implementation of Artificial Intelligence (AI) in Costa Rica.
+
+Recognizing that a solid technological foundation is essential to enable large-scale AI deployment across all sectors of the country, this axis aligns with the objectives outlined in the National Telecommunications Development Plan (NTDP).
+
+The goal is to create an environment where digital systems and networks are not only modern and efficient but also capable of rapidly evolving to meet future technological development demands.
+
+This axis includes a set of initiatives aimed at modernizing, expanding, and securing the country’s technological platforms, with a focus on building robust, resilient, and secure infrastructure.
+
+This infrastructure will support the increasing demands for processing and storing large volumes of data, which are critical for the development of advanced AI applications.
+
+Promoting the creation of efficient data centers, improving cloud computing capacity, and strengthening cybersecurity will be key components to ensure the infrastructure can support both innovation and the protection of citizens’ data.
+
+A central pillar of this axis is the expansion of high-speed connectivity across the entire national territory.
+
+Expanding the fiber-optic network and deploying 5G technologies in urban and rural areas will ensure that all citizens, regardless of their location, have access to quality internet services.
+
+This effort is essential to democratize access to technology, reduce the digital divide, and enable individuals and businesses in remote regions to benefit from the opportunities offered by AI.
+
+Furthermore, this axis aims to foster strategic partnerships with the private sector, academic institutions, and international and multilateral organizations to attract investments and promote the continuous development of the country’s technological infrastructure.
+
+These collaborations will not only provide access to financial and technical resources but also enable the sharing of knowledge and best practices that drive Costa Rica’s technological growth in a sustainable and equitable manner."
+"2","","Axis 7: International Leadership","","","Costa Rica’s international positioning in the field of Artificial Intelligence (AI) aims not only at the responsible adoption of these technologies but also at establishing the country as an active leader in their ethical development and application.
+
+This leadership translates into strategic participation in international forums and organizations where global AI policies and principles are discussed and shaped.
+
+Through this axis, Costa Rica seeks to strengthen its alliances with countries and international organizations to reduce inequities in AI access and promote a global governance framework supporting principles such as transparency, data security, and sustainability.
+
+Active collaboration is essential to develop multilingual and secure AI systems that can be inclusively adapted and applied across various contexts. Additionally, identifying funding opportunities at both national and international levels will enable Costa Rica to continue developing its AI ecosystem, enhancing its capacity for innovation, and improving its competitiveness on the global stage.
+
+Costa Rica benefits from its participation in key international platforms such as the OECD’s AI Governance
+
+Committee (AIGO), the Global Partnership on Artificial Intelligence (GPAI), the Hiroshima AI Process, and the Central American Integration System (SICA) initiative to design the Regional AI Strategy for Central America.
+
+These alliances provide a unique opportunity for Costa Rica to not only influence global AI governance but also leverage these platforms as springboards to solidify its regional and international leadership in the adoption of emerging technologies. These platforms allow Costa Rica to collaborate on defining ethical and regulatory frameworks, promoting equitable and responsible AI adoption.
+
+The success of this axis also depends on aligning national technical frameworks with international standards for AI interoperability and standardization, ensuring that the technological solutions developed in the country are compatible and can be seamlessly integrated with other global systems.
+
+By doing so, Costa Rica positions itself not only as a user but as a key contributor to global AI governance, promoting the ethical and responsible use of these technologies to benefit both its population and the international community."
+"2","","Management Model","","","The management model for the NAIS is structured around several key components: governance, implementation, evaluation, and continuous improvement, all aligned with the objectives and principles established in the document.
+
+The governance of NAIS will be overseen by the Ministry of Science, Innovation, Technology and Telecommunications (MICITT), which will act as the main governing and coordinating body. This ministry will collaborate closely with other stakeholders from the public, private, academic, and civil society sectors to ensure effective oversight and direction of the strategy.
+
+The implementation of NAIS will be carried out through its action plan, which will include the indicators and goals established in mutual agreement with the entities responsible for its execution. To ensure NAIS’s effectiveness, a system of continuous evaluation and monitoring will be established. Collaboration among various stakeholders will be fundamental to NAIS’s success. This includes fostering partnerships between the public and private sectors to finance and develop AI projects.
+
+Additionally, it is crucial to involve non-governmental organizations and local communities in the development and evaluation of AI projects, ensuring that implemented solutions address the population’s real needs. Finally, cooperation with international organizations and global research centers should be strengthened to exchange knowledge and best practices in the field of AI."
+"2","","Measurement and Evaluation","","","The monitoring of NAIS seeks to measure progress toward established goals relative to the starting point, detect deficiencies, obstacles, and adjustment needs, and ensure the implementation of the National Plan for Science, Technology, and Innovation (NSTIP) according to schedule. It also aims to track resource utilization and progress in achieving the strategy’s objectives.
+
+MICITT will prepare an annual report detailing the achievement of objectives, encountered obstacles, and the current state of the strategy’s execution. This report will serve as a tool to identify areas for improvement and The governance of the ENIA will be led by the MICITT Directorate of Research, Development, and Innovation, which will act as the governing and main coordinating body.
+
+adjust actions based on identified needs.
+
+Additionally, a biannual evaluation will measure compliance with the established objectives, the strategy’s impact on the country, and the execution of the plan’s budget. This evaluation will enable a comprehensive review of progress achieved, ensuring transparency and accountability in NAIS’s implementation and facilitating informed decision-making to continuously improve the strategy and its outcomes."
+"2","","Action Plan for Public Interventions","","","The action plan will include all commitments made by institutions, as well as the goals and indicators established for the period. This document is included as an annex.
+
+It is essential to involve local communities in the development and evaluation of AI projects, ensuring that the implemented solutions address the real needs of the population.
+
+All illustrations included in this document were generated using the Adobe Firefly Artificial Intelligence tool. For each image, different prompts were specifically designed to create illustrations with vibrant colors that reflect scenes or elements relevant to this document."
+"2","","Glosary and abreviations — Acronyms and Abbreviations","","","· LAC: Latin America and the Caribbean · PPAD: Public-Private Alliances for Development · IDB: Inter-American Development Bank · CAF: Development Bank of Latin America and the Caribbean · CCSS: Costa Rican Social Security Administration · ICCs: Smart Community Centers · CENAT: National High-Technology Center · CGR: Office of the Comptroller General of the Republic · COMEX: Ministry of Foreign Trade · CONARE: National Council of University Rectors · EDUS: Unified Digital Health Record · NAIS: National Artificial Intelligence Strategy · SWOT: Strengths, Opportunities, Weaknesses, and Threats · R+D+I: Research, Development, and Innovation · AI: Artificial Intelligence · GenAI: Generative Artificial Intelligence · ICT: Costa Rican Tourism Institute · IEEE: Institute of Electrical and Electronics Engineers · IFAM: Municipal Promotion and Advisory Institute · IICA: Inter-American Institute for Cooperation on Agriculture · INA: National Learning Institute · INAMU: National Institute for Women · INDER: Rural Development Institute · INTECO: Costa Rican Institute of Technical Standards · IoT: Internet of Things · ITCR: Costa Rican Institute of Technology · KAS: Konrad Adenauer Foundation · LaNIA: National Artificial Intelligence Laboratory · LLM: Large Language Models · MEIC: Ministry of Economy, Industry, and Commerce · MEP: Ministry of Public Education · MICITT: Ministry of Science, Innovation, Technology, and Telecommunications · MIDEPLAN: Ministry of National Planning and Political Openness · MINAE: Ministry of Environment and Energy · MINSA: Ministry of Health
+
+· MTTS: Ministry of Labor and Social Security · OECD: Organisation for Economic Co-operation and Development · NGOs: Non-Governmental Organizations · PINN: Innovation and Human Capital Competitiveness Program · NPSTI: National Science, Innovation, and Technology Plan · PROCOMER: Export Promotion Agency · PRODHAB: Data Protection Agency for Citizens · GEALC Network: Inter-American Network on Digital Government · ICT: Information and Communication Technologies (ICT) · UCR: University of Costa Rica · UNA: National University · UNESCO: United Nations Educational, Scientific, and Cultural Organization"
+"2","","Glosary","","","1. Artificial Intelligence (AI): A machine-based system that, with explicit or implicit objectives, infers how to generate outputs such as predictions, content, recommendations, or decisions that may influence physical or virtual environments.
+
+2. Gen AI: A subfield of AI focused on creating new content, such as text, images, or music, using deep learning algorithms.
+
+3. Big Data: Data sets so large and complex that traditional data-processing tools cannot handle them. It is essential for AI development, providing extensive data volumes for training and improving models.
+
+4. Cloud Computing: Delivery of computing services such as servers, storage, databases, networking, software, and analytics over the internet (“the cloud”) for faster innovation, flexible resources, and economies of scale.
+
+5. Internet of Things (IoT): A network of physical objects that use sensors, software, and other technologies to connect and exchange data with other devices and systems over the internet.
+
+6. 5G Network: The fifth generation of mobile network technology, promising faster download and upload speeds, greater capacity, and lower communication latency.
+
+7. Cybersecurity: The practice of protecting systems, networks, and programs from digital attacks intended to access, alter, or destroy sensitive information.
+
+8. Data Governance: A set of policies, procedures, and standards ensuring the ethical, secure, and efficient management of data throughout its lifecycle.
+
+9. Interoperability: The capability of systems and organizations to work together by exchanging and effectively using information without restrictions.
+
+10. Gender Approach: Consideration of gender differences at all stages of AI development and application, ensuring technologies do not perpetuate or amplify existing gender inequalities.
+
+11. Inclusion and Accessibility: AI development and application to be accessible and inclusive for all people, regardless of age, gender, ethnicity, economic capacity, educational level, or disability.
+
+12. Data Protection: A set of practices and regulations designed to safeguard personal information against misuse and ensure individuals’ privacy.
+
+13. Research, Development, and Innovation (R&D&I): Activities focused on creating and improving technologies, products, or processes with an emphasis on innovation.
+
+14. Education and Training: Continuous educational and training programs designed to develop AI-related competencies among professionals, public officials, and citizens in general.
+
+15. 15. National Artificial Intelligence Laboratory (LaNIA): An entity created to drive and promote AI development in Costa Rica, enhancing national productivity and quality of life.
+
+16. Ethical Principles in AI: Guidelines ensuring AI development and use are ethical and responsible, promoting inclusion, avoiding discrimination, and respecting human rights.
+
+17. Human Oversight: A principle ensuring that critical decisions made by AI systems are always under human supervision and control.
+
+18. Transparency and Explainability: The requirement for AI systems to be understandable and explainable to users, enabling them to understand how the systems work and make informed usage decisions."
+"2","","References","","","Acemoglu, D., Kong, F., & Restrepo, P. (2024). Tasks At Work:
+
+Comparative Advantage, Technology and Labor Demand.
+
+Apuy, E. (2019). Perfil de la oferta costarricense especializada en tecnologías 4.0. Procomer. http://sistemas.procomer.go.cr/DocsSEM/20A998F7-39C0-4B39-99AC-083233A2367A.pdf.
+
+Artificial intelligence market to reach $1,811.75Bn by 2030. (s. f.).
+
+https://www.grandviewresearch.com/press-release/global-artificial-intelligence-ai-market
+
+Autor, D. (2024). Applying AI to rebuild middle class jobs (No. w32140).
+
+National Bureau of Economic Research.
+
+Autor, D. H. (2015). Why are there still so many jobs? The history and future of workplace automation. Journal of Economic Perspectives, 29(3), 3-30.
+
+Biondi, G., Cagnoni, S., Capobianco, R., Franzoni, V., Lisi, F. A.,
+
+Milani, A., & Vallverdú, J. (2023). Ethical design of artificial intelligence-based systems for decision making. Frontiers in Artificial Intelligence, 6, 1250209.
+
+Brandusescu, A., Iglesias, C., Robinson, K., Alonso, J. M., Fagan, C.,
+
+Jellema, A., y Mann, D. (2018). Open Data Barometer: global report.
+
+Brenes, E. U., Mora, E., Pombo, C., Rebellón, C., Vega, N., Lang, G., … &
+
+Priscila, C. M. (2021). La importancia de establecer un marco orientador de política pública para el uso responsable y ético de la inteligencia artificial y su aplicación en costa rica.. https://doi.org/10.18235/0003773
+
+Brougham, D., & Haar, J. (2024). Employee perceptions of disruption knowledge: the influence on career attitudes and behaviors. International Journal of Manpower, 45(3), 597-613.
+
+Buker, T., Kamin, S. T., van Remmen, J., Wartzack, S., & Miehling,
+
+J. (2024). Fostering self-efficacy through usability and emotional product design? An explorative study. Research in Engineering Design, 1-14.
+
+Buolamwini, J; Gebru, T. (2018). Gender Shades: Intersectional
+
+Accuracy Disparities in Commercial Gender Classification. Conference on Fairness, Accountability, and Transparency. Proceedings of Machine Learning Research, v. 81, p. 1–15.
+
+Buolamwini, J., y Gebru, T. (2018). Gender shades: Intersectional accuracy disparities in commercial gender classification. Proceedings of the 1st Conference on Fairness, Accountability and Transparency, 81, 77-91.
+
+CAF. (2021). Experiencia: Datos e Inteligencia Artificial en el sector público. Caracas: CAF. Retrieved from http://scioteca.caf.com/handle/123456789/1793
+
+Capraro, V., Lentsch, A., Acemoglu, D., Akgun, S., Akhmedova, A.,
+
+Bilancini, E., ... & Viale, R. (2024). The impact of generative artificial intelligence on socioeconomic inequalities and policy making. PNAS nexus, 3(6).
+
+Centro de Investigación y Estudios Políticos (CIEP). (2024, 11 septiembre). Informe del Estudio de Opinión Pública del CIEP (setiembre 2024) - CIEP UCR. CIEP UCR. https://ciep.ucr.ac.cr/informe-del-estudio-de-opinion-publica-del-ciep-setiembre-2024/
+
+Chamberlain, J. (2023). The risk-based approach of the European
+
+Union’s proposed artificial intelligence regulation: Some comments from a tort law perspective. European Journal of Risk Regulation, 14(1), 1-13.
+
+Chanda, S., Chib, S., Bose, S. S., Zabiullah, B. I., & Samal, A. (2024,
+
+May). Algorithmic Trading: Financial Markets Using Artificial Intelligence. In 2024 International Conference on Communication, Computer Sciences and Engineering (IC3SE) (pp. 806-809). IEEE.
+
+Cheatham, B., Javanmardian, K., y Samandari, H. (2019). Enfrentando los riesgos de la inteligencia artificial. McKinsey y Company.
+
+Chen, L., Chen, Z., Zhang, Y., Liu, Y., Osman, A. I., Farghali, M., ... &
+
+Yap, P. S. (2023). Artificial intelligence-based solutions for climate change: a review. Environmental Chemistry Letters, 21(5), 2525-2557.
+
+Chohan, Usman W., Generative AI, ChatGPT, and the Future of Jobs
+
+(March 29, 2023). Available at SSRN: https://ssrn.com/abstract=4411068 or http://dx.doi.org/10.2139/ssrn.4411068
+
+Cinalioglu, K., Elbaz, S., Sekhon, K., Su, C. L., Rej, S., & Sekhon, H.
+
+(2023). Exploring differential perceptions of artificial intelligence in health care among younger versus older Canadians: results from the 2021 Canadian Digital Health Survey. Journal of Medical Internet Research, 25, e38169.
+
+DAMA International (2017). DAMA-DMBOK: Data management body of knowledge. Technics Publications.
+
+Deng, L., Huang, Z., Chen, Z., Wu, D., Tian, Y., y Liu, H. (2020). Data centers and the environment: A study on the impact of cloud computing. Journal of Cleaner Production, 258, 120693.
+
+DigitalES, Asociación Española para la Digitalización. (2021, 26 octubre). La explicabilidad, clave para el despegue de la Inteligencia Artificial - Asociación DigitalES. Asociación DigitalES. https://www.digitales.es/blog-post/la-explicabilidad-clave-para-la-inteligencia-artificial/
+
+El estado de la IA a principios de 2024: la adopción de la IA generativa aumenta y comienza a generar valor. (2024, 30 mayo). McKinsey & Company. https://www.mckinsey.com/locations/south-america/latam/hispanoamerica-en-potencia/el-estado-de-la-ia-a-principios-de-2024-la-adopcion-de-la-ia-generativa-aumenta-y-comienza-a-generar-valor/es-CL
+
+Eloundou, T., Manning, S., Mishkin, P., y Rock, D. (2023). Gpts are gpts: An early look at the labor market impact potential of large language models. arXiv preprint arXiv:2303.10130.
+
+Esteva, A., & Topol, E. (2019). Can skin cancer diagnosis be transformed by AI?. The Lancet, 394(10211), 1795.
+
+Fiske, A., Henningsen, P., & Buyx, A. (2019). Your robot therapist will see you now: ethical implications of embodied artificial intelligence in psychiatry, psychology, and psychotherapy. Journal of medical Internet research, 21(5), e13216.
+
+Frey, C. B., & Osborne, M. (2023). Generative AI and the future of work:
+
+a reappraisal. Brown J. World Aff., 30, 161.
+
+Gartner (2023) “Top 10 IT Strategic Trends”. Recuperado de https:// www.gartner.com/en/articles/gartner-top-10-strategic- technology-trends-for-2023
+
+Gobierno de España. Estrategia Nacional De Inteligencia Artificial.
+
+https://www.lamoncloa.gob.es/presidente/actividades/Documents/2020/ENIA2B.pdf
+
+Gottfried, J. (2024). Americans’ social media use. Pew Research
+
+Center.
+
+Grupo asesor de Expertas y Expertos constituido por la Secretaría de Estado de Digitalización e Inteligencia Artificial del Ministerio de Asuntos Económicos y Transformación Digital. Carta de Derechos Digitales. https://www.lamoncloa.gob.es/presidente/actividades/Documents/2021/140721-Carta_Derechos_Digitales_RedEs.pdf
+
+Gupta, M., Abdelsalam, M., Khorsandroo, S., y Mittal, S. (2020).
+
+Security and privacy in smart farming: Challenges and opportunities. IEEE Access, 8, 34564-34584.
+
+Hao, A., & Liu, H. (2024). Guest editorial: Artificial intelligence application and future research directions in interactive marketing. Journal of Research in Interactive Marketing, 18(1), 1-5.
+
+Harnessing Artificial Intelligence for Health (2024, 18 enero). https:// www.who.int/teams/digital-health-and-innovation/ harnessing-artificial-intelligence-for-health
+
+Hawkins, J., & Kockelman, K. (2024). Supporting decarbonization through vehicle rightsizing, automation, and ride-splitting. Transportation, 14, 15.
+
+Hine, E., Novelli, C., Taddeo, M., & Floridi, L. (2024). Supporting trustworthy AI through machine unlearning. Science and Engineering Ethics, 30(5), 1-13.
+
+Howley, С. (2023). Gartner Identifies the Top Trends Impacting
+
+Infrastructure and Operations for 2023 [Electronic resource]. Gartner.
+
+https://es.unesco.org/courier/2018-3/lexico-inteligencia-artificial https://es.unesco.org/courier/july-september-2017/glosario-usolectores
+
+Impulsado por Inteligencia Artificial, Costa Rica podría casi triplicar el aumento en la productividad laboral e incrementar su PIB hasta un 7.8%. Consultado el 13 de agosto de 2023, obtenido de la dirección https://news.microsoft.com/es-xl/impulsado-por-inteligencia-artificial-costa-rica-podria-casi-triplicar-el-aumento-en-la-productividad-laboral-e-incrementar-su-pib-hasta-un-7-8/
+
+Inteligencia Artificial en Costa Rica: justicia, ética e inclusión para no dejar a nadie atrás. (2023, September 21). UNESCO. https:// www.unesco.org/es/articles/inteligencia-artificial-encosta-rica-justicia-etica-e-inclusion-para-no-dejar-nadieatras
+
+Jinesta, E. (2010). Simplificación, Desregulación y Aceleración de los Procedimientos Administrativos. Ediciones RAP. Recuperado de http://www.ernestojinesta.com/_RE VISTAS/SIMPLIFICACI%C3%93N,%20 D E S R E G U L A C I % C 3 % 9 3 N % 2 0 Y % 2 0 A C E L A R A C I % C 3 % 9 3 N % 2 0 D E % 2 0 L O S % 2 0 PROCEDIMIENTOS%20ADMINISTRATIVOS.PDF
+
+Kaplan, A. and Haenlein, M. (2020), “Rulers of the world, unite! The challenges and opportunities of artificial intelligence”, Business Horizons, Vol. 63 No. 1, pp. 37-50.
+
+Kausik, B.N., 2023. “Long Tails y the Impact of GPT on Labor,” MPRA
+
+Paper 117063, University Library of Munich, Germany.
+
+Magni, F., Park, J., & Chao, M. M. (2024). Humans as creativity gatekeepers: Are we biased against AI creativity?. Journal of Business and Psychology, 39(3), 643-656.
+
+Mantelero, A. (2023). La privacidad en un mundo global: el papel del
+
+Convenio 108. In Privacidad en un mundo global (pp. 107- 123). Tirant lo Blanch.
+
+Mazhar, T., Talpur, D. B., Shloul, T. A., Ghadi, Y. Y., Haq, I., Ullah, I., ...
+
+& Hamam, H. (2023). Analysis of IoT security challenges and its solutions using artificial intelligence. Brain Sciences, 13(4), 683.
+
+Ministerio de Ciencia, Tecnología, Conocimiento e Innovación,
+
+Política
+
+Monge – González, Ricardo (2020). Confrontando el reto del crecimiento: Productividad e Innovación en Costa Rica. Consultado el 13 de agosto de 2023, obtenido de la dirección: https://publications.iadb.org/es/confrontando-el-reto-del-crecimiento-productividad-e-innovacion-en-costa-rica
+
+Monteiro, M. G., Pantani, D., Pinsky, I., & Rocha, T. A. H. (2023). Using the Pan American Health Organization digital conversational agent to educate the public on alcohol use and health: preliminary analysis. JMIR Formative Research, 7(1), e43165.
+
+Myers, D. (2019). 2019 Annual report on the dimensions of data quality. Year five-opportunity abounds for competitive advantage based on information quality. DQ Matters. http://dimensionsofdataquality.com/download/prior_whitepapers/2019-Annual-Report-on-the Dimensions-of-Data-Quality1008.pdf?doc_ num=1008ysrc=1008fromcddqsite.
+
+Nacional De Inteligencia Artificial. https://minciencia.gob.cl/uploads/filer_public/bc/38/bc389daf-4514-4306-867c- 760ae7686e2c/documento_politica_ia_digital_.pdf
+
+Nagle, T., Redman, T. C., y Sammon, D. (2017). Only 3% of companies’
+
+data meets basic quality standards. Harvard Business Review, 95(5), 2-5.
+
+News Center Microsoft Latinoamérica. (2019, 14 noviembre).
+
+Impulsado por Inteligencia Artificial, Costa Rica podría casi triplicar el aumento en la productividad laboral e incrementar su PIB hasta un 7.8% - News Center Latinoamérica. News Center Latinoamérica. https://news.microsoft.com/es-xl/impulsado-por-inteligencia-artificial-costa-rica-podria-casi-triplicar-el-aumento-en-la-productividad-laboral-e-incrementar-su-pib-hasta-un-7-8/
+
+News Center Microsoft Latinoamérica. (2024, 18 marzo). Encuesta a PyMEs: más del 70% de PyMEs costarricenses afirman que van a invertir en IA - News Center Latinoamérica. News Center Latinoamérica. https://news.microsoft.com/es-xl/encuesta-a-pymes-mas-del-70-de-pymes-costarricenses-afirman-que-van-a-invertir-en-ia/
+
+Nieweglowska, M., Stellato, C., & Sloman, S. A. (2023). Deepfakes:
+
+Vehicles for radicalization, not persuasion. Current Directions in Psychological Science, 32(3), 236-241.
+
+Noy, Shakked and Zhang, Whitney, Experimental Evidence on the Productivity Effects of Generative Artificial Intelligence (March 1, 2023). Available at SSRN: https://ssrn.com/abstract=4375283 or http://dx.doi.org/10.2139/ssrn.4375283
+
+Nzama-Sithole, L. (2023). Managing artificial intelligence algorithmic discrimination: the internal audit function role. In Algorithmic Discrimination and Ethical Perspective of Artificial Intelligence (pp. 203-219). Singapore: Springer Nature Singapore.
+
+OECD (2022), “Measuring the environmental impacts of artificial intelligence compute and applications: The AI footprint”, OECD Digital Economy Papers, No. 341, OECD Publishing,
+
+Paris, https://doi.org/10.1787/7babf571-en.
+
+OECD (2023), OECD Employment Outlook 2023: Artificial Intelligence and the Labour Market, OECD Publishing, Paris, https://doi.org/10.1787/08785bba-en.
+
+Ortiz de Zárate Alcarazo, L . (2022). Explicabilidad (de la inteligencia artificial). Eunomía. Revista en Cultura de la Legalidad, 22, 3 28-
+
+Poder Judicial de Costa Rica - Poder Judicial implementa inteligencia artificial para disminuir circulante en materia cobratoria. (s/f). Poder-judicial.go.cr. Recuperado el 12 de mayo de 2023, de https://pj.poder-judicial.go.cr/index.php/prensa/760-poder-judicial-implementa-inteligencia-artificial-para-disminuir-circulante-en-materia-cobratoria
+
+PROSIC (2019) Informe hacia la sociedad de la información y el conocimiento. Universidad de Costa Rica. Capítulo 8.
+
+PwC (2021). Sizing the prize - PwC’s global artificial intelligence study:
+
+Exploiting the AI revolution. Accessed (Feb 17, 2022) at: https://www.pwc.com/gx/en/issues/data-and-analytics/publications/artificialintelligence-study.html.
+
+Ramos, D. (2022, 21 febrero). Explicabilidad, ética y responsabilidad, retos de la inteligencia artificial. Silicon. https://www.silicon.es/explicabilidad-etica-responsabilidad-retos-inteligencia-artificial-2452131
+
+Ramos, G., Squicciarini, M., & Lamm, E. (2024). Making AI ethical by design: The UNESCO perspective. Computer, 57(2), 33-43.
+
+Redek, T., Marčič, E., Maldonado, A. C. B., da Silva, A. R. P., &
+
+Shenstone, P. M. J. (2023). Artificial Intelligence in Brief: The Development and Impact of AI Technologies. BEYOND BITS AND ALGORITHMS.
+
+REDGEALC.(2021) Informe de Tecnologías Emergentes 2021.
+
+Rivas-Montoya, L. M. (2023). Estramipyme: metodología fácil y ágil para diseñar una estrategia competitiva.
+
+Rolnick, D., Donti, P. L., Kaack, L. H., Kochanski, K., Lacoste, A.,
+
+Sankaran, K., ... y Bengio, Y. (2019). Tackling climate change with machine learning. arXiv preprint arXiv:1906.05433.
+
+Singh, A., Kanaujia, A., Singh, V. K., & Vinuesa, R. (2024). Artificial intelligence for Sustainable Development Goals: Bibliometric patterns and concept evolution trajectories. Sustainable Development, 32(1), 724-754.
+
+Stone, J., & Mittelstadt, B. (2024). Legitimate Power, Illegitimate
+
+Automation: The problem of ignoring legitimacy in automated decision systems. arXiv preprint arXiv:2404.15680.
+
+Strubell, E., Ganesh, A., y McCallum, A. (2019). Energy and policy considerations for deep learning in NLP. Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics, 3645-3650.
+
+Suárez, P. L., Velesaca, H. O., Carpio, D., & Sappa, A. D. (2023).
+
+Artificial intelligence in agriculture.
+
+Susser, D., & Cabrera, L. Y. (2024). Brain data in context: Are new rights the way to mental and brain privacy?. AJOB neuroscience, 15(2), 122-133.
+
+UNESCO (2022). Recomendación sobre la ética de la inteligencia artificial. UNESCO. https:// unesdoc.unesco.org/ ark:/48223/pf0000381137_spa
+
+UNESCO. (2017, Septiembre 17). Glosario para uso de los lectores.
+
+UNESCO. (2018, Junio 25). Léxico de la inteligencia artificial. UNESCO.
+
+Valero, S. Inteligencia Artificial y protección a los consumidores.
+
+Último informe del Parlamento Europeo [Review of Inteligencia Artificial y protección a los consumidores. Último informe del Parlamento Europeo]. Abogacía Española. Consultado el 09 de Mayo del 2023, obtenido de la dirección https://www.abogacia.es/publicaciones/blogs/blog-de-derecho-de-los-los-consumidores/inteligencia-artificial-y-proteccion-a-los-consumidores-ultimo-informe-del-parlamento-europeo/#:~:text=La%20 protecci%C3%B3n%20efectiva%20de%20la,  proporcionar%20informaci%C3%B3n%20simple%20 y%20clara.
+
+Van Deursen, A. J., Helsper, E., Eynon, R., & Van Dijk, J. A. (2017).
+
+The compoundness and sequentiality of digital inequality. International Journal of Communication, 11, 452-473.
+
+van Diggelen, J., Metcalfe, J. S., van den Bosch, K., Neerincx, M., &
+
+Kerstholt, J. (2023). Role of emotions in responsible military AI. Ethics and Information Technology, 25(1), 17.
+
+Wang, Q., Zhang, F., & Li, R. (2024). Artificial intelligence and sustainable development during urbanization: Perspectives on AI R&D innovation, AI infrastructure, and AI market advantage. Sustainable Development.
+
+WEF (2023). The future of jobs report 2023. Foro Económico Mundial.
+
+https://www.weforum.org/agenda/2023/04/future-jobs-2023-fastest-growing-decline
+
+West, S. M., Whittaker, M., y Crawford, K. (2019). Discriminating systems: Gender, race, and power in AI. AI Now Institute.
+
+World Economic Forum (WEF). (2021). Harnessing Artificial
+
+Intelligence for the Earth
+
+World Economic Forum. (2020). Global gender gap report 2020.
+
+World Economic Forum.
+
+Zarifhonarvar, Ali, Economics of ChatGPT: A Labor Market View on the Occupational Impact of Artificial Intelligence (February 7, 2023). Available at SSRN: https://ssrn.com/abstract=4350925 or http://dx.doi.org/10.2139/ssrn.4350925
+
+Zawacki-Richter, O., Bai, J. Y., Lee, K., Slagter van Tryon, P. J., &
+
+Prinsloo, P. (2024). New advances in artificial intelligence applications in higher education?. International Journal of Educational Technology in Higher Education, 21(1), 32.
+
+Zawacki-Richter, O., Bai, J. Y., Lee, K., Slagter van Tryon, P. J., &
+
+Prinsloo, P. (2024). New advances in artificial intelligence applications in higher education?. International Journal of Educational Technology in Higher Education, 21(1), 32.
+
+Zhang, Z., Al Hamadi, H., Damiani, E., Yeun, C. Y., y Taher, F. (2022).
+
+Explainable artificial intelligence applications in cyber security: State-of-the-art in research. IEEE Access, 10, 93104-93139.
+
+Zowghi, D., & da Rimini, F. (2023). Diversity and inclusion in artificial intelligence. arXiv preprint arXiv:2305.12728.
+
+Zuboff, S. (2023). The age of surveillance capitalism. In Social theory re-wired (pp. 203-213). Routledge.
+
+UNESCO."

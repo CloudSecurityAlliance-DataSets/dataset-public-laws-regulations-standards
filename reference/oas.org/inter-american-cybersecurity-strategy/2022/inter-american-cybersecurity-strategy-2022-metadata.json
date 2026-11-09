@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/oas.org/inter-american-cybersecurity-strategy@2022",
+  "name": "National Cybersecurity Strategies: Lessons Learned and Reflections from the Americas and Other Regions (2022)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2022",
+  "publication_id": "inter-american-cybersecurity-strategy-2022",
+  "owner": "Organization of American States — Inter-American Committee against Terrorism (CICTE)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "National Cybersecurity Strategies: Lessons Learned and Reflections from the Americas and Other Regions (OAS/CICTE, 2022). Hemispheric cybersecurity strategy adopted by the OAS General Assembly in June 2004 (AG/RES. 2004 (XXXIV-O/04)), supplemented by CICTE Declarations (2012, 2015) and regional National Cybersecurity Strategy guidance.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Organization of American States — Inter-American Committee against Terrorism (CICTE) (oas.org) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Organization of American States — Inter-American Committee against Terrorism (CICTE) (oas.org).",
+  "license": {
+    "spdx": "CC-BY-NC-ND-3.0-IGO",
+    "Grouping": "Non-Commercial-No-Derivatives",
+    "redistribution": "permitted_with_attribution_non_commercial_verbatim",
+    "derivatives": "prohibited",
+    "publicly_redistributable": true,
+    "license_text_url": "https://creativecommons.org/licenses/by-nc-nd/3.0/igo/",
+    "note": "Licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 3.0 IGO (CC BY-NC-ND 3.0 IGO) as stated in the GS/OAS publication copyright notice. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
+    "notes": "Licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 3.0 IGO (CC BY-NC-ND 3.0 IGO) as stated in the GS/OAS publication copyright notice. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.oas.org/en/sms/cicte/docs/National-Cybersecurity-Strategies-Lessons-learned-and-reflections-ENG.pdf",
+    "textUsed": "https://www.oas.org/en/sms/cicte/docs/National-Cybersecurity-Strategies-Lessons-learned-and-reflections-ENG.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2022-09-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 99-page PDF (https://www.oas.org/en/sms/cicte/docs/National-Cybersecurity-Strategies-Lessons-learned-and-reflections-ENG.pdf) locally via PyMuPDF (277,037 chars). Parsed 113 sections (19 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}
