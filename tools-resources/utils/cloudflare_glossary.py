@@ -91,6 +91,9 @@ def _parse_table(md):
 
 def _parse_headings(md):
     """Heading-based: collect ## H2 + paragraph(s) until next ## or document end."""
+    # Strip fenced code blocks (such as trailing JSON-LD BreadcrumbList metadata) and HTML comments.
+    md = re.sub(r"```.*?```", "", md, flags=re.S)
+    md = re.sub(r"<!--.*?-->", "", md, flags=re.S)
     # Strip frontmatter / leading metadata before the first ## section.
     # Walk line-by-line, accumulating definition lines under the current h2.
     terms = []
@@ -116,8 +119,8 @@ def _parse_headings(md):
         elif current_term is not None:
             # Skip blank lines that are entirely whitespace; keep substantive content.
             if line.strip():
-                # Drop image-only lines or pure markup.
-                if not re.match(r"^\s*!\[", line):
+                # Drop image-only lines, pure markup, or JSON-LD breadcrumb lines.
+                if not re.match(r"^\s*!\[", line) and "BreadcrumbList" not in line and '"@context"' not in line:
                     current_lines.append(line.strip())
     # Flush last.
     if current_term:

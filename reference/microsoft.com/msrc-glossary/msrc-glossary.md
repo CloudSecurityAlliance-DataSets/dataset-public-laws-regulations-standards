@@ -22,7 +22,7 @@ ActiveX is a software framework created by Microsoft that adapts its earlier Com
 
 ## Address Space Layout Randomization (ASLR)
 
-Address Space Layout Randomization (ASLR) is a security mitigation that randomizes the memory locations of executable images, heap, and stack regions each time a system boots. This randomness makes it significantly harder for attackers to predict memory layouts and exploit vulnerabilities through techniques like buffer overruns or return-oriented programming (ROP).
+Address Space Layout Randomization (ASLR) is a security mitigation that randomizes the memory locations of executable images, heap, and stack regions each time a system boots. This randomness makes it significantly harder for attackers to predict memory layouts and exploit vulnerabilities through techniques like buffer overruns or return-oriented programming (ROP). To support ASLR, a component and all its dependencies must be ASLR-compatible. For example, if A.exe loads B.dll and C.dll, all three must be built with ASLR support. On Windows Vista and later, system DLLs and EXEs are randomized by default. However, DLLs and EXEs created by Independent Software Vendors (ISVs) must explicitly opt in by using the /DYNAMICBASE linker option during compilation. ASLR also includes: - Heap Randomization : Heaps are placed at random memory locations to reduce the risk of heap-based exploits. Enabled by default on Windows Vista and later. - Stack Randomization : Threads in processes linked with /DYNAMICBASE have their stacks randomized to mitigate stack-based exploits. The Force ASLR feature also known as EnableForceRelocateImages in the GetProcessMitigationPolicy API extends ASLR protection by forcing relocation of modules that were not compiled with /DYNAMICBASE. This ensures that even legacy or third-party DLLs that lack ASLR support are randomized in memory. Applicability: Force ASLR can be enabled via system policies or programmatically through mitigation APIs. It is enforced in AppContainer sandboxes, and applications like Microsoft Office and Chromium opt in to this protection. Benefits: This eliminates predictable mappings that attackers rely on to bypass ASLR, especially in scenarios where non-ASLR-aware DLLs are loaded into ASLR-enabled processes. Configuration: Force ASLR can be enabled through Group Policy or Windows Security settings. It complements other ASLR flags such as EnableBottomUpRandomization and EnableHighEntropy. See ASLR for more information.
 
 ## AI Bug Bar
 
@@ -30,11 +30,11 @@ The AI Bug Bar is a set of criteria used by Microsoft to classify and prioritize
 
 ## AI Safety
 
-AI Safety refers to practices and principles that ensure artificial intelligence (AI) systems are designed and used in ways that benefit humanity and minimize potential harm or negative outcomes.
+AI Safety refers to practices and principles that ensure artificial intelligence (AI) systems are designed and used in ways that benefit humanity and minimize potential harm or negative outcomes. - Purpose: Preventing Accidents: Ensures AI systems operate safely and as intended, reducing the risk of unintended consequences. - Ethical AI: Promotes the development of AI systems that align with human values and ethical standards. - Risk Mitigation: Identifies and mitigates risks such as bias, data security vulnerabilities, and external threats.
 
 ## AI Security
 
-AI Security refers to the use of artificial intelligence (AI) technologies to enhance an organization's security posture. It involves automating threat detection, prevention, and remediation to better combat cyberattacks and data breaches.
+AI Security refers to the use of artificial intelligence (AI) technologies to enhance an organization's security posture. It involves automating threat detection, prevention, and remediation to better combat cyberattacks and data breaches. Purpose: Enhanced Threat Detection: AI systems can analyze vast amounts of data to identify patterns and anomalies that may indicate malicious activity. Automation: AI can automate various cybersecurity tasks, such as alert aggregation, sorting, and response, allowing security teams to focus on more complex challenges. Improved Incident Response: AI tools can provide swift remediation strategies based on their analysis of detected behaviors.
 
 ## Always Encrypted
 
@@ -46,11 +46,11 @@ The Microsoft Windows Application Compatibility Infrastructure (AppCompat) is de
 
 ## Attack Complexity (AC) – CVSS 3.1 metric
 
-This metric reflects the measurable actions an attacker must take to actively bypass or circumvent built-in security-enhancing conditions in order to achieve a successful exploit. These conditions are specifically designed to improve system security and/or increase the complexity of exploit development.
+This metric reflects the measurable actions an attacker must take to actively bypass or circumvent built-in security-enhancing conditions in order to achieve a successful exploit. These conditions are specifically designed to improve system security and/or increase the complexity of exploit development. A vulnerability that can be exploited without requiring target-specific customization is considered to have lower complexity than one that demands significant tailoring. This metric focuses on the presence and effectiveness of security mechanisms in the vulnerable system, rather than the time or number of attempts needed for a successful attack (e.g., in the case of a race condition). It’s important to note that the evasion or fulfillment of authentication requirements is assessed under the Privileges Required metric and is not considered a factor in Attack Complexity . Values: - Low (L): The attacker must take no measurable action to exploit the vulnerability. The attack requires no target-specific circumvention to exploit the vulnerability. An attacker can expect repeatable success against the vulnerable system. - High (H): The successful attack depends on the evasion or circumvention of security-enhancing techniques in place that would otherwise hinder the attack. See Attack Complexity for more information.
 
 ## Attack Vector (AV) – CVSS 3.1 metric
 
-This metric reflects the context by which vulnerability exploitation is possible. This metric value (and consequently the resulting severity) will increase the more remote (logically, and physically) an attacker can be to exploit the vulnerable system. The assumption is that the number of potential attackers for a vulnerability that could be exploited from across a network is larger than the number of potential attackers that could exploit a vulnerability requiring physical access to a device, and therefore warrants a greater severity.
+This metric reflects the context by which vulnerability exploitation is possible. This metric value (and consequently the resulting severity) will increase the more remote (logically, and physically) an attacker can be to exploit the vulnerable system. The assumption is that the number of potential attackers for a vulnerability that could be exploited from across a network is larger than the number of potential attackers that could exploit a vulnerability requiring physical access to a device, and therefore warrants a greater severity. Values: - Network (N): The vulnerable component is bound to the network stack and the set of possible attackers extends beyond the other options listed below, up to and including the entire Internet. Such a vulnerability is often termed “remotely exploitable” and can be thought of as an attack being exploitable at the protocol level one or more network hops away (e.g., across one or more routers). - Adjacent (A): The vulnerable component is bound to the network stack, but the attack is limited at the protocol level to a logically adjacent topology. This can mean an attack must be launched from the same shared physical (e.g., Bluetooth or IEEE 802.11) or logical (e.g., local IP subnet) network, or from within a secure or otherwise limited administrative domain (e.g., MPLS, secure VPN to an administrative network zone). - Local (L): The vulnerable component is not bound to the network stack and the attacker’s path is via read/write/execute capabilities. - Physical (P): The attack requires the attacker to physically touch or manipulate the vulnerable component. See Attack Vector for more information.
 
 ## Authentication
 
@@ -62,7 +62,7 @@ In the context of cybersecurity, authorization is the process of determining and
 
 ## Availability Impact (A) – CVSS 3.1 metric
 
-Definition: This metric measures the impact to the availability of the impacted component resulting from a successfully exploited vulnerability. It refers to the loss of availability of the impacted component itself, such as a networked service (e.g., web, database, email). Since availability refers to the accessibility of information resources, it is assumed that attacks that consume network bandwidth, processor cycles, or disk space all impact the availability of an impacted component.
+Definition: This metric measures the impact to the availability of the impacted component resulting from a successfully exploited vulnerability. It refers to the loss of availability of the impacted component itself, such as a networked service (e.g., web, database, email). Since availability refers to the accessibility of information resources, it is assumed that attacks that consume network bandwidth, processor cycles, or disk space all impact the availability of an impacted component. Values: - None (N): No impact on availability. - Low (L): Limited impact on availability. - High (H): Significant impact on availability.
 
 ## Base Score - CVSS 3.1 Metric
 
@@ -90,19 +90,19 @@ The mission of the CVE ™ Program is to identify, define, and catalog publicly 
 
 ## Common Vulnerability Scoring System (CVSS) 3.1
 
-CVSS 3.1 evaluates vulnerabilities using three metric groups:
+CVSS 3.1 evaluates vulnerabilities using three metric groups: Metric Group Description Base Represents the intrinsic characteristics of a vulnerability that are constant over time and across environments. These metrics include Attack Vector (AV), Attack Complexity (AC), Temporal Captures characteristics that change over time, such as the availability of exploit code or remediation. Environmental Reflects the impact of a vulnerability in a specific user environment, allowing customization of the score. Note that Microsoft does not currently provide Environmental scores. Each group contributes to a final score ranging from 0.0 (None) to 10.0 (Critical) , which is also represented as a vector string a textual representation of the metric values used. An example vector string: CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C
 
 ## Common Vulnerability Scoring System (CVSS) 4.0
 
-CVSS 4.0 is a standardized, vendor-agnostic scoring system for assessing the severity of software vulnerabilities. Developed by the Forum of Incident Response and Security Teams (FIRST), it builds upon CVSS 3.1 by introducing more granular metrics, clearer nomenclature, and a broader scoring context to improve prioritization and communication across diverse environments.
+CVSS 4.0 is a standardized, vendor-agnostic scoring system for assessing the severity of software vulnerabilities. Developed by the Forum of Incident Response and Security Teams (FIRST), it builds upon CVSS 3.1 by introducing more granular metrics, clearer nomenclature, and a broader scoring context to improve prioritization and communication across diverse environments. CVSS4.0 evaluates vulnerabilities using four metric groups: Metric Group Purpose Base (CVSS-B) Intrinsic characteristics of a vulnerability (for example, exploitability, impact). Threat (CVSS-T) Real-world exploitability and threat intelligence. Environmental (CVSS-E) Customization based on the user’s environment. Supplemental Additional context (for example, safety, recovery, provider urgency). These groups combine into composite scores like CVSS-BT (Base + Threat) or CVSS-BTE (Base + Threat + Environmental), which Microsoft’s MSRC team uses for public scoring.
 
 ## Common Weakness Enumeration (CWE)
 
-The Common Weakness Enumeration (CWE) is a community-developed list of common software and hardware weaknesses.
+The Common Weakness Enumeration (CWE) is a community-developed list of common software and hardware weaknesses. - Purpose: To provide a standardized language for identifying and describing vulnerabilities, helping developers, security professionals, and researchers understand and mitigate these weaknesses. - Identification: Helps in identifying and categorizing software and hardware weaknesses that could lead to vulnerabilities. - Mitigation: Provides guidance on how to eliminate or reduce the impact of these weaknesses before deployment. - Standardization : Ensures consistent terminology and classification across different platforms and tools.
 
 ## Confidentiality Impact (C) – CVSS 3.1 metric
 
-This metric measures the impact to the confidentiality of the information managed by the system due to a successfully exploited vulnerability. Confidentiality refers to limiting information access and disclosure to only authorized users, as well as preventing access by, or disclosure to, unauthorized users. The resulting score is greatest when the loss to the system is highest.
+This metric measures the impact to the confidentiality of the information managed by the system due to a successfully exploited vulnerability. Confidentiality refers to limiting information access and disclosure to only authorized users, as well as preventing access by, or disclosure to, unauthorized users. The resulting score is greatest when the loss to the system is highest. Values: - None (N): There is no loss of confidentiality within the impacted component. - Low (L): There is some loss of confidentiality. Access to some restricted information is obtained, but the attacker does not have control over what information is obtained, or the amount or kind of loss is limited. The information disclosure does not cause a direct, serious loss to the impacted component. - High (H): There is a total loss of confidentiality, resulting in all resources within the impacted component being divulged to the attacker. Alternatively, access to only some restricted information is obtained, but the disclosed information presents a direct, serious impact. For example, an attacker steals the administrator's password, or private encryption keys of a web server.
 
 ## Content Security Policy (CSP)
 
@@ -110,7 +110,7 @@ Microsoft Edge now implements Content Security Policy (CSP) 1.0. CSP is a securi
 
 ## Copilot
 
-GitHub Copilot: An AI-powered coding assistant developed by GitHub and OpenAI. It helps developers by suggesting code snippets, functions, and even entire files based on natural language prompts and existing code.
+GitHub Copilot: An AI-powered coding assistant developed by GitHub and OpenAI. It helps developers by suggesting code snippets, functions, and even entire files based on natural language prompts and existing code. Microsoft Copilot: A suite of AI-powered tools integrated into Microsoft 365 (Word, Excel, Outlook, etc.) that helps users write, analyze, and automate tasks using natural language.
 
 ## Cross-site Request Forgery (CSRF/XSRF)
 
@@ -138,7 +138,7 @@ The CVE Database is a repository of information about publicly disclosed cyberse
 
 ## CVE Identifier (CVE ID)
 
-A CVE Identifier (CVE ID) is a unique identifier assigned to a publicly disclosed cybersecurity vulnerability. CVE stands for Common Vulnerabilities and Exposures, and the CVE ID helps in tracking and referencing specific vulnerabilities across various platforms and security tools. Purpose: Standardization: Provides a standardized way to reference vulnerabilities, ensuring consistent communication among security professionals.
+A CVE Identifier (CVE ID) is a unique identifier assigned to a publicly disclosed cybersecurity vulnerability. CVE stands for Common Vulnerabilities and Exposures, and the CVE ID helps in tracking and referencing specific vulnerabilities across various platforms and security tools. Purpose: Standardization: Provides a standardized way to reference vulnerabilities, ensuring consistent communication among security professionals. - Tracking: Facilitates the tracking and management of vulnerabilities in security databases and tools. Components: Each CVE ID includes: - CVE Prefix: The identifier starts with "CVE". - Year: The year the vulnerability was disclosed (e.g., CVE-2025). - Sequence Number: A unique number assigned to the vulnerability.
 
 ## CVE.Org
 
@@ -174,15 +174,15 @@ EMF (Enhanced Metafile Format) is a 32-bit format that can contain both vector i
 
 ## Enhanced Mitigation Experience Toolkit (EMET)
 
-* Note : The term Enhanced Mitigation Experience Toolkit (EMET) is still recognized in the industry, but it is no longer actively developed or supported by Microsoft. See EMET mitigations guidelines for more information.*
+* Note : The term Enhanced Mitigation Experience Toolkit (EMET) is still recognized in the industry, but it is no longer actively developed or supported by Microsoft. See EMET mitigations guidelines for more information.* The Enhanced Mitigation Experience Toolkit (EMET) helps customers strengthen their defense-in-depth strategies against cyberattacks by detecting and blocking common exploitation techniques used to exploit memory corruption vulnerabilities. EMET protects against new and undiscovered threats even before they are addressed through security updates or antimalware software. It includes 14 security mitigations (measures to reduce risk) that complement other defense-in-depth security tools, such as Windows Defender and antivirus software. EMET installs with default protection profiles, which are XML files containing preconfigured settings for common Microsoft and third-party applications. Note: The term Enhanced Mitigation Experience Toolkit (EMET) is still recognized in the industry, but it is no longer actively developed or supported by Microsoft. See EMET mitigations guidelines for more information.
 
 ## Exploit Code Maturity – CVSS 3.1 metric
 
-Definition: This metric assesses the likelihood of a vulnerability being exploited, based on the current landscape of exploit techniques, availability of exploit code, and evidence of active “in-the-wild” attacks. The public release of easy-to-use exploit code or detailed exploitation instructions significantly increases the pool of potential attackers, including those with limited technical skills. Initially, exploitation may be theoretical, but it can escalate with the publication of proof-of-concept code, functional exploits, or technical details sufficient for exploitation. Over time, these may evolve into reliable, automated tools—potentially embedded in worms, viruses, or other attack frameworks. Values:
+Definition: This metric assesses the likelihood of a vulnerability being exploited, based on the current landscape of exploit techniques, availability of exploit code, and evidence of active “in-the-wild” attacks. The public release of easy-to-use exploit code or detailed exploitation instructions significantly increases the pool of potential attackers, including those with limited technical skills. Initially, exploitation may be theoretical, but it can escalate with the publication of proof-of-concept code, functional exploits, or technical details sufficient for exploitation. Over time, these may evolve into reliable, automated tools—potentially embedded in worms, viruses, or other attack frameworks. Values: - Not Defined (X): No information is available. - Unproven (U): No exploit code is available, or the exploit is theoretical. - Proof-of-Concept (P): Exploit code is available, but it is not functional. - Functional (F): Exploit code is available and functional. - High (H): Exploit code is widely available and being actively exploited.
 
 ## Explorer Preview Pane
 
-The Explorer Preview Pane in Windows File Explorer is a feature that allows users to view the contents of a file such as images, PDFs, Office documents, and text files without opening them in their associated applications. While convenient, this feature has historically posed a security risk and has been exploited as an attack vector.
+The Explorer Preview Pane in Windows File Explorer is a feature that allows users to view the contents of a file such as images, PDFs, Office documents, and text files without opening them in their associated applications. While convenient, this feature has historically posed a security risk and has been exploited as an attack vector. Examples of Attack methods: File Preview Without Execution: When a user selects a file in Explorer with the Preview Pane enabled, Windows automatically loads a preview handler for that file type. This can trigger the rendering of the file’s contents even if the user never double-clicks to open it. Mark of the Web (MotW) Bypass: Files downloaded from the internet are tagged with a Mark of the Web (MotW), which tells Windows and Office to treat them as potentially dangerous. Office apps typically open MotW-tagged files in Protected View, a sandboxed environment that limits what the file can do. The Vulnerability: In the past, the Preview Pane could render MotW-tagged Office files Protected View is Office-specific, and our mitigation to prevent MotW documents from loading in the Explorer Preview Pane was specific to Office.
 
 ## Firewall
 
@@ -194,11 +194,11 @@ A Fix refers to a solution or patch that addresses a specific problem or vulnera
 
 ## Graphics Device Interface Plus (GDI+)
 
-Graphics Device Interface Plus (GDI+) is a graphical subsystem developed by Microsoft, used primarily in Windows applications to render graphics such as:
+Graphics Device Interface Plus (GDI+) is a graphical subsystem developed by Microsoft, used primarily in Windows applications to render graphics such as: - 2D vector graphics (lines, curves, shapes) - Images (bitmaps, JPEGs, PNGs, etc.) - Text (with advanced font and layout support) GDI+ is an enhancement of the original GDI (Graphics Device Interface) and provides more advanced features, better performance, and improved support for modern graphics formats. It’s commonly used in Windows Forms applications and is part of the .NET Framework.
 
 ## Heap Randomization
 
-Heap randomization places dynamically allocated memory regions at unpredictable locations. This mitigates heap-based buffer overrun exploits by making it harder for attackers to predict where heap structures reside.
+Heap randomization places dynamically allocated memory regions at unpredictable locations. This mitigates heap-based buffer overrun exploits by making it harder for attackers to predict where heap structures reside. Enabled by default in Windows Vista and later applies to all applications regardless of whether they opt into ASLR.
 
 ## HTML Injection
 
@@ -218,7 +218,7 @@ Windows provides the ability for applications to directly request services of de
 
 ## Integrity Impact (I) – CVSS 3.1 metric
 
-Definition: This metric measures the impact to integrity of a successfully exploited vulnerability. Integrity refers to the trustworthiness and veracity of information. Integrity of a system is impacted when an attacker causes unauthorized modification of system data. Integrity is also impacted when a system user can repudiate critical actions taken in the context of the system (e.g. due to insufficient logging).
+Definition: This metric measures the impact to integrity of a successfully exploited vulnerability. Integrity refers to the trustworthiness and veracity of information. Integrity of a system is impacted when an attacker causes unauthorized modification of system data. Integrity is also impacted when a system user can repudiate critical actions taken in the context of the system (e.g. due to insufficient logging). Values: - None (N): There is no loss of integrity within the impacted component. - Low (L): Modification of data is possible, but the attacker does not have control over the consequence of a modification, or the amount of modification is limited. The data modification does not have a direct, serious impact on the impacted component. - High (H): There is a total loss of integrity, or a complete loss of protection. For example, the attacker is able to modify any/all files protected by the impacted component. Alternatively, only some files can be modified, but malicious modification would present a direct, serious consequence to the impacted component.
 
 ## Integrity level
 
@@ -226,7 +226,7 @@ Integrity level refers to a security feature in Windows called Mandatory Integri
 
 ## Internet Authentication Service (IAS)
 
-Note: IAS has been superseded by Network Policy Server (NPS) starting with Windows Server 2008. NPS includes all IAS features and adds more, such as better integration with Active Directory and improved policy management. While IAS might still be found in legacy systems, it is not recommended for new deployments due to lack of support and security updates.
+Note: IAS has been superseded by Network Policy Server (NPS) starting with Windows Server 2008. NPS includes all IAS features and adds more, such as better integration with Active Directory and improved policy management. While IAS might still be found in legacy systems, it is not recommended for new deployments due to lack of support and security updates. Internet Authentication Service (IAS) is the Microsoft implementation of a Remote Authentication Dial-in User Service (RADIUS) server. As a RADIUS server, IAS performs centralized connection authentication, authorization, and accounting for various types of network access, including wireless and virtual private network (VPN) connections. Note: IAS has been superseded by Network Policy Server (NPS) starting with Windows Server 2008. NPS includes all IAS features and adds more, such as better integration with Active Directory and improved policy management. While IAS might still be found in legacy s y stems, it is not recommended for new deployments due to lack of support and security updates.
 
 ## Internet Information Service (IIS)
 
@@ -246,7 +246,7 @@ Intrusion Prevention System (IPS): An Intrusion Prevention System (IPS) is a net
 
 ## IP Address and Domain Restrictions
 
-IP Address and Domain Restrictions is a Web Server (IIS) feature that allows the creation of rules to allow or deny access to content based on specific IP addresses, ranges of IP addresses, or domain names. These rules are also known as "allow list" (allowed) or "deny list" [MA18.1](denied) rule sets.
+IP Address and Domain Restrictions is a Web Server (IIS) feature that allows the creation of rules to allow or deny access to content based on specific IP addresses, ranges of IP addresses, or domain names. These rules are also known as "allow list" (allowed) or "deny list" [MA18.1](denied) rule sets. By default, all IP addresses, computers, and domains can access your site. To enhance security, you can restrict access by creating rules for specific IP addresses, ranges of IP addresses, or domain names. For example, if you have a site on an intranet server connected to the Internet, you can prevent Internet users from accessing your intranet site by allowing access only to members of your intranet and explicitly denying access to outside users.
 
 ## JPEG
 
@@ -262,7 +262,7 @@ Kerberos is a protocol used to mutually authenticate users and services on an op
 
 ## Kill Bits
 
-A security feature in Microsoft Internet Explorer and Microsoft Office that prevents an ActiveX control or OLE object (COM-based extensibility features used to enhance web pages and documents) from ever being loaded by the HTML-rendering engine or document host. This is achieved by setting a specific registry value known as the kill bit. Once the kill bit is set, the control or object is permanently disabled—even if it is fully installed—ensuring that vulnerable components cannot be reactivated or exploited.
+A security feature in Microsoft Internet Explorer and Microsoft Office that prevents an ActiveX control or OLE object (COM-based extensibility features used to enhance web pages and documents) from ever being loaded by the HTML-rendering engine or document host. This is achieved by setting a specific registry value known as the kill bit. Once the kill bit is set, the control or object is permanently disabled—even if it is fully installed—ensuring that vulnerable components cannot be reactivated or exploited. This mitigation is especially important for legacy components and is relevant in environments where Internet Explorer is deprecated but Office applications remain in use. Microsoft Office enforces similar protections for COM objects, and administrators can configure these settings to block specific controls across Office applications. See Kill Bits and Office COM Kill Bits for more
 
 ## Low Integrity Level
 
@@ -286,11 +286,11 @@ Microsoft .NET Remoting is a technology that simplifies how applications communi
 
 ## Microsoft Azure
 
-Microsoft Azure is a comprehensive cloud computing platform developed by Microsoft. It provides a wide range of services—including computing, storage, networking, databases, analytics, artificial intelligence (AI), and Internet of Things (IoT)that enable individuals, businesses, and governments to build, deploy, and manage applications and services through Microsoft-managed data centers.
+Microsoft Azure is a comprehensive cloud computing platform developed by Microsoft. It provides a wide range of services—including computing, storage, networking, databases, analytics, artificial intelligence (AI), and Internet of Things (IoT)that enable individuals, businesses, and governments to build, deploy, and manage applications and services through Microsoft-managed data centers. Azure supports multiple service models: - Infrastructure as a Service (IaaS): Offers virtualized computing resources over the internet. - Platform as a Service (PaaS): Provides a platform allowing customers to develop, run, and manage applications without dealing with the infrastructure. - Software as a Service (SaaS): Delivers software applications over the internet, on a subscription basis. Azure is known for its: - Global reach: Over 300 data centers in more than 60 regions. - Security and compliance: Built-in tools and frameworks to meet enterprise-grade security and regulatory requirements. - Hybrid capabilities: Seamless integration between on-premises environments and the cloud. - AI and analytics: Advanced tools for machine learning, big data, and real-time insights.
 
 ## Microsoft DirectShow
 
-Microsoft DirectShow is used for streaming media on Microsoft Windows operating systems. DirectShow is used for high-quality capture and playback of multimedia streams. It automatically detects and uses video and audio acceleration hardware when available but also supports systems without acceleration hardware. DirectShow is also integrated with other DirectX technologies. Some examples of applications that use DirectShow include DVD players, video editing applications, AVI to ASF converters, MP3 players, and digital video capture applications.
+Microsoft DirectShow is used for streaming media on Microsoft Windows operating systems. DirectShow is used for high-quality capture and playback of multimedia streams. It automatically detects and uses video and audio acceleration hardware when available but also supports systems without acceleration hardware. DirectShow is also integrated with other DirectX technologies. Some examples of applications that use DirectShow include DVD players, video editing applications, AVI to ASF converters, MP3 players, and digital video capture applications. DirectX consists of a set of low-level Application Programming Interfaces (APIs) used by Windows programs for multimedia support. Within DirectX, DirectShow technology performs client-side audio and video sourcing, manipulation and rendering.
 
 ## Microsoft Entra ID
 
@@ -330,11 +330,11 @@ The Online Services Bug Bar is a set of criteria used by Microsoft to classify a
 
 ## Out-of-band security release
 
-An Out-of-Band (OOB) Security Release is a security update issued outside of the regular update schedule. Typically, Microsoft releases patches on the second Tuesday of each month, known as Patch Tuesday. An OOB security release occurs when there is an urgent need to address a critical vulnerability that cannot wait until the next scheduled update. Purpose:
+An Out-of-Band (OOB) Security Release is a security update issued outside of the regular update schedule. Typically, Microsoft releases patches on the second Tuesday of each month, known as Patch Tuesday. An OOB security release occurs when there is an urgent need to address a critical vulnerability that cannot wait until the next scheduled update. Purpose: Urgent Vulnerability Fix: Addresses unexpected, widespread exploits or critical vulnerabilities that pose immediate risks. Zero -Day Exploits: Often released in response to unknown hardware, firmware, or software vulnerabilities, that are actively being exploited before the vendor becomes aware of them.
 
 ## Outlook Attachment Preview:
 
-Outlook Attachment Preview feature allows users to view the contents of an email attachment such as Word documents, Excel spreadsheets, PDFs, and images without opening the file in its native application. This is done by either single-clicking the attachment or selecting "Preview" from the context menu. Some Office applications (OneNote, Publisher, Project, Access) don’t support Protected View, and these also do not open in Protected View for attachment preview. (Also noting Visio as a special case which does support Protected View for Outlook attachment preview, but not in the full Visio application)
+Outlook Attachment Preview feature allows users to view the contents of an email attachment such as Word documents, Excel spreadsheets, PDFs, and images without opening the file in its native application. This is done by either single-clicking the attachment or selecting "Preview" from the context menu. Some Office applications (OneNote, Publisher, Project, Access) don’t support Protected View, and these also do not open in Protected View for attachment preview. (Also noting Visio as a special case which does support Protected View for Outlook attachment preview, but not in the full Visio application) Security Model of Outlook Attachment Preview Protected View Integration: For Office file types that support Protected View (e.g. Word, Excel, PowerPoint, and Visio files), Outlook uses Protected View when previewing attachments. Protected View is a sandboxed environment that restricts editing, macros, and other potentially dangerous features. Safer Than Opening Normally: When you open a file normally, even with Protected View, users are more likely to click “Enable Editing” or “Enable Content,” which can activate malicious code. Non-Office Files: For other file types (e.g., PDFs, images), Outlook uses registered preview handlers in Windows. These are generally safe but depend on the security of the preview handler itself. A vulnerable handler could still be exploited.
 
 ## Outlook Mail Preview Pane (Reading Pane)
 
@@ -362,7 +362,7 @@ PGM is a reliable and scalable multicast protocol that enables receivers to dete
 
 ## Privileges Required (PR) - CVSS 3.1 Metric
 
-Definition: This metric describes the level of privileges an attacker must possess prior to successfully exploiting the vulnerability. The method by which the attacker obtains privileged credentials prior to the attack (e.g., free trial accounts), is outside the scope of this metric. Generally, self-service provisioned accounts do not constitute a privilege requirement if the attacker can grant themselves privileges as part of the attack.
+Definition: This metric describes the level of privileges an attacker must possess prior to successfully exploiting the vulnerability. The method by which the attacker obtains privileged credentials prior to the attack (e.g., free trial accounts), is outside the scope of this metric. Generally, self-service provisioned accounts do not constitute a privilege requirement if the attacker can grant themselves privileges as part of the attack. Values: - None (N): The attacker is unauthorized prior to attack, and therefore does not require any access to settings or files of the vulnerable system to carry out an attack. - Low (L): The attacker requires privileges that provide basic user capabilities that could normally affect only settings and files owned by a user. Alternatively, an attacker with Low privileges can access only non-sensitive resources. - High (H): The attacker requires privileges that provide significant (e.g., administrative) control over the vulnerable component allowing access to component-wide settings and files. See Privileges Required for more information.
 
 ## Publisher Driven Update (PDU)
 
@@ -370,7 +370,7 @@ Updates that are automatically pushed to customers.
 
 ## Race Condition
 
-A Race Condition is a type of software bug that occurs when the outcome of a process depends on the timing or sequence of uncontrollable events, such as the order in which threads or processes execute.
+A Race Condition is a type of software bug that occurs when the outcome of a process depends on the timing or sequence of uncontrollable events, such as the order in which threads or processes execute. Purpose: - Concurrency Issues: Race conditions typically arise in concurrent systems where multiple threads or processes are executing simultaneously. - Synchronization: Proper synchronization mechanisms are required to prevent race conditions and ensure consistent and correct behavior.
 
 ## Ransomware
 
@@ -378,11 +378,11 @@ Ransomware is a type of malicious software, or malware, that cybercriminals use 
 
 ## Remediation Level (RL)
 
-Definition: This metric evaluates the availability and effectiveness of remediation measures for the vulnerability. Values:
+Definition: This metric evaluates the availability and effectiveness of remediation measures for the vulnerability. Values: - Not Defined (ND): No remediation is available. - Official Fix (OF): An official fix is available from the vendor. - Temporary Fix (TF): A temporary fix or workaround is available. - Workaround (W): A workaround is available, but it is not an official fix. - Unavailable (U): No remediation is available.
 
 ## Remote Authentication Dial-in User Service (RADIUS)
 
-Internet Authentication Service (IAS) is the Microsoft implementation of a Remote Authentication Dial-in User Service (RADIUS) server. As a RADIUS server, IAS performs centralized connection authentication, authorization, and accounting for various types of network access, including wireless and virtual private network (VPN) connections.
+Internet Authentication Service (IAS) is the Microsoft implementation of a Remote Authentication Dial-in User Service (RADIUS) server. As a RADIUS server, IAS performs centralized connection authentication, authorization, and accounting for various types of network access, including wireless and virtual private network (VPN) connections. Windows 2000 Server: IAS does not support RADIUS Proxy because it is based on the Option Pack version. Windows Server 2003: IAS functions as both a RADIUS server and proxy, forwarding authentication and accounting messages to other RADIUS servers.
 
 ## Remote Desktop Protocol (RDP)
 
@@ -398,11 +398,11 @@ The Remote Procedure Call (RPC) Network Data Representation (NDR) Engine is the 
 
 ## Report Confidence (RC)
 
-Definition: This metric measures the confidence in the existence and details of the vulnerability.
+Definition: This metric measures the confidence in the existence and details of the vulnerability. Values: - Not Defined (ND): No information is available. - Unknown (U): The existence of the vulnerability is uncertain. - Reasonable (R): There is reasonable confidence in the existence of the vulnerability. - Confirmed (C): The vulnerability has been confirmed by multiple sources.
 
 ## Same Origin Policy
 
-The Same-Origin Policy restricts how documents or scripts loaded from one origin can interact with resources from another origin. An origin is defined by the combination of:
+The Same-Origin Policy restricts how documents or scripts loaded from one origin can interact with resources from another origin. An origin is defined by the combination of: - Scheme (Protocol): for example, http or https - Host (Domain): for example, example.com - Port: for example, 80 or 443 Two URLs share the same origin only if all three match as in the following: - http://example.com/page1 and http://example.com/page2 → Same origin - https://example.com/page1 and http://example.com/page2 → Different origin (protocol differs) [developer....ozilla.org], [portswigger.net], [en.wikipedia.org] Same-Origin Policy protects user data and mitigates attacks by stopping such common attacks as: - Cross-Site Scripting (XSS): Malicious scripts stealing data. - Cross-Site Request Forgery (CSRF): Unauthorized actions on authenticated sites. In addition, same-origin policy maintains isolation by ensuring that visiting an untrusted site doesn’t compromise sessions on trusted sites such as your email or banking site. Scope (S) CVSS 3.1 Metric Definition: Determines whether the exploitation of the vulnerability impacts resources beyond the security scope of the vulnerable component. Values: Unchanged (U): An exploited vulnerability can only affect resources managed by the same security authority. In this case, the vulnerable component and the impacted component are either the same, or both are managed by the same security authority. Changed (C): An exploited vulnerability can affect resources beyond the security scope managed by the security authority of the vulnerable component. In this case, the vulnerable component and the impacted component are different and managed by different security authorities.
 
 ## Secure Channel (Schannel)
 
@@ -426,7 +426,7 @@ A security update is a software patch or modification designed to address vulner
 
 ## Server Side Request Forgery (SSRF)
 
-Server Side Request Forgery (SSFR) is a type of attack that can allow an attacker to target internal systems behind the firewall that are normally inaccessible from the outside world. The attacker could then create requests which appear to come from the vulnerable server. In addition, an attacker can use SSRF attacks to:
+Server Side Request Forgery (SSFR) is a type of attack that can allow an attacker to target internal systems behind the firewall that are normally inaccessible from the outside world. The attacker could then create requests which appear to come from the vulnerable server. In addition, an attacker can use SSRF attacks to: - Scan and attack systems from the internal network that are not normally accessible. - Enumerate and attack services that are running on these hosts. - Exploit host-based authentication services.
 
 ## Severity Rating
 
@@ -462,7 +462,7 @@ Uniscribe is a set of APIs that allow a high degree of control for fine typograp
 
 ## User Interaction (UI) CVSS 3.1
 
-Definition: Indicates whether user interaction is required for the exploitation.
+Definition: Indicates whether user interaction is required for the exploitation. Values: - None (N): No user interaction is required. - Required (R): User interaction is required.
 
 ## VBScript
 
@@ -474,7 +474,7 @@ The Vector Score is part of the Common Vulnerability Scoring System (CVSS) and r
 
 ## Vulnerability
 
-In the context of cybersecurity, a vulnerability is a weakness or flaw in a system, application, or network that can be exploited by attackers to gain unauthorized access, disrupt operations, or cause other forms of harm. Vulnerabilities can arise from various sources, including software bugs, misconfigurations, hardware issues, and human errors.
+In the context of cybersecurity, a vulnerability is a weakness or flaw in a system, application, or network that can be exploited by attackers to gain unauthorized access, disrupt operations, or cause other forms of harm. Vulnerabilities can arise from various sources, including software bugs, misconfigurations, hardware issues, and human errors. Types of Vulnerabilities: - Zero-Day Vulnerabilities: Vulnerabilities that are unknown to the software vendor and have no available fix. These are particularly dangerous because attackers can exploit them before they are patched. - Known Vulnerabilities: Vulnerabilities that have been identified and documented, often with available patches or mitigations. These are tracked using identifiers like Common Vulnerabilities and Exposures (CVE) numbers. - Configuration Vulnerabilities: Weaknesses resulting from improper configuration settings, such as open ports, default passwords, or insecure protocols.
 
 ## Vulnerability Databases
 

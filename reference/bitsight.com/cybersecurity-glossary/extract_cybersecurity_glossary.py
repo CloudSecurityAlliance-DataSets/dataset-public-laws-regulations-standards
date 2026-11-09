@@ -83,20 +83,27 @@ def harvest_term_urls(index_html):
 
 
 def fetch_term_definition(url, session):
-    """Fetch a per-term page, return the first paragraph of <article>."""
+    """Fetch a per-term page, return the introductory definition section (paragraphs and lists before the first h2)."""
     r = session.get(url, timeout=30)
     r.raise_for_status()
     soup = BeautifulSoup(r.text, "html.parser")
-    # The per-term page has h1 = term, then article > p* with definition body.
     article = soup.find("article")
     if not article:
         return None
-    # First substantial paragraph.
-    for p in article.find_all("p"):
-        text = squish(p.get_text(" ", strip=True))
-        if text and len(text) >= 40:
-            return text
-    return None
+    parts = []
+    for el in article.find_all(["h2", "h3", "p", "li"]):
+        if el.name in ("h2", "h3") and parts:
+            break
+        if el.name == "p" and el.find_parent("li") is not None:
+            continue
+        text = squish(el.get_text(" ", strip=True))
+        if not text:
+            continue
+        if el.name == "p" and (len(text) >= 40 or parts):
+            parts.append(text)
+        elif el.name == "li" and parts:
+            parts.append(f"- {text}")
+    return " ".join(parts) if parts else None
 
 
 def parse():

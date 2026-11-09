@@ -59,15 +59,23 @@ def parse(html):
         term = squish(h4.get_text(" ", strip=True))
         if not term or len(term) > 200:
             continue
-        # The definition is the next <p>; skip empty placeholders.
-        p = h4.find_next("p")
-        if not p:
+        parts = []
+        for el in h4.next_elements:
+            if el is h4 or el in h4.descendants:
+                continue
+            if getattr(el, "name", None) in ("h1", "h2", "h3", "h4"):
+                break
+            if getattr(el, "name", None) in ("p", "li"):
+                if el.name == "p" and el.find_parent("li") is not None:
+                    continue
+                txt = squish(el.get_text(" ", strip=True))
+                if txt:
+                    parts.append(f"- {txt}" if el.name == "li" else txt)
+        if not parts:
             continue
-        definition = squish(p.get_text(" ", strip=True))
+        definition = " ".join(parts)
         if not definition or len(definition) < 20:
             continue
-        # Some <p>s appear before any h4 (page chrome); guard by ensuring p
-        # appears in document order *after* this h4 — find_next already does so.
         anchor = f"{SOURCE_URL}#{slug(term)}"
         terms.append(
             {

@@ -5,7 +5,7 @@ Markdown alternate (used by the extractor): https://developers.cloudflare.com/te
 
 License: LicenseRef-Vendor-Copyright (Cloudflare, Inc.; internal CSA use only — not redistributable).
 
-Extracted: 5 terms.
+Extracted: 6 terms.
 
 ---
 
@@ -13,9 +13,13 @@ Extracted: 5 terms.
 
 An entity that contains various settings, users, and resources (zones, Zero Trust applications, Workers).
 
+## On this page
+
+![Docs](https://developers.cloudflare.com/)
+
 ## Resource
 
-A resource is an entity owned by an account, which could be a zone/domain, a Workers instance, or a Zero Trust application. ```json {"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"@id":"/directory/","name":"Directory"}},{"@type":"ListItem","position":2,"item":{"@id":"/tenant/","name":"Tenant"}},{"@type":"ListItem","position":3,"item":{"@id":"/tenant/glossary/","name":"Glossary"}}]} ```
+A resource is an entity owned by an account, which could be a zone/domain, a Workers instance, or a Zero Trust application. Was this helpful? YesNo
 
 ## Tenant
 

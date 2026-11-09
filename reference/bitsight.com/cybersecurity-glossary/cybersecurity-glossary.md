@@ -16,13 +16,13 @@ Source: <https://www.bitsight.com/glossary/attack-surface>
 
 ## Attack Surface Monitoring
 
-An attack surface assessment is the initial step in attack surface monitoring, which involves:
+An attack surface assessment is the initial step in attack surface monitoring, which involves: Inventory of Digital Assets: Documenting all hardware, software, and network components used by the organization; Identification of Potential Vulnerabilities: Pinpointing weaknesses that could be exploited by attackers within those assets; Security Posture Evaluation: Analyzing the current security measures and their effectiveness in protecting against potential threats
 
 Source: <https://www.bitsight.com/glossary/attack-surface-monitoring>
 
 ## CIA Triad
 
-The CIA Triad is a foundational model in information security that represents three core principles:
+The CIA Triad is a foundational model in information security that represents three core principles: Confidentiality: Protecting data from unauthorized access; Integrity: Ensuring data remains accurate and trustworthy; Availability: Ensuring data and systems are accessible to authorized users when needed
 
 Source: <https://www.bitsight.com/glossary/cia-triad>
 
@@ -478,7 +478,7 @@ Source: <https://www.bitsight.com/glossary/how-does-ransomware-work>
 
 ## How to Avoid Ransomware
 
-The ransomware trend continues to run rampant. One in four breaches involve ransomware , and organized crime actors use ransomware in more than 62 percent of incidents. Cyber criminals are taking advantage of these new opportunities to exploit a greatly expanded attack surface:
+The ransomware trend continues to run rampant. One in four breaches involve ransomware , and organized crime actors use ransomware in more than 62 percent of incidents. Cyber criminals are taking advantage of these new opportunities to exploit a greatly expanded attack surface: Ransomware attacks doubled in 2021, then spiked again in the first half of 2022; The overall cost of recovering from a ransomware incident is trending upwards; In 2021, ransomware attacks on government agencies globally increased by 1,885% over 2020 attacks; On average, businesses experience 20 days of downtime from ransomware; One in four consumers will abandon a product or service after a ransomware-related disruption; From May 2021–June 2022, ransomware groups took credit for 3,640 incidents on their webpages
 
 Source: <https://www.bitsight.com/glossary/how-to-avoid-ransomware>
 
@@ -562,7 +562,7 @@ Source: <https://www.bitsight.com/glossary/pci-security-standards>
 
 ## Ransomware Prevention
 
-The ransomware trend continues to run rampant. One in four breaches involve ransomware , and organized crime actors use ransomware in more than 62 percent of incidents. Cyber criminals are taking advantage of these new opportunities to exploit a greatly expanded attack surface:
+The ransomware trend continues to run rampant. One in four breaches involve ransomware , and organized crime actors use ransomware in more than 62 percent of incidents. Cyber criminals are taking advantage of these new opportunities to exploit a greatly expanded attack surface: Ransomware attacks doubled in 2021, then spiked again in the first half of 2022; The overall cost of recovering from a ransomware incident is trending upwards; In 2021, ransomware attacks on government agencies globally increased by 1,885% over 2020 attacks; On average, businesses experience 20 days of downtime from ransomware; One in four consumers will abandon a product or service after a ransomware-related disruption; From May 2021–June 2022, ransomware groups took credit for 3,640 incidents on their webpages
 
 Source: <https://www.bitsight.com/glossary/ransomware-prevention>
 
