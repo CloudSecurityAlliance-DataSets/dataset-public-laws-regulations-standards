@@ -51,16 +51,24 @@ def slug(s):
 def parse(html):
     soup = BeautifulSoup(html, "html.parser")
     terms = []
-    # Anchor on h3 elements; definition is the next <p>.
+    # Anchor on h3 elements; collect <p> elements within this h3 section before the next heading.
     for h3 in soup.select("h3"):
-        term = squish(h3.get_text(" ", strip=True))
+        term = re.sub(r"\s+blog/\S+$", "", squish(h3.get_text(" ", strip=True)))
         if not term or len(term) > 200:
             continue
-        # Drop UI/nav h3s by requiring an immediately-following <p>.
-        p = h3.find_next("p")
-        if not p:
+        ps = []
+        for el in h3.next_elements:
+            if el is h3 or el in h3.descendants:
+                continue
+            if getattr(el, "name", None) in ("h1", "h2", "h3", "h4"):
+                break
+            if getattr(el, "name", None) == "p":
+                txt = squish(el.get_text(" ", strip=True))
+                if txt:
+                    ps.append(txt)
+        if not ps:
             continue
-        definition = squish(p.get_text(" ", strip=True))
+        definition = " ".join(ps)
         if not definition or len(definition) < 30:
             continue
         anchor = f"{SOURCE_URL}#{slug(term)}"

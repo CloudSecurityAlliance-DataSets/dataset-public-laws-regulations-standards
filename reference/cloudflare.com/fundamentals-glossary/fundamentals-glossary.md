@@ -5,7 +5,7 @@ Markdown alternate (used by the extractor): https://developers.cloudflare.com/fu
 
 License: LicenseRef-Vendor-Copyright (Cloudflare, Inc.; internal CSA use only — not redistributable).
 
-Extracted: 412 terms.
+Extracted: 424 terms.
 
 ---
 
@@ -65,7 +65,7 @@ _product: Cloudflare WAN_
 
 ## apex domain
 
-Apex domain is used to refer to a domain that does not contain a subdomain part, such as example.com (without www.). It is also known as "root domain" or "naked domain".
+Apex domain is used to refer to a domain that does not contain a subdomain part, such as `example.com` (without `www.`). It is also known as "root domain" or "naked domain".
 
 _product: DNS_
 
@@ -185,7 +185,13 @@ _product: WAF_
 
 ## bookmark
 
-A bookmark is a mostly alphanumeric string like 0000007b-0000b26e-00001538-0c3e87bb37b3db5cc52eedb93cd3b96b which represents a specific state of a SQLite database at a certain point in time. Bookmarks are designed to be lexically comparable: a bookmark representing an earlier point in time compares less than one representing a later point, using regular string comparison.
+A bookmark represents the state of a database at a specific point in time.<ul><li>Bookmarks are lexicographically sortable. Sorting orders a list of bookmarks from oldest-to-newest.</li></ul>
+
+_product: D1_
+
+## bookmark
+
+A bookmark is a mostly alphanumeric string like `0000007b-0000b26e-00001538-0c3e87bb37b3db5cc52eedb93cd3b96b` which represents a specific state of a SQLite database at a certain point in time. Bookmarks are designed to be lexically comparable: a bookmark representing an earlier point in time compares less than one representing a later point, using regular string comparison.
 
 _product: Durable Objects_
 
@@ -251,13 +257,13 @@ _product: Cache_
 
 ## cached bandwidth (cached egress bandwidth)
 
-The amount of bandwidth served from Cloudflare without hitting the origin server. Cached bandwidth is the sum of all EdgeResponseBytes where CacheCacheStatus equals hit, stale, updating, ignored, or revalidated.
+The amount of bandwidth served from Cloudflare without hitting the origin server. Cached bandwidth is the sum of all `EdgeResponseBytes` where `CacheCacheStatus` equals `hit`, `stale`, `updating`, `ignored`, or `revalidated`.
 
 _product: Cache_
 
 ## cached requests
 
-The number of requests served from Cloudflare without having to hit the origin server. Cached requests are the sum of all requests where CacheCacheStatus equals hit, stale, updating, ignored. This does not include revalidated since the request had to be sent to the origin server.
+The number of requests served from Cloudflare without having to hit the origin server. Cached requests are the sum of all requests where `CacheCacheStatus` equals `hit`, `stale`, `updating`, `ignored`. This does not include `revalidated` since the request had to be sent to the origin server.
 
 _product: Cache_
 
@@ -275,7 +281,7 @@ _product: Cache_
 
 ## canonical URL
 
-The preferred version of a web page, specified by a <link rel="canonical"> HTML tag in the page's <head> section. When multiple URLs serve the same or similar content, the canonical URL tells search engines and crawlers which version is authoritative.
+The preferred version of a web page, specified by a `<link rel="canonical">` HTML tag in the page's `<head>` section. When multiple URLs serve the same or similar content, the canonical URL tells search engines and crawlers which version is authoritative.
 
 _product: AI Crawl Control_
 
@@ -371,13 +377,13 @@ _product: AI Gateway_
 
 ## cf-aig-event-id
 
-[cf-aig-event-id](https://developers.cloudflare.com/ai-gateway/evaluations/add-human-feedback-api/#3-retrieve-the-cf-aig-log-id) is a unique identifier for an event, used to trace specific events through the system.
+[cf-aig-event-id](https://developers.cloudflare.com/ai-gateway/observability/logging/) is a unique identifier for an event, used to trace specific events through the system.
 
 _product: AI Gateway_
 
 ## cf-aig-log-id
 
-The [cf-aig-log-id](https://developers.cloudflare.com/ai-gateway/evaluations/add-human-feedback-api/#3-retrieve-the-cf-aig-log-id) is a unique identifier for the specific log entry to which you want to add feedback.
+The [cf-aig-log-id](https://developers.cloudflare.com/ai-gateway/observability/logging/) is a unique identifier for the specific log entry to which you want to add feedback. Treat it as an opaque string.
 
 _product: AI Gateway_
 
@@ -390,6 +396,18 @@ _product: AI Gateway_
 ## cf-aig-metadata
 
 [Custom metadata](https://developers.cloudflare.com/ai-gateway/configuration/custom-metadata/)allows you to tag requests with user IDs or other identifiers, enabling better tracking and analysis of your requests.
+
+_product: AI Gateway_
+
+## cf-aig-no-wholesale
+
+Prevents [Unified Billing fallback](https://developers.cloudflare.com/ai-gateway/features/unified-billing/#prevent-unified-billing-fallback-for-byok-third-party-providers) for a third-party provider request when set to `true`. The request must use provider credentials supplied with the request or stored on the gateway.
+
+_product: AI Gateway_
+
+## cf-aig-request-id
+
+The cf-aig-request-id response header identifies the request. For a request that AI Gateway answers in a single step, it has the same value as cf-aig-log-id.
 
 _product: AI Gateway_
 
@@ -419,13 +437,13 @@ _product: AI Gateway_
 
 ## cf-cache-ttl
 
-Deprecated: This header is replaced by cf-aig-cache-ttl. It specifies cache time-to-live.
+Deprecated: This header is replaced by `cf-aig-cache-ttl`. It specifies cache time-to-live.
 
 _product: AI Gateway_
 
 ## cf-skip-cache
 
-Deprecated: This header is replaced by cf-aig-skip-cache. It bypasses caching for a specific request.
+Deprecated: This header is replaced by `cf-aig-skip-cache`. It bypasses caching for a specific request.
 
 _product: AI Gateway_
 
@@ -527,7 +545,7 @@ _product: Cloudflare One_
 
 ## Cloudflare Tunnel
 
-Cloudflare Tunnel uses a software agent (cloudflared) to establish a secure connection between a private network and Cloudflare.
+Cloudflare Tunnel uses a software agent (`cloudflared`) to establish a secure connection between a private network and Cloudflare.
 
 _product: Cloudflare One_
 
@@ -545,7 +563,7 @@ _product: Cloudflare One_
 
 ## cloudflared replica
 
-An additional instance of cloudflared that points to the same Cloudflare Tunnel. It ensures that your network remains online in case a single host running cloudflared goes down.
+An additional instance of `cloudflared` that points to the same Cloudflare Tunnel. It ensures that your network remains online in case a single host running `cloudflared` goes down.
 
 _product: Cloudflare One_
 
@@ -581,7 +599,7 @@ _product: Fundamentals_
 
 ## content object
 
-A content object is any binary part of a request body (as detected by Cloudflare systems) that does not match any of the following content types: text/html, text/x-shellscript, application/json, text/csv, or text/xml.
+A content object is any binary part of a request body (as detected by Cloudflare systems) that does not match any of the following content types: `text/html`, `text/x-shellscript`, `application/json`, `text/csv`, or `text/xml`.
 
 _product: WAF_
 
@@ -641,7 +659,7 @@ _product: Fundamentals_
 
 ## Cron Triggers
 
-[Cron Triggers](https://developers.cloudflare.com/workers/configuration/cron-triggers/) allow users to map a cron expression to a Worker using a [scheduled() handler](https://developers.cloudflare.com/workers/runtime-apis/handlers/scheduled/) that enables Workers to be executed on a schedule.
+[Cron Triggers](https://developers.cloudflare.com/workers/configuration/cron-triggers/) allow users to map a cron expression to a Worker using a [`scheduled()` handler](https://developers.cloudflare.com/workers/runtime-apis/handlers/scheduled/) that enables Workers to be executed on a schedule.
 
 _product: Workers_
 
@@ -650,6 +668,12 @@ _product: Workers_
 Cumulative layout shift (CLS) is a web performance metric that quantifies the visual stability of a webpage by measuring the sum of unexpected layout shifts of elements during the page's loading and rendering process.
 
 _product: Speed_
+
+## D1
+
+[D1](https://developers.cloudflare.com/d1/) is Cloudflare's native serverless database.
+
+_product: Workers_
 
 ## D1
 
@@ -695,7 +719,7 @@ _product: Fundamentals_
 
 ## deployment
 
-[Deployments](https://developers.cloudflare.com/workers/configuration/versions-and-deployments/#deployments) track the version(s) of your Worker that are actively serving traffic.
+[Deployments](https://developers.cloudflare.com/workers/versions-and-deployments/#deployments) track the version(s) of your Worker that are actively serving traffic.
 
 _product: Workers_
 
@@ -729,9 +753,15 @@ An individual session of the Cloudflare One Client on a physical device, with as
 
 _product: Cloudflare One_
 
+## direct
+
+A label applied to a verified bot or agent operated by a single, narrow operator, usually on the operator's own infrastructure. Replaces the standalone "verified bot" classification used before July 1, 2026.
+
+_product: Bots_
+
 ## disposition
 
-Represents Area 1's evaluation of a specific message. For example, after evaluating an email it may get a disposition of malicious. Email messages with this disposition exhibit characteristics typical of malicious emails.
+Represents Area 1's evaluation of a specific message. For example, after evaluating an email it may get a disposition of `malicious`. Email messages with this disposition exhibit characteristics typical of malicious emails.
 
 _product: Area 1_
 
@@ -761,7 +791,7 @@ _product: DNS_
 
 ## DNS over TLS
 
-DNS over TLS (DoT) is a standard for encrypting DNS traffic using its own port (853) and TLS encryption.
+DNS over TLS (DoT) is a standard for encrypting DNS traffic using its own port (`853`) and TLS encryption.
 
 _product: DNS_
 
@@ -827,7 +857,13 @@ _product: Durable Objects_
 
 ## Durable Object class
 
-The JavaScript class that defines the methods (RPC) and handlers (fetch, alarm) as part of your Durable Object, and/or an optional constructor. All Durable Objects within a single namespace share the same class definition.
+The JavaScript class that defines the methods (RPC) and handlers (`fetch`, `alarm`) as part of your Durable Object, and/or an optional `constructor`. All Durable Objects within a single namespace share the same class definition.
+
+_product: Durable Objects_
+
+## Durable Objects
+
+The product name, or the collective noun referring to more than one Durable Object.
 
 _product: Durable Objects_
 
@@ -915,15 +951,21 @@ An error page is a webpage shown to users when they try to access a specific web
 
 _product: Waiting Room_
 
+## event
+
+An occurrence or happening that is significant and worthy of being recorded in a log.
+
+_product: Logs_
+
 ## Event
 
-The event that triggered the Workflow instance. A WorkflowEvent may contain optional parameters (data) that a Workflow can operate on.
+The event that triggered the Workflow instance. A `WorkflowEvent` may contain optional parameters (data) that a Workflow can operate on.
 
 _product: Workflows_
 
 ## example
 
-Hello, world! You can use **Markdown** features inside of your tooltips.
+Hello, world! You can use **Markdown** features inside of your `tooltips`.
 
 _product: Style Guide_
 
@@ -1013,7 +1055,7 @@ _product: Workers_
 
 ## health check
 
-Requests issued by a monitor at regular interval and — depending on the monitor settings — return a **pass** or **fail** value to make sure an endpoint is still able to receive traffic. Each health monitor request is trying to answer two questions: **Is the endpoint offline?**: Does the endpoint respond to the health monitor request at all? If so, does it respond quickly enough (as specified in the monitor's **Timeout** field)? **Is the endpoint working as expected?**: Does the endpoint respond with the expected HTTP response codes? Does it include specific information in the response body? If the answer to either of these questions is "No", then the endpoint fails the health monitor request.
+Requests issued by a monitor at regular interval and — depending on the monitor settings — return a **pass** or **fail** value to make sure an endpoint is still able to receive traffic. Each health monitor request is trying to answer two questions:<ol><li>**Is the endpoint offline?**: Does the endpoint respond to the health monitor request at all? If so, does it respond quickly enough (as specified in the monitor's **Timeout** field)?</li><li>**Is the endpoint working as expected?**: Does the endpoint respond with the expected HTTP response codes? Does it include specific information in the response body?</li></ol>If the answer to either of these questions is "No", then the endpoint fails the health monitor request.
 
 _product: Load Balancing_
 
@@ -1061,7 +1103,7 @@ _product: Waiting Room_
 
 ## In-band pricing
 
-Pricing transmitted in HTTP response headers alongside content. In Pay Per Crawl, the origin sets prices via the crawler-price header.
+Pricing transmitted in HTTP response headers alongside content. In Pay Per Crawl, the origin sets prices via the `crawler-price` header.
 
 _product: AI Crawl Control_
 
@@ -1073,13 +1115,19 @@ _product: Workers AI_
 
 ## initial resolved IP
 
-A unique, ephemeral IP address that Gateway assigns to DNS queries when filtering network traffic by hostname. The IP is randomly selected from the 100.80.0.0/16 (IPv4) or 2606:4700:0cf1:4000::/64 (IPv6) range.
+A unique, ephemeral IP address that Gateway assigns to DNS queries when filtering network traffic by hostname. The IP is randomly selected from an IPv4 range (`172.64.128.0/20` by default, configurable per account) or an IPv6 range (`2606:4700:0cf1:4000::/64`, not configurable).
 
 _product: Cloudflare One_
 
 ## input gate
 
 While a storage operation is executing, no events shall be delivered to a Durable Object except for storage completion events. Any other events will be deferred until such a time as the object is no longer executing JavaScript code and is no longer waiting for any storage operations. We say that these events are waiting for the "input gate" to open.
+
+_product: Durable Objects_
+
+## instance
+
+See "Durable Object".
 
 _product: Durable Objects_
 
@@ -1094,6 +1142,12 @@ _product: Workflows_
 Interaction to next paint (INP) is a web performance metric that measures the time it takes for a web page to become interactive and respond to user input after the initial paint, providing insights into the user experience during the interaction phase of page loading.
 
 _product: Speed_
+
+## intermediary
+
+A label applied to a verified agent that a wide range of end users can operate, such as a browser-use or agentic service. Replaces the "signed agent" classification used before July 1, 2026.
+
+_product: Bots_
 
 ## intermediate certificate
 
@@ -1241,7 +1295,7 @@ _product: WAF_
 
 ## locally-managed tunnel
 
-A Cloudflare Tunnel that was created by running cloudflared tunnel create <NAME> on the command line. Tunnel configuration is stored in your local cloudflared directory.
+A Cloudflare Tunnel that was created by running `cloudflared tunnel create <NAME>` on the command line. Tunnel configuration is stored in your local `cloudflared` directory.
 
 _product: Cloudflare One_
 
@@ -1265,7 +1319,7 @@ _product: Logs_
 
 ## LoRA Adapters
 
-[LoRA Adapters](https://developers.cloudflare.com/workers-ai/fine-tunes/loras/) (Low-Rank Adaptation adapters) are used in machine learning to fine-tune models efficiently by adjusting a small number of parameters, allowing for customization of AI models in Workers AI.[Public LoRA Adapters](https://developers.cloudflare.com/workers-ai/fine-tunes/public-loras/) are pre-trained Low-Rank Adaptation adapters available for public use.
+[LoRA Adapters](https://developers.cloudflare.com/workers-ai/fine-tunes/loras/) (Low-Rank Adaptation adapters) are used in machine learning to fine-tune models efficiently by adjusting a small number of parameters, allowing for customization of AI models in Workers AI. [Public LoRA Adapters](https://developers.cloudflare.com/workers-ai/fine-tunes/public-loras/) are pre-trained Low-Rank Adaptation adapters available for public use.
 
 _product: Workers AI_
 
@@ -1283,7 +1337,7 @@ _product: Cloudflare WAN_
 
 ## Maximum Tokens
 
-In generative AI, the user-defined property max\_tokens defines the maximum number of tokens at which the model should stop responding. This limit cannot exceed the context window.
+In generative AI, the user-defined property `max_tokens` defines the maximum number of tokens at which the model should stop responding. This limit cannot exceed the context window.
 
 _product: Workers AI_
 
@@ -1331,7 +1385,7 @@ _product: AI Crawl Control_
 
 ## Mesh IP
 
-A private IP address assigned to each device and node enrolled in Cloudflare Mesh from the 100.96.0.0/12 CGNAT range. Mesh IPs are the same as Cloudflare One Client device IPs.
+A private IP address assigned to each device and node enrolled in Cloudflare Mesh from the `100.96.0.0/12` CGNAT range. Mesh IPs are the same as Cloudflare One Client device IPs.
 
 _product: Cloudflare One_
 
@@ -1349,7 +1403,7 @@ _product: Cloudflare One_
 
 ## migration
 
-A Durable Object migration is a mapping process from a class name to a runtime state. Initiate a Durable Object migration when you need to: Create a new Durable Object class. Rename a Durable Object class. Delete a Durable Object class. Transfer an existing Durable Objects class.
+A Durable Object migration is a mapping process from a class name to a runtime state. Initiate a Durable Object migration when you need to:<ul><li>Create a new Durable Object class.</li><li>Rename a Durable Object class.</li><li>Delete a Durable Object class.</li><li>Transfer an existing Durable Objects class.</li></ul>
 
 _product: Durable Objects_
 
@@ -1397,13 +1451,13 @@ _product: SSL/TLS_
 
 ## nameserver
 
-A nameserver is a dedicated server that translates human readable hostnames (www.example.com) into IP addresses. Nameservers like root servers, TLD servers, and [authoritative nameservers](https://developers.cloudflare.com/dns/nameservers/) are fundamental components of the Domain Name System (DNS).
+A nameserver is a dedicated server that translates human readable hostnames (`www.example.com`) into IP addresses. Nameservers like root servers, TLD servers, and [authoritative nameservers](https://developers.cloudflare.com/dns/nameservers/) are fundamental components of the Domain Name System (DNS).
 
 _product: DNS_
 
 ## namespace
 
-A logical collection of Durable Objects that all share the same Durable Object (class) definition. A single namespace can have (tens of) millions of Durable Objects. Metrics are scoped per namespace. The binding name of the namespace (as it will be exposed inside Worker code) is defined in the Wrangler file under the durable\_objects.bindings.name key. Note that the binding name may not uniquely identify a namespace within an account. Instead, each namespace has a unique namespace ID, which you can view from the Cloudflare dashboard. You can instantiate a unique Durable Object within a namespace using [Durable Object namespace methods](https://developers.cloudflare.com/durable-objects/api/namespace/#methods).
+A logical collection of Durable Objects that all share the same Durable Object (class) definition. A single namespace can have (tens of) millions of Durable Objects. Metrics are scoped per namespace.<ul><li>The binding name of the namespace (as it will be exposed inside Worker code) is defined in the Wrangler file under the `durable_objects.bindings.name` key. Note that the binding name may not uniquely identify a namespace within an account. Instead, each namespace has a unique namespace ID, which you can view from the Cloudflare dashboard.</li><li>You can instantiate a unique Durable Object within a namespace using [Durable Object namespace methods](https://developers.cloudflare.com/durable-objects/api/namespace/#methods).</li></ul>
 
 _product: Durable Objects_
 
@@ -1427,7 +1481,7 @@ _product: Cloudflare One_
 
 ## OIDC
 
-OpenID Connect (OIDC) is an identity authentication protocol built on top of OAuth 2.0\. It is used verifying user identity and obtaining basic profile information.
+OpenID Connect (OIDC) is an identity authentication protocol built on top of OAuth 2.0. It is used verifying user identity and obtaining basic profile information.
 
 _product: Cloudflare One_
 
@@ -1436,6 +1490,12 @@ _product: Cloudflare One_
 Refers to a way of connecting a business network to Cloudflare. Examples of on-ramps, or ways to connect to Cloudflare, are Anycast GRE tunnels, Anycast IPsec tunnels, Cloudflare Network Interconnect (CNI), Cloudflare Tunnel, and the Cloudflare One Client.
 
 _product: Cloudflare One_
+
+## on-ramp
+
+Refers to a way of connecting a business network to Cloudflare. Examples of on-ramps, or ways to connect to Cloudflare, are Anycast GRE tunnels, Anycast IPsec tunnels, Cloudflare Network Interconnect (CNI), Cloudflare Tunnel, and WARP.
+
+_product: Cloudflare WAN_
 
 ## operator
 
@@ -1457,7 +1517,7 @@ _product: Workers_
 
 ## origin bandwidth (origin egress bandwidth)
 
-The amount of data transferred from the origin server to Cloudflare within a certain period of time. Origin bandwidth is the sum of all EdgeResponseBytes where OriginResponseStatus does not equal 0.
+The amount of data transferred from the origin server to Cloudflare within a certain period of time. Origin bandwidth is the sum of all `EdgeResponseBytes` where `OriginResponseStatus` does not equal `0`.
 
 _product: Cache_
 
@@ -1559,7 +1619,7 @@ _product: Load Balancing_
 
 ## prefix
 
-A number that identifies the network portion of an IP address. It tells devices if an IP address is on the same network or not. It is shown as a number after a slash (for example, /31) at the end of the IP address. Using an analogy, the prefix is like a street address. If an IP is in the same street, it belongs to the same network of devices.
+A number that identifies the network portion of an IP address. It tells devices if an IP address is on the same network or not. It is shown as a number after a slash (for example, `/31`) at the end of the IP address. Using an analogy, the prefix is like a street address. If an IP is in the same street, it belongs to the same network of devices.
 
 _product: Magic Transit_
 
@@ -1619,7 +1679,7 @@ _product: Fundamentals_
 
 ## proxy read timeout config
 
-Enterprise customers can increase the a proxy read timeout using a [cache rule](https://developers.cloudflare.com/cache/how-to/cache-rules/settings/#proxy-read-timeout-enterprise-only) or the [edit zone setting API endpoint](https://developers.cloudflare.com/api/resources/zones/subresources/rate%5Fplans/methods/get/).
+Enterprise customers can increase the a proxy read timeout using a [cache rule](https://developers.cloudflare.com/cache/how-to/cache-rules/settings/#proxy-read-timeout-enterprise-only) or the [edit zone setting API endpoint](https://developers.cloudflare.com/api/resources/zones/subresources/rate_plans/methods/get/).
 
 _product: Fundamentals_
 
@@ -1631,7 +1691,7 @@ _product: Fundamentals_
 
 ## proxy status
 
-The proxy status of a DNS record defines whether requests for your domain will route through Cloudflare (proxied) or not (DNS-only). When a [DNS record is proxied](https://developers.cloudflare.com/dns/proxy-status/), requests are processed according to your configurations, and Cloudflare can optimize, cache, and protect your domain. Refer to [How Cloudflare works](https://developers.cloudflare.com/fundamentals/concepts/how-cloudflare-works/) for details.
+The proxy status of a DNS record defines whether requests for your domain will route through Cloudflare (`proxied`) or not (`DNS-only`). When a [DNS record is proxied](https://developers.cloudflare.com/dns/proxy-status/), requests are processed according to your configurations, and Cloudflare can optimize, cache, and protect your domain. Refer to [How Cloudflare works](https://developers.cloudflare.com/fundamentals/concepts/how-cloudflare-works/) for details.
 
 _product: DNS_
 
@@ -1781,7 +1841,7 @@ _product: Fundamentals_
 
 ## rollback
 
-[Rollbacks](https://developers.cloudflare.com/workers/configuration/versions-and-deployments/rollbacks/) are a way to deploy an older deployment to the Cloudflare global network.
+[Rollbacks](https://developers.cloudflare.com/workers/versions-and-deployments/rollbacks/) are a way to deploy an older deployment to the Cloudflare global network.
 
 _product: Workers_
 
@@ -1919,9 +1979,15 @@ _product: Cloudflare One_
 
 ## service Worker
 
-Refers to a Worker written in [service worker](https://developer.mozilla.org/en-US/docs/Web/API/Service%5FWorker%5FAPI) [syntax](https://developers.cloudflare.com/workers/reference/migrate-to-module-workers/).
+Refers to a Worker written in [service worker](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API) [syntax](https://developers.cloudflare.com/workers/reference/migrate-to-module-workers/).
 
 _product: Workers_
+
+## session
+
+An event generated when a user logs in to an Access application.
+
+_product: Cloudflare One_
 
 ## session
 
@@ -1931,7 +1997,7 @@ _product: D1_
 
 ## session identifier
 
-A session identifier is a unique identifier that a website assigns to identify a specific user for the duration of their visit.
+A session identifier is a configured value that API Shield uses to associate requests with a session or client.
 
 _product: API Shield_
 
@@ -1964,6 +2030,12 @@ _product: Cloudflare One_
 A Security Information and Event Management (SIEM) solution collects, analyzes, and correlates data to help manage security incidents, detect anomalies, and meet compliance requirements.
 
 _product: WAF_
+
+## signed agent
+
+A deprecated classification (retired July 1, 2026) for end-user-controlled agents that self-identify with Web Bot Auth. These agents are now verified bots labeled as intermediary.
+
+_product: Bots_
 
 ## sitekey
 
@@ -2045,7 +2117,7 @@ _product: Workflows_
 
 ## Storage API
 
-The transactional and strongly consistent (serializable) [Storage API](https://developers.cloudflare.com/durable-objects/api/sqlite-storage-api/) for persisting data within each Durable Object. State stored within a unique Durable Object is "private" to that Durable Object, and not accessible from other Durable Objects. Storage API includes key-value (KV) API, SQL API, and point-in-time-recovery (PITR) API. Durable Object classes with the key-value storage backend can use KV API. Durable Object classes with the SQLite storage backend can use KV API, SQL API, and PITR API.
+The transactional and strongly consistent (serializable) [Storage API](https://developers.cloudflare.com/durable-objects/api/sqlite-storage-api/) for persisting data within each Durable Object. State stored within a unique Durable Object is "private" to that Durable Object, and not accessible from other Durable Objects. Storage API includes key-value (KV) API, SQL API, and point-in-time-recovery (PITR) API.<ul><li>Durable Object classes with the key-value storage backend can use KV API.</li><li>Durable Object classes with the SQLite storage backend can use KV API, SQL API, and PITR API.</li></ul>
 
 _product: Durable Objects_
 
@@ -2057,7 +2129,7 @@ _product: Durable Objects_
 
 ## stub
 
-An object that refers to a unique Durable Object within a namespace and allows you to call into that Durable Object via RPC methods or the fetch API. For example, let stub = env.MY\_DURABLE\_OBJECT.get(id)
+An object that refers to a unique Durable Object within a namespace and allows you to call into that Durable Object via RPC methods or the `fetch` API. For example, `let stub = env.MY_DURABLE_OBJECT.get(id)`
 
 _product: Durable Objects_
 
@@ -2099,7 +2171,7 @@ _product: Speed_
 
 ## Tail Worker
 
-A [Tail Worker](https://developers.cloudflare.com/workers/observability/logs/tail-workers/) receives information about the execution of other Workers (known as producer Workers), such as HTTP statuses, data passed to console.log() or uncaught exceptions.
+A [Tail Worker](https://developers.cloudflare.com/workers/observability/logs/tail-workers/) receives information about the execution of other Workers (known as producer Workers), such as HTTP statuses, data passed to `console.log()` or uncaught exceptions.
 
 _product: Workers_
 
@@ -2153,19 +2225,19 @@ _product: Fundamentals_
 
 ## team domain
 
-A unique subdomain assigned to your Cloudflare account (for example, <your-team-name>.cloudflareaccess.com), where users will find the apps you have secured behind Cloudflare One.
+A unique subdomain assigned to your Cloudflare account (for example, `<your-team-name>.cloudflareaccess.com`), where users will find the apps you have secured behind Cloudflare One.
 
 _product: Cloudflare One_
 
 ## team name
 
-The customizable portion of your team domain (<your-team-name>.cloudflareaccess.com). You can view your team name in Cloudflare One under **Settings**.
+The customizable portion of your team domain (`<your-team-name>.cloudflareaccess.com`). You can view your team name in Cloudflare One under **Settings**.
 
 _product: Cloudflare One_
 
 ## terminating action
 
-A rule action like _Block_ that stops the evaluation of remaining rules.
+A rule action like *Block* that stops the evaluation of remaining rules.
 
 _product: Ruleset Engine_
 
@@ -2177,7 +2249,7 @@ _product: Cloudflare One_
 
 ## threat score
 
-The threat score was a score from 0 (zero risk) to 100 (high risk) classifying the IP reputation of a visitor. Currently, the threat score is always 0 (zero).
+The threat score was a score from `0` (zero risk) to `100` (high risk) classifying the IP reputation of a visitor. Currently, the threat score is always `0` (zero).
 
 _product: WAF_
 
@@ -2213,7 +2285,7 @@ _product: SSL/TLS_
 
 ## total bandwidth (total egress bandwidth, edge bandwidth)
 
-Total bandwidth is the amount of data transferred from Cloudflare to end users within a certain period of time. Total bandwidth equals the sum of all EdgeResponseBytes for a certain period of time.
+Total bandwidth is the amount of data transferred from Cloudflare to end users within a certain period of time. Total bandwidth equals the sum of all `EdgeResponseBytes` for a certain period of time.
 
 _product: Cache_
 
@@ -2273,13 +2345,13 @@ _product: Spectrum_
 
 ## uncached bandwidth (uncached egress bandwidth)
 
-Uncached bandwidth is the amount of bandwidth that is not cached and therefore is served from the origin. Uncached bandwidth is the sum of all EdgeResponseBytes where CacheCacheStatus does not equal hit, stale, updating, ignored, or revalidated.
+Uncached bandwidth is the amount of bandwidth that is not cached and therefore is served from the origin. Uncached bandwidth is the sum of all `EdgeResponseBytes` where `CacheCacheStatus` does not equal `hit`, `stale`, `updating`, `ignored`, or `revalidated`.
 
 _product: Cache_
 
 ## uncached requests
 
-Uncached requests are requests that are not cached and therefore are served from the origin server. Uncached requests are the sum of all requests where CacheCacheStatus does not equal to hit, stale, updating, or ignored.
+Uncached requests are requests that are not cached and therefore are served from the origin server. Uncached requests are the sum of all requests where `CacheCacheStatus` does not equal to `hit`, `stale`, `updating`, or `ignored`.
 
 _product: Cache_
 
@@ -2333,13 +2405,13 @@ _product: SSL/TLS_
 
 ## verified bot
 
-Bots that are transparent about who they are and what they do.
+A bot or agent that Cloudflare has confirmed is transparent about who it is and what it does: it represents itself honestly and does not abuse the access that honesty earns.
 
 _product: Bots_
 
 ## version
 
-A [version](https://developers.cloudflare.com/workers/configuration/versions-and-deployments/#versions) is defined by the state of code as well as the state of configuration in a Worker's Wrangler file.
+A [version](https://developers.cloudflare.com/workers/versions-and-deployments/#versions) is defined by the state of code as well as the state of configuration in a Worker's Wrangler file.
 
 _product: Workers_
 
@@ -2387,7 +2459,7 @@ _product: Cloudflare WAN_
 
 ## WARP CGNAT IP
 
-A unique, virtual IP address assigned to each Cloudflare One Client device from the 100.96.0.0/12 range.
+A unique, virtual IP address assigned to each Cloudflare One Client device from the `100.96.0.0/12` range.
 
 _product: Cloudflare One_
 
@@ -2417,7 +2489,7 @@ _product: Workers AI_
 
 ## workerd
 
-[workerd](https://github.com/cloudflare/workerd?cf%5Ftarget%5Fid=D15F29F105B3A910EF4B2ECB12D02E2A) is a JavaScript / Wasm server runtime based on the same code that powers Cloudflare Workers.
+[`workerd`](https://github.com/cloudflare/workerd?cf_target_id=D15F29F105B3A910EF4B2ECB12D02E2A) is a JavaScript / Wasm server runtime based on the same code that powers Cloudflare Workers.
 
 _product: Workers_
 

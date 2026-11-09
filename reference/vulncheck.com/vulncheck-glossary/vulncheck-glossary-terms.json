@@ -30,12 +30,6 @@
     "notes": ""
   },
   {
-    "term": "Common Vulnerabilities and Exposures (CVE)",
-    "definition": "A standard for assessing the severity of software vulnerabilities, which assigns a score from 0.0 to 10.0 based on the vulnerability's characteristics.",
-    "source_anchor": "https://docs.vulncheck.com/kb#common-vulnerabilities-and-exposures-cve",
-    "notes": ""
-  },
-  {
     "term": "Common Vulnerability Scoring System (CVSS)",
     "definition": "A standard for assessing the severity of software vulnerabilities, which assigns a score from 0.0 to 10.0 based on the vulnerability's characteristics.",
     "source_anchor": "https://docs.vulncheck.com/kb#common-vulnerability-scoring-system-cvss",
@@ -72,12 +66,6 @@
     "notes": ""
   },
   {
-    "term": "Exploit Intelligence",
-    "definition": "A field used to distinguish the maturity of a given exploit. The values range from (no known public exploit exists) to proof of concept (PoC) to weaponized exploit.",
-    "source_anchor": "https://docs.vulncheck.com/kb#exploit-intelligence",
-    "notes": ""
-  },
-  {
     "term": "Exploit Maturity",
     "definition": "A field used to distinguish the maturity of a given exploit. The values range from (no known public exploit exists) to proof of concept (PoC) to weaponized exploit.",
     "source_anchor": "https://docs.vulncheck.com/kb#exploit-maturity",
@@ -85,7 +73,7 @@
   },
   {
     "term": "Exploit Proof of Concept (PoC)",
-    "definition": "An exploit which may not work against the majority of targets, which is likely distributed as a one-off, to demonstrate triggering the vulnerability.",
+    "definition": "An exploit which may not work against the majority of targets, which is likely distributed as a one-off, to demonstrate triggering the vulnerability. A field used to distinguish the maturity of a given exploit. The values range from (no known public exploit exists) to proof of concept (PoC) to weaponized exploit.",
     "source_anchor": "https://docs.vulncheck.com/kb#exploit-proof-of-concept-poc",
     "notes": ""
   },
@@ -97,7 +85,7 @@
   },
   {
     "term": "Initial Access Exploit",
-    "definition": "A proof of concept exploit that demonstrates remote code execution on the target, remotely via a network-bound application/port.",
+    "definition": "A proof of concept exploit that demonstrates remote code execution on the target, remotely via a network-bound application/port. A field used to distinguish the maturity of a given exploit. The values range from (no known public exploit exists) to proof of concept (PoC) to weaponized exploit.",
     "source_anchor": "https://docs.vulncheck.com/kb#initial-access-exploit",
     "notes": ""
   },
@@ -198,21 +186,15 @@
     "notes": ""
   },
   {
-    "term": "Software Package Data Exchange (SPDX) blog/vulnerability-exchange-formats#software-package-data-exchange-spdx-a-flexible-and-open-sbom-standard",
+    "term": "Software Package Data Exchange (SPDX)",
     "definition": "An international open standard (ISO/IEC 5962:2021) for supporting the communication of SBOM information in order to aid in security, license compliance, and other software supply chain use cases. Serialization formats include JSON, RDF/XML, tag-value, and YAML.",
-    "source_anchor": "https://docs.vulncheck.com/kb#software-package-data-exchange-spdx-blog-vulnerability-exchange-formats-software-package-data-exchange-spdx-a-flexible-and-open-sbom-standard",
+    "source_anchor": "https://docs.vulncheck.com/kb#software-package-data-exchange-spdx",
     "notes": ""
   },
   {
     "term": "Software Supply Chain Security",
     "definition": "The set of methods and processes for securing the software supply chain, including the software development lifecycle (SSDLC), software bill of materials (SBOM), and vulnerability management.",
     "source_anchor": "https://docs.vulncheck.com/kb#software-supply-chain-security",
-    "notes": ""
-  },
-  {
-    "term": "Understanding Exploits",
-    "definition": "A non-specific threat actor, not currently associated with a name, identifier, or country; see also: Advanced Persistent Threat (APT).",
-    "source_anchor": "https://docs.vulncheck.com/kb#understanding-exploits",
     "notes": ""
   },
   {
@@ -247,7 +229,7 @@
   },
   {
     "term": "Web Shell",
-    "definition": "A malicious file uploaded to a victim HTTP server. Accessing the file allows the attacker to execute arbitrary code on the victim server.",
+    "definition": "A malicious file uploaded to a victim HTTP server. Accessing the file allows the attacker to execute arbitrary code on the victim server. API / Schema On this page",
     "source_anchor": "https://docs.vulncheck.com/kb#web-shell",
     "notes": ""
   }

@@ -4,7 +4,7 @@ Source: https://docs.vulncheck.com/kb
 
 License: LicenseRef-Vendor-Copyright (VulnCheck Inc.; internal CSA use only — not redistributable).
 
-Extracted: 42 terms.
+Extracted: 39 terms.
 
 ---
 
@@ -27,10 +27,6 @@ A collection of computers that have been infected and controlled by a common att
 ## Command and Control (C2 or C&C) Infrastructure
 
 Attacker network infrastructure, typically previously compromised infrastructure (servers and applications), used to command and control downstream infrastructure.
-
-## Common Vulnerabilities and Exposures (CVE)
-
-A standard for assessing the severity of software vulnerabilities, which assigns a score from 0.0 to 10.0 based on the vulnerability's characteristics.
 
 ## Common Vulnerability Scoring System (CVSS)
 
@@ -56,17 +52,13 @@ A field used to denote whether an exploit is publicly available, commercially av
 
 When two or more vulnerabilities are used together to achieve more access on the target, than if each vulnerability was independently exploited, without exploiting other vulnerabilities.
 
-## Exploit Intelligence
-
-A field used to distinguish the maturity of a given exploit. The values range from (no known public exploit exists) to proof of concept (PoC) to weaponized exploit.
-
 ## Exploit Maturity
 
 A field used to distinguish the maturity of a given exploit. The values range from (no known public exploit exists) to proof of concept (PoC) to weaponized exploit.
 
 ## Exploit Proof of Concept (PoC)
 
-An exploit which may not work against the majority of targets, which is likely distributed as a one-off, to demonstrate triggering the vulnerability.
+An exploit which may not work against the majority of targets, which is likely distributed as a one-off, to demonstrate triggering the vulnerability. A field used to distinguish the maturity of a given exploit. The values range from (no known public exploit exists) to proof of concept (PoC) to weaponized exploit.
 
 ## Implant
 
@@ -74,7 +66,7 @@ Malicious software that provides advanced features like persistence, file and pr
 
 ## Initial Access Exploit
 
-A proof of concept exploit that demonstrates remote code execution on the target, remotely via a network-bound application/port.
+A proof of concept exploit that demonstrates remote code execution on the target, remotely via a network-bound application/port. A field used to distinguish the maturity of a given exploit. The values range from (no known public exploit exists) to proof of concept (PoC) to weaponized exploit.
 
 ## Initial Access Vulnerability
 
@@ -140,17 +132,13 @@ A graph depicting the hierarchy of software dependencies for a given package or 
 
 A structured metadata format for describing a software product that is defined by the ISO/IEC 19770-2 published standard in order to aid asset and information security management. There are tag types that represent certain states of the software lifecycle and each will provide different information based on this type. Some common information is the product name, version, and a (proxy) tag identifier. A given tag document will be in XML format.
 
-## Software Package Data Exchange (SPDX) blog/vulnerability-exchange-formats#software-package-data-exchange-spdx-a-flexible-and-open-sbom-standard
+## Software Package Data Exchange (SPDX)
 
 An international open standard (ISO/IEC 5962:2021) for supporting the communication of SBOM information in order to aid in security, license compliance, and other software supply chain use cases. Serialization formats include JSON, RDF/XML, tag-value, and YAML.
 
 ## Software Supply Chain Security
 
 The set of methods and processes for securing the software supply chain, including the software development lifecycle (SSDLC), software bill of materials (SBOM), and vulnerability management.
-
-## Understanding Exploits
-
-A non-specific threat actor, not currently associated with a name, identifier, or country; see also: Advanced Persistent Threat (APT).
 
 ## Unnamed Threat Actor
 
@@ -174,5 +162,5 @@ An exploit which is either explicitly malicious, such as cases where the exploit
 
 ## Web Shell
 
-A malicious file uploaded to a victim HTTP server. Accessing the file allows the attacker to execute arbitrary code on the victim server.
+A malicious file uploaded to a victim HTTP server. Accessing the file allows the attacker to execute arbitrary code on the victim server. API / Schema On this page
 

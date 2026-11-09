@@ -78,7 +78,7 @@ def strip_tags(s: str) -> str:
     return re.sub(r"\s+", " ", htmllib.unescape(re.sub(r"<[^>]+>", "", s))).strip()
 
 
-_LEAD = re.compile(r"^(what\s+(is|are)\s+(a|an|the)?\s*|what's\s+)", re.I)
+_LEAD = re.compile(r"^(what\s+(?:is|are)\s+(?:(?:a|an|the)\s+)?|what's\s+(?:(?:a|an|the)\s+)?)", re.I)
 
 
 def clean_term(h1_html: str) -> str:

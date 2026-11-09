@@ -49,7 +49,7 @@
   },
   {
     "term": "cf-aig-log-id",
-    "definition": "The cf-aig-log-id is a unique identifier for the specific log entry to which you want to add feedback.",
+    "definition": "The cf-aig-log-id is a unique identifier for the specific log entry to which you want to add feedback. Treat it as an opaque string.",
     "notes": "",
     "source_anchor": "https://developers.cloudflare.com/ai-gateway/glossary/#cf-aig-log-id"
   },
@@ -64,6 +64,18 @@
     "definition": "Custom metadataallows you to tag requests with user IDs or other identifiers, enabling better tracking and analysis of your requests.",
     "notes": "",
     "source_anchor": "https://developers.cloudflare.com/ai-gateway/glossary/#cf-aig-metadata"
+  },
+  {
+    "term": "cf-aig-no-wholesale",
+    "definition": "Prevents Unified Billing fallback for a third-party provider request when set to `true`. The request must use provider credentials supplied with the request or stored on the gateway.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/ai-gateway/glossary/#cf-aig-no-wholesale"
+  },
+  {
+    "term": "cf-aig-request-id",
+    "definition": "The cf-aig-request-id response header identifies the request. For a request that AI Gateway answers in a single step, it has the same value as cf-aig-log-id.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/ai-gateway/glossary/#cf-aig-request-id"
   },
   {
     "term": "cf-aig-request-timeout",
@@ -91,13 +103,13 @@
   },
   {
     "term": "cf-cache-ttl",
-    "definition": "Deprecated: This header is replaced by cf-aig-cache-ttl. It specifies cache time-to-live.",
+    "definition": "Deprecated: This header is replaced by `cf-aig-cache-ttl`. It specifies cache time-to-live.",
     "notes": "",
     "source_anchor": "https://developers.cloudflare.com/ai-gateway/glossary/#cf-cache-ttl"
   },
   {
     "term": "cf-skip-cache",
-    "definition": "Deprecated: This header is replaced by cf-aig-skip-cache. It bypasses caching for a specific request.",
+    "definition": "Deprecated: This header is replaced by `cf-aig-skip-cache`. It bypasses caching for a specific request.",
     "notes": "",
     "source_anchor": "https://developers.cloudflare.com/ai-gateway/glossary/#cf-skip-cache"
   }

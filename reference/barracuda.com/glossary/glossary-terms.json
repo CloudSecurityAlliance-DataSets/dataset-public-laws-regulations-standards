@@ -36,6 +36,12 @@
     "notes": "definition from schema.org Article description (curated meta-description tier)"
   },
   {
+    "term": "Application security",
+    "definition": "Discover the essentials of application security, its importance in cybersecurity and how to protect your business from evolving threats. Learn more now.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/application-security",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
     "term": "AWS Firewalls",
     "definition": "AWS firewalls provide a managed, cloud-based network security defense layer to protect Amazon Web Service resources.",
     "source_anchor": "https://www.barracuda.com/support/glossary/aws-firewall",
@@ -633,12 +639,6 @@
     "term": "Port Scanning",
     "definition": "Understand port scanning, a technique used to discover open ports and potential vulnerabilities on your network.",
     "source_anchor": "https://www.barracuda.com/support/glossary/port-scanning",
-    "notes": "definition from schema.org Article description (curated meta-description tier)"
-  },
-  {
-    "term": "pplication security",
-    "definition": "Discover the essentials of application security, its importance in cybersecurity and how to protect your business from evolving threats. Learn more now.",
-    "source_anchor": "https://www.barracuda.com/support/glossary/application-security",
     "notes": "definition from schema.org Article description (curated meta-description tier)"
   },
   {

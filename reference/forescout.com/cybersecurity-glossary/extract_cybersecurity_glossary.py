@@ -64,7 +64,7 @@ USER_AGENT = (
 )
 
 # Leading interrogative phrasing to strip from SEO titles → the bare term.
-_LEAD = re.compile(r"^(what\s+(is|are)\s+(a|an|the)?\s*|what's\s+)", re.I)
+_LEAD = re.compile(r"^(what\s+(?:is|are)\s+(?:(?:a|an|the)\s+)?|what's\s+(?:(?:a|an|the)\s+)?)", re.I)
 
 
 def squish(s: str) -> str:

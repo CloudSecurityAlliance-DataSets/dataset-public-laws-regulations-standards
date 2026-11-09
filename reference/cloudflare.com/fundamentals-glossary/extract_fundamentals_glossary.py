@@ -100,11 +100,11 @@ def parse(md):
 
     by_term = {}
     for t in terms:
-        key = t["term"].lower()
+        key = (t["term"].lower(), t.get("notes", "").lower())
         existing = by_term.get(key)
         if existing is None or len(t["definition"]) > len(existing["definition"]):
             by_term[key] = t
-    return sorted(by_term.values(), key=lambda x: x["term"].lower())
+    return sorted(by_term.values(), key=lambda x: (x["term"].lower(), x.get("notes", "").lower()))
 
 
 def write_md(terms):

@@ -32,7 +32,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 
 | Path | State | Files | Glyphs (MXJCSPI) | SecID |
 |---|---|---|---|---|
-| `control/agid.gov.it/spid/` | metadata-only | 1 | `M······` | `secid:control/agid.gov.it/spid` |
+| `control/agid.gov.it/spid/` | metadata-only | 2 | `M······` | `secid:control/agid.gov.it/spid` |
 | `control/aicpa.org/tsc/2017/` | structured | 11 (+2 imgs) | `MXJCSPI` | `secid:control/aicpa.org/tsc@2017` |
 | `control/aiuc.com/aiuc-1/` | structured | 5 | `M··CSP·` | `secid:control/aiuc.com/aiuc-1` |
 | `control/alignment.org/evals/` | structured | 5 | `MX·CS··` | `secid:control/alignment.org/evals` |
@@ -42,15 +42,15 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/amazon.com/security-hub-standards/` | structured | 5 | `MX·CS··` | `secid:control/amazon.com/security-hub-standards` |
 | `control/amazon.com/well-architected/` | structured | 14 (+6 imgs) | `MX·CSPI` | `secid:control/amazon.com/well-architected` |
 | `control/axelos.com/itil/` | metadata-only | 2 | `M······` | `secid:control/axelos.com/itil` |
-| `control/banxico.org.mx/codi/` | metadata-only | 1 | `M······` | `secid:control/banxico.org.mx/codi` |
-| `control/bcb.gov.br/pix/` | metadata-only | 1 | `M······` | `secid:control/bcb.gov.br/pix` |
-| `control/berlin-group.org/nextgenpsd2/` | metadata-only | 1 | `M······` | `secid:control/berlin-group.org/nextgenpsd2` |
-| `control/bot.or.th/promptpay/` | metadata-only | 1 | `M······` | `secid:control/bot.or.th/promptpay` |
+| `control/banxico.org.mx/codi/` | metadata-only | 2 | `M······` | `secid:control/banxico.org.mx/codi` |
+| `control/bcb.gov.br/pix/` | metadata-only | 2 | `M······` | `secid:control/bcb.gov.br/pix` |
+| `control/berlin-group.org/nextgenpsd2/` | metadata-only | 2 | `M······` | `secid:control/berlin-group.org/nextgenpsd2` |
+| `control/bot.or.th/promptpay/` | metadata-only | 2 | `M······` | `secid:control/bot.or.th/promptpay` |
 | `control/bsi.bund.de/a5/` | structured | 17 | `MX·CS··` | `secid:control/bsi.bund.de/a5` |
 | `control/bsi.bund.de/ai-c4/` | structured | 7 | `MX·CS··` | `secid:control/bsi.bund.de/ai-c4` |
 | `control/bsi.bund.de/c5/` | structured | 10 | `M··CS··` | `secid:control/bsi.bund.de/c5` |
 | `control/bsi.bund.de/it-grundschutz/` | structured | 7 | `M··CSP·` | `secid:control/bsi.bund.de/it-grundschutz` |
-| `control/bsp.gov.ph/pesonet/` | metadata-only | 1 | `M······` | `secid:control/bsp.gov.ph/pesonet` |
+| `control/bsp.gov.ph/pesonet/` | metadata-only | 2 | `M······` | `secid:control/bsp.gov.ph/pesonet` |
 | `control/cisecurity.org/cis-controls/v8/` | structured | 6 | `MXJCS··` | `secid:control/cisecurity.org/cis-controls@8` |
 | `control/cloudsecurityalliance.org/aicm/0.0.2/` | structured | 17 | `M··CS··` | `secid:control/cloudsecurityalliance.org/aicm@0.0.2` |
 | `control/cloudsecurityalliance.org/aicm/1.0.3/` | structured | 4 | `M··CS··` | `secid:control/cloudsecurityalliance.org/aicm@1.0.3` |
@@ -69,15 +69,15 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/cryptrec.go.jp/ciphers-list/` | structured | 9 | `MX·CS··` | `secid:control/cryptrec.go.jp/ciphers-list` |
 | `control/cyber.go.jp/cip-policy/` | structured | 7 | `MX·CS··` | `secid:control/cyber.go.jp/cip-policy` |
 | `control/cyber.go.jp/common-standards/` | structured | 7 | `MX·CS··` | `secid:control/cyber.go.jp/common-standards` |
-| `control/digilocker.gov.in/integration-spec/` | metadata-only | 1 | `M······` | `secid:control/digilocker.gov.in/integration-spec` |
-| `control/digital.go.jp/my-number/` | metadata-only | 1 | `M······` | `secid:control/digital.go.jp/my-number` |
+| `control/digilocker.gov.in/integration-spec/` | metadata-only | 2 | `M······` | `secid:control/digilocker.gov.in/integration-spec` |
+| `control/digital.go.jp/my-number/` | metadata-only | 2 | `M······` | `secid:control/digital.go.jp/my-number` |
 | `control/enx.com/isa/6/` | structured | 5 | `M··CSP·` | `secid:control/enx.com/isa@6` |
 | `control/equifax.com/controls-framework/` | structured | 5 | `MX·CS··` | `secid:control/equifax.com/controls-framework` |
-| `control/etsi.org/en-303-645/` | metadata-only | 1 | `M······` | `secid:control/etsi.org/en-303-645` |
-| `control/etsi.org/qsc/` | metadata-only | 1 | `M······` | `secid:control/etsi.org/qsc` |
+| `control/etsi.org/en-303-645/` | metadata-only | 2 | `M······` | `secid:control/etsi.org/en-303-645` |
+| `control/etsi.org/qsc/` | metadata-only | 2 | `M······` | `secid:control/etsi.org/qsc` |
 | `control/europa.eu/altai/` | structured | 5 | `MX·CS··` | `secid:control/europa.eu/altai` |
 | `control/europa.eu/ethics-guidelines/` | structured | 5 | `MX·CS··` | `secid:control/europa.eu/ethics-guidelines` |
-| `control/europeanpaymentscouncil.eu/sct/` | metadata-only | 1 | `M······` | `secid:control/europeanpaymentscouncil.eu/sct` |
+| `control/europeanpaymentscouncil.eu/sct/` | metadata-only | 2 | `M······` | `secid:control/europeanpaymentscouncil.eu/sct` |
 | `control/fedramp.gov/csp-annual-assessment-controls-selection-worksheet/` | structured | 10 | `M··CS··` | `secid:control/fedramp.gov/csp-annual-assessment-controls-selection-worksheet` |
 | `control/fedramp.gov/fedramp-continuous-monitoring-deliverables-template/` | structured | 5 | `M··CS··` | `secid:control/fedramp.gov/fedramp-continuous-monitoring-deliverables-template` |
 | `control/fedramp.gov/fedramp-h-m-l-li-review-report-template-rev4/` | structured | 7 | `M··CS··` | `secid:control/fedramp.gov/fedramp-h-m-l-li-review-report-template-rev4` |
@@ -104,11 +104,11 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/google.com/frontier-safety/` | structured | 5 | `MX·CS··` | `secid:control/google.com/frontier-safety` |
 | `control/google.com/saif/` | structured | 5 | `MX·CS··` | `secid:control/google.com/saif` |
 | `control/google.com/security-best-practices/` | structured | 5 | `MX·CS··` | `secid:control/google.com/security-best-practices` |
-| `control/gov.br/gov-br/` | metadata-only | 1 | `M······` | `secid:control/gov.br/gov-br` |
-| `control/gov.uk/one-login/` | metadata-only | 1 | `M······` | `secid:control/gov.uk/one-login` |
+| `control/gov.br/gov-br/` | metadata-only | 2 | `M······` | `secid:control/gov.br/gov-br` |
+| `control/gov.uk/one-login/` | metadata-only | 2 | `M······` | `secid:control/gov.uk/one-login` |
 | `control/hitrustalliance.net/csf/v11.3.0/` | structured | 7 (+1 imgs) | `MX·CSPI` | `secid:control/hitrustalliance.net/csf@v11.3.0` |
 | `control/ibm.com/ai-controls-framework/` | structured | 5 | `MX·CS··` | `secid:control/ibm.com/ai-controls-framework` |
-| `control/idrbt.ac.in/cybersecurity-framework/` | metadata-only | 1 | `M······` | `secid:control/idrbt.ac.in/cybersecurity-framework` |
+| `control/idrbt.ac.in/cybersecurity-framework/` | metadata-only | 2 | `M······` | `secid:control/idrbt.ac.in/cybersecurity-framework` |
 | `control/imda.gov.sg/ai-verify/` | structured | 5 | `MX·CS··` | `secid:control/imda.gov.sg/ai-verify` |
 | `control/imda.gov.sg/model-governance/` | structured | 5 | `MX·CS··` | `secid:control/imda.gov.sg/model-governance` |
 | `control/ipa.go.jp/insider-breach-guidelines/` | structured | 7 | `MX·CS··` | `secid:control/ipa.go.jp/insider-breach-guidelines` |
@@ -120,8 +120,8 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/ismap.go.jp/control-criteria/2022-04-01/` | structured | 8 | `M··CSP·` | `secid:control/ismap.go.jp/control-criteria@2022-04-01` |
 | `control/jailbreakbench.github.io/benchmark/` | structured | 5 | `MX·CS··` | `secid:control/jailbreakbench.github.io/benchmark` |
 | `control/jipdec.or.jp/privacymark/` | structured | 7 | `MX·CS··` | `secid:control/jipdec.or.jp/privacymark` |
-| `control/kantarainitiative.org/iaf/` | metadata-only | 1 | `M······` | `secid:control/kantarainitiative.org/iaf` |
-| `control/logius.nl/digid/` | metadata-only | 1 | `M······` | `secid:control/logius.nl/digid` |
+| `control/kantarainitiative.org/iaf/` | metadata-only | 2 | `M······` | `secid:control/kantarainitiative.org/iaf` |
+| `control/logius.nl/digid/` | metadata-only | 2 | `M······` | `secid:control/logius.nl/digid` |
 | `control/meta.com/cyberseceval/` | structured | 5 | `MX·CS··` | `secid:control/meta.com/cyberseceval` |
 | `control/meta.com/purple-llama/` | structured | 5 | `MX·CS··` | `secid:control/meta.com/purple-llama` |
 | `control/meti.go.jp/ai-business-guidelines/` | structured | 7 | `MX·CS··` | `secid:control/meti.go.jp/ai-business-guidelines` |
@@ -133,7 +133,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/mhlw.go.jp/medical-info-systems-safety/` | structured | 8 | `MX·CS··` | `secid:control/mhlw.go.jp/medical-info-systems-safety` |
 | `control/microsoft.com/azure-security-benchmark/` | structured | 5 | `MX·CS··` | `secid:control/microsoft.com/azure-security-benchmark` |
 | `control/microsoft.com/secure-score/` | structured | 5 | `MX·CS··` | `secid:control/microsoft.com/secure-score` |
-| `control/mitid.dk/mitid/` | metadata-only | 1 | `M······` | `secid:control/mitid.dk/mitid` |
+| `control/mitid.dk/mitid/` | metadata-only | 2 | `M······` | `secid:control/mitid.dk/mitid` |
 | `control/mlcommons.org/ai-safety/` | structured | 5 | `MX·CS··` | `secid:control/mlcommons.org/ai-safety` |
 | `control/mlcommons.org/croissant/` | structured | 5 | `MX·CS··` | `secid:control/mlcommons.org/croissant` |
 | `control/mlcommons.org/mlperf/` | structured | 5 | `MX·CS··` | `secid:control/mlcommons.org/mlperf` |
@@ -143,10 +143,10 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/mlit.go.jp/logistics-truck-freight-security/` | structured | 7 | `MX·CS··` | `secid:control/mlit.go.jp/logistics-truck-freight-security` |
 | `control/mlit.go.jp/logistics-warehousing-security/` | structured | 7 | `MX·CS··` | `secid:control/mlit.go.jp/logistics-warehousing-security` |
 | `control/mlit.go.jp/railway-security/` | structured | 7 | `MX·CS··` | `secid:control/mlit.go.jp/railway-security` |
-| `control/mygovid.gov.au/myid/` | metadata-only | 1 | `M······` | `secid:control/mygovid.gov.au/myid` |
-| `control/nia.gov.gh/ghana-card/` | metadata-only | 1 | `M······` | `secid:control/nia.gov.gh/ghana-card` |
-| `control/nic.gov.sa/nafath/` | metadata-only | 1 | `M······` | `secid:control/nic.gov.sa/nafath` |
-| `control/nimc.gov.ng/nin/` | metadata-only | 1 | `M······` | `secid:control/nimc.gov.ng/nin` |
+| `control/mygovid.gov.au/myid/` | metadata-only | 2 | `M······` | `secid:control/mygovid.gov.au/myid` |
+| `control/nia.gov.gh/ghana-card/` | metadata-only | 2 | `M······` | `secid:control/nia.gov.gh/ghana-card` |
+| `control/nic.gov.sa/nafath/` | metadata-only | 2 | `M······` | `secid:control/nic.gov.sa/nafath` |
+| `control/nimc.gov.ng/nin/` | metadata-only | 2 | `M······` | `secid:control/nimc.gov.ng/nin` |
 | `control/nist.gov/800-160-v1/` | structured | 32 (+22 imgs) | `MX·CSPI` | `secid:control/nist.gov/800-160-v1` |
 | `control/nist.gov/800-161/r1/` | structured | 25 (+19 imgs) | `MX·CSPI` | `secid:control/nist.gov/800-161@r1` |
 | `control/nist.gov/800-171/` | structured | 11 (+3 imgs) | `MX·CSPI` | `secid:control/nist.gov/800-171` |
@@ -172,38 +172,38 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/nist.gov/fips-199/` | structured | 7 (+1 imgs) | `MX·CSPI` | `secid:control/nist.gov/fips-199` |
 | `control/nist.gov/fips-200/` | structured | 9 (+1 imgs) | `MX·CSPI` | `secid:control/nist.gov/fips-200` |
 | `control/nist.gov/privacy-framework/` | structured | 17 (+9 imgs) | `MX·CSPI` | `secid:control/nist.gov/privacy-framework` |
-| `control/npci.org.in/upi/` | metadata-only | 1 | `M······` | `secid:control/npci.org.in/upi` |
-| `control/numerique.gouv.fr/franceconnect/` | metadata-only | 1 | `M······` | `secid:control/numerique.gouv.fr/franceconnect` |
+| `control/npci.org.in/upi/` | metadata-only | 2 | `M······` | `secid:control/npci.org.in/upi` |
+| `control/numerique.gouv.fr/franceconnect/` | metadata-only | 2 | `M······` | `secid:control/numerique.gouv.fr/franceconnect` |
 | `control/openai.com/model-spec/` | structured | 6 | `MX·CSP·` | `secid:control/openai.com/model-spec` |
 | `control/openai.com/red-teaming/` | structured | 5 | `MX·CS··` | `secid:control/openai.com/red-teaming` |
 | `control/openai.com/system-cards/` | structured | 5 | `MX·CS··` | `secid:control/openai.com/system-cards` |
-| `control/openbanking.org.uk/read-write-api/` | metadata-only | 1 | `M······` | `secid:control/openbanking.org.uk/read-write-api` |
-| `control/openidentityexchange.org/trust-framework/` | metadata-only | 1 | `M······` | `secid:control/openidentityexchange.org/trust-framework` |
-| `control/payments.ca/lynx/` | metadata-only | 1 | `M······` | `secid:control/payments.ca/lynx` |
+| `control/openbanking.org.uk/read-write-api/` | metadata-only | 2 | `M······` | `secid:control/openbanking.org.uk/read-write-api` |
+| `control/openidentityexchange.org/trust-framework/` | metadata-only | 2 | `M······` | `secid:control/openidentityexchange.org/trust-framework` |
+| `control/payments.ca/lynx/` | metadata-only | 2 | `M······` | `secid:control/payments.ca/lynx` |
 | `control/pcisecuritystandards.org/pa-dss/` | metadata-only | 2 | `M······` | `secid:control/pcisecuritystandards.org/pa-dss` |
 | `control/pcisecuritystandards.org/pci-dss/v3.2.1/` | structured | 148 (+140 imgs) | `MXJCSPI` | `secid:control/pcisecuritystandards.org/pci-dss@3.2.1` |
 | `control/pcisecuritystandards.org/pci-dss/v4.0/` | structured | 348 (+340 imgs) | `MXJCSPI` | `secid:control/pcisecuritystandards.org/pci-dss@4.0` |
 | `control/pcisecuritystandards.org/pci-dss/v4.0.1/` | structured | 349 (+341 imgs) | `MXJCSPI` | `secid:control/pcisecuritystandards.org/pci-dss@4.0.1` |
 | `control/pcisecuritystandards.org/pci-pin/` | metadata-only | 2 | `M······` | `secid:control/pcisecuritystandards.org/pci-pin` |
 | `control/pcisecuritystandards.org/secure-software-standard/` | metadata-only | 2 | `M······` | `secid:control/pcisecuritystandards.org/secure-software-standard` |
-| `control/philsys.gov.ph/philsys/` | metadata-only | 1 | `M······` | `secid:control/philsys.gov.ph/philsys` |
-| `control/polishapi.org/polishapi/` | metadata-only | 1 | `M······` | `secid:control/polishapi.org/polishapi` |
+| `control/philsys.gov.ph/philsys/` | metadata-only | 2 | `M······` | `secid:control/philsys.gov.ph/philsys` |
+| `control/polishapi.org/polishapi/` | metadata-only | 2 | `M······` | `secid:control/polishapi.org/polishapi` |
 | `control/ppc.go.jp/appi-guidelines/` | structured | 7 | `MX·CS··` | `secid:control/ppc.go.jp/appi-guidelines` |
-| `control/pqcc.org/migration-roadmap/` | metadata-only | 1 | `M······` | `secid:control/pqcc.org/migration-roadmap` |
-| `control/psacertified.org/tmsa/` | metadata-only | 1 | `M······` | `secid:control/psacertified.org/tmsa` |
-| `control/realme.govt.nz/realme/` | metadata-only | 1 | `M······` | `secid:control/realme.govt.nz/realme` |
-| `control/ria.ee/x-road/` | metadata-only | 1 | `M······` | `secid:control/ria.ee/x-road` |
+| `control/pqcc.org/migration-roadmap/` | metadata-only | 2 | `M······` | `secid:control/pqcc.org/migration-roadmap` |
+| `control/psacertified.org/tmsa/` | metadata-only | 2 | `M······` | `secid:control/psacertified.org/tmsa` |
+| `control/realme.govt.nz/realme/` | metadata-only | 2 | `M······` | `secid:control/realme.govt.nz/realme` |
+| `control/ria.ee/x-road/` | metadata-only | 2 | `M······` | `secid:control/ria.ee/x-road` |
 | `control/safe.ai/harmbench/` | structured | 5 | `MX·CS··` | `secid:control/safe.ai/harmbench` |
 | `control/safe.ai/wmdp/` | structured | 5 | `MX·CS··` | `secid:control/safe.ai/wmdp` |
 | `control/securityforum.org/sogp/2022/` | metadata-only | 1 | `M······` | `secid:control/securityforum.org/sogp@2022` |
-| `control/singpass.gov.sg/singpass/` | metadata-only | 1 | `M······` | `secid:control/singpass.gov.sg/singpass` |
+| `control/singpass.gov.sg/singpass/` | metadata-only | 2 | `M······` | `secid:control/singpass.gov.sg/singpass` |
 | `control/soumu.go.jp/ai-security-guideline/` | structured | 6 | `MX·CS··` | `secid:control/soumu.go.jp/ai-security-guideline` |
-| `control/stet.eu/psd2-api/` | metadata-only | 1 | `M······` | `secid:control/stet.eu/psd2-api` |
+| `control/stet.eu/psd2-api/` | metadata-only | 2 | `M······` | `secid:control/stet.eu/psd2-api` |
 | `control/swift.com/csp/` | metadata-only | 2 | `M······` | `secid:control/swift.com/csp` |
 | `control/tc260.org.cn/ai-safety-governance/` | structured | 5 | `MX·CS··` | `secid:control/tc260.org.cn/ai-safety-governance` |
 | `control/trustllmbenchmark.github.io/benchmark/` | structured | 5 | `MX·CS··` | `secid:control/trustllmbenchmark.github.io/benchmark` |
-| `control/uaepass.ae/uaepass/` | metadata-only | 1 | `M······` | `secid:control/uaepass.ae/uaepass` |
-| `control/uidai.gov.in/auth-api/` | metadata-only | 1 | `M······` | `secid:control/uidai.gov.in/auth-api` |
+| `control/uaepass.ae/uaepass/` | metadata-only | 2 | `M······` | `secid:control/uaepass.ae/uaepass` |
+| `control/uidai.gov.in/auth-api/` | metadata-only | 2 | `M······` | `secid:control/uidai.gov.in/auth-api` |
 
 ## regulation/
 
@@ -352,10 +352,10 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `reference/au.int/continental-artificial-intelligence-strategy/2024/` | structured | 4 | `MX·CS··` | `secid:reference/au.int/continental-artificial-intelligence-strategy@2024` |
 | `reference/bankid.com/glossary/` | metadata-only | 1 | `M······` | `secid:reference/bankid.com/glossary` |
 | `reference/barracuda.com/glossary/` | structured | 4 | `M··CSP·` | `secid:reference/barracuda.com/glossary` |
-| `reference/beyondtrust.com/cybersecurity-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/beyondtrust.com/cybersecurity-glossary` |
+| `reference/beyondtrust.com/cybersecurity-glossary/` | structured | 6 | `MX·CSP·` | `secid:reference/beyondtrust.com/cybersecurity-glossary` |
 | `reference/bimco.org/cyber-security-onboard-ships-glossary/` | metadata-only | 1 | `M······` | `secid:reference/bimco.org/cyber-security-onboard-ships-glossary` |
 | `reference/bitdefender.com/infozone-glossary/` | metadata-only | 1 | `M······` | `secid:reference/bitdefender.com/infozone-glossary` |
-| `reference/bitsight.com/cybersecurity-glossary/` | structured | 5 | `MX·CSP·` | `secid:reference/bitsight.com/cybersecurity-glossary` |
+| `reference/bitsight.com/cybersecurity-glossary/` | structured | 6 | `MX·CSP·` | `secid:reference/bitsight.com/cybersecurity-glossary` |
 | `reference/bka.gv.at/aim-at-2030/2021/` | metadata-only | 1 | `M······` | `secid:reference/bka.gv.at/aim-at-2030@2021` |
 | `reference/bka.gv.at/oesterreichische-sicherheitsstrategie/2013/` | metadata-only | 1 | `M······` | `secid:reference/bka.gv.at/oesterreichische-sicherheitsstrategie@2013` |
 | `reference/bka.gv.at/oesterreichische-sicherheitsstrategie/2024/` | metadata-only | 1 | `M······` | `secid:reference/bka.gv.at/oesterreichische-sicherheitsstrategie@2024` |
