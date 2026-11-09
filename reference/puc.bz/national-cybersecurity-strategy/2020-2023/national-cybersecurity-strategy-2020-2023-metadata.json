@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/puc.bz/national-cybersecurity-strategy@2020-2023",
+  "name": "Belize National Cybersecurity Strategy — Towards A Secure Cyberspace 2020–2023",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2020-2023",
+  "publication_id": "national-cybersecurity-strategy-2020-2023",
+  "owner": "Public Utilities Commission of Belize / National Cybersecurity Task Force",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Belize National Cybersecurity Strategy — Towards A Secure Cyberspace 2020–2023 (June 13, 2020). National cybersecurity strategy of Belize developed with support from the OAS/CICTE and Commonwealth Secretariat.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Public Utilities Commission of Belize / National Cybersecurity Task Force (puc.bz) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Public Utilities Commission of Belize / National Cybersecurity Task Force (puc.bz).",
+  "license": {
+    "spdx": "LicenseRef-BZ-Copyright-Cap252",
+    "Grouping": "Public-Release Government / Intergovernmental Strategy",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/BZ",
+    "note": "Official publication (puc.bz); Belize Copyright Act (Chapter 252, Part IX Government copyright); no general statutory public-domain exemption for ministerial or regulatory strategy reports without explicit open licensing. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
+    "notes": "Official publication (puc.bz); Belize Copyright Act (Chapter 252, Part IX Government copyright); no general statutory public-domain exemption for ministerial or regulatory strategy reports without explicit open licensing. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.puc.bz/wp-content/uploads/2022/01/National-Cybersecurity-Strategy-20200613-Belize-2020-2023.pdf",
+    "textUsed": "https://www.puc.bz/wp-content/uploads/2022/01/National-Cybersecurity-Strategy-20200613-Belize-2020-2023.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2020-06-13",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 40-page PDF (https://www.puc.bz/wp-content/uploads/2022/01/National-Cybersecurity-Strategy-20200613-Belize-2020-2023.pdf) locally via PyMuPDF (61,316 chars). Parsed 113 sections (45 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

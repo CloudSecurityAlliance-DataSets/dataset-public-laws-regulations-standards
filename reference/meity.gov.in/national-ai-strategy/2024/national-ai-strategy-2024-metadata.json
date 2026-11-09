@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/meity.gov.in/national-ai-strategy@2024",
+  "name": "IndiaAI Mission (2024)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2024",
+  "publication_id": "national-ai-strategy-2024",
+  "owner": "Ministry of Electronics and Information Technology",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "IndiaAI Mission (approved by the Union Cabinet on March 7, 2024). India's national artificial intelligence strategy framework, comprising NITI Aayog's foundational 2018 National Strategy for Artificial Intelligence (#AIforAll) and the Union Cabinet-approved 2024 IndiaAI Mission implemented by Digital India Corporation under MeitY across seven pillars (Compute Capacity, Innovation Centre, Datasets Platform, Application Development, FutureSkills, Startup Financing, and Safe & Trusted AI).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Ministry of Electronics and Information Technology (meity.gov.in) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Ministry of Electronics and Information Technology (meity.gov.in).",
+  "license": {
+    "spdx": "LicenseRef-IN-Copyright-1957-Sec17d",
+    "Grouping": "Public-Release Government / Intergovernmental Strategy",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/IN",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (meity.gov.in) is governed by Indian Copyright Act, 1957 (Act No. 14 of 1957) Sec. 17(d) (Government copyright in ministerial and NITI Aayog strategy publications unless explicitly released under GODL-India). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (meity.gov.in) is governed by Indian Copyright Act, 1957 (Act No. 14 of 1957) Sec. 17(d) (Government copyright in ministerial and NITI Aayog strategy publications unless explicitly released under GODL-India). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://indiaai.gov.in/",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2024-03-07",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/meity.gov.in/national-ai-strategy@2024 (https://indiaai.gov.in/) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

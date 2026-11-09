@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/nacsa.gov.my/dasar-keselamatan-negara@2021",
+  "name": "Malaysia National Security Policy (Dasar Keselamatan Negara 2021–2025)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2021",
+  "publication_id": "dasar-keselamatan-negara-2021",
+  "owner": "National Cyber Security Agency (NACSA) & Government of Malaysia",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Malaysia National Security Policy (Dasar Keselamatan Negara 2021–2025)",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by National Cyber Security Agency (NACSA) & Government of Malaysia (nacsa.gov.my) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for National Cyber Security Agency (NACSA) & Government of Malaysia (nacsa.gov.my).",
+  "license": {
+    "spdx": "LicenseRef-MY-Act332-Sec11-GovCopyright",
+    "Grouping": "Public-Release Government / Intergovernmental Strategy",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/MY",
+    "note": "Official publication (nacsa.gov.my); Malaysian Copyright Act 1987 (Act 332) Sec. 11 & Sec. 26 (Government copyright in works made under Government direction) and NACSA copyright reservation. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
+    "notes": "Official publication (nacsa.gov.my); Malaysian Copyright Act 1987 (Act 332) Sec. 11 & Sec. 26 (Government copyright in works made under Government direction) and NACSA copyright reservation. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.mkn.gov.my/web/ms/dasar-keselamatan-negara/",
+    "textUsed": "https://asset.mkn.gov.my/web/wp-content/uploads/sites/3/2019/08/DASAR-KESELAMATAN-NEGARA-2021-2025-PDF.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2021-07-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Discovered primary PDF (https://asset.mkn.gov.my/web/wp-content/uploads/sites/3/2019/08/DASAR-KESELAMATAN-NEGARA-2021-2025-PDF.pdf) from landing page (https://www.mkn.gov.my/web/ms/dasar-keselamatan-negara/); extracted 102-page PDF via PyMuPDF (126,920 chars). Parsed 190 sections (12 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

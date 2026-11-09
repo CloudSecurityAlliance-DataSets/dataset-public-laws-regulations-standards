@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/defence.gov.au/national-defence-strategy@2024",
+  "name": "Australian National Defence Strategy & Defence Strategic Review (2024)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2024",
+  "publication_id": "national-defence-strategy-2024",
+  "owner": "Department of Defence (Australia)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Australian National Defence Strategy & Defence Strategic Review",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Department of Defence (Australia) (defence.gov.au) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Department of Defence (Australia) (defence.gov.au).",
+  "license": {
+    "spdx": "LicenseRef-All-Rights-Reserved",
+    "Grouping": "Public-Release Government / Intergovernmental Strategy",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.defence.gov.au/copyright",
+    "note": "Commonwealth of Australia copyright retained; document explicitly prohibits reproduction, storage, or transmission without prior written permission. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
+    "notes": "Commonwealth of Australia copyright retained; document explicitly prohibits reproduction, storage, or transmission without prior written permission. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.defence.gov.au/about/strategic-planning/2024-national-defence-strategy-2024-integrated-investment-program",
+    "textUsed": "https://apo.org.au/sites/default/files/resource-files/2024-04/apo-nid326425.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2024-04-17",
+    "active": true,
+    "supersedes": "secid:reference/defence.gov.au/national-defence-strategy@2023",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Discovered primary PDF (https://apo.org.au/sites/default/files/resource-files/2024-04/apo-nid326425.pdf) from landing page (https://web.archive.org/web/20240417072021id_/https://apo.org.au/node/326425); extracted 80-page PDF via PyMuPDF (113,453 chars). Parsed 90 sections (25 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

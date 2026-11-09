@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/nacsa.gov.my/malaysia-cyber-security-strategy@2025",
+  "name": "Malaysia Cyber Security Strategy (MCSS) (2025)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2025",
+  "publication_id": "malaysia-cyber-security-strategy-2025",
+  "owner": "National Cyber Security Agency (NACSA) & Government of Malaysia",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Malaysia Cyber Security Strategy (MCSS)",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by National Cyber Security Agency (NACSA) & Government of Malaysia (nacsa.gov.my) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for National Cyber Security Agency (NACSA) & Government of Malaysia (nacsa.gov.my).",
+  "license": {
+    "spdx": "LicenseRef-All-Rights-Reserved",
+    "Grouping": "Public-Release Government / Intergovernmental Strategy",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
+    "publicly_redistributable": true,
+    "license_text_url": null,
+    "note": "Official publication (nacsa.gov.my) with explicit copyright reservation ('All rights reserved' or prior permission requirement) in document text. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
+    "notes": "Official publication (nacsa.gov.my) with explicit copyright reservation ('All rights reserved' or prior permission requirement) in document text. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.nacsa.gov.my/mcss.php",
+    "textUsed": "https://www.nacsa.gov.my/doc/MCSS%202025-2030.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2025-01-01",
+    "active": true,
+    "supersedes": "secid:reference/nacsa.gov.my/malaysia-cyber-security-strategy@2020",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Discovered primary PDF (https://www.nacsa.gov.my/doc/MCSS%202025-2030.pdf) from landing page (https://www.nacsa.gov.my/mcss.php); extracted 72-page PDF via PyMuPDF (114,660 chars). Parsed 99 sections (29 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

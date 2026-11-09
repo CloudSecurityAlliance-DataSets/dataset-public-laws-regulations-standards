@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/hcpn.gouvernement.lu/national-cybersecurity-strategy@2021",
+  "name": "National Cybersecurity Strategy IV of Luxembourg (2021–2025)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2021",
+  "publication_id": "national-cybersecurity-strategy-2021",
+  "owner": "High Commission for National Protection (HCPN) & Government of Luxembourg",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "National Cybersecurity Strategy IV of Luxembourg (2021–2025)",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by High Commission for National Protection (HCPN) & Government of Luxembourg (hcpn.gouvernement.lu) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for High Commission for National Protection (HCPN) & Government of Luxembourg (hcpn.gouvernement.lu).",
+  "license": {
+    "spdx": "LicenseRef-LU-SIP-Prior-Agreement",
+    "Grouping": "Public-Release Government / Intergovernmental Strategy",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
+    "publicly_redistributable": true,
+    "license_text_url": "https://hcpn.gouvernement.lu/en/support/aspects-legaux.html",
+    "note": "Official publication (hcpn.gouvernement.lu); Grand Duchy of Luxembourg Government / HCPN General Legal Notice (permits viewing, downloading, and printing; prior agreement from the Government Information and Press Service (SIP) is required for public redistribution or derivative works — stored in private internal repository, not publicly redistributed). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
+    "notes": "Official publication (hcpn.gouvernement.lu); Grand Duchy of Luxembourg Government / HCPN General Legal Notice (permits viewing, downloading, and printing; prior agreement from the Government Information and Press Service (SIP) is required for public redistribution or derivative works — stored in private internal repository, not publicly redistributed). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://hcpn.gouvernement.lu/en/publications/strategie-nationale-cybersecurite-4.html",
+    "textUsed": "https://hcpn.gouvernement.lu/dam-assets/fr/publications/brochure-livre/strategie-nationale-cybersecurite-4/National-Cybersecurity-Strategy-IV.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2021-05-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 52-page PDF (https://hcpn.gouvernement.lu/dam-assets/fr/publications/brochure-livre/strategie-nationale-cybersecurite-4/National-Cybersecurity-Strategy-IV.pdf) locally via PyMuPDF (105,373 chars). Parsed 69 sections (59 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

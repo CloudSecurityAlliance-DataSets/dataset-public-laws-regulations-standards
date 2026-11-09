@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/mnd.gov.tw/national-defense-report@2023",
+  "name": "Republic of China National Defense Report (中華民國國防報告書) (2023)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2023",
+  "publication_id": "national-defense-report-2023",
+  "owner": "Ministry of National Defense (Taiwan)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Official 2023 edition of Republic of China National Defense Report (中華民國國防報告書) (Republic of China National Defense Report (中華民國國防報告書) (2023)), published by Ministry of National Defense (Taiwan) (mnd.gov.tw).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Ministry of National Defense (Taiwan) (mnd.gov.tw) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Ministry of National Defense (Taiwan) (mnd.gov.tw).",
+  "license": {
+    "spdx": "LicenseRef-TW-MND-NonCommercial-NoDerivatives",
+    "Grouping": "Public-Release Government / Intergovernmental Strategy",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.mnd.gov.tw/",
+    "note": "Copyright Ministry of National Defense, R.O.C. (Taiwan). Explicit copyright notice permits verbatim reproduction with attribution for non-commercial use only; commercial use and modifications are prohibited. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
+    "notes": "Copyright Ministry of National Defense, R.O.C. (Taiwan). Explicit copyright notice permits verbatim reproduction with attribution for non-commercial use only; commercial use and modifications are prohibited. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.mnd.gov.tw/en/informationservices/publication/85288",
+    "textUsed": "https://www-mnd-gov-tw-01-d3hddnfbecgmc7d0.a01.azurefd.net/newupload/NDR/112/112NDR.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2023-09-12",
+    "active": false,
+    "supersedes": null,
+    "supersededBy": "secid:reference/mnd.gov.tw/national-defense-report@2025",
+    "retiredFromActiveUse": "2025-10-09",
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 188-page PDF (https://www-mnd-gov-tw-01-d3hddnfbecgmc7d0.a01.azurefd.net/newupload/NDR/112/112NDR.pdf) locally via PyMuPDF (94,044 chars). Parsed 229 sections (5 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/dsn.gob.es/estrategia-nacional-ciberseguridad@2019",
+  "name": "Estrategia Nacional de Ciberseguridad 2019 (Orden PCI/487/2019)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2019",
+  "publication_id": "estrategia-nacional-ciberseguridad-2019",
+  "owner": "Departamento de Seguridad Nacional",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Estrategia Nacional de Ciberseguridad 2019 (approved April 12, 2019, published via Orden PCI/487/2019, BOE-A-2019-6347). Spain's national cybersecurity strategy approved by the National Security Council and coordinated across CCN-CERT (CNI), INCIBE, and the Joint Cyberspace Command (MCCE), complemented by the 2022 National Cybersecurity Plan.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Departamento de Seguridad Nacional (dsn.gob.es) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Departamento de Seguridad Nacional (dsn.gob.es).",
+  "license": {
+    "spdx": "LicenseRef-All-Rights-Reserved",
+    "Grouping": "Public-Release Government / Intergovernmental Strategy",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
+    "publicly_redistributable": true,
+    "license_text_url": null,
+    "note": "Official publication (dsn.gob.es) with explicit copyright reservation ('All rights reserved' or prior permission requirement) in document text. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
+    "notes": "Official publication (dsn.gob.es) with explicit copyright reservation ('All rights reserved' or prior permission requirement) in document text. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.dsn.gob.es/sites/default/files/2025-04/Estrategia%20Nacional%20de%20Ciberseguridad%202019%20-%20%20Interactivo_0%20%281%29_0.pdf",
+    "textUsed": "https://www.dsn.gob.es/sites/default/files/2025-04/Estrategia%20Nacional%20de%20Ciberseguridad%202019%20-%20%20Interactivo_0%20%281%29_0.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2019-04-30",
+    "active": true,
+    "supersedes": "secid:reference/dsn.gob.es/estrategia-nacional-ciberseguridad@2013",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "Approved by the National Security Council on 2019-04-12; published in BOE on 2019-04-30 (Orden PCI/487/2019, BOE-A-2019-6347); bilingual booklet edition issued June 2019. Implemented and complemented (not superseded) by the 2022 Plan Nacional de Ciberseguridad."
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 136-page PDF (https://www.dsn.gob.es/sites/default/files/2025-04/Estrategia%20Nacional%20de%20Ciberseguridad%202019%20-%20%20Interactivo_0%20%281%29_0.pdf) locally via PyMuPDF (143,763 chars). Parsed 94 sections (34 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

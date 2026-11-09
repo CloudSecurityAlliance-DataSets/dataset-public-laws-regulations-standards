@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/itu.int/ncs-guide@2025",
+  "name": "Guide to Developing a National Cybersecurity Strategy (3rd Edition, 2025)",
+  "acronym": "ITU NCS Guide",
+  "alternate_names": [],
+  "version": "2025",
+  "publication_id": "ncs-guide-2025",
+  "owner": "International Telecommunication Union",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Third edition (2025) — Guide to Developing a National Cybersecurity Strategy. Multi-stakeholder international reference guide coordinated by the ITU (with World Bank, Commonwealth Secretariat, NATO CCDCOE, ENISA, OAS, GFCE, Microsoft, et al.) for initiating, drafting, implementing, monitoring, and evaluating National Cybersecurity Strategies across five lifecycle phases.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by International Telecommunication Union (itu.int) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for International Telecommunication Union (itu.int).",
+  "license": {
+    "spdx": "CC-BY-NC-3.0-IGO",
+    "Grouping": "Public-Release Government / Intergovernmental Strategy",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
+    "publicly_redistributable": true,
+    "license_text_url": "https://creativecommons.org/licenses/by-nc/3.0/igo/deed.en",
+    "note": "Licensed under Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO (CC BY-NC-SA 3.0 IGO / CC BY-NC 3.0 IGO) as stated in the publication copyright notice. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
+    "notes": "Licensed under Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO (CC BY-NC-SA 3.0 IGO / CC BY-NC 3.0 IGO) as stated in the publication copyright notice. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.itu.int/pub/D-STR-CYB_GUIDE.03-2025",
+    "textUsed": "https://www.itu.int/dms_pub/itu-d/opb/str/D-STR-CYB_GUIDE.03-2025-PDF-E.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2025-05-01",
+    "active": true,
+    "supersedes": "secid:reference/itu.int/ncs-guide@2021",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 76-page PDF (https://www.itu.int/dms_pub/itu-d/opb/str/D-STR-CYB_GUIDE.03-2025-PDF-E.pdf) locally via PyMuPDF (166,281 chars). Parsed 103 sections (95 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

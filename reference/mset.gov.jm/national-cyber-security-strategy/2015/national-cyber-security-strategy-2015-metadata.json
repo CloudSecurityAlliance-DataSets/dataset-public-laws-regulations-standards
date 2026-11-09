@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/mset.gov.jm/national-cyber-security-strategy@2015",
+  "name": "Jamaica National Cyber Security Strategy (2015)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2015",
+  "publication_id": "national-cyber-security-strategy-2015",
+  "owner": "Ministry of Science, Energy, Telecommunications and Transport of Jamaica",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Jamaica National Cyber Security Strategy (January 2015). National cybersecurity strategy of Jamaica developed by MSET with technical support from the Organization of American States (OAS/CICTE), Commonwealth Secretariat, and ITU across technical measures, human resource and capacity building, legal and regulatory reform, and public education.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Ministry of Science, Energy, Telecommunications and Transport of Jamaica (mset.gov.jm) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Ministry of Science, Energy, Telecommunications and Transport of Jamaica (mset.gov.jm).",
+  "license": {
+    "spdx": "LicenseRef-JM-Copyright-1993-Crown",
+    "Grouping": "Public-Release Government / Intergovernmental Strategy",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/JM",
+    "note": "Official publication (mset.gov.jm); Jamaica Copyright Act, 1993 (Part XII Crown/Government copyright); ministerial strategy publications remain subject to Government copyright unless openly licensed. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
+    "notes": "Official publication (mset.gov.jm); Jamaica Copyright Act, 1993 (Part XII Crown/Government copyright); ministerial strategy publications remain subject to Government copyright unless openly licensed. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.mset.gov.jm/wp-content/uploads/2019/09/Jamaica-National-Cyber-Security-Strategy-2015.pdf",
+    "textUsed": "https://www.mset.gov.jm/wp-content/uploads/2019/09/Jamaica-National-Cyber-Security-Strategy-2015.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2015-01-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 40-page PDF (https://www.mset.gov.jm/wp-content/uploads/2019/09/Jamaica-National-Cyber-Security-Strategy-2015.pdf) locally via PyMuPDF (55,445 chars). Parsed 39 sections (0 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

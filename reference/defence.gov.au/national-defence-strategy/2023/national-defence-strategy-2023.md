@@ -1,0 +1,1813 @@
+# Australian National Defence Strategy & Defence Strategic Review (2023)
+
+## NATIONAL DEFENCE DEFENCE STRATEGIC REVIEW
+
+Defence acknowledges the Traditional Custodians of Country throughout Australia. Defence recognises their continuing connection to traditional lands and waters and would like to pay respect to their Elders both past and present.
+
+Defence would also like to pay respect to the Aboriginal and Torres Strait Islander people who have contributed to the defence of Australia in times of peace and war.
+
+© Commonwealth of Australia 2023
+
+ISBN: 978-1-925890-66-2
+
+This work is copyright. Apart from any use as permitted under the Copyright Act 1968 (Cwth), no part may be reproduced by any process without prior written permission from the Department of Defence.
+
+NATIONAL DEFENCE
+
+## DEFENCE STRATEGIC REVIEW
+
+Contents
+
+National Defence Statement 2023.............................................5
+
+National Defence – Defence Strategic Review .........................11
+
+Executive Summary.........................................................................17
+
+1 Current Strategic Circumstances................................................23 Australia’s strategic circumstances.........................................................................23 Loss of warning time...............................................................................................24
+
+2 Our Defence Strategic Environment...........................................27 The Indo-Pacific region ..........................................................................................27
+
+3 National Defence – A Whole-of-Government Approach.............31 National Defence ...................................................................................................31 Defence of Australia and the Global War on Terror...............................................31 The transition to National Defence........................................................................32 A whole-of-government approach.........................................................................33 Statecraft.................................................................................................................33
+
+4 Deterrence and Resilience.........................................................37
+
+5 Climate Change and Support to Domestic Disaster Relief...........41 Climate change and disaster relief.........................................................................41 Defence and clean energy transition.....................................................................41
+
+6 Defence Partnerships................................................................45 The United States Alliance......................................................................................45 Regional defence partnerships ..............................................................................46 Defence Cooperation Program...............................................................................47
+
+7 Defence Strategy and Force Design............................................49 Defence strategy.....................................................................................................49 Defence strategic objectives...................................................................................50 Defence planning framework.................................................................................50 Force design............................................................................................................50
+
+8 Force Structure and Capability..................................................53 From a Balanced to a Focused Force.....................................................................53 From a Joint to an Integrated Force.......................................................................54 Force structure design priorities............................................................................55
+
+Defence infrastructure design priorities................................................................56 Maritime domain force structure design priorities...............................................56 Maritime domain immediate investment priorities..............................................56 Land domain force structure design priorities.......................................................58 Land domain immediate investment priorities......................................................59 Air domain force structure design priorities..........................................................60 Air domain immediate investment priorities.........................................................61 Space.......................................................................................................................62 Command, control, communications, computers and architectures....................63 Cyber domain and targeting...................................................................................64 Theatre logistics......................................................................................................65 Capability timeframes.............................................................................................65 Nuclear-Powered Submarine Pathway...................................................................67 National Naval Shipbuilding Enterprise..................................................................67 Guided weapons and explosive ordnance ............................................................68 Integrated air and missile defence.........................................................................69
+
+9 Technology and Asymmetric Advantage....................................71 Asymmetric advantage...........................................................................................71 AUKUS Pillar II Advanced Capabilities....................................................................72 Defence science and technology ...........................................................................72 Advanced Strategic Capabilities Accelerator..........................................................73
+
+10 Force Posture and Accelerated Preparedness............................75 Force posture – Australia’s north...........................................................................75 Depth in force posture...........................................................................................75 Basing......................................................................................................................75 Fuel ........................................................................................................................77 Preparing for nuclear-powered submarines .........................................................78 Shipyard reform......................................................................................................78 East coast nuclear-powered submarine facility.....................................................80 Exercises and operations........................................................................................80 Accelerated Preparedness and logistics.................................................................81 Information and communications technology ......................................................82 Estate and infrastructure........................................................................................83 Security ..................................................................................................................84
+
+11 Workforce................................................................................. 87
+
+12 Capability Acquisition, Risk and Accountability.........................91 Capability acquisition..............................................................................................91 Risk and accountability...........................................................................................93 Indigenous industry groups....................................................................................93
+
+13 Finances and Resources.............................................................95
+
+14 Implementation, Oversight and Future Planning.......................99 National Defence Strategy......................................................................................99
+
+The Albanese Government’s Response to the Defence Strategic Review Recommendations........................103
+
+A
+
+## National Defence Statement 2023
+
+There is no more important and consequential task for Government than protecting the security, interests and livelihoods of its people.
+
+Accordingly, the Albanese Government commissioned an independent Defence Strategic Review (the Review) to assess whether Australia had the necessary defence capability, posture and preparedness to best defend Australia and its interests in the strategic environment we now face.
+
+The Government is grateful to His Excellency, the Hon Stephen Smith, and Air Chief Marshal Sir Angus Houston AK AFC (Ret’d) for leading this timely and consequential work. It is the most ambitious review of Defence’s posture and structure since the Second World War.
+
+The Government supports the strategic direction and key findings set out in the Review, which will inform all aspects of Australia’s defence policy, planning and resourcing over the coming decades.
+
+## Australia’s strategic environment
+
+Australia’s region, the Indo-Pacific, faces increasing competition that operates on multiple levels – economic, military, strategic and diplomatic – all interwoven and all framed by an intense contest of values and narratives.
+
+A large-scale conventional and non-conventional military build-up without strategic reassurance is contributing to the most challenging circumstances in our region for decades. Combined with rising tensions and reduced warning time for conflict, the risks of military escalation or miscalculation are rising.
+
+At the same time, the effects of climate change across the region are amplifying our challenges, while other actions that fall short of kinetic conflict, including economic coercion, are encroaching on the ability of countries to exercise their own agency and decide their own destinies.
+
+Since the 1980s, globalisation and the opening of the Australian economy have given rise to decades of growth and increased prosperity for the Australian people. Australia’s economy has become more interconnected with the Indo-Pacific and the world. In turn, this means Australia has a fundamental interest in protecting our connection to the world and in the global rules-based order upon which international trade depends.
+
+In this environment, we must sharpen our focus on what our interests are, and how to uphold them. Our focus needs to be on: how we ensure our fate is not determined by others; how we ensure our decisions are our own; and how we protect our way of life, our prosperity, our institutions and our economy.
+
+These interests demand we deploy all elements of our national power in statecraft seeking to shape a region that is open, stable and prosperous: a predictable region, operating by agreed rules, standards and laws, where sovereignty is respected. That statecraft includes deepening diplomatic engagement with the many other countries facing similar circumstances.
+
+It also requires strong defence capabilities of our own and working with partners investing in their own capabilities. We aim to change the calculus so no potential aggressor can ever conclude that the benefits of conflict outweigh the risks.
+
+This is how Australia contributes to the strategic balance of power that keeps the peace in our region, making it harder for countries to be coerced against their interests.
+
+## Australia’s strategic posture
+
+The defence of Australia lies in the collective security of the Indo-Pacific.
+
+The defence of Australia’s national interests lies in the protection of our economic connection with the world and the maintenance of the global rules-based order.
+
+Accordingly, the Australian Defence Force (ADF) must have the capacity to:
+
+defend Australia and our immediate region;
+
+deter through denial any adversary’s attempt to project power against Australia through our northern approaches;
+
+protect Australia’s economic connection to our region and the world;
+
+contribute with our partners to the collective security of the Indo-Pacific; and
+
+contribute with our partners to the maintenance of the global rules-based order.
+
+As most of these objectives lie well beyond our borders, the ADF must have the capacity to engage in impactful projection across the full spectrum of proportionate response. The ADF must be able to hold an adversary at risk further from our shores.
+
+## Capability and resources
+
+Due to the significant changes in Australia’s strategic circumstances, the Government agrees with the Review’s finding that the ADF as currently constituted and equipped is not fully fit for purpose.
+
+The Government deeply appreciates those who serve in the ADF and is committed to ensuring our people have the capabilities and resources they need. Delivering the Government’s vision and implementing the findings of the Review will require a more holistic approach to defence planning and strategy.
+
+Australia must have a fully integrated and more capable ADF operating across five domains which work seamlessly together on joint operations to deliver enhanced and joined-up combat power.
+
+Navy must have enhanced lethality – including through its surface fleet and conventionally-armed, nuclear-powered submarines – underpinned by a continuous naval shipbuilding program.
+
+Army must be optimised for littoral operations in our northern land and maritime spaces and provide a long-range strike capability.
+
+Air Force must provide the air support for joint operations in our north by conducting surveillance, air defence, strike and air transport.
+
+Defence must also continue to develop its cyber and space capabilities.
+
+The Government’s immediate actions to reprioritise Defence’s capabilities in line with the Review’s recommendations include:
+
+investing in conventionally-armed, nuclear-powered submarines through the AUKUS partnership;
+
+developing the ADF’s ability to precisely strike targets at longer range and manufacture munitions in Australia;
+
+improving the ADF’s ability to operate from Australia’s northern bases;
+
+lifting our capacity to rapidly translate disruptive new technologies into ADF capability, in close partnership with Australian industry;
+
+investing in the growth and retention of a highly-skilled Defence workforce; and
+
+deepening our diplomatic and defence partnerships with key partners in the Indo-Pacific.
+
+Defence must have the funding it needs to deliver this enhanced capability. To this end, Defence funding will increase over the next decade above its current trajectory to implement the Review, including the delivery of the conventionally-armed, nuclear-powered submarine program through AUKUS.
+
+The Government is also committed to fiscal discipline and will make the hard decisions to cancel or reprioritise Defence projects or activities that are no longer suited to our strategic circumstances as outlined in the Review. This will involve reprioritising planned investments while maintaining the overall level of Defence funding over the forward estimates.
+
+The Review calls for genuine whole-of-government coordination of Defence policy and activities with our wider efforts in statecraft. Australia’s foreign policy works with defence policy as essential and interdependent parts of how we make Australia stronger and more influential in the world.
+
+Indeed, the recommendations of the Review work in concert with other Government policy priorities which enhance our security and build our economic resilience. These include:
+
+our efforts to recruit, train and skill more Australians for jobs in defence and related industries;
+
+our investments in research and development, manufacturing, and supply chains; and
+
+our commitments to increasing output of domestically produced renewable energy, improving our domestic fuel reserves, and establishing a civil maritime strategic fleet.
+
+The Government is deploying all of these elements of national power to make Australia more stable, confident and secure.
+
+## Working with our partners and the region
+
+Australia must continue to work closely with our Ally and principal strategic partner, the United States, through the Alliance. Close cooperation with the United States is central to achieving balance and stability in the Indo-Pacific.
+
+Australia will also strengthen engagement with Indo-Pacific partners, particularly in the Pacific and Southeast Asia, to maintain peace, security and prosperity in our region. This includes working with key regional institutions, including the Pacific Islands Forum and ASEAN.
+
+A stable relationship between Australia and China is in the interests of both countries and the broader region. Australia will continue to cooperate with China where we can, disagree where we must, manage our differences wisely, and, above all else, engage in and vigorously pursue our own national interest.
+
+## The way ahead
+
+Realising the ambition of the Review will require a whole-of-government effort, coupled with significant financial commitment and major reform.
+
+The Albanese Government’s response to the Review includes specific directions to Defence with immediate effect, while establishing a methodical and comprehensive process for long-term and sustainable implementation. To inform this, the Government has accepted the Review’s recommendation for an inaugural National Defence Strategy in 2024, which will be updated biennially. The National Defence Strategy will encompass a comprehensive outline of Defence policy, planning, capabilities and resourcing, including reprioritisation of the Integrated Investment Program, to align with the intent and recommendations of the Review.
+
+These actions will set the course for the defence of Australia over the coming decades in a manner that promotes peace and stability, and helps keep Australians safe.
+
+The Hon Richard Marles MP Deputy Prime Minister Minister for Defence
+
+B
+
+## Foreword
+
+On 3 August 2022, we were asked to conduct a Defence Strategic Review (the Review), with wide-ranging terms of reference and to report to the Government in time for consideration by March 2023. We reported to the Government on 14 February 2023.
+
+The short period we had for the Review is in contrast to the traditional time afforded for such comprehensive assessments of force posture, force structure and capability, namely 12–18 months. In the context of our current strategic circumstances, which have further deteriorated from those outlined in the 2020 Defence Strategic Update, the short timetable helped our task. In particular it provides an example of the strong sense of urgency that is needed in the response required from Defence, the Government and the nation to address our strategic challenges.
+
+Our aim for the Review was twofold: to provide a strategic assessment and a far-reaching strategy for the nation and the Government, as well as a roadmap for Defence to implement our recommendations.
+
+This is the public version of the Review. It is necessarily qualitatively different from our 14 February 2023 version. It is less detailed, as many of the judgements and recommendations in the Review are sensitive and classified.
+
+The full classified Review is also strategic in nature, and will require significant effort and commitment to implement. Many of these challenges will require a whole-of-government and whole-of-nation effort.
+
+In order to crystallise these challenges in relation to Australia’s security, we have outlined a new strategic conceptual approach of ‘National Defence’.
+
+Stephen Smith
+
+Angus Houston
+
+## The Defence Strategic Review Terms of Reference
+
+Defence Strategic Review
+
+Terms of Reference for the Independent Leads of the Review
+
+3 August 2022
+
+Introduction
+
+An Australian Defence Force Posture Review was last undertaken in 2012 in strategic circumstances far different to those facing the Australian nation today. The conduct of a new Defence Strategic Review (‘The Review’) that considers both force posture and force structure is now required to ensure that Defence has the right capabilities that are postured to meet the growing strategic challenges that Australia and its partner countries will face in the world in coming years.
+
+The Review is to be a holistic consideration of Australia’s Defence force structure and posture by including force disposition, preparedness, strategy and associated investments, including all elements of Defence’s Integrated Investment Program.
+
+Background
+
+The 2020 Defence Strategic Update and 2020 Force Structure Plan recognised the trends identified in the 2016 Defence White Paper were accelerating at a rate faster than anticipated. The world is undergoing significant strategic realignment. Military modernisation, technological disruption and the risk of state-on-state conflict are complicating Australia’s strategic circumstances. These strategic changes demand the Australian Government re-assess the capabilities and posture of the Australian Defence Force and broader Department of Defence.
+
+Purpose
+
+The purpose of the Review is to consider the priority of investment in Defence capabilities and assess the Australian Defence Force’s structure, posture and preparedness in order to optimise Defence capability and posture to meet the nation’s security challenges over the period 2023-24 to 2032-33 and beyond.
+
+Critical Information Requirements
+
+The Review is to be informed by intelligence and strategic assessments of the most concerning threats which challenge Australia’s security.
+
+The Review will take into account the capability investment, force posture and preparedness implications of Defence policy and plans, cognisant of relationships with partners and allies.
+
+The Review may be informed by other information the Independent Leads deem significant.
+
+Task
+
+The Independent Leads are to prepare a Review in time for National Security Committee of Cabinet consideration no later than March 2023.
+
+The Review must outline the future strategic challenges facing Australia, which may require an Australian Defence Force operational response.
+
+The Review must identify and prioritise the estate, infrastructure, disposition, logistics and security investments required to provide Australia with the Defence force posture required by 2032-33.
+
+The Review must consider all elements of the Integrated Investment Program and provide recommendations for the Program’s reprioritisation, particularly in light of recently announced large-scale projects, to provide Australia with the force structure required by 2032-33.
+
+The Review must outline the investments required to support Defence preparedness, and mobilisation needs to 2032-33.
+
+The Review must outline funding needs to 2032-33 to ensure longer-term strategic investments are progressed.
+
+Recommendations
+
+The Review will make recommendations in relation to Defence force structure, force posture, and preparedness over the period 2023-24 to 2032-33 and beyond; and on any other matters which are deemed appropriate to the Review’s outcomes.
+
+Interim Report
+
+An interim report will be provided after the Independent Leads have completed their initial analysis.
+
+## Acknowledgements
+
+We thank and acknowledge the many people who enabled the completion of the Review within 28 weeks. Our particular thanks are extended to the Defence Strategic Review Secretariat which provided support throughout the Review. We thank those who provided their time and thoughts to the Review through their public submissions and/or interviews by us. The Secretary and the Chief of the Defence Force were unwavering in their cooperation, providing us with open access to Defence. The enthusiastic response from Defence to our requests for information or support was greatly appreciated. We thank the Consul-General Honolulu, staff at the Australian Embassy in Washington, D.C., and staff at the Australian High Commission in London for their assistance with our consultations in Hawaii, Washington, D.C., and London.
+
+## The Defence Strategic Review Team
+
+Air Chief Marshal Sir Angus Houston AK AFC (Ret’d)
+
+His Excellency, the Hon Stephen Smith
+
+Ms Gabrielle Burrell
+
+Professor Peter J. Dean SFHEA PhD
+
+Major General Richard Vagg DSC
+
+## The Defence Strategic Review Team Secretariat
+
+Ms Emma Baxter
+
+Colonel Alistair Dickie
+
+Commander Christopher Doherty
+
+Ms Alicia Evans
+
+Lieutenant Erin Fisher-Stamp
+
+Ms Lauren Hanley
+
+Ms Amy Hawkins
+
+Ms Tamara Kyle
+
+Wing Commander Murray Newberry
+
+Lieutenant Mitch Rand
+
+Mr Doug Steele
+
+### Executive Summary
+
+Defence policy and strategy serve to secure peace and prosperity. In addressing the Terms of Reference provided by the Government, our objective has been the provision of recommendations that seek to maintain our nation’s sovereignty, security and prosperity.
+
+Our approach for this Review is to chart a pathway for the Government to urgently advance our nation’s security and our National Defence in these challenging times. The platform for reform is strong. Australia has a strong and deep Alliance with the United States, a professional defence force and defence organisation, and an enviable international reputation as a capable country in military, peacekeeping, and humanitarian assistance and disaster relief operations.
+
+### Australia’s strategic circumstances
+
+Since the end of the Second World War, there have been innumerable strategic papers, defence reviews and white papers aimed at guiding Defence’s contribution to our security.
+
+During this period, Australia has faced significant security risks, but our current strategic circumstances are now radically different.
+
+Our Alliance partner, the United States, is no longer the unipolar leader of the Indo-Pacific. The region has seen the return of major power strategic competition, the intensity of which should be seen as the defining feature of our region and time.
+
+As a consequence, for the first time in 80 years, we must go back to fundamentals, to take a first-principles approach as to how we manage and seek to avoid the highest level of strategic risk we now face as a nation: the prospect of major conflict in the region that directly threatens our national interest.
+
+Strategically, we may have already entered a decisive period for the Indo-Pacific. As a result, our ability to address the reduced strategic warning time identified in the 2020 Defence Strategic Update has come into sharper relief.
+
+Climate change will increase the challenges for Defence and Australia, including increased humanitarian assistance and disaster relief tasks at home and abroad.
+
+The strategic risks we face require the implementation of a new approach to defence planning, force posture, force structure, capability development and acquisition.
+
+## National Defence – a whole-of-government approach
+
+Over the past five decades the general approach to our defence policy has been the Defence of Australia doctrine. That approach was aimed at deterring and responding to potential low-level threats from a small or middle power in our immediate region.
+
+This approach is no longer fit for purpose. As a result, this Review has outlined a new strategic conceptual approach to Australia’s defence planning and strategy – National Defence.
+
+National Defence is focused on the defence of Australia in the face of potential threats in our region. Our nation and its leaders must take a much more whole-of-government and whole-of-nation approach to security.
+
+This approach requires much more active Australian statecraft that works to support the maintenance of a regional balance of power in the Indo-Pacific. This requires deepening diplomatic engagement and stronger defence capabilities to help deter coercion and lower the risk of conflict.
+
+## The Alliance and regional defence partnerships
+
+Our Alliance with the United States will remain central to Australia’s security and strategy. The United States will become even more important in the coming decades. Defence should pursue greater advanced scientific, technological and industrial cooperation in the Alliance, as well as increased United States rotational force posture in Australia, including with submarines.
+
+Investing in our Indo-Pacific regional partnerships remains essential. Australia’s focus must be to deepen its engagement and collaboration with partners across Southeast Asia and the Pacific. The Defence Cooperation Program should continue to grow, particularly in the Indian Ocean region.
+
+Australia also needs to continue to expand its relationships and practical cooperation with key powers, including Japan and India, and invest in regional architecture.
+
+## Force design and force structure
+
+The current Australian Defence Force (ADF) force structure is based on a ‘balanced force’ model that reflects a bygone era. It does not adequately address our new strategic environment.
+
+The ADF needs a much more focused force that can respond to the risks we face. It should be informed by net assessment and able to effect a strategy of denial.
+
+To maximise the deterrence, denial and response options for the Government, the ADF must evolve into a genuine Integrated Force which harnesses effects across all five domains: maritime, land, air, space and cyber.
+
+The ADF’s operational success will depend on the ability of the Integrated Force to apply the following critical capabilities:
+
+undersea warfare capabilities (crewed and uncrewed) optimised for persistent, long-range sub-surface intelligence, surveillance and reconnaissance (ISR) and strike;
+
+an enhanced integrated targeting capability;
+
+an enhanced long-range strike capability in all domains;
+
+a fully enabled, integrated amphibious-capable combined-arms land system;
+
+enhanced, all-domain, maritime capabilities for sea denial operations and localised sea control;
+
+a networked expeditionary air operations capability;
+
+an enhanced, all-domain, integrated air and missile defence capability;
+
+a joint, expeditionary theatre logistics system with strategic depth and mobility;
+
+a theatre command and control framework that enables an enhanced Integrated Force; and
+
+a developed network of northern bases to provide a platform for logistics support, denial and deterrence.
+
+We strongly support the acquisition of a conventionally-armed, nuclear-powered submarine capability, including the establishment of an Australian Submarine Agency. We also recommend the Government reaffirm its commitment to continuous naval shipbuilding.
+
+The Defence Science and Technology Group and the new Advanced Strategic Capabilities Accelerator must enable our research and industry sectors to focus their work on the development of advanced and asymmetric capabilities in key technological areas.
+
+The Integrated Force also requires effective joint enablers. Theatre-level logistics need to be optimised to enable operations and sustainment of the force. The immediate focus should be on consolidating ADF guided weapons and explosive ordnance (GWEO) needs.
+
+## Posture and preparedness
+
+National Defence requires a re-posturing of Defence, particularly an enhanced network of bases, ports and barracks across northern Australia. Comprehensive upgrade works on these bases must commence immediately, and fuel storage and supply issues should be rectified.
+
+## Workforce
+
+Defence faces significant workforce challenges. This demands an innovative and bold approach to recruitment and retention.
+
+Both the ADF and Australian Public Service (APS) workforces are understrength, while the contractor workforce has become the largest single component workforce element in Defence.
+
+Defence must look to new markets and make further major changes to risk and policy settings to increase retention and the speed of recruitment. Pay and service conditions as well as workplace culture for both the APS and ADF should be highly competitive in the labour market.
+
+## Capability acquisition, risk and accountability
+
+Defence’s current approach to capability acquisition is not fit for purpose. The system needs to abandon its pursuit of the perfect solution or process and focus on delivering timely and relevant capability.
+
+Defence must move away from processes based around project management risk rather than strategic risk management. It must be based on minimum viable capability in the shortest possible time.
+
+## Finances and resources
+
+Between the 2020 Defence Strategic Update and the commencement of this Review, measures were announced which resulted in excess of $42 billion in additional Defence spending over the planning decade, without the provision of any additional allocation in the Commonwealth Budget.
+
+New capability requirements, coupled with sustainment demand for existing capabilities and the need to address severe workforce pressures, will require difficult decisions and trade-offs to manage the Defence Budget over the immediate period. This Review proposes reprioritisation of the Integrated Investment Program to enable new and accelerated capability acquisitions.
+
+More funding will be required. Defence spending must reflect the strategic circumstances our nation faces.
+
+## National security coordination
+
+To enable National Defence, we must move to a more holistic approach to Australia’s defence and security strategy.
+
+Defence policy development must move away from intermittent white papers to a biennial National Defence Strategy. This will allow for Defence policy development to keep pace with a rapidly evolving strategic environment and ensure consistency across government.
+
+## Implementation, oversight and future planning
+
+The proposed Defence Strategic Review Management Board, led by the Secretary and the Chief of the Defence Force, must provide direct oversight and leadership of the implementation of the recommendations in this Review as adopted and prioritised by the Government.
+
+External oversight of implementation is essential. This must be undertaken by Cabinet, supported by external oversight advisers.
+
+The risks we face are profound and the roadmap we have provided in the Review is far-reaching. We believe the Review is the most substantial and ambitious approach to Defence reform recommended to any Australian Government since the Second World War.
+
+It will be challenging to effect.
+
+## Current Strategic Circumstances
+
+### Australia’s strategic circumstances
+
+1.1 The primary responsibility of the Australian Government is to protect the sovereignty and security of the nation to enable its people to live in peace and prosperity.
+
+1.2 At times, the strategic risks faced by Australia have been significant. In the early post-Second World War period, the onset of the Cold War, the risk of a third world war and the threat of nuclear armageddon were real prospects. Australia, however, was geographically remote from the strategic centre of gravity in Europe and the Northern Hemisphere. Regional conflicts in the 1950s, 1960s and 1970s posed a threat in the near region, but no power in the (now called) Indo-Pacific could contest the United States or fundamentally challenge or change the United States-led post-war order.
+
+1.3 In the latter Cold War period, Australia faced no direct military threat. The post-Cold War era that followed the collapse of the Soviet Union featured the emergence of the United States-led unipolar order. The Global War on Terror era, although politically and militarily very significant, did not pose an existential threat to Australia, nor to the United States-led regional strategic order.
+
+1.4 Australia’s strategic circumstances and the risks we face are now radically different. No longer is our Alliance partner, the United States, the unipolar leader of the Indo-Pacific. Intense China-United States competition is the defining feature of our region and our time. Major power competition in our region has the potential to threaten our interests, including the potential for conflict. The nature of conflict and threats have also changed.
+
+1.5 Regional countries continue to modernise their military forces. China’s military build-up is now the largest and most ambitious of any country since the end of the Second World War. This has occurred alongside significant economic development, benefiting many countries in the Indo-Pacific, including Australia. This build-up is occurring without transparency or reassurance to the Indo-Pacific region of China’s strategic intent. China’s assertion of sovereignty over the South China Sea threatens the global rules-based order in the Indo-Pacific in a way that adversely impacts Australia’s national interests. China is also engaged in strategic competition in Australia’s near neighbourhood.
+
+1.6 As a consequence, for the first time in 80 years, we must go back to fundamentals, to take a first-principles approach as to how we manage and seek to avoid the highest level of strategic risk we now face as a nation: the prospect of major conflict in the region that directly threatens our national interest.
+
+1.7 As a result of this new strategic reality, our view is that this is not ‘just another Defence review’ that will shuffle available resources, or tweak the balance of the ADF. This Review, in conjunction with the acquisition of conventionally-armed, nuclear-powered submarines, will reshape the force structure, posture and capability of Defence for coming decades – and necessarily so.
+
+1.8 The strategic risks we face require the implementation of a new approach to planning, force posture, force structure, capability development and acquisition.
+
+1.9 This necessitates a managed, but nevertheless focused, sense of urgency. It is clear that a business-as-usual approach is not appropriate.
+
+1.10 As a consequence of the risk that Australia now faces, our nation and its leaders must take a much more whole-of-government and whole-of-nation approach to security. Defence must take a much more integrated approach.
+
+1.11 We must also make a substantially greater commitment of national resources to enable a more holistic approach to Australia’s defence and security.
+
+### Loss of warning time
+
+1.12 Strategic warning time for conventional conflict is the time a country estimates an adversary would need to launch a major attack against it, once the adversary’s intent to do so has been established.
+
+1.13 In the post-Second World War period, Australia was protected by its geography and the limited ability of other nations in the region to project power. Defence and the nation had a 10-year warning time as the foundation for planning, capability development and preparedness for conflict.
+
+1.14 In the contemporary strategic era, we cannot rely on geography or warning time. Regional military modernisation, underpinned by economic development, has meant that more countries are able to project combat power across greater ranges in all five domains: maritime, land, air, space and cyber. Emerging and disruptive technologies are being rapidly translated into military capability.
+
+1.15 While there is at present only a remote possibility of any power contemplating an invasion of our continent, the threat of the use of military force or coercion against Australia does not require invasion. More countries are able to project combat power across greater ranges, including against our trade and supply routes, which are vital for Australia’s economic prosperity. Cyber warfare is not bound by geography. The rise of the ‘missile age’ in modern warfare, crystallised by the proliferation of long-range precision strike weapons, has radically reduced Australia’s geographic benefits, the comfort of distance and our qualitative regional capability edge.
+
+1.16 The 2020 Defence Strategic Update ended the long-standing assumption in Defence planning that Australia would have a 10-year warning time.
+
+1.17 Ending warning time has major repercussions for Australia’s management of strategic risk. It necessitates an urgent call to action, including higher levels of military preparedness and accelerated capability development.
+
+1.18 These activities require increased Defence spending and a move away from a business-as-usual approach to policy development, risk management and Defence preparedness.
+
+### 1.19 Instead of a 10-year warning time, the Review has identified three distinct time periods for Defence planning:
+
+the three-year period 2023-2025 (for those matters which must be prioritised and addressed urgently);
+
+the five-year period 2026-2030; and
+
+the period 2031 and beyond.
+
+## Our Defence Strategic Environment
+
+### The Indo-Pacific region
+
+2.1 Australia’s key strategic geographical framework since the 2013 Defence White Paper, as embedded in subsequent strategic planning documents, has been the Indo-Pacific.
+
+2.2 The adoption of the Indo-Pacific strategic framework was a deeply significant change to the basis of Australian defence planning.
+
+2.3 The Indo-Pacific is the most important geostrategic region in the world. It is a region whose stability and global integration has ushered in decades of prosperity and enabled the incredible growth of regional economies, including China.
+
+2.4 The Indo-Pacific is defined by a large population, unprecedented economic growth, major power competition and an emerging multipolar distribution of power, but without an established regional security architecture. Australia sits at the crossroads of the Indo-Pacific where the proximity to this dynamic region means that our nation faces unprecedented strategic challenges.
+
+### 2.5 Australia’s contemporary regional security situation is now characterised by:
+
+strategic competition between the major powers;
+
+the use of coercive tactics;
+
+the acceleration and expansion of military capabilities without necessary transparency;
+
+the rapid translation of emerging and disruptive technologies into military capability;
+
+nuclear weapons proliferation; and
+
+the increased risk of miscalculation or misjudgement.
+
+2.6 For military planning, in terms of our strategic geography, the primary area of military interest for Australia’s National Defence is the immediate region encompassing the north-eastern Indian Ocean through maritime Southeast Asia into the Pacific. This region includes our northern approaches.
+
+### Recommendation:
+
+• Australia’s immediate region encompassing the north-eastern Indian Ocean through maritime Southeast Asia into the Pacific, including our northern approaches, should be the primary area of military interest for Australia’s National Defence.
+
+### A Whole-of-Government Approach — National Defence
+
+3.1 The circumstances described in the 2020 Defence Strategic Update and subsequent comprehensive assessments of our regional security environment require a coherent national strategic response.
+
+3.2 These are not strategic circumstances for Defence to grapple with alone. We need both a unifying national strategic approach and a new approach to our nation’s defence.
+
+### Defence of Australia and the Global War on Terror
+
+3.3 In the post-war period, as a general proposition, the major priority for the use of military force has been based on the concept of the Defence of Australia. This concept focused on the threat of low-level conflict from small to middle regional powers.
+
+3.4 The 1976 Defence White Paper focused formally for the first time on this strategic concept. The independent review of Defence capabilities, the 1986 Dibb Review, embedded that concept into defence planning doctrine and it became the basis for the 1987 Defence White Paper.
+
+3.5 After terrorist attacks on the United States on 11 September 2001, Australia’s focus turned sharply to the Global War on Terror and Middle East expeditionary force operations until the mid-2010s.
+
+3.6 Throughout this period the Defence of Australia doctrine remained in place, limited to low-level regional-based threats. However, from 2001, operational pressures from Australia’s commitments to these conflicts shifted the focus to capability and operational design suited to the Middle East. This had a major adverse impact on capability development for the Defence of Australia concept.
+
+### The transition to National Defence
+
+3.7 Major power competition involves threats and risks far beyond and quantifiably different to any faced since the end of the Second World War. Australia’s current strategic circumstances require a new strategic conceptual approach.
+
+3.8 It requires re-examining the traditional notion of the Defence of Australia concept. That doctrine is no longer suitable. There is a requirement for a new, holistic approach to Australian defence planning and strategy. We must adopt a new strategic conceptual approach of National Defence, which encompasses the defence of Australia against potential threats arising from major power competition, including the prospect of conflict.
+
+3.9 National Defence must be part of a broader national strategy of whole-of-government coordinated and focused statecraft and diplomacy in our region. This approach requires much more active Australian statecraft that works to support the maintenance of a regional balance of power in the Indo-Pacific.
+
+### 3.10 National Defence includes:
+
+Defence strategy and policy supporting whole-of-nation strategies;
+
+an enhanced and expanded Alliance with the United States, including key force posture initiatives in Australia;
+
+a new, more focused approach to defence planning based on net assessment;
+
+a focus on deterrence through denial, including the ability to hold any adversary at risk;
+
+a new approach to critical Defence capabilities that drives force structure;
+
+a new approach to force posture for the ADF;
+
+a whole-of-nation effort to develop strategic resilience;
+
+accelerated military preparedness;
+
+a more capable ADF;
+
+the development of a fully joined-up and Integrated Force;
+
+a new approach to the management of risk across government;
+
+fundamental changes to Defence recruitment and workforce management;
+
+enhanced sovereign defence industrial capacity in key areas;
+
+a new approach to developing advanced military technology; and
+
+a renewed focus on national planning for Defence preparedness.
+
+3.11 Adopting the National Defence concept will be the most substantial and ambitious approach to Defence recommended to any Australian Government since the Second World War.
+
+3.12 Key to successful outcomes in implementing National Defence will be: national leadership, statecraft and diplomatic proficiency; accelerated military preparedness; economic stewardship; scientific and technological prowess; and climate change action and domestic resilience. It will be challenging to effect.
+
+### A whole-of-government approach
+
+3.13 Government must engage with National Defence in a joined-up whole-of-government manner. Strategic coordination and execution across government is essential to implement a national strategy and to ensure Defence’s alignment with this strategic approach. A vital element to ensure this approach is followed through is Government commitment, will and persistence, and clear direction to Defence and other government entities.
+
+3.14 Critical to this whole-of-government National Defence approach is to have a national strategy and unity of effort to Australian statecraft.
+
+### Statecraft
+
+3.15 National Defence must be anchored in a broader national strategy. This strategy should harness all elements of national power to protect Australia’s strategic interests, and contribute to the maintenance of a regional balance of power in the Indo-Pacific that is favourable to our interests.
+
+3.16 Our approach to statecraft must include measures internal and external to Australia and build on actions already underway. Internal measures have included: increased defence and national security spending; the reorganisation of elements of the national intelligence and national security community; substantial investments in cyber security; changes to foreign investment laws; and measures to resist foreign interference and protect critical infrastructure.
+
+3.17 External approaches have included measures such as: the adoption of the strategic framework of the Indo-Pacific; expanding regional strategic multilateral, trilateral and bilateral partnerships, including the reinstatement of the Quad partnership with Japan, India and the United States; enhancing United States Alliance force posture arrangements in Australia; capability development
+
+being pursued through AUKUS; enhancing regional military exercises; and a substantially heightened focus for Australian diplomacy in the Pacific and Southeast Asia.
+
+3.18 Australian statecraft now requires a consistent and coordinated whole-of-government approach to international affairs and the harmonisation of a range of domestic and external national security portfolios, from trade and investment to education, minerals and resources, clean energy, climate, industry, infrastructure and more.
+
+3.19 Statecraft also requires the utilisation of all elements of national power, the alignment of all supporting government policy, economic resilience and a consistent strategic narrative.
+
+3.20 The foundation of this approach is the reversal of a long-term reduction in diplomatic resources, increasing our diplomatic efforts in areas of core national interest. Our diplomatic capability must be resourced, directed and focused.
+
+3.21 Statecraft must be driven and directed by a clear sense of national strategy and be coordinated across government through a clear and holistic national strategic approach.
+
+3.22 Defence’s role in this whole-of-nation strategy is critical. Military power enables pursuit of a wide range of Australian interests in peacetime and is fundamental to deterring conflict, defending Australia, and denying an adversary in the event of armed conflict.
+
+### Recommendations:
+
+• National Defence should be adopted as the strategic approach for defence planning.
+
+• A whole-of-government and whole-of-nation approach to our strategic environment should be adopted.
+
+• The Department of Foreign Affairs and Trade (DFAT) should be appropriately resourced to lead a nationally determined and strategically directed whole-of-government statecraft effort in the Indo-Pacific.
+
+## Deterrence and Resilience
+
+4.1 Deterrence is about compelling an actor to defer or abandon a planned strategy or activity by having in place steps and responses to change its risk assessment and, therefore, decision-making.
+
+4.2 Deterrence can be achieved through raising the costs or reducing the benefits to an adversary through denial, dissuasion or punishment.
+
+4.3 Deterrence exists in an adversary only as a ‘state of mind’. This makes credibility in deterrence especially important, while also making the success of deterrence posture and effects very difficult to assess.
+
+4.4 Deterrence strategy and practice is evolving. In military terms it now spans five domains: maritime, land, air, space and cyber.
+
+4.5 This requires new ways of thinking about the holistic deployment of Australian national power to ensure the perceived costs and risks to an adversary remain greater than the perceived benefit.
+
+4.6 Current Australian defence policy is based on deterrence through denial. This military application of deterrence theory is based on the concept of establishing effective defence capabilities relative to the threat.
+
+4.7 Current defence deterrence policy is based on demonstrating an ability to independently defeat threats within our immediate region. This was credible with a force structure postured for low-level and enhanced low-level regional threats.
+
+4.8 However, Australia does not have effective defence capabilities relative to higher threat levels. In the present strategic circumstances, this can only be achieved by Australia working with the United States and other key partners in the maintenance of a favourable regional environment. Australia also needs to develop the capability to unilaterally deter any state from offensive military action against Australian forces or territory.
+
+4.9 Although invasion of the Australian continent is a remote possibility, any adversary could seek to coerce Australia through cyber attacks, incursions in our north west shelf or parts of our exclusive economic zone, or disruptions to our sea lines of communication. By developing a resilient and capable ADF that can hold forces at risk in our northern maritime approaches, Australia could deter attacks on Australian forces or territory.
+
+4.10 In our current strategic circumstances, the risk of nuclear escalation must be regarded as real. Our best protection against the risk of nuclear escalation is the United States’ extended nuclear deterrence, and the pursuit of new avenues of arms control.
+
+4.11 A central component of deterrence is resilience. Australia’s deterrence efforts sit within a whole-of-government framework. This relies on harnessing all elements of national power.
+
+4.12 Resilience requires the ability to withstand, endure and recover from disruption. Resilience makes Australia a harder target and less susceptible to coercion. Critical requirements include:
+
+an informed public;
+
+national unity and cohesion;
+
+democratic assuredness;
+
+robust cyber security, data networks and space capabilities;
+
+supply chain diversity;
+
+economic security;
+
+environmental security;
+
+fuel and energy security;
+
+enhanced military preparedness;
+
+advanced munitions manufacturing (especially in long-range guided weapons);
+
+robust national logistics; and
+
+a national industrial base with a capacity to scale.
+
+4.13 A high level of resilience would signal to an adversary the extent of Australia’s resolve to defend itself. This would contribute to deterrence.
+
+## Climate Change and Support to Domestic Disaster Relief
+
+### Climate change and disaster relief
+
+5.1 Climate change is now a national security issue. Climate change will increase the challenges for Australia and Defence, including increased humanitarian assistance and disaster relief tasks at home and abroad. If climate change accelerates over the coming decades it has the potential to significantly increase risk in our region. It could lead to mass migration, increased demands for peacekeeping and peace enforcement, and intrastate and interstate conflict.
+
+5.2 Climate change holds a number of significant implications for Defence. The acceleration of major climate events risks overwhelming the Government’s capacity to respond effectively and detracting from Defence’s primary objective of defending Australia. Climate events already place concurrency pressures on the ADF and this has negatively affected force preparedness, readiness and combat effectiveness.
+
+5.3 Defence is frequently required to make large contributions to domestic disaster relief efforts as well as support to the community, such as during the COVID-19 pandemic. However, Defence is not structured or appropriately equipped to act as a domestic disaster recovery agency concurrently with its core function, in any sustainable way.
+
+5.4 State and local governments, in partnership with the Commonwealth, must have in place the necessary plans, resources and capabilities to deal with all but the most extreme domestic disaster operations.
+
+5.5 Defence must be the force of last resort for domestic aid to the civil community. This is critical given the urgent geostrategic risks that the nation faces and the need for the ADF to be in a position to respond to regional contingencies.
+
+### Defence and clean energy transition
+
+5.6 Australia has the potential to benefit substantially from global decarbonisation if we can harness our renewable and mineral resources and drive investment in clean technology supply chains and energy intensive industry. Defence also needs to focus on clean energy transition.
+
+### Recommendations:
+
+• The Commonwealth should work with the states and territories to develop national resilience and response measures for adverse climate change at the local level without the need of ADF support, except in the most extreme emergencies.
+
+• Defence should be the force of last resort for domestic aid to the civil community, except in extreme circumstances.
+
+• Defence should accelerate its transition to clean energy to increase our national resilience, with a plan to be presented to the Government by 2025.
+
+## Defence Partnerships
+
+6.1 To protect Australia’s strategic interests, we must contribute to the maintenance of a regional balance of power in the Indo-Pacific that is favourable to our interests.
+
+### The United States Alliance
+
+6.2 Australia’s strategic culture has long been based on a major power alliance. Every Australian Government since Federation has assessed our strategic circumstances and reaffirmed the centrality of an alliance partnership in relationship to our strategic interests.
+
+6.3 Contrary to some public analysis, our Alliance with the United States is becoming even more important to Australia. This will increasingly include working more closely with the United States and other partners. Recent advances in the United States-Japan Alliance and the Australia-Japan Special Strategic Partnership, as well as the Australia-United States-Japan trilateral relationship, are key indicators of the deepening relationships between the United States and its allies in the Indo-Pacific.
+
+6.4 The Australia-United States Alliance, enabled through the ANZUS Treaty, will continue to grow and adapt. In the context of the Alliance and the deteriorating strategic environment, Australia must be more self-reliant so we are able to contribute more to regional stability.
+
+### 6.5 This change will require a shift to:
+
+more active Australian statecraft using all elements of national power;
+
+greater advanced scientific, technological and industrial cooperation in the Alliance;
+
+increased bilateral military planning;
+
+increased United States rotational force posture in Australia, including submarines;
+
+engagement with the United States on deterrence, including through joint exercises and patrols; and
+
+strengthening Australia’s sovereign military and industrial capabilities.
+
+### Regional defence partnerships
+
+6.6 Investing in Indo-Pacific regional defence partnerships is critical and must be focused on Australia’s primary area of military interest.
+
+6.7 Southeast Asia is one of the key areas of strategic competition in the Indo-Pacific. Investing in partnerships in this region will be critical to maintaining the regional strategic balance.
+
+6.8 The Pacific is critical to the security of Australia and the region. Australia’s positive work in development assistance, disaster response and multilateralism remains essential. New Zealand is a key partner for Australia in the Pacific.
+
+6.9 Australia is a significant Indian Ocean state with the longest Indian Ocean coastline and the region’s largest search and rescue area.
+
+6.10 Australia must continue to expand its relationships and practical cooperation with key powers, including Japan and India.
+
+6.11 Defence is already engaged in extensive international engagement efforts in our region but a refocusing will need to be undertaken to maximise benefits and alignment with the strategic circumstances. This refocusing should ensure Australia effectively engages in bilateral, minilateral and multilateral opportunities to support mutual interests in the Indo-Pacific. Regional architecture such as ASEAN and the Pacific Islands Forum, and their associated forums, remain critical to Australian engagement in the region. Australia’s refocus will continue to rely on such forums as reliable avenues to jointly engage partners at a regional level.
+
+6.12 We must also enhance minilateral cooperation and trilateral partnerships, as well as engagements with the EU, its member countries and NATO, centred on their Indo-Pacific strategies.
+
+6.13 Engagement with the United Kingdom in the Indo-Pacific must be enhanced, including through AUKUS.
+
+6.14 To maximise efforts, Australia must take a more focused and strategic approach. This means greater coordination between DFAT, Defence and other key government entities.
+
+### Defence Cooperation Program
+
+6.15 The Defence Cooperation Program has delivered sustained engagement, capacity building and military effect throughout the Pacific and Southeast Asia over the past 60 years. The program includes the permanent presence of Defence personnel, both civilian and military, and funding to deliver training, capability, equipment and infrastructure.
+
+6.16 In the Pacific and Southeast Asia, the Defence Cooperation Program brand is considered an exemplar of defence diplomacy. The assistance provided through the program is also a key pillar of our broader bilateral relationships in the region; deepening cultural ties and developing enduring people-to-people links.
+
+6.17 The Defence Cooperation Program must continue to grow in importance. It should be expanded in the Indian Ocean region, particularly the north-eastern Indian Ocean.
+
+## Defence Strategy and Force Design
+
+### Defence strategy
+
+7.1 Based on the Review’s assessment of our current strategic environment, we recommend the Government directs Defence to adopt a strategy of denial.
+
+### Strategy of denial
+
+A strategy of denial is a defensive approach designed to stop an adversary from succeeding in its goal to coerce states through force, or the threatened use of force, to achieve dominance.
+
+Denial is associated with the ability and intent to defend against, and defeat, an act of aggression.
+
+7.2 For Australia, this strategy of denial must be focused on our primary area of military interest. The key is the presence of a robust ADF. The strategy of denial must also recognise the importance of non-geographic security threats, including cyber, space and long-range missile capabilities.
+
+7.3 A strategy of denial for the ADF must focus on the development of anti-access/ area denial capabilities (A2AD). Anti-access capabilities are usually long-range and designed to detect an adversary and prevent an advancing adversary from entering an operational area. Area-denial capabilities are shorter range and designed to limit an adversary’s freedom of action within a defined operational area. A2AD is often synonymous with long-range strike capability, undersea warfare and surface-to-air missiles.
+
+7.4 The development of a strategy of denial for the ADF is key in our ability to deny an adversary freedom of action to militarily coerce Australia and to operate against Australia without being held at risk.
+
+### Defence strategic objectives
+
+7.5 Defence’s strategic objectives, as laid out in the 2020 Defence Strategic Update, are to shape Australia’s strategic environment, deter actions against Australia’s interests, and respond with credible military force, when required. These objectives must now be seen through the lens of a strategy of denial.
+
+7.6 The achievement of these objectives is beyond Defence’s capabilities alone. While Defence may lead in some of these areas, it requires a whole-of-government approach and the harnessing of all elements of Australian national power and statecraft outlined in Chapter 3.
+
+### Defence planning framework
+
+7.7 Defence planning is about risk management. The future Defence planning framework must be based on building force structure, force posture and accelerating preparedness on the basis of a net assessment planning process to ensure it is focused on the levels of risk in our current strategic circumstances.
+
+7.8 The Defence planning framework must also assess different potential levels of conflict, as the core strategic risks in each are different. This is critical to ensure Defence priorities are developed on the basis of the levels of conflict that are credible now and for the foreseeable future, and the time available to develop military capability to respond.
+
+### Force design
+
+7.9 The key focus of the proposed Defence planning framework is the process to translate strategic policy into a proposed future force structure that can be realised within the available resources and timeframes.
+
+7.10 Defence’s force design processes must be reformed to more effectively operate as the design driver of the ADF, and ensure single-service priorities support integrated capability effects. Defence’s force design must also address the current bias towards platforms. A platform that cannot be crewed, or does not have weapons to fire at a range to achieve the desired operational or strategic effect, will not serve us well in the current strategic environment.
+
+7.11 The adoption of this approach will necessarily lead to a very different force structure and posture to what the ADF has today. More attention and resources must be devoted to crucial future-focused joint capabilities such as information warfare, cyber capabilities, electronic warfare, and guided weapons and explosive ordnance. Force design must also embrace changes to mindsets and technologies to deliver competitive advantage.
+
+### Recommendation:
+
+• Force structure planning should be based on the Review.
+
+## Force Structure and Capability
+
+8.1 To transition to National Defence, the ADF needs a much more focused force structure based on net assessment, a strategy of denial, the risks inherent in the different levels of conflict, and realistic scenarios agreed to by the Government.
+
+8.2 The ADF’s current force structure is not fit for purpose for our current strategic circumstances.
+
+### From a Balanced to a Focused Force
+
+8.3 The current strategic circumstances, the net assessment approach to Defence planning and our finite human and financial resource base, dictate that the current balanced force structure and design must now change urgently.
+
+### Balanced Force
+
+A balanced force is designed to be able to respond to a range of contingences when the strategic situation remains uncertain. This force design required that the ADF respond to low-level threats related to continental defence, regional operations in support of Australian interests and global support to our Alliance partner, the United States.
+
+In this approach, while the balance of the force was primarily designed for the Defence of Australia, the broader purpose of the ADF was for it to be structured to respond to a range of contingencies.
+
+This conceptual approach to force structure planning, which has led to like-for-like replacements in military platforms in the ADF, is deeply ingrained in Defence’s culture.
+
+8.4 The force structure of the ADF must now be framed around the concept of a focused force, based on the assumptions in the Review, and the critical capabilities required as a consequence.
+
+### Focused Force
+
+This conceptual approach to force structure planning will lead to a force designed to address the nation’s most significant military risks.
+
+The capabilities required to address identified threats will also provide latent capability to deal with lower-level contingencies and crises.
+
+### From a Joint to an Integrated Force
+
+8.5 Maximising the deterrent effect and response options from ADF capabilities is critical. To achieve the maximum benefits from our capability investments, the ADF force structure must become not only focused, but also integrated.
+
+8.6 The current joint force, namely the combined effect of Navy, Army and Air Force working together, does not appropriately reflect the growth of domains. The evolution to five domains – maritime, land, air, space and cyber – demands a new approach.
+
+8.7 The ADF must rapidly evolve into a genuine Integrated Force, which harnesses effects across all of the five domains. The Integrated Force must be optimised for National Defence.
+
+8.8 In effecting our strategy of denial in Australia’s northern approaches, the ADF’s operational success will depend on the ability of the Integrated Force to apply the following critical capabilities:
+
+undersea warfare capabilities (crewed and uncrewed) optimised for persistent, long-range sub-surface intelligence, surveillance and reconnaissance and strike;
+
+an enhanced, integrated targeting capability;
+
+an enhanced long-range strike capability in all domains;
+
+a fully enabled, integrated amphibious-capable combined-arms land system;
+
+enhanced, all-domain, maritime capabilities for sea denial operations and localised sea control;
+
+a networked expeditionary air operations capability;
+
+an enhanced, all-domain, integrated air and missile defence capability;
+
+a joint, expeditionary theatre logistics system with strategic depth and mobility;
+
+a theatre command and control framework that enables an enhanced Integrated Force; and
+
+a developed network of northern bases to provide a platform for logistics support, denial and deterrence.
+
+### Force structure design priorities
+
+8.9 Defence infrastructure, the five domains, and enabling logistics and other systems – the Integrated Force – must be focused on achieving the critical capabilities.
+
+8.10 Given the strategic circumstances and limited resource base we face, investing in the critical capabilities will require divesting, delaying, or re-scoping other activities that do not advance the attributes of the Integrated Force.
+
+8.11 Changes in the Integrated Investment Program (IIP) to realise the Integrated Force will require immediate decisions to realise time, resource (both workforce and financial) and cultural change.
+
+8.12 This will include rescheduling delivery, reducing in scale, or divesting programs and previously envisaged core projects not suited for the strategic circumstances outlined in the Review.
+
+8.13 During the conduct of the Review, Defence conducted a preliminary reprioritisation of the IIP.
+
+8.14 This identified a range of acquisitions determined to be of lower priority in our strategic circumstances that could be considered for delay or cancellation.
+
+8.15 Defence must further reprioritise the IIP in line with the force structure priorities, force design guidance and the strategic assessments in the Review.
+
+### Recommendations:
+
+• Projects should be immediately delayed or cancelled to enable funds and workforce in the forward estimates and planning decade to be reallocated to higher priority capabilities.
+
+• The Integrated Investment Program (IIP) should be rebuilt in line with the force structure design priorities outlined in the Review.
+
+### Defence infrastructure design priorities
+
+8.16 Defence infrastructure must provide a hardened and dispersed platform to support the deployment of the ADF and the defence of Australian territory and our interests.
+
+8.17 It must be able to provide a network of fully enabled northern operational bases, a series of bases in depth to support the Defence enterprise and identification of relevant civil infrastructure for Defence needs.
+
+### Maritime domain force structure design priorities
+
+8.18 Australia’s Navy must be optimised for operating in Australia’s immediate region and for the security of our sea lines of communication and maritime trade.
+
+### Maritime domain immediate investment priorities
+
+8.19 Our strategic circumstances now require that our naval capability contributes effectively to the ADF’s ability to shape our strategic environment, deter potential adversaries and deny their ability to achieve objectives contrary to our national interests.
+
+8.20 The acquisition of conventionally-armed, nuclear-powered submarines will transform Navy’s capability. Nuclear-powered submarines are key assets both in effecting a strategy of denial and in the provision of anti-submarine warfare and long-range strike options.
+
+8.21 An enhanced lethality surface combatant fleet, that complements a conventionally-armed, nuclear-powered submarine fleet, is now essential given our changed strategic circumstances.
+
+8.22 As a maritime nation dependent on our sea lines of communication, it is essential that the shape, size and scope of the Navy’s surface combatant fleet is appropriate for the levels of risk we now face.
+
+8.23 Such a fleet should consist of Tier 1 and Tier 2 surface combatants in order to provide for increased strike, air defence, presence operations and anti-submarine warfare.
+
+8.24 Enhancing Navy’s capability in long-range strike (maritime and land), air defence and anti-submarine warfare requires the acquisition of a contemporary optimal mix of Tier 1 and Tier 2 surface combatants, consistent with a strategy of a larger number of smaller surface vessels.
+
+8.25 This would significantly increase Navy’s capability through a greater number of lethal vessels with enhanced long-range strike (maritime and land) and air defence capabilities, together with the ability to provide presence in our northern maritime approaches.
+
+8.26 We have recommended that the Government directs an independent analysis of Navy’s surface combatant fleet capability to ensure the fleet’s size, structure and composition complement the capabilities provided by the forthcoming conventionally-armed, nuclear-powered submarines. The analysis must assess the capability requirements to meet our current strategic circumstances as outlined in this Review. This should include assessment of cost, schedule, risk, and the continuous shipbuilding potential of each option. This examination should be completed by the end of Q3 2023.
+
+8.27 Navy faces the most significant workforce challenges of the three services. Assuring an adequate workforce to sustainably meet enterprise priorities and transformation, government-directed tasking, readiness for future contingencies, and transitioning new and technologically advanced capabilities into service is Navy’s biggest challenge.
+
+### Recommendations:
+
+• An independent analysis of Navy’s surface combatant fleet capability should be conducted in Q3 2023 to ensure its size, structure and composition complement the capabilities provided by the forthcoming conventionally-armed, nuclear-powered submarines. The analysis must assess: the capability requirements to meet our current strategic circumstances as outlined in the Review, as well as the cost, schedule, risks and the continuous shipbuilding potential of each option.
+
+• The acquisition of a conventionally-armed, nuclear-powered submarine capability in the shortest possible timeframe should be prioritised as part of AUKUS Pillar I.
+
+### Land domain force structure design priorities
+
+8.28 Australia’s Army must be transformed and optimised for littoral manoeuvre operations by sea, land and air from Australia, with enhanced long-range fires.
+
+### 8.29 As a priority it must be able to provide:
+
+a littoral manoeuvre capability by sea, land and air;
+
+long-range fires, including land-based maritime strike;
+
+air and missile defence; and
+
+close-combat capabilities, including a single armoured combined-arms brigade, able to meet the most demanding land challenges in our region.
+
+8.30 Enhanced domestic security and response Army Reserve brigades will be required to provide area security to the northern base network and other critical infrastructure, as well as providing an expansion base and follow-on forces.
+
+8.31 The land domain force structure design priorities must result in significant changes to Army force posture and structure. Army’s combat brigades must be re-roled and select capabilities postured in northern Australia.
+
+### Land domain immediate investment priorities
+
+8.32 Defence must rapidly accelerate and expand Army’s littoral manoeuvre vessels (medium and heavy landing craft) and long-range fires (land-based maritime strike) programs. This will require Army to re-posture key capabilities.
+
+8.33 It is essential to immediately accelerate the acquisition of LAND 8710 Phases 1-2 – Army Littoral Manoeuvre Vessels (Landing Craft Medium and Heavy) and expand the scope of this capability. Without this, only limited numbers of major land capabilities can be projected offshore.
+
+8.34 We strongly support the decision to acquire the High Mobility Artillery Rocket System (HIMARS) and its associated missiles. We further recommend the acquisition of additional HIMARS and strongly support the ongoing co-development and rapid acquisition of the Precision Strike Missile in all its forms.
+
+8.35 Meeting the most demanding land combat tasks will require new infantry fighting vehicles. Our assessment is that the LAND 400 Phase 3 – Land Combat Vehicle System (Infantry Fighting Vehicle) acquisition must be reduced from 450 to 129 vehicles. This will provide one mechanised battalion in particular for littoral manoeuvre, including training, repair and attrition stock.
+
+8.36 We expressly advise that only by concurrently delivering these capabilities – littoral manoeuvre vessels, long-range fires (land-based maritime strike) and infantry fighting vehicles – will Army be able to achieve the strategic and operational effect required of the ADF for National Defence and a strategy of denial.
+
+8.37 Army must cancel LAND 8116 Phase 2 – Protected Mobile Fires (the second regiment of self-propelled howitzers). These systems do not provide the required range or lethality. The cancellation of this program, in addition to savings from the reduction of LAND 400 Phase 3, will help enable the acceleration and the acquisition of additional HIMARS and a land-based maritime strike capability.
+
+8.38 The acquisition of the UH-60M Black Hawk and AH-64E Apache provides the opportunity to posture the majority of Defence’s battlefield aviation in Townsville to enable a robust air-mobile capability. This includes basing the AH-64E Apache capability in Townsville.
+
+8.39 The battlefield aviation capability will be supported by two industry nodes centred on: Townsville (Boeing Australia servicing the AH-64E Apache and CH-47 Chinook) and Sydney/Nowra/Southeast Queensland (Sikorsky Australia
+
+servicing UH-60M Black Hawk and Navy’s MH-60R Sea Hawk). This has been a recommendation of several reviews into the management and employment of Defence’s battlefield aviation capability. We strongly support this approach.
+
+### Recommendations:
+
+• Army should be structured and postured in accordance with the land domain force structure design priorities outlined in the Review.
+
+• LAND 8710 Phases 1-2 – Army Littoral Manoeuvre Vessels (Landing Craft Medium and Heavy) should be accelerated and expanded.
+
+• LAND 8113 Phases 2-4 – Long-Range Fires (HIMARS) and LAND 4100 Phase 2 – Land-Based Maritime Strike should be accelerated and expanded.
+
+• LAND 400 Phase 3 – Land Combat Vehicle System (Infantry Fighting Vehicle) acquisition should be reduced to 129 vehicles to provide one mechanised battalion.
+
+• LAND 8116 Phase 2 – Protected Mobile Fires (second regiment of Army self-propelled howitzers) should be immediately cancelled.
+
+• The delivery of landing craft, long-range fires, and infantry fighting vehicles should be synchronised.
+
+### Air domain force structure design priorities
+
+8.40 Australia’s Air Force must be optimised for all aspects of air warfare. The support of maritime, littoral and sustainment operations from Australia’s northern base network will be a high priority.
+
+### 8.41 Air Force must be able to maintain:
+
+a network of northern air bases with appropriate hardening and dispersal;
+
+crewed and autonomous systems capable of air defence;
+
+strike capability (maritime and land);
+
+intelligence, surveillance and reconnaissance;
+
+anti-submarine warfare;
+
+command and control for integrated air and missile defence;
+
+air-to-air refuelling; and
+
+heavy and medium air mobility.
+
+8.42 Air Force must increase the numbers of critical positions and implement a scalable aircrew training system to meet aircrew requirements across the force, commensurate with operational requirements.
+
+8.43 Air combat crewing requires a new approach which is consistent with our strategic circumstances. Air Force must develop a plan to increase aircrew numbers to ensure that air combat and P-8 maritime squadrons have the crewing to operate all available aircraft at high tempo. This will substantially increase preparedness in the mid to long-term.
+
+### Air domain immediate investment priorities
+
+8.44 F-35A Joint Strike Fighter and F/A-18F Super Hornet aircraft must be able to operate the Long-Range Anti-Ship Missile. The Joint Strike Missile (JSM) should also be integrated onto the F-35A. To enable the F-35A fleet to operate the JSM, the aircraft will need to be upgraded to Block 4 configuration.
+
+8.45 MQ-28A Ghost Bat is a sovereign autonomous air vehicle designed to operate as part of an integrated system of crewed and uncrewed aircraft and space-based capabilities. MQ-28A is intended to be an attritable platform, which costs less than a crewed platform, and can be replaced rapidly. This program should be a priority for collaborative development with the United States.
+
+8.46 The Review has undertaken detailed discussions in Australia and the United States in relation to the B-21 Raider as a potential capability option for Australia. In light of our strategic circumstances and the approach to Defence strategy and capability development outlined in this Review, we do not consider the B-21 to be a suitable option for consideration for acquisition.
+
+### Recommendations:
+
+• Long-Range Anti-Ship Missile should be integrated onto the F-35A and the F/A-18F platforms. Joint Strike Missile should also be integrated onto the F-35A.
+
+• Options should be developed for collaboration and technology sharing with the United States in the development of MQ-28A Ghost Bat.
+
+### Space
+
+8.47 Defence’s space capability must be optimised for capability assurance and communications provision.
+
+8.48 Defence must establish frameworks within a whole-of-government and whole-of-nation approach to guide the development of the space domain, including the policy authorities required.
+
+8.49 As Australia’s civil and military space capabilities progress, Defence must consider the level of sovereign capability needs. This must be offset by the cost requirements of such capabilities against opportunities to collaborate with the United States and other partners.
+
+8.50 Commercial capabilities will also play an increasingly important role in complementing and augmenting Defence’s Space Command structure.
+
+8.51 Space Command needs to be re-postured inside Defence to maximise its effectiveness. It requires a centralised space domain capability development and management function, and a method for building and sustaining a trained Defence space workforce, including a defined career path for space professionals.
+
+8.52 At this stage there is no need to generate a separate Space Force. However, it is essential that Space Command becomes a command within the Joint Capabilities Group and the Chief of Joint Capabilities be given a dedicated funding line, with appropriate authorities to manage it.
+
+8.53 Space Command has the requisite funding for large projects allocated in the IIP but it is not phased correctly. Space Command also requires additional investment for smaller, rapid acquisition projects. Given the speed of technological developments in space, the current capability life-cycle process is too slow. Defence must adopt an approach that emphasises speed of capability acquisition including off-the-shelf (commercial and military) capabilities.
+
+### Recommendations:
+
+• Space Command should be moved into Joint Capabilities Group from 1 July 2023.
+
+• A centralised space domain capability development and management function should be established.
+
+• A method should be established for building and sustaining a trained Defence space workforce, including a defined career path for space professionals.
+
+## Command, control, communications, computers and architectures
+
+8.54 Defence’s command, control, communications, computers (C4) networks and architectures must collect and integrate a diverse range of information to enhance situational awareness and facilitate resilient sensor-to-effector networks. Networks and architectures need to be resilient in the face of persistent penetration and network attack.
+
+### C4 and architectures
+
+C4 consists of the information systems, networks, computers and other tools required to support command across the spectrum of Defence operations. C4 is the critical backbone for providing connectivity of trusted and relevant information and data exchange.
+
+Architectures provide the technical guidelines and standards on which Defence’s C4 networks are built.
+
+8.55 Defence must adopt an open architecture approach in both hardware and software. In doing so, Defence will reduce integration complexity and costs, and break down barriers for Australian industry participation.
+
+### Recommendation:
+
+• An open architecture approach should be adopted by Defence in both hardware and software.
+
+### Cyber domain and targeting
+
+8.56 Australia’s cyber and information operations capabilities must be scaled up and optimised.
+
+8.57 Under project REDSPICE, the Australian Signals Directorate is significantly expanding its signals intelligence and cyber capabilities and capacity.
+
+8.58 Defence must enhance its cyber domain capabilities to deliver the required responsiveness and breadth of capability to support ADF operations. This must focus on: integrating the defence and management of Defence’s C4 networks and architectures; delivering a coherent and, where possible, centralised cyber domain capability development and management function; and building and sustaining a trained Defence cyber workforce.
+
+8.59 To meet the demands of the deteriorating security environment, Defence must invest in the targeting systems and processes required to support the use of advanced and long-range weapons, undersea warfare, and integrated air and missile defence. Existing plans should be accelerated including development of key supporting systems and processing, exploitation and dissemination of intelligence.
+
+### Recommendations:
+
+• A comprehensive framework should be developed for managing operations in the cyber domain that is consistent with the other domains.
+
+• Defence’s cyber domain capabilities should be strengthened to deliver the required breadth of capability with appropriate responsiveness to support ADF operations.
+
+### Theatre logistics
+
+8.60 The Defence logistics and health networks must deliver persistent support and sustainment for operations. An optimal Defence logistics network must be resilient through disaggregated and dispersed mutually supporting nodes that enhance redundancy and survivability.
+
+8.61 Logistics and health networks must be integrated into national and global networks to deliver the full range of logistics and health effects required by Defence. Ongoing engagement with industry and partners is required to ensure additional maintenance, manufacturing, storage and load capacity can be drawn upon to meet increases in demand.
+
+8.62 Theatre-level logistics must enable capability generation and support from Australia’s southern regions to the network of northern bases, with sufficient capacity to service force-flow, as well as providing requisite storage and distribution means. This requires a robust national road, rail, maritime and air distribution system.
+
+### Recommendation:
+
+• Commander Joint Logistics and Commander Joint Health should be adequately resourced to deliver Defence logistics and health networks that are able to deliver persistent support and sustainment for operations.
+
+Capability timeframes
+
+### 8.63 To provide focus and coherence for force structure priorities, we recommend changes to force structure occur over three periods:
+
+2023-2025 – Enhanced Force-In-Being (for those matters which must be addressed urgently and as an immediate priority);
+
+2026-2030 – accelerated acquisition to the Objective Integrated Force; and
+
+2031 and beyond – delivery of the Future Integrated Force.
+
+### Enhanced Force-In-Being
+
+Force-In-Being refers to the ADF that exists today. The Enhanced Force-In-Being refers to the extant force with enhancements that can be achieved in the period 2023-2025 based on the recommendations in the Review.
+
+### Objective Integrated Force
+
+Objective Integrated Force refers to the force that is proposed to be delivered through the accelerated acquisition and delivery of critical capabilities in the period 2026-2030 based on the recommendations in the Review.
+
+### Future Integrated Force
+
+Future Integrated Force refers to the force that is under design consideration. Many capabilities and projects may not yet exist in the IIP. The Future Integrated Force is the aim point for capability managers across the five domains.
+
+8.64 To achieve the Enhanced Force-In-Being, immediate capability improvements must be made to existing capabilities and platforms. These include, but are not limited to, the fitting of longer-range and more lethal weapons onto existing platforms, the hardening of command and control networks and bases and, where possible, the early delivery of relevant priority in-train capability projects.
+
+8.65 The Objective Integrated Force is to be realised through the acceleration or addition of new capabilities in line with the force structure priorities and guidance outlined in the Review.
+
+8.66 The Future Integrated Force is the long-term design of the Integrated Force from 2031 and beyond. It will provide an objective aim point for all domains and enablers to achieve an Integrated Force that is fit for the strategic circumstances and in line with the Defence planning framework.
+
+### Nuclear-Powered Submarine Pathway
+
+8.67 The Review strongly supports the acquisition of conventionally-armed, nuclear-powered submarines. This requires a whole-of-nation commitment. To support this effort the Review strongly supports the establishment of:
+
+the Australian Submarine Agency as a non-corporate Commonwealth entity;
+
+the Australian Defence Nuclear Regulator as an element within the Defence portfolio; and
+
+an east coast nuclear-powered submarine facility.
+
+### National Naval Shipbuilding Enterprise
+
+8.68 Our Review has confirmed the importance of naval shipbuilding as a sovereign industrial capability. We recommend that the Government reaffirm its commitment to continuous naval shipbuilding.
+
+8.69 Defence must review and update the National Naval Shipbuilding Enterprise Strategy and supporting Naval Shipbuilding and Sustainment Plan. These must include all the necessary upgrades to fleet units, maintenance and build requirements. The synchronisation of these key activities will be critical to enable capability delivery. This plan must balance the need for capability aimed at our strategic circumstances with the maintenance of the National Naval Shipbuilding Enterprise.
+
+### Recommendation:
+
+• The Government should confirm its commitment to continuous naval shipbuilding through an updated National Naval Shipbuilding Enterprise Strategy and updated supporting Naval Shipbuilding and Sustainment Plan.
+
+### Guided weapons and explosive ordnance
+
+8.70 Long-range strike and other guided weapons are fundamental to the ADF’s ability to hold an adversary at risk in Australia’s northern approaches. To do this, the ADF must hold sufficient stocks of guided weapons and explosive ordnance (GWEO) and have the ability to manufacture certain lines.
+
+8.71 The realisation of the GWEO Enterprise is central to achieving this objective.
+
+8.72 The GWEO Enterprise lacks available financial resources over this decade and lacks the required workforce. It is yet to produce a strategy. While the establishment of the GWEO Enterprise is appropriate, the manner in which it was established has inhibited its ability to achieve the stated goals of Government.
+
+8.73 The lack of clarity around roles and responsibilities, the lack of a senior officer with a singular focus on the GWEO Enterprise and the lack of risk acceptance has resulted in little material gain two years after its establishment.
+
+8.74 The GWEO Enterprise requires an authority whose singular role is to direct strategy, capability development, acquisition and domestic production across all of Defence’s GWEO needs. This requires a model that mirrors the Nuclear-Powered Submarine Taskforce. It is our strong recommendation that a senior officer or official be appointed whose sole responsibility is to lead the GWEO Enterprise with an appropriate underpinning organisational structure.
+
+8.75 The immediate focus must be on consolidating ADF GWEO needs, the establishment of a domestic manufacturing capability and the acceleration of foreign military and commercial sales.
+
+### Recommendation:
+
+• A senior officer or official with the sole responsibility for leading the Guided Weapons and Explosive Ordnance (GWEO) Enterprise should be appointed, with an appropriate underpinning organisational structure.
+
+### Integrated air and missile defence
+
+8.76 Defence must deliver a layered integrated air and missile defence (IAMD) operational capability urgently. This must comprise a suite of appropriate command and control systems, sensors, air defence aircraft and surface (land and maritime) based missile defences.
+
+8.77 A short-range IAMD capability exists through Navy’s Air Warfare Destroyers and Army’s enhanced National Advanced Surface-to-Air Missile System.
+
+8.78 Defence’s medium-range advanced and high-speed missile defence capabilities should be accelerated.
+
+8.79 While we are supportive of Defence’s approach to developing an ADF common IAMD capability, we are not supportive of the relative priority that the program was given. The program is not structured to deliver a minimum viable capability in the shortest period of time but is pursuing a long-term near perfect solution at an unaffordable cost.
+
+8.80 In-service, off-the-shelf options must be explored.
+
+8.81 The Chief of Air Force is the appropriate senior officer lead for this capability and has the appropriate underpinning organisational structure for its delivery and ongoing sustainment. Defence must reprioritise the delivery of a layered IAMD capability, allocating sufficient resources to the Chief of Air Force to deliver the initial capability in a timely way and subsequently further develop the mature capability.
+
+## Technology and Asymmetric Advantage
+
+### Asymmetric advantage
+
+9.1 Technology has a significant impact on the character of warfare and deterrence, and will shape the changing balance of power.
+
+9.2 Since the 1960s, Defence’s strategic approach has included a focus on maintaining a regional technological capability edge. The key enabler of this capability edge has been Australia’s Alliance relationship with the United States. This ensured that, while small in size, the ADF was highly capable and could outmatch potential regional opponents in critical areas of technology, planning and operations. This helped to provide deterrence in low-level contingencies through military technology and capability overmatch.
+
+9.3 However, military modernisation in the region, and the implications of strategic competition, mean it is no longer feasible to maintain a broad-based regional capability edge. To respond, Defence needs to focus on asymmetric advantages and ensure that we maintain parity or a qualitative advantage in critical military technology areas.
+
+### Asymmetric advantage
+
+Asymmetric warfare refers to military actions that pit strength against weakness, at times in a non-traditional and unconventional manner, against which an adversary may have no effective response.
+
+In relation to cost imposition or denial, asymmetric refers to the application of dissimilar capabilities, tactics or strategies to circumvent an opponent’s strengths, causing them to suffer disproportional cost in time, space or material.
+
+### AUKUS Pillar II Advanced Capabilities
+
+9.4 AUKUS Pillar II Advanced Capabilities is prioritising the trilateral delivery of enhanced Defence capabilities, such as undersea warfare and hypersonics.
+
+9.5 The success of AUKUS is essential for Australia in acquiring asymmetric capability. AUKUS Pillar II Advanced Capabilities will contribute to strengthening the AUKUS partners’ industrial bases, eliminating barriers to information sharing, and technological cooperation. It will develop and deliver advanced capabilities in areas such as artificial intelligence, hypersonics and maritime domain awareness.
+
+9.6 The ambition of the AUKUS partners is to support technological transfers as well as break down barriers for intellectual property transfer, domestic manufacturing, and domestic maintenance of key weapons, technology and capabilities. This requires dedicated senior-level focus.
+
+### Defence science and technology
+
+9.7 The strategic demand for Defence’s capability innovation systems has never been higher. Defence must have a national science and technology system that enables the development of disruptive military capabilities, including harnessing advanced and emerging technologies to provide asymmetric advantage for the ADF. Defence’s science and technology system must be optimised to deliver capability by focusing on Defence’s strategic priorities and developing scale through leveraging national and international partners.
+
+9.8 Relevant programs need to accelerate technology research and innovation relating to capability. They must also enable appropriate signalling of demand to research and industry sectors and provide clear methods of communication and linkages to national research bodies (including the university sector and various innovation bodies).
+
+### Advanced Strategic Capabilities Accelerator
+
+9.9 The Government’s commitment to establish an Advanced Strategic Capabilities Accelerator (ASCA) provides the missing link between Defence and innovative Australian companies beyond the Defence primes. It is our view that ASCA must be an unencumbered entity outside of Defence that receives capability priorities from Force Design Division and works with industry to develop innovative asymmetric capability solutions.
+
+### Recommendations:
+
+• Defence Science and Technology Group funding and resources should be aligned with the priorities identified in the Review.
+
+• The development of selected critical technology areas as part of AUKUS Pillar II Advanced Capabilities should be prioritised in the shortest possible time.
+
+• A senior official or officer with sole responsibility and a singular focus on AUKUS Pillar II Advanced Capabilities implementation should be appointed to enable expedited focus on capability outcomes.
+
+## 10 Force Posture and Accelerated Preparedness
+
+### Force posture – Australia’s north
+
+10.1 We must posture for the protection of Australia and for integrated defence and deterrence effects in our immediate region.
+
+10.2 The key line of forward deployment for the ADF stretches across Australia’s northern maritime approaches. Integral to this sovereign Australian posture is the network of bases, ports and barracks stretching in Australian territory from Cocos (Keeling) Islands in the northwest, through RAAF bases Learmonth, Curtin, Darwin, Tindal, Scherger and Townsville.
+
+### Depth in force posture
+
+10.3 As a large island country and continent, we are blessed with strategic depth. In the age of long-range precision strike, which has brought Australia within range of regional capabilities, the need for depth in force posture is essential.
+
+10.4 A network of well-established bases and facilities in the south-east of Australia, as well as our Indian Ocean naval base at HMAS Stirling in Perth and RAAF Pearce in the southwest, are therefore critical. Bases from Adelaide to Brisbane provide a level of depth to ADF basing and the national support base.
+
+10.5 Defence must have robust internal lines of communication to take advantage of Australia’s natural geographic advantages.
+
+10.6 Recent severe floods have highlighted the importance of well-maintained resilient civil infrastructure, including ports and roads that support this network, and the need for an ability to restore such infrastructure quickly when lost or interrupted during severe weather events.
+
+### Basing
+
+10.7 Government adopted a series of recommendations in the 2012 Force Posture Review and 2013 Defence White Paper and allocated resources to improve the network of bases, ports and barracks.
+
+10.8 Most of those recommendations relating to the northern bases have not been implemented.
+
+10.9 Irrespective of this history, it is now imperative that our network of northern bases is urgently and comprehensively remediated.
+
+10.10 The priority for this network is the series of critical air bases. This series of northern airbases must now be viewed as a holistic capability system and managed as such by the Chief of Air Force.
+
+### 10.11 There must be immediate and comprehensive work on these air bases undertaken in the following areas:
+
+hardening and dispersal;
+
+runway and apron capacity;
+
+fuel storage and supply;
+
+aviation fuel supply and storage;
+
+GWEO storage;
+
+connectivity required to enable essential mission planning activities;
+
+accommodation and life support; and
+
+security.
+
+10.12 To achieve dispersal, redundancy and resilience in our defence posture there are clear opportunities in leveraging the capabilities offered by civil minerals and petroleum resources infrastructure, including those being considered for decommission by the parent company/organisation.
+
+### Recommendations:
+
+• Upgrades and development of our northern network of bases, ports and barracks should commence immediately.
+
+• Options should be developed to leverage the capabilities offered by local and state governments as well as civil minerals and petroleum resources industry infrastructure in northern and central Australia.
+
+### Fuel
+
+10.13 Fuel distribution in the north and northwest must be more effective and less vulnerable by introducing a more productive and predictable supply approach. Deep Defence engagement with the fuel industry is vital in our strategic circumstances.
+
+10.14 Defence must be cognisant of the capabilities of the fuel industry and what it can deliver in a range of circumstances. The fuel industry must understand Defence requirements in a range of contingencies concurrent with civil demands, including:
+
+the advantages and vulnerabilities of various international sources of supply and shipping routes;
+
+domestic storage and distribution options on sea and land; and
+
+Defence’s capability to address vulnerabilities.
+
+10.15 A whole-of-government and industry Fuel Council should progress these critical issues.
+
+10.16 Addressing vulnerabilities, particularly where there are single points of failure and inadequate capacity in key domestic distribution routes, is essential. A variety of alternative supply and storage back-up options needs to be developed to provide a more robust fuel posture.
+
+### Recommendation:
+
+• A whole-of-government Fuel Council should be established as soon as possible with representatives from relevant departments and industry to deliver resilient national fuel supply, distribution and storage.
+
+### Preparing for nuclear-powered submarines
+
+10.17 For Australia to become ‘sovereign ready’ to operate nuclear-powered submarines, we need to develop the requisite infrastructure for conventionally-armed, nuclear-powered submarine construction and sustainment.
+
+10.18 This will involve a staged approach to building Australia’s capability and capacity to sustain nuclear-powered submarines. The first step involves an increased frequency of visits of United Kingdom and United States submarines to HMAS Stirling, followed by longer rotations of Royal Navy and United States Navy submarines at HMAS Stirling, with Australians embedded in their crews.
+
+10.19 These rotations will subsequently involve longer periods of maintenance in Western Australia. This will require greater participation of Australians in most aspects of operating and maintaining nuclear-powered submarines.
+
+10.20 To support this initiative, there will be a requirement to upgrade existing facilities and construct new facilities at HMAS Stirling. Repurposing or adaptive reuse of existing facilities at HMAS Stirling should be sufficient for many initial requirements, with some new works required for specific nuclear-powered submarine support functions.
+
+10.21 To deliver these facilities in the timeframes required, and noting local construction industry constraints, there will need to be clear prioritisation of these works with pre-existing planned works. Defence will need to work closely with the Western Australian Government, relevant local authorities and communities to ensure this initiative proceeds in a manner that takes into account local impacts and requirements.
+
+### Shipyard reform
+
+10.22 Australia must have the industrial capability and capacity to maintain, sustain and upgrade our naval vessels and capabilities, including nuclear-powered submarines. Creating and sustaining this industrial capability, including the underpinning workforce, is a critical component of self-reliance in National Defence. In building naval vessels in Australia, we will need to develop the critical understanding of the platforms required to support sustainment, maintenance and upgrade activities.
+
+10.23 To meet the requirements for our maritime and littoral fleets, we must increase the size of our supporting industrial base. Most importantly, we must grow the size of our naval shipbuilding workforce.
+
+10.24 This national endeavour requires active Government leadership. There are currently two major shipbuilding hubs in Australia (Osborne and Henderson). There is a need for active Government engagement across both naval shipbuilding sites. This is essential to ensure the successful delivery of both existing and forthcoming surface ship projects and the nuclear-powered submarine program.
+
+10.25 At Osborne shipyard, substantial investment is required to grow the necessary workforce. This is in addition to the infrastructure needed for any build component of a nuclear-powered submarine, which must be started immediately.
+
+10.26 Henderson shipyard, near HMAS Stirling, faces some significant challenges to give it the requisite critical mass for shipbuilding. Under current plans there is simply not enough work to sustain the number of shipbuilders located at Henderson.
+
+10.27 Henderson currently plays a crucial role with regard to naval sustainment, maintenance and upgrade of our naval vessels, as well as the construction of smaller surface vessels. The completion of a Henderson-based large vessel dry-dock is a critical enabler for the construction and sustainment of our naval vessels. Henderson’s critical role in Australia’s naval shipbuilding and maintenance needs to continue, but Government intervention is required to consolidate activities.
+
+10.28 We strongly recommend active and urgent Commonwealth and state government intervention in the Henderson shipyard to remedy significant challenges around the workforce, the layout and development of the shipyard, and the relationship between infrastructure, shipbuilders, contractors and workforce providers.
+
+### East coast nuclear-powered submarine facility
+
+10.29 The current strategic circumstances dictate a need to establish an east coast nuclear-powered submarine facility. This facility would provide redundancy and dispersal as well as increasing speed of transit to key east coast operational areas. Such a facility would also greatly enhance the operational capabilities of the existing Collins class fleet of submarines on the eastern seaboard of Australia and the Pacific.
+
+### Recommendations:
+
+• Infrastructure development should commence immediately at the Osborne shipyard to enable the Nuclear-Powered Submarine Pathway.
+
+• Infrastructure development should commence immediately at HMAS Stirling to enable the support and maintenance of conventionally-armed, nuclear-powered submarine operations.
+
+• Industry consolidation options for the Henderson shipyard should be examined as a matter of urgency.
+
+• An east coast facility should be established for Australia’s future submarine capability.
+
+### Exercises and operations
+
+10.30 Major ADF exercise design must be informed by and reflect Australia’s strategic, operational and preparedness requirements. Major exercises must also be used to build preparedness including minimum viable improvements in key areas.
+
+10.31 We believe that the ADF needs to conduct many more of these types of activities as they have both a positive preparedness and deterrent effect.
+
+### Accelerated Preparedness and logistics
+
+10.32 Through the course of the Review, the need for better preparedness has become apparent.
+
+10.33 Increased levels of preparedness will require additional investment from the Government and much more relevant priority setting by Defence. The most tangible enhancement to our warfighting capability and to self-reliance in National Defence will come from undertaking Accelerated Preparedness.
+
+10.34 Current levels of ADF preparedness have been based on a 10-year warning time for major conflict. The end of a 10-year strategic warning time requires Defence to increase preparedness.
+
+10.35 Accelerated Preparedness should occur in three stages in line with the priority periods outlined in the Review.
+
+10.36 Accelerated Preparedness will come at a cost. Elements of sustainment and operating budgets must be reprioritised as Defence focuses more acutely on the strategic threats.
+
+10.37 To deliver the required capability, there is a clear need to have the correct infrastructure and logistics support in the right locations to project and sustain power.
+
+10.38 The reshaping and growth of the national and Defence logistic and health workforces is a key priority to develop self-reliance, and sovereign supply chains, and to improve national resilience.
+
+### 10.39 In order to support Accelerated Preparedness in GWEO, Defence must:
+
+establish the required levels of GWEO stocks;
+
+rapidly acquire additional GWEO stocks from existing suppliers and contractors;
+
+explore options of other sources of supply or contracting for priority guided weapons;
+
+rapidly establish a domestic GWEO manufacturing capability; and
+
+increase our GWEO production capacity to support our ongoing needs and increase the total production capacity of our partners.
+
+### Recommendations:
+
+• Options for the increase of guided weapons and explosive ordnance stocks, including the rapid establishment of domestic manufacturing, should be provided to the Government by Q2 2024.
+
+• A national logistics support concept that considers strategic and industrial policy needs, and civilian, local and state government and military logistics capabilities, should be developed by 2025.
+
+• A National Support Division should be established within Defence by 2024 to develop concepts and conduct engagement to harness the nation’s economic, industrial and societal strength.
+
+### Information and communications technology
+
+10.40 Information and communications technology (ICT) is critical to Defence and modern warfighting capability. It underpins preparedness and is critical to reliance measures.
+
+10.41 The major initial workforce limitation in this area is the limited number of senior staff, resulting in issues of scale and delivery needs. This is evidenced by project slippage and value loss to industry integrators.
+
+10.42 For one of the most complex ICT networks in Australia, Chief Information Officer Group (CIOG) has a smaller leadership team than Services Australia or the Australian Tax Office, which have much smaller ICT footprints and classified network architecture.
+
+10.43 CIOG has become too reliant on individual contractors and is already heavily outsourced. There are insufficient ADF and APS staff to manage these contractors and providers and this must be rebalanced.
+
+### Recommendations:
+
+• A dedicated senior official for Chief Information Officer Group (CIOG) capability management leadership and a dedicated senior official accountable for the secret network should be appointed, and the CIOG workforce should be rebalanced to a 60:40 APS-and ADF-to-contractor ratio.
+
+• Defence’s cyber security arrangements should be enhanced in close collaboration with the Australian Signals Directorate.
+
+• Defence’s cyber security operations capability in Chief Information Officer Group should be increased and legacy systems and platforms should be decommissioned.
+
+### Estate and infrastructure
+
+10.44 Although the Review has focused its work for force posture and preparedness on the immediacy of the most important strategic operational estate and infrastructure considerations in the north of Australia (which must commence immediately), the Government cannot afford to lose sight of the importance of foundational estate and infrastructure for Defence.
+
+10.45 We recommend that the Government would benefit from conducting an enterprise-wide audit to baseline estate and infrastructure. The audit should focus on workplace health and safety. The protective security of bases should also be included.
+
+10.46 Once this audit is complete, investment must be made in the estate. Priority investments should be focused on the northern Australian bases in the first instance.
+
+### Recommendation:
+
+• An enterprise-wide audit to baseline Defence estate and infrastructure, including protective security, should be completed no later than the end of 2023.
+
+### Security
+
+10.47 Protecting Australian-developed capabilities, and ensuring continued access to sensitive partner technologies, requires a robust security system. This includes physical security, ICT security and effective security vetting arrangements for personnel.
+
+### Recommendation:
+
+• The transfer of Defence’s Positive Vetting (PV) vetting authorities to the Top Secret Privileged Access (TSPA) Authority should be accelerated.
+
+## 11 Workforce
+
+11.1 Defence is facing significant workforce challenges. This was a recurring theme across all areas of the ADF, APS and defence industry in the Review. This is an acute issue for Defence and is reflective of broader national challenges.
+
+11.2 To secure the Defence APS and ADF workforce requires an innovative and bold approach to recruitment and retention. Without creative and flexible responses, the workforce situation in Defence will continue to deteriorate. Policy, process, risk appetite and approaches to recruitment must change to increase the speed of recruitment from application to enlistment and recruitment. Recruitment time must be achieved in days, not months.
+
+11.3 Defence must bring together the end-to-end people system for the ADF with the aim of increasing the effectiveness, efficiency, coordination and cohesiveness of the force. Personnel management of the ADF must be optimised to realise and sustain the long-term workforce requirements and to ensure that the Integrated Force can be realised. ADF personnel management should be centralised into a single integrated system incorporating the five domains, headed by a Chief of Personnel reporting directly to the Chief of the Defence Force.
+
+11.4 We believe there is a need for a comprehensive strategic review of the ADF Reserves and reserve service as part of National Defence and in light of the current strategic circumstances.
+
+11.5 The transition to the Total Workforce Model has significantly improved the utilisation of the reserve workforce. The ADF Reserves must not just complement the total Defence workforce but also provide the expansion base for the ADF in times of crisis. In order to achieve such an effect, Defence needs to investigate innovative ways to adapt the structure, shape and role of the Reserves, as well as reconsider past programs, specifically the Ready Reserve Scheme.
+
+### Recommendations:
+
+• Options should be developed to change Defence’s recruitment framework to improve the eligibility pool of potential applications and to align service recruitment requirements to military employment, especially in key technical and specialist trades (cyber, engineering, space, etc.).
+
+• Options should be developed to change the policy and risk settings to improve the achievement of recruitment targets by 2024.
+
+• ADF personnel management should be centralised into a single integrated system that is headed by a Chief of Personnel reporting directly to Chief of the Defence Force.
+
+• A comprehensive strategic review of the ADF Reserves, including consideration of the reintroduction of a Ready Reserve Scheme, should be conducted by 2025.
+
+## 12 Capability Acquisition, Risk and Accountability
+
+### Capability acquisition
+
+12.1 Timely and strategically relevant capability acquisition is critical in the coming period. Defence’s current approach to capability acquisition is not suitable given our strategic circumstances, and there is a clear need for a more efficient acquisition process. The increasing volume and complexity of capability projects is overwhelming Defence’s capability system, its limited workforce and its resource base.
+
+12.2 Although the cancellation or postponement of projects in the IIP is made extraordinarily difficult, little scrutiny is given to projects entering it. Defence has had an over-reliance on bottom-up proposals forming the bulk of new entries into the IIP, and a surprising lack of top-down direction or genuine joint-assessment of pre-Gate 0 proposals.
+
+12.3 Once projects have entered the IIP, capability managers have too much latitude to make design changes, tinker with capability outcomes, and indulge in the quest for perfectionism. These behaviours result in delay and strategically significant capability outcomes not being achieved in a timely manner, or at all.
+
+12.4 Clear direction from the Government and clear expectations placed on Defence for acquisition and delivery are critical to resolving this issue. To achieve this, in the first instance a threshold judgement must be made at the joint senior level, and agreed to by the Government, on what minimum viable capability is required and what is readily available.
+
+12.5 When capability is readily available there should be an emphasis on getting it into service without delay and achieving value for money. Defence must, where possible, acquire more platforms and capabilities via sole source or off-the-shelf procurement, and limit or eliminate design changes and modifications. When subsequent design changes or enhancements to capabilities are proposed, we recommend these be independently tested by sceptical and trusted advisers.
+
+12.6 In our new strategic circumstances the focus must be on the capabilities of the Enhanced Force-In-Being, with an emphasis on incremental upgrades through the life of a capability rather than pursuing longer-term solutions. This does not mean that Defence can lose sight of the future force’s requirements, but rather it
+
+must rebalance priorities for our current strategic circumstances.
+
+12.7 Strategically important and urgent projects, and low-complexity projects, must both be streamlined. Projects of high strategic importance and urgency must be given special consideration for accelerated acquisition and delivery. Low-complexity projects, such as like-for-like replacements and off-the-shelf acquisitions, are consuming too much time and resources. The default for these should be single source and other measures to streamline approvals and acquisition.
+
+12.8 Australian industry content and domestic production must be balanced against timely capability acquisition. Previous government direction to meet mandated Australian industry content skewed the capability acquisition process so that capability outcomes were secondary to creating opportunities for Australian industry – even when a clear rationale was lacking.
+
+12.9 To enable Australian defence industry to deliver capability, acquisition processes must minimise the burden of working with Defence, particularly for small and medium enterprises. This will have the advantage of faster capability delivery while building depth in Australian defence industry where required.
+
+12.10 Defence must consider Australian industry content when it makes sense and delivers capability outcomes on time. It is essential to ensure Australian sovereign defence industry capability is supported where it makes strategic sense.
+
+12.11 A key part of setting projects up for success is ensuring that project teams and managers have the appropriate skills to effectively deliver these major projects. This includes experience in project delivery and commercial and industry expertise. The erosion of the APS workforce in Capability Acquisition and Sustainment Group (CASG) has significantly degraded these skills.
+
+12.12 Across CASG, and CIOG, we have seen evidence of contractors managing contractors through several layers of a project’s governance structure with inadequate Commonwealth oversight. As a priority, Defence must move away from its current dependence on external service providers for roles that should be done by ADF or APS personnel.
+
+### Risk and accountability
+
+12.13 Mechanisms put in place to manage risk in Defence acquisitions do not serve us well in the current strategic environment. They are burdensome and misguidedly risk-averse.
+
+12.14 In the past, Governments have successfully engaged with and accepted risk during periods of conflict and crisis, and previous reform efforts have highlighted the need for streamlined, risk-based and accountable decision-making. Accordingly, to manage the risks inherent in the escalated strategic environment there must be reconceptualisation of risk across government.
+
+### Indigenous industry groups
+
+12.15 We had a number of sessions with Indigenous industry groups. Defence should continue its efforts to make full use of these companies, where relevant, including small and medium enterprises servicing local areas across Australia. Defence should build awareness and understanding of the importance of Indigenous engagement procurement decisions, including the sole-sourcing option through Exemption 16 of the Commonwealth Procurement Rules.
+
+### Recommendations:
+
+• Options should be developed as soon as possible to change Defence’s capability acquisition system so that it meets requirements and is reflective of our current strategic circumstances.
+
+• Australian industry content and domestic production should be balanced against timely capability acquisition.
+
+• Options should be developed as soon as possible to streamline and accelerate the capability acquisition process for projects designated as strategically urgent or of low complexity.
+
+• A new simplified programmatic approach should be developed to replace the current Capability Program Architecture by 2024.
+
+• The delivery of capability within the required time, together with value for money, is the priority in our current strategic circumstances and should be enabled by appropriate risk-based behaviours.
+
+• Government procurement and Budget Process Operational Rules should be amended to ensure consistency with the urgency required and the strategic risk involved.
+
+## 13 Finances and Resources
+
+13.1 The 2020 Defence Strategic Update recommitted to funding at a growth rate of 5-6 per cent per annum. The 2020 Force Structure Plan outlined a positive growth trajectory for capability development. Despite these commitments, Defence’s Budget is carrying significant pressures across acquisition, sustainment, workforce and operating categories.
+
+13.2 At the commencement of the Review (as at 3 August 2022), Defence’s Budget across the forward estimates was over-programmed by 24 per cent for capability acquisitions, 4 per cent above the recommended level in the 2016 Defence White Paper.
+
+13.3 Since the 2016 Defence White Paper, Defence funding over the planning decade from 2022-2023 to 2031-2032 was reduced. This includes:
+
+$3.6 billion for REDSPICE (to 2025-2026);
+
+$2.7 billion transferred to other agencies; and
+
+$12.2 billion through a strategic reserve adjustment ($9 billion) and efficiency dividends ($3.2 billion).
+
+13.4 Between the 2020 Defence Strategic Update and 2020 Force Structure Plan and the establishment of the Review, measures were announced which resulted in excess of $42 billion in additional Defence spending over the planning decade to 2032-2033, without the provision of any additional allocation in the Commonwealth Budget. This includes:
+
+$7.9 billion further funding for REDSPICE beyond 2025-2026;
+
+$32.2 billion for the establishment of the GWEO Enterprise; and
+
+$1.9 billion to achieve AUKUS Pillar II Advanced Capabilities.
+
+13.5 New capability requirements coupled with sustainment demand for existing capabilities and the need to address severe workforce pressures will require difficult decisions and trade-offs to manage the Defence Budget over the immediate period.
+
+13.6 Defence planning is about managing strategic risk. Defence spending must be a reflection of the strategic circumstances our nation faces.
+
+13.7 The full cost of the Review recommendations will not be able to be fully quantified until Defence has analysed the capability recommendations in the Review and costed them.
+
+### Recommendations:
+
+• Defence funding should be increased to meet our strategic circumstances.
+
+• Lower-priority projects and programs should be stopped or suspended to free essential resources which can be allocated to projects and programs that align with the priorities in the Review.
+
+• Funding should be released through the rebuild and reprioritisation of the Integrated Investment Program (IIP) and reinvested into priority Defence projects, programs and activities consistent with the Review.
+
+## 14 Implementation, Oversight and Future Planning
+
+### National Defence Strategy
+
+14.1 To enact a new strategic conceptual approach to defending our nation – National Defence – we require a more holistic approach to Australian defence and security strategy.
+
+14.2 Defence policy development should move away from intermittent white papers to a biennial National Defence Strategy to ensure strategic consistency and coordination of national policy implementation.
+
+14.3 This would allow for Defence policy to keep pace with the rapidly evolving strategic environment, to respond effectively to the Government’s priorities, and to provide clarity of process and approach to Defence and defence industry.
+
+### Recommendation:
+
+• Defence should move away from white papers to produce a National Defence Strategy on a biennial basis. The first National Defence Strategy should be delivered no later than Q2 2024.
+
+14.4 The Review makes significant recommendations based on a first-principles approach as to how to manage the highest level of strategic risk. It is therefore critical that a disciplined approach to implementation is undertaken.
+
+14.5 We have provided some urgent recommendations that we believe must be implemented without delay. Other recommendations can be incorporated into future Budget cycles so that the Government can consider holistic analysis of implications, including cost, industrial and workforce impacts, and interdependencies.
+
+14.6 Defence work on lower-priority projects and programs must be stopped, suspended immediately or progressively reduced as transition requires. This will free essential resources – the workforce in particular – for allocation to projects and programs that align with the priorities outlined in the Review to meet our current strategic circumstances.
+
+14.7 External oversight is essential to ensure recommendations are implemented as intended and work reflects the Government’s direction.
+
+14.8 We propose a three-tier system is adopted to oversee the implementation of the Review. This consists of:
+
+Tier 1. Cabinet-level Oversight to ensure the highest levels of strategic direction.
+
+Tier 2. External Oversight Advisers to ensure that Defence actions are implemented in accordance with the intent of the Review recommendations and accompanying Government direction.
+
+Tier 3. Defence Strategic Review Management Board, internal to Defence, to provide direct oversight and leadership of the implementation of the Review.
+
+### Recommendation:
+
+• A three-tier system should be adopted to oversee and lead the implementation of the Review recommendations.
+
+## The Albanese Government’s Response to the Defence Strategic Review Recommendations
+
+### Our Defence Strategic Environment (Chapter 2)
+
+Australia’s immediate region encompassing the north-eastern Indian Ocean through maritime Southeast Asia into the Pacific, including our northern approaches, should be the primary area of military interest for Australia’s National Defence.
+
+Government response:
+
+Agreed
+
+The Government agrees with the primary area of strategic military interest proposed in the Review. Defence will adjust its force structure, posture and planning accordingly.
+
+The Government also notes that in the contemporary strategic environment, developments in cyber, space and long-range precision strike mean our defence interests are not bound by geography alone.
+
+### National Defence – A Whole-of-Government Approach (Chapter 3)
+
+National Defence should be adopted as the strategic approach for defence planning. Agreed
+
+A whole-of-government and whole-of-nation approach to our strategic environment should be adopted. Agreed
+
+The Department of Foreign Affairs and Trade (DFAT) should be appropriately resourced to lead a nationally determined and strategically directed whole-of-government statecraft effort in the Indo-Pacific.
+
+Government response:
+
+Agreed
+
+National Defence will be the strategic approach for defence planning.
+
+The Government agrees with the Review recommendations for genuine whole-of-government coordination.
+
+DFAT will be appropriately resourced to lead a whole-of-government statecraft effort in the Indo-Pacific.
+
+### Force Design, Structure and Capability (Chapters 7 and 8)
+
+Force structure planning should be based on the Review. Agreed
+
+Projects should be immediately delayed or cancelled to enable funds and workforce in the forward estimates and planning decade to be reallocated to higher priority capabilities.
+
+Agreed
+
+The Integrated Investment Program (IIP) should be rebuilt in line with the force structure design priorities outlined in the Review. Agreed
+
+Government response:
+
+The Government agrees and will reprioritise Defence’s IIP to fund immediate and longer-term priorities. The Government will rebuild the IIP as part of the inaugural National Defence Strategy.
+
+### A Fully Integrated and More Capable ADF (Chapters 8 and 10)
+
+Maritime Domain
+
+An independent analysis of Navy’s surface combatant fleet capability should be conducted in Q3 2023 to ensure its size, structure and composition complement the capabilities provided by the forthcoming conventionally-armed, nuclear-powered submarines. The analysis must assess: the capability requirements to meet our current strategic circumstances as outlined in the Review, as well as the cost, schedule, risks and the continuous shipbuilding potential of each option.
+
+Agreed
+
+The acquisition of a conventionally-armed, nuclear-powered submarine capability in the shortest possible timeframe should be prioritised as part of AUKUS Pillar I.
+
+Agreed
+
+The Government should confirm its commitment to continuous naval shipbuilding through an updated National Naval Shipbuilding Enterprise Strategy and updated supporting Naval Shipbuilding and Sustainment Plan.
+
+Agreed
+
+Infrastructure development should commence immediately at the Osborne shipyard to enable the Nuclear-Powered Submarine Pathway.
+
+Agreed
+
+Infrastructure development should commence immediately at HMAS Stirling to enable the support and maintenance of conventionally-armed, nuclear-powered submarine operations.
+
+Agreed
+
+Industry consolidation options for the Henderson shipyard should be examined as a matter of urgency. Agreed
+
+Land Domain
+
+Army should be structured and postured in accordance with the land domain force structure design priorities outlined in the Review.
+
+Agreed
+
+LAND 8710 Phases 1-2 – Army Littoral Manoeuvre Vessels (Landing Craft Medium and Heavy) should be accelerated and expanded.
+
+Agreed
+
+LAND 8113 Phases 2-4 – Long-Range Fires (HIMARS) and LAND 4100 Phase 2 – Land-Based Maritime Strike should be accelerated and expanded.
+
+Agreed
+
+LAND 400 Phase 3 – Land Combat Vehicle System (Infantry Fighting Vehicle) acquisition should be reduced to 129 vehicles to provide one mechanised battalion.
+
+Agreed
+
+LAND 8116 Phase 2 – Protected Mobile Fires (second regiment of Army self-propelled howitzers) should be immediately cancelled. Agreed
+
+The delivery of landing craft, long-range fires, and infantry fighting vehicles should be synchronised. Agreed
+
+Air Domain
+
+Long-Range Anti-Ship Missile should be integrated onto the F-35A and the F/A-18F platforms. Joint Strike Missile should also be integrated onto the F-35A.
+
+Agreed in-principle
+
+Options should be developed for collaboration and technology sharing with the United States in the development of MQ-28A Ghost Bat.
+
+Space Domain
+
+Agreed
+
+Space Command should be moved into Joint Capabilities Group from 1 July 2023. Agreed
+
+Agreed in-principle
+
+A centralised space domain capability development and management function should be established.
+
+A method should be established for building and sustaining a trained Defence space workforce, including a defined career path for space professionals.
+
+Agreed in-principle
+
+Cyber Domain
+
+A comprehensive framework should be developed for managing operations in the cyber domain that is consistent with the other domains.
+
+Agreed
+
+Defence’s cyber domain capabilities should be strengthened to deliver the required breadth of capability with appropriate responsiveness to support ADF operations.
+
+Government response:
+
+Agreed in-principle
+
+The Government will develop a fully integrated and more capable ADF comprising five domains, which work seamlessly together on joint operations to deliver enhanced and joined-up combat power.
+
+The Government will further develop and consider those recommendations that it has agreed to in-principle as part of the National Defence Strategy to be delivered in 2024.
+
+### Technology and Asymmetric Advantage (Chapters 8, 9 and 10)
+
+Defence Science and Technology Group funding and resources should be aligned with the priorities identified in the Review. Agreed
+
+The development of selected critical technology areas as part of AUKUS Pillar II Advanced Capabilities should be prioritised in the shortest possible time.
+
+Agreed
+
+A senior official or officer with sole responsibility and a singular focus on AUKUS Pillar II Advanced Capabilities implementation should be appointed to enable expedited focus on capability outcomes.
+
+Agreed
+
+A senior officer or official with the sole responsibility for leading the Guided Weapons and Explosive Ordnance (GWEO) Enterprise should be appointed, with an appropriate underpinning organisational structure.
+
+Agreed
+
+Options for the increase of guided weapons and explosive ordnance (GWEO) stocks, including the rapid establishment of domestic manufacturing, should be provided to the Government by Q2 2024.
+
+Government response:
+
+Agreed
+
+The Government agrees that new technology and asymmetric advantage is a priority, and will ensure the ADF has the capacity to engage in impactful projection across the full spectrum of proportionate response.
+
+### Workforce (Chapter 11)
+
+Options should be developed to change Defence’s recruitment framework to improve the eligibility pool of potential applications and to align service recruitment requirements to military employment, especially in key technical and specialist trades (cyber, engineering, space, etc.).
+
+Agreed
+
+Options should be developed to change the policy and risk settings to improve the achievement of recruitment targets by 2024. Agreed
+
+ADF personnel management should be centralised into a single integrated system that is headed by a Chief of Personnel reporting directly to the Chief of the Defence Force.
+
+Agreed
+
+A comprehensive strategic review of the ADF Reserves, including consideration of the reintroduction of a Ready Reserve Scheme, should be conducted by 2025.
+
+Government response:
+
+Agreed
+
+The Government agrees with these recommendations and recognises that people are Defence’s most important capability. The Government will invest in the growth and retention of a highly-skilled Defence workforce.
+
+### Force Posture and Accelerated Preparedness (Chapters 8 and 10)
+
+Posture, Basing and Infrastructure
+
+Agreed in-principle
+
+Upgrades and development of our northern network of bases, ports and barracks should commence immediately.
+
+Options should be developed to leverage the capabilities offered by local and state governments as well as civil minerals and petroleum resources industry infrastructure in northern and central Australia.
+
+Agreed
+
+An enterprise-wide audit to baseline Defence estate and infrastructure, including protective security, should be completed no later than the end of 2023.
+
+Agreed
+
+Agreed in-principle
+
+An east coast facility should be established for Australia’s future submarine capability.
+
+### Fuel
+
+A whole-of-government Fuel Council should be established as soon as possible with representatives from relevant departments and industry to deliver resilient national fuel supply, distribution and storage.
+
+Agreed in-principle
+
+Logistics and Health
+
+A national logistics support concept that considers strategic and industrial policy needs, and civilian, local and state government and military logistics capabilities, should be developed by 2025.
+
+Agreed
+
+A National Support Division should be established within Defence by 2024 to develop concepts and conduct engagement to harness the nation’s economic, industrial and societal strength.
+
+Agreed in-principle
+
+Commander Joint Logistics and Commander Joint Health should be adequately resourced to deliver Defence logistics and health networks that are able to deliver persistent support and sustainment for operations.
+
+Agreed
+
+### Information and Communications Technology
+
+Agreed in-principle
+
+An open architecture approach should be adopted by Defence in both hardware and software.
+
+A dedicated senior official for Chief Information Officer Group (CIOG) capability management leadership and a dedicated senior official accountable for the secret network should be appointed, and the CIOG workforce should be rebalanced to a 60:40 APS-and ADF-to-contractor ratio.
+
+Agreed
+
+Defence’s cyber security arrangements should be enhanced in close collaboration with the Australian Signals Directorate. Agreed
+
+Defence’s cyber security operations capability in Chief Information Officer Group should be increased and legacy systems and platforms should be decommissioned.
+
+### Security
+
+Agreed
+
+The transfer of Defence’s Positive Vetting (PV) vetting authorities to the Top Secret Privileged Access (TSPA) Authority should be accelerated.
+
+Government response:
+
+Agreed
+
+The Government agrees with the priority the Review places on force posture and accelerated preparedness. The Government also remains committed to safeguarding Australia’s national fuel supply, distribution and storage.
+
+The Government will develop a process to consider all feasible options for an east coast facility to support Australia’s future submarine capability. A decision on the location for this facility will be made late in this decade.
+
+Other recommendations that have been agreed to in-principle will be further developed and considered as part of the National Defence Strategy to be delivered in 2024.
+
+### Capability Acquisition, Risk and Accountability (Chapter 12)
+
+Options should be developed as soon as possible to change Defence’s capability acquisition system so that it meets requirements and is reflective of our current strategic circumstances.
+
+Agreed
+
+Australian industry content and domestic production should be balanced against timely capability acquisition. Agreed
+
+Options should be developed as soon as possible to streamline and accelerate the capability acquisition process for projects designated as strategically urgent or of low complexity.
+
+Agreed
+
+A new simplified programmatic approach should be developed to replace the current Capability Program Architecture by 2024. Agreed
+
+The delivery of capability within the required time, together with value for money, is the priority in our current strategic circumstances and should be enabled by appropriate risk-based behaviours.
+
+Agreed in-principle
+
+Government procurement and Budget Process Operational Rules should be amended to ensure consistency with the urgency required and the strategic risk involved.
+
+Government response:
+
+Agreed in-principle
+
+The Government agrees the current capability acquisition process is not fit for purpose. Defence will reform the capability acquisition process to achieve more timely and relevant capability outcomes in response to our strategic circumstances, with an emphasis on minimum viable capability.
+
+The Government will consider potential amendments to the Budget Process Operational Rules in the context of the 2024-25 Budget process. The remaining recommendation agreed to in-principle will be further developed and considered as part of the National Defence Strategy to be delivered in 2024.
+
+### Climate Change and Support to Domestic Disaster Relief (Chapter 5)
+
+The Commonwealth should work with the states and territories to develop national resilience and response measures for adverse climate change at the local level without the need of ADF support, except in the most extreme emergencies.
+
+Agreed in-principle
+
+Agreed in-principle
+
+Defence should be the force of last resort for domestic aid to the civil community, except in extreme circumstances.
+
+Defence should accelerate its transition to clean energy to increase our national resilience, with a plan to be presented to the Government by 2025.
+
+Government response:
+
+Agreed
+
+The Government acknowledges that the ADF’s role in providing assistance to the civil community following natural disasters comes at a cost to force preparedness, readiness and combat effectiveness. The Government will work in partnership with states and territories to further develop national resilience response mechanisms.
+
+The Government will further develop and consider those recommendations that it has agreed to in-principle as part of the National Defence Strategy to be delivered in 2024.
+
+### Finances and Resources (Chapter 13)
+
+Defence funding should be increased to meet our strategic circumstances. Agreed
+
+Lower-priority projects and programs should be stopped or suspended to free essential resources which can be allocated to projects and programs that align with the priorities in the Review.
+
+Agreed
+
+Funding should be released through the rebuild and reprioritisation of the Integrated Investment Program (IIP) and reinvested into priority Defence projects, programs and activities consistent with the Review.
+
+Government response:
+
+Agreed
+
+The Government agrees that Defence must have the requisite funding to deliver the agreed priorities and capabilities recommended in the Review. The Government will increase Defence funding over the next decade above its current trajectory to implement the Review. This will include a rebuild of the IIP.
+
+### Implementation, Oversight and Future Planning (Chapter 14)
+
+Defence should move away from white papers to produce a National Defence Strategy on a biennial basis. The first National Defence Strategy should be delivered no later than Q2 2024.
+
+Agreed
+
+A three-tier system should be adopted to oversee and lead the implementation of the Review recommendations. Agreed
+
+Government Response:
+
+The Government will release the inaugural National Defence Strategy in 2024 which will encompass a comprehensive outline of Defence policy, planning, capabilities, and resourcing.
+
+CGMAR006-23

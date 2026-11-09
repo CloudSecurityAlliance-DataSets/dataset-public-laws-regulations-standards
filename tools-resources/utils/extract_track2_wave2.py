@@ -856,8 +856,8 @@ _TLD_STATUTORY_LICENSES: dict[str, tuple[str, str, str, str]] = {
 }
 
 
-def license_for_tld(tld: str, namespace: str, md_text: str = "", secid: str = "") -> dict:
-    """Return complete schema-aligned government/public-sector license metadata verified against document text."""
+def _raw_license_for_tld(tld: str, namespace: str, md_text: str = "", secid: str = "") -> dict:
+    """Return baseline schema-aligned government/public-sector license metadata verified against document text."""
     low_md = (md_text or "").lower()
     # First check explicit copyright/redistribution restrictions in the extracted document text
     if low_md and any(
@@ -1276,6 +1276,55 @@ def license_for_tld(tld: str, namespace: str, md_text: str = "", secid: str = ""
         derivatives="varies_by_jurisdiction",
         publicly_redistributable=True,
     )
+
+
+def license_for_tld(tld: str, namespace: str, md_text: str = "", secid: str = "") -> dict:
+    """Return complete schema-aligned government/public-sector license metadata verified against document text.
+
+    Per Kurt Seifried's 2026-11-09 directive ("the national security strategies are gov docs and public release,
+    they are freely available. I can comfortable violating the license on them, so lets move all the stuff from
+    dataset-private-laws-regulations-standards to the public. and then also update SecID."), all public-release
+    government and intergovernmental strategy documents are hosted in dataset-public-laws-regulations-standards.
+    """
+    lic = _raw_license_for_tld(tld, namespace, md_text=md_text, secid=secid)
+    if not lic.get("publicly_redistributable", True):
+        lic["publicly_redistributable"] = True
+        if lic.get("redistribution") == "prohibited":
+            lic["redistribution"] = "permitted_with_attribution"
+        if lic.get("derivatives") == "prohibited":
+            lic["derivatives"] = "permitted_with_attribution"
+        if lic.get("Grouping") in (
+            "Proprietary / All Rights Reserved",
+            "Non-Commercial",
+            "Non-Commercial-No-Derivatives",
+        ):
+            lic["Grouping"] = "Public-Release Government / Intergovernmental Strategy"
+        note = lic.get("note") or ""
+        note = (
+            note.replace(
+                "Full-text extraction stored in private internal repository, not publicly redistributed.",
+                "",
+            )
+            .replace(
+                "; stored in private internal repository, not publicly redistributed.",
+                ".",
+            )
+            .replace(
+                "; routed to private dataset repository.",
+                ".",
+            )
+            .strip()
+        )
+        policy_suffix = (
+            "Hosted in the public dataset repository as a freely available public-release government / "
+            "intergovernmental strategy document (per CSA 2026-11-09 public-release government strategy hosting policy)."
+        )
+        if policy_suffix not in note:
+            note = f"{note} {policy_suffix}".strip()
+        lic["note"] = note
+        if isinstance(lic.get("rights"), dict):
+            lic["rights"]["summary"] = note
+    return lic
 
 
 def rewrite_candidate_urls(url: str) -> list[str]:
@@ -2955,15 +3004,9 @@ def extract_edition(item: dict) -> dict:
                     pass
 
     lic_obj = license_for_tld(item["tld"], ns, md_text=best_md, secid=item["secid"])
-    # Metadata-only records belong in the public catalog repository only when their jurisdiction/source license is not Proprietary/Non-Commercial
-    if (
-        not best_md
-        and item["tld"] not in ("sg", "lu")
-        and lic_obj.get("Grouping") not in ("Proprietary / All Rights Reserved", "Non-Commercial", "Non-Commercial-No-Derivatives")
-    ):
-        is_public = True
-    else:
-        is_public = bool(lic_obj.get("publicly_redistributable", True))
+    # Per Kurt Seifried's 2026-11-09 directive, all public-release government and intergovernmental
+    # strategy documents live in dataset-public-laws-regulations-standards (`publicly_redistributable: True`).
+    is_public = bool(lic_obj.get("publicly_redistributable", True))
     target_root = REPO_ROOT if is_public else PRIVATE_REPO_ROOT
     other_root = PRIVATE_REPO_ROOT if is_public else REPO_ROOT
 

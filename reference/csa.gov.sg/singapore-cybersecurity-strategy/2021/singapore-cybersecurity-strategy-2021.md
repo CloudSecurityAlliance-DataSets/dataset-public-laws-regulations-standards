@@ -1,0 +1,3015 @@
+# Singapore Cybersecurity Strategy 2021
+
+### Acknowledgements
+
+We would like to thank the following individuals, groups, and agencies
+
+for their valuable input and support over the course of developing the
+
+Singapore Cybersecurity Strategy 2021:
+
+• Dr Benjamin Ang, Centre of Excellence for National Security,
+
+S. Rajaratnam School of International Studies
+
+• Mr Bruce W. McConnell, EastWest Institute
+
+• Prof Ciaran Martin, Blavatnik School of Government, University of Oxford
+
+• Mr Christopher C. Krebs, Krebs Stamos Group
+
+• Mr Christopher Painter, Global Commission on the Stability of Cyberspace
+
+• Mr James Andrew Lewis, Center for Strategic & International Studies
+
+• Dr Shashi Jayakumar, Centre of Excellence for National Security,
+
+S. Rajaratnam School of International Studies
+
+• The Singapore Cyber Security Inter Association
+
+• The Cyber Security Awareness Alliance
+
+• The Infocomm Media Development Authority
+
+• The Ministry of Communications and Information
+
+• The Ministry of Defence
+
+• The Ministry of Home Affairs
+
+• The Personal Data Protection Commission
+
+• The Singapore Police Force
+
+• The Smart Nation and Digital Government Group
+
+The Singapore Cybersecurity Strategy 2021
+
+Copyright © 2021
+
+by Cyber Security Agency of Singapore
+
+All rights reserved.
+
+ISBN: 978-981-18-2258-2
+
+Cyber Security Agency of Singapore
+
+www.csa.gov.sg
+
+Designed by:
+
+APT811 Design & Innovation Agency
+
+www.apt811.com
+
+PRIME MINISTER’S FOREWORD divisions. Cyberattacks can also do physical
+
+damage to business operations and essential
+
+infrastructure, and pose real-world threats to
+
+lives and livelihoods.
+
+Digitalisation and cybersecurity are thus
+
+two sides of the same coin. As we push for
+
+digitalisation, we must also raise our cybersecurity
+
+levels to protect ourselves from new technological
+
+exploits and malicious actors.
+
+Five years ago, we launched the first Singapore
+
+Cybersecurity Strategy. The world is now
+
+This updated Cybersecurity Strategy charts the
+
+a different place. Digital technology has
+
+next stage in Singapore’s journey to becoming
+
+transformed how we live, work, and play. Smart
+
+a more cyber-resilient nation. We will actively
+
+homes and devices are becoming mainstream;
+
+defend our cyberspace, simplify cybersecurity
+
+retail stalls are pitching their wares over
+
+for end-users, and promote the development
+
+livestreaming apps; we PayNow each other
+
+of international cyber norms and standards.
+
+instead of using cash. The COVID-19 pandemic
+
+As the cyber environment is evolving rapidly,
+
+has accelerated these trends further.
+
+implementing this strategy will demand much of
+
+our people. That is why we are investing heavily
+
+Digital technology is central to our COVID-19
+
+to upskill practising professionals and to support
+
+response. Technology enables us to trace
+
+individuals keen on pursuing a cybersecurity
+
+contacts effectively and efficiently, monitor
+
+career. If we can do all this well, we can
+
+patients’ health remotely, and ensure
+
+confidently unleash our full digital potential.
+
+compliance with stay-at-home notices. Many
+
+solutions were developed locally to help us
+
+As the world rides the digitalisation wave, let us
+
+emerge stronger from the pandemic.
+
+work together towards a trusted and resilient
+
+cyberspace so that everyone can benefit from
+
+Singapore must continue to exploit digital
+
+the opportunities in a digitally connected world.
+
+technology fully to grow and develop. At
+
+the same time, we must be vigilant about
+
+the risks. The more we digitalise, the more
+
+exposed we become to the growing threats
+
+in cyberspace. The same technologies that
+
+Lee Hsien Loong
+
+improve our lives can be misused to disrupt
+
+our lives, sow mistrust, and deepen social
+
+October 2021
+
+Contents
+
+Overview of the Singapore Cybersecurity Strategy 2021 1
+
+Introduction: Singapore’s Cyber Operating Landscape 5
+
+Chapter 1: Build Resilient Infrastructure 13
+
+Enable a coordinated approach to national cybersecurity with Critical Information Infrastructures (CIIs) at its core 16
+
+Ensure government systems are secure and resilient 18
+
+Safeguard important entities and systems beyond CIIs 20
+
+Chapter 2: Enable a Safer Cyberspace 21
+
+Secure digital infrastructure, devices, and applications that power our digital economy 24
+
+Safeguard our cyberspace activities 25
+
+Empower our cyber-savvy population for a healthy digital way of life 27
+
+Chapter 3: Enhance International Cyber Cooperation 31
+
+Advance the development and implementation of voluntary, non-binding norms, which sit alongside international law 35
+
+Strengthen the global cybersecurity posture through capacity-building initiatives and the development of technical and interoperable cybersecurity standards 37
+
+Contribute to international efforts to combat cross-border cyber threats 39
+
+Chapter 4: Develop a Vibrant Cybersecurity Ecosystem 41
+
+Develop advanced capabilities for economic growth and national security 44
+
+Innovate to build world-class products and services 45
+
+Grow our cybersecurity market 47
+
+Chapter 5: Grow a Robust Cyber Talent Pipeline 49
+
+Support youths, women, and mid-career professionals to pursue a cybersecurity career 53
+
+Create an upskilling culture for a globally competitive workforce 55
+
+Foster a dynamic sector with strong professional communities 56
+
+Conclusion 57
+
+## Overview of the — SINGAPORE CYBERSECURITY STRATEGY 2021
+
+A secure cyberspace underpins our national security, powers a digital economy, and protects our digital way of life.
+
+### Singapore launched our first Singapore Cybersecurity Strategy
+
+in 2016 (‘Strategy 2016’), which helped lay the foundations of our cybersecurity efforts today. As our strategic and technological
+
+environment has changed significantly over the past five years,
+
+we have reviewed and refreshed our cybersecurity strategy to address new and emerging cyber-threats.
+
+### With a robust cybersecurity workforce and a vibrant cybersecurity — ecosystem as key enablers, the Singapore Cybersecurity Strategy — 2021 (‘Strategy 2021’) lays out our plans to strengthen the security
+
+and resilience of our digital infrastructure and enable a safer cyberspace to support our digital way of life. It also articulates
+
+how Singapore could play an outsized role in the digital domain despite being a small country, to support an open, secure, stable,
+
+accessible, peaceful, and interoperable cyberspace.
+
+### OVERVIEW
+
+A TRUSTED AND RESILIENT CYBERSPACE
+
+### Build Resilient Infrastructure
+
+• Enable a coordinated approach to national
+
+cybersecurity with CIIs at its core • Ensure government systems are secure
+
+and resilient • Safeguard important entities and systems
+
+beyond CIIs
+
+### Enable a Safer Cyberspace
+
+• Secure digital infrastructure, devices,
+
+and applications that power our digital
+
+economy • Safeguard our cyberspace activities • Empower our cyber-savvy population
+
+for a healthy digital way of life
+
+### Enhance International Cyber Cooperation
+
+• Advance the development and
+
+implementation of voluntary, non-binding
+
+norms, which sit alongside international law • Strengthen the global cybersecurity
+
+posture through capacity-building
+
+initiatives and the development of technical
+
+and interoperable cybersecurity standards • Contribute to international efforts to
+
+combat cross-border cyber threats
+
+STRATEGIC
+
+## PILLARS
+
+FOUNDATIONAL
+
+ENABLERS
+
+### Develop a Vibrant Cybersecurity Ecosystem — Grow a Robust Cyber Talent Pipeline
+
+• Develop advanced capabilities
+
+• Support youths, women, and mid-
+
+for economic growth and national
+
+career professionals to pursue a
+
+security • Innovate to build world-class
+
+cybersecurity career • Create an upskilling culture for a
+
+products and services • Grow our cybersecurity market
+
+globally competitive workforce • Foster a dynamic sector with strong
+
+professional communities
+
+## INTRODUCTION — SINGAPORE’S CYBER OPERATING — LANDSCAPE
+
+As Singapore harnesses digital technology to improve lives and livelihoods for all, cybersecurity has become a necessity and a key enabler for our digital economy
+
+and digital way of life.
+
+Singapore takes cyber threats seriously. Our cybersecurity journey
+
+started with the first Infocomm Security Masterplan in 2005 and
+
+the formation of the Singapore Infocomm Technology Security
+
+Authority (SITSA) in 2009. In 2015, the Cyber Security Agency of
+
+Singapore (CSA) was set up as the central agency to oversee and
+
+coordinate all aspects of cybersecurity for the nation.
+
+CSA published the first Singapore Cybersecurity Strategy in 2016,
+
+which had sought to:
+
+(i) Build a resilient infrastructure;
+
+(ii) Create a safer cyberspace;
+
+(iii) Develop a vibrant cybersecurity ecosystem; and
+
+(iv) Strengthen international partnerships.
+
+Scan here to learn more about Singapore’s cybersecurity journey since 2016!
+
+## Key Shifts in our Cyber Operating Environment
+
+The digital domain is one that is rapidly evolving. In the past five years,
+
+Singapore has observed four key shifts in our cyber operating environment:
+
+## Disruptive Technologies Growing Cyber-Physical Risks Ubiquitous Digital Connectivity Increased Geopolitical Tensions in Cyberspace
+
+Looking ahead, there are several emerging
+
+We are entering an age where the digital and
+
+technologies that may disrupt current
+
+physical realms converge. Cyber disruptions
+
+approaches towards cybersecurity.
+
+can spill over to the physical domain with
+
+real-world consequences. In 2021 alone, we
+
+For example, edge computing, enabled by
+
+have seen the disruption of hospitals, oil
+
+5G, cloud computing, and ubiquitous access
+
+pipelines, and manufacturing facilities in
+
+to digital devices, will fundamentally change
+
+various countries because of cyberattacks.
+
+our network environment. This requires
+
+a mindset shift, as we move away from
+
+Growing cyber-physical risks are not limited
+
+perimeter defence towards a zero-trust
+
+to the industry; these risks are also creeping
+
+cybersecurity model. Quantum technologies
+
+into our everyday lives with the proliferation
+
+will also disrupt the cryptographic methods
+
+of smart devices and internet-enabled
+
+underpinning cybersecurity today.
+
+products in our homes.
+
+On the flip side, technologies such as
+
+We must therefore ensure our CIIs and
+
+artificial intelligence and quantum
+
+other important systems are well protected
+
+computing also present us with new ways
+
+and resilient. Existing policy and legislative
+
+to secure our digital assets.
+
+frameworks must also be fit-for-purpose to
+
+address these risks.
+
+The COVID-19 pandemic has accelerated
+
+Digital technologies are increasingly
+
+digitalisation; businesses and individuals
+
+perceived as a key determinant in the
+
+are increasingly dependent on the smooth
+
+distribution of power in the international
+
+running of digital infrastructure and services.
+
+system. The digital domain has thus become
+
+This has vastly expanded the attack surface
+
+a new arena for geopolitical contestation.
+
+for Singapore and Singaporeans, exposing
+
+States are in a race to develop first-mover
+
+more vulnerabilities to be exploited.
+
+advantages over key digital technologies.
+
+Technical standards-setting bodies are
+
+Cyber threat actors take advantage of this to
+
+increasingly receiving political attention.
+
+launch cyberattacks. Cyberattacks are not
+
+only growing in volume; they are also growing
+
+Singapore must remain steadfast in our
+
+in sophistication.
+
+commitment to an open, secure, stable,
+
+accessible, peaceful, and interoperable
+
+We will work with businesses and individuals
+
+cyberspace and actively work towards
+
+so that they are equipped to mitigate and
+
+this vision, in order to navigate these
+
+manage cybersecurity risks, so that they can
+
+geopolitical tensions.
+
+digitalise safely and securely.
+
+### Build Resillient Infrastructure — OBJECTIVES
+
+Strengthen the security and resilience
+
+of our digital infrastructure
+
+Regulation will continue to be a key lever.
+
+In Strategy 2021, we will explore expanding
+
+the Government’s regulatory remit under
+
+the Cybersecurity Act to include entities
+
+SINGAPORE’S APPROACH
+
+and systems beyond CIIs.
+
+However, a purely regulatory approach
+
+could engender a compliance mindset,
+
+which is not desirable in a fast-
+
+evolving environment. Enterprises and
+
+organisations should instead adopt a
+
+How are we adapting to a changing cyber landscape? risk management mindset. Strategy
+
+2021 will therefore also seek to nudge
+
+enterprises and organisations to invest in
+
+cybersecurity to thrive in a digital world.
+
+Compared to Strategy 2016, Strategy 2021 takes a more proactive stance to address threats, broadens our scope of protection, and seeks to develop deeper partnerships with industry and other organisations to adapt to the changes in our cyber operating environment. Strategy 2021 also places greater emphasis on workforce and ecosystem development as key enablers of our cybersecurity.
+
+### OBJECTIVES — Develop a Vibrant Cybersecurity Ecosystem
+
+FOUNDATIONAL ENABLERS
+
+STRATEGIC PILLARS
+
+### Enable a Safer Cyberspace — Enhance International Cyber Cooperation
+
+Create a cleaner and healthier
+
+Foster an open, secure, stable, accessible,
+
+digital environment
+
+peaceful, and interoperable cyberspace
+
+The Government will take the lead
+
+Singapore will advance the development
+
+to secure the digital infrastructure
+
+and implementation of voluntary, non-
+
+that powers our digital economy, and
+
+binding norms, which sit alongside
+
+support the development of a healthy
+
+international law. We will also advocate the
+
+digital environment. Recognising that
+
+development and adoption of technical and
+
+cybersecurity can seem daunting to many,
+
+interoperable standards. Eventually, this
+
+the Government will also seek to make it
+
+will allow us to work towards a rules-based
+
+easier for everyone to secure their devices
+
+multilateral order with agreed principles for
+
+and use secure applications.
+
+responsible State behaviour in cyberspace.
+
+Enterprises, organisations, and individuals
+
+We will also step up operational cooperation
+
+must play their part too. Enterprises and
+
+with our international partners to combat
+
+organisations should include cybersecurity
+
+cross-border cyber threats. Singapore will
+
+as part of their risk management
+
+also support capacity-building programmes
+
+framework and strengthen their
+
+to help raise the global and regional levels
+
+cybersecurity posture. Individuals should
+
+of cybersecurity.
+
+practise good cyber hygiene and stay
+
+vigilant against cyber threats.
+
+SINGAPORE’S APPROACH
+
+To develop a vibrant cybersecurity ecosystem, the Government will galvanise the cybersecurity industry
+
+and academia to develop advanced capabilities, build world-class products and services, and grow our
+
+cybersecurity market. The Government will invest in cybersecurity research and innovation. We will
+
+also establish entrepreneurship programmes, which stakeholders can leverage to develop Made-in-
+
+Singapore solutions. Build a cybersecurity ecosystem underpinned by research and innovation
+
+for our security and economic needs
+
+### Grow a Robust Cyber Talent Pipeline
+
+Develop and sustain a strong cybersecurity workforce to meet our security and economic needs
+
+The Government will work closely with our schools to educate students in cybersecurity and nurture
+
+budding cybersecurity enthusiasts. The Government will also partner the industry and Institutes of
+
+Higher Learning (IHLs) to develop skills and competency frameworks toward structured career paths
+
+for cybersecurity professionals.
+
+In line with the national SkillsFuture movement, the Government will also encourage individuals interested
+
+in cybersecurity to further their skills through programmes offered by industry and training institutes.
+
+## What is my role?
+
+I am...
+
+### A leader of an — A software or hardware vendor — organisation A CII owner — enterprise or
+
+I can...
+
+Contribute to a healthier digital environment by:
+
+Strengthen my organisation’s cybersecurity posture by:
+
+Strengthen the security of CIIs by:
+
+• Adopting a risk-based approach
+
+• Equipping my employees
+
+• Adopting a risk-based
+
+towards cybersecurity • Incorporating cybersecurity
+
+with cybersecurity skills and
+
+approach towards
+
+knowledge to build secure-
+
+cybersecurity • Incorporating cybersecurity
+
+by-design software and
+
+in my enterprise’s risk
+
+hardware products • Applying to get my
+
+management framework • Leveraging the CII Supply Chain
+
+in my organisation’s risk
+
+management framework • Applying for the SG Cyber
+
+products certified under
+
+Programme to manage vendor
+
+the Cybersecurity Labelling
+
+cybersecurity risks • Using the Operational
+
+Safe Trustmark for my
+
+Scheme
+
+organisation • Using the resources and
+
+Technology (OT) Cybersecurity
+
+Competency Framework as a
+
+toolkits developed by
+
+tool to establish processes,
+
+CSA to raise cybersecurity
+
+structures, or jobs to manage
+
+awareness throughout
+
+OT cybersecurity within my
+
+my organisation
+
+organisation
+
+Cybersecurity is a team sport, and everyone has a part to play. The Government will take the
+
+lead in rolling out initiatives to keep Singapore’s cyberspace safe. However, this Strategy is not
+
+just a government blueprint; it is a call to action for all stakeholders to leverage resources and
+
+opportunities outlined in this Strategy to play their part and contribute to the nation’s cybersecurity.
+
+The Government will play the role of team captain, guiding and empowering enterprises,
+
+organisations, and individuals to collectively work towards a safe and secure cyberspace.
+
+### A cybersecurity — An individual who uses — professional or — A student — digital technology for — researcher — work or play
+
+Contribute to our cybersecurity
+
+Learn more about
+
+Take responsibility for my
+
+cybersecurity by:
+
+own cybersecurity by:
+
+ecosystem by:
+
+• Leveraging the National
+
+• Participating in SG Cyber
+
+• Practising good cyber hygiene • Adopting the tips in the
+
+Cybersecurity R&D
+
+Youth programmes,
+
+Programme to develop
+
+such as the Youth Cyber
+
+SG Cyber Safe campaigns • Using the appropriate
+
+advanced cybersecurity
+
+Exploration Programme or
+
+capabilities • Leveraging initiatives such
+
+the Cybersecurity Career
+
+cybersecurity solutions to
+
+Mentoring Programme • Participating in cyber
+
+protect my devices
+
+as the Cybersecurity Call
+
+for Innovation to create new
+
+sparring and training under
+
+innovative cybersecurity
+
+the SG Cyber Olympians
+
+solutions • Working with local industry
+
+programme
+
+associations on community
+
+initiatives
+
+## CHAPTER 1: BUILD RESILIENT INFRASTRUCTURE
+
+GOAL
+
+### Strengthen the security and resilience of our digital infrastructure — We rely on Critical Information Infrastructures
+
+(CIIs) for the provision of essential services,
+
+such as telecommunications, energy, healthcare,
+
+and banking.
+
+With increasing digitalisation, CIIs that were previously isolated
+
+from the Internet are now increasingly linked to other digital
+
+systems, exposing them to cyber vulnerabilities and threats. At
+
+the same time, threat actors are becoming more sophisticated
+
+and are honing their craft to exploit any vulnerability they can find
+
+to disrupt our digital way of life.
+
+The Government is committed to the security and resilience of
+
+our CIIs, even as we push for more digitalisation. Beyond CIIs,
+
+the Government will also seek to raise the cybersecurity posture
+
+of other digital systems and infrastructure that could impact
+
+Singaporeans’ lives and livelihoods.
+
+### WHAT’S NEW? — In Strategy 2016, the Government focused on strengthening the cyber resilience
+
+of our CIIs. The Cybersecurity Act was passed in 2018 and serves as the legislative framework to safeguard our CIIs.
+
+### While we continue to strengthen these areas, Strategy 2021 also seeks to: — Leverage synergies across the nation
+
+This includes strengthening our technical capabilities and
+
+enhancing coordination across the Government in order to
+
+act with greater effectiveness, speed, and agility.
+
+### Broaden our scope of protection beyond CIIs
+
+We want to strengthen the cybersecurity posture of other
+
+key entities whose compromise or disruption have significant
+
+knock-on effects to the wider economy and society.
+
+### Address growing cyber-physical risks
+
+As the physical and digital worlds continue to converge, we
+
+want to ensure our policy and legislative frameworks remain
+
+fit-for-purpose to manage cyber-physical risks.
+
+### The Government will work closely with CII owners, the cybersecurity industry
+
+and key digital infrastructure owners to enable a coordinated approach to national cybersecurity. We will also ensure that government systems providing
+
+### key services for our citizens are secure and resilient. The Government will also
+
+look beyond CIIs and work towards safeguarding other entities and systems that provide important services that support our digital economy and way of life.
+
+Enable a coordinated approach to national cybersecurity with CIIs at its core
+
+### To ensure our essential services are well-protected — from cybersecurity threats, we will evolve our
+
+policy approach to defend against sophisticated threat actors. We must also continue to strengthen
+
+capabilities to protect, detect, respond, and recover from malicious cyber activities. We will also ensure
+
+that cyber-physical risks are well managed.
+
+### Evolve our policy approach to defend against sophisticated threat actors — Strengthen capabilities to protect, detect, respond, and recover from malicious cyber activities
+
+The Government will implement a layered
+
+Cybersecurity is enabled by strong
+
+and coordinated approach to national cyber
+
+capabilities. The Government will strengthen
+
+defence. CII owners will be encouraged to
+
+our technical capabilities to detect and
+
+adopt a zero-trust cybersecurity posture
+
+analyse malicious cyber activities to better
+
+for critical systems. For other services and
+
+defend against such threats. This includes
+
+infrastructure whose disruption could have
+
+the development of a Cyber Fusion Platform
+
+significant knock-on effects on the nation,
+
+that will allow the Government to conduct
+
+a risk-based approach will be adopted
+
+investigation with enhanced speed and
+
+to strengthen the cybersecurity of these
+
+efficiency. To strengthen our response and
+
+systems. For example, CSA is developing
+
+recovery, the Government will also implement
+
+a CII Supply Chain Programme to provide
+
+initiatives such as the new National Cyber
+
+recommendations for all stakeholders to
+
+Security Command Centre. We will also work
+
+manage cybersecurity risks in the supply
+
+with CII owners and other organisations to
+
+chain. In addition, we also seek to change
+
+address the various people, process, and
+
+mindsets, such that cybersecurity will be
+
+technology challenges in cybersecurity.
+
+viewed as an enterprise risk management
+
+issue, as opposed to a compliance issue.
+
+Ensure policy and legislative frameworks remain fit-for-purpose to address growing cyber-physical risks
+
+### Critical Information Infrastructures in Singapore
+
+The effects of cyberattacks are
+
+no longer contained in the digital
+
+CIIs are digital systems that support the delivery of essential
+
+domain. They are spilling into
+
+services. Today, CIIs have been identified from 11 critical
+
+the physical realm, as evidenced
+
+sectors — Aviation, Banking & Finance, Energy, Government,
+
+by ransomware attacks on the
+
+Healthcare, Infocomm, Land Transport, Maritime, Media,
+
+Colonial Pipeline Company in
+
+Security & Emergency Services, and Water.
+
+the US and healthcare services
+
+in Ireland and New Zealand.
+
+To ensure that our essential services are not disrupted by
+
+Our policy and legislative
+
+cyber threats, the Government has put in place a three-tier
+
+frameworks must evolve and
+
+framework to strengthen the cyber resilience of CIIs.
+
+adapt to mitigate cyber-physical
+
+risks. This includes reviewing
+
+• CSA, as the independent national authority on
+
+the Cybersecurity Act, as well
+
+cybersecurity, monitors and regulates the CII sectors.
+
+as introducing policy initiatives
+
+At the same time, CSA actively supports sector leads
+
+such as the OT Cybersecurity
+
+and CII owners to improve their situational awareness
+
+Masterplan and OT Cybersecurity
+
+and build up their capabilities.
+
+Competency Framework.
+
+• Each CII sector has a sector lead, who works closely
+
+with CSA. They are the natural regulators of the
+
+CII owners and have a good grasp of the unique
+
+operating and business environment — and risks —
+
+of their respective sectors. They are best placed to
+
+provide guidance on the appropriate balance point of
+
+cybersecurity, usability, and cost.
+
+• At the organisational level, CII owners are responsible
+
+for managing their cybersecurity risks and are the first
+
+line defenders and responders.
+
+### Ensure government systems are secure and resilient
+
+To enable public service digitalisation, the Government will ensure that all government systems — including both CIIs and non-CII systems — are resilient,
+
+protected, and trusted by its users. Today, all government systems comply with tailored cybersecurity policies that are reviewed periodically. We will also modernise
+
+the cybersecurity architecture of government systems to stay ahead of technological developments. Cybersecurity is not only about technology, but also about people
+
+and organisational processes. We will therefore also raise the level of cybersecurity
+
+competency across Government. We hope that the Government’s risk-based
+
+approach towards cybersecurity can serve as a guide for other organisations and enterprises looking to strengthen their cybersecurity posture.
+
+### Review cyber policies and enforce a tiered set of requirements in Government — Modernise the cybersecurity architecture in Government
+
+Instructional Manual 8 (IM8) is the management
+
+The Government is implementing the
+
+tool used in Government to safeguard
+
+Government Trust-based Architecture
+
+government ICT & Smart Systems (ICT&SS)
+
+(GTbA) that translates zero-trust
+
+assets. The IM8 Policy on Security establishes
+
+principles to the Government context,
+
+tailored security hygiene practices for
+
+thereby strengthening the security of
+
+government systems, based on a system’s
+
+applications and systems.
+
+classification and criticality. The Smart Nation
+
+and Digital Government Group (SNDGG)
+
+To complement the GTbA, the Government
+
+supports the implementation of IM8 security
+
+will operationalise the Government
+
+controls by providing consultancy services and
+
+Cybersecurity Operations Centre (GCSOC)
+
+deploying Chief Information Security Officers
+
+that can provide real-time monitoring,
+
+(CISOs) across Government. The Government
+
+increase Government’s situational
+
+also conducts regular penetration testing on
+
+awareness, and allow a more rapid and
+
+government systems as part of the IM8 audit,
+
+accurate incident response.
+
+identifying vulnerabilities to be addressed
+
+before potential exploitation.
+
+Raise the level of cybersecurity competency across Government
+
+### The Government Bug Bounty Programme and Vulnerability Disclosure Programme
+
+As we become more reliant on
+
+The Government Bug Bounty Programme (GBBP) is
+
+digital systems, the Government
+
+a programme that invites established cybersecurity
+
+must ensure that public officers
+
+researchers to conduct targeted assessments on
+
+are well equipped with the
+
+critical government systems with a bounty reward
+
+skills and knowledge to keep
+
+for critical vulnerabilities discovered. On the other
+
+themselves cyber safe. The
+
+hand, the Vulnerability Disclosure Programme (VDP)
+
+Government will also develop
+
+is a crowdsourcing platform for the public to identify
+
+a Cybersecurity Functional
+
+and report vulnerabilities in government internet-
+
+Competency Framework to
+
+facing mobile and web-based applications. Through
+
+provide clear development
+
+this platform, SNDGG encourages responsible
+
+milestones for government
+
+reporting of any suspected vulnerability while
+
+cybersecurity specialists.
+
+strengthening the sense of collective ownership over
+
+In addition, SNDGG has
+
+the cybersecurity of government systems.
+
+launched the GovTech Digital
+
+Academy that will provide
+
+Building on the success of the GBBP and VDP, SNDGG
+
+customised cybersecurity
+
+launched the new Vulnerability Rewards Program
+
+training programmes for ICT&SS
+
+(VRP) in 2021. Together, the three crowdsourced
+
+professionals in Government.
+
+vulnerability discovery programmes supplement
+
+Govtech’s suite of initiatives to safeguard
+
+Government systems.
+
+Vulnerability Rewards
+
+Vulnerability Disclosure
+
+Programme (VRP)
+
+Programme (VDP)
+
+Safeguard important entities and systems beyond CIIs
+
+### With increasing reliance on digital infrastructure and services, the Government must
+
+look beyond CIIs to support the cybersecurity of other entities, especially if their disruption will have significant knock-on effects to the rest of Singapore. We will
+
+also address the risks of new digital operating models, so that Singaporeans can confidently unlock the benefits of new technologies with peace of mind.
+
+### Raise cybersecurity posture of important systems and entities beyond CIIs — Address cybersecurity risks arising from new digital operating models
+
+While cyber regulations around the world are
+
+Digital technologies will always evolve,
+
+largely focused on preventing the disruption
+
+and we must be ready to adapt to the
+
+of essential services, there are some
+
+new operating models that emerge as
+
+systems and entities that do not deliver
+
+a result. For example, cloud services
+
+essential services but can nevertheless
+
+are increasingly important for the
+
+have a significant impact on Singapore if
+
+provision of digital services supporting
+
+disrupted or compromised. In this regard,
+
+key business functions and operations.
+
+we must likewise raise their cybersecurity
+
+The Government will study the public
+
+posture to protect that our digital economy
+
+policy implications of emerging digital
+
+and way of life. The Government will study
+
+operating models and seek to address
+
+the wider digital landscape and ensure that
+
+the risks as appropriate.
+
+these significant systems and entities are
+
+adequately protected against malicious
+
+cyber threats.
+
+## CHAPTER 2: ENABLE A SAFER CYBERSPACE
+
+GOAL
+
+### Create a cleaner and healthier digital environment
+
+Digitalisation has changed the way we live, work, and play. Cybersecurity is a
+
+key enabler for Singaporeans to digitalise confidently and safely.
+
+Our goal is to create a healthy digital environment. Just as how good
+
+physical hygiene goes a long way to keep us healthy, a cleaner digital
+
+environment and good cyber hygiene practices will help keep us
+
+safe in the digital world. In 2020, the Government launched the Safer
+
+Cyberspace Masterplan, which articulated our approach to creating
+
+a clean and healthy digital environment. The Masterplan remains
+
+relevant to Strategy 2021.
+
+Scan to read the Safer Cyberspace Masterplan
+
+### WHAT’S NEW?
+
+Strategy 2016 had sought to raise awareness and encourage adoption of good cyber hygiene. Despite the high level of awareness of the need for cybersecurity,
+
+adoption of cyber safe practices amongst enterprises and individuals remains low.
+
+### As articulated in the Safer Cyberspace Masterplan, the Government seeks to raise — the general level of cybersecurity in Singapore by: — Offering cybersecurity to the masses
+
+The Government will protect our national
+
+Internet infrastructure such that enterprises and
+
+individuals in Singapore are protected from most
+
+online threats ever reaching them.
+
+### Simplifying cybersecurity for end-users
+
+The Government will make the adoption of
+
+cybersecurity solutions easy and convenient.
+
+The Government will also work with the industry
+
+to develop innovative cybersecurity solutions
+
+for end-users to plug and play.
+
+### Everyone has a role to play in enabling a safer cyberspace. The Government — will champion the effort but enterprises, individuals and the wider community
+
+must also come on board. Together, we can work towards securing the digital infrastructure, devices, and applications that powers our digital economy;
+
+safeguarding our cyberspace activities; and empowering our cyber-savvy population for a healthy digital way of life.
+
+Secure digital infrastructure, devices, and applications that power our digital economy
+
+### Apart from securing key digital infrastructure as mentioned in Chapter 1, we can — protect Singapore and Singaporeans by minimising vulnerabilities in our Internet
+
+architecture. However, not all threats can be detected or prevented at the national level. We will also empower individuals to secure their devices and work with
+
+enterprises to strengthen the security of their applications.
+
+### Protect Singapore’s Internet infrastructure — Safeguard enterprise applications — Secure user devices and endpoints
+
+The Government can
+
+Vulnerabilities are
+
+Applications are the interface
+
+provide an additional
+
+commonly found in devices
+
+between the user and
+
+layer of protection to all
+
+and endpoints. Due to the
+
+cyberspace. Malicious actors
+
+Singaporeans by securing
+
+competitive ICT market,
+
+can leverage vulnerabilities
+
+our national Internet
+
+many manufacturers
+
+in applications to access
+
+infrastructure. For example,
+
+often prioritise features,
+
+users’ sensitive information.
+
+the Government is working
+
+usability, or cost over the
+
+To incentivise Software-as-
+
+with the Internet Service
+
+security of the device. The
+
+a-Service (SaaS) platforms
+
+Providers to implement
+
+Government is encouraging
+
+to develop more secure
+
+the Domain Name System
+
+businesses to invest in the
+
+applications, we will be
+
+Security Extension
+
+security of their products.
+
+looking into initiatives such
+
+(DNSSEC) protocol across
+
+For example, we launched
+
+as labelling schemes for
+
+local Internet domains. This
+
+the Cybersecurity Labelling
+
+SaaS products. We will also
+
+augments the security of the
+
+Scheme in 2020, which
+
+strengthen our partnership
+
+Internet, thereby preventing
+
+allows consumers to easily
+
+with the private sector,
+
+cyber threats from ever
+
+assess the level of security
+
+which manages most digital
+
+reaching end-users.
+
+of a smart device.
+
+applications, to ensure that
+
+their products are secure.
+
+### Safeguard our cyberspace activities
+
+A cyber breach is a matter of when, not if. We must therefore be able to quickly
+
+detect and remediate such breaches. As mentioned in Chapter 1, the Government will
+
+strengthen capabilities to protect, detect, respond, and recover from malicious cyber activities. We will also enable enterprises to protect themselves against cyber threats
+
+and support them to put in place baseline standards of data protection.
+
+### Enable enterprises to protect themselves against cyber threats — Support organisations to put in place baseline standard of data protection
+
+The Government will enhance our offering of
+
+The Government will support enterprises by
+
+tools and self-help platforms for enterprises to
+
+making cybersecurity resources available
+
+strengthen data protection. The Government
+
+— from free self-help tools to cost-effective
+
+will also work with the industry to provide data
+
+solutions provided in partnership with the
+
+protection services such as Data Protection-
+
+cybersecurity industry. For example, as we
+
+as-a-Service for Small and Medium Enterprises
+
+become more reliant on mobile devices
+
+(SMEs). This will provide SMEs with limited
+
+for work and leisure, cyber criminals will
+
+resources the support they need to meet data
+
+also increasingly target these devices. The
+
+protection requirements.
+
+Government will work with the industry
+
+to develop a mobile endpoint solution for
+
+citizens to secure their mobile phone from
+
+threats, while upholding personal privacy.
+
+### Using data and artificial intelligence responsibly
+
+The Government is committed to
+
+and two volumes of Compendium of
+
+supporting our enterprises to use data
+
+Use Cases. IMDA and PDPC have also
+
+responsibly to derive business value.
+
+developed a draft AI governance testing
+
+framework and are working with like-
+
+The Better Data Driven Business (BDDB)
+
+minded partners to make this a Minimum
+
+programme provides free tools and
+
+Viable Product (MVP). It is envisioned that
+
+guidance to help enterprises better
+
+this MVP will support industry in meeting
+
+safeguard their customers’ personal
+
+the specifications of key AI governance
+
+data while using data effectively to
+
+frameworks, such as those from European
+
+remain competitive. The BDDB aims
+
+Union, the OECD, and Singapore.
+
+to support SMEs that are new to data
+
+analysis, as well as SMEs looking to
+
+leverage data for more complex use
+
+Better Data Driven Business
+
+cases. The BDDB will also be a one-stop
+
+shop for guidance on data protection
+
+practices, as well as professional data
+
+protection services for enterprises.
+
+The Infocomm Media Development
+
+Authority (IMDA) and the Personal
+
+Data Protection Commission (PDPC)
+
+Model AI Governance
+
+have also been guiding industry in
+
+Testing Framework
+
+developing and deploying trustworthy
+
+artificial intelligence (AI) systems.
+
+Past initiatives include the Model
+
+AI Governance Framework, the
+
+Implementation and Self-Assessment
+
+Guide for Organisations (ISAGO),
+
+### Empower our cyber-savvy population for a healthy digital way of life
+
+A lack of awareness or lax attitudes towards cybersecurity among end-users can be the Achilles’ heel of even the most secure systems. To empower our population
+
+to take charge of their online safety, we will raise awareness and change attitudes on cybersecurity and promote adoption of good cyber practices.
+
+### Raise awareness and change attitudes on cybersecurity — Promote adoption of good cyber practices
+
+The Government will roll out national
+
+In addition to raising awareness, the
+
+cybersecurity awareness campaigns to
+
+Government will support and encourage
+
+drive greater awareness and encourage
+
+individuals and enterprises to protect
+
+adoption of good cyber hygiene practices.
+
+themselves online. For example,
+
+The Government will also organise targeted
+
+CSA’s Go Safe Online portal provides
+
+outreach for specific segments of the
+
+actionable advice and tips for the public
+
+population such as students, working adults,
+
+and enterprises. CSA will also launch a
+
+and seniors. We will do this in collaboration
+
+voluntary SG Cyber Safe Trustmark and
+
+with the private sector to expand our reach.
+
+cyber hygiene mark for enterprises. The
+
+marks will allow enterprises to have a
+
+clear picture of their cybersecurity level,
+
+and reassure their customers that their
+
+systems are secure.
+
+### Working together to strengthen our collective — cyber resilience
+
+The Government undertakes regular
+
+The Government also raises awareness
+
+campaigns to raise awareness on
+
+amongst the more vulnerable groups
+
+cybersecurity and combat cybercrime.
+
+of the population. The SG Cyber Safe
+
+For example, CSA launched the “Better
+
+Seniors Programme that was launched
+
+Cyber Safe than Sorry” campaign in
+
+by CSA, SPF, and IMDA in 2021 aims to
+
+June 2021 to promote and encourage the
+
+reach 50,000 seniors over two years.
+
+adoption of good cyber hygiene practices.
+
+The programme will cover topics such
+
+The Singapore Police Force (SPF) also
+
+as cyber threats, online scams, and
+
+organises a nationwide anti-scam public
+
+cyber tips in four languages through
+
+education campaign annually.
+
+webinars, publications and face-to-
+
+face engagements. The Government
+
+also reaches out to students through
+
+programmes such as the National
+
+Police Cadet Corps (NPCC) Cybercrime
+
+Prevention Programme and the
+
+SG Cyber Safe Students Programme.
+
+Private sector stakeholders play an
+
+important role. To tackle cybercrime,
+
+the SPF established the Alliance of
+
+Public Private Cybercrime Stakeholders
+
+(APPACT) in 2017. APPACT has since
+
+grown to a 59-member strong alliance
+
+across nine industries, including
+
+CSA’s “Better Cyber Safe than Sorry” Campaign
+
+banks, e-commerce, and social media
+
+platforms. The SPF conducts regular
+
+outreach and discussions with APPACT
+
+partners to chart new ways to tackle
+
+cybercrime. With APPACT members’
+
+efforts and vigilance in preventing and
+
+detecting cybercrime, there have been
+
+numerous success stories arising from
+
+the close partnerships forged via this
+
+The NPCC Cybercrime Prevention Programme
+
+public-private industry platform.
+
+(photo taken before COVID-19)
+
+### SG Cyber Safe Trustmark and cyber hygiene mark
+
+Cybersecurity can be a competitive
+
+For smaller enterprises that
+
+advantage. Businesses are digitalising
+
+may not have dedicated IT or
+
+faster than ever; cybersecurity will be
+
+cybersecurity expertise, CSA
+
+key to securing the trust of consumers,
+
+is developing a separate cyber
+
+especially given the increasing
+
+hygiene mark. This cyber hygiene
+
+frequency of cyber breaches.
+
+mark is designed to be practical
+
+and implementable, focusing
+
+CSA is introducing a voluntary SG
+
+on basic cyber hygiene, so that
+
+Cyber Safe Trustmark, which will
+
+businesses are better protected
+
+serve as a mark of distinction to
+
+from common cyberattacks.
+
+recognise companies with good
+
+cybersecurity measures. This will
+
+Both the Trustmark and
+
+allow customers to make an informed
+
+cyber hygiene mark are being
+
+choice on the companies to engage,
+
+developed in consultation with
+
+based on their cybersecurity posture.
+
+industry practitioners.
+
+## CHAPTER 3: ENHANCE INTERNATIONAL CYBER COOPERATION
+
+GOAL
+
+### Foster an open, secure, stable, accessible, peaceful, and interoperable cyberspace
+
+Cyber threats are international and cross-border.
+
+We have seen significant cyberattacks spill over country lines,
+
+from the SolarWinds breach, to the Kaseya Virtual System
+
+Administrator (VSA) attack.
+
+A resilient infrastructure and a safer cyberspace support our
+
+domestic resilience against cyber threats. However, we also need
+
+to engage and collaborate with our international partners to work
+
+towards the longer-term objective of a rules-based multilateral
+
+order in cyberspace, and develop mechanisms and policies to
+
+raise the global baseline level of cybersecurity.
+
+### WHAT’S NEW?
+
+The implementation of Strategy 2016 saw Singapore step up our participation in international cyber policy discussions. We have strengthened collaboration
+
+### with our Association of Southeast Asian Nations (ASEAN) counterparts to
+
+improve the collective cybersecurity of the region and forged strong bilateral cybersecurity partnerships with other international partners.
+
+### As cybersecurity gains traction in global conversations, Singapore will raise — our level of participation in international cyber policy discussions further by: — Advocating a rules-based multilateral order in cyberspace and an interoperable ICT environment
+
+As a small State, Singapore firmly supports the establishment of a
+
+rules-based multilateral order. Developing and implementing voluntary
+
+and non-binding norms are important steps toward this objective.
+
+We must help develop and abide by rules that all States agree to
+
+follow, which in turn guide responsible State behaviour in cyberspace.
+
+### Raising the global baseline level of cybersecurity
+
+We want to support the global effort to raise the capacities
+
+of States to protect themselves against cyber threats. We
+
+also want to encourage the development and implementation
+
+of cybersecurity standards such that a minimum level of
+
+cybersecurity exists in the ICT products and services we use.
+
+### To foster an open, secure, stable, accessible, peaceful, and interoperable
+
+cyberspace, Singapore will advance the development and implementation of cyber rules, norms, principles, and standards. We will also strengthen
+
+the global cybersecurity posture and contribute to international efforts to combat cross-border cyber threats and cybercrime.
+
+### Advance the development and implementation of voluntary, non-binding norms, which sit alongside international law — UN CHARTER
+
+Strategy 2021 seeks to build on the progress made by the international community.
+
+We will advance the development of cyber norms and affirm the applicability of international law in cyberspace. We will also work with partners to implement
+
+these cyber norms.
+
+### Advance international cyber norms discussions and the understanding of the application of international law in cyberspace — Work with partners to implement cyber norms
+
+In 2018, ASEAN became the first regional
+
+organisation to subscribe in-principle
+
+to the 11 voluntary, non-binding norms
+
+The United Nations (UN) is an important platform
+
+of responsible State behaviour in
+
+that offers all countries an opportunity to engage
+
+cyberspace. As part of ASEAN’s next
+
+in and develop rules, norms, principles, and
+
+steps, Singapore is working with partners
+
+standards. Singapore has participated actively
+
+such as the UN Office of Disarmament
+
+in international discussions at the UN, such as
+
+Affairs (UNODA) and Malaysia to develop
+
+the UN Group of Governmental Experts. At these
+
+a regional action plan to implement these
+
+platforms, Singapore has affirmed that international
+
+norms. Under the UN-Singapore Cyber
+
+law, in particular the Charter of the UN, applies
+
+Programme, we will also work with our
+
+to cyberspace, and underscored the centrality
+
+ASEAN and global partners to develop a
+
+of States’ adherence to the cyber normative and
+
+Norms Implementation Checklist – akin to
+
+stability framework. Going forward, Singapore
+
+a set of actions that countries could take
+
+will actively seek to contribute and move these
+
+to implement these norms.
+
+discussions forward. For example, Singapore will be
+
+chairing the Open-Ended Working Group on Security
+
+of and in the Use of ICTs (2021–2025).
+
+### Singapore International Cyber Week and the ASEAN Ministerial Conference on Cybersecurity
+
+The 5th ASEAN Ministerial Conference on Cybersecurity (AMCC) in 2020
+
+Recognising the need to forge deeper public-private partnerships,
+
+Singapore has facilitated multi-stakeholder dialogues on cybersecurity
+
+through hosting the annual Singapore International Cyber Week (SICW)
+
+since 2016. SICW brings together international and regional policy makers,
+
+industry partners, and academia to discuss cross-cutting cybersecurity
+
+issues. Singapore also hosts the ASEAN Ministerial Conference on
+
+Cybersecurity (AMCC), chaired by Singapore’s Minister-in-charge of
+
+Cybersecurity, on the side lines of SICW. The AMCC serves as a non-
+
+formal platform that brings together the ASEAN Secretary General and
+
+ASEAN Ministers of Telecommunications and/or Cybersecurity to discuss
+
+cybersecurity issues affecting our region and beyond.
+
+Singapore International Cyber Week’s Official Webpage
+
+Strengthen the global cybersecurity posture through capacity-building initiatives and the development of technical and interoperable cybersecurity standards
+
+### Apart from the development and implementation of cyber norms, it is important that
+
+States work together to raise the global baseline level of cybersecurity. To this end,
+
+Singapore will support capacity-building initiatives and promote the development of technical and interoperable cybersecurity standards for products and services.
+
+### Support capacity building for a secure and stable cyberspace — Promote the development and adoption of objective technical cybersecurity standards
+
+In the hyper-connected cyberspace, we
+
+Singapore recognises that standards and
+
+are only as strong as our weakest link. As
+
+certifications are important tools to help raise
+
+global discussions on cybersecurity expand
+
+the cybersecurity baseline of products and
+
+beyond traditional cybersecurity topics
+
+services in the market. Singapore is committed
+
+into emerging technologies and digital
+
+to the development and adoption of technical
+
+security, there is a need for capacity building
+
+and interoperable cybersecurity standards
+
+to support nations in responding to the
+
+internationally. We will build on existing efforts
+
+changing cyber threat landscape. Singapore
+
+such as the Common Criteria, an international
+
+will work closely with our ASEAN Dialogue
+
+standard that allows for mutual recognition of
+
+Partners, industry and academic partners.
+
+secure IT products. Singapore is also working
+
+towards the mutual recognition of local
+
+schemes like CSA’s Cybersecurity Labelling
+
+Scheme to improve the security of consumer
+
+IoT products globally.
+
+### ASEAN-Singapore Cybersecurity Centre of Excellence
+
+The ASEAN-Singapore Cybersecurity
+
+Centre of Excellence (ASCCE) was
+
+launched in 2019 as part of the ASEAN
+
+Cyber Capacity Programme to support
+
+a coordinated build-up of cyber policy,
+
+operational, and technical capacities
+
+amongst senior ASEAN officials. The
+
+campus officially opened in October 2021.
+
+With a funding commitment of S$30
+
+million, the ASCCE engages top
+
+cybersecurity experts and trainers
+
+to design and deliver cybersecurity
+
+capacity-building programmes, in
+
+collaboration with ASEAN Member
+
+States (AMS), ASEAN Dialogue Partners,
+
+international partners, and the UNODA.
+
+The ASCCE has three principal functions.
+
+First, it conducts research and provides
+
+training on cybersecurity strategy,
+
+The ASCCE campus
+
+legislation, and implementation of
+
+international cyber norms. Second, the
+
+for delivery on digital platforms. In
+
+ASCCE provides training for Computer
+
+2020, the ASCCE trained over 300 AMS
+
+Emergency Response Teams (CERTs),
+
+officials through seven virtual capacity-
+
+focusing on technical skills and
+
+building programmes.
+
+information sharing. Third, in partnership
+
+with Temasek Polytechnic, ASCCE
+
+provides participants with hands-on
+
+Looking ahead, the ASCCE will continue
+
+practicals through virtual cyber defence
+
+to be responsive to the region’s capacity
+
+training and exercises.
+
+building needs, providing programming in
+
+line with the changing digital landscape
+
+While the COVID-19 pandemic halted in-
+
+to equip officials with the capacities to
+
+person capacity-building initiatives, the
+
+strengthen cybersecurity in ASEAN
+
+ASCCE has adapted our programmes
+
+and beyond.
+
+Contribute to international efforts to combat cross-border cyber threats
+
+### Even as we work towards a rules-based multilateral order in cyberspace and
+
+raise the global baseline level of cybersecurity, cyberattacks will inevitably happen from time to time. Examples such as the 2021 Microsoft Exchange Server
+
+breach demonstrate that cyber threats are not confined within geographical boundaries. Bilateral and multilateral operational cooperation are thus key
+
+to share timely information and respond to these incidents swiftly.
+
+### Maintain robust bilateral cybersecurity ties with key countries — Strengthen multilateral cooperation to tackle cross-border cyber challenges
+
+Building on existing partnerships and
+
+Singapore will strengthen multilateral
+
+bilateral agreements, Singapore will
+
+cooperation with our regional and international
+
+enhance our engagements with key
+
+partners. Today, Singapore participates
+
+international partners through regular
+
+actively in various international CERT networks
+
+dialogues to facilitate the sharing of
+
+and work closely with CERT counterparts
+
+operational and technical information.
+
+to investigate cyber incidents and mitigate
+
+Beyond operational cooperation,
+
+cyber threats. We also work closely with
+
+Singapore is also looking to exchange
+
+INTERPOL as well as private sector partners to
+
+best practices in cyber policy, ecosystem,
+
+combat cross-border cybercrime. Regionally,
+
+and workforce development with our
+
+Singapore conducts the annual ASEAN Cyber
+
+counterparts, and coordinate our
+
+Incident Drill (ACID) and is part of the ASEAN
+
+capacity-building efforts to strengthen
+
+Information Exchange Mechanism. Singapore
+
+global cybersecurity.
+
+will build on these efforts and work more
+
+closely with our partners to collectively combat
+
+cross-border cyber threats.
+
+### ASEAN CERT and ASEAN Information — Exchange Mechanism
+
+The ASEAN CERT will be a mechanism
+
+ASEAN CERT Information Exchange
+
+to tighten coordination and enhance
+
+Mechanism. This initiative will
+
+collaboration as listed in the ASEAN
+
+further support the ASEAN CERT-
+
+Cybersecurity Cooperation Strategy
+
+CERT cooperation to bolster the
+
+2017–2020. With Singapore as the
+
+effectiveness of regional incident
+
+lead, ASEAN is currently studying the
+
+response capabilities. It will also
+
+implementation of the ASEAN CERT.
+
+facilitate future exchanges amongst
+
+all CERTs in ASEAN and coordinate
+
+In addition, the first ASEAN Digital
+
+CERT capacity-building programmes
+
+Ministers’ Meeting in January 2021
+
+in the region through the ASCCE.
+
+approved the establishment of an
+
+## CHAPTER 4: DEVELOP A VIBRANT CYBERSECURITY ECOSYSTEM
+
+GOAL
+
+### Build a cybersecurity ecosystem underpinned by research and innovation for our security and economic needs — A vibrant cybersecurity ecosystem lays the
+
+foundation for protecting Singapore from cyber threats in the longer term. It also strengthens
+
+### Singapore’s position as a trusted global business — hub and provides economic opportunities for
+
+Singaporeans and Singapore-based companies.
+
+For Singapore to be a global leader in cybersecurity, the Government,
+
+industry, and academia will have to work closely together. We hope
+
+to grow and nurture an ecosystem of cybersecurity companies,
+
+innovators, and researchers, who can build and develop advanced
+
+cybersecurity capabilities and best-in-class products and services
+
+of high economic value.
+
+### WHAT’S NEW?
+
+Strategy 2016 was successful in laying the foundations for a local cybersecurity ecosystem of companies. We have catalysed the development of several Made-in-
+
+Singapore solutions and supported individuals and start-ups in establishing and scaling up their businesses.
+
+### In Strategy 2021, we will take further steps to: — Position Singapore as a trusted tech hub — Leverage research and innovation as a competitive advantage
+
+We want to establish ourselves as an internationally
+
+We want to be at the forefront of cybersecurity
+
+recognised and trusted Testing, Inspection, and
+
+research and development (R&D) to keep
+
+Certification (TIC) hub. Having strong security
+
+pace with the rapidly evolving technological
+
+evaluation and testing capabilities will help bolster
+
+landscape and leverage new technologies to
+
+the SG Digital Economy brand.
+
+stay ahead of malicious cyber actors.
+
+### The cybersecurity industry and academia are key stakeholders in this national — effort. The Government will work closely with them to develop advanced
+
+capabilities, encourage industry innovation to build world-class products and services, and support the growth of the cybersecurity market.
+
+Develop advanced capabilities for economic growth and national security
+
+### To ensure the availability of cutting-edge capabilities amidst rapid technology — change, the Government will actively facilitate the translation of research findings
+
+into commercial products, while supporting the development of our local R&D ecosystem. We will also invest in and build deep cybersecurity capabilities for our
+
+national security needs, both within Government and with industry partners.
+
+### Translate research into innovative and economically viable products — Build up deep cybersecurity capabilities in Institutes of Higher Learning, the Government, and industry partners
+
+The Government will continue to work
+
+To support our national cybersecurity needs,
+
+with researchers and end-users to shape
+
+the Government will be investing more in
+
+the direction of cybersecurity R&D, such
+
+the development of deep cybersecurity
+
+that research conducted can be directly
+
+capabilities. The Government also
+
+applied to solve real-world challenges. We
+
+recognises that such investment can benefit
+
+will also be working closely with industry to
+
+the local cybersecurity industry’s capability
+
+translate research findings into commercial
+
+development. The Government will therefore
+
+products to meet our security and economic
+
+catalyse deep capability build-up in the local
+
+objectives. We will seek to include end-
+
+cybersecurity industry, especially in areas
+
+users early in the R&D process, and grow
+
+that are of strategic value to Singapore’s
+
+the number of collaborations between
+
+cyber defence, by working with selected
+
+academia and the cybersecurity industry
+
+industry partners. This is augmented by
+
+to create more pathways for research
+
+ongoing efforts to attract top international
+
+translation. The National Cybersecurity R&D
+
+companies with deep cybersecurity
+
+Programme (NCRP) will be a key vehicle for
+
+capabilities to set up engineering or R&D
+
+the implementation of these policies.
+
+facilities in Singapore.
+
+### Innovate to build world-class products and services
+
+We hope to foster innovation that pushes the boundaries of cybersecurity products and services. We will achieve this by supporting industry innovation with targeted
+
+government initiatives. We will also support the growth of cyber entrepreneurs and
+
+start-ups in Singapore. Looking beyond our shores, we aspire for our enterprises
+
+to develop cybersecurity products that are recognised internationally.
+
+### Support industry innovation — Support growth of cyber start-ups
+
+Given the rapidly evolving cyber threat
+
+Apart from supporting established
+
+landscape, cybersecurity firms need to
+
+cybersecurity firms, it is also important to
+
+constantly innovate and invest in new
+
+encourage budding cyber entrepreneurs
+
+solutions to stay ahead of the curve. The
+
+and start-ups. The Innovation Cybersecurity
+
+Government will strengthen support for
+
+Ecosystem at Block 71 (ICE71) is one such
+
+industry-led innovation in cybersecurity.
+
+initiative. ICE71 programmes provide support
+
+For example, the Cybersecurity Industry
+
+for innovators and startups at all growth
+
+Call for Innovation encourages companies
+
+stages. This includes community outreach
+
+to innovate and address pressing
+
+and entrepreneurship programmes to engage
+
+cybersecurity challenges by matching
+
+the cybersecurity ecosystem community and
+
+them with key local users, such as CII
+
+promote collaboration between stakeholders.
+
+owners, who may have specific operational
+
+We will build on our programmes to encourage
+
+needs. This initiative also helps provide
+
+entrepreneurship, including developing the
+
+opportunities for local companies to tap
+
+next phase of ICE71.
+
+into Singapore’s growing cybersecurity
+
+market and drive demand in our local
+
+cybersecurity industry.
+
+### National Integrated Centre for Evaluation
+
+The National Integrated Centre for Evaluation
+
+(NICE) is a one-stop facility for security
+
+evaluation and testing of products. It will also be
+
+a platform for the local community to develop
+
+their skills in this domain.
+
+NICE seeks to achieve the following objectives:
+
+• To seed a community of practice for
+
+Develop cybersecurity products that are recognised internationally product evaluation and certification in
+
+Singapore, NICE will improve access to
+
+advanced equipment required for security
+
+evaluation at the highest assurance level.
+
+To enhance the recognition of local
+
+• To support the growth of the local
+
+security products in the global
+
+marketplace, we need to ensure that
+
+cybersecurity TIC industry, NICE will
+
+these products meet the relevant
+
+provide opportunities for cybersecurity
+
+international standards. Singapore has
+
+practitioners to research and train on
+
+implemented the Singapore Common
+
+advanced security evaluation techniques.
+
+Criteria Scheme which evaluates
+
+• To build up local product evaluation
+
+and certifies IT products against
+
+the international Common Criteria
+
+expertise, NICE will support training
+
+standard. We have also established the
+
+courses and internships for students
+
+Cybersecurity Labelling Scheme for
+
+and professionals to learn more about
+
+consumer smart devices. We will expand
+
+security evaluation methodologies and
+
+these schemes and make it easier for
+
+certification processes.
+
+companies to submit their products for
+
+security evaluation and testing. Building
+
+on these achievements, we seek to
+
+develop a thriving local TIC ecosystem
+
+that is internationally recognised.
+
+CSA’s Cybersecurity Certification Guide
+
+### Grow our cybersecurity market
+
+We seek to grow the market for Made-in-Singapore cybersecurity products and services. We will do so by supporting user adoption to drive demand for
+
+cybersecurity solutions. We will also encourage Singapore-based companies to
+
+internationalise and export their products and services.
+
+### Encourage adoption of cybersecurity solutions — Internationalise our cybersecurity companies
+
+Supporting user adoption helps build
+
+Local companies should not limit themselves
+
+a steady demand for cybersecurity
+
+to the Singapore market and look to expand
+
+solutions. The Government will encourage
+
+into new markets to capture the growing
+
+user adoption by making cybersecurity
+
+global and regional demand for cybersecurity
+
+solutions more accessible. Today, SMEs
+
+products and services. The Government
+
+are already eligible for subsidised pre-
+
+is looking to support promising local
+
+approved cybersecurity solutions under
+
+cybersecurity companies to expand overseas
+
+the SMEs Go Digital programme. For larger
+
+and export Made-in-Singapore solutions.
+
+enterprises and organisations with specific
+
+For instance, the Government will curate,
+
+cybersecurity needs, the Government will
+
+organise, and support these cyber companies
+
+play a facilitative role to match supply with
+
+in profiling their solutions internationally.
+
+demand for more sophisticated solutions,
+
+given that end-users may not always be
+
+familiar with the wide range of cybersecurity
+
+solutions in the market.
+
+## CHAPTER 5: GROW A ROBUST CYBER TALENT PIPELINE
+
+SKILLS SKILLS
+
+GOAL
+
+### Develop and sustain a strong cybersecurity workforce to meet our security and economic needs — The successful execution of our
+
+cybersecurity strategy ultimately hinges on our people and talent.
+
+The breadth and depth of cybersecurity responsibilities for the Government, enterprises, and organisations will continue to grow. Amidst an ever-evolving technological landscape, we will need to groom new talent and upskill existing professionals to achieve the objectives discussed in the earlier chapters.
+
+It is therefore critical for Singapore to strengthen the cybersecurity talent pipeline. We can do so by leveraging our strong education system to grow a skilled cybersecurity workforce. This will enhance Singapore’s competitive advantage, especially amidst a global shortage of cybersecurity professionals.
+
+### WHAT’S NEW?
+
+Strategy 2016 had sought to ensure an adequate and well-trained cybersecurity workforce in light of growing demand for cybersecurity manpower. We have made
+
+good progress. Based on the 2020 Infocomm Media Development Authority (IMDA)
+
+### Survey on Infocomm Media Manpower, there were more than 10,700 cybersecurity
+
+professionals in Singapore in 2020, up from around 6,000 cybersecurity professionals in 2018.
+
+### In Strategy 2021, we will take further steps to: — Move upstream to engage talent
+
+We want to reach out to the young to develop their
+
+interest and cyber skills, and encourage more youths to
+
+pursue a career in cybersecurity.
+
+### Strengthen our cyber workforce
+
+We want to make sure that cybersecurity professionals
+
+have access to training resources and opportunities to
+
+keep pace with the ever-evolving cyber threat landscape.
+
+Industry partners, IHLs, and professional associations are key partners to achieve these goals. Building on Singapore’s strong education system, the Government will
+
+work with all stakeholders to support youths, women, and mid-career professionals to pursue a cybersecurity career. To ensure that our cybersecurity workforce is well
+
+equipped with the requisite skills and knowledge, we will create an upskilling culture and foster a dynamic sector with strong professional communities.
+
+### JOIN OUR CAUSE IN PROTECTING SINGAPORE
+
+010001111001001 01001000010101 001010111000101 00101000010100
+
+### SG Cyber Youth — Support youths, women, and mid-career professionals to pursue a cybersecurity career
+
+SG Cyber Youth is a national
+
+programme that guides youths in their
+
+cybersecurity journey, with support
+
+from the academia, community,
+
+and industry. A key initiative is the
+
+Youth Cyber Exploration Programme
+
+that introduces pre-tertiary
+
+students to the fundamentals of
+
+The growth of a capable and competent workforce
+
+cybersecurity and cultivates their
+
+is sustained by attractive career prospects and
+
+interest in a cybersecurity career.
+
+a respected professional status. We will build
+
+The Cybersecurity Career Mentoring
+
+Programme (CCMP) also provides
+
+on existing initiatives to attract more talented
+
+career guidance and support from
+
+individuals to the cybersecurity profession.
+
+industry mentors. Other initiatives
+
+We will also nurture young Singaporeans’ interest
+
+include the Student Volunteer &
+
+in cybersecurity and engage under-represented
+
+Recognition Programme (SVRP) and
+
+groups in the cybersecurity profession.
+
+Cybersecurity Learning Journeys.
+
+Through the various programmes, we
+
+will identify a pool of local youths with
+
+Interest and enable youths to pursue cyber as a career exceptional cybersecurity talent, who
+
+will be groomed under the SG Cyber
+
+Olympians programme through cyber
+
+sparring sessions, deeper training,
+
+We seek to attract promising youths to the
+
+and international competitions.
+
+cybersecurity industry to build a pipeline of local
+
+talents for the longer-term. The Government will
+
+work closely with schools and other partners to
+
+SG Cyber Youth
+
+engage youths through cybersecurity bootcamps,
+
+competitions, learning journeys, and career
+
+mentoring. In addition, the Government will equip
+
+school teachers and career counsellors with
+
+knowledge of the cybersecurity sector to guide
+
+students in their career choices under the SG
+
+Cyber Educators initiative. Selected male youth
+
+Join the mailing list:
+
+with aptitude and interest for cybersecurity can
+
+also serve their National Service under the Cyber
+
+Work-Learn scheme. This will further enhance the
+
+talent pipeline with continued skills development
+
+and hands-on experience.
+
+### SG Cyber Women — Attract diverse talent
+
+Apart from youths, the Government
+
+is also looking to attract
+
+more women and mid-career
+
+professionals from adjacent fields to
+
+join the cybersecurity industry. We
+
+will work closely with industry and
+
+international partners to encourage
+
+girls to take up cybersecurity
+
+Women in Cyber event at SICW 2020
+
+education programmes and inspire
+
+women to take on cybersecurity
+
+roles. We will also encourage
+
+Women remain under-represented in the
+
+mid-career professionals to
+
+cybersecurity profession. In partnership
+
+join the cybersecurity sector
+
+with industry and the local cybersecurity
+
+by leveraging professional
+
+community, CSA launched SG Cyber Women, a
+
+conversion programmes such as
+
+targeted initiative to encourage more women to
+
+the Cyber Security Associates and
+
+pursue a career in cybersecurity.
+
+Technologists programme.
+
+Past programmes that have been organised as
+
+part of SG Cyber Women include the Capture-
+
+The-Flag for Girls competition, Ladies in
+
+Cyber mentorship programme and technical
+
+workshops. In 2020, CSA also launched the SG
+
+Cyber Women X Series, a series of virtual events
+
+in celebration of International Women in Cyber
+
+Day. Women of all ages can participate in these
+
+events to find out more about cybersecurity or
+
+deepen their skills to further their career.
+
+SG Cyber Women
+
+### Create an upskilling culture for a globally competitive workforce
+
+A highly-skilled workforce is crucial to grow the cybersecurity industry, which will be a key sector in Singapore’s economy and digital future. Apart from attracting new talent
+
+to the profession, the Government will partner the industry and IHLs to enhance career pathways and facilitate the development of deep skills. The Government will also raise,
+
+train, and sustain cybersecurity professionals in the public sector.
+
+### Enhance career pathways and facilitate development of deep skills — Raise, train, and sustain cybersecurity professionals in the public sector
+
+The Government will facilitate and guide our
+
+The Government will develop good career
+
+professionals by developing good career pathways
+
+pathways for cybersecurity professionals
+
+and skills training frameworks. For example, the
+
+in the public sector. For example, CSA
+
+Government launched the Skills Framework for ICT
+
+developed the Cyber Security Development
+
+and the OT Cybersecurity Competency Framework,
+
+Programme to train a common pool of
+
+which are tools that enterprises can leverage
+
+cybersecurity experts for the public sector.
+
+to enhance career pathways for cybersecurity
+
+Upon completion of the Programme,
+
+professionals in their organisation. We will also
+
+participants can choose to pursue a career
+
+improve access to training and networking
+
+within the public service or enter the private
+
+opportunities for cybersecurity professionals. Today,
+
+sector. CSA also set up the CSA Academy,
+
+professionals can already tap on training grants to
+
+which provides cybersecurity professionals
+
+upgrade their skills or join programmes such as the
+
+in the Government and CII sectors with
+
+SG Cyber Leaders programme to network with current
+
+niche courses not readily available in the
+
+and future cybersecurity leaders.
+
+training market.
+
+TRAINING
+
+Foster a dynamic sector with strong professional communities
+
+### Support our cybersecurity community and recognise excellence — We have observed a marked improvement in — the standing of cybersecurity professionals
+
+and the emergence of a strong common identity. To build stronger communities of
+
+The cybersecurity industry,
+
+practice and foster trust within the profession,
+
+professional bodies, and academia
+
+the Government will work closely with are key stakeholders in Singapore’s
+
+industry associations to further recognise journey to grow a strong cyber
+
+workforce. Our industry and community
+
+the achievements and contributions of our partners often organise community
+
+cybersecurity community.
+
+events, workshops, conferences, and
+
+programmes that help strengthen
+
+the talent pipeline and develop
+
+our professionals. The Government
+
+will support and recognise these
+
+community efforts. For example, CSA
+
+Receiving Cybersecurity Awards
+
+supports the Cybersecurity Awards,
+
+an annual event that recognises
+
+enterprises and individuals who have
+
+made significant contributions to
+
+the local cybersecurity ecosystem.
+
+Moving forward, the Government will
+
+Marina Bay Sands
+
+strengthen engagement with other
+
+professional bodies such as those for
+
+engineers and software developers,
+
+to encourage them to build secure-by-
+
+design products and services.
+
+## CONCLUSION — The Singapore Cybersecurity Strategy 2021 serves as — a blueprint for Singapore and Singaporeans to secure
+
+our Smart Nation, amidst an ever-evolving cyber threat landscape and emerging digital technologies.
+
+Cybersecurity is our collective responsibility. With everyone doing their part, we can create an open,
+
+## secure, stable, accessible, peaceful, and interoperable
+
+digital environment, and reap the opportunities that digitalisation has to offer.
+
+TERM DEFINITION
+
+Refers to the study and use of intelligent machines to mimic human
+
+Artificial Intelligence (AI)
+
+action and thought.
+
+Refers to all vulnerable resources of a system, or the sum of the points
+
+Attack Surface
+
+through which an attacker could try to enter an environment.
+
+A model for enabling ubiquitous, convenient, and on-demand network
+
+access to a shared pool of configurable computing resources (e.g.
+
+Cloud
+
+networks, servers, storage, applications, and services) that can be
+
+rapidly provisioned and released with minimal management effort or
+
+service provider interaction.
+
+The computer or computer system necessary for the continuous delivery
+
+Critical Information
+
+of an essential service, which the loss or compromise thereof will have a
+
+Infrastructure (CII)
+
+debilitating effect on the availability of essential services in Singapore.
+
+Criminal acts related to the use of computers such as gaining unauthorised
+
+Cybercrime
+
+access to a computer to view, modify or destroy its data.
+
+The complex environment resulting from the interaction of people,
+
+software and services on the Internet by means of technological devices
+
+and networks connected to it, which does not exist in any physical form.
+
+Cyberspace
+
+Singapore’s cyberspace includes domain names with “.SG” or Singapore-
+
+mentions, Internet Protocol (IP) addresses used in Singapore, and
+
+Internet Service Providers (ISPs) located here.
+
+Domain Name System
+
+Refers to the system used to translate readable domain names to IP
+
+(DNS)
+
+addresses.
+
+Refers to the practice of capturing, processing, and analysing data near
+
+Edge Computing
+
+the source of data.
+
+The vast network of everyday objects, such as baby monitors,
+
+Internet of Things (IoT)
+
+printers, televisions, and autonomous vehicles, that are connected
+
+to the Internet.
+
+Programmable systems or devices that interact with the physical
+
+environment or manage devices that interact with the physical
+
+Operational Technology (OT)
+
+environment. Examples include industrial control systems and building
+
+management systems.
+
+An authorised simulated attack on a system to evaluate the efficacy of
+
+Penetration Testing
+
+the security measures in place.
+
+A class of technologies that works by using the principles of quantum
+
+Quantum Technologies
+
+mechanics (the physics of sub-atomic particles). Examples of quantum
+
+technologies include quantum computing and cryptography.
+
+Malware that encrypts files on a victim’s device, rendering them
+
+unusable until a ransom is paid, usually in the form of Bitcoin or other
+
+Ransomware
+
+cryptocurrencies. It may spread through phishing e-mails that contain
+
+malicious attachments or links, or malicious pop-ups that appear when
+
+users access unsafe websites.
+
+An approach to software and hardware development that seeks to
+
+Secure-by-Design
+
+minimise system vulnerabilities and reduce the attack surface, by
+
+designing and building in security at every development phase.
+
+A weakness in an information system, system security procedures,
+
+Vulnerability
+
+internal controls or implementation that could be exploited or triggered
+
+by a threat source.
+
+A security framework requiring all end-users, whether in or outside the
+
+organisation’s network, to be authenticated, authorised, and
+
+Zero-Trust
+
+continuously validated for security configuration and posture before
+
+being granted or keeping access to applications and data.
+
+## Contact Details
+
+If you have any feedback on this publication, or wish to find out more about Singapore’s efforts in cybersecurity, please visit the following websites or contact us:
+
+### Cyber Security Agency of Singapore — Website: — www.csa.gov.sg — General enquiries/feedback: — contact@csa.gov.sg — GoSafeOnline — Website: — www.csa.gov.sg/gosafeonline
+
+If you wish to report a cybersecurity
+
+incident, please contact: If you wish to seek scam-related advice:
+
+SingCERT ScamAlert — Website: — Contact anti-scam helpline: — www.csa.gov.sg/singcert/reporting — 1800 722 6688 — Visit ScamAlert website: — www.scamalert.sg

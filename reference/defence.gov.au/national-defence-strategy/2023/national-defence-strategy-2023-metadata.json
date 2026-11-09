@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/defence.gov.au/national-defence-strategy@2023",
+  "name": "Australian National Defence Strategy & Defence Strategic Review (2023)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2023",
+  "publication_id": "national-defence-strategy-2023",
+  "owner": "Department of Defence (Australia)",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Official 2023 edition of Australian National Defence Strategy & Defence Strategic Review (Australian National Defence Strategy & Defence Strategic Review (2023)), published by Department of Defence (Australia) (defence.gov.au).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Department of Defence (Australia) (defence.gov.au) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Department of Defence (Australia) (defence.gov.au).",
+  "license": {
+    "spdx": "LicenseRef-All-Rights-Reserved",
+    "Grouping": "Public-Release Government / Intergovernmental Strategy",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.defence.gov.au/copyright",
+    "note": "Commonwealth of Australia copyright retained; document explicitly prohibits reproduction, storage, or transmission without prior written permission. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
+    "notes": "Commonwealth of Australia copyright retained; document explicitly prohibits reproduction, storage, or transmission without prior written permission. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.defence.gov.au/about/reviews-inquiries/defence-strategic-review",
+    "textUsed": "https://web.archive.org/web/2id_/https://apo.org.au/sites/default/files/resource-files/2023-04/apo-nid322437.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2023-04-24",
+    "active": false,
+    "supersedes": "secid:reference/defence.gov.au/national-defence-strategy@2020",
+    "supersededBy": "secid:reference/defence.gov.au/national-defence-strategy@2024",
+    "retiredFromActiveUse": "2024-04-17",
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 116-page PDF (https://web.archive.org/web/2id_/https://apo.org.au/sites/default/files/resource-files/2023-04/apo-nid322437.pdf) locally via PyMuPDF (144,488 chars). Parsed 152 sections (14 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

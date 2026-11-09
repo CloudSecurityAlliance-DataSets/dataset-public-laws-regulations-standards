@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/csa.gov.sg/singapore-cybersecurity-strategy@2021",
+  "name": "Singapore Cybersecurity Strategy 2021",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2021",
+  "publication_id": "singapore-cybersecurity-strategy-2021",
+  "owner": "Cyber Security Agency of Singapore",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Singapore Cybersecurity Strategy 2021 (published October 5, 2021). National cybersecurity blueprint published by the Cyber Security Agency of Singapore (CSA), structured around three strategic pillars (Resilient Infrastructure, Safer Cyberspace, International Cyber Cooperation) and two foundational enablers (Vibrant Cybersecurity Ecosystem, Robust Cyber Talent Pipeline).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Cyber Security Agency of Singapore (csa.gov.sg) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Cyber Security Agency of Singapore (csa.gov.sg).",
+  "license": {
+    "spdx": "LicenseRef-All-Rights-Reserved",
+    "Grouping": "Public-Release Government / Intergovernmental Strategy",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.csa.gov.sg/terms-of-use",
+    "note": "Copyright Government of Singapore retained (all rights reserved under Singapore Government Terms of Use; prior written permission required for reproduction or redistribution). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
+    "notes": "Copyright Government of Singapore retained (all rights reserved under Singapore Government Terms of Use; prior written permission required for reproduction or redistribution). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.csa.gov.sg/resources/publications/singapore-cybersecurity-strategy-2021",
+    "textUsed": "https://isomer-user-content.by.gov.sg/36/6318c1f5-3257-4c99-80e5-27339cf41883/The-Singapore-Cybersecurity-Strategy-2021.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2021-10-05",
+    "active": true,
+    "supersedes": "secid:reference/csa.gov.sg/singapore-cybersecurity-strategy@2016",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 35-page PDF (https://isomer-user-content.by.gov.sg/36/6318c1f5-3257-4c99-80e5-27339cf41883/The-Singapore-Cybersecurity-Strategy-2021.pdf) locally via PyMuPDF (75,900 chars). Parsed 97 sections (5 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

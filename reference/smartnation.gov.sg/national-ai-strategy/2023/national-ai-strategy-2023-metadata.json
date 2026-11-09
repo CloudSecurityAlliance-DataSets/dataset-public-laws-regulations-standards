@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/smartnation.gov.sg/national-ai-strategy@2023",
+  "name": "Singapore National AI Strategy 2.0: AI for the Public Good, for Singapore and the World (2023)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2023",
+  "publication_id": "national-ai-strategy-2023",
+  "owner": "Smart Nation and Digital Government Office / Ministry of Digital Development and Information, Singapore",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Singapore National AI Strategy 2.0 (NAIS 2.0, launched December 4, 2023). Singapore's national blueprint for artificial intelligence development, deployment, compute infrastructure, talent, and trusted AI governance.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Smart Nation and Digital Government Office / Ministry of Digital Development and Information, Singapore (smartnation.gov.sg) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Smart Nation and Digital Government Office / Ministry of Digital Development and Information, Singapore (smartnation.gov.sg).",
+  "license": {
+    "spdx": "LicenseRef-SG-Government-NonCommercial-NoDerivatives",
+    "Grouping": "Public-Release Government / Intergovernmental Strategy",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.smartnation.gov.sg/terms-of-use/",
+    "note": "Copyright Government of Singapore (MDDI / Smart Nation). Document permits reproduction without modification for non-commercial use only; routed to private dataset repository. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
+    "notes": "Copyright Government of Singapore (MDDI / Smart Nation). Document permits reproduction without modification for non-commercial use only; routed to private dataset repository. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://file.go.gov.sg/nais2023.pdf",
+    "textUsed": "https://file.go.gov.sg/nais2023.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2023-12-04",
+    "active": true,
+    "supersedes": "secid:reference/smartnation.gov.sg/national-ai-strategy@2019",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 68-page PDF (https://file.go.gov.sg/nais2023.pdf) locally via PyMuPDF (66,492 chars). Parsed 50 sections (0 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}
