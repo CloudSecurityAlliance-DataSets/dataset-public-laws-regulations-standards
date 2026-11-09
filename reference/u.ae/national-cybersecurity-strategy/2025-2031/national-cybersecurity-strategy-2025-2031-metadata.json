@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/u.ae/national-cybersecurity-strategy@2025-2031",
+  "name": "UAE National Cybersecurity Strategy (2025–2031)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2025-2031",
+  "publication_id": "national-cybersecurity-strategy-2025-2031",
+  "owner": "United Arab Emirates Government Portal (u.ae) & UAE Cyber Security Council",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "UAE National Cybersecurity Strategy 2025–2031 (approved by UAE Cabinet January 2025). National cybersecurity strategy of the United Arab Emirates issued by the UAE Cyber Security Council (CSC) and the Telecommunications and Digital Government Regulatory Authority (TDRA).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by United Arab Emirates Government Portal (u.ae) & UAE Cyber Security Council (u.ae) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for United Arab Emirates Government Portal (u.ae) & UAE Cyber Security Council (u.ae).",
+  "license": {
+    "spdx": "LicenseRef-AE-TDRA-Terms",
+    "Grouping": "Proprietary / All Rights Reserved",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": true,
+    "license_text_url": "https://tdra.gov.ae/en/terms-and-conditions",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (u.ae) is governed by UAE Telecommunications and Digital Government Regulatory Authority (TDRA) and UAE Government portal Terms and Conditions (copyright and intellectual property rights in ministerial strategy publications are reserved unless explicitly stated otherwise). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (u.ae) is governed by UAE Telecommunications and Digital Government Regulatory Authority (TDRA) and UAE Government portal Terms and Conditions (copyright and intellectual property rights in ministerial strategy publications are reserved unless explicitly stated otherwise). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://csc.gov.ae",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2025-01-01",
+    "active": true,
+    "supersedes": "secid:reference/u.ae/national-cybersecurity-strategy@2019",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/u.ae/national-cybersecurity-strategy@2025-2031 (https://csc.gov.ae) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

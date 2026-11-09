@@ -1,0 +1,63 @@
+{
+  "secid": "secid:reference/homeaffairs.gov.au/cyber-security-strategy@2009",
+  "name": "Australian Government Cyber Security Strategy 2009",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2009",
+  "publication_id": "cyber-security-strategy-2009",
+  "owner": "Department of Home Affairs",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Cyber Security Strategy 2009 (released November 23, 2009 by the Attorney-General's Department).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Department of Home Affairs (homeaffairs.gov.au) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Department of Home Affairs (homeaffairs.gov.au).",
+  "license": {
+    "spdx": "LicenseRef-All-Rights-Reserved",
+    "Grouping": "Proprietary / All Rights Reserved",
+    "redistribution": "prohibited",
+    "derivatives": "prohibited",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.defence.gov.au/copyright",
+    "note": "Commonwealth of Australia copyright retained; document explicitly prohibits reproduction, storage, or transmission without prior written permission. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
+    "notes": "Commonwealth of Australia copyright retained; document explicitly prohibits reproduction, storage, or transmission without prior written permission. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://apo.org.au/node/19945",
+    "textUsed": "https://web.archive.org/web/20231101074233id_/https://apo.org.au/sites/default/files/resource-files/2009-12/apo-nid19945.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2009-11-23",
+    "active": false,
+    "supersedes": null,
+    "supersededBy": "secid:reference/homeaffairs.gov.au/cyber-security-strategy@2016",
+    "retiredFromActiveUse": "2016-04-21",
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted 38-page PDF (https://web.archive.org/web/20231101074233id_/https://apo.org.au/sites/default/files/resource-files/2009-12/apo-nid19945.pdf) locally via PyMuPDF (83,982 chars). Parsed 32 sections (0 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "policy-doc"
+  }
+}

@@ -1,0 +1,235 @@
+# Israel National Cyber Security Strategy in Brief (2017)
+
+SEPTEMBER 2017
+
+## ISRAEL NATIONAL CYBER SECURITY STRATEGY IN BRIEF
+
+Vision and Objective 5
+
+Development of Israel’s national cyber security efforts 6
+
+Concept of Operations 8
+
+First Layer | Aggregate Cyber Robustness 10
+
+Second Layer | Systemic Cyber Resilience: 11
+
+Third Layer | National Cyber Defense: 12
+
+A Complete Solution 13
+
+The National Cyber Security Authority 14
+
+Capacity Building 16
+
+1. Research, development, and implementation 17
+
+2. Establishing of a national scientific and technological cyber foundations 17
+
+International Cooperation 18
+
+National Cyber Security Strategy In Brief | 3
+
+4 | National Cyber Security Strategy In Brief
+
+### Vision and Objective
+
+The government of Israel has set a vision for Israel to be a leading nation in harnessing cyberspace as an engine of economic growth, social welfare and national security. Israel national cyber security strategy is, first and foremost, a means of realizing the Israeli cyber vision by keeping cyberspace safe and by confronting the various cyber threats, in accordance with the country’s national interests. In addition, the strategy aims to ensure Israel’s continuing role in the international arena, as a leader in technological innovation and as an active partner in the global processes of shaping cyberspace. The national cyber security strategy is the conceptual and practical foundation for achieving these goals. Designed to efficiently structure the national efforts and to ensure a stable, long-term solution, it establishes new concepts and approaches, adapted to the unique features and challenges arising from the use of cyberspace.
+
+National Cyber Security Strategy In Brief | 5
+
+### Development of Israel’s national cyber security efforts
+
+The first milestone in the development of Israel’s national cyber security efforts was laid in 2002, when the Israeli government authorized the National Information Security Authority (NISA) to instruct and protect vital computerized systems of selected public and private civil organizations. The next and major milestone level was the establishment, in January 2012, of the Israel National Cyber Bureau (INCB) reporting directly to the Prime Minister, following a governmental resolution from August 2011. INCB was tasked with: devising the State’s national cyber policy and strategy, promoting national processes, developing national cyber capabilities and strengthening Israel’s leadership in the field. On February 15, 2015, the government of Israel adopted two pioneering resolutions, which reflected the major recommendations of the national cyber security strategy, developed by the Bureau. These resolutions included the establishment of the National Cyber Security Authority (NCSA), a dedicated government entity leading the operational cyber security efforts of the State of Israel. Together the INCB and the NCSA constitute the INCD – Israel National Cyber Directorate.
+
+6 | National Cyber Security Strategy In Brief
+
+Government Resolution Securing Critical Infrastructures (NISA)
+
+2002 2012
+
+Government Resolution “Advancing the National Capacity in Cyberspace”
+
+National Cyber Bureau (INCB) (Policy, capacity building)
+
+National Cyber Directorate (INCD)
+
+## 2011 ISRAEL’S JOURNEY IN CYBER SECURITY
+
+Establishment of the INCB
+
+2016
+
+Government Resolution 1. “Advancing national regulation and governmental leadership” 2. “Advancing The National Preparedness”
+
+National Cyber Security Authority (NCSA) (Operational efforts)
+
+2015
+
+Operationalization of the NCSA
+
+## CONCEPT OF — OPERATIONS
+
+### General
+
+Israel's cyber security strategy is based on a generic concept of operations for national cyber security – a conceptual framework for all of the state's efforts and functions in the context of national cyber security. This framework includes both direct State actions to confront cyber threats and indirect efforts aimed at encouraging and supporting security activities in the private sector and collaborating with it. The concept of operations defines three operational layers: Aggregate Cyber Robustness, Systemic Cyber Resilience and National Cyber Defense. The three-layer approach derives from the unique nature of the cyber threat and the central role of private organizations in achieving national cyber security. The three layers differ from one another in their goals, in the role of the State and in the relations between the State and private organizations.
+
+### National Cyber Defense — Systemic Cyber — Resilience — Aggregate Cyber — Robustness
+
+National Cyber Security Strategy In Brief | 9
+
+### First Layer | Aggregate Cyber Robustness
+
+Cyber robustness is the ability of organizations and processes to continue operating despite a routine of cyber threats by repelling and preventing most of the attacks. This is the very basic level of cyber security. The State of Israel has set a goal to raise the overall level of cyber robustness as a means of preventing high-level damage and reducing the cumulative risk. Government Resolution 2443 of February 15, 2015 introduced nation-wide efforts to enhance the national robustness through the promotion of security efforts undertaken by organizations (best practice, guidance, regulations, incentives, etc.) and by regulating the cyber security market. Additional efforts were made to set the bar high for government cyber security so as to "lead by example" and to implement technological solutions and processes to raise overall robustness in the market.
+
+REGULATING
+
+THE CYBER SECURITY MARKET
+
+(SUPPLY)
+
+Cyber professionals
+
+• Security products and services
+
+• Technological services
+
+10 | National Cyber Security Strategy In Brief
+
+GUIDANCE FOR THE PRIVATE SECTOR
+
+(DEMAND)
+
+Specific guidance to critical infrastructures
+
+• Mandatory standarts in essential sectors
+
+• Promoting knowledge and awareness through the private sector
+
+### Second Layer | Systemic Cyber Resilience:
+
+The second layer in the concept of operations is the systematic ability to confront cyber-attacks before, during, and after incidents, prevent them from spreading and reduce their cumulative damage to the nation. While the first layer is focused on reducing attacks a priori, regardless of any specific event, this layer is event-driven by definition. Systemic resilience can be achieved through state processes encouraging information sharing, generating and disseminating valuable information, and assisting organizations during cyber incidents. This effort is led by the NCSA, with the national CERT at the forefront. The national CERT works closely with the private sector, both directly and through sector-based cyber centers which operate within the CERT. The CERT strives to engage in global and local cooperation while supporting innovation and harnessing it for its goals.
+
+Generation of valuable information
+
+Assistance to organizations
+
+Sharing of national and sector-relevant information
+
+National Cyber Security Strategy In Brief | 11
+
+### Third Layer | National Cyber Defense:
+
+A national-level campaign is required against severe threats by determined, resource-rich attackers who pose serious danger to the nation. National defense campaigns incorporate defensive effort, to contain such attacks and their ramifications together with active efforts to confront the sources of the threats.
+
+CAMPAIGN AGAINST
+
+ATTACKERS
+
+Joint investigations
+
+Intelligence
+
+• Prevention
+
+• Enforcement and deterrence
+
+12 | National Cyber Security Strategy In Brief
+
+NATIONAL DEFENSIVE
+
+CAMPAIGNS
+
+Defensive operations
+
+• National incident response
+
+• Situation assessment
+
+### A Complete Solution
+
+The three-layer approach offers a holistic solution, taking into account the differences in the level of risk, the nature of the threat and the degree of its clarity. The following graph illustrates the state's mode of action, according to the three-layer approach, given the context of the State's action (the horizontal axis) and the magnitude of the threat to the nation (the vertical axis). For example, the resilience layer enables a first response to incidents that do not present an immediate and severe threat, but may cause cumulative damage over time, or might and severe a national defense response as the understanding of the threat evolves.
+
+Level of National Risk
+
+Dedicated Guidance for Critical Infrastructure
+
+Guidance in Essential Sectors
+
+Active Defense
+
+### Defense
+
+Defensive Operations Law Enforcement
+
+Sectoral
+
+Centers
+
+Incident Response
+
+### Systemic Resilience Aggregate Robustness
+
+Information
+
+Sharing
+
+Speciﬁc Threat
+
+Regardless of an Event
+
+Early Warninng
+
+“Call Center”
+
+Concrete Event
+
+Understanding the Nature of an Event
+
+National Cyber Security Strategy In Brief | 13
+
+## THE NATIONAL CYBER SECURITY — AUTHORITY
+
+### Establishing a Central Cyber Security Authority
+
+To lead the operational cyber security efforts, the government of Israel decided, in Government Resolution 2444 of February 15, 2015, to establish a new government entity – the National Cyber Security Authority (NCSA). The NCSA is an operational agency, with cyber security as its sole concern, but also civilian in its nature, cooperating mainly and openly with the private-sector. The NCSA serves as a hub of national knowledge, a primary cyber regulator and an operational center for managing cyber incidents. The NCSA also conducts integrated defensive campaigns with national security and law enforcement agencies.
+
+### Functions of the NCSA at the Three Layers:
+
+National Defense Systemic Resilience Aggregate Robustness
+
+Nation-wide information sharing Critical infrastructure regulation
+
+Managing defensive campaigns within the civilian sector
+
+Coordination between agencies Assistance to organizations under attack
+
+Security guidance (mainly through sectoral regulators)
+
+National situation assessment Identification and investigation of attacks
+
+National knowledge hub
+
+Support for sectoral SOCs Cyber security market regulation
+
+National Cyber Security Strategy In Brief | 15
+
+## CAPACITY BUILDING
+
+For several decades, Israel has been at the global forefront of innovation and scientific-technological knowledge in the field of cyber security. Cyber security is highly dependent on innovation to cope with the attacker's dynamic approach. Israel's culture of innovation, its unique human capital and its national security efforts create a perfect environment for cyber innovation, thus answering this need both locally and globally.
+
+In its Government Resolution 3611 of August 7, 2011, “Advancing National Cyberspace Capabilities”, the State of Israel made it a priority to strengthen Israel's scientific and technological cyber capabilities and innovation processes. This task was assigned to the National Cyber Bureau, as a crucial component of the national cyber security strategy, in order to ensure Israel's long term cyber security capability. This includes two main efforts:
+
+1. Research, development, and implementation of national level security capabilities and technologies, including: secure and efficient information sharing platforms; solutions supporting the state’s efforts to expose, investigate and contain cyber attacks; robust cyber processes; and centralized security services.
+
+2. Strengthening the national science and technology (S&T) base in cyber: promoting industrial innovation, supporting academic research (including the establishment of six research centers in Israel’s leading universities), enhancing the the nation’s human capital in the cyber field and fostering an ecosystem for mutual enrichment. This includes the unique CyberSpark project – a concentrated and powerful cyber security ecosystem consisting of Israeli startups, global companies, academia and civilian and military cyber security centers – all within a walking distance of one another.
+
+National Cyber Security Strategy In Brief | 17
+
+### INTERNATIONAL COOPERATION
+
+Cyberspace is a global sphere and cyber security is a global challenge. The State of Israel views international cooperation as a critical element in establishing cyberspace as a secure, free and global sphere of activity as well as a complementary component in its own national cyber security efforts. Israel is also engaged in efforts to assist partner nations in strengthening their national cyber security, while harnessing Israel's cyber capacities.
+
+Israel invites partners around the world to work together, to share knowledge, to develop new solutions on the global level and to fulfill our shared vision of a secure and prosperous cyberspace.
+
+18 | National Cyber Security Strategy In Brief

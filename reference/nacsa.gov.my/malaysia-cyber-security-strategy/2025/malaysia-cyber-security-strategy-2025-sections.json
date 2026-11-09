@@ -1,0 +1,794 @@
+[
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "Malaysia Cyber Security Strategy (MCSS) (2025)",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "MALAYSIA CYBER SECURITY STRATEGY",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "2025-2030\n\nPRIME MINISTER’S DEPARTMENT NATIONAL CYBER SECURITY AGENCY"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "STRATEGY",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "2025-2030\n\nISBN 978- 629-92023-0-1\n\n9 786299 202301\n\nFor further information refer to:\n\nChief Executive National Cyber Security Agency (NACSA) National Security Council Prime Minister’s Department Level LG & G, West Wing Perdana Putra Building Federal Government Administrative Center 62502 Putrajaya Malaysia https:// www.nacsa.gov.my E: admin@nacsa.gov.my\n\nT: +603 8064 4843\n\nPublisher’s Copyright ©\n\nAll right reserved. No part of this publication may be reproduced, copied, stored in any retrieval system or transmitted in any form or by any means electronic, mechanical, photocopying, recording or otherwise, without prior permission of the National Cyber Security Agency (NACSA), National Security Council, Prime Minister’s Department, Malaysia."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Foreword by the Prime Minister",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "We live in a digital age. Malaysians spend an average of eight hours online each day, placing us among the most active users in Southeast Asia. Digital tools connect families, power businesses and expand access to knowledge. The rise of artificial intelligence (AI) will accelerate this transformation, unlocking advances in research, sustainability and public service delivery.\n\nMalaysia’s digital future is central to our aspiration of becoming a high-income nation. Strong ICT infrastructure and trusted digital assets will drive the MADANI economy, positioning Malaysia as a destination for high-value investments. In a time marked by geopolitical uncertainty and intensifying digital threats, our progress must be anchored in trust, and the assurance that our data, systems and digital exchanges are protected with integrity.\n\nCyber security threats today are complex, borderless and capable of disrupting essential services, economic activity and public trust. Emerging technologies such as AI and quantum computing heighten both opportunity and risk. We must therefore invest in skills, talent, technology and sound governance to safeguard our critical systems and strengthen national resilience.\n\nGuided by the MADANI framework, the Malaysia Cyber Security Strategy (MCSS) 2025–2030 reflects our commitment to building a technologically advanced, sovereign and adaptive nation. Its success will rest on a whole-of-nation effort, uniting government, industry and the research community, while nurturing a culture of responsible and vigilant digital citizenship among our people. A secure digital Malaysia requires digitally capable Malaysians.\n\nThe Honourable Dato’ Seri Anwar bin Ibrahim\n\nPrime Minister of Malaysia\n\nMCSS supports the continuous modernisation of our laws, policies and institutions so that they remain credible, and aligned with evolving global standards. Guided by the principles of good governance and responsibility, Malaysia will continue to play a constructive role in regional and international cooperation to combat cybercrime and cross-border threats.\n\nA trusted digital environment is indispensable to raising the ceiling and the floor of the MADANI economy. With shared resolve and sustained commitment, MCSS 2025–2030 will reinforce the foundations of a secure and forward-looking digital Malaysia, enabling every citizen to participate with confidence and thrive in safety. Insya-Allah, we will advance with resilience and determination, safeguarding our nation for generations to come."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Foreword by the Director General of National Security Council (NSC)",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "The national security landscape has evolved significantly as cyber security threats increasingly intersect with economic stability, public safety, critical services and social cohesion. Cyber security incidents today have the potential to disrupt National Critical Information Infrastructure (NCII) and other essential systems, undermine public confidence and affect national interests.\n\nIn response, Malaysia’s leadership has reaffirmed its commitment to strengthening national cyber resilience and ensuring that governance, operational readiness and stakeholder engagement keep pace with an increasingly complex threat environment.\n\nThe Malaysia Cyber Security Strategy (MCSS) 2025–2030 provides an integrated national framework to address these challenges in a coordinated and forward-looking manner. The Strategy strengthens institutional arrangements, enhances preparedness and response capabilities, and reinforces cooperation across both security and non-security sectors to ensure that cyber security risks are managed comprehensively and effectively.\n\nRaja Dato’ Nushirwan bin Zainal Abidin\n\nDirector General National Security Council (NSC)\n\nPrime Minister’s Department\n\nMCSS 2025–2030 recognises that national resilience cannot be achieved through technical measures alone. It requires strong governance, credible partnerships, informed communities and a culture of shared responsibility. Through closer collaboration among security agencies, regulators, industry and society, the Strategy supports a balanced approach that safeguards national interests while enabling innovation and digital transformation.\n\nThe successful implementation of MCSS 2025–2030 will contribute directly to strengthening Malaysia’s overall national resilience and preparedness in an increasingly complex and interconnected threat environment."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Message by the Chief Executive of National Cyber Security Agency (NACSA)",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "The cyber security threat landscape confronting Malaysia is becoming increasingly complex, dynamic and borderless. Attacks on National Critical Information Infrastructure (NCII) and other essential systems, the growth of cyber-enabled crime and the rapid adoption of emerging technologies are reshaping the risk environment faced by government, businesses and society. These developments require a national approach that is forward-looking, adaptive and grounded in strong coordination.\n\nThe Malaysia Cyber Security Strategy (MCSS) 2025–2030 reflects Malaysia’s collective commitment to strengthening national cyber resilience in a manner that is inclusive, practical and future-ready. Developed through extensive nationwide engagement with government agencies, industry, academia, civil society and the Malaysian public, the Strategy captures shared priorities, operational realities and the common aspiration to build a safer and more trusted digital environment for all Malaysians.\n\nMCSS 2025–2030 sets out ten Strategic Goals across four focus areas, supported by a structured implementation cycle and a shared performance framework to guide delivery, strengthen accountability and enable continuous improvement. This approach ensures that national efforts remain aligned, coordinated and responsive to emerging risks and technological change.\n\nIr. Dr. Megat Zuhairy bin Megat Tajuddin\n\nChief Executive National Cyber Security Agency (NACSA)\n\nNational Security Council Prime Minister’s Department\n\nAs the national coordinator for cyber security, NACSA will continue to work closely with all stakeholders to strengthen governance arrangements, support capability development and facilitate effective collaboration across sectors. Through transparent reporting, sustained engagement and evidencebased implementation, NACSA is committed to ensuring that the Strategy delivers meaningful and lasting impact.\n\nWith shared responsibility, strong partnerships and collective resolve, MCSS 2025–2030 provides a foundation for a secure, resilient and trusted cyber environment that supports Malaysia’s long-term security, prosperity and social well-being."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Acknowledgements",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Faculty of Information Science and Technology, Universiti Kebangsaan Malaysia (UKM)\n\nSchool of Computing and Information Systems, Faculty of Engineering and Information Technology, University of Melbourne\n\nDepartment of Information Systems, Kulliyyah of ICT, International Islamic University Malaysia (IIUM)\n\nSapura Defence Sdn Bhd\n\nAwanBiru Technology Berhad (Awantec)\n\nBank Kerjasama Rakyat Malaysia Berhad\n\nCommunity Development Department (KEMAS)\n\nCyber Security Academia Malaysia (CSAM)\n\nCyberSecurity Malaysia\n\nDefence Cyber and Electromagnetic Division, Malaysia Armed Forces\n\nDepartment of Personal Data Protection (JPDP)\n\nDepartment of Orang Asli Development (JAKOA)\n\nDepartment of Skills Development (DSD)\n\nDepartment for the Development of Persons with Disabilities (JPOKU)\n\nDepartment of Polytechnic Education and Community Colleges (JPPKK)\n\nDepartment of Higher Education (JPT)\n\nEC-Council Global Services\n\nEmployees Provident Fund (EPF)\n\nHuman Resource Development Corporation (HRD Corp)\n\nInstitute of Islam Hadhari, Universiti Kebangsaan Malaysia (UKM)\n\nKumpulan Wang Persaraan (Diperbadankan) (KWAP)\n\nMalaysian Communications and Multimedia Commission (MCMC)\n\nMalaysian Cyber Consumer Association (MCCA)\n\nMinistry of Communications (KK)\n\nMinistry of Youth and Sports (KBS)\n\nMinistry of Home Affairs (MOHA)\n\nMinistry of Digital (KD)\n\nMinistry of Rural and Regional Development (KKDW)\n\nMinistry of Foreign Affairs (MOFA)\n\nMinistry of Investment, Trade and Industry (MITI)\n\nMinistry of Education Malaysia (MOE)\n\nMinistry of National Unity (KPN)\n\nMinistry of Women, Family and Community Development (KPWKM)\n\nMinistry of Science, Technology and Innovation (MOSTI)\n\nMajlis Amanah Rakyat (MARA)\n\nMalaysia Digital Economy Corporation (MDEC)\n\nMalaysia Cyber Security Community Organization (MCCO)\n\nNational AI Office (NAIO)\n\nNational Defence University of Malaysia (UPNM)\n\nNational Youth and Sports Department\n\nNational Digital Department\n\nNational Population and Family Development Board (LPPKN)\n\nNational Security Council (NSC)\n\nNational Tech Association of Malaysia (PIKOM)\n\nNational Unity and Integration Department (JPNIN)\n\nPublic Service Department (PSD)\n\nrawSEC\n\nResearch Division, Prime Minister’s Department\n\nSIRIM Berhad\n\nSME Corporation Malaysia (SME Corp)\n\nSecurities Commission Malaysia (SC)\n\nTalent Corporation Malaysia Berhad (TalentCorp)\n\nThe Central Bank of Malaysia\n\nThe Office of Chief Government Security Officer (CGSO)\n\nThe Royal Malaysia Police (RMP)\n\nTM One\n\n“MCSS 2025–2030 REFLECTS"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "MALAYSIA’S VISION TO STRENGTHEN NATIONAL — SOVEREIGNTY AND CONTROL OVER DIGITAL INFRASTRUCTURE, BUILD CYBER RESILIENCE AND SELF- — RELIANCE, AND NURTURE A — SOCIETY THAT IS SECURE, ADAPTIVE AND RESPONSIVE TO — EVOLVING CYBER RISKS AND",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "TECHNOLOGICAL CHANGE”.\n\nContent\n\nGlossary\n\nEXECUTIVE SUMMARY\n\n1. INTRODUCTION 1.1 Cyber Security Threat Landscape 1.2 Public Trust and Perspectives 1.3 The Development of MCSS 2025-2030 1.4 A Whole-of-Society Approach\n\n12\n\n16\n\n21 26 27 29\n\n2. CHARTING MALAYSIA’S CYBER FUTURE: MCSS 2025 – 2030 2.1 Government-Business-Community (G-B-C) 2.2 Sovereign Cyber Security Resilience: Nurturing Adaptive Digital Society 2.3 The Challenges • The Evolving Cyber Security Threat Landscape • Governance and Implementation Challenges • Cyber Maturity Gaps • Sovereignty Challenges • Misalignment Between Digital Transformation Demands and Human Capital Development • Challenges in Scaling Research Capacity and R&D Commercialisation • MSMEs Cyber Security Gaps and Systemic Vulnerabilities • Quantum Computing Threats and Encryption Vulnerabilities\n\n32 33\n\n34 34 35 36 36 37 38 39 39\n\n3. IMPLEMENTING MCSS 2025-2030 MCSS 2025 - 2030 : Focus Areas and Strategic Goals\n\n42\n\nFocus Area 1: Governance and Legislation Strategic Goal 1: Enhance Cyber Security Governance and Ecosystem Strategic Goal 2: Strengthen Malaysia’s Legislation and Enforcement Ecosystem Strategic Goal 3: Strengthen International Cooperation\n\n43 45 47\n\nFocus Area 2: Protection and Resilience Strategic Goal 4: Strengthen Protection and Resilience of National Critical Information Infrastructure (NCII) and Businesses Strategic Goal 5: Strengthen Community Cyber Resilience\n\n49\n\n51\n\nFocus Area 3: Capacity Building and Innovation Strategic Goal 6: Leverage Emerging Technologies for Cyber Security Resilience Strategic Goal 7: Nurture Cyber Security Talent and Workforce Development Strategic Goal 8: Foster Cyber Security Research, Development, Commercialisation, and Innovation (RDCI)\n\n52 53 54\n\nFocus Area 4: Culture and People Strategic Goal 9: Promote Public Trust in Digital Ecosystems Strategic Goal 10: Promote Responsible Digital Citizenship 4. ENABLING THE STRATEGY 4.1 Implementation Cycle 4.2 Measuring Progress and Success 4.3 Delivering MCSS 2025-2030\n\n5. CITIZEN’S ROLE IN CYBER SECURITY 5.1 Why Citizen’s Role Is Important 5.2 What You Can Do as An Individual 5.3 What Businesses Can Do 5.4 What Communities Can Do\n\n55 56\n\n60 62 62\n\n66 66 67\n\n4IR\n\nFourth Industrial Revolution\n\nJPK\n\nAI\n\nArtificial Intelligence\n\nAPT\n\nAdvanced Persistent Threats\n\nASEAN\n\nThe Association of Southeast Asia Nations\n\nASEANAPOL\n\nASEAN Chiefs of Police\n\nKD\n\nBNM\n\nCentral Bank of Malaysia\n\nKK\n\nBSEP\n\nCyber and Electromagnetic Defence Command\n\nCaaS\n\nCybercrime-as-a-Service\n\nCCID\n\nCommercial Crime Investigation Department\n\nCGSO\n\nThe Office of Chief Government Security Officer\n\nCoE\n\nCouncil of Europe\n\nCRI\n\nCounter Ransomware Initiative\n\nLEA\n\nCSAM\n\nCyber Security Academia Malaysia\n\nCSCDC\n\nCyber Security and Cryptology Development Centre\n\nCSR\n\nCorporate Social Responsibility\n\nDoS\n\nDenial-of-Service\n\nECC\n\nElliptic Curve Cryptography\n\nETS\n\nEuropean Treaty Series\n\nML\n\nFGD\n\nFocus Group Discussion\n\nG-B-C\n\nGovernment - Business - Community\n\nGCI\n\nGlobal Cybersecurity Index\n\nGDP\n\nGross Domestic Product\n\nGLC\n\nGovernment-Linked Company\n\nGLIC\n\nGovernment-Linked Investment Company\n\nGovTech\n\nGovernment Technology Agency\n\nHRD CORP\n\nHuman Resource Development Corporation\n\nICT\n\nInformation and Communication Technology\n\nIIH\n\nInstitute of Islam Hadhari\n\nIIUM\n\nInternational Islamic University Malaysia\n\nINTAN\n\nNational Institute of Public Administration\n\nINTERPOL\n\nInternational Criminal Police Organization\n\nITU\n\nInternational Telecommunication Union\n\nJAKIM\n\nDepartment of Islamic Development Malaysia\n\nJDN\n\nNational Digital Department\n\nJPA\n\nPublic Service Department\n\nJPDP\n\nPersonal Data Protection Department\n\nDepartment of Skills Development\n\nJPPD\n\nTown and Country Planning Department\n\nJPPKK\n\nDepartment of Polytechnic and Community College Education\n\nKBS\n\nMinistry of Youth and Sport\n\nMinistry of Digital\n\nMinistry of Communications\n\nKKDW\n\nMinistry of Rural and Regional Development\n\nKPM\n\nMinistry of Education\n\nKPN\n\nMinistry of National Unity\n\nKPWKM\n\nMinistry of Women, Family, and Community Development\n\nKWAP\n\nRetirement Fund (Incorporated)\n\nLaw Enforcement Agency\n\nMAF\n\nMalaysian Armed Forces\n\nMARA\n\nMajlis Amanah Rakyat\n\nMCMC\n\nMalaysia Communications and Multimedia Commission\n\nMCSS\n\nMalaysia Cyber Security Strategy\n\nMDEC\n\nMalaysia Digital Economy Corporation\n\nMachine Learning\n\nMOHE\n\nMinistry of Higher Education\n\nMOFA\n\nMinistry of Foreign Affairs\n\nMOSTI\n\nMinistry of Science, Technology and Innovation\n\nMRANTI\n\nMalaysian Research Accelerator for Technology & Innovation\n\nMSME\n\nMicro, Small and Medium Enterprise\n\nMTDC\n\nMalaysian Technology Development Corporation\n\nMyKriptografi\n\nNational Cryptography Policy\n\nNACSA\n\nNational Cyber Security Agency\n\nNAIO\n\nNational Artificial Intelligence Office\n\nNC4\n\nNational Cyber Coordination and Command Centre\n\nNCII\n\nNational Critical Information Infrastructure\n\nNCSB\n\nNational Cyber Security Baseline\n\nNFCC\n\nNational Anti-Financial Crime Centre\n\nNGO\n\nNon-Governmental Organisation\n\nNSC\n\nNational Security Council\n\nNSP\n\nNational Security Policy\n\nNSRC\n\nNational Scam Response Centre\n\nOT\n\nOperational Technology\n\nPhD\n\nDoctor of Philosophy\n\nPMD\n\nPrime Minister’s Department\n\nPQC\n\nPost-Quantum Cryptography\n\nPTPKM\n\nMalaysia Cryptology Technology and Management Centre\n\nR&D\n\nResearch and Development\n\nRDCI\n\nResearch, Development, Commercialisation and Innovation\n\nRMP\n\nRoyal Malaysia Police\n\nRSA\n\nRivest-Shamir-Adleman\n\nSC\n\nSecurity Commission\n\nSME CORP\n\nSME Corporation Malaysia\n\nSOP\n\nStandard Operating Procedure\n\nTALENTCORP\n\nTalent Corporation Malaysia Berhad\n\nTI\n\nThreat Intelligence\n\nTVET\n\nTechnical and Vocational Education and Training\n\nUKM\n\nUniversiti Kebangsaan Malaysia\n\nUN\n\nUnited Nations\n\nUNODC\n\nUnited Nations Office on Drugs and Crime\n\nUoM\n\nUniversity of Melbourne"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Term — Definition",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Artificial Intelligence (AI)\n\nAI is an emerging technology that allows computers and machines to perform tasks that require human-like intelligence. This includes understanding language, recognising patterns, and making accurate decisions\n\nCloud / Cloud Computing\n\nA model that enables network access to a collection of computing resources (e.g., networks, servers, storage, applications, and services) easily and quickly through minimal interaction and management effort with the service provider\n\nNational Critical Information Infrastructure (NCII)\n\nMeans a computer or computer system which the disruption to or destruction of the computer or computer system would have a detrimental impact on the delivery of any service essential to the security, defence, foreign relations, economy, public health, public safety or public order of Malaysia, or on the ability of the Federal Government or any of the State Governments to carry out its functions effectively\n\nCryptography\n\nCryptography is an indispensable tool that provides various services to protect sensitive information. The services include confidentiality, integrity, data-origin authentication, entity authentication and non-repudiation\n\nCybercrime\n\nCybercrime refers to crimes that use computer networks or hardware devices to harass victims. Generally, refers to actions taken intentionally or unintentionally, by individuals or groups representing any organisation, to obtain information illegally or damage computer devices, smartphones, and other equipment related to hardware, software, and internet networks\n\nCyberspace\n\nCyberspace is defined as information and communication technology systems, the information stored in those systems, humans who interact with those systems physically or virtually, the physical environment of those systems, and all assets related to ICT\n\nCyber Attack\n\nAny kind of malicious activity that attempts to collect, disrupt, deny, degrade, or destroy information system resources or the information itself\n\nCyber Security Incident\n\nMeans an act or activity carried out on or through a computer or computer system, without lawful authority, that jeopardises or adversely affects the cyber security of that computer or computer system or another computer or computer system\n\nCyber Security Threat Means an act or activity carried out on or through a computer or computer system, without lawful authority, that may imminently jeopardise or may adversely affect the cyber security of that computer or computer system or another computer or computer system\n\nDoS An attack that causes the system or network to be unable to provide services to users"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Term — Definition",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Encryption\n\nConverting sensitive data into a secret code form to allow the data to be sent securely without being understood by others\n\nIdentity theft\n\nCybercriminals steal victims’ personal information such as full names, dates of birth, or credit card numbers to commit financial fraud or other crimes, such as entering or leaving a country illegally, money laundering, and drug trafficking. As a result, the victims of identity theft will face legal action because their identities have been misused for criminal purposes\n\nIncident Response\n\nThe remediation or mitigation of violations of security policies and recommended practices\n\nMalware\n\nA software designed to enter a computer system without permission and potentially harm the machine or network\n\nPost-Quantum Cryptography\n\nCryptographic algorithms that are designed to be secure against attacks from both classical and quantum computers. Unlike current public-key algorithms, which will be vulnerable to quantum attacks, PQC algorithms aim to provide long-term security by resisting quantum decryption techniques like Shor’s Algorithm\n\nRansomware\n\nMalicious software that can alter or restrict data on your computer. To restore computer performance and data, victims must pay a ransom to cybercriminals\n\nSecurity-by-Design\n\nPrioritising the principle of comprehensive safety in system development by integrating data protection and robust authentication mechanisms to safeguard government information in accordance with current government acts, directives, and circulars, thereby enhancing public confidence in online transactions with the government\n\nThreat actor\n\nAn individual or a group posing a threat\n\nVulnerability\n\nAny vulnerability on a computer or computer system that can be exploited by one or more cyber security threats\n\nVulnerable Groups\n\nBased on the United Nations Electronic Government Development Index Survey (UNEG-DI), as stated on MyGovernment Portal, vulnerable groups consist of Women, the Elderly, Persons with Disabilities (PWDs), the Poor, Youth, and Refugees or Immigrants"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "EXECUTIVE SUMMARY",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "As Malaysia’s digital transformation accelerates, cyber security threats are increasing in scale and sophistication, ranging from attacks on national critical information infrastructure (NCII) to cyber-dependent and cyber-enabled crimes that cause significant financial and social harm. These developments demand a forward-looking and integrated national response.\n\nRecognising the evolving and increasingly complex threat landscape, the Malaysia Cyber Security Strategy (MCSS) 2025– 2030 adopts a comprehensive and proactive security posture through strengthened legal and regulatory frameworks, enhanced operational coordination, improved defensive capabilities, and initiatives to safeguard national cyber sovereignty.\n\nStrategic Goal 1:\n\nStrategic Goal 2: Strengthen Malaysia’s\n\nEnhance Cyber Security Governance\n\nLegislation and Enforcement Ecosystem\n\n& Ecosystem\n\nThe Strategy was developed through nationwide consultations involving government agencies, industry stakeholders and universities, supported by multiple structured engagement sessions, with valuable input received from members of the public. MCSS 2025–2030 adopts a Government–Business–Community (G-B-C) model and is aligned with the National Security Policy (2021–2025; 2026–2030), the MADANI governance framework and the Thirteenth Malaysia Plan 2026–2030. This alignment positions cyber security as a critical enabler of both national security and economic transformation, while ensuring a wholeof-society approach and long-term policy coherence.\n\nStrategic Goal 4: Strengthen Protection and Resilience of National Critical Information Infrastructure (NCII)\n\nand Businesses\n\nStrategic Goal 5: Strengthen Community\n\nCyber Resilience\n\nStrategic Goal 3: Strengthen International\n\nCooperation\n\nThis inclusive and integrated approach has resulted in ten Strategic Goals organised under four focus areas: Governance and Legislation, Protection and Resilience, Capacity Building and Innovation, and Culture and People.\n\nImplementation will be driven by a structured cycle that integrates stakeholder engagement, strategic direction, resource mobilisation, capability development, and continuous review to ensure the strategy remains adaptive and relevant to the evolving cyber security threat landscape. Progress will be monitored through a combination of tangible deliverables and qualitative indicators of trust, supported by annual public reporting to promote transparency and accountability.\n\nBy 2030, the success of MCSS 2025–2030 will be reflected not only in strengthened governance, effective legislation and resilient institutions, but also in the ability of Malaysians to participate confidently in the digital economy and society, supported by secure access to services, empowered economic participation, protection for vulnerable communities, resilience against evolving cyber security threats and trust in Malaysia’s cyber sovereignty.\n\nThrough this approach, MCSS 2025–2030 seeks to strengthen national cyber resilience through collective action, bringing together government, business and the community to build a secure, resilient and adaptive future for Malaysia.\n\n“A SECURE NATION."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "AN EMPOWERED FUTURE“",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Strategic Goal 7: Nurture Cyber Talent\n\nStrategic Goal 6: Leverage Emerging and Workforce\n\nDevelopment\n\nTechnologies for Cyber Security\n\nResilience\n\nStrategic Goal 10: Promote Responsible\n\nDigital Citizenship\n\nStrategic Goal 8: Foster Cyber Security Research, Development,\n\nCommercialisation, and Innovation (RDCI) Strategic Goal 9:\n\nPromote Public\n\nTrust in Digital\n\nEcosystems\n\nFOUR KEY REALITIES SHAPE OUR STRATEGY: MAPPING THE NATIONAL CYBER SECURITY THREAT AND RISK LANDSCAPE, UNDERSTANDING PUBLIC NEEDS AND PERSPECTIVES, NATIONWIDE STAKEHOLDER ENGAGEMENT, AND THE RECOGNITION OF THE NEED FOR\n\nA WHOLE-OF-SOCIETY APPROACH."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "INTRODUCTION",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "INTRODUCTION: 1.1 (1)",
+    "section_name": "Cyber Security Threat Landscape",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "21"
+  },
+  {
+    "depth": 3,
+    "section_id": "INTRODUCTION: 1.2 (1)",
+    "section_name": "Public Trust and Perspectives",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "26"
+  },
+  {
+    "depth": 3,
+    "section_id": "INTRODUCTION: 1.3 (1)",
+    "section_name": "The Development of MCSS 2025-2030",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "27"
+  },
+  {
+    "depth": 3,
+    "section_id": "INTRODUCTION: 1.4",
+    "section_name": "A Whole-of-Society Approach",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "29\n\nMalaysia’s rapid digital transformation presents both unprecedented opportunities and significant cyber risks. As the digital economy is expected to contribute 25.5% of Gross Domestic Product (GDP) by 2025, with half a million new digital jobs targeted by 2030, national prosperity is becoming increasingly dependent on secure and trusted digital infrastructure.\n\nAt the same time, Malaysia’s expanding reliance on digital systems has widened exposure to cyber security threats. The borderless, accessible and often anonymous nature of cyberspace has intensified risks to national critical information infrastructure (NCII), facilitated the misuse of online platforms and enabled cyber espionage and other malicious activities. These challenges are further compounded by cyber security incidents that are rising in frequency, sophistication and unpredictability.\n\nThis evolving environment underscores the need for a more coordinated, resilient and future-ready approach to safeguarding Malaysia’s digital ecosystem. Strengthening national cyber security resilience is now essential not only for security, but also for economic stability, public trust and the protection of national sovereignty in an increasingly complex digital landscape.\n\nBuilding on the solid foundation established by the Malaysia Cyber Security Strategy (MCSS) 2020-2024, which strengthened governance structures and core capabilities through initiatives led by the National Cyber Security Agency, National Security Council, Prime Minister’s Department (NACSA NSC, PMD), Malaysia has demonstrated global excellence in cyber security. In 2024, Malaysia achieved Tier 1 “Role-modelling” status in the International\n\nTelecommunication Union’s (ITU) Global Cybersecurity Index (GCI 2024) by achieving perfect scores in Legal Measures, Technical Measures, Capacity Development and Cooperation Measures. While these achievements reflect national-level commitments, continued efforts are required to strengthen operational capabilities and institutional readiness across all sectors.\n\nMCSS 2025-2030 builds on these achievements and sets Malaysia’s path towards a sovereign, resilient and adaptive society. This new Strategy responds to an increasingly complex and dynamic cyber landscape, where threats evolve rapidly and interconnected systems amplify risks. It aligns with the National Security Policy (NSP) 2021-2025 and the upcoming NSP 2026-2030, which identifies cyber security and information technology as a strategic focus area, highlighting the importance of digital sovereignty and cyber resilience in safeguarding Malaysia’s national interests. By adopting a whole-of-government and whole-of-nation approach, these policies reinforce national sovereignty, societal resilience and institutional integrity, positioning cyber security as a key pillar of national security.\n\nMCSS 2025-2030 also aligns with national development priorities, including the MADANI Governance framework and the Thirteenth Malaysia Plan, 2026-2030 (Thirteenth Plan). MADANI Governance framework emphasises that comprehensive digital security is essential to achieving national transformation goals. Central to this principle is the recognition that technology alone cannot secure Malaysia’s future; people must remain at the heart of the nation’s cyber security strategy. Through the MADANI philosophy, guided by the principles of Sustainability (Kemampanan),"
+  },
+  {
+    "depth": 3,
+    "section_id": "INTRODUCTION: 1.1 (2)",
+    "section_name": "Cyber Security Threat Landscape",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Prosperity (Kesejahteraan), Innovation (Daya Cipta), Respect (Hormat), Trust (Amanah) and Compassion (Ihsan), cyber security is understood as a collective effort to build a trustworthy, inclusive and resilient digital nation. Similarly, the Thirteenth Plan positions digital infrastructure and cyber security as foundations for national digitalisation, recognising that secure digital systems are prerequisites for economic transformation.\n\nThese principles are reinforced by comprehensive legislation covering different aspects of the digital and cyber environment, collectively aimed at protecting Malaysia’s digital ecosystem. This includes the Cyber Security Act 2024 [Act 854], Personal Data Protection Act 2010 [Act 709], Communications and Multimedia Act 1998 [Act 588], Computer Crimes Act 1997 [Act 563], Official Secrets Act 1972 [Act 88], Data Sharing Act 2025 [Act 864], Electronic Government Activities Act 2007 [Act 680], Electronic Commerce Act 2006 [Act 658], Digital Signature Act 1997 [Act 562] and Online Safety Act 2025 [Act 866].\n\nComplementing these are strategic policies including the National Security Policy (2021-2025; 2026-2030), National Cloud Computing Policy (2025), Cyber Security Policy 2006, MyKriptografi, National Fourth Industrial Revolution Policy and ICT Security Policy, which collectively establish the legislative foundation for Malaysia’s digital transformation and security posture.\n\nMCSS 2025-2030 aligns with national development priorities, including the MADANI Governance framework and the Thirteenth Malaysia Plan, 2026-2030"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Cyber Security Threat",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "The Cyber Security Act 2024 [Act 854] defines cyber security threat as “an act or activity carried out on or through a computer or computer system, without lawful authority, that may imminently jeopardise or may adversely affect the cyber security of that computer or computer system or another computer or computer system”. These threats manifest through various means, including hacking, data theft, malware, social engineering and information manipulation. Each poses a risk to the confidentiality of personal data, the integrity of national systems and the availability of essential services. Cyber security threats are therefore not only a technical concern but also a matter of public safety, national security and economic stability.\n\nMalaysia has seen a growing trend of attacks targeting NCII sectors whereby a total of 5,837 cyber security incidents were reported, involving 2,390 NCII entities and 3,447 non- NCII entities. Attacks such as ransomware and data breaches show how a disruption in one (1) critical system can trigger cascading effects across multiple sectors (see Figure 1).\n\nFrom January to December 2025\n\n5,837 incidents\n\n2,390\n\nNCII entities"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "3,447",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Non-NCII entities\n\nFigure 1: Number of cyber security incidents reported from January to December 2025 affecting NCII and non-NCII organisations.\n\nNCII sectors continued to be disproportionately targeted. Government agencies recorded 552 incidents, followed by trade, industry, and economy sectors at 474 cases, agriculture and plantation at 305, and healthcare at 284. Other sectors, including banking, transport, defence, energy, ICT and water services, recorded fewer incidents, though they remain exposed to cyber security threats (see Figure 2).\n\n552\n\nGovernment\n\nBanking and Finance\n\n223\n\n165\n\nTransportation\n\nDefence and National Security\n\n191\n\nInformation, Communication\n\n73 and Digital\n\nHealthcare\n\n284 services\n\nWater, Sewerage and\n\n90\n\nWaste Management\n\n21\n\nEnergy\n\nAgriculture and Plantation\n\n305\n\nTrade, Industry\n\n474 and Economy\n\nScience, Technology\n\n12 and Innovation\n\nFigure 2: Cyber Security Incident Statistics for the NCII Sector\n\n(Jan–Dec 2025)\n\nStatistically, data from 2023 to 2025 shows a significant escalation in intrusion attempts and potential attacks across both NCII entities and non-NCII organisations (see Figure 3). While these incidents show substantial increase, malware infections continue to decline, reflecting improvements in detection and preventive controls nationwide. Other incident types, including Malware Hosting and DoS attacks, remain comparatively low. Overall, this trend reflects an increasingly active and complex environment, while the reduction in successful intrusions demonstrates that capabilities across sectors have significantly strengthened.\n\nMalware Hosting Incidents (cases)\n\n21\n\n10\n\n1\n\n2025\n\n2023\n\n2024\n\nDenial of Service Incidents (DoS) (cases)\n\n33\n\n50\n\n13\n\n2025\n\n2023\n\n2024\n\nMalware Infections (cases)\n\n1,297\n\n569\n\n201\n\n2025\n\n2023\n\n2024\n\nIntrusion Attempts (cases)\n\n2,333\n\nConfirmed Intrusions (cases)\n\n1,341\n\n980\n\n483\n\n785 784\n\n2025\n\n2023\n\n2024\n\nPotential Attacks (cases)\n\n2,806\n\n1,872\n\n116\n\nFigure 3: Cyber Security Incidents Statistics from 2023 to 2025\n\nThe changes observed from 2023 to 2025 (see Figure 3) demonstrate a successful operational shift to proactive cyber security measures, driven by NACSA’s 24/7 monitoring since June 2024. The massive surge in Potential Attacks does not indicate increased threat actor activity, but rather it reflects NACSA’s improved capability in monitoring threats. This capability will continue to be enhanced over time to stay ahead of evolving threats.\n\nThreat actors are also adapting, exploiting new technologies and vulnerabilities. While overall incidents may not appear extremely high, their consequences are severe, disrupting critical services, compromising operations and causing financial and reputational damage. The persistence of ransomware, both globally and locally, shows that the threat is not diminishing but evolving in scale and complexity."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Cybercrime",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "While Malaysia continues to face cyber security threats such as ransomware, malware and other attacks, the impact on the public is equally concerning. The Royal Malaysia Police (RMP) statistics show that online scam cases and the resulting financial losses have been rising sharply between 2022 and 2025 (see Table 1).\n\nFrom 2022 to October 2025, total recorded cases increased from 25,479 to 73,735, a 289% jump, while total losses surged from RM851 million to RM2.46 billion. The growth is evident not only in the number of incidents but also in their severity.\n\nTelecommunications fraud cases tripled from 7,732 in 2022 to 31,515 in 2025, with losses increasing from RM321 million to RM876 million.\n\n31,515 Telecommunications Fraud (cases)\n\nx 4\n\nLosses increasing from RM321 million to"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "MALAYSIA CYBER SECURITY STRATEGY 2025-2030 23",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Losses from non-existent investment scams jumped dramatically from RM220 million in 2022 to RM1.25 billion in 2025, highlighting the growing sophistication of scam syndicates.\n\n1,252.9 Non-Existent Investment Losses (RM million)\n\n219.8\n\n2025 2022\n\nNon-existent loan scams rose from 3,174 cases in 2022 to 8,724 cases in 2025, with losses increasing from RM37 million to RM68 million.\n\n8,724 Non-Existent Loan Scams (cases)\n\nLosses increasing from RM37 million to\n\n3,174"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "RM68 million",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "2025 2022\n\nLove scam cases remained largely unchanged but still caused millions in losses each year. Online financial scam cases also rose from 1,257 in 2022 to 6,206 in 2025, a 494% increase, though losses fluctuated year to year. Together, these two categories account for more than RM100 million in losses annually.\n\ne-Financial Fraud (cases)\n\n6,206\n\n494% increase\n\n1,257\n\n7,732"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "RM876 million — Operation Method",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "(Jan-Oct)\n\nCases Cases Cases Cases Losses (RM) Losses (RM) Losses (RM) Losses (RM)\n\nTelecommunication Fraud\n\n7,732\n\n321.4 million\n\n10,346\n\nLove Scam\n\n792\n\n56.3 million\n\n935 e-Commerce Fraud\n\n9,258\n\n140.0 million\n\n11,473\n\nNon Existing Loans\n\n3,174\n\n37.4 million\n\n4,263\n\nNon Existing Investments\n\n3,266\n\n219.8 million\n\n5,386 e-Financial Fraud\n\n1,257\n\n76.2 million\n\n2,092\n\nTotal\n\n25,479\n\n0.851 billion\n\n34,495\n\n352.9 million\n\n14,684\n\n497.1 million\n\n31,515\n\n876.0 million\n\n43.9 million\n\n770\n\n45.9 million\n\n1,087\n\n42.2 million\n\n204.0 million\n\n7,662\n\n70.8 million\n\n16,186\n\n133.4 million\n\n40.7 million\n\n4,103\n\n46.2 million\n\n8,724\n\n68.3 million\n\n472.1 million\n\n6,337\n\n848.6 million\n\n10,017\n\n1,252.9 million\n\n105.1 million\n\n1,812\n\n65.5 million\n\n6,206\n\n85.9 million\n\n1.218 billion\n\n35,368\n\n1.574 billion\n\n73,735\n\n2.459 billion\n\nTable 1: Total Number of Cases and Losses Relating to Cybercrime from 2022 to 2025\n\nFrom January to December 2025, Malaysia recorded a total of 73,735 cybercrime cases, resulting in losses amounting to RM2.459 billion. This figure has far surpassed the full-year total for 2024, indicating that 2025 may become the worst year on record for cybercrime. Telecommunications fraud, e-commerce fraud, and investment scams remain the most prevalent and damaging categories.\n\nIn response to escalating cyber security incidents and cybercrime cases, Malaysia has taken decisive action to strengthen its legal framework. The government has drafted the Cybercrimes Bill, which will comprehensively address both cyber-dependent and cyber-enabled crimes including Cybercrime-as-a-Service (CaaS), ransomware, online fraud, identity theft and deepfake.\n\nThe Cybercrimes Bill aims to align domestic legislation with international standards, particularly the Council of Europe Convention on Cybercrime (Budapest Convention) and the United Nations Convention Against Cybercrime (UN Convention). It will create a holistic cybercrime legal framework that is relevant to evolving digital technologies and increasingly sophisticated cyber criminal operations.\n\nThe Cybercrimes Bill will repeal the existing Computer Crimes Act 1997 [Act 563] and complement other existing legislation by introducing new offences, higher penalties and enhanced investigative powers. Importantly, it will enable more effective investigation and prosecution processes through improved electronic evidence collection mechanisms including cross-border cybercrime investigations.\n\nIn parallel, the National Scam Response Centre (NSRC) will play a pivotal complementary role to the forthcoming Cybercrimes Bill through the planned expansion of its scope to cover all categories of cybercrime cases, beyond online scam-related incidents. This broadened mandate will strengthen Malaysia’s operational readiness by enabling the NSRC to serve as the central coordination hub for rapid cybercrime response, victim assistance and inter-agency escalation across the full spectrum of cybercrimes. In line with international best practices, the NSRC will also operate Malaysia’s 24/7 pointof-contact network as required under both the Budapest Convention and the UN Convention, ensuring that Malaysia can respond swiftly to cross-border requests, support real-time cooperation and enhance global trust in the nation’s cyber enforcement ecosystem."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Cyber Defence",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Complementing these legal and operational reforms, the establishment of a dedicated cyber force will enable the Malaysian Armed Forces (MAF) to strengthen active cyber defence, undertake preventive operations, and deepen collaboration with regional strategic partners in addressing increasingly complex cyber security threats. This initiative forms part of Malaysia’s broader defence transition towards a smart military, underpinned by a transformation that emphasises the adoption of AI, automated weapon systems, and enhanced cyber warfare capabilities. In this context, the proposed cyber command will serve as the centre of gravity for cyber and electromagnetic operations, while the Future Forces concept will guide the development of doctrine, force structures, and high-technology assets capable of operating effectively within an increasingly digital battlespace."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "MALAYSIA CYBER SECURITY STRATEGY 2025-2030 25 — Cryptography and MyDigital ID",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "In parallel, Malaysia’s ongoing efforts to advance national cyber security resilience are reflected in several key initiatives. NACSA, through the establishment of the Malaysia Cryptology Technology and Management Centre (PTPKM), the National Cryptography Policy (MyKriptografi), and the National Post-Quantum Cryptography Migration Plan (2024-2030) is strengthening Malaysia’s cryptographic independence by developing local expertise and building national capabilities to defend against current and emerging threats. MyDigital ID, which targets nationwide adoption, represents Malaysia’s sovereign and trusted digital identity infrastructure. It provides a secure, verifiable and privacy-respecting foundation for online transactions, enabling Malaysians to authenticate themselves safely across government and commercial digital services.\n\nThese threats directly impact Malaysians and it shaped how the public experienced and perceived cyber security threats in daily life. To better understand how cyber security threats are perceived and experienced at the societal level, a public survey on cyber security and cybercrime was conducted to capture their perspectives."
+  },
+  {
+    "depth": 3,
+    "section_id": "INTRODUCTION: 1.2 (2)",
+    "section_name": "Public Trust and Perspectives",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "A public survey was conducted by NACSA to better understand Malaysians’ perspectives, concerns and expectations in relation to cyber security. The survey gathered responses from 3,153 participants nationwide. Findings indicate a high level of concern, with 84.5% of respondents expressing extreme or high concern about cyber security threats.\n\nOther findings are as follows:\n\nwant an online self-assessment tool to check their cyber security risk exposure aware of associated cyber security risks\n\n91.1% 97.6% support special assistance programs for vulnerable groups"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "97.8%",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Although awareness is high, it does not translate into action. Only 59.5% regularly practice good cyber hygiene, hindered by time and effort constraints, complexity, and lack of practical guidance.\n\nThe survey also uncovered public frustration with the current cybercrime situation in Malaysia. 73.2% of respondents believe government efforts are insufficient. Primary concerns include:\n\nWeak enforcement against perpetrators\n\nRising scam and fraud cases"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "69.7% — 81.2%",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Growing financial losses\n\nDifficulty obtaining help\n\nBased on the survey findings, public trust in digital services remains divided. While 59.8% of respondents expressed confidence in digital platforms, a significant 40.2% remain sceptical. To strengthen trust and encourage wider adoption, several measures have been identified:\n\ngreater transparency on how personal data is collected and used stronger data protection laws and enforcement"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "78.8%",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "62.3% clearer privacy policies and better user control\n\nIndependent systems audits"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "49.9% — 40.3%",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "When asked about national priorities, respondents identified several key areas requiring urgent attention to strengthen Malaysia’s cyber security posture, as follows:\n\nemphasised the need for clear national standards and policies the need to improve readiness and response to cyber security incidents"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "69.3%",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "72.8% called for nationwide awareness campaigns advocated for the need to support MSMEs and private sectors\n\n67.8% — 47.6%"
+  },
+  {
+    "depth": 3,
+    "section_id": "INTRODUCTION: 1.3 (2)",
+    "section_name": "The Development of MCSS 2025-",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "To ensure that MCSS 2025–2030 is grounded in research, data and whole-of-society perspectives, NACSA implemented a comprehensive, multi-layered consultation process. Academic partners from Universiti Kebangsaan Malaysia (UKM), International Islamic University Malaysia (IIUM) and the University of Melbourne (UoM) were engaged to provide research support, analytical expertise and drafting input, ensuring that global best practices and emerging trends were appropriately contextualised for Malaysia’s national context."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Continuous Collaboration Participant Highlight",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Collaboration with 90+ unique agencies shaped the MCSS 2025–2030"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "MALAYSIA CYBER SECURITY STRATEGY 2025-2030 27",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "NACSA also conducted targeted surveys to capture sector-specific perspectives. An industry survey gathered 59 responses from organisations across key sectors, while academic surveys were carried out across 11 universities to obtain insights from the higher education community. In parallel, a comparative benchmarking study assessed Malaysia against Tier-1 countries in the ITU Global Cybersecurity Index (GCI), examining political, economic, social and technological factors influencing successful cyber security strategies. This analysis identified proven international approaches including public-private partnership models, incident response protocols and governance structures, while highlighting areas where Malaysia can be further strengthened to align with global best practices.\n\nEngagement 1 Engagement 2 Engagement 3 Workshop 1\n\nSurvey and Desktop Research\n\nFocus Group Discussion\n\n19-20 March 2025 10 April 2025 8 May 2025 24 April 2025\n\n4, 17 June and 30 July 2025\n\n60 Participants"
+  },
+  {
+    "depth": 2,
+    "section_id": "27",
+    "section_name": "Participants 24 Participants 24 Participants 57 Participants",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "13 December 2024 - 12 February 2025\n\n(NACSA) (NACSA) (NACSA) (MKN, CGSO, MITI, JDN, CSM, MCMC, HRD Corp, MDEC, SIRIM, SC, BNM, PIKOM, Yayasan Peneraju, MCCA, EC- Council, Awantec, MCCO, RE:HACK, NanoSec, SME Corp, BKRM, JPT, CSAM, MOSTI, KD, NAIO & TM One)\n\n(MOE, MOHE, KPWKM, MKN, BSEP, JPM KLN, KDN, KKD, MINDEF, NACSA, PDRM, JDN, KSM, MCMC, Khazanah Research, UKM & NGOs)\n\nOne-to-One Clinic\n\nWorkshop 2 Workshop 3 Workshop 4\n\nPublic Survey\n\n22 September - 10 October 2025\n\n25 August 2025 1-2 November 2025 27 November 2025\n\n8 October - 10 November 2025"
+  },
+  {
+    "depth": 2,
+    "section_id": "58",
+    "section_name": "Participants 44 Participants 43 Participants",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "A nationwide public survey was conducted through NACSA’s official website and social media platforms from 10 October to 10 November 2025 to obtain public feedback for the finalisation of MCSS 2025–2030\n\n(MKN, CGSO, MITI, JDN, CSM, MCMC, HRD Corp, MDEC, SIRIM, SC, BNM, PIKOM,"
+  },
+  {
+    "depth": 2,
+    "section_id": "80",
+    "section_name": "Participants",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "(MKN, CGSO, MITI, JDN, CSM, MCMC, HRD Corp, MDEC, SIRIM, SC, BNM, PIKOM,\n\n(SC, Awantec, JPPKK, JPK, SIRIM, KLN, KD, KKDW, KEMAS, JAKOA, NAIO, BSEP, KWSP, UPNM, KDN, PDRM, KPM, MCMC, HRD Corp, KPN, MOSTI, SME Corp, MKN, KWAP, MDEC, MARA, TalentCorp, BNM, JPDP, KBS, JDN, KK , CSM, UKM, MCCA, JPA, INTAN, KPWKM & MOF)\n\n(MKN, CGSO, MITI, JDN, CSM, MCMC, HRD Corp, MDEC, SIRIM, SC, BNM, PIKOM,\n\nEngagement with stakeholders was equally extensive. NACSA commenced the process with three (3) internal workshops involving participants from across the agency to identify capability gaps, key challenges and priority areas for strategic focus. This was followed by 47 engagement sessions, including inter-agency workshops, focus group discussions and targeted consultations with government agencies, regulators, national security bodies, industry representatives, academia and civil society organisations to refine strategic direction, validate key findings and ensure alignment with national policy frameworks.\n\nThe development of the Strategy was therefore supported through a collaborative, whole-of-society effort. Inputs from surveys, consultations and benchmarking exercises were synthesised into a coherent, evidence-based national strategy. Collectively, these processes ensure that MCSS 2025–2030 reflects Malaysia’s operational realities and is informed by rigorous analysis, diverse stakeholder perspectives and international best practices.\n\nMALAYSIA CYBER SECURITY STRATEGY 2025-2030 29"
+  },
+  {
+    "depth": 3,
+    "section_id": "Participants: 1.4",
+    "section_name": "A Whole-of-Society Approach",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "A whole-of-society approach is essential to cyber security as risks affect not only governments and technical systems, but also individuals, businesses, critical services and national stability. Accordingly, this strategy ensures that policy actions are practical, inclusive and responsive to real-world risks, promote shared ownership of cyber security outcomes, strengthen sustainable capacity-building, and enable coordinated action to protect NCII, economic activities and public trust in the digital ecosystem.\n\nGOVERNMENT, BUSINESS AND THE COMMUNITY ARE BROUGHT TOGETHER TO STRENGTHEN SOVEREIGN CYBER RESILIENCE, NURTURE AN ADAPTIVE DIGITAL SOCIETY, AND ADDRESS\n\nEMERGING CHALLENGES TOGETHER."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "CHARTING MALAYSIA’S — CYBER FUTURE — MCSS 2025 – 2030",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "2.1 (1)",
+    "section_name": "Government-Business-Community (G-B-C)",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "32"
+  },
+  {
+    "depth": 3,
+    "section_id": "2.2",
+    "section_name": "Sovereign Cyber Security Resilience: Nurturing Adaptive Digital Society",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "33"
+  },
+  {
+    "depth": 3,
+    "section_id": "2.3",
+    "section_name": "The Challenges",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "34"
+  },
+  {
+    "depth": 3,
+    "section_id": "2.1 (2)",
+    "section_name": "Government-Business-Community (G-B-C)",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Within the whole-of-society approach, the three (3) key stakeholders are Government, Businesses and Community.\n\nunit omm\n\n- C ess sin\n\nBu y P art ner sh ip\n\nCommunity Inputs Business Inputs\n\nLegislation\n\nPolicies\n\nLegislation/\n\nStandards\n\nPolicies"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "GOVERNMENT BUSINESS COMMUNITY",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Public Message and Collaboration\n\nComm unity -\n\nBusi ness\n\nAdvisory and Collaboration hip ners\n\nPart\n\nFigure 4: MCSS 2025-2030 Government–Business–Community (G–B–C) Model\n\nMCSS 2025–2030 positions cyber security as a shared responsibility, where Government, Business, and Community work in tandem, supporting and reinforcing one another to strengthen resilience, trust, and national preparedness. This adaptive, iterative loop ensures Malaysia’s cyber security posture remains responsive to emerging risks, and technological change."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "ROLE OF GOVERNMENT — ROLE OF BUSINESS — ROLE OF COMMUNITY",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Businesses implement and comply with legislation, policies, and standards, and ensure the protection of their systems, data, and supply chains. They are also responsible for developing and maintaining effective risk management, incident response, and recovery capabilities to minimise disruption and strengthen operational resilience. In addition, businesses provide insights based on operational realities, emerging risks, and their industrial expertise.\n\nGovernment establishes policies, legislation and enforcement, and standards that govern the national cyber security ecosystem. It also monitors threats, manages incidents, protects NCII, represents Malaysia’s interests internationally, and leads collaboration among Government, Businesses, and Communities to ensure a coordinated, robust, and resilient cyber security posture.\n\nCommunity plays an important role in promoting cyber security awareness, fostering responsible digital behaviour, and building grassroots resilience. By staying alert to scams, fraud, and other suspicious activities, and collaborating with government and businesses, the community helps cultivate a strong cyber security culture.\n\nMALAYSIA CYBER SECURITY STRATEGY 2025-2030 33"
+  },
+  {
+    "depth": 3,
+    "section_id": "GOVERNMENT BUSINESS COMMUNITY: 2.2",
+    "section_name": "Sovereign Cyber Security Resilience: Nurturing Adaptive Digital Society",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "The MCSS 2025-2030 theme, “Sovereign Cyber Security Resilience: Nurturing Adaptive Digital Society,” reflects Malaysia’s vision to uphold sovereignty and strengthen national control over digital infrastructure and build self-reliance, while nurturing a society that is secure, flexible and responsive to cyber risks and technological change.\n\nThe theme is anchored on three (3) core principles: Sovereign, Resilient and Adaptive."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Sovereign",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Sovereign reflects Malaysia’s commitment to strengthening national cyber security capabilities in order to safeguard NCII entities, businesses, communities and individuals. This principle underscores the importance of developing domestic expertise, enhancing local technological capacity and ensuring readiness to respond effectively to cyber security threats and incidents."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Resilient",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "A resilient ecosystem ensures that NCII entities, businesses, communities and individuals are capable to anticipate, withstand, recover, and adapt from cyber security incidents. This capability enables critical functions, business operations and the activities of communities and individuals can continue even during cyber security incidents."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Adaptive",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Adaptive ensures Malaysia’s cyber security evolves with emerging threats and technologies. An adaptive strategy adapts as conditions change to remain effective and relevant. This principle emphasises ongoing learning at all levels including anticipating risks, learning from incidents, and updating protective measures based on technological advances and global best practices."
+  },
+  {
+    "depth": 3,
+    "section_id": "Adaptive: 2.3",
+    "section_name": "The Challenges",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "As Malaysia navigates an increasingly complex digital landscape, several key cyber security challenges continue to affect government, businesses, and communities at large."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "The Evolving Cyber Security Threat Landscape",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "The cyber security landscape has evolved rapidly, with today’s threat environment shaped by highly sophisticated, persistent, and well-resourced adversaries. According to Google’s Cybersecurity Forecast 2026, artificial intelligence (AI) is becoming a central capability within the cyber security threat landscape, enabling more scalable and sophisticated forms of malicious activity. Generative AI has accelerated the use of deepfakes and synthetic media for impersonation, fraud, and disinformation, while emerging agentic AI capabilities further elevate risks by enabling automated, adaptive attacks with minimal human oversight.\n\nAt the same time, the expansion of blockchain and digital asset ecosystems, while offering significant opportunities for innovation and financial inclusion, has introduced new risks, particularly through the use of cryptocurrencies to facilitate illicit transactions, complicating financial tracing and enforcement efforts.\n\nIn parallel, the proliferation of Internet of Things (IoT) devices and the convergence of information technology (IT) with operational technology (OT) have widened the exposure of National Critical Information Infrastructure (NCII), where successful cyber attacks can result in physical disruption, service outages, and threats to public safety.\n\nAlongside these technological shifts, cybercrime, especially ransomware and data theft, will remain the most disruptive threat. Criminal groups are increasingly targeting critical systems, many of which remain insufficiently monitored by organisations. Successful attacks on these systems can create cascading impacts across supply chains and operational environments, amplifying economic and societal impacts.\n\nBeyond financially motivated crime, the threat landscape also includes ideologically driven cyber activities. Digital terrorism refers to cyber attacks carried out by individuals or groups driven by political or ideological motives to disrupt systems, create fear, or weaken public confidence. These attacks are not primarily motivated by financial gain, but by the intent to cause disruption or send a message. Such activities may include coordinated attacks on government websites or online services during periods of political tension, aimed at drawing attention and creating public concern.\n\nCyber risks are further shaped by global and regional geopolitical developments. Cyber espionage involves secret and long-term cyber activities, often linked to state or state-supported actors, aimed at stealing sensitive government, defence, or economic information. Rising geopolitical tensions have increased attempts to infiltrate government agencies, critical infrastructures, and strategic industries through Advanced Persistent Threats (APTs). These operations typically prioritise long term, covert access over immediate disruption, enabling continuous intelligence collection during periods of heightened strategic tension.\n\nAPTs continue to target NCII as part of broader geopolitical strategies, further elevating national-level cyber risks. The forecast also cautions that cyber-physical attacks, combined with disinformation, may become increasingly prevalent in regions experiencing high geopolitical instability.\n\nThese challenges are further increased by the growth of the dark web, which allows anonymous transactions involving stolen data. Personal data, government records, and system access can be traded, making it easier for attackers to reuse leaked information. In Southeast Asia, including Malaysia, government-related data has been advertised on dark web platforms, increasing risks to public trust, institutional reputation, and national security.\n\nDomestically, Malaysia faces additional challenges beyond AI-driven threats and evolving cybercrime. Rapid advancements in quantum computing threaten to undermine widely used cryptographic algorithms, potentially rendering existing security measures obsolete. These emerging threats necessitate a strategic shift from traditional perimeter-based defences towards proactive, layered, and future-oriented cyber security frameworks.\n\nMalaysia has experienced a significant increase in cyber attacks on its National Critical Information Infrastructure (NCII)"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "MALAYSIA CYBER SECURITY STRATEGY 2025-2030 35 — Governance and Implementation Challenges",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "The national cyber security landscape is vast and involves numerous agencies with diverse mandates, which can at times contribute to coordination and accountability gaps. While cooperation is ongoing, variations in roles, priorities, and operational approaches may affect the speed, consistency, and cohesion of the national response to cyber security threats.\n\nThese structural and coordination challenges are not unique to Malaysia, but reflect broader governance pressures faced by many countries as they navigate an increasingly complex cyber environment. This challenge mirrors global patterns. The World Economic Forum’s Global Cybersecurity Outlook 2025 highlights the increasing complexity of the cyber landscape and underscores the need for collaborative governance and cross-sector cooperation to manage cyber risks effectively, noting that interconnected systems, geopolitical tensions, emerging technologies and widening cyber inequities make shared action more important than ever. It highlights how complex global digital interdependencies make governance frameworks more critical than ever for national and corporate responses.\n\nThe World Economic Forum’s Global Cybersecurity Outlook 2025 underscores the need for collaborative governance and cross- sector cooperation to manage cyber risks effectively"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Cyber Maturity Gaps",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Cyber security capabilities across Malaysia’s NCII remain critically uneven, with significant disparities in organisational readiness. Cisco’s 2025 Cybersecurity Readiness Index reveals that overall cybersecurity readiness has remained largely flat, with approximately 4% of organisations globally achieving a Mature level of cybersecurity readiness, while most organisations remain in lower stages.\n\nThis reality highlights a critical gap between threat exposure and defensive capabilities, where risk management practices vary considerably, incident response plans are at different stages of maturity, and business continuity measures are not yet consistently strengthened across sectors.\n\nThese uneven levels of maturity are further reinforced by the inconsistent application of security standards across industries, creating substantial disparities in protection and introducing potential weak points within interconnected NCII systems. Such gaps are compounded by persistent organisational challenges, including limited financial resources, fragmented governance arrangements, skills shortages, and insufficient integration of human and organisational factors into cyber security strategies. Without addressing these foundational maturity issues, these organisations remain vulnerable to increasingly sophisticated cyber security threats.\n\n4% of organisations globally achieving a Mature level of cyber security readiness, while most organisations remain in lower stages"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Sovereignty Challenges",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "The rapid evolution of digital technologies is reshaping traditional notions of national sovereignty. As government services, NCII, and essential economic functions rely more heavily on cloud platforms, AI systems, cross-border data flows, and globally distributed supply chains, Malaysia faces growing challenges in maintaining full authority over its digital ecosystem.\n\nCyber security sovereignty refers to a state’s ability to exercise full control over its cyber policies, technologies, critical infrastructure and data, in accordance with national laws and priorities. It includes ensuring that critical data remains within national jurisdiction, safeguarding essential digital infrastructure, and reducing overdependence on foreign technologies in order to strengthen national resilience.\n\nHowever, achieving cyber security sovereignty is increasingly difficult in a digital environment that is borderless and interconnected. As Malaysia continues to attract high-value foreign investments and integrate into global value chains, many digital services and technologies, including cloud platforms and AI systems, come from established international providers. These solutions bring significant benefits in terms of innovation, security expertise, and economic growth.\n\nThe challenge for Malaysia, therefore, is not to limit foreign technology, but to strike an effective balance, leveraging trusted global technologies while strengthening local capabilities in areas where sovereign control is essential. This balanced approach helps mitigate risks related to supply chain dependencies, exposure to differing legal or regulatory regimes, and vulnerabilities that may arise from external disruptions, without undermining Malaysia’s attractiveness as an investment destination.\n\nThese realities highlight a key tension, while Malaysia must assert sovereign control over its digital domain, it must also work closely with international partners to manage cross-border cyber security threats, as no country can secure cyberspace alone.\n\nTo address these sovereignty-related challenges, Malaysia must strengthen its domestic capabilities in governance, cloud security, cryptography, AI governance, and incident response, and invest in local technological innovation. At the same time, Malaysia should continue engaging global partners, adopting international best practices, and integrating trusted foreign technologies. This dual-track approach is essential to preserving strategic autonomy, supporting continued economic investment, and ensuring Malaysia remains secure, competitive, and resilient in an era of rapid digital transformation."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "MALAYSIA CYBER SECURITY STRATEGY 2025-2030 37 — Misalignment Between Digital Transformation Demands and Human Capital Development",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Malaysia’s digitalisation journey, from the Multimedia Super Corridor (MSC) to today’s AI-enabled GovTech initiatives, reflects steady progress alongside continuing areas for improvement. These include systems that still operate in silos, varying levels of user experience, gaps in public-sector digital skills, and digital platforms that are not yet fully aligned with organisational workflows. Together, these challenges signal a misalignment between technological ambition and human capital readiness.\n\nThis misalignment is also reflected more broadly in the labour market, where structural gaps between education, skills development and digital economy demands continue to persist. While graduate employability reached 89.8% in 2023 and overall unemployment remained low at 3.2% in 2024, graduate skill-related underemployment stood at 32.2%, indicating that graduates are securing employment but often in roles that do not fully utilise their qualifications or align with digital economy needs. This suggests that, despite workforce development initiatives such as minimum wage increases, the Progressive Wage Policy and GLC/GLIC wage reforms, the supply of graduates does not sufficiently match the specific competencies required by industry. The gap is particularly pronounced in specialised digital domains, where demand continues to outpace the available talent pool.\n\nGraduate employability reached\n\n89.8% in 2023\n\nOverall unemployment remained low at 3.2% in 2024\n\nEducation outcomes play an important role in shaping Malaysia’s long-term talent pipeline. While access to primary education is universal, challenges remain in strengthening education quality, improving alignment with industry needs, and addressing student dropout rates. These challenges are particularly evident in cyber security education, where limited early exposure, cost barriers, rapidly evolving curricula, and uneven policy support have contributed to a workforce that is growing in size but still developing in specialised capabilities. Targeted efforts to increase women’s participation in cyber security education and careers are also essential to broaden the national talent pool and address critical skills gaps. As a result, public-sector digital transformation and the development of advanced cyber security expertise may be constrained.\n\nGraduate skill-related underemployment rate was"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "32.2% — Challenges in Scaling Research Capacity and R&D Commercialisation",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Malaysia’s innovation ecosystem continues to advance, but faces several economic and structural challenges that constrain its research capacity and ability to translate R&D into commercial applications. Research institutions face constraints related to modest funding levels, limited commercialisation pathways, and gaps in research governance processes. These challenges are compounded by gradual productivity growth and varying levels of private-sector participation in research activities, particularly among MSMEs seeking to integrate into technology-driven value chains.\n\nCoordination between industry, academia, and government remains an area requiring strengthening. Fragmented research infrastructures and limited cross-sector collaboration can slow the translation of research into practical technologies, leading to continued reliance on foreign technologies and external expertise for implementation and maintenance. This dependency is particularly evident in strategic domains such as cyber security, where the ability to develop homegrown solutions would enhance Malaysia’s technological sovereignty and reduce long-term vulnerabilities.\n\nNACSA’s 2025 industry survey identified key gaps and priority opportunities for Malaysia to strengthen investment in strategic research areas and deepen private sector participation in R&D initiatives. Enhancing research collaboration, strengthening technology transfer mechanisms, and better aligning R&D priorities with national strategic needs are key steps toward building robust local capabilities and reducing dependence on external solutions. Addressing these challenges is essential for scaling Malaysia’s research capacity and improving the commercialisation pathway from laboratory to market.\n\nResearch institutions face constraints related to modest funding levels, limited commercialisation pathways, and gaps in research governance processes"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "MSMEs Cyber Security Gaps and Systemic",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Micro, small, and medium enterprises (MSMEs) form an essential pillar of Malaysia’s economy, yet often operate with limited resources for cyber security investment. Constrained by budget limitations, lack of specialised personnel, and limited awareness of evolving threats, MSMEs typically maintain significantly lower levels of cyber preparedness compared to larger organisations, government agencies, and major corporations. This resource disparity creates a systemic vulnerability: adversaries increasingly exploit weaker-secured MSMEs as entry points to penetrate supply chains and reach better-protected targets, turning these smaller enterprises into inadvertent conduits for broader attacks against Malaysia’s digital infrastructure.\n\nThe interconnected nature of modern business ecosystems means that a breach at a single MSME vendor, supplier, or service provider can cascade through networks of partners and clients, potentially compromising systems across multiple sectors. Addressing this systemic risk requires a multi-pronged approach that recognises MSMEs’ resource constraints while strengthening their defensive capabilities. Security frameworks must be practical and scalable for smaller enterprises, providing accessible guidance, affordable solutions, and clear implementation pathways rather than enterprise-grade requirements that MSMEs cannot realistically adopt. Strengthening MSMEs cyber resilience is therefore a strategic imperative, extending beyond individual business protection to the resilience of Malaysia’s broader digital economy."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "MALAYSIA CYBER SECURITY STRATEGY 2025-2030 39 — Quantum Computing Threats and Encryption",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "As Malaysia’s digital systems become increasingly reliant on cryptographic protections, advances in quantum computing present a growing long-term challenge to existing encryption standards. Over time, these developments may undermine the cryptographic algorithms that currently secure Malaysia’s digital systems.\n\nWidely deployed algorithms such as RSA and ECC could be broken once quantum capabilities advance further, posing significant risks to government platforms, critical infrastructure, and sensitive data requiring long-term protection. Although large-scale quantum computers capable of breaking current encryption remain years away, the threat is compounded by “harvest now, decrypt later” attacks, where adversaries collect encrypted data today to decrypt once quantum computers become available. This makes early preparation not just advisable but essential.\n\nMalaysia’s readiness for Post-Quantum Cryptography (PQC) is still developing. Encryption standards and key management practices vary across agencies and sectors, resulting in uneven levels of protection across interconnected systems. At the same time, if Malaysia continues to rely on foreigndeveloped cryptographic tools, which, while effective, will limit the country’s ability to independently assess security features and supply chain risks.\n\nTo ensure long-term resilience, Malaysia will need coordinated planning for the transition to PQC, greater alignment of cryptographic standards and investment in domestic research, testing and specialist talent. These steps will strengthen national preparedness for a post-quantum future.\n\nTo ensure long-term resilience, Malaysia will need coordinated planning for the transition to PQC\n\nFROM VISION TO REALITY: TEN STRATEGIC GOALS ADVANCE CYBER SECURITY SOVEREIGNTY, RESILIENCE AND ADAPTABILITY THROUGH ACTION PLANS, PROGRAMMES AND COORDINATED\n\nNATIONWIDE COLLABORATION."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "IMPLEMENTING MCSS 2025-2030",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "3.1 MCSS 2025-2030 : Focus Areas and Strategic Goals 42"
+  },
+  {
+    "depth": 3,
+    "section_id": "3.1",
+    "section_name": "MCSS 2025-2030 : Focus Areas and Strategic Goals",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "MCSS 2025–2030 represents a significant evolution in Malaysia’s cyber security strategy, structured around four (4) focus areas: governance and legislation, protection and resilience, capacity building and innovation, as well as culture and people. These focus areas are operationalised through ten (10) Strategic Goals, reflecting a deeper understanding that cyber security permeates all aspects of national development.\n\nI\n\nS\n\nU\n\nB le\n\n- op e\n\nP d\n\nSG10: Promote Responsible an T\n\nDigital Citizenship e ur lt\n\nN"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Cu",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "SG9: Promote Public\n\nE\n\nL\n\nM\n\nTrust in Digital\n\nU\n\nS\n\nEcosystems\n\nP\n\nI\n\nM\n\nL\n\nM\n\nI\n\nS\n\nI\n\nE\n\nE\n\nR\n\nE\n\n•\n\nR\n\nN\n\nO\n\nN\n\nG\n\nN\n\nE\n\nS"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Go",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "S ve rn an SG1: Enhance Cyber Security Governance ce\n\n- a n and Ecosystem d"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Le SG2: Strengthen Malaysia’s",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "gi\n\nC\n\nLegislation and st\n\nEnforcement at Ecosystem\n\nO io\n\nO\n\nR\n\nE n\n\nM\n\nSG3: Strengthen International\n\nM\n\nI\n\nN\n\nT\n\nP\n\nS\n\n•\n\nCooperation\n\nU\n\nM\n\nA M"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Malaysia Cyber Security",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "I\n\nL\n\nE\n\nR\n\nE\n\nV\n\nR\n\nM\n\nO\n\nS\n\nSG8: Foster Cyber Security Research, Development,\n\nU\n\nS\n\nE\n\nP\n\nCommercialisation, and I\n\nM\n\nInnovation (RDCI)\n\nE"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Ca",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "R\n\nV\n\nL\n\nO\n\nL pa\n\nSG7: Nurture Cyber Talent and cit\n\nO\n\nWorkforce Development y B\n\nSG6: Leverage Emerging Technologies for Cyber uil\n\nG di ng\n\nSecurity Resilience a n d\n\nIn no va ti on\n\nD\n\nA P"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Strategy 2025-2030",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "T\n\nU\n\nI\n\nM\n\nV\n\nE\n\nU\n\nS\n\nSG4: Strengthen Protection\n\nP\n\nN\n\nI\n\nM and Resilience of E\n\nR\n\nNational Critical\n\nO\n\nI\n\nInformation Infrastructure (NCII) and ce\n\nBusinesses\n\nT en ili\n\nSG5: Strengthen Community es\n\nY\n\nR\n\nCyber Resilience nd a on ti ec ot"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Pr",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Figure 5: MCSS 2025-2030 Framework\n\nMALAYSIA CYBER SECURITY STRATEGY 2025-2030 43"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Enhance Cyber Security Governance and Ecosystem",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Objective To strengthen Malaysia’s cyber security governance and ecosystem to improve cross-sector coordination, enhance cyber defence capabilities, strengthen threat detection and disruption mechanisms, and support resilience among businesses and communities, and build an integrated, robust and future-ready national governance landscape.\n\nACTION PLANS PROGRAMMES LEAD AND SUPPORTING AGENCIES\n\nAction Plan 1 Strengthen Governance Structures\n\nNACSA, Cyber Security and Cryptology Development Centre (CSCDC), Malaysia Cryptology Technology and Management Centre (PTPKM)\n\n1. Establish a cyber security and cryptology technical arm\n\n2. Establish a cyber defence force to strengthen active cyber defence, support preventive operations, and improve international cooperation in line with Malaysia’s defence and security priorities\n\nThe Malaysian Armed Forces (MAF)\n\n3. Establish an inter-agency coordination mechanism to clearly define roles, harmonise policies, and strengthen accountability across national cyber security efforts\n\nNACSA, CSCDC, Personal Data Protection Department (JPDP)\n\nNACSA, CSCDC, MAF, JPDP, Malaysian Communications and Multimedia Commission (MCMC)\n\n4. Establish a cyber security crisis communication framework to streamline crisis communication and ensure a coordinated national response during major cyber security incidents\n\nMinistry of Communications (KK), Ministry of Digital (KD)\n\n5. Establish a secure communication platform for government\n\n6. Conduct a feasibility study on appointing designated cyber security leaders in all NCII entities and relevant non-NCII organisations\n\nNACSA, KK, CSCDC\n\nOUTCOMES 1. A centralised cyber security and cryptology expertise\n\n2. A coherent and harmonised cyber security policies and governance framework\n\n3. A fully operational cyber security crisis communication framework that enables timely, accurate, and unified national messaging during major incidents\n\n4. A feasibility-backed pathway to appoint designated cyber security leaders across all NCII entities and relevant non-NCII organisations, strengthening leadership and decision-making capacity\n\nAchievements of MCSS 2020 - 2024\n\nEstablishment of the National Cyber Security Committee (JKSN)\n\nEnhancement of the National Cyber Coordination and Command Centre (NC4)\n\nDevelopment of the National Cyber Crisis Management Plan (NCCMP)\n\nStrategic Goal 1 Enhance Cyber Security Governance and Ecosystem\n\nACTION PLANS PROGRAMMES\n\nAction Plan 2 Strengthen cyber security maturity capability and cyber risk management\n\nLEAD AND SUPPORTING AGENCIES\n\n1. Conduct national cyber security maturity assessments for NCII entities in alignment with the National Cyber Security Baseline (NCSB) to strengthen their cyber security defence\n\nNACSA\n\nNACSA, CSCDC\n\n2. Conduct national cyber security maturity assessments for non-NCII organisations based on the NCSB and review the NCSB to ensure alignment with current requirements and global best practices\n\nNACSA, CSCDC\n\n3. Develop cyber security incident playbook guide for NCII entities\n\n4. Establish selected sector-based threat intelligence (TI) sharing platforms across NCII sectors\n\nNACSA, CSCDC, JPDP\n\n5. Conduct regular cyber exercises to ensure all NCII entities maintain high levels of operational readiness against evolving digital threats\n\nOUTCOMES\n\nNACSA\n\n1. Establish baseline readiness and maturity of NCII entities and selected non-NCII organisations 2. Increased effectiveness of cyber security incident management 3. Enhanced cyber security threat visibility and sector-wide resilience across NCII sectors\n\nAction Plan 3 Ensure sustainable support for national cyber security strategy\n\n1. Establish Kumpulan Wang Keselamatan Siber to support implementation of strategic programmes\n\nNACSA, CSCDC\n\n2. Facilitate regular dialogues involving government, industry, universities, community, and vulnerable groups to address cyber security needs and core issues\n\nOUTCOMES\n\nNACSA, CSCDC, JPDP\n\nA sustainably funded, collaboratively supported ecosystem that enables consistent progress and resilient implementation of national cyber security initiatives\n\nAction Plan 4 Implement National Cryptography Policy\n\n1. Establish and implement the new National Cryptography Policy (MyKriptografi) and MyKriptografi Strategic Plan 2026-2030\n\nNACSA, PTPKM\n\nPTPKM, NACSA, CSCDC\n\n2. Targeted training, workshops, and outreach to system integrators, IT security teams, and NCII entities to improve cryptographic implementation and awareness\n\nPTPKM, NACSA, CSCDC\n\n3. Develop and implement Post-Quantum Cryptography (PQC) Migration Roadmap 2024-2030\n\nEnhance national preparedness against quantum computing threats\n\nMALAYSIA CYBER SECURITY STRATEGY 2025-2030 45"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Strengthen Malaysia’s Legislation and Enforcement Ecosystem",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Objective To strengthen Malaysia’s legislation and enforcement ecosystem which will enhance legal standards, improve cyber security and cybercrime enforcement and foster a secure digital environment.\n\nACTION PLANS PROGRAMMES\n\nLEAD AND SUPPORTING AGENCIES\n\n1. Conduct engagement sessions and feasibility study on Cybercrimes Bill\n\nAction Plan 1 Enhance, review, enact and modernise Malaysia’s legal and regulatory framework to address current and emerging threats\n\n2. Drafting of the Cybercrimes Bill\n\n3. Tabling of the Cybercrimes Bill in Parliament\n\n4. Entry into force of the Cybercrimes Bill\n\nNACSA\n\nNACSA\n\nNACSA\n\nNACSA, The Royal Malaysia Police (RMP), MCMC\n\nNACSA, CSCDC\n\n5. Conduct engagement sessions and feasibility study on proposed amendments to the Cyber Security Act 2024 [Act 854]\n\n6. Review Cyber Security Act 2024 [Act 854]\n\nNACSA, CSCDC\n\nOUTCOMES A modernised and comprehensive national cybercrime legislative framework is implemented and this is demonstrated by:\n\n1. Drafting and enforcement of the Cybercrimes Act, with technology-neutral provisions and terms, establishing clear offences addressing new and emerging threats, enhanced investigative powers, and procedural rules aligned with international standards\n\n2. Timely revision of the Cyber Security Act 2024, ensuring regulatory alignment with evolving threats and operational needs across sectors\n\n3. Strengthened legal clarity and prosecutorial consistency across all forms of cybercrime, including emerging threats such as AI-generated offences, deepfakes, and cross-border attacks\n\n4. Enhanced legal certainty for enforcement agencies, enabling more effective investigation, digital evidence handling and international cooperation with foreign counterparts\n\nAchievement of MCSS 2020 - 2024\n\nThe enactment of the Cyber Security Act [Act 854] on 26 August 2024 and the issuance of nine (9) directives by the NACSA Chief Executive\n\nStrategic Goal 2 Strengthen Malaysia’s Legislation and Enforcement Ecosystem\n\nACTION PLANS PROGRAMMES\n\nLEAD AND SUPPORTING AGENCIES\n\nNACSA, RMP, CSCDC\n\n1. Conduct specialised cybercrime training programme\n\nAction Plan 2 Strengthen capacity and capabilities for cybercrime enforcement agencies\n\n2. Enhance digital forensics capability programme\n\nNACSA, RMP, CSCDC\n\n3. Strengthen cybercrime investigation tools and infrastructure programme\n\nNACSA, RMP, CSCDC\n\n4. Establish inter-agency cybercrime collaboration and joint taskforce programme\n\nNACSA, RMP, CSCDC\n\nNACSA, RMP, CSCDC\n\n5. Strengthen cybercrime intelligence and analytics programme\n\nNACSA, RMP, Ministry of Foreign Affairs (MOFA)\n\n6. Foster international cooperation programmes with relevant partners including United Nations Office of Drugs and Crime (UNODC), INTERPOL, ASEANAPOL and Council of Europe (CoE)\n\nKK, RMP, Central Bank of Malaysia (BNM)\n\n7. Enhance cybercrime awareness and reporting programme\n\n8. Develop policy, SOP, and investigation framework programme\n\nOUTCOMES\n\nNACSA, CSCDC, JPDP\n\n1. Enhanced investigative, technical, and analytical capabilities of law enforcement agencies (LEAs)\n\n2. Coordinated and effective inter-agency operations\n\n3. Stronger international cooperation and cross-border enforcement\n\n4. Improved public reporting pathways and cybercrime awareness\n\n5. Higher prosecution success and stronger deterrence\n\nMALAYSIA CYBER SECURITY STRATEGY 2025-2030 47"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Strengthen International Cooperation",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Objective To strengthen Malaysia’s international cyber cooperation ecosystem which will enhance Malaysia’s global standing, improve cross-border enforcement, information sharing and response capabilities, and foster a more secure, stable, and resilient international cyber environment.\n\nACTION PLANS PROGRAMMES\n\nAction Plan 1 Strengthen Malaysia’s legal, institutional and international cooperation frameworks for combating cybercrime\n\nLEAD AND SUPPORTING AGENCIES\n\n1. Signing the United Nations Convention Against Cybercrime; Strengthening International Cooperation for Combating Certain Crimes Committed by Means of Information and Communications Technology Systems and for the Sharing of Evidence in Electronic Form of Serious Crimes (UN Convention)\n\n2. Ratify the UN Convention against Cybercrime\n\nNACSA\n\nNACSA\n\nNACSA\n\n3. Accede to the Council of Europe Convention on Cybercrime (Budapest Convention, ETS No. 185)\n\nNACSA\n\n4. Establishment of the 24/7 network through the strengthening of National Scam Response Centre (NSRC)\n\nNACSA\n\n5. Alignment of Cybercrimes Bill with UN Convention and Budapest Convention\n\nOUTCOMES\n\n1. A harmonised and internationally aligned cybercrime legal and operational framework\n\n2. Enhances Malaysia’s capacity for cross-border enforcement\n\n3. Improve protection for individuals, businesses, and national security\n\n4. Strengthened trust from foreign partners through compliance with global norms\n\n5. Greater admissibility and interoperability of digital evidence for international cases\n\nAction Plan 2 Support the development and implementation of international cyber rules, norms, principles and standards\n\n1. Develop National Position on Applicability of International Law in the State use of Information and Communication Technology (ICT)\n\nNACSA\n\nNACSA, MOFA\n\n2. Establish a National Cyber Diplomacy Working Group for a unified Malaysia’s position on the UN Global Mechanism on Developments in the Field of ICTs in the Context of International Security and Advancing Responsible State Behaviour in the Use of ICTs\n\n3. Organised international cyber security exhibitions and conferences\n\nNACSA, MOFA\n\n4. Organised capacity-building workshops with international organisations on international cyber rules, norms, principles, and standards\n\nNACSA, MOFA\n\nOUTCOMES 1. A national position that aligns Malaysia’s interpretation of international law with global norms while safeguarding national interests, supporting coherent policy stances across relevant agencies\n\n2. Improved international credibility by positioning Malaysia as a proactive nation in shaping global cyber security governance\n\nStrategic Goal 3 Strengthen International Cooperation\n\nACTION PLANS PROGRAMMES\n\nLEAD AND SUPPORTING AGENCIES\n\nNACSA, CSCDC, MOFA, MAF, MCMC\n\n1. Establish cooperation on information sharing, capacity building, and incident response and assistance through bilateral and multilateral engagements\n\nAction Plan 3 Establish and expand trusted international information-sharing networks\n\nNACSA, CSCDC, MAF\n\n2. Conduct and participate in joint exercises simulations with international partners\n\nNACSA\n\n3. Promote a wider participation and leverage on ASEAN Regional Forum Point of Contact Directory\n\nOUTCOMES Improved coordination and operational readiness for cross-border cyber incident response\n\n1. Conduct a national gap assessment on the implementation of 11 UN Norms\n\nAction Plan 4 Align domestic and international cyber security efforts\n\nNACSA\n\nNACSA\n\n2. Conduct awareness workshops for Government & NCII Sectors on Norms of Responsible State Behaviour in Cyberspace\n\n3. Explore Malaysia’s participation in Counter Ransomware Initiative (CRI)\n\nOUTCOMES\n\nNACSA\n\n1. Increased national awareness and institutional understanding of responsible state behaviour in cyberspace among stakeholders\n\n2. Expand Malaysia’s capability in tackling ransomware\n\nAchievement of MCSS 2020 - 2024\n\nActive participation in bilateral and multilateral fora through cyber diplomacy\n\nMALAYSIA CYBER SECURITY STRATEGY 2025-2030 49"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Strengthen Protection and Resilience of National Critical Information Infrastructure (NCII) and Businesses",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Objective To strengthen the protection and resilience of NCII and businesses, including MSMEs, against evolving cyber security threats to safeguard national security, economic stability, public confidence and maintain the uninterrupted operation and rapid recovery of critical digital services and business functions.\n\nACTION PLANS PROGRAMMES\n\nAction Plan 1 Enhance Cyber Security Competencies and Capabilities for NCII entities\n\nLEAD AND SUPPORTING AGENCIES\n\n1. Provide NCII specialised security programme (e.g. operational technology (OT), AI/ML Security & Adversarial AI Defence, Advanced Persistent Threat (APT) Defence, Supply Chain)\n\nNACSA, CSCDC, National Digital Department (JDN)\n\n2. Develop a new directive on PQC migration plan readiness focusing on NCII cryptography inventory, risk and dependency assessments and initial PQC migration plan\n\nNACSA, PTPKM\n\nNACSA, PTPKM\n\n3. Prepare NCIIs cryptography inventory, risk and dependency assessments, and initial PQC migration plan\n\n4. Implement a phased PQC migration plan to ensure resilient, future-proof protection against emerging quantum threats\n\nNACSA, PTPKM\n\nNACSA, PTPKM\n\n5. Develop Security-by-Design implementation framework including guidelines, mandatory security architecture reviews and continuous monitoring requirements\n\nOUTCOMES\n\n1. Strengthened cyber security capacity and capabilities of NCII entities\n\n2. Achieve quantum-resistant cryptographic protection, ensuring continued confidentiality of critical data and uninterrupted operation of critical services against quantum computing threats\n\n3. Elevated national cyber resilience through mandating Security-by-Design in NCII sectors\n\nStrategic Goal 4 Strengthen Protection and Resilience of National Critical Information Infrastructure (NCII) and Businesses\n\nACTION PLANS PROGRAMMES\n\nLEAD AND SUPPORTING AGENCIES\n\nMalaysia Digital Economy Corporation (MDEC), CSCDC\n\n1. Develop incentive programmes to adopt cyber security initiatives\n\nAction Plan 2 Enhance cyber security protection for non-NCII and businesses including MSMEs\n\n2. Implement a structured training and capacity-building programme and support businesses in obtaining local and international standard certifications\n\nHuman Resource Development Corporation (HRD CORP), NACSA, CSCDC, SME CORP, MDEC, Majlis Amanah Rakyat (MARA), JPDP\n\n3. Develop a professional baseline framework on cyber security resilience, including trainings with quality ToT and training materials\n\nCSCDC, HRD CORP\n\nMDEC, SME CORP, CSCDC\n\n4. Design a cyber security governance model appropriate for MSMEs\n\nJPDP\n\n5. Develop self-assessment tools to ascertain companies’ level of compliance on protection of personal data\n\n6. Enhance existing cyber hygiene programmes\n\nNACSA, KK, KD\n\nOUTCOMES Strengthen cyber security adoption and expand cyber hygiene and cyber security culture among non- NCII organisations and businesses, including MSMEs\n\nAction Plan 3 Enhancing the standard of cyber security service providers\n\n1. Upgrade existing licensing system for cyber security service providers in compliance with Act 854 requirements\n\nNACSA\n\n2. Develop and enforce record keeping directive for cyber security service providers\n\nNACSA\n\nEnsure the credibility of cyber security service providers"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Strengthen Community Cyber Security Resilience",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Objective To ensure equitable cyber security protection and digital participation for vulnerable communities to safely access digital services.\n\nACTION PLANS PROGRAMMES\n\nLEAD AND SUPPORTING AGENCIES\n\n1. Develop cyber security awareness modules for diverse communities, along with customised modules and applications (e.g. visual and audio aids) tailored for vulnerable groups\n\nAction Plan 1 Strengthen community-level cyber security awareness, literacy, and resilience\n\nKD, KK, MCMC, NACSA, CSCDC, Ministry of Youth and Sport (KBS), JPDP\n\n2. Develop cyber hygiene toolkit tailored to the specific needs of vulnerable communities\n\nNACSA, CSCDC, Ministry of Women, Family, and Community Development (KPWKM), Ministry of National Unity (KPN), Ministry of Rural and Regional Development (KKDW)\n\n3. Pop-up helpdesk, roadshow, and campaigns on financial crimes\n\nBNM, CSCDC\n\n4. Leverage community centres and Talian Kasih (15999) as digital helpdesks for vulnerable communities\n\nKPWKM, KKDW, CSCDC, KPN, MCMC\n\nKD, CSCDC, Ministry of Education (MOE)\n\n5. Develop a digital literacy framework to establish national benchmarks for measuring awareness and competencies\n\nOUTCOMES\n\n1. Comprehensive public awareness campaigns 2. Improved access to tailored cyber security support services for vulnerable communities through enhanced toolkits, helpdesks, and dedicated scam-reporting channels\n\nAction Plan 2 Strengthen community cyber security outreach programmes\n\n1. Establish cyber volunteerism to encourage community-level participation in cyber security awareness programmes\n\nMCMC\n\nKK, CSCDC\n\n2. Identify suitable public figures or personalities as national cyber security icons\n\n3. Showcase success stories and recognise impactful initiatives by communities, NGOs, and associations as best-practice examples\n\nNACSA, CSCDC, MCCA, KPN, KK, MCMC\n\n4. Encourage businesses to organise CSR related to cyber security awareness programmes at community level\n\nCSCDC, MDEC\n\nOUTCOMES Communities across Malaysia become more informed, engaged, and resilient\n\nAchievement of MCSS 2020 - 2024\n\nStrengthened nationwide cyber security awareness through programmes reaching schools, SMEs, and communities"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Leverage Emerging Technologies for Cyber Security Resilience",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Objective To strengthen national cyber security resilience by leveraging AI and other emerging technologies as strategic enablers to enhance local capabilities and protection of national cyber security ecosystem.\n\nACTION PLANS PROGRAMMES\n\nAction Plan 1 Integrate emerging technologies into national cyber security ecosystem\n\nLEAD AND SUPPORTING AGENCIES\n\n1. Establish an AI-augmented cyber security threat intelligence and cyber security monitoring\n\nNACSA, JDN, National Artificial Intelligence Office (NAIO), MCMC\n\n2. Establish a sovereign cloud to safeguard the Government’s classified data within a secure, government controlled cloud environment\n\nKD\n\n3. Develop emerging technologies regulatory frameworks, coherent policies, and actionable guidelines relating to cyber security\n\nNACSA\n\n4. Conduct studies on emerging cyber security threats and advancements in cyber security technologies, and revise legislative frameworks accordingly\n\nNACSA, CSCDC, NAIO\n\nOUTCOMES\n\n1. Improved national detection accuracy and response speed for sophisticated cyber security threats\n\n2. Greater protection of sensitive data and stronger digital sovereignty for Malaysia.\n\n3. Strengthen governance and establish a regulatory foundation to ensure emerging technologies are adopted responsibly and sustainably\n\n4. Drafting and enforcement of the Cybercrimes Act, with technology-neutral provisions and terms, establishing clear offences addressing new and emerging threats, enhanced investigative powers, and procedural rules aligned with international standards\n\nMALAYSIA CYBER SECURITY STRATEGY 2025-2030 53"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Nurture Cyber Security Talent and Workforce Development",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Objective To build a comprehensive cyber security talent ecosystem to maintain a sustainable pipeline of qualified cyber security professionals equipped with technical skills, digital trustworthiness, and leadership capabilities to protect national interests.\n\nACTION PLANS PROGRAMMES\n\nLEAD AND SUPPORTING AGENCIES\n\n1. Incorporate element of cyber security into a new national curriculum\n\nAction Plan 1 Integrate cyber security education across all levels of education\n\nMOE, NACSA, CSCDC\n\nThe Department of Polytechnic and Community College Education (JPPKK, MOHE), NACSA, CSCDC\n\n2. Elevate existing Technical and Vocational Education and Training (TVET) programmes that equips learners with cyber security skills aligned with industry standards and workforce demands\n\n3. Engagement with relevant funding agencies to provide financial assistance and recognise cyber security as a critical field of study, including special track for vulnerable individuals\n\nOUTCOMES\n\nNACSA, MOSTI, MARA, Public Service Department (JPA), MOHE, CSCDC\n\nA well informed society and competent cyber security workforce\n\n1. Provide workforce development training programmes for upskilling and reskilling, including IT professional transition to cyber security roles, diverse groups, integrating three core areas: technical skills, digital trustworthiness, and soft skills development\n\nAction Plan 2 Develop cyber workforce capabilities, talent pipelines and standards\n\nNACSA, Public Service Department (JPA), MARA, MOE, TalentCorp, KD, JDN, MDEC\n\n2. Conduct cyber security refresher course for civil servants\n\nNACSA, National Institute of Public Administration (INTAN)\n\n3. Introduce Cyber Leadership Excellence Programme that combines rotational pathways across government, private sectors, and international organisations with comprehensive leadership training for NCII entities and non-NCII organisations\n\nNACSA, CSCDC, JPA, KPN\n\nNACSA, TalentCorp\n\n4. Establish a cyber security diaspora task force to develop and implement initiatives that encourage Malaysian cyber security experts abroad to return to Malaysia\n\nDepartment of Skills Development (JPK), CSCDC, NACSA\n\n5. Enhance the existing national skills registry to include cyber security professionals and their specialised competencies\n\nJPK, CSCDC, NACSA, JPDP\n\n6. Develop national occupational standards and competency frameworks for cyber security professions\n\nOUTCOMES 1. An empowered cyber security workforce with strengthened capabilities, recognised professional standards, and a sustainable talent pipeline 2. A sustainable national cyber talent pipeline supported by diaspora engagement, career transitions, and retention initiatives 3. Strengthened national cyber security professional standards and competency frameworks aligned with international best practices"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Foster Cyber Security Research, Development, Commercialisation and Innovation (RDCI)",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Objective To promote cyber security research, development, commercialisation and innovation (RDCI) to establish Malaysia’s technological sovereignty and create economic value from cyber security innovation.\n\nACTION PLANS PROGRAMMES\n\nLEAD AND SUPPORTING AGENCIES\n\nNACSA, MOHE, Malaysian Research Accelerator for Technology and Innovation (MRANTI), MTDC, CSCDC, Cyber Security Academia Malaysia (CSAM)\n\n1. Explore opportunities to enhance cooperation between universities and industry in RDCI\n\nAction Plan 1 Strengthen relationship between university and industry for RDCI\n\n2. Facilitate knowledge transfer programme through industry-academia exchanges, sabbaticals, and secondments to strengthen researchindustry linkages\n\nNACSA, CSAM\n\n3. Facilitate industry placements for PhD students and postdoctoral researchers to gain practical experience and skills, while helping organisations access specialised research expertise\n\nNACSA, MOHE, CSAM\n\n4. Identify Malaysian research and knowledge exchange leaders who can help develop, implement, and champion practical guidance\n\nNACSA, MOHE, CSAM\n\n5. Enhance existing platforms for universities to present research outputs and market-ready products to government and industry\n\nOUTCOMES\n\nNACSA, MOHE, CSAM\n\nStrengthen local cyber security commercialisation process\n\nAchievement of MCSS 2020 - 2024\n\nFoster local R&D and innovation in cyber security through the establishment of Centres of Excellence at universities\n\nMALAYSIA CYBER SECURITY STRATEGY 2025-2030 55"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "FOCUS AREA 4: CULTURE AND PEOPLE — Promote Public Trust in Digital Ecosystems",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Objective To create transparent, secure, and trusted digital environments that enable confident public participation in the digital economy.\n\nACTION PLANS PROGRAMMES\n\nAction Plan 1 Strengthen cyber security standards, certification, and trust mechanisms\n\nLEAD AND SUPPORTING AGENCIES\n\n1. Conduct a feasibility study on establishing a cyber trust mark certification scheme\n\nMDEC, NACSA, CSCDC, SIRIM Berhad\n\nCSCDC, MCMC, SIRIM Berhad\n\n2. Develop a national cyber security labelling scheme for digital products to help consumers identify secure devices and applications\n\nCSCDC, MDEC, SIRIM Berhad\n\n3. Conduct a feasibility study on the suitability of supply chain security certification\n\nOUTCOMES\n\nA trusted, transparent and standards-based national cyber assurance ecosystem\n\nAction Plan 2 Strengthen public engagement and confidence\n\n1. Develop a digital trust framework to measure public trust in digital platforms, services, and government initiatives\n\nCSCDC, NACSA\n\nCSCDC\n\n2. Conduct a feasibility and pilot program on establishing Malaysia’s Sovereign Digital Identity framework to facilitate interoperability of digital wallets\n\n1. Increased public trust in the digital ecosystem 2. Enhanced protection and support for cybercrime victims"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Promote Responsible Digital Citizenship",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Objective To promote responsible digital citizenship to create informed, ethical, and protected digital citizens who navigate online spaces responsibly while strengthening national cyber security.\n\nACTION PLANS PROGRAMMES\n\nAction Plan 1 Empower citizens with awareness of digital rights and responsible online behaviour\n\nLEAD AND SUPPORTING AGENCIES\n\nNACSA, CSCDC, MCMC, JPDP\n\n1. Publish a digital citizen charter outlining citizens’ rights and responsibilities\n\nNACSA, CSCDC, JDN, KPWKM, KBS\n\n2. Leverage existing platforms to promote cyber security and digital rights for citizens, with AI chatbot support for reporting, rights awareness, and redress mechanisms\n\n3. Develop an integrated self-assessment mechanism to enable individuals to evaluate their own digital literacy, identify personal cyber security risks, and strengthen preparedness, response capabilities, and overall cyber resilience\n\nJPDP, NACSA, CSCDC, MOE, MOHE\n\n4. Promote public awareness on risks and consequences of all types of scams\n\nNational Scam Response Centre (NSRC), BNM, MCMC, National Anti-Financial Crime Centre (NFCC), CSCDC, MOE, MOHE\n\nOUTCOMES A more empowered, digitally literate, and protected Malaysian society\n\nAction Plan 2 Strengthen access to redress and protection mechanisms for citizens\n\n1. Implement “Kempen Internet Selamat” awareness series explaining how Malaysians can seek remedies if their digital rights are violated\n\nMCMC, MOE, RMP\n\nNSRC, BNM, MCMC, NFCC, CSCDC\n\n2. Expand the functions and public engagement mechanisms of the National Scam Response Centre (NSRC) to include managing and investigating all types of cybercrimes (beyond online scams)\n\n3. Provide assistance and continuous support towards victims of scams, emphasising healing, dignity, and reintegration\n\nNSRC, KPWKM, BNM, MCMC, CSCDC\n\nOUTCOMES Enhanced public empowerment through greater awareness of digital rights and accessible channels to report cybercrimes\n\nStrategic Goal 10 Promote Responsible Digital Citizenship\n\nACTION PLANS PROGRAMMES\n\nAction Plan 3 Strengthen Cyber Values and Ethical Issues in the Digital Space"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "MALAYSIA CYBER SECURITY STRATEGY 2025-2030 57",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "LEAD AND SUPPORTING AGENCIES\n\nInstitute of Islam Hadhari (IIH), NACSA, CSAM, CSCDC, The Department of Islamic Development (JAKIM)\n\n1. Develop psychospiritual-approach module for mental health and wellbeing related to cyber security contexts for younger generation\n\nIIH, NACSA, KPN, CSAM, CSCDC, JAKIM\n\n2. Develop integrity, accountability and responsible digital practices through strategic collaboration with community and faith-based organisations\n\nIIH, NACSA, CSAM, CSCDC, JAKIM\n\n3. Strengthen research on cyber behaviour from psychosocial and socio-cultural perspectives\n\nOUTCOMES A nation of digitally resilient Malaysians who uphold integrity, empathy, and ethical values online\n\n“GUIDED BY THE THEME ‘SOVEREIGN"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "CYBER SECURITY RESILIENCE: NURTURING ADAPTIVE DIGITAL SOCIETY’, THE STRATEGY RESTS ON — THREE PRINCIPLES: SOVEREIGN, RESILIENT, AND ADAPTIVE WHICH ARTICULATES MALAYSIA’S AMBITION — FOR DIGITAL SOVEREIGNTY, NATIONAL PREPAREDNESS, AND — SOCIETAL ADAPTABILITY” — TURNING GOALS INTO OUTCOMES: THROUGH A SYSTEMATIC IMPLEMENTATION CYCLE, MEASURABLE INDICATORS, AND COORDINATED DELIVERY ACROSS",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "GOVERNMENT, BUSINESS, AND COMMUNITY.\n\nMALAYSIA CYBER SECURITY STRATEGY 2025-2030 59"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "ENABLING THIS — STRATEGY",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "ENABLING THIS — STRATEGY: 4.1 (1)",
+    "section_name": "Implementation Cycle",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "60"
+  },
+  {
+    "depth": 3,
+    "section_id": "ENABLING THIS — STRATEGY: 4.2",
+    "section_name": "Measuring Progress and Success",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "62"
+  },
+  {
+    "depth": 3,
+    "section_id": "4.3",
+    "section_name": "Delivering MCSS 2025-2030",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "62"
+  },
+  {
+    "depth": 3,
+    "section_id": "ENABLING THIS — STRATEGY: 4.1 (2)",
+    "section_name": "Implementation Cycle",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "The Implementation Cycle establishes a coordinated approach across three stakeholders, namely Government, Business, and Community, which are interconnected and collectively responsible for strengthening Malaysia’s cyber security resilience. To ensure systematic and sustainable execution, MCSS 2025-2030 is implemented through a continuous five-phase cycle :\n\nThe Five-Phase Implementation Cycle\n\nEngagement Foster inclusive participation through structured awareness-raising, stakeholder engagement and outreach initiatives to promote shared ownership of the national cyber security agenda across all sectors.\n\nDirection Establish clear strategic objectives, roles and responsibilities to ensure alignment of efforts and coordinated action towards national cybersecurity priorities.\n\nResource Mobilise and optimise human capital, financial resources and technological assets to support effective and efficient implementation of cybersecurity initiatives.\n\nCapability Strengthen national cyber security capabilities through workforce development, infrastructure enhancement and systematic knowledgesharing to enable timely and effective responses to evolving cyber security threats.\n\nAdaptive Embed continuous monitoring, review and improvement mechanisms to enable learning from implementation experience, track progress, and ensure adaptability in response to emerging technologies and evolving threat landscapes.\n\nEngagement takes place throughout the entire MCSS 2025–2030 lifecycle, from the development of ideas and collection of stakeholder input, through programme implementation and progress monitoring, until the completion of the Strategy period.\n\nDirection begins with strategic guidance from the National Cyber Security Committee. Proposed strategies are assessed against existing laws, policies and regulatory frameworks, expected outcomes, and public interests. This balanced consideration ensures that final strategic directions reflect a coherent whole-of-society approach.\n\nResource mobilisation involves strategic allocation of funding through national budgets and sectoral investments under the 12th Malaysia Plan and 13th Malaysia Plan to support cyber security programmes. MCSS 2025– 2030 aims to strengthen coordination across government, businesses, and community organisations to leverage resources effectively. NACSA will monitor performance to eliminate redundancies and ensure cost-effective resource use.\n\nCapability is built through deliberate national investment in people, systems and institutions. Capabilities are pursued through multi-pronged initiatives targeting both technical and strategic competencies across the workforce and institutions, either by strengthening existing capabilities or developing new ones to meet evolving requirements.\n\nAdaptiveness is ensured through structured monitoring, periodic reviews, and continuous improvement. Performance indicators, lessons learned, and challenges are systematically analysed to inform timely adjustments to policies, programmes, and priorities. Regular reviews sustain commitment from programme leads and partners, while ongoing dialogues between NACSA and stakeholders enable meaningful feedback. This iterative approach allows timely course correction, ensuring MCSS 2025-2030 remains responsive to Malaysia’s dynamic cyber security environment.\n\nEngagement Direction e v ti p a d\n\nA"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "IMPLEMENTATION — CYCLE",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "C a p a bi li t y e rc ou es\n\nR"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Success Measurement",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Success\n\nMatrix Trust\n\nFigure 6: Five-phase Implementation Cycle of MCSS 2025-2030"
+  },
+  {
+    "depth": 3,
+    "section_id": "IMPLEMENTATION — CYCLE: 4.2",
+    "section_name": "Measuring Progress and Success 4.3 Delivering MCSS 2025-2030",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "The success of MCSS 2025–2030 is measured through a jointly agreed performance matrix involving all lead and supporting agencies.\n\nFor each programme, a common set of outcome-oriented key performance indicators (KPIs) will be defined and endorsed collectively to ensure shared ownership of results.\n\nProgramme performance will be monitored on a regular basis, and implementation progress as well as outcome achievement will be deliberated at the national coordination level to assess effectiveness, identify implementation gaps, and determine necessary policy or operational adjustments.\n\nThis success matrix enables evidence-based decision-making, strengthens inter-agency accountability, and ensures that MCSS 2025-2030 programmes deliver measurable impact to national security, public trust and economic resilience.\n\nBeyond quantifiable metrics, success is reflected through increased trust between all key stakeholders, which is the qualitative foundation that enables effective collaboration and implementation. Trust manifests through stakeholder confidence in the demonstrated commitment to ensuring the Strategy’s success.\n\nThe successful delivery of MCSS 2025–2030 depends on sustained leadership, effective coordination and shared responsibility across government, industry, academia, civil society and the public. Through strong governance and continuous performance monitoring, the Strategy provides a foundation for strengthening Malaysia’s cyber resilience and digital confidence over the next six years.\n\nUltimately, MCSS 2025-2030 is not just about defending against cyber security threats. It is about building a future that Malaysians can trust, participate in, and benefit from. By 2030, the success of the Strategy will be reflected not only in the strength of systems and policies, but also in the confidence Malaysians feel in their everyday digital lives. That is the future this Strategy is designed to deliver."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "MALAYSIA CYBER SECURITY STRATEGY 2025-2030 63",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "“THE IMPLEMENTATION CYCLE ESTABLISHES A COORDINATED"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "APPROACH ACROSS THREE",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "STAKEHOLDERS, NAMELY GOVERNMENT, BUSINESS,"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "AND COMMUNITY, WHICH ARE INTERCONNECTED AND COLLECTIVELY RESPONSIBLE — FOR STRENGTHENING MALAYSIA’S CYBER SECURITY — RESILIENCE” — BUILDING NATIONAL RESILIENCE TOGETHER: EVERY CITIZEN COUNTS, EVERY ACTION MATTERS, EVERY BUSINESS PROTECTS, EVERY COMMUNITY STRENGTHENS",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "MALAYSIA CYBER SECURITY STRATEGY 2025-2030 65"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "CITIZEN’S ROLE IN — CYBER SECURITY",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "5.1",
+    "section_name": "Why Citizen’s Role Is Important",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "66\n\n66\n\n5.2 What You Can Do as An Individual"
+  },
+  {
+    "depth": 3,
+    "section_id": "CITIZEN’S ROLE IN — CYBER SECURITY: 5.3 (1)",
+    "section_name": "What Businesses Can Do",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "67"
+  },
+  {
+    "depth": 3,
+    "section_id": "CITIZEN’S ROLE IN — CYBER SECURITY: 5.4 (1)",
+    "section_name": "What Communities Can Do",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "68"
+  },
+  {
+    "depth": 3,
+    "section_id": "5.2",
+    "section_name": "What You Can Do as An Individual 5.1 Why Citizen’s Role Is Important",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Cyber security is both a national priority and an individual responsibility.\n\nEvery login, online transaction and instance of digital information sharing forms part of Malaysia’s digital ecosystem. Each action has the potential to either strengthen or weaken the overall resilience of that ecosystem. A single careless click can compromise an entire organisation, while an informed and vigilant user can help prevent an incident from escalating or spreading.\n\nCyber security is often associated with firewalls, government agencies and complex technical systems. However, one of the strongest lines of defence lies in people who understand how to act safely in the digital environment. This is why the Malaysia Cyber Security Strategy (MCSS) 2025–2030 adopts a whole-of-society approach. Under this approach, all segments of society play a role in safeguarding the digital environment. While the Strategy provides the necessary legal, institutional, training and technological foundations, its success ultimately depends on broad public participation and responsible digital practices.\n\nWhen individuals practise safe online habits, businesses protect their data responsibly, and communities help each other stay informed, the result is more than safety, it is trust. And a culture of trust is what allows a digital economy to thrive: people feel confident to bank, study, shop, and communicate online.\n\nIn this way, cyber security supports not only national resilience and public trust, but also daily life, livelihoods and sustainable national growth. Cyber security does not begin in a control room alone. It begins in homes, schools, workplaces and across everyday digital interactions. Routine actions, such as updating devices, reporting suspected scams and promoting online safety awareness, collectively contribute to the security and confidence of Malaysia’s digital future.\n\nCyber safety is strengthened through simple and consistent daily practices. As more people adopt responsible digital habits, community-level resilience against cyber security threats increases.\n\nEveryday Actions for Cyber Safety\n\nEvery secure password, cautious click and verified report contributes to collective digital safety.\n\nBe Smart with Passwords • Use strong and unique passwords for different online accounts. • Enable multi-factor authentication (MFA) wherever available. • Avoid sharing passwords with others.\n\nThink Before You Click • Avoid opening links or attachments from unknown or untrusted sources. • Exercise caution when encountering offers or messages that appear too good to be true. • Verify website addresses before entering personal or financial information.\n\nProtect Your Privacy • Review application permissions and privacy settings regularly. • Limit the sharing of personal information on social media platforms. • Avoid accessing sensitive accounts through public or unsecured Wi-Fi networks.\n\nKeep Devices Updated • Install software and system updates promptly, as these updates address known vulnerabilities. • Use reputable antivirus and security software.\n\n• Back up important data using secure cloud services or external storage devices.\n\nStay Alert and Report • Report suspected scams or suspicious activities to the National Scam Response Centre (NSRC) via hotline 997, to the relevant financial institution, or to the nearest police station. • Encourage family members and peers, particularly children and senior citizens, to remain informed about online risks.\n\nWays to Stay Involved • Participate in public awareness programmes and training initiatives organised by National Cyber Security Agency Malaysia (NACSA) and its partners. • Follow verified and trusted sources for cyber safety updates. • Take part in hackathons, innovation challenges and cyber security volunteer initiatives. • Promote cyber hygiene awareness within families, workplaces and communities.\n\n“Cyber security supports not only na  tional resilience and public trust, but also daily life, livelihoods and sustain able national growth”\n\nMALAYSIA CYBER SECURITY STRATEGY 2025-2030 67"
+  },
+  {
+    "depth": 3,
+    "section_id": "CITIZEN’S ROLE IN — CYBER SECURITY: 5.3 (2)",
+    "section_name": "What Businesses Can Do",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Secure Organisational Systems • Keep corporate software, servers and websites up to date. • Use trusted and verified service providers for payment systems, email services and cloud platforms. • Perform regular data backups and test data recovery procedures.\n\nBuild Workforce Awareness • Conduct basic cyber hygiene and awareness training for employees. • Encourage timely reporting of suspicious emails, messages or system behaviour. • Designate personnel responsible for cyber security awareness and coordination.\n\nPlan for Cyber Incidents • Establish a basic incident response plan that outlines contact points, response steps and recovery procedures. • Conduct periodic testing of incident response arrangements. • Review cyber-related insurance coverage where appropriate.\n\nStrengthen Collaboration • Participate in industry networks and cyber awareness initiatives. • Share lessons learned and best practices to enhance sector-wide resilience."
+  },
+  {
+    "depth": 3,
+    "section_id": "CITIZEN’S ROLE IN — CYBER SECURITY: 5.4 (2)",
+    "section_name": "What Communities Can Do",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Cyber safety is strengthened when it becomes part of everyday community life, including in schools, neighbourhoods and civil society activities.\n\nSchools and Educators • Promote awareness of online safety, privacy and responsible digital behaviour. • Integrate cyber security awareness into digital literacy and technology-related curricula. • Encourage student-led initiatives and peer education programmes.\n\nParents and Families • Maintain open communication about online risks and healthy digital habits. • Apply parental controls and monitor digital usage for younger children where appropriate. • Encourage family members to verify information and transactions before sharing or making online purchases.\n\nLocal Leaders, NGOs and Civil Society Organisations • Organise community-based awareness programmes in both urban and rural areas. • Collaborate with government agencies and private sector partners to expand outreach. • Support vulnerable groups, including senior citizens, youth and small businesses, in accessing reliable and trusted cyber safety information.\n\n“When individuals practise safe online habits, businesses protect their data responsibly, and communities help each other stay informed, the result is more than safety, it is trust”\n\nMALAYSIA CYBER SECURITY STRATEGY 2025-2030 69"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "This page is intentionally left blank",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "NATIONAL CYBER SECURITY AGENCY (NACSA) National Security Council Prime Minister's Department Level LG & G, West Wing, Perdana Putra Building, Federal Government Administrative Center, 62502 Putrajaya, Malaysia.\n\nFax: +603-8064 4848 Email: admin@nacsa.gov.my"
+  }
+]

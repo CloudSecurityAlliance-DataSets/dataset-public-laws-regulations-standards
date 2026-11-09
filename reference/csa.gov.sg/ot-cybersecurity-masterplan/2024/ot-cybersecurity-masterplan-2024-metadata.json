@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/csa.gov.sg/ot-cybersecurity-masterplan@2024",
+  "name": "Operational Technology Cybersecurity Masterplan 2024",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2024",
+  "publication_id": "ot-cybersecurity-masterplan-2024",
+  "owner": "Cyber Security Agency of Singapore",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Operational Technology Cybersecurity Masterplan 2024 (August 20, 2024). Strategic roadmap published by CSA Singapore to strengthen the cyber resilience of Critical Information Infrastructure (CII) and industrial control / operational technology (OT) systems.",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by Cyber Security Agency of Singapore (csa.gov.sg) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for Cyber Security Agency of Singapore (csa.gov.sg).",
+  "license": {
+    "spdx": "LicenseRef-All-Rights-Reserved",
+    "Grouping": "Proprietary / All Rights Reserved",
+    "redistribution": "prohibited",
+    "derivatives": "prohibited",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.csa.gov.sg/terms-of-use",
+    "note": "Copyright Government of Singapore retained (all rights reserved under Singapore Government Terms of Use; prior written permission required for reproduction or redistribution). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
+    "notes": "Copyright Government of Singapore retained (all rights reserved under Singapore Government Terms of Use; prior written permission required for reproduction or redistribution). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.csa.gov.sg/resources/publications/ot-cybersecurity-masterplan-2024",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2024-08-20",
+    "active": true,
+    "supersedes": "secid:reference/csa.gov.sg/ot-cybersecurity-masterplan@2019",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/csa.gov.sg/ot-cybersecurity-masterplan@2024 (https://www.csa.gov.sg/resources/publications/ot-cybersecurity-masterplan-2024) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "secid": "secid:reference/nacsa.gov.my/malaysia-national-ai-roadmap@2021",
+  "name": "Malaysia National Artificial Intelligence Roadmap (AI-RMAP 2021–2025) & National AI Action Plan 2026–2030",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "2021",
+  "publication_id": "malaysia-national-ai-roadmap-2021",
+  "owner": "National Cyber Security Agency (NACSA) & Government of Malaysia",
+  "type": "Reference",
+  "subtype": [
+    "strategy"
+  ],
+  "description": "Official 2021 edition of Malaysia National Artificial Intelligence Roadmap (AI-RMAP 2021–2025) & National AI Action Plan 2026–2030 (Malaysia National Artificial Intelligence Roadmap (AI-RMAP 2021–2025) & National AI Action Plan 2026–2030), published by National Cyber Security Agency (NACSA) & Government of Malaysia (nacsa.gov.my).",
+  "relationToCloudSecurity": "Defines national cybersecurity, critical infrastructure protection, and digital sovereignty priorities issued by National Cyber Security Agency (NACSA) & Government of Malaysia (nacsa.gov.my) applicable to cloud service providers and operators.",
+  "relationToAISecurity": "Addresses strategic emerging technology governance, AI security/capability priorities, and national resilience policy for National Cyber Security Agency (NACSA) & Government of Malaysia (nacsa.gov.my).",
+  "license": {
+    "spdx": "LicenseRef-MY-Act332-Sec11-GovCopyright",
+    "Grouping": "Proprietary / All Rights Reserved",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/MY",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (nacsa.gov.my) is governed by Malaysian Copyright Act 1987 (Act 332) Sec. 11 & Sec. 26 (Government copyright in works made under Government direction) and NACSA copyright reservation. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (nacsa.gov.my) is governed by Malaysian Copyright Act 1987 (Act 332) Sec. 11 & Sec. 26 (Government copyright in works made under Government direction) and NACSA copyright reservation. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.mosti.gov.my/",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2021-08-01",
+    "active": false,
+    "supersedes": null,
+    "supersededBy": "secid:reference/nacsa.gov.my/malaysia-national-ai-roadmap@2025",
+    "retiredFromActiveUse": "2025-12-01",
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:reference/nacsa.gov.my/malaysia-national-ai-roadmap@2021 (https://www.mosti.gov.my/) is not directly downloadable (upstream portal landing page only, IP-restricted archive, or broken upstream link); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

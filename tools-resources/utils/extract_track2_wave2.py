@@ -453,7 +453,7 @@ _TLD_STATUTORY_LICENSES: dict[str, tuple[str, str, str, str]] = {
     "lu": (
         "LicenseRef-LU-SIP-Prior-Agreement",
         "Proprietary / All Rights Reserved",
-        "Grand Duchy of Luxembourg Government / HCPN General Legal Notice (permits viewing, downloading, and printing; prior agreement from the Government Information and Press Service (SIP) is required for public redistribution or derivative works — stored in private internal repository, not publicly redistributed).",
+        "Grand Duchy of Luxembourg Government / HCPN General Legal Notice (permits viewing, downloading, and printing; prior agreement from the Government Information and Press Service (SIP) is required for public redistribution or derivative works).",
         "https://hcpn.gouvernement.lu/en/support/aspects-legaux.html",
     ),
     "lv": (
@@ -856,8 +856,8 @@ _TLD_STATUTORY_LICENSES: dict[str, tuple[str, str, str, str]] = {
 }
 
 
-def license_for_tld(tld: str, namespace: str, md_text: str = "", secid: str = "") -> dict:
-    """Return complete schema-aligned government/public-sector license metadata verified against document text."""
+def _raw_license_for_tld(tld: str, namespace: str, md_text: str = "", secid: str = "") -> dict:
+    """Return baseline schema-aligned government/public-sector license metadata verified against document text."""
     low_md = (md_text or "").lower()
     # First check explicit copyright/redistribution restrictions in the extracted document text
     if low_md and any(
@@ -961,7 +961,7 @@ def license_for_tld(tld: str, namespace: str, md_text: str = "", secid: str = ""
         )
     # If no full text has been acquired yet (`md_text` is empty), do not assert `publicly_redistributable: true`
     # until the primary document is acquired and inspected for imprint/third-party restrictions (except US 17 U.S.C. § 105 / OGL-Canada / OGL-UK).
-    if not low_md.strip() and tld not in ("gov", "ca", "uk"):
+    if not low_md.strip() and tld not in ("gov", "ca", "uk", "sg"):
         if namespace == "oas.org":
             return _make_license(
                 "LicenseRef-OAS-Terms",
@@ -1276,6 +1276,47 @@ def license_for_tld(tld: str, namespace: str, md_text: str = "", secid: str = ""
         derivatives="varies_by_jurisdiction",
         publicly_redistributable=True,
     )
+
+
+def license_for_tld(tld: str, namespace: str, md_text: str = "", secid: str = "") -> dict:
+    """Return complete schema-aligned government/public-sector license metadata verified against document text.
+
+    Per Kurt Seifried's 2026-11-09 directive ("the national security strategies are gov docs and public release,
+    they are freely available. I can comfortable violating the license on them, so lets move all the stuff from
+    dataset-private-laws-regulations-standards to the public. and then also update SecID."), all public-release
+    government and intergovernmental strategy documents are hosted in dataset-public-laws-regulations-standards
+    while preserving the underlying source license's `Grouping`, `redistribution`, and `derivatives` terms.
+    """
+    lic = _raw_license_for_tld(tld, namespace, md_text=md_text, secid=secid)
+    if not lic.get("publicly_redistributable", True):
+        lic["publicly_redistributable"] = True
+        raw_note = lic.get("notes") or lic.get("note") or ""
+        note = (
+            raw_note.replace(
+                "Full-text extraction stored in private internal repository, not publicly redistributed.",
+                "",
+            )
+            .replace(
+                "; stored in private internal repository, not publicly redistributed.",
+                ".",
+            )
+            .replace(
+                "; routed to private dataset repository.",
+                ".",
+            )
+            .strip()
+        )
+        policy_suffix = (
+            "Public-release government/intergovernmental strategy document; hosted in "
+            "dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
+        )
+        if policy_suffix not in note:
+            note = f"{note} {policy_suffix}".strip()
+        lic["note"] = note
+        lic["notes"] = note
+        if isinstance(lic.get("rights"), dict):
+            lic["rights"]["summary"] = note
+    return lic
 
 
 def rewrite_candidate_urls(url: str) -> list[str]:
@@ -2955,15 +2996,9 @@ def extract_edition(item: dict) -> dict:
                     pass
 
     lic_obj = license_for_tld(item["tld"], ns, md_text=best_md, secid=item["secid"])
-    # Metadata-only records belong in the public catalog repository only when their jurisdiction/source license is not Proprietary/Non-Commercial
-    if (
-        not best_md
-        and item["tld"] not in ("sg", "lu")
-        and lic_obj.get("Grouping") not in ("Proprietary / All Rights Reserved", "Non-Commercial", "Non-Commercial-No-Derivatives")
-    ):
-        is_public = True
-    else:
-        is_public = bool(lic_obj.get("publicly_redistributable", True))
+    # Per Kurt Seifried's 2026-11-09 directive, all public-release government and intergovernmental
+    # strategy documents live in dataset-public-laws-regulations-standards (`publicly_redistributable: True`).
+    is_public = bool(lic_obj.get("publicly_redistributable", True))
     target_root = REPO_ROOT if is_public else PRIVATE_REPO_ROOT
     other_root = PRIVATE_REPO_ROOT if is_public else REPO_ROOT
 
