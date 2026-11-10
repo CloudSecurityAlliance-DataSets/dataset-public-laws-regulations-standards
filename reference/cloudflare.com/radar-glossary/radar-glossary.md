@@ -5,7 +5,7 @@ Markdown alternate (used by the extractor): https://developers.cloudflare.com/ra
 
 License: LicenseRef-Vendor-Copyright (Cloudflare, Inc.; internal CSA use only — not redistributable).
 
-Extracted: 46 terms.
+Extracted: 45 terms.
 
 ---
 
@@ -133,10 +133,6 @@ Top-level domains, also known as TLDs ︎, are found in the right-most portion o
 
 Attacks mitigated by our Level 3 and 4 Denial of Service Attack prevention systems. We show the most used attack vectors as well as the change in attack volume over the selected time range. Selected location is the location of the data center(s) where the attacks were mitigated. Target industry and vertical categories are associated with the customers being attacked. Industry categories include business types grouped by their primary activities, such as information technology and services, retail, or telecommunications. Vertical categories are high-level groupings that incorporate related industries, such as the "Internet and Telecom" vertical, which includes industries such as "Internet" and "Telecommunications". Network-level DDoS attacks graphs are based on traffic measured in bytes.
 
-## On this page
-
-![Docs](https://developers.cloudflare.com/)
-
 ## Post-quantum encryption adoption
 
 The Post-Quantum Encryption Adoption graph shows the share of HTTPS requests to Cloudflare that are encrypted with post-quantum (PQ) cryptography. Additional details about Cloudflare's support for PQ cryptography can be found at Cloudflare Research ︎.
@@ -191,5 +187,5 @@ WHOIS is a standard for publishing the contact and nameserver information for al
 
 ## Workers AI
 
-Workers AI allows you to run machine learning models, on the Cloudflare network, from your own code -- whether that be from Workers, Pages, or anywhere via the Cloudflare API. The data displayed for Workers AI is based on the number of inferences run on a model during a specific time interval. Was this helpful? YesNo
+Workers AI allows you to run machine learning models, on the Cloudflare network, from your own code -- whether that be from Workers, Pages, or anywhere via the Cloudflare API. The data displayed for Workers AI is based on the number of inferences run on a model during a specific time interval.
 

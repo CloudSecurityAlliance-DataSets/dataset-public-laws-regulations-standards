@@ -186,12 +186,6 @@
     "source_anchor": "https://developers.cloudflare.com/radar/glossary/#network-level-ddos-attacks"
   },
   {
-    "term": "On this page",
-    "definition": "![Docs](https://developers.cloudflare.com/)",
-    "notes": "",
-    "source_anchor": "https://developers.cloudflare.com/radar/glossary/#on-this-page"
-  },
-  {
     "term": "Post-quantum encryption adoption",
     "definition": "The Post-Quantum Encryption Adoption graph shows the share of HTTPS requests to Cloudflare that are encrypted with post-quantum (PQ) cryptography. Additional details about Cloudflare's support for PQ cryptography can be found at Cloudflare Research ︎.",
     "notes": "",
@@ -271,7 +265,7 @@
   },
   {
     "term": "Workers AI",
-    "definition": "Workers AI allows you to run machine learning models, on the Cloudflare network, from your own code -- whether that be from Workers, Pages, or anywhere via the Cloudflare API. The data displayed for Workers AI is based on the number of inferences run on a model during a specific time interval. Was this helpful? YesNo",
+    "definition": "Workers AI allows you to run machine learning models, on the Cloudflare network, from your own code -- whether that be from Workers, Pages, or anywhere via the Cloudflare API. The data displayed for Workers AI is based on the number of inferences run on a model during a specific time interval.",
     "notes": "",
     "source_anchor": "https://developers.cloudflare.com/radar/glossary/#workers-ai"
   }

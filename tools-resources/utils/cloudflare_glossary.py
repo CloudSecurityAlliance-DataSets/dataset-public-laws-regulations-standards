@@ -94,6 +94,8 @@ def _parse_headings(md):
     # Strip fenced code blocks (such as trailing JSON-LD BreadcrumbList metadata) and HTML comments.
     md = re.sub(r"```.*?```", "", md, flags=re.S)
     md = re.sub(r"<!--.*?-->", "", md, flags=re.S)
+    # Strip trailing Cloudflare Docs footer ("Was this helpful?", "## On this page", etc.).
+    md = re.split(r"\n+(?:Was this helpful\?|##\s+On this page\b)", md, maxsplit=1, flags=re.I)[0]
     # Strip frontmatter / leading metadata before the first ## section.
     # Walk line-by-line, accumulating definition lines under the current h2.
     terms = []
@@ -106,25 +108,32 @@ def _parse_headings(md):
             continue
         if line.startswith("## "):
             # Flush previous term.
-            if current_term:
+            if current_term and current_term.lower() != "on this page":
                 definition = _strip_markdown_links(" ".join(current_lines)).strip()
+                definition = re.sub(r"\s*Was this helpful\?\s*(?:Yes\s*No)?\s*$", "", definition, flags=re.I).strip()
                 if definition:
                     terms.append({
                         "term": current_term,
                         "definition": definition,
                         "notes": "",
                     })
-            current_term = _strip_markdown_links(line[3:])
+            heading = _strip_markdown_links(line[3:])
+            if heading.lower() == "on this page":
+                current_term = None
+                current_lines = []
+                break
+            current_term = heading
             current_lines = []
         elif current_term is not None:
-            # Skip blank lines that are entirely whitespace; keep substantive content.
-            if line.strip():
+            stripped = line.strip()
+            if stripped and stripped not in ("Was this helpful?", "YesNo"):
                 # Drop image-only lines, pure markup, or JSON-LD breadcrumb lines.
                 if not re.match(r"^\s*!\[", line) and "BreadcrumbList" not in line and '"@context"' not in line:
-                    current_lines.append(line.strip())
+                    current_lines.append(stripped)
     # Flush last.
-    if current_term:
+    if current_term and current_term.lower() != "on this page":
         definition = _strip_markdown_links(" ".join(current_lines)).strip()
+        definition = re.sub(r"\s*Was this helpful\?\s*(?:Yes\s*No)?\s*$", "", definition, flags=re.I).strip()
         if definition:
             terms.append({
                 "term": current_term,

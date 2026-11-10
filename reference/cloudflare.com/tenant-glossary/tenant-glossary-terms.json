@@ -6,14 +6,8 @@
     "source_anchor": "https://developers.cloudflare.com/tenant/glossary/#account"
   },
   {
-    "term": "On this page",
-    "definition": "![Docs](https://developers.cloudflare.com/)",
-    "notes": "",
-    "source_anchor": "https://developers.cloudflare.com/tenant/glossary/#on-this-page"
-  },
-  {
     "term": "Resource",
-    "definition": "A resource is an entity owned by an account, which could be a zone/domain, a Workers instance, or a Zero Trust application. Was this helpful? YesNo",
+    "definition": "A resource is an entity owned by an account, which could be a zone/domain, a Workers instance, or a Zero Trust application.",
     "notes": "",
     "source_anchor": "https://developers.cloudflare.com/tenant/glossary/#resource"
   },

@@ -90,7 +90,7 @@ The mission of the CVE ™ Program is to identify, define, and catalog publicly 
 
 ## Common Vulnerability Scoring System (CVSS) 3.1
 
-CVSS 3.1 evaluates vulnerabilities using three metric groups: Metric Group Description Base Represents the intrinsic characteristics of a vulnerability that are constant over time and across environments. These metrics include Attack Vector (AV), Attack Complexity (AC), Temporal Captures characteristics that change over time, such as the availability of exploit code or remediation. Environmental Reflects the impact of a vulnerability in a specific user environment, allowing customization of the score. Note that Microsoft does not currently provide Environmental scores. Each group contributes to a final score ranging from 0.0 (None) to 10.0 (Critical) , which is also represented as a vector string a textual representation of the metric values used. An example vector string: CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C
+The Common Vulnerability Scoring System (CVSS) version 3.1 is a standardized framework used to assess and communicate the severity of software vulnerabilities. It is maintained by the Forum of Incident Response and Security Teams (FIRST) and is widely adopted across the cybersecurity industry, including within Microsoft Security Release workflows. CVSS 3.1 evaluates vulnerabilities using three metric groups: Metric Group Description Base Represents the intrinsic characteristics of a vulnerability that are constant over time and across environments. These metrics include Attack Vector (AV), Attack Complexity (AC), Temporal Captures characteristics that change over time, such as the availability of exploit code or remediation. Environmental Reflects the impact of a vulnerability in a specific user environment, allowing customization of the score. Note that Microsoft does not currently provide Environmental scores. Each group contributes to a final score ranging from 0.0 (None) to 10.0 (Critical) , which is also represented as a vector string a textual representation of the metric values used. An example vector string: CVSS:3.1/AV:N/AC:H/PR:L/UI:N/S:U/C:H/I:H/A:H/E:U/RL:O/RC:C
 
 ## Common Vulnerability Scoring System (CVSS) 4.0
 
@@ -538,5 +538,5 @@ Zero-Day: A zero-day vulnerability is a security flaw in software, hardware, or 
 
 ## Zero-Day Exploits
 
-Often released in response to zero-day exploits, which are vulnerabilities that are actively being exploited before the vendor becomes aware of them
+Often released in response to zero-day exploits, which are vulnerabilities that are actively being exploited before the vendor becomes aware of them Start of ADDITIONAL DEBUG INFO ** cv.html ** CVToken: CASMicrosoftCV1d2e63ba.2 End of ADDITIONAL DEBUG INFO Start of ADDITIONAL DEBUG INFO ** uhftemplate.html ** CVToken: CASMicrosoftCV1d2e63ba.2 End of ADDITIONAL DEBUG INFO
 
