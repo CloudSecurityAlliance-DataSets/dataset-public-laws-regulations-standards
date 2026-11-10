@@ -700,7 +700,7 @@ Every Certifying Authority shall display its licence at a conspicuous place of t
 
 (b) act in accordance with the procedure specified in its certification practice statement to deal with such event or situation.
 
-CHAPTERVII
+## CHAPTER VII
 
 1[ELECTRONIC SIGNATURE] CERTIFICATES
 
@@ -1202,7 +1202,9 @@ Provided that provisions of section 67, section 67A and this section does not ex
 
 (ii) which is kept or used for bona fide heritage or religious purposes.
 
-Explanation–For the purposes of this section, ―children‖ means a person who has not completed the age of 18 years. 67C. Preservation and retention of information by intermediaries.–(1) Intermediary shall preserve and retain such information as may be specified for such duration and in such manner and format as the Central Government may prescribe.
+Explanation–For the purposes of this section, ―children‖ means a person who has not completed the age of 18 years.
+
+### Section 67C. Preservation and retention of information by intermediaries.–(1) Intermediary shall preserve and retain such information as may be specified for such duration and in such manner and format as the Central Government may prescribe.
 
 (2) any intermediary who intentionally or knowingly contravenes the provisions of sub-section (1) shall be punished with an imprisonment for a term which may extend to three years and also be liable to fine.]
 
@@ -1662,7 +1664,7 @@ Omitted by s. 48, ibid. (w.e.f. 27-10-2009).
 
 1. Subs. by notification No. S.O. 1015(E), for ―(m)‖ (w.e.f. 19-9-2002). 2. Clause (c) omitted by Act 10 of 2009, s. 47 (w.e.f. 27-10-2009).
 
-1[## THE FIRST SCHEDULE
+## THE FIRST SCHEDULE
 
 [See sub-section (4) of section 1]
 

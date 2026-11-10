@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted official consolidated statute (https://www.indiacode.nic.in/bitstream/123456789/13116/1/it_act_2000_updated.pdf) to Markdown (125,468 chars). Parsed 139 sections (136 with explicit section identifiers)."
+    "notes": "Extracted official consolidated statute (https://www.indiacode.nic.in/bitstream/123456789/13116/1/it_act_2000_updated.pdf) to Markdown (125,483 chars). Parsed 142 sections (141 with explicit section identifiers)."
   },
   "extraction_history": [
     {

@@ -1,17 +1,5 @@
 #!/usr/bin/env python3
-"""Parse US Public Law markdown (from govinfo.gov PLAW PDFs) into sections.
-
-US Public Laws use structure:
-  TITLE I—NAME OF TITLE
-    Subtitle A—...
-      SEC. 101. SHORT TITLE.
-        (a) ...
-        (b) ...
-      SEC. 102. ...
-
-The marker-extracted markdown from the PLAW PDF preserves this structure
-but as flat text with newlines. This parser walks the markdown and emits
-one row per section.
+"""Parse US Public Law / U.S. Code markdown (from govinfo.gov PDFs) into sections.
 
 Output:
   <slug>-sections.{csv,json}
@@ -26,11 +14,17 @@ import sys
 
 
 SEC_RE = re.compile(
-    r"^(?:#{1,6}\s*)?(?:\*+)?(?:''|`)?(?:SEC\.|Sec\.|SECTION|§)\s*(\d{1,4}[A-Z]?)\.?\s*(.+?)$",
+    r"^(?:#{1,6}\s*)?(?:\*+)?(?:''|`)?(?:SEC\.|Sec\.|SECTION|§)\s*(\d{1,6}[A-Za-z]?)\.?\s+(.+?)$",
     re.MULTILINE,
 )
 TITLE_RE = re.compile(r"^(?:#{1,6}\s*)?(?:\*+)?TITLE\s+([IVX]+)[-—](.+?)$", re.MULTILINE)
 SUBTITLE_RE = re.compile(r"^(?:#{1,6}\s*)?(?:\*+)?Subtitle\s+([A-Z])[-—](.+?)$", re.MULTILINE)
+
+# Out-of-scope trailing sections present on shared PDF pages
+EXCLUDED_SECTIONS = {
+    "coppa": {"6551"},  # Chapter 91A (15 U.S.C. 6551) follows Chapter 91 (COPPA, 6501-6506)
+    "cfaa": {"1031"},   # 18 U.S.C. 1031 follows 18 U.S.C. 1030 (CFAA)
+}
 
 
 def clean(s):
@@ -38,16 +32,17 @@ def clean(s):
     return s.strip()
 
 
-def parse_md(md_path):
+def parse_md(md_path, slug=""):
     md = open(md_path, encoding="utf-8").read()
-    # Strip marker page-break markers like {N}---...
     md = re.sub(r"\{\d+\}-+", "", md)
-    # Find all section starts
     sec_matches = list(SEC_RE.finditer(md))
-    # Find title/subtitle starts — build ordered map of (offset, type, value)
     title_matches = [(m.start(), "title", m.group(1), clean(m.group(2))) for m in TITLE_RE.finditer(md)]
     subtitle_matches = [(m.start(), "subtitle", m.group(1), clean(m.group(2))) for m in SUBTITLE_RE.finditer(md)]
     nav = sorted(title_matches + subtitle_matches, key=lambda x: x[0])
+
+    # If the document has TITLE I, any section between Sec. 1 (Table of Contents)
+    # and the start of TITLE I is an inline Table of Contents entry.
+    first_title_offset = title_matches[0][0] if title_matches else None
 
     rows = []
     current_title = ""
@@ -57,7 +52,8 @@ def parse_md(md_path):
 
     nav_idx = 0
     for i, m in enumerate(sec_matches):
-        # Advance title/subtitle pointers up to this section's start
+        if first_title_offset is not None and i > 0 and m.start() < first_title_offset:
+            continue
         while nav_idx < len(nav) and nav[nav_idx][0] < m.start():
             offset, kind, num, name = nav[nav_idx]
             if kind == "title":
@@ -67,8 +63,9 @@ def parse_md(md_path):
                 current_subtitle, current_subtitle_name = num, name
             nav_idx += 1
         sec_num = m.group(1)
-        sec_title = clean(m.group(2))
-        # Body: text between this section's start and the next section's start
+        if sec_num in EXCLUDED_SECTIONS.get(slug, set()):
+            continue
+        sec_title = clean(m.group(2)).rstrip("*").strip()
         body_start = m.end()
         body_end = sec_matches[i + 1].start() if i + 1 < len(sec_matches) else len(md)
         body = clean(md[body_start:body_end])
@@ -81,7 +78,18 @@ def parse_md(md_path):
             "subtitle_name": current_subtitle_name,
             "content": body,
         })
-    return rows
+
+    # Deduplicate TOC stubs vs body sections (keep the longer body entry)
+    by_sec = {}
+    order = []
+    for r in rows:
+        s = r["section"]
+        if s not in by_sec:
+            by_sec[s] = r
+            order.append(s)
+        elif len(r["content"]) > len(by_sec[s]["content"]):
+            by_sec[s] = r
+    return [by_sec[s] for s in order]
 
 
 def main():
@@ -89,7 +97,7 @@ def main():
         print("usage: extract_us_plaw.py <input.md> <slug>", file=sys.stderr)
         sys.exit(2)
     md_path, slug = sys.argv[1], sys.argv[2]
-    rows = parse_md(md_path)
+    rows = parse_md(md_path, slug=slug)
     if not rows:
         print("No sections found", file=sys.stderr)
         sys.exit(1)
@@ -100,10 +108,10 @@ def main():
         w.writerows(rows)
     with open(f"{slug}-sections.json", "w", encoding="utf-8") as f:
         json.dump(rows, f, indent=2, ensure_ascii=False)
-    # Stats
+        f.write("\n")
     from collections import Counter
     by_title = Counter(r["title_roman"] for r in rows if r["title_roman"])
-    print(f"Sections: {len(rows)}")
+    print(f"{slug}: Sections: {len(rows)}")
     if by_title:
         for t, n in sorted(by_title.items()):
             print(f"  Title {t}: {n} sections")

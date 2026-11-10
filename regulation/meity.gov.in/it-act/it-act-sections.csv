@@ -565,12 +565,9 @@ ensure that every person employed or otherwise engaged by it complies, in the co
 
 (a) use reasonable efforts to notify any person who is likely to be affected by that occurrence; or
 
-(b) act in accordance with the procedure specified in its certification practice statement to deal with such event or situation.
-
-CHAPTERVII
-
-1[ELECTRONIC SIGNATURE] CERTIFICATES"
-"3","Section 35","Certifying authority to issue 1[electronic signature] Certificate","section_word","CHAPTER VI","(1) Any person may make an
+(b) act in accordance with the procedure specified in its certification practice statement to deal with such event or situation."
+"2","CHAPTER VII","CHAPTER VII","chapter","","1[ELECTRONIC SIGNATURE] CERTIFICATES"
+"3","Section 35","Certifying authority to issue 1[electronic signature] Certificate","section_word","CHAPTER VII","(1) Any person may make an
 
 application to the Certifying Authority for the issue of a 1[electronic signature] Certificate in such form as may be prescribed by the Central Government.
 
@@ -585,7 +582,7 @@ Provided that while prescribing fees under sub-section (2) different fees may be
 3* * * * *
 
 4[Provided] that no application shall be rejected unless the applicant has been given a reasonable opportunity of showing cause against the proposed rejection."
-"3","Section 36","Representations upon issuance of Digital Signature Certificate","section_word","CHAPTER VI","A Certifying Authority
+"3","Section 36","Representations upon issuance of Digital Signature Certificate","section_word","CHAPTER VII","A Certifying Authority
 
 while issuing a Digital Signature Certificate shall certify that—
 
@@ -606,7 +603,7 @@ while issuing a Digital Signature Certificate shall certify that—
 (e) the information contained in the Digital Signature Certificate is accurate; and
 
 (f) it has no knowledge of any material fact, which if it had been included in the Digital Signature Certificate would adversely affect the reliability of the representations in clauses (a) to (d)."
-"3","Section 37","Suspension of Digital Signature Certificate","section_word","CHAPTER VI","(1) Subject to the provisions of sub-section (2), the Certifying Authority which has issued a Digital Signature Certificate may suspend such Digital Signature Certificate,–
+"3","Section 37","Suspension of Digital Signature Certificate","section_word","CHAPTER VII","(1) Subject to the provisions of sub-section (2), the Certifying Authority which has issued a Digital Signature Certificate may suspend such Digital Signature Certificate,–
 
 (a) on receipt of a request to that effect from–
 
@@ -619,7 +616,7 @@ while issuing a Digital Signature Certificate shall certify that—
 (2) A Digital Signature Certificate shall not be suspended for a period exceeding fifteen days unless the subscriber has been given an opportunity of being heard in the matter.
 
 (3) On suspension of a Digital Signature Certificate under this section, the Certifying Authority shall communicate the same to the subscriber."
-"3","Section 38","Revocation of Digital Signature Certificate","section_word","CHAPTER VI","(1) A Certifying Authority may revoke a Digital Signature Certificate issued by it–
+"3","Section 38","Revocation of Digital Signature Certificate","section_word","CHAPTER VII","(1) A Certifying Authority may revoke a Digital Signature Certificate issued by it–
 
 (a) where the subscriber or any other person authorised by him makes a request to that effect; or
 
@@ -640,7 +637,7 @@ while issuing a Digital Signature Certificate shall certify that—
 (3) A Digital Signature Certificate shall not be revoked unless the subscriber has been given an opportunity of being heard in the matter.
 
 (4) On revocation of a Digital Signature Certificate under this section, the Certifying Authority shall communicate the same to the subscriber."
-"3","Section 39","Notice of suspension or revocation","section_word","CHAPTER VI","(1) Where a Digital Signature Certificate is suspended or revoked under section 37 or section 38, the Certifying Authority shall publish a notice of such suspension or revocation, as the case may be, in the repository specified in the Digital Signature Certificate for publication of such notice.
+"3","Section 39","Notice of suspension or revocation","section_word","CHAPTER VII","(1) Where a Digital Signature Certificate is suspended or revoked under section 37 or section 38, the Certifying Authority shall publish a notice of such suspension or revocation, as the case may be, in the repository specified in the Digital Signature Certificate for publication of such notice.
 
 1. Ins. by Act 10 of 2009, s. 18 (w.e.f. 27-10-2009).
 
@@ -916,9 +913,8 @@ Provided that provisions of section 67, section 67A and this section does not ex
 
 (ii) which is kept or used for bona fide heritage or religious purposes.
 
-Explanation–For the purposes of this section, ―children‖ means a person who has not completed the age of 18 years. 67C. Preservation and retention of information by intermediaries.–(1) Intermediary shall preserve and retain such information as may be specified for such duration and in such manner and format as the Central Government may prescribe.
-
-(2) any intermediary who intentionally or knowingly contravenes the provisions of sub-section (1) shall be punished with an imprisonment for a term which may extend to three years and also be liable to fine.]"
+Explanation–For the purposes of this section, ―children‖ means a person who has not completed the age of 18 years."
+"3","Section 67C","Preservation and retention of information by intermediaries.–(1) Intermediary shall preserve and retain such information as may be specified for such duration and in such manner and format as the Central Government may prescribe.","section_word","CHAPTER XI","(2) any intermediary who intentionally or knowingly contravenes the provisions of sub-section (1) shall be punished with an imprisonment for a term which may extend to three years and also be liable to fine.]"
 "3","Section 68","Power of Controller to give directions","section_word","CHAPTER XI","(1) The Controller may, by order, direct a Certifying Authority or any employee of such Authority to take such measures or cease carrying on such activities as specified in the order if those are necessary to ensure compliance with the provisions of this Act, rules or any regulations made thereunder.
 
 1[(2) Any person who intentionally or knowingly fails to comply with any order under sub-section (1) shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding two years or a fine not exceeding one lakh rupees or with both.]"
@@ -1063,8 +1059,8 @@ contained in any law for the time being in force but subject to the provisions o
 (b) upon receiving actual knowledge, or on being notified by the appropriate Government or its agency that any information, data or communication link residing in or connected to a computer resource controlled by the intermediary is being used to commit the unlawful act, the intermediary fails to expeditiously remove or disable access to that material on that resource without vitiating the evidence in any manner.
 
 Explanation.–For the purposes of this section, the expression ―third party information‖ means any information dealt with by an intermediary in his capacity as an intermediary."
-"2","","CHAPTER XIIA","","","EXAMINER OF ELECTRONIC EVIDENCE"
-"3","Section 79A","Central Government to notify Examiner of Electronic Evidence","section_word","","The Central Government may, for the purposes of providing expert opinion on electronic form evidence before any court or other authority specify, by notification in the Official Gazette, any Department, body or agency of the Central Government or a State Government as an Examiner of Electronic Evidence.
+"2","CHAPTER XIIA","CHAPTER XIIA","chapter","","EXAMINER OF ELECTRONIC EVIDENCE"
+"3","Section 79A","Central Government to notify Examiner of Electronic Evidence","section_word","CHAPTER XIIA","The Central Government may, for the purposes of providing expert opinion on electronic form evidence before any court or other authority specify, by notification in the Official Gazette, any Department, body or agency of the Central Government or a State Government as an Examiner of Electronic Evidence.
 
 Explanation.–For the purposes of this section, ―electronic form evidence‖ means any information of probative value that is either stored or transmitted in electronic form and includes computer evidence, digital audio, digital video, cell phones, digital fax machines.]
 
@@ -1248,11 +1244,8 @@ Provided that no order shall be made under this section after the expiry of a pe
 "3","Section 93","[Amendment of Act 18 of 1891.]","section_word","CHAPTER XIII","Omitted by s. 48, ibid. (w.e.f. 27-10-2009)."
 "3","Section 94","[Amendment of Act 2 of 1934.]","section_word","CHAPTER XIII","Omitted by s. 48, ibid. (w.e.f. 27-10-2009).
 
-1. Subs. by notification No. S.O. 1015(E), for ―(m)‖ (w.e.f. 19-9-2002). 2. Clause (c) omitted by Act 10 of 2009, s. 47 (w.e.f. 27-10-2009).
-
-1[## THE FIRST SCHEDULE
-
-[See sub-section (4) of section 1]
+1. Subs. by notification No. S.O. 1015(E), for ―(m)‖ (w.e.f. 19-9-2002). 2. Clause (c) omitted by Act 10 of 2009, s. 47 (w.e.f. 27-10-2009)."
+"2","THE FIRST SCHEDULE","THE FIRST SCHEDULE","goal","","[See sub-section (4) of section 1]
 
 DOCUMENTS OR TRANSACTIONS TO WHICH THE ACT SHALL NOT APPLY
 
@@ -1269,7 +1262,7 @@ Sl. No. Description of documents or transactions
 5. Any contract for the sale or conveyance of immovable property or any interest in such property.
 
 ______________"
-"2","","THE SECOND SCHEDULE","","","[See sub-section (1) of section 3A]
+"2","THE SECOND SCHEDULE","THE SECOND SCHEDULE","goal","","[See sub-section (1) of section 3A]
 
 ELECTRONIC SIGNATURE OR ELECTRONIC AUTHENTICATION TECHNIQUE AND PROCEDURE
 

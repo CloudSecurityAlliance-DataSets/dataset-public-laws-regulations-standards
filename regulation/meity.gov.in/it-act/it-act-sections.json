@@ -357,14 +357,22 @@
     "section_name": "Disclosure",
     "id_kind": "section_word",
     "parent_id": "CHAPTER VI",
-    "body": "(1) Every Certifying Authority shall disclose in the manner specified by regulations—\n\n(a) its 1[electronic signature] Certificate 2***;\n\n(b) any certification practice statement relevant thereto;\n\n(c) notice of the revocation or suspension of its Certifying Authority certificate, if any; and\n\n(d) any other fact that materially and adversely affects either the reliability of a 1[electronic signature] Certificate, which that Authority has issued, or the Authority's ability to perform its services.\n\n(2) Where in the opinion of the Certifying Authority any event has occurred or any situation has arisen which may materially and adversely affect the integrity of its computer system or the conditions subject to which a 1[electronic signature] Certificate was granted, then, the Certifying Authority shall–\n\n(a) use reasonable efforts to notify any person who is likely to be affected by that occurrence; or\n\n(b) act in accordance with the procedure specified in its certification practice statement to deal with such event or situation.\n\nCHAPTERVII\n\n1[ELECTRONIC SIGNATURE] CERTIFICATES"
+    "body": "(1) Every Certifying Authority shall disclose in the manner specified by regulations—\n\n(a) its 1[electronic signature] Certificate 2***;\n\n(b) any certification practice statement relevant thereto;\n\n(c) notice of the revocation or suspension of its Certifying Authority certificate, if any; and\n\n(d) any other fact that materially and adversely affects either the reliability of a 1[electronic signature] Certificate, which that Authority has issued, or the Authority's ability to perform its services.\n\n(2) Where in the opinion of the Certifying Authority any event has occurred or any situation has arisen which may materially and adversely affect the integrity of its computer system or the conditions subject to which a 1[electronic signature] Certificate was granted, then, the Certifying Authority shall–\n\n(a) use reasonable efforts to notify any person who is likely to be affected by that occurrence; or\n\n(b) act in accordance with the procedure specified in its certification practice statement to deal with such event or situation."
+  },
+  {
+    "depth": 2,
+    "section_id": "CHAPTER VII",
+    "section_name": "CHAPTER VII",
+    "id_kind": "chapter",
+    "parent_id": "",
+    "body": "1[ELECTRONIC SIGNATURE] CERTIFICATES"
   },
   {
     "depth": 3,
     "section_id": "Section 35",
     "section_name": "Certifying authority to issue 1[electronic signature] Certificate",
     "id_kind": "section_word",
-    "parent_id": "CHAPTER VI",
+    "parent_id": "CHAPTER VII",
     "body": "(1) Any person may make an\n\napplication to the Certifying Authority for the issue of a 1[electronic signature] Certificate in such form as may be prescribed by the Central Government.\n\n(2) Every such application shall be accompanied by such fee not exceeding twenty-five thousand rupees as may be prescribed by the Central Government, to be paid to the Certifying Authority:\n\nProvided that while prescribing fees under sub-section (2) different fees may be prescribed for different classes of applicants.\n\n(3) Every such application shall be accompanied by a certification practice statement or where there is no such statement, a statement containing such particulars, as may be specified by regulations.\n\n(4) On receipt of an application under sub-section (1), the Certifying Authority may, after consideration of the certification practice statement or the other statement under sub-section (3) and after making such enquiries as it may deem fit, grant the 1[electronic signature] Certificate or for reasons to be recorded in writing, reject the application:\n\n3* * * * *\n\n4[Provided] that no application shall be rejected unless the applicant has been given a reasonable opportunity of showing cause against the proposed rejection."
   },
   {
@@ -372,7 +380,7 @@
     "section_id": "Section 36",
     "section_name": "Representations upon issuance of Digital Signature Certificate",
     "id_kind": "section_word",
-    "parent_id": "CHAPTER VI",
+    "parent_id": "CHAPTER VII",
     "body": "A Certifying Authority\n\nwhile issuing a Digital Signature Certificate shall certify that—\n\n(a) it has complied with the provisions of this Act and the rules and regulations made thereunder;\n\n(b) it has published the Digital Signature Certificate or otherwise made it available to such person relying on it and the subscriber has accepted it;\n\n2. Certain words omitted by s. 16, ibid. (w.e.f. 27-10-2009). 3. The first proviso omitted by s. 17, ibid. (w.e.f. 27-10-2009). 4. Subs. by s. 17, ibid., for ―Provided further‖ (w.e.f. 27-10-2009).\n\n(c) the subscriber holds the private key corresponding to the public key, listed in the Digital Signature Certificate;\n\n1[(ca) the subscriber holds a private key which is capable of creating a digital signature;\n\n(cb) the public key to be listed in the certificate can be used to verify a digital signature affixed by the private key held by the subscriber;]\n\n(d) the subscriber's public key and private key constitute a functioning key pair;\n\n(e) the information contained in the Digital Signature Certificate is accurate; and\n\n(f) it has no knowledge of any material fact, which if it had been included in the Digital Signature Certificate would adversely affect the reliability of the representations in clauses (a) to (d)."
   },
   {
@@ -380,7 +388,7 @@
     "section_id": "Section 37",
     "section_name": "Suspension of Digital Signature Certificate",
     "id_kind": "section_word",
-    "parent_id": "CHAPTER VI",
+    "parent_id": "CHAPTER VII",
     "body": "(1) Subject to the provisions of sub-section (2), the Certifying Authority which has issued a Digital Signature Certificate may suspend such Digital Signature Certificate,–\n\n(a) on receipt of a request to that effect from–\n\n(i) the subscriber listed in the Digital Signature Certificate; or\n\n(ii) any person duly authorised to act on behalf of that subscriber;\n\n(b) if it is of opinion that the Digital Signature Certificate should be suspended in public interest.\n\n(2) A Digital Signature Certificate shall not be suspended for a period exceeding fifteen days unless the subscriber has been given an opportunity of being heard in the matter.\n\n(3) On suspension of a Digital Signature Certificate under this section, the Certifying Authority shall communicate the same to the subscriber."
   },
   {
@@ -388,7 +396,7 @@
     "section_id": "Section 38",
     "section_name": "Revocation of Digital Signature Certificate",
     "id_kind": "section_word",
-    "parent_id": "CHAPTER VI",
+    "parent_id": "CHAPTER VII",
     "body": "(1) A Certifying Authority may revoke a Digital Signature Certificate issued by it–\n\n(a) where the subscriber or any other person authorised by him makes a request to that effect; or\n\n(b) upon the death of the subscriber; or\n\n(c) upon the dissolution of the firm or winding up of the company where the subscriber is a firm or a company.\n\n(2) Subject to the provisions of sub-section (3) and without prejudice to the provisions of sub-section (1), a Certifying Authority may revoke a Digital Signature Certificate which has been issued by it at any time, if it is of opinion that–\n\n(a) a material fact represented in the Digital Signature Certificate is false or has been concealed;\n\n(b) a requirement for issuance of the Digital Signature Certificate was not satisfied;\n\n(c) the Certifying Authority's private key or security system was compromised in a manner materially affecting the Digital Signature Certificate's reliability;\n\n(d) the subscriber has been declared insolvent or dead or where a subscriber is a firm or a company, which has been dissolved, wound-up or otherwise ceased to exist.\n\n(3) A Digital Signature Certificate shall not be revoked unless the subscriber has been given an opportunity of being heard in the matter.\n\n(4) On revocation of a Digital Signature Certificate under this section, the Certifying Authority shall communicate the same to the subscriber."
   },
   {
@@ -396,7 +404,7 @@
     "section_id": "Section 39",
     "section_name": "Notice of suspension or revocation",
     "id_kind": "section_word",
-    "parent_id": "CHAPTER VI",
+    "parent_id": "CHAPTER VII",
     "body": "(1) Where a Digital Signature Certificate is suspended or revoked under section 37 or section 38, the Certifying Authority shall publish a notice of such suspension or revocation, as the case may be, in the repository specified in the Digital Signature Certificate for publication of such notice.\n\n1. Ins. by Act 10 of 2009, s. 18 (w.e.f. 27-10-2009).\n\n(2) Where one or more repositories are specified, the Certifying Authority shall publish notices of such suspension or revocation, as the case may be, in all such repositories."
   },
   {
@@ -765,7 +773,15 @@
     "section_name": "Punishment for publishing or transmitting of material depicting children in sexually explicit act, etc., in electronic form",
     "id_kind": "section_word",
     "parent_id": "CHAPTER XI",
-    "body": "Whoever,–\n\n(a) publishes or transmits or causes to be published or transmitted material in any electronic form which depicts children engaged in sexually explicit act or conduct; or\n\n(b) creates text or digital images, collects, seeks, browses, downloads, advertises, promotes, exchanges or distributes material in any electronic form depicting children in obscene or indecent or sexually explicit manner; or\n\n(c) cultivates, entices or induces children to online relationship with one or more children for and on sexually explicit act or in a manner that may offend a reasonable adult on the computer resource; or\n\n(d) facilitates abusing children online, or\n\n(e) records in any electronic form own abuse or that of others pertaining to sexually explicit act with children,\n\nshall be punished on first conviction with imprisonment of either description for a term which may extend to five years and with fine which may extend to ten lakh rupees and in the event of second or subsequent conviction with imprisonment of either description for a term which may extend to seven years and also with fine which may extend to ten lakh rupees:\n\nProvided that provisions of section 67, section 67A and this section does not extend to any book, pamphlet, paper, writing, drawing, painting representation or figure in electronic form–\n\n(i) the publication of which is proved to be justified as being for the public good on the ground that such book, pamphlet, paper, writing, drawing, painting representation or figure is the interest of science, literature, art or learning or other objects of general concern; or\n\n(ii) which is kept or used for bona fide heritage or religious purposes.\n\nExplanation–For the purposes of this section, ―children‖ means a person who has not completed the age of 18 years. 67C. Preservation and retention of information by intermediaries.–(1) Intermediary shall preserve and retain such information as may be specified for such duration and in such manner and format as the Central Government may prescribe.\n\n(2) any intermediary who intentionally or knowingly contravenes the provisions of sub-section (1) shall be punished with an imprisonment for a term which may extend to three years and also be liable to fine.]"
+    "body": "Whoever,–\n\n(a) publishes or transmits or causes to be published or transmitted material in any electronic form which depicts children engaged in sexually explicit act or conduct; or\n\n(b) creates text or digital images, collects, seeks, browses, downloads, advertises, promotes, exchanges or distributes material in any electronic form depicting children in obscene or indecent or sexually explicit manner; or\n\n(c) cultivates, entices or induces children to online relationship with one or more children for and on sexually explicit act or in a manner that may offend a reasonable adult on the computer resource; or\n\n(d) facilitates abusing children online, or\n\n(e) records in any electronic form own abuse or that of others pertaining to sexually explicit act with children,\n\nshall be punished on first conviction with imprisonment of either description for a term which may extend to five years and with fine which may extend to ten lakh rupees and in the event of second or subsequent conviction with imprisonment of either description for a term which may extend to seven years and also with fine which may extend to ten lakh rupees:\n\nProvided that provisions of section 67, section 67A and this section does not extend to any book, pamphlet, paper, writing, drawing, painting representation or figure in electronic form–\n\n(i) the publication of which is proved to be justified as being for the public good on the ground that such book, pamphlet, paper, writing, drawing, painting representation or figure is the interest of science, literature, art or learning or other objects of general concern; or\n\n(ii) which is kept or used for bona fide heritage or religious purposes.\n\nExplanation–For the purposes of this section, ―children‖ means a person who has not completed the age of 18 years."
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 67C",
+    "section_name": "Preservation and retention of information by intermediaries.–(1) Intermediary shall preserve and retain such information as may be specified for such duration and in such manner and format as the Central Government may prescribe.",
+    "id_kind": "section_word",
+    "parent_id": "CHAPTER XI",
+    "body": "(2) any intermediary who intentionally or knowingly contravenes the provisions of sub-section (1) shall be punished with an imprisonment for a term which may extend to three years and also be liable to fine.]"
   },
   {
     "depth": 3,
@@ -929,9 +945,9 @@
   },
   {
     "depth": 2,
-    "section_id": "",
+    "section_id": "CHAPTER XIIA",
     "section_name": "CHAPTER XIIA",
-    "id_kind": "",
+    "id_kind": "chapter",
     "parent_id": "",
     "body": "EXAMINER OF ELECTRONIC EVIDENCE"
   },
@@ -940,7 +956,7 @@
     "section_id": "Section 79A",
     "section_name": "Central Government to notify Examiner of Electronic Evidence",
     "id_kind": "section_word",
-    "parent_id": "",
+    "parent_id": "CHAPTER XIIA",
     "body": "The Central Government may, for the purposes of providing expert opinion on electronic form evidence before any court or other authority specify, by notification in the Official Gazette, any Department, body or agency of the Central Government or a State Government as an Examiner of Electronic Evidence.\n\nExplanation.–For the purposes of this section, ―electronic form evidence‖ means any information of probative value that is either stored or transmitted in electronic form and includes computer evidence, digital audio, digital video, cell phones, digital fax machines.]\n\n1. Subs. by Act 10 of 2009, s. 39, for ―Deputy Superintendent of Police‖ (w.e.f. 27-10-2009). 2. Subs. by, s. 40, ibid., for Chapter XII (w.e.f. 27-10-2009)."
   },
   {
@@ -1101,13 +1117,21 @@
     "section_name": "[Amendment of Act 2 of 1934.]",
     "id_kind": "section_word",
     "parent_id": "CHAPTER XIII",
-    "body": "Omitted by s. 48, ibid. (w.e.f. 27-10-2009).\n\n1. Subs. by notification No. S.O. 1015(E), for ―(m)‖ (w.e.f. 19-9-2002). 2. Clause (c) omitted by Act 10 of 2009, s. 47 (w.e.f. 27-10-2009).\n\n1[## THE FIRST SCHEDULE\n\n[See sub-section (4) of section 1]\n\nDOCUMENTS OR TRANSACTIONS TO WHICH THE ACT SHALL NOT APPLY\n\nSl. No. Description of documents or transactions\n\n1. A negotiable instrument (other than a cheque) as defined in section 13 of the Negotiable Instruments Act, 1881 (26 of 1881).\n\n2. A power-of-attorney as defined in section 1A of the Powers-of-Attorney Act, 1882 (7 of 1882).\n\n3. A trust as defined in section 3 of the Indian Trust Act, 1882 (2 of 1882).\n\n4. A will as defined in clause (h) of section 2 of the Indian Succession Act, 1925 (39 of 1925), including any other testamentary disposition by whatever name called.\n\n5. Any contract for the sale or conveyance of immovable property or any interest in such property.\n\n______________"
+    "body": "Omitted by s. 48, ibid. (w.e.f. 27-10-2009).\n\n1. Subs. by notification No. S.O. 1015(E), for ―(m)‖ (w.e.f. 19-9-2002). 2. Clause (c) omitted by Act 10 of 2009, s. 47 (w.e.f. 27-10-2009)."
   },
   {
     "depth": 2,
-    "section_id": "",
+    "section_id": "THE FIRST SCHEDULE",
+    "section_name": "THE FIRST SCHEDULE",
+    "id_kind": "goal",
+    "parent_id": "",
+    "body": "[See sub-section (4) of section 1]\n\nDOCUMENTS OR TRANSACTIONS TO WHICH THE ACT SHALL NOT APPLY\n\nSl. No. Description of documents or transactions\n\n1. A negotiable instrument (other than a cheque) as defined in section 13 of the Negotiable Instruments Act, 1881 (26 of 1881).\n\n2. A power-of-attorney as defined in section 1A of the Powers-of-Attorney Act, 1882 (7 of 1882).\n\n3. A trust as defined in section 3 of the Indian Trust Act, 1882 (2 of 1882).\n\n4. A will as defined in clause (h) of section 2 of the Indian Succession Act, 1925 (39 of 1925), including any other testamentary disposition by whatever name called.\n\n5. Any contract for the sale or conveyance of immovable property or any interest in such property.\n\n______________"
+  },
+  {
+    "depth": 2,
+    "section_id": "THE SECOND SCHEDULE",
     "section_name": "THE SECOND SCHEDULE",
-    "id_kind": "",
+    "id_kind": "goal",
     "parent_id": "",
     "body": "[See sub-section (1) of section 3A]\n\nELECTRONIC SIGNATURE OR ELECTRONIC AUTHENTICATION TECHNIQUE AND PROCEDURE\n\nSl. No. Description Procedure\n\n(1) (2) (3)\n\n.]\n\n________________\n\n[THE THIRD SCHEDULE.] Omitted by the Information Technology (Amendment) Act, 2008 (10 of 2009), s. 50 (w.e.f. 27-10-2009).\n\n[THE FOURTH SCHEDULE.] Omitted by s. 50, ibid. (w.e.f. 27-10-2009).\n\n1. Subs. by Act 10 of 2009, s. 49, for the First Schedule and the Second Schedule (w.e.f. 27-10-2009)."
   }

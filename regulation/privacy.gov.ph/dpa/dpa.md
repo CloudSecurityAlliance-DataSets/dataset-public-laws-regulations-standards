@@ -78,11 +78,17 @@ Begun and held in Metro Manila, on Monday, the twenty-fifth day of July, two tho
 ## CHAPTER I
 GENERAL PROVISIONS
 
-### SECTION 1*. Short Title. –* This Act shall be known as the “Data Privacy Act of 2012”.
+### SECTION 1. Short Title
 
-SEC. 2. *Declaration of Policy. –* It is the policy of the State to protect the fundamental human right of privacy, of communication while ensuring free flow of information to promote innovation and growth. The State recognizes the vital role of information and communications technology in nation-building and its inherent obligation to ensure that personal information in information and communications systems in the government and in the private sector are secured and protected.
+This Act shall be known as the “Data Privacy Act of 2012”.
 
-SEC. 3. *Definition of Terms.* – Whenever used in this Act, the following terms shall have the respective meanings hereafter set forth:
+### SEC. 2. Declaration of Policy
+
+It is the policy of the State to protect the fundamental human right of privacy, of communication while ensuring free flow of information to promote innovation and growth. The State recognizes the vital role of information and communications technology in nation-building and its inherent obligation to ensure that personal information in information and communications systems in the government and in the private sector are secured and protected.
+
+### SEC. 3. Definition of Terms
+
+Whenever used in this Act, the following terms shall have the respective meanings hereafter set forth:
 
 (a) *Commission* shall refer to the National Privacy Commission created by virtue of this Act.
 
@@ -120,7 +126,9 @@ SEC. 3. *Definition of Terms.* – Whenever used in this Act, the following term
 
 (4) Specifically established by an executive order or an act of Congress to be kept classified.
 
-SEC. 4. *Scope.* – This Act applies to the processing of all types of personal information and to any natural and juridical person involved in personal information processing including those personal information controllers and processors who, although not found or established in the Philippines, use equipment that are located in the Philippines, or those who maintain an office, branch or agency in the Philippines subject to the immediately succeeding paragraph: *Provided,* That the requirements of Section 5 are complied with.
+### SEC. 4. Scope
+
+This Act applies to the processing of all types of personal information and to any natural and juridical person involved in personal information processing including those personal information controllers and processors who, although not found or established in the Philippines, use equipment that are located in the Philippines, or those who maintain an office, branch or agency in the Philippines subject to the immediately succeeding paragraph: *Provided,* That the requirements of Section 5 are complied with.
 
 This Act does not apply to the following:
 
@@ -146,9 +154,13 @@ This Act does not apply to the following:
 
 (g) Personal information originally collected from residents of foreign jurisdictions in accordance with the laws of those foreign jurisdictions, including any applicable data privacy laws, which is being processed in the Philippines.
 
-SEC. 5. *Protection Afforded to Journalists and Their Sources. –* Nothing in this Act shall be construed as to have amended or repealed the provisions of Republic Act No. 53, which affords the publishers, editors or duly accredited reporters of any newspaper, magazine or periodical of general circulation protection from being compelled to reveal the source of any news report or information appearing in said publication which was related in any confidence to such publisher, editor, or reporter.
+### SEC. 5. Protection Afforded to Journalists and Their Sources
 
-SEC. 6. *Extraterritorial Application. –* This Act applies to an act done or practice engaged in and outside of the Philippines by an entity if:
+Nothing in this Act shall be construed as to have amended or repealed the provisions of Republic Act No. 53, which affords the publishers, editors or duly accredited reporters of any newspaper, magazine or periodical of general circulation protection from being compelled to reveal the source of any news report or information appearing in said publication which was related in any confidence to such publisher, editor, or reporter.
+
+### SEC. 6. Extraterritorial Application
+
+This Act applies to an act done or practice engaged in and outside of the Philippines by an entity if:
 
 (a) The act, practice or processing relates to personal information about a Philippine citizen or a resident;
 
@@ -162,16 +174,18 @@ SEC. 6. *Extraterritorial Application. –* This Act applies to an act done or p
 
 (c) The entity has other links in the Philippines such as, but not limited to:
 
-### (1) The entity carries on business in the Philippines; and
+(1) The entity carries on business in the Philippines; and
 
 (2) The personal information was collected or held by an entity in the Philippines.
 
 [Back To Top](https://privacy.gov.ph/data-privacy-act/)
 
-## CHAPTER I: I
+## CHAPTER II
 THE NATIONAL PRIVACY COMMISSION
 
-SEC. 7. *Functions of the National Privacy Commission. –* To administer and implement the provisions of this Act, and to monitor and ensure compliance of the country with international standards set for data protection, there is hereby created an independent body to be known as the National Privacy Commission, which shall have the following functions:
+### SEC. 7. Functions of the National Privacy Commission
+
+To administer and implement the provisions of this Act, and to monitor and ensure compliance of the country with international standards set for data protection, there is hereby created an independent body to be known as the National Privacy Commission, which shall have the following functions:
 
 (a) Ensure compliance of personal information controllers with the provisions of this Act;
 
@@ -207,9 +221,13 @@ SEC. 7. *Functions of the National Privacy Commission. –* To administer and im
 
 (q) Generally perform such acts as may be necessary to facilitate cross-border enforcement of data privacy protection.
 
-SEC. 8. *Confidentiality. –* The Commission shall ensure at all times the confidentiality of any personal information that comes to its knowledge and possession.
+### SEC. 8. Confidentiality
 
-SEC. 9. *Organizational Structure of the Commission. –* The Commission shall be attached to the Department of Information and Communications Technology (DICT) and shall be headed by a Privacy Commissioner, who shall also act as Chairman of the Commission. The Privacy Commissioner shall be assisted by two (2) Deputy Privacy Commissioners, one to be responsible for Data Processing Systems and one to be responsible for Policies and Planning. The Privacy Commissioner and the two (2) Deputy Privacy Commissioners shall be appointed by the President of the Philippines for a term of three (3) years, and may be reappointed for another term of three (3) years. Vacancies in the Commission shall be filled in the same manner in which the original appointment was made.
+The Commission shall ensure at all times the confidentiality of any personal information that comes to its knowledge and possession.
+
+### SEC. 9. Organizational Structure of the Commission
+
+The Commission shall be attached to the Department of Information and Communications Technology (DICT) and shall be headed by a Privacy Commissioner, who shall also act as Chairman of the Commission. The Privacy Commissioner shall be assisted by two (2) Deputy Privacy Commissioners, one to be responsible for Data Processing Systems and one to be responsible for Policies and Planning. The Privacy Commissioner and the two (2) Deputy Privacy Commissioners shall be appointed by the President of the Philippines for a term of three (3) years, and may be reappointed for another term of three (3) years. Vacancies in the Commission shall be filled in the same manner in which the original appointment was made.
 
 The Privacy Commissioner must be at least thirty-five (35) years of age and of good moral character, unquestionable integrity and known probity, and a recognized expert in the field of information technology and data privacy. The Privacy Commissioner shall enjoy the benefits, privileges and emoluments equivalent to the rank of Secretary.
 
@@ -217,14 +235,18 @@ The Deputy Privacy Commissioners must be recognized experts in the field of info
 
 The Privacy Commissioner, the Deputy Commissioners, or any person acting on their behalf or under their direction, shall not be civilly liable for acts done in good faith in the performance of their duties. However, he or she shall be liable for willful or negligent acts done by him or her which are contrary to law, morals, public policy and good customs even if he or she acted under orders or instructions of superiors: *Provided,* That in case a lawsuit is filed against such official on the subject of the performance of his or her duties, where such performance is lawful, he or she shall be reimbursed by the Commission for reasonable costs of litigation.
 
-SEC. 10. *The Secretariat.* – The Commission is hereby authorized to establish a Secretariat. Majority of the members of the Secretariat must have served for at least five (5) years in any agency of the government that is involved in the processing of personal information including, but not limited to, the following offices: Social Security System (SSS), Government Service Insurance System (GSIS), Land Transportation Office (LTO), Bureau of Internal Revenue (BIR), Philippine Health Insurance Corporation (PhilHealth), Commission on Elections (COMELEC), Department of Foreign Affairs (DFA), Department of Justice (DOJ), and Philippine Postal Corporation (Philpost).
+### SEC. 10. The Secretariat
+
+The Commission is hereby authorized to establish a Secretariat. Majority of the members of the Secretariat must have served for at least five (5) years in any agency of the government that is involved in the processing of personal information including, but not limited to, the following offices: Social Security System (SSS), Government Service Insurance System (GSIS), Land Transportation Office (LTO), Bureau of Internal Revenue (BIR), Philippine Health Insurance Corporation (PhilHealth), Commission on Elections (COMELEC), Department of Foreign Affairs (DFA), Department of Justice (DOJ), and Philippine Postal Corporation (Philpost).
 
 [Back To Top](https://privacy.gov.ph/data-privacy-act/)
 
-## CHAPTER II: I
+## CHAPTER III
 PROCESSING OF PERSONAL INFORMATION
 
-SEC. 11. *General Data Privacy Principles.* – The processing of personal information shall be allowed, subject to compliance with the requirements of this Act and other laws allowing disclosure of information to the public and adherence to the principles of transparency, legitimate purpose and proportionality.
+### SEC. 11. General Data Privacy Principles
+
+The processing of personal information shall be allowed, subject to compliance with the requirements of this Act and other laws allowing disclosure of information to the public and adherence to the principles of transparency, legitimate purpose and proportionality.
 
 Personal information must, be:,
 
@@ -242,7 +264,9 @@ Personal information must, be:,
 
 The personal information controller must ensure implementation of personal information processing principles set out herein.
 
-SEC. 12. *Criteria for Lawful Processing of Personal Information.* – The processing of personal information shall be permitted only if not otherwise prohibited by law, and when at least one of the following conditions exists:
+### SEC. 12. Criteria for Lawful Processing of Personal Information
+
+The processing of personal information shall be permitted only if not otherwise prohibited by law, and when at least one of the following conditions exists:
 
 (a) The data subject has given his or her consent;
 
@@ -256,7 +280,9 @@ SEC. 12. *Criteria for Lawful Processing of Personal Information.* – The proce
 
 (f) The processing is necessary for the purposes of the legitimate interests pursued by the personal information controller or by a third party or parties to whom the data is disclosed, except where such interests are overridden by fundamental rights and freedoms of the data subject which require protection under the Philippine Constitution.
 
-SEC. 13. *Sensitive Personal Information and Privileged Information.* – The processing of sensitive personal information and privileged information shall be prohibited, except in the following cases:
+### SEC. 13. Sensitive Personal Information and Privileged Information
+
+The processing of sensitive personal information and privileged information shall be prohibited, except in the following cases:
 
 (a) The data subject has given his or her consent, specific to the purpose prior to the processing, or in the case of privileged information, all parties to the exchange have given their consent prior to processing;
 
@@ -270,16 +296,22 @@ SEC. 13. *Sensitive Personal Information and Privileged Information.* – The pr
 
 (f) The processing concerns such personal information as is necessary for the protection of lawful rights and interests of natural or legal persons in court proceedings, or the establishment, exercise or defense of legal claims, or when provided to government or public authority.
 
-SEC. 14. *Subcontract of Personal Information. – A* personal information controller may subcontract the processing of personal information: *Provided,* That the personal information controller shall be responsible for ensuring that proper safeguards are in place to ensure the confidentiality of the personal information processed, prevent its use for unauthorized purposes, and generally, comply with the requirements of this Act and other laws for processing of personal information. The personal information processor shall comply with all the requirements of this Act and other applicable laws.
+### SEC. 14. Subcontract of Personal Information
 
-SEC. 15. *Extension of Privileged Communication. –* Personal information controllers may invoke the principle of privileged communication over privileged information that they lawfully control or process. Subject to existing laws and regulations, any evidence gathered on privileged information is inadmissible.
+A* personal information controller may subcontract the processing of personal information: *Provided,* That the personal information controller shall be responsible for ensuring that proper safeguards are in place to ensure the confidentiality of the personal information processed, prevent its use for unauthorized purposes, and generally, comply with the requirements of this Act and other laws for processing of personal information. The personal information processor shall comply with all the requirements of this Act and other applicable laws.
+
+### SEC. 15. Extension of Privileged Communication
+
+Personal information controllers may invoke the principle of privileged communication over privileged information that they lawfully control or process. Subject to existing laws and regulations, any evidence gathered on privileged information is inadmissible.
 
 [Back To Top](https://privacy.gov.ph/data-privacy-act/)
 
-## CHAPTER I: V
+## CHAPTER IV
 RIGHTS OF THE DATA SUBJECT
 
-SEC. 16. *Rights of the Data Subject.* – The data subject is entitled to:
+### SEC. 16. Rights of the Data Subject
+
+The data subject is entitled to:
 
 (a) Be informed whether personal information pertaining to him or her shall be, are being or have been processed;
 
@@ -297,7 +329,7 @@ SEC. 16. *Rights of the Data Subject.* – The data subject is entitled to:
 
 (6) The identity and contact details of the personal information controller or its representative;
 
-### (7) The period for which the information will be stored; and
+(7) The period for which the information will be stored; and
 
 (8) The existence of their rights, i.e., to access, correction, as well as the right to lodge a complaint before the Commission.
 
@@ -327,18 +359,26 @@ Any information supplied or declaration made to the data subject on these matter
 
 (f) Be indemnified for any damages sustained due to such inaccurate, incomplete, outdated, false, unlawfully obtained or unauthorized use of personal information.
 
-SEC. 17. *Transmissibility of Rights of the Data Subject. –* The lawful heirs and assigns of the data subject may invoke the rights of the data subject for, which he or she is an heir or assignee at any time after the death of the data subject or when the data subject is incapacitated or incapable of exercising the rights as enumerated in the immediately preceding section.
+### SEC. 17. Transmissibility of Rights of the Data Subject
 
-SEC. 18. *Right to Data Portability. –* The data subject shall have the right, where personal information is processed by electronic means and in a structured and commonly used format, to obtain from the personal information controller a copy of data undergoing processing in an electronic or structured format, which is commonly used and allows for further use by the data subject. The Commission may specify the electronic format referred to above, as well as the technical standards, modalities and procedures for their transfer.
+The lawful heirs and assigns of the data subject may invoke the rights of the data subject for, which he or she is an heir or assignee at any time after the death of the data subject or when the data subject is incapacitated or incapable of exercising the rights as enumerated in the immediately preceding section.
 
-SEC. 19. *Non-Applicability.* – The immediately preceding sections are not applicable if the processed personal information are used only for the needs of scientific and statistical research and, on the basis of such, no activities are carried out and no decisions are taken regarding the data subject: *Provided,* That the personal information shall be held under strict confidentiality and shall be used only for the declared purpose. Likewise, the immediately preceding sections are not applicable to processing of personal information gathered for the purpose of investigations in relation to any criminal, administrative or tax liabilities of a data subject.
+### SEC. 18. Right to Data Portability
+
+The data subject shall have the right, where personal information is processed by electronic means and in a structured and commonly used format, to obtain from the personal information controller a copy of data undergoing processing in an electronic or structured format, which is commonly used and allows for further use by the data subject. The Commission may specify the electronic format referred to above, as well as the technical standards, modalities and procedures for their transfer.
+
+### SEC. 19. Non
+
+Applicability.* – The immediately preceding sections are not applicable if the processed personal information are used only for the needs of scientific and statistical research and, on the basis of such, no activities are carried out and no decisions are taken regarding the data subject: *Provided,* That the personal information shall be held under strict confidentiality and shall be used only for the declared purpose. Likewise, the immediately preceding sections are not applicable to processing of personal information gathered for the purpose of investigations in relation to any criminal, administrative or tax liabilities of a data subject.
 
 [Back To Top](https://privacy.gov.ph/data-privacy-act/)
 
 ## CHAPTER V
 SECURITY OF PERSONAL INFORMATION
 
-SEC. 20. *Security of Personal Information.* – (a) The personal information controller must implement reasonable and appropriate organizational, physical and technical measures intended for the protection of personal information against any accidental or unlawful destruction, alteration and disclosure, as well as against any other unlawful processing.
+### SEC. 20. Security of Personal Information
+
+(a) The personal information controller must implement reasonable and appropriate organizational, physical and technical measures intended for the protection of personal information against any accidental or unlawful destruction, alteration and disclosure, as well as against any other unlawful processing.
 
 (b) The personal information controller shall implement reasonable and appropriate measures to protect personal information against natural dangers such as accidental loss or destruction, and human dangers such as unlawful access, fraudulent misuse, unlawful destruction, alteration and contamination.
 
@@ -366,10 +406,12 @@ SEC. 20. *Security of Personal Information.* – (a) The personal information co
 
 [Back To Top](https://privacy.gov.ph/data-privacy-act/)
 
-## CHAPTER V: I
+## CHAPTER VI
 ACCOUNTABILITY FOR TRANSFER OF PERSONAL INFORMATION
 
-SEC. 21. *Principle of Accountability. –* Each personal information controller is responsible for personal information under its control or custody, including information that have been transferred to a third party for processing, whether domestically or internationally, subject to cross-border arrangement and cooperation.
+### SEC. 21. Principle of Accountability
+
+Each personal information controller is responsible for personal information under its control or custody, including information that have been transferred to a third party for processing, whether domestically or internationally, subject to cross-border arrangement and cooperation.
 
 (a) The personal information controller is accountable for complying with the requirements of this Act and shall use contractual or other reasonable means to provide a comparable level of protection while the information are being processed by a third party.
 
@@ -377,13 +419,17 @@ SEC. 21. *Principle of Accountability. –* Each personal information controller
 
 [Back To Top](https://privacy.gov.ph/data-privacy-act/)
 
-## CHAPTER VI: I
+## CHAPTER VII
 SECURITY OF SENSITIVE PERSONAL
 INFORMATION IN GOVERNMENT
 
-SEC. 22. *Responsibility of Heads of Agencies.* – All sensitive personal information maintained by the government, its agencies and instrumentalities shall be secured, as far as practicable, with the use of the most appropriate standard recognized by the information and communications technology industry, and as recommended by the Commission. The head of each government agency or instrumentality shall be responsible for complying with the security requirements mentioned herein while the Commission shall monitor the compliance and may recommend the necessary action in order to satisfy the minimum standards.
+### SEC. 22. Responsibility of Heads of Agencies
 
-SEC. 23. *Requirements Relating to Access by Agency Personnel to Sensitive Personal Information. –* (a) On-site and Online Access – Except as may be allowed through guidelines to be issued by the Commission, no employee of the government shall have access to sensitive personal information on government property or through online facilities unless the employee has received a security clearance from the head of the source agency.
+All sensitive personal information maintained by the government, its agencies and instrumentalities shall be secured, as far as practicable, with the use of the most appropriate standard recognized by the information and communications technology industry, and as recommended by the Commission. The head of each government agency or instrumentality shall be responsible for complying with the security requirements mentioned herein while the Commission shall monitor the compliance and may recommend the necessary action in order to satisfy the minimum standards.
+
+### SEC. 23. Requirements Relating to Access by Agency Personnel to Sensitive Personal Information
+
+(a) On-site and Online Access – Except as may be allowed through guidelines to be issued by the Commission, no employee of the government shall have access to sensitive personal information on government property or through online facilities unless the employee has received a security clearance from the head of the source agency.
 
 (b) Off-site Access – Unless otherwise provided in guidelines to be issued by the Commission, sensitive personal information maintained by an agency may not be transported or accessed from a location off government property unless a request for such transportation or access is submitted and approved by the head of the agency in accordance with the following guidelines:
 
@@ -395,71 +441,115 @@ SEC. 23. *Requirements Relating to Access by Agency Personnel to Sensitive Perso
 
 The requirements of this subsection shall be implemented not later than six (6) months after the date of the enactment of this Act.
 
-SEC. 24. *Applicability to Government Contractors.* – In entering into any contract that may involve accessing or requiring sensitive personal information from one thousand (1,000) or more individuals, an agency shall require a contractor and its employees to register their personal information processing system with the Commission in accordance with this Act and to comply with the other provisions of this Act including the immediately preceding section, in the same manner as agencies and government employees comply with such requirements.
+### SEC. 24. Applicability to Government Contractors
+
+In entering into any contract that may involve accessing or requiring sensitive personal information from one thousand (1,000) or more individuals, an agency shall require a contractor and its employees to register their personal information processing system with the Commission in accordance with this Act and to comply with the other provisions of this Act including the immediately preceding section, in the same manner as agencies and government employees comply with such requirements.
 
 [Back To Top](https://privacy.gov.ph/data-privacy-act/)
 
-## CHAPTER VII: I
+## CHAPTER VIII
 PENALTIES
 
-SEC. 25. *Unauthorized Processing of Personal Information and Sensitive Personal Information. –* (a) The unauthorized processing of personal information shall be penalized by imprisonment ranging from one (1) year to three (3) years and a fine of not less than Five hundred thousand pesos (Php500,000.00) but not more than Two million pesos (Php2,000,000.00) shall be imposed on persons who process personal information without the consent of the data subject, or without being authorized under this Act or any existing law.
+### SEC. 25. Unauthorized Processing of Personal Information and Sensitive Personal Information
+
+(a) The unauthorized processing of personal information shall be penalized by imprisonment ranging from one (1) year to three (3) years and a fine of not less than Five hundred thousand pesos (Php500,000.00) but not more than Two million pesos (Php2,000,000.00) shall be imposed on persons who process personal information without the consent of the data subject, or without being authorized under this Act or any existing law.
 
 (b) The unauthorized processing of personal sensitive information shall be penalized by imprisonment ranging from three (3) years to six (6) years and a fine of not less than Five hundred thousand pesos (Php500,000.00) but not more than Four million pesos (Php4,000,000.00) shall be imposed on persons who process personal information without the consent of the data subject, or without being authorized under this Act or any existing law.
 
-SEC. 26. *Accessing Personal Information and Sensitive Personal Information Due to Negligence.* – (a) Accessing personal information due to negligence shall be penalized by imprisonment ranging from one (1) year to three (3) years and a fine of not less than Five hundred thousand pesos (Php500,000.00) but not more than Two million pesos (Php2,000,000.00) shall be imposed on persons who, due to negligence, provided access to personal information without being authorized under this Act or any existing law.
+### SEC. 26. Accessing Personal Information and Sensitive Personal Information Due to Negligence
+
+(a) Accessing personal information due to negligence shall be penalized by imprisonment ranging from one (1) year to three (3) years and a fine of not less than Five hundred thousand pesos (Php500,000.00) but not more than Two million pesos (Php2,000,000.00) shall be imposed on persons who, due to negligence, provided access to personal information without being authorized under this Act or any existing law.
 
 (b) Accessing sensitive personal information due to negligence shall be penalized by imprisonment ranging from three (3) years to six (6) years and a fine of not less than Five hundred thousand pesos (Php500,000.00) but not more than Four million pesos (Php4,000,000.00) shall be imposed on persons who, due to negligence, provided access to personal information without being authorized under this Act or any existing law.
 
-SEC. 27. *Improper Disposal of Personal Information and Sensitive Personal Information. –* (a) The improper disposal of personal information shall be penalized by imprisonment ranging from six (6) months to two (2) years and a fine of not less than One hundred thousand pesos (Php100,000.00) but not more than Five hundred thousand pesos (Php500,000.00) shall be imposed on persons who knowingly or negligently dispose, discard or abandon the personal information of an individual in an area accessible to the public or has otherwise placed the personal information of an individual in its container for trash collection.
+### SEC. 27. Improper Disposal of Personal Information and Sensitive Personal Information
+
+(a) The improper disposal of personal information shall be penalized by imprisonment ranging from six (6) months to two (2) years and a fine of not less than One hundred thousand pesos (Php100,000.00) but not more than Five hundred thousand pesos (Php500,000.00) shall be imposed on persons who knowingly or negligently dispose, discard or abandon the personal information of an individual in an area accessible to the public or has otherwise placed the personal information of an individual in its container for trash collection.
 
 (b) The improper disposal of sensitive personal information shall be penalized by imprisonment ranging from one (1) year to three (3) years and a fine of not less than One hundred thousand pesos (Php100,000.00) but not more than One million pesos (Php1,000,000.00) shall be imposed on persons who knowingly or negligently dispose, discard or abandon the personal information of an individual in an area accessible to the public or has otherwise placed the personal information of an individual in its container for trash collection.
 
-SEC. 28. *Processing of Personal Information and Sensitive Personal Information for Unauthorized Purposes. –* The processing of personal information for unauthorized purposes shall be penalized by imprisonment ranging from one (1) year and six (6) months to five (5) years and a fine of not less than Five hundred thousand pesos (Php500,000.00) but not more than One million pesos (Php1,000,000.00) shall be imposed on persons processing personal information for purposes not authorized by the data subject, or otherwise authorized under this Act or under existing laws.
+### SEC. 28. Processing of Personal Information and Sensitive Personal Information for Unauthorized Purposes
+
+The processing of personal information for unauthorized purposes shall be penalized by imprisonment ranging from one (1) year and six (6) months to five (5) years and a fine of not less than Five hundred thousand pesos (Php500,000.00) but not more than One million pesos (Php1,000,000.00) shall be imposed on persons processing personal information for purposes not authorized by the data subject, or otherwise authorized under this Act or under existing laws.
 
 The processing of sensitive personal information for unauthorized purposes shall be penalized by imprisonment ranging from two (2) years to seven (7) years and a fine of not less than Five hundred thousand pesos (Php500,000.00) but not more than Two million pesos (Php2,000,000.00) shall be imposed on persons processing sensitive personal information for purposes not authorized by the data subject, or otherwise authorized under this Act or under existing laws.
 
-SEC. 29. *Unauthorized Access or Intentional Breach. –* The penalty of imprisonment ranging from one (1) year to three (3) years and a fine of not less than Five hundred thousand pesos (Php500,000.00) but not more than Two million pesos (Php2,000,000.00) shall be imposed on persons who knowingly and unlawfully, or violating data confidentiality and security data systems, breaks in any way into any system where personal and sensitive personal information is stored.
+### SEC. 29. Unauthorized Access or Intentional Breach
 
-SEC. 30. *Concealment of Security Breaches Involving Sensitive Personal Information. –* The penalty of imprisonment of one (1) year and six (6) months to five (5) years and a fine of not less than Five hundred thousand pesos (Php500,000.00) but not more than One million pesos (Php1,000,000.00) shall be imposed on persons who, after having knowledge of a security breach and of the obligation to notify the Commission pursuant to Section 20(f), intentionally or by omission conceals the fact of such security breach.
+The penalty of imprisonment ranging from one (1) year to three (3) years and a fine of not less than Five hundred thousand pesos (Php500,000.00) but not more than Two million pesos (Php2,000,000.00) shall be imposed on persons who knowingly and unlawfully, or violating data confidentiality and security data systems, breaks in any way into any system where personal and sensitive personal information is stored.
 
-SEC. 31. *Malicious Disclosure. –* Any personal information controller or personal information processor or any of its officials, employees or agents, who, with malice or in bad faith, discloses unwarranted or false information relative to any personal information or personal sensitive information obtained by him or her, shall be subject to imprisonment ranging from one (1) year and six (6) months to five (5) years and a fine of not less than Five hundred thousand pesos (Php500,000.00) but not more than One million pesos (Php1,000,000.00).
+### SEC. 30. Concealment of Security Breaches Involving Sensitive Personal Information
 
-SEC. 32. *Unauthorized Disclosure. –* (a) Any personal information controller or personal information processor or any of its officials, employees or agents, who discloses to a third party personal information not covered by the immediately preceding section without the consent of the data subject, shall he subject to imprisonment ranging from one (1) year to three (3) years and a fine of not less than Five hundred thousand pesos (Php500,000.00) but not more than One million pesos (Php1,000,000.00).
+The penalty of imprisonment of one (1) year and six (6) months to five (5) years and a fine of not less than Five hundred thousand pesos (Php500,000.00) but not more than One million pesos (Php1,000,000.00) shall be imposed on persons who, after having knowledge of a security breach and of the obligation to notify the Commission pursuant to Section 20(f), intentionally or by omission conceals the fact of such security breach.
+
+### SEC. 31. Malicious Disclosure
+
+Any personal information controller or personal information processor or any of its officials, employees or agents, who, with malice or in bad faith, discloses unwarranted or false information relative to any personal information or personal sensitive information obtained by him or her, shall be subject to imprisonment ranging from one (1) year and six (6) months to five (5) years and a fine of not less than Five hundred thousand pesos (Php500,000.00) but not more than One million pesos (Php1,000,000.00).
+
+### SEC. 32. Unauthorized Disclosure
+
+(a) Any personal information controller or personal information processor or any of its officials, employees or agents, who discloses to a third party personal information not covered by the immediately preceding section without the consent of the data subject, shall he subject to imprisonment ranging from one (1) year to three (3) years and a fine of not less than Five hundred thousand pesos (Php500,000.00) but not more than One million pesos (Php1,000,000.00).
 
 (b) Any personal information controller or personal information processor or any of its officials, employees or agents, who discloses to a third party sensitive personal information not covered by the immediately preceding section without the consent of the data subject, shall be subject to imprisonment ranging from three (3) years to five (5) years and a fine of not less than Five hundred thousand pesos (Php500,000.00) but not more than Two million pesos (Php2,000,000.00).
 
-SEC. 33. *Combination or Series of Acts. –* Any combination or series of acts as defined in Sections 25 to 32 shall make the person subject to imprisonment ranging from three (3) years to six (6) years and a fine of not less than One million pesos (Php1,000,000.00) but not more than Five million pesos (Php5,000,000.00).
+### SEC. 33. Combination or Series of Acts
 
-SEC. 34. *Extent of Liability.* – If the offender is a corporation, partnership or any juridical person, the penalty shall be imposed upon the responsible officers, as the case may be, who participated in, or by their gross negligence, allowed the commission of the crime. If the offender is a juridical person, the court may suspend or revoke any of its rights under this Act. If the offender is an alien, he or she shall, in addition to the penalties herein prescribed, be deported without further proceedings after serving the penalties prescribed. If the offender is a public official or employee and lie or she is found guilty of acts penalized under Sections 27 and 28 of this Act, he or she shall, in addition to the penalties prescribed herein, suffer perpetual or temporary absolute disqualification from office, as the case may be.
+Any combination or series of acts as defined in Sections 25 to 32 shall make the person subject to imprisonment ranging from three (3) years to six (6) years and a fine of not less than One million pesos (Php1,000,000.00) but not more than Five million pesos (Php5,000,000.00).
 
-SEC. 35. *Large-Scale. –* The maximum penalty in the scale of penalties respectively provided for the preceding offenses shall be imposed when the personal information of at least one hundred (100) persons is harmed, affected or involved as the result of the above mentioned actions.
+### SEC. 34. Extent of Liability
 
-SEC. 36. *Offense Committed by Public Officer. –* When the offender or the person responsible for the offense is a public officer as defined in the Administrative Code of the Philippines in the exercise of his or her duties, an accessory penalty consisting in the disqualification to occupy public office for a term double the term of criminal penalty imposed shall he applied.
+If the offender is a corporation, partnership or any juridical person, the penalty shall be imposed upon the responsible officers, as the case may be, who participated in, or by their gross negligence, allowed the commission of the crime. If the offender is a juridical person, the court may suspend or revoke any of its rights under this Act. If the offender is an alien, he or she shall, in addition to the penalties herein prescribed, be deported without further proceedings after serving the penalties prescribed. If the offender is a public official or employee and lie or she is found guilty of acts penalized under Sections 27 and 28 of this Act, he or she shall, in addition to the penalties prescribed herein, suffer perpetual or temporary absolute disqualification from office, as the case may be.
 
-SEC. 37. *Restitution. –* Restitution for any aggrieved party shall be governed by the provisions of the New Civil Code.
+### SEC. 35. Large
+
+Scale. –* The maximum penalty in the scale of penalties respectively provided for the preceding offenses shall be imposed when the personal information of at least one hundred (100) persons is harmed, affected or involved as the result of the above mentioned actions.
+
+### SEC. 36. Offense Committed by Public Officer
+
+When the offender or the person responsible for the offense is a public officer as defined in the Administrative Code of the Philippines in the exercise of his or her duties, an accessory penalty consisting in the disqualification to occupy public office for a term double the term of criminal penalty imposed shall he applied.
+
+### SEC. 37. Restitution
+
+Restitution for any aggrieved party shall be governed by the provisions of the New Civil Code.
 
 [Back To Top](https://privacy.gov.ph/data-privacy-act/)
 
-## CHAPTER I: X
+## CHAPTER IX
 MISCELLANEOUS PROVISIONS
 
-SEC. 38. *Interpretation. –* Any doubt in the interpretation of any provision of this Act shall be liberally interpreted in a manner mindful of the rights and interests of the individual about whom personal information is processed.
+### SEC. 38. Interpretation
 
-SEC. 39. *Implementing Rules and Regulations (IRR).* – Within ninety (90) days from the effectivity of this Act, the Commission shall promulgate the rules and regulations to effectively implement the provisions of this Act.
+Any doubt in the interpretation of any provision of this Act shall be liberally interpreted in a manner mindful of the rights and interests of the individual about whom personal information is processed.
 
-SEC. 40. *Reports and Information.* – The Commission shall annually report to the President and Congress on its activities in carrying out the provisions of this Act. The Commission shall undertake whatever efforts it may determine to be necessary or appropriate to inform and educate the public of data privacy, data protection and fair information rights and responsibilities.
+### SEC. 39. Implementing Rules and Regulations (IRR)
 
-SEC. 41. *Appropriations Clause. –* The Commission shall be provided with an initial appropriation of Twenty million pesos (Php20,000,000.00) to be drawn from the national government. Appropriations for the succeeding years shall be included in the General Appropriations Act. It shall likewise receive Ten million pesos (Php10,000,000.00) per year for five (5) years upon implementation of this Act drawn from the national government.
+Within ninety (90) days from the effectivity of this Act, the Commission shall promulgate the rules and regulations to effectively implement the provisions of this Act.
 
-SEC. 42. *Transitory Provision.* – Existing industries, businesses and offices affected by the implementation of this Act shall be given one (1) year transitory period from the effectivity of the IRR or such other period as may be determined by the Commission, to comply with the requirements of this Act.
+### SEC. 40. Reports and Information
+
+The Commission shall annually report to the President and Congress on its activities in carrying out the provisions of this Act. The Commission shall undertake whatever efforts it may determine to be necessary or appropriate to inform and educate the public of data privacy, data protection and fair information rights and responsibilities.
+
+### SEC. 41. Appropriations Clause
+
+The Commission shall be provided with an initial appropriation of Twenty million pesos (Php20,000,000.00) to be drawn from the national government. Appropriations for the succeeding years shall be included in the General Appropriations Act. It shall likewise receive Ten million pesos (Php10,000,000.00) per year for five (5) years upon implementation of this Act drawn from the national government.
+
+### SEC. 42. Transitory Provision
+
+Existing industries, businesses and offices affected by the implementation of this Act shall be given one (1) year transitory period from the effectivity of the IRR or such other period as may be determined by the Commission, to comply with the requirements of this Act.
 
 In case that the DICT has not yet been created by the time the law takes full force and effect, the National Privacy Commission shall be attached to the Office of the President.
 
-SEC. 43. *Separability Clause. –* If any provision or part hereof is held invalid or unconstitutional, the remainder of the law or the provision not otherwise affected shall remain valid and subsisting.
+### SEC. 43. Separability Clause
 
-SEC. 44. *Repealing Clause. –* The provision of Section 7 of Republic Act No. 9372, otherwise known as the “Human Security Act of 2007”, is hereby amended. Except as otherwise expressly provided in this Act, all other laws, decrees, executive orders, proclamations and administrative regulations or parts thereof inconsistent herewith are hereby repealed or modified accordingly.
+If any provision or part hereof is held invalid or unconstitutional, the remainder of the law or the provision not otherwise affected shall remain valid and subsisting.
 
-SEC. 45. *Effectivity Clause. –* This Act shall take effect fifteen (15) days after its publication in at least two (2) national newspapers of general circulation.
+### SEC. 44. Repealing Clause
+
+The provision of Section 7 of Republic Act No. 9372, otherwise known as the “Human Security Act of 2007”, is hereby amended. Except as otherwise expressly provided in this Act, all other laws, decrees, executive orders, proclamations and administrative regulations or parts thereof inconsistent herewith are hereby repealed or modified accordingly.
+
+### SEC. 45. Effectivity Clause
+
+This Act shall take effect fifteen (15) days after its publication in at least two (2) national newspapers of general circulation.
 
 [Back To Top](https://privacy.gov.ph/data-privacy-act/)
 
@@ -481,11 +571,11 @@ Approved: **AUG 15 2012**
 | --- |
 | (Sgd.) **BENIGNO S. AQUINO III** *President of the Philippines* |
 
-###### REPUBLIC OF THE PHILIPPINES
+
 
 All content is in the public domain unless otherwise stated.
 
-###### ABOUT GOVPH
+
 
 Learn more about the Philippine government, its structure, how government works and the officials behind it.
 
@@ -493,7 +583,7 @@ Learn more about the Philippine government, its structure, how government works 
 [Open Data Portal](http://www.gov.ph/data)
 [Official Gazette](http://www.officialgazette.gov.ph/)
 
-###### GOVERNMENT LINKS
+
 
 [Department of Information and Communications Technology](https://dict.gov.ph/)
 [Office of the President](http://president.gov.ph/)
@@ -504,7 +594,7 @@ Learn more about the Philippine government, its structure, how government works 
 [Court of Appeals](http://ca.judiciary.gov.ph/)
 [Sandiganbayan](http://sb.judiciary.gov.ph/)
 
-###### [**NPC PRIVACY NOTICE**](https://privacy.gov.ph/npc-privacy-policy/)
+
 
 [CONTACT US](https://privacy.gov.ph/contactus/)
 

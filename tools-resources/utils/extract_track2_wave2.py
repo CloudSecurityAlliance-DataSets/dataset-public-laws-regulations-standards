@@ -1955,7 +1955,7 @@ def ensure_hierarchical_headings(md: str, doc_title: str, doc_desc: str, is_anne
         s = re.sub(r"^(Eylem\s+\d+\.\d+)_+\s*", r"\1: ", s)
         # Normalize missing space after Appendix/Annex/Chapter/Part/Section number (e.g. `Appendix 2Analysis...` -> `Appendix 2: Analysis...`)
         s = re.sub(
-            r"^((?i:Appendix|Annex|Chapter|Part|Section)\s+(?:[IVXLCDM]+|\d+))([A-ZÄÖÜÉÈÊÀÁÍÓÚÑ])",
+            r"^((?i:Appendix|Annex|Chapter|Part|Section)\s+(?:[IVXLCDM]+(?![IVXLCDM])|\d+(?!\d)))([A-ZÄÖÜÉÈÊÀÁÍÓÚÑ][a-zäöüéèêàáíóúñ])",
             r"\1: \2",
             s,
         )
