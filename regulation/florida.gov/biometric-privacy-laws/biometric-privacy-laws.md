@@ -1,173 +1,4 @@
-![](/usercontent/img/icons/TransparentDot.gif)
-
-[Skip to Navigation](#menu) | [Skip to Main Content](#main) | [Skip to Site Map](#footer)
-
-[FLHouse.gov](http://www.flhouse.gov) | [Mobile Site](/MobileSite)
-
-Senate Tracker: [Sign Up](/Tracker/Signup) | [Login](/Tracker/Login)
-
-Go to Bill: Session: 2026E 2026D 2026 2025 2025C 2025B 2025A 2024 Org. 2024
-2023C 2023 2023B 2022A 2022 Org. 2022D 2022C 2022 2021B 2021A 2021 2020 Org.
-2020 2019 I 2019 2018 Org. 2018 2017A 2017 2016 Org. 2016 2015C 2015B 2015A
-2015 2014 Org. 2014A 2014 2013 2012 Org. 2012B 2012 2011 2010A 2010 Org. 2010C
-2010 2009B 2009 2009A 2008 Org. 2008 2007D 2007C 2007B 2007 2007A 2006 Org.
-2006 2005B 2005 2004A 2004 Org. 2004 2003E 2003D 2003C 2003B 2003A 2003 2002
-Org. 2002E 2002D 2002 2001C 2001B 2001 2000A (Dec.) 2000 Org. 2000 2000A
-(Jan.) 1999 1998 Org 1998
-
-[2026E****](javascript:void\(0\))
-
-Find Statutes: 2025 2024 2023 2022 2021 2020 2019 2018 2017 2016 2015 2014
-2013 2012 2011 2010 2009 2008 2007 2006 2005 2004 2003 2002 2001 2000 1999
-1998 1997
-
-[2024****](javascript:void\(0\))
-
-Search
-
-Javascript must be enabled for site search.
-
-# The Florida Senate
-
-[](/)
-
-  * [Home](/)
-  * [Senators](/Senators)
-
-[Senator List](/Senators)
-
-[Find Your Legislators](/Senators/Find)
-
-[District Maps](/Senators/Districts)
-
-[Vote Disclosures](/Senators/VoteDisclosures)
-
-  * [Committees](/Committees)
-
-[Committee List](/Committees)
-
-[ Committee
-Publications ](/Committees/Publications)
-
-  * [Session](/Session)
-
-[Bills](/Session/Bills)
-
-[Calendars](/Session/Calendars)
-
-[Journals](/Session/Journals)
-
-[Appropriations](/Session/Appropriations)
-
-[Conferences](/Session/Conferences)
-
-[Reports](/Session/Reports)
-
-[Executive Appointments](/Session/ExecutiveAppointments)
-
-[Executive Suspensions](/Session/ExecutiveSuspensions)
-
-[Redistricting](/Session/Redistricting)
-
-  * [Laws](/Laws)
-
-[Statutes](/Laws/Statutes)
-
-[ Help Searching
-Statutes ](/Search/StatuteSearchTips)
-
-[Constitution](/Laws/Constitution)
-
-[Laws of Florida ](http://laws.flrules.org/)
-
-[Order - Legistore ](http://www.leg.state.fl.us/cgi-
-bin/View_Page.pl?Tab=info_center&Submenu=2&File=index.html&Directory=portal/legistore/&Location=app)
-
-  * [Media](/Media)
-
-[ Video Broadcast
-Schedule ](/Media/VideoSchedule)
-
-[Publications](/Media/Publications)
-
-[Videos](/Media/Videos)
-
-[Topics](/Media/Topics)
-
-  * [About](/About)
-
-[Employment](/About/Employment)
-
-[Accessibility](/About/Accessibility)
-
-[Visit Us](/About/Visit)
-
-[Contact Us](/About/Contact)
-
-[Page Program]( https://senatepages.flsenate.gov/)
-
-  * [Offices](/Offices)
-
-[President's Office ](/Offices/President)
-
-[Majority Office](/Offices/Majority)
-
-[Minority Office](/Offices/Minority)
-
-[Secretary's Office ](/Offices/Secretary)
-
-  * [Reference](/Reference)
-
-[Glossary](/Reference/Glossary)
-
-[FAQ](/Reference/FAQ)
-
-[Help](/Reference/Help)
-
-[Links](/Reference/Links)
-
-[Search Tips](/Search/SiteSearchTips)
-
-[Publications](/Reference/Publications)
-
-[Rules](/Reference/SenateRules)
-
-[Handbooks](/Reference/Publications/SenateHandbooks)
-
-[Advisory Opinions](/Reference/AdvisoryOpinions)
-
-[Public Records](/Reference/PublicRecords)
-
-  * [Tracker](/Tracker)
-
-[Login](/Tracker/Login)
-
-[Sign Up](/Tracker/Signup)
-
-[Tracker Help](/Tracker/Help)
-
-[Home](/) > [Laws](/Laws) > [2024 Florida Statutes](/Laws/Statutes/2024) >
-[Title XXXIII](/Laws/Statutes/2024/Title33/#Title33) > [Chapter
-501](/Laws/Statutes/2024/Chapter501) > Section 171
-
-Quick Links
-
-  * [General Laws Conversion Table (2025)](/PublishedContent/Laws/Statutes/Links/General_Laws_Conversion_Table__2025_.pdf) (PDF)
-  * [Florida Statutes Definitions Index (2025)](/PublishedContent/Laws/Statutes/Links/Florida_Statutes_Definitions_Index__2025_.pdf) (PDF)
-  * [Table of Section Changes (2025)](/PublishedContent/Laws/Statutes/Links/Table_of_Section_Changes__2025_.pdf) (PDF)
-  * [Preface to the Florida Statutes (2025)](/PublishedContent/Laws/Statutes/Links/Preface_to_the_Florida_Statutes__2025_.pdf) (PDF)
-  * [Table Tracing Session Laws to Florida Statutes (2025)](/PublishedContent/Laws/Statutes/Links/Table_Tracing_Session_Laws_to_Florida_Statutes__2025_.pdf) (PDF)
-  * [Index to Special and Local Laws (1971-2025)](/PublishedContent/Laws/Statutes/Links/Index_to_Special_and_Local_Laws__1971_2025_.pdf) (PDF)
-  * [Index to Special and Local Laws (1845-1970)](/PublishedContent/Laws/Statutes/Links/IndexSpecialLocalLaws1845-1970.pdf) (PDF)
-  * [Statute Search Tips](/Search/StatuteSearchTips)
-
-##  2024 Florida Statutes (Including 2025C)
-
-[Title XXXIII REGULATION OF TRADE, COMMERCE, INVESTMENTS, AND
-SOLICITATIONS](/Laws/Statutes/2024/Title33/#Title33)
-
-[Chapter 501 CONSUMER PROTECTION](/Laws/Statutes/2024/Chapter501) [Entire
-Chapter](/Laws/Statutes/2024/Chapter501/All)
+# Florida Information Protection Act (Fla. Stat. § 501.171)
 
 #### SECTION 171
 Security of confidential personal information.
@@ -176,7 +7,7 @@ F.S. 501.171
 
 ### 501.171 Security of confidential personal information.—
 
-(1) DEFINITIONS.—As used in this section, the term:
+#### Section (1) DEFINITIONS.—As used in this section, the term:
 
 (a) “Breach of security” or “breach” means unauthorized access of data in
 electronic form containing personal information. Good faith access of personal
@@ -249,11 +80,11 @@ identify an individual or that otherwise renders the information unusable.
 store, or process personal information on behalf of a covered entity or
 governmental entity.
 
-(2) REQUIREMENTS FOR DATA SECURITY.—Each covered entity, governmental entity,
+#### Section (2) REQUIREMENTS FOR DATA SECURITY.—Each covered entity, governmental entity,
 or third-party agent shall take reasonable measures to protect and secure data
 in electronic form containing personal information.
 
-(3) NOTICE TO DEPARTMENT OF SECURITY BREACH.—
+#### Section (3) NOTICE TO DEPARTMENT OF SECURITY BREACH.—
 
 (a) A covered entity shall provide notice to the department of any breach of
 security affecting 500 or more individuals in this state. Such notice must be
@@ -301,7 +132,7 @@ Agriculture and Consumer Services, in lieu of providing the written notice to
 the department, the covered entity may post the information described in
 subparagraphs (b)1.-4. on an agency-managed website.
 
-(4) NOTICE TO INDIVIDUALS OF SECURITY BREACH.—
+#### Section (4) NOTICE TO INDIVIDUALS OF SECURITY BREACH.—
 
 (a) A covered entity shall give notice to each individual in this state whose
 personal information was, or the covered entity reasonably believes to have
@@ -378,7 +209,7 @@ paragraph, a covered entity that timely provides a copy of such notice to the
 department is deemed to be in compliance with the notice requirement in
 subsection (3).
 
-(5) NOTICE TO CREDIT REPORTING AGENCIES.—If a covered entity discovers
+#### Section (5) NOTICE TO CREDIT REPORTING AGENCIES.—If a covered entity discovers
 circumstances requiring notice pursuant to this section of more than 1,000
 individuals at a single time, the covered entity shall also notify, without
 unreasonable delay, all consumer reporting agencies that compile and maintain
@@ -402,7 +233,7 @@ covered entity needs to comply with its notice requirements.
 behalf of the covered entity; however, an agent’s failure to provide proper
 notice shall be deemed a violation of this section against the covered entity.
 
-(7) ANNUAL REPORT.—By February 1 of each year, the department shall submit a
+#### Section (7) ANNUAL REPORT.—By February 1 of each year, the department shall submit a
 report to the President of the Senate and the Speaker of the House of
 Representatives describing the nature of any reported breaches of security by
 governmental entities or third-party agents of governmental entities in the
@@ -410,7 +241,7 @@ preceding calendar year along with recommendations for security improvements.
 The report shall identify any governmental entity that has violated any of the
 applicable requirements in subsections (2)-(6) in the preceding calendar year.
 
-(8) REQUIREMENTS FOR DISPOSAL OF CUSTOMER RECORDS.—Each covered entity or
+#### Section (8) REQUIREMENTS FOR DISPOSAL OF CUSTOMER RECORDS.—Each covered entity or
 third-party agent shall take all reasonable measures to dispose, or arrange
 for the disposal, of customer records containing personal information within
 its custody or control when the records are no longer to be retained. Such
@@ -418,7 +249,7 @@ disposal shall involve shredding, erasing, or otherwise modifying the personal
 information in the records to make it unreadable or undecipherable through any
 means.
 
-(9) ENFORCEMENT.—
+#### Section (9) ENFORCEMENT.—
 
 (a) A violation of this section shall be treated as an unfair or deceptive
 trade practice in any action brought by the department under s.
@@ -442,10 +273,10 @@ breach and not per individual affected by the breach.
 (c) All penalties collected pursuant to this subsection shall be deposited
 into the General Revenue Fund.
 
-(10) NO PRIVATE CAUSE OF ACTION.—This section does not establish a private
+#### Section (10) NO PRIVATE CAUSE OF ACTION.—This section does not establish a private
 cause of action.
 
-(11) PUBLIC RECORDS EXEMPTION.—
+#### Section (11) PUBLIC RECORDS EXEMPTION.—
 
 (a) All information received by the department pursuant to a notification
 required by this section, or received by the department pursuant to an

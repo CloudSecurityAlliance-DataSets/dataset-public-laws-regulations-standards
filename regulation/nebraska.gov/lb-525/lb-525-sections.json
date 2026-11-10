@@ -1,0 +1,130 @@
+[
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "Nebraska Legislative Bill 525 — Conversational Artificial Intelligence Safety Act",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "LEGISLATURE OF NEBRASKA\n\nONE HUNDRED NINTH LEGISLATURE\n\nFIRST SESSION"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "LEGISLATIVE BILL 525",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Introduced by Jacobson, 42; at the request of the Governor.\n\nRead first time January 22, 2025\n\nCommittee: Banking, Commerce and Insurance\n\nA BILL FOR AN ACT relating to data privacy; to adopt the Agricultural 1\n\nData Privacy Act. 2\n\nBe it enacted by the people of the State of Nebraska, 3\n\n-1-"
+  },
+  {
+    "depth": 4,
+    "section_id": "Section 1",
+    "section_name": "Sections 1 to 11 of this act shall be known and may be",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "cited as the Agricultural Data Privacy Act. 2"
+  },
+  {
+    "depth": 4,
+    "section_id": "Sec. 2",
+    "section_name": "The purposes of the Agricultural Data Privacy Act are to: 3",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "(1) Protect the privacy of agricultural producers in Nebraska; and 4"
+  },
+  {
+    "depth": 3,
+    "section_id": "(2)",
+    "section_name": "Protect the agriculture industry in Nebraska. 5",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 4,
+    "section_id": "Sec. 3",
+    "section_name": "For purposes of the Agricultural Data Privacy Act: 6",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "(1) Acquisitions data means data related to the acquisition of 7\n\ncapital, land, equipment, inputs, livestock or any other acquisition of 8\n\nagricultural property; 9\n\n(2) Agricultural data means acquisitions data, care data, crop 10\n\nproduction data, cultivation data, field usage data, financial standings 11\n\ndata, GPS data, historical yield data, irrigation data, maintenance data, 12\n\nmarketing strategy and decisions data, purchase sell information, usage 13\n\ndata, and yield data; 14\n\n(3) Care data means data related to the acquisition or selling of 15\n\nlivestock and metrics associated with such a transaction; 16\n\n(4) Controller means an individual or other person that, alone or 17\n\njointly with others, determines the purpose and means of processing 18\n\nagricultural data; 19\n\n(5) Crop production data means data related to the practice of 20\n\nprotecting the crop yields from different agents including pests, weeds, 21\n\nplant diseases, and other organisms that may cause damage to agricultural 22\n\ncrops; 23\n\n(6) Cultivation data means data related to the practice of planting, 24\n\nharvesting, cultivating, or other related practices and the data such as 25\n\ndates operation occurred, metrics regarding method of the practice, and 26\n\nother personally identifiable related practices; 27\n\n(7) Field usage data means data related to commodities planted, land 28\n\ncare, irrigation, and land management practices; 29\n\n(8) Financial standings data means data related to financial 30\n\nstandings of agricultural production operations including assets and\n\n-2-\n\nliabilities, and other related identifiable information;\n\n(9) GPS data means data related to Global Positioning Systems (GPS) 2\n\nin farm machinery, decisionmaking software, and all other related systems 3\n\nutilizing GPS in agricultural practices; 4\n\n(10) Historical yield data means data connected to individual 5\n\nparcels of land, including yield metrics related to the success of crops 6\n\ncultivated in individual parcels; 7\n\n(11) Irrigation data means data related to the method, timing, and 8\n\nusage of irrigation resources and equipment; 9\n\n(12) Maintenance data means data related to maintenance actions of 10\n\nequipment, including services, service intervals, and other related 11\n\npersonally identifiable data; 12\n\n(13) Marketing strategy and decisions data means data related to 13\n\ntransactions of commodities, livestock, and land, including marketing 14\n\nplans, marketing actions, and related metrics; 15\n\n(14) Process or processing means an operation or set of operations 16\n\nperformed, whether by manual or automated means, on agricultural data or 17\n\non sets of agricultural data, such as the collection, use, storage, 18\n\ndisclosure, analysis, deletion, or modification of agricultural data; 19\n\n(15) Processor means a person that processes agricultural data on 20\n\nbehalf of a controller; 21\n\n(16) Purchase sell information means data related to the acquisition 22\n\nor selling of livestock and metrics associated with the transaction; 23\n\n(17) Usage data means data concerning the operation of machinery 24\n\nrelated to common agricultural practices; and 25\n\n(18) Yield data means data connected to the harvest of commodities, 26\n\nincluding yield and production metrics, as well as date of harvest and 27\n\nother personally identifiable data. 28"
+  },
+  {
+    "depth": 4,
+    "section_id": "Sec. 4",
+    "section_name": "(1) A person may provide written consent to any potential 29",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "controller of such person's agricultural data that authorizes: 30\n\n(a) The potential controller to process such person's agricultural\n\n-3-\n\ndata; or\n\n(b) A third party to process such person's agricultural data on 2\n\nbehalf of the potential controller. 3\n\n(2) A person that has provided written consent under this section 4\n\nmay rescind such consent by providing a written notice of such rescission 5\n\nto the controller of the agricultural data. 6"
+  },
+  {
+    "depth": 4,
+    "section_id": "Sec. 5",
+    "section_name": "(1) A controller shall not: 7",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "(a) Require any person to submit to any processing of such person's 8\n\nagricultural data without the written consent of such person; 9\n\n(b) Provide any difference in any service, good, benefit, or reward 10\n\nprovided to any person who does not consent to the collection or 11\n\npossession of agricultural data; or 12\n\n(c) Sell, provide, or use the agricultural data of any person 13\n\nwithout such person's authorization. 14\n\n(2) A controller shall delete the agricultural data relating to a 15\n\nperson that has provided a written notice rescinding the authorization 16\n\npursuant to section 4 of this act within thirty days after receiving such 17\n\nwritten notice. 18"
+  },
+  {
+    "depth": 4,
+    "section_id": "Sec. 6",
+    "section_name": "A processor shall not process, sell to any person, provide 19",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "to any person, or use the agricultural data of a person without such 20\n\nperson providing written consent that authorizes such processing to the 21\n\ncontroller of the agricultural data under section 4 of this act. 22"
+  },
+  {
+    "depth": 4,
+    "section_id": "Sec. 7",
+    "section_name": "The Agricultural Data Privacy Act does not apply to the 23",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "processing of agricultural data by a person if such person is the owner 24\n\nof the agricultural data. 25"
+  },
+  {
+    "depth": 4,
+    "section_id": "Sec. 8",
+    "section_name": "Any provision of a contract or agreement that waives or 26",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "limits in any way any requirement for a controller or processor described 27\n\nin sections 5 or 6 of this act is contrary to public policy and is void 28\n\nand unenforceable. 29"
+  },
+  {
+    "depth": 4,
+    "section_id": "Sec. 9",
+    "section_name": "The Attorney General has exclusive authority to enforce the 30",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "Agricultural Data Privacy Act and may bring an action against any\n\n-4-\n\ncontroller or processor to:"
+  },
+  {
+    "depth": 3,
+    "section_id": "LEGISLATIVE BILL 525: (1) (1)",
+    "section_name": "Seek injunctive relief; or 2",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "(2) Recover a civil penalty in the amount of [XXXX] dollars for each 3\n\nseparate violation of the Agricultural Data Privacy Act. All such civil 4\n\npenalties shall be remitted to the State Treasurer for distribution in 5\n\naccordance with Article VII, section 5, of the Constitution of Nebraska. 6"
+  },
+  {
+    "depth": 4,
+    "section_id": "Sec. 10",
+    "section_name": "The Attorney General shall post on the Attorney General's 7",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "website: 8"
+  },
+  {
+    "depth": 3,
+    "section_id": "LEGISLATIVE BILL 525: (1) (2)",
+    "section_name": "Information relating to: 9",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "(a) The responsibilities of a controller under the Agricultural Data 10\n\nPrivacy Act; 11\n\n(b) The responsibilities of a processor under the Agricultural Data 12\n\nPrivacy Act; and 13\n\n(c) A consumer's rights under the Agricultural Data Privacy Act; and 14\n\n(2) An online mechanism through which a person may submit a 15\n\ncomplaint under the Agricultural Data Privacy Act to the Attorney 16\n\nGeneral. 17"
+  },
+  {
+    "depth": 4,
+    "section_id": "Sec. 11",
+    "section_name": "The Agricultural Data Privacy Act shall not be construed 18",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "as providing a basis for, or being subject to, a private right of action 19\n\nfor a violation of the Agricultural Data Privacy Act or any other law. 20\n\n-5-"
+  }
+]

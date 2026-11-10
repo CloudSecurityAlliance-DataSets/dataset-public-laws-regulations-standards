@@ -1,0 +1,130 @@
+[
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "California Senate Bill 243 — Companion Chatbots (Chapter 22.6, Division 8, Business and Professions Code, § 22600 et seq.)",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "**Senate Bill\nNo. 243**"
+  },
+  {
+    "depth": 3,
+    "section_id": "CHAPTER 677",
+    "section_name": "CHAPTER 677",
+    "id_kind": "chapter",
+    "parent_id": "",
+    "body": "An act to add Chapter 22.6 (commencing with Section 22601) to Division 8 of the Business and Professions Code, relating to artificial intelligence.\n\n[\nApproved by\nGovernor\n October 13, 2025.\nFiled with\nSecretary of State\n October 13, 2025.\n]"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "LEGISLATIVE COUNSEL'S DIGEST",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "SB 243, Padilla.\nCompanion chatbots.\n\nExisting law requires a social media platform to take various steps to prevent cyberbullying of minors on the platform, including by requiring the platform to establish a prominent mechanism within its internet-based service that allows any individual, whether or not that individual has a profile on the internet-based service, to report cyberbullying or any content that violates the existing terms of service related to cyberbullying. Existing law authorizes the State Department of Public Health to establish the Office of Suicide Prevention in the department, as prescribed.\n\nThis bill would, among other things related to making a companion chatbot platform safer for users, if a reasonable person interacting with a companion chatbot would be misled to believe that\nthe person is interacting with a human, require an operator of a companion chatbot platform to issue a clear and conspicuous notification indicating that the companion chatbot is artificially generated and not human. The bill would also require an operator to take certain actions with respect to a user the operator knows is a minor, including disclose to the user that the user is interacting with artificial intelligence. The bill would also require an operator to prevent a companion chatbot on its companion chatbot platform from engaging with users unless the operator maintains a protocol for\npreventing the production of suicidal ideation, suicide, or self-harm content to the user, as specified, and would require an operator to publish details on that protocol on the operator’s internet website.\n\nThis bill would, beginning July 1, 2027, require an operator to annually report to the Office of Suicide Prevention certain things, including\nprotocols put in place to detect, remove, and respond to instances of suicidal ideation by users, and would require the office to post data from that report on its internet website. The bill would authorize a person who suffers injury in fact as a result of noncompliance with the bill to bring a certain civil action."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Digest Key",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Vote:\nMAJORITY\nAppropriation:\nNO\nFiscal Committee:\nYES\nLocal Program:\nNO\n\n---"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Bill Text",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "The people of the State of California do enact as follows:",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "SECTION 1",
+    "section_name": "SECTION 1",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "Chapter 22.6 (commencing with Section 22601) is added to Division 8 of the Business and Professions Code, to read:"
+  },
+  {
+    "depth": 5,
+    "section_id": "CHAPTER  22.6",
+    "section_name": "Companion Chatbots",
+    "id_kind": "chapter",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 6,
+    "section_id": "22601",
+    "section_name": "22601",
+    "id_kind": "statute",
+    "parent_id": "CHAPTER  22.6",
+    "body": "As used in this chapter:\n\n(a) “Artificial intelligence” means an engineered or machine-based system that varies in its level of autonomy and that can, for explicit or implicit objectives, infer from the input it receives how to generate outputs that can influence physical or virtual environments.\n\n(b) (1) “Companion chatbot” means an artificial intelligence system with a natural language interface that provides adaptive, human-like responses to user inputs and is capable of meeting a user’s social needs, including by exhibiting anthropomorphic features and being able to sustain a relationship across\nmultiple interactions.\n\n(2) “Companion chatbot” does not include any of the following:\n\n(A) A bot that is used only for customer service, a business’ operational purposes, productivity and analysis related to source information, internal research, or technical assistance.\n\n(B) A bot that is a feature of a video game and is limited to replies related to the video game that cannot discuss topics related to mental health, self-harm, sexually explicit conduct, or maintain a\ndialogue on other topics unrelated to the video game.\n\n(C) A stand-alone consumer electronic device that functions as a speaker and voice command interface, acts as a voice-activated virtual assistant, and does not sustain a relationship across multiple interactions or generate outputs that are likely to elicit emotional responses in the user.\n\n(c) “Companion chatbot platform” means a platform that allows a user to engage with companion chatbots.\n\n(d) “Office” means the Office of Suicide Prevention established pursuant to Section 131300 of the Health and Safety Code.\n\n(e) “Operator” means a\nperson who makes a companion chatbot platform available to a user in the state.\n\n(f) “Sexually explicit conduct” has the meaning defined in Section 2256 of Title 18 of the United States Code.\n\n(g) “Video game” means a game played on an electronic amusement device that utilizes a computer, microprocessor, or similar electronic circuitry and its own monitor, or is designed to be used with a television set or a computer monitor, that interacts with the user of the device."
+  },
+  {
+    "depth": 6,
+    "section_id": "22602",
+    "section_name": "22602",
+    "id_kind": "statute",
+    "parent_id": "CHAPTER  22.6",
+    "body": "(a) If a reasonable person interacting with a companion chatbot would be misled to believe that the person is interacting with a human, an operator shall issue a clear and conspicuous notification indicating that the companion chatbot is artificially generated and not human.\n\n(b) (1) An operator shall prevent a companion chatbot on its companion chatbot platform from engaging with users unless the operator\nmaintains a protocol for preventing the production of suicidal ideation, suicide, or self-harm content to the user, including, but not limited to, by providing a notification to the user that refers the user to crisis service providers, including a suicide hotline or crisis text line, if the user expresses suicidal ideation, suicide, or self-harm.\n\n(2) The operator shall publish details on the protocol required by this subdivision on the operator’s internet website.\n\n(c) An operator shall, for a user that the operator knows is a minor, do all of the following:\n\n(1) Disclose to the user that the user is interacting with artificial intelligence.\n\n(2) Provide by default a clear and conspicuous notification to the user at least every three hours for continuing companion chatbot interactions that reminds the user to take a break and that the companion chatbot is artificially generated and not human.\n\n(3) Institute reasonable measures to prevent its companion chatbot from producing visual material of sexually explicit conduct or directly stating that the minor should engage in sexually explicit conduct."
+  },
+  {
+    "depth": 6,
+    "section_id": "22603",
+    "section_name": "22603",
+    "id_kind": "statute",
+    "parent_id": "CHAPTER  22.6",
+    "body": "(a) Beginning July 1, 2027, an operator shall annually report to the office all of the following:"
+  },
+  {
+    "depth": 3,
+    "section_id": "(1)",
+    "section_name": "The number of times the operator has",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "issued a crisis service provider referral notification pursuant to Section 22602 in the preceding calendar year.\n\n(2) Protocols put in place to detect, remove, and respond to instances of suicidal ideation by users.\n\n(3) Protocols put in place to prohibit a companion chatbot response about suicidal ideation or actions with the user.\n\n(b) The report required by this section shall include only the information listed in subdivision (a) and shall not include any identifiers or personal information about users.\n\n(c) The office shall post data from a report required by this section on its internet website.\n\n(d) An operator shall use evidence-based methods for measuring suicidal ideation."
+  },
+  {
+    "depth": 6,
+    "section_id": "22604",
+    "section_name": "22604",
+    "id_kind": "statute",
+    "parent_id": "",
+    "body": "An operator shall disclose to a user of its companion chatbot platform, on the application, the browser, or any other format that a user can use to access the companion chatbot platform, that companion chatbots may not be suitable for some minors."
+  },
+  {
+    "depth": 6,
+    "section_id": "22605",
+    "section_name": "22605",
+    "id_kind": "statute",
+    "parent_id": "",
+    "body": "A person who suffers injury in fact as a result of a violation of this chapter may bring a civil action to recover all of the following relief:\n\n(a) Injunctive relief.\n\n(b) Damages in an amount equal to the greater of actual damages or one thousand dollars ($1,000) per violation.\n\n(c) Reasonable attorney’s fees and costs."
+  },
+  {
+    "depth": 6,
+    "section_id": "22606",
+    "section_name": "22606",
+    "id_kind": "statute",
+    "parent_id": "",
+    "body": "The duties, remedies, and obligations imposed by this chapter are cumulative to the duties, remedies, or obligations imposed under other law and shall not be construed to relieve an operator from any duties, remedies, or obligations imposed under any other law."
+  },
+  {
+    "depth": 3,
+    "section_id": "SEC. 2",
+    "section_name": "SEC. 2",
+    "id_kind": "goal",
+    "parent_id": "",
+    "body": "The provisions of this act are severable. If any provision of this act or its application is held invalid, that invalidity shall not affect other provisions or applications that can be given effect without the invalid provision or application."
+  }
+]

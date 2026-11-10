@@ -1,0 +1,63 @@
+{
+  "secid": "secid:regulation/oregon.gov/sb-1546",
+  "name": "Oregon Senate Bill 1546 — Relating to Artificial Intelligence Companion Chatbots",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "sb-1546",
+  "owner": "State of Oregon",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Oregon statute regulating AI companion chatbots: mandates clear and recurring disclosure that the chatbot is artificially generated and not human, prohibits misrepresentation as a licensed health care provider, requires suicidal-ideation/self-harm crisis intervention and referral protocols, imposes heightened minor-safety protections, and provides both Attorney General enforcement and a private right of action.",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by State of Oregon (oregon.gov) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within State of Oregon (oregon.gov).",
+  "license": {
+    "spdx": "CC0-1.0",
+    "Grouping": "Public Domain",
+    "redistribution": "yes",
+    "derivatives": "yes",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.usa.gov/government-works",
+    "note": "United States Government work (17 U.S.C. § 105); in the public domain worldwide.",
+    "notes": "United States Government work (17 U.S.C. § 105); in the public domain worldwide."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1546",
+    "textUsed": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1546/Introduced",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official regulation (https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1546/Introduced) to Markdown (10,052 chars). Parsed 3 sections (2 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  }
+}

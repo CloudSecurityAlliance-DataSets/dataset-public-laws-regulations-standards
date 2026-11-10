@@ -1,0 +1,48 @@
+{
+  "secid": "secid:regulation/boe.es/nis2-transposition",
+  "name": "Ley de transposición de la Directiva NIS2",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "nis2-transposition",
+  "owner": "Boletín Oficial del Estado",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Spanish transposition of NIS2. Supervised by INCIBE and CCN-CERT.",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by Boletín Oficial del Estado (boe.es) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within Boletín Oficial del Estado (boe.es).",
+  "license": {
+    "spdx": "LicenseRef-ES-TRLPI-Art13",
+    "Grouping": "Government-Work",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1996-8930#a13",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (boe.es) is governed by Spanish Consolidated Intellectual Property Law (Real Decreto Legislativo 1/1996, TRLPI) Art. 13 (official legal/regulatory dispositions, royal decrees, ministerial orders in BOE, and official state acts) and Ley 37/2007 on Reuse of Public Sector Information. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (boe.es) is governed by Spanish Consolidated Intellectual Property Law (Real Decreto Legislativo 1/1996, TRLPI) Art. 13 (official legal/regulatory dispositions, royal decrees, ministerial orders in BOE, and official state acts) and Ley 37/2007 on Reuse of Public Sector Information. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.boe.es",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:regulation/boe.es/nis2-transposition (https://www.boe.es) is not directly downloadable (upstream portal root URL only, SPA/WAF barrier, or pending publication); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

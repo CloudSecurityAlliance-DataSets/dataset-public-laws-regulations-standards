@@ -1,0 +1,48 @@
+{
+  "secid": "secid:regulation/wetten.overheid.nl/wft-psd2",
+  "name": "Wet financieel toezicht (Wft) — PSD2 amendments",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "wft-psd2",
+  "owner": "Wetten.overheid.nl",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Dutch transposition of PSD2 via Wft amendments. Supervised by DNB and AFM.",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by Wetten.overheid.nl (wetten.overheid.nl) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within Wetten.overheid.nl (wetten.overheid.nl).",
+  "license": {
+    "spdx": "CC0-1.0",
+    "Grouping": "Public Domain",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": true,
+    "license_text_url": "https://wetten.overheid.nl/BWBR0001886/",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (wetten.overheid.nl) is governed by Dutch Copyright Act (Auteurswet) Art. 11 & Art. 15b (no copyright in laws, decrees, or public works made generally available by public authorities without an explicit reservation of copyright; Rijksoverheid CC0 1.0). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (wetten.overheid.nl) is governed by Dutch Copyright Act (Auteurswet) Art. 11 & Art. 15b (no copyright in laws, decrees, or public works made generally available by public authorities without an explicit reservation of copyright; Rijksoverheid CC0 1.0). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://wetten.overheid.nl",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:regulation/wetten.overheid.nl/wft-psd2 (https://wetten.overheid.nl) is not directly downloadable (upstream portal root URL only, SPA/WAF barrier, or pending publication); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "secid": "secid:regulation/riksdagen.se/lbf-psd2",
+  "name": "Lag (2010:751) om betaltjänster (PSD2 amendments)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "lbf-psd2",
+  "owner": "Riksdagen (Swedish Parliament)",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Swedish transposition of PSD2. Supervised by Finansinspektionen.",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by Riksdagen (Swedish Parliament) (riksdagen.se) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within Riksdagen (Swedish Parliament) (riksdagen.se).",
+  "license": {
+    "spdx": "LicenseRef-SE-Upphovsratt-Sec9",
+    "Grouping": "Public Domain",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-1960729-om-upphovsratt-till-litterara-och_sfs-1960-729/",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (riksdagen.se) is governed by Swedish Act on Copyright in Literary and Artistic Works (Upphovsrättslagen 1960:729) § 9 (laws, ordinances, decisions, and official reports/strategies issued by Swedish public authorities are free from copyright). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (riksdagen.se) is governed by Swedish Act on Copyright in Literary and Artistic Works (Upphovsrättslagen 1960:729) § 9 (laws, ordinances, decisions, and official reports/strategies issued by Swedish public authorities are free from copyright). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.riksdagen.se",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:regulation/riksdagen.se/lbf-psd2 (https://www.riksdagen.se) is not directly downloadable (upstream portal root URL only, SPA/WAF barrier, or pending publication); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

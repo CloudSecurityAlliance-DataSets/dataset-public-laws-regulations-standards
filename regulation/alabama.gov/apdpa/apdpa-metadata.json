@@ -1,0 +1,63 @@
+{
+  "secid": "secid:regulation/alabama.gov/apdpa",
+  "name": "Alabama Personal Data Protection Act",
+  "acronym": "APDPA",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "apdpa",
+  "owner": "State of Alabama",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Alabama's comprehensive consumer privacy law. HB 351 (2026), signed April 17 2026, effective May 1 2027.",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by State of Alabama (alabama.gov) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within State of Alabama (alabama.gov).",
+  "license": {
+    "spdx": "CC0-1.0",
+    "Grouping": "Public Domain",
+    "redistribution": "yes",
+    "derivatives": "yes",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.usa.gov/government-works",
+    "note": "United States Government work (17 U.S.C. § 105); in the public domain worldwide.",
+    "notes": "United States Government work (17 U.S.C. § 105); in the public domain worldwide."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/HB351-enr.pdf",
+    "textUsed": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/HB351-enr.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official regulation (https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/HB351-enr.pdf) to Markdown (46,754 chars). Parsed 130 sections (124 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  }
+}

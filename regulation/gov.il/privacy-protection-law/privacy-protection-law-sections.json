@@ -1,0 +1,634 @@
+[
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "Protection of Privacy Law, 5741-1981",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "[About Intellectual Property](https://www.wipo.int/en/web/about-ip)\n[IP Training](https://www.wipo.int/en/web/about-ip#training)\n[Respect for IP](https://www.wipo.int/en/web/respect-for-ip)\n[IP Outreach](https://www.wipo.int/en/web/ip-outreach)\n[IP for…](https://www.wipo.int/en/web/about-ip#for)\n[IP and...](https://www.wipo.int/en/web/about-ip#and)\n[IP in...](https://www.wipo.int/en/web/about-ip#in)\n[Patent & Technology Information](https://www.wipo.int/en/web/patents/patent-information)\n[Trademark Information](https://www.wipo.int/en/web/ip-resources#trademarks)\n[Design Information](https://www.wipo.int/en/web/ip-resources#designs)\n[Geographical Indication Information](https://www.wipo.int/en/web/ip-resources#geographical-indications)\n[Plant Variety Information (UPOV)](https://www.upov.int/)\n[IP Laws, Treaties & Judgments](https://www.wipo.int/en/web/ip-resources#legal)\n[IP Resources](https://www.wipo.int/en/web/ip-resources#analysis)\n[IP Reports](https://www.wipo.int/en/web/ip-resources#reports)\n[Patent Protection](https://www.wipo.int/en/web/patents/protection)\n[Trademark Protection](https://www.wipo.int/en/web/trademarks/protection)\n[Design Protection](https://www.wipo.int/en/web/designs/protection)\n[Geographical Indication Protection](https://www.wipo.int/en/web/geographical-indications/protection)\n[Plant Variety Protection (UPOV)](https://www.upov.int/portal/index.html.en)\n[IP Dispute Resolution](https://www.wipo.int/en/web/amc)\n[IP Office Business Solutions](https://www.wipo.int/en/web/ip-office-business-solutions)\n[Paying for IP Services](https://www.wipo.int/en/web/paying-for-ip-services)\n[Negotiation & Decision-Making](https://www.wipo.int/en/web/decision-making-and-negotiating-bodies)\n[IP Cooperation](https://www.wipo.int/en/web/cooperation)\n[Innovation Support](https://www.wipo.int/en/web/patents#technology)\n[Public-Private Partnerships](https://www.wipo.int/en/web/cooperation/public-private-partnerships)\n[The Organization](https://www.wipo.int/en/web/about-wipo)\n[WIPO and Artificial Intelligence](https://www.wipo.int/en/web/wipo-and-ai)\n[Working at WIPO](https://www.wipo.int/en/web/working-at-wipo)\n[Accountability](https://www.wipo.int/en/web/about-wipo#accountability)\n[Patents](https://www.wipo.int/en/web/patents)\n[Trademarks](https://www.wipo.int/en/web/trademarks)\n[Designs](https://www.wipo.int/en/web/designs)\n[Geographical Indications](https://www.wipo.int/en/web/geographical-indications)\n[Copyright](https://www.wipo.int/en/web/copyright)\n[Trade Secrets](https://www.wipo.int/en/web/trade-secrets)\n[Future of IP](https://www.wipo.int/en/web/future-of-ip)\n[WIPO Academy](https://www.wipo.int/en/web/wipo-academy)\n[Workshops & Seminars](https://www.wipo.int/meetings/en/topic_type.jsp?group_id=242)\n[IP Enforcement](https://www.wipo.int/en/web/ip-enforcement)\n[WIPO ALERT](https://www.wipo.int/en/web/wipo-alert)\n[Raising Awareness](https://www.wipo.int/en/web/respect-for-ip/awareness-raising)\n[World IP Day](https://www.wipo.int/en/web/ipday)\n[WIPO Magazine](https://www.wipo.int/en/web/wipo-magazine)\n[Case Studies & Success Stories](https://www.wipo.int/en/web/ip-advantage)\n[IP News](https://www.wipo.int/en/web/news/explore)\n[WIPO Awards](https://www.wipo.int/en/web/awards)\n[Business](https://www.wipo.int/en/web/business)\n[Women](https://www.wipo.int/en/web/women)\n[Universities](https://www.wipo.int/en/web/universities)\n[Indigenous Peoples](https://www.wipo.int/en/web/traditional-knowledge/engagement)\n[Judiciaries](https://www.wipo.int/en/web/judiciaries)\n[Youth](https://www.wipo.int/en/web/youth-engagement)\n[Examiners](https://www.wipo.int/en/web/examiners)\n[Innovation Ecosystems](https://www.wipo.int/en/web/innovation-ecosystems)\n[Economics](https://www.wipo.int/en/web/economics)\n[Finance](https://www.wipo.int/en/web/ip-financing)\n[Intangible Assets](https://www.wipo.int/en/web/intangible-assets)\n[Global Health](https://www.wipo.int/en/web/global-health)\n[Climate Change](https://www.wipo.int/en/web/climate-change)\n[Competition Policy](https://www.wipo.int/en/web/competition-policy)\n[Sustainable Development Goals](https://www.wipo.int/en/web/sdgs)\n[Genetic Resources, Traditional Knowledge and Traditional Cultural Expressions](https://www.wipo.int/en/web/traditional-knowledge)\n[Frontier Technologies](https://www.wipo.int/en/web/frontier-technologies)\n[Mobile Applications](https://www.wipo.int/en/web/mobile-apps)\n[Sports](https://www.wipo.int/en/web/sports)\n[Tourism](https://www.wipo.int/en/web/tourism)\n[Music](https://www.wipo.int/en/web/music)\n[Fashion](https://www.wipo.int/en/web/fashion)\n[PATENTSCOPE](https://www.wipo.int/en/web/patentscope)\n[Patent Analytics](https://www.wipo.int/en/web/patent-analytics)\n[International Patent Classification](https://www.wipo.int/en/web/classification-ipc)\n[ARDI – Research for Innovation](https://www.wipo.int/en/web/ardi)\n[ASPI – Specialized Patent Information](https://www.wipo.int/en/web/aspi)\n[Global Brand Database](https://www.wipo.int/en/web/global-brand-database)\n[Madrid Monitor](https://www3.wipo.int/madrid/monitor/en/)\n[Article 6ter Express Database](https://6ter.wipo.int/struct-search)\n[Nice Classification](https://www.wipo.int/en/web/classification-nice)\n[Vienna Classification](https://www.wipo.int/en/web/classification-vienna)\n[Global Design Database](https://www.wipo.int/en/web/global-design-database)\n[International Designs Bulletin](https://hague.wipo.int/#/bulletin/browse-by-bulletin)\n[Hague Express Database](https://designdb.wipo.int/designdb/hague/en/)\n[Locarno Classification](https://www.wipo.int/en/web/classification-locarno)\n[Lisbon Express Database](https://lisbon-express.wipo.int/)\n[Global Brand Database for GIs](https://branddb.wipo.int/en/IPO-LISBON/quicksearch?by=brandName&v=&start=0&_=1676544734688)\n[PLUTO Plant Variety Database](https://pluto.upov.int/)\n[GENIE Database](https://www.upov.int/genie/)\n[WIPO-Administered Treaties](https://www.wipo.int/en/web/treaties)\n[WIPO Lex - IP Laws, Treaties & Judgments](https://www.wipo.int/en/web/wipolex)\n[WIPO Standards](https://www.wipo.int/en/web/standards)\n[IP Statistics](https://www.wipo.int/en/web/ip-statistics)\n[WIPO Pearl (Terminology)](https://www.wipo.int/en/web/wipo-pearl)\n[WIPO Publications](https://www.wipo.int/publications/en/)\n[Country IP Profiles](https://www.wipo.int/en/web/country-profiles)\n[WIPO Knowledge Center](https://www.wipo.int/en/web/wipo-knowledge-center)\n[World Intangible Investment Highlights](https://www.wipo.int/en/web/intangible-assets/measuring-investments#highlights)\n[WIPO Technology Trends](https://www.wipo.int/en/web/technology-trends)\n[Global Innovation Index](https://www.wipo.int/en/web/global-innovation-index)\n[World Intellectual Property Report](https://www.wipo.int/en/web/world-ip-report)\n[PCT – The International Patent System](https://www.wipo.int/en/web/pct-system)\n[ePCT](https://pct.wipo.int/ePCT/)\n[Budapest – The International Microorganism Deposit System](https://www.wipo.int/en/web/budapest-system)\n[Madrid – The International Trademark System](https://www.wipo.int/en/web/madrid-system)\n[eMadrid](https://madrid.wipo.int/)\n[Article 6ter (armorial bearings, flags, state emblems)](https://www.wipo.int/en/web/article-6ter)\n[Hague – The International Design System](https://www.wipo.int/en/web/hague-system)\n[eHague](https://hague.wipo.int/)\n[Lisbon – The International System of Appellations of Origin and Geographical Indications](https://www.wipo.int/en/web/lisbon-system)\n[eLisbon](https://lisbon-system.wipo.int/)\n[UPOV PRISMA](https://www3.wipo.int/upovprisma)\n[Mediation](https://www.wipo.int/en/web/amc#mediation)\n[Arbitration](https://www.wipo.int/en/web/amc#arbitration)\n[Expert Determination](https://www.wipo.int/en/web/amc#expert-determination)\n[Domain Name Disputes](https://www.wipo.int/en/web/amc/domain-name-disputes)\n[Centralized Access to Search and Examination (CASE)](https://www.wipo.int/en/web/case)\n[Digital Access Service (DAS)](https://www.wipo.int/en/web/das)\n[WIPO Pay](https://www.wipo.int/en/web/wipo-pay)\n[WIPO Wallet](https://www.wipo.int/en/web/wipo-wallet)\n[WIPO Assemblies](https://www.wipo.int/en/web/assemblies)\n[Standing Committees](https://www.wipo.int/en/web/decision-making-and-negotiating-bodies#bodies)\n[Calendar of Meetings](https://www.wipo.int/meetings/en/)\n[WIPO Webcast](https://webcast.wipo.int/)\n[WIPO Official Documents](https://www.wipo.int/meetings/en/archive.jsp)\n[Development Agenda](https://www.wipo.int/en/web/development-agenda)\n[Tailored Initiatives & Projects](https://www.wipo.int/en/web/cooperation/tailored-initiatives)\n[Collaborative Forums & Dialogues](https://www.wipo.int/en/web/cooperation/collaborative-forums)\n[Innovation, Creativity and Development Acceleration Program](https://www.wipo.int/en/web/innovation-creativity-and-development-acceleration-program)\n[IP for Impact](https://www.wipo.int/pressroom/en/stories/)\n[National IP & Innovation Strategies](https://www.wipo.int/en/web/national-ip-strategies)\n[Cooperation Hub](https://www.wipo.int/en/web/cooperation/cooperation-hub)\n[Technology and Innovation Support Centers (TISC)](https://www.wipo.int/en/web/tisc)\n[Technology Transfer](https://www.wipo.int/en/web/technology-transfer)\n[Inventor Assistance Program](https://www.wipo.int/en/web/inventor-assistance-program)\n[IP Commercialization](https://www.wipo.int/en/web/ip-commercialization)\n[WIPO GREEN](https://www3.wipo.int/wipogreen/en/)\n[WIPO's Pat-INFORMED](https://www.wipo.int/pat-informed/en/)\n[Accessible Books Consortium](https://www.accessiblebooksconsortium.org/en/portal/index)\n[WIPO for Creators](https://www.wipo.int/en/web/wipo-for-creators)\n[Member States](https://www.wipo.int/members/en/)\n[Observers](https://www.wipo.int/en/web/about-wipo/observers)\n[Director General](https://www.wipo.int/en/web/director-general)\n[Activities by Unit](https://www.wipo.int/en/web/about-wipo/activities-by-unit)\n[External Offices](https://www.wipo.int/en/web/about-wipo/offices)\n[Global Forum on IP and AI](https://www.wipo.int/en/web/global-forum-on-ip-and-ai)\n[AI Infrastructure Interchange](https://www.wipo.int/en/web/ai-infrastructure-interchange)\n[AI Tools & Services](https://www.wipo.int/en/web/ai-tools-services)\n[Staff Positions](https://www.wipo.int/en/web/working-at-wipo#staff)\n[Affiliated Personnel Positions](https://www.wipo.int/en/web/working-at-wipo#affiliated)\n[Procurement](https://www.wipo.int/en/web/procurement)\n[Results & Budget](https://www.wipo.int/en/web/about-wipo/budget)\n[Financial Reporting](https://www.wipo.int/en/web/about-wipo/budget/financial)\n[Oversight](https://www.wipo.int/en/web/about-wipo/oversight)\n\n[Arabic](https://www.wipo.int/wipolex/ar/text/347462)\n[English](https://www.wipo.int/wipolex/en/text/347462)\n[Spanish](https://www.wipo.int/wipolex/es/text/347462)\n[French](https://www.wipo.int/wipolex/fr/text/347462)\n[Russian](https://www.wipo.int/wipolex/ru/text/347462)\n[Chinese](https://www.wipo.int/wipolex/zh/text/347462)\n\n[Laws](https://www.wipo.int/wipolex/en/main/legislation)\n[Treaties](https://www.wipo.int/wipolex/en/main/treaties)\n[Judgments](https://www.wipo.int/wipolex/en/main/judgments)\n[Browse By Jurisdiction](https://www.wipo.int/wipolex/en/members)"
+  },
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "Israel",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "IL084",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Back"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Protection of Privacy Law, 5741-1981",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Protection of Privacy Law, 5741-1981",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "[Prepared by WIPO, 2014]\n\n[Hebrew version is controlling]\n\n[Chapter One: Infringement of Privacy](https://www.wipo.int/wipolex/en/text/347462#C1)\n\n[Chapter Two: Protection of Privacy in Databases](https://www.wipo.int/wipolex/en/text/347462#c2)\n\n[Article One: DataBases](https://www.wipo.int/wipolex/en/text/347462#a1)\n\n[Article Two: Direct Mail](https://www.wipo.int/wipolex/en/text/347462#a2)\n\n[Chapter Three: Defenses](https://www.wipo.int/wipolex/en/text/347462#c3)\n\n[Chapter Four: Delivery of Information by Public Bodies](https://www.wipo.int/wipolex/en/text/347462#c4)\n\n[Chapter Five: Miscellaneous](https://www.wipo.int/wipolex/en/text/347462#c5)"
+  },
+  {
+    "depth": 2,
+    "section_id": "Chapter one",
+    "section_name": "Infringement of Privacy",
+    "id_kind": "chapter",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Prohibition on infringement of privacy",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "if !supportLists?1.      endif?No person shall infringe the privacy of another without his consent."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "What is infringement of privacy",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "2. An infringement of privacy constitutes one of the following:\n\nif !supportLists?(1)          endif?Spying or trailing a person in a manner likely to harass him, or any other harassment;"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "(2) listening prohibited under the Law;",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "(3) photographing a person while he is in a private domain;\n (4) publication of a persons photograph in the public domain under circumstances in which the publication is likely to humiliate him or degrade him;\n\n(4A) Publication of a victims photograph, shot during the time of injury or immediately thereafter, in a manner where he is identifiable and under circumstances by which the publication thereof is likely to embarrass him, except for the immediate publication of a photograph, from the moment of  photographing to the moment of actual transmission of broadcast, which is reasonable under the circumstances; for this purpose, victim – a person who suffered physical or mental injury due to a sudden event and the injury thereof is noticeable.\n (5) copying the contents of a letter or other scripts not intended for publication, or the use of contents thereof, without the permission of the addressee or the writer, unless the script is of historical value and no more than fifteen years have passed since the time when it was written; for this purpose, script – including an electronic message as defined in the electronic signature Law, 5761-2001;\n (6) use of a persons name, appellation, picture or voice for profit;\n (7) infringement of duty of confidentiality prescribed by law in respect of a persons private affairs;\n (8) infringement of duty of confidentiality in respect of a  persons private affairs, whether it was explicitly or implicitly prescribed in an agreement;\n (9) use or passing on of information on a persons private affairs, for a purpose other than which was prescribed;\n (10) publication of or the passing of anything that was obtained by way of an infringement of privacy under paragraphs (1) to (7) or (9);\n (11) publication of any matter that relates to a persons intimate life, including his sexual history, or state of health or conduct in the private domain."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Publication of a Photograph whose subject has passed",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "2A. (a) For the purpose of this law, an infringement of privacy also constitutes publication in public of a photograph of a visible corpse in a manner where the subject may be identifiable, unless one of the following occurred:\n\nif !supportLists?(1)   endif?The person has agreed to such infringement during his lifetime;\n\nif !supportLists?(2)   endif?15 years have passed since the date of passing of such person;\n\nif !supportLists?(3)   endif?Such infringement was agreed upon by the first of the specified in the subparagraphs (a) to (2) while living, unless the deceased did not object to said infringement during his lifetime and his child or parent did not notify the publisher or his representative that he opposes the publication thereof:\n\nif !supportLists?(a)   endif?Spouse;\n\nif !supportLists?(b)   endif?All of his children;\n\nif !supportLists?(c)    endif?His parents;\n\nif !supportLists?(d)   endif?His siblings;\n\nif !supportLists?(4)   endif?Where the deceased had no relatives enumerated under paragraph (3) and the court approved the publication.\n\n(b) The spouse of the deceased, his child, parent or sibling may file civil action for publication under this section."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Definition of terms",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "3. In this Law -\n\nperson - for purposes of sections 2,7,13,14, 17B, 17C, 17F, 17G, 23A, 23B and 25 - excluding a corporation;\n consent – informed consent, expressed or implied;\n holder, for purpose of a database - a person, in permanent possession of a database which he may use thereof;\n publication – as defined in section 2 of the Prohibition on Defamation Law, 5725-1965;\n photography - including filming;\n use-  including disclosure, transfer and delivery."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Infringement of privacy - a civil wrong",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "4. An infringement of privacy constitutes a civil wrong, and the provisions of the Torts Ordinance [New Version] shall apply therein, subject to the provisions of this Ordinance."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Infringement of privacy - an offense",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "5. a person who willfully infringes the privacy of another in any of the ways enumerated under sections 2(1), (3) to (7) and (9) to (11), shall be liable to five years imprisonment."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Deminimis",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "6. A deminimis infringement shall not accrue a right to bring civil or criminal action under this law."
+  },
+  {
+    "depth": 2,
+    "section_id": "Chapter Two",
+    "section_name": "Protection of Privacy in Databases",
+    "id_kind": "chapter",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Definition",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "7. In this Chapter and in Chapter Four -\n\ndata security - protection of the integrity of data, or protection of the data from exposure, use or copying, all when done without due permission;\n database - a collection of data, kept by magnetic or optic means and intended for computer processing, excluding -\n\n(1) a collection for personal use not intended towards business purposes; or\n (2) a collection that includes only names, addresses and modes of communicating, which in and of itself does not create any characterization that infringes the privacy of the people whose names are included therein, provided that neither the proprietor of the collection, nor a corporation under his control have an additional collection;\n\ninformation - data on the personality, personal status, intimate affairs, state of health, economic position, vocational qualifications, opinions and beliefs of a person,\n sensitive information -\n\n(1) data on the personality, intimate affairs, state of health, economic condition, opinions and beliefs;\n (2) information which the Minister of Justice prescribed by order, with approval of the Knesset Constitution, Law and Justice Committee to constitute sensitive information.\n\ndatabase operator - the active operator of an agency, which owns or holds a database, or a person appointed by him for the purpose of this matter;\n Registrar - a person qualified to be appointed as a Magistrates Court judge, and is appointed by the Government to operate the databases register (hereinafter – Register), in a notification thereof in the Official Gazzette, as said in section 12;\n integrity of information - the identity of data in the database to the source from which they were derived, without having been changed, delivered or destroyed without due permission.\n\n**Article One:****DataBases**"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Registration and use of database",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "8. (a) No person shall operate or possess a database which must be registered under this section, unless one of the following applies:"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "(1) the database was registered in the Register;",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "(2) an application for registration of the database was submitted and the provisions of section 10(b1) are complied with,\n (3) the database must be registered under subsection (e) and the Registrars provisions include permission to operate and possesses the data until registration.\n\n(b) No person shall use the information in a database which must be registered under this section, except for the purposes for which the database was set up.\n (c) The proprietor of the database is obliged by registration of the register and heshall register it where one of the following applies:\n\n(1) the number of persons for which information is available in the database does not exceed 10,000;"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "(2) the database includes sensitive information;",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "(3) the database includes information about persons which they did not provide, nor was it provided on their behalf or with their consent;\n (4) the database belongs to a public authority, as defined under section 23;\n (5) the database is used for direct mail services, as aforementioned in section 17C.\n\n(d) The provisions of subsection (c) shall not apply to a database which only includes information published in the public domain by virtue of legal authority or which has been provided for public inspection by lawful authority.\n (e) The Registrar may, for special reasons which shall be recorded, instruct to comply with duty of registration for databases that are exempt of such obligation under subsection (c) and (d); Such instruction shall be provided to the proprietor of the database, and provisions on operation and maintenance of the database shall be specified therein by the Registrar prior to registration."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Application of registration",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "9. (a) An application for registration of a database shall be submitted to the Registrar.\n (b) An application for registration of a database shall specify -\n\n(1) the identity of the proprietor of the database, of the person who possesses the database, and their addresses in Israel;\n (2) the purposes of setting up the database and the objective for which the information is intended;\n (3) the types of information to be included in the database;\n (4) particulars on any transfer of information beyond the borders of the state;\n (5) particulars on constant receiving information from a public body, as defined in section 23, the name of such public body that provides the information, and the exclusive of particulars delivered by consent of the persons who are subjects of the information.\n\n(c) The Minster may prescribe in regulations any additional particulars to be specified in the application for registration.\n (d) The proprietor or possessor of a database shall notify the Registrar of any change to a particular of the specified particulars in subsection (b) or subsection (c), and of discontinuation of the operation of the database."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Power of Registrar",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "10. (a) Where an application for registration of a database has been submitted -\n\n(1) the Registrar shall register it in the Register within 90 days from the date of submission, unless he has reasonable grounds to believe that the database is used or may be used for illegal activities or as a cover thereof, or that the information included therein was obtained, accrued or collected in violation of this Law or in violation of the provisions of any law.\n (2) The Registrar may register an objective other than that specified in the application, register several objective for the database, or instruct that several applications be submitted under the application subject of submission, where he concludes that doing so is appropriate to the actual activity of the database,\n (3) The Registrar shall refuse to register the database under paragraph (1) or use his powers under paragraph (2) only after he gave the applicant an opportunity to state his case.\n\n(b) Repealed.\n (b1) Where the Registrar did not register the database within 90 days after the date the application was submitted and he did not inform the applicant of his refusal of registration, or of a delay in registration for special reasons which shall be specified in his notice - then the applicant may operate or keep the database despite not having it registered.\n (b2) Where the Registrar informed the applicant of his refusal to register the database, or of a delay in registration, as aforementioned under subsection (b1), then the applicant may not operate or keep the database, unless otherwise decided by the Court.\n (b3) The Registrar shall strike the registration of a database from the Register, if the proprietor of the database informed him that the information therein has been deleted, and he validated such notice by an affidavit; where the database was kept by a person other than the proprietor of the database, then the notice shall also be validated by an affidavit of the person in possession of the database.\n (c) The Registrar shall supervise compliance with the provisions of this Law and of the regulations thereunder.\n (d) The Minister of Justice shall, with approval by the Knesset Constitution, Law and Justice Committee, set up a supervisory unit to supervise the databases, their registration and the security of the information therein: the size of the unit shall be modified in accordance with the needs of supervision.\n (e) The Registrar shall head the supervision unit and he shall appoint inspectors to carry out the supervision under this Law; only persons with suitable professional training in the field of computers and information security and the exercise of power under this Law shall be appointed as inspector, and where the Israel Police did not express any objection to such appointment for reasons of public safety.\n\n(e1) for the purpose of performing his duties, the inspector may –\n\nif !supportLists?(1)   endif?require any person involved to give him news and documents relating to the database;\n\nif !supportLists?(2)   endif?enter, search and seize any object in any place for which he has reasonable grounds to believe that a database is operated therein, if he is satisfied that such measure is required for guaranteeing the exercise of this law and to prevent infringing the provisions thereof;  the provisions of Penal Procedure Ordinance (Search and Seizure) [New Version], 5729-1969 shall apply to any object seized in accordance with this section; procedures on entering a military base or a base of the security authority, as defined under section 19(c) shall be prescribed by the Minister of Justice, upon consultation with the Minister entrusted with directing the Security Authority, as the case may be; in this paragraph, object, including computer matter and output, as defined in the computer law, 5755-1995;\n\nif !supportLists?(3)   endif?Notwithstanding the provisions of paragraph (2), he shall not enter any place, as said, is used solely for residential purposes, unless otherwise prescribed by order of a judge of the Magistrates court.\n\n(f) Where the possessor or the proprietor of a database has infringed any provision of this Law or of regulations thereunder, or where he fails to comply with a request made to him by the Registrar, then the Registrar may prescribe that registration shall take effect only during a prescribed period or he may cancel the registration of a database in the register, provided that prior to such contingency or cancellation, the proprietor was given an opportunity to make his case heard.\n (g) The Registrar and any person who acts on his behalf shall be treated as a State employee."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Privacy protection report",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "10A. The Privacy Protection Council shall submit to the Knesset Constitution, Law and Justice Committee, no later than April 1 of each year, a report prepared by the Registrar on enforcement and supervision activities during the year preceding the submission of the report,  annoted with the Councils comments."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Duty of applicant for information",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "11. Any request to a person for information, for the purpose of keeping or using it in a database, shall be accompanied by a notice that indicates -\n\n(1) whether a legal obligation to deliver that information applies for that person, or whether delivery of information is contingent on his volition and consent;\n (2) the purpose for which the information is requested;\n (3) to whom the information is to be delivered and for what purpose."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Register of databases",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "12. (a) The Registrar shall keep a Register of databases, which shall be open for inspection by the public.\n (b) The Register shall include the particulars for registration of a database as aforementioned in section 9.\n (c) Notwithstanding the provisions of subsections (a) and (b), as per the database of the security authority, the particulars specified in section 9(b)(3), (4) and (5) shall not be open to inspection by the public."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Right of inspection of information",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "13. (a) Every person is entitled to inspect, in person, or through a representative authorized by him in writing, or through his guardian, any information regarding such person which is kept in a database.\n (b) The proprietor of the database shall permit inspection of the database, at the request of a person as said in subsection (a) (hereafter - the applicant), in Hebrew, Arabic or English.\n (c) The proprietor of a database may refrain from delivering to the applicant information dealing with his state of physical or mental health, where he believes that the information may cause severe damage to the applicants physical or mental health or endanger his life; in such a case the proprietor of the database shall deliver the information to a physician or psychologist on behalf of the applicant.\n (c1) The provisions of this section shall not impose delivery of information contrary to confidentiality prescribed by law, unless the applicant is the person for whose benefit the such privilege is intended.\n\nIn this subsection, law – including case law.\n (d) The manner, conditions and payment for exercising the right to inspect information shall be prescribed by regulations.\n (e) The provisions of this section and section 13A shall not apply -\n\nif !supportLists?(1)               endif?to a database of a security authority, as defined under section 19(c);\n (1a) to a database of the Prisons Service;\n (2) to a database of a tax authority, as defined under the Tax Law Amendment (Exchange of Information Between Tax Authorities) Law, 5727-1967;\n (3) Where state security, the foreign relations of such State or the provisions of any law require to not disclose to a person information thereof;\n (4) to the database of any agencies, which the Minister of Justice determined in consultation with the Minister of Defense or the Minister of Foreign Affairs, as the case may be, and with approval by the Knesset security and Foreign Affairs Committee, that it includes information that should not be disclosed in light of state security or foreign affairs (hereinafter - confidential information), provided that a person who requests to inspect any information about himself which is kept in such database shall be entitled to examine any information that is not confidential;\n (5) to a database regarding investigation and law enforcement by an authority authorized to investigate an offense by law, so determined by the Minister of Justice in an order with approval of the Knesset Constitution, Law and Justice Committee."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Inspection of information not in the dominion of the proprietor",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "13A. Without derogating from the provisions of section 13-\n\nif !supportLists?(1)   endif?the proprietor of a database, who retains it with another (in this section- the possessor) - shall refer the applicant to the possessor, stating his address, and instruct the possessor in writing to permit the applicant inspection thereof;\n (2) Where the applicant first applied to the possessor, the possessor shall inform him whether he is possession of information about him, as well as the name and address of the proprietor of the database."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Amendment of information",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "14. (a) a person who inspected the information about himself, and found that it is not correct, complete, clear or up to date, may request the proprietor of the database, and if he is a foreign resident -  the possessor,  to amend or delete the information.\n (b) Where the proprietor of a database agreed to a request under subsection (a), he shall make the necessary changes in the information in his possession and inform thereof to every person who received the information from him within the period prescribed by regulations.\n (c) Where the proprietor of a database refuses to comply with a request under subsection (a), he shall give notice to that effect to the applicant - in the form and manner prescribed by regulations.\n (d) The possessor must amend the information, if the proprietor of the database agreed to the requested correction, or if a Court ordered the correction to be made."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Appeal to Court",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "15. The applicant may file suit to the Court, in the form and manner prescribed by regulations, against a refusal by the proprietor of a database to enable inspection pursuant to section 13 or section 13A, and against a notice of refusal under section 14(c)."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Confidentiality",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "16. No person shall disclose any information obtained by him by virtue of his functions as an employee, manager or possessor of a database, save for the purpose of performing his work or implementing this Law or under a Court order in connection with a legal proceeding; if a request has been filed prior to the beginning of a proceeding, then such request shall be heard in a Magistrates Court; any person infringing the provisions of this section, shall be liable to five years imprisonment."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Penalty",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "17. The proprietor of a database, the possessor of a database and the manager of a database are each responsible for the protection of the information in the database."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Possessor of databases of different proprietors",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "17A. (a) A possessor of databases of different proprietors shall make sure that access to each database shall only be granted to persons explicitly authorized thereof in a written agreement between him and the proprietor of that database.\n (b) A possessor in possession of at least five databases, which are mandated to registration under section 8, shall annually deliver to the Registrar a list of databases in his possession, indicating the names of the proprietors of the databases, and an affidavit that the persons authorized to have access to each database have been designated in agreements between him and the proprietors, and the name of the person in charge of security as said in section 17B."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Security officer",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "17B. (a) The agencies specified below must appoint a person who is qualified to be in charge of information security (hereinafter -security officer):\n\n(1) a person who holds five databases that require registration under section 8;"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "(2) a public body, as defined in section 23;",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "(3) a bank, insurance company, and a company engaged in ranking or evaluation of credit ratings.\n\n(b) Without derogating from the provisions of section 17, the security officer shall be responsible for the security of information in databases under the purview of the agencies aforementioned in subsection (a).\n (c) A person found guilty of a heinous offense or of an offense against the provisions of this Law shall not be appointed as security officer."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Article Two: Direct Mail",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Definitions",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "17C. In this Article -\n\ndirect mail - an individual approach to persons, based on their belonging to a population group, determined by one or more characteristics of persons whose names are included in a database;\n approach - includes in writing, print, by telephone, by facsimile, by computerized means or by any other means;\n direct mail services - granting direct mail services to others by way of transferring lists, adhesive labels or data by any means whatsoever."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Direct mail",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "**17D.** No person shall operate or possess a database used for direct mail services, unless he is registered in the Register, and unless one of his registered purposes is direct mail services."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Indicating source of information",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "17E. No person shall operate or hold a database used for direct mail services, unless he has a record stating the source from which he obtained each collection of data used for purposes of the database and the date of receiving thereof, as well as whom he delivered any such collection of data."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Striking information from a database used for direct mail",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "**17F.** (a) Every approach by direct mail shall include, clearly and prominently -\n\n(1) an indication that such approach is by direct mail, annoted by an indication of the registration number of the database used for services of direct mail in the register of the databases;\n (2) A notification of the right of the recipient of to be  striken from such database as aforementioned in subsection (b), attached with the address to which one must approach for that purpose;\n (3) The identity and address of proprietor of the database in which the information can be found, upon which such approach was made, and the sources from which the proprietor of the database received that information.\n\n(b) Every person is entitled to demand - in writing - from the proprietor of a database used for direct mail that information related to him be deleted from the database.\n (c) Any person may request, in writing from the proprietor of the database used for direct mailing service or from the proprietor of a database in which the information regarding which the approach was made and in which the information can be found, that the information about himself shall not be given to any person, type of persons or certain persons, all within a limited or prescribed period of time.\n\n(d) Where a person has informed the proprietor of a database of his request as aforementioned in subsections (b) or (c), the proprietor of the database shall act in accordance with such request and shall inform that person, in writing, that he has done so.\n (e) Where the proprietor of a database did not provide notification pursuant to subsection (d) within 30 days from the date of receiving the request, the person to whom the information relates may apply to a Magistrates Court in the manner prescribed by the regulations, so that it may order the proprietor of the database to act as aforementioned.\n (f) The rights of a deceased person who is registered in a database under this section shall be extended to his spouse, child, parent and sibling."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Applicability to items of knowledge",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "**17G.**The provisions of this Article shall apply to items of knowledge that relates to a persons private affairs, even though they do not constitute information, to the same extent that they apply to information."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Inapplicability to public body",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "**17H.** This Article shall not apply a public body, as defined under section 23(1), within its capacity according to the law."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Saving of Laws",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "**17I.**The provisions of this Article are intended to add to the provisions of any enactment."
+  },
+  {
+    "depth": 2,
+    "section_id": "Chapter Three",
+    "section_name": "Defenses",
+    "id_kind": "chapter",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Defenses",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "**18.**In any criminal or civil proceeding for infringement of privacy, one of the following may constitute a good defense:\n\n(1) the infringement was committed by way of a publication protected under section 13 of the Defamation Prohibition Law, 5725-1965 ;\n (2) the defendant or accused committed the infringement in good faith in any of the following circumstances:\n\n(a) he did not know nor should he have known of the possibility of an infringement of privacy;\n (b) the infringement was committed under circumstances whereby the infringer was subject to a legal, moral, social or professional obligation to commit it;\n (c) the infringement was committed for the defense of a legitimate personal interest of the infringer;\n\n(d) the infringement was committed within the capacity of the infringers occupation and during the ordinary course of his work, provided that such infringement was not committed by way of publication in public;\n (e) the infringement was by way of taking a photograph, or of publishing a photograph in the public domain, and the injured party appears in it coincidentally;\n (f) the infringement was committed by way of a publication protected under paragraphs (4) to (11) of section 15 of the Defamation Prohibition Law, 5725-1965;\n\n(3) There is public interest in the infringement which justified it under the circumstances of the case, provided that if the infringement was committed by way of publication - the publication was not untruthful."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Exemption",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "**19.**(a) No person shall bear responsibility under this Law for an act which he is authorized to do by Law.\n (b) A security authority or a person employed by it or acting on its behalf shall bear no responsibility under this Law for an infringement reasonably committed within the scope of their functions and for the purpose of performance thereof.\n (c) security authority, for purpose of this section - any of the following:\n\nif !supportLists?(1)   endif?the Israel Police;\n (2) the Intelligence Branch of the General Staff of the Israel Defense Forces, and the Military Police;"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "(3) the General Security Services;",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "(4) the Institute for Intelligence and Special Assignments."
+  },
+  {
+    "depth": 3,
+    "section_id": "(5)",
+    "section_name": "The Witness Protection Agency",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Onus of proof",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "**20.** (a) Where the accused or defendant proves that he committed such infringement of privacy under any of the circumstances aforesaid in section 18(2) and that such infringement did not exceed the reasonable limit under those circumstances, he shall be presumed to have committed it in good faith.\n (b) The accused or defendant shall be presumed not to have committed the infringement of privacy in good faith, if, he knowingly exceeded what was reasonably necessary for purposes of the matters protected by section 18(12).\n (c) It shall be presumed that an accused person or defendant who pleads a defense under section 18(2)(b) or (d) that he committed an infringement of privacy in bad faith, if he committed said infringement in violation of the rules or principles of professional ethics that apply to him by Law or which are accepted by the members of the profession to which he belongs. However, such presumption shall not apply if the infringement was committed in circumstances whereby the defendant or accused acted in accordance with a legal duty which he is subject thereto."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Rebuttal of arguments from the defense",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "**21.**Where the accused or defendant produces evidence or testifies in person to prove one of the defense pleas provided by this Law, the prosecutor may produce rebutting evidence; this provision shall not derogate from the Courts power under any Law to permit the production of evidence by the parties."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Mitigating circumstances",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "**22.**In ruling out the sentence or awarding compensation, the Court may take the following into consideration in favor of the accused or defendant;\n (1) the infringement of privacy was merely a repetition of something previously said, and the source upon which he relied was cited;"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "(2) he did not intend to commit an infringement;",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "(3) if the infringement was committed by way of publication - he has apologized and taken steps to discontinue the sale or distribution of copies of the publication that contains the subject of infringement, provided that such apology was published in the place, degree and manner in which the infringing matter had been published, and was not reserved."
+  },
+  {
+    "depth": 2,
+    "section_id": "Chapter Four",
+    "section_name": "Delivery of Information by Public Bodies",
+    "id_kind": "chapter",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Definitions",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "**23.**In this Chapter -\n public body -\n\nif !supportLists?(1)   endif?Government units and other State institutions, a municipal authority and any other body that performs public functions by law;\n (2) a body which the Minister of Justice prescribed by order, with the approval of the Knesset Constitution, Law and Justice Committee, provided the order specifies the types of information and of items which the body may deliver and receive."
+  },
+  {
+    "depth": 3,
+    "section_id": "(3)",
+    "section_name": "Repealed;",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "database, information, Registrar, and Use – repealed."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Applicability to information",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "**23A.**The provisions of this Chapter shall apply to items dealing with a persons private affairs, despite not constituting information, just as they apply to information."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Prohibition on delivery of information",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "**23B.**(a) Delivery of information shall be prohibited by a public body, unless the information has been published in the public domain under lawful authority, or unless it has been made available for public inspection under lawful authority, or unless the person to whom the information refers provided consent to such delivery.\n (b) The provisions of this section shall not prevent any security authority, as defined under section 19, from accepting or delivering information in the performance of its function, provided that such acceptance or delivery was not prohibited by legislation."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Limitation on prohibition",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "**23C.**delivery of information shall be permitted despite the provisions of section 23B, where it is not prohibited by law or by principles of professional ethics -\n (1) among public bodies, where one of the following occurs:\n\n(a) delivery of the information within the capacity of authorities or functions of the person delivering the information and it is required for purpose of implementing a law or for a purpose within the capacity of the authority or the function of the person delivering or receiving the information;\n (b) the delivery of information is to a public body which may request such information by law from any other source;\n\n(2) from a public body to a Government unit or to another State institution, or between aforesaid units or institutions, if delivery of the information is required for the implementation of any law or for a purpose within the capacity of authorities or functions of the person delivering or receiving the information;\n however, no information shall be provided as aforesaid which was provided on condition that it shall not be delivered to others.\n if !supportLineBreakNewLine?\n endif?"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Obligations of public body",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "**23D.**(a) Any public body which regularly delivers information, in accordance with section 23C, shall specify such fact with respect to each request of information in accordance with the law.\n (b) Any public body which delivers information, in accordance with section 23C, shall keep a record of the information delivered.\n (c) Any public body which regularly delivers information, in accordance with section 23C, and such information is stored in a database, shall inform the Registrar to that fact, and such fact shall be included in the particulars of the list of databases in accordance with section 12.\n (d) Any public body which received information in accordance with section 23C, shall only use such information within the capacity of its authorities and functions.\n (e) For the purpose of the duty of confidentiality under any law, information which was delivered to a public body under this Law, shall be considered as information obtained by that body from any other source, and all the provisions applicable to the delivering body shall also apply to the receiving body."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Surplus information",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "**23E.**(a) Where information which may be delivered under sections 23B or 23C is located in a single file, together with other information (hereinafter - surplus information), then the delivering body may provide the requested information to the recipient body together with the surplus information.\n\n(b) Delivery of surplus information pursuant to subsection (a) shall be contingent upon the establishment of procedures to guarantee the prevention of any use of the received surplus information; such procedures shall be prescribed by regulations, and as long as they have not been prescribed by regulations, they shall be prescribed by the body requesting the aforesaid information in writing, and it shall provide a copy thereof to the body that delivers information, upon request."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Permitted delivery does not constitute infringement of privacy",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "**23F.** Delivery of information, which is permitted under this Law, shall not constitute an infringement of privacy, and the provisions of sections 2 and 8 shall not apply thereto."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Regulations on delivery of information",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "**23G.**The Minister of Justice may, with approval of the Knesset Constitution, Law and Justice Committee, enact regulations on procedures of delivery of information by public bodies.\n\n23H. Repealed"
+  },
+  {
+    "depth": 2,
+    "section_id": "Chapter Five",
+    "section_name": "Miscellaneous",
+    "id_kind": "chapter",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Effect on State",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "**24.**This Law shall apply to the State."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Death of injured party",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "**25.**(a) Where a person, whose privacy was infringed, and he has passed within six months after said infringement without having filed an action or complaint in respect thereof, his spouse, child or parent, or where he left no spouse, child or parent, his sibling may file an action or complaint in respect of said infringement within six months after his death.\n (b) Where a person, who filed an action or complaint in respect of an infringement of privacy, passes before the proceeding is concluded, his spouse, child or parent or where he left no spouse, child or parent, his sibling may, within six months after his death, notify the Court that of their wish to proceed with the action or complaint, and upon such notification they shall take the place of the plaintiff or complainant."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Prescription",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "**26.**The period of prescription of civil actions under this Law is two years."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Applicability of provisions of the Defamation Prohibition Law",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "**27.**The provisions of sections 21, 23 and 24 of the Defamation Prohibition Law, 5725-1965, shall apply, mutatis mutandis, to legal proceeding for infringement of privacy."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Evidence of bad reputation, character or past of a person",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "**28.**In a criminal or civil proceeding for infringement of privacy, no evidence shall be produced, and no witness shall be examined regarding the bad reputation or on the character, past, activities or beliefs of the injured party."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Additional orders",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "**29.** (a) In addition to any penalty and other relief, the court may, in a criminal or civil proceeding for infringement of any provision of this law, order as hereafter specified, and as the case may be:\n\n(1) on prohibition of distribution of copies of the infringing matter or of confiscation thereof; a confiscation order under this paragraph shall have authority against any person who has such material in his possession for sale, distribution or storage, even if he is not a party to the proceeding; if the Court ordered on confiscation, then it shall direct how to dispose of such confiscated copies;\n (2) that the decision be published, in whole or in part; publication shall be made at the expense of the accused or defendant, in a place, degree, and manner prescribed by the Court;\n (3) that the infringing matter be surrendered to the injured party;\n (4) on destruction of the information which was received in contrary to the law, or prohibition of use of said information, or the surplus information defined in section 23E, or it may instruct any other provision with regards to the information.\n\n(b) The provisions of this section shall not prevent keeping a copy of a publication in public libraries, archives and the like, unless the Court imposes, in a confiscation order under subsection (a)(1), a restriction on such action,  and they shall not prevent an individual keeping a copy of such publication."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Relief without proof of damage",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "29A. (a) Where a person has been convicted in a felony under section 5, the court may order him to pay the injured party compensation up to 50,000 NIS, without proof of damage; Obligation of compensation under this subsection shall be considered as a judgment given in a civil claim in the same court against the debtor who is entitled to it.\n\n(b) (1) in a trial for a civil wrong under section 4, the court may require the defendant to pay the injured party compensation up to 50,000 NIS, without proof of damage.\n\n(2) Where it has been established that there was intention for infringement of privacy in a trial as aforementioned under paragraph (1), the court may require the defendant to pay the injured party compensation up to double the amount aforementioned in the paragraph, without proof of damage.\n\n(c) No person shall be awarded compensation without proof of damage under this section, for the same infringement of privacy, more than one time.\n\n(d) The amounts prescribed in this section shall be updated on the 16th of each month, in accordance with changes in the new index vis-à-vis the basic index, for this purpose –\n\nindex – the consumer pricing index which is published by the central statistics bureau.\n\nnew index – the index of the month preceding the month of updating;\n\nbasic index – index of the month of May 2007."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Responsibility for publication in newspaper",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "**30.**(a) Where an infringement of privacy is published in a newspaper, as defined under the Press Ordinance (hereinafter - newspaper), the editor if such newspaper shall be liable for the criminal and civil responsibility of the infringement, and by the person who actively decided on the publication of such infringement in the newspaper, and the publisher of the newspaper shall be liable for civil responsibility.\n (b) In a criminal charge under this section, the taking of reasonable steps to prevent the publication of the infringement or that he did not know of the publication shall constitute a good defense for the editor of the newspaper.\n (c) In this section, editor of a newspaper - including editor in chief."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Responsibility of printer and distributor",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "**31.**where an infringement of privacy was published in print, except in a newspaper published at intervals of no less than forty days under a valid license, the proprietor of the printing press as defined in the Press Ordinance, where the infringement was printed, as well as the person who sells or otherwise distributes the publication shall also be liable for criminal and civil responsibility for the infringement; however, they shall not bear responsibility unless they knew or ought to have known that the publication contained infringement of privacy."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Penalties in offenses of due diligence",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "**31A.**(a) a person who commits one of the following, shall be liable to one year imprisonment:\n (1) he operates, possesses or uses a database in violation of the provisions of section 8;\n (2) he delivers false particulars in an application for the registration of a database, an required in section 9:\n (3) he fails to provide particulars or provides false particulars in a notice attached to a request for information under section 11;\n (4) he does not comply with the provisions of sections 13 and 13A, concerning the right to inspect information kept in a database, or he does not amend information according to the provisions of section 14:\n (5) he grants access to a database in violation of the provisions of section 17A(a), or does not deliver to the Registrar documents or an affidavit in accordance with the provisions of section 17A(b);\n (6) he does not appoint a security officer for the protection of information under section 17B.\n (7) operates or keeps a database used for direct mail services in violation of the provisions of sections 17D to 17F;\n (8) provides information in violation of sections 23B to 23E.\n (b) An offense under this section does not require that criminal intent or negligence be proven."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Civil wrong",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "**31B.** An act or omission in violation of the provisions of Chapters Two or Four, or in violation of regulations enacted under this Law, shall constitute a civil wrong under the Torts Ordinance [New Version]."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Material inadmissible as evidence",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "**32.**Material obtained by committing an infringement of privacy shall be considered as inadmissible evidence in Court, without the consent of the injured party, unless the Court has permitted use thereof, for reasons which shall be recorded, or if the infringer, who is a party to the proceeding, has a defense or is considered exempted under this Law."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Amendment of the Torts Ordinance",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "**33.** In the Torts Ordinance [New Version], section 34A - repealed."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Amendment of Criminal Procedure Law",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "**34.**In the Schedule to the Criminal Procedure Law, 5725-1965, the following paragraph shall be added after paragraph (12):\n (13) offenses under the Protection of Privacy Law, 5741-1981."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Saving of Laws",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "**35.**The provisions of this Law shall not derogate from the provisions of any other Law."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Implementation and regulations",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "**36.**The Minister of Justice is charged with the implementation of this Law and be may, with approval by the Knesset Constitution, Law and Justice Committee, enact regulations on any matter that relates to implementation thereof, among other things-\n (1) terms for keeping and safeguarding information in databases;\n (2) terms for transmitting information to and fro databases overseas;\n (3) rules of conduct and ethics for proprietors, possessors and operators of databases and their employees;\n (4) provisions on the deletion of information when a database ceases to function."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Fees",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "**36A.**(a) The Minister may, with approval by the Knesset Constitution, Law and Justice Committee, prescribe –\n\nif !supportLists?(1)   endif?fees for registration of a database and inspection thereof under this law;\n\nif !supportLists?(2)   endif?fees, for a period prescribed, for a database registered in the register (hereinafter – periodical fee), except for a database in the proprietorship of the state, and he may set different fees of periodical fees according to types of databases, as well as the times of payment of the periodical fees, and an additional fee to the periodical fees which was not paid in due time.\n (b) The fees collected under this section shall be allocated to the Registrar and to the supervision unit for purpose of fulfilling their activities under this Law."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Effect",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "**37.**Chapter Two shall take effect six months from the date of publication of this Law."
+  }
+]

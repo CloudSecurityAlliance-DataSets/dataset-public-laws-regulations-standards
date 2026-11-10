@@ -1,0 +1,1482 @@
+[
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "Cyber Security Act 2024",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Cyber Security Act 2024",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "No. 98, 2024",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "An Act relating to cyber security for Australians, and for other purposes",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Note: An electronic version of this Act is available on the Federal Register of Legislation (https://www.legislation.gov.au/)"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Contents",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Part 1—Preliminary 1 1 Short title................................................................................1 2 Commencement......................................................................2 3 Objects....................................................................................3 4 Simplified outline of this Act.................................................4 5 Extraterritoriality....................................................................5 6 Act binds the Crown...............................................................5 7 Concurrent operation of State and Territory laws..................5 8 Definitions..............................................................................5 9 Meaning of cyber security incident........................................9 10 Meaning of permitted cyber security purpose .....................10 11 Disclosure to State body.......................................................11"
+  },
+  {
+    "depth": 2,
+    "section_id": "Part 2 (1)",
+    "section_name": "Security standards for smart devices 12",
+    "id_kind": "part",
+    "parent_id": "",
+    "body": "Division 1—Preliminary 12 12 Simplified outline of this Part ..............................................12 13 Application of this Part ........................................................13 Division 2—Security standards for relevant connectable\n\nproducts 15 14 Security standards for relevant connectable products..........15 15 Compliance with security standard for a relevant connectable product..................................................................................15 16 Obligation to provide and supply products with a statement of compliance with security standard...................................17 Division 3—Enforcement 19 17 Compliance notice................................................................19 18 Stop notice............................................................................20 19 Recall notice.........................................................................21 20 Public notification of failure to comply with recall notice ..22 Division 4—Miscellaneous 23 21 Revocation and variation of notices given under this Part...23 22 Internal review of decision to give compliance, stop or recall notice....................................................................................24 23 Examination to assess compliance with security standard and statement of compliance.......................................................24 24 Acquisition of property ........................................................26"
+  },
+  {
+    "depth": 2,
+    "section_id": "Part 3 (2)",
+    "section_name": "Ransomware reporting obligations 27",
+    "id_kind": "part",
+    "parent_id": "",
+    "body": "No. 98, 2024 Cyber Security Act 2024 i\n\nDivision 1—Preliminary 27 25 Simplified outline of this Part ..............................................27 Division 2—Reporting obligations 28 26 Application of this Part ........................................................28 27 Obligation to report following a ransomware payment .......30 28 Liability................................................................................31 Division 3—Protection of information 32 29 Ransomware payment reports may only be used or disclosed for permitted purposes..........................................................32 30 Limitations on secondary use and disclosure of information in ransomware payment reports ...........................................33 31 Legal professional privilege.................................................36 32 Admissibility of information in ransomware payment report against reporting business entity ..........................................37"
+  },
+  {
+    "depth": 2,
+    "section_id": "Part 4 (1)",
+    "section_name": "Coordination of significant cyber security incidents 39",
+    "id_kind": "part",
+    "parent_id": "",
+    "body": "Division 1—Preliminary 39 33 Simplified outline of this Part ..............................................39 34 Meaning of significant cyber security incident....................39 Division 2—Voluntary information sharing with the National\n\nCyber Security Coordinator 40 35 Impacted entity may voluntarily provide information to National Cyber Security Coordinator in relation to a significant cyber security incident .......................................40 36 Voluntary provision of information in relation to other incidents or cyber security incidents....................................42 37 Role of the National Cyber Security Coordinator................42 Division 3—Protection of information 43 38 Information provided in relation to a significant cyber security incident—use and disclosure by National Cyber Security Coordinator ............................................................43 39 Information provided in relation to other incidents—use and disclosure by National Cyber Security Coordinator ............44 40 Limitations on secondary use and disclosure.......................46 41 Legal professional privilege.................................................48 42 Admissibility of information voluntarily given by impacted entity.....................................................................................49 43 National Cyber Security Coordinator not compellable as witness..................................................................................50 Division 4—Miscellaneous 52\n\nii Cyber Security Act 2024 No. 98, 2024\n\n44 Interaction with other requirements to provide information in relation to a cyber security incident .....................................52"
+  },
+  {
+    "depth": 2,
+    "section_id": "Part 5 (1)",
+    "section_name": "Cyber Incident Review Board 53",
+    "id_kind": "part",
+    "parent_id": "",
+    "body": "Division 1—Preliminary 53 45 Simplified outline of this Part ..............................................53 Division 2—Reviews 54 46 Board must cause reviews to be conducted..........................54 47 Board may discontinue a review..........................................55 48 Chair may request information or documents......................55 49 Chair may require certain entities to produce documents....56 50 Civil penalty—failing to comply with a notice to produce documents ............................................................................57 51 Draft review reports .............................................................58 52 Final review reports..............................................................59 53 Certain information must be redacted from final review reports...................................................................................60 54 Protected review reports.......................................................61 Division 3—Protection of information relating to reviews 62 55 Limitations on use and disclosure by the Board ..................62 56 Limitations on secondary use and disclosure.......................63 57 Legal professional privilege.................................................66 58 Admissibility of information given by an entity that has been requested or required by the Board ......................................66 59 Disclosure of draft review reports prohibited ......................68 Division 4—Establishment, functions and powers of the Board 69\n\n60 Cyber Incident Review Board..............................................69 61 Constitution of the Board.....................................................69 62 Functions of the Board.........................................................69 63 Independence........................................................................70 Division 5—Terms and conditions of appointment of the Chair\n\nand members of the Board 71 64 Appointment of Chair ..........................................................71 65 Remuneration of the Chair...................................................71 66 Appointment of standing members of the Board .................71 67 Remuneration of standing members of the Board................72 68 Acting Chair.........................................................................72 69 Terms and conditions etc. for standing members.................72 Division 6—Expert Panel, staff assisting and consultants 74 70 Expert Panel .........................................................................74\n\nNo. 98, 2024 Cyber Security Act 2024 iii\n\n71 Arrangements relating to staff of the Department................74 72 Consultants...........................................................................75 Division 7—Other matters relating to the Board 76 73 Board procedures .................................................................76 74 Liability................................................................................76 75 Certification of involvement in review ................................77 76 Annual report .......................................................................78 77 Rules may prescribe reporting requirements etc..................78"
+  },
+  {
+    "depth": 2,
+    "section_id": "Part 6 (1)",
+    "section_name": "Regulatory powers 79",
+    "id_kind": "part",
+    "parent_id": "",
+    "body": "Division 1—Preliminary 79 78 Simplified outline of this Part ..............................................79 Division 2—Civil penalty provisions, enforceable undertakings\n\nand injunctions 80 79 Civil penalty provisions, enforceable undertakings and injunctions............................................................................80 Division 3—Monitoring and investigation powers 83 80 Monitoring powers...............................................................83 81 Investigation powers ............................................................85 Division 4—Infringement notices 88 82 Infringement notices.............................................................88 Division 5—Other matters 90 83 Contravening a civil penalty provision ................................90\n\nPart 7—Miscellaneous 91 84 Simplified outline of this Part ..............................................91 85 How this Act applies in relation to non-legal persons .........91 86 Delegation by Secretary .......................................................92 87 Rules.....................................................................................93 88 Review of this Act................................................................94\n\niv Cyber Security Act 2024 No. 98, 2024"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Cyber Security Act 2024",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "No. 98, 2024",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "An Act relating to cyber security for Australians, and for other purposes",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "[Assented to 29 November 2024]"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "The Parliament of Australia enacts:",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "Part 1",
+    "section_name": "Preliminary",
+    "id_kind": "part",
+    "parent_id": "",
+    "body": "1 Short title\n\nThis Act is the Cyber Security Act 2024.\n\nNo. 98, 2024 Cyber Security Act 2024 1"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 2",
+    "section_name": "Section 2",
+    "id_kind": "section_word",
+    "parent_id": "Part 1",
+    "body": "2 Commencement\n\n(1) Each provision of this Act specified in column 1 of the table\n\ncommences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.\n\nCommencement information\n\nColumn 1 Column 2 Column 3\n\nProvisions Commencement Date/Details\n\nThe day after this Act receives the Royal Assent.\n\n1. Part 1 and anything in this Act not elsewhere covered by this table\n\n30 November 2024\n\n2. Part 2 A single day to be fixed by Proclamation. However, if the provisions do not commence within the period of 12 months beginning on the day this Act receives the Royal Assent, they commence on the day after the end of that period.\n\n3. Part 3 A single day to be fixed by Proclamation. However, if the provisions do not commence within the period of 6 months beginning on the day this Act receives the Royal Assent, they commence on the day after the end of that period.\n\n29 May 2025\n\n4. Part 4 The day after this Act receives the Royal Assent.\n\n30 November 2024\n\n5. Part 5 A single day to be fixed by Proclamation. However, if the provisions do not commence within the period of 6 months beginning on the day this Act receives the Royal Assent, they commence on the day after the end of that period.\n\n29 May 2025\n\n6. Parts 6 and 7 The day after this Act receives the Royal Assent.\n\n30 November 2024\n\n2 Cyber Security Act 2024 No. 98, 2024"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 3",
+    "section_name": "Section 3",
+    "id_kind": "section_word",
+    "parent_id": "Part 1",
+    "body": "Note: This table relates only to the provisions of this Act as originally enacted. It will not be amended to deal with any later amendments of this Act.\n\n(2) Any information in column 3 of the table is not part of this Act.\n\nInformation may be inserted in this column, or information in it may be edited, in any published version of this Act.\n\n3 Objects\n\nThe objects of this Act are to:\n\n(a) improve the cyber security of products that:\n\n(i) can connect directly or indirectly to the internet; and (ii) will be acquired in Australia; by requiring manufacturers and suppliers of those products to comply with security standards specified in the rules; and (b) encourage the provision of information relating to the\n\nprovision of payments or benefits (called ransomware payments) to entities seeking to benefit from cyber security incidents by imposing reporting obligations on entities in relation to the payment of such payments or benefits; and (c) facilitate the whole of Government response to significant\n\ncyber security incidents by providing for the National Cyber Security Coordinator to lead across the whole of Government the coordination and triaging of action in response to significant cyber security incidents; and (d) prevent, improve the detection of, improve the response to\n\nand minimise the impact of cyber security incidents by establishing the Cyber Incident Review Board to:\n\n(i) cause reviews to be conducted in relation to certain\n\ncyber security incidents; and (ii) make recommendations to government and industry\n\nabout actions that could be taken to prevent, detect, respond to or minimise the impact of, incidents of a similar nature in the future; and (e) improve the response to and minimise the impact of cyber\n\nsecurity incidents (including imminent incidents) through encouraging entities impacted, or probably impacted, by such\n\nNo. 98, 2024 Cyber Security Act 2024 3"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 4",
+    "section_name": "Section 4",
+    "id_kind": "section_word",
+    "parent_id": "Part 1",
+    "body": "cyber security incidents to provide information to the Australian Government about the incidents by ensuring that:\n\n(i) the information provided is only used and disclosed for\n\nlimited purposes; and (ii) the information provided is not admissible in evidence\n\nin proceedings against the entities that provided the information; and (f) to facilitate the sharing of information about cyber security\n\nincidents with State and Territory Governments for limited purposes, with their consent that the information is only to be used and disclosed for limited purposes.\n\n4 Simplified outline of this Act\n\nThis Act provides for mandatory security standards for certain products that can directly or indirectly connect to the internet (called relevant connectable products).\n\nThis Act also provides an obligation to report payments or benefits (called ransomware payments) provided to an entity that is seeking to benefit from a cyber security incident.\n\nInformation may be voluntarily provided to the National Cyber Security Coordinator in relation to a significant cyber security incident. The National Cyber Security Coordinator’s role is to lead across the whole of Government the coordination and triaging of action in response to a significant cyber security incident.\n\nThe Cyber Incident Review Board is established by this Act. Its functions include causing reviews to be conducted in relation to certain cyber security incidents. A review will make recommendations to Government and industry about actions that could be taken to prevent, detect, respond to or minimise the impact of, incidents of a similar nature in the future.\n\nInformation provided by entities under provisions of this Act may only be used and disclosed for limited purposes. Certain information provided to the Australian Government under this Act\n\n4 Cyber Security Act 2024 No. 98, 2024"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 5",
+    "section_name": "Section 5",
+    "id_kind": "section_word",
+    "parent_id": "Part 1",
+    "body": "is not admissible in evidence in proceedings against the entity that provided the information.\n\nA range of compliance and enforcement powers are provided for, including by applying the Regulatory Powers (Standard Provisions) Act 2014.\n\nThis Act also deals with administrative matters such as delegations and the power to make rules.\n\n5 Extraterritoriality\n\nThis Act applies both within and outside Australia.\n\nNote: This Act extends to every external Territory.\n\n6 Act binds the Crown\n\n(1) This Act binds the Crown in each of its capacities.\n\n(2) This Act does not make the Crown liable to be prosecuted for an\n\noffence.\n\nNote: The Crown (other than a Crown authority) is not liable to a pecuniary penalty for the breach of a civil penalty provision or to be given an infringement notice: see subsections 79(8) and 82(7).\n\n(3) The protection in subsection (2) does not apply to an authority of\n\nthe Crown.\n\n7 Concurrent operation of State and Territory laws\n\nThis Act is not intended to exclude or limit the operation of a law of a State or Territory to the extent that that law is capable of operating concurrently with this Act.\n\n8 Definitions\n\nIn this Act:\n\nASD means the Australian Signals Directorate.\n\nNo. 98, 2024 Cyber Security Act 2024 5"
+  },
+  {
+    "depth": 3,
+    "section_id": "Preliminary: Part 1 Section 8 (1)",
+    "section_name": "Section 8",
+    "id_kind": "section_word",
+    "parent_id": "Part 1",
+    "body": "benefit includes any advantage and is not limited to property.\n\nbusiness has the same meaning as in the Income Tax Assessment Act 1997.\n\nChair means the Chair of the Cyber Incident Review Board.\n\ncivil penalty provision has the same meaning as in the Regulatory Powers Act.\n\nCommonwealth body means:\n\n(a) a Minister of the Commonwealth; or (b) a Department of State of the Commonwealth; or\n\n(c) a body (whether incorporated or not) that:\n\n(i) is established, or continued in existence, for a public\n\npurpose by or under a law of the Commonwealth; and (ii) is not an authority of the Crown.\n\nCommonwealth enforcement body means:\n\n(a) the Australian Federal Police; or (b) the Australian Prudential Regulation Authority; or\n\n(c) the Australian Securities and Investments Commission; or (d) the Inspector of the National Anti-Corruption Commission;\n\nor (e) the Office of the Director of Public Prosecutions; or\n\n(f) the National Anti-Corruption Commissioner; or (g) Sport Integrity Australia; or (h) another Commonwealth body, to the extent that it is\n\nresponsible for administering, or performing a function under, a law that imposes a penalty or sanction for a criminal offence.\n\nCommonwealth officer has the same meaning as in Part 5.6 of the Criminal Code.\n\ncomputer has the same meaning as in the Security of Critical Infrastructure Act 2018.\n\n6 Cyber Security Act 2024 No. 98, 2024"
+  },
+  {
+    "depth": 3,
+    "section_id": "Preliminary: Part 1 Section 8 (2)",
+    "section_name": "Section 8",
+    "id_kind": "section_word",
+    "parent_id": "Part 1",
+    "body": "coronial inquiry means a coronial inquiry, coronial investigation or coronial inquest under a law of the Commonwealth, or of a State or Territory.\n\ncritical infrastructure asset has the same meaning as in the Security of Critical Infrastructure Act 2018.\n\nCyber Incident Review Board or Board means the Cyber Incident Review Board established by section 60.\n\ncyber security incident has the meaning given by section 9.\n\ndesignated Commonwealth body means:\n\n(a) a Department, or a body established by a law of the\n\nCommonwealth, specified in the rules; or (b) if no rules are made for the purposes of paragraph (a)—the\n\nDepartment and ASD.\n\ndraft review report has the meaning given by subsection 51(1).\n\nentity means any of the following:\n\n(a) an individual; (b) a body corporate;\n\n(c) a partnership; (d) an unincorporated association that has a governing body;\n\n(e) a trust;\n\n(f) an entity that is a responsible entity for a critical\n\ninfrastructure asset.\n\nExpert Panel means the Expert Panel established by the Board under section 70.\n\nfinal review report has the meaning given by subsection 52(1).\n\nintelligence agency means:\n\n(a) the agency known as the Australian Criminal Intelligence\n\nCommission established by the Australian Crime Commission Act 2002; or (b) the Australian Geospatial-Intelligence Organisation; or\n\n(c) the Australian Secret Intelligence Service; or\n\nNo. 98, 2024 Cyber Security Act 2024 7"
+  },
+  {
+    "depth": 3,
+    "section_id": "Preliminary: Part 1 Section 8 (3)",
+    "section_name": "Section 8",
+    "id_kind": "section_word",
+    "parent_id": "Part 1",
+    "body": "(d) the Australian Security Intelligence Organisation; or\n\n(e) ASD; or\n\n(f) the Defence Intelligence Organisation; or (g) the Office of National Intelligence.\n\ninternet-connectable product has the meaning given by subsection 13(4).\n\nmanufacturer has the same meaning as in the Australian Consumer Law.\n\nNational Cyber Security Coordinator means:\n\n(a) the officer of the Department known as the National Cyber\n\nSecurity Coordinator; and (b) the APS employees, and officers or employees of\n\nCommonwealth bodies, whose services are made available to the officer in connection with the performance of any of the officer’s functions or the exercise of any of the officer’s powers under this Act.\n\nnetwork-connectable product has the meaning given by subsection 13(5).\n\npermitted cyber security purpose for a cyber security incident has the meaning given by section 10.\n\npersonal information has the same meaning as in the Privacy Act 1988.\n\nprotected review report has the meaning given by subsection 54(1).\n\nransomware payment has the meaning given by subsection 26(1).\n\nransomware payment report means a report given by an entity under subsection 27(1).\n\nRegulatory Powers Act means the Regulatory Powers (Standard Provisions) Act 2014.\n\nrelevant connectable product has the meaning given by subsection 13(2).\n\n8 Cyber Security Act 2024 No. 98, 2024"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 9",
+    "section_name": "Section 9",
+    "id_kind": "section_word",
+    "parent_id": "Part 1",
+    "body": "reporting business entity has the meaning given by subsection 26(2).\n\nresponsible entity, for an asset, has the same meaning as in the Security of Critical Infrastructure Act 2018.\n\nSecretary means the Secretary of the Department.\n\nsensitive information has the same meaning as in the Privacy Act 1988.\n\nsensitive review information has the meaning given by subsection 53(2).\n\nsignificant cyber security incident has the meaning given by section 34.\n\nState body means:\n\n(a) a Minister of a State or Territory; or (b) a Department of State of a State or Territory or a Department\n\nof the Public Service of a State or Territory; or (c) a body (whether incorporated or not) that:\n\n(i) is established, or continued in existence, for a public\n\npurpose by or under a law of a State or Territory; and (ii) is not an authority of the Crown.\n\nsupply has the same meaning as in the Australian Consumer Law and supplied and supplier have corresponding meanings.\n\n9 Meaning of cyber security incident\n\n(1) A cyber security incident is one or more acts, events or\n\ncircumstances:\n\n(a) of a kind covered by the meaning of cyber security incident\n\nin the Security of Critical Infrastructure Act 2018; or (b) involving unauthorised impairment of electronic\n\ncommunication to or from a computer, within the meaning of that phrase in that Act, but as if that phrase did not exclude the mere interception of any such communication.\n\nNo. 98, 2024 Cyber Security Act 2024 9"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 10",
+    "section_name": "Section 10",
+    "id_kind": "section_word",
+    "parent_id": "Part 1",
+    "body": "(2) However, an incident is only a cyber security incident for the\n\npurposes of this Act if:\n\n(a) the incident involves a critical infrastructure asset; or (b) the incident involves the activities of an entity that is a\n\ncorporation to which paragraph 51(xx) of the Constitution applies; or (c) the incident is or was effected by means of a telegraphic,\n\ntelephonic or other like service within the meaning of paragraph 51(v) of the Constitution (including, for example, by means of the internet); or (d) the incident is impeding or impairing, or has impeded or\n\nimpaired, the ability of a computer to connect to such a service; or (e) the incident has seriously prejudiced or is seriously\n\nprejudicing:\n\n(i) the social or economic stability of Australia or its\n\npeople; or (ii) the defence of Australia; or (iii) national security.\n\n10 Meaning of permitted cyber security purpose\n\nEach of the following is a permitted cyber security purpose for a cyber security incident:\n\n(a) the performance of the functions of a Commonwealth body\n\n(to the extent that it is not a Commonwealth enforcement body) relating to responding to, mitigating or resolving the cyber security incident; (b) the performance of the functions of a State body relating to\n\nresponding to, mitigating or resolving the cyber security incident; (c) the performance of the functions of the National Cyber\n\nSecurity Coordinator under Part 4 relating to the cyber security incident; (d) informing and advising the Minister, and other Ministers of\n\nthe Commonwealth, about the cyber security incident;\n\n10 Cyber Security Act 2024 No. 98, 2024"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 11",
+    "section_name": "Section 11",
+    "id_kind": "section_word",
+    "parent_id": "Part 1",
+    "body": "(e) preventing or mitigating material risks that the cyber security\n\nincident has seriously prejudiced, is seriously prejudicing, or could reasonably be expected to prejudice:\n\n(i) the social or economic stability of Australia or its\n\npeople; or (ii) the defence of Australia; or (iii) national security; (f) preventing or mitigating material risks to a critical\n\ninfrastructure asset; (g) the performance of the functions of an intelligence agency; (h) the performance of the functions of a Commonwealth\n\nenforcement body.\n\nNote 1: There are some limitations in relation to civil or regulatory functions against entities that have provided information in relation to the incident: see subsections 38(2) and 39(3).\n\nNote 2: Certain information must not be disclosed to a State body under Parts of this Act unless a Minister of the State or Territory has consented to those Parts applying to the State body: see section 11.\n\n11 Disclosure to State body\n\n(1) Despite any other provision of this Act, information that may be\n\ndisclosed to a State body under Part 3, 4 or 5 must not be disclosed to the State body under that Part unless:\n\n(a) a Minister of the State or Territory has informed the Minister\n\nadministering this Act, in writing, that the State or Territory gives consent to the provisions of that Part applying to the State body; and (b) a Minister of the State or Territory has not informed the\n\nMinister administering this Act, in writing, that the State or Territory withdraws that consent.\n\n(2) For the purposes of paragraph (1)(a), a Minister of a State or\n\nTerritory may give consent in relation to all State bodies, a class of State bodies, or particular State bodies, of that State or Territory.\n\nNo. 98, 2024 Cyber Security Act 2024 11"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 12",
+    "section_name": "Section 12",
+    "id_kind": "section_word",
+    "parent_id": "Part 1",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "Part 2 (2)",
+    "section_name": "Security standards for smart devices",
+    "id_kind": "part",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "Security standards for smart devices: Division 1",
+    "section_name": "Preliminary",
+    "id_kind": "part",
+    "parent_id": "",
+    "body": "12 Simplified outline of this Part\n\nThe rules may provide mandatory security standards for products that can directly or indirectly connect to the internet (called relevant connectable products) that will be acquired in Australia in specified circumstances.\n\nIf the rules provide a security standard for a product:\n\n(a) manufacturers must manufacture the product in compliance with the requirements of the security standard if they are aware, or could reasonably be expected to be aware, that the product will be acquired in Australia in the specified circumstances; and (b) those manufacturers must also comply with any other obligations relating to the product in the security standard (for example, obligations to publish information about the product); and (c) if the product does not comply it must not be supplied in Australia if the supplier is aware, or could reasonably be expected to be aware, that the products will be acquired in Australia in those specified circumstances; and (d) those suppliers must supply the product in Australia accompanied by a statement of compliance.\n\nA compliance notice, a stop notice and a recall notice may be given for non-compliance with obligations in this Part. Internal review may be sought for a decision to issue a notice.\n\nAn independent audit of a product may be undertaken to determine compliance with the requirements of a security standard or requirements for the statement of compliance. The Secretary may request the manufacturer or supplier to provide the product, the statement of compliance or both for the purposes of the audit.\n\n12 Cyber Security Act 2024 No. 98, 2024\n\n13 Application of this Part"
+  },
+  {
+    "depth": 3,
+    "section_id": "Security standards for smart devices: Part 2 Section 13 (1)",
+    "section_name": "Section 13",
+    "id_kind": "section_word",
+    "parent_id": "Part 2 (2)",
+    "body": "(1) This Part applies to a relevant connectable product that is:\n\n(a) manufactured on or after the commencement of this Part; or (b) supplied (other than as second hand goods) on or after the\n\ncommencement of this Part."
+  },
+  {
+    "depth": 3,
+    "section_id": "Security standards for smart devices: Part 2 (2) (1)",
+    "section_name": "A relevant connectable product is a product that:",
+    "id_kind": "cjk_sub",
+    "parent_id": "Part 2 (2)",
+    "body": "(a) is an internet-connectable product or a network-connectable\n\nproduct; and (b) is not exempted under the rules.\n\n(3) For the purposes of paragraph (2)(b), the rules may specify that:\n\n(a) classes of products are exempted; or (b) particular products are exempted.\n\n(4) An internet-connectable product is a product that is capable of\n\nconnecting to the internet using a communication protocol that forms part of the internet protocol suite to send and receive data over the internet."
+  },
+  {
+    "depth": 3,
+    "section_id": "Part 2 (5)",
+    "section_name": "A network-connectable product is a product that:",
+    "id_kind": "cjk_sub",
+    "parent_id": "Part 2 (2)",
+    "body": "(a) is capable of both sending and receiving data by means of a\n\ntransmission involving electrical or electromagnetic energy; and (b) is not an internet-connectable product; and\n\n(c) meets the condition in subsection (6) or (7).\n\n(6) A product meets the condition in this subsection if it is capable of\n\nconnecting directly to an internet-connectable product by means of a communication protocol that forms part of the internet protocol suite.\n\n(7) Subject to subsections (8) and (9), a product meets the condition in\n\nthis subsection if:\n\n(a) it is capable of connecting directly to 2 or more products at\n\nthe same time by means of a communication protocol that does not form part of the internet protocol suite; and (b) it is capable of connecting directly to an internet-connectable\n\nproduct by means of such a communication protocol\n\nNo. 98, 2024 Cyber Security Act 2024 13"
+  },
+  {
+    "depth": 3,
+    "section_id": "Security standards for smart devices: Part 2 Section 13 (2)",
+    "section_name": "Section 13",
+    "id_kind": "section_word",
+    "parent_id": "Part 2 (2)",
+    "body": "(whether or not at the same time as it connects to any other product).\n\n(8) A product consisting of a wire or cable that is used merely to\n\nconnect the product to another product does not meet the condition in subsection (7)."
+  },
+  {
+    "depth": 3,
+    "section_id": "(9)",
+    "section_name": "If:",
+    "id_kind": "cjk_sub",
+    "parent_id": "Part 2 (2)",
+    "body": "(a) two or more products are designed to be used together for the\n\npurposes of facilitating the use of a computer (within the ordinary meaning of that expression); and (b) at least one of the products (the linking product) is capable\n\nof connecting directly to an internet-connectable product (whether the computer or some other product) by means of a communication protocol that does not form part of the internet protocol suite; and (c) each of the products (the input products) that is not a linking\n\nproduct is capable of connecting directly to the linking product, or, if there is more than one linking product, to each linking product:\n\n(i) wirelessly; and (ii) by means of a communication protocol that does not\n\nform part of the internet protocol suite; each of the input products meets the condition in subsection (7).\n\n(10) For the purposes of subsections (4) to (9), a product is not\n\nprevented from being regarded as connecting directly to another product merely because the connection involves the use of a wire or cable.\n\n14 Cyber Security Act 2024 No. 98, 2024"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 14",
+    "section_name": "Section 14",
+    "id_kind": "section_word",
+    "parent_id": "Part 2 (2)",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "Security standards for smart devices: Division 2",
+    "section_name": "Security standards for relevant connectable",
+    "id_kind": "part",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "products",
+    "id_kind": "",
+    "parent_id": "Part 2 (2)",
+    "body": "14 Security standards for relevant connectable products\n\n(1) The rules may make provision for, or in relation to, security\n\nstandards for specified classes of relevant connectable products that will be acquired in Australia in specified circumstances.\n\n(2) Without limiting subsection (1) a class of relevant connectable\n\nproducts specified for the purposes of that subsection may consist of a particular relevant connectable product or of all relevant connectable products.\n\n(3) Despite subsection 14(2) of the Legislation Act 2003, the rules may\n\nmake provision in relation to a matter by applying, adopting or incorporating, with or without modification, any matter contained in an instrument or other writing as in force or existing from time to time.\n\n15 Compliance with security standard for a relevant connectable product\n\nManufacturer must comply\n\n(1) An entity must manufacture a relevant connectable product in\n\ncompliance with the requirements of the security standard for a class of relevant connectable product that will be acquired in Australia in specified circumstances if:\n\n(a) the product is included in that class; and (b) the entity is aware, or could reasonably be expected to be\n\naware, that the product will be acquired in Australia in those circumstances.\n\n(2) The entity must comply with any other requirements of the security\n\nstandard that apply to the manufacturer of a product included in that class.\n\n(3) An entity must not supply a product in Australia that was not\n\nmanufactured in compliance with the requirements of the security\n\nNo. 98, 2024 Cyber Security Act 2024 15"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 15",
+    "section_name": "Section 15",
+    "id_kind": "section_word",
+    "parent_id": "Part 2 (2)",
+    "body": "standard for a class of relevant connectable product that will be acquired in Australia in specified circumstances if:\n\n(a) the product is included in that class; and (b) the entity is aware, or could reasonably be expected to be\n\naware, that the product will be acquired in Australia in those circumstances.\n\n(4) The entity must comply with any other requirements of the security\n\nstandard that apply to the supplier of a product included in that class.\n\nException\n\n(5) However, to the extent that a requirement in the security standard\n\ndoes not relate to any of the matters in subsection (6), an entity is not required to comply with subsections (1) to (4) if the entity is not:\n\n(a) an entity that is a corporation to which paragraph 51(xx) of\n\nthe Constitution applies; or (b) an entity that is undertaking activities in the course of, or in\n\nrelation to, trade or commerce with other countries, among the States, between Territories or between a Territory and a State."
+  },
+  {
+    "depth": 3,
+    "section_id": "Part 2 (6)",
+    "section_name": "The matters are the following:",
+    "id_kind": "cjk_sub",
+    "parent_id": "Part 2 (2)",
+    "body": "(a) the direct, or indirect, connection of the relevant connectable\n\nproduct to, a telegraphic, telephonic or other like service within the meaning of paragraph 51(v) of the Constitution (including, for example, connection to the internet); (b) the direct, or indirect, use by the relevant connectable product\n\nof such a service (including, for example, use of the internet); (c) measures that would protect the relevant connectable product\n\nfrom an attack effected by means of such a service (including, for example, by means of the internet).\n\n16 Cyber Security Act 2024 No. 98, 2024"
+  },
+  {
+    "depth": 3,
+    "section_id": "Security standards for smart devices: Part 2 Section 16 (1)",
+    "section_name": "Section 16",
+    "id_kind": "section_word",
+    "parent_id": "Part 2 (2)",
+    "body": "16 Obligation to provide and supply products with a statement of compliance with security standard\n\nManufacturer must provide statement of compliance\n\n(1) An entity that manufactures a relevant connectable product must\n\nprovide, for the supply of the product in Australia, a statement of compliance with the security standard for a class of relevant connectable product that will be acquired in Australia in specified circumstances if:\n\n(a) the product is included in that class; and (b) the entity is aware, or could reasonably be expected to be\n\naware, that the product will be acquired in Australia in those circumstances.\n\n(2) The entity must retain a copy of the statement of compliance for\n\nthe period specified in the rules for that class of statements.\n\nSupplier must supply the product with statement of compliance\n\n(3) An entity that supplies a relevant connectable product in Australia\n\nmust supply the product with a statement of compliance with the security standard for a class of relevant connectable product that will be acquired in Australia in specified circumstances if:\n\n(a) the product is included in that class; and (b) the entity is aware, or could reasonably be expected to be\n\naware, that the product will be acquired in Australia in those circumstances.\n\n(4) The entity must retain a copy of the statement of compliance for\n\nthe period specified in the rules for that class of statements.\n\nRequirements for statement of compliance\n\n(5) The statement of compliance with the security standard under\n\nsubsection (1) or (2) must meet the requirements provided by the rules for that class of statements.\n\nNo. 98, 2024 Cyber Security Act 2024 17"
+  },
+  {
+    "depth": 3,
+    "section_id": "Security standards for smart devices: Part 2 Section 16 (2)",
+    "section_name": "Section 16",
+    "id_kind": "section_word",
+    "parent_id": "Part 2 (2)",
+    "body": "Matters relating to the rule making powers\n\n(6) Without limiting subsection (2), (4) or (5) a class of statements\n\nmay consist of a statement for a particular relevant connectable product or a particular security standard or all relevant connectable products or all security standards.\n\n18 Cyber Security Act 2024 No. 98, 2024"
+  },
+  {
+    "depth": 3,
+    "section_id": "Security standards for smart devices: Division 3",
+    "section_name": "Enforcement",
+    "id_kind": "part",
+    "parent_id": "",
+    "body": "17 Compliance notice"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 17",
+    "section_name": "Section 17",
+    "id_kind": "section_word",
+    "parent_id": "Part 2 (2)",
+    "body": "(1) The Secretary may give an entity that must comply with an\n\nobligation under section 15 or 16 a compliance notice if the Secretary:\n\n(a) is reasonably satisfied that the entity is not complying with\n\nthe obligation; or (b) is aware of information that suggests that the entity may not\n\nbe complying with the obligation."
+  },
+  {
+    "depth": 3,
+    "section_id": "Security standards for smart devices: Part 2 (2) (2)",
+    "section_name": "The compliance notice must:",
+    "id_kind": "cjk_sub",
+    "parent_id": "Part 2 (2)",
+    "body": "(a) set out the name of the entity to which the notice is given;\n\nand (b) set out brief details of the non-compliance or possible\n\nnon-compliance; and (c) specify action within the entity’s control that the entity must\n\ntake in order to address the non-compliance or possible non-compliance; and (d) specify a reasonable period within which the entity must take\n\nthe specified action; and (e) if the Secretary considers it appropriate—specify a\n\nreasonable period within which the entity must provide the Secretary with evidence that the entity has taken the specified action; and (f) explain what may happen if the entity does not comply with\n\nthe notice; and (g) explain how the entity may seek review of the decision to\n\nissue the notice; and (h) set out any other matters prescribed by the rules.\n\n(3) Before giving the notice to the entity, the Secretary must:\n\n(a) notify the entity that the Secretary intends to give the notice\n\nto the entity; and (b) give the entity a specified period (which must not be shorter\n\nthan 10 days) to make representations about the giving of the notice.\n\nNo. 98, 2024 Cyber Security Act 2024 19"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 18",
+    "section_name": "Section 18",
+    "id_kind": "section_word",
+    "parent_id": "Part 2 (2)",
+    "body": "(4) Only one compliance notice may be given to an entity in relation to\n\na particular instance of the entity’s non-compliance, or possible non-compliance, with an obligation under section 15 or 16.\n\n18 Stop notice\n\n(1) The Secretary may give an entity that must comply with an\n\nobligation under section 15 or 16 a stop notice if:\n\n(a) the entity has been given a compliance notice under\n\nsection 17 in relation to the non-compliance with the obligation; and (b) the Secretary is reasonably satisfied that:\n\n(i) the entity has not complied with the compliance notice;\n\nor (ii) actions taken by the entity to rectify non-compliance\n\nwith the obligation (whether in accordance with the compliance notice or otherwise) are inadequate to rectify the non-compliance."
+  },
+  {
+    "depth": 3,
+    "section_id": "Security standards for smart devices: Part 2 (2) (3)",
+    "section_name": "The stop notice must:",
+    "id_kind": "cjk_sub",
+    "parent_id": "Part 2 (2)",
+    "body": "(a) set out the name of the entity to which the notice is given;\n\nand (b) set out brief details of the non-compliance; and\n\n(c) specify action within the entity’s control that the entity must\n\ntake, or refrain from taking, in order to address the non-compliance; and (d) specify a reasonable period within which the entity must take\n\nthe specified action or refrain from taking the specified action; and (e) if the Secretary considers it appropriate—specify a\n\nreasonable period within which the entity must provide the Secretary with evidence that the entity has taken the specified action or refrained from taking the specified action; and (f) explain what may happen if the entity does not comply with\n\nthe notice; and (g) explain how the entity may seek review of the decision to\n\nissue the notice; and (h) set out any other matters prescribed by the rules.\n\n20 Cyber Security Act 2024 No. 98, 2024"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 19",
+    "section_name": "Section 19",
+    "id_kind": "section_word",
+    "parent_id": "Part 2 (2)",
+    "body": "(3) Before giving the notice to the entity, the Secretary must:\n\n(a) notify the entity that the Secretary intends to give the notice\n\nto the entity; and (b) give the entity a specified period (which must not be shorter\n\nthan 10 days) to make representations about the giving of the notice.\n\n(4) Only one stop notice may be given to an entity in relation to a\n\nparticular instance of the entity’s non-compliance with an obligation under section 15 or 16.\n\n19 Recall notice\n\n(1) The Secretary may give an entity that must comply with an\n\nobligation under section 15 or 16 a recall notice if:\n\n(a) the entity has been given a stop notice under section 18 in\n\nrelation to the non-compliance with the obligation; and (b) the Secretary is reasonably satisfied that:\n\n(i) the entity has not complied with the stop notice; or (ii) actions taken by the entity to rectify the non-compliance\n\nwith the obligation (whether in accordance with the compliance notice or otherwise) are inadequate to rectify the non-compliance."
+  },
+  {
+    "depth": 3,
+    "section_id": "Security standards for smart devices: Part 2 (2) (4)",
+    "section_name": "The recall notice must:",
+    "id_kind": "cjk_sub",
+    "parent_id": "Part 2 (2)",
+    "body": "(a) set out the name of the entity to which the notice is given;\n\nand (b) set out brief details of the non-compliance; and\n\n(c) specify action that the entity must take to do any or all of the\n\nfollowing:\n\n(i) ensure, to the extent within the entity’s control, the\n\nproduct is not acquired in Australia; (ii) ensure, to the extent within the entity’s control, that the\n\nproduct is not supplied to suppliers for supply in Australia; (iii) arrange for the return, within a specified reasonable\n\nperiod, of the product to the entity, or if the entity is not\n\nNo. 98, 2024 Cyber Security Act 2024 21"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 20",
+    "section_name": "Section 20",
+    "id_kind": "section_word",
+    "parent_id": "Part 2 (2)",
+    "body": "the manufacturer of the product, the manufacturer of the product; and (d) specify a reasonable period within which the entity must take\n\nthe specified action; and (e) if the Secretary considers it appropriate—specify a\n\nreasonable period within which the entity must provide the Secretary with evidence that the entity has taken the specified action; and (f) explain what may happen if the entity does not comply with\n\nthe notice; and (g) explain how the entity may seek review of the decision to\n\nissue the notice; and (h) set out any other matters prescribed by the rules.\n\n(3) Before giving the notice to the entity, the Secretary must:\n\n(a) notify the entity that the Secretary intends to give the notice\n\nto the entity; and (b) give the entity a specified period (which must not be shorter\n\nthan 10 days) to make representations about the giving of the notice.\n\n(4) Only one recall notice may be given to an entity in relation to a\n\nparticular instance of the entity’s non-compliance with an obligation under section 15 or 16.\n\n20 Public notification of failure to comply with recall notice\n\nIf an entity fails to comply with a recall notice, the Minister may publish the following information on the Department’s website, or in any other way the Minister considers appropriate:\n\n(a) the identity of the entity; (b) details of the product;\n\n(c) details of the non-compliance; (d) risks posed by the product relating to the non-compliance;\n\n(e) any other matters prescribed by the rules.\n\n22 Cyber Security Act 2024 No. 98, 2024"
+  },
+  {
+    "depth": 3,
+    "section_id": "Security standards for smart devices: Division 4",
+    "section_name": "Miscellaneous",
+    "id_kind": "part",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 21",
+    "section_name": "Section 21",
+    "id_kind": "section_word",
+    "parent_id": "Part 2 (2)",
+    "body": "21 Revocation and variation of notices given under this Part\n\nVariation\n\n(1) The Secretary may, by notice in writing given to an entity, vary a\n\ncompliance notice, stop notice or recall notice given under this Part to the entity if the Secretary is reasonably satisfied that the variation is required:\n\n(a) in order to rectify an error, defect or ambiguity in the notice;\n\nor (b) to adequately rectify the non-compliance, or possible\n\nnon-compliance, to which the notice relates.\n\n(2) Before giving the notice to the entity under subsection (1), the\n\nSecretary must:\n\n(a) notify the entity that the Secretary intends to give the notice\n\nto the entity; and (b) give the entity a specified period (which must not be shorter\n\nthan 10 days) to make representations about the giving of the notice.\n\n(3) A varied compliance notice, stop notice or recall notice has the\n\nsame effect as the original notice for the purposes of this Part.\n\nRevocation\n\n(4) The Secretary may, by notice in writing given to an entity, revoke a\n\ncompliance notice, stop notice or recall notice given under this Part to the entity if the Secretary is no longer satisfied that the grounds for issuing the notice were met.\n\n(5) If a compliance notice, stop notice or recall notice, relating to\n\nnon-compliance or possible non-compliance by an entity with an obligation, is revoked under subsection (4), no further notices may be issued under this Part in relation to that non-compliance.\n\nNo. 98, 2024 Cyber Security Act 2024 23"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 22",
+    "section_name": "Section 22",
+    "id_kind": "section_word",
+    "parent_id": "Part 2 (2)",
+    "body": "22 Internal review of decision to give compliance, stop or recall notice\n\n(1) An entity may apply, in writing, to the Secretary for review (an\n\ninternal review) of a decision:\n\n(a) to give the entity a compliance notice under section 17; or (b) to give the entity a stop notice under section 18; or\n\n(c) to give the entity a recall notice under section 19; or (d) to vary, under section 21, a notice given to the entity.\n\n(2) An application for an internal review must be made within 30 days\n\nafter the day on which the notice was given to the entity."
+  },
+  {
+    "depth": 3,
+    "section_id": "Part 2 (3)",
+    "section_name": "The decision-maker for the internal review is:",
+    "id_kind": "cjk_sub",
+    "parent_id": "Part 2 (2)",
+    "body": "(a) the Secretary; or (b) if the Secretary made the decision personally—a person:\n\n(i) to whom the power to issue a notice of that kind has\n\nbeen delegated under section 86; and (ii) that was not involved in the making of the Secretary’s\n\ndecision.\n\n(4) Within 30 days after the application is received, the decision-maker\n\nmust:\n\n(a) review the decision; and (b) affirm, vary or revoke the decision; and\n\n(c) if the decision is revoked—make such other decision (if any)\n\nthat the decision-maker thinks appropriate.\n\n(5) The decision-maker for the reviewable decision must, as soon as\n\npracticable after making a decision under subsection (4), give the applicant a written statement of the decision-maker’s reasons for the decision.\n\n23 Examination to assess compliance with security standard and statement of compliance\n\n(1) If an entity must comply with an obligation in section 15 or 16 in\n\nrelation to a relevant connectable product, the Secretary may engage an appropriately qualified and experienced expert to carry\n\n24 Cyber Security Act 2024 No. 98, 2024"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 23",
+    "section_name": "Section 23",
+    "id_kind": "section_word",
+    "parent_id": "Part 2 (2)",
+    "body": "out an independent examination of the product to determine either or both of the following:\n\n(a) whether the product complies with the security standard for\n\nthe class of relevant connectable product; (b) whether the statement of compliance for the product\n\ncomplies with the requirements of section 16.\n\n(2) The expert may examine the product, for example, by doing any of\n\nthe following:\n\n(a) opening any package in which the product is contained; (b) operating the product;\n\n(c) testing or analysing the product, including through the use of\n\nelectronic equipment; (d) if the product contains a record or document—reading the\n\nrecord or document either directly or with the use of an electronic device; (e) taking photographs or video recordings of the product.\n\nRequest for product and statement of compliance\n\n(3) For the purposes of the examination, the Secretary may request, by\n\nnotice in writing, the entity to provide the product, or the statement of compliance for the product, or both."
+  },
+  {
+    "depth": 3,
+    "section_id": "Part 2 (4)",
+    "section_name": "The notice must:",
+    "id_kind": "cjk_sub",
+    "parent_id": "Part 2 (2)",
+    "body": "(a) specify the product; and (b) if the entity is not the manufacturer—specify the\n\nmanufacturer of the product (if known); and (c) specify a reasonable period within which the entity must\n\nprovide the notice; and (d) specify the period for which the product will be retained for\n\ntesting; and (e) specify the requirements of the security standard that the\n\nproduct will be tested against; and (f) explain the kind of testing or analysis that will be done; and (g) explain what may happen if:\n\n(i) the entity does not comply with the notice; or\n\nNo. 98, 2024 Cyber Security Act 2024 25"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 24",
+    "section_name": "Section 24",
+    "id_kind": "section_word",
+    "parent_id": "Part 2 (2)",
+    "body": "(ii) the entity does not comply with its obligations in\n\nsection 15 or 16 in relation to the product; and (h) set out any other matters prescribed by the rules.\n\nCompensation\n\n(5) An entity is entitled to be paid by the Commonwealth reasonable\n\ncompensation for complying with a request under subsection (3).\n\n24 Acquisition of property\n\nThis Part has no effect to the extent (if any) that its operation would result in an acquisition of property (within the meaning of paragraph 51(xxxi) of the Constitution) from a person otherwise than on just terms (within the meaning of that paragraph).\n\n26 Cyber Security Act 2024 No. 98, 2024"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 25",
+    "section_name": "Section 25",
+    "id_kind": "section_word",
+    "parent_id": "Part 2 (2)",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "Part 3 (3)",
+    "section_name": "Ransomware reporting obligations",
+    "id_kind": "part",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "Ransomware reporting obligations: Division 1",
+    "section_name": "Preliminary",
+    "id_kind": "part",
+    "parent_id": "",
+    "body": "25 Simplified outline of this Part\n\nThis Part imposes reporting obligations on certain entities who are impacted by a cyber security incident, and who have provided or are aware that another entity has provided, a payment or benefit (called a ransomware payment) to an entity that is seeking to benefit from the impact or the cyber security incident.\n\nParticular information must be included in a ransomware payment report, including information relating to the cyber security incident, the demand made by the extorting entity and the ransomware payment.\n\nAn entity may be liable to a civil penalty if the entity fails to make a ransomware payment report as required by this Part.\n\nNo. 98, 2024 Cyber Security Act 2024 27"
+  },
+  {
+    "depth": 3,
+    "section_id": "Ransomware reporting obligations: Part 3 Section 26 (1)",
+    "section_name": "Section 26",
+    "id_kind": "section_word",
+    "parent_id": "Part 3 (3)",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "Ransomware reporting obligations: Division 2",
+    "section_name": "Reporting obligations",
+    "id_kind": "part",
+    "parent_id": "",
+    "body": "26 Application of this Part"
+  },
+  {
+    "depth": 3,
+    "section_id": "Part 3 (1)",
+    "section_name": "This Part applies if:",
+    "id_kind": "cjk_sub",
+    "parent_id": "Part 3 (3)",
+    "body": "(a) an incident has occurred, is occurring or is imminent; and (b) the incident is a cyber security incident; and\n\n(c) the incident has had, is having, or could reasonably be\n\nexpected to have, a direct or indirect impact on a reporting business entity; and (d) an entity (the extorting entity) makes a demand of the\n\nreporting business entity, or any other entity, in order to benefit from the incident or the impact on the reporting business entity; and (e) the reporting business entity provides, or is aware that\n\nanother entity has provided on their behalf, a payment or benefit (a ransomware payment) to the extorting entity that is directly related to the demand.\n\n(2) An entity is a reporting business entity if, at the time the\n\nransomware payment is made:\n\n(a) the entity:\n\n(i) is carrying on a business in Australia with an annual\n\nturnover for the previous financial year that exceeds the turnover threshold for that year; and (ii) is not a Commonwealth body or a State body; and (iii) is not a responsible entity for a critical infrastructure\n\nasset; or (b) the entity is a responsible entity for a critical infrastructure\n\nasset to which Part 2B of the Security of Critical Infrastructure Act 2018 applies.\n\n(3) For the purposes of subparagraph (2)(a)(i), the turnover threshold\n\nis:\n\n(a) if a business has been carried on for only part of the previous\n\nfinancial year—the amount worked out in the manner prescribed by the rules; or\n\n28 Cyber Security Act 2024 No. 98, 2024"
+  },
+  {
+    "depth": 3,
+    "section_id": "Ransomware reporting obligations: Part 3 Section 26 (2)",
+    "section_name": "Section 26",
+    "id_kind": "section_word",
+    "parent_id": "Part 3 (3)",
+    "body": "(b) in any other case—the amount prescribed by, or worked out\n\nin the manner prescribed by, the rules.\n\nPresumption\n\n(4) For the purposes of paragraph (1)(b), an incident (other than an\n\nincident covered by paragraph 9(2)(a) or (b)) is presumed to be a cyber security incident if:\n\n(a) the incident was probably effected, is probably being effected\n\nor could reasonably be expected to be effected, by means of a telegraphic, telephonic or other like service within the meaning of paragraph 51(v) of the Constitution (including, for example, by means of the internet); or (b) the incident has probably impeded or impaired, or is probably\n\nimpeding or impairing or could reasonably be expected to impede or impair, the ability of a computer to connect to such a service; or (c) the incident has probably seriously prejudiced, is probably\n\nseriously prejudicing, or could reasonably be expected to prejudice:\n\n(i) the social or economic stability of Australia or its\n\npeople; or (ii) the defence of Australia; or (iii) national security.\n\nNote: Paragraphs 9(2)(a) and (b) cover incidents involving critical infrastructure assets or the activities of corporations to which paragraph 51(xx) of the Constitution applies.\n\n(5) However, subsection (4) does not make an entity liable to a civil\n\npenalty under this Part if the incident:\n\n(a) was not in fact effected by means of a telegraphic, telephonic\n\nor other like service within the meaning of paragraph 51(v) of the Constitution (including, for example, by means of the internet); or (b) did not in fact impede or impair the ability of a computer to\n\nconnect to such a service; or (c) did not in fact seriously prejudice:\n\n(i) the social or economic stability of Australia or its\n\npeople; or\n\nNo. 98, 2024 Cyber Security Act 2024 29"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 27",
+    "section_name": "Section 27",
+    "id_kind": "section_word",
+    "parent_id": "Part 3 (3)",
+    "body": "(ii) the defence of Australia; or (iii) national security.\n\n27 Obligation to report following a ransomware payment\n\n(1) The reporting business entity must give the designated\n\nCommonwealth body a report (a ransomware payment report) that complies with the requirements of this section within 72 hours of making the ransomware payment or becoming aware that the ransomware payment has been made (whichever is applicable).\n\nNote: For the definition of designated Commonwealth body: see section 8.\n\n(2) The ransomware payment report must contain information relating\n\nto the following, in accordance with any requirements prescribed by the rules, that, at the time of making the report, the reporting business entity knows or is able, by reasonable search or enquiry, to find out:\n\n(a) if the reporting business entity made the payment—the\n\nreporting business entity’s contact and business details; (b) if another entity made the payment—that entity’s contact and\n\nbusiness details; (c) the cyber security incident, including its impact on the\n\nreporting business entity; (d) the demand made by the extorting entity;\n\n(e) the ransomware payment;\n\n(f) communications with the extorting entity relating to the\n\nincident, the demand and the payment.\n\n(3) The reporting business entity may include other information\n\nrelating to the cyber security incident in the ransomware payment report."
+  },
+  {
+    "depth": 3,
+    "section_id": "Part 3 (4)",
+    "section_name": "The ransomware payment report must be given:",
+    "id_kind": "cjk_sub",
+    "parent_id": "Part 3 (3)",
+    "body": "(a) in the form approved by the Secretary (if any); and (b) in the manner (if any) prescribed by the rules.\n\n(5) An entity is liable to a civil penalty if the entity contravenes\n\nsubsection (1).\n\n30 Cyber Security Act 2024 No. 98, 2024"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 28",
+    "section_name": "Section 28",
+    "id_kind": "section_word",
+    "parent_id": "Part 3 (3)",
+    "body": "Civil penalty: 60 penalty units.\n\n(6) Subsection 93(2) of the Regulatory Powers Act does not apply in\n\nrelation to a contravention of subsection (1) of this section.\n\n28 Liability\n\n(1) An entity is not liable to an action or other proceeding for damages\n\nfor or in relation to an act done or omitted in good faith in compliance with section 27.\n\n(2) An officer, employee or agent of an entity is not liable to an action\n\nfor damages for or in relation to an act done or omitted in good faith in connection with an act done or omitted by the entity as mentioned in subsection (1).\n\n(3) An entity that wishes to rely on subsection (1) in relation to an\n\naction or other proceeding bears an evidential burden (within the meaning of the Regulatory Powers Act) in relation to that matter.\n\nNo. 98, 2024 Cyber Security Act 2024 31"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 29",
+    "section_name": "Section 29",
+    "id_kind": "section_word",
+    "parent_id": "Part 3 (3)",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "Ransomware reporting obligations: Division 3",
+    "section_name": "Protection of information",
+    "id_kind": "part",
+    "parent_id": "",
+    "body": "29 Ransomware payment reports may only be used or disclosed for permitted purposes\n\nPermitted use and disclosure\n\n(1) A designated Commonwealth body may make a record of, use or\n\ndisclose information provided in a ransomware payment report by a reporting business entity, but only for the purposes of one or more of the following:\n\n(a) assisting the reporting business entity, and other entities\n\nacting on behalf of the reporting business entity, to respond to, mitigate or resolve the cyber security incident; (b) performing functions or exercising powers under this Part or"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Part 6 as it applies to this Part; (c) proceedings under, or arising out of, section 137.1 or 137.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "of the Criminal Code (false and misleading information and documents) that relate to this Act; (d) proceedings for an offence against section 149.1 of the\n\nCriminal Code (which deals with obstruction of Commonwealth public officials) that relates to this Act; (e) the performance of the functions of a Commonwealth body\n\nrelating to responding to, mitigating or resolving a cyber security incident; (f) the performance of the functions of a State body relating to\n\nresponding to, mitigating or resolving a cyber security incident; (g) the performance of the functions of the National Cyber\n\nSecurity Coordinator under Part 4 relating to a cyber security incident; (h) informing and advising the Minister, and other Ministers of\n\nthe Commonwealth, about a cyber security incident; (i) the performance of the functions of an intelligence agency.\n\nNote: Certain information must not be disclosed to a State body under Parts of this Act unless a Minister of the State or Territory has consented to those Parts applying to the State body: see section 11.\n\n32 Cyber Security Act 2024 No. 98, 2024"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 30 (1)",
+    "section_name": "Section 30",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "Restriction on use and disclosure for civil or regulatory action\n\n(2) However, the designated Commonwealth body must not make a\n\nrecord of, use or disclose the information for the purposes of investigating or enforcing, or assisting in the investigation or enforcement of, any contravention by the reporting business entity of a Commonwealth, State or Territory law other than:\n\n(a) a contravention by the reporting business entity of this Part;\n\nor (b) a contravention by the reporting business entity of a law that\n\nimposes a penalty or sanction for a criminal offence.\n\nNote: See also section 32 in relation to admissibility of the information in proceedings against the reporting business entity.\n\nInteraction with the Privacy Act 1988\n\n(3) Subsection (1) does not authorise the designated Commonwealth\n\nbody to record, use or disclose the information to the extent that it is prohibited or restricted by or under the Privacy Act 1988.\n\nInformation not covered by the prohibitions in this section\n\n(4) Subsection (1) does not prohibit the recording, use or disclosure of\n\nthe following information:\n\n(a) information that has been provided to the designated\n\nCommonwealth body by, or on behalf of, the entity to the Commonwealth to comply with:\n\n(i) a requirement in Part 2B of the Security of Critical\n\nInfrastructure Act 2018; or (ii) a requirement under the Telecommunications Act 1997;\n\nor (iii) a requirement under a law prescribed by the rules; (b) information that has already been lawfully made available to\n\nthe public.\n\n30 Limitations on secondary use and disclosure of information in ransomware payment reports"
+  },
+  {
+    "depth": 3,
+    "section_id": "(1) (1)",
+    "section_name": "This section applies to information that:",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "No. 98, 2024 Cyber Security Act 2024 33"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 30 (2)",
+    "section_name": "Section 30",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "(a) has been provided in a ransomware payment report by a\n\nreporting business entity; and (b) has been obtained by another entity, Commonwealth body or\n\nState body under subsection 29(1) or this section; and (c) is held by the other entity, Commonwealth body or State\n\nbody.\n\nNote: This section does not apply to the information to the extent that it has been otherwise obtained by the other entity, Commonwealth body or State body.\n\nPermitted use and disclosure\n\n(2) The other entity, Commonwealth body or State body may make a\n\nrecord of, use or disclose the information but only for the purposes of one or more of the following:\n\n(a) assisting the reporting business entity, and other entities\n\nacting on behalf of the reporting business entity, to respond to, mitigate or resolve the cyber security incident; (b) performing functions or exercising powers under this Part or"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Part 6 as it applies to this Part; (c) proceedings under, or arising out of, section 137.1 or 137.2",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "of the Criminal Code (false and misleading information and documents) that relate to this Act; (d) proceedings for an offence against section 149.1 of the\n\nCriminal Code (which deals with obstruction of Commonwealth public officials) that relates to this Act; (e) the performance of the functions of a Commonwealth body\n\nrelating to responding to, mitigating or resolving a cyber security incident; (f) the performance of the functions of a State body relating to\n\nresponding to, mitigating or resolving a cyber security incident; (g) the performance of the functions of the National Cyber\n\nSecurity Coordinator under Part 4 relating to a cyber security incident; (h) informing and advising the Minister, and other Ministers of\n\nthe Commonwealth, about a cyber security incident; (i) the performance of the functions of an intelligence agency.\n\n34 Cyber Security Act 2024 No. 98, 2024"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 30 (3)",
+    "section_name": "Section 30",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "Restriction on use and disclosure for civil or regulatory action\n\n(3) However, the other entity, Commonwealth body or State body\n\nmust not make a record of, use or disclose the information for the purposes of investigating or enforcing, or assisting in the investigation or enforcement of, any contravention, by the reporting business entity, of a Commonwealth, State or Territory law other than:\n\n(a) a contravention by the reporting business entity of this Part;\n\nor (b) a contravention by the reporting business entity of a law that\n\nimposes a penalty or sanction for a criminal offence.\n\nInteraction with the Privacy Act 1988\n\n(4) Subsection (2) does not authorise the other entity, Commonwealth\n\nbody or State body to record, use or disclose the information to the extent that it is prohibited or restricted by or under the Privacy Act 1988.\n\nInformation not covered by the prohibitions in this section"
+  },
+  {
+    "depth": 3,
+    "section_id": "(5)",
+    "section_name": "Subsection (2) does not prohibit:",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "(a) recording, use or disclosure of information referred to in\n\nsubsection 29(4); or (b) if the other entity is an individual—recording, use or\n\ndisclosure of personal information about the individual; or (c) recording, use or disclosure of the reporting business entity’s\n\nown information, with the consent of the reporting business entity, by another entity, a Commonwealth body or a State body; or (d) recording, use or disclosure of information for the purposes\n\nof carrying out a State’s constitutional functions, powers or duties.\n\nCivil penalty for contravention of this section"
+  },
+  {
+    "depth": 3,
+    "section_id": "(6)",
+    "section_name": "An entity is liable to a civil penalty if:",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "(a) the entity contravenes subsection (2); and (b) the entity is not a Commonwealth officer; and\n\nNo. 98, 2024 Cyber Security Act 2024 35"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 31",
+    "section_name": "Section 31",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "(c) any of the following applies:\n\n(i) the information is sensitive information about an\n\nindividual and the individual has not consented to the record, use or disclosure of the information; (ii) the information is confidential or commercially\n\nsensitive; (iii) the record, use or disclosure of the information would,\n\nor could reasonably be expected to, cause damage to the security, defence or international relations of the Commonwealth.\n\nNote 1: See the Criminal Code for offences for Commonwealth officers.\n\nNote 2: This Act does not make the Crown (other than an authority of the Crown) liable to a civil penalty.\n\nCivil penalty: 60 penalty units.\n\n31 Legal professional privilege\n\n(1) The fact that a reporting business entity provided information in a\n\nransomware payment report does not otherwise affect a claim of legal professional privilege that anyone may make in relation to that information in any proceedings:\n\n(a) under any Commonwealth, State or Territory law (including\n\nthe common law); or (b) before a tribunal of the Commonwealth, a State or a\n\nTerritory.\n\n(2) Despite subsection (1), this section does not apply to the following:\n\n(a) the proceedings of a coronial inquiry or a Royal Commission\n\nin Australia; (b) proceedings in a federal court exercising original jurisdiction\n\nin which a writ of mandamus or prohibition or an injunction is sought against an officer or officers of the Commonwealth.\n\nNote: For federal court, see section 2B of the Acts Interpretation Act 1901.\n\n(3) This section does not limit or affect any right, privilege or\n\nimmunity that the reporting business entity has, apart from this section, as a defendant in any proceedings.\n\n36 Cyber Security Act 2024 No. 98, 2024"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 32 (1)",
+    "section_name": "Section 32",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "32 Admissibility of information in ransomware payment report against reporting business entity"
+  },
+  {
+    "depth": 3,
+    "section_id": "(1) (2)",
+    "section_name": "This section applies to information that:",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "(a) has been provided in a ransomware payment report by a\n\nreporting business entity; and (b) has been obtained by a Commonwealth body or State body\n\nunder section 27, subsection 29(1) or section 30; and (c) is held by the Commonwealth body or State body.\n\nNote: This section does not apply to information held by the Commonwealth body or State body to the extent that it has been otherwise obtained.\n\n(2) That information is not admissible in evidence against the\n\nreporting business entity in any of the following proceedings:\n\n(a) criminal proceedings for an offence against a\n\nCommonwealth, State or Territory law, other than:\n\n(i) proceedings for an offence against section 137.1 or\n\n137.2 of the Criminal Code (which deal with false or misleading information or documents) that relates to this Act; or (ii) proceedings for an offence against section 149.1 of the\n\nCriminal Code (which deals with obstruction of Commonwealth public officials) that relates to this Act; (b) civil proceedings for a contravention of a civil penalty\n\nprovision of a Commonwealth, State or Territory law, other than a civil penalty provision of this Part; (c) proceedings for a breach of any other Commonwealth, State\n\nor Territory law (including the common law); (d) proceedings before a tribunal of the Commonwealth, a State\n\nor a Territory.\n\n(3) However, this section does not apply to the following:\n\n(a) the proceedings of a coronial inquiry or a Royal Commission\n\nin Australia; (b) proceedings in a federal court exercising original jurisdiction\n\nin which a writ of mandamus or prohibition or an injunction is sought against an officer or officers of the Commonwealth.\n\nNo. 98, 2024 Cyber Security Act 2024 37"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 32 (2)",
+    "section_name": "Section 32",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "Note: For federal court, see section 2B of the Acts Interpretation Act 1901.\n\n(4) This section does not limit or affect any right, privilege or\n\nimmunity that the reporting business entity has, apart from this section, as a defendant in any proceedings.\n\n38 Cyber Security Act 2024 No. 98, 2024"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 33",
+    "section_name": "Section 33",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "Part 4 (2)",
+    "section_name": "Coordination of significant cyber security",
+    "id_kind": "part",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "incidents",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "incidents: Division 1",
+    "section_name": "Preliminary",
+    "id_kind": "part",
+    "parent_id": "",
+    "body": "33 Simplified outline of this Part\n\nInformation may be voluntarily provided to the National Cyber Security Coordinator in relation to significant cyber security incidents.\n\nThe National Cyber Security Coordinator’s role is to lead across the whole of Government the coordination and triaging of action in response to a significant cyber security incident.\n\nInformation voluntarily provided under this Part may only be recorded, used and disclosed for limited purposes.\n\n34 Meaning of significant cyber security incident\n\nA cyber security incident is a significant cyber security incident if:\n\n(a) there is a material risk that the incident has seriously\n\nprejudiced, is seriously prejudicing, or could reasonably be expected to prejudice:\n\n(i) the social or economic stability of Australia or its\n\npeople; or (ii) the defence of Australia; or (iii) national security; or (b) the incident is, or could reasonably be expected to be, of\n\nserious concern to the Australian people.\n\nNo. 98, 2024 Cyber Security Act 2024 39\n\nCoordinator"
+  },
+  {
+    "depth": 3,
+    "section_id": "incidents: Section 35 (1)",
+    "section_name": "Section 35",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "incidents: Division 2",
+    "section_name": "Voluntary information sharing with the",
+    "id_kind": "part",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "National Cyber Security Coordinator",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "35 Impacted entity may voluntarily provide information to National Cyber Security Coordinator in relation to a significant cyber security incident"
+  },
+  {
+    "depth": 3,
+    "section_id": "incidents: (1) (1)",
+    "section_name": "This section applies if:",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "(a) an incident has occurred, is occurring or is imminent; and (b) the incident is a cyber security incident; and\n\n(c) the incident has had, is having, or could reasonably be\n\nexpected to have, a direct or indirect impact on an entity (the impacted entity); and (d) the impacted entity is:\n\n(i) carrying on a business in Australia; or (ii) a responsible entity for a critical infrastructure asset to\n\nwhich the Security of Critical Infrastructure Act 2018 applies.\n\n(2) The impacted entity, or another entity acting on behalf of the\n\nimpacted entity, may provide information about the incident to the National Cyber Security Coordinator if:\n\n(a) the incident is a significant cyber security incident; or (b) the incident could reasonably be expected to be a significant\n\ncyber security incident.\n\nNote 1: For information provided in relation to other kinds of cyber security incidents: see sections 36 and 39.\n\nNote 2: This subsection constitutes an authorisation for the National Cyber Security Coordinator to collect the information (including sensitive information) for the purposes of the Privacy Act 1988.\n\n(3) Information about the incident may be provided under\n\nsubsection (2):\n\n(a) at any time during the response to the incident; and (b) on the impacted entity’s own initiative or in response to a\n\nrequest by the National Cyber Security Coordinator.\n\n40 Cyber Security Act 2024 No. 98, 2024\n\nVoluntary information sharing with the National Cyber Security Coordinator\n\nDivision 2"
+  },
+  {
+    "depth": 3,
+    "section_id": "incidents: Section 35 (2)",
+    "section_name": "Section 35",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "Note: There is no obligation on the impacted entity to provide information in response to a request.\n\nPresumption\n\n(4) For the purposes of paragraph (1)(b), an incident (other than an\n\nincident covered by paragraph 9(2)(a) or (b)) is presumed to be a cyber security incident if:\n\n(a) the incident was probably effected, is probably being effected\n\nor could reasonably be expected to be effected, by means of a telegraphic, telephonic or other like service within the meaning of paragraph 51(v) of the Constitution (including, for example, by means of the internet); or (b) the incident has probably impeded or impaired, or is probably\n\nimpeding or impairing or could reasonably be expected to impede or impair, the ability of a computer to connect to such a service; or (c) the incident has probably seriously prejudiced, is probably\n\nseriously prejudicing, or could reasonably be expected to prejudice:\n\n(i) the social or economic stability of Australia or its\n\npeople; or (ii) the defence of Australia; or (iii) national security.\n\nNote: Paragraphs 9(2)(a) and (b) covers incidents involving critical infrastructure assets or the activities of corporations to which paragraph 51(xx) of the Constitution applies.\n\n(5) However, subsection (4) does not make an entity liable to a civil\n\npenalty under this Part if the incident:\n\n(a) was not in fact effected by means of a telegraphic, telephonic\n\nor other like service within the meaning of paragraph 51(v) of the Constitution (including, for example, by means of the internet); or (b) did not in fact impede or impair the ability of a computer to\n\nconnect to such a service; or (c) did not in fact seriously prejudice:\n\n(i) the social or economic stability of Australia or its\n\npeople; or\n\nNo. 98, 2024 Cyber Security Act 2024 41\n\nCoordinator"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 36",
+    "section_name": "Section 36",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "(ii) the defence of Australia; or (iii) national security.\n\n36 Voluntary provision of information in relation to other incidents or cyber security incidents"
+  },
+  {
+    "depth": 3,
+    "section_id": "incidents: (1) (2)",
+    "section_name": "This section applies if:",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "(a) an incident has occurred, is occurring or is imminent; and (b) an entity (the impacted entity) provides information to the\n\nNational Cyber Security Coordinator in relation to the incident; and (c) it is unclear at the time the information is provided whether\n\nthe incident is a cyber security incident or a significant cyber security incident.\n\n(2) The National Cyber Security Coordinator may collect and use the\n\ninformation for the purposes of determining whether the incident is a cyber security incident or a significant cyber security incident.\n\nNote: This subsection constitutes an authorisation for the National Cyber Security Coordinator to collect the information (including sensitive information) for the purposes of the Privacy Act 1988.\n\n37 Role of the National Cyber Security Coordinator\n\nThe role of the National Cyber Security Coordinator includes, but is not limited to, the following:\n\n(a) to lead across the whole of Government the coordination and\n\ntriaging of action in response to a significant cyber security incident; (b) to inform and advise the Minister and the whole of\n\nGovernment in relation to the whole of Government response to a significant cyber security incident.\n\n42 Cyber Security Act 2024 No. 98, 2024"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 38",
+    "section_name": "Section 38",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "incidents: Division 3",
+    "section_name": "Protection of information",
+    "id_kind": "part",
+    "parent_id": "",
+    "body": "38 Information provided in relation to a significant cyber security incident—use and disclosure by National Cyber Security Coordinator\n\nPermitted use and disclosure\n\n(1) The National Cyber Security Coordinator may make a record of,\n\nuse or disclose information provided under subsection 35(2) by, or on behalf of, an entity (the impacted entity) in relation to a cyber security incident but only for the purposes of one or more of the following:\n\n(a) assisting the impacted entity, and other entities acting on\n\nbehalf of the impacted entity, to respond to, mitigate or resolve the cyber security incident; (b) a permitted cyber security purpose for a cyber security\n\nincident.\n\nNote 1: For permitted cyber security purpose for a cyber security incident: see section 10. This includes the functions of the National Cyber Security Coordinator under this Part.\n\nNote 2: Certain information must not be disclosed to a State body under Parts of this Act unless a Minister of the State or Territory has consented to those Parts applying to the State body: see section 11.\n\nRestriction on use and disclosure for civil or regulatory action\n\n(2) However, the National Cyber Security Coordinator must not make\n\na record of, use or disclose the information for the purposes of investigating or enforcing, or assisting in the investigation or enforcement of, any contravention by the impacted entity of a Commonwealth, State or Territory law other than:\n\n(a) a contravention by the impacted entity of this Part; or (b) a contravention by the impacted entity of a law that imposes\n\na penalty or sanction for a criminal offence.\n\nNote: See also section 42 in relation to admissibility of the information in proceedings against the impacted entity.\n\nNo. 98, 2024 Cyber Security Act 2024 43"
+  },
+  {
+    "depth": 3,
+    "section_id": "incidents: Section 39 (1)",
+    "section_name": "Section 39",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "Interaction with the Privacy Act 1988\n\n(3) Subsection (1) does not authorise the National Cyber Security\n\nCoordinator to record, use or disclose the information to the extent that it is prohibited or restricted by or under the Privacy Act 1988.\n\nInformation not covered by the prohibitions in this section\n\n(4) Subsection (1) does not prohibit the recording, use or disclosure of\n\nthe following information:\n\n(a) information that has been provided by, or on behalf of, the\n\nimpacted entity to the Commonwealth about the cyber security incident to comply with:\n\n(i) a requirement in Part 3 of this Act; or (ii) a requirement in Part 2B of the Security of Critical\n\nInfrastructure Act 2018; or (iii) a requirement under the Telecommunications Act 1997;\n\nor (iv) a requirement under a law prescribed by the rules; (b) information that has been provided voluntarily to the\n\nNational Cyber Security Coordinator by, or on behalf of, the impacted entity, other than under this Part; (c) information that has already been lawfully made available to\n\nthe public.\n\n39 Information provided in relation to other incidents—use and disclosure by National Cyber Security Coordinator"
+  },
+  {
+    "depth": 3,
+    "section_id": "incidents: (1) (3)",
+    "section_name": "This section applies if:",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "(a) an incident has occurred, is occurring or is imminent; and (b) an entity (the impacted entity) provides information to the\n\nNational Cyber Security Coordinator in relation to the incident; and (c) the incident either:\n\n(i) is not a cyber security incident; or (ii) is a cyber security incident but is not a significant cyber\n\nsecurity incident.\n\n44 Cyber Security Act 2024 No. 98, 2024\n\nPermitted use and disclosure"
+  },
+  {
+    "depth": 3,
+    "section_id": "incidents: Section 39 (2)",
+    "section_name": "Section 39",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "(2) The National Cyber Security Coordinator may make a record of,\n\nuse or disclose the information provided by the impacted entity but only for the purposes of one or more of the following:\n\n(a) directing the impacted entity to other services that may assist\n\nthe entity to respond to, mitigate, or resolve the incident; (b) if the incident is a cyber security incident—coordinating the\n\nwhole of Government response to the cyber security incident where the National Cyber Security Coordinator considers such a response is necessary; (c) if the incident is a cyber security incident—informing and\n\nadvising the Minister, and other Ministers of the Commonwealth, about the cyber security incident.\n\nRestriction on use and disclosure for civil or regulatory action\n\n(3) However, the National Cyber Security Coordinator must not make\n\na record of, use or disclose the information for the purposes of investigating or enforcing, or assisting in the investigation or enforcement of, any contravention by the impacted entity of a Commonwealth, State or Territory law other than:\n\n(a) a contravention by the impacted entity of this Part; or (b) a contravention by the impacted entity of a law that imposes\n\na penalty or sanction for a criminal offence.\n\nNote: See also section 42 in relation to admissibility of the information in proceedings against the impacted entity.\n\nInteraction with the Privacy Act 1988\n\n(4) Subsection (2) does not authorise the National Cyber Security\n\nCoordinator to record, use or disclose the information to the extent that it is prohibited or restricted by or under the Privacy Act 1988.\n\nInformation not covered by the prohibitions in this section\n\n(5) Subsection (2) does not prohibit the recording, use or disclosure of\n\nthe following information:\n\nNo. 98, 2024 Cyber Security Act 2024 45"
+  },
+  {
+    "depth": 3,
+    "section_id": "incidents: Section 40 (1)",
+    "section_name": "Section 40",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "(a) information that has been provided by, or on behalf of, the\n\nimpacted entity to the Commonwealth about the cyber security incident to comply with:\n\n(i) a requirement in Part 3 of this Act; or (ii) a requirement in Part 2B of the Security of Critical\n\nInfrastructure Act 2018; or (iii) a requirement under the Telecommunications Act 1997;\n\nor (iv) a requirement under a law prescribed by the rules; (b) information that has been provided voluntarily to the\n\nNational Cyber Security Coordinator by, or on behalf of, the impacted entity, other than under this Part; (c) information that has already been lawfully made available to\n\nthe public.\n\n40 Limitations on secondary use and disclosure"
+  },
+  {
+    "depth": 3,
+    "section_id": "incidents: (1) (4)",
+    "section_name": "This section applies to information that:",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "(a) has been provided by, or on behalf of, an entity (the impacted\n\nentity) under subsection 35(2) or as referred to in subsection 39(1); and (b) has been obtained by another entity, a Commonwealth body\n\n(other than ASD) or a State body under subsection 38(1) or 39(2) or this section; and (c) is held by the other entity, Commonwealth body or State\n\nbody.\n\nNote 1: This section does not apply to the information to the extent that it has been otherwise obtained by the other entity, Commonwealth body or State body.\n\nNote 2: For ASD, see Division 1A of Part 6 of the Intelligence Services Act 2001.\n\nPermitted use and disclosure\n\n(2) The other entity, Commonwealth body or State body may make a\n\nrecord of, use or disclose the information but only for the purposes of one or more of the following:\n\n46 Cyber Security Act 2024 No. 98, 2024"
+  },
+  {
+    "depth": 3,
+    "section_id": "incidents: Section 40 (2)",
+    "section_name": "Section 40",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "(a) assisting the impacted entity, and other entities acting on\n\nbehalf of the impacted entity, to respond to, mitigate or resolve the cyber security incident; (b) a permitted cyber security purpose for a cyber security\n\nincident.\n\nNote: For permitted cyber security purpose for a cyber security incident: see section 10.\n\nRestriction on use and disclosure for civil or regulatory action\n\n(3) However, the other entity, Commonwealth body or State body\n\nmust not make a record of, use or disclose the information for the purposes of investigating or enforcing, or assisting in the investigation or enforcement of, any contravention by the impacted entity of a Commonwealth, State or Territory law other than:\n\n(a) a contravention by the impacted entity of this Part; or (b) a contravention by the impacted entity of a law that imposes\n\na penalty or sanction for a criminal offence.\n\nInteraction with the Privacy Act 1988\n\n(4) Subsection (2) does not authorise the other entity, Commonwealth\n\nbody or State body to record, use or disclose the information to the extent that it is prohibited or restricted by or under the Privacy Act 1988.\n\nInformation not covered by the prohibitions in this section"
+  },
+  {
+    "depth": 3,
+    "section_id": "incidents: (5)",
+    "section_name": "Subsection (2) does not prohibit:",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "(a) recording, use or disclosure of information referred to in\n\nsubsection 38(4) or 39(5); or (b) if the other entity is an individual—recording, use or\n\ndisclosure of personal information about the individual; or (c) recording, use or disclosure of the impacted entity’s own\n\ninformation, with the consent of the impacted entity, by another entity, a Commonwealth body or a State body; or (d) recording, use or disclosure for the purposes of carrying out a\n\nState’s constitutional functions, powers or duties.\n\nNo. 98, 2024 Cyber Security Act 2024 47"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 41",
+    "section_name": "Section 41",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "Civil penalty for contravention of this section"
+  },
+  {
+    "depth": 3,
+    "section_id": "incidents: (6)",
+    "section_name": "An entity is liable to a civil penalty if:",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "(a) the entity contravenes subsection (2); and (b) the entity is not a Commonwealth officer; and\n\n(c) any of the following applies:\n\n(i) the information is sensitive information about an\n\nindividual and the individual has not consented to the record, use or disclosure of the information; (ii) the information is confidential or commercially\n\nsensitive; (iii) the record, use or disclosure of the information would,\n\nor could reasonably be expected to, cause damage to the security, defence or international relations of the Commonwealth.\n\nNote 1: See the Criminal Code for offences for Commonwealth officers.\n\nNote 2: This Act does not make the Crown (other than an authority of the Crown) liable to a civil penalty.\n\nCivil penalty: 60 penalty units.\n\n41 Legal professional privilege\n\n(1) The fact that an entity provided information to the National Cyber\n\nSecurity Coordinator under subsection 35(2), or as referred to in subsection 39(1), does not otherwise affect a claim of legal professional privilege that anyone may make in relation to that information in any proceedings:\n\n(a) under any Commonwealth, State or Territory law (including\n\nthe common law); or (b) before a tribunal of the Commonwealth, a State or a\n\nTerritory.\n\n(2) Despite subsection (1), this section does not apply to the following:\n\n(a) the proceedings of a coronial inquiry or a Royal Commission\n\nin Australia;\n\n48 Cyber Security Act 2024 No. 98, 2024"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 42",
+    "section_name": "Section 42",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "(b) proceedings in a federal court exercising original jurisdiction\n\nin which a writ of mandamus or prohibition or an injunction is sought against an officer or officers of the Commonwealth.\n\nNote: For federal court, see section 2B of the Acts Interpretation Act 1901.\n\n(3) This section does not limit or affect any right, privilege or\n\nimmunity that the entity has, apart from this section, as a defendant in any proceedings.\n\n42 Admissibility of information voluntarily given by impacted entity"
+  },
+  {
+    "depth": 3,
+    "section_id": "incidents: (1) (5)",
+    "section_name": "This section applies to information that:",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "(a) has been provided by, or on behalf of, an entity (the impacted\n\nentity) under subsection 35(2) or as referred to in subsection 39(1); and (b) has been obtained by a Commonwealth body or State body\n\nunder subsection 35(2), 38(1), 39(1), 39(2) or 40(2); and (c) is held by the Commonwealth body or State body.\n\nNote: This section does not apply to information held by the Commonwealth body or State body to the extent that it has been otherwise obtained.\n\n(2) That information is not admissible in evidence against the\n\nimpacted entity in any of the following proceedings:\n\n(a) criminal proceedings for an offence against a\n\nCommonwealth, State or Territory law, other than:\n\n(i) proceedings for an offence against section 137.1 or\n\n137.2 of the Criminal Code (which deal with false or misleading information or documents) that relates to this Act; or (ii) proceedings for an offence against section 149.1 of the\n\nCriminal Code (which deals with obstruction of Commonwealth public officials) that relates to this Act; (b) civil proceedings for a contravention of a civil penalty\n\nprovision of a Commonwealth, State or Territory law, other than a civil penalty provision of this Part; (c) proceedings for a breach of any other Commonwealth, State\n\nor Territory law (including the common law);\n\nNo. 98, 2024 Cyber Security Act 2024 49"
+  },
+  {
+    "depth": 3,
+    "section_id": "incidents: Section 43 (1)",
+    "section_name": "Section 43",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "(d) proceedings before a tribunal of the Commonwealth, a State\n\nor a Territory.\n\n(3) However, this section does not apply to the following:\n\n(a) the proceedings of a coronial inquiry or a Royal Commission\n\nin Australia; (b) proceedings in a federal court exercising original jurisdiction\n\nin which a writ of mandamus or prohibition or an injunction is sought against an officer or officers of the Commonwealth.\n\nNote: For federal court, see section 2B of the Acts Interpretation Act 1901.\n\n(4) This section does not limit or affect any right, privilege or\n\nimmunity that the entity has, apart from this section, as a defendant in any proceedings.\n\n43 National Cyber Security Coordinator not compellable as witness\n\n(1) The Secretary may issue a certificate stating that:\n\n(a) a specified person is, or has been:\n\n(i) a person referred to in paragraph (a) of the definition of\n\nNational Cyber Security Coordinator in section 8; or (ii) a person referred to in paragraph (b) of the definition of\n\nNational Cyber Security Coordinator in section 8; and (b) the specified person is involved, or has been involved, in a\n\nspecified matter in which the National Cyber Security Coordinator is performing or has performed functions or is exercising or has exercised powers under this Part.\n\n(2) If, under subsection (1), the Secretary issues a certificate in relation\n\nto a person and a specified matter, the person:\n\n(a) is not obliged to comply with a subpoena or similar direction\n\nof a federal court or a court of a State or Territory to attend and answer questions relating to the matter; and (b) is not compellable to give an expert opinion in any civil or\n\ncriminal proceedings in a federal court or a court of a State or Territory in relation to the matter;\n\n50 Cyber Security Act 2024 No. 98, 2024"
+  },
+  {
+    "depth": 3,
+    "section_id": "incidents: Section 43 (2)",
+    "section_name": "Section 43",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "but only to the extent that the matter relates to information that has been provided by, or on behalf of, an entity under subsection 35(2) or as referred to in subsection 39(1)."
+  },
+  {
+    "depth": 3,
+    "section_id": "(3)",
+    "section_name": "This section does not apply to a coronial inquiry.",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "No. 98, 2024 Cyber Security Act 2024 51"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 44",
+    "section_name": "Section 44",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "incidents: Division 4",
+    "section_name": "Miscellaneous",
+    "id_kind": "part",
+    "parent_id": "",
+    "body": "44 Interaction with other requirements to provide information in relation to a cyber security incident\n\nInformation provided by an entity under this Part does not affect any other requirement of the entity to provide that information under this Act or another law of the Commonwealth.\n\nNote: For example, the entity may also be required to provide some or all of the information under Part 3 of this Act, Part 2B of the Security of Critical Infrastructure Act 2018 or under the Telecommunications Act 1997.\n\n52 Cyber Security Act 2024 No. 98, 2024"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 45",
+    "section_name": "Section 45",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "Part 5 (2)",
+    "section_name": "Cyber Incident Review Board",
+    "id_kind": "part",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "Cyber Incident Review Board: Division 1",
+    "section_name": "Preliminary",
+    "id_kind": "part",
+    "parent_id": "",
+    "body": "45 Simplified outline of this Part\n\nThe Cyber Incident Review Board is established by this Part.\n\nThe Board must cause reviews to be conducted in relation to certain cyber security incidents. The purpose of a review is to make recommendations to government and industry about actions that could be taken to prevent, detect, respond to or minimise the impact of, cyber security incidents of a similar nature in the future.\n\nA review panel will be established for each review in accordance with the terms of reference for the review.\n\nThe Board consists of the Chair and up to 6 other standing members. The standing members are appointed by the Minister.\n\nThe Board may establish an Expert Panel. One or more members of the Expert Panel may be appointed to assist in relation to a review conducted under this Part.\n\nThis Part also deals with the appointment of the Chair, standing members and Expert Panel members, and the procedures of the Board.\n\nNo. 98, 2024 Cyber Security Act 2024 53"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 46",
+    "section_name": "Section 46",
+    "id_kind": "section_word",
+    "parent_id": "Part 5 (2)",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "Cyber Incident Review Board: Division 2",
+    "section_name": "Reviews",
+    "id_kind": "part",
+    "parent_id": "",
+    "body": "46 Board must cause reviews to be conducted\n\n(1) The Cyber Incident Review Board may cause a review to be\n\nconducted under this section in relation to a cyber security incident, or a series of related cyber security incidents, on written referral by:\n\n(a) the Minister; or (b) the National Cyber Security Coordinator; or\n\n(c) an entity impacted by the incident or an incident in the series\n\nof incidents; or (d) a member of the Board.\n\nNote: Each review is conducted by a particular review panel established for that review in accordance with the terms of reference for the review."
+  },
+  {
+    "depth": 3,
+    "section_id": "Cyber Incident Review Board: Part 5 (2) (1)",
+    "section_name": "A review may only be conducted under this section:",
+    "id_kind": "cjk_sub",
+    "parent_id": "Part 5 (2)",
+    "body": "(a) if the Board is satisfied that the incident or series of incidents\n\nmeets the criteria mentioned in subsection (3); and (b) after the incident or series of incidents, and the immediate\n\nresponse, has ended; and (c) if the Minister has approved the terms of reference for the\n\nreview.\n\n(3) For the purposes of paragraph (2)(a), the criteria are:\n\n(a) the incident or series of incidents have seriously prejudiced,\n\nor could reasonably be expected to seriously prejudice:\n\n(i) the social or economic stability of Australia or its\n\npeople; or (ii) the defence of Australia; or (iii) national security; or (b) the incident or series of incidents involved novel or complex\n\nmethods or technologies, an understanding of which will significantly improve Australia’s preparedness, resilience, or response to cyber security incidents of a similar nature; or (c) the incident or series of incidents are, or could reasonably be\n\nexpected to be, of serious concern to the Australian people.\n\n54 Cyber Security Act 2024 No. 98, 2024"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 47",
+    "section_name": "Section 47",
+    "id_kind": "section_word",
+    "parent_id": "Part 5 (2)",
+    "body": "(4) Each review is to be conducted by a review panel that consists of:\n\n(a) the Chair; and (b) the standing members of the Board that are specified in the\n\nterms of reference for the review; and (c) the members of the Expert Panel appointed to assist in the\n\nreview under section 70. The terms of reference for the review must specify one or more standing members for the review.\n\n(5) The rules may make provision for or in relation to reviews under\n\nthis Part, including for or in relation to the following:\n\n(a) dealing with written referrals made to the Board; (b) prioritisation of referrals for review and reviews conducted;\n\n(c) terms of reference for reviews, including their variation; (d) notification of reviews;\n\n(e) the timing of when reviews may be conducted;\n\n(f) when reviews may be discontinued; (g) how information or submissions may be provided for\n\nreviews.\n\n47 Board may discontinue a review"
+  },
+  {
+    "depth": 3,
+    "section_id": "Cyber Incident Review Board: Part 5 (1) (1)",
+    "section_name": "The Board may discontinue a review at any time.",
+    "id_kind": "cjk_sub",
+    "parent_id": "Part 5 (2)",
+    "body": "(2) The Board must, within 28 days of discontinuing a review, publish\n\nin any way the Board considers appropriate notice of the review being discontinued.\n\n48 Chair may request information or documents\n\nIf the Board reasonably believes that:\n\n(a) an entity; or (b) a Commonwealth body or a State body; or\n\n(c) an officer or employee of a Commonwealth body or a State\n\nbody; has information or documents relevant to a review being conducted under section 46 by a review panel, the Chair may request, by notice in writing, the entity, body, officer or employee to give the\n\nNo. 98, 2024 Cyber Security Act 2024 55"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 49",
+    "section_name": "Section 49",
+    "id_kind": "section_word",
+    "parent_id": "Part 5 (2)",
+    "body": "Board such information or documents as are specified in the request.\n\nNote 1: There is no requirement to comply with the request.\n\nNote 2: The Chair may require certain entities to give documents under section 49.\n\n49 Chair may require certain entities to produce documents"
+  },
+  {
+    "depth": 3,
+    "section_id": "Cyber Incident Review Board: Part 5 (1) (2)",
+    "section_name": "This section applies if:",
+    "id_kind": "cjk_sub",
+    "parent_id": "Part 5 (2)",
+    "body": "(a) the Board reasonably believes that an entity involved in a\n\ncyber security incident that relates to a review being conducted under section 46 by a review panel has a document that is relevant to the review; and (b) the Chair of the Board has requested that the entity provide\n\nthe document under section 48; and (c) the entity is not:\n\n(i) a Commonwealth body or a State body; or (ii) an officer or employee of a Commonwealth body or a\n\nState body.\n\n(2) The Chair of the Board may, by notice in writing given to the\n\nentity, require the entity to:\n\n(a) produce any such documents; or (b) make copies of any such documents and to produce those\n\ncopies; to the Board within the period (which must not be less than 14 days), and in the manner, specified in the notice.\n\n(3) The notice must set out the effect of the following provisions:\n\n(a) section 50; (b) Part 6 of this Act (Regulatory powers);\n\n(c) sections 137.1 and 137.2 of the Criminal Code (false or\n\nmisleading information or documents).\n\n56 Cyber Security Act 2024 No. 98, 2024\n\nCompensation"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 50",
+    "section_name": "Section 50",
+    "id_kind": "section_word",
+    "parent_id": "Part 5 (2)",
+    "body": "(4) An entity is entitled to be paid by the Commonwealth reasonable\n\ncompensation for complying with a requirement covered by paragraph (2)(b).\n\n50 Civil penalty—failing to comply with a notice to produce documents"
+  },
+  {
+    "depth": 3,
+    "section_id": "Cyber Incident Review Board: Part 5 (1) (3)",
+    "section_name": "An entity is liable to a civil penalty if:",
+    "id_kind": "cjk_sub",
+    "parent_id": "Part 5 (2)",
+    "body": "(a) the entity is given a notice under subsection 49(2); and (b) the entity fails to comply with the notice.\n\nCivil penalty: 60 penalty units.\n\n(2) Subsection (1) does not apply in relation to the production of a\n\ndocument or a copy of a document if the production would, or could reasonably be expected to, prejudice one or more of the following:\n\n(a) the security, defence or international relations of the\n\nCommonwealth; (b) the capabilities of an intelligence agency;\n\n(c) the prevention, detection or investigation of, or the conduct\n\nof proceedings relating to, an offence or a contravention of a civil penalty provision; (d) the administration of justice.\n\n(3) Subsection 93(2) of the Regulatory Powers Act does not apply in\n\nrelation to a contravention of subsection (1) of this section.\n\n(4) Despite section 96 of the Regulatory Powers Act, in proceedings\n\nfor a civil penalty order against an entity for a contravention of subsection (1), the entity does not bear an evidential burden in relation to the matters in subsection (2).\n\nNote: This Act does not make the Crown (other than an authority of the Crown) liable to a civil penalty.\n\nNo. 98, 2024 Cyber Security Act 2024 57"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 51",
+    "section_name": "Section 51",
+    "id_kind": "section_word",
+    "parent_id": "Part 5 (2)",
+    "body": "51 Draft review reports\n\n(1) The Board must prepare a draft report (a draft review report) on a\n\nreview being conducted under section 46 by a review panel."
+  },
+  {
+    "depth": 3,
+    "section_id": "Cyber Incident Review Board: Part 5 (2) (2)",
+    "section_name": "The draft review report must set out:",
+    "id_kind": "cjk_sub",
+    "parent_id": "Part 5 (2)",
+    "body": "(a) the preliminary findings of the review; and (b) a summary of the information and material on which those\n\npreliminary findings are based; and (c) any recommendations the Board proposes to make; and (d) if the Board proposes to make recommendations—the\n\nreasons for those proposed recommendations; and (e) if the terms of reference for the review require particular\n\ninformation to be included in the draft review report—that information; and (f) information (if any) that is prescribed by the rules; and (g) such other information that the Board thinks fit to include in\n\nthe draft review report.\n\n(3) The Board must give the draft review report to the Minister.\n\n(4) The Board may give the draft review report, or an extract of the\n\ndraft review report, to any other Commonwealth body or a State body or entity:\n\n(a) if the Board considers it appropriate to give the body or\n\nentity an opportunity to make submissions on the draft review report or the extract; or (b) for the purposes of determining whether information\n\nproposed to be included in the final review report is sensitive review information.\n\nNote 1: The disclosure of sensitive review information may be prohibited under another Act (for example, the Privacy Act 1988). This section does not authorise disclosure if prohibited under that Act: see subsection (7) of this section.\n\nNote 2: Sensitive review information must be redacted from a final review report that is to be published by the Board: see section 53.\n\n(5) If the Board gives a draft review report to the Minister under\n\nsubsection (3), or a Commonwealth body, State body or entity under subsection (4), the Board must specify a reasonable period\n\n58 Cyber Security Act 2024 No. 98, 2024"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 52",
+    "section_name": "Section 52",
+    "id_kind": "section_word",
+    "parent_id": "Part 5 (2)",
+    "body": "within which submissions may be made to the Board on the draft review report.\n\n(6) Submissions must be given in the manner and form (if any)\n\nprescribed by the rules.\n\n(7) However, this section does not authorise the Board to record, use\n\nor disclose the information to the extent that it is prohibited or restricted by or under the Privacy Act 1988 or any other Act.\n\n52 Final review reports\n\n(1) After a review is completed under section 46 by the review panel,\n\nthe Board must prepare a report (a final review report) on the review.\n\nNote 1: The Board must redact sensitive review information from a final review report: see section 53.\n\nNote 2: If information is redacted from a final review report, the Board must also prepare a protected review report: see section 54.\n\n(2) In preparing the final review report, the Board must consider any\n\nsubmissions received under section 51 in relation to the draft review report.\n\n(3) Subject to section 53, the final review report must set out:\n\n(a) the findings of the review; and (b) a summary of the information and material on which those\n\nfindings are based; and (c) any recommendations made by the Board; and (d) if recommendations are made—the reasons for those\n\nrecommendations; and (e) if the terms of reference for the review require particular\n\ninformation to be included in the review report—that information; and (f) information (if any) that is prescribed by the rules; and (g) such other information that the Board thinks fit to include in\n\nthe report."
+  },
+  {
+    "depth": 3,
+    "section_id": "Cyber Incident Review Board: Part 5 (4) (1)",
+    "section_name": "The Board must not in the final review report:",
+    "id_kind": "cjk_sub",
+    "parent_id": "Part 5 (2)",
+    "body": "No. 98, 2024 Cyber Security Act 2024 59"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 53",
+    "section_name": "Section 53",
+    "id_kind": "section_word",
+    "parent_id": "Part 5 (2)",
+    "body": "(a) apportion blame in relation to a cyber security incident that\n\nwas the subject of the review; or (b) provide the means to determine the liability of any entity in\n\nrelation to such a cyber security incident; or (c) identify an individual (unless the individual has consented);\n\nor (d) allow any adverse inference to be drawn from the fact that an\n\nentity is the subject of the review. However, even though blame or liability may be inferred, or an adverse inference may be made, by a person other than the Board, this does not prevent the Board from including information in the final review report.\n\n(5) This section does not otherwise limit what may be included in the\n\nfinal review report.\n\n(6) The Board must publish the final review report (excluding any\n\ninformation required to be redacted under section 53). The report may be published in any way the Board considers appropriate.\n\n53 Certain information must be redacted from final review reports\n\n(1) Information must be redacted from a final review report if the\n\nChair is satisfied that the information is sensitive review information.\n\nNote: If information is redacted from a final review report, the Board must prepare a protected review report that includes the information, see section 54.\n\n(2) Sensitive review information is information the disclosure of\n\nwhich:\n\n(a) could prejudice the security, defence or international\n\nrelations of Australia; or (b) would prejudice relations between the Commonwealth\n\ngovernment and the government of a State or Territory; or (c) could reveal, or enable a person to ascertain, the existence or\n\nidentity of a confidential source of information in relation to the enforcement of the criminal law; or (d) could endanger a person’s life or physical safety; or\n\n60 Cyber Security Act 2024 No. 98, 2024"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 54",
+    "section_name": "Section 54",
+    "id_kind": "section_word",
+    "parent_id": "Part 5 (2)",
+    "body": "(e) would prejudice the fair trial of any person or the impartial\n\nadjudication of a matter; or (f) would involve disclosing information whose disclosure is\n\nprohibited or restricted by or under this Act, another Act or an instrument made under an Act; or (g) would involve unreasonably disclosing information that is\n\nconfidential or commercially sensitive; or (h) would involve the disclosure of personal information about\n\nan individual without their consent.\n\n54 Protected review reports\n\n(1) If information must be redacted from a final review report under\n\nsection 53, the Board must prepare another report (a protected review report) that includes:\n\n(a) the redacted information; and (b) the reasons for redacting the information from the final\n\nreview report.\n\n(2) If a protected review report is prepared under this section, the\n\nBoard must give the Minister, and the Prime Minister, a copy of:\n\n(a) the final review report prepared under section 52; and (b) a copy of the protected review report.\n\n(3) The Minister may give a copy of the protected review report, or an\n\nextract of the protected review report, to any other Commonwealth body, a State body or an entity but only for the purposes of one or more of the following:\n\n(a) the performance of the functions of a Commonwealth body\n\nrelating to responding to, mitigating or resolving a cyber security incident; (b) the performance of the functions of a State body relating to\n\nresponding to, mitigating or resolving a cyber security incident; (c) informing and advising the Minister, and other Ministers of\n\nthe Commonwealth, about a cyber security incident; (d) the performance of the functions of an intelligence agency.\n\nNo. 98, 2024 Cyber Security Act 2024 61"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 55",
+    "section_name": "Section 55",
+    "id_kind": "section_word",
+    "parent_id": "Part 5 (2)",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "Cyber Incident Review Board: Division 3",
+    "section_name": "Protection of information relating to reviews",
+    "id_kind": "part",
+    "parent_id": "",
+    "body": "55 Limitations on use and disclosure by the Board\n\nPermitted use and disclosure\n\n(1) The Board may make a record of, use or disclose information\n\nprovided by an entity, Commonwealth body or State body under section 48, 49 or 51 but only:\n\n(a) for the purposes of one or more of the following:\n\n(i) performing functions or exercising powers under this\n\nPart or Part 6 as it applies to this Part; (ii) proceedings under, or arising out of, section 137.1 or\n\n137.2 of the Criminal Code (false and misleading information and documents) that relate to this Act; (iii) proceedings for an offence against section 149.1 of the\n\nCriminal Code (which deals with obstruction of Commonwealth public officials) that relates to this Act; (iv) the performance of the functions of a Commonwealth\n\nbody relating to responding to, mitigating or resolving a cyber security incident; (v) the performance of the functions of a State body relating\n\nto responding to, mitigating or resolving a cyber security incident; (vi) informing and advising the Minister, and other\n\nMinisters of the Commonwealth, about a cyber security incident; (vii) the performance of the functions of an intelligence\n\nagency; or (b) as otherwise authorised by a provision of this Part.\n\nNote: Certain information must not be disclosed to a State body under Parts of this Act unless a Minister of the State or Territory has consented to those Parts applying to the State body: see section 11.\n\nRestriction on use and disclosure for civil or regulatory action\n\n(2) However, the Board must not make a record of, use or disclose the\n\ninformation for the purposes of investigating or enforcing, or\n\n62 Cyber Security Act 2024 No. 98, 2024"
+  },
+  {
+    "depth": 3,
+    "section_id": "Cyber Incident Review Board: Part 5 Section 56 (1)",
+    "section_name": "Section 56",
+    "id_kind": "section_word",
+    "parent_id": "Part 5 (2)",
+    "body": "assisting in the investigation or enforcement of, any contravention by the entity or body of a Commonwealth, State or Territory law other than:\n\n(a) a contravention by the entity or body of this Part; or (b) a contravention by the entity or body of a law that imposes a\n\npenalty or sanction for a criminal offence.\n\nNote: See also section 58 in relation to admissibility of the information in proceedings.\n\nInteraction with the Privacy Act 1988\n\n(3) Subsection (1) does not authorise the Board to record, use or\n\ndisclose the information to the extent that it is prohibited or restricted by or under the Privacy Act 1988.\n\nInformation not covered by the prohibitions in this section\n\n(4) Subsection (1) does not prohibit the recording, use or disclosure of\n\ninformation that has already been lawfully made available to the public.\n\n56 Limitations on secondary use and disclosure"
+  },
+  {
+    "depth": 3,
+    "section_id": "Cyber Incident Review Board: Part 5 (1) (4)",
+    "section_name": "This section applies to information that:",
+    "id_kind": "cjk_sub",
+    "parent_id": "Part 5 (2)",
+    "body": "(a) has been provided to the Board under section 48, 49 or 51;\n\nand (b) has been obtained under section 54 or 55, or this section, by\n\nan entity, a Commonwealth body or a State body; and (c) is held by the entity, Commonwealth body or State body.\n\nNote: This section does not apply to the information to the extent that it has been otherwise obtained by the entity, Commonwealth body or State body.\n\nPermitted use and disclosure\n\n(2) The entity, Commonwealth body or State body may make a record\n\nof, use or disclose the information but only:\n\n(a) for the purposes of one or more of the following:\n\nNo. 98, 2024 Cyber Security Act 2024 63"
+  },
+  {
+    "depth": 3,
+    "section_id": "Cyber Incident Review Board: Part 5 Section 56 (2)",
+    "section_name": "Section 56",
+    "id_kind": "section_word",
+    "parent_id": "Part 5 (2)",
+    "body": "(i) performing functions or exercising powers, or assisting\n\nin the performance of functions or the exercise of powers, under this Part or Part 6 as it applies to this Part; (ii) proceedings under, or arising out of, section 137.1 or\n\n137.2 of the Criminal Code (false and misleading information and documents) that relate to this Act; (iii) proceedings for an offence against section 149.1 of the\n\nCriminal Code (which deals with obstruction of Commonwealth public officials) that relates to this Act; (iv) the performance of the functions of a Commonwealth\n\nbody relating to responding to, mitigating or resolving a cyber security incident; (v) the performance of the functions of a State body relating\n\nto responding to, mitigating or resolving a cyber security incident; (vi) informing and advising the Minister, and other\n\nMinisters of the Commonwealth, about a cyber security incident; (vii) the performance of the functions of an intelligence\n\nagency; or (b) as otherwise authorised by a provision of this Part.\n\nRestriction on use and disclosure for civil or regulatory action\n\n(3) However, the entity, Commonwealth body or State body must not\n\nmake a record of, use or disclose the information for the purposes of investigating or enforcing, or assisting in the investigation or enforcement of, any contravention, by the entity or body that originally provided the information under section 48, 49 or 51, of a Commonwealth, State or Territory law other than:\n\n(a) a contravention by the entity or body of this Part; or (b) a contravention by the entity or body of a law that imposes a\n\npenalty or sanction for a criminal offence.\n\nNote: See also section 58 in relation to admissibility of the information in proceedings.\n\n64 Cyber Security Act 2024 No. 98, 2024"
+  },
+  {
+    "depth": 3,
+    "section_id": "Cyber Incident Review Board: Part 5 Section 56 (3)",
+    "section_name": "Section 56",
+    "id_kind": "section_word",
+    "parent_id": "Part 5 (2)",
+    "body": "Interaction with the Privacy Act 1988\n\n(4) Subsection (2) does not authorise the entity, Commonwealth body\n\nor State body to record, use or disclose the information to the extent that it is prohibited or restricted by or under the Privacy Act 1988.\n\nInformation not covered by the prohibitions in this section"
+  },
+  {
+    "depth": 3,
+    "section_id": "Part 5 (5)",
+    "section_name": "Subsection (2) does not prohibit:",
+    "id_kind": "cjk_sub",
+    "parent_id": "Part 5 (2)",
+    "body": "(a) recording, use or disclosure of information that has already\n\nbeen lawfully made available to the public (for example, in the publication of the final review report); or (b) if the entity is an individual—recording, use or disclosure of\n\npersonal information about the individual; or (c) if the entity or body is the entity or body that originally\n\nprovided the information under section 48, 49 or 51—the entity’s or body’s own information; or (d) recording, use or disclosure of that entity’s or body’s own\n\ninformation, with the consent of that entity or body, by another entity, a Commonwealth body or a State body; or (e) recording, use or disclosure of information for the purposes\n\nof carrying out a State’s constitutional functions, powers or duties.\n\nCivil penalty for contravention of this section"
+  },
+  {
+    "depth": 3,
+    "section_id": "Part 5 (6)",
+    "section_name": "An entity is liable to a civil penalty if:",
+    "id_kind": "cjk_sub",
+    "parent_id": "Part 5 (2)",
+    "body": "(a) the entity contravenes subsection (2); and (b) the entity is not a Commonwealth officer; and\n\n(c) any of the following applies:\n\n(i) the information is sensitive information about an\n\nindividual and the individual has not consented to the record, use or disclosure of the information; (ii) the information is confidential or commercially\n\nsensitive; (iii) the record, use or disclosure of the information would,\n\nor could reasonably be expected to, cause damage to the\n\nNo. 98, 2024 Cyber Security Act 2024 65"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 57",
+    "section_name": "Section 57",
+    "id_kind": "section_word",
+    "parent_id": "Part 5 (2)",
+    "body": "security, defence or international relations of the Commonwealth.\n\nNote 1: See the Criminal Code for offences for Commonwealth officers.\n\nNote 2: This Act does not make the Crown (other than an authority of the Crown) liable to a civil penalty.\n\nCivil penalty: 60 penalty units.\n\n57 Legal professional privilege\n\n(1) The fact that an entity provided information to the Board under\n\nsection 48, 49 or 51 does not otherwise affect a claim of legal professional privilege that anyone may make in relation to that information in any proceedings:\n\n(a) under any Commonwealth, State or Territory law (including\n\nthe common law); or (b) before a tribunal of the Commonwealth, a State or a\n\nTerritory.\n\n(2) Despite subsection (1), this section does not apply to the following:\n\n(a) the proceedings of a coronial inquiry or a Royal Commission\n\nin Australia; (b) proceedings in a federal court exercising original jurisdiction\n\nin which a writ of mandamus or prohibition or an injunction is sought against an officer or officers of the Commonwealth.\n\nNote: For federal court, see section 2B of the Acts Interpretation Act 1901.\n\n(3) This section does not limit or affect any right, privilege or\n\nimmunity that the entity has, apart from this section, as a defendant in any proceedings.\n\n58 Admissibility of information given by an entity that has been requested or required by the Board"
+  },
+  {
+    "depth": 3,
+    "section_id": "Cyber Incident Review Board: Part 5 (1) (5)",
+    "section_name": "This section applies to information that:",
+    "id_kind": "cjk_sub",
+    "parent_id": "Part 5 (2)",
+    "body": "(a) has been provided by an entity to the Board under section 48,\n\n49 or 51; and\n\n66 Cyber Security Act 2024 No. 98, 2024"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 58",
+    "section_name": "Section 58",
+    "id_kind": "section_word",
+    "parent_id": "Part 5 (2)",
+    "body": "(b) has been obtained under section 48, 49, 51, 54, 55 or 56 by a\n\nCommonwealth body or a State body; and (c) is held by the Commonwealth body or State body.\n\nNote: This section does not apply to information held by the Commonwealth body or State body to the extent that it has been otherwise obtained.\n\n(2) The information is not admissible in evidence against the entity in\n\nany of the following proceedings:\n\n(a) criminal proceedings for an offence under a Commonwealth\n\nlaw, other than:\n\n(i) proceedings for an offence against section 137.1 or\n\n137.2 of the Criminal Code (which deal with false or misleading information or documents) that relates to this Act; or (ii) proceedings for an offence against section 149.1 of the\n\nCriminal Code (which deals with obstruction of Commonwealth public officials) that relates to this Act; (b) civil proceedings for a contravention of a civil penalty\n\nprovision of a Commonwealth law, other than a civil penalty provision of this Part; (c) proceedings for a breach of any other Commonwealth, State\n\nor Territory law (including the common law); (d) proceedings before a tribunal of the Commonwealth, a State\n\nor a Territory."
+  },
+  {
+    "depth": 3,
+    "section_id": "Cyber Incident Review Board: Part 5 (4) (2)",
+    "section_name": "This section does not apply to the following:",
+    "id_kind": "cjk_sub",
+    "parent_id": "Part 5 (2)",
+    "body": "(a) the proceedings of a coronial inquiry or a Royal Commission\n\nin Australia; (b) proceedings in a federal court exercising original jurisdiction\n\nin which a writ of mandamus or prohibition or an injunction is sought against an officer or officers of the Commonwealth.\n\nNote: For federal court, see section 2B of the Acts Interpretation Act 1901.\n\n(5) This section does not limit or affect any right, privilege or\n\nimmunity that the entity has, apart from this section, as a defendant in any proceedings.\n\nNo. 98, 2024 Cyber Security Act 2024 67"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 59",
+    "section_name": "Section 59",
+    "id_kind": "section_word",
+    "parent_id": "Part 5 (2)",
+    "body": "59 Disclosure of draft review reports prohibited"
+  },
+  {
+    "depth": 3,
+    "section_id": "Cyber Incident Review Board: Part 5 (1) (6)",
+    "section_name": "An entity is liable to a civil penalty if:",
+    "id_kind": "cjk_sub",
+    "parent_id": "Part 5 (2)",
+    "body": "(a) the entity receives a draft review report under section 51; and (b) the entity makes a record of, discloses or otherwise uses any\n\ninformation in the draft review report.\n\nCivil penalty: 60 penalty units.\n\n(2) Subsection (1) does not apply if the making of the record,\n\ndisclosure or use is:\n\n(a) for the purpose of preparing a submission to the Board in\n\naccordance with section 51; or (b) if the entity is the entity that originally provided the\n\ninformation under section 48 or 49—of the entity’s own information; or (c) with the consent of the Chair of the Board; or (d) after the information has already been lawfully made\n\navailable to the public (for example, in the publication of the final review report); (e) for the purposes of carrying out a State’s constitutional\n\nfunctions, powers or duties.\n\n(3) Despite section 96 of the Regulatory Powers Act, in proceedings\n\nfor a civil penalty order against an entity for a contravention of subsection (1), the entity does not bear an evidential burden in relation to the matters in subsection (2).\n\nNote: This Act does not make the Crown (other than an authority of the Crown) liable to a civil penalty.\n\n68 Cyber Security Act 2024 No. 98, 2024\n\nEstablishment, functions and powers of the Board Division 4"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 60",
+    "section_name": "Section 60",
+    "id_kind": "section_word",
+    "parent_id": "Part 5 (2)",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "Cyber Incident Review Board: Division 4",
+    "section_name": "Establishment, functions and powers of the",
+    "id_kind": "part",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Board",
+    "id_kind": "",
+    "parent_id": "Part 5 (2)",
+    "body": "60 Cyber Incident Review Board\n\n(1) The Cyber Incident Review Board is established by this section.\n\n(2) For the purposes of paragraph (a) of the definition of Department\n\nof State in section 8 of the Public Governance, Performance and Accountability Act 2013, the Cyber Incident Review Board is prescribed in relation to the Department.\n\nNote: Subject to subsection (2), this means that the chair and members of the Board are officials of the Department for the purposes of the Public Governance, Performance and Accountability Act 2013.\n\n61 Constitution of the Board\n\nThe Board consists of the following members:\n\n(a) a Chair; (b) at least 2, and not more than 6, other standing members.\n\n62 Functions of the Board"
+  },
+  {
+    "depth": 3,
+    "section_id": "Cyber Incident Review Board: Part 5 (1) (7)",
+    "section_name": "The functions of the Board are:",
+    "id_kind": "cjk_sub",
+    "parent_id": "Part 5 (2)",
+    "body": "(a) to cause reviews to be conducted by review panels in relation\n\nto cyber security incidents, or series of related cyber security incidents, to:\n\n(i) identify factors that contributed to the incident or series\n\nof incidents; and (ii) make recommendations to government and industry\n\nabout actions that could be taken to prevent, detect, respond to or minimise the impact of, incidents of a similar nature in the future; and (iii) report publicly on the review; and (b) any other functions conferred on the Board by this Act or the\n\nrules.\n\nNote: See section 46 in relation to the circumstances in which a cyber security incident may be reviewed.\n\nNo. 98, 2024 Cyber Security Act 2024 69\n\nDivision 4 Establishment, functions and powers of the Board"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 63",
+    "section_name": "Section 63",
+    "id_kind": "section_word",
+    "parent_id": "Part 5 (2)",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "Cyber Incident Review Board: Part 5 (2) (3)",
+    "section_name": "It is not a function of the Board to:",
+    "id_kind": "cjk_sub",
+    "parent_id": "Part 5 (2)",
+    "body": "(a) apportion blame in relation to a cyber security incident; or (b) provide the means to determine the liability of any entity in\n\nrelation to a cyber security incident; or (c) allow any adverse inference to be drawn from the fact that an\n\nentity is the subject of a review. However, even though blame or liability may be inferred, or an adverse inference may be made, by a person other than the Board, this does not prevent the Board from carrying out its functions.\n\n(3) The Board has power to do all things necessary or convenient to be\n\ndone for or in connection with the performance of the Board’s functions.\n\n(4) The Board must not perform a function or exercise a power under\n\nthis Part at a particular time if the performance of the function or the exercise of the power at that time would prejudice the investigation of, or the conduct of proceedings relating to, an offence or a contravention of a civil penalty provision under a law of the Commonwealth or of a State or Territory.\n\n(5) The rules may prescribe the circumstances in which cyber security\n\nincidents are a series of related incidents for the purposes of this section.\n\nNote: For example, the rules may prescribe that cyber security incidents are a series of related incidents if the incidents involve a common type of impacted system or a common attack method.\n\n63 Independence\n\nSubject to this Act and to other laws of the Commonwealth, the Cyber Incident Review Board:\n\n(a) has complete discretion in the performance of the Board’s\n\nfunctions and the exercise of the Board’s powers; and (b) is not subject to direction by any person in relation to the\n\nperformance or exercise of those functions or powers.\n\nNote: The Minister must approve the terms of reference for a review to be undertaken by the Board: see subsection 46(2).\n\n70 Cyber Security Act 2024 No. 98, 2024\n\nDivision 5"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 64",
+    "section_name": "Section 64",
+    "id_kind": "section_word",
+    "parent_id": "Part 5 (2)",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "Cyber Incident Review Board: Division 5",
+    "section_name": "Terms and conditions of appointment of the",
+    "id_kind": "part",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Chair and members of the Board",
+    "id_kind": "",
+    "parent_id": "Part 5 (2)",
+    "body": "64 Appointment of Chair\n\n(1) The Chair of the Board is to be appointed by the Minister by\n\nwritten instrument.\n\nNote: The Chair may be reappointed: see section 33AA of the Acts Interpretation Act 1901.\n\n(2) The Chair may be appointed on a full-time or part-time basis.\n\n(3) The Chair holds office for the period specified in the instrument of\n\nappointment. The period must not exceed 4 years.\n\n(4) The rules may make provision for or in relation to the appointment\n\nof the Chair, including in relation to eligibility for appointment.\n\n65 Remuneration of the Chair\n\n(1) The Chair of the Board is to be paid the remuneration that is\n\ndetermined by the Remuneration Tribunal. If no determination of that remuneration by the Tribunal is in operation, the Chair is to be paid the remuneration that is prescribed by the rules.\n\n(2) The Chair is to be paid the allowances that are prescribed by the\n\nrules.\n\n(3) This section has effect subject to the Remuneration Tribunal Act\n\n1973.\n\n66 Appointment of standing members of the Board\n\n(1) A standing member of the Board is to be appointed by the Minister\n\nby written instrument.\n\nNote: A member may be reappointed: see section 33AA of the Acts Interpretation Act 1901.\n\n(2) A standing member of the Board may be appointed on a full-time\n\nor part-time basis.\n\nNo. 98, 2024 Cyber Security Act 2024 71\n\nDivision 5 Terms and conditions of appointment of the Chair and members of the Board"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 67",
+    "section_name": "Section 67",
+    "id_kind": "section_word",
+    "parent_id": "Part 5 (2)",
+    "body": "(3) A standing member of the Board holds office for the period\n\nspecified in the instrument of appointment. The period must not exceed 4 years.\n\n(4) The rules may make provision for or in relation to the appointment\n\nof standing members of the Board, including in relation to eligibility for appointment.\n\n67 Remuneration of standing members of the Board\n\n(1) A standing member of the Board is to be paid the remuneration that\n\nis determined by the Remuneration Tribunal. If no determination of that remuneration by the Tribunal is in operation, a standing member of the Board is to be paid the remuneration that is prescribed by the rules.\n\n(2) A standing member of the Board is to be paid the allowances that\n\nare prescribed by the rules.\n\n(3) This section has effect subject to the Remuneration Tribunal Act\n\n1973.\n\n68 Acting Chair\n\nThe Minister may, by written instrument, appoint a standing member of the Board to act as the Chair:\n\n(a) during a vacancy in the office of Chair (whether or not an\n\nappointment has previously been made to the office); or (b) during any period, or during all periods, when the Chair:\n\n(i) is absent from duty or from Australia; or (ii) is, for any reason, unable to perform the duties of the\n\noffice.\n\nNote: For rules that apply to acting appointments, see section 33A of the Acts Interpretation Act 1901.\n\n69 Terms and conditions etc. for standing members\n\n(1) The rules may make provision for or in relation to the Board,\n\nincluding for or in relation to the following:\n\n72 Cyber Security Act 2024 No. 98, 2024\n\nDivision 5"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 69",
+    "section_name": "Section 69",
+    "id_kind": "section_word",
+    "parent_id": "Part 5 (2)",
+    "body": "(a) membership of the Board (subject to section 61); (b) terms of appointment of the Chair and standing members;\n\n(c) acting appointments; (d) resignation of the Chair and standing members;\n\n(e) disclosure of interests by the Chair and standing members;\n\n(f) termination of appointment of the Chair and standing\n\nmembers; (g) leave of absence of the Chair and standing members.\n\n(2) The Chair and a standing member of the Board holds office on the\n\nterms and conditions (if any) that are determined by the Minister in relation to matters not covered by this Act or the rules.\n\nNo. 98, 2024 Cyber Security Act 2024 73\n\nDivision 6 Expert Panel, staff assisting and consultants"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 70",
+    "section_name": "Section 70",
+    "id_kind": "section_word",
+    "parent_id": "Part 5 (2)",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "Division 6",
+    "section_name": "Expert Panel, staff assisting and consultants",
+    "id_kind": "part",
+    "parent_id": "",
+    "body": "70 Expert Panel\n\n(1) The Board may, in writing, establish an Expert Panel.\n\n(2) The Expert Panel consists of such members as the Board from time\n\nto time appoints by written instrument.\n\nNote: A member of the Expert Panel may be reappointed: see section 33AA of the Acts Interpretation Act 1901.\n\n(3) One or more members of the Expert Panel are to be appointed by\n\nthe Board, in writing and in accordance with the terms of reference for a review under section 46, to the review panel for the review to assist in the review.\n\n(4) The office of member of the Expert Panel, and the office of\n\nmember of the Expert Panel assisting in relation to a review, are not public offices within the meaning of the Remuneration Tribunal Act 1973.\n\n(5) The rules may make provision for or in relation to the Expert\n\nPanel, including for or in relation to the following:\n\n(a) membership of the Expert Panel; (b) appointment of members to the Expert Panel;\n\n(c) appointments of its members to a review panel for a review; (d) terms of appointment of members;\n\n(e) remuneration of members;\n\n(f) resignation of members; (g) disclosure of interests by members; (h) termination of appointment of members;\n\n(i) leave of absence of members.\n\n71 Arrangements relating to staff of the Department\n\n(1) The staff assisting the Cyber Incident Review Board are to be APS\n\nemployees, or officers or employees of a Commonwealth body, whose services are made available to the Board in connection with\n\n74 Cyber Security Act 2024 No. 98, 2024\n\nExpert Panel, staff assisting and consultants Division 6"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 72",
+    "section_name": "Section 72",
+    "id_kind": "section_word",
+    "parent_id": "Part 5 (2)",
+    "body": "the performance of any of the Board’s functions or the exercise of any of the Board’s powers.\n\n(2) When performing services for the Board, the staff are subject to the\n\ndirections of the Board.\n\n72 Consultants\n\nThe Secretary of the Department may, on behalf of the Commonwealth, engage consultants to assist in the performance of any of the Cyber Incident Review Board’s functions or the exercise of any of the Board’s powers.\n\nNo. 98, 2024 Cyber Security Act 2024 75"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 73",
+    "section_name": "Section 73",
+    "id_kind": "section_word",
+    "parent_id": "Part 5 (2)",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "Division 7",
+    "section_name": "Other matters relating to the Board",
+    "id_kind": "part",
+    "parent_id": "",
+    "body": "73 Board procedures"
+  },
+  {
+    "depth": 3,
+    "section_id": "Cyber Incident Review Board: Part 5 (1) (8)",
+    "section_name": "Subject to this Act and the rules, the Board may:",
+    "id_kind": "cjk_sub",
+    "parent_id": "Part 5 (2)",
+    "body": "(a) operate in the way it determines; and (b) regulate proceedings at its meetings as it considers\n\nappropriate.\n\n(2) The rules may make provision for or in relation to the operation\n\nand procedures of the Board.\n\n74 Liability\n\nResponding to notices to produce\n\n(1) An entity is not liable to an action or other proceeding for damages\n\nfor or in relation to an act done or omitted in good faith in compliance with section 49 (Chair may obtain documents from certain entities).\n\n(2) An officer, employee or agent of an entity is not liable to an action\n\nfor damages for or in relation to an act done or omitted in good faith in connection with an act done or omitted by the entity as mentioned in subsection (1).\n\nThe Board etc."
+  },
+  {
+    "depth": 3,
+    "section_id": "Part 5 (3)",
+    "section_name": "A person who is or has been:",
+    "id_kind": "cjk_sub",
+    "parent_id": "Part 5 (2)",
+    "body": "(a) the Chair; or (b) a standing member of the Board; or\n\n(c) a member of the Expert Panel; or (d) a member of the staff assisting the Board (as mentioned in\n\nsection 71); or (e) a consultant assisting the Board (as mentioned in section 72);\n\nor (f) a witness appearing in a review; is not liable to an action or other proceeding for damages for or in relation to an act done or omitted in good faith in the performance\n\n76 Cyber Security Act 2024 No. 98, 2024\n\nOther matters relating to the Board Division 7"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 75",
+    "section_name": "Section 75",
+    "id_kind": "section_word",
+    "parent_id": "Part 5 (2)",
+    "body": "or purported performance of a function or duty conferred by this Part, or the exercise or purported exercise of a power conferred by this Part.\n\nEvidential burden\n\n(4) An entity or person who wishes to rely on subsection (1), (2) or (3)\n\nin relation to an action or other proceeding bears an evidential burden (within the meaning of the Regulatory Powers Act) in relation to that matter.\n\n75 Certification of involvement in review\n\n(1) The Chair may issue a certificate stating that a specified person\n\nwho is, or has been:\n\n(a) a standing member of the Board; or (b) a member of the Expert Panel; or\n\n(c) a member of the staff assisting the Board (as mentioned in\n\nsection 71); or (d) a consultant assisting the Board (as mentioned in section 72);\n\nor (e) a witness appearing in a review; is involved, or has been involved, in a review under this Part into a specified matter.\n\n(2) The Secretary may issue a certificate stating that a specified person\n\nwho is, or has been, the Chair is involved, or has been involved, in a review under this Part into a specified matter.\n\n(3) If, under subsection (1) or (2), a certificate is issued in relation to a\n\nperson and a specified matter, the person:\n\n(a) is not obliged to comply with a subpoena or similar direction\n\nof a federal court or a court of a State or Territory to attend and answer questions relating to the matter; and (b) is not compellable to give an expert opinion in any civil or\n\ncriminal proceedings in a federal court or a court of a State or Territory in relation to the matter."
+  },
+  {
+    "depth": 3,
+    "section_id": "Cyber Incident Review Board: Part 5 (4) (3)",
+    "section_name": "This section does not apply to a coronial inquiry.",
+    "id_kind": "cjk_sub",
+    "parent_id": "Part 5 (2)",
+    "body": "No. 98, 2024 Cyber Security Act 2024 77"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 76",
+    "section_name": "Section 76",
+    "id_kind": "section_word",
+    "parent_id": "Part 5 (2)",
+    "body": "76 Annual report\n\nThe annual report prepared by the Secretary and given to the Minister under section 46 of the Public Governance, Performance and Accountability Act 2013 for a reporting period must also include the following:\n\n(a) the number of each of the following during the period:\n\n(i) reviews commenced; (ii) reviews completed; (iii) reviews discontinued; (b) a brief description of each of those reviews;\n\n(c) the status of any reviews not yet completed at the end of the\n\nperiod; (d) the reasons for discontinuing any reviews during the period;\n\n(e) the number of times the Minister refused to approve the\n\nterms of reference for a review during the period; (f) the number of members of the Expert Panel during the\n\nperiod; (g) the number of Expert Panel members appointed to a review\n\npanel during the period; (h) the number of times appointment of a member of the Board\n\nwas terminated during the period.\n\n77 Rules may prescribe reporting requirements etc.\n\nThe rules may prescribe requirements with which the Board must comply relating to:\n\n(a) the communication of information to the public; and (b) reporting to the Minister; about the work of the Board.\n\n78 Cyber Security Act 2024 No. 98, 2024"
+  },
+  {
+    "depth": 2,
+    "section_id": "Part 6 (2)",
+    "section_name": "Regulatory powers",
+    "id_kind": "part",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "Regulatory powers: Division 1",
+    "section_name": "Preliminary",
+    "id_kind": "part",
+    "parent_id": "",
+    "body": "78 Simplified outline of this Part"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 78",
+    "section_name": "Section 78",
+    "id_kind": "section_word",
+    "parent_id": "Part 6 (2)",
+    "body": "Each civil penalty provision of this Act, and of Division 1A of Part 6 of the Intelligence Services Act 2001, is subject to:\n\n(a) monitoring under Part 2 of the Regulatory Powers Act; and (b) investigation under Part 3 of the Regulatory Powers Act.\n\nSections 15 and 16 of this Act (regarding security standards) are also subject to monitoring under Part 2 of the Regulatory Powers Act.\n\nCivil penalty orders may be sought under Part 4 of the Regulatory Powers Act from a relevant court in relation to contraventions of such civil penalty provisions.\n\nInfringement notices may be given under Part 5 of the Regulatory Powers Act for alleged contraventions of such civil penalty provisions.\n\nUndertakings to comply with such civil penalty provisions, and sections 15 and 16 (regarding security standards), may be accepted and enforced under Part 6 of the Regulatory Powers Act.\n\nInjunctions under Part 7 of the Regulatory Powers Act may be used to restrain a person from contravening, or to compel compliance with, such civil penalty provisions.\n\nNo. 98, 2024 Cyber Security Act 2024 79"
+  },
+  {
+    "depth": 3,
+    "section_id": "Regulatory powers: Part 6 Section 79 (1)",
+    "section_name": "Section 79",
+    "id_kind": "section_word",
+    "parent_id": "Part 6 (2)",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "Regulatory powers: Division 2",
+    "section_name": "Civil penalty provisions, enforceable",
+    "id_kind": "part",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "undertakings and injunctions",
+    "id_kind": "",
+    "parent_id": "Part 6 (2)",
+    "body": "79 Civil penalty provisions, enforceable undertakings and injunctions\n\nEnforceable provisions\n\n(1) Each civil penalty provision of this Act, and each civil penalty\n\nprovision of Division 1A of Part 6 of the Intelligence Services Act 2001, is enforceable: (a) under Part 4 of the Regulatory Powers Act (civil penalty\n\nprovisions); and (b) Part 7 (injunctions) of the Regulatory Powers Act.\n\nNote 1: Part 4 of the Regulatory Powers Act allows a civil penalty provision to be enforced by obtaining an order for a person to pay a pecuniary penalty for the contravention of the provision.\n\nNote 2: Part 7 of that Act creates a framework for using injunctions to enforce provisions.\n\n(2) The following provisions are enforceable under Part 6 (enforceable\n\nundertakings) of the Regulatory Powers Act:\n\n(a) each civil penalty provision of this Act, and each civil\n\npenalty provision of Division 1A of Part 6 of the Intelligence Services Act 2001; (b) sections 15 and 16 of this Act.\n\nNote: Part 6 of the Regulatory Powers Act creates a framework for accepting and enforcing undertakings relating to compliance with provisions.\n\nAuthorised applicant\n\n(3) For the purposes of Parts 4 and 7 of the Regulatory Powers Act,\n\neach of the following persons is an authorised applicant in relation to the civil penalty provisions mentioned in subsection (1):\n\n(a) the Secretary; (b) a person who is appointed under subsection (4).\n\n80 Cyber Security Act 2024 No. 98, 2024\n\nCivil penalty provisions, enforceable undertakings and injunctions Division 2"
+  },
+  {
+    "depth": 3,
+    "section_id": "Regulatory powers: Part 6 Section 79 (2)",
+    "section_name": "Section 79",
+    "id_kind": "section_word",
+    "parent_id": "Part 6 (2)",
+    "body": "(4) For the purposes of paragraph (3)(b), the Secretary may, by\n\nwriting, appoint a person who:\n\n(a) is the chief executive officer (however described) of a\n\ndesignated Commonwealth body; or (b) is an SES employee, or an acting SES employee, in:\n\n(i) the Department; or (ii) a designated Commonwealth body; or (c) holds, or is acting in, a position in a designated\n\nCommonwealth body that is equivalent to, or higher than, a position occupied by an SES employee; to be an authorised applicant for the purposes of Part 4 of the Regulatory Powers Act.\n\nNote: The expressions SES employee and acting SES employee are defined in section 2B of the Acts Interpretation Act 1901.\n\nAuthorised person\n\n(5) For the purposes of Part 6 of the Regulatory Powers Act, as that\n\nPart applies in relation to a provision mentioned in subsection (2), each of the following persons is an authorised person:\n\n(a) the Secretary; (b) a person who is appointed under subsection (6).\n\n(6) For the purposes of paragraph (5)(b), the Secretary may, by\n\nwriting, appoint a person who is an SES employee, or an acting SES employee in:\n\n(a) the Department; or (b) a designated Commonwealth body.\n\nNote: The expressions SES employee and acting SES employee are defined in section 2B of the Acts Interpretation Act 1901.\n\nRelevant court\n\n(7) For the purposes of Parts 4, 6 and 7 of the Regulatory Powers Act,\n\neach of the following courts is a relevant court in relation to the provisions mentioned in subsections (1) and (2):\n\n(a) the Federal Court of Australia;\n\nNo. 98, 2024 Cyber Security Act 2024 81"
+  },
+  {
+    "depth": 3,
+    "section_id": "Regulatory powers: Part 6 Section 79 (3)",
+    "section_name": "Section 79",
+    "id_kind": "section_word",
+    "parent_id": "Part 6 (2)",
+    "body": "(b) the Federal Circuit and Family Court of Australia\n\n(Division 2); (c) a court of a State or Territory that has jurisdiction in relation\n\nto the matter.\n\nLiability of Crown\n\n(8) Part 4 of the Regulatory Powers Act, as that Part applies in relation\n\nto the civil penalty provisions mentioned in subsection (1), does not make the Crown liable to a pecuniary penalty.\n\n(9) The protection in subsection (8) does not apply to an authority of\n\nthe Crown.\n\n82 Cyber Security Act 2024 No. 98, 2024"
+  },
+  {
+    "depth": 3,
+    "section_id": "Regulatory powers: Part 6 Section 80 (1)",
+    "section_name": "Section 80",
+    "id_kind": "section_word",
+    "parent_id": "Part 6 (2)",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "Regulatory powers: Division 3",
+    "section_name": "Monitoring and investigation powers",
+    "id_kind": "part",
+    "parent_id": "",
+    "body": "80 Monitoring powers\n\nProvisions subject to monitoring\n\n(1) The following provisions are subject to monitoring under Part 2 of\n\nthe Regulatory Powers Act:\n\n(a) each civil penalty provision of this Act; (b) each civil penalty provision of Division 1A of Part 6 of the\n\nIntelligence Services Act 2001; (c) sections 15 and 16 of this Act.\n\nNote: Part 2 of the Regulatory Powers Act creates a framework for monitoring whether the provisions have been complied with. It includes powers of entry and inspection.\n\nInformation subject to monitoring\n\n(2) Information given in compliance or purported compliance with a\n\nprovision mentioned in subsection (1) is subject to monitoring under Part 2 of the Regulatory Powers Act.\n\nNote: Part 2 of the Regulatory Powers Act creates a framework for monitoring whether the information is correct. It includes powers of entry and inspection.\n\nAuthorised applicant\n\n(3) For the purposes of Part 2 of the Regulatory Powers Act, a person\n\nwho is appointed under subsection (4) is an authorised applicant in relation to the provisions mentioned in subsection (1) and information mentioned in subsection (2).\n\n(4) The Secretary may, by writing, appoint a person who:\n\n(a) is an SES employee, or an acting SES employee, in:\n\n(i) the Department; or (ii) a designated Commonwealth body; or (b) holds, or is acting in, a position in a designated\n\nCommonwealth body that is equivalent to, or higher than, a position occupied by an SES employee;\n\nNo. 98, 2024 Cyber Security Act 2024 83"
+  },
+  {
+    "depth": 3,
+    "section_id": "Regulatory powers: Part 6 Section 80 (2)",
+    "section_name": "Section 80",
+    "id_kind": "section_word",
+    "parent_id": "Part 6 (2)",
+    "body": "to be an authorised applicant in relation to the provisions mentioned in subsection (1) and information mentioned in subsection (2).\n\nNote: The expressions SES employee and acting SES employee are defined in section 2B of the Acts Interpretation Act 1901.\n\nAuthorised person\n\n(5) For the purposes of Part 2 of the Regulatory Powers Act, a person\n\nwho is appointed under subsection (6) is an authorised person in relation to the provisions mentioned in subsection (1) and information mentioned in subsection (2).\n\n(6) The Secretary may, by writing, appoint a person who is:\n\n(a) an APS employee in:\n\n(i) the Department; or (ii) a designated Commonwealth body; or (b) an officer or employee of a designated Commonwealth body; to be an authorised person in relation to the provisions mentioned in subsection (1) and information mentioned in subsection (2).\n\nIssuing officer\n\n(7) For the purposes of Part 2 of the Regulatory Powers Act, a\n\nmagistrate is an issuing officer in relation to the provisions mentioned in subsection (1) and information mentioned in subsection (2).\n\nRelevant chief executive\n\n(8) For the purposes of Part 2 of the Regulatory Powers Act, the\n\nSecretary is the relevant chief executive in relation to the provisions mentioned in subsection (1) and information mentioned in subsection (2).\n\nRelevant court\n\n(9) For the purposes of Part 2 of the Regulatory Powers Act, each of\n\nthe following courts is a relevant court in relation to the provisions\n\n84 Cyber Security Act 2024 No. 98, 2024"
+  },
+  {
+    "depth": 3,
+    "section_id": "Regulatory powers: Part 6 Section 81 (1)",
+    "section_name": "Section 81",
+    "id_kind": "section_word",
+    "parent_id": "Part 6 (2)",
+    "body": "mentioned in subsection (1) and information mentioned in subsection (2):\n\n(a) the Federal Court of Australia; (b) the Federal Circuit and Family Court of Australia\n\n(Division 2); (c) a court of a State or Territory that has jurisdiction in relation\n\nto matters arising under this Act.\n\nPremises\n\n(10) An authorised person must not enter premises under Part 2 of the\n\nRegulatory Powers Act, as it applies in relation to the provisions mentioned in subsection (1) and information mentioned in subsection (2), if the premises are used solely or primarily as a residence.\n\n81 Investigation powers\n\nProvisions subject to investigation\n\n(1) Each civil penalty provision of this Act, and each civil penalty\n\nprovision of Division 1A of Part 6 of the Intelligence Services Act 2001, is subject to investigation under Part 3 of the Regulatory Powers Act.\n\nAuthorised applicant\n\n(2) For the purposes of Part 3 of the Regulatory Powers Act, a person\n\nwho is appointed under subsection (3) is an authorised applicant in relation to evidential material that relates to a provision mentioned in subsection (1).\n\n(3) The Secretary may, by writing, appoint a person who:\n\n(a) is an SES employee, or an acting SES employee, in:\n\n(i) the Department; or (ii) a designated Commonwealth body; or (b) holds, or is acting in, a position in a designated\n\nCommonwealth body that is equivalent to, or higher than, a position occupied by an SES employee;\n\nNo. 98, 2024 Cyber Security Act 2024 85"
+  },
+  {
+    "depth": 3,
+    "section_id": "Regulatory powers: Part 6 Section 81 (2)",
+    "section_name": "Section 81",
+    "id_kind": "section_word",
+    "parent_id": "Part 6 (2)",
+    "body": "to be an authorised applicant in relation to evidential material that relates to a provision mentioned in subsection (1).\n\nNote: The expressions SES employee and acting SES employee are defined in section 2B of the Acts Interpretation Act 1901.\n\nAuthorised person\n\n(4) For the purposes of Part 3 of the Regulatory Powers Act, a person\n\nwho is appointed under subsection (5) is an authorised person in relation to evidential material that relates to a provision mentioned in subsection (1).\n\n(5) The Secretary may, by writing, appoint a person who is:\n\n(a) an APS employee in:\n\n(i) the Department; or (ii) a designated Commonwealth body; or (b) an officer or employee of a designated Commonwealth body; to be an authorised person in relation to evidential material that relates to a provision mentioned in subsection (1).\n\nIssuing officer\n\n(6) For the purposes of Part 3 of the Regulatory Powers Act, a\n\nmagistrate is an issuing officer in relation to evidential material that relates to a provision mentioned in subsection (1).\n\nRelevant chief executive\n\n(7) For the purposes of Part 3 of the Regulatory Powers Act, the\n\nSecretary is the relevant chief executive in relation to evidential material that relates to a provision mentioned in subsection (1).\n\nRelevant court\n\n(8) For the purposes of Part 3 of the Regulatory Powers Act, each of\n\nthe following courts is a relevant court in relation to evidential material that relates to a provision mentioned in subsection (1):\n\n(a) the Federal Court of Australia; (b) the Federal Circuit and Family Court of Australia\n\n(Division 2);\n\n86 Cyber Security Act 2024 No. 98, 2024"
+  },
+  {
+    "depth": 3,
+    "section_id": "Regulatory powers: Part 6 Section 81 (3)",
+    "section_name": "Section 81",
+    "id_kind": "section_word",
+    "parent_id": "Part 6 (2)",
+    "body": "(c) a court of a State or Territory that has jurisdiction in relation\n\nto matters arising under this Act.\n\nNo. 98, 2024 Cyber Security Act 2024 87\n\nDivision 4 Infringement notices"
+  },
+  {
+    "depth": 3,
+    "section_id": "Regulatory powers: Part 6 Section 82 (1)",
+    "section_name": "Section 82",
+    "id_kind": "section_word",
+    "parent_id": "Part 6 (2)",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "Regulatory powers: Division 4",
+    "section_name": "Infringement notices",
+    "id_kind": "part",
+    "parent_id": "",
+    "body": "82 Infringement notices\n\nProvisions subject to an infringement notice\n\n(1) A civil penalty provision of this Act or of Division 1A of Part 6 of\n\nthe Intelligence Services Act 2001 is subject to an infringement notice under Part 5 of the Regulatory Powers Act.\n\nNote: Part 5 of the Regulatory Powers Act creates a framework for using infringement notices in relation to provisions.\n\nInfringement officer\n\n(2) For the purposes of Part 5 of the Regulatory Powers Act, a person\n\nauthorised under subsection (3) is an infringement officer in relation to the civil penalty provisions mentioned in subsection (1).\n\n(3) The Secretary may, by writing, authorise a person who:\n\n(a) is an SES employee, or an acting SES employee, in:\n\n(i) the Department; or (ii) a designated Commonwealth body; or (b) holds, or is acting in, a position in a designated\n\nCommonwealth body that is equivalent to, or higher than, a position occupied by an SES employee; to be an infringement officer in relation to the civil penalty provisions mentioned in subsection (1).\n\nNote: The expressions SES employee and acting SES employee are defined in section 2B of the Acts Interpretation Act 1901.\n\nRelevant chief executive\n\n(4) For the purposes of Part 5 of the Regulatory Powers Act, the\n\nSecretary is the relevant chief executive in relation to the civil penalty provisions mentioned in subsection (1).\n\n(5) The relevant chief executive may, in writing, delegate any or all of\n\nthe relevant chief executive’s powers and functions under Part 5 of the Regulatory Powers Act to a person who is an SES employee or an acting SES employee in:\n\n88 Cyber Security Act 2024 No. 98, 2024\n\nInfringement notices Division 4"
+  },
+  {
+    "depth": 3,
+    "section_id": "Regulatory powers: Part 6 Section 82 (2)",
+    "section_name": "Section 82",
+    "id_kind": "section_word",
+    "parent_id": "Part 6 (2)",
+    "body": "(a) the Department; or (b) a designated Commonwealth body.\n\nNote: The expressions SES employee and acting SES employee are defined in section 2B of the Acts Interpretation Act 1901.\n\n(6) A person exercising powers or performing functions under a\n\ndelegation under subsection (5) must comply with any directions of the relevant chief executive.\n\nLiability of Crown\n\n(7) Part 5 of the Regulatory Powers Act, as that Part applies in relation\n\nto the civil penalty provisions mentioned in subsection (1), does not make the Crown liable to be given an infringement notice.\n\n(8) The protection in subsection (7) does not apply to an authority of\n\nthe Crown.\n\nNo. 98, 2024 Cyber Security Act 2024 89\n\nDivision 5 Other matters"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 83",
+    "section_name": "Section 83",
+    "id_kind": "section_word",
+    "parent_id": "Part 6 (2)",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "Regulatory powers: Division 5",
+    "section_name": "Other matters",
+    "id_kind": "part",
+    "parent_id": "",
+    "body": "83 Contravening a civil penalty provision\n\n(1) This section applies if a provision of this Act provides that an\n\nentity contravening another provision of this Act (the conduct provision) is liable to a civil penalty.\n\n(2) For the purposes of this Act, and the Regulatory Powers Act to the\n\nextent that it relates to this Act, a reference to a contravention of a civil penalty provision includes a reference to a contravention of the conduct provision.\n\n90 Cyber Security Act 2024 No. 98, 2024"
+  },
+  {
+    "depth": 2,
+    "section_id": "Part 7",
+    "section_name": "Miscellaneous",
+    "id_kind": "part",
+    "parent_id": "",
+    "body": "84 Simplified outline of this Part"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 84",
+    "section_name": "Section 84",
+    "id_kind": "section_word",
+    "parent_id": "Part 7",
+    "body": "This Part deals with miscellaneous matters, such as delegations and rules.\n\n85 How this Act applies in relation to non-legal persons\n\nHow permissions and rights are conferred and exercised\n\n(1) If this Act purports to confer a permission or right on an entity that\n\nis not a legal person, the permission or right:\n\n(a) is conferred on each person who is an accountable person for\n\nthe entity at the time the permission or right may be exercised; and (b) may be exercised by:\n\n(i) any person who is an accountable person for the entity\n\nat the time the permission or right may be exercised; or (ii) any person who is authorised by a person referred to in\n\nsubparagraph (i) to exercise the permission or right.\n\nHow obligations and duties are imposed and discharged\n\n(2) If this Act purports to impose an obligation or duty on an entity\n\nthat is not a legal person, the obligation or duty:\n\n(a) is imposed on each person who is an accountable person for\n\nthe entity at the time the obligation or duty arises or is in operation; and (b) may be discharged by:\n\n(i) any person who is an accountable person for the entity\n\nat the time the obligation or duty arises or is in operation; or (ii) any person who is authorised by a person referred to in\n\nsubparagraph (i) to discharge the obligation or duty.\n\nNo. 98, 2024 Cyber Security Act 2024 91"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 86",
+    "section_name": "Section 86",
+    "id_kind": "section_word",
+    "parent_id": "Part 7",
+    "body": "How non-legal persons contravene this Act\n\n(3) A provision of this Act (including a civil penalty provision) that is\n\npurportedly contravened by an entity that is not a legal person is instead contravened by each accountable person for the entity who:\n\n(a) did the relevant act or made the relevant omission; or (b) aided, abetted, counselled or procured the relevant act or\n\nomission; or (c) was in any way knowingly concerned in, or party to, the\n\nrelevant act or omission.\n\nMeaning of accountable person\n\n(4) For the purposes of this section, a person is an accountable person\n\nfor an entity at a particular time if:\n\n(a) in the case of a partnership in which one or more of the\n\npartners is an individual—the individual is a partner in the partnership at that time; or (b) in the case of a partnership in which one or more of the\n\npartners is a body corporate—the person is a director of the body corporate at that time; or (c) in the case of a trust in which the trustee, or one or more of\n\nthe trustees, is an individual—the individual is a trustee of the trust at that time; or (d) in the case of a trust in which the trustee, or one or more of\n\nthe trustees, is a body corporate—the person is a director of the body corporate at that time; or (e) in the case of an unincorporated association—the person is a\n\nmember of the governing body of the unincorporated association at that time.\n\n86 Delegation by Secretary\n\n(1) The Secretary may, in writing, delegate all or any of the\n\nSecretary’s functions or powers under section 17, 18, 19, 21 or 23 to an SES employee, or acting SES employee, in the Department.\n\nNote 1: Sections 34AA to 34A of the Acts Interpretation Act 1901 contain provisions relating to delegations.\n\n92 Cyber Security Act 2024 No. 98, 2024"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 87",
+    "section_name": "Section 87",
+    "id_kind": "section_word",
+    "parent_id": "Part 7",
+    "body": "Note 2: The expressions SES employee and acting SES employee are defined in section 2B of the Acts Interpretation Act 1901.\n\n(2) In performing a delegated function or exercising a delegated\n\npower, the delegate must comply with any written directions of the Secretary.\n\n87 Rules\n\n(1) The Minister may, by legislative instrument, make rules\n\nprescribing matters:\n\n(a) required or permitted by this Act to be prescribed by the\n\nrules; or (b) necessary or convenient to be prescribed for carrying out or\n\ngiving effect to this Act.\n\n(2) To avoid doubt, the rules may not do the following:\n\n(a) create an offence or civil penalty; (b) provide powers of:\n\n(i) arrest or detention; or (ii) entry, search or seizure; (c) impose a tax; (d) set an amount to be appropriated from the Consolidated\n\nRevenue Fund under an appropriation in this Act; (e) directly amend the text of this Act.\n\n(3) Before making or amending the rules, the Minister must:\n\n(a) cause to be published on the Department’s website a notice:\n\n(i) setting out the draft rules or amendments; and (ii) inviting persons to make submissions to the Minister\n\nabout the draft rules or amendments within the period specified in the notice; and (b) consider any submissions received within the period\n\nmentioned in subparagraph (a)(ii).\n\n(4) The period specified in the notice must not be shorter than 28 days.\n\nNo. 98, 2024 Cyber Security Act 2024 93"
+  },
+  {
+    "depth": 3,
+    "section_id": "Section 88",
+    "section_name": "Section 88",
+    "id_kind": "section_word",
+    "parent_id": "Part 7",
+    "body": "88 Review of this Act\n\nThe Parliamentary Joint Committee on Intelligence and Security may:\n\n(a) review the operation, effectiveness and implications of this\n\nAct; and (b) report the Committee’s comments and recommendations to\n\neach House of the Parliament; so long as the Committee begins the review as soon as practicable after 1 December 2027.\n\n[Minister’s second reading speech made in— House of Representatives on 9 October 2024 Senate on 25 November 2024]\n\n(116/24)\n\n94 Cyber Security Act 2024 No. 98, 2024"
+  }
+]

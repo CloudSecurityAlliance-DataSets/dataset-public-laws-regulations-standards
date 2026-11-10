@@ -1,0 +1,60 @@
+{
+  "secid": "secid:regulation/uaelegislation.gov.ae/pdpl",
+  "name": "Federal Decree-Law No. 45 of 2021 on the Protection of Personal Data",
+  "acronym": "UAE PDPL",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "pdpl",
+  "owner": "UAE Legislation (official federal legislation portal)",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "First comprehensive UAE federal data-protection statute, in force January 2022. GDPR-influenced consent/rights/cross-border-transfer rules. Excludes DIFC and ADGM (which have their own separate free-zone data protection regimes) and national-security government data.",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by UAE Legislation (official federal legislation portal) (uaelegislation.gov.ae) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within UAE Legislation (official federal legislation portal) (uaelegislation.gov.ae).",
+  "license": {
+    "spdx": "LicenseRef-AE-TDRA-Terms",
+    "Grouping": "Proprietary / All Rights Reserved",
+    "redistribution": "prohibited",
+    "derivatives": "prohibited",
+    "publicly_redistributable": true,
+    "license_text_url": "https://tdra.gov.ae/en/terms-and-conditions",
+    "note": "Official publication (uaelegislation.gov.ae); UAE Telecommunications and Digital Government Regulatory Authority (TDRA) and UAE Government portal Terms and Conditions (copyright and intellectual property rights in ministerial strategy publications are reserved unless explicitly stated otherwise). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
+    "notes": "Official publication (uaelegislation.gov.ae); UAE Telecommunications and Digital Government Regulatory Authority (TDRA) and UAE Government portal Terms and Conditions (copyright and intellectual property rights in ministerial strategy publications are reserved unless explicitly stated otherwise). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://uaelegislation.gov.ae/en/legislations/1972",
+    "textUsed": "https://web.archive.org/web/20260907034008id_/https://uaelegislation.gov.ae/en/legislations/1972/download",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "date": "2026-11-10",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "s3_archive_path": "",
+    "notes": "Extracted official regulation (https://web.archive.org/web/20260907034008id_/https://uaelegislation.gov.ae/en/legislations/1972/download) to Markdown (42,114 chars). Parsed 70 sections (31 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  }
+}

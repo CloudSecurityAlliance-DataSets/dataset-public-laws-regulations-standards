@@ -1,0 +1,61 @@
+{
+  "secid": "secid:regulation/priv.gc.ca/ppcda-bill-c36",
+  "name": "An Act to enact the Protecting Privacy and Consumer Data Act, to amend the Personal Information Protection and Electronic Documents Act and to make amendments to other Acts (Bill C-36)",
+  "acronym": "PPCDA (Bill C-36)",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "ppcda-bill-c36",
+  "owner": "Parliament of Canada / Office of the Privacy Commissioner of Canada",
+  "type": "Regulation",
+  "subtype": [
+    "legislation"
+  ],
+  "description": "Proposed Canadian federal private-sector privacy reform statute (45th Parliament, 1st Session, Bill C-36) enacting the Protecting Privacy and Consumer Data Act (PPCDA) and amending PIPEDA, establishing modernized consent, data portability, automated decision-making transparency, and privacy enforcement rules.",
+  "relationToCloudSecurity": "Establishes federal statutory data protection, platform governance, cybersecurity, and regulatory compliance obligations applicable to cloud-hosted services and digital platforms operating in Canada.",
+  "relationToAISecurity": "Regulates AI systems, automated decision-making, and interactive AI chatbot/companion services accessible to Canadians.",
+  "license": {
+    "spdx": "OGL-Canada-2.0",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://open.canada.ca/en/open-government-licence-canada",
+    "notes": "Open Government Licence – Canada (and Reproduction of Federal Law Order for federal bills and statutes)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.parl.ca/legisinfo/en/bill/45-1/c-36",
+    "textUsed": "https://www.parl.ca/Content/Bills/451/Government/C-36/C-36_1/C-36_E.xml",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2026-06-16",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-10T21-00-00Z",
+    "tool": "tools-resources/utils/parse_canada_justice_xml.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Committed authoritative Parliament of Canada legislative XML (https://www.parl.ca/Content/Bills/451/Government/C-36/C-36_1/C-36_E.xml) as ppcda-bill-c36.xml and extracted 219 statutory sections and clauses via tools-resources/utils/parse_canada_justice_xml.py into ppcda-bill-c36.md, ppcda-bill-c36-sections.csv, and ppcda-bill-c36-sections.json."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-10T21-00-00Z",
+      "status": "current",
+      "reason": "Public government bill extraction (#145)",
+      "tool": "tools-resources/utils/parse_canada_justice_xml.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "requirement-list"
+  }
+}

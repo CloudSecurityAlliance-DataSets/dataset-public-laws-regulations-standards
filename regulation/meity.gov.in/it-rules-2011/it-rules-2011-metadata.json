@@ -1,0 +1,63 @@
+{
+  "secid": "secid:regulation/meity.gov.in/it-rules-2011",
+  "name": "Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Data or Information) Rules, 2011",
+  "acronym": "SPDI Rules",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "it-rules-2011",
+  "owner": "Ministry of Electronics and Information Technology",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Subordinate rules under IT Act 2000 Section 43A specifying reasonable security practices for protection of sensitive personal data.",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by Ministry of Electronics and Information Technology (meity.gov.in) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within Ministry of Electronics and Information Technology (meity.gov.in).",
+  "license": {
+    "spdx": "LicenseRef-IN-Copyright-1957-Sec17d",
+    "Grouping": "Proprietary / All Rights Reserved",
+    "redistribution": "prohibited",
+    "derivatives": "prohibited",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/IN",
+    "note": "Official publication (meity.gov.in); Indian Copyright Act, 1957 (Act No. 14 of 1957) Sec. 17(d) (Government copyright in ministerial and NITI Aayog strategy publications unless explicitly released under GODL-India). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
+    "notes": "Official publication (meity.gov.in); Indian Copyright Act, 1957 (Act No. 14 of 1957) Sec. 17(d) (Government copyright in ministerial and NITI Aayog strategy publications unless explicitly released under GODL-India). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.meity.gov.in/writereaddata/files/GSR313E_10511%281%29_0.pdf",
+    "textUsed": "https://web.archive.org/web/20240617072857id_/https://www.meity.gov.in/writereaddata/files/GSR313E_10511%281%29_0.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official regulation (https://web.archive.org/web/20240617072857id_/https://www.meity.gov.in/writereaddata/files/GSR313E_10511%281%29_0.pdf) to Markdown (12,434 chars). Parsed 3 sections (2 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  }
+}

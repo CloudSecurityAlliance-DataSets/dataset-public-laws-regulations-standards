@@ -1,327 +1,17179 @@
-## We use cookies on this site
-
-We use cookies to analyse traffic and to improve your browsing experience on
-our website. To find out more, read our [privacy
-policy](https://www.oaic.gov.au/about-the-OAIC/our-corporate-
-information/plans-policies-and-procedures/privacy-policy#section-collecting-
-through-the-oaic-website).
-
-Close
-
-[Skip to main content](#main-content-area)
-
-If you have been impacted by the Instructure (Canvas) cyber incident, please
-view [our statement](https://www.oaic.gov.au/news/media-centre/statement-on-
-instructure-canvas-cyber-incident).
-
-[News](/news) [Join our team](/about-the-OAIC/join-our-team) [Contact
-us](/contact-us)
-
-[ ![Office of the Australian Information Commissioner
-\(OAIC\)](https://www.oaic.gov.au/__data/assets/file/0020/13664/oaic-header-
-logo.svg) ](https://www.oaic.gov.au) ![open
-menu](https://www.oaic.gov.au/__data/assets/git_bridge/0012/12063/mysource_files/hamburger-
-menu.svg) ![close
-menu](https://www.oaic.gov.au/__data/assets/git_bridge/0012/12063/mysource_files/cancel-
-icon-white.svg)
-
-![clear text cancel
-icon](https://www.oaic.gov.au/__data/assets/file/0022/13666/cancel-icon.svg)
-![Search](https://www.oaic.gov.au/__data/assets/file/0023/13667/search-
-outline.svg)
-
-[ Home ](https://www.oaic.gov.au)
-
-Privacy
-
-![expand
-menu](https://www.oaic.gov.au/__data/assets/git_bridge/0012/12063/mysource_files/icon-
-plus-white.svg) ![collapse
-menu](https://www.oaic.gov.au/__data/assets/git_bridge/0012/12063/mysource_files/icon-
-plus-white.svg)
-
-![expand
-menu](https://www.oaic.gov.au/__data/assets/git_bridge/0012/12063/mysource_files/chevron-
-down-white.svg)
-
-[ Privacy ](https://www.oaic.gov.au/privacy)
-
-[ Your privacy rights ](https://www.oaic.gov.au/privacy/your-privacy-rights) [
-Privacy complaints ](https://www.oaic.gov.au/privacy/privacy-complaints) [
-Australian Privacy Principles ](https://www.oaic.gov.au/privacy/australian-
-privacy-principles) [ Privacy guidance for organisations and government
-agencies ](https://www.oaic.gov.au/privacy/privacy-guidance-for-organisations-
-and-government-agencies) [ Notifiable data breaches
-](https://www.oaic.gov.au/privacy/notifiable-data-breaches) [ Privacy
-legislation ](https://www.oaic.gov.au/privacy/privacy-legislation) [ Privacy
-assessments and decisions ](https://www.oaic.gov.au/privacy/privacy-
-assessments-and-decisions) [ Privacy registers
-](https://www.oaic.gov.au/privacy/privacy-registers) [ Privacy for Kids
-](https://www.oaic.gov.au/privacy/privacy-for-kids)
-
-Freedom of information
-
-![expand
-menu](https://www.oaic.gov.au/__data/assets/git_bridge/0012/12063/mysource_files/icon-
-plus-white.svg) ![collapse
-menu](https://www.oaic.gov.au/__data/assets/git_bridge/0012/12063/mysource_files/icon-
-plus-white.svg)
-
-![expand
-menu](https://www.oaic.gov.au/__data/assets/git_bridge/0012/12063/mysource_files/chevron-
-down-white.svg)
-
-[ Freedom of information ](https://www.oaic.gov.au/freedom-of-information)
-
-[ Your freedom of information rights ](https://www.oaic.gov.au/freedom-of-
-information/your-freedom-of-information-rights) [ How to access government
-information ](https://www.oaic.gov.au/freedom-of-information/how-to-access-
-government-information) [ Freedom of information guidance for government
-agencies ](https://www.oaic.gov.au/freedom-of-information/freedom-of-
-information-guidance-for-government-agencies) [ Freedom of information
-legislation and determinations ](https://www.oaic.gov.au/freedom-of-
-information/freedom-of-information-legislation-and-determinations) [
-Information Commissioner decisions and reports
-](https://www.oaic.gov.au/freedom-of-information/information-commissioner-
-decisions-and-reports) [ Freedom of information statistics for the OAIC
-](https://www.oaic.gov.au/freedom-of-information/freedom-of-information-
-statistics-for-the-oaic) [ Australian Government freedom of information
-statistics ](https://www.oaic.gov.au/freedom-of-information/australian-
-government-freedom-of-information-statistics)
-
-Consumer Data Right
-
-![expand
-menu](https://www.oaic.gov.au/__data/assets/git_bridge/0012/12063/mysource_files/icon-
-plus-white.svg) ![collapse
-menu](https://www.oaic.gov.au/__data/assets/git_bridge/0012/12063/mysource_files/icon-
-plus-white.svg)
-
-![expand
-menu](https://www.oaic.gov.au/__data/assets/git_bridge/0012/12063/mysource_files/chevron-
-down-white.svg)
-
-[ Consumer Data Right ](https://www.oaic.gov.au/consumer-data-right)
-
-[ Information for consumers ](https://www.oaic.gov.au/consumer-data-
-right/information-for-consumers) [ Consumer Data Right complaints
-](https://www.oaic.gov.au/consumer-data-right/consumer-data-right-complaints)
-[ Consumer Data Right guidance for business
-](https://www.oaic.gov.au/consumer-data-right/consumer-data-right-guidance-
-for-business) [ Consumer Data Right legislation, regulation and definitions
-](https://www.oaic.gov.au/consumer-data-right/consumer-data-right-
-legislation,-regulation-and-definitions) [ Consumer Data Right assessments
-](https://www.oaic.gov.au/consumer-data-right/consumer-data-right-assessments)
-
-[ Digital ID ](https://www.oaic.gov.au/digital-id)
-
-Engage with us
-
-![expand
-menu](https://www.oaic.gov.au/__data/assets/git_bridge/0012/12063/mysource_files/icon-
-plus-white.svg) ![collapse
-menu](https://www.oaic.gov.au/__data/assets/git_bridge/0012/12063/mysource_files/icon-
-plus-white.svg)
-
-![expand
-menu](https://www.oaic.gov.au/__data/assets/git_bridge/0012/12063/mysource_files/chevron-
-down-white.svg)
-
-[ Engage with us ](https://www.oaic.gov.au/engage-with-us)
-
-[ Consultations ](https://www.oaic.gov.au/engage-with-us/consultations) [
-Submissions ](https://www.oaic.gov.au/engage-with-us/submissions) [
-Translations ](https://www.oaic.gov.au/engage-with-us/translations) [ Events
-](https://www.oaic.gov.au/engage-with-us/events) [ Networks
-](https://www.oaic.gov.au/engage-with-us/networks) [ Research and training
-resources ](https://www.oaic.gov.au/engage-with-us/research-and-training-
-resources)
-
-About the OAIC
-
-![expand
-menu](https://www.oaic.gov.au/__data/assets/git_bridge/0012/12063/mysource_files/icon-
-plus-white.svg) ![collapse
-menu](https://www.oaic.gov.au/__data/assets/git_bridge/0012/12063/mysource_files/icon-
-plus-white.svg)
-
-![expand
-menu](https://www.oaic.gov.au/__data/assets/git_bridge/0012/12063/mysource_files/chevron-
-down-white.svg)
-
-[ About the OAIC ](https://www.oaic.gov.au/about-the-OAIC)
-
-[ What we do ](https://www.oaic.gov.au/about-the-OAIC/what-we-do) [ Who we are
-](https://www.oaic.gov.au/about-the-OAIC/who-we-are) [ Join our team
-](https://www.oaic.gov.au/about-the-OAIC/join-our-team) [ Access our
-information ](https://www.oaic.gov.au/about-the-OAIC/access-our-information) [
-Our regulatory approach ](https://www.oaic.gov.au/about-the-OAIC/our-
-regulatory-approach) [ Our corporate information
-](https://www.oaic.gov.au/about-the-OAIC/our-corporate-information) [
-Commissioner Priorities ](https://www.oaic.gov.au/about-the-OAIC/commissioner-
-priorities) [ Information policy ](https://www.oaic.gov.au/about-the-
-OAIC/information-policy) [ Serving legal documents on the Australian
-Information Commissioner ](https://www.oaic.gov.au/about-the-OAIC/serving-
-legal-documents-on-the-australian-information-commissioner)
-
-[News](/news)
-
-[Join our team](/about-the-OAIC/join-our-team)
-
-[Contact us](/contact-us)
-
-[](https://www.oaic.gov.au)
-
-  * [Privacy](https://www.oaic.gov.au/privacy)
-  * [Privacy legislation](https://www.oaic.gov.au/privacy/privacy-legislation)
-  * [The Privacy Act](https://www.oaic.gov.au/privacy/privacy-legislation/the-privacy-act)
-
-# The Privacy Act
-
-## The [_Privacy Act 1988_](https://www.legislation.gov.au/Series/C2004A03712)
-was introduced to promote and protect the privacy of individuals and to
-regulate how Australian Government agencies and organisations with an annual
-turnover of more than $3 million, and some other organisations, handle
-personal information.
-
-The Privacy Act includes 13 [Australian Privacy
-Principles](https://www.oaic.gov.au/2022/privacy/australian-privacy-
-principles) (APPs), which apply to some private sector organisations, as well
-as most Australian Government agencies. Such organisations and agencies are
-collectively known as ‘APP entities’. The Privacy Act also regulates the
-privacy component of the consumer credit reporting system, tax file numbers,
-and health and medical research.
-
-### [History of the Privacy Act Changes to the Privacy Act 1988 since it
-began, in brief
-![](https://www.oaic.gov.au/__data/assets/file/0020/12548/arrow.svg)
-](https://www.oaic.gov.au/privacy/privacy-legislation/the-privacy-act/history-
-of-the-privacy-act) ### [Rights and responsibilities Who has rights under the
-Privacy Act and which organisations and agencies the Privacy Act covers
-![](https://www.oaic.gov.au/__data/assets/file/0020/12548/arrow.svg)
-](https://www.oaic.gov.au/privacy/privacy-legislation/the-privacy-act/rights-
-and-responsibilities)
-
-The Australian Government is conducting a review of the Privacy Act, see our
-submissions to the review ([Privacy Act Review Issues Paper
-submission](https://www.oaic.gov.au/engage-with-us/submissions/privacy-act-
-review-issues-paper-submission) and [Privacy Act Review Discussion Paper
-submission](https://www.oaic.gov.au/engage-with-us/submissions/privacy-act-
-review-discussion-paper)) and our [Research publications on the Privacy
-Act](https://www.oaic.gov.au/engage-with-us/research-and-training-
-resources/research/research-publications-on-the-privacy-act).
-
-## Audits and investigations
-
-### [Commissioner-initiated investigations Why we open a Commissioner-
-initiated investigation and our current investigations
-![](https://www.oaic.gov.au/__data/assets/file/0020/12548/arrow.svg)
-](https://www.oaic.gov.au/privacy/privacy-legislation/the-privacy-
-act/commissioner-initiated-investigations) ### [Privacy assessment powers We
-audit privacy practices of APP entities to help ensure personal information is
-protected ![](https://www.oaic.gov.au/__data/assets/file/0020/12548/arrow.svg)
-](https://www.oaic.gov.au/privacy/privacy-legislation/the-privacy-act/privacy-
-assessment-powers)
-
-## Associated codes, regulations, rules and guidelines
-
-### [Credit reporting Consumer credit reporting under the Privacy Act, which
-is supported by a regulation and code
-![](https://www.oaic.gov.au/__data/assets/file/0020/12548/arrow.svg)
-](https://www.oaic.gov.au/privacy/privacy-legislation/the-privacy-act/credit-
-reporting) ### [Health and medical research When a health service provider can
-use or disclose genetic information, and when health and medical research can
-use personal information
-![](https://www.oaic.gov.au/__data/assets/file/0020/12548/arrow.svg)
-](https://www.oaic.gov.au/privacy/privacy-legislation/the-privacy-act/health-
-and-and-medical-research) ### [Privacy regulations Regulations issued under
-the Privacy Act
-![](https://www.oaic.gov.au/__data/assets/file/0020/12548/arrow.svg)
-](https://www.oaic.gov.au/privacy/privacy-legislation/the-privacy-act/privacy-
-regulations)
-
-### [Rules and guidelines Legally binding rules and guidelines we've made or
-approved under the Privacy Act
-![](https://www.oaic.gov.au/__data/assets/file/0020/12548/arrow.svg)
-](https://www.oaic.gov.au/privacy/privacy-legislation/the-privacy-act/rules-
-and-guidelines) ### [Tax file numbers Privacy (Tax File Number) Rule 2015 and
-other obligations
-![](https://www.oaic.gov.au/__data/assets/file/0020/12548/arrow.svg)
-](https://www.oaic.gov.au/privacy/privacy-legislation/the-privacy-act/tax-
-file-numbers)
-
-Did you find this helpful?
-
-![](https://www.oaic.gov.au/__data/assets/git_bridge/0012/12063/mysource_files/thumbsup.svg)
-Yes
-
-![](https://www.oaic.gov.au/__data/assets/git_bridge/0012/12063/mysource_files/thumbsdown.svg)
-No
-
-![](https://www.oaic.gov.au/__data/assets/git_bridge/0012/12063/mysource_files/thumbsup.svg)
-We'd love to hear more!
-
-![](https://www.oaic.gov.au/__data/assets/git_bridge/0012/12063/mysource_files/thumbsdown.svg)
-Please tell us more
-
-Rate your experience
-
-We'd love to hear more about your rating
-
-What did you come here to do?
-
-How can we improve this information?
-
-⨯
-
-Share
-
-[ Facebook
-](https://www.facebook.com/share.php?u=https://www.oaic.gov.au/privacy/privacy-
-legislation/the-privacy-act) [ Twitter
-](https://twitter.com/intent/tweet?url=https://www.oaic.gov.au/privacy/privacy-
-legislation/the-privacy-act) [ Linkedin
-](https://www.linkedin.com/sharing/share-
-offsite?url=https://www.oaic.gov.au/privacy/privacy-legislation/the-privacy-
-act)
-
-![OAIC logo](https://www.oaic.gov.au/__data/assets/file/0020/12962/logo.svg) [
-![OAIC sub
-logo](https://www.oaic.gov.au/__data/assets/file/0021/12963/logo2.svg)
-](https://www.oaic.gov.au/about-the-OAIC/access-our-information) [
-![Information Publication
-Scheme](https://www.oaic.gov.au/__data/assets/image/0026/91385/ips_white_text.png)
-](https://www.oaic.gov.au/about-the-OAIC/access-our-information/our-
-information-publication-scheme)
-
-  * [Site map](https://www.oaic.gov.au/sitemap)
-  * [Copyright](https://www.oaic.gov.au/about-the-OAIC/copyright)
-  * [Terms and conditions](https://www.oaic.gov.au/about-the-OAIC/terms-and-conditions)
-  * [Privacy policy](https://www.oaic.gov.au/about-the-OAIC/our-corporate-information/plans-policies-and-procedures/privacy-policy)
-  * [Accessibility](https://www.oaic.gov.au/about-the-OAIC/accessibility)
-
-[Contact us](https://www.oaic.gov.au/contact-us) [1300 363 992](tel:1300 363
-992)
-
-Monday to Thursday 10 am to 4 pm (AEST/AEDT)
-
-__Language Please select… العربية繁體中文ελληνικόςItalianoEspañolภาษาไทยTiếng
-Việtਪੰਜਾਬੀကညီကျိာ်简体中文ܐܵܬܘܿܪܵܝܵܐनेपालीFilipinoهزارگیEasy English
-
-Follow us
-
-  * [ ![OAIC on Facebook](https://www.oaic.gov.au/__data/assets/file/0025/12958/facebook.svg) ](https://www.facebook.com/OAICgov)
-  * [ ![OAIC on Twitter](https://www.oaic.gov.au/__data/assets/file/0026/12959/x-logo.svg) ](https://twitter.com/OAICgov)
-  * [ ![OAIC on Youtube](https://www.oaic.gov.au/__data/assets/file/0018/12960/youtube.svg) ](https://www.youtube.com/user/oaicgov)
-  * [ ![OAIC on Linkedin](https://www.oaic.gov.au/__data/assets/file/0019/12961/linkedin.svg) ](https://au.linkedin.com/company/office-of-the-australian-information-commissioner)
-  * [ ![OAIC on Instagram](https://www.oaic.gov.au/__data/assets/file/0023/91364/Instagram_Glyph_White.svg) ](https://www.instagram.com/oaicgov/)
-  * [ ![](https://www.oaic.gov.au/__data/assets/file/0027/260946/rss.svg) ](https://www.oaic.gov.au/rss)
-
-Acknowledgement of Country
-
-The OAIC acknowledges Traditional Custodians of Country across Australia and
-their continuing connection to land, waters and communities. We pay our
-respect to First Nations people, cultures and Elders past and present.
-
-© Commonwealth of Australia
+# Privacy Act 1988 (No. 119, 1988 — Australia)
 
+No table of contents entries found.
+
+Privacy Act 1988
+
+No. 119, 1988
+
+Compilation No. 104
+
+Compilation date: 4 June 2026
+
+Includes amendments: Act No. 75, 2025
+
+Prepared by the Office of Parliamentary Counsel, Canberra
+
+## About this compilation
+
+This compilation
+
+This is a compilation of the Privacy Act 1988 that shows the text of the law as amended and in force on 4 June 2026 (the compilation date).
+
+The notes at the end of this compilation (the endnotes) include information about amending laws and the amendment history of provisions of the compiled law.
+
+Uncommenced amendments
+
+The effect of uncommenced amendments is not shown in the text of the compiled law. The details of amendments made up to, but not commenced at, the compilation date are underlined in the endnotes. Any uncommenced amendments affecting the law are accessible on the Register (www.legislation.gov.au).
+
+Application, saving and transitional provisions
+
+If the operation of a provision or amendment of the compiled law is affected by an application, saving or transitional provision that is not included in this compilation, details are included in the endnotes.
+
+Editorial changes
+
+For more information about any editorial changes made in this compilation, see the endnotes.
+
+Presentational changes
+
+The Legislation Act 2003 provides for First Parliamentary Counsel to make presentational changes to a compilation. Presentational changes are applied to give a more consistent look and feel to legislation published on the Register, and enable the user to more easily navigate those documents.
+
+Modifications
+
+If the compiled law is modified by another law, the compiled law operates as modified but the modification does not amend the text of the law. Accordingly, this compilation does not show the text of the compiled law as modified. Any modifications affecting the law are accessible on the Register.
+
+Self-repealing provisions
+
+If a provision of the compiled law has been repealed in accordance with a provision of the law, details are included in the endnotes.
+
+## Contents
+
+Part I—Preliminary 1 1 Short title .............................................................................................1 2 Commencement ..................................................................................1 2A Objects of this Act ..............................................................................1 3 Saving of certain State and Territory laws ..........................................2 3A Application of the Criminal Code ......................................................3 4 Act to bind the Crown .........................................................................3 5A Extension to external Territories .........................................................3 5B Extra-territorial operation of Act ........................................................3
+
+## Part II—Interpretation 6
+
+Division 1—General definitions 6 6 Interpretation .......................................................................................6 6AA Meaning of responsible person .........................................................34 6A Breach of an Australian Privacy Principle ........................................36 6B Breach of a registered APP code ......................................................37 6BA Breach of the registered CR code .....................................................38 6C Organisations ....................................................................................38 6D Small business and small business operators ....................................41 6DA What is the annual turnover of a business? ......................................43 6E Small business operator treated as organisation ...............................44 6EA Small business operators choosing to be treated as organisations .....................................................................................47 6F State instrumentalities etc. treated as organisations ..........................48 6FA Meaning of health information .........................................................48 6FB Meaning of health service .................................................................49 Division 2—Key definitions relating to credit reporting 51
+
+Subdivision A—Credit provider 51 6G Meaning of credit provider ...............................................................51 6H Agents of credit providers .................................................................52 6J Securitisation arrangements etc. .......................................................53 6K Acquisition of the rights of a credit provider ....................................54
+
+Subdivision B—Other definitions 55 6L Meaning of access seeker .................................................................55 6M Meaning of credit and amount of credit ...........................................55 6N Meaning of credit information ..........................................................56
+
+Privacy Act 1988 i
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+6P Meaning of credit reporting business ...............................................57 6Q Meaning of default information ........................................................58 6QA Meanings of financial hardship arrangement and financial hardship information ........................................................................59 6R Meaning of information request .......................................................61 6S Meaning of new arrangement information .......................................62 6T Meaning of payment information .....................................................63 6U Meaning of personal insolvency information ...................................63 6V Meaning of repayment history information ......................................64 Division 3—Other matters 66 7 Acts and practices of agencies, organisations etc. ............................66 7A Acts of certain agencies treated as acts of organisation ....................69 7B Exempt acts and exempt practices of organisations .........................70 7C Political acts and practices are exempt .............................................72 8 Acts and practices of, and disclosure of information to, staff of agency, organisation etc. ..............................................................74 10 Agencies that are taken to hold a record ...........................................76 11 File number recipients ......................................................................76 12A Act not to apply in relation to State banking or insurance within that State ................................................................................77 12B Severability—additional effect of this Act .......................................78
+
+## Part III—Information privacy 80
+
+Division 1—Interferences with privacy 80 13 Interferences with privacy ................................................................80 13B Related bodies corporate ...................................................................82 13C Change in partnership because of change in partners .......................83 13D Overseas act required by foreign law ...............................................84 13E Effect of sections 13B, 13C and 13D ...............................................84 13F Act or practice not covered by section 13 is not an interference with privacy ..................................................................84 13G Civil penalty provision for serious interference with privacy of an individual .................................................................................84 13H Civil penalty provision for interference with privacy of individuals .........................................................................................87 13J Alternative orders .............................................................................87 13K Civil penalty provision for which infringement notices or compliance notices can be issued .....................................................88 Division 2—Australian Privacy Principles 90 14 Australian Privacy Principles ...........................................................90
+
+ii Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+15 APP entities must comply with Australian Privacy Principles .........90 16 Personal, family or household affairs ...............................................90 16A Permitted general situations in relation to the collection, use or disclosure of personal information ...............................................90 16B Permitted health situations in relation to the collection, use or disclosure of health information ...................................................93 16C Acts and practices of overseas recipients of personal information ........................................................................................96 Division 4—Tax file number information 97 17 Rules relating to tax file number information ...................................97 18 File number recipients to comply with rules ....................................97
+
+Part IIIA—Credit reporting 98
+
+Division 1—Introduction 98 19 Guide to this Part ..............................................................................98 Division 2—Credit reporting bodies 99
+
+Subdivision A—Introduction and application of this Division etc. 99 20 Guide to this Division .......................................................................99 20A Application of this Division and the Australian Privacy Principles to credit reporting bodies .................................................99
+
+Subdivision B—Consideration of information privacy 100 20B Open and transparent management of credit reporting information ......................................................................................100
+
+Subdivision C—Collection of credit information 101 20C Collection of solicited credit information .......................................101 20D Dealing with unsolicited credit information ...................................103
+
+Subdivision D—Dealing with credit reporting information etc. 104 20E Use or disclosure of credit reporting information ...........................104 20F Permitted CRB disclosures in relation to individuals .....................107 20G Use or disclosure of credit reporting information for the purposes of direct marketing ...........................................................108 20H Use or disclosure of pre-screening assessments .............................110 20J Destruction of pre-screening assessment ........................................111 20K No use or disclosure of credit reporting information during a ban period .......................................................................................111 20L Adoption of government related identifiers ....................................113 20M Use or disclosure of credit reporting information that is de-identified ....................................................................................113
+
+Privacy Act 1988 iii
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Subdivision E—Integrity of credit reporting information 114 20N Quality of credit reporting information ..........................................114 20P False or misleading credit reporting information ...........................115 20Q Security of credit reporting information .........................................115
+
+Subdivision F—Access to, and correction of, information 116 20R Access to credit reporting information ...........................................116 20S Correction of credit reporting information .....................................119 20T Individual may request the correction of credit information etc. ...................................................................................................119 20U Notice of correction etc. must be given ..........................................121
+
+Subdivision G—Dealing with credit reporting information after
+
+the retention period ends etc. 122 20V Destruction etc. of credit reporting information after the retention period ends .......................................................................122 20W Retention period for credit information—general ..........................123 20X Retention period for credit information—personal insolvency information ...................................................................125 20Y Destruction of credit reporting information in cases of fraud ........127 20Z Dealing with information if there is a pending correction request etc. ......................................................................................128 20ZA Dealing with information if an Australian law etc. requires it to be retained ...................................................................................129 Division 3—Credit providers 131
+
+Subdivision A—Introduction and application of this Division 131 21 Guide to this Division .....................................................................131 21A Application of this Division to credit providers .............................131
+
+Subdivision B—Consideration of information privacy 131 21B Open and transparent management of credit information etc. ........131
+
+Subdivision C—Dealing with credit information 134 21C Additional notification requirements for the collection of personal information etc. ................................................................134 21D Disclosure of credit information to a credit reporting body ...........135 21E Payment information must be disclosed to a credit reporting body ................................................................................................137 21EA Financial hardship information must be disclosed .........................137 21F Limitation on the disclosure of credit information during a ban period .......................................................................................138
+
+Subdivision D—Dealing with credit eligibility information etc. 138 21G Use or disclosure of credit eligibility information ..........................138
+
+iv Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+21H Permitted CP uses in relation to individuals ...................................141 21J Permitted CP disclosures between credit providers ........................143 21K Permitted CP disclosures relating to guarantees etc. ......................145 21L Permitted CP disclosures to mortgage insurers ..............................146 21M Permitted CP disclosures to debt collectors ....................................146 21N Permitted CP disclosures to other recipients ..................................147 21NA Disclosures to certain persons and bodies that do not have an Australian link .................................................................................149 21P Notification of a refusal of an application for consumer credit ...............................................................................................150
+
+Subdivision E—Integrity of credit information and credit
+
+eligibility information 151 21Q Quality of credit eligibility information ..........................................151 21R False or misleading credit information or credit eligibility information ......................................................................................152 21S Security of credit eligibility information ........................................152
+
+Subdivision F—Access to, and correction of, information 153 21T Access to credit eligibility information ..........................................153 21U Correction of credit information or credit eligibility information ......................................................................................155 21V Individual may request the correction of credit information etc. ...................................................................................................156 21W Notice of correction etc. must be given ..........................................158 Division 4—Affected information recipients 160 22 Guide to this Division .....................................................................160
+
+Subdivision A—Consideration of information privacy 160 22A Open and transparent management of regulated information .........160
+
+Subdivision B—Dealing with regulated information 162 22B Additional notification requirements for affected information recipients .........................................................................................162 22C Use or disclosure of information by mortgage insurers or trade insurers ...................................................................................162 22D Use or disclosure of information by a related body corporate ........164 22E Use or disclosure of information by credit managers etc. ..............165 22F Use or disclosure of information by advisers etc. ...........................166 Division 5—Complaints 168 23 Guide to this Division .....................................................................168 23A Individual may complain about a breach of a provision of this Part etc. .....................................................................................168
+
+Privacy Act 1988 v
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+23B Dealing with complaints .................................................................169 23C Notification requirements relating to correction complaints ..........170 Division 6—Unauthorised obtaining of credit reporting
+
+information etc. 173 24 Obtaining credit reporting information from a credit reporting body .................................................................................173 24A Obtaining credit eligibility information from a credit provider ...........................................................................................174 Division 7—Court orders 176 25 Compensation orders ......................................................................176 25A Other orders to compensate loss or damage ...................................176 Division 8—Review 178 25B Review of operation of this Part .....................................................178
+
+Part IIIB—Privacy codes 179
+
+Division 1—Introduction 179 26 Guide to this Part ............................................................................179 Division 2—Registered APP codes 181
+
+Subdivision A—Compliance with registered APP codes etc. 181 26A APP entities to comply with binding registered APP codes ...........181 26B What is a registered APP code .......................................................181 26C What is an APP code ......................................................................181 26D Extension of Act to exempt acts or practices covered by registered APP codes ......................................................................182
+
+Subdivision B—Development and registration of APP codes 183 26E Development of APP codes by APP code developers ....................183 26F Application for registration of APP codes ......................................184 26G Development of APP codes by the Commissioner— following a request ..........................................................................184 26GA Development of APP codes by the Commissioner—at the direction of the Minister .................................................................185 26GB Development of APP codes by the Commissioner— temporary APP codes ......................................................................186 26GC Development of APP codes by the Commissioner— Children’s Online Privacy Code .....................................................187 26H Commissioner may register APP codes ..........................................190
+
+Subdivision C—Variation and removal of registered APP codes 191 26J Variation of registered APP codes ..................................................191
+
+vi Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+26K Removal of registered APP codes ..................................................192 Division 3—Registered CR code 194
+
+Subdivision A—Compliance with the registered CR code 194 26L Entities to comply with the registered CR code if bound by the code ...........................................................................................194 26M What is the registered CR code ......................................................194 26N What is a CR code ...........................................................................194
+
+Subdivision B—Development and registration of CR code 195 26P Development of CR code by CR code developers .........................195 26Q Application for registration of CR code .........................................196 26R Development of CR code by the Commissioner ............................197 26S Commissioner may register CR code .............................................197
+
+Subdivision C—Variation of the registered CR code 198 26T Variation of the registered CR code ...............................................198 Division 4—General matters 200 26U Codes Register ................................................................................200 26V Guidelines relating to codes ............................................................200 26W Review of operation of registered codes .........................................201
+
+## Part IIIC—Notification of eligible data breaches 202
+
+Division 1—Introduction 202 26WA Guide to this Part ............................................................................202 26WB Entity ...............................................................................................202 26WC Deemed holding of information ......................................................203 26WD Exception—notification under the My Health Records Act 2012 ................................................................................................204 Division 2—Eligible data breach 205 26WE Eligible data breach ........................................................................205 26WF Exception—remedial action ...........................................................206 26WG Whether access or disclosure would be likely, or would not be likely, to result in serious harm—relevant matters ....................209 Division 3—Notification of eligible data breaches 211
+
+Subdivision A—Suspected eligible data breaches 211 26WH Assessment of suspected eligible data breach ................................211 26WJ Exception—eligible data breaches of other entities .......................211
+
+Subdivision B—General notification obligations 212 26WK Statement about eligible data breach ..............................................212
+
+Privacy Act 1988 vii
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+26WL Entity must notify eligible data breach ...........................................213 26WM Exception—eligible data breaches of other entities .......................214 26WN Exception—enforcement related activities .....................................214 26WP Exception—inconsistency with secrecy provisions ........................215 26WQ Exception—declaration by Commissioner .....................................216
+
+Subdivision C—Commissioner may direct entity to notify eligible
+
+data breach 219 26WR Commissioner may direct entity to notify eligible data breach ..............................................................................................219 26WS Exception—enforcement related activities .....................................221 26WT Exception—inconsistency with secrecy provisions ........................221 Division 4—Commissioner’s powers to obtain information or
+
+documents relating to eligible data breaches 223 26WU Power to obtain information and documents relating to eligible data breaches ......................................................................223 Division 5—Dealing with personal information involved in
+
+eligible data breaches 225
+
+Subdivision A—Eligible data breach declaration 225 26X Eligible data breach declaration ......................................................225 26XA When declarations cease to be in force ...........................................227
+
+Subdivision B—Provisions dealing with the collection, use and
+
+disclosure of personal information 228 26XB Authorisation of collection, use and disclosure of personal information ......................................................................................228
+
+Subdivision C—Other matters 230 26XC Disclosure of information—offence ...............................................230 26XD Division not limited by secrecy provisions .....................................231 26XE Constitutional basis of this Division ...............................................231 26XF Additional operation of this Division .............................................232 26XG Interaction with section 12B ...........................................................234 26XH Compensation for acquisition of property ......................................234
+
+## Part IV—Functions of the Information Commissioner 235
+
+Division 2—Functions of Commissioner 235 27 Functions of the Commissioner ......................................................235 28 Guidance related functions of the Commissioner ..........................236 28A Monitoring related functions of the Commissioner ........................236 28B Advice related functions of the Commissioner ...............................238
+
+viii Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+29 Commissioner must have due regard to the objects of the Act ......239 Division 3—Reports and information sharing by Commissioner 240 30 Reports following investigation of act or practice ..........................240 31 Report following examination of proposed law .............................242 32 Commissioner may report to the Minister if the Commissioner has monitored certain activities etc. .......................242 33 Exclusion of certain matters from reports .......................................243 33A Commissioner may share information with other authorities .........244 33B Commissioner may disclose certain information if in the public interest etc. ...........................................................................246 Division 3A—Assessments by, or at the direction of, the
+
+Commissioner 247 33C Commissioner may conduct an assessment relating to the Australian Privacy Principles etc. ...................................................247 33D Commissioner may direct an agency to give a privacy impact assessment .......................................................................................249 Division 3B—Public inquiries 251 33E Inquiries by Commissioner .............................................................251 33F Commissioner may invite submissions ..........................................252 33G Commissioner not bound by the rules of evidence .........................252 33H Commissioner’s powers ..................................................................252 33J Reporting on public inquiries .........................................................252 Division 4—Miscellaneous 254 34 Provisions relating to documents exempt under the Freedom of Information Act 1982 ..................................................................254 35 Direction where refusal or failure to amend exempt document .........................................................................................254 35A Commissioner may recognise external dispute resolution schemes ...........................................................................................256
+
+## Part V—Investigations etc. 257
+
+Division 1A—Introduction 257 36A Guide to this Part ............................................................................257 Division 1—Investigation of complaints and investigations on the
+
+Commissioner’s initiative 258 36 Complaints ......................................................................................258 36B Complaints relating to the data sharing scheme .............................259 37 Principal executive of agency .........................................................259 38 Conditions for making a representative complaint .........................260
+
+Privacy Act 1988 ix
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+38A Commissioner may determine that a complaint is not to continue as a representative complaint ...........................................261 38B Additional rules applying to the determination of representative complaints ...............................................................262 38C Amendment of representative complaints ......................................262 39 Class member for representative complaint not entitled to lodge individual complaint .............................................................263 40 Investigations ..................................................................................263 40A Conciliation of complaints ..............................................................264 41 Commissioner may or must decide not to investigate etc. in certain circumstances ......................................................................265 42 Preliminary inquiries .......................................................................266 43 Conduct of investigations ...............................................................267 43A Interested party may request a hearing ...........................................269 44 Power to obtain information and documents ..................................269 45 Power to examine witnesses ...........................................................270 46 Directions to persons to attend compulsory conference .................271 47 Conduct of compulsory conference ................................................272 48 Complainant and certain other persons to be informed of various matters ................................................................................272 49 Investigation under section 40 to cease if certain offences may have been committed ..............................................................273 49A Investigation under section 40 to cease if civil penalty provision under Personal Property Securities Act 2009 may have been contravened ....................................................................274 49B Transfer of complaints from the Inspector-General of Intelligence and Security ................................................................275 50 Reference of matters to other authorities ........................................275 50A Substitution of respondent to complaint .........................................278 51 Effect of investigation by Auditor-General ....................................279 Division 2—Determinations following investigation of
+
+complaints 280 52 Determination of the Commissioner ...............................................280 52A Determination—requirement to notify conduct constituting interference with privacy of individual ...........................................283 53 Determination must identify the class members who are to be affected by the determination .....................................................284 53A Notice to be given to outsourcing agency .......................................284 53B Substituting an agency for a contracted service provider ...............285
+
+x Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Division 3—Enforcement of determinations 287 54 Application of Division ..................................................................287 55 Obligations of organisations and small business operators ............287 55A Proceedings in the Federal Court or Federal Circuit and Family Court of Australia (Division 2) to enforce a determination ..................................................................................288 55B Evidentiary certificate .....................................................................289 Division 4—Review and enforcement of determinations
+
+involving Commonwealth agencies 290 57 Application of Division ..................................................................290 58 Obligations of agencies ...................................................................290 59 Obligations of principal executive of agency .................................290 60 Compensation and expenses ...........................................................291 62 Enforcement of determination against an agency ...........................292 Division 5—Miscellaneous 293 63 Legal assistance ..............................................................................293 64 Commissioner etc. not to be sued ...................................................294 65 Failure to attend etc. before Commissioner ....................................294 66 Failure to give information etc. .......................................................295 67 Protection from civil actions ...........................................................298 70 Certain documents and information not required to be disclosed ..........................................................................................298 70B Application of this Part to former organisations .............................300
+
+## Part VI—Public interest determinations and temporary public
+
+interest determinations 301
+
+Division 1—Public interest determinations 301 71 Interpretation ...................................................................................301 72 Power to make, and effect of, determinations ................................301 73 Application by APP entity ..............................................................302 74 Publication of application etc. ........................................................303 75 Draft determination .........................................................................303 76 Conference ......................................................................................304 77 Conduct of conference ....................................................................304 78 Determination of application ..........................................................305 79 Making of determination ................................................................305 Division 2—Temporary public interest determinations 306 80A Temporary public interest determinations ......................................306
+
+Privacy Act 1988 xi
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+80B Effect of temporary public interest determination ..........................306 80D Commissioner may continue to consider application .....................307 Division 3—Register of determinations 308 80E Register of determinations ..............................................................308
+
+Part VIA—Dealing with personal information in emergencies
+
+and disasters 309
+
+Division 1—Object and interpretation 309 80F Object ..............................................................................................309 80G Interpretation ...................................................................................309 Division 2—Declaration of emergency 311 80J Declaration of emergency—events of national significance ..........311 80K Declaration of emergency—events outside Australia ....................312 80KA Matters covered by declarations .....................................................312 80N When declarations cease to be in force ...........................................314 Division 3—Provisions dealing with the use and disclosure of
+
+personal information 316 80P Authorisation of collection, use and disclosure of personal information ......................................................................................316 Division 4—Other matters 318 80Q Disclosure of information—offence ...............................................318 80R Operation of Part .............................................................................319 80S Severability—additional effect of Part ...........................................319 80T Compensation for acquisition of property—constitutional safety net .........................................................................................321
+
+Part VIB—Compliance and enforcement 322
+
+Division 1AA—Introduction 322 80TA Simplified outline of this Part .........................................................322 Division 1AB—Monitoring powers 323 80TB Monitoring powers ..........................................................................323 80TC Modifications of Part 2 of the Regulatory Powers Act ...................326 Division 1AC—Investigation powers 327 80TD Investigation powers .......................................................................327 80TE Modifications of Part 3 of the Regulatory Powers Act ...................330 Division 1—Civil penalties 332 80U Civil penalty provisions ..................................................................332
+
+xii Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+80UA Powers of court to make other orders .............................................332 Division 1A—Infringement notices 334 80UB Infringement notices .......................................................................334 Division 1B—Compliance notices 336 80UC Compliance notices .........................................................................336 80UD Review of compliance notices ........................................................338 Division 2—Enforceable undertakings 340 80V Enforceable undertakings ...............................................................340 Division 3—Injunctions 341 80W Injunctions ......................................................................................341
+
+Part VII—Privacy Advisory Committee 342 81 Interpretation ...................................................................................342 82 Establishment and membership ......................................................342 83 Functions .........................................................................................343 84 Leave of absence .............................................................................344 85 Removal and resignation of members ............................................344 86 Disclosure of interests of members .................................................344 87 Meetings of Advisory Committee ...................................................345 88 Travel allowance .............................................................................345
+
+Part VIII—Obligations of confidence 346 89 Obligations of confidence to which Part applies ............................346 90 Application of Part ..........................................................................346 91 Effect of Part on other laws ............................................................346 92 Extension of certain obligations of confidence ...............................347 93 Relief for breach etc. of certain obligations of confidence .............347 94 Jurisdiction of courts .......................................................................347
+
+Part IX—Miscellaneous 348 94A Schedule 2 .......................................................................................348 95 Medical research guidelines ............................................................348 95A Guidelines for Australian Privacy Principles about health information ......................................................................................349 95AA Guidelines for Australian Privacy Principles about genetic information ......................................................................................350 95B Requirements for Commonwealth contracts ...................................350 95C Disclosure of certain provisions of Commonwealth contracts .......351 96 Review by the Administrative Review Tribunal ............................351
+
+Privacy Act 1988 xiii
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+98A Treatment of partnerships ...............................................................353 98B Treatment of unincorporated associations ......................................353 98C Treatment of trusts ..........................................................................354 99A Conduct of directors, employees and agents ..................................355 100 Regulations .....................................................................................357
+
+Schedule 1—Australian Privacy Principles 359 Overview of the Australian Privacy Principles ..............................................359
+
+Part 1—Consideration of personal information privacy 361 1 Australian Privacy Principle 1—open and transparent management of personal information .............................................361 2 Australian Privacy Principle 2—anonymity and pseudonymity ..................................................................................362
+
+Part 2—Collection of personal information 364 3 Australian Privacy Principle 3—collection of solicited personal information .......................................................................364 4 Australian Privacy Principle 4—dealing with unsolicited personal information .......................................................................366 5 Australian Privacy Principle 5—notification of the collection of personal information ...................................................................367
+
+Part 3—Dealing with personal information 369 6 Australian Privacy Principle 6—use or disclosure of personal information ......................................................................................369 7 Australian Privacy Principle 7—direct marketing ..........................371 8 Australian Privacy Principle 8—cross-border disclosure of personal information .......................................................................374 9 Australian Privacy Principle 9—adoption, use or disclosure of government related identifiers ....................................................376
+
+Part 4—Integrity of personal information 378 10 Australian Privacy Principle 10—quality of personal information ......................................................................................378 11 Australian Privacy Principle 11—security of personal information ......................................................................................378
+
+Part 5—Access to, and correction of, personal information 380 12 Australian Privacy Principle 12—access to personal information ......................................................................................380 13 Australian Privacy Principle 13—correction of personal information ......................................................................................383
+
+xiv Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Schedule 2—Statutory Tort for Serious Invasions of
+
+Privacy 385
+
+Part 1—Preliminary 385 1 Objects of this Schedule .................................................................385 2 Simplified outline of this Schedule .................................................385 3 Crown to be bound ..........................................................................386 4 Constitutional basis of this Schedule ..............................................386 5 Additional operation of this Schedule ............................................386 6 Interpretation ...................................................................................388
+
+Part 2—Serious invasions of privacy 391 7 Cause of action ................................................................................391 8 Defences ..........................................................................................393 8A Determination whether exemption applies .....................................394 9 Injunctions ......................................................................................394 10 Summary judgment .........................................................................394 11 Damages ..........................................................................................395 12 Other remedies ................................................................................396 13 The effect of an apology on liability ...............................................396 14 When proceedings must be commenced .........................................397
+
+Part 3—Exemptions 398 15 Journalists etc. .................................................................................398 16 Agencies and State and Territory authorities (other than intelligence agencies and law enforcement bodies) ........................399 16A Staff members of agencies or State and Territory authorities (other than intelligence agencies and law enforcement bodies) .............................................................................................399 16B Law enforcement bodies .................................................................399 17 Intelligence agencies .......................................................................400 18 Persons under 18 .............................................................................400
+
+Part 4—Miscellaneous 401 19 Single publication rule ....................................................................401 20 Deceased persons ............................................................................402 21 Saving of other laws and remedies .................................................402 22 Intervention of Information Commissioner ....................................402 23 Jurisdiction ......................................................................................402
+
+Privacy Act 1988 xv
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Endnotes 404
+
+Endnote 1—About the endnotes 404
+
+Endnote 2—Abbreviation key 406
+
+Endnote 3—Legislation history 407
+
+Endnote 4—Amendment history 424
+
+Endnote 5—Editorial changes 454
+
+xvi Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 1
+
+## An Act to make provision to protect the privacy of individuals, and for related purposes
+
+WHEREAS Australia is a party to the International Covenant on Civil and Political Rights, the English text of which is set out in Schedule 2 to the Australian Human Rights Commission Act 1986:
+
+AND WHEREAS, by that Covenant, Australia has undertaken to adopt such legislative measures as may be necessary to give effect to the right of persons not to be subjected to arbitrary or unlawful interference with their privacy, family, home or correspondence:
+
+AND WHEREAS Australia is a member of the Organisation for Economic Co-operation and Development:
+
+AND WHEREAS the Council of that Organisation has recommended that member countries take into account in their domestic legislation the principles concerning the protection of privacy and individual liberties set forth in Guidelines annexed to the recommendation:
+
+AND WHEREAS Australia has informed that Organisation that it will participate in the recommendation concerning those Guidelines:
+
+BE IT THEREFORE ENACTED by the Queen, and the Senate and the House of Representatives of the Commonwealth of Australia, as follows:
+
+## Part I—Preliminary
+
+### 1 Short title
+
+This Act may be cited as the Privacy Act 1988.
+
+### 2 Commencement
+
+This Act commences on a day to be fixed by Proclamation.
+
+### 2A Objects of this Act
+
+### (1) The objects of this Act are:
+
+Privacy Act 1988 1
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 3
+
+(a) to promote the protection of the privacy of individuals with
+
+respect to their personal information; and (aa) to recognise the public interest in protecting privacy; and (b) to recognise that the protection of the privacy of individuals
+
+is balanced with the interests of entities in carrying out their functions or activities; and (c) to provide the basis for nationally consistent regulation of
+
+privacy and the handling of personal information; and (d) to promote responsible and transparent handling of personal
+
+information by entities; and (e) to facilitate an efficient credit reporting system while
+
+ensuring that the privacy of individuals is respected; and (f) to facilitate the free flow of information across national
+
+borders while ensuring that the privacy of individuals is respected; and (g) to provide a means for individuals to complain about an
+
+alleged interference with their privacy; and (h) to implement Australia’s international obligations in relation
+
+to privacy.
+
+### (2) This section does not apply to Schedule 2.
+
+Note: See also clause 1 of Schedule 2 (objects).
+
+### 3 Saving of certain State and Territory laws
+
+(1) It is the intention of the Parliament that this Act is not to affect the
+
+operation of a law of a State or of a Territory that makes provision with respect to the collection, holding, use, correction or disclosure of personal information (including such a law relating to credit reporting or the use of information held in connection with credit reporting) and is capable of operating concurrently with this Act.
+
+Note: Such a law can have effect for the purposes of the provisions of the Australian Privacy Principles that regulate the handling of personal information by organisations by reference to the effect of other laws.
+
+### (2) This section does not apply to Schedule 2.
+
+Note: See also clause 21 of Schedule 2 (saving of other laws).
+
+2 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### 3A Application of the Criminal Code
+
+Section 3A
+
+Chapter 2 of the Criminal Code (except Part 2.5) applies to all
+
+offences against this Act.
+
+Note: Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
+
+### 4 Act to bind the Crown
+
+(1) This Act binds the Crown in right of the Commonwealth, of each
+
+of the States, of the Australian Capital Territory and of the Northern Territory.
+
+(2) Nothing in this Act renders the Crown in right of the
+
+Commonwealth, of a State, of the Australian Capital Territory or of the Northern Territory liable to be prosecuted for an offence.
+
+(3) Nothing in this Act shall be taken to have the effect of making the
+
+Crown in right of a State, of the Australian Capital Territory or of the Northern Territory an agency for the purposes of this Act.
+
+### 5A Extension to external Territories
+
+### (1) This Act extends to all external Territories.
+
+### (2) This section does not apply to Schedule 2.
+
+### 5B Extra-territorial operation of Act
+
+Agencies
+
+(1) This Act, a registered APP code and the registered CR code extend
+
+to an act done, or practice engaged in, outside Australia and the external Territories by an agency.
+
+Note: The act or practice overseas will not breach an Australian Privacy Principle or a registered APP code if the act or practice is required by an applicable foreign law (see sections 6A and 6B).
+
+Privacy Act 1988 3
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 5B
+
+Organisations and small business operators
+
+(1A) This Act, a registered APP code and the registered CR code extend
+
+to an act done, or practice engaged in, outside Australia and the external Territories by an organisation, or small business operator, that has an Australian link.
+
+Note: The act or practice overseas will not breach an Australian Privacy Principle or a registered APP code if the act or practice is required by an applicable foreign law (see sections 6A and 6B).
+
+Australian link
+
+(2) An organisation or small business operator has an Australian link
+
+if the organisation or operator is: (a) an Australian citizen; or (b) a person whose continued presence in Australia is not subject
+
+to a limitation as to time imposed by law; or (c) a partnership formed in Australia or an external Territory; or (d) a trust created in Australia or an external Territory; or (e) a body corporate incorporated in Australia or an external
+
+Territory; or (f) an unincorporated association that has its central
+
+management and control in Australia or an external Territory.
+
+(3) An organisation or small business operator also has an Australian
+
+link if all of the following apply: (a) the organisation or operator is not described in
+
+subsection (2); (b) the organisation or operator carries on business in Australia
+
+or an external Territory.
+
+Power to deal with complaints about overseas acts and practices
+
+(4) Part V of this Act has extra-territorial operation so far as that Part
+
+relates to complaints and investigation concerning acts and practices to which this Act extends because of subsection (1) or (1A).
+
+4 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 5B
+
+Note: This lets the Commissioner take action overseas to investigate complaints and lets the ancillary provisions of Part V operate in that context.
+
+Application
+
+### (5) This section does not apply to Schedule 2.
+
+Privacy Act 1988 5
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 6
+
+## Part II—Interpretation
+
+### Division 1—General definitions
+
+#### 6 Interpretation
+
+(1) In this Act, unless the contrary intention appears:
+
+ACC means the Australian Crime Commission.
+
+access seeker has the meaning given by subsection 6L(1).
+
+ACT enactment has the same meaning as enactment has in the Australian Capital Territory (Self-Government) Act 1988.
+
+advice related functions has the meaning given by subsection 28B(1).
+
+affected information recipient means: (a) a mortgage insurer; or (b) a trade insurer; or (c) a body corporate referred to in paragraph 21G(3)(b); or (d) a person referred to in paragraph 21G(3)(c); or (e) an entity or adviser referred to in paragraph 21N(2)(a).
+
+agency means: (a) a Minister; or (b) a Department; or (c) a body (whether incorporated or not), or a tribunal,
+
+established or appointed for a public purpose by or under a Commonwealth law, not being: (i) an incorporated company, society or association; or (ii) an organisation that is registered under the Fair Work
+
+(Registered Organisations) Act 2009 or a branch of such an organisation; or
+
+6 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 6
+
+(ca) a body (whether incorporated or not), or a tribunal,
+
+established for a public purpose by or under a law (other than a law providing for the incorporation of companies, societies or associations) of a State or Territory as in force in an external Territory, other than a body exempted by the Minister under subsection (5A); or (d) a body established or appointed by the Governor-General, or
+
+by a Minister, otherwise than by or under a Commonwealth law; or (e) a person holding or performing the duties of an office
+
+established by or under, or an appointment made under, a Commonwealth law, other than a person who, by virtue of holding that office, is the Secretary of a Department; or (ea) a person holding or performing the duties of an office
+
+established by or under, or an appointment made under, a law of a State or Territory as in force in an external Territory, other than an office or appointment exempted by the Minister under subsection (5A); or (f) a person holding or performing the duties of an appointment,
+
+being an appointment made by the Governor-General, or by a Minister, otherwise than under a Commonwealth law; or (g) a federal court; or (h) the Australian Federal Police; or (ha) a court of Norfolk Island; or (k) an eligible hearing service provider; or (l) the service operator under the Healthcare Identifiers Act
+
+2010.
+
+alternative complaint body has the meaning given by subsection 50(1).
+
+amount of credit has the meaning given by subsection 6M(2).
+
+annual turnover of a business has the meaning given by section 6DA.
+
+APP code has the meaning given by section 26C.
+
+Privacy Act 1988 7
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 6
+
+APP code developer means: (a) an APP entity; or (b) a group of APP entities; or (c) a body or association representing one or more APP entities.
+
+APP complaint means a complaint about an act or practice that, if established, would be an interference with the privacy of an individual because it breached an Australian Privacy Principle.
+
+APP entity means an agency or organisation.
+
+APP privacy policy has the meaning given by Australian Privacy Principle 1.3.
+
+at risk from an eligible data breach has the meaning given by section 26WE.
+
+AUSTRAC means the Australian Transaction Reports and Analysis Centre continued in existence by the Anti-Money Laundering and Counter-Terrorism Financing Act 2006.
+
+Australian law means: (a) an Act of the Commonwealth or of a State or Territory; or (b) regulations, or any other instrument, made under such an
+
+Act; or (c) any other law in force in the Jervis Bay Territory or an
+
+external Territory; or (d) a rule of common law or equity.
+
+Australian link has the meaning given by subsections 5B(2) and (3).
+
+Australian Privacy Principle has the meaning given by section 14.
+
+authorised agent of a reporting entity means a person authorised to act on behalf of the reporting entity as mentioned in section 37 of the Anti-Money Laundering and Counter-Terrorism Financing Act 2006.
+
+bank means:
+
+8 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 6
+
+(a) the Reserve Bank of Australia; or (b) a body corporate that is an ADI (authorised deposit-taking
+
+institution) for the purposes of the Banking Act 1959; or (c) a person who carries on State banking within the meaning of
+
+paragraph 51(xiii) of the Constitution.
+
+Bankruptcy Act means the Bankruptcy Act 1966.
+
+ban period has the meaning given by subsection 20K(3).
+
+Board of the ACC means the Board of the Australian Crime Commission established under section 7B of the Australian Crime Commission Act 2002.
+
+breach: (a) in relation to an Australian Privacy Principle, has the
+
+meaning given by section 6A; and (b) in relation to a registered APP code, has the meaning given
+
+by section 6B; and (c) in relation to the registered CR code, has the meaning given
+
+by section 6BA.
+
+child means an individual who has not reached 18 years.
+
+Children’s Online Privacy Code: see section 26GC.
+
+civil penalty provision has the same meaning as in the Regulatory Powers Act.
+
+class member, in relation to a representative complaint, means any of the persons on whose behalf the complaint was lodged, but does not include a person who has withdrawn under section 38B.
+
+code complaint means a complaint about an act or practice that, if established, would be an interference with the privacy of an individual because it breached a registered APP code.
+
+Codes Register has the meaning given by subsection 26U(1).
+
+Privacy Act 1988 9
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 6
+
+collects: an entity collects personal information only if the entity collects the personal information for inclusion in a record or generally available publication.
+
+commercial credit means credit (other than consumer credit) that is applied for by, or provided to, a person.
+
+commercial credit related purpose of a credit provider in relation to a person means the purpose of: (a) assessing an application for commercial credit made by the
+
+person to the provider; or (b) collecting payments that are overdue in relation to
+
+commercial credit provided by the provider to the person.
+
+Commissioner means the Information Commissioner within the meaning of the Australian Information Commissioner Act 2010.
+
+Commissioner of Police means the Commissioner of Police appointed under the Australian Federal Police Act 1979.
+
+Commission of inquiry means: (a) the Commission of inquiry within the meaning of the
+
+Quarantine Act 1908 (as in force immediately before its repeal); or (b) a Commission of inquiry within the meaning of the Offshore
+
+Petroleum and Greenhouse Gas Storage Act 2006.
+
+committee of management of an unincorporated association means a body (however described) that governs, manages or conducts the affairs of the association.
+
+Commonwealth contract means a contract, to which the Commonwealth or an agency is or was a party, under which services are to be, or were to be, provided to an agency.
+
+Note: See also subsection (9) about provision of services to an agency.
+
+Commonwealth law means the following: (a) an Act other than: (i) the Northern Territory (Self-Government) Act 1978; or
+
+10 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 6
+
+(ii) an Act providing for the administration or government
+
+of an external Territory; or (iii) the Australian Capital Territory (Self-Government) Act
+
+1988; (b) an Ordinance of the Australian Capital Territory or of an
+
+external Territory; (c) a law continued in force by section 16 or 16A of the Norfolk
+
+Island Act 1979; (d) an instrument (including rules, regulations or by-laws) made
+
+under: (i) an Act to which paragraph (a) applies; or (ii) an Ordinance to which paragraph (b) applies; or (iii) a law to which paragraph (c) applies; (e) any other legislation that applies as a law of the
+
+Commonwealth, other than legislation in so far as it is applied: (i) by an Act referred to in subparagraph (a)(i) or (ii); or (ii) as a law of the Australian Capital Territory, to the extent
+
+that it operates as such a law.
+
+Commonwealth officer means a person who holds office under, or is employed by, the Commonwealth, and includes: (a) a person appointed or engaged under the Public Service Act
+
+1999; (b) a person (other than a person referred to in paragraph (a))
+
+permanently or temporarily employed by, or in the service of, an agency; (c) a member of the Defence Force; and (d) a member, staff member or special member of the Australian
+
+Federal Police; but does not include a person permanently or temporarily employed in the Australian Capital Territory Government Service or in the Public Service of the Northern Territory.
+
+Commonwealth record has the same meaning as in the Archives Act 1983.
+
+Privacy Act 1988 11
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 6
+
+consent means express consent or implied consent.
+
+consumer credit means credit: (a) for which an application has been made by an individual to a
+
+credit provider, or that has been provided to an individual by a credit provider, in the course of the provider carrying on a business or undertaking as a credit provider; and (b) that is intended to be used wholly or primarily: (i) for personal, family or household purposes; or (ii) to acquire, maintain, renovate or improve residential
+
+property for investment purposes; or (iii) to refinance consumer credit that has been provided
+
+wholly or primarily to acquire, maintain, renovate or improve residential property for investment purposes.
+
+consumer credit liability information: if a credit provider provides consumer credit to an individual, the following information about the consumer credit is consumer credit liability information about the individual: (a) the name of the provider; (b) whether the provider is a licensee; (c) the type of consumer credit; (d) the day on which the consumer credit is entered into; (e) the terms or conditions of the consumer credit: (i) that relate to the repayment of the amount of credit; and (ii) that are prescribed by the regulations; (f) the maximum amount of credit available under the consumer
+
+credit; (g) the day on which the consumer credit is terminated or
+
+otherwise ceases to be in force.
+
+consumer credit related purpose of a credit provider in relation to an individual means the purpose of: (a) assessing an application for consumer credit made by the
+
+individual to the provider; or
+
+12 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 6
+
+(b) collecting payments that are overdue in relation to consumer
+
+credit provided by the provider to the individual.
+
+consumer data rules has the same meaning as in the Competition and Consumer Act 2010.
+
+contracted service provider, for a government contract, means: (a) an organisation that is or was a party to the government
+
+contract and that is or was responsible for the provision of services to an agency or a State or Territory authority under the government contract; or (b) a subcontractor for the government contract.
+
+corporation means a body corporate that: (a) is a foreign corporation; (b) is a trading corporation formed within the limits of Australia
+
+or is a financial corporation so formed; or (c) is incorporated in a Territory, other than the Northern
+
+Territory.
+
+court proceedings information about an individual means information about a judgement of an Australian court: (a) that is made, or given, against the individual in proceedings
+
+(other than criminal proceedings); and (b) that relates to any credit that has been provided to, or applied
+
+for by, the individual.
+
+court/tribunal order means an order, direction or other instrument made by: (a) a court; or (b) a tribunal; or (c) a judge (including a judge acting in a personal capacity) or a
+
+person acting as a judge; or (d) a magistrate (including a magistrate acting in a personal
+
+capacity) or a person acting as a magistrate; or (e) a member or an officer of a tribunal;
+
+Privacy Act 1988 13
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 6
+
+and includes an order, direction or other instrument that is of an interim or interlocutory nature.
+
+CP derived information about an individual means any personal information (other than sensitive information) about the individual: (a) that is derived from credit reporting information about the
+
+individual that was disclosed to a credit provider by a credit reporting body under Division 2 of Part IIIA; and (b) that has any bearing on the individual’s credit worthiness;
+
+and (c) that is used, has been used or could be used in establishing
+
+the individual’s eligibility for consumer credit.
+
+CRB derived information about an individual means any personal information (other than sensitive information) about the individual: (a) that is derived by a credit reporting body from credit
+
+information about the individual that is held by the body; and (b) that has any bearing on the individual’s credit worthiness;
+
+and (c) that is used, has been used or could be used in establishing
+
+the individual’s eligibility for consumer credit.
+
+CR code has the meaning given by section 26N.
+
+CR code developer means: (a) an entity that is subject to Part IIIA; or (b) a group of entities that are subject to Part IIIA; or (c) a body or association representing one or more entities that
+
+are subject to Part IIIA.
+
+credit has the meaning given by subsections 6M(1) and (3).
+
+credit card means any article of a kind commonly known as a credit card, charge card or any similar article intended for use in obtaining cash, goods or services by means of credit, and includes any article of a kind commonly issued by persons carrying on business to customers or prospective customers of those persons
+
+14 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 6
+
+for use in obtaining goods or services from those persons by means of credit.
+
+credit eligibility information about an individual means: (a) credit reporting information about the individual that was
+
+disclosed to a credit provider by a credit reporting body under Division 2 of Part IIIA; or (b) CP derived information about the individual.
+
+credit enhancement, in relation to credit, means: (a) the process of insuring risk associated with purchasing or
+
+funding the credit by means of a securitisation arrangement; or (b) any other similar process related to purchasing or funding the
+
+credit by those means.
+
+credit guarantee purpose of a credit provider in relation to an individual means the purpose of assessing whether to accept the individual as a guarantor in relation to: (a) credit provided by the provider to a person other than the
+
+individual; or (b) credit for which an application has been made to the provider
+
+by a person other than the individual.
+
+credit information has the meaning given by section 6N.
+
+credit provider has the meaning given by sections 6G to 6K, and, for the purposes of sections 7 and 8 and Parts III, IIIB, IV and V, is taken to include a mortgage insurer and a trade insurer.
+
+credit reporting body means: (a) an organisation; or (b) an agency prescribed by the regulations; that carries on a credit reporting business.
+
+credit reporting business has the meaning given by section 6P.
+
+Privacy Act 1988 15
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 6
+
+credit reporting complaint means a complaint about an act or practice that, if established, would be an interference with the privacy of an individual because: (a) it breached the registered CR code; or (b) it breached a provision of Part IIIA.
+
+credit reporting information about an individual means credit information, or CRB derived information, about the individual.
+
+credit worthiness of an individual means the individual’s: (a) eligibility to be provided with consumer credit; or (b) history in relation to consumer credit; or (c) capacity to repay an amount of credit that relates to consumer
+
+credit.
+
+de facto partner of an individual has the meaning given by the Acts Interpretation Act 1901.
+
+default information has the meaning given by section 6Q.
+
+Defence Department means the Department of State that deals with defence and that is administered by the Minister administering section 1 of the Defence Act 1903.
+
+Defence Force includes the Australian Defence Force Cadets.
+
+de-identified: personal information is de-identified if the information is no longer about an identifiable individual or an individual who is reasonably identifiable.
+
+Department means an Agency within the meaning of the Public Service Act 1999.
+
+eligible data breach has the meaning given by Division 2 of Part IIIC.
+
+eligible data breach declaration means a declaration under subsection 26X(1).
+
+16 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 6
+
+eligible hearing service provider means an entity (within the meaning of the Hearing Services Administration Act 1997): (a) that is, or has at any time been, engaged under Part 3 of the
+
+Hearing Services Administration Act 1997 to provide hearing services; and (b) that is not covered by paragraph (a), (b), (c), (d), (e), (f), (g)
+
+or (h) of the definition of agency.
+
+employee record, in relation to an employee, means a record of personal information relating to the employment of the employee. Examples of personal information relating to the employment of the employee are health information about the employee and personal information about all or any of the following: (a) the engagement, training, disciplining or resignation of the
+
+employee; (b) the termination of the employment of the employee; (c) the terms and conditions of employment of the employee; (d) the employee’s personal and emergency contact details; (e) the employee’s performance or conduct; (f) the employee’s hours of employment; (g) the employee’s salary or wages; (h) the employee’s membership of a professional or trade
+
+association; (i) the employee’s trade union membership; (j) the employee’s recreation, long service, sick, personal,
+
+maternity, paternity or other leave; (k) the employee’s taxation, banking or superannuation affairs.
+
+enforcement body means: (a) the Australian Federal Police; or (aa) the National Anti-Corruption Commissioner; or (ab) the Inspector of the National Anti-Corruption Commission;
+
+or (b) the ACC; or (c) Sport Integrity Australia; or (ca) the Immigration Department; or
+
+Privacy Act 1988 17
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 6
+
+(d) the Australian Prudential Regulation Authority; or (e) the Australian Securities and Investments Commission; or (ea) the Office of the Director of Public Prosecutions, or a similar
+
+body established under a law of a State or Territory; or (f) another agency, to the extent that it is responsible for
+
+administering, or performing a function under, a law that imposes a penalty or sanction or a prescribed law; or (g) another agency, to the extent that it is responsible for
+
+administering a law relating to the protection of the public revenue; or (h) a police force or service of a State or a Territory; or (i) the New South Wales Crime Commission; or (j) the Independent Commission Against Corruption of New
+
+South Wales; or (k) the Law Enforcement Conduct Commission of New South
+
+Wales; or (ka) the Independent Broad-based Anti-corruption Commission of
+
+Victoria; or (l) the Crime and Corruption Commission of Queensland; or (la) the Corruption and Crime Commission of Western Australia;
+
+or (lb) the Independent Commission Against Corruption of South
+
+Australia; or (m) another prescribed authority or body that is established under
+
+a law of a State or Territory to conduct criminal investigations or inquiries; or (n) a State or Territory authority, to the extent that it is
+
+responsible for administering, or performing a function under, a law that imposes a penalty or sanction or a prescribed law; or (o) a State or Territory authority, to the extent that it is
+
+responsible for administering a law relating to the protection of the public revenue.
+
+enforcement related activity means:
+
+18 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 6
+
+(a) the prevention, detection, investigation, prosecution or
+
+punishment of: (i) criminal offences; or (ii) breaches of a law imposing a penalty or sanction; or (b) the conduct of surveillance activities, intelligence gathering
+
+activities or monitoring activities; or (c) the conduct of protective or custodial activities; or (d) the enforcement of laws relating to the confiscation of the
+
+proceeds of crime; or (e) the protection of the public revenue; or (f) the prevention, detection, investigation or remedying of
+
+misconduct of a serious nature, or other conduct prescribed by the regulations; or (g) the preparation for, or conduct of, proceedings before any
+
+court or tribunal, or the implementation of court/tribunal orders.
+
+entity means: (a) an agency; or (b) an organisation; or (c) a small business operator.
+
+Federal Court means the Federal Court of Australia.
+
+file number complaint means a complaint about an act or practice that, if established, would be an interference with the privacy of an individual: (a) because it breached a rule issued under section 17; or (b) because it involved an unauthorised requirement or request
+
+for disclosure of a tax file number.
+
+financial corporation means a financial corporation within the meaning of paragraph 51(xx) of the Constitution.
+
+financial hardship arrangement has the meaning given by subsection 6QA(1).
+
+Privacy Act 1988 19
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 6
+
+financial hardship information has the meaning given by subsection 6QA(4).
+
+foreign corporation means a foreign corporation within the meaning of paragraph 51(xx) of the Constitution.
+
+Freedom of Information Act means the Freedom of Information Act 1982.
+
+generally available publication means a magazine, book, article, newspaper or other publication that is, or will be, generally available to members of the public: (a) whether or not it is published in print, electronically or in any
+
+other form; and (b) whether or not it is available on the payment of a fee.
+
+genetic relative of an individual (the first individual) means another individual who is related to the first individual by blood, including but not limited to a sibling, a parent or a descendant of the first individual.
+
+government contract means a Commonwealth contract or a State contract.
+
+government related identifier of an individual means an identifier of the individual that has been assigned by: (a) an agency; or (b) a State or Territory authority; or (c) an agent of an agency, or a State or Territory authority, acting
+
+in its capacity as agent; or (d) a contracted service provider for a Commonwealth contract,
+
+or a State contract, acting in its capacity as contracted service provider for that contract.
+
+guarantee includes an indemnity given against the default of a person in making a payment in relation to credit that has been applied for by, or provided to, the person.
+
+20 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 6
+
+guidance related functions has the meaning given by subsection 28(1).
+
+healthcare identifier has the meaning given by the Healthcare Identifiers Act 2010.
+
+healthcare identifier offence means: (a) an offence against section 26 of the Healthcare Identifiers
+
+Act 2010; or (b) an offence against section 6 of the Crimes Act 1914 that
+
+relates to an offence mentioned in paragraph (a) of this definition.
+
+Note: For ancillary offences, see section 11.6 of the Criminal Code.
+
+health information has the meaning given by section 6FA.
+
+health service has the meaning given by section 6FB.
+
+hearing services has the same meaning as in the Hearing Services Administration Act 1997.
+
+holds: an entity holds personal information if the entity has possession or control of a record that contains the personal information.
+
+Note: See section 10 for when an agency is taken to hold a record.
+
+identification information about an individual means: (a) the individual’s full name; or (b) an alias or previous name of the individual; or (c) the individual’s date of birth; or (d) the individual’s sex; or (e) the individual’s current or last known address, and 2 previous
+
+addresses (if any); or (f) the name of the individual’s current or last known employer;
+
+or (g) if the individual holds a driver’s licence—the individual’s
+
+driver’s licence number.
+
+Privacy Act 1988 21
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 6
+
+identifier of an individual means a number, letter or symbol, or a combination of any or all of those things, that is used to identify the individual or to verify the identity of the individual, but does not include: (a) the individual’s name; or (b) the individual’s ABN (within the meaning of the A New Tax
+
+System (Australian Business Number) Act 1999); or (c) anything else prescribed by the regulations.
+
+Immigration Department means the Department administered by the Minister administering the Migration Act 1958.
+
+individual means a natural person.
+
+information request has the meaning given by section 6R.
+
+intelligence agency means: (a) the Australian Security Intelligence Organisation; (b) the Australian Secret Intelligence Service; or (ba) the Australian Signals Directorate; or (c) the Office of National Intelligence.
+
+interested party has the meaning given by subsections 20T(3) and 21V(3).
+
+interference with the privacy of an individual has the meaning given by sections 13 to 13F.
+
+licensee has the meaning given by the National Consumer Credit Protection Act 2009.
+
+managing credit does not include the act of collecting overdue payments in relation to credit.
+
+media organisation means an organisation whose activities consist of or include the collection, preparation for dissemination or dissemination of the following material for the purpose of making it available to the public:
+
+22 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 6
+
+(a) material having the character of news, current affairs,
+
+information or a documentary; (b) material consisting of commentary or opinion on, or analysis
+
+of, news, current affairs, information or a documentary.
+
+medical research includes epidemiological research.
+
+member of the staff of the Commissioner means a person referred to in section 23 of the Australian Information Commissioner Act 2010.
+
+misconduct includes fraud, negligence, default, breach of trust, breach of duty, breach of discipline or any other misconduct in the course of duty.
+
+monitoring related functions has the meaning given by subsections 28A(1) and (2).
+
+mortgage credit means consumer credit: (a) that is provided in connection with the acquisition,
+
+maintenance, renovation or improvement of real property; and (b) in relation to which the real property is security.
+
+mortgage insurance purpose of a mortgage insurer in relation to an individual is the purpose of assessing: (a) whether to provide insurance to, or the risk of providing
+
+insurance to, a credit provider in relation to mortgage credit: (i) provided by the provider to the individual; or (ii) for which an application to the provider has been made
+
+by the individual; or (b) the risk of the individual defaulting on mortgage credit in
+
+relation to which the insurer has provided insurance to a credit provider; or (c) the risk of the individual being unable to meet a liability that
+
+might arise under a guarantee provided, or proposed to be provided, in relation to mortgage credit provided by a credit provider to another person.
+
+Privacy Act 1988 23
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 6
+
+mortgage insurer means an organisation, or small business operator, that carries on a business or undertaking that involves providing insurance to credit providers in relation to mortgage credit provided by providers to other persons.
+
+National Credit Code has the same meaning as in the National Consumer Credit Protection Act 2009.
+
+national emergency declaration has the same meaning as in the National Emergency Declaration Act 2020.
+
+National Personal Insolvency Index has the meaning given by the Bankruptcy Act.
+
+new arrangement information has the meaning given by section 6S.
+
+non-participating credit provider means a credit provider to which all of the following apply: (a) the credit provider has not disclosed credit reporting
+
+information or credit eligibility information about an individual to a credit reporting body or another credit provider; (b) the credit provider is not likely to disclose credit reporting
+
+information or credit eligibility information about an individual to a credit reporting body or another credit provider; (c) the credit provider has not collected credit reporting
+
+information or credit eligibility information about an individual from a credit reporting body or another credit provider.
+
+non-profit organisation means an organisation: (a) that is a non-profit organisation; and (b) that engages in activities for cultural, recreational, political,
+
+religious, philosophical, professional, trade or trade union purposes.
+
+24 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 6
+
+offence against this Act includes an offence against section 6 of the Crimes Act 1914, or section 11.1, 11.2, 11.2A, 11.4 or 11.5 of the Criminal Code, that relates to an offence against this Act.
+
+Ombudsman means the Commonwealth Ombudsman.
+
+organisation has the meaning given by section 6C.
+
+overseas recipient, in relation to personal information, has the meaning given by Australian Privacy Principle 8.1.
+
+payment information has the meaning given by section 6T.
+
+penalty unit has the meaning given by section 4AA of the Crimes Act 1914.
+
+pending correction request in relation to credit information or CRB derived information means: (a) a request made under subsection 20T(1) in relation to the
+
+information if a notice has not been given under subsection 20U(2) or (3) in relation to the request; or (b) a request made under subsection 21V(1) in relation to the
+
+information if: (i) the credit reporting body referred to in
+
+subsection 20V(3) has been consulted about the request under subsection 21V(3); and (ii) a notice has not been given under subsection 21W(2) or
+
+### (3) in relation to the request.
+
+pending dispute in relation to credit information or CRB derived information means: (a) a complaint made under section 23A that relates to the
+
+information if a decision about the complaint has not been made under subsection 23B(4); or (b) a matter that relates to the information and that is still being
+
+dealt with by a recognised external dispute resolution scheme; or (c) a complaint made to the Commissioner under Part V that
+
+relates to the information and that is still being dealt with.
+
+Privacy Act 1988 25
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 6
+
+permitted CP disclosure has the meaning given by sections 21J to 21N.
+
+permitted CP use has the meaning given by section 21H.
+
+permitted CRB disclosure has the meaning given by section 20F.
+
+permitted general situation has the meaning given by section 16A.
+
+permitted health situation has the meaning given by section 16B.
+
+personal information means information or an opinion about an identified individual, or an individual who is reasonably identifiable: (a) whether the information or opinion is true or not; and (b) whether the information or opinion is recorded in a material
+
+form or not.
+
+Note: Section 187LA of the Telecommunications (Interception and Access) Act 1979 extends the meaning of personal information to cover information kept under Part 5-1A of that Act.
+
+personal insolvency information has the meaning given by section 6U.
+
+pre-screening assessment means an assessment made under paragraph 20G(2)(d).
+
+principal executive, of an agency, has a meaning affected by section 37.
+
+purchase, in relation to credit, includes the purchase of rights to receive payments relating to the credit.
+
+recognised external dispute resolution scheme means an external dispute resolution scheme recognised under section 35A.
+
+record includes: (a) a document; or (b) an electronic or other device; but does not include:
+
+26 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 6
+
+(d) a generally available publication; or (e) anything kept in a library, art gallery or museum for the
+
+purposes of reference, study or exhibition; or (f) Commonwealth records as defined by subsection 3(1) of the
+
+Archives Act 1983 that are in the open access period for the purposes of that Act; or (fa) records (as defined in the Archives Act 1983) in the care (as
+
+defined in that Act) of the National Archives of Australia in relation to which the Archives has entered into arrangements with a person other than a Commonwealth institution (as defined in that Act) providing for the extent to which the Archives or other persons are to have access to the records; or (g) documents placed by or on behalf of a person (other than an
+
+agency) in the memorial collection within the meaning of the Australian War Memorial Act 1980; or (h) letters or other articles in the course of transmission by post.
+
+Note: For document, see section 2B of the Acts Interpretation Act 1901.
+
+registered APP code has the meaning given by section 26B.
+
+registered CR code has the meaning given by section 26M.
+
+registered political party means a political party registered under Part XI of the Commonwealth Electoral Act 1918.
+
+regulated information of an affected information recipient means: (a) if the recipient is a mortgage insurer or trade insurer—
+
+personal information disclosed to the recipient under Division 2 or 3 of Part IIIA; or (b) if the recipient is a body corporate referred to in
+
+paragraph 21G(3)(b)—credit eligibility information disclosed to the recipient under that paragraph; or (c) if the recipient is a person referred to in
+
+paragraph 21G(3)(c)—credit eligibility information disclosed to the recipient under that paragraph; or
+
+Privacy Act 1988 27
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 6
+
+(d) if the recipient is an entity or adviser referred to in
+
+paragraph 21N(2)(a)—credit eligibility information disclosed to the recipient under subsection 21N(2).
+
+Regulatory Powers Act means the Regulatory Powers (Standard Provisions) Act 2014.
+
+related body corporate: see subsection (8).
+
+repayment history information has the meaning given by subsection 6V(1).
+
+reporting entity has the same meaning as in the Anti-Money Laundering and Counter-Terrorism Financing Act 2006.
+
+representative complaint means a complaint where the persons on whose behalf the complaint was made include persons other than the complainant, but does not include a complaint that the Commissioner has determined should no longer be continued as a representative complaint.
+
+residential property has the meaning given by section 204 of the National Credit Code.
+
+respondent for a complaint made under section 23A means the credit reporting body or credit provider to which the complaint is made.
+
+responsible person has the meaning given by section 6AA.
+
+retention period has the meaning given by sections 20W and 20X.
+
+Secretary means an Agency Head within the meaning of the Public Service Act 1999.
+
+securitisation arrangement means an arrangement: (a) involving the funding, or proposed funding, of: (i) credit that has been, or is to be, provided by a credit
+
+provider; or (ii) the purchase of credit by a credit provider; by issuing instruments or entitlements to investors; and
+
+28 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 6
+
+(b) under which payments to investors in respect of such
+
+instruments or entitlements are principally derived, directly or indirectly, from such credit.
+
+securitisation related purpose of a credit provider in relation to an individual is the purpose of: (a) assessing the risk in purchasing, by means of a securitisation
+
+arrangement, credit that has been provided to, or applied for by: (i) the individual; or (ii) a person for whom the individual is, or is proposing to
+
+be, a guarantor; or (b) assessing the risk in undertaking credit enhancement in
+
+relation to credit: (i) that is, or is proposed to be, purchased or funded by
+
+means of a securitisation arrangement; and (ii) that has been provided to, or applied for by, the
+
+individual or a person for whom the individual is, or is proposing to be, a guarantor.
+
+sensitive information means: (a) information or an opinion about an individual’s: (i) racial or ethnic origin; or (ii) political opinions; or (iii) membership of a political association; or (iv) religious beliefs or affiliations; or (v) philosophical beliefs; or (vi) membership of a professional or trade association; or (vii) membership of a trade union; or (viii) sexual orientation or practices; or (ix) criminal record; that is also personal information; or (b) health information about an individual; or (c) genetic information about an individual that is not otherwise
+
+health information; or
+
+Privacy Act 1988 29
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 6
+
+(d) biometric information that is to be used for the purpose of
+
+automated biometric verification or biometric identification; or (e) biometric templates.
+
+serious credit infringement means: (a) an act done by an individual that involves fraudulently
+
+obtaining consumer credit, or attempting fraudulently to obtain consumer credit; or (b) an act done by an individual that involves fraudulently
+
+evading the individual’s obligations in relation to consumer credit, or attempting fraudulently to evade those obligations; or (c) an act done by an individual if: (i) a reasonable person would consider that the act
+
+indicates an intention, on the part of the individual, to no longer comply with the individual’s obligations in relation to consumer credit provided by a credit provider; and (ii) the provider has, after taking such steps as are
+
+reasonable in the circumstances, been unable to contact the individual about the act; and (iii) at least 6 months have passed since the provider last had
+
+contact with the individual.
+
+small business has the meaning given by section 6D.
+
+small business operator has the meaning given by section 6D.
+
+solicits: an entity solicits personal information if the entity requests another entity to provide the personal information, or to provide a kind of information in which that personal information is included.
+
+staff of the Ombudsman means the persons appointed or employed for the purposes of section 31 of the Ombudsman Act 1976.
+
+State includes the Australian Capital Territory and the Northern Territory.
+
+30 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 6
+
+State contract means a contract, to which a State or Territory or State or Territory authority is or was a party, under which services are to be, or were to be, provided to a State or Territory authority.
+
+Note: See also subsection (9) about provision of services to a State or Territory authority.
+
+State or Territory authority has the meaning given by section 6C.
+
+subcontractor, for a government contract, means an organisation: (a) that is or was a party to a contract (the subcontract): (i) with a contracted service provider for the government
+
+contract (within the meaning of paragraph (a) of the definition of contracted service provider); or (ii) with a subcontractor for the government contract (under
+
+a previous application of this definition); and (b) that is or was responsible under the subcontract for the
+
+provision of services to an agency or a State or Territory authority, or to a contracted service provider for the government contract, for the purposes (whether direct or indirect) of the government contract.
+
+tax file number means a tax file number as defined in Part VA of the Income Tax Assessment Act 1936.
+
+tax file number information means information, whether compiled lawfully or unlawfully, and whether recorded in a material form or not, that records the tax file number of a person in a manner connecting it with the person’s identity.
+
+temporary APP code: see section 26GB.
+
+temporary public interest determination means a determination made under section 80A.
+
+trade insurance purpose of a trade insurer in relation to an individual is the purpose of assessing: (a) whether to provide insurance to, or the risk of providing
+
+insurance to, a credit provider in relation to commercial
+
+Privacy Act 1988 31
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 6
+
+credit provided by the provider to the individual or another person; or (b) the risk of a person defaulting on commercial credit in
+
+relation to which the insurer has provided insurance to a credit provider.
+
+trade insurer means an organisation, or small business operator, that carries on a business or undertaking that involves providing insurance to credit providers in relation to commercial credit provided by providers to other persons.
+
+trading corporation means a trading corporation within the meaning of paragraph 51(xx) of the Constitution.
+
+(1A) In order to avoid doubt, it is declared that an ACT enactment is not
+
+a Commonwealth law for the purposes of this Act.
+
+(3) For the purposes of this Act, an act or practice breaches a rule
+
+issued under section 17 if, and only if, it is contrary to, or inconsistent with, the rule.
+
+(4) The definition of individual in subsection (1) shall not be taken to
+
+imply that references to persons do not include persons other than natural persons.
+
+(5) For the purposes of this Act, a person shall not be taken to be an
+
+agency merely because the person is the holder of, or performs the duties of: (a) a prescribed office; or (b) an office prescribed by regulations made for the purposes of
+
+subparagraph 4(3)(b)(i) of the Freedom of Information Act 1982; or (c) an office established by or under a Commonwealth law, or a
+
+law of a State or Territory that applies in an external Territory, for the purposes of an agency; (d) a judicial office or of an office of magistrate; or (e) an office of a member of a tribunal:
+
+32 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 6
+
+(i) that is established by or under a Commonwealth law, or
+
+a law of a State or Territory that applies in an external Territory; and (ii) that is prescribed by the regulations for the purposes of
+
+this subparagraph.
+
+(5A) The Minister may, by legislative instrument, exempt a body, office
+
+or appointment for the purposes of paragraph (ca) or (ea) of the definition of agency in subsection (1).
+
+(6) For the purposes of this Act, the Defence Department shall be
+
+taken to include the Defence Force.
+
+(7) Nothing in this Act prevents a complaint from: (a) being both a file number complaint and an APP complaint; or (b) being both a file number complaint and a credit reporting
+
+complaint; or (c) being both a file number complaint and a code complaint; or (e) being both a code complaint and a credit reporting complaint;
+
+or (f) being both an APP complaint and a credit reporting
+
+complaint; or (g) being both an APP complaint and a code complaint.
+
+(8) For the purposes of this Act, the question whether bodies corporate
+
+are related to each other is determined in the manner in which that question is determined under the Corporations Act 2001.
+
+(9) To avoid doubt, for the purposes of this Act, services provided to
+
+an agency or a State or Territory authority include services that consist of the provision of services to other persons in connection with the performance of the functions of the agency or State or Territory authority.
+
+(10) For the purposes of this Act, a reference to family in the definition
+
+of consumer credit in subsection 6(1), and in sections 6D and 16, in relation to any individual is taken to include the following (without limitation):
+
+Privacy Act 1988 33
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 6AA
+
+(a) a de facto partner of the individual; (b) someone who is the child of the person, or of whom the
+
+person is the child, because of the definition of child in subsection (11); (c) anyone else who would be a member of the individual’s
+
+family if someone mentioned in paragraph (a) or (b) is taken to be a member of the individual’s family.
+
+(10A) For the purposes of this Act, the Supreme Court of Norfolk Island
+
+is taken not to be a federal court.
+
+### (11) In this section:
+
+child: without limiting who is a child of a person for the purposes of subsection (10), someone is the child of a person if he or she is a child of the person within the meaning of the Family Law Act 1975.
+
+#### 6AA Meaning of responsible person
+
+(1) A responsible person for an individual is: (a) a parent of the individual; or (b) a child or sibling of the individual if the child or sibling is at
+
+least 18 years old; or (c) a spouse or de facto partner of the individual; or (d) a relative of the individual if the relative is: (i) at least 18 years old; and (ii) a member of the individual’s household; or (e) a guardian of the individual; or (f) a person exercising an enduring power of attorney granted by
+
+the individual that is exercisable in relation to decisions about the individual’s health; or (g) a person who has an intimate personal relationship with the
+
+individual; or (h) a person nominated by the individual to be contacted in case
+
+of emergency.
+
+34 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### (2) In this section:
+
+Section 6AA
+
+child: without limiting who is a child of an individual for the purposes of subsection (1), each of the following is a child of an individual: (a) an adopted child, stepchild, exnuptial child or foster child of
+
+the individual; (b) someone who is a child of the individual within the meaning
+
+of the Family Law Act 1975.
+
+parent: without limiting who is a parent of an individual for the purposes of subsection (1), someone is a parent of an individual if the individual is his or her child because of the definition of child in this subsection.
+
+relative of an individual (the first individual) means a grandparent, grandchild, uncle, aunt, nephew or niece of the first individual and for this purpose, relationships to the first individual may also be traced to or through another individual who is: (a) a de facto partner of the first individual; or (b) the child of the first individual because of the definition of
+
+child in this subsection.
+
+sibling of an individual includes: (a) a half-brother, half-sister, adoptive brother, adoptive sister,
+
+step-brother, step-sister, foster-brother and foster-sister of the individual; and (b) another individual if a relationship referred to in
+
+paragraph (a) can be traced through a parent of either or both of the individuals.
+
+stepchild: without limiting who is a stepchild of an individual, someone is a stepchild of an individual if he or she would be the individual’s stepchild except that the individual is not legally married to the individual’s de facto partner.
+
+Privacy Act 1988 35
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 6A
+
+#### 6A Breach of an Australian Privacy Principle
+
+(1) For the purposes of this Act, an act or practice breaches an
+
+Australian Privacy Principle if, and only if, it is contrary to, or inconsistent with, that principle.
+
+No breach—contracted service provider
+
+(2) An act or practice does not breach an Australian Privacy Principle
+
+if: (a) the act is done, or the practice is engaged in: (i) by an organisation that is a contracted service provider
+
+for a Commonwealth contract (whether or not the organisation is a party to the contract); and (ii) for the purposes of meeting (directly or indirectly) an
+
+obligation under the contract; and (b) the act or practice is authorised by a provision of the contract
+
+that is inconsistent with the principle.
+
+No breach—disclosure to the National Archives of Australia
+
+(3) An act or practice does not breach an Australian Privacy Principle
+
+if the act or practice involves the disclosure by an organisation of personal information in a record (as defined in the Archives Act 1983) solely for the purposes of enabling the National Archives of Australia to decide whether to accept, or to arrange, care (as defined in that Act) of the record.
+
+No breach—act or practice outside Australia
+
+(4) An act or practice does not breach an Australian Privacy Principle
+
+if: (a) the act is done, or the practice is engaged in, outside
+
+Australia and the external Territories; and (b) the act or practice is required by an applicable law of a
+
+foreign country.
+
+36 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Effect despite subsection (1)
+
+Section 6B
+
+(5) Subsections (2), (3) and (4) have effect despite subsection (1).
+
+#### 6B Breach of a registered APP code
+
+Breach if contrary to, or inconsistent with, code
+
+(1) For the purposes of this Act, an act or practice breaches a
+
+registered APP code if, and only if, it is contrary to, or inconsistent with, the code.
+
+No breach—contracted service provider
+
+(2) An act or practice does not breach a registered APP code if: (a) the act is done, or the practice is engaged in: (i) by an organisation that is a contracted service provider
+
+for a Commonwealth contract (whether or not the organisation is a party to the contract); and (ii) for the purposes of meeting (directly or indirectly) an
+
+obligation under the contract; and (b) the act or practice is authorised by a provision of the contract
+
+that is inconsistent with the code.
+
+No breach—disclosure to the National Archives of Australia
+
+(3) An act or practice does not breach a registered APP code if the act
+
+or practice involves the disclosure by an organisation of personal information in a record (as defined in the Archives Act 1983) solely for the purposes of enabling the National Archives of Australia to decide whether to accept, or to arrange, care (as defined in that Act) of the record.
+
+No breach—act or practice outside Australia
+
+(4) An act or practice does not breach a registered APP code if: (a) the act is done, or the practice is engaged in, outside
+
+Australia and the external Territories; and
+
+Privacy Act 1988 37
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 6BA
+
+(b) the act or practice is required by an applicable law of a
+
+foreign country.
+
+Effect despite subsection (1)
+
+(5) Subsections (2), (3) and (4) have effect despite subsection (1).
+
+#### 6BA Breach of the registered CR code
+
+For the purposes of this Act, an act or practice breaches the
+
+registered CR code if, and only if, it is contrary to, or inconsistent with, the code.
+
+#### 6C Organisations
+
+What is an organisation?
+
+### (1) In this Act:
+
+organisation means: (a) an individual; or (b) a body corporate; or (c) a partnership; or (d) any other unincorporated association; or (e) a trust; that is not a small business operator, a registered political party, an agency, a State or Territory authority or a prescribed instrumentality of a State or Territory.
+
+Note 1: Under section 187LA of the Telecommunications (Interception and Access) Act 1979, service providers are, in relation to their activities relating to retained data, treated as organisations for the purposes of this Act.
+
+Note: 2: Regulations may prescribe an instrumentality by reference to one or more classes of instrumentality. See subsection 13(3) of the Legislation Act 2003.
+
+Example: Regulations may prescribe an instrumentality of a State or Territory
+
+that is an incorporated company, society or association and therefore not a State or Territory authority.
+
+38 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 6C
+
+Legal person treated as different organisations in different capacities
+
+(2) A legal person can have a number of different capacities in which
+
+the person does things. In each of those capacities, the person is taken to be a different organisation.
+
+Example: In addition to his or her personal capacity, an individual may be the
+
+trustee of one or more trusts. In his or her personal capacity, he or she is one organisation. As trustee of each trust, he or she is a different organisation.
+
+What is a State or Territory authority?
+
+### (3) In this Act:
+
+State or Territory authority means: (a) a State or Territory Minister; or (b) a Department of State of a State or Territory; or (c) a body (whether incorporated or not), or a tribunal,
+
+established or appointed for a public purpose by or under a law of a State or Territory, other than: (i) an incorporated company, society or association; or (ii) an association of employers or employees that is
+
+registered or recognised under a law of a State or Territory dealing with the resolution of industrial disputes; or (d) a body established or appointed, otherwise than by or under a
+
+law of a State or Territory, by: (i) a Governor of a State; or (ii) the Australian Capital Territory Executive; or (iii) the Administrator of the Northern Territory; or (v) a State or Territory Minister; or (e) a person holding or performing the duties of an office
+
+established by or under, or an appointment made under, a law of a State or Territory, other than the office of head of a State or Territory Department (however described); or
+
+Privacy Act 1988 39
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 6C
+
+(f) a person holding or performing the duties of an appointment
+
+made, otherwise than under a law of a State or Territory, by: (i) a Governor of a State; or (ii) the Australian Capital Territory Executive; or (iii) the Administrator of the Northern Territory; or (v) a State or Territory Minister; or (g) a State or Territory court.
+
+Making regulations to stop instrumentalities being organisations
+
+(4) Before the Governor-General makes regulations prescribing an
+
+instrumentality of a State or Territory for the purposes of the definition of organisation in subsection (1), the Minister must: (a) be satisfied that the State or Territory has requested that the
+
+instrumentality be prescribed for those purposes; and (b) consider: (i) whether treating the instrumentality as an organisation
+
+for the purposes of this Act adversely affects the government of the State or Territory; and (ii) the desirability of regulating under this Act the
+
+collection, holding, use, correction and disclosure of personal information by the instrumentality; and (iii) whether the law of the State or Territory regulates the
+
+collection, holding, use, correction and disclosure of personal information by the instrumentality to a standard that is at least equivalent to the standard that would otherwise apply to the instrumentality under this Act; and (c) consult the Commissioner about the matters mentioned in
+
+subparagraphs (b)(ii) and (iii).
+
+State does not include Territory
+
+### (5) In this section:
+
+State does not include the Australian Capital Territory or the Northern Territory (despite subsection 6(1)).
+
+40 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 6D
+
+#### 6D Small business and small business operators
+
+What is a small business?
+
+(1) A business is a small business at a time (the test time) in a
+
+financial year (the current year) if its annual turnover for the previous financial year is $3,000,000 or less.
+
+Test for new business
+
+(2) However, if there was no time in the previous financial year when
+
+the business was carried on, the business is a small business at the test time only if its annual turnover for the current year is $3,000,000 or less.
+
+What is a small business operator?
+
+(3) A small business operator is an individual, body corporate,
+
+partnership, unincorporated association or trust that: (a) carries on one or more small businesses; and (b) does not carry on a business that is not a small business.
+
+Entities that are not small business operators
+
+(4) However, an individual, body corporate, partnership,
+
+unincorporated association or trust is not a small business operator if he, she or it: (a) carries on a business that has had an annual turnover of more
+
+than $3,000,000 for a financial year that has ended after the later of the following: (i) the time he, she or it started to carry on the business; (ii) the commencement of this section; or (b) provides a health service to another individual and holds any
+
+health information except in an employee record; or (c) discloses personal information about another individual to
+
+anyone else for a benefit, service or advantage; or (d) provides a benefit, service or advantage to collect personal
+
+information about another individual from anyone else; or
+
+Privacy Act 1988 41
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 6D
+
+(e) is a contracted service provider for a Commonwealth contract
+
+(whether or not a party to the contract); or (f) is a credit reporting body.
+
+Private affairs of small business operators who are individuals
+
+(5) Subsection (4) does not prevent an individual from being a small
+
+business operator merely because he or she does something described in paragraph (4)(b), (c) or (d): (a) otherwise than in the course of a business he or she carries
+
+on; and (b) only for the purposes of, or in connection with, his or her
+
+personal, family or household affairs.
+
+Non-business affairs of other small business operators
+
+(6) Subsection (4) does not prevent a body corporate, partnership,
+
+unincorporated association or trust from being a small business operator merely because it does something described in paragraph (4)(b), (c) or (d) otherwise than in the course of a business it carries on.
+
+Disclosure compelled or made with consent
+
+(7) Paragraph (4)(c) does not prevent an individual, body corporate,
+
+partnership, unincorporated association or trust from being a small business operator only because he, she or it discloses personal information about another individual: (a) with the consent of the other individual; or (b) as required or authorised by or under legislation.
+
+Collection with consent or under legislation
+
+(8) Paragraph (4)(d) does not prevent an individual, body corporate,
+
+partnership, unincorporated association or trust from being a small business operator only because he, she or it: (a) collects personal information about another individual from
+
+someone else:
+
+42 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 6DA
+
+(i) with the consent of the other individual; or (ii) as required or authorised by or under legislation; and (b) provides a benefit, service or advantage to be allowed to
+
+collect the information.
+
+Related bodies corporate
+
+(9) Despite subsection (3), a body corporate is not a small business
+
+operator if it is related to a body corporate that carries on a business that is not a small business.
+
+#### 6DA What is the annual turnover of a business?
+
+What is the annual turnover of a business for a financial year?
+
+(1) The annual turnover of a business for a financial year is the total
+
+of the following that is earned in the year in the course of the business: (a) the proceeds of sales of goods and/or services; (b) commission income; (c) repair and service income; (d) rent, leasing and hiring income; (e) government bounties and subsidies; (f) interest, royalties and dividends; (g) other operating income.
+
+Note: The annual turnover for a financial year of a business carried on by an entity that does not carry on another business will often be similar to the total of the instalment income the entity notifies to the Commissioner of Taxation for the 4 quarters in the year (or for the year, if the entity pays tax in annual instalments).
+
+(2) However, if a business has been carried on for only part of a
+
+financial year, its annual turnover for the financial year is the amount worked out using the formula:
+
+Privacy Act 1988 43
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 6E
+
+Number of days in the Amount that would be the
+
+whole financial year annual turnover of the business
+
+´
+
+under subsection (1) if the part Number of days in the part were a whole financial year
+
+#### 6E Small business operator treated as organisation
+
+Small business operator that is a reporting entity
+
+(1A) If a small business operator is a reporting entity or an authorised
+
+agent of a reporting entity because of anything done in the course of a small business carried on by the small business operator, this Act applies, with the prescribed modifications (if any), in relation to the activities carried on by the small business operator for the purposes of, or in connection with, activities relating to: (a) the Anti-Money Laundering and Counter-Terrorism
+
+Financing Act 2006; or (b) regulations or AML/CTF Rules under that Act; as if the small business operator were an organisation.
+
+Note: The regulations may prescribe different modifications of the Act for different small business operators. See subsection 33(3A) of the Acts Interpretation Act 1901.
+
+Small business operator that is a protected action ballot agent under the Fair Work Act 2009
+
+(1B) If a small business operator is the protected action ballot agent for
+
+a protected action ballot conducted under Part 3-3 of the Fair Work Act 2009, this Act applies, with the prescribed modifications (if any), in relation to the activities carried on by the small business operator for the purpose of, or in connection with, the conduct of the protected action ballot, as if the small business operator were an organisation.
+
+Note: The regulations may prescribe different modifications of the Act for different small business operators. See subsection 33(3A) of the Acts Interpretation Act 1901.
+
+44 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 6E
+
+Small business operator that is an association of employees that is registered or recognised under the Fair Work (Registered Organisations) Act 2009
+
+(1C) If a small business operator is an association of employees that is
+
+registered or recognised under the Fair Work (Registered Organisations) Act 2009, this Act applies, with the prescribed modifications (if any), in relation to the activities carried on by the small business operator, as if the small business operator were an organisation (within the meaning of this Act).
+
+Note: The regulations may prescribe different modifications of the Act for different small business operators. See subsection 33(3A) of the Acts Interpretation Act 1901.
+
+Small business operator that is accredited for the consumer data right regime
+
+(1D) If a small business operator holds an accreditation under
+
+subsection 56CA(1) of the Competition and Consumer Act 2010, this Act applies, with the prescribed modifications (if any), in relation to information that: (a) is personal information; but (b) is not CDR data (within the meaning of that Act); as if the small business operator were an organisation.
+
+Note: The regulations may prescribe different modifications of the Act for different small business operators. See subsection 33(3A) of the Acts Interpretation Act 1901.
+
+Regulations treating a small business operator as an organisation
+
+(1) This Act applies, with the prescribed modifications (if any), in
+
+relation to a small business operator prescribed for the purposes of this subsection as if the small business operator were an organisation.
+
+Note 1: The regulations may prescribe different modifications of the Act for different small business operators. See subsection 33(3A) of the Acts Interpretation Act 1901.
+
+Privacy Act 1988 45
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 6E
+
+Note 2: Regulations may prescribe a small business operator by reference to one or more classes of small business operator. See subsection 13(3) of the Legislation Act 2003.
+
+Regulations treating a small business operator as an organisation for particular acts or practices
+
+(2) This Act also applies, with the prescribed modifications (if any), in
+
+relation to the prescribed acts or practices of a small business operator prescribed for the purposes of this subsection as if the small business operator were an organisation.
+
+Note 1: The regulations may prescribe different modifications of the Act for different acts, practices or small business operators. See subsection 33(3A) of the Acts Interpretation Act 1901.
+
+Note 2: Regulations may prescribe an act, practice or small business operator by reference to one or more classes of acts, practices or small business operators. See subsection 13(3) of the Legislation Act 2003.
+
+Definition
+
+### (3) In this section:
+
+protected action ballot agent means a person (other than the Australian Electoral Commission) that conducts a protected action ballot under Part 3-3 of the Fair Work Act 2009.
+
+Making regulations
+
+(4) Before the Governor-General makes regulations prescribing a
+
+small business operator, act or practice for the purposes of subsection (1) or (2), the Minister must: (a) be satisfied that it is desirable in the public interest to
+
+regulate under this Act the small business operator, act or practice; and (b) consult the Commissioner about the desirability of regulating
+
+under this Act the matters described in paragraph (a).
+
+46 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 6EA
+
+6EA Small business operators choosing to be treated as organisations
+
+(1) This Act applies in relation to a small business operator as if the
+
+operator were an organisation while a choice by the operator to be treated as an organisation is registered under this section.
+
+(2) A small business operator may make a choice in writing given to
+
+the Commissioner to be treated as an organisation.
+
+Note: A small business operator may revoke such a choice by writing given to the Commissioner. See subsection 33(3) of the Acts Interpretation Act 1901.
+
+(3) If the Commissioner is satisfied that a small business operator has
+
+made the choice to be treated as an organisation, the Commissioner must enter in a register of operators who have made such a choice: (a) the name or names under which the operator carries on
+
+business; and (b) the operator’s ABN, if the operator has one under the A New
+
+Tax System (Australian Business Number) Act 1999.
+
+(4) If a small business operator revokes a choice to be treated as an
+
+organisation, the Commissioner must remove from the register the material relating to the operator.
+
+(5) The Commissioner may decide the form of the register and how it
+
+is to be kept.
+
+(6) The Commissioner must make the register available to the public
+
+in the way that the Commissioner determines. However, the Commissioner must not make available to the public in the register information other than that described in subsection (3).
+
+Privacy Act 1988 47
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 6F
+
+#### 6F State instrumentalities etc. treated as organisations
+
+Regulations treating a State instrumentality etc. as an organisation
+
+(1) This Act applies, with the prescribed modifications (if any), in
+
+relation to a prescribed State or Territory authority or a prescribed instrumentality of a State or Territory (except an instrumentality that is an organisation because of section 6C) as if the authority or instrumentality were an organisation.
+
+Note 1: The regulations may prescribe different modifications of the Act for different authorities or instrumentalities. See subsection 33(3A) of the Acts Interpretation Act 1901.
+
+Note 2: Regulations may prescribe an authority or instrumentality by reference to one or more classes of authority or instrumentality. See subsection 13(3) of the Legislation Act 2003.
+
+Making regulations to treat instrumentality etc. as organisation
+
+(3) Before the Governor-General makes regulations prescribing a State
+
+or Territory authority or instrumentality of a State or Territory for the purposes of subsection (1), the Minister must: (a) be satisfied that the relevant State or Territory has requested
+
+that the authority or instrumentality be prescribed for those purposes; and (b) consult the Commissioner about the desirability of regulating
+
+under this Act the collection, holding, use, correction and disclosure of personal information by the authority or instrumentality.
+
+#### 6FA Meaning of health information
+
+The following information is health information: (a) information or an opinion about: (i) the health, including an illness, disability or injury, (at
+
+any time) of an individual; or (ii) an individual’s expressed wishes about the future
+
+provision of health services to the individual; or
+
+48 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 6FB
+
+(iii) a health service provided, or to be provided, to an
+
+individual; that is also personal information; (b) other personal information collected to provide, or in
+
+providing, a health service to an individual; (c) other personal information collected in connection with the
+
+donation, or intended donation, by an individual of his or her body parts, organs or body substances; (d) genetic information about an individual in a form that is, or
+
+could be, predictive of the health of the individual or a genetic relative of the individual.
+
+#### 6FB Meaning of health service
+
+(1) An activity performed in relation to an individual is a health
+
+service if the activity is intended or claimed (expressly or otherwise) by the individual or the person performing it: (a) to assess, maintain or improve the individual’s health; or (b) where the individual’s health cannot be maintained or
+
+improved—to manage the individual’s health; or (c) to diagnose the individual’s illness, disability or injury; or (d) to treat the individual’s illness, disability or injury or
+
+suspected illness, disability or injury; or (e) to record the individual’s health for the purposes of
+
+assessing, maintaining, improving or managing the individual’s health.
+
+(2) The dispensing on prescription of a drug or medicinal preparation
+
+by a pharmacist is a health service.
+
+(3) To avoid doubt: (a) a reference in this section to an individual’s health includes
+
+the individual’s physical or psychological health; and (b) an activity mentioned in subsection (1) or (2) that takes place
+
+in the course of providing aged care, palliative care or care for a person with a disability is a health service.
+
+Privacy Act 1988 49
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 6FB
+
+(4) The regulations may prescribe an activity that, despite
+
+subsections (1) and (2) is not to be treated as a health service for the purposes of this Act.
+
+50 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 6G
+
+### Division 2—Key definitions relating to credit reporting
+
+#### Subdivision A—Credit provider
+
+#### 6G Meaning of credit provider
+
+General
+
+(1) Each of the following is a credit provider: (a) a bank; (b) an organisation or small business operator if: (i) the organisation or operator carries on a business or
+
+undertaking; and (ii) a substantial part of the business or undertaking is the
+
+provision of credit; (c) an organisation or small business operator: (i) that carries on a retail business; and (ii) that, in the course of the business, issues credit cards to
+
+individuals in connection with the sale of goods, or the supply of services, by the organisation or operator (as the case may be); (d) an agency, organisation or small business operator: (i) that carries on a business or undertaking that involves
+
+providing credit; and (ii) that is prescribed by the regulations.
+
+Other credit providers
+
+(2) If: (a) an organisation or small business operator (the supplier)
+
+carries on a business or undertaking in the course of which the supplier provides credit in connection with the sale of goods, or the supply of services, by the supplier; and (b) the repayment, in full or in part, of the amount of credit is
+
+deferred for at least 7 days; and
+
+Privacy Act 1988 51
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 6H
+
+(c) the supplier is not a credit provider under subsection (1); then the supplier is a credit provider but only in relation to the credit.
+
+(3) If: (a) an organisation or small business operator (the lessor) carries
+
+on a business or undertaking in the course of which the lessor provides credit in connection with the hiring, leasing or renting of goods; and (b) the credit is in force for at least 7 days; and (c) no amount, or an amount less than the value of the goods, is
+
+paid as a deposit for the return of the goods; and (d) the lessor is not a credit provider under subsection (1); then the lessor is a credit provider but only in relation to the credit.
+
+(4) An organisation or small business operator is a credit provider if
+
+subsection 6H(1), 6J(1) or 6K(1) provides that the organisation or operator is a credit provider.
+
+Exclusions
+
+(5) Despite subsections (1) to (4) of this section, an organisation or
+
+small business operator acting in the capacity of: (a) a real estate agent; or (b) a general insurer (within the meaning of the Insurance Act
+
+1973); or (c) an employer of an individual; is not a credit provider while acting in that capacity.
+
+(6) Despite subsections (1) to (4) of this section, an organisation or
+
+small business operator is not a credit provider if it is included in a class of organisations or operators prescribed by the regulations.
+
+#### 6H Agents of credit providers
+
+(1) If an organisation or small business operator (the agent) is acting
+
+as an agent of a credit provider (the principal) in performing, on behalf of the principal, a task that is reasonably necessary:
+
+52 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 6J
+
+(a) in processing an application for credit made to the principal;
+
+or (b) in managing credit provided by the principal; then, while the agent is so acting, the agent is a credit provider.
+
+(2) Subsection (1) does not apply if the principal is an organisation or
+
+small business operator that is a credit provider because of a previous application of that subsection.
+
+(3) If subsection (1) applies in relation to credit that has been provided
+
+by the principal, the credit is taken, for the purposes of this Act, to have been provided by both the principal and the agent.
+
+(4) If subsection (1) applies in relation to credit for which an
+
+application has been made to the principal, the application is taken, for the purposes of this Act, to have been made to both the principal and the agent.
+
+#### 6J Securitisation arrangements etc.
+
+(1) If: (a) an organisation or small business operator (the securitisation
+
+entity) carries on a business that is involved in either or both of the following: (i) a securitisation arrangement; (ii) managing credit that is the subject of a securitisation
+
+arrangement; and (b) the securitisation entity performs a task that is reasonably
+
+necessary for: (i) purchasing, funding or managing, or processing an
+
+application for, credit by means of a securitisation arrangement; or (ii) undertaking credit enhancement in relation to credit;
+
+and (c) the credit has been provided by, or is credit for which an
+
+application has been made to, a credit provider (the original credit provider);
+
+Privacy Act 1988 53
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 6K
+
+then, while the securitisation entity performs such a task, the securitisation entity is a credit provider.
+
+(2) Subsection (1) does not apply if the original credit provider is an
+
+organisation or small business operator that is a credit provider because of a previous application of that subsection.
+
+(3) If subsection (1) applies in relation to credit that has been provided
+
+by the original credit provider, the credit is taken, for the purposes of this Act, to have been provided by both the original credit provider and the securitisation entity.
+
+(4) If subsection (1) applies in relation to credit for which an
+
+application has been made to the original credit provider, the application is taken, for the purposes of this Act, to have been made to both the original credit provider and the securitisation entity.
+
+#### 6K Acquisition of the rights of a credit provider
+
+(1) If: (a) an organisation or small business operator (the acquirer)
+
+acquires, whether by assignment, subrogation or any other means, the rights of a credit provider (the original credit provider) in relation to the repayment of an amount of credit; and (b) the acquirer is not a credit provider under subsection 6G(1); then the acquirer is a credit provider but only in relation to the credit.
+
+(2) If subsection (1) of this section applies in relation to credit that has
+
+been provided by the original credit provider, the credit is taken, for the purposes of this Act, to have been provided by the acquirer.
+
+(3) If subsection (1) of this section applies in relation to credit for
+
+which an application has been made to the original credit provider, the application is taken, for the purposes of this Act, to have been made to the acquirer.
+
+54 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+#### Subdivision B—Other definitions
+
+#### 6L Meaning of access seeker
+
+Section 6L
+
+(1) An access seeker in relation to credit reporting information, or
+
+credit eligibility information, about an individual is: (a) the individual; or (b) a person: (i) who is assisting the individual to deal with a credit
+
+reporting body or credit provider; and (ii) who is authorised, in writing, by the individual to make
+
+a request in relation to the information under subsection 20R(1) or 21T(1).
+
+### (2) An individual must not authorise a person under
+
+subparagraph (1)(b)(ii) if the person is: (a) a credit provider; or (b) a mortgage insurer; or (c) a trade insurer; or (d) a person who is prevented from being a credit provider by
+
+subsection 6G(5) or (6).
+
+(3) Subparagraph (1)(b)(ii) does not apply to a person who provides
+
+the National Relay Service or a person prescribed by the regulations.
+
+#### 6M Meaning of credit and amount of credit
+
+(1) Credit is a contract, arrangement or understanding under which: (a) payment of a debt owed by one person to another person is
+
+deferred; or (b) one person incurs a debt to another person and defers the
+
+payment of the debt.
+
+(2) The amount of credit is the amount of the debt that is actually
+
+deferred, or that may be deferred, but does not include any fees or charges payable in connection with the deferral of the debt.
+
+Privacy Act 1988 55
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 6N
+
+(3) Without limiting subsection (1), credit includes: (a) a hire-purchase agreement; and (b) a contract, arrangement or understanding of a kind referred to
+
+in that subsection that is for the hire, lease or rental of goods, or for the supply of services, other than a contract, arrangement or understanding under which: (i) full payment is made before, or at the same time as, the
+
+goods or services are provided; and (ii) in the case of goods—an amount greater than, or equal
+
+to, the value of the goods is paid as a deposit for the return of the goods.
+
+#### 6N Meaning of credit information
+
+Credit information about an individual is personal information
+
+(other than sensitive information) that is: (a) identification information about the individual; or (b) consumer credit liability information about the individual; or (c) repayment history information about the individual; or (ca) financial hardship information about the individual; or (d) a statement that an information request has been made in
+
+relation to the individual by a credit provider, mortgage insurer or trade insurer; or (e) the type of consumer credit or commercial credit, and the
+
+amount of credit, sought in an application: (i) that has been made by the individual to a credit
+
+provider; and (ii) in connection with which the provider has made an
+
+information request in relation to the individual; or (f) default information about the individual; or (g) payment information about the individual; or (h) new arrangement information about the individual; or (i) court proceedings information about the individual; or (j) personal insolvency information about the individual; or (k) publicly available information about the individual:
+
+56 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 6P
+
+(i) that relates to the individual’s activities in Australia or
+
+the external Territories and the individual’s credit worthiness; and (ii) that is not court proceedings information about the
+
+individual or information about the individual that is entered or recorded on the National Personal Insolvency Index; or (l) the opinion of a credit provider that the individual has
+
+committed, in circumstances specified by the provider, a serious credit infringement in relation to consumer credit provided by the provider to the individual.
+
+#### 6P Meaning of credit reporting business
+
+(1) A credit reporting business is a business or undertaking that
+
+involves collecting, holding, using or disclosing personal information about individuals for the purpose of, or for purposes including the purpose of, providing an entity with information about the credit worthiness of an individual.
+
+(2) Subsection (1) applies whether or not the information about the
+
+credit worthiness of an individual is: (a) provided for profit or reward; or (b) provided, or intended to be provided, for the purposes of
+
+assessing an application for consumer credit.
+
+(3) In determining whether a business or undertaking carried on by a
+
+credit provider is a credit reporting business, disregard the provision of information about the credit worthiness of an individual to a related body corporate by the provider.
+
+(4) Despite subsection (1), a business or undertaking is not a credit
+
+reporting business if the business or undertaking is included in a class of businesses or undertakings prescribed by the regulations.
+
+Privacy Act 1988 57
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 6Q
+
+#### 6Q Meaning of default information
+
+Consumer credit defaults
+
+(1) Default information about an individual is information about a
+
+payment (including a payment that is wholly or partly a payment of interest) that the individual is overdue in making in relation to consumer credit that has been provided by a credit provider to the individual if: (a) the individual is at least 60 days overdue in making the
+
+payment; and (b) the provider has given a written notice to the individual
+
+informing the individual of the overdue payment and requesting that the individual pay the amount of the overdue payment; and (c) the provider is not prevented by a statute of limitations from
+
+recovering the amount of the overdue payment; and (d) the amount of the overdue payment is equal to or more than: (i) $150; or (ii) such higher amount as is prescribed by the regulations.
+
+Guarantor defaults
+
+(2) Default information about an individual is information about a
+
+payment that the individual is overdue in making as a guarantor under a guarantee given against any default by a person (the borrower) in repaying all or any of the debt deferred under consumer credit provided by a credit provider to the borrower if: (a) the provider has given the individual written notice of the
+
+borrower’s default that gave rise to the individual’s obligation to make the overdue payment; and (b) the notice requests that the individual pay the amount of the
+
+overdue payment; and (c) at least 60 days have passed since the day on which the
+
+notice was given; and
+
+58 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 6QA
+
+(d) in addition to giving the notice, the provider has taken other
+
+steps to recover the amount of the overdue payment from the individual; and (e) the provider is not prevented by a statute of limitations from
+
+recovering the amount of the overdue payment.
+
+6QA Meanings of financial hardship arrangement and financial hardship information
+
+Financial hardship arrangement
+
+(1) If: (a) a credit provider provides consumer credit to an individual;
+
+and (b) the National Credit Code applies to the provision of the
+
+credit; and (c) the individual is or will be unable to meet the individual’s
+
+obligations in relation to the consumer credit; and (d) as a result of the inability, an arrangement covered by
+
+subsection (3) affecting the monthly payment obligations of the individual is made between the credit provider and the individual which is either: (i) a permanent variation to the terms of the consumer
+
+credit; or (ii) a temporary relief from or deferral of the individual’s
+
+obligations in relation to the consumer credit; then the arrangement is a financial hardship arrangement.
+
+Note: Financial hardship arrangements affect repayment history information: see subsection 6V(1A).
+
+(2) For the purposes of this section, it does not matter whether the
+
+arrangement was initiated by the credit provider or the individual.
+
+(3) This subsection covers any kind of agreement, arrangement or
+
+understanding, whether formal or informal, whether express or implied and whether or not enforceable, or intended to be enforceable, by legal proceedings.
+
+Privacy Act 1988 59
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 6QA
+
+Examples: An arrangement might involve a credit provider agreeing to:
+
+(a) defer or reduce required monthly payments for a temporary
+
+period; or (b) accept interest-only payments for a temporary period; or (c) extend the term of a loan to reduce monthly payments.
+
+Financial hardship information
+
+(4) If subsection 6V(1A) (about financial hardship arrangements)
+
+applies in determining repayment history information about an individual, then the following information is financial hardship information about the individual: (a) for an arrangement referred to in subparagraph (1)(d)(i)
+
+(about permanent variations)—information, relating only to the first monthly payment affected by the arrangement, that indicates that the monthly payment is the first monthly payment affected by a financial hardship arrangement of that kind; (b) for an arrangement referred to in subparagraph (1)(d)(ii)
+
+(about temporary relief or deferral of obligations)— information, relating to each monthly payment affected by the arrangement, that indicates that the monthly payment was affected by a financial hardship arrangement of that kind.
+
+Note: Paragraph (b) may apply even if, under the arrangement, the individual is not required to make a payment for a month: see subsection 6V(1B).
+
+(5) Paragraph (4)(b) does not apply in relation to a monthly payment
+
+under a financial hardship arrangement if: (a) the individual met the obligation to make the monthly
+
+payment, as affected by the arrangement; and (b) the amount paid was equal to, or greater than, the amount the
+
+individual would have been obliged to pay apart from the arrangement.
+
+60 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+#### 6R Meaning of information request
+
+Credit provider
+
+Section 6R
+
+(1) A credit provider has made an information request in relation to
+
+an individual if the provider has sought information about the individual from a credit reporting body: (a) in connection with an application for consumer credit made
+
+by the individual to the provider; or (b) in connection with an application for commercial credit made
+
+by a person to the provider; or (c) for a credit guarantee purpose of the provider in relation to
+
+the individual; or (d) for a securitisation related purpose of the provider in relation
+
+to the individual.
+
+Mortgage insurer
+
+(2) A mortgage insurer has made an information request in relation to
+
+an individual if: (a) the insurer has sought information about the individual from
+
+a credit reporting body; and (b) the information was sought in connection with the provision
+
+of insurance to a credit provider in relation to mortgage credit provided by the provider to: (i) the individual; or (ii) a person for whom the individual is, or is proposing to
+
+be, a guarantor.
+
+Trade insurer
+
+(3) A trade insurer has made an information request in relation to an
+
+individual if: (a) the insurer has sought information about the individual from
+
+a credit reporting body; and (b) the information was sought in connection with the provision
+
+of insurance to a credit provider in relation to commercial
+
+Privacy Act 1988 61
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 6S
+
+credit provided by the provider to the individual or another person.
+
+#### 6S Meaning of new arrangement information
+
+Consumer credit defaults
+
+(1) If: (a) a credit provider has disclosed default information about an
+
+individual to a credit reporting body; and (b) the default information relates to a payment that the
+
+individual is overdue in making in relation to consumer credit (the original consumer credit) that has been provided by the provider to the individual; and (c) because of the individual being so overdue: (i) the terms or conditions of the original consumer credit
+
+that relate to the repayment of the amount of credit are varied; or (ii) the individual is provided with other consumer credit
+
+(the new consumer credit) by a credit provider that relates, wholly or in part, to that amount of credit; then new arrangement information about the individual is a statement that those terms or conditions of the original consumer credit have been varied, or that the individual has been provided with the new consumer credit.
+
+Serious credit infringements
+
+(2) If: (a) a credit provider is of the opinion that an individual has
+
+committed a serious credit infringement in relation to consumer credit (the original consumer credit) provided by the provider to the individual; and (b) the provider has disclosed the opinion to a credit reporting
+
+body; and (c) because of the provider having that opinion:
+
+62 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 6T
+
+(i) the terms or conditions of the original consumer credit
+
+that relate to the repayment of the amount of credit are varied; or (ii) the individual is provided with other consumer credit
+
+(the new consumer credit) by a credit provider that relates, wholly or in part, to that amount of credit; then new arrangement information about the individual is a statement that those terms or conditions of the original consumer credit have been varied, or that the individual has been provided with the new consumer credit.
+
+#### 6T Meaning of payment information
+
+If: (a) a credit provider has disclosed default information about an
+
+individual to a credit reporting body; and (b) on a day after the default information was disclosed, the
+
+amount of the overdue payment to which the information relates is paid; then payment information about the individual is a statement that the amount of the overdue payment has been paid on that day.
+
+#### 6U Meaning of personal insolvency information
+
+(1) Personal insolvency information about an individual is
+
+information: (a) that is entered or recorded in the National Personal
+
+Insolvency Index; and (b) that relates to: (i) a bankruptcy of the individual; or (ii) a debt agreement proposal given by the individual; or (iii) a debt agreement made by the individual; or (iv) a personal insolvency agreement executed by the
+
+individual; or
+
+Privacy Act 1988 63
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 6V
+
+(v) a direction given, or an order made, under section 50 of
+
+the Bankruptcy Act that relates to the property of the individual; or (vi) an authority signed under section 188 of that Act that
+
+relates to the property of the individual.
+
+(2) Despite subparagraph (1)(b)(i), personal insolvency information
+
+about an individual must not relate to: (a) the presentation of a creditor’s petition against the individual;
+
+or (b) an administration under Part XI of the Bankruptcy Act of the
+
+individual’s estate.
+
+(3) An expression used in paragraph (1)(b) or (2)(a) that is also used in
+
+the Bankruptcy Act has the same meaning in that paragraph as it has in that Act.
+
+#### 6V Meaning of repayment history information
+
+(1) If a credit provider provides consumer credit to an individual, the
+
+following information about the consumer credit is repayment history information about the individual: (a) whether or not the individual has met an obligation to make a
+
+monthly payment that is due and payable in relation to the consumer credit; (b) the day on which the monthly payment is due and payable; (c) if the individual makes the monthly payment after the day on
+
+which the payment is due and payable—the day on which the individual makes that payment.
+
+(1A) If an obligation of the individual to make a monthly payment is, or
+
+is taken by subsection (1B) to be, affected by a financial hardship arrangement, then repayment history information is to be determined by reference to that obligation as so affected.
+
+Note: In this case, there may be financial hardship information: see subsections 6QA(4) and (5).
+
+64 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 6V
+
+(1B) If, under a financial hardship arrangement, an individual is not
+
+required to make a monthly payment for a month, then, for the purposes of subsections (1) and (1A) and section 6QA: (a) a monthly payment is taken to have been due and payable on
+
+the day on which it would have been due and payable apart from the arrangement; and (b) the individual is taken to have met the obligation to make the
+
+monthly payment; and (c) the obligation to make the monthly payment is taken to be
+
+affected by the arrangement.
+
+(2) The regulations may make provision in relation to: (a) whether or not an individual has met an obligation to make a
+
+monthly payment that is due and payable in relation to consumer credit; and (b) whether or not a payment is a monthly payment.
+
+Privacy Act 1988 65
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 7
+
+### Division 3—Other matters
+
+#### 7 Acts and practices of agencies, organisations etc.
+
+(1) Except so far as the contrary intention appears, a reference in this
+
+Act (other than section 8) to an act or to a practice is a reference to: (a) an act done, or a practice engaged in, as the case may be, by
+
+an agency (other than an eligible hearing service provider), a file number recipient, a credit reporting body or a credit provider other than: (i) an agency specified in any of the following provisions
+
+of the Freedom of Information Act 1982: (A) Schedule 1; (B) Division 1 of Part I of Schedule 2; (C) Division 1 of Part II of Schedule 2; or (ii) a federal court; or (iia) a court of Norfolk Island; or (iii) a Minister; or (iiia) the National Anti-Corruption Commissioner; or (iiib) the Inspector of the National Anti-Corruption
+
+Commission; or (iv) the ACC; or (v) a Royal Commission; or (vi) a Commission of inquiry; or (b) an act done, or a practice engaged in, as the case may be, by a
+
+federal court or by an agency specified in Schedule 1 to the Freedom of Information Act 1982, being an act done, or a practice engaged in, in respect of a matter of an administrative nature; or (ba) an act done, or a practice engaged in, as the case may be, by a
+
+court of Norfolk Island, being an act done, or a practice engaged in, in respect of a matter of an administrative nature; or
+
+66 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 7
+
+(c) an act done, or a practice engaged in, as the case may be, by
+
+an agency specified in Division 1 of Part II of Schedule 2 to the Freedom of Information Act 1982, other than an act done, or a practice engaged in, in relation to a record in relation to which the agency is exempt from the operation of that Act; or (ca) an act done, or a practice engaged in, as the case may be, by a
+
+part of the Defence Department specified in Division 2 of Part I of Schedule 2 to the Freedom of Information Act 1982, other than an act done, or a practice engaged in, in relation to the activities of that part of the Department; or (cc) an act done, or a practice engaged in, as the case may be, by
+
+an eligible hearing service provider in connection with the provision of hearing services under an agreement made under Part 3 of the Hearing Services Administration Act 1997; or (d) an act done, or a practice engaged in, as the case may be, by a
+
+Minister in relation to the affairs of an agency (other than an eligible hearing service provider), not being an act done, or a practice engaged in, in relation to an existing record; or (e) an act done, or a practice engaged in, as the case may be, by a
+
+Minister in relation to a record that is in the Minister’s possession in his or her capacity as a Minister and relates to the affairs of an agency (other than an eligible hearing service provider); or (ec) an act done, or a practice engaged in, as the case may be, by a
+
+Minister in relation to the affairs of an eligible hearing service provider, being affairs in connection with the provision of hearing services under an agreement made under Part 3 of the Hearing Services Administration Act 1997; or (ed) an act done, or a practice engaged in, as the case may be, by a
+
+Minister in relation to a record that is in the Minister’s possession in his or her capacity as a Minister and relates to the affairs of an eligible hearing service provider, being affairs in connection with the provision of hearing services under an agreement made under Part 3 of the Hearing Services Administration Act 1997; or
+
+Privacy Act 1988 67
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 7
+
+(ee) an act done, or a practice engaged in, by an organisation,
+
+other than an exempt act or exempt practice (see sections 7B and 7C); but does not include a reference to an act done, or a practice engaged in, in relation to a record that has originated with, or has been received from: (f) an intelligence agency; (g) the Defence Intelligence Organisation or the Australian
+
+Geospatial-Intelligence Organisation; or (ga) the National Anti-Corruption Commissioner or another staff
+
+member of the NACC (within the meaning of the National Anti-Corruption Commission Act 2022); or (gb) the Inspector of the National Anti-Corruption Commission or
+
+a person assisting the Inspector (within the meaning of the National Anti-Corruption Commission Act 2022); or (h) the ACC or the Board of the ACC.
+
+(1A) Despite subsections (1) and (2), a reference in this Act (other than
+
+section 8) to an act or to a practice does not include a reference to the act or practice so far as it involves the disclosure of personal information to: (a) the Australian Security Intelligence Organisation; or (b) the Australian Secret Intelligence Service; or (c) the Australian Signals Directorate.
+
+(1B) Despite subsections (1) and (2), a reference in this Act (other than
+
+section 8) to an act or to a practice does not include a reference to the act or practice by an agency with an intelligence role or function (within the meaning of the Office of National Intelligence Act 2018) so far as it involves the disclosure of personal information to the Office of National Intelligence.
+
+(2) Except so far as the contrary intention appears, a reference in this
+
+Act (other than section 8) to an act or to a practice includes, in the application of this Act otherwise than in respect of the Australian Privacy Principles, a registered APP code and the performance of the Commissioner’s functions in relation to the principles and such
+
+68 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 7A
+
+a code, a reference to an act done, or a practice engaged in, as the case may be, by an agency specified in Part I of Schedule 2 to the Freedom of Information Act 1982 or in Division 1 of Part II of that Schedule other than: (a) an intelligence agency; (b) the Defence Intelligence Organisation or the Australian
+
+Geospatial-Intelligence Organisation; or (c) the ACC or the Board of the ACC.
+
+(3) Except so far as the contrary intention appears, a reference in this
+
+Act to doing an act includes a reference to: (a) doing an act in accordance with a practice; or (b) refusing or failing to do an act.
+
+(4) For the purposes of section 28, of paragraphs 28A(2)(a) to (e), of
+
+subsection 31(2) and of Part VI, this section has effect as if a reference in subsection (1) of this section to an act done, or to a practice engaged in, included a reference to an act that is proposed to be done, or to a practice that is proposed to be engaged in, as the case may be.
+
+#### 7A Acts of certain agencies treated as acts of organisation
+
+(1) This Act applies, with the prescribed modifications (if any), in
+
+relation to an act or practice described in subsection (2) or (3) as if: (a) the act or practice were an act done, or practice engaged in,
+
+by an organisation; and (b) the agency mentioned in that subsection were the
+
+organisation.
+
+(2) Subsection (1) applies to acts done, and practices engaged in, by a
+
+prescribed agency. Regulations for this purpose may prescribe an agency only if it is specified in Part I of Schedule 2 to the Freedom of Information Act 1982.
+
+(3) Subsection (1) also applies to acts and practices that: (a) are done or engaged in by an agency specified in Division 1
+
+of Part II of Schedule 2 to the Freedom of Information Act
+
+Privacy Act 1988 69
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 7B
+
+1982 in relation to documents in respect of its commercial activities or the commercial activities of another entity; and (b) relate to those commercial activities.
+
+(4) This section has effect despite subparagraph 7(1)(a)(i),
+
+paragraph 7(1)(c) and subsection 7(2).
+
+#### 7B Exempt acts and exempt practices of organisations
+
+Individuals in non-business capacity
+
+(1) An act done, or practice engaged in, by an organisation that is an
+
+individual is exempt for the purposes of paragraph 7(1)(ee) if the act is done, or the practice is engaged in, other than in the course of a business carried on by the individual.
+
+Note: See also section 16 which provides that the Australian Privacy Principles do not apply for the purposes of, or in connection with, an individual’s personal, family or household affairs.
+
+Organisation acting under Commonwealth contract
+
+(2) An act done, or practice engaged in, by an organisation is exempt
+
+for the purposes of paragraph 7(1)(ee) if: (a) the organisation is a contracted service provider for a
+
+Commonwealth contract (whether or not the organisation is a party to the contract); and (b) the organisation would be a small business operator if it were
+
+not a contracted service provider for a Commonwealth contract; and (c) the act is done, or the practice is engaged in, otherwise than
+
+for the purposes of meeting (directly or indirectly) an obligation under a Commonwealth contract for which the organisation is the contracted service provider.
+
+Note: This puts the organisation in the same position as a small business operator as far as its activities that are not for the purposes of a Commonwealth contract are concerned, so the organisation need not comply with the Australian Privacy Principles, or a registered APP code that binds the organisation, in relation to those activities.
+
+70 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Employee records
+
+Section 7B
+
+(3) An act done, or practice engaged in, by an organisation that is or
+
+was an employer of an individual, is exempt for the purposes of paragraph 7(1)(ee) if the act or practice is directly related to: (a) a current or former employment relationship between the
+
+employer and the individual; and (b) an employee record held by the organisation and relating to
+
+the individual.
+
+Journalism
+
+(4) An act done, or practice engaged in, by a media organisation is
+
+exempt for the purposes of paragraph 7(1)(ee) if the act is done, or the practice is engaged in: (a) by the organisation in the course of journalism; and (b) at a time when the organisation is publicly committed to
+
+observe standards that: (i) deal with privacy in the context of the activities of a
+
+media organisation (whether or not the standards also deal with other matters); and (ii) have been published in writing by the organisation or a
+
+person or body representing a class of media organisations.
+
+Organisation acting under State contract
+
+(5) An act done, or practice engaged in, by an organisation is exempt
+
+for the purposes of paragraph 7(1)(ee) if: (a) the organisation is a contracted service provider for a State
+
+contract (whether or not the organisation is a party to the contract); and (b) the act is done, or the practice is engaged in for the purposes
+
+of meeting (directly or indirectly) an obligation under the contract.
+
+Privacy Act 1988 71
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 7C
+
+#### 7C Political acts and practices are exempt
+
+Members of a Parliament etc.
+
+(1) An act done, or practice engaged in, by an organisation (the
+
+political representative) consisting of a member of a Parliament, or a councillor (however described) of a local government authority, is exempt for the purposes of paragraph 7(1)(ee) if the act is done, or the practice is engaged in, for any purpose in connection with: (a) an election under an electoral law; or (b) a referendum under a law of the Commonwealth or a law of a
+
+State or Territory; or (c) the participation by the political representative in another
+
+aspect of the political process.
+
+Contractors for political representatives etc.
+
+(2) An act done, or practice engaged in, by an organisation (the
+
+contractor) is exempt for the purposes of paragraph 7(1)(ee) if the act is done or the practice is engaged in: (a) for the purposes of meeting an obligation under a contract
+
+between the contractor and a registered political party or a political representative described in subsection (1); and (b) for any purpose in connection with one or more of the
+
+following: (i) an election under an electoral law; (ii) a referendum under a law of the Commonwealth or a
+
+law of a State or Territory; (iii) the participation in another aspect of the political
+
+process by the registered political party or political representative; (iv) facilitating acts or practices of the registered political
+
+party or political representative for a purpose mentioned in subparagraph (i), (ii) or (iii) of this paragraph.
+
+72 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 7C
+
+Subcontractors for organisations covered by subsection (1) etc.
+
+(3) An act done, or practice engaged in, by an organisation (the
+
+subcontractor) is exempt for the purposes of paragraph 7(1)(ee) if the act is done or the practice is engaged in: (a) for the purposes of meeting an obligation under a contract
+
+between the subcontractor and a contractor described in subsection (2); and (b) for a purpose described in paragraph (2)(b).
+
+Volunteers for registered political parties
+
+(4) An act done voluntarily, or practice engaged in voluntarily, by an
+
+organisation for or on behalf of a registered political party and with the authority of the party is exempt for the purposes of paragraph 7(1)(ee) if the act is done or the practice is engaged in for any purpose in connection with one or more of the following: (a) an election under an electoral law; (b) a referendum under a law of the Commonwealth or a law of a
+
+State or Territory; (c) the participation in another aspect of the political process by
+
+the registered political party; (d) facilitating acts or practices of the registered political party
+
+for a purpose mentioned in paragraph (a), (b) or (c).
+
+Effect of subsection (4) on other operation of Act
+
+(5) Subsection (4) does not otherwise affect the operation of the Act in
+
+relation to agents or principals.
+
+Meaning of electoral law and Parliament
+
+### (6) In this section:
+
+electoral law means a law of the Commonwealth, or a law of a State or Territory, relating to elections to a Parliament or to a local government authority.
+
+Parliament means:
+
+Privacy Act 1988 73
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 8
+
+(a) the Parliament of the Commonwealth; or (b) a State Parliament; or (c) the legislature of a Territory.
+
+Note: To avoid doubt, this section does not make exempt for the purposes of paragraph 7(1)(ee) an act or practice of the political representative, contractor, subcontractor or volunteer for a registered political party involving the use or disclosure (by way of sale or otherwise) of personal information in a way not covered by subsection (1), (2), (3) or (4) (as appropriate). The rest of this Act operates normally in relation to that act or practice.
+
+8 Acts and practices of, and disclosure of information to, staff of agency, organisation etc.
+
+(1) For the purposes of this Act: (a) an act done or practice engaged in by, or information
+
+disclosed to, a person employed by, or in the service of, an agency, organisation, file number recipient, credit reporting body or credit provider in the performance of the duties of the person’s employment shall be treated as having been done or engaged in by, or disclosed to, the agency, organisation, recipient, credit reporting body or credit provider; (b) an act done or practice engaged in by, or information
+
+disclosed to, a person on behalf of, or for the purposes of the activities of, an unincorporated body, being a board, council, committee, sub-committee or other body established by or under a Commonwealth law, or a law of a State or Territory that applies in an external Territory, for the purpose of assisting, or performing functions in connection with, an agency or organisation, shall be treated as having been done or engaged in by, or disclosed to, the agency or organisation; and (c) an act done or practice engaged in by, or information
+
+disclosed to, a member, staff member or special member of the Australian Federal Police in the performance of his or her duties as such a member, staff member or special member
+
+74 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 8
+
+shall be treated as having been done or engaged in by, or disclosed to, the Australian Federal Police.
+
+(2) Where: (a) an act done or a practice engaged in by a person, in relation
+
+to a record, is to be treated, under subsection (1), as having been done or engaged in by an agency; and (b) that agency does not hold that record; that act or practice shall be treated as the act or the practice of the agency that holds that record.
+
+(3) For the purposes of the application of this Act in relation to an
+
+organisation that is a partnership: (a) an act done or practice engaged in by a partner is taken to
+
+have been done or engaged in by the organisation; and (b) a communication (including a complaint, notice, request or
+
+disclosure of information) made to a partner is taken to have been made to the organisation.
+
+(4) For the purposes of the application of this Act in relation to an
+
+organisation that is an unincorporated association: (a) an act done or practice engaged in by a member of the
+
+committee of management of the association is taken to have been done or engaged in by the organisation; and (b) a communication (including a complaint, notice, request or
+
+disclosure of information) made to a member of the committee of management of the association is taken to have been made to the organisation.
+
+(5) For the purposes of the application of this Act in relation to an
+
+organisation that is a trust: (a) an act done or practice engaged in by a trustee is taken to
+
+have been done or engaged in by the organisation; and (b) a communication (including a complaint, notice or request or
+
+disclosure of information) made to a trustee is taken to have been made to the organisation.
+
+Privacy Act 1988 75
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 10
+
+#### 10 Agencies that are taken to hold a record
+
+(4) Where: (a) a record of personal information (not being a record relating
+
+to the administration of the National Archives of Australia) is in the care (within the meaning of the Archives Act 1983) of the National Archives of Australia; or (b) a record of personal information (not being a record relating
+
+to the administration of the Australian War Memorial) is in the custody of the Australian War Memorial; the agency by or on behalf of which the record was placed in that care or custody or, if that agency no longer exists, the agency to whose functions the contents of the record are most closely related, shall be regarded, for the purposes of this Act, to be the agency that holds that record.
+
+(5) Where a record of personal information was placed by or on behalf
+
+of an agency in the memorial collection within the meaning of the Australian War Memorial Act 1980, that agency or, if that agency no longer exists, the agency to whose functions the contents of the record are most closely related, shall be regarded, for the purposes of this Act, to be the agency that holds that record.
+
+#### 11 File number recipients
+
+(1) A person who is (whether lawfully or unlawfully) in possession or
+
+control of a record that contains tax file number information shall be regarded, for the purposes of this Act, as a file number recipient.
+
+(2) Subject to subsection (3), where a record that contains tax file
+
+number information is in the possession or under the control of a person: (a) in the course of the person’s employment in the service of or
+
+by a person or body other than an agency; (b) in the course of the person’s employment in the service of or
+
+by an agency other than the Australian Federal Police; or
+
+76 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 12A
+
+(c) as a member, staff member or special member of the
+
+Australian Federal Police in the performance of his or her duties as such a member, staff member or special member; then, for the purposes of this Act, the file number recipient in relation to that record shall be taken to be: (d) if paragraph (a) applies—the person’s employer; (e) if paragraph (b) applies—the agency first referred to in that
+
+paragraph; and (f) if paragraph (c) applies—the Australian Federal Police.
+
+(3) Where a record that contains tax file number information is in the
+
+possession or under the control of a person for the purposes of the activities of, an unincorporated body, being a board, council, committee, sub-committee or other body established by or under a Commonwealth law, or a law of a State or Territory that applies in an external Territory, for the purpose of assisting, or performing functions connected with, an agency, that agency shall be treated, for the purposes of this Act, as the file number recipient in relation to that record.
+
+12A Act not to apply in relation to State banking or insurance within that State
+
+Where, but for this section, a provision of this Act: (a) would have a particular application; and (b) by virtue of having that application, would be a law with
+
+respect to, or with respect to matters including: (i) State banking not extending beyond the limits of the
+
+State concerned; or (ii) State insurance not extending beyond the limits of the
+
+State concerned; the provision is not to have that application.
+
+Privacy Act 1988 77
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 12B
+
+#### 12B Severability—additional effect of this Act
+
+(1) Without limiting its effect apart from this section, this Act has
+
+effect in relation to the following (the regulated entities) as provided by this section: (a) an agency; (b) an organisation; (c) a small business operator; (d) a body politic.
+
+Note: Subsection 27(4) applies in relation to an investigation of an act or practice referred to in subsection 29(1) of the Healthcare Identifiers Act 2010.
+
+(2) This Act also has the effect it would have if its operation in relation
+
+to regulated entities were expressly confined to an operation to give effect to the following: (a) the International Covenant on Civil and Political Rights done
+
+at New York on 16 December 1966 ([1980] ATS 23), and in particular Articles 17 and 24(1) of the Covenant; (b) Article 16 of the Convention on the Rights of the Child done
+
+at New York on 20 November 1989 ([1991] ATS 4).
+
+Note: In 2012, the text of the Covenant and Convention in the Australian Treaty Series was accessible through the Australian Treaties Library on the AustLII website (www.austlii.edu.au).
+
+(3) This Act also has the effect it would have if its operation in relation
+
+to regulated entities were expressly confined to acts or practices covered by section 5B (which deals with acts and practices outside Australia and the external Territories).
+
+(4) This Act also has the effect it would have if its operation in relation
+
+to regulated entities were expressly confined to regulated entities that are corporations.
+
+(5) This Act also has the effect it would have if its operation in relation
+
+to regulated entities were expressly confined to acts or practices of regulated entities taking place in the course of, or in relation to, trade or commerce:
+
+78 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 12B
+
+(a) between Australia and places outside Australia; or (b) among the States; or (c) within a Territory, between a State and a Territory or
+
+between 2 Territories.
+
+(5A) This Act also has the effect it would have if its operation in relation
+
+to regulated entities were expressly confined to acts or practices engaged in by regulated entities in the course of: (a) banking (other than State banking not extending beyond the
+
+limits of the State concerned); or (b) insurance (other than State insurance not extending beyond
+
+the limits of the State concerned).
+
+(6) This Act also has the effect it would have if its operation in relation
+
+to regulated entities were expressly confined to acts or practices of regulated entities taking place using a postal, telegraphic, telephonic or other like service within the meaning of paragraph 51(v) of the Constitution.
+
+(7) This Act also has the effect it would have if its operation in relation
+
+to regulated entities were expressly confined to acts or practices of regulated entities taking place in a Territory.
+
+(8) This Act also has the effect it would have if its operation in relation
+
+to regulated entities were expressly confined to acts or practices of regulated entities taking place in a place acquired by the Commonwealth for public purposes.
+
+### (9) This section does not apply to Schedule 2.
+
+Note: See also clauses 4 and 5 of Schedule 2 (constitutional basis and additional operation).
+
+Privacy Act 1988 79
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 13
+
+## Part III—Information privacy
+
+### Division 1—Interferences with privacy
+
+#### 13 Interferences with privacy
+
+APP entities
+
+(1) An act or practice of an APP entity is an interference with the
+
+privacy of an individual if: (a) the act or practice breaches an Australian Privacy Principle in
+
+relation to personal information about the individual; or (b) the act or practice breaches a registered APP code that binds
+
+the entity in relation to personal information about the individual.
+
+Credit reporting
+
+(2) An act or practice of an entity is an interference with the privacy
+
+of an individual if: (a) the act or practice breaches a provision of Part IIIA in
+
+relation to personal information about the individual; or (b) the act or practice breaches the registered CR code in relation
+
+to personal information about the individual and the code binds the entity.
+
+Contracted service providers
+
+(3) An act or practice of an organisation is an interference with the
+
+privacy of an individual if: (a) the act or practice relates to personal information about the
+
+individual; and (b) the organisation is a contracted service provider for a
+
+Commonwealth contract (whether or not the organisation is a party to the contract); and (c) the act or practice does not breach:
+
+80 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 13
+
+(i) an Australian Privacy Principle; or (ii) a registered APP code that binds the organisation; in relation to the personal information because of a provision
+
+of the contract that is inconsistent with the principle or code; and (d) the act is done, or the practice is engaged in, in a manner
+
+contrary to, or inconsistent with, that provision.
+
+Note: See subsections 6A(2) and 6B(2) for when an act or practice does not breach an Australian Privacy Principle or a registered APP code.
+
+Tax file numbers
+
+(4) An act or practice is an interference with the privacy of an
+
+individual if: (a) it is an act or practice of a file number recipient and the act or
+
+practice breaches a rule issued under section 17 in relation to tax file number information that relates to the individual; or (b) the act or practice involves an unauthorised requirement or
+
+request for disclosure of the tax file number of the individual.
+
+Notification of eligible data breaches etc.
+
+(4A) If an entity (within the meaning of Part IIIC) contravenes
+
+subsection 26WH(2), 26WK(2), 26WL(3) or 26WR(10), the contravention is taken to be an act that is an interference with the privacy of an individual.
+
+Other interferences with privacy
+
+(5) An act or practice is an interference with the privacy of an
+
+individual if the act or practice: (a) constitutes a breach of Part 2 of the Data-matching Program
+
+(Assistance and Tax) Act 1990 or the rules issued under section 12 of that Act; or (b) constitutes a breach of the rules issued under section 135AA
+
+of the National Health Act 1953.
+
+Note: Other Acts may provide that an act or practice is an interference with the privacy of an individual. For example, see the Healthcare
+
+Privacy Act 1988 81
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 13B
+
+Identifiers Act 2010, the Anti-Money Laundering and Counter-Terrorism Financing Act 2006 and the Personal Property Securities Act 2009.
+
+#### 13B Related bodies corporate
+
+Acts or practices that are not interferences with privacy
+
+(1) Despite subsection 13(1), each of the following acts or practices of
+
+an organisation that is a body corporate is not an interference with the privacy of an individual: (a) the collection of personal information (other than sensitive
+
+information) about the individual by the body corporate from a related body corporate; (b) the disclosure of personal information (other than sensitive
+
+information) about the individual by the body corporate to a related body corporate.
+
+Note: Subsection (1) lets related bodies corporate share personal information. However, in using or holding the information, they must comply with the Australian Privacy Principles and a registered APP code that binds them. For example, there is an interference with privacy if: (a) a body corporate uses personal information it has collected from
+
+a related body corporate; and (b) the use breaches Australian Privacy Principle 6 (noting that the
+
+collecting body’s primary purpose of collection will be taken to be the same as that of the related body).
+
+(1A) However, paragraph (1)(a) does not apply to the collection by a
+
+body corporate of personal information (other than sensitive information) from: (a) a related body corporate that is not an organisation; or (b) a related body corporate whose disclosure of the information
+
+to the body corporate is an exempt act or exempt practice for the purposes of paragraph 7(1)(ee); or (c) a related body corporate whose disclosure of the information
+
+to the body corporate is not an interference with privacy because of section 13D.
+
+82 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 13C
+
+Note: The effect of subsection (1A) is that a body corporate’s failure to comply with the Australian Privacy Principles, or a registered APP code that binds the body, in collecting personal information about an individual from a related body corporate covered by that subsection is an interference with the privacy of the individual.
+
+Relationship with subsection 13(3)
+
+(2) Subsection (1) does not prevent an act or practice of an
+
+organisation from being an interference with the privacy of an individual under subsection 13(3).
+
+#### 13C Change in partnership because of change in partners
+
+Acts or practices that are not interferences with privacy
+
+(1) If: (a) an organisation (the new partnership) that is a partnership
+
+forms at the same time as, or immediately after, the dissolution of another partnership (the old partnership); and (b) at least one person who was a partner in the old partnership is
+
+a partner in the new partnership; and (c) the new partnership carries on a business that is the same as,
+
+or similar to, a business carried on by the old partnership; and (d) the new partnership holds, immediately after its formation,
+
+personal information about an individual that the old partnership held immediately before its dissolution; neither the disclosure (if any) by the old partnership, nor the collection (if any) by the new partnership, of the information that was necessary for the new partnership to hold the information immediately after its formation constitutes an interference with the privacy of the individual.
+
+Note: Subsection (1) lets personal information be passed on from an old to a new partnership. However, in using or holding the information, they must comply with the Australian Privacy Principles and a registered APP code that binds them. For example, the new partnership’s use of personal information collected from the old partnership may constitute an interference with privacy if it breaches Australian Privacy Principle 6.
+
+Privacy Act 1988 83
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 13D
+
+Effect of subsection (1)
+
+(2) Subsection (1) has effect despite subsections 13(1) and (3).
+
+#### 13D Overseas act required by foreign law
+
+Acts or practices that are not interferences with privacy
+
+(1) An act or practice of an organisation done or engaged in outside
+
+Australia and an external Territory is not an interference with the privacy of an individual if the act or practice is required by an applicable law of a foreign country.
+
+Effect of subsection (1)
+
+(2) Subsection (1) has effect despite subsections 13(1) and (3).
+
+#### 13E Effect of sections 13B, 13C and 13D
+
+Sections 13B, 13C and 13D do not prevent an act or practice of an
+
+organisation from being an interference with the privacy of an individual under subsection 13(2), (4) or (5).
+
+13F Act or practice not covered by section 13 is not an interference with privacy
+
+An act or practice that is not covered by section 13 is not an
+
+interference with the privacy of an individual.
+
+13G Civil penalty provision for serious interference with privacy of an individual
+
+Civil penalty provision
+
+(1) An entity contravenes this subsection if: (a) the entity does an act, or engages in a practice, that is an
+
+interference with the privacy of an individual; and (b) the interference with privacy is serious.
+
+84 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 13G
+
+Note: The court may determine that an entity has contravened section 13H if the court is satisfied of paragraph (a) but not paragraph (b) (see section 13J).
+
+(1A) Subsection (1) is a civil penalty provision.
+
+Note: Section 80U deals with civil penalty provisions in this Act.
+
+Factors that may be taken into account in determining if interference with privacy is serious
+
+(1B) In determining whether an interference with privacy is serious, a
+
+court may have regard to any of the following matters: (a) the particular kind or kinds of information involved in the
+
+interference with privacy; (b) the sensitivity of the personal information of the individual; (c) the consequences, or potential consequences, of the
+
+interference with privacy for the individual; (d) the number of individuals affected by the interference with
+
+privacy; (e) whether the individual affected by the interference with
+
+privacy is a child or person experiencing vulnerability; (f) whether the act was done, or the practice engaged in,
+
+repeatedly or continuously; (g) whether the contravening entity failed to take steps to
+
+implement practices, procedures and systems to comply with their obligations in relation to privacy in a way that contributed to the interference with privacy; (h) any other relevant matter.
+
+Maximum pecuniary penalty
+
+(2) The amount of the penalty for a contravention of subsection (1) by
+
+a person other than a body corporate is an amount not more than $2,500,000.
+
+(3) The amount of the penalty for a contravention of subsection (1) by
+
+a body corporate is an amount not more than the greatest of the following:
+
+Privacy Act 1988 85
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 13G
+
+(a) $50,000,000; (b) if the court can determine the value of the benefit that the
+
+body corporate, and any related body corporate, have obtained directly or indirectly and that is reasonably attributable to the conduct constituting the contravention—3 times the value of that benefit; (c) if the court cannot determine the value of that benefit—30%
+
+of the adjusted turnover of the body corporate during the breach turnover period for the contravention.
+
+(4) Subsection (3) applies despite paragraph 82(5)(a) of the Regulatory
+
+Powers Act.
+
+Meaning of adjusted turnover
+
+(5) For the purposes of paragraph (3)(c), the adjusted turnover of a
+
+body corporate during a period is the sum of the values of all the supplies that the body corporate, and any related body corporate, have made, or are likely to make, during the period, other than: (a) supplies made from any of those bodies corporate to any
+
+other of those bodies corporate; or (b) supplies that are input taxed; or (c) supplies that are not for consideration (and are not taxable
+
+supplies under section 72-5 of the A New Tax System (Goods and Services Tax) Act 1999); or (d) supplies that are not made in connection with an enterprise
+
+that the body corporate carries on; or (e) supplies that are not connected with the indirect tax zone.
+
+(6) Expressions used in subsection (5) that are also used in the A New
+
+Tax System (Goods and Services Tax) Act 1999 have the same meaning as in that Act.
+
+Meaning of breach turnover period
+
+(7) For the purposes of paragraph (3)(c), the breach turnover period
+
+for a contravention means the longer of the following periods:
+
+86 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 13H
+
+(a) the period of 12 months ending at the end of the month in
+
+which the contravention ceased, or proceedings in relation to the contravention were instituted (whichever is earlier); (b) the period: (i) starting at the beginning of the month in which the
+
+contravention occurred or began occurring; and (ii) ending at the same time as the period determined under
+
+paragraph (a).
+
+13H Civil penalty provision for interference with privacy of individuals
+
+Civil penalty provision
+
+(1) An entity contravenes this subsection if the entity does an act, or
+
+engages in a practice, that is an interference with the privacy of an individual.
+
+### (2) Subsection (1) is a civil penalty provision.
+
+Note: Section 80U deals with civil penalty provisions in this Act.
+
+Maximum pecuniary penalty
+
+(3) The amount of the penalty payable by a person in respect of a
+
+contravention of subsection (1) must not exceed 2,000 penalty units.
+
+#### 13J Alternative orders
+
+If, in proceedings for an order in relation to a contravention of
+
+section 13G, the court: (a) is satisfied that the entity has done an act, or engaged in a
+
+practice, that is an interference with the privacy of an individual; but (b) is not satisfied that the interference with privacy is serious; the court may make a pecuniary penalty order against the entity for contravening section 13H, instead of section 13G.
+
+Privacy Act 1988 87
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 13K
+
+13K Civil penalty provision for which infringement notices or compliance notices can be issued
+
+Civil penalty provision for breaching Australian Privacy Principles
+
+(1) An entity contravenes this subsection if: (a) the entity does an act, or engages in a practice; and (b) the act or practice breaches any of the following Australian
+
+Privacy Principles: (i) Australian Privacy Principle 1.3 (requirement to have
+
+APP privacy policy); (ii) Australian Privacy Principle 1.4 (contents of APP
+
+privacy policy); (iii) Australian Privacy Principle 2.1 (individuals may
+
+choose not to identify themselves in dealing with entities); (iv) Australian Privacy Principle 6.5 (written notice of
+
+certain uses or disclosures); (v) Australian Privacy Principle 7.2(c) or 7.3(c) (simple
+
+means for individuals to opt out of direct marketing communications); (vi) Australian Privacy Principle 7.3(d) (requirement to
+
+draw attention to ability to opt out of direct marketing communications); (vii) Australian Privacy Principle 7.7(a) (giving effect to
+
+request in reasonable period); (viii) Australian Privacy Principle 7.7(b) (notification of
+
+source of information); (ix) Australian Privacy Principle 13.5 (dealing with
+
+requests); (x) any other Australian Privacy Principle prescribed by the
+
+regulations.
+
+Note: Conduct that contravenes this section may also contravene section 13G or 13H.
+
+88 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 13K
+
+Civil penalty provision for non-compliant eligible data breach statement
+
+(2) An entity contravenes this subsection if: (a) the entity prepares a statement under section 26WK (eligible
+
+data breaches); and (b) the statement does not comply with subsection 26WK(3).
+
+Civil penalty provisions
+
+(3) Subsections (1) and (2) are civil penalty provisions.
+
+Note: Section 80U deals with civil penalty provisions in this Act.
+
+Maximum pecuniary penalty
+
+(4) The amount of the penalty payable by a person in respect of a
+
+contravention of subsection (1) or (2) must not exceed 200 penalty units.
+
+Privacy Act 1988 89
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 14
+
+### Division 2—Australian Privacy Principles
+
+#### 14 Australian Privacy Principles
+
+(1) The Australian Privacy Principles are set out in the clauses of
+
+Schedule 1.
+
+(2) A reference in any Act to an Australian Privacy Principle by a
+
+number is a reference to the Australian Privacy Principle with that number.
+
+#### 15 APP entities must comply with Australian Privacy Principles
+
+An APP entity must not do an act, or engage in a practice, that
+
+breaches an Australian Privacy Principle.
+
+#### 16 Personal, family or household affairs
+
+Nothing in the Australian Privacy Principles applies to: (a) the collection, holding, use or disclosure of personal
+
+information by an individual; or (b) personal information held by an individual; only for the purposes of, or in connection with, his or her personal, family or household affairs.
+
+16A Permitted general situations in relation to the collection, use or disclosure of personal information
+
+(1) A permitted general situation exists in relation to the collection,
+
+use or disclosure by an APP entity of personal information about an individual, or of a government related identifier of an individual, if: (a) the entity is an entity of a kind specified in an item in column
+
+1 of the table; and (b) the item in column 2 of the table applies to the information or
+
+identifier; and
+
+90 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 16A
+
+(c) such conditions as are specified in the item in column 3 of
+
+the table are satisfied.
+
+Permitted general situations
+
+Item Column 1 Kind of entity
+
+Column 2 Item applies to
+
+1 APP entity (a) personal
+
+information; or (b) a
+
+government related identifier.
+
+2 APP entity (a) personal
+
+information; or (b) a
+
+government related identifier.
+
+3 APP entity Personal information
+
+Column 3 Condition(s)
+
+(a) it is unreasonable or impracticable
+
+to obtain the individual’s consent to the collection, use or disclosure; and (b) the entity reasonably believes that
+
+the collection, use or disclosure is necessary to lessen or prevent a serious threat to the life, health or safety of any individual, or to public health or safety.
+
+(a) the entity has reason to suspect that
+
+unlawful activity, or misconduct of a serious nature, that relates to the entity’s functions or activities has been, is being or may be engaged in; and (b) the entity reasonably believes that
+
+the collection, use or disclosure is necessary in order for the entity to take appropriate action in relation to the matter.
+
+(a) the entity reasonably believes that
+
+the collection, use or disclosure is reasonably necessary to assist any APP entity, body or person to locate a person who has been reported as missing; and (b) the collection, use or disclosure
+
+complies with the rules made under subsection (2).
+
+Privacy Act 1988 91
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 16A
+
+Permitted general situations
+
+Item Column 1 Kind of entity
+
+Column 2 Item applies to
+
+4 APP entity Personal information
+
+5 APP entity Personal information
+
+6 Agency Personal information
+
+7 Defence Force Personal information
+
+Column 3 Condition(s)
+
+The collection, use or disclosure is reasonably necessary for the establishment, exercise or defence of a legal or equitable claim.
+
+The collection, use or disclosure is reasonably necessary for the purposes of a confidential alternative dispute resolution process.
+
+The entity reasonably believes that the collection, use or disclosure is necessary for the entity’s diplomatic or consular functions or activities.
+
+The entity reasonably believes that the collection, use or disclosure is necessary for any of the following occurring outside Australia and the external Territories: (a) war or warlike operations; (b) peacekeeping or peace
+
+enforcement; (c) civil aid, humanitarian assistance,
+
+medical or civil emergency or disaster relief.
+
+(2) The Commissioner may, by legislative instrument, make rules
+
+relating to the collection, use or disclosure of personal information that apply for the purposes of item 3 of the table in subsection (1).
+
+92 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 16B
+
+16B Permitted health situations in relation to the collection, use or disclosure of health information
+
+Collection—provision of a health service
+
+(1) A permitted health situation exists in relation to the collection by
+
+an organisation of health information about an individual if: (a) the information is necessary to provide a health service to the
+
+individual; and (b) either: (i) the collection is required or authorised by or under an
+
+Australian law (other than this Act); or (ii) the information is collected in accordance with rules
+
+established by competent health or medical bodies that deal with obligations of professional confidentiality which bind the organisation.
+
+(1A) A permitted health situation exists in relation to the collection by
+
+an organisation of health information about an individual (the third party) if: (a) it is necessary for the organisation to collect the family,
+
+social or medical history of an individual (the patient) to provide a health service to the patient; and (b) the health information about the third party is part of the
+
+family, social or medical history necessary for the organisation to provide the health service to the patient; and (c) the health information is collected by the organisation from
+
+the patient or, if the patient is physically or legally incapable of giving the information, a responsible person for the patient.
+
+Collection—research etc.
+
+(2) A permitted health situation exists in relation to the collection by
+
+an organisation of health information about an individual if: (a) the collection is necessary for any of the following purposes: (i) research relevant to public health or public safety;
+
+Privacy Act 1988 93
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 16B
+
+(ii) the compilation or analysis of statistics relevant to
+
+public health or public safety; (iii) the management, funding or monitoring of a health
+
+service; and (b) that purpose cannot be served by the collection of
+
+information about the individual that is de-identified information; and (c) it is impracticable for the organisation to obtain the
+
+individual’s consent to the collection; and (d) any of the following apply: (i) the collection is required by or under an Australian law
+
+(other than this Act); (ii) the information is collected in accordance with rules
+
+established by competent health or medical bodies that deal with obligations of professional confidentiality which bind the organisation; (iii) the information is collected in accordance with
+
+guidelines approved under section 95A for the purposes of this subparagraph.
+
+Use or disclosure—research etc.
+
+(3) A permitted health situation exists in relation to the use or
+
+disclosure by an organisation of health information about an individual if: (a) the use or disclosure is necessary for research, or the
+
+compilation or analysis of statistics, relevant to public health or public safety; and (b) it is impracticable for the organisation to obtain the
+
+individual’s consent to the use or disclosure; and (c) the use or disclosure is conducted in accordance with
+
+guidelines approved under section 95A for the purposes of this paragraph; and (d) in the case of disclosure—the organisation reasonably
+
+believes that the recipient of the information will not disclose the information, or personal information derived from that information.
+
+94 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 16B
+
+Use or disclosure—genetic information
+
+(4) A permitted health situation exists in relation to the use or
+
+disclosure by an organisation of genetic information about an individual (the first individual) if: (a) the organisation has obtained the information in the course of
+
+providing a health service to the first individual; and (b) the organisation reasonably believes that the use or disclosure
+
+is necessary to lessen or prevent a serious threat to the life, health or safety of another individual who is a genetic relative of the first individual; and (c) the use or disclosure is conducted in accordance with
+
+guidelines approved under section 95AA; and (d) in the case of disclosure—the recipient of the information is a
+
+genetic relative of the first individual.
+
+Disclosure—responsible person for an individual
+
+(5) A permitted health situation exists in relation to the disclosure by
+
+an organisation of health information about an individual if: (a) the organisation provides a health service to the individual;
+
+and (b) the recipient of the information is a responsible person for the
+
+individual; and (c) the individual: (i) is physically or legally incapable of giving consent to
+
+the disclosure; or (ii) physically cannot communicate consent to the
+
+disclosure; and (d) another individual (the carer) providing the health service for
+
+the organisation is satisfied that either: (i) the disclosure is necessary to provide appropriate care
+
+or treatment of the individual; or (ii) the disclosure is made for compassionate reasons; and (e) the disclosure is not contrary to any wish:
+
+Privacy Act 1988 95
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 16C
+
+(i) expressed by the individual before the individual
+
+became unable to give or communicate consent; and (ii) of which the carer is aware, or of which the carer could
+
+reasonably be expected to be aware; and (f) the disclosure is limited to the extent reasonable and
+
+necessary for a purpose mentioned in paragraph (d).
+
+16C Acts and practices of overseas recipients of personal information
+
+(1) This section applies if: (a) an APP entity discloses personal information about an
+
+individual to an overseas recipient; and (b) Australian Privacy Principle 8.1 applies to the disclosure of
+
+the information; and (c) the Australian Privacy Principles do not apply, under this
+
+Act, to an act done, or a practice engaged in, by the overseas recipient in relation to the information; and (d) the overseas recipient does an act, or engages in a practice, in
+
+relation to the information that would be a breach of the Australian Privacy Principles (other than Australian Privacy Principle 1) if those Australian Privacy Principles so applied to that act or practice.
+
+(2) The act done, or the practice engaged in, by the overseas recipient
+
+is taken, for the purposes of this Act: (a) to have been done, or engaged in, by the APP entity; and (b) to be a breach of those Australian Privacy Principles by the
+
+APP entity.
+
+96 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Tax file number information Division 4
+
+### Section 17
+
+### Division 4—Tax file number information
+
+#### 17 Rules relating to tax file number information
+
+The Commissioner must, by legislative instrument, issue rules
+
+concerning the collection, storage, use and security of tax file number information.
+
+#### 18 File number recipients to comply with rules
+
+A file number recipient shall not do an act, or engage in a practice,
+
+that breaches a rule issued under section 17.
+
+Privacy Act 1988 97
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 19
+
+## Part IIIA—Credit reporting
+
+### Division 1—Introduction
+
+#### 19 Guide to this Part
+
+In general, this Part deals with the privacy of information relating to credit reporting.
+
+Divisions 2 and 3 contain rules that apply to credit reporting bodies and credit providers in relation to their handling of information relating to credit reporting.
+
+Division 4 contains rules that apply to affected information recipients in relation to their handling of their regulated information.
+
+Division 5 deals with complaints to credit reporting bodies or credit providers about acts or practices that may be a breach of certain provisions of this Part or the registered CR code.
+
+Division 6 deals with entities that obtain credit reporting information or credit eligibility information by false pretence, or when they are not authorised to do so under this Part.
+
+Division 7 provides for compensation orders, and other orders, to be made by the Federal Court or Federal Circuit and Family Court of Australia (Division 2).
+
+98 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 20
+
+### Division 2—Credit reporting bodies
+
+#### Subdivision A—Introduction and application of this Division
+
+etc.
+
+#### 20 Guide to this Division
+
+This Division sets out rules that apply to credit reporting bodies in relation to their handling of the following: (a) credit reporting information; (b) CP derived information; (c) credit reporting information that is de-identified; (d) a pre-screening assessment.
+
+The rules apply in relation to that kind of information or assessment instead of the Australian Privacy Principles.
+
+20A Application of this Division and the Australian Privacy Principles to credit reporting bodies
+
+(1) This Division applies to a credit reporting body in relation to the
+
+following: (a) credit reporting information; (b) CP derived information; (c) credit reporting information that is de-identified; (d) a pre-screening assessment.
+
+(2) The Australian Privacy Principles do not apply to a credit reporting
+
+body in relation to personal information that is: (a) credit reporting information; or (b) CP derived information; or (c) a pre-screening assessment.
+
+Note: The Australian Privacy Principles apply to the credit reporting body in relation to other kinds of personal information.
+
+Privacy Act 1988 99
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 20B
+
+#### Subdivision B—Consideration of information privacy
+
+20B Open and transparent management of credit reporting information
+
+(1) The object of this section is to ensure that credit reporting bodies
+
+manage credit reporting information in an open and transparent way.
+
+Compliance with this Division etc.
+
+(2) A credit reporting body must take such steps as are reasonable in
+
+the circumstances to implement practices, procedures and systems relating to the credit reporting business of the body that: (a) will ensure that the body complies with this Division and the
+
+registered CR code; and (b) will enable the body to deal with inquiries or complaints
+
+from individuals about the body’s compliance with this Division or the registered CR code.
+
+Policy about the management of credit reporting information
+
+(3) A credit reporting body must have a clearly expressed and
+
+up-to-date policy about the management of credit reporting information by the body.
+
+(4) Without limiting subsection (3), the policy of the credit reporting
+
+body must contain the following information: (a) the kinds of credit information that the body collects and how
+
+the body collects that information; (b) the kinds of credit reporting information that the body holds
+
+and how the body holds that information; (c) the kinds of personal information that the body usually
+
+derives from credit information that the body holds; (d) the purposes for which the body collects, holds, uses and
+
+discloses credit reporting information;
+
+100 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 20C
+
+(e) information about the effect of section 20G (which deals with
+
+direct marketing) and how the individual may make a request under subsection (5) of that section; (f) how an individual may access credit reporting information
+
+about the individual that is held by the body and seek the correction of such information; (g) information about the effect of section 20T (which deals with
+
+individuals requesting the correction of credit information etc.); (h) how an individual may complain about a failure of the body
+
+to comply with this Division or the registered CR code and how the body will deal with such a complaint.
+
+Availability of policy etc.
+
+(5) A credit reporting body must take such steps as are reasonable in
+
+the circumstances to make the policy available: (a) free of charge; and (b) in such form as is appropriate.
+
+Note: A credit reporting body will usually make the policy available on the body’s website.
+
+(6) If a person or body requests a copy, in a particular form, of the
+
+policy of a credit reporting body, the credit reporting body must take such steps as are reasonable in the circumstances to give the person or body a copy in that form.
+
+#### Subdivision C—Collection of credit information
+
+#### 20C Collection of solicited credit information
+
+Prohibition on collection
+
+(1) A credit reporting body must not collect credit information about
+
+an individual.
+
+Civil penalty: 2,000 penalty units.
+
+Privacy Act 1988 101
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 20C
+
+Exceptions
+
+(2) Subsection (1) does not apply if the collection of the credit
+
+information is required or authorised by or under an Australian law or a court/tribunal order.
+
+(3) Subsection (1) does not apply if: (a) the credit reporting body collects the credit information about
+
+the individual from a credit provider who is permitted under section 21D to disclose the information to the body; and (b) the body collects the information in the course of carrying on
+
+a credit reporting business; and (c) if the information is identification information about the
+
+individual—the body also collects from the provider, or already holds, credit information of another kind about the individual.
+
+(4) Subsection (1) does not apply if: (a) the credit reporting body: (i) collects the credit information about the individual from
+
+an entity (other than a credit provider) in the course of carrying on a credit reporting business; and (ii) knows, or believes on reasonable grounds, that the
+
+individual is at least 18 years old; and (b) the information does not relate to an act, omission, matter or
+
+thing that occurred or existed before the individual turned 18; and (c) if the information relates to consumer credit or commercial
+
+credit—the credit is or has been provided, or applied for, in Australia; and (d) if the information is identification information about the
+
+individual—the body also collects from the entity, or already holds, credit information of another kind about the individual; and (e) if the information is repayment history information or
+
+financial hardship information about the individual—the
+
+102 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 20D
+
+body collects the information from another credit reporting body that has an Australian link.
+
+(5) Paragraph (4)(b) does not apply to identification information about
+
+the individual.
+
+(6) Despite paragraph (4)(b), consumer credit liability information
+
+about the individual may relate to consumer credit that was entered into on a day before the individual turned 18, so long as the consumer credit was not terminated, or did not otherwise cease to be in force, on a day before the individual turned 18.
+
+Means of collection
+
+(7) A credit reporting body must collect credit information only by
+
+lawful and fair means.
+
+Solicited credit information
+
+(8) This section applies to the collection of credit information that is
+
+solicited by a credit reporting body.
+
+#### 20D Dealing with unsolicited credit information
+
+(1) If: (a) a credit reporting body receives credit information about an
+
+individual; and (b) the body did not solicit the information; the body must, within a reasonable period after receiving the information, determine whether or not the body could have collected the information under section 20C if the body had solicited the information.
+
+(2) The credit reporting body may use or disclose the credit
+
+information for the purposes of making the determination under subsection (1).
+
+(3) If the credit reporting body determines that it could have collected
+
+the credit information, sections 20E to 20ZA apply in relation to
+
+Privacy Act 1988 103
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 20E
+
+the information as if the body had collected the information under section 20C.
+
+(4) If the credit reporting body determines that it could not have
+
+collected the credit information, the body must, as soon as practicable, destroy the information.
+
+Civil penalty: 1,000 penalty units.
+
+(5) Subsection (4) does not apply if the credit reporting body is
+
+required by or under an Australian law, or a court/tribunal order, to retain the credit information.
+
+#### Subdivision D—Dealing with credit reporting information etc.
+
+#### 20E Use or disclosure of credit reporting information
+
+Prohibition on use or disclosure
+
+(1) If a credit reporting body holds credit reporting information about
+
+an individual, the body must not use or disclose the information.
+
+Civil penalty: 2,000 penalty units.
+
+Permitted uses
+
+(2) Subsection (1) does not apply to the use of credit reporting
+
+information about the individual if: (a) the credit reporting body uses the information in the course
+
+of carrying on the body’s credit reporting business; or (b) the use is required or authorised by or under an Australian
+
+law (other than the consumer data rules) or a court/tribunal order; or (c) the use is a use prescribed by the regulations.
+
+Permitted disclosures
+
+(3) Subsection (1) does not apply to the disclosure of credit reporting
+
+information about the individual if:
+
+104 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 20E
+
+(a) the disclosure is a permitted CRB disclosure in relation to the
+
+individual; or (b) the disclosure is to another credit reporting body that has an
+
+Australian link; or (c) both of the following apply: (i) the disclosure is for the purposes of a recognised
+
+external dispute resolution scheme; (ii) a credit reporting body or credit provider is a member of
+
+or subject to the scheme; or (d) both of the following apply: (i) the disclosure is to an enforcement body; (ii) the credit reporting body is satisfied that the body, or
+
+another enforcement body, believes on reasonable grounds that the individual has committed a serious credit infringement; or (e) the disclosure is required or authorised by or under an
+
+Australian law (other than the consumer data rules) or a court/tribunal order; or (f) the disclosure is a disclosure prescribed by the regulations.
+
+(4) However, if the credit reporting information is, or was derived
+
+from, repayment history information or financial hardship information about the individual, the credit reporting body must not disclose the information under paragraph (3)(a) or (f) unless the recipient of the information is: (a) a credit provider who is a licensee or is prescribed by the
+
+regulations; or (b) a mortgage insurer.
+
+Civil penalty: 2,000 penalty units.
+
+(4A) Despite subsection (3), if the credit reporting information is, or was
+
+derived from, financial hardship information about the individual, the credit reporting body must not disclose the information under paragraph (3)(a) or (f) to a credit provider or mortgage insurer if the provider or insurer requested the information for the purpose of:
+
+Privacy Act 1988 105
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 20E
+
+(a) in the case of a credit provider: (i) collecting payments that are overdue in relation to
+
+consumer credit provided by the provider to the individual; or (ii) collecting payments that are overdue in relation to
+
+commercial credit provided by the provider to a person; or (iii) assessing whether to accept the individual as a guarantor
+
+in relation to credit for which an application has been made to the provider by a person other than the individual; or (b) in the case of a mortgage insurer—assessing the risk of the
+
+individual defaulting on mortgage credit in relation to which the insurer has provided insurance to a credit provider.
+
+Civil penalty: 2,000 penalty units.
+
+(5) If a credit reporting body discloses credit reporting information
+
+under this section, the body must make a written note of that disclosure.
+
+Civil penalty: 500 penalty units.
+
+Note: Other Acts may provide that the note must not be made (see for example the Australian Crime Commission Act 2002 and the National Anti-Corruption Commission Act 2022).
+
+No use or disclosure for the purposes of direct marketing
+
+(6) This section does not apply to the use or disclosure of credit
+
+reporting information for the purposes of direct marketing.
+
+Note: Section 20G deals with the use or disclosure of credit reporting information for the purposes of direct marketing.
+
+No disclosure of financial hardship information as part of credit score
+
+(7) Subsection (3) does not apply to the disclosure of CRB derived
+
+information which contains or takes the form of a credit score
+
+106 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 20F
+
+where the credit information from which the credit score is derived includes financial hardship information.
+
+20F Permitted CRB disclosures in relation to individuals
+
+(1) A disclosure by a credit reporting body of credit reporting
+
+information about an individual is a permitted CRB disclosure in relation to the individual if: (a) the disclosure is to an entity that is specified in an item of the
+
+table and that has an Australian link; and (b) such conditions as are specified for the item are satisfied.
+
+Permitted CRB disclosures
+
+Item If the disclosure is to ... the condition or conditions are ...
+
+1 a credit provider the provider requests the information for a consumer credit related purpose of the provider in relation to the individual.
+
+2 a credit provider (a) the provider requests the information for a
+
+commercial credit related purpose of the provider in relation to a person; and (b) the individual expressly consents to the
+
+disclosure of the information to the provider for that purpose.
+
+3 a credit provider (a) the provider requests the information for a
+
+credit guarantee purpose of the provider in relation to the individual; and (b) the individual expressly consents, in writing,
+
+to the disclosure of the information to the provider for that purpose.
+
+4 a credit provider the credit reporting body is satisfied that the provider, or another credit provider, believes on reasonable grounds that the individual has committed a serious credit infringement.
+
+5 a credit provider (a) the credit reporting body holds consumer
+
+credit liability information that relates to consumer credit provided by the provider to the individual; and
+
+Privacy Act 1988 107
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 20G
+
+Permitted CRB disclosures
+
+Item If the disclosure is to ... the condition or conditions are ...
+
+6 a credit provider under subsection 6J(1)
+
+(b) the consumer credit has not been terminated,
+
+or has not otherwise ceased to be in force.
+
+the provider requests the information for a securitisation related purpose of the provider in relation to the individual.
+
+7 a mortgage insurer the insurer requests the information for a mortgage insurance purpose of the insurer in relation to the individual.
+
+8 a trade insurer (a) the insurer requests the information for a
+
+trade insurance purpose of the insurer in relation to the individual; and (b) the individual expressly consents, in writing,
+
+to the disclosure of the information to the insurer for that purpose.
+
+(2) The consent of the individual under paragraph (b) of item 2 of the
+
+table in subsection (1) must be given in writing unless: (a) the credit provider referred to in that item requests the
+
+information for the purpose of assessing an application for commercial credit made by a person to the provider; and (b) the application has not been made in writing.
+
+20G Use or disclosure of credit reporting information for the purposes of direct marketing
+
+Prohibition on direct marketing
+
+(1) If a credit reporting body holds credit reporting information about
+
+an individual, the body must not use or disclose the information for the purposes of direct marketing.
+
+Civil penalty: 2,000 penalty units.
+
+108 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Permitted use for pre-screening
+
+Section 20G
+
+(2) Subsection (1) does not apply to the use by the credit reporting
+
+body of credit information about the individual for the purposes of direct marketing by, or on behalf of, a credit provider if: (a) the provider has an Australian link and is a licensee; and (b) the direct marketing is about consumer credit that the
+
+provider provides in Australia; and (c) the information is not consumer credit liability information,
+
+repayment history information, or financial hardship information about the individual; and (d) the body uses the information to assess whether or not the
+
+individual is eligible to receive the direct marketing communications of the credit provider; and (e) the individual has not made a request under subsection (5);
+
+and (f) the body complies with any requirements that are set out in
+
+the registered CR code.
+
+(3) In assessing under paragraph (2)(d) whether or not the individual is
+
+eligible to receive the direct marketing communications of the credit provider, the credit reporting body must have regard to the eligibility requirements nominated by the provider.
+
+(4) An assessment under paragraph (2)(d) is not credit reporting
+
+information about the individual.
+
+Request not to use information for pre-screening
+
+(5) An individual may request a credit reporting body that holds credit
+
+information about the individual not to use the information under subsection (2).
+
+(6) If the individual makes a request under subsection (5), the credit
+
+reporting body must not charge the individual for the making of the request or to give effect to the request.
+
+Privacy Act 1988 109
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 20H
+
+Written note of use
+
+(7) If a credit reporting body uses credit information under
+
+subsection (2), the body must make a written note of that use.
+
+Civil penalty: 500 penalty units.
+
+#### 20H Use or disclosure of pre-screening assessments
+
+Use or disclosure by credit reporting bodies
+
+(1) If a credit reporting body makes a pre-screening assessment in
+
+relation to direct marketing by, or on behalf of, a credit provider, the body must not use or disclose the assessment.
+
+Civil penalty: 2,000 penalty units.
+
+(2) Subsection (1) does not apply if: (a) the credit reporting body discloses the pre-screening
+
+assessment for the purposes of the direct marketing by, or on behalf of, the credit provider; and (b) the recipient of the assessment is an entity (other than the
+
+provider) that has an Australian link.
+
+(3) If the credit reporting body discloses the pre-screening assessment
+
+under subsection (2), the body must make a written note of that disclosure.
+
+Civil penalty: 500 penalty units.
+
+Use or disclosure by recipients
+
+(4) If the credit reporting body discloses the pre-screening assessment
+
+under subsection (2), the recipient must not use or disclose the assessment.
+
+Civil penalty: 1,000 penalty units.
+
+(5) Subsection (4) does not apply if the recipient uses the
+
+pre-screening assessment for the purposes of the direct marketing by, or on behalf of, the credit provider.
+
+110 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 20J
+
+(6) If the recipient uses the pre-screening assessment under
+
+subsection (5), the recipient must make a written note of that use.
+
+Civil penalty: 500 penalty units.
+
+Interaction with the Australian Privacy Principles
+
+(7) If the recipient is an APP entity, Australian Privacy Principles 6, 7
+
+and 8 do not apply to the recipient in relation to a pre-screening assessment.
+
+#### 20J Destruction of pre-screening assessment
+
+(1) If an entity has possession or control of a pre-screening
+
+assessment, the entity must destroy the assessment if: (a) the entity no longer needs the assessment for any purpose for
+
+which it may be used or disclosed under section 20H; and (b) the entity is not required by or under an Australian law, or a
+
+court/tribunal order, to retain the assessment.
+
+Civil penalty: 1,000 penalty units.
+
+(2) If the entity is an APP entity but not a credit reporting body,
+
+Australian Privacy Principle 11.2 does not apply to the entity in relation to the pre-screening assessment.
+
+20K No use or disclosure of credit reporting information during a ban period
+
+(1) If: (a) a credit reporting body holds credit reporting information
+
+about an individual; and (b) the individual believes on reasonable grounds that the
+
+individual has been, or is likely to be, a victim of fraud (including identity fraud); and (c) the individual requests the body not to use or disclose the
+
+information under this Division;
+
+Privacy Act 1988 111
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 20K
+
+then, despite any other provision of this Division, the body must not use or disclose the information during the ban period for the information.
+
+Civil penalty: 2,000 penalty units.
+
+(2) Subsection (1) does not apply if: (a) the individual expressly consents, in writing, to the use or
+
+disclosure of the credit reporting information under this Division; or (b) the use or disclosure of the credit reporting information is
+
+required by or under an Australian law or a court/tribunal order.
+
+Ban period
+
+(3) The ban period for credit reporting information about an individual
+
+is the period that: (a) starts when the individual makes a request under
+
+paragraph (1)(c); and (b) ends: (i) 21 days after the day on which the request is made; or (ii) if the period is extended under subsection (4)—on the
+
+day after the extended period ends.
+
+(4) If: (a) there is a ban period for credit reporting information about an
+
+individual that is held by a credit reporting body; and (b) before the ban period ends, the individual requests the body
+
+to extend that period; and (c) the body believes on reasonable grounds that the individual
+
+has been, or is likely to be, a victim of fraud (including identity fraud); the body must: (d) extend the ban period by such period as the body considers is
+
+reasonable in the circumstances; and (e) give the individual written notification of the extension.
+
+112 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 20L
+
+Civil penalty: 1,000 penalty units.
+
+(5) A ban period for credit reporting information may be extended
+
+more than once under subsection (4).
+
+No charge for request etc.
+
+(6) If an individual makes a request under paragraph (1)(c) or (4)(b), a
+
+credit reporting body must not charge the individual for the making of the request or to give effect to the request.
+
+#### 20L Adoption of government related identifiers
+
+(1) If: (a) a credit reporting body holds credit reporting information
+
+about an individual; and (b) the information is a government related identifier of the
+
+individual; the body must not adopt the government related identifier as its own identifier of the individual.
+
+Civil penalty: 2,000 penalty units.
+
+(2) Subsection (1) does not apply if the adoption of the government
+
+related identifier is required or authorised by or under an Australian law or a court/tribunal order.
+
+20M Use or disclosure of credit reporting information that is de-identified
+
+Use or disclosure
+
+(1) If: (a) a credit reporting body holds credit reporting information;
+
+and (b) the information (the de-identified information) is
+
+de-identified; the body must not use or disclose the de-identified information.
+
+Privacy Act 1988 113
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 20N
+
+(2) Subsection (1) does not apply to the use or disclosure of the
+
+de-identified information if: (a) the use or disclosure is for the purposes of conducting
+
+research in relation to credit; and (b) the credit reporting body complies with the rules made under
+
+subsection (3).
+
+Commissioner may make rules
+
+(3) The Commissioner may, by legislative instrument, make rules
+
+relating to the use or disclosure by a credit reporting body of de-identified information for the purposes of conducting research in relation to credit.
+
+(4) Without limiting subsection (3), the rules may relate to the
+
+following matters: (a) the kinds of de-identified information that may or may not be
+
+used or disclosed for the purposes of conducting the research; (b) whether or not the research is research in relation to credit; (c) the purposes of conducting the research; (d) consultation about the research; (e) how the research is conducted.
+
+#### Subdivision E—Integrity of credit reporting information
+
+#### 20N Quality of credit reporting information
+
+(1) A credit reporting body must take such steps as are reasonable in
+
+the circumstances to ensure that the credit information the body collects is accurate, up-to-date and complete.
+
+(2) A credit reporting body must take such steps as are reasonable in
+
+the circumstances to ensure that the credit reporting information the body uses or discloses is, having regard to the purpose of the use or disclosure, accurate, up-to-date, complete and relevant.
+
+(3) Without limiting subsections (1) and (2), a credit reporting body
+
+must:
+
+114 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 20P
+
+(a) enter into agreements with credit providers that require the
+
+providers to ensure that credit information that they disclose to the body under section 21D is accurate, up-to-date and complete; and (b) ensure that regular audits are conducted by an independent
+
+person to determine whether those agreements are being complied with; and (c) identify and deal with suspected breaches of those
+
+agreements.
+
+#### 20P False or misleading credit reporting information
+
+Offence
+
+(1) A credit reporting body commits an offence if: (a) the body uses or discloses credit reporting information under
+
+this Division (other than subsections 20D(2) and 20T(4)); and (b) the information is false or misleading in a material particular.
+
+Penalty: 200 penalty units.
+
+Civil penalty
+
+(2) A credit reporting body must not use or disclose credit reporting
+
+information under this Division (other than subsections 20D(2) and 20T(4)) if the information is false or misleading in a material particular.
+
+Civil penalty: 2,000 penalty units.
+
+#### 20Q Security of credit reporting information
+
+(1) If a credit reporting body holds credit reporting information, the
+
+body must take such steps as are reasonable in the circumstances to protect the information: (a) from misuse, interference and loss; and (b) from unauthorised access, modification or disclosure.
+
+Privacy Act 1988 115
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 20R
+
+(2) Without limiting subsection (1), a credit reporting body must: (a) enter into agreements with credit providers that require the
+
+providers to protect credit reporting information that is disclosed to them under this Division: (i) from misuse, interference and loss; and (ii) from unauthorised access, modification or disclosure;
+
+and (b) ensure that regular audits are conducted by an independent
+
+person to determine whether those agreements are being complied with; and (c) identify and deal with suspected breaches of those
+
+agreements.
+
+(3) Without limiting subsection (1), if a credit reporting body holds
+
+credit reporting information, the body must store the information: (a) either: (i) in Australia or an external Territory; or (ii) in accordance with any security requirements prescribed
+
+by the regulations for storing the information outside of Australia and the external Territories; and (b) in accordance with any security requirements prescribed by
+
+the regulations.
+
+Note: Requirements prescribed for paragraph (b) apply wherever the information is stored.
+
+#### Subdivision F—Access to, and correction of, information
+
+#### 20R Access to credit reporting information
+
+Access
+
+(1) If a credit reporting body holds credit reporting information about
+
+an individual, the body must, on request by an access seeker in relation to the information, give the access seeker access to: (a) the information; and (b) if the body is a corporation to which paragraph 51(xx) of the
+
+Constitution applies, and the credit reporting business of the
+
+116 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 20R
+
+body involves deriving CRB derived information about individuals in the form of a rating (a credit rating) of the individuals on a credit score scale or range—the information referred to in subsection (1A).
+
+(1A) The information is: (a) the credit rating of the individual, as derived by the body
+
+after the request is made; and (b) information that identifies the particular credit information
+
+that is held by the body and from which the credit rating was derived; and (c) information about the relative weighting of the credit
+
+information described in paragraph (b) in deriving the credit rating; and (d) information about what the other ratings on the scale or range
+
+are, and how the individual’s credit rating relates to those other ratings.
+
+Exceptions to access
+
+(2) Despite subsection (1), the credit reporting body is not required to
+
+give the access seeker access to the credit reporting information to the extent that: (a) giving access would be unlawful; or (b) denying access is required or authorised by or under an
+
+Australian law or a court/tribunal order; or (c) giving access would be likely to prejudice one or more
+
+enforcement related activities conducted by, or on behalf of, an enforcement body; or (d) for information referred to in subsection (1A)—the credit
+
+information about the individual that is held by the body is insufficient for the body to be able to derive the credit rating of the individual in the ordinary course of its credit reporting business within the period referred to in subsection (3).
+
+Privacy Act 1988 117
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 20R
+
+Dealing with requests for access
+
+(3) The credit reporting body must respond to the request within a
+
+reasonable period, but not longer than 10 days, after the request is made.
+
+Means of access
+
+(4) If the credit reporting body gives access to the credit reporting
+
+information, the access must be given in the manner set out in the registered CR code.
+
+Access charges
+
+(5) If a request under subsection (1) in relation to the individual has
+
+not been made to the credit reporting body in the previous 3 months, the body must not charge the access seeker for the making of the request or for giving access to the information.
+
+(6) If subsection (5) does not apply, any charge by the credit reporting
+
+body for giving access to the information must not be excessive and must not apply to the making of the request.
+
+Refusal to give access
+
+(7) If the credit reporting body refuses to give access to the
+
+information because of subsection (2), the body must give the access seeker a written notice that: (a) sets out the reasons for the refusal except to the extent that,
+
+having regard to the grounds for the refusal, it would be unreasonable to do so; and (b) states that, if the access seeker is not satisfied with the
+
+response to the request, the access seeker may: (i) access a recognised external dispute resolution scheme
+
+of which the body is a member; or (ii) make a complaint to the Commissioner under Part V.
+
+118 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 20S
+
+#### 20S Correction of credit reporting information
+
+(1) If: (a) a credit reporting body holds credit reporting information
+
+about an individual; and (b) the body is satisfied that, having regard to a purpose for
+
+which the information is held by the body, the information is inaccurate, out-of-date, incomplete, irrelevant or misleading; the body must take such steps (if any) as are reasonable in the circumstances to correct the information to ensure that, having regard to the purpose for which it is held, the information is accurate, up-to-date, complete, relevant and not misleading.
+
+(2) If: (a) the credit reporting body corrects credit reporting
+
+information under subsection (1); and (b) the body has previously disclosed the information under this
+
+Division (other than subsections 20D(2) and 20T(4)); the body must, within a reasonable period, give each recipient of the information written notice of the correction.
+
+(3) Subsection (2) does not apply if: (a) it is impracticable for the credit reporting body to give the
+
+notice under that subsection; or (b) the credit reporting body is required by or under an
+
+Australian law, or a court/tribunal order, not to give the notice under that subsection.
+
+#### 20T Individual may request the correction of credit information etc.
+
+Request
+
+(1) An individual may request a credit reporting body to correct
+
+personal information about the individual if: (a) the personal information is: (i) credit information about the individual; or (ii) CRB derived information about the individual; or
+
+Privacy Act 1988 119
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 20T
+
+(iii) CP derived information about the individual; and (b) the body holds at least one kind of the personal information
+
+referred to in paragraph (a).
+
+Correction
+
+(2) If the credit reporting body is satisfied that the personal
+
+information is inaccurate, out-of-date, incomplete, irrelevant or misleading, the body must take such steps (if any) as are reasonable in the circumstances to correct the information within: (a) the period of 30 days that starts on the day on which the
+
+request is made; or (b) such longer period as the individual has agreed to in writing.
+
+Consultation
+
+(3) If the credit reporting body considers that the body cannot be
+
+satisfied of the matter referred to in subsection (2) in relation to the personal information without consulting either or both of the following (the interested party): (a) another credit reporting body that holds or held the
+
+information and that has an Australian link; (b) a credit provider that holds or held the information and that
+
+has an Australian link; the body must consult that interested party, or those interested parties, about the individual’s request.
+
+(4) The use or disclosure of personal information about the individual
+
+for the purposes of the consultation is taken, for the purposes of this Act, to be a use or disclosure that is authorised by this subsection.
+
+No charge
+
+(5) The credit reporting body must not charge the individual for the
+
+making of the request or for correcting the information.
+
+120 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 20U
+
+#### 20U Notice of correction etc. must be given
+
+(1) This section applies if an individual requests a credit reporting
+
+body to correct personal information under subsection 20T(1).
+
+Notice of correction etc.
+
+(2) If the credit reporting body corrects the personal information under
+
+subsection 20T(2), the body must, within a reasonable period: (a) give the individual written notice of the correction; and (b) if the body consulted an interested party under
+
+subsection 20T(3) about the individual’s request—give the party written notice of the correction; and (c) if the correction relates to information that the body has
+
+previously disclosed under this Division (other than subsections 20D(2) and 20T(4))—give each recipient of the information written notice of the correction.
+
+(3) If the credit reporting body does not correct the personal
+
+information under subsection 20T(2), the body must, within a reasonable period, give the individual written notice that: (a) states that the correction has not been made; and (b) sets out the body’s reasons for not correcting the information
+
+(including evidence substantiating the correctness of the information); and (c) states that, if the individual is not satisfied with the response
+
+to the request, the individual may: (i) access a recognised external dispute resolution scheme
+
+of which the body is a member; or (ii) make a complaint to the Commissioner under Part V.
+
+Exceptions
+
+(4) Paragraph (2)(c) does not apply if it is impracticable for the credit
+
+reporting body to give the notice under that paragraph.
+
+Privacy Act 1988 121
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 20V
+
+(5) Subsection (2) or (3) does not apply if the credit reporting body is
+
+required by or under an Australian law, or a court/tribunal order, not to give the notice under that subsection.
+
+### Subdivision G—Dealing with credit reporting information after
+
+the retention period ends etc.
+
+20V Destruction etc. of credit reporting information after the retention period ends
+
+(1) This section applies if: (a) a credit reporting body holds credit information about an
+
+individual; and (b) the retention period for the information ends.
+
+Note: There is no retention period for identification information or credit information of a kind referred to in paragraph 6N(k).
+
+Destruction etc. of credit information
+
+(2) The credit reporting body must destroy the credit information, or
+
+ensure that the information is de-identified, within 1 month after the retention period for the information ends.
+
+Civil penalty: 1,000 penalty units.
+
+(3) Despite subsection (2), the credit reporting body must neither
+
+destroy the credit information nor ensure that the information is de-identified, if immediately before the retention period ends: (a) there is a pending correction request in relation to the
+
+information; or (b) there is a pending dispute in relation to the information.
+
+Civil penalty: 500 penalty units.
+
+(4) Subsection (2) does not apply if the credit reporting body is
+
+required by or under an Australian law, or a court/tribunal order, to retain the credit information.
+
+122 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 20W
+
+Destruction etc. of CRB derived information
+
+(5) The credit reporting body must destroy any CRB derived
+
+information about the individual that was derived from the credit information, or ensure that the CRB derived information is de-identified: (a) if: (i) the CRB derived information was derived from 2 or
+
+more kinds of credit information; and (ii) the body is required to do a thing referred to in
+
+subsection (2) to one of those kinds of credit information; at the same time that the body does that thing to that credit
+
+information; or (b) otherwise—at the same time that the body is required to do a
+
+thing referred to in subsection (2) to the credit information from which the CRB derived information was derived.
+
+Civil penalty: 1,000 penalty units.
+
+(6) Despite subsection (5), the credit reporting body must neither
+
+destroy the CRB derived information nor ensure that the information is de-identified, if immediately before the retention period ends: (a) there is a pending correction request in relation to the
+
+information; or (b) there is a pending dispute in relation to the information.
+
+Civil penalty: 500 penalty units.
+
+(7) Subsection (5) does not apply if the credit reporting body is
+
+required by or under an Australian law, or a court/tribunal order, to retain the CRB derived information.
+
+#### 20W Retention period for credit information—general
+
+The following table sets out the retention period for credit
+
+information:
+
+Privacy Act 1988 123
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 20W
+
+(a) that is information of a kind referred to in an item of the
+
+table; and (b) that is held by a credit reporting body.
+
+Retention period
+
+Item If the credit information is ... the retention period for the information is ...
+
+1 consumer credit liability information
+
+the period of 2 years that starts on the day on which the consumer credit to which the information relates is terminated or otherwise ceases to be in force.
+
+2 repayment history information the period of 2 years that starts on the day on which the monthly payment to which the information relates is due and payable.
+
+2A financial hardship information the period of 1 year that starts on the day on which the monthly payment to which the information relates is due and payable.
+
+3 information of a kind referred to in paragraph 6N(d) or (e)
+
+the period of 5 years that starts on the day on which the information request to which the information relates is made.
+
+4 default information the period of 5 years that starts on the day on which the credit reporting body collects the information.
+
+5 payment information the period of 5 years that starts on the day on which the credit reporting body collects the default information to which the payment information relates.
+
+6 new arrangement information within the meaning of subsection 6S(1)
+
+7 new arrangement information within the meaning of
+
+the period of 2 years that starts on the day on which the credit reporting body collects the default information referred to in that subsection.
+
+the period of 2 years that starts on the day on which the credit reporting body
+
+124 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Retention period
+
+Section 20X
+
+Item If the credit information is ... the retention period for the information is ... subsection 6S(2) collects the information about the opinion referred to in that subsection.
+
+8 court proceedings information the period of 5 years that starts on the day on which the judgement to which the information relates is made or given.
+
+9 information of a kind referred to in paragraph 6N(l)
+
+the period of 7 years that starts on the day on which the credit reporting body collects the information.
+
+20X Retention period for credit information—personal insolvency information
+
+### (1) The following table has effect:
+
+Item If personal insolvency information relates to ...
+
+the retention period for the information is whichever of the following periods ends later ...
+
+1 a bankruptcy of an individual (a) the period of 5 years that starts on the
+
+2 a personal insolvency agreement to which item 3 of this table does not apply
+
+3 a personal insolvency agreement in relation to which a certificate has been signed under section 232 of the Bankruptcy Act
+
+day on which the individual becomes a bankrupt; (b) the period of 2 years that starts on the
+
+day the bankruptcy ends.
+
+(a) the period of 5 years that starts on the
+
+day on which the agreement is executed; (b) the period of 2 years that starts on the
+
+day the agreement is terminated or set aside under the Bankruptcy Act.
+
+(a) the period of 5 years that starts on the
+
+day on which the agreement is executed; (b) the period that ends on the day on
+
+which the certificate is signed.
+
+Privacy Act 1988 125
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 20X
+
+Item If personal insolvency information relates to ...
+
+4 a debt agreement to which item 5 of this table does not apply
+
+5 a debt agreement that ends under section 185N of the Bankruptcy Act
+
+Debt agreement proposals
+
+the retention period for the information is whichever of the following periods ends later ...
+
+(a) the period of 5 years that starts on the
+
+day on which the agreement is made; (b) the period of 2 years that starts on the
+
+day:
+
+(i) the agreement is terminated
+
+under the Bankruptcy Act; or (ii) an order declaring that all the
+
+agreement is void is made under that Act.
+
+(a) the period of 5 years that starts on the
+
+day on which the agreement is made; (b) the period that ends on the day on
+
+which the agreement ends.
+
+(2) If personal insolvency information relates to a debt agreement
+
+proposal, the retention period for the information is the period that ends on the day on which: (a) the proposal is withdrawn; or (b) the proposal is not accepted under section 185EC of the
+
+Bankruptcy Act; or (c) the acceptance of the proposal for processing is cancelled
+
+under section 185ED of that Act; or (d) the proposal lapses under section 185G of that Act.
+
+Control of property
+
+(3) If personal insolvency information relates to a direction given, or
+
+an order made, under section 50 of the Bankruptcy Act, the retention period for the information is the period that ends on the day on which the control of the property to which the direction or order relates ends.
+
+Note: See subsection 50(1B) of the Bankruptcy Act for when the control of the property ends.
+
+126 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 20Y
+
+(4) If the personal insolvency information relates to an authority
+
+signed under section 188 of the Bankruptcy Act, the retention period for the information is the period that ends on the day on which the property to which the authority relates is no longer subject to control under Division 2 of Part X of that Act.
+
+Interpretation
+
+(5) An expression used in this section that is also used in the
+
+Bankruptcy Act has the same meaning in this section as it has in that Act.
+
+#### 20Y Destruction of credit reporting information in cases of fraud
+
+(1) This section applies if: (a) a credit reporting body holds credit reporting information
+
+about an individual; and (b) the information relates to consumer credit that has been
+
+provided by a credit provider to the individual, or a person purporting to be the individual; and (c) the body is satisfied that: (i) the individual has been a victim of fraud (including
+
+identity fraud); and (ii) the consumer credit was provided as a result of that
+
+fraud.
+
+Destruction of credit reporting information
+
+(2) The credit reporting body must: (a) destroy the credit reporting information; and (b) within a reasonable period after the information is destroyed: (i) give the individual a written notice that states that the
+
+information has been destroyed and sets out the effect of subsection (4); and (ii) give the credit provider a written notice that states that
+
+the information has been destroyed.
+
+Civil penalty: 1,000 penalty units.
+
+Privacy Act 1988 127
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 20Z
+
+(3) Subsection (2) does not apply if the credit reporting body is
+
+required by or under an Australian law, or a court/tribunal order, to retain the credit reporting information.
+
+Notification of destruction to third parties
+
+(4) If: (a) a credit reporting body destroys credit reporting information
+
+about an individual under subsection (2); and (b) the body has previously disclosed the information to one or
+
+more recipients under Subdivision D of this Division; the body must, within a reasonable period after the destruction, notify those recipients of the destruction and the matters referred to in paragraph (1)(c).
+
+Civil penalty: 500 penalty units.
+
+(5) Subsection (4) does not apply if the credit reporting body is
+
+required by or under an Australian law, or a court/tribunal order, not to give the notification.
+
+20Z Dealing with information if there is a pending correction request etc.
+
+(1) This section applies if a credit reporting body holds credit reporting
+
+information about an individual and either: (a) subsection 20V(3) applies in relation to the information; or (b) subsection 20V(6) applies in relation to the information.
+
+Notification of Commissioner
+
+(2) The credit reporting body must, as soon as practicable, notify in
+
+writing the Commissioner of the matter referred to in paragraph (1)(a) or (b) of this section.
+
+Civil penalty: 1,000 penalty units.
+
+128 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Use or disclosure
+
+Section 20ZA
+
+(3) The credit reporting body must not use or disclose the information
+
+under Subdivision D of this Division.
+
+Civil penalty: 2,000 penalty units.
+
+(4) However, the credit reporting body may use or disclose the
+
+information under this subsection if: (a) the use or disclosure is for the purposes of the pending
+
+correction request, or pending dispute, in relation to the information; or (b) the use or disclosure of the information is required by or
+
+under an Australian law or a court/tribunal order.
+
+(5) If the credit reporting body uses or discloses the information under
+
+subsection (4), the body must make a written note of the use or disclosure.
+
+Civil penalty: 500 penalty units.
+
+Direction to destroy information etc.
+
+(6) The Commissioner may, by legislative instrument, direct the credit
+
+reporting body to destroy the information, or ensure that the information is de-identified, by a specified day.
+
+(7) If the Commissioner gives a direction under subsection (6) to the
+
+credit reporting body, the body must comply with the direction.
+
+Civil penalty: 1,000 penalty units.
+
+(8) To avoid doubt, section 20M applies in relation to credit reporting
+
+information that is de-identified as a result of the credit reporting body complying with the direction.
+
+20ZA Dealing with information if an Australian law etc. requires it to be retained
+
+(1) This section applies if a credit reporting body is not required:
+
+Privacy Act 1988 129
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 20ZA
+
+(a) to do a thing referred to in subsection 20V(2) to credit
+
+information because of subsection 20V(4); or (b) to do a thing referred to in subsection 20V(5) to CRB derived
+
+information because of subsection 20V(7); or (c) to destroy credit reporting information under
+
+subsection 20Y(2) because of subsection 20Y(3).
+
+Use or disclosure
+
+(2) The credit reporting body must not use or disclose the information
+
+under Subdivision D of this Division.
+
+Civil penalty: 2,000 penalty units.
+
+(3) However, the credit reporting body may use or disclose the
+
+information under this subsection if the use or disclosure of the information is required by or under an Australian law or a court/tribunal order.
+
+(4) If the credit reporting body uses or discloses the information under
+
+subsection (3), the body must make a written note of the use or disclosure.
+
+Civil penalty: 500 penalty units.
+
+Other requirements
+
+(5) Subdivision E of this Division (other than section 20Q) does not
+
+apply in relation to the use or disclosure of the information.
+
+Note: Section 20Q deals with the security of credit reporting information.
+
+(6) Subdivision F of this Division does not apply in relation to the
+
+information.
+
+130 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Division 3—Credit providers
+
+### Section 21
+
+#### Subdivision A—Introduction and application of this Division
+
+#### 21 Guide to this Division
+
+This Division sets out rules that apply to credit providers in relation to their handling of the following: (a) credit information; (b) credit eligibility information; (c) CRB derived information.
+
+If a credit provider is an APP entity, the rules apply in relation to that information in addition to, or instead of, any relevant Australian Privacy Principles.
+
+#### 21A Application of this Division to credit providers
+
+(1) This Division applies to a credit provider in relation to the
+
+following: (a) credit information; (b) credit eligibility information; (c) CRB derived information.
+
+(2) If the credit provider is an APP entity, this Division may apply to
+
+the provider in relation to information referred to in subsection (1) in addition to, or instead of, the Australian Privacy Principles.
+
+#### Subdivision B—Consideration of information privacy
+
+#### 21B Open and transparent management of credit information etc.
+
+(1) The object of this section is to ensure that credit providers manage
+
+credit information and credit eligibility information in an open and transparent way.
+
+Privacy Act 1988 131
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 21B
+
+Compliance with this Division etc.
+
+(2) A credit provider must take such steps as are reasonable in the
+
+circumstances to implement practices, procedures and systems relating to the provider’s functions or activities as a credit provider that: (a) will ensure that the provider complies with this Division and
+
+the registered CR code if it binds the provider; and (b) will enable the provider to deal with inquiries or complaints
+
+from individuals about the provider’s compliance with this Division or the registered CR code if it binds the provider.
+
+Policy about the management of credit information etc.
+
+(3) A credit provider must have a clearly expressed and up-to-date
+
+policy about the management of credit information and credit eligibility information by the provider.
+
+(4) Without limiting subsection (3), the policy of the credit provider
+
+must contain the following information: (a) the kinds of credit information that the provider collects and
+
+holds, and how the provider collects and holds that information; (b) the kinds of credit eligibility information that the provider
+
+holds and how the provider holds that information; (c) the kinds of CP derived information that the provider usually
+
+derives from credit reporting information disclosed to the provider by a credit reporting body under Division 2 of this Part; (d) the purposes for which the provider collects, holds, uses and
+
+discloses credit information and credit eligibility information; (e) how an individual may access credit eligibility information
+
+about the individual that is held by the provider; (f) how an individual may seek the correction of credit
+
+information or credit eligibility information about the individual that is held by the provider;
+
+132 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 21B
+
+(g) how an individual may complain about a failure of the
+
+provider to comply with this Division or the registered CR code if it binds the provider; (h) how the provider will deal with such a complaint; (i) whether the provider is likely to disclose credit information
+
+or credit eligibility information to entities that do not have an Australian link; (j) if the provider is likely to disclose credit information or
+
+credit eligibility information to such entities—the countries in which those entities are likely to be located if it is practicable to specify those countries in the policy.
+
+Availability of policy etc.
+
+(5) A credit provider must take such steps as are reasonable in the
+
+circumstances to make the policy available: (a) free of charge; and (b) in such form as is appropriate.
+
+Note: A credit provider will usually make the policy available on the provider’s website.
+
+(6) If a person or body requests a copy, in a particular form, of the
+
+policy of a credit provider, the provider must take such steps as are reasonable in the circumstances to give the person or body a copy in that form.
+
+Interaction with the Australian Privacy Principles
+
+(7) If a credit provider is an APP entity, Australian Privacy
+
+Principles 1.3 and 1.4 do not apply to the provider in relation to credit information or credit eligibility information.
+
+Exemption for certain non-participating credit providers
+
+(8) This section does not apply to a non-participating credit provider.
+
+Privacy Act 1988 133
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 21C
+
+#### Subdivision C—Dealing with credit information
+
+21C Additional notification requirements for the collection of personal information etc.
+
+(1) At or before the time a credit provider collects personal
+
+information about an individual that the provider is likely to disclose to a credit reporting body, the provider must: (a) notify the individual of the following matters: (i) the name and contact details of the body; (ii) any other matter specified in the registered CR code; or (b) otherwise ensure that the individual is aware of those matters.
+
+(2) If a credit provider is an APP entity, subsection (1) applies to the
+
+provider in relation to personal information in addition to Australian Privacy Principle 5.
+
+(3) If a credit provider is an APP entity, then the matters for the
+
+purposes of Australian Privacy Principle 5.1 include the following matters to the extent that the personal information referred to in that principle is credit information or credit eligibility information: (a) that the policy (the credit reporting policy) of the provider
+
+that is referred to in subsection 21B(3) contains information about how an individual may access the credit eligibility information about the individual that is held by the provider; (b) that the credit reporting policy of the provider contains
+
+information about how an individual may seek the correction of credit information or credit eligibility information about the individual that is held by the provider; (c) that the credit reporting policy of the provider contains
+
+information about how an individual may complain about a failure of the provider to comply with this Division or the registered CR code if it binds the provider; (d) that the credit reporting policy of the provider contains
+
+information about how the provider will deal with such a complaint;
+
+134 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 21D
+
+(e) whether the provider is likely to disclose credit information
+
+or credit eligibility information to entities that do not have an Australian link; (f) if the provider is likely to disclose credit information or
+
+credit eligibility information to such entities—the countries in which those entities are likely to be located if it is practicable to specify those countries in the credit reporting policy.
+
+#### 21D Disclosure of credit information to a credit reporting body
+
+Prohibition on disclosure
+
+(1) A credit provider must not disclose credit information about an
+
+individual to a credit reporting body (whether or not the body’s credit reporting business is carried on in Australia).
+
+Civil penalty: 2,000 penalty units.
+
+Permitted disclosure
+
+(2) Subsection (1) does not apply to the disclosure of credit
+
+information about the individual if: (a) the credit provider: (i) is a member of or subject to a recognised external
+
+dispute resolution scheme or is prescribed by the regulations; and (ii) knows, or believes on reasonable grounds, that the
+
+individual is at least 18 years old; and (b) the credit reporting body is: (i) an agency; or (ii) an organisation that has an Australian link; and (c) the information meets the requirements of subsection (3).
+
+Note: Section 21F limits the disclosure of credit information if there is a ban period for the information.
+
+(3) Credit information about an individual meets the requirements of
+
+this subsection if:
+
+Privacy Act 1988 135
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 21D
+
+(a) the information does not relate to an act, omission, matter or
+
+thing that occurred or existed before the individual turned 18; and (b) if the information relates to consumer credit or commercial
+
+credit—the credit is or has been provided, or applied for, in Australia; and (c) if the information is repayment history information or
+
+financial hardship information about the individual: (i) the credit provider is a licensee or is prescribed by the
+
+regulations; and (ii) the consumer credit to which the information relates is
+
+consumer credit in relation to which the provider also discloses, or a credit provider has previously disclosed, consumer credit liability information about the individual to the credit reporting body; and (iii) the provider complies with any requirements relating to
+
+the disclosure of the information that are prescribed by the regulations; and (d) if the information is default information about the individual: (i) the credit provider has given the individual a notice in
+
+writing stating that the provider intends to disclose the information to the credit reporting body; and (ii) at least 14 days have passed since the giving of the
+
+notice.
+
+(4) Paragraph (3)(a) does not apply to identification information about
+
+the individual.
+
+(5) Despite paragraph (3)(a), consumer credit liability information
+
+about the individual may relate to consumer credit that was entered into on a day before the individual turned 18, so long as the consumer credit was not terminated, or did not otherwise cease to be in force, on a day before the individual turned 18.
+
+Written note of disclosure
+
+(6) If a credit provider discloses credit information under this section,
+
+the provider must make a written note of that disclosure.
+
+136 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 21E
+
+Civil penalty: 500 penalty units.
+
+Interaction with the Australian Privacy Principles
+
+(7) If a credit provider is an APP entity, Australian Privacy
+
+Principles 6 and 8 do not apply to the disclosure by the provider of credit information to a credit reporting body.
+
+21E Payment information must be disclosed to a credit reporting body
+
+If: (a) a credit provider has disclosed default information about an
+
+individual to a credit reporting body under section 21D; and (b) after the default information was disclosed, the amount of the
+
+overdue payment to which the information relates is paid; the provider must, within a reasonable period after the amount is paid, disclose payment information about the amount to the body under that section.
+
+Civil penalty: 500 penalty units.
+
+#### 21EA Financial hardship information must be disclosed
+
+If: (a) a credit provider discloses to a credit reporting body
+
+repayment history information about an individual in relation to a monthly payment under section 21D; and (b) financial hardship information about that individual exists in
+
+relation to that monthly payment; the credit provider must, at the same time, disclose the financial hardship information to the credit reporting body.
+
+Civil penalty: 500 penalty units.
+
+Privacy Act 1988 137
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 21F
+
+21F Limitation on the disclosure of credit information during a ban period
+
+(1) This section applies if: (a) a credit reporting body holds credit reporting information
+
+about an individual; and (b) a credit provider requests the body to disclose the
+
+information to the provider for the purpose of assessing an application for consumer credit made to the provider by the individual, or a person purporting to be the individual; and (c) the body is not permitted to disclose the information because
+
+there is a ban period for the information; and (d) during the ban period, the provider provides the consumer
+
+credit to which the application relates to the individual, or the person purporting to be the individual.
+
+(2) If the credit provider holds credit information about the individual
+
+that relates to the consumer credit, the provider must not, despite sections 21D and 21E, disclose the information to a credit reporting body.
+
+Civil penalty: 2,000 penalty units.
+
+(3) Subsection (2) does not apply if the credit provider has taken such
+
+steps as are reasonable in the circumstances to verify the identity of the individual.
+
+#### Subdivision D—Dealing with credit eligibility information etc.
+
+#### 21G Use or disclosure of credit eligibility information
+
+Prohibition on use or disclosure
+
+(1) If a credit provider holds credit eligibility information about an
+
+individual, the provider must not use or disclose the information.
+
+Civil penalty: 2,000 penalty units.
+
+138 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Permitted uses
+
+Section 21G
+
+(2) Subsection (1) does not apply to the use of credit eligibility
+
+information about the individual if: (a) the use is for a consumer credit related purpose of the credit
+
+provider in relation to the individual; or (b) the use is a permitted CP use in relation to the individual; or (c) both of the following apply: (i) the credit provider believes on reasonable grounds that
+
+the individual has committed a serious credit infringement; (ii) the provider uses the information in connection with the
+
+infringement; or (d) the use is required or authorised by or under an Australian
+
+law (other than the consumer data rules) or a court/tribunal order; or (e) the use is a use prescribed by the regulations.
+
+Permitted disclosures
+
+(3) Subsection (1) does not apply to the disclosure of credit eligibility
+
+information about the individual if: (a) the disclosure is a permitted CP disclosure in relation to the
+
+individual; or (b) the disclosure is to a related body corporate of the credit
+
+provider; or (c) the disclosure is to: (i) a person for the purpose of processing an application for
+
+credit made to the credit provider; or (ii) a person who manages credit provided by the credit
+
+provider for use in managing that credit; or (d) both of the following apply: (i) the credit provider believes on reasonable grounds that
+
+the individual has committed a serious credit infringement;
+
+Privacy Act 1988 139
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 21G
+
+(ii) the provider discloses the information to another credit
+
+provider that has an Australian link, or to an enforcement body; or (e) both of the following apply: (i) the disclosure is for the purposes of a recognised
+
+external dispute resolution scheme; (ii) a credit provider or credit reporting body is a member of
+
+or subject to the scheme; or (f) the disclosure is required or authorised by or under an
+
+Australian law (other than the consumer data rules) or a court/tribunal order; or (g) the disclosure is a disclosure prescribed by the regulations.
+
+Note: See section 21NA for additional rules about the disclosure of credit eligibility information under paragraph (3)(b) or (c).
+
+(4) However, if the credit eligibility information about the individual
+
+is, or was derived from, repayment history information or financial hardship information about the individual, the credit provider must not disclose the information under subsection (3).
+
+Civil penalty: 2,000 penalty units.
+
+(5) Subsection (4) does not apply if: (a) the recipient of the credit eligibility information is another
+
+credit provider who is a licensee; or (b) the disclosure is a permitted CP disclosure within the
+
+meaning of section 21L; or (c) the credit provider discloses the credit eligibility information
+
+under paragraph (3)(b), (c), (e) or (f); or (d) the credit provider discloses the credit eligibility information
+
+under paragraph (3)(d) to an enforcement body.
+
+Written note of use or disclosure
+
+(6) If a credit provider uses or discloses credit eligibility information
+
+under this section, the provider must make a written note of that use or disclosure.
+
+140 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 21H
+
+Civil penalty: 500 penalty units.
+
+Interaction with the Australian Privacy Principles
+
+(7) If a credit provider is an APP entity, Australian Privacy
+
+Principles 6, 7 and 8 do not apply to the provider in relation to credit eligibility information.
+
+(8) If: (a) a credit provider is an APP entity; and (b) the credit eligibility information is a government related
+
+identifier of the individual; Australian Privacy Principle 9.2 does not apply to the provider in relation to the information.
+
+#### 21H Permitted CP uses in relation to individuals
+
+A use by a credit provider of credit eligibility information about an
+
+individual is a permitted CP use in relation to the individual if: (a) the relevant credit reporting information was disclosed to the
+
+provider under a provision specified in column 1 of the table for the purpose (if any) specified in that column; and (b) the provider uses the credit eligibility information for the
+
+purpose specified in column 2 of the table.
+
+Permitted CP uses
+
+Column 1 Column 2
+
+Item The relevant credit reporting information was disclosed to the credit provider under ...
+
+1 item 1 of the table in subsection 20F(1) for the purpose of assessing an application for consumer credit made by the individual to the provider.
+
+The credit provider uses the credit eligibility information for ...
+
+(a) a securitisation related purpose of
+
+the provider in relation to the individual; or (b) the internal management purposes
+
+of the provider that are directly related to the provision or management of consumer credit by
+
+Privacy Act 1988 141
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 21H
+
+Permitted CP uses
+
+Column 1 Column 2
+
+Item The relevant credit reporting information was disclosed to the credit provider under ...
+
+2 item 2 of the table in subsection 20F(1) for a particular commercial credit related purpose of the provider in relation to the individual.
+
+3 item 2 of the table in subsection 20F(1) for the purpose of assessing an application for commercial credit made by a person to the provider.
+
+4 item 3 of the table in subsection 20F(1) for a credit guarantee purpose of the provider in relation to the individual.
+
+5 item 5 of the table in subsection 20F(1).
+
+6 item 6 of the table in subsection 20F(1) for a particular securitisation related purpose of the provider in relation to the individual.
+
+The credit provider uses the credit eligibility information for ...
+
+the provider.
+
+that particular commercial credit related purpose.
+
+the internal management purposes of the provider that are directly related to the provision or management of commercial credit by the provider.
+
+(a) the credit guarantee purpose; or (b) the internal management purposes
+
+of the provider that are directly related to the provision or management of any credit by the provider.
+
+the purpose of assisting the individual to avoid defaulting on his or her obligations in relation to consumer credit provided by the provider to the individual.
+
+that particular securitisation related purpose.
+
+142 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 21J
+
+#### 21J Permitted CP disclosures between credit providers
+
+Consent
+
+(1) A disclosure by a credit provider of credit eligibility information
+
+about an individual is a permitted CP disclosure in relation to the individual if: (a) the disclosure is to another credit provider (the recipient) for
+
+a particular purpose; and (b) the recipient has an Australian link; and (c) the individual expressly consents to the disclosure of the
+
+information to the recipient for that purpose.
+
+(2) The consent of the individual under paragraph (1)(c): (a) must be given in writing unless: (i) the disclosure of the information to the recipient is for
+
+the purpose of assessing an application for consumer credit or commercial credit made to the recipient; and (ii) the application has not been made in writing; and (b) must be given to the credit provider or recipient.
+
+Agents of credit providers
+
+(3) A disclosure by a credit provider of credit eligibility information
+
+about an individual is a permitted CP disclosure in relation to the individual if: (a) the provider is acting as an agent of another credit provider
+
+that has an Australian link; and (b) while the provider is so acting, the provider is a credit
+
+provider under subsection 6H(1); and (c) the provider discloses the information to the other credit
+
+provider in the provider’s capacity as such an agent.
+
+Securitisation arrangements etc.
+
+(4) A disclosure by a credit provider of credit eligibility information
+
+about an individual is a permitted CP disclosure in relation to the individual if:
+
+Privacy Act 1988 143
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 21J
+
+(a) the provider is a credit provider under subsection 6J(1) in
+
+relation to credit; and (b) the credit has been provided by, or is credit for which an
+
+application has been made to, another credit provider (the original credit provider) that has an Australian link; and (c) the original credit provider is not a credit provider under that
+
+subsection; and (d) the information is disclosed to: (i) the original credit provider; or (ii) another credit provider that is a credit provider under
+
+that subsection in relation to the credit and that has an Australian link; and (e) the disclosure of the information is reasonably necessary for: (i) purchasing, funding or managing, or processing an
+
+application for, the credit by means of a securitisation arrangement; or (ii) undertaking credit enhancement in relation to the credit.
+
+Mortgage credit secured by the same real property
+
+(5) A disclosure by a credit provider of credit eligibility information
+
+about an individual is a permitted CP disclosure in relation to the individual if: (a) the disclosure is to another credit provider that has an
+
+Australian link; and (b) both credit providers have provided mortgage credit to the
+
+individual in relation to which the same real property forms all or part of the security; and (c) the individual is at least 60 days overdue in making a
+
+payment in relation to the mortgage credit provided by either provider; and (d) the information is disclosed for the purpose of either provider
+
+deciding what action to take in relation to the overdue payment.
+
+144 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 21K
+
+#### 21K Permitted CP disclosures relating to guarantees etc.
+
+Offer to act as a guarantor etc.
+
+(1) A disclosure by a credit provider of credit eligibility information
+
+about an individual is a permitted CP disclosure in relation to the individual if: (a) either: (i) the provider has provided credit to the individual; or (ii) the individual has applied to the provider for credit; and (b) the disclosure is to a person for the purpose of that person
+
+considering whether: (i) to offer to act as a guarantor in relation to the credit; or (ii) to offer property as security for the credit; and (c) the person has an Australian link; and (d) the individual expressly consents to the disclosure of the
+
+information to the person for that purpose.
+
+(2) The consent of the individual under paragraph (1)(d) must be given
+
+in writing unless: (a) if subparagraph (1)(a)(i) applies—the application for the
+
+credit was not made in writing; or (b) if subparagraph (1)(a)(ii) applies—the application for the
+
+credit has not been made in writing.
+
+Guarantors etc.
+
+(3) A disclosure by a credit provider of credit eligibility information
+
+about an individual is a permitted CP disclosure in relation to the individual if: (a) the disclosure is to a person who: (i) is a guarantor in relation to credit provided by the
+
+provider to the individual; or (ii) has provided property as security for such credit; and (b) the person has an Australian link; and (c) either:
+
+Privacy Act 1988 145
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 21L
+
+(i) the individual expressly consents to the disclosure of the
+
+information to the person; or (ii) if subparagraph (a)(i) applies—the information is
+
+disclosed to the person for a purpose related to the enforcement, or proposed enforcement, of the guarantee.
+
+(4) The consent of the individual under subparagraph (3)(c)(i) must be
+
+given in writing unless the application for the credit was not made in writing.
+
+#### 21L Permitted CP disclosures to mortgage insurers
+
+A disclosure by a credit provider of credit eligibility information
+
+about an individual is a permitted CP disclosure in relation to the individual if the disclosure is to a mortgage insurer that has an Australian link for: (a) a mortgage insurance purpose of the insurer in relation to the
+
+individual; or (b) any purpose arising under a contract for mortgage insurance
+
+that has been entered into between the provider and the insurer.
+
+#### 21M Permitted CP disclosures to debt collectors
+
+(1) A disclosure by a credit provider of credit eligibility information
+
+about an individual is a permitted CP disclosure in relation to the individual if: (a) the disclosure is to a person or body that carries on a business
+
+or undertaking that involves the collection of debts on behalf of others; and (c) the information is disclosed to the person or body for the
+
+primary purpose of the person or body collecting payments that are overdue in relation to: (i) consumer credit provided by the provider to the
+
+individual; or
+
+146 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 21N
+
+(ii) commercial credit provided by the provider to a person;
+
+and (d) the information is information of a kind referred to in
+
+subsection (2).
+
+Note: See section 21NA for additional rules about the disclosure of credit eligibility information under this subsection.
+
+(2) The information for the purposes of paragraph (1)(d) is: (a) identification information about the individual; or (b) court proceedings information about the individual; or (c) personal insolvency information about the individual; or (d) if subparagraph (1)(c)(i) applies—default information about
+
+the individual if: (i) the information relates to a payment that the individual
+
+is overdue in making in relation to consumer credit that has been provided by the credit provider to the individual; and (ii) the provider does not hold, or has not held, payment
+
+information about the individual that relates to that overdue payment.
+
+#### 21N Permitted CP disclosures to other recipients
+
+Mortgage credit assistance schemes
+
+(1) A disclosure by a credit provider of credit eligibility information
+
+about an individual is a permitted CP disclosure in relation to the individual if: (a) the disclosure is to a State or Territory authority; and (b) the functions or responsibilities of the authority include: (i) giving assistance (directly or indirectly) that facilitates
+
+the provision of mortgage credit to individuals; or (ii) the management or supervision of schemes or
+
+arrangements under which such assistance is given; and (c) the information is disclosed for the purpose of enabling the
+
+authority:
+
+Privacy Act 1988 147
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 21N
+
+(i) to determine the extent of the assistance (if any) to give
+
+in relation to the provision of mortgage credit to the individual; or (ii) to manage or supervise such a scheme or arrangement.
+
+Assignment of debts owed to credit providers etc.
+
+(2) A disclosure by a credit provider of credit eligibility information
+
+about an individual is a permitted CP disclosure in relation to the individual if: (a) the disclosure is to one or more of the following (the
+
+recipient): (i) an entity; (ii) a professional legal adviser of the entity; (iii) a professional financial adviser of the entity; and (b) the recipient has an Australian link; and (c) subsection (3) applies to the information.
+
+(3) This subsection applies to the credit eligibility information if the
+
+recipient proposes to use the information: (a) in the process of the entity considering whether to: (i) accept an assignment of a debt owed to the credit
+
+provider; or (ii) accept a debt owed to the provider as security for credit
+
+provided to the provider; or (iii) purchase an interest in the provider or a related body
+
+corporate of the provider; or (b) in connection with exercising rights arising from the
+
+acceptance of such an assignment or debt, or the purchase of such an interest.
+
+148 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 21NA
+
+21NA Disclosures to certain persons and bodies that do not have an Australian link
+
+Related bodies corporate and credit managers etc.
+
+(1) Before a credit provider discloses credit eligibility information
+
+under paragraph 21G(3)(b) or (c) to a related body corporate, or person, that does not have an Australian link, the provider must take such steps as are reasonable in the circumstances to ensure that the body or person does not breach the following provisions (the relevant provisions) in relation to the information: (a) for a disclosure under paragraph 21G(3)(b)—section 22D; (b) for a disclosure under paragraph 21G(3)(c)—section 22E; (c) in both cases—the Australian Privacy Principles (other than
+
+Australian Privacy Principles 1, 6, 7, 8 and 9.2).
+
+(2) If: (a) a credit provider discloses credit eligibility information under
+
+paragraph 21G(3)(b) or (c) to a related body corporate, or person, that does not have an Australian link; and (b) the relevant provisions do not apply, under this Act, to an act
+
+done, or a practice engaged in, by the body or person in relation to the information; and (c) the body or person does an act, or engages in a practice, in
+
+relation to the information that would be a breach of the relevant provisions if those provisions applied to the act or practice; the act done, or the practice engaged in, by the body or person is taken, for the purposes of this Act, to have been done, or engaged in, by the provider and to be a breach of those provisions by the provider.
+
+Debt collectors
+
+(3) Before a credit provider discloses credit eligibility information
+
+under subsection 21M(1) to a person or body that does not have an Australian link, the provider must take such steps as are reasonable in the circumstances to ensure that the person or body does not
+
+Privacy Act 1988 149
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 21P
+
+breach the Australian Privacy Principles (other than Australian Privacy Principle 1) in relation to the information.
+
+(4) If: (a) a credit provider discloses credit eligibility information under
+
+subsection 21M(1) to a person or body that does not have an Australian link; and (b) the Australian Privacy Principles do not apply, under this
+
+Act, to an act done, or a practice engaged in, by the person or body in relation to the information; and (c) the person or body does an act, or engages in a practice, in
+
+relation to the information that would be a breach of the Australian Privacy Principles (other than Australian Privacy Principle 1) if those Australian Privacy Principles applied to the act or practice; the act done, or the practice engaged in, by the person or body is taken, for the purposes of this Act, to have been done, or engaged in, by the provider and to be a breach of those Australian Privacy Principles by the provider.
+
+#### 21P Notification of a refusal of an application for consumer credit
+
+(1) This section applies if: (a) a credit provider refuses an application for consumer credit
+
+made in Australia: (i) by an individual; or (ii) jointly by an individual and one or more other persons
+
+(the other applicants); and (b) the refusal is based wholly or partly on credit eligibility
+
+information about one or more of the following: (i) the individual; (ii) a person who is proposing to act as a guarantor in
+
+relation to the consumer credit; (iii) if the application is an application of a kind referred to
+
+in subparagraph (a)(ii)—one of the other applicants; and
+
+150 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 21Q
+
+(c) a credit reporting body disclosed the relevant credit reporting
+
+information to the provider for the purposes of assessing the application.
+
+(2) The credit provider must, within a reasonable period after refusing
+
+the application, give the individual a written notice that: (a) states that the application has been refused; and (b) states that the refusal is based wholly or partly on credit
+
+eligibility information about one or more of the persons referred to in paragraph (1)(b); and (c) if that information is about the individual—sets out: (i) the name and contact details of the credit reporting body
+
+that disclosed the relevant credit reporting information to the provider; and (ii) any other matter specified in the registered CR code.
+
+### Subdivision E—Integrity of credit information and credit
+
+### eligibility information
+
+#### 21Q Quality of credit eligibility information
+
+(1) A credit provider must take such steps (if any) as are reasonable in
+
+the circumstances to ensure that the credit eligibility information the provider collects is accurate, up-to-date and complete.
+
+(2) A credit provider must take such steps (if any) as are reasonable in
+
+the circumstances to ensure that the credit eligibility information the provider uses or discloses is, having regard to the purpose of the use or disclosure, accurate, up-to-date, complete and relevant.
+
+(3) If a credit provider is an APP entity, Australian Privacy
+
+Principle 10 does not apply to the provider in relation to credit eligibility information.
+
+Privacy Act 1988 151
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 21R
+
+21R False or misleading credit information or credit eligibility information
+
+Offences
+
+(1) A credit provider commits an offence if: (a) the provider discloses credit information under section 21D;
+
+and (b) the information is false or misleading in a material particular.
+
+Penalty: 200 penalty units.
+
+(2) A credit provider commits an offence if: (a) the provider uses or discloses credit eligibility information
+
+under this Division; and (b) the information is false or misleading in a material particular.
+
+Penalty: 200 penalty units.
+
+Civil penalties
+
+(3) A credit provider must not disclose credit information under
+
+section 21D if the information is false or misleading in a material particular.
+
+Civil penalty: 2,000 penalty units.
+
+(4) A credit provider must not use or disclose credit eligibility
+
+information under this Division if the information is false or misleading in a material particular.
+
+Civil penalty: 2,000 penalty units.
+
+#### 21S Security of credit eligibility information
+
+(1) If a credit provider holds credit eligibility information, the provider
+
+must take such steps as are reasonable in the circumstances to protect the information: (a) from misuse, interference and loss; and
+
+152 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 21T
+
+(b) from unauthorised access, modification or disclosure.
+
+(2) If: (a) a credit provider holds credit eligibility information about an
+
+individual; and (b) the provider no longer needs the information for any purpose
+
+for which the information may be used or disclosed by the provider under this Division; and (c) the provider is not required by or under an Australian law, or
+
+a court/tribunal order, to retain the information; the provider must take such steps as are reasonable in the circumstances to destroy the information or to ensure that the information is de-identified.
+
+Civil penalty: 1,000 penalty units.
+
+(3) If a credit provider is an APP entity, Australian Privacy
+
+Principle 11 does not apply to the provider in relation to credit eligibility information.
+
+#### Subdivision F—Access to, and correction of, information
+
+#### 21T Access to credit eligibility information
+
+Access
+
+(1) If a credit provider holds credit eligibility information about an
+
+individual, the provider must, on request by an access seeker in relation to the information, give the access seeker access to the information.
+
+Exceptions to access
+
+(2) Despite subsection (1), the credit provider is not required to give
+
+the access seeker access to the credit eligibility information to the extent that: (a) giving access would be unlawful; or
+
+Privacy Act 1988 153
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 21T
+
+(b) denying access is required or authorised by or under an
+
+Australian law or a court/tribunal order; or (c) giving access would be likely to prejudice one or more
+
+enforcement related activities conducted by, or on behalf of, an enforcement body.
+
+Dealing with requests for access
+
+(3) The credit provider must respond to the request within a reasonable
+
+period after the request is made.
+
+Means of access
+
+(4) If the credit provider gives access to the credit eligibility
+
+information, the access must be given in the manner set out in the registered CR code.
+
+Access charges
+
+(5) If the credit provider is an agency, the provider must not charge the
+
+access seeker for the making of the request or for giving access to the information.
+
+(6) If a credit provider is an organisation or small business operator,
+
+any charge by the provider for giving access to the information must not be excessive and must not apply to the making of the request.
+
+Refusal to give access
+
+(7) If the provider refuses to give access to the information because of
+
+subsection (2), the provider must give the access seeker a written notice that: (a) sets out the reasons for the refusal except to the extent that,
+
+having regard to the grounds for the refusal, it would be unreasonable to do so; and (b) states that, if the access seeker is not satisfied with the
+
+response to the request, the access seeker may:
+
+154 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 21U
+
+(i) access a recognised external dispute resolution scheme
+
+of which the provider is a member or to which it is subject; or (ii) make a complaint to the Commissioner under Part V.
+
+Interaction with the Australian Privacy Principles
+
+(8) If a credit provider is an APP entity, Australian Privacy
+
+Principle 12 does not apply to the provider in relation to credit eligibility information.
+
+21U Correction of credit information or credit eligibility information
+
+(1) If: (a) a credit provider holds credit information or credit eligibility
+
+information about an individual; and (b) the provider is satisfied that, having regard to a purpose for
+
+which the information is held by the provider, the information is inaccurate, out-of-date, incomplete, irrelevant or misleading; the provider must take such steps (if any) as are reasonable in the circumstances to correct the information to ensure that, having regard to the purpose for which it is held, the information is accurate, up-to-date, complete, relevant and not misleading.
+
+Notice of correction
+
+(2) If: (a) the credit provider corrects credit information or credit
+
+eligibility information under subsection (1); and (b) the provider has previously disclosed the information under: (i) this Division (other than subsection 21V(4)); or (ii) the Australian Privacy Principles (other than Australian
+
+Privacy Principle 4.2); the provider must, within a reasonable period, give each recipient of the information written notice of the correction.
+
+Privacy Act 1988 155
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 21V
+
+(3) Subsection (2) does not apply if: (a) it is impracticable for the credit provider to give the notice
+
+under that subsection; or (b) the credit provider is required by or under an Australian law,
+
+or a court/tribunal order, not to give the notice under that subsection.
+
+Interaction with the Australian Privacy Principles
+
+(4) If a credit provider is an APP entity, Australian Privacy
+
+Principle 13: (a) applies to the provider in relation to credit information or
+
+credit eligibility information that is identification information; but (b) does not apply to the provider in relation to any other kind of
+
+credit information or credit eligibility information.
+
+Note: Identification information may be corrected under this section or Australian Privacy Principle 13.
+
+Exemption for certain non-participating credit providers
+
+(5) This section does not apply to a non-participating credit provider.
+
+#### 21V Individual may request the correction of credit information etc.
+
+Request
+
+(1) An individual may request a credit provider to correct personal
+
+information about the individual if: (a) the personal information is: (i) credit information about the individual; or (ii) CRB derived information about the individual; or (iii) CP derived information about the individual; and (b) the provider holds at least one kind of the personal
+
+information referred to in paragraph (a).
+
+156 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Correction
+
+Section 21V
+
+(2) If the credit provider is satisfied that the personal information is
+
+inaccurate, out-of-date, incomplete, irrelevant or misleading, the provider must take such steps (if any) as are reasonable in the circumstances to correct the information within: (a) the period of 30 days that starts on the day on which the
+
+request is made; or (b) such longer period as the individual has agreed to in writing.
+
+Consultation
+
+(3) If the credit provider considers that the provider cannot be satisfied
+
+of the matter referred to in subsection (2) in relation to the personal information without consulting either or both of the following (the interested party): (a) a credit reporting body that holds or held the information and
+
+that has an Australian link; (b) another credit provider that holds or held the information and
+
+that has an Australian link; the provider must consult that interested party, or those interested parties, about the individual’s request.
+
+(4) The use or disclosure of personal information about the individual
+
+for the purposes of the consultation is taken, for the purposes of this Act, to be a use or disclosure that is authorised by this subsection.
+
+No charge
+
+(5) The credit provider must not charge the individual for the making
+
+of the request or for correcting the information.
+
+Interaction with the Australian Privacy Principles
+
+(6) If a credit provider is an APP entity, Australian Privacy
+
+Principle 13:
+
+Privacy Act 1988 157
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 21W
+
+(a) applies to the provider in relation to personal information
+
+referred to in paragraph (1)(a) that is identification information; but (b) does not apply to the provider in relation to any other kind of
+
+personal information referred to in that paragraph.
+
+Note: Identification information may be corrected under this section or Australian Privacy Principle 13.
+
+Exemption for certain non-participating credit providers
+
+(7) This section does not apply to a non-participating credit provider.
+
+#### 21W Notice of correction etc. must be given
+
+(1) This section applies if an individual requests a credit provider to
+
+correct personal information under subsection 21V(1).
+
+Notice of correction etc.
+
+(2) If the credit provider corrects personal information about the
+
+individual under subsection 21V(2), the provider must, within a reasonable period: (a) give the individual written notice of the correction; and (b) if the provider consulted an interested party under
+
+subsection 21V(3) about the individual’s request—give the party written notice of the correction; and (c) if the correction relates to information that the provider has
+
+previously disclosed under: (i) this Division (other than subsection 21V(4)); or (ii) the Australian Privacy Principles (other than Australian
+
+Privacy Principle 4.2); give each recipient of the information written notice of the
+
+correction.
+
+(3) If the credit provider does not correct the personal information
+
+under subsection 21V(2), the provider must, within a reasonable period, give the individual written notice that: (a) states that the correction has not been made; and
+
+158 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 21W
+
+(b) sets out the provider’s reasons for not correcting the
+
+information (including evidence substantiating the correctness of the information); and (c) states that, if the individual is not satisfied with the response
+
+to the request, the individual may: (i) access a recognised external dispute resolution scheme
+
+of which the provider is a member or to which it is subject; or (ii) make a complaint to the Commissioner under Part V.
+
+Exceptions
+
+(4) Paragraph (2)(c) does not apply if it is impracticable for the credit
+
+provider to give the notice under that paragraph.
+
+(5) Subsection (2) or (3) does not apply if the credit provider is
+
+required by or under an Australian law, or a court/tribunal order, not to give the notice under that subsection.
+
+Privacy Act 1988 159
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 22
+
+### Division 4—Affected information recipients
+
+#### 22 Guide to this Division
+
+This Division sets out rules that apply to affected information recipients in relation to their handling of their regulated information.
+
+If an affected information recipient is an APP entity, the rules apply in relation to the regulated information of the recipient in addition to, or instead of, any relevant Australian Privacy Principles.
+
+#### Subdivision A—Consideration of information privacy
+
+#### 22A Open and transparent management of regulated information
+
+(1) The object of this section is to ensure that an affected information
+
+recipient manages the regulated information of the recipient in an open and transparent way.
+
+Compliance with this Division etc.
+
+(2) An affected information recipient must take such steps as are
+
+reasonable in the circumstances to implement practices, procedures and systems relating to the recipient’s functions or activities that: (a) will ensure that the recipient complies with this Division and
+
+the registered CR code if it binds the recipient; and (b) will enable the recipient to deal with inquiries or complaints
+
+from individuals about the recipient’s compliance with this Division or the registered CR code if it binds the recipient.
+
+160 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 22A
+
+Policy about the management of regulated information
+
+(3) An affected information recipient must have a clearly expressed
+
+and up-to-date policy about the recipient’s management of the regulated information of the recipient.
+
+(4) Without limiting subsection (3), the policy of the affected
+
+information recipient must contain the following information: (a) the kinds of regulated information that the recipient collects
+
+and holds, and how the recipient collects and holds that information; (b) the purposes for which the recipient collects, holds, uses and
+
+discloses regulated information; (c) how an individual may access regulated information about
+
+the individual that is held by the recipient and seek the correction of such information; (d) how an individual may complain about a failure of the
+
+recipient to comply with this Division or the registered CR code if it binds the recipient; (e) how the recipient will deal with such a complaint.
+
+Availability of policy etc.
+
+(5) An affected information recipient must take such steps as are
+
+reasonable in the circumstances to make the policy available: (a) free of charge; and (b) in such form as is appropriate.
+
+Note: An affected information recipient will usually make the policy available on the recipient’s website.
+
+(6) If a person or body requests a copy, in a particular form, of the
+
+policy of an affected information recipient, the recipient must take such steps as are reasonable in the circumstances to give the person or body a copy in that form.
+
+Privacy Act 1988 161
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 22B
+
+Interaction with the Australian Privacy Principles
+
+(7) If an affected information recipient is an APP entity, Australian
+
+Privacy Principles 1.3 and 1.4 do not apply to the recipient in relation to the regulated information of the recipient.
+
+#### Subdivision B—Dealing with regulated information
+
+22B Additional notification requirements for affected information recipients
+
+If an affected information recipient is an APP entity, then the
+
+matters for the purposes of Australian Privacy Principle 5.1 include the following matters to the extent that the personal information referred to in that principle is regulated information of the recipient: (a) that the policy (the credit reporting policy) of the recipient
+
+that is referred to in subsection 22A(3) contains information about how an individual may access the regulated information about the individual that is held by the recipient, and seek the correction of such information; (b) that the credit reporting policy of the recipient contains
+
+information about how an individual may complain about a failure of the recipient to comply with this Division or the registered CR code if it binds the recipient; and (c) that the credit reporting policy of the recipient contains
+
+information about how the recipient will deal with such a complaint.
+
+22C Use or disclosure of information by mortgage insurers or trade insurers
+
+Prohibition on use or disclosure
+
+(1) If: (a) a mortgage insurer or trade insurer holds or held personal
+
+information about an individual; and
+
+162 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 22C
+
+(b) the information was disclosed to the insurer by a credit
+
+reporting body or credit provider under Division 2 or 3 of this Part; the insurer must not use or disclose the information, or any personal information about the individual derived from that information.
+
+Civil penalty: 2,000 penalty units.
+
+Permitted uses
+
+(2) Subsection (1) does not apply to the use of the information if: (a) for a mortgage insurer—the use is for: (i) a mortgage insurance purpose of the insurer in relation
+
+to the individual; or (ii) any purpose arising under a contract for mortgage
+
+insurance that has been entered into between the credit provider and the insurer; or (b) for a trade insurer—the use is for a trade insurance purpose
+
+of the insurer in relation to the individual; or (c) the use is required or authorised by or under an Australian
+
+law or a court/tribunal order.
+
+Permitted disclosure
+
+(3) Subsection (1) does not apply to the disclosure of the information
+
+if the disclosure is required or authorised by or under an Australian law or a court/tribunal order.
+
+Interaction with the Australian Privacy Principles
+
+(4) If the mortgage insurer or trade insurer is an APP entity, Australian
+
+Privacy Principles 6, 7 and 8 do not apply to the insurer in relation to the information.
+
+(5) If: (a) the mortgage insurer or trade insurer is an APP entity; and
+
+Privacy Act 1988 163
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 22D
+
+(b) the information is a government related identifier of the
+
+individual; Australian Privacy Principle 9.2 does not apply to the insurer in relation to the information.
+
+#### 22D Use or disclosure of information by a related body corporate
+
+Prohibition on use or disclosure
+
+(1) If: (a) a body corporate holds or held credit eligibility information
+
+about an individual; and (b) the information was disclosed to the body by a credit
+
+provider under paragraph 21G(3)(b); the body must not use or disclose the information, or any personal information about the individual derived from that information.
+
+Civil penalty: 1,000 penalty units.
+
+Permitted use or disclosure
+
+(2) Subsection (1) does not apply to the use or disclosure of the
+
+information by the body corporate if the body would be permitted to use or disclose the information under section 21G if the body were the credit provider.
+
+(3) In determining whether the body corporate would be permitted to
+
+use or disclose the information under section 21G, assume that the body is whichever of the following is applicable: (a) the credit provider that has provided the relevant credit to the
+
+individual; (b) the credit provider to which the relevant application for credit
+
+was made by the individual.
+
+164 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 22E
+
+Interaction with the Australian Privacy Principles
+
+(4) If the body corporate is an APP entity, Australian Privacy
+
+Principles 6, 7 and 8 do not apply to the body in relation to the information.
+
+(5) If: (a) the body corporate is an APP entity; and (b) the information is a government related identifier of the
+
+individual; Australian Privacy Principle 9.2 does not apply to the body in relation to the information.
+
+#### 22E Use or disclosure of information by credit managers etc.
+
+Prohibition on use or disclosure
+
+(1) If: (a) a person holds or held credit eligibility information about an
+
+individual; and (b) the information was disclosed to the person by a credit
+
+provider under paragraph 21G(3)(c); the person must not use or disclose the information, or any personal information about the individual derived from that information.
+
+Civil penalty: 1,000 penalty units.
+
+Permitted uses
+
+(2) Subsection (1) does not apply to the use of the information if: (a) the person uses the information for the purpose for which it
+
+was disclosed to the person under paragraph 21G(3)(c); or (b) the use is required or authorised by or under an Australian
+
+law (other than the consumer data rules) or a court/tribunal order.
+
+Privacy Act 1988 165
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 22F
+
+Permitted disclosure
+
+(3) Subsection (1) does not apply to the disclosure of the information
+
+if: (a) the disclosure is to the credit provider; or (b) the disclosure is required or authorised by or under an
+
+Australian law (other than the consumer data rules) or a court/tribunal order.
+
+Interaction with the Australian Privacy Principles
+
+(4) If the person is an APP entity, Australian Privacy Principles 6, 7
+
+and 8 do not apply to the person in relation to the information.
+
+(5) If: (a) the person is an APP entity; and (b) the information is a government related identifier of the
+
+individual; Australian Privacy Principle 9.2 does not apply to the person in relation to the information.
+
+#### 22F Use or disclosure of information by advisers etc.
+
+Prohibition on use or disclosure
+
+(1) If: (a) any of the following (the recipient) holds or held credit
+
+eligibility information about an individual: (i) an entity; (ii) a professional legal adviser of the entity; (iii) a professional financial adviser of the entity; and (b) the information was disclosed to the recipient by a credit
+
+provider under subsection 21N(2); the recipient must not use or disclose the information, or any personal information about the individual derived from that information.
+
+Civil penalty: 1,000 penalty units.
+
+166 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Permitted uses
+
+Section 22F
+
+(2) Subsection (1) does not apply to the use of the information if: (a) for a recipient that is the entity—the information is used for a
+
+matter referred to in subsection 21N(3); or (b) for a recipient that is the professional legal adviser, or
+
+professional financial adviser, of the entity—the information is used: (i) in the adviser’s capacity as an adviser of the entity; and (ii) in connection with advising the entity about a matter
+
+referred to in subsection 21N(3); or (c) the use is required or authorised by or under an Australian
+
+law or a court/tribunal order.
+
+Permitted disclosure
+
+(3) Subsection (1) does not apply to the disclosure of the information
+
+if the disclosure is required or authorised by or under an Australian law or a court/tribunal order.
+
+Interaction with the Australian Privacy Principles
+
+(4) If the recipient is an APP entity, Australian Privacy Principles 6, 7
+
+and 8 do not apply to the recipient in relation to the information.
+
+(5) If: (a) the recipient is an APP entity; and (b) the information is a government related identifier of the
+
+individual; Australian Privacy Principle 9.2 does not apply to the recipient in relation to the information.
+
+Privacy Act 1988 167
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 23
+
+### Division 5—Complaints
+
+#### 23 Guide to this Division
+
+This Division deals with complaints about credit reporting bodies or credit providers.
+
+Individuals may complain to credit reporting bodies or credit providers about acts or practices that may be a breach of certain provisions of this Part or the registered CR code.
+
+If a complaint is made, the respondent for the complaint must investigate the complaint and make a decision about the complaint.
+
+23A Individual may complain about a breach of a provision of this Part etc.
+
+Complaint
+
+(1) An individual may complain to a credit reporting body about an act
+
+or practice engaged in by the body that may be a breach of either of the following provisions in relation to the individual: (a) a provision of this Part (other than section 20R or 20T); (b) a provision of the registered CR code (other than a provision
+
+that relates to that section).
+
+Note: A complaint about a breach of section 20R or 20T, or a provision of the registered CR code that relates to that section, may be made to the Commissioner under Part V.
+
+(2) An individual may complain to a credit provider about an act or
+
+practice engaged in by the provider that may be a breach of either of the following provisions in relation to the individual: (a) a provision of this Part (other than section 21T or 21V); (b) a provision of the registered CR code (other than a provision
+
+that relates to that section) if it binds the credit provider.
+
+168 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 23B
+
+Note: A complaint about a breach of section 21T or 21V, or a provision of the registered CR code that relates to that section, may be made to the Commissioner under Part V.
+
+Nature of complaint
+
+(3) If an individual makes a complaint, the individual must specify the
+
+nature of the complaint.
+
+(4) The complaint may relate to personal information that has been
+
+destroyed or de-identified.
+
+No charge
+
+(5) The credit reporting body or credit provider must not charge the
+
+individual for the making of the complaint or for dealing with the complaint.
+
+#### 23B Dealing with complaints
+
+(1) If an individual makes a complaint under section 23A, the
+
+respondent for the complaint: (a) must, within 7 days after the complaint is made, give the
+
+individual a written notice that: (i) acknowledges the making of the complaint; and (ii) sets out how the respondent will deal with the
+
+complaint; and (b) must investigate the complaint.
+
+Consultation about the complaint
+
+(2) If the respondent for the complaint considers that it is necessary to
+
+consult a credit reporting body or credit provider about the complaint, the respondent must consult the body or provider.
+
+(3) The use or disclosure of personal information about the individual
+
+for the purposes of the consultation is taken, for the purposes of this Act, to be a use or disclosure that is authorised by this subsection.
+
+Privacy Act 1988 169
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 23C
+
+Decision about the complaint
+
+(4) After investigating the complaint, the respondent must, within the
+
+period referred to in subsection (5), make a decision about the complaint and give the individual a written notice that: (a) sets out the decision; and (b) states that, if the individual is not satisfied with the decision,
+
+the individual may: (i) access a recognised external dispute resolution scheme
+
+of which the respondent is a member or to which it is subject; or (ii) make a complaint to the Commissioner under Part V.
+
+(5) The period for the purposes of subsection (4) is: (a) the period of 30 days that starts on the day on which the
+
+complaint is made; or (b) such longer period as the individual has agreed to in writing.
+
+#### 23C Notification requirements relating to correction complaints
+
+(1) This section applies if an individual makes a complaint under
+
+section 23A about an act or practice that may breach section 20S or 21U (which deal with the correction of personal information by credit reporting bodies and credit providers).
+
+Notification of complaint etc.
+
+(2) If: (a) the respondent for the complaint is a credit reporting body;
+
+and (b) the complaint relates to credit information or credit eligibility
+
+information that a credit provider holds; the respondent must, in writing: (c) notify the provider of the making of the complaint as soon as
+
+practicable after it is made; and
+
+170 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 23C
+
+(d) notify the provider of the making of a decision about the
+
+complaint under subsection 23B(4) as soon as practicable after it is made.
+
+(3) If: (a) the respondent for the complaint is a credit provider; and (b) the complaint relates to: (i) credit reporting information that a credit reporting body
+
+holds; or (ii) credit information or credit eligibility information that
+
+another credit provider holds; the respondent must, in writing: (c) notify the body or other provider (as the case may be) of the
+
+making of the complaint as soon as practicable after it is made; and (d) notify the body or other provider (as the case may be) of the
+
+making of a decision about the complaint under subsection 23B(4) as soon as practicable after it is made.
+
+Notification of recipients of disclosed information
+
+(4) If: (a) a credit reporting body discloses credit reporting information
+
+to which the complaint relates under Division 2 of this Part; and (b) at the time of the disclosure, a decision about the complaint
+
+under subsection 23B(4) has not been made; the body must, at that time, notify in writing the recipient of the information of the complaint.
+
+(5) If: (a) a credit provider discloses personal information to which the
+
+complaint relates under Division 3 of this Part or under the Australian Privacy Principles; and (b) at the time of the disclosure, a decision about the complaint
+
+under subsection 23B(4) has not been made;
+
+Privacy Act 1988 171
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 23C
+
+the provider must, at that time, notify in writing the recipient of the information of the complaint.
+
+Exceptions
+
+(6) Subsection (2), (3), (4) or (5) does not apply if: (a) it is impracticable for the credit reporting body or credit
+
+provider to give the notification under that subsection; or (b) the credit reporting body or credit provider is required by or
+
+under an Australian law, or a court/tribunal order, not to give the notification under that subsection.
+
+172 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 24
+
+### Division 6—Unauthorised obtaining of credit reporting
+
+information etc.
+
+24 Obtaining credit reporting information from a credit reporting body
+
+Offences
+
+(1) An entity commits an offence if: (a) the entity obtains credit reporting information; and (b) the information is obtained from a credit reporting body; and (c) the entity is not: (i) an entity to which the body is permitted to disclose the
+
+information under Division 2 of this Part; or (ii) an access seeker for the information.
+
+Penalty: 200 penalty units.
+
+(2) An entity commits an offence if: (a) the entity obtains credit reporting information; and (b) the information is obtained from a credit reporting body; and (c) the information is obtained by false pretence.
+
+Penalty: 200 penalty units.
+
+Civil penalties
+
+(3) An entity must not obtain credit reporting information from a credit
+
+reporting body if the entity is not: (a) an entity to which the body is permitted to disclose the
+
+information under Division 2 of this Part; or (b) an access seeker for the information.
+
+Civil penalty: 2,000 penalty units.
+
+Privacy Act 1988 173
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Division 6 Unauthorised obtaining of credit reporting information etc. Section 24A
+
+(4) An entity must not obtain, by false pretence, credit reporting
+
+information from a credit reporting body.
+
+Civil penalty: 2,000 penalty units.
+
+#### 24A Obtaining credit eligibility information from a credit provider
+
+Offences
+
+(1) An entity commits an offence if: (a) the entity obtains credit eligibility information; and (b) the information is obtained from a credit provider; and (c) the entity is not: (i) an entity to which the provider is permitted to disclose
+
+the information under Division 3 of this Part; or (ii) an access seeker for the information.
+
+Penalty: 200 penalty units.
+
+(2) An entity commits an offence if: (a) the entity obtains credit eligibility information; and (b) the information is obtained from a credit provider; and (c) the information is obtained by false pretence.
+
+Penalty: 200 penalty units.
+
+Civil penalties
+
+(3) An entity must not obtain credit eligibility information from a
+
+credit provider if the entity is not: (a) an entity to which the provider is permitted to disclose the
+
+information under Division 3 of this Part; or (b) an access seeker for the information.
+
+Civil penalty: 2,000 penalty units.
+
+174 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 24A
+
+(4) An entity must not obtain, by false pretence, credit eligibility
+
+information from a credit provider.
+
+Civil penalty: 2,000 penalty units.
+
+Privacy Act 1988 175
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Division 7 Court orders Section 25
+
+### Division 7—Court orders
+
+#### 25 Compensation orders
+
+(1) The Federal Court or the Federal Circuit and Family Court of
+
+Australia (Division 2) may order an entity to compensate a person for loss or damage (including injury to the person’s feelings or humiliation) suffered by the person if: (a) either: (i) a civil penalty order has been made under
+
+subsection 82(3) of the Regulatory Powers Act against the entity for a contravention of a civil penalty provision of this Part; or (ii) the entity is found guilty of an offence against this Part;
+
+and (b) that loss or damage resulted from the contravention or
+
+commission of the offence. The order must specify the amount of compensation.
+
+(2) The court may make the order only if: (a) the person applies for an order under this section; and (b) the application is made within 6 years of the day the cause of
+
+action that relates to the contravention or commission of the offence accrued.
+
+(3) If the court makes the order, the amount of compensation specified
+
+in the order that is to be paid to the person may be recovered as a debt due to the person.
+
+#### 25A Other orders to compensate loss or damage
+
+(1) This section applies if: (a) either: (i) a civil penalty order has been made under
+
+subsection 82(3) of the Regulatory Powers Act against
+
+176 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Court orders Division 7
+
+Section 25A
+
+the entity for a contravention of a civil penalty provision of this Part; or (ii) an entity is found guilty of an offence against this Part;
+
+and (b) a person has suffered, or is likely to suffer, loss or damage
+
+(including injury to the person’s feelings or humiliation) as a result of the contravention or commission of the offence.
+
+(2) The Federal Court or the Federal Circuit and Family Court of
+
+Australia (Division 2) may make such order as the Court considers appropriate against the entity to: (a) compensate the person, in whole or in part, for that loss or
+
+damage; or (b) prevent or reduce that loss or damage suffered, or likely to be
+
+suffered, by the person.
+
+(3) Without limiting subsection (2), examples of orders the court may
+
+make include: (a) an order directing the entity to perform any reasonable act, or
+
+carry out any reasonable course of conduct, to redress the loss or damage suffered by the person; and (b) an order directing the entity to pay the person a specified
+
+amount to reimburse the person for expenses reasonably incurred by the person in connection with the contravention or commission of the offence; and (c) an order directing the defendant to pay to the person the
+
+amount of loss or damage the plaintiff suffered.
+
+(4) The court may make the order only if: (a) the person applies for an order under this section; and (b) the application is made within 6 years of the day the cause of
+
+action that relates to the contravention or commission of the offence accrued.
+
+(5) If the court makes an order that the entity pay an amount to the
+
+person, the person may recover the amount as a debt due to the person.
+
+Privacy Act 1988 177
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Division 8 Review
+
+Section 25B
+
+### Division 8—Review
+
+#### 25B Review of operation of this Part
+
+(1) The Minister must cause an independent review to be conducted of
+
+the operation of this Part.
+
+(2) The persons who conduct the review must complete it, and give the
+
+Minister a written report of the review, before 1 October 2024.
+
+(3) The Minister must cause a copy of the report to be tabled in each
+
+House of the Parliament within 15 sitting days of that House after the report is given to the Minister.
+
+178 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+## Part IIIB—Privacy codes
+
+### Division 1—Introduction
+
+#### 26 Guide to this Part
+
+### Section 26
+
+This Part deals with privacy codes.
+
+Division 2 deals with codes of practice about information privacy, called APP codes. APP code developers or the Commissioner may develop APP codes, which: (a) must set out how one or more of the Australian Privacy Principles are to be applied or complied with; and (b) may impose additional requirements to those imposed by the Australian Privacy Principles; and (c) may deal with other specified matters.
+
+If the Commissioner includes an APP code on the Codes Register, an APP entity bound by the code must not breach it. A breach of a registered APP code is an interference with the privacy of an individual.
+
+Division 3 deals with a code of practice about credit reporting, called a CR code. CR code developers or the Commissioner may develop a CR code, which: (a) must set out how one or more of the provisions of Part IIIA are to be applied or complied with; and (b) must deal with matters required or permitted by Part IIIA to be provided for by the registered CR code; and (c) may deal with other specified matters.
+
+If the Commissioner includes a CR code on the Codes Register, an entity bound by the code must not breach it. A breach of the
+
+Privacy Act 1988 179
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 26
+
+registered CR code is an interference with the privacy of an individual.
+
+Division 4 deals with the Codes Register, guidelines relating to codes and the review of the operation of registered codes.
+
+180 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 26A
+
+### Division 2—Registered APP codes
+
+#### Subdivision A—Compliance with registered APP codes etc.
+
+#### 26A APP entities to comply with binding registered APP codes
+
+An APP entity must not do an act, or engage in a practice, that
+
+breaches a registered APP code that binds the entity.
+
+#### 26B What is a registered APP code
+
+(1) A registered APP code is an APP code: (a) that is included on the Codes Register; and (b) that is in force.
+
+### (2) A registered APP code is a legislative instrument.
+
+(3) Subsection 12(2) (retrospective application of legislative
+
+instruments) of the Legislation Act 2003 does not apply to a registered APP code.
+
+Note: An APP code cannot come into force before it is included on the Codes Register: see paragraph 26C(2)(c).
+
+#### 26C What is an APP code
+
+(1) An APP code is a written code of practice about information
+
+privacy.
+
+(2) An APP code must: (a) set out how one or more of the Australian Privacy Principles
+
+are to be applied or complied with; and (b) specify the APP entities that are bound by the code, or a way
+
+of determining the APP entities that are bound by the code; and (c) set out the period during which the code is in force (which
+
+must not start before the day the code is registered under section 26H).
+
+Privacy Act 1988 181
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 26D
+
+(3) An APP code may do one or more of the following: (a) impose additional requirements to those imposed by one or
+
+more of the Australian Privacy Principles, so long as the additional requirements are not contrary to, or inconsistent with, those principles; (b) cover an act or practice that is exempt within the meaning of
+
+subsection 7B(1), (2) or (3); (c) deal with the internal handling of complaints; (d) provide for the reporting to the Commissioner about
+
+complaints; (e) deal with any other relevant matters.
+
+(4) An APP code may be expressed to apply to any one or more of the
+
+following: (a) all personal information or a specified type of personal
+
+information; (b) a specified activity, or a specified class of activities, of an
+
+APP entity; (c) a specified industry sector or profession, or a specified class
+
+of industry sectors or professions; (d) APP entities that use technology of a specified kind.
+
+(4A) Without limiting subsection 33(3A) of the Acts Interpretation Act
+
+1901, an APP code may provide differently for different: (a) classes of entities; and (b) classes of personal information; and (c) classes of activities of entities.
+
+### (5) An APP code is not a legislative instrument.
+
+26D Extension of Act to exempt acts or practices covered by registered APP codes
+
+If a registered APP code covers an act or practice that is exempt
+
+within the meaning of subsection 7B(1), (2) or (3), this Act applies in relation to the code as if that act or practice were not exempt.
+
+182 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 26E
+
+#### Subdivision B—Development and registration of APP codes
+
+#### 26E Development of APP codes by APP code developers
+
+Own initiative
+
+### (1) An APP code developer may develop an APP code.
+
+At the Commissioner’s request
+
+(2) The Commissioner may, in writing, request an APP code developer
+
+to develop an APP code, and apply to the Commissioner for the code to be registered, if the Commissioner is satisfied it is in the public interest for the code to be developed.
+
+(3) The request must: (a) specify the period within which the request must be complied
+
+with; and (b) set out the effect of section 26A.
+
+(4) The period: (a) must run for at least 120 days from the date the request is
+
+made; and (b) may be extended by the Commissioner.
+
+(5) The request may: (a) specify one or more matters that the APP code must deal
+
+with; and (b) specify the APP entities, or a class of APP entities, that
+
+should be bound by the code.
+
+(6) Despite paragraph (5)(a), the Commissioner must not require an
+
+APP code to cover an act or practice that is exempt within the meaning of subsection 7B(1), (2) or (3). However, the APP code that is developed by the APP code developer may cover such an act or practice.
+
+(7) The Commissioner must make a copy of the request publicly
+
+available as soon as practicable after the request is made.
+
+Privacy Act 1988 183
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 26F
+
+#### 26F Application for registration of APP codes
+
+(1) If an APP code developer develops an APP code, the developer
+
+may apply to the Commissioner for registration of the code.
+
+(2) Before making the application, the APP code developer must: (a) make a draft of the APP code publicly available; and (b) invite the public to make submissions to the developer about
+
+the draft within a specified period (which must run for at least 28 days); and (c) give consideration to any submissions made within the
+
+specified period.
+
+(3) The application must: (a) be made in the form and manner specified by the
+
+Commissioner; and (b) be accompanied by such information as is specified by the
+
+Commissioner.
+
+(4) The APP code developer may vary the APP code at any time
+
+before the Commissioner registers the code, but only with the consent of the Commissioner.
+
+26G Development of APP codes by the Commissioner—following a request
+
+(1) This section applies if the Commissioner made a request under
+
+subsection 26E(2) and either: (a) the request has not been complied with; or (b) the request has been complied with but the Commissioner
+
+has decided not to register, under section 26H, the APP code that was developed as requested.
+
+(2) The Commissioner may develop an APP code if the Commissioner
+
+is satisfied that it is in public interest to develop the code. However, despite subsection 26C(3)(b), the APP code must not cover an act or practice that is exempt within the meaning of subsection 7B(1), (2) or (3).
+
+184 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 26GA
+
+(3) Before registering the APP code under section 26H, the
+
+Commissioner must: (a) make a draft of the code publicly available; and (b) invite the public to make submissions to the Commissioner
+
+about the draft within a specified period (which must run for at least 28 days); and (c) give consideration to any submissions made within the
+
+specified period.
+
+26GA Development of APP codes by the Commissioner—at the direction of the Minister
+
+Minister may give direction
+
+(1) The Minister may, in writing, direct the Commissioner to develop
+
+an APP code if the Minister is satisfied that it is in the public interest: (a) to develop the code; and (b) for the Commissioner to develop the code.
+
+(2) Without limiting subsection (1), a direction under that subsection
+
+may: (a) specify one or more matters that the code must deal with; and (b) specify the APP entities, or a class of APP entities, that are to
+
+be bound by the code.
+
+(3) A direction under subsection (1) is not a legislative instrument.
+
+Commissioner must develop and register code
+
+(4) The Commissioner must develop and register an APP code if the
+
+Minister has given the Commissioner a direction under subsection (1) to develop the code.
+
+Privacy Act 1988 185
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 26GB
+
+Matters covered by code
+
+(5) Despite paragraph 26C(3)(b), the APP code must not cover an act
+
+or practice that is exempt within the meaning of subsection 7B(1), (2) or (3).
+
+Consultation etc.
+
+(6) In developing the APP code, the Commissioner may consult any
+
+person the Commissioner considers appropriate.
+
+(7) Before registering the APP code under section 26H, the
+
+Commissioner must: (a) make a draft of the code publicly available; and (b) invite the public to make submissions to the Commissioner
+
+about the draft within a specified period (which must run for at least 40 days); and (c) give consideration to any submissions made within the
+
+specified period.
+
+26GB Development of APP codes by the Commissioner—temporary APP codes
+
+Minister may give direction
+
+(1) The Minister may, in writing, direct the Commissioner to develop
+
+an APP code (a temporary APP code) if the Minister is satisfied that: (a) it is in the public interest: (i) to develop the code; and (ii) for the Commissioner to develop the code; and (b) the code should be developed urgently.
+
+(2) Without limiting subsection (1), a direction under that subsection
+
+may: (a) specify one or more matters that the code must deal with; and (b) specify the APP entities, or a class of APP entities, that
+
+should be bound by the code.
+
+186 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 26GC
+
+(3) A direction under subsection (1) is not a legislative instrument.
+
+Commissioner must develop and register code
+
+(4) The Commissioner must develop and register a temporary APP
+
+code if the Minister has given the Commissioner a direction under subsection (1) to develop the code.
+
+Matters covered by code
+
+(5) However, despite paragraph 26C(3)(b), the temporary APP code
+
+must not cover an act or practice that is exempt within the meaning of subsection 7B(1), (2) or (3).
+
+Consultation etc.
+
+(6) In developing the temporary APP code, the Commissioner may
+
+consult any person the Commissioner considers appropriate.
+
+Period code is in force
+
+(7) The period set out for the temporary APP code for the purposes of
+
+paragraph 26C(2)(c) must not be longer than 12 months.
+
+Note: Paragraph 26C(2)(c) deals with the period during which the code is in force.
+
+Disallowance
+
+(8) Section 42 (disallowance) of the Legislation Act 2003 does not
+
+apply to a temporary APP code that is a registered APP code.
+
+Note: A registered APP code is a legislative instrument: see subsection 26B(2).
+
+26GC Development of APP codes by the Commissioner—Children’s Online Privacy Code
+
+Children’s Online Privacy Code
+
+(1) The Commissioner must develop an APP code (the Children’s
+
+Online Privacy Code) about online privacy for children.
+
+Privacy Act 1988 187
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 26GC
+
+(2) The other provisions of this Division (including section 26C) apply
+
+in relation to the Children’s Online Privacy Code subject to this section.
+
+Note: Section 26C deals with requirements for APP codes generally.
+
+Matters covered by code
+
+(3) For the purposes of paragraph 26C(2)(a), the Children’s Online
+
+Privacy Code must set out how one or more of the Australian Privacy Principles are to be applied or complied with in relation to the privacy of children.
+
+(4) For the purposes of subsections 26C(3) and (4), the Children’s
+
+Online Privacy Code may provide for one or more of the matters mentioned in those subsections in relation to the privacy of children. However, despite paragraph 26C(3)(b), the code must not cover an act or practice that is exempt within the meaning of subsection 7B(1), (2) or (3).
+
+Note: Codes may provide differently for different things: see subsection 26C(4A).
+
+Entities bound by code
+
+(5) Subject to subsection (7), an APP entity is bound by the Children’s
+
+Online Privacy Code if: (a) all of the following apply: (i) the entity is a provider of a social media service,
+
+relevant electronic service or designated internet service (all within the meaning of the Online Safety Act 2021); (ii) the service is likely to be accessed by children; (iii) the entity is not providing a health service; or (b) the entity is an APP entity, or an APP entity in a class of
+
+entities, specified in the code for the purposes of this paragraph.
+
+Note: In relation to subparagraph (a)(ii), see subsection (11).
+
+(6) Paragraph 26C(2)(b) does not apply in relation to the Children’s
+
+Online Privacy Code.
+
+188 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 26GC
+
+Specified entities not bound by code
+
+(7) Despite subsection (5), an APP entity is not bound by the
+
+Children’s Online Privacy Code if the entity is an APP entity, or an APP entity in a class of entities, specified in the code for the purposes of this subsection.
+
+Requirements
+
+(8) In developing the Children’s Online Privacy Code, the
+
+Commissioner may: (a) consult with: (i) children; and (ii) relevant organisations or bodies concerned with
+
+children’s welfare; and (iia) industry organisations or bodies representing the
+
+interests of one or more entities that may potentially be bound by the Code; (iii) the eSafety Commissioner; and (iv) the National Children’s Commissioner; and (b) consult any other person the Commissioner considers
+
+appropriate.
+
+(9) Before registering the Children’s Online Privacy Code under
+
+section 26H, the Commissioner must: (a) make a draft of the code publicly available; and (b) invite the public to make submissions to the Commissioner
+
+about the draft within a specified period (which must run for at least 60 days); and (c) give consideration to any submissions made within the
+
+specified period; and (d) consult with: (i) the eSafety Commissioner; and (ii) the National Children’s Commissioner.
+
+Privacy Act 1988 189
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 26H
+
+Time by which code must be made
+
+(10) The Commissioner must develop and register the Children’s
+
+Online Privacy Code within the period of 24 months beginning on the day the Privacy and Other Legislation Amendment Act 2024 receives the Royal Assent.
+
+Services likely to be accessed by children
+
+(11) The Commissioner may make written guidelines to assist entities
+
+to determine if a service is likely to be accessed by children for the purposes of subparagraph (5)(a)(ii).
+
+(12) The Commissioner may publish any such guidelines on the
+
+Commissioner’s website.
+
+(13) Guidelines under subsection (11) are not a legislative instrument.
+
+#### 26H Commissioner may register APP codes
+
+(1) If: (a) an application for registration of an APP code is made under
+
+section 26F; or (b) the Commissioner develops an APP code under section 26G,
+
+26GA or 26GB; or (c) the Commissioner develops a Children’s Online Privacy
+
+Code under section 26GC; the Commissioner may register the code by including it on the Codes Register.
+
+(2) In deciding whether to register the APP code, the Commissioner
+
+may: (a) consult any person the Commissioner considers appropriate;
+
+and (b) consider the matters specified in any relevant guidelines
+
+made under section 26V.
+
+(3) If the Commissioner decides not to register an APP code developed
+
+by an APP code developer, the Commissioner must give written
+
+190 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 26J
+
+notice of the decision to the developer, including reasons for the decision.
+
+#### Subdivision C—Variation and removal of registered APP codes
+
+#### 26J Variation of registered APP codes
+
+(1) The Commissioner may, in writing, approve a variation of a
+
+registered APP code: (a) on his or her own initiative; or (b) on application by an APP entity that is bound by the code; or (c) on application by a body or association representing one or
+
+more APP entities that are bound by the code.
+
+(2) An application under paragraph (1)(b) or (c) must: (a) be made in the form and manner specified by the
+
+Commissioner; and (b) be accompanied by such information as is specified by the
+
+Commissioner.
+
+(3) If the Commissioner varies a registered APP code on his or her
+
+own initiative, then, despite subsection 26C(3)(b), the variation must not deal with an act or practice that is exempt within the meaning of subsection 7B(1), (2) or (3).
+
+(4) Before deciding whether to approve a variation, the Commissioner
+
+must: (a) make a draft of the variation publicly available; and (b) consult any person the Commissioner considers appropriate
+
+about the variation; and (c) consider the extent to which members of the public have
+
+been given an opportunity to comment on the variation.
+
+(5) In deciding whether to approve a variation, the Commissioner may
+
+consider the matters specified in any relevant guidelines made under section 26V.
+
+Privacy Act 1988 191
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 26K
+
+(6) If the Commissioner approves a variation of a registered APP code
+
+(the original code), the Commissioner must: (a) remove the original code from the Codes Register; and (b) register the APP code, as varied, by including it on the
+
+Register.
+
+(7) If the Commissioner approves a variation, the variation comes into
+
+effect on the day specified in the approval, which must not be before the day on which the APP code, as varied, is included on the Codes Register.
+
+### (8) An approval is not a legislative instrument.
+
+Note: The APP code, as varied, is a legislative instrument once it is included on the Codes Register: see section 26B.
+
+#### 26K Removal of registered APP codes
+
+(1) The Commissioner may remove a registered APP code from the
+
+Codes Register: (a) on his or her own initiative; or (b) on application by an APP entity that is bound by the code; or (c) on application by a body or association representing one or
+
+more APP entities that are bound by the code.
+
+(2) An application under paragraph (1)(b) or (c) must: (a) be made in the form and manner specified by the
+
+Commissioner; and (b) be accompanied by such information as is specified by the
+
+Commissioner.
+
+(3) Before deciding whether to remove the registered APP code, the
+
+Commissioner must: (a) consult any person the Commissioner considers appropriate
+
+about the proposed removal; and (b) consider the extent to which members of the public have
+
+been given an opportunity to comment on the proposed removal.
+
+192 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 26K
+
+(4) In deciding whether to remove the registered APP code, the
+
+Commissioner may consider the matters specified in any relevant guidelines made under section 26V.
+
+Privacy Act 1988 193
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 26L
+
+### Division 3—Registered CR code
+
+#### Subdivision A—Compliance with the registered CR code
+
+26L Entities to comply with the registered CR code if bound by the code
+
+If an entity is bound by the registered CR code, the entity must not
+
+do an act, or engage in a practice, that breaches the code.
+
+Note: There must always be one, and only one, registered CR code at all times after this Part commences: see subsection 26S(4).
+
+#### 26M What is the registered CR code
+
+(1) The registered CR code is the CR code that is included on the
+
+Codes Register.
+
+(2) The registered CR code is a legislative instrument.
+
+(3) Subsection 12(2) (retrospective application of legislative
+
+instruments) of the Legislation Act 2003 does not apply to the registered CR code.
+
+#### 26N What is a CR code
+
+(1) A CR code is a written code of practice about credit reporting.
+
+(2) A CR code must: (a) set out how one or more of the provisions of Part IIIA are to
+
+be applied or complied with; and (b) make provision for, or in relation to, matters required or
+
+permitted by Part IIIA to be provided for by the registered CR code; and (c) bind all credit reporting bodies; and (d) specify the credit providers that are bound by the code, or a
+
+way of determining which credit providers are bound; and
+
+194 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 26P
+
+(e) specify any other entities subject to Part IIIA that are bound
+
+by the code, or a way of determining which of those entities are bound.
+
+(3) A CR code may do one or more of the following: (a) impose additional requirements to those imposed by
+
+Part IIIA, so long as the additional requirements are not contrary to, or inconsistent with, that Part; (b) deal with the internal handling of complaints; (c) provide for the reporting to the Commissioner about
+
+complaints; (d) deal with any other relevant matters.
+
+(4) A CR code may be expressed to apply differently in relation to: (a) classes of entities that are subject to Part IIIA; and (b) specified classes of credit information, credit reporting
+
+information or credit eligibility information; and (c) specified classes of activities of entities that are subject to
+
+Part IIIA.
+
+### (5) A CR code is not a legislative instrument.
+
+#### Subdivision B—Development and registration of CR code
+
+#### 26P Development of CR code by CR code developers
+
+(1) The Commissioner may, in writing, request a CR code developer to
+
+develop a CR code and apply to the Commissioner for the code to be registered.
+
+(2) The request must: (a) specify the period within which the request must be complied
+
+with; and (b) set out the effect of section 26L.
+
+(3) The period: (a) must run for at least 120 days from the date the request is
+
+made; and
+
+Privacy Act 1988 195
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 26Q
+
+(b) may be extended by the Commissioner.
+
+(4) The request may: (a) specify one or more matters that the CR code must deal with;
+
+and (b) specify the credit providers, or a class of credit providers,
+
+that should be bound by the code; and (c) specify the other entities, or a class of other entities, subject
+
+to Part IIIA that should be bound by the code.
+
+(5) The Commissioner must make a copy of the request publicly
+
+available as soon as practicable after the request is made.
+
+#### 26Q Application for registration of CR code
+
+(1) If a CR code developer develops a CR code, the developer may
+
+apply to the Commissioner for registration of the code.
+
+(2) Before making the application, the CR code developer must: (a) make a draft of the CR code publicly available; and (b) invite the public to make submissions to the developer about
+
+the draft within a specified period (which must run for at least 28 days); and (c) give consideration to any submissions made within the
+
+specified period.
+
+(3) The application must: (a) be made in the form and manner specified by the
+
+Commissioner; and (b) be accompanied by such information as is specified by the
+
+Commissioner.
+
+(4) The CR code developer may vary the CR code at any time before
+
+the Commissioner registers the code, but only with the consent of the Commissioner.
+
+196 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 26R
+
+#### 26R Development of CR code by the Commissioner
+
+(1) The Commissioner may develop a CR code if the Commissioner
+
+made a request under section 26P and either: (a) the request has not been complied with; or (b) the request has been complied with but the Commissioner
+
+has decided not to register, under section 26S, the CR code that was developed as requested.
+
+(2) Before registering the CR code under section 26S, the
+
+Commissioner must: (a) make a draft of the code publicly available; and (b) invite the public to make submissions to the Commissioner
+
+about the draft within a specified period (which must run for at least 28 days); and (c) give consideration to any submissions made within the
+
+specified period.
+
+#### 26S Commissioner may register CR code
+
+(1) If: (a) an application for registration of a CR code is made under
+
+section 26Q; or (b) the Commissioner develops a CR code under section 26R; the Commissioner may register the code by including it on the Codes Register.
+
+(2) In deciding whether to register the CR code, the Commissioner
+
+may: (a) consult any person the Commissioner considers appropriate;
+
+and (b) consider the matters specified in any guidelines made under
+
+section 26V.
+
+(3) If the Commissioner decides not to register a CR code developed
+
+by a CR code developer, the Commissioner must give written notice of the decision to the developer, including reasons for the decision.
+
+Privacy Act 1988 197
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 26T
+
+(4) The Commissioner must ensure that there is one, and only one,
+
+registered CR code at all times after this Part commences.
+
+#### Subdivision C—Variation of the registered CR code
+
+#### 26T Variation of the registered CR code
+
+(1) The Commissioner may, in writing, approve a variation of the
+
+registered CR code: (a) on his or her own initiative; or (b) on application by an entity that is bound by the code; or (c) on application by a body or association representing one or
+
+more of the entities that are bound by the code.
+
+(2) An application under paragraph (1)(b) or (c) must: (a) be made in the form and manner specified by the
+
+Commissioner; and (b) be accompanied by such information as is specified by the
+
+Commissioner.
+
+(3) Before deciding whether to approve a variation, the Commissioner
+
+must: (a) make a draft of the variation publicly available; and (b) consult any person the Commissioner considers appropriate
+
+about the variation; and (c) consider the extent to which members of the public have
+
+been given an opportunity to comment on the variation.
+
+(4) In deciding whether to approve a variation, the Commissioner may
+
+consider the matters specified in any relevant guidelines made under section 26V.
+
+(5) If the Commissioner approves a variation of the registered CR code
+
+(the original code), the Commissioner must: (a) remove the original code from the Codes Register; and (b) register the CR code, as varied, by including it on the
+
+Register.
+
+198 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 26T
+
+(6) If the Commissioner approves a variation, the variation comes into
+
+effect on the day specified in the approval, which must not be before the day on which the CR code, as varied, is included on the Codes Register.
+
+### (7) An approval is not a legislative instrument.
+
+Note: The CR code, as varied, is a legislative instrument once it is included on the Codes Register: see section 26M.
+
+Privacy Act 1988 199
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Division 4 General matters Section 26U
+
+### Division 4—General matters
+
+#### 26U Codes Register
+
+(1) The Commissioner must keep a register (the Codes Register)
+
+which includes: (a) the APP codes the Commissioner has decided to register
+
+under section 26H; and (b) the APP codes the Commissioner must register under
+
+section 26J; and (c) the CR code the Commissioner has decided to register under
+
+section 26S; and (d) the CR code the Commissioner must register under
+
+section 26T.
+
+(2) Despite subsection (1), the Commissioner is not required to include
+
+on the Codes Register: (a) an APP code removed from the Register under section 26J or
+
+26K; or (b) the CR code removed from the Register under section 26T.
+
+(3) The Commissioner must make the Codes Register available on the
+
+Commissioner’s website.
+
+(4) The Commissioner may charge fees for providing copies of, or
+
+extracts from, the Codes Register.
+
+#### 26V Guidelines relating to codes
+
+(1) The Commissioner may make written guidelines: (a) to assist APP code developers to develop APP codes; or (b) to assist APP entities bound by registered APP codes to apply
+
+or comply with the codes; or (c) to assist CR code developers to develop a CR code; or (d) to assist entities bound by the registered CR code to apply or
+
+comply with the code.
+
+200 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+General matters Division 4
+
+Section 26W
+
+(2) The Commissioner may make written guidelines about matters the
+
+Commissioner may consider in deciding whether: (a) to register an APP code or a CR code; or (b) to approve a variation of a registered APP code or the
+
+registered CR code; or (c) to remove a registered APP code from the Codes Register.
+
+(3) The Commissioner may publish any such guidelines on the
+
+Commissioner’s website.
+
+### (4) Guidelines are not a legislative instrument.
+
+#### 26W Review of operation of registered codes
+
+(1) The Commissioner may review the operation of a registered APP
+
+code.
+
+Note: The review may inform a decision by the Commissioner to approve a variation of a registered APP code or to remove a registered APP code from the Codes Register.
+
+(2) The Commissioner may review the operation of the registered CR
+
+code.
+
+Note: The review may inform a decision by the Commissioner to approve a variation of the registered CR code.
+
+Privacy Act 1988 201
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 26WA
+
+## Part IIIC—Notification of eligible data breaches
+
+### Division 1—Introduction
+
+#### 26WA Guide to this Part
+
+• This Part sets up a scheme for notification of eligible data breaches.
+
+• An eligible data breach happens if: (a) there is unauthorised access to, unauthorised disclosure of, or loss of, personal information held by an entity; and (b) the access, disclosure or loss is likely to result in serious harm to any of the individuals to whom the information relates.
+
+• An entity must give a notification if: (a) it has reasonable grounds to believe that an eligible data breach has happened; or (b) it is directed to do so by the Commissioner.
+
+• The Commissioner may obtain information or documents in relation to actual or suspected eligible data breaches.
+
+• This Part also deals with the collection, use and disclosure of personal information involved in eligible data breaches.
+
+#### 26WB Entity
+
+For the purposes of this Part, entity includes a person who is a file
+
+number recipient.
+
+202 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 26WC
+
+#### 26WC Deemed holding of information
+
+Overseas recipients
+
+(1) If: (a) an APP entity has disclosed personal information about one
+
+or more individuals to an overseas recipient; and (b) Australian Privacy Principle 8.1 applied to the disclosure of
+
+the personal information; and (c) the overseas recipient holds the personal information; this Part has effect as if: (d) the personal information were held by the APP entity; and (e) the APP entity were required under section 15 not to do an
+
+act, or engage in a practice, that breaches Australian Privacy Principle 11.1 in relation to the personal information.
+
+Bodies or persons with no Australian link
+
+(2) If: (a) either: (i) a credit provider has disclosed, under
+
+paragraph 21G(3)(b) or (c), credit eligibility information about one or more individuals to a related body corporate, or person, that does not have an Australian link; or (ii) a credit provider has disclosed, under
+
+subsection 21M(1), credit eligibility information about one or more individuals to a body or person that does not have an Australian link; and (b) the related body corporate, body or person holds the credit
+
+eligibility information; this Part has effect as if: (c) the credit eligibility information were held by the credit
+
+provider; and (d) the credit provider were required to comply with
+
+subsection 21S(1) in relation to the credit eligibility information.
+
+Privacy Act 1988 203
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 26WD
+
+Note: See section 21NA.
+
+26WD Exception—notification under the My Health Records Act 2012
+
+If: (a) an unauthorised access to information; or (b) an unauthorised disclosure of information; or (c) a loss of information; has been, or is required to be, notified under section 75 of the My Health Records Act 2012, this Part does not apply in relation to the access, disclosure or loss.
+
+204 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Division 2—Eligible data breach
+
+#### 26WE Eligible data breach
+
+Scope
+
+Section 26WE
+
+(1) This section applies if: (a) both: (i) an APP entity holds personal information relating to one
+
+or more individuals; and (ii) the APP entity is required under section 15 not to do an
+
+act, or engage in a practice, that breaches Australian Privacy Principle 11.1 in relation to the personal information; or (b) both: (i) a credit reporting body holds credit reporting
+
+information relating to one or more individuals; and (ii) the credit reporting body is required to comply with
+
+section 20Q in relation to the credit reporting information; or (c) both: (i) a credit provider holds credit eligibility information
+
+relating to one or more individuals; and (ii) the credit provider is required to comply with
+
+subsection 21S(1) in relation to the credit eligibility information; or (d) both: (i) a file number recipient holds tax file number
+
+information relating to one or more individuals; and (ii) the file number recipient is required under section 18
+
+not to do an act, or engage in a practice, that breaches a section 17 rule that relates to the tax file number information.
+
+Privacy Act 1988 205
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 26WF
+
+Eligible data breach
+
+(2) For the purposes of this Act, if: (a) both of the following conditions are satisfied: (i) there is unauthorised access to, or unauthorised
+
+disclosure of, the information; (ii) a reasonable person would conclude that the access or
+
+disclosure would be likely to result in serious harm to any of the individuals to whom the information relates; or (b) the information is lost in circumstances where: (i) unauthorised access to, or unauthorised disclosure of,
+
+the information is likely to occur; and (ii) assuming that unauthorised access to, or unauthorised
+
+disclosure of, the information were to occur, a reasonable person would conclude that the access or disclosure would be likely to result in serious harm to any of the individuals to whom the information relates; then: (c) the access or disclosure covered by paragraph (a), or the loss
+
+covered by paragraph (b), is an eligible data breach of the APP entity, credit reporting body, credit provider or file number recipient, as the case may be; and (d) an individual covered by subparagraph (a)(ii) or (b)(ii) is at
+
+risk from the eligible data breach.
+
+### (3) Subsection (2) has effect subject to section 26WF.
+
+#### 26WF Exception—remedial action
+
+Access to, or disclosure of, information
+
+(1) If: (a) an access to, or disclosure of, information is covered by
+
+paragraph 26WE(2)(a); and
+
+206 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 26WF
+
+(b) the APP entity, credit reporting body, credit provider or file
+
+number recipient, as the case may be, takes action in relation to the access or disclosure; and (c) the APP entity, credit reporting body, credit provider or file
+
+number recipient, as the case may be, does so before the access or disclosure results in serious harm to any of the individuals to whom the information relates; and (d) as a result of the action, a reasonable person would conclude
+
+that the access or disclosure would not be likely to result in serious harm to any of those individuals; the access or disclosure is not, and is taken never to have been: (e) an eligible data breach of the APP entity, credit reporting
+
+body, credit provider or file number recipient, as the case may be; or (f) an eligible data breach of any other entity.
+
+(2) If: (a) an access to, or disclosure of, information is covered by
+
+paragraph 26WE(2)(a); and (b) the APP entity, credit reporting body, credit provider or file
+
+number recipient, as the case may be, takes action in relation to the access or disclosure; and (c) the APP entity, credit reporting body, credit provider or file
+
+number recipient, as the case may be, does so before the access or disclosure results in serious harm to a particular individual to whom the information relates; and (d) as a result of the action, a reasonable person would conclude
+
+that the access or disclosure would not be likely to result in serious harm to the individual; this Part does not require: (e) the APP entity, credit reporting body, credit provider or file
+
+number recipient, as the case may be; or (f) any other entity; to take steps to notify the individual of the contents of a statement that relates to the access or disclosure.
+
+Privacy Act 1988 207
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 26WF
+
+Loss of information
+
+(3) If: (a) a loss of information is covered by paragraph 26WE(2)(b);
+
+and (b) the APP entity, credit reporting body, credit provider or file
+
+number recipient, as the case may be, takes action in relation to the loss; and (c) the APP entity, credit reporting body, credit provider or file
+
+number recipient, as the case may be, does so before there is unauthorised access to, or unauthorised disclosure of, the information; and (d) as a result of the action, there is no unauthorised access to, or
+
+unauthorised disclosure of, the information; the loss is not, and is taken never to have been: (e) an eligible data breach of the APP entity, credit reporting
+
+body, credit provider or file number recipient, as the case may be; or (f) an eligible data breach of any other entity.
+
+(4) If: (a) a loss of information is covered by paragraph 26WE(2)(b);
+
+and (b) the APP entity, credit reporting body, credit provider or file
+
+number recipient, as the case may be, takes action in relation to the loss; and (c) the APP entity, credit reporting body, credit provider or file
+
+number recipient, as the case may be, does so: (i) after there is unauthorised access to, or unauthorised
+
+disclosure of, the information; and (ii) before the access or disclosure results in serious harm to
+
+any of the individuals to whom the information relates; and (d) as a result of the action, a reasonable person would conclude
+
+that the access or disclosure would not be likely to result in serious harm to any of those individuals;
+
+208 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 26WG
+
+the loss is not, and is taken never to have been: (e) an eligible data breach of the APP entity, credit reporting
+
+body, credit provider or file number recipient, as the case may be; or (f) an eligible data breach of any other entity.
+
+(5) If: (a) a loss of information is covered by paragraph 26WE(2)(b);
+
+and (b) the APP entity, credit reporting body, credit provider or file
+
+number recipient, as the case may be, takes action in relation to the loss; and (c) the APP entity, credit reporting body, credit provider or file
+
+number recipient, as the case may be, does so: (i) after there is unauthorised access to, or unauthorised
+
+disclosure of, the information; and (ii) before the access or disclosure results in serious harm to
+
+a particular individual to whom the information relates; and (d) as a result of the action, a reasonable person would conclude
+
+that the access or disclosure would not be likely to result in serious harm to the individual; this Part does not require: (e) the APP entity, credit reporting body, credit provider or file
+
+number recipient, as the case may be; or (f) any other entity; to take steps to notify the individual of the contents of a statement that relates to the loss.
+
+26WG Whether access or disclosure would be likely, or would not be likely, to result in serious harm—relevant matters
+
+For the purposes of this Division, in determining whether a
+
+reasonable person would conclude that an access to, or a disclosure of, information: (a) would be likely; or
+
+Privacy Act 1988 209
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 26WG
+
+(b) would not be likely; to result in serious harm to any of the individuals to whom the information relates, have regard to the following: (c) the kind or kinds of information; (d) the sensitivity of the information; (e) whether the information is protected by one or more security
+
+measures; (f) if the information is protected by one or more security
+
+measures—the likelihood that any of those security measures could be overcome; (g) the persons, or the kinds of persons, who have obtained, or
+
+who could obtain, the information; (h) if a security technology or methodology: (i) was used in relation to the information; and (ii) was designed to make the information unintelligible or
+
+meaningless to persons who are not authorised to obtain the information; the likelihood that the persons, or the kinds of persons, who: (iii) have obtained, or who could obtain, the information;
+
+and (iv) have, or are likely to have, the intention of causing harm
+
+to any of the individuals to whom the information relates; have obtained, or could obtain, information or knowledge
+
+required to circumvent the security technology or methodology; (i) the nature of the harm; (j) any other relevant matters.
+
+Note: If the security technology or methodology mentioned in paragraph (h) is encryption, an encryption key is an example of information required to circumvent the security technology or methodology.
+
+210 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 26WH
+
+### Division 3—Notification of eligible data breaches
+
+#### Subdivision A—Suspected eligible data breaches
+
+#### 26WH Assessment of suspected eligible data breach
+
+Scope
+
+(1) This section applies if: (a) an entity is aware that there are reasonable grounds to suspect
+
+that there may have been an eligible data breach of the entity; and (b) the entity is not aware that there are reasonable grounds to
+
+believe that the relevant circumstances amount to an eligible data breach of the entity.
+
+Assessment
+
+(2) The entity must: (a) carry out a reasonable and expeditious assessment of whether
+
+there are reasonable grounds to believe that the relevant circumstances amount to an eligible data breach of the entity; and (b) take all reasonable steps to ensure that the assessment is
+
+completed within 30 days after the entity becomes aware as mentioned in paragraph (1)(a).
+
+Note: Section 26WK applies if an entity is aware that there are reasonable grounds to believe that there has been an eligible data breach of the entity.
+
+#### 26WJ Exception—eligible data breaches of other entities
+
+If: (a) an entity complies with section 26WH in relation to an
+
+eligible data breach of the entity; and
+
+Privacy Act 1988 211
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 26WK
+
+(b) the access, disclosure or loss that constituted the eligible data
+
+breach of the entity is an eligible data breach of one or more other entities; that section does not apply in relation to those eligible data breaches of those other entities.
+
+#### Subdivision B—General notification obligations
+
+#### 26WK Statement about eligible data breach
+
+Scope
+
+(1) This section applies if an entity is aware that there are reasonable
+
+grounds to believe that there has been an eligible data breach of the entity.
+
+Statement
+
+(2) The entity must: (a) both: (i) prepare a statement that complies with subsection (3);
+
+and (ii) give a copy of the statement to the Commissioner; and (b) do so as soon as practicable after the entity becomes so
+
+aware.
+
+(3) The statement referred to in subparagraph (2)(a)(i) must set out: (a) the identity and contact details of the entity; and (b) a description of the eligible data breach that the entity has
+
+reasonable grounds to believe has happened; and (c) the particular kind or kinds of information concerned; and (d) recommendations about the steps that individuals should take
+
+in response to the eligible data breach that the entity has reasonable grounds to believe has happened.
+
+(4) If the entity has reasonable grounds to believe that the access,
+
+disclosure or loss that constituted the eligible data breach of the entity is an eligible data breach of one or more other entities, the
+
+212 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 26WL
+
+statement referred to in subparagraph (2)(a)(i) may also set out the identity and contact details of those other entities.
+
+#### 26WL Entity must notify eligible data breach
+
+Scope
+
+(1) This section applies if: (a) an entity is aware that there are reasonable grounds to believe
+
+that there has been an eligible data breach of the entity; and (b) the entity has prepared a statement that: (i) complies with subsection 26WK(3); and (ii) relates to the eligible data breach that the entity has
+
+reasonable grounds to believe has happened.
+
+Notification
+
+(2) The entity must: (a) if it is practicable for the entity to notify the contents of the
+
+statement to each of the individuals to whom the relevant information relates—take such steps as are reasonable in the circumstances to notify the contents of the statement to each of the individuals to whom the relevant information relates; or (b) if it is practicable for the entity to notify the contents of the
+
+statement to each of the individuals who are at risk from the eligible data breach—take such steps as are reasonable in the circumstances to notify the contents of the statement to each of the individuals who are at risk from the eligible data breach; or (c) if neither paragraph (a) nor (b) applies: (i) publish a copy of the statement on the entity’s website
+
+(if any); and (ii) take reasonable steps to publicise the contents of the
+
+statement.
+
+Note: See also subsections 26WF(2) and (5), which deal with remedial action.
+
+Privacy Act 1988 213
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 26WM
+
+(3) The entity must comply with subsection (2) as soon as practicable
+
+after the completion of the preparation of the statement.
+
+Method of providing a statement to an individual
+
+(4) If the entity normally communicates with a particular individual
+
+using a particular method, the notification to the individual under paragraph (2)(a) or (b) may use that method. This subsection does not limit paragraph (2)(a) or (b).
+
+#### 26WM Exception—eligible data breaches of other entities
+
+If: (a) an entity complies with sections 26WK and 26WL in relation
+
+to an eligible data breach of the entity; and (b) the access, disclosure or loss that constituted the eligible data
+
+breach of the entity is an eligible data breach of one or more other entities; those sections do not apply in relation to those eligible data breaches of those other entities.
+
+#### 26WN Exception—enforcement related activities
+
+If: (a) an entity is an enforcement body; and (b) the chief executive officer of the enforcement body believes
+
+on reasonable grounds that there has been an eligible data breach of the entity; and (c) the chief executive officer of the enforcement body believes
+
+on reasonable grounds that compliance with section 26WL in relation to the eligible data breach would be likely to prejudice one or more enforcement related activities conducted by, or on behalf of, the enforcement body; paragraph 26WK(3)(d) and section 26WL do not apply in relation to: (d) the eligible data breach of the entity; and
+
+214 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 26WP
+
+(e) if the access, disclosure or loss that constituted the eligible
+
+data breach of the entity is an eligible data breach of one or more other entities—such an eligible data breach of those other entities.
+
+#### 26WP Exception—inconsistency with secrecy provisions
+
+Secrecy provisions
+
+(1) For the purposes of this section, secrecy provision means a
+
+provision that: (a) is a provision of a law of the Commonwealth (other than this
+
+Act); and (b) prohibits or regulates the use or disclosure of information.
+
+(2) If compliance by an entity with subparagraph 26WK(2)(a)(ii) in
+
+relation to a statement would, to any extent, be inconsistent with a secrecy provision (other than a prescribed secrecy provision), subsection 26WK(2) does not apply to the entity, in relation to the statement, to the extent of the inconsistency.
+
+(3) If compliance by an entity with section 26WL in relation to a
+
+statement would, to any extent, be inconsistent with a secrecy provision (other than a prescribed secrecy provision), section 26WL does not apply to the entity, in relation to the statement, to the extent of the inconsistency.
+
+Prescribed secrecy provisions
+
+(4) For the purposes of this section, prescribed secrecy provision
+
+means a secrecy provision that is specified in the regulations.
+
+(5) For the purposes of a prescribed secrecy provision: (a) subparagraph 26WK(2)(a)(ii); and (b) section 26WL; are taken not to be provisions that require or authorise the use or disclosure of information.
+
+Privacy Act 1988 215
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 26WQ
+
+(6) If compliance by an entity with subparagraph 26WK(2)(a)(ii) in
+
+relation to a statement would, to any extent, be inconsistent with a prescribed secrecy provision, subsection 26WK(2) does not apply to the entity in relation to the statement.
+
+(7) If compliance by an entity with section 26WL in relation to a
+
+statement would, to any extent, be inconsistent with a prescribed secrecy provision, section 26WL does not apply to the entity in relation to the statement.
+
+#### 26WQ Exception—declaration by Commissioner
+
+(1) If the Commissioner: (a) is aware that there are reasonable grounds to believe that
+
+there has been an eligible data breach of an entity; or (b) is informed by an entity that the entity is aware that there are
+
+reasonable grounds to believe that there has been an eligible data breach of the entity; the Commissioner may, by written notice given to the entity: (c) declare that sections 26WK and 26WL do not apply in
+
+relation to: (i) the eligible data breach of the entity; and (ii) if the access, disclosure or loss that constituted the
+
+eligible data breach of the entity is an eligible data breach of one or more other entities—such an eligible data breach of those other entities; or (d) declare that subsection 26WL(3) has effect in relation to: (i) the eligible data breach of the entity; and (ii) if the access, disclosure or loss that constituted the
+
+eligible data breach of the entity is an eligible data breach of one or more other entities—such an eligible data breach of those other entities; as if that subsection required compliance with
+
+subsection 26WL(2) before the end of a period specified in the declaration.
+
+216 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 26WQ
+
+(2) The Commissioner’s power in paragraph (1)(d) may only be used
+
+to extend the time for compliance with subsection 26WL(2) to the end of a period that the Commissioner is satisfied is reasonable in the circumstances.
+
+### (3) The Commissioner must not make a declaration under
+
+subsection (1) unless the Commissioner is satisfied that it is reasonable in the circumstances to do so, having regard to the following: (a) the public interest; (b) any relevant advice given to the Commissioner by: (i) an enforcement body; or (ii) the Australian Signals Directorate; (c) such other matters (if any) as the Commissioner considers
+
+relevant.
+
+(4) Paragraph (3)(b) does not limit the advice to which the
+
+Commissioner may have regard.
+
+(5) The Commissioner may give a notice of a declaration to an entity
+
+under subsection (1): (a) on the Commissioner’s own initiative; or (b) on application made to the Commissioner by the entity.
+
+Applications
+
+(6) An application by an entity under paragraph (5)(b) may be
+
+expressed to be: (a) an application for a paragraph (1)(c) declaration; or (b) an application for a paragraph (1)(d) declaration; or (c) an application for: (i) a paragraph (1)(c) declaration; or (ii) in the event that the Commissioner is not disposed to
+
+make such a declaration—a paragraph (1)(d) declaration.
+
+(7) If an entity applies to the Commissioner under paragraph (5)(b):
+
+Privacy Act 1988 217
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 26WQ
+
+(a) the Commissioner may refuse the application; and (b) if the Commissioner does so—the Commissioner must give
+
+written notice of the refusal to the entity.
+
+(8) If: (a) an application for a paragraph (1)(d) declaration nominates a
+
+period to be specified in the declaration; and (b) the Commissioner makes the declaration, but specifies a
+
+different period in the declaration; the Commissioner is taken not to have refused the application.
+
+(9) If an entity applies to the Commissioner under paragraph (5)(b) for
+
+a declaration that, to any extent, relates to an eligible data breach of the entity, sections 26WK and 26WL do not apply in relation to: (a) the eligible data breach; or (b) if the access, disclosure or loss that constituted the eligible
+
+data breach of the entity is an eligible data breach of one or more other entities—such an eligible data breach of those other entities; until the Commissioner makes a decision in response to the application for the declaration.
+
+(10) An entity is not entitled to make an application under
+
+paragraph (5)(b) in relation to an eligible data breach of the entity if: (a) the access, disclosure or loss that constituted the eligible data
+
+breach of the entity is an eligible data breach of one or more other entities; and (b) one of those other entities has already made an application
+
+under paragraph (5)(b) in relation to the eligible data breach of the other entity.
+
+Extension of specified period
+
+(11) If notice of a paragraph (1)(d) declaration has been given to an
+
+entity, the Commissioner may, by written notice given to the entity, extend the period specified in the declaration.
+
+218 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 26WR
+
+### Subdivision C—Commissioner may direct entity to notify
+
+### eligible data breach
+
+#### 26WR Commissioner may direct entity to notify eligible data breach
+
+(1) If the Commissioner is aware that there are reasonable grounds to
+
+believe that there has been an eligible data breach of an entity, the Commissioner may, by written notice given to the entity, direct the entity to: (a) prepare a statement that complies with subsection (4); and (b) give a copy of the statement to the Commissioner.
+
+(2) The direction must also require the entity to: (a) if it is practicable for the entity to notify the contents of the
+
+statement to each of the individuals to whom the relevant information relates—take such steps as are reasonable in the circumstances to notify the contents of the statement to each of the individuals to whom the relevant information relates; or (b) if it is practicable for the entity to notify the contents of the
+
+statement to each of the individuals who are at risk from the eligible data breach—take such steps as are reasonable in the circumstances to notify the contents of the statement to each of the individuals who are at risk from the eligible data breach; or (c) if neither paragraph (a) nor (b) applies: (i) publish a copy of the statement on the entity’s website
+
+(if any); and (ii) take reasonable steps to publicise the contents of the
+
+statement.
+
+Note: See also subsections 26WF(2) and (5), which deal with remedial action.
+
+(3) Before giving a direction to an entity under subsection (1), the
+
+Commissioner must invite the entity to make a submission to the Commissioner in relation to the direction within the period specified in the invitation.
+
+Privacy Act 1988 219
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 26WR
+
+(4) The statement referred to in paragraph (1)(a) must set out: (a) the identity and contact details of the entity; and (b) a description of the eligible data breach that the
+
+Commissioner has reasonable grounds to believe has happened; and (c) the particular kind or kinds of information concerned; and (d) recommendations about the steps that individuals should take
+
+in response to the eligible data breach that the Commissioner has reasonable grounds to believe has happened.
+
+(5) A direction under subsection (1) may also require the statement
+
+referred to in paragraph (1)(a) to set out specified information that relates to the eligible data breach that the Commissioner has reasonable grounds to believe has happened.
+
+(6) In deciding whether to give a direction to an entity under
+
+subsection (1), the Commissioner must have regard to the following: (a) any relevant advice given to the Commissioner by: (i) an enforcement body; or (ii) the Australian Signals Directorate; (b) any relevant submission that was made by the entity: (i) in response to an invitation under subsection (3); and (ii) within the period specified in the invitation; (c) such other matters (if any) as the Commissioner considers
+
+relevant.
+
+(7) Paragraph (6)(a) does not limit the advice to which the
+
+Commissioner may have regard.
+
+(8) If the Commissioner is aware that there are reasonable grounds to
+
+believe that the access, disclosure or loss that constituted the eligible data breach of the entity is an eligible data breach of one or more other entities, a direction under subsection (1) may also require the statement referred to in paragraph (1)(a) to set out the identity and contact details of those other entities.
+
+220 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 26WS
+
+Method of providing a statement to an individual
+
+(9) If an entity normally communicates with a particular individual
+
+using a particular method, the notification to the individual mentioned in paragraph (2)(a) or (b) may use that method. This subsection does not limit paragraph (2)(a) or (b).
+
+Compliance with direction
+
+(10) An entity must comply with a direction under subsection (1) as
+
+soon as practicable after the direction is given.
+
+#### 26WS Exception—enforcement related activities
+
+An entity is not required to comply with a direction under
+
+subsection 26WR(1) if: (a) the entity is an enforcement body; and (b) the chief executive officer of the enforcement body believes
+
+on reasonable grounds that compliance with the direction would be likely to prejudice one or more enforcement related activities conducted by, or on behalf of, the enforcement body.
+
+#### 26WT Exception—inconsistency with secrecy provisions
+
+Secrecy provisions
+
+(1) For the purposes of this section, secrecy provision means a
+
+provision that: (a) is a provision of a law of the Commonwealth (other than this
+
+Act); and (b) prohibits or regulates the use or disclosure of information.
+
+(2) If compliance by an entity with paragraph 26WR(1)(b) or
+
+subsection 26WR(2) in relation to a statement would, to any extent, be inconsistent with a secrecy provision (other than a prescribed secrecy provision), paragraph 26WR(1)(b) or subsection 26WR(2), as the case may be, does not apply to the entity, in relation to the statement, to the extent of the inconsistency.
+
+Privacy Act 1988 221
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 26WT
+
+Prescribed secrecy provisions
+
+(3) For the purposes of this section, prescribed secrecy provision
+
+means a secrecy provision that is specified in the regulations.
+
+(4) For the purposes of a prescribed secrecy provision: (a) paragraph 26WR(1)(b); and (b) subsection 26WR(2); are taken not to be provisions that require or authorise the use or disclosure of information.
+
+(5) If compliance by an entity with paragraph 26WR(1)(b) or
+
+subsection 26WR(2) in relation to a statement would, to any extent, be inconsistent with a prescribed secrecy provision, paragraph 26WR(1)(b) or subsection 26WR(2), as the case may be, does not apply to the entity in relation to the statement.
+
+222 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Commissioner’s powers to obtain information or documents relating to eligible data
+
+breaches Division 4
+
+Section 26WU
+
+### Division 4—Commissioner’s powers to obtain information
+
+### or documents relating to eligible data breaches
+
+26WU Power to obtain information and documents relating to eligible data breaches
+
+(1) This section applies if the Commissioner has reason to believe that
+
+a person or entity has information or documents, or can answer questions, that are relevant to either or both of the following matters (the relevant matters): (a) an actual or suspected eligible data breach of an entity; (b) an entity’s compliance with the requirements in Division 3 of
+
+this Part.
+
+(2) Without limiting subsection (1), the relevant matters may relate to
+
+one or more of the following: (a) whether the entity is required to comply with one or more of
+
+those requirements; (b) the conduct or events that led to, or may have led to, the
+
+application of one or more of those requirements to the entity; (c) the actions taken by the entity to comply with one or more of
+
+those requirements; (d) the actual or suspected eligible data breach that has, or may
+
+have, happened; (e) the particular kind or kinds of information involved in the
+
+actual or suspected eligible data breach; (f) the steps taken to notify individuals affected by the actual or
+
+suspected eligible data breach.
+
+(3) The Commissioner may give to the person or entity a written
+
+notice requiring the person or entity: (a) to give information of the kind specified in the notice to the
+
+Commissioner that relates to the matter; or
+
+Privacy Act 1988 223
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Division 4 Commissioner’s powers to obtain information or documents relating to eligible data breaches Section 26WU
+
+(b) to produce documents of the kind specified in the notice to
+
+the Commissioner that relate to the matter; or (c) answer questions of the kind specified in the notice to the
+
+Commissioner that relate to the matter.
+
+Note: For a failure to give information etc., see section 66.
+
+(4) A notice given by the Commissioner under subsection (3) must
+
+state: (a) the place at, or manner in which, the information or
+
+document is to be given or produced or the questions are to be answered; and (b) the time at which, or the period within which, the information
+
+or document is to be given or produced or the questions are to be answered.
+
+(5) If documents are produced to the Commissioner in accordance
+
+with a requirement under subsection (3), the Commissioner: (a) may take possession of, and may make copies of, or take
+
+extracts from, the documents; and (b) may retain possession of the documents for any period that is
+
+necessary for the purposes of assessing an entity’s compliance with this Part; and (c) during that period must permit a person who would be
+
+entitled to inspect any one or more of the documents if they were not in the Commissioner’s possession to inspect at all reasonable times any of the documents that the person would be so entitled to inspect.
+
+(6) This section is subject to section 70 but it has effect regardless of
+
+any other Commonwealth law.
+
+(7) A person or entity is not liable to a penalty under the provisions of
+
+any other Commonwealth law because the person or entity gives information, produces a document or answers a question when required to do so under this section.
+
+224 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 26X
+
+### Division 5—Dealing with personal information involved in
+
+### eligible data breaches
+
+#### Subdivision A—Eligible data breach declaration
+
+#### 26X Eligible data breach declaration
+
+Minister may make eligible data breach declaration
+
+(1) The Minister may, by writing, make a declaration under this
+
+subsection if: (a) there is an eligible data breach of an entity; and (b) the Minister is satisfied that making the declaration is: (i) necessary or appropriate to prevent; or (ii) necessary or appropriate to reduce; a risk of harm arising from a misuse of personal information
+
+about one or more individuals following unauthorised access to, or unauthorised disclosure of, that personal information from the eligible data breach of the entity.
+
+Note: A declaration under this subsection is relevant for the operation of section 26XB (authorisation of collection, use and disclosure of personal information) and related provisions.
+
+Matters covered by declaration
+
+(2) Without limiting subsection (1), the declaration must specify the
+
+following matters: (a) the kind or kinds of personal information to which the
+
+declaration applies; (b) the entity or class of entities that may collect, use or disclose
+
+the personal information; (c) the entity or class of entities that the personal information
+
+may be disclosed to; (d) one or more permitted purposes of the collection, use or
+
+disclosure.
+
+Privacy Act 1988 225
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 26X
+
+Specified entities
+
+(3) An entity or class of entities specified for the purposes of
+
+paragraph (2)(c): (a) may include a State or Territory authority; and (b) must not be or include a media organisation, the Australian
+
+Broadcasting Corporation or the Special Broadcasting Service Corporation.
+
+Specified permitted purposes
+
+(4) A permitted purpose specified for the purposes of paragraph (2)(d)
+
+in relation to an eligible data breach must be a purpose that is directly related to preventing or reducing a risk of harm mentioned in paragraph (1)(b) to one or more individuals at risk from the eligible data breach.
+
+(5) Without limiting subsection (4), any of the following things may
+
+be specified as a permitted purpose in relation to an eligible data breach, to the extent that it is directly related to preventing or reducing a risk of harm mentioned in paragraph (1)(b): (a) preventing a cyber security incident (within the meaning of
+
+the Security of Critical Infrastructure Act 2018), fraud, scam activity or identity theft; (b) responding to a cyber security incident, fraud, scam activity
+
+or identity theft; (c) responding to the consequences of a cyber security incident,
+
+fraud, scam activity, identity crime and misuse, financial loss, emotional and psychological harm, family violence and physical harm or intimidation; (d) addressing malicious cyber activity.
+
+(6) Without limiting subsection 33(3A) of the Acts Interpretation Act
+
+1901, or any other provision of this Act, an eligible data breach declaration may provide differently for: (a) different kinds of personal information; and (b) different entities or classes of entities; and (c) different permitted purposes.
+
+226 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Conditions
+
+Section 26XA
+
+(7) The declaration may specify a matter mentioned in subsection (2)
+
+subject to conditions.
+
+Consultation
+
+(8) Before the Minister makes a declaration under subsection (1), the
+
+Minister may consult with any person or body, including the Commissioner and the Director-General of the Australian Signals Directorate.
+
+(9) Despite subsection 29(1) of the Australian Information
+
+Commissioner Act 2010 and any provision of this Act, the Commissioner may disclose information to the Minister for the purposes of consultation under subsection (8).
+
+Declaration is a legislative instrument
+
+(10) A declaration under subsection (1) is a legislative instrument, but
+
+section 42 (disallowance) of the Legislation Act 2003 does not apply to the declaration.
+
+#### 26XA When declarations cease to be in force
+
+An eligible data breach declaration ceases to be in force at the
+
+earliest of the following: (a) if a time at which the declaration will cease to be in force is
+
+specified in the declaration—at that time; (b) the time at which the declaration is repealed; (c) the start of the day after the end of the period of 12 months
+
+beginning on the day the declaration commences.
+
+Privacy Act 1988 227
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 26XB
+
+### Subdivision B—Provisions dealing with the collection, use and
+
+### disclosure of personal information
+
+26XB Authorisation of collection, use and disclosure of personal information
+
+(1) At any time when an eligible data breach declaration is in force in
+
+relation to an eligible data breach, an entity may collect, use or disclose personal information about an individual if: (a) the entity reasonably believes that the individual may be at
+
+risk from the eligible data breach; and (b) the collection, use or disclosure is for a permitted purpose
+
+specified in the declaration; and (c) the information is information of a kind or kinds specified in
+
+the declaration; and (d) the information is disclosed by an entity specified in the
+
+declaration, or an entity included in a class of entities specified in the declaration; and (e) the information is disclosed to an entity specified in the
+
+declaration, or an entity included in a class of entities specified in the declaration; and (f) if a matter mentioned in paragraph (b), (c), (d) or (e) is
+
+specified in the declaration subject to conditions—those conditions are satisfied.
+
+(2) An entity is not liable to any proceedings for contravening a
+
+secrecy provision in respect of a use or disclosure of personal information authorised by subsection (1) unless the secrecy provision is a designated secrecy provision (see subsection (6)).
+
+(3) An entity is not liable to any proceedings for contravening a duty
+
+of confidence in respect of a disclosure of personal information authorised by subsection (1).
+
+(4) An entity does not breach an Australian Privacy Principle, a
+
+registered APP code that binds the entity or a rule issued under section 17 (rules relating to tax file number information) in respect
+
+228 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 26XB
+
+of a collection, use or disclosure of personal information authorised by subsection (1).
+
+(5) A collection, use or disclose of personal information by an officer
+
+or employee of an agency in the course of duty as an officer or employee is authorised by subsection (1) only if the officer or employee is authorised by the agency to collect, use or disclose the personal information.
+
+### (6) In this section:
+
+designated secrecy provision means any of the following: (a) sections 18, 18A, 18B, 34GF, 35P, 92 and 92A, and
+
+subsection 34GE(4), of the Australian Security Intelligence Organisation Act 1979; (b) section 15LC of the Crimes Act 1914; (c) section 34 of the Inspector-General of Intelligence and
+
+Security Act 1986; (d) sections 39, 40C, 40D and 41 of, and clause 9 of Schedule 1
+
+to, the Intelligence Services Act 2001; (e) sections 42 and 44 of the Office of National Intelligence Act
+
+2018; (f) sections 22, 22A and 22B of the Witness Protection Act
+
+1994; (g) a provision of a Commonwealth law prescribed by the
+
+regulations for the purposes of this paragraph; (h) a provision of a Commonwealth law of a kind prescribed by
+
+the regulations for the purposes of this paragraph.
+
+secrecy provision means a provision of a Commonwealth law (including a provision of this Act) that prohibits or regulates the use or disclosure of personal information, whether the provision relates to the use or disclosure of personal information generally or in specified circumstances.
+
+Privacy Act 1988 229
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 26XC
+
+#### Subdivision C—Other matters
+
+#### 26XC Disclosure of information—offence
+
+(1) A person (the first person) commits an offence if: (a) personal information that relates to an individual is disclosed
+
+to the first person because of the operation of this Division; and (b) the first person subsequently discloses the personal
+
+information.
+
+Penalty: 60 penalty units or imprisonment for 1 year, or both.
+
+(2) Subsection (1) does not apply to the following disclosures: (a) if the first person is an APP entity—a disclosure permitted
+
+under an Australian Privacy Principle, a registered APP code that binds the person or a rule issued under section 17 (rules relating to tax file number information); (b) a disclosure for the purposes of carrying out a State’s
+
+constitutional functions, powers or duties; (c) a disclosure for the purposes of obtaining or providing legal
+
+advice in relation to the operation of this Division; (d) a disclosure permitted under section 26XB; (e) a disclosure made with the consent of the individual to whom
+
+the personal information relates; (f) a disclosure to the individual to whom the personal
+
+information relates; (g) a disclosure to a court; (h) a disclosure prescribed by the regulations.
+
+Note: A defendant bears an evidential burden in relation to a matter in this subsection (see subsection 13.3(3) of the Criminal Code).
+
+(3) If a disclosure of personal information is covered by
+
+subsection (2), the disclosure is authorised by this section.
+
+230 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 26XD
+
+(4) For the purposes of paragraph (2)(g), court includes any tribunal,
+
+authority or person having power to require the production of documents or the answering of questions.
+
+#### 26XD Division not limited by secrecy provisions
+
+(1) The operation of this Division is not limited by a secrecy provision
+
+of any other Commonwealth law (whether made before or after the commencement of this Act) except to the extent that the secrecy provision expressly excludes the operation of this section.
+
+Note: Section 3 provides for the concurrent operation of State and Territory laws.
+
+(2) Nothing in this Division is to be taken to require an entity to
+
+collect, use or disclose personal information.
+
+### (3) In this section:
+
+secrecy provision means a provision of a Commonwealth law (including a provision of this Act) that prohibits or regulates the use or disclosure of personal information, whether the provision relates to the use or disclosure of personal information generally or in specified circumstances.
+
+#### 26XE Constitutional basis of this Division
+
+This Division relies on the Commonwealth’s legislative powers
+
+under paragraph 51(xxix) (external affairs) of the Constitution as it relates to giving effect to Australia’s obligations under relevant international agreements, in particular Article 17 of the International Covenant on Civil and Political Rights done at New York on 16 December 1966 ([1980] ATS 23).
+
+Note: The Covenant is in Australian Treaty Series 1980 No. 23 ([1980] ATS 23) and could in 2024 be viewed in the Australian Treaties Library on the AustLII website (http://www.austlii.edu.au).
+
+Privacy Act 1988 231
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 26XF
+
+#### 26XF Additional operation of this Division
+
+(1) In addition to section 26XE, this Division also has effect as
+
+provided by this section.
+
+Corporations
+
+(2) This Division also has the effect it would have if a reference to a
+
+collection, use or disclosure were expressly confined to a collection, use or disclosure by a corporation to which paragraph 51(xx) of the Constitution applies.
+
+Banking
+
+(3) This Division also has the effect it would have if a reference to a
+
+collection, use or disclosure were expressly confined to a collection, use or disclosure that occurs in the course of, or in relation to, the carrying on of the business of banking (within the meaning of paragraph 51(xiii) of the Constitution), other than State banking not extending beyond the limits of the State concerned.
+
+Insurance
+
+(4) This Division also has the effect it would have if a reference to a
+
+collection, use or disclosure were expressly confined to a collection, use or disclosure that occurs in the course of, or in relation to, the carrying on of the business of insurance (within the meaning of paragraph 51(xiv) of the Constitution), other than State insurance not extending beyond the limits of the State concerned.
+
+Trade and commerce
+
+(5) This Division also has the effect it would have if a reference to a
+
+collection, use or disclosure were expressly confined to a collection, use or disclosure that occurs in the course of, or in relation to, trade or commerce: (a) between Australia and places outside Australia; or (b) among the States; or
+
+232 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 26XF
+
+(c) within a Territory, between a State and a Territory or
+
+between 2 Territories.
+
+Communications
+
+(6) This Division also has the effect it would have if a reference to a
+
+collection, use or disclosure were expressly confined to a collection, use or disclosure using a postal, telegraphic, telephonic or other like service (within the meaning of paragraph 51(v) of the Constitution).
+
+Territories
+
+(7) This Division also has the effect it would have if a reference to a
+
+collection, use or disclosure were expressly confined to a collection, use or disclosure taking place in a Territory.
+
+Aliens
+
+(8) This Division also has the effect it would have if a reference to a
+
+collection, use or disclosure were expressly confined to: (a) a collection, use or disclosure by an alien (within the
+
+meaning of paragraph 51(xix) of the Constitution); or (b) a collection, use or disclosure of personal information about
+
+an alien (within the meaning of paragraph 51(xix) of the Constitution).
+
+External affairs
+
+(9) This Division also has the effect it would have if a reference to a
+
+collection, use or disclosure were expressly confined to a collection, use or disclosure taking place outside Australia.
+
+Executive power
+
+(10) This Division also has the effect it would have if a reference to a
+
+collection, use or disclosure were expressly confined to a collection, use or disclosure by a Commonwealth entity (within the meaning of the Public Governance, Performance and
+
+Privacy Act 1988 233
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 26XG
+
+Accountability Act 2013) for the purposes of the Commonwealth entity performing its functions or duties or exercising its powers.
+
+#### 26XG Interaction with section 12B
+
+To avoid doubt, section 12B does not apply in relation to this
+
+Division.
+
+#### 26XH Compensation for acquisition of property
+
+(1) If the operation of this Division would result in an acquisition of
+
+property (within the meaning of paragraph 51(xxxi) of the Constitution) from a person otherwise than on just terms (within the meaning of that paragraph), the Commonwealth is liable to pay a reasonable amount of compensation to the person.
+
+(2) If the Commonwealth and the person do not agree on the amount
+
+of the compensation, the person may institute proceedings in the Federal Court of Australia or the Supreme Court of a State or Territory for the recovery from the Commonwealth of such reasonable amount of compensation as the court determines.
+
+234 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 27
+
+## Part IV—Functions of the Information
+
+## Commissioner
+
+### Division 2—Functions of Commissioner
+
+#### 27 Functions of the Commissioner
+
+(1) The Commissioner has the following functions: (a) the functions that are conferred on the Commissioner by or
+
+under: (i) this Act; or (ii) any other law of the Commonwealth; (b) the guidance related functions; (c) the monitoring related functions; (d) the advice related functions; (e) to do anything incidental or conducive to the performance of
+
+any of the above functions.
+
+(2) The Commissioner has power to do all things necessary or
+
+convenient to be done for, or in connection with, the performance of the Commissioner’s functions.
+
+(3) Without limiting subsection (2), the Commissioner may establish a
+
+panel of persons with expertise in relation to a particular matter to assist the Commissioner in performing any of the Commissioner’s functions.
+
+(4) Section 38 of the Healthcare Identifiers Act 2010, rather than
+
+section 12B of this Act, applies in relation to an investigation of an act or practice referred to in subsection 29(1) of that Act in the same way as it applies to Parts 3 and 4 of that Act.
+
+Note: Section 38 of the Healthcare Identifiers Act 2010 deals with the additional effect of Parts 3 and 4 of that Act.
+
+Privacy Act 1988 235
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 28
+
+#### 28 Guidance related functions of the Commissioner
+
+(1) The following are the guidance related functions of the
+
+Commissioner: (a) making guidelines for the avoidance of acts or practices that
+
+may or might be interferences with the privacy of individuals, or which may otherwise have any adverse effects on the privacy of individuals; (b) making, by legislative instrument, guidelines for the purposes
+
+of paragraph (d) of Australian Privacy Principle 6.3; (c) promoting an understanding and acceptance of: (i) the Australian Privacy Principles and the objects of
+
+those principles; and (ii) a registered APP code; and (iii) the provisions of Part IIIA and the objects of those
+
+provisions; and (iv) the registered CR code; (d) undertaking educational programs for the purposes of
+
+promoting the protection of individual privacy.
+
+(2) The Commissioner may publish the guidelines referred to in
+
+paragraphs (1)(a) and (b) in such manner as the Commissioner considers appropriate.
+
+(3) The educational programs referred to in paragraph (1)(d) may be
+
+undertaken by: (a) the Commissioner; or (b) a person or authority acting on behalf of the Commissioner.
+
+(4) Guidelines made under paragraph (1)(a) are not a legislative
+
+instrument.
+
+#### 28A Monitoring related functions of the Commissioner
+
+Credit reporting and tax file number information
+
+(1) The following are the monitoring related functions of the
+
+Commissioner:
+
+236 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 28A
+
+(a) monitoring the security and accuracy of information held by
+
+an entity that is information to which Part IIIA applies; (b) examining the records of entities to ensure that the entities: (i) are not using information to which Part IIIA applies for
+
+unauthorised purposes; and (ii) are taking adequate measures to prevent the unlawful
+
+disclosure of such information; (c) examining the records of the Commissioner of Taxation to
+
+ensure that the Commissioner: (i) is not using tax file number information for purposes
+
+beyond his or her powers; and (ii) is taking adequate measures to prevent the unlawful
+
+disclosure of the tax file number information that he or she holds; (d) evaluating compliance with the rules issued under section 17; (e) monitoring the security and accuracy of tax file number
+
+information kept by file number recipients.
+
+Other matters
+
+(2) The following are also the monitoring related functions of the
+
+Commissioner: (a) examining a proposed Commonwealth law that would
+
+require or authorise acts or practices of an entity that might otherwise be interferences with the privacy of individuals, or which may otherwise have any adverse effects on the privacy of individuals; (b) examining a proposal for data matching or linkage that may
+
+involve an interference with the privacy of individuals, or which may otherwise have any adverse effects on the privacy of individuals; (c) ensuring that any adverse effects of the proposed law or the
+
+proposal on the privacy of individuals are minimised; (d) undertaking research into, and monitoring developments in,
+
+data processing and technology (including data matching and
+
+Privacy Act 1988 237
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 28B
+
+linkage) to ensure that any adverse effects of such developments on the privacy of individuals are minimised; (e) reporting to the Minister the results of that research and
+
+monitoring; (f) monitoring and reporting on the adequacy of equipment and
+
+user safeguards.
+
+(3) The functions referred to in paragraphs (2)(a) and (b) may be
+
+performed by the Commissioner: (a) on request by a Minister; or (b) on the Commissioner’s own initiative.
+
+(4) If the reporting referred to in paragraph (2)(e) or (f) is done in
+
+writing, the instrument is not a legislative instrument.
+
+#### 28B Advice related functions of the Commissioner
+
+(1) The following are the advice related functions of the
+
+Commissioner: (a) providing advice to a Minister or entity about any matter
+
+relevant to the operation of this Act; (b) informing the Minister of action that needs to be taken by an
+
+agency in order to comply with the Australian Privacy Principles; (c) providing reports and recommendations to the Minister in
+
+relation to any matter concerning the need for, or the desirability of, legislative or administrative action in the interests of the privacy of individuals; (d) providing advice to file number recipients about: (i) their obligations under the Taxation Administration Act
+
+1953 in relation to the confidentiality of tax file number information; or (ii) any matter relevant to the operation of this Act.
+
+(2) The functions referred to in paragraphs (1)(a), (c) and (d) may be
+
+performed by the Commissioner on request or on the Commissioner’s own initiative.
+
+238 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 29
+
+(3) The Commissioner may perform the function referred to in
+
+paragraph (1)(b) whenever the Commissioners think it is necessary to do so.
+
+(4) If the Minister is informed under paragraph (1)(b) in writing, or the
+
+report referred to in paragraph (1)(c) is provided in writing, the instrument is not a legislative instrument.
+
+#### 29 Commissioner must have due regard to the objects of the Act
+
+The Commissioner must have due regard to the objects of this Act
+
+in performing the Commissioner’s functions, and exercising the Commissioner’s powers, conferred by this Act.
+
+Note: The objects of this Act are set out in section 2A.
+
+Privacy Act 1988 239
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 30
+
+### Division 3—Reports and information sharing by
+
+#### 30 Reports following investigation of act or practice
+
+(1) Where the Commissioner has investigated an act or practice
+
+without a complaint having been made under section 36, the Commissioner may report to the Minister about the act or practice, and shall do so: (a) if so directed by the Minister; or (b) if the Commissioner: (i) thinks that the act or practice is an interference with the
+
+privacy of an individual; and (ii) does not consider that it is reasonably possible that the
+
+matter that gave rise to the investigation can be conciliated successfully or has attempted to conciliate the matter without success.
+
+(2) Where the Commissioner reports under subsection (1) about an act
+
+done in accordance with a practice, the Commissioner shall also report to the Minister about the practice.
+
+(3) Where, after an investigation of an act or practice of an agency, file
+
+number recipient, credit reporting body or credit provider that is an interference with the privacy of an individual under subsection 13(1), (2) or (4), the Commissioner is required by virtue of paragraph (1)(b) of this section to report to the Minister about the act or practice, the Commissioner: (a) shall set out in the report his or her findings and the reasons
+
+for those findings; (b) may include in the report any recommendations by the
+
+Commissioner for preventing a repetition of the act or a continuation of the practice; (c) may include in the report any recommendation by the
+
+Commissioner for either or both of the following:
+
+240 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 30
+
+(i) the payment of compensation in respect of a person who
+
+has suffered loss or damage as a result of the act or practice; (ii) the taking of other action to remedy or reduce loss or
+
+damage suffered by a person as a result of the act or practice; (d) shall serve a copy of the report on the agency, file number
+
+recipient, credit reporting body or credit provider concerned and the Minister (if any) responsible for the agency, recipient, credit reporting body or credit provider; and (e) may serve a copy of the report on any person affected by the
+
+act or practice.
+
+(4) Where, at the end of 60 days after a copy of a report about an act or
+
+practice of an agency, file number recipient, credit reporting body or credit provider was served under subsection (3), the Commissioner: (a) still thinks that the act or practice is an interference with the
+
+privacy of an individual; and (b) is not satisfied that reasonable steps have been taken to
+
+prevent a repetition of the act or a continuation of the practice; the Commissioner shall give to the Minister a further report that: (c) incorporates the first-mentioned report and any document
+
+that the Commissioner has received, in response to the first-mentioned report, from the agency, file number recipient, credit reporting body or credit provider; (d) states whether, to the knowledge of the Commissioner, any
+
+action has been taken as a result of the findings, and recommendations (if any), set out in the first-mentioned report and, if so, the nature of that action; and (e) states why the Commissioner is not satisfied that reasonable
+
+steps have been taken to prevent a repetition of the act or a continuation of the practice; and shall serve a copy of the report on the Minister (if any) responsible for the agency, recipient, credit reporting body or credit provider.
+
+Privacy Act 1988 241
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 31
+
+(5) The Minister shall cause a copy of a report given to the Minister
+
+under subsection (4) to be laid before each House of the Parliament within 15 sitting days of that House after the report is received by the Minister.
+
+#### 31 Report following examination of proposed law
+
+### (1) Where the Commissioner has examined a proposed
+
+Commonwealth law under paragraph 28A(2)(a), subsections (2) and (3) of this section have effect.
+
+(2) If the Commissioner thinks that the proposed law would require or
+
+authorise acts or practices of an entity that would be interferences with the privacy of individuals, the Commissioner shall: (a) report to the Minister about the proposed law; and (b) include in the report any recommendations he or she wishes
+
+to make for amendment of the proposed law to ensure that it would not require or authorise such acts or practices.
+
+(3) Otherwise, the Commissioner may report to the Minister about the
+
+proposed law, and shall do so if so directed by the Minister.
+
+(4) Where the Commissioner is of the belief that it is in the public
+
+interest that the proposed law should be the subject of a further report, the Commissioner may give to the Minister a further report setting out the Commissioner’s reasons for so doing.
+
+(5) The Minister shall cause a copy of a report given under
+
+subsection (4) to be laid before each House of the Parliament as soon as practicable, and no later than 15 sitting days of that House, after the report is received by the Minister.
+
+32 Commissioner may report to the Minister if the Commissioner has monitored certain activities etc.
+
+(1) If the Commissioner has: (a) monitored an activity in the performance of a function under
+
+paragraph 28(1)(d), 28A(1)(a), (b), (d) or (e) or (2)(b), (c) or (d) or 28B(1)(b) or (c); or
+
+242 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 33
+
+(b) conducted an assessment under section 33C; the Commissioner may report to the Minister about the activity or assessment, and must do so if so directed by the Minister.
+
+(2) Where the Commissioner is of the belief that it is in the public
+
+interest that the activity or assessment should be the subject of a further report, the Commissioner may give to the Minister a further report setting out the Commissioner’s reasons for so doing.
+
+(3) The Minister shall cause a copy of a report given under
+
+subsection (2) to be laid before each House of the Parliament as soon as practicable, and no later than 15 sitting days of that House, after the report is received by the Minister.
+
+#### 33 Exclusion of certain matters from reports
+
+(1) In setting out findings, opinions and reasons in a report to be given
+
+under section 30, 31, 32 or 33J, the Commissioner may exclude a matter if the Commissioner considers it desirable to do so having regard to the obligations of the Commissioner under subsections (2) and (3).
+
+(2) In deciding under subsection (1) whether or not to exclude matter
+
+from a report, the Commissioner shall have regard to the need to prevent: (a) prejudice to the security, defence or international relations of
+
+Australia; (b) prejudice to relations between the Commonwealth
+
+Government and the Government of a State or between the Government of a State and the Government of another State; (c) the disclosure of deliberations or decisions of the Cabinet, or
+
+of a Committee of the Cabinet, of the Commonwealth or of a State; (d) the disclosure of deliberations or advice of the Federal
+
+Executive Council or the Executive Council of a State; (da) the disclosure of the deliberations or decisions of the
+
+Australian Capital Territory Executive or of a committee of that Executive;
+
+Privacy Act 1988 243
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 33A
+
+(e) the disclosure, or the ascertaining by a person, of the
+
+existence or identity of a confidential source of information in relation to the enforcement of the criminal law; (f) the endangering of the life or safety of any person; (g) prejudice to the proper enforcement of the law or the
+
+protection of public safety; (h) the disclosure of information the disclosure of which is
+
+prohibited, absolutely or subject to qualifications, by or under another Commonwealth law; (j) the unreasonable disclosure of the personal affairs of any
+
+person; and (k) the unreasonable disclosure of confidential commercial
+
+information.
+
+(3) The Commissioner shall try to achieve an appropriate balance
+
+between meeting the need referred to in subsection (2) and the desirability of ensuring that interested persons are sufficiently informed of the results of the Commissioner’s investigation, examination, monitoring or inquiry.
+
+(4) Where the Commissioner excludes a matter from a report, he or
+
+she shall give to the Minister a report setting out the excluded matter and his or her reasons for excluding the matter.
+
+Norfolk Island
+
+### (5) In this section:
+
+State includes Norfolk Island.
+
+#### 33A Commissioner may share information with other authorities
+
+(1) Subject to subsections (3) and (4), the Commissioner may share
+
+information or documents with a body covered by subsection (2) (a receiving body): (a) for the purpose of the Commissioner exercising powers, or
+
+performing functions or duties, under this Act; or
+
+244 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 33A
+
+(b) for the purpose of the receiving body exercising its powers,
+
+or performing its functions or duties.
+
+(2) The following bodies are covered by this subsection: (a) an enforcement body; (b) an alternative complaint body; (c) a State or Territory authority, or an authority of the
+
+government of a foreign country, that has functions to protect the privacy of individuals (whether or not the authority has other functions).
+
+(3) The Commissioner may only share information or documents with
+
+a receiving body under this section if: (a) the information or documents were acquired by the
+
+Commissioner in the course of exercising powers, or performing functions or duties, under this Act; and (b) the Commissioner is satisfied on reasonable grounds that the
+
+receiving body has satisfactory arrangements in place for protecting the information or documents.
+
+(4) If the Commissioner acquired the information or documents from
+
+an agency, the Commissioner may only share the information or documents with a receiving body under this section if the receiving body is an agency.
+
+(5) If information is shared with a receiving body under this section,
+
+the receiving body may use the information only for the purposes for which it was shared.
+
+(6) To avoid doubt, the Commissioner may share information or
+
+documents with a receiving body under this section whether or not the Commissioner is transferring a complaint or part of a complaint to the body.
+
+Privacy Act 1988 245
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 33B
+
+33B Commissioner may disclose certain information if in the public interest etc.
+
+Information may generally be disclosed if in the public interest
+
+(1) The Commissioner may disclose information acquired by the
+
+Commissioner in the course of exercising powers or performing functions or duties under this Act if the Commissioner is satisfied that it is in the public interest to do so.
+
+Public interest considerations
+
+(2) In determining under subsection (1) whether the Commissioner is
+
+satisfied that a disclosure is in the public interest, the Commissioner: (a) must have regard to the following: (i) the rights and interests of any complainant or
+
+respondent; (ii) whether the disclosure will, or is likely to, prejudice any
+
+investigation the Commissioner is undertaking; (iii) whether the disclosure will, or is likely to, disclose the
+
+personal information of any person; (iv) whether the disclosure will, or is likely to, disclose any
+
+confidential commercial information; (v) whether the Commissioner reasonably believes that the
+
+disclosure would be likely to prejudice one or more enforcement related activities conducted by or on behalf of an enforcement body; and (b) may have regard to any other matter the Commissioner
+
+considers relevant.
+
+(3) This section does not limit any other powers the Commissioner has
+
+to disclose information under this Act or any other law of the Commonwealth.
+
+246 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 33C
+
+### Division 3A—Assessments by, or at the direction of, the
+
+33C Commissioner may conduct an assessment relating to the Australian Privacy Principles etc.
+
+(1) The Commissioner may conduct an assessment of the following
+
+matters: (a) whether personal information held by an APP entity is being
+
+maintained and handled in accordance with the following: (i) the Australian Privacy Principles; (ii) a registered APP code that binds the entity; (b) whether information held by an entity is being maintained
+
+and handled in accordance with the following to the extent that they apply to the information: (i) the provisions of Part IIIA; (ii) the registered CR code if it binds the entity; (c) whether tax file number information held by a file number
+
+recipient is being maintained and handled in accordance with any relevant rules issued under section 17; (ca) the ability of an entity subject to Part IIIC to comply with
+
+that Part, including the extent to which the entity has processes and procedures in place to: (i) assess suspected eligible data breaches; and (ii) provide notice of eligible data breaches to the
+
+Commissioner and to individuals at risk from such breaches; (d) whether the data matching program (within the meaning of
+
+the Data-matching Program (Assistance and Tax) Act 1990) of an agency complies with Part 2 of that Act and the rules issued under section 12 of that Act; (e) whether information to which section 135AA of the National
+
+Health Act 1953 applies is being maintained and handled in accordance with the rules issued under that section;
+
+Privacy Act 1988 247
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 33C
+
+(f) whether the matching of information under Part VIIIA of the
+
+National Health Act 1953, and the handling of information relating to that matching, is in accordance with that Part, including: (i) any terms and conditions relating to the matching of the
+
+information determined by the Chief Executive Medicare under paragraph 132B(3)(a) of that Act; and (ii) the principles made by the Minister under
+
+subsection 132F(1) of that Act; (g) whether personal information (within the meaning of the
+
+Digital ID Act 2024) is being maintained and handled in accordance with the following: (i) Division 2 of Part 2 of Chapter 3 of that Act, including
+
+rules made for the purposes of that Division; (ii) the term in APP-equivalent agreements (within the
+
+meaning of that Act) prohibiting collecting, holding, using or disclosing personal information (within the meaning of that Act) in any way that would breach an Australian Privacy Principle.
+
+(2) The Commissioner may conduct the assessment in such manner as
+
+the Commissioner considers fit.
+
+(3) Without limiting subsection (2), if the Commissioner has reason to
+
+believe that an entity or file number recipient being assessed has information or a document relevant to the assessment the Commissioner may, by written notice, require the entity or file number recipient to give the information or produce the document within the period specified in the notice, which must not be less than 14 days after the notice is given to the entity or file number recipient.
+
+Note: For a failure to give information etc., see section 66.
+
+(4) The Commissioner must not give a notice under subsection (3)
+
+unless the Commissioner is satisfied that it is reasonable in the circumstances to do so, having regard to the following: (a) the public interest;
+
+248 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 33D
+
+(b) the impact on the entity or file number recipient of
+
+complying with the notice; (c) any other matters that the Commissioner considers relevant.
+
+(5) An enforcement body is not required to comply with a notice given
+
+by the Commissioner under subsection (3) if the chief executive officer of the enforcement body believes on reasonable grounds that compliance with the notice would be likely to prejudice one or more enforcement related activities conducted by or on behalf of the enforcement body.
+
+(6) Subsection (3) is subject to section 70 but it has effect regardless of
+
+any other Commonwealth law.
+
+(7) A person or entity is not liable to a penalty under the provisions of
+
+any other Commonwealth law because the person or entity gives information or produces a document when required to do so under subsection (3).
+
+(8) The Commissioner may publish information relating to an
+
+assessment on the Commissioner’s website.
+
+33D Commissioner may direct an agency to give a privacy impact assessment
+
+(1) If: (a) an agency proposes to engage in an activity or function
+
+involving the handling of personal information about individuals; and (b) the Commissioner considers that the activity or function
+
+might have a significant impact on the privacy of individuals; the Commissioner may, in writing, direct the agency to give the Commissioner, within a specified period, a privacy impact assessment about the activity or function.
+
+(2) A direction under subsection (1) is not a legislative instrument.
+
+Privacy Act 1988 249
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 33D
+
+Privacy impact assessment
+
+(3) A privacy impact assessment is a written assessment of an activity
+
+or function that: (a) identifies the impact that the activity or function might have
+
+on the privacy of individuals; and (b) sets out recommendations for managing, minimising or
+
+eliminating that impact.
+
+(4) Subsection (3) does not limit the matters that the privacy impact
+
+assessment may deal with.
+
+(5) A privacy impact assessment is not a legislative instrument.
+
+Failure to comply with a direction
+
+(6) If an agency does not comply with a direction under subsection (1),
+
+the Commissioner must advise both of the following of the failure: (a) the Minister; (b) if another Minister is responsible for the agency—that other
+
+Minister.
+
+Review
+
+(7) Before the fifth anniversary of the commencement of this section,
+
+the Minister must cause a review to be undertaken of whether this section should apply in relation to organisations.
+
+250 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Division 3B—Public inquiries
+
+#### 33E Inquiries by Commissioner
+
+Section 33E
+
+Minister may give direction or approval for public inquiry
+
+(1) The Minister may, in writing, direct the Commissioner to conduct,
+
+or approve the Commissioner conducting, a public inquiry into a specified matter or specified matters relating to privacy.
+
+(2) The direction or approval must specify: (a) the acts or practices in relation to which the inquiry is to be
+
+held; and (b) the types of personal information in relation to which the
+
+inquiry is to be held.
+
+(3) The direction or approval may also specify any one or more of the
+
+following: (a) the date by which the inquiry is to be completed; (b) any directions in relation to the manner in which the inquiry
+
+is to be conducted; (c) one or more APP entities that are to be the subject of the
+
+inquiry; (d) one or more classes of APP entities that are to be the subject
+
+of the inquiry; (e) any matters to be taken into consideration in the inquiry.
+
+### (4) The Minister may vary a direction or approval.
+
+Conduct of inquiry
+
+(5) The Commissioner must conduct a public inquiry in accordance
+
+with a direction or approval given under subsection (1).
+
+(6) Subject to any directions given by the Minister in accordance with
+
+paragraph (3)(b), the Commissioner may conduct the inquiry in such manner as the Commissioner thinks fit.
+
+Privacy Act 1988 251
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Division 3B Public inquiries Section 33F
+
+Status of inquiries, directions and approvals
+
+(7) To avoid doubt, an inquiry does not constitute an investigation
+
+under section 40 nor a preliminary inquiry under section 42.
+
+(8) A direction or approval given under subsection (1) is not a
+
+legislative instrument.
+
+#### 33F Commissioner may invite submissions
+
+The Commissioner may invite submissions on matters that are the
+
+subject of a public inquiry.
+
+Note: Under subsection 33E(6), the Commissioner may require submissions to be in writing.
+
+#### 33G Commissioner not bound by the rules of evidence
+
+The Commissioner is not bound by the rules of evidence and may
+
+inform themselves on any matter in such manner as the Commissioner thinks fit.
+
+#### 33H Commissioner’s powers
+
+Sections 44 (power to obtain information or documents) and 45
+
+(power to examine witnesses) apply for the purposes of a public inquiry in the same way as those provisions apply to an investigation under Part V.
+
+Note 1: Other provisions may apply on their own terms, such as section 33B (Commissioner may disclose certain information if in the public interest etc.).
+
+#### 33J Reporting on public inquiries
+
+Commissioner to report on public inquiries
+
+(1) After completing a public inquiry, the Commissioner must prepare
+
+a written report on the inquiry and give the report to the Minister.
+
+252 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 33J
+
+Requirement to give report to APP entity
+
+(2) If a direction or approval specifies one or more entities under
+
+paragraph 33E(3)(c), the Commissioner must give the entities a copy of the report on the day the Commissioner gives the report to the Minister under subsection (1) of this section.
+
+Contents of report
+
+(3) The report may include findings and recommendations in relation
+
+to any matter included in the report.
+
+(4) The report must not: (a) make any finding or recommendation that a specific act or
+
+practice is an interference with the privacy of an individual; or (b) include any matter which the Commissioner thinks it is
+
+desirable to exclude under section 33.
+
+Note: For paragraph (a), the report may include previously made findings or recommendations that specific acts or practices interfere with the privacy of individuals.
+
+Making report public
+
+(5) The Minister must table a copy of the report before each House of
+
+the Parliament within 15 sitting days of that House after the day on which the Minister receives the report.
+
+(6) Unless the Minister otherwise directs, the Commissioner must
+
+make the report publicly available.
+
+Note: The Commissioner may, under section 33B, publish other information relating to the inquiry if it is in the public interest to do so.
+
+Privacy Act 1988 253
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 34
+
+### Division 4—Miscellaneous
+
+34 Provisions relating to documents exempt under the Freedom of Information Act 1982
+
+(1) The Commissioner shall not, in connection with the performance
+
+of the Commissioner’s functions, give to a person information as to the existence or non-existence of a document where information as to the existence or non-existence of that document would, if included in a document of an agency, cause the last-mentioned document to be: (a) an exempt document by virtue of section 33 or
+
+subsection 37(1) or 45A(1) of the Freedom of Information Act 1982; or (b) an exempt document to the extent referred to in
+
+subsection 45A(2) or (3) of that Act.
+
+(2) The Commissioner shall not, in connection with the performance
+
+of the Commissioner’s functions, give to a person information: (a) about the contents of a document of an agency, or the
+
+contents of an official document of a Minister, being a document that is an exempt document; or (b) about exempt matter contained in a document of an agency or
+
+in an official document of a Minister.
+
+(3) An expression used in this section and in the Freedom of
+
+Information Act 1982 has the same meaning in this section as in that Act.
+
+#### 35 Direction where refusal or failure to amend exempt document
+
+(1) Where: (a) an application made under subsection 55(1) of the Freedom
+
+of Information Act 1982 for review of a decision under that Act refusing access to a document has been finally determined or otherwise disposed of;
+
+254 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Miscellaneous Division 4
+
+### Section 35
+
+(b) the period within which an appeal may be made to the
+
+Federal Court has expired or, if such an appeal has been instituted, the appeal has been determined; (c) the effect of the review and any appeal is that access is not to
+
+be given to the document; (d) the applicant has requested the agency concerned to amend
+
+the document; (e) the applicant has complained to the Commissioner under this
+
+Act about the refusal or failure of the agency to amend the document; (f) the Commissioner has, as a result of the complaint,
+
+recommended under subsection 30(3) of this Act that the agency amend the document, or amend a part of the document, to which the applicant has been refused access; and (g) as at the end of 60 days after a copy of the report containing
+
+the recommendation was served on the agency, the Commissioner: (i) still thinks that the agency should amend the document
+
+in a particular manner; and (ii) is not satisfied that the agency has amended the
+
+document in that manner; the Commissioner may direct the agency to add to the document an appropriate notation setting out particulars of the amendments of the document that the Commissioner thinks should be made.
+
+(2) An agency shall comply with a direction given in accordance with
+
+subsection (1).
+
+(3) In subsection (1), amend, in relation to a document, means amend
+
+by making a correction, deletion or addition.
+
+(4) An expression used in this section and in the Freedom of
+
+Information Act 1982 has the same meaning in this section as in that Act.
+
+Privacy Act 1988 255
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 35A
+
+35A Commissioner may recognise external dispute resolution schemes
+
+(1) The Commissioner may, by written notice, recognise an external
+
+dispute resolution scheme: (a) for an entity or a class of entities; or (b) for a specified purpose.
+
+(2) In considering whether to recognise an external dispute resolution
+
+scheme, the Commissioner must take the following matters into account: (a) the accessibility of the scheme; (b) the independence of the scheme; (c) the fairness of the scheme; (d) the accountability of the scheme; (e) the efficiency of the scheme; (f) the effectiveness of the scheme; (g) any other matter the Commissioner considers relevant.
+
+(3) The Commissioner may: (a) specify a period for which the recognition of an external
+
+dispute resolution scheme is in force; and (b) make the recognition of an external dispute resolution
+
+scheme subject to specified conditions, including conditions relating to the conduct of an independent review of the operation of the scheme; and (c) vary or revoke: (i) the recognition of an external dispute resolution
+
+scheme; or (ii) the period for which the recognition is in force; or (iii) a condition to which the recognition is subject.
+
+(4) A notice under subsection (1) is not a legislative instrument.
+
+256 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+## Part V—Investigations etc.
+
+### Division 1A—Introduction
+
+#### 36A Guide to this Part
+
+Introduction Division 1A
+
+Section 36A
+
+In general, this Part deals with complaints and investigations about acts or practices that may be an interference with the privacy of an individual.
+
+An individual may complain to the Commissioner about an act or practice that may be an interference with the privacy of the individual. If a complaint is made, the Commissioner is required to investigate the act or practice except in certain circumstances.
+
+The Commissioner may also, on his or her own initiative, investigate an act or practice that may be an interference with the privacy of an individual or a breach of Australian Privacy Principle 1.
+
+The Commissioner has a range powers relating to the conduct of investigations including powers: (a) to conciliate complaints; and (b) to make preliminary inquiries of any person; and (c) to require a person to give information or documents, or to attend a compulsory conference; and (d) to transfer matters to an alternative complaint body in certain circumstances.
+
+After an investigation, the Commissioner may make a determination in relation to the investigation. An entity to which a determination relates must comply with certain declarations included in the determination. Court proceedings may be commenced to enforce a determination.
+
+Privacy Act 1988 257
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+initiative Section 36
+
+### Division 1—Investigation of complaints and investigations
+
+### on the Commissioner’s initiative
+
+#### 36 Complaints
+
+(1) An individual may complain to the Commissioner about an act or
+
+practice that may be an interference with the privacy of the individual.
+
+(2) In the case of an act or practice that may be an interference with
+
+the privacy of 2 or more individuals, any one of those individuals may make a complaint under subsection (1) on behalf of all of the individuals.
+
+(2A) In the case of a representative complaint, this section has effect
+
+subject to section 38.
+
+### (3) A complaint shall be in writing.
+
+(4) It is the duty of members of the staff of the Commissioner to
+
+provide appropriate assistance to a person who: (a) wishes to make a complaint; and (b) requires assistance to formulate the complaint.
+
+(5) The complaint shall specify the respondent to the complaint.
+
+(6) In the case of a complaint about an act or practice of an agency: (a) if the agency is an individual or a body corporate, the agency
+
+shall be the respondent; and (b) if the agency is an unincorporated body, the principal
+
+executive of the agency shall be the respondent.
+
+(7) In the case of a complaint about an act or practice of an
+
+organisation, the organisation is the respondent.
+
+Note: Sections 98A to 98C contain further rules about how this Part operates in relation to respondent organisations that are not legal persons.
+
+258 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Division 1
+
+Section 36B
+
+(8) The respondent to a complaint about an act or practice described in
+
+subsection 13(2), (4) or (5), other than an act or practice of an agency or organisation, is the person or entity who engaged in the act or practice.
+
+#### 36B Complaints relating to the data sharing scheme
+
+(1) If a complaint relates to the data sharing scheme within the
+
+meaning of the Data Availability and Transparency Act 2022, the Commissioner may share information and documents about the complaint with the National Data Commissioner (the NDC), for the purposes of the NDC exercising powers, or performing functions or duties, under that Act.
+
+(2) The Commissioner may share only information and documents
+
+under subsection (1) that were acquired by the Commissioner in the course of exercising powers, or performing functions or duties, under this Act.
+
+(3) To avoid doubt, the Commissioner may share information or
+
+documents with the NDC under this section whether or not the Commissioner is transferring the complaint or part of the complaint to the NDC.
+
+Note: The Commissioner may transfer the complaint to the NDC under section 50, if the Commissioner is of the opinion that the complaint could have been made to the NDC.
+
+#### 37 Principal executive of agency
+
+The principal executive of an agency of a kind specified in column
+
+1 of an item in the following table is the person specified in column 2 of the item:
+
+Item
+
+Column 1 Agency
+
+Column 2 Principal executive
+
+1 Department The Secretary of the Department
+
+Privacy Act 1988 259
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+initiative Section 38
+
+Item
+
+Column 1 Agency
+
+Column 2 Principal executive
+
+2 An unincorporated body, or a tribunal, referred to in paragraph (c) of the definition of agency in subsection 6(1)
+
+The chief executive officer of the body or tribunal
+
+3 A body referred to in paragraph (d) of the definition of agency in subsection 6(1)
+
+The chief executive officer of the body
+
+4 A federal court The principal registrar of the court or the person occupying an equivalent office
+
+5 The Australian Federal Police The Commissioner of Police
+
+5A A body or tribunal referred to in paragraph (ca) of the definition of agency in subsection 6(1)
+
+The person responsible for the day-to-day management of the agency
+
+5D A court of Norfolk Island The registrar or principal registrar of the court or the person occupying an equivalent office
+
+9 An eligible hearing service provider that is an individual
+
+The individual
+
+10 An eligible hearing service provider that is not an individual
+
+The individual primarily responsible for the management of the eligible hearing service provider
+
+38 Conditions for making a representative complaint
+
+(1) A representative complaint may be lodged under section 36 only if: (a) the class members have complaints against the same person
+
+or entity; and (b) all the complaints are in respect of, or arise out of, the same,
+
+similar or related circumstances; and
+
+260 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Division 1
+
+Section 38A
+
+(c) all the complaints give rise to a substantial common issue of
+
+law or fact.
+
+(2) A representative complaint made under section 36 must: (a) describe or otherwise identify the class members; and (b) specify the nature of the complaints made on behalf of the
+
+class members; and (c) specify the nature of the relief sought; and (d) specify the questions of law or fact that are common to the
+
+complaints of the class members. In describing or otherwise identifying the class members, it is not necessary to name them or specify how many there are.
+
+(3) A representative complaint may be lodged without the consent of
+
+class members.
+
+38A Commissioner may determine that a complaint is not to continue as a representative complaint
+
+(1) The Commissioner may, on application by the respondent or on his
+
+or her own initiative, determine that a complaint should no longer continue as a representative complaint.
+
+(2) The Commissioner may only make such a determination if the
+
+Commissioner is satisfied that it is in the interests of justice to do so for any of the following reasons: (a) the costs that would be incurred if the complaint were to
+
+continue as a representative complaint are likely to exceed the costs that would be incurred if each class member lodged a separate complaint; (b) the representative complaint will not provide an efficient and
+
+effective means of dealing with the complaints of the class members; (c) the complaint was not brought in good faith as a
+
+representative complaint; (d) it is otherwise inappropriate that the complaints be pursued
+
+by means of a representative complaint.
+
+Privacy Act 1988 261
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+initiative Section 38B
+
+(3) If the Commissioner makes such a determination: (a) the complaint may be continued as a complaint by the
+
+complainant on his or her own behalf against the respondent; and (b) on the application of a person who was a class member for
+
+the purposes of the former representative complaint, the Commissioner may join that person as a complainant to the complaint as continued under paragraph (a).
+
+38B Additional rules applying to the determination of representative complaints
+
+(1) The Commissioner may, on application by a class member, replace
+
+the complainant with another class member, where it appears to the Commissioner that the complainant is not able adequately to represent the interests of the class members.
+
+(2) A class member may, by notice in writing to the Commissioner,
+
+withdraw from a representative complaint: (a) if the complaint was lodged without the consent of the
+
+member—at any time; or (b) otherwise—at any time before the Commissioner begins to
+
+hold an inquiry into the complaint.
+
+Note: If a class member withdraws from a representative complaint that relates to a matter, the former member may make a complaint under section 36 that relates to the matter.
+
+(3) The Commissioner may at any stage direct that notice of any
+
+matter be given to a class member or class members.
+
+#### 38C Amendment of representative complaints
+
+If the Commissioner is satisfied that a complaint could be dealt
+
+with as a representative complaint if the class of persons on whose behalf the complaint is lodged is increased, reduced or otherwise altered, the Commissioner may amend the complaint so that the complaint can be dealt with as a representative complaint.
+
+262 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Division 1
+
+### Section 39
+
+39 Class member for representative complaint not entitled to lodge individual complaint
+
+A person who is a class member for a representative complaint is
+
+not entitled to lodge a complaint in respect of the same subject matter.
+
+#### 40 Investigations
+
+(1) Subject to subsection (1A), the Commissioner shall investigate an
+
+act or practice if: (a) the act or practice may be an interference with the privacy of
+
+an individual; and (b) a complaint about the act or practice has been made under
+
+section 36.
+
+(1A) The Commissioner must not investigate a complaint if the
+
+complainant did not complain to the respondent before making the complaint to the Commissioner under section 36. However, the Commissioner may decide to investigate the complaint if he or she considers that it was not appropriate for the complainant to complain to the respondent.
+
+(1B) Subsection (1A) does not apply if the complaint is about an act or
+
+practice that may breach: (a) section 20R, 20T, 21T or 21V (which are about access to,
+
+and correction of, credit reporting information etc.); or (b) a provision of the registered CR code that relates to that
+
+section.
+
+(2) The Commissioner may, on the Commissioner’s own initiative,
+
+investigate an act or practice if: (a) the act or practice may be an interference with the privacy of
+
+an individual or a breach of Australian Privacy Principle 1; and (b) the Commissioner thinks it is desirable that the act or practice
+
+be investigated.
+
+Privacy Act 1988 263
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+initiative Section 40A
+
+### (3) This section has effect subject to section 41.
+
+#### 40A Conciliation of complaints
+
+(1) If: (a) a complaint about an act or practice is made under section 36;
+
+and (b) the Commissioner considers it is reasonably possible that the
+
+complaint may be conciliated successfully; the Commissioner must make a reasonable attempt to conciliate the complaint.
+
+(2) Subsection (1) does not apply if the Commissioner has decided
+
+under section 41 or 50 not to investigate, or not to investigate further, the act or practice.
+
+(3) If the Commissioner is satisfied that there is no reasonable
+
+likelihood that the complaint will be resolved by conciliation, the Commissioner must, in writing, notify the complainant and respondent of that matter.
+
+(4) If a notification is given under subsection (3), the Commissioner
+
+may decide not to investigate, or not to investigate further, the act or practice.
+
+(5) Evidence of anything said or done in the course of the conciliation
+
+is not admissible in any hearing before the Commissioner, or in any legal proceedings, relating to complaint or the act or practice unless: (a) the complainant and respondent otherwise agree; or (b) the thing was said or done in furtherance of the commission
+
+of a fraud or an offence, or the commission of an act that renders a person liable to a civil penalty.
+
+264 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Division 1
+
+### Section 41
+
+41 Commissioner may or must decide not to investigate etc. in certain circumstances
+
+(1) The Commissioner may decide not to investigate, or not to
+
+investigate further, an act or practice about which a complaint has been made under section 36 if the Commissioner is satisfied that: (a) the act or practice is not an interference with the privacy of
+
+an individual; or (c) the complaint was made more than 12 months after the
+
+complainant became aware of the act or practice; or (d) the complaint is frivolous, vexatious, misconceived, lacking
+
+in substance or not made in good faith; or (da) an investigation, or further investigation, of the act or
+
+practice is not warranted having regard to all the circumstances; or (db) the complainant has not responded, within the period
+
+specified by the Commissioner, to a request for information in relation to the complaint; or (dc) the act or practice is being dealt with, or has been dealt with,
+
+by a recognised external dispute resolution scheme; or (dd) the act or practice would be more effectively or appropriately
+
+dealt with by a recognised external dispute resolution scheme; or (e) the act or practice is the subject of an application under
+
+another Commonwealth law, or a State or Territory law, and the subject-matter of the complaint has been, or is being, dealt with adequately under that law; or (f) another Commonwealth law, or a State or Territory law,
+
+provides a more appropriate remedy for the act or practice that is the subject of the complaint.
+
+(1A) The Commissioner must not investigate, or investigate further, an
+
+act or practice about which a complaint has been made under section 36 if the Commissioner is satisfied that the complainant has withdrawn the complaint.
+
+Privacy Act 1988 265
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+initiative Section 42
+
+(2) The Commissioner may decide not to investigate, or not to
+
+investigate further, an act or practice about which a complaint has been made under section 36 if the Commissioner is satisfied that the complainant has complained to the respondent about the act or practice and either: (a) the respondent has dealt, or is dealing, adequately with the
+
+complaint; or (b) the respondent has not yet had an adequate opportunity to
+
+deal with the complaint.
+
+(3) The Commissioner may defer the investigation or further
+
+investigation of an act or practice about which a complaint has been made under section 36 if: (a) an application has been made by the respondent for a
+
+determination under section 72 in relation to the act or practice; and (b) the Commissioner is satisfied that the interests of persons
+
+affected by the act or practice would not be unreasonably prejudiced if the investigation or further investigation were deferred until the application had been disposed of.
+
+#### 42 Preliminary inquiries
+
+(1) Where a complaint has been made to the Commissioner, the
+
+Commissioner may, for the purpose of determining: (a) whether the Commissioner has power to investigate the
+
+matter to which the complaint relates; or (b) whether the Commissioner may, in his or her discretion,
+
+decide not to investigate the matter; make inquiries of the respondent or any other person.
+
+(2) The Commissioner may make inquiries of any person for the
+
+purpose of determining whether to investigate an act or practice under subsection 40(2).
+
+266 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+#### 43 Conduct of investigations
+
+Division 1
+
+### Section 43
+
+(1) Before commencing an investigation of a matter to which a
+
+complaint relates, the Commissioner shall inform the respondent that the matter is to be investigated.
+
+(1AA) Before commencing an investigation of an act or practice of a
+
+person or entity under subsection 40(2), the Commissioner must inform the person or entity that the act or practice is to be investigated.
+
+(1A) Before starting to investigate an act done, or practice engaged in,
+
+by a contracted service provider for the purpose of providing (directly or indirectly) a service to an agency under a Commonwealth contract, the Commissioner must also inform the agency that the act or practice is to be investigated.
+
+Note: See subsection 6(9) about provision of services to an agency.
+
+(2) An investigation under this Division shall be conducted in such
+
+manner as the Commissioner thinks fit.
+
+(3) The Commissioner may, for the purposes of an investigation,
+
+obtain information from such persons, and make such inquiries, as he or she thinks fit.
+
+(4) The Commissioner may make a determination under section 52 in
+
+relation to an investigation under this Division without holding a hearing, if: (a) it appears to the Commissioner that the matter to which the
+
+investigation relates can be adequately determined in the absence of: (i) in the case of an investigation under subsection 40(1)—
+
+the complainant and respondent; or (ii) otherwise—the person or entity that engaged in the act
+
+or practice that is being investigated; and (b) the Commissioner is satisfied that there are no unusual
+
+circumstances that would warrant the Commissioner holding a hearing; and
+
+Privacy Act 1988 267
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+initiative Section 43
+
+(c) an application for a hearing has not been made under
+
+section 43A.
+
+(7) Where, in connection with an investigation of a matter under this
+
+Division, the Commissioner proposes to hold a hearing, or proposes to make a requirement of a person under section 44, the Commissioner shall, if he or she has not previously informed the responsible Minister (if any) that the matter is being investigated, inform that Minister accordingly.
+
+(8) The Commissioner may, either before or after the completion of an
+
+investigation under this Division, discuss any matter that is relevant to the investigation with a Minister concerned with the matter.
+
+(8A) Subsection (8) does not allow the Commissioner to discuss a
+
+matter relevant to an investigation of a breach of the Australian Privacy Principles or a registered APP code with a Minister, unless the investigation is of an act done, or practice engaged in: (a) by a contracted service provider for a Commonwealth
+
+contract; and (b) for the purpose of providing a service to an agency to meet
+
+(directly or indirectly) an obligation under the contract.
+
+(9) Where the Commissioner forms the opinion, either before or after
+
+completing an investigation under this Division, that there is evidence that an officer of an agency has been guilty of a breach of duty or of misconduct and that the evidence is, in all the circumstances, of sufficient force to justify the Commissioner doing so, the Commissioner shall bring the evidence to the notice of: (a) an appropriate officer of an agency; or (b) if the Commissioner thinks that there is no officer of an
+
+agency to whose notice the evidence may appropriately be drawn—an appropriate Minister.
+
+268 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Division 1
+
+Section 43A
+
+#### 43A Interested party may request a hearing
+
+(1) An interested party in relation to an investigation under this
+
+Division may, in writing, request that the Commissioner hold a hearing before the Commissioner makes a determination under section 52 in relation to the investigation.
+
+(2) If an interested party makes request under subsection (1), the
+
+Commissioner must: (a) notify any other interested party of the request; and (b) give all interested parties a reasonable opportunity to make a
+
+submission about the request; and (c) decide whether or not to hold a hearing.
+
+### (3) In this section:
+
+interested party in relation to an investigation means: (a) in the case of an investigation under subsection 40(1)—the
+
+complainant or respondent; or (b) otherwise—the person or entity that engaged in the act or
+
+practice that is being investigated.
+
+#### 44 Power to obtain information and documents
+
+(1) If the Commissioner has reason to believe that a person has
+
+information or a document relevant to an investigation under this Division, the Commissioner may give to the person a written notice requiring the person: (a) to give the information to the Commissioner in writing
+
+signed by the person or, in the case of a body corporate, by an officer of the body corporate; or (b) to produce the document to the Commissioner.
+
+Note: For a failure to give information etc., see section 66.
+
+(2) A notice given by the Commissioner under subsection (1) shall
+
+state: (a) the place at which the information or document is to be given
+
+or produced to the Commissioner; and
+
+Privacy Act 1988 269
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+initiative Section 45
+
+(b) the time at which, or the period within which, the information
+
+or document is to be given or produced.
+
+(2A) If documents are produced to the Commissioner in accordance
+
+with a requirement under subsection (1), the Commissioner: (a) may take possession of, and may make copies of, or take
+
+extracts from, the documents; and (b) may retain possession of the documents for any period that is
+
+necessary for the purposes of the investigation to which the documents relate; and (c) during that period must permit a person who would be
+
+entitled to inspect any one or more of the documents if they were not in the Commissioner’s possession to inspect at all reasonable times any of the documents that the person would be so entitled to inspect.
+
+(3) If the Commissioner has reason to believe that a person has
+
+information relevant to an investigation under this Division, the Commissioner may give to the person a written notice requiring the person to attend before the Commissioner at a time and place specified in the notice to answer questions relevant to the investigation.
+
+(4) This section is subject to section 70 but it has effect regardless of
+
+any other Commonwealth law.
+
+(5) A person is not liable to a penalty under the provisions of any other
+
+Commonwealth law because he or she gives information, produces a document or answers a question when required to do so under this Division.
+
+#### 45 Power to examine witnesses
+
+(1) The Commissioner may administer an oath or affirmation to a
+
+person required under section 44 to attend before the Commissioner and may examine such a person on oath or affirmation.
+
+270 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Division 1
+
+### Section 46
+
+(2) The oath or affirmation to be taken or made by a person for the
+
+purposes of this section is an oath or affirmation that the answers the person will give will be true.
+
+#### 46 Directions to persons to attend compulsory conference
+
+(1) For the purposes of performing the Commissioner’s functions in
+
+relation to a complaint, the Commissioner may, by written notice, direct: (a) the complainant; (b) the respondent; and (c) any other person who, in the opinion of the Commissioner, is
+
+likely to be able to provide information relevant to the matter to which the complaint relates or whose presence at the conference is, in the opinion of the Commissioner, likely to assist in connection with the performance of the Commissioner’s functions in relation to the complaint; to attend, at a time and place specified in the notice, a conference presided over by the Commissioner.
+
+(2) A person who has been directed to attend a conference and who: (a) fails to attend as required by the direction; or (b) fails to attend from day to day unless excused, or released
+
+from further attendance, by the Commissioner; commits an offence punishable on conviction: (c) in the case of an individual—by imprisonment for a period
+
+not exceeding 6 months or a fine not exceeding 10 penalty units, or both; or (d) in the case of a body corporate—by a fine not exceeding 50
+
+penalty units.
+
+(2A) Subsection (2) does not apply if the person has a reasonable
+
+excuse.
+
+Note: A defendant bears an evidential burden in relation to the matter in subsection (2A) (see subsection 13.3(3) of the Criminal Code).
+
+Privacy Act 1988 271
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+initiative Section 47
+
+(3) A person who has been directed under subsection (1) to attend a
+
+conference is entitled to be paid by the Commonwealth a reasonable sum for the person’s attendance at the conference.
+
+(4) The Commissioner may, in a notice given to a person under
+
+subsection (1), require the person to produce such documents at the conference as are specified in the notice.
+
+Note: For a failure to give information etc., see section 66.
+
+#### 47 Conduct of compulsory conference
+
+(1) The Commissioner may require a person attending a conference
+
+under this Division to produce a document.
+
+Note: For a failure to give information etc., see section 66.
+
+(2) A conference under this Division shall be held in private and shall
+
+be conducted in such manner as the Commissioner thinks fit.
+
+(3) A body of persons, whether corporate or unincorporate, that is
+
+directed under section 46 to attend a conference shall be deemed to attend if a member, officer or employee of that body attends on behalf of that body.
+
+(4) Except with the consent of the Commissioner: (a) an individual is not entitled to be represented at the
+
+conference by another person; and (b) a body of persons, whether corporate or unincorporate, is not
+
+entitled to be represented at the conference by a person other than a member, officer or employee of that body.
+
+48 Complainant and certain other persons to be informed of various matters
+
+(1) Where the Commissioner decides not to investigate, or not to
+
+investigate further, a matter to which a complaint relates, the Commissioner shall, as soon as practicable and in such manner as the Commissioner thinks fit, inform the complainant and the respondent of the decision and of the reasons for the decision.
+
+272 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Division 1
+
+### Section 49
+
+(2) If the Commissioner decides not to investigate (at all or further) an
+
+act done, or practice engaged in, by a contracted service provider for the purpose of providing (directly or indirectly) a service to an agency under a Commonwealth contract, the Commissioner must also inform the agency of the decision.
+
+Note: See subsection 6(9) about provision of services to an agency.
+
+49 Investigation under section 40 to cease if certain offences may have been committed
+
+(1) Where, in the course of an investigation under section 40, the
+
+Commissioner forms the opinion that a tax file number offence, a healthcare identifier offence, an AML/CTF verification offence or a credit reporting offence may have been committed, the Commissioner shall: (a) inform the Commissioner of Police or the Director of Public
+
+Prosecutions of that opinion; (b) in the case of an investigation under subsection 40(1), give a
+
+copy of the complaint to the Commissioner of Police or the Director of Public Prosecutions, as the case may be; and (c) subject to subsection (3), discontinue the investigation except
+
+to the extent that it concerns matters unconnected with the offence that the Commissioner believes may have been committed.
+
+(2) If, after having been informed of the Commissioner’s opinion
+
+under paragraph (1)(a), the Commissioner of Police or the Director of Public Prosecutions, as the case may be, decides that the matter will not be, or will no longer be, the subject of proceedings for an offence, he or she shall give a written notice to that effect to the Commissioner.
+
+(3) Upon receiving such a notice the Commissioner may continue the
+
+investigation discontinued under paragraph (1)(c).
+
+### (4) In subsection (1):
+
+Privacy Act 1988 273
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+initiative Section 49A
+
+AML/CTF verification offence (short for anti-money laundering and counter-terrorism financing offence) means an offence against section 35H, 35J or 35K of the Anti-Money Laundering and Counter-Terrorism Financing Act 2006.
+
+credit reporting offence means: (a) an offence against subsection 20P(1), 21R(1) or (2), 24(1) or
+
+(2) or 24A(1) or (2); or (b) an offence against section 6 of the Crimes Act 1914, or
+
+section 11.1, 11.4 or 11.5 of the Criminal Code, being an offence that relates to an offence referred to in paragraph (a) of this definition.
+
+tax file number offence means: (a) an offence against section 8WA or 8WB of the Taxation
+
+Administration Act 1953; or (b) an offence against section 6 of the Crimes Act 1914, or
+
+section 11.1, 11.4 or 11.5 of the Criminal Code, being an offence that relates to an offence referred to in paragraph (a) of this definition.
+
+49A Investigation under section 40 to cease if civil penalty provision under Personal Property Securities Act 2009 may have been contravened
+
+(1) If, in the course of an investigation under section 40, the
+
+Commissioner forms the opinion that subsection 172(3) of the Personal Property Securities Act 2009 (civil penalty for searching otherwise than for authorised purposes) may have been contravened, the Commissioner must: (a) inform the Registrar of Personal Property Securities under
+
+the Personal Property Securities Act 2009 of that opinion; and (b) in the case of an investigation under subsection 40(1), give a
+
+copy of the complaint to the Registrar of Personal Property Securities; and
+
+274 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Division 1
+
+Section 49B
+
+(c) discontinue the investigation except to the extent that it
+
+concerns matters unconnected with the contravention that the Commissioner believes may have taken place.
+
+(2) The Registrar of Personal Property Securities must notify the
+
+Commissioner in writing if, after having been informed of the Commissioner’s opinion under paragraph (1)(a), the Registrar decides: (a) not to apply for an order under section 222 of the Personal
+
+Property Securities Act 2009; or (b) to discontinue a proceeding that is an application for an order
+
+under section 222 of that Act.
+
+(3) Upon receiving a notice under subsection (2), the Commissioner
+
+may continue an investigation discontinued under paragraph (1)(c).
+
+49B Transfer of complaints from the Inspector-General of Intelligence and Security
+
+An individual is taken to have complained to the Information
+
+Commissioner under subsection 36(1) in respect of action taken by ACC, the Australian Federal Police, AUSTRAC or the Department of Home Affairs (within the meaning of the Inspector-General of Intelligence and Security Act 1986) if the Inspector-General of Intelligence and Security transfers all or part of the complaint to the Information Commissioner under section 32AG of the Inspector-General of Intelligence and Security Act 1986.
+
+#### 50 Reference of matters to other authorities
+
+### (1) In this Act:
+
+alternative complaint body means: (a) the Australian Human Rights Commission; or (aa) the National Data Commissioner; or (b) the Ombudsman; or (ba) the eSafety Commissioner; or (c) the Postal Industry Ombudsman; or
+
+Privacy Act 1988 275
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+initiative Section 50
+
+(d) the Overseas Students Ombudsman; or (da) the National Student Ombudsman; or (e) the Australian Public Service Commissioner; or (f) the Inspector-General of Intelligence and Security; or (g) a recognised external dispute resolution scheme.
+
+Australian Human Rights Commission includes a person performing functions of that Commission.
+
+(2) Where, before the Commissioner commences, or after the
+
+Commissioner has commenced, to investigate a matter to which a complaint relates, the Commissioner forms the opinion that: (a) a complaint relating to that matter has been, or could have
+
+been, made by the complainant: (i) to the Australian Human Rights Commission under
+
+Division 3 of Part II of the Australian Human Rights Commission Act 1986; or (ia) to the National Data Commissioner under Part 5.3 of the
+
+Data Availability and Transparency Act 2022; or (ii) to the Ombudsman under the Ombudsman Act 1976; or (iia) to the Ombudsman under a law in force in an external
+
+Territory other than the Ombudsman Act 1976; or (iii) to the Postal Industry Ombudsman under the
+
+Ombudsman Act 1976; or (iv) to the Overseas Students Ombudsman under the
+
+Ombudsman Act 1976; or (ivaa) to the National Student Ombudsman under the
+
+Ombudsman Act 1976; or (iva) to the Inspector-General of Intelligence and Security
+
+under the Inspector-General of Intelligence and Security Act 1986; or (v) to a recognised external dispute resolution scheme; or (b) an application with respect to that matter has been, or could
+
+have been, made by the complainant to the Australian Public Service Commissioner under the Public Service Act 1999;
+
+276 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Division 1
+
+### Section 50
+
+and that that matter could be more conveniently or effectively dealt with by the alternative complaint body, the Commissioner may decide not to investigate the matter, or not to investigate the matter further, as the case may be, and, if the Commissioner so decides, he or she shall: (c) transfer the complaint to the alternative complaint body; and (d) give notice in writing to the complainant stating that the
+
+complaint has been so transferred; and (e) give to the alternative complaint body any information or
+
+documents that relate to the complaint and are in the possession, or under the control, of the Commissioner.
+
+(3) A complaint transferred under subsection (2) shall be taken to be: (a) a complaint made: (i) to the Australian Human Rights Commission under
+
+Division 3 of Part II of the Australian Human Rights Commission Act 1986; or (ia) to the National Data Commissioner under Part 5.3 of the
+
+Data Availability and Transparency Act 2022; or (ii) to the Ombudsman under the Ombudsman Act 1976; or (iia) to the Ombudsman under the law mentioned in
+
+subparagraph 50(2)(a)(iia); or (iii) to the Postal Industry Ombudsman under the
+
+Ombudsman Act 1976; or (iv) to the Overseas Students Ombudsman under the
+
+Ombudsman Act 1976; or (ivaa) to the National Student Ombudsman under the
+
+Ombudsman Act 1976; or (iva) to the Inspector-General of Intelligence and Security
+
+under the Inspector-General of Intelligence and Security Act 1986; or (v) to the recognised external dispute resolution scheme; or (b) an application made to the Australian Public Service
+
+Commissioner under the Public Service Act 1999; as the case requires.
+
+Privacy Act 1988 277
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+initiative Section 50A
+
+#### 50A Substitution of respondent to complaint
+
+(1) This section lets the Commissioner substitute an agency for an
+
+organisation as respondent to a complaint if: (a) the organisation is a contracted service provider for a
+
+Commonwealth contract to provide services to the agency; and (b) before the Commissioner makes a determination under
+
+section 52 in relation to the complaint, the organisation: (i) dies or ceases to exist; or (ii) becomes bankrupt or insolvent, commences to be
+
+wound up, applies to take the benefit of a law for the relief of bankrupt or insolvent debtors, compounds with creditors or makes an assignment of any property for the benefit of creditors.
+
+(2) The Commissioner may amend the complaint to specify as a
+
+respondent to the complaint the agency or its principal executive, instead of the organisation.
+
+Note 1: The complaint still relates to the act or practice of the organisation.
+
+Note 2: The Commissioner may determine under section 53B that the determination applies in relation to an agency if the organisation has not complied with the determination.
+
+(3) Before amending the complaint, the Commissioner must: (a) give the agency a notice stating that the Commissioner
+
+proposes to amend the complaint and stating the reasons for the proposal; and (b) give the agency an opportunity to appear before the
+
+Commissioner and to make oral and/or written submissions relating to the proposed amendment.
+
+(4) If the Commissioner amends the complaint after starting to
+
+investigate it, the Commissioner is taken to have satisfied subsection 43(1A) in relation to the agency.
+
+278 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Division 1
+
+### Section 51
+
+#### 51 Effect of investigation by Auditor-General
+
+Where the Commissioner becomes aware that a matter being
+
+investigated by the Commissioner is, or is related to, a matter that is under investigation by the Auditor-General, the Commissioner shall not, unless the Commissioner and Auditor-General agree to the contrary, continue to investigate the matter until the investigation by the Auditor-General has been completed.
+
+Privacy Act 1988 279
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 52
+
+### Division 2—Determinations following investigation of
+
+### complaints
+
+#### 52 Determination of the Commissioner
+
+(1) After investigating a complaint, the Commissioner may: (a) make a determination dismissing the complaint; or (b) find the complaint substantiated and make a determination
+
+that includes one or more of the following: (i) a declaration: (A) where the principal executive of an agency is
+
+the respondent—that the agency has engaged in conduct constituting an interference with the privacy of an individual and must not repeat or continue such conduct; or (B) in any other case—that the respondent has
+
+engaged in conduct constituting an interference with the privacy of an individual and must not repeat or continue such conduct; (ia) a declaration that the respondent must take specified
+
+steps within a specified period to ensure that such conduct is not repeated or continued; (ii) a declaration that the respondent must perform any
+
+reasonable act or course of conduct to redress any loss or damage suffered, or to prevent or reduce any reasonably foreseeable loss or damage that is likely to be suffered, by the complainant; (iia) a declaration that the respondent must prepare and
+
+publish, or otherwise communicate, a statement about the conduct (see section 52A); (iii) a declaration that the complainant is entitled to a
+
+specified amount by way of compensation for any loss or damage suffered by reason of the act or practice the subject of the complaint;
+
+280 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 52
+
+(iv) a declaration that it would be inappropriate for any
+
+further action to be taken in the matter.
+
+(1A) After investigating an act or practice of a person or entity under
+
+subsection 40(2), the Commissioner may make a determination that includes one or more of the following: (a) a declaration that: (i) the act or practice is an interference with the privacy of
+
+one or more individuals; and (ii) the person or entity must not repeat or continue the act
+
+or practice; (b) a declaration that the person or entity must take specified
+
+steps within a specified period to ensure that the act or practice is not repeated or continued; (ba) a declaration that the respondent must prepare and publish, or
+
+otherwise communicate, a statement about the conduct (see section 52A); (c) a declaration that the person or entity must perform any
+
+reasonable act or course of conduct to redress any loss or damage suffered, or to prevent or reduce any reasonably foreseeable loss or damage that is likely to be suffered, by one or more of those individuals; (d) a declaration that one or more of those individuals are
+
+entitled to a specified amount by way of compensation for any loss or damage suffered by reason of the act or practice; (e) a declaration that it would be inappropriate for any further
+
+action to be taken in the matter.
+
+(1AAA) Without limiting subparagraph (1)(b)(ia) or paragraph (1A)(b), the
+
+steps specified by the Commissioner may include a requirement for the respondent to: (a) engage, in consultation with the Commissioner, a suitably
+
+qualified independent adviser to review: (i) the acts or practices engaged in by the respondent that
+
+were the subject of the complaint; and
+
+Privacy Act 1988 281
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 52
+
+(ii) the steps (if any) taken by the respondent to ensure that
+
+the conduct referred to in the determination is not repeated or continued; and (iii) any other matter specified in the declaration that is
+
+relevant to those acts or practices, or that complaint; and (b) provide a copy of the review to the Commissioner.
+
+(1AA) The steps specified by the Commissioner under
+
+subparagraph (1)(b)(ia) or paragraph (1A)(b) must be reasonable and appropriate.
+
+(1AB) The loss or damage referred to in paragraph (1)(b) or
+
+subsection (1A) includes: (a) injury to the feelings of the complainant or individual; and (b) humiliation suffered by the complainant or individual.
+
+(1B) A determination of the Commissioner under subsection (1) or (1A)
+
+is not binding or conclusive between any of the parties to the determination.
+
+(2) The Commissioner shall, in a determination, state any findings of
+
+fact upon which the determination is based.
+
+(3) In a determination under paragraph (1)(a) or (b) (other than a
+
+determination made on a representative complaint), the Commissioner may include a declaration that the complainant is entitled to a specified amount to reimburse the complainant for expenses reasonably incurred by the complainant in connection with the making of the complaint and the investigation of the complaint.
+
+(3A) A determination under paragraph (1)(b) or subsection (1A) may
+
+include any order that the Commissioner considers necessary or appropriate.
+
+### (4) A determination by the Commissioner under
+
+subparagraph (1)(b)(iii) on a representative complaint: (a) may provide for payment of specified amounts or of amounts
+
+worked out in a manner specified by the Commissioner; and
+
+282 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 52A
+
+(b) if the Commissioner provides for payment in accordance
+
+with paragraph (a), must make provision for the payment of the money to the complainants concerned.
+
+### (5) If the Commissioner makes a determination under
+
+subparagraph (1)(b)(iii) on a representative complaint, the Commissioner may give such directions (if any) as he or she thinks just in relation to: (a) the manner in which a class member is to establish his or her
+
+entitlement to the payment of an amount under the determination; and (b) the manner for determining any dispute regarding the
+
+entitlement of a class member to the payment.
+
+(5A) The Commissioner may publish a determination made under this
+
+section on the Commissioner’s website.
+
+### (6) In this section:
+
+complainant, in relation to a representative complaint, means the class members.
+
+52A Determination—requirement to notify conduct constituting interference with privacy of individual
+
+(1) If a determination under section 52 includes a declaration
+
+mentioned in subparagraph 52(1)(b)(iia) or paragraph 52(1A)(ba), the respondent must, within 14 days after receiving the determination (or such longer period as the Commissioner allows): (a) prepare a statement, in consultation with the Commissioner,
+
+setting out: (i) the identity and contact details of the respondent or, if
+
+the respondent is the principal executive of an agency, the agency; and (ii) a description of the conduct engaged in by the
+
+respondent that constitutes the interference with the privacy of an individual; and
+
+Privacy Act 1988 283
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 53
+
+(iii) the steps (if any) undertaken, or to be undertaken, by the
+
+respondent to ensure the conduct is not repeated or continued; and (iv) any other information required by the declaration to be
+
+included in the statement; and (b) if required by the declaration—give a copy of the statement
+
+to the complainant or, if the complaint is a representative complaint, to each class member identified as affected by the determination, in the manner specified by the declaration; and (c) if required by the declaration—publish, or otherwise
+
+communicate, the statement in the manner specified by the declaration; and (d) give the Commissioner, within 14 days after the end of the
+
+period specified in the declaration, evidence that the actions required by paragraphs (b) and (c) were taken in accordance with this section and the declaration.
+
+(2) The matters specified by the Commissioner for the purposes of
+
+subsection (1) must be reasonable and appropriate.
+
+53 Determination must identify the class members who are to be affected by the determination
+
+A determination under section 52 on a representative complaint
+
+must describe or otherwise identify those of the class members who are to be affected by the determination.
+
+#### 53A Notice to be given to outsourcing agency
+
+(1) If the Commissioner makes a determination that applies in relation
+
+to a contracted service provider for a Commonwealth contract, the Commissioner: (a) must give a copy of the determination to each agency: (i) to which services are or were to be provided under the
+
+contract; and
+
+284 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 53B
+
+(ii) to which the Commissioner considers it appropriate to
+
+give a copy; and (b) may give such an agency a written recommendation of any
+
+measures that the Commissioner considers appropriate.
+
+(2) The Commissioner may give an agency a recommendation only
+
+after consulting the agency.
+
+(3) An agency that receives a recommendation from the Commissioner
+
+must tell the Commissioner in writing of any action the agency proposes to take in relation to the recommendation. The agency must do so within 60 days of receiving the recommendation.
+
+#### 53B Substituting an agency for a contracted service provider
+
+(1) This section applies if: (a) a determination under section 52 applies in relation to a
+
+contracted service provider for a Commonwealth contract; and (b) the determination includes: (i) a declaration under subparagraph 52(1)(b)(iii) that the
+
+complainant is entitled to a specified amount by way of compensation; or (ia) a declaration under paragraph 52(1A)(d) that one or
+
+more individuals are entitled to a specified amount by way of the compensation; or (ii) a declaration under subsection 52(3) that the
+
+complainant is entitled to a specified amount by way of reimbursement; and (c) at a particular time after the determination was made, the
+
+provider: (i) dies or ceases to exist; or (ii) becomes bankrupt or insolvent, commences to be
+
+wound up, applies to take the benefit of a law for the relief of bankrupt or insolvent debtors, compounds with creditors or makes an assignment of any property for the benefit of creditors; and
+
+Privacy Act 1988 285
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 53B
+
+(d) at that time, the complainant or individuals had not been paid
+
+the whole or part of an amount referred to in paragraph (b).
+
+(2) The Commissioner may determine in writing that the determination
+
+under section 52 instead applies in relation to a specified agency to which services were or were to be provided under the contract. The determination has effect according to its terms for the purposes of section 60.
+
+Note: This means that the amount owed by the contracted service provider will be a debt due by the agency to the complainant or individuals.
+
+(3) Before making a determination, the Commissioner must give the
+
+agency: (a) a notice stating that the Commissioner proposes to make the
+
+determination and stating the reasons for the proposal; and (b) an opportunity to appear before the Commissioner and to
+
+make oral and/or written submissions relating to the proposed determination.
+
+286 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 54
+
+### Division 3—Enforcement of determinations
+
+#### 54 Application of Division
+
+(1) This Division applies to a determination made under section 52
+
+after the commencement of this Division, except where the determination applies in relation to an agency or the principal executive of an agency.
+
+### (2) In this section:
+
+agency does not include an eligible hearing service provider.
+
+#### 55 Obligations of organisations and small business operators
+
+If the determination applies in relation to an organisation or small
+
+business operator, the organisation or operator: (a) must not repeat or continue conduct that is covered by a
+
+declaration included in the determination under sub-subparagraph 52(1)(b)(i)(B) or paragraph 52(1A)(a); and (b) must take the steps that are specified in a declaration
+
+included in the determination under subparagraph 52(1)(b)(ia) or paragraph 52(1A)(b) within the specified period; and (c) must perform the act or course of conduct that is covered by
+
+a declaration included in the determination under subparagraph 52(1)(b)(ii) or paragraph 52(1A)(c); and (d) must prepare and publish, or otherwise communicate, a
+
+statement in accordance with a declaration included in the determination under subparagraph 52(1)(b)(iia) or paragraph 52(1A)(ba) and section 52A.
+
+Privacy Act 1988 287
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Division 3 Enforcement of determinations Section 55A
+
+55A Proceedings in the Federal Court or Federal Circuit and Family Court of Australia (Division 2) to enforce a determination
+
+(1) The following persons may commence proceedings in the Federal
+
+Court or the Federal Circuit and Family Court of Australia (Division 2) for an order to enforce a determination: (a) if the determination was made under subsection 52(1)—the
+
+complainant; (b) the Commissioner.
+
+(2) If the court is satisfied that the person or entity in relation to which
+
+the determination applies has engaged in conduct that constitutes an interference with the privacy of an individual, the court may make such orders (including a declaration of right) as it thinks fit.
+
+(3) The court may, if it thinks fit, grant an interim injunction pending
+
+the determination of the proceedings.
+
+(4) The court is not to require a person, as a condition of granting an
+
+interim injunction, to give an undertaking as to damages.
+
+(5) The court is to deal by way of a hearing de novo with the question
+
+whether the person or entity in relation to which the determination applies has engaged in conduct that constitutes an interference with the privacy of an individual.
+
+(6) Despite subsection (5), the court may receive any of the following
+
+as evidence in proceedings about a determination made by the Commissioner under section 52: (a) a copy of the Commissioner’s written reasons for the
+
+determination; (b) a copy of any document that was before the Commissioner; (c) a copy of a record (including any tape recording) of any
+
+hearing before the Commissioner (including any oral submissions made).
+
+(7A) In conducting a hearing and making an order under this section, the
+
+court is to have due regard to the objects of this Act.
+
+288 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### (8) In this section:
+
+Section 55B
+
+complainant, in relation to a representative complaint, means any of the class members.
+
+#### 55B Evidentiary certificate
+
+(1) The Commissioner may issue a written certificate setting out the
+
+findings of fact upon which the Commissioner based his or her determination that: (a) a specified APP entity had breached an Australian Privacy
+
+Principle; or (b) a specified APP entity had breached a registered APP code
+
+that binds the entity.
+
+(3) In any proceedings under section 55A, a certificate under
+
+subsection (1) of this section is prima facie evidence of the facts found by the Commissioner and set out in the certificate. However, the certificate is not prima facie evidence of a finding that: (a) a specified APP entity had breached an Australian Privacy
+
+Principle; or (b) a specified APP entity had breached a registered APP code
+
+that binds the entity.
+
+(4) A document purporting to be a certificate under subsection (1) must,
+
+unless the contrary is established, be taken to be a certificate and to have been properly given.
+
+Privacy Act 1988 289
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+agencies Section 57
+
+### Division 4—Review and enforcement of determinations
+
+### involving Commonwealth agencies
+
+#### 57 Application of Division
+
+(1) This Division applies to a determination that is made under
+
+section 52 and that applies in relation to an agency or the principal executive of an agency.
+
+### (2) In this section:
+
+agency does not include an eligible hearing service provider.
+
+#### 58 Obligations of agencies
+
+If this Division applies to a determination and the determination
+
+applies in relation to an agency, the agency: (a) must not repeat or continue conduct that is covered by a
+
+declaration included in the determination under subparagraph 52(1)(b)(i) or paragraph 52(1A)(a); and (b) must take the steps that are specified in a declaration
+
+included in the determination under subparagraph 52(1)(b)(ia) or paragraph 52(1A)(b) within the specified period; and (c) must perform the act or course of conduct that is covered by
+
+a declaration included in the determination under subparagraph 52(1)(b)(ii) or paragraph 52(1A)(c); and (d) must prepare and publish, or otherwise communicate, a
+
+statement in accordance with a declaration included in the determination under subparagraph 52(1)(b)(iia) or paragraph 52(1A)(ba) and section 52A.
+
+#### 59 Obligations of principal executive of agency
+
+If this Division applies to a determination and the determination
+
+applies in relation to the principal executive of an agency, the
+
+290 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Review and enforcement of determinations involving Commonwealth agencies
+
+Division 4
+
+### Section 60
+
+principal executive must take all such steps as are reasonably within his or her power to ensure: (a) that the terms of the determination are brought to the notice
+
+of all members, officers and employees of the agency whose duties are such that they may engage in conduct of the kind to which the determination relates; and (b) that no member, officer or employee of the agency repeats or
+
+continues conduct that is covered by a declaration included in the determination under subparagraph 52(1)(b)(i) or paragraph 52(1A)(a); and (ba) that the steps specified in a declaration included in the
+
+determination under subparagraph 52(1)(b)(ia) or paragraph 52(1A)(b) are taken within the specified period; and (c) the performance of any act or course of conduct that is
+
+covered by a declaration included in the determination under subparagraph 52(1)(b)(ii) or paragraph 52(1A)(c); and (d) the preparation, publishing or communicating of a statement
+
+in accordance with a declaration included in the determination under subparagraph 52(1)(b)(iia) or paragraph 52(1A)(ba) and section 52A.
+
+#### 60 Compensation and expenses
+
+(1) If a determination to which this Division applies includes a
+
+declaration of the kind referred to in subparagraph 52(1)(b)(iii), paragraph 52(1A)(d) or subsection 52(3), the complainant or individual is entitled to be paid the amount specified in the declaration.
+
+(2) If the determination applies in relation to an agency that has the
+
+capacity to sue and be sued, the amount is recoverable as a debt due by the agency to the complainant or individual. In any other case, the amount is recoverable as a debt due by the Commonwealth to the complainant or individual.
+
+### (3) In this section:
+
+Privacy Act 1988 291
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+agencies Section 62
+
+complainant, in relation to a representative complaint, means a class member.
+
+#### 62 Enforcement of determination against an agency
+
+(1) If an agency fails to comply with section 58, an application may be
+
+made to the Federal Court or the Federal Circuit and Family Court of Australia (Division 2) for an order directing the agency to comply.
+
+(2) If the principal executive of an agency fails to comply with
+
+section 59, an application may be made to the Federal Court or the Federal Circuit and Family Court of Australia (Division 2) for an order directing the principal executive to comply.
+
+(3) The application may be made by: (a) if the determination was made under subsection 52(1)—the
+
+complainant; or (b) the Commissioner.
+
+(4) On an application under this section, the court may make such
+
+other orders as it thinks fit with a view to securing compliance by the agency or principal executive.
+
+(5) An application may not be made under this section in relation to a
+
+determination under section 52 until: (a) the time has expired for making an application under
+
+section 96 for review of the determination; or (b) if such an application is made, the decision of the
+
+Administrative Review Tribunal on the application has come into operation.
+
+### (6) In this section:
+
+complainant, in relation to a representative complaint, means a class member.
+
+292 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Division 5—Miscellaneous
+
+#### 63 Legal assistance
+
+### Section 63
+
+(1) If: (a) the Commissioner has dismissed a file number complaint;
+
+and (b) the respondent to the complaint is not an agency or the
+
+principal executive of an agency; the respondent may apply to the Attorney-General for assistance under this section.
+
+(2) A person who: (a) has commenced or proposes to commence proceedings in the
+
+Federal Court or the Federal Circuit and Family Court of Australia (Division 2) under section 55; or (b) has engaged in conduct or is alleged to have engaged in
+
+conduct in respect of which proceedings have been commenced in the Federal Court or the Federal Circuit and Family Court of Australia (Division 2) under section 55; may apply to the Attorney-General for the provision of assistance under this section in respect of the proceedings.
+
+(2A) Subsection (2) does not permit an application relating to
+
+proceedings under section 55A to enforce a determination relating to a code complaint or an APP complaint.
+
+(3) If the Attorney-General is satisfied that in all the circumstances it
+
+is reasonable to grant an application made under this section, he or she may authorise the provision by the Commonwealth to the applicant of: (a) in the case of an application under subsection (1)—such
+
+financial assistance in connection with the investigation of the complaint as the Attorney-General determines; or (b) in the case of an application under subsection (2)—such legal
+
+or financial assistance in respect of the proceeding as the Attorney-General determines.
+
+Privacy Act 1988 293
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 64
+
+(4) An authorisation under subsection (3) may be made subject to such
+
+conditions (if any) as the Attorney-General determines.
+
+(5) In considering an application made under this section, the
+
+Attorney-General must have regard to any hardship to the applicant that refusal of the application would involve.
+
+#### 64 Commissioner etc. not to be sued
+
+Neither the Commissioner nor a person acting under his or her
+
+direction or authority is liable to an action, suit or proceeding in relation to an act done or omitted to be done in good faith in the exercise or purported exercise of any power or authority conferred by this Act.
+
+#### 65 Failure to attend etc. before Commissioner
+
+(1) A person shall not: (a) refuse or fail to attend before the Commissioner; or (b) refuse or fail to be sworn or make an affirmation; when so required under this Act.
+
+Penalty: Imprisonment for 12 months or 20 penalty units, or both.
+
+(2) Subsection (1) does not apply if the person has a reasonable
+
+excuse.
+
+Note: A defendant bears an evidential burden in relation to the matter in subsection (2) (see subsection 13.3(3) of the Criminal Code).
+
+(3) A person shall not furnish information or make a statement to the
+
+Commissioner knowing that it is false or misleading in a material particular.
+
+Penalty for a contravention of this subsection: Imprisonment for 12 months or 20 penalty units, or both.
+
+294 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+#### 66 Failure to give information etc.
+
+Basic contravention
+
+### Section 66
+
+(1) A person contravenes this subsection if: (a) the person is required to give information, answer a question
+
+or produce a document or record under this Act; and (b) the person refuses or fails to do so.
+
+Civil penalty: 60 penalty units.
+
+Multiple contraventions
+
+(1AA) A person commits an offence if: (a) the person is a corporation; and (b) the person engages in conduct that constitutes a system of
+
+conduct or a pattern of behaviour; and (c) the system of conduct or pattern of behaviour results in 2 or
+
+more contraventions of subsection (1).
+
+Penalty: 300 penalty units.
+
+(1A) For the purposes of subsection (1B), a journalist has a reasonable
+
+excuse if giving the information, answering the question or producing the document or record would tend to reveal the identity of a person who gave information or a document or record to the journalist in confidence.
+
+(1B) Subsection (1) or (1AA) does not apply if the person has a
+
+reasonable excuse.
+
+Note: A person who wishes to rely on this subsection bears an evidential burden in relation to the matter in this subsection: see subsection 13.3(3) of the Criminal Code and section 96 of the Regulatory Powers Act.
+
+(2) For the purposes of subsections (3) to (11) (inclusive):
+
+document includes a record.
+
+information includes an answer to a question.
+
+Privacy Act 1988 295
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 66
+
+(3) Subject to subsections (4), (7) and (10), it is a reasonable excuse
+
+for the purposes of subsection (1B) for an individual: (a) to refuse or fail to give information when so required under
+
+this Act; or (b) to refuse or fail to produce a document when so required
+
+under this Act; that giving the information, or producing the document, as the case may be, might tend to incriminate the individual or make the individual liable to forfeiture or a penalty.
+
+(4) Subsection (3) does not apply in relation to a failure or refusal by
+
+an individual to give information, or to produce a document, on the ground that giving the information or producing the document might tend to prove his or her guilt of an offence against, or make him or her liable to forfeiture or a penalty under, a law of the Commonwealth or of a Territory, if the Director of Public Prosecutions has given the individual a written undertaking under subsection (5).
+
+(5) An undertaking by the Director of Public Prosecutions shall: (a) be an undertaking that: (i) information given, or a document produced, by the
+
+individual; or (ii) any information or document obtained as a direct or
+
+indirect consequence of the giving of the information, or the production of the document; will not be used in evidence in any proceedings for an
+
+offence against a law of the Commonwealth or of a Territory, or in any disciplinary proceedings, against the individual, other than proceedings in respect of the falsity of evidence given by the individual; (b) state that, in the opinion of the Director of Public
+
+Prosecutions, there are special reasons why, in the public interest, the information or document should be available to the Commissioner; and (c) state the general nature of those reasons.
+
+296 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 66
+
+(6) The Commissioner may recommend to the Director of Public
+
+Prosecutions that an individual who has been, or is to be, required under this Act to give information or produce a document be given an undertaking under subsection (5).
+
+(7) Subsection (3) does not apply in relation to a failure or refusal by
+
+an individual to give information, or to produce a document, on the ground that giving the information or producing the document might tend to prove his or her guilt of an offence against, or make him or her liable to forfeiture or a penalty under, a law of a State, if the Attorney-General of the State, or a person authorised by that Attorney-General (being the person holding the office of Director of Public Prosecutions, or a similar office, of the State) has given the individual a written undertaking under subsection (8).
+
+(8) An undertaking by the Attorney-General of the State, or authorised
+
+person, shall: (a) be an undertaking that: (i) information given, or a document produced, by the
+
+individual; or (ii) any information or document obtained as a direct or
+
+indirect consequence of the giving of the information, or the production of the document; will not be used in evidence in any proceedings for an
+
+offence against a law of the State, or in any disciplinary proceedings, against the individual, other than proceedings in respect of the falsity of evidence given by the individual; (b) state that, in the opinion of the person giving the undertaking,
+
+there are special reasons why, in the public interest, the information or document should be available to the Commissioner; and (c) state the general nature of those reasons.
+
+(9) The Commissioner may recommend to the Attorney-General of a
+
+State that an individual who has been, or is to be, required under this Act to give information or produce a document be given an undertaking under subsection (8).
+
+Privacy Act 1988 297
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 67
+
+(10) For the purposes of subsection (1B): (a) it is not a reasonable excuse for a body corporate to refuse or
+
+fail to produce a document that production of the document might tend to incriminate the body corporate or make it liable to forfeiture or a penalty; and (b) it is not a reasonable excuse for an individual to refuse or fail
+
+to produce a document that is, or forms part of, a record of an existing or past business (not being, if the individual is or has been an employee, a document that sets out details of earnings received by the individual in respect of his or her employment and does not set out any other information) that production of the document might tend to incriminate the individual or make the individual liable to forfeiture or a penalty.
+
+(11) Subsections (4), (7) and (10) do not apply where proceedings, in
+
+respect of which giving information or producing a document might tend to incriminate an individual or make an individual liable to forfeiture or a penalty, have been commenced against the individual and have not been finally dealt with by a court or otherwise disposed of.
+
+#### 67 Protection from civil actions
+
+Civil proceedings do not lie against a person in respect of loss,
+
+damage or injury of any kind suffered by another person because of any of the following acts done in good faith: (a) the making of a complaint under this Act; (b) the making of a statement to, or the giving of a document or
+
+information to, the Commissioner.
+
+#### 70 Certain documents and information not required to be disclosed
+
+(1) Where the Attorney-General furnishes to the Commissioner a
+
+certificate certifying that the giving to the Commissioner of information concerning a specified matter (including the giving of information in answer to a question), or the production to the
+
+298 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 70
+
+Commissioner of a specified document or other record, would be contrary to the public interest because it would: (a) prejudice the security, defence or international relations of
+
+Australia; (b) involve the disclosure of communications between a Minister
+
+of the Commonwealth and a Minister of a State, being a disclosure that would prejudice relations between the Commonwealth Government and the Government of a State; (c) involve the disclosure of deliberations or decisions of the
+
+Cabinet or of a Committee of the Cabinet; (d) involve the disclosure of deliberations or advice of the
+
+Executive Council; (e) prejudice the conduct of an investigation or inquiry into
+
+crime or criminal activity that is currently being pursued, or prejudice the fair trial of any person; (f) disclose, or enable a person to ascertain, the existence or
+
+identity of a confidential source of information in relation to the enforcement of the criminal law; (g) prejudice the effectiveness of the operational methods or
+
+investigative practices or techniques of agencies responsible for the enforcement of the criminal law; or (h) endanger the life or physical safety of any person; the Commissioner must not exercise a power under this Act that requires a person to give any information concerning the matter or to produce the document or other record.
+
+(2) Without limiting the operation of subsection (1), where the
+
+Attorney-General furnishes to the Commissioner a certificate certifying that the giving to the Commissioner of information as to the existence or non-existence of information concerning a specified matter (including the giving of information in answer to a question) or as to the existence or non-existence of any document or other record required to be produced to the Commissioner would be contrary to the public interest: (a) by reason that it would prejudice the security, defence or
+
+international relations of Australia; or
+
+Privacy Act 1988 299
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 70B
+
+(b) by reason that it would prejudice the proper performance of
+
+the functions of the ACC; or (c) by reason that it would prejudice the proper performance of
+
+the functions of the National Anti-Corruption Commissioner or the Inspector of the National Anti-Corruption Commission; the Commissioner is not entitled, pursuant to this Act, to require a person to give any information as to the existence or non-existence of information concerning that matter or as to the existence of that document or other record.
+
+#### 70B Application of this Part to former organisations
+
+If an individual, body corporate, partnership, unincorporated
+
+association or trust ceases to be an organisation but continues to exist, this Part operates in relation to: (a) an act or practice of the organisation (while it was an
+
+organisation); and (b) the individual, body corporate, partnership, unincorporated
+
+association or trust; as if he, she or it were still (and had been at all relevant times) an organisation.
+
+Example 1: If an individual carrying on a business was not a small business
+
+operator, but later became one and remained alive: (a) a complaint may be made under this Part about an act or practice
+
+of the individual in carrying on the business before he or she became a small business operator; and (b) the complaint may be investigated (and further proceedings
+
+taken) under this Part as though the individual were still an organisation.
+
+Example 2: A small business operator chooses under section 6EA to be treated as
+
+an organisation, but later revokes the choice. A complaint about an act or practice the operator engaged in while the choice was registered under that section may be made and investigated under this Part as if the operator were an organisation.
+
+300 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 71
+
+## Part VI—Public interest determinations and
+
+## temporary public interest determinations
+
+### Division 1—Public interest determinations
+
+#### 71 Interpretation
+
+For the purposes of this Part, a person is interested in an
+
+application made under section 73 if, and only if, the Commissioner is of the opinion that the person has a real and substantial interest in the application.
+
+#### 72 Power to make, and effect of, determinations
+
+Determinations about an APP entity’s acts and practices
+
+(2) Subject to this Division, if the Commissioner is satisfied that: (a) an act or practice of an APP entity breaches, or may breach: (i) an Australian Privacy Principle; or (ii) a registered APP code that binds the entity; but (b) the public interest in the entity doing the act, or engaging in
+
+the practice, substantially outweighs the public interest in adhering to that code or principle; the Commissioner may, by legislative instrument, make a determination to that effect.
+
+Effect of determination under subsection (2)
+
+(3) The APP entity is taken not to contravene section 15 or 26A if the
+
+entity does the act, or engages in the practice, while the determination is in force under subsection (2).
+
+Giving a determination under subsection (2) general effect
+
+(4) The Commissioner may, by legislative instrument, make a
+
+determination that no APP entity is taken to contravene section 15
+
+Privacy Act 1988 301
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 73
+
+or 26A if, while that determination is in force, an APP entity does an act, or engages in a practice, that is the subject of a determination under subsection (2) in relation to that entity or any other APP entity.
+
+Effect of determination under subsection (4)
+
+(5) A determination under subsection (4) has effect according to its
+
+terms.
+
+#### 73 Application by APP entity
+
+(1) An APP entity may apply in accordance with the regulations for a
+
+determination under section 72 about an act or practice of the entity.
+
+(1A) If: (a) an application is made under subsection (1); and (b) the Commissioner is satisfied that the application is
+
+frivolous, vexatious, misconceived, lacking in substance or not made in good faith; the Commissioner may, in writing, dismiss the application.
+
+(2) The CEO of the National Health and Medical Research Council
+
+may make an application under subsection (1) on behalf of other agencies concerned with medical research or the provision of health services.
+
+(3) Where an application is made by virtue of subsection (2), a
+
+reference in the succeeding provisions of this Part to the agency is a reference to the CEO of the National Health and Medical Research Council.
+
+(4) Where the Commissioner makes a determination under section 72
+
+on an application made by virtue of subsection (2), that section has effect, in relation to each of the agencies on whose behalf the application was made as if the determination had been made on an application by that agency.
+
+302 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+#### 74 Publication of application etc.
+
+### Section 74
+
+(1) Subject to subsection (2), the Commissioner shall publish, in such
+
+manner as he or she thinks fit, notice of: (a) the receipt by the Commissioner of an application; and (b) if the Commissioner dismisses an application under
+
+subsection 73(1A)—the dismissal of the application.
+
+(2) The Commissioner shall not, except with the consent of the
+
+agency, permit the disclosure to another body or person of information contained in a document provided by an agency as part of, or in support of, an application if the agency has informed the Commissioner in writing that the agency claims that the document is an exempt document within the meaning of Part IV of the Freedom of Information Act 1982.
+
+#### 75 Draft determination
+
+(1) The Commissioner shall prepare a draft of his or her proposed
+
+determination in relation to the application unless the Commissioner dismisses the application under subsection 73(1A).
+
+(2) If the applicant is an agency, the Commissioner must send to the
+
+agency, and to each other person (if any) who is interested in the application, a written invitation to notify the Commissioner, within the period specified in the invitation, whether or not the agency or other person wishes the Commissioner to hold a conference about the draft determination.
+
+(2A) If the applicant is an organisation, the Commissioner must: (a) send a written invitation to the organisation to notify the
+
+Commissioner, within the period specified in the invitation, whether or not the organisation wishes the Commissioner to hold a conference about the draft determination; and (b) issue, in any way the Commissioner thinks appropriate, an
+
+invitation in corresponding terms to the other persons (if any) that the Commissioner thinks appropriate.
+
+Privacy Act 1988 303
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 76
+
+(3) An invitation under subsection (2) or subsection (2A) shall specify
+
+a period that begins on the day on which the invitation is sent and is not shorter than the prescribed period.
+
+#### 76 Conference
+
+(1) If an agency, organisation or person notifies the Commissioner,
+
+within the period specified in an invitation sent to the agency, organisation or person, that the agency, organisation or person wishes a conference to be held about the draft determination, the Commissioner shall hold such a conference.
+
+(2) The Commissioner shall fix a day, time and place for the holding
+
+of the conference.
+
+(3) The day fixed shall not be more than 30 days after the latest day on
+
+which a period specified in any of the invitations sent in relation to the draft determination expires.
+
+(4) The Commissioner shall give notice of the day, time and place of
+
+the conference to the agency or organisation and to each person to whom an invitation was sent.
+
+#### 77 Conduct of conference
+
+(1) At the conference, the agency or organisation is entitled to be
+
+represented by a person who is, or persons each of whom is, an officer or employee of the agency or organisation.
+
+(2) At the conference, a person to whom an invitation was sent, or any
+
+other person who is interested in the application and whose presence at the conference is considered by the Commissioner to be appropriate, is entitled to attend and participate personally or, in the case of a body corporate, to be represented by a person who is, or persons each of whom is, a director, officer or employee of the body corporate.
+
+(3) The Commissioner may exclude from the conference a person
+
+who:
+
+304 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 78
+
+(a) is entitled neither to participate in the conference nor to
+
+represent a person who is entitled to be represented at the conference; (b) uses insulting language at the conference; (c) creates, or takes part in creating or continuing, a disturbance
+
+at the conference; or (d) repeatedly disturbs the conference.
+
+#### 78 Determination of application
+
+The Commissioner shall, after complying with this Part in relation
+
+to the application, make: (a) such determination under section 72 as he or she considers
+
+appropriate; or (b) a written determination dismissing the application.
+
+#### 79 Making of determination
+
+(1) The Commissioner shall, in making a determination, take account
+
+of all matters raised at the conference.
+
+(2) The Commissioner shall, in making a determination, take account
+
+of all submissions about the application that have been made, whether at a conference or not, by the agency, organisation or any other person.
+
+Privacy Act 1988 305
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Division 2 Temporary public interest determinations Section 80A
+
+### Division 2—Temporary public interest determinations
+
+#### 80A Temporary public interest determinations
+
+(1) This section applies if the Commissioner is satisfied that: (a) the act or practice of an APP entity that is the subject of an
+
+application under section 73 for a determination under section 72 breaches, or may breach: (i) an Australian Privacy Principle; or (ii) a registered APP code that binds the entity; and (b) the public interest in the entity doing the act, or engaging in
+
+the practice, outweighs to a substantial degree the public interest in adhering to that principle or code; and (c) the application raises issues that require an urgent decision.
+
+(2) The Commissioner may, by legislative instrument, make a
+
+determination that he or she is satisfied of the matters set out in subsection (1). The Commissioner may do so: (a) on request by the APP entity; or (b) on the Commissioner’s own initiative.
+
+(3) The Commissioner must specify in the determination a period of
+
+up to 12 months during which the determination is in force (subject to subsection 80D(2)).
+
+#### 80B Effect of temporary public interest determination
+
+APP entity covered by a determination
+
+(1) If an act or practice of an APP entity is the subject of a temporary
+
+public interest determination, the entity is taken not to breach section 15 or 26A if the entity does the act, or engages in the practice, while the determination is in force.
+
+306 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Temporary public interest determinations Division 2
+
+Section 80D
+
+Giving a temporary public interest determination general effect
+
+(3) The Commissioner may, by legislative instrument, make a
+
+determination that no APP entity is taken to contravene section 15 or 26A if, while that determination is in force, an APP entity does an act, or engages in a practice, that is the subject of a temporary public interest determination in relation to that entity or another APP entity.
+
+Effect of determination under subsection (3)
+
+(4) A determination under subsection (3) has effect according to its
+
+terms.
+
+#### 80D Commissioner may continue to consider application
+
+(1) The fact that the Commissioner has made a determination under
+
+this Division about an act or practice does not prevent the Commissioner from dealing under Division 1 with an application made under section 73 in relation to that act or practice.
+
+(2) A determination under this Division about an act or practice ceases
+
+to be in effect when: (a) a determination made under subsection 72(2) about the act or
+
+practice comes into effect; or (b) a determination is made under paragraph 78(b) to dismiss the
+
+application.
+
+Privacy Act 1988 307
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Division 3 Register of determinations Section 80E
+
+### Division 3—Register of determinations
+
+#### 80E Register of determinations
+
+(1) The Commissioner must keep a register of determinations made
+
+under Division 1 or 2.
+
+(2) The Commissioner may decide the form of the register and how it
+
+is to be kept.
+
+(3) The Commissioner must make the register available to the public
+
+in the way that the Commissioner determines.
+
+(4) The Commissioner may charge fees for: (a) making the register available to the public; or (b) providing copies of, or extracts from, the register.
+
+308 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Object and interpretation Division 1
+
+Section 80F
+
+## Part VIA—Dealing with personal information in
+
+## emergencies and disasters
+
+### Division 1—Object and interpretation
+
+#### 80F Object
+
+The object of this Part is to make special provision for the
+
+collection, use and disclosure of personal information in emergencies and disasters.
+
+#### 80G Interpretation
+
+### (1) In this Part:
+
+duty of confidence means any duty or obligation arising under the common law or at equity pursuant to which a person is obliged not to disclose information, but does not include legal professional privilege.
+
+emergency declaration means a declaration under section 80J or 80K.
+
+entity includes the following: (a) a person; (b) an agency; (c) an organisation.
+
+permanent resident means a person, other than an Australian citizen: (a) whose normal place of residence is situated in Australia; and (b) whose presence in Australia is not subject to any limitation as
+
+to time imposed by law; and (c) who is not an illegal entrant within the meaning of the
+
+Migration Act 1958.
+
+Privacy Act 1988 309
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Division 1 Object and interpretation Section 80G
+
+secrecy provision means a provision of a Commonwealth law (including a provision of this Act) that prohibits or regulates the use or disclosure of personal information, whether the provision relates to the use or disclosure of personal information generally or in specified circumstances.
+
+(2) For the purposes of this Part, a reference in the definition of
+
+personal information in subsection 6(1) to an individual is taken to include a reference to an individual who is not living.
+
+310 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 80J
+
+### Division 2—Declaration of emergency
+
+#### 80J Declaration of emergency—events of national significance
+
+(1) The Prime Minister or the Minister may, by writing, make a
+
+declaration under this section if the Prime Minister or the Minister (as the case may be) is satisfied that: (a) an emergency or disaster has occurred; and (b) the emergency or disaster is of such a kind that it is
+
+appropriate in the circumstances for this Part to apply in relation to the emergency or disaster; and (c) the emergency or disaster is of national significance (whether
+
+because of the nature and extent of the emergency or disaster, the direct or indirect effect of the emergency or disaster, or for any other reason); and (d) the emergency or disaster has affected one or more
+
+Australian citizens or permanent residents (whether within Australia or overseas).
+
+Note: A declaration under this subsection is merely a trigger for the operation of this Part and is not directly related to any other legislative or non-legislative scheme about emergencies.
+
+(2) The Prime Minister or the Minister may, by writing, also make a
+
+declaration under this section if: (a) a national emergency declaration is in force; and (b) the Prime Minister or the Minister (as the case may be) is
+
+satisfied that the emergency to which the national emergency declaration relates is of such a kind that it is appropriate in the circumstances for this Part to apply.
+
+(3) A declaration under this section is a legislative instrument, but
+
+section 42 (disallowance) of the Legislation Act 2003 does not apply to the declaration.
+
+Privacy Act 1988 311
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 80K
+
+#### 80K Declaration of emergency—events outside Australia
+
+(1) The Prime Minister or the Minister may, in writing, make a
+
+declaration under this section if the Prime Minister or the Minister (as the case may be) is satisfied that: (a) an emergency or disaster has occurred outside Australia; and (b) the emergency or disaster is of such a kind that it is
+
+appropriate in the circumstances for this Part to apply in relation to the emergency or disaster; and (c) the emergency or disaster has affected one or more
+
+Australian citizens or permanent residents (whether within Australia or overseas).
+
+(2) The Minister must consult the Minister administering the
+
+Diplomatic Privileges and Immunities Act 1967 before the Minister makes a declaration under this section.
+
+Note: A declaration under this section is merely a trigger for the operation of this Part and is not directly related to any other legislative or non-legislative scheme about emergencies.
+
+(3) A declaration under this section is a legislative instrument, but
+
+section 42 (disallowance) of the Legislation Act 2003 does not apply to the declaration.
+
+#### 80KA Matters covered by declarations
+
+Matters that must be specified
+
+(1) Without limiting section 80J or 80K, an emergency declaration
+
+must specify the following matters: (a) the kind or kinds of personal information to which the
+
+declaration applies; (b) the entity or class of entities that may collect, use or disclose
+
+the personal information; (c) the entity or class of entities that the personal information
+
+may be disclosed to; (d) one or more permitted purposes of the collection, use or
+
+disclosure.
+
+312 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 80KA
+
+Note: See section 80P (authorisation of collection, use and disclosure of personal information).
+
+Specified entities
+
+(2) An entity or class of entities specified for the purposes of
+
+paragraph (1)(c): (a) may include a State or Territory authority; and (b) must not be or include a media organisation, the Australian
+
+Broadcasting Corporation or the Special Broadcasting Service Corporation.
+
+Specified permitted purposes
+
+(3) A permitted purpose specified for the purposes of paragraph (1)(d)
+
+must be a purpose that directly relates to the Commonwealth’s response to an emergency or disaster in respect of which an emergency declaration is in force.
+
+(4) Without limiting subsection (3), any of the following may be
+
+specified as a permitted purpose in relation to an emergency or disaster: (a) identifying individuals who: (i) are or may be injured, missing or dead as a result of the
+
+emergency or disaster; or (ii) are or may be at risk of injury, going missing or death as
+
+a result of the emergency or disaster; or (iii) are or may be otherwise involved in or affected by the
+
+emergency or disaster; or (iv) are or may be at risk of otherwise being involved in or
+
+affected by the emergency or disaster; (b) assisting individuals involved in or affected by the
+
+emergency or disaster to obtain services such as repatriation services, medical or other treatment, health services and financial or other humanitarian assistance; (c) assisting individuals who are or may be at risk of being
+
+involved in or affected by the emergency or disaster to obtain services such as repatriation services, medical or other
+
+Privacy Act 1988 313
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 80N
+
+treatment, health services and financial or other humanitarian assistance; (d) assisting with law enforcement in relation to the emergency
+
+or disaster; (e) coordination or management of the response to the
+
+emergency or disaster; (f) ensuring that responsible persons for individuals who are, or
+
+may be, involved in the emergency or disaster are appropriately informed of matters that are relevant to: (i) the involvement of those individuals in the emergency
+
+or disaster; or (ii) the response to the emergency or disaster in relation to
+
+those individuals; (g) ensuring that responsible persons for individuals who are or
+
+may be at risk of being involved in or affected by the emergency or disaster are appropriately informed of matters that are relevant to: (i) the involvement of or effect on those individuals in the
+
+emergency or disaster; or (ii) the response to the emergency or disaster in relation to
+
+those individuals.
+
+(5) Without limiting subsection 33(3A) of the Acts Interpretation Act
+
+1901, or any other provision of this Act, an emergency declaration may provide differently for: (a) different kinds of personal information; and (b) different entities or classes of entities; and (c) different permitted purposes.
+
+#### 80N When declarations cease to be in force
+
+An emergency declaration ceases to be in force at the earliest of the
+
+following: (a) if a time at which the declaration will cease to be in force is
+
+specified in the declaration—at that time; (b) the time at which the declaration is repealed;
+
+314 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 80N
+
+(c) the start of the day after the end of the period of 12 months
+
+beginning on the day the declaration commences.
+
+Privacy Act 1988 315
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Division 3 Provisions dealing with the use and disclosure of personal information Section 80P
+
+### Division 3—Provisions dealing with the use and disclosure
+
+### of personal information
+
+80P Authorisation of collection, use and disclosure of personal information
+
+(1) At any time when an emergency declaration is in force in relation
+
+to an emergency or disaster, an entity may collect, use or disclose personal information relating to an individual if: (a) the entity reasonably believes that the individual may be
+
+involved in the emergency or disaster; and (b) the collection, use or disclosure is for a permitted purpose
+
+specified in the declaration; and (c) the information is information of a kind specified in the
+
+declaration; and (d) the information is disclosed by an entity specified in the
+
+declaration, or an entity included in a class of entities specified in the declaration; and (e) the information is disclosed to an entity specified in the
+
+declaration, or an entity included in a class of entities specified in the declaration; and (f) if a matter mentioned in paragraph (b), (c), (d), or (e) is
+
+specified in the declaration subject to conditions—those conditions are satisfied.
+
+(2) An entity is not liable to any proceedings for contravening a
+
+secrecy provision in respect of a use or disclosure of personal information authorised by subsection (1), unless the secrecy provision is a designated secrecy provision (see subsection (7)).
+
+(3) An entity is not liable to any proceedings for contravening a duty
+
+of confidence in respect of a disclosure of personal information authorised by subsection (1).
+
+(4) An entity does not breach an Australian Privacy Principle, or a
+
+registered APP code that binds the entity, in respect of a collection,
+
+316 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Provisions dealing with the use and disclosure of personal information Division 3
+
+Section 80P
+
+use or disclosure of personal information authorised by subsection (1).
+
+(6) A collection, use or disclose of personal information by an officer
+
+or employee of an agency in the course of duty as an officer or employee is authorised by subsection (1) only if the officer or employee is authorised by the agency to collect, use or disclose the personal information.
+
+### (7) In this section:
+
+designated secrecy provision means any of the following: (a) sections 18, 18A, 18B, 34GF, 35P, 92 and 92A, and
+
+subsection 34GE(4), of the Australian Security Intelligence Organisation Act 1979; (aa) section 15LC of the Crimes Act 1914; (b) section 34 of the Inspector-General of Intelligence and
+
+Security Act 1986; (c) sections 39, 40C, 40D and 41 of, and clause 9 of Schedule 1
+
+to, the Intelligence Services Act 2001; (ca) sections 42 to 44 of the Office of National Intelligence Act
+
+2018; (cb) sections 22, 22A and 22B of the Witness Protection Act
+
+1994; (d) a provision of a Commonwealth law prescribed by the
+
+regulations for the purposes of this paragraph; (e) a provision of a Commonwealth law of a kind prescribed by
+
+the regulations for the purposes of this paragraph.
+
+Privacy Act 1988 317
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 80Q
+
+### Division 4—Other matters
+
+#### 80Q Disclosure of information—offence
+
+(1) A person (the first person) commits an offence if: (a) personal information that relates to an individual is disclosed
+
+to the first person because of the operation of this Part; and (b) the first person subsequently discloses the personal
+
+information; and (c) the first person is not a responsible person for the individual.
+
+Penalty: 60 penalty units or imprisonment for 1 year, or both.
+
+(2) Subsection (1) does not apply to the following disclosures: (a) if the first person is an APP entity—a disclosure permitted
+
+under an Australian Privacy Principle or a registered APP code that binds the person; (b) a disclosure for the purposes of carrying out a State’s
+
+constitutional functions, powers or duties; (ba) a disclosure for the purposes of obtaining or providing legal
+
+advice in relation to the operation of this Part; (c) a disclosure permitted under section 80P; (d) a disclosure made with the consent of the individual to whom
+
+the personal information relates; (e) a disclosure to the individual to whom the personal
+
+information relates; (f) a disclosure to a court; (g) a disclosure prescribed by the regulations.
+
+Note: A defendant bears an evidential burden in relation to a matter in subsection (2) (see subsection 13.3(3) of the Criminal Code).
+
+(3) If a disclosure of personal information is covered by
+
+subsection (2), the disclosure is authorised by this section.
+
+318 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 80R
+
+(4) For the purposes of paragraph (2)(f), court includes any tribunal,
+
+authority or person having power to require the production of documents or the answering of questions.
+
+#### 80R Operation of Part
+
+(1) The operation of this Part is not limited by a secrecy provision of
+
+any other Commonwealth law (whether made before or after the commencement of this Act) except to the extent that the secrecy provision expressly excludes the operation of this section.
+
+Note: Section 3 provides for the concurrent operation of State and Territory laws.
+
+(2) Nothing in this Part is to be taken to require an entity to collect, use
+
+or disclose personal information.
+
+#### 80S Severability—additional effect of Part
+
+(1) Without limiting its effect apart from each of the following
+
+subsections of this section, this Part has effect in relation to a collection, use or disclosure as provided by that subsection.
+
+(2) This Part has the effect it would have if its operation in relation to a
+
+collection, use or disclosure were expressly confined to a collection, use or disclosure by a corporation.
+
+(3) This Part also has the effect it would have if its operation in
+
+relation to a collection, use or disclosure were expressly confined to a collection, use or disclosure taking place in the course of, or in relation to, trade or commerce: (a) between Australia and places outside Australia; or (b) among the States; or (c) within a Territory, between a State and a Territory or
+
+between 2 Territories.
+
+(4) This Part also has the effect it would have if its operation in
+
+relation to a collection, use or disclosure were expressly confined to a collection, use or disclosure using a postal, telegraphic,
+
+Privacy Act 1988 319
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 80S
+
+telephonic or other like service within the meaning of paragraph 51(v) of the Constitution.
+
+(5) This Part also has the effect it would have if its operation in
+
+relation to a collection, use or disclosure were expressly confined to a collection, use or disclosure taking place in a Territory.
+
+(6) This Part also has the effect it would have if its operation in
+
+relation to a collection, use or disclosure were expressly confined to a collection, use or disclosure taking place in a place acquired by the Commonwealth for public purposes.
+
+(7) This Part also has the effect it would have if its operation in
+
+relation to a collection, use or disclosure were expressly confined to a collection, use or disclosure by an agency.
+
+(8) This Part also has the effect it would have if its operation in
+
+relation to a collection, use or disclosure were expressly confined to a collection, use or disclosure for purposes relating to the defence of the Commonwealth.
+
+(9) This Part also has the effect that it would have if its operation in
+
+relation to a collection, use or disclosure were expressly confined to a collection, use or disclosure taking place outside Australia.
+
+(10) This Part also has the effect that it would have if its operation in
+
+relation to a collection, use or disclosure were expressly confined to a collection, use or disclosure: (a) in relation to which the Commonwealth is under an
+
+obligation under an international agreement; or (b) that is of international concern.
+
+(11) This Part also has the effect that it would have if its operation in
+
+relation to a collection, use or disclosure were expressly confined to a collection, use or disclosure in relation to an emergency of national significance.
+
+320 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 80T
+
+80T Compensation for acquisition of property—constitutional safety net
+
+(1) If the operation of this Part would result in an acquisition of
+
+property from a person otherwise than on just terms, the Commonwealth is liable to pay a reasonable amount of compensation to the person.
+
+(2) If the Commonwealth and the person do not agree on the amount
+
+of the compensation, the person may institute proceedings in a court of competent jurisdiction for the recovery from the Commonwealth of such reasonable amount of compensation as the court determines.
+
+### (3) In this section:
+
+acquisition of property has the same meaning as in paragraph 51(xxxi) of the Constitution.
+
+just terms has the same meaning as in paragraph 51(xxxi) of the Constitution.
+
+Privacy Act 1988 321
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Division 1AA Introduction Section 80TA
+
+## Part VIB—Compliance and enforcement
+
+### Division 1AA—Introduction
+
+#### 80TA Simplified outline of this Part
+
+Certain provisions, information and matters are subject to monitoring under Part 2 of the Regulatory Powers Act.
+
+Certain provisions are subject to investigation under Part 3 of the Regulatory Powers Act.
+
+Civil penalty orders may be sought under Part 4 of the Regulatory Powers Act from a relevant court in relation to contraventions of civil penalty provisions. If a relevant court has determined, or will determine, under the Regulatory Powers Act that an entity has contravened certain civil penalty provisions of this Act, the court may make other orders in the proceeding.
+
+Infringement notices may be given under Part 5 of the Regulatory Powers Act for alleged contraventions of certain provisions.
+
+Undertakings to comply with the provisions of this Act may be accepted and enforced under Part 6 of the Regulatory Powers Act.
+
+Injunctions under Part 7 of the Regulatory Powers Act may be used to restrain a person from contravening a provision of this Act or to compel compliance with a provision of this Act.
+
+322 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 80TB
+
+### Division 1AB—Monitoring powers
+
+#### 80TB Monitoring powers
+
+Provisions subject to monitoring
+
+(1) The following provisions are subject to monitoring under Part 2 of
+
+the Regulatory Powers Act: (a) Divisions 2 and 3 of Part VIIC of the Crimes Act 1914
+
+(pardons, and quashed and spent convictions); (b) Part 2 of the Data-matching Program (Assistance and Tax)
+
+Act 1990, or rules issued under section 12 of that Act.
+
+Note: Part 2 of the Regulatory Powers Act creates a framework for monitoring whether the provisions mentioned in this subsection have been complied with. It includes powers of entry and inspection.
+
+Information subject to monitoring
+
+(2) Information given in compliance, or purported compliance, with
+
+any of the following provisions is subject to monitoring under Part 2 of the Regulatory Powers Act: (a) subsection 26WU(3) (power to obtain information and
+
+documents relating to eligible data breaches); (b) subsection 33C(3) (requirement to provide information
+
+relating to an assessment); (c) subsection 44(1) (requirement to provide information relating
+
+to investigations).
+
+Note: Part 2 of the Regulatory Powers Act creates a framework for monitoring whether the information is correct. It includes powers of entry and inspection.
+
+Matters subject to monitoring
+
+(3) The following matters are subject to monitoring under the
+
+Regulatory Powers Act: (a) a matter referred to in subsection 28A(1) of this Act in
+
+relation to which the Commissioner has a monitoring related
+
+Privacy Act 1988 323
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 80TB
+
+function (credit reporting and tax file number monitoring-related functions); (b) a matter referred to in subsection 33C(1) of this Act if the
+
+Commissioner is undertaking an assessment of the matter (assessments related to Australian Privacy Principles).
+
+Note: Part 2 of the Regulatory Powers Act creates a framework for monitoring the matters mentioned in this subsection. It includes powers of entry and inspection.
+
+Authorised applicant
+
+(4) For the purposes of Part 2 of the Regulatory Powers Act, each of
+
+the following persons is an authorised applicant in relation to the provisions mentioned in subsection (1), the information mentioned in subsection (2), and the matters mentioned in subsection (3): (a) the Commissioner; (b) a member of the staff of the Commissioner who is an SES
+
+employee, or an acting SES employee, or who holds, or is acting in, a position that is equivalent to, or higher than, a position occupied by an SES employee.
+
+Authorised person
+
+(5) For the purposes of Part 2 of the Regulatory Powers Act, each of
+
+the following persons is an authorised person in relation to the provisions mentioned in subsection (1), the information mentioned in subsection (2), and the matters mentioned in subsection (3): (a) the Commissioner; (b) a member of the staff of the Commissioner who is authorised
+
+in writing by the Commissioner or a delegate of the Commissioner; (c) a consultant who is: (i) engaged under section 24 of the Australian Information
+
+Commissioner Act 2010 in relation to performance of the functions or the exercise of the powers of the Commissioner; and (ii) authorised in writing by the Commissioner or a delegate
+
+of the Commissioner.
+
+324 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Issuing officer
+
+Section 80TB
+
+(6) For the purposes of Part 2 of the Regulatory Powers Act, any
+
+judicial officer within the meaning of the Regulatory Powers Act is an issuing officer in relation to the provisions mentioned in subsection (1), the information mentioned in subsection (2), and the matters mentioned in subsection (3).
+
+Relevant chief executive
+
+(7) For the purposes of Part 2 of the Regulatory Powers Act, the
+
+Commissioner is the relevant chief executive in relation to the provisions mentioned in subsection (1), the information mentioned in subsection (2), and the matters mentioned in subsection (3).
+
+(8) The relevant chief executive may, in writing, delegate the relevant
+
+chief executive’s powers and functions under Part 2 of the Regulatory Powers Act in relation to the provisions mentioned in subsection (1), the information mentioned in subsection (2), and the matters mentioned in subsection (3), to a person who is: (a) a member of the staff of the Commissioner; and (b) an SES employee, or an acting SES employee, or who holds,
+
+or is acting in, a position that is equivalent to, or higher than, a position occupied by an SES employee.
+
+(9) A person exercising powers or performing functions under a
+
+delegation under subsection (8) must comply with any directions of the relevant chief executive.
+
+Relevant court
+
+(10) For the purposes of Part 2 of the Regulatory Powers Act, each of
+
+the following courts is a relevant court in relation to the provisions mentioned in subsection (1), the information mentioned in subsection (2), and the matters mentioned in subsection (3): (a) the Federal Court of Australia; (b) the Federal Circuit and Family Court of Australia
+
+(Division 2).
+
+Privacy Act 1988 325
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 80TC
+
+Person assisting
+
+(11) An authorised person may be assisted by other persons in
+
+exercising powers or performing functions or duties under Part 2 of the Regulatory Powers Act in relation to the provisions mentioned in subsection (1), the information mentioned in subsection (2), and the matters mentioned in subsection (3).
+
+Extension to external Territories
+
+(12) Part 2 of the Regulatory Powers Act, as that Part applies in relation
+
+to the provisions mentioned in subsection (1), the information mentioned in subsection (2), and the matters mentioned in subsection (3), extends to every external Territory.
+
+Relationship with other provisions
+
+(13) Part 2 of the Regulatory Powers Act, as that Part applies in relation
+
+to the provisions mentioned in subsection (1), the information mentioned in subsection (2), and the matters mentioned in subsection (3), is subject to section 70 of this Act.
+
+Note: Section 70 deals with certain documents and information not required to be disclosed.
+
+#### 80TC Modifications of Part 2 of the Regulatory Powers Act
+
+Use of force in executing a monitoring warrant
+
+In executing a monitoring warrant under Part 2 of the Regulatory
+
+Powers Act, as that Part applies in relation to the provisions mentioned in subsection 80TB(1), the information mentioned in subsection 80TB(2), and the matters mentioned in subsection 80TB(3), of this Act: (a) an authorised person may use such force against things as is
+
+necessary and reasonable in the circumstances; and (b) a person assisting the authorised person may use such force
+
+against things as is necessary and reasonable in the circumstances.
+
+326 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 80TD
+
+### Division 1AC—Investigation powers
+
+#### 80TD Investigation powers
+
+Provisions subject to investigation
+
+(1) A provision is subject to investigation under Part 3 of the
+
+Regulatory Powers Act if it is: (a) an offence provision, or a civil penalty provision, in this Act;
+
+or (b) any of the following: (i) a civil penalty provision that is enforceable by the
+
+Commissioner under the Digital ID Act 2024; (ii) a civil penalty provision that is enforceable by the
+
+Commissioner under the Healthcare Identifiers Act 2010 or an instrument made under that Act; (iii) a civil penalty provision that is enforceable by the
+
+Commissioner under the My Health Records Act 2012; (iv) a civil penalty provision that is enforceable by the
+
+Commissioner under Division 5 of Part IVD of the Competition and Consumer Act 2010; or (c) an offence provision of the Crimes Act 1914 or the Criminal
+
+Code, to the extent that it relates to an offence provision in this Act.
+
+Note 1: Part 3 of the Regulatory Powers Act creates a framework for investigating whether a provision has been contravened. It includes powers of entry, search and seizure.
+
+Note 2: Part 3 of the Regulatory Powers Act is modified by section 80TE.
+
+Note 3: Subparagraph (1)(b)(iv) is subject to subsection 80TE(2).
+
+Authorised applicant
+
+(2) For the purposes of Part 3 of the Regulatory Powers Act, each of
+
+the following persons is an authorised applicant in relation to evidential material that relates to a provision mentioned in subsection (1):
+
+Privacy Act 1988 327
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 80TD
+
+(a) the Commissioner; (b) a member of the staff of the Commissioner who is an SES
+
+employee, or an acting SES employee, or who holds, or is acting in, a position that is equivalent to, or higher than, a position occupied by an SES employee.
+
+Authorised person
+
+(3) For the purposes of Part 3 of the Regulatory Powers Act, each of
+
+the following persons is an authorised person in relation to evidential material that relates to a provision mentioned in subsection (1): (a) the Commissioner; (b) a member of the staff of the Commissioner who is authorised
+
+in writing by the Commissioner or a delegate of the Commissioner; (c) a consultant who is: (i) engaged under section 24 of the Australian Information
+
+Commissioner Act 2010 in relation to performance of the functions or the exercise of the powers of the Commissioner; and (ii) authorised in writing by the Commissioner or a delegate
+
+of the Commissioner.
+
+Issuing officer
+
+(4) For the purposes of Part 3 of the Regulatory Powers Act, any
+
+judicial officer within the meaning of the Regulatory Powers Act is an issuing officer in relation to evidential material that relates to a provision mentioned in subsection (1).
+
+Relevant chief executive
+
+(5) For the purposes of Part 3 of the Regulatory Powers Act, the
+
+Commissioner is the relevant chief executive in relation to evidential material that relates to a provision mentioned in subsection (1).
+
+328 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 80TD
+
+(6) The relevant chief executive may, in writing, delegate the relevant
+
+chief executive’s powers and functions under Part 3 of the Regulatory Powers Act in relation to evidential material that relates to a provision mentioned in subsection (1) to a person who is: (a) a member of the staff of the Commissioner; and (b) an SES employee, or an acting SES employee, or who holds,
+
+or is acting in, a position that is equivalent to, or higher than, a position occupied by an SES employee.
+
+(7) A person exercising powers or performing functions under a
+
+delegation under subsection (6) must comply with any directions of the relevant chief executive.
+
+Relevant court
+
+(8) For the purposes of Part 3 of the Regulatory Powers Act, each of
+
+the following courts is a relevant court in relation to the provisions mentioned in subsection (1): (a) the Federal Court of Australia; (b) the Federal Circuit and Family Court of Australia
+
+(Division 2).
+
+Person assisting
+
+(9) An authorised person may be assisted by other persons in
+
+exercising powers or performing functions or duties under Part 3 of the Regulatory Powers Act in relation to evidential material that relates to a provision mentioned in subsection (1).
+
+Extension to external Territories
+
+(10) Part 3 of the Regulatory Powers Act, as that Part applies in relation
+
+to the provisions mentioned in subsection (1), extends to every external Territory.
+
+Privacy Act 1988 329
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 80TE
+
+Relationship with other provisions
+
+(11) Part 3 of the Regulatory Powers Act, as that Part applies in relation
+
+to the provisions mentioned in subsection (1), is subject to section 70 of this Act.
+
+Note: Section 70 deals with certain documents and information not required to be disclosed.
+
+#### 80TE Modifications of Part 3 of the Regulatory Powers Act
+
+Use of force in executing an investigation warrant
+
+(1) In executing an investigation warrant under Part 3 of the
+
+Regulatory Powers Act, as that Part applies in relation to evidential material that relates to a provision mentioned in subsection 80TD(1) of this Act: (a) an authorised person may use such force against things as is
+
+necessary and reasonable in the circumstances; and (b) a person assisting the authorised person may use such force
+
+against things as is necessary and reasonable in the circumstances.
+
+Limitation on use of investigation powers in relation to matters under the Competition and Consumer Act
+
+(2) If a civil penalty provision that is enforceable by the Commissioner
+
+under Division 5 of Part IVD of the Competition and Consumer Act 2010 is subject to investigation under Part 3 of the Regulatory Powers Act, the powers under that Part may be exercised in relation to premises only if the premises are occupied by or on behalf of: (a) a CDR participant for CDR data; or (b) an accredited person who may become an accredited data
+
+recipient of CDR data; or (c) a designated gateway for CDR data; or (d) an action service provider for a type of CDR action who has
+
+been, or may be, disclosed CDR data under the consumer data rules;
+
+330 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 80TE
+
+(all within the meaning of the Competition and Consumer Act 2010).
+
+Privacy Act 1988 331
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Division 1 Civil penalties Section 80U
+
+### Division 1—Civil penalties
+
+#### 80U Civil penalty provisions
+
+Enforceable civil penalty provisions
+
+(1) Each civil penalty provision of this Act is enforceable under Part 4
+
+of the Regulatory Powers Act.
+
+Note: Part 4 of the Regulatory Powers Act allows a civil penalty provision to be enforced by obtaining an order for a person to pay a pecuniary penalty for the contravention of the provision.
+
+Authorised applicant
+
+(2) For the purposes of Part 4 of the Regulatory Powers Act, the
+
+Commissioner is an authorised applicant in relation to the civil penalty provisions of this Act.
+
+Relevant court
+
+(3) For the purposes of Part 4 of the Regulatory Powers Act, each of
+
+the following courts is a relevant court in relation to the civil penalty provisions of this Act: (a) the Federal Court; (b) the Federal Circuit and Family Court of Australia
+
+(Division 2).
+
+Extension to external Territories
+
+(4) Part 4 of the Regulatory Powers Act, as that Part applies in relation
+
+to the civil penalty provisions of this Act, extends to every external Territory.
+
+#### 80UA Powers of court to make other orders
+
+(1) The Federal Court, or the Federal Circuit and Family Court of
+
+Australia (Division 2), may make an order under this section in proceedings if, in the proceedings, the Court has determined, or
+
+332 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Civil penalties Division 1
+
+Section 80UA
+
+will determine, under the Regulatory Powers Act that an entity has contravened a civil penalty provision of this Act (other than Part IIIA).
+
+(2) Without limiting subsection (1), examples of orders the Court may
+
+make under this section include the following: (a) an order directing the entity to perform any reasonable act, or
+
+carry out any reasonable course of conduct, to redress the loss or damage suffered, or likely to be suffered, by any individual as a result of the contravention; (b) an order directing the entity to pay damages to any individual
+
+by way of compensation for any loss or damage suffered, or likely to be suffered, by any individual as a result of the contravention; (c) an order directing the entity to engage, or not to engage, in
+
+any act or practice to avoid repeating or continuing the contravention; (d) an order directing the entity to publish, or otherwise
+
+communicate, a statement about the contravention.
+
+(3) The Court may make an order under subsection (1) whether or not
+
+the Court is to make, or has made, a civil penalty order under subsection 82(3) of the Regulatory Powers Act against the entity in relation to the contravention.
+
+(4) The Court may exercise the power under subsection (1): (a) on its own initiative, during proceedings before the Court; or (b) on application, made within the period of 6 years of the
+
+contravention, by either of the following persons: (i) an individual who has suffered, or is likely to suffer,
+
+loss or damage as a result of the contravention; (ii) the Commissioner.
+
+Recovery of compensation as a debt
+
+(5) If the Court makes an order that the entity pay an amount to an
+
+individual, the individual may recover the amount as a debt due to the individual.
+
+Privacy Act 1988 333
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Division 1A Infringement notices Section 80UB
+
+### Division 1A—Infringement notices
+
+#### 80UB Infringement notices
+
+Provisions subject to an infringement notice
+
+(1) The following provisions are subject to an infringement notice
+
+under Part 5 of the Regulatory Powers Act: (a) subsections 13K(1) and (2) (civil penalty provision for which
+
+infringement notices or compliance notices can be issued); (b) subsection 66(1) (failure to give information); (c) subsection 80UC(4) (failure to comply with a compliance
+
+notice).
+
+Note: Part 5 of the Regulatory Powers Act creates a framework for using infringement notices in relation to provisions.
+
+Amount to be stated in an infringement notice for listed companies—section 13K
+
+(1A) Despite subsection 104(2) of the Regulatory Powers Act, if an
+
+infringement notice relates to only one alleged contravention of subsection 13K(1) or (2), or 80UC(4), by a listed corporation (within the meaning of the Corporations Act 2001), the amount to be stated in the notice for the purposes of paragraph 104(1)(f) of the Regulatory Powers Act is 200 penalty units.
+
+(1B) Despite subsection 104(3) of the Regulatory Powers Act, if an
+
+infringement notice relates to more than one alleged contravention of subsection 13K(1) or (2), or 80UC(4), by a listed corporation (within the meaning of the Corporations Act 2001), the amount to be stated in the notice for the purposes of paragraph 104(1)(f) of the Regulatory Powers Act is the number of penalty units worked out by multiplying the number of alleged contraventions by 200.
+
+334 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Infringement officer
+
+Infringement notices Division 1A
+
+Section 80UB
+
+(2) For the purposes of Part 5 of the Regulatory Powers Act, each of
+
+the following is an infringement officer in relation to the provision mentioned in subsection (1): (a) the Commissioner; (b) a member of the staff of the Commissioner who holds, or is
+
+acting in, an office or position that is equivalent to an SES employee.
+
+Relevant chief executive
+
+(3) For the purposes of Part 5 of the Regulatory Powers Act, the
+
+Commissioner is the relevant chief executive in relation to the provision mentioned in subsection (1).
+
+Extension to external Territories
+
+(4) Part 5 of the Regulatory Powers Act, as that Part applies in relation
+
+to the provision mentioned in subsection (1), extends to every external Territory.
+
+Privacy Act 1988 335
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 80UC
+
+### Division 1B—Compliance notices
+
+#### 80UC Compliance notices
+
+Giving a compliance notice
+
+(1) Any of the following persons may give an entity a notice if the
+
+person reasonably believes that the entity has contravened subsection 13K(1) or (2) (civil penalty provision for which infringement notices or compliance notices can be issued): (a) the Commissioner; (b) a member of the staff of the Commissioner who holds, or is
+
+acting in, an office or position that is equivalent to an SES employee.
+
+Note: The notice may be varied or revoked under subsection 33(3) of the Acts Interpretation Act 1901.
+
+(2) The notice must: (a) set out the name of the entity to whom the notice is given;
+
+and (b) set out details of the contravention; and (c) specify either or both of the following: (i) action the entity must take, or refrain from taking,
+
+within a reasonable period specified in the notice, to address the contravention; (ii) steps the entity must take, within a reasonable period
+
+specified in the notice, to ensure that the conduct constituting the contravention is not repeated or continued; and (d) explain that a failure to comply with the notice may
+
+contravene a civil penalty provision; and (e) explain that the entity may apply to the Federal Court or the
+
+Federal Circuit and Family Court of Australia (Division 2) for a review of the notice on either or both of the following grounds:
+
+336 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 80UC
+
+(i) the entity has not committed the contravention set out in
+
+the notice; (ii) the notice does not comply with this subsection.
+
+(3) The notice may also require the entity to produce, within a
+
+reasonable period specified in the notice, reasonable evidence of compliance with the notice.
+
+Entity must comply with compliance notice
+
+(4) An entity contravenes this subsection if: (a) the entity is given a notice under subsection (1); and (b) the entity fails to comply with the notice.
+
+### (5) Subsection (4) is a civil penalty provision.
+
+Note: Section 80U deals with civil penalty provisions in this Act.
+
+(6) The amount of the penalty payable by a person in respect of a
+
+contravention of subsection (4) must not exceed 200 penalty units.
+
+Effect of complying with a compliance notice
+
+(7) An entity that complies with a notice given under subsection (1) in
+
+relation to a contravention of subsection 13K(1) or (2) is not taken by that compliance: (a) to have admitted to contravening that subsection; or (b) to have been found to have contravened that subsection.
+
+Relationship with civil penalty provisions
+
+(8) The Commissioner must not apply for an order under Part 4 of the
+
+Regulatory Powers Act in relation to a contravention of subsection 13G(1), 13H(1) or 13K(1) or (2) of this Act constituted by particular conduct engaged in by an entity, if: (a) the entity has been given a notice under subsection (1) of this
+
+section in relation to a contravention constituted by the same conduct; and (b) either of the following subparagraphs applies:
+
+Privacy Act 1988 337
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 80UD
+
+(i) the notice has not been withdrawn, and the entity has
+
+complied with the notice; (ii) the entity has made an application under section 80UD
+
+of this Act in relation to the notice and the application has not been completely dealt with.
+
+Relationship with infringement notices
+
+(9) A notice must not be given under subsection (1) to an entity in
+
+relation to a contravention if: (a) the entity has been given an infringement notice under Part 5
+
+of the Regulatory Powers Act in relation to the contravention; and (b) the infringement notice has not been withdrawn.
+
+(10) An infringement notice must not be given to an entity under Part 5
+
+of the Regulatory Powers Act in relation to a contravention of subsection 13K(1) or (2) of this Act if the entity has been given a notice under subsection (1) of this section, in relation to the contravention, that has not been withdrawn or cancelled.
+
+Relationship with enforceable undertakings
+
+(11) A notice must not be given under subsection (1) to an entity in
+
+relation to a contravention if: (a) the Commissioner has accepted an undertaking from the
+
+entity under Part 6 of the Regulatory Powers Act in relation to the contravention; and (b) the undertaking has not been withdrawn or cancelled.
+
+#### 80UD Review of compliance notices
+
+(1) An entity that has been given a notice under subsection 80UC(1)
+
+may apply to the Federal Court or the Federal Circuit and Family Court of Australia (Division 2) for a review of the notice on either or both of the following grounds: (a) the entity has not committed the contravention set out in the
+
+notice;
+
+338 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 80UD
+
+(b) the notice does not comply with subsection 80UC(2).
+
+(2) At any time after the application has been made, the court may stay
+
+the operation of the notice on the terms and conditions that the court considers appropriate.
+
+(3) The court may confirm, cancel or vary the notice after reviewing it.
+
+Privacy Act 1988 339
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Division 2 Enforceable undertakings Section 80V
+
+### Division 2—Enforceable undertakings
+
+#### 80V Enforceable undertakings
+
+Enforceable provisions
+
+(1) The provisions of this Act are enforceable under Part 6 of the
+
+Regulatory Powers Act.
+
+Note: Part 6 of the Regulatory Powers Act creates a framework for accepting and enforcing undertakings relating to compliance with provisions.
+
+Authorised person
+
+(2) For the purposes of Part 6 of the Regulatory Powers Act, the
+
+Commissioner is an authorised person in relation to the provisions mentioned in subsection (1).
+
+Relevant court
+
+(3) For the purposes of Part 6 of the Regulatory Powers Act, each of
+
+the following courts is a relevant court in relation to the provisions mentioned in subsection (1): (a) the Federal Court; (b) the Federal Circuit and Family Court of Australia
+
+(Division 2).
+
+Enforceable undertaking may be published on the Commissioner’s website
+
+(4) The Commissioner may publish an undertaking given in relation to
+
+the provision on the Commissioner’s website.
+
+Extension to external Territories
+
+(5) Part 6 of the Regulatory Powers Act, as it applies in relation to the
+
+provisions mentioned in subsection (1), extends to every external Territory.
+
+340 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Division 3—Injunctions
+
+#### 80W Injunctions
+
+Enforceable provisions
+
+Injunctions Division 3
+
+Section 80W
+
+(1) The provisions of this Act are enforceable under Part 7 of the
+
+Regulatory Powers Act.
+
+Note: Part 7 of the Regulatory Powers Act creates a framework for using injunctions to enforce provisions.
+
+Authorised person
+
+(2) For the purposes of Part 7 of the Regulatory Powers Act, each of
+
+the following persons is an authorised person in relation to the provisions mentioned in subsection (1): (a) the Commissioner; (b) any other person.
+
+Relevant court
+
+(3) For the purposes of Part 7 of the Regulatory Powers Act, each of
+
+the following courts is a relevant court in relation to the provisions mentioned in subsection (1): (a) the Federal Court; (b) the Federal Circuit and Family Court of Australia
+
+(Division 2).
+
+Extension to external Territories
+
+(4) Part 7 of the Regulatory Powers Act, as that Part applies in relation
+
+to the provisions mentioned in subsection (1), extends to every external Territory.
+
+Privacy Act 1988 341
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 81
+
+## Part VII—Privacy Advisory Committee
+
+### 81 Interpretation
+
+In this Part, unless the contrary intention appears:
+
+Advisory Committee means the Privacy Advisory Committee established by subsection 82(1).
+
+member means a member of the Advisory Committee.
+
+### 82 Establishment and membership
+
+### (1) A Privacy Advisory Committee is established.
+
+(2) The Advisory Committee shall consist of: (a) the Commissioner; and (aa) the Privacy Commissioner (within the meaning of the
+
+Australian Information Commissioner Act 2010); and (b) not more than 8 other members.
+
+### (3) A member other than the Commissioner and Privacy
+
+Commissioner (within the meaning of that Act): (a) shall be appointed by the Governor-General; and (b) shall be appointed as a part-time member.
+
+(4) An appointed member holds office, subject to this Act, for such
+
+period, not exceeding 5 years, as is specified in the instrument of the member’s appointment, but is eligible for re-appointment.
+
+(5) The Commissioner shall be convenor of the Committee.
+
+(6) The Governor-General shall so exercise the power of appointment
+
+conferred by subsection (3) that a majority of the appointed members are persons who are neither officers nor employees, nor members of the staff of an authority or instrumentality, of the Commonwealth.
+
+342 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 83
+
+(7) Of the appointed members: (a) at least one must be a person who has had at least 5 years’
+
+experience at a high level in industry or commerce; and (aa) at least one must be a person who has had at least 5 years’
+
+experience at a high level in public administration, or the service of a government or an authority of a government; and (ab) at least one must be a person who has had extensive
+
+experience in health privacy; and (b) at least one must be a person who has had at least 5 years’
+
+experience in the trade union movement; and (c) at least one must be a person who has had extensive
+
+experience in information and communication technologies; and (d) at least one must be appointed to represent general
+
+community interests, including interests relating to social welfare; and (e) at least one must be a person who has had extensive
+
+experience in the promotion of civil liberties.
+
+(10) An appointed member holds office on such terms and conditions (if
+
+any) in respect of matters not provided for by this Act as are determined, in writing, by the Governor-General.
+
+(11) The performance of a function of the Advisory Committee is not
+
+affected because of a vacancy or vacancies in the membership of the Advisory Committee.
+
+### 83 Functions
+
+The functions of the Advisory Committee are: (a) on its own initiative, or when requested by the
+
+Commissioner, to advise the Commissioner on matters relevant to his or her functions; (b) to recommend material to the Commissioner for inclusion in
+
+rules or guidelines to be issued by the Commissioner pursuant to his or her functions; and
+
+Privacy Act 1988 343
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 84
+
+(c) subject to any direction given by the Commissioner, to
+
+engage in and promote community education, and community consultation, in relation to the protection of individual privacy.
+
+### 84 Leave of absence
+
+The convenor may, on such terms and conditions as the convenor
+
+thinks fit, grant to another member leave to be absent from a meeting of the Advisory Committee.
+
+### 85 Removal and resignation of members
+
+(1) The Governor-General may terminate the appointment of an
+
+appointed member for misbehaviour or physical or mental incapacity.
+
+(2) The Governor-General shall terminate the appointment of an
+
+appointed member if the member: (a) becomes bankrupt, applies to take the benefit of any law for
+
+the relief of bankrupt or insolvent debtors, compounds with the member’s creditors or makes an assignment of the member’s remuneration for their benefit; (b) fails, without reasonable excuse, to comply with the
+
+member’s obligations under section 86; or (c) is absent, without the leave of the convenor, from 3
+
+consecutive meetings of the Advisory Committee.
+
+(3) An appointed member may resign from office by delivering a
+
+signed notice of resignation to the Governor-General.
+
+### 86 Disclosure of interests of members
+
+(1) A member who has a direct or indirect pecuniary interest in a
+
+matter being considered or about to be considered by the Advisory Committee, being an interest that could conflict with the proper performance of that member’s functions in relation to the consideration of the matter, shall, as soon as practicable after the
+
+344 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 87
+
+relevant facts have come to the knowledge of that member, disclose the nature of that interest at a meeting of the Advisory Committee.
+
+(2) A disclosure under subsection (1) at a meeting of the Advisory
+
+Committee shall be recorded in the minutes of the meeting.
+
+### 87 Meetings of Advisory Committee
+
+(1) The convenor may convene such meetings of the Advisory
+
+Committee as the convenor considers necessary for the performance of the Committee’s functions.
+
+(2) Meetings of the Advisory Committee shall be held at such places
+
+and at such times as the convenor determines.
+
+(3) The convenor shall preside at all meetings of the Advisory
+
+Committee at which the convenor is present.
+
+(4) If, at a meeting of the Advisory Committee, the convenor is not
+
+present, the members who are present shall elect one of their number to preside at the meeting.
+
+(5) At a meeting of the Advisory Committee: (a) 3 members constitute a quorum; (b) all questions shall be decided by a majority of votes of the
+
+members present and voting; and (c) the person presiding has a deliberative vote and, in the event
+
+of an equality of votes, also has a casting vote.
+
+(6) The Advisory Committee shall keep a record of its proceedings.
+
+### 88 Travel allowance
+
+An appointed member is entitled to be paid travelling allowance in
+
+accordance with the regulations.
+
+Privacy Act 1988 345
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+## Part VIII Obligations of confidence Section 89
+
+## Part VIII—Obligations of confidence
+
+### 89 Obligations of confidence to which Part applies
+
+Unless the contrary intention appears, a reference in this Part to an
+
+obligation of confidence is a reference to an obligation of confidence: (a) to which an agency or a Commonwealth officer is subject,
+
+however the obligation arose; or (b) that arises under or by virtue of the law in force in the
+
+Australian Capital Territory; or (c) that arises under or by virtue of a law in force in an external
+
+Territory.
+
+### 90 Application of Part
+
+(1) This Part applies where a person (in this Part called a confidant) is
+
+subject to an obligation of confidence to another person (in this Part called a confider) in respect of personal information, whether the information relates to the confider or to a third person, being an obligation in respect of a breach of which relief may be obtained (whether in the exercise of a discretion or not) in legal proceedings.
+
+(2) This Part does not apply where a criminal penalty only may be
+
+imposed in respect of the breach.
+
+### 91 Effect of Part on other laws
+
+This Part does not, except to the extent that it does so expressly or
+
+by necessary implication, limit or restrict the operation of any other law or of any principle or rule of the common law or of equity, being a law, principle or rule: (a) under or by virtue of which an obligation of confidence
+
+exists; or
+
+346 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Obligations of confidence Part VIII
+
+### Section 92
+
+(b) that has the effect of restricting or prohibiting, or imposing a
+
+liability (including a criminal liability) on a person in respect of, a disclosure or use of information.
+
+### 92 Extension of certain obligations of confidence
+
+Where a person has acquired personal information about another
+
+person and the first-mentioned person knows or ought reasonably to know that the person from whom he or she acquired the information was subject to an obligation of confidence with respect to the information, the first-mentioned person, whether he or she is in the Australian Capital Territory or not, is subject to a like obligation.
+
+### 93 Relief for breach etc. of certain obligations of confidence
+
+(1) A confider may recover damages from a confidant in respect of a
+
+breach of an obligation of confidence with respect to personal information.
+
+(2) Subsection (1) does not limit or restrict any other right that the
+
+confider has to relief in respect of the breach.
+
+(3) Where an obligation of confidence exists with respect to personal
+
+information about a person other than the confider, whether the obligation arose under a contract or otherwise, the person to whom the information relates has the same rights against the confidant in respect of a breach or threatened breach of the obligation as the confider has.
+
+### 94 Jurisdiction of courts
+
+(1) The jurisdiction of the courts of the Australian Capital Territory
+
+extends to matters arising under this Part.
+
+(2) Subsection (1) does not deprive a court of a State or of another
+
+Territory of any jurisdiction that it has.
+
+Privacy Act 1988 347
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 94A
+
+## Part IX—Miscellaneous
+
+### 94A Schedule 2
+
+### (1) Schedule 2 has effect.
+
+(2) In determining the meaning of an expression used in a provision of
+
+this Act (other than Schedule 2), an expression used in Schedule 2 is to be disregarded.
+
+(3) In determining the meaning of a provision of this Act (other than
+
+Schedule 2), Schedule 2 is to be disregarded.
+
+### 95 Medical research guidelines
+
+(1) The CEO of the National Health and Medical Research Council
+
+may, with the approval of the Commissioner, issue guidelines for the protection of privacy by agencies in the conduct of medical research.
+
+(2) The Commissioner shall not approve the issue of guidelines unless
+
+he or she is satisfied that the public interest in the promotion of research of the kind to which the guidelines relate outweighs to a substantial degree the public interest in maintaining adherence to the Australian Privacy Principles.
+
+(3) Guidelines shall be issued by being published in the Gazette.
+
+(4) Where: (a) but for this subsection, an act done by an agency would
+
+breach an Australian Privacy Principle; and (b) the act is done in the course of medical research and in
+
+accordance with guidelines under subsection (1); the act shall be regarded as not breaching that Australian Privacy Principle.
+
+348 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 95A
+
+95A Guidelines for Australian Privacy Principles about health information
+
+Overview
+
+(1) This section allows the Commissioner to approve for the purposes
+
+of the Australian Privacy Principles guidelines that are issued by the CEO of the National Health and Medical Research Council or a prescribed authority.
+
+Approving guidelines for use and disclosure
+
+(2) For the purposes of paragraph 16B(3)(c), the Commissioner may,
+
+by notice in the Gazette, approve guidelines that relate to the use and disclosure of health information for the purposes of research, or the compilation or analysis of statistics, relevant to public health or public safety.
+
+Public interest test
+
+(3) The Commissioner may give an approval under subsection (2) only
+
+if satisfied that the public interest in the use and disclosure of health information for the purposes mentioned in that subsection in accordance with the guidelines substantially outweighs the public interest in maintaining the level of privacy protection afforded by the Australian Privacy Principles (disregarding subsection 16B(3)).
+
+Approving guidelines for collection
+
+(4) For the purposes of subparagraph 16B(2)(d)(iii), the Commissioner
+
+may, by notice in the Gazette, approve guidelines that relate to the collection of health information for the purposes of: (a) research, or the compilation or analysis of statistics, relevant
+
+to public health or public safety; or (b) the management, funding or monitoring of a health service.
+
+Privacy Act 1988 349
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 95AA
+
+Public interest test
+
+(5) The Commissioner may give an approval under subsection (4) only
+
+if satisfied that the public interest in the collection of health information for the purposes mentioned in that subsection in accordance with the guidelines substantially outweighs the public interest in maintaining the level of privacy protection afforded by the Australian Privacy Principles (disregarding subsection 16B(2)).
+
+Revocation of approval
+
+(6) The Commissioner may, by notice in the Gazette, revoke an
+
+approval of guidelines under this section if he or she is no longer satisfied of the matter that he or she had to be satisfied of to approve the guidelines.
+
+95AA Guidelines for Australian Privacy Principles about genetic information
+
+Overview
+
+(1) This section allows the Commissioner to approve for the purposes
+
+of the Australian Privacy Principles guidelines that are issued by the National Health and Medical Research Council.
+
+Approving guidelines for use and disclosure
+
+(2) For the purposes of paragraph 16B(4)(c), the Commissioner may,
+
+by legislative instrument, approve guidelines that relate to the use and disclosure of genetic information for the purposes of lessening or preventing a serious threat to the life, health or safety of an individual who is a genetic relative of the individual to whom the genetic information relates.
+
+### 95B Requirements for Commonwealth contracts
+
+(1) This section requires an agency entering into a Commonwealth
+
+contract to take contractual measures to ensure that a contracted service provider for the contract does not do an act, or engage in a
+
+350 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 95C
+
+practice, that would breach an Australian Privacy Principle if done or engaged in by the agency.
+
+(2) The agency must ensure that the Commonwealth contract does not
+
+authorise a contracted service provider for the contract to do or engage in such an act or practice.
+
+(3) The agency must also ensure that the Commonwealth contract
+
+contains provisions to ensure that such an act or practice is not authorised by a subcontract.
+
+(4) For the purposes of subsection (3), a subcontract is a contract
+
+under which a contracted service provider for the Commonwealth contract is engaged to provide services to: (a) another contracted service provider for the Commonwealth
+
+contract; or (b) any agency; for the purposes (whether direct or indirect) of the Commonwealth contract.
+
+(5) This section applies whether the agency is entering into the
+
+Commonwealth contract on behalf of the Commonwealth or in the agency’s own right.
+
+### 95C Disclosure of certain provisions of Commonwealth contracts
+
+If a person asks a party to a Commonwealth contract to be
+
+informed of the content of provisions (if any) of the contract that are inconsistent with a registered APP code binding a party to the contract or with an Australian Privacy Principle, the party requested must inform the person in writing of that content (if any).
+
+### 96 Review by the Administrative Review Tribunal
+
+(1) An application may be made to the Administrative Review
+
+Tribunal for review of the following decisions of the Commissioner: (a) a decision under subsection 26H(1) not to register an APP
+
+code developed by an APP code developer;
+
+Privacy Act 1988 351
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 96
+
+(b) a decision under subsection 26S(1) not to register a CR code
+
+developed by a CR code developer; (ba) a decision under subsection 26WQ(7) to refuse an application
+
+for a declaration; (bb) a decision to make a declaration under
+
+paragraph 26WQ(1)(d); (bc) a decision under subsection 26WR(1) to give a direction; (c) a decision under subsection 52(1) or (1A) to make a
+
+determination; (d) a decision under subsection 73(1A) to dismiss an application; (e) a decision under section 95 to refuse to approve the issue of
+
+guidelines; (f) a decision under subsection 95A(2) or (4) or 95AA(2) to
+
+refuse to approve guidelines; (g) a decision under subsection 95A(6) to revoke an approval of
+
+guidelines.
+
+(2) An application under paragraph (1)(a) may only be made by the
+
+APP code developer that developed the APP code.
+
+(2A) An application under paragraph (1)(ba) may only be made by: (a) the entity that made the application for a declaration; or (b) if another entity’s compliance with subsection 26WL(2) is
+
+affected by the decision to refuse the application for a declaration—that other entity.
+
+(2B) An application under paragraph (1)(bb) may only be made by: (a) the entity to whom notice of the declaration was given; or (b) if another entity’s compliance with subsection 26WL(2) is
+
+affected by the declaration—that other entity.
+
+(2C) An application under paragraph (1)(bc) may only be made by the
+
+entity to whom the direction was given.
+
+(2D) For the purposes of subsections (2A), (2B) and (2C), entity has the
+
+same meaning as in Part IIIC.
+
+352 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 98A
+
+(3) An application under paragraph (1)(b) may only be made by the
+
+CR code developer that developed the CR code.
+
+### 98A Treatment of partnerships
+
+(1) If, apart from this subsection, this Act would impose an obligation
+
+on a partnership, the obligation is imposed instead on each partner but may be discharged by any of the partners.
+
+(2) If, apart from this subsection, an offence against this Act would be
+
+committed by a partnership, the offence is taken to have been committed by each partner.
+
+(3) If, apart from this subsection, a partnership would contravene a
+
+civil penalty provision, the contravention is taken to have been committed by each partner.
+
+(4) A partner does not commit an offence against this Act because of
+
+subsection (2), or contravene a civil penalty provision because of subsection (3), if the partner: (a) does not know of the circumstances that constitute the
+
+contravention of the provision concerned; or (b) knows of those circumstances but takes all reasonable steps
+
+to correct the contravention as soon as possible after the partner becomes aware of those circumstances.
+
+Note: In criminal proceedings, a defendant bears an evidential burden in relation to the matters in subsection (4) (see subsection 13.3(3) of the Criminal Code).
+
+### 98B Treatment of unincorporated associations
+
+(1) If, apart from this subsection, this Act would impose an obligation
+
+on an unincorporated association, the obligation is imposed instead on each member of the association’s committee of management but may be discharged by any of the members.
+
+(2) If, apart from this subsection, an offence against this Act would be
+
+committed by an unincorporated association, the offence is taken to
+
+Privacy Act 1988 353
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 98C
+
+have been committed by each member of the association’s committee of management.
+
+(3) If, apart from this subsection, an unincorporated association would
+
+contravene a civil penalty provision, the contravention is taken to have been committed by each member of the association’s committee of management.
+
+(4) A member of an unincorporated association’s committee of
+
+management does not commit an offence against this Act because of subsection (2), or contravene a civil penalty provision because of subsection (3), if the member: (a) does not know of the circumstances that constitute the
+
+contravention of the provision concerned; or (b) knows of those circumstances but takes all reasonable steps
+
+to correct the contravention as soon as possible after the member becomes aware of those circumstances.
+
+Note: In criminal proceedings, a defendant bears an evidential burden in relation to the matters in subsection (4) (see subsection 13.3(3) of the Criminal Code).
+
+### 98C Treatment of trusts
+
+(1) If, apart from this subsection, this Act would impose an obligation
+
+on a trust, the obligation is imposed instead on each trustee of the trust but may be discharged by any of the trustees.
+
+(2) If, apart from this subsection, an offence against this Act would be
+
+committed by a trust, the offence is taken to have been committed by each trustee of the trust.
+
+(3) If, apart from this subsection, a trust would contravene a civil
+
+penalty provision, the contravention is taken to have been committed by each trustee of the trust.
+
+(4) A trustee of a trust does not commit an offence against this Act
+
+because of subsection (2), or contravene a civil penalty provision because of subsection (3), if the trustee:
+
+354 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 99A
+
+(a) does not know of the circumstances that constitute the
+
+contravention of the provision concerned; or (b) knows of those circumstances but takes all reasonable steps
+
+to correct the contravention as soon as possible after the trustee becomes aware of those circumstances.
+
+Note: In criminal proceedings, a defendant bears an evidential burden in relation to the matters in subsection (4) (see subsection 13.3(3) of the Criminal Code).
+
+### 99A Conduct of directors, employees and agents
+
+(1) Where, in proceedings for an offence against this Act or for a civil
+
+penalty order under the Regulatory Powers Act (as it applies in relation to the civil penalty provisions of this Act), it is necessary to establish the state of mind of a body corporate in relation to particular conduct, it is sufficient to show: (a) that the conduct was engaged in by a director, employee or
+
+agent of the body corporate within the scope of his or her actual or apparent authority; and (b) that the director, employee or agent had the state of mind.
+
+(2) Any conduct engaged in on behalf of a body corporate by a
+
+director, employee or agent of the body corporate within the scope of his or her actual or apparent authority is to be taken, for the purposes of a prosecution for an offence against this Act or proceedings for a civil penalty order under the Regulatory Powers Act (as it applies in relation to the civil penalty provisions of this Act), to have been engaged in also by the body corporate unless the body corporate establishes that the body corporate took reasonable precautions and exercised due diligence to avoid the conduct.
+
+Privacy Act 1988 355
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Section 99A
+
+(3) Where, in proceedings for an offence against this Act or for a civil
+
+penalty order under the Regulatory Powers Act (as it applies in relation to the civil penalty provisions of this Act), it is necessary to establish the state of mind of a person other than a body corporate in relation to particular conduct, it is sufficient to show: (a) that the conduct was engaged in by an employee or agent of
+
+the person within the scope of his or her actual or apparent authority; and (b) that the employee or agent had the state of mind.
+
+(4) Any conduct engaged in on behalf of a person other than a body
+
+corporate by an employee or agent of a person within the scope of his or her actual or apparent authority is to be taken, for the purposes of a prosecution for an offence against this Act or proceedings for a civil penalty order under the Regulatory Powers Act (as it applies in relation to the civil penalty provisions of this Act), to have been engaged in also by the first-mentioned person unless the first-mentioned person establishes that the first-mentioned person took reasonable precautions and exercised due diligence to avoid the conduct.
+
+(5) Where: (a) a person other than a body corporate is convicted of an
+
+offence; and (b) the person would not have been convicted of the offence if
+
+subsections (3) and (4) had not been enacted; the person is not liable to be punished by imprisonment for that offence.
+
+(6) A reference in subsection (1) or (3) to the state of mind of a person
+
+includes a reference to: (a) the knowledge, intention, opinion, belief or purpose of the
+
+person; and (b) the person’s reasons for the intention, opinion, belief or
+
+purpose.
+
+(7) A reference in this section to a director of a body corporate
+
+includes a reference to a constituent member of a body corporate
+
+356 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 100
+
+incorporated for a public purpose by a law of the Commonwealth, of a State or of a Territory.
+
+(8) A reference in this section to engaging in conduct includes a
+
+reference to failing or refusing to engage in conduct.
+
+### 100 Regulations
+
+(1) The Governor-General may make regulations, not inconsistent with
+
+this Act, prescribing matters: (a) required or permitted by this Act to be prescribed; or (b) necessary or convenient to be prescribed for carrying out or
+
+giving effect to this Act.
+
+(1A) Before the Governor-General makes regulations for the purposes of
+
+Australian Privacy Principle 8.3 prescribing a country or binding scheme, the Minister must be satisfied that: (a) the laws of the country, or the binding scheme, has the effect
+
+of protecting personal information about an individual in a way that, overall, is at least substantially similar to the way in which the Australian Privacy Principles protect the information; and (b) there are mechanisms that the individual can access to take
+
+action to enforce that protection.
+
+(1B) The regulations may prescribe a country or binding scheme for the
+
+purposes of Australian Privacy Principle 8.3 subject to: (a) conditions in relation to a specified entity or class of entities;
+
+and (b) conditions in relation to a specified kind or kinds of personal
+
+information.
+
+(2) Before the Governor-General makes regulations for the purposes of
+
+Australian Privacy Principle 9.3 prescribing a government related identifier, an organisation or a class of organisations, and circumstances, the Minister must be satisfied that:
+
+Privacy Act 1988 357
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Section 100
+
+(a) the relevant agency or State or Territory authority or, if the
+
+relevant agency or State or Territory authority has a principal executive, the principal executive: (i) has agreed that the adoption, use or disclosure of the
+
+identifier by the organisation, or the class of organisations, in the circumstances is appropriate; and (ii) has consulted the Commissioner about that adoption,
+
+use or disclosure; and (b) the adoption, use or disclosure of the identifier by the
+
+organisation, or the class of organisations, in the circumstances can only be for the benefit of the individual to whom the identifier relates.
+
+(3) Subsection (2) does not apply to the making of regulations for the
+
+purposes of Australian Privacy Principle 9.3 that relate to the use or disclosure of a government related identifier by an organisation, or a class of organisations, in particular circumstances if: (a) the identifier is a kind commonly used in the processing of
+
+pay, or deductions from pay, of Commonwealth officers, or a class of Commonwealth officers; and (b) the circumstances of the use or disclosure of the identifier
+
+relate to the provision by: (i) the organisation; or (ii) the class of organisations; of superannuation services (including the management,
+
+processing, allocation and transfer of superannuation contributions) for the benefit of Commonwealth officers or the class of Commonwealth officers; and (c) before the regulations are made, the Minister consults the
+
+Commissioner about the proposed regulations.
+
+358 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+## Schedule 1—Australian Privacy Principles
+
+Note: See section 14.
+
+### Overview of the Australian Privacy Principles
+
+Overview
+
+This Schedule sets out the Australian Privacy Principles.
+
+Part 1 sets out principles that require APP entities to consider the privacy of personal information, including ensuring that APP entities manage personal information in an open and transparent way.
+
+## Part 2 sets out principles that deal with the collection of personal information including unsolicited personal information
+
+Part 3 sets out principles about how APP entities deal with personal information and government related identifiers. The Part includes principles about the use and disclosure of personal information and those identifiers.
+
+## Part 4 sets out principles about the integrity of personal information. The Part includes principles about the quality and security of personal information
+
+## Part 5 sets out principles that deal with requests for access to, and the correction of, personal information
+
+Australian Privacy Principles
+
+The Australian Privacy Principles are:
+
+Australian Privacy Principle 1—open and transparent management of personal information
+
+Privacy Act 1988 359
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Australian Privacy Principle 2—anonymity and pseudonymity
+
+Australian Privacy Principle 3—collection of solicited personal information
+
+Australian Privacy Principle 4—dealing with unsolicited personal information
+
+Australian Privacy Principle 5—notification of the collection of personal information
+
+Australian Privacy Principle 6—use or disclosure of personal information
+
+Australian Privacy Principle 7—direct marketing
+
+Australian Privacy Principle 8—cross-border disclosure of personal information
+
+Australian Privacy Principle 9—adoption, use or disclosure of government related identifiers
+
+Australian Privacy Principle 10—quality of personal information
+
+Australian Privacy Principle 11—security of personal information
+
+Australian Privacy Principle 12—access to personal information
+
+Australian Privacy Principle 13—correction of personal information
+
+360 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Clause 1
+
+## Part 1—Consideration of personal information
+
+## privacy
+
+1 Australian Privacy Principle 1—open and transparent management of personal information
+
+1.1 The object of this principle is to ensure that APP entities manage personal information in an open and transparent way.
+
+Compliance with the Australian Privacy Principles etc.
+
+1.2 An APP entity must take such steps as are reasonable in the circumstances to implement practices, procedures and systems relating to the entity’s functions or activities that: (a) will ensure that the entity complies with the Australian
+
+Privacy Principles and a registered APP code (if any) that binds the entity; and (b) will enable the entity to deal with inquiries or complaints
+
+from individuals about the entity’s compliance with the Australian Privacy Principles or such a code.
+
+APP Privacy policy
+
+1.3 An APP entity must have a clearly expressed and up-to-date policy (the APP privacy policy) about the management of personal information by the entity.
+
+1.4 Without limiting subclause 1.3, the APP privacy policy of the APP entity must contain the following information: (a) the kinds of personal information that the entity collects and
+
+holds; (b) how the entity collects and holds personal information; (c) the purposes for which the entity collects, holds, uses and
+
+discloses personal information;
+
+Privacy Act 1988 361
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+## Part 1 Consideration of personal information privacy Clause 2
+
+(d) how an individual may access personal information about the
+
+individual that is held by the entity and seek the correction of such information; (e) how an individual may complain about a breach of the
+
+Australian Privacy Principles, or a registered APP code (if any) that binds the entity, and how the entity will deal with such a complaint; (f) whether the entity is likely to disclose personal information
+
+to overseas recipients; (g) if the entity is likely to disclose personal information to
+
+overseas recipients—the countries in which such recipients are likely to be located if it is practicable to specify those countries in the policy.
+
+Availability of APP privacy policy etc.
+
+1.5 An APP entity must take such steps as are reasonable in the circumstances to make its APP privacy policy available: (a) free of charge; and (b) in such form as is appropriate.
+
+Note: An APP entity will usually make its APP privacy policy available on the entity’s website.
+
+1.6 If a person or body requests a copy of the APP privacy policy of an APP entity in a particular form, the entity must take such steps as are reasonable in the circumstances to give the person or body a copy in that form.
+
+#### 2 Australian Privacy Principle 2—anonymity and pseudonymity
+
+2.1 Individuals must have the option of not identifying themselves, or of using a pseudonym, when dealing with an APP entity in relation to a particular matter.
+
+2.2 Subclause 2.1 does not apply if, in relation to that matter: (a) the APP entity is required or authorised by or under an
+
+Australian law, or a court/tribunal order, to deal with individuals who have identified themselves; or
+
+362 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Clause 2
+
+(b) it is impracticable for the APP entity to deal with individuals
+
+who have not identified themselves or who have used a pseudonym.
+
+Privacy Act 1988 363
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Clause 3
+
+### Part 2—Collection of personal information
+
+3 Australian Privacy Principle 3—collection of solicited personal information
+
+Personal information other than sensitive information
+
+3.1 If an APP entity is an agency, the entity must not collect personal information (other than sensitive information) unless the information is reasonably necessary for, or directly related to, one or more of the entity’s functions or activities.
+
+3.2 If an APP entity is an organisation, the entity must not collect personal information (other than sensitive information) unless the information is reasonably necessary for one or more of the entity’s functions or activities.
+
+Sensitive information
+
+3.3 An APP entity must not collect sensitive information about an individual unless: (a) the individual consents to the collection of the information
+
+and: (i) if the entity is an agency—the information is reasonably
+
+necessary for, or directly related to, one or more of the entity’s functions or activities; or (ii) if the entity is an organisation—the information is
+
+reasonably necessary for one or more of the entity’s functions or activities; or (b) subclause 3.4 applies in relation to the information.
+
+3.4 This subclause applies in relation to sensitive information about an individual if: (a) the collection of the information is required or authorised by
+
+or under an Australian law or a court/tribunal order; or
+
+364 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Clause 3
+
+(b) a permitted general situation exists in relation to the
+
+collection of the information by the APP entity; or (c) the APP entity is an organisation and a permitted health
+
+situation exists in relation to the collection of the information by the entity; or (d) the APP entity is an enforcement body and the entity
+
+reasonably believes that: (i) if the entity is the Immigration Department—the
+
+collection of the information is reasonably necessary for, or directly related to, one or more enforcement related activities conducted by, or on behalf of, the entity; or (ii) otherwise—the collection of the information is
+
+reasonably necessary for, or directly related to, one or more of the entity’s functions or activities; or (e) the APP entity is a non-profit organisation and both of the
+
+following apply: (i) the information relates to the activities of the
+
+organisation; (ii) the information relates solely to the members of the
+
+organisation, or to individuals who have regular contact with the organisation in connection with its activities.
+
+Note: For permitted general situation, see section 16A. For permitted health situation, see section 16B.
+
+Means of collection
+
+3.5 An APP entity must collect personal information only by lawful and fair means.
+
+3.6 An APP entity must collect personal information about an individual only from the individual unless: (a) if the entity is an agency: (i) the individual consents to the collection of the
+
+information from someone other than the individual; or
+
+Privacy Act 1988 365
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Clause 4
+
+(ii) the entity is required or authorised by or under an
+
+Australian law, or a court/tribunal order, to collect the information from someone other than the individual; or (b) it is unreasonable or impracticable to do so.
+
+Solicited personal information
+
+3.7 This principle applies to the collection of personal information that is solicited by an APP entity.
+
+4 Australian Privacy Principle 4—dealing with unsolicited personal information
+
+4.1 If: (a) an APP entity receives personal information; and (b) the entity did not solicit the information; the entity must, within a reasonable period after receiving the information, determine whether or not the entity could have collected the information under Australian Privacy Principle 3 if the entity had solicited the information.
+
+4.2 The APP entity may use or disclose the personal information for the purposes of making the determination under subclause 4.1.
+
+### 4.3 If: (a) the APP entity determines that the entity could not have
+
+collected the personal information; and (b) the information is not contained in a Commonwealth record; the entity must, as soon as practicable but only if it is lawful and reasonable to do so, destroy the information or ensure that the information is de-identified.
+
+4.4 If subclause 4.3 does not apply in relation to the personal information, Australian Privacy Principles 5 to 13 apply in relation to the information as if the entity had collected the information under Australian Privacy Principle 3.
+
+366 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Clause 5
+
+5 Australian Privacy Principle 5—notification of the collection of personal information
+
+5.1 At or before the time or, if that is not practicable, as soon as practicable after, an APP entity collects personal information about an individual, the entity must take such steps (if any) as are reasonable in the circumstances: (a) to notify the individual of such matters referred to in
+
+subclause 5.2 as are reasonable in the circumstances; or (b) to otherwise ensure that the individual is aware of any such
+
+matters.
+
+5.2 The matters for the purposes of subclause 5.1 are as follows: (a) the identity and contact details of the APP entity; (b) if: (i) the APP entity collects the personal information from
+
+someone other than the individual; or (ii) the individual may not be aware that the APP entity has
+
+collected the personal information; the fact that the entity so collects, or has collected, the
+
+information and the circumstances of that collection; (c) if the collection of the personal information is required or
+
+authorised by or under an Australian law or a court/tribunal order—the fact that the collection is so required or authorised (including the name of the Australian law, or details of the court/tribunal order, that requires or authorises the collection); (d) the purposes for which the APP entity collects the personal
+
+information; (e) the main consequences (if any) for the individual if all or
+
+some of the personal information is not collected by the APP entity; (f) any other APP entity, body or person, or the types of any
+
+other APP entities, bodies or persons, to which the APP entity usually discloses personal information of the kind collected by the entity;
+
+Privacy Act 1988 367
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Clause 5
+
+(g) that the APP privacy policy of the APP entity contains
+
+information about how the individual may access the personal information about the individual that is held by the entity and seek the correction of such information; (h) that the APP privacy policy of the APP entity contains
+
+information about how the individual may complain about a breach of the Australian Privacy Principles, or a registered APP code (if any) that binds the entity, and how the entity will deal with such a complaint; (i) whether the APP entity is likely to disclose the personal
+
+information to overseas recipients; (j) if the APP entity is likely to disclose the personal information
+
+to overseas recipients—the countries in which such recipients are likely to be located if it is practicable to specify those countries in the notification or to otherwise make the individual aware of them.
+
+368 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Clause 6
+
+### Part 3—Dealing with personal information
+
+6 Australian Privacy Principle 6—use or disclosure of personal information
+
+Use or disclosure
+
+6.1 If an APP entity holds personal information about an individual that was collected for a particular purpose (the primary purpose), the entity must not use or disclose the information for another purpose (the secondary purpose) unless: (a) the individual has consented to the use or disclosure of the
+
+information; or (b) subclause 6.2 or 6.3 applies in relation to the use or
+
+disclosure of the information.
+
+Note: Australian Privacy Principle 8 sets out requirements for the disclosure of personal information to a person who is not in Australia or an external Territory.
+
+6.2 This subclause applies in relation to the use or disclosure of personal information about an individual if: (a) the individual would reasonably expect the APP entity to use
+
+or disclose the information for the secondary purpose and the secondary purpose is: (i) if the information is sensitive information—directly
+
+related to the primary purpose; or (ii) if the information is not sensitive information—related
+
+to the primary purpose; or (b) the use or disclosure of the information is required or
+
+authorised by or under an Australian law or a court/tribunal order; or (c) a permitted general situation exists in relation to the use or
+
+disclosure of the information by the APP entity; or
+
+Privacy Act 1988 369
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Clause 6
+
+(d) the APP entity is an organisation and a permitted health
+
+situation exists in relation to the use or disclosure of the information by the entity; or (e) the APP entity reasonably believes that the use or disclosure
+
+of the information is reasonably necessary for one or more enforcement related activities conducted by, or on behalf of, an enforcement body.
+
+Note: For permitted general situation, see section 16A. For permitted health situation, see section 16B.
+
+6.3 This subclause applies in relation to the disclosure of personal information about an individual by an APP entity that is an agency if: (a) the agency is not an enforcement body; and (b) the information is biometric information or biometric
+
+templates; and (c) the recipient of the information is an enforcement body; and (d) the disclosure is conducted in accordance with the guidelines
+
+made by the Commissioner for the purposes of this paragraph.
+
+### 6.4 If: (a) the APP entity is an organisation; and (b) subsection 16B(2) applied in relation to the collection of the
+
+personal information by the entity; the entity must take such steps as are reasonable in the circumstances to ensure that the information is de-identified before the entity discloses it in accordance with subclause 6.1 or 6.2.
+
+Written note of use or disclosure
+
+6.5 If an APP entity uses or discloses personal information in accordance with paragraph 6.2(e), the entity must make a written note of the use or disclosure.
+
+Related bodies corporate
+
+### 6.6 If:
+
+370 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Clause 7
+
+(a) an APP entity is a body corporate; and (b) the entity collects personal information from a related body
+
+corporate; this principle applies as if the entity’s primary purpose for the collection of the information were the primary purpose for which the related body corporate collected the information.
+
+Exceptions
+
+6.7 This principle does not apply to the use or disclosure by an organisation of: (a) personal information for the purpose of direct marketing; or (b) government related identifiers.
+
+#### 7 Australian Privacy Principle 7—direct marketing
+
+Direct marketing
+
+7.1 If an organisation holds personal information about an individual, the organisation must not use or disclose the information for the purpose of direct marketing.
+
+Note: An act or practice of an agency may be treated as an act or practice of an organisation, see section 7A.
+
+Exceptions—personal information other than sensitive information
+
+7.2 Despite subclause 7.1, an organisation may use or disclose personal information (other than sensitive information) about an individual for the purpose of direct marketing if: (a) the organisation collected the information from the
+
+individual; and (b) the individual would reasonably expect the organisation to
+
+use or disclose the information for that purpose; and (c) the organisation provides a simple means by which the
+
+individual may easily request not to receive direct marketing communications from the organisation; and
+
+Privacy Act 1988 371
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Clause 7
+
+(d) the individual has not made such a request to the
+
+organisation.
+
+7.3 Despite subclause 7.1, an organisation may use or disclose personal information (other than sensitive information) about an individual for the purpose of direct marketing if: (a) the organisation collected the information from: (i) the individual and the individual would not reasonably
+
+expect the organisation to use or disclose the information for that purpose; or (ii) someone other than the individual; and (b) either: (i) the individual has consented to the use or disclosure of
+
+the information for that purpose; or (ii) it is impracticable to obtain that consent; and (c) the organisation provides a simple means by which the
+
+individual may easily request not to receive direct marketing communications from the organisation; and (d) in each direct marketing communication with the individual: (i) the organisation includes a prominent statement that the
+
+individual may make such a request; or (ii) the organisation otherwise draws the individual’s
+
+attention to the fact that the individual may make such a request; and (e) the individual has not made such a request to the
+
+organisation.
+
+Exception—sensitive information
+
+7.4 Despite subclause 7.1, an organisation may use or disclose sensitive information about an individual for the purpose of direct marketing if the individual has consented to the use or disclosure of the information for that purpose.
+
+372 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Clause 7
+
+Exception—contracted service providers
+
+7.5 Despite subclause 7.1, an organisation may use or disclose personal information for the purpose of direct marketing if: (a) the organisation is a contracted service provider for a
+
+Commonwealth contract; and (b) the organisation collected the information for the purpose of
+
+meeting (directly or indirectly) an obligation under the contract; and (c) the use or disclosure is necessary to meet (directly or
+
+indirectly) such an obligation.
+
+Individual may request not to receive direct marketing communications etc.
+
+7.6 If an organisation (the first organisation) uses or discloses personal information about an individual: (a) for the purpose of direct marketing by the first organisation;
+
+or (b) for the purpose of facilitating direct marketing by other
+
+organisations; the individual may: (c) if paragraph (a) applies—request not to receive direct
+
+marketing communications from the first organisation; and (d) if paragraph (b) applies—request the organisation not to use
+
+or disclose the information for the purpose referred to in that paragraph; and (e) request the first organisation to provide its source of the
+
+information.
+
+7.7 If an individual makes a request under subclause 7.6, the first organisation must not charge the individual for the making of, or to give effect to, the request and: (a) if the request is of a kind referred to in paragraph 7.6(c) or
+
+(d)—the first organisation must give effect to the request within a reasonable period after the request is made; and
+
+Privacy Act 1988 373
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Clause 8
+
+(b) if the request is of a kind referred to in paragraph 7.6(e)—the
+
+organisation must, within a reasonable period after the request is made, notify the individual of its source unless it is impracticable or unreasonable to do so.
+
+Interaction with other legislation
+
+7.8 This principle does not apply to the extent that any of the following apply: (aa) Division 5 of Part 7B of the Interactive Gambling Act 2001; (a) the Do Not Call Register Act 2006; (b) the Spam Act 2003; (c) any other Act of the Commonwealth, or a law in force in an
+
+external Territory, prescribed by the regulations.
+
+8 Australian Privacy Principle 8—cross-border disclosure of personal information
+
+8.1 Before an APP entity discloses personal information about an individual to a person (the overseas recipient): (a) who is not in Australia or an external Territory; and (b) who is not the entity or the individual; the entity must take such steps as are reasonable in the circumstances to ensure that the overseas recipient does not breach the Australian Privacy Principles (other than Australian Privacy Principle 1) in relation to the information.
+
+Note: In certain circumstances, an act done, or a practice engaged in, by the overseas recipient is taken, under section 16C, to have been done, or engaged in, by the APP entity and to be a breach of the Australian Privacy Principles.
+
+8.2 Subclause 8.1 does not apply to the disclosure of personal information about an individual by an APP entity to the overseas recipient if: (a) the entity reasonably believes that: (i) the recipient of the information is subject to a law, or
+
+binding scheme, that has the effect of protecting the
+
+374 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Clause 8
+
+information in a way that, overall, is at least substantially similar to the way in which the Australian Privacy Principles protect the information; and (ii) there are mechanisms that the individual can access to
+
+take action to enforce that protection of the law or binding scheme; or (aa) subclause 8.3 applies in relation to the disclosure of the
+
+information; or (b) both of the following apply: (i) the entity expressly informs the individual that if he or
+
+she consents to the disclosure of the information, subclause 8.1 will not apply to the disclosure; (ii) after being so informed, the individual consents to the
+
+disclosure; or (c) the disclosure of the information is required or authorised by
+
+or under an Australian law or a court/tribunal order; or (d) a permitted general situation (other than the situation referred
+
+to in item 4 or 5 of the table in subsection 16A(1)) exists in relation to the disclosure of the information by the APP entity; or (e) the entity is an agency and the disclosure of the information
+
+is required or authorised by or under an international agreement relating to information sharing to which Australia is a party; or (f) the entity is an agency and both of the following apply: (i) the entity reasonably believes that the disclosure of the
+
+information is reasonably necessary for one or more enforcement related activities conducted by, or on behalf of, an enforcement body; (ii) the recipient is a body that performs functions, or
+
+exercises powers, that are similar to those performed or exercised by an enforcement body.
+
+Note: For permitted general situation, see section 16A.
+
+Privacy Act 1988 375
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Clause 9
+
+8.3 This subclause applies in relation to the disclosure of personal information (the relevant personal information) about an individual by an APP entity to an overseas recipient if: (a) the recipient of the relevant personal information is: (i) subject to the laws of a country that is prescribed by the
+
+regulations; or (ii) a participant in a binding scheme that is prescribed by
+
+the regulations; and (b) if the country or binding scheme is prescribed subject to
+
+conditions—those conditions are satisfied.
+
+Note: There are prerequisites that must be satisfied before the matters mentioned in this subclause are prescribed: see subsection 100(1A).
+
+9 Australian Privacy Principle 9—adoption, use or disclosure of government related identifiers
+
+Adoption of government related identifiers
+
+9.1 An organisation must not adopt a government related identifier of an individual as its own identifier of the individual unless: (a) the adoption of the government related identifier is required
+
+or authorised by or under an Australian law or a court/tribunal order; or (b) subclause 9.3 applies in relation to the adoption.
+
+Note: An act or practice of an agency may be treated as an act or practice of an organisation, see section 7A.
+
+Use or disclosure of government related identifiers
+
+9.2 An organisation must not use or disclose a government related identifier of an individual unless: (a) the use or disclosure of the identifier is reasonably necessary
+
+for the organisation to verify the identity of the individual for the purposes of the organisation’s activities or functions; or (b) the use or disclosure of the identifier is reasonably necessary
+
+for the organisation to fulfil its obligations to an agency or a State or Territory authority; or
+
+376 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Clause 9
+
+(c) the use or disclosure of the identifier is required or authorised
+
+by or under an Australian law or a court/tribunal order; or (d) a permitted general situation (other than the situation referred
+
+to in item 4 or 5 of the table in subsection 16A(1)) exists in relation to the use or disclosure of the identifier; or (e) the organisation reasonably believes that the use or disclosure
+
+of the identifier is reasonably necessary for one or more enforcement related activities conducted by, or on behalf of, an enforcement body; or (f) subclause 9.3 applies in relation to the use or disclosure.
+
+Note 1: An act or practice of an agency may be treated as an act or practice of an organisation, see section 7A.
+
+Note 2: For permitted general situation, see section 16A.
+
+Regulations about adoption, use or disclosure
+
+9.3 This subclause applies in relation to the adoption, use or disclosure by an organisation of a government related identifier of an individual if: (a) the identifier is prescribed by the regulations; and (b) the organisation is prescribed by the regulations, or is
+
+included in a class of organisations prescribed by the regulations; and (c) the adoption, use or disclosure occurs in the circumstances
+
+prescribed by the regulations.
+
+Note: There are prerequisites that must be satisfied before the matters mentioned in this subclause are prescribed, see subsections 100(2) and (3).
+
+Privacy Act 1988 377
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+## Part 4 Integrity of personal information Clause 10
+
+### Part 4—Integrity of personal information
+
+#### 10 Australian Privacy Principle 10—quality of personal information
+
+10.1 An APP entity must take such steps (if any) as are reasonable in the circumstances to ensure that the personal information that the entity collects is accurate, up-to-date and complete.
+
+10.2 An APP entity must take such steps (if any) as are reasonable in the circumstances to ensure that the personal information that the entity uses or discloses is, having regard to the purpose of the use or disclosure, accurate, up-to-date, complete and relevant.
+
+11 Australian Privacy Principle 11—security of personal information
+
+11.1 If an APP entity holds personal information, the entity must take such steps as are reasonable in the circumstances to protect the information: (a) from misuse, interference and loss; and (b) from unauthorised access, modification or disclosure.
+
+### 11.2 If: (a) an APP entity holds personal information about an
+
+individual; and (b) the entity no longer needs the information for any purpose for
+
+which the information may be used or disclosed by the entity under this Schedule; and (c) the information is not contained in a Commonwealth record;
+
+and (d) the entity is not required by or under an Australian law, or a
+
+court/tribunal order, to retain the information; the entity must take such steps as are reasonable in the circumstances to destroy the information or to ensure that the information is de-identified.
+
+378 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Integrity of personal information Part 4
+
+Clause 11
+
+11.3 For the purposes of subclauses 11.1 and 11.2, without limiting those subclauses or any other provision of this Act, such steps include technical and organisational measures.
+
+Privacy Act 1988 379
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Clause 12
+
+## Part 5—Access to, and correction of, personal
+
+## information
+
+#### 12 Australian Privacy Principle 12—access to personal information
+
+Access
+
+12.1 If an APP entity holds personal information about an individual, the entity must, on request by the individual, give the individual access to the information.
+
+Exception to access—agency
+
+### 12.2 If: (a) the APP entity is an agency; and (b) the entity is required or authorised to refuse to give the
+
+individual access to the personal information by or under: (i) the Freedom of Information Act; or (ii) any other Act of the Commonwealth, or a law in force
+
+in an external Territory, that provides for access by persons to documents; then, despite subclause 12.1, the entity is not required to give access to the extent that the entity is required or authorised to refuse to give access.
+
+Exception to access—organisation
+
+12.3 If the APP entity is an organisation then, despite subclause 12.1, the entity is not required to give the individual access to the personal information to the extent that: (a) the entity reasonably believes that giving access would pose
+
+a serious threat to the life, health or safety of any individual, or to public health or public safety; or (b) giving access would have an unreasonable impact on the
+
+privacy of other individuals; or
+
+380 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Clause 12
+
+(c) the request for access is frivolous or vexatious; or (d) the information relates to existing or anticipated legal
+
+proceedings between the entity and the individual, and would not be accessible by the process of discovery in those proceedings; or (e) giving access would reveal the intentions of the entity in
+
+relation to negotiations with the individual in such a way as to prejudice those negotiations; or (f) giving access would be unlawful; or (g) denying access is required or authorised by or under an
+
+Australian law or a court/tribunal order; or (h) both of the following apply: (i) the entity has reason to suspect that unlawful activity, or
+
+misconduct of a serious nature, that relates to the entity’s functions or activities has been, is being or may be engaged in; (ii) giving access would be likely to prejudice the taking of
+
+appropriate action in relation to the matter; or (i) giving access would be likely to prejudice one or more
+
+enforcement related activities conducted by, or on behalf of, an enforcement body; or (j) giving access would reveal evaluative information generated
+
+within the entity in connection with a commercially sensitive decision-making process.
+
+Dealing with requests for access
+
+12.4 The APP entity must: (a) respond to the request for access to the personal information: (i) if the entity is an agency—within 30 days after the
+
+request is made; or (ii) if the entity is an organisation—within a reasonable
+
+period after the request is made; and (b) give access to the information in the manner requested by the
+
+individual, if it is reasonable and practicable to do so.
+
+Privacy Act 1988 381
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Clause 12
+
+Other means of access
+
+### 12.5 If the APP entity refuses: (a) to give access to the personal information because of
+
+subclause 12.2 or 12.3; or (b) to give access in the manner requested by the individual; the entity must take such steps (if any) as are reasonable in the circumstances to give access in a way that meets the needs of the entity and the individual.
+
+12.6 Without limiting subclause 12.5, access may be given through the use of a mutually agreed intermediary.
+
+Access charges
+
+12.7 If the APP entity is an agency, the entity must not charge the individual for the making of the request or for giving access to the personal information.
+
+### 12.8 If: (a) the APP entity is an organisation; and (b) the entity charges the individual for giving access to the
+
+personal information; the charge must not be excessive and must not apply to the making of the request.
+
+Refusal to give access
+
+12.9 If the APP entity refuses to give access to the personal information because of subclause 12.2 or 12.3, or to give access in the manner requested by the individual, the entity must give the individual a written notice that sets out: (a) the reasons for the refusal except to the extent that, having
+
+regard to the grounds for the refusal, it would be unreasonable to do so; and (b) the mechanisms available to complain about the refusal; and (c) any other matter prescribed by the regulations.
+
+382 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Clause 13
+
+12.10 If the APP entity refuses to give access to the personal information because of paragraph 12.3(j), the reasons for the refusal may include an explanation for the commercially sensitive decision.
+
+13 Australian Privacy Principle 13—correction of personal information
+
+Correction
+
+### 13.1 If: (a) an APP entity holds personal information about an
+
+individual; and (b) either: (i) the entity is satisfied that, having regard to a purpose for
+
+which the information is held, the information is inaccurate, out-of-date, incomplete, irrelevant or misleading; or (ii) the individual requests the entity to correct the
+
+information; the entity must take such steps (if any) as are reasonable in the circumstances to correct that information to ensure that, having regard to the purpose for which it is held, the information is accurate, up-to-date, complete, relevant and not misleading.
+
+Notification of correction to third parties
+
+### 13.2 If: (a) the APP entity corrects personal information about an
+
+individual that the entity previously disclosed to another APP entity; and (b) the individual requests the entity to notify the other APP
+
+entity of the correction; the entity must take such steps (if any) as are reasonable in the circumstances to give that notification unless it is impracticable or unlawful to do so.
+
+Privacy Act 1988 383
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Clause 13
+
+Refusal to correct information
+
+13.3 If the APP entity refuses to correct the personal information as requested by the individual, the entity must give the individual a written notice that sets out: (a) the reasons for the refusal except to the extent that it would
+
+be unreasonable to do so; and (b) the mechanisms available to complain about the refusal; and (c) any other matter prescribed by the regulations.
+
+Request to associate a statement
+
+### 13.4 If: (a) the APP entity refuses to correct the personal information as
+
+requested by the individual; and (b) the individual requests the entity to associate with the
+
+information a statement that the information is inaccurate, out-of-date, incomplete, irrelevant or misleading; the entity must take such steps as are reasonable in the circumstances to associate the statement in such a way that will make the statement apparent to users of the information.
+
+Dealing with requests
+
+13.5 If a request is made under subclause 13.1 or 13.4, the APP entity: (a) must respond to the request: (i) if the entity is an agency—within 30 days after the
+
+request is made; or (ii) if the entity is an organisation—within a reasonable
+
+period after the request is made; and (b) must not charge the individual for the making of the request,
+
+for correcting the personal information or for associating the statement with the personal information (as the case may be).
+
+384 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Clause 1
+
+## Schedule 2—Statutory Tort for Serious
+
+## Invasions of Privacy
+
+Note: See section 94A.
+
+### Part 1—Preliminary
+
+#### 1 Objects of this Schedule
+
+The objects of this Schedule are to: (a) establish a cause of action for serious invasions of privacy;
+
+and (b) provide for defences, remedies and exemptions in respect of
+
+the cause of action; and (c) recognise that there is a public interest in protecting privacy;
+
+and (d) recognise that the public interest in protecting privacy is
+
+balanced with other public interests; and (e) implement Australia’s international obligations in relation to
+
+privacy.
+
+#### 2 Simplified outline of this Schedule
+
+This Schedule establishes a cause of action in tort for serious invasions of privacy.
+
+An individual has a cause of action against another person if, among other things, the other person invaded the individual’s privacy by intruding upon their seclusion or misusing information relating to them.
+
+It is a defence to the cause of action if the other person acted with lawful authority or in certain circumstances involving consent, necessity or the defence of persons or property. If the invasion of privacy involved the publication of information, the other person
+
+Privacy Act 1988 385
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Clause 3
+
+may also have access to certain defences that would ordinarily arise in the context of defamation proceedings.
+
+Exemptions apply in relation to intelligence agencies and law enforcement bodies, persons disclosing information to such agencies or bodies, persons using information disclosed by such agencies or bodies, and persons under 18 years of age. Journalists and certain other persons are also exempt in certain circumstances.
+
+The court may, during the proceedings, grant an injunction restraining the other person from invading the individual’s privacy. The court may also summarily dismiss the proceedings in certain circumstances.
+
+The court may grant remedies including damages.
+
+There are time limits on when proceedings under this Schedule may be commenced.
+
+This Schedule is intended to be read and construed separately from the rest of this Act.
+
+#### 3 Crown to be bound
+
+This Schedule binds the Crown in each of its capacities.
+
+#### 4 Constitutional basis of this Schedule
+
+This Schedule relies on the Commonwealth’s legislative powers
+
+under paragraph 51(xxix) of the Constitution to give effect to Australia’s obligations under the International Covenant on Civil and Political Rights.
+
+#### 5 Additional operation of this Schedule
+
+(1) In addition to clause 4, this Schedule also has effect as provided by
+
+this clause.
+
+386 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Communications
+
+Clause 5
+
+(2) This Schedule also has the effect it would have if a reference in
+
+this Schedule to an invasion of privacy were expressly confined to an invasion of privacy using a service to which paragraph 51(v) of the Constitution applies.
+
+Corporations
+
+(3) This Schedule also has the effect it would have if a reference in
+
+this Schedule to an invasion of privacy were expressly confined to an invasion of privacy by or on behalf of a corporation to which paragraph 51(xx) of the Constitution applies.
+
+Territories
+
+(4) This Schedule also has the effect it would have if a reference in
+
+this Schedule to an invasion of privacy were expressly confined to an invasion of privacy in a Territory.
+
+Trade and commerce
+
+(5) This Schedule also has the effect it would have if a reference in
+
+this Schedule to an invasion of privacy were expressly confined to an invasion of privacy in the course of trade or commerce: (a) between Australia and places outside Australia; or (b) among the States; or (c) between a State and a Territory; or (d) between 2 Territories.
+
+Banking and insurance
+
+(6) This Schedule also has the effect it would have if a reference in
+
+this Schedule to an invasion of privacy were expressly confined to an invasion of privacy in the course of the carrying on of: (a) the business of banking, other than State banking (within the
+
+meaning of paragraph 51(xiii) of the Constitution) not extending beyond the limits of the State concerned; or
+
+Privacy Act 1988 387
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Clause 6
+
+(b) the business of insurance, other than State insurance (within
+
+the meaning of paragraph 51(xiv) of the Constitution) not extending beyond the limits of the State concerned.
+
+Incidental
+
+(7) This Schedule also has the effect it would have if a reference in
+
+this Schedule to an invasion of privacy were expressly confined to an invasion of privacy incidental to the execution of any of the legislative powers of the Parliament or the executive power of the Commonwealth.
+
+#### 6 Interpretation
+
+### (1) In this Schedule:
+
+agency has the meaning given by subsection 6(1) of this Act.
+
+ASIO affiliate has the same meaning as in the Australian Security Intelligence Organisation Act 1979.
+
+Australian Geospatial-Intelligence Organisation means that part of the Defence Department known as the Australian Geospatial-Intelligence Organisation.
+
+Australian law has the meaning given by subsection 6(1) of this Act.
+
+court/tribunal order has the meaning given by subsection 6(1) of this Act.
+
+Defence Department means the Department administered by the Minister administering Part III of the Defence Act 1903.
+
+Defence Intelligence Organisation means that part of the Defence Department known as the Defence Intelligence Organisation.
+
+intelligence agency means: (a) the agency known as the Australian Criminal Intelligence
+
+Commission established by the Australian Crime Commission Act 2002; or
+
+388 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Clause 6
+
+(b) the Australian Geospatial-Intelligence Organisation; or (c) the Australian Secret Intelligence Service; or (d) the Australian Security Intelligence Organisation; or (e) the Australian Signals Directorate; or (f) the Defence Intelligence Organisation; or (g) the Office of National Intelligence.
+
+International Covenant on Civil and Political Rights means the International Covenant on Civil and Political Rights done at New York on 16 December 1966, as in force for Australia from time to time.
+
+Note: The Covenant is in Australian Treaty Series 1980 No. 23 ([1980] ATS 23) and could in 2024 be viewed in the Australian Treaties Library on the AustLII website (http://www.austlii.edu.au).
+
+intruding upon the seclusion of an individual includes, but is not limited to, the following: (a) physically intruding into the person’s private space; (b) watching, listening to or recording the person’s private
+
+activities or private affairs.
+
+journalist has the meaning given by subclause 15(2).
+
+journalistic material has the meaning given by subclause 15(3).
+
+law enforcement body means: (a) the Australian Federal Police; or (b) the National Anti-Corruption Commissioner; or (c) the Australian Crime Commission; or (d) a police force or service of a State or a Territory; or (e) the New South Wales Crime Commission; or (f) the Independent Commission Against Corruption of New
+
+South Wales; or (g) the Law Enforcement Conduct Commission of New South
+
+Wales; or (h) the Independent Broad-based Anti-corruption Commission of
+
+Victoria; or
+
+Privacy Act 1988 389
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Clause 6
+
+(i) the Crime and Corruption Commission of Queensland; or (j) the Corruption and Crime Commission of Western Australia;
+
+or (k) the Independent Commission Against Corruption of South
+
+Australia.
+
+misusing information that relates to an individual includes, but is not limited to, collecting, using or disclosing information about the individual.
+
+reckless has the same meaning as in the Criminal Code.
+
+staff member of an agency or State or Territory authority (including an intelligence agency or a law enforcement body) includes: (a) the head (however described) of the agency or authority, or
+
+another person who holds an office or appointment in relation to the agency or authority; and (b) a person who is otherwise a member of the staff of the
+
+agency or authority (whether an employee of the agency or authority, a consultant or contractor to the agency or authority, or a person who is made available to perform services for the agency or authority by another agency or authority, or another person); and (c) in the case of the Australian Federal Police—a member or
+
+special member of the Australian Federal Police; and (d) in the case of a police force of a State or Territory—a
+
+member (however described) of that police force.
+
+State or Territory authority has the meaning given by section 6C of this Act.
+
+(2) In determining the meaning of an expression used in a provision of
+
+this Schedule, an expression used in the rest of this Act is to be disregarded (unless a provision of this Schedule expressly provides otherwise).
+
+(3) In determining the meaning of a provision of this Schedule, the rest
+
+of this Act is to be disregarded.
+
+390 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Clause 7
+
+### Part 2—Serious invasions of privacy
+
+#### 7 Cause of action
+
+(1) An individual (the plaintiff) has a cause of action in tort against
+
+another person (the defendant) if: (a) the defendant invaded the plaintiff’s privacy by doing one or
+
+both of the following: (i) intruding upon the plaintiff’s seclusion; (ii) misusing information that relates to the plaintiff; and (b) a person in the position of the plaintiff would have had a
+
+reasonable expectation of privacy in all of the circumstances; and (c) the invasion of privacy was intentional or reckless; and (d) the invasion of privacy was serious; and (e) the public interest in the plaintiff’s privacy outweighed any
+
+countervailing public interest.
+
+(2) The invasion of privacy is actionable without proof of damage.
+
+Countervailing public interest
+
+(3) Without limiting what constitutes a countervailing public interest,
+
+any of the following matters of public interest may constitute a countervailing public interest: (a) freedom of expression, including political communication
+
+and artistic expression; (b) freedom of the media; (c) the proper administration of government; (d) open justice; (e) public health and safety; (f) national security; (g) the prevention and detection of crime and fraud.
+
+Privacy Act 1988 391
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Clause 7
+
+Reasonable expectation of privacy
+
+(5) Without limiting the matters that the court may consider in
+
+determining whether a person in the position of the plaintiff would have had a reasonable expectation of privacy in all of the circumstances, the court may consider the following: (a) the means, including the use of any device or technology,
+
+used to invade the plaintiff’s privacy; (b) the purpose of the invasion of privacy; (c) attributes of the plaintiff including the plaintiff’s age,
+
+occupation or cultural background; (d) the conduct of the plaintiff, including whether the plaintiff
+
+invited publicity or manifested a desire for privacy; (e) if the defendant invaded the plaintiff’s privacy by intruding
+
+upon the plaintiff’s seclusion—the place where the intrusion occurred; (f) if the defendant invaded the plaintiff’s privacy by misusing
+
+information that relates to the plaintiff—the following: (i) the nature of the information, including whether the
+
+information related to intimate or family matters, health or medical matters or financial matters; (ii) how the information was held or communicated by the
+
+plaintiff; (iii) whether and to what extent the information was already
+
+in the public domain.
+
+Seriousness
+
+(6) Without limiting the matters that the court may consider in
+
+determining whether the invasion of privacy was serious, the court may consider the following: (a) the degree of any offence, distress or harm to dignity that the
+
+invasion of privacy was likely to cause to a person of ordinary sensibilities in the position of the plaintiff; (b) whether the defendant knew or ought to have known that the
+
+invasion of privacy was likely to offend, distress or harm the dignity of the plaintiff;
+
+392 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Clause 8
+
+(c) if the invasion of privacy was intentional—whether the
+
+defendant was motivated by malice.
+
+Untrue information
+
+(7) If the defendant invaded the plaintiff’s privacy by misusing
+
+information that relates to the plaintiff, it is immaterial whether the information was true.
+
+#### 8 Defences
+
+(1) It is a defence to the cause of action if: (a) the invasion of privacy was required or authorised by or
+
+under an Australian law or court/tribunal order; or (b) the plaintiff, or a person having lawful authority to do so for
+
+the plaintiff, expressly or impliedly consented to the invasion of privacy; or (c) the defendant reasonably believed that the invasion of
+
+privacy was necessary to prevent or lessen a serious threat to the life, health or safety of a person; or (d) the invasion of privacy was: (i) incidental to the exercise of a lawful right of defence of
+
+persons or property; and (ii) proportionate, necessary and reasonable.
+
+(2) It is also a defence to the cause of action if: (a) the defendant invaded the plaintiff’s privacy by publishing,
+
+within the meaning of an Australian law that deals with defamation, information that relates to the plaintiff; and (b) the Australian law provides for a related defence; and (c) the defendant would be able to establish the related defence if
+
+a reference in the Australian law to the publication of defamatory matter were to include a reference to the invasion of privacy.
+
+(3) Each of the following is a related defence for the purposes of this
+
+clause:
+
+Privacy Act 1988 393
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Clause 8A
+
+(a) a defence of absolute privilege; (b) a defence for publication of public documents; (c) a defence of fair report of proceedings of public concern.
+
+#### 8A Determination whether exemption applies
+
+(1) The court may, at any stage of the proceedings, determine whether
+
+an exemption in Part 3 applies in relation to the invasion of privacy.
+
+(2) The court may make the determination on application of a party to
+
+the proceedings or on its own motion.
+
+(3) If a party to the proceedings applies for a determination under this
+
+clause before the trial for the proceedings commences, the court is to make the determination as soon as practicable, and before the trial commences, unless satisfied that there are special circumstances justifying the postponement of the determination to a later stage of the proceedings (including during the trial).
+
+(4) This clause does not limit any powers that the court has apart from
+
+this clause.
+
+#### 9 Injunctions
+
+(1) The court may, at any stage of the proceedings, grant an injunction
+
+restraining the defendant from invading the plaintiff’s privacy.
+
+(2) If the invasion of privacy involves publishing information that
+
+relates to the plaintiff, the court must have particular regard to the public interest in the publication of the information when considering whether to grant the injunction.
+
+#### 10 Summary judgment
+
+(1) The court may give judgment for the defendant if the court is
+
+satisfied that the plaintiff has no reasonable prospect of successfully prosecuting the proceedings.
+
+394 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Clause 11
+
+(2) This clause does not limit any powers that the court has apart from
+
+this clause.
+
+#### 11 Damages
+
+(1) Subject to this clause, the court may award damages to the
+
+plaintiff.
+
+### (2) The court must not award aggravated damages.
+
+(3) The court may award damages for emotional distress.
+
+(4) The court may award exemplary or punitive damages in
+
+exceptional circumstances.
+
+(5) The sum of: (a) any damages awarded for non-economic loss; and (b) any exemplary or punitive damages; must not exceed the greater of: (c) $478,550; and (d) the maximum amount of damages for non-economic loss that
+
+may be awarded in defamation proceedings under an Australian law.
+
+(6) Without limiting the matters that the court may consider in
+
+determining the amount of damages, the court may consider the following: (a) whether the defendant apologised to the plaintiff; (b) if the defendant invaded the plaintiff’s privacy by publishing
+
+information that relates to the plaintiff—whether the defendant published a correction; (c) whether the plaintiff received or agreed to receive
+
+compensation in relation to the invasion of privacy; (d) whether the plaintiff or the defendant took reasonable steps
+
+to settle the dispute; (e) whether the defendant engaged in conduct after the invasion
+
+of privacy, including during the proceedings, that was
+
+Privacy Act 1988 395
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Clause 12
+
+unreasonable and subjected the plaintiff to particular or additional embarrassment, harm, distress or humiliation.
+
+#### 12 Other remedies
+
+(1) The court may grant such remedies, in addition to or instead of
+
+damages awarded in accordance with clause 11, as the court thinks most appropriate in the circumstances.
+
+(2) Without limiting subclause (1), those remedies may include one or
+
+more of the following: (a) an account of profits; (b) an injunction; (c) an order requiring the defendant to apologise to the plaintiff; (d) a correction order; (e) an order that any material (including copies): (i) that is in the defendant’s possession, or that the
+
+defendant is able to retrieve; and (ii) that was obtained or made as a result of the invasion of
+
+privacy or was misused during the course of the invasion of privacy; be destroyed, be delivered up to the plaintiff or be dealt with
+
+as the court directs; (f) a declaration that the defendant has seriously invaded the
+
+plaintiff’s privacy.
+
+#### 13 The effect of an apology on liability
+
+For the purposes of this Schedule, an apology made by or on behalf
+
+of the defendant in connection with the invasion of privacy: (a) does not constitute an express or implied admission of fault
+
+or liability by the defendant in connection with the invasion of privacy; and (b) is not relevant to the determination of fault or liability in
+
+connection with the invasion of privacy.
+
+396 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Clause 14
+
+Note: The court may consider whether the defendant apologised to the plaintiff in determining the amount of damages (if any) to award to the plaintiff (see paragraph 11(6)(a)).
+
+#### 14 When proceedings must be commenced
+
+(1) The plaintiff must commence proceedings under this Schedule: (a) if the plaintiff was under 18 years of age when the invasion
+
+of privacy occurred—before the plaintiff’s 21st birthday; or (b) otherwise—before the earlier of: (i) the day that is 1 year after the day on which the plaintiff
+
+became aware of the invasion of privacy; and (ii) the day that is 3 years after the invasion of privacy
+
+occurred.
+
+Note: See also clause 19 (single publication rule).
+
+(2) However, the plaintiff may apply to the court for an order that,
+
+despite subclause (1), the plaintiff may commence proceedings under this Schedule before a day specified in the order.
+
+(3) The court may make the order if the court is satisfied that it was
+
+not reasonable in the circumstances for the plaintiff to have commenced proceedings in accordance with subclause (1) in relation to the invasion of privacy.
+
+(4) The day specified in the order must not be later than 6 years after
+
+the day on which the invasion of privacy occurred.
+
+Privacy Act 1988 397
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Clause 15
+
+### Part 3—Exemptions
+
+#### 15 Journalists etc.
+
+(1) This Schedule does not apply to an invasion of privacy by any of
+
+the following to the extent that the invasion of privacy involves the collection, preparation for publication or publication of journalistic material: (a) a journalist; (b) an employer of, or a person engaging, a journalist; (c) a person assisting a journalist who is employed or engaged
+
+by: (i) the journalist’s employer; or (ii) a person engaging the journalist; (d) a person assisting a journalist in the person’s professional
+
+capacity.
+
+(1A) This Schedule does not apply to an invasion of privacy to the
+
+extent that the invasion of privacy involves the publication or distribution of journalistic material that was prepared for publication by a journalist.
+
+(2) A journalist is a person who: (a) works in a professional capacity as a journalist; and (b) is subject to: (i) standards of professional conduct that apply to
+
+journalists; or (ii) a code of practice that applies to journalists.
+
+(3) Material is journalistic material if it: (a) has the character of news, current affairs or a documentary;
+
+or (b) consists of commentary or opinion on, or analysis of, news,
+
+current affairs or a documentary; or
+
+398 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Exemptions Part 3
+
+Clause 16
+
+(c) consists of editorial content relating to news, current affairs
+
+or a documentary.
+
+(4) For the purposes of this clause, if a journalist invades an
+
+individual’s privacy, it is immaterial whether the invasion of privacy breaches the standards or the code of practice to which the journalist is subject.
+
+16 Agencies and State and Territory authorities (other than intelligence agencies and law enforcement bodies)
+
+This Schedule does not apply to an invasion of an individual’s
+
+privacy by an agency or a State or Territory authority (other than an intelligence agency or a law enforcement body) to the extent that the agency or authority invades the individual’s privacy, in good faith: (a) in the performance or purported performance of a function of
+
+the agency or authority; or (b) in the exercise or purported exercise of a power of the agency
+
+or authority.
+
+16A Staff members of agencies or State and Territory authorities (other than intelligence agencies and law enforcement bodies)
+
+This Schedule does not apply to an invasion of an individual’s
+
+privacy by a staff member of an agency or a State or Territory authority (other than a staff member of an intelligence agency or a law enforcement body) to the extent that the staff member invades the individual’s privacy, in good faith: (a) in the performance or purported performance of a function of
+
+the agency or authority; or (b) in the exercise or purported exercise of a power of the agency
+
+or authority.
+
+#### 16B Law enforcement bodies
+
+This Schedule does not apply to:
+
+Privacy Act 1988 399
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Clause 17
+
+(a) an invasion of privacy by a law enforcement body; or (b) an invasion of privacy by a person who is a staff member of a
+
+law enforcement body in the performance of the person’s duties, powers or functions as such a staff member; or (c) an invasion of privacy to the extent that it involves a
+
+disclosure of information to a law enforcement body; or (d) an invasion of privacy to the extent that it involves
+
+information that was disclosed by a law enforcement body.
+
+#### 17 Intelligence agencies
+
+This Schedule does not apply to: (a) an invasion of privacy by an intelligence agency; or (aa) an invasion of privacy by a person who is an ASIO affiliate,
+
+or an agent or staff member of an intelligence agency, in the performance of: (i) if the person is an ASIO affiliate—functions or services
+
+for the Australian Security Intelligence Organisation; or (ii) otherwise—the person’s duties, powers or functions as
+
+such an agent or staff member; or (b) an invasion of privacy to the extent that it involves a
+
+disclosure of information to an intelligence agency; or (c) an invasion of privacy to the extent that it involves
+
+information that was disclosed by an intelligence agency.
+
+#### 18 Persons under 18
+
+This Schedule does not apply to an invasion of privacy by a person
+
+who is under 18 years of age.
+
+400 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Part 4—Miscellaneous
+
+#### 19 Single publication rule
+
+Clause 19
+
+(1) This clause applies if: (a) a publisher publishes information that relates to an individual
+
+to the public (the first publication); and (b) the publisher or an associate of the publisher subsequently
+
+publishes (whether or not to the public) information that is substantially the same (the subsequent publication); and (c) the manner of the subsequent publication is not materially
+
+different from the manner of the first publication.
+
+(2) If an invasion of the individual’s privacy consists of the first
+
+publication or the subsequent publication, the invasion of privacy is taken to occur on the day of the first publication for the purposes of this Schedule.
+
+(3) In determining whether the manner of the subsequent publication is
+
+materially different from the manner of the first publication, the court may have regard to: (a) the level of prominence that the information is given; and (b) the extent of the subsequent publication.
+
+### (4) In this clause:
+
+associate, of a publisher, means: (a) an employee of the publisher; or (b) a person who publishes information as a contractor of the
+
+publisher; or (c) an associated entity of the publisher; or (d) an employee of an associated entity of the publisher; or (e) a person who publishes information as a contractor of an
+
+associated entity of the publisher.
+
+Privacy Act 1988 401
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+## Part 4 Miscellaneous Clause 20
+
+associated entity has the same meaning as in the Corporations Act 2001.
+
+#### 20 Deceased persons
+
+(1) A person (including a personal representative of a deceased
+
+person) cannot assert, continue or enforce an action under this Schedule in relation to: (a) an invasion of the privacy of a deceased person (whether
+
+occurring before or after the deceased person’s death); or (b) an invasion of privacy by a person who has died.
+
+(2) Nothing in this clause prevents the court, if it considers it in the
+
+interests of justice to do so, from determining the question of costs for proceedings discontinued because of this clause.
+
+#### 21 Saving of other laws and remedies
+
+This Schedule is not intended to exclude or limit the concurrent
+
+operation of any law, whether written or unwritten, of a State or a Territory.
+
+#### 22 Intervention of Information Commissioner
+
+The Information Commissioner may, with the leave of the court: (a) intervene in proceedings under this Schedule; or (b) assist the court as amicus curiae.
+
+#### 23 Jurisdiction
+
+Federal and State courts
+
+(1) Jurisdiction is conferred on the Federal Circuit and Family Court of
+
+Australia (Division 2) in relation to matters arising under this Schedule.
+
+Note: State courts and the Federal Court of Australia also have jurisdiction in relation to matters arising under this Schedule (see subsection 39(2) and paragraph 39B(1A)(c) of the Judiciary Act 1903).
+
+402 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Territory courts
+
+Clause 23
+
+(2) Jurisdiction is conferred on the courts of the Territories in relation
+
+to matters arising under this Schedule.
+
+(3) Jurisdiction is conferred under subclause (2): (a) only so far as the Constitution permits; and (b) within the limits (other than limits of locality) of the
+
+jurisdiction of the court (whether those limits are limits as to subject matter or otherwise).
+
+Privacy Act 1988 403
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Endnote 1—About the endnotes
+
+## Endnotes
+
+### Endnote 1—About the endnotes
+
+The endnotes provide information about this compilation and the compiled law.
+
+The following endnotes are included in every compilation:
+
+Endnote 1—About the endnotes Endnote 2—Abbreviation key Endnote 3—Legislation history Endnote 4—Amendment history
+
+Abbreviation key—Endnote 2 The abbreviation key sets out abbreviations that may be used in the endnotes.
+
+Legislation history and amendment history—Endnotes 3 and 4 Amending laws are annotated in the legislation history and amendment history.
+
+The legislation history in endnote 3 provides information about each law that has amended (or will amend) the compiled law. The information includes commencement details for amending laws and details of any application, saving or transitional provisions that are not included in this compilation.
+
+The amendment history in endnote 4 provides information about amendments at the provision (generally section or equivalent) level. It also includes information about any provision of the compiled law that has been repealed in accordance with a provision of the law.
+
+Editorial changes The Legislation Act 2003 authorises First Parliamentary Counsel to make editorial and presentational changes to a compiled law in preparing a compilation of the law for registration. The changes must not change the effect of the law. Editorial changes take effect from the compilation registration date.
+
+If the compilation includes editorial changes, the endnotes include a brief outline of the changes in general terms. Full details of any changes can be obtained from the Office of Parliamentary Counsel.
+
+Misdescribed amendments A misdescribed amendment is an amendment that does not accurately describe how an amendment is to be made. If, despite the misdescription, the amendment
+
+404 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Endnote 1—About the endnotes
+
+can be given effect as intended, then the misdescribed amendment can be incorporated through an editorial change made under section 15V of the Legislation Act 2003.
+
+If a misdescribed amendment cannot be given effect as intended, the amendment is not incorporated and “(md not incorp)” is added to the amendment history.
+
+Privacy Act 1988 405
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Endnote 2—Abbreviation key
+
+### Endnote 2—Abbreviation key
+
+ad = added or inserted orig = original
+
+am = amended p = page(s)
+
+amdt = amendment para = paragraph(s)/subparagraph(s)
+
+C[x] = Compilation No. x /sub-subparagraph(s)
+
+ch = Chapter(s) pres = present
+
+cl = clause(s) prev = previous
+
+cont. = continued (prev…) = previously
+
+def = definition(s) pt = Part(s)
+
+Dict = Dictionary r = regulation(s)/Court rule(s)
+
+disallowed = disallowed by Parliament reloc = relocated
+
+div = Division(s) renum = renumbered
+
+ed = editorial change rep = repealed
+
+exp = expires/expired or ceases/ceased to have rs = repealed and substituted effect s = section(s)/subsection(s)
+
+gaz = gazette /rule(s)/subrule(s)/order(s)/suborder(s)
+
+LA = Legislation Act 2003 sch = Schedule(s)
+
+LIA = Legislative Instruments Act 2003 SLI = Select Legislative Instrument
+
+(md) = misdescribed amendment can be given SR = Statutory Rules effect sub ch = Sub-Chapter(s)
+
+(md not incorp) = misdescribed amendment sub div = Subdivision(s) cannot be given effect sub pt = Subpart(s)
+
+mod = modified/modification underlining = whole or part not
+
+No. = Number(s) commenced or to be commenced
+
+Ord = Ordinance
+
+406 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+### Endnote 3—Legislation history
+
+Endnote 3—Legislation history
+
+Assent Commencement Application, saving and transitional provisions
+
+Act Number and year
+
+Privacy Act 1988 119, 1988 14 Dec 1988 1 Jan 1989 (s 2 and gaz 1988, No S399)
+
+11, 1990 17 Jan 1990 s 41–43: 14 Feb 1990 (s 2(1))
+
+Law and Justice Legislation Amendment Act 1989
+
+—
+
+75, 1990 22 Oct 1990 Sch 3: 22 Oct 1990 (s 2(1))
+
+Defence Legislation Amendment Act 1990
+
+—
+
+Privacy Amendment Act 1990 116, 1990 24 Dec 1990 24 Sept 1991 (s 2(2)) s 25
+
+as amended by
+
+136, 1991 12 Sept 1991 s 21: 24 Sept 1991 (s 2(3))
+
+Law and Justice Legislation Amendment Act 1991
+
+—
+
+165, 1992 11 Dec 1992 Sch (Pt 1): 24 Sept 1991 (s 2(6)) —
+
+Law and Justice Legislation Amendment Act (No. 3) 1992
+
+20, 1991 23 Jan 1991 s 17–20: 23 Jan 1991 (s 2)
+
+Data-matching Program (Assistance and Tax) Act 1990
+
+—
+
+28, 1991 4 Mar 1991 Sch 2 (Pt 1): 4 Mar 1991 (s 2(1)) —
+
+Crimes Legislation Amendment Act 1991
+
+122, 1991 27 June 1991 s 31(2) and Sch: 10 Dec 1991 (s 2(3) and gaz 1991, No S332)
+
+Industrial Relations Legislation Amendment Act 1991
+
+s 31(2)
+
+136, 1991 12 Sept 1991 s 11–20: 24 Sept 1991 (s 2(2))
+
+Law and Justice Legislation Amendment Act 1991
+
+—
+
+Privacy Act 1988 407
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Endnote 3—Legislation history
+
+Assent Commencement Application, saving and transitional provisions
+
+Act Number and year
+
+194, 1991 13 Dec 1991 Sch 5 (Pt 2): 23 Jan 1991 (s 2(13)) —
+
+Social Security Legislation Amendment Act (No. 4) 1991
+
+143, 1992 7 Dec 1992 Sch: 7 Dec 1992 (s 2(1)) —
+
+Law and Justice Legislation Amendment Act (No. 4) 1992
+
+28, 1993 9 June 1993 s 7 and 8: 9 June 1993 (s 2)
+
+National Health Amendment Act 1993
+
+—
+
+13, 1994 18 Jan 1994 s 7–16 and Note 1 of Notes about section headings: 18 Jan 1994 (s 2(1))
+
+Law and Justice Legislation Amendment Act 1993
+
+s 16
+
+84, 1994 23 June 1994 s 71: 23 June 1994 (s 2(1))
+
+Law and Justice Legislation Amendment Act 1994
+
+—
+
+92, 1994 29 June 1994 s 23, Sch 2 and 3: 1 July 1994 (s 2(1) and gaz 1994, No S256)
+
+Australian Capital Territory Government Service (Consequential Provisions) Act 1994
+
+—
+
+177, 1994 19 Dec 1994 s 19–26: 1 Jan 1995 (s 2(3))
+
+Employment Services (Consequential Amendments) Act 1994
+
+s 19
+
+59, 1995 28 June 1995 s 4, 5 and Sch: 28 June 1995 (s 2(1)) s 4 and 5
+
+Human Rights Legislation Amendment Act 1995
+
+43, 1996 25 Oct 1996 Sch 4 (item 122): 25 Oct 1996 (s 2(1))
+
+Statute Law Revision Act 1996
+
+—
+
+34, 1997 17 Apr 1997 Sch 13: 17 Apr 1997 (s 2(1))
+
+Law and Justice Legislation Amendment Act 1997
+
+—
+
+408 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Endnote 3—Legislation history
+
+Assent Commencement Application, saving and transitional provisions
+
+Act Number and year
+
+82, 1997 18 June 1997 Sch 4 (items 1, 2, 4– 12): 18 June 1997 (s 2(1)) Sch 4 (item 3): never commenced (s 2(3))
+
+Hearing Services and AGHS Reform Act 1997
+
+Sch 4 (item 12)
+
+as amended by
+
+100, 2005 6 July 2005 Sch 2 (item 20): 18 June 1997 (s 2(1) item 38)
+
+Statute Law Revision Act 2005
+
+—
+
+9, 2006 23 Mar 2006 Sch 2 (item 19): 18 June 1997 (s 2(1) item 34)
+
+Statute Law Revision Act 2006
+
+—
+
+48, 1998 29 June 1998 Sch 1 (item 133): 1 July 1998 (s 2(2)) —
+
+Financial Sector Reform (Consequential Amendments) Act 1998
+
+44, 1999 17 June 1999 Sch 7 (items 126– 128): 1 July 1999 (s 3(2)(e), (16))
+
+Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999
+
+—
+
+146, 1999 11 Nov 1999 Sch 1 (items 738– 747): 5 Dec 1999 (s 2(1), (2))
+
+Public Employment (Consequential and Transitional) Amendment Act 1999
+
+—
+
+161, 1999 10 Dec 1999 Sch 3 (items 1, 49): 10 Dec 1999 (s 2(2)) —
+
+Australian Security Intelligence Organisation Legislation Amendment
+
+Act 1999
+
+Privacy Act 1988 409
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Endnote 3—Legislation history
+
+Assent Commencement Application, saving and transitional provisions
+
+Act Number and year
+
+2, 2000 29 Feb 2000 Sch 1 (items 1–10, 15): 1 July 2000 (s 2(1) and gaz 2000, No S229)
+
+Privacy Amendment (Office of the Privacy Commissioner) Act 2000
+
+Sch 1 (item 15)
+
+as amended by
+
+70, 2009 8 July 2009 Sch 3 (items 58, 59): 5 Aug 2009 (s 2(1) item 7)
+
+Disability Discrimination and Other Human Rights Legislation Amendment Act 2009
+
+—
+
+9, 2000 7 Mar 2000 Sch 2 (items 42–46) and Sch 3 (items 20, 29, 34, 35): 2 July 2000 (s 2(1) and gaz 2000, No S328)
+
+Australian Federal Police Legislation Amendment Act 2000
+
+Sch 3 (items 20, 29, 34, 35)
+
+155, 2000 21 Dec 2000 Sch 1: 21 Dec 2001 (s 2(1)) Sch 3 (items 3, 4): 21 Dec 2000 (s 2(2))
+
+Privacy Amendment (Private Sector) Act 2000
+
+Sch 1 (items 37, 53, 57, 76, 100, 124, 130) and Sch 3 (item 4)
+
+24, 2001 6 Apr 2001 s 4(1), (2) and Sch 40 (items 1–9, 11–13): 24 May 2001 (s 2(1)(a)) Sch 40 (item 10): 21
+
+Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001
+
+s 4(1) and (2)
+
+Dec 2001 (s 2(7))
+
+410 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Endnote 3—Legislation history
+
+Assent Commencement Application, saving and transitional provisions
+
+Act Number and year
+
+55, 2001 28 June 2001 s 4–14 and Sch 3 (item 437): 15 July 2001 (s 2(1), (3) and gaz 2001, No S285) Sch 3 (item 438): 21 Dec 2001 (s 2(8))
+
+Corporations (Repeals, Consequentials and Transitionals) Act 2001
+
+s 4–14
+
+as amended by
+
+116, 2003 27 Nov 2003 Sch 4 (item 1): 15 July 2001 (s 2(1) item 5) —
+
+Financial Sector Legislation Amendment Act (No. 1) 2003
+
+135, 2001 1 Oct 2001 Sch 2: 12 Oct 2001 (s 2(2) and gaz 2001, No S428)
+
+National Crime Authority Legislation Amendment Act 2001
+
+—
+
+159, 2001 1 Oct 2001 Sch 1 (items 82–84, 97): 29 Oct 2001 (s 2(1))
+
+Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001
+
+Sch 1 (item 97)
+
+125, 2002 10 Dec 2002 Sch 2 (items 99–106): 1 Jan 2003 (s 2(1) item 3)
+
+Australian Crime Commission Establishment Act 2002
+
+—
+
+135, 2003 17 Dec 2003 Sch 2 (item 39): 17 June 2004 (s 2(1) item 11)
+
+Defence Legislation Amendment Act 2003
+
+—
+
+Privacy Amendment Act 2004 49, 2004 21 Apr 2004 21 Apr 2004 (s 2) Sch 1 (items 3, 5)
+
+as amended by
+
+9, 2006 23 Mar 2006 Sch 2 (item 21): 21 Apr 2004 (s 2(1) item 36)
+
+Statute Law Revision Act 2006
+
+—
+
+38, 2005 1 Apr 2005 Sch 1 (item 229): 16 May 2005 (s 2(1) item 6)
+
+Administrative Appeals Tribunal Amendment Act 2005
+
+—
+
+Privacy Act 1988 411
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Endnote 3—Legislation history
+
+Assent Commencement Application, saving and transitional provisions
+
+Act Number and year
+
+100, 2005 6 July 2005 Sch 1 (item 38): 6 July 2005 (s 2(1) item 21) —
+
+Statute Law Revision Act 2005
+
+128, 2005 4 Nov 2005 Sch 6: 2 Dec 2005 (s 2(1) item 2)
+
+Intelligence Services Legislation Amendment Act 2005
+
+—
+
+9, 2006 23 Mar 2006 Sch 1 (item 21): 21 Dec 2001 (s 2(1) item 13)
+
+Statute Law Revision Act 2006
+
+—
+
+25, 2006 6 Apr 2006 Sch 1 (items 17–19, 20(2)): 6 Oct 2006 (s 2(1) item 2)
+
+Postal Industry Ombudsman Act 2006
+
+Sch 1 (item 20(2))
+
+as amended by
+
+73, 2008 3 July 2008 Sch 2 (item 24): 6 Oct 2006 (s 2(1) item 59) —
+
+Statute Law Revision Act 2008
+
+50, 2006 9 June 2006 Sch 1 (item 115): 1 July 2006 (s 2(1) item 2)
+
+National Health and Medical Research Council Amendment Act 2006
+
+—
+
+86, 2006 30 June 2006 Sch 1 (items 48–53): 30 Dec 2006 (s 2(1) item 2)
+
+Law Enforcement Integrity Commissioner (Consequential Amendments) Act 2006
+
+—
+
+99, 2006 14 Sept 2006 Sch 1 (item 2) and Sch 2: 14 Sept 2006 (s 2) —
+
+Privacy Legislation Amendment Act 2006
+
+148, 2006 6 Dec 2006 Sch 1: 7 Dec 2006
+
+Privacy Legislation
+
+Amendment (Emergencies and Disasters) Act 2006
+
+—
+
+(s 2)
+
+412 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Endnote 3—Legislation history
+
+Assent Commencement Application, saving and transitional provisions
+
+Act Number and year
+
+170, 2006 12 Dec 2006 Sch 1 (item 152): 13 Dec 2006 (s 2(1) item 24)
+
+Anti-Money Laundering and Counter-Terrorism Financing (Transitional Provisions and Consequential Amendments) Act 2006
+
+—
+
+158, 2007 24 Sept 2007 Sch 2 (items 9, 10): 24 Sept 2007 (s 2) —
+
+Quarantine Amendment (Commission of Inquiry) Act 2007
+
+113, 2008 31 Oct 2008 Sch 1 (items 79–82): 1 Nov 2008 (s 2) —
+
+Archives Amendment Act 2008
+
+144, 2008 9 Dec 2008 Sch 13: 1 July 2009 (s 2(1) item 35)
+
+Same-Sex Relationships (Equal Treatment in Commonwealth Laws— General Law Reform) Act 2008
+
+—
+
+33, 2009 22 May 2009 Sch 2 (item 46): 23 May 2009 (s 2) —
+
+Customs Legislation Amendment (Name Change) Act 2009
+
+54, 2009 25 June 2009 Sch 16 (items 1–3): 1 July 2009 (s 2(1) item 39)
+
+Fair Work (State Referral and Consequential and Other Amendments) Act 2009
+
+—
+
+70, 2009 8 July 2009 Sch 3 (items 47–57): 5 Aug 2009 (s 2(1) item 7)
+
+Disability Discrimination and Other Human Rights
+
+Legislation Amendment Act 2009
+
+—
+
+102, 2009 8 Oct 2009 Sch 1 (items 62M, 62N): 9 Oct 2009 (s 2(1) item 4)
+
+Offshore Petroleum and Greenhouse Gas Storage Legislation Amendment Act 2009
+
+—
+
+Privacy Act 1988 413
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Endnote 3—Legislation history
+
+Assent Commencement Application, saving and transitional provisions
+
+Act Number and year
+
+131, 2009 14 Dec 2009 Sch 5 (items 25–30): 30 Jan 2012 (s 2(1) item 9)
+
+Personal Property Securities (Consequential Amendments) Act 2009
+
+—
+
+4, 2010 19 Feb 2010 Sch 10 (item 23): 20 Feb 2010 (s 2(1) item 13)
+
+Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010
+
+—
+
+8, 2010 1 Mar 2010 Sch 5 (items 77, 78): 1 Mar 2010 (s 2(1) item 35)
+
+Statute Law Revision Act 2010
+
+—
+
+51, 2010 31 May 2010 Sch 3 (item 38), Sch 5 (items 52–58) and Sch 7: 1 Nov 2010 (s 2(1) items 6, 7)
+
+Freedom of Information Amendment (Reform) Act 2010
+
+Sch 7
+
+73, 2010 28 June 2010 Sch 2 (items 1–7): 29 June 2010 (s 2(1) item 3) Sch 2 (items 8–11): 30 Jan 2012 (s 2(1)
+
+Healthcare Identifiers (Consequential Amendments) Act 2010
+
+—
+
+item 4)
+
+139, 2010 10 Dec 2010 Sch 1 (item 76): 11 Dec 2010 (s 2(1) item 2) Sch 1 (items 244– 297): 1 Jan 2011
+
+Territories Law Reform Act 2010
+
+Sch 1 (item 297)
+
+(s 2(1) item 10)
+
+145, 2010 16 Dec 2010 Sch 2 (items 62, 63): 17 Dec 2010 (s 2(1) item 2)
+
+Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010
+
+—
+
+414 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Endnote 3—Legislation history
+
+Assent Commencement Application, saving and transitional provisions
+
+Act Number and year
+
+3, 2011 2 Mar 2011 Sch 7 (item 4): 3 Mar 2011 (s 2(1) item 4) —
+
+Law and Justice Legislation Amendment (Identity Crimes and Other Measures) Act 2011
+
+5, 2011 22 Mar 2011 Sch 1 (items 93–95): 22 Mar 2011 (s 2(1) item 2)
+
+Statute Law Revision Act 2011
+
+—
+
+11, 2011 8 Apr 2011 Sch 2 (items 5–7): 9 Apr 2011 (s 2(1) item 2)
+
+Education Services for Overseas Students Legislation Amendment Act 2011
+
+—
+
+46, 2011 27 June 2011 Sch 2 (items 915–922) and Sch 3 (items 10, 11): 27 Dec 2011 (s 2(1) items 7, 12)
+
+Acts Interpretation Amendment Act 2011
+
+Sch 3 (items 10, 11)
+
+60, 2011 28 June 2011 Sch 3 (items 11–20): 28 June 2011 (s 2(1) item 9)
+
+Combating the Financing of People Smuggling and Other Measures Act 2011
+
+—
+
+24, 2012 4 Apr 2012 Sch 4 (item 52): 5 Apr 2012 (s 2(1) item 7) —
+
+Crimes Legislation Amendment (Powers and Offences) Act 2012
+
+74, 2012 27 June 2012 Sch 1 (items 2, 28): 10 Feb 2013 (s 2(1) item 2)
+
+Telecommunications Interception and Other Legislation Amendment
+
+(State Bodies) Act 2012
+
+Sch 1 (item 28)
+
+177, 2012 4 Dec 2012 Sch 1 (item 13): 4 Dec 2012 (s 2) —
+
+Freedom of Information Amendment (Parliamentary Budget Office) Act 2012
+
+Privacy Act 1988 415
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Endnote 3—Legislation history
+
+Assent Commencement Application, saving and transitional provisions
+
+Act Number and year
+
+197, 2012 12 Dec 2012 Sch 1–4: 12 Mar 2014 (s 2(1) item 2) Sch 6 (items 1, 5): 12 Dec 2012 (s 2(1) items 16, 18) Sch 6 (items 2–4, 6– 14, 16–19): 12 Mar 2014 (s 2(1) items 17, 19)
+
+Privacy Amendment (Enhancing Privacy Protection) Act 2012
+
+Sch 6 (items 1–14, 16–19)
+
+as amended by
+
+5, 2015 25 Feb 2015 Sch 2 (items 4, 5): 12 Mar 2014 (s 2(1) item 6)
+
+Statute Law Revision Act (No. 1) 2015
+
+—
+
+2, 2013 14 Feb 2013 Sch 3 (items 14, 15): 1 July 2013 (s 2(1) item 2)
+
+Public Service Amendment Act 2013
+
+—
+
+13, 2013 14 Mar 2013 Sch 1 (items 468, 469) and Sch 2 (item 1): 12 Apr 2013 (s 2(1) items 2, 3) Sch 3 (items 83–91):
+
+Federal Circuit Court of Australia (Consequential Amendments) Act 2013
+
+—
+
+12 Mar 2014 (s 2(1) item 16)
+
+108, 2014 2 Oct 2014 Sch 6 (items 26, 27): 30 Oct 2014 (s 2(1) item 2)
+
+National Security Legislation Amendment Act (No. 1) 2014
+
+Sch 7 (items 144, 145)
+
+Sch 7 (items 135–137, 144, 145): 3 Oct 2014 (s 2(1) item 5)
+
+5, 2015 25 Feb 2015 Sch 1 (item 35): 25 Mar 2015 (s 2(1) item 2)
+
+Statute Law Revision Act (No. 1) 2015
+
+—
+
+416 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Endnote 3—Legislation history
+
+Assent Commencement Application, saving and transitional provisions
+
+Act Number and year
+
+39, 2015 13 Apr 2015 Sch 1 (items 1H, 1J, 7): 13 Oct 2015 (s 2(1) item 2) Sch 1 (items 8–12): 13 Apr 2015 (s 2(1) items 1, 3)
+
+Telecommunications (Interception and Access) Amendment (Data Retention) Act 2015
+
+Sch 1 (items 7– 12)
+
+41, 2015 20 May 2015 Sch 5 (items 141, 142) and Sch 9: 1 July 2015 (s 2(1) items 2, 7)
+
+Customs and Other Legislation Amendment (Australian Border Force) Act 2015
+
+Sch 5 (item 142) and Sch 9
+
+as amended by
+
+115, 2017 30 Oct 2017 Sch 1 (item 26): 1 July 2015 (s 2(1) item 2) —
+
+Australian Border Force Amendment (Protected Information) Act 2017
+
+59, 2015 26 May 2015 Sch 1 (items 150–175) and Sch 2 (items 356– 396): 18 June 2015 (s 2(1) items 2, 6) Sch 1 (items 184–
+
+Norfolk Island Legislation Amendment Act 2015
+
+Sch 1 (items 184– 203) and Sch 2 (items 356–396)
+
+203): 27 May 2015 (s 2(1) item 3) Sch 2 (items 299– 305): 1 July 2016 (s 2(1) item 5)
+
+as amended by
+
+33, 2016 23 Mar 2016 Sch 2: 24 Mar 2016 (s 2(1) item 2)
+
+Territories Legislation Amendment Act 2016
+
+—
+
+Privacy Act 1988 417
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Endnote 3—Legislation history
+
+Assent Commencement Application, saving and transitional provisions
+
+Act Number and year
+
+62, 2015 16 June 2015 Sch 2 (item 53) and Sch 4: 16 June 2016 (s 2(1) items 2, 4) Sch 3: 16 June 2015 (s 2(1) item 3)
+
+Biosecurity (Consequential Amendments and Transitional Provisions) Act 2015
+
+Sch 3 and 4
+
+as amended by
+
+93, 2017 23 Aug 2017 Sch 2 (item 9): 20 Sept 2017 (s 2(1) item 4) —
+
+Statute Update (Winter 2017) Act 2017
+
+126, 2015 10 Sept 2015 Sch 1 (items 479– 482): 5 Mar 2016 (s 2(1) item 2)
+
+Acts and Instruments (Framework Reform) (Consequential Provisions) Act 2015
+
+—
+
+153, 2015 26 Nov 2015 Sch 15 (items 11, 12): 27 Nov 2015 (s 2(1) item 3)
+
+Crimes Legislation Amendment (Powers, Offences and Other Measures) Act 2015
+
+—
+
+157, 2015 26 Nov 2015 Sch 1 (items 107– 136): 27 Nov 2015 (s 2(1) item 2)
+
+Health Legislation Amendment (eHealth) Act 2015
+
+Sch 1 (items 111– 136)
+
+164, 2015 2 Dec 2015 Sch 2 (items 69, 80): 1 July 2016 (s 2(1) item 2)
+
+Defence Legislation Amendment (First Principles) Act 2015
+
+Sch 2 (item 80)
+
+4, 2016 11 Feb 2016 Sch 4 (items 1, 232): 10 Mar 2016 (s 2(1) item 6)
+
+Statute Law Revision Act (No. 1) 2016
+
+—
+
+24, 2016 18 Mar 2016 Sch 5 (item 28): 1 July 2016 (s 2(1) item 7) Sch 6: 18 Mar 2016 (s 2(1) item 9)
+
+Courts Administration Legislation Amendment Act 2016
+
+Sch 6
+
+418 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Endnote 3—Legislation history
+
+Assent Commencement Application, saving and transitional provisions
+
+Act Number and year
+
+45, 2016 5 May 2016 Sch 2 (items 9–11): 1 July 2016 (s 2(1) item 1)
+
+Australian Crime Commission Amendment (National Policing Information) Act 2016
+
+Sch 2 (items 10, 11)
+
+Statute Update Act 2016 61, 2016 23 Sept 2016 Sch 1 (items 372– 377): 21 Oct 2016 (s 2(1) item 1)
+
+—
+
+86, 2016 30 Nov 2016 Sch 1 (items 1, 56– 58): 1 Dec 2016 (s 2(1) items 2, 4) Sch 1 (items 49, 50, 54, 55): 1 July 2017 (s
+
+Law Enforcement Legislation Amendment (State Bodies and Other Measures) Act 2016
+
+Sch 1 (items 1, 50, 54–58)
+
+2(1) item 3)
+
+12, 2017 22 Feb 2017 Sch 1: 22 Feb 2018 (s 2(1) item 2) Sch 1 (item 6)
+
+Privacy Amendment (Notifiable Data Breaches) Act 2017
+
+92, 2017 23 Aug 2017 Sch 3 (items 5–10) and Sch 4: 23 Aug 2017 (s 2(1) item 1)
+
+Public Governance and Resources Legislation Amendment Act (No. 1) 2017
+
+Sch 4
+
+124, 2017 6 Nov 2017 Sch 13: 6 Nov 2018 (s 2(1) item 3) Sch 13 (items 10– 12)
+
+Regulatory Powers (Standardisation Reform) Act 2017
+
+25, 2018 11 Apr 2018 Sch 1 (items 86–89, 100–110): 1 July 2018
+
+Intelligence Services Amendment
+
+(Establishment of the Australian Signals Directorate) Act 2018
+
+Sch 1 (items 100– 108)
+
+(s 2(1) items 2, 3)
+
+Privacy Act 1988 419
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Endnote 3—Legislation history
+
+Assent Commencement Application, saving and transitional provisions
+
+Act Number and year
+
+156, 2018 10 Dec 2018 Sch 2 (items 85–88) and Sch 4: 20 Dec 2018 (s 2(1) items 2, 4)
+
+Office of National Intelligence (Consequential and Transitional Provisions) Act 2018
+
+Sch 4
+
+63, 2019 12 Aug 2019 Sch 1 (items 78–82): 13 Aug 2019 (s 2(1) item 1)
+
+Treasury Laws Amendment (Consumer Data Right) Act 2019
+
+—
+
+121, 2019 12 Dec 2019 Sch 1 (item 7): 13 Dec 2019 (s 2(1) item 1) —
+
+Health Legislation Amendment (Data-matching and
+
+Other Matters) Act 2019
+
+Assent Commencement Application, saving and transitional provisions
+
+Act (Register ID)
+
+Number and year
+
+127, 2019 12 Dec 2019 sch 1 (item 13): 13 Dec 2019 (s 2(1) item 1) —
+
+Interactive Gambling Amendment (National Self-exclusion Register) Act 2019 (C2019A00127)
+
+11, 2020 6 Mar 2020 sch 2 (item 23), sch 4 (items 2-7): 1 July 2020 (s 2(1) items 2, 5)
+
+Australian Sports Anti-Doping Authority Amendment (Sport Integrity Australia) Act
+
+2020 (C2020A00011)
+
+sch 4 (items 2-7)
+
+44, 2020 15 May 2020 sch 1: 16 May 2020 (s 2(1) item 2) sch 2 (items 2-4): 14 Nov 2022 (s 2(1) item 4)
+
+Privacy Amendment (Public Health Contact Information) Act 2020 (C2020A00044)
+
+sch 2 (item 4)
+
+420 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Endnote 3—Legislation history
+
+Assent Commencement Application, saving and transitional provisions
+
+Act (Register ID)
+
+Number and year
+
+129, 2020 15 Dec 2020 sch 1 (items 37-40): 16 Dec 2020 (s 2(1) item 2)
+
+National Emergency Declaration (Consequential Amendments) Act 2020 (C2020A00129)
+
+—
+
+154, 2020 17 Dec 2020 sch 3 (items 51-76): 17 June 2021 (s 2(1) item 9)
+
+Territories Legislation Amendment Act 2020 (C2020A00154)
+
+sch 3 (item 76)
+
+5, 2021 16 Feb 2021 sch 1 (item 11), sch 2 (items 24-35): 17 Feb 2021 (s 2(1) items 2, 5) sch 2 (items 1-14): 1 July 2022 (s 2(1)
+
+National Consumer Credit Protection Amendment (Mandatory Credit Reporting and Other
+
+Measures) Act 2021 (C2021A00005)
+
+sch 2 (item 14), sch 2 (item 35)
+
+item 3)
+
+13, 2021 1 Mar 2021 sch 2 (items 697-703): 1 Sept 2021 (s 2(1) item 5)
+
+Federal Circuit and Family Court of Australia (Consequential Amendments and
+
+Transitional Provisions) Act 2021 (C2021A00013)
+
+—
+
+98, 2021 3 Sept 2021 sch 2 (items 92-95): 4 Sept 2021 (s 2(1) item 3)
+
+Surveillance Legislation Amendment (Identify and Disrupt) Act 2021
+
+(C2021A00098)
+
+—
+
+12, 2022 31 Mar 2022 sch 1 (items 5A-8), sch 2, 3: 1 Apr 2022 (s 2(1) item 1)
+
+Data Availability and Transparency (Consequential Amendments) Act 2022 (C2022A00012)
+
+sch 2, 3
+
+Privacy Act 1988 421
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Endnote 3—Legislation history
+
+Assent Commencement Application, saving and transitional provisions
+
+Act (Register ID)
+
+Number and year
+
+83, 2022 12 Dec 2022 sch 1 (items 9-45): 13 Dec 2022 (s 2(1) item 1)
+
+Privacy Legislation Amendment (Enforcement and Other Measures) Act 2022 (C2022A00083)
+
+sch 1 (item 45)
+
+89, 2022 12 Dec 2022 sch 1 (items 152-157): 1 July 2023 (s 2(1) item 2)
+
+National Anti-Corruption Commission (Consequential and Transitional Provisions) Act 2022 (C2022A00089)
+
+—
+
+63, 2023 13 Sept 2023 sch 10 (item 6): 14 Sept 2023 (s 2(1) item 8) —
+
+Crimes and Other Legislation Amendment (Omnibus) Act 2023 (C2023A00063)
+
+73, 2023 20 Sept 2023 sch 1 (item 195), sch 3 (item 2): 21 Sept 2023 (s 2(1) items 2, 5)
+
+Inspector-General of Intelligence and Security and Other Legislation Amendment (Modernisation) Act
+
+2023 (C2023A00073)
+
+sch 3 (item 2)
+
+74, 2023 20 Sept 2023 sch 5 (item 16): 18 Oct 2023 (s 2(1) item 3) —
+
+Statute Law Amendment (Prescribed Forms and Other Updates) Act 2023
+
+(C2023A00074)
+
+24, 2024 21 May 2024 sch 2 (items 31, 48): 22 May 2024 (s 2(1) item 7)
+
+National Security Legislation Amendment (Comprehensive Review and Other Measures No. 3) Act 2024 (C2024A00024)
+
+—
+
+422 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Endnote 3—Legislation history
+
+Assent Commencement Application, saving and transitional provisions
+
+Act (Register ID)
+
+Number and year
+
+26, 2024 30 May 2024 sch 2 (item 6): 30 Nov 2024 (s 2(1) item 1) —
+
+Digital ID (Transitional and Consequential Provisions) Act 2024 (C2024A00026)
+
+39, 2024 31 May 2024 sch 2 (items 97-99): 14 Oct 2024 (s 2(1) item 2)
+
+Administrative Review Tribunal (Consequential and Transitional Provisions No. 2) Act 2024 (C2024A00039)
+
+—
+
+128, 2024 10 Dec 2024 sch 1 (items 1-44, 49-67, 72, 73, 82-86): 11 Dec 2024 (s 2(1) items 2, 5, 6) sch 1 (items 87-89): 10
+
+Privacy and Other Legislation Amendment Act 2024 (C2024A00128)
+
+sch 1 (items 29, 35, 39, 44, 58, 60, 64, 67, 73, 86), sch 1 (item 89)
+
+Dec 2026 (s 2(1) item 7) sch 2: 10 June 2025 (s 2(1) item 8)
+
+139, 2024 10 Dec 2024 sch 1 (items 12, 13): 1 Feb 2025 (s 2(1) item 2)
+
+Universities Accord (National Student Ombudsman) Act 2024 (C2024A00139)
+
+—
+
+75, 2025 4 Dec 2025 sch 1 (items 240, 241), sch 5 (item 4): 4 June 2026 (s 2(1) items 2, 4)
+
+Strengthening Oversight of the National Intelligence Community Act 2025 (C2025A00075)
+
+sch 5 (item 4)
+
+Privacy Act 1988 423
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Endnote 4—Amendment history
+
+Endnote 4—Amendment history
+
+Provision affected How affected
+
+Preamble ......................................... am No 70, 2009
+
+## Part I
+
+s 2A ................................................. ad No 197, 2012
+
+am No 128, 2024
+
+s 3 .................................................... am No 116, 1990; No 155, 2000; No 197, 2012; No 128, 2024
+
+s 3A ................................................. ad No 24, 2001
+
+s 4 .................................................... am No 92, 1994; No 59, 2015
+
+s 5 .................................................... rep No 197, 2012
+
+s 5A ................................................. ad No 116, 1990
+
+am No 128, 2024
+
+s 5B ................................................. ad No 155, 2000
+
+am No 49, 2004; No 197, 2012; No 83, 2022; No 128, 2024
+
+## Part II
+
+Division 1
+
+Division 1 heading .......................... ad No 197, 2012
+
+s 6 .................................................... am No 11, 1990; No 116, 1990; No 28, 1991; No 136, 1991; No 143, 1992; No 13, 1994; No 92, 1994; No 177, 1994; No 34, 1997; No 82, 1997; No 48, 1998; No 44, 1999; No 146, 1999; No 161, 1999; No 155, 2000; No 55, 2001; No 125, 2002; No 135, 2003; No 100, 2005; No 86, 2006; No 99, 2006; No 158, 2007; No
+
+113, 2008; No 144, 2008; No 33, 2009; No 54, 2009; No 102, 2009; No 51, 2010; No 73, 2010; No 139, 2010; No 3, 2011; No 60, 2011; No 74, 2012; No 197, 2012; No 13, 2013; No 39, 2015; No 41, 2015; No 59, 2015; No 62, 2015; No 153, 2015; No 157, 2015; No 164, 2015; No 45, 2016; No 86, 2016; No 12, 2017; No 92, 2017; No 124, 2017; No 25, 2018; No 156, 2018; No 63, 2019; No 11, 2020; No 44, 2020; No 129, 2020; No 154, 2020; No 5, 2021; No 13, 2021; No 83, 2022; No 89, 2022; No 63, 2023; No 128, 2024; No 75, 2025
+
+s 6AA .............................................. ad No 197, 2012
+
+s 6A ................................................. ad No 155, 2000
+
+424 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Provision affected How affected
+
+Endnote 4—Amendment history
+
+am No 113, 2008; No 197, 2012
+
+s 6B ................................................. ad No 155, 2000
+
+am No 113, 2008; No 197, 2012
+
+s 6BA .............................................. ad No 197, 2012
+
+s 6C ................................................. ad No 155, 2000
+
+am No 139, 2010; No 46, 2011; No 197, 2012; No 39, 2015; No 59, 2015; No 126, 2015
+
+s 6D ................................................. ad No 155, 2000
+
+am No 197, 2012
+
+s 6DA .............................................. ad No 155, 2000
+
+s 6E ................................................. ad No 155, 2000
+
+am No 170, 2006; No 54, 2009; No 46, 2011; No 60, 2011; No 126, 2015; No 63, 2019
+
+s 6EA .............................................. ad No 155, 2000
+
+am No 197, 2012
+
+s 6F ................................................. ad No 155, 2000
+
+am No 46, 2011; No 197, 2012; No 126, 2015
+
+s 6FA ............................................... ad No 157, 2015
+
+s 6FB ............................................... ad No 157, 2015
+
+Division 2
+
+Division 2 ....................................... ad No 197, 2012
+
+Subdivision A
+
+s 6G ................................................. ad No 197, 2012
+
+s 6H ................................................. ad No 197, 2012
+
+s 6J .................................................. ad No 197, 2012
+
+s 6K ................................................. ad No 197, 2012
+
+Subdivision B
+
+s 6L ................................................. ad No 197, 2012
+
+s 6M ................................................ ad No 197, 2012
+
+s 6N ................................................. ad No 197, 2012
+
+am No 5, 2021
+
+Privacy Act 1988 425
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Endnote 4—Amendment history
+
+Provision affected How affected
+
+s 6P ................................................. ad No 197, 2012
+
+s 6Q ................................................. ad No 197, 2012
+
+s 6QA .............................................. ad No 5, 2021
+
+s 6R ................................................. ad No 197, 2012
+
+s 6S ................................................. ad No 197, 2012
+
+s 6T ................................................. ad No 197, 2012
+
+s 6U ................................................. ad No 197, 2012
+
+s 6V ................................................. ad No 197, 2012
+
+am No 5, 2021
+
+Division 3
+
+Division 3 heading .......................... ad No 197, 2012
+
+s 7 .................................................... am No 75, 1990; No 116, 1990; No 13, 1994; No 84, 1994; No 92, 1994; No 177, 1994; No 82, 1997 (as am by No 100, 2005 and No 9, 2006); No 155, 2000; No 125, 2002; No 128, 2005; No 86, 2006; No 158, 2007; No 102, 2009; No 139, 2010; No 197, 2012; No 108, 2014; No 59, 2015; No 25, 2018; No 156, 2018; No 154,
+
+2020; No 89, 2022
+
+s 7A ................................................. ad No 155, 2000
+
+am No 46, 2011
+
+s 7B ................................................. ad No 155, 2000
+
+am No 197, 2012
+
+s 7C ................................................. ad No 155, 2000
+
+s 8 .................................................... am No 116, 1990; No 28, 1991; No 155, 2000; No 139, 2010; No 197, 2012; No 154, 2020
+
+s 9 .................................................... am No 28, 1991; No 139, 2010
+
+rep No 197, 2012
+
+s 10 .................................................. am No 28, 1991; No 113, 2008; No 139, 2010; No 197, 2012
+
+s 11 .................................................. am No 28, 1991; No 139, 2010; No 154, 2020
+
+s 11A ............................................... ad No 116, 1990
+
+rep No 197, 2012
+
+s 11B ............................................... ad No 116, 1990
+
+am No 136, 1991; No 143, 1992; No 34, 1997; No 44, 1999
+
+426 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Provision affected How affected
+
+rep No 197, 2012
+
+s 12 .................................................. rep No 197, 2012
+
+s 12A ............................................... ad No 116, 1990
+
+s 12B ............................................... ad No 155, 2000
+
+Endnote 4—Amendment history
+
+am No 8, 2010; No 197, 2012; No 128, 2024
+
+## Part III
+
+Division 1
+
+Division 1 heading .......................... ad No 155, 2000
+
+s 13 .................................................. am No 116, 1990; Nos 20 and 194, 1991; No 28, 1993; No 155, 2000; No 131, 2009; No 73, 2010; No 60, 2011
+
+rs No 197, 2012
+
+am No 12, 2017
+
+s 13A ............................................... ad No 155, 2000; No 60, 2011
+
+rep No 197, 2012
+
+s 13B ............................................... ad No 155, 2000
+
+am No 197, 2012
+
+s 13C ............................................... ad No 155, 2000
+
+am No 197, 2012
+
+s 13D ............................................... ad No 155, 2000
+
+am No 197, 2012
+
+s 13E ............................................... ad No 155, 2000
+
+rs No 197, 2012
+
+s 13F ............................................... ad No 155, 2000
+
+rs No 197, 2012
+
+s 13G ............................................... ad No 197, 2012
+
+am No 83, 2022; No 128, 2024
+
+ed C103
+
+s 13H ............................................... ad No 128, 2024
+
+s 13J ................................................ ad No 128, 2024
+
+s 13K ............................................... ad No 128, 2024
+
+am No 128, 2024
+
+Privacy Act 1988 427
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Endnote 4—Amendment history
+
+Provision affected How affected
+
+Division 2
+
+Division 2 heading .......................... ad No 155, 2000
+
+rs No 197, 2012
+
+Division 2 ....................................... rs No 197, 2012
+
+s 14 .................................................. rs No 197, 2012
+
+s 15 .................................................. am No 139, 2010
+
+rs No 197, 2012
+
+s 15B ............................................... ad No 139, 2010
+
+rep No 197, 2012
+
+s 16 .................................................. rs No 197, 2012
+
+s 16A ............................................... ad No 155, 2000
+
+rs No 197, 2012
+
+s 16B ............................................... ad No 155, 2000
+
+rs No 197, 2012
+
+am No 157, 2015
+
+s 16C ............................................... ad No 155, 2000
+
+rs No 197, 2012
+
+Division 3 ....................................... ad No 155, 2000
+
+rep No 197, 2012
+
+s 16D–16F ....................................... ad No 155, 2000
+
+rep No 197, 2012
+
+Division 4
+
+Division 4 heading .......................... ad No 155, 2000
+
+s 17 .................................................. am No 116, 1990; No 145, 2010; No 5, 2011
+
+rs No 197, 2012
+
+s 18 .................................................. am No 197, 2012
+
+Division 5 heading .......................... ad No 155, 2000
+
+rep No 197, 2012
+
+Division 5 ....................................... rep No 197, 2012
+
+s 18A ............................................... ad No 116, 1990
+
+am No 155, 2000
+
+428 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Provision affected How affected
+
+rep No 197, 2012
+
+s 18B ............................................... ad No 116, 1990
+
+rep No 197, 2012
+
+Part IIIAA ....................................... ad No 155, 2000
+
+rep No 197, 2012
+
+s 18BA ............................................ ad No 155, 2000
+
+rep No 197, 2012
+
+s 18BAA ......................................... ad No 49, 2004
+
+rep No 197, 2012
+
+s 18BB–18BI .................................. ad No 155, 2000
+
+rep No 197, 2012
+
+Part IIIA
+
+Part IIIA .......................................... ad No 116, 1990
+
+rs No 197, 2012
+
+Division 1
+
+s 18C, 18D ...................................... ad No 116, 1990
+
+am No 24, 2001
+
+rep No 197, 2012
+
+s 18E ............................................... ad No 116, 1990
+
+Endnote 4—Amendment history
+
+am No 143, 1992; No 34, 1997
+
+rep No 197, 2012
+
+s 18F ............................................... ad No 116, 1990
+
+am No 143, 1992; No 34, 1997
+
+rep No 197, 2012
+
+s 18G ............................................... ad No 116, 1990
+
+rep No 197, 2012
+
+s 18H ............................................... ad No 116, 1990
+
+am No 136, 1991
+
+rep No 197, 2012
+
+s 18J ................................................ ad No 116, 1990
+
+rep No 197, 2012
+
+Privacy Act 1988 429
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Endnote 4—Amendment history
+
+Provision affected How affected
+
+s 18K ............................................... ad No 116, 1990
+
+am No 136, 1991; No 143, 1992; No 24, 2001; No 125, 2002; No 135, 2001; No 86, 2006; No 24, 2012
+
+rep No 197, 2012
+
+s 18L ............................................... ad No 116, 1990
+
+am No 136, 1991; No 143, 1992; No 24, 2001
+
+rep No 197, 2012
+
+s 18M .............................................. ad No 116, 1990
+
+rs No 136, 1991
+
+am No 143, 1992
+
+rep No 197, 2012
+
+s 18N ............................................... ad No 116, 1990
+
+am No 136, 1991; No 143, 1992; No 13, 1994; No 24, 2001
+
+rep No 197, 2012
+
+s 18NA ............................................ ad No 34, 1997
+
+rep No 197, 2012
+
+s 18P ............................................... ad No 116, 1990
+
+am No 136, 1991; No 143, 1992
+
+rep No 197, 2012
+
+s 18Q ............................................... ad No 116, 1990
+
+am No 136, 1991; No 143, 1992; No 24, 2001
+
+rep No 197, 2012
+
+s 18R ............................................... ad No 116, 1990
+
+am No 24, 2001
+
+rep No 197, 2012
+
+s 18S ............................................... ad No 116, 1990
+
+am No 24, 2001
+
+rep No 197, 2012
+
+s 18T ............................................... ad No 116, 1990
+
+rep No 197, 2012
+
+s 18U ............................................... ad No 116, 1990
+
+430 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Provision affected How affected
+
+rep No 197, 2012
+
+s 18V ............................................... ad No 116, 1990
+
+am No 136, 1991
+
+rep No 197, 2012
+
+s 19 .................................................. ad No 2, 2000
+
+rep No 51, 2010
+
+ad No 197, 2012
+
+Endnote 4—Amendment history
+
+am No 13, 2013; No 13, 2021
+
+s 19 .................................................. renum s 19A ....................................
+
+am No 59, 1995 No 2, 2000
+
+s 19A ............................................... rep No 51, 2010
+
+Division 2
+
+Subdivision A
+
+s 20 .................................................. am No 159, 2001
+
+rep No 51, 2010
+
+ad No 197, 2012
+
+s 20A ............................................... ad No 197, 2012
+
+Subdivision B
+
+s 20B ............................................... ad No 197, 2012
+
+Subdivision C
+
+s 20C ............................................... ad No 197, 2012
+
+am No 5, 2021
+
+s 20D ............................................... ad No 197, 2012
+
+Subdivision D
+
+s 20E ............................................... ad No 197, 2012
+
+am No 63, 2019; No 5, 2021; No 89, 2022
+
+s 20F ............................................... ad No 197, 2012
+
+s 20G ............................................... ad No 197, 2012
+
+am No 5, 2021
+
+s 20H ............................................... ad No 197, 2012
+
+s 20J ................................................ ad No 197, 2012
+
+Privacy Act 1988 431
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Endnote 4—Amendment history
+
+Provision affected How affected
+
+s 20K ............................................... ad No 197, 2012
+
+s 20L ............................................... ad No 197, 2012
+
+s 20M .............................................. ad No 197, 2012
+
+Subdivision E
+
+s 20N ............................................... ad No 197, 2012
+
+s 20P ............................................... ad No 197, 2012
+
+s 20Q ............................................... ad No 197, 2012
+
+am No 5, 2021
+
+Subdivision F
+
+s 20R ............................................... ad No 197, 2012
+
+am No 5, 2021
+
+s 20S ............................................... ad No 197, 2012
+
+s 20T ............................................... ad No 197, 2012
+
+s 20U ............................................... ad No 197, 2012
+
+Subdivision G
+
+s 20V ............................................... ad No 197, 2012
+
+s 20W .............................................. ad No 197, 2012
+
+am No 5, 2021
+
+s 20X ............................................... ad No 197, 2012
+
+s 20Y ............................................... ad No 197, 2012
+
+s 20Z ............................................... ad No 197, 2012
+
+s 20ZA ............................................ ad No 197, 2012
+
+Division 3
+
+Subdivision A
+
+s 21 .................................................. am No 59, 1995
+
+rep No 51, 2010
+
+ad No 197, 2012
+
+s 21A ............................................... ad No 197, 2012
+
+Subdivision B
+
+s 21B ............................................... ad No 197, 2012
+
+am No 5, 2021
+
+432 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Provision affected How affected
+
+Subdivision C
+
+s 21C ............................................... ad No 197, 2012
+
+s 21D ............................................... ad No 197, 2012
+
+am No 5, 2021
+
+s 21E ............................................... ad No 197, 2012
+
+s 21EA ............................................ ad No 5, 2021
+
+s 21F ............................................... ad No 197, 2012
+
+Subdivision D
+
+s 21G ............................................... ad No 197, 2012
+
+Endnote 4—Amendment history
+
+am No 63, 2019; No 5, 2021
+
+s 21H ............................................... ad No 197, 2012
+
+s 21J ................................................ ad No 197, 2012
+
+s 21K ............................................... ad No 197, 2012
+
+s 21L ............................................... ad No 197, 2012
+
+s 21M .............................................. ad No 197, 2012
+
+s 21N ............................................... ad No 197, 2012
+
+s 21NA ............................................ ad No 197, 2012
+
+s 21P ............................................... ad No 197, 2012
+
+Subdivision E
+
+s 21Q ............................................... ad No 197, 2012
+
+s 21R ............................................... ad No 197, 2012
+
+s 21S ............................................... ad No 197, 2012
+
+Subdivision F
+
+s 21T ............................................... ad No 197, 2012
+
+am No 5, 2021
+
+s 21U ............................................... ad No 197, 2012
+
+am No 5, 2021
+
+s 21V ............................................... ad No 197, 2012
+
+am No 5, 2021
+
+s 21W .............................................. ad No 197, 2012
+
+am No 5, 2021
+
+Privacy Act 1988 433
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Endnote 4—Amendment history
+
+Provision affected How affected
+
+Division 4
+
+s 22 .................................................. rs No 122, 1991
+
+am No 146, 1999
+
+rep No 51, 2010
+
+ad No 197, 2012
+
+Subdivision A
+
+s 22A ............................................... ad No 197, 2012
+
+Subdivision B
+
+s 22B ............................................... ad No 197, 2012
+
+s 22C ............................................... ad No 197, 2012
+
+s 22D ............................................... ad No 197, 2012
+
+s 22E ............................................... ad No 197, 2012
+
+am No 63, 2019
+
+s 22F ............................................... ad No 197, 2012
+
+Division 5
+
+s 23 .................................................. rep No 51, 2010
+
+ad No 197, 2012
+
+s 23A ............................................... ad No 197, 2012
+
+s 23B ............................................... ad No 197, 2012
+
+am No 5, 2021
+
+s 23C ............................................... ad No 197, 2012
+
+Division 6
+
+s 24 .................................................. rep No 51, 2010
+
+ad No 197, 2012
+
+s 24A ............................................... ad No 197, 2012
+
+Division 7
+
+s 25 .................................................. am No 122, 1991
+
+rep No 51, 2010
+
+ad No 197, 2012
+
+am No 13, 2013; No 124, 2017; No 13, 2021; No 83, 2022
+
+s 25A ............................................... ad No 197, 2012
+
+434 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Provision affected How affected
+
+Endnote 4—Amendment history
+
+am No 13, 2013; No 124, 2017; No 13, 2021; No 83, 2022
+
+Division 8
+
+Division 8 ....................................... ad No 5, 2021
+
+s 25B ............................................... ad No 5, 2021
+
+Part IIIB
+
+Part IIIB .......................................... ad No 197, 2012
+
+Division 1
+
+s 26 .................................................. rep No 51, 2010
+
+ad No 197, 2012
+
+Division 2
+
+Subdivision A
+
+s 26A ............................................... ad No 2, 2000
+
+am No 146, 1999
+
+rep No 51, 2010
+
+ad No 197, 2012
+
+s 26B ............................................... ad No 197, 2012
+
+am No 126, 2015
+
+s 26C ............................................... ad No 197, 2012
+
+am No 128, 2024
+
+s 26D ............................................... ad No 197, 2012
+
+Subdivision B
+
+s 26E ............................................... ad No 197, 2012
+
+s 26F ............................................... ad No 197, 2012
+
+s 26G ............................................... ad No 197, 2012
+
+am No 128, 2024
+
+s 26GA ............................................ ad No 128, 2024
+
+s 26GB ............................................ ad No 128, 2024
+
+s 26GC ............................................ ad No 128, 2024
+
+s 26H ............................................... ad No 197, 2012
+
+am No 128, 2024
+
+Privacy Act 1988 435
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Endnote 4—Amendment history
+
+Provision affected How affected
+
+Subdivision C
+
+s 26J ................................................ ad No 197, 2012
+
+s 26K ............................................... ad No 197, 2012
+
+Division 3
+
+Subdivision A
+
+s 26L ............................................... ad No 197, 2012
+
+s 26M .............................................. ad No 197, 2012
+
+am No 126, 2015
+
+s 26N ............................................... ad No 197, 2012
+
+Subdivision B
+
+s 26P ............................................... ad No 197, 2012
+
+s 26Q ............................................... ad No 197, 2012
+
+s 26R ............................................... ad No 197, 2012
+
+s 26S ............................................... ad No 197, 2012
+
+Subdivision C
+
+s 26T ............................................... ad No 197, 2012
+
+Division 4
+
+s 26U ............................................... ad No 197, 2012
+
+s 26V ............................................... ad No 197, 2012
+
+s 26W .............................................. ad No 197, 2012
+
+## Part IIIC
+
+## Part IIIC .......................................... ad No 12, 2017
+
+Division 1
+
+s 26WA ........................................... ad No 12, 2017
+
+am No 83, 2022; No 128, 2024
+
+s 26WB ........................................... ad No 12, 2017
+
+s 26WC ........................................... ad No 12, 2017
+
+s 26WD ........................................... ad No 12, 2017
+
+Division 2
+
+s 26WE ........................................... ad No 12, 2017
+
+s 26WF ............................................ ad No 12, 2017
+
+436 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Provision affected How affected
+
+s 26WG ........................................... ad No 12, 2017
+
+Division 3
+
+Subdivision A
+
+s 26WH ........................................... ad No 12, 2017
+
+s 26WJ ............................................ ad No 12, 2017
+
+Subdivision B
+
+s 26WK ........................................... ad No 12, 2017
+
+am No 83, 2022
+
+s 26WL ........................................... ad No 12, 2017
+
+s 26WM .......................................... ad No 12, 2017
+
+s 26WN ........................................... ad No 12, 2017
+
+s 26WP ............................................ ad No 12, 2017
+
+s 26WQ ........................................... ad No 12, 2017
+
+am No 25, 2018
+
+Subdivision C
+
+s 26WR ........................................... ad No 12, 2017
+
+Endnote 4—Amendment history
+
+am No 25, 2018; No 83, 2022
+
+s 26WS ............................................ ad No 12, 2017
+
+s 26WT ........................................... ad No 12, 2017
+
+Division 4
+
+Division 4 ....................................... ad No 83, 2022
+
+s 26WU ........................................... ad No 83, 2022
+
+Division 5
+
+Division 5 ....................................... ad No 128, 2024
+
+Subdivision A
+
+s 26X ............................................... ad No 128, 2024
+
+s 26XA ............................................ ad No 128, 2024
+
+Subdivision B
+
+s 26XB ............................................ ad No 128, 2024
+
+Subdivision C
+
+s 26XC ............................................ ad No 128, 2024
+
+Privacy Act 1988 437
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Endnote 4—Amendment history
+
+Provision affected How affected
+
+s 26XD ............................................ ad No 128, 2024
+
+s 26XE ............................................ ad No 128, 2024
+
+s 26XF ............................................. ad No 128, 2024
+
+s 26XG ............................................ ad No 128, 2024
+
+s 26XH ............................................ ad No 128, 2024
+
+## Part IV
+
+## Part IV heading ............................... rs No 2, 2000; No 51, 2010
+
+Division heading ............................. rs No 2, 2000
+
+rep No 51, 2010
+
+Division 1 ....................................... rep No 51, 2010
+
+Division 2
+
+s 27 .................................................. am No 20, 1991; No 28, 1993; No 155, 2000; No 49, 2004; No 139, 2010
+
+rs No 197, 2012
+
+s 27A ............................................... ad No 73, 2010
+
+am No 73, 2010
+
+rep No 197, 2012
+
+s 28 .................................................. am No 116, 1990; No 131, 2009; No 73, 2010
+
+rs No 197, 2012
+
+s 28A ............................................... ad No 116, 1990
+
+am No 131, 2009; No 73, 2010
+
+rs No 197, 2012
+
+am No 59, 2015; No 154, 2020
+
+s 28B ............................................... ad No 131, 2009
+
+am No 73, 2010
+
+rs No 197, 2012
+
+am No 59, 2015
+
+s 29 .................................................. am No 116, 1990; No 155, 2000
+
+rs No 197, 2012
+
+Division 3
+
+Division 3 heading .......................... rs No 83, 2022
+
+438 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Provision affected How affected
+
+Endnote 4—Amendment history
+
+s 30 .................................................. am No 116, 1990; No 155, 2000; No 139, 2010; No 197, 2012; No 59, 2015
+
+s 31 .................................................. am No 20, 1991; No 155, 2000; No 51, 2010; No 197, 2012; No 154, 2020
+
+s 32 .................................................. am No 116, 1990 (as am by No 165, 1992); No 20, 1991; No 49, 2004 (as am by No 9, 2006); No 51, 2010; No 197, 2012
+
+s 33 .................................................. am No 92, 1994; No 139, 2010; No 154, 2020; No 128, 2024
+
+s 33A ............................................... ad No 83, 2022
+
+s 33B ............................................... ad No 139, 2010
+
+rep No 59, 2015
+
+ad No 83, 2022
+
+Division 3A
+
+Division 3A ..................................... ad No 197, 2012
+
+s 33C ............................................... ad No 197, 2012
+
+am No 121, 2019; No 83, 2022; No 26, 2024
+
+s 33D ............................................... ad No 197, 2012
+
+Division 3B
+
+Division 3B ..................................... ad No 197, 2012
+
+rep No 124, 2017
+
+ad No 128, 2024
+
+s 33E ............................................... ad No 197, 2012
+
+rep No 124, 2017
+
+ad No 128, 2024
+
+s 33F ............................................... ad No 197, 2012
+
+am No 13, 2013
+
+rep No 124, 2017
+
+ad No 128, 2024
+
+s 33G ............................................... ad No 128, 2024
+
+s 33H ............................................... ad No 128, 2024
+
+s 33J ................................................ ad No 128, 2024
+
+Privacy Act 1988 439
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Endnote 4—Amendment history
+
+Provision affected How affected
+
+Division 4
+
+s 34 .................................................. am Nos 51 and 139, 2010; No 177 and 197, 2012; No 59, 2015
+
+s 35A ............................................... ad No 197, 2012
+
+## Part V
+
+## Part V heading ................................ rs No 197, 2012
+
+Division 1A
+
+Division 1A ..................................... ad No 197, 2012
+
+s 36A ............................................... ad No 197, 2012
+
+Division 1
+
+s 36 .................................................. am No 11, 1990; No 13, 1994; Nos 2 and 155, 2000; No 51, 2010; No 197, 2012; No 74, 2023
+
+s 36B ............................................... ad No 12, 2022
+
+s 37 .................................................. am No 92, 1994; No 177, 1994; No 82, 1997; No 155, 2000; No 139, 2010; No 197, 2012; No 59, 2015; No 24, 2016; No 92, 2017; No 154, 2020
+
+s 38 .................................................. rs No 13, 1994
+
+am No 155, 2000; No 197, 2012
+
+s 38A ............................................... ad No 13, 1994
+
+s 38B ............................................... ad No 13, 1994
+
+am No 197, 2012
+
+s 38C ............................................... ad No 13, 1994
+
+s 39 .................................................. rs No 13, 1994
+
+s 40 .................................................. am No 155, 2000; No 197, 2012
+
+s 40A ............................................... ad No 155, 2000
+
+rs No 197, 2012
+
+s 41 .................................................. am No 155, 2000; No 49, 2004; No 197, 2012; No 128, 2024
+
+s 42 .................................................. am No 155, 2000; No 197, 2012
+
+s 43 .................................................. am No 155, 2000; No 139, 2010; No 197, 2012; No 59, 2015
+
+s 43A ............................................... ad No 197, 2012
+
+s 44 .................................................. am No 34, 1997; No 197, 2012; No 154, 2020; No 83, 2022
+
+s 46 .................................................. am No 155, 2000; No 24, 2001; No 197, 2012; No 4, 2016; No 61, 2016; No 83, 2022
+
+440 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Provision affected How affected
+
+s 47 .................................................. am No 83, 2022
+
+s 48 .................................................. am No 155, 2000
+
+Endnote 4—Amendment history
+
+s 49 .................................................. am No 116, 1990; No 24, 2001; No 73, 2010; No 60, 2011; No 197, 2012
+
+s 49A ............................................... ad No 131, 2009
+
+s 49B ............................................... ad No 98, 2021
+
+am No 73, 2023; No 75, 2025
+
+s 50 .................................................. am No 146, 1999; No 25, 2006 (as am by No 73, 2008); No 70, 2009; No 139, 2010; No 11, 2011; No 197, 2012 (as am by No 5, 2015); No 2, 2013; No 5, 2015; No 59, 2015; No 154, 2020; No 98, 2021; No 12, 2022; No 83, 2022; No 139, 2024
+
+s 50A ............................................... ad No 155, 2000
+
+am No 197, 2012
+
+Division 2
+
+s 52 .................................................. am No 116, 1990; No 13, 1994; No 155, 2000; No 197, 2012; No 83, 2022; No 128, 2024
+
+s 52A ............................................... ad No 83, 2022
+
+s 53 .................................................. rs No 13, 1994
+
+s 53A ............................................... ad No 155, 2000
+
+am No 197, 2012
+
+s 53B ............................................... ad No 155, 2000
+
+am No 197, 2012
+
+Division 3
+
+Division 3 heading .......................... rs No 155, 2000; No 83, 2022
+
+Division 3 ....................................... rs No 13, 1994; No 59, 1995
+
+s 54 .................................................. rs No 13, 1994
+
+am No 177, 1994
+
+rs No 59, 1995
+
+am No 82, 1997; No 155, 2000; No 9, 2006; No 197, 2012; No 92, 2017
+
+s 55 .................................................. rs No 13, 1994; No 59, 1995; No 155, 2000; No 197, 2012
+
+am No 83, 2022
+
+Privacy Act 1988 441
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Endnote 4—Amendment history
+
+Provision affected How affected
+
+s 55A ............................................... ad No 155, 2000
+
+am No 197, 2012; No 13, 2013; No 13, 2021
+
+s 55B ............................................... ad No 155, 2000
+
+am No 197, 2012
+
+s 56 .................................................. rs No 13, 1994
+
+rep No 59, 1995
+
+Division 4
+
+Division 4 heading .......................... am No 116, 1990
+
+rs No 13, 1994
+
+Division 4 ....................................... rs No 13, 1994
+
+s 57 .................................................. rs No 13, 1994
+
+am No 177, 1994; No 82, 1997; No 197, 2012; No 92, 2017
+
+s 58 .................................................. rs No 13, 1994; No 197, 2012
+
+am No 83, 2022
+
+s 59 .................................................. rs No 13, 1994
+
+am No 197, 2012; No 83, 2022
+
+s 60 .................................................. am No 116, 1990
+
+rs No 13, 1994
+
+am No 139, 2010; No 197, 2012; No 154, 2020
+
+s 61 .................................................. rs No 13, 1994
+
+am No 38, 2005
+
+rep No 197, 2012
+
+s 62 .................................................. rs No 13, 1994
+
+am No 155, 2000; No 197, 2012; No 13, 2013; No 13, 2021; No 39, 2024
+
+Division 5
+
+s 63 .................................................. rs No 13, 1994
+
+am No 59, 1995; No 155, 2000; No 197, 2012; No 13, 2013; No 13, 2021
+
+s 64 .................................................. am No 155, 2000; No 197, 2012
+
+s 65 .................................................. am No 24, 2001; No 61, 2016
+
+442 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Provision affected How affected
+
+Endnote 4—Amendment history
+
+s 66 .................................................. am No 155, 2000; No 24, 2001; No 139, 2010; No 59, 2015; No 61, 2016; No 83, 2022
+
+s 67 .................................................. am No 155, 2000; No 197, 2012; No 83, 2022
+
+s 68 .................................................. am No 116, 1990; No 155, 2000; No 139, 2010; No 197, 2012; No 59, 2015
+
+rep No 128, 2024
+
+s 68A ............................................... ad No 155, 2000
+
+rep No 128, 2024
+
+s 69 .................................................. am No 155, 2000
+
+rep No 197, 2012
+
+s 70 .................................................. am No 125, 2002; No 86, 2006; No 139, 2010; No 59, 2015; No 83, 2022; No 89, 2022
+
+s 70A ............................................... ad No 155, 2000
+
+rep No 197, 2012
+
+s 70B ............................................... ad No 155, 2000
+
+## Part VI
+
+## Part VI heading ............................... rs No 155, 2000
+
+Division 1
+
+Division 1 heading .......................... ad No 155, 2000
+
+s 72 .................................................. am No 155, 2000; No 197, 2012
+
+s 73 .................................................. am No 155, 2000; No 50, 2006; No 197, 2012
+
+s 74 .................................................. am No 197, 2012
+
+s 75 .................................................. am No 155, 2000; No 197, 2012
+
+s 76 .................................................. am No 155, 2000
+
+s 77 .................................................. am No 155, 2000
+
+s 79 .................................................. am No 155, 2000; No 197, 2012
+
+s 80 .................................................. am No 5, 2011
+
+rep No 197, 2012
+
+Division 2
+
+Division 2 heading .......................... ad No 155, 2000
+
+s 80A ............................................... ad No 155, 2000
+
+Privacy Act 1988 443
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Endnote 4—Amendment history
+
+Provision affected How affected
+
+am No 197, 2012
+
+s 80B ............................................... ad No 155, 2000
+
+am No 197, 2012
+
+s 80C ............................................... ad No 155, 2000
+
+rep No 197, 2012
+
+s 80D ............................................... ad No 155, 2000
+
+am No 197, 2012
+
+Division 3
+
+Division 3 heading .......................... ad No 155, 2000
+
+s 80E ............................................... ad No 155, 2000
+
+Part VIA
+
+Part VIA .......................................... ad No 148, 2006
+
+Division 1
+
+s 80F ............................................... ad No 148, 2006
+
+s 80G ............................................... ad No 148, 2006
+
+am No 139, 2010; No 46, 2011; No 154, 2020; No 128, 2024
+
+s 80H ............................................... ad No 148, 2006
+
+am No 197, 2012
+
+rep No 128, 2024
+
+Division 2
+
+s 80J ................................................ ad No 148, 2006
+
+am No 129, 2020; No 128, 2024
+
+s 80K ............................................... ad No 148, 2006
+
+am No 128, 2024
+
+s 80KA ............................................ ad No 128, 2024
+
+s 80L ............................................... ad No 148, 2006
+
+am No 8, 2010
+
+rep No 128, 2024
+
+s 80M .............................................. ad No 148, 2006
+
+rep No 128, 2024
+
+s 80N ............................................... ad No 148, 2006
+
+444 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Provision affected How affected
+
+am No 128, 2024
+
+Division 3
+
+s 80P ............................................... ad No 148, 2006
+
+Endnote 4—Amendment history
+
+am No 197, 2012; No 108, 2014; No 156, 2018; No 154, 2020; No 24, 2024; No 128, 2024
+
+Division 4
+
+s 80Q ............................................... ad No 148, 2006
+
+am No 197, 2012; No 128, 2024
+
+s 80R ............................................... ad No 148, 2006
+
+am No 139, 2010; No 154, 2020
+
+ss 80S, 80T ..................................... ad No 148, 2006
+
+Part VIB
+
+Part VIB heading ............................ rs No 128, 2024
+
+Part VIB .......................................... ad No 197, 2012
+
+rs No 124, 2017
+
+Division 1AA
+
+Division 1AA .................................. ad No 128, 2024
+
+s 80TA ............................................ ad No 128, 2024
+
+Division 1AB
+
+Division 1AB .................................. ad No 128, 2024
+
+s 80TB ............................................. ad No 128, 2024
+
+s 80TC ............................................. ad No 128, 2024
+
+Division 1AC
+
+Division 1AC .................................. ad No 128, 2024
+
+s 80TD ............................................ ad No 128, 2024
+
+s 80TE ............................................. ad No 128, 2024
+
+Division 1
+
+s 80U ............................................... ad No 197, 2012
+
+rs No 124, 2017
+
+am No 13, 2021
+
+s 80UA ............................................ ad No 128, 2024
+
+Privacy Act 1988 445
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Endnote 4—Amendment history
+
+Provision affected How affected
+
+Division 1A
+
+Division 1A ..................................... ad No 83, 2022
+
+s 80UB ............................................ ad No 83, 2022
+
+am No 128, 2024
+
+Division 1B
+
+Division 1B ..................................... ad No 128, 2024
+
+s 80UC ............................................ ad No 128, 2024
+
+s 80UD ............................................ ad No 128, 2024
+
+Division 2
+
+s 80V ............................................... ad No 197, 2012
+
+rs No 124, 2017
+
+am No 13, 2021
+
+Division 3
+
+s 80W .............................................. ad No 197, 2012
+
+am No 13, 2013
+
+rs No 124, 2017
+
+am No 13, 2021
+
+s 80X ............................................... ad No 197, 2012
+
+rep No 124, 2017
+
+s 80Y ............................................... ad No 197, 2012
+
+rep No 124, 2017
+
+s 80Z ............................................... ad No 197, 2012
+
+am No 13, 2013
+
+rep No 124, 2017
+
+s 80ZA ............................................ ad No 197, 2012
+
+am No 13, 2013
+
+rep No 124, 2017
+
+s 80ZB ............................................. ad No 197, 2012
+
+am No 13, 2013
+
+rep No 124, 2017
+
+s 80ZC ............................................. ad No 197, 2012
+
+446 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Provision affected How affected
+
+rep No 124, 2017
+
+s 80ZD ............................................ ad No 197, 2012
+
+am No 13, 2013
+
+rep No 124, 2017
+
+s 80ZE ............................................. ad No 197, 2012
+
+rep No 124, 2017
+
+s 80ZF ............................................. ad No 197, 2012
+
+rep No 124, 2017
+
+s 80ZG ............................................ ad No 197, 2012
+
+rep No 124, 2017
+
+## Part VII
+
+Endnote 4—Amendment history
+
+s 82 .................................................. am No 159, 2001; No 197, 2012
+
+s 83 .................................................. am No 2, 2000; No 197, 2012
+
+## Part VIII
+
+s 89 .................................................. am No 139, 2010; No 154, 2020
+
+Part VIIIA ....................................... ad No 44, 2020
+
+rep No 44, 2020
+
+s 94A ............................................... ad No 44, 2020
+
+rep No 44, 2020
+
+s 94B ............................................... ad No 44, 2020
+
+rep No 44, 2020
+
+s 94C ............................................... ad No 44, 2020
+
+rep No 44, 2020
+
+s 94D ............................................... ad No 44, 2020
+
+rep No 44, 2020
+
+s 94E ............................................... ad No 44, 2020
+
+rep No 44, 2020
+
+s 94F ............................................... ad No 44, 2020
+
+rep No 44, 2020
+
+s 94G ............................................... ad No 44, 2020
+
+rep No 44, 2020
+
+Privacy Act 1988 447
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Endnote 4—Amendment history
+
+Provision affected How affected
+
+s 94H ............................................... ad No 44, 2020
+
+rep No 44, 2020
+
+s 94J ................................................ ad No 44, 2020
+
+rep No 44, 2020
+
+s 94K ............................................... ad No 44, 2020
+
+rep No 44, 2020
+
+s 94L ............................................... ad No 44, 2020
+
+rep No 44, 2020
+
+s 94M .............................................. ad No 44, 2020
+
+rep No 44, 2020
+
+s 94N ............................................... ad No 44, 2020
+
+rep No 44, 2020
+
+s 94P ............................................... ad No 44, 2020
+
+rep No 44, 2020
+
+s 94Q ............................................... ad No 44, 2020
+
+rep No 44, 2020
+
+s 94R ............................................... ad No 44, 2020
+
+rep No 44, 2020
+
+s 94S ............................................... ad No 44, 2020
+
+rep No 44, 2020
+
+s 94T ............................................... ad No 44, 2020
+
+rep No 44, 2020
+
+s 94U ............................................... ad No 44, 2020
+
+rep No 44, 2020
+
+s 94V ............................................... ad No 44, 2020
+
+rep No 44, 2020
+
+s 94W .............................................. ad No 44, 2020
+
+rep No 44, 2020
+
+s 94X ............................................... ad No 44, 2020
+
+rep No 44, 2020
+
+s 94Y ............................................... ad No 44, 2020
+
+448 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Provision affected How affected
+
+rep No 44, 2020
+
+s 94Z ............................................... ad No 44, 2020
+
+rep No 44, 2020
+
+s 94ZA ............................................ ad No 44, 2020
+
+rep No 44, 2020
+
+s 94ZB ............................................. ad No 44, 2020
+
+rep No 44, 2020
+
+s 94ZC ............................................. ad No 44, 2020
+
+rep No 44, 2020
+
+s 94ZD ............................................ ad No 44, 2020
+
+rep No 44, 2020
+
+## Part IX
+
+s 94A ............................................... ad No 128, 2024
+
+Endnote 4—Amendment history
+
+s 95 .................................................. am No 50, 2006; No 197, 2012
+
+s 95A ............................................... ad No 155, 2000
+
+am No 50, 2006; No 197, 2012
+
+s 95AA ............................................ ad No 99, 2006
+
+am No 197, 2012
+
+s 95B ............................................... ad No 155, 2000
+
+am No 197, 2012
+
+s 95C ............................................... ad No 155, 2000
+
+am No 197, 2012
+
+s 96 .................................................. am No 2, 2000
+
+rep No 51, 2010
+
+ad No 197, 2012
+
+am No 12, 2017; No 39, 2024
+
+s 97 .................................................. am No 155, 2000
+
+rep No 51, 2010
+
+s 98 .................................................. am No 155, 2000; No 13, 2013
+
+rep No 124, 2017
+
+s 98A ............................................... ad No 197, 2012
+
+Privacy Act 1988 449
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Endnote 4—Amendment history
+
+Provision affected How affected
+
+s 98B ............................................... ad No 197, 2012
+
+s 98C ............................................... ad No 197, 2012
+
+s 99 .................................................. am No 11, 1990; No 2, 2000
+
+rep No 51, 2010
+
+s 99A ............................................... ad No 116, 1990
+
+am No 155, 2000; No 24, 2001; No 4, 2010; No 197, 2012; No 124, 2017
+
+s 100 ................................................ am No 155, 2000; No 49, 2004; No 197, 2012; No 128, 2024
+
+## Part X .............................................. rep No 197, 2012
+
+s 101 ................................................ rep No 197, 2012
+
+Schedule 1
+
+Schedule 1 ....................................... rs No 197, 2012
+
+## Part 1
+
+cl 1 .................................................. ad No 197, 2012
+
+am No 128, 2024
+
+cl 2 .................................................. ad No 197, 2012
+
+## Part 2
+
+cl 3 .................................................. ad No 197, 2012
+
+cl 4 .................................................. ad No 197, 2012
+
+cl 5 .................................................. ad No 197, 2012
+
+## Part 3
+
+cl 6 .................................................. ad No 197, 2012
+
+cl 7 .................................................. ad No 197, 2012
+
+am No 127, 2019; No 154, 2020
+
+cl 8 .................................................. ad No 197, 2012
+
+am No 128, 2024
+
+cl 9 .................................................. ad No 197, 2012
+
+## Part 4
+
+cl 10 ................................................ ad No 197, 2012
+
+cl 11 ................................................ ad No 197, 2012
+
+am No 128, 2024
+
+450 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Provision affected How affected
+
+## Part 5
+
+cl 12 ................................................ ad No 197, 2012
+
+am No 154, 2020
+
+cl 13 ................................................ ad No 197, 2012
+
+Schedule 2
+
+Schedule 2 ....................................... rep No 145, 2010
+
+ad No 128, 2024
+
+Introduction .................................... am No 51, 2010
+
+rep No 145, 2010
+
+## Part 1
+
+cl 1 .................................................. rep No 145, 2010
+
+ad No 128, 2024
+
+cl 2 .................................................. rep No 145, 2010
+
+ad No 128, 2024
+
+cl 3 .................................................. rep No 145, 2010
+
+ad No 128, 2024
+
+cl 4 .................................................. rep No 145, 2010
+
+ad No 128, 2024
+
+cl 5 .................................................. rep No 145, 2010
+
+ad No 128, 2024
+
+cl 6 .................................................. am No 51, 2010
+
+rep No 145, 2010
+
+ad No 128, 2024
+
+ed C104
+
+## Part 2
+
+cl 7 .................................................. rep No 145, 2010
+
+ad No 128, 2024
+
+cl 8 .................................................. ad No 128, 2024
+
+cl 8A ............................................... ad No 128, 2024
+
+cl 9 .................................................. ad No 128, 2024
+
+cl 10 ................................................ ad No 128, 2024
+
+Endnote 4—Amendment history
+
+Privacy Act 1988 451
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Endnote 4—Amendment history
+
+Provision affected How affected
+
+cl 11 ................................................ ad No 128, 2024
+
+cl 12 ................................................ ad No 128, 2024
+
+cl 13 ................................................ ad No 128, 2024
+
+cl 14 ................................................ ad No 128, 2024
+
+## Part 3
+
+cl 15 ................................................ ad No 128, 2024
+
+cl 16 ................................................ ad No 128, 2024
+
+cl 16A ............................................. ad No 128, 2024
+
+cl 16B .............................................. ad No 128, 2024
+
+cl 17 ................................................ ad No 128, 2024
+
+cl 18 ................................................ ad No 128, 2024
+
+## Part 4
+
+cl 19 ................................................ ad No 128, 2024
+
+cl 20 ................................................ ad No 128, 2024
+
+cl 21 ................................................ ad No 128, 2024
+
+cl 22 ................................................ ad No 128, 2024
+
+cl 23 ................................................ ad No 128, 2024
+
+Schedule 3 ....................................... ad No 155, 2000
+
+rep No 197, 2012
+
+cl 1 .................................................. ad No 155, 2000
+
+rep No 197, 2012
+
+cl 2 .................................................. ad No 155, 2000
+
+am No 99, 2006; No 144, 2008
+
+rep No 197, 2012
+
+cl 3–6 .............................................. ad No 155, 2000
+
+rep No 197, 2012
+
+cl 7 .................................................. ad No 155, 2000
+
+am No 49, 2004
+
+rep No 197, 2012
+
+cl 8, 9 .............................................. ad No 155, 2000
+
+rep No 197, 2012
+
+452 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Provision affected How affected
+
+cl 10 ................................................ ad No 155, 2000
+
+am No 99, 2006
+
+rep No 197, 2012
+
+Endnote 4—Amendment history
+
+Privacy Act 1988 453
+
+Compilation No. 104 Compilation date: 04/06/2026
+
+Endnote 5—Editorial changes
+
+### Endnote 5—Editorial changes
+
+In preparing this compilation for registration, the following kinds of editorial change(s) were made under the Legislation Act 2003.
+
+Subclause 6(1) of Schedule 2 (paragraph (k) of the definition of law enforcement body)
+
+Kind of editorial change
+
+Update to a reference to a person, body or other entity, or an office, position, place, document or thing
+
+Details of editorial change
+
+Paragraph (k) of the definition of law enforcement body in subclause 6(1) of Schedule 2 refers to “Independent Commissioner Against Corruption of South Australia” instead of “Independent Commission Against Corruption of South Australia”.
+
+This compilation was editorially changed to update the reference from “Independent Commissioner Against Corruption of South Australia” to “Independent Commission Against Corruption of South Australia” in paragraph (k) of the definition of law enforcement body in subclause 6(1) of Schedule 2.
+
+454 Privacy Act 1988
+
+Compilation No. 104 Compilation date: 04/06/2026

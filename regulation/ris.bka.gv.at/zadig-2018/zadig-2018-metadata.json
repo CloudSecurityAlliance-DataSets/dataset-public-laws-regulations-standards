@@ -1,0 +1,48 @@
+{
+  "secid": "secid:regulation/ris.bka.gv.at/zadig-2018",
+  "name": "Zahlungsdienstegesetz 2018 (ZaDiG 2018)",
+  "acronym": "ZaDiG 2018",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "zadig-2018",
+  "owner": "RIS — Rechtsinformationssystem des Bundes",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Austrian Payment Services Act transposing PSD2. Supervised by FMA.",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by RIS — Rechtsinformationssystem des Bundes (ris.bka.gv.at) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within RIS — Rechtsinformationssystem des Bundes (ris.bka.gv.at).",
+  "license": {
+    "spdx": "LicenseRef-AT-UrhG-Sec7",
+    "Grouping": "Government-Work",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.ris.bka.gv.at/NormDokument.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001848&Paragraf=7",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (ris.bka.gv.at) is governed by Austrian Copyright Act (UrhG) § 7 (Freie Werke — official works produced primarily for official use) and Open Data Österreich (CC BY 4.0). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (ris.bka.gv.at) is governed by Austrian Copyright Act (UrhG) § 7 (Freie Werke — official works produced primarily for official use) and Open Data Österreich (CC BY 4.0). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.ris.bka.gv.at",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:regulation/ris.bka.gv.at/zadig-2018 (https://www.ris.bka.gv.at) is not directly downloadable (upstream portal root URL only, SPA/WAF barrier, or pending publication); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

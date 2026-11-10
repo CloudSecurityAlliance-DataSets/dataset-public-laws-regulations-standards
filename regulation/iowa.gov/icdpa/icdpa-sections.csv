@@ -1,16 +1,10 @@
 "depth","section_id","section_name","id_kind","parent_id","body"
 "1","","Iowa Consumer Data Protection Act (Iowa Code Chapter 715D)","","","_Source: https://www.legis.iowa.gov/docs/code/2025/715D.pdf — extracted via pdftotext -layout. Effective January 1, 2025._
 
-```
 1                                                            CONSUMER DATA PROTECTIONS, §715D.1"
 "3","CHAPTER 715D","CHAPTER 715D","chapter","","CONSUMER DATA PROTECTIONS
                                    Referred to in §331.307, 364.22, 701.1"
-"3","715D.1 (1)","Definitions.                                  715D.6            Processing data — exemptions.","statute","",""
-"3","715D.2 (1)","Scope and exemptions.                         715D.7            Limitations.","statute","",""
-"3","715D.3 (1)","Consumer data rights.","statute","",""
-"3","715D.4 (1)","Data controller duties.                       715D.8            Enforcement — penalties.","statute","",""
-"3","715D.5 (1)","Processor duties.                             715D.9            Preemption.","statute","",""
-"3","715D.1 (2)","Definitions.","statute","","As used in this chapter, unless the context otherwise requires:
+"3","715D.1","Definitions.","statute","","As used in this chapter, unless the context otherwise requires:
   1. “Affiliate” means a legal entity that controls, is controlled by, or is under common
 control with another legal entity or shares common branding with another legal entity. For
 the purposes of this definition, “control” or “controlled” means:
@@ -155,7 +149,7 @@ to maintain its secrecy.
   2023 Acts, ch 17, §1, 10
     Section effective January 1, 2025; 2023 Acts, ch 17, §10
     NEW section"
-"3","715D.2 (2)","Scope and exemptions.","statute","","1. This chapter applies to a person conducting business in the state or producing products
+"3","715D.2","Scope and exemptions.","statute","","1. This chapter applies to a person conducting business in the state or producing products
 or services that are targeted to consumers who are residents of the state and that during a
 calendar year does either of the following:
    a. Controls or processes personal data of at least one hundred thousand consumers.
@@ -220,7 +214,7 @@ Act, 15 U.S.C. §6501 – 6506, and its rules, regulations, and exceptions there
   2023 Acts, ch 17, §2, 10
   Section effective January 1, 2025; 2023 Acts, ch 17, §10
   NEW section"
-"3","715D.3 (2)","Consumer data rights.","statute","","1. A consumer may invoke the consumer rights authorized pursuant to this section at any
+"3","715D.3","Consumer data rights.","statute","","1. A consumer may invoke the consumer rights authorized pursuant to this section at any
 time by submitting a request to the controller, through the means specified by the controller
 pursuant to section 715D.4, subsection 6, specifying the consumer rights the consumer
 wishes to invoke. A known child’s parent or legal guardian may invoke such consumer
@@ -280,7 +274,7 @@ general to submit a complaint.
     Referred to in §715D.1, 715D.4, 715D.5, 715D.6
     Section effective January 1, 2025; 2023 Acts, ch 17, §10
     NEW section"
-"3","715D.4 (2)","Data controller duties.","statute","","1. A controller shall adopt and implement reasonable administrative, technical, and
+"3","715D.4","Data controller duties.","statute","","1. A controller shall adopt and implement reasonable administrative, technical, and
 physical data security practices to protect the confidentiality, integrity, and accessibility of
 personal data. Such data security practices shall be appropriate to the volume and nature
 of the personal data at issue.
@@ -329,7 +323,7 @@ pursuant to section 715D.3, but may require a consumer to use an existing accoun
   Referred to in §715D.3, 715D.6
   Section effective January 1, 2025; 2023 Acts, ch 17, §10
   NEW section"
-"3","715D.5 (2)","Processor duties.","statute","","1. A processor shall assist a controller in duties required under this chapter, taking
+"3","715D.5","Processor duties.","statute","","1. A processor shall assist a controller in duties required under this chapter, taking
 into account the nature of processing and the information available to the processor by
 appropriate technical and organizational measures, insofar as is reasonably practicable, as
 follows:
@@ -527,6 +521,4 @@ federal agency, guidance issued by such agency thereto.
   Section effective January 1, 2025; 2023 Acts, ch 17, §10
   NEW section
 
-Tue Nov 19 20:02:25 2024                                     Iowa Code 2025, Chapter 715D (13, 8)
-
-```"
+Tue Nov 19 20:02:25 2024                                     Iowa Code 2025, Chapter 715D (13, 8)"

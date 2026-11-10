@@ -2,17 +2,13 @@
 
 _MCA Title 30, Chapter 14, Part 28 — sections 30-14-2801 through 30-14-2820. Source: mca.legmt.gov, retrieved via curl_
 
-# Montana Code Annotated 2025
 
-####  TITLE 30. TRADE AND COMMERCE
 
-###  CHAPTER 14. UNFAIR TRADE PRACTICES AND CONSUMER PROTECTION
 
 ##  Part 28. Consumer Data Privacy Act
 
-#  Short Title
 
-30-14-2801. Short title. This part may be cited as the "Consumer Data Privacy
+### 30-14-2801. Short title. This part may be cited as the "Consumer Data Privacy
 Act".
 
 History: En. Sec. 1, Ch. 681, L. 2023.
@@ -22,17 +18,12 @@ a research tool to users of the Code. In case of inconsistencies resulting
 from omissions or other errors, the printed version will prevail.
 
 
-# Montana Code Annotated 2025
 
-####  TITLE 30. TRADE AND COMMERCE
 
-###  CHAPTER 14. UNFAIR TRADE PRACTICES AND CONSUMER PROTECTION
 
-##  Part 28. Consumer Data Privacy Act
 
-#  Definitions
 
-30-14-2802. Definitions. As used in this part, unless the context clearly
+### 30-14-2802. Definitions. As used in this part, unless the context clearly
 indicates otherwise, the following definitions apply:
 
 (1) "Adult" means an individual who is 18 years of age or older.
@@ -297,17 +288,12 @@ a research tool to users of the Code. In case of inconsistencies resulting
 from omissions or other errors, the printed version will prevail.
 
 
-# Montana Code Annotated 2025
 
-####  TITLE 30. TRADE AND COMMERCE
 
-###  CHAPTER 14. UNFAIR TRADE PRACTICES AND CONSUMER PROTECTION
 
-##  Part 28. Consumer Data Privacy Act
 
-#  Applicability
 
-30-14-2803. Applicability. (1) The provisions of this part, excluding
+### 30-14-2803. Applicability. (1) The provisions of this part, excluding
 [30-14-2811](../section_0110/0300-0140-0280-0110.html),
 [30-14-2818](../section_0180/0300-0140-0280-0180.html), and
 [30-14-2819](../section_0190/0300-0140-0280-0190.html), apply to persons that
@@ -334,17 +320,12 @@ a research tool to users of the Code. In case of inconsistencies resulting
 from omissions or other errors, the printed version will prevail.
 
 
-# Montana Code Annotated 2025
 
-####  TITLE 30. TRADE AND COMMERCE
 
-###  CHAPTER 14. UNFAIR TRADE PRACTICES AND CONSUMER PROTECTION
 
-##  Part 28. Consumer Data Privacy Act
 
-#  Exemptions
 
-30-14-2804. Exemptions. (1) This part does not apply to any:
+### 30-14-2804. Exemptions. (1) This part does not apply to any:
 
 (a) body, authority, board, bureau, commission, district, or agency of this
 state or any political subdivision of this state;
@@ -479,15 +460,10 @@ a research tool to users of the Code. In case of inconsistencies resulting
 from omissions or other errors, the printed version will prevail.
 
 
-# Montana Code Annotated 2025
 
-####  TITLE 30. TRADE AND COMMERCE
 
-###  CHAPTER 14. UNFAIR TRADE PRACTICES AND CONSUMER PROTECTION
 
-##  Part 28. Consumer Data Privacy Act
 
-#  Through 30-14-2807 Reserved
 
 30-14-2805 through 30-14-2807 reserved.
 
@@ -496,17 +472,12 @@ a research tool to users of the Code. In case of inconsistencies resulting
 from omissions or other errors, the printed version will prevail.
 
 
-# Montana Code Annotated 2025
 
-####  TITLE 30. TRADE AND COMMERCE
 
-###  CHAPTER 14. UNFAIR TRADE PRACTICES AND CONSUMER PROTECTION
 
-##  Part 28. Consumer Data Privacy Act
 
-#  Consumer Personal Data -- Opt-Out -- Compliance -- Appeals
 
-30-14-2808. Consumer personal data -- opt-out -- compliance -- appeals. (1) A
+### 30-14-2808. Consumer personal data -- opt-out -- compliance -- appeals. (1) A
 consumer must have the right to:
 
 (a) confirm whether a controller is processing the consumer's personal data
@@ -644,17 +615,12 @@ a research tool to users of the Code. In case of inconsistencies resulting
 from omissions or other errors, the printed version will prevail.
 
 
-# Montana Code Annotated 2025
 
-####  TITLE 30. TRADE AND COMMERCE
 
-###  CHAPTER 14. UNFAIR TRADE PRACTICES AND CONSUMER PROTECTION
 
-##  Part 28. Consumer Data Privacy Act
 
-#  Authorized Agent
 
-30-14-2809. Authorized agent. (1) A consumer may designate another person to
+### 30-14-2809. Authorized agent. (1) A consumer may designate another person to
 serve as the consumer's authorized agent and act on the consumer's behalf to
 opt out of the processing of the consumer's personal data for one or more of
 the purposes specified in
@@ -719,15 +685,10 @@ a research tool to users of the Code. In case of inconsistencies resulting
 from omissions or other errors, the printed version will prevail.
 
 
-# Montana Code Annotated 2025
 
-####  TITLE 30. TRADE AND COMMERCE
 
-###  CHAPTER 14. UNFAIR TRADE PRACTICES AND CONSUMER PROTECTION
 
-##  Part 28. Consumer Data Privacy Act
 
-#  Reserved
 
 30-14-2810 reserved.
 
@@ -736,17 +697,12 @@ a research tool to users of the Code. In case of inconsistencies resulting
 from omissions or other errors, the printed version will prevail.
 
 
-# Montana Code Annotated 2025
 
-####  TITLE 30. TRADE AND COMMERCE
 
-###  CHAPTER 14. UNFAIR TRADE PRACTICES AND CONSUMER PROTECTION
 
-##  Part 28. Consumer Data Privacy Act
 
-#  Duties Of Controllers -- Duty Of Care -- Rebuttable Presumption
 
-30-14-2811. Duties of controllers -- duty of care -- rebuttable presumption.
+### 30-14-2811. Duties of controllers -- duty of care -- rebuttable presumption.
 (1) (a) A controller that offers an online service, product, or feature to a
 consumer whom the controller actually knows or willfully disregards is a minor
 shall use reasonable care to avoid a heightened risk of harm to minors caused
@@ -852,17 +808,12 @@ a research tool to users of the Code. In case of inconsistencies resulting
 from omissions or other errors, the printed version will prevail.
 
 
-# Montana Code Annotated 2025
 
-####  TITLE 30. TRADE AND COMMERCE
 
-###  CHAPTER 14. UNFAIR TRADE PRACTICES AND CONSUMER PROTECTION
 
-##  Part 28. Consumer Data Privacy Act
 
-#  Data Processing By Controller -- Limitations
 
-30-14-2812. Data processing by controller -- limitations. (1) A controller
+### 30-14-2812. Data processing by controller -- limitations. (1) A controller
 shall:
 
 (a) limit the collection of personal data to what is adequate, relevant, and
@@ -997,17 +948,12 @@ a research tool to users of the Code. In case of inconsistencies resulting
 from omissions or other errors, the printed version will prevail.
 
 
-# Montana Code Annotated 2025
 
-####  TITLE 30. TRADE AND COMMERCE
 
-###  CHAPTER 14. UNFAIR TRADE PRACTICES AND CONSUMER PROTECTION
 
-##  Part 28. Consumer Data Privacy Act
 
-#  Data Processor -- Allowances -- Limitations
 
-30-14-2813. Data processor -- allowances -- limitations. (1) A processor shall
+### 30-14-2813. Data processor -- allowances -- limitations. (1) A processor shall
 adhere to the instructions of a controller and shall assist the controller in
 meeting the controller's obligations under this part to include:
 
@@ -1086,17 +1032,12 @@ a research tool to users of the Code. In case of inconsistencies resulting
 from omissions or other errors, the printed version will prevail.
 
 
-# Montana Code Annotated 2025
 
-####  TITLE 30. TRADE AND COMMERCE
 
-###  CHAPTER 14. UNFAIR TRADE PRACTICES AND CONSUMER PROTECTION
 
-##  Part 28. Consumer Data Privacy Act
 
-#  Data Protection Assessment
 
-30-14-2814. Data protection assessment. (1) A controller shall conduct and
+### 30-14-2814. Data protection assessment. (1) A controller shall conduct and
 document a data protection assessment for each of the controller's processing
 activities that presents a heightened risk of harm to a consumer. For the
 purposes of this section, processing that presents a heightened risk of harm
@@ -1171,17 +1112,12 @@ a research tool to users of the Code. In case of inconsistencies resulting
 from omissions or other errors, the printed version will prevail.
 
 
-# Montana Code Annotated 2025
 
-####  TITLE 30. TRADE AND COMMERCE
 
-###  CHAPTER 14. UNFAIR TRADE PRACTICES AND CONSUMER PROTECTION
 
-##  Part 28. Consumer Data Privacy Act
 
-#  De-Identified Data
 
-30-14-2815. De-identified data. (1) Any controller in possession of de-
+### 30-14-2815. De-identified data. (1) Any controller in possession of de-
 identified data shall:
 
 (a) take reasonable measures to ensure that the de-identified data cannot be
@@ -1237,17 +1173,12 @@ a research tool to users of the Code. In case of inconsistencies resulting
 from omissions or other errors, the printed version will prevail.
 
 
-# Montana Code Annotated 2025
 
-####  TITLE 30. TRADE AND COMMERCE
 
-###  CHAPTER 14. UNFAIR TRADE PRACTICES AND CONSUMER PROTECTION
 
-##  Part 28. Consumer Data Privacy Act
 
-#  Compliance By Controller Or Processor
 
-30-14-2816. Compliance by controller or processor. (1) Nothing in this part
+### 30-14-2816. Compliance by controller or processor. (1) Nothing in this part
 may be construed to restrict a controller's or processor's ability to:
 
 (a) comply with federal, state, or municipal ordinances or regulations;
@@ -1396,17 +1327,12 @@ a research tool to users of the Code. In case of inconsistencies resulting
 from omissions or other errors, the printed version will prevail.
 
 
-# Montana Code Annotated 2025
 
-####  TITLE 30. TRADE AND COMMERCE
 
-###  CHAPTER 14. UNFAIR TRADE PRACTICES AND CONSUMER PROTECTION
 
-##  Part 28. Consumer Data Privacy Act
 
-#  Enforcement
 
-30-14-2817. Enforcement. (1) The attorney general has exclusive authority and
+### 30-14-2817. Enforcement. (1) The attorney general has exclusive authority and
 may use the duties and powers provided by Title 30, chapter 14, parts 1 and 2,
 to enforce violations pursuant to this part.
 
@@ -1449,17 +1375,12 @@ a research tool to users of the Code. In case of inconsistencies resulting
 from omissions or other errors, the printed version will prevail.
 
 
-# Montana Code Annotated 2025
 
-####  TITLE 30. TRADE AND COMMERCE
 
-###  CHAPTER 14. UNFAIR TRADE PRACTICES AND CONSUMER PROTECTION
 
-##  Part 28. Consumer Data Privacy Act
 
-#  Responsibility According To Role -- Processing Data Of Minors
 
-30-14-2818. Responsibility according to role -- processing data of minors. (1)
+### 30-14-2818. Responsibility according to role -- processing data of minors. (1)
 A processor shall adhere to the instructions of a controller and shall assist
 the controller to meet the controller's obligations under
 [30-14-2811](../section_0110/0300-0140-0280-0110.html) and
@@ -1505,17 +1426,12 @@ a research tool to users of the Code. In case of inconsistencies resulting
 from omissions or other errors, the printed version will prevail.
 
 
-# Montana Code Annotated 2025
 
-####  TITLE 30. TRADE AND COMMERCE
 
-###  CHAPTER 14. UNFAIR TRADE PRACTICES AND CONSUMER PROTECTION
 
-##  Part 28. Consumer Data Privacy Act
 
-#  Data Protection Assessments For Heightened Risk Of Harm To Minors
 
-30-14-2819. Data protection assessments for heightened risk of harm to minors.
+### 30-14-2819. Data protection assessments for heightened risk of harm to minors.
 (1) A controller that, on or after October 1, 2025, offers an online service,
 product, or feature to a consumer whom the controller actually knows or
 willfully disregards is a minor shall conduct a data protection assessment for
@@ -1597,17 +1513,12 @@ a research tool to users of the Code. In case of inconsistencies resulting
 from omissions or other errors, the printed version will prevail.
 
 
-# Montana Code Annotated 2025
 
-####  TITLE 30. TRADE AND COMMERCE
 
-###  CHAPTER 14. UNFAIR TRADE PRACTICES AND CONSUMER PROTECTION
 
-##  Part 28. Consumer Data Privacy Act
 
-#  Civil Penalty Injunction
 
-30-14-2820. Civil penalty injunction. (1) A violation of this part is a
+### 30-14-2820. Civil penalty injunction. (1) A violation of this part is a
 violation of Title 30, chapter 14, parts 1 and 2.
 
 (2) A person who violates the provisions of this part following the 30-day

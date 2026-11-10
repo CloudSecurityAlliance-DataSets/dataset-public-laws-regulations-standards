@@ -1,0 +1,63 @@
+{
+  "secid": "secid:regulation/cac.gov.cn/algorithm-recommendation-provisions",
+  "name": "Provisions on the Administration of Algorithm Recommendation for Internet Information Services",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "algorithm-recommendation-provisions",
+  "owner": "Cyberspace Administration of China",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "China's first dedicated algorithm-governance regulation, grounded in the CSL, DSL, and PIPL. Regulates recommendation-algorithm use in internet information services (search, feeds, e-commerce, gig platforms): requires algorithm filing/registration with CAC for services with public-opinion or social-mobilization capability, mandates user opt-out/control over recommendation profiling, bans algorithmic price discrimination, and requires labor-rights protections for algorithm-managed gig workers. Jointly issued by CAC, MIIT, MPS, and SAMR.",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by Cyberspace Administration of China (cac.gov.cn) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within Cyberspace Administration of China (cac.gov.cn).",
+  "license": {
+    "spdx": "LicenseRef-CN-Copyright-Art5-1",
+    "Grouping": "Public Domain",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/CN",
+    "note": "Official publication (cac.gov.cn); Copyright Law of the People's Republic of China Art. 5(1) (laws, regulations, resolutions, decisions and orders of state organs, and other documents of a legislative, administrative or judicial nature and their official translations are excluded from copyright protection).",
+    "notes": "Official publication (cac.gov.cn); Copyright Law of the People's Republic of China Art. 5(1) (laws, regulations, resolutions, decisions and orders of state organs, and other documents of a legislative, administrative or judicial nature and their official translations are excluded from copyright protection)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.chinalawtranslate.com/en/algorithms/",
+    "textUsed": "https://www.chinalawtranslate.com/en/algorithms/",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official regulation (https://www.chinalawtranslate.com/en/algorithms/) to Markdown (21,981 chars). Parsed 9 sections (6 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  }
+}

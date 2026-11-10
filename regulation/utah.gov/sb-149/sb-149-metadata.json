@@ -1,0 +1,63 @@
+{
+  "secid": "secid:regulation/utah.gov/sb-149",
+  "name": "Utah SB 149 — Artificial Intelligence Policy Act (UAIPA, generative AI consumer interaction disclosure requirements, enacted March 2024, amended by SB 226 in 2025)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "sb-149",
+  "owner": "State of Utah",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Utah SB 149 — Artificial Intelligence Policy Act (UAIPA, generative AI consumer interaction disclosure requirements, enacted March 2024, amended by SB 226 in 2025)",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by State of Utah (utah.gov) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within State of Utah (utah.gov).",
+  "license": {
+    "spdx": "CC0-1.0",
+    "Grouping": "Public Domain",
+    "redistribution": "yes",
+    "derivatives": "yes",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.usa.gov/government-works",
+    "note": "United States Government work (17 U.S.C. § 105); in the public domain worldwide.",
+    "notes": "United States Government work (17 U.S.C. § 105); in the public domain worldwide."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://le.utah.gov/~2024/bills/static/SB0149.html",
+    "textUsed": "https://le.utah.gov/~2024/bills/xmlEnrolled/SB0149.xml",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "utah-leg-xml + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official regulation (https://le.utah.gov/~2024/bills/xmlEnrolled/SB0149.xml) to Markdown (36,064 chars). Parsed 18 sections (16 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "utah-leg-xml + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  }
+}

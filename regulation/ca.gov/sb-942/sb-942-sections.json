@@ -1,0 +1,170 @@
+[
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "California SB 942 — California AI Transparency Act (Business and Professions Code § 22757 et seq., enacted Sept 19, 2024)",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "**Senate Bill\nNo. 942**"
+  },
+  {
+    "depth": 3,
+    "section_id": "CHAPTER 291",
+    "section_name": "CHAPTER 291",
+    "id_kind": "chapter",
+    "parent_id": "",
+    "body": "An act to add Chapter 25 (commencing with Section 22757) to Division 8 of the Business and Professions Code, relating to consumer protection.\n\n[\nApproved by\nGovernor\n September 19, 2024.\nFiled with\nSecretary of State\n September 19, 2024.\n]"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "LEGISLATIVE COUNSEL'S DIGEST",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "SB 942, Becker.\nCalifornia AI Transparency Act.\n\nExisting law requires the Secretary of Government Operations to develop a coordinated plan to, among other things, investigate the feasibility of, and obstacles to, developing standards and technologies for state departments to determine digital content provenance. For the purpose of informing that coordinated plan, existing law requires the secretary to evaluate, among other things, the impact of the proliferation of deepfakes, defined to mean audio or visual content that has been generated or manipulated by artificial intelligence that would falsely appear to be authentic or truthful and that features depictions of people appearing to say or do things they did not say or do without their consent, on state government, California-based businesses, and residents of the state.\n\nThis bill, the California AI Transparency Act, would, among other\nthings, require a covered provider, as defined, to make available an artificial intelligence (AI) detection tool at no cost to the user that meets certain criteria, including that the AI detection tool is publicly accessible. The bill would require a covered provider to offer the user an option to include a manifest disclosure in image, video, or audio content, or content that is any combination thereof, created or altered by the covered provider’s generative artificial intelligence (GenAI) system that, among other things, identifies content as AI-generated content and is clear, conspicuous, appropriate for the medium of the content, and understandable to a reasonable person. The bill would require a covered provider to include a latent disclosure in AI-generated image, video, audio content, or content that is any combination thereof, created by the covered provider’s GenAI system that, among other things, to the\nextent that it is technically feasible\nand reasonable conveys certain information, either directly or through a link to a permanent internet website, regarding the provenance of the content. The bill would require a covered provider that knows a third-party licensee modified a licensed GenAI system such that it is no longer capable of including the disclosures described above in content the system creates or alters to revoke the license within 96 hours of discovering the licensee’s action and would require a third-party licensee to cease using a licensed GenAI system after the license for the system has been revoked by the covered provider.\n\nThis bill would make a covered provider that violates these provisions liable for a civil penalty in the amount of $5,000 per violation to\nbe collected in a civil action filed by the Attorney General, a city attorney, or a county counsel, as prescribed. The bill would, for a violation by a third-party licensee of the requirement to cease using a licensed GenAI system after the license of the system has been revoked, authorize the Attorney General, a county counsel, or a city attorney to bring a civil action for injunctive relief and reasonable attorney’s fees and costs.\n\nThis bill would make its provisions operative on January 1, 2026."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Digest Key",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Vote:\nMAJORITY\nAppropriation:\nNO\nFiscal Committee:\nYES\nLocal Program:\nNO\n\n---"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Bill Text",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "The people of the State of California do enact as follows:",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "SECTION 1",
+    "section_name": "SECTION 1",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "Chapter 25 (commencing with Section 22757) is added to Division 8 of the Business and Professions Code, to read:"
+  },
+  {
+    "depth": 5,
+    "section_id": "CHAPTER  25",
+    "section_name": "AI Transparency Act",
+    "id_kind": "chapter",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 6,
+    "section_id": "22757",
+    "section_name": "22757",
+    "id_kind": "statute",
+    "parent_id": "CHAPTER  25",
+    "body": "This chapter shall be known as the California AI Transparency Act."
+  },
+  {
+    "depth": 7,
+    "section_id": "22757.1",
+    "section_name": "22757.1",
+    "id_kind": "statute",
+    "parent_id": "22757",
+    "body": "As used in this chapter:\n\n(a) “Artificial intelligence” or “AI” means an engineered or machine-based system that varies in its level of autonomy and that can, for explicit or implicit objectives, infer from the input it receives how to generate outputs that can influence physical or virtual environments.\n\n(b) “Covered provider” means a person that creates, codes, or otherwise produces a generative artificial intelligence system that has over 1,000,000 monthly visitors or users and is publicly accessible within the geographic boundaries of the state.\n\n(c) “Generative\nartificial intelligence system” or “GenAI system” means an artificial intelligence that can generate derived synthetic content, including text, images, video, and audio, that emulates the structure and characteristics of the system’s training data.\n\n(d) “Latent” means present but not manifest.\n\n(e) “Manifest” means easily perceived, understood, or recognized by a natural person.\n\n(f) “Metadata” means structural or descriptive information about data.\n\n(g) “Personal information” has the same meaning as defined in Section 1798.140 of the Civil Code.\n\n(h) “Personal provenance data” means provenance data\nthat contains either of the following:"
+  },
+  {
+    "depth": 3,
+    "section_id": "(1) (1)",
+    "section_name": "Personal information.",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "(2) Unique device, system, or service information that is reasonably capable of being associated with a particular user.\n\n(i) “Provenance data” means data that is embedded into digital content, or that is included in the digital content’s metadata, for the purpose of verifying the digital content’s authenticity, origin, or history of modification.\n\n(j) “System provenance data” means provenance data that is not reasonably capable of being associated with a particular user and that contains either of the following:"
+  },
+  {
+    "depth": 3,
+    "section_id": "(1) (2)",
+    "section_name": "Information",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "regarding the type of device, system, or service that was used to generate a piece of digital content."
+  },
+  {
+    "depth": 3,
+    "section_id": "(2) (1)",
+    "section_name": "Information related to content authenticity.",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 7,
+    "section_id": "22757.2",
+    "section_name": "22757.2",
+    "id_kind": "statute",
+    "parent_id": "22757",
+    "body": "(a) A covered provider shall make available an AI detection tool at no cost to the user that meets all of the following criteria:\n\n(1) The tool allows a user to assess whether image, video, or audio content, or content that is any combination thereof, was created or altered by the covered provider’s GenAI system.\n\n(2) The tool outputs any system provenance data that is detected in the content.\n\n(3) The tool does not output any personal provenance data that is\ndetected in the content.\n\n(4) (A) Subject to subparagraph (B), the tool is publicly accessible.\n\n(B) A covered provider may impose reasonable limitations on access to the tool to prevent, or respond to, demonstrable risks to the security or integrity of its GenAI system.\n\n(5) The tool allows a user to upload content or provide a uniform resource locator (URL) linking to online content."
+  },
+  {
+    "depth": 3,
+    "section_id": "(6)",
+    "section_name": "The tool",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "supports an application programming interface that allows a user to invoke the tool without visiting the covered provider’s internet website.\n\n(b) A covered provider shall collect user feedback related to the efficacy of the covered provider’s AI detection tool and incorporate relevant feedback into any attempt to improve the efficacy of the tool.\n\n(c) A covered provider shall not do any of the following:\n\n(1) (A) Except as provided in subparagraph (B), collect or retain personal information from users of the covered provider’s AI detection tool.\n\n(B) (i) A covered provider may collect and retain the contact information\nof a user who submits feedback pursuant to subdivision (b) if the user opts in to being contacted by the covered provider.\n\n(ii) User information collected pursuant to clause (i) shall be used only to evaluate and improve the efficacy of the covered provider’s AI detection tool.\n\n(2) Retain any content submitted to the AI detection tool for longer than is necessary to comply with this section.\n\n(3) Retain any personal provenance data from content submitted to the AI detection tool by a user."
+  },
+  {
+    "depth": 7,
+    "section_id": "22757.3",
+    "section_name": "22757.3",
+    "id_kind": "statute",
+    "parent_id": "22757",
+    "body": "(a) A covered provider shall offer the user the option to include a manifest disclosure in image, video, or audio content, or content that is any combination thereof, created or altered by the covered provider’s GenAI system that meets all of the following criteria:\n\n(1) The disclosure identifies content as AI-generated content.\n\n(2) The disclosure is clear, conspicuous, appropriate for the medium of the content, and understandable to a reasonable person.\n\n(3) The disclosure is permanent or extraordinarily difficult to remove, to the extent it is\ntechnically feasible.\n\n(b) A covered provider shall include a latent disclosure in AI-generated image, video, or audio content, or content that is any combination thereof, created by the covered provider’s GenAI system that meets all of the following criteria:\n\n(1) To the extent that it is technically feasible and reasonable, the disclosure conveys all of the following information, either directly or through a link to a permanent internet website:\n\n(A) The name of the covered provider.\n\n(B) The name and version number of the GenAI system that created or altered the content.\n\n(C) The time and date of the content’s creation or alteration.\n\n(D) A unique identifier.\n\n(2) The disclosure is detectable by the covered provider’s AI detection tool.\n\n(3) The disclosure is consistent with widely accepted industry standards.\n\n(4) The disclosure is permanent or extraordinarily difficult to remove, to the extent it is technically feasible.\n\n(c) (1) If a covered provider licenses its GenAI system to a third\nparty, the covered provider shall require by contract that the licensee maintain the system’s capability to include a disclosure required by subdivision (b) in content the system creates or alters.\n\n(2) If a covered provider knows that a third-party licensee modified a licensed GenAI system such that it is no longer capable of including a disclosure required by subdivision (b) in content the system creates or alters, the covered provider shall revoke the license within 96 hours of discovering the licensee’s action.\n\n(3) A third-party licensee shall cease using a licensed GenAI system after the license for the system has\nbeen revoked by the covered provider pursuant to paragraph (2)."
+  },
+  {
+    "depth": 7,
+    "section_id": "22757.4",
+    "section_name": "22757.4",
+    "id_kind": "statute",
+    "parent_id": "22757",
+    "body": "(a) (1) A covered provider that violates this chapter shall be liable for a civil penalty in the amount of five thousand dollars ($5,000) per violation to be collected in a civil action filed by the Attorney General, a city attorney, or a county counsel.\n\n(2) A prevailing plaintiff in an action brought pursuant to this subdivision shall be entitled to all reasonable attorney’s costs and fees.\n\n(b) Each day that a covered provider is in violation of this chapter shall be deemed a discrete violation.\n\n(c) For a violation by a\nthird-party licensee of paragraph (3) of subdivision (c) of Section 22757.3, the Attorney General, a county counsel, or a city attorney may bring a civil action for both of the following:"
+  },
+  {
+    "depth": 3,
+    "section_id": "(1) (3)",
+    "section_name": "Injunctive relief.",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "(2) (2)",
+    "section_name": "Reasonable attorney’s fees and costs.",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 7,
+    "section_id": "22757.5",
+    "section_name": "22757.5",
+    "id_kind": "statute",
+    "parent_id": "22757",
+    "body": "This chapter does not apply to any product, service, internet website, or application that provides exclusively non-user-generated video game, television, streaming, movie, or interactive experiences."
+  },
+  {
+    "depth": 7,
+    "section_id": "22757.6",
+    "section_name": "22757.6",
+    "id_kind": "statute",
+    "parent_id": "22757",
+    "body": "This chapter shall become operative on January 1, 2026."
+  }
+]

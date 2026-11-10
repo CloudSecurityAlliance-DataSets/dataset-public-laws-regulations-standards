@@ -1,0 +1,554 @@
+[
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "Decreto nº 12.880, de 18 de março de 2026 — Regulamenta a Lei nº 15.211, de 17 de setembro de 2025 (ECA Digital)",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "> |  |  |\n> | --- | --- |\n> |  | **Presidência da República  Casa Civil  Secretaria Especial para Assuntos Jurídicos** |\n>\n> **[DECRETO Nº 12.880, DE 18 DE MARÇO DE 2026](http://legislacao.planalto.gov.br/legisla/legislacao.nsf/Viw_Identificacao/DEC%2012.880-2026?OpenDocument)**\n\n|  |  |\n| --- | --- |\n|  | Regulamenta a Lei nº 15.211, de 17 de setembro de 2025, que dispõe sobre a proteção de crianças e adolescentes em ambientes digitais, e institui a Política Nacional de Promoção e Proteção dos Direitos da Criança e do Adolescente no Ambiente Digital. |\n\n**O\nPRESIDENTE DA REPÚBLICA**,\nno uso das atribuições que lhe conferem o art. 84, *caput*, incisos IV\ne VI, alínea “a”, da Constituição, e tendo em vista o disposto no art. 227\nda Constituição, nos art. 4º, art. 5º, art. 17, art. 18, art. 60, art. 71,\nart. 74, art. 75, art. 78, art. 79, art. 80 e art. 149 da Lei nº 8.069, de\n13 de julho de 1990, no art. 37 da Lei nº 8.078, de 11 de setembro de 1990,\nnos art. 15 a art. 17 da Lei nº 14.852, de 3 de maio de 2024, e no art. 37\nda Lei nº 15.211, de 17 de setembro de 2025,\n\n**DECRETA**:"
+  },
+  {
+    "depth": 3,
+    "section_id": "CAPÍTULO I",
+    "section_name": "DISPOSIÇÕES PRELIMINARES",
+    "id_kind": "chapter",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 1º",
+    "section_name": "Art. 1º",
+    "id_kind": "section_word",
+    "parent_id": "CAPÍTULO I",
+    "body": "Este Decreto:\n\nI -\nregulamenta a [Lei nº 15.211, de 17 de\nsetembro de 2025](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm), que dispõe sobre a proteção de crianças e adolescentes\nem ambientes digitais; e\n\nII - institui\na Política Nacional de Promoção e Proteção dos Direitos da Criança e do\nAdolescente no Ambiente Digital e autoriza a criação do Centro Nacional de\nTriagem de Notificações.\n\nParágrafo\núnico.  Competem à Agência Nacional de Proteção de Dados – ANPD a\nregulamentação e a fiscalização do disposto na\n[Lei nº 15.211, de 17 de setembro de 2025](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm),\nsem prejuízo do exercício das competências de outros órgãos e entidades\npúblicas integrantes do sistema de garantia de direitos da criança e do\nadolescente vítima ou testemunha de violência, previsto na\n[Lei nº 13.431, de 4 de\nabril de 2017](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_Ato2015-2018/2017/Lei/L13431.htm)."
+  },
+  {
+    "depth": 3,
+    "section_id": "CAPÍTULO II",
+    "section_name": "DAS",
+    "id_kind": "chapter",
+    "parent_id": "",
+    "body": "DEFINIÇÕES"
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 2º",
+    "section_name": "Art. 2º",
+    "id_kind": "section_word",
+    "parent_id": "CAPÍTULO II",
+    "body": "Para fins do disposto neste Decreto,\nconsidera-se:\n\nI - conteúdo,\nproduto ou serviço impróprio ou inadequado - aquele que possa apresentar\nrisco à privacidade, à segurança, ao desenvolvimento psicossocial, à saúde\nmental e física e ao bem-estar da criança e do adolescente, nos termos\nestabelecidos na classificação indicativa, quando aplicável;\n\nII -\nconteúdo, produto ou serviço proibido para crianças e adolescentes - aquele\ncujo acesso, cuja disponibilização, cuja aquisição ou cujo consumo seja\nexpressamente vedado para crianças e adolescentes por determinação legal\nespecífica;\n\nIII -\nconteúdo pornográfico - aquele cuja finalidade predominante seja a\nrepresentação de atos sexualmente explícitos ou a exibição de nudez com\nconotação ou finalidade sexual, observadas as especificações e as exceções\nprevistas no art. 16;\n\nIV - aferição\nde idade - termo geral referente aos procedimentos destinados a verificar,\nestimar ou inferir, direta ou indiretamente, a idade ou a faixa etária de um\nusuário, por meio de um conjunto de métodos, tecnologias e processos,\nincluídos análise documental, biométrica e de padrões de uso, e outros meios\ntecnicamente idôneos;\n\nV -\nverificação de idade - procedimento específico de aferição de idade de alto\ngrau de confiabilidade, nos termos estabelecidos pela ANPD, baseado na\nconferência da veracidade do atributo etário, com a finalidade de comprovar\na exatidão da idade declarada ou a faixa etária, mediante o emprego de\nmecanismos técnicos ou documentais;\n\nVI - sinal de\nidade - informação ou credencial indicativa que atesta a idade ou a faixa\netária de um usuário aos fornecedores de produtos ou serviços de tecnologia\nda informação direcionados a crianças e adolescentes ou de acesso provável\npor eles, sem revelar dados pessoais adicionais; e\n\nVII -\nautodeclaração de idade - método limitado à indicação da idade, da faixa\netária ou de outro dado pessoal fornecido pelo próprio usuário, sem\nevidências adicionais para confirmar a veracidade ou a titularidade da\ninformação."
+  },
+  {
+    "depth": 3,
+    "section_id": "CAPÍTULO III",
+    "section_name": "DA POLÍTICA",
+    "id_kind": "chapter",
+    "parent_id": "",
+    "body": "NACIONAL DE PROMOÇÃO E PROTEÇÃO DOS DIREITOS DA CRIANÇA E DO ADOLESCENTE NO\nAMBIENTE DIGITAL"
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 3º",
+    "section_name": "Art. 3º",
+    "id_kind": "section_word",
+    "parent_id": "CAPÍTULO III",
+    "body": "Fica instituída a Política Nacional de Promoção\ne Proteção dos Direitos da Criança e do Adolescente no Ambiente Digital, com\na finalidade de assegurar a formulação, a articulação e a coordenação de\nações no âmbito da administração pública federal e dos órgãos e das\nentidades públicas integrantes do sistema de garantia de direitos da criança\ne da adolescente vítima ou testemunha de violência, previsto na\n[Lei nº 13.431, de 4 de\nabril de 2017](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_Ato2015-2018/2017/Lei/L13431.htm)."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 4º",
+    "section_name": "Art. 4º",
+    "id_kind": "section_word",
+    "parent_id": "CAPÍTULO III",
+    "body": "São princípios da Política Nacional de Promoção\ne Proteção dos Direitos da Criança e do Adolescente no Ambiente Digital:\n\nI - a\ngarantia da proteção integral e a prioridade absoluta aos direitos de\ncrianças e adolescentes no ambiente digital;\n\nII - a\ngarantia do acesso, por crianças e adolescentes, a conteúdos e serviços\ncompatíveis com os seus direitos, o seu melhor interesse e a sua faixa\netária, em conformidade com o princípio da autonomia progressiva;\n\nIII - a\nproteção e a segurança contra todas as formas de violência, negligência,\ndiscriminação, intimidação, exploração, abuso ou ameaça;\n\nIV - a\nresponsabilidade compartilhada entre Poder Público, famílias, sociedade\ncivil e fornecedores de produtos ou serviços de tecnologia da informação na\ngarantia e na efetivação dos direitos de crianças e adolescentes no ambiente\ndigital;\n\nV - a\nproteção de crianças e adolescentes contra toda forma de exploração,\ninclusive de natureza comercial;\n\nVI - a\npromoção da educação digital e midiática, com foco no desenvolvimento da\ncidadania e do senso crítico para o uso seguro e responsável da tecnologia,\nnos termos do disposto na [Lei n º\n14.533, de 11 de janeiro de 2023;](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/Lei/L14533.htm)\n\nVII - o\nrespeito ao direito à privacidade e à proteção de dados pessoais de crianças\ne adolescentes, nos termos do disposto na\n[Lei nº 13.709, de 14 de\nagosto de 2018](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_Ato2015-2018/2018/Lei/L13709.htm), e na [Lei nº 15.211,\nde 17 de setembro de 2025;](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm)\n\nVIII - o\ndireito à participação de crianças e adolescentes nos processos decisórios\nque os afetem, nos termos do disposto no Artigo 12 da Convenção sobre os\nDireitos da Criança, promulgada pelo\n[Decreto nº 99.710, de 21 de\nnovembro de 1990](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/decreto/1990-1994/D99710.htm);\n\nIX - a\nredução das desigualdades estruturais nos ambientes digitais que impactem\ncrianças e adolescentes, mediante a consideração das dimensões\nétnico-racial, de deficiência, de gênero e orientação sexual,\nsocioeconômica, migratória e de refúgio, territorial e religiosa, com a\nprevisão de medidas específicas destinadas a crianças e adolescentes\nindígenas e pertencentes a povos e comunidades tradicionais, nos termos do\ndisposto no [art. 4º da Lei nº\n15.211, de 17 de setembro de 2025](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art4); e\n\nX - aqueles\nestabelecidos na [Lei nº\n13.146, de 6 de julho de 2015](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_Ato2015-2018/2015/Lei/L13146.htm)."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 5º",
+    "section_name": "Art. 5º",
+    "id_kind": "section_word",
+    "parent_id": "CAPÍTULO III",
+    "body": "São objetivos da Política Nacional de Promoção e\nProteção dos Direitos da Criança e do Adolescente no Ambiente Digital:\n\nI - promover\na articulação intersetorial e interfederativa para garantir a proteção\nintegral dos direitos de crianças e adolescentes como prioridade no ambiente\ndigital;\n\nII - buscar o\nfinanciamento para o desenvolvimento, desde a concepção, de soluções\ntécnicas destinadas à segurança, à aferição de idade e à supervisão parental\nem produtos e serviços direcionados a crianças e adolescentes ou de acesso\nprovável por eles;\n\nIII -\nelaborar orientações, recomendações, mecanismos e instrumentos de acesso\nseguro e saudável ao ambiente digital para crianças e adolescentes;\n\nIV - fomentar\na pesquisa científica e a inovação, com vistas à garantia dos direitos de\ncrianças e adolescentes no ambiente digital, mediante o estímulo ao\ndesenvolvimento de tecnologias nacionais livres e abertas;\n\nV - estimular\no desenvolvimento e a adoção, desde a concepção, de soluções de segurança e\nproteção integral de direitos em produtos e serviços de tecnologia de\ninformação direcionados a crianças e adolescentes ou de acesso provável por\neles;\n\nVI - promover\nações intersetoriais e interfederativas de educação digital e midiática, nos\ntermos do disposto na [Lei nº 14.533, de\n11 de janeiro de 2023](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/Lei/L14533.htm), e no [art. 4º da Lei nº 15.100, de 13 de janeiro de 2025;](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15100.htm#art4)\n\nVII -\nfortalecer os canais de denúncia de violência contra crianças e adolescentes\nno ambiente digital;\n\nVIII -\npromover a capacitação permanente dos agentes públicos, dos integrantes do\nsistema de garantia de direitos da criança e do adolescente vítima ou\ntestemunha de violência, previsto na\n[Lei nº 13.431, de 4 de\nabril de 2017](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_Ato2015-2018/2017/Lei/L13431.htm), e dos profissionais com atuação em direitos da criança e\ndo adolescente no ambiente digital;\n\nIX - orientar\nas famílias quanto à exigência de adoção de soluções de supervisão parental,\nnos termos do disposto nos [art.\n3º, parágrafo único](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art3p), [art. 17](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art17)\ne [art. 18 da Lei nº 15.211, de 17\nde setembro de 2025](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art18); e\n\nX - promover\na participação de crianças e adolescentes nas ações e nas decisões de\npromoção e proteção de direitos nos ambientes digitais que lhes digam\nrespeito."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 6º",
+    "section_name": "Art. 6º",
+    "id_kind": "section_word",
+    "parent_id": "CAPÍTULO III",
+    "body": "São instrumentos da Política Nacional de\nPromoção e Proteção dos Direitos da Criança e do Adolescente no Ambiente\nDigital:\n\nI - o plano\ntrienal, a ser elaborado pelo comitê intersetorial de que trata o art. 7º,\ncom ações para a consecução dos objetivos estabelecidos por este Decreto;\n\nII - a\natuação integrada com a Política Nacional de Prevenção e Combate ao Abuso e\nExploração Sexual da Criança e do Adolescente, de que trata a\n[Lei nº 14.811, de 12 de janeiro 2024](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/Lei/L14811.htm);\n\nIII - a\narticulação com a Política Nacional de Educação Digital, de que trata a\n[Lei nº 14.533, de 11 de janeiro de 2023](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/Lei/L14533.htm);\n\nIV - a\nEstratégia Brasileira de Educação Midiática; e\n\nV - a\npublicação e a atualização periódica de guias, recomendações e materiais\neducativos que promovam o uso seguro e saudável de dispositivos digitais."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 7º",
+    "section_name": "Art. 7º",
+    "id_kind": "section_word",
+    "parent_id": "CAPÍTULO III",
+    "body": "Ato da Ministra de Estado dos Direitos Humanos e\nda Cidadania instituirá comitê intersetorial, instância de caráter\npermanente, com a finalidade de coordenar, implementar, monitorar, avaliar e\nrevisar a Política Nacional de Promoção e Proteção dos Direitos da Criança e\ndo Adolescente no Ambiente Digital.\n\n§ 1º  O ato\nde que trata o *caput* disporá sobre a composição, as competências, a\nforma de funcionamento e os mecanismos de participação social do comitê\nintersetorial.\n\n§ 2º  A\nrepresentação dos seguintes órgãos e entidade será garantida na composição\ndo comitê de que trata o *caput*:\n\nI -\nMinistério da Justiça e Segurança Pública;\n\nII -\nMinistério da Saúde;\n\nIII -\nMinistério da Educação;\n\nIV -\nMinistério da Ciência, Tecnologia e Inovação;\n\nV -\nMinistério da Gestão e da Inovação em Serviços Públicos;\n\nVI -\nSecretaria de Comunicação Social da Presidência da República;\n\nVII - ANPD; e\n\nVIII -\nConselho Nacional dos Direitos da Criança e do Adolescente – Conanda."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 8º",
+    "section_name": "Art. 8º",
+    "id_kind": "section_word",
+    "parent_id": "CAPÍTULO III",
+    "body": "Para consecução dos objetivos estabelecidos na\n[Lei nº 15.211, de 17 de setembro de 2025](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm), o comitê intersetorial de que\ntrata o art. 7º poderá:\n\nI - em\nconjunto com a ANPD, articular-se com o Ministério Público, o Poder\nJudiciário, as organizações da sociedade civil; e\n\nII - em\ncoordenação com o Ministério das Relações Exteriores, articular-se com os\norganismos internacionais e as autoridades estrangeiras."
+  },
+  {
+    "depth": 3,
+    "section_id": "CAPÍTULO IV",
+    "section_name": "DA PREVENÇÃO",
+    "id_kind": "chapter",
+    "parent_id": "",
+    "body": "DO USO EXCESSIVO, PROBLEMÁTICO OU COMPULSIVO DE PRODUTOS E SERVIÇOS DE\nTECNOLOGIA DA INFORMAÇÃO POR CRIANÇAS E ADOLESCENTES"
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 9º",
+    "section_name": "Art. 9º",
+    "id_kind": "section_word",
+    "parent_id": "CAPÍTULO IV",
+    "body": "Os fornecedores de produtos ou serviços de\ntecnologia da informação direcionados a crianças e adolescentes ou de acesso\nprovável por eles deverão implementar mecanismos para evitar o seu uso\nexcessivo, problemático ou compulsivo, nos termos do disposto nos\n[art. 8º, *caput*, inciso IV](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art8-4),\n[art. 17, § 4º, inciso II,](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art17§4-2)\ne [art. 18, § 2º, da Lei nº 15.211,\nde 17 de setembro de 2025](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art18§2).\n\nParágrafo\núnico.  Para fins do disposto neste Decreto, consideram-se mecanismos de\nincentivo ao uso excessivo, problemático ou compulsivo:\n\nI - a\nocultação de pontos naturais de parada;\n\nII - o\nacionamento de novos conteúdos sem solicitação;\n\nIII - a\noferta de recompensas pelo tempo de uso; e\n\nIV - o\naparecimento de notificações excessivas."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 10",
+    "section_name": "Art. 10",
+    "id_kind": "section_word",
+    "parent_id": "CAPÍTULO IV",
+    "body": "A ANPD regulamentará os requisitos mínimos de\nsegurança por padrão e atuará para coibir a adoção de práticas\nmanipulativas, enganosas ou coercitivas em produtos ou serviços de\ntecnologia da informação direcionados a crianças e adolescentes ou de acesso\nprovável por eles, nos termos do disposto no\n[art. 18, § 2º, da Lei nº 15.211,\nde 17 de setembro de 2025](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art18§2).\n\nParágrafo\núnico.  Para fins do disposto neste Decreto, consideram-se práticas\nmanipulativas, enganosas ou coercitivas, em produtos ou serviços de\ntecnologia da informação direcionados a crianças e adolescentes ou de acesso\nprovável por eles, quaisquer arquiteturas de escolha, fluxos de interação ou\nfuncionalidades que tenham por objetivo ou efeito empregar táticas que\ninterfiram na autonomia decisória do usuário ou que explorem as suas\nvulnerabilidades, em particular as cognitivas e etárias, incluídas, entre\noutras, as práticas de:\n\nI -\nobstrução, ao dificultar ou impedir o fluxo de tarefas do usuário, de modo a\ndissuadi-lo de realizar determinada ação, inclusive a interrupção do uso, o\ncancelamento de serviços ou a modificação de preferências, por meio de\ncaminhos excessivamente complexos, confusos ou desproporcionais;\n\nII -\nexploração de vulnerabilidades cognitivas, ao utilizar pressões emocionais,\nurgências fabricadas, escolhas enviesadas, inferências emocionais ou\nestímulos inadequados à idade para induzir decisões contrárias ao melhor\ninteresse da criança ou do adolescente; ou\n\nIII -\nprejuízo ao exercício de direitos, ao ocultar, fragmentar ou dificultar o\nacesso a controles de privacidade, supervisão parental, consentimento ou\nrevogação de permissões."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 11",
+    "section_name": "Art. 11",
+    "id_kind": "section_word",
+    "parent_id": "CAPÍTULO IV",
+    "body": "Os fornecedores de produtos ou serviços de\ntecnologia da informação direcionados a crianças e adolescentes ou de acesso\nprovável por eles capazes de geração de conteúdo e interação com usuários a\npartir de instruções em linguagem natural, incluídos modelos de linguagem,\nagentes conversacionais e interfaces similares, deverão, na consecução do\nmelhor interesse da criança e do adolescente:\n\nI - ser\ntransparentes na interação de crianças e adolescentes quanto a seu caráter\nsintético e automatizado;\n\nII - prevenir\na manipulação comportamental de crianças e adolescentes;\n\nIII - avaliar\no risco algorítmico à segurança e à saúde de crianças e adolescentes; e\n\nIV -\nimplementar salvaguardas à proteção do desenvolvimento físico, mental e\npsicossocial de crianças e adolescentes.\n\nParágrafo\núnico.  A ANPD regulamentará e fiscalizará o disposto neste artigo."
+  },
+  {
+    "depth": 3,
+    "section_id": "CAPÍTULO V",
+    "section_name": "DA POLÍTICA",
+    "id_kind": "chapter",
+    "parent_id": "",
+    "body": "DE CLASSIFICAÇÃO INDICATIVA DE JOGOS ELETRÔNICOS E APLICATIVOS DIGITAIS"
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 12",
+    "section_name": "Art. 12",
+    "id_kind": "section_word",
+    "parent_id": "CAPÍTULO V",
+    "body": "Crianças e adolescentes têm direito de acesso\na produtos, serviços e experiências digitais adequados à sua faixa etária,\nnos termos do disposto no [art. 75 da\nLei nº 8.069, de 13 de julho de 1990](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/LEIS/L8069.htm#art75), nos\n[art. 3º](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/Lei/L14852.htm#art3) e\n[art. 10 da Lei nº 14.852, de 3 de\nmaio de 2024](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/Lei/L14852.htm#art10), e nos [art. 8º](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art8)\ne [art. 10 da Lei nº 15.211, de 17\nde setembro de 2025.](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art10)\n\n§ 1º  A\npolítica de classificação indicativa, de competência do Ministério da\nJustiça e Segurança Pública, considerará os riscos relacionados ao conteúdo,\nà privacidade, à segurança e à saúde mental e física de crianças e\nadolescentes em ambientes digitais.\n\n§ 2º  A\nclassificação indicativa de jogos eletrônicos e de aplicativos disponíveis\nem lojas digitais informará a faixa etária adequada em decorrência da\npresença de conteúdos impróprios, inadequados ou proibidos a cada faixa\netária e os riscos relativos a:\n\nI -\nfuncionalidades que possibilitem a interação entre usuários por meio de\nmensagens de texto, áudio, vídeo ou troca de conteúdos, de forma síncrona ou\nassíncrona;\n\nII - caixas\nde recompensa (*loot boxes*), vedadas em jogos eletrônicos direcionados\na crianças e adolescentes ou de acesso provável por eles, nos termos do\ndisposto no [art. 20 da Lei nº\n15.211, de 17 de setembro de 2025](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art20);\n\nIII -\nestímulo ao uso problemático ou excessivo, especialmente por meio de\nfuncionalidades que induzam ao engajamento compulsivo;\n\nIV -\nmicrotransações;\n\nV - práticas\nmanipulativas que explorem vieses cognitivos ou vulnerabilidades do usuário,\nnos termos do disposto no art. 10; e\n\nVI - impactos\nà segurança e à saúde de crianças e adolescentes.\n\n§ 3º  A faixa\netária de que trata o § 2º será apresentada de forma clara, padronizada e de\nfácil identificação, nos termos estabelecidos em ato do Ministro de Estado\nda Justiça e Segurança Pública.\n\n§ 4º  Os\ntermos de uso dos fornecedores de produtos ou serviços de tecnologia da\ninformação direcionados a crianças e adolescentes ou de acesso provável por\neles informarão, em língua portuguesa e de forma acessível, a classificação\nindicativa atribuída, nos termos do disposto no\n[art. 8º, caput, inciso V, da Lei\nnº 15.211, de 17 de setembro de 2025.](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art8-5)"
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 13",
+    "section_name": "Art. 13",
+    "id_kind": "section_word",
+    "parent_id": "CAPÍTULO V",
+    "body": "Ato do Ministro de Estado da Justiça e\nSegurança Pública disporá sobre a composição, as competências e o\nfuncionamento do Comitê de Acompanhamento pela Sociedade Civil para a\nClassificação Indicativa, de modo a viabilizar e ampliar a participação\nsocial na política de classificação indicativa, observado o disposto no\n[Capítulo VI do Decreto nº\n12.002, de 22 de abril de 2024](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/Decreto/D12002.htm#capitulo6)."
+  },
+  {
+    "depth": 3,
+    "section_id": "CAPÍTULO VI",
+    "section_name": "DA VEDAÇÃO AO",
+    "id_kind": "chapter",
+    "parent_id": "",
+    "body": "ACESSO DE CRIANÇAS E ADOLESCENTES A CONTEÚDO, PRODUTO OU SERVIÇO IMPRÓPRIO,\nINADEQUADO OU PROIBIDO POR LEI"
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 14",
+    "section_name": "Art. 14",
+    "id_kind": "section_word",
+    "parent_id": "CAPÍTULO VI",
+    "body": "A disponibilização de conteúdo, produto ou\nserviço impróprio ou inadequado a crianças e adolescentes, nos termos do\ndisposto no [art. 9º da Lei nº\n15.211, de 17 de setembro de 2025](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art9), ficará condicionada, cumulativamente,\nà:\n\nI -\nobservância à política de classificação indicativa, quando aplicável;\n\nII - adoção\nde medidas técnicas e organizacionais de segurança por padrão, desde a\nconcepção, proporcionais aos riscos identificados para faixa etária; e\n\nIII -\ndisponibilização de ferramentas efetivas de supervisão parental, com\nfuncionalidades de bloqueio configuráveis pelos responsáveis legais e demais\nmétodos que visem a proporcionar segurança digital a crianças e\nadolescentes, nos termos do disposto nos\n[art. 17](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art17) e\n[art. 18 da Lei nº 15.211, de 17 de\nsetembro de 2025.](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art18)\n\nParágrafo\núnico.  A ANPD poderá determinar a adoção de medidas de proteção adicionais\npara conteúdos, serviços ou produtos impróprios e inadequados para crianças\ne adolescentes, quando identificar riscos relevantes à privacidade, à\nsegurança, ao desenvolvimento psicossocial, à saúde mental e física e ao\nbem-estar, respeitados o melhor interesse e a autonomia progressiva da\ncriança e do adolescente."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 15",
+    "section_name": "Art. 15",
+    "id_kind": "section_word",
+    "parent_id": "CAPÍTULO VI",
+    "body": "O fornecedor de produtos ou serviços de\ntecnologia da informação que disponibilize conteúdo, produto ou serviço\nproibido para crianças e adolescentes, nos termos do disposto nos\n[art. 9º a art. 15 da Lei nº 15.211,\nde 17 de setembro de 2025](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art9), deverá:\n\nI -\nimplementar mecanismos eficazes de verificação de idade; e\n\nII - impedir\nefetivamente o acesso, a fruição ou o consumo por crianças e adolescentes.\n\n§ 1º  Para\nfins do disposto no *caput*, consideram-se conteúdos, produtos e\nserviços proibidos para crianças e adolescentes:\n\nI - armas,\nmunições e explosivos, nos termos do disposto no\n[art. 81, *caput*, inciso I, da\nLei nº 8.069, de 13 de julho de 1990](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/LEIS/L8069.htm#art81i), e no\n[art. 16, § 1º, inciso V,\nda Lei nº 10.826, de 22 de dezembro de 2003](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/LEIS/2003/L10.826.htm#art16§1v);\n\nII - bebidas\nalcoólicas, nos termos do disposto nos\n[art. 81, *caput*, inciso II](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/LEIS/L8069.htm#art81ii),\ne [art. 243 da Lei nº 8.069, de 13\nde julho de 1990](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/LEIS/L8069.htm#art243), e no [art.\n6º, *caput*, inciso IV, da Lei nº 15.211, de 17 de setembro de 2025](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art6-4);\n\nIII - produto\nfumígeno, derivado ou não do tabaco, incluídos dispositivos eletrônicos para\nfumar (DEF), nos termos do disposto no\n[art. 81, *caput*, inciso\nIII, da Lei nº 8.069, de 13 de julho de 1990](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/LEIS/L8069.htm#art81iii), e no\n[art. 3º-A da Lei nº\n9.294, de 15 de julho de 1996;](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/LEIS/L9294.htm#art3a)\n\nIV - produtos\ncujos componentes possam causar dependência física ou psíquica, ainda que\npor utilização indevida, nos termos do disposto no\n[art. 81, *caput*,\ninciso III, da Lei nº 8.069, de 13 de julho de 1990;](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/LEIS/L8069.htm#art81iii)\n\nV - fogos de\nestampido e de artifício, exceto aqueles que, pelo seu reduzido potencial,\nsejam incapazes de provocar qualquer dano físico em caso de utilização\nindevida, nos termos do disposto nos\n[art. 81, *caput*, inciso IV](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/LEIS/L8069.htm#art81iv), e\n[art. 244 da Lei nº 8.069, de 13 de julho de 1990;](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/LEIS/L8069.htm#art244)\n\nVI - jogos de\nazar, apostas, loterias e equivalentes, nos termos do disposto nos\n[art. 80](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/LEIS/L8069.htm#art80) e\n[art. 81, *caput*, inciso VI, da Lei nº 8.069, de 13 de julho 1990](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/LEIS/L8069.htm#art81vi), e no\n[art. 26, *caput*, inciso I, da Lei nº 14.790, de 29 de dezembro de\n2023](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/Lei/L14790.htm#art26-1);\n\nVII - caixas\nde recompensa (*loot boxes*)*,* nos termos do disposto no\n[art. 20\nda Lei nº 15.211, de 17 de setembro de 2025](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art20);\n\nVIII -\nconteúdo pornográfico, nos termos do disposto nos\n[art. 78](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/LEIS/L8069.htm#art78), [art. 81,\n*caput*,\ninciso V](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art6-4), e [art. 241-E da Lei nº 8.069, de 13 de julho de 1990](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/LEIS/L8069.htm#art241e), e nos\n[art.\n6º, *caput*, inciso VI](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art6-6), e\n[art. 9º, § 2º, da Lei nº 15.211, de 17 de\nsetembro de 2025;](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art9§2)\n\nIX - serviços\nde acompanhantes, nos termos do disposto nos\n[art. 218-B, *caput*,](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/Decreto-Lei/Del2848.htm#art218b) e\n[art. 228 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/Decreto-Lei/Del2848.htm#art228) – Código Penal, e\nnos [art. 78](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/LEIS/L8069.htm#art78), [art. 81,\n*capu*t, inciso V](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art6-4), e [art. 244-A da Lei nº 8.069,\nde 13 de julho de 1990;](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/LEIS/L8069.htm#art244a)\n\nX - serviços\nou aplicações com finalidade precípua de marcar encontros ou iniciar\nrelacionamentos de cunho sexual, nos termos do disposto no\n[art. 218-B, § 2º,\ninciso I, do Decreto-Lei nº 2.848, de 7 de dezembro de 1940](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/Decreto-Lei/Del2848.htm#art218b§2i) – Código Penal,\ne no [art. 4º, *caput*, inciso III, da Lei nº 13.431, de 4 de abril de\n2017](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_Ato2015-2018/2017/Lei/L13431.htm#art4iii); e\n\nXI -\nquaisquer outros produtos ou serviços que tenham vedação legal ou que venham\na ser considerados por lei como vedados ou proibidos para crianças e\nadolescentes.\n\n§ 2º  O\nfornecedor do conteúdo, do produto ou do serviço a que se referem os incisos\nVI a X do § 1º deverá:\n\nI - vedar a\ncriação de contas e perfis por crianças e adolescentes; e\n\nII -\nidentificar e remover contas operadas por crianças e adolescentes.\n\n§ 3º  O\nfornecedor de produtos ou serviços de tecnologia da informação que oferte os\nprodutos a que se refere o inciso I do § 1º deverá observar o disposto nos\n[art. 26](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/LEIS/2003/L10.826.htm#art26) e\n[art. 28 da Lei nº 10.826, de 22 de dezembro de 2003](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/LEIS/2003/L10.826.htm#art28), vedada a\ncomercialização de brinquedos, réplicas e simulacros de armas de fogo, que\ncom estas se possam confundir."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 16",
+    "section_name": "Art. 16",
+    "id_kind": "section_word",
+    "parent_id": "CAPÍTULO VI",
+    "body": "A caracterização de conteúdo como\npornográfico, para fins do disposto no art. 15, § 1º, inciso VIII,\nconsiderará a finalidade, a funcionalidade ou o modelo de negócio que\nenvolva a disponibilização de vídeo ou imagem sexualmente explícito ou a\nexibição de nudez com conotação ou finalidade sexual.\n\n§ 1º  Os\nfornecedores de produtos ou serviços de tecnologia da informação que\ndisponibilizem conteúdo pornográfico próprio ou de terceiros deverão adotar\nmecanismos próprios de verificação de idade que assegurem que não haja\nacesso por crianças e adolescentes, ainda que em forma de prévias, imagens,\ntítulos ou legendas.\n\n§ 2º  Com o\nintuito de assegurar a liberdade de expressão e impedir a censura, nos\ntermos do disposto no\n[art. 220, § 2º, da Constituição](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/Constituicao/Constituicao.htm#220§2), e no\n[art. 37,\nparágrafo único, da Lei nº 15.211, de 17 de setembro de 2025](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art37p), não se\nenquadra como pornográfico o conteúdo inserido em contexto de:\n\nI - obra\naudiovisual que possua contexto educativo, artístico, informativo ou\njornalístico e, caso se submeta à classificação indicativa, que cumpra todas\nas obrigações aplicáveis ao segmento e que\n⁠disponibilize\nmecanismos de restrição por faixa etária e de supervisão parental;\n\nII - educação\npara promoção da saúde, inclusive mental, ou para prevenção de violência,\nnos termos do disposto nos [art. 4º, *caput*, incisos III e IV](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art4-3), e\n[art.\n5º, § 2º, da Lei nº 15.211, de 17 de setembro de 2025;](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art5§2)\n\nIII - livro\nou audiolivro que tenha contexto educativo, artístico ou informativo, sem\nimagens ou vídeos; e\n\nIV -\nreprodução de música ou de conteúdo em áudio.\n\n§ 3º  Sem\nprejuízo da avaliação dos próprios fornecedores de produtos ou serviços de\ntecnologia da informação sobre o seu enquadramento como conteúdo\npornográfico, a ANPD poderá, no âmbito de suas competências, a qualquer\ntempo, determinar enquadramento diverso com fundamento na natureza\npreponderante ou nos efeitos práticos do produto ou do serviço.\n\n§ 4º\n Equipara-se a conteúdo pornográfico a interação com sistemas que permitam\ndiálogos, produção ou troca de vídeos e imagens, de forma artificial ou\nautomatizada, de teor sexualmente explícito, de nudez com conotação ou\nfinalidade sexual ou em contexto erótico."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 17",
+    "section_name": "Art. 17",
+    "id_kind": "section_word",
+    "parent_id": "CAPÍTULO VI",
+    "body": "O fornecedor de produtos ou serviços de\ntecnologia da informação que permita a visualização de imagens ou vídeos de\nconteúdo pornográfico deverá, quando o usuário não estiver cadastrado,\nquando a idade não for verificada ou quando a conta for operada por criança\nou adolescente:\n\nI - ocultar,\ndesfocar ou não exibir, por padrão, conteúdo pornográfico; ou\n\nII - exigir\nverificação de idade para desbloqueio, vedada a mera autodeclaração."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 18",
+    "section_name": "Art. 18",
+    "id_kind": "section_word",
+    "parent_id": "CAPÍTULO VI",
+    "body": "O fornecedor que oferte ou intermedeie a\ncompra e a venda de produtos e serviços proibidos para crianças e\nadolescentes a que se refere o art. 15, § 1º, incisos I a VII, deverá\nimplementar mecanismos efetivos de verificação de idade, nos termos\nestabelecidos pela ANPD:\n\nI - no ato de\ncadastro dos usuários, com bloqueio da aquisição dos produtos e dos\nserviços, por padrão, por usuários crianças ou adolescentes, vedado o\ndesbloqueio por autodeclaração; ou\n\nII - na\naquisição dos produtos e dos serviços, de modo a impedir a conclusão da\noperação por crianças e adolescentes.\n\nParágrafo\núnico.  Na hipótese de usuário não cadastrado ou autenticado, aplica-se o\nbloqueio por padrão previsto no inciso II do *caput*."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 19",
+    "section_name": "Art. 19",
+    "id_kind": "section_word",
+    "parent_id": "CAPÍTULO VI",
+    "body": "O serviço de rede social deverá, caso\ndisponibilize conteúdo, produto ou serviço proibido para crianças e\nadolescentes:\n\nI - criar\nversões sem esse conteúdo, produto ou serviço ou publicidade relacionada a\ntais conteúdos, produtos ou serviços, hipótese em que fica dispensada a\nverificação de idade; ou\n\nII - adotar\nmecanismos efetivos de verificação de idade, nos termos estabelecidos pela\nANPD, vedada a autodeclaração.\n\n§ 1º  O\ndisposto no inciso I do *caput* aplica-se ao usuário não cadastrado ou\nnão autenticado.\n\n§ 2º  Sem\nprejuízo da avaliação dos próprios fornecedores de produtos ou serviços de\ntecnologia da informação sobre o seu enquadramento como rede social, nos\ntermos do disposto no [art. 2º, *caput*, inciso III, da Lei nº 15.211,\nde 17 de setembro de 2025](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art2-3), a ANPD poderá, no âmbito de suas competências, a\nqualquer tempo, determinar enquadramento diverso."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 20",
+    "section_name": "Art. 20",
+    "id_kind": "section_word",
+    "parent_id": "CAPÍTULO VI",
+    "body": "O Ministério da Gestão e da Inovação em\nServiços Públicos poderá:\n\nI -\ndisponibilizar solução tecnológica para confirmar a vinculação de crianças e\nadolescentes a responsáveis legais; e\n\nII - dispor\nsobre a implementação e o uso da solução de que trata o inciso I."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 21",
+    "section_name": "Art. 21",
+    "id_kind": "section_word",
+    "parent_id": "CAPÍTULO VI",
+    "body": "As lojas de aplicações de internet e os\nsistemas operacionais deverão impedir a disponibilização de produtos ou\nserviços que promovam, ofertem ou viabilizem o acesso a loterias de toda\nmodalidade, inclusive apostas de quota fixa, não autorizadas pelos órgãos\ncompetentes, e aquelas que não apresentem soluções de verificação de idade,\nnos termos do disposto no [art. 14 da Lei nº 8.078, de 13 de julho de 1990](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/LEIS/L8078.htm#art14),\nnos [art. 6º, *caput*, inciso IV](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art6-4),\n[art. 9º](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art9),\n[art. 12 e art. 15 da Lei nº\n15.211, de 17 de setembro de 2025](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art12), e nos\n[art. 4º](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/Lei/L14790.htm#art4) e\n[art. 26, *capu*t,\ninciso I, da Lei nº 14.790, de 29 de dezembro de 2023.](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/Lei/L14790.htm#art26-1)"
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 22",
+    "section_name": "Art. 22",
+    "id_kind": "section_word",
+    "parent_id": "CAPÍTULO VI",
+    "body": "Os provedores dos serviços com controle\neditorial, de conteúdos protegidos por direitos autorais, previamente\nlicenciados de agente econômico responsável que não se confunda com usuário\nfinal, e de conteúdo musical ou literário, nos termos do disposto nos\n[art.\n37, parágrafo único](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art37p), e [art. 39, § 1º, da Lei nº 15.211, de 17 de setembro de\n2025](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art39§1), ficam dispensados de adotar aferição de idade, desde que:\n\nI -\ndisponibilizem contas ou perfis infantis, com conteúdo adequado à faixa\netária da criança ou do adolescente, nos termos estabelecidos na\nclassificação indicativa, quando aplicável; e\n\nII -\nimplementem supervisão parental, sistemas de bloqueio ou restrição de acesso\npor crianças e adolescentes a conteúdos, respeitadas a autonomia progressiva\ne a classificação indicativa, quando aplicável.\n\nParágrafo\núnico.  Os provedores de conteúdos jornalísticos e esportivos não sujeitos à\nclassificação indicativa e submetidos a controle editorial ficam dispensados\nde aferição de idade."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 23",
+    "section_name": "Art. 23",
+    "id_kind": "section_word",
+    "parent_id": "CAPÍTULO VI",
+    "body": "Fornecedores de jogos eletrônicos com caixas\nde recompensa (*loot* *boxes*) deverão realizar a verificação de\nidade dos usuários, nos termos do disposto no\n[art. 20 da Lei nº 15.211, de\n17 de setembro de 2025](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art20), de modo a impedir o acesso a essa funcionalidade por\ncrianças e adolescentes.\n\n§ 1º  Os\njogos eletrônicos referidos no *caput* poderão oferecer versões\ndesprovidas de caixas de recompensa (*loot* *boxes*) ou restringir\ntotalmente por padrão o acesso à funcionalidade de caixas de recompensa (*loot\nboxes*), hipótese em que será dispensada a verificação de idade.\n\n§ 2º  A ANPD\nfiscalizará o cumprimento do disposto nos\n[art. 16](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/Lei/L14852.htm#art16) e\n[art. 17 da Lei nº\n14.852, de 3 de maio de 2024](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/Lei/L14852.htm#art17), em observância às disposições dos\n[art. 5º](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art5) e\n[art. 6º da Lei nº 15.211, de 17 de setembro de 2025.](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art6)"
+  },
+  {
+    "depth": 3,
+    "section_id": "CAPÍTULO VII",
+    "section_name": "DOS",
+    "id_kind": "chapter",
+    "parent_id": "",
+    "body": "MECANISMOS DE AFERIÇÃO DE IDADE"
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 24",
+    "section_name": "Art. 24",
+    "id_kind": "section_word",
+    "parent_id": "CAPÍTULO VII",
+    "body": "A adoção dos mecanismos para aferição de idade\nreferidos no [Capítulo IV da Lei nº 15.211, de 17 de setembro de 2025](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#capitulo4),\nobservará:\n\nI - a\nproporcionalidade entre a solução adotada e o nível de risco associado ao\nserviço;\n\nII - a\nacurácia, a robustez e a confiabilidade;\n\nIII - a\nvedação de uso, para finalidade diversa, de dados coletados para fins de\naferição de idade, nos termos do disposto no\n[art. 13 da Lei nº 15.211, de 17\nde setembro de 2025;](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art13)\n\nIV - a\nminimização de dados, entendida como a restrição do tratamento de dados\npessoais ao mínimo necessário para fins de aferição de idade;\n\nV - a\nproteção da privacidade dos usuários;\n\nVI - a\nvedação ao compartilhamento contínuo, automatizado e irrestrito de dados\npessoais;\n\nVII - a\nsegurança dos dados coletados;\n\nVIII - a\nvedação à rastreabilidade da identidade e do histórico de acessos,\nsolicitações e verificações realizadas pelos cidadãos;\n\nIX - a\ninteroperabilidade entre sistemas e soluções públicas e privadas;\n\nX - a\ninclusão e a não discriminação; e\n\nXI - a\ntransparência e a auditabilidade.\n\n§ 1º  A\nvedação prevista no inciso III do *caput* inclui o tratamento dos dados\npessoais para a criação de perfis comportamentais, nos termos do disposto\nnos [art. 22](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art22) e\n[art. 26 da Lei nº 15.211, de 17 de setembro de 2](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art26)025.\n\n§ 2º  A ANPD\nregulamentará os requisitos mínimos de transparência, de segurança e de\ninteroperabilidade da aferição de idade, nos termos do disposto no\n[art. 12,\n§ 3º, da Lei nº 15.211, de 17 de setembro de 2025.](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art12§3)\n\n§ 3º  O\ntratamento de dados decorrente da coleta de documentos deverá limitar-se ao\ndado relativo à idade ou à confirmação da faixa etária, vedado o\narmazenamento, a retenção ou qualquer forma de conservação da imagem, da\ncópia do documento ou da informação, que deverá ser eliminada de modo\nimediato e irreversível após a captura da informação necessária, nos termos\ndo disposto na [Lei nº 13.709, de 14 de agosto de 2018.](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_Ato2015-2018/2018/Lei/L13709.htm)"
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 25",
+    "section_name": "Art. 25",
+    "id_kind": "section_word",
+    "parent_id": "CAPÍTULO VII",
+    "body": "As lojas de aplicações de internet e os\nsistemas operacionais deverão fornecer sinais de idade de usuários aos\nfornecedores de produtos ou serviços de tecnologia da informação,\ngratuitamente, nos termos do disposto no\n[art. 12, *caput*, inciso III,\nda Lei nº 15.211, de 17 de setembro de 2025](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art12-3), sem prejuízo de mecanismos\npróprios que estes últimos venham a adotar.\n\n§ 1º  Os\nsinais de idade de que trata o *caput* ficarão limitados aos dados\nestritamente necessários à confirmação da idade mínima exigida para acesso\nao produto ou ao serviço de tecnologia da informação, vedado o envio de data\nde nascimento exata, da identidade civil ou de dados de perfilamento do\nusuário.\n\n§ 2º  Para\ncumprimento do disposto no *caput*, as lojas de aplicações de internet\ne os sistemas operacionais de terminais deverão:\n\nI - solicitar\naos titulares a declaração da idade ou da faixa etária ao criar a conta;\n\nII - aferir a\nidade, mediante emprego de método confiável, nos termos estabelecidos pela\nANPD, preferencialmente com a adoção de credenciais veriﬁcáveis, nos termos\ndo disposto no [art. 11 da Lei nº 15.211, de 17 de setembro de 2025;](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art11)\n\nIII -\npermitir a contestação e a retificação da classificação etária mediante\napresentação de evidência adicional, com decisão fundamentada em prazo\nrazoável; e\n\nIV - adotar\nmedidas para evitar a criação de múltiplas contas ou outros artifícios com o\nobjetivo de burlar os mecanismos de aferição de idade.\n\n§ 3º  As\nlojas de aplicações de internet e os sistemas operacionais deverão solicitar\nautorização dos responsáveis legais para *download* e instalação de\naplicativos por crianças e adolescentes e informá-los quanto à classificação\nindicativa atribuída aos aplicativos antes da sua autorização, nos termos do\ndisposto no [art. 12, § 2º, da Lei nº 15.211, de 17 de setembro de 2025](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art12§2),\nrespeitada a autonomia progressiva.\n\n§ 4º  Caso a\ninformação da aferição de idade realizada pelo fornecedor de produtos ou\nserviços de tecnologia da informação divirja do sinal de idade enviado pela\nloja de aplicativo ou pelo sistema operacional, o fornecedor deverá adotar\nas medidas correspondentes à alternativa mais protetiva a crianças e\nadolescentes."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 26",
+    "section_name": "Art. 26",
+    "id_kind": "section_word",
+    "parent_id": "CAPÍTULO VII",
+    "body": "Os fornecedores de produtos ou serviços de\ntecnologia da informação direcionados a crianças e adolescentes ou de acesso\nprovável por eles que disponibilizem conteúdo, produto ou serviço cuja\noferta ou cujo acesso seja impróprio, inadequado ou proibido para crianças e\nadolescentes, nos termos do disposto no Capítulo VI deste Decreto, deverão\nreceber os sinais de idade referidos no\n[art. 12, *caput*, inciso III,\nda Lei nº 15.211, de 17 de setembro de 2025](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art12-3), e no art. 25 deste Decreto.\n\n§ 1º  Após o\nrecebimento de sinais de idade, caberá ao fornecedor adequar a experiência\ndo produto ou do serviço de tecnologia da informação ao disposto na\n[Lei nº\n15.211, de 17 de setembro de 2025.](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm)\n\n§ 2º  Os\nfornecedores de produtos ou serviços de tecnologia da informação acessíveis\npor meio de sistemas de navegação na internet deverão aferir a idade e\npoderão utilizar sinais de idade disponibilizados pelo sistema operacional,\npela loja de aplicação ou por outro fornecedor de serviços digitais para\ncumprimento da obrigação prevista no *caput*.\n\n§ 3º  O\nrecebimento de sinais de idade não isentará a responsabilidade do fornecedor\nde produtos ou serviços de tecnologia da informação pela efetividade da\nadequação etária e das medidas de proteção adotadas."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 27",
+    "section_name": "Art. 27",
+    "id_kind": "section_word",
+    "parent_id": "CAPÍTULO VII",
+    "body": "O fornecedor de produtos ou serviços de\ntecnologia da informação que afira ou verifique a idade deverá possibilitar\nao usuário meio adequado para contestar a idade ou a faixa etária aferida ou\nverificada."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 28",
+    "section_name": "Art. 28",
+    "id_kind": "section_word",
+    "parent_id": "CAPÍTULO VII",
+    "body": "Sem prejuízo da oferta de soluções\ntecnológicas privadas, o Ministério da Gestão e da Inovação em Serviços\nPúblicos poderá disponibilizar soluções tecnológicas públicas para\nverificação de idade, nos termos do disposto no\n[art. 11 da Lei nº 15.211, de\n17 de setembro de 2025.](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art11)\n\nParágrafo\núnico.  As soluções tecnológicas públicas de que trata o *caput* serão\ndisponibilizadas gratuitamente aos cidadãos."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 29",
+    "section_name": "Art. 29",
+    "id_kind": "section_word",
+    "parent_id": "CAPÍTULO VII",
+    "body": "A ANPD poderá determinar que fornecedores de\nprodutos ou serviços de tecnologia da informação adotem medidas técnicas\nadicionais para impedir ou dificultar mecanismos tecnológicos que visem a\ncontornar ou burlar a aplicação do disposto neste Capítulo e no Capítulo VI.\n\nParágrafo\núnico.  A determinação prevista no *caput* observará o disposto no\n[art.\n34, § 1º](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art34§1) e [§ 2º, da Lei nº 15.211, de 17 de setembro de 2025](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art34§1), e o estado\natual da tecnologia, as funcionalidades do produto ou do serviço e a\ngravidade e a probabilidade de seus impactos sobre os direitos de crianças e\nadolescentes."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 30",
+    "section_name": "Art. 30",
+    "id_kind": "section_word",
+    "parent_id": "CAPÍTULO VII",
+    "body": "A ANPD disciplinará o processo de certificação\nde soluções técnicas de aferição de idade, nos termos do disposto no\n[art. 11\nda Lei nº 15.211, de 17 de setembro de 2025](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art11), e poderá fazê-lo diretamente ou\npor meio do reconhecimento de entidades acreditadoras."
+  },
+  {
+    "depth": 2,
+    "section_id": "CAPÍTULO VIII",
+    "section_name": "CAPÍTULO VIII",
+    "id_kind": "chapter",
+    "parent_id": "",
+    "body": "DA\nPUBLICIDADE NO AMBIENTE DIGITAL"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Seção I",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "**Das\nvedações à publicidade**"
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 31",
+    "section_name": "Art. 31",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "É considerada abusiva, nos termos do disposto\nno [art. 37, § 2º, da Lei nº 8.078, de 11 de setembro de 1990](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/LEIS/L8078.htm#art37§2), toda\npublicidade que se aproveite da deficiência de julgamento e experiência da\ncriança em produtos e serviços de tecnologia da informação."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 32",
+    "section_name": "Art. 32",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "A ANPD regulamentará as formas e os requisitos\nmínimos para fornecedores de produtos ou serviços de tecnologia da\ninformação prevenirem e mitigarem o acesso, a exposição, a recomendação ou a\nfacilitação de contato de crianças e adolescentes com promoção ou\ncomercialização de jogos de azar, apostas de quota fixa, loterias, produtos\nde tabaco, bebidas alcoólicas, narcóticos e demais produtos e serviços de\ncomercialização proibidos para crianças e adolescentes, nos termos do\ndisposto no [art. 6º, *caput*, inciso IV, da Lei nº 15.211, de 17 de\nsetembro de 2025](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art6-4), e no art. 15, § 1º, deste Decreto."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 33",
+    "section_name": "Art. 33",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "Os fornecedores de produtos ou serviços de\ntecnologia da informação que ofertem publicidade ou a sua distribuição para\ncrianças e adolescentes deverão impedir o uso de técnicas e ferramentas de\nperfilamento, o emprego de análise emocional, de realidade aumentada, de\nrealidade estendida e de realidade virtual, nos termos do disposto nos\n[art.\n22](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art22) e [art. 26 da Lei nº 15.211, de 17 de setembro de 2025.](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art26)"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Seção II",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "**Da\natividade artística de crianças e adolescentes**"
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 34",
+    "section_name": "Art. 34",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "Os fornecedores de produtos ou serviços de\ntecnologia da informação deverão requerer dos seus usuários autorização\njudicial regularmente emitida nos termos do disposto no\n[art. 149 da Lei nº\n8.069, de 13 de julho de 1990](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/LEIS/L8069.htm#art149), quando se tratar de conteúdo monetizado ou\nimpulsionado que explore, de forma habitual, a imagem ou a rotina de criança\nou adolescente.\n\n§ 1º\n Verificada a ausência da autorização judicial referida no *caput*, o\nfornecedor deverá retirar imediatamente o conteúdo.\n\n§ 2º  A\nobrigação prevista no *caput* aplica-se aos conteúdos cuja monetização\nou cujo impulsionamento pelos fornecedores de produtos ou serviços de\ntecnologia da informação se inicie no prazo de noventa dias após a data de\npublicação deste Decreto.\n\n§ 3º  O\nMinistério da Justiça e Segurança Pública atuará em articulação com o\nConselho Nacional de Justiça e com o Conselho Nacional do Ministério Público\npara a elaboração de normas, procedimentos, orientações e soluções técnicas\ndestinados à operacionalização do disposto neste artigo."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 35",
+    "section_name": "Art. 35",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "É vedado aos fornecedores de produtos ou\nserviços de tecnologia da informação a veiculação, a monetização ou o\nimpulsionamento de conteúdos que exponham crianças ou adolescentes a\nsituações violadoras, vexatórias ou degradantes, nos termos do disposto nos\n[art. 6º, § 1º](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art6§1), e\n[art. 23 da Lei nº 15.211, de 17 de setembro de 2025.](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art23)"
+  },
+  {
+    "depth": 3,
+    "section_id": "CAPÍTULO IX",
+    "section_name": "DA PREVENÇÃO",
+    "id_kind": "chapter",
+    "parent_id": "",
+    "body": "E DO COMBATE A VIOLAÇÕES GRAVES CONTRA CRIANÇAS E ADOLESCENTES NO AMBIENTE\nDIGITAL"
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 36",
+    "section_name": "Art. 36",
+    "id_kind": "section_word",
+    "parent_id": "CAPÍTULO IX",
+    "body": "A Polícia Federal é a autoridade competente\npara recebimento centralizado, processamento, triagem e gerenciamento dos\nrelatórios de notificação de conteúdo com indícios de infrações penais e\natos infracionais de aparente exploração, abuso sexual, sequestro e\naliciamento de crianças e adolescentes, de que trata o\n[art. 27, § 1º, da Lei nº 15.211, de 17 de setembro de 2025.](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art27§1)"
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 37",
+    "section_name": "Art. 37",
+    "id_kind": "section_word",
+    "parent_id": "CAPÍTULO IX",
+    "body": "Fica autorizada a criação do Centro Nacional\nde Triagem de Notificações, no âmbito da Polícia Federal, ao qual compete:\n\nI - receber\nos relatórios de notificação de conteúdo, encaminhados pelos fornecedores de\nprodutos ou serviços de tecnologia da informação disponíveis no território\nnacional;\n\nII - validar\nos relatórios de notificação de conteúdo e armazenar as informações\nprestadas;\n\nIII -\nrealizar a triagem das informações prestadas com a finalidade de identificar\nsuspeitos, para fins de tratamento ou encaminhamento dos relatórios de\nnotificação de conteúdo;\n\nIV - tratar e\ndisponibilizar os relatórios de notificação de conteúdo para as polícias\njudiciárias com atribuição investigativa para o caso; e\n\nV -\ndisponibilizar relatórios estatísticos periódicos de transparência sobre os\nquantitativos de notificações recebidas e processadas, discriminados por\nfornecedor de produtos ou serviços de tecnologia da informação.\n\n§ 1º  O\nexercício das competências previstas no *caput* observará os\nprocedimentos de preservação dos dados reportados pelos fornecedores de\nprodutos ou serviços de tecnologia da informação, compreendida a garantia da\nautenticidade, da integridade e da rastreabilidade das informações.\n\n§ 2º  Os\nfornecedores de produtos ou serviços de tecnologia da informação que\nforneçam, por força de lei, notificações idênticas a centrais de triagem de\ndenúncia de outros países, as quais estejam disponíveis para as autoridades\nbrasileiras, ficam dispensados do envio de notificações ao Centro Nacional\nde Triagem de Notificações, de modo a evitar a duplicidade de esforços.\n\n§ 3º  Os\nrelatórios de notificação de conteúdo encaminhados pelos fornecedores de\nprodutos ou serviços de tecnologia da informação a centrais de triagem de\ndenúncia de outros países, disponíveis para a Polícia Federal, após\nprocessados e validados, equiparam-se, para todos os fins jurídicos e\nprobatórios, aos relatórios apresentados diretamente ao Centro Nacional de\nTriagem de Notificações.\n\n§ 4º  Ato do\nMinistro de Estado da Justiça e Segurança Pública disporá sobre o\nfuncionamento do Centro Nacional de Triagem de Notificações, inclusive\nquanto:\n\nI - aos\nprotocolos operacionais do Centro Nacional de Triagem de Notificações e aos\nfluxos de comunicação para as demais áreas do Ministério;\n\nII - aos\nfluxos de acionamento de integrantes do sistema de garantia de direitos da\ncriança e do adolescente vítima ou testemunha de violência, previsto na\n[Lei nº 13.431, de 4 de abril de 2017](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_Ato2015-2018/2017/Lei/L13431.htm), para fins de atendimento e acolhimento de\nvítimas, quando for o caso;\n\nIII - à\narticulação entre o Centro Nacional de Triagem de Notificações, os\nintegrantes do Sistema Único de Segurança Pública – Susp e os demais órgãos\ncom competência para investigação dos crimes comunicados; e\n\nIV - aos\nrequisitos e aos prazos previstos no\n[art. 27, § 1º, da Lei nº 15.211, de 17\nde setembro de 2025.](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art27§1)"
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 38",
+    "section_name": "Art. 38",
+    "id_kind": "section_word",
+    "parent_id": "CAPÍTULO IX",
+    "body": "Os relatórios de notificação de conteúdo terão\nclassificação de sigilo compatível com a natureza sensível das informações\nneles contidas e deverão ser protegidos contra acesso, divulgação ou\nutilização indevidos, nos termos estabelecidos na legislação aplicável,\nespecialmente aquela relativa à proteção de dados pessoais, à salvaguarda de\ncrianças e adolescentes e ao resguardo das atividades de persecução penal."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 39",
+    "section_name": "Art. 39",
+    "id_kind": "section_word",
+    "parent_id": "CAPÍTULO IX",
+    "body": "Para fins do disposto no\n[art. 27 da Lei nº\n15.211, de 17 de setembro de 2025](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art27), os fornecedores de produtos ou serviços\nde tecnologia da informação deverão comunicar ao Centro Nacional de Triagem\nde Notificações as violações que decorram de:\n\nI -\nidentificação de conteúdos que evidenciem infrações penais ou atos\ninfracionais relacionados à exploração, ao abuso ou ao aliciamento sexual de\ncriança ou adolescente, nos termos estabelecidos na legislação penal e na\nlegislação especial aplicável à proteção de crianças e adolescentes;\n\nII -\nsequestro e cárcere privado de criança ou adolescente, nos termos do\ndisposto no [Decreto-Lei nº 2.848, de 7 de dezembro de 1940](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/Decreto-Lei/Del2848.htm) – Código Penal; e\n\nIII -\n\nidentificação de conteúdo ou interações que evidenciem aliciamento,\nrecrutamento ou cooptação de criança ou adolescente para práticas que\nrepresentem risco crível, iminente ou em andamento de lesão física grave ou\nmorte, incluído tráfico de crianças\ne adolescentes ou atos preparatórios de violência extrema preordenada contra comunidade\nescolar ou grupos vulnerabilizados.\n\n§ 1º  Os\nfornecedores de produtos ou serviços de tecnologia da informação que\nidentificarem material criminoso relacionado à exploração, ao abuso sexual,\nao sequestro ou ao aliciamento de crianças e adolescentes deverão promover\nsua imediata remoção, preservando esse material e os demais conteúdos da\nconta, as informações do usuário e os metadados associados, para\nencaminhamento ao Centro Nacional de Triagem de Notificações ou à autoridade\ninternacional competente, observados os requisitos e os prazos estabelecidos\nem ato do Ministério da Justiça e Segurança Pública.\n\n§ 2º\n Confirmado o recebimento pelo Centro Nacional de Triagem de Notificações ou\npela autoridade internacional competente, os fornecedores deverão excluir de\nseus servidores o conteúdo de exploração e de abuso sexual de criança ou de\nadolescente a que se refere o [art. 27, § 2º, da Lei nº 15.211, de 17 de\nsetembro de 2025](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art27§2), observado o disposto no\n[art. 241-B, § 2º, da Lei nº 8.069,\nde 13 de julho de 1990](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/LEIS/L8069.htm#art241b§2), preservados os demais dados da conta, as informações\ndo usuário e os metadados associados, conforme prazo e condições\nestabelecidos em ato do Ministério da Justiça e Segurança Pública,\nressalvadas\nas obrigações legais internacionais a que estejam submetidos.\n\n§ 3º  Os\nfornecedores de produtos ou serviços de tecnologia da informação poderão,\nfacultativamente, utilizar o mesmo canal de comunicação para reportar outras\nviolações contra crianças ou adolescentes e situações que, a seu critério,\nindiquem risco crível, iminente ou em curso à sua integridade física,\npsicológica ou à sua vida, ainda que tais condutas não se enquadrem nas\nhipóteses previstas no inciso III do *caput*, quando houver razoável\nnecessidade de comunicação imediata dos dados do usuário para reduzir ou\nevitar o risco, observados os princípios da proporcionalidade, da\nnecessidade e da minimização de dados."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 40",
+    "section_name": "Art. 40",
+    "id_kind": "section_word",
+    "parent_id": "CAPÍTULO IX",
+    "body": "O descumprimento das obrigações previstas no\n[art. 27 da Lei nº 15.211, de 17 de setembro de 2025](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art27), pelos fornecedores de\nprodutos ou serviços de tecnologia da informação disponíveis no território\nnacional, quando houver falha reincidente nos mecanismos de moderação de\nconteúdo do fornecedor, sujeita-os às penalidades previstas no art. 35 da\nreferida Lei.\n\n§ 1º  Para\nfins de caracterização da falha reincidente de que trata o *caput*,\nconsidera-se a negligência ou a insuficiência de mecanismos de resposta a\nviolações graves contra crianças e adolescentes no ambiente digital.\n\n§ 2º  As\npenalidades não serão aplicadas nas hipóteses de descumprimento decorrente\nde falha isolada ou residual, inerente ao estado da técnica e à natureza da\noperação, observados os critérios de proporcionalidade e razoabilidade\nprevistos no [art. 35, § 1º, da Lei nº 15.211, de 17 de setembro de 2025.](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art35§1)"
+  },
+  {
+    "depth": 3,
+    "section_id": "CAPÍTULO X",
+    "section_name": "DO REPORTE DE",
+    "id_kind": "chapter",
+    "parent_id": "",
+    "body": "VIOLAÇÕES AOS DIREITOS DE CRIANÇAS E ADOLESCENTES"
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 41",
+    "section_name": "Art. 41",
+    "id_kind": "section_word",
+    "parent_id": "CAPÍTULO X",
+    "body": "Os fornecedores de produtos ou serviços de\ntecnologia da informação direcionados a crianças e adolescentes ou de acesso\nprovável por eles deverão disponibilizar aos usuários mecanismos de\nnotificação acerca de violações aos direitos de crianças e adolescentes.\n\nParágrafo\núnico.  Os mecanismos de notificação de que trata o *caput* deverão ser\nacessíveis, gratuitos, efetivos e amplamente divulgados aos usuários."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 42",
+    "section_name": "Art. 42",
+    "id_kind": "section_word",
+    "parent_id": "CAPÍTULO X",
+    "body": "Para fins do disposto no\n[art. 28, parágrafo\núnico, da Lei nº 15.211, de 17 de setembro de 2025](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art28p), os fornecedores de\nprodutos ou serviços de tecnologia da informação deverão disponibilizar ao\nCentro Nacional de Triagem de Notificações, por meio de relatório de\nnotificação de conteúdo, na forma prevista no art. 36 deste Decreto, as\ninformações relativas a conteúdo ou conduta que configure as violações\nreferidas no art. 39 deste Decreto.\n\nParágrafo\núnico. A obrigação prevista no [art. 28, parágrafo único, da Lei nº 15.211,\nde 17 de setembro de 2025](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art28p), será cumprida por meio de sistemas automatizados,\ncom mecanismos que impeçam a disseminação de conteúdo violador e evitem a\ndispersão de investigações, observado, em todo caso, o disposto no\n[art.\n241-B, § 2º, da Lei nº 8.069, de 13 de julho de 1990.](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/LEIS/L8069.htm#art241b§2)"
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 43",
+    "section_name": "Art. 43",
+    "id_kind": "section_word",
+    "parent_id": "CAPÍTULO X",
+    "body": "É dever dos fornecedores de produtos ou\nserviços de tecnologia da informação conferir tratamento prioritário e\nproceder à retirada, de maneira imediata e independentemente de ordem\njudicial, de conteúdo que viole direitos de crianças e adolescentes, nos\ntermos do disposto no [art. 29 da Lei nº 15.211, de 17 de setembro de 2025](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art29),\nquando a denúncia for apresentada:\n\nI - pela\nvítima ou por seus representantes;\n\nII - pelo\nMinistério Público;\n\nIII - por\nautoridades policiais, no exercício das competências previstas no\n[art. 144\nda Constituição](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/Constituicao/Constituicao.htm#art144); ou\n\nIV - por\nentidades representativas da sociedade civil de defesa dos direitos de\ncrianças e de adolescentes de reconhecida atuação em âmbito nacional.\n\nParágrafo\núnico.  Os conselhos tutelares, constituídos na forma prevista na\n[Lei nº\n8.069, de 13 de julho de 1990](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/LEIS/L8069.htm), deverão provocar o Ministério Público para\nque este notifique fornecedores de produtos ou serviços de tecnologia da\ninformação quanto a violações de direitos de crianças e adolescentes, nos\ntermos do disposto no *caput*."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 44",
+    "section_name": "Art. 44",
+    "id_kind": "section_word",
+    "parent_id": "CAPÍTULO X",
+    "body": "Para fins do disposto no art. 43, *caput*,\ninciso IV, deste Decreto, compete à ANPD habilitar as entidades\nrepresentativas de defesa dos direitos de crianças e de adolescentes\nreferidas no [art. 29 da Lei nº 15.211, de 17 de setembro de 2025](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art29), desde que\ndemonstrem, cumulativamente:\n\nI - ter\nexperiência demonstrada na proteção de direitos de crianças e adolescentes\nno ambiente digital, inclusive na triagem de conteúdos potencialmente\nlesivos;\n\nII - ser\nindependente em relação a fornecedores de produtos ou serviços de tecnologia\nda informação direcionados a crianças e adolescentes ou de acesso provável\npor eles;\n\nIII - adotar\nprocedimentos internos que assegurem a qualidade, a imparcialidade e a\nconsistência das notificações encaminhadas; e\n\nIV - não ter\nfins lucrativos.\n\n§ 1º  Ato da\nANPD disporá sobre os requisitos, os procedimentos e os prazos relativos ao\ncredenciamento, à supervisão e ao descredenciamento das entidades\nrepresentativas de defesa dos direitos de crianças e adolescentes.\n\n§ 2º  A\nrelação das entidades representativas de defesa dos direitos de crianças e\nadolescentes habilitadas pela ANPD será publicada no sítio eletrônico da\nAgência.\n\n§ 3º  A ANPD\npoderá desabilitar as entidades representativas de defesa dos direitos de\ncrianças e adolescentes nas hipóteses de:\n\nI - desvio na\natuação da proteção da infância e da adolescência; ou\n\nII - envio\nabusivo de notificações pela retirada de conteúdo que não viole direitos de\ncrianças e adolescentes."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 45",
+    "section_name": "Art. 45",
+    "id_kind": "section_word",
+    "parent_id": "CAPÍTULO X",
+    "body": "Os relatórios elaborados por provedores de\naplicações de internet direcionadas a crianças e adolescentes ou de acesso\nprovável por eles que possuam mais de um milhão de usuários registrados na\nfaixa etária desse público, nos termos do disposto no\n[art. 31, *caput*,\ninciso II, da Lei nº 15.211, de 17 de setembro de 2025](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art31-2), deverão informar:\n\nI - a\nquantidade de notificações recebidas dos notificantes previstos no art. 39\ndeste Decreto, conforme a categoria; e\n\nII - os dados\nproporcionais sobre o prosseguimento dado às notificações recebidas."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 46",
+    "section_name": "Art. 46",
+    "id_kind": "section_word",
+    "parent_id": "CAPÍTULO X",
+    "body": "As organizações e as entidades referidas no\nart. 43, *caput*, incisos II a IV, deverão publicar relatório anual\nacerca das notificações encaminhadas aos fornecedores de produtos ou\nserviços de tecnologia da informação, o qual deverá conter, no mínimo:\n\nI - o\nquantitativo de denúncias recebidas;\n\nII - a\nidentificação do fornecedor de produtos ou serviços de tecnologia da\ninformação destinatário da notificação;\n\nIII - a\nclassificação das notificações por tipo de conteúdo ilegal; e\n\nIV - as\nrespostas ou as medidas adotadas pelos fornecedores de produtos ou serviços\nde tecnologia da informação destinatário da notificação."
+  },
+  {
+    "depth": 2,
+    "section_id": "CAPÍTULO XI",
+    "section_name": "CAPÍTULO XI",
+    "id_kind": "chapter",
+    "parent_id": "",
+    "body": "DA\nTRANSPARÊNCIA E DA PRESTAÇÃO DE CONTAS"
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 47",
+    "section_name": "Art. 47",
+    "id_kind": "section_word",
+    "parent_id": "CAPÍTULO XI",
+    "body": "Para fins do disposto no\n[art. 16, parágrafo\núnico, inciso II](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art16p-2), e no [art. 31, *caput*, inciso VI, da Lei nº 15.211,\nde 17 de setembro de 2025](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art31-6), os fornecedores de produtos ou serviços de\ntecnologia da informação direcionados a crianças e adolescentes ou de acesso\nprovável por eles deverão realizar avaliação de impacto à segurança e à\nsaúde de crianças, com identificação e análise de riscos, avaliação da\nprobabilidade de ocorrência e da gravidade do impacto potencial, tratamento\ne mitigação dos riscos e acompanhamento contínuo da efetividade das medidas\nadotadas.\n\n§ 1º  Será\ndada publicidade à versão resumida do relatório em linguagem clara e\nacessível.\n\n§ 2º  Ato da\nANPD poderá dispor sobre as obrigações previstas neste artigo, incluídos o\nconteúdo mínimo, a periodicidade e as condições de elaboração, revisão e\ncompartilhamento dos relatórios."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 48",
+    "section_name": "Art. 48",
+    "id_kind": "section_word",
+    "parent_id": "CAPÍTULO XI",
+    "body": "A ANPD habilitará, por meio de edital público,\ninstituições acadêmicas, científicas, tecnológicas, de inovação ou\njornalísticas para acesso aos dados de que trata o\n[art. 31, parágrafo único,\nda Lei nº 15.211, de 17 de setembro de 2025](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art31p), observados critérios mínimos de\nfinalidade institucional compatível com pesquisa de interesse público,\nqualificação técnica da equipe, apresentação de plano de pesquisa,\ndeclaração de inexistência de finalidade comercial e plano de governança e\nsegurança da informação."
+  },
+  {
+    "depth": 3,
+    "section_id": "CAPÍTULO XII",
+    "section_name": "DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
+    "id_kind": "chapter",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 49",
+    "section_name": "Art. 49",
+    "id_kind": "section_word",
+    "parent_id": "CAPÍTULO XII",
+    "body": "A ANPD definirá as etapas de implementação\npara soluções de aferição de idade, de modo a estimular o desenvolvimento de\necossistema de soluções públicas e privadas interoperáveis, confiáveis e\neficazes, que preservem a liberdade de escolha do usuário, observado o\ndisposto no [art. 5º, § 3º, da Lei nº 15.211, de 17 de setembro de 2025.](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art5§3)\n\nParágrafo\núnico.  Para cumprimento do disposto no *caput*, a ANPD:\n\nI - adotará\nabordagem responsiva, considerados as funcionalidades e o nível de risco de\ncada produto, serviço e conteúdo, e a evolução tecnológica e os padrões\ntécnicos aplicáveis;\n\nII - emitirá\nrecomendações e orientações acerca das práticas relevantes para a\nimplementação de mecanismos confiáveis de aferição de idade, observado o\ndisposto no art. 24; e\n\nIII -\nestabelecerá prioridades para o monitoramento da implementação de soluções\nde aferição de idade, considerado o nível de risco para crianças e\nadolescentes."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 50",
+    "section_name": "Art. 50",
+    "id_kind": "section_word",
+    "parent_id": "CAPÍTULO XII",
+    "body": "Até que haja regulamentação específica pela\nANPD, os fabricantes e os importadores de equipamentos eletrônicos de uso\npessoal com acesso a conteúdos da internet cuja apresentação, embalagem ou\ncomunicação mercadológica seja exclusivamente direcionada a crianças e\nadolescentes deverão assegurar, no prazo de trinta dias, contado da data de\npublicação deste Decreto, a inclusão de mensagem na embalagem de modo a\ninformar pais ou responsáveis legais quanto à necessidade de proteger\ncrianças e adolescentes do acesso a sítios eletrônicos com conteúdo\nimpróprio ou inadequado.\n\n§ 1º  Até que\nhaja regulamentação específica pela ANPD para os equipamentos previstos no\n*caput*, a redação da mensagem a ser exibida na embalagem desses\nequipamentos será “Este produto permite acesso à internet. Conteúdos da\ninternet podem apresentar riscos a crianças e adolescentes. O uso do produto\nrequer supervisão parental.”.\n\n§ 2º  O\ndisposto neste artigo não se aplica aos equipamentos fabricados e importados\naté a data de publicação deste Decreto.\n\n§ 3º  A ANPD\nregulamentará a aplicação do disposto no\n[art. 38 da Lei nº 15.211,](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art38)\n[de\n17 de setembro\nde 2025](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/Lei/L15211.htm#art38), com\na especificação da forma de exibição, do teor do aviso e do prazo de\nadequação segundo o segmento de equipamentos eletrônicos de uso pessoal\ncomercializados no País que permitam acesso à internet."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 51",
+    "section_name": "Art. 51",
+    "id_kind": "section_word",
+    "parent_id": "CAPÍTULO XII",
+    "body": "Até que seja aprovada a Estrutura Regimental\ndo Centro Nacional de Triagem de Notificações, a Polícia Federal receberá o\napoio técnico, administrativo e financeiro do Ministério da Justiça e\nSegurança Pública, por meio de força-tarefa integrada ou de profissionais de\nsegurança pública mobilizados especificamente para esse fim."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 52",
+    "section_name": "Art. 52",
+    "id_kind": "section_word",
+    "parent_id": "CAPÍTULO XII",
+    "body": "Até que haja a regulamentação de que trata o\nart. 44, a ANPD poderá habilitar provisoriamente as entidades\nrepresentativas de defesa dos direitos de crianças e adolescentes de\nreconhecida atuação em âmbito nacional como aquelas que:\n\nI - cumprem\nos requisitos previstos no art. 44, *caput*; e\n\nII -\nparticipam, na condição de membros titulares ou suplentes:\n\na) do Conanda,\nde que trata o [art. 3º da Lei nº 8.242, de 12 de outubro 1991](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/LEIS/L8242.htm#art3); ou\n\nb) da\nComissão Intersetorial de Enfrentamento da Violência Sexual contra Crianças\ne Adolescentes, de que trata o [Decreto nº 11.533, de 18 de maio de 2023.](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/Decreto/D11533.htm)"
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 53",
+    "section_name": "Art. 53",
+    "id_kind": "section_word",
+    "parent_id": "CAPÍTULO XII",
+    "body": "Fica revogado o\n[Decreto nº 9.856, de\n25 de junho de 2019](https://web.archive.org/web/20261017200502id_/https:/www.planalto.gov.br/ccivil_03/_Ato2019-2022/2019/Decreto/D9856.htm)."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 54",
+    "section_name": "Art. 54",
+    "id_kind": "section_word",
+    "parent_id": "CAPÍTULO XII",
+    "body": "Este Decreto entra em vigor na data de sua\npublicação.\n\nBrasília, 18\nde março de 2026; 205º da Independência e 138º da República.\n\nLUIZ INÁCIO LULA DA SILVA\n\nMacaé Maria Evaristo dos Santos\n\nEsther Dweck\n\nWellington César Lima e Silva\n\nSidônio Cardoso Palmeira\n\nEste texto não substitui o\npublicado no DOU de 18.3.2026 - Edição extra\n\n*"
+  }
+]

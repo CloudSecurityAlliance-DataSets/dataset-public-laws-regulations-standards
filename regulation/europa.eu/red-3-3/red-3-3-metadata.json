@@ -1,0 +1,63 @@
+{
+  "secid": "secid:regulation/europa.eu/red-3-3",
+  "name": "Radio Equipment Directive Article 3(3) cybersecurity essential requirements",
+  "acronym": "RED 3(3)",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "red-3-3",
+  "owner": "European Union",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Activation of cybersecurity essential requirements under the Radio Equipment Directive (2014/53/EU) Article 3(3) for internet-connected radio equipment. Mandatory for radio equipment placed on the EU market from 1 August 2025.",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by European Union (europa.eu) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within European Union (europa.eu).",
+  "license": {
+    "spdx": "LicenseRef-EU-Reuse-Decision-2011-833",
+    "Grouping": "Permissive",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
+    "publicly_redistributable": true,
+    "license_text_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011D0833",
+    "note": "European Union official publication (europa.eu); reuse authorized with attribution under Commission Decision 2011/833/EU.",
+    "notes": "European Union official publication (europa.eu); reuse authorized with attribution under Commission Decision 2011/833/EU."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R0030",
+    "textUsed": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R0030",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official regulation (https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32022R0030) to Markdown (41,795 chars). Parsed 6 sections (4 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  }
+}

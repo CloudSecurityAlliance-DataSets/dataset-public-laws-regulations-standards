@@ -1,0 +1,48 @@
+{
+  "secid": "secid:regulation/meity.gov.in/aadhaar-act",
+  "name": "Aadhaar (Targeted Delivery of Financial and Other Subsidies, Benefits and Services) Act, 2016",
+  "acronym": "Aadhaar Act",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "aadhaar-act",
+  "owner": "Ministry of Electronics and Information Technology",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Indian statute creating UIDAI as a statutory authority and authorizing the Aadhaar biometric identity programme. Establishes the legal basis for Aadhaar issuance, authentication, and use by public and private entities.",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by Ministry of Electronics and Information Technology (meity.gov.in) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within Ministry of Electronics and Information Technology (meity.gov.in).",
+  "license": {
+    "spdx": "LicenseRef-IN-Copyright-1957-Sec17d",
+    "Grouping": "Proprietary / All Rights Reserved",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/IN",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (meity.gov.in) is governed by Indian Copyright Act, 1957 (Act No. 14 of 1957) Sec. 17(d) (Government copyright in ministerial and NITI Aayog strategy publications unless explicitly released under GODL-India). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (meity.gov.in) is governed by Indian Copyright Act, 1957 (Act No. 14 of 1957) Sec. 17(d) (Government copyright in ministerial and NITI Aayog strategy publications unless explicitly released under GODL-India). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.meity.gov.in/aadhaar-targeted-delivery-financial-and-other-subsidies-benefits-and-services-act-2016",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:regulation/meity.gov.in/aadhaar-act (https://www.meity.gov.in/aadhaar-targeted-delivery-financial-and-other-subsidies-benefits-and-services-act-2016) is not directly downloadable (upstream portal root URL only, SPA/WAF barrier, or pending publication); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

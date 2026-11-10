@@ -1,0 +1,55 @@
+{
+  "secid": "secid:regulation/utah.gov/hb-452",
+  "name": "Utah House Bill 452 — Artificial Intelligence Amendments (Mental Health Chatbots, Utah Code Title 13, Chapter 72a)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "hb-452",
+  "owner": "State of Utah",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Utah statute regulating mental health chatbots that use AI to provide therapeutic or mental health communications: requires clear pre-interaction and recurring disclosure that the chatbot is an AI and not a human therapist, restricts the sale or sharing of individually identifiable health inputs and targeted advertising inside chatbot conversations, and requires documentation of foundation models and crisis guardrails.",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by State of Utah (utah.gov) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within State of Utah (utah.gov).",
+  "license": {
+    "spdx": "CC0-1.0",
+    "Grouping": "Public Domain",
+    "redistribution": "yes",
+    "derivatives": "yes",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.usa.gov/government-works",
+    "note": "United States Government work (17 U.S.C. § 105); in the public domain worldwide.",
+    "notes": "United States Government work (17 U.S.C. § 105); in the public domain worldwide."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://le.utah.gov/~2025/bills/static/HB0452.html",
+    "textUsed": "https://le.utah.gov/Session/2025/bills/enrolled/HB0452.xml",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "date": "2026-11-10",
+    "tool": "utah-leg-xml + tools-resources/utils/parse_regulatory_sections.py",
+    "s3_archive_path": "",
+    "notes": "Extracted official regulation (https://le.utah.gov/Session/2025/bills/enrolled/HB0452.xml) to Markdown (16,478 chars). Parsed 14 sections (13 with explicit section identifiers)."
+  },
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:regulation/utah.gov/hb-452 (https://le.utah.gov/~2025/bills/static/HB0452.html) is not directly downloadable (upstream portal root URL only, SPA/WAF barrier, or pending publication); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  },
+  "end_state": "extracted",
+  "end_reason": "regulation-doc"
+}

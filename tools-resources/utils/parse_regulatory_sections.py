@@ -30,28 +30,32 @@ HEADING_RE = re.compile(r"^(#+)\s+(.+?)\s*$", re.MULTILINE)
 # Identifier patterns tried in order. First match wins. Each returns the id
 # string from the heading text.
 ID_PATTERNS = [
-    # US / State statute sections: "22757.10. Short Title", "715D.1 Short title", "47-18-3201. Short title", "RCW 19.373.010", "NRS 603A.010", "§ 899-aa."
-    (re.compile(r"^((?:RCW\s+\d+\.\d+\.\d+|NRS\s+\d+[A-Z]?\.\d+|\d+\s+ILCS\s+\d+/\d+(?:\.\d+)?|§+\s*\d+[\dA-Za-z\.\-]*|\d{1,3}-\d{1,3}-\d{2,5}|\d{2,5}[A-Z]?\.\d+(?:\.\d+)?))\.?\s*[:\-–—]?\s+(.+)$", re.IGNORECASE), "statute"),
+    # US / State statute sections: "22757.10. Short Title", "715D.1 Short title", "47-18-3201. Short title", "13-72a-101. Definitions", "RCW 19.373.010", "NRS 603A.010", "§ 899-aa.", "H.495", "S.35"
+    (re.compile(r"^((?:RCW\s+\d+\.\d+\.\d+|NRS\s+\d+[A-Z]?\.\d+[A-Za-z]?|\d+\s+ILCS\s+\d+/\d+(?:\.\d+)?|§+\s*\d+[\dA-Za-z\.\-]*|(?:H|S|HD|SD)\.\d+(?:-[A-Z])?|\d{1,3}-[0-9A-Za-z]{1,5}-\d{1,5}[A-Za-z]?|\d{2,5}[A-Z]?\.\d+(?:\.\d+)?))\.?\s*[:\-–—]?\s+(.+)$", re.IGNORECASE), "statute"),
     # SECTION 1 / SEC. 101 / Sec. 15 / Section 2-501 / Section (1) / S1.1-01: "SECTION 1. Legislative Findings and Declarations"
     (re.compile(r"^((?:SECTION|SEC\.?)\s+(?:\d+[A-Za-z]?(?:[\.\-–]\d+[A-Za-z]?)*|\(\d+\)|\([ivxlcdm]+\)|[IVXLCDM]+)|S\d+\.\d+-\d+)(?![\.\-–]\d)\s*(?:[:\.\-–—]+|\s+)\s*(.+)$", re.IGNORECASE), "section_word"),
     # Pillar I / Pillar 1 / Pillar (i) / Pillar One / Eje Estratégico 1 / Handlungsfeld 1: "Pillar I: AI Use Restrictions ..."
     (re.compile(r"^((?:Pillar|Pilier|Pilar|Pijler|Eje\s+Estrat[eé]gico|Handlungsfeld)\s+(?:[IVXLCDM]+|\([ivxlcdm]+\)|\d+|\(\d+\)|One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten))(?![\.\-–]\d)\s*(?:[:\.\-–—]+|\s+)\s*(.+)$", re.IGNORECASE), "pillar"),
-    # Division A / Title I / Subtitle A / Part I / Part 1 / Part (1) / Part One / Раздел I / Розділ I / Teil 1 / Partie 1: "Part I: ..."
-    (re.compile(r"^((?:Division|Title|Subtitle|Part|Partie|Parte|Teil|Deel|Del|Část|Časť|Раздел|Розділ|Часть|Частина)\s+(?:[IVXLCDM]+|\([ivxlcdm]+\)|\d+(?:\.\d+)?|\(\d+\)|[A-Z]|One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten))(?![\.\-–]\d)\s*(?:[:\.\-–—]+|\s+)\s*(.+)$", re.IGNORECASE), "part"),
+    # Division A / Title I / Titre Ier / Subtitle A / Part I / Part 1 / Part (1) / Part One / Раздел I / Розділ I / Teil 1 / Partie 1: "Part I: ..."
+    (re.compile(r"^((?:Division|Title|Titre|T[ií]tulo|Subtitle|Part|Partie|Parte|Teil|Deel|Del|Část|Časť|Раздел|Розділ|Часть|Частина)\s+(?:[IVXLCDM]+(?:er)?|\([ivxlcdm]+\)|\d+(?:\.\d+)?|\(\d+\)|[A-Z]|One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten))(?![\.\-–]\d)\s*(?:[:\.\-–—]+|\s+)\s*(.+)$", re.IGNORECASE), "part"),
     # CHAPTER 25.1 / Subchapter A / Chapter 1 / Chapter One / Глава 1 / Kapitel 1 / Chapitre 1 / Capítulo 1: "CHAPTER 25.1. Transparency in ..."
-    (re.compile(r"^((?:SUBCHAPTER|CHAPTER|Chapitre|Cap[ií]tulo|Capitolo|Kapitel|Hoofdstuk|Kapitola|Poglavje|Rozdzia[łl]|Глава|BAHAGIAN)\s+(?:\d+[A-Za-z]?(?:\.\d+)?|\(\d+\)|[IVXLCDM]+|\([ivxlcdm]+\)|[A-Z]|One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten))(?![\.\-–]\d)\s*(?:[:\.\-–—]+|\s+)\s*(.+)$", re.IGNORECASE), "chapter"),
-    # Chinese & Japanese chapter/section/article/supplementary-provision markers: "第一章 ...", "第１ はじめに", "第一节 ...", "第一条（目的）", "附則第一条（施行期日）"
-    (re.compile(r"^(第[一二三四五六七八九十百千0-9０-９]+[章篇编部編])\s*[:\.\-–—　]?\s*(.+)$"), "chapter"),
+    (re.compile(r"^((?:SUBCHAPTER|CHAPTER|Chapitre|Cap[ií]tulo|Capitolo|Kapitel|Hoofdstuk|Kapitola|Poglavje|Rozdzia[łl]|Глава|BAHAGIAN)\s+(?:\d+[A-Za-z]?(?:\.\d+)?|\(\d+\)|[IVXLCDM]+(?:er)?|\([ivxlcdm]+\)|[A-Z]|One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten))(?![\.\-–]\d)\s*(?:[:\.\-–—]+|\s+)\s*(.+)$", re.IGNORECASE), "chapter"),
+    # Chinese, Taiwanese & Japanese chapter/section/article/supplementary-provision markers: "第一章 ...", "第 1 章 ...", "第１ はじめに", "第一节 ...", "第一条（目的）", "第 1 條", "附則第一条（施行期日）"
+    (re.compile(r"^(第\s*[一二三四五六七八九十百千0-9０-９]+\s*[章篇编部編])\s*[:\.\-–—　]?\s*(.*)$"), "chapter"),
     (re.compile(r"^(第[一二三四五六七八九十百千0-9０-９]+)[\s　]+(.+)$"), "chapter"),
-    (re.compile(r"^(第[一二三四五六七八九十百千0-9０-９]+[节節])\s*[:\.\-–—　]?\s*(.+)$"), "part"),
-    (re.compile(r"^((?:附則(?:（[^）]+）)?\s*)?第[一二三四五六七八九十百千0-9０-９]+[条條](?:の[一二三四五六七八九十0-9０-９]+)?)\s*[:\.\-–—　]?\s*(.+)$"), "section_word"),
+    (re.compile(r"^(第\s*[一二三四五六七八九十百千0-9０-９]+\s*[节節])\s*[:\.\-–—　]?\s*(.*)$"), "part"),
+    (re.compile(r"^((?:附則(?:（[^）]+）)?\s*)?第\s*[一二三四五六七八九十百千0-9０-９]+(?:\s*[-之の]\s*[一二三四五六七八九十0-9０-９]+)*\s*[条條](?:\s*[のノ之\-]\s*[一二三四五六七八九十百千0-9０-９]+)*)\s*[:\.\-–—　]?\s*(.*)$"), "section_word"),
+    # Korean chapter/section/article markers: "제1장 총칙", "제1절 ...", "제1조(목적)", "제1조의2"
+    (re.compile(r"^(제\s*\d+\s*[장편])\s*[:\.\-–—]?\s*(.*)$"), "chapter"),
+    (re.compile(r"^(제\s*\d+\s*절)\s*[:\.\-–—]?\s*(.*)$"), "part"),
+    (re.compile(r"^(제\s*\d+\s*조(?:의\s*\d+)?)\s*[:\.\-–—]?\s*(.*)$"), "section_word"),
     (re.compile(r"^((?:\d+-)?ИЛОВА)\s*[:\.\-–—]?\s*(.*)$", re.IGNORECASE), "annex"),
-    (re.compile(r"^((?:[IVXLCDM]+|\d+)-(?:боб|бўлим|тарау))\s*[:\.\-–—]?\s*(.*)$", re.IGNORECASE), "chapter"),
+    (re.compile(r"^((?:[IVXLCDM]+|\d+)-(?:боб|бўлим|тарау|модда|modda|бап))\s*[:\.\-–—]?\s*(.*)$", re.IGNORECASE), "section_word"),
     # CJK top-level & parenthesized numbering: "一、...", "（一）...", "（１）..." (excluding prose clauses like "一、二线城市...")
     (re.compile(r"^([一二三四五六七八九十壹貳參肆伍陸柒捌玖拾]+)[、．\.]\s*([^，]+)$"), "cjk_major"),
     (re.compile(r"^([（\(][一二三四五六七八九十0-9０-９]+[）\)])\s*(.+)$"), "cjk_sub"),
-    # Artículo / Artigo / Article / Điều / Thrust: "ARTÍCULO 1. Objeto..."
-    (re.compile(r"^((?:Art[ií]culo|Artigo|Article|Điều|Thrust\s*#?)\s*\d+(?:\.\d+)*[º°]?)\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "section_word"),
+    # Artículo / Artigo / Art. / Artikel / Articolo / Article / Điều / Thrust: "ARTÍCULO 1. Objeto...", "Art. 1º ...", "Artikel 1", "Article 1er", "Article 7-1"
+    (re.compile(r"^((?:Art[ií]culo|Artigo|Artikel|Articolo|Article|Art\.|Điều|Thrust\s*#?)\s*(?:[LRD]\.?\s*)?\d+(?:er|[A-Za-z])?(?:[\.\-]\d+[A-Za-z]*)*[º°]?)\s*[:\.\-–—]?\s*(.*)$", re.IGNORECASE), "section_word"),
     # Strategic Objective 1.1 / Objective 1.1 / Objective 2a / Implementation 6.1 / Línea Estratégica 1.1
     (re.compile(r"^((?:Strategic\s+)?Objective\s+\d+[a-z]?(?:\.\d+)*|Implementation\s+\d+(?:\.\d+)*|L[ií]nea\s+Estrat[eé]gica\s+\d+(?:\.\d+)*)\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "objective"),
     # Initiative 1.1.1 / Eylem 1.1: Title
@@ -60,8 +64,8 @@ ID_PATTERNS = [
     (re.compile(r"^((?:Goal|Objetivo|(?:Strategic\s+)?Priority|Stratejik\s+Öncelik|L[ií]nea\s+de\s+acci[oó]n|Line\s+of\s+action|Principle|Recommendation|Finding)\s+(?:[IVXLCDM]+|\d+(?:\.\d+)*))\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "goal"),
     # Annex / Appendix / Schedule A / 1 / I: Title
     (re.compile(r"^((?:Annex|Annexe|Anexo|Anhang|Bijlage|Appendix|Schedule)\s+(?:[A-Z]|\d+|[IVXLCDM]+))\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "annex"),
-    # Standalone identifiers without trailing title (e.g., "Principle 1", "Appendix A", "Section 2-501", "附則", "附則（...）")
-    (re.compile(r"^(附則(?:（[^）]+）)?|(?:Division|Title|Subtitle|Subchapter|Pillar|Pilier|Pilar|Pijler|Part|Partie|Parte|Teil|Chapter|Chapitre|Cap[ií]tulo|Kapitel|Глава|Раздел|Розділ|Section|Sec\.|Article|Art[ií]culo|Annex|Appendix|Schedule|Principle|Goal|Objetivo|(?:Strategic\s+)?Priority|Stratejik\s+Öncelik|L[ií]nea\s+de\s+acci[oó]n|Line\s+of\s+action|Objective|Finding|Recommendation|(?:附則(?:（[^）]+）)?\s*)?第[一二三四五六七八九十百千0-9０-９]+[章篇编部編节節条條](?:の[一二三四五六七八九十0-9０-９]+)?)\s*(?:[IVXLCDM]+|\([ivxlcdm]+\)|\d+[A-Za-z]?(?:[\.\-–]\d+[A-Za-z]?)*|\(\d+\)|[A-Z]|One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten)?)\.?$", re.IGNORECASE), "standalone_id"),
+    # Standalone identifiers without trailing title (e.g., "Principle 1", "Appendix A", "Section 2-501", "17940.", "1367.01.", "§ 1", "附則", "附則（...）")
+    (re.compile(r"^(§+\s*\d+[\dA-Za-z\.\-]*|\d{3,5}[A-Za-z]?(?:\.\d+(?:\.\d+)?)?|附則(?:（[^）]+）)?|(?:Division|Title|Titre|Subtitle|Subchapter|Pillar|Pilier|Pilar|Pijler|Part|Partie|Parte|Teil|Chapter|Chapitre|Cap[ií]tulo|Kapitel|Глава|Раздел|Розділ|Section|Sec\.|Article|Art[ií]culo|Artigo|Art\.|Annex|Appendix|Schedule|Principle|Goal|Objetivo|(?:Strategic\s+)?Priority|Stratejik\s+Öncelik|L[ií]nea\s+de\s+acci[oó]n|Line\s+of\s+action|Objective|Finding|Recommendation|(?:附則(?:（[^）]+）)?\s*)?第[一二三四五六七八九十百千0-9０-９]+[章篇编部編节節条條](?:[のノ之\-][一二三四五六七八九十百千0-9０-９]+)*)\s*(?:[IVXLCDM]+(?:er)?|\([ivxlcdm]+\)|(?:[LRD]\.?\s*)?\d+(?:er|[A-Za-z])?(?:[\.\-–]\d+[A-Za-z]?)*[º°]?|\(\d+\)|[A-Z]|One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten)?)\.?$", re.IGNORECASE), "standalone_id"),
     # Roman-numeral dotted subsection: "I.1 Title" / "II.10 Title"
     (re.compile(r"^([IVX]{1,4}\.\d{1,2})\.?\s*[:\-–—]?\s+(.+)$"), "numbered"),
     # Roman numeral section: "I. Introduction" / "II. Our Vision" / "I Purpose" / "II Japan's National Interests"
@@ -86,6 +90,7 @@ def clean_heading_text(s: str) -> str:
     s = s.translate(_UNICODE_ROMAN_MAP)
     s = re.sub(r"<a id=\"[^\"]*\"></a>", "", s)
     s = re.sub(r"<span[^>]*>([^<]*)</span>", r"\1", s)
+    s = re.sub(r"\[([^\]]+)\]\([^)]*\)", r"\1", s)
     s = re.sub(r"\*\*([^*]+)\*\*", r"\1", s)
     s = re.sub(r"\*([^*]+)\*", r"\1", s)
     s = re.sub(r"\\([_*\[\]\(\)])", r"\1", s)
@@ -104,7 +109,7 @@ def parse_heading(text: str):
         m = pat.match(cleaned)
         if m:
             if m.lastindex and m.lastindex >= 2:
-                title_part = m.group(2).strip()
+                title_part = (m.group(2) or "").strip()
                 has_delim = bool(re.match(r"^" + re.escape(m.group(1)) + r"\s*[:\.\-–—]+", cleaned))
                 if not has_delim and title_part and re.match(r"^[a-z]", title_part):
                     continue
@@ -117,7 +122,9 @@ def parse_heading(text: str):
             sid_val = m.group(1).rstrip(".")
             if kind == "standalone_id":
                 low_sid = sid_val.lower()
-                if re.match(r"^(?:section|sec\.|article|art[ií]culo)\b", low_sid) or re.search(r"[条條](?:の[一二三四五六七八九十0-9０-９]+)?$", sid_val):
+                if re.match(r"^(?:§+|\d{3,5})", low_sid):
+                    kind = "statute"
+                elif re.match(r"^(?:section|sec\.|article|art[ií]culo|artigo|art\.)\b", low_sid) or re.search(r"[条條](?:[のノ之\-][一二三四五六七八九十百千0-9０-９]+)*$", sid_val):
                     kind = "section_word"
                 elif re.match(r"^(?:subchapter|chapter|chapitre|cap[ií]tulo|kapitel|глава)\b", low_sid) or sid_val.startswith("附則") or re.search(r"[章篇编部編]$", sid_val):
                     kind = "chapter"
@@ -419,12 +426,19 @@ def main():
         id_counts2 = Counter(r["section_id"] for r in rows if r["section_id"])
         still_dup2 = {sid for sid, cnt in id_counts2.items() if cnt > 1}
         if still_dup2:
+            used_ids = {r["section_id"] for r in rows if r["section_id"] and r["section_id"] not in still_dup2}
             seen_occ: dict[str, int] = {}
             for r in rows:
                 sid = r["section_id"]
                 if sid in still_dup2:
-                    seen_occ[sid] = seen_occ.get(sid, 0) + 1
-                    r["section_id"] = f"{sid} ({seen_occ[sid]})"
+                    occ = seen_occ.get(sid, 0) + 1
+                    cand = f"{sid} ({occ})"
+                    while cand in used_ids or cand in still_dup2:
+                        occ += 1
+                        cand = f"{sid} ({occ})"
+                    seen_occ[sid] = occ
+                    used_ids.add(cand)
+                    r["section_id"] = cand
             for r in rows:
                 if r["_parent_row_idx"] is not None:
                     r["parent_id"] = rows[r["_parent_row_idx"]]["section_id"]

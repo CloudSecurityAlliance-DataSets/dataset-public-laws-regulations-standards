@@ -1342,8 +1342,13 @@ def _decompress_and_validate_bytes(data: bytes) -> bytes:
             data = gzip.decompress(data)
         except Exception:
             return b""
-    is_pdf = data[:5] == b"%PDF-" or b"%PDF-1." in data[:1024]
-    if not is_pdf and b"\x00" in data:
+    is_binary_or_utf16 = (
+        data[:5] == b"%PDF-"
+        or b"%PDF-1." in data[:1024]
+        or data[:4] == b"PK\x03\x04"
+        or data[:2] in (b"\xff\xfe", b"\xfe\xff")
+    )
+    if not is_binary_or_utf16 and b"\x00" in data:
         return b""
     return data
 
