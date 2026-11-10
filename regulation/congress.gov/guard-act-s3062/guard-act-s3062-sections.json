@@ -1,0 +1,178 @@
+[
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "Guidelines for User Age-verification and Responsible Dialogue Act of 2025",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "[Congressional Bills 119th Congress]\n[From the U.S. Government Publishing Office]\n[S. 3062 Introduced in Senate (IS)]\n\n<DOC>\n\n119th CONGRESS\n  1st Session\n                                S. 3062\n\n     To require artificial intelligence chatbots to implement age\n   verification measures and make certain disclosures, and for other\n                               purposes.\n\n_______________________________________________________________________\n\n                   IN THE SENATE OF THE UNITED STATES\n\n                            October 28, 2025\n\n Mr. Hawley (for himself, Mr. Blumenthal, Mrs. Britt, Mr. Warner, Mr.\n Murphy, and Mr. Kelly) introduced the following bill; which was read\n          twice and referred to the Committee on the Judiciary\n\n_______________________________________________________________________\n\n                                 A BILL\n\n     To require artificial intelligence chatbots to implement age\n   verification measures and make certain disclosures, and for other\n                               purposes.\n\n    Be it enacted by the Senate and House of Representatives of the\nUnited States of America in Congress assembled,"
+  },
+  {
+    "depth": 4,
+    "section_id": "SECTION 1",
+    "section_name": "SHORT TITLE.",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "This Act may be cited as the ``Guidelines for User Age-verification\nand Responsible Dialogue Act of 2025'' or the ``GUARD Act''."
+  },
+  {
+    "depth": 4,
+    "section_id": "SEC. 2",
+    "section_name": "FINDINGS.",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "Congress finds the following:\n            (1) Artificial intelligence chatbots are increasingly being\n        deployed on social media platforms and in consumer applications\n        used by minors.\n            (2) These chatbots can generate and disseminate harmful or\n        sexually explicit content to children.\n            (3) These chatbots can manipulate emotions and influence\n        behavior in ways that exploit the developmental vulnerabilities\n        of minors.\n            (4) The widespread availability of such chatbots exposes\n        children to physical and psychological safety risks, including\n        grooming, addiction, self-harm, and harm to others."
+  },
+  {
+    "depth": 3,
+    "section_id": "(5) (1)",
+    "section_name": "Protecting children from artificial intelligence",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "chatbots that simulate human interaction without accountability\n        is a compelling governmental interest."
+  },
+  {
+    "depth": 4,
+    "section_id": "SEC. 3",
+    "section_name": "DEFINITIONS.",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "In this Act:"
+  },
+  {
+    "depth": 3,
+    "section_id": "(1) (1)",
+    "section_name": "AI companion.--The term ``AI companion'' means an",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "artificial intelligence chatbot that--\n                    (A) provides adaptive, human-like responses to user\n                inputs; and\n                    (B) is designed to encourage or facilitate the\n                simulation of interpersonal or emotional interaction,\n                friendship, companionship, or therapeutic\n                communication.\n            (2) Artificial intelligence chatbot.--The term ``artificial\n        intelligence chatbot''--\n                    (A) means any interactive computer service or\n                software application that--\n                            (i) produces new expressive content or\n                        responses not fully predetermined by the\n                        developer or operator of the service or\n                        application; and\n                            (ii) accepts open-ended natural-language or\n                        multimodal user input and produces adaptive or\n                        context-responsive output; and\n                    (B) does not include an interactive computer\n                service or software application--\n                            (i) the responses of which are limited to\n                        contextualized replies; and\n                            (ii) that is unable to respond on a range\n                        of topics outside of a narrow specified\n                        purpose.\n            (3) Covered entity.--The term ``covered entity'' means any\n        person who owns, operates, or otherwise makes available an\n        artificial intelligence chatbot to individuals in the United\n        States.\n            (4) Minor.--The term ``minor'' means any individual who has\n        not attained 18 years of age."
+  },
+  {
+    "depth": 3,
+    "section_id": "(5) (2)",
+    "section_name": "Reasonable age verification measure.--The term",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "``reasonable age verification measure'' means a method that is\n        authenticated to relate to a user of an artificial intelligence\n        chatbot, such as--\n                    (A) a government-issued identification; or\n                    (B) any other commercially reasonable method that\n                can reliably and accurately--\n                            (i) determine whether a user is an adult;\n                        and\n                            (ii) prevent access by minors to AI\n                        companions, as required by section 6."
+  },
+  {
+    "depth": 3,
+    "section_id": "(6)",
+    "section_name": "Reasonable age verification process.--The term",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "``reasonable age verification process'' means an age\n        verification process employed by a covered entity that--\n                    (A) uses one or more reasonable age verification\n                measures in order to verify the age of a user of an\n                artificial intelligence chatbot owned, operated, or\n                otherwise made available by the covered entity;\n                    (B) provides that requiring a user to confirm that\n                the user is not a minor, or to insert the user's birth\n                date, is not sufficient to constitute a reasonable age\n                verification measure;\n                    (C) ensures that each user is subjected to each\n                reasonable age verification measure used by the covered\n                entity as part of the age verification process; and\n                    (D) does not base verification of a user's age on\n                factors such as whether the user shares an Internet\n                Protocol address, hardware identifier, or other\n                technical indicator with another user determined to not\n                be a minor."
+  },
+  {
+    "depth": 4,
+    "section_id": "SEC. 4",
+    "section_name": "CRIMINAL PROHIBITIONS.",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "(a) In General.--Part I of title 18, United States Code, is amended\nby inserting after chapter 5 the following:\n\n                  ``CHAPTER 6--ARTIFICIAL INTELLIGENCE\n\n``Sec.\n``91. Artificial intelligence chatbots.\n``Sec. 91. Artificial intelligence chatbots\n    ``(a) Definitions.--In this section:\n            ``(1) Artificial intelligence chatbot.--The term\n        `artificial intelligence chatbot'--\n                    ``(A) means any interactive computer service or\n                software application that--\n                            ``(i) produces new expressive content or\n                        responses not fully predetermined by the\n                        developer or operator of the service or\n                        application; and\n                            ``(ii) accepts open-ended natural-language\n                        or multimodal user input and produces adaptive\n                        or context-responsive output; and\n                    ``(B) does not include an interactive computer\n                service or software application--\n                            ``(i) the responses of which are limited to\n                        contextualized replies; and\n                            ``(ii) that is unable to respond on a range\n                        of topics outside of a narrow specified\n                        purpose.\n            ``(2) Minor.--The term `minor' means any individual who has\n        not attained 18 years of age.\n            ``(3) Sexually explicit conduct.--The term `sexually\n        explicit conduct' has the meaning given the term in section\n        2256.\n    ``(b) Solicitation of Minors.--\n            ``(1) Offense.--It shall be unlawful to design, develop, or\n        make available an artificial intelligence chatbot, knowing or\n        with reckless disregard for the fact that the artificial\n        intelligence chatbot poses a risk of soliciting, encouraging,\n        or inducing minors to--\n                    ``(A) engage in, describe, or simulate sexually\n                explicit conduct; or\n                    ``(B) create or transmit any visual depiction of\n                sexually explicit conduct, including any visual\n                depiction described in section 1466A(a).\n            ``(2) Penalty.--Any person who violates paragraph (1) shall\n        be fined not more than $100,000 per offense.\n    ``(c) Promotion of Physical Violence.--\n            ``(1) Offense.--It shall be unlawful to design, develop, or\n        make available an artificial intelligence chatbot, knowing or\n        with reckless disregard for the fact that the artificial\n        intelligence chatbot encourages, promotes, or coerces suicide,\n        non-suicidal self-injury, or imminent physical or sexual\n        violence.\n            ``(2) Penalty.--Any person who violates paragraph (1) shall\n        be fined not more than $100,000 per offense.''.\n    (b) Technical and Conforming Amendment.--The table of chapters for\npart I of title 18, United States Code, is amended by inserting after\nthe item relating to chapter 5 the following:\n\n``6. Artificial intelligence................................      91''."
+  },
+  {
+    "depth": 4,
+    "section_id": "SEC. 5",
+    "section_name": "COVERED ENTITY OBLIGATIONS.",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "(a) Creation of User Accounts.--A covered entity shall require each\nindividual accessing an artificial intelligence chatbot to make a user\naccount in order to use or otherwise interact with such chatbot.\n    (b) Age Verification.--\n            (1) Age verification of existing accounts.--With respect to\n        each user account of an artificial intelligence chatbot that\n        exists as of the effective date of this Act, a covered entity\n        shall--\n                    (A) on such date, freeze any such account;\n                    (B) in order to restore the functionality of such\n                account, require that the user provide age data that is\n                verifiable using a reasonable age verification process,\n                subject to paragraph (4); and\n                    (C) using such age data, classify each user as a\n                minor or an adult."
+  },
+  {
+    "depth": 3,
+    "section_id": "(2) (1)",
+    "section_name": "Age verification of new accounts.--At the time an",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "individual creates a new user account to use or interact with\n        an artificial intelligence chatbot, a covered entity shall--\n                    (A) request age data from the individual;\n                    (B) verify the individual's age using a reasonable\n                age verification process, subject to paragraph (4); and\n                    (C) using such age data, classify each user as a\n                minor or an adult."
+  },
+  {
+    "depth": 3,
+    "section_id": "(3)",
+    "section_name": "Periodic age verification.--A covered entity shall",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "periodically review previously verified user accounts using a\n        reasonable age verification process, subject to paragraph (4),\n        to ensure compliance with this Act."
+  },
+  {
+    "depth": 3,
+    "section_id": "(4)",
+    "section_name": "Use of third parties.--For purposes of paragraphs",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "(1)(B), (2)(B), and (3), a covered entity may contract with a\n        third party to employ reasonable age verification measures as\n        part of the covered entity's reasonable age verification\n        process, but the use of such a third party shall not relieve\n        the covered entity of its obligations under this Act or from\n        liability under this Act."
+  },
+  {
+    "depth": 3,
+    "section_id": "(5) (3)",
+    "section_name": "Age verification measure data security.--A covered",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "entity--\n                    (A) shall establish, implement, and maintain\n                reasonable data security to--\n                            (i) limit collection of personal data to\n                        that which is minimally necessary to verify a\n                        user's age or maintain compliance with this\n                        Act; and\n                            (ii) protect such age verification data\n                        against unauthorized access;\n                    (B) shall protect such age verification data\n                against unauthorized access;\n                    (C) shall protect the integrity and confidentiality\n                of such data by only transmitting such data using\n                industry-standard encryption protocols;\n                    (D) shall retain such data for no longer than is\n                reasonably necessary to verify a user's age or maintain\n                compliance with this Act; and\n                    (E) may not share with, transfer to, or sell to,\n                any other entity such data.\n    (c) Required Disclosures for Artificial Intelligence Chatbots.--"
+  },
+  {
+    "depth": 3,
+    "section_id": "(1) (2)",
+    "section_name": "Disclosure of non-human status.--Each artificial",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "intelligence chatbot made available to users shall--\n                    (A) at the initiation of each conversation with a\n                user and at 30-minute intervals, clearly and\n                conspicuously disclose to the user that the chatbot is\n                an artificial intelligence system and not a human\n                being; and\n                    (B) be programmed to ensure that the chatbot does\n                not claim to be a human being or otherwise respond\n                deceptively when asked by a user if the chatbot is a\n                human being."
+  },
+  {
+    "depth": 3,
+    "section_id": "(2) (2)",
+    "section_name": "Disclosure regarding non-professional status.--",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "(A) In general.--An artificial intelligence chatbot\n                may not represent, directly or indirectly, that the\n                chatbot is a licensed professional, including a\n                therapist, physician, lawyer, financial advisor, or\n                other professional.\n                    (B) Other limitations.--Each artificial\n                intelligence chatbot made available to users shall, at\n                the initiation of each conversation with a user and at\n                reasonably regular intervals, clearly and conspicuously\n                disclose to the user that--\n                            (i) the chatbot does not provide medical,\n                        legal, financial, or psychological services;\n                        and\n                            (ii) users of the chatbot should consult a\n                        licensed professional for such advice."
+  },
+  {
+    "depth": 4,
+    "section_id": "SEC. 6",
+    "section_name": "PROHIBITION ON MINOR USE OF AI COMPANIONS.",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "If the age verification process described in section 5(b)\ndetermines that an individual is a minor, a covered entity shall\nprohibit the minor from accessing or using any AI companion owned,\noperated, or otherwise made available by the covered entity."
+  },
+  {
+    "depth": 4,
+    "section_id": "SEC. 7",
+    "section_name": "ENFORCEMENT.",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "(a) In General.--In the case of a violation of section 5 or 6, or a\nregulation promulgated thereunder, the Attorney General may bring a\ncivil action in an appropriate district court of the United States to--"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "(1) enjoin the violation;",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "(2) enforce compliance with section 5 or 6, or the",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "regulation promulgated thereunder; or\n            (3) obtain civil penalties under subsection (c) of this\n        section, restitution, and other appropriate relief.\n    (b) Attorney General Powers.--\n            (1) Investigatory powers.--For the purpose of conducting\n        investigations or bringing enforcement actions under this\n        section, the Attorney General may issue subpoenas, administer\n        oaths, and compel the production of documents or testimony.\n            (2) Rulemaking.--The Attorney General may promulgate any\n        regulations necessary to carry out this Act.\n    (c) Civil Penalties.--\n            (1) In general.--Any person who violates section 5 or 6, or\n        a regulation promulgated thereunder, shall be subject to a\n        civil penalty not to exceed $100,000 for each violation."
+  },
+  {
+    "depth": 3,
+    "section_id": "(2) (3)",
+    "section_name": "Separate violations.--Each violation described in",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "paragraph (1) shall be considered a separate violation.\n    (d) State Enforcement.--In any case in which the attorney general\nof a State has reason to believe that an interest of the residents of\nthat State has been or is threatened or adversely affected by the\nengagement of any covered entity in a violation of this Act or a\nregulation promulgated thereunder, the State, as parens patriae, may\nbring a civil action on behalf of the residents of the State in a\ndistrict court of the United States or a State court of appropriate\njurisdiction to obtain injunctive relief.\n    (e) Relationship to State Laws.--Nothing in this Act or an\namendment made by this Act, or any regulation promulgated thereunder,\nshall be construed to prohibit or otherwise affect the enforcement of\nany State law or regulation that is at least as protective of users of\nartificial intelligence chatbots as this Act and the amendments made by\nthis Act, and the regulations promulgated thereunder."
+  },
+  {
+    "depth": 4,
+    "section_id": "SEC. 8",
+    "section_name": "EFFECTIVE DATE.",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "This Act and the amendments made by this Act shall take effect on\nthe date that is 180 days after the date of enactment of this Act.\n                                 <all>"
+  }
+]

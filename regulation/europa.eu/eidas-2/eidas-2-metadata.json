@@ -1,0 +1,63 @@
+{
+  "secid": "secid:regulation/europa.eu/eidas-2",
+  "name": "Revised eIDAS Regulation establishing the European Digital Identity Wallet",
+  "acronym": "eIDAS 2",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "eidas-2",
+  "owner": "European Union",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Updates eIDAS to mandate the EU Digital Identity Wallet (EUDI Wallet) — a sovereign cross-border digital-identity wallet for citizens, residents, and businesses. Member states must offer at least one notified wallet by November 2026.",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by European Union (europa.eu) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within European Union (europa.eu).",
+  "license": {
+    "spdx": "LicenseRef-EU-Reuse-Decision-2011-833",
+    "Grouping": "Permissive",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
+    "publicly_redistributable": true,
+    "license_text_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011D0833",
+    "note": "European Union official publication (europa.eu); reuse authorized with attribution under Commission Decision 2011/833/EU.",
+    "notes": "European Union official publication (europa.eu); reuse authorized with attribution under Commission Decision 2011/833/EU."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1183",
+    "textUsed": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1183",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2020-01-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official regulation (https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1183) to Markdown (244,457 chars). Parsed 13 sections (11 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  }
+}

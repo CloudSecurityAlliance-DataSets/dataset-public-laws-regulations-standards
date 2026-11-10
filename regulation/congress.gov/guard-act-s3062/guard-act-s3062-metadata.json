@@ -1,0 +1,63 @@
+{
+  "secid": "secid:regulation/congress.gov/guard-act-s3062",
+  "name": "Guidelines for User Age-verification and Responsible Dialogue Act of 2025",
+  "acronym": "GUARD Act (S.3062)",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "guard-act-s3062",
+  "owner": "United States Congress",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Proposed US federal bipartisan legislation restricting AI companion chatbots for minors, mandating periodic non-human disclosures (at least every 30 minutes), prohibiting chatbots from claiming to be human or licensed mental health professionals, and establishing criminal penalties for designing AI companions that solicit sexually explicit content or encourage self-harm/suicide in minors.",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by United States Congress (congress.gov) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within United States Congress (congress.gov).",
+  "license": {
+    "spdx": "CC0-1.0",
+    "Grouping": "Public Domain",
+    "redistribution": "yes",
+    "derivatives": "yes",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.usa.gov/government-works",
+    "note": "United States Government work (17 U.S.C. § 105); in the public domain worldwide.",
+    "notes": "United States Government work (17 U.S.C. § 105); in the public domain worldwide."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.congress.gov/bill/119th-congress/senate-bill/3062",
+    "textUsed": "https://www.govinfo.gov/content/pkg/BILLS-119s3062is/html/BILLS-119s3062is.htm",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2020-01-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official regulation (https://www.govinfo.gov/content/pkg/BILLS-119s3062is/html/BILLS-119s3062is.htm) to Markdown (16,896 chars). Parsed 22 sections (19 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  }
+}

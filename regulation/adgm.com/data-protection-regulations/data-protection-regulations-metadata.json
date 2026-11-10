@@ -1,0 +1,63 @@
+{
+  "secid": "secid:regulation/adgm.com/data-protection-regulations",
+  "name": "ADGM Data Protection Regulations 2021",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "data-protection-regulations",
+  "owner": "Abu Dhabi Global Market",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "ADGM Data Protection Regulations 2021",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by Abu Dhabi Global Market (adgm.com) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within Abu Dhabi Global Market (adgm.com).",
+  "license": {
+    "spdx": "LicenseRef-Government-Work",
+    "Grouping": "Government-Work",
+    "redistribution": "permitted_for_reference",
+    "derivatives": "varies_by_jurisdiction",
+    "publicly_redistributable": true,
+    "license_text_url": "https://adgm.com/",
+    "note": "Official national strategy publication (adgm.com); publicly released for free download, policy reference, and research.",
+    "notes": "Official national strategy publication (adgm.com); publicly released for free download, policy reference, and research."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.adgm.com/operating-in-adgm/office-of-data-protection",
+    "textUsed": "https://assets.adgm.com/download/assets/ADGM+Brand+Book_2025.pdf/8dcd54d6356111f0aef28a0f7419fcea",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2020-01-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official regulation (https://assets.adgm.com/download/assets/ADGM+Brand+Book_2025.pdf/8dcd54d6356111f0aef28a0f7419fcea) to Markdown (6,811 chars). Parsed 37 sections (8 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  }
+}

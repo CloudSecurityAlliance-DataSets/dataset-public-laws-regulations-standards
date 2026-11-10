@@ -1,0 +1,63 @@
+{
+  "secid": "secid:regulation/planalto.gov.br/marco-civil",
+  "name": "Marco Civil da Internet",
+  "acronym": "Marco Civil",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "marco-civil",
+  "owner": "Presidência da República do Brasil",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Brazil's foundational internet-rights law, sanctioned April 23, 2014 -- often called the 'Constitution of the Internet.' Establishes net neutrality, freedom of expression online, and privacy/personal-data protection principles predating the LGPD (secid:regulation/planalto.gov.br/lgpd). Regulated further by Decreto 8.771/2016.",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by Presidência da República do Brasil (planalto.gov.br) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within Presidência da República do Brasil (planalto.gov.br).",
+  "license": {
+    "spdx": "LicenseRef-BR-Law9610-Art8-IV",
+    "Grouping": "Public Domain",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.planalto.gov.br/ccivil_03/leis/l9610.htm",
+    "note": "Official publication (planalto.gov.br); Brazilian Copyright Law (Lei nº 9.610, de 19 de fevereiro de 1998) Art. 8º(IV) (texts of treaties, laws, decrees, regulations, judicial decisions, and other official acts are not objects of copyright protection) and Federal Open Data Policy (Decreto nº 8.777/2016).",
+    "notes": "Official publication (planalto.gov.br); Brazilian Copyright Law (Lei nº 9.610, de 19 de fevereiro de 1998) Art. 8º(IV) (texts of treaties, laws, decrees, regulations, judicial decisions, and other official acts are not objects of copyright protection) and Federal Open Data Policy (Decreto nº 8.777/2016)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm",
+    "textUsed": "https://web.archive.org/web/20261024084637id_/https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2020-01-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official regulation (https://web.archive.org/web/20261024084637id_/https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l12965.htm) to Markdown (65,416 chars). Parsed 41 sections (35 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  }
+}

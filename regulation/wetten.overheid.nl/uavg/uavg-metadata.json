@@ -1,0 +1,63 @@
+{
+  "secid": "secid:regulation/wetten.overheid.nl/uavg",
+  "name": "Uitvoeringswet Algemene verordening gegevensbescherming (UAVG)",
+  "acronym": "UAVG",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "uavg",
+  "owner": "Wetten.overheid.nl",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Dutch GDPR Implementation Act. Enforced by Autoriteit Persoonsgegevens.",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by Wetten.overheid.nl (wetten.overheid.nl) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within Wetten.overheid.nl (wetten.overheid.nl).",
+  "license": {
+    "spdx": "CC0-1.0",
+    "Grouping": "Public Domain",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://wetten.overheid.nl/BWBR0001886/",
+    "note": "Official publication (wetten.overheid.nl); Dutch Copyright Act (Auteurswet) Art. 11 & Art. 15b (no copyright in laws, decrees, or public works made generally available by public authorities without an explicit reservation of copyright; Rijksoverheid CC0 1.0).",
+    "notes": "Official publication (wetten.overheid.nl); Dutch Copyright Act (Auteurswet) Art. 11 & Art. 15b (no copyright in laws, decrees, or public works made generally available by public authorities without an explicit reservation of copyright; Rijksoverheid CC0 1.0)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://wetten.overheid.nl/BWBR0040940",
+    "textUsed": "https://wetten.overheid.nl/BWBR0040940/2026-09-01",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2020-01-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official regulation (https://wetten.overheid.nl/BWBR0040940/2026-09-01) to Markdown (130,852 chars). Parsed 76 sections (68 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  }
+}

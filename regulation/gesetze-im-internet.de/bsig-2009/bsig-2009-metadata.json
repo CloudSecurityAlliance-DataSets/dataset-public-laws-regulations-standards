@@ -1,0 +1,48 @@
+{
+  "secid": "secid:regulation/gesetze-im-internet.de/bsig-2009",
+  "name": "Gesetz über das Bundesamt für Sicherheit in der Informationstechnik (BSI-Gesetz — BSIG 2009)",
+  "acronym": "BSIG 2009",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "bsig-2009",
+  "owner": "Bundesministerium der Justiz / Juris",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Historical 2009 BSI Act (including §§ 8a/8b critical-infrastructure obligations added by IT-Sicherheitsgesetz 1.0 and 2.0), superseded on 6 December 2025 by the recast BSIG 2025 enacted via NIS2UmsuCG.",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by Bundesministerium der Justiz / Juris (gesetze-im-internet.de) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within Bundesministerium der Justiz / Juris (gesetze-im-internet.de).",
+  "license": {
+    "spdx": "LicenseRef-Government-Work",
+    "Grouping": "Government-Work",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": true,
+    "license_text_url": "https://gesetze-im-internet.de/",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document for gesetze-im-internet.de is acquired and verified against jurisdiction copyright terms). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document for gesetze-im-internet.de is acquired and verified against jurisdiction copyright terms). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.bsi.bund.de/EN/Das-BSI/Auftrag/Gesetze-und-Verordnungen/gesetze-und-verordnungen_node.html",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2020-01-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:regulation/gesetze-im-internet.de/bsig-2009 (https://www.bsi.bund.de/EN/Das-BSI/Auftrag/Gesetze-und-Verordnungen/gesetze-und-verordnungen_node.html) is not directly downloadable (upstream portal root URL only, SPA/WAF barrier, or pending publication); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

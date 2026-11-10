@@ -1,0 +1,63 @@
+{
+  "secid": "secid:regulation/texas.gov/hb-149",
+  "name": "Texas HB 149 — Texas Responsible Artificial Intelligence Governance Act (TRAIGA, Business & Commerce Code Subtitle D, enacted June 22, 2025, effective Jan 1, 2026)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "hb-149",
+  "owner": "State of Texas",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Texas HB 149 — Texas Responsible Artificial Intelligence Governance Act (TRAIGA, Business & Commerce Code Subtitle D, enacted June 22, 2025, effective Jan 1, 2026)",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by State of Texas (texas.gov) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within State of Texas (texas.gov).",
+  "license": {
+    "spdx": "CC0-1.0",
+    "Grouping": "Public Domain",
+    "redistribution": "yes",
+    "derivatives": "yes",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.usa.gov/government-works",
+    "note": "United States Government work (17 U.S.C. § 105); in the public domain worldwide.",
+    "notes": "United States Government work (17 U.S.C. § 105); in the public domain worldwide."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB149",
+    "textUsed": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB00149I.htm",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2020-01-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official regulation (https://capitol.texas.gov/tlodocs/89R/billtext/html/HB00149I.htm) to Markdown (35,520 chars). Parsed 49 sections (23 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  }
+}

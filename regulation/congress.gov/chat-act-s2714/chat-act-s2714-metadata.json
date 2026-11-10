@@ -1,0 +1,63 @@
+{
+  "secid": "secid:regulation/congress.gov/chat-act-s2714",
+  "name": "Children Harmed by AI Technology Act of 2025",
+  "acronym": "CHAT Act (S.2714)",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "chat-act-s2714",
+  "owner": "United States Congress",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Proposed US federal bipartisan legislation requiring AI companion chatbot operators to implement age verification, obtain verifiable parental consent for minor accounts, display pop-up disclosures that the companion is not human, and block sexually explicit or self-harm/suicide content for minor users, enforced by the FTC and state attorneys general.",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by United States Congress (congress.gov) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within United States Congress (congress.gov).",
+  "license": {
+    "spdx": "CC0-1.0",
+    "Grouping": "Public Domain",
+    "redistribution": "yes",
+    "derivatives": "yes",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.usa.gov/government-works",
+    "note": "United States Government work (17 U.S.C. § 105); in the public domain worldwide.",
+    "notes": "United States Government work (17 U.S.C. § 105); in the public domain worldwide."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.congress.gov/bill/119th-congress/senate-bill/2714",
+    "textUsed": "https://www.govinfo.gov/content/pkg/BILLS-119s2714is/html/BILLS-119s2714is.htm",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2020-01-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official regulation (https://www.govinfo.gov/content/pkg/BILLS-119s2714is/html/BILLS-119s2714is.htm) to Markdown (14,073 chars). Parsed 17 sections (15 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  }
+}

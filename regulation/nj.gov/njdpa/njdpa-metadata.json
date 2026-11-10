@@ -1,0 +1,48 @@
+{
+  "secid": "secid:regulation/nj.gov/njdpa",
+  "name": "New Jersey Data Privacy Act",
+  "acronym": "NJDPA",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "njdpa",
+  "owner": "State of New Jersey",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "New Jersey's comprehensive consumer privacy law. SB/S332 (2024), signed January 16 2024, effective January 15 2025.",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by State of New Jersey (nj.gov) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within State of New Jersey (nj.gov).",
+  "license": {
+    "spdx": "CC0-1.0",
+    "Grouping": "Public Domain",
+    "redistribution": "yes",
+    "derivatives": "yes",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.usa.gov/government-works",
+    "note": "United States Government work (17 U.S.C. § 105); in the public domain worldwide.",
+    "notes": "United States Government work (17 U.S.C. § 105); in the public domain worldwide."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.njleg.state.nj.us/bill-search/2022/S332/bill-text?f=S0500&n=332_R6",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2020-01-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:regulation/nj.gov/njdpa (https://www.njleg.state.nj.us/bill-search/2022/S332/bill-text?f=S0500&n=332_R6) is not directly downloadable (upstream portal root URL only, SPA/WAF barrier, or pending publication); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

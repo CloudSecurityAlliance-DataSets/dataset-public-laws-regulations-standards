@@ -1,0 +1,562 @@
+[
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "UAE Federal Decree-Law No. 45 of 2021 on the Protection of Personal Data",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Federal Decree by Law No. (45) of 2021",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Concerning the Protection of Personal Data",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "We, Khalifa Bin Zayed Al Nahyan, President of the United Arab Emirates,\n\nHaving reviewed the Constitution; and\n\n− Federal Law No. (1) of 1972 concerning the Competences of Ministries and the Powers of\n\nMinisters, and any amendments thereto; and\n\n− Federal Decree by Law No. (3) of 2003 on Regulating the Telecommunications Sector, as\n\namended; and\n\n− Federal Law No. (6) of 2010 on Credit Information, as amended; and\n\n− Federal Law No. (14) of 2016 on Administrative Violations and Penalties in the Federal\n\nGovernment; and\n\n− Federal Law No. (2) of 2019 on the Use of Information and Communication Technology\n\nin the Health Fields; and\n\n− Federal Decree by Law No. (14) of 2018 on the Central Bank and Regulation of Financial\n\nInstitutions and Activities, and any amendments thereof; and\n\n− Federal Decree by Law No. (44) of 2021 on the Establishment of the UAE Data Office; and\n\n− Pursuant to what was presented by the Minister of Cabinet Affairs, and the approval of\n\nthe Council of Ministers,\n\nhave promulgated the following Decree by Law:"
+  },
+  {
+    "depth": 3,
+    "section_id": "Article (1)",
+    "section_name": "Article (1)",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Definitions",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "In application of the provisions of this Decree by Law, the following words and phrases shall have\n\nthe meanings assigned to each of them, unless the context otherwise requires:\n\nState : The United Arab Emirates\n\n: The UAE Data Bureau established under the aforementioned\n\nOffice\n\nFederal Decree by Law No. (44) of 2021\n\n: An organized or unorganized set of data, facts, concepts,\n\nData\n\ninstructions, observations or measurements in the form of\n\nnumbers, letters, words, symbols, images, videos, signs, sounds,\n\nmaps or any other form. It is interpreted, exchanged or processed\n\nby individuals or computers. It includes information wherever it\n\nappears herein.\n\n: Any data related to a specific natural person or related to a natural\n\nPersonal Data\n\nperson that can be identified directly or indirectly by linking the\n\ndata, through the use of identification elements such as his/her\n\nname, voice, image, identification number, his/her electronic\n\nidentifier, his/her geographical location, or by one or more\n\nphysical, physiological, economic, cultural or social characteristics.\n\nIt includes Sensitive Personal Data and Biometric Data\n\n: Any data which directly or indirectly reveals a natural person's\n\nSensitive Personal\n\nfamily, ethnic origin, political or philosophical opinions, religious\n\nData\n\nbeliefs, criminal record, biometric data, or any data relating to such\n\nperson's health and physical, psychological, mental, genetic or\n\nsexual condition, including information related to the provision of\n\nhealthcare services to him/her which reveals his/her health status\n\n: Personal Data resulting from processing using a specific\n\nBiometric Data\n\ntechnology related to the physical, physiological or behavioral\n\ncharacteristics of the Data Subject, which allows the identification\n\nor confirmation of the unique identification of the Data Subject,\n\nsuch as facial images or fingerprints\n\nData Subject : A Natural Person who is the subject of Personal Data\n\n: Any individual company or establishment located inside or outside\n\nEstablishment\n\nthe State, including companies wholly owned by the federal or the\n\nlocal government, or in which they are shareholders\n\n: An establishment or natural person that has Personal Data, and by\n\nController\n\nvirtue of its activity, determines whether individually or jointly\n\nwith other persons or establishments, the method and criteria for\n\nprocessing such Personal Data and the purpose of processing it\n\n: An establishment or Natural Person that processes Personal Data\n\nProcessor\n\non behalf of the Controller. It processes it under their supervision\n\nand in accordance with their instructions\n\n: Any Natural or Legal Person appointed by the Controller or\n\nData Protection Officer\n\nProcessor, that undertakes the tasks of ascertaining the extent to\n\nwhich the entity to which it belongs complies with the controls,\n\nrequirements, procedures and rules for processing Personal Data\n\nProtection stipulated herein. It also ensures the integrity of systems\n\nand procedures in order to achieve compliance with provisions of\n\nthe Decree by Law\n\n: Any operation or set of operations performed on Personal Data\n\nProcessing\n\nusing any electronic means, including processing and other means.\n\nThis processing includes collecting, storing, recording, organizing,\n\nadapting, modifying, circulating, altering, retrieving, exchanging,\n\nsharing, using, characterizing, disclosing Personal Data by\n\nbroadcasting, transmitting, distributing, making available,\n\ncoordinating, merging, restricting, blocking, erasing or destroying it\n\nor creating forms thereof\n\n: Processing which is carried out using an electronic program or\n\nAutomated Processing\n\nsystem which operates in an automated and automatic manner\n\neither completely independently without any human intervention\n\nor partially with limited human supervision and intervention\n\n: A set of technical and organizational measures, procedures and\n\nPersonal Data Security\n\nprocesses specified in accordance with provisions of this Decree by\n\nLaw which maintain the protection of privacy, confidentiality,\n\nintegrity and availability of Personal Data\n\n: Processing performed on Personal Data in such a way which, after\n\nPseudonymisation\n\nthe completion of processing, makes it not possible to associate\n\nand attribute such data to the Data Subject without the use of\n\nadditional information, provided that such additional information\n\nis kept independently and securely. In accordance with the\n\ntechnical and organizational measures and procedures specified\n\nunder provisions of this Decree by Law, it shall ensure that\n\nPersonal Data is not linked to a specific natural person or that\n\nhe/she can be identified by using it\n\n: Processing which is performed on Personal Data in a way which\n\nAnonymization\n\nleads to the anonymity of the Data Subject, not linking and\n\nattributing such data to him/her and the inability to identify\n\nhim/her in any way whatsoever\n\n: Breaching information security and Personal Data through illegal\n\nData Breach\n\nor unauthorized access. This includes copying, sending,\n\ndistributing, exchanging, transferring, circulating or processing it in\n\na way which leads to disclosure of such data to third parties, or\n\ndestroying or modifying it during storage, transfer and processing\n\n: A form of automated processing which involves the use of\n\nProfiling\n\nPersonal Data to assess certain personality aspects associated with\n\nthe Data Subject, including analyzing or predicting aspects related\n\nto his/her financial performance or condition, health, personal\n\npreferences, interests, behavior, location, movements or reliability\n\n: Dissemination, use, display, transmission, reception, retrieval,\n\nCross-Border\n\nsharing or processing of Personal Data outside the State\n\nProcessing\n\n: The consent whereby the Data Subject authorizes a third party to\n\nConsent\n\nprocess his/her Personal Data, provided that this consent\n\nindicates, in a specific, clear and unambiguous manner, that\n\nhe/she accepts the processing of his/her Personal Data through a\n\nclear positive statement or action"
+  },
+  {
+    "depth": 3,
+    "section_id": "Article (2)",
+    "section_name": "Article (2)",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Scope of Application of the Decree by Law",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "1. Provisions of this Decree by Law shall apply to the processing of all or part of the Personal\n\nData by means of electronic systems which operate automatically, or by other means, by the\n\nfollowing:\n\na. Each Data Subject residing in the State or having a place of business in it.\n\nb. Each Controller or Processor residing in the State and carrying out the activities of\n\nprocessing Personal Data of Data Subjects inside and outside the State.\n\nc. Each Controller or Processor residing outside the State and carrying out the activities of\n\nprocessing Personal Data of Data Subjects inside the State.\n\n2. Provisions of this Decree by Law shall not apply to the following:\n\na. Government Data\n\nb. Governmental entities which control or process Personal Data.\n\nc. Personal Data held by the security and judicial authorities\n\nd. A Data Subject who processes his/her data for personal purposes.\n\ne. Personal Health Data that has legislation regulating its protection and processing.\n\nf. Personal banking and credit data and information that have legislation regulating their\n\nprotection and processing.\n\ng. Companies and establishments located in free zones in the Country and have special\n\nlegislations regarding Personal Data protection."
+  },
+  {
+    "depth": 3,
+    "section_id": "Article (3)",
+    "section_name": "Article (3)",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Bureau's Power of Exemption",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Without prejudice to any other competencies prescribes for the Bureau under any other\n\nlegislation, the Bureau may exempt some establishments that do not process a large volume of\n\nPersonal Data from part, or all of the requirements of the personal data protection provisions\n\nstipulated in this Decree by Law, in accordance with the standards and controls set by the\n\nExecutive Regulations of this Decree by Law."
+  },
+  {
+    "depth": 3,
+    "section_id": "Article (4)",
+    "section_name": "Article (4)",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Cases of Processing Personal Data without the Consent of its Owner",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "It is prohibited to process Personal Data without the consent of its owner. The following cases\n\nshall be excluded from such prohibition:\n\n1. If the processing is necessary to protect public interest.\n\n2. If the processing is related to Personal Data which has become available and known to all by\n\nan act of the Data Subject.\n\n3. If the processing is necessary to initiate any procedures of legal claim or defense of rights or\n\nis related to judicial or security procedures.\n\n4. If the processing is necessary for purposes of occupational or preventive medicine in order\n\nto assess the employees' ability of to work, performing medical diagnosis, providing health\n\nor social care, treatment or health insurance services, managing health or social care systems\n\nand services in accordance with the legislation in force in the State.\n\n5. If the processing is necessary to protect public health, including protection from existing\n\ndiseases and epidemics, or for the purposes of ensuring the safety and quality of healthcare,\n\nmedicines, drugs and medical devices, in accordance with the legislation in force in the\n\nState.\n\n6. If the processing is necessary for archival purposes or for scientific, historical and statistical\n\nstudies in accordance with the legislation in force in the State.\n\n7. If the processing is necessary to protect the interests of the Data Subject.\n\n8. If the processing is necessary for the purposes of the Controller or Data Subject carrying out\n\ntheir obligations and exercising their legally established rights in the field of employment,\n\nsocial security or laws concerned with social protection, to the extent permitted by such\n\nLaws.\n\n9. If the processing is necessary to perform a contract to which the Data Subject is a party, or to\n\ntake measures at the request of the Data Subject with the aim of concluding, amending or\n\nterminating a contract.\n\n10. If the processing is necessary to fulfil specific obligations stipulated in other laws in force in\n\nthe State for the Controller.\n\n11. Any other cases set out in the Executive Regulations of this Decree by Law."
+  },
+  {
+    "depth": 3,
+    "section_id": "Article (5)",
+    "section_name": "Article (5)",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Personal Data Processing Controls",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Personal Data shall be processed according to the following controls:\n\n1. Processing shall be carried out in a fair, transparent and lawful manner.\n\n2. Personal Data shall be collected for a specific and clear purpose. It shall not be processed at\n\nany later time in a manner incompatible with such purpose. However, it may be processed if\n\nthe purpose is similar or close to the purpose for which this data is collected.\n\n3. Personal Data shall be sufficient and limited to what is necessary in accordance with the\n\npurpose for which the processing is carried out.\n\n4. Personal Data shall be accurate and correct and shall be updated whenever necessary.\n\n5. The necessary measures shall be taken to ensure that incorrect Personal Data is deleted or\n\ncorrected.\n\n6. Personal Data shall be kept securely, including protecting it from any violation, penetration,\n\nor illegal or unauthorized processing through the development and use of appropriate\n\ntechnical and organizational measures and procedures in accordance with the laws and\n\nlegislation in force in this regard.\n\n7. Personal Data shall not be kept after the purpose of its processing has been exhausted. It\n\nmay be kept if the identity of the Data Subject has been concealed using the\n\n\"Anonymization Mechanism\"\n\n8. Any other controls set out in the Executive Regulations of this Decree by Law."
+  },
+  {
+    "depth": 3,
+    "section_id": "Article (6)",
+    "section_name": "Article (6)",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Terms of Consent to Data Processing",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "1. To be considered, the consent of the Data Subject to the processing of date shall require the\n\nfollowing:\n\na. The Controller shall be able to prove the consent of the Data Subject in the event that\n\nthe processing of Personal Data is based on the consent of the Data Subject.\n\nb. The Consent shall be prepared in a clear, simple, unambiguous and easily accessible\n\nmanner, whether in writing or electronically.\n\nc. The Consent shall include the Data Subject's right to withdraw it easily.\n\n2. The Data Subject may, at any time, withdraw their consent to the processing of Personal\n\nData. Such withdrawal of consent shall not affect the legality of the processing based on the\n\ngiven consent before withdrawing it."
+  },
+  {
+    "depth": 3,
+    "section_id": "Article (7)",
+    "section_name": "Article (7)",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "The Controller's General Obligations",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "The Controller shall abide by the following:\n\n1. Take appropriate technical and organizational measures to implement the necessary\n\nstandards to protect and secure Personal Data in order to preserve its confidentiality and\n\nprivacy, and to ensure that it is not breached, destroyed, altered or tampered with, taking\n\ninto account the nature, scope and purposes of processing and the possibility of risks to the\n\nconfidentiality and privacy of the Data Subject's Personal Data.\n\n2. Apply the appropriate measures, whether while determining the means of processing or\n\nwhile processing, in order to comply with the provisions of this Decree by Law, including the\n\ncontrols stipulated in Article (5). These measures include the Pseudonymisation\n\nMechanism.\n\n3. Apply appropriate technical and organizational measures with respect to automatic settings,\n\nto ensure that the processing of Personal Data is limited to the purpose for which it is\n\nintended. Such obligation shall apply to the volume and type of Personal Data collected, the\n\ntype of processing which will be carried out, the period of storage and accessibility of such\n\ndata.\n\n4. Maintain a special record for Personal Data, provided that such record shall include the data\n\nof both the Controller and the Data Protection Officer, a description of the categories of\n\nPersonal Data, details of the persons authorized to access the Personal Data, processing\n\ntimes, limitations and scope, the mechanism for erasing, modifying or processing Personal\n\nData, the purpose of processing, any data related to the cross-border movement and\n\nprocessing of such data, and the technical and organizational measures related to\n\ninformation security and processing The Controller shall submit such record to the Bureau\n\nwhenever requested to do so.\n\n5. Appoint the Processor which has sufficient guarantees to implement technical and\n\norganizational measures in a manner which ensures that the processing meets the\n\nprocessing requirements, rules and controls stipulated in this Decree by Law, its Executive\n\nRegulations and the decisions issued to implement the same.\n\n6. Provide the Bureau, pursuant to a decision made by the competent judicial authority, with\n\nany information it requests in implementation of its powers stipulated in this Decree by Law\n\nand its Executive Regulations.\n\n7. Any other obligations set out in the Executive Regulations of this Decree by Law."
+  },
+  {
+    "depth": 3,
+    "section_id": "Article (8)",
+    "section_name": "Article (8)",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "The Processor's General Obligations",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "The Processor shall abide by the following:\n\n1. Carry out the processing in accordance with the instructions of the Controller and contracts\n\nand agreements concluded between them, which specify in particular the scope, subject,\n\npurpose, nature and type of Personal Data, and the category of the Data Subject.\n\n2. Apply the appropriate technical and organizational procedures and measures to protect\n\nPersonal Data at the design stage, whether during the identification of the means of\n\nprocessing or during the processing, taking into account the cost of implementing such\n\nprocedures and the nature, scope and purposes of processing.\n\n3. Carry out the processing according to the purpose and the period specified for it. If the\n\nprocessing exceeds the specified period, the Processor shall so notify the Controller to\n\nauthorize it to extend such period or give appropriate instructions.\n\n4. Erase data after the expiry of the processing period or upon handing it over to the Controller.\n\n5. Avoid doing anything which would disclose Personal Data or results of processing, except in\n\ncases authorized by the law.\n\n6. Protect and secure data processing, the electronic media and devices used in processing and\n\nthe Personal Data they contain.\n\n7. Maintain a special record of Personal Data which is processed on behalf of the Controller,\n\nprovided that such record includes the data of the Controller, the Processor and the Data\n\nProtection Officer and a description of the categories of Personal Data they have, data of the\n\npersons authorized to access Personal Data, processing times, restrictions and scope, the\n\nmechanism of erasing, modifying or processing Personal Data, the purpose of processing,\n\nany data related to the cross-border movement and processing of such data and the\n\ntechnical and organizational measures related to information security and processing\n\noperations, provided that the Processor submits such record to the Bureau whenever it is\n\nrequested to do so.\n\n8. Provide all means to prove its commitment to the implementation of provisions of this\n\nDecree by Law when so requested by the Controller or the Bureau.\n\n9. Carry out processing in accordance with rules, conditions and controls specified in this\n\nDecree by Law and its Executive Regulations, or pursuant to which instructions are issued\n\nby the Bureau.\n\n10. In the event that more than one Processor participates in processing data, the processing\n\nshall be carried out in accordance with a written contract or agreement in which they clearly\n\ndefine their obligations, responsibilities and roles with regard to processing, otherwise they\n\nshall be deemed jointly responsible for the obligations and responsibilities contained in this\n\nDecree by Law and its Executive Regulations.\n\n11. The Executive Regulations of this Decree by Law shall specify the procedures, controls,\n\nconditions, and technical standards related to such obligations."
+  },
+  {
+    "depth": 3,
+    "section_id": "Article (9)",
+    "section_name": "Article (9)",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Reporting Personal Data Breach",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "1. In addition to the obligations of the Controller stipulated in this Decree by Law, the\n\nController shall, at the time it becomes aware of the existence of any breach or violation of\n\nPersonal Data of the Data Subject that would prejudice the privacy, confidentiality and\n\nsecurity of data, notify the Bureau of such breach or violation and the investigation rights\n\nwithin the period and in accordance with the measures and requirements set by the\n\nExecutive Regulations of this Decree by Law, provided that the reporting is accompanied by\n\nthe following data and documents:\n\na. A description of the nature of the breach or violation, its form, causes, approximate\n\nnumber and records.\n\nb. Details of the appointed Data Protection Officer.\n\nc. Potential and expected effects of the breach or violation.\n\nd. Corrective measures and actions taken or suggested by it to confront such violation and\n\nreduce its negative impacts.\n\ne. Documents of the violation and corrective actions taken by it.\n\nf. Any other requirements required by the Bureau\n\n2. In all cases, the Controller shall notify the Data Subject in the event that the violation or\n\nbreach would prejudice the privacy and confidentiality of the security of his/her Personal\n\nData within the period and in accordance with the measures and requirements set by the\n\nExecutive Regulations of this Decree by Law. It shall inform him/her of the measures taken\n\nby it.\n\n3. If the Processor becomes aware of any breach of Personal Data, it shall notify the Controller\n\nof such breach as soon as it becomes aware of the same. the Controller shall in turn inform\n\nthe Bureau in accordance with Clause (1) of this Article.\n\n4. After receiving the notification from the Controller, the Bureau shall verify the reasons for\n\nthe violation to ensure the integrity of the security measures taken, and impose the\n\nadministrative penalties referred to in Article (26) of this Decree by Law in the event that a\n\nviolation of its provisions and decisions issued in implementation of it is proven against the\n\nController or the Processor."
+  },
+  {
+    "depth": 3,
+    "section_id": "Article (10)",
+    "section_name": "Article (10)",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Appointing Data Protection Officer",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "1. The Controller and Processor shall appoint a Data Protection Officer, who has sufficient\n\nskills and knowledge of the Personal Data Protection Law, in any of the following cases:\n\na. If processing would cause a high-level risk to the confidentiality and privacy of the\n\nPersonal Data of the Data Subject as a result of adopting new technologies or with\n\nregard to the volume of data.\n\nb. If processing would involve a systematic and comprehensive assessment of Sensitive\n\nPersonal Data, including Profiling and Automated Processing.\n\nc. If processing would be carried out on a large volume of Sensitive Personal Data.\n\n2. The Data Protection Officer may be an employer of the Controller or the Processor or\n\nauthorized by them, whether inside or outside the State.\n\n3. The Controller or the Processor shall specify the contact details of the Data Protection\n\nOfficer and notify the Bureau of the same.\n\n4. The Executive Regulations of this Decree by Law shall specify the types of technologies and\n\ncriteria for determining the volume of data required in accordance with this Article."
+  },
+  {
+    "depth": 3,
+    "section_id": "Article (11)",
+    "section_name": "Article (11)",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Roles of Data Protection Officer",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "1. The Data Protection Officer shall ensure the extent of compliance of the Controller or the\n\nProcessor with the application of provisions of this Decree by Law, its Executive Regulations\n\nand instructions issued by the Bureau. The Data Protection Officer shall, in particular,\n\nundertake the following tasks and powers:\n\nb. Verifying the quality and correctness of the procedures in place at the Controller and the\n\nProcessor.\n\nb. Receiving requests and complaints related to Personal Data in accordance with\n\nprovisions of this Decree-Law and its Executive Regulations.\n\nc. Providing technical advice on evaluation procedures and periodic examination of\n\npersonal data protection systems and intrusion prevention systems at the Controller and\n\nProcessor, documenting the results of such evaluation and providing appropriate\n\nrecommendations in this regard, including risk assessment procedures.\n\nd. Acting as a link between the Controller or the Processor, as the case may be, and the\n\nBureau regarding the application of personal data processing provisions stipulated in\n\nthis Decree by Law.\n\ne. Any other tasks or powers which are determined in accordance with the Executive\n\nRegulations of this Decree by Law.\n\n2. The Data Protection Officer shall maintain the confidentiality of information and data it\n\nreceives in implementation of its duties and powers in accordance with provisions of this\n\nDecree by Law and its Executive Regulations and in accordance with the legislations in force\n\nin the State."
+  },
+  {
+    "depth": 3,
+    "section_id": "Article (12)",
+    "section_name": "Article (12)",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Duties of the controller and the processor towards the Data Protection Officer",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "1. The Controller and the Processor shall provide all means to ensure that the Data Protection\n\nOfficer performs the duties and tasks assigned to it as stipulated in Article (11) of this Decree\n\nby Law in the required manner. In particular, this shall include the following:\n\na. Ensure that the Data Protection Officer is appropriately and timely involved in all\n\nmatters relating to the protection of Personal Data.\n\nb. Ensure that the Data Protection Officer is provided with all the necessary resources and\n\nthe necessary support to carry out the tasks assigned to it.\n\nc. Not to terminate the Data Protection Officer services or impose any disciplinary penalty\n\nfor a reason related to the performance of its duties in accordance with the provisions of\n\nthis Decree by Law.\n\nd. Ensure that the Data Protection Officer is not charged with duties which contradict its\n\nduties under this Law.\n\n2. The Data Subject may communicate directly with the Data Protection Officer about all\n\nmatters relating to his/ her personal data processing to enable him/ her to exercise his/ her\n\nrights in accordance with the provisions of this Decree by Law."
+  },
+  {
+    "depth": 3,
+    "section_id": "Article (13)",
+    "section_name": "Article (13)",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Right to Receive Information",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "1. The Data Subject has the right, by submitting a request to the Controller without any\n\nconsideration, to obtain the following information:\n\na. The types of its Personal Data that are being processed.\n\nb. Purposes of processing.\n\nc. Decisions made based on automated processing, including profiling.\n\nd. The targeted sectors or establishments with whom its personal data will be shared from\n\ninside and outside the State.\n\ne. Controls and standards for the period of storage and preservation of his/ her personal\n\ndata.\n\nf. Procedures for correcting, erasing or limiting processing and objection to his/ her\n\npersonal data.\n\ng. Protection measures for cross-border processing carried out in accordance with Articles"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "(22) and (23) of this By-Law.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "h. Actions to be taken in the event of a breach or misuse of his/ her Personal Data,\n\nespecially if the breach or misuse has a direct and serious threat to the privacy and\n\nconfidentiality of his/her Personal Data.\n\ni. How to submit complaints to the Bureau.\n\n2. In all cases, the Controller shall, before starting the processing, provide the Data Subject with\n\nthe information stipulated in paragraphs (b), (d) and (g) of Paragraph (1) of this Article.\n\n3. The Controller may reject the Data Subject's request to obtain the information mentioned in\n\nParagraph (1) of this Article, if the following is established:\n\na. The request is not related to the information referred to in Paragraph (1) of this Article,\n\nor it is excessively repetitive.\n\nb. The request conflicts with judicial procedures or investigations conducted by competent\n\nauthorities.\n\nc. The request may negatively affect the efforts of the Controller to protect information\n\nsecurity.\n\nd. The request affects the privacy and confidentiality of Personal Data of third parties."
+  },
+  {
+    "depth": 3,
+    "section_id": "Article (14)",
+    "section_name": "Article (14)",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Right to Request Transfer of Personal Data",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "1. The Data Subject shall have the right to receive his/her personal data that has been provided\n\nto the Controller for processing, in an orderly and machine-readable manner, whenever the\n\nprocessing is based on the consent of the Data Subject, or it is necessary for the\n\nimplementation of a contractual obligation, and it is carried out by automated means.\n\n2. The Data Subject shall have the right to request the transfer of its Personal data to another\n\nController whenever it is technically feasible."
+  },
+  {
+    "depth": 3,
+    "section_id": "Article (15)",
+    "section_name": "Article (15)",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Right to correction or erasure of Personal Data",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "1. The Data Subject shall have the right to request the correction of his/her inaccurate Personal\n\ndata, or request to complete the data held by the Controller without undue delay\n\n2. Without prejudice to the legislations in force in the State and what is required for the public\n\ninterest, the Data Subject shall have the right to request erasure of his/ her Personal Data\n\nheld by the Controller in any of the following cases:\n\na. His/her Personal Data is no longer necessary for the purposes for which it is collected or\n\nprocessed.\n\nb. Withdrawal of the consent of Data Subject on which the processing is based.\n\nc. The Data Subject's objection to the processing, or the absence of legitimate reasons for\n\nthe Controller to continue the processing.\n\nd. The Personal Data is processed in violation of the provisions of this Decree by Law and\n\nthe applicable legislations, and the erasure process is necessary to comply with the\n\nlegislations and approved standards in force in this regard.\n\n3. As an exception to what is stated in Paragraph (2) of this Article, the Data Subject is not\n\nentitled to request erasure of his/ her Personal Data held by the Controller in the following\n\ncases:\n\na. If the request is related to the erasure of his/her Personal Data related to public health in\n\nprivate facilities.\n\nb. If the request affects the investigation procedures and claiming and defending rights.\n\nc. If the request contradicts other legislations to which the Controller is subject.\n\nd. Any other cases determined by the Executive Regulation of this Decree by Law."
+  },
+  {
+    "depth": 3,
+    "section_id": "Article (16)",
+    "section_name": "Article (16)",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Right to Restrict Processing",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "1. The Data Subject shall have the right to oblige the Controller to restrict and stop processing\n\nin any of the following cases:\n\na. The Data Subject's objection to the accuracy of the Personal Data, in which case the\n\nprocessing shall be restricted for a specific period to allow the Controller to verify the\n\ndata accuracy.\n\nb. The Data Subject's objection to the processing of his/ her Personal Data in violation of\n\nthe agreed-upon purposes.\n\nc. The processing is carried out in violation of the provisions of this Decree by Law and the\n\napplicable legislations.\n\n2. The Data Subject shall have the right to request the Controller to continue to keep his/ her\n\nPersonal Data after the completion of the processing purposes when such data is necessary\n\nto complete procedures related to claiming or defending rights and lawsuits.\n\n3. Notwithstanding what is stated in Paragraph (1) of this Article, the Controller may proceed\n\nwith the processing of the Personal Data of the Data Subject without his/ her consent in any\n\nof the following cases:\n\na. If the processing is limited to storing Personal Data.\n\nb. If the processing is necessary to pursue any of the procedures related to claiming or\n\ndefending rights and lawsuits or related to judicial proceedings.\n\nc. If the processing is necessary to protect the rights of third parties.\n\nd. If the processing is necessary to protect the public interest.\n\n4. In all cases, the Controller, if it lifts the restriction stipulated in this Article, shall notify the\n\nData Subject of the same."
+  },
+  {
+    "depth": 3,
+    "section_id": "Article (17)",
+    "section_name": "Article (17)",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Right to Stop Processing",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "The Data Subject shall have the right to object to the processing of his/her Personal Data and stop\n\nit in any of the following cases:\n\n1. If the processing is intended for the purposes of direct marketing, including profiling related\n\nto direct marketing.\n\n2. If the processing is intended for the purposes of conducting statistical surveys, unless the\n\nprocessing is necessary to serve the public interest.\n\n3. If the processing is carried out in violation of Article (5) of this Decree by Law."
+  },
+  {
+    "depth": 3,
+    "section_id": "Article (18)",
+    "section_name": "Article (18)",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Right to Processing and Automated Processing",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "1. The Data Subject shall have the right to object to any decisions resulting from automated\n\nprocessing, including profiling, particularly those decisions which have legal impact on or\n\nadversely affect the Data Subject.\n\n2. Notwithstanding Paragraph 1 of this Article, the Data Subject may not object to the\n\ndecisions resulting from automated processing in the following cases:\n\na. If the automated processing is agreed upon under the contract made between the Data\n\nSubject and the Controller.\n\nb. If the automated processing is required under other legislations which are applicable in\n\nthe State.\n\nc. If the Data Subject gives prior consent to the automated processing as set out in Article"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "(6) of this Decree by Law.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "3. The Controller shall adopt appropriate measures to protect the privacy and confidentiality of\n\nthe Data Subject's Personal Data in the cases referred to in Paragraph 2 of this article and\n\nshall not cause any prejudice to the Data Subject's rights.\n\n4. The Controller shall include the human element in reviewing automated processing\n\ndecisions at the request of the Data Subject."
+  },
+  {
+    "depth": 3,
+    "section_id": "Article (19)",
+    "section_name": "Article (19)",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Contacting the Controller",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "The Controller shall provide clear and appropriate ways for the Data Subject to contact the\n\nController to request any of the rights set forth in this Decree by Law."
+  },
+  {
+    "depth": 3,
+    "section_id": "Article (20)",
+    "section_name": "Article (20)",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Personal Data Security",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "1. The Controller and the Processor shall develop and take appropriate technical and\n\nregulatory measures to ensure the highest standard of information security that is suitable\n\nfor the risks related to data processing in accordance with the best international practices\n\nand standards. This shall include the following:\n\na. Encryption of Personal Data and the application of Pseudonymisation.\n\nb. Applying measures which ensure the continuous confidentiality, safety, accuracy and\n\nflexibility of data processing systems and services.\n\nc. Applying measures which ensure timely retrieval of and access to Personal Data in case\n\nof any actual or technical failure.\n\nd. Applying measures which ensure a seamless testing and evaluation of the effectiveness\n\nof the technical and regulatory measures to ensure the security of processing.\n\n2. When evaluating the information security level as set out in Paragraph1 of this Article, the\n\nfollowing shall be observed:\n\na. Data processing risks, including damage, loss, accidental or illegal change and disclosure\n\nof or access to the Personal Data, whether being transferred, stored or processing.\n\nb. The costs of data processing, and its nature, scope and purposes, in addition to potential\n\nrisks impacting the confidentiality and privacy of the Data Subject's Personal Data."
+  },
+  {
+    "depth": 3,
+    "section_id": "Article 21",
+    "section_name": "Article 21",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Assessment of the Impact of Personal Data Protection",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "1. Taking into account the nature, scope and purposes of data processing, the Controller shall,\n\nbefore carrying out the processing, evaluate the impact of the proposed processing\n\noperations on the protection of Personal Data, when using any of the modern technologies\n\nthat would pose a high risk to the privacy and confidentiality of the Data Subject's Personal\n\nData.\n\n2. The assessment of the impact provided for in Paragraph (1) of this Article shall be required\n\nin the following cases:\n\na. If the processing includes a systematic and comprehensive assessment of the personal\n\naspects of the Data Subject, using automated processing, including profiling, having\n\nlegal consequences or serious impact on the Data Subject.\n\nb. If processing would be carried out on a large volume of Sensitive Personal Data.\n\n3. The assessment stipulated in Paragraph (1) of this Article shall include, at a minimum, the\n\nfollowing:\n\na. Clear and systematic explanation of the suggested processing operations for the\n\nprotection of Personal Data and the purpose of processing.\n\nb. Evaluation of how necessary the processing operations are and how they are suitable for\n\nthe purpose of processing.\n\nc. Evaluation of potential risks related to the privacy and confidentiality of the Data\n\nSubject's Personal Data.\n\nd. The suggested procedures and measures aimed at reducing the potential risks related to\n\nthe protection of Personal Data.\n\n4. The Controller may carry out one evaluation of a set of processing operations which have\n\nsimilar nature and risks.\n\n5. The Controller shall coordinate with the Data Protection Officer upon evaluating the impact\n\nof the protection of Personal Data.\n\n6. The Bureau shall prepare a list of processing operation types which do not require\n\nevaluation of the impact of the protection of Personal Data. The Bureau shall publish such\n\nlist on its website.\n\n7. The Controller shall review the evaluation results on a regular basis to make sure that the\n\nprocessing is being carried out in accordance with the evaluation in case the processing risks\n\nlevel changes."
+  },
+  {
+    "depth": 3,
+    "section_id": "Article (22)",
+    "section_name": "Article (22)",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Cross-Border Transfer and Sharing of Personal Data for Processing Purposes if a",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Proper Protection Level is Available",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Personal Data may be transferred to outside of the State in the following cases approved by the\n\nBureau:\n\n1. The State or Province to which the Personal Data is transferred shall have legislations\n\naddressing Personal Data Protection. This includes most significant provisions, measures,\n\ncontrols, stipulations and rules related to the protection of the privacy and confidentiality of\n\nthe Date Subject's Personal Data, and his/her ability to exercise their legal rights. The State\n\nor the Province shall also have a judicial o regulatory authority imposing appropriate\n\nmeasures against the Controller or the Processor.\n\n2. If the State joins a bilateral or multilateral agreement related to the protection of Personal\n\nData concluded with countries to which the Personal Data is transferred."
+  },
+  {
+    "depth": 3,
+    "section_id": "Article (23)",
+    "section_name": "Article (23)",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Cross-Border Transfer and Sharing of Personal Data for Processing Purposes if a",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Proper Protection Level is not Available",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "1. Notwithstanding Article (22) of this Decree by Law, Personal Data may be transferred to\n\noutside the State in the following cases:\n\na. Companies, operating in countries where there are no laws for Data Protection, may\n\ntransfer data under a contract or agreement obligating the companies in such countries\n\nto adopt measures, controls and requirements set out in this Decree by Law, in addition\n\nto provisions forcing the Controller or the Processor to adopt appropriate measures\n\nwhich are imposed by a judicial or regulatory authority in such countries as set out in the\n\ncontract.\n\nb. If there is an explicit consent granted by the Data Subject to transfer his/her Personal\n\nData outside the State, provided that such transfer shall not contradict the public or\n\nsecurity interest of the State.\n\nc. If the transfer is necessary to fulfil obligations and establish rights before judicial entities,\n\nexercise or defend the same.\n\nd. If the transfer is necessary to sign or implement a contract made between the Controller\n\nand the Data Subject, or between the Controller and third parties to serve the interest of\n\nthe Data Subject.\n\ne. If the transfer is necessary to implement an action related to an international judicial\n\ncooperation.\n\nf. If the transfer is necessary to protect the public interest.\n\n2. The Executive Regulations of this Decree by Law set forth the controls and stipulations\n\nreferred to in Paragraphs (1) of this Article, which should be observed during the transfer of\n\ndata outside the State."
+  },
+  {
+    "depth": 3,
+    "section_id": "Article (24)",
+    "section_name": "Article (24)",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Complaints",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "1. The Data Subject shall have the right to submit complaints to the Bureau if he/she believes\n\nthat there is a violation of this Decree by Law or that the Controller or the Processor is\n\nprocessing his/ her Personal Data in violation of the rules and procedures set by the Bureau\n\nin this regard.\n\n2. The Bureau shall receive complaints from the Data Subject in accordance with Paragraph (1)\n\nof this Article and shall examine such complaints in coordination with the Controller and the\n\nProcessor.\n\n3. The Bureau shall impose the administrative penalties referred to in Article (26) of this\n\nDecree by Law if it is proven that the Controller or the Processor violates its provisions, or\n\nthe decisions issued in implementation of the same."
+  },
+  {
+    "depth": 3,
+    "section_id": "Article (25)",
+    "section_name": "Article (25)",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Grievance against the Bureau's Decisions",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Any stakeholder may submit a written grievance to the General Director of the Bureau against\n\nany decision or administrative penalty or any other action taken by the Bureau against such\n\nstakeholder within (30) thirty days as of the date on which a notice of such administrative\n\ndecision or penalty is given. Additionally, deciding upon such complaint shall be made within\n\n(30) thirty days as of the date on which the complaint is submitted.\n\nIt is not permissible to challenge any decision issued by the Bureau in implementation of the\n\nprovisions of this Decree by Law before submitting a grievance against the same. The Executive\n\nRegulations of this Decree by Law set out the procedures for submitting a grievance and deciding\n\nthereupon."
+  },
+  {
+    "depth": 3,
+    "section_id": "Article (26)",
+    "section_name": "Article (26)",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Administrative Penalties",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "The Council of Ministers, based upon a suggestion from the General Director of the Bureau, shall\n\nissue a decision to limit the actions which constitute a violation of this Decree by Law and its\n\nExecutive Regulations, including administrative penalties to be imposed."
+  },
+  {
+    "depth": 3,
+    "section_id": "Article (27)",
+    "section_name": "Article (27)",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Authorization",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "The Council of Ministers, based upon a suggestion from the General Director of the Bureau, may\n\nauthorize any competent local government authority within the scope of its local competence, to\n\nexercise some of the Bureau' powers set out in this Decree by Law."
+  },
+  {
+    "depth": 3,
+    "section_id": "Article (28)",
+    "section_name": "Article (28)",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "The Executive Regulation",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "The Council of Ministers, based upon a suggestion from the General Director of the Bureau, shall\n\nissue the Executive Regulations of this Decree by Law within six (6) months as of the date on\n\nwhich the Decree by Law is promulgated."
+  },
+  {
+    "depth": 3,
+    "section_id": "Article (29)",
+    "section_name": "Article (29)",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Regularisation",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "The Controller and the Processor shall regularize their status in compliance with the provisions\n\nof this Decree by Law within a period of no more than six (6) months as of the date on which its\n\nExecutive Regulations are issued. The Council of Ministers may extend such period for another\n\nsimilar period."
+  },
+  {
+    "depth": 3,
+    "section_id": "Article (30)",
+    "section_name": "Article (30)",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Repeals",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Any provision that violates or contradicts the provisions of this Decree by Law shall be repealed."
+  },
+  {
+    "depth": 3,
+    "section_id": "Article (31)",
+    "section_name": "Article (31)",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Publication & Enforcement of this Decree by Law",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "This Decree by Law shall by published in the Official Gazette and shall come into force as of 02\n\nJanuary 2022."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Khalifa Bin Zayed Al-Nahyan President of the United Arab Emirates",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Issued by us at the Presidency Palace in Abu Dhabi: On: 13 / Safar / 1443 AH Corresponding: 20 / September / 2021AD"
+  }
+]

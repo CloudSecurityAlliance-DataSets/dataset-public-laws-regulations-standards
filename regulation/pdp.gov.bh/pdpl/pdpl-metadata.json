@@ -1,0 +1,63 @@
+{
+  "secid": "secid:regulation/pdp.gov.bh/pdpl",
+  "name": "Law No. 30 of 2018 with respect to Personal Data Protection",
+  "acronym": "Bahrain PDPL",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "pdpl",
+  "owner": "Personal Data Protection Authority",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Bahrain Personal Data Protection Law",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by Personal Data Protection Authority (pdp.gov.bh) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within Personal Data Protection Authority (pdp.gov.bh).",
+  "license": {
+    "spdx": "LicenseRef-BH-Law22-2006-Art4",
+    "Grouping": "Public Domain",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/BH",
+    "note": "Official publication (pdp.gov.bh); Kingdom of Bahrain Law No. 22 of 2006 relating to the Protection of Copyright and Neighbouring Rights Art. 4(a) (official documents such as laws, decrees, regulations, decisions, and administrative decisions are excluded from copyright protection).",
+    "notes": "Official publication (pdp.gov.bh); Kingdom of Bahrain Law No. 22 of 2006 relating to the Protection of Copyright and Neighbouring Rights Art. 4(a) (official documents such as laws, decrees, regulations, decisions, and administrative decisions are excluded from copyright protection)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.pdp.gov.bh/en/assets/pdf/regulations.pdf",
+    "textUsed": "https://www.pdp.gov.bh/en/assets/pdf/regulations.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2020-01-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official regulation (https://www.pdp.gov.bh/en/assets/pdf/regulations.pdf) to Markdown (86,943 chars). Parsed 4 sections (2 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  }
+}

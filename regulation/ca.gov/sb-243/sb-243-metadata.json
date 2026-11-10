@@ -1,0 +1,63 @@
+{
+  "secid": "secid:regulation/ca.gov/sb-243",
+  "name": "California Senate Bill 243 — Companion Chatbots (Chapter 22.6, Division 8, Business and Professions Code, § 22600 et seq.)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "sb-243",
+  "owner": "California State",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "California statute regulating companion chatbot platforms: requires clear and conspicuous AI disclosure if a reasonable person could be misled into believing they are interacting with a human, recurring 3-hour AI notifications and sexually explicit content blocks for known minor users, suicidal-ideation/self-harm prevention protocols with crisis hotline referrals, annual metrics reporting to the Office of Suicide Prevention (beginning July 1, 2027), and a private right of action ($1,000 minimum statutory damages per violation).",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by California State (ca.gov) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within California State (ca.gov).",
+  "license": {
+    "spdx": "CC0-1.0",
+    "Grouping": "Public Domain",
+    "redistribution": "yes",
+    "derivatives": "yes",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.usa.gov/government-works",
+    "note": "United States Government work (17 U.S.C. § 105); in the public domain worldwide.",
+    "notes": "United States Government work (17 U.S.C. § 105); in the public domain worldwide."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB243",
+    "textUsed": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB243",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2020-01-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official regulation (https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB243) to Markdown (8,578 chars). Parsed 16 sections (11 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  }
+}

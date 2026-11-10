@@ -1,0 +1,63 @@
+{
+  "secid": "secid:regulation/au.int/malabo-convention",
+  "name": "African Union Convention on Cyber Security and Personal Data Protection (Malabo Convention, adopted June 27, 2014, entered into force June 8, 2023)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "malabo-convention",
+  "owner": "African Union (AU)",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "African Union Convention on Cyber Security and Personal Data Protection (Malabo Convention, adopted June 27, 2014, entered into force June 8, 2023)",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by African Union (AU) (au.int) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within African Union (AU) (au.int).",
+  "license": {
+    "spdx": "LicenseRef-All-Rights-Reserved",
+    "Grouping": "Proprietary / All Rights Reserved",
+    "redistribution": "prohibited",
+    "derivatives": "prohibited",
+    "publicly_redistributable": true,
+    "license_text_url": "https://au.int/en/legal-disclaimer",
+    "note": "African Union Commission copyright retained; prior permission required for commercial redistribution or derivative works. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
+    "notes": "African Union Commission copyright retained; prior permission required for commercial redistribution or derivative works. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://au.int/en/treaties/african-union-convention-cyber-security-and-personal-data-protection",
+    "textUsed": "https://au.int/sites/default/files/treaties/29560-treaty-0048_-_african_union_convention_on_cyber_security_and_personal_data_protection_e.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2020-01-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official regulation (https://au.int/sites/default/files/treaties/29560-treaty-0048_-_african_union_convention_on_cyber_security_and_personal_data_protection_e.pdf) to Markdown (74,794 chars). Parsed 44 sections (42 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  }
+}

@@ -1,87 +1,10 @@
 "depth","section_id","section_name","id_kind","parent_id","body"
-"1","","Bill Text","","",""
-"1","","Bill Information","","","[PDF2](#) [Bill PDF](/faces/billPdf.xhtml?bill_id=202320240SB1120&version=20230SB112090CHP) |[Add To My Favorites](#) | Version: 09/28/24 - Chaptered 09/05/24 - Enrolled 08/23/24 - Amended Assembly 08/22/24 - Amended Assembly 07/08/24 - Amended Assembly 06/20/24 - Amended Assembly 06/10/24 - Amended Assembly 04/15/24 - Amended Senate 04/01/24 - Amended Senate 02/13/24 - Introduced [ ![print page](/resources/images/print_24.gif)](# ""Print Bills1"")"
-"1","","SB-1120 Health care coverage: utilization review.(2023-2024)","","","[Text >>](/faces/billTextClient.xhtml?bill_id=202320240SB1120) [Votes
->>](/faces/billVotesClient.xhtml?bill_id=202320240SB1120) [History
->>](/faces/billHistoryClient.xhtml?bill_id=202320240SB1120) [Bill Analysis
->>](/faces/billAnalysisClient.xhtml?bill_id=202320240SB1120 ""Bill Analysis"")
-[Today's Law As Amended
->>](/faces/billCompareClient.xhtml?bill_id=202320240SB1120&showamends=false
-""As Amends the Law"")[
-![information](/resources/images/info_popup.gif)](/faces/billNavClient.xhtml?bill_id=202320240SB1120)
-[Compare Versions
->>](/faces/billVersionsCompareClient.xhtml?bill_id=202320240SB1120) [Status
->>](/faces/billStatusClient.xhtml?bill_id=202320240SB1120 ""Bill Status"")
-[Comments To Author >>](#) [Add To My Favorites >>](#)
-
-SHARE THIS:[ ![share this bill in
-Facebook](https://leginfo.legislature.ca.gov/resources/images/facebook_32.png)](https://www.facebook.com/sharer/sharer.php?u=https%3A//leginfo.legislature.ca.gov%3A443/faces/billNavClient.xhtml%3Fbill_id=202320240SB1120&t=20232024SB-1120&)
-[ ![share this bill in
-Twitter](https://leginfo.legislature.ca.gov/resources/images/twitter-x-logo-
-black.png)](https://twitter.com/home?status=20232024SB-1120
-https://leginfo.legislature.ca.gov:443/faces/billNavClient.xhtml?bill_id=202320240SB1120&)
-
-Date Published: 09/30/2024 09:00 PM"
-"2","","Bill Start","","","**Senate Bill No. 1120**
-
-CHAPTER 879
-
-
-
-An act to amend Section 1367.01 of the Health and Safety Code, and to amend
-Section 10123.135 of the Insurance Code, relating to health care coverage.
-
-
-
-[ Approved by  Governor  September 28, 2024.  Filed with  Secretary of State
-September 28, 2024. ]"
-"2","","LEGISLATIVE COUNSEL'S DIGEST","","","SB 1120, Becker. Health care coverage: utilization review.
-
-Existing law, the Knox-Keene Health Care Service Plan Act of 1975, provides
-for the licensure and regulation of health care service plans by the
-Department of Managed Health Care, and makes a willful violation of the act a
-crime. Existing law provides for the regulation of disability insurers by the
-Department of Insurance. Existing law generally authorizes a health care
-service plan or disability insurer to use prior authorization and other
-utilization review or utilization management functions, under which a licensed
-physician or a licensed health care professional who is competent to evaluate
-specific clinical issues may approve, modify, delay, or deny requests for
-health care services based on medical necessity. Existing law requires a
-health care service plan or disability insurer, including those plans or
-insurers that delegate utilization review or utilization management functions
-to medical groups, independent practice associations, or to other contracting
-providers, to comply with specified requirements and limitations on their
-utilization review or utilization management functions. Existing law
-authorizes the Director of the Department of Managed Health Care or the
-Insurance Commissioner to assess an administrative penalty to a health care
-service plan or disability insurer, as applicable, for failure to comply with
-those requirements.
-
-This bill would require a health care service plan or disability insurer,
-including a specialized health care service plan or specialized health
-insurer, that uses an artificial intelligence, algorithm, or other software
-tool for the purpose of utilization review or utilization management
-functions, or that contracts with or otherwise works through an entity that
-uses that type of tool, to ensure compliance with specified requirements,
-including that the artificial intelligence, algorithm, or other software tool
-bases its determination on specified information and is fairly and equitably
-applied, as specified. Because a willful violation of these provisions by a
-health care service plan would be a crime, this bill would impose a state-
-mandated local program.
-
-The California Constitution requires the state to reimburse local agencies and
-school districts for certain costs mandated by the state. Statutory provisions
-establish procedures for making that reimbursement.
-
-This bill would provide that no reimbursement is required by this act for a
-specified reason."
-"2","","Digest Key","","","Vote: MAJORITY Appropriation: NO Fiscal Committee: YES Local Program: YES
-
-* * *"
+"1","","California SB-1120: Physicians Make Decisions Act (Health & Safety Code § 1367.01; Insurance Code § 10123.135)","","",""
 "2","","Bill Text","","",""
 "2","","The people of the State of California do enact as follows:","","",""
-"3","SECTION 1","SECTION 1","section_word","","Section 1367.01 of the Health and Safety Code is amended to read:"
-"6","","1367.01.","","SECTION 1","(a) A health care service plan and any entity with which it contracts for
+"3","SECTION 1","SECTION 1","section_word","",""
+"3","","Section 1367.01 of the Health and Safety Code is amended to read:","","",""
+"6","1367.01","1367.01","statute","","(a) A health care service plan and any entity with which it contracts for
 services that include utilization review or utilization management functions,
 that prospectively, retrospectively, or concurrently reviews and approves,
 modifies, delays, or denies, based in whole or in part on medical necessity,
@@ -136,10 +59,8 @@ pursuant to subdivision (h).
 determine whether to approve, modify, or deny requests by providers prior to,
 retrospectively, or concurrent with, the provision of health care services to
 enrollees shall be consistent with clinical principles and processes. These
-criteria and guidelines shall be developed pursuant to the requirements of
-Section 1363.5.
-
-(g) If the health care service plan requests medical information from
+criteria and guidelines shall be developed pursuant to the requirements of"
+"3","Section 1363.5","Section 1363.5","section_word","","(g) If the health care service plan requests medical information from
 providers in order to determine whether to approve, modify, or deny requests
 for authorization, the plan shall request only the information reasonably
 necessary to make the determination.
@@ -290,10 +211,8 @@ or other clinical record.
 base its determination solely on a group dataset.
 
 (C) The artificial intelligence, algorithm, or other software tool’s criteria
-and guidelines complies with this chapter, including, but not limited to,
-Section 1363.5 and applicable state and federal law.
-
-(D) The artificial intelligence, algorithm, or other software tool does not
+and guidelines complies with this chapter, including, but not limited to,"
+"3","","Section 1363.5 and applicable state and federal law.","","","(D) The artificial intelligence, algorithm, or other software tool does not
 supplant health care provider decisionmaking.
 
 (E) The use of the artificial intelligence, algorithm, or other software tool
@@ -305,9 +224,8 @@ and equitably applied, including in accordance with any applicable regulations
 and guidance issued by the federal Department of Health and Human Services.
 
 (G) The artificial intelligence, algorithm, or other software tool is open to
-inspection for audit or compliance reviews by the department pursuant to
-Section 1381 and by the State Department of Health Care Services pursuant to
-applicable state and federal law.
+inspection for audit or compliance reviews by the department pursuant to"
+"3","","Section 1381 and by the State Department of Health Care Services pursuant to","","","applicable state and federal law.
 
 (H) Disclosures pertaining to the use and oversight of the artificial
 intelligence, algorithm, or other software tool are contained in the written
@@ -388,8 +306,9 @@ defined as a health care provider for purposes of any provision of law,
 including, but not limited to, Section 6146 of the Business and Professions
 Code, Sections 3333.1 and 3333.2 of the Civil Code, and Sections 340.5, 364,
 425.13, 667.7, and 1295 of the Code of Civil Procedure."
-"3","SEC. 2","SEC. 2","goal","","Section 10123.135 of the Insurance Code is amended to read:"
-"6","","10123.135.","","SEC. 2","(a) Every disability insurer, or an entity with which it contracts for
+"3","SEC. 2","SEC. 2","goal","",""
+"3","","Section 10123.135 of the Insurance Code is amended to read:","","",""
+"6","10123.135","10123.135","statute","","(a) Every disability insurer, or an entity with which it contracts for
 services that include utilization review or utilization management functions,
 that covers hospital, medical, or surgical expenses and that prospectively,
 retrospectively, or concurrently reviews and approves, modifies, delays, or
@@ -705,5 +624,5 @@ B of the California Constitution because the only costs that may be incurred
 by a local agency or school district will be incurred because this act creates
 a new crime or infraction, eliminates a crime or infraction, or changes the
 penalty for a crime or infraction, within the meaning of Section 17556 of the
-Government Code, or changes the definition of a crime within the meaning of
-Section 6 of Article XIII B of the California Constitution."
+Government Code, or changes the definition of a crime within the meaning of"
+"3","","Section 6 of Article XIII B of the California Constitution.","","",""

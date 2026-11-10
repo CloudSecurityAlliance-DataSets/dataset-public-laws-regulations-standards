@@ -1,0 +1,63 @@
+{
+  "secid": "secid:regulation/nebraska.gov/lb-525",
+  "name": "Nebraska Legislative Bill 525 — Conversational Artificial Intelligence Safety Act",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "lb-525",
+  "owner": "State of Nebraska",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Nebraska statute requiring providers of human-like conversational AI and companion chatbot services to conspicuously disclose that the user is interacting with an AI rather than a human, maintain mental health crisis detection and referral protocols, and refrain from representing the chatbot as a licensed mental or behavioral health professional.",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by State of Nebraska (nebraska.gov) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within State of Nebraska (nebraska.gov).",
+  "license": {
+    "spdx": "CC0-1.0",
+    "Grouping": "Public Domain",
+    "redistribution": "yes",
+    "derivatives": "yes",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.usa.gov/government-works",
+    "note": "United States Government work (17 U.S.C. § 105); in the public domain worldwide.",
+    "notes": "United States Government work (17 U.S.C. § 105); in the public domain worldwide."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=59601",
+    "textUsed": "https://nebraskalegislature.gov/FloorDocs/109/PDF/Intro/LB525.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2020-01-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official regulation (https://nebraskalegislature.gov/FloorDocs/109/PDF/Intro/LB525.pdf) to Markdown (7,418 chars). Parsed 16 sections (14 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  }
+}

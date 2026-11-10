@@ -1,0 +1,63 @@
+{
+  "secid": "secid:regulation/cac.gov.cn/deep-synthesis-provisions",
+  "name": "Provisions on the Administration of Deep Synthesis of Internet-Based Information Services",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "deep-synthesis-provisions",
+  "owner": "Cyberspace Administration of China",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Regulates 'deep synthesis' technology (deep learning/VR/generative-synthetic algorithms producing text, images, audio, video, or virtual scenes/persons). Requires provider security assessments, real-name verification of users, conspicuous labeling of synthetic content (predecessor to the 2025 AI-content labeling measures below), bans use for spreading disinformation or impersonation without consent, and requires algorithm filing with CAC similar to the Algorithm Recommendation Provisions. Jointly issued by CAC, MIIT, and MPS.",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by Cyberspace Administration of China (cac.gov.cn) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within Cyberspace Administration of China (cac.gov.cn).",
+  "license": {
+    "spdx": "LicenseRef-CN-Copyright-Art5-1",
+    "Grouping": "Public Domain",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/CN",
+    "note": "Official publication (cac.gov.cn); Copyright Law of the People's Republic of China Art. 5(1) (laws, regulations, resolutions, decisions and orders of state organs, and other documents of a legislative, administrative or judicial nature and their official translations are excluded from copyright protection).",
+    "notes": "Official publication (cac.gov.cn); Copyright Law of the People's Republic of China Art. 5(1) (laws, regulations, resolutions, decisions and orders of state organs, and other documents of a legislative, administrative or judicial nature and their official translations are excluded from copyright protection)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.chinalawtranslate.com/en/deep-synthesis/",
+    "textUsed": "https://www.chinalawtranslate.com/en/deep-synthesis/",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2020-01-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official regulation (https://www.chinalawtranslate.com/en/deep-synthesis/) to Markdown (17,835 chars). Parsed 8 sections (5 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "secid": "secid:regulation/sdaia.gov.sa/pdpl",
+  "name": "Personal Data Protection Law (Royal Decree M/19)",
+  "acronym": "Saudi PDPL",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "pdpl",
+  "owner": "Saudi Data and AI Authority",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Saudi Personal Data Protection Law",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by Saudi Data and AI Authority (sdaia.gov.sa) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within Saudi Data and AI Authority (sdaia.gov.sa).",
+  "license": {
+    "spdx": "LicenseRef-SA-RD-M41-Art4",
+    "Grouping": "Government-Work",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/SA",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (sdaia.gov.sa) is governed by Kingdom of Saudi Arabia Copyright Law (Royal Decree No. M/41 of 2 Rajab 1424H) Art. 4(1) (laws, regulations, decisions of administrative commissions, and official documents and official translations thereof are excluded from protection). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (sdaia.gov.sa) is governed by Kingdom of Saudi Arabia Copyright Law (Royal Decree No. M/41 of 2 Rajab 1424H) Art. 4(1) (laws, regulations, decisions of administrative commissions, and official documents and official translations thereof are excluded from protection). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://sdaia.gov.sa",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2020-01-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:regulation/sdaia.gov.sa/pdpl (https://sdaia.gov.sa) is not directly downloadable (upstream portal root URL only, SPA/WAF barrier, or pending publication); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "secid": "secid:regulation/normattiva.it/d-lgs-218-2017",
+  "name": "Decreto Legislativo 15 dicembre 2017, n. 218",
+  "acronym": "D.Lgs. 218/2017",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "d-lgs-218-2017",
+  "owner": "Normattiva (Italian Government Legal Publisher)",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Italian transposition of PSD2 amending TUB. Supervised by Banca d'Italia.",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by Normattiva (Italian Government Legal Publisher) (normattiva.it) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within Normattiva (Italian Government Legal Publisher) (normattiva.it).",
+  "license": {
+    "spdx": "LicenseRef-Government-Work",
+    "Grouping": "Government-Work",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": true,
+    "license_text_url": "https://normattiva.it/",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document for normattiva.it is acquired and verified against jurisdiction copyright terms). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document for normattiva.it is acquired and verified against jurisdiction copyright terms). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.normattiva.it",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2020-01-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:regulation/normattiva.it/d-lgs-218-2017 (https://www.normattiva.it) is not directly downloadable (upstream portal root URL only, SPA/WAF barrier, or pending publication); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

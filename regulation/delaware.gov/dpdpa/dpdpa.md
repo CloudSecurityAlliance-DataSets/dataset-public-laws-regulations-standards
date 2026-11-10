@@ -47,9 +47,7 @@ Charters ](http://charters.delaware.gov/)
 
 ###  CHAPTER 12D. Delaware Personal Data Privacy Act
 
-####
-
-§ 12D-101. Short title.
+#### § 12D-101. Short title.
 
 This chapter shall be known and may be cited as the “Delaware Personal Data
 Privacy Act.”
@@ -59,7 +57,7 @@ Privacy Act.”
 
   
 
-§ 12D-102. Definitions.
+#### § 12D-102. Definitions.
 
 For purposes of this chapter, the following definitions shall apply:
 
@@ -331,7 +329,7 @@ jurisdiction.
 
   
 
-§ 12D-103. Applicability of chapter.
+#### § 12D-103. Applicability of chapter.
 
 (a) This chapter applies to persons that conduct business in the State or
 persons that produce products or services that are targeted to residents of
@@ -455,7 +453,7 @@ who is a child.
 
   
 
-§ 12D-104. Consumer personal data rights.
+#### § 12D-104. Consumer personal data rights.
 
 (a) A consumer has the right to do all of the following:
 
@@ -567,7 +565,7 @@ to submit a complaint.
 
   
 
-§ 12D-105. Designation of agent to exercise rights of consumer, including
+#### § 12D-105. Designation of agent to exercise rights of consumer, including
 through universal opt-out mechanisms.
 
 (a) A consumer may designate an authorized agent to act on the consumer’s
@@ -593,7 +591,7 @@ to conclude that the agent lacks such authority.
 
   
 
-§ 12D-106. Duties of controllers.
+#### § 12D-106. Duties of controllers.
 
 (a) A controller shall do all of the following:
 
@@ -731,7 +729,7 @@ for the retention, use, sale, or sharing of the consumer’s personal data.
 
   
 
-§ 12D-107. Duties of processors.
+#### § 12D-107. Duties of processors.
 
 (a) A processor shall adhere to the instructions of a controller and shall
 assist the controller in meeting the controller’s obligations under this
@@ -806,7 +804,7 @@ this chapter.
 
   
 
-§ 12D-108. Data protection assessments.
+#### § 12D-108. Data protection assessments.
 
 (a) A controller that controls or processes the data of not less than 100,000
 consumers, excluding data controlled or processed solely for the purpose of
@@ -880,7 +878,7 @@ retroactive.
 
   
 
-§ 12D-109. De-identified data.
+#### § 12D-109. De-identified data.
 
 (a) Nothing in this chapter shall be construed to require a controller or
 processor to re-identify de-identified data or pseudonymous data, or to
@@ -924,7 +922,7 @@ identified.
 
   
 
-§ 12D-110. Exclusions.
+#### § 12D-110. Exclusions.
 
 (a) Nothing in this chapter shall be construed to restrict a controller’s or
 processor’s ability to do any of the following:
@@ -1054,7 +1052,7 @@ processing.
 
   
 
-§ 12D-111. Enforcement.
+#### § 12D-111. Enforcement.
 
 (a) The Department of Justice has enforcement authority over this chapter and
 may investigate and prosecute violations of this chapter in accordance with

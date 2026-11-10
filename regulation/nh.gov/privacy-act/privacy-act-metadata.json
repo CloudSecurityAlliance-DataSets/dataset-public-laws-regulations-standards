@@ -1,0 +1,62 @@
+{
+  "secid": "secid:regulation/nh.gov/privacy-act",
+  "name": "New Hampshire Privacy Act",
+  "acronym": "NHPA",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "privacy-act",
+  "owner": "State of New Hampshire",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "New Hampshire's comprehensive consumer privacy law. SB 255 (2024), signed March 6 2024, effective January 1 2025.",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by State of New Hampshire (nh.gov) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within State of New Hampshire (nh.gov).",
+  "license": {
+    "spdx": "CC0-1.0",
+    "Grouping": "Public Domain",
+    "redistribution": "yes",
+    "derivatives": "yes",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.usa.gov/government-works",
+    "note": "United States Government work (17 U.S.C. § 105); in the public domain worldwide.",
+    "notes": "United States Government work (17 U.S.C. § 105); in the public domain worldwide."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://gc.nh.gov/bill_status/billinfo.aspx?id=865&inflect=1",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2020-01-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "date": "2026-11-10",
+    "tool": "",
+    "s3_archive_path": "",
+    "notes": "Registry URL resolves to a portal navigation or bill status page without full statutory text; recorded as metadata-only."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  },
+  "end_state": "metadata-only",
+  "end_reason": "portal-landing-page-only"
+}

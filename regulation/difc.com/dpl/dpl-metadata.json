@@ -1,0 +1,48 @@
+{
+  "secid": "secid:regulation/difc.com/dpl",
+  "name": "DIFC Data Protection Law No. 5 of 2020",
+  "acronym": "DIFC DPL",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "dpl",
+  "owner": "Dubai International Financial Centre",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "DIFC Data Protection Law",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by Dubai International Financial Centre (difc.com) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within Dubai International Financial Centre (difc.com).",
+  "license": {
+    "spdx": "LicenseRef-Government-Work",
+    "Grouping": "Government-Work",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": true,
+    "license_text_url": "https://difc.com/",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document for difc.com is acquired and verified against jurisdiction copyright terms). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document for difc.com is acquired and verified against jurisdiction copyright terms). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.difc.com/business/laws-regulations",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2020-01-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:regulation/difc.com/dpl (https://www.difc.com/business/laws-regulations) is not directly downloadable (upstream portal root URL only, SPA/WAF barrier, or pending publication); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

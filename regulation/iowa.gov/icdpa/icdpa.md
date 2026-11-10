@@ -2,7 +2,7 @@
 
 _Source: https://www.legis.iowa.gov/docs/code/2025/715D.pdf — extracted via pdftotext -layout. Effective January 1, 2025._
 
-```
+
 1                                                            CONSUMER DATA PROTECTIONS, §715D.1
 
 
@@ -12,11 +12,6 @@ _Source: https://www.legis.iowa.gov/docs/code/2025/715D.pdf — extracted via pd
                                    Referred to in §331.307, 364.22, 701.1
 
 
-### 715D.1      Definitions.                                  715D.6            Processing data — exemptions.
-### 715D.2      Scope and exemptions.                         715D.7            Limitations.
-### 715D.3      Consumer data rights.
-### 715D.4      Data controller duties.                       715D.8            Enforcement — penalties.
-### 715D.5      Processor duties.                             715D.9            Preemption.
 
 ### 715D.1 Definitions.
   As used in this chapter, unless the context otherwise requires:
@@ -603,4 +598,3 @@ federal agency, guidance issued by such agency thereto.
 
 Tue Nov 19 20:02:25 2024                                     Iowa Code 2025, Chapter 715D (13, 8)
 
-```

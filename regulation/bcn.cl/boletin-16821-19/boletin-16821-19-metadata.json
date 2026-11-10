@@ -1,0 +1,62 @@
+{
+  "secid": "secid:regulation/bcn.cl/boletin-16821-19",
+  "name": "Boletín N° 16821-19 — Proyecto de ley que regula los sistemas de inteligencia artificial (Chile Artificial Intelligence Bill)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "boletin-16821-19",
+  "owner": "Library of the National Congress of Chile (Biblioteca del Congreso Nacional de Chile — Ley Chile)",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Boletín N° 16821-19 — Proyecto de ley que regula los sistemas de inteligencia artificial (Chile Artificial Intelligence Bill)",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by Library of the National Congress of Chile (Biblioteca del Congreso Nacional de Chile — Ley Chile) (bcn.cl) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within Library of the National Congress of Chile (Biblioteca del Congreso Nacional de Chile — Ley Chile) (bcn.cl).",
+  "license": {
+    "spdx": "LicenseRef-CL-Law17336-Official",
+    "Grouping": "Government-Work",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/CL",
+    "note": "Official publication (bcn.cl); Republic of Chile Law No. 17,336 on Intellectual Property and Diario Oficial / MinCiencia open government publication terms (official supreme decrees and open-licensed national policy documents).",
+    "notes": "Official publication (bcn.cl); Republic of Chile Law No. 17,336 on Intellectual Property and Diario Oficial / MinCiencia open government publication terms (official supreme decrees and open-licensed national policy documents)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.camara.cl/legislacion/ProyectosDeLey/tramitacion.aspx?prmID=17415&prmBOLETIN=16821-19",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2020-01-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "date": "2026-11-10",
+    "tool": "",
+    "s3_archive_path": "",
+    "notes": "Registry URL resolves to a portal navigation or bill status page without full statutory text; recorded as metadata-only."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  },
+  "end_state": "metadata-only",
+  "end_reason": "portal-landing-page-only"
+}

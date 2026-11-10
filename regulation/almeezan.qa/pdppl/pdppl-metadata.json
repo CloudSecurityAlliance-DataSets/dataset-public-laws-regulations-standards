@@ -1,0 +1,48 @@
+{
+  "secid": "secid:regulation/almeezan.qa/pdppl",
+  "name": "Law No. 13 of 2016 concerning Personal Data Privacy Protection",
+  "acronym": "PDPPL",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "pdppl",
+  "owner": "Al Meezan — Qatar Legal Portal",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Personal Data Privacy Protection Law",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by Al Meezan — Qatar Legal Portal (almeezan.qa) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within Al Meezan — Qatar Legal Portal (almeezan.qa).",
+  "license": {
+    "spdx": "LicenseRef-QA-MCIT-QCRI-Terms",
+    "Grouping": "Proprietary / All Rights Reserved",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/QA",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (almeezan.qa) is governed by State of Qatar Law No. 7 of 2002 on the Protection of Copyright and Neighboring Rights and MCIT / Qatar Computing Research Institute (HBKU) publication terms. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (almeezan.qa) is governed by State of Qatar Law No. 7 of 2002 on the Protection of Copyright and Neighboring Rights and MCIT / Qatar Computing Research Institute (HBKU) publication terms. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.almeezan.qa/LawPage.aspx?id=6236",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2020-01-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:regulation/almeezan.qa/pdppl (https://www.almeezan.qa/LawPage.aspx?id=6236) is not directly downloadable (upstream portal root URL only, SPA/WAF barrier, or pending publication); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

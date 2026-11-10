@@ -1,0 +1,63 @@
+{
+  "secid": "secid:regulation/gov.za/popia",
+  "name": "Protection of Personal Information Act, 2013 (Act 4 of 2013)",
+  "acronym": "POPIA",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "popia",
+  "owner": "Government of South Africa",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "South Africa's comprehensive data-protection statute, GDPR-like in scope. Signed November 19, 2013; effective July 1, 2020 (one-year compliance grace period ending mid-2021). Enforced by the Information Regulator.",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by Government of South Africa (gov.za) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within Government of South Africa (gov.za).",
+  "license": {
+    "spdx": "LicenseRef-ZA-Act98-1978-Sec12-8",
+    "Grouping": "Public Domain",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/ZA",
+    "note": "Official publication (gov.za); Republic of South Africa Copyright Act 98 of 1978 Sec. 12(8)(a) (no copyright shall subsist in official texts of a legislative, administrative or legal nature, or in official translations of such texts).",
+    "notes": "Official publication (gov.za); Republic of South Africa Copyright Act 98 of 1978 Sec. 12(8)(a) (no copyright shall subsist in official texts of a legislative, administrative or legal nature, or in official translations of such texts)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.gov.za/documents/protection-personal-information-act",
+    "textUsed": "https://www.gov.za/sites/default/files/gcis_document/201409/3706726-11act4of2013popi.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2020-01-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official regulation (https://www.gov.za/sites/default/files/gcis_document/201409/3706726-11act4of2013popi.pdf) to Markdown (203,448 chars). Parsed 39 sections (31 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "secid": "secid:regulation/utah.gov/sb-226",
+  "name": "Utah SB 226 — Artificial Intelligence Consumer Protection Amendments (enacted March 2025, effective May 7, 2025)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "sb-226",
+  "owner": "State of Utah",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Utah SB 226 — Artificial Intelligence Consumer Protection Amendments (enacted March 2025, effective May 7, 2025)",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by State of Utah (utah.gov) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within State of Utah (utah.gov).",
+  "license": {
+    "spdx": "CC0-1.0",
+    "Grouping": "Public Domain",
+    "redistribution": "yes",
+    "derivatives": "yes",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.usa.gov/government-works",
+    "note": "United States Government work (17 U.S.C. § 105); in the public domain worldwide.",
+    "notes": "United States Government work (17 U.S.C. § 105); in the public domain worldwide."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://le.utah.gov/~2025/bills/static/SB0226.html",
+    "textUsed": "https://le.utah.gov/Session/2025/bills/enrolled/SB0226.xml",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2020-01-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "date": "2026-11-10",
+    "tool": "utah-leg-xml + tools-resources/utils/parse_regulatory_sections.py",
+    "s3_archive_path": "",
+    "notes": "Extracted official regulation (https://le.utah.gov/Session/2025/bills/enrolled/SB0226.xml) to Markdown (9,716 chars). Parsed 10 sections (1 with explicit section identifiers)."
+  },
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:regulation/utah.gov/sb-226 (https://le.utah.gov/~2025/bills/static/SB0226.html) is not directly downloadable (upstream portal root URL only, SPA/WAF barrier, or pending publication); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  },
+  "end_state": "extracted",
+  "end_reason": "regulation-doc"
+}

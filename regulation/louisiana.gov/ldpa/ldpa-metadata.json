@@ -1,0 +1,62 @@
+{
+  "secid": "secid:regulation/louisiana.gov/ldpa",
+  "name": "Louisiana Data Privacy Act",
+  "acronym": "LDPA",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "ldpa",
+  "owner": "State of Louisiana",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Louisiana's comprehensive consumer privacy law. SB 386 / Act 502 (2026), signed May 29 2026, effective January 1 2027.",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by State of Louisiana (louisiana.gov) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within State of Louisiana (louisiana.gov).",
+  "license": {
+    "spdx": "CC0-1.0",
+    "Grouping": "Public Domain",
+    "redistribution": "yes",
+    "derivatives": "yes",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.usa.gov/government-works",
+    "note": "United States Government work (17 U.S.C. § 105); in the public domain worldwide.",
+    "notes": "United States Government work (17 U.S.C. § 105); in the public domain worldwide."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.legis.la.gov/legis/BillInfo.aspx?s=26rs&b=SB386&sbi=y",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2020-01-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "date": "2026-11-10",
+    "tool": "",
+    "s3_archive_path": "",
+    "notes": "Registry URL resolves to a portal navigation or bill status page without full statutory text; recorded as metadata-only."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  },
+  "end_state": "metadata-only",
+  "end_reason": "portal-landing-page-only"
+}

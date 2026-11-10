@@ -1,0 +1,48 @@
+{
+  "secid": "secid:regulation/ejustice.just.fgov.be/nis2-transposition",
+  "name": "Belgian NIS2 transposition law",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "nis2-transposition",
+  "owner": "Justel / eJustice (Belgium)",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Belgian transposition of NIS2. Supervised by CCB.",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by Justel / eJustice (Belgium) (ejustice.just.fgov.be) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within Justel / eJustice (Belgium) (ejustice.just.fgov.be).",
+  "license": {
+    "spdx": "LicenseRef-BE-CDE-ArtXI172",
+    "Grouping": "Government-Work",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": true,
+    "license_text_url": "https://data.gov.be/en/legal-framework",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (ejustice.just.fgov.be) is governed by Belgian Code of Economic Law (Code de droit économique) Art. XI.172 (official acts of authority excluded from copyright) and federal open data reuse framework. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (ejustice.just.fgov.be) is governed by Belgian Code of Economic Law (Code de droit économique) Art. XI.172 (official acts of authority excluded from copyright) and federal open data reuse framework. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://ccb.belgium.be",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2020-01-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:regulation/ejustice.just.fgov.be/nis2-transposition (https://ccb.belgium.be) is not directly downloadable (upstream portal root URL only, SPA/WAF barrier, or pending publication); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

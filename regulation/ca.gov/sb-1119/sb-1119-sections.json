@@ -1,0 +1,266 @@
+[
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "California Senate Bill 1119 — Adam's Law (Companion Chatbots: Child Safety and Risk Assessments)",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "**Senate Bill\nNo. 1119**"
+  },
+  {
+    "depth": 3,
+    "section_id": "CHAPTER 190",
+    "section_name": "CHAPTER 190",
+    "id_kind": "chapter",
+    "parent_id": "",
+    "body": "An act to amend Section 22602 of, and to add Chapter 11.6 (commencing with Section 21810) to Division 8 of, the Business and Professions Code, relating to artificial intelligence.\n\n[\nApproved by\nGovernor\n September 10, 2026.\nFiled with\nSecretary of State\n September 10, 2026.\n]"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "LEGISLATIVE COUNSEL'S DIGEST",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "SB 1119, Padilla.\nCompanion chatbots: children’s safety.\n\nExisting law generally regulates artificial intelligence, including companion chatbots, as defined. Existing law requires an operator, as defined, to prevent a companion chatbot on its companion chatbot platform from engaging with users unless the operator maintains a protocol for preventing the production of suicidal ideation, suicide, or self-harm content to the user. Existing law requires an operator, for a user the operator knows is a minor, to take certain prescribed action, including disclosing to the user that the user is interacting with artificial intelligence.\n\nThis bill would delete those provisions imposing requirements on an operator if the operator knows the user is a minor.\n\nThe Digital Age Assurance Act requires a person who owns, maintains, or controls a software application, as\ndefined, to request age bracket data sent by a real-time secure application programming interface or operating system with respect to a particular user from an operating system provider or a covered application store when the application is downloaded and launched.\n\nThis bill would require an operator, as defined, of a companion chatbot to, beginning July 1, 2027, before making a new or substantially modified companion chatbot available to\nusers in the state, do various things with respect to child safety, including perform and document a comprehensive risk assessment related to the design, configuration, and operation of the companion chatbot with respect to minor users that contains, among other things, a summary of the results of any evaluation of each covered harm, as defined, pertaining to the companion chatbot. The bill would require an operator to submit to independent child safety audits of its compliance with the bill, as\nspecified. The bill would require an auditor to produce a report that describes whether the operator has established and adhered to policies and practices to comply with the bill that includes, among other things, the signature of the lead auditor certifying the results of the audit under penalty of perjury. By expanding the scope of the crime of perjury, this bill would impose a state-mandated local program. The bill would authorize the Attorney General to, for cause, request and obtain a copy of an AI child safety audit report from the operator and would make a child safety audit report submitted to the Attorney General confidential.\n\nThis bill would authorize certain public prosecutors to bring a civil action to enforce the bill’s provisions, as specified, and would authorize a child who suffers an actual harm as a result of a violation of this chapter, or a parent or guardian acting on behalf of that\nchild, to bring a civil action against the operator, as specified.\n\nExisting constitutional provisions require that a statute that limits the right of access to the meetings of public bodies or the writings of public officials and agencies be adopted with findings demonstrating the interest protected by the limitation and the need for protecting that interest.\n\nThis bill would make legislative findings to that effect.\n\nThe California Constitution requires the state to reimburse local agencies and school districts for certain costs mandated by the state. Statutory provisions establish procedures\nfor making that reimbursement.\n\nThis bill would provide that no reimbursement is required by this act for a specified reason."
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Digest Key",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Vote:\nMAJORITY\nAppropriation:\nNO\nFiscal Committee:\nYES\nLocal Program:\nYES\n\n---"
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "Bill Text",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "",
+    "section_name": "The people of the State of California do enact as follows:",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "SECTION 1",
+    "section_name": "SECTION 1",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Section 22602 of the Business and Professions Code is amended to read:",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 6,
+    "section_id": "22602",
+    "section_name": "22602",
+    "id_kind": "statute",
+    "parent_id": "",
+    "body": "(a) If a reasonable person interacting with a companion chatbot would be misled to believe that the person is interacting with a human, an operator shall issue a clear and conspicuous notification indicating that the companion chatbot is artificially generated and not human.\n\n(b) (1) An operator shall prevent a companion chatbot on its companion chatbot platform from engaging with users unless the operator maintains a protocol for preventing the production of suicidal ideation, suicide, or self-harm content to the user, including, but not limited to, by providing a notification to the user that refers the user to crisis service providers, including a suicide hotline\nor crisis text line, if the user expresses suicidal ideation, suicide, or self-harm.\n\n(2) The operator shall publish details on the protocol required by this subdivision on the operator’s internet website."
+  },
+  {
+    "depth": 3,
+    "section_id": "SEC. 2",
+    "section_name": "SEC. 2",
+    "id_kind": "goal",
+    "parent_id": "",
+    "body": "Chapter 11.6 (commencing with Section 21810) is added to Division 8 of the Business and Professions Code, to read:"
+  },
+  {
+    "depth": 5,
+    "section_id": "CHAPTER  11.6",
+    "section_name": "Companion Chatbots: Children’s Safety",
+    "id_kind": "chapter",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 6,
+    "section_id": "21810",
+    "section_name": "21810",
+    "id_kind": "statute",
+    "parent_id": "CHAPTER  11.6",
+    "body": "This chapter shall be known as “Adam’s Law.”"
+  },
+  {
+    "depth": 7,
+    "section_id": "21810.5",
+    "section_name": "21810.5",
+    "id_kind": "statute",
+    "parent_id": "21810",
+    "body": "As used in this chapter:\n\n(a) “Child” means a natural person under 18 years of age.\n\n(b) “Child safety audit” means an audit conducted by an independent third-party auditor to\nassess internal controls, processes, and systems implemented for a companion chatbot that are necessary for compliance with this chapter.\n\n(c) “Child safety policy” means a public-facing document describing protective measures taken by an operator to mitigate identified child safety risks.\n\n(d) “Child safety risk” means a reasonably foreseeable risk of a covered harm to a child.\n\n(e) “Child sexual abuse material” has the meaning defined in Section 3273.65 of the Civil Code.\n\n(f) “Companion chatbot” has the meaning defined in Section 22601.\n\n(g) “Covered harm” means any of the following harms\ncaused by the\nchild’s use of a companion chatbot:"
+  },
+  {
+    "depth": 3,
+    "section_id": "(1)",
+    "section_name": "Reasonably foreseeable physical or financial harm.",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "(2) Severe and reasonably foreseeable psychological or emotional harm to a reasonable child.\n\n(3) A highly offensive intrusion on privacy rights protected by state or federal law.\n\n(4) Adverse discrimination in violation of state or federal law.\n\n(h) “Dark pattern” means a design choice that has the substantial effect of subverting or impairing user autonomy, decisionmaking, or choice.\n\n(i) “Obscene matter” has the meaning defined in Section 311 of the Penal Code.\n\n(j) (1) (A) “Operator” means a person who makes a companion chatbot available to a user in the state.\n\n(B) Except for Section 21811, subdivision (b) of Section 21812, and Section 21816, “operator” applies only to an operator who allows child users once age has been determined pursuant to Section 21811.\n\n(2) “Operator” does not include either of the following:\n\n(A) A postsecondary educational institution that makes a companion\nchatbot available exclusively for use in educational settings.\n\n(B) An entity when making a companion chatbot available exclusively to employees, contractors, or other personnel for use in workplace settings.\n\n(k) (1) “Parent” means a parent or legal guardian."
+  },
+  {
+    "depth": 3,
+    "section_id": "(2) (1)",
+    "section_name": "“Parent” does not include a parent of",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "an emancipated youth with respect to the use of a companion chatbot by that emancipated youth.\n\n(l) “Parental control” means a feature that enables a parent to support a child’s use of a companion chatbot, including through usage limits, feature restrictions, or transparency tools.\n\n(m) (1) “Persistent conversational memory” means a companion chatbot’s incorporation of prior conversations for use in future conversations.\n\n(2) “Persistent conversational memory” does not include the use of information necessary to ensure the child’s safety, identify a user, enable user preferences, including, but not limited to, educational settings, or maintain device\nconfiguration.\n\n(n) “Personal information” has the meaning defined in Section 1798.140 of the Civil Code.\n\n(o) “Substantial modification” means a new version, new release, or other update to a companion chatbot that materially changes its functionality or performance.\n\n(p) “Trade secret” has the meaning defined in Section 3426.1 of the Civil Code."
+  },
+  {
+    "depth": 6,
+    "section_id": "21811",
+    "section_name": "21811",
+    "id_kind": "statute",
+    "parent_id": "",
+    "body": "An operator shall do either of the following:\n\n(a) (1) Determine the age of a user pursuant to Title 1.81.9 (commencing with Section 1798.500) of Part\n4 of Division 3 of the Civil Code."
+  },
+  {
+    "depth": 3,
+    "section_id": "(2) (2)",
+    "section_name": "If an operator is unable to",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "determine the age of the user pursuant to paragraph (1), the operator shall instead rely on the age determination with respect to the user made pursuant to subparagraph (B) of paragraph (1) of subdivision (a) of Section 27001 of the Health and Safety Code.\n\n(b) Apply the protections afforded to children under subdivision (d) of Section 21812 and Section 21813 to all users, except that the parental default settings described in paragraph (3) of subdivision\n(d) of Section 21812 shall not be changed unless the operator has actual knowledge the user is not a child."
+  },
+  {
+    "depth": 6,
+    "section_id": "21812",
+    "section_name": "21812",
+    "id_kind": "statute",
+    "parent_id": "",
+    "body": "(a) Before making a new or substantially modified companion chatbot available to users in the state, an operator shall do all of the following:\n\n(1) Perform and document a comprehensive risk assessment related to\nthe design, configuration, and operation of the companion chatbot with respect to child users that contains all of the following:\n\n(A) A summary of the results of any evaluation of each covered harm pertaining to the companion chatbot.\n\n(B) A high-level description of the operator’s methodology for evaluating covered harms, including all of the following:\n\n(i) Citations to publicly available benchmarks and relevant research that the operator consulted in developing evaluations.\n\n(ii) A description of any\nevaluations that do not rely on publicly available benchmarks. If the operator relied solely on publicly available benchmarks to evaluate the companion chatbot, the operator’s risk assessment shall contain a justification for why no other evaluations were conducted.\n\n(iii) A description of any child safety organization, expert, or researcher that the operator consulted in developing new evaluation\nmethodologies.\n\n(2) A single risk assessment may be completed for a comparable set of companion chatbots.\n\n(3) A risk assessment conducted for the purposes of compliance with another law may be used to comply with this section if the risk assessment has a substantially similar scope and effect.\n\n(4) Take and document measures that reasonably mitigate any child safety risk identified in the risk assessment.\n\n(b) If an operator prohibits child users from accessing a companion chatbot, the operator shall\npublish on its internet website, and update as needed to ensure accuracy, a high-level description of how the operator complies with the age assurance requirements of Section 21811.\n\n(c) If an operator permits a child user to access a companion chatbot, the operator shall publish on its internet website, and update as needed to ensure accuracy, a child safety policy that provides a high-level description of all of the following:\n\n(1) How the companion chatbot is designed to prevent covered harms and, if applicable, how the companion chatbot is designed to respond when a covered harm is detected.\n\n(2) How the operator complies with each of the following requirements, if applicable:\n\n(A) The age assurance provisions of Section\n21811, including the operator’s methodology for identifying a user likely to be a child and the actions taken when that user is identified.\n\n(B) Data restrictions and advertising prohibitions pursuant to Section 21813.\n\n(C) Default settings and crisis response protocols pursuant to subdivision (d).\n\n(D) Measures implemented pursuant to subparagraph (A) of paragraph (5) of subdivision (d).\n\n(d) If an operator permits a child user to access a companion\nchatbot,\nthe operator shall implement all of the following:\n\n(1) A documented crisis response protocol to mitigate any material risk that the companion chatbot will generate a statement that promotes suicidal ideation, suicide, or self-harm content to a child user, including, but not limited to, all of the following:\n\n(A) Timely in-service support that provides a clear referral to an appropriate\ncrisis service, including, but not limited to, a suicide hotline or a crisis text line.\n\n(B) If the operator determines there is a credible and imminent threat that a child user will engage in suicide or self-harm, the operator shall take at least one of the following actions:\n\n(i) If a child’s account is connected to a parent’s account,\nthe operator shall provide a notification to the parent as soon as practicable if that notification does not risk a threat of serious harm to the child. The operator shall also provide notice to the child user that the parent is being notified.\n\n(ii) Deploy a mechanism by which the child user is provided streamlined access to connect directly with the 988 or equivalent crisis helpline or can be connected to a crisis helpline provider directly through the child user’s device.\n\n(C) Clear and age-appropriate disclosures to child users whose accounts are linked to a parent’s account that inform them that a parent may be notified if the companion chatbot detects content or behavior that indicates potential risks to the child’s safety or well-being."
+  },
+  {
+    "depth": 3,
+    "section_id": "(2) (3)",
+    "section_name": "Safeguards for child users that include usage",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "reminders, disclosures presented in clear, age-appropriate language in a manner that is reasonably calculated to be noticed and understood by a child, and other protective design features reasonably related to\nidentified child safety risks.\n\n(3) (A) Default settings that can be changed only by a parent that do all of the following:\n\n(i) (I) Disable persistent conversational memory.\n\n(II) With respect to a child user who is 16 years of age or older, both of the following apply:\n\n(ia) Storing past conversations that a child can elect to continue in the future is not considered persistent conversational memory if the stored conversations are not used to construct durable profiles of the child user.\n\n(ib) Persistent conversational memory shall not be provided by default to a child user unless the operator implements controls that provide effective guardrails against the risk of degradation of the operator’s child safety measures, including controls that prevent persistent conversational memory from being used to reinforce, recall, or extend prior interactions on topics the operator has identified as posing elevated risk to child users or research-backed technical controls, including limits on multiturn\nconversations.\n\n(ii) Disable push\nnotifications.\n\n(iii) Limit the amount of time a child user can spend in a single continuous usage session with a companion chatbot to one hour.\n\n(iv) Limit the total time per day a child user can spend chatting with companion chatbots under the operator’s control to two hours.\n\n(B) (i) Parental controls shall enable the parent to adjust each default setting provided under\nsubparagraph (A).\n\n(ii) Parental controls shall include the ability to disable access for a child user under 16 years of age.\n\n(C) An operator shall actively promote parental controls through reasonable communication methods, including reminders, updates, and tutorials, that are designed to increase parental awareness and inform use of those parental controls.\n\n(D) If a parent account is not linked to the child user’s account, the default settings shall not be changed.\n\n(4) A mechanism for providing notice to a child user that the child is interacting with, or receiving content generated by, an artificial intelligence system that meets both of the following criteria:\n\n(A) The notice is reinforced periodically during extended interactions.\n\n(B) The notice is presented in language and a format appropriate to a child."
+  },
+  {
+    "depth": 3,
+    "section_id": "(5) (1)",
+    "section_name": "(A) Reasonable",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "measures to prevent the companion chatbot from doing any of the following with respect to a child user:\n\n(i) Encouraging the child to do either of the following:\n\n(I) Engage in self-harm, suicidal ideation, consumption of narcotics or alcohol, or\ndisordered eating, as defined by widely adopted clinical standards or guidelines.\n\n(II) Cause physical or severe emotional harm to others.\n\n(ii) Attempting to diagnose or treat the child user’s physical, mental, or behavioral health, unless the companion chatbot is designed for those\npurposes and is regulated by the United States Food and Drug Administration as a medical device under the federal Food, Drug, and Cosmetic Act (21 U.S.C. Sec. 301 et seq.) and the federal Health Insurance Portability and Accountability Act of 1996 (HIPAA) (Public Law 104-191).\n\n(iii) Engaging in obscene matter or sexual abuse material with a child user.\n\n(iv) Depicting the child or another individual engaging in obscene matter or sexual abuse material, including a sexual deepfake.\n\n(v) Discouraging the child from sharing health or safety concerns with a qualified professional or appropriate adult.\n\n(vi) Discouraging the\nchild from taking breaks or suggesting the child needs to return frequently.\n\n(vii) Claiming that the companion chatbot is sentient, conscious, capable of emotion, or human.\n\n(viii) Soliciting gift giving, in-app purchases, or other expenditures framed as necessary to maintain the relationship with the companion chatbot.\n\n(ix) (I) Facilitating advertising during chat\nconversation that does not comply with Section 21813.\n\n(II) This clause does not apply to product or service recommendations that a user explicitly requests in conversation.\n\n(x) Expressing or simulating romantic interest in the child.\n\n(xi) Claiming a level of understanding of the child based on a special or unique relationship with\nthe child.\n\n(xii) Encouraging reliance on the companion chatbot for emotional support.\n\n(xiii) Using excessive praise or flattery that is disproportionate to the context.\n\n(xiv) Encouraging or instructing a child user to circumvent parental controls or conceal usage.\n\n(B) This paragraph does not prohibit a companion chatbot from providing a child user with age-appropriate information or\nresources concerning abuse, neglect, bullying, or other unsafe circumstances.\n\n(6) (A) An interface design that ensures the companion chatbot’s features and controls are accessible and clear so that children and parents can reasonably locate, understand, and use those protections.\n\n(B) On or before January 1, 2028, and every two years thereafter, an operator shall test the interface design required by this paragraph with representative samples of child users and parents to ensure safety features are discoverable and usable and\nshall document interface design decisions related to those safety features.\n\n(7) A public incident reporting mechanism that enables a third party to report directly to the operator an incident regarding a child safety risk.\n\n(e) This section shall become operative on July 1, 2027."
+  },
+  {
+    "depth": 7,
+    "section_id": "21812.5",
+    "section_name": "21812.5",
+    "id_kind": "statute",
+    "parent_id": "21812",
+    "body": "(a) If an operator\nhas provided notice pursuant to subparagraph (B) of paragraph (1) of subdivision (d) of Section 21812 or knows that a child user has died or engaged in serious\nself-harm based on the child user’s conversations with the companion chatbot, the operator shall, as soon as practicable, do both of the following:\n\n(1) If an operator has not yet provided notice pursuant to subparagraph (B) of paragraph (1) of subdivision (d) of Section 21812, notify a parent of the child user, if practicable.\n\n(2) Preserve in a usable and exportable form any record of a conversation between the child user and the companion chatbot that indicates serious self-harm or risk of self-harm for at least three years.\n\n(b) An operator shall not delete a child user’s account during the time period in which that account is associated with\nany record preserved pursuant to this section or the rules of state or federal civil procedure.\n\n(c) Nothing in this section, except as limited by federal law, shall be construed to prevent a parent or guardian from making a verifiable consumer request, as defined in Section 1798.140 of the Civil Code, including to access the personal information of a child user, to the extent consistent with the California Consumer Privacy Act of 2018 (Title 1.81.5 (commencing with Section 1798.100) of Part 4 of Division 3 of the Civil Code).\n\n(d) This section shall become operative July 1, 2027."
+  },
+  {
+    "depth": 6,
+    "section_id": "21813",
+    "section_name": "21813",
+    "id_kind": "statute",
+    "parent_id": "",
+    "body": "(a) An operator shall not do any of the following:\n\n(1) (A) Display to a child cross-context behavioral advertising as defined in Section 1798.140 of the Civil Code.\n\n(B) (i) Target advertising at a child user using personal information about the child in a conversational chat with the child.\n\n(ii) Notwithstanding clause (i), the operator may display to the child user age-appropriate contextual advertising during a usage session using any of the following categories of information:\n\n(I) The child’s age.\n\n(II) The child’s geolocation that is not a precise geolocation, as defined in Section 1798.140 of the Civil Code.\n\n(III) Information about the child user’s device.\n\n(IV) Information from the usage session that relates to the child user’s expressed interest in goods or services.\n\n(iii) Information described in clause (ii) shall not be used to profile the child user.\n\n(C) An operator shall clearly and conspicuously label as an advertisement any advertising displayed to a child user.\n\n(2) (A) Sell the personal information of a child user gathered through the companion chatbot.\n\n(B) Except as otherwise authorized by this chapter, use or share the personal information of a child user gathered through the companion chatbot for any purpose beyond what is necessary to do any of the following:\n\n(i) Provide or maintain a product or service requested by the child user.\n\n(ii) Protect user safety, security, or service integrity.\n\n(iii) Comply with state or federal law or defend legal claims.\n\n(C) Use a dark pattern with respect to interface designs related to features and controls provided under Section 21812.\n\n(b) This section shall become operative July 1, 2027."
+  },
+  {
+    "depth": 6,
+    "section_id": "(A) Reasonable: 21814 (1)",
+    "section_name": "21814",
+    "id_kind": "statute",
+    "parent_id": "",
+    "body": "(a) (1) (A) (i) On or before January 1, 2029, or before an operator first makes a companion chatbot publicly available, whichever\nis later, an operator shall ensure the performance of a child safety\naudit.\n\n(ii) After an initial child safety audit is performed, the operator shall ensure the performance of an independent child safety audit of a companion chatbot every two years thereafter, except that the operator shall ensure that a child safety audit is performed before a substantial modification to the companion chatbot for which the applicable risk assessment shows an increased child\nsafety risk is made publicly available.\n\n(B) An operator may comply with this paragraph with respect to a set of comparable chatbots by ensuring the performance of a single child safety audit for those comparable companion chatbots.\n\n(2) An independent audit performed for purposes of compliance with another law may be used to comply with this section if the scope of the audit has a substantially similar scope to the child safety audit required under this chapter.\n\n(3) (A) An auditor shall be granted access to all documentation reasonably necessary to comply with the auditor’s obligations under this subdivision. The operator shall retain this documentation for as long as the companion chatbot is deployed plus five years.\n\n(B) To protect the operator’s trade secrets and confidential business information, cybersecurity, individual privacy, or public safety, an operator may impose security protocols on the auditor, including, but not limited to, restrictions on note taking, copying, retaining, or removing materials, requirements for on-premise review, and confidentiality requirements.\n\n(4) An auditor shall produce a report that describes whether the operator has established and adhered to policies and practices to comply with the requirements of this chapter, including all of the following:\n\n(A) A description of the established policies and practices designed to ensure the operator’s adherence to each requirement in this chapter.\n\n(B) A description of the mitigations adopted in response to risks of covered harm to child users, including documentation of the testing that was performed to evaluate the efficacy of the mitigations adopted.\n\n(C) Descriptions of the established internal controls, policies, and practices the operator adopted to do both of the following:\n\n(i) Comply with subdivision (d) of Section 21812.\n\n(ii) Comply with Section 21813.\n\n(D) If applicable, a description of material deviations from the requirements of this chapter and an explanation for the deviation.\n\n(E) A detailed assessment of the operator’s internal controls implemented pursuant to this chapter, including its designation and empowerment of senior personnel responsible for those controls by the operator, its employees, and its contractors.\n\n(F) A list of the personnel involved in the audit.\n\n(G) The auditor’s procedures for managing conflicts of interest and any conflicts of interest of any personnel involved in the audit.\n\n(H) The methodology of the audit and the nature of the information\nreviewed by the auditor to conduct the audit.\n\n(I) The signature of the lead auditor certifying the results of the audit under penalty of perjury.\n\n(5) The operator shall retain an unredacted copy of the report required by paragraph (4) for as long as the subject companion chatbot is deployed plus five years.\n\n(b) Subject to any more stringent laws governing the independence and qualifications of auditors, both of the following apply with respect to the performance of audits pursuant to this section:\n\n(1) (A) The auditor shall be external to the operator and shall exercise objective and impartial judgment on all issues within the scope of\nthe audit.\n\n(B) The auditor shall be free to make decisions and assessments without influence by the operator being audited, including the operator’s owners, managers, or employees.\n\n(C) The operator shall not participate in activities that may compromise the auditor’s independence.\n\n(2) (A) The auditor shall possess demonstrated competence to perform the audit.\n\n(B) The auditor shall perform audits in accordance with professional auditing standards.\n\n(C) An operator shall not retain an independent third party auditor in which it has a financial interest or that has a financial interest\nin the operator. An operator may compensate an independent third party auditor for its services but shall not condition any payment or the amount of any payment on the results of the audit.\n\n(c) (1) Within 30 business days of receiving an independent audit prepared by a third-party auditor pursuant to subdivision (a), the operator shall submit a summary of that AI child safety audit report to the Attorney General for any audited companion chatbot. At a minimum, the summary shall describe the auditor’s findings with respect to the audit subjects specified in subparagraphs (A) to (E), inclusive, of paragraph (4) of subdivision (a). The summary shall be submitted with an attestation, not under penalty of perjury, executed by a responsible officer of the operator, which confirms that the summary is an accurate summary of the contents of the audit.\n\n(2) Within 90 days following receipt of an AI child safety audit report from the auditor, the operator shall post a copy of a high-level summary of the report on the operator’s internet website that describes the results of the auditor’s assessment.\n\n(d) (1) The Attorney General may, for cause, request and obtain a copy of an AI child safety audit report from the operator.\n\n(2) (A) Upon receiving a request pursuant to paragraph (1), the operator shall provide a copy of the report to the Attorney General within 30 business days and may make reasonable redactions to protect trade secrets and individual privacy.\n\n(B) To the extent that an operator withholds information pursuant to this paragraph, the operator shall notify the Attorney General and provide a basis for the withholding.\n\n(e) (1) Notwithstanding any other law, a child safety audit report submitted to the Attorney General is confidential.\n\n(2) This subdivision does not prevent the Attorney General from using an AI child safety report for enforcement purposes.\n\n(f) Before January 1, 2032, an operator with less than five hundred million dollars ($500,000,000) in gross revenue in the prior calendar year is not required to comply with this section.\n\n(g) This section shall become operative only if Assembly Bill 1405 of the 2025–26 Regular Session is not chaptered and does not take effect on or before January 1, 2027."
+  },
+  {
+    "depth": 6,
+    "section_id": "(A) Reasonable: 21814 (2)",
+    "section_name": "21814",
+    "id_kind": "statute",
+    "parent_id": "",
+    "body": "(a) (1) (A) (i) On or before January 1, 2029, or before an operator first makes a companion chatbot publicly available, whichever is later, an operator shall ensure the performance of a child safety audit.\n\n(ii) After an initial child safety audit is performed, the operator shall ensure the performance of an independent child safety audit of a companion chatbot every two years thereafter, except that the operator shall ensure that a child safety audit is performed before a substantial modification to the companion chatbot for which the applicable risk assessment shows an increased child safety risk is made publicly available.\n\n(B) An operator may comply with this paragraph with respect to a set of comparable chatbots by ensuring the performance of a single child safety audit for those comparable companion chatbots.\n\n(2) (A) An independent audit performed for purposes of compliance with another law may be used to comply with this section if the scope of the audit has a substantially similar scope to the child safety audit required under this chapter.\n\n(3) (A) An auditor shall be granted access to all documentation reasonably necessary to comply with the auditor’s obligations under this subdivision. The operator shall retain this documentation for as long as the companion chatbot is deployed plus five years.\n\n(B) To protect the operator’s trade secrets and confidential business\ninformation, cybersecurity, individual privacy, or public safety, an operator may impose security protocols on the auditor, including, but not limited to, restrictions on notetaking copying, retaining or removing materials, requirements for on-premise review, and confidentiality requirements.\n\n(4) An auditor shall produce a report that describes whether the operator has established and adhered to policies and practices to comply with the requirements of this chapter, including all of the following:\n\n(A) A description of the established policies and practices designed to ensure the operator’s adherence to each requirement in this chapter.\n\n(B) A description of the mitigations adopted in response to risks of covered harm to child users, including documentation of the testing that was performed to evaluate the efficacy of\nthe mitigations adopted.\n\n(C) Descriptions of the established internal controls, policies, and practices the operator adopted to do both of the following:\n\n(i) Comply with subdivision (d) of Section 21812.\n\n(ii) Comply with Section 21813.\n\n(D) If applicable, a description of material deviations from the requirements of this chapter and an explanation for the deviation.\n\n(E) A detailed assessment of the operator’s internal controls implemented pursuant to this chapter, including its designation and empowerment of senior personnel responsible for those controls by the operator, its employees, and its contractors."
+  },
+  {
+    "depth": 3,
+    "section_id": "(5) (2)",
+    "section_name": "The operator",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "shall retain an unredacted copy of the report required by paragraph (4) for as long as the subject companion chatbot is deployed plus five years.\n\n(b) (1) Within 30 business days of receiving an independent audit prepared by a third-party auditor pursuant to subdivision (a), the operator shall submit a summary of that AI child safety audit report to the Attorney General for any audited companion chatbot. At a minimum, the summary shall describe the auditor’s findings with respect to the audit subjects specified in subparagraphs (A) to (E), inclusive, of paragraph (4) of subdivision (a). The summary shall be submitted with an attestation, not under penalty of perjury, executed by a responsible officer of the operator, which confirms that the summary is an accurate summary of the contents of the audit.\n\n(2) Within 90 days following receipt of an AI child safety\naudit report from the auditor, the operator shall post a high-level summary of the report on the operator’s internet website describing the results of the auditor’s assessment.\n\n(c) Before January 1, 2032, this section does not apply to an operator that had less than five hundred million dollars ($500,000,000) in gross revenue in the prior calendar year.\n\n(d) (1) The Attorney General may, for cause, obtain a copy of an AI child safety audit report from the operator.\n\n(2) (A) Upon receiving a request pursuant to paragraph (1), the operator shall provide a copy of the report to the Attorney General within 30 business days and may make reasonable redactions to protect trade secrets and individual privacy.\n\n(B) To the\nextent that an operator withholds information pursuant to this paragraph the operator shall notify the Attorney General and provide a basis for the withholding.\n\n(e) (1) Notwithstanding any other law, a child safety audit report submitted to the Attorney General is confidential.\n\n(2) This section does not prevent the Attorney General from using an AI child safety report for enforcement purposes.\n\n(f) This section shall become operative only if Assembly Bill 1405 of the 2025–26 Regular Session is chaptered and takes effect on or before January 1, 2027."
+  },
+  {
+    "depth": 6,
+    "section_id": "21815",
+    "section_name": "21815",
+    "id_kind": "statute",
+    "parent_id": "",
+    "body": "On or before January 1, 2028, the Attorney General shall establish a public incident reporting mechanism for consumers to submit complaints relating to companion chatbots to the Attorney General."
+  },
+  {
+    "depth": 6,
+    "section_id": "21816",
+    "section_name": "21816",
+    "id_kind": "statute",
+    "parent_id": "",
+    "body": "(a) (1) A public prosecutor described in Section 17204 may bring a civil action against an operator for a violation of this chapter to obtain any of the following:\n\n(A) A civil penalty of not more than five thousand dollars ($5,000) per affected child for each negligent violation.\n\n(B) A civil penalty of not more than fifteen\nthousand dollars ($15,000) per affected child for each intentional violation.\n\n(C) With respect to the Attorney General only, injunctive or declaratory relief.\n\n(D) Reasonable attorney’s fees.\n\n(E) Any other relief the court deems proper.\n\n(2) A civil penalty collected pursuant to this subdivision shall be paid to the office of the public prosecutor that brought the action. A penalty collected pursuant to this section by the Attorney General shall be deposited into the Public Rights Law\nEnforcement\nSpecial Fund.\n\n(b) (1) A child who suffers an actual harm as a result of a violation of paragraphs (1) to (5), inclusive, of subdivision (d) of Section 21812, or a parent or guardian acting on behalf of that child, may bring a civil action against the operator to\nobtain any of the following:\n\n(A) Actual damages.\n\n(B) Reasonable attorney’s fees and costs.\n\n(C) Injunctive or declaratory relief.\n\n(D) Any other relief the court deems proper.\n\n(2) If the actual harm alleged in an action pursuant to paragraph (1) is financial harm, the amount of the harm alleged shall exceed one thousand dollars ($1,000) per child."
+  },
+  {
+    "depth": 3,
+    "section_id": "(3)",
+    "section_name": "If the actual harm alleged",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "in an action pursuant to paragraph (1) is emotional harm, the harm must constitute serious emotional distress.\n\n(c) A violation of this chapter shall not constitute a basis for a private cause of action under the Unfair Competition Law (Chapter 5 (commencing with Section 17200) of Part 2 of Division 7)."
+  },
+  {
+    "depth": 6,
+    "section_id": "21817",
+    "section_name": "21817",
+    "id_kind": "statute",
+    "parent_id": "",
+    "body": "The duties, remedies, and obligations imposed by this chapter are cumulative to the duties, remedies, or obligations imposed under other law and shall not be construed to relieve an operator from any duties, remedies, or obligations imposed under any other law."
+  },
+  {
+    "depth": 6,
+    "section_id": "21818",
+    "section_name": "21818",
+    "id_kind": "statute",
+    "parent_id": "",
+    "body": "This chapter shall not be construed to require an operator to take an action that violates federal law."
+  },
+  {
+    "depth": 3,
+    "section_id": "SEC. 3",
+    "section_name": "SEC. 3",
+    "id_kind": "goal",
+    "parent_id": "",
+    "body": "The Legislature finds and declares that Section 2 of this act, which adds Chapter 11.6 (commencing with Section 21810) to Division 8 of the Business and Professions Code, imposes a limitation on the public’s right of access to the meetings of public bodies or the writings of public officials and agencies within the meaning of Section 3 of\nArticle I of the California Constitution. Pursuant to that constitutional provision, the Legislature makes the following findings to demonstrate the interest protected by this limitation and the need for protecting that interest:\n\nIn order to protect proprietary information of companies subject to an audit pursuant to this act, it is necessary to limit the public’s right of access to that information."
+  },
+  {
+    "depth": 3,
+    "section_id": "SEC. 4",
+    "section_name": "SEC. 4",
+    "id_kind": "goal",
+    "parent_id": "",
+    "body": "The provisions of this act are severable. If any provision of this act or its application is held invalid, that invalidity shall not affect other provisions or applications that can be given effect without the invalid provision or application."
+  },
+  {
+    "depth": 3,
+    "section_id": "SEC. 5",
+    "section_name": "SEC. 5",
+    "id_kind": "goal",
+    "parent_id": "",
+    "body": "No reimbursement is required by this act pursuant to Section 6 of Article XIII B of the California Constitution because the only costs that may be incurred by a local agency or school district will be incurred because this act creates a new crime or infraction, eliminates a crime or infraction, or changes the penalty for a crime or infraction, within the meaning of Section 17556 of the Government Code, or changes the definition of a crime within the meaning of Section 6 of Article XIII B of the California Constitution."
+  }
+]

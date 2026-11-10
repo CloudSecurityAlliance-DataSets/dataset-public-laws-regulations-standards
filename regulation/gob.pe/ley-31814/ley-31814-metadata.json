@@ -1,0 +1,63 @@
+{
+  "secid": "secid:regulation/gob.pe/ley-31814",
+  "name": "Ley N.° 31814 — Ley que promueve el uso de la inteligencia artificial en favor del desarrollo económico y social del país (Peru AI Promotion Law)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "ley-31814",
+  "owner": "Platform of the Peruvian State (Plataforma digital única del Estado Peruano)",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Ley N.° 31814 — Ley que promueve el uso de la inteligencia artificial en favor del desarrollo económico y social del país (Peru AI Promotion Law)",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by Platform of the Peruvian State (Plataforma digital única del Estado Peruano) (gob.pe) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within Platform of the Peruvian State (Plataforma digital única del Estado Peruano) (gob.pe).",
+  "license": {
+    "spdx": "LicenseRef-PE-DL822-Art9",
+    "Grouping": "Public Domain",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/PE",
+    "note": "Official publication (gob.pe); Republic of Peru Legislative Decree No. 822 (Law on Copyright) Art. 9(b) (official texts of a legislative, administrative or judicial nature, and their official translations, are not objects of copyright protection).",
+    "notes": "Official publication (gob.pe); Republic of Peru Legislative Decree No. 822 (Law on Copyright) Art. 9(b) (official texts of a legislative, administrative or judicial nature, and their official translations, are not objects of copyright protection)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://busquedas.elperuano.pe/dispositivo/NL/2192926-1",
+    "textUsed": "https://busquedas.elperuano.pe/dispositivo/NL/2192926-1",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2020-01-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official regulation (https://busquedas.elperuano.pe/dispositivo/NL/2192926-1) to Markdown (7,382 chars). Parsed 13 sections (7 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  }
+}

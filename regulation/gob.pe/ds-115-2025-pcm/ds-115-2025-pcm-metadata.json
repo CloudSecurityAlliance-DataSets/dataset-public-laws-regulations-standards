@@ -1,0 +1,62 @@
+{
+  "secid": "secid:regulation/gob.pe/ds-115-2025-pcm",
+  "name": "Decreto Supremo N.° 115-2025-PCM — Reglamento de la Ley N.° 31814 (Implementing Regulation of the Peru AI Law)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "ds-115-2025-pcm",
+  "owner": "Platform of the Peruvian State (Plataforma digital única del Estado Peruano)",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Decreto Supremo N.° 115-2025-PCM — Reglamento de la Ley N.° 31814 (Implementing Regulation of the Peru AI Law)",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by Platform of the Peruvian State (Plataforma digital única del Estado Peruano) (gob.pe) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within Platform of the Peruvian State (Plataforma digital única del Estado Peruano) (gob.pe).",
+  "license": {
+    "spdx": "LicenseRef-PE-DL822-Art9",
+    "Grouping": "Public Domain",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/PE",
+    "note": "Official publication (gob.pe); Republic of Peru Legislative Decree No. 822 (Law on Copyright) Art. 9(b) (official texts of a legislative, administrative or judicial nature, and their official translations, are not objects of copyright protection).",
+    "notes": "Official publication (gob.pe); Republic of Peru Legislative Decree No. 822 (Law on Copyright) Art. 9(b) (official texts of a legislative, administrative or judicial nature, and their official translations, are not objects of copyright protection)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.gob.pe/pcm",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2020-01-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "date": "2026-11-10",
+    "tool": "",
+    "s3_archive_path": "",
+    "notes": "Registry URL resolves to a portal navigation or bill status page without full statutory text; recorded as metadata-only."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  },
+  "end_state": "metadata-only",
+  "end_reason": "portal-landing-page-only"
+}

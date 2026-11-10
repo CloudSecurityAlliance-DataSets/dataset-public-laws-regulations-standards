@@ -1,0 +1,63 @@
+{
+  "secid": "secid:regulation/ny.gov/ai-companion-models-law",
+  "name": "New York General Business Law Article 47 (§§ 1700–1704) — Artificial Intelligence Companion Models",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "ai-companion-models-law",
+  "owner": "New York State",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "New York state statute requiring operators of AI companion models to provide clear and conspicuous notice at the start of every interaction and at least every three hours during continuing interactions that the user is not communicating with a human, and to maintain suicidal-ideation and self-harm detection and crisis-service referral protocols.",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by New York State (ny.gov) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within New York State (ny.gov).",
+  "license": {
+    "spdx": "CC0-1.0",
+    "Grouping": "Public Domain",
+    "redistribution": "yes",
+    "derivatives": "yes",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.usa.gov/government-works",
+    "note": "United States Government work (17 U.S.C. § 105); in the public domain worldwide.",
+    "notes": "United States Government work (17 U.S.C. § 105); in the public domain worldwide."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.nysenate.gov/legislation/bills/2025/S3008/amendment/C",
+    "textUsed": "https://legislation.nysenate.gov/pdf/bills/2025/S3008C",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2020-01-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official regulation (https://legislation.nysenate.gov/pdf/bills/2025/S3008C) to Markdown (453,722 chars). Parsed 213 sections (71 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  }
+}

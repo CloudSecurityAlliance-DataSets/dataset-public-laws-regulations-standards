@@ -1,0 +1,48 @@
+{
+  "secid": "secid:regulation/chinhphu.vn/pdpd",
+  "name": "Decree No. 13/2023/ND-CP on Personal Data Protection",
+  "acronym": "PDPD",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "pdpd",
+  "owner": "Government of Vietnam",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Personal Data Protection Decree",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by Government of Vietnam (chinhphu.vn) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within Government of Vietnam (chinhphu.vn).",
+  "license": {
+    "spdx": "LicenseRef-VN-IP-Law-Art15-2",
+    "Grouping": "Public Domain",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/VN",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (chinhphu.vn) is governed by Socialist Republic of Vietnam Law on Intellectual Property (No. 50/2005/QH11, as amended) Art. 15(2) (documents of state agencies, political organizations, and armed forces units in the domain of state management — including administrative documents and Prime Ministerial Decisions — and their official translations are not covered by copyright protection). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (chinhphu.vn) is governed by Socialist Republic of Vietnam Law on Intellectual Property (No. 50/2005/QH11, as amended) Art. 15(2) (documents of state agencies, political organizations, and armed forces units in the domain of state management — including administrative documents and Prime Ministerial Decisions — and their official translations are not covered by copyright protection). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://thuvienphapluat.vn",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2020-01-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:regulation/chinhphu.vn/pdpd (https://thuvienphapluat.vn) is not directly downloadable (upstream portal root URL only, SPA/WAF barrier, or pending publication); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

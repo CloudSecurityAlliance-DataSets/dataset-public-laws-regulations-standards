@@ -1,0 +1,63 @@
+{
+  "secid": "secid:regulation/illinois.gov/wopr-act",
+  "name": "Wellness and Oversight for Psychological Resources Act",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "wopr-act",
+  "owner": "Illinois State",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Illinois statute prohibiting any person, corporation, or entity from offering or providing therapy or psychotherapy services through artificial intelligence unless conducted by a licensed behavioural health professional, and barring AI chatbots from making independent therapeutic decisions, generating treatment plans without licensed review, or directly conducting therapeutic communication with clients.",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by Illinois State (illinois.gov) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within Illinois State (illinois.gov).",
+  "license": {
+    "spdx": "CC0-1.0",
+    "Grouping": "Public Domain",
+    "redistribution": "yes",
+    "derivatives": "yes",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.usa.gov/government-works",
+    "note": "United States Government work (17 U.S.C. § 105); in the public domain worldwide.",
+    "notes": "United States Government work (17 U.S.C. § 105); in the public domain worldwide."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.ilga.gov/legislation/PublicActs/View/104-0054",
+    "textUsed": "https://www.ilga.gov/Documents/Legislation/PublicActs/104/PDF/104-0054.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2020-01-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official regulation (https://www.ilga.gov/Documents/Legislation/PublicActs/104/PDF/104-0054.pdf) to Markdown (9,503 chars). Parsed 45 sections (9 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  }
+}

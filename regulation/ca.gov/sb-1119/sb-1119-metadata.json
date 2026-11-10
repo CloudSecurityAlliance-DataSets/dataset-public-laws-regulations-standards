@@ -1,0 +1,63 @@
+{
+  "secid": "secid:regulation/ca.gov/sb-1119",
+  "name": "California Senate Bill 1119 — Adam's Law (Companion Chatbots: Child Safety and Risk Assessments)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "sb-1119",
+  "owner": "California State",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "California follow-on companion chatbot child-safety legislation expanding SB 243 with mandatory pre-deployment child-safety risk assessments, age assurance, default minor-protection settings, mandatory 988 Suicide & Crisis Lifeline integration, and biennial independent third-party safety audits.",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by California State (ca.gov) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within California State (ca.gov).",
+  "license": {
+    "spdx": "CC0-1.0",
+    "Grouping": "Public Domain",
+    "redistribution": "yes",
+    "derivatives": "yes",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.usa.gov/government-works",
+    "note": "United States Government work (17 U.S.C. § 105); in the public domain worldwide.",
+    "notes": "United States Government work (17 U.S.C. § 105); in the public domain worldwide."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB1119",
+    "textUsed": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB1119",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2020-01-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official regulation (https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB1119) to Markdown (37,962 chars). Parsed 33 sections (27 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  }
+}

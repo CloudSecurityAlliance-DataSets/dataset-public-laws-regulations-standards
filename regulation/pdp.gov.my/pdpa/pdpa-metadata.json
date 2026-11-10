@@ -1,0 +1,62 @@
+{
+  "secid": "secid:regulation/pdp.gov.my/pdpa",
+  "name": "Personal Data Protection Act 2010 (Act 709)",
+  "acronym": "Malaysia PDPA",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "pdpa",
+  "owner": "Department of Personal Data Protection",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Personal Data Protection Act 2010",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by Department of Personal Data Protection (pdp.gov.my) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within Department of Personal Data Protection (pdp.gov.my).",
+  "license": {
+    "spdx": "LicenseRef-MY-Act332-Sec11-GovCopyright",
+    "Grouping": "Proprietary / All Rights Reserved",
+    "redistribution": "prohibited",
+    "derivatives": "prohibited",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/MY",
+    "note": "Official publication (pdp.gov.my); Malaysian Copyright Act 1987 (Act 332) Sec. 11 & Sec. 26 (Government copyright in works made under Government direction) and NACSA copyright reservation. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
+    "notes": "Official publication (pdp.gov.my); Malaysian Copyright Act 1987 (Act 332) Sec. 11 & Sec. 26 (Government copyright in works made under Government direction) and NACSA copyright reservation. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.pdp.gov.my/ppdpv1/en/akta/pdp-act-2010-en/",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2020-01-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "date": "2026-11-10",
+    "tool": "",
+    "s3_archive_path": "",
+    "notes": "Registry URL resolves to a portal navigation or bill status page without full statutory text; recorded as metadata-only."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  },
+  "end_state": "metadata-only",
+  "end_reason": "portal-landing-page-only"
+}

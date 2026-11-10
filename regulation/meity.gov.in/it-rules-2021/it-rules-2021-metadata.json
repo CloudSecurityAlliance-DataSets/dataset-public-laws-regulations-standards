@@ -1,0 +1,63 @@
+{
+  "secid": "secid:regulation/meity.gov.in/it-rules-2021",
+  "name": "Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021",
+  "acronym": "IT Rules 2021",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "it-rules-2021",
+  "owner": "Ministry of Electronics and Information Technology",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Rules governing intermediaries (social media, messaging platforms) including grievance officer requirements, traceability for significant social media intermediaries, and content moderation obligations.",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by Ministry of Electronics and Information Technology (meity.gov.in) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within Ministry of Electronics and Information Technology (meity.gov.in).",
+  "license": {
+    "spdx": "LicenseRef-IN-Copyright-1957-Sec17d",
+    "Grouping": "Proprietary / All Rights Reserved",
+    "redistribution": "prohibited",
+    "derivatives": "prohibited",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/IN",
+    "note": "Official publication (meity.gov.in); Indian Copyright Act, 1957 (Act No. 14 of 1957) Sec. 17(d) (Government copyright in ministerial and NITI Aayog strategy publications unless explicitly released under GODL-India). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
+    "notes": "Official publication (meity.gov.in); Indian Copyright Act, 1957 (Act No. 14 of 1957) Sec. 17(d) (Government copyright in ministerial and NITI Aayog strategy publications unless explicitly released under GODL-India). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.meity.gov.in/writereaddata/files/Information%20Technology%20%28Intermediary%20Guidelines%20and%20Digital%20Media%20Ethics%20Code%29%20Rules%2C%202021%20%28updated%2006.04.2023%29-.pdf",
+    "textUsed": "https://web.archive.org/web/20241121083921id_/https://www.meity.gov.in/writereaddata/files/Information%20Technology%20%28Intermediary%20Guidelines%20and%20Digital%20Media%20Ethics%20Code%29%20Rules%2C%202021%20%28updated%2006.04.2023%29-.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2020-01-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official regulation (https://web.archive.org/web/20241121083921id_/https://www.meity.gov.in/writereaddata/files/Information%20Technology%20%28Intermediary%20Guidelines%20and%20Digital%20Media%20Ethics%20Code%29%20Rules%2C%202021%20%28updated%2006.04.2023%29-.pdf) to Markdown (82,218 chars). Parsed 17 sections (16 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  }
+}

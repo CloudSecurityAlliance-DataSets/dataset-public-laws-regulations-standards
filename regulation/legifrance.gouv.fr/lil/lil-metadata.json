@@ -1,0 +1,63 @@
+{
+  "secid": "secid:regulation/legifrance.gouv.fr/lil",
+  "name": "Loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés (modifiée)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "lil",
+  "owner": "Légifrance (French government legal publisher)",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Pioneering French data protection law (1978), substantially amended 2018-2019 to align with GDPR. Enforced by CNIL.",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by Légifrance (French government legal publisher) (legifrance.gouv.fr) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within Légifrance (French government legal publisher) (legifrance.gouv.fr).",
+  "license": {
+    "spdx": "etalab-2.0",
+    "Grouping": "Permissive",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.etalab.gouv.fr/licence-ouverte-open-licence/",
+    "note": "Licence Ouverte / Open Licence Version 2.0 (Etalab, République française).",
+    "notes": "Licence Ouverte / Open Licence Version 2.0 (Etalab, République française)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000886460",
+    "textUsed": "https://web.archive.org/web/20251113102732id_/https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000886460",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2020-01-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official regulation (https://web.archive.org/web/20251113102732id_/https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000886460) to Markdown (361,042 chars). Parsed 173 sections (168 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  }
+}

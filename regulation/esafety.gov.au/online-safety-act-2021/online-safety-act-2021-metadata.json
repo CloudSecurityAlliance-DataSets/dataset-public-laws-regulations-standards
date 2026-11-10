@@ -1,0 +1,63 @@
+{
+  "secid": "secid:regulation/esafety.gov.au/online-safety-act-2021",
+  "name": "Online Safety Act 2021 (No. 76, 2021)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "online-safety-act-2021",
+  "owner": "eSafety Commissioner (Australian Government)",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Australian federal statute establishing the eSafety Commissioner, basic online safety expectations (BOSE), cyber-abuse and image-based abuse takedown schemes, the Social Media Minimum Age framework (under-16 restriction enacted via the 2024 Amendment Act), and enforceable Part 9 Industry Codes and Standards.",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by eSafety Commissioner (Australian Government) (esafety.gov.au) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within eSafety Commissioner (Australian Government) (esafety.gov.au).",
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "Grouping": "Permissive",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
+    "publicly_redistributable": true,
+    "license_text_url": "https://creativecommons.org/licenses/by/4.0/",
+    "note": "Commonwealth of Australia copyright (esafety.gov.au); licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).",
+    "notes": "Commonwealth of Australia copyright (esafety.gov.au); licensed under Creative Commons Attribution 4.0 International (CC BY 4.0)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.legislation.gov.au/C2021A00076/latest/text",
+    "textUsed": "https://www.legislation.gov.au/C2021A00076/2026-09-12/2026-09-12/text/original/pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2020-01-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official regulation (https://www.legislation.gov.au/C2021A00076/2026-09-12/2026-09-12/text/original/pdf) to Markdown (328,596 chars). Parsed 531 sections (466 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  }
+}

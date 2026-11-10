@@ -1,0 +1,63 @@
+{
+  "secid": "secid:regulation/boe.es/rdl-19-2018",
+  "name": "Real Decreto-ley 19/2018, de 23 de noviembre",
+  "acronym": "RDL 19/2018",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "rdl-19-2018",
+  "owner": "Boletín Oficial del Estado",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Spanish transposition of PSD2. Supervised by Banco de España.",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by Boletín Oficial del Estado (boe.es) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within Boletín Oficial del Estado (boe.es).",
+  "license": {
+    "spdx": "LicenseRef-ES-TRLPI-Art13",
+    "Grouping": "Government-Work",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.boe.es/buscar/act.php?id=BOE-A-1996-8930#a13",
+    "note": "Official publication (boe.es); Spanish Consolidated Intellectual Property Law (Real Decreto Legislativo 1/1996, TRLPI) Art. 13 (official legal/regulatory dispositions, royal decrees, ministerial orders in BOE, and official state acts) and Ley 37/2007 on Reuse of Public Sector Information.",
+    "notes": "Official publication (boe.es); Spanish Consolidated Intellectual Property Law (Real Decreto Legislativo 1/1996, TRLPI) Art. 13 (official legal/regulatory dispositions, royal decrees, ministerial orders in BOE, and official state acts) and Ley 37/2007 on Reuse of Public Sector Information."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2018-16036",
+    "textUsed": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2018-16036",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2020-01-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official regulation (https://www.boe.es/diario_boe/txt.php?id=BOE-A-2018-16036) to Markdown (360,253 chars). Parsed 221 sections (166 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  }
+}

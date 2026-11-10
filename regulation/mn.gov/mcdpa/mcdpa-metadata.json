@@ -1,0 +1,63 @@
+{
+  "secid": "secid:regulation/mn.gov/mcdpa",
+  "name": "Minnesota Consumer Data Privacy Act",
+  "acronym": "MCDPA",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "mcdpa",
+  "owner": "State of Minnesota",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Minnesota's comprehensive consumer privacy law. HF 4757 (2024), signed May 24 2024, effective July 31 2025.",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by State of Minnesota (mn.gov) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within State of Minnesota (mn.gov).",
+  "license": {
+    "spdx": "CC0-1.0",
+    "Grouping": "Public Domain",
+    "redistribution": "yes",
+    "derivatives": "yes",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.usa.gov/government-works",
+    "note": "United States Government work (17 U.S.C. § 105); in the public domain worldwide.",
+    "notes": "United States Government work (17 U.S.C. § 105); in the public domain worldwide."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.revisor.mn.gov/bills/93/2024/0/HF/4757/",
+    "textUsed": "https://www.revisor.mn.gov/laws/2024/0/Session+Law/Chapter/121/",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2020-01-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official regulation (https://www.revisor.mn.gov/laws/2024/0/Session+Law/Chapter/121/) to Markdown (482,038 chars). Parsed 1202 sections (229 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "secid": "secid:regulation/csa.gov.sg/cybersecurity-act",
+  "name": "Cybersecurity Act 2018",
+  "acronym": "Cybersecurity Act",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "cybersecurity-act",
+  "owner": "Cyber Security Agency of Singapore",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Establishes the legal framework for Critical Information Infrastructure (CII) oversight, incident reporting, and licensing of cybersecurity service providers. CSA designates computer systems in 11 essential-service sectors (Energy, Water, Banking & Finance, Healthcare, Transport, Infocomm, Media, Security & Emergency Services, Government) as CII, imposing audit, incident-reporting, and Code of Practice obligations on owners.",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by Cyber Security Agency of Singapore (csa.gov.sg) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within Cyber Security Agency of Singapore (csa.gov.sg).",
+  "license": {
+    "spdx": "LicenseRef-All-Rights-Reserved",
+    "Grouping": "Proprietary / All Rights Reserved",
+    "redistribution": "prohibited",
+    "derivatives": "prohibited",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.csa.gov.sg/terms-of-use",
+    "note": "Copyright Government of Singapore retained (all rights reserved under Singapore Government Terms of Use; prior written permission required for reproduction or redistribution). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
+    "notes": "Copyright Government of Singapore retained (all rights reserved under Singapore Government Terms of Use; prior written permission required for reproduction or redistribution). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://sso.agc.gov.sg/Acts-Supp/9-2018/",
+    "textUsed": "https://sso.agc.gov.sg/Acts-Supp/9-2018/",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2020-01-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official regulation (https://sso.agc.gov.sg/Acts-Supp/9-2018/) to Markdown (17,332 chars). Parsed 8 sections (6 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  }
+}

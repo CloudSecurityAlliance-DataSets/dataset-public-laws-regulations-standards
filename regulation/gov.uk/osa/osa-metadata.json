@@ -1,0 +1,63 @@
+{
+  "secid": "secid:regulation/gov.uk/osa",
+  "name": "Online Safety Act 2023",
+  "acronym": "OSA",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "osa",
+  "owner": "United Kingdom Government",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "UK law imposing duties of care on online platforms regarding illegal content and content harmful to children. Enforced by Ofcom.",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by United Kingdom Government (gov.uk) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within United Kingdom Government (gov.uk).",
+  "license": {
+    "spdx": "OGL-UK-3.0",
+    "Grouping": "Permissive",
+    "redistribution": "yes",
+    "derivatives": "yes",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "note": "Crown copyright; licensed under the Open Government Licence v3.0.",
+    "notes": "Crown copyright; licensed under the Open Government Licence v3.0."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.legislation.gov.uk/ukpga/2023/50/contents",
+    "textUsed": "https://www.legislation.gov.uk/ukpga/2023/50/data.xml",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2020-01-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official regulation (https://www.legislation.gov.uk/ukpga/2023/50/data.xml) to Markdown (535,383 chars). Parsed 32 sections (12 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  }
+}

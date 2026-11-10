@@ -1,0 +1,63 @@
+{
+  "secid": "secid:regulation/ca.gov/ab-3030",
+  "name": "California AB 3030 — Health Care Services: Artificial Intelligence (GenAI patient communication disclosures, Health and Safety Code § 1339.75, effective Jan 1, 2025)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "ab-3030",
+  "owner": "California State",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "California AB 3030 — Health Care Services: Artificial Intelligence (GenAI patient communication disclosures, Health and Safety Code § 1339.75, effective Jan 1, 2025)",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by California State (ca.gov) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within California State (ca.gov).",
+  "license": {
+    "spdx": "CC0-1.0",
+    "Grouping": "Public Domain",
+    "redistribution": "yes",
+    "derivatives": "yes",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.usa.gov/government-works",
+    "note": "United States Government work (17 U.S.C. § 105); in the public domain worldwide.",
+    "notes": "United States Government work (17 U.S.C. § 105); in the public domain worldwide."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240AB3030",
+    "textUsed": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202320240AB3030",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2020-01-01",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official regulation (https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202320240AB3030) to Markdown (5,684 chars). Parsed 10 sections (5 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  }
+}
