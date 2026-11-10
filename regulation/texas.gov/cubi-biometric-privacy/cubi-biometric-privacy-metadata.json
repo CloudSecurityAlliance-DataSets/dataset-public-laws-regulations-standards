@@ -37,6 +37,6 @@
   "current_extraction": {
     "s3_timestamp": "2026-05-21T18:33:33Z",
     "tool": "curl + tools-resources/utils/convert-HTML-to-Markdown.py",
-    "notes": "Extracted Texas HB 3186 (81R) enrolled bill text enacting Tex. Bus. & Com. Code Chapter 503 (https://capitol.texas.gov/tlodocs/81R/billtext/html/HB03186F.htm, official replacement for SPA-gated statutes.capitol.texas.gov) to Markdown (4,271 chars). Parsed 3 sections (SECTION 1..3)."
+    "notes": "Extracted Texas HB 3186 (81R) enrolled bill text amending Tex. Bus. & Com. Code \u00a7 503.001 (https://capitol.texas.gov/tlodocs/81R/billtext/html/HB03186F.htm, official replacement for SPA-gated statutes.capitol.texas.gov) to Markdown (3,745 chars). Parsed 3 sections (SECTION 1..3)."
   }
 }

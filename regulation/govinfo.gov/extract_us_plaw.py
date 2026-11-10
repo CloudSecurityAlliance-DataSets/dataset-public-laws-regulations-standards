@@ -14,7 +14,7 @@ import sys
 
 
 SEC_RE = re.compile(
-    r"^(?:#{1,6}\s*)?(?:\*+)?(?:''|`)?(?:SEC\.|Sec\.|SECTION|§)\s*(\d{1,6}[A-Za-z]?)\.?\s+(.+?)$",
+    r'^(?:#{1,6}\s*)?(?:\*+)?(?:["\'`]+)?(SEC\.|Sec\.|SECTION|§)\s*(\d{1,6}[A-Za-z]?)\.?\s+(.+?)$',
     re.MULTILINE,
 )
 TITLE_RE = re.compile(r"^(?:#{1,6}\s*)?(?:\*+)?TITLE\s+([IVX]+)[-—](.+?)$", re.MULTILINE)
@@ -35,7 +35,18 @@ def clean(s):
 def parse_md(md_path, slug=""):
     md = open(md_path, encoding="utf-8").read()
     md = re.sub(r"\{\d+\}-+", "", md)
-    sec_matches = list(SEC_RE.finditer(md))
+    def _is_clerical_toc(m):
+        raw_line = m.group(0).strip()
+        kw = m.group(1)
+        rest = m.group(3).strip()
+        if re.search(r"(?:''|\")\.$", rest):
+            return True
+        if kw == "Sec." and not raw_line.startswith("#") and "**" not in raw_line:
+            if "—" not in rest and "--" not in rest and not rest.startswith("(") and len(rest) < 120:
+                return True
+        return False
+
+    sec_matches = [m for m in SEC_RE.finditer(md) if not _is_clerical_toc(m)]
     title_matches = [(m.start(), "title", m.group(1), clean(m.group(2))) for m in TITLE_RE.finditer(md)]
     subtitle_matches = [(m.start(), "subtitle", m.group(1), clean(m.group(2))) for m in SUBTITLE_RE.finditer(md)]
     nav = sorted(title_matches + subtitle_matches, key=lambda x: x[0])
@@ -62,10 +73,10 @@ def parse_md(md_path, slug=""):
             else:
                 current_subtitle, current_subtitle_name = num, name
             nav_idx += 1
-        sec_num = m.group(1)
+        sec_num = m.group(2)
         if sec_num in EXCLUDED_SECTIONS.get(slug, set()):
             continue
-        sec_title = clean(m.group(2)).rstrip("*").strip()
+        sec_title = clean(m.group(3)).rstrip("*").strip()
         body_start = m.end()
         body_end = sec_matches[i + 1].start() if i + 1 < len(sec_matches) else len(md)
         body = clean(md[body_start:body_end])

@@ -132,7 +132,7 @@ def parse_heading(text: str):
                     kind = "part"
                 elif re.match(r"^(?:pillar|pilier|pilar|pijler)\b", low_sid):
                     kind = "pillar"
-                elif re.match(r"^(?:annex|appendix|schedule)\b", low_sid):
+                elif re.match(r"^(?:annex|appendix|schedule|the\s+(?:first|second|third|fourth|fifth)\s+schedule)\b", low_sid):
                     kind = "annex"
                 elif low_sid.startswith("objective"):
                     kind = "objective"

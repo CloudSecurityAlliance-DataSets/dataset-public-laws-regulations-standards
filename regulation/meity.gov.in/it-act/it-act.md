@@ -1204,7 +1204,9 @@ Provided that provisions of section 67, section 67A and this section does not ex
 
 Explanation–For the purposes of this section, ―children‖ means a person who has not completed the age of 18 years.
 
-### Section 67C. Preservation and retention of information by intermediaries.–(1) Intermediary shall preserve and retain such information as may be specified for such duration and in such manner and format as the Central Government may prescribe.
+### Section 67C. Preservation and retention of information by intermediaries
+
+(1) Intermediary shall preserve and retain such information as may be specified for such duration and in such manner and format as the Central Government may prescribe.
 
 (2) any intermediary who intentionally or knowingly contravenes the provisions of sub-section (1) shall be punished with an imprisonment for a term which may extend to three years and also be liable to fine.]
 
