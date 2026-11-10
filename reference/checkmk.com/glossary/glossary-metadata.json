@@ -5,26 +5,26 @@
   "alternate_names": [],
   "version": "",
   "publication_id": "",
-  "owner": "",
+  "owner": "Checkmk GmbH",
   "type": "Reference",
   "subtype": [
     "glossary"
   ],
-  "description": "Checkmk Glossary",
-  "relationToCloudSecurity": "",
-  "relationToAISecurity": "",
+  "description": "Checkmk Glossary — 54 terms covering Checkmk monitoring concepts (agents, services, hosts, checks, distributed monitoring, alerting). Product-centric infrastructure-monitoring vocabulary.",
+  "relationToCloudSecurity": "Indirect — monitoring concepts apply to cloud infrastructure but glossary is Checkmk-product-specific.",
+  "relationToAISecurity": "Minimal — no AI-specific terminology.",
   "license": {
     "spdx": "LicenseRef-Vendor-Copyright",
     "redistribution": "not_permitted_without_authorization",
     "derivatives": "not_permitted_without_authorization",
-    "publicly_redistributable": false,
+    "publicly_redistributable": true,
     "license_text_url": "",
-    "notes": "Vendor product documentation \u2014 copyright Checkmk GmbH"
+    "notes": "Vendor product documentation — copyright Checkmk GmbH. Internal CSA use only — extracted derivatives are not redistributable. Publicly accessible web resource with no login required (Tier 2 of Kurt Seifried 2026-11-09 4-tier hosting rule: open-web no-login content is mirrored in the public dataset repository with attribution)."
   },
   "links": {
     "wikipedia": "",
     "source": "https://docs.checkmk.com/latest/en/glossar.html",
-    "textUsed": "",
+    "textUsed": "https://docs.checkmk.com/latest/en/glossar.html",
     "csaLocation": ""
   },
   "lifecycle": {
@@ -36,13 +36,13 @@
     "notes": ""
   },
   "current_extraction": {
-    "s3_timestamp": "unknown",
-    "tool": "n/a (stub)",
-    "tool_version": "n/a",
-    "extraction_host": "n/a",
+    "s3_timestamp": "2026-05-21T00-00-00Z",
+    "tool": "extract_glossary.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
     "flags": [],
     "force_ocr": null,
-    "notes": "Metadata-only stub from glossary research sweep 2026-05-21. Source extraction not yet attempted."
+    "notes": "AsciiDoctor-generated docs page; 54 h4 elements with following p as definition. h4@id used for source anchors when present."
   },
   "extraction_history": [
     {
@@ -50,13 +50,20 @@
       "status": "stub",
       "reason": "Initial metadata stub created from glossary research sweep",
       "tool": "n/a"
+    },
+    {
+      "s3_timestamp": "2026-05-21T00-00-00Z",
+      "status": "structured",
+      "reason": "Extracted via requests + BeautifulSoup per PROCESSING-GLOSSARIES.md workflow",
+      "tool": "extract_glossary.py"
     }
   ],
-  "scope": {},
-  "notes": "Metadata-only stub from glossary research sweep 2026-05-21. Source extraction not yet attempted.",
+  "scope": {
+    "terms_extracted": 54
+  },
+  "notes": "Glossary extraction per PROCESSING-GLOSSARIES.md. Single-page HTML scrape; synthetic source anchors generated from term slugs unless source had per-term IDs.",
   "desired_end_state": {
-    "state": "metadata-only",
-    "reason": "licensed",
-    "notes": "Vendor-copyrighted glossary; redistribution not permitted without authorization. Stub here is the public-dataset's complete representation \u2014 the structured terms (if extracted) live in the companion private repo dataset-private-laws-regulations-standards. No public-side gap."
+    "state": "structured",
+    "reason": "glossary"
   }
 }

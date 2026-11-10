@@ -1,0 +1,320 @@
+[
+  {
+    "term": "Active Directory Bridging",
+    "definition": "Active Directory Bridging is a mechanism that allows users to log on to non-Windows systems using Active Directory login credentials.",
+    "source_anchor": "https://www.beyondtrust.com/resources/glossary/active-directory-bridging",
+    "notes": ""
+  },
+  {
+    "term": "Active Directory Security",
+    "definition": "Active Directory security is vital to protect user credentials, company systems, sensitive data, software applications, and more from unauthorized access. Active Directory (AD) is a Microsoft Windows directory service that allows IT administrators to manage users, applications, data, and various other aspects of their organization’s network. A security compromise of AD can essentially undermine the integrity of your identity management infrastructure, leading to catastrophic levels of data leakage and/or system corruption/destruction.",
+    "source_anchor": "https://www.beyondtrust.com/resources/glossary/active-directory-security",
+    "notes": ""
+  },
+  {
+    "term": "Admin Rights",
+    "definition": "Administrator (Admin) rights are a high level of privileges that allow a human or non-human account to perform most or all functions within a particular system, network, or tool. Admin rights can enable accounts to execute actions such as installing/uninstalling software, modifying configurations and system settings, managing user accounts and assigning permissions, accessing sensitive data, changing device settings, and configuring security controls such as firewalls and antivirus software.",
+    "source_anchor": "https://www.beyondtrust.com/resources/glossary/admin-rights",
+    "notes": ""
+  },
+  {
+    "term": "Application Control",
+    "definition": "Application control is a cybersecurity measure that regulates and manages the execution of software applications on a computer or network. It involves defining and enforcing policies that dictate whether applications can run, as well as how they are allowed to execute.",
+    "source_anchor": "https://www.beyondtrust.com/resources/glossary/application-control",
+    "notes": ""
+  },
+  {
+    "term": "Application Password Management",
+    "definition": "Application-to-application password management solutions are designed to automate the identification, security, and distribution of application passwords and credentials in an auditable fashion. In turn, this approach reduces the risk of a breach where an exposed application password is used, either to gain access to sensitive information or to move further into the network. Application password management tools relieve the manual burden of managing application passwords, approving credential requests, and other tasks subject to human error or negligence.",
+    "source_anchor": "https://www.beyondtrust.com/resources/glossary/application-password-management",
+    "notes": ""
+  },
+  {
+    "term": "Birthright Access",
+    "definition": "Birthright access refers to the predefined set of digital permissions and entitlements automatically granted to a user when they join an organization or change roles within it.",
+    "source_anchor": "https://www.beyondtrust.com/resources/glossary/birthright-access",
+    "notes": ""
+  },
+  {
+    "term": "Cloud Infrastructure Entitlement Management (CIEM)",
+    "definition": "Cloud Infrastructure Entitlement Management (CIEM - pronounced “Kim”) is the process of discovering and managing cloud permissions and entitlements.",
+    "source_anchor": "https://www.beyondtrust.com/resources/glossary/ciem-cloud-infrastructure-entitlement-management",
+    "notes": ""
+  },
+  {
+    "term": "Cloud Security/Cloud Computing Security",
+    "definition": "Cloud security—also called cloud computing security—refers to the discipline and practice of protecting cloud computing environments, applications, data, and information. Cloud security entails securing cloud environments against unauthorized use/access, distributed denial of service (DDOS) attacks, hackers, malware, and other risks. While cloud security applies to security for cloud environments, the related term, cloud-based security, refers to the software as a service (SaaS) delivery model of security services, which are hosted in the cloud rather than deployed via on-premise hardware or software.",
+    "source_anchor": "https://www.beyondtrust.com/resources/glossary/cloud-security-cloud-computing-security",
+    "notes": ""
+  },
+  {
+    "term": "Cyber-Attack Chain",
+    "definition": "The cyber-attack chain (also referred to as the cyber kill chain) is a way to understand the sequence of events involved in an external attack on an organization’s IT environment. Understanding the cyber-attack chain model can help IT security teams put strategies and technologies in place to “kill” or contain the attack at various stages, and better protect the IT ecosystem.",
+    "source_anchor": "https://www.beyondtrust.com/resources/glossary/cyber-attack-chain",
+    "notes": ""
+  },
+  {
+    "term": "Cybersecurity",
+    "definition": "Cybersecurity (or cyber security) is the practice of reducing cyber risk through the protection of the entire information technology (IT) infrastructure, including systems, applications, hardware, software, data, users, and identities. Information security (InfoSec)—or data security—is a chief component of cybersecurity and entails ensuring the confidentiality, integrity, and availability of data and other types of information.",
+    "source_anchor": "https://www.beyondtrust.com/resources/glossary/cyber-security",
+    "notes": ""
+  },
+  {
+    "term": "DevOps Security",
+    "definition": "DevOps security refers to the discipline and practice of safeguarding the entire DevOps environment through strategies, policies, processes, and technology. DevOps security should enable a productive DevOps ecosystem, while helping to identify and remediate code vulnerabilities and operational weaknesses long before they become an issue.",
+    "source_anchor": "https://www.beyondtrust.com/resources/glossary/devops-security",
+    "notes": ""
+  },
+  {
+    "term": "Digital Identity",
+    "definition": "A digital identity is a one-to-one relationship between a human and their digital presence. A digital presence can consist of multiple accounts, credentials, and entitlements associated with an individual. Digital identities note the presence of individuals or entities within applications, networks, on-premises systems, or cloud environments. They may represent a person, organization, application, or device used for authentication, authorization, automation, and even impersonation during runtime. Some refer to a digital identity as a “digital entity” or simply an “identity,” depending on the context.",
+    "source_anchor": "https://www.beyondtrust.com/resources/glossary/digital-identity",
+    "notes": ""
+  },
+  {
+    "term": "Endpoint Security",
+    "definition": "Endpoint security refers to the strategies and technologies for preventing, containing, mitigating, and remediating threats to endpoints. In this glossary post, we will explore what endpoint security is, including the challenge of managing and securing endpoints, some key endpoint attack vectors, and strategies and technologies for implementing endpoint protection.",
+    "source_anchor": "https://www.beyondtrust.com/resources/glossary/endpoint-security",
+    "notes": ""
+  },
+  {
+    "term": "File Integrity Monitoring",
+    "definition": "File integrity monitoring (FIM) refers to an IT security process and technology that tests and checks operating system (OS), database, and application software files to determine whether they have been tampered with or corrupted. It encompasses both reactive (forensic) auditing as well as proactive, rules-based active monitoring.",
+    "source_anchor": "https://www.beyondtrust.com/resources/glossary/file-integrity-monitoring",
+    "notes": ""
+  },
+  {
+    "term": "Guest Account",
+    "definition": "A guest account is a special type of user account that allows access to a computer system with a low-privileged, shared profile. It grants a default set of limited permissions and rights considered safe for limited access.",
+    "source_anchor": "https://www.beyondtrust.com/resources/glossary/guest-account",
+    "notes": ""
+  },
+  {
+    "term": "Hardcoded/Embedded Passwords",
+    "definition": "Hardcoded passwords, also often referred to as embedded credentials, are plain text passwords or other secrets in source code. Password hardcoding refers to the practice of embedding plain text (non-encrypted) passwords and other secrets (SSH Keys, DevOps secrets, etc.) into the source code. Default, hardcoded passwords may be used across many of the same devices, applications, and systems, which helps simplify set up at scale, but at the same time, poses considerable cybersecurity risk.",
+    "source_anchor": "https://www.beyondtrust.com/resources/glossary/hardcoded-embedded-passwords",
+    "notes": ""
+  },
+  {
+    "term": "Identity and Access Management (IAM)",
+    "definition": "Identity and Access Management (IAM), also called identity management, refers to the IT security discipline, framework, and solutions for managing digital identities. Identity management encompasses the provisioning and de-provisioning of identities, securing and authentication of identities, and the authorization to access resources and/or perform certain actions.",
+    "source_anchor": "https://www.beyondtrust.com/resources/glossary/identity-and-access-management",
+    "notes": ""
+  },
+  {
+    "term": "Identity Attack Surface Management (IASM)",
+    "definition": "Identity attack surface management (IASM) is the practice of identifying and mitigating identity-based risks across an enterprise. Managing the identity attack surface also entails discovering, assessing, and mitigating potential entry and pivot points related to the systems that manage authentication, authorization, and access control.",
+    "source_anchor": "https://www.beyondtrust.com/resources/glossary/identity-attack-surface-management",
+    "notes": ""
+  },
+  {
+    "term": "Identity Governance and Administration (IGA)",
+    "definition": "Identity Governance and Administration (IGA) is a framework for the management and monitoring of digital identities and their access across an organization’s resources. IGA encompasses policies, processes, and technology to ensure compliance, security, and efficient management of identities, accounts, roles, and entitlements used for access control and auditing purposes.",
+    "source_anchor": "https://www.beyondtrust.com/resources/glossary/identity-governance-and-administration",
+    "notes": ""
+  },
+  {
+    "term": "Identity Security",
+    "definition": "Identity security, also called identity protection, refers to the frameworks and technologies used to secure and manage digital identities within an enterprise. Identity security controls protect against unauthorized access, data breaches, and identity theft. Strong identity-based security facilitates secure identities by enforcing the principles of least privilege and segregation of duties. It ensures only authenticated and authorized users can access the proper resources, and continuously monitors and audits access.",
+    "source_anchor": "https://www.beyondtrust.com/resources/glossary/identity-security",
+    "notes": ""
+  },
+  {
+    "term": "Just-In-Time Access",
+    "definition": "Just-in-time (JIT) access, also known as just-in-time privileged access management, entails providing users with access to specific resources only for the finite moments needed.",
+    "source_anchor": "https://www.beyondtrust.com/resources/glossary/just-in-time-access",
+    "notes": ""
+  },
+  {
+    "term": "Kerberoasting",
+    "definition": "Kerberoasting (or kerberoast) is a cyberattack targeting the Kerberos authentication protocol used in Windows and some other network systems. This attack specifically exploits service tickets used by services for authentication to other services within a network. The attacker aims to extract these tickets and then, typically, attempts to crack their encryption offline to discover the service account’s password.",
+    "source_anchor": "https://www.beyondtrust.com/resources/glossary/kerberoasting",
+    "notes": ""
+  },
+  {
+    "term": "Least Privilege",
+    "definition": "Least privilege, often referred to as the principle of least privilege (PoLP), refers to the concept and practice of restricting access rights for users, accounts, and computing processes to only those resources absolutely required to perform routine, authorized activities. Privilege itself refers to the authorization to bypass certain security restraints. A least privilege security model entails enforcing the minimal level of user rights, or lowest clearance level, that allows the user to perform their role. However, least privilege also applies to processes, applications, systems, and devices (such as IoT), in that each should have only those permissions required to perform an authorized activity.",
+    "source_anchor": "https://www.beyondtrust.com/resources/glossary/least-privilege",
+    "notes": ""
+  },
+  {
+    "term": "Logic Bomb",
+    "definition": "A logic bomb is a type of malicious code embedded in software that remains dormant until specific conditions are met. When triggered, a logic bomb virus executes a destructive action, such as deleting files or disrupting critical systems.",
+    "source_anchor": "https://www.beyondtrust.com/resources/glossary/logic-bomb",
+    "notes": ""
+  },
+  {
+    "term": "Malware Attack",
+    "definition": "A malware attack entails the deployment of malicious software (malware) to compromise an identity or system.",
+    "source_anchor": "https://www.beyondtrust.com/resources/glossary/malware",
+    "notes": ""
+  },
+  {
+    "term": "Managed Security Services Provider (MSSP)",
+    "definition": "Managed security service providers (MSSPs) are IT service businesses that specialize in providing security-as-a-services offerings for their customers. While MSPs (managed services providers) have been around for 20+ years, MSSP practices have gained more momentum in more recent years.",
+    "source_anchor": "https://www.beyondtrust.com/resources/glossary/managed-security-services-provider-mssp",
+    "notes": ""
+  },
+  {
+    "term": "Managed Services Provider (MSP)",
+    "definition": "A Managed Services Provider (MSP) typically provides an array of IT services for their customers. While a traditional value-added reseller (VAR) operates on a transactional and short-term basis (such as around a hardware/software purchase and deployment), MSPs typically forge long-term partnerships with their customers over annual, or multi-year periods, and receive recurring income for continuous services. While any type of customer may seek out an MSP depending on their needs, MSPs commonly serve small to mid-sized business which may be understaffed, with some organizations lacking an in-house IT staff altogether.",
+    "source_anchor": "https://www.beyondtrust.com/resources/glossary/managed-services-provider-msp",
+    "notes": ""
+  },
+  {
+    "term": "MFA Fatigue Attack",
+    "definition": "A multi-factor authentication (MFA) fatigue attack—also known as MFA Bombing or MFA Spamming—is a social engineering cyberattack strategy. This strategy involves repeatedly pushing second-factor authentication requests to the target victim’s email, phone, or registered devices. The goal is to coerce the victim into confirming their identity via notification, thus authenticating the attacker's attempt at entering their account or device.",
+    "source_anchor": "https://www.beyondtrust.com/resources/glossary/mfa-fatigue-attack",
+    "notes": ""
+  },
+  {
+    "term": "Orphaned Account",
+    "definition": "An orphaned account (also called an orphan account) is a user account (employee or vendor) that retains access to applications and systems on a network without an active owner. There are many reasons why the original account owner (identity) may be inactive in the system. Inside this glossary definition, learn more about what causes orphaned accounts to occur, their top security risks, and how to discover and eliminate them in your own network.",
+    "source_anchor": "https://www.beyondtrust.com/resources/glossary/orphaned-accounts",
+    "notes": ""
+  },
+  {
+    "term": "OWASP Top 10 Security Risks",
+    "definition": "The OWASP Top 10 security risks list documents the critical risks facing organizations and their web applications. Use this list to improve software and application security.",
+    "source_anchor": "https://www.beyondtrust.com/resources/glossary/owasp-top-10",
+    "notes": ""
+  },
+  {
+    "term": "Pass-the-Hash Attack (PtH)",
+    "definition": "A Pass-the-Hash (PtH) attack is a technique where an attacker captures a password hash (as opposed to the password characters). The threat actor then passes it through for authentication and lateral access to other networked systems. With this technique, the threat actor doesn’t need to decrypt the hash to obtain a plaintext password. PtH attacks exploit the authentication protocol, as the passwords hash remains static for every session until the password is rotated. Attackers can obtain hashes by scraping a system’s active memory, along with other techniques.",
+    "source_anchor": "https://www.beyondtrust.com/resources/glossary/pass-the-hash-pth-attack",
+    "notes": ""
+  },
+  {
+    "term": "Pass-the-Ticket Attacks",
+    "definition": "Pass-The-Ticket Attacks are a type of cyberattack where an attacker steals a Kerberos ticket-granting ticket (TGT) from one user and uses it to impersonate that user on a network, bypassing authentication mechanisms and gaining unauthorized access to resources.",
+    "source_anchor": "https://www.beyondtrust.com/resources/glossary/what-are-pass-the-ticket-attacks",
+    "notes": ""
+  },
+  {
+    "term": "Password Rotation",
+    "definition": "Password Rotation refers to the changing/resetting of a password(s). Limiting the lifespan of a password reduces vulnerability to password-based attacks and exploits by condensing the window of time during which a stolen password may be valid.",
+    "source_anchor": "https://www.beyondtrust.com/resources/glossary/password-rotation",
+    "notes": ""
+  },
+  {
+    "term": "Password Spraying",
+    "definition": "Password spraying is a type of cyberattack where an attacker attempts to gain unauthorized access to multiple user accounts by using a few common passwords across many accounts.",
+    "source_anchor": "https://www.beyondtrust.com/resources/glossary/password-spraying",
+    "notes": ""
+  },
+  {
+    "term": "Privilege Elevation and Delegation Management (PEDM)",
+    "definition": "Privilege Elevation and Delegation Management (PEDM), also known as Endpoint Privilege Management (EPM), entails applying granular control of privileges on endpoints (desktops, servers, etc.).",
+    "source_anchor": "https://www.beyondtrust.com/resources/glossary/privilege-elevation-and-delegation-management-pedm",
+    "notes": ""
+  },
+  {
+    "term": "Privileged Access Management (PAM)",
+    "definition": "Privileged access management (PAM) consists of the cybersecurity strategies and technologies for exerting control over the elevated (“privileged”) access and permissions for identities, users, accounts, processes, and systems across an IT environment. By right-sizing privileged access controls, PAM helps organizations condense their organization’s attack surface, and prevent, or neutralize, the damage arising from external attacks and insider threats.",
+    "source_anchor": "https://www.beyondtrust.com/resources/glossary/privileged-access-management-pam",
+    "notes": ""
+  },
+  {
+    "term": "Privileged Account and Session Management (PASM)",
+    "definition": "Privileged Account and Session Management (PASM) combines two solution toolsets—privileged password management (also called privileged credential management or enterprise password management) and privileged session management.",
+    "source_anchor": "https://www.beyondtrust.com/resources/glossary/privileged-account-and-session-management-pasm",
+    "notes": ""
+  },
+  {
+    "term": "Privileged Accounts",
+    "definition": "A privileged account is any account granting access and privileges beyond those of non-privileged accounts. While some privileged accounts are associated with employee identities, other privileged accounts are associated with contractors, vendors, auditors or machines and applications. The credentials associated with privileged accounts are referred to as privileged credentials.",
+    "source_anchor": "https://www.beyondtrust.com/resources/glossary/privileged-accounts",
+    "notes": ""
+  },
+  {
+    "term": "Privileged Password Management",
+    "definition": "Privileged Password Management is the secure storing, sharing, creating, and handling of privileged passwords. Other names for this discipline and technology include privileged account and session management (PASM), privileged credential management, enterprise password management, or enterprise password security.",
+    "source_anchor": "https://www.beyondtrust.com/resources/glossary/privileged-password-management",
+    "notes": ""
+  },
+  {
+    "term": "Privileged Session Management",
+    "definition": "Privileged session management is a privileged access management (PAM) capability that controls, monitors, and records activities of privileged users—whether human or machine. A ‘privileged session’ consists of the actions performed while logged into a privileged account.",
+    "source_anchor": "https://www.beyondtrust.com/resources/glossary/privileged-session-management",
+    "notes": ""
+  },
+  {
+    "term": "Ransomware",
+    "definition": "Ransomware is a type of malware that disrupts computers, servers, and other devices. After installing itself, ransomware software blocks access, deletes, or otherwise compromises legitimate data and applications.",
+    "source_anchor": "https://www.beyondtrust.com/resources/glossary/ransomware",
+    "notes": ""
+  },
+  {
+    "term": "Remote Access",
+    "definition": "Remote access is the process of connecting to a system or device from another location, whether on another desk in the same room or another asset located across the world. Remote connectivity enables people to work productively from anywhere by granting them access to company resources (e.g., files/storage, cloud infrastructure, data centers, operational technology, etc.).",
+    "source_anchor": "https://www.beyondtrust.com/resources/glossary/remote-access",
+    "notes": ""
+  },
+  {
+    "term": "Secrets Management",
+    "definition": "Secrets management refers to the tools and methods for managing digital authentication credentials (secrets), including passwords, keys, APIs, and tokens for use in applications, services, privileged accounts, and other sensitive parts of the IT ecosystem.",
+    "source_anchor": "https://www.beyondtrust.com/resources/glossary/secrets-management",
+    "notes": ""
+  },
+  {
+    "term": "Secure Socket Shell (SSH) Key Management",
+    "definition": "Secure Socket Shell (SSH) Key Management, also called Secure Shell Management, is a special network protocol leveraging public-key cryptography to enable authorized users to remotely access a computer or other device via access credentials called SSH keys. Because they are used to access sensitive resources and perform critical, highly privileged activities, it’s vital to properly manage SSH keys as you would other sensitive credentials.",
+    "source_anchor": "https://www.beyondtrust.com/resources/glossary/secure-socket-shell-ssh-key-management",
+    "notes": ""
+  },
+  {
+    "term": "Separation of Privilege",
+    "definition": "Separation of privilege, also called privilege separation, is an information technology best practice applied by organizations to broadly separate users and processes based on different levels of trust, needs, and privilege requirements. Similar to the concept of network segmentation, separation of privileges essentially creates “moats” around specific parts of an IT environment. It helps contain intruders close to the point of compromise and restrict lateral movement, while also ensuring that employees, applications, and system processes do not have access to more data than they need. Segmenting privileges and the tasks associated with them also provides the benefit of a cleaner audit trail and simplifying compliance.",
+    "source_anchor": "https://www.beyondtrust.com/resources/glossary/separation-of-privilege",
+    "notes": ""
+  },
+  {
+    "term": "Superuser/Superuser Accounts",
+    "definition": "Superuser accounts are highly privileged accounts primarily used for administration by specialized IT employees. These users/accounts, sometimes called \"super admins\", may have virtually unlimited privileges, or ownership, over a system. Superuser account privileges may allow leveraging full read/write/execute privileges, creating or installing files or software, modifying files and settings, or deleting users and data.",
+    "source_anchor": "https://www.beyondtrust.com/resources/glossary/superuser-superuser-accounts",
+    "notes": ""
+  },
+  {
+    "term": "Systems Hardening",
+    "definition": "Systems hardening is a collection of cybersecurity tools, techniques, and best practices to reduce vulnerability in technology applications, systems, infrastructure, firmware, and other areas. The goal of systems hardening is to reduce security risk by eliminating potential attack vectors and condensing the system’s attack surface.",
+    "source_anchor": "https://www.beyondtrust.com/resources/glossary/systems-hardening",
+    "notes": ""
+  },
+  {
+    "term": "User Access Review (UAR)",
+    "definition": "User access reviews (UAR) involve identifying, assessing, and managing the access rights of users within an IT system.",
+    "source_anchor": "https://www.beyondtrust.com/resources/glossary/user-access-review",
+    "notes": ""
+  },
+  {
+    "term": "Vulnerability Assessment",
+    "definition": "Vulnerability assessment refers to the process of identifying risks and vulnerabilities in computer networks, systems, hardware, applications, and other parts of the IT ecosystem. Vulnerability assessments provide security teams and other stakeholders with the information they need to analyze and prioritize risks for potential remediation in the proper context.",
+    "source_anchor": "https://www.beyondtrust.com/resources/glossary/vulnerability-assessment",
+    "notes": ""
+  },
+  {
+    "term": "Vulnerability Scanning",
+    "definition": "Vulnerability scanning is the process of discovering, analyzing, and reporting on security flaws and vulnerabilities. Vulnerability scans are conducted via automated vulnerability scanning tools to identify potential risk exposures and attack vectors across an organization’s networks, hardware, software, and systems. Vulnerability scanning and assessment is an essential step in the vulnerability management lifecycle.",
+    "source_anchor": "https://www.beyondtrust.com/resources/glossary/vulnerability-scanning",
+    "notes": ""
+  },
+  {
+    "term": "What is a Password? Definition, Attacks, & Management",
+    "definition": "A Password is a word, phrase, or string of characters intended to differentiate an authorized user or process (for the purpose of permitting access) from an unauthorized user. Defined another way, a password is used to prove one’s identity, or authorize access to a resource. It’s strongly implied that a password is secret. A password usually works alongside a username or other mechanism to provide authentication.",
+    "source_anchor": "https://www.beyondtrust.com/resources/glossary/password",
+    "notes": ""
+  },
+  {
+    "term": "Windows Auditing",
+    "definition": "Windows auditing is the process of tracking, analyzing, and understanding events that take place on Windows-based computer systems. Windows auditing can reveal important contextual information about the who, what, when, and where of system events. Administrators and security specialists can set up Windows auditing across various desktops, servers, and other devices on a Microsoft Windows-based network. Windows auditing watches for certain events taking place on Windows machines and logs those events. Security experts can then use computer forensic analysis to review these events and identify unusual or risky access or behavior.",
+    "source_anchor": "https://www.beyondtrust.com/resources/glossary/windows-auditing",
+    "notes": ""
+  },
+  {
+    "term": "Zero Standing Privileges",
+    "definition": "Zero Standing Privileges (ZSP) refers to an IT environment in which there are no persistent, always-on privileged access rights. This requires the elimination of all standing privileges. ZSP is the desired end state of a just-in-time (JIT) privileged access management model and essential to achieving true least privilege.",
+    "source_anchor": "https://www.beyondtrust.com/resources/glossary/zero-standing-privileges",
+    "notes": ""
+  }
+]

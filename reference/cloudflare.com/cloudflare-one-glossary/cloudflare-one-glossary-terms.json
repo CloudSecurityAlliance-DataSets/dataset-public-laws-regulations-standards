@@ -1,0 +1,452 @@
+[
+  {
+    "term": "App Launcher",
+    "definition": "The App Launcher portal provides end users with a single dashboard to open applications secured by Cloudflare One.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#app-launcher"
+  },
+  {
+    "term": "application",
+    "definition": "The resource protected by Cloudflare One, which can be a subdomain, a path, or a SaaS application.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#application"
+  },
+  {
+    "term": "application token",
+    "definition": "A piece of data that grants a user access to a specific Access application for a period of time. Can be stored in a browser cookie or passed to the application in place of a normal password.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#application-token"
+  },
+  {
+    "term": "captive portal",
+    "definition": "A login screen shown to users when they connect to a public Wi-Fi. Captive portals typically occur in places such as airports, cafes, and hotels.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#captive-portal"
+  },
+  {
+    "term": "Cloudflare Access",
+    "definition": "Cloudflare Access replaces corporate VPNs with Cloudflare's network. It verifies attributes such as identity and device posture to grant users secure access to internal tools.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#cloudflare-access"
+  },
+  {
+    "term": "Cloudflare Browser Isolation",
+    "definition": "Cloudflare Browser Isolation seamlessly executes active webpage content in a secure isolated browser to protect users from zero-day attacks, malware, and phishing.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#cloudflare-browser-isolation"
+  },
+  {
+    "term": "Cloudflare CASB",
+    "definition": "Cloudflare CASB provides comprehensive visibility and control over SaaS apps to prevent data leaks and compliance violations. It helps detect insider threats, shadow IT, risky data sharing, and bad actors.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#cloudflare-casb"
+  },
+  {
+    "term": "Cloudflare Data Loss Prevention (DLP)",
+    "definition": "Cloudflare Data Loss Prevention (DLP) allows you to scan your web traffic and SaaS applications for the presence of sensitive data such as social security numbers, financial information, secret keys, and source code.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#cloudflare-data-loss-prevention-dlp"
+  },
+  {
+    "term": "Cloudflare DEX",
+    "definition": "Cloudflare Digital Experience Monitoring (DEX) provides visibility into device, network, and application performance across your Zero Trust Organization.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#cloudflare-dex"
+  },
+  {
+    "term": "Cloudflare Gateway",
+    "definition": "Cloudflare Gateway is a modern next-generation firewall between your user, device, or network and the public Internet. It includes DNS filtering to inspect and apply policies to all Internet-bound DNS queries.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#cloudflare-gateway"
+  },
+  {
+    "term": "Cloudflare Mesh",
+    "definition": "Connects private networks, servers, and devices through Cloudflare for bidirectional, site-to-site, and mesh connectivity. Every participant receives a private Mesh IP address and can reach any other participant directly.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#cloudflare-mesh"
+  },
+  {
+    "term": "Cloudflare One",
+    "definition": "The name for Cloudflare's Secure Access Service Edge (SASE) platform, which includes Zero Trust and network services.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#cloudflare-one"
+  },
+  {
+    "term": "Cloudflare One Agent",
+    "definition": "The name of the Cloudflare One Client app on iOS and Android devices.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#cloudflare-one-agent"
+  },
+  {
+    "term": "Cloudflare One Client",
+    "definition": "An application that connects corporate devices to Cloudflare for private network access, advanced web filtering, and other security functions.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#cloudflare-one-client"
+  },
+  {
+    "term": "Cloudflare Tunnel",
+    "definition": "Cloudflare Tunnel uses a software agent (cloudflared) to establish a secure connection between a private network and Cloudflare.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#cloudflare-tunnel"
+  },
+  {
+    "term": "Cloudflare Zero Trust",
+    "definition": "Cloudflare Zero Trust provides the power of Cloudflare's global network to your internal teams and infrastructure. It empowers users with secure, fast, and seamless access to any device on the Internet.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#cloudflare-zero-trust"
+  },
+  {
+    "term": "cloudflared",
+    "definition": "The software powering Cloudflare Tunnel. It runs on origin servers to connect applications or private networks to Cloudflare.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#cloudflared"
+  },
+  {
+    "term": "cloudflared replica",
+    "definition": "An additional instance of cloudflared that points to the same Cloudflare Tunnel. It ensures that your network remains online in case a single host running cloudflared goes down.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#cloudflared-replica"
+  },
+  {
+    "term": "daemon",
+    "definition": "A program that performs tasks without active management or maintenance.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#daemon"
+  },
+  {
+    "term": "device posture",
+    "definition": "A way to evaluate the security of a user's device, for example by verifying its serial number or checking if it has the latest software updates.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#device-posture"
+  },
+  {
+    "term": "device profile",
+    "definition": "A collection of Cloudflare One Client settings applied to a specific set of devices in your organization.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#device-profile"
+  },
+  {
+    "term": "device registration",
+    "definition": "An individual session of the Cloudflare One Client on a physical device, with associated configuration including a unique public key, device profile, and virtual IP addresses (one IPv4 and one IPv6).",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#device-registration"
+  },
+  {
+    "term": "DNS filtering",
+    "definition": "DNS filtering uses the Domain Name System to block malicious websites and filter out harmful content, enhancing security and access control.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#dns-filtering"
+  },
+  {
+    "term": "DNS location",
+    "definition": "DNS locations are a collection of DNS endpoints which can be mapped to physical entities such as offices, homes, or data centers.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#dns-location"
+  },
+  {
+    "term": "DoH subdomain",
+    "definition": "A unique DoH subdomain for each DNS location in Cloudflare One used in Cloudflare One Client settings.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#doh-subdomain"
+  },
+  {
+    "term": "fleet",
+    "definition": "A fleet is a collection of user devices. All devices in a fleet have the Cloudflare One Client installed and are connected to a Zero Trust Organization.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#fleet"
+  },
+  {
+    "term": "Hops",
+    "definition": "Hops refer to the stops an email makes as it travels from the sender to the recipient.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#hops"
+  },
+  {
+    "term": "identity provider",
+    "definition": "An identity provider (IdP) stores and manages users' digital identities, enabling single sign-on and authentication for multiple applications.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#identity-provider"
+  },
+  {
+    "term": "initial resolved IP",
+    "definition": "A unique, ephemeral IP address that Gateway assigns to DNS queries when filtering network traffic by hostname. The IP is randomly selected from the 100.80.0.0/16 (IPv4) or 2606:4700:0cf1:4000::/64 (IPv6) range.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#initial-resolved-ip"
+  },
+  {
+    "term": "JSON web token",
+    "definition": "A compact way to securely transmit information between parties as a JSON object, often used for authentication.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#json-web-token"
+  },
+  {
+    "term": "locally-managed tunnel",
+    "definition": "A Cloudflare Tunnel that was created by running cloudflared tunnel create <NAME> on the command line. Tunnel configuration is stored in your local cloudflared directory.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#locally-managed-tunnel"
+  },
+  {
+    "term": "managed network",
+    "definition": "A network location, such as an office, that is associated with a specific Cloudflare One Client device profile.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#managed-network"
+  },
+  {
+    "term": "MCP client",
+    "definition": "A Model Context Protocol (MCP) client is an AI program that can request information and receive responses from an MCP server. Examples of MCP clients include Claude Desktop, Cursor AI, and Windsurf.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#mcp-client"
+  },
+  {
+    "term": "MCP server",
+    "definition": "A web application that allows AI agents to access third-party data sources and APIs using the Model Context Protocol (MCP). For example, you can use an MCP server to connect an AI assistant to your Google Drive account.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#mcp-server"
+  },
+  {
+    "term": "MCP server portal",
+    "definition": "A web application in Cloudflare One that serves as a gateway to multiple MCP servers.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#mcp-server-portal"
+  },
+  {
+    "term": "MCP server tool",
+    "definition": "An integration provided by an MCP server which allows an AI agent to perform a limited set of actions on a third-party system.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#mcp-server-tool"
+  },
+  {
+    "term": "MDM file",
+    "definition": "A Mobile Device Management (MDM) file is a configuration file that allows organizations to manage the software, settings, and certificates installed on their devices.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#mdm-file"
+  },
+  {
+    "term": "Mesh IP",
+    "definition": "A private IP address assigned to each device and node enrolled in Cloudflare Mesh from the 100.96.0.0/12 CGNAT range. Mesh IPs are the same as Cloudflare One Client device IPs.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#mesh-ip"
+  },
+  {
+    "term": "MFA",
+    "definition": "Multi-factor authentication (MFA) checks multiple aspects of a user's identity, not only their username and password, before allowing them access to an application.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#mfa"
+  },
+  {
+    "term": "OAuth",
+    "definition": "A protocol for authorizing users, allowing them to perform actions and view data on different platforms without sharing credentials.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#oauth"
+  },
+  {
+    "term": "OIDC",
+    "definition": "OpenID Connect (OIDC) is an identity authentication protocol built on top of OAuth 2.0\\. It is used verifying user identity and obtaining basic profile information.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#oidc"
+  },
+  {
+    "term": "on-ramp",
+    "definition": "Refers to a way of connecting a business network to Cloudflare. Examples of on-ramps, or ways to connect to Cloudflare, are Anycast GRE tunnels, Anycast IPsec tunnels, Cloudflare Network Interconnect (CNI), Cloudflare Tunnel, and the Cloudflare One Client.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#on-ramp"
+  },
+  {
+    "term": "PAC file",
+    "definition": "A file containing a JavaScript function which can instruct a browser to forward traffic to a proxy server instead of directly to the destination server.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#pac-file"
+  },
+  {
+    "term": "policy",
+    "definition": "A set of rules that regulate network activity, such as login access and website reachability.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#policy"
+  },
+  {
+    "term": "Quarantine policies",
+    "definition": "Policies that block specific types of emails (usually malicious and suspicious emails), preventing emails from reaching the end-user or the next mail service provider. Emails that are quarantined are reviewed by administrators and potentially released if falsely flagged.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#quarantine-policies"
+  },
+  {
+    "term": "RDP",
+    "definition": "Remote Desktop Protocol (RDP) allows remote desktop connections to a computer, often used on Windows and Mac operating systems.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#rdp"
+  },
+  {
+    "term": "remotely-managed tunnel",
+    "definition": "A Cloudflare Tunnel whose configuration is stored on Cloudflare rather than on your local machine. You can manage the tunnel in the dashboard or by using the API.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#remotely-managed-tunnel"
+  },
+  {
+    "term": "Rule group",
+    "definition": "A set of Access rules that can be configured once and then quickly applied across many Access policies.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#rule-group"
+  },
+  {
+    "term": "SafeSearch",
+    "definition": "SafeSearch is a feature of search engines that filters explicit or offensive content from search results.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#safesearch"
+  },
+  {
+    "term": "SAML",
+    "definition": "Security Assertion Markup Language (SAML) enables single sign-on and authentication for multiple applications.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#saml"
+  },
+  {
+    "term": "SASE",
+    "definition": "Secure Access Service Edge (SASE) is a cloud-based security model bundling networking and security functions.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#sase"
+  },
+  {
+    "term": "SCIM",
+    "definition": "System for Cross-domain Identity Management (SCIM) is an open standard protocol that allows identity providers (such as Okta or Microsoft Entra ID) to synchronize user identity information with cloud applications and services.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#scim"
+  },
+  {
+    "term": "seat",
+    "definition": "A unique, billable user within your Zero Trust organization who has performed an authentication event. Service tokens do not consume seats.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#seat"
+  },
+  {
+    "term": "service provider (SP)",
+    "definition": "A service provider (SP) provides federated access to an application for a user from an identity provider (IdP).",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#service-provider-sp"
+  },
+  {
+    "term": "service token",
+    "definition": "Authentication credentials generated by Cloudflare Access which enable automated systems to access protected applications.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#service-token"
+  },
+  {
+    "term": "session",
+    "definition": "An event generated when a user logs in to an Access application.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#session"
+  },
+  {
+    "term": "shadow IT",
+    "definition": "Shadow IT is the unsanctioned use of software, hardware, or other systems and services within an organization, often without the knowledge of that organization's information technology (IT) department. For more information, refer to the Cloudflare Learning Center.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#shadow-it"
+  },
+  {
+    "term": "SMB",
+    "definition": "Secure Messaging Block (SMB) is a network file sharing protocol used for accessing files and services on a network.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#smb"
+  },
+  {
+    "term": "SSH",
+    "definition": "Secure Shell (SSH) protocol allows users to connect to infrastructure remotely and execute commands.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#ssh"
+  },
+  {
+    "term": "SSO",
+    "definition": "Single Sign-On (SSO) is a technology that combines multiple application logins into one, requiring users to enter credentials only once.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#sso"
+  },
+  {
+    "term": "target",
+    "definition": "A resource with an IP address or hostname that is reachable by Cloudflare, such as a server or web application.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#target"
+  },
+  {
+    "term": "target hostname",
+    "definition": "A label used to identify a set of targets in an Access for Infrastructure application.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#target-hostname"
+  },
+  {
+    "term": "team domain",
+    "definition": "A unique subdomain assigned to your Cloudflare account (for example, <your-team-name>.cloudflareaccess.com), where users will find the apps you have secured behind Cloudflare One.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#team-domain"
+  },
+  {
+    "term": "team name",
+    "definition": "The customizable portion of your team domain (<your-team-name>.cloudflareaccess.com). You can view your team name in Cloudflare One under **Settings**.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#team-name"
+  },
+  {
+    "term": "Terraform",
+    "definition": "An infrastructure as code software tool that allows you to deploy services from different providers using a standardized configuration syntax.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#terraform"
+  },
+  {
+    "term": "tunnel",
+    "definition": "A secure pathway for network traffic to flow between a device and Cloudflare's global network.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#tunnel"
+  },
+  {
+    "term": "User risk score",
+    "definition": "Ranks the likelihood of a user to introduce risk to your organization's systems and data based on the detection of security risk behaviors. Risk scores add user and entity behavior analytics (UEBA) to the Cloudflare One platform.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#user-risk-score"
+  },
+  {
+    "term": "User risk score level",
+    "definition": "Cloudflare One assigns a risk score of Low, Medium or High based on detections of users' activities, posture, and settings. A user's risk score is equal to the highest-level risk behavior they trigger.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#user-risk-score-level"
+  },
+  {
+    "term": "Virtual network",
+    "definition": "A software abstraction that allows you to logically segregate resources on a private network. Virtual networks are especially useful for exposing resources which have overlapping IP routes.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#virtual-network"
+  },
+  {
+    "term": "Virtual Private Cloud (VPC)",
+    "definition": "A secure, isolated private network hosted on public cloud infrastructure. Examples of public cloud providers include Google Cloud, AWS, and Microsoft Azure.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#virtual-private-cloud-vpc"
+  },
+  {
+    "term": "Virtual Private Network (VPN)",
+    "definition": "A tool that allows users to send and receive data across shared or public networks as if their devices were directly connected to the private network. For example, employees working from home can use a VPN to access files on the corporate network.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#virtual-private-network-vpn"
+  },
+  {
+    "term": "WARP CGNAT IP",
+    "definition": "A unique, virtual IP address assigned to each Cloudflare One Client device from the 100.96.0.0/12 range.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#warp-cgnat-ip"
+  },
+  {
+    "term": "WARP client",
+    "definition": "The previous name for the Cloudflare One Client, an application that connects corporate devices to Cloudflare for private network access, advanced web filtering, and other security functions.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#warp-client"
+  },
+  {
+    "term": "WARP Connector",
+    "definition": "The previous name for Cloudflare Mesh, a networking product that connects private networks, servers, and devices through Cloudflare for bidirectional, site-to-site, and mesh connectivity.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#warp-connector"
+  },
+  {
+    "term": "Zero Trust Security",
+    "definition": "Zero Trust Security is an IT security model that requires strict identity verification for every person and device accessing resources on a network.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-one/glossary/#zero-trust-security"
+  }
+]

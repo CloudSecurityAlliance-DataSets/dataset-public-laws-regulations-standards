@@ -1,0 +1,31 @@
+{
+  "secid": "secid:control/europeanpaymentscouncil.eu/sct",
+  "name": "SEPA Credit Transfer (SCT) Rulebook",
+  "acronym": "SCT",
+  "version": "",
+  "owner": "European Payments Council (EPC)",
+  "type": "Standard",
+  "description": "SEPA Credit Transfer Rulebook governing euro credit transfers across the Single Euro Payments Area. Includes operational and security requirements for participating banks.",
+  "relationToCloudSecurity": "",
+  "relationToAISecurity": "",
+  "license": {
+    "spdx": "LicenseRef-Publisher-Restricted",
+    "redistribution": "prohibited",
+    "derivatives": "prohibited_without_license",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.europeanpaymentscouncil.eu/document-library",
+    "notes": "Public rulebook download; participation requires EPC member-bank status. Some operational specs are members-only. Publicly accessible web resource with no login required (Tier 2 of Kurt Seifried 2026-11-09 4-tier hosting rule: open-web no-login content is mirrored in the public dataset repository with attribution)."
+  },
+  "links": {
+    "source": "https://www.europeanpaymentscouncil.eu/document-library",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "active": true,
+    "supersedes": "",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "Active. Annual rulebook revisions; SCT Inst is the real-time companion scheme."
+  },
+  "notes": "Authored 2026-05-14. Stub-only — awaiting CSA's licensed copy. Identity record in SecID registry."
+}

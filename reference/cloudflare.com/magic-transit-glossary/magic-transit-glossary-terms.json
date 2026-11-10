@@ -1,0 +1,20 @@
+[
+  {
+    "term": "letter of agency",
+    "definition": "Sometimes referred to as a Letter of Authorization. A document that authorizes Cloudflare to advertise your prefixes. This is required so transit providers can accept the routes Cloudflare advertises on your behalf.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/magic-transit/glossary/#letter-of-agency"
+  },
+  {
+    "term": "policy-based routing",
+    "definition": "Policy-based routing (PBR) is a technique used to make routing decisions based on policies set by your administrador.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/magic-transit/glossary/#policy-based-routing"
+  },
+  {
+    "term": "prefix",
+    "definition": "A number that identifies the network portion of an IP address. It tells devices if an IP address is on the same network or not. It is shown as a number after a slash (for example, /31) at the end of the IP address. Using an analogy, the prefix is like a street address. If an IP is in the same street, it belongs to the same network of devices.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/magic-transit/glossary/#prefix"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "term": "address map",
+    "definition": "A data structure enabling customers with BYOIP prefixes or account-level static IPs to specify which IP addresses should be mapped to DNS records when they are proxied through Cloudflare.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/byoip/glossary/#address-map"
+  },
+  {
+    "term": "autonomous system numbers (ASNs)",
+    "definition": "A large network or group of networks that has a unified routing policy. Every computer or device that connects to the Internet is connected to an autonomous system.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/byoip/glossary/#autonomous-system-numbers-asns"
+  },
+  {
+    "term": "Border Gateway Protocol (BGP)",
+    "definition": "The routing protocol for the Internet, which is responsible for picking the most efficient routes to deliver Internet traffic.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/byoip/glossary/#border-gateway-protocol-bgp"
+  },
+  {
+    "term": "Internet Routing Registry (IRR)",
+    "definition": "A globally distributed database of routing information which contains announced routes and routing policies in a common format. Network operators use this information, as well as RPKI, to configure backbone routers.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/byoip/glossary/#internet-routing-registry-irr"
+  },
+  {
+    "term": "Resource Public Key Infrastructure (RPKI)",
+    "definition": "A cryptographic method of signing records that associate a route with an originating autonomous system number.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/byoip/glossary/#resource-public-key-infrastructure-rpki"
+  },
+  {
+    "term": "Route Origin Authorization (ROA)",
+    "definition": "The RPKI-signed object that states an autonomous system is authorized to originate a particular IP address prefix or set of prefixes.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/byoip/glossary/#route-origin-authorization-roa"
+  },
+  {
+    "term": "Unicast Reverse Path Forwarding (uRPF)",
+    "definition": "A security feature that can prevent spoofing attacks.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/byoip/glossary/#unicast-reverse-path-forwarding-urpf"
+  }
+]

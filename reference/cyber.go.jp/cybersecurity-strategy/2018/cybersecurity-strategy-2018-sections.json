@@ -25,7 +25,7 @@
   },
   {
     "depth": 3,
-    "section_id": "1.2",
+    "section_id": "CYBERSECURITY STRATEGY: 1.2",
     "section_name": "CHANGES SINCE 2015 ············································································· 2",
     "id_kind": "numbered",
     "parent_id": "",
@@ -33,7 +33,7 @@
   },
   {
     "depth": 3,
-    "section_id": "2.2",
+    "section_id": "CYBERSECURITY STRATEGY: 2.2",
     "section_name": "INCREASING THREATS IN CYBERSPACE ·························································· 6",
     "id_kind": "numbered",
     "parent_id": "",
@@ -41,7 +41,7 @@
   },
   {
     "depth": 3,
-    "section_id": "3.2",
+    "section_id": "CYBERSECURITY STRATEGY: 3.2",
     "section_name": "BASIC VISION OF CYBERSECURITY AS A GOAL ················································ 11",
     "id_kind": "numbered",
     "parent_id": "",
@@ -49,7 +49,7 @@
   },
   {
     "depth": 3,
-    "section_id": "4.1",
+    "section_id": "CYBERSECURITY STRATEGY: 4.1",
     "section_name": "ENABLING SOCIO-ECONOMIC VITALITY AND SUSTAINABLE DEVELOPMENT ·············· 15",
     "id_kind": "numbered",
     "parent_id": "",
@@ -57,7 +57,7 @@
   },
   {
     "depth": 3,
-    "section_id": "4.2",
+    "section_id": "CYBERSECURITY STRATEGY: 4.2",
     "section_name": "BUILDING A SAFE AND SECURE SOCIETY FOR THE PEOPLE ·································· 22",
     "id_kind": "numbered",
     "parent_id": "",
@@ -65,7 +65,7 @@
   },
   {
     "depth": 3,
-    "section_id": "4.4",
+    "section_id": "CYBERSECURITY STRATEGY: 4.4",
     "section_name": "CROSS-CUTTING APPROACHES TO CYBERSECURITY ········································· 42",
     "id_kind": "numbered",
     "parent_id": "",
@@ -89,7 +89,7 @@
   },
   {
     "depth": 3,
-    "section_id": "1.1.2",
+    "section_id": "Introduction: 1.2",
     "section_name": "Changes Since 2015",
     "id_kind": "numbered",
     "parent_id": "1",
@@ -113,7 +113,7 @@
   },
   {
     "depth": 3,
-    "section_id": "2.2.2",
+    "section_id": "Understanding on Cyberspace: 2.2",
     "section_name": "Increasing Threats in Cyberspace",
     "id_kind": "numbered",
     "parent_id": "2",
@@ -140,7 +140,7 @@
     "section_id": "",
     "section_name": "(i) Assurance of the Free Flow of Information",
     "id_kind": "",
-    "parent_id": "",
+    "parent_id": "3.1",
     "body": "For the sustainable development of cyberspace as a place for creation and innovation, it is\n\nimperative to build and maintain a world in which transmitted information reaches the intended\n\n30 Consideration for\n\nrecipient without being unfairly censored or illegally modified en route.\n\nprivacy must also be maintained. As a basic condition for the free flow of information in cyber\n\nspace, morality and commonsense are requested not to offend rights and interests of others."
   },
   {
@@ -148,7 +148,7 @@
     "section_id": "",
     "section_name": "(ii) The Rule of Law",
     "id_kind": "",
-    "parent_id": "",
+    "parent_id": "3.1",
     "body": "As the unification of cyberspace and real space progresses, the rule of law should also be\n\nmaintained in cyberspace in the same way as in real space. Various domestic rules and norms,\n\nincluding domestic laws and regulations, are applied in cyberspace. Similarly, existing\n\ninternational law is also applied in cyberspace. Application of existing international law and\n\ndevelopment of norms continue to be essential for sustainable development of cyberspace as a\n\nsafe and reliable space."
   },
   {
@@ -156,7 +156,7 @@
     "section_id": "",
     "section_name": "(iii) Openness",
     "id_kind": "",
-    "parent_id": "",
+    "parent_id": "3.1",
     "body": "In order to achieve the sustainable development of cyberspace as a space to generate new values,\n\ncyberspace must be open to all actors without restricting possibilities of linking diverse ideas and\n\nknowledges. Japan adheres to the position that cyberspace must not be exclusively dominated\n\nby some a certain group of actors therein.\n\n31"
   },
   {
@@ -164,7 +164,7 @@
     "section_id": "",
     "section_name": "(iv) Autonomy",
     "id_kind": "",
-    "parent_id": "",
+    "parent_id": "3.1",
     "body": "Cyberspace has developed through the autonomous initiatives of multi-stakeholders. It is\n\ninappropriate and impossible for a state to take on the entire role of maintaining order for\n\ncyberspace to sustainably develop as a space where order and creativity coexist. The only\n\napproach to deter and address malicious actors’ behavior to maintain order in cyberspace is for\n\nvarious social systems to achieve their missions and functions autonomously. The Government\n\nwill promote this approach.\n\n32"
   },
   {
@@ -172,12 +172,12 @@
     "section_id": "",
     "section_name": "(v) Collaboration among Multi-stakeholders",
     "id_kind": "",
-    "parent_id": "",
+    "parent_id": "3.1",
     "body": "Cyberspace is a multi-dimension world established through activities of multi-stakeholders,\n\n30 Article 1 of the Basic Act stipulates “to ensure the free flow of information ... simultaneously.” 31 Article 3 of the Basic Act on the Formation of an Advanced Information and Telecommunications Network Society stipulates that “every people has an opportunity to easily and independently use the Internet and other advanced information and telecommunications networks.” 32 Article 3 Paragraph 2 of the Basic Act stipulates that “The promotion of the Cybersecurity policy must be carried out with the intent to raise awareness to each member of the public about Cybersecurity and encourage each member of the public to take voluntary actions.”\n\nincluding the state, local governments, critical infrastructure operators, cyber-related and other\n\nbusinesses, education and research institutions, and individuals. For the sustainable development\n\nof cyberspace, all actors are required to consciously fulfill their respective roles and\n\nresponsibilities. To do so, coordination and collaboration is required in addition to individual\n\nefforts. States have the role of promoting this coordination and collaboration, and will promote\n\nmeasures enabling the fulfillment of such roles.\n\n33"
   },
   {
     "depth": 3,
-    "section_id": "3.3.2",
+    "section_id": "Visions and Objectives of this Strategy: 3.2",
     "section_name": "Basic Vision of Cybersecurity as a Goal",
     "id_kind": "numbered",
     "parent_id": "3",
@@ -188,7 +188,7 @@
     "section_id": "",
     "section_name": "(i) Mission Assurance for Service Providers",
     "id_kind": "",
-    "parent_id": "",
+    "parent_id": "Visions and Objectives of this Strategy: 3.2",
     "body": "Reliable execution of operations and services\n\n“Mission Assurance” refers to the condition in which any organization represented by companies,\n\ncritical infrastructure operators, and government bodies understand the operations or services\n\nthat they should carry out as their “missions,” and ensure necessary capabilities and resources to\n\nreliably execution such “missions.” As part of that assurance, it is vital, from the standpoint of\n\neach organization carrying out their operations or services as “missions,” for those responsible\n\nin each organization to proactively work towards securing cybersecurity without relying on some\n\nexperts.\n\nIn other words, this means that senior executives or managers of each organization should\n\nidentify operations or services that represent their “missions” and take all responsibility for\n\nsecure and sustainable provision, rather than making cybersecurity initiatives themselves the\n\ngoal."
   },
   {
@@ -196,7 +196,7 @@
     "section_id": "",
     "section_name": "(ii) Risk Management",
     "id_kind": "",
-    "parent_id": "",
+    "parent_id": "Visions and Objectives of this Strategy: 3.2",
     "body": "Assessment of Uncertainty and Appropriate Response\n\n“Risk management” means to minimize risks to an acceptable level by identifying, analyzing,\n\n35 associated with “missions” assigned to organizations. The innate\n\nand evaluating risks\n\nuncertainty of cyberspace unavoidably leads to this viewpoint.\n\n36 and measurable only by considering\n\nRisk is defined as “the effect of uncertainty on objectives,”\n\nthe established objectives. Therefore, evaluation of or response to risks differs depending on\n\n37 as “coordinated set of\n\nobjectives of the organization. Furthermore, risk management is defined\n\nactivities and methods that is used to direct an organization and to control many risks that can\n\naffect its ability to achieve objectives,” and thus represents the overall set of activities of\n\naddressing risks through directing and controlling organizations and appropriately distributing\n\norganization’s limited resources, which is not the individual activities of identifying, analyzing\n\nor evaluating risks.\n\n35 Note that this refers to uncertainty that has both positive and negative aspects. 36 Definition given by the International Organization for Standardization (ISO) 37 Definition given by the International Organization for Standardization (ISO)\n\nIf each organization underestimates risks without acknowledging operations or services which\n\nrepresent its “mission” and does not allocate necessary resources to cybersecurity, it may lead to\n\ncontingencies that can threaten the very survival of the organization. On the other hand, if the\n\nrisks are overestimated and excessive resources are allocated to cybersecurity, it could impede\n\nthe execution of organization’s operations or services and its sustainable growth.\n\nSuch an approach to risk management is necessary for all, even individuals, who enjoy the\n\nbenefits of utilizing knowledges, technologies or services of cyberspace.\n\nWhen enjoying benefits, it is common for risks of losing control of prerequisite technologies or\n\nservices to emerge. Accordingly, since mechanical prediction does not hold, and it is impossible\n\nto eliminate the risk completely, we need to properly address such risks according to the nature\n\nor manifestation of each risk, and minimize cybersecurity risks at an acceptable level in\n\ncounterbalance with the merits of services and products provided thereof."
   },
   {
@@ -204,7 +204,7 @@
     "section_id": "",
     "section_name": "(iii) Participation, Coordination, and Collaboration",
     "id_kind": "",
-    "parent_id": "",
+    "parent_id": "Visions and Objectives of this Strategy: 3.2",
     "body": "Measures, coordination and cooperation by individuals and organization from peacetime\n\n“Participation, coordination and collaboration” applies to fundamental initiatives implemented\n\nby individuals or organizations from peacetime to prevent damages or its escalation possibly\n\ncaused by threats in cyberspace. Any actor operating in cyberspace may potentially create new\n\nvalues as their benefits, but they may also be exposed to threats emerging from inherent risks.\n\nFrom this standpoint, it is necessary for not only organizations providing services but also\n\nindividuals to take day-to-day basic cybersecurity efforts from peacetime.\n\nSpecifically, this includes measures to protect against malicious programs, mitigate\n\n38 secure reliability of certifications, and manage personal information properly,\n\nvulnerabilities,\n\namong other things. These initiatives are often compared to public hygiene activities or\n\ntransportation safety campaigns carried out in real space.\n\nHowever, while cyberattacks may occur anytime or anywhere and threats become a daily\n\nconcern, it is difficult to respond through individual efforts alone, and proactive support by other\n\nstakeholders including organizations, is required to strengthen such initiatives.\n\nFor this reason, it is necessary for everyone to work on initiatives together, which means they\n\nmust cooperate. In addition to working on individual initiatives, it is necessary for every\n\nindividual or organization involved in cyberspace to share information and mutually coordinate 38 People, things, and flaws in services that trigger threats.\n\nand collaborate between each other regardless of peacetime or emergency situations. These basic\n\ncybersecurity efforts should be regarded as new cyber hygiene.\n\nAccordingly, we need to support through public-private partnership to promote such\n\nfundamental initiatives. Particularly, under the principle of “collaboration among multi-\n\nstakeholders” listed under the Basic Principles, Japan must proactively carry out the role of\n\npromoting collaboration and coordination on a daily basis."
   },
   {
@@ -217,7 +217,7 @@
   },
   {
     "depth": 3,
-    "section_id": "4.4.1",
+    "section_id": "4.1",
     "section_name": "Enabling Socio-Economic Vitality and Sustainable Development",
     "id_kind": "numbered",
     "parent_id": "4",
@@ -233,7 +233,7 @@
   },
   {
     "depth": 3,
-    "section_id": "4.4.2",
+    "section_id": "4.2",
     "section_name": "Building a Safe and Secure Society for the People",
     "id_kind": "numbered",
     "parent_id": "4",
@@ -244,7 +244,7 @@
     "section_id": "",
     "section_name": "(i) Promotion of Risk Management",
     "id_kind": "",
-    "parent_id": "",
+    "parent_id": "4.2",
     "body": "It is necessary to provide critical infrastructure services safely and continuously even during\n\ncyberattacks. For that reason, in addition to implementing security measures in advance, it is\n\nimportant for critical infrastructure operators to prepare business continuity plans (BCP) and\n\ncontingency plans based on the concept of mission assurance, in light of the results of risk\n\nassessment with cross-organizational and complex risks in mind. The government will\n\nimplement initiatives to ensure that these overall risk management activities function\n\ncontinuously and effectively."
   },
   {
@@ -252,7 +252,7 @@
     "section_id": "",
     "section_name": "(ii) Improvement and Promotion of Safety Principles",
     "id_kind": "",
-    "parent_id": "",
+    "parent_id": "4.2",
     "body": "In order to promote appropriate handling by critical infrastructure operators, the government will\n\nwork on further promotion of guidelines for the preparation of safety principles, while\n\ncontinuously promoting initiatives to improve those safety principles including the\n\nrecommendation of methods for data management and reduction of risks due to human factors\n\nbased on surveys on the current state of data management and relevant international trends,\n\ntaking into consideration such matters as the content of the business, size of the organizations,\n\nthe duration of system use, and the impact on international competitivity. Furthermore, from the\n\nstandpoint of maintaining safety, the government will appropriately improve the institutional\n\nframeworks by means such as positioning cybersecurity measures as safety regulations within\n\nrelated laws and regulations, etc."
   },
   {
@@ -260,7 +260,7 @@
     "section_id": "",
     "section_name": "(iii) NISC Cyber Incident Severity Scale for CIS Outages",
     "id_kind": "",
-    "parent_id": "",
+    "parent_id": "4.2",
     "body": "According to recent trends in cyberattacks, it is necessary to enable stakeholders, such as\n\ngovernmental bodies and critical infrastructure operators, to quickly share their understanding\n\nand determine whether a rapid response is necessary when a cyberattack is detected. To that end,\n\nthe government will prepare the “NISC Cyber Incident Severity Scale for CIS Outages” and\n\nevaluate and publish the severity of incidents to encourage and enable diverse stakeholders to\n\nrespond rationally and appropriately while taking into consideration the effect and impact of\n\nthoroughly informing the public. The government will also review the Scale as appropriate to\n\nimprove it."
   },
   {
@@ -268,7 +268,7 @@
     "section_id": "",
     "section_name": "(iv) Joint Training and Exercises between Public and Private Sectors",
     "id_kind": "",
-    "parent_id": "",
+    "parent_id": "4.2",
     "body": "It is important to conduct training and exercises with the assumption of the occurrence of service\n\noutages to increase the capabilities of critical infrastructure operators so that they can respond to\n\nsuch situations appropriately. The government and related institutions will continue to\n\nimplement training and exercises among stakeholders of various sizes across public and private\n\nsector boundaries, and expand the scope and improve the contents thereof as necessary for their\n\ncontinued development."
   },
   {
@@ -276,7 +276,7 @@
     "section_id": "",
     "section_name": "(v) Security Measures for Industrial Control Systems (ICS)",
     "id_kind": "",
-    "parent_id": "",
+    "parent_id": "4.2",
     "body": "There are critical infrastructure operators in such sectors as electricity, gas, and oil that use\n\nindustrial control systems (ICS) to provide services. In these cases, it is likely that normal service\n\nprovision becomes impossible when such ICS are significantly affected by cyberattacks and the\n\nlike, causing a major impact on people’s living. Accordingly, public and private sectors will unite\n\nto promote human resource development regarding ICS and carry out collection, analysis, and\n\ndeployment of threat information as appropriate so that adequate security measures based on the\n\ncharacteristics of ICS will be implemented for safe and continuous provision of services.\n\n(2) Strengthening and Enhancing Security in Local Governments\n\nThe services provided by local governments are closely related to people’s living, and any\n\nobstacles on the provision of those services can have a major impact on community activity.\n\nWhile there are limits to technical solutions that can be taken for cybersecurity measures\n\nindividually by organizations with limited resources, it is first and foremost necessary to\n\nimplement countermeasures against the leak of information, including Indivisual Number, due\n\nto service interruption or human error.\n\n47 of the national government in local\n\nGiven this situation and while direct involvement\n\ngovernment is limited compared to other organizations due to the current division of roles\n\nbetween national and local governments, local governments nationwide have been undertaking\n\nthe fundamental reinforcement of measures, and the national government will update its\n\nguideline on security policy as necessary in light of the necessity to achieve a high level of\n\nsecurity. The government will also work to achieve the necessary security levels for operational\n\nnetworks and promote initiatives to secure and develop cybersecurity human resource, enhance\n\nsystems as well as securing the necessary budget while being mindful of the need for smooth\n\noperations by local governments.\n\nFurthermore, with regards to identity federation among public and private sectors, the\n\ngovernment will work to improve the environment balancing between convenience and security.\n\nStrengthening and Improving Security in Governmental Bodies and Government-\n\nRelated Entities\n\nTo date, efforts have been made to raise the level of information security measures for\n\ngovernmental bodies overall through the development of information security measures based\n\non unified standards, initiatives for auditing based on those standards and the monitoring of\n\nunauthorized communication, and the government is required to continue working on these\n\ninitiatives. The framework for initiatives at Incorporated Administrative Agencies and\n\nDesignated Corporations (hereinafter referred to as “Incorporated Administrative Agencies,\n\netc.”) has been expanded in the same manner as for governmental bodies through the revision of\n\n48 and it will be an important issue moving forward to promote\n\nthe Basic Act on Cybersecurity,\n\neffective information security measures at Incorporated Administrative Agencies, etc. in\n\nconsideration of the characteristics of their diverse business forms.\n\nResponding to increasingly complex and sophisticated cyberattacks, there is a need to use new\n\ntechnologies to overcome the existing state in which attackers have the advantage while\n\nstrengthening defense in depth that assume attacks will occur and countermeasures for risks to\n\nsupply chains.\n\n47 Unification and auditing of technical specifications. 48 Enacted on April 15, 2016. Expanded the scope to cover the monitoring, auditing, and investigating the causes of unauthorized communications by the government.\n\nThe smooth execution of government services is an extremely important responsibility for\n\ngovernmental bodies and Incorporated Administrative Agencies, etc. (hereinafter referred to as\n\n“the Agencies”), and it is important to make the necessary IT investment and security-related\n\ninvestment together as one when making investments for their systems. In light of this situation,\n\nit is important to secure the funds necessary to amplify security-related investments by such\n\nmeans as using the funds generated by making IT investment by the Agencies more efficient for\n\nsecurity, and to strengthen the information security measures described above.\n\n(1) Advancing and Visualizing Security Measures for Information Systems\n\nThe Agencies will utilize new defensive technologies to carry out more effective initiatives,\n\naiming not only to increase the response capability towards the growing threat of cyberattacks,\n\nbut also to prevent damages and, in the case of the occurrence of damages, prevent its spread\n\nand minimize the damage."
   },
   {
@@ -284,7 +284,7 @@
     "section_id": "",
     "section_name": "(i) Increasing Defensive Capabilities and Conditional Awareness for Information Systems",
     "id_kind": "",
-    "parent_id": "",
+    "parent_id": "4.2",
     "body": "The Agencies will work to prevent damage preemptively and prevent its spread thereof by\n\ndetecting malware behavior at the endpoint (personal computer, etc.) where programs are run.\n\nBy automation of IT asset management, the Agencies will monitor the state of information\n\nsystems in real time and enable the rapid handling of software vulnerabilities. Data protection\n\ninitiatives will also be carried out for all Agencies to prevent information leakage when incidents\n\noccur. Furthermore, it is necessary to examine measures for identifying attacks that are difficult\n\nto detect by analyzing threat, combining the phenomena that occur on various devices and\n\naccount management information. In order to implement those measures effectively, systems\n\nwith a view to automating the work required for analysis of information must be established."
   },
   {
@@ -292,7 +292,7 @@
     "section_id": "",
     "section_name": "(ii) Preventing Damages and the Spread Thereof through the Advanced Cross-",
     "id_kind": "",
-    "parent_id": "",
+    "parent_id": "4.2",
     "body": "Organizational Collaboration among the Agencies\n\nWith consideration for the implementation status of malware monitoring on devices and\n\nautomation of IT asset management at all stages, including prevention, detection, recovery, and\n\nresponse, the Agencies will aim for the development of cross-organizational initiatives by\n\n49\n\nsophistication of effective and efficient collaboration between the Agencies and the GSOC\n\nwhich includes the appropriate sharing with the GSOC of information to be gained on such\n\nmeasures.\n\n49 Abbreviation of Government Security Operation Coordination Team. This team carries out cross-organizational monitoring and rapid response for the information security of governmental bodies.\n\n(2) Promoting Use of the Cloud for Effective Security Measures\n\nSo that each Agency can select an appropriate form of information system according to the\n\ncharacteristics of the information and that security measures can be carried out efficiently and\n\neffectively for the overall government, the government will promote the use of cloud services\n\nincluding migration to a government common platform in the form of a government private\n\ncloud that can utilize the benefits of consolidating the building and operation of systems and\n\nincreasing the security level. In promoting the use of the cloud, the government will consider\n\nand go forward with measures to promote the use of a reliable cloud in which an appropriate\n\nlevel of security such as safety evaluation is secured.\n\nWith regard to the Internet connection lines, the government has also worked for the unification\n\nand consolidation of the connection port under the common standard. The government will make\n\nthe necessary considerations including the consolidation of perimeter monitoring points while\n\ncollaborating with government common networks and platforms, since the further promotion of\n\nthe appropriate consolidation of Internet connection ports for governmental bodies is extremely\n\neffective for operations and security measures.\n\n(3) Preemptive Efforts Utilizing Advanced Technology\n\nSome of the information system platforms that have grown in use in recent years have a\n\nparticularly high level of resistance to cyberattacks. The government will consider utilizing the\n\ninformation technologies created under this new design philosophy for the Agencies, work to\n\naccumulate knowledge of best practices, and aim for a shift towards defender’s advantage.\n\n(4) Raising the Cybersecurity Level through Auditing\n\nIn light of the Basic Act on Cybersecurity, the government will provide the trends and issues\n\nidentified through the cross-organizational analysis of data from the auditing of the Agencies as\n\nfeedback for the entire Agencies to promote the further raising of the cybersecurity level. In\n\naddition, the government will utilize the IT asset management information of the Agencies that\n\nis developed in accordance with initiatives in monitoring the state of those systems efficiently,\n\nand will aim for efficient and effective implementation of auditing.\n\n(5) Improving Organizational Response Capability\n\nPrimarily via the team that handles incidents,\n\n50 the government will increase incident response\n\ncapability and information security knowledge of each Agency. In case of occurrences of\n\ncyberattacks to the Agencies, the government will enhance the training, etc. for coping capability\n\n50 CSIRT (Computer Security Incident Response Team)\n\nbuilding of the staff in order to strengthen the mobile assistance formation (an emergency\n\nassistance team for information security)\n\n51 which is comprised of government employees with\n\nrequisite knowledge and skills of each government agency.\n\nEnsuring a Safe and Secure Educational and Research Environment at Universities\n\netc.\n\nUniversities and Inter-University Research Institutes etc. (hereinafter referred to as “universities\n\netc.”) are staffed by various members with a diverse collection of IT assets and systems in use.\n\nGiven the nature of these universities etc., along with the implementation of autonomous\n\ncybersecurity measures by the universities etc. by themselves, it is important for the government\n\nto proactively support the building of response system and sharing of information etc. to deal\n\nwith cyberattacks through collaboration among the universities etc. in order to ensure a safe and\n\nsecure educational and research environment.\n\n(1) Promoting Measures in Light of the Diversity of Universities etc.\n\nThe senior executives of universities etc. must personally understand the importance of\n\ncybersecurity measures, position cybersecurity measures as important managerial issues, and\n\ncarry out initiatives as an organization based on a plan for promoting cybersecurity measures,\n\nwhile also conducting follow-ups to further promote cybersecurity measures.\n\nIn doing so, it is necessary to identify the IT assets to protect, evaluate the cybersecurity risks,\n\nand consider the managerial and technical measures to be prioritized when implementing in\n\naccordance to those risks, with consideration for the diversity of the universities etc. that conduct\n\neducation and research in various areas. Furthermore, universities and research institutes also\n\nneed to consider initiatives to improve the capability to respond quickly and appropriately to\n\nincidents, and a system to implement the measures organizationally and steadily.\n\nThe government will promote the autonomous and organizational initiatives of the universities\n\netc. by creating and disseminating guidelines on cybersecurity; implementing practice for each\n\nlevel regarding risk management and incident response, and practical training and exercises, and\n\nsupport for the initial response to the event of incidents.\n\n(2) Promoting Cooperative and Collaborative Initiatives by Universities etc.\n\nUniversities etc. use common information platforms and face similar cybersecurity issues.\n\nStrengthening of the cybersecurity measures in light of these actual conditions at the universities\n\n51 CYMAT (Cyber Incident Mobile Assistant Team)\n\netc. is considered important, and there is a need for further promotion of initiatives through\n\nmutual cooperation of all the parties involved.\n\nFor this reason, organizations that operate science information networks will collaborate with\n\nnational universities etc. to develop a system to monitor, detect, and analyze cyberattacks and\n\nprovide information on those attacks, while also carrying out joint research and training for\n\ntechnical staff to maintain and strengthen the functions of monitoring capabilities and develop\n\nstrategic management level, and training for technical staff.\n\nIn order to strengthen the incident response team at those universities etc., the government will\n\nalso support initiatives that the incident handling team for multiple universities and research\n\ninstitutes shares information, common issues and knowledge for incident response related to\n\ncyberattacks.\n\nInitiatives for the Tokyo 2020 Games and Beyond\n\nCountless athletes, foreign dignitaries, and supporters will gather from all over the world for the\n\nOlympic/Paralympic Games, giving the hosting of the event the highest possible level of\n\nattention and potentially making it a target for cyberattacks.\n\nReflecting on the past Olympic/Paralympic Games, it has been reported that there was a massive\n\nnumber of cyberattacks during the London 2012 Games, though they did not affect the operation\n\nof the event. Similarly, according to some reports there was a significant number of cyberattacks\n\ncausing damages to the Rio de Janeiro 2016 Games and the PyeongChang 2018 Games. The\n\nTokyo 2020 Games is also expected to be subject to even more cyberattacks than in the past and,\n\nby their nature, some attacks will assumingly be targeting multiple service sectors. For that\n\nreason, the government will ensure cybersecurity for the Tokyo 2020 Games and promote further\n\nmeasures looking beyond the event.\n\nThese various measures will be expanded in scope and continued after the Tokyo 2020 Games,\n\nand the legacy of the systems developed, and experience and knowledge in their operation will\n\nbe utilized to strengthen cybersecurity in Japan continuously into the future.\n\n(1) Preparedness for the Tokyo 2020 Games\n\nBased on the basic strategy52 decided by the Security Board Meeting of the Headquarters for the\n\nTokyo 2020 Olympic/Paralympic Games, the government will continue the collection of\n\n52 The Basic Strategy on Security for the Tokyo 2020 Olympic/Pralympic Games (the Security Board Meeting of the Liaison Council of Ministries and Agencies Related to the Tokyo 2020 Olympic and Paralympic Games, March 21, 2017)\n\ninformation concerning the safety of the Games and other measures. It will also carry out the\n\nassessment of cybersecurity risk sources taking into consideration the coordination with physical\n\nsecurity, conduct the cybersecurity risk assessment of critical service providers that have the\n\npotential to affect the Tokyo 2020 Games operations including the consideration of risk scenarios\n\nbased on the results of the assessment of cybersecurity risk sources, and promote measures for\n\nvarious risks including the cross-sectoral risks identified by the risk assessment. In addition to\n\nthe sharing of information on cybersecurity threats among Olympic related organizations, such\n\nas the relevant ministries and governmental agencies, the Tokyo Organising Committee of the\n\nOlympic and Paralympic Games, the Tokyo Metropolitan Government, local governments\n\nproviding venues, and critical service providers, the government will promote the development\n\nof the Cyber Security Incident Response Coordination Center (Government\n\nOlympic/Paralympic CSIRT), the organization through which the government takes a role to\n\ncoordinate the Olympic related organizations so that they can respond to cybersecurity incidents\n\ntogether when an incident occurs, and work to ensure the preparedness for close communication\n\nand coordination.\n\n(2) Passing on Results that Lead to the Future\n\nThe government will continue to promote the various measures in preparation for the Tokyo\n\n2020 Games, and the systems developed, and the operational experience and knowledge of those\n\nsystems will be utilized as a legacy to strengthen Japan’s continuous cybersecurity after the\n\nTokyo 2020 Games. Furthermore, the Cyber Security Incident Response Coordination Center\n\nwill be utilized as an organization (national CSIRT) to serve as a coordinator and coordinating\n\ndesk for all of Japan to work together to deal with cyberattacks. The methods for risk\n\nmanagement described in the Basic Vision of Cybersecurity will be prepared and disseminated\n\nfor wide application to business operators throughout the country.\n\nBuilding an Information Sharing/Collaboration Framework that Extends beyond\n\nTraditional Frameworks\n\nEssentially, the establishment of cybersecurity should be an initiative that each organization\n\ncarries out autonomously according to the value of its data assets and the state of information\n\nand communication technology utilization. Meanwhile, due to the changes in attack modes, there\n\nhas been a limit to the ability to put in place effective countermeasures against cyberattacks\n\nwithin a single organization. For that reason, an awareness is steadily spreading in both the public\n\nand private sectors that emphasizes collaboration with other organizations, and not only\n\nadministrative organs and critical infrastructure operators, but also a wide range of other\n\nstakeholders are beginning to work on information sharing.\n\nAs the number of sectors closely related to cyberspace further grows due to the increasing\n\nunification of cyberspace and real space, it is expected that the scope of sectors and stakeholders\n\nthat need to share information contributing cybersecurity will continue to expand.\n\nAccordingly, from the standpoint of “participation, coordination and collaboration” presented as\n\npart of the Basic Vision of Cybersecurity, the government must support existing initiatives for\n\ninformation sharing systems, such as ISAC,\n\nstakeholders, while taking on new roles.\n\n53 through the close coordination between the\n\n(1) Promoting Information Sharing and Collaboration between Multi-Stakeholders\n\nWith the increase in the number of stakeholders engaged in information sharing, the importance\n\nof the role of collecting and analyzing the information and coordinating the stakeholders in a\n\ntimely manner also increases. In the meantime, because the inappropriate handling of the shared\n\ninformation has the potential to cause a decline in the social appraisal and trust, it remains an\n\nissue that the stakeholders are reluctant to proactively share the data they possess.\n\nGiven this situation, the government will work to build a new system that will enable multi-\n\nstakeholders in the public and private sectors, including specialized agencies with adequate\n\nknowledge and experience in information sharing, to share information contributing\n\ncybersecurity without anxiety. When doing so, it will be important to respect the autonomy of\n\neach stakeholder in accordance with the principle of autonomy presented in the Basic Principles.\n\nInformation sharing and coordination that transcends public-private, industrial, national, and\n\nother boundaries between public and private sectors, industries, and the domestic and\n\ninternational will be promoted by implementing this initiative.\n\nThe government will also consider collaboration and unification between the multiple existing\n\ninformation sharing systems in the public and private sectors with consideration for the\n\ncharacteristics and roles of each of them so that the relevant parties shall not incur additional\n\nburden by new system.\n\n(2) Towards a New Stage in Information Sharing and Collaboration\n\nFor the development of a new information sharing system, the government will consider a\n\nstructure in which multi-stakeholders can build relationships of trust, and in which the more they\n\n53 Abbreviation for Information Sharing and Analysis Center. This organization collects information on cybersecurity for analysis. The analyzed data is shared with ISAC members for use in their respective security measures. (Source: Cybersecurity 2017 (August 25, 2017))\n\nactively collaborate and cooperate in providing information, the more they receive benefit from\n\nthe system.\n\nThe more the level of collaboration and cooperation with other parties increases, the greater the\n\nbenefits of participating in the information sharing system become. Accordingly, the government\n\nmust take the lead in sharing the information in its possession appropriately. The government\n\nwill also develop an environment in which stakeholders that proactively share their own\n\ninformation regarding such matters as cybersecurity incidents is positively regarded. In particular,\n\nit is essential that information regarding cybersecurity that causes recalls to protect the life and\n\nphysical well-being of people is shared swiftly and surely. The government will also work to\n\nachieve appropriate and swift analysis and sharing of information truly needed by each\n\nstakeholder through the promotion of automatic processing of received information and other\n\nmeans.\n\nThrough this initiative, the understanding that the mutual sharing of information is essential to\n\nincrease cybersecurity will be cultivated throughout society. Furthermore, having the sight set\n\non the strategic collaboration with the international community is also essential, while\n\ndeveloping Japan’s information sharing system. The government will work closely with each\n\nstakeholder and work proactively towards improving the necessary environment to enable each\n\nstakeholder to build relationships for coexistence and mutual development that transcend the\n\nconventional sectoral boundaries associated with industries and the public and private sectors.\n\nThis will enable the sharing of information and collaboration regarding cybersecurity to move\n\nahead to a new stage.\n\nStrengthening the Incident Readiness Against Massive Cyberattacks\n\nCyberattacks have occurred overseas and significantly impacted people’s living, causing\n\nmassive power outages or partial losses of functioning of financial institutions. As unification of\n\ncyberspace and real space continues, it is well within the realm of possibility for cyberattacks to\n\ncause incidents in real space in our country in the future. Furthermore, massive cyberattacks can\n\nbe expected to cause simultaneous damages to services that are normally relatively unrelated,\n\nand the country must work as one to address risk management for threats in cyberspace to protect\n\nsociety and the people from those threats.\n\nThe government will carry out response training and exercises across both cyberspace and real\n\nspace while strengthening the preparations to respond to cyberattacks through training and\n\nexercises in order to work on risk management for both cyberspace and real space. The\n\ngovernment will also promote training of personnel capable of analyzing cyberattacks, the\n\nsharing of information through a framework for public and private sector coordination, and the\n\nadvancement of Internet monitoring in an effort to improve data collection and analysis\n\ncapabilities and emergency response capabilities in cyberspace."
   },
   {
@@ -308,7 +308,7 @@
     "section_id": "",
     "section_name": "(i) Mission Assurance",
     "id_kind": "",
-    "parent_id": "",
+    "parent_id": "4.3",
     "body": "It is the mission of governmental bodies to protect and support people’s lives and socio-economic\n\nactivities. Any failure in playing their role is a significant concern for national security. The\n\nexecution of the missions of these governmental bodies relies on the services provided by critical\n\ninfrastructure operators and other business operators which maintain social system. These\n\noperators also have an important mission to provide these services indispensable for the people\n\n55 ICPO is the Acronym for International Criminal Police Organization.\n\nand the society.\n\nJapan will promote the establishment of cybersecurity for governmental bodies and critical\n\ninfrastructure operators in order to assure the execution of the missions of those governmental\n\nbodies related to national security and to provide services essential for the people and the society.\n\nAs the defense authorities, in particular, the Ministry of Defense and the Self-Defense Forces,\n\nwill continue to strengthen the defense of the networks and infrastructure on which their\n\noperations depend, while further enhancing the capabilities of cyber defense units against\n\ncyberattacks, and deepen collaboration with stakeholders involved in the mission assurance of\n\nthe Self-Defense Forces."
   },
   {
@@ -316,7 +316,7 @@
     "section_id": "",
     "section_name": "(ii) Protection of Japan’s Advanced Technologies and Defense Related Technologies",
     "id_kind": "",
-    "parent_id": "",
+    "parent_id": "4.3",
     "body": "Advanced technologies are important national assets not only for assuring economic advantage,\n\nbut for national security as well. Japan will strengthen cybersecurity measures, including the\n\nreduction of human caused risks faced by the business operators and relevant ministries and\n\ngovernmental agencies that handle the technologies important to Japan’s national security, such\n\nas technologies related to outer space, nuclear energy, security, and the defense equipment.\n\nParticularly, the leak or illegal disclosure of the technical information held by the defense\n\nindustry would have a major impact on Japan’s national security. For that reason, Japan will\n\nwork to adopt a system to ensure the safe sharing of information, establish new information\n\nsecurity standards for contractors, and revise contractual provisions. Deliberations will be carried\n\nout with the assumption that these measures will be applied to the entire supply chain for the\n\ndefense industry, including subcontractors, through the collaboration between the public and\n\nprivate sectors.\n\nFurthermore, the government will promote measures at national research and development\n\norganizations and universities and research institutes possessing advanced technology from the\n\nviewpoint of protecting information on advanced technologies."
   },
   {
@@ -324,7 +324,7 @@
     "section_id": "",
     "section_name": "(iii) Measures Against the Malicious Use of Cyberspace by Terrorist Organizations",
     "id_kind": "",
-    "parent_id": "",
+    "parent_id": "4.3",
     "body": "Cyberspace offers a place where individuals and organizations can exchange information and\n\nexpress their thoughts freely. It now serves as the foundations of democracy. On the other hand,\n\nit is necessary to prevent the malicious use of cyberspace by terrorist organizations, such as\n\nspreading and demonstrating violent externism, recruiting into the organizations, and gathering\n\nfunds for organizations. For that reason, the government will strengthen the collection and\n\nanalysis of information on the activities of terrorist organizations in cyberspace and take any\n\nother necessary measures in collaboration with the international community, while also\n\nguaranteeing the basic human rights including the freedom of expression.\n\n(2) Enhancing Deterrence Capabilities"
   },
   {
@@ -332,7 +332,7 @@
     "section_id": "",
     "section_name": "(i) Measures for Effective Deterrence",
     "id_kind": "",
-    "parent_id": "",
+    "parent_id": "4.3",
     "body": "International law, including the Charter of the United Nations, applies to cyberspace. As G7\n\nleaders affirmed at the Ise-Shima Summit, under some circumstances, cyber activities could\n\n56 Also,\n\namount to the use of force or an armed attack within the meaning of international law.\n\nas G7 foreign ministers affirmed at Lucca, among other lawful responses, a State that is the\n\nvictim of an internationally wrongful act may, in certain circumstances, resort to proportionate\n\n57\n\ncountermeasures against the State responsible for the wrongful act.\n\nBased on the above-mentioned recognition, in order to deter malicious cyber activities and\n\nprotect the people’s safety, security, and rights, in close coordination with our ally and like-\n\nminded countries, Japan will utilize political, economic, technological, legal, diplomatic, and all\n\nother viable and effective means and capabilities, depending on the threat, and take resolute\n\nresponses against cyber threats that undermine our national security, including those possibly\n\nstate-sponsored.\n\nThe government will strengthen the coordination system among relevant governmental bodies\n\nwith the Cabinet Secretariat as its core in order to make timely and appropriate responses,\n\npromote as a whole inter-agency and cross-sectoral efforts in a comprehensive manner, and the\n\ngovernment will also strengthen capacity at the relevant authorities including law enforcement\n\nauthorities and the Self-Defense Forces. In this regard, the acquisition of capabilities to prevent\n\nmalicious cyber actors from using cyberspace may be considered."
   },
   {
@@ -340,7 +340,7 @@
     "section_id": "",
     "section_name": "(ii) Confidence Building Measures",
     "id_kind": "",
-    "parent_id": "",
+    "parent_id": "4.3",
     "body": "The government will work to build confidence among states in order to prevent the occurrence\n\nof unforeseen circumstances and deterioration of the situation caused by cyberattacks. Due to\n\n56 G7 Principles and Actions on Cyber (May 2016) “We affirm that under some circumstances, cyber activities could amount to the use of force or an armed attack within the meaning of the United Nations Charter and customary international law. We also recognize that states may exercise their inherent right of individual or collective self-defense as recognized in Article 51 of the United Nations Charter and in accordance with international law, including international humanitarian law, in response to an armed attack through cyberspace.” 57 G7 Declaration on Responsible States Behavior in Cyberspace (April 2017) “We note that, in the interest of conflict prevention and peaceful settlement of disputes, international law also provides a framework for States’ responses to wrongful acts that do not amount to an armed attack -these may include malicious cyber activities. Among other lawful responses, a State that is the victim of an internationally wrongful act may, in certain circumstances, resort to proportionate countermeasures, including measures conducted via ICTs, against the State responsible for the wrongful act in order to cause the responsible State to comply with its international obligations”\n\nthe the anonymity and secrecy of cyberattacks, there are risks that cyberattacks unintentionally\n\nincrease tentions among states and worsen the situation. In order to prevent such accidental and\n\nunnecessary confrontations, it is important to build up international communication channels\n\nduring normal times in preparation for the occurrence of incidents that extend beyond national\n\nborders. It is also necessary to increase transparency and build confidence between states through\n\nthe proactive information exchange and policy dialogues in bilateral and multilateral\n\nconsultations. The government will also cooperate with other states to consider a mechanism for\n\ncoordinating issues regarding cyberspace.\n\n(3) Strengthening Cyber Situational Awareness"
   },
   {
@@ -348,7 +348,7 @@
     "section_id": "",
     "section_name": "(i) Increasing the Capabilities of Relevant Governmental Bodies",
     "id_kind": "",
-    "parent_id": "",
+    "parent_id": "4.3",
     "body": "In order to deter increasingly serious cyberattack, in addition to enhancing response capabilities,\n\nadequate capabilities to detect, investigate, and analyze cyberattacks are necessary to make the\n\nattackers accountable. To this end, the government will quantitatively and qualitatively improve\n\nthe information collection and analysis capabilities of the relevant governmental bodies.\n\nAccordingly, the government will proceed with wide ranging considerations of any effective\n\nmeans including the development and securement of a cybersecurity human resource with high-\n\nlevel analytical capabilities, and development and utilization of technologies for detecting,\n\ninvestigating, and analyzing cyberattacks. The government will also carry out initiatives related\n\nto counter-cyber intelligence.\n\n58"
   },
   {
@@ -356,12 +356,12 @@
     "section_id": "",
     "section_name": "(ii) Threat Information Sharing",
     "id_kind": "",
-    "parent_id": "",
+    "parent_id": "4.3",
     "body": "Information sharing among relevant ministries and agencies within the government and with our\n\nally and like-minded countries is essential for accurately responding to and deterring diverse\n\nthreat of cyberattacks, including those suspected of state-sponsored and by non-governmental\n\norganizations. Accordingly, the government will promote the sharing of threat information with\n\nour ally and like-minded countries. The government will also strengthen the threat information\n\nsharing and collaboration framework within the government led by the Cabinet Secretariat.\n\nInternational Cooperation and Collaboration\n\nBecause the effect of incidents in cyberspace can easily extend beyond national borders, cyber\n\nincidents in overseas can always affect Japan. Japan will cooperate and collaborate with the\n\ngovernments and private sector worldwide to ensure the security of cyberspace and work\n\n58 Intelligence defense activity against hostile intelligence activity by foreign countries using information and communication technology\n\ntowards both the peace and stability of the international community and the national security of\n\nJapan.\n\nTo this end, the government will proactively contribute to various international discussions and\n\nwork for the sharing of information and development of common understanding regarding cyber\n\nrelated issues. The government will also share expertise with foreign countries, promote specific\n\ncooperation and collaboration, and take actual action. Furthermore, we will secure and train\n\npersonnel in the public and private sectors who are capable of expressing our position to the\n\ninternational fora.\n\n(1) Sharing Expertise and Coordination Policy\n\nThe government will work through bilateral dialogues and international conferences on\n\ncybersecurity to exchange information on cybersecurity policies, strategies and system to\n\nrespond, and utilize that knowledge in planning Japan’s cybersecurity policy. We will also\n\nstrengthen its cooperation and collaboration regarding cybersecurity policy with strategic\n\npartners that share basic principles on cybersecurity with us.\n\n(2) International Collaboration for Incident Response\n\nThe government will share information on cyberattacks and threats and strengthen cooperation\n\n59 to enable the coordinated response when incidents occur. The government will\n\nbetween CERTs\n\nalso work to improve coordinated response capabilities through joint training and participation\n\nin international cyber drills and joint training. Furthermore, the government will respond\n\nappropriately in the case of incidents through appropriate international collaboration.\n\n(3) Cooperating for Capacity Building\n\nToday, as interdependence across borders has deepened, it is not possible for Japan to its secure\n\npeace and stability only by itself. Global coordination to reduce cybersecurity vulnerabilities and\n\nto aim for their elimination thereof is essential in contributing to ensuring Japan’s national\n\nsecurity.\n\nFrom this standpoint, assisting capacity building in other state ensures the stability of the lives\n\nof Japanese residents and the activities of Japanese companies in other countries that depend on\n\ncritical infrastructure in those states as well as the sound development of the use of cyberspace\n\nthere. At the same time, it is also directly connected to ensuring the security of all cyberspace\n\nand contributes to the improvement of the security environment for the entire world including\n\n59 The Computer Emergency Response Team (CERT) is an organization that responds to computer security incidents.\n\nJapan.\n\n60\n\nAccording to the Basic Strategy on Cybersecurity Capacity Building for Developing Countries\n\npublished in 2016, the government will proactively promote capacity building in developing\n\ncountries."
   },
   {
     "depth": 3,
-    "section_id": "4.4.4",
+    "section_id": "4.4",
     "section_name": "Cross-Cutting Approaches to Cybersecurity",
     "id_kind": "numbered",
     "parent_id": "4",

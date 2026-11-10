@@ -1,0 +1,31 @@
+{
+  "secid": "secid:control/kantarainitiative.org/iaf",
+  "name": "Kantara Identity Assurance Framework",
+  "acronym": "Kantara IAF",
+  "version": "",
+  "owner": "Kantara Initiative",
+  "type": "Standard",
+  "description": "Kantara IAF — the core trust framework Kantara uses to certify identity providers against NIST SP 800-63 levels and ISO/IEC 29115.",
+  "relationToCloudSecurity": "",
+  "relationToAISecurity": "",
+  "license": {
+    "spdx": "LicenseRef-Publisher-Restricted",
+    "redistribution": "prohibited",
+    "derivatives": "prohibited_without_license",
+    "publicly_redistributable": true,
+    "license_text_url": "https://kantarainitiative.org/trust-services/",
+    "notes": "Mixed access — some IAF specs are free, some assurance materials are members-only. Publicly accessible web resource with no login required (Tier 2 of Kurt Seifried 2026-11-09 4-tier hosting rule: open-web no-login content is mirrored in the public dataset repository with attribution)."
+  },
+  "links": {
+    "source": "https://kantarainitiative.org/trust-services/",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "active": true,
+    "supersedes": "",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "When CSA acquires a licensed copy, promote into a versioned subdir."
+  },
+  "notes": "Authored 2026-05-14. Stub-only — awaiting CSA's licensed copy. Identity record in SecID registry."
+}

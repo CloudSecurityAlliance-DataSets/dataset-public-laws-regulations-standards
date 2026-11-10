@@ -1,0 +1,542 @@
+# CyberArk Glossary
+
+Source: https://www.cyberark.com/glossary/
+
+License: LicenseRef-Vendor-Copyright (CyberArk Software Ltd.; internal CSA use only — not redistributable).
+
+Extracted: 133 terms.
+
+---
+
+## Access Certification
+
+Access Certification facilitates the review of a user’s access privileges and requires a third-party to certify that the access should continue to be granted for a designated period of time.
+
+## Access Discovery
+
+Access discovery provides administrators with a clear picture of who has access to what applications, resources or privileges across the organization.
+
+## Access Management
+
+Access management solutions are used by businesses to authenticate, authorize and audit access to on-premises and cloud-based applications and IT systems.
+
+## ACME Protocol
+
+The ACME Protocol (Automated Certificate Management Environment) automates the issuing and validating domain ownership of certificates, enabling the seamless deployment of PKI with no need for manual intervention.
+
+## Active Directory (AD)
+
+Active Directory (AD) is Microsoft’s directory and identity management service for Windows domain networks. AD is used for user authentication and authorization by a variety of Microsoft solutions like Exchange Server and SharePoint Server, as well as third-party applications and services.
+
+## Adaptive Multi-Factor Authentication (MFA)
+
+Adaptive MFA is a method for using contextual information and business rules to determine which authentication factors to apply to a particular user in a particular situation. Businesses use Adaptive Authentication to balance security requirements with the user experience.
+
+## Advanced Persistent Malware
+
+Increasingly, malware is being designed specifically to steal SSL/TLS keys and certificates for use in communications fraud and data exfiltration.
+
+## Agentic AI (and AI Agents)
+
+Agentic AI systems perform advanced functions such as independently executing decisions and automating actions, accelerating innovation and driving efficiency. With complex architectures and autonomous applications having more human-like behaviors, Agentic AI demands clear process and robust security frameworks to ensure safe adoption.
+
+## Application (App) Gateway
+
+An app gateway is an enterprise security solution that lets users access traditional web applications hosted in corporate data centers using the same logon credentials and methods they use to access mobile apps and cloud services.
+
+## Attacker Encrypted Communications
+
+Attackers use encrypted communications to bypass security, deliver malware, and steal data. Learn how to mitigate and protect against encrypted threats.
+
+## Authentication Authorization
+
+Authentication and Authorization solutions positively validate a user’s identify and grant permission to access applications and IT systems once verified.
+
+## Bot Security
+
+Bots automate and supplement human workflows helping organizations improve business agility, reduce costs and risks, and free up staff for higher value tasks.
+
+## Cert-manager
+
+cert-manager automates certificate issuance and renewal in Kubernetes, secures machine identities, reduces outages, and enables Zero Trust and DevSecOps.
+
+## Certificate Authority
+
+Certificate Authorities help verify entities and manage the lifecycle of digital certificates to ensure secure communications and prevent identity fraud.
+
+## Certificate Chain of Trust
+
+What is a certificate chain, what are the 3 key components, and how do certificate chains work? Learn all this, plus how to troubleshoot common issues!
+
+## Certificate Enrollment
+
+Certificate enrollment refers to the process by which a user requests a digital certificate to use as a machine identity on a public-facing system, application, API, container or cluster.
+
+## Certificate Management
+
+Ensure security, prevent outages, and streamline SSL management with automated certificate management. Optimize your infrastructure today!
+
+## Certificate Pinning
+
+Certificate pinning strengthens security by blocking unauthorized connections and preventing MITM attacks. Learn how it works and best practices today!
+
+## Certificate Validation
+
+Certificate validation and verification is the process a web browser performs to ensure a certificate can be trusted.
+
+## CI/CD Pipeline
+
+A CI/CD pipeline is a collection of tools used by developers and test engineers throughout the continuous software development, delivery and deployment lifecycle.
+
+## CISA Secure Software Development Attestation Form (SSDA)
+
+The Secure Software Development Attestation Form is a requirement introduced by the Cybersecurity and Infrastructure Security Agency with OMB collaboration.
+
+## Cloud IAM Permissions
+
+Cloud identity and access management (IAM) permissions let IT and security organizations control access to the resources in their cloud environments.
+
+## Cloud Identity Security
+
+Cloud identity security is the practice of implementing identity security controls to secure human and machine identities in hybrid and multi-cloud environments. Cloud migration and digital transformation have become commonplace for many modern enterprises
+
+## Cloud Infrastructure Entitlements Management (CIEM)
+
+Sometimes referred to as Cloud Entitlements Management solutions or Cloud Permissions Management solutions, CIEM solutions apply the Principle of Least Privilege access to cloud infrastructure and services, helping organizations defend against data breaches, malicious attacks and other risks posed by excessive cloud permissions.
+
+## Cloud Workload Security
+
+Cloud workload security refers to the practice of protecting applications, services, capabilities run on a cloud resource. Virtual machines, databases, containers and applications are all considered cloud workloads.
+
+## Code Signing
+
+Discover what is code signing, how code signing works, and how machine identity security protects your code signing credentials from cybercriminals.
+
+## Containers
+
+From physical servers to virtualization and now containers, see how application deployment has evolved for better efficiency, scalability, and portability.
+
+## Customer Identity and Access Management (CIAM)
+
+CIAM solutions control access to public websites and digital properties, making it easy for customers to sign up and log on to online applications and services.
+
+## Cyber Insurance
+
+Businesses purchase cyber insurance (also known as cybersecurity insurance) to mitigate financial loss due to cyber attacks and data breaches.
+
+## Data Breach
+
+A data breach is a security incident in which malicious insiders or external attackers gain unauthorized access to confidential data or sensitive information such as medical records, financial information or personally identifiable information (PII). Data breaches are one of the most common and most costly types of cybersecurity incidents.
+
+## Data Sovereignty
+
+Data sovereignty is the ability of enterprises to safeguard and have full control over the personally identifiable information (PII) of any citizen or permanent resident of the country in which it operates.
+
+## Defense-in-Depth
+
+A defense-in-depth strategy, aka a security-in-depth strategy, refers to a cybersecurity approach that uses multiple layers of security for holistic protection.
+
+## DevOps Security
+
+DevOps Security is the practice of securing modular, containerized applications that are built by agile development teams that use DevOps methodologies, practices and approaches.
+
+## DevOps with AWS vs. Azure
+
+Is AWS or Azure the best DevOps cloud solution for you? Compare pipelines as code, code building tools, and Azure vs. AWS code deploy to find out!
+
+## Digital Certificates
+
+Discover the types, uses, and validity of digital certificates. Understand their role in authentication, security, and software trust across desktop and mobile.
+
+## Digital Signature Algorithm (DSA)
+
+The Digital Signature Algorithm is a Federal Information Processing Standard for digital signatures. It facilitates the authentication of digital messages or documents by ensuring that signatures are valid and unaltered.
+
+## Digital Transformation
+
+Digital transformation refers to the process of integrating digital technology into various aspects of an organization to fundamentally change how it operates and delivers value to its customers or stakeholders.
+
+## Directory Services
+
+A directory service is a common data repository for maintaining information about network users and resources as part of their Identity Security strategy.
+
+## DNS Traffic Blocking
+
+DNS traffic blocking is a network management process that prevents access to specific websites or internet services based on their domain names.
+
+## DORA Act
+
+The Digital Operational Resilience Act (DORA) Act, is a regulatory framework established by the European Union to fortify the financial sector against ICT threats.
+
+## Downgrade Attacks
+
+A TLS downgrade attack tricks the client and server into using older protocols or insecure parameters for encrypting the information in transit.
+
+## Endpoint Security
+
+Endpoint security refers to the practice of protecting enterprise networks against threats originating from on-premises or remote devices. An endpoint is any device that provides an entry point to corporate assets and applications and represents a potential cybersecurity vulnerability.
+
+## Enterprise Browser
+
+An enterprise browser is a dedicated, corporate web browser designed to give enterprises enhanced security and control over how the browser functions while ensuring a seamless browsing experience for employees
+
+## FedRAMP Authorization
+
+Federal Risk and Authorization Management Program (FedRAMP) is a United States government-wide program that standardizes the security assessment, authorization and continuous monitoring of cloud products and services.
+
+## FIDO2
+
+FIDO2 is an open authentication standard developed by the FIDO Alliance, an organization with the mission to develop open, scalable authentication standards.
+
+## Field-Level Encryption
+
+Field Level Encryption (FLE) allows a developer to selectively encrypt individual fields of a document on the client-side before it is sent to the server—keeping the encrypted data private from the providers hosting or anyone accessing the database.
+
+## Healthcare Cybersecurity
+
+Healthcare cybersecurity protects organizations from cyber attacks and ensures availability of medical services, integrity of patient data, and compliance.
+
+## Homomorphic Encryption
+
+Learn how homomorphic encryption enables computations on encrypted data, preserving privacy while allowing secure data analysis in cloud storage.
+
+## Identity and Access Management (IAM)
+
+Identity and Access Management (IAM) solutions enable administration of user identities and control of access to enterprise resources. IAM solutions ensure the right individuals have access to the right IT resources, for the right reasons, at the right time.
+
+## Identity as a Service (IDaaS)
+
+Identity as a Service (IDaaS) is an Identity and Access Management solution delivered in the form of a cloud-based service hosted and managed by a trusted third party. An IDaaS offering combines all the functions and benefits of an enterprise-class IAM solution with all the economic and operational advantages of a cloud-based service.
+
+## Identity Governance and Administration (IGA)
+
+Identity Governance and Administration (IGA) solutions efficiently manage digital identities and access rights across diverse systems and are used by corporate information security, risk management, compliance teams and IT organizations.
+
+## Identity Lifecycle Management
+
+Identity lifecycle management refers to the process of managing the user identities and evolving access privileges of employees and contractors throughout their tenure—from day one through separation.
+
+## Identity Orchestration
+
+Learn everything you need to know identity orchestration and how it automates identity management workflows without writing custom codes or scripts.
+
+## Identity Security
+
+Identity Security is a comprehensive solution for securing all identities– human or machine – throughout the cycle of accessing critical assets.
+
+## Identity Threat Detection and Response (ITDR)
+
+Identity Threat Detection and Response (ITDR) is a security discipline consisting of cyber threat intelligence, behavior analysis, tools and structured processes to enhance identity infrastructure security and accelerate the remediation of identity-centric attacks.
+
+## Intelligent Privilege Controls
+
+Intelligent privilege controls are security measures designed to manage access to enterprise resources based on real-time risk assessments and contextual factors.
+
+## IRAP assessment
+
+The Information Security Registered Assessors Program (IRAP) is a key initiative by the Australian Cyber Security Centre (ACSC), operated under the Australian Signals Directorate (ASD). It is designed to provide a standardized framework for assessing the security posture of cloud and information and communications technology (ICT) systems, ensuring they meet the stringent requirements outlined in the Australian Government’s security standards.
+
+## ISO
+
+ISO stands for the International Organization for Standardization that sets standards for quality, safety, efficiency and interoperability across industries.
+
+## Just-In-Time Access
+
+Using the just-in-time (JIT) access methodology, organizations can elevate human and non-human users in real-time to provide elevated and granular privileged access to an application or system in order to perform a necessary task. Cybersecurity industry analysts recommend JIT access as a way of provisioning secure privileged access by minimizing standing access.
+
+## Kubernetes
+
+Kubernetes, also known as K8s, is a popular open-source container orchestration platform designed for cloud portability across hybrid and multi-cloud infrastructure.
+
+## Least Privilege
+
+The principle of least privilege (PoLP) refers to an information security concept in which a user is given the minimum levels of access – or permissions – needed to perform his/her job functions. The principle of least privilege is widely considered to be a cybersecurity best practice and is a fundamental step in protecting privileged access to high-value data and assets.
+
+## Machine Identity
+
+Machine identities secure trust and confidentiality with digital certificates, just as people do with usernames and passwords. Read on to learn more!
+
+## Machine Identity Security
+
+Machine identity security safeguards digital trust by protecting machine identities, preventing breaches, securing cloud growth, and ensuring compliance.
+
+## Malware Attacks
+
+Malware attacks are any type of malicious software designed to cause harm or damage to a computer, server, client or computer network and/or infrastructure without end-user knowledge. Cyber attackers create, use and sell malware for many different reasons, but it is most frequently used to steal personal, financial or business information.
+
+## Man-in-the-Middle Attacks (MITM)
+
+Successful MITM attacks gain the trust of communicating parties by impersonating a trusted website and eavesdropping on secure conversations.
+
+## MITRE ATT&CK Framework
+
+Mitre Att&ck is an open framework for implementing cybersecurity detection and response programs that includes a global knowledge base of adversarial TTPs.
+
+## Modern Identity Governance and Administration (IGA)
+
+Identity Governance and Administration (IGA) is the process of managing and controlling who has access to what information in an organization. It ensures that only the right people have access to the right resources at the right times for the right reasons. This in turn helps organizations comply with standards and regulatory frameworks, and it helps improve cyber security posture.
+
+## Multi Domain SSL Certificates
+
+Secure multiple domains with a single Multi Domain SSL certificate. Reduce costs, streamline management, and enhance security for all your web properties.
+
+## Multi-cloud
+
+Multi-cloud leverages two or more cloud services from more than one cloud provider. In the enterprise, multi-cloud typically refers to running enterprise applications on platform-as-a-service (PaaS) or infrastructure-as-a-service (IaaS) from multiple cloud service providers, such as Amazon Web Services (AWS), Google Cloud Platform (GCP), IBM cloud and Microsoft Azure.
+
+## Multi-Factor Authentication (MFA)
+
+Multi-Factor Authentication is a method for using contextual information and business rules to determine which authentication factors to apply to a particular user in a particular situation. Businesses use MFA to balance security requirements with the user experience.
+
+## NIS2 Directive
+
+The NIS2 (Network and Information Security) Directive is a regulatory framework established by the European Union(EU) to enhance the cybersecurity of critical infrastructure and digital service providers.
+
+## NIST CSF 2.0
+
+NIST CSF 2.0 is a new version of the original National Institute of Standards and Technology Cybersecurity Framework, help to manage and mitigate cybersecurity risks.
+
+## NIST SP 800-207
+
+NIST SP 800-207 is a guidance published by the National Institute of Standards and Technology. A part of NIST SP 800 series for information security and cybersecurity.
+
+## Non-Human Identity
+
+Non-human Identities are digital entities used to identify, authenticate and authorize machines, devices, and IT infrastructure that is not associated with a human.
+
+## Operational Technology (OT) Cybersecurity
+
+Operational Technology (OT) cybersecurity is a key component of protecting the uptime, security and safety of industrial environments and critical infrastructure.
+
+## Outages
+
+See how CyberArk prevents devastating website outages, often caused by improperly managed machine identities and expired certificates, with automation!
+
+## Passwordless Authentication
+
+Passwordless Authentication is an authentication method that allows a user to gain access to an application or IT system without entering a password or answering security questions.
+
+## PCI-DSS
+
+The Payment Card Industry Data Security Standard (PCI DSS) is a widely accepted set of security practices to protect cardholder data and prevent credit card fraud.
+
+## Phishing Attack
+
+A phishing attack is a social engineering tactic commonly used to steal confidential data or deliver ransomware or some other form of malware.
+
+## Phishing Scams
+
+In phishing, malicious actors trick people into going to a website and entering private information into a form. They might impersonate a major company, like a bank or PayPal.
+
+## PKI
+
+PKI, or public key infrastructure, is the framework of encryption and cybersecurity. PKI secures client-server communications. How? Let's find out!
+
+## PKI Mistakes
+
+Your guide to the most common PKI management mistakes, and how your team can strategically avoid them to keep client-server communications secure.
+
+## Post Quantum Cryptography
+
+Post-quantum cryptography (PQC), also referred to as quantum-resistant cryptography, represents an evolution in securing digital communications and data against the immense computational power of quantum computers.
+
+## Privileged Access Management (PAM)
+
+Privilege access management (PAM) refers to a comprehensive cybersecurity strategy – comprising people, processes and technology – to control, monitor, secure and audit all human and non-human privileged identities and activities across an enterprise IT environment. Organizations implement privilege access management to protect against the threats posed by credential theft and privilege misuse.
+
+## Privileged Entitlements Management (PEM)
+
+Privileged entitlements management is the practice of securely managing high-risk entitlements (also known as permissions, access rights or privileges) to access sensitive data, resources and services.
+
+## Ransomware
+
+Ransomware is one of the most pervasive, impactful, and costly forms of cyber threats. Once deployed, it exfiltrates sensitive data allowing the attacker to threaten public disclosure, and prevents victims from interacting with their files, applications or systems until a ransom is paid.
+
+## Remote Access Security
+
+Remote access security solutions authenticate users who are accessing business applications and IT systems from outside the private enterprise network.
+
+## Remote Work Security
+
+Remote work security safely extends business applications and services to teleworkers and nomadic users without impairing user experience or satisfaction.
+
+## Robotic Process Automation (RPA)
+
+Robotic process automation (RPA) is an automation technology that helps organizations to partially or fully automate standardized tasks. Robotic process automation software robots, or “bots” can mimic the actions of humans to perform work.
+
+## Root Certificates
+
+Understand how root certificates establish trust in code signing. Explore their role in verifying authenticity through a chain of trust to prevent fraud.
+
+## RSA Encryption
+
+RSA encryption secures machine identities and prevents cyber threats with asymmetric cryptography. Strengthen your security strategy with the right tools today!
+
+## SaaS
+
+Software-as-a-Service (SaaS) is a software licensing and distribution model in which a service provider hosts applications and makes them available to customers over the Internet. Also referred to as “on-demand software,” “hosted software,” and “web-based software,” SaaS is one of three main components of cloud computing—which is one of the foundational elements of digital transformation.
+
+## SASE (Secure Access Service Edge)
+
+SASE merges security and networking into a cloud-based framework for seamless, secure access. See how it strengthens your organization’s security today!
+
+## SCP Protocol
+
+Learn how SCP protocol securely transfers files over SSH, combining encryption and authentication to protect data in transit while the preserving file.
+
+## Secrets Management
+
+Secrets management allows organizations to consistently enforce security policies for non-human identities. Secrets management provides assurance that resources across tool stacks, platforms and cloud environments can only be accessed by authenticated and authorized entities.
+
+## Security Assertion Markup Language (SAML)
+
+Security Assertion Markup Language (SAML) provides a standard way for businesses and application providers to share user authentication and authorization data and federate identity management functionality.
+
+## Security Framework
+
+A security framework is a set of documented standards, policies, procedures, and best practices intended to enhance an organization’s security and reduce risk.
+
+## Security Operations (SecOps)
+
+Security Operations (SecOps) is the practice of combining internal information security and IT operations practices to improve collaboration and reduce risks.
+
+## Security Standards and Compliance
+
+Strengthen key and certificate security with frameworks, audits, and best practices to prevent risks and ensure compliance. Enhance your security strategy now!
+
+## Self-Signed Certificates
+
+Self-signed certificates offer flexibility, but they come with security and trust risks. See how to manage them effectively and strengthen your security!
+
+## Session Hijacking
+
+Session hijacking lets attackers steal active sessions to impersonate users and access sensitive data. Learn key attack methods and how to stay safe!
+
+## Single Sign-On (SSO)
+
+Single Sign-On (SSO) is an authentication method that lets users access multiple applications and services using a single set of login credentials. SSO can help businesses improve user satisfaction and productivity, strengthen access security, and reduce IT operations expense and complexity.
+
+## SOC 2
+
+SOC 2 is a security compliance framework developed by the American Institute of Certified Public Accountants (AICPA) to securely manage customer data within the cloud.
+
+## Social Engineering
+
+Social engineering is a manipulation technique aimed at tricking individuals into revealing sensitive information
+
+## SPIFFE
+
+Learn how SPIFFE standardizes secure workload identity in dynamic environments, enables zero-trust authentication and solves the "bottom turtle" problem.
+
+## SSH (Secure Shell)
+
+SSH (Secure Shell) encrypts remote access, secures file transfers, and protects network infrastructure. Explore how SSH keys strengthen authentication.
+
+## SSL Certificate
+
+An SSL Certificate encrypts data, ensures authentication, and boosts trust. See how it protects websites, prevents attacks, and enhances cybersecurity.
+
+## SSL Cipher Suite
+
+Explore how cipher suites secure network traffic with SSL/TLS, their key components, vulnerabilities, and best practices to enhance your organization's security.
+
+## SSL Stripping Attacks
+
+SSL stripping attacks downgrade HTTPS to HTTP, exposing user data to interception. Learn how cybercriminals exploit this and how to protect against it.
+
+## Strict SSL
+
+Strict SSL enhances security by validating server authenticity and protecting against man-in-the-middle attacks, ensuring safe connections with valid certificates.
+
+## SWIFT Compliance
+
+The Society of Worldwide Interbank Financial Telecommunication (SWIFT) is a cooperative founded in 1973 by members of the financial community with proprietary network.
+
+## Symmetric vs. Asymmetric Encryption
+
+Symmetric encryption uses a single secret key, while asymmetric encryption relies on a public-private key pair for secure communication. See how this impacts security!
+
+## Synthetic Identity
+
+Synthetic identity refers to a counterfeit identity formed by combining a mix of genuine and false information, blurring the line between physical and digital characteristics that identify a human being.
+
+## TEA (Time, Entitlements and Approvals)
+
+TEA is a security concept that enhances access control by managing when, how much, and under what conditions users or systems can access resources.
+
+## Temporary Elevated Access Management
+
+Temporary elevated access management (TEAM) access methodology helps organizations elevate privileges for human and non-human users in real time to provide granular access to an application or system in order to perform a necessary task.
+
+## Third-Party Access
+
+Third-party access is the process of granting external vendors and service providers secure access to IT assets for maintenance, administration and management.
+
+## TLS Certificate Lifecycle
+
+Learn all about certificate lifecycle management, why it matters, the 6 stages of the TLS certificate lifecycle, and the impact automation will have!
+
+## TLS Certificate Renewal
+
+Expired certificates can be dangerous for your network. Learn why they expire so easily without automation and the steps you can take if this happens.
+
+## TLS Certificate Risks
+
+Outdated protocols, weak ciphers, and expired certificates can expose TLS to attacks. See how to mitigate these risks and strengthen your cybersecurity!
+
+## TLS Certificates
+
+TLS certificates authenticate websites and encrypt data to ensure secure connections. Learn how they protect online interactions to enhance security!
+
+## TLS Decryption
+
+See how TLS decryption enhances security visibility, threat detection, and compliance while mitigating risks. Learn methods, best practices, and more!
+
+## TLS Handshake
+
+Understand the TLS handshake process, common connection errors, and how to solve them. Learn how to prevent outages with better certificate management!
+
+## TLS/SSL Offloading
+
+TLS/SSL offloading reduces connection latency, improving page loading speeds and user experience as well as introducing additional security checks for malware.
+
+## TLS/SSL Port
+
+Understand how TLS/SSL ports secure data, their key roles in network communication, and why HTTPS is essential for security and compliance. Upgrade your defenses now!
+
+## Trust Stores
+
+A trust store is a collection of root certificates that are trusted by default and are maintained by the companies that make operating systems and web browsers.
+
+## User Behavior Analytics
+
+User behavior analytics use AI and machine learning to analyze large datasets to identify security breaches, data exfiltration and other malicious activities.
+
+## Virtual Directory
+
+A virtual directory is an Identity and Access Management architectural component that gives identity consumers a consolidated and unified view of identity management information stored in multiple disparate data repositories.
+
+## What is the Model Context Protocol (MCP)?
+
+Learn how the Model Context Protocol (MCP) helps AI agents access tools, data, and services to perform real-time tasks and deliver intelligent results.
+
+## Wildcard Certificates
+
+Wildcard certificates simplify management, but pose major risks if not properly secured. Learn about the benefits and dangers before implementing.
+
+## Workload Identity
+
+Workload identity enhances Kubernetes security, automates authentication, and strengthens zero trust compliance. Explore best practices now!
+
+## X.509 Certificates
+
+An X.509 certificate is a type of TLS/SSL certificate which uses the X.509 standard and contains a public key and the identity of a hostname, organization or individual.
+
+## Zero Standing Privileges
+
+Zero Standing Privileges (ZSP) is an identity security principle that advocates for the removal of all persistent privileges for users within an enterprise’s estate. Practically, Zero Standing Privileges is a progression from the concept of just-in-time access.
+
+## Zero Trust
+
+Zero Trust is a strategic cybersecurity model designed to protect modern digital business environments. Zero Trust is centered on the belief that organizations should not automatically trust anything, whether it’s outside or inside its network perimeter. Zero Trust models demand that anyone and everything trying to connect to an organization’s systems must first be verified before access is granted.
+

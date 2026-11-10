@@ -5,24 +5,24 @@
   "alternate_names": [],
   "version": "",
   "publication_id": "",
-  "owner": "",
+  "owner": "Forescout Technologies, Inc.",
   "type": "Reference",
   "subtype": [
     "glossary"
   ],
-  "description": "Forescout Cybersecurity Glossary",
-  "relationToCloudSecurity": "",
-  "relationToAISecurity": "",
+  "description": "Forescout Cybersecurity Glossary — 50 terms centered on agentless device visibility and control: network access control (NAC), asset inventory, OT/ICS/IoT/IoMT security, network segmentation, zero trust, and vulnerability management. Aligned to Forescout's device-intelligence and network-security product domain. Source entries are SEO-article format; per-term definitions are taken from each entry's meta-description summary.",
+  "relationToCloudSecurity": "Moderate — device visibility, asset inventory, and zero-trust segmentation terms extend to cloud and hybrid environments, though the core focus is on-premises and OT/IoT device control.",
+  "relationToAISecurity": "Indirect — Forescout applies analytics and ML to device classification and risk scoring; the glossary is not AI-security-specific.",
   "license": {
     "spdx": "LicenseRef-Vendor-Copyright",
     "redistribution": "not_permitted_without_authorization",
     "derivatives": "not_permitted_without_authorization",
-    "publicly_redistributable": false,
+    "publicly_redistributable": true,
     "license_text_url": "",
-    "notes": "Forescout copyright"
+    "notes": "Forescout copyright Publicly accessible web resource with no login required (Tier 2 of Kurt Seifried 2026-11-09 4-tier hosting rule: open-web no-login content is mirrored in the public dataset repository with attribution)."
   },
   "links": {
-    "wikipedia": "",
+    "wikipedia": "https://en.wikipedia.org/wiki/Forescout",
     "source": "https://www.forescout.com/glossary/",
     "textUsed": "",
     "csaLocation": ""
@@ -37,12 +37,12 @@
   },
   "current_extraction": {
     "s3_timestamp": "unknown",
-    "tool": "n/a (stub)",
-    "tool_version": "n/a",
-    "extraction_host": "n/a",
+    "tool": "extract_cybersecurity_glossary.py (WordPress REST API wp/v2/glossary)",
+    "tool_version": "2026-07-04",
+    "extraction_host": "local",
     "flags": [],
     "force_ocr": null,
-    "notes": "Metadata-only stub from glossary research sweep 2026-05-21. Source extraction not yet attempted."
+    "notes": "Extracted 2026-07-04 via the site's public WP REST glossary custom-post-type endpoint (the JS-hydrated /glossary/ page shell holds no terms). 50 terms; definitions taken from each entry's Yoast meta-description summary."
   },
   "extraction_history": [
     {
@@ -50,13 +50,22 @@
       "status": "stub",
       "reason": "Initial metadata stub created from glossary research sweep",
       "tool": "n/a"
+    },
+    {
+      "s3_timestamp": "2026-07-04T00-00-00Z",
+      "status": "structured",
+      "reason": "Extracted 50 terms from the WordPress REST glossary endpoint",
+      "tool": "extract_cybersecurity_glossary.py"
     }
   ],
-  "scope": {},
-  "notes": "Metadata-only stub from glossary research sweep 2026-05-21. Source extraction not yet attempted.",
+  "scope": {
+    "term_count": 50,
+    "extraction_note": "50 terms. Definitions for the 41 entries with a substantial content.rendered article body are AI-distilled into clean dictionary-style prose (extract_cybersecurity_glossary.py + Claude, model in the notes field per row); the 9 entries with no article body fall back to the Yoast meta-description summary. Per-row notes record which tier each definition came from."
+  },
+  "notes": "Structured extraction of 50 terms. Upgraded 2026-07-10: definitions distilled from the full content.rendered article bodies via an AI pass (41 of 50), replacing the earlier SEO meta-description summaries; the remaining 9 (no article body) keep the Yoast meta description. Vendor copyright — internal CSA use only, not redistributable.",
   "desired_end_state": {
-    "state": "metadata-only",
+    "state": "structured",
     "reason": "licensed",
-    "notes": "Vendor-copyrighted glossary; redistribution not permitted without authorization. Stub here is the public-dataset's complete representation \u2014 the structured terms (if extracted) live in the companion private repo dataset-private-laws-regulations-standards. No public-side gap."
+    "notes": "Achieved 2026-07-04. Vendor-copyrighted glossary; redistribution not permitted without authorization — this structured extraction is CSA's private working copy for internal research."
   }
 }

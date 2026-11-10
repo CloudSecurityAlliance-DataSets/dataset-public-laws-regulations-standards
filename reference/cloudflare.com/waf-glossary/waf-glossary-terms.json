@@ -1,0 +1,98 @@
+[
+  {
+    "term": "allowlist",
+    "definition": "An allowlist is a list of items (usually websites, IP addresses, email addresses, etc.) that are permitted to access a system.",
+    "source_anchor": "https://developers.cloudflare.com/waf/glossary/#allowlist",
+    "notes": ""
+  },
+  {
+    "term": "attack score",
+    "definition": "A number from 1 (likely malicious) to 99 (likely clean) classifying how likely an incoming request is malicious or not. Allows you to detect new attack techniques before they are publicly known.",
+    "source_anchor": "https://developers.cloudflare.com/waf/glossary/#attack-score",
+    "notes": ""
+  },
+  {
+    "term": "blocklist",
+    "definition": "A blocklist is a list of items (usually websites, IP addresses, email addresses, etc.) that are prevented from accessing a system.",
+    "source_anchor": "https://developers.cloudflare.com/waf/glossary/#blocklist",
+    "notes": ""
+  },
+  {
+    "term": "content object",
+    "definition": "A content object is any binary part of a request body (as detected by Cloudflare systems) that does not match any of the following content types: text/html, text/x-shellscript, application/json, text/csv, or text/xml.",
+    "source_anchor": "https://developers.cloudflare.com/waf/glossary/#content-object",
+    "notes": ""
+  },
+  {
+    "term": "credential stuffing",
+    "definition": "Credential stuffing is the automated injection of stolen username and password pairs (known as \"credentials\") into website login forms, trying to gain access to user accounts.",
+    "source_anchor": "https://developers.cloudflare.com/waf/glossary/#credential-stuffing",
+    "notes": ""
+  },
+  {
+    "term": "firewall",
+    "definition": "A firewall is a security system that monitors and controls network traffic based on a set of security rules.",
+    "source_anchor": "https://developers.cloudflare.com/waf/glossary/#firewall",
+    "notes": ""
+  },
+  {
+    "term": "leaked credentials",
+    "definition": "Leaked credentials refers to sensitive authentication information disclosed in some way (for example, due to misconfigurations, data breaches, or simple human error), allowing other parties to gain access to digital resources. Credentials may include usernames, passwords, API keys, authentication tokens, or private keys.",
+    "source_anchor": "https://developers.cloudflare.com/waf/glossary/#leaked-credentials",
+    "notes": ""
+  },
+  {
+    "term": "LLM",
+    "definition": "A machine learning model that can comprehend and generate human language text. It works by analyzing massive data sets of language.",
+    "source_anchor": "https://developers.cloudflare.com/waf/glossary/#llm",
+    "notes": ""
+  },
+  {
+    "term": "mitigated request",
+    "definition": "A request to which Cloudflare applied a terminating action such as block or challenge.",
+    "source_anchor": "https://developers.cloudflare.com/waf/glossary/#mitigated-request",
+    "notes": ""
+  },
+  {
+    "term": "paranoia level",
+    "definition": "Classifies rules of the OWASP managed ruleset according to their aggressiveness.",
+    "source_anchor": "https://developers.cloudflare.com/waf/glossary/#paranoia-level",
+    "notes": ""
+  },
+  {
+    "term": "prompt injection",
+    "definition": "The process of overwriting the system prompt for a large language model (LLM), which instructs the LLM on how to respond to user input.",
+    "source_anchor": "https://developers.cloudflare.com/waf/glossary/#prompt-injection",
+    "notes": ""
+  },
+  {
+    "term": "rate limiting",
+    "definition": "Rate limiting is a technique used in computer systems to control the rate at which requests are processed. It can be used as a security measure to prevent attacks, or to limit resource usage in your origin servers.",
+    "source_anchor": "https://developers.cloudflare.com/waf/glossary/#rate-limiting",
+    "notes": ""
+  },
+  {
+    "term": "rule characteristics",
+    "definition": "The set of parameters of a rate limiting rule that define how Cloudflare tracks the rate for the rule.",
+    "source_anchor": "https://developers.cloudflare.com/waf/glossary/#rule-characteristics",
+    "notes": ""
+  },
+  {
+    "term": "SIEM",
+    "definition": "A Security Information and Event Management (SIEM) solution collects, analyzes, and correlates data to help manage security incidents, detect anomalies, and meet compliance requirements.",
+    "source_anchor": "https://developers.cloudflare.com/waf/glossary/#siem",
+    "notes": ""
+  },
+  {
+    "term": "threat score",
+    "definition": "The threat score was a score from 0 (zero risk) to 100 (high risk) classifying the IP reputation of a visitor. Currently, the threat score is always 0 (zero).",
+    "source_anchor": "https://developers.cloudflare.com/waf/glossary/#threat-score",
+    "notes": ""
+  },
+  {
+    "term": "zero-shot classification model",
+    "definition": "A pretrained machine learning model capable of categorizing data (text or images) into classes it has never seen during training.",
+    "source_anchor": "https://developers.cloudflare.com/waf/glossary/#zero-shot-classification-model",
+    "notes": ""
+  }
+]

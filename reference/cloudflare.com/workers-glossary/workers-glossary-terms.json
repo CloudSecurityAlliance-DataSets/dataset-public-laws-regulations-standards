@@ -1,0 +1,182 @@
+[
+  {
+    "term": "Auxiliary Worker",
+    "definition": "A Worker created locally via the Workers Vitest integration that runs in a separate isolate to the test runner, with a different global scope.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/workers/glossary/#auxiliary-worker"
+  },
+  {
+    "term": "binding",
+    "definition": "Bindings allow your Workers to interact with resources on the Cloudflare Developer Platform.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/workers/glossary/#binding"
+  },
+  {
+    "term": "C3",
+    "definition": "C3 is a command-line tool designed to help you set up and deploy new applications to Cloudflare.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/workers/glossary/#c3"
+  },
+  {
+    "term": "CPU time",
+    "definition": "CPU time is the amount of time the central processing unit (CPU) actually spends doing work, during a given request.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/workers/glossary/#cpu-time"
+  },
+  {
+    "term": "Cron Triggers",
+    "definition": "Cron Triggers allow users to map a cron expression to a Worker using a scheduled() handler that enables Workers to be executed on a schedule.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/workers/glossary/#cron-triggers"
+  },
+  {
+    "term": "D1",
+    "definition": "D1 is Cloudflare's native serverless database.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/workers/glossary/#d1"
+  },
+  {
+    "term": "deployment",
+    "definition": "Deployments track the version(s) of your Worker that are actively serving traffic.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/workers/glossary/#deployment"
+  },
+  {
+    "term": "Durable Objects",
+    "definition": "Durable Objects is a globally distributed coordination API with strongly consistent storage.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/workers/glossary/#durable-objects"
+  },
+  {
+    "term": "duration",
+    "definition": "Duration is a measurement of wall-clock time — the total amount of time from the start to end of an invocation of a Worker.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/workers/glossary/#duration"
+  },
+  {
+    "term": "environment",
+    "definition": "Environments allow you to deploy the same Worker application with different configuration for each environment. Only available for use with a Wrangler configuration file.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/workers/glossary/#environment"
+  },
+  {
+    "term": "environment variable",
+    "definition": "Environment variables are a type of binding that allow you to attach text strings or JSON values to your Worker.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/workers/glossary/#environment-variable"
+  },
+  {
+    "term": "handler",
+    "definition": "Handlers are methods on Workers that can receive and process external inputs, and can be invoked from outside your Worker.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/workers/glossary/#handler"
+  },
+  {
+    "term": "isolate",
+    "definition": "Isolates are lightweight contexts that provide your code with variables it can access and a safe environment to be executed within.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/workers/glossary/#isolate"
+  },
+  {
+    "term": "KV",
+    "definition": "Workers KV is Cloudflare's key-value data storage.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/workers/glossary/#kv"
+  },
+  {
+    "term": "module Worker",
+    "definition": "Refers to a Worker written in module syntax.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/workers/glossary/#module-worker"
+  },
+  {
+    "term": "origin",
+    "definition": "Origin generally refers to the web server behind Cloudflare where your application is hosted.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/workers/glossary/#origin"
+  },
+  {
+    "term": "Pages",
+    "definition": "Cloudflare Pages is Cloudflare's product offering for building and deploying full-stack applications.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/workers/glossary/#pages"
+  },
+  {
+    "term": "Queues",
+    "definition": "Queues integrates with Cloudflare Workers and enables you to build applications that can guarantee delivery.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/workers/glossary/#queues"
+  },
+  {
+    "term": "R2",
+    "definition": "R2 is an S3-compatible distributed object storage designed to eliminate the obstacles of sharing data across clouds.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/workers/glossary/#r2"
+  },
+  {
+    "term": "rollback",
+    "definition": "Rollbacks are a way to deploy an older deployment to the Cloudflare global network.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/workers/glossary/#rollback"
+  },
+  {
+    "term": "secret",
+    "definition": "Secrets are a type of binding that allow you to attach encrypted text values to your Worker.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/workers/glossary/#secret"
+  },
+  {
+    "term": "service Worker",
+    "definition": "Refers to a Worker written in service worker syntax.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/workers/glossary/#service-worker"
+  },
+  {
+    "term": "subrequest",
+    "definition": "A subrequest is any request that a Worker makes to either Internet resources using the Fetch API or requests to other Cloudflare services like R2, KV, or D1.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/workers/glossary/#subrequest"
+  },
+  {
+    "term": "Tail Worker",
+    "definition": "A Tail Worker receives information about the execution of other Workers (known as producer Workers), such as HTTP statuses, data passed to console.log() or uncaught exceptions.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/workers/glossary/#tail-worker"
+  },
+  {
+    "term": "V8",
+    "definition": "Chrome V8 is a JavaScript engine, which means that it executes JavaScript code.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/workers/glossary/#v8"
+  },
+  {
+    "term": "version",
+    "definition": "A version is defined by the state of code as well as the state of configuration in a Worker's Wrangler file.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/workers/glossary/#version"
+  },
+  {
+    "term": "wall-clock time",
+    "definition": "Wall-clock time is the total amount of time from the start to end of an invocation of a Worker.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/workers/glossary/#wall-clock-time"
+  },
+  {
+    "term": "workerd",
+    "definition": "workerd is a JavaScript / Wasm server runtime based on the same code that powers Cloudflare Workers.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/workers/glossary/#workerd"
+  },
+  {
+    "term": "Wrangler",
+    "definition": "Wrangler is the Cloudflare Developer Platform command-line interface (CLI) that allows you to manage projects, such as Workers, created from the Cloudflare Developer Platform product offering.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/workers/glossary/#wrangler"
+  },
+  {
+    "term": "wrangler.toml / wrangler.json / wrangler.jsonc",
+    "definition": "The configuration used to customize the development and deployment setup for a Worker or a Pages Function.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/workers/glossary/#wrangler-toml-wrangler-json-wrangler-jsonc"
+  }
+]

@@ -1,0 +1,956 @@
+[
+  {
+    "term": "3-2-1 Backup Rule",
+    "definition": "Explore the 3-2-1 backup rule, its benefits for data protection, and the challenges of implementing this robust backup strategy effectively.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/3-2-1-backup-rule",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Account Takeover",
+    "definition": "Account takeover is a form of identity theft and fraud where a malicious third party successfully gains access to a user’s account credentials.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/account-takeover",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Adaptive Session Balancing",
+    "definition": "Discover the power of Adaptive Session Balancing in dynamically distributing session traffic and optimizing network performance.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/adaptive-session-balancing",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "AI in Cybersecurity",
+    "definition": "Discover how AI revolutionizes cybersecurity, offering advanced threat detection and automated responses.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/ai-cybersecurity",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "API security",
+    "definition": "Discover the benefits of API security and how it protects your systems and data.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/api-security",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "APN Security Competency",
+    "definition": "Learn what the AWS APN Security Competency is and how it validates skills in areas like incident response, security automation, and secure architecture design.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/apn-security-competency",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Application security",
+    "definition": "Discover the essentials of application security, its importance in cybersecurity and how to protect your business from evolving threats. Learn more now.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/application-security",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "AWS Firewalls",
+    "definition": "AWS firewalls provide a managed, cloud-based network security defense layer to protect Amazon Web Service resources.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/aws-firewall",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "AWS security",
+    "definition": "Learn about AWS Security and how it helps manage and reduce security risk to protect your networks and data.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/aws-security",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "AWS Shared Security Model",
+    "definition": "Learn about the shared responsibility between AWS and the customer in ensuring security and compliance.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/aws-shared-security-model",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Azure Firewalls",
+    "definition": "Learn about Azure Firewall, a cloud-based network security service, and how it's used to protect your network resources.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/azure-firewall",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Azure Security",
+    "definition": "Learn about Microsoft Azure and how it can strengthen your security posture.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/azure-security",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Bare Metal Disaster Recovery",
+    "definition": "Restore your system with bare-metal recovery - a reliable and efficient solution for disaster recovery.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/bare-metal-disaster-recovery",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Best email security companies to consider in 2026",
+    "definition": "Learn which email security companies are considered the top choice for organizations in 2026, and what specialized capabilities each provides.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/best-email-security-companies",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Botnet",
+    "definition": "Discover the workings of botnets and their potential cyber threats. Explore how botnets pose risks to individuals and organizations alike.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/botnet",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Brand Impersonation",
+    "definition": "When cybercriminals impersonate trusted brands, it can put your security at risk. Learn about brand impersonation and how to stay protected.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/brand-impersonation",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Bring Your Own Device (BYOD)",
+    "definition": "Learn about Bring Your Own Device (BYOD) policies and how they benefit employees and businesses.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/bring-your-own-device",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Bring Your Own License (BYOL)",
+    "definition": "Learn how Bring Your Own License (BYOL) can help organizations leverage existing licenses for flexible cloud and on-premise software usage.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/bring-your-own-license",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Business Email Compromise (BEC)",
+    "definition": "Discover the sophisticated fraud scheme known as Business Email Compromise (BEC) and learn how to protect your business from this growing threat.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/business-email-compromise",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "CEO Fraud",
+    "definition": "Learn how to prevent and recognize CEO Fraud scams. Safeguard your business from unauthorized wire transfers and phishing attacks.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/ceo-fraud",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Children's Internet Protection Act (CIPA)",
+    "definition": "Learn about the purpose and impact of the Children’s Internet Protection Act and how it safeguards children from harmful online content.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/cipa",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Chromebook Security Extension",
+    "definition": "Discover the benefits of the Chromebook Security Extension and keep your browsing secure and protected.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/chromebook-security-extension",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Cloud backup pricing",
+    "definition": "Learn all about cloud backup pricing: pricing models, cost factors and how to best evaluate vendor proposals.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/cloud-backup-pricing",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Cloud backup services",
+    "definition": "Learn about the top email security issues that organizations should be aware of, and how to build a layered, strategic defense.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/cloud-backup-services-types",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Cloud data backup best practices",
+    "definition": "Learn why companies must look past the native, basic recovery tools offered by cloud providers, and how to achieve true resilience with cloud data backup best practices.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/cloud-backup-best-practices",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "cloud data protection",
+    "definition": "Learn what cloud data protection is, and how an effective strategy can ensure that data stored in the cloud remains confidential, intact and available.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/cloud-data-protection",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "cloud email security",
+    "definition": "Learn what cloud email security is, what the core capabilities of a strong cloud email security solution are and how to get the most out of your cloud email protection.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/cloud-email-security",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Cloud Firewalls",
+    "definition": "Find out how cloud firewalls secure your cloud infrastructure. Explore different types of cloud firewalls and their benefits.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/cloud-firewall",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Cloud Networking",
+    "definition": "A cloud networking refers to a type of computer network infrastructure where resources, data, and services are hosted and delivered over the internet.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/cloud-networking",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "cloud WAF",
+    "definition": "A cloud web application firewall (WAF) is a WAF deployed as a managed service within a cloud environment rather than as a physical hardware appliance. It operates as a reverse proxy, intercepting and inspecting every request to identify threats ranging from OWASP Top 10 vulnerabilities to sophisticated bot-driven attacks and API abuse. It integrates seamlessly with virtual networking via DNS redirection, shielding origin servers from direct exposure while scaling elastically to meet demand.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/cloud-waf",
+    "notes": "definition from ai_distilled_from_body (claude-sonnet-4-6)"
+  },
+  {
+    "term": "Content filtering",
+    "definition": "Learn about content filtering and how it helps organizations control access to harmful content. Find out how content filtering works and its benefits for schools and businesses.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/content-filtering",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Content Routing",
+    "definition": "Content routing (CR) directs web traffic based on content patterns. Explore content-based routing techniques and how they optimize web performance.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/content-routing",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Conversation Hijacking",
+    "definition": "Learn about conversation hijacking, a phishing scam technique used by cybercriminals to gain access to business conversations. Stay informed and keep your data secure.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/conversation-hijacking",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Cross Site Request Forgery (CSRF)",
+    "definition": "Learn about Cross-Site Request Forgery (CSRF) attacks and how to protect your web applications. Discover prevention measures and mitigate risks.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/csrf",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Cross-Site Scripting (XSS)",
+    "definition": "Cross-site scripting (XSS) is an attack in which an attacker injects malicious scripts into a trusted website. Learn how to prevent XSS attacks.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/cross-site-scripting",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Cyber Security",
+    "definition": "Learn the definition of cyber security, its importance, and the different types of cyber threats like malware, phishing, and more.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/cyber-security",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Cybersecurity Platform",
+    "definition": "A cybersecurity platform is a solution that protects an organization from several most common or most important attack vectors, such as email phishing, network attacks, web application exploits and data exfiltration.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/cybersecurity-platform",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "data classification",
+    "definition": "Learn about the essential data classification levels, the different data classification types and how platforms can handle the heavy lifting of discovery and enforcement.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/data-classification",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Data Compression",
+    "definition": "Learn about data compression and how it reduces file size to save storage capacity. Find out the difference between lossy and lossless data compression.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/data-compression",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Data Deduplication",
+    "definition": "Reduce storage costs with Data Deduplication. Explore benefits and implementation methods to eliminate redundant data.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/data-deduplication",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Data Exfiltration",
+    "definition": "Learn about data exfiltration and how to prevent it. Protect your sensitive information from unauthorized access with effective security measures.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/data-exfiltration",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Data Leak Prevention (DLP)",
+    "definition": "Data Leak Prevention (DLP) is both a strategy and a set of processes and tools designed to prevent sensitive data from flowing out of an organization to any unauthorized third party. The purpose of DLP is to stop data from being exposed to any person or environment outside of what is specifically allowed. Data Leak Prevention falls within the domains of cybersecurity and regulatory compliance.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/data-leak-prevention",
+    "notes": "definition from ai_distilled_from_body (claude-sonnet-4-6)"
+  },
+  {
+    "term": "Data Loss Prevention (DLP)",
+    "definition": "Learn about the importance of data loss prevention and how it can help protect sensitive information across different systems and devices.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/dlp",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Data Protection",
+    "definition": "Learn about the process of safeguarding important data, its importance, and strategies for effective protection.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/data-protection",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Deep Packet Inspection (DPI)",
+    "definition": "Discover the power of deep packet inspection and how it revolutionizes network security. Learn the benefits and implementation of DPI.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/deep-packet-inspection",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "DevSecOps",
+    "definition": "Learn about the integration of security in the IT lifecycle with DevSecOps. Discover the benefits and practices of this application development approach.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/dev-sec-ops",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Disaster Recovery",
+    "definition": "Learn about disaster recovery, its importance, and how it helps businesses recover from IT infrastructure failures and disruptions.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/disaster-recovery",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Distributed Denial of Service (DDoS) Attack",
+    "definition": "Learn about DDoS attacks, their types, and how to protect your website from disruption.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/ddos",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Distributed Firewall",
+    "definition": "A distributed firewall adds robust security to your network. Explore the benefits of a distributed firewall in protecting your network against intrusions.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/distributed-firewall",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "DMARC Authentication",
+    "definition": "Learn how DMARC Authentication enhances email security and prevents email spoofing. Implement DMARC to protect your domain from unauthorized email use.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/dmarc",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "DMZ Network",
+    "definition": "Discover the role of a DMZ network in adding an extra layer of security to your organization's local-area network. Learn how it works and why it's essential.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/dmz-network",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "DNS Records",
+    "definition": "Learn what DNS records are and how they work. Find out why DNS is essential for smooth internet browsing.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/dns-records",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Domain Impersonation",
+    "definition": "Learn about the impact and prevention of domain impersonation attacks, a high-impact tactic used by attackers to deceive and exploit organizations.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/domain-impersonation",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Domain Spoofing",
+    "definition": "Learn about domain spoofing and how cyber criminals fake website and email domains to trick users. Protect yourself from phishing and email scams.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/domain-spoofing",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "E-Discovery",
+    "definition": "Explore the basics of e-discovery. Find out how it works, its role in legal proceedings and the importance of e-discovery in digital investigations.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/e-discovery",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "EDR vs. XDR",
+    "definition": "Endpoint Detection and Response (EDR) focuses on detecting and responding to threats on individual endpoint devices such as laptops, desktops, and mobile devices, using software agents to monitor activity and isolate threats in real time. Extended Detection and Response (XDR) builds on EDR by integrating data from endpoints, networks, servers, applications, and cloud services into a unified platform, enabling detection and response across an organization's entire infrastructure. The key difference between the two is scope: EDR is limited to endpoint visibility, while XDR correlates data across multiple systems to identify and respond to multi-vector attacks.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/edr-xdr-key-differences",
+    "notes": "definition from ai_distilled_from_body (claude-sonnet-4-6)"
+  },
+  {
+    "term": "Email Archiving",
+    "definition": "Learn about email archiving and its importance in preserving, searching, and retrieving digital communication.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/email-archiving",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Email Backup",
+    "definition": "Email backup is the process of creating a copy of email data, including messages, attachments, and other email-related information, and storing that copy in a secondary location for preservation and recovery purposes. Email backups help prevent data loss and ensure continuity in communications. The primary purpose of email backup is to have a reliable copy of email data that can be restored in the event of data loss.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/email-backup",
+    "notes": "definition from ai_distilled_from_body (claude-sonnet-4-6)"
+  },
+  {
+    "term": "Email Compression",
+    "definition": "Learn how email compression works, its benefits like faster transmission and reduced storage needs, and best practices for efficient email management.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/email-compression",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Email Encryption",
+    "definition": "Discover the definition and benefits of email encryption and why it's essential for data Security.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/email-encryption",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Email Legal Hold",
+    "definition": "Learn about the importance of email legal hold and how it protects important emails for legal actions.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/email-legal-hold",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Email Protection",
+    "definition": "What is email protection? Learn about its meaning, threats, and the techniques used to secure digital communications within organizations.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/email-protection",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Email Retention Policy",
+    "definition": "Learn what an email retention policy is and why it's important for regulatory compliance and legal discovery.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/email-retention-policy",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Email Security",
+    "definition": "Learn about email security and discover effective strategies to strengthen and protect your sensitive information.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/email-security",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Email Spoofing",
+    "definition": "Learn about the threat of email spoofing and how it can be dangerous. Find out how to protect yourself from malicious actors.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/email-spoofing",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Endpoint Device",
+    "definition": "Learn about endpoint devices and their role in computer networks. Discover the risks and security strategies to protect these devices.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/endpoint-device",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Exchange Online Protection (EOP)",
+    "definition": "Exchange Online Protection (EOP) is a cloud-based email filtering service that helps protect your organization against spam, malware, and other email threats.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/eop",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Extended Detection and Response (XDR)",
+    "definition": "Learn the ins and outs of XDR and its role in enhancing cybersecurity. Discover how XDR can protect your organization from evolving threats.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/xdr",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Extortion",
+    "definition": "Extortion is a cybercrime where hackers demand payment by threatening to leak data or attack systems. Learn how to protect against extortion attempts.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/extortion",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Failover",
+    "definition": "Discover the concept of failover and its significance. Learn how failover works and its role in ensuring uninterrupted services.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/failover",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Firewall-as-a-Service (FWaaS)",
+    "definition": "Firewall-as-a-Service (FWaaS) is a firewall solution delivered as a cloud-based service that allows companies to simplify IT infrastructure.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/firewall-as-a-service",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "GCP Security",
+    "definition": "Discover what Google Cloud Platform security is and how it ensures robust security for your cloud infrastructure.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/gcp-security",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "General Data Protection Regulation (GDPR)",
+    "definition": "Learn about General Data Protection Regulation (GDPR) and its impact on data privacy.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/gdpr",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Generative AI (GenAI)",
+    "definition": "Generative AI applications are designed to mimic human creativity by generating text, images, videos, and other types of content upon request. Unlike other forms of artificial intelligence, generative AI learns relationships, patterns, and other characteristics within a dataset, and produces new and original content based on the parameters used in its training. Large language models (LLMs) represent one prominent type of generative AI, trained on massive amounts of human-generated content with billions of parameters controlling how the models learn and respond.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/generative-ai",
+    "notes": "definition from ai_distilled_from_body (claude-sonnet-4-6)"
+  },
+  {
+    "term": "How to back up Microsoft 365 data",
+    "definition": "Learn how to back up Microsoft 365 data to mitigate the risks of data loss and ensure business continuity and peace of mind.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/how-to-backup-microsoft-365",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "How to back up Microsoft Entra ID",
+    "definition": "Discover how to back up Microsoft Entra ID and protect against cyberattacks, accidental deletions and policy misconfigurations.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/how-to-backup-microsoft-entra-id",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Hybrid Cloud",
+    "definition": "Discover the benefits and workings of hybrid cloud computing. Cloud computing and on-premises infrastructure with hybrid cloud technologies.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/hybrid-cloud",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Incident Response",
+    "definition": "Learn about incident response and how it helps organizations handle cyberattacks and data breaches.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/incident-response",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Industrial Internet of Things (IIoT)",
+    "definition": "The industrial internet of things (IIoT) is a growing trend in manufacturing and production.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/iiot",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Inline Email Security Deployment",
+    "definition": "Inline email security deployment is a method of deploying email security at the gateway level by leveraging existing mail flow infrastructure (such as Microsoft 365) rather than changing DNS or MX records. This approach ensures seamless integration with minimal operational disruption and avoids the complexity of modifying MX records, which is beneficial for organizations with distributed teams managing email infrastructure. It also enhances privacy by concealing vendor-based MX records, preventing attackers from easily identifying the organization's security posture during reconnaissance.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/inline-deployment",
+    "notes": "definition from ai_distilled_from_body (claude-sonnet-4-6)"
+  },
+  {
+    "term": "Intrusion Detection System",
+    "definition": "Discover the importance of Intrusion Detection Systems (IDS) in network security and how they help you stay informed about malicious activity and vulnerabilities.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/intrusion-detection-system",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Intrusion Prevention System (IPS)",
+    "definition": "Discover intrusion prevention systems (IPS), a crucial cybersecurity defense against network threats.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/intrusion-prevention-system",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "IoT Security",
+    "definition": "IoT security protects internet-connected devices from hacking, data theft & malware. Learn why securing the Internet of Things is critical.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/iot-security",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Kerberos Authentication",
+    "definition": "Discover the benefits of Kerberos Authentication protocol for enhanced network security.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/kerberos-authentication",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Lateral Phishing",
+    "definition": "In a lateral phishing attack, compromised accounts are used to send phishing emails.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/lateral-phishing",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Lightweight Directory Access Protocol (LDAP)",
+    "definition": "Discover the purpose and functions of Lightweight Directory Access Protocol (LDAP) for organizations and individuals.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/ldap",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Malware",
+    "definition": "Discover the meaning of malware and how cybercriminals use it to steal data and compromise computer systems.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/malware",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Managed Detection and Response (MDR)",
+    "definition": "Learn what Managed Detection and Response (MDR) is, how it works, and why 24/7 monitoring and human-led threat hunting are essential for modern cybersecurity.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/managed-detection-response-mdr-security-services",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "managed SOC Service",
+    "definition": "A managed SOC (also known as SOC-as-a-service or outsourced SOC) is a service that allows organizations to offload the burden of 24/7 security monitoring to a dedicated team of outside experts. It provides round-the-clock vigilance, access to specialized cybersecurity professionals, and unified correlation of telemetry across heterogeneous security tools. SOC analysts provide the critical decision-making needed to distinguish between false positives and actual breaches, embodying a proactive defense strategy rather than simply alerting when an alarm is triggered.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/managed-soc-service",
+    "notes": "definition from ai_distilled_from_body (claude-sonnet-4-6)"
+  },
+  {
+    "term": "Managed XDR (MXDR)",
+    "definition": "Explore managed extended detection and response (MXDR) and its role in cybersecurity. Learn how MXDR can enhance your threat detection and response.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/mxdr",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "MDR vs. Managed XDR",
+    "definition": "Learn about the similarities and differences between Managed Detection and Response (MDR) and Managed Extended Detection and Response (Managed XDR).",
+    "source_anchor": "https://www.barracuda.com/support/glossary/mdr-managed-xdr",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Metered Billing",
+    "definition": "Discover the benefits of metered Billing and how it can boost revenue and improve customer satisfaction.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/metered-billing",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Microsoft ExpressRoute",
+    "definition": "Learn how Azure ExpressRoute enables secure and reliable private cloud connections. Connect your on-premises network to Microsoft Azure with ease.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/microsoft-express-route",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Multiprotocol Label Switching (MPLS)",
+    "definition": "Multiprotocol Label Switching (MPLS) is a routing technique that speeds up data transfer across network paths.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/mpls",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Network Backhauling",
+    "definition": "Network backhauling is an approach where branch offices route their internet traffic back to a central datacenter to implement security processes there, rather than interacting directly with the public internet. This centralizes security inspection, eliminating the need to deploy network security measures at each individual location. While backhauling can streamline security, it also increases latency and can negatively impact the performance of real-time and cloud-based applications.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/network-backhauling",
+    "notes": "definition from ai_distilled_from_body (claude-sonnet-4-6)"
+  },
+  {
+    "term": "Network Firewall",
+    "definition": "Learn the essentials of network firewalls, including how they protect your business from cyberthreats and why they are crucial for network security.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/network-firewall",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Network Perimeter",
+    "definition": "Discover the concept and importance of the network perimeter. Learn how it separates an organization's internal network from external networks.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/network-perimeter",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Network Security",
+    "definition": "Explore network security fundamentals, best practices and emerging trends. Learn how to protect your organization’s data and infrastructure from cyberthreats.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/network-security",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Next-Generation Firewall",
+    "definition": "Learn about the benefits and features of next-generation firewalls (NGFWs) and how they enhance network security.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/next-generation-firewall",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "OWASP",
+    "definition": "The Open Web Application Security Project (OWASP) is a nonprofit foundation focused on improving software security.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/owasp",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "OWASP Top 10 List",
+    "definition": "Learn about the OWASP Top 10 List and its significance in web application security.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/owasp-top-10",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "PCI Compliance",
+    "definition": "The Payment Card Industry Data Security Standard (PCI DSS) are requirements for securing credit card transactions and protecting cardholder data.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/pci-compliance",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Phishing",
+    "definition": "Learn about phishing emails and how to protect yourself from scams. Don't fall for scams that try to steal your personal information.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/phishing",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Phishing Campaign",
+    "definition": "Learn about the tactics cybercriminals use in phishing campaigns to trick people into revealing sensitive information.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/phishing-campaign",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Phishing Simulation",
+    "definition": "Phishing simulation tests your organization's ability to recognize and respond to a phishing attack.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/phishing-simulation",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Phishing vs Spear Phishing",
+    "definition": "Learn the distinctions between phishing and spear phishing attacks and how to protect yourself. Stay informed and prevent falling victim.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/phishing-spear-phishing",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Port Scanning",
+    "definition": "Understand port scanning, a technique used to discover open ports and potential vulnerabilities on your network.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/port-scanning",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "PST Files",
+    "definition": "Learn about PST files and how they are used to store items like calendar events, contacts, and email messages.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/pst-files",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Purpose Built Backup Appliance (PBBA)",
+    "definition": "Learn about purpose-built backup appliances, their features and advantages. Find out how PBBA ensures efficient data protection and secure backup storage.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/purpose-built-backup-appliance",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "QR phishing (quishing)",
+    "definition": "Learn what QR phishing (quishing) is, the risks this type of attack poses, and how organizations can prevent it.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/qr-phishing-quishing",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Quality of Service (QoS)",
+    "definition": "Discover the importance of Quality of Service (QoS) in guaranteeing optimal network performance. Prioritize vital applications for reliable network traffic.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/quality-of-service",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Ransomware",
+    "definition": "Ransomware is a type of malware in which an attacker locks or encrypts your most important data and then ask you to pay a fee (ransom) to unlock the system. Sometimes, they will threaten to permanently delete data if the ransom is not paid in a short time.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/ransomware",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Ransomware recovery guide",
+    "definition": "Learn which technical workflows are required to execute a rapid restore after ransomware using a unified platform of immutable backups, Managed XDR and 24/7 SOC oversight.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/ransomware-recovery-guide",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "RBAC vs ABAC",
+    "definition": "Role-Based Access Control (RBAC) and Attribute-Based Access Control (ABAC) are two different models used to manage user permissions and access rights within systems.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/rbac-vs-abac",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Remote Access",
+    "definition": "Remote access is the ability to access a system or network, whether it’s a personal device or office server, without being physically present.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/remote-access",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Role of DMARC in email security",
+    "definition": "Learn what role the Domain-based Message Authentication, Reporting and Conformance (DMARC) policy has in email security.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/dmarc-email-security",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "RSA SecureID",
+    "definition": "Learn about RSA Secure ID, its common vulnerabilities, and how it works to protect network resources.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/rsa-secure-id",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "RTO vs. RPO",
+    "definition": "Recovery time objective (RTO) represents the maximum amount of time that an application, system, or business process can remain offline following a disruptive event, measuring how fast systems must be restored to maintain business continuity. Recovery point objective (RPO) designates the maximum amount of data loss an organization can tolerate, measured in time from the point of failure back to the last successful backup, defining the acceptable age of recovered data. Together, these metrics define the boundaries of acceptable downtime and data loss: RTO governs restoration speed while RPO governs data integrity.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/rto-rpo-backup-recovery",
+    "notes": "definition from ai_distilled_from_body (claude-sonnet-4-6)"
+  },
+  {
+    "term": "SaaS Security",
+    "definition": "SaaS security refers to the measures, practices, and technologies used to protect software-as-a-service (SaaS) applications and the associated data and infrastructure. SaaS applications are hosted in the public cloud or an off-premises data center and accessed primarily through a web browser, mobile application, or desktop client application. Securing SaaS applications is critical because they often contain sensitive information, including personal data, financial records, and intellectual property, and business use of these applications can place protected data and workloads in an unprotected environment.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/saas-security",
+    "notes": "definition from ai_distilled_from_body (claude-sonnet-4-6)"
+  },
+  {
+    "term": "SAML (Security Assertion Markup Language)",
+    "definition": "Security Assertion Markup Language (SAML) is an open standard framework that plays a critical role in identity management and access control, ensuring interoperability and consistent functionality between different systems. Its primary use is to enable organizations to implement single sign-on (SSO) solutions by allowing authentication and authorization data to be exchanged between an identity provider and a service provider. It also supports additional use cases such as federated identity, access control enforcement, and secure API authentication.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/saml",
+    "notes": "definition from ai_distilled_from_body (claude-sonnet-4-6)"
+  },
+  {
+    "term": "Sandboxing",
+    "definition": "Discover what sandboxing is and why it's crucial in protecting your network from malware and advanced threats.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/sandboxing",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Scamming",
+    "definition": "Learn about scamming, common types of scams, and how to protect yourself and business.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/scamming",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Secure Access Service Edge (SASE)",
+    "definition": "Secure Access Service Edge is a platform of integrated services.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/sase",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Secure Email Gateway (SEG)",
+    "definition": "Learn how secure email gateways (SEGs) protect your organization from email-based threats. Explore SEG features, benefits and implementation strategies.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/secure-email-gateway",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Secure Internet Access (SIA)",
+    "definition": "Secure internet access (SIA) refers to the measures and technologies that secure the connection between the endpoint and the internet. It ensures the privacy and integrity of data and provides a safe browsing experience, encompassing a range of practices and technologies to protect networks, devices, and data. SIA addresses key domains including data privacy, data integrity, and threat prevention against attacks such as malware, phishing, and data breaches.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/sia",
+    "notes": "definition from ai_distilled_from_body (claude-sonnet-4-6)"
+  },
+  {
+    "term": "Secure Web Gateway (SWG)",
+    "definition": "Learn what a secure web gateway (SWG) is, how it protects your network, and why it's crucial for modern cybersecurity.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/secure-web-gateway",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Security Operations Center (SOC)",
+    "definition": "Discover what a Security Operations Center (SOC) is, its key functions and why it's crucial for organizations to have one to protect against cyberthreats.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/security-operations-center",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Session Hijacking",
+    "definition": "Learn about session hijacking, its types, and how to protect your online sessions from cyber attackers.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/session-hijacking",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Sextortion",
+    "definition": "Learn about sextortion, a serious crime involving threats to share private and sensitive material for sexual favors, money, or explicit images.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/sextortion",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Smishing (SMS Phishing)",
+    "definition": "Smishing is a phishing attack carried out through text messages. Learn how it works and how to defend against smishing attacks.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/smishing",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "SOC as a Service (SOCaaS)",
+    "definition": "Security Operations Center (SOC) as a Service is a subscription-based managed security service in which an external provider operates a SOC on behalf of an organization, monitoring network traffic, cloud environments, endpoints, and other areas of mission-critical IT infrastructure. It can function as a standalone service or as an additional layer within existing monitoring systems. When threats are detected, the SOCaaS team investigates alerts, determines whether genuine threats exist, and immediately works to contain, mitigate, and resolve any issues requiring attention.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/soc-as-a-service-socaas",
+    "notes": "definition from ai_distilled_from_body (claude-sonnet-4-6)"
+  },
+  {
+    "term": "Social Engineering",
+    "definition": "Learn about social engineering and how it uses psychological manipulation to exploit security vulnerabilities.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/social-engineering",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Software as a Service (SaaS)",
+    "definition": "SAAS (Software as a Service) allows users to connect to and use cloud-based apps over the Internet. Explore the benefits of SAAS.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/saas",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Software-Defined Wide Area Network (SD-WAN)",
+    "definition": "Learn about SD-WAN, a modern approach to managing enterprise network connectivity with reduced costs and increased flexibility.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/sd-wan",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Spam Email",
+    "definition": "Spam email is unsolicited bulk messages, often advertisements or malicious content. Learn how to identify and block junk email to protect against spam.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/spam",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Spam vs. Phishing",
+    "definition": "Learn the key differences between spam and phishing attacks. Discover how to protect yourself from these common cyber threats and safeguard your information.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/spam-vs-phishing",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Spear Phishing",
+    "definition": "Learn about spear phishing attacks and how they target individuals or organizations. Find out how to prevent falling victim to these malicious email scams.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/spear-phishing",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Spyware",
+    "definition": "Learn about spyware, its dangers, and how to defend against it. Protect your privacy and sensitive information from being stolen.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/spyware",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "SQL Injection",
+    "definition": "Learn about SQL Injection, a web security vulnerability that can harm your database. Discover how to prevent SQL Injection and protect your website.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/sql-injection",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "SSL VPN",
+    "definition": "Discover the benefits of using an SSL VPN and how it can secure your network connections. Learn more about SSL VPN and its applications.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/ssl-vpn",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Top 10 email security best practices",
+    "definition": "Learn what the top 10 email security best practices are, and ensure your daily communication remains trustworthy, efficient and resilient.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/email-security-best-practices",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Top 8 Microsoft 365 backup solutions to consider",
+    "definition": "Learn what to look for in Microsoft 365 backup solutions and which companies are considered the top solution providers.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/top-microsoft-365-backup-solutions",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Top Benefits of Managed XDR for Businesses",
+    "definition": "Discover the key benefits of Managed XDR for businesses seeking comprehensive threat detection and response across their entire IT environment.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/top-benefits-managed-xdr",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Top email security issues every organization should consider",
+    "definition": "Learn about the top email security issues that organizations should be aware of, and how to build a layered, strategic defense.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/top-email-security-issues",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Top Mimecast alternatives to consider",
+    "definition": "Learn what to consider when looking for a Mimecast alternative, and which email security solution providers are considered the top choices.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/top-mimecast-alternatives",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Traffic Shaping",
+    "definition": "Learn about traffic shaping and how it improves network performance. Understand the benefits and techniques of traffic shaping in computer networks.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/traffic-shaping",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Understanding managed detection and response (MDR) pricing plans",
+    "definition": "Learn about the key cost drivers in Managed Detection and Response (MDR) pricing, and the common types of MDR pricing models offered today.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/managed-detection-response-mdr-pricing-plans",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "URL Filtering",
+    "definition": "Discover the importance of URL filtering and how it prevents access to harmful websites.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/url-filtering",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "URL Phishing",
+    "definition": "Learn about URL phishing and how to protect yourself from fraudulent websites. Avoid falling victim to data breaches and identity theft.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/url-phishing",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "User Security Awareness",
+    "definition": "Learn how user security awareness training can protect your organization from cyber threats. Empower your employees to recognize and avoid potential risks.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/user-security-awareness",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Vishing (Voice Phishing)",
+    "definition": "Learn about vishing, a form of voice phishing, and how attackers exploit phone calls to obtain sensitive information. Protect yourself from vishing attacks.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/vishing",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "VPN Client",
+    "definition": "A VPN client establishes an encrypted tunnel to a private network over the internet, allowing secure remote access to corporate data and resources.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/vpn-client",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "vulnerability scanning",
+    "definition": "Learn what vulnerability scanning is, and the various benefits of a managed vulnerability scanning service.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/vulnerability-scanning",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Web Application and API Protection (WAAP)",
+    "definition": "Discover the benefits of Web Application and API Protection and how it helps safeguard vulnerable APIs and web applications.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/waap",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Web Application Security",
+    "definition": "Learn about web application security and how it helps protect websites, applications and APIs from attacks.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/web-application-security",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Web Filtering",
+    "definition": "Learn about web filtering and how it helps control website access for users.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/web-filtering",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Zero Trust (ZT)",
+    "definition": "Learn about the concept of Zero Trust, the benefits of implementing, and how it enhances network security.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/zero-trust",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  },
+  {
+    "term": "Zero Trust Access (ZTA) vs. VPN",
+    "definition": "Zero Trust Access (ZTA) is a security model that employs micro-segmentation, continuous monitoring, and ongoing validation of devices and users to enforce granular access controls, ensuring every access request is scrutinized regardless of its origin. VPNs encrypt data in transit to protect against interception but offer less granular control over user access and were designed for centralized network models, creating performance issues and security gaps in dispersed, cloud-centric environments. The key distinction is that ZTA reduces the potential attack surface through precise, continuously enforced controls, while VPNs may expose more of the network than necessary and struggle to adapt to modern hybrid and multi-cloud architectures.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/zero-trust-vs-vpn",
+    "notes": "definition from ai_distilled_from_body (claude-sonnet-4-6)"
+  },
+  {
+    "term": "Zero-Day Threat",
+    "definition": "A zero-day threat (sometimes called a zero-hour threat) is one that hasn’t been seen before and doesn’t match any known malware signatures.",
+    "source_anchor": "https://www.barracuda.com/support/glossary/zero-day-threat",
+    "notes": "definition from schema.org Article description (curated meta-description tier)"
+  }
+]

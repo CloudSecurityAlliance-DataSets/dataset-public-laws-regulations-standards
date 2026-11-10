@@ -1,0 +1,71 @@
+{
+  "secid": "secid:reference/barracuda.com/glossary",
+  "name": "Barracuda Cybersecurity Glossary",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "",
+  "owner": "Barracuda Networks, Inc.",
+  "type": "Reference",
+  "subtype": [
+    "glossary"
+  ],
+  "description": "Barracuda Cybersecurity Glossary — vendor-published security terminology reference spanning email protection, data protection and backup, network security (SASE, SD-WAN, zero trust), application security (WAF, DDoS, API protection), endpoint/XDR, ransomware, and cloud security for Microsoft 365, Google Workspace, and public cloud. Aligned to Barracuda's product portfolio.",
+  "relationToCloudSecurity": "Direct — substantial coverage of cloud email security, cloud WAF/application protection, and SASE/zero-trust networking terms relevant to protecting cloud and hybrid workloads.",
+  "relationToAISecurity": "Indirect — Barracuda applies AI/ML to threat detection (spear-phishing, account takeover); the glossary may include AI-assisted-threat and detection terminology but is not AI-security-specific.",
+  "license": {
+    "spdx": "LicenseRef-Vendor-Copyright",
+    "redistribution": "not_permitted_without_authorization",
+    "derivatives": "not_permitted_without_authorization",
+    "publicly_redistributable": true,
+    "license_text_url": "",
+    "notes": "Barracuda Networks copyright Publicly accessible web resource with no login required (Tier 2 of Kurt Seifried 2026-11-09 4-tier hosting rule: open-web no-login content is mirrored in the public dataset repository with attribution)."
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Barracuda_Networks",
+    "source": "https://www.barracuda.com/support/glossary",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-07-10T00-00-00Z",
+    "tool": "extract_barracuda_glossary.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "Enumerates /support/glossary/<slug> term pages from sitemap.xml; per page the <h1> (cleaned of SEO 'What is...'/subtitle cruft) is the term and the schema.org Article description is the definition. For the 14 pages with an empty Article description, the definition is AI-distilled from body prose (Claude, BARRACUDA_AI_MODEL). Curated tier is deterministic; the 14 AI definitions are best-effort."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-07-04T00-00-00Z",
+      "status": "stub",
+      "reason": "Initial metadata stub authored to complete the reference/ namespace index",
+      "tool": "n/a"
+    },
+    {
+      "s3_timestamp": "2026-07-10T00-00-00Z",
+      "status": "structured",
+      "reason": "Extracted 159 terms to glossary-terms.csv/.json via extract_barracuda_glossary.py (145 curated + 14 AI-distilled from body)",
+      "tool": "extract_barracuda_glossary.py"
+    }
+  ],
+  "scope": {
+    "terms_extracted": 159,
+    "extraction_note": "159 terms (all sitemap glossary URLs) in the canonical {term, definition, source_anchor, notes} schema (glossary-terms.csv/.json). For 145 entries the definition is the page's curated schema.org Article description; for the 14 whose Article description is empty (marketing-promo-only pages), it is AI-distilled from the page body prose via extract_barracuda_glossary.py + Claude — recorded per-row in notes ('ai_distilled_from_body'). SEO-article <h1> titles are reduced to bare terms (e.g. 'What is cloud WAF: Use case and benefits' -> 'Cloud WAF')."
+  },
+  "notes": "Structured extraction complete (2026-07-10): 159 terms via extract_barracuda_glossary.py (145 curated descriptions + 14 AI-distilled from body prose). Vendor-copyrighted — CSA private working copy, not for redistribution. SecID namespace registered via SecID PR #107 (registry/reference/com/barracuda.json).",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "licensed",
+    "notes": "Vendor-copyrighted glossary; redistribution not permitted without authorization. This is CSA's private working copy, so the intended end state is structured extraction (per-term {term, definition, source_anchor, notes}) held here for internal research — not a metadata-only stub."
+  }
+}

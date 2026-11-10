@@ -1,0 +1,31 @@
+{
+  "secid": "secid:control/uidai.gov.in/auth-api",
+  "name": "Aadhaar Authentication API Specification",
+  "acronym": "Aadhaar Auth API",
+  "version": "",
+  "owner": "Unique Identification Authority of India (UIDAI)",
+  "type": "Standard",
+  "description": "World's largest biometric digital-identity authentication API. Technical specification for biometric and demographic authentication against Aadhaar, used by all AUAs (Authentication User Agencies) and KUAs (KYC User Agencies). Aadhaar has 1.3B+ enrolled identities.",
+  "relationToCloudSecurity": "",
+  "relationToAISecurity": "",
+  "license": {
+    "spdx": "LicenseRef-Publisher-Restricted",
+    "redistribution": "prohibited",
+    "derivatives": "prohibited_without_license",
+    "publicly_redistributable": true,
+    "license_text_url": "https://uidai.gov.in/en/ecosystem/authentication-devices-documents/about-authentication.html",
+    "notes": "Free download with UIDAI / Government of India copyright. Bulk redistribution terms unclear — flag for license verification. Public-release government / central bank publication (Tier 1 of Kurt Seifried 2026-11-09 4-tier hosting rule: public government website content goes into the public dataset repository regardless of license)."
+  },
+  "links": {
+    "source": "https://uidai.gov.in/en/ecosystem/authentication-devices-documents/about-authentication.html",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "active": true,
+    "supersedes": "",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "When CSA acquires a licensed copy, promote into a versioned subdir."
+  },
+  "notes": "Authored 2026-05-14. Stub-only — awaiting CSA's licensed copy (or, where mostly-free, license-verification per the public-repo TODO list)."
+}

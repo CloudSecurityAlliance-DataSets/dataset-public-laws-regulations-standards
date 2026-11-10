@@ -1,0 +1,38 @@
+[
+  {
+    "term": "API call",
+    "definition": "Also known as an API request. An API call is a message sent to a server asking an API to provide a service or information.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/api-shield/glossary/#api-call"
+  },
+  {
+    "term": "API endpoint",
+    "definition": "The API endpoint is the location where API calls or requests are fulfilled. API Shield defines endpoints as a host, method, and path tuple.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/api-shield/glossary/#api-endpoint"
+  },
+  {
+    "term": "API schema",
+    "definition": "The API schema defines which API requests are valid based on several request properties like target endpoint, path or query variable format, and HTTP method.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/api-shield/glossary/#api-schema"
+  },
+  {
+    "term": "session identifier",
+    "definition": "A session identifier is a unique identifier that a website assigns to identify a specific user for the duration of their visit.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/api-shield/glossary/#session-identifier"
+  },
+  {
+    "term": "source endpoint",
+    "definition": "The source endpoint is the endpoint managed by API Shield in Endpoint Management by its routing feature.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/api-shield/glossary/#source-endpoint"
+  },
+  {
+    "term": "target endpoint",
+    "definition": "The target endpoint is the ultimate destination that a request is sent to by API Shield's routing feature.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/api-shield/glossary/#target-endpoint"
+  }
+]

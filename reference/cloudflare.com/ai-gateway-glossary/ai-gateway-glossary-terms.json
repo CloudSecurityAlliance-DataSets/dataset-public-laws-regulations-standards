@@ -1,0 +1,116 @@
+[
+  {
+    "term": "cf-aig-backoff",
+    "definition": "Header to customize the backoff type for request retries of a request.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/ai-gateway/glossary/#cf-aig-backoff"
+  },
+  {
+    "term": "cf-aig-cache-key",
+    "definition": "The cf-aig-cache-key-aig-cache-key let you override the default cache key in order to precisely set the cacheability setting for any resource.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/ai-gateway/glossary/#cf-aig-cache-key"
+  },
+  {
+    "term": "cf-aig-cache-status",
+    "definition": "Status indicator for caching, showing if a request was served from cache.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/ai-gateway/glossary/#cf-aig-cache-status"
+  },
+  {
+    "term": "cf-aig-cache-ttl",
+    "definition": "Specifies the cache time-to-live for responses.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/ai-gateway/glossary/#cf-aig-cache-ttl"
+  },
+  {
+    "term": "cf-aig-collect-log",
+    "definition": "The cf-aig-collect-log header allows you to bypass the default log setting for the gateway.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/ai-gateway/glossary/#cf-aig-collect-log"
+  },
+  {
+    "term": "cf-aig-custom-cost",
+    "definition": "Allows the customization of request cost to reflect user-defined parameters.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/ai-gateway/glossary/#cf-aig-custom-cost"
+  },
+  {
+    "term": "cf-aig-dlp",
+    "definition": "A response header returned when a DLP policy matches a request or response. Contains JSON with the action taken (Flag or Block), matched policy IDs, matched profile IDs, and detection entry IDs.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/ai-gateway/glossary/#cf-aig-dlp"
+  },
+  {
+    "term": "cf-aig-event-id",
+    "definition": "cf-aig-event-id is a unique identifier for an event, used to trace specific events through the system.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/ai-gateway/glossary/#cf-aig-event-id"
+  },
+  {
+    "term": "cf-aig-log-id",
+    "definition": "The cf-aig-log-id is a unique identifier for the specific log entry to which you want to add feedback. Treat it as an opaque string.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/ai-gateway/glossary/#cf-aig-log-id"
+  },
+  {
+    "term": "cf-aig-max-attempts",
+    "definition": "Header to customize the number of max attempts for request retries of a request.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/ai-gateway/glossary/#cf-aig-max-attempts"
+  },
+  {
+    "term": "cf-aig-metadata",
+    "definition": "Custom metadataallows you to tag requests with user IDs or other identifiers, enabling better tracking and analysis of your requests.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/ai-gateway/glossary/#cf-aig-metadata"
+  },
+  {
+    "term": "cf-aig-no-wholesale",
+    "definition": "Prevents Unified Billing fallback for a third-party provider request when set to `true`. The request must use provider credentials supplied with the request or stored on the gateway.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/ai-gateway/glossary/#cf-aig-no-wholesale"
+  },
+  {
+    "term": "cf-aig-request-id",
+    "definition": "The cf-aig-request-id response header identifies the request. For a request that AI Gateway answers in a single step, it has the same value as cf-aig-log-id.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/ai-gateway/glossary/#cf-aig-request-id"
+  },
+  {
+    "term": "cf-aig-request-timeout",
+    "definition": "Header to set a request timeout (measured in milliseconds). If the provider does not respond within this time, the request returns an error.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/ai-gateway/glossary/#cf-aig-request-timeout"
+  },
+  {
+    "term": "cf-aig-retry-delay",
+    "definition": "Header to customize the retry delay for request retries of a request.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/ai-gateway/glossary/#cf-aig-retry-delay"
+  },
+  {
+    "term": "cf-aig-skip-cache",
+    "definition": "Header to bypass caching for a specific request.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/ai-gateway/glossary/#cf-aig-skip-cache"
+  },
+  {
+    "term": "cf-aig-step",
+    "definition": "The cf-aig-step response header identifies which step in a request flow successfully processed the request, useful for tracking and debugging.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/ai-gateway/glossary/#cf-aig-step"
+  },
+  {
+    "term": "cf-cache-ttl",
+    "definition": "Deprecated: This header is replaced by `cf-aig-cache-ttl`. It specifies cache time-to-live.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/ai-gateway/glossary/#cf-cache-ttl"
+  },
+  {
+    "term": "cf-skip-cache",
+    "definition": "Deprecated: This header is replaced by `cf-aig-skip-cache`. It bypasses caching for a specific request.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/ai-gateway/glossary/#cf-skip-cache"
+  }
+]

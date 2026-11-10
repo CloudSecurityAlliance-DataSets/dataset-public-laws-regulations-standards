@@ -1,0 +1,122 @@
+[
+  {
+    "term": "AI models",
+    "definition": "An AI model is a trained system that processes input data to generate predictions, decisions, or outputs based on patterns it has learned.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/workers-ai/platform/glossary/#ai-models"
+  },
+  {
+    "term": "API Tokens",
+    "definition": "API Tokens are authentication credentials used to securely access and manage Workers AI resources via the REST API.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/workers-ai/platform/glossary/#api-tokens"
+  },
+  {
+    "term": "Cloudflare Dashboard",
+    "definition": "Cloudflare Dashboard is a web-based interface that allows users to manage Workers AI services, including model deployment and monitoring.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/workers-ai/platform/glossary/#cloudflare-dashboard"
+  },
+  {
+    "term": "Context Window",
+    "definition": "In generative AI, the context window is the sum of the number of input, reasoning, and completion or response tokens a model supports. You can find the context window limit on each model page.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/workers-ai/platform/glossary/#context-window"
+  },
+  {
+    "term": "D1",
+    "definition": "D1 is Cloudflare's managed, serverless database with SQLite's SQL semantics, built-in disaster recovery, and Worker and HTTP API access.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/workers-ai/platform/glossary/#d1"
+  },
+  {
+    "term": "Environment Variables",
+    "definition": "Environment Variables are dynamic values that can be used within Workers to manage configuration settings, including those related to AI integrations.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/workers-ai/platform/glossary/#environment-variables"
+  },
+  {
+    "term": "Fine-Tuning",
+    "definition": "Fine-Tuning is a general term for modifying an AI model by continuing to train it with additional data.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/workers-ai/platform/glossary/#fine-tuning"
+  },
+  {
+    "term": "Function Calling",
+    "definition": "Function Calling enables people to take Large Language Models (LLMs) and use the model response to execute functions or interact with external APIs.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/workers-ai/platform/glossary/#function-calling"
+  },
+  {
+    "term": "Inference",
+    "definition": "Inference refers to the process of using a trained machine learning model to make predictions or generate outputs based on new data.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/workers-ai/platform/glossary/#inference"
+  },
+  {
+    "term": "LoRA Adapters",
+    "definition": "LoRA Adapters (Low-Rank Adaptation adapters) are used in machine learning to fine-tune models efficiently by adjusting a small number of parameters, allowing for customization of AI models in Workers AI.Public LoRA Adapters are pre-trained Low-Rank Adaptation adapters available for public use.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/workers-ai/platform/glossary/#lora-adapters"
+  },
+  {
+    "term": "Maximum Tokens",
+    "definition": "In generative AI, the user-defined property max\\_tokens defines the maximum number of tokens at which the model should stop responding. This limit cannot exceed the context window.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/workers-ai/platform/glossary/#maximum-tokens"
+  },
+  {
+    "term": "Model Catalog",
+    "definition": "Model Catalog is a curated collection of AI models available within Workers AI, providing developers with a variety of pre-trained models for different tasks.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/workers-ai/platform/glossary/#model-catalog"
+  },
+  {
+    "term": "Prompt Engineering",
+    "definition": "Prompt Engineering is the practice of designing and refining input prompts to effectively elicit desired responses from AI models.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/workers-ai/platform/glossary/#prompt-engineering"
+  },
+  {
+    "term": "Prompt Templates",
+    "definition": "Prompt Templates are predefined structures that guide the input provided to AI models, enhancing consistency and effectiveness in responses.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/workers-ai/platform/glossary/#prompt-templates"
+  },
+  {
+    "term": "REST API",
+    "definition": "REST API is an application programming interface that allows developers to interact with Workers AI services over HTTP, enabling model management and inference requests.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/workers-ai/platform/glossary/#rest-api"
+  },
+  {
+    "term": "Serverless GPUs",
+    "definition": "Serverless GPUs are graphics processing units provided by Cloudflare in a serverless environment, enabling scalable and efficient execution of machine learning models without the need for managing underlying hardware.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/workers-ai/platform/glossary/#serverless-gpus"
+  },
+  {
+    "term": "Worker Bindings",
+    "definition": "Worker Bindings are configurations that connect Workers scripts to external resources, such as AI models, enabling seamless integration and functionality.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/workers-ai/platform/glossary/#worker-bindings"
+  },
+  {
+    "term": "Workers AI",
+    "definition": "Workers AI is a Cloudflare service that enables running machine learning models on Cloudflare's global network, utilizing serverless GPUs. It allows developers to integrate AI capabilities into their applications using Workers, Pages, or via the REST API.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/workers-ai/platform/glossary/#workers-ai"
+  },
+  {
+    "term": "Workers KV",
+    "definition": "Workers KVis a data storage that allows you to store and retrieve data globally.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/workers-ai/platform/glossary/#workers-kv"
+  },
+  {
+    "term": "Wrangler CLI",
+    "definition": "Wrangler CLI is a command-line tool for building and deploying Cloudflare Workers, facilitating the integration of AI models into applications.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/workers-ai/platform/glossary/#wrangler-cli"
+  }
+]
