@@ -25,12 +25,12 @@
   },
   "links": {
     "wikipedia": "",
-    "source": "https://www.legislation.gov.au/F2023L00485",
-    "textUsed": "https://www.legislation.gov.au/F2023L00485/asmade/2023-04-27/text/original/pdf",
+    "source": "https://www.legislation.gov.au/F2023L00112",
+    "textUsed": "https://www.legislation.gov.au/F2023L00112/2026-06-10/2026-06-10/text/original/pdf",
     "csaLocation": ""
   },
   "lifecycle": {
-    "published": "2020-01-01",
+    "published": "2023-01-01",
     "active": true,
     "supersedes": null,
     "supersededBy": null,
@@ -38,13 +38,10 @@
     "notes": ""
   },
   "current_extraction": {
-    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "date": "2026-11-10",
     "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
-    "tool_version": "1.0",
-    "extraction_host": "local",
-    "flags": [],
-    "force_ocr": false,
-    "notes": "Extracted official regulation (https://www.legislation.gov.au/F2023L00485/asmade/2023-04-27/text/original/pdf) to Markdown (3,473 chars). Parsed 2 sections (1 with explicit section identifiers)."
+    "s3_archive_path": "",
+    "notes": "Extracted official regulation (https://www.legislation.gov.au/F2023L00112/2026-06-10/2026-06-10/text/original/pdf) to Markdown (56,740 chars). Parsed 39 sections (17 with explicit section identifiers)."
   },
   "extraction_history": [
     {

@@ -26,11 +26,11 @@
   "links": {
     "wikipedia": "",
     "source": "https://nebraskalegislature.gov/laws/statutes.php?statute=87-1101",
-    "textUsed": "https://nebraskalegislature.gov/laws/statutes.php?statute=87-1101",
+    "textUsed": "https://nebraskalegislature.gov/FloorDocs/108/PDF/Slip/LB1074.pdf",
     "csaLocation": ""
   },
   "lifecycle": {
-    "published": "2020-01-01",
+    "published": "2024-01-01",
     "active": true,
     "supersedes": null,
     "supersededBy": null,
@@ -38,13 +38,10 @@
     "notes": ""
   },
   "current_extraction": {
-    "s3_timestamp": "2026-11-04T05-00-00Z",
-    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
-    "tool_version": "1.0",
-    "extraction_host": "local",
-    "flags": [],
-    "force_ocr": false,
-    "notes": "Extracted official regulation (https://nebraskalegislature.gov/laws/statutes.php?statute=87-1101) to Markdown (1,310 chars). Parsed 7 sections (1 with explicit section identifiers)."
+    "date": "2026-11-10",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "s3_archive_path": "",
+    "notes": "Extracted official regulation (https://nebraskalegislature.gov/FloorDocs/108/PDF/Slip/LB1074.pdf) to Markdown (263,804 chars). Parsed 73 sections (71 with explicit section identifiers)."
   },
   "extraction_history": [
     {

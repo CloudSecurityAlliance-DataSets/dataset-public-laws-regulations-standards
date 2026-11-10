@@ -49,7 +49,7 @@
   },
   {
     "depth": 2,
-    "section_id": "Part 3 (1)",
+    "section_id": "Part 3 (2)",
     "section_name": "Ransomware reporting obligations 27",
     "id_kind": "part",
     "parent_id": "",
@@ -449,7 +449,7 @@
   },
   {
     "depth": 2,
-    "section_id": "Part 3 (2)",
+    "section_id": "Part 3 (3)",
     "section_name": "Ransomware reporting obligations",
     "id_kind": "part",
     "parent_id": "",
@@ -468,7 +468,7 @@
     "section_id": "Ransomware reporting obligations: Part 3 Section 26 (1)",
     "section_name": "Section 26",
     "id_kind": "section_word",
-    "parent_id": "Part 3 (2)",
+    "parent_id": "Part 3 (3)",
     "body": ""
   },
   {
@@ -484,7 +484,7 @@
     "section_id": "Part 3 (1)",
     "section_name": "This Part applies if:",
     "id_kind": "cjk_sub",
-    "parent_id": "Part 3 (2)",
+    "parent_id": "Part 3 (3)",
     "body": "(a) an incident has occurred, is occurring or is imminent; and (b) the incident is a cyber security incident; and\n\n(c) the incident has had, is having, or could reasonably be\n\nexpected to have, a direct or indirect impact on a reporting business entity; and (d) an entity (the extorting entity) makes a demand of the\n\nreporting business entity, or any other entity, in order to benefit from the incident or the impact on the reporting business entity; and (e) the reporting business entity provides, or is aware that\n\nanother entity has provided on their behalf, a payment or benefit (a ransomware payment) to the extorting entity that is directly related to the demand.\n\n(2) An entity is a reporting business entity if, at the time the\n\nransomware payment is made:\n\n(a) the entity:\n\n(i) is carrying on a business in Australia with an annual\n\nturnover for the previous financial year that exceeds the turnover threshold for that year; and (ii) is not a Commonwealth body or a State body; and (iii) is not a responsible entity for a critical infrastructure\n\nasset; or (b) the entity is a responsible entity for a critical infrastructure\n\nasset to which Part 2B of the Security of Critical Infrastructure Act 2018 applies.\n\n(3) For the purposes of subparagraph (2)(a)(i), the turnover threshold\n\nis:\n\n(a) if a business has been carried on for only part of the previous\n\nfinancial year—the amount worked out in the manner prescribed by the rules; or\n\n28 Cyber Security Act 2024 No. 98, 2024"
   },
   {
@@ -492,7 +492,7 @@
     "section_id": "Ransomware reporting obligations: Part 3 Section 26 (2)",
     "section_name": "Section 26",
     "id_kind": "section_word",
-    "parent_id": "Part 3 (2)",
+    "parent_id": "Part 3 (3)",
     "body": "(b) in any other case—the amount prescribed by, or worked out\n\nin the manner prescribed by, the rules.\n\nPresumption\n\n(4) For the purposes of paragraph (1)(b), an incident (other than an\n\nincident covered by paragraph 9(2)(a) or (b)) is presumed to be a cyber security incident if:\n\n(a) the incident was probably effected, is probably being effected\n\nor could reasonably be expected to be effected, by means of a telegraphic, telephonic or other like service within the meaning of paragraph 51(v) of the Constitution (including, for example, by means of the internet); or (b) the incident has probably impeded or impaired, or is probably\n\nimpeding or impairing or could reasonably be expected to impede or impair, the ability of a computer to connect to such a service; or (c) the incident has probably seriously prejudiced, is probably\n\nseriously prejudicing, or could reasonably be expected to prejudice:\n\n(i) the social or economic stability of Australia or its\n\npeople; or (ii) the defence of Australia; or (iii) national security.\n\nNote: Paragraphs 9(2)(a) and (b) cover incidents involving critical infrastructure assets or the activities of corporations to which paragraph 51(xx) of the Constitution applies.\n\n(5) However, subsection (4) does not make an entity liable to a civil\n\npenalty under this Part if the incident:\n\n(a) was not in fact effected by means of a telegraphic, telephonic\n\nor other like service within the meaning of paragraph 51(v) of the Constitution (including, for example, by means of the internet); or (b) did not in fact impede or impair the ability of a computer to\n\nconnect to such a service; or (c) did not in fact seriously prejudice:\n\n(i) the social or economic stability of Australia or its\n\npeople; or\n\nNo. 98, 2024 Cyber Security Act 2024 29"
   },
   {
@@ -500,7 +500,7 @@
     "section_id": "Section 27",
     "section_name": "Section 27",
     "id_kind": "section_word",
-    "parent_id": "Part 3 (2)",
+    "parent_id": "Part 3 (3)",
     "body": "(ii) the defence of Australia; or (iii) national security.\n\n27 Obligation to report following a ransomware payment\n\n(1) The reporting business entity must give the designated\n\nCommonwealth body a report (a ransomware payment report) that complies with the requirements of this section within 72 hours of making the ransomware payment or becoming aware that the ransomware payment has been made (whichever is applicable).\n\nNote: For the definition of designated Commonwealth body: see section 8.\n\n(2) The ransomware payment report must contain information relating\n\nto the following, in accordance with any requirements prescribed by the rules, that, at the time of making the report, the reporting business entity knows or is able, by reasonable search or enquiry, to find out:\n\n(a) if the reporting business entity made the payment—the\n\nreporting business entity’s contact and business details; (b) if another entity made the payment—that entity’s contact and\n\nbusiness details; (c) the cyber security incident, including its impact on the\n\nreporting business entity; (d) the demand made by the extorting entity;\n\n(e) the ransomware payment;\n\n(f) communications with the extorting entity relating to the\n\nincident, the demand and the payment.\n\n(3) The reporting business entity may include other information\n\nrelating to the cyber security incident in the ransomware payment report."
   },
   {
@@ -508,7 +508,7 @@
     "section_id": "Part 3 (4)",
     "section_name": "The ransomware payment report must be given:",
     "id_kind": "cjk_sub",
-    "parent_id": "Part 3 (2)",
+    "parent_id": "Part 3 (3)",
     "body": "(a) in the form approved by the Secretary (if any); and (b) in the manner (if any) prescribed by the rules.\n\n(5) An entity is liable to a civil penalty if the entity contravenes\n\nsubsection (1).\n\n30 Cyber Security Act 2024 No. 98, 2024"
   },
   {
@@ -516,7 +516,7 @@
     "section_id": "Section 28",
     "section_name": "Section 28",
     "id_kind": "section_word",
-    "parent_id": "Part 3 (2)",
+    "parent_id": "Part 3 (3)",
     "body": "Civil penalty: 60 penalty units.\n\n(6) Subsection 93(2) of the Regulatory Powers Act does not apply in\n\nrelation to a contravention of subsection (1) of this section.\n\n28 Liability\n\n(1) An entity is not liable to an action or other proceeding for damages\n\nfor or in relation to an act done or omitted in good faith in compliance with section 27.\n\n(2) An officer, employee or agent of an entity is not liable to an action\n\nfor damages for or in relation to an act done or omitted in good faith in connection with an act done or omitted by the entity as mentioned in subsection (1).\n\n(3) An entity that wishes to rely on subsection (1) in relation to an\n\naction or other proceeding bears an evidential burden (within the meaning of the Regulatory Powers Act) in relation to that matter.\n\nNo. 98, 2024 Cyber Security Act 2024 31"
   },
   {
@@ -524,7 +524,7 @@
     "section_id": "Section 29",
     "section_name": "Section 29",
     "id_kind": "section_word",
-    "parent_id": "Part 3 (2)",
+    "parent_id": "Part 3 (3)",
     "body": ""
   },
   {

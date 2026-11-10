@@ -7,7 +7,7 @@
 "2","Part 2 (1)","Security standards for smart devices 12","part","","Division 1—Preliminary 12 12 Simplified outline of this Part ..............................................12 13 Application of this Part ........................................................13 Division 2—Security standards for relevant connectable
 
 products 15 14 Security standards for relevant connectable products..........15 15 Compliance with security standard for a relevant connectable product..................................................................................15 16 Obligation to provide and supply products with a statement of compliance with security standard...................................17 Division 3—Enforcement 19 17 Compliance notice................................................................19 18 Stop notice............................................................................20 19 Recall notice.........................................................................21 20 Public notification of failure to comply with recall notice ..22 Division 4—Miscellaneous 23 21 Revocation and variation of notices given under this Part...23 22 Internal review of decision to give compliance, stop or recall notice....................................................................................24 23 Examination to assess compliance with security standard and statement of compliance.......................................................24 24 Acquisition of property ........................................................26"
-"2","Part 3 (1)","Ransomware reporting obligations 27","part","","No. 98, 2024 Cyber Security Act 2024 i
+"2","Part 3 (2)","Ransomware reporting obligations 27","part","","No. 98, 2024 Cyber Security Act 2024 i
 
 Division 1—Preliminary 27 25 Simplified outline of this Part ..............................................27 Division 2—Reporting obligations 28 26 Application of this Part ........................................................28 27 Obligation to report following a ransomware payment .......30 28 Liability................................................................................31 Division 3—Protection of information 32 29 Ransomware payment reports may only be used or disclosed for permitted purposes..........................................................32 30 Limitations on secondary use and disclosure of information in ransomware payment reports ...........................................33 31 Legal professional privilege.................................................36 32 Admissibility of information in ransomware payment report against reporting business entity ..........................................37"
 "2","Part 4 (1)","Coordination of significant cyber security incidents 39","part","","Division 1—Preliminary 39 33 Simplified outline of this Part ..............................................39 34 Meaning of significant cyber security incident....................39 Division 2—Voluntary information sharing with the National
@@ -853,7 +853,7 @@ This Part has no effect to the extent (if any) that its operation would result i
 
 26 Cyber Security Act 2024 No. 98, 2024"
 "3","Section 25","Section 25","section_word","Part 2 (2)",""
-"2","Part 3 (2)","Ransomware reporting obligations","part","",""
+"2","Part 3 (3)","Ransomware reporting obligations","part","",""
 "3","Ransomware reporting obligations: Division 1","Preliminary","part","","25 Simplified outline of this Part
 
 This Part imposes reporting obligations on certain entities who are impacted by a cyber security incident, and who have provided or are aware that another entity has provided, a payment or benefit (called a ransomware payment) to an entity that is seeking to benefit from the impact or the cyber security incident.
@@ -863,9 +863,9 @@ Particular information must be included in a ransomware payment report, includin
 An entity may be liable to a civil penalty if the entity fails to make a ransomware payment report as required by this Part.
 
 No. 98, 2024 Cyber Security Act 2024 27"
-"3","Ransomware reporting obligations: Part 3 Section 26 (1)","Section 26","section_word","Part 3 (2)",""
+"3","Ransomware reporting obligations: Part 3 Section 26 (1)","Section 26","section_word","Part 3 (3)",""
 "3","Ransomware reporting obligations: Division 2","Reporting obligations","part","","26 Application of this Part"
-"3","Part 3 (1)","This Part applies if:","cjk_sub","Part 3 (2)","(a) an incident has occurred, is occurring or is imminent; and (b) the incident is a cyber security incident; and
+"3","Part 3 (1)","This Part applies if:","cjk_sub","Part 3 (3)","(a) an incident has occurred, is occurring or is imminent; and (b) the incident is a cyber security incident; and
 
 (c) the incident has had, is having, or could reasonably be
 
@@ -898,7 +898,7 @@ is:
 financial year—the amount worked out in the manner prescribed by the rules; or
 
 28 Cyber Security Act 2024 No. 98, 2024"
-"3","Ransomware reporting obligations: Part 3 Section 26 (2)","Section 26","section_word","Part 3 (2)","(b) in any other case—the amount prescribed by, or worked out
+"3","Ransomware reporting obligations: Part 3 Section 26 (2)","Section 26","section_word","Part 3 (3)","(b) in any other case—the amount prescribed by, or worked out
 
 in the manner prescribed by, the rules.
 
@@ -937,7 +937,7 @@ connect to such a service; or (c) did not in fact seriously prejudice:
 people; or
 
 No. 98, 2024 Cyber Security Act 2024 29"
-"3","Section 27","Section 27","section_word","Part 3 (2)","(ii) the defence of Australia; or (iii) national security.
+"3","Section 27","Section 27","section_word","Part 3 (3)","(ii) the defence of Australia; or (iii) national security.
 
 27 Obligation to report following a ransomware payment
 
@@ -968,14 +968,14 @@ incident, the demand and the payment.
 (3) The reporting business entity may include other information
 
 relating to the cyber security incident in the ransomware payment report."
-"3","Part 3 (4)","The ransomware payment report must be given:","cjk_sub","Part 3 (2)","(a) in the form approved by the Secretary (if any); and (b) in the manner (if any) prescribed by the rules.
+"3","Part 3 (4)","The ransomware payment report must be given:","cjk_sub","Part 3 (3)","(a) in the form approved by the Secretary (if any); and (b) in the manner (if any) prescribed by the rules.
 
 (5) An entity is liable to a civil penalty if the entity contravenes
 
 subsection (1).
 
 30 Cyber Security Act 2024 No. 98, 2024"
-"3","Section 28","Section 28","section_word","Part 3 (2)","Civil penalty: 60 penalty units.
+"3","Section 28","Section 28","section_word","Part 3 (3)","Civil penalty: 60 penalty units.
 
 (6) Subsection 93(2) of the Regulatory Powers Act does not apply in
 
@@ -996,7 +996,7 @@ for damages for or in relation to an act done or omitted in good faith in connec
 action or other proceeding bears an evidential burden (within the meaning of the Regulatory Powers Act) in relation to that matter.
 
 No. 98, 2024 Cyber Security Act 2024 31"
-"3","Section 29","Section 29","section_word","Part 3 (2)",""
+"3","Section 29","Section 29","section_word","Part 3 (3)",""
 "3","Ransomware reporting obligations: Division 3","Protection of information","part","","29 Ransomware payment reports may only be used or disclosed for permitted purposes
 
 Permitted use and disclosure

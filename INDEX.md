@@ -402,7 +402,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `regulation/ontario.ca/phipa/` | structured | 5 | `M··CSP·` | `secid:regulation/ontario.ca/phipa` |
 | `regulation/oregon.gov/ocpa/` | structured | 6 | `MX·CS··` | `secid:regulation/oregon.gov/ocpa` |
 | `regulation/oregon.gov/sb-1546/` | structured | 4 | `MX·CS··` | `secid:regulation/oregon.gov/sb-1546` |
-| `regulation/parl.ca/aida/` | structured | 8 | `MX·CS··` | `secid:regulation/parl.ca/aida` |
+| `regulation/parl.ca/aida/` | structured | 7 | `MX·CS··` | `secid:regulation/parl.ca/aida` |
 | `regulation/parl.ca/bill-c-34/` | structured | 5 | `MX·CS··` | `secid:regulation/parl.ca/bill-c-34` |
 | `regulation/parl.ca/ccspa/` | structured | 5 | `MX·CS··` | `secid:regulation/parl.ca/ccspa` |
 | `regulation/parl.ca/national-security-act-2017/` | structured | 5 | `MX·CS··` | `secid:regulation/parl.ca/national-security-act-2017` |
@@ -418,7 +418,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `regulation/planalto.gov.br/eca-digital/` | structured | 4 | `MX·CS··` | `secid:regulation/planalto.gov.br/eca-digital` |
 | `regulation/planalto.gov.br/lgpd/` | structured | 6 | `M··CSP·` | `secid:regulation/planalto.gov.br/lgpd` |
 | `regulation/planalto.gov.br/marco-civil/` | structured | 4 | `MX·CS··` | `secid:regulation/planalto.gov.br/marco-civil` |
-| `regulation/ppc.go.jp/appi/` | structured | 8 | `MX·CSP·` | `secid:regulation/ppc.go.jp/appi` |
+| `regulation/ppc.go.jp/appi/` | structured | 10 | `MX·CSP·` | `secid:regulation/ppc.go.jp/appi` |
 | `regulation/priv.gc.ca/ppcda-bill-c36/` | structured | 5 | `MX·CS··` | `secid:regulation/priv.gc.ca/ppcda-bill-c36` |
 | `regulation/privacy.gov.ph/dpa/` | structured | 4 | `MX·CS··` | `secid:regulation/privacy.gov.ph/dpa` |
 | `regulation/quebec.ca/loi-25/` | structured | 5 | `M··CSP·` | `secid:regulation/quebec.ca/loi-25` |

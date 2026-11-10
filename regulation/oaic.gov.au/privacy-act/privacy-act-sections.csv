@@ -42,7 +42,7 @@ Self-repealing provisions
 
 If a provision of the compiled law has been repealed in accordance with a provision of the law, details are included in the endnotes."
 "2","","Contents","","","Part I—Preliminary 1 1 Short title .............................................................................................1 2 Commencement ..................................................................................1 2A Objects of this Act ..............................................................................1 3 Saving of certain State and Territory laws ..........................................2 3A Application of the Criminal Code ......................................................3 4 Act to bind the Crown .........................................................................3 5A Extension to external Territories .........................................................3 5B Extra-territorial operation of Act ........................................................3"
-"2","Part II (1)","Interpretation 6","part","","Division 1—General definitions 6 6 Interpretation .......................................................................................6 6AA Meaning of responsible person .........................................................34 6A Breach of an Australian Privacy Principle ........................................36 6B Breach of a registered APP code ......................................................37 6BA Breach of the registered CR code .....................................................38 6C Organisations ....................................................................................38 6D Small business and small business operators ....................................41 6DA What is the annual turnover of a business? ......................................43 6E Small business operator treated as organisation ...............................44 6EA Small business operators choosing to be treated as organisations .....................................................................................47 6F State instrumentalities etc. treated as organisations ..........................48 6FA Meaning of health information .........................................................48 6FB Meaning of health service .................................................................49 Division 2—Key definitions relating to credit reporting 51
+"2","Part II (2)","Interpretation 6","part","","Division 1—General definitions 6 6 Interpretation .......................................................................................6 6AA Meaning of responsible person .........................................................34 6A Breach of an Australian Privacy Principle ........................................36 6B Breach of a registered APP code ......................................................37 6BA Breach of the registered CR code .....................................................38 6C Organisations ....................................................................................38 6D Small business and small business operators ....................................41 6DA What is the annual turnover of a business? ......................................43 6E Small business operator treated as organisation ...............................44 6EA Small business operators choosing to be treated as organisations .....................................................................................47 6F State instrumentalities etc. treated as organisations ..........................48 6FA Meaning of health information .........................................................48 6FB Meaning of health service .................................................................49 Division 2—Key definitions relating to credit reporting 51
 
 Subdivision A—Credit provider 51 6G Meaning of credit provider ...............................................................51 6H Agents of credit providers .................................................................52 6J Securitisation arrangements etc. .......................................................53 6K Acquisition of the rights of a credit provider ....................................54
 
@@ -174,7 +174,7 @@ Compilation No. 104 Compilation date: 04/06/2026
 29 Commissioner must have due regard to the objects of the Act ......239 Division 3—Reports and information sharing by Commissioner 240 30 Reports following investigation of act or practice ..........................240 31 Report following examination of proposed law .............................242 32 Commissioner may report to the Minister if the Commissioner has monitored certain activities etc. .......................242 33 Exclusion of certain matters from reports .......................................243 33A Commissioner may share information with other authorities .........244 33B Commissioner may disclose certain information if in the public interest etc. ...........................................................................246 Division 3A—Assessments by, or at the direction of, the
 
 Commissioner 247 33C Commissioner may conduct an assessment relating to the Australian Privacy Principles etc. ...................................................247 33D Commissioner may direct an agency to give a privacy impact assessment .......................................................................................249 Division 3B—Public inquiries 251 33E Inquiries by Commissioner .............................................................251 33F Commissioner may invite submissions ..........................................252 33G Commissioner not bound by the rules of evidence .........................252 33H Commissioner’s powers ..................................................................252 33J Reporting on public inquiries .........................................................252 Division 4—Miscellaneous 254 34 Provisions relating to documents exempt under the Freedom of Information Act 1982 ..................................................................254 35 Direction where refusal or failure to amend exempt document .........................................................................................254 35A Commissioner may recognise external dispute resolution schemes ...........................................................................................256"
-"2","Part V (1)","Investigations etc. 257","part","","Division 1A—Introduction 257 36A Guide to this Part ............................................................................257 Division 1—Investigation of complaints and investigations on the
+"2","Part V (2)","Investigations etc. 257","part","","Division 1A—Introduction 257 36A Guide to this Part ............................................................................257 Division 1—Investigation of complaints and investigations on the
 
 Commissioner’s initiative 258 36 Complaints ......................................................................................258 36B Complaints relating to the data sharing scheme .............................259 37 Principal executive of agency .........................................................259 38 Conditions for making a representative complaint .........................260
 
@@ -409,7 +409,7 @@ Application"
 
 Compilation No. 104 Compilation date: 04/06/2026"
 "3","Part I Section 6","Section 6","section_word","Part I (1)",""
-"2","Part II (2)","Interpretation","part","",""
+"2","Part II (3)","Interpretation","part","",""
 "3","Interpretation: Division 1","General definitions","part","",""
 "4","Division 1 6","Interpretation","numbered","Interpretation: Division 1","(1) In this Act, unless the contrary intention appears:
 
@@ -432,7 +432,7 @@ established or appointed for a public purpose by or under a Commonwealth law, no
 6 Privacy Act 1988
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"3","Interpretation: Part II Section 6 (1)","Section 6","section_word","Part II (2)","(ca) a body (whether incorporated or not), or a tribunal,
+"3","Interpretation: Part II Section 6 (1)","Section 6","section_word","Part II (3)","(ca) a body (whether incorporated or not), or a tribunal,
 
 established for a public purpose by or under a law (other than a law providing for the incorporation of companies, societies or associations) of a State or Territory as in force in an external Territory, other than a body exempted by the Minister under subsection (5A); or (d) a body established or appointed by the Governor-General, or
 
@@ -457,7 +457,7 @@ APP code has the meaning given by section 26C.
 Privacy Act 1988 7
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"3","Interpretation: Part II Section 6 (2)","Section 6","section_word","Part II (2)","APP code developer means: (a) an APP entity; or (b) a group of APP entities; or (c) a body or association representing one or more APP entities.
+"3","Interpretation: Part II Section 6 (2)","Section 6","section_word","Part II (3)","APP code developer means: (a) an APP entity; or (b) a group of APP entities; or (c) a body or association representing one or more APP entities.
 
 APP complaint means a complaint about an act or practice that, if established, would be an interference with the privacy of an individual because it breached an Australian Privacy Principle.
 
@@ -486,7 +486,7 @@ bank means:
 8 Privacy Act 1988
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"3","Interpretation: Part II Section 6 (3)","Section 6","section_word","Part II (2)","(a) the Reserve Bank of Australia; or (b) a body corporate that is an ADI (authorised deposit-taking
+"3","Interpretation: Part II Section 6 (3)","Section 6","section_word","Part II (3)","(a) the Reserve Bank of Australia; or (b) a body corporate that is an ADI (authorised deposit-taking
 
 institution) for the purposes of the Banking Act 1959; or (c) a person who carries on State banking within the meaning of
 
@@ -521,7 +521,7 @@ Codes Register has the meaning given by subsection 26U(1).
 Privacy Act 1988 9
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"3","Interpretation: Part II Section 6 (4)","Section 6","section_word","Part II (2)","collects: an entity collects personal information only if the entity collects the personal information for inclusion in a record or generally available publication.
+"3","Interpretation: Part II Section 6 (4)","Section 6","section_word","Part II (3)","collects: an entity collects personal information only if the entity collects the personal information for inclusion in a record or generally available publication.
 
 commercial credit means credit (other than consumer credit) that is applied for by, or provided to, a person.
 
@@ -552,7 +552,7 @@ Commonwealth law means the following: (a) an Act other than: (i) the Northern Te
 10 Privacy Act 1988
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"3","Interpretation: Part II Section 6 (5)","Section 6","section_word","Part II (2)","(ii) an Act providing for the administration or government
+"3","Interpretation: Part II Section 6 (5)","Section 6","section_word","Part II (3)","(ii) an Act providing for the administration or government
 
 of an external Territory; or (iii) the Australian Capital Territory (Self-Government) Act
 
@@ -581,7 +581,7 @@ Commonwealth record has the same meaning as in the Archives Act 1983.
 Privacy Act 1988 11
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"3","Interpretation: Part II Section 6 (6)","Section 6","section_word","Part II (2)","consent means express consent or implied consent.
+"3","Interpretation: Part II Section 6 (6)","Section 6","section_word","Part II (3)","consent means express consent or implied consent.
 
 consumer credit means credit: (a) for which an application has been made by an individual to a
 
@@ -604,7 +604,7 @@ individual to the provider; or
 12 Privacy Act 1988
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"3","Interpretation: Part II Section 6 (7)","Section 6","section_word","Part II (2)","(b) collecting payments that are overdue in relation to consumer
+"3","Interpretation: Part II Section 6 (7)","Section 6","section_word","Part II (3)","(b) collecting payments that are overdue in relation to consumer
 
 credit provided by the provider to the individual.
 
@@ -635,7 +635,7 @@ capacity) or a person acting as a magistrate; or (e) a member or an officer of a
 Privacy Act 1988 13
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"3","Interpretation: Part II Section 6 (8)","Section 6","section_word","Part II (2)","and includes an order, direction or other instrument that is of an interim or interlocutory nature.
+"3","Interpretation: Part II Section 6 (8)","Section 6","section_word","Part II (3)","and includes an order, direction or other instrument that is of an interim or interlocutory nature.
 
 CP derived information about an individual means any personal information (other than sensitive information) about the individual: (a) that is derived from credit reporting information about the
 
@@ -666,7 +666,7 @@ credit card means any article of a kind commonly known as a credit card, charge 
 14 Privacy Act 1988
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"3","Interpretation: Part II Section 6 (9)","Section 6","section_word","Part II (2)","for use in obtaining goods or services from those persons by means of credit.
+"3","Interpretation: Part II Section 6 (9)","Section 6","section_word","Part II (3)","for use in obtaining goods or services from those persons by means of credit.
 
 credit eligibility information about an individual means: (a) credit reporting information about the individual that was
 
@@ -695,7 +695,7 @@ credit reporting business has the meaning given by section 6P.
 Privacy Act 1988 15
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"3","Interpretation: Part II Section 6 (10)","Section 6","section_word","Part II (2)","credit reporting complaint means a complaint about an act or practice that, if established, would be an interference with the privacy of an individual because: (a) it breached the registered CR code; or (b) it breached a provision of Part IIIA.
+"3","Interpretation: Part II Section 6 (10)","Section 6","section_word","Part II (3)","credit reporting complaint means a complaint about an act or practice that, if established, would be an interference with the privacy of an individual because: (a) it breached the registered CR code; or (b) it breached a provision of Part IIIA.
 
 credit reporting information about an individual means credit information, or CRB derived information, about the individual.
 
@@ -722,7 +722,7 @@ eligible data breach declaration means a declaration under subsection 26X(1).
 16 Privacy Act 1988
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"3","Interpretation: Part II Section 6 (11)","Section 6","section_word","Part II (2)","eligible hearing service provider means an entity (within the meaning of the Hearing Services Administration Act 1997): (a) that is, or has at any time been, engaged under Part 3 of the
+"3","Interpretation: Part II Section 6 (11)","Section 6","section_word","Part II (3)","eligible hearing service provider means an entity (within the meaning of the Hearing Services Administration Act 1997): (a) that is, or has at any time been, engaged under Part 3 of the
 
 Hearing Services Administration Act 1997 to provide hearing services; and (b) that is not covered by paragraph (a), (b), (c), (d), (e), (f), (g)
 
@@ -743,7 +743,7 @@ or (b) the ACC; or (c) Sport Integrity Australia; or (ca) the Immigration Depart
 Privacy Act 1988 17
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"3","Interpretation: Part II Section 6 (12)","Section 6","section_word","Part II (2)","(d) the Australian Prudential Regulation Authority; or (e) the Australian Securities and Investments Commission; or (ea) the Office of the Director of Public Prosecutions, or a similar
+"3","Interpretation: Part II Section 6 (12)","Section 6","section_word","Part II (3)","(d) the Australian Prudential Regulation Authority; or (e) the Australian Securities and Investments Commission; or (ea) the Office of the Director of Public Prosecutions, or a similar
 
 body established under a law of a State or Territory; or (f) another agency, to the extent that it is responsible for
 
@@ -772,7 +772,7 @@ enforcement related activity means:
 18 Privacy Act 1988
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"3","Interpretation: Part II Section 6 (13)","Section 6","section_word","Part II (2)","(a) the prevention, detection, investigation, prosecution or
+"3","Interpretation: Part II Section 6 (13)","Section 6","section_word","Part II (3)","(a) the prevention, detection, investigation, prosecution or
 
 punishment of: (i) criminal offences; or (ii) breaches of a law imposing a penalty or sanction; or (b) the conduct of surveillance activities, intelligence gathering
 
@@ -799,7 +799,7 @@ financial hardship arrangement has the meaning given by subsection 6QA(1).
 Privacy Act 1988 19
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"3","Interpretation: Part II Section 6 (14)","Section 6","section_word","Part II (2)","financial hardship information has the meaning given by subsection 6QA(4).
+"3","Interpretation: Part II Section 6 (14)","Section 6","section_word","Part II (3)","financial hardship information has the meaning given by subsection 6QA(4).
 
 foreign corporation means a foreign corporation within the meaning of paragraph 51(xx) of the Constitution.
 
@@ -824,7 +824,7 @@ guarantee includes an indemnity given against the default of a person in making 
 20 Privacy Act 1988
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"3","Interpretation: Part II Section 6 (15)","Section 6","section_word","Part II (2)","guidance related functions has the meaning given by subsection 28(1).
+"3","Interpretation: Part II Section 6 (15)","Section 6","section_word","Part II (3)","guidance related functions has the meaning given by subsection 28(1).
 
 healthcare identifier has the meaning given by the Healthcare Identifiers Act 2010.
 
@@ -857,7 +857,7 @@ driver’s licence number.
 Privacy Act 1988 21
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"3","Interpretation: Part II Section 6 (16)","Section 6","section_word","Part II (2)","identifier of an individual means a number, letter or symbol, or a combination of any or all of those things, that is used to identify the individual or to verify the identity of the individual, but does not include: (a) the individual’s name; or (b) the individual’s ABN (within the meaning of the A New Tax
+"3","Interpretation: Part II Section 6 (16)","Section 6","section_word","Part II (3)","identifier of an individual means a number, letter or symbol, or a combination of any or all of those things, that is used to identify the individual or to verify the identity of the individual, but does not include: (a) the individual’s name; or (b) the individual’s ABN (within the meaning of the A New Tax
 
 System (Australian Business Number) Act 1999); or (c) anything else prescribed by the regulations.
 
@@ -882,7 +882,7 @@ media organisation means an organisation whose activities consist of or include 
 22 Privacy Act 1988
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"3","Interpretation: Part II Section 6 (17)","Section 6","section_word","Part II (2)","(a) material having the character of news, current affairs,
+"3","Interpretation: Part II Section 6 (17)","Section 6","section_word","Part II (3)","(a) material having the character of news, current affairs,
 
 information or a documentary; (b) material consisting of commentary or opinion on, or analysis
 
@@ -913,7 +913,7 @@ might arise under a guarantee provided, or proposed to be provided, in relation 
 Privacy Act 1988 23
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"3","Interpretation: Part II Section 6 (18)","Section 6","section_word","Part II (2)","mortgage insurer means an organisation, or small business operator, that carries on a business or undertaking that involves providing insurance to credit providers in relation to mortgage credit provided by providers to other persons.
+"3","Interpretation: Part II Section 6 (18)","Section 6","section_word","Part II (3)","mortgage insurer means an organisation, or small business operator, that carries on a business or undertaking that involves providing insurance to credit providers in relation to mortgage credit provided by providers to other persons.
 
 National Credit Code has the same meaning as in the National Consumer Credit Protection Act 2009.
 
@@ -938,7 +938,7 @@ religious, philosophical, professional, trade or trade union purposes.
 24 Privacy Act 1988
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"3","Interpretation: Part II Section 6 (19)","Section 6","section_word","Part II (2)","offence against this Act includes an offence against section 6 of the Crimes Act 1914, or section 11.1, 11.2, 11.2A, 11.4 or 11.5 of the Criminal Code, that relates to an offence against this Act.
+"3","Interpretation: Part II Section 6 (19)","Section 6","section_word","Part II (3)","offence against this Act includes an offence against section 6 of the Crimes Act 1914, or section 11.1, 11.2, 11.2A, 11.4 or 11.5 of the Criminal Code, that relates to an offence against this Act.
 
 Ombudsman means the Commonwealth Ombudsman.
 
@@ -957,7 +957,7 @@ information if a notice has not been given under subsection 20U(2) or (3) in rel
 information if: (i) the credit reporting body referred to in
 
 subsection 20V(3) has been consulted about the request under subsection 21V(3); and (ii) a notice has not been given under subsection 21W(2) or"
-"3","","(3) in relation to the request.","","Part II (2)","pending dispute in relation to credit information or CRB derived information means: (a) a complaint made under section 23A that relates to the
+"3","","(3) in relation to the request.","","Part II (3)","pending dispute in relation to credit information or CRB derived information means: (a) a complaint made under section 23A that relates to the
 
 information if a decision about the complaint has not been made under subsection 23B(4); or (b) a matter that relates to the information and that is still being
 
@@ -968,7 +968,7 @@ relates to the information and that is still being dealt with.
 Privacy Act 1988 25
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"3","Interpretation: Part II Section 6 (20)","Section 6","section_word","Part II (2)","permitted CP disclosure has the meaning given by sections 21J to 21N.
+"3","Interpretation: Part II Section 6 (20)","Section 6","section_word","Part II (3)","permitted CP disclosure has the meaning given by sections 21J to 21N.
 
 permitted CP use has the meaning given by section 21H.
 
@@ -999,7 +999,7 @@ record includes: (a) a document; or (b) an electronic or other device; but does 
 26 Privacy Act 1988
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"3","Interpretation: Part II Section 6 (21)","Section 6","section_word","Part II (2)","(d) a generally available publication; or (e) anything kept in a library, art gallery or museum for the
+"3","Interpretation: Part II Section 6 (21)","Section 6","section_word","Part II (3)","(d) a generally available publication; or (e) anything kept in a library, art gallery or museum for the
 
 purposes of reference, study or exhibition; or (f) Commonwealth records as defined by subsection 3(1) of the
 
@@ -1028,7 +1028,7 @@ paragraph 21G(3)(c)—credit eligibility information disclosed to the recipient 
 Privacy Act 1988 27
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"3","Interpretation: Part II Section 6 (22)","Section 6","section_word","Part II (2)","(d) if the recipient is an entity or adviser referred to in
+"3","Interpretation: Part II Section 6 (22)","Section 6","section_word","Part II (3)","(d) if the recipient is an entity or adviser referred to in
 
 paragraph 21N(2)(a)—credit eligibility information disclosed to the recipient under subsection 21N(2).
 
@@ -1059,7 +1059,7 @@ provider; or (ii) the purchase of credit by a credit provider; by issuing instru
 28 Privacy Act 1988
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"3","Interpretation: Part II Section 6 (23)","Section 6","section_word","Part II (2)","(b) under which payments to investors in respect of such
+"3","Interpretation: Part II Section 6 (23)","Section 6","section_word","Part II (3)","(b) under which payments to investors in respect of such
 
 instruments or entitlements are principally derived, directly or indirectly, from such credit.
 
@@ -1082,7 +1082,7 @@ health information; or
 Privacy Act 1988 29
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"3","Interpretation: Part II Section 6 (24)","Section 6","section_word","Part II (2)","(d) biometric information that is to be used for the purpose of
+"3","Interpretation: Part II Section 6 (24)","Section 6","section_word","Part II (3)","(d) biometric information that is to be used for the purpose of
 
 automated biometric verification or biometric identification; or (e) biometric templates.
 
@@ -1111,7 +1111,7 @@ State includes the Australian Capital Territory and the Northern Territory.
 30 Privacy Act 1988
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"3","Interpretation: Part II Section 6 (25)","Section 6","section_word","Part II (2)","State contract means a contract, to which a State or Territory or State or Territory authority is or was a party, under which services are to be, or were to be, provided to a State or Territory authority.
+"3","Interpretation: Part II Section 6 (25)","Section 6","section_word","Part II (3)","State contract means a contract, to which a State or Territory or State or Territory authority is or was a party, under which services are to be, or were to be, provided to a State or Territory authority.
 
 Note: See also subsection (9) about provision of services to a State or Territory authority.
 
@@ -1140,7 +1140,7 @@ insurance to, a credit provider in relation to commercial
 Privacy Act 1988 31
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"3","Interpretation: Part II Section 6 (26)","Section 6","section_word","Part II (2)","credit provided by the provider to the individual or another person; or (b) the risk of a person defaulting on commercial credit in
+"3","Interpretation: Part II Section 6 (26)","Section 6","section_word","Part II (3)","credit provided by the provider to the individual or another person; or (b) the risk of a person defaulting on commercial credit in
 
 relation to which the insurer has provided insurance to a credit provider.
 
@@ -1171,7 +1171,7 @@ law of a State or Territory that applies in an external Territory, for the purpo
 32 Privacy Act 1988
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"3","Interpretation: Part II Section 6 (27)","Section 6","section_word","Part II (2)","(i) that is established by or under a Commonwealth law, or
+"3","Interpretation: Part II Section 6 (27)","Section 6","section_word","Part II (3)","(i) that is established by or under a Commonwealth law, or
 
 a law of a State or Territory that applies in an external Territory; and (ii) that is prescribed by the regulations for the purposes of
 
@@ -1220,7 +1220,7 @@ family if someone mentioned in paragraph (a) or (b) is taken to be a member of t
 (10A) For the purposes of this Act, the Supreme Court of Norfolk Island
 
 is taken not to be a federal court."
-"3","(11)","In this section:","cjk_sub","Part II (2)","child: without limiting who is a child of a person for the purposes of subsection (10), someone is the child of a person if he or she is a child of the person within the meaning of the Family Law Act 1975."
+"3","(11)","In this section:","cjk_sub","Part II (3)","child: without limiting who is a child of a person for the purposes of subsection (10), someone is the child of a person if he or she is a child of the person within the meaning of the Family Law Act 1975."
 "4","","6AA Meaning of responsible person","","(11)","(1) A responsible person for an individual is: (a) a parent of the individual; or (b) a child or sibling of the individual if the child or sibling is at
 
 least 18 years old; or (c) a spouse or de facto partner of the individual; or (d) a relative of the individual if the relative is: (i) at least 18 years old; and (ii) a member of the individual’s household; or (e) a guardian of the individual; or (f) a person exercising an enduring power of attorney granted by
@@ -1234,7 +1234,7 @@ of emergency.
 34 Privacy Act 1988
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"3","Interpretation: Part II (2) (1)","In this section:","cjk_sub","Part II (2)","Section 6AA
+"3","Interpretation: Part II (2) (1)","In this section:","cjk_sub","Part II (3)","Section 6AA
 
 child: without limiting who is a child of an individual for the purposes of subsection (1), each of the following is a child of an individual: (a) an adopted child, stepchild, exnuptial child or foster child of
 
@@ -1347,7 +1347,7 @@ Effect despite subsection (1)
 
 registered CR code if, and only if, it is contrary to, or inconsistent with, the code."
 "4","","6C Organisations","","Interpretation: Part II (2) (1)","What is an organisation?"
-"3","Part II (1)","In this Act:","cjk_sub","Part II (2)","organisation means: (a) an individual; or (b) a body corporate; or (c) a partnership; or (d) any other unincorporated association; or (e) a trust; that is not a small business operator, a registered political party, an agency, a State or Territory authority or a prescribed instrumentality of a State or Territory.
+"3","Part II (1)","In this Act:","cjk_sub","Part II (3)","organisation means: (a) an individual; or (b) a body corporate; or (c) a partnership; or (d) any other unincorporated association; or (e) a trust; that is not a small business operator, a registered political party, an agency, a State or Territory authority or a prescribed instrumentality of a State or Territory.
 
 Note 1: Under section 187LA of the Telecommunications (Interception and Access) Act 1979, service providers are, in relation to their activities relating to retained data, treated as organisations for the purposes of this Act.
 
@@ -1374,7 +1374,7 @@ Example: In addition to his or her personal capacity, an individual may be the
 trustee of one or more trusts. In his or her personal capacity, he or she is one organisation. As trustee of each trust, he or she is a different organisation.
 
 What is a State or Territory authority?"
-"3","Interpretation: Part II (3) (1)","In this Act:","cjk_sub","Part II (2)","State or Territory authority means: (a) a State or Territory Minister; or (b) a Department of State of a State or Territory; or (c) a body (whether incorporated or not), or a tribunal,
+"3","Interpretation: Part II (3) (1)","In this Act:","cjk_sub","Part II (3)","State or Territory authority means: (a) a State or Territory Minister; or (b) a Department of State of a State or Territory; or (c) a body (whether incorporated or not), or a tribunal,
 
 established or appointed for a public purpose by or under a law of a State or Territory, other than: (i) an incorporated company, society or association; or (ii) an association of employers or employees that is
 
@@ -1411,7 +1411,7 @@ collection, holding, use, correction and disclosure of personal information by t
 subparagraphs (b)(ii) and (iii).
 
 State does not include Territory"
-"3","Part II (5)","In this section:","cjk_sub","Part II (2)","State does not include the Australian Capital Territory or the Northern Territory (despite subsection 6(1)).
+"3","Part II (5)","In this section:","cjk_sub","Part II (3)","State does not include the Australian Capital Territory or the Northern Territory (despite subsection 6(1)).
 
 40 Privacy Act 1988
 
@@ -1597,7 +1597,7 @@ Note 1: The regulations may prescribe different modifications of the Act for dif
 Note 2: Regulations may prescribe an act, practice or small business operator by reference to one or more classes of acts, practices or small business operators. See subsection 13(3) of the Legislation Act 2003.
 
 Definition"
-"3","Interpretation: Part II (3) (2)","In this section:","cjk_sub","Part II (2)","protected action ballot agent means a person (other than the Australian Electoral Commission) that conducts a protected action ballot under Part 3-3 of the Fair Work Act 2009.
+"3","Interpretation: Part II (3) (2)","In this section:","cjk_sub","Part II (3)","protected action ballot agent means a person (other than the Australian Electoral Commission) that conducts a protected action ballot under Part 3-3 of the Fair Work Act 2009.
 
 Making regulations
 
@@ -1861,7 +1861,7 @@ credit eligibility information, about an individual is: (a) the individual; or (
 reporting body or credit provider; and (ii) who is authorised, in writing, by the individual to make
 
 a request in relation to the information under subsection 20R(1) or 21T(1)."
-"3","Interpretation: Part II (2) (2)","An individual must not authorise a person under","cjk_sub","Part II (2)","subparagraph (1)(b)(ii) if the person is: (a) a credit provider; or (b) a mortgage insurer; or (c) a trade insurer; or (d) a person who is prevented from being a credit provider by
+"3","Interpretation: Part II (2) (2)","An individual must not authorise a person under","cjk_sub","Part II (3)","subparagraph (1)(b)(ii) if the person is: (a) a credit provider; or (b) a mortgage insurer; or (c) a trade insurer; or (d) a person who is prevented from being a credit provider by
 
 subsection 6G(5) or (6).
 
@@ -2187,7 +2187,7 @@ monthly payment that is due and payable in relation to consumer credit; and (b) 
 Privacy Act 1988 65
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"3","Interpretation: Part II Section 7 (1)","Section 7","section_word","Part II (2)",""
+"3","Interpretation: Part II Section 7 (1)","Section 7","section_word","Part II (3)",""
 "3","Interpretation: Division 3","Other matters","part","",""
 "4","Division 3 7","Acts and practices of agencies, organisations etc.","numbered","Interpretation: Division 3","(1) Except so far as the contrary intention appears, a reference in this
 
@@ -2206,7 +2206,7 @@ court of Norfolk Island, being an act done, or a practice engaged in, in respect
 66 Privacy Act 1988
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"3","Interpretation: Part II Section 7 (2)","Section 7","section_word","Part II (2)","(c) an act done, or a practice engaged in, as the case may be, by
+"3","Interpretation: Part II Section 7 (2)","Section 7","section_word","Part II (3)","(c) an act done, or a practice engaged in, as the case may be, by
 
 an agency specified in Division 1 of Part II of Schedule 2 to the Freedom of Information Act 1982, other than an act done, or a practice engaged in, in relation to a record in relation to which the agency is exempt from the operation of that Act; or (ca) an act done, or a practice engaged in, as the case may be, by a
 
@@ -2225,7 +2225,7 @@ Minister in relation to a record that is in the Minister’s possession in his o
 Privacy Act 1988 67
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"3","Interpretation: Part II Section 7 (3)","Section 7","section_word","Part II (2)","(ee) an act done, or a practice engaged in, by an organisation,
+"3","Interpretation: Part II Section 7 (3)","Section 7","section_word","Part II (3)","(ee) an act done, or a practice engaged in, by an organisation,
 
 other than an exempt act or exempt practice (see sections 7B and 7C); but does not include a reference to an act done, or a practice engaged in, in relation to a record that has originated with, or has been received from: (f) an intelligence agency; (g) the Defence Intelligence Organisation or the Australian
 
@@ -2415,14 +2415,14 @@ Effect of subsection (4) on other operation of Act
 relation to agents or principals.
 
 Meaning of electoral law and Parliament"
-"3","Part II (6)","In this section:","cjk_sub","Part II (2)","electoral law means a law of the Commonwealth, or a law of a State or Territory, relating to elections to a Parliament or to a local government authority.
+"3","Part II (6)","In this section:","cjk_sub","Part II (3)","electoral law means a law of the Commonwealth, or a law of a State or Territory, relating to elections to a Parliament or to a local government authority.
 
 Parliament means:
 
 Privacy Act 1988 73
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"3","Interpretation: Part II Section 8 (1)","Section 8","section_word","Part II (2)","(a) the Parliament of the Commonwealth; or (b) a State Parliament; or (c) the legislature of a Territory.
+"3","Interpretation: Part II Section 8 (1)","Section 8","section_word","Part II (3)","(a) the Parliament of the Commonwealth; or (b) a State Parliament; or (c) the legislature of a Territory.
 
 Note: To avoid doubt, this section does not make exempt for the purposes of paragraph 7(1)(ee) an act or practice of the political representative, contractor, subcontractor or volunteer for a registered political party involving the use or disclosure (by way of sale or otherwise) of personal information in a way not covered by subsection (1), (2), (3) or (4) (as appropriate). The rest of this Act operates normally in relation to that act or practice.
 
@@ -2439,7 +2439,7 @@ disclosed to, a member, staff member or special member of the Australian Federal
 74 Privacy Act 1988
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"3","Interpretation: Part II Section 8 (2)","Section 8","section_word","Part II (2)","shall be treated as having been done or engaged in by, or disclosed to, the Australian Federal Police.
+"3","Interpretation: Part II Section 8 (2)","Section 8","section_word","Part II (3)","shall be treated as having been done or engaged in by, or disclosed to, the Australian Federal Police.
 
 (2) Where: (a) an act done or a practice engaged in by a person, in relation
 
@@ -2472,7 +2472,7 @@ disclosure of information) made to a trustee is taken to have been made to the o
 Privacy Act 1988 75
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"3","Section 10","Section 10","section_word","Part II (2)",""
+"3","Section 10","Section 10","section_word","Part II (3)",""
 "4","Section 10 10","Agencies that are taken to hold a record","numbered","Section 10","(4) Where: (a) a record of personal information (not being a record relating
 
 to the administration of the National Archives of Australia) is in the care (within the meaning of the Archives Act 1983) of the National Archives of Australia; or (b) a record of personal information (not being a record relating
@@ -2582,13 +2582,13 @@ to regulated entities were expressly confined to acts or practices of regulated 
 (8) This Act also has the effect it would have if its operation in relation
 
 to regulated entities were expressly confined to acts or practices of regulated entities taking place in a place acquired by the Commonwealth for public purposes."
-"3","(9)","This section does not apply to Schedule 2.","cjk_sub","Part II (2)","Note: See also clauses 4 and 5 of Schedule 2 (constitutional basis and additional operation).
+"3","(9)","This section does not apply to Schedule 2.","cjk_sub","Part II (3)","Note: See also clauses 4 and 5 of Schedule 2 (constitutional basis and additional operation).
 
 Privacy Act 1988 79
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"3","Part II Section 13","Section 13","section_word","Part II (2)",""
-"2","Part III (2)","Information privacy","part","",""
+"3","Part II Section 13","Section 13","section_word","Part II (3)",""
+"2","Part III (3)","Information privacy","part","",""
 "3","Information privacy: Division 1","Interferences with privacy","part","",""
 "4","Division 1 13","Interferences with privacy","numbered","Information privacy: Division 1","APP entities
 
@@ -2623,7 +2623,7 @@ Commonwealth contract (whether or not the organisation is a party to the contrac
 80 Privacy Act 1988
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"3","Part III Section 13","Section 13","section_word","Part III (2)","(i) an Australian Privacy Principle; or (ii) a registered APP code that binds the organisation; in relation to the personal information because of a provision
+"3","Part III Section 13","Section 13","section_word","Part III (3)","(i) an Australian Privacy Principle; or (ii) a registered APP code that binds the organisation; in relation to the personal information because of a provision
 
 of the contract that is inconsistent with the principle or code; and (d) the act is done, or the practice is engaged in, in a manner
 
@@ -2852,7 +2852,7 @@ Civil penalty provision
 (1) An entity contravenes this subsection if the entity does an act, or
 
 engages in a practice, that is an interference with the privacy of an individual."
-"3","Part III (2)","Subsection (1) is a civil penalty provision.","cjk_sub","","Note: Section 80U deals with civil penalty provisions in this Act.
+"3","Part III (2)","Subsection (1) is a civil penalty provision.","cjk_sub","Part III (3)","Note: Section 80U deals with civil penalty provisions in this Act.
 
 Maximum pecuniary penalty
 
@@ -2928,7 +2928,7 @@ contravention of subsection (1) or (2) must not exceed 200 penalty units.
 Privacy Act 1988 89
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"3","Section 14","Section 14","section_word","Part III (2)",""
+"3","Section 14","Section 14","section_word","Part III (3)",""
 "3","Information privacy: Division 2","Australian Privacy Principles","part","",""
 "4","Division 2 14","Australian Privacy Principles","numbered","Information privacy: Division 2","(1) The Australian Privacy Principles are set out in the clauses of
 
@@ -3189,7 +3189,7 @@ APP entity.
 Compilation No. 104 Compilation date: 04/06/2026
 
 Tax file number information Division 4"
-"3","Section 17","Section 17","section_word","Part III (2)",""
+"3","Section 17","Section 17","section_word","Part III (3)",""
 "3","Information privacy: Division 4","Tax file number information","part","",""
 "4","Division 4 17","Rules relating to tax file number information","numbered","Information privacy: Division 4","The Commissioner must, by legislative instrument, issue rules
 
@@ -3201,7 +3201,7 @@ that breaches a rule issued under section 17.
 Privacy Act 1988 97
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"3","Section 19","Section 19","section_word","Part III (2)",""
+"3","Section 19","Section 19","section_word","Part III (3)",""
 "2","","Part IIIA—Credit reporting","","",""
 "3","Part IIIA—Credit reporting: Division 1","Introduction","part","",""
 "4","Division 1 19","Guide to this Part","numbered","Part IIIA—Credit reporting: Division 1","In general, this Part deals with the privacy of information relating to credit reporting.
@@ -8414,9 +8414,9 @@ scheme; or (ii) the period for which the recognition is in force; or (iii) a con
 256 Privacy Act 1988
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"2","Part V (2)","Investigations etc.","part","",""
-"3","","Division 1A—Introduction","","Part V (2)",""
-"4","","36A Guide to this Part","","Part V (2)","Introduction Division 1A
+"2","Part V (3)","Investigations etc.","part","",""
+"3","","Division 1A—Introduction","","Part V (3)",""
+"4","","36A Guide to this Part","","Part V (3)","Introduction Division 1A
 
 Section 36A
 
@@ -8436,8 +8436,8 @@ Compilation No. 104 Compilation date: 04/06/2026
 
 initiative Section 36"
 "3","Investigations etc.: Division 1","Investigation of complaints and investigations","part","",""
-"3","","on the Commissioner’s initiative","","Part V (2)",""
-"4","36","Complaints","numbered","Part V (2)","(1) An individual may complain to the Commissioner about an act or
+"3","","on the Commissioner’s initiative","","Part V (3)",""
+"4","36","Complaints","numbered","Part V (3)","(1) An individual may complain to the Commissioner about an act or
 
 practice that may be an interference with the privacy of the individual.
 
@@ -8448,7 +8448,7 @@ the privacy of 2 or more individuals, any one of those individuals may make a co
 (2A) In the case of a representative complaint, this section has effect
 
 subject to section 38."
-"3","Investigations etc.: Part V (3) (1)","A complaint shall be in writing.","cjk_sub","Part V (2)","(4) It is the duty of members of the staff of the Commissioner to
+"3","Investigations etc.: Part V (3) (1)","A complaint shall be in writing.","cjk_sub","Part V (3)","(4) It is the duty of members of the staff of the Commissioner to
 
 provide appropriate assistance to a person who: (a) wishes to make a complaint; and (b) requires assistance to formulate the complaint.
 
@@ -8628,7 +8628,7 @@ with as a representative complaint if the class of persons on whose behalf the c
 Compilation No. 104 Compilation date: 04/06/2026
 
 Division 1"
-"3","Section 39","Section 39","section_word","Part V (2)","39 Class member for representative complaint not entitled to lodge individual complaint
+"3","Section 39","Section 39","section_word","Part V (3)","39 Class member for representative complaint not entitled to lodge individual complaint
 
 A person who is a class member for a representative complaint is
 
@@ -8666,7 +8666,7 @@ Privacy Act 1988 263
 Compilation No. 104 Compilation date: 04/06/2026
 
 initiative Section 40A"
-"3","Investigations etc.: Part V (3) (2)","This section has effect subject to section 41.","cjk_sub","Part V (2)",""
+"3","Investigations etc.: Part V (3) (2)","This section has effect subject to section 41.","cjk_sub","Part V (3)",""
 "4","","40A Conciliation of complaints","","Investigations etc.: Part V (3) (2)","(1) If: (a) a complaint about an act or practice is made under section 36;
 
 and (b) the Commissioner considers it is reasonably possible that the
@@ -8696,7 +8696,7 @@ of a fraud or an offence, or the commission of an act that renders a person liab
 Compilation No. 104 Compilation date: 04/06/2026
 
 Division 1"
-"3","Section 41","Section 41","section_word","Part V (2)","41 Commissioner may or must decide not to investigate etc. in certain circumstances
+"3","Section 41","Section 41","section_word","Part V (3)","41 Commissioner may or must decide not to investigate etc. in certain circumstances
 
 (1) The Commissioner may decide not to investigate, or not to
 
@@ -8761,7 +8761,7 @@ purpose of determining whether to investigate an act or practice under subsectio
 
 Compilation No. 104 Compilation date: 04/06/2026"
 "4","43","Conduct of investigations","numbered","Section 41","Division 1"
-"3","Section 43","Section 43","section_word","Part V (2)","(1) Before commencing an investigation of a matter to which a
+"3","Section 43","Section 43","section_word","Part V (3)","(1) Before commencing an investigation of a matter to which a
 
 complaint relates, the Commissioner shall inform the respondent that the matter is to be investigated.
 
@@ -8843,7 +8843,7 @@ Division may, in writing, request that the Commissioner hold a hearing before th
 Commissioner must: (a) notify any other interested party of the request; and (b) give all interested parties a reasonable opportunity to make a
 
 submission about the request; and (c) decide whether or not to hold a hearing."
-"3","Investigations etc.: Part V (3) (3)","In this section:","cjk_sub","Part V (2)","interested party in relation to an investigation means: (a) in the case of an investigation under subsection 40(1)—the
+"3","Investigations etc.: Part V (3) (3)","In this section:","cjk_sub","Part V (3)","interested party in relation to an investigation means: (a) in the case of an investigation under subsection 40(1)—the
 
 complainant or respondent; or (b) otherwise—the person or entity that engaged in the act or
 
@@ -8902,7 +8902,7 @@ person required under section 44 to attend before the Commissioner and may exami
 Compilation No. 104 Compilation date: 04/06/2026
 
 Division 1"
-"3","Section 46","Section 46","section_word","Part V (2)","(2) The oath or affirmation to be taken or made by a person for the
+"3","Section 46","Section 46","section_word","Part V (3)","(2) The oath or affirmation to be taken or made by a person for the
 
 purposes of this section is an oath or affirmation that the answers the person will give will be true."
 "4","46","Directions to persons to attend compulsory conference","numbered","Section 46","(1) For the purposes of performing the Commissioner’s functions in
@@ -8971,7 +8971,7 @@ investigate further, a matter to which a complaint relates, the Commissioner sha
 Compilation No. 104 Compilation date: 04/06/2026
 
 Division 1"
-"3","Section 49","Section 49","section_word","Part V (2)","(2) If the Commissioner decides not to investigate (at all or further) an
+"3","Section 49","Section 49","section_word","Part V (3)","(2) If the Commissioner decides not to investigate (at all or further) an
 
 act done, or practice engaged in, by a contracted service provider for the purpose of providing (directly or indirectly) a service to an agency under a Commonwealth contract, the Commissioner must also inform the agency of the decision.
 
@@ -8996,7 +8996,7 @@ under paragraph (1)(a), the Commissioner of Police or the Director of Public Pro
 (3) Upon receiving such a notice the Commissioner may continue the
 
 investigation discontinued under paragraph (1)(c)."
-"3","Investigations etc.: Part V (4) (1)","In subsection (1):","cjk_sub","Part V (2)","Privacy Act 1988 273
+"3","Investigations etc.: Part V (4) (1)","In subsection (1):","cjk_sub","Part V (3)","Privacy Act 1988 273
 
 Compilation No. 104 Compilation date: 04/06/2026
 
@@ -9056,7 +9056,7 @@ An individual is taken to have complained to the Information
 
 Commissioner under subsection 36(1) in respect of action taken by ACC, the Australian Federal Police, AUSTRAC or the Department of Home Affairs (within the meaning of the Inspector-General of Intelligence and Security Act 1986) if the Inspector-General of Intelligence and Security transfers all or part of the complaint to the Information Commissioner under section 32AG of the Inspector-General of Intelligence and Security Act 1986."
 "4","50","Reference of matters to other authorities","numbered","Investigations etc.: Part V (4) (1)",""
-"3","Part V (1)","In this Act:","cjk_sub","Part V (2)","alternative complaint body means: (a) the Australian Human Rights Commission; or (aa) the National Data Commissioner; or (b) the Ombudsman; or (ba) the eSafety Commissioner; or (c) the Postal Industry Ombudsman; or
+"3","Part V (1)","In this Act:","cjk_sub","Part V (3)","alternative complaint body means: (a) the Australian Human Rights Commission; or (aa) the National Data Commissioner; or (b) the Ombudsman; or (ba) the eSafety Commissioner; or (c) the Postal Industry Ombudsman; or
 
 Privacy Act 1988 275
 
@@ -9095,7 +9095,7 @@ have been, made by the complainant to the Australian Public Service Commissioner
 Compilation No. 104 Compilation date: 04/06/2026
 
 Division 1"
-"3","Section 50","Section 50","section_word","Part V (2)","and that that matter could be more conveniently or effectively dealt with by the alternative complaint body, the Commissioner may decide not to investigate the matter, or not to investigate the matter further, as the case may be, and, if the Commissioner so decides, he or she shall: (c) transfer the complaint to the alternative complaint body; and (d) give notice in writing to the complainant stating that the
+"3","Section 50","Section 50","section_word","Part V (3)","and that that matter could be more conveniently or effectively dealt with by the alternative complaint body, the Commissioner may decide not to investigate the matter, or not to investigate the matter further, as the case may be, and, if the Commissioner so decides, he or she shall: (c) transfer the complaint to the alternative complaint body; and (d) give notice in writing to the complainant stating that the
 
 complaint has been so transferred; and (e) give to the alternative complaint body any information or
 
@@ -9157,7 +9157,7 @@ investigate it, the Commissioner is taken to have satisfied subsection 43(1A) in
 Compilation No. 104 Compilation date: 04/06/2026
 
 Division 1"
-"3","Section 51","Section 51","section_word","Part V (2)",""
+"3","Section 51","Section 51","section_word","Part V (3)",""
 "4","51","Effect of investigation by Auditor-General","numbered","Section 51","Where the Commissioner becomes aware that a matter being
 
 investigated by the Commissioner is, or is related to, a matter that is under investigation by the Auditor-General, the Commissioner shall not, unless the Commissioner and Auditor-General agree to the contrary, continue to investigate the matter until the investigation by the Auditor-General has been completed.
@@ -9165,10 +9165,10 @@ investigated by the Commissioner is, or is related to, a matter that is under in
 Privacy Act 1988 279
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"3","Investigations etc.: Part V Section 52 (1)","Section 52","section_word","Part V (2)",""
+"3","Investigations etc.: Part V Section 52 (1)","Section 52","section_word","Part V (3)",""
 "3","Investigations etc.: Division 2","Determinations following investigation of","part","",""
-"3","","complaints","","Part V (2)",""
-"4","52","Determination of the Commissioner","numbered","Part V (2)","(1) After investigating a complaint, the Commissioner may: (a) make a determination dismissing the complaint; or (b) find the complaint substantiated and make a determination
+"3","","complaints","","Part V (3)",""
+"4","52","Determination of the Commissioner","numbered","Part V (3)","(1) After investigating a complaint, the Commissioner may: (a) make a determination dismissing the complaint; or (b) find the complaint substantiated and make a determination
 
 that includes one or more of the following: (i) a declaration: (A) where the principal executive of an agency is
 
@@ -9187,7 +9187,7 @@ specified amount by way of compensation for any loss or damage suffered by reaso
 280 Privacy Act 1988
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"3","Investigations etc.: Part V Section 52 (2)","Section 52","section_word","Part V (2)","(iv) a declaration that it would be inappropriate for any
+"3","Investigations etc.: Part V Section 52 (2)","Section 52","section_word","Part V (3)","(iv) a declaration that it would be inappropriate for any
 
 further action to be taken in the matter.
 
@@ -9220,7 +9220,7 @@ were the subject of the complaint; and
 Privacy Act 1988 281
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"3","Investigations etc.: Part V Section 52 (3)","Section 52","section_word","Part V (2)","(ii) the steps (if any) taken by the respondent to ensure that
+"3","Investigations etc.: Part V Section 52 (3)","Section 52","section_word","Part V (3)","(ii) the steps (if any) taken by the respondent to ensure that
 
 the conduct referred to in the determination is not repeated or continued; and (iii) any other matter specified in the declaration that is
 
@@ -9249,7 +9249,7 @@ determination made on a representative complaint), the Commissioner may include 
 (3A) A determination under paragraph (1)(b) or subsection (1A) may
 
 include any order that the Commissioner considers necessary or appropriate."
-"3","Investigations etc.: Part V (4) (2)","A determination by the Commissioner under","cjk_sub","Part V (2)","subparagraph (1)(b)(iii) on a representative complaint: (a) may provide for payment of specified amounts or of amounts
+"3","Investigations etc.: Part V (4) (2)","A determination by the Commissioner under","cjk_sub","Part V (3)","subparagraph (1)(b)(iii) on a representative complaint: (a) may provide for payment of specified amounts or of amounts
 
 worked out in a manner specified by the Commissioner; and
 
@@ -9262,7 +9262,7 @@ Section 52A
 (b) if the Commissioner provides for payment in accordance
 
 with paragraph (a), must make provision for the payment of the money to the complainants concerned."
-"3","Part V (5)","If the Commissioner makes a determination under","cjk_sub","Part V (2)","subparagraph (1)(b)(iii) on a representative complaint, the Commissioner may give such directions (if any) as he or she thinks just in relation to: (a) the manner in which a class member is to establish his or her
+"3","Part V (5)","If the Commissioner makes a determination under","cjk_sub","Part V (3)","subparagraph (1)(b)(iii) on a representative complaint, the Commissioner may give such directions (if any) as he or she thinks just in relation to: (a) the manner in which a class member is to establish his or her
 
 entitlement to the payment of an amount under the determination; and (b) the manner for determining any dispute regarding the
 
@@ -9271,7 +9271,7 @@ entitlement of a class member to the payment.
 (5A) The Commissioner may publish a determination made under this
 
 section on the Commissioner’s website."
-"3","Investigations etc.: Part V (6) (1)","In this section:","cjk_sub","Part V (2)","complainant, in relation to a representative complaint, means the class members.
+"3","Investigations etc.: Part V (6) (1)","In this section:","cjk_sub","Part V (3)","complainant, in relation to a representative complaint, means the class members.
 
 52A Determination—requirement to notify conduct constituting interference with privacy of individual
 
@@ -9288,7 +9288,7 @@ respondent that constitutes the interference with the privacy of an individual; 
 Privacy Act 1988 283
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"3","Section 53","Section 53","section_word","Part V (2)","(iii) the steps (if any) undertaken, or to be undertaken, by the
+"3","Section 53","Section 53","section_word","Part V (3)","(iii) the steps (if any) undertaken, or to be undertaken, by the
 
 respondent to ensure the conduct is not repeated or continued; and (iv) any other information required by the declaration to be
 
@@ -9375,12 +9375,12 @@ make oral and/or written submissions relating to the proposed determination.
 286 Privacy Act 1988
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"3","Section 54","Section 54","section_word","Part V (2)",""
+"3","Section 54","Section 54","section_word","Part V (3)",""
 "3","Investigations etc.: Division 3","Enforcement of determinations","part","",""
 "4","54","Application of Division","numbered","Investigations etc.: Division 3","(1) This Division applies to a determination made under section 52
 
 after the commencement of this Division, except where the determination applies in relation to an agency or the principal executive of an agency."
-"3","Investigations etc.: Part V (2) (1)","In this section:","cjk_sub","Part V (2)","agency does not include an eligible hearing service provider."
+"3","Investigations etc.: Part V (2) (1)","In this section:","cjk_sub","Part V (3)","agency does not include an eligible hearing service provider."
 "4","55","Obligations of organisations and small business operators","numbered","Investigations etc.: Part V (2) (1)","If the determination applies in relation to an organisation or small
 
 business operator, the organisation or operator: (a) must not repeat or continue conduct that is covered by a
@@ -9438,7 +9438,7 @@ court is to have due regard to the objects of this Act.
 288 Privacy Act 1988
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"3","Part V (8)","In this section:","cjk_sub","Part V (2)","Section 55B
+"3","Part V (8)","In this section:","cjk_sub","Part V (3)","Section 55B
 
 complainant, in relation to a representative complaint, means any of the class members."
 "4","","55B Evidentiary certificate","","Part V (8)","(1) The Commissioner may issue a written certificate setting out the
@@ -9467,11 +9467,11 @@ Compilation No. 104 Compilation date: 04/06/2026
 
 agencies Section 57"
 "3","Investigations etc.: Division 4","Review and enforcement of determinations","part","",""
-"3","","involving Commonwealth agencies","","Part V (2)",""
-"4","57","Application of Division","numbered","Part V (2)","(1) This Division applies to a determination that is made under
+"3","","involving Commonwealth agencies","","Part V (3)",""
+"4","57","Application of Division","numbered","Part V (3)","(1) This Division applies to a determination that is made under
 
 section 52 and that applies in relation to an agency or the principal executive of an agency."
-"3","Investigations etc.: Part V (2) (2)","In this section:","cjk_sub","Part V (2)","agency does not include an eligible hearing service provider."
+"3","Investigations etc.: Part V (2) (2)","In this section:","cjk_sub","Part V (3)","agency does not include an eligible hearing service provider."
 "4","58","Obligations of agencies","numbered","Investigations etc.: Part V (2) (2)","If this Division applies to a determination and the determination
 
 applies in relation to an agency, the agency: (a) must not repeat or continue conduct that is covered by a
@@ -9494,7 +9494,7 @@ Compilation No. 104 Compilation date: 04/06/2026
 Review and enforcement of determinations involving Commonwealth agencies
 
 Division 4"
-"3","Section 60","Section 60","section_word","Part V (2)","principal executive must take all such steps as are reasonably within his or her power to ensure: (a) that the terms of the determination are brought to the notice
+"3","Section 60","Section 60","section_word","Part V (3)","principal executive must take all such steps as are reasonably within his or her power to ensure: (a) that the terms of the determination are brought to the notice
 
 of all members, officers and employees of the agency whose duties are such that they may engage in conduct of the kind to which the determination relates; and (b) that no member, officer or employee of the agency repeats or
 
@@ -9512,7 +9512,7 @@ declaration of the kind referred to in subparagraph 52(1)(b)(iii), paragraph 52(
 (2) If the determination applies in relation to an agency that has the
 
 capacity to sue and be sued, the amount is recoverable as a debt due by the agency to the complainant or individual. In any other case, the amount is recoverable as a debt due by the Commonwealth to the complainant or individual."
-"3","Investigations etc.: Part V (3) (4)","In this section:","cjk_sub","Part V (2)","Privacy Act 1988 291
+"3","Investigations etc.: Part V (3) (4)","In this section:","cjk_sub","Part V (3)","Privacy Act 1988 291
 
 Compilation No. 104 Compilation date: 04/06/2026
 
@@ -9542,14 +9542,14 @@ determination under section 52 until: (a) the time has expired for making an app
 section 96 for review of the determination; or (b) if such an application is made, the decision of the
 
 Administrative Review Tribunal on the application has come into operation."
-"3","Investigations etc.: Part V (6) (2)","In this section:","cjk_sub","Part V (2)","complainant, in relation to a representative complaint, means a class member.
+"3","Investigations etc.: Part V (6) (2)","In this section:","cjk_sub","Part V (3)","complainant, in relation to a representative complaint, means a class member.
 
 292 Privacy Act 1988
 
 Compilation No. 104 Compilation date: 04/06/2026"
 "3","Investigations etc.: Division 5","Miscellaneous","part","",""
 "4","63","Legal assistance","numbered","Investigations etc.: Division 5",""
-"3","Section 63","Section 63","section_word","Part V (2)","(1) If: (a) the Commissioner has dismissed a file number complaint;
+"3","Section 63","Section 63","section_word","Part V (3)","(1) If: (a) the Commissioner has dismissed a file number complaint;
 
 and (b) the respondent to the complaint is not an agency or the
 
@@ -9576,7 +9576,7 @@ or financial assistance in respect of the proceeding as the Attorney-General det
 Privacy Act 1988 293
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"3","Section 64","Section 64","section_word","Part V (2)","(4) An authorisation under subsection (3) may be made subject to such
+"3","Section 64","Section 64","section_word","Part V (3)","(4) An authorisation under subsection (3) may be made subject to such
 
 conditions (if any) as the Attorney-General determines.
 
@@ -9606,7 +9606,7 @@ Penalty for a contravention of this subsection: Imprisonment for 12 months or 20
 
 Compilation No. 104 Compilation date: 04/06/2026"
 "4","66","Failure to give information etc.","numbered","Section 64","Basic contravention"
-"3","Investigations etc.: Part V Section 66 (1)","Section 66","section_word","Part V (2)","(1) A person contravenes this subsection if: (a) the person is required to give information, answer a question
+"3","Investigations etc.: Part V Section 66 (1)","Section 66","section_word","Part V (3)","(1) A person contravenes this subsection if: (a) the person is required to give information, answer a question
 
 or produce a document or record under this Act; and (b) the person refuses or fails to do so.
 
@@ -9641,7 +9641,7 @@ information includes an answer to a question.
 Privacy Act 1988 295
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"3","Investigations etc.: Part V Section 66 (2)","Section 66","section_word","Part V (2)","(3) Subject to subsections (4), (7) and (10), it is a reasonable excuse
+"3","Investigations etc.: Part V Section 66 (2)","Section 66","section_word","Part V (3)","(3) Subject to subsections (4), (7) and (10), it is a reasonable excuse
 
 for the purposes of subsection (1B) for an individual: (a) to refuse or fail to give information when so required under
 
@@ -9666,7 +9666,7 @@ Prosecutions, there are special reasons why, in the public interest, the informa
 296 Privacy Act 1988
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"3","Investigations etc.: Part V Section 66 (3)","Section 66","section_word","Part V (2)","(6) The Commissioner may recommend to the Director of Public
+"3","Investigations etc.: Part V Section 66 (3)","Section 66","section_word","Part V (3)","(6) The Commissioner may recommend to the Director of Public
 
 Prosecutions that an individual who has been, or is to be, required under this Act to give information or produce a document be given an undertaking under subsection (5).
 
@@ -9693,7 +9693,7 @@ State that an individual who has been, or is to be, required under this Act to g
 Privacy Act 1988 297
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"3","Section 67","Section 67","section_word","Part V (2)","(10) For the purposes of subsection (1B): (a) it is not a reasonable excuse for a body corporate to refuse or
+"3","Section 67","Section 67","section_word","Part V (3)","(10) For the purposes of subsection (1B): (a) it is not a reasonable excuse for a body corporate to refuse or
 
 fail to produce a document that production of the document might tend to incriminate the body corporate or make it liable to forfeiture or a penalty; and (b) it is not a reasonable excuse for an individual to refuse or fail
 
@@ -9714,7 +9714,7 @@ certificate certifying that the giving to the Commissioner of information concer
 298 Privacy Act 1988
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"3","Section 70","Section 70","section_word","Part V (2)","Commissioner of a specified document or other record, would be contrary to the public interest because it would: (a) prejudice the security, defence or international relations of
+"3","Section 70","Section 70","section_word","Part V (3)","Commissioner of a specified document or other record, would be contrary to the public interest because it would: (a) prejudice the security, defence or international relations of
 
 Australia; (b) involve the disclosure of communications between a Minister
 
@@ -9770,7 +9770,7 @@ an organisation, but later revokes the choice. A complaint about an act or pract
 300 Privacy Act 1988
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"3","Section 71","Section 71","section_word","Part V (2)",""
+"3","Section 71","Section 71","section_word","Part V (3)",""
 "2","Part VI (2)","Public interest determinations and","part","",""
 "2","","temporary public interest determinations","","",""
 "3","temporary public interest determinations: Division 1","Public interest determinations","part","",""
@@ -10991,17 +10991,17 @@ Privacy Act 1988 341
 
 Compilation No. 104 Compilation date: 04/06/2026"
 "3","Section 81","Section 81","section_word","",""
-"2","Part VII (1)","Privacy Advisory Committee","part","",""
-"3","81","Interpretation","numbered","Part VII (1)","In this Part, unless the contrary intention appears:
+"2","Part VII (2)","Privacy Advisory Committee","part","",""
+"3","81","Interpretation","numbered","Part VII (2)","In this Part, unless the contrary intention appears:
 
 Advisory Committee means the Privacy Advisory Committee established by subsection 82(1).
 
 member means a member of the Advisory Committee."
-"3","82","Establishment and membership","numbered","Part VII (1)",""
-"3","Part VII (1)","A Privacy Advisory Committee is established.","cjk_sub","","(2) The Advisory Committee shall consist of: (a) the Commissioner; and (aa) the Privacy Commissioner (within the meaning of the
+"3","82","Establishment and membership","numbered","Part VII (2)",""
+"3","Part VII (1)","A Privacy Advisory Committee is established.","cjk_sub","Part VII (2)","(2) The Advisory Committee shall consist of: (a) the Commissioner; and (aa) the Privacy Commissioner (within the meaning of the
 
 Australian Information Commissioner Act 2010); and (b) not more than 8 other members."
-"3","Part VII (3)","A member other than the Commissioner and Privacy","cjk_sub","Part VII (1)","Commissioner (within the meaning of that Act): (a) shall be appointed by the Governor-General; and (b) shall be appointed as a part-time member.
+"3","Part VII (3)","A member other than the Commissioner and Privacy","cjk_sub","Part VII (2)","Commissioner (within the meaning of that Act): (a) shall be appointed by the Governor-General; and (b) shall be appointed as a part-time member.
 
 (4) An appointed member holds office, subject to this Act, for such
 
@@ -11016,7 +11016,7 @@ conferred by subsection (3) that a majority of the appointed members are persons
 342 Privacy Act 1988
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"3","Section 83","Section 83","section_word","Part VII (1)","(7) Of the appointed members: (a) at least one must be a person who has had at least 5 years’
+"3","Section 83","Section 83","section_word","Part VII (2)","(7) Of the appointed members: (a) at least one must be a person who has had at least 5 years’
 
 experience at a high level in industry or commerce; and (aa) at least one must be a person who has had at least 5 years’
 
@@ -11039,7 +11039,7 @@ any) in respect of matters not provided for by this Act as are determined, in wr
 (11) The performance of a function of the Advisory Committee is not
 
 affected because of a vacancy or vacancies in the membership of the Advisory Committee."
-"3","83","Functions","numbered","Part VII (1)","The functions of the Advisory Committee are: (a) on its own initiative, or when requested by the
+"3","83","Functions","numbered","Part VII (2)","The functions of the Advisory Committee are: (a) on its own initiative, or when requested by the
 
 Commissioner, to advise the Commissioner on matters relevant to his or her functions; (b) to recommend material to the Commissioner for inclusion in
 
@@ -11048,13 +11048,13 @@ rules or guidelines to be issued by the Commissioner pursuant to his or her func
 Privacy Act 1988 343
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"3","Section 84","Section 84","section_word","Part VII (1)","(c) subject to any direction given by the Commissioner, to
+"3","Section 84","Section 84","section_word","Part VII (2)","(c) subject to any direction given by the Commissioner, to
 
 engage in and promote community education, and community consultation, in relation to the protection of individual privacy."
-"3","84","Leave of absence","numbered","Part VII (1)","The convenor may, on such terms and conditions as the convenor
+"3","84","Leave of absence","numbered","Part VII (2)","The convenor may, on such terms and conditions as the convenor
 
 thinks fit, grant to another member leave to be absent from a meeting of the Advisory Committee."
-"3","85","Removal and resignation of members","numbered","Part VII (1)","(1) The Governor-General may terminate the appointment of an
+"3","85","Removal and resignation of members","numbered","Part VII (2)","(1) The Governor-General may terminate the appointment of an
 
 appointed member for misbehaviour or physical or mental incapacity.
 
@@ -11071,19 +11071,19 @@ consecutive meetings of the Advisory Committee.
 (3) An appointed member may resign from office by delivering a
 
 signed notice of resignation to the Governor-General."
-"3","86","Disclosure of interests of members","numbered","Part VII (1)","(1) A member who has a direct or indirect pecuniary interest in a
+"3","86","Disclosure of interests of members","numbered","Part VII (2)","(1) A member who has a direct or indirect pecuniary interest in a
 
 matter being considered or about to be considered by the Advisory Committee, being an interest that could conflict with the proper performance of that member’s functions in relation to the consideration of the matter, shall, as soon as practicable after the
 
 344 Privacy Act 1988
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"3","Section 87","Section 87","section_word","Part VII (1)","relevant facts have come to the knowledge of that member, disclose the nature of that interest at a meeting of the Advisory Committee.
+"3","Section 87","Section 87","section_word","Part VII (2)","relevant facts have come to the knowledge of that member, disclose the nature of that interest at a meeting of the Advisory Committee.
 
 (2) A disclosure under subsection (1) at a meeting of the Advisory
 
 Committee shall be recorded in the minutes of the meeting."
-"3","87","Meetings of Advisory Committee","numbered","Part VII (1)","(1) The convenor may convene such meetings of the Advisory
+"3","87","Meetings of Advisory Committee","numbered","Part VII (2)","(1) The convenor may convene such meetings of the Advisory
 
 Committee as the convenor considers necessary for the performance of the Committee’s functions.
 
@@ -11106,7 +11106,7 @@ members present and voting; and (c) the person presiding has a deliberative vote
 of an equality of votes, also has a casting vote.
 
 (6) The Advisory Committee shall keep a record of its proceedings."
-"3","88","Travel allowance","numbered","Part VII (1)","An appointed member is entitled to be paid travelling allowance in
+"3","88","Travel allowance","numbered","Part VII (2)","An appointed member is entitled to be paid travelling allowance in
 
 accordance with the regulations.
 
@@ -11172,16 +11172,16 @@ Privacy Act 1988 347
 Compilation No. 104 Compilation date: 04/06/2026
 
 Section 94A"
-"2","Part IX (1)","Miscellaneous","part","",""
-"3","","94A Schedule 2","","Part IX (1)",""
-"3","Part IX (1)","Schedule 2 has effect.","cjk_sub","","(2) In determining the meaning of an expression used in a provision of
+"2","Part IX (2)","Miscellaneous","part","",""
+"3","","94A Schedule 2","","Part IX (2)",""
+"3","Part IX (1)","Schedule 2 has effect.","cjk_sub","Part IX (2)","(2) In determining the meaning of an expression used in a provision of
 
 this Act (other than Schedule 2), an expression used in Schedule 2 is to be disregarded.
 
 (3) In determining the meaning of a provision of this Act (other than
 
 Schedule 2), Schedule 2 is to be disregarded."
-"3","95","Medical research guidelines","numbered","Part IX (1)","(1) The CEO of the National Health and Medical Research Council
+"3","95","Medical research guidelines","numbered","Part IX (2)","(1) The CEO of the National Health and Medical Research Council
 
 may, with the approval of the Commissioner, issue guidelines for the protection of privacy by agencies in the conduct of medical research.
 
@@ -11262,7 +11262,7 @@ Approving guidelines for use and disclosure
 (2) For the purposes of paragraph 16B(4)(c), the Commissioner may,
 
 by legislative instrument, approve guidelines that relate to the use and disclosure of genetic information for the purposes of lessening or preventing a serious threat to the life, health or safety of an individual who is a genetic relative of the individual to whom the genetic information relates."
-"3","","95B Requirements for Commonwealth contracts","","Part IX (1)","(1) This section requires an agency entering into a Commonwealth
+"3","","95B Requirements for Commonwealth contracts","","Part IX (2)","(1) This section requires an agency entering into a Commonwealth
 
 contract to take contractual measures to ensure that a contracted service provider for the contract does not do an act, or engage in a
 
@@ -11291,10 +11291,10 @@ contract; or (b) any agency; for the purposes (whether direct or indirect) of th
 (5) This section applies whether the agency is entering into the
 
 Commonwealth contract on behalf of the Commonwealth or in the agency’s own right."
-"3","","95C Disclosure of certain provisions of Commonwealth contracts","","Part IX (1)","If a person asks a party to a Commonwealth contract to be
+"3","","95C Disclosure of certain provisions of Commonwealth contracts","","Part IX (2)","If a person asks a party to a Commonwealth contract to be
 
 informed of the content of provisions (if any) of the contract that are inconsistent with a registered APP code binding a party to the contract or with an Australian Privacy Principle, the party requested must inform the person in writing of that content (if any)."
-"3","96","Review by the Administrative Review Tribunal","numbered","Part IX (1)","(1) An application may be made to the Administrative Review
+"3","96","Review by the Administrative Review Tribunal","numbered","Part IX (2)","(1) An application may be made to the Administrative Review
 
 Tribunal for review of the following decisions of the Commissioner: (a) a decision under subsection 26H(1) not to register an APP
 
@@ -11303,7 +11303,7 @@ code developed by an APP code developer;
 Privacy Act 1988 351
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"3","Section 96","Section 96","section_word","Part IX (1)","(b) a decision under subsection 26S(1) not to register a CR code
+"3","Section 96","Section 96","section_word","Part IX (2)","(b) a decision under subsection 26S(1) not to register a CR code
 
 developed by a CR code developer; (ba) a decision under subsection 26WQ(7) to refuse an application
 
@@ -11348,7 +11348,7 @@ Section 98A
 (3) An application under paragraph (1)(b) may only be made by the
 
 CR code developer that developed the CR code."
-"3","","98A Treatment of partnerships","","Part IX (1)","(1) If, apart from this subsection, this Act would impose an obligation
+"3","","98A Treatment of partnerships","","Part IX (2)","(1) If, apart from this subsection, this Act would impose an obligation
 
 on a partnership, the obligation is imposed instead on each partner but may be discharged by any of the partners.
 
@@ -11369,7 +11369,7 @@ contravention of the provision concerned; or (b) knows of those circumstances bu
 to correct the contravention as soon as possible after the partner becomes aware of those circumstances.
 
 Note: In criminal proceedings, a defendant bears an evidential burden in relation to the matters in subsection (4) (see subsection 13.3(3) of the Criminal Code)."
-"3","","98B Treatment of unincorporated associations","","Part IX (1)","(1) If, apart from this subsection, this Act would impose an obligation
+"3","","98B Treatment of unincorporated associations","","Part IX (2)","(1) If, apart from this subsection, this Act would impose an obligation
 
 on an unincorporated association, the obligation is imposed instead on each member of the association’s committee of management but may be discharged by any of the members.
 
@@ -11398,7 +11398,7 @@ contravention of the provision concerned; or (b) knows of those circumstances bu
 to correct the contravention as soon as possible after the member becomes aware of those circumstances.
 
 Note: In criminal proceedings, a defendant bears an evidential burden in relation to the matters in subsection (4) (see subsection 13.3(3) of the Criminal Code)."
-"3","","98C Treatment of trusts","","Part IX (1)","(1) If, apart from this subsection, this Act would impose an obligation
+"3","","98C Treatment of trusts","","Part IX (2)","(1) If, apart from this subsection, this Act would impose an obligation
 
 on a trust, the obligation is imposed instead on each trustee of the trust but may be discharged by any of the trustees.
 
@@ -11427,7 +11427,7 @@ contravention of the provision concerned; or (b) knows of those circumstances bu
 to correct the contravention as soon as possible after the trustee becomes aware of those circumstances.
 
 Note: In criminal proceedings, a defendant bears an evidential burden in relation to the matters in subsection (4) (see subsection 13.3(3) of the Criminal Code)."
-"3","","99A Conduct of directors, employees and agents","","Part IX (1)","(1) Where, in proceedings for an offence against this Act or for a civil
+"3","","99A Conduct of directors, employees and agents","","Part IX (2)","(1) Where, in proceedings for an offence against this Act or for a civil
 
 penalty order under the Regulatory Powers Act (as it applies in relation to the civil penalty provisions of this Act), it is necessary to establish the state of mind of a body corporate in relation to particular conduct, it is sufficient to show: (a) that the conduct was engaged in by a director, employee or
 
@@ -11474,12 +11474,12 @@ includes a reference to a constituent member of a body corporate
 356 Privacy Act 1988
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"3","Miscellaneous: Part IX Section 100 (1)","Section 100","section_word","Part IX (1)","incorporated for a public purpose by a law of the Commonwealth, of a State or of a Territory.
+"3","Miscellaneous: Part IX Section 100 (1)","Section 100","section_word","Part IX (2)","incorporated for a public purpose by a law of the Commonwealth, of a State or of a Territory.
 
 (8) A reference in this section to engaging in conduct includes a
 
 reference to failing or refusing to engage in conduct."
-"3","100","Regulations","numbered","Part IX (1)","(1) The Governor-General may make regulations, not inconsistent with
+"3","100","Regulations","numbered","Part IX (2)","(1) The Governor-General may make regulations, not inconsistent with
 
 this Act, prescribing matters: (a) required or permitted by this Act to be prescribed; or (b) necessary or convenient to be prescribed for carrying out or
 
@@ -11508,7 +11508,7 @@ Australian Privacy Principle 9.3 prescribing a government related identifier, an
 Privacy Act 1988 357
 
 Compilation No. 104 Compilation date: 04/06/2026"
-"3","Miscellaneous: Part IX Section 100 (2)","Section 100","section_word","Part IX (1)","(a) the relevant agency or State or Territory authority or, if the
+"3","Miscellaneous: Part IX Section 100 (2)","Section 100","section_word","Part IX (2)","(a) the relevant agency or State or Territory authority or, if the
 
 relevant agency or State or Territory authority has a principal executive, the principal executive: (i) has agreed that the adoption, use or disclosure of the
 
@@ -13786,7 +13786,7 @@ am No 128, 2024
 s 5B ................................................. ad No 155, 2000
 
 am No 49, 2004; No 197, 2012; No 83, 2022; No 128, 2024"
-"2","Part II (3)","Part II","part","","Division 1
+"2","Part II (4)","Part II","part","","Division 1
 
 Division 1 heading .......................... ad No 197, 2012
 
@@ -13943,7 +13943,7 @@ s 12B ............................................... ad No 155, 2000
 Endnote 4—Amendment history
 
 am No 8, 2010; No 197, 2012; No 128, 2024"
-"2","Part III (3)","Part III","part","","Division 1
+"2","Part III (4)","Part III","part","","Division 1
 
 Division 1 heading .......................... ad No 155, 2000
 
@@ -14822,7 +14822,7 @@ Division 4
 s 34 .................................................. am Nos 51 and 139, 2010; No 177 and 197, 2012; No 59, 2015
 
 s 35A ............................................... ad No 197, 2012"
-"2","Part V (3)","Part V","part","",""
+"2","Part V (4)","Part V","part","",""
 "2","","Part V heading ................................ rs No 197, 2012","","","Division 1A
 
 Division 1A ..................................... ad No 197, 2012
@@ -15288,7 +15288,7 @@ rep No 124, 2017
 s 80ZG ............................................ ad No 197, 2012
 
 rep No 124, 2017"
-"2","Part VII (2)","Part VII","part","","Endnote 4—Amendment history
+"2","Part VII (4)","Part VII","part","","Endnote 4—Amendment history
 
 s 82 .................................................. am No 159, 2001; No 197, 2012
 
@@ -15424,7 +15424,7 @@ rep No 44, 2020
 s 94ZD ............................................ ad No 44, 2020
 
 rep No 44, 2020"
-"2","Part IX (2)","Part IX","part","","s 94A ............................................... ad No 128, 2024
+"2","Part IX (3)","Part IX","part","","s 94A ............................................... ad No 128, 2024
 
 Endnote 4—Amendment history
 

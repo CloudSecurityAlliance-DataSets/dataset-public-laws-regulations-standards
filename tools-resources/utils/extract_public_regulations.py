@@ -77,7 +77,7 @@ REGULATION_URL_OVERRIDES: dict[str, list[str]] = {
         "https://www.legislation.gov.au/C2018A00029/latest/downloads",
     ],
     "homeaffairs.gov.au/cirmp-rules": [
-        "https://www.legislation.gov.au/F2023L00485/latest/downloads",
+        "https://www.legislation.gov.au/F2023L00112/latest/downloads",
     ],
     "homeaffairs.gov.au/cyber-security-act-2024": [
         "https://www.legislation.gov.au/C2024A00098/latest/downloads",
@@ -140,6 +140,9 @@ REGULATION_URL_OVERRIDES: dict[str, list[str]] = {
     ],
     "nebraska.gov/lb-525": [
         "https://nebraskalegislature.gov/FloorDocs/109/PDF/Intro/LB525.pdf",
+    ],
+    "nebraska.gov/ndpa": [
+        "https://nebraskalegislature.gov/FloorDocs/108/PDF/Slip/LB1074.pdf",
     ],
     "vermont.gov/vdpa": [
         "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/S-0071/S-0071%20As%20Introduced.pdf",
@@ -331,7 +334,7 @@ def parse_uk_clml_xml(xml_bytes: bytes, doc_title: str) -> str:
                 lines.append(p_line)
                 lines.append("")
 
-    body = root.find("leg:Body", ns)
+    body = root.find(".//leg:Body", ns)
     if body is not None:
         parts = body.findall("leg:Part", ns)
         if parts:
@@ -358,7 +361,7 @@ def parse_uk_clml_xml(xml_bytes: bytes, doc_title: str) -> str:
             for p1g in body.findall(".//leg:P1group", ns):
                 _emit_p1group(p1g, "Section", "##")
 
-    schedules = root.find("leg:Schedules", ns)
+    schedules = root.find(".//leg:Schedules", ns)
     if schedules is not None:
         for sched in schedules.findall("leg:Schedule", ns):
             s_num = " ".join("".join(sched.find("leg:Number", ns).itertext()).split()) if sched.find("leg:Number", ns) is not None else ""
@@ -516,7 +519,7 @@ def promote_multilingual_statute_headings(md: str, doc_title: str) -> str:
             out.append(f"## {s_clean}")
         elif re.match(r"^第\s*[一二三四五六七八九十百千0-9０-９]+\s*[节節]\b", s_clean) and len(s_clean) < 120:
             out.append(f"### {s_clean}")
-        elif m_cjk_art := re.match(r"^(第\s*[一二三四五六七八九十百千0-9０-９]+(?:\s*[-之の]\s*[一二三四五六七八九十0-9０-９]+)?\s*[条條])(?:[\s　]+(.+))?$", s_clean):
+        elif m_cjk_art := re.match(r"^(第\s*[一二三四五六七八九十百千0-9０-９]+(?:\s*[-之の]\s*[一二三四五六七八九十0-9０-９]+)*\s*[条條](?:\s*[のノ之\-]\s*[一二三四五六七八九十百千0-9０-９]+)*)(?:[\s　]+(.+))?$", s_clean):
             art_id = re.sub(r"\s+", "", m_cjk_art.group(1))
             rest = (m_cjk_art.group(2) or "").strip()
             out.append(f"### {art_id}")
@@ -952,6 +955,20 @@ def fetch_and_convert_regulation(rel_slug: str, orig_url: str, doc_title: str) -
     return "", "", ""
 
 
+def derive_verified_published_date(*texts: str) -> str:
+    """Extract a verified 4-digit year (1970..2029) or YYYY-MM-DD date from name/url/title/description, or return empty string."""
+    for t in texts:
+        if not t:
+            continue
+        m_iso = re.search(r"\b(19[7-9]\d|20[0-2]\d)-(0[1-9]|1[0-2])-(0[1-9]|[12]\d|3[01])\b", t)
+        if m_iso:
+            return m_iso.group(0)
+        m_yr = re.search(r"(?:^|[^0-9])(19[7-9]\d|20[0-2]\d)(?:[^0-9]|$)", t)
+        if m_yr:
+            return f"{m_yr.group(1)}-01-01"
+    return ""
+
+
 def collect_unextracted_regulations() -> list[dict]:
     """Collect all match_nodes in SecID/registry/regulation/ not yet extracted in dataset-public/regulation/."""
     existing_dirs = {
@@ -1006,7 +1023,7 @@ def collect_unextracted_regulations() -> list[dict]:
                 "subtype": subtype,
                 "description": desc,
                 "url": url,
-                "published": derive_published_date(name),
+                "published": derive_verified_published_date(name, url, title, desc),
             })
     return items
 

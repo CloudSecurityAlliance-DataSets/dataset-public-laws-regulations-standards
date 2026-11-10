@@ -44,7 +44,7 @@ ID_PATTERNS = [
     (re.compile(r"^(第\s*[一二三四五六七八九十百千0-9０-９]+\s*[章篇编部編])\s*[:\.\-–—　]?\s*(.*)$"), "chapter"),
     (re.compile(r"^(第[一二三四五六七八九十百千0-9０-９]+)[\s　]+(.+)$"), "chapter"),
     (re.compile(r"^(第\s*[一二三四五六七八九十百千0-9０-９]+\s*[节節])\s*[:\.\-–—　]?\s*(.*)$"), "part"),
-    (re.compile(r"^((?:附則(?:（[^）]+）)?\s*)?第\s*[一二三四五六七八九十百千0-9０-９]+(?:\s*[-之の]\s*[一二三四五六七八九十0-9０-９]+)?\s*[条條])\s*[:\.\-–—　]?\s*(.*)$"), "section_word"),
+    (re.compile(r"^((?:附則(?:（[^）]+）)?\s*)?第\s*[一二三四五六七八九十百千0-9０-９]+(?:\s*[-之の]\s*[一二三四五六七八九十0-9０-９]+)*\s*[条條](?:\s*[のノ之\-]\s*[一二三四五六七八九十百千0-9０-９]+)*)\s*[:\.\-–—　]?\s*(.*)$"), "section_word"),
     # Korean chapter/section/article markers: "제1장 총칙", "제1절 ...", "제1조(목적)", "제1조의2"
     (re.compile(r"^(제\s*\d+\s*[장편])\s*[:\.\-–—]?\s*(.*)$"), "chapter"),
     (re.compile(r"^(제\s*\d+\s*절)\s*[:\.\-–—]?\s*(.*)$"), "part"),
@@ -65,7 +65,7 @@ ID_PATTERNS = [
     # Annex / Appendix / Schedule A / 1 / I: Title
     (re.compile(r"^((?:Annex|Annexe|Anexo|Anhang|Bijlage|Appendix|Schedule)\s+(?:[A-Z]|\d+|[IVXLCDM]+))\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "annex"),
     # Standalone identifiers without trailing title (e.g., "Principle 1", "Appendix A", "Section 2-501", "17940.", "1367.01.", "§ 1", "附則", "附則（...）")
-    (re.compile(r"^(§+\s*\d+[\dA-Za-z\.\-]*|\d{3,5}[A-Za-z]?(?:\.\d+(?:\.\d+)?)?|附則(?:（[^）]+）)?|(?:Division|Title|Titre|Subtitle|Subchapter|Pillar|Pilier|Pilar|Pijler|Part|Partie|Parte|Teil|Chapter|Chapitre|Cap[ií]tulo|Kapitel|Глава|Раздел|Розділ|Section|Sec\.|Article|Art[ií]culo|Artigo|Art\.|Annex|Appendix|Schedule|Principle|Goal|Objetivo|(?:Strategic\s+)?Priority|Stratejik\s+Öncelik|L[ií]nea\s+de\s+acci[oó]n|Line\s+of\s+action|Objective|Finding|Recommendation|(?:附則(?:（[^）]+）)?\s*)?第[一二三四五六七八九十百千0-9０-９]+[章篇编部編节節条條](?:の[一二三四五六七八九十0-9０-９]+)?)\s*(?:[IVXLCDM]+(?:er)?|\([ivxlcdm]+\)|(?:[LRD]\.?\s*)?\d+(?:er|[A-Za-z])?(?:[\.\-–]\d+[A-Za-z]?)*[º°]?|\(\d+\)|[A-Z]|One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten)?)\.?$", re.IGNORECASE), "standalone_id"),
+    (re.compile(r"^(§+\s*\d+[\dA-Za-z\.\-]*|\d{3,5}[A-Za-z]?(?:\.\d+(?:\.\d+)?)?|附則(?:（[^）]+）)?|(?:Division|Title|Titre|Subtitle|Subchapter|Pillar|Pilier|Pilar|Pijler|Part|Partie|Parte|Teil|Chapter|Chapitre|Cap[ií]tulo|Kapitel|Глава|Раздел|Розділ|Section|Sec\.|Article|Art[ií]culo|Artigo|Art\.|Annex|Appendix|Schedule|Principle|Goal|Objetivo|(?:Strategic\s+)?Priority|Stratejik\s+Öncelik|L[ií]nea\s+de\s+acci[oó]n|Line\s+of\s+action|Objective|Finding|Recommendation|(?:附則(?:（[^）]+）)?\s*)?第[一二三四五六七八九十百千0-9０-９]+[章篇编部編节節条條](?:[のノ之\-][一二三四五六七八九十百千0-9０-９]+)*)\s*(?:[IVXLCDM]+(?:er)?|\([ivxlcdm]+\)|(?:[LRD]\.?\s*)?\d+(?:er|[A-Za-z])?(?:[\.\-–]\d+[A-Za-z]?)*[º°]?|\(\d+\)|[A-Z]|One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten)?)\.?$", re.IGNORECASE), "standalone_id"),
     # Roman-numeral dotted subsection: "I.1 Title" / "II.10 Title"
     (re.compile(r"^([IVX]{1,4}\.\d{1,2})\.?\s*[:\-–—]?\s+(.+)$"), "numbered"),
     # Roman numeral section: "I. Introduction" / "II. Our Vision" / "I Purpose" / "II Japan's National Interests"
@@ -124,7 +124,7 @@ def parse_heading(text: str):
                 low_sid = sid_val.lower()
                 if re.match(r"^(?:§+|\d{3,5})", low_sid):
                     kind = "statute"
-                elif re.match(r"^(?:section|sec\.|article|art[ií]culo|artigo|art\.)\b", low_sid) or re.search(r"[条條](?:の[一二三四五六七八九十0-9０-９]+)?$", sid_val):
+                elif re.match(r"^(?:section|sec\.|article|art[ií]culo|artigo|art\.)\b", low_sid) or re.search(r"[条條](?:[のノ之\-][一二三四五六七八九十百千0-9０-９]+)*$", sid_val):
                     kind = "section_word"
                 elif re.match(r"^(?:subchapter|chapter|chapitre|cap[ií]tulo|kapitel|глава)\b", low_sid) or sid_val.startswith("附則") or re.search(r"[章篇编部編]$", sid_val):
                     kind = "chapter"
@@ -426,12 +426,19 @@ def main():
         id_counts2 = Counter(r["section_id"] for r in rows if r["section_id"])
         still_dup2 = {sid for sid, cnt in id_counts2.items() if cnt > 1}
         if still_dup2:
+            used_ids = {r["section_id"] for r in rows if r["section_id"] and r["section_id"] not in still_dup2}
             seen_occ: dict[str, int] = {}
             for r in rows:
                 sid = r["section_id"]
                 if sid in still_dup2:
-                    seen_occ[sid] = seen_occ.get(sid, 0) + 1
-                    r["section_id"] = f"{sid} ({seen_occ[sid]})"
+                    occ = seen_occ.get(sid, 0) + 1
+                    cand = f"{sid} ({occ})"
+                    while cand in used_ids or cand in still_dup2:
+                        occ += 1
+                        cand = f"{sid} ({occ})"
+                    seen_occ[sid] = occ
+                    used_ids.add(cand)
+                    r["section_id"] = cand
             for r in rows:
                 if r["_parent_row_idx"] is not None:
                     r["parent_id"] = rows[r["_parent_row_idx"]]["section_id"]

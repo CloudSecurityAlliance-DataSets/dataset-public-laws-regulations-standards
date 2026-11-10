@@ -38,7 +38,7 @@
       "-layout"
     ],
     "force_ocr": false,
-    "notes": "No English translation exists yet. Acquired the Japanese table of contents and chapter/article structure (12 chapters, articles through 82+) via a Playwright browser session rendering e-Gov's JS single-page app -- plain curl/WebFetch got only the empty app shell (800 bytes). Full article body text not yet extracted, only the structural TOC."
+    "notes": "Extracted official regulation () to Markdown (17,553 chars). Parsed 67 sections (66 with explicit section identifiers)."
   },
   "extraction_history": [
     {
