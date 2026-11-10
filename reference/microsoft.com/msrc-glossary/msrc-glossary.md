@@ -538,5 +538,5 @@ Zero-Day: A zero-day vulnerability is a security flaw in software, hardware, or 
 
 ## Zero-Day Exploits
 
-Often released in response to zero-day exploits, which are vulnerabilities that are actively being exploited before the vendor becomes aware of them Start of ADDITIONAL DEBUG INFO ** cv.html ** CVToken: CASMicrosoftCV1d2e63ba.2 End of ADDITIONAL DEBUG INFO Start of ADDITIONAL DEBUG INFO ** uhftemplate.html ** CVToken: CASMicrosoftCV1d2e63ba.2 End of ADDITIONAL DEBUG INFO
+Often released in response to zero-day exploits, which are vulnerabilities that are actively being exploited before the vendor becomes aware of them
 

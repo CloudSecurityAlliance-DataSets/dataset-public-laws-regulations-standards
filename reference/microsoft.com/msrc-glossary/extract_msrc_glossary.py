@@ -22,7 +22,7 @@ import re
 from pathlib import Path
 
 import requests
-from bs4 import BeautifulSoup, NavigableString
+from bs4 import BeautifulSoup, Comment, NavigableString
 
 SOURCE_URL = "https://www.microsoft.com/en-us/msrc/glossary"
 OUT_DIR = Path(__file__).parent
@@ -66,8 +66,7 @@ def parse(html):
             if getattr(el, "name", None) in ("h1", "h2", "h3", "h4"):
                 break
             if isinstance(el, NavigableString):
-                parent_name = getattr(el.parent, "name", None)
-                if parent_name == "div":
+                if not isinstance(el, Comment) and el.parent is h4.parent and getattr(el.parent, "name", None) == "div":
                     txt = squish(str(el))
                     if txt:
                         parts.append(txt)

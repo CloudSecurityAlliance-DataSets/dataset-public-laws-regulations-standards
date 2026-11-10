@@ -1,7 +1,7 @@
-# Cloudflare SSL/TLS Glossary
+# Ssl Glossary
 
-Source: https://developers.cloudflare.com/ssl/glossary/
-Markdown alternate (used by the extractor): https://developers.cloudflare.com/ssl/glossary/index.md
+Source: https://developers.cloudflare.com/ssl/keyless-ssl/glossary/
+Markdown alternate (used by the extractor): https://developers.cloudflare.com/ssl/keyless-ssl/glossary/index.md
 
 License: LicenseRef-Vendor-Copyright (Cloudflare, Inc.; internal CSA use only — not redistributable).
 
