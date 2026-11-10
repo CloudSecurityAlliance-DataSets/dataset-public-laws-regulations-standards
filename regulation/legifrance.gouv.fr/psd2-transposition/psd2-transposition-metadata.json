@@ -1,0 +1,48 @@
+{
+  "secid": "secid:regulation/legifrance.gouv.fr/psd2-transposition",
+  "name": "Ordonnance n° 2017-1252 du 9 août 2017 + Code monétaire et financier articles L.521-1 et seq.",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "psd2-transposition",
+  "owner": "Légifrance (French government legal publisher)",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "French transposition of PSD2 into the CMF. Supervised by ACPR.",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by Légifrance (French government legal publisher) (legifrance.gouv.fr) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within Légifrance (French government legal publisher) (legifrance.gouv.fr).",
+  "license": {
+    "spdx": "LicenseRef-Government-Work",
+    "Grouping": "Government-Work",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": true,
+    "license_text_url": "https://legifrance.gouv.fr/",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document for legifrance.gouv.fr is acquired and verified against jurisdiction copyright terms). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document for legifrance.gouv.fr is acquired and verified against jurisdiction copyright terms). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000035384810",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:regulation/legifrance.gouv.fr/psd2-transposition (https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000035384810) is not directly downloadable (upstream portal root URL only, SPA/WAF barrier, or pending publication); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

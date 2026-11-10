@@ -1,0 +1,63 @@
+{
+  "secid": "secid:regulation/coe.int/cets-225",
+  "name": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law (CETS No. 225, Vilnius, 5 September 2024)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "cets-225",
+  "owner": "Council of Europe (Treaty Office)",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Council of Europe Framework Convention on Artificial Intelligence and Human Rights, Democracy and the Rule of Law (CETS No. 225, Vilnius, 5 September 2024)",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by Council of Europe (Treaty Office) (coe.int) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within Council of Europe (Treaty Office) (coe.int).",
+  "license": {
+    "spdx": "LicenseRef-All-Rights-Reserved",
+    "Grouping": "Proprietary / All Rights Reserved",
+    "redistribution": "prohibited",
+    "derivatives": "prohibited",
+    "publicly_redistributable": true,
+    "license_text_url": null,
+    "note": "International intergovernmental organization publication (coe.int); copyright retained by issuing organization. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
+    "notes": "International intergovernmental organization publication (coe.int); copyright retained by issuing organization. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=225",
+    "textUsed": "https://rm.coe.int/1680a49dab",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official regulation (https://rm.coe.int/1680a49dab) to Markdown (65,208 chars). Parsed 37 sections (34 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  }
+}

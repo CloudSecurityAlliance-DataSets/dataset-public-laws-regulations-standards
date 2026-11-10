@@ -1,0 +1,48 @@
+{
+  "secid": "secid:regulation/gov.uk/critical-third-parties-regime",
+  "name": "Operational Resilience: Critical Third Parties to the UK Financial Sector",
+  "acronym": "CTP Regime",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "critical-third-parties-regime",
+  "owner": "United Kingdom Government",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Joint rules from the Bank of England, Prudential Regulation Authority (PRA), and Financial Conduct Authority (FCA), under powers granted by the Financial Services and Markets Act 2023. Designates and regulates systemically important third-party service providers (cloud/tech vendors) to UK financial firms — operational resilience, incident notification, and testing requirements.",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by United Kingdom Government (gov.uk) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within United Kingdom Government (gov.uk).",
+  "license": {
+    "spdx": "OGL-UK-3.0",
+    "Grouping": "Permissive",
+    "redistribution": "yes",
+    "derivatives": "yes",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "note": "Crown copyright; licensed under the Open Government Licence v3.0.",
+    "notes": "Crown copyright; licensed under the Open Government Licence v3.0."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.bankofengland.co.uk/prudential-regulation/publication/2024/november/operational-resilience-critical-third-parties-uk-financial-sector-ps",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:regulation/gov.uk/critical-third-parties-regime (https://www.bankofengland.co.uk/prudential-regulation/publication/2024/november/operational-resilience-critical-third-parties-uk-financial-sector-ps) is not directly downloadable (upstream portal root URL only, SPA/WAF barrier, or pending publication); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

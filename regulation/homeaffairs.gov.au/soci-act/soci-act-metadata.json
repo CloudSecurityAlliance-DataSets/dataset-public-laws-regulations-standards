@@ -1,0 +1,63 @@
+{
+  "secid": "secid:regulation/homeaffairs.gov.au/soci-act",
+  "name": "Security of Critical Infrastructure Act 2018",
+  "acronym": "SOCI Act",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "soci-act",
+  "owner": "Department of Home Affairs",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Establishes obligations for owners/operators of critical infrastructure assets across 11 sectors — asset registration, mandatory cyber incident reporting, and enhanced government assistance powers.",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by Department of Home Affairs (homeaffairs.gov.au) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within Department of Home Affairs (homeaffairs.gov.au).",
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "Grouping": "Permissive",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
+    "publicly_redistributable": true,
+    "license_text_url": "https://creativecommons.org/licenses/by/4.0/",
+    "note": "Commonwealth of Australia copyright (homeaffairs.gov.au); licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).",
+    "notes": "Commonwealth of Australia copyright (homeaffairs.gov.au); licensed under Creative Commons Attribution 4.0 International (CC BY 4.0)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.legislation.gov.au/C2018A00029/latest/text",
+    "textUsed": "https://www.legislation.gov.au/C2018A00029/2026-06-04/2026-06-04/text/1/pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2026-06-04",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official regulation (https://www.legislation.gov.au/C2018A00029/2026-06-04/2026-06-04/text/1/pdf) to Markdown (404,562 chars). Parsed 358 sections (193 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  }
+}

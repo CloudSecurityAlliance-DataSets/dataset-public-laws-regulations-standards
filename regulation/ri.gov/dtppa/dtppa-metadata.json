@@ -1,0 +1,63 @@
+{
+  "secid": "secid:regulation/ri.gov/dtppa",
+  "name": "Rhode Island Data Transparency and Privacy Protection Act",
+  "acronym": "DTPPA",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "dtppa",
+  "owner": "State of Rhode Island",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Rhode Island's comprehensive consumer privacy law. H 7787 / S 2500 (2024), effective January 1 2026.",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by State of Rhode Island (ri.gov) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within State of Rhode Island (ri.gov).",
+  "license": {
+    "spdx": "CC0-1.0",
+    "Grouping": "Public Domain",
+    "redistribution": "yes",
+    "derivatives": "yes",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.usa.gov/government-works",
+    "note": "United States Government work (17 U.S.C. § 105); in the public domain worldwide.",
+    "notes": "United States Government work (17 U.S.C. § 105); in the public domain worldwide."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://webserver.rilegislature.gov/BillText24/HouseText24/H7787A.htm",
+    "textUsed": "https://webserver.rilegislature.gov/BillText24/HouseText24/H7787A.htm",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official regulation (https://webserver.rilegislature.gov/BillText24/HouseText24/H7787A.htm) to Markdown (48,350 chars). Parsed 14 sections (3 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  }
+}

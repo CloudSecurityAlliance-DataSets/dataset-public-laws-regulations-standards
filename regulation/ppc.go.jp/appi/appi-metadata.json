@@ -2,7 +2,10 @@
   "secid": "secid:regulation/ppc.go.jp/appi",
   "name": "Act on the Protection of Personal Information",
   "acronym": "APPI",
-  "alternate_names": ["Personal Information Protection Act", "PIPA (informal, ambiguous with Korea's PIPA)"],
+  "alternate_names": [
+    "Personal Information Protection Act",
+    "PIPA (informal, ambiguous with Korea's PIPA)"
+  ],
   "version": "",
   "publication_id": "appi",
   "owner": "Personal Information Protection Commission, Japan (PPC)",
@@ -39,7 +42,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": null,
-    "notes": "2026-07-16 rewrite of extract_appi.py: the original parser looked for article titles as text following \"Article N\" on the same line, but this translation's parenthetical titles (e.g. \"(Purpose)\") actually PRECEDE \"Article N\" on the prior line — this misalignment corrupted both the title field (truncated first line of body, not a title) and the content field (missing its first line). Rewritten to search backward from each \"Article N\" marker for the nearest preceding \"(...)\" heading. Also recovered: (a) the regex previously required \"Article N\" to be the only text on its line, missing every article whose body starts on the same line or that's prefixed with a markdown \"- \" bullet (this covers most of Chapter VII, Arts 82-88); (b) \"Article 2\" (Definitions) never appears as literal text in the marker output — a source-extraction/OCR gap, not a regex bug — recovered by manual insertion: Chapter I's table of contents states it spans \"Articles 1 to 3\", Article 1 is Purpose and Article 3 is Overall Vision (both present with correct numbers), so the \"(Definition)\" block between them is Article 2 by elimination."
+    "notes": "Extracted official regulation (https://www.ppc.go.jp/en/legal/ (English translation PDF, exact revision date not marked on the PDF itself)) to Markdown (123,082 chars). Parsed 45 sections (38 with explicit section identifiers)."
   },
   "extraction_history": [
     {
@@ -64,7 +67,25 @@
   "scope": {
     "total_articles_in_act": 88,
     "articles_extracted": 81,
-    "known_gaps": [7, 18, 23, 27, 28, 30, 36, 42, 44, 53, 58, 59, 63, 68, 71, 76, 87],
+    "known_gaps": [
+      7,
+      18,
+      23,
+      27,
+      28,
+      30,
+      36,
+      42,
+      44,
+      53,
+      58,
+      59,
+      63,
+      68,
+      71,
+      76,
+      87
+    ],
     "notes": "17 article numbers are missing from this extraction. Some (e.g. 58 vs the '58-2' through '58-5' supplementary articles that ARE present) may be legitimately absent/renumbered in this consolidated text; others (e.g. Article 87, a joint-liability clause whose text appears unmarked as sub-paragraphs under Article 86 in the source markdown — the same kind of OCR/marker gap that affected Article 2) are extraction gaps, not law gaps. Not yet individually verified article-by-article against the official japaneselawtranslation.go.jp text (blocked by that site's bot protection returning HTTP 403 to both WebFetch and curl; would need a JS-capable browser fetch — see TODO.md)."
   },
   "notes": "Article-level SecID subpaths added 2026-07-16 for the 81 recovered articles (registry/regulation/jp/go/ppc.json)."

@@ -78,7 +78,12 @@ def main():
             total += 1
             rel = derive_registry_path(sid)
             if rel and not (registry / rel).exists():
-                missing[rel].append((sid, str(p.relative_to(repo)), repo.name))
+                # Also support path-scoped namespaces like gov.br/gsi -> regulation/br/gov/gsi.json
+                parts = sid[len("secid:"):].split("/", 2)
+                sub_ns = parts[2].split("/", 1)[0] if len(parts) == 3 and "/" in parts[2] else ""
+                sub_rel = f"{rel[:-5]}/{sub_ns}.json" if sub_ns and rel.endswith(".json") else ""
+                if not (sub_rel and (registry / sub_rel).exists()):
+                    missing[rel].append((sid, str(p.relative_to(repo)), repo.name))
 
     print(f"Scanned: {total} metadata files")
     print(f"Missing namespaces: {len(missing)}")

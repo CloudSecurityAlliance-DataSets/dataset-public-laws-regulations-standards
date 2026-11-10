@@ -1,0 +1,1450 @@
+[
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "Projeto de Lei nº 2338, de 2023 — Marco Legal da Inteligência Artificial",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Dispde sobre o desenvolvimento, o fomento\ne 0 uso ético e responsavel da inteligéncia\nartificial com base na centralidade da\npessoa humana.\nO Congresso Nacional decreta:"
+  },
+  {
+    "depth": 3,
+    "section_id": "CAPITULO I",
+    "section_name": "DISPOSICOES PRELIMINARES",
+    "id_kind": "chapter",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 1°",
+    "section_name": "Art. 1°",
+    "id_kind": "section_word",
+    "parent_id": "CAPITULO I",
+    "body": "Esta Lei estabelece normas gerais de carater nacional para a governanga\nresponsavel de sistemas de inteligéncia artificial (IA) no Brasil, com o objetivo de proteger\nos direitos fundamentais, estimular a inovacdo responsavel e a competitividade e garantir a\nimplementagao de sistemas seguros e confidveis, em beneficio da pessoa humana, do regime\ndemocratico e do desenvolvimento social, cientifico, tecnolégico e econdmico."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 1° Esta Lei no se aplica ao sistema de IA:",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "I — utilizado por pessoa natural para fim exclusivamente particular e nao\necondmico;\nII — desenvolvido e utilizado unica e exclusivamente para fins de defesa nacional;\nUl — utilizado em atividades de investigagéo, pesquisa, testagem e\ndesenvolvimento de sistemas, aplicagdes ou modelos de IA antes de serem colocados em\ncirculagao no mercado ou colocados em servi¢go, sendo observadas para as referidas atividades\na legislacdo aplicavel, em especial a Lei n° 8.078, de 11 de setembro de 1990 (Codigo de\nDefesa do Consumidor), a Lei n° 13.709, de 14 de agosto de 2018 (Lei Geral de Protegao de\nDados Pessoais), a Lei n° 6.938, de 31 de agosto de 1981 (Politica Nacional do Meio\nAmbiente), e a Lei n° 9.610, de 19 de fevereiro de 1998 (Lei dos Direitos Autorais), devendo\na testagem em condi¢6es reais observar o disposto nesta Lei;\nIV — utilizado em servigos que se limitem ao provimento de infraestrutura de\narmazenamento e transporte de dados empregados em sistemas de IA."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 2° A fim de promover o desenvolvimento tecnolégico nacional, o Sistema",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Nacional de Regulac&o e Governanga de Inteligéncia Artificial (SIA) regulamentara regimes\nsimplificados, envolvendo flexibilizagao de obrigagdes regulatorias previstas nesta Lei, nos\nseguintes casos:\n\nI — padrGes e formatos abertos e livres, com excegio daqueles considerados de alto\nriSco;\nII — incentivo a inovag¢do e a pesquisa cientifica e tecnolégica no ambiente\nprodutivo, com vistas 4 capacitacéo tecnolégica, ao alcance da autonomia tecnoldgica e ao\ndesenvolvimento do sistema produtivo nacional e regional do Pais;\nIII — projetos de interesse ptiblico, os que atendam as prioridades das politicas\nindustrial e de ciéncia, tecnologia e inovagéo e os que visem a solugao dos problemas\nbrasileiros."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 2°",
+    "section_name": "Art. 2°",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "O desenvolvimento, a implementagao e o uso de sistema de IA no Brasil\ntém como fundamentos:\nI — centralidade da pessoa humana;\nII — respeito e promogao aos direitos humanos e aos valores democraticos;\nIII — livre desenvolvimento da personalidade e liberdade de expressAo;\nIV — protegio ao meio ambiente e ao desenvolvimento ecologicamente\nequilibrado;\nV — igualdade, nao discrimina¢Ao, pluralidade e diversidade;\nVI — direitos sociais, em especial a valoriza¢Ao do trabalho humano;\nVII — desenvolvimento socioeconémico, cientifico e tecnoldgico e inovacao;\nVII — defesa do consumidor, livre iniciativa e livre concorréncia;\nIX — privacidade, protegao de dados pessoais e autodeterminacdo informativa;\nX — promog¢ao da pesquisa e do desenvolvimento com a finalidade de estimular o\ndesenvolvimento social, a redugdo de desigualdades e a inova¢4o nos setores produtivos, no\npoder publico e as parcerias publico-privadas;\nXI — acesso a informacdo e a dissemina¢&o de dados, de forma aberta, estruturada\ne segura;\nXII — protegdo de direitos culturais e promogfo dos bens artisticos e histéricos;\nXIII — educag&o e conscientizacéo sobre os sistemas de IA para a promogado do\npleno desenvolvimento e do exercicio da cidadania;\nXIV — protegao e promogao de direitos de grupos vulneraveis, em especial de\nidosos, pessoas com deficiéncia e, com protecdo integral e visando ao melhor interesse, de\ncriangas e adolescentes, reconhecendo a vulnerabilidade agravada;\nXV — integridade da informacio mediante a protecio e a promogdo da\nconfiabilidade, da preciséo e da consisténcia das informagdes para o fortalecimento da\nliberdade de expressdo, do acesso a informagéo e dos demais direitos fundamentais;\nXVI — fortalecimento do processo democratico e do pluralismo politico;\nXVII — protegao de direitos de autor e conexos, de direitos de propriedade\nintelectual e do segredo comercial e industrial;\nXVIII — garantia da seguranga da informacao e da seguranga cibernética;\nXIX — insercao, integracéo e competitividade brasileira no mercado internacional;\nXX — coopera¢4o internacional para o desenvolvimento e o atendimento a padrées\ntécnicos e a regimes de obrigag6es nacionais e internacionais."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 3°",
+    "section_name": "Art. 3°",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "O desenvolvimento, a implementag4o e 0 uso de sistemas de IA observarao\na boa-fé e os seguintes principios:\nI — crescimento inclusivo, desenvolvimento sustentavel e bem-estar, incluindo a\nproteco do trabalho e do trabalhador;\nII — autodeterminagfo e liberdade de decis&o e de escolha;\nIII — supervisdo e determina¢gao humana efetiva e adequada no ciclo de vida da IA,\nconsiderando o grau de risco envolvido;\nIV — nao discriminacdo ilicita ou abusiva;\nV —justi¢ga, equidade e incluso;\nVI — transparéncia e explicabilidade, observado 0 segredo comercial e industrial.\nconsiderada a participagao de cada agente na cadeia de valor de IA;\nVII — diligéncia devida e auditabilidade ao longo de todo 0 ciclo de vida do sistema\nde IA, de acordo com o risco envolvido e 0 estado da arte do desenvolvimento tecnoldgico;\nVIII — confiabilidade e robustez do sistema de IA;\nIX — protegao dos direitos e garantias fundamentais, incluindo 0 devido processo\nlegal, a contestabilidade e o contraditério;\nX — prestagdo de contas, responsabilizag4o e reparacao integral de danos;\nXI — preven¢fo, precaucao e mitigagao de riscos e danos;\nXII — nao maleficéncia e proporcionalidade entre os métodos empregados e as\nfinalidades determinadas e legitimas do sistema de IA;\nXII — desenvolvimento e uso ético e responsavel da IA;\nXIV — governanga transparente, participativa e orientada a protecdo de direitos\nfundamentais individuais, sociais, coletivos e econémicos;\nXV — promogio da interoperabilidade de sistemas de IA para permitir acesso mais\namplo e inovacdo colaborativa;\nXVI — possibilidade e condig&o de utilizac&o de sistemas e tecnologias com\nsegurancga e autonomia por pessoas com deficiéncia, garantida a plena acessibilidade a\ninformacdo e a comunicagao;\nXVII — protecdo integral das criangas e dos adolescentes."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 4°",
+    "section_name": "Art. 4°",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "Para os fins desta Lei, adotam-se as seguintes definig6es:\nI — sistema de inteligéncia artificial (IA): sistema baseado em maquina que, com\ngraus diferentes de autonomia e para objetivos explicitos ou implicitos, infere, a partir de um\nconjunto de dados ou informagées que recebe, como gerar resultados, em especial previsao,\ncontetido, recomendacdo ou decisdo que possa influenciar o ambiente virtual, fisico ou real;\nIl — ciclo de vida: série de fases, desde a concepcao, planejamento,\ndesenvolvimento, treinamento, retreinamento, testagem, validagéo, implantagéo e\nmonitoramento, para eventuais modificagdes e adaptagdes de um sistema de IA, cuja\ndescontinuidade pode ocorrer em quaisquer das etapas referidas,\nIII — sistema de inteligéncia artificial de propdsito geral (SIAPG): sistema de IA\nbaseado em modelo de IA treinado com bases de dados em grande escala, capaz de realizar\nampla variedade de tarefas distintas e servir diferentes finalidades, incluindo aquelas para as\n\nquais nao foram especificamente desenvolvidos e treinados, podendo ser integrado em\ndiversos sistemas ou aplica¢ées;\nIV — inteligéncia artificial generativa (IA generativa): modelo de IA\nespecificamente destinado a gerar ou modificar significativamente, com diferentes graus de\nautonomia, texto, imagens, audio, video ou cddigo de software;\nV — desenvolvedor: pessoa natural ou juridica, de natureza publica ou privada, que\ndesenvolva sistema de IA, diretamente ou por encomenda, com vistas a sua colocag4o no\nmercado ou a sua aplicagaéo em servico por ela fornecido, sob seu proprio nome ou marca, a\ntitulo oneroso ou gratuito;\nVI — distribuidor: pessoa natural ou juridica, de natureza publica ou privada, que\ndisponibilize e distribua sistema de IA para que terceiro o aplique, a titulo oneroso ou gratuito;\nVII — aplicador: pessoa natural ou juridica, de natureza publica ou privada, que\nempregue ou utilize, em seu nome ou beneficio, sistema de IA, inclusive configurando,\nmantendo ou apoiando com o fornecimento de dados para a operagéo e o monitoramento do\nsistema de IA;\nVIII — agentes de inteligéncia artificial: desenvolvedores, distribuidores e\naplicadores que atuem na cadeia de valor e na governanga interna de sistemas de IA, nos\ntermos definidos por regulamento;\nIX — autoridade competente: entidade da administragao publica federal, dotada de\nautonomia técnica e deciséria, que coordenara o Sistema Nacional de Regulacdo e\nGovernang¢a de Inteligéncia Artificial (SIA);\nX — Sistema Nacional de Regulacdo e Governanga de Inteligéncia Artificial (SIA):\necossistema regulatério coordenado pela autoridade competente que tem por finalidade\nprecipua promover e garantir a cooperagao e a harmonizacéo com as demais autoridades\nsetoriais e entes reguladores, sem vinculo de subordinagdo hierarquica entre eles, e outros\nsistemas nacionais para a plena implementagao e fiscalizagdéo do cumprimento desta Lei em\ntodo o territério nacional, com seguranga juridica;\nXI — discrimina¢do abusiva ou ilicita: qualquer distingao, exclusdo, restri¢ao ou\npreferéncia, em qualquer drea da vida publica ou privada, cujo propésito ou efeito seja anular\nou restringir, de forma abusiva ou ilicita, o reconhecimento, 0 gozo ou 0 exercicio, em\ncondicgdes de igualdade, de um ou mais direitos ou liberdades previstos no ordenamento\njuridico, em raz&o de caracteristicas pessoais;\nXII — discrimina¢do indireta abusiva ou ilicita: discriminagao que ocorre quando\nnormativa, pratica ou critério aparentemente neutro tem a capacidade de acarretar\ndesvantagem para pessoa ou grupos afetados, ou os coloquem em desvantagem, desde que\nessa normativa, pratica ou critério seja abusivo ou ilicito;\nXIII — mineracao de textos e dados: processo de extrag&o e andlise de grandes\nquantidades de dados, com alto grau de automacao, realizado de forma direta nos dados\nprimarios, ou indireta por meio de outra ferramenta, a partir dos quais sdo extraidos padroes\ne correlagdes que gerarao informagées relevantes para a pesquisa, o desenvolvimento ou a\nutilizagao de sistemas de IA;\n\nXIV — pessoa ou grupo afetado: pessoa natural ou grupo de pessoas que seja direta\nou indiretamente impactado por sistema de IA;\nXV — avaliacéo preliminar: processo simplificado de autoavaliagao, anterior a\nutilizagéo ou colocacgéo no mercado de um ou mais sistemas de JA, para classificagao de seu\ngrau de risco, com 0 objetivo de determinar o cumprimento das obriga¢ées definidas nesta\nLei;\nXVI — avaliacgéo de impacto algoritmico: analise do impacto sobre os direitos\nfundamentais, apresentando medidas preventivas, mitigadoras e de reversao dos impactos\nnegativos, bem como medidas potencializadoras dos impactos positivos de um sistema de IA;\nXVII — vulnerabilidade: estado de assimetria agravada de informagao ou de poder\nque afeta pessoas naturais ou grupos em razao, entre outras, de suas condi¢des cognitivas,\nsociais, étnicas, econdmicas e etarias, a exemplo de criancas e adolescentes, idosos e pessoas\ncom deficiéncia;\nXVIII — ambiente regulatério experimental (sandbox regulatorio): conjunto de\ncondigées especiais estabelecidas para desenvolver, treinar, validar e testar, por tempo\nlimitado, um sistema de IA inovador, bem como modelos de negécio e politicas publicas\ninovadoras e técnicas e tecnologias experimentais que envolvam IA, mediante o cumprimento\nde critérios e de limites previamente estabelecidos e por meio de procedimento facilitado;\nXIX — estado da arte do desenvolvimento tecnolégico: meios técnicos razoaveis e\ndisponiveis, baseado em evidéncias cientificas, tecnolégicas e boas praticas consolidadas;\nXX — efeitos juridicos relevantes: consequéncias juridicas modificativas,\nimpeditivas ou extintivas negativas que atingem direitos e liberdades fundamentais;\nXXI —contetidos sintéticos: informacgées, tais como imagens, videos, audio e texto,\nque foram significativamente modificadas ou geradas por sistemas de IA;\nXXII — integridade da informacao: resultado de um ecossistema informacional que\nviabiliza e disponibiliza informagdes e conhecimento confiaveis, diversos e precisos, em\ntempo habil para promog¢4o da liberdade de expressao;\nXXIII — identificagdéo biométrica: método que envolve o reconhecimento de\ncaracteristicas fisicas, fisioldgicas e comportamentais humanas, com o proposito de\nidentificar um individuo;\nXXIV — autenticacAo biométrica: processo de verificacgdéo ou confirmagao da\nidentidade de um individuo, com o objetivo de singulariza-lo, por meio da comparagao de\nsuas caracteristicas biométricas obtidas a partir de um modelo previamente armazenado;\nXXV — introducdo ou colocagéo em circulagéo no mercado: disponibilizagao\ninicial ou introducdo para usuarios do sistema de IA, a titulo oneroso ou gratuito;\nXXVI — autoridades setoriais: 6rgfos e entidades do Poder Executivo federal\nresponsaveis pela regulagdo de setores especificos da atividade econdmica e governamental,\nconforme sua competéncia legal;\nXXVII — sistemas de armas aut6nomas (SAA): sistemas que, uma vez ativados,\npodem selecionar e atacar alvos sem intervengdo humana adicional;\nXXVIII — interface de programac4o de aplicaga&o (API): conjunto de protocolos e\nfungdes que permitem que diferentes sistemas interajam entre si;\n\nXXIX — contexto de uso: utilizag&o especifica a qual é destinado o sistema ou\naplicagdo de IA, incluindo o sistema a ser utilizado, 0 contexto e a finalidade especificos e\nsuas condi¢ées de utilizacaéo;\nXXX — risco sistémico: potenciais efeitos adversos negativos decorrentes de um\nsistema de IA de propdsito geral e generativa com impacto significativo sobre direitos\nfundamentais individuais e sociais."
+  },
+  {
+    "depth": 3,
+    "section_id": "CAPITULO II",
+    "section_name": "DOS DIREITOS",
+    "id_kind": "chapter",
+    "parent_id": "",
+    "body": "Secao I\nDos Direitos da Pessoa ou Grupo Afetado por Sistema de IA"
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 5°",
+    "section_name": "Art. 5°",
+    "id_kind": "section_word",
+    "parent_id": "CAPITULO II",
+    "body": "A pessoa ou grupo afetado por sistema de IA, independentemente do seu\ngrau de risco, tem os seguintes direitos, a serem exercidos na forma e nas condi¢ées descritas\nneste Capitulo:\nI — direito 4 informacgao quanto as suas interagdes com sistemas de IA, de forma\nacessivel, gratuita e de facil compreensao, inclusive sobre carater automatizado da interacdo,\nexceto nos casos em que se trate de sistemas de IA dedicados unica e exclusivamente a\nciberseguranga e a ciberdefesa, conforme regulamento;\nII — direito 4 privacidade e a protegfo de dados pessoais, em especial os direitos\ndos titulares de dados nos termos da Lei n° 13.709, de 14 de agosto de 2018 (Lei Geral de\nProteg4o de Dados Pessoais), e da legislagao pertinente;\nIJ — direito 4 nao discriminagao ilicita ou abusiva e a correga&o de vieses\ndiscriminatérios ilegais ou abusivos, sejam eles diretos ou indiretos."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 1° A informagio referida no inciso I do caput deste artigo sera fornecida com o",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "uso de icones ou simbolos uniformizados facilmente reconheciveis, sem prejuizo de outros\nformatos."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 2° Os sistemas de IA que se destinem a grupos vulneraveis deverdo, em todas as",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "etapas de seu ciclo de vida, ser transparentes e adotar linguagem simples, clara e apropriada\na idade e a capacidade cognitiva, e ser implementados considerando o melhor interesse desses\ngrupos.\nSecao II\nDos Direitos da Pessoa ou Grupo Afetado por Sistema de IA de Alto Risco"
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 6°",
+    "section_name": "Art. 6°",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "A pessoa ou grupo afetado por sistema de IA de alto risco tem os seguintes\ndireitos:\nI — direito 4 explicagdo sobre a decisdo, a recomendagao ou a previsdo feitas pelo\nsistema;\nII — direito de contestar e de solicitar a revisdo de decisdes, recomenda¢des ou\nprevisGes de sistema de IA;\n\nIII — direito a revisio humana das decisGées, levando-se em conta 0 contexto, 0 risco\ne o estado da arte do desenvolvimento tecnoldgico."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 1° A explicagao referida no inciso I do caput deste artigo, respeitado o segredo",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "comercial e industrial, incluira informagées suficientes, adequadas e inteligiveis, nos termos\nde regulamento."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 2° Os direitos previstos nesta Secao sero implementados considerando 0 estado",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "da arte do desenvolvimento tecnolégico, devendo o agente do sistema de IA de alto risco\nsempre implementar medidas eficazes e proporcionais."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 7°",
+    "section_name": "Art. 7°",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "O direito 4 explicagdo previsto nesta Seco ser4 fornecido por processo\ngratuito, em linguagem simples, acessivel e adequada que facilite 4 pessoa compreender o\nresultado da decisdéo ou previséo em questo, dentro de um prazo razoavel, a depender da\ncomplexidade do sistema de IA e do numero de agentes envolvidos.\nParagrafo unico. A autoridade competente disciplinara prazos e procedimentos\npara o exercicio do direito 4 explicagao, incluindo procedimento simplificado, considerando,\nentre outros, os seguintes critérios:\nI —acomplexidade dos sistemas de IA;\nII — 0 porte do agente, em especial no caso de micro e pequenas empresas e\nstartups."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 8°",
+    "section_name": "Art. 8°",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "A supervisao humana de sistemas de IA de alto risco buscara prevenir ou\nminimizar os riscos para direitos e liberdades das pessoas ou grupos afetados que possam\ndecorrer de seu uso normal ou de seu uso em condicées de utilizagéo indevida razoavelmente\nprevisiveis, viabilizando que as pessoas responsaveis pela supervisdo humana possam, nos\ntermos de regulamento, compreender, interpretar, decidir e intervir nos sistemas de IA, bem\ncomo priorizar o gerenciamento de riscos e impactos irreversiveis.\nParagrafo unico. A supervisaéo humana n4o sera exigida caso sua implementa¢ado\nseja comprovadamente impossivel ou implique esforg¢o desproporcional, hipdteses em que 0\nagente do sistema de IA de alto risco implementara medidas alternativas eficazes."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 9°",
+    "section_name": "Art. 9°",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "Os agentes de IA de alto risco informardo, de forma suficiente, objetiva,\nclara e acessivel, os procedimentos necessarios para 0 exercicio dos direitos descritos neste\nCapitulo."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 10",
+    "section_name": "Art. 10",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "A autoridade competente estabelecera, no que couber e sempre em\ncooperac4o institucional formal com as autoridades setoriais do SIA, diretrizes gerais sobre a\nforma e as condigées de exercicio de direitos perante cada um dos agentes de sistema de IA."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 11",
+    "section_name": "Art. 11",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "A defesa dos interesses e dos direitos previstos nesta Lei podera ser\nexercida:\nI — perante o 6rgao administrativo competente;\nII — em juizo, individual ou coletivamente, na forma do disposto na legislagao\npertinente acerca dos instrumentos de tutela individual. coletiva e difusa."
+  },
+  {
+    "depth": 3,
+    "section_id": "CAPITULO III",
+    "section_name": "DA CATEGORIZACAO DOS RISCOS",
+    "id_kind": "chapter",
+    "parent_id": "",
+    "body": "Secdo I\nDa Avaliacao Preliminar"
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 12",
+    "section_name": "Art. 12",
+    "id_kind": "section_word",
+    "parent_id": "CAPITULO III",
+    "body": "Antes de sua introdug4o e circulagdéo no mercado, emprego ou utilizacao,\no agente de JA podera realizar avaliacao preliminar para determinar o grau de risco do sistema,\nbaseando-se nos critérios previstos neste Capitulo, de acordo com o estado da arte do\ndesenvolvimento tecnoldgico."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 1° A realizacao da avaliacdo preliminar sera considerada como medida de boa",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "pratica e podera resultar em beneficios para o agente de JA para fins do disposto no art. 50,"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 1°, podendo, inclusive, receber tratamento prioritario em procedimentos para avaliacfo de",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "conformidade, nos termos do art. 34, ambos desta Lei."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 2° Cabera a autoridade setorial definir as hipdteses em que a avaliacado preliminar",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "sera simplificada ou dispensada, observadas as normas gerais da autoridade competente."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 3° O agente podera requerer junto aos demais agentes dos sistemas de JA",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "informagGes que 0 capacitem a efetuar avaliagao preliminar, nos termos desta Lei, respeitados\nos segredos comercial e industrial."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 4° Garantidos 0 contraditorio e a ampla defesa, a autoridade competente podera,",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "em colaboracdo com as autoridades setoriais do SIA, determinar a reclassificagao do sistema\nde JA, mediante notificacgéo prévia, bem como determinar, de forma fundamentada, a\nrealizacdo de avaliagao de impacto algoritmico."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 5° O resultado da avaliacdo preliminar podera ser utilizado pelo agente de IA",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "para demonstrar conformidade com os requisitos de seguranga, transparéncia e ética previstos\nnesta Lei."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 6° A autoridade setorial podera requerer a realizag4o ou o acesso a avaliacdo",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "preliminar do sistema de IA para fins de avaliagao de risco do sistema, respeitados os segredos\ncomercial e industrial.\nSecao II\nDo Risco Excessivo"
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 13",
+    "section_name": "Art. 13",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "SAo vedados o desenvolvimento, a implementagfo e 0 uso de sistemas de\nIA:\nI-—com 0 propésito de:\na) instigar ou induzir o comportamento da pessoa natural ou de grupos de maneira\nque cause danos a satide, a seguranca ou a outros direitos fundamentais proprios ou de\nterceiros;\nb) explorar quaisquer vulnerabilidades da pessoa natural ou de grupos com o\nobjetivo ou o efeito de induzir o seu comportamento de maneira que cause danos 4a satide, a\nseguranga ou outros a direitos fundamentais proprios ou de terceiros;\nc) avaliar os tragos de personalidade, as caracteristicas ou 0 comportamento\npassado, criminal ou nao, de pessoas singulares ou grupos, para avaliagao de risco de\ncometimento de crimes, de infragdes ou de reincidéncia;\n\nd) possibilitar a producg&o ou disseminag¢fo ou facilitar a criagao de material que\ncaracterize ou represente abuso ou explora¢éo sexual de criangas e adolescentes;\nII — pelo poder ptblico, para avaliar, classificar ou ranquear as pessoas naturais,\ncom base no seu comportamento social ou em atributos da sua personalidade, por meio de\npontuacdo universal, para 0 acesso a bens e servicos e politicas ptblicas, de forma ilegitima\nou desproporcional;\nIII — em sistemas de armas aut6nomas (SAA);\nIV — em sistemas de identificagéo biométrica a distancia, em tempo real e em\nespacos acessiveis ao publico, com exceg4o das seguintes hipdteses:\na) instrugéo de inquérito ou processo criminal, mediante autorizagado judicial\nprévia e motivada, quando houver indicios razoaveis da autoria ou participag¢do em infracdo\npenal, a prova nao puder ser feita por outros meios disponiveis e o fato investigado nado\nconstituir infracgéo penal de menor potencial ofensivo;\nb) busca de vitimas de crimes e de pessoas desaparecidas, ou em circunstancias\nque envolvam ameaga grave e iminente a vida ou a integridade fisica de pessoas naturais;\nc) flagrante delito de crimes punidos com pena privativa de liberdade superior a 2\n(dois) anos, com imediata comunicagfo a autoridade judicial;\nd) recaptura de réus evadidos e cumprimento de mandados de prisdo e de medidas\nrestritivas ordenadas pelo Poder Judiciario."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 1° Os desenvolvedores de sistemas de IA devem adotar medidas para coibir 0",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "uso de seus sistemas para as hipoteses descritas no caput deste artigo."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 2° O uso de sistemas a que se refere o inciso IV deste artigo devera ser",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "proporcional e estritamente necessdrio ao atendimento do interesse publico, observados o\ndevido processo legal e o controle judicial, bem como os principios e direitos previstos nesta\nLei e, no que couber, na Lei n° 13.709, de 14 de agosto de 2018 (Lei Geral de Protegao de\nDados Pessoais), especialmente a garantia contra a discriminacdo e a necessidade de revis&o\nda inferéncia algoritmica pelo agente publico responsavel.\nSecao III\nDo Alto Risco"
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 14",
+    "section_name": "Art. 14",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "Considera-se de alto risco o sistema de IA empregado para as seguintes\nfinalidades e contextos de usos, levando-se em conta a probabilidade e a gravidade dos\nimpactos adversos sobre pessoas ou grupos afetados, nos termos de regulamentacao:\nI — aplicac4o como dispositivos de segurancga na gestao e no funcionamento de\ninfraestruturas criticas, tais como controle de transito e redes de abastecimento de agua e de\neletricidade, quando houver risco relevante a integridade fisica das pessoas e a interrup¢ao de\nservicos essenciais, de forma ilicita ou abusiva, e desde que sejam determinantes para o\nresultado ou decisdo, funcionamento ou acesso a servi¢o essencial;\nII — sistemas de IA utilizados como fator determinante na tomada de decisdes de\nselecio de estudantes em processos de ingresso em instituigdes de ensino ou de formagao\nprofissional, ou para avaliagdes determinantes no progresso académico ou monitoramento de\n\nestudantes, ressalvadas as hipdteses de monitoramento exclusivamente para finalidade de\nseguranca;\nIII — recrutamento, triagem, filtragem ou avaliacgéo de candidatos, tomada de\ndecisSes sobre promogées ou cessacgées de relagdes contratuais de trabalho, avaliacao do\ndesempenho e do comportamento das pessoas afetadas nas 4reas de emprego, gestao de\ntrabalhadores e acesso ao emprego por conta propria;\nIV — avaliacao de critérios de acesso, elegibilidade, concessdo, reviséo, redug¢Ao ou\nrevogacéo de servicos privados e publicos que sejam considerados essenciais, incluindo\nsistemas utilizados para avaliar a elegibilidade de pessoas naturais quanto a prestacgdes de\nservicos pliblicos de assisténcia e de seguridade;\nV — avaliacdo e classificagaéo de chamadas ou determinagfo de prioridades para\nservic¢os publicos essenciais, tais como de bombeiros e assisténcia médica;\nVI — administragdo da justica, no que se refere ao uso de sistemas que auxiliem\nautoridades judicidrias na investiga¢ao dos fatos e na aplicacdo da lei quando houver risco as\nliberdades individuais e ao Estado democratico de direito, excluindo-se os sistemas que\nauxiliem atos e atividades administrativas;\nVII — veiculos aut6nomos em espa¢os publicos, quando seu uso puder gerar risco\nrelevante a integridade fisica de pessoas;\nVUI — aplicagées na area da satide para auxiliar diagnésticos e procedimentos\nmédicos, quando houver risco relevante a integridade fisica e mental das pessoas;\nIX — estudo analitico de crimes relativos a pessoas naturais, permitindo as\nautoridades policiais pesquisar grandes conjuntos de dados, disponiveis em diferentes fontes\nde dados ou em diferentes formatos, no intuito de identificar padrées e perfis\ncomportamentais;\nX — investiga¢Ao por autoridades administrativas para avaliar a credibilidade dos\nelementos de prova no decurso da investigagao ou da repressdo de infragdes, para prever a\nocorréncia ou a recorréncia de uma infracgdo real ou potencial com base na definigao de perfis\nde pessoas singulares;\nXI — sistemas de identificagéo e autenticagao biométrica para o reconhecimento de\nemogoes, excluindo-se os sistemas de autenticagéo biométrica cujo Unico objetivo seja a\nconfirmagao de uma pessoa singular especifica;\nXII — gestao da imigracao e controle de fronteiras para avaliar o ingresso de pessoa\nou grupo de pessoas em territério nacional.\nParagrafo unico. Nao se considera uso de alto risco aquele no qual o sistema de IA\né utilizado como tecnologia intermediaria que nao influencie ou determine resultado ou\ndecisfo ou quando desempenha uma tarefa processual restrita."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 15",
+    "section_name": "Art. 15",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "Caberd ao SIA regulamentar a classificagao da lista dos sistemas de IA de\nalto risco, bem como identificar novas hipdéteses de aplica¢gao de alto risco, levando em\nconsideracdo a probabilidade e a gravidade dos impactos adversos sobre pessoas ou grupos\nafetados, e com base em, pelo menos, 1 (um) dos seguintes critérios:\nI — o sistema produzir, de forma ilicita ou abusiva, efeitos juridicos relevantes e\nimpactar negativamente o acesso a servicos publicos ou essenciais;\n\nII — alto potencial danoso de ordem material ou moral, bem como viés\ndiscriminatério ilegal ou abusivo;\nIII — 0 sistema afetar significativamente pessoas de um grupo vulneravel;\nIV — grau de reversibilidade dos danos;\nV —histérico danoso, de ordem material ou moral relevante;\nVI — grau de transparéncia, explicabilidade e auditabilidade do sistema de IA que\ndificulte significativamente o seu controle ou supervisao;\nVII — alto potencial danoso sistémico, tal como a seguranga cibernética, e violéncia\ncontra grupos vulneraveis;\nVIII — extensdo e probabilidade dos riscos do sistema de IA, incluindo as medidas\nde mitiga¢ao adotadas e considerando os beneficios esperados, de acordo com os principios\ne fundamentos desta Lei;\nIX — o sistema representar riscos significativos 4 saide humana integral — fisica,\nmental e social — nas dimens6es individual e coletiva;\nX — o sistema poder impactar negativamente o desenvolvimento e a integridade\nfisica, psiquica ou moral de criangas e adolescentes."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 16",
+    "section_name": "Art. 16",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "A regulamentagao da lista e a classificagféo de novas aplicagées de\nsistemas de IA de alto risco serao precedidas de procedimento que garanta participa¢ao social\ne de andlise de impacto regulatério, cabendo:\nI — a autoridade competente, como coordenadora do SIA, garantir a aplicagdo\nharmOnica desta Lei, devendo:\na) expedir orientagdes normativas gerais em relagdo aos impactos dos sistemas de\nIA sobre os direitos e as liberdades fundamentais ou que produzam efeitos juridicos\nrelevantes;\nb) publicar a lista consolidada de todos os sistemas de alto risco definidos pelas\nautoridades setoriais:\nII — as autoridades setoriais, no 4mbito de suas atribui¢gdes e em carater prevalente,\ndispor sobre os aspectos técnicos e especificos de aplicagdes de IA no mercado regulado,\ndevendo:\na) estabelecer listas sobre hipoteses classificadas ou nao classificadas como de alto\nrisco dentro das finalidades e contextos definidos no art. 14;\nb) estabelecer, com precisdo, o rol de sistemas de alto risco desta Lei;\nc) receber e analisar as avaliacdes de impacto algoritmico;\nd) indicar, em lista, casos de utilizagdo de sistemas ou aplicagdes de sistemas de\nIA de alto risco ou nao."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 1° A autoridade competente e as autoridades setoriais deveréo considerar 0",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "estado da arte do desenvolvimento tecnolégico e a evoluc&o e a harmonizagao das boas\npraticas setoriais e nao setoriais para fins de monitoramento e reclassificagao continua dos\nsistemas de IA de alto risco."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 2° O desenvolvedor e 0 aplicador que considerar que o sistema de IA n&o se",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "enquadra na classificagdo de alto risco podera apresentar petigao fundamentada as autoridades\nsetoriais juntamente com a sua avaliacdo preliminar, nos termos de regulamento."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 3° Os distribuidores deverfo assegurar que o sistema de [A cumpra as medidas",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "de governanca previstas nesta Lei antes de ser colocado em circulagado no mercado."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 4° A autoridade competente e as autoridades setoriais poderdo acreditar",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "organismos de avaliacgio de conformidade que oferegam aos agentes de IA servicos de\nidentificagdo e classificacdo de risco do uso de sistemas de IA, em conformidade com normas\ntécnicas nacionais e internacionais aplicaveis."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 5° Na classificagio de novas aplicagdes de sistemas de IA de alto risco, as",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "autoridades setoriais deverao:\nI — indicar de modo expresso suas consequéncias juridicas e administrativas e as\ncondigdes para que a regulariza¢4o ocorra de modo proporcional e equanime, n4o se podendo\nimpor aos sujeitos atingidos 6nus ou perdas que, em funcdo das peculiaridades do caso, sejam\nanormais Ou excessivos;\nIl — considerar os obstaculos e as dificuldades reais dos agentes de IA e as\nexigéncias das politicas publicas a seu cargo, sem prejuizo dos direitos das pessoas e dos\ngrupos afetados;\nIII — prever regime de transig&o para que novas obrigagées e deveres sejam\ncumpridos de forma proporcional, equaénime e eficiente e sem prejuizo dos interesses das\npessoas e dos grupos afetados por sistemas de IA."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 6° O procedimento referido no caput deste artigo deverd oportunizar a",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "manifestacdo dos setores econdmicos produtivos afetados."
+  },
+  {
+    "depth": 3,
+    "section_id": "CAPITULO IV",
+    "section_name": "DA GOVERNANCA DOS SISTEMAS DE INTELIGENCIA ARTIFICIAL",
+    "id_kind": "chapter",
+    "parent_id": "",
+    "body": "Secao I\nDisposicées Gerais"
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 17",
+    "section_name": "Art. 17",
+    "id_kind": "section_word",
+    "parent_id": "CAPITULO IV",
+    "body": "Os agentes de IA deverao garantir a seguranga dos sistemas e 0\natendimento dos direitos de pessoas ou grupos afetados, nos termos de regulamento.\nSecado IT\nDas Medidas de Governanea para Sistemas de Alto Risco"
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 18",
+    "section_name": "Art. 18",
+    "id_kind": "section_word",
+    "parent_id": "CAPITULO IV",
+    "body": "Além de atender ao disposto na Secao I deste Capitulo, o desenvolvedor\ne o aplicador, ao introduzirem ou colocarem em circulacdo no mercado sistema de alto risco,\nadotarao, entre outras, as seguintes medidas de governanga e os seguintes processos internos,\nde acordo com o estado da arte do desenvolvimento tecnolégico e com esfor¢gos razoaveis:\nI — para o aplicador:\na) documentagao em formato adequado, considerando todas as etapas relevantes\nno ciclo de vida do sistema;\nb) uso de ferramentas ou processos dos resultados da utilizag&o do sistema, de\nmodo a permitir a avaliaco de sua acuracia e robustez e a apurar potenciais resultados\n\ndiscriminatorios ilicitos ou abusivos, e implementa¢g4o das medidas de mitigagao de riscos\nadotadas;\nc) documentacao da realizagdo de testes para avaliag¢éo de niveis apropriados de\nconfiabilidade e seguranga;\nd) documenta¢ao em formato adequado do grau de supervisao humana que tenha\ncontribuido para os resultados apresentados pelos sistemas de IA;\ne) medidas para mitigar e prevenir vieses discriminatérios, quando 0 risco a\ndiscriminagdo decorrer da aplicacg&o do sistema de IA;\nf) disponibilizag4o de informagées adequadas que permitam, respeitado o sigilo\nindustrial e comercial de acordo com as suas capacidades técnicas, a interpretac¢do dos\nresultados e o funcionamento de sistemas de IA introduzidos ou colocados em circulacao no\nmercado;\nIJ — para o desenvolvedor:\na) manutencéo de registro das medidas de governanga adotadas no\ndesenvolvimento do sistema de IA, para prestagdo das informacgées necessarias ao aplicador\nde modo que este ultimo cumpra as obrigagdes determinadas no inciso I do caput deste artigo,\nem conformidade com a relagdo juridica estabelecida entre as partes e ressalvado o sigilo\ncomercial e industrial;\nb) uso de ferramentas ou processos de registro da operag4o do sistema, de modo a\npermitir a avaliacao de sua acuracia e robustez;\nc) realizacdo de testes para avaliagao de niveis apropriados de seguran¢a;\nd) adocdo de medidas técnicas para viabilizar a aplicabilidade dos resultados dos\nsistemas de IA e o fornecimento de informagdes adequadas que permitam a interpretagao dos\nseus resultados e do seu funcionamento, respeitado o sigilo industrial e comercial;\ne) medidas para mitigar e prevenir vieses discriminatérios, quando 0 risco a\ndiscriminag4o decorrer da aplicagdo do sistema de IA:\nf) transparéncia sobre as politicas de gest&éo e governanga para promocéo da\nresponsabilidade social e sustentavel, no 4mbito de suas atividades."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 1° Caberé as autoridades setoriais definir as hipéteses em que as obrigacg6es",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "estabelecidas em regulamento sero flexibilizadas ou dispensadas, de acordo com 0 contexto\nde atuacdo do agente de IA na cadeia de valor do sistema de IA."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 2° Os distribuidores deverao apoiar e verificar se o sistema de IA cumpre as",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "medidas de governanga previstas nesta Lei, antes de o sistema ser colocado em circulagao no\nmercado, nos termos de regulamento."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 3° Os agentes da cadeia de valor de sistema ou aplicagao de [A devem cooperar",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "entre si, disponibilizando as informagdes necessdrias e fornecendo 0 acesso técnico e a\nassisténcia razoavelmente esperados e necessérios para o cumprimento das obriga¢gdes\nestabelecidas neste artigo, resguardado o sigilo industrial e comercial."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 4° As medidas de governanga e os processos internos previstos neste artigo, a",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "serem adotados pelos agentes, deverao corresponder a respectiva fase do ciclo de vida do\nsistema de IA que lhes compete, de acordo com o nivel de conhecimento sobre 0 respectivo\nprojeto, implementacao, aplica¢gdo e uso."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 5° Caso o aplicador ou o distribuidor realize modificagéo substancial ou altere a",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "finalidade de um sistema de IA, sera considerado desenvolvedor para os efeitos desta Lei."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 19",
+    "section_name": "Art. 19",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "Quando o sistema de IA gerar contetido sintético, devera, considerando o\nestado da arte do desenvolvimento tecnolégico e o contexto de uso, incluir identificador em\ntais contetdos para verificacdo de autenticidade ou de caracteristicas de sua proveniéncia,\nmodificag6es ou transmissdo, conforme regulamento."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 1° A presenga do identificador previsto no caput no supre outros requisitos de",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "informacdo e transparéncia, bem como outros parametros a serem definidos em regulamento."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 2° A autoridade competente, em colaborag&o com o Conselho Permanente de",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Cooperagio Regulatéria de Inteligéncia Artificial (Cria), disponibilizara biblioteca de\nsoftwares com vistas a facilitar o cumprimento da obrigac&o de sinalizacao, idealmente\nadotando padrao internacional amplamente reconhecido."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 3° O uso de contetido sintético em obras com finalidade artistica, cultural ou de",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "entretenimento podera, sempre que n4o representar risco de disseminacdo de informagédes\nfalsas, ser sinalizado por meios que néo comprometam a utilidade e a qualidade da obra, como\nnos créditos ou nos metadados associados a tal obra, preservando sua fruigdo pelo publico e\nseus uSOS convencionais."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 20",
+    "section_name": "Art. 20",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "Para buscar a mitigagdo de riscos relacionados 4 produgao e a circulagdo\nde contetdo sintético, o poder piblico, em conjunto com a iniciativa privada, com a sociedade\ncivil e com profissionais de pesquisa e desenvolvimento, devera, na forma de regulamentac¢ao,\npromover capacidades para identificar e rotular contetido sintético produzido por sistemas de\nIA e estabelecer a autenticidade e a proveniéncia do contetdo digital produzido."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 21",
+    "section_name": "Art. 21",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "Os agentes de IA de alto risco devem garantir que seus sistemas estéo de\nacordo com as medidas de governanga definidas em todo o Capitulo IV desta Lei, assim como\nem outras legislagdes pertinentes, em especial do seu respectivo setor.\nSecao III\nDas Medidas de Governanc¢a Aplicadas pelo Poder Publico"
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 22",
+    "section_name": "Art. 22",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "Ao desenvolver, contratar ou adotar os sistemas de IA de alto risco, o\npoder publico deve garantir:\nI — 0 acesso aos bancos de dados e a plena portabilidade de dados dos cidadaos\nbrasileiros e da gestdo publica, nos termos da Lei n° 13.709, de 14 de agosto de 2018 (Lei\nGeral de ProtecAo de Dados Pessoais);\nII — a padronizac4o minima dos sistemas em termos de sua arquitetura de dados e\nmetadados, a fim de promover interoperabilidade entre sistemas e boa governanga de dados."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 23",
+    "section_name": "Art. 23",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "Adicionalmente as medidas de governanca estabelecidas neste Capitulo,\ntodos os entes da Administracdo Publica direta e indireta, ao desenvolver ou utilizar sistemas\nde IA de alto risco, adotarfo as seguintes medidas:\nI — definicdo de protocolos de acesso e de utilizagao do sistema que permitam o\nregistro de quem 0 utilizou, para qual situagao concreta e com qual finalidade;\n\nII — garantia facilitada e efetiva ao cidad&o, perante o poder publico, de direito 4\nexplicacdo e a revisio humanas de decis&o por sistemas de IA que gerem efeitos juridicos\nrelevantes ou que impactem significativamente os interesses do afetado, a ser promovida pelo\nagente publico competente;\nIII — publicizacgdo em veiculos de facil acesso, preferencialmente em seus sitios\neletrénicos, das avaliacdes preliminares dos sistemas de IA de alto risco desenvolvidos,\nimplementados ou utilizados pelo poder publico da Unido, dos Estados, do Distrito Federal e\ndos Municipios."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 1° A utilizacdo de sistemas biométricos para fins de identificacao devera observar",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "os principios e as medidas de governanga previstos nesta Lei e sera precedida de avaliaco de\nimpacto algoritmico, observadas as garantias para o exercicio dos direitos de pessoas ou\ngrupos afetados e a protecdo contra a discriminac4o direta, indireta, ilegal ou abusiva."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 2° Na impossibilidade de eliminagdo ou mitigag&o substantiva dos riscos",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "associados ao sistema de IA identificados na avaliacgdo de impacto algoritmico prevista na\nSeco IV deste Capitulo, sua utilizagéo sera descontinuada."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 3° As medidas previstas neste artigo aplicam-se também a sistemas de IA",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "utilizados por empresas responsaveis pela gest&o ou pela execugiio de servigos publicos."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 4° Sistemas de IA de alto risco j4 implementados pelo poder publico quando da",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "publicagao desta Lei deverao se adequar em prazo razoavel, a ser definido pela autoridade\ncompetente."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 5° As disposi¢des previstas no caput deste artigo abrangem é6rgdos dos Poderes",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "Legislativo e Judicidério, quando no desempenho das fun¢gdes administrativas, e pessoas\njuridicas de direito privado responsaveis pela gestao ou pela execugao de servi¢os publicos,\nquando afetas a essas atividades."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 24",
+    "section_name": "Art. 24",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "Caberé ao Poder Executivo federal fixar padrées minimos de\ntransparéncia para os sistemas de IA utilizados por orgaos e entidades do setor publico federal,\nalém de monitorar regularmente o cumprimento dessas obrigagées.\nPardgrafo unico. O Poder Executivo federal fomentarad a transparéncia nos\nsistemas de IA utilizados por 6rgdos e entidades publicas visando promover e consolidar\npraticas de governanga responsavel e aberta.\nSecao IV\nDa Avaliacgao de Impacto Algoritmico"
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 25",
+    "section_name": "Art. 25",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "A avaliacao de impacto algoritmico de sistemas de IA é obrigagao do\ndesenvolvedor ou do aplicador que introduzir ou colocar sistema de IA em circulagao no\nmercado, sempre que o sistema ou 0 seu uso forem de alto risco, considerando o papel e a\nparticipacao do agente na cadeia."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 1° O desenvolvedor de sistema de IA de alto risco devera, nos termos de",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "regulamento, compartilhar com a autoridade setorial as avaliagées preliminares e de impacto\nalgoritmico, cuja metodologia considerara e registrara, ao menos, avaliagao dos riscos e\n\nbeneficios aos direitos fundamentais, medidas de atenuacdo e efetividade dessas medidas de\ngerenciamento."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 2° O agente de IA poderaé requerer junto aos demais agentes da cadeia,",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "respeitados os segredos industriais e comerciais, as informagées necessarias para a realizagao\nda avaliacdo de impacto algoritmico."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 3° A avaliacdo devera ser realizada em momento prévio e de acordo com 0",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "contexto especifico da introdugdo ou colocagao em circulagéo no mercado do sistema de IA."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 4° Caberé a autoridade setorial definir as hipéteses em que a avaliacado de impacto",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "algoritmico sera flexibilizada, levando em consideragdo 0 contexto de atuagdo e o papel de\ncada um dos agentes de IA e as normas gerais da autoridade competente."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 5° A autoridade competente, a partir das diretrizes do Cria, estabelecera critérios",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "gerais e elementos para a elaboragao de avaliac&o de impacto algoritmico e a periodicidade\nde sua atualizac4o, considerando o ciclo de vida dos sistemas de IA de alto risco."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 6° Cabera a autoridade setorial, a partir do estado da arte do desenvolvimento",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "tecnolégico e das melhores praticas, a regulamentagao dos critérios e da periodicidade de\natualizacdo das avaliacdes de impacto algoritmico, considerando 0 ciclo de vida dos sistemas\nde IA de alto risco."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 7° Os agentes de JA que, posteriormente 4 introducdo de sistema de IA no",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "mercado ou a sua utilizagado em servi¢o, tiverem conhecimento de risco ou impacto inesperado\ne relevante que o sistema apresente a direitos de pessoas naturais comunicar&o o fato\nimediatamente 4 autoridade setorial e aos outros agentes na cadeia para que sejam tomadas\ntodas as medidas cabiveis, inclusive, quando necessdrio, a de notificar pessoas e grupos\nafetados pelo sistema de IA."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 8° Cabera a autoridade competente e as autoridades setoriais estabelecer as",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "hipdteses em que a participagdo publica sera necessaria, assim como as hipdoteses em que\npodera ser realizada de maneira simplificada, indicando os critérios para essa participagao."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 26",
+    "section_name": "Art. 26",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "A avaliacio de impacto algoritmico sera realizada em momento anterior\na introducao ou a colocac4o em circulagdo no mercado de sistema de IA, bem como consistira\nem processo interativo continuo, executado ao longo de todo 0 ciclo de vida dos sistemas de\nIA de alto risco, requeridas atualizagdes periddicas.\nParagrafo unico. Considerando eventual regulamentagao setorial existente, cabera\na autoridade competente, em colaborac&o com as demais entidades do SIA, definir:\nI — parametros gerais acerca da periodicidade de atualizagao das avaliagdes de\nimpacto algoritmico, que devem ser realizadas ao menos quando da existéncia de alteragoes\nsignificativas nos sistemas, nos termos de regulamento;\nII — as hipdteses em que a avaliagao de impacto algoritmico sera simplificada,\nconsiderando o tipo de agentes de sistemas de IA."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 27",
+    "section_name": "Art. 27",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "Caso 0 agente de IA tenha que elaborar relatério de impacto a protegao de\ndados pessoais, nos termos da Lei n° 13.709, de 14 de agosto de 2018 (Lei Geral de Protegao\nde Dados Pessoais), a avaliacao de impacto algoritmico podera ser realizada em conjunto com\no referido documento."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 28",
+    "section_name": "Art. 28",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "As conclusdes da avaliagio de impacto algoritmico serao publicas,\nobservados os segredos industrial e comercial, nos termos de regulamento.\nSecao V\nDas Medidas de Governang¢a para Sistemas de Inteligéncia Artificial de Propésito\nGeral e Generativa"
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 29",
+    "section_name": "Art. 29",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "O desenvolvedor de sistemas de JA de proposito geral e generativa devera\nrealizar, além da documentacAo pertinente sobre 0 desenvolvimento do sistema, sua avaliagdo\npreliminar, a fim de identificar seus respectivos niveis de risco esperados, inclusive potencial\nrisco sistémico.\nParagrafo Unico. A avaliagdo preliminar devera considerar as finalidades de uso\nrazoavelmente esperadas e os critérios previstos, nos termos da Segao III do Capitulo III desta\nLei."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 30",
+    "section_name": "Art. 30",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "O desenvolvedor de sistemas de IA de proposito geral e generativa com\nrisco sistémico, deve, antes de sua disponibilizac&o ou introdugéo no mercado para fins\ncomerciais, garantir o cumprimento dos seguintes requisitos:\nI — descrever o modelo de IA de finalidade geral;\nII — documentar os testes e as andlises realizados, a fim de identificar e gerenciar\nriscos razoavelmente previsiveis, conforme apropriado e tecnicamente viavel;\nIll — documentar os riscos n4o mitigaveis remanescentes apds o desenvolvimento;\nIV — processar e incorporar apenas conjuntos de dados coletados e tratados em\nconformidade com as exigéncias legais e sujeitos a uma adequada governanga de dados, em\nespecial quando se tratar de dados pessoais, de acordo com a Lei n° 13.709, de 14 de agosto\nde 2018 (Lei Geral de Proteg&o de Dados Pessoais) e o Capitulo IT desta Lei;\nV — publicar resumo do conjunto de dados utilizados no treinamento do sistema,\nnos termos de regulamentac¢do;\nVI — conceber e desenvolver os sistemas de IA de proposito geral e generativa\nrecorrendo as normas aplicaveis para, considerando o contexto de uso, reduzir a utilizagao de\nenergia, a utilizacdo de recursos e os residuos, bem como para aumentar a eficiéncia\nenergética e a eficiéncia global do sistema;\nVII — elaborar documentacdo técnica e instrugdes de utilizagao inteligiveis, a fim\nde permitir que os desenvolvedores, distribuidores e aplicadores tenham clareza sobre o\nfuncionamento do sistema."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 1° O cumprimento dos requisitos estabelecidos neste artigo independe de o",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "sistema ser fornecido como modelo auténomo ou incorporado a outro sistema de IA ou a\nproduto, ou fornecido sob licengas gratuitas e de cédigo aberto, como servi¢o, assim como\npor meio de outros canais de distribui¢ao."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 2° Os desenvolvedores de sistemas de IA de proposito geral ¢ generativa poderao",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "formular codigos de boas praticas, ou aderir a eles, para demonstrar conformidade 4s\nobrigagées estipuladas neste artigo."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 32",
+    "section_name": "Art. 32",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "Os desenvolvedores de sistemas de IA de propésito geral e generativa\ndisponibilizados como recurso para desenvolvimento de servigos por terceiros, como aqueles\nfornecidos por meio de API ou outros modelos de integragéo, devem cooperar, na medida de\nsua participagao, com os demais agentes de IA ao longo do periodo em que esse servico ¢€\nprestado e apoiado, a fim de permitir uma mitigag4o adequada dos riscos e 0 cumprimento\ndos direitos estabelecidos nesta Lei."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 33",
+    "section_name": "Art. 33",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "Cabera a autoridade competente, em colaboragao com as demais entidades\ndo SIA, definir em quais hipéteses as obriga¢gdes previstas nesta Seco serao simplificadas ou\ndispensadas, de acordo com o risco envolvido e o estado da arte do desenvolvimento\ntecnoldgico.\nParagrafo nico. Aplica-se, no que couber, 0 disposto no Capitulo VI, cabendo a\nautoridade competente a aprovacdo de codigos de conduta e de autorregulagao de sistemas de\nIA de propésito geral.\nSecdo VI\nDa Acreditacao, Certificacao e Avaliacao de Conformidade"
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 34",
+    "section_name": "Art. 34",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "A autoridade competente e as autoridades setoriais poderao acreditar\norganismos de avaliacio de conformidade nacionais ou internacionais especializados em\ngovernanga de sistemas de IA para avaliar 0 cumprimento das medidas de governanga e\nprocessos internos exigidos pelos 6rgdos reguladores."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 1°O SIA devera estabelecer 0 periodo de validade da acreditacdo e os requisitos",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "para sua renovagéo, em conformidade com normas técnicas nacionais e internacionais\naplicaveis."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 2° A avaliagéo da conformidade do uso de sistemas de IA devera adotar",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "procedimento eficiente e compativel com a dinamica do mercado, sem comprometer a\nqualidade e a confiabilidade do processo."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 3° Os critérios gerais para acreditagao dos organismos de avaliacdo da",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "conformidade deverio ser estabelecidos pela autoridade competente, e os critérios\nespecificos, conjuntamente com as autoridades setoriais, em consonancia com as normas\ntécnicas internacionais e considerando as especificidades dos sistemas de IA."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 4° A autoridade competente mantera registro publico e atualizado dos",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "organismos de avalia¢g4o da conformidade acreditados, incluindo 0 escopo de sua acreditagao."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 5° Os organismos de avaliagao da conformidade acreditados estar&o sujeitos a",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "monitoramento continuo e reavaliagdes periddicas para assegurar a manutengdo de sua\ncompeténcia técnica e a conformidade com os requisitos de acreditagao."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 6° A avaliacao da conformidade podera ser realizada em diferentes niveis,",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "considerando a complexidade e o risco potencial dos sistemas de IA, conforme definido em\nregulamentag¢io especifica."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 7° A autoridade competente e as autoridades setoriais poderfo. conjuntamente,",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "estabelecer acordos de cooperacdo e de reconhecimento mituo com organismos de\n\nacreditacio internacionais, visando facilitar o reconhecimento das avaliagdes de\nconformidade realizadas em outros paises."
+  },
+  {
+    "depth": 3,
+    "section_id": "CAPITULO V",
+    "section_name": "DA RESPONSABILIDADE CIVIL",
+    "id_kind": "chapter",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 35",
+    "section_name": "Art. 35",
+    "id_kind": "section_word",
+    "parent_id": "CAPITULO V",
+    "body": "A responsabilidade civil decorrente de danos causados por sistemas de IA\nno Ambito das relagdes de consumo permanece sujeita as regras de responsabilidade previstas\nna Lei n° 8.078, de 11 de setembro de 1990 (Codigo de Defesa do Consumidor), e na\nlegislacdo pertinente, sem prejuizo da aplicagao das demais normas desta Lei."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 36",
+    "section_name": "Art. 36",
+    "id_kind": "section_word",
+    "parent_id": "CAPITULO V",
+    "body": "A responsabilidade civil decorrente de danos causados por sistemas de IA\nexplorados, empregados ou utilizados por agentes de IA permanece sujeita 4s regras de\nresponsabilidade previstas na Lei n° 10.406, de 10 de janeiro de 2002 (Cédigo Civil), e na\nlegislacdo especial, sem prejuizo da aplicacéo das demais normas desta Lei.\nParagrafo unico. A definig&o, em concreto, do regime de responsabilidade civil\naplicavel aos danos causados por sistemas de IA deve levar em considerago os seguintes\ncritérios, salvo disposigao legal em sentido contrario:\nI — o nivel de autonomia do sistema de IA e o seu grau de risco, nos termos\ndisciplinados por esta Lei;\nII — a natureza dos agentes envolvidos e a consequente existéncia de regime de\nresponsabilidade civil proprio na legisla¢ao."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 37",
+    "section_name": "Art. 37",
+    "id_kind": "section_word",
+    "parent_id": "CAPITULO V",
+    "body": "O juiz inverteré o 6nus da prova quando a vitima for hipossuficiente ou\nquando as caracteristicas de funcionamento do sistema de IA tornarem excessivamente\noneroso para a vitima provar os requisitos da responsabilidade civil."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 38",
+    "section_name": "Art. 38",
+    "id_kind": "section_word",
+    "parent_id": "CAPITULO V",
+    "body": "Os participantes no ambiente de testagem da regulamentagao da JA\ncontinuam a ser responsaveis, nos termos da legislagao aplicavel, por quaisquer danos\ninfligidos a terceiros como resultado da experimenta¢ao que ocorre no ambiente de testagem."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 39",
+    "section_name": "Art. 39",
+    "id_kind": "section_word",
+    "parent_id": "CAPITULO V",
+    "body": "As hipéteses de responsabilizag&o previstas por legislagdo especifica\npermanecem em vigor."
+  },
+  {
+    "depth": 3,
+    "section_id": "CAPITULO VI",
+    "section_name": "DAS BOAS PRATICAS E GOVERNANCA",
+    "id_kind": "chapter",
+    "parent_id": "",
+    "body": "Secao I\nDo Cédigo de Conduta"
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 40",
+    "section_name": "Art. 40",
+    "id_kind": "section_word",
+    "parent_id": "CAPITULO VI",
+    "body": "Os agentes de IA poder4o, individualmente ou por meio de associa¢gdes,\nformular cédigos de boas praticas e de governanga que estabelegam as condigées de\norganizacdo, o regime de funcionamento, os procedimentos, inclusive sobre reclamagées das\npessoas afetadas, as normas de seguranga, os padres técnicos, as obrigacées especificas para\ncada contexto setorial de implementacdo, as agdes educativas, os mecanismos internos de\n\nsupervisio e de mitigagao de riscos e as medidas de seguranga técnicas e organizacionais\napropriadas para a gest&o dos riscos decorrentes da aplicag&o dos sistemas de IA no seu\nrespectivo dominio de atividade."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 1° Ao se estabelecerem regras de boas praticas, serio consideradas a finalidade,",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "a probabilidade e a gravidade dos riscos e dos beneficios decorrentes da aplicagdéo dos\nsistemas de IA e os possiveis impactos a grupos vulnerdveis, a exemplo da metodologia\ndisposta na Secdo IV do Capitulo IV."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 2° Os desenvolvedores e aplicadores de sistemas de IA, poderao implementar",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "programa de governanca que, de acordo com o estado da arte do desenvolvimento\ntecnoldgico:\nI — demonstre 0 seu comprometimento em adotar processos e politicas internas que\nassegurem 0 cumprimento, de forma abrangente, de normas e boas praticas relativas 4 nado\nmaleficéncia e proporcionalidade entre os métodos empregados e as finalidades determinadas\ne legitimas dos sistemas de IA;\nII — seja adaptado 4 estrutura, 4 escala e ao volume de suas operacdes, bem como\nao seu potencial danoso e de beneficios;\nIII — tenha 0 objetivo de estabelecer relagdo de confianga com pessoas e grupos\nafetados, por meio de atuagdo transparente e que assegure mecanismos de participa¢ao, a\nexemplo do disposto na Seco IV do Capitulo IV desta Lei;\nIV — esteja integrado a sua estrutura geral de governanga e estabeleca e aplique\nmecanismos de supervisdo internos e externos;\nV — conte com planos de resposta para reversio dos possiveis resultados\nprejudiciais do sistema de IA;\nVI — seja atualizado constantemente com base em informag6es obtidas a partir de\nmonitoramento continuo e de avaliagées periddicas;\nVII — disponha de mecanismos e procedimentos internos de integridade, de\nauditoria, de incentivo 4 dentncia de irregularidades e de aplicac¢&o efetiva de cddigos de\nética."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 3° A adesdo voluntaria a cédigo de boas praticas e a elaboracao de medidas de",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "governanca podem ser consideradas indicativo de boa-fé por parte do agente e serfo levadas\nem consideracdo pela autoridade competente e pelas demais autoridades setoriais para fins de\naplicagao de sangdes administrativas."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 4° Cabe as autoridades setoriais:",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "I — aprovar cédigos de boas condutas quanto a esfera de competéncia outorgada\npor lei, devendo sempre informar a autoridade competente;\nIl — observar as diretrizes e normas gerais para o procedimento de anilise,\npublicizacio e atualizacio periddica do cédigo de conduta emitidas pela autoridade\ncompetente.\nSecao IT\nDa Autorregulacao"
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 41",
+    "section_name": "Art. 41",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "Os agentes de IA podem associar-se voluntariamente sob a forma de\npessoa juridica de direito privado sem fins lucrativos para promover a autorregulagdo com o\nobjetivo de incentivar e assegurar melhores praticas de governanga ao longo de todo 0 ciclo\nde vida de sistemas de IA."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 1° A autorregulacao pode compreender as seguintes fungées:",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "I — estabelecimento de critérios técnicos dos sistemas de IA aplicada, inclusive de\npadronizacdo, prudenciais e de atuagfo concertada dos entes associados, desde que nao\nimpecam o desenvolvimento tecnoldgico e que estejam em conformidade com esta Lei e com\nas normas vinculantes do SIA;\nII — compartilhamento de experiéncias sobre o uso de JA, sendo vedado o\ncompartilhamento de informagées concorrencialmente sensiveis, nos termos da legislagao\npertinente;\nIll — defini¢Ao contextual de estruturas de governanga previstas nesta Lei;\nIV — critérios para provocar a autoridade competente e demais autoridades\nintegrantes do SIA para o emprego de medida cautelar;\nV —criacdo de canal de recebimento de informacées relevantes sobre riscos do uso\nde IA por seus associados ou qualquer interessado;\nVI — adogao de padrées, melhores praticas e modelos de certificacdo reconhecidos\ninternacionalmente."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 2° A associac¢ao entre agentes de IA para fins de autorregulacdo devera observar",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "os preceitos da Lei n° 12.529, de 30 de novembro de 2011 (Lei de Defesa da Concorréncia),\nvedada qualquer atuag4o que possa restringir a livre concorr€éncia."
+  },
+  {
+    "depth": 3,
+    "section_id": "CAPITULO VII",
+    "section_name": "DA COMUNICAGAO DE INCIDENTE GRAVE",
+    "id_kind": "chapter",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 42",
+    "section_name": "Art. 42",
+    "id_kind": "section_word",
+    "parent_id": "CAPITULO VII",
+    "body": "O agente de IA comunicara, em prazo a ser estabelecido, 4 autoridade\nsetorial a ocorréncia de grave incidente de seguranga, incluindo quando houver risco a vida e\na integridade fisica de pessoas, a interrupgaéo de funcionamento de operagoes criticas de\ninfraestrutura e graves danos a propriedade ou ao meio ambiente, bem como graves violagdes\naos direitos fundamentais, a integridade da informagao, a liberdade de expresso e ao processo\ndemocratico, nos termos de regulamento."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 1° A comunicagao sera devida apds a autoridade setorial definir 0 prazo e os",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "critérios de determinacao da gravidade do incidente, observadas as caracteristicas dos\nsistemas de IA de acordo com o estado da arte do desenvolvimento tecnoldgico."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 2° A autoridade setorial verificara a gravidade do incidente e podera, caso",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "necessario, determinar ao agente a adoc4o de providéncias e medidas para reverter ou mitigar\nos efeitos do incidente."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 43",
+    "section_name": "Art. 43",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "Os agentes de IA, adicionalmente as disposig6es desta Lei, permanecem\nsujeitos 4 legislagdo especifica relativa 4 ciberseguranga e a protec&o de infraestruturas\ncriticas, a vida e a integridade fisica de pessoas, aos danos a propriedade ¢ ao meio ambiente,\naos direitos fundamentais e ao processo democratico."
+  },
+  {
+    "depth": 3,
+    "section_id": "CAPITULO VIII",
+    "section_name": "DA BASE DE DADOS PUBLICA DE INTELIGENCIA ARTIFICIAL DE ALTO RISCO",
+    "id_kind": "chapter",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 44",
+    "section_name": "Art. 44",
+    "id_kind": "section_word",
+    "parent_id": "CAPITULO VIII",
+    "body": "Cabe a autoridade competente, em colaboragéo com as autoridades\nsetoriais, a criacdo e a manutencao de base de dados de IA de alto risco, acessivel ao publico,\nque contenha os documentos ptblicos das avaliagdes de impacto, respeitados os segredos\ncomercial e industrial, nos termos de regulamento e em conformidade com a legislacado\npertinente, em especial a Lei n° 13.709, de 14 de agosto de 2018 (Lei Geral de Protecdo de\nDados Pessoais), e a Lei n° 12.527, de 18 de novembro de 2011 (Lei de Acesso a Informagao).\nParagrafo unico. A criagéo da base de dados central nfo impede a cria¢do de bases\nde IA de alto risco setoriais, devendo ser mantidas em formato interoperavel e com dados\nestruturados para facilitar o uso compartilhado."
+  },
+  {
+    "depth": 3,
+    "section_id": "CAPITULO IX",
+    "section_name": "DA SUPERVISAO E FISCALIZACAO",
+    "id_kind": "chapter",
+    "parent_id": "",
+    "body": "Secfo I\nDo Sistema Nacional de Regulac’o e Governanga de Inteligéncia Artificial"
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 45",
+    "section_name": "Art. 45",
+    "id_kind": "section_word",
+    "parent_id": "CAPITULO IX",
+    "body": "O Poder Executivo é autorizado a estabelecer 0 Sistema Nacional de\nRegulagao e Governanga de Inteligéncia Artificial (SIA)."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 1° Integram o SIA:",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "I — a Autoridade Nacional de Proteg&o de Dados (ANPD), autoridade competente\nque coordenara o SIA;\nII — as autoridades setoriais;\nIII — o Conselho Permanente de Cooperacgao Regulatoria de Inteligéncia Artificial\n(Cria), observado e limitado ao disposto na Seg4o IV deste Capitulo;\nIV — o Comité de Especialistas e Cientistas de Inteligéncia Artificial (Cecia),\nobservado e limitado ao disposto na Secao V deste Capitulo."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 2° Ato do Poder Executivo federal definira lista dos 6rgaos e entidades que irao",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "integrar o SIA, em conformidade com os incisos II, III e IV do § 1° deste artigo."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 3° O SIA tem por objetivos e fundamentos:",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "I — valorizar e reforcar as competéncias regulatéria, sancionatoria e normativa das\nautoridades setoriais em harmonia com as competéncias correlatas gerais da autoridade\ncompetente que coordena o SIA; e\nII — buscar a harmonizac¢ao e a colaborac4o com orgiaos reguladores de temas\ntransversais."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 4° A autoridade competente coordenara o Cria, conforme disposto na Segao IV",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "deste Capitulo, a fim de harmonizar e facilitar as competéncias regulatoria, fiscalizatoria e\nsancionatoria."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 46",
+    "section_name": "Art. 46",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "Na qualidade de coordenadora do SIA e sem prejuizo das competéncias\nprevistas na Lei n° 13.709, de 14 de agosto de 2018 (Lei Geral de Protec&o de Dados\nPessoais), cabe 4 autoridade competente:\nI — atuar na representa¢do do Brasil perante organismos internacionais de IA, sob\na coordena¢éo do Poder Executivo;\nII — expedir, em colaboracéo com os demais integrantes do SIA, normas\nvinculantes de carater geral sobre os seguintes temas:\na) forma e requisitos das informagées a serem publicizadas sobre a utilizagao de\nsistemas de IA, respeitados os segredos industrial e comercial;\nb) procedimentos e requisitos para elaboracio da avaliacféo de impacto\nalgoritmico;\nc) procedimentos para a comunica¢ao de incidentes graves, notadamente quando\nafetarem direitos fundamentais;\nIII — expedir regras gerais sobre IA no Pais, dando suporte aos 6rg&os setoriais,\naos quais cabe a edi¢ao de regras especificas;\nIV — celebrar com os integrantes do SIA acordos regulatérios para definir regras e\nprocedimentos especificos de coordena¢gao de competéncias;\nV — expedir orientagées normativas gerais sobre certificados e acreditagao de\norganismos de certificagéo com 0 objetivo de incentivar e assegurar as melhores praticas de\ngovernan¢a ao longo de todo o ciclo de vida de sistemas de IA;\nVI —incentivar a adogdo de padrées, melhores praticas e certificagées reconhecidas\ninternacionalmente;\nVII — receber e tratar dentincias an6nimas, estabelecendo mecanismos de reserva\nde identidade do denunciante;\nVIII — elaborar relatorios anuais acerca de suas atividades.\nParadgrafo Unico. Nos ambientes regulatdrios experimentais (sandboxes\nregulatérios) que envolvam sistemas de IA, conduzidos por autoridades setoriais, a autoridade\ncompetente sera cientificada, podendo manifestar-se quanto ao cumprimento das finalidades\ne dos principios desta Lei."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 47",
+    "section_name": "Art. 47",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "Na qualidade de regulador residual, a autoridade competente exercera\ncompeténcia normativa, regulatoria, fiscalizatoria e sancionatdria plena para\ndesenvolvimento, implementac4o e uso de sistemas de IA para atividades econdmicas em que\nnao haja érgdo ou ente regulador setorial especifico."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 48",
+    "section_name": "Art. 48",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "Compete a autoridade setorial:\nI — exercer competéncia regulatoria, fiscalizatéria e sancionatéria, conforme sua\nesfera de competéncia outorgada por lei, para desenvolvimento, implementa¢g4o e uso de\nsistemas de IA;\nII — expedir regras especificas para a aplicacio de IA, incluindo aspectos\nrelacionados a atividades de alto risco, observadas as normas gerais expedidas pela autoridade\ncompetente;\nIII — promover e incentivar o disposto no Capitulo VI desta Lei para sistemas de\nIA que se inserem em sua esfera de competéncia outorgada por lei;\n\nIV — quanto a sua esfera de competéncia outorgada por lei, incentivar a adogao de\npadrées, melhores praticas e modelos de certificagio e acreditagéo reconhecidos\ninternacionalmente;\nV —supervisionar as medidas de governanca adequadas a cada aplicacgdo ou uso de\nsistemas de IA que classifique como de alto risco, de forma a promover:\na) a harmonizac4o com a legislacdo nacional e com normas internacionais para\npermitir a interoperabilidade técnica e jurisdicional dos sistemas e das aplicagdes\ndesenvolvidas e implementadas no Pais;\nb) a adog&o de instrumentos regulatérios que promovam a inovacéo responsavel,\ncomo ambientes regulatérios experimentais (sandboxes regulatérios), autorregulagdo e\ncertificagées de boas praticas e governanga;\nVI —celebrar, a qualquer momento, compromisso com agentes de IA para eliminar\nirregularidade, incerteza juridica ou situacéo contenciosa no Ambito de processos\nadministrativos, de acordo com o previsto no Decreto-Lei n° 4.657, de 4 de setembro de 1942\n(Lei de Introdu¢&o as Normas do Direito Brasileiro).\nSecao II\nDas Atribuicées e Poderes da Autoridade Competente"
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 49",
+    "section_name": "Art. 49",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "Cabe a autoridade competente:\nI — zelar pela protecgdo a direitos fundamentais e a demais direitos afetados pela\nutilizagao de sistemas de IA;\nII — promover e incentivar o disposto no Capitulo VI desta Lei;\nIII — promover agées de coopera¢4o com autoridades de protecao e de fomento ao\ndesenvolvimento e a utilizacgdo dos sistemas de IA de outros paises, de natureza internacional\nou transnacional;\nIV — solicitar, a qualquer momento, as entidades do poder publico que\ndesenvolvam ou utilizem sistemas de IA, informe especifico sobre o 4mbito e a natureza dos\ndados e demais detalhes do tratamento realizado, com a possibilidade de emitir parecer\ntécnico complementar para garantir o cumprimento desta Lei;\nV — celebrar, em conjunto com as autoridades setoriais, a qualquer momento,\ncompromisso com agentes de IA para eliminar irregularidade, incerteza juridica ou situagdo\ncontenciosa no ambito de processos administrativos, de acordo com o previsto no Decreto-\nLei n° 4.657, de 4 de setembro de 1942 (Lei de Introdugao as Normas do Direito Brasileiro);\nVI -— elaborar relat6rios anuais acerca de suas atividades;\nVII — realizar ou determinar auditorias de sistemas de JA de alto risco ou que\nproduzam efeitos juridicos relevantes quando necessarias para a afericao de conformidade\ncom esta Lei, garantido o tratamento confidencial das informagdes, em atengdo aos segredos\ncomercial e industrial;\nVIII — credenciar instituigdes, mediante critérios estabelecidos em regulamento\nsujeito a consulta ptiblica, para acesso a dados para fins de auditorias e pesquisa, garantida a\nconfidencialidade das informagdes, em aten¢Ao aos segredos comercial e industrial;\n\nIX — credenciar instituigdes de pesquisa, mediante critérios estabelecidos em\nregulamento sujeito a consulta publica, para acesso a dados para fins de pesquisa, observados\nos segredos comercial e industrial, a anonimizacao e a protegao de dados pessoais, conforme\na Lei n° 13.709, de 14 de agosto de 2018 (Lei Geral de Protegao de Dados Pessoais)."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 1° Tanto a autoridade competente quanto eventuais entidades por ela",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "credenciadas para a realizacAo de auditoria e para fins de pesquisa devem cumprir requisitos\nde seguranga e confidencialidade das informagées e de protecdo de dados pessoais, nos termos\nda Lei n° 13.709, de 14 de agosto de 2018 (Lei Geral de Protegao de Dados Pessoais), em\natencfo aos segredos comercial e industrial."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 2° A autoridade competente, em conjunto com as autoridades setoriais, podera",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "realizar investigac6es sobre os sistemas de IA de alto risco, em caso de suspeita de violacado\naos principios, direitos e deveres previstos nesta Lei ou na legislag4o setorial aplicavel."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 3° Os Orgéos e as entidades integrantes do SIA devem comunicar imediatamente",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "ao Conselho Administrativo de Defesa Econémica (Cade) quaisquer informagides\nidentificadas no decurso das atividades de fiscalizag¢&o que possam ser de interesse para a\naplicacdo da Lei n° 12.529, de 30 de novembro de 2011 (Lei de Defesa da Concorréncia)."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 4° No exercicio das suas atribuigdes e sempre no limite do que for pertinente e",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "necessario 4 apuracdo de indicios concretos de infragdes 4 ordem econdmica, o Cade podera\nordenar aos desenvolvedores que seja concedido acesso aos conjuntos de dados de treino,\nvalidacdo e teste utilizados para o desenvolvimento dos sistemas de JA de alto risco.\nSecao III\nDas Sancées Administrativas"
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 50",
+    "section_name": "Art. 50",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "Os agentes de IA, em razdo das infragdes cometidas contra as normas\nprevistas nesta Lei, ficam sujeitos as seguintes san¢gdes administrativas aplicaveis:\nI — adverténcia;\nII — multa simples, limitada, no total, a R$ 50.000.000,00 (cinquenta milhdes de\nreais) por infrag4o, sendo, no caso de pessoa juridica de direito privado, de até 2% (dois por\ncento) de seu faturamento bruto, de seu grupo ou conglomerado no Brasil no seu ultimo\nexercicio, excluidos os tributos;\nIII — publicizagao da infragao apdés devidamente apurada e confirmada a sua\nocorréncia;\nIV — proibicZo ou restricfo para participar do regime de sandbox regulatorio\nprevisto nesta Lei, por até 5 (cinco) anos;\nV — suspensdo parcial ou total, temporaria ou definitiva, do desenvolvimento,\nfornecimento ou operag¢fo do sistema de IA;\nVI — proibicg&o de tratamento de determinadas bases de dados."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 1° As sangGes ser4o aplicadas apés procedimento administrativo que possibilite",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "a oportunidade da ampla defesa, de forma gradativa, isolada ou cumulativa, de acordo com\nas peculiaridades do caso concreto e considerados os seguintes parametros e critérios:\nI — a gravidade e a natureza das infragdes e a eventual violacdo de direitos;\n\nII — a boa-fé do infrator;\nIII — a vantagem auferida ou pretendida pelo infrator;\nIV —acondic&o econémica do infrator;\nV —a reincidéncia;\nVI — 0 grau do dano;\nVII — a cooperagao do infrator;\nVIII — a adogdo reiterada e demonstrada de mecanismos e procedimentos internos\ncapazes de minimizar riscos, inclusive a andlise de impacto algoritmico e a efetiva\nimplementagdo de cddigo de ética;\nIX — a adocdo de politica de boas praticas e governanga;\nX — a pronta adogdo de medidas corretivas;\nXI — a proporcionalidade entre a gravidade da falta e a intensidade da san¢ao;\nXIJ — a cumulac4o com outras sanc6es administrativas eventualmente ja aplicadas\nem definitivo para o mesmo ato ilicito."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 2° Antes ou durante o processo administrativo de que trata o § 1° deste artigo,",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "podera a autoridade competente adotar medidas preventivas, incluida multa cominatoria,\nobservado o limite total a que se refere 0 inciso IT do caput, quando houver indicio ou fundado\nreceio de que o agente de IA:\nI — cause ou possa causar les&o irreparavel ou de dificil reparagao; ou\nII — torne ineficaz o resultado final do processo."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 3° O disposto neste artigo nao substitui a aplicacao de san¢gées administrativas,",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "civis ou penais definidas na Lei n° 8.078, de 11 de setembro de 1990 (Cédigo de Defesa do\nConsumidor), na Lei n° 13.709, de 14 de agosto de 2018 (Lei Geral de Protecgéo de Dados\nPessoais), e em legislagdo especifica."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 4° No caso do desenvolvimento, fornecimento ou utilizac&o de sistemas de IA",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "de risco excessivo, haverd, no minimo, aplicagéo de multa e, no caso de pessoa juridica,\nsuspensao parcial ou total, provisoria ou definitiva, de suas atividades."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 5° A aplicagao das sang6es previstas neste artigo nado exclui, em qualquer",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "hipdtese, a obrigag&o da reparagao integral do dano."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 6° A autoridade competente definira. por meio de regulamento proprio, o",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "procedimento de apuragao e os critérios de aplicagao das sancées administrativas a infragdes\na esta Lei, que sero objeto de:\nI — consulta publica e de andlise de impacto regulatério, sem prejuizo das\ndisposigées do Decreto-Lei n° 4.657, de 4 de setembro de 1942 (Lei de Introducdo 4s Normas\ndo Direito Brasileiro). da Lei n° 9.784, de 29 de janeiro de 1999 (Lei Geral do Processo\nAdministrativo), e das demais disposic6es legais pertinentes;\nIl — publicag&o de metodologias que apresentard objetivamente as formas e as\ndosimetrias das sangées, devendo conter fundamentagao detalhada de todos os seus elementos\ne demonstrac4o da observancia dos critérios previstos nesta Lei."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 7° O disposto nos incisos I, III, IV, V e VI do caput deste artigo podera ser",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "aplicado as entidades e aos 6rgos publicos, sem prejuizo do disposto na Lei n° 8.112, de 11\nde dezembro de 1990 (Estatuto do Servidor Publico F ederal), na Lei n° 8.429, de 2 de junho\n\nde 1992 (Lei da Improbidade Administrativa), e na Lei n° 12.527, de 18 de novembro de 2011\n(Lei de Acesso a4 Informagao)."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 51",
+    "section_name": "Art. 51",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "A autoridade competente e as autoridades setoriais poderao realizar\ninvestigacdes conjuntas sobre os sistemas de IA de alto risco em casos de suspeita de violagao\naos principios, direitos e deveres previstos nesta Lei ou na legislacdo setorial aplicavel."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 52",
+    "section_name": "Art. 52",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "Os orgdos e entidades integrantes do SIA devem comunicar\nimediatamente ao Conselho Administrativo de Defesa Econémica (Cade) quaisquer\ninformagoes identificadas no decurso das atividades de fiscalizagao que possam ter interesse\npotencial para a aplicac&o da Lei n° 12.529, de 30 de novembro de 2011 (Lei de Defesa da\nConcorréncia).\nParagrafo unico. No exercicio das suas atribuig¢des e sempre no limite do que for\npertinente e necessario 4 apura¢do de indicios concretos de infragdes 4 ordem econdmica, 0\nCade poder ordenar aos desenvolvedores que seja concedido acesso aos conjuntos de dados\nde treinamento, validacdo e teste utilizados para o desenvolvimento dos sistemas de JA de\nalto risco.\nSecaio IV\nDo Conselho Permanente de Cooperacio Regulatéria de Inteligéncia Artificial"
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 53",
+    "section_name": "Art. 53",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "E criado o Conselho Permanente de Cooperagéo Regulatéria de\nInteligéncia Artificial (Cria), que tera como atribuigdo a produgio de diretrizes e sera forum\npermanente de colaboragao, inclusive por meio de acordos de cooperag4o técnica, com as\nautoridades setoriais e com a sociedade civil, a fim de harmonizar e facilitar o exercicio das\natribuigdes da autoridade competente.\nPardgrafo unico. Compete ao Cria:\nI — sugerir agdes a serem realizadas pelo SIA;\nIl — elaborar estudos e realizar debates publicos sobre IA;\nIl — disseminar 0 conhecimento sobre IA.\nSecaio V\nDo Comité de Especialistas e Cientistas de Inteligéncia Artificial"
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 54",
+    "section_name": "Art. 54",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "E criado o Comité de Especialistas e Cientistas de Inteligéncia Artificial\n(Cecia) com o objetivo de orientar e supervisionar técnica e cientificamente 0\ndesenvolvimento e a aplicacio da IA de forma responsavel, nos termos definidos por\nregulamento."
+  },
+  {
+    "depth": 3,
+    "section_id": "CAPITULO X",
+    "section_name": "DO FOMENTO A INOVACGAO SUSTENTAVEL",
+    "id_kind": "chapter",
+    "parent_id": "",
+    "body": "Secado I\nDo Ambiente Regulatério Experimental (Sandbox Regulatério)"
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 55",
+    "section_name": "Art. 55",
+    "id_kind": "section_word",
+    "parent_id": "CAPITULO X",
+    "body": "A autoridade competente e as autoridades setoriais que comp6em 0 SIA\ndeverdo promover e autorizar o funcionamento de ambiente regulatério experimental para\ninovacdo em inteligéncia artificial (sandbox regulatério de IA) por conta propria ou para as\nentidades que o requererem e preencherem os requisitos especificados por esta Lei e em\nregulamentagao, inclusive em regime de cooperagao publico-privado."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 1° O sandbox regulatorio visa a facilitar o desenvolvimento, a testagem e a",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "validacdo de sistemas inovadores de IA por um periodo limitado antes da sua coloca¢gao no\nmercado ou colocagao em servico de acordo com um plano especifico, a fim de desenvolver\nnegocios inovadores de maneira segura."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 2° A autoridade competente e as autoridades setoriais poderao, individualmente",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "ou em colaboracdo, no 4mbito de programas de ambiente regulatério experimental (sandbox\nregulatério), afastar a incidéncia de normas sob sua competéncia em relagao a entidade\nregulada ou aos grupos de entidades reguladas."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 56",
+    "section_name": "Art. 56",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "A autoridade competente e as autoridades setoriais que compoem o SIA\nregulamentarfo os procedimentos para a solicitago e a autorizagao de funcionamento de\nsandboxes regulatérios, podendo limitar ou interromper 0 seu funcionamento e emitir\nrecomendagées, levando em consideragao, entre outros aspectos, a preservacao de direitos\nfundamentais e de direitos dos consumidores potencialmente afetados, a segurancga e a\nprotecao."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 1° As autoridades setoriais deverao proporcionar a micro e pequenas empresas,",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "startups e Instituigdes Cientifica, Tecnologicas e de Inovagao (ICTs) ptblicas e privadas\nacesso prioritario aos ambientes de testagem, na medida em que cumpram as condi¢Ges de\nelegibilidade, os critérios de selegao e demais regulamentos."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 2° A autoridade competente e as autoridades setoriais poderao criar mecanismos",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "para reduzir os custos regulatorios das entidades qualificadas na forma do § 1° do caput deste\nartigo."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 57",
+    "section_name": "Art. 57",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "Os participantes no ambiente de testagem da regulamentagao da IA\ncontinuam a ser responsaveis, nos termos da legislagao aplicavel, por quaisquer danos\ninfligidos a terceiros em resultado da experimenta¢do que ocorre no ambiente de testagem.\nSeco II\nDas Diretrizes para protegao ao trabalho e aos trabalhadores"
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 58",
+    "section_name": "Art. 58",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "A autoridade competente, as autoridades setoriais que compoem 0 SIA e\no Conselho Permanente de Cooperac&o Regulatéria de Inteligéncia Artificial (Cria), em\ncoopera¢do com o Ministério do Trabalho, deverao desenvolver diretrizes para, entre outros\nobjetivos:\nI — mitigar os potenciais impactos negativos aos trabalhadores, em especial os\nriscos de deslocamento de emprego e oportunidades de carreira relacionadas a IA;\nII — potencializar os impactos positivos aos trabalhadores, em especial para\nmelhoria da satide e seguranga do local de trabalho;\n\nIll — valorizar os instrumentos de negociacdes e conven¢des coletivas;\nIV — fomentar o desenvolvimento de programas de treinamento ¢ a capacitagao\ncontinua para os trabalhadores em atividade, promovendo a valorizagao e o aprimoramento\nprofissional.\nSecao III\nDas Medidas de Incentivo e Sustentabilidade"
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 59",
+    "section_name": "Art. 59",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "A administracdo publica no 4mbito da Unido, dos Estados, do Distrito\nFederal e dos Municipios podera fomentar a inovagao ¢ 0 desenvolvimento produtivo e\ntecnolégico em JA.\nParagrafo unico. As medidas de fomento referidas no caput serao pautadas pelas\nseguintes diretrizes:\nI — promogdo da inova¢ao nos setores produtivos, inclusive por meio da\ncontratac4o de solugdes inovadoras pelo Estado e da celebracdo de parcerias publico-privadas\nnos termos da Lei n° 11.079, de 30 de dezembro de 2004;\nII — investimento em pesquisa para o desenvolvimento de IA no Pais, voltada ao\ncontexto socioeconémico brasileiro, prezando pela autonomia tecnologica e de dados do Pais\ne sua insergdo e competitividade nos mercados interno e internacional;\nII — financiamento de recursos fisicos e tecnolégicos de IA de dificil acesso para\npequenas e médias empresas ¢€ centros de pesquisa que promovam praticas sustentaveis;\nIV — incentivo 4 ampliacao da disponibilidade de data centers sustentaveis de alta\ncapacidade de processamento de dados para sistemas de IA, com 0 adensamento dessa cadeia\nprodutiva e dos servi¢gos digitais relacionados no Brasil, com o objetivo de apoiar o setor\nprodutivo e a pesquisa e 0 desenvolvimento técnico-cientificos;\nV — incentivo a criaco de centros multidisciplinares de pesquisa, desenvolvimento\ne inovagado em IA."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 60",
+    "section_name": "Art. 60",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "Entidades ptblicas e privadas devem priorizar a utilizacao de sistemas e\naplicacdes de IA que visem a eficiéncia energética e 4 racionalizagdo do consumo de recursos\nnaturais."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 61",
+    "section_name": "Art. 61",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "O Cria, em coopera¢do com 0 Ministério do Meio Ambiente e Mudanga\ndo Clima, fomentara a pesquisa e 0 desenvolvimento de programas de certificagao para\nredugio do impacto ambiental de sistemas de IA.\nSeco IV\nDos Direitos de Autor e Conexos"
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 62",
+    "section_name": "Art. 62",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "O desenvolvedor de IA que utilizar contetido protegido por direitos de\nautor e conexos devera informar sobre os contetidos protegidos utilizados nos processos de\ndesenvolvimento dos sistemas de IA, por meio da publicacao de sumario em sitio eletrénico\nde facil acesso, observados os segredos comercial e industrial, nos termos de regulamento\nespecifico.\n\nParagrafo unico. Para fins deste Capitulo, o desenvolvimento compreende as\netapas de mineracAo, treinamento, retreinamento, testagem, validagdo e aplicacao de sistemas\nde IA."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 63",
+    "section_name": "Art. 63",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "Nao constitui ofensa aos direitos de autor ¢ conexos a utilizagao\nautomatizada de contetidos protegidos em processos de mineragao de textos e dados para os\nfins de pesquisa e desenvolvimento de sistemas de IA por organizagdes e instituigdes\ncientificas, de pesquisa e educacionais, museus, arquivos publicos e bibliotecas, desde que\nobservadas as seguintes condi¢Ges:\nI —o acesso tenha se dado de forma licita;\nII — nado tenha fins comerciais;\nIII — a utilizacdo de contetidos protegidos por direitos de autor e conexos seja feita\nna medida necessaria para 0 objetivo a ser alcangado, sem prejuizo dos interesses economicos\ndos titulares e sem concorréncia com a explorac4o normal das obras e contetidos protegidos."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 1° Copias de conteudos protegidos por direitos de autor e conexos utilizadas nos",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "sistemas de IA deverao ser armazenadas em condig6es de seguranga, ¢ unicamente pelo tempo\nnecessdrio para a realizagao da atividade ou para a finalidade especifica de verificagao dos\nresultados."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 2° E vedada a exibigao ou a disseminagao das obras e contetidos protegidos por",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "direitos de autor e conexos utilizados no desenvolvimento de sistemas de IA."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 3° Este artigo nao se aplica a instituicdes vinculadas, coligadas ou controladas",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "por entidade com fins lucrativos que fornegam sistemas de IA ou que tenham, entre elas,\nparticipacdo aciondria."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 4° Aplica-se 0 disposto no caput deste artigo 4 mineracao de dados. por entidades",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "publicas ou privadas, no contexto de sistemas de IA para combate a ilicitos civis € criminais,\nque atentem contra direitos de autor ¢ conexos."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 64",
+    "section_name": "Art. 64",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "O titular de direitos de autor e conexos podera proibir a utilizagado dos\ncontetidos de sua titularidade no desenvolvimento de sistemas de IA nas hipéteses nao\ncontempladas pelo art. 63 desta Lei.\nParagrafo unico. A proibi¢ao do uso de obras e contetidos protegidos nas bases de\ndados de um sistema de IA posterior ao processo de treinamento nao exime o agente de IA de\nresponder por perdas e danos morais e materiais, nos termos da legislagao aplicavel."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 65",
+    "section_name": "Art. 65",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "O agente de IA que utilizar conteudos protegidos por direitos de autor ¢\nconexos em processos de minera¢ao, treinamento ou desenvolvimento de sistemas de IA deve\nremunerar os titulares desses contetidos em virtude dessa utilizagao, devendo-se assegurar:\nI — que os titulares de direitos de autor e conexos tenham condicées efetivas de\nnegociar coletivamente, nos termos do Titulo VI da Lei n° 9.610, de 19 de fevereiro de 1998\n(Lei dos Direitos Autorais), ou diretamente a utilizagao dos contetidos dos quais sao titulares,\npodendo fazé-lo de forma gratuita ou onerosa;\nII — que o calculo da remunera¢do a que se refere o caput considere os principios\nda razoabilidade e da proporcionalidade e elementos relevantes, tais como o porte do agente\nde LA es efeitos concorrenciais dos resultados em relagao aos contetidos originais utilizados;\n\nIll — a livre negociag&o na utilizagdo dos conteidos protegidos, visando a\npromocdo de ambiente de pesquisa e experimentagdo que possibilite o desenvolvimento de\npraticas inovadoras, e que nado restrinjam a liberdade de pactuacao entre as partes envolvidas.\nnos termos dos arts. 156, 157, 421, 422, 478 e 479 da Lei n° 10.406, de 10 de janeiro de 2002\n(Cédigo Civil), e 0 art. 4° da Lei n° 9.610, de 19 de fevereiro de 1998 (Lei dos Direitos\nAutorais)."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 1° A remuneragao a que se refere o caput deste artigo é devida somente:",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "I — aos titulares de direitos de autor ¢ conexos nacionais ou estrangeiros\ndomiciliados no Brasil;\nII —a pessoas domiciliadas em pais que assegure a reciprocidade na prote¢ao, em\ntermos equivalentes a este artigo, aos direitos de autor e conexos de brasileiros, conforme\ndisposto nos arts. 2°, paragrafo tnico, e 97, § 4°, da Lei n° 9.610, de 19 de fevereiro de 1998\n(Lei dos Direitos Autorais), sendo vedada a cobranga nos casos em que a reciprocidade nao\nestiver assegurada."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 2° O titular do direito de remuneragio previsto no caput que optar pela",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "negociacio e autorizacao direta, nos termos do inciso I do caput, podera exercé-lo\nindependentemente de regulamenta¢ao posterior."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 66",
+    "section_name": "Art. 66",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "A utilizagao de contetdos de imagem, Audio, voz ou video que retratem\nou identifiquem pessoas naturais pelos sistemas de IA devera respeitar os direitos da\npersonalidade, na forma prevista na Lei n° 10.406, de 10 de janeiro de 2002 (Codigo Civil), e\nna legislagao pertinente.\nSecio V\nDo Incentivo a Microempresas, Empresas de Pequeno Porte e Startups"
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 67",
+    "section_name": "Art. 67",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "As autoridades setoriais deverdo definir critérios diferenciados para\nsistemas de IA ofertados por microempresas, empresas de pequeno porte e startups que\npromovam o desenvolvimento da industria tecnolégica nacional.\nParagrafo unico. Critérios diferenciados devem considerar o impacto\nconcorrencial das atividades econdmicas correlatas, o numero de usuarios afetados e a\nnatureza das atividades econdmicas exercidas."
+  },
+  {
+    "depth": 3,
+    "section_id": "CAPITULO XI",
+    "section_name": "DA ATUAGAO DO PODER PUBLICO",
+    "id_kind": "chapter",
+    "parent_id": "",
+    "body": "Secao I\nDisposicdes Gerais"
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 68",
+    "section_name": "Art. 68",
+    "id_kind": "section_word",
+    "parent_id": "CAPITULO XI",
+    "body": "Constituem diretrizes para a atuagao da Unido, dos Estados, do Distrito\nFederal e dos Municipios no desenvolvimento da IA no Brasil:\n1 — estabelecimento de mecanismos de governan¢ca multiparticipativa,\nmultissetorial transparente, colaborativa e democratica, com a participagao do governo, do\n\nsetor empresarial, do terceiro setor e da comunidade académica, especialmente considerando\nos grupos vulneraveis;\nII — promocg&o da confianga nas tecnologias de IA, com disseminacfo de\ninformacoes e de conhecimento sobre seus usos éticos e responsaveis;\nIII — estimulo a capacitacdo e a preparagdo das pessoas para a reestrutura¢ao do\nmercado de trabalho;\nIV — promogio da interoperabilidade entre sistemas de IA, inclusive entre os\ndiferentes Ambitos federativos e diversos setores da sociedade, com decisdes que busquem\nevitar a dependéncia tecnolégica e propiciar a continuidade do emprego dos sistemas\ndesenvolvidos ou contratados;\nV — publicidade e disseminacao de dados, de forma aberta, estruturada e segura;\nVI — protecdo ao meio ambiente e desenvolvimento sustentavel;\nVII — promocgio da cooperagdo internacional, mediante estimulo ao\ncompartilhamento do conhecimento sobre sistemas de IA, de modo a facilitar a\ninteroperabilidade regulatoria e tecnoldgica;\nVIII — promogao de investimento em IA voltada para a solucdo dos problemas do\nPais, promovendo seu desenvolvimento socioeconémico, cultural e ambiental, e para o\ndesenvolvimento do sistema produtivo nacional e regional, prezando pela autonomia\ntecnologica do Pais e sua inser¢ao e competitividade nos mercados interno e internacional."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 69",
+    "section_name": "Art. 69",
+    "id_kind": "section_word",
+    "parent_id": "CAPITULO XI",
+    "body": "Os sistemas de IA de entes do poder publico devem buscar:\nI — acessibilidade das pessoas, independentemente de suas capacidades fisico-\nmotoras, perceptivas, sensoriais, intelectuais, mentais, culturais e sociais, resguardados os\naspectos de sigilo e restrigdes administrativas e legais;\nII — compatibilidade tanto com a leitura humana quanto com o tratamento\nautomatizado das informag¢oes;\nIII — facilidade de uso dos servicos de governo eletrénico que utilizem sistemas de\nIA;\nIV — garantia de transparéncia quanto ao uso de sistemas de IA;\nV — promogao da cultura e da lingua portuguesa,\nVI — estimulo ao desenvolvimento de sistemas de IA nacionais, com especial\natencdo para questdes nacionais e nuances culturais, de idioma e de contexto socioeconémico.\nSecao II\nDa Formacio, da Capacitacao e da Educagao"
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 70",
+    "section_name": "Art. 70",
+    "id_kind": "section_word",
+    "parent_id": "CAPITULO XI",
+    "body": "A administragdo publica, no 4mbito da Unido, dos Estados, do Distrito\nFederal e dos Municipios, implementara programas de:\nI — educagiio, formacao, capacitagao, qualificagao ¢ requalificagdo técnica e\nsuperior em IA alinhados as demandas do mercado e do setor publico;\nIl — letramento digital para uso significativo, responsavel e com equidade dos\nsistemas de IA disponiveis, priorizando-se a educagao basica;\n\nIII — apoio para trabalhadores impactados e possivelmente afetados pela adocgao da\nIA, com foco na promog4o do bem-estar, requalificagaéo, adaptagdo as novas exigéncias do\nmercado de trabalho e reinsercdo profissional;\nIV —conscientizagéio e capacitagao em sustentabilidade no campo das tecnologias\ndigitais avangadas, com énfase em praticas responsaveis na utilizago de recursos; e\nV — incentivo as instituicdes de ensino para incluir em seus curriculos disciplinas\nsobre impacto ambiental e sustentabilidade no desenvolvimento ¢ operacao de sistemas e\naplicacdes de IA e outras tecnologias digitais avan¢adas."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 1° Os programas de que trata o caput buscardo reduzir as desigualdades,",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "sobretudo entre as diferentes regides do Pais."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 2° As medidas de letramento de que trata o inciso II do caput incluirdo nogoes e",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "competéncias basicas sobre os sistemas de IA e 0 seu funcionamento, incluindo os diferentes\ntipos de produtos e utilizagdes, os seus riscos e Os seus beneficios."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 71",
+    "section_name": "Art. 71",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "O Estado deve, periodicamente, formular e fomentar estudos, bem como\nfixar metas, estratégias, planos e cronogramas, referentes ao uso e ao desenvolvimento da IA\nno Pais."
+  },
+  {
+    "depth": 3,
+    "section_id": "CAPITULO XII",
+    "section_name": "DISPOSICOES FINAIS E TRANSITORIAS",
+    "id_kind": "chapter",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 72",
+    "section_name": "Art. 72",
+    "id_kind": "section_word",
+    "parent_id": "CAPITULO XII",
+    "body": "Os direitos e principios expressos nesta Lei nao excluem outros previstos\nno ordenamento juridico patrio ou nos tratados internacionais de que a Republica Federativa\ndo Brasil seja parte."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 73",
+    "section_name": "Art. 73",
+    "id_kind": "section_word",
+    "parent_id": "CAPITULO XII",
+    "body": "A fim de promover o desenvolvimento tecnolégico nacional, o SIA\nregulamentara regimes simplificados, envolvendo flexibilizagdo de obrigagdes regulatorias\nprevistas nesta Lei, nos seguintes casos:\nI— padrdes e formatos abertos ¢ livres, com excegao daqueles considerados de alto\nrisco ou que se enquadrarem na Segao V do Capitulo IV desta Lei;\nII — fomento nacional;\nIII — incentivo a inovacdo e 4 pesquisa cientifica e tecnolégica no ambiente\nprodutivo, com vistas 4 capacitagao tecnologica. ao alcance da autonomia tecnoldgica e ao\ndesenvolvimento do sistema produtivo nacional e regional do Pais;\nIV — projetos de interesse publico e aqueles que atendam as prioridades das\npoliticas industrial e de ciéncia, tecnologia e inovacdo e que sejam relacionados a solugao dos\nproblemas brasileiros;\nV — projetos realizados em parceria publico-privada, ou em parcerias estratégicas,\nem Instituicao Cientifica, Tecnoldgica e de Inovacao (ICT), Nucleo de Inovacdo Tecnolégica\n(NIT), fundacao de apoio, parques tecnolégicos ou polos tecnoldgicos.\nParagrafo unico. O Poder Executivo dispora acerca de incentivos econdmicos nos\ncasos previstos no caput deste artigo."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 74",
+    "section_name": "Art. 74",
+    "id_kind": "section_word",
+    "parent_id": "CAPITULO XII",
+    "body": "Em conformidade com o Capitulo [X desta Lei, o Poder Executivo:\n\nI — fornecera, no prazo de 2 (dois) anos, os recursos necessarios 4 ANPD, inclusive\npara sua reestruturagado administrativa, a fim de garantir seguranga juridica e eficiéncia na\nsupervisio e fiscalizacéo do cumprimento desta Lei;\nIl — definira a lista de orgdos e entidades que figuraréo como autoridades setoriais\nintegrantes do SIA;\nIll — definira a composi¢do detalhada do Cria;\nIV — definira a atuacao da Camara de Mediagaio e de Conciliagao da Administragao\nPublica Federal; e\nV — definira a composigao e as competéncias do Cecia."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 75",
+    "section_name": "Art. 75",
+    "id_kind": "section_word",
+    "parent_id": "CAPITULO XII",
+    "body": "O caput do art. 3° da Lei n° 14.533, de 11 de janeiro de 2023 (Politica\nNacional de Educac4o Digital), passa a vigorar acrescido do seguinte inciso VI:\nVI — letramento algoritmico critico e computagao critica, que envolve a\nleitura sobre as implicagdes sociais e humanas das tecnologias, considerando\nespecialmente a inteligéncia artificial."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 76",
+    "section_name": "Art. 76",
+    "id_kind": "section_word",
+    "parent_id": "CAPITULO XII",
+    "body": "O art. 12 da Lei n° 11.540, de 12 de novembro de 2007, passa a vigorar\nacrescido do seguinte § 6°:"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 6° Nas hipéteses do inciso I do caput, alineas “a”, “b” e “d”, sera",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "priorizada a execugao de pesquisas € projetos de inteligéncia artificial por\nparte dos diversos atores nos setores publico e privado, ou por meio de\nparceria publico-privada.” (NR)"
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 77",
+    "section_name": "Art. 77",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "A regulagao de aspectos associados a circulacdo de conteudo online e que\npossam afetar a liberdade de expressdo, inclusive 0 uso de IA para moderagao e recomendagao\nde contetdo, somente podera ser feita por meio de legislagao especifica."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 78",
+    "section_name": "Art. 78",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "A implementacg&o desta Lei observara o ato juridico perfeito, o direito\nadquirido e a coisa julgada."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 79",
+    "section_name": "Art. 79",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "Considerando o impacto da transforma¢do tecnoldgica, cabera ao SIA, a\ncada quadriénio, promover estudos e emitir parecer opinativo a ser enviado ao Congresso\nNacional quanto a necessidade de aprimoramento das normas estabelecidas nesta Lei."
+  },
+  {
+    "depth": 4,
+    "section_id": "Art. 80",
+    "section_name": "Art. 80",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "Esta Lei entra em vigor apdés decorridos 730 (setecentos ¢e trinta) dias de\nsua publicacao oficial."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 1° Entram em vigor apés 180 (cento ¢ oitenta) dias da publicagéo desta Lei:",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "I-o art. 13;\nII — as regras previstas na Segao V do Capitulo IV; e\n\n: 35\nIII — as regras previstas na Segdo IV do Capitulo X, salvo o art. 62, que possui\nvigéncia imediata."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 2° Entram em vigor na data de publicagao desta Lei:",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "I — as disposigdes do Capitulo IX, com excegao do art. 50;\nII — as seguintes Segdes do Capitulo X:\na) Secdo III; e\nb) Segdo V.\nSenado Federal, em 31 de amen de ARS .\nSenador Rodrigo Pacheco\nPresidente do Senado Federal\nivb/p123-2338rev"
+  }
+]

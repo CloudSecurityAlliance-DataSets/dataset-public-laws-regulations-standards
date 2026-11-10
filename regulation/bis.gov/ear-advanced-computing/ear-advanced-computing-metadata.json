@@ -1,0 +1,63 @@
+{
+  "secid": "secid:regulation/bis.gov/ear-advanced-computing",
+  "name": "Export Administration Regulations (EAR) — advanced computing and semiconductor manufacturing items controls",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "ear-advanced-computing",
+  "owner": "Bureau of Industry and Security",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Export Administration Regulations — advanced computing / AI model weight export controls",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by Bureau of Industry and Security (bis.gov) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within Bureau of Industry and Security (bis.gov).",
+  "license": {
+    "spdx": "CC0-1.0",
+    "Grouping": "Public Domain",
+    "redistribution": "yes",
+    "derivatives": "yes",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.usa.gov/government-works",
+    "note": "United States Government work (17 U.S.C. § 105); in the public domain worldwide.",
+    "notes": "United States Government work (17 U.S.C. § 105); in the public domain worldwide."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.federalregister.gov/documents/2025/01/15/2025-00636/framework-for-artificial-intelligence-diffusion",
+    "textUsed": "https://www.govinfo.gov/content/pkg/FR-2025-01-15/pdf/2025-00636.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2025-01-15",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official regulation (https://www.govinfo.gov/content/pkg/FR-2025-01-15/pdf/2025-00636.pdf) to Markdown (300,717 chars). Parsed 30 sections (26 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  }
+}

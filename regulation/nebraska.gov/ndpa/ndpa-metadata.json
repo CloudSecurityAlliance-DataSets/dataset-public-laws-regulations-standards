@@ -1,0 +1,60 @@
+{
+  "secid": "secid:regulation/nebraska.gov/ndpa",
+  "name": "Nebraska Data Privacy Act",
+  "acronym": "NDPA",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "ndpa",
+  "owner": "State of Nebraska",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Nebraska's comprehensive consumer privacy law, part of omnibus LB 1074 (Neb. Rev. Stat. 87-1101 et seq.). Signed April 17 2024, effective January 1 2025.",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by State of Nebraska (nebraska.gov) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within State of Nebraska (nebraska.gov).",
+  "license": {
+    "spdx": "LicenseRef-All-Rights-Reserved",
+    "Grouping": "Proprietary / All Rights Reserved",
+    "redistribution": "prohibited",
+    "derivatives": "prohibited",
+    "publicly_redistributable": true,
+    "license_text_url": null,
+    "note": "Official publication (nebraska.gov) with explicit copyright reservation ('All rights reserved' or prior permission requirement) in document text. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
+    "notes": "Official publication (nebraska.gov) with explicit copyright reservation ('All rights reserved' or prior permission requirement) in document text. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://nebraskalegislature.gov/laws/statutes.php?statute=87-1101",
+    "textUsed": "https://nebraskalegislature.gov/FloorDocs/108/PDF/Slip/LB1074.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "date": "2026-11-10",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "s3_archive_path": "",
+    "notes": "Extracted official regulation (https://nebraskalegislature.gov/FloorDocs/108/PDF/Slip/LB1074.pdf) to Markdown (263,804 chars). Parsed 73 sections (71 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  }
+}

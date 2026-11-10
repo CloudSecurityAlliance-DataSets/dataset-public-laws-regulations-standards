@@ -5,7 +5,7 @@
     "section_name": "Iowa Consumer Data Protection Act (Iowa Code Chapter 715D)",
     "id_kind": "",
     "parent_id": "",
-    "body": "_Source: https://www.legis.iowa.gov/docs/code/2025/715D.pdf — extracted via pdftotext -layout. Effective January 1, 2025._\n\n```\n1                                                            CONSUMER DATA PROTECTIONS, §715D.1"
+    "body": "_Source: https://www.legis.iowa.gov/docs/code/2025/715D.pdf — extracted via pdftotext -layout. Effective January 1, 2025._\n\n1                                                            CONSUMER DATA PROTECTIONS, §715D.1"
   },
   {
     "depth": 3,
@@ -17,47 +17,7 @@
   },
   {
     "depth": 3,
-    "section_id": "715D.1 (1)",
-    "section_name": "Definitions.                                  715D.6            Processing data — exemptions.",
-    "id_kind": "statute",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "715D.2 (1)",
-    "section_name": "Scope and exemptions.                         715D.7            Limitations.",
-    "id_kind": "statute",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "715D.3 (1)",
-    "section_name": "Consumer data rights.",
-    "id_kind": "statute",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "715D.4 (1)",
-    "section_name": "Data controller duties.                       715D.8            Enforcement — penalties.",
-    "id_kind": "statute",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "715D.5 (1)",
-    "section_name": "Processor duties.                             715D.9            Preemption.",
-    "id_kind": "statute",
-    "parent_id": "",
-    "body": ""
-  },
-  {
-    "depth": 3,
-    "section_id": "715D.1 (2)",
+    "section_id": "715D.1",
     "section_name": "Definitions.",
     "id_kind": "statute",
     "parent_id": "",
@@ -73,7 +33,7 @@
   },
   {
     "depth": 3,
-    "section_id": "715D.2 (2)",
+    "section_id": "715D.2",
     "section_name": "Scope and exemptions.",
     "id_kind": "statute",
     "parent_id": "",
@@ -89,7 +49,7 @@
   },
   {
     "depth": 3,
-    "section_id": "715D.3 (2)",
+    "section_id": "715D.3",
     "section_name": "Consumer data rights.",
     "id_kind": "statute",
     "parent_id": "",
@@ -97,7 +57,7 @@
   },
   {
     "depth": 3,
-    "section_id": "715D.4 (2)",
+    "section_id": "715D.4",
     "section_name": "Data controller duties.",
     "id_kind": "statute",
     "parent_id": "",
@@ -113,7 +73,7 @@
   },
   {
     "depth": 3,
-    "section_id": "715D.5 (2)",
+    "section_id": "715D.5",
     "section_name": "Processor duties.",
     "id_kind": "statute",
     "parent_id": "",
@@ -165,6 +125,6 @@
     "section_name": "§715D.9, CONSUMER DATA PROTECTIONS                                                            10",
     "id_kind": "",
     "parent_id": "",
-    "body": "2. Any reference to federal, state, or local law or statute in this chapter shall be deemed\nto include any accompanying rules or regulations or exemptions thereto, or in the case of a\nfederal agency, guidance issued by such agency thereto.\n  2023 Acts, ch 17, §9, 10\n  Section effective January 1, 2025; 2023 Acts, ch 17, §10\n  NEW section\n\nTue Nov 19 20:02:25 2024                                     Iowa Code 2025, Chapter 715D (13, 8)\n\n```"
+    "body": "2. Any reference to federal, state, or local law or statute in this chapter shall be deemed\nto include any accompanying rules or regulations or exemptions thereto, or in the case of a\nfederal agency, guidance issued by such agency thereto.\n  2023 Acts, ch 17, §9, 10\n  Section effective January 1, 2025; 2023 Acts, ch 17, §10\n  NEW section\n\nTue Nov 19 20:02:25 2024                                     Iowa Code 2025, Chapter 715D (13, 8)"
   }
 ]

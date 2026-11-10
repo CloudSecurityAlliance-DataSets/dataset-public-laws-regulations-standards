@@ -1,0 +1,598 @@
+"depth","section_id","section_name","id_kind","parent_id","body"
+"1","","California AB 1008 — California Consumer Privacy Act of 2018: Personal Information in AI Systems (Civil Code § 1798.140, enacted Sept 28, 2024)","","","**Assembly Bill
+No. 1008**"
+"3","CHAPTER 802","CHAPTER 802","chapter","","An act to amend Section 1798.140 of the Civil Code, relating to privacy.
+
+[
+Approved by
+Governor
+ September 28, 2024.
+Filed with
+Secretary of State
+ September 28, 2024.
+]"
+"2","","LEGISLATIVE COUNSEL'S DIGEST","","","AB 1008, Bauer-Kahan.
+California Consumer Privacy Act of 2018: personal information.
+
+The California Consumer Privacy Act of 2018 (CCPA) grants to a consumer various rights with respect to personal information, as defined, that is collected by a business, as defined, including by requiring a business that controls the collection of a consumer’s personal information to, at or before the point of collection, make certain disclosures to the consumer.
+The California Privacy Rights Act of 2020, approved by the voters as Proposition 24 at the November 3, 2020, statewide general election, amended, added to, and reenacted the CCPA. The CCPA establishes the California Privacy Protection Agency and vests it with full administrative power, authority, and jurisdiction to implement and enforce the CCPA.
+
+This bill would specify that personal information can exist in various formats.
+
+The California Privacy Rights Act of 2020 authorizes the Legislature to amend the act to further the purposes and intent of the act by a majority vote of both houses of the Legislature, as specified.
+
+This bill would declare that its provisions further the purposes and intent of the California Privacy Rights Act of 2020.
+
+This
+bill would incorporate additional changes to Section 1798.140 of the Civil Code proposed by SB 1223 to be operative only if this bill and SB 1223 are enacted and this bill is enacted last."
+"2","","Digest Key","","","Vote:
+MAJORITY
+Appropriation:
+NO
+Fiscal Committee:
+YES
+Local Program:
+NO
+
+---"
+"2","","Bill Text","","",""
+"2","","The people of the State of California do enact as follows:","","",""
+"3","SECTION 1","SECTION 1","section_word","",""
+"3","","Section 1798.140 of the Civil Code, as amended by Chapter 121 of the Statutes of 2024, is amended to read:","","",""
+"6","1798.140 (1)","1798.140","statute","","Definitions
+
+For purposes of this title:
+
+(a) “Advertising and marketing” means a communication by a business or a person acting on the business’ behalf in any medium intended to induce a consumer to obtain goods, services, or employment.
+
+(b) “Aggregate consumer information” means information that relates to a group or category of consumers, from which individual consumer identities have been removed, that is not linked or reasonably linkable to any consumer or household, including via a device. “Aggregate consumer information” does not mean one or more individual consumer records that have been deidentified.
+
+(c) “Biometric information” means an individual’s physiological, biological, or behavioral characteristics, including information pertaining to an individual’s deoxyribonucleic acid (DNA), that is used or is intended to be used singly or in combination with each other or with other identifying data, to establish individual identity. Biometric information includes, but is not limited to, imagery of the iris, retina, fingerprint, face, hand, palm, vein patterns, and voice recordings, from which an identifier template, such as a faceprint, a minutiae template, or a voiceprint, can be extracted, and keystroke patterns or rhythms, gait patterns or rhythms, and sleep, health, or exercise data that contain identifying information.
+
+(d) “Business” means:
+
+(1) A sole proprietorship, partnership, limited liability company, corporation, association, or other legal entity that is
+organized or operated for the profit or financial benefit of its shareholders or other owners, that collects consumers’ personal information, or on the behalf of which such information is collected and that alone, or jointly with others, determines the purposes and means of the processing of consumers’ personal information, that does business in the State of California, and that satisfies one or more of the following thresholds:
+
+(A) As of January 1 of the calendar year, had annual gross revenues in excess of twenty-five million dollars ($25,000,000) in the preceding calendar year, as adjusted pursuant to subdivision (d) of Section 1798.199.95.
+
+(B) Alone or in combination, annually buys, sells, or shares the personal information of 100,000 or more consumers or households.
+
+(C) Derives 50 percent or more of its annual
+revenues from selling or sharing consumers’ personal information.
+
+(2) Any entity that controls or is controlled by a business, as defined in paragraph (1), and that shares common branding with the business and with whom the business shares consumers’ personal information. “Control” or “controlled” means ownership of, or the power to vote, more than 50 percent of the outstanding shares of any class of voting security of a business; control in any manner over the election of a majority of the directors, or of individuals exercising similar functions; or the power to exercise a controlling influence over the management of a company. “Common branding” means a shared name, servicemark, or trademark that the average consumer would understand that two or more entities are commonly owned.
+
+(3) A joint venture or partnership composed of businesses in which each business has at least a 40
+percent interest. For purposes of this title, the joint venture or partnership and each business that composes the joint venture or partnership shall separately be considered a single business, except that personal information in the possession of each business and disclosed to the joint venture or partnership shall not be shared with the other business.
+
+(4) A person that does business in California, that is not covered by paragraph (1), (2), or (3), and that voluntarily certifies to the California Privacy Protection Agency that it is in compliance with, and agrees to be bound by, this title.
+
+(e) “Business purpose” means the use of personal information for the business’ operational purposes, or other notified purposes, or for the service provider or contractor’s operational purposes, as defined by regulations adopted pursuant to paragraph (10) of subdivision (a) of Section
+1798.185, provided that the use of personal information shall be reasonably necessary and proportionate to achieve the purpose for which the personal information was collected or processed or for another purpose that is compatible with the context in which the personal information was collected. Business purposes are:
+
+(1) Auditing related to counting ad impressions to unique visitors, verifying positioning and quality of ad impressions, and auditing compliance with this specification and other standards.
+
+(2) Helping to ensure security and integrity to the extent the use of the consumer’s personal information is reasonably necessary and proportionate for these purposes.
+
+(3) Debugging to identify and repair errors that impair existing intended functionality.
+
+(4) Short-term, transient use, including, but not limited to, nonpersonalized advertising shown as part of a consumer’s current interaction with the business, provided that the consumer’s personal information is not disclosed to another third party and is not used to build a profile about the consumer or otherwise alter the consumer’s experience outside the current interaction with the business.
+
+(5) Performing services on behalf of the business, including maintaining or servicing accounts, providing customer service, processing or fulfilling orders and transactions, verifying customer information, processing payments, providing financing, providing analytic services, providing storage, or providing similar services on behalf of the business.
+
+(6) Providing advertising and marketing services, except for cross-context behavioral advertising, to the consumer provided
+that, for the purpose of advertising and marketing, a service provider or contractor shall not combine the personal information of opted-out consumers that the service provider or contractor receives from, or on behalf of, the business with personal information that the service provider or contractor receives from, or on behalf of, another person or persons or collects from its own interaction with consumers.
+
+(7) Undertaking internal research for technological development and demonstration.
+
+(8) Undertaking activities to verify or maintain the quality or safety of a service or device that is owned, manufactured, manufactured for, or controlled by the business, and to improve, upgrade, or enhance the service or device that is owned, manufactured, manufactured for, or controlled by the business.
+
+(f) “Collects,”
+“collected,” or “collection” means buying, renting, gathering, obtaining, receiving, or accessing any personal information pertaining to a consumer by any means. This includes receiving information from the consumer, either actively or passively, or by observing the consumer’s behavior.
+
+(g) “Commercial purposes” means to advance a person’s commercial or economic interests, such as by inducing another person to buy, rent, lease, join, subscribe to, provide, or exchange products, goods, property, information, or services, or enabling or effecting, directly or indirectly, a commercial transaction.
+
+(h) “Consent” means any freely given, specific, informed, and unambiguous indication of the consumer’s wishes by which the consumer, or the consumer’s legal guardian, a person who has power of attorney, or a person acting as a conservator for the consumer, including by a statement or by a
+clear affirmative action, signifies agreement to the processing of personal information relating to the consumer for a narrowly defined particular purpose. Acceptance of a general or broad terms of use, or similar document, that contains descriptions of personal information processing along with other, unrelated information, does not constitute consent. Hovering over, muting, pausing, or closing a given piece of content does not constitute consent. Likewise, agreement obtained through use of dark patterns does not constitute consent.
+
+(i) “Consumer” means a natural person who is a California resident, as defined in Section 17014 of Title 18 of the California Code of Regulations, as that section read on September 1, 2017, however identified, including by any unique identifier.
+
+(j) (1) “Contractor” means a person to whom the business makes available a consumer’s
+personal information for a business purpose, pursuant to a written contract with the business, provided that the contract:
+
+(A) Prohibits the contractor from:
+
+(i) Selling or sharing the personal information.
+
+(ii) Retaining, using, or disclosing the personal information for any purpose other than for the business purposes specified in the contract, including retaining, using, or disclosing the personal information for a commercial purpose other than the business purposes specified in the contract, or as otherwise permitted by this title.
+
+(iii) Retaining, using, or disclosing the information outside of the direct business relationship between the contractor and the business.
+
+(iv) Combining
+the personal information that the contractor receives pursuant to a written contract with the business with personal information that it receives from or on behalf of another person or persons, or collects from its own interaction with the consumer, provided that the contractor may combine personal information to perform any business purpose as defined in regulations adopted pursuant to paragraph (9) of subdivision (a) of Section 1798.185, except as provided for in paragraph (6) of subdivision (e) and in regulations adopted by the California Privacy Protection Agency.
+
+(B) Includes a certification made by the contractor that the contractor understands the restrictions in subparagraph (A) and will comply with them.
+
+(C) Permits, subject to agreement with the contractor, the business to monitor the contractor’s compliance with the contract through measures, including, but not limited
+to, ongoing manual reviews and automated scans and regular assessments, audits, or other technical and operational testing at least once every 12 months.
+
+(2) If a contractor engages any other person to assist it in processing personal information for a business purpose on behalf of the business, or if any other person engaged by the contractor engages another person to assist in processing personal information for that business purpose, it shall notify the business of that engagement, and the engagement shall be pursuant to a written contract binding the other person to observe all the requirements set forth in paragraph (1).
+
+(k) “Cross-context behavioral advertising” means the targeting of advertising to a consumer based on the consumer’s personal information obtained from the consumer’s activity across businesses, distinctly branded internet websites, applications, or services,
+other than the business, distinctly branded internet website, application, or service with which the consumer intentionally interacts.
+
+(l) “Dark pattern” means a user interface designed or manipulated with the substantial effect of subverting or impairing user autonomy, decisionmaking, or choice, as further defined by regulation.
+
+(m) “Deidentified” means information that cannot reasonably be used to infer information about, or otherwise be linked to, a particular consumer provided that the business that possesses the information:
+
+(1) Takes reasonable measures to ensure that the information cannot be associated with a consumer or household.
+
+(2) Publicly commits to maintain and use the information in deidentified form and not to attempt to reidentify the
+information, except that the business may attempt to reidentify the information solely for the purpose of determining whether its deidentification processes satisfy the requirements of this subdivision.
+
+(3) Contractually obligates any recipients of the information to comply with all provisions of this subdivision.
+
+(n) “Designated methods for submitting requests” means a mailing address, email address, internet web page, internet web portal, toll-free telephone number, or other applicable contact information, whereby consumers may submit a request or direction under this title, and any new, consumer-friendly means of contacting a business, as approved by the Attorney General pursuant to Section 1798.185.
+
+(o) “Device” means any physical object that is capable of connecting to the internet, directly or indirectly, or to
+another device.
+
+(p) “Homepage” means the introductory page of an internet website and any internet web page where personal information is collected. In the case of an online service, such as a mobile application, homepage means the application’s platform page or download page, a link within the application, such as from the application configuration, “About,” “Information,’’ or settings page, and any other location that allows consumers to review the notices required by this title, including, but not limited to, before downloading the application.
+
+(q) “Household” means a group, however identified, of consumers who cohabitate with one another at the same residential address and share use of common devices or services.
+
+(r) “Infer” or “inference” means the derivation of information, data, assumptions, or conclusions
+from facts, evidence, or another source of information or data.
+
+(s) “Intentionally interacts” means when the consumer intends to interact with a person, or disclose personal information to a person, via one or more deliberate interactions, including visiting the person’s internet website or purchasing a good or service from the person. Hovering over, muting, pausing, or closing a given piece of content does not constitute a consumer’s intent to interact with a person.
+
+(t) “Nonpersonalized advertising” means advertising and marketing that is based solely on a consumer’s personal information derived from the consumer’s current interaction with the business with the exception of the consumer’s precise geolocation.
+
+(u) “Person” means an individual, proprietorship, firm, partnership, joint venture, syndicate, business
+trust, company, corporation, limited liability company, association, committee, and any other organization or group of persons acting in concert.
+
+(v) (1) “Personal information” means information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular consumer or household. Personal information includes, but is not limited to, the following if it identifies, relates to, describes, is reasonably capable of being associated with, or could be reasonably linked, directly or indirectly, with a particular consumer or household:
+
+(A) Identifiers such as a real name, alias, postal address, unique personal identifier, online identifier, Internet Protocol address, email address, account name, social security number, driver’s license number, passport number, or other
+similar identifiers.
+
+(B) Any personal information described in subdivision (e) of Section 1798.80.
+
+(C) Characteristics of protected classifications under California or federal law.
+
+(D) Commercial information, including records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies.
+
+(E) Biometric information.
+
+(F) Internet or other electronic network activity information, including, but not limited to, browsing history, search history, and information regarding a consumer’s interaction with an internet website application, or advertisement.
+
+(G) Geolocation data.
+
+(H) Audio, electronic, visual, thermal, olfactory, or similar information.
+
+(I) Professional or employment-related information.
+
+(J) Education information, defined as information that is not publicly available personally identifiable information as defined in the Family Educational Rights and Privacy Act (20 U.S.C. Sec. 1232g; 34 C.F.R. Part 99).
+
+(K) Inferences drawn from any of the information identified in this subdivision to create a profile about a consumer reflecting the consumer’s preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes.
+
+(L) Sensitive personal information.
+
+(2) (A) “Personal information” does not include publicly available information or lawfully obtained, truthful information that is a matter of public concern.
+
+(B) (i) For purposes of this paragraph, “publicly available” means any of the following:
+
+(I) Information that is lawfully made available from federal, state, or local government records.
+
+(II) Information that a business has a reasonable basis to believe is lawfully made available to the general public by the consumer or from widely distributed media.
+
+(III) Information made available by a
+person to whom the consumer has disclosed the information if the consumer has not restricted the information to a specific audience.
+
+(ii) “Publicly available” does not mean biometric information collected by a business about a consumer without the consumer’s knowledge.
+
+(3) “Personal information” does not include consumer information that is deidentified or aggregate consumer information.
+
+(4) “Personal information” can exist in various formats, including, but not limited to, all of the following:
+
+(A) Physical formats, including paper
+documents, printed images, vinyl records, or video tapes.
+
+(B) Digital formats, including text, image, audio, or video files.
+
+(C) Abstract digital formats, including compressed or encrypted files, metadata, or artificial intelligence systems that are capable of outputting personal information.
+
+(w) “Precise geolocation” means any data that is derived from a device and that is used or intended to be used to locate a consumer within a geographic area that is equal to or less than the area of a circle with a radius of 1,850 feet, except as prescribed by regulations.
+
+(x) “Probabilistic identifier” means the identification of a consumer or a consumer’s device to a degree of certainty of more probable than not based on any categories of
+personal information included in, or similar to, the categories enumerated in the definition of personal information.
+
+(y) “Processing” means any operation or set of operations that are performed on personal information or on sets of personal information, whether or not by automated means.
+
+(z) “Profiling” means any form of automated processing of personal information, as further defined by regulations pursuant to paragraph (15) of subdivision (a) of Section 1798.185, to evaluate certain personal aspects relating to a natural person and in particular to analyze or predict aspects concerning that natural person’s performance at work, economic situation, health, personal preferences, interests, reliability, behavior, location, or movements.
+
+(aa) “Pseudonymize” or “Pseudonymization” means the processing of personal
+information in a manner that renders the personal information no longer attributable to a specific consumer without the use of additional information, provided that the additional information is kept separately and is subject to technical and organizational measures to ensure that the personal information is not attributed to an identified or identifiable consumer.
+
+(ab) “Research” means scientific analysis, systematic study, and observation, including basic research or applied research that is designed to develop or contribute to public or scientific knowledge and that adheres or otherwise conforms to all other applicable ethics and privacy laws, including, but not limited to, studies conducted in the public interest in the area of public health. Research with personal information that may have been collected from a consumer in the course of the consumer’s interactions with a business’ service or device for other purposes shall be:
+
+(1) Compatible with the business purpose for which the personal information was collected.
+
+(2) Subsequently pseudonymized and deidentified, or deidentified and in the aggregate, such that the information cannot reasonably identify, relate to, describe, be capable of being associated with, or be linked, directly or indirectly, to a particular consumer, by a business.
+
+(3) Made subject to technical safeguards that prohibit reidentification of the consumer to whom the information may pertain, other than as needed to support the research.
+
+(4) Subject to business processes that specifically prohibit reidentification of the information, other than as needed to support the research."
+"3","(5)","Made subject","cjk_sub","","to business processes to prevent inadvertent release of deidentified information."
+"3","(6) (1)","Protected from any reidentification attempts.","cjk_sub","","(7) Used solely for research purposes that are compatible with the context in which the personal information was collected.
+
+(8) Subjected by the business conducting the research to additional security controls that limit access to the research data to only those individuals as are necessary to carry out the research purpose.
+
+(ac) “Security and integrity” means the ability of:
+
+(1) Networks or information systems to detect security incidents that compromise the availability, authenticity, integrity, and confidentiality of stored or transmitted personal
+information.
+
+(2) Businesses to detect security incidents, resist malicious, deceptive, fraudulent, or illegal actions and to help prosecute those responsible for those actions.
+
+(3) Businesses to ensure the physical safety of natural persons.
+
+(ad) (1) “Sell,” “selling,” “sale,” or “sold,’’ means selling, renting, releasing, disclosing, disseminating, making available, transferring, or otherwise communicating orally, in writing, or by electronic or other means, a consumer’s personal information by the business to a third party for monetary or other valuable consideration.
+
+(2) For purposes of this title, a business does not sell personal information when:
+
+(A) A consumer
+uses or directs the business to intentionally:
+
+(i) Disclose personal information.
+
+(ii) Interact with one or more third parties.
+
+(B) The business uses or shares an identifier for a consumer who has opted out of the sale of the consumer’s personal information or limited the use of the consumer’s sensitive personal information for the purposes of alerting persons that the consumer has opted out of the sale of the consumer’s personal information or limited the use of the consumer’s sensitive personal information.
+
+(C) The business transfers to a third party the personal information of a consumer as an asset that is part of a merger, acquisition, bankruptcy, or other transaction in which the third party assumes control of all or part of the business, provided
+that information is used or shared consistently with this title. If a third party materially alters how it uses or shares the personal information of a consumer in a manner that is materially inconsistent with the promises made at the time of collection, it shall provide prior notice of the new or changed practice to the consumer. The notice shall be sufficiently prominent and robust to ensure that existing consumers can easily exercise their choices consistently with this title. This subparagraph does not authorize a business to make material, retroactive privacy policy changes or make other changes in their privacy policy in a manner that would violate the Unfair and Deceptive Practices Act (Chapter 5 (commencing with Section 17200) of Part 2 of Division 7 of the Business and Professions Code).
+
+(ae) “Sensitive personal information” means:"
+"3","(1) (1)","Personal information that","cjk_sub","","reveals:
+
+(A) A consumer’s social security, driver’s license, state identification card, or passport number.
+
+(B) A consumer’s account log-in, financial account, debit card, or credit card number in combination with any required security or access code, password, or credentials allowing access to an account.
+
+(C) A consumer’s precise geolocation.
+
+(D) A consumer’s racial or ethnic origin, citizenship or immigration status, religious or philosophical beliefs, or union membership.
+
+(E) The contents of a consumer’s mail, email, and text messages unless the business is the intended recipient of the communication.
+
+(F) A consumer’s
+genetic data.
+
+(2) (A) The processing of biometric information for the purpose of uniquely identifying a consumer.
+
+(B) Personal information collected and analyzed concerning a consumer’s health.
+
+(C) Personal information collected and analyzed concerning a consumer’s sex life or sexual orientation.
+
+(3) Sensitive personal information that is “publicly available” pursuant to paragraph (2) of subdivision (v) shall not be considered sensitive personal information or personal information.
+
+(af) “Service” or “services” means work, labor, and services, including services furnished in connection with the sale or repair of goods.
+
+(ag) (1) “Service provider” means a person that processes personal information on behalf of a business and that receives from or on behalf of the business consumer’s personal information for a business purpose pursuant to a written contract, provided that the contract prohibits the person from:
+
+(A) Selling or sharing the personal information.
+
+(B) Retaining, using, or disclosing the personal information for any purpose other than for the business purposes specified in the contract for the business, including retaining, using, or disclosing the personal information for a commercial purpose other than the business purposes specified in the contract with the business, or as otherwise permitted by this title.
+
+(C) Retaining, using, or
+disclosing the information outside of the direct business relationship between the service provider and the business.
+
+(D) Combining the personal information that the service provider receives from, or on behalf of, the business with personal information that it receives from, or on behalf of, another person or persons, or collects from its own interaction with the consumer, provided that the service provider may combine personal information to perform any business purpose as defined in regulations adopted pursuant to paragraph (9) of subdivision (a) of Section 1798.185, except as provided for in paragraph (6) of subdivision (e) of this section and in regulations adopted by the California Privacy Protection Agency. The contract may, subject to agreement with the service provider, permit the business to monitor the service provider’s compliance with the contract through measures, including, but not limited to, ongoing manual reviews and automated
+scans and regular assessments, audits, or other technical and operational testing at least once every 12 months.
+
+(2) If a service provider engages any other person to assist it in processing personal information for a business purpose on behalf of the business, or if any other person engaged by the service provider engages another person to assist in processing personal information for that business purpose, it shall notify the business of that engagement, and the engagement shall be pursuant to a written contract binding the other person to observe all the requirements set forth in paragraph (1).
+
+(ah) (1) “Share,” “shared,” or “sharing” means sharing, renting, releasing, disclosing, disseminating, making available, transferring, or otherwise communicating orally, in writing, or by electronic or other means, a consumer’s personal information by the business
+to a third party for cross-context behavioral advertising, whether or not for monetary or other valuable consideration, including transactions between a business and a third party for cross-context behavioral advertising for the benefit of a business in which no money is exchanged.
+
+(2) For purposes of this title, a business does not share personal information when:
+
+(A) A consumer uses or directs the business to intentionally disclose personal information or intentionally interact with one or more third parties.
+
+(B) The business uses or shares an identifier for a consumer who has opted out of the sharing of the consumer’s personal information or limited the use of the consumer’s sensitive personal information for the purposes of alerting persons that the consumer has opted out of the sharing of the consumer’s personal
+information or limited the use of the consumer’s sensitive personal information.
+
+(C) The business transfers to a third party the personal information of a consumer as an asset that is part of a merger, acquisition, bankruptcy, or other transaction in which the third party assumes control of all or part of the business, provided that information is used or shared consistently with this title. If a third party materially alters how it uses or shares the personal information of a consumer in a manner that is materially inconsistent with the promises made at the time of collection, it shall provide prior notice of the new or changed practice to the consumer. The notice shall be sufficiently prominent and robust to ensure that existing consumers can easily exercise their choices consistently with this title. This subparagraph does not authorize a business to make material, retroactive privacy policy changes or make other changes in their privacy
+policy in a manner that would violate the Unfair and Deceptive Practices Act (Chapter 5 (commencing with Section 17200) of Part 2 of Division 7 of the Business and Professions Code).
+
+(ai) “Third party” means a person who is not any of the following:
+
+(1) The business with whom the consumer intentionally interacts and that collects personal information from the consumer as part of the consumer’s current interaction with the business under this title."
+"3","(2) (1)","A service provider to the business.","cjk_sub","",""
+"3","(3) (1)","A contractor.","cjk_sub","","(aj) “Unique identifier” or “unique personal identifier” means a persistent identifier that can be used to recognize a consumer, a family, or a device that is linked to a consumer or
+family, over time and across different services, including, but not limited to, a device identifier; an Internet Protocol address; cookies, beacons, pixel tags, mobile ad identifiers, or similar technology; customer number, unique pseudonym, or user alias; telephone numbers, or other forms of persistent or probabilistic identifiers that can be used to identify a particular consumer or device that is linked to a consumer or family. For purposes of this subdivision, “family” means a custodial parent or guardian and any children under 18 years of age over which the parent or guardian has custody.
+
+(ak) “Verifiable consumer request” means a request that is made by a consumer, by a consumer on behalf of the consumer’s minor child, by a natural person or a person registered with the Secretary of State, authorized by the consumer to act on the consumer’s behalf, or by a person who has power of attorney or is acting as a conservator for the consumer,
+and that the business can verify, using commercially reasonable methods, pursuant to regulations adopted by the Attorney General pursuant to paragraph (6) of subdivision (a) of Section 1798.185 to be the consumer about whom the business has collected personal information. A business is not obligated to provide information to the consumer pursuant to Sections 1798.110 and 1798.115, to delete personal information pursuant to Section 1798.105, or to correct inaccurate personal information pursuant to Section 1798.106, if the business cannot verify, pursuant to this subdivision and regulations adopted by the Attorney General pursuant to paragraph (6) of subdivision (a) of Section 1798.185, that the consumer making the request is the consumer about whom the business has collected information or is a person authorized by the consumer to act on such consumer’s behalf."
+"3","SEC. 1.5","SEC. 1.5","goal","",""
+"3","","Section 1798.140 of the Civil Code, as amended by Chapter 121 of the Statutes of 2024, is amended to read:","","",""
+"6","1798.140 (2)","1798.140","statute","","Definitions
+
+For purposes of this title:
+
+(a) “Advertising and marketing” means a communication by a business or a person acting on the business’ behalf in any medium intended to induce a consumer to obtain goods, services, or employment.
+
+(b) “Aggregate consumer information” means information that relates to a group or category of consumers, from which individual consumer identities have been removed, that is not linked or reasonably linkable to any consumer or household, including via a device. “Aggregate consumer information” does not mean one or more individual consumer records that have been deidentified.
+
+(c) “Biometric information” means an individual’s physiological, biological, or behavioral characteristics, including information pertaining to an individual’s deoxyribonucleic acid (DNA), that is used or is intended to be used singly or in combination with each other or with other identifying data, to establish individual identity. Biometric information includes, but is not limited to, imagery of the iris, retina, fingerprint, face, hand, palm, vein patterns, and voice recordings, from which an identifier template, such as a faceprint, a minutiae template, or a voiceprint, can be extracted, and keystroke patterns or rhythms, gait patterns or rhythms, and sleep, health, or exercise data that contain identifying information.
+
+(d) “Business” means:
+
+(1) A sole proprietorship, partnership, limited liability company, corporation, association, or other legal entity that is
+organized or operated for the profit or financial benefit of its shareholders or other owners, that collects consumers’ personal information, or on the behalf of which such information is collected and that alone, or jointly with others, determines the purposes and means of the processing of consumers’ personal information, that does business in the State of California, and that satisfies one or more of the following thresholds:
+
+(A) As of January 1 of the calendar year, had annual gross revenues in excess of twenty-five million dollars ($25,000,000) in the preceding calendar year, as adjusted pursuant to subdivision (d) of Section 1798.199.95.
+
+(B) Alone or in combination, annually buys, sells, or shares the personal information of 100,000 or more consumers or households.
+
+(C) Derives 50 percent or more of its annual
+revenues from selling or sharing consumers’ personal information.
+
+(2) Any entity that controls or is controlled by a business, as defined in paragraph (1), and that shares common branding with the business and with whom the business shares consumers’ personal information. “Control” or “controlled” means ownership of, or the power to vote, more than 50 percent of the outstanding shares of any class of voting security of a business; control in any manner over the election of a majority of the directors, or of individuals exercising similar functions; or the power to exercise a controlling influence over the management of a company. “Common branding” means a shared name, servicemark, or trademark that the average consumer would understand that two or more entities are commonly owned.
+
+(3) A joint venture or partnership composed of businesses in which each business has at least a 40
+percent interest. For purposes of this title, the joint venture or partnership and each business that composes the joint venture or partnership shall separately be considered a single business, except that personal information in the possession of each business and disclosed to the joint venture or partnership shall not be shared with the other business.
+
+(4) A person that does business in California, that is not covered by paragraph (1), (2), or (3), and that voluntarily certifies to the California Privacy Protection Agency that it is in compliance with, and agrees to be bound by, this title.
+
+(e) “Business purpose” means the use of personal information for the business’ operational purposes, or other notified purposes, or for the service provider or contractor’s operational purposes, as defined by regulations adopted pursuant to paragraph (10) of subdivision (a) of Section
+1798.185, provided that the use of personal information shall be reasonably necessary and proportionate to achieve the purpose for which the personal information was collected or processed or for another purpose that is compatible with the context in which the personal information was collected. Business purposes are:
+
+(1) Auditing related to counting ad impressions to unique visitors, verifying positioning and quality of ad impressions, and auditing compliance with this specification and other standards.
+
+(2) Helping to ensure security and integrity to the extent the use of the consumer’s personal information is reasonably necessary and proportionate for these purposes.
+
+(3) Debugging to identify and repair errors that impair existing intended functionality.
+
+(4) Short-term, transient use, including, but not limited to, nonpersonalized advertising shown as part of a consumer’s current interaction with the business, provided that the consumer’s personal information is not disclosed to another third party and is not used to build a profile about the consumer or otherwise alter the consumer’s experience outside the current interaction with the business.
+
+(5) Performing services on behalf of the business, including maintaining or servicing accounts, providing customer service, processing or fulfilling orders and transactions, verifying customer information, processing payments, providing financing, providing analytic services, providing storage, or providing similar services on behalf of the business.
+
+(6) Providing advertising and marketing services, except for cross-context behavioral advertising, to the consumer provided
+that, for the purpose of advertising and marketing, a service provider or contractor shall not combine the personal information of opted-out consumers that the service provider or contractor receives from, or on behalf of, the business with personal information that the service provider or contractor receives from, or on behalf of, another person or persons or collects from its own interaction with consumers.
+
+(7) Undertaking internal research for technological development and demonstration.
+
+(8) Undertaking activities to verify or maintain the quality or safety of a service or device that is owned, manufactured, manufactured for, or controlled by the business, and to improve, upgrade, or enhance the service or device that is owned, manufactured, manufactured for, or controlled by the business.
+
+(f) “Collects,”
+“collected,” or “collection” means buying, renting, gathering, obtaining, receiving, or accessing any personal information pertaining to a consumer by any means. This includes receiving information from the consumer, either actively or passively, or by observing the consumer’s behavior.
+
+(g) “Commercial purposes” means to advance a person’s commercial or economic interests, such as by inducing another person to buy, rent, lease, join, subscribe to, provide, or exchange products, goods, property, information, or services, or enabling or effecting, directly or indirectly, a commercial transaction.
+
+(h) “Consent” means any freely given, specific, informed, and unambiguous indication of the consumer’s wishes by which the consumer, or the consumer’s legal guardian, a person who has power of attorney, or a person acting as a conservator for the consumer, including by a statement or by a
+clear affirmative action, signifies agreement to the processing of personal information relating to the consumer for a narrowly defined particular purpose. Acceptance of a general or broad terms of use, or similar document, that contains descriptions of personal information processing along with other, unrelated information, does not constitute consent. Hovering over, muting, pausing, or closing a given piece of content does not constitute consent. Likewise, agreement obtained through use of dark patterns does not constitute consent.
+
+(i) “Consumer” means a natural person who is a California resident, as defined in Section 17014 of Title 18 of the California Code of Regulations, as that section read on September 1, 2017, however identified, including by any unique identifier.
+
+(j) (1) “Contractor” means a person to whom the business makes available a consumer’s
+personal information for a business purpose, pursuant to a written contract with the business, provided that the contract:
+
+(A) Prohibits the contractor from:
+
+(i) Selling or sharing the personal information.
+
+(ii) Retaining, using, or disclosing the personal information for any purpose other than for the business purposes specified in the contract, including retaining, using, or disclosing the personal information for a commercial purpose other than the business purposes specified in the contract, or as otherwise permitted by this title.
+
+(iii) Retaining, using, or disclosing the information outside of the direct business relationship between the contractor and the business.
+
+(iv) Combining
+the personal information that the contractor receives pursuant to a written contract with the business with personal information that it receives from or on behalf of another person or persons, or collects from its own interaction with the consumer, provided that the contractor may combine personal information to perform any business purpose as defined in regulations adopted pursuant to paragraph (9) of subdivision (a) of Section 1798.185, except as provided for in paragraph (6) of subdivision (e) and in regulations adopted by the California Privacy Protection Agency.
+
+(B) Includes a certification made by the contractor that the contractor understands the restrictions in subparagraph (A) and will comply with them.
+
+(C) Permits, subject to agreement with the contractor, the business to monitor the contractor’s compliance with the contract through measures, including, but not limited
+to, ongoing manual reviews and automated scans and regular assessments, audits, or other technical and operational testing at least once every 12 months.
+
+(2) If a contractor engages any other person to assist it in processing personal information for a business purpose on behalf of the business, or if any other person engaged by the contractor engages another person to assist in processing personal information for that business purpose, it shall notify the business of that engagement, and the engagement shall be pursuant to a written contract binding the other person to observe all the requirements set forth in paragraph (1).
+
+(k) “Cross-context behavioral advertising” means the targeting of advertising to a consumer based on the consumer’s personal information obtained from the consumer’s activity across businesses, distinctly branded internet websites, applications, or services,
+other than the business, distinctly branded internet website, application, or service with which the consumer intentionally interacts.
+
+(l) “Dark pattern” means a user interface designed or manipulated with the substantial effect of subverting or impairing user autonomy, decisionmaking, or choice, as further defined by regulation.
+
+(m) “Deidentified” means information that cannot reasonably be used to infer information about, or otherwise be linked to, a particular consumer provided that the business that possesses the information:
+
+(1) Takes reasonable measures to ensure that the information cannot be associated with a consumer or household.
+
+(2) Publicly commits to maintain and use the information in deidentified form and not to attempt to reidentify the
+information, except that the business may attempt to reidentify the information solely for the purpose of determining whether its deidentification processes satisfy the requirements of this subdivision.
+
+(3) Contractually obligates any recipients of the information to comply with all provisions of this subdivision.
+
+(n) “Designated methods for submitting requests” means a mailing address, email address, internet web page, internet web portal, toll-free telephone number, or other applicable contact information, whereby consumers may submit a request or direction under this title, and any new, consumer-friendly means of contacting a business, as approved by the Attorney General pursuant to Section 1798.185.
+
+(o) “Device” means any physical object that is capable of connecting to the internet, directly or indirectly, or to
+another device.
+
+(p) “Homepage” means the introductory page of an internet website and any internet web page where personal information is collected. In the case of an online service, such as a mobile application, homepage means the application’s platform page or download page, a link within the application, such as from the application configuration, “About,” “Information,’’ or settings page, and any other location that allows consumers to review the notices required by this title, including, but not limited to, before downloading the application.
+
+(q) “Household” means a group, however identified, of consumers who cohabitate with one another at the same residential address and share use of common devices or services.
+
+(r) “Infer” or “inference” means the derivation of information, data, assumptions, or conclusions
+from facts, evidence, or another source of information or data.
+
+(s) “Intentionally interacts” means when the consumer intends to interact with a person, or disclose personal information to a person, via one or more deliberate interactions, including visiting the person’s internet website or purchasing a good or service from the person. Hovering over, muting, pausing, or closing a given piece of content does not constitute a consumer’s intent to interact with a person.
+
+(t) “Nonpersonalized advertising” means advertising and marketing that is based solely on a consumer’s personal information derived from the consumer’s current interaction with the business with the exception of the consumer’s precise geolocation.
+
+(u) “Person” means an individual, proprietorship, firm, partnership, joint venture, syndicate, business
+trust, company, corporation, limited liability company, association, committee, and any other organization or group of persons acting in concert.
+
+(v) (1) “Personal information” means information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular consumer or household. Personal information includes, but is not limited to, the following if it identifies, relates to, describes, is reasonably capable of being associated with, or could be reasonably linked, directly or indirectly, with a particular consumer or household:
+
+(A) Identifiers such as a real name, alias, postal address, unique personal identifier, online identifier, Internet Protocol address, email address, account name, social security number, driver’s license number, passport number, or other
+similar identifiers.
+
+(B) Any personal information described in subdivision (e) of Section 1798.80.
+
+(C) Characteristics of protected classifications under California or federal law.
+
+(D) Commercial information, including records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies.
+
+(E) Biometric information.
+
+(F) Internet or other electronic network activity information, including, but not limited to, browsing history, search history, and information regarding a consumer’s interaction with an internet website application, or advertisement.
+
+(G) Geolocation data.
+
+(H) Audio, electronic, visual, thermal, olfactory, or similar information.
+
+(I) Professional or employment-related information.
+
+(J) Education information, defined as information that is not publicly available personally identifiable information as defined in the Family Educational Rights and Privacy Act (20 U.S.C. Sec. 1232g; 34 C.F.R. Part 99).
+
+(K) Inferences drawn from any of the information identified in this subdivision to create a profile about a consumer reflecting the consumer’s preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes.
+
+(L) Sensitive personal information.
+
+(2) (A) “Personal information” does not include publicly available information or lawfully obtained, truthful information that is a matter of public concern.
+
+(B) (i) For purposes of this paragraph, “publicly available” means any of the following:
+
+(I) Information that is lawfully made available from federal, state, or local government records.
+
+(II) Information that a business has a reasonable basis to believe is lawfully made available to the general public by the consumer or from widely distributed media.
+
+(III) Information made available by a person to whom the consumer has disclosed the information if the consumer has not restricted the information
+to a specific audience.
+
+(ii) “Publicly available” does not mean biometric information collected by a business about a consumer without the consumer’s knowledge.
+
+(3) “Personal information” does not include consumer information that is deidentified or aggregate consumer information.
+
+(4) “Personal information” can exist in various formats, including, but not limited to, all of the following:
+
+(A) Physical formats, including paper documents, printed images, vinyl records, or video tapes.
+
+(B) Digital formats, including text, image, audio, or video files.
+
+(C) Abstract digital formats, including compressed or encrypted files, metadata, or artificial intelligence systems that are capable of outputting personal information.
+
+(w) “Precise geolocation” means any data that is derived from a device and that is used or intended to be used to locate a consumer within a geographic area that is equal to or less than the area of a circle with a radius of 1,850 feet, except as prescribed by regulations.
+
+(x) “Probabilistic identifier” means the identification of a consumer or a consumer’s device to a degree of certainty of more probable than not based on any categories of personal information included in, or similar to, the categories enumerated in the definition of personal information.
+
+(y) “Processing” means any operation or set of operations that are performed on personal information or on sets of personal information, whether or not by automated means.
+
+(z) “Profiling” means any form of automated processing of personal information, as further defined by regulations pursuant to paragraph (15) of subdivision (a) of Section 1798.185, to evaluate certain personal aspects relating to a natural person and in particular to analyze or predict aspects concerning that natural person’s performance at work, economic situation, health, personal preferences, interests, reliability, behavior, location, or movements.
+
+(aa) “Pseudonymize” or “Pseudonymization” means the processing of personal information in a manner that renders the personal information no longer attributable to a specific consumer without the use of additional information, provided that the
+additional information is kept separately and is subject to technical and organizational measures to ensure that the personal information is not attributed to an identified or identifiable consumer.
+
+(ab) “Research” means scientific analysis, systematic study, and observation, including basic research or applied research that is designed to develop or contribute to public or scientific knowledge and that adheres or otherwise conforms to all other applicable ethics and privacy laws, including, but not limited to, studies conducted in the public interest in the area of public health. Research with personal information that may have been collected from a consumer in the course of the consumer’s interactions with a business’ service or device for other purposes shall be:
+
+(1) Compatible with the business purpose for which the personal information was collected.
+
+(2) Subsequently pseudonymized and deidentified, or deidentified and in the aggregate, such that the information cannot reasonably identify, relate to, describe, be capable of being associated with, or be linked, directly or indirectly, to a particular consumer, by a business.
+
+(3) Made subject to technical safeguards that prohibit reidentification of the consumer to whom the information may pertain, other than as needed to support the research.
+
+(4) Subject to business processes that specifically prohibit reidentification of the information, other than as needed to support the research.
+
+(5) Made subject to business processes to prevent inadvertent release of deidentified information."
+"3","(6) (2)","Protected from any reidentification attempts.","cjk_sub","","(7) Used solely for research purposes that are compatible with the context in which the personal information was collected.
+
+(8) Subjected by the business conducting the research to additional security controls that limit access to the research data to only those individuals as are necessary to carry out the research purpose.
+
+(ac) “Security and integrity” means the ability of:
+
+(1) Networks or information systems to detect security incidents that compromise the availability, authenticity, integrity, and confidentiality of stored or transmitted personal information.
+
+(2) Businesses to detect security incidents, resist malicious,
+deceptive, fraudulent, or illegal actions and to help prosecute those responsible for those actions.
+
+(3) Businesses to ensure the physical safety of natural persons.
+
+(ad) (1) “Sell,” “selling,” “sale,” or “sold,’’ means selling, renting, releasing, disclosing, disseminating, making available, transferring, or otherwise communicating orally, in writing, or by electronic or other means, a consumer’s personal information by the business to a third party for monetary or other valuable consideration.
+
+(2) For purposes of this title, a business does not sell personal information when:
+
+(A) A consumer uses or directs the business to intentionally:
+
+(i) Disclose personal
+information.
+
+(ii) Interact with one or more third parties.
+
+(B) The business uses or shares an identifier for a consumer who has opted out of the sale of the consumer’s personal information or limited the use of the consumer’s sensitive personal information for the purposes of alerting persons that the consumer has opted out of the sale of the consumer’s personal information or limited the use of the consumer’s sensitive personal information.
+
+(C) The business transfers to a third party the personal information of a consumer as an asset that is part of a merger, acquisition, bankruptcy, or other transaction in which the third party assumes control of all or part of the business, provided that information is used or shared consistently with this title. If a third party materially alters how it uses or shares the
+personal information of a consumer in a manner that is materially inconsistent with the promises made at the time of collection, it shall provide prior notice of the new or changed practice to the consumer. The notice shall be sufficiently prominent and robust to ensure that existing consumers can easily exercise their choices consistently with this title. This subparagraph does not authorize a business to make material, retroactive privacy policy changes or make other changes in their privacy policy in a manner that would violate the Unfair and Deceptive Practices Act (Chapter 5 (commencing with Section 17200) of Part 2 of Division 7 of the Business and Professions Code).
+
+(ae) “Sensitive personal information” means:"
+"3","(1) (2)","Personal information that reveals:","cjk_sub","","(A) A consumer’s social security, driver’s license, state
+identification card, or passport number.
+
+(B) A consumer’s account log-in, financial account, debit card, or credit card number in combination with any required security or access code, password, or credentials allowing access to an account.
+
+(C) A consumer’s precise geolocation.
+
+(D) A consumer’s racial or ethnic origin, citizenship or immigration status, religious or philosophical beliefs, or union membership.
+
+(E) The contents of a consumer’s mail, email, and text messages unless the business is the intended recipient of the communication.
+
+(F) A consumer’s genetic data.
+
+(G) (i) A consumer’s neural data.
+
+(ii) “Neural data” means information that is generated by measuring the activity of a consumer’s central or peripheral nervous system, and that is not inferred from nonneural information.
+
+(2) (A) The processing of biometric information for the purpose of uniquely identifying a consumer.
+
+(B) Personal information collected and analyzed concerning a consumer’s health.
+
+(C) Personal information collected and analyzed concerning a consumer’s sex life or sexual orientation.
+
+(3) Sensitive personal information that is “publicly available”
+pursuant to paragraph (2) of subdivision (v) shall not be considered sensitive personal information or personal information.
+
+(af) “Service” or “services” means work, labor, and services, including services furnished in connection with the sale or repair of goods.
+
+(ag) (1) “Service provider” means a person that processes personal information on behalf of a business and that receives from or on behalf of the business consumer’s personal information for a business purpose pursuant to a written contract, provided that the contract prohibits the person from:
+
+(A) Selling or sharing the personal information.
+
+(B) Retaining, using, or disclosing the personal information for any purpose other than for the business purposes specified in the
+contract for the business, including retaining, using, or disclosing the personal information for a commercial purpose other than the business purposes specified in the contract with the business, or as otherwise permitted by this title.
+
+(C) Retaining, using, or disclosing the information outside of the direct business relationship between the service provider and the business.
+
+(D) Combining the personal information that the service provider receives from, or on behalf of, the business with personal information that it receives from, or on behalf of, another person or persons, or collects from its own interaction with the consumer, provided that the service provider may combine personal information to perform any business purpose as defined in regulations adopted pursuant to paragraph (9) of subdivision (a) of Section 1798.185, except as provided for in paragraph (6) of
+subdivision (e) of this section and in regulations adopted by the California Privacy Protection Agency. The contract may, subject to agreement with the service provider, permit the business to monitor the service provider’s compliance with the contract through measures, including, but not limited to, ongoing manual reviews and automated scans and regular assessments, audits, or other technical and operational testing at least once every 12 months.
+
+(2) If a service provider engages any other person to assist it in processing personal information for a business purpose on behalf of the business, or if any other person engaged by the service provider engages another person to assist in processing personal information for that business purpose, it shall notify the business of that engagement, and the engagement shall be pursuant to a written contract binding the other person to observe all the requirements set forth in paragraph (1).
+
+(ah) (1) “Share,” “shared,” or “sharing” means sharing, renting, releasing, disclosing, disseminating, making available, transferring, or otherwise communicating orally, in writing, or by electronic or other means, a consumer’s personal information by the business to a third party for cross-context behavioral advertising, whether or not for monetary or other valuable consideration, including transactions between a business and a third party for cross-context behavioral advertising for the benefit of a business in which no money is exchanged.
+
+(2) For purposes of this title, a business does not share personal information when:
+
+(A) A consumer uses or directs the business to intentionally disclose personal information or intentionally interact with one or more third parties.
+
+(B) The business uses or shares an identifier for a consumer who has opted out of the sharing of the consumer’s personal information or limited the use of the consumer’s sensitive personal information for the purposes of alerting persons that the consumer has opted out of the sharing of the consumer’s personal information or limited the use of the consumer’s sensitive personal information.
+
+(C) The business transfers to a third party the personal information of a consumer as an asset that is part of a merger, acquisition, bankruptcy, or other transaction in which the third party assumes control of all or part of the business, provided that information is used or shared consistently with this title. If a third party materially alters how it uses or shares the personal information of a consumer in a manner that is materially inconsistent with the promises made at the time of collection,
+it shall provide prior notice of the new or changed practice to the consumer. The notice shall be sufficiently prominent and robust to ensure that existing consumers can easily exercise their choices consistently with this title. This subparagraph does not authorize a business to make material, retroactive privacy policy changes or make other changes in their privacy policy in a manner that would violate the Unfair and Deceptive Practices Act (Chapter 5 (commencing with Section 17200) of Part 2 of Division 7 of the Business and Professions Code).
+
+(ai) “Third party” means a person who is not any of the following:
+
+(1) The business with whom the consumer intentionally interacts and that collects personal information from the consumer as part of the consumer’s current interaction with the business under this title."
+"3","(2) (2)","A","cjk_sub","","service provider to the business."
+"3","(3) (2)","A contractor.","cjk_sub","","(aj) “Unique identifier” or “unique personal identifier” means a persistent identifier that can be used to recognize a consumer, a family, or a device that is linked to a consumer or family, over time and across different services, including, but not limited to, a device identifier; an Internet Protocol address; cookies, beacons, pixel tags, mobile ad identifiers, or similar technology; customer number, unique pseudonym, or user alias; telephone numbers, or other forms of persistent or probabilistic identifiers that can be used to identify a particular consumer or device that is linked to a consumer or family. For purposes of this subdivision, “family” means a custodial parent or guardian and any children under 18 years of age over which the parent or guardian has custody.
+
+(ak) “Verifiable consumer request” means a request that is made by a consumer, by a consumer on behalf of the consumer’s minor child, by a natural person or a person registered with the Secretary of State, authorized by the consumer to act on the consumer’s behalf, or by a person who has power of attorney or is acting as a conservator for the consumer, and that the business can verify, using commercially reasonable methods, pursuant to regulations adopted by the Attorney General pursuant to paragraph (6) of subdivision (a) of Section 1798.185 to be the consumer about whom the business has collected personal information. A business is not obligated to provide information to the consumer pursuant to Sections 1798.110 and 1798.115, to delete personal information pursuant to Section 1798.105, or to correct inaccurate personal information pursuant to Section 1798.106, if the business cannot verify, pursuant to this subdivision and regulations adopted by the Attorney General pursuant to paragraph (6)
+of subdivision (a) of Section 1798.185, that the consumer making the request is the consumer about whom the business has collected information or is a person authorized by the consumer to act on such consumer’s behalf."
+"3","SEC. 2","SEC. 2","goal","","Section 1.5 of this bill incorporates amendments to Section 1798.140 of the Civil Code proposed by both this bill and SB 1223. That section of this bill shall become operative only if (1) both bills are enacted and become effective on or before January 1, 2025, (2) each bill amends Section 1798.140 of the Civil Code and (3) this bill is enacted after SB 1223, in which case Section 1 of this bill shall not become operative."
+"3","SEC. 3","SEC. 3","goal","","The Legislature finds and declares that this act furthers the purposes and intent of the California Privacy Rights Act of 2020."

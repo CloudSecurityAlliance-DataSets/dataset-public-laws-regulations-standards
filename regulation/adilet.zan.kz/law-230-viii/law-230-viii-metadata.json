@@ -1,0 +1,63 @@
+{
+  "secid": "secid:regulation/adilet.zan.kz/law-230-viii",
+  "name": "Law of the Republic of Kazakhstan No. 230-VIII 'On Artificial Intelligence' (Об искусственном интеллекте, signed Nov 17, 2025)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "law-230-viii",
+  "owner": "Legal Information System of Regulatory Legal Acts of the Republic of Kazakhstan",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Law of the Republic of Kazakhstan No. 230-VIII 'On Artificial Intelligence' (Об искусственном интеллекте, signed Nov 17, 2025)",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by Legal Information System of Regulatory Legal Acts of the Republic of Kazakhstan (adilet.zan.kz) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within Legal Information System of Regulatory Legal Acts of the Republic of Kazakhstan (adilet.zan.kz).",
+  "license": {
+    "spdx": "LicenseRef-KZ-Law6I-Art8-1",
+    "Grouping": "Public Domain",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/KZ",
+    "note": "Official publication (adilet.zan.kz); Law of the Republic of Kazakhstan No. 6-I of June 10, 1996 on Copyright and Related Rights Art. 8(1) (official documents — laws, resolutions, and other texts of a legislative, administrative, judicial or diplomatic character — and their official translations are not objects of copyright).",
+    "notes": "Official publication (adilet.zan.kz); Law of the Republic of Kazakhstan No. 6-I of June 10, 1996 on Copyright and Related Rights Art. 8(1) (official documents — laws, resolutions, and other texts of a legislative, administrative, judicial or diplomatic character — and their official translations are not objects of copyright)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://adilet.zan.kz/rus/docs/Z2500000230",
+    "textUsed": "https://web.archive.org/web/20260827171004id_/https://adilet.zan.kz/rus/docs/Z2500000230",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official regulation (https://web.archive.org/web/20260827171004id_/https://adilet.zan.kz/rus/docs/Z2500000230) to Markdown (34,789 chars). Parsed 38 sections (6 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  }
+}

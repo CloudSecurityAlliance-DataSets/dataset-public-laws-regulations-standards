@@ -1,0 +1,63 @@
+{
+  "secid": "secid:regulation/europa.eu/cybersecurity-act",
+  "name": "Regulation (EU) 2019/881 on ENISA and on ICT cybersecurity certification",
+  "acronym": "Cybersecurity Act",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "cybersecurity-act",
+  "owner": "European Union",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Establishes ENISA as a permanent EU agency and creates the EU cybersecurity certification framework — voluntary schemes for ICT products, services, and processes (e.g. EUCC, EUCS in progress).",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by European Union (europa.eu) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within European Union (europa.eu).",
+  "license": {
+    "spdx": "LicenseRef-EU-Reuse-Decision-2011-833",
+    "Grouping": "Permissive",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
+    "publicly_redistributable": true,
+    "license_text_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011D0833",
+    "note": "European Union official publication (europa.eu); reuse authorized with attribution under Commission Decision 2011/833/EU.",
+    "notes": "European Union official publication (europa.eu); reuse authorized with attribution under Commission Decision 2011/833/EU."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://eur-lex.europa.eu/eli/reg/2019/881/oj/eng",
+    "textUsed": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019R0881",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official regulation (https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32019R0881) to Markdown (232,160 chars). Parsed 85 sections (84 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  }
+}

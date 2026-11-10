@@ -1,0 +1,63 @@
+{
+  "secid": "secid:regulation/maryland.gov/modpa",
+  "name": "Maryland Online Data Privacy Act",
+  "acronym": "MODPA",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "modpa",
+  "owner": "State of Maryland",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Maryland's comprehensive consumer privacy law, notable for stricter data-minimization requirements than most other state laws (limits collection to what's \"reasonably necessary and proportionate\" rather than just requiring disclosure).",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by State of Maryland (maryland.gov) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within State of Maryland (maryland.gov).",
+  "license": {
+    "spdx": "CC0-1.0",
+    "Grouping": "Public Domain",
+    "redistribution": "yes",
+    "derivatives": "yes",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.usa.gov/government-works",
+    "note": "United States Government work (17 U.S.C. § 105); in the public domain worldwide.",
+    "notes": "United States Government work (17 U.S.C. § 105); in the public domain worldwide."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/sb0541?ys=2024RS",
+    "textUsed": "https://mgaleg.maryland.gov/2024RS/bills/sb/sb0541e.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official regulation (https://mgaleg.maryland.gov/2024RS/bills/sb/sb0541e.pdf) to Markdown (62,913 chars). Parsed 2 sections (1 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "secid": "secid:regulation/planalto.gov.br/ai-bill-pl2338",
+  "name": "Projeto de Lei 2338/2023",
+  "acronym": "Marco Legal da IA",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "ai-bill-pl2338",
+  "owner": "Presidência da República do Brasil",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Comprehensive AI-regulation bill modeled on the EU AI Act: risk-tiered classification (excessive/high/low-moderate risk), rights for affected persons (transparency, explanation, contestation), creation of a National AI Regulation and Governance System (SIA), and fines up to R$50 million per violation.",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by Presidência da República do Brasil (planalto.gov.br) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within Presidência da República do Brasil (planalto.gov.br).",
+  "license": {
+    "spdx": "LicenseRef-BR-Law9610-Art8-IV",
+    "Grouping": "Public Domain",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.planalto.gov.br/ccivil_03/leis/l9610.htm",
+    "note": "Official publication (planalto.gov.br); Brazilian Copyright Law (Lei nº 9.610, de 19 de fevereiro de 1998) Art. 8º(IV) (texts of treaties, laws, decrees, regulations, judicial decisions, and other official acts are not objects of copyright protection) and Federal Open Data Policy (Decreto nº 8.777/2016).",
+    "notes": "Official publication (planalto.gov.br); Brazilian Copyright Law (Lei nº 9.610, de 19 de fevereiro de 1998) Art. 8º(IV) (texts of treaties, laws, decrees, regulations, judicial decisions, and other official acts are not objects of copyright protection) and Federal Open Data Policy (Decreto nº 8.777/2016)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www25.senado.leg.br/web/atividade/materias/-/materia/157233",
+    "textUsed": "https://legis.senado.gov.br/sdleg-getter/documento/download/61f93a4b-d695-43e8-8534-60c4c2e8cefa",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official regulation (https://legis.senado.gov.br/sdleg-getter/documento/download/61f93a4b-d695-43e8-8534-60c4c2e8cefa) to Markdown (92,036 chars). Parsed 181 sections (91 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "secid": "secid:regulation/govinfo.gov/cisa-2015",
+  "name": "Cybersecurity Information Sharing Act of 2015",
+  "acronym": "CISA 2015",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "cisa-2015",
+  "owner": "United States Federal",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "US federal law authorizing voluntary cyber-threat-information sharing between private sector and federal government with liability protections. **NOTE: distinct from the agency CISA (Cybersecurity and Infrastructure Security Agency)** established by the CISA Act of 2018.",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by United States Federal (govinfo.gov) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within United States Federal (govinfo.gov).",
+  "license": {
+    "spdx": "CC0-1.0",
+    "Grouping": "Public Domain",
+    "redistribution": "yes",
+    "derivatives": "yes",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.usa.gov/government-works",
+    "note": "United States Government work (17 U.S.C. § 105); in the public domain worldwide.",
+    "notes": "United States Government work (17 U.S.C. § 105); in the public domain worldwide."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.govinfo.gov/content/pkg/PLAW-114publ113/html/PLAW-114publ113.htm",
+    "textUsed": "https://www.govinfo.gov/content/pkg/PLAW-114publ113/html/PLAW-114publ113.htm",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official regulation (https://www.govinfo.gov/content/pkg/PLAW-114publ113/html/PLAW-114publ113.htm) to Markdown (2,942,854 chars). Parsed 2568 sections (2217 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  }
+}

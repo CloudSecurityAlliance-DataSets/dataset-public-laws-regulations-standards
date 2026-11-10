@@ -1,0 +1,48 @@
+{
+  "secid": "secid:regulation/msit.go.kr/network-act",
+  "name": "Act on Promotion of Information and Communications Network Utilization and Information Protection, Etc.",
+  "acronym": "Network Act",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "network-act",
+  "owner": "Ministry of Science and ICT",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Korea's foundational network-utilization and cybersecurity-incident-reporting statute, enacted 1986 (Act No. 3848), heavily amended since (most recent amendments effective August 14, 2024 strengthening breach-reporting obligations). Predates and complements PIPA (secid:regulation/pipc.go.kr/pipa) — most personal-information provisions moved to PIPA in the 2020 'Data 3 Laws' reform; this Act still covers ISP obligations, spam/malware provisions, and network breach notification.",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by Ministry of Science and ICT (msit.go.kr) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within Ministry of Science and ICT (msit.go.kr).",
+  "license": {
+    "spdx": "LicenseRef-Government-Work",
+    "Grouping": "Government-Work",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": true,
+    "license_text_url": "https://msit.go.kr/",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document for msit.go.kr is acquired and verified against jurisdiction copyright terms). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document for msit.go.kr is acquired and verified against jurisdiction copyright terms). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.law.go.kr",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:regulation/msit.go.kr/network-act (https://www.law.go.kr) is not directly downloadable (upstream portal root URL only, SPA/WAF barrier, or pending publication); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

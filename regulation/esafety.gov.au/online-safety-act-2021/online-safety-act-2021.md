@@ -1,0 +1,7097 @@
+# Online Safety Act 2021 (No. 76, 2021)
+
+## Online Safety Act 2021
+
+No. 76, 2021
+
+## Compilation No. 4
+
+Compilation date: 12 September 2026
+
+Includes amendments: Act No. 83, 2026
+
+Prepared by the Office of Parliamentary Counsel, Canberra
+
+## About this compilation
+
+This compilation
+
+This is a compilation of the Online Safety Act 2021 that shows the text of the law as amended and in force on 12 September 2026 (the compilation date).
+
+The notes at the end of this compilation (the endnotes) include information about amending laws and the amendment history of provisions of the compiled law.
+
+Uncommenced amendments
+
+The effect of uncommenced amendments is not shown in the text of the compiled law. The details of amendments made up to, but not commenced at, the compilation date are underlined in the endnotes. Any uncommenced amendments affecting the law are accessible on the Register (www.legislation.gov.au).
+
+Application, saving and transitional provisions
+
+If the operation of a provision or amendment of the compiled law is affected by an application, saving or transitional provision that is not included in this compilation, details are included in the endnotes.
+
+Editorial changes
+
+For more information about any editorial changes made in this compilation, see the endnotes.
+
+Presentational changes
+
+The Legislation Act 2003 provides for First Parliamentary Counsel to make presentational changes to a compilation. Presentational changes are applied to give a more consistent look and feel to legislation published on the Register, and enable the user to more easily navigate those documents.
+
+Modifications
+
+If the compiled law is modified by another law, the compiled law operates as modified but the modification does not amend the text of the law. Accordingly, this compilation does not show the text of the compiled law as modified. Any modifications affecting the law are accessible on the Register.
+
+Self-repealing provisions
+
+If a provision of the compiled law has been repealed in accordance with a provision of the law, details are included in the endnotes.
+
+## Contents
+
+Part 1—Preliminary 1 1 Short title .............................................................................................1 2 Commencement ..................................................................................1 3 Objects of this Act ..............................................................................2 4 Simplified outline of this Act ..............................................................2 5 Definitions ..........................................................................................5 6 Cyber-bullying material targeted at an Australian child ...................14 7 Cyber-abuse material targeted at an Australian adult .......................15 8 Determining whether material is offensive .......................................16 9 Material that depicts abhorrent violent conduct ...............................17 10 When material is provided on a social media service, relevant electronic service or designated internet service ................17 11 When material is posted by an end-user of a social media service, relevant electronic service or designated internet service ...............................................................................................17 12 When material is removed from a social media service, relevant electronic service or designated internet service ................18 13 Social media service .........................................................................18 13A Relevant electronic service ...............................................................19 14 Designated internet service ...............................................................20 15 Intimate image ..................................................................................20 16 Non-consensual intimate image of a person .....................................22 17 Hosting service .................................................................................22 18 On-demand program service .............................................................23 19 Internet service providers ..................................................................24 20 Supply of internet carriage service to the public ..............................24 21 Consent .............................................................................................25 22 Crown to be bound ............................................................................25 23 Application of this Act ......................................................................25 24 Convention on the Rights of the Child .............................................25
+
+Part 2—eSafety Commissioner 27 25 Simplified outline of this Part ...........................................................27 26 eSafety Commissioner ......................................................................27 27 Functions of the Commissioner ........................................................27 28 Powers of the Commissioner ............................................................30
+
+Online Safety Act 2021 i
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+## Part 3—Complaints, objections and investigations 31
+
+Division 1—Introduction 31 29 Simplified outline of this Part ...........................................................31 Division 2—Complaints about cyber-bullying material targeted
+
+at an Australian child 32 30 Complaints about cyber-bullying material .......................................32 31 Investigation of complaints ...............................................................34 Division 3—Complaints about, and objections to, intimate
+
+images 36 32 Complaints ........................................................................................36 33 Objection notice ................................................................................37 34 Investigation of complaints ...............................................................39 35 Commissioner’s response to objection notices .................................39 Division 4—Complaints about cyber-abuse material targeted at
+
+an Australian adult 40 36 Complaints about cyber-abuse material ............................................40 37 Investigation of complaints ...............................................................42 Division 5—Complaints relating to the online content scheme 43 38 Complaints about class 1 material or class 2 material ......................43 39 Complaints relating to breach of a service provider rule etc. ...........43 40 Complaints relating to breach of an industry code etc. .....................44 41 Residency etc. of complainant ..........................................................44 42 Commissioner may investigate matters ............................................44 43 Commissioner may refuse to investigate certain matters .................46
+
+## Part 4—Basic online safety expectations 47
+
+Division 1—Introduction 47 44 Simplified outline of this Part ...........................................................47 Division 2—Basic online safety expectations 48 45 Basic online safety expectations .......................................................48 46 Core expectations ..............................................................................48 47 Consultation ......................................................................................50 48 Service provider notifications ...........................................................51
+
+ii Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+Division 3—Reporting 53
+
+Subdivision A—Periodic reporting about compliance with basic
+
+online safety expectations 53 49 Periodic reporting notice ...................................................................53 50 Compliance with notice ....................................................................54 51 Formal warning .................................................................................55 52 Periodic reporting determination ......................................................55 53 Compliance with determination ........................................................56 54 Formal warning .................................................................................56 55 Service provider notifications ...........................................................56
+
+Subdivision B—Non-periodic reporting about compliance with
+
+basic online safety expectations 57 56 Non-periodic reporting notice ...........................................................57 57 Compliance with notice ....................................................................59 58 Formal warning .................................................................................59 59 Non-periodic reporting determination ..............................................59 60 Compliance with determination ........................................................60 61 Formal warning .................................................................................60 62 Service provider notifications ...........................................................60
+
+Subdivision C—Self-incrimination 61 63 Self-incrimination .............................................................................61
+
+Part 4A—Social media minimum age 63
+
+Division 1—Introduction 63 63A Simplified outline of this Part ...........................................................63 63B Object of this Part .............................................................................63 63C Age-restricted social media platform ................................................63 Division 2—Civil penalty 66 63D Civil penalty for failing to take reasonable steps to prevent age-restricted users having accounts .................................................66 63DA Information that must not be collected .............................................66 63DB Use of certain identification material and services ...........................67 63E Delayed effect of requirement to take reasonable steps to prevent age-restricted users having accounts ....................................68 Division 3—Privacy 69 63F Information collected for purposes including taking reasonable steps to comply with age restriction ...............................69
+
+Online Safety Act 2021 iii
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+Division 4—Information-gathering powers 71 63G Commissioner may obtain information and documents about compliance ........................................................................................71 63H Compliance with notice ....................................................................72 Division 4A—Examination powers 73 63HA Notice requiring appearance for examination ...................................73 63HB Examination on oath or affirmation ..................................................73 63HC Examination to take place in private .................................................74 63HD Record to be made of examination ...................................................74 63HE Protection of persons attending before Commissioner .....................74 63HF Non-compliance with requirements ..................................................74 63HG Self-incrimination .............................................................................76 Division 5—Platform provider notifications 77 63J Platform provider notifications—failure to take reasonable steps ..................................................................................................77 63K Platform provider notifications—privacy .........................................77
+
+## Part 5—Cyber-bullying material targeted at an Australian
+
+child 78 64 Simplified outline of this Part ...........................................................78 65 Removal notice given to the provider of a social media service, relevant electronic service or designated internet service ...............................................................................................78 66 Removal notice given to a hosting service provider .........................79 67 Compliance with removal notice ......................................................80 68 Formal warning .................................................................................81 70 End-user notice .................................................................................81 71 Compliance with end-user notice .....................................................82 72 Formal warning .................................................................................82 73 Service provider notifications ...........................................................82
+
+## Part 6—Non-consensual sharing of intimate images 84
+
+Division 1—Introduction 84 74 Simplified outline of this Part ...........................................................84 Division 2—Intimate images must not be posted without consent
+
+etc. 85 75 Posting an intimate image .................................................................85 76 Formal warning .................................................................................86
+
+iv Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+Division 3—Removal notices 87 77 Removal notice given to the provider of a social media service, relevant electronic service or designated internet service ...............................................................................................87 78 Removal notice given to an end-user ................................................88 79 Removal notice given to a hosting service provider .........................89 80 Compliance with removal notice ......................................................90 81 Formal warning .................................................................................90 Division 4—Miscellaneous 91 83 Remedial direction ............................................................................91 84 Formal warning .................................................................................91 85 Service provider notifications ...........................................................91 86 Exempt provision of an intimate image ............................................93
+
+Part 7—Cyber-abuse material targeted at an Australian adult 95 87 Simplified outline of this Part ...........................................................95 88 Removal notice given to the provider of a social media service, relevant electronic service or designated internet service ...............................................................................................95 89 Removal notice given to an end-user ................................................96 90 Removal notice given to a hosting service provider .........................97 91 Compliance with removal notice ......................................................98 92 Formal warning .................................................................................98 93 Service provider notifications ...........................................................99
+
+## Part 8—Material that depicts abhorrent violent conduct 100
+
+Division 1—Introduction 100 94 Simplified outline of this Part .........................................................100 Division 2—Blocking requests 101 95 Blocking request .............................................................................101 96 Duration of blocking request ..........................................................102 97 Revocation of blocking request ......................................................102 98 Notification in relation to domain names and URLs ......................103 Division 3—Blocking notices 104 99 Blocking notice ...............................................................................104 100 Duration of blocking notice ............................................................105 101 Revocation of blocking notice ........................................................105 102 Notification in relation to domain names and URLs ......................106 103 Compliance with blocking notice ...................................................106
+
+Online Safety Act 2021 v
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+Division 4—Exempt material 107 104 Exempt material ..............................................................................107
+
+## Part 9—Online content scheme 109
+
+Division 1—Introduction 109 105 Simplified outline of this Part .........................................................109 106 Class 1 material ...............................................................................109 107 Class 2 material ...............................................................................111 108 Restricted access system .................................................................114 Division 2—Removal notices relating to class 1 material 116 109 Removal notice given to the provider of a social media service, relevant electronic service or designated internet service .............................................................................................116 110 Removal notice given to a hosting service provider .......................116 111 Compliance with removal notice ....................................................117 112 Formal warning ...............................................................................117 113 Revocation of removal notice .........................................................118 113A Service provider notifications .........................................................118 Division 3—Removal notices relating to class 2 material 119 114 Removal notice given to the provider of a social media service, relevant electronic service or designated internet service .............................................................................................119 115 Removal notice given to a hosting service provider .......................119 116 Compliance with removal notice ....................................................120 117 Formal warning ...............................................................................121 118 Revocation of removal notice .........................................................121 118A Service provider notifications .........................................................121 Division 4—Remedial notices relating to class 2 material 123 119 Remedial notice given to the provider of a social media service, relevant electronic service or designated internet service .............................................................................................123 120 Remedial notice given to a hosting service provider ......................124 121 Compliance with remedial notice ...................................................125 122 Formal warning ...............................................................................125 123 Revocation of remedial notice ........................................................125 123A Service provider notifications .........................................................125 Division 5—Link deletion notices 127 124 Link deletion notice ........................................................................127 125 Compliance with link deletion notice .............................................128
+
+vi Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+126 Formal warning ...............................................................................128 127 Revocation of link deletion notice ..................................................128 Division 6—App removal notices 129 128 App removal notice .........................................................................129 129 Compliance with app removal notice .............................................130 130 Formal warning ...............................................................................130 131 Revocation of app removal notice ..................................................130 Division 7—Industry codes and industry standards 131
+
+Subdivision A—Interpretation 131 132 Industry codes .................................................................................131 133 Industry standards ...........................................................................131 134 Online activity .................................................................................131 135 Sections of the online industry ........................................................132 136 Participants in a section of the online industry ...............................133
+
+Subdivision B—General principles relating to industry codes and
+
+industry standards 133 137 Statement of regulatory policy ........................................................133 138 Examples of matters that may be dealt with by industry codes and industry standards ..........................................................134 139 Escalation of complaints .................................................................138
+
+Subdivision C—Industry codes 138 140 Registration of industry codes ........................................................138 141 Commissioner may request codes ...................................................140 141A Publication of notice where no body or association represents a section of the online industry ......................................140 142 Replacement of industry codes .......................................................141 143 Compliance with industry codes .....................................................141 144 Formal warnings—breach of industry codes ..................................142
+
+Subdivision D—Industry standards 142 145 Commissioner may determine an industry standard .......................142 146 Compliance with industry standards ...............................................144 147 Formal warnings—breach of industry standards ............................144 148 Public consultation on industry standards ......................................145
+
+Subdivision E—Register of industry codes and industry standards 145 149 Commissioner to maintain Register of industry codes and industry standards ...........................................................................145
+
+Online Safety Act 2021 vii
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+Subdivision F—Miscellaneous 146 150 Industry standards prevail over inconsistent industry codes ..........146 Division 8—Service provider determinations 147 151 Service provider determinations .....................................................147 152 Exemptions from service provider determinations .........................148 153 Compliance with service provider rules .........................................149 154 Remedial directions—breach of service provider rules ..................149 155 Formal warnings—breach of service provider rules .......................149 Division 9—Federal Court orders 150 156 Federal Court may order a person to cease providing a social media service ..................................................................................150 157 Federal Court may order a person to cease providing a relevant electronic service ..............................................................150 158 Federal Court may order a person to cease providing a designated internet service ..............................................................151 159 Federal Court may order a person to cease supplying an internet carriage service ..................................................................152 Division 10—Commissioner may obtain advice from the
+
+Classification Board 153 160 Commissioner may obtain advice from the Classification Board ...............................................................................................153
+
+Part 10—Enforcement 155 161 Simplified outline of this Part .........................................................155 162 Civil penalty provision ....................................................................155 163 Infringement notices .......................................................................156 163A Amount payable under certain infringement notices ......................158 164 Enforceable undertakings ...............................................................158 165 Injunctions ......................................................................................160
+
+## Part 11—Administrative provisions relating to the
+
+Commissioner 162
+
+Division 1—Introduction 162 166 Simplified outline of this Part .........................................................162 Division 2—Appointment of the Commissioner 163 167 Appointment of the Commissioner .................................................163 168 Period of appointment for the Commissioner .................................163 169 Acting appointments .......................................................................163 170 Application of finance law ..............................................................164
+
+viii Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+Division 3—Terms and conditions for the Commissioner 165 171 Remuneration and allowances ........................................................165 172 Leave of absence .............................................................................165 173 Outside employment .......................................................................165 174 Disclosure of interests to the Minister ............................................165 175 Resignation .....................................................................................166 176 Termination of appointment ...........................................................166 177 Other terms and conditions .............................................................167 Division 4—Other matters 168 178 Supplementary powers ....................................................................168 179 Commissioner’s liabilities are Commonwealth liabilities ..............168 180 Commissioner has privileges and immunities of the Crown ..........168 181 Delegation by the Commissioner to a member of the staff of the ACMA etc. ................................................................................169 182 Delegation by the Commissioner to a contractor engaged by the Commissioner ...........................................................................169 183 Annual report ..................................................................................171 183A Advisory committees ......................................................................174 184 Assistance to the Commissioner .....................................................175 185 Contractors engaged by the Commissioner ....................................176 186 Commissioner not subject to direction by the ACMA etc. .............177 187 Consultants .....................................................................................177 188 Minister may give directions to the Commissioner ........................177
+
+Part 12—Online Safety Special Account 178 189 Simplified outline of this Part .........................................................178 190 Online Safety Special Account .......................................................178 191 Credits to the Account ....................................................................178 192 Purposes of the Account .................................................................179
+
+Part 13—Information-gathering powers 180 193 Simplified outline of this Part .........................................................180 194 Commissioner may obtain end-user identity information or contact details .................................................................................180 195 Compliance with notice ..................................................................181 196 Self-incrimination ...........................................................................181
+
+Part 14—Investigative powers 183 197 Simplified outline of this Part .........................................................183 198 Application of this Part ...................................................................183
+
+Online Safety Act 2021 ix
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+199 Notice requiring appearance for examination .................................183 200 Examination on oath or affirmation ................................................183 201 Examination to take place in private ...............................................184 202 Record to be made of examination .................................................184 203 Production of documents for inspection .........................................184 204 Protection of persons giving evidence ............................................185 205 Non-compliance with requirement to give evidence ......................185
+
+Part 15—Disclosure of information 187 206 Simplified outline of this Part .........................................................187 207 Scope ...............................................................................................187 208 Disclosure to Minister .....................................................................187 209 Disclosure to Secretary, or APS employees, for advising the Minister ...........................................................................................187 210 Disclosure to a member of the staff of the ACMA etc. ..................187 211 Disclosure to Royal Commissions ..................................................188 212 Disclosure to certain authorities .....................................................188 213 Disclosure to teachers or school principals .....................................190 214 Disclosure to parents or guardians ..................................................190 215 Disclosure with consent ..................................................................190 216 Disclosure of publicly available information ..................................191 217 Disclosure of summaries and statistics ...........................................191 218 Relationship with Parts 13 and 15 of the Telecommunications Act 1997 ........................................................191
+
+Part 16—Miscellaneous 192 219 Simplified outline of this Part .........................................................192 220 Review of decisions by the Administrative Review Tribunal ........192 220A Internal review of decisions ............................................................196 221 Protection from civil proceedings ...................................................197 222 Liability for damages ......................................................................198 222A Liability for damages—Information Commissioner .......................198 223 Protection from criminal proceedings—Commissioner, Classification Board etc. .................................................................198 224 Referral of matters to law enforcement agencies ............................199 225 Deferral of action in order to avoid prejudicing a criminal investigation ....................................................................................200 226 Copies of material ...........................................................................201 227 Compensation for acquisition of property ......................................201 228 Service of notices by electronic means ...........................................202 229 Service of notices on contact person etc. ........................................202
+
+x Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+230 Instruments under this Act may provide for matters by reference to other instruments .........................................................203 231 This Act does not limit Schedule 8 to the Broadcasting Services Act 1992 ............................................................................205 232 This Act does not limit the Telecommunications Act 1997 ............205 233 Implied freedom of political communication .................................205 234 Concurrent operation of State and Territory laws ..........................205 235 Liability of Australian hosting service providers and internet service providers under State and Territory laws etc. .....................205 236 This Act not to affect performance of State or Territory functions ..........................................................................................207 237 Revocation or variation of instruments ...........................................207 238 Provider of social media service, age-restricted social media platform, relevant electronic service, designated internet service or app distribution service ..................................................207 239 Extended meaning of use ................................................................208 239A Review of operation of this Act ......................................................208 239B Review of social media minimum age framework .........................209 240 Legislative rules ..............................................................................209
+
+Endnotes 210
+
+Endnote 1—About the endnotes 210
+
+Endnote 2—Abbreviation key 212
+
+Endnote 3—Legislation history 213
+
+Endnote 4—Amendment history 214
+
+Online Safety Act 2021 xi
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 1
+
+## An Act relating to online safety for Australians, and for other purposes
+
+### Part 1—Preliminary
+
+#### 1 Short title
+
+This Act is the Online Safety Act 2021.
+
+#### 2 Commencement
+
+(1) Each provision of this Act specified in column 1 of the table
+
+commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+Commencement information
+
+Column 1 Column 2 Column 3
+
+Provisions Commencement Date/Details
+
+A single day to be fixed by Proclamation. However, if the provisions do not commence within the period of 6 months beginning on the day this Act receives the Royal Assent, they commence on the day after the end of that period.
+
+1. The whole of this Act
+
+23 January 2022
+
+Note: This table relates only to the provisions of this Act as originally enacted. It will not be amended to deal with any later amendments of this Act.
+
+(2) Any information in column 3 of the table is not part of this Act.
+
+Information may be inserted in this column, or information in it may be edited, in any published version of this Act.
+
+Online Safety Act 2021 1
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 3
+
+#### 3 Objects of this Act
+
+The objects of this Act are: (a) to improve online safety for Australians; and (b) to promote online safety for Australians.
+
+#### 4 Simplified outline of this Act
+
+• There is to be an eSafety Commissioner.
+
+• The functions of the Commissioner include: (a) promoting online safety for Australians; and (b) administering a complaints system for cyber-bullying material targeted at an Australian child; and (c) administering a complaints system for cyber-abuse material targeted at an Australian adult; and (d) administering a complaints and objections system for non-consensual sharing of intimate images; and (e) administering the online content scheme; and (f) coordinating activities of Commonwealth Departments, authorities and agencies relating to online safety for Australians.
+
+• The complaints system for cyber-bullying material targeted at an Australian child includes the following components: (a) the provider of a social media service, a relevant electronic service or a designated internet service may be given a notice (a removal notice) requiring the removal from the service of cyber-bullying material targeted at an Australian child; (b) a hosting service provider who hosts cyber-bullying material targeted at an Australian child may be given a notice (a removal notice) requiring the provider to cease hosting the material; (c) a person who posts cyber-bullying material targeted at an Australian child may be given a notice (an end-user
+
+2 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 4
+
+notice) requiring the person to remove the material, refrain from posting cyber-bullying material or apologise for posting the material.
+
+• The complaints system for cyber-abuse material targeted at an Australian adult includes the following components: (a) the provider of a social media service, a relevant electronic service or a designated internet service may be given a notice (a removal notice) requiring the removal from the service of cyber-abuse material targeted at an Australian adult; (b) a person who posts cyber-abuse material targeted at an Australian adult may be given a notice (a removal notice) requiring the person to remove the material; (c) a hosting service provider who hosts cyber-abuse material targeted at an Australian adult may be given a notice (a removal notice) requiring the provider to cease hosting the material.
+
+• The complaints and objections system for non-consensual sharing of intimate images includes the following components: (a) a person who posts, or threatens to post, an intimate image may be liable to a civil penalty; (b) the provider of a social media service, relevant electronic service or designated internet service may be given a notice (a removal notice) requiring the provider to remove an intimate image from the service; (c) an end-user of a social media service, relevant electronic service or designated internet service who posts an intimate image on the service may be given a notice (a removal notice) requiring the end-user to remove the image from the service; (d) a hosting service provider who hosts an intimate image may be given a notice (a removal notice) requiring the provider to cease hosting the image.
+
+Online Safety Act 2021 3
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 4
+
+• The online content scheme includes the following components: (a) the provider of a social media service, relevant electronic service or designated internet service may be given a notice (a removal notice) requiring the provider to remove certain material; (b) a hosting service provider may be given a notice (a removal notice) requiring the provider to cease hosting certain material; (c) the provider of an internet search engine service may be given a notice (a link deletion notice) requiring the provider to cease providing a link to certain material; (d) the provider of an app distribution service may be given a notice (an app removal notice) requiring the provider to cease enabling end-users to download an app that facilitates the posting of certain material on a social media service, relevant electronic service or designated internet service; (e) bodies and associations that represent sections of the online industry may develop industry codes; (f) the Commissioner may make an industry standard; (g) the Commissioner may make service provider determinations regulating service providers in the online industry.
+
+• The Minister may determine basic online safety expectations for social media services, relevant electronic services and designated internet services.
+
+• An internet service provider may be requested or required to block access to: (a) material that promotes abhorrent violent conduct; or (b) material that incites abhorrent violent conduct; or (c) material that instructs in abhorrent violent conduct; or (d) material that depicts abhorrent violent conduct.
+
+4 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 5
+
+• There are age restrictions for certain social media platforms. A provider of such a platform must take reasonable steps to prevent children who have not reached a minimum age from having accounts.
+
+#### 5 Definitions
+
+In this Act:
+
+abhorrent violent conduct has the same meaning as in Subdivision H of Division 474 of the Criminal Code.
+
+access includes: (a) access that is subject to a pre-condition (for example, the use
+
+of a password); and (b) access by way of push technology; and (c) access by way of a standing request.
+
+access-control system, in relation to material, means a system under which: (a) persons seeking access to the material have a password, or a
+
+Personal Identification Number, that provides a means of limiting access by other persons to the material; or (b) persons seeking access to the material have been provided
+
+with some other means of limiting access by other persons to the material.
+
+account includes: (a) a free account; and (b) a pre-paid account; and (c) anything that may reasonably be regarded as the equivalent
+
+of an account.
+
+ACMA means the Australian Communications and Media Authority.
+
+adult means an individual who is 18 or older.
+
+Online Safety Act 2021 5
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 5
+
+age-restricted social media platform has the meaning given by section 63C.
+
+age-restricted user means an Australian child who has not reached 16 years.
+
+app includes a computer program.
+
+app distribution service means a service that enables end-users to download apps, where the download of the apps is by means of a carriage service.
+
+app removal notice means a notice given under section 128.
+
+Appropriation Act means an Act appropriating money for expenditure out of the Consolidated Revenue Fund.
+
+Australia, when used in a geographical sense, includes all the external Territories.
+
+Australian adult means an adult who is ordinarily resident in Australia.
+
+Australian child means a child who is ordinarily resident in Australia.
+
+Australian hosting service provider means a person who provides a hosting service that involves hosting material in Australia.
+
+Australian police force means: (a) the Australian Federal Police; or (b) the police force of a State or Territory.
+
+Australians means individuals who are ordinarily resident in Australia.
+
+basic online safety expectations has the meaning given by section 45.
+
+blocking notice means a notice under section 99.
+
+blocking request means a request under section 95.
+
+6 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 5
+
+broadcasting service has the same meaning as in the Broadcasting Services Act 1992.
+
+carriage service has the same meaning as in the Telecommunications Act 1997.
+
+child means an individual who has not reached 18 years.
+
+civil proceeding includes a civil action.
+
+class 1 material has the meaning given by section 106.
+
+class 2 material has the meaning given by section 107.
+
+Classification Board means the Classification Board established by the Classification (Publications, Films and Computer Games) Act 1995.
+
+Commissioner means the eSafety Commissioner.
+
+Note: See section 26.
+
+computer game has the same meaning as in the Classification (Publications, Films and Computer Games) Act 1995.
+
+consent, when used in relation to an intimate image or private sexual material, has the meaning given by section 21.
+
+Convention on the Rights of the Child means the Convention on the Rights of the Child done at New York on 20 November 1989.
+
+Note: The Convention is in Australian Treaty Series 1991 No. 4 ([1991] ATS 4) and could in 2021 be viewed in the Australian Treaties Library on the AustLII website (http://www.austlii.edu.au).
+
+court/tribunal proceedings means words spoken and acts done in the course of, or for purposes of or incidental to, the transacting of the business of a court or a tribunal, and includes: (a) evidence given before the court or tribunal; and (b) a document presented or submitted to the court or tribunal;
+
+and
+
+Online Safety Act 2021 7
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 5
+
+(c) a document issued or published by, or with the authority of,
+
+the court or tribunal.
+
+cyber-abuse material targeted at an Australian adult has the meaning given by section 7.
+
+cyber-bullying material targeted at an Australian child has the meaning given by section 6.
+
+data storage device means any article or material (for example, a disk or file server) from which information is capable of being reproduced, with or without the aid of any other article or device.
+
+de-identified: information is de-identified if the information is no longer about: (a) an identifiable individual; or (b) an individual who is reasonably identifiable.
+
+designated internet service has the meaning given by section 14.
+
+electronic message has the same meaning as in the Spam Act 2003.
+
+electronic service means: (a) a service that allows end-users to access material using a
+
+carriage service; or (b) a service that delivers material to persons having equipment
+
+appropriate for receiving that material, where the delivery of the service is by means of a carriage service; but does not include: (c) a broadcasting service; or (d) a datacasting service (within the meaning of the
+
+Broadcasting Services Act 1992).
+
+end-user notice means a notice under subsection 70(1).
+
+engage in conduct means: (a) do an act; or (b) omit to perform an act.
+
+8 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 5
+
+exempt court/tribunal content service means a service to the extent to which it delivers, or provides access to, material that consists of court/tribunal proceedings.
+
+exempt official-inquiry content service means a service to the extent to which it delivers, or provides access to, material that consists of official-inquiry proceedings.
+
+exempt Parliamentary content service means a service to the extent to which it delivers, or provides access to, material that consists of Parliamentary proceedings.
+
+exempt provision of an intimate image has the meaning given by section 86.
+
+Federal Court means the Federal Court of Australia.
+
+film has the same meaning as in the Classification (Publications, Films and Computer Games) Act 1995.
+
+hosting service has the meaning given by section 17.
+
+hosting service provider means a person who provides a hosting service.
+
+immediate circle has the same meaning as in the Telecommunications Act 1997.
+
+internet carriage service means a listed carriage service that enables end-users to access the internet.
+
+internet service provider has the meaning given by section 19.
+
+intimate image has the meaning given by section 15.
+
+legislative rules means rules made under section 240.
+
+link deletion notice means a notice given under section 124.
+
+listed carriage service has the same meaning as in the Telecommunications Act 1997.
+
+Online Safety Act 2021 9
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 5
+
+material means material: (a) whether in the form of text; or (b) whether in the form of data; or (c) whether in the form of speech, music or other sounds; or (d) whether in the form of visual images (moving or otherwise);
+
+or (e) whether in any other form; or (f) whether in any combination of forms.
+
+material that depicts abhorrent violent conduct has the meaning given by section 9.
+
+National Classification Code means the Code (within the meaning of the Classification (Publications, Films and Computer Games) Act 1995).
+
+non-consensual intimate image of a person has the meaning given by section 16.
+
+objection notice means a notice under section 33.
+
+official-inquiry proceedings means words spoken and acts done in the course of, or for purposes of or incidental to, the transacting of the business of: (a) a Royal Commission; or (b) an official inquiry; and includes: (c) evidence given before the Royal Commission or official
+
+inquiry; and (d) a document presented or submitted to the Royal Commission
+
+or official inquiry; and (e) a document issued or published by, or with the authority of,
+
+the Royal Commission or official inquiry.
+
+on-demand program service has the meaning given by section 18.
+
+online safety for Australians means the capacity of Australians to use social media services and electronic services in a safe manner.
+
+10 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 5
+
+online safety for children means the capacity of Australian children to use social media services and electronic services in a safe manner, and includes the protection of Australian children using those services from cyber-bullying material targeted at an Australian child.
+
+Online Safety Special Account means the Online Safety Special Account referred to in section 190.
+
+parent: without limiting who is a parent of anyone for the purposes of this Act, a person is the parent of another person if the other person is a child of the person within the meaning of the Family Law Act 1975.
+
+Parliamentary proceedings means words spoken and acts done in the course of, or for purposes of or incidental to, the transacting of the business of: (a) a Parliament; or (b) a legislature; or (c) a committee of a Parliament or legislature; and includes: (d) evidence given before the Parliament, legislature or
+
+committee; and (e) a document presented or submitted to the Parliament,
+
+legislature or committee; and (f) a document issued or published by, or with the authority of,
+
+the Parliament, legislature or committee.
+
+point-to-multipoint service means a carriage service which allows a person to transmit material to more than one end-user simultaneously.
+
+posted by an end-user of a social media service, relevant electronic service or designated internet service has the meaning given by section 11.
+
+Note: Other parts of speech and grammatical forms of “posted” (for example, “post”) have a corresponding meaning (see section 18A of the Acts Interpretation Act 1901).
+
+Online Safety Act 2021 11
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 5
+
+private sexual material means: (a) material that: (i) depicts a person who is, or appears to be, 18 years of
+
+age or older and who is engaged in, or appears to be engaged in, a sexual pose or sexual activity (whether or not in the presence of other persons); and (ii) does so in circumstances that reasonable persons would
+
+regard as giving rise to an expectation of privacy; or (b) material the dominant characteristic of which is the depiction
+
+of: (i) a sexual organ or the anal region of a person who is, or
+
+appears to be, 18 years of age or older; or (ii) if a person is a female person, or a transgender or
+
+intersex person, who is, or appears to be, 18 years of age or older—either or both of the person’s breasts; where the depiction is in circumstances that reasonable
+
+persons would regard as giving rise to an expectation of privacy.
+
+provided on a social media service, relevant electronic service or designated internet service has the meaning given by section 10.
+
+provider of a social media service, age-restricted social media platform, relevant electronic service, designated internet service or app distribution service has a meaning affected by section 238.
+
+publication has the same meaning as in the Classification (Publications, Films and Computer Games) Act 1995. Despite section 18A of the Acts Interpretation Act 1901, this definition does not affect the meaning of the expressions publish or published when used in this Act.
+
+relevant electronic service has the meaning given by section 13A.
+
+remedial notice means a notice given under section 119 or 120.
+
+removal notice means a notice under: (a) section 65; or
+
+12 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+(b) section 66; or (c) section 77; or (d) section 78; or (e) section 79; or (f) section 88; or (g) section 89; or (h) section 90; or (i) section 109; or (j) section 110; or (k) section 114; or (l) section 115.
+
+### Section 5
+
+removed from a social media service, relevant electronic service or designated internet service has the meaning given by section 12.
+
+restricted access system has the meaning given by section 108.
+
+Secretary means the Secretary of the Department.
+
+serious harm means serious physical harm or serious harm to a person’s mental health, whether temporary or permanent.
+
+serious harm to a person’s mental health includes: (a) serious psychological harm; and (b) serious distress; but does not include mere ordinary emotional reactions such as those of only distress, grief, fear or anger.
+
+service includes a website.
+
+service provider determination means a determination under section 151.
+
+service provider rule means each of the rules (if any) set out in a service provider determination.
+
+social media service has the meaning given by section 13.
+
+Online Safety Act 2021 13
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 6
+
+stored material means material kept on a data storage device. For this purpose, disregard any storage of material on a highly transitory basis as an integral function of the technology used in its transmission.
+
+Note: Momentary buffering (including momentary storage in a router in order to resolve a path for further transmission) is an example of storage on a highly transitory basis.
+
+target of cyber-abuse material has the meaning given by section 7.
+
+target of cyber-bullying material has the meaning given by section 6.
+
+terms of use includes anything that may be reasonably regarded as the equivalent of terms of use.
+
+threat includes a threat made by any conduct, whether express or implied and whether conditional or unconditional.
+
+use has a meaning affected by section 239.
+
+#### 6 Cyber-bullying material targeted at an Australian child
+
+(1) For the purposes of this Act, if material satisfies the following
+
+conditions: (a) the material is provided on: (i) a social media service; or (ii) a relevant electronic service; or (iii) a designated internet service; (b) an ordinary reasonable person would conclude that: (i) it is likely that the material was intended to have an
+
+effect on a particular Australian child; and (ii) the material would be likely to have the effect on the
+
+Australian child of seriously threatening, seriously intimidating, seriously harassing or seriously humiliating the Australian child; (c) such other conditions (if any) as are set out in the legislative
+
+rules;
+
+14 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 7
+
+then: (d) the material is cyber-bullying material targeted at the
+
+Australian child; and (e) the Australian child is the target of the material.
+
+(2) An effect mentioned in subsection (1) may be: (a) a direct result of the material being accessed by, or delivered
+
+to, the Australian child; or (b) an indirect result of the material being accessed by, or
+
+delivered to, one or more other persons.
+
+(3) Subsection (1) has effect subject to subsection (4).
+
+(4) For the purposes of this Act, if: (a) a person is: (i) in a position of authority over an Australian child; and (ii) an end-user of a social media service, relevant
+
+electronic service or designated internet service; and (b) in the lawful exercise of that authority, the person posts
+
+material on the service; and (c) the posting of the material is reasonable action taken in a
+
+reasonable manner; the material is taken not to be cyber-bullying material targeted at the Australian child.
+
+#### 7 Cyber-abuse material targeted at an Australian adult
+
+(1) For the purposes of this Act, if material satisfies the following
+
+conditions: (a) the material is provided on: (i) a social media service; or (ii) a relevant electronic service; or (iii) a designated internet service; (b) an ordinary reasonable person would conclude that it is likely
+
+that the material was intended to have an effect of causing serious harm to a particular Australian adult;
+
+Online Safety Act 2021 15
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 8
+
+(c) an ordinary reasonable person in the position of the
+
+Australian adult would regard the material as being, in all the circumstances, menacing, harassing or offensive; (d) such other conditions (if any) as are set out in the legislative
+
+rules; then: (e) the material is cyber-abuse material targeted at the
+
+Australian adult; and (f) the Australian adult is the target of the material.
+
+Note: For serious harm, see section 5.
+
+(2) An effect mentioned in paragraph (1)(b) may be: (a) a direct result of the material being accessed by, or delivered
+
+to, the Australian adult; or (b) an indirect result of the material being accessed by, or
+
+delivered to, one or more other persons.
+
+#### 8 Determining whether material is offensive
+
+(1) The matters to be taken into account in deciding for the purposes of
+
+this Act whether an ordinary reasonable person in the position of a particular Australian adult would regard particular material as being, in all the circumstances, offensive, include: (a) the standards of morality, decency and propriety generally
+
+accepted by reasonable adults; and (b) the literary, artistic or educational merit (if any) of the
+
+material; and (c) the general character of the material (including whether it is
+
+of a medical, legal or scientific character).
+
+(2) If: (a) material is provided on: (i) a social media service; or (ii) a relevant electronic service; or (iii) a designated internet service; and (b) the material is private sexual material;
+
+16 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 9
+
+then, in deciding for the purposes of this Act whether an ordinary reasonable person in the position of a particular Australian adult would regard the material as being, in all the circumstances, offensive, regard must be had to whether the subject, or each of the subjects, of the private sexual material gave consent to the material being provided on the service.
+
+### (3) Subsection (2) does not limit subsection (1).
+
+#### 9 Material that depicts abhorrent violent conduct
+
+(1) For the purposes of this Act, material that depicts abhorrent
+
+violent conduct means material that is: (a) audio material; or (b) visual material; or (c) audio-visual material; that records or streams abhorrent violent conduct.
+
+(2) For the purposes of subsection (1), it is immaterial whether the
+
+material has been altered.
+
+10 When material is provided on a social media service, relevant electronic service or designated internet service
+
+For the purposes of this Act, material is provided on a social media
+
+service, relevant electronic service or designated internet service if the material is accessible to, or delivered to, one or more of the end-users using the service.
+
+11 When material is posted by an end-user of a social media service, relevant electronic service or designated internet service
+
+For the purposes of this Act, material is posted on a social media
+
+service, relevant electronic service or designated internet service by an end-user if the end-user causes the material to be accessible to, or delivered to, one or more other end-users using the service.
+
+Online Safety Act 2021 17
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 12
+
+12 When material is removed from a social media service, relevant electronic service or designated internet service
+
+For the purposes of this Act, material is removed from a social
+
+media service, relevant electronic service or designated internet service if the material is neither accessible to, nor delivered to, any of the end-users in Australia using the service.
+
+#### 13 Social media service
+
+(1) For the purposes of this Act, social media service means: (a) an electronic service that satisfies the following conditions: (i) the sole or primary purpose of the service is to enable
+
+online social interaction between 2 or more end-users; (ii) the service allows end-users to link to, or interact with,
+
+some or all of the other end-users; (iii) the service allows end-users to post material on the
+
+service; (iv) such other conditions (if any) as are set out in the
+
+legislative rules; or (b) an electronic service specified in the legislative rules; but does not include an exempt service (as defined by subsection (4)).
+
+Note: Online social interaction does not include (for example) online business interaction.
+
+(2) For the purposes of subparagraph (1)(a)(i), online social interaction
+
+includes online interaction that enables end-users to share material for social purposes.
+
+Note: Social purposes does not include (for example) business purposes.
+
+### (3) In determining whether the condition set out in
+
+subparagraph (1)(a)(i) is satisfied, disregard any of the following purposes: (a) the provision of advertising material on the service; (b) the generation of revenue from the provision of advertising
+
+material on the service.
+
+18 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+Exempt services
+
+Section 13A
+
+(4) For the purposes of this section, a service is an exempt service if: (a) none of the material on the service is accessible to, or
+
+delivered to, one or more end-users in Australia; or (b) the service is specified in the legislative rules.
+
+#### 13A Relevant electronic service
+
+(1) For the purposes of this Act, relevant electronic service means any
+
+of the following electronic services: (a) a service that enables end-users to communicate, by means of
+
+email, with other end-users; (b) an instant messaging service that enables end-users to
+
+communicate with other end-users; (c) an SMS service that enables end-users to communicate with
+
+other end-users; (d) an MMS service that enables end-users to communicate with
+
+other end-users; (e) a chat service that enables end-users to communicate with
+
+other end-users; (f) a service that enables end-users to play online games with
+
+other end-users; (g) an electronic service specified in the legislative rules; but does not include an exempt service (as defined by subsection (2)).
+
+Note 1: SMS is short for short message service.
+
+Note 2: MMS is short for multimedia message service.
+
+Exempt services
+
+(2) For the purposes of this section, a service is an exempt service if
+
+none of the material on the service is accessible to, or delivered to, one or more end-users in Australia.
+
+Online Safety Act 2021 19
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 14
+
+#### 14 Designated internet service
+
+(1) For the purposes of this Act, designated internet service means: (a) a service that allows end-users to access material using an
+
+internet carriage service; or (b) a service that delivers material to persons having equipment
+
+appropriate for receiving that material, where the delivery of the service is by means of an internet carriage service; but does not include: (c) a social media service; or (d) a relevant electronic service; or (e) an on-demand program service; or (f) a service specified under subsection (2); or (g) an exempt service (as defined by subsection (3)).
+
+(2) The Minister may, by legislative instrument, specify one or more
+
+services for the purposes of paragraph (1)(f).
+
+Exempt services
+
+(3) For the purposes of this section, a service is an exempt service if
+
+none of the material on the service is accessible to, or delivered to, one or more end-users in Australia.
+
+#### 15 Intimate image
+
+(1) This section sets out the circumstances in which material is an
+
+intimate image of a person for the purposes of this Act.
+
+Depiction of private parts
+
+(2) Material is an intimate image of a person if: (a) the material consists of a still visual image or moving visual
+
+images; and (b) the material depicts, or appears to depict: (i) the person’s genital area or anal area (whether bare or
+
+covered by underwear); or
+
+20 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 15
+
+(ii) if the person is a female person or a transgender or
+
+intersex person—either or both of the person’s breasts; in circumstances in which an ordinary reasonable person
+
+would reasonably expect to be afforded privacy.
+
+Depiction of private activity
+
+(3) Material is an intimate image of a person if: (a) the material consists of a still visual image or moving visual
+
+images; and (b) the material depicts, or appears to depict, the person: (i) in a state of undress; or (ii) using the toilet; or (iii) showering; or (iv) having a bath; or (v) engaged in a sexual act of a kind not ordinarily done in
+
+public; or (vi) engaged in any other like activity; in circumstances in which an ordinary reasonable person
+
+would reasonably expect to be afforded privacy.
+
+Depiction of person without attire of religious or cultural significance
+
+(4) Material is an intimate image of a person if: (a) the material consists of a still visual image or moving visual
+
+images; and (b) because of the person’s religious or cultural background, the
+
+person consistently wears particular attire of religious or cultural significance whenever the person is in public; and (c) the material depicts, or appears to depict, the person: (i) without that attire; and (ii) in circumstances in which an ordinary reasonable
+
+person would reasonably expect to be afforded privacy.
+
+Online Safety Act 2021 21
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 16
+
+Interpretative provisions
+
+(5) For the purposes of this section, it is immaterial whether material
+
+has been altered.
+
+(6) For the purposes of this section, if material depicts, or appears to
+
+depict, a part of the body of a person, the material is taken to depict the person, or to appear to depict the person, as the case requires.
+
+#### 16 Non-consensual intimate image of a person
+
+For the purposes of this Act, if: (a) an intimate image of a person is provided on: (i) a social media service; or (ii) a relevant electronic service; or (iii) a designated internet service; and (b) the person did not consent to the provision of the intimate
+
+image on the service; and (c) the provision of the intimate image on the service is not an
+
+exempt provision of the intimate image; the intimate image is a non-consensual intimate image of the person.
+
+#### 17 Hosting service
+
+For the purposes of this Act, if: (a) a person (the first person) hosts stored material that has been
+
+provided on: (i) a social media service; or (ii) a relevant electronic service; or (iii) a designated internet service; and (b) the first person or another person provides: (i) a social media service; or (ii) a relevant electronic service; or (iii) a designated internet service; on which the hosted material is provided;
+
+22 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 18
+
+the hosting of the stored material by the first person is taken to be the provision by the first person of a hosting service.
+
+#### 18 On-demand program service
+
+(1) For the purposes of this Act, on-demand program service means a
+
+service: (a) that is provided to end-users using an internet carriage
+
+service; and (b) to the extent to which the service provides material that is
+
+identical to a program that has been, or is being, transmitted on: (i) a commercial television broadcasting service provided
+
+under a commercial television broadcasting licence; or (ii) a subscription television broadcasting service provided
+
+under a subscription television broadcasting licence; or (iii) a subscription television narrowcasting service; or (iv) a television broadcasting service provided by the
+
+Australian Broadcasting Corporation; or (v) a television broadcasting service provided by the
+
+Special Broadcasting Service Corporation.
+
+(2) For the purposes of subsection (1), in determining whether material
+
+is identical to a program, disregard any differences that are attributable to the technical characteristics of the provision or transmission (for example, video resolution or sound quality).
+
+(3) For the purposes of subsection (1), in determining whether material
+
+is identical to a program, disregard the presence or absence of: (a) a watermark-type logo; or (b) a watermark-type insignia.
+
+(4) An expression used in paragraph (1)(b) has the same meaning in
+
+that paragraph as it has in the Broadcasting Services Act 1992.
+
+Online Safety Act 2021 23
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 19
+
+#### 19 Internet service providers
+
+Basic definition
+
+(1) For the purposes of this Act, if a person supplies, or proposes to
+
+supply, an internet carriage service to the public, the person is an internet service provider.
+
+Declared internet service providers
+
+(2) The Minister may, by legislative instrument, declare that a
+
+specified person who supplies, or proposes to supply, a specified internet carriage service is an internet service provider for the purposes of this Act.
+
+Note: For specification by class, see subsection 13(3) of the Legislation Act 2003.
+
+#### 20 Supply of internet carriage service to the public
+
+(1) This section sets out the circumstances in which an internet
+
+carriage service is taken, for the purposes of section 19, to be supplied to the public.
+
+(2) If: (a) an internet carriage service is used for the carriage of
+
+material between 2 end-users; and (b) each end-user is outside the immediate circle of the supplier
+
+of the service; the service is supplied to the public.
+
+Note: If a company makes internet material available for access on the internet, and an individual obtains access to the material using an internet carriage service, the company and the individual are end-users in relation to the carriage of the material by the internet carriage service.
+
+(3) If: (a) an internet carriage service is used to supply
+
+point-to-multipoint services to end-users; and
+
+24 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 21
+
+(b) at least one end-user is outside the immediate circle of the
+
+supplier of the service; the service is supplied to the public.
+
+#### 21 Consent
+
+For the purposes of the application of this Act to an intimate image
+
+or private sexual material, consent means consent that is: (a) express; and (b) voluntary; and (c) informed; but does not include: (d) consent given by a child; or (e) consent given by an adult who is in a mental or physical
+
+condition (whether temporary or permanent) that: (i) makes the adult incapable of giving consent; or (ii) substantially impairs the capacity of the adult to give
+
+consent.
+
+#### 22 Crown to be bound
+
+This Act binds the Crown in each of its capacities.
+
+#### 23 Application of this Act
+
+### (1) This Act extends to every external Territory.
+
+(2) This Act extends to acts, omissions, matters and things outside
+
+Australia.
+
+#### 24 Convention on the Rights of the Child
+
+(1) The Commissioner must, as appropriate, have regard to the
+
+Convention on the Rights of the Child in the performance of functions: (a) conferred by or under this Act; and (b) in relation to Australian children.
+
+Online Safety Act 2021 25
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 24
+
+(2) Subsection (1) does not limit the matters to which the
+
+Commissioner may have regard.
+
+26 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 25
+
+### Part 2—eSafety Commissioner
+
+#### 25 Simplified outline of this Part
+
+• There is to be an eSafety Commissioner.
+
+• The functions of the Commissioner include: (a) promoting online safety for Australians; and (b) administering a complaints system for cyber-bullying material targeted at an Australian child; and (c) administering a complaints system for cyber-abuse material targeted at an Australian adult; and (d) administering a complaints and objections system for non-consensual sharing of intimate images; and (e) administering the online content scheme; and (f) coordinating activities of Commonwealth Departments, authorities and agencies relating to online safety for Australians; and (g) performing various functions relating to the social media minimum age provisions in Part 4A.
+
+Note: For administrative provisions relating to the Commissioner, see Part 11.
+
+#### 26 eSafety Commissioner
+
+There is to be an eSafety Commissioner.
+
+Note: In this Act, Commissioner means the eSafety Commissioner (see section 5).
+
+#### 27 Functions of the Commissioner
+
+(1) The functions of the Commissioner are: (a) such functions as are conferred on the Commissioner by:
+
+Online Safety Act 2021 27
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 27
+
+(i) this Act; or (ii) any other law of the Commonwealth; and (b) to promote online safety for Australians; and (c) to support and encourage the implementation of measures to
+
+improve online safety for Australians; and (d) to coordinate activities of Commonwealth Departments,
+
+authorities and agencies relating to online safety for Australians; and (e) to collect, analyse, interpret and disseminate information
+
+relating to online safety for Australians; and (f) to support, encourage, conduct, accredit and evaluate
+
+educational, promotional and community awareness programs that are relevant to online safety for Australians; and (g) to make, on behalf of the Commonwealth, grants of financial
+
+assistance in relation to online safety for Australians; and (h) to support, encourage, conduct and evaluate research about
+
+online safety for Australians; and (i) to publish (whether on the internet or otherwise) reports and
+
+papers relating to online safety for Australians; and (j) to give the Minister reports about online safety for
+
+Australians; and (k) to advise the Minister about online safety for Australians;
+
+and (l) to consult and cooperate with other persons, organisations
+
+and governments on online safety for Australians; and (m) to advise and assist persons in relation to their obligations
+
+under this Act; and (n) to monitor compliance with this Act; and (o) to promote compliance with this Act; and (p) to formulate, in writing, guidelines or statements that: (i) recommend best practices for persons and bodies
+
+involved in online safety for Australians; and (ii) are directed towards facilitating the timely and
+
+appropriate resolution of incidents involving material
+
+28 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 27
+
+provided on a social media service, relevant electronic service or designated internet service; and (q) to promote guidelines and statements formulated under
+
+paragraph (p); and (qa) to formulate, in writing, guidelines for the taking of
+
+reasonable steps to prevent age-restricted users having accounts with age-restricted social media platforms; and (qb) to promote guidelines formulated under paragraph (qa); and (r) such other functions (if any) as are specified in the legislative
+
+rules; and (s) to do anything incidental to or conducive to the performance
+
+of any of the above functions.
+
+Grants
+
+(2) Financial assistance may be granted under paragraph (1)(g) to: (a) a State; or (b) a Territory; or (c) a person other than a State or Territory.
+
+(3) The terms and conditions on which financial assistance is granted
+
+under paragraph (1)(g) are to be set out in a written agreement between the Commonwealth and the grant recipient.
+
+(4) An agreement under subsection (3) is to be entered into by the
+
+Commissioner on behalf of the Commonwealth.
+
+Guidelines and statements are not legislative instruments
+
+(5) Guidelines and statements formulated under paragraph (1)(p) are
+
+not legislative instruments.
+
+(6) Guidelines formulated under paragraph (1)(qa) are not legislative
+
+instruments.
+
+Online Safety Act 2021 29
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 28
+
+#### 28 Powers of the Commissioner
+
+The Commissioner has power to do all things necessary or
+
+convenient to be done for or in connection with the performance of the Commissioner’s functions.
+
+Note: For supplementary powers, see section 178.
+
+30 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 29
+
+### Part 3—Complaints, objections and investigations
+
+#### Division 1—Introduction
+
+#### 29 Simplified outline of this Part
+
+• There is a complaints system for cyber-bullying material targeted at an Australian child.
+
+• There is a complaints and objections system for non-consensual sharing of intimate images.
+
+• There is a complaints system for cyber-abuse material targeted at an Australian adult.
+
+• There is a complaints system relating to the online content scheme.
+
+Online Safety Act 2021 31
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 30
+
+### Division 2—Complaints about cyber-bullying material
+
+### targeted at an Australian child
+
+#### 30 Complaints about cyber-bullying material
+
+Complaint made by an Australian child
+
+(1) If an Australian child has reason to believe that the child was or is
+
+the target of cyber-bullying material that has been, or is being, provided on: (a) a particular social media service; or (b) a particular relevant electronic service; or (c) a particular designated internet service; the child may make a complaint to the Commissioner about the matter.
+
+Complaint made on behalf of an Australian child
+
+(2) If: (a) a person (the responsible person) has reason to believe that
+
+cyber-bullying material targeted at an Australian child has been, or is being, provided on: (i) a particular social media service; or (ii) a particular relevant electronic service; or (iii) a particular designated internet service; and (b) either: (i) the responsible person is a parent or guardian of the
+
+child; or (ii) the child has authorised the responsible person to make
+
+a complaint about the matter; the responsible person may, on behalf of the child, make a complaint to the Commissioner about the matter.
+
+32 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 30
+
+Complaint made by an adult who was an Australian child
+
+(3) If: (a) a person is an adult; and (b) the person has reason to believe that, when the person was an
+
+Australian child, the person was the target of cyber-bullying material that was provided on: (i) a particular social media service; or (ii) a particular relevant electronic service; or (iii) a particular designated internet service; the person may make a complaint to the Commissioner about the matter, so long as: (c) the complaint is made within a reasonable time after the
+
+person became aware of the matter; and (d) the complaint is made within 6 months after the person
+
+reached 18 years.
+
+Complaint previously made to the service provider
+
+(4) If: (a) a complaint made by a person under this section concerns
+
+material that has been, or is being, provided on: (i) a social media service; or (ii) a relevant electronic service; or (iii) a designated internet service; and (b) the person wants the Commissioner to give the provider of
+
+the service a section 65 removal notice requiring the provider to remove the material from the service; the complaint under this section must be accompanied by evidence that the material was the subject of a complaint that was previously made to the provider of the service.
+
+(5) For the purposes of subsection (4), evidence must be in a form
+
+required by the Commissioner.
+
+### (6) If: (a) a social media service; or
+
+Online Safety Act 2021 33
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 31
+
+(b) a relevant electronic service; or (c) a designated internet service; issues a receipt or complaint number to a complainant as part of its ordinary business processes, the Commissioner may require evidence to be in the form of the receipt or complaint number.
+
+(7) If: (a) a social media service; or (b) a relevant electronic service; or (c) a designated internet service; does not issue a receipt or complaint number to a complainant as part of its ordinary business processes, the Commissioner may require evidence to be: (d) in the form of a screen shot; or (e) in the form of a statutory declaration; or (f) in such other form as the Commissioner specifies.
+
+(8) Subsections (6) and (7) do not limit subsection (5).
+
+(9) A requirement under subsection (5), (6) or (7) is not a legislative
+
+instrument.
+
+#### 31 Investigation of complaints
+
+(1) The Commissioner may investigate a complaint made under
+
+section 30.
+
+(2) An investigation under this section is to be conducted as the
+
+Commissioner thinks fit.
+
+(3) The Commissioner may, for the purposes of an investigation,
+
+obtain information from such persons, and make such inquiries, as the Commissioner thinks fit.
+
+(4) Subsections (1), (2) and (3) have effect subject to Part 14 (which
+
+confers certain investigative powers on the Commissioner).
+
+34 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+Termination of investigation
+
+### Section 31
+
+(5) The Commissioner may terminate an investigation under this
+
+section.
+
+Online Safety Act 2021 35
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 32
+
+### Division 3—Complaints about, and objections to, intimate
+
+### images
+
+#### 32 Complaints
+
+Complaint made by a person depicted in an intimate image
+
+(1) If a person has reason to believe that section 75 has been
+
+contravened in relation to an intimate image of the person, the person may make a complaint to the Commissioner about the matter.
+
+(2) If the complainant is not able to identify the person who allegedly
+
+contravened section 75, the complainant must make a statement to the Commissioner to that effect.
+
+Complaint made on behalf of a person depicted in an intimate image
+
+(3) If a person (the authorised person) has reason to believe that
+
+section 75 has been contravened in relation to an intimate image of another person (the depicted person), the authorised person may, on behalf of the depicted person, make a complaint to the Commissioner about the matter, so long as: (a) the depicted person has authorised the authorised person to
+
+make a complaint about the matter; or (b) both: (i) the depicted person is a child who has not reached 16
+
+years; and (ii) the authorised person is a parent or guardian of the
+
+depicted person; or (c) both: (i) the depicted person is in a mental or physical condition
+
+(whether temporary or permanent) that makes the depicted person incapable of managing the depicted person’s affairs; and
+
+36 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 33
+
+(ii) the authorised person is a parent or guardian of the
+
+depicted person.
+
+(4) The authorised person must make a declaration to the
+
+Commissioner to the effect that the authorised person is entitled to make the complaint on behalf of the depicted person.
+
+(5) If the authorised person is not able to identify the person who
+
+allegedly contravened section 75, the authorised person must make a statement to the Commissioner to that effect.
+
+#### 33 Objection notice
+
+Objection notice given by a person depicted in an intimate image
+
+(1) If a person (the depicted person) has reason to believe that: (a) an intimate image of the depicted person is, or has been,
+
+provided on: (i) a social media service; or (ii) a relevant electronic service; or (iii) a designated internet service; and (b) the provision of the intimate image on the service is not an
+
+exempt provision of the intimate image; and (c) any of the following conditions is satisfied: (i) the depicted person is ordinarily resident in Australia; (ii) if the intimate image was posted on the service by an
+
+end-user of the service—the end-user is ordinarily resident in Australia; (iii) the intimate image is hosted in Australia by a hosting
+
+service; the depicted person may give the Commissioner a notice (an objection notice) objecting to the provision of the intimate image on the service.
+
+(2) The depicted person may give the objection notice even if the
+
+depicted person previously consented to the provision of the intimate image on the service.
+
+Online Safety Act 2021 37
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 33
+
+Objection notice given on behalf of a person depicted in an intimate image
+
+(3) If a person (the authorised person) has reason to believe that: (a) an intimate image of another person (the depicted person) is,
+
+or has been, provided on: (i) a social media service; or (ii) a relevant electronic service; or (iii) a designated internet service; and (b) the provision of the intimate image on the service is not an
+
+exempt provision of the intimate image; and (c) any of the following conditions is satisfied: (i) the depicted person is ordinarily resident in Australia; (ii) if the intimate image was posted on the service by an
+
+end-user of the service—the end-user is ordinarily resident in Australia; (iii) the intimate image is hosted in Australia by a hosting
+
+service; the authorised person may, on behalf of the depicted person, give the Commissioner a notice (an objection notice) objecting to the provision of the intimate image on the service, so long as: (d) the depicted person has authorised the authorised person to
+
+give the objection notice; or (e) both: (i) the depicted person is a child who has not reached 16
+
+years; and (ii) the authorised person is a parent or guardian of the
+
+depicted person; or (f) both: (i) the depicted person is in a mental or physical condition
+
+(whether temporary or permanent) that makes the depicted person incapable of managing the depicted person’s affairs; and (ii) the authorised person is a parent or guardian of the
+
+depicted person.
+
+38 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 34
+
+(4) The authorised person must make a declaration to the
+
+Commissioner to the effect that the authorised person is entitled to give the objection notice on behalf of the depicted person.
+
+(5) The authorised person may give the objection notice even if the
+
+depicted person previously consented to the provision of the intimate image on the service.
+
+#### 34 Investigation of complaints
+
+(1) The Commissioner may investigate a complaint made to the
+
+Commissioner under section 32.
+
+(2) An investigation under this section is to be conducted as the
+
+Commissioner thinks fit.
+
+(3) The Commissioner may, for the purposes of an investigation,
+
+obtain information from such persons, and make such inquiries, as the Commissioner thinks fit.
+
+(4) Subsections (1), (2) and (3) have effect subject to Part 14 (which
+
+confers certain investigative powers on the Commissioner).
+
+Termination of investigation
+
+(5) The Commissioner may terminate an investigation under this
+
+section.
+
+#### 35 Commissioner’s response to objection notices
+
+If an objection notice is given to the Commissioner under
+
+section 33 in relation to an intimate image, the Commissioner may consider whether to give a removal notice in relation to the intimate image.
+
+Online Safety Act 2021 39
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 36
+
+### Division 4—Complaints about cyber-abuse material
+
+### targeted at an Australian adult
+
+#### 36 Complaints about cyber-abuse material
+
+Complaint made by an Australian adult
+
+(1) If an Australian adult has reason to believe that the adult was or is
+
+the target of cyber-abuse material that has been, or is being, provided on: (a) a particular social media service; or (b) a particular relevant electronic service; or (c) a particular designated internet service; the adult may make a complaint to the Commissioner about the matter.
+
+Complaint made on behalf of an Australian adult
+
+(2) If: (a) a person (the responsible person) has reason to believe that
+
+cyber-abuse material targeted at an Australian adult has been, or is being, provided on: (i) a particular social media service; or (ii) a particular relevant electronic service; or (iii) a particular designated internet service; and (b) the adult has authorised the responsible person to make a
+
+complaint about the matter; the responsible person may, on behalf of the adult, make a complaint to the Commissioner about the matter.
+
+Complaint about material that was provided on a service
+
+(3) If: (a) a complaint made by a person under this section concerns
+
+material that has been, or is being, provided on:
+
+40 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+Complaints about cyber-abuse material targeted at an Australian adult Division 4
+
+### Section 36
+
+(i) a social media service; or (ii) a relevant electronic service; or (iii) a designated internet service; and (b) the person wants the Commissioner to give the provider of
+
+the service a removal notice under section 88 requiring the provider to remove the material from the service; the complaint under this section must be accompanied by evidence that the material was the subject of a complaint that was previously made to the provider of the service.
+
+(4) For the purposes of subsection (3), evidence must be in a form
+
+required by the Commissioner.
+
+(5) If: (a) a social media service; or (b) a relevant electronic service; or (c) a designated internet service; issues a receipt or complaint number to a complainant as part of its ordinary business processes, the Commissioner may require evidence to be in the form of the receipt or complaint number.
+
+(6) If: (a) a social media service; or (b) a relevant electronic service; or (c) a designated internet service; does not issue a receipt or complaint number to a complainant as part of its ordinary business processes, the Commissioner may require evidence to be: (d) in the form of a screen shot; or (e) in the form of a statutory declaration; or (f) in such other form as the Commissioner specifies.
+
+(7) Subsections (5) and (6) do not limit subsection (4).
+
+(8) A requirement under subsection (4), (5) or (6) is not a legislative
+
+instrument.
+
+Online Safety Act 2021 41
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 37
+
+#### 37 Investigation of complaints
+
+(1) The Commissioner may investigate a complaint made under
+
+section 36.
+
+(2) An investigation under this section is to be conducted as the
+
+Commissioner thinks fit.
+
+(3) The Commissioner may, for the purposes of an investigation,
+
+obtain information from such persons, and make such inquiries, as the Commissioner thinks fit.
+
+(4) Subsections (1), (2) and (3) have effect subject to Part 14 (which
+
+confers certain investigative powers on the Commissioner).
+
+Termination of investigation
+
+(5) The Commissioner may terminate an investigation under this
+
+section.
+
+42 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 38
+
+### Division 5—Complaints relating to the online content
+
+### scheme
+
+#### 38 Complaints about class 1 material or class 2 material
+
+(1) If a person has reason to believe that end-users in Australia can
+
+access: (a) class 1 material that is provided on: (i) a particular social media service; or (ii) a particular relevant electronic service; or (iii) a particular designated internet service; or (b) class 2 material that is covered by paragraph 107(1)(a), (b),
+
+(c), (d) or (e) and provided on: (i) a particular social media service; or (ii) a particular relevant electronic service; or (iii) a particular designated internet service; the person may make a complaint to the Commissioner about the matter.
+
+(2) If a person has reason to believe that: (a) end-users in Australia can access class 2 material that is
+
+covered by paragraph 107(1)(f), (g), (h), (i), (j), (k) or (l) and provided on: (i) a particular social media service; or (ii) a particular relevant electronic service; or (iii) a particular designated internet service; and (b) access to the material is not subject to a restricted access
+
+system; the person may make a complaint to the Commissioner about the matter.
+
+#### 39 Complaints relating to breach of a service provider rule etc.
+
+If a person (the first person) has reason to believe that another
+
+person has:
+
+Online Safety Act 2021 43
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 40
+
+(a) breached a service provider rule that applies to the other
+
+person; or (b) breached a civil penalty provision of Part 9 (which deals with
+
+the online content scheme); the first person may make a complaint to the Commissioner about the matter.
+
+#### 40 Complaints relating to breach of an industry code etc.
+
+If a person has reason to believe that a participant in the online
+
+industry (within the meaning of Division 7 of Part 9) has breached: (a) a code registered under that Division that is applicable to the
+
+participant; or (b) an industry standard registered under that Division that is
+
+applicable to the participant; the person may make a complaint to the Commissioner about the matter.
+
+#### 41 Residency etc. of complainant
+
+A person is not entitled to make a complaint under this Division
+
+unless the person is: (a) an individual who resides in Australia; or (b) a body corporate that carries on activities in Australia; or (c) the Commonwealth, a State or a Territory.
+
+#### 42 Commissioner may investigate matters
+
+(1) The Commissioner may, on the Commissioner’s own initiative or
+
+in response to a complaint made under section 38, 39 or 40, investigate any of the following matters if the Commissioner thinks that it is desirable to do so: (a) whether end-users in Australia can access class 1 material
+
+that is provided on: (i) a social media service; or (ii) a relevant electronic service; or
+
+44 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 42
+
+(iii) a designated internet service; (b) whether end-users in Australia can access class 2 material
+
+that is covered by paragraph 107(1)(a), (b), (c), (d) or (e) and provided on: (i) a social media service; or (ii) a relevant electronic service; or (iii) a designated internet service; (c) whether end-users in Australia can access class 2 material
+
+that is covered by paragraph 107(1)(f), (g), (h), (i), (j), (k) or (l) and provided on: (i) a social media service; or (ii) a relevant electronic service; or (iii) a designated internet service; and, if so, whether access to the material is subject to a
+
+restricted access system; (d) whether a person has breached a service provider rule that
+
+applies to the person; (e) whether a person has breached a civil penalty provision of
+
+## Part 9 (which deals with the online content scheme); (f) whether a participant in the online industry (within the
+
+meaning of Division 7 of Part 9) has breached a code registered under that Division that is applicable to the participant; (g) whether a participant in the online industry (within the
+
+meaning of Division 7 of Part 9) has breached an industry standard registered under that Division that is applicable to the participant.
+
+(2) An investigation under this section is to be conducted as the
+
+Commissioner thinks fit.
+
+(3) The Commissioner may, for the purposes of an investigation,
+
+obtain information from such persons, and make such inquiries, as the Commissioner thinks fit.
+
+(4) This section has effect subject to Part 14 (which confers certain
+
+investigative powers on the Commissioner).
+
+Online Safety Act 2021 45
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 43
+
+#### 43 Commissioner may refuse to investigate certain matters
+
+(1) If: (a) a person has made a complaint under section 38, 39 or 40;
+
+and (b) the complaint is about a particular matter; and (c) the person could have made a complaint about the matter
+
+under: (i) an industry code registered under Division 7 of Part 9;
+
+or (ii) an industry standard determined under Division 7 of
+
+## Part 9; the Commissioner may refuse to investigate the matter
+
+(2) Subsection (1) does not, by implication, limit the circumstances in
+
+which the Commissioner may refuse to investigate a matter.
+
+46 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 44
+
+### Part 4—Basic online safety expectations
+
+#### Division 1—Introduction
+
+#### 44 Simplified outline of this Part
+
+• The Minister may determine basic online safety expectations for social media services, relevant electronic services and designated internet services.
+
+• The provider of a social media service, relevant electronic service or designated internet service may be required to give the Commissioner reports about compliance with the applicable basic online safety expectations.
+
+Online Safety Act 2021 47
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 45
+
+#### Division 2—Basic online safety expectations
+
+#### 45 Basic online safety expectations
+
+Social media service
+
+(1) The Minister may, by legislative instrument, determine that the
+
+basic online safety expectations for a social media service are the expectations specified in the determination.
+
+Relevant electronic service
+
+(2) The Minister may, by legislative instrument, determine that the
+
+basic online safety expectations for each relevant electronic service included in a class of relevant electronic services specified in the determination are the expectations specified in the determination.
+
+Designated internet service
+
+(3) The Minister may, by legislative instrument, determine that the
+
+basic online safety expectations for each designated internet service included in a class of designated internet services specified in the determination are the expectations specified in the determination.
+
+Determination does not impose a legally enforceable duty
+
+(4) A determination under this section does not impose a duty that is
+
+enforceable by proceedings in a court.
+
+#### 46 Core expectations
+
+(1) A determination under section 45 must specify each of the
+
+following expectations: (a) the expectation that the provider of the service will take
+
+reasonable steps to ensure that end-users are able to use the service in a safe manner;
+
+48 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 46
+
+(b) the expectation that, in determining what are such reasonable
+
+steps, the provider will consult the Commissioner; (c) the expectation that the provider of the service will take
+
+reasonable steps to minimise the extent to which the following material is provided on the service: (i) cyber-bullying material targeted at an Australian child; (ii) cyber-abuse material targeted at an Australian adult; (iii) a non-consensual intimate image of a person; (iv) class 1 material; (v) material that promotes abhorrent violent conduct; (vi) material that incites abhorrent violent conduct; (vii) material that instructs in abhorrent violent conduct; (viii) material that depicts abhorrent violent conduct; (d) the expectation that the provider of the service will take
+
+reasonable steps to ensure that technological or other measures are in effect to prevent access by children to class 2 material provided on the service; (e) the expectation that the provider of the service will ensure
+
+that the service has clear and readily identifiable mechanisms that enable end-users to report, and make complaints about, any of the following material provided on the service: (i) cyber-bullying material targeted at an Australian child; (ii) cyber-abuse material targeted at an Australian adult; (iii) a non-consensual intimate image of a person; (iv) class 1 material; (v) class 2 material; (vi) material that promotes abhorrent violent conduct; (vii) material that incites abhorrent violent conduct; (viii) material that instructs in abhorrent violent conduct; (ix) material that depicts abhorrent violent conduct; (f) the expectation that the provider of the service will ensure
+
+that the service has clear and readily identifiable mechanisms that enable end-users to report, and make complaints about, breaches of the service’s terms of use;
+
+Online Safety Act 2021 49
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 47
+
+(g) the expectation that, if the Commissioner, by written notice
+
+given to the provider of the service, requests the provider to give the Commissioner a statement that sets out the number of complaints made to the provider during a specified period (not shorter than 6 months) about breaches of the service’s terms of use, the provider will comply with the request within 30 days after the notice of request is given; (h) the expectation that, if the Commissioner, by written notice
+
+given to the provider of the service, requests the provider to give the Commissioner a statement that sets out, for each removal notice given to the provider during a specified period (not shorter than 6 months), how long it took the provider to comply with the removal notice, the provider will comply with the request within 30 days after the notice of request is given; (i) the expectation that, if the Commissioner, by written notice
+
+given to the provider of the service, requests the provider to give the Commissioner specified information relating to the measures taken by the provider to ensure that end-users are able to use the service in a safe manner, the provider will comply with the request within 30 days after the notice of request is given.
+
+Note 1: For non-consensual intimate image of a person, see section 16.
+
+Note 2: Section 104 provides for exemptions for the following material: (a) material that promotes abhorrent violent conduct; (b) material that incites abhorrent violent conduct; (c) material that instructs in abhorrent violent conduct; (d) material that depicts abhorrent violent conduct.
+
+(2) Subsection (1) does not limit the expectations that may be specified
+
+in a determination under section 45.
+
+#### 47 Consultation
+
+(1) Before making or varying a determination under section 45, the
+
+Minister must: (a) make a copy of the draft available on the Department’s
+
+website; and
+
+50 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 48
+
+(b) publish a notice on the Department’s website: (i) stating that the Minister has prepared a draft of the
+
+determination or variation; and (ii) inviting interested persons to give written comments
+
+about the draft to the Minister within the period specified in the notice.
+
+(2) The period specified in the notice must run for at least 30 days
+
+after the publication of the notice.
+
+(3) Subsection (1) does not apply to a variation if the variation is of a
+
+minor nature.
+
+(4) If interested persons have given comments in accordance with a
+
+notice under subsection (1), the Minister must have due regard to those comments in making or varying the determination.
+
+#### 48 Service provider notifications
+
+Scope
+
+(1) This section applies to the following services: (a) a social media service, if there are basic online safety
+
+expectations for the service; (b) a relevant electronic service, if there are basic online safety
+
+expectations for the service; (c) a designated internet service, if there are basic online safety
+
+expectations for the service.
+
+Statement
+
+(2) If the Commissioner is satisfied that the provider of a service has
+
+contravened one or more basic online safety expectations for the service, the Commissioner may: (a) prepare a statement to that effect; and (b) give a copy of the statement to the provider of the service;
+
+and
+
+Online Safety Act 2021 51
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 48
+
+(c) if the Commissioner considers that it is appropriate to publish
+
+the statement—publish the statement on the Commissioner’s website.
+
+(3) If the Commissioner is satisfied that the provider of a service has
+
+complied with the basic online safety expectations for the service at all times during a particular period, the Commissioner may: (a) prepare a statement to that effect; and (b) give a copy of the statement to the provider of the service;
+
+and (c) if the Commissioner considers that it is appropriate to publish
+
+the statement—publish the statement on the Commissioner’s website.
+
+52 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+#### Division 3—Reporting
+
+### Section 49
+
+### Subdivision A—Periodic reporting about compliance with basic
+
+### online safety expectations
+
+#### 49 Periodic reporting notice
+
+Scope
+
+(1) This section applies to the following services: (a) a social media service, if there are basic online safety
+
+expectations for the service; (b) a relevant electronic service, if there are basic online safety
+
+expectations for the service; (c) a designated internet service, if there are basic online safety
+
+expectations for the service.
+
+Notice
+
+(2) The Commissioner may, by written notice given to the provider of
+
+the service, require the provider to: (a) do whichever of the following is specified in the notice: (i) prepare periodic reports about the extent to which the
+
+provider complied with the applicable basic online safety expectations during such regular intervals as are specified in the notice; (ii) prepare periodic reports about the extent to which the
+
+provider complied with one or more specified applicable basic online safety expectations during such regular intervals as are specified in the notice; and (b) prepare those periodic reports in the manner and form
+
+specified in the notice; and (c) give each of those periodic reports to the Commissioner: (i) within the period ascertained in accordance with the
+
+notice in relation to the periodic report concerned; or
+
+Online Safety Act 2021 53
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 50
+
+(ii) if the Commissioner allows a longer period in relation
+
+to the periodic report concerned—within that longer period.
+
+(3) An interval specified under subparagraph (2)(a)(i) or (ii): (a) must not be shorter than 6 months; and (b) must not be longer than 24 months.
+
+(4) A period ascertained in accordance with the notice as mentioned in
+
+subparagraph (2)(c)(i) must not be shorter than 28 days after the end of the interval to which the periodic report relates.
+
+(5) In deciding whether to give a notice under subsection (2) to the
+
+provider of a service, the Commissioner must have regard to the following: (a) the number of occasions during the previous 12 months on
+
+which complaints about material provided on the service were made to the Commissioner under this Act; (b) whether the provider has previously contravened a civil
+
+penalty provision of this Division; (c) whether there are deficiencies in the provider’s practices, so
+
+far as those practices relate to the capacity of end-users to use the service in a safe manner; (d) whether there are deficiencies in the service’s terms of use,
+
+so far as they relate to the capacity of end-users to use the service in a safe manner; (e) whether the provider has agreed to give the Secretary regular
+
+reports relating to the capacity of end-users to use the service in a safe manner; (f) such other matters (if any) as the Commissioner considers
+
+relevant.
+
+#### 50 Compliance with notice
+
+A person must comply with a notice under subsection 49(2) to the
+
+extent that the person is capable of doing so.
+
+Civil penalty: 500 penalty units.
+
+54 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+#### 51 Formal warning
+
+### Section 51
+
+The Commissioner may issue a formal warning if a person
+
+contravenes section 50.
+
+#### 52 Periodic reporting determination
+
+Scope
+
+(1) This section applies to the following services: (a) a social media service, if there are basic online safety
+
+expectations for the service; (b) a relevant electronic service, if there are basic online safety
+
+expectations for the service; (c) a designated internet service, if there are basic online safety
+
+expectations for the service.
+
+Determination
+
+(2) The Commissioner may, by legislative instrument, determine that
+
+each provider of a service included in a specified class of services is required to: (a) do whichever of the following is specified in the
+
+determination: (i) prepare periodic reports about the extent to which the
+
+provider complied with the applicable basic online safety expectations during such regular intervals as are specified in the determination; (ii) prepare periodic reports about the extent to which the
+
+provider complied with one or more specified applicable basic online safety expectations during such regular intervals as are specified in the determination; and (b) prepare those periodic reports in the manner and form
+
+specified in the determination; and (c) give each of those periodic reports to the Commissioner:
+
+Online Safety Act 2021 55
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 53
+
+(i) within the period ascertained in accordance with the
+
+determination in relation to the periodic report concerned; or (ii) if the Commissioner allows a longer period in relation
+
+to the periodic report concerned—within that longer period.
+
+(3) An interval specified under subparagraph (2)(a)(i) or (ii): (a) must not be shorter than 6 months; and (b) must not be longer than 24 months.
+
+(4) A period ascertained in accordance with the determination as
+
+mentioned in subparagraph (2)(c)(i) must not be shorter than 28 days after the end of the interval to which the periodic report relates.
+
+#### 53 Compliance with determination
+
+A person must comply with a determination under subsection 52(2)
+
+to the extent that the person is capable of doing so.
+
+Civil penalty: 500 penalty units.
+
+#### 54 Formal warning
+
+The Commissioner may issue a formal warning if a person
+
+contravenes section 53.
+
+#### 55 Service provider notifications
+
+(1) If: (a) the Commissioner gave a notice under subsection 49(2) to
+
+the provider of: (i) a social media service; or (ii) a relevant electronic service; or (iii) a designated internet service; and (b) the provider did not comply with the notice; the Commissioner may:
+
+56 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 56
+
+(c) prepare a statement to that effect; and (d) publish the statement on the Commissioner’s website; and (e) give a copy of the statement to the provider of the service.
+
+(2) If: (a) a determination under subsection 52(2) applies to the
+
+provider of: (i) a social media service; or (ii) a relevant electronic service; or (iii) a designated internet service; and (b) the provider did not comply with the determination; the Commissioner may: (c) prepare a statement to that effect; and (d) publish the statement on the Commissioner’s website; and (e) give a copy of the statement to the provider of the service.
+
+### Subdivision B—Non-periodic reporting about compliance with
+
+### basic online safety expectations
+
+#### 56 Non-periodic reporting notice
+
+Scope
+
+(1) This section applies to the following services: (a) a social media service, if there are basic online safety
+
+expectations for the service; (b) a relevant electronic service, if there are basic online safety
+
+expectations for the service; (c) a designated internet service, if there are basic online safety
+
+expectations for the service.
+
+Notice
+
+(2) The Commissioner may, by written notice given to the provider of
+
+the service, require the provider to: (a) do whichever of the following is specified in the notice:
+
+Online Safety Act 2021 57
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 56
+
+(i) prepare a report about the extent to which the provider
+
+complied with the applicable basic online safety expectations during the period specified in the notice; (ii) prepare a report about the extent to which the provider
+
+complied with one or more specified applicable basic online safety expectations during the period specified in the notice; and (b) prepare the report in the manner and form specified in the
+
+notice; and (c) give the report to the Commissioner: (i) within the period specified in the notice; or (ii) if the Commissioner allows a longer period—within that
+
+longer period.
+
+(3) The period specified under subparagraph (2)(a)(i) or (ii): (a) must not be shorter than 6 months; and (b) must not be longer than 24 months.
+
+(4) The period specified in subparagraph (2)(c)(i) must not be shorter
+
+than 28 days after the notice is given.
+
+(5) In deciding whether to give a notice under subsection (2) to the
+
+provider of a service, the Commissioner must have regard to the following: (a) the number of occasions during the previous 12 months on
+
+which complaints about material provided on the service were made to the Commissioner under this Act; (b) whether the provider has previously contravened a civil
+
+penalty provision of this Division; (c) whether there are deficiencies in the provider’s practices, so
+
+far as those practices relate to the capacity of end-users to use the service in a safe manner; (d) whether there are deficiencies in service’s terms of use, so far
+
+as they relate to the capacity of end-users to use the service in a safe manner;
+
+58 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 57
+
+(e) whether the provider has agreed to give the Secretary regular
+
+reports relating to the capacity of end-users to use the service in a safe manner; (f) such other matters (if any) as the Commissioner considers
+
+relevant.
+
+#### 57 Compliance with notice
+
+A person must comply with a notice under subsection 56(2) to the
+
+extent that the person is capable of doing so.
+
+Civil penalty: 500 penalty units.
+
+#### 58 Formal warning
+
+The Commissioner may issue a formal warning if a person
+
+contravenes section 57.
+
+#### 59 Non-periodic reporting determination
+
+Scope
+
+(1) This section applies to the following services: (a) a social media service, if there are basic online safety
+
+expectations for the service; (b) a relevant electronic service, if there are basic online safety
+
+expectations for the service; (c) a designated internet service, if there are basic online safety
+
+expectations for the service.
+
+Determination
+
+(2) The Commissioner may, by legislative instrument, determine that
+
+each provider of a service included in a specified class of services is required to: (a) do whichever of the following is specified in the
+
+determination:
+
+Online Safety Act 2021 59
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 60
+
+(i) prepare a report about the extent to which the provider
+
+complied with the applicable basic online safety expectations during the period specified in the determination; (ii) prepare a report about the extent to which the provider
+
+complied with one or more specified applicable basic online safety expectations during the period specified in the determination; and (b) prepare the report in the manner and form specified in the
+
+determination; and (c) give the report to the Commissioner: (i) within the period specified in the determination; or (ii) if the Commissioner allows a longer period—within that
+
+longer period.
+
+(3) The period specified under subparagraph (2)(a)(i) or (ii): (a) must not be shorter than 6 months; and (b) must not be longer than 24 months.
+
+(4) The period specified in subparagraph (2)(c)(i) must not be shorter
+
+than 28 days after the determination is made.
+
+#### 60 Compliance with determination
+
+A person must comply with a determination under subsection 59(2)
+
+to the extent that the person is capable of doing so.
+
+Civil penalty: 500 penalty units.
+
+#### 61 Formal warning
+
+The Commissioner may issue a formal warning if a person
+
+contravenes section 60.
+
+#### 62 Service provider notifications
+
+### (1) If:
+
+60 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 63
+
+(a) the Commissioner gave a notice under subsection 56(2) to
+
+the provider of: (i) a social media service; or (ii) a relevant electronic service; or (iii) a designated internet service; and (b) the provider did not comply with the notice; the Commissioner may: (c) prepare a statement to that effect; and (d) publish the statement on the Commissioner’s website; and (e) give a copy of the statement to the provider of the service.
+
+(2) If: (a) a determination under subsection 59(2) applies to the
+
+provider of: (i) a social media service; or (ii) a relevant electronic service; or (iii) a designated internet service; and (b) the provider did not comply with the determination; the Commissioner may: (c) prepare a statement to that effect; and (d) publish the statement on the Commissioner’s website; and (e) give a copy of the statement to the provider of the service.
+
+#### Subdivision C—Self-incrimination
+
+#### 63 Self-incrimination
+
+(1) A person is not excused from giving a report under this Division on
+
+the ground that the report might tend to incriminate the person.
+
+(2) However, in the case of an individual: (a) the report; or (b) giving the report; or (c) any information, document or thing obtained as a direct or
+
+indirect consequence of giving the report;
+
+Online Safety Act 2021 61
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 63
+
+is not admissible in evidence against the individual: (d) in civil proceedings for the recovery of a penalty (other than
+
+proceedings for the recovery of a penalty under this Division); or (e) in criminal proceedings (other than proceedings for an
+
+offence against section 137.1 or 137.2 of the Criminal Code that relates to this Division).
+
+(3) If, at general law, an individual would otherwise be able to claim
+
+the privilege against self-exposure to a penalty (other than a penalty for an offence) in relation to giving a report under this Division, the individual is not excused from giving the report under this Division on that ground.
+
+Note: A body corporate is not entitled to claim the privilege against self-exposure to a penalty.
+
+62 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+Section 63A
+
+### Part 4A—Social media minimum age
+
+#### Division 1—Introduction
+
+#### 63A Simplified outline of this Part
+
+• Providers of certain kinds of social media platforms must take reasonable steps to prevent children who have not reached a minimum age from having accounts. This requirement takes effect on a day specified by the Minister.
+
+• There are privacy protections for information collected by social media platforms for the purposes of the minimum age requirement.
+
+#### 63B Object of this Part
+
+The object of this Part is to reduce the risk of harm to
+
+age-restricted users from certain kinds of social media platforms.
+
+#### 63C Age-restricted social media platform
+
+(1) For the purposes of this Act, age-restricted social media platform
+
+means: (a) an electronic service that satisfies the following conditions: (i) the sole purpose, or a significant purpose, of the service
+
+is to enable online social interaction between 2 or more end-users; (ii) the service allows end-users to link to, or interact with,
+
+some or all of the other end-users; (iii) the service allows end-users to post material on the
+
+service; (iv) such other conditions (if any) as are set out in the
+
+legislative rules; or
+
+Online Safety Act 2021 63
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+Section 63C
+
+(b) an electronic service specified in the legislative rules; but does not include a service mentioned in subsection (6).
+
+Note 1: Online social interaction does not include (for example) online business interaction.
+
+Note 2: An age-restricted social media platform may be, but is not necessarily, a social media service under section 13.
+
+Note 3: For specification by class, see subsection 13(3) of the Legislation Act 2003.
+
+(2) For the purposes of subparagraph (1)(a)(i), online social interaction
+
+includes online interaction that enables end-users to share material for social purposes.
+
+Note: Social purposes does not include (for example) business purposes.
+
+### (3) In determining whether the condition set out in
+
+subparagraph (1)(a)(i) is satisfied, disregard any of the following purposes: (a) the provision of advertising material on the service; (b) the generation of revenue from the provision of advertising
+
+material on the service.
+
+(4) The Minister may only make legislative rules specifying an
+
+electronic service for the purposes of paragraph (1)(b) if the Minister is satisfied that it is reasonably necessary to do so in order to minimise harm to age-restricted users.
+
+(5) Before making legislative rules specifying an electronic service for
+
+the purposes of paragraph (1)(b): (a) the Minister must seek advice from the Commissioner, and
+
+must have regard to that advice; and (b) the Minister may seek advice from any other authorities or
+
+agencies of the Commonwealth that the Minister considers relevant, and may have regard to any such advice.
+
+Services that are not age-restricted social media platforms
+
+(6) An electronic service is not an age-restricted social media
+
+platform if:
+
+64 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+Section 63C
+
+(a) none of the material on the service is accessible to, or
+
+delivered to, one or more end-users in Australia; or (b) the service is specified in the legislative rules.
+
+Note: For specification by class, see subsection 13(3) of the Legislation Act 2003.
+
+(7) Before making legislative rules specifying an electronic service for
+
+the purposes of paragraph (6)(b): (a) the Minister must seek advice from the Commissioner, and
+
+must have regard to that advice; and (b) the Minister may seek advice from any other authorities or
+
+agencies of the Commonwealth that the Minister considers relevant, and may have regard to any such advice.
+
+Online Safety Act 2021 65
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+Section 63D
+
+#### Division 2—Civil penalty
+
+63D Civil penalty for failing to take reasonable steps to prevent age-restricted users having accounts
+
+A provider of an age-restricted social media platform must take
+
+reasonable steps to prevent age-restricted users having accounts with the age-restricted social media platform.
+
+Civil penalty: 60,000 penalty units.
+
+#### 63DA Information that must not be collected
+
+(1) A provider of an age-restricted social media platform must not
+
+collect information: (a) for the purpose of complying with section 63D; or (b) for purposes that include the purpose of complying with
+
+section 63D; if the information is of a kind specified in the legislative rules.
+
+Civil penalty: 60,000 penalty units.
+
+(2) Before making legislative rules specifying a kind of information
+
+for the purposes of subsection (1), the Minister: (a) must seek advice from the Commissioner, and must have
+
+regard to that advice; and (b) must seek advice from the Information Commissioner, and
+
+must have regard to that advice.
+
+(3) Section 63D does not apply to the provider of an age-restricted
+
+social media platform if, because of legislative rules made for the purposes of subsection (1) of this section, there are no reasonable steps that the provider could take in order to comply with section 63D.
+
+Note: In proceedings for a civil penalty order against a person for a contravention of section 63D, the person bears an evidential burden in
+
+66 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+Civil penalty Division 2
+
+Section 63DB
+
+relation to the matter in this subsection (see section 96 of the Regulatory Powers (Standard Provisions) Act 2014).
+
+#### 63DB Use of certain identification material and services
+
+(1) A provider of an age-restricted social media platform must not: (a) collect government-issued identification material; or (b) use an accredited service (within the meaning of the Digital
+
+ID Act 2024); for the purpose of complying with section 63D, or for purposes that include the purpose of complying with section 63D.
+
+Civil penalty: 60,000 penalty units.
+
+(2) Subsection (1) does not apply if: (a) the provider provides alternative means (not involving the
+
+material and services mentioned in paragraphs (1)(a) and (b)) for an individual to assure the provider that the individual is not an age-restricted user; and (b) those means are reasonable in the circumstances.
+
+Note: In proceedings for a civil penalty order against a person for a contravention of subsection (1), the person bears an evidential burden in relation to the matter in this subsection (see section 96 of the Regulatory Powers (Standard Provisions) Act 2014).
+
+### (3) This section does not limit section 63DA.
+
+### (4) In this section:
+
+government-issued identification material includes: (a) identification documents issued by the Commonwealth, a
+
+State or a Territory, or by an authority or agency of the Commonwealth, a State or a Territory (including copies of such documents); and (b) a digital ID (within the meaning of the Digital ID Act 2024)
+
+issued by the Commonwealth, a State or a Territory, or by an authority or agency of the Commonwealth, a State or a Territory.
+
+Online Safety Act 2021 67
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+Section 63E
+
+63E Delayed effect of requirement to take reasonable steps to prevent age-restricted users having accounts
+
+(1) Section 63D takes effect on a day specified in an instrument under
+
+subsection (2) of this section.
+
+(2) The Minister may, by notifiable instrument, specify a day for the
+
+purposes of subsection (1).
+
+(3) The specified day must not be later than 12 months after the day
+
+this section commences.
+
+(4) To avoid doubt, the obligation in section 63D applies in relation to
+
+accounts with an age-restricted social media platform if the accounts exist on or after the day section 63D takes effect (including accounts that began to exist before that day, and accounts that began to exist before the day this section commences).
+
+68 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+#### Division 3—Privacy
+
+Privacy Division 3
+
+Section 63F
+
+63F Information collected for purposes including taking reasonable steps to comply with age restriction
+
+(1) If an entity: (a) holds personal information about an individual that was
+
+collected for the purpose of, or for purposes including the purpose of, taking reasonable steps to prevent age-restricted users having accounts with an age-restricted social media platform; and (b) uses or discloses the information otherwise than: (i) for the purpose of determining whether or not the
+
+individual is an age-restricted user; or (ii) in circumstances where paragraph 6.2(b), (c), (d) or (e)
+
+of the Australian Privacy Principles applies; or (iii) with the consent of the individual, which must be in
+
+accordance with subsection (2); the use or disclosure of the information is taken to be: (c) an interference with the privacy of the individual for the
+
+purposes of the Privacy Act 1988; and (d) covered by section 13 of that Act.
+
+Note: An act or practice that is an interference with privacy may be the subject of a complaint under section 36 of the Privacy Act 1988.
+
+(2) For the purposes of subparagraph (1)(b)(iii): (a) the consent must be: (i) voluntary; and (ii) informed; and (iii) current; and (iv) specific; and (v) unambiguous; and (b) the individual must be able to withdraw the consent in a
+
+manner that is easily accessible to the individual.
+
+Online Safety Act 2021 69
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+Division 3 Privacy Section 63F
+
+(3) If an entity holds personal information about an individual that was
+
+collected for the purpose of, or for purposes including the purpose of, taking reasonable steps to prevent age-restricted users having accounts with an age-restricted social media platform, then: (a) the entity must destroy the information after using or
+
+disclosing it for the purposes for which it was collected; and (b) if the entity does not so destroy the information, the failure to
+
+destroy the information is taken to be: (i) an interference with the privacy of the individual for the
+
+purposes of the Privacy Act 1988; and (ii) covered by section 13 of that Act.
+
+Note: An act or practice that is an interference with privacy may be the subject of a complaint under section 36 of the Privacy Act 1988.
+
+### (4) In this section:
+
+entity has the same meaning as in Division 1 of Part III of the Privacy Act 1988.
+
+personal information has the same meaning as in the Privacy Act 1988.
+
+70 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+Information-gathering powers Division 4
+
+Section 63G
+
+#### Division 4—Information-gathering powers
+
+63G Commissioner may obtain information and documents about compliance
+
+Scope
+
+(1) This section applies to a person if the Commissioner believes on
+
+reasonable grounds that the person has information or documents relevant to compliance by a provider of an electronic service that is or may be an age-restricted social media platform with section 63D or subsection 63DA(1) or 63DB(1).
+
+(2) This section also applies to a person if the Commissioner believes
+
+on reasonable grounds that the person has information or documents relevant to whether an electronic service is a service specified in the legislative rules for the purposes of paragraph 63C(1)(b) or (6)(b).
+
+Requirement
+
+(3) The Commissioner may, by written notice given to a person to
+
+whom this section applies, require the person to do either or both of the following: (a) give to the Commissioner any information mentioned in
+
+subsection (1) or (2) (as applicable), within the period and in the manner specified in the notice; (b) produce to the Commissioner any documents mentioned in
+
+subsection (1) or (2) (as applicable), within the period and in the manner specified in the notice.
+
+(4) However, the notice must not require the person to give
+
+information or produce documents by summoning the person to attend before the Commissioner or other person.
+
+Note: See Division 4A for the power to require a person to give information or evidence, produce documents or answer questions relevant to a matter mentioned in subsection (1) by summoning the person to attend before the Commissioner or other person.
+
+Online Safety Act 2021 71
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+Division 4 Information-gathering powers Section 63H
+
+#### 63H Compliance with notice
+
+A person must comply with a requirement under section 63G to the
+
+extent that the person is capable of doing so.
+
+Civil penalty: 1,000 penalty units.
+
+72 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+Section 63HA
+
+#### Division 4A—Examination powers
+
+#### 63HA Notice requiring appearance for examination
+
+(1) This Division applies if the Commissioner has reason to believe
+
+that a person is capable of giving information or evidence, producing documents or answering questions relevant to compliance by a provider of an electronic service that is or may be an age-restricted social media platform with section 63D or subsection 63DA(1) or 63DB(1).
+
+(2) The Commissioner may, by written notice given to the person,
+
+summon the person to attend before the Commissioner, or a delegate of the Commissioner named in the notice, at a time and place specified in the notice, to do any one or more of the following: (a) give to the Commissioner the information or evidence; (b) produce to the Commissioner the documents; (c) answer the questions.
+
+(3) Without limiting subsection (2), the notice may also require the
+
+person to: (a) make relevant documents available for inspection by the
+
+Commissioner or a delegate of the Commissioner; or (b) permit the Commissioner or the delegate to make copies of,
+
+or take extracts from, those documents.
+
+#### 63HB Examination on oath or affirmation
+
+(1) If the person is summoned to attend before the Commissioner or a
+
+delegate of the Commissioner, the Commissioner or delegate may examine the person on oath or affirmation and, for that purpose: (a) may require the person to take an oath or make an
+
+affirmation; and (b) may administer the oath or affirmation.
+
+Online Safety Act 2021 73
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+Section 63HC
+
+(2) The oath or affirmation is to be an oath or affirmation that the
+
+statements the person will make will be true to the best of the person’s knowledge or belief.
+
+(3) The Commissioner or delegate may require the person to answer
+
+any relevant question put to the person at the examination.
+
+#### 63HC Examination to take place in private
+
+The examination of the person must be conducted in private, but
+
+the person is entitled to have an adviser present at the examination.
+
+#### 63HD Record to be made of examination
+
+(1) If the person is examined by the Commissioner or a delegate of the
+
+Commissioner, a record must be made of the examination and the person is entitled to be given a written copy of the record on request.
+
+(2) If the record of the examination of the person is made in electronic
+
+form, the person is, if the person so requests, to be given a copy of the record in that form.
+
+(3) If the person requests a copy of the record, the record must be
+
+given to the person at a time that the Commissioner or delegate considers appropriate.
+
+#### 63HE Protection of persons attending before Commissioner
+
+A person summoned to attend before the Commissioner, or a
+
+delegate of the Commissioner, to give information or evidence, produce documents or answer questions under this Division has the same protection as a witness in a proceeding in the High Court.
+
+#### 63HF Non-compliance with requirements
+
+Compliance with notice requirements
+
+(1) A person contravenes this subsection if the person:
+
+74 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+Section 63HF
+
+(a) fails to comply with a notice under section 63HA; or (b) refuses or fails to answer a question that the person is
+
+required to answer under subsection 63HB(3).
+
+Compliance with requirement to take oath or make affirmation
+
+(2) A person contravenes this subsection if the person refuses to take
+
+an oath or make an affirmation in accordance with paragraph 63HB(1)(a).
+
+Offence
+
+(3) A person commits an offence if the person contravenes
+
+subsection (1) or (2).
+
+Penalty: Imprisonment for 12 months.
+
+Civil penalty
+
+(4) A person is liable to a civil penalty if the person contravenes
+
+subsection (1) or (2).
+
+Civil penalty: 1,000 penalty units.
+
+Note: For continuing contraventions of civil penalty provisions, see section 93 of the Regulatory Powers (Standard Provisions) Act 2014.
+
+Exception
+
+(5) Subsection (1) does not apply if: (a) the person is a journalist; and (b) complying with the requirement of the notice would tend to
+
+disclose the identity of a person who supplied information in confidence to the journalist.
+
+Note: A defendant bears an evidential burden in relation to the matters mentioned in this subsection: see subsection 13.3(3) of the Criminal Code and section 96 of the Regulatory Powers (Standard Provisions) Act 2014.
+
+Online Safety Act 2021 75
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+Section 63HG
+
+#### 63HG Self-incrimination
+
+(1) A person is not excused from giving information or evidence,
+
+producing a document or answering a question under this Division on the ground that doing so might tend to incriminate the person.
+
+(2) However, in the case of an individual: (a) any information, evidence or answer given or document
+
+produced; or (b) the giving of the information or evidence, the production of
+
+the document or the answering of the question; or (c) any information, document or thing obtained as a direct or
+
+indirect consequence of the giving of the information or evidence, the production of the document or the answering of the question; is not admissible in evidence against the individual: (d) in civil proceedings for the recovery of a penalty, other than
+
+proceedings for the recovery of a penalty under section 63HF; or (e) in criminal proceedings, other than: (i) proceedings for an offence against section 63HF; or (ii) proceedings for an offence against section 137.1, 137.2
+
+or 149.1 of the Criminal Code that relates to this Division.
+
+(3) If, at general law, an individual would otherwise be able to claim
+
+the privilege against self-exposure to a penalty (other than a penalty for an offence) in relation to giving information or evidence, producing a document or answering a question under this Division, the individual is not excused from giving the information or evidence, producing the document or answering the question under this Division on that ground.
+
+Note: A body corporate is not entitled to claim the privilege against self-exposure to a penalty.
+
+76 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+Platform provider notifications Division 5
+
+Section 63J
+
+#### Division 5—Platform provider notifications
+
+63J Platform provider notifications—failure to take reasonable steps
+
+If the Commissioner is satisfied that the provider of an
+
+age-restricted social media platform has contravened: (a) section 63D (failing to take reasonable steps to prevent
+
+age-restricted users having accounts); or (b) subsection 63DA(1) (collecting information); or (c) subsection 63DB(1) (identification material and services); the Commissioner may: (d) prepare a statement to that effect; and (e) give a copy of the statement to the provider of the platform;
+
+and (f) if the Commissioner considers that it is appropriate to publish
+
+the statement—publish the statement on the Commissioner’s website.
+
+#### 63K Platform provider notifications—privacy
+
+If the Information Commissioner is satisfied that the provider of an
+
+age-restricted social media platform has used, disclosed or failed to destroy information in a way that is taken to be an interference with privacy under subsection 63F(1) or (3) (privacy), the Information Commissioner may: (a) prepare a statement to that effect; and (b) give a copy of the statement to the provider of the platform;
+
+and (c) if the Information Commissioner considers that it is
+
+appropriate to publish the statement—publish the statement on the Information Commissioner’s website.
+
+Online Safety Act 2021 77
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 64
+
+## Part 5—Cyber-bullying material targeted at an
+
+## Australian child
+
+#### 64 Simplified outline of this Part
+
+• A social media service, relevant electronic service or designated internet service may be given a notice (a removal notice) requiring the removal from the service of cyber-bullying material targeted at an Australian child.
+
+• A hosting service provider who hosts cyber-bullying material targeted at an Australian child may be given a notice (a removal notice) requiring the provider to cease hosting the material.
+
+• A person who posts cyber-bullying material targeted at an Australian child may be given a notice (an end-user notice) requiring the person to do any or all of the following: (a) take all reasonable steps to ensure the removal of the material; (b) refrain from posting any cyber-bullying material for which the child is the target; (c) apologise for posting the material.
+
+65 Removal notice given to the provider of a social media service, relevant electronic service or designated internet service
+
+(1) If: (a) material is, or has been, provided on: (i) a social media service; or (ii) a relevant electronic service; or (iii) a designated internet service; and
+
+78 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 66
+
+(b) the material was the subject of a complaint that was made to
+
+the provider of the service; and (c) the material was not removed from the service within: (i) 48 hours after the complaint was made; or (ii) such longer period as the Commissioner allows; and (d) a complaint has been made to the Commissioner under
+
+section 30 about the material; and (e) the Commissioner is satisfied that the material is or was
+
+cyber-bullying material targeted at an Australian child; the Commissioner may give the provider of the service a written notice (a removal notice) requiring the provider to: (f) remove the material from the service; and (g) do so within: (i) 24 hours after the removal notice was given to the
+
+provider; or (ii) such longer period as the Commissioner allows.
+
+Note: For enforcement, see: (a) sections 67 and 162 (civil penalty); and (b) section 163 (infringement notices); and (c) section 164 (enforceable undertakings); and (d) section 165 (injunctions).
+
+(2) So far as is reasonably practicable, the material must be identified
+
+in the removal notice in a way that is sufficient to enable the provider of the service to comply with the notice.
+
+Notice of refusal to give a removal notice
+
+(3) If the Commissioner decides to refuse to give a removal notice
+
+under subsection (1), the Commissioner must give written notice of the refusal to the person who made a section 30 complaint about the material concerned.
+
+#### 66 Removal notice given to a hosting service provider
+
+### (1) If: (a) material is, or has been, provided on:
+
+Online Safety Act 2021 79
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 67
+
+(i) a social media service; or (ii) a relevant electronic service; or (iii) a designated internet service; and (b) the material was the subject of a complaint that was made to
+
+the provider of the service; and (c) the material was not removed from the service within: (i) 48 hours after the complaint was made; or (ii) such longer period as the Commissioner allows; and (d) a complaint has been made to the Commissioner under
+
+section 30 about the material; and (e) the Commissioner is satisfied that the material is or was
+
+cyber-bullying material targeted at an Australian child; and (f) the material is hosted by a hosting service provider; the Commissioner may give the hosting service provider a written notice, to be known as a removal notice, requiring the provider to: (g) take all reasonable steps to cease hosting the material; and (h) do so within: (i) 24 hours after the notice was given to the provider; or (ii) such longer period as the Commissioner allows.
+
+(2) So far as is reasonably practicable, the material must be identified
+
+in the removal notice in a way that is sufficient to enable the hosting service provider to comply with the notice.
+
+Notice of refusal to give a removal notice
+
+(3) If the Commissioner decides to refuse to give a removal notice
+
+under subsection (1), the Commissioner must give written notice of the refusal to the person who made a section 30 complaint about the material concerned.
+
+#### 67 Compliance with removal notice
+
+A person must comply with a requirement under a removal notice
+
+given under section 65 or 66 to the extent that the person is capable of doing so.
+
+80 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 68
+
+Civil penalty: 500 penalty units.
+
+#### 68 Formal warning
+
+The Commissioner may issue a formal warning if a person
+
+contravenes section 67.
+
+#### 70 End-user notice
+
+(1) If: (a) material is, or has been, provided on: (i) a social media service; or (ii) a relevant electronic service; or (iii) a designated internet service; and (b) a complaint has been made to the Commissioner under
+
+section 30 about the material; and (c) the Commissioner is satisfied that the material is or was
+
+cyber-bullying material targeted at an Australian child; and (d) the material was posted on the service by a particular
+
+end-user of the service; the Commissioner may give the end-user a written notice (an end-user notice) requiring the end-user to do any or all of the following: (e) if the material is provided on the service—to: (i) take all reasonable steps to ensure the removal of the
+
+material from the service; and (ii) do so within the period specified in the notice; (f) in any case—to refrain from posting any cyber-bullying
+
+material for which the child is the target; (g) in any case—to: (i) apologise to the child (or, if the child has become an
+
+adult, to the adult) for posting the material; and (ii) do so in the manner, and within the period, specified in
+
+the notice.
+
+Online Safety Act 2021 81
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 71
+
+(2) So far as is reasonably practicable, the material must be identified
+
+in the end-user notice in a way that is sufficient to enable the end-user to comply with the notice.
+
+#### 71 Compliance with end-user notice
+
+A person must comply with a requirement under an end-user notice
+
+to the extent that the person is capable of doing so.
+
+Note: For enforcement, see section 165 (injunctions).
+
+#### 72 Formal warning
+
+The Commissioner may issue a formal warning if a person
+
+contravenes section 71.
+
+#### 73 Service provider notifications
+
+(1) If: (a) material is provided on: (i) a social media service; or (ii) a relevant electronic service; or (iii) a designated internet service; and (b) the Commissioner is satisfied that the material is or was
+
+cyber-bullying material targeted at an Australian child; and (c) a complaint has been made to the Commissioner under
+
+section 30 about the material; the Commissioner may, with the consent of the complainant, give the provider of the service a written notice that: (d) identifies the material; and (e) states the Commissioner is satisfied that the material is
+
+cyber-bullying material targeted at an Australian child.
+
+(2) If the Commissioner is satisfied that there were 2 or more
+
+occasions during the previous 12 months on which: (a) cyber-bullying material targeted at an Australian child is, or
+
+has been, provided on: (i) a social media service; or
+
+82 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 73
+
+(ii) a relevant electronic service; or (iii) a designated internet service; and (b) the provision of the material contravened the service’s terms
+
+of use; the Commissioner may: (c) prepare a statement to that effect; and (d) publish the statement on the Commissioner’s website; and (e) give a copy of the statement to the provider of the service.
+
+Online Safety Act 2021 83
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 74
+
+### Part 6—Non-consensual sharing of intimate images
+
+#### Division 1—Introduction
+
+#### 74 Simplified outline of this Part
+
+• A person who posts, or threatens to post, an intimate image without the consent of the person depicted in the image may be liable to a civil penalty.
+
+• The provider of a social media service, relevant electronic service or designated internet service may be given a notice (a removal notice) requiring the provider to remove an intimate image from the service.
+
+• An end-user of a social media service, relevant electronic service or designated internet service who posts an intimate image on the service may be given a notice (a removal notice) requiring the end-user to remove the image from the service.
+
+• A hosting service provider who hosts an intimate image may be given a notice (a removal notice) requiring the provider to cease hosting the image.
+
+84 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+Intimate images must not be posted without consent etc. Division 2
+
+### Section 75
+
+### Division 2—Intimate images must not be posted without
+
+consent etc.
+
+#### 75 Posting an intimate image
+
+(1) A person (the first person) who is an end-user of: (a) a social media service; or (b) a relevant electronic service; or (c) a designated internet service; must not post, or make a threat to post, an intimate image of another person (the second person) on the service if: (d) the first person is ordinarily resident in Australia; or (e) the second person is ordinarily resident in Australia.
+
+Civil penalty: 500 penalty units.
+
+Consent
+
+(2) Subsection (1) does not apply if the second person consented to the
+
+posting of the intimate image by the first person.
+
+Note: In proceedings for a civil penalty order against a person for a contravention of subsection (1), the person bears an evidential burden in relation to the matter in this subsection (see section 96 of the Regulatory Powers (Standard Provisions) Act 2014).
+
+Depiction of second person without attire of religious or cultural significance
+
+(3) Subsection (1) does not apply if: (a) the intimate image is covered by subsection 15(4) because it
+
+depicts, or appears to depict, the second person without particular attire of religious or cultural significance; and (b) the first person did not know that, because of the second
+
+person’s religious or cultural background, the second person consistently wears that attire whenever the second person is in public.
+
+Online Safety Act 2021 85
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+Division 2 Intimate images must not be posted without consent etc. Section 76
+
+Note: In proceedings for a civil penalty order against a person for a contravention of subsection (1), the person bears an evidential burden in relation to the matter in this subsection (see section 96 of the Regulatory Powers (Standard Provisions) Act 2014).
+
+Exempt provision of the intimate image
+
+(4) Subsection (1) does not apply if: (a) in the case of a post of the intimate image—the resulting
+
+provision of the intimate image on the service is an exempt provision of the intimate image; or (b) in the case of a threat to post the intimate image—assuming
+
+that the threat had been carried out, the resulting provision of the intimate image on the service would be an exempt provision of the intimate image.
+
+Note: In proceedings for a civil penalty order against a person for a contravention of subsection (1), the person bears an evidential burden in relation to the matter in this subsection (see section 96 of the Regulatory Powers (Standard Provisions) Act 2014).
+
+#### 76 Formal warning
+
+The Commissioner may issue a formal warning if a person
+
+contravenes section 75.
+
+86 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+#### Division 3—Removal notices
+
+### Section 77
+
+77 Removal notice given to the provider of a social media service, relevant electronic service or designated internet service
+
+(1) If: (a) an intimate image of a person is, or has been, provided on: (i) a social media service; or (ii) a relevant electronic service; or (iii) a designated internet service; and (b) the intimate image is the subject of: (i) a complaint made to the Commissioner under
+
+section 32; or (ii) an objection notice given to the Commissioner under
+
+section 33; and (c) if subparagraph (b)(i) applies—the Commissioner is satisfied
+
+that the person did not consent to the provision of the intimate image on the service; and (d) the provision of the intimate image on the service is not an
+
+exempt provision of the intimate image; the Commissioner may give the provider of the service a written notice, to be known as a removal notice, requiring the provider to: (e) take all reasonable steps to ensure the removal of the intimate
+
+image from the service; and (f) do so within: (i) 24 hours after the notice was given to the provider; or (ii) such longer period as the Commissioner allows.
+
+(2) So far as is reasonably practicable, the intimate image must be
+
+identified in the removal notice in a way that is sufficient to enable the provider of the service to comply with the notice.
+
+Online Safety Act 2021 87
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 78
+
+Notice of refusal to give a removal notice
+
+(3) If the Commissioner decides to refuse to give a removal notice
+
+under subsection (1), the Commissioner must give written notice of the refusal to: (a) if subparagraph (1)(b)(i) applies—the person who made the
+
+complaint mentioned in that subparagraph; or (b) if subparagraph (1)(b)(ii) applies—the person who gave the
+
+objection notice mentioned in that subparagraph.
+
+#### 78 Removal notice given to an end-user
+
+(1) If: (a) an intimate image of a person is, or has been, provided on: (i) a social media service; or (ii) a relevant electronic service; or (iii) a designated internet service; and (b) the intimate image was posted on the service by a particular
+
+end-user of the service; and (c) the intimate image is the subject of: (i) a complaint made to the Commissioner under
+
+section 32; or (ii) an objection notice given to the Commissioner under
+
+section 33; and (d) if subparagraph (c)(i) applies—the Commissioner is satisfied
+
+that the person did not consent to the provision of the intimate image on the service; and (e) the provision of the intimate image on the service is not an
+
+exempt provision of the intimate image; the Commissioner may give the end-user a written notice, to be known as a removal notice, requiring the end-user to: (f) take all reasonable steps to ensure the removal of the intimate
+
+image from the service; and (g) do so within: (i) 24 hours after the notice was given to the end-user; or (ii) such longer period as the Commissioner allows.
+
+88 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 79
+
+(2) So far as is reasonably practicable, the intimate image must be
+
+identified in the removal notice in a way that is sufficient to enable the end-user to comply with the notice.
+
+Notice of refusal to give a removal notice
+
+(3) If the Commissioner decides to refuse to give a removal notice
+
+under subsection (1), the Commissioner must give written notice of the refusal to: (a) if subparagraph (1)(c)(i) applies—the person who made the
+
+complaint mentioned in that subparagraph; or (b) if subparagraph (1)(c)(ii) applies—the person who gave the
+
+objection notice mentioned in that subparagraph.
+
+#### 79 Removal notice given to a hosting service provider
+
+(1) If: (a) an intimate image of a person is, or has been, provided on: (i) a social media service; or (ii) a relevant electronic service; or (iii) a designated internet service; and (b) the intimate image is the subject of: (i) a complaint made to the Commissioner under
+
+section 32; or (ii) an objection notice given to the Commissioner under
+
+section 33; and (c) if subparagraph (b)(i) applies—the Commissioner is satisfied
+
+that the person did not consent to the provision of the intimate image on the service; and (d) the intimate image is hosted by a hosting service provider;
+
+and (e) the provision of the intimate image on the service is not an
+
+exempt provision of the intimate image; the Commissioner may give the hosting service provider a written notice, to be known as a removal notice, requiring the provider to:
+
+Online Safety Act 2021 89
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 80
+
+(f) take all reasonable steps to cease hosting the intimate image;
+
+and (g) do so within: (i) 24 hours after the notice was given to the provider; or (ii) such longer period as the Commissioner allows.
+
+(2) So far as is reasonably practicable, the intimate image must be
+
+identified in the removal notice in a way that is sufficient to enable the hosting service provider to comply with the notice.
+
+Notice of refusal to give a removal notice
+
+(3) If the Commissioner decides to refuse to give a removal notice
+
+under subsection (1), the Commissioner must give written notice of the refusal to: (a) if subparagraph (1)(b)(i) applies—the person who made the
+
+complaint mentioned in that subparagraph; or (b) if subparagraph (1)(b)(ii) applies—the person who gave the
+
+objection notice mentioned in that subparagraph.
+
+#### 80 Compliance with removal notice
+
+A person must comply with a requirement under a removal notice
+
+given under section 77, 78 or 79 to the extent that the person is capable of doing so.
+
+Civil penalty: 500 penalty units.
+
+#### 81 Formal warning
+
+The Commissioner may issue a formal warning if a person
+
+contravenes section 80.
+
+90 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+#### Division 4—Miscellaneous
+
+#### 83 Remedial direction
+
+Scope
+
+### Section 83
+
+(1) This section applies if a person has contravened, or is
+
+contravening, section 75.
+
+Remedial direction
+
+(2) The Commissioner may give the person a written direction
+
+requiring the person to take specified action directed towards ensuring that the person does not contravene section 75 in the future.
+
+Note: For variation and revocation, see subsection 33(3) of the Acts Interpretation Act 1901.
+
+(3) A person must not contravene a direction under subsection (2).
+
+Civil penalty: 500 penalty units.
+
+Remedial direction is not a legislative instrument
+
+(4) A direction under subsection (2) is not a legislative instrument.
+
+#### 84 Formal warning
+
+The Commissioner may issue a formal warning if a person
+
+contravenes a direction under subsection 83(2).
+
+#### 85 Service provider notifications
+
+(1) If: (a) an intimate image of a person is, or has been, provided on: (i) a social media service; or (ii) a relevant electronic service; or (iii) a designated internet service; and
+
+Online Safety Act 2021 91
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 85
+
+(b) the intimate image is the subject of: (i) a complaint made to the Commissioner under
+
+section 32; or (ii) an objection notice given to the Commissioner under
+
+section 33; and (c) if subparagraph (b)(i) applies—the Commissioner is satisfied
+
+that the person did not consent to the provision of the intimate image on the service; and (d) the provision of the intimate image on the service is not an
+
+exempt provision of the intimate image; the Commissioner may, with the consent of the complainant, give the provider of the service a written notice that: (e) identifies the image; and (f) states the Commissioner is satisfied that the person did not
+
+consent to the provision of the image on the service.
+
+(2) If the Commissioner is satisfied that there were 2 or more
+
+occasions during the previous 12 months on which: (a) an intimate image of a person is, or has been, provided on: (i) a social media service; or (ii) a relevant electronic service; or (iii) a designated internet service; and (b) the provision of the intimate image contravened the service’s
+
+terms of use; and (c) the person did not consent to the provision of the intimate
+
+image on the service; and (d) the provision of the intimate image on the service is not an
+
+exempt provision of the intimate image; the Commissioner may: (e) prepare a statement to that effect; and (f) publish the statement on the Commissioner’s website; and (g) give a copy of the statement to the provider of the service.
+
+92 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 86
+
+#### 86 Exempt provision of an intimate image
+
+(1) For the purposes of this Act, if an intimate image of a person (the
+
+depicted person) is provided on: (a) a social media service; or (b) a relevant electronic service; or (c) a designated internet service; the provision of the intimate image on the service is an exempt provision of the intimate image if: (d) the provision of the intimate image on the service is
+
+necessary for, or of assistance in: (i) enforcing a law of the Commonwealth, a State or a
+
+Territory; or (ii) monitoring compliance with, or investigating a
+
+contravention of, a law of the Commonwealth, a State or a Territory; or (e) the provision of the intimate image on the service is for the
+
+purposes of proceedings in a court or tribunal; or (f) the provision of the intimate image on the service is for a
+
+genuine medical or scientific purpose; or (g) an ordinary reasonable person would consider the provision
+
+of the intimate image on the service acceptable, having regard to the following matters: (i) the nature and content of the intimate image; (ii) the circumstances in which the intimate image was
+
+provided on the service; (iii) the age, intellectual capacity, vulnerability or other
+
+relevant circumstances of the depicted person; (iv) the degree to which the provision of the intimate image
+
+on the service affects the privacy of the depicted person; (v) if the intimate image was posted on the service by an
+
+end-user of the service—the relationship between the end-user and the depicted person; (vi) whether the depicted person has died, and if so, how
+
+much time has elapsed since the depicted person’s death;
+
+Online Safety Act 2021 93
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 86
+
+(vii) any other relevant matters; or (h) the following conditions are satisfied: (i) the intimate image was posted on the service by an
+
+end-user of the service; (ii) the end-user is a protected person (within the meaning
+
+of section 223); (iii) the post was in connection with the exercise of a power,
+
+or the performance of a function, conferred on the Commissioner by or under this Act; or (i) a condition determined under subsection (2) is satisfied.
+
+(2) The Minister may, by legislative instrument, determine one or
+
+more conditions for the purposes of paragraph (1)(i).
+
+94 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 87
+
+## Part 7—Cyber-abuse material targeted at an
+
+## Australian adult
+
+#### 87 Simplified outline of this Part
+
+• The provider of a social media service, a relevant electronic service or a designated internet service may be given a notice (a removal notice) requiring the removal from the service of cyber-abuse material targeted at an Australian adult.
+
+• A person who posts cyber-abuse material targeted at an Australian adult may be given a notice (a removal notice) requiring the person to remove the material.
+
+• A hosting service provider who hosts cyber-abuse material targeted at an Australian adult may be given a notice (a removal notice) requiring the provider to cease hosting the material.
+
+88 Removal notice given to the provider of a social media service, relevant electronic service or designated internet service
+
+(1) If: (a) material is, or has been, provided on: (i) a social media service; or (ii) a relevant electronic service; or (iii) a designated internet service; and (b) the Commissioner is satisfied that the material is or was
+
+cyber-abuse material targeted at an Australian adult; and (c) the material was the subject of a complaint that was made to
+
+the provider of the service; and (d) if such a complaint was made—the material was not removed
+
+from the service within:
+
+Online Safety Act 2021 95
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 89
+
+(i) 48 hours after the complaint was made; or (ii) such longer period as the Commissioner allows; and (e) a complaint has been made to the Commissioner under
+
+section 36 about the material; the Commissioner may give the provider of the service a written notice, to be known as a removal notice, requiring the provider to: (f) take all reasonable steps to ensure the removal of the material
+
+from the service; and (g) do so within: (i) 24 hours after the notice was given to the provider; or (ii) such longer period as the Commissioner allows.
+
+(2) So far as is reasonably practicable, the material must be identified
+
+in the removal notice in a way that is sufficient to enable the provider of the service to comply with the notice.
+
+Notice of refusal to give a removal notice
+
+(3) If the Commissioner decides to refuse to give a removal notice
+
+under subsection (1), the Commissioner must give written notice of the refusal to the person who made the complaint to the Commissioner under section 36.
+
+#### 89 Removal notice given to an end-user
+
+(1) If: (a) material is, or has been, provided on: (i) a social media service; or (ii) a relevant electronic service; or (iii) a designated internet service; and (b) the Commissioner is satisfied that the material is or was
+
+cyber-abuse material targeted at an Australian adult; and (c) the material was the subject of a complaint that was made to
+
+the provider of the service; and (d) if such a complaint was made—the material was not removed
+
+from the service within:
+
+96 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 90
+
+(i) 48 hours after the complaint was made; or (ii) such longer period as the Commissioner allows; and (e) a complaint has been made to the Commissioner under
+
+section 36 about the material; and (f) the material was posted on the service by a particular
+
+end-user of the service; the Commissioner may give the end-user a written notice, to be known as a removal notice, requiring the end-user to: (g) take all reasonable steps to ensure the removal of the material
+
+from the service; and (h) do so within: (i) 24 hours after the notice was given to the end-user; or (ii) such longer period as the Commissioner allows.
+
+(2) So far as is reasonably practicable, the material must be identified
+
+in the removal notice in a way that is sufficient to enable the end-user to comply with the notice.
+
+Notice of refusal to give a removal notice
+
+(3) If the Commissioner decides to refuse to give a removal notice
+
+under subsection (1), the Commissioner must give written notice of the refusal to the person who made the complaint to the Commissioner under section 36.
+
+#### 90 Removal notice given to a hosting service provider
+
+(1) If: (a) material is, or has been, provided on: (i) a social media service; or (ii) a relevant electronic service; or (iii) a designated internet service; and (b) the Commissioner is satisfied that the material is or was
+
+cyber-abuse material targeted at an Australian adult; and (c) the material was the subject of a complaint that was made to
+
+the provider of the service; and
+
+Online Safety Act 2021 97
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 91
+
+(d) if such a complaint was made—the material was not removed
+
+from the service within: (i) 48 hours after the complaint was made; or (ii) such longer period as the Commissioner allows; and (e) a complaint has been made to the Commissioner under
+
+section 36 about the material; and (f) the material is hosted by a hosting service provider; the Commissioner may give the hosting service provider a written notice, to be known as a removal notice, requiring the provider to: (g) take all reasonable steps to cease hosting the material; and (h) do so within: (i) 24 hours after the notice was given to the provider; or (ii) such longer period as the Commissioner allows.
+
+(2) So far as is reasonably practicable, the material must be identified
+
+in the removal notice in a way that is sufficient to enable the hosting service provider to comply with the notice.
+
+Notice of refusal to give a removal notice
+
+(3) If the Commissioner decides to refuse to give a removal notice
+
+under subsection (1), the Commissioner must give written notice of the refusal to the person who made the complaint to the Commissioner under section 36.
+
+#### 91 Compliance with removal notice
+
+A person must comply with a requirement under a removal notice
+
+given under section 88, 89 or 90 to the extent that the person is capable of doing so.
+
+Civil penalty: 500 penalty units.
+
+#### 92 Formal warning
+
+The Commissioner may issue a formal warning if a person
+
+contravenes section 91.
+
+98 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+#### 93 Service provider notifications
+
+### Section 93
+
+(1) If: (a) material is, or has been, provided on: (i) a social media service; or (ii) a relevant electronic service; or (iii) a designated internet service; and (b) the Commissioner is satisfied that the material is or was
+
+cyber-abuse material targeted at an Australian adult; and (c) a complaint has been made to the Commissioner under
+
+section 36 about the material; the Commissioner may, with the consent of the complainant, give the provider of the service a written notice that: (d) identifies the material; and (e) states the Commissioner is satisfied that the material is
+
+cyber-abuse material targeted at an Australian adult.
+
+(2) If the Commissioner is satisfied that there were 2 or more
+
+occasions during the previous 12 months on which: (a) cyber-abuse material targeted at an Australian adult is, or has
+
+been, provided on: (i) a social media service; or (ii) a relevant electronic service; or (iii) a designated internet service; and (b) the provision of the material contravened the service’s terms
+
+of use; the Commissioner may: (c) prepare a statement to that effect; and (d) publish the statement on the Commissioner’s website; and (e) give a copy of the statement to the provider of the service.
+
+Online Safety Act 2021 99
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 94
+
+## Part 8—Material that depicts abhorrent violent
+
+## conduct
+
+#### Division 1—Introduction
+
+#### 94 Simplified outline of this Part
+
+• An internet service provider may be requested or required to block access to: (a) material that promotes abhorrent violent conduct; or (b) material that incites abhorrent violent conduct; or (c) material that instructs in abhorrent violent conduct; or (d) material that depicts abhorrent violent conduct.
+
+100 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+#### Division 2—Blocking requests
+
+#### 95 Blocking request
+
+### Section 95
+
+(1) If: (a) material can be accessed using an internet carriage service
+
+supplied by an internet service provider; and (b) the Commissioner is satisfied that the material: (i) promotes abhorrent violent conduct; or (ii) incites abhorrent violent conduct; or (iii) instructs in abhorrent violent conduct; or (iv) is material that depicts abhorrent violent conduct; and (c) the Commissioner is satisfied that the availability of the
+
+material online is likely to cause significant harm to the Australian community; the Commissioner may give the provider a written request, to be known as a blocking request, requesting the provider to take one or more specified steps to disable access to the material.
+
+Note: See also section 104 (exempt material).
+
+(2) The following are examples of steps that may be specified in the
+
+blocking request: (a) steps to block domain names that provide access to the
+
+material; (b) steps to block URLs that provide access to the material; (c) steps to block IP addresses that provide access to the
+
+material.
+
+(3) The Commissioner is not required to observe any requirements of
+
+procedural fairness in relation to the giving of the blocking request.
+
+(4) In determining whether the availability of the material online is
+
+likely to cause significant harm to the Australian community, the Commissioner must have regard to the following matters: (a) the nature of the material;
+
+Online Safety Act 2021 101
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+Division 2 Blocking requests Section 96
+
+(b) the number of end-users who are likely to access the
+
+material; (c) such other matters (if any) as the Commissioner considers
+
+relevant.
+
+(5) In deciding whether to give the blocking request, the
+
+Commissioner must have regard to the following matters: (a) whether any other power conferred on the Commissioner
+
+could be used to minimise the likelihood that the availability of the material online could cause significant harm to the Australian community; (b) such other matters (if any) as the Commissioner considers
+
+relevant.
+
+#### 96 Duration of blocking request
+
+(1) A blocking request remains in force for the period specified in the
+
+blocking request.
+
+(2) The specified period must not be longer than 3 months.
+
+Fresh blocking request
+
+(3) If a blocking request (the original blocking request) is in force,
+
+this Act does not prevent the Commissioner from giving a fresh blocking request that: (a) is in the same, or substantially the same, terms as the original
+
+blocking request; and (b) comes into force immediately after the expiry of the original
+
+blocking request.
+
+#### 97 Revocation of blocking request
+
+Scope
+
+(1) This section applies if a blocking request is in force in relation to
+
+an internet service provider.
+
+102 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+Revocation
+
+### Section 98
+
+(2) The Commissioner may, by written notice given to the provider,
+
+revoke the blocking request.
+
+#### 98 Notification in relation to domain names and URLs
+
+If: (a) a blocking request is in force; and (b) the blocking request requests an internet service provider to: (i) take steps to block a domain name; or (ii) take steps to block a URL that relates to a domain name;
+
+and (c) the person to whom the domain name is registered is known
+
+to the Commissioner; the Commissioner must: (d) give a copy of the blocking request to the person; and (e) do so as soon as practicable after the blocking request is
+
+given to the internet service provider.
+
+Online Safety Act 2021 103
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 99
+
+#### Division 3—Blocking notices
+
+#### 99 Blocking notice
+
+(1) If: (a) material can be accessed using an internet carriage service
+
+supplied by an internet service provider; and (b) the Commissioner is satisfied that the material: (i) promotes abhorrent violent conduct; or (ii) incites abhorrent violent conduct; or (iii) instructs in abhorrent violent conduct; or (iv) is material that depicts abhorrent violent conduct; and (c) the Commissioner is satisfied that the availability of the
+
+material online is likely to cause significant harm to the Australian community; the Commissioner may give the provider a written notice, to be known as a blocking notice, requiring the provider to take one or more specified steps to disable access to the material.
+
+Note: See also section 104 (exempt material).
+
+(2) The following are examples of steps that may be specified in the
+
+blocking notice: (a) steps to block domain names that provide access to the
+
+material; (b) steps to block URLs that provide access to the material; (c) steps to block IP addresses that provide access to the
+
+material.
+
+(3) The Commissioner is not required to observe any requirements of
+
+procedural fairness in relation to the giving of the blocking notice.
+
+(4) In determining whether the availability of the material online is
+
+likely to cause significant harm to the Australian community, the Commissioner must have regard to the following matters: (a) the nature of the material;
+
+104 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+Blocking notices Division 3
+
+### Section 100
+
+(b) the number of end-users who are likely to access the
+
+material; (c) such other matters (if any) as the Commissioner considers
+
+relevant.
+
+(5) In deciding whether to give the blocking notice, the Commissioner
+
+must have regard to the following matters: (a) whether any other power conferred on the Commissioner
+
+could be used to minimise the likelihood that the availability of the material online could cause significant harm to the Australian community; (b) such other matters (if any) as the Commissioner considers
+
+relevant.
+
+#### 100 Duration of blocking notice
+
+(1) A blocking notice remains in force for the period specified in the
+
+blocking notice.
+
+(2) The specified period must not be longer than 3 months.
+
+Fresh blocking notice
+
+(3) If a blocking notice (the original blocking notice) is in force, this
+
+Act does not prevent the Commissioner from giving a fresh blocking notice that: (a) is in the same, or substantially the same, terms as the original
+
+blocking notice; and (b) comes into force immediately after the expiry of the original
+
+blocking notice.
+
+#### 101 Revocation of blocking notice
+
+Scope
+
+(1) This section applies if a blocking notice is in force in relation to an
+
+internet service provider.
+
+Online Safety Act 2021 105
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 102
+
+Revocation
+
+(2) The Commissioner may, by written notice given to the provider,
+
+revoke the blocking notice.
+
+#### 102 Notification in relation to domain names and URLs
+
+If: (a) a blocking notice is in force; and (b) the blocking notice requires an internet service provider to: (i) take steps to block a domain name; or (ii) take steps to block a URL that relates to a domain name;
+
+and (c) the person to whom the domain name is registered is known
+
+to the Commissioner; the Commissioner must: (d) give a copy of the blocking notice to the person; and (e) do so as soon as practicable after the blocking notice is given
+
+to the internet service provider.
+
+#### 103 Compliance with blocking notice
+
+A person must comply with a requirement under a blocking notice.
+
+Civil penalty: 500 penalty units.
+
+106 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+#### Division 4—Exempt material
+
+#### 104 Exempt material
+
+Exempt material Division 4
+
+### Section 104
+
+(1) Subparagraphs 46(1)(c)(v), (vi), (vii) and (viii) and 46(1)(e)(vi),
+
+(vii), (viii) and (ix) and subsections 95(1) and 99(1) do not apply to material that can be accessed using a carriage service if: (a) the accessibility of the material is necessary for enforcing a
+
+law of: (i) the Commonwealth; or (ii) a State; or (iii) a Territory; or (iv) a foreign country; or (v) a part of a foreign country; or (b) the accessibility of the material is necessary for monitoring
+
+compliance with, or investigating a contravention of, a law of: (i) the Commonwealth; or (ii) a State; or (iii) a Territory; or (iv) a foreign country; or (v) a part of a foreign country; or (c) the accessibility of the material is for the purposes of
+
+proceedings in a court or tribunal; or (d) both: (i) the accessibility of the material is necessary for, or of
+
+assistance in, conducting scientific, medical, academic or historical research; and (ii) the accessibility of the material is reasonable in the
+
+circumstances for the purpose of conducting that scientific, medical, academic or historical research; or (e) the material relates to a news report, or a current affairs
+
+report, that: (i) is in the public interest; and
+
+Online Safety Act 2021 107
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+Division 4 Exempt material Section 104
+
+(ii) is made by a person working in a professional capacity
+
+as a journalist; or (f) both: (i) the accessibility of the material is in connection with the
+
+performance by a public official of the official’s duties or functions; and (ii) the accessibility of the material is reasonable in the
+
+circumstances for the purpose of performing that duty or function; or (g) both: (i) the accessibility of the material is in connection with an
+
+individual assisting a public official in relation to the performance of the public official’s duties or functions; and (ii) the accessibility of the material is reasonable in the
+
+circumstances for the purpose of the individual assisting the public official in relation to the performance of the public official’s duties or functions; or (h) the accessibility of the material is for the purpose of
+
+advocating the lawful procurement of a change to any matter established by law, policy or practice in: (i) the Commonwealth; or (ii) a State; or (iii) a Territory; or (iv) a foreign country; or (v) a part of a foreign country; and the accessibility of the material is reasonable in the
+
+circumstances for that purpose; or (i) the accessibility of the material relates to the development,
+
+performance, exhibition or distribution, in good faith, of an artistic work.
+
+(2) For the purposes of this section, public official has the same
+
+meaning as in the Criminal Code.
+
+108 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 105
+
+### Part 9—Online content scheme
+
+#### Division 1—Introduction
+
+#### 105 Simplified outline of this Part
+
+• The provider of a social media service, relevant electronic service or designated internet service may be given a notice (a removal notice) requiring the provider to remove certain material.
+
+• A hosting service provider may be given a notice (a removal notice) requiring the provider to cease hosting certain material.
+
+• The provider of an internet search engine service may be given a notice (a link deletion notice) requiring the provider to cease providing a link to certain material.
+
+• The provider of an app distribution service may be given a notice (an app removal notice) requiring the provider to cease enabling end-users to download an app that facilitates the posting of certain material on a social media service, relevant electronic service or designated internet service.
+
+• Bodies and associations that represent sections of the online industry may develop industry codes.
+
+• The Commissioner may make an industry standard.
+
+• The Commissioner may make service provider determinations regulating service providers in the online industry.
+
+#### 106 Class 1 material
+
+(1) For the purposes of this Act, class 1 material means:
+
+Online Safety Act 2021 109
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 106
+
+(a) material where the following conditions are satisfied: (i) the material is a film or the contents of a film; (ii) the film has been classified as RC by the Classification
+
+Board under the Classification (Publications, Films and Computer Games) Act 1995; or (b) material where the following conditions are satisfied: (i) the material is a film or the contents of a film; (ii) the film has not been classified by the Classification
+
+Board under the Classification (Publications, Films and Computer Games) Act 1995; (iii) if the film were to be classified by the Classification
+
+Board under that Act—the film would be likely to be classified as RC; or (c) material where the following conditions are satisfied: (i) the material is a publication or the contents of a
+
+publication; (ii) the publication has been classified as RC by the
+
+Classification Board under the Classification (Publications, Films and Computer Games) Act 1995; or (d) material where the following conditions are satisfied: (i) the material is a publication or the contents of a
+
+publication; (ii) the publication has not been classified by the
+
+Classification Board under the Classification (Publications, Films and Computer Games) Act 1995; (iii) if the publication were to be classified by the
+
+Classification Board under that Act—the publication would be likely to be classified as RC; or (e) material where the following conditions are satisfied: (i) the material is a computer game; (ii) the computer game has been classified as RC by the
+
+Classification Board under the Classification (Publications, Films and Computer Games) Act 1995; or
+
+110 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 107
+
+(f) material where the following conditions are satisfied: (i) the material is a computer game; (ii) the computer game has not been classified by the
+
+Classification Board under the Classification (Publications, Films and Computer Games) Act 1995; (iii) if the computer game were to be classified by the
+
+Classification Board under that Act—the computer game would be likely to be classified as RC; or (g) material where the following conditions are satisfied: (i) the material is not a film, the contents of a film, a
+
+computer game, a publication or the contents of a publication; (ii) if the material were to be classified by the Classification
+
+Board in a corresponding way to the way in which a film would be classified under the Classification (Publications, Films and Computer Games) Act 1995— the material would be likely to be classified as RC.
+
+Note: See also section 160 (Commissioner may obtain advice from the Classification Board).
+
+(2) Section 22CF of the Classification (Publications, Films and
+
+Computer Games) Act 1995 (which deals with classification using an approved classification tool) applies for the purposes of this section in a corresponding way to the way in which it applies for the purposes of that Act.
+
+#### 107 Class 2 material
+
+(1) For the purposes of this Act, class 2 material means: (a) material where the following conditions are satisfied: (i) the material is a film or the contents of a film; (ii) the film has been classified as X 18+ by the
+
+Classification Board under the Classification (Publications, Films and Computer Games) Act 1995; or (b) material where the following conditions are satisfied: (i) the material is a film or the contents of a film;
+
+Online Safety Act 2021 111
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 107
+
+(ii) the film has not been classified by the Classification
+
+Board under the Classification (Publications, Films and Computer Games) Act 1995; (iii) if the film were to be classified by the Classification
+
+Board under that Act—the film would be likely to be classified as X 18+; or (c) material where the following conditions are satisfied: (i) the material is a publication or the contents of a
+
+publication; (ii) the publication has been classified as Category 2
+
+restricted by the Classification Board under the Classification (Publications, Films and Computer Games) Act 1995; or (d) material where the following conditions are satisfied: (i) the material is a publication or the contents of a
+
+publication; (ii) the publication has not been classified by the
+
+Classification Board under the Classification (Publications, Films and Computer Games) Act 1995; (iii) if the publication were to be classified by the
+
+Classification Board under that Act—the publication would be likely to be classified as Category 2 restricted; or (e) material where the following conditions are satisfied: (i) the material is not a film, the contents of a film, a
+
+computer game, a publication or the contents of a publication; (ii) if the material were to be classified by the Classification
+
+Board in a corresponding way to the way in which a film would be classified under the Classification (Publications, Films and Computer Games) Act 1995— the material would be likely to be classified as X 18+; or (f) material where the following conditions are satisfied: (i) the material is a film or the contents of a film;
+
+112 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 107
+
+(ii) the film has been classified as R 18+ by the
+
+Classification Board under the Classification (Publications, Films and Computer Games) Act 1995; or (g) material where the following conditions are satisfied: (i) the material is a film or the contents of a film; (ii) the film has not been classified by the Classification
+
+Board under the Classification (Publications, Films and Computer Games) Act 1995; (iii) if the film were to be classified by the Classification
+
+Board under that Act—the film would be likely to be classified as R 18+; or (h) material where the following conditions are satisfied: (i) the material is a publication or the contents of a
+
+publication; (ii) the publication has been classified as Category 1
+
+restricted by the Classification Board under the Classification (Publications, Films and Computer Games) Act 1995; or (i) material where the following conditions are satisfied: (i) the material is a publication or the contents of a
+
+publication; (ii) the publication has not been classified by the
+
+Classification Board under the Classification (Publications, Films and Computer Games) Act 1995; (iii) if the publication were to be classified by the
+
+Classification Board under that Act—the publication would be likely to be classified as Category 1 restricted; or (j) material where the following conditions are satisfied: (i) the material is a computer game; (ii) the computer game has been classified as R 18+ by the
+
+Classification Board under the Classification (Publications, Films and Computer Games) Act 1995; or (k) material where the following conditions are satisfied:
+
+Online Safety Act 2021 113
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 108
+
+(i) the material is a computer game; (ii) the computer game has not been classified by the
+
+Classification Board under the Classification (Publications, Films and Computer Games) Act 1995; (iii) if the computer game were to be classified by the
+
+Classification Board under that Act—the computer game would be likely to be classified as R 18+; or (l) material where the following conditions are satisfied: (i) the material is not a film, the contents of a film, a
+
+computer game, a publication or the contents of a publication; (ii) if the material were to be classified by the Classification
+
+Board in a corresponding way to the way in which a film would be classified under the Classification (Publications, Films and Computer Games) Act 1995— the material would be likely to be classified as R 18+.
+
+Note: See also section 160 (Commissioner may obtain advice from the Classification Board).
+
+(2) Section 22CF of the Classification (Publications, Films and
+
+Computer Games) Act 1995 (which deals with classification using an approved classification tool) applies for the purposes of this section in a corresponding way to the way in which it applies for the purposes of that Act.
+
+#### 108 Restricted access system
+
+(1) The Commissioner may, by legislative instrument, declare that a
+
+specified access-control system is a restricted access system in relation to material for the purposes of this Act.
+
+Note: For specification by class, see subsection 13(3) of the Legislation Act 2003.
+
+(2) An instrument under subsection (1) may make different provision
+
+with respect to different kinds of material.
+
+(3) Subsection (2) does not limit subsection 33(3A) of the Acts
+
+Interpretation Act 1901.
+
+114 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 108
+
+(4) In making an instrument under subsection (1), the Commissioner
+
+must have regard to: (a) the objective of protecting children from exposure to material
+
+that is unsuitable for children; and (b) the extent to which the instrument would be likely to result in
+
+a financial or administrative burden on providers of the following services: (i) social media services; (ii) relevant electronic services; (iii) designated internet services; and (c) such other matters (if any) as the Commissioner considers
+
+relevant.
+
+(5) The Commissioner must ensure that an instrument under
+
+subsection (1) is in force at all times after the commencement of this section.
+
+Online Safety Act 2021 115
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 109
+
+#### Division 2—Removal notices relating to class 1 material
+
+109 Removal notice given to the provider of a social media service, relevant electronic service or designated internet service
+
+(1) If: (a) material is, or has been, provided on: (i) a social media service; or (ii) a relevant electronic service; or (iii) a designated internet service; and (b) the Commissioner is satisfied that the material is or was class
+
+1 material; and (c) the material can be accessed by end-users in Australia; and (d) the service is not: (i) an exempt Parliamentary content service; or (ii) an exempt court/tribunal content service; or (iii) an exempt official-inquiry content service; the Commissioner may give the provider of the service a written notice, to be known as a removal notice, requiring the provider to: (e) take all reasonable steps to ensure the removal of the material
+
+from the service; and (f) do so within: (i) 24 hours after the notice was given to the provider; or (ii) such longer period as the Commissioner allows.
+
+(2) So far as is reasonably practicable, the material must be identified
+
+in the removal notice in a way that is sufficient to enable the provider of the service to comply with the notice.
+
+#### 110 Removal notice given to a hosting service provider
+
+(1) If: (a) material is, or has been, provided on: (i) a social media service; or
+
+116 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+Removal notices relating to class 1 material Division 2
+
+### Section 111
+
+(ii) a relevant electronic service; or (iii) a designated internet service; and (b) the Commissioner is satisfied that the material is or was class
+
+1 material; and (c) the material can be accessed by end-users in Australia; and (d) the service is not: (i) an exempt Parliamentary content service; or (ii) an exempt court/tribunal content service; or (iii) an exempt official-inquiry content service; and (e) the material is hosted by a hosting service provider; the Commissioner may give the hosting service provider a written notice, to be known as a removal notice, requiring the provider to: (f) take all reasonable steps to cease hosting the material; and (g) do so within: (i) 24 hours after the notice was given to the provider; or (ii) such longer period as the Commissioner allows.
+
+(2) So far as is reasonably practicable, the material must be identified
+
+in the removal notice in a way that is sufficient to enable the hosting service provider to comply with the notice.
+
+#### 111 Compliance with removal notice
+
+A person must comply with a requirement under a removal notice
+
+given under section 109 or 110 to the extent that the person is capable of doing so.
+
+Civil penalty: 500 penalty units.
+
+#### 112 Formal warning
+
+The Commissioner may issue a formal warning if a person
+
+contravenes section 111.
+
+Online Safety Act 2021 117
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 113
+
+#### 113 Revocation of removal notice
+
+If a removal notice is in force under section 109 or 110 in relation
+
+to: (a) the provider of a social media service; or (b) the provider of a relevant electronic service; or (c) the provider of a designated internet service; or (d) a hosting service provider; the Commissioner may, by written notice given to the provider, revoke the removal notice.
+
+#### 113A Service provider notifications
+
+If the Commissioner is satisfied that there were 2 or more
+
+occasions during the previous 12 months on which: (a) class 1 material is, or has been, provided on: (i) a social media service; or (ii) a relevant electronic service; or (iii) a designated internet service; and (b) the material can be, or was able to be, accessed by end-users
+
+in Australia; and (c) the service is not: (i) an exempt Parliamentary content service; or (ii) an exempt court/tribunal content service; or (iii) an exempt official-inquiry content service; and (d) the provision of the material contravened the service’s terms
+
+of use; the Commissioner may: (e) prepare a statement to that effect; and (f) publish the statement on the Commissioner’s website; and (g) give a copy of the statement to the provider of the service.
+
+118 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 114
+
+#### Division 3—Removal notices relating to class 2 material
+
+114 Removal notice given to the provider of a social media service, relevant electronic service or designated internet service
+
+(1) If: (a) material is, or has been, provided on: (i) a social media service; or (ii) a relevant electronic service; or (iii) a designated internet service; and (b) the Commissioner is satisfied that the material is class 2
+
+material covered by paragraph 107(1)(a), (b), (c), (d) or (e); and (c) the material can be accessed by end-users in Australia; and (d) the service is not: (i) an exempt Parliamentary content service; or (ii) an exempt court/tribunal content service; or (iii) an exempt official-inquiry content service; and (e) the service is provided from Australia; the Commissioner may give the provider of the service a written notice, to be known as a removal notice, requiring the provider to: (f) take all reasonable steps to ensure the removal of the material
+
+from the service; and (g) do so within: (i) 24 hours after the notice was given to the provider; or (ii) such longer period as the Commissioner allows.
+
+(2) So far as is reasonably practicable, the material must be identified
+
+in the removal notice in a way that is sufficient to enable the provider of the service to comply with the notice.
+
+#### 115 Removal notice given to a hosting service provider
+
+### (1) If:
+
+Online Safety Act 2021 119
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 116
+
+(a) material is, or has been, provided on: (i) a social media service; or (ii) a relevant electronic service; or (iii) a designated internet service; and (b) the Commissioner is satisfied that the material is class 2
+
+material covered by paragraph 107(1)(a), (b), (c), (d) or (e); and (c) the material can be accessed by end-users in Australia; and (d) the service is not: (i) an exempt Parliamentary content service; or (ii) an exempt court/tribunal content service; or (iii) an exempt official-inquiry content service; and (e) the material is hosted by a hosting service provider; and (f) the material is hosted in Australia; the Commissioner may give the hosting service provider a written notice, to be known as a removal notice, requiring the provider to: (g) take all reasonable steps to cease hosting the material; and (h) do so within: (i) 24 hours after the notice was given to the provider; or (ii) such longer period as the Commissioner allows.
+
+(2) So far as is reasonably practicable, the material must be identified
+
+in the removal notice in a way that is sufficient to enable the hosting service provider to comply with the notice.
+
+#### 116 Compliance with removal notice
+
+A person must comply with a requirement under a removal notice
+
+given under section 114 or 115 to the extent that the person is capable of doing so.
+
+Civil penalty: 500 penalty units.
+
+120 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+#### 117 Formal warning
+
+### Section 117
+
+The Commissioner may issue a formal warning if a person
+
+contravenes section 116.
+
+#### 118 Revocation of removal notice
+
+If a removal notice is in force under section 114 or 115 in relation
+
+to: (a) the provider of a social media service; or (b) the provider of a relevant electronic service; or (c) the provider of a designated internet service; or (d) a hosting service provider; the Commissioner may, by written notice given to the provider, revoke the removal notice.
+
+#### 118A Service provider notifications
+
+If the Commissioner is satisfied that there were 2 or more
+
+occasions during the previous 12 months on which: (a) class 2 material covered by paragraph 107(1)(a), (b), (c), (d)
+
+or (e) is, or has been, provided on: (i) a social media service; or (ii) a relevant electronic service; or (iii) a designated internet service; and (b) the material can be, or was able to be, accessed by end-users
+
+in Australia; and (c) the service is not: (i) an exempt Parliamentary content service; or (ii) an exempt court/tribunal content service; or (iii) an exempt official-inquiry content service; and (d) the service is provided from Australia; and (e) the provision of the material contravened the service’s terms
+
+of use; the Commissioner may: (f) prepare a statement to that effect; and
+
+Online Safety Act 2021 121
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+Section 118A
+
+(g) publish the statement on the Commissioner’s website; and (h) give a copy of the statement to the provider of the service.
+
+122 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 119
+
+#### Division 4—Remedial notices relating to class 2 material
+
+119 Remedial notice given to the provider of a social media service, relevant electronic service or designated internet service
+
+(1) If: (a) material is, or has been, provided on: (i) a social media service; or (ii) a relevant electronic service; or (iii) a designated internet service; and (b) the Commissioner is satisfied that the material is class 2
+
+material covered by paragraph 107(1)(f), (g), (h), (i), (j), (k) or (l); and (c) the material can be accessed by end-users in Australia; and (d) the service is not: (i) an exempt Parliamentary content service; or (ii) an exempt court/tribunal content service; or (iii) an exempt official-inquiry content service; and (e) the service is provided from Australia; the Commissioner may give the provider of the service a written notice, to be known as a remedial notice, requiring the provider to: (f) take all reasonable steps to ensure either of the following
+
+situations exist in relation to the material: (i) the material is removed from the service; (ii) access to the material is subject to a restricted access
+
+system; and (g) do so within: (i) 24 hours after the notice was given to the provider; or (ii) such longer period as the Commissioner allows.
+
+(2) So far as is reasonably practicable, the material must be identified
+
+in the remedial notice in a way that is sufficient to enable the provider of the service to comply with the notice.
+
+Online Safety Act 2021 123
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 120
+
+#### 120 Remedial notice given to a hosting service provider
+
+(1) If: (a) material is, or has been, provided on: (i) a social media service; or (ii) a relevant electronic service; or (iii) a designated internet service; and (b) the Commissioner is satisfied that the material is class 2
+
+material covered by paragraph 107(1)(f), (g), (h), (i), (j), (k) or (l); and (c) the material can be accessed by end-users in Australia; and (d) the service is not: (i) an exempt Parliamentary content service; or (ii) an exempt court/tribunal content service; or (iii) an exempt official-inquiry content service; and (e) the material is hosted by a hosting service provider; and (f) the material is hosted in Australia; the Commissioner may give the hosting service provider a written notice, to be known as a remedial notice, requiring the provider to: (g) take all reasonable steps to ensure either of the following
+
+situations exist in relation to the material: (i) the service ceases to host the material; (ii) access to the material is subject to a restricted access
+
+system; and (h) do so within: (i) 24 hours after the notice was given to the provider; or (ii) such longer period as the Commissioner allows.
+
+(2) So far as is reasonably practicable, the material must be identified
+
+in the remedial notice in a way that is sufficient to enable the hosting service provider to comply with the notice.
+
+124 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+#### 121 Compliance with remedial notice
+
+### Section 121
+
+A person must comply with a requirement under a remedial notice
+
+given under section 119 or 120 to the extent that the person is capable of doing so.
+
+Civil penalty: 500 penalty units.
+
+#### 122 Formal warning
+
+The Commissioner may issue a formal warning if a person
+
+contravenes section 121.
+
+#### 123 Revocation of remedial notice
+
+If a remedial notice is in force under section 119 or 120 in relation
+
+to: (a) the provider of a social media service; or (b) the provider of a relevant electronic service; or (c) the provider of a designated internet service; or (d) a hosting service provider; the Commissioner may, by written notice given to the provider, revoke the removal notice.
+
+#### 123A Service provider notifications
+
+If the Commissioner is satisfied that there were 2 or more
+
+occasions during the previous 12 months on which: (a) class 2 material covered by paragraph 107(1)(f), (g), (h), (i),
+
+(j), (k) or (l) is, or has been, provided on: (i) a social media service; or (ii) a relevant electronic service; or (iii) a designated internet service; and (b) the material can be, or was able to be, accessed by end-users
+
+in Australia; and (c) access to the material is not, or was not, subject to a restricted
+
+access system; and
+
+Online Safety Act 2021 125
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+Section 123A
+
+(d) the service is not: (i) an exempt Parliamentary content service; or (ii) an exempt court/tribunal content service; or (iii) an exempt official-inquiry content service; and (e) the service is provided from Australia; and (f) the provision of the material contravened the service’s terms
+
+of use; the Commissioner may: (g) prepare a statement to that effect; and (h) publish the statement on the Commissioner’s website; and (i) give a copy of the statement to the provider of the service.
+
+126 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+Link deletion notices Division 5
+
+### Section 124
+
+#### Division 5—Link deletion notices
+
+#### 124 Link deletion notice
+
+(1) If: (a) a person provides an internet search engine service; and (b) end-users in Australia can access class 1 material using a link
+
+provided by the service; the Commissioner may give the provider of the service a written notice, to be known as a link deletion notice, requiring the provider to: (c) cease providing a link to the material using the service; and (d) do so within: (i) 24 hours after the notice was given to the provider; or (ii) such longer period as the Commissioner allows.
+
+(2) So far as is reasonably practicable, the material must be identified
+
+in the link deletion notice in a way that is sufficient to enable the internet search engine service provider to cease providing a link to the material.
+
+(3) The link deletion notice may also require the internet search engine
+
+service provider to: (a) notify the Commissioner that the provider has ceased to
+
+provide a link to the material; and (b) do so as soon as practicable after the cessation.
+
+(4) The Commissioner must not give the link deletion notice unless: (a) the Commissioner is satisfied that there were 2 or more times
+
+during the previous 12 months when end-users in Australia could access class 1 material using a link provided by the service; and (b) during the previous 12 months: (i) the Commissioner gave one or more removal notices
+
+under section 109 or 110 in relation to class 1 material
+
+Online Safety Act 2021 127
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+Division 5 Link deletion notices Section 125
+
+that could be accessed using a link provided by the service; and (ii) those removal notices were not complied with.
+
+#### 125 Compliance with link deletion notice
+
+A person must comply with a requirement under a link deletion
+
+notice to the extent that the person is capable of doing so.
+
+Civil penalty: 500 penalty units.
+
+#### 126 Formal warning
+
+The Commissioner may issue a formal warning if a person
+
+contravenes section 125.
+
+#### 127 Revocation of link deletion notice
+
+If a link deletion notice is in force relation to the provider of an
+
+internet search engine service, the Commissioner may, by written notice given to the provider, revoke the link deletion notice.
+
+128 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+#### Division 6—App removal notices
+
+#### 128 App removal notice
+
+App removal notices Division 6
+
+### Section 128
+
+(1) If: (a) a person provides an app distribution service; and (b) the service enables end-users in Australia to download an app
+
+that facilitates the posting of class 1 material on: (i) a social media service; or (ii) a relevant electronic service; or (iii) a designated internet service; the Commissioner may give the provider of the app distribution service a written notice, to be known as an app removal notice, requiring the provider to: (c) cease enabling end-users in Australia to download the app
+
+using the service; and (d) do so within: (i) 24 hours after the notice was given to the provider; or (ii) such longer period as the Commissioner allows.
+
+(2) So far as is reasonably practicable, the material must be identified
+
+in the app removal notice in a way that is sufficient to enable the app distribution service provider to comply with the notice.
+
+(3) The app removal notice may also require the app distribution
+
+service provider to: (a) notify the Commissioner that the provider has ceased to
+
+enable end-users in Australia to download the app; and (b) do so as soon as practicable after the cessation.
+
+(4) The Commissioner must not give the app removal notice unless: (a) the Commissioner is satisfied that there were 2 or more times
+
+during the previous 12 months when end-users in Australia could use the service to download an app that facilitates the posting of class 1 material; and (b) during the previous 12 months:
+
+Online Safety Act 2021 129
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+Division 6 App removal notices Section 129
+
+(i) the Commissioner gave one or more removal notices
+
+under section 109 or 110 in relation to class 1 material, the posting of which is facilitated by the app; and (ii) those removal notices were not complied with.
+
+#### 129 Compliance with app removal notice
+
+A person must comply with a requirement under an app removal
+
+notice to the extent that the person is capable of doing so.
+
+Civil penalty: 500 penalty units.
+
+#### 130 Formal warning
+
+The Commissioner may issue a formal warning if a person
+
+contravenes section 129.
+
+#### 131 Revocation of app removal notice
+
+If an app removal notice is in force in relation to the provider of an
+
+app distribution service, the Commissioner may, by written notice given to the provider, revoke the app removal notice.
+
+130 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 132
+
+#### Division 7—Industry codes and industry standards
+
+#### Subdivision A—Interpretation
+
+#### 132 Industry codes
+
+For the purposes of this Division, an industry code is a code
+
+developed under this Division (whether or not in response to a request under this Division).
+
+#### 133 Industry standards
+
+For the purposes of this Division, an industry standard is a
+
+standard determined under this Division.
+
+#### 134 Online activity
+
+For the purposes of this Division, an online activity is an activity
+
+that consists of: (a) providing a social media service, so far as the service is
+
+provided to end-users in Australia; or (b) providing a relevant electronic service, so far as the service is
+
+provided to end-users in Australia; or (c) providing a designated internet service, so far as the service
+
+is provided to end-users in Australia; or (d) providing an internet search engine service, so far as the
+
+service is provided to end-users in Australia; or (e) providing an app distribution service, so far as the service is
+
+provided to end-users in Australia; or (f) providing a hosting service, so far as the service hosts
+
+material in Australia; or (g) providing an internet carriage service, so far as the service is
+
+provided to customers in Australia; or (h) manufacturing, supplying, maintaining or installing any of
+
+the following equipment:
+
+Online Safety Act 2021 131
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 135
+
+(i) equipment that is for use by end-users in Australia of a
+
+social media service in connection with the service; (ii) equipment that is for use by end-users in Australia of a
+
+relevant electronic service in connection with the service; (iii) equipment that is for use by end-users in Australia of a
+
+designated internet service in connection with the service; (iv) equipment that is for use by end-users in Australia of an
+
+internet carriage service in connection with the service.
+
+#### 135 Sections of the online industry
+
+(1) For the purposes of this Division, sections of the online industry
+
+are to be ascertained in accordance with this section.
+
+(2) For the purposes of this Division, each of the following groups is a
+
+section of the online industry: (a) the group consisting of providers of social media services, so
+
+far as those services are provided to end-users in Australia; (b) the group consisting of providers of relevant electronic
+
+services, so far as those services are provided to end-users in Australia; (c) the group consisting of providers of designated internet
+
+services, so far as those services are provided to end-users in Australia; (d) the group consisting of providers of internet search engine
+
+services, so far as those services are provided to end-users in Australia; (e) the group consisting of providers of app distribution services,
+
+so far as those services are provided to end-users in Australia; (f) the group consisting of providers of hosting services, so far
+
+as those services host material in Australia; (g) the group consisting of providers of internet carriage
+
+services, so far as those services are provided to customers in Australia;
+
+132 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 136
+
+(h) the group consisting of persons who manufacture, supply,
+
+maintain or install any of the following equipment: (i) equipment that is for use by end-users in Australia of a
+
+social media service in connection with the service; (ii) equipment that is for use by end-users in Australia of a
+
+relevant electronic service in connection with the service; (iii) equipment that is for use by end-users in Australia of a
+
+designated internet service in connection with the service; (iv) equipment that is for use by end-users in Australia of an
+
+internet carriage service in connection with the service.
+
+#### 136 Participants in a section of the online industry
+
+For the purposes of this Division, if a person is a member of a
+
+group that constitutes a section of the online industry, the person is a participant in that section of the online industry.
+
+### Subdivision B—General principles relating to industry codes
+
+### and industry standards
+
+#### 137 Statement of regulatory policy
+
+(1) The Parliament intends that bodies or associations that the
+
+Commissioner is satisfied represent sections of the online industry should develop codes (industry codes) that are to apply to participants in the respective sections of the industry in relation to their online activities.
+
+(2) The Parliament intends that the Commissioner should make
+
+reasonable efforts to ensure that, for each section of the online industry, either: (a) an industry code is registered under this Division within 6
+
+months after the commencement of this Division; or (b) an industry standard is registered under this Division within
+
+12 months after the commencement of this Division.
+
+Online Safety Act 2021 133
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 138
+
+138 Examples of matters that may be dealt with by industry codes and industry standards
+
+(1) This section sets out examples of matters that may be dealt with by
+
+industry codes and industry standards.
+
+(2) The applicability of a particular example will depend on which
+
+section of the online industry is involved.
+
+(3) The examples are as follows: (a) procedures for dealing with class 1 material, or class 2
+
+material, provided on a social media service; (b) procedures for dealing with class 1 material, or class 2
+
+material, provided on a relevant electronic service; (c) procedures for dealing with class 1 material, or class 2
+
+material, provided on a designated internet service; (d) procedures directed towards the achievement of the objective
+
+of ensuring that, in the event that a participant in the providers of internet carriage services section of the online industry becomes aware that a hosting service provider is hosting class 1 material, or class 2 material, in Australia, the hosting service provider is told about the material; (e) procedures to be followed in order to inform producers of
+
+online content about their legal responsibilities in relation to that content; (f) procedures directed towards the achievement of the objective
+
+of ensuring that online accounts are not provided to children without the consent of a parent or responsible adult; (g) procedures directed towards the achievement of the objective
+
+of ensuring that customers have the option of subscribing to a filtered internet carriage service; (h) giving end-users information about the availability, use and
+
+appropriate application of online content filtering software; (i) providing end-users with access to technological solutions to
+
+help them limit access to class 1 material and class 2 material;
+
+134 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 138
+
+(j) providing end-users with advice on how to limit access to
+
+class 1 material and class 2 material; (k) action to be taken to assist in the development and
+
+implementation of online content filtering technologies (including labelling technologies); (l) promoting awareness of the safety issues associated with
+
+social media services; (m) promoting awareness of the safety issues associated with
+
+relevant electronic services; (n) promoting awareness of the safety issues associated with
+
+designated internet services; (o) procedures to be followed in order to deal with safety issues
+
+associated with social media services; (p) procedures to be followed in order to deal with safety issues
+
+associated with relevant electronic services; (q) procedures to be followed in order to deal with safety issues
+
+associated with designated internet services; (r) giving parents and responsible adults information about how
+
+to supervise and control children’s access to material provided on social media services; (s) giving parents and responsible adults information about how
+
+to supervise and control children’s access to material provided on relevant electronic services; (t) giving parents and responsible adults information about how
+
+to supervise and control children’s access to material provided on designated internet services; (u) telling persons about their rights to make complaints; (v) procedures to be followed in order to deal with complaints
+
+about class 1 material, or class 2 material, provided on social media services; (w) procedures to be followed in order to deal with complaints
+
+about class 1 material, or class 2 material, provided on relevant electronic services; (x) procedures to be followed in order to deal with complaints
+
+about class 1 material, or class 2 material, provided on designated internet services;
+
+Online Safety Act 2021 135
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 138
+
+(y) procedures to be followed in order to deal with reports about
+
+class 1 material, or class 2 material, provided on social media services, where the reports are made by or on behalf of end-users of those services; (z) procedures to be followed in order to deal with reports about
+
+class 1 material, or class 2 material, provided on relevant electronic services, where the reports are made by or on behalf of end-users of those services; (za) procedures to be followed in order to deal with reports about
+
+class 1 material, or class 2 material, provided on designated internet services, where the reports are made by or on behalf of end-users of those services; (zb) procedures to be followed in order to deal with complaints
+
+about unsolicited electronic messages that promote or advertise one or more: (i) websites; or (ii) distinct parts of websites; or (iii) apps; that enable, or purport to enable, end-users to access class 1
+
+material or class 2 material; (zc) if: (i) class 2 material is provided on a social media service;
+
+and (ii) the service is provided from a foreign country; and (iii) the provider of the service has reasonable grounds to
+
+believe that the material is hosted in Australia; procedures to be followed to ensure the Commissioner is
+
+notified of the material; (zd) if: (i) class 2 material is provided on a relevant electronic
+
+service; and (ii) the service is provided from a foreign country; and (iii) the provider of the service has reasonable grounds to
+
+believe that the material is hosted in Australia;
+
+136 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 138
+
+procedures to be followed to ensure the Commissioner is
+
+notified of the material; (ze) if: (i) class 2 material is provided on a designated internet
+
+service; and (ii) the service is provided from a foreign country; and (iii) the provider of the service has reasonable grounds to
+
+believe that the material is hosted in Australia; procedures to be followed to ensure the Commissioner is
+
+notified of the material; (zf) the referral to the Commissioner of complaints about matters,
+
+where the complainant is dissatisfied with the way in which the complaint was dealt with under the code or standard; (zg) ensuring that end-users are provided with information, and
+
+support services, relating to online safety for Australians; (zh) the making and retention of material directed towards the
+
+achievement of the objective of ensuring that, in the event that new social media services are developed that could put at risk the safety of children who are end-users of the services, the Commissioner is informed about those services; (zi) the making and retention of material directed towards the
+
+achievement of the objective of ensuring that, in the event that new relevant electronic services are developed that could put at risk the safety of children who are end-users of the services, the Commissioner is informed about those services; (zj) the making and retention of material directed towards the
+
+achievement of the objective of ensuring that, in the event that new designated internet services are developed that could put at risk the safety of children who are end-users of the services, the Commissioner is informed about those services.
+
+Online Safety Act 2021 137
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 139
+
+#### 139 Escalation of complaints
+
+Scope
+
+(1) This section applies if an industry code or industry standard deals
+
+with the matter referred to in paragraph 138(3)(v), (w) or (x).
+
+Escalation
+
+(2) The industry code or industry standard, as the case may be, must
+
+also deal with the matter referred to in paragraph 138(3)(zf).
+
+#### Subdivision C—Industry codes
+
+#### 140 Registration of industry codes
+
+Scope
+
+(1) This section applies if: (a) the Commissioner is satisfied that a body or association
+
+represents a particular section of the online industry; and (b) that body or association develops an industry code that
+
+applies to participants in that section of the industry and deals with one or more matters relating to the online activities of those participants; and (c) the body or association gives a copy of the code to the
+
+Commissioner; and (d) the Commissioner is satisfied that: (i) to the extent to which the code deals with one or more
+
+matters of substantial relevance to the community—the code provides appropriate community safeguards for that matter or those matters; and (ii) to the extent to which the code deals with one or more
+
+matters that are not of substantial relevance to the community—the code deals with that matter or those matters in an appropriate manner; and (e) the Commissioner is satisfied that, before giving the copy of
+
+the code to the Commissioner:
+
+138 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 140
+
+(i) the body or association published a draft of the code and
+
+invited members of the public to make submissions to the body or association about the draft within a specified period; and (ii) the body or association gave consideration to any
+
+submissions that were received from members of the public within that period; and (f) the Commissioner is satisfied that, before giving the copy of
+
+the code to the Commissioner: (i) the body or association published a draft of the code and
+
+invited participants in that section of the industry to make submissions to the body or association about the draft within a specified period; and (ii) the body or association gave consideration to any
+
+submissions that were received from participants in that section of the industry within that period; and (g) the Commissioner has been consulted about the development
+
+of the code.
+
+Registration
+
+(2) The Commissioner may register the code by including it in the
+
+Register of industry codes kept under section 149.
+
+Period of consultation
+
+(3) A period specified under subparagraph (1)(e)(i) or (1)(f)(i) must
+
+run for at least 30 days.
+
+Replacing industry codes
+
+(4) If: (a) an industry code (the new code) is registered under this
+
+Division; and (b) the new code is expressed to replace another industry code; the other code ceases to be registered under this Division when the new code is registered.
+
+Online Safety Act 2021 139
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 141
+
+#### 141 Commissioner may request codes
+
+(1) If the Commissioner is satisfied that a body or association
+
+represents a particular section of the online industry, the Commissioner may, by written notice given to the body or association, request the body or association to: (a) develop an industry code that applies to participants in that
+
+section of the industry and deals with one or more specified matters relating to the online activities of those participants; and (b) give the Commissioner a copy of the code within the period
+
+specified in the notice.
+
+(2) The period specified in a notice under subsection (1) must run for
+
+at least 120 days.
+
+(3) The Commissioner may vary a notice under subsection (1) by
+
+extending the period specified in the notice.
+
+(4) Subsection (3) does not limit the application of subsection 33(3) of
+
+the Acts Interpretation Act 1901.
+
+(5) A notice under subsection (1) may specify indicative targets for
+
+achieving progress in the development of the code (for example, a target of 60 days to develop a preliminary draft of the code).
+
+141A Publication of notice where no body or association represents a section of the online industry
+
+(1) If the Commissioner is satisfied that a particular section of the
+
+online industry is not represented by a body or association, the Commissioner may publish a notice in the Gazette: (a) stating that, if such a body or association were to come into
+
+existence within a specified period, the Commissioner would be likely to give a notice to that body or association under subsection 141(1); and (b) setting out the matter or matters relating to online activities
+
+that would be likely to be specified in the subsection 141(1) notice.
+
+140 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 142
+
+(2) The period specified in a notice under subsection (1) must run for
+
+at least 60 days.
+
+#### 142 Replacement of industry codes
+
+(1) Changes to an industry code are to be achieved by replacing the
+
+code instead of varying the code.
+
+(2) If the replacement code differs only in minor respects from the
+
+original code, section 140 has effect, in relation to the registration of the code, as if paragraphs 140(1)(e) and (f) of this Division had not been enacted.
+
+Note: Paragraphs 140(1)(e) and (f) deal with submissions about draft codes.
+
+#### 143 Compliance with industry codes
+
+(1) If: (a) a person is a participant in a particular section of the online
+
+industry; and (b) the Commissioner is satisfied that the person has
+
+contravened, or is contravening, an industry code that: (i) is registered under this Division; and (ii) applies to participants in that section of the industry; the Commissioner may, by written notice given to the person, direct the person to comply with the industry code.
+
+(2) A person must comply with a direction under subsection (1).
+
+Civil penalty: 30,000 penalty units.
+
+(3) Subsection 93(2) of the Regulatory Powers (Standard Provisions)
+
+Act 2014 does not apply in relation to a contravention of subsection (2) of this section.
+
+Online Safety Act 2021 141
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 144
+
+#### 144 Formal warnings—breach of industry codes
+
+Scope
+
+(1) This section applies to a person who is a participant in a particular
+
+section of the online industry.
+
+Warning
+
+(2) The Commissioner may issue a formal warning if the person
+
+contravenes an industry code registered under this Division.
+
+#### Subdivision D—Industry standards
+
+#### 145 Commissioner may determine an industry standard
+
+(1) The Commissioner may, by legislative instrument, determine a
+
+standard that applies to participants in a particular section of the online industry if: (a) the Commissioner has made a request under section 141 in
+
+relation to the development of an industry code and one or more of the following conditions is satisfied: (i) the request is not complied with; (ii) if a draft code is developed by the body or association—
+
+the draft does not contain appropriate community safeguards to deal with one or more matters specified in the request; (iii) if indicative targets for achieving progress in the
+
+development of the code were specified in the notice of request—any of those indicative targets were not met; (iv) the request is complied with, but the Commissioner
+
+subsequently refuses to register the code; or (b) the Commissioner has published a notice under
+
+subsection 141A(1) in relation to a particular section of the online industry that is not represented by a body or association and all of the following conditions are satisfied: (i) the notice states that, if such a body or association were
+
+to come into existence within a specified period, the
+
+142 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 145
+
+Commissioner would be likely to give a notice to that body or association under subsection 141(1); (ii) the notice sets out one or more matters relating to the
+
+online activities of the participants in that section of the industry that would be specified in a notice under subsection 141(1); (iii) no such body or association comes into existence within
+
+the period specified in the notice; or (c) an industry code that applies to participants in a particular
+
+section of an online industry has been registered under section 140 for at least 180 days and all of the following conditions are met: (i) the Commissioner is satisfied that the code is deficient; (ii) the Commissioner has given the body or association that
+
+developed the code a written notice requesting that deficiencies in the code be addressed within a specified period; (iii) the period specified under subparagraph (ii) ends and
+
+the Commissioner is satisfied that the deficiencies in the code have not been adequately addressed.
+
+Note: For variation and revocation, see subsection 33(3) of the Acts Interpretation Act 1901.
+
+(1A) For the purposes of subparagraph (1)(c)(i), an industry code that
+
+applies to participants in a particular section of an online industry and deals with one or more matters relating to the online activities of those participants is deficient if: (a) the code is not operating to provide appropriate community
+
+safeguards in relation to one or more of those matters; or (b) the code is not otherwise operating to regulate adequately
+
+participants in that section of the online industry in relation to that matter or those matters.
+
+(1B) The Commissioner must not determine a standard under
+
+subsection (1) that applies to participants in a particular section of the online industry unless the Commissioner is satisfied that it is
+
+Online Safety Act 2021 143
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 146
+
+necessary or convenient for the Commissioner to determine a standard in order to: (a) provide appropriate community safeguards in relation to one
+
+or more matters relating to the online activities of those participants; or (b) otherwise regulate adequately participants in that section of
+
+the online industry in relation to that matter or those matters.
+
+(2) A standard under this section is to be known as an industry
+
+standard.
+
+(3) The Minister may, by legislative instrument, give the
+
+Commissioner a written direction as to the exercise of the Commissioner’s powers under this section.
+
+#### 146 Compliance with industry standards
+
+(1) If: (a) an industry standard that applies to participants in a particular
+
+section of the online industry is registered under this Division; and (b) a person is a participant in that section of the online industry; the person must comply with the industry standard.
+
+Civil penalty: 30,000 penalty units.
+
+(2) Subsection 93(2) of the Regulatory Powers (Standard Provisions)
+
+Act 2014 does not apply in relation to a contravention of subsection (1) of this section.
+
+#### 147 Formal warnings—breach of industry standards
+
+Scope
+
+(1) This section applies to a person who is a participant in a particular
+
+section of the online industry.
+
+144 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+Warning
+
+### Section 148
+
+(2) The Commissioner may issue a formal warning if the person
+
+contravenes an industry standard registered under this Division.
+
+#### 148 Public consultation on industry standards
+
+(1) Before determining or varying an industry standard, the
+
+Commissioner must: (a) make a copy of the draft available on the Commissioner’s
+
+website; and (b) publish a notice on the Commissioner’s website: (i) stating that the Commissioner has prepared a draft of
+
+the industry standard or variation; and (ii) inviting interested persons to give written comments
+
+about the draft to the Commissioner within the period specified in the notice.
+
+(2) The period specified in the notice must run for at least 30 days
+
+after the publication of the notice.
+
+(3) Subsection (1) does not apply to a variation if the variation is of a
+
+minor nature.
+
+(4) If interested persons have given comments in accordance with a
+
+notice under subsection (1), the Commissioner must have due regard to those comments in determining or varying the industry standard, as the case may be.
+
+### Subdivision E—Register of industry codes and industry
+
+### standards
+
+149 Commissioner to maintain Register of industry codes and industry standards
+
+(1) The Commissioner is to maintain a Register in which the
+
+Commissioner includes:
+
+Online Safety Act 2021 145
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 150
+
+(a) all industry codes that the Commissioner decides to register
+
+under this Division; and (b) all industry standards; and (c) all requests made under section 141; and (d) all directions under section 143.
+
+(2) The Register may be maintained by electronic means.
+
+(3) The Register is to be made available for inspection on the
+
+Commissioner’s website.
+
+#### Subdivision F—Miscellaneous
+
+#### 150 Industry standards prevail over inconsistent industry codes
+
+If an industry code is: (a) registered under this Division; and (b) applicable to a person; the code has no effect to the extent to which it is inconsistent with an industry standard that is: (c) registered under this Division; and (d) applicable to the person.
+
+146 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 151
+
+#### Division 8—Service provider determinations
+
+#### 151 Service provider determinations
+
+(1) The Commissioner may, by legislative instrument, determine any
+
+or all of the following rules: (a) rules that apply to providers of social media services in
+
+relation to the provision of social media services; (b) rules that apply to providers of relevant electronic services in
+
+relation to the provision of relevant electronic services; (c) rules that apply to providers of designated internet services in
+
+relation to the provision of designated internet services; (d) rules that apply to hosting service providers in relation to the
+
+provision of hosting services; (e) rules that apply to internet service providers in relation to the
+
+supply of internet carriage services.
+
+(2) A determination under subsection (1) is called a service provider
+
+determination.
+
+(3) A service provider determination has effect only to the extent that: (a) it is authorised by paragraph 51(v) of the Constitution (either
+
+alone or when read together with paragraph 51(xxxix) of the Constitution); or (b) both: (i) it is authorised by section 122 of the Constitution; and (ii) it would have been authorised by paragraph 51(v) of the
+
+Constitution (either alone or when read together with paragraph 51(xxxix) of the Constitution) if section 51 of the Constitution extended to the Territories.
+
+(4) The Commissioner must not make a service provider determination
+
+unless the determination relates to a matter specified in the legislative rules.
+
+Online Safety Act 2021 147
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+Division 8 Service provider determinations Section 152
+
+(5) A service provider determination may make provision for or in
+
+relation to a particular matter by empowering the Commissioner to make decisions of an administrative character.
+
+#### 152 Exemptions from service provider determinations
+
+(1) The Minister may, by legislative instrument, determine any or all
+
+of the following: (a) that a specified provider of a social media service is exempt
+
+from service provider determinations; (b) that a specified provider of a relevant electronic service is
+
+exempt from service provider determinations; (c) that a specified provider of a designated internet service is
+
+exempt from service provider determinations; (d) that a specified hosting service provider is exempt from
+
+service provider determinations; (e) that a specified internet service provider is exempt from
+
+service provider determinations.
+
+(2) The Minister may, by legislative instrument, determine any or all
+
+of the following: (a) that a specified provider of a social media service is exempt
+
+from a specified service provider determination; (b) that a specified provider of a relevant electronic service is
+
+exempt from a specified service provider determination; (c) that a specified provider of a designated internet service is
+
+exempt from a specified service provider determination; (d) that a specified hosting service provider is exempt from a
+
+specified service provider determination; (e) that a specified internet service provider is exempt from a
+
+specified service provider determination.
+
+(3) A determination under this section may be unconditional or subject
+
+to such conditions (if any) as are specified in the determination.
+
+148 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 153
+
+#### 153 Compliance with service provider rules
+
+A person must not contravene a service provider rule that applies
+
+to the person.
+
+Civil penalty: 500 penalty units.
+
+#### 154 Remedial directions—breach of service provider rules
+
+(1) This section applies if the Commissioner is satisfied that a person
+
+has contravened, or is contravening, a service provider rule that applies to the person.
+
+(2) The Commissioner may give the person a written direction
+
+requiring the person to take specified action directed towards ensuring that the provider does not contravene the rule, or is unlikely to contravene the rule, in the future.
+
+(3) The following are examples of the kinds of direction that may be
+
+given to a person under subsection (2): (a) a direction that the person implement effective administrative
+
+systems for monitoring compliance with a service provider rule; (b) a direction that the person implement a system designed to
+
+give the person’s employees, agents and contractors a reasonable knowledge and understanding of the requirements of a service provider rule, so far as those requirements affect the employees, agents or contractors concerned.
+
+(4) A person must comply with a direction under subsection (2).
+
+Civil penalty for contravention of this subsection: 500 penalty units.
+
+#### 155 Formal warnings—breach of service provider rules
+
+The Commissioner may issue a formal warning to a person if the
+
+Commissioner is satisfied that the person has contravened, or is contravening, a service provider rule that applies to the person.
+
+Online Safety Act 2021 149
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 156
+
+#### Division 9—Federal Court orders
+
+156 Federal Court may order a person to cease providing a social media service
+
+(1) If the Commissioner is satisfied that: (a) a person is the provider of a social media service; and (b) there were 2 or more occasions during the previous 12
+
+months on which the person contravened a civil penalty provision of this Part; and (c) as a result of those contraventions, the continued operation of
+
+that social media service represents a significant community safety risk; the Commissioner may apply to the Federal Court for an order that the person cease providing that social media service.
+
+(2) If the Federal Court is satisfied, on such an application, that: (a) the person is the provider of a social media service; and (b) there were 2 or more occasions during the previous 12
+
+months on which the person contravened a civil penalty provision of this Part; and (c) as a result of those contraventions, the continued operation of
+
+that social media service represents a significant community safety risk; the Federal Court may order the person to cease providing that social media service.
+
+157 Federal Court may order a person to cease providing a relevant electronic service
+
+(1) If the Commissioner is satisfied that: (a) a person is the provider of a relevant electronic service; and (b) there were 2 or more occasions during the previous 12
+
+months on which the person contravened a civil penalty provision of this Part; and
+
+150 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+Federal Court orders Division 9
+
+### Section 158
+
+(c) as a result of those contraventions, the continued operation of
+
+that relevant electronic service represents a significant community safety risk; the Commissioner may apply to the Federal Court for an order that the person cease providing that relevant electronic service.
+
+(2) If the Federal Court is satisfied, on such an application, that: (a) the person is the provider of a relevant electronic service; and (b) there were 2 or more occasions during the previous 12
+
+months on which the person contravened a civil penalty provision of this Part; and (c) as a result of those contraventions, the continued operation of
+
+that relevant electronic service represents a significant community safety risk; the Federal Court may order the person to cease providing that relevant electronic service.
+
+158 Federal Court may order a person to cease providing a designated internet service
+
+(1) If the Commissioner is satisfied that: (a) a person is the provider of a designated internet service; and (b) there were 2 or more occasions during the previous 12
+
+months on which the person contravened a civil penalty provision of this Part; and (c) as a result of those contraventions, the continued operation of
+
+that designated internet service represents a significant community safety risk; the Commissioner may apply to the Federal Court for an order that the person cease providing that designated internet service.
+
+(2) If the Federal Court is satisfied, on such an application, that: (a) the person is the provider of a designated internet service;
+
+and (b) there were 2 or more occasions during the previous 12
+
+months on which the person contravened a civil penalty provision of this Part; and
+
+Online Safety Act 2021 151
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 159
+
+(c) as a result of those contraventions, the continued operation of
+
+that designated internet service represents a significant community safety risk; the Federal Court may order the person to cease providing that designated internet service.
+
+159 Federal Court may order a person to cease supplying an internet carriage service
+
+(1) If the Commissioner is satisfied that: (a) a person is the supplier of an internet carriage service; and (b) there were 2 or more occasions during the previous 12
+
+months on which the person contravened a civil penalty provision of this Part; and (c) as a result of those contraventions, the continued operation of
+
+that internet carriage service represents a significant community safety risk; the Commissioner may apply to the Federal Court for an order that the person cease supplying that internet carriage service.
+
+(2) If the Federal Court is satisfied, on such an application, that: (a) the person is the supplier of an internet carriage service; and (b) there were 2 or more occasions during the previous 12
+
+months on which the person contravened a civil penalty provision of this Part; and (c) as a result of those contraventions, the continued operation of
+
+that internet carriage service represents a significant community safety risk; the Federal Court may order the person to cease supplying that internet carriage service.
+
+152 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+Commissioner may obtain advice from the Classification Board Division 10
+
+### Section 160
+
+### Division 10—Commissioner may obtain advice from the
+
+### Classification Board
+
+#### 160 Commissioner may obtain advice from the Classification Board
+
+(1) The Commissioner may request the Classification Board to: (a) advise the Commissioner whether particular material is class
+
+1 material; or (b) advise the Commissioner whether particular material is class
+
+2 material; or (c) advise the Commissioner whether particular material is class
+
+2 material covered by paragraph 107(1)(a); or (d) advise the Commissioner whether particular material is class
+
+2 material covered by paragraph 107(1)(b); or (e) advise the Commissioner whether particular material is class
+
+2 material covered by paragraph 107(1)(c); or (f) advise the Commissioner whether particular material is class
+
+2 material covered by paragraph 107(1)(d); or (g) advise the Commissioner whether particular material is class
+
+2 material covered by paragraph 107(1)(e); or (h) advise the Commissioner whether particular material is class
+
+2 material covered by paragraph 107(1)(f); or (i) advise the Commissioner whether particular material is class
+
+2 material covered by paragraph 107(1)(g); or (j) advise the Commissioner whether particular material is class
+
+2 material covered by paragraph 107(1)(h); or (k) advise the Commissioner whether particular material is class
+
+2 material covered by paragraph 107(1)(i); or (l) advise the Commissioner whether particular material is class
+
+2 material covered by paragraph 107(1)(j); or (m) advise the Commissioner whether particular material is class
+
+2 material covered by paragraph 107(1)(k); or (n) advise the Commissioner whether particular material is class
+
+2 material covered by paragraph 107(1)(l).
+
+Online Safety Act 2021 153
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+Division 10 Commissioner may obtain advice from the Classification Board Section 160
+
+(2) The Classification Board may give the advice requested by the
+
+Commissioner.
+
+(3) Subsection (2) does not, by implication, limit the matters that may
+
+be taken into account by the Commissioner in considering: (a) whether particular material is class 1 material; or (b) whether particular material is class 2 material; or (c) whether particular material is class 2 material covered by
+
+paragraph 107(1)(a); or (d) whether particular material is class 2 material covered by
+
+paragraph 107(1)(b); or (e) whether particular material is class 2 material covered by
+
+paragraph 107(1)(c); or (f) whether particular material is class 2 material covered by
+
+paragraph 107(1)(d); or (g) whether particular material is class 2 material covered by
+
+paragraph 107(1)(e); or (h) whether particular material is class 2 material covered by
+
+paragraph 107(1)(f); or (i) whether particular material is class 2 material covered by
+
+paragraph 107(1)(g); or (j) whether particular material is class 2 material covered by
+
+paragraph 107(1)(h); or (k) whether particular material is class 2 material covered by
+
+paragraph 107(1)(i); or (l) whether particular material is class 2 material covered by
+
+paragraph 107(1)(j); or (m) whether particular material is class 2 material covered by
+
+paragraph 107(1)(k); or (n) whether particular material is class 2 material covered by
+
+paragraph 107(1)(l).
+
+154 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Part 10—Enforcement
+
+#### 161 Simplified outline of this Part
+
+### Section 161
+
+• A civil penalty provision in this Act is enforceable under Part 4 of the Regulatory Powers (Standard Provisions) Act 2014.
+
+• The following enforcement powers are available: (a) infringement notices; (b) enforceable undertakings; (c) injunctions.
+
+#### 162 Civil penalty provision
+
+Enforceable civil penalty provision
+
+(1) A civil penalty provision in this Act is enforceable under Part 4 of
+
+the Regulatory Powers (Standard Provisions) Act 2014.
+
+Note: Part 4 of the Regulatory Powers (Standard Provisions) Act 2014 allows a civil penalty provision to be enforced by obtaining an order for a person to pay a pecuniary penalty for the contravention of the provision.
+
+Authorised applicant
+
+(2) For the purposes of Part 4 of the Regulatory Powers (Standard
+
+Provisions) Act 2014, the Commissioner is an authorised applicant in relation to a civil penalty provision in this Act.
+
+Relevant court
+
+(3) For the purposes of Part 4 of the Regulatory Powers (Standard
+
+Provisions) Act 2014, the Federal Court of Australia and the
+
+Online Safety Act 2021 155
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 163
+
+Federal Circuit and Family Court of Australia (Division 2) are relevant courts in relation to a civil penalty provision in this Act.
+
+Extension to external Territories etc.
+
+(4) Part 4 of the Regulatory Powers (Standard Provisions) Act 2014,
+
+as it applies in relation to a civil penalty provision in this Act, extends to: (a) every external Territory; and (b) acts, omissions, matters and things outside Australia.
+
+#### 163 Infringement notices
+
+Provisions subject to an infringement notice
+
+(1) The following provisions of this Act are subject to an infringement
+
+notice under Part 5 of the Regulatory Powers (Standard Provisions) Act 2014: (a) section 50; (b) section 53; (c) section 57; (d) section 60; (da) section 63D; (daa) section 63DA; (dab) section 63DB; (db) section 63H; (e) section 67; (f) section 75; (g) section 80; (h) section 83; (i) section 91; (j) section 111; (k) section 116; (l) section 121; (m) section 125;
+
+156 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+(n) section 129; (o) section 143; (p) section 146.
+
+### Section 163
+
+Note: Part 5 of the Regulatory Powers (Standard Provisions) Act 2014 creates a framework for using infringement notices in relation to provisions.
+
+Infringement officer
+
+(2) For the purposes of Part 5 of the Regulatory Powers (Standard
+
+Provisions) Act 2014, a member of the staff of the ACMA authorised, in writing, by the Commissioner for the purposes of this subsection is an infringement officer in relation to the provisions mentioned in subsection (1).
+
+Relevant chief executive
+
+(3) For the purposes of Part 5 of the Regulatory Powers (Standard
+
+Provisions) Act 2014, the Commissioner is the relevant chief executive in relation to the provisions mentioned in subsection (1).
+
+(4) The relevant chief executive may, in writing, delegate any or all of
+
+the relevant chief executive’s powers and functions under Part 5 of the Regulatory Powers (Standard Provisions) Act 2014 to a person who is: (a) a member of the staff of the ACMA; and (b) an SES employee or an acting SES employee.
+
+(5) A person exercising powers or performing functions under a
+
+delegation under subsection (4) must comply with any directions of the relevant chief executive.
+
+Extension to external Territories etc.
+
+(6) Part 5 of the Regulatory Powers (Standard Provisions) Act 2014,
+
+as it applies in relation to the provisions mentioned in subsection (1), extends to: (a) every external Territory; and (b) acts, omissions, matters and things outside Australia.
+
+Online Safety Act 2021 157
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+Section 163A
+
+#### 163A Amount payable under certain infringement notices
+
+(1) Despite subsections 104(2) and (3) of the Regulatory Powers
+
+(Standard Provisions) Act 2014, the amount to be stated in an infringement notice for the purposes of paragraph 104(1)(f) of that Act, in relation to a provision covered by subsection (2) of this section, is the following: (a) if the notice relates to only one alleged contravention of the
+
+provision by the person—one-fifth of the maximum penalty that a court could impose on the person for the contravention; (b) if the notice relates to more than one alleged contravention of
+
+the provision by the person—one-fifth of the amount worked out by adding together the maximum penalty that a court could impose on the person for each alleged contravention.
+
+(2) This subsection covers the following provisions of this Act: (a) section 63D; (b) section 63DA; (c) section 63DB; (d) section 63H.
+
+#### 164 Enforceable undertakings
+
+Enforceable provisions
+
+(1) The following provisions of this Act are enforceable under Part 6
+
+of the Regulatory Powers (Standard Provisions) Act 2014: (a) section 50; (b) section 53; (c) section 57; (d) section 60; (da) section 63D; (daa) section 63DA; (dab) section 63DB; (db) section 63H; (e) section 67;
+
+158 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+(f) section 75; (g) section 80; (h) section 83; (i) section 91; (j) section 103; (k) section 111; (l) section 116; (m) section 121; (n) section 125; (o) section 129; (p) section 143; (q) section 146.
+
+Authorised person
+
+### Section 164
+
+(2) The Commissioner is an authorised person in relation to the
+
+provisions mentioned in subsection (1) for the purposes of Part 6 of the Regulatory Powers (Standard Provisions) Act 2014.
+
+Relevant court
+
+(3) The Federal Court of Australia and the Federal Circuit and Family
+
+Court of Australia (Division 2) are relevant courts in relation to the provisions mentioned in subsection (1) for the purposes of Part 6 of the Regulatory Powers (Standard Provisions) Act 2014.
+
+Extension to external Territories etc.
+
+(4) Part 6 of the Regulatory Powers (Standard Provisions) Act 2014,
+
+as it applies in relation to the provisions mentioned in subsection (1), extends to: (a) every external Territory; and (b) acts, omissions, matters and things outside Australia.
+
+Online Safety Act 2021 159
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 165
+
+#### 165 Injunctions
+
+Enforceable provisions
+
+(1) The following provisions are enforceable under Part 7 of the
+
+Regulatory Powers (Standard Provisions) Act 2014: (a) section 50; (b) section 53; (c) section 57; (d) section 60; (da) section 63D; (daa) section 63DA; (dab) section 63DB; (db) section 63H; (dc) section 63HF; (e) section 67; (f) section 71; (g) section 75; (h) section 80; (i) section 83; (j) section 91; (j) section 103; (l) section 111; (m) section 116; (n) section 121; (o) section 125; (p) section 129; (q) section 143; (r) section 146; (s) section 195.
+
+160 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+Authorised person
+
+### Section 165
+
+(2) The Commissioner is an authorised person in relation to the
+
+provisions mentioned in subsection (1) for the purposes of Part 7 of the Regulatory Powers (Standard Provisions) Act 2014.
+
+Relevant court
+
+(3) The Federal Court of Australia and the Federal Circuit and Family
+
+Court of Australia (Division 2) are relevant courts in relation to the provisions mentioned in subsection (1) for the purposes of Part 7 of the Regulatory Powers (Standard Provisions) Act 2014.
+
+Extension to external Territories etc.
+
+(4) Part 7 of the Regulatory Powers (Standard Provisions) Act 2014,
+
+as it applies in relation to the provisions mentioned in subsection (1), extends to: (a) every external Territory; and (b) acts, omissions, matters and things outside Australia.
+
+Online Safety Act 2021 161
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 166
+
+## Part 11—Administrative provisions relating to the
+
+## Commissioner
+
+#### Division 1—Introduction
+
+#### 166 Simplified outline of this Part
+
+• The Commissioner is to be appointed by the Minister.
+
+• The Commissioner may delegate the Commissioner’s functions and powers.
+
+• The Commissioner must prepare an annual report.
+
+• The ACMA must assist the Commissioner.
+
+• The Minister may give directions to the Commissioner.
+
+162 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+Appointment of the Commissioner Division 2
+
+### Section 167
+
+#### Division 2—Appointment of the Commissioner
+
+#### 167 Appointment of the Commissioner
+
+(1) The Commissioner is to be appointed by the Minister by written
+
+instrument.
+
+(2) A person is not eligible for appointment as the Commissioner
+
+unless the Minister is satisfied that the person has: (a) substantial experience or knowledge; and (b) significant standing; in at least one of the following fields: (c) the operation of social media services; (d) the operation of the internet industry; (e) public engagement on issues relating to online safety; (f) public policy in relation to the communications sector.
+
+(3) The Commissioner holds office on a full-time basis.
+
+#### 168 Period of appointment for the Commissioner
+
+The Commissioner holds office for the period specified in the
+
+instrument of appointment. The period must not exceed 5 years.
+
+Note: The Commissioner may be reappointed: see the Acts Interpretation Act 1901.
+
+#### 169 Acting appointments
+
+(1) The Minister may appoint a person to act as the Commissioner: (a) during a vacancy in the office of the Commissioner (whether
+
+or not an appointment has previously been made to the office); or (b) during any period, or during all periods, when the
+
+Commissioner: (i) is absent from duty or from Australia; or
+
+Online Safety Act 2021 163
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+Division 2 Appointment of the Commissioner Section 170
+
+(ii) is, for any reason, unable to perform the duties of the
+
+office.
+
+Note: For rules that apply to acting appointments, see section 33A of the Acts Interpretation Act 1901.
+
+(2) A person is not eligible for appointment to act as the
+
+Commissioner unless the person is eligible for appointment as the Commissioner.
+
+#### 170 Application of finance law
+
+For the purposes of the finance law (within the meaning of the
+
+Public Governance, Performance and Accountability Act 2013), the Commissioner is an official of the ACMA.
+
+164 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 171
+
+#### Division 3—Terms and conditions for the Commissioner
+
+#### 171 Remuneration and allowances
+
+(1) The Commissioner is to be paid the remuneration that is
+
+determined by the Remuneration Tribunal. If no determination of that remuneration by the Tribunal is in operation, the Commissioner is to be paid the remuneration that is prescribed by the legislative rules.
+
+(2) The Commissioner is to be paid the allowances that are prescribed
+
+by the legislative rules.
+
+(3) This section has effect subject to the Remuneration Tribunal Act
+
+1973.
+
+#### 172 Leave of absence
+
+(1) The Commissioner has the recreation leave entitlements that are
+
+determined by the Remuneration Tribunal.
+
+(2) The Minister may grant the Commissioner leave of absence (other
+
+than recreation leave) on the terms and conditions, as to remuneration or otherwise, that the Minister determines.
+
+#### 173 Outside employment
+
+The Commissioner must not engage in paid employment outside
+
+the duties of the Commissioner’s office without the Minister’s approval.
+
+#### 174 Disclosure of interests to the Minister
+
+The Commissioner must give written notice to the Minister of all
+
+interests, pecuniary or otherwise, that the Commissioner has or acquires, and that conflict or could conflict with the proper performance of the Commissioner’s functions.
+
+Online Safety Act 2021 165
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+Division 3 Terms and conditions for the Commissioner Section 175
+
+#### 175 Resignation
+
+(1) The Commissioner may resign the Commissioner’s appointment
+
+by giving the Minister a written resignation.
+
+(2) The resignation takes effect on the day it is received by the
+
+Minister or, if a later day is specified in the resignation, on that later day.
+
+#### 176 Termination of appointment
+
+(1) The Minister may terminate the appointment of the Commissioner: (a) for misbehaviour; or (b) if the Commissioner is unable to perform the duties of the
+
+Commissioner’s office because of physical or mental incapacity.
+
+(2) The Minister may terminate the appointment of the Commissioner
+
+if: (a) the Commissioner: (i) becomes bankrupt; or (ii) applies to take the benefit of any law for the relief of
+
+bankrupt or insolvent debtors; or (iii) compounds with the Commissioner’s creditors; or (iv) makes an assignment of the Commissioner’s
+
+remuneration for the benefit of the Commissioner’s creditors; or (b) the Commissioner is absent, except on leave of absence, for
+
+14 consecutive days or for 28 days in any 12 months; or (c) the Commissioner engages, except with the Minister’s
+
+approval, in paid employment outside the duties of the Commissioner’s office (see section 173); or (d) the Commissioner fails, without reasonable excuse, to
+
+comply with section 174.
+
+166 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+#### 177 Other terms and conditions
+
+### Section 177
+
+The Commissioner holds office on the terms and conditions (if
+
+any) in relation to matters not covered by this Act that are determined by the Minister.
+
+Online Safety Act 2021 167
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 178
+
+#### Division 4—Other matters
+
+#### 178 Supplementary powers
+
+(1) The powers of the Commissioner include, but are not limited to,
+
+the power to enter into contracts.
+
+(2) Any contract entered into by the Commissioner is to be entered
+
+into on behalf of the Commonwealth.
+
+(3) Any real or personal property held by the Commissioner is held for
+
+and on behalf of the Commonwealth.
+
+(4) Any money received by the Commissioner is received for and on
+
+behalf of the Commonwealth.
+
+(5) The Commissioner cannot hold real or personal property, or
+
+money, on trust for a person other than the Commonwealth.
+
+Note: The Commonwealth may hold real or personal property or money on trust.
+
+(6) To avoid doubt, a right to sue is taken not to be personal property
+
+for the purposes of subsection (3).
+
+#### 179 Commissioner’s liabilities are Commonwealth liabilities
+
+(1) Any financial liabilities of the Commissioner are taken to be
+
+liabilities of the Commonwealth.
+
+(2) For the purposes of this section, financial liability means a liability
+
+to pay a person an amount, where the amount, or the method for working out the amount, has been determined.
+
+#### 180 Commissioner has privileges and immunities of the Crown
+
+The Commissioner has the privileges and immunities of the Crown
+
+in right of the Commonwealth.
+
+168 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 181
+
+181 Delegation by the Commissioner to a member of the staff of the ACMA etc.
+
+(1) The Commissioner may, by writing, delegate any or all of the
+
+Commissioner’s functions or powers to: (a) a member of the staff of the ACMA; or (b) a person whose services are made available to the ACMA
+
+under paragraph 55(1)(a) of the Australian Communications and Media Authority Act 2005; if the member or person is: (c) an SES employee; or (d) an acting SES employee; or (e) an APS employee who holds or performs the duties of: (i) an Executive Level 1 or 2 position; or (ii) an equivalent position; or (f) an APS employee who holds or performs the duties of: (i) an APS 6 position; or (ii) an equivalent position.
+
+Note: The expressions SES employee and acting SES employee are defined in the Acts Interpretation Act 1901.
+
+(2) A delegate must comply with any written directions of the
+
+Commissioner.
+
+(3) Subsection (1) does not apply to a power to make, vary or revoke a
+
+legislative instrument.
+
+(4) Subsection (1) of this section does not apply to a function or power
+
+conferred by subsection 220A(1) (which deals with the formulation or variation of the internal review scheme).
+
+182 Delegation by the Commissioner to a contractor engaged by the Commissioner
+
+(1) The Commissioner may, by writing, delegate any or all of the
+
+Commissioner’s functions or powers to a person engaged by the Commissioner under subsection 185(1).
+
+Online Safety Act 2021 169
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 182
+
+(2) A delegate must comply with any written directions of the
+
+Commissioner.
+
+(3) Subsection (1) does not apply to a power to make, vary or revoke a
+
+legislative instrument.
+
+(3A) Subsection (1) of this section does not apply to a function or power
+
+conferred by subsection 220A(1) (which deals with the formulation or variation of the internal review scheme).
+
+(3B) Subsection (1) of this section does not apply to a function or power
+
+conferred by the internal review scheme (see section 220A).
+
+(4) Subsection (1) does not apply to a function or power conferred by
+
+any of the following provisions: (a) section 49; (b) section 56; (c) section 65; (d) section 66; (e) section 70; (f) section 77; (g) section 78; (h) section 79; (i) section 83; (j) section 88; (k) section 89; (l) section 90; (m) section 99; (n) section 109; (o) section 110; (p) section 114; (q) section 115; (r) section 119; (s) section 120; (t) section 124; (u) section 128;
+
+170 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+(v) section 143; (w) section 154; (x) section 156; (y) section 157; (z) section 158; (za) section 159; (zb) section 194; (zc) section 199; (zd) section 200; (ze) section 203.
+
+### Section 183
+
+(5) Subsection (1) does not apply to a function or power conferred by
+
+the Regulatory Powers (Standard Provisions) Act 2014.
+
+#### 183 Annual report
+
+(1) The Commissioner must, as soon as practicable after the end of
+
+each financial year, prepare and give to the Minister, for presentation to the Parliament, a report on the operations of the Commissioner during that year.
+
+Note: See also section 34C of the Acts Interpretation Act 1901, which contains extra rules about annual reports.
+
+(2) A report under subsection (1) relating to a financial year must set
+
+out the following: (aa) the number of objection notices given to the Commissioner
+
+under section 33 during that year; (a) the number of notices given by the Commissioner under
+
+section 49 during that year; (b) the number of notices given by the Commissioner under
+
+section 56 during that year; (c) the number of notices given by the Commissioner under
+
+section 65 during that year; (d) the number of notices given by the Commissioner under
+
+section 66 during that year;
+
+Online Safety Act 2021 171
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 183
+
+(e) the number of notices given by the Commissioner under
+
+section 70 during that year; (f) the number of notices given by the Commissioner under
+
+section 77 during that year; (g) the number of notices given by the Commissioner under
+
+section 78 during that year; (h) the number of notices given by the Commissioner under
+
+section 79 during that year; (i) the number of directions given by the Commissioner under
+
+section 83 during that year; (j) the number of notices given by the Commissioner under
+
+section 88 during that year; (k) the number of notices given by the Commissioner under
+
+section 89 during that year; (l) the number of notices given by the Commissioner under
+
+section 90 during that year; (la) the number of requests made by the Commissioner under
+
+section 95 during that year; (m) the number of notices given by the Commissioner under
+
+section 99 during that year; (n) the number of notices given by the Commissioner under
+
+section 109 during that year; (o) the number of notices given by the Commissioner under
+
+section 110 during that year; (p) the number of notices given by the Commissioner under
+
+section 114 during that year; (q) the number of notices given by the Commissioner under
+
+section 115 during that year; (r) the number of notices given by the Commissioner under
+
+section 119 during that year; (s) the number of notices given by the Commissioner under
+
+section 120 during that year; (t) the number of notices given by the Commissioner under
+
+section 124 during that year;
+
+172 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 183
+
+(u) the number of notices given by the Commissioner under
+
+section 128 during that year; (v) the number of notices given by the Commissioner under
+
+section 143 during that year; (w) the number of directions given by the Commissioner under
+
+section 154 during that year; (x) the number of applications made by the Commissioner under
+
+section 156 during that year; (y) the number of applications made by the Commissioner under
+
+section 157 during that year; (z) the number of applications made by the Commissioner under
+
+section 158 during that year; (za) the number of applications made by the Commissioner under
+
+section 159 during that year; (zb) the number of notices given by the Commissioner under
+
+section 194 during that year; (zc) the number of notices given by the Commissioner under
+
+section 199 during that year; (zd) the number of notices given by the Commissioner under
+
+section 203 during that year; (ze) the number of decisions that were reviewed by the
+
+Commissioner under the internal review scheme (see section 220A) during that year; (zf) the number of applications that were received by the
+
+Commissioner under the internal review scheme (see section 220A) during that year; (zg) the number of informal notices given, and informal requests
+
+made, by the Commissioner to a person in relation to cyber-bullying material targeted at an Australian child during that year; (zh) the number of informal notices given, and informal requests
+
+made, by the Commissioner to a person in relation to non-consensual sharing of intimate images during that year; (zi) the number of informal notices given, and informal requests
+
+made, by the Commissioner to a person in relation to
+
+Online Safety Act 2021 173
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+Section 183A
+
+cyber-abuse material targeted at an Australian adult during that year; (zj) the number of informal notices given, and informal requests
+
+made, by the Commissioner to a person in relation to material that depicts abhorrent violent conduct during that year; (zk) the number of informal notices given, and informal requests
+
+made, by the Commissioner to a person in relation to class 1 material during that year; (zl) the number of informal notices given, and informal requests
+
+made, by the Commissioner to a person in relation to class 2 material during that year; (zm) the number and percentage of complaints made to the
+
+Commissioner during that year for cyber-bullying material targeted at an Australian child by ground or category of harm, with such grounds or categories of harm to be determined by the Commissioner; (zn) the number and percentage of complaints made to the
+
+Commissioner during that year for non-consensual sharing of intimate images by ground or category of harm, with such grounds or categories of harm to be determined by the Commissioner; (zo) the number and percentage of complaints made to the
+
+Commissioner during that year for cyber-abuse material targeted at an Australian adult by ground or category of harm, with such grounds or categories of harm to be determined by the Commissioner; (zp) the number and percentage of complaints made to the
+
+Commissioner during that year under the online content scheme by ground or category of harm, with such grounds or categories of harm to be determined by the Commissioner.
+
+#### 183A Advisory committees
+
+(1) The Commissioner may, by writing, establish advisory committees
+
+to assist the Commissioner in performing any of the Commissioner’s functions.
+
+174 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 184
+
+(2) An advisory committee consists of such persons as the
+
+Commissioner from time to time appoints to the committee.
+
+(3) The Commissioner may revoke a person’s appointment to an
+
+advisory committee.
+
+(4) The Commissioner may give an advisory committee written
+
+directions as to: (a) the way in which the committee is to carry out its functions;
+
+and (b) the procedures to be followed in relation to meetings.
+
+(5) An appointment to an advisory committee is not a public office
+
+within the meaning of the Remuneration Tribunal Act 1973.
+
+#### 184 Assistance to the Commissioner
+
+(1) The ACMA must: (a) assist the Commissioner to perform the Commissioner’s
+
+functions and exercise the Commissioner’s powers; and (b) do so to such extent as the Commissioner reasonably
+
+requires.
+
+(2) The assistance may include the following: (a) the provision of advice; (b) the making available of resources and facilities; (c) the making available of the Consumer Consultative Forum
+
+established by the ACMA to assist the Commissioner to perform the Commissioner’s functions in relation to matters affecting Australians.
+
+Members of the staff of the ACMA
+
+(3) The ACMA must: (a) make available members of the staff of the ACMA to assist
+
+the Commissioner to perform the Commissioner’s functions and exercise the Commissioner’s powers, so long as the Commissioner considers that those members have the skills,
+
+Online Safety Act 2021 175
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 185
+
+qualifications or experience necessary to so assist the Commissioner; and (b) do so to such extent as the Commissioner reasonably
+
+requires.
+
+(4) When performing services for the Commissioner, a member of the
+
+staff of the ACMA is subject to the directions of the Commissioner.
+
+Ministerial directions
+
+(5) The Minister may, by legislative instrument, give directions to the
+
+ACMA in relation to the performance of its functions, or the exercise of its powers, under this section.
+
+Note 1: For variation and revocation, see subsection 33(3) of the Acts Interpretation Act 1901.
+
+Note 2: Section 42 (disallowance) and Part 4 of Chapter 3 (sunsetting) of the Legislation Act 2003 do not apply to the direction (see regulations made for the purposes of paragraphs 44(2)(b) and 54(2)(b) of that Act).
+
+(6) The ACMA must comply with a direction under subsection (5).
+
+Deemed members of the staff of the ACMA
+
+(7) For the purposes of this section, if a person is an officer or
+
+employee whose services are made available to the ACMA under paragraph 55(1)(a) of the Australian Communications and Media Authority Act 2005, the person is taken to be a member of the staff of the ACMA.
+
+#### 185 Contractors engaged by the Commissioner
+
+(1) The Commissioner may, on behalf of the Commonwealth, engage
+
+persons to assist the Commissioner to perform the Commissioner’s functions and exercise the Commissioner’s powers.
+
+(2) The persons are to be engaged on the terms and conditions that the
+
+Commissioner determines in writing.
+
+176 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 186
+
+(3) When performing services for the Commissioner, a person engaged
+
+under subsection (1) is subject to the directions of the Commissioner.
+
+#### 186 Commissioner not subject to direction by the ACMA etc.
+
+To avoid doubt, the Commissioner is not subject to direction by: (a) the ACMA; or (b) a member or associate member of the ACMA; or (c) a member of the staff of the ACMA; in relation to the performance of a function, or the exercise of a power, by the Commissioner.
+
+#### 187 Consultants
+
+(1) The Commissioner may, on behalf of the Commonwealth, engage
+
+persons having suitable qualifications and experience as consultants to the Commissioner.
+
+(2) The consultants are to be engaged on the terms and conditions that
+
+the Commissioner determines in writing.
+
+#### 188 Minister may give directions to the Commissioner
+
+(1) The Minister may, by legislative instrument, give directions to the
+
+Commissioner about the performance of the Commissioner’s functions or the exercise of the Commissioner’s powers.
+
+Note 1: For variation and revocation, see subsection 33(3) of the Acts Interpretation Act 1901.
+
+Note 2: Section 42 (disallowance) and Part 4 of Chapter 3 (sunsetting) of the Legislation Act 2003 do not apply to the direction (see regulations made for the purposes of paragraphs 44(2)(b) and 54(2)(b) of that Act).
+
+(2) A direction under subsection (1) must be of a general nature only.
+
+(3) The Commissioner must comply with a direction under
+
+subsection (1).
+
+Online Safety Act 2021 177
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+## Part 12 Online Safety Special Account Section 189
+
+### Part 12—Online Safety Special Account
+
+#### 189 Simplified outline of this Part
+
+• The Online Safety Special Account is continued in existence.
+
+#### 190 Online Safety Special Account
+
+(1) The Online Safety Special Account is continued in existence.
+
+(2) The Account is a special account for the purposes of the Public
+
+Governance, Performance and Accountability Act 2013.
+
+### (3) The Account is to be administered by the ACMA.
+
+(4) An amount must not be debited from the Account without the
+
+written approval of the Commissioner.
+
+#### 191 Credits to the Account
+
+Determination
+
+(1) The Minister may, by writing, determine that a specified amount is
+
+to be: (a) debited against the appropriation for the ACMA
+
+departmental item in a specified Appropriation Act; and (b) credited to the Online Safety Special Account.
+
+(2) A determination under subsection (1) is a legislative instrument,
+
+but section 42 (disallowance) of the Legislation Act 2003 does not apply to the determination.
+
+ACMA departmental item
+
+(3) For the purposes of the application of this section to an
+
+Appropriation Act, ACMA departmental item means a
+
+178 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+Online Safety Special Account Part 12
+
+### Section 192
+
+departmental item (within the meaning of that Act) that relates to the ACMA.
+
+#### 192 Purposes of the Account
+
+The purposes of the Online Safety Special Account are as follows: (a) to enhance online safety for Australians; (b) to make grants under paragraph 27(1)(g); (c) to pay: (i) remuneration, and other employment-related costs and
+
+expenses, in respect of APS employees whose duties relate to the performance of the Commissioner’s functions or the exercise of the Commissioner’s powers; and (ii) any other costs, expenses and other obligations incurred
+
+by the Commonwealth in connection with the performance of the Commissioner’s functions or the exercise of the Commissioner’s powers.
+
+Note: See section 80 of the Public Governance, Performance and Accountability Act 2013 (which deals with special accounts).
+
+Online Safety Act 2021 179
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 193
+
+### Part 13—Information-gathering powers
+
+#### 193 Simplified outline of this Part
+
+• The Commissioner may obtain the following information about an end-user of a social media service, relevant electronic service or designated internet service: (a) information about the identity of the end-user; (b) the contact details of the end-user.
+
+194 Commissioner may obtain end-user identity information or contact details
+
+Scope
+
+(1) This section applies to a person if: (a) the person is the provider of: (i) a social media service; or (ii) a relevant electronic service; or (iii) a designated internet service; and (b) the Commissioner believes on reasonable grounds that the
+
+person has: (i) information about the identity of an end-user of the
+
+service; or (ii) contact details of an end-user of the service; and (c) the Commissioner believes on reasonable grounds that the
+
+information is, or the contact details are, relevant to the operation of this Act.
+
+Requirement
+
+(2) The Commissioner may, by written notice given to the person,
+
+require the person:
+
+180 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+Information-gathering powers Part 13
+
+### Section 195
+
+(a) if subparagraph (1)(b)(i) applies—to give to the
+
+Commissioner, within the period and in the manner and form specified in the notice, any such information; or (b) if subparagraph (1)(b)(ii) applies—to give to the
+
+Commissioner, within the period and in the manner and form specified in the notice, any such contact details.
+
+#### 195 Compliance with notice
+
+A person must comply with a requirement under section 194 to the
+
+extent that the person is capable of doing so.
+
+Civil penalty: 100 penalty units.
+
+#### 196 Self-incrimination
+
+(1) A person is not excused from giving information or contact details
+
+under section 194 on the ground that the information or contact details might tend to incriminate the person.
+
+(2) However, in the case of an individual: (a) the information or contact details given; or (b) giving the information or contact details; or (c) any information, document or thing obtained as a direct or
+
+indirect consequence of giving the information or contact details; is not admissible in evidence against the individual: (d) in civil proceedings for the recovery of a penalty (other than
+
+proceedings for the recovery of a penalty under section 195); or (e) in criminal proceedings (other than proceedings for an
+
+offence against section 137.1 or 137.2 of the Criminal Code that relates to this Part).
+
+(3) If, at general law, an individual would otherwise be able to claim
+
+the privilege against self-exposure to a penalty (other than a penalty for an offence) in relation to giving information or contact
+
+Online Safety Act 2021 181
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 196
+
+details under section 194, the individual is not excused from giving information or contact details under that section on that ground.
+
+Note: A body corporate is not entitled to claim the privilege against self-exposure to a penalty.
+
+182 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 197
+
+### Part 14—Investigative powers
+
+#### 197 Simplified outline of this Part
+
+• The Commissioner may exercise certain powers for the purposes of an investigation.
+
+#### 198 Application of this Part
+
+This Part applies to an investigation by the Commissioner under
+
+section 31, 34, 37 or 42.
+
+#### 199 Notice requiring appearance for examination
+
+For the purposes of an investigation by the Commissioner, the
+
+Commissioner may give a written notice to a person summoning the person: (a) to attend before: (i) the Commissioner; or (ii) a delegate of the Commissioner named in the notice; to produce documents or to answer questions; or (b) to provide documents or other information to the
+
+Commissioner; relevant to the subject matter of the investigation.
+
+#### 200 Examination on oath or affirmation
+
+(1) If a person is summoned to attend before the Commissioner or a
+
+delegate of the Commissioner, the Commissioner or delegate may examine the person on oath or affirmation and, for that purpose: (a) may require the person to take an oath or make an
+
+affirmation; and (b) may administer an oath or affirmation to the person.
+
+Online Safety Act 2021 183
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 201
+
+(2) The oath or affirmation is to be an oath or affirmation that the
+
+statements the person will make will be true to the best of the person’s knowledge or belief.
+
+(3) The Commissioner or delegate may require the person to answer a
+
+question that is put to the person at an examination and that is relevant to a matter that the Commissioner is investigating or is to investigate.
+
+#### 201 Examination to take place in private
+
+The examination of a person for the purposes of an investigation
+
+must be conducted in private, but the person is entitled to have an adviser present at the examination.
+
+#### 202 Record to be made of examination
+
+(1) If a person is examined by the Commissioner or a delegate of the
+
+Commissioner, a record must be made of the examination and the person is entitled to be given a written copy of the record.
+
+(2) If the record of the examination of a person is made in electronic
+
+form, the person is, if the person so requests, to be given a copy of the record in that form.
+
+#### 203 Production of documents for inspection
+
+The Commissioner may, by written notice given to a person,
+
+require the person: (a) to make available for inspection by: (i) the Commissioner; or (ii) a delegate of the Commissioner; any documents in the possession of the person that may
+
+contain information relevant to the subject matter of an investigation by the Commissioner; and (b) to permit the Commissioner or the delegate, as the case may
+
+be, to make copies of any such documents.
+
+184 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 204
+
+#### 204 Protection of persons giving evidence
+
+A person who gives evidence or produces documents at an
+
+investigation by the Commissioner has the same protection as a witness in a proceeding in the High Court.
+
+#### 205 Non-compliance with requirement to give evidence
+
+(1) A person required to answer a question, to give evidence or to
+
+produce documents under this Part must not: (a) when required to take an oath or make an affirmation, refuse
+
+or fail to take the oath or make the affirmation; or (b) refuse or fail to answer a question that the person is required
+
+to answer; or (c) refuse or fail to produce a document that the person is
+
+required to produce.
+
+Penalty: Imprisonment for 12 months.
+
+(2) A person required to answer a question, to give evidence or to
+
+produce documents under this Part must not: (a) when required to take an oath or make an affirmation, refuse
+
+or fail to take the oath or make the affirmation; or (b) refuse or fail to answer a question that the person is required
+
+to answer; or (c) refuse or fail to produce a document that the person is
+
+required to produce.
+
+Civil penalty: 100 penalty units.
+
+(3) Subsections (1) and (2) do not apply if the person has a reasonable
+
+excuse.
+
+Note: A defendant bears an evidential burden in relation to the matters mentioned in this subsection: see subsection 13.3(3) of the Criminal Code and section 96 of the Regulatory Powers (Standard Provisions) Act 2014.
+
+(4) Subsections (1) and (2) do not apply to a refusal to answer a
+
+question, or a refusal to produce a document, if the answer to the
+
+Online Safety Act 2021 185
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 205
+
+question or the production of the document would tend to incriminate the person.
+
+Note: A defendant bears an evidential burden in relation to the matters mentioned in this subsection: see subsection 13.3(3) of the Criminal Code and section 96 of the Regulatory Powers (Standard Provisions) Act 2014.
+
+(5) Subsections (1) and (2) do not apply if: (a) the person is a journalist; and (b) the answer to the question or the production of the document
+
+would tend to disclose the identity of a person who supplied information in confidence to the journalist.
+
+186 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 206
+
+### Part 15—Disclosure of information
+
+#### 206 Simplified outline of this Part
+
+• The Commissioner may disclose information in certain circumstances.
+
+Note: See also section 224 (referral of matters to law enforcement agencies).
+
+#### 207 Scope
+
+This Part applies to information that was obtained by the
+
+Commissioner as a result of the performance of a function, or the exercise of a power, conferred on the Commissioner by or under this Act.
+
+#### 208 Disclosure to Minister
+
+The Commissioner may disclose information to the Minister.
+
+209 Disclosure to Secretary, or APS employees, for advising the Minister
+
+For the purpose of advising the Minister, the Commissioner may
+
+disclose information to: (a) the Secretary; or (b) an APS employee in the Department who is authorised, in
+
+writing, by the Secretary for the purposes of this section.
+
+#### 210 Disclosure to a member of the staff of the ACMA etc.
+
+The Commissioner may disclose information to: (a) a member of the staff of the ACMA; or
+
+Online Safety Act 2021 187
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 211
+
+(b) an officer or employee whose services are made available to
+
+the ACMA under paragraph 55(1)(a) of the Australian Communications and Media Authority Act 2005; or (c) a person engaged under subsection 185(1); or (d) a consultant engaged under section 187; for purposes relating to the performance of the Commissioner’s functions or the exercise of the Commissioner’s powers.
+
+#### 211 Disclosure to Royal Commissions
+
+(1) The Commissioner may disclose information to a Royal
+
+Commission (within the meaning of the Royal Commissions Act 1902).
+
+(2) The Commissioner may, by writing, impose conditions to be
+
+complied with in relation to information disclosed under subsection (1).
+
+(3) An instrument made under subsection (2) that imposes conditions
+
+relating to one particular disclosure identified in the instrument is not a legislative instrument.
+
+(4) Otherwise, an instrument made under subsection (2) is a legislative
+
+instrument.
+
+#### 212 Disclosure to certain authorities
+
+(1) The Commissioner may disclose information to any of the
+
+following authorities if the Commissioner is satisfied that the information will enable or assist the authority to perform or exercise any of the authority’s functions or powers: (a) the ACMA; (b) the National Children’s Commissioner; (c) the Office of the Australian Information Commissioner; (d) the Secretary of the Department administered by the Minister
+
+administering the Classification (Publications, Films and Computer Games) Act 1995 or an APS employee in that Department whose duties relate to that Act;
+
+188 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 212
+
+(e) the Australian Federal Police; (f) the Director of Public Prosecutions; (g) an authority of a State or Territory responsible for enforcing
+
+one or more laws of the State or Territory; (h) an authority of a foreign country responsible for regulating
+
+either or both of the following matters: (i) matters relating to the capacity of individuals to use
+
+social media services, relevant electronic services and designated internet services in a safe manner; (ii) matters relating to material that is accessible to, or
+
+delivered to, the end-users of social media services, relevant electronic services and designated internet services; (i) an authority of a foreign country responsible for enforcing
+
+one or more laws of the foreign country relating to either or both of the following matters: (i) matters relating to the capacity of individuals to use
+
+social media services, relevant electronic services and designated internet services in a safe manner; (ii) matters relating to material that is accessible to, or
+
+delivered to, the end-users of social media services, relevant electronic services and designated internet services.
+
+(2) The Commissioner may, by writing, impose conditions to be
+
+complied with in relation to information disclosed under subsection (1).
+
+(3) An instrument made under subsection (2) that imposes conditions
+
+relating to one particular disclosure identified in the instrument is not a legislative instrument.
+
+(4) Otherwise, an instrument made under subsection (2) is a legislative
+
+instrument.
+
+Online Safety Act 2021 189
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 213
+
+#### 213 Disclosure to teachers or school principals
+
+(1) The Commissioner may disclose information to a teacher or school
+
+principal if the Commissioner is satisfied that the information will assist in the resolution of a complaint made under section 30.
+
+(2) The Commissioner may, by writing, impose conditions to be
+
+complied with in relation to information disclosed under subsection (1).
+
+(3) An instrument made under subsection (2) that imposes conditions
+
+relating to one particular disclosure identified in the instrument is not a legislative instrument.
+
+(4) Otherwise, an instrument made under subsection (2) is a legislative
+
+instrument.
+
+#### 214 Disclosure to parents or guardians
+
+(1) The Commissioner may disclose information to a parent or
+
+guardian of an Australian child if the Commissioner is satisfied that the information will assist in the resolution of a complaint made under section 30.
+
+(2) The Commissioner may, by writing, impose conditions to be
+
+complied with in relation to information disclosed under subsection (1).
+
+(3) An instrument made under subsection (2) that imposes conditions
+
+relating to one particular disclosure identified in the instrument is not a legislative instrument.
+
+(4) Otherwise, an instrument made under subsection (2) is a legislative
+
+instrument.
+
+#### 215 Disclosure with consent
+
+The Commissioner may disclose information that relates to the
+
+affairs of a person if: (a) the person has consented to the disclosure; and
+
+190 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 216
+
+(b) the disclosure is in accordance with that consent.
+
+#### 216 Disclosure of publicly available information
+
+The Commissioner may disclose information if it is already
+
+publicly available.
+
+#### 217 Disclosure of summaries and statistics
+
+The Commissioner may disclose: (a) summaries of de-identified information; and (b) statistics derived from de-identified information.
+
+218 Relationship with Parts 13 and 15 of the Telecommunications Act 1997
+
+This Part does not authorise a disclosure of information that is
+
+prohibited by Part 13 or 15 of the Telecommunications Act 1997.
+
+Online Safety Act 2021 191
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 219
+
+### Part 16—Miscellaneous
+
+#### 219 Simplified outline of this Part
+
+• This Part deals with miscellaneous matters, such as review of decisions and legislative rules.
+
+#### 220 Review of decisions by the Administrative Review Tribunal
+
+Notice under section 49 or 56
+
+(1) An application may be made to the Administrative Review
+
+Tribunal for a review of a decision of the Commissioner to give a notice under section 49 or 56.
+
+Removal notice—cyber-bullying, intimate images and cyber-abuse
+
+(2) An application may be made to the Administrative Review
+
+Tribunal for a review of a decision of the Commissioner under section 65, 77 or 88 to give a removal notice to the provider of: (a) a social media service; or (b) a relevant electronic service; or (c) a designated internet service.
+
+(3) An application under subsection (2) may only be made by: (a) the provider of the social media service, relevant electronic
+
+service or designated internet service; or (b) if the material that is the subject of the notice was posted on
+
+the service by an end-user of the service—the end-user.
+
+(4) An application may be made to the Administrative Review
+
+Tribunal for a review of a decision of the Commissioner to refuse to give the provider of: (a) a social media service; or (b) a relevant electronic service; or
+
+192 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 220
+
+(c) a designated internet service; a section 65, 77 or 88 removal notice that relates to material provided on the service.
+
+(5) An application under subsection (4) may only be made: (a) by a person who made a section 30, 32 or 36 complaint about
+
+the material provided on the service; or (b) in the case of a refusal to give a section 65 or 88 removal
+
+notice—by, or with the consent of, the person who was the target of the material provided on the service; or (c) in the case of a refusal to give a section 77 removal notice
+
+that relates to an intimate image of a person—by, or with the consent of, that person.
+
+(6) An application may be made to the Administrative Review
+
+Tribunal for a review of a decision of the Commissioner under section 66, 79 or 90 to give a removal notice to a hosting service provider.
+
+(7) An application under subsection (6) may only be made by: (a) the hosting service provider; or (b) if the material that is the subject of the notice was posted on
+
+the service by an end-user of the service—the end-user.
+
+(8) An application may be made to the Administrative Review
+
+Tribunal for a review of a decision of the Commissioner to refuse to give a hosting service provider a section 66, 79 or 90 removal notice that relates to material hosted by the provider.
+
+(9) An application under subsection (8) may only be made: (a) by a person who made a section 30, 32 or 36 complaint about
+
+the material; or (b) in the case of a refusal to give a section 66 or 90 removal
+
+notice—by, or with the consent of, the person who was the target of the material provided on the service; or (c) in the case of a refusal to give a section 79 removal notice
+
+that relates to an intimate image of a person—by, or with the consent of, that person.
+
+Online Safety Act 2021 193
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 220
+
+End-user notice
+
+(10) An application may be made to the Administrative Review
+
+Tribunal for a review of a decision of the Commissioner under section 70 to give an end-user notice.
+
+Removal notice—end-user
+
+(10A) An application may be made to the Administrative Review
+
+Tribunal for a review of a decision of the Commissioner under section 78 or 89 to give a removal notice.
+
+Removal notice—online content scheme
+
+(11) An application may be made to the Administrative Review
+
+Tribunal for a review of a decision of the Commissioner under section 109, 110, 114 or 115 to give a removal notice.
+
+Remedial direction
+
+(12) An application may be made to the Administrative Review
+
+Tribunal for a review of a decision of the Commissioner under section 83 to give a remedial direction.
+
+Blocking notice
+
+(13) An application may be made to the Administrative Review
+
+Tribunal for a review of a decision of the Commissioner under section 99 to give a blocking notice.
+
+Remedial notice
+
+(14) An application may be made to the Administrative Review
+
+Tribunal for a review of a decision of the Commissioner under section 119 or 120 to give a remedial notice.
+
+194 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+Link deletion notice
+
+### Section 220
+
+(15) An application may be made to the Administrative Review
+
+Tribunal for a review of a decision of the Commissioner under section 124 to give a link deletion notice.
+
+App removal notice
+
+(16) An application may be made to the Administrative Review
+
+Tribunal for a review of a decision of the Commissioner under section 128 to give an app removal notice.
+
+Decisions under section 140
+
+(17) An application may be made to the Administrative Review
+
+Tribunal for a review of a decision of the Commissioner under section 140 to refuse to register an industry code.
+
+(18) An application under subsection (17) may only be made by the
+
+body or association that developed the code.
+
+Decisions under section 143
+
+(19) An application may be made to the Administrative Review
+
+Tribunal for a review of a decision of the Commissioner under section 143 to: (a) give a direction to a person; or (b) vary a direction that is applicable to a person; or (c) refuse to revoke a direction that is applicable to a person.
+
+(20) An application under subsection (19) may only be made by the
+
+person concerned.
+
+Decisions under subsection 151(5) or section 154
+
+(21) An application may be made to the Administrative Review
+
+Tribunal for a review of any of the following decisions made by the Commissioner:
+
+Online Safety Act 2021 195
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+Section 220A
+
+(a) a decision of a kind referred to in subsection 151(5) (which
+
+deals with administrative decisions under service provider determinations), where the decision relates to a person; (b) a decision under section 154 to: (i) give a direction to a person; or (ii) vary a direction that is applicable to a person; or (iii) refuse to revoke a direction that is applicable to a
+
+person.
+
+(22) An application under subsection (21) may only be made by the
+
+person concerned.
+
+#### 220A Internal review of decisions
+
+(1) The Commissioner: (a) must, by notifiable instrument, formulate a scheme (the
+
+internal review scheme) for and in relation to the review by the Commissioner of decisions of a kind referred to in section 220; and (b) may, by notifiable instrument, vary the internal review
+
+scheme.
+
+(2) The internal review scheme may empower the Commissioner to: (a) on application, review such a decision; and (b) affirm, vary or revoke the decision concerned.
+
+(3) The internal review scheme may provide that the Commissioner’s
+
+decision on review of a decision has effect as if it had been made under the provision under which the original decision was made.
+
+(4) Subsections (2) and (3) do not limit subsection (1).
+
+(5) The Commissioner must publish the internal review scheme on the
+
+Commissioner’s website.
+
+196 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+#### 221 Protection from civil proceedings
+
+### Section 221
+
+(1) Civil proceedings do not lie against a person in respect of loss,
+
+damage or injury of any kind suffered by another person because of any of the following acts done in good faith: (a) the making of a complaint under section 30; (b) the making of a statement to, or the giving of a document or
+
+information to, the Commissioner in connection with an investigation under section 31; (c) the making of a complaint under section 32; (d) the giving of an objection notice under section 33; (e) the making of a statement to, or the giving of a document or
+
+information to, the Commissioner in connection with an investigation under section 34; (f) the making of a statement to, or the giving of a document or
+
+information to, the Commissioner in connection with a consideration under section 35; (g) the making of a complaint under section 36; (h) the making of a statement to, or the giving of a document or
+
+information to, the Commissioner in connection with an investigation under section 37; (i) the making of a complaint under section 38, 39 or 40; (j) the making of a statement to, or the giving of a document or
+
+information to, the Commissioner in connection with an investigation under section 42.
+
+(2) Civil proceedings do not lie against a person in respect of anything
+
+done by the person in compliance with: (a) an end-user notice; or (b) a removal notice; or (c) a remedial notice; or (d) a link deletion notice; or (e) an app removal notice; or (f) a blocking request; or (g) a blocking notice; or (h) a notice under subsection 194(2).
+
+Online Safety Act 2021 197
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 222
+
+#### 222 Liability for damages
+
+None of the following: (a) the Commissioner; (b) a delegate of the Commissioner; is liable to an action or other proceeding for damages for, or in relation to, an act or matter in good faith done or omitted to be done: (c) in the performance or purported performance of any function;
+
+or (d) in the exercise or purported exercise of any power; conferred on the Commissioner by or under this Act.
+
+#### 222A Liability for damages—Information Commissioner
+
+The Information Commissioner is not liable to an action or other
+
+proceeding for damages for, or in relation to, an act or matter in good faith done or omitted to be done: (a) in the performance or purported performance of any function;
+
+or (b) in the exercise or purported exercise of any power; conferred on the Information Commissioner by or under this Act.
+
+223 Protection from criminal proceedings—Commissioner, Classification Board etc.
+
+(1) For the purposes of this section, each of the following is a
+
+protected person: (a) the Commissioner; (aa) a member of an advisory committee established under
+
+section 183A; (b) a member of the staff of the ACMA; (c) an officer or employee whose services are made available to
+
+the ACMA under paragraph 55(1)(a) of the Australian Communications and Media Authority Act 2005; (d) a person engaged under subsection 185(1);
+
+198 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 224
+
+(e) a consultant engaged under section 187; (f) a member or temporary member of the Classification Board; (g) a member of staff assisting the Classification Board as
+
+mentioned in section 88A of the Classification (Publications, Films and Computer Games) Act 1995; (h) a consultant engaged to assist in the performance of the
+
+functions of the Classification Board.
+
+(2) Criminal proceedings do not lie against a protected person for or in
+
+relation to: (a) the collection of material; or (b) the possession of material; or (c) the distribution of material; or (d) the delivery of material; or (e) the copying of material; or (f) the doing of any other thing in relation to material; in connection with the exercise of a power, or the performance of a function, conferred on the Commissioner or the Classification Board by or under this Act.
+
+(3) For the purposes of this section, possession includes have in
+
+custody or control.
+
+#### 224 Referral of matters to law enforcement agencies
+
+(1) If: (a) in the performance of a function, or the exercise of a power,
+
+conferred on the Commissioner, the Commissioner becomes aware of particular material provided on a social media service, relevant electronic service or designated internet service; and (b) the Commissioner is satisfied that the material is of a
+
+sufficiently serious nature to warrant referral to a law enforcement agency; the Commissioner must notify the material to: (c) a member of an Australian police force; or
+
+Online Safety Act 2021 199
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 225
+
+(d) if there is an arrangement between: (i) the Commissioner; and (ii) the chief (however described) of an Australian police
+
+force under which the Commissioner is authorised to notify the material to another person or body; that other person or body.
+
+Referral to law enforcement agency
+
+(2) The manner in which material is to be notified under
+
+paragraph (1)(c) to a member of an Australian police force includes (but is not limited to) a manner ascertained in accordance with an arrangement between: (a) the Commissioner; and (b) the chief (however described) of the police force concerned.
+
+(3) If a member of an Australian police force is notified of particular
+
+material under this section, the member may notify the material to a member of another law enforcement agency.
+
+(4) This section does not, by implication, limit the powers of the
+
+Commissioner to refer other matters to a member of an Australian police force.
+
+225 Deferral of action in order to avoid prejudicing a criminal investigation
+
+If: (a) in the performance of a function, or the exercise of a power,
+
+conferred on the Commissioner, the Commissioner becomes aware of particular material provided on a social media service, relevant electronic service or designated internet service; and (b) apart from this section, the Commissioner would be required
+
+to take action under this Act in relation to the material; and (c) a member of an Australian police force satisfies the
+
+Commissioner that the taking of that action should be
+
+200 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 226
+
+deferred until the end of a particular period in order to avoid prejudicing a criminal investigation; the Commissioner may defer taking that action until the end of that period.
+
+#### 226 Copies of material
+
+(1) The Commissioner may make one or more copies of material for
+
+the purposes of: (a) an investigation under section 31, 34, 37 or 42; or (b) a consideration under section 35; or (c) a request under section 160.
+
+(2) The Commissioner does not infringe copyright if the
+
+Commissioner does anything authorised by subsection (1).
+
+#### 227 Compensation for acquisition of property
+
+(1) If the operation of: (a) this Act; or (b) a legislative instrument made under this Act; would result in an acquisition of property (within the meaning of paragraph 51(xxxi) of the Constitution) from a person otherwise than on just terms (within the meaning of that paragraph), the Commonwealth is liable to pay a reasonable amount of compensation to the person.
+
+(2) If the Commonwealth and the person do not agree on the amount
+
+of the compensation, the person may institute proceedings in: (a) the Federal Court; or (b) the Supreme Court of a State or Territory; for the recovery from the Commonwealth of such reasonable amount of compensation as the court determines.
+
+Online Safety Act 2021 201
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 228
+
+#### 228 Service of notices by electronic means
+
+Paragraphs 9(1)(d) and (2)(d) of the Electronic Transactions Act
+
+1999 do not apply to a notice under: (a) this Act; or (b) the Regulatory Powers (Standard Provisions) Act 2014, so
+
+far as that Act relates to this Act.
+
+Note: Paragraphs 9(1)(d) and (2)(d) of the Electronic Transactions Act 1999 deal with the consent of the recipient of information to the information being given by way of electronic communication.
+
+#### 229 Service of notices on contact person etc.
+
+Scope
+
+(1) This section applies to: (a) a summons or process in any proceedings under, or
+
+connected with, this Act; or (b) a summons or process in any proceedings under, or
+
+connected with, the Regulatory Powers (Standard Provisions) Act 2014, so far as that Act relates to this Act; or (c) a notice under this Act; or (d) a notice under the Regulatory Powers (Standard Provisions)
+
+Act 2014, so far as that Act relates to this Act.
+
+Service of summons, process or notice on contact person
+
+(2) If: (a) the summons, process or notice, as the case may be, is
+
+required to be served on, or given to: (i) the provider of a social media service; or (ii) the provider of a relevant electronic service; or (iii) the provider of a designated internet service; or (iv) a hosting service provider; or (v) the provider of an internet search engine service; or (vi) the provider of an app distribution service; or (vii) an internet service provider; and
+
+202 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 230
+
+(b) there is an individual who is: (i) an employee or agent of the provider; and (ii) designated by the provider as the provider’s contact
+
+person for the purposes of this Act; and (c) the contact details of the contact person have been notified to
+
+the Commissioner; the summons, process or notice, as the case may be, is taken to have been served on, or given to, the provider if it is served on, or given to, the contact person.
+
+Service of summons, process or notice on agent
+
+(3) If: (a) the summons, process or notice, as the case may be, is
+
+required to be served on, or given to, a body corporate incorporated outside Australia; and (b) the body corporate does not have a registered office or a
+
+principal office in Australia; and (c) the body corporate has an agent in Australia; the summons, process or notice, as the case may be, is taken to have been served on, or given to, the body corporate if it is served on, or given to, the agent.
+
+Other matters
+
+(4) Subsections (2) and (3) have effect in addition to section 28A of
+
+the Acts Interpretation Act 1901.
+
+Note: Section 28A of the Acts Interpretation Act 1901 deals with the service of documents.
+
+230 Instruments under this Act may provide for matters by reference to other instruments
+
+(1) An instrument under this Act may make provision in relation to a
+
+matter by applying, adopting or incorporating (with or without modifications) provisions of any Act: (a) as in force at a particular time; or
+
+Online Safety Act 2021 203
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 230
+
+(b) as in force from time to time.
+
+(2) An instrument under this Act may make provision in relation to a
+
+matter by applying, adopting or incorporating (with or without modifications) matter contained in any other instrument or writing: (a) as in force or existing at a particular time; or (b) as in force or existing from time to time; even if the other instrument or writing does not yet exist when the instrument under this Act is made.
+
+(3) A reference in subsection (2) to any other instrument or writing
+
+includes a reference to an instrument or writing: (a) made by any person or body in Australia or elsewhere
+
+(including, for example, the Commonwealth, a State or Territory, an officer or authority of the Commonwealth or of a State or Territory, or an overseas entity); and (b) whether of a legislative, administrative or other official
+
+nature or of any other nature; and (c) whether or not having any legal force or effect; for example: (d) regulations or rules under an Act; or (e) a State Act, a law of a Territory, or regulations or any other
+
+instrument made under such an Act or law; or (f) an international technical standard or performance indicator;
+
+or (g) a written agreement or arrangement or an instrument or
+
+writing made unilaterally.
+
+(4) Nothing in this section limits the generality of anything else in it.
+
+(5) Subsections (1) and (2) have effect despite anything in: (a) the Acts Interpretation Act 1901; or (b) the Legislation Act 2003.
+
+### (6) In this section:
+
+instrument under this Act means: (a) the legislative rules; or
+
+204 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 231
+
+(b) any other instrument made under this Act; or (c) an industry code (within the meaning of Division 7 of Part 9).
+
+231 This Act does not limit Schedule 8 to the Broadcasting Services Act 1992
+
+This Act does not limit the operation of Schedule 8 to the
+
+Broadcasting Services Act 1992.
+
+#### 232 This Act does not limit the Telecommunications Act 1997
+
+This Act does not limit the operation of the Telecommunications
+
+Act 1997.
+
+#### 233 Implied freedom of political communication
+
+(1) This Act does not apply to the extent (if any) that it would infringe
+
+any constitutional doctrine of implied freedom of political communication.
+
+(2) Subsection (1) does not limit the application of section 15A of the
+
+Acts Interpretation Act 1901 to this Act.
+
+#### 234 Concurrent operation of State and Territory laws
+
+It is the intention of the Parliament that this Act is not to apply to
+
+the exclusion of a law of a State or Territory to the extent to which that law is capable of operating concurrently with this Act.
+
+235 Liability of Australian hosting service providers and internet service providers under State and Territory laws etc.
+
+(1) A law of a State or Territory, or a rule of common law or equity,
+
+has no effect to the extent to which it: (a) subjects, or would have the effect (whether direct or indirect)
+
+of subjecting, an Australian hosting service provider to liability (whether criminal or civil) in respect of hosting
+
+Online Safety Act 2021 205
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 235
+
+particular online content in a case where the provider was not aware of the nature of the online content; or (b) requires, or would have the effect (whether direct or indirect)
+
+of requiring, an Australian hosting service provider to monitor, make inquiries about, or keep records of, online content hosted by the provider; or (c) subjects, or would have the effect (whether direct or indirect)
+
+of subjecting, an internet service provider to liability (whether criminal or civil) in respect of carrying particular online content in a case where the service provider was not aware of the nature of the online content; or (d) requires, or would have the effect (whether direct or indirect)
+
+of requiring, an internet service provider to monitor, make inquiries about, or keep records of, online content carried by the provider.
+
+(2) The Minister may, by legislative instrument, exempt a specified
+
+law of a State or Territory, or a specified rule of common law or equity, from the operation of subsection (1).
+
+Note: For specification by class, see subsection 13(3) of the Legislation Act 2003.
+
+(3) An exemption under subsection (2) may be unconditional or
+
+subject to such conditions (if any) as are specified in the exemption.
+
+Declaration by Minister
+
+(4) The Minister may, by legislative instrument, declare that a
+
+specified law of a State or Territory, or a specified rule of common law or equity, has no effect to the extent to which the law or rule has a specified effect in relation to an Australian hosting service provider.
+
+Note: For specification by class, see subsection 13(3) of the Legislation Act 2003.
+
+(5) The Minister may, by legislative instrument, declare that a
+
+specified law of a State or Territory, or a specified rule of common
+
+206 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 236
+
+law or equity, has no effect to the extent to which the law or rule has a specified effect in relation to an internet service provider.
+
+Note: For specification by class, see subsection 13(3) of the Legislation Act 2003.
+
+(6) A declaration under subsection (4) or (5) has effect only to the
+
+extent that: (a) it is authorised by paragraph 51(v) of the Constitution (either
+
+alone or when read together with paragraph 51(xxxix) of the Constitution); or (b) both: (i) it is authorised by section 122 of the Constitution; and (ii) it would have been authorised by paragraph 51(v) of the
+
+Constitution (either alone or when read together with paragraph 51(xxxix) of the Constitution) if section 51 of the Constitution extended to the Territories.
+
+236 This Act not to affect performance of State or Territory functions
+
+A power conferred by this Act must not be exercised in such a way
+
+as to prevent the exercise of the powers, or the performance of the functions, of government of a State, the Northern Territory or the Australian Capital Territory.
+
+#### 237 Revocation or variation of instruments
+
+A provision of this Act that expressly authorises the revocation or
+
+variation of an instrument does not, by implication, limit the application of subsection 33(3) of the Acts Interpretation Act 1901 in relation to other instruments under this Act.
+
+238 Provider of social media service, age-restricted social media platform, relevant electronic service, designated internet service or app distribution service
+
+(1) For the purposes of this Act, a person does not provide a social
+
+media service, age-restricted social media platform, relevant
+
+Online Safety Act 2021 207
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Section 239
+
+electronic service or designated internet service merely because the person supplies a carriage service that enables material to be accessed or delivered.
+
+(2) For the purposes of this Act, a person does not provide an app
+
+distribution service merely because the person supplies a carriage service that enables apps to be downloaded.
+
+(3) For the purposes of this Act, a person does not provide a social
+
+media service, age-restricted social media platform, relevant electronic service, designated internet service or app distribution service merely because the person provides a billing service, or a fee collection service, in relation to a social media service, age-restricted social media platform, relevant electronic service, designated internet service or app distribution service.
+
+#### 239 Extended meaning of use
+
+Unless the contrary intention appears, a reference in this Act to the
+
+use of a thing is a reference to the use of the thing either: (a) in isolation; or (b) in conjunction with one or more other things.
+
+#### 239A Review of operation of this Act
+
+(1) Within 3 years after the commencement of this section, the
+
+Minister must cause to be conducted an independent review of the operation of this Act.
+
+(2) The Minister must cause to be prepared a written report of the
+
+review.
+
+(3) The Minister must cause copies of the report to be tabled in each
+
+House of the Parliament within 15 sitting days of that House after the day on which the report is given to the Minister.
+
+208 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+Section 239B
+
+#### 239B Review of social media minimum age framework
+
+(1) Within 2 years after the day section 63D takes effect in accordance
+
+with section 63E, the Minister must cause to be conducted an independent review of the operation of Part 4A.
+
+(2) Without limiting subsection (1), the review must include
+
+consideration of: (a) the adequacy of privacy protections in, and in relation to,
+
+Part 4A; and (b) any other matters relating to the operation of Part 4A
+
+determined by the Minister.
+
+(3) The Minister must cause to be prepared a written report of the
+
+review.
+
+(4) The Minister must cause copies of the report to be tabled in each
+
+House of the Parliament within 15 sitting days of that House after the day on which the report is given to the Minister.
+
+#### 240 Legislative rules
+
+(1) The Minister may, by legislative instrument, make rules
+
+(legislative rules) prescribing matters: (a) required or permitted by this Act to be prescribed by the
+
+legislative rules; or (b) necessary or convenient to be prescribed for carrying out or
+
+giving effect to this Act.
+
+(2) To avoid doubt, the legislative rules may not do the following: (a) create an offence or civil penalty; (b) provide powers of: (i) arrest or detention; or (ii) entry, search or seizure; (c) impose a tax; (d) set an amount to be appropriated from the Consolidated
+
+Revenue Fund under an appropriation in this Act; (e) directly amend the text of this Act.
+
+Online Safety Act 2021 209
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Endnote 1—About the endnotes
+
+## Endnotes
+
+### Endnote 1—About the endnotes
+
+The endnotes provide information about this compilation and the compiled law.
+
+The following endnotes are included in every compilation:
+
+Endnote 1—About the endnotes Endnote 2—Abbreviation key Endnote 3—Legislation history Endnote 4—Amendment history
+
+Abbreviation key—Endnote 2 The abbreviation key sets out abbreviations that may be used in the endnotes.
+
+Legislation history and amendment history—Endnotes 3 and 4 Amending laws are annotated in the legislation history and amendment history.
+
+The legislation history in endnote 3 provides information about each law that has amended (or will amend) the compiled law. The information includes commencement details for amending laws and details of any application, saving or transitional provisions that are not included in this compilation.
+
+The amendment history in endnote 4 provides information about amendments at the provision (generally section or equivalent) level. It also includes information about any provision of the compiled law that has been repealed in accordance with a provision of the law.
+
+Editorial changes The Legislation Act 2003 authorises First Parliamentary Counsel to make editorial and presentational changes to a compiled law in preparing a compilation of the law for registration. The changes must not change the effect of the law. Editorial changes take effect from the compilation registration date.
+
+If the compilation includes editorial changes, the endnotes include a brief outline of the changes in general terms. Full details of any changes can be obtained from the Office of Parliamentary Counsel.
+
+Misdescribed amendments A misdescribed amendment is an amendment that does not accurately describe how an amendment is to be made. If, despite the misdescription, the amendment
+
+210 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Endnote 1—About the endnotes
+
+can be given effect as intended, then the misdescribed amendment can be incorporated through an editorial change made under section 15V of the Legislation Act 2003.
+
+If a misdescribed amendment cannot be given effect as intended, the amendment is not incorporated and “(md not incorp)” is added to the amendment history.
+
+Online Safety Act 2021 211
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Endnote 2—Abbreviation key
+
+### Endnote 2—Abbreviation key
+
+ad = added or inserted orig = original
+
+am = amended p = page(s)
+
+amdt = amendment para = paragraph(s)/subparagraph(s)
+
+C[x] = Compilation No. x /sub-subparagraph(s)
+
+ch = Chapter(s) pres = present
+
+cl = clause(s) prev = previous
+
+cont. = continued (prev…) = previously
+
+def = definition(s) pt = Part(s)
+
+Dict = Dictionary r = regulation(s)/Court rule(s)
+
+disallowed = disallowed by Parliament reloc = relocated
+
+div = Division(s) renum = renumbered
+
+ed = editorial change rep = repealed
+
+exp = expires/expired or ceases/ceased to have rs = repealed and substituted effect s = section(s)/subsection(s)
+
+gaz = gazette /rule(s)/subrule(s)/order(s)/suborder(s)
+
+LA = Legislation Act 2003 sch = Schedule(s)
+
+LIA = Legislative Instruments Act 2003 SLI = Select Legislative Instrument
+
+(md) = misdescribed amendment can be given SR = Statutory Rules effect sub ch = Sub-Chapter(s)
+
+(md not incorp) = misdescribed amendment sub div = Subdivision(s) cannot be given effect sub pt = Subpart(s)
+
+mod = modified/modification underlining = whole or part not
+
+No. = Number(s) commenced or to be commenced
+
+Ord = Ordinance
+
+212 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Endnote 3—Legislation history
+
+### Endnote 3—Legislation history
+
+Assent Commencement Application, saving and transitional provisions
+
+Act (Register ID)
+
+Number and year
+
+76, 2021 23 July 2021 23 Jan 2022 (s 2(1) item 1)
+
+Online Safety Act 2021 (C2021A00076)
+
+77, 2021 23 July 2021 sch 2 (items 110-112): 23 Jan 2022 (s 2(1) item 6)
+
+Online Safety (Transitional Provisions and Consequential Amendments) Act 2021 (C2021A00077)
+
+—
+
+39, 2024 31 May 2024 sch 12 (items 59, 60): 14 Oct 2024 (s 2(1) item 2)
+
+Administrative Review Tribunal (Consequential and Transitional Provisions No. 2) Act 2024 (C2024A00039)
+
+—
+
+127, 2024 10 Dec 2024 sch 1 (items 1-16, 18, 19): 11 Dec 2024 (s 2(1) item 1)
+
+Online Safety Amendment (Social Media Minimum Age) Act 2024 (C2024A00127)
+
+sch 1 (items 18, 19)
+
+83, 2026 11 Sept 2026 12 Sept 2026 (s 2(1) item 1)
+
+Online Safety Amendment (Strengthening Enforcement for the Social Media Minimum
+
+Age) Act 2026 (C2026A00083)
+
+sch 1 (item 6), sch 2 (item 4)
+
+Online Safety Act 2021 213
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+Endnote 4—Amendment history
+
+Endnote 4—Amendment history
+
+Provision affected How affected
+
+## Part 1
+
+s 4 .................................................... am No 127, 2024
+
+s 5 .................................................... am No 127, 2024
+
+## Part 2
+
+s 25 .................................................. am No 127, 2024
+
+s 27 .................................................. am No 127, 2024
+
+## Part 3
+
+Division 5
+
+s 43 .................................................. ed C1
+
+Part 4A
+
+Part 4A ............................................ ad No 127, 2024
+
+Division 1
+
+s 63A ............................................... ad No 127, 2024
+
+s 63B ............................................... ad No 127, 2024
+
+s 63C ............................................... ad No 127, 2024
+
+Division 2
+
+s 63D ............................................... ad No 127, 2024
+
+am No 83, 2026
+
+s 63DA ............................................ ad No 127, 2024
+
+am No 83, 2026
+
+s 63DB ............................................ ad No 127, 2024
+
+am No 83, 2026
+
+s 63E ............................................... ad No 127, 2024
+
+Division 3
+
+s 63F ............................................... ad No 127, 2024
+
+Division 4
+
+s 63G ............................................... ad No 127, 2024
+
+rs No 83, 2026
+
+214 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+Provision affected How affected
+
+s 63H ............................................... ad No 127, 2024
+
+am No 83, 2026
+
+Division 4A
+
+Division 4A ..................................... ad No 83, 2026
+
+s 63HA ............................................ ad No 83, 2026
+
+s 63HB ............................................ ad No 83, 2026
+
+s 63HC ............................................ ad No 83, 2026
+
+s 63HD ............................................ ad No 83, 2026
+
+s 63HE ............................................ ad No 83, 2026
+
+s 63HF ............................................. ad No 83, 2026
+
+s 63HG ............................................ ad No 83, 2026
+
+Division 5
+
+s 63J ................................................ ad No 127, 2024
+
+s 63K ............................................... ad No 127, 2024
+
+## Part 9
+
+Division 7
+
+Subdivision C
+
+s 143 ................................................ am No 127, 2024
+
+Subdivision D
+
+s 146 ................................................ am No 127, 2024
+
+## Part 10
+
+s 162 ................................................ am No 77, 2021
+
+s 163 ................................................ am No 127, 2024
+
+s 163A ............................................. ad No 83, 2026
+
+Endnote 4—Amendment history
+
+s 164 ................................................ am No 77, 2021; No 127, 2024
+
+s 165 ................................................ am No 77, 2021; No 127, 2024; No 83, 2026
+
+## Part 16
+
+s 220 ................................................ am No 39, 2024
+
+s 222A ............................................. ad No 127, 2024
+
+ed C3
+
+s 238 ................................................ am No 127, 2024
+
+Online Safety Act 2021 215
+
+Compilation No. 4 Compilation date: 12/09/2026
+
+### Endnote 4—Amendment history
+
+Provision affected How affected
+
+s 239B ............................................. ad No 127, 2024
+
+216 Online Safety Act 2021
+
+Compilation No. 4 Compilation date: 12/09/2026

@@ -38,7 +38,7 @@
       "-layout"
     ],
     "force_ocr": false,
-    "notes": "MIC's own alternate English PDF (not the blocked japaneselawtranslation.go.jp copy) fetched and extracted cleanly. CAVEAT: this translation's own header states \"Latest revision: Act No. 136 of December 28, 2007\" -- the Act has been heavily amended since (research flagged 2022/2023 cookie-consent-style amendments), so this text is an OLDER revision, not current law. Useful for structure/baseline text but article numbering and content may have since changed."
+    "notes": "Extracted official regulation () to Markdown (149,958 chars). Parsed 428 sections (427 with explicit section identifiers)."
   },
   "extraction_history": [
     {

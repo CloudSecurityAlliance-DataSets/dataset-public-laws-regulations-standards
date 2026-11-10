@@ -1,0 +1,63 @@
+{
+  "secid": "secid:regulation/gov.il/privacy-protection-law",
+  "name": "Protection of Privacy Law, 5741-1981",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "privacy-protection-law",
+  "owner": "Government of Israel",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Israel's foundational privacy statute, enacted by the Knesset. Amendment No. 13 (passed August 5, 2024, effective August 14, 2025) is the largest overhaul since 1981, adding DPO requirements, database-registration streamlining, and GDPR-aligned enforcement powers.",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by Government of Israel (gov.il) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within Government of Israel (gov.il).",
+  "license": {
+    "spdx": "LicenseRef-IL-Copyright-2007-State",
+    "Grouping": "Proprietary / All Rights Reserved",
+    "redistribution": "prohibited",
+    "derivatives": "prohibited",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/IL",
+    "note": "Official publication (gov.il); State of Israel Copyright Act, 2007 (5768-2007) Chapter 6 Secs. 36, 42 (State copyright in non-legislative ministerial and INCD strategy publications) and gov.il Terms of Use. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
+    "notes": "Official publication (gov.il); State of Israel Copyright Act, 2007 (5768-2007) Chapter 6 Secs. 36, 42 (State copyright in non-legislative ministerial and INCD strategy publications) and gov.il Terms of Use. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.wipo.int/wipolex/en/text/347462",
+    "textUsed": "https://www.wipo.int/wipolex/en/text/347462",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official regulation (https://www.wipo.int/wipolex/en/text/347462) to Markdown (56,935 chars). Parsed 79 sections (7 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  }
+}

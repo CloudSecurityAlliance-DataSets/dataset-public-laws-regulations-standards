@@ -2,7 +2,9 @@
   "secid": "secid:regulation/cyber.go.jp/basic-act-cybersecurity",
   "name": "Basic Act on Cybersecurity",
   "acronym": "BAC",
-  "alternate_names": ["Cybersecurity Basic Act"],
+  "alternate_names": [
+    "Cybersecurity Basic Act"
+  ],
   "version": "",
   "publication_id": "Act No. 104 of 2014",
   "owner": "National Cybersecurity Office (NCO), successor to NISC, secretariat of the Cybersecurity Strategic Headquarters",
@@ -38,7 +40,7 @@
     "extraction_host": "n/a",
     "flags": [],
     "force_ocr": null,
-    "notes": "The authoritative English translation (japaneselawtranslation.go.jp/en/laws/view/3677/en) returned HTTP 403 to a plain curl fetch (with realistic browser headers), to WebFetch, and to a real Playwright browser session on 2026-07-16 — an AWS ELB / WAF-level block rather than a JS-rendering issue, so no client-side workaround was available in this session. This entry is a metadata/notes-only stub built from secondary legal-summary sources (ICLG Cybersecurity Laws and Regulations Report, Chambers Global Practice Guides, cyber.go.jp's English pages) rather than the primary text. No article-level CSV/JSON exists yet."
+    "notes": "Extracted official regulation () to Markdown (13,540 chars). Parsed 71 sections (70 with explicit section identifiers)."
   },
   "extraction_history": [
     {

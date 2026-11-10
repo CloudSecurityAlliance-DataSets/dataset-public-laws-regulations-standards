@@ -1,0 +1,48 @@
+{
+  "secid": "secid:regulation/msit.go.kr/ai-basic-act",
+  "name": "Framework Act on the Development of Artificial Intelligence and the Establishment of a Foundation for Trustworthiness",
+  "acronym": "AI Basic Act",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "ai-basic-act",
+  "owner": "Ministry of Science and ICT",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Korea's first comprehensive AI statute. Establishes a risk-based framework (with a 'high-impact AI' category), mandatory generative and interactive AI transparency obligations (Article 31), safety duties for high-compute AI systems (Article 32), and a national AI policy and governance structure.",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by Ministry of Science and ICT (msit.go.kr) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within Ministry of Science and ICT (msit.go.kr).",
+  "license": {
+    "spdx": "LicenseRef-Government-Work",
+    "Grouping": "Government-Work",
+    "redistribution": "pending_verification",
+    "derivatives": "pending_verification",
+    "publicly_redistributable": true,
+    "license_text_url": "https://msit.go.kr/",
+    "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document for msit.go.kr is acquired and verified against jurisdiction copyright terms). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
+    "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document for msit.go.kr is acquired and verified against jurisdiction copyright terms). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://elaw.klri.re.kr",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": null,
+  "extraction_history": [],
+  "scope": {},
+  "notes": "Official primary full-text document for secid:regulation/msit.go.kr/ai-basic-act (https://elaw.klri.re.kr) is not directly downloadable (upstream portal root URL only, SPA/WAF barrier, or pending publication); recorded as metadata-only.",
+  "desired_end_state": {
+    "state": "metadata-only",
+    "reason": "pending-acquisition"
+  }
+}

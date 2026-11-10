@@ -1,0 +1,138 @@
+[
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "Children Harmed by AI Technology Act of 2025",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "[Congressional Bills 119th Congress]\n[From the U.S. Government Publishing Office]\n[S. 2714 Introduced in Senate (IS)]\n\n<DOC>\n\n119th CONGRESS\n  1st Session\n                                S. 2714\n\n     To require artificial intelligence chatbots to implement age\n   verification measures and establish certain protections for minor\n                     users, and for other purposes.\n\n_______________________________________________________________________\n\n                   IN THE SENATE OF THE UNITED STATES\n\n                           September 4, 2025\n\n  Mr. Husted introduced the following bill; which was read twice and\n   referred to the Committee on Commerce, Science, and Transportation\n\n_______________________________________________________________________\n\n                                 A BILL\n\n     To require artificial intelligence chatbots to implement age\n   verification measures and establish certain protections for minor\n                     users, and for other purposes.\n\n    Be it enacted by the Senate and House of Representatives of the\nUnited States of America in Congress assembled,"
+  },
+  {
+    "depth": 4,
+    "section_id": "SECTION 1",
+    "section_name": "SHORT TITLE.",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "This Act may be cited as the ``Children Harmed by AI Technology\nAct'' or the ``CHAT Act''."
+  },
+  {
+    "depth": 4,
+    "section_id": "SEC. 2",
+    "section_name": "DEFINITIONS.",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "In this Act:\n            (1) Commission.--The term ``Commission'' means the Federal\n        Trade Commission."
+  },
+  {
+    "depth": 3,
+    "section_id": "(2) (1)",
+    "section_name": "Companion ai chatbot.--The term ``companion AI",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "chatbot'' means any software-based artificial intelligence\n        system or program that exists for the primary purpose of\n        simulating interpersonal or emotional interaction, friendship,\n        companionship, or therapeutic communication with a user.\n            (3) Covered entity.--The term ``covered entity'' means any\n        person that owns, operates, or otherwise makes available a\n        companion AI chatbot to individuals in the United States.\n            (4) Minor.--The term ``minor'' means any individual that\n        has not attained 18 years of age.\n            (5) Popup.--The term ``popup'' means a visible notification\n        on the screen of a user that can be resolved if interacted with\n        by the user.\n            (6) Sexually explicit communication.--The term ``sexually\n        explicit communication'' includes any content, conversation, or\n        material that describes, depicts, or encourages sexually\n        explicit conduct, as defined in paragraph (2)(B) of section\n        2256 of title 18, United States Code."
+  },
+  {
+    "depth": 3,
+    "section_id": "(7)",
+    "section_name": "Suicidal ideation.--The term ``suicidal ideation''",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "means, with respect to an interaction between a minor and a\n        companion AI chatbot, any dialogue in which such minor\n        expresses thoughts of self-harm or suicide."
+  },
+  {
+    "depth": 4,
+    "section_id": "SEC. 3",
+    "section_name": "COVERED ENTITY OBLIGATIONS.",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "(a) Creation of User Accounts.--A covered entity shall require each\nindividual accessing a companion AI chatbot to make a user account in\norder to use or otherwise interact with such chatbot.\n    (b) Age Verification.--\n            (1) Age verification of existing accounts.--With respect to\n        each user account of a companion AI chatbot that exists as of\n        the date described in section 7, a covered entity shall--\n                    (A) on such date, freeze any such account;\n                    (B) in order to restore the functionality of such\n                account, require that the user provide age information\n                that is verifiable using a commercially available\n                method or process that is reasonably designed to ensure\n                accuracy; and\n                    (C) using such age information, classify each user\n                as a minor or an adult."
+  },
+  {
+    "depth": 3,
+    "section_id": "(2) (2)",
+    "section_name": "Age verification of new accounts.--At the time an",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "individual creates a new user account to use or interact with a\n        companion AI chatbot, a covered entity shall--\n                    (A) request age information from the individual;\n                and\n                    (B) verify the individual's age using a\n                commercially available method or process that is\n                reasonably designed to ensure accuracy.\n    (c) Minor Account Protections.--If the age verification process\ndescribed in subsection (b) determines that a user is a minor, a\ncovered entity shall--\n            (1) require the account of such user to be affiliated with\n        a parental account, which such covered entity has verified\n        using a commercially available method or process that is\n        reasonably designed to ensure accuracy;\n            (2) obtain verifiable parental consent from the holder of\n        the account before allowing a minor to access and use the\n        companion AI chatbot;\n            (3) immediately inform the holder of the parental account\n        of any interaction involving suicidal ideation; and\n            (4) block the minor's access to any companion AI chatbot\n        that engages in sexually explicit communication.\n    (d) Confidentiality of Age Verification Data.--A covered entity\nshall protect the confidentiality of age information provided by a user\nfor age verification by limiting the collection, processing, use, and\nstorage of such information to what is strictly necessary to verify a\nuser's age, obtain verifiable parental consent, or maintain compliance\nrecords.\n    (e) Monitoring for Suicidal Ideation.--A covered entity shall\nmonitor companion AI chatbot interactions for suicidal ideation and, in\nresponse to any such interaction, provide to the user and the parental\naccount affiliated with such user appropriate resources by presenting\ncontact information for the National Suicide Prevention Lifeline.\n    (f) Notification of Artificial Chatbot.--At the beginning of any\ninteraction between a user and a companion AI chatbot, and not less\nfrequently than every 60 minutes during such interaction thereafter, a\ncovered entity shall display to such user a clear popup that notifies\nthe user that they are not engaging in dialogue with a human\ncounterpart."
+  },
+  {
+    "depth": 4,
+    "section_id": "SEC. 4",
+    "section_name": "COMPLIANCE.",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "(a) In General.--Not later than 180 days after the date of\nenactment of this Act, the Commission shall issue guidance to assist\ncovered entities in complying with the requirements of this Act.\n    (b) Limitation.--In any enforcement action brought pursuant to this\nAct, the Commission shall allege a specific violation of a provision of\nthis Act. The Commission may not base an enforcement action on, or\nexecute a consent order based on, practices that are alleged to be\ninconsistent with any guidance issued by the Commission with respect to\nthis Act, unless the practices are alleged to violate a provision of\nthis Act. A person may use such guidance as evidence of compliance with\nthis Act."
+  },
+  {
+    "depth": 4,
+    "section_id": "SEC. 5",
+    "section_name": "ENFORCEMENT.",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "(a) Enforcement by the Commission.--\n            (1) Unfair or deceptive acts or practices.--A violation of\n        this Act or a regulation promulgated under this Act shall be\n        treated as a violation of a rule defining an unfair or\n        deceptive act or practice under section 18(a)(1)(B) of the\n        Federal Trade Commission Act (15 U.S.C. 57a(a)(1)(B))."
+  },
+  {
+    "depth": 3,
+    "section_id": "(2) (3)",
+    "section_name": "Powers of the commission.--",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "(A) In general.--The Commission shall enforce this\n                Act in the same manner, by the same means, and with the\n                same jurisdiction, powers, and duties as though all\n                applicable terms and provisions of the Federal Trade\n                Commission Act (15 U.S.C. 41 et seq.) were incorporated\n                into and made a part of this Act.\n                    (B) Privileges and immunities.--Any person who\n                violates this Act or a regulation promulgated under\n                this Act shall be subject to the penalties and entitled\n                to the privileges and immunities provided in the\n                Federal Trade Commission Act (15 U.S.C. 41 et seq.).\n                    (C) Authority preserved.--Nothing in this section\n                shall be construed to limit the authority of the\n                Commission under any other provision of law.\n    (b) Enforcement by States.--"
+  },
+  {
+    "depth": 3,
+    "section_id": "(1)",
+    "section_name": "In general.--",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "(A) Civil actions.--In any case in which the\n                attorney general of a State has reason to believe that\n                an interest of the residents of that State has been or\n                is threatened or adversely affected by the engagement\n                of any person in a practice that violates this Act, the\n                State, as parens patriae, may bring a civil action on\n                behalf of the residents of the State in a district\n                court of the United States of appropriate jurisdiction\n                to--\n                            (i) enjoin that practice;\n                            (ii) enforce compliance with the\n                        requirements of this Act;\n                            (iii) obtain damages, restitution, or other\n                        compensation on behalf of residents of the\n                        State; or\n                            (iv) obtain such other relief as the court\n                        may consider to be appropriate.\n                    (B) Notice.--\n                            (i) In general.--Before filing an action\n                        under subparagraph (A), the attorney general of\n                        the State involved shall provide to the\n                        Commission--\n                                    (I) a written notice of that\n                                action; and\n                                    (II) a copy of the complaint for\n                                that action.\n                            (ii) Exemption.--\n                                    (I) In general.--Clause (i) shall\n                                not apply with respect to the filing of\n                                an action by an attorney general of a\n                                State under this subsection if the\n                                attorney general determines that it is\n                                not feasible to provide the notice\n                                described in that clause before the\n                                filing of the action.\n                                    (II) Notification.--In an action\n                                described in subclause (I), the\n                                attorney general of a State shall\n                                provide notice and a copy of the\n                                complaint to the Commission at the same\n                                time as the attorney general files the\n                                action."
+  },
+  {
+    "depth": 3,
+    "section_id": "(2) (4)",
+    "section_name": "Intervention.--",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "(A) In general.--On receiving notice under\n                paragraph (1)(B), the Commission shall have the right\n                to intervene in the action that is the subject of the\n                notice.\n                    (B) Effect of intervention.--If the Commission\n                intervenes in an action under paragraph (1), it shall\n                have the right--\n                            (i) to remove the action to the appropriate\n                        district court of the United States;\n                            (ii) to be heard with respect to any matter\n                        that arises in that action; and\n                            (iii) to file a petition for appeal."
+  },
+  {
+    "depth": 3,
+    "section_id": "(3)",
+    "section_name": "Construction.--For purposes of bringing any civil",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "action under paragraph (1), nothing in this Act shall be\n        construed to prevent an attorney general of a State from\n        exercising the powers conferred on the attorney general by the\n        laws of that State to--\n                    (A) conduct investigations;\n                    (B) administer oaths or affirmations; or\n                    (C) compel the attendance of witnesses or the\n                production of documentary and other evidence.\n            (4) Actions by the commission.--In any case in which an\n        action is instituted by or on behalf of the Commission for a\n        violation of this Act, no State may, during the pendency of\n        that action, institute an action under paragraph (1) against\n        any defendant named in the complaint in that action for such\n        violation."
+  },
+  {
+    "depth": 3,
+    "section_id": "(5)",
+    "section_name": "Venue; service of process.--",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "(A) Venue.--Any action brought under paragraph (1)\n                may be brought in--\n                            (i) the district court of the United States\n                        that meets applicable requirements relating to\n                        venue under section 1391 of title 28, United\n                        States Code; or\n                            (ii) a State court of competent\n                        jurisdiction.\n                    (B) Service of process.--In an action brought under\n                paragraph (1), process may be served in any district in\n                which the defendant--\n                            (i) is an inhabitant; or\n                            (ii) may be found."
+  },
+  {
+    "depth": 4,
+    "section_id": "SEC. 6",
+    "section_name": "SAFE HARBOR.",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "A covered entity is deemed not liable for a violation of this Act\nif the covered entity demonstrates it has--\n            (1) relied in good faith on age information provided by a\n        user of the companion AI chatbot for purposes of verifying the\n        age of such user;\n            (2) complied with the guidance described in section 4; and"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "(3) reasonably conformed to widely accepted industry",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "standards or best practices, or to standards or best practices\n        identified by the Commission, for age verification and applied\n        those standards or best practices consistently and in good\n        faith."
+  },
+  {
+    "depth": 4,
+    "section_id": "SEC. 7",
+    "section_name": "EFFECTIVE DATE.",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "This Act shall take effect on the date that is 1 year after the\ndate of enactment of this Act.\n                                 <all>"
+  }
+]

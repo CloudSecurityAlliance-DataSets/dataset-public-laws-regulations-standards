@@ -1,0 +1,63 @@
+{
+  "secid": "secid:regulation/europa.eu/machinery-regulation",
+  "name": "Regulation (EU) 2023/1230 on machinery",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "machinery-regulation",
+  "owner": "European Union",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Replaces the Machinery Directive 2006/42/EC. Sets health/safety requirements for machinery design and construction, adding explicit cybersecurity obligations — safety-related control systems and software must resist both accidental faults and deliberate cyberattacks, with manufacturers required to provide security updates for up to 10 years.",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by European Union (europa.eu) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within European Union (europa.eu).",
+  "license": {
+    "spdx": "LicenseRef-EU-Reuse-Decision-2011-833",
+    "Grouping": "Permissive",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
+    "publicly_redistributable": true,
+    "license_text_url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32011D0833",
+    "note": "European Union official publication (europa.eu); reuse authorized with attribution under Commission Decision 2011/833/EU.",
+    "notes": "European Union official publication (europa.eu); reuse authorized with attribution under Commission Decision 2011/833/EU."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://eur-lex.europa.eu/eli/reg/2023/1230/oj/eng",
+    "textUsed": "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32023R1230",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official regulation (https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32023R1230) to Markdown (367,548 chars). Parsed 258 sections (251 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  }
+}

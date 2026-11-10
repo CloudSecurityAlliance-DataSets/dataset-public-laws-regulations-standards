@@ -1,0 +1,63 @@
+{
+  "secid": "secid:regulation/cac.gov.cn/cybersecurity-review-measures",
+  "name": "Measures for Cybersecurity Review",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "cybersecurity-review-measures",
+  "owner": "Cyberspace Administration of China",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Establishes a mandatory pre-clearance security-review regime for critical information infrastructure operators (CIIOs) procuring network products/services that could affect national security, and for network platform operators holding personal data of over 1 million users seeking a listing abroad. Reviews conducted by the Cybersecurity Review Office under CAC, jointly with 12 other departments (NDRC, MIIT, MPS, MSS, MOF, MOFCOM, PBOC, SAMR, and others).",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by Cyberspace Administration of China (cac.gov.cn) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within Cyberspace Administration of China (cac.gov.cn).",
+  "license": {
+    "spdx": "LicenseRef-CN-Copyright-Art5-1",
+    "Grouping": "Public Domain",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/CN",
+    "note": "Official publication (cac.gov.cn); Copyright Law of the People's Republic of China Art. 5(1) (laws, regulations, resolutions, decisions and orders of state organs, and other documents of a legislative, administrative or judicial nature and their official translations are excluded from copyright protection).",
+    "notes": "Official publication (cac.gov.cn); Copyright Law of the People's Republic of China Art. 5(1) (laws, regulations, resolutions, decisions and orders of state organs, and other documents of a legislative, administrative or judicial nature and their official translations are excluded from copyright protection)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.cac.gov.cn/2022-01/04/c_1642894602182845.htm",
+    "textUsed": "https://www.cac.gov.cn/2022-01/04/c_1642894602182845.htm",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official regulation (https://www.cac.gov.cn/2022-01/04/c_1642894602182845.htm) to Markdown (3,425 chars). Parsed 3 sections (2 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  }
+}

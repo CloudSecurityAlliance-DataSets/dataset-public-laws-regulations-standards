@@ -1,112 +1,48 @@
-[ Skip to main content ](#main-content)
+# New York Biometric Privacy Act (Assembly Bill A27 / General Business Law Article 32-A)
 
-[The New York State Senate](/ "NY State Senate Home")
+## STATE OF NEW YORK
 
-  * [ ](https://www.youtube.com/user/NYSenate)
+________________________________________________________________________
 
-[get involved](/citizen-guide) [login](/user/login)
+27
 
-## Search
+2021-2022 Regular Sessions
 
-Search icon Search  [Advanced Legislation Search](/search/legislation)
+## IN ASSEMBLY
 
-[Advanced Legislation Search](/search/legislation)
+(Prefiled)
 
-  * [News & Issues](/news-and-issues)
-  * [Senators & Committees](/senators-committees)
-  * [Bills & Laws](/legislation)
-  * [Events](/events)
-  * [About The Senate](/about)
+January 6, 2021 ___________
 
-open and focus search
+Introduced by M. of A. GUNTHER, VANEL, EPSTEIN, GOTTFRIED, REYES, ENGLE- BRIGHT, BARRON, SAYEGH, COOK, ZEBROWSKI, CRUZ, J. RIVERA, HYNDMAN, NIOU, GLICK, FERNANDEZ, DICKENS, SCHMITT, SMULLEN, J. M. GIGLIO, McDO- NOUGH, BLANKENBUSH, ASHBY, MONTESANO -- read once and referred to the Committee on Consumer Affairs and Protection
 
-  * [ ](https://www.youtube.com/user/NYSenate)
+AN ACT to amend the general business law, in relation to biometric privacy
 
-[login](/user/login)
+The People of the State of New York, represented in Senate and Assembly, do enact as follows:
 
-## Search
 
-Search icon Search  [Advanced Legislation Search](/search/legislation)
+### Section 1. The general business law is amended by adding a new article 2 32-A to read as follows: 3 ARTICLE 32-A 4 BIOMETRIC PRIVACY ACT
 
-## Find your Senator and share your views on important issues.
+### Section 676. Short title. 6 676-a. Definitions. 7 676-b. Retention; collection; disclosure; destruction. 8 676-c. Right of action. 9 676-d. Construction with other laws.
 
-[ find your senator  ](/find-my-senator)
+#### § 676. Short title. This article shall be known and may be cited as 11 the "biometric privacy act".
 
-#  Legislation
+#### § 676-a. Definitions. As used in this article: 1. "Biometric identifi- 13 er" means a retina or iris scan, fingerprint, voiceprint, or scan of 14 hand or face geometry. Biometric identifiers shall not include writing 15 samples, written signatures, photographs, human biological samples used 16 for valid scientific testing or screening, demographic data, tattoo 17 descriptions, or physical descriptions such as height, weight, hair 18 color, or eye color. Biometric identifiers shall not include donated 19 body parts as defined in section forty-three hundred of the public 20 health law or blood or serum stored on behalf of recipients or potential 21 recipients of living or cadaveric transplants and obtained or stored by
 
-### Search OpenLegislation Statutes
+EXPLANATION--Matter in (underscored) is new; matter in brackets italics [ ] is old law to be omitted. LBD02422-01-1
 
-Search Term
+A. 27 2
 
-Search icon Search
+1 a federally designated organ procurement agency. Biometric identifiers 2 do not include information captured from a patient in a health care 3 setting or information collected, used, or stored for health care treat- 4 ment, payment, or operations under the federal Health Insurance Porta- 5 bility and Accountability Act of 1996. Biometric identifiers do not 6 include an X-ray, roentgen process, computed tomography, magnetic reso- 7 nance imaging, positron-emission tomography scan, mammography, or other 8 image or film of the human anatomy used to diagnose, prognose, or treat 9 an illness or other medical condition or to further validate scientific 10 testing or screening. 11 2. "Biometric information" means any information, regardless of how it 12 is captured, converted, stored, or shared, based on an individual's 13 biometric identifier used to identify an individual. Biometric informa- 14 tion shall not include information derived from items or procedures 15 excluded under the definition of biometric identifiers. 16 3. "Confidential and sensitive information" means personal information 17 that can be used to uniquely identify an individual or an individual's 18 account or property which shall include, but shall not be limited to, a 19 genetic marker, genetic testing information, a unique identifier number 20 to locate an account or property, an account number, a personal iden- 21 tification number, a pass code, a driver's license number, or a social 22 security number. 23 4. "Private entity" means any individual, partnership, corporation, 24 limited liability company, association, or other group, however organ- 25 ized. A private entity shall not include a state or local government 26 agency or any court in the state, a clerk of the court, or a judge or 27 justice thereof. 28 5. "Written release" means informed written consent or, in the context 29 of employment, a release executed by an employee as a condition of 30 employment.
 
-  1. [ The Laws of New York  ](/legislation/laws/all)
-  2. [ Consolidated Laws of New York  ](/legislation/laws/CONSOLIDATED)
-  3. [ CHAPTER 31  Labor  ](/legislation/laws/LAB/-CH31)
-  4. [ ARTICLE 7  General Provisions  ](/legislation/laws/LAB/A7)
+#### § 676-b. Retention; collection; disclosure; destruction. 1. A private 32 entity in possession of biometric identifiers or biometric information 33 must develop a written policy, made available to the public, establish- 34 ing a retention schedule and guidelines for permanently destroying biom- 35 etric identifiers and biometric information when the initial purpose for 36 collecting or obtaining such identifiers or information has been satis- 37 fied or within three years of the individual's last interaction with the 38 private entity, whichever occurs first. Absent a valid warrant or 39 subpoena issued by a court of competent jurisdiction, a private entity 40 in possession of biometric identifiers or biometric information must 41 comply with its established retention schedule and destruction guide- 42 lines. 43 2. No private entity may collect, capture, purchase, receive through 44 trade, or otherwise obtain a person's or a customer's biometric identi- 45 fier or biometric information, unless it first: 46 (a) informs the subject or the subject's legally authorized represen- 47 tative in writing that a biometric identifier or biometric information 48 is being collected or stored; 49 (b) informs the subject or the subject's legally authorized represen- 50 tative in writing of the specific purpose and length of term for which a 51 biometric identifier or biometric information is being collected, 52 stored, and used; and 53 (c) receives a written release executed by the subject of the biome- 54 tric identifier or biometric information or the subject's legally 55 authorized representative.
 
-previous
+A. 27 3
 
-* [ SECTION 201  Laws and orders to be posted  ](https://www.nysenate.gov/legislation/laws/LAB/201)
+1 3. No private entity in possession of a biometric identifier or biome- 2 tric information may sell, lease, trade, or otherwise profit from a 3 person's or a customer's biometric identifier or biometric information. 4 4. No private entity in possession of a biometric identifier or biome- 5 tric information may disclose, redisclose, or otherwise disseminate a 6 person's or a customer's biometric identifier or biometric information 7 unless: 8 (a) the subject of the biometric identifier or biometric information 9 or the subject's legally authorized representative consents to the 10 disclosure or redisclosure; 11 (b) the disclosure or redisclsoure completes a financial transaction 12 requested or authorized by the subject of the biometric identifier or 13 the biometric information or the subject's legally authorized represen- 14 tative; 15 (c) the disclosure or redisclosure is required by federal, state or 16 local law or municipal ordinance; or 17 (d) the disclosure is required pursuant to a valid warrant or subpoena 18 issued by a court of competent jurisdiction. 19 5. A private entity in possession of a biometric identifier or biome- 20 tric information shall: 21 (a) store, transmit, and protect from disclosure all biometric identi- 22 fiers and biometric information using the reasonable standard of care 23 within the private entity's industry; and 24 (b) store, transmit, and protect from disclosure all biometric identi- 25 fiers and biometric information in a manner that is the same as or more 26 protective than the manner in which the private entity stores, trans- 27 mits, and protects other confidential and sensitive information.
 
-up
+#### § 676-c. Right of action. Any person aggrieved by a violation of this 29 article shall have a right of action in supreme court against an offend- 30 ing party. A prevailing party may recover for each violation: 31 1. against a private entity that negligently violates a provision of 32 this article, liquidated damages of one thousand dollars or actual 33 damages, whichever is greater; 34 2. against a private entity that intentionally or recklessly violates 35 a provision of this article, liquidated damages of five thousand dollars 36 or actual damages, whichever is greater; 37 3. reasonable attorneys' fees and costs, including expert witness fees 38 and other litigation expenses; and 39 4. other relief, including an injunction, as the court may deem appro- 40 priate.
 
-* [ ARTICLE 7  General Provisions  ](https://www.nysenate.gov/legislation/laws/LAB/A7)
+#### § 676-d. Construction with other laws. 1. Nothing in this article 42 shall be construed to impact the admission or discovery of biometric 43 identifiers and biometric information in any action of any kind in any 44 court, or before any tribunal, board, agency, or person. 45 2. Nothing in this article shall be construed to conflict with the 46 federal Health Insurance Portability and Accountability Act of 1996. 47 3. Nothing in the article shall be deemed to apply in any manner to a 48 financial institution or an affiliate of a financial institution that is 49 subject to Title V of the federal Gramm-Leach-Bliley Act of 1999. 50 4. Nothing in this article shall be construed to apply to a contrac- 51 tor, subcontractor, or agent of a state agency of local government when 52 working for that state agency of local government.
 
-next
-
-* [ SECTION 201-B  Fees for medical examination  ](https://www.nysenate.gov/legislation/laws/LAB/201-B)
-
-Viewing most recent revision (from 2014-09-22)
-
-View historical revision as of:  \-- Choose a Date --2014-09-22
-
-### Share
-
-  * [ Facebook ](https://www.facebook.com/sharer/sharer.php?u=https://www.nysenate.gov/legislation/laws/LAB/201-A)
-  * [ ![Twitter icon](/modules/custom/nys_openleg/assets/twitter.svg) ](https://twitter.com/intent/tweet?text=From @nysenate: https://www.nysenate.gov/legislation/laws/LAB/201-A)
-  * [Email](mailto:?subject=SECTION 201-A Fingerprinting of employees prohibited Labor \(LAB\) CHAPTER 31, ARTICLE 7 | NY State Senate&body=Check out this law: https://www.nysenate.gov/legislation/laws/LAB/201-A)
-
-## SECTION 201-A
-
-### Fingerprinting of employees prohibited
-
-#### Labor (LAB) CHAPTER 31, ARTICLE 7
-
-§ 201-a. Fingerprinting of employees prohibited. Except as otherwise  
-provided by law, no person, as a condition of securing employment or of  
-continuing employment, shall be required to be fingerprinted. This  
-provision shall not apply to employees of the state or any municipal  
-subdivisions or departments thereof, or to the employees of legally  
-incorporated hospitals, supported in whole or in part by public funds or  
-private endowment, or to the employees of medical colleges affiliated  
-with such hospitals or to employees of private proprietary hospitals.  
-
-[ NYSenate.gov ![New York State Senate
-Seal](/themes/custom/nysenate_theme/src/assets/nys_logo224x224.png) ](/
-"nysenate.gov")
-
-## Socials
-
-Follow the New York State Senate
-
-  * [ ](https://www.youtube.com/user/NYSenate)
-
-## Footer
-
-  * [News & Issues](/news-and-issues)
-  * [Senators & Committees](/senators-committees)
-  * [Bills & Laws](/legislation)
-  * [Budget](/majority-issues/new-york-state-budget)
-  * [Events](/events)
-  * [About the Senate](/about)
-
-## Footer Right
-
-  * [Contact the Senate](/contact)
-  * [Report a Website Issue](/report-website-issue)
-  * [Home Rule Form](/home-rule-form)
-  * [Site Policies](/policies-and-waivers)
-  * [About this Website](/nysenategov-source-code)
-  * [GET INVOLVED](/citizen-guide)
-
+#### § 2. This act shall take effect on the ninetieth day after it shall 54 have become a law.

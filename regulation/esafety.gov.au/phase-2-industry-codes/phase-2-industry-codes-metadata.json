@@ -1,0 +1,62 @@
+{
+  "secid": "secid:regulation/esafety.gov.au/phase-2-industry-codes",
+  "name": "Registered Online Safety Industry Codes (Phase 2 — Class 1C and Class 2 Material)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "phase-2-industry-codes",
+  "owner": "eSafety Commissioner (Australian Government)",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Legally enforceable Phase 2 industry codes registered by the Australian eSafety Commissioner under Part 9 of the Online Safety Act 2021 addressing Class 1C and Class 2 material (high-impact pornography, R18+/X18+ content, and self-harm/suicide themes), requiring age assurance, risk assessments, safety-by-design controls, and crisis guardrails across 8 industry sectors explicitly including conversational AI chatbots and AI companions.",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by eSafety Commissioner (Australian Government) (esafety.gov.au) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within eSafety Commissioner (Australian Government) (esafety.gov.au).",
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "Grouping": "Permissive",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
+    "publicly_redistributable": true,
+    "license_text_url": "https://creativecommons.org/licenses/by/4.0/",
+    "note": "Commonwealth of Australia copyright (esafety.gov.au); licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).",
+    "notes": "Commonwealth of Australia copyright (esafety.gov.au); licensed under Creative Commons Attribution 4.0 International (CC BY 4.0)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.esafety.gov.au/industry/codes",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "date": "2026-11-10",
+    "tool": "",
+    "s3_archive_path": "",
+    "notes": "Registry URL resolves to a portal navigation or bill status page without full statutory text; recorded as metadata-only."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  },
+  "end_state": "metadata-only",
+  "end_reason": "portal-landing-page-only"
+}

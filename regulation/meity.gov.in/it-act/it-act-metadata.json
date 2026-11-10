@@ -1,0 +1,63 @@
+{
+  "secid": "secid:regulation/meity.gov.in/it-act",
+  "name": "Information Technology Act, 2000",
+  "acronym": "IT Act 2000",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "it-act",
+  "owner": "Ministry of Electronics and Information Technology",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Indian foundational cyber law covering electronic commerce, digital signatures, computer-related offences, and intermediary liability. Significantly amended in 2008 (Section 43A on data protection, Section 79 intermediary safe-harbour, Sections 66/67 cyber offences).",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by Ministry of Electronics and Information Technology (meity.gov.in) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within Ministry of Electronics and Information Technology (meity.gov.in).",
+  "license": {
+    "spdx": "LicenseRef-IN-Copyright-1957-Sec17d",
+    "Grouping": "Proprietary / All Rights Reserved",
+    "redistribution": "prohibited",
+    "derivatives": "prohibited",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/IN",
+    "note": "Official publication (meity.gov.in); Indian Copyright Act, 1957 (Act No. 14 of 1957) Sec. 17(d) (Government copyright in ministerial and NITI Aayog strategy publications unless explicitly released under GODL-India). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
+    "notes": "Official publication (meity.gov.in); Indian Copyright Act, 1957 (Act No. 14 of 1957) Sec. 17(d) (Government copyright in ministerial and NITI Aayog strategy publications unless explicitly released under GODL-India). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.meity.gov.in/content/information-technology-act-2000",
+    "textUsed": "https://egazette.gov.in/WriteReadData/2023/248047.pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official regulation (https://egazette.gov.in/WriteReadData/2023/248047.pdf) to Markdown (131,445 chars). Parsed 91 sections (76 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  }
+}

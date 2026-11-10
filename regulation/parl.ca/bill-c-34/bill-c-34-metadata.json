@@ -1,0 +1,61 @@
+{
+  "secid": "secid:regulation/parl.ca/bill-c-34",
+  "name": "An Act to enact the Digital Safety Act and the Digital Safety Commission of Canada Act and to make consequential and related amendments to other Acts (Safe Social Media Act, Bill C-34)",
+  "acronym": "Bill C-34",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "bill-c-34",
+  "owner": "Parliament of Canada",
+  "type": "Regulation",
+  "subtype": [
+    "legislation"
+  ],
+  "description": "Proposed Canadian federal legislation (45th Parliament, 1st Session, Bill C-34) enacting the Digital Safety Act and the Digital Safety Commission of Canada Act, regulating social media platforms and interactive AI chatbot services accessible to Canadians, establishing a statutory Duty to Act Responsibly toward child users, and mandating risk assessments, transparency, and safeguards against manipulative AI companion design.",
+  "relationToCloudSecurity": "Establishes federal statutory data protection, platform governance, cybersecurity, and regulatory compliance obligations applicable to cloud-hosted services and digital platforms operating in Canada.",
+  "relationToAISecurity": "Regulates AI systems, automated decision-making, and interactive AI chatbot/companion services accessible to Canadians.",
+  "license": {
+    "spdx": "OGL-Canada-2.0",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://open.canada.ca/en/open-government-licence-canada",
+    "notes": "Open Government Licence – Canada (and Reproduction of Federal Law Order for federal bills and statutes)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.parl.ca/legisinfo/en/bill/45-1/c-34",
+    "textUsed": "https://www.parl.ca/Content/Bills/451/Government/C-34/C-34_1/C-34_E.xml",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2026-06-10",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-10T21-00-00Z",
+    "tool": "tools-resources/utils/parse_canada_justice_xml.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Committed authoritative Parliament of Canada legislative XML (https://www.parl.ca/Content/Bills/451/Government/C-34/C-34_1/C-34_E.xml) as bill-c-34.xml and extracted 167 statutory sections and clauses via tools-resources/utils/parse_canada_justice_xml.py into bill-c-34.md, bill-c-34-sections.csv, and bill-c-34-sections.json."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-10T21-00-00Z",
+      "status": "current",
+      "reason": "Public government bill extraction (#145)",
+      "tool": "tools-resources/utils/parse_canada_justice_xml.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "requirement-list"
+  }
+}

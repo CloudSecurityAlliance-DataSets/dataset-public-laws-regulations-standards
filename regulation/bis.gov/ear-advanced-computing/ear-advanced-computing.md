@@ -1,0 +1,2947 @@
+# Export Administration Regulations (EAR) — advanced computing and semiconductor manufacturing items controls
+
+SUPPLEMENTARY INFORMATION:
+
+within a foreign destination, may proceed to that destination under the previous eligibility for a License Exception or export, reexport, or transfer (in-country) without a license (NLR), provided the export, reexport, or transfer (in-country) is completed no later than on June 16, 2025.
+
+DEPARTMENT OF COMMERCE
+
+Bureau of Industry and Security
+
+15 CFR Parts 732, 734, 740, 742, 744, 748, 750, 762, 772, and 774
+
+[Docket No. 250107–0007]
+
+RIN 0694–AJ90
+
+### I. Background
+
+BIS is amending the EAR to enhance and refine its framework for applying export controls to regulate the global diffusion of the most advanced artificial intelligence (AI) models and large clusters of advanced computing integrated circuits (ICs) to protect U.S. national security and foreign policy interests. Specifically, BIS is expanding existing controls on advanced computing ICs controlled under ECCNs 3A090.a and 4A090.a and the corresponding .z items and imposing new controls on the model weights of certain advanced closed-weight dualuse AI models controlled under newly created ECCN 4E091. Background on these changes, which follow extensive U.S. government consideration of the impact of advanced dual-use AI models on U.S. national security and foreign policy interests, is detailed below.
+
+ADDRESSES: Comments on this rule may be submitted to the Federal rulemaking portal (www.regulations.gov). The regulations.gov ID for this rule is: BIS– 2025–0001. Please refer to RIN 0694– AJ90 in all comments.
+
+Framework for Artificial Intelligence Diffusion
+
+AGENCY: Bureau of Industry and Security, Department of Commerce.
+
+All filers using the portal should use the name of the person or entity submitting the comments as the name of their files, in accordance with the instructions below. Anyone submitting business confidential information should clearly identify the business confidential portion at the time of submission, file a statement justifying nondisclosure and referring to the specific legal authority claimed, and provide a non-confidential version of the submission.
+
+ACTION: Interim final rule; request for comments.
+
+SUMMARY: With this interim final rule, the Commerce Department’s Bureau of Industry and Security (BIS) revises the Export Administration Regulations’ (EAR) controls on advanced computing integrated circuits (ICs) and adds a new control on artificial intelligence (AI) model weights for certain advanced closed-weight dual-use AI models. In conjunction with the expansion of these controls, which BIS has determined are necessary to protect U.S. national security and foreign policy interests, BIS is adding new license exceptions and updating the Data Center Validated End User authorization to facilitate the export, reexport, and transfer (in-country) of advanced computing (ICs) to end users in destinations that do not raise national security or foreign policy concerns. Together, these changes will cultivate secure ecosystems for the responsible diffusion and use of AI and advanced computing ICs.
+
+The Export Control Reform Act of 2018 (ECRA), 15 U.S.C. 4801, et seq., emphasizes that national security ‘‘requires that the United States maintain its leadership in the science, technology, engineering, and manufacturing sectors, including foundational technology that is essential to innovation.’’ ECRA also commands that BIS’s rules be ‘‘transparent, predictable, and timely,’’ and have ‘‘the flexibility to be adapted’’ in light of evolving circumstances. Given that this rule imposes new global requirements on a rapidly developing industry that is central to innovation, BIS has determined that it can best further the United States’s technological leadership, and provide transparency and predictability to affected stakeholders, by delaying the compliance date of this rule, as outlined in the DATES section. Such delay will allow stakeholders time to familiarize themselves with the rule, and to provide comment on it, before compliance is required.
+
+For comments submitted electronically containing business confidential information, the file name of the business confidential version should begin with the characters ‘‘BC.’’ Any page containing business confidential information must be clearly marked ‘‘BUSINESS CONFIDENTIAL’’ on the top of that page. The corresponding non-confidential version of those comments must be clearly marked ‘‘PUBLIC.’’ The file name of the non-confidential version should begin with the character ‘‘P.’’ Any submissions with file names that do not begin with either a ‘‘BC’’ or a ‘‘P’’ will be assumed to be public and will be made publicly available through https:// www.regulations.gov. Commenters submitting business confidential information are encouraged to scan a hard copy of the non-confidential version to create an image of the file, rather than submitting a digital copy with redactions applied, to avoid inadvertent redaction errors which could enable the public to read business confidential information.
+
+DATES:
+
+Effective date: This rule is effective January 13. 2025.
+
+Compliance date: As explained in the SUPPLEMENTARY INFORMATION section, exporters, reexporters, and transferors are not required to comply with the changes made in this rule until May 15, 2025, except that paragraphs 14, 15, and 18 of supplement no. 10 to part 748 have a delayed compliance date of January 15, 2026.
+
+Comment due date: Comments on revisions and additions in this rule are strongly encouraged and must be received by BIS no later than May 15, 2025. Saving clause: Shipments of items removed from eligibility for a License Exception or export, reexport, or transfer (in-country) without a license (NLR) as a result of this regulatory action that were en route aboard a carrier to a port of export, reexport, or transfer (in-country), on May 15, 2025, pursuant to actual orders for export, reexport, or transfer (in-country) to or
+
+a. Risks and Benefits of Advanced AI Models
+
+Over the past decade, AI models have shown striking performance improvements across many domains, including reasoning, coding, and image and voice recognition and creation. These performance improvements create numerous direct applications, such as text generation and computer codeassistance, and can increasingly support AI agents that are able to interact with digital and physical systems, increasing the ability of laypeople to, for example, write code or use scientific tools that previously required specialized skills.
+
+FOR FURTHER INFORMATION CONTACT:
+
+For general questions contact: Hillary Hess at 202–482–2440 or RPD2@ bis.doc.gov.
+
+For technical questions contact: Category 2: Sean Ghannadian at 202– 482–3429 or Sean.Ghannadian@ bis.doc.gov.
+
+Category 3: Carlos Monroy at 202– 482–3246 or Carlos.Monroy@ bis.doc.gov.
+
+Category 4: Aaron Amundson at 202– 482–0707 or Aaron.Amundson@ bis.doc.gov].
+
+Frm 00002
+
+accuracy of their military decision making, planning, and logistics, as well as their autonomous military systems, such as those used for cognitive electronic warfare, radar, signals intelligence, and jamming. See Implementation of Additional Export Controls: Certain Advanced Computing and Semiconductor Manufacturing Items; Supercomputer and Semiconductor End Use; Entity List Modification, 87 FR 62,186 (Oct. 13, 2022). BIS also determined that those military and intelligence services would use advanced AI surveillance tools, enabled by efficient processing of huge amounts of data, to monitor, track, and surveil citizens, among other purposes, without regard for human rights. See id. Accordingly, BIS controlled both the advanced computing ICs and the SME used to manufacture the controlled ICs.
+
+to education by providing personalized tutors in a wide range of subjects. The United States is committed to the full implementation of the 2030 Agenda for Sustainable Development and Sustainable Development Goals.
+
+Performance improvements may continue as AI developers increase the scale and efficiency of their models.
+
+Experts from across the U.S. government have determined that as the capabilities of these models continue to improve, they will enable malicious actors to engage in activities that pose profound risks to U.S. national security and foreign policy objectives. As the Office of the Director of National Intelligence has assessed, AI models have the potential to enable advanced military and intelligence applications; lower the barriers to entry for non-experts to develop weapons of mass destruction (WMD); support powerful offensive cyber operations; and assist in human rights violations, such as through mass surveillance. See Feb 5, 2024, Office of the Director of National Intelligence, Annual Threat Assessment of the U.S. Intelligence Community. For example, a dual-use AI model trained on data describing the functions and mechanics of chemical compounds or biological sequences could lower barriers to the development of chemical or biological weapons by providing protocols and troubleshooting information that would enable non-experts to design and produce such weapons at low cost. Similarly, the Department of Homeland Security has determined that advancements in AI may lower the barriers to entry for WMD development for both state and non-state actors and thus enhance malicious actors’ ability to conduct attacks that threaten U.S. national security. See April 26, 2024, Department of Homeland Security Report on Reducing the Risks at the Intersection of Artificial Intelligence and Chemical, Biological, Radiological, and Nuclear Threats.
+
+In other words, advanced AI models both pose unique threats to U.S. national security and foreign policy and have the potential to unlock unique economic and social benefits. As President Biden explained in remarks made to the United Nations General Assembly on September 24, 2024, AI will transform ‘‘our ways of life, our ways of work, and our ways of war.’’ As well as profound benefits, President Biden noted, AI brings ‘‘profound risks,’’ from ‘‘disinformation to novel pathogens to bioweapons.’’ President Biden’s National Security Memorandum on Advancing the United States’ Leadership in Artificial Intelligence; Harnessing Artificial Intelligence to Fulfill National Security Objectives; and Fostering the Safety, Security, and Trustworthiness of Artificial Intelligence, issued on October 24, 2024, similarly explained the promise and perils of AI. ‘‘AI,’’ it stated, ‘‘if used appropriately and for its intended purpose, can offer great benefits. If misused, AI could threaten United States national security, bolster authoritarianism worldwide, undermine democratic institutions and processes, facilitate human rights abuses, and weaken the rules-based international order.’’ Importantly, such ‘‘harmful outcomes could occur even without malicious intent if AI systems and processes lack sufficient protections.’’
+
+Since then, BIS has continuously evaluated and updated BIS’s controls to ensure that they remain as targeted and effective as possible to protect U.S. national security and foreign policy In 2023, BIS updated the technological parameters on its advanced computing controls and broadened the scope of destinations to which those controls apply to cover countries of concern not captured by the 2022 controls. BIS also imposed worldwide license requirements for advanced computing ICs and certain semiconductor end-uses when conducted on behalf of entities headquartered in Country Group D:5 or Macau. In 2024, BIS made clarifications to the scope of the AI and SME controls and, recognizing the importance of facilitating the responsible diffusion of advanced AI technology, expanded Authorization Validated End User (VEU) to enable data centers to receive VEU authorizations, which allow entities in locations subject to license requirements to receive controlled items through a streamlined process subject to security conditions. BIS’s work in this area is consistent with U.S. foreign policy to support global development.
+
+b. AI Diffusion Policy Review
+
+Recognizing both the benefits and the risks of advanced AI models, the Department of Commerce (Commerce) has engaged in an extensive and ongoing policy process with partners across the U.S. Government to consider strategic, tailored, and effective controls on the diffusion of advanced AI technology to entities and destinations around the world. In October 2022, BIS imposed a first set of controls to certain destinations with the aim of preventing certain foreign military and intelligence services from obtaining the ability to indigenously develop advanced weapons modeling and advanced AI capabilities, by imposing restrictions on their access to advanced computing ICs and certain semiconductor manufacturing equipment (SME) used to manufacture advanced computing ICs and other advanced-node ICs. BIS determined that those foreign military and intelligence services would use advanced AI to improve the speed and
+
+At the same time, experts from across the U.S. government have determined that, in the hands of validated entities operating under secure conditions, dualuse AI models have the potential to create significant economic and social benefits in the United States and across the globe. As BIS explained in a previous rule, dual-use AI models hold the potential to increase access to healthcare, education, and food and assist with combatting complex problems such as climate change. See Expansion of Validated End User Authorization: Data Center Validated End User Authorization, 89 FR 80,080 (Oct. 2, 2024). For example, under the right conditions, advanced AI models could be an enabler toward achieving Sustainable Development Goals, such as by boosting productivity in the pharmaceutical industry, strengthening climate resilience by improving climate modelling, and helping expand access
+
+Over the past year, BIS has engaged with national security and foreign policy experts from across the U.S. Government—including interagency export control partners in the Departments of Defense, Energy, and State, as well as the Intelligence Community—to study whether and how additional controls on advanced AI technologies would advance U.S. national security and foreign policy. As explained below, they began by studying the risks and benefits that would arise if the most advanced AI models or the items necessary for developing them were allowed to diffuse through destinations across the
+
+Frm 00003
+
+than training a new set of model weights.
+
+industry. Specifically, ECRA notes that maintaining technological leadership is a core national security interest and that the impact of export controls on technology leadership must be continuously evaluated (50 U.S.C. 4811(3)). BIS has determined that to maintain U.S. leadership in the field of AI, U.S. developers of advanced AI models may need to build large clusters of advanced computing ICs outside the United States. They may also need to store their models at facilities abroad to ensure that they can provide high quality services to validated foreign customers.
+
+world. Simultaneously, they engaged with technical experts to understand the most effective means for controlling the diffusion of those items to address the risks. This rule details a multi-part control structure aiming to both reduce the risk that countries of concern (Country Group D:5 and Macau) obtain the most advanced AI models and enable validated entities to access the benefits of those models, while protecting national security.
+
+i. Impact of AI Diffusion on National Security and Foreign Policy
+
+The proliferation of advanced AI models throughout the world will affect U.S. national security and foreign policy interests in three fundamental ways.
+
+Training today’s most advanced AI models, including Large Language Models (LLMs), requires large clusters of advanced computing ICs capable of handling large quantities of data and models containing large numbers of parameters. Progress in AI models has resulted partly from dramatic increases in the computing power and training data used to develop the largest AI models. Leading AI developers have increased the computing power and data used to produce their largest models by many orders of magnitude over the last decade and continue to increase their scale by several multiples each year. By the end of this decade, leading AI developers plan to construct clusters of advanced ICs many times larger than those that exist today to train AI models using many times more computational operations than the largest AI models yet released.
+
+Therefore, BIS determined that U.S. national security and foreign policy require the regulation of the global diffusion of advanced AI models. However, such controls must be tailored to enable economically and socially beneficial uses of advanced AI models and to maintain U.S. technological leadership as described above.
+
+First, exporting advanced AI models, or the means to produce them, to any destination outside the United States increases the risk of theft or diversion to countries and end users of concern. Although the degree of risk varies between different destinations and end users, there is risk even when the end user is a validated entity and the destination is a U.S. ally with a robust export control system. These risks may be most acute at the constantly advancing frontier of AI development— the largest and most advanced models available at any given time.
+
+The structure of AI models and these industry trends suggest that export controls can effectively regulate the global diffusion of advanced AI models through: (1) an expansion of existing controls on the export, reexport, and transfer (in-country) of advanced computing ICs that are necessary to construct large clusters for training advanced AI models; and (2) new controls on the export, reexport, and transfer (in-country) of the model weights of the most advanced AI models.
+
+ii. Means for Responsibly Controlling AI Diffusion
+
+AI models are software programs that comprise a series of mathematical operations. When a user enters data into the program, the program executes those operations on the input data to produce outputs—information, analysis, or media. The design of these operations and their arrangement (known as the model’s architecture) determines the nature and quality of the model’s outputs.
+
+Second, it will be impossible to realize the full economic and social benefits of advanced AI models unless validated entities outside the United States are able to obtain large quantities of advanced computing ICs or advanced AI models themselves. Such entities may be able to discover beneficial applications that U.S. firms alone will not, and they may increase the likelihood that the benefits of advanced AI models reach people across the world. The Export Control Reform Act of 2018 (ECRA) states that export controls should be ‘‘tailored to focus on those core technologies . . . capable of being used to pose a serious national security threat to the United States,’’ so BIS considered the need to appropriately tailor potential controls to address national security concerns without unduly burdening the economic and social benefits of access by foreign entities to advanced AI models and advanced computing ICs. 50 U.S.C. 4811(2)(G) and (5). In cases in which such entities are located in destinations that present a risk of diversion or misuse, BIS and its interagency export control partners can account for that risk with appropriate mitigation measures.
+
+The first step in developing an AI model is to design the model’s architecture and write it into computer code. However, the initial structure does not transform inputs into meaningful outputs. This means that before the model has been exposed to a high volume of real-world data, its outputs will be largely meaningless.
+
+iii. Framework for the Diffusion of Advanced AI Technologies
+
+This rule details a tailored strategic approach to controlling the proliferation of advanced AI models. At a high level, this strategy aims to ensure that the model weights of the most advanced U.S. AI models are stored outside the United States only under stringent security conditions and the large clusters of advanced ICs necessary to train those models are built in destinations that pose comparatively low risks of diversion or misuse.
+
+The next step is to ‘‘train’’ the model. Training involves feeding large quantities of data into the model while using optimization algorithms to evaluate the quality of the program’s outputs and improve its performance. These algorithms systematically adjust numerical parameters called ‘‘model weights’’ that weight the results of certain operations more or less heavily than others. As the training progresses, these weights are gradually optimized to allow the model to produce higher quality outputs for its intended tasks. The weights that result from the training process are valuable intellectual property, because basic model architectures and supporting code are often either publicly documented or subject to reverse engineering through a process that may be significantly easier
+
+Third, U.S. national security requires that the United States maintain technological leadership in the global AI
+
+This rule requires a license to export, reexport, or transfer (in-country) advanced computing ICs or the model weights of the most advanced AI models to any end user in any destination. The U.S. Government will review applications for such exports, reexports, and transfers (in-country) based on the sensitivity of the destination, the quantity of compute power or performance of the AI model, and the security requirements agreed to by the recipient. This global licensing requirement is crucial to ensuring that these items are not diverted to
+
+Frm 00004
+
+continued global access to the capabilities of even the most advanced AI models through structured mechanisms, including through user applications and application programming interfaces (APIs), for which this rule imposes no new restrictions.
+
+detrimental to the national security of the United States’’ while simultaneously maintaining U.S. ‘‘leadership in the science, technology, engineering, and manufacturing sectors, including foundational technology that is essential to innovation.’’ 50 U.S.C. 4811(3).
+
+destinations or end users of concern. Credible open-source reporting has identified People’s Republic of China (PRC) companies that have used foreign subsidiaries in a range of uncontrolled destinations to buy ICs subject to EAR controls. The risk is even greater with AI model weights, which, once exfiltrated by malicious actors, can be copied and sent anywhere in the world instantaneously. Accordingly, U.S. national security and foreign policy require that BIS scrutinize any transaction involving a destination or end user that presents an elevated risk of diversion or misuse. To reinforce this general requirement, BIS will set a licensing policy of a presumption of denial for certain large quantities of advanced computing ICs needed to train advanced AI models. For destinations and end users that present a comparatively low risk of diversion or misuse, a global licensing requirement will enable BIS to impose conditions that reduce the overall risk. A global licensing requirement is the most effective way to ensure that BIS can address the various risks associated with exporting large quantities of advanced computing ICs and the model weights of the most advanced AI models.
+
+As a third and final part of the strategy, BIS will impose security conditions to safeguard the storage of the most advanced models in destinations that pose heightened risks of diversion and to mitigate the risk of diversion for advanced ICs. Such conditions will protect U.S. national security by ensuring that where advanced models are stored, and large IC clusters are built, outside the United States, they are safeguarded from diversion or misuse.
+
+### II. Expanded Advanced Computing
+
+Integrated Circuit Controls
+
+As explained above, large clusters of advanced computing ICs are essential to the development of advanced AI models. Accordingly, BIS can reduce the risk that malicious state and non-state actors gain access to advanced AI models by imposing controls that allow exports, reexports, and transfers (in-country) of large quantities of advanced computing ICs only to certain destinations and end users. At the same time, BIS can ensure that destinations and end users that meet robust security and safety standards will be able to obtain large quantities of advanced computing ICs.
+
+As explained further below, BIS is implementing this three-part strategy by:
+
+(1) adding a new control for AI model weights under new Export Control Classification Number (ECCN) 4E091;
+
+(2) revising the license requirements and review policy for ECCNs 3A090.a, 4A090.a, and corresponding .z items; (3) expanding the country scope of License Exception Advanced Computing Authorized (ACA);
+
+Controls focused on the construction of large clusters of advanced computing ICs are a logical extension of BIS’s previous controls, which have focused on the risk to U.S. national security and foreign policy from allowing even small numbers of advanced ICs, and associated SME, to be exported or reexported to certain destinations of concern. Those previous controls were based on BIS’s determination that military and intelligence services in such destinations could use even small quantities of advanced computing ICs to further their military capabilities, contrary to U.S. national security and foreign policy interests. Accordingly, BIS imposed controls on these items in October 2022 (87 FR 62186, October 13, 2022), October 2023 (88 FR 73458, October 25, 2023 and 88 FR 73424, October 25, 2023), and further clarified such controls in April 2024 (89 FR 23876, April 4, 2024). In October 2024, BIS expanded the Validated End-User (VEU) Authorization in § 748.15 to facilitate the export of advanced computing ICs and related items to qualified data centers (89 FR 80080, October 2, 2024). Mostly recently, BIS updated these controls in December 2024 (89 FR 96790, December 5, 2024). Specifically, in October 2022, BIS published an interim final rule (87 FR 62186) which made critical changes to the EAR in two areas. First, the rule imposed additional export controls on certain advanced computing ICs, computer commodities that contain such ICs, and certain SME and parts and components needed to produce those and other advanced ICs. Specifically,
+
+(4) adding new License Exceptions Artificial Intelligence Authorization (AIA), Advanced Compute Manufacturing (ACM), and Low Processing Performance (LPP) that apply to advanced computing integrated circuits, AI model weights, and related items;
+
+To help ease the burden on destinations and end users that pose a comparatively low risk of diversion or misuse and to facilitate economically beneficial activities, BIS is including flexibility within its global licensing requirements. For example, BIS will provide license exceptions— conditioned on compliance with certain security measures—for validated end users or particularly low-risk destinations. BIS will also provide a mechanism for other end users in other destinations to achieve validated status, which will allow them to obtain advanced computing ICs more easily. Additionally, consistent with its general practice, BIS will not require a license for the export of the model weights of open-weight models (see July 30, 2024, Dual-Use Foundation Models with Widely Available Model Weights Report, National Telecommunications and Information Administration). These elements of the strategy will ensure that BIS’s controls address only the starkest risks identified at the frontier of AI development and do not affect the vast majority of AI technology. This is consistent with ECRA’s policy goals, which direct BIS to restrict the export of items that would ‘‘make a significant contribution to the military potential of any other country or combination of countries which would prove
+
+(5) adding new red flag guidance related to AI model weights;
+
+(6) bifurcating the Data Center Validated End-User Authorization into Universal and National Validated End- User Authorizations; and
+
+(6) updating License Exception Notified Advanced Computing (NAC) notification procedures to improve its efficiency.
+
+Ultimately, ensuring the staged, responsible diffusion of advanced AI in these ways has several benefits. First, it reduces the risk that countries or end users of concern obtain the most advanced AI models or the ability to develop them. Second, it will allow a fuller understanding of the risks posed by each generation of AI models and the development of safety mitigations before the most advanced model weights and largest IC clusters diffuse globally. Third, a highly focused scope on frontier AI will allow commerce in AI models and advanced ICs to continue largely unimpeded. And finally, a strategy that focuses on the physical locations of model weights and large clusters of advanced ICs will allow
+
+Frm 00005
+
+Specifically, these are destinations in which: (1) the government has implemented measures to prevent diversion of advanced technologies, and (2) there is an ecosystem that will enable and encourage firms to use advanced AI models to advance the common national security and foreign policy interests of the United States and its allies and partners. Those destinations, which are listed in paragraph (a) to Supplement No. 5 to Part 740, are Australia, Belgium, Canada, Denmark, Finland, France, Germany, Ireland, Italy, Japan, the Netherlands, New Zealand, Norway, Republic of Korea, Spain, Sweden, Taiwan, the United Kingdom, and the United States. For these destinations, this IFR makes minimal changes: companies in these destinations generally will be able to obtain the most advanced ICs without a license as long as they certify compliance with specific requirements provided in § 740.27.
+
+a data center to preapproved validated end users in destinations (other than D:5 countries) that require a license for items classified under ECCNs 3A090.a, 4A090.a, and .z items in Categories 3, 4, and 5. The Data Center VEU Authorization adopted much of the framework of the existing Authorization VEU, with additional requirements appropriate for a data center environment.
+
+the controls required a license before exporting or reexporting those items to the PRC or to certain entities on the Entity List (supplement no. 4 to part 744). BIS explained that these controls were aimed at limiting the PRC’s ability to engage in activities that would pose significant threats to U.S. national security and foreign policy. Specifically, BIS found that certain advanced computing ICs and related computing items—many of which originated in the United States or were produced with U.S. technology, software, or tools— could enable the PRC to develop certain enhanced data processing and analysis capabilities, including through AI applications. Additionally, BIS found that the capability to produce advanced computing ICs through the use of certain SME presented significant national security and foreign policy concerns. These capabilities could be used by the PRC to further its military modernization efforts; to improve calculations in weapons design and testing, including for weapons of mass destruction (WMD); and to violate human rights through comprehensive surveillance programs.
+
+Effective December 2, 2024, BIS expanded controls on advanced computing ICs that could enable AI applications of national security concern, as well as the SME, software, and technology needed to produce such ICs. Specifically, BIS imposed new controls on certain high-bandwidth memory (HBM) commodities, which are critical to AI training and inference at scale and a key component of advanced computing ICs. BIS also imposed controls on additional SME capable of producing advanced computing ICs (e.g., certain etch, deposition, lithography tools, etc.) and on software that can enhance the capabilities of such SME or can be used to design advanced computing ICs.
+
+Second, BIS makes no changes to the strict rules governing provision of these items to Country Group D:5 destinations and Macau.
+
+Third, for all other destinations—in other words, destinations that are not Macau, Country Group D:5, or those listed in paragraph (a) to Supplement No. 5 to Part 740—this rule creates a multi-part framework that takes into account the compute power of the transaction and, in certain cases, security measures agreed to by the recipient. To start, BIS is establishing a license exception for limited quantities of advanced ICs, i.e., quantities well below the amount necessary to train the most advanced AI models. This license exception can ensure that transactions not intended to contribute to the development of advanced AI models can continue unimpeded, so long as the exporter provides BIS with notice. Transactions involving larger quantities of controlled ICs will be subject to a new licensing policy that enables the export of ICs up to a specified country allocation. To provide predictability, BIS is specifying this allocation for the time period from 2025 to 2027. This licensing policy will enable end users in these destinations to develop any AI models short of the frontier, thereby allowing them to access the economic benefits of those models while simultaneously protecting the United States from the most significant threats.
+
+These previous controls reflect BIS’s determination—made in conjunction with experts from across the U.S. government—that the export of even small quantities of advanced computing ICs to specific destinations and end users of concern pose significant risks to U.S. national security and foreign policy interests. Having imposed controls that address those risks, BIS and its interagency partners have evaluated how sales of large quantities of advanced computing ICs to other destinations and end users affect U.S. national security and foreign policy. BIS has determined that it is necessary to restrict the export of quantities of advanced ICs sufficient to train such models in order to protect U.S. national security and foreign policy interests.
+
+Thereafter, in October 2023, BIS broadened the scope of advanced computing controls to cover other destinations of concern (Country Groups D:1, D:4, and D:5). Similarly, BIS imposed worldwide license requirements for certain advanced computing ICs and specified semiconductor manufacturing and supercomputing end-uses when conducted on behalf of entities headquartered in, or with an ultimate parent company headquartered in, Macau or a destination in Country Group D:5. Due to the rapid nature of technological change in AI, BIS has been closely studying these developments and updating its rules accordingly to ensure that they remain as targeted and effective as possible.
+
+To that end, this rule imposes a global license requirement for the export of advanced ICs classified under ECCNs 3A090.a, 4A090.a, and related .z items in § 742.6(a)(6)(iii)(A), and then creates several exceptions and pathways to authorization to facilitate transactions that pose a low risk of diversion or would otherwise advance U.S. national security or foreign policy interests, including technological leadership. As noted elsewhere in this rule, these provisions also are consistent with U.S. foreign policy regarding global development.
+
+BIS has also modified its controls to facilitate the export of advanced computing ICs and related items to certain end users who agree to use those items in secure ecosystems. Specifically, in October 2024, BIS expanded the Validated End-User (VEU) Authorization in § 748.15 to expand Authorization VEU for data centers 89 FR 80080, October 2, 2024. BIS explained that data centers are vital to global AI development, and that the United States is committed to facilitating international AI development in a way that minimizes risk to U.S. national security. Accordingly, BIS expanded Authorization VEU to facilitate the export or reexport of items necessary for
+
+At the same time, this rule enables entities in these destinations to gain validated status to obtain significantly larger quantities of ICs under Authorization VEU. Authorization VEU advances U.S. national security and foreign policy by allowing entities that
+
+First, this rule creates an exception in new § 740.27 for all transactions involving certain types of end users in certain low-risk destinations.
+
+Frm 00006
+
+ICs: § 740.27 License Exception AIA, § 740.28 License Exception ACM, and § 740.29 License Exception LPP. In addition, it is updating the destination scope of License Exception Advanced Compute Authorization (ACA). BIS also is updating the NAC process to facilitate more efficient processing. As part of this updated process, BIS and the interagency are seeking additional information from NAC users.
+
+the limits in 3A090.a. ECCN 4A090.b controls computers, ‘‘electronic assemblies,’’ and ‘‘components’’ containing integrated circuits, any of which meets or exceeds the limits in 3A090.b. To adopt this new control, BIS is revising the Regional Stability control in § 742.6 by amending paragraph (a)(6)(iii) and bifurcating it into paragraphs (A) and (B). Section (a)(6)(iii)(A) will implement a worldwide license requirement on 3A090.a, 4A090.a and corresponding .z commodities, software, and technology. Section (a)(6)(iii)(B) implements license requirements on 3A090.b, 4A090.b, and corresponding .z commodities, software, and technology to or within destinations specified in Country Groups D:1, D:4, and D:5, excluding destinations also specified in Country Groups A:5 or A:6. Imposition of this RS control will make License Exception GBS unavailable for 3A001.z.1.a items, because they will be subject to a worldwide license requirement that is imposed for other than national security reasons. GBS will still be available for 3A001.z.1.b items for destinations in Country Group B that are not also listed in Country Groups D:1, D:4, or D:5. Additionally, consistent with the imposition of expanded RS controls for such items, this rule removes existing LVS eligibility for all 3A001.z items to ensure they may not be exported or reexported under this license exception to destinations in Country Group B without being subject to the volume restrictions, certification requirements, and reporting requirements of the new license exceptions added for such items in this rule. (See also restrictions on license exceptions, § 740.2(a)(9)(ii).)
+
+have agreed to enact concrete, verifiable, and robust security measures to access large clusters of advanced ICs. For end users in these destinations—not Macau, Country Group D:5, or those listed in paragraph (a) to supplement no. 5 to Part 740—that do not meet eligibility criteria for the National VEU Authorization, BIS is implementing uniform default country allocations of advanced ICs. Exports and reexports of advanced ICs will be counted against these allocations starting on the effective date of this rule. These allocations will limit the risk of diversion of advanced ICs and encourage such entities to meet the conditions to qualify for VEU Authorization. In this way, Authorization VEU will also buttress U.S. foreign policy to support global development.
+
+A. New Worldwide License Requirements
+
+With this IFR, BIS establishes a worldwide license requirement for ECCNs 3A090.a, 4A090.a, and corresponding .z items in new § 742.6(a)(6)(iii)(A). A worldwide license requirement for these items, which includes those items subject to the EAR’s jurisdiction through the advanced computing foreign direct product rule (FDPR), will protect U.S. national security and foreign policy interests by allowing BIS to scrutinize any transaction that presents an elevated risk of diversion or misuse and by providing the U.S. government with visibility into the locations, end users, and end uses of advanced ICs. Further, as discussed below, diffusion of AI compute through the Data Center VEU Authorization will allow for companies around the world to benefit from allocations of AI compute in validated, protected environments.
+
+1. License Exception Artificial Intelligence Authorization (AIA)
+
+This new license exception authorizes the export, reexport, or transfer (in-country) of eligible advanced computing ICs and associated software and technology to entities located in a destination listed in paragraph (a) of supplement no. 5 to part 740, unless the entity either is headquartered outside of a destination specified in paragraph (a) of the supplement or has an ultimate parent company that is headquartered outside of a destination specified in paragraph (a) of the supplement. See § 740.27(a).
+
+To use the license exception for eligible items (e.g., 3A090.a, 4A090.a, or corresponding .z items and 4E091), the exporter, reexporter, or transferor must furnish the ECCN to the ultimate consignee. In addition, for advanced computing ICs eligible for this license exception, the exporter, reexporter, or transferor must also obtain a prior certification from the ultimate consignee and, for certain large orders, provide the certification to BIS pursuant to certain reporting requirements. For purposes of License Exception AIA, the ultimate consignee is the entity that has ownership over the eligible items. The certification must state that, without BIS authorization: (1) the items received will not be used to provide Infrastructure-as-a-Service (IaaS) access sufficient to train an AI model classified under ECCN 4E091 to entities headquartered or located outside of, or whose ultimate parent company is headquartered outside of destinations listed in paragraph (a) of supplement no. 5 to Part 740; (2) the ultimate consignee will not export, reexport, or transfer the items to any end use or end user prohibited pursuant to Part 744 of the EAR; and (3) the ultimate consignee will not export, reexport, or transfer (in-country) the items to an entity headquartered or located outside of, or whose ultimate parent company is headquartered outside of paragraph(a) of supplement no. 5 to Part 740. Once the certification is received from the ultimate consignee, and prior to the initial export, reexport, or transfer, the exporter, reexporter, or transferor must
+
+In addition to expanding the country scope of controls on ECCN 3A090.a and 4A090.a items, BIS is also expanding the destination scope of the advanced computing foreign direct product rule in § 734.9(h)(2)(i). BIS is replacing references to Country Groups D:1, D:4, and D:5 and exclusions of A:5 and A:6 with the word ‘‘worldwide.’’ Accordingly, the language now provides that a foreign-produced item meets the destination scope of this paragraph (h)(2) if there is ‘‘knowledge’’ that the foreign-produced item is destined worldwide or will be incorporated into any ‘‘part,’’ ‘‘component,’’ ‘‘computer,’’ or ‘‘equipment’’ not designated EAR99 to any destination worldwide.
+
+ECCN 3A090.a controls integrated circuits with one or more digital processing units having either: (1) a ‘total processing performance’ of 4800 or more; or (2) a ‘total processing performance’ of 1600 or more and a ‘performance density’ of 5.92 or more. ECCN 3A090.b controls integrated circuits with one or more digital processing units having either: (1) a ‘total processing performance’ of 2400 or more and less than 4800 and a ‘performance density’ of 1.6 or more and less than 5.92; or (2) a ‘total processing performance’ of 1600 or more and a ‘performance density’ of 3.2 or more and less than 5.92.
+
+B. License Exceptions for 3A090, 4A090, Corresponding .z Items, and 4E091
+
+ECCN 4A090.a controls computers, ‘‘electronic assemblies,’’ and ‘‘components’’ containing integrated circuits, any of which meets or exceeds
+
+With this rule, BIS is adding three new license exceptions to the EAR that will be applicable to advanced compute
+
+Frm 00007
+
+transaction will not result in the ultimate consignee exceeding the TPP limit. The exporter or reexporter must also provide this certificate to BIS within 30 days of the date on which the export or reexport of eligible items occurs. Cumulative TPP is the total amount of TPP of the eligible commodities in paragraph (b) of § 740.29 that are provided to the ultimate consignee in all shipments by all exporters and reexporters in a calendar year under License Exception LPP. Pursuant to paragraph (g), the exception also provides that ultimate consignees receiving eligible items under License Exception LPP must notify BIS once they have received a cumulative total of 26,900,000 TPP in a calendar year. Under paragraph (g), the exception also provides that the exporter must notify BIS of all shipments under the exception with an aggregate TPP of more than 3,200,000.
+
+out, of the facility. Such accounting should be done for each facility, with records updated every six months or more frequently. This license exception is intended to minimize the impact of this rule on supply chains.
+
+submit the certification to EARReports@ bis.doc.gov with the Subject AIA Certification. The ultimate consignee must also submit the certification to the exporter, reexporter, or transferor. The certification is a one-time certification provided by each ultimate consignee that will be using License Exception AIA. With each shipment under License Exception AIA, the exporter, reexporter, or transferor, must notify the ultimate consignee in writing that: (1) the shipment is being made pursuant to License Exception AIA; (2) specify which items are subject to License Exception AIA or state that the entire shipment is made pursuant to License Exception AIA; and (3) it has certified to the certification in § 740.27(b)(2). This reporting requirement is only applicable if the ultimate consignee is receiving items identified in paragraphs (a)(1) with a cumulative total processing performance (TPP) of 253,000,000.
+
+3. License Exception Low Processing Performance (LPP)
+
+New License Exception LPP, set forth in new § 740.29, authorizes the export and reexport of low amounts of compute that do not present significant national security risks, up to 26,900,000 Total Processing Performance (TPP) of advanced computing ICs per-calendar year to any individual ultimate consignee. For purposes of this license exception, ultimate consignee means the entity that has ownership over the items. This license exception is available to exporters or reexporters who export or reexport eligible items (ECCNs 3A001.z.1.a, z.2.a, z.3.a, z.4.a; 3A090.a; 4A003.z.1.a, z.2.a; 4A004.z.1; 4A005.z.1; 4A090.a; 5A004.z.1.a, z.2.a; and 5A992.z.1) directly to ultimate consignees in eligible destinations. It is not available for exports or reexports made through distributors or for in-country transfers. Eligible destinations are those located outside of destinations in Country Group D:5 or Macau, provided the ultimate consignee is not headquartered in, and does not have an ultimate parent company headquartered in, Macau or Country Group D:5. In addition, the license exception cannot be used to export or reexport to prohibited end uses or end users in part 744 of the EAR. The license exception provides for an annual TPP volume restriction on LPP orders set forth in paragraph (d) of the new license exception. The total TPP volume of exports and reexports per calendar year by all exporters and reexporters to any individual ultimate consignee may not exceed the 26,900,000 TPP volume limit; however, there is no restriction on the number of shipments from any exporters or reexporters, provided the volume limit is not exceeded. This annual TPP limit applies to shipments to any individual ultimate consignee even if the shipments are made by multiple exporters or reexporters or through more than one intermediate consignee. Before using License Exception LPP, under paragraph (f) of new § 740.29, the exporter or reexporter must obtain a certification from the ultimate consignee that the ultimate consignee has not received a cumulative of 26,900,000 TPP during the relevant calendar year under License Exception LPP from all exporters and reexporters and that the requested TPP for the specific
+
+2. License Exception Advanced Compute Manufacturing (ACM)
+
+New License Exception ACM authorizes the export, reexport, and transfer (in-country) of eligible items (ECCNs 3A090, 4A090, and related .z commodities, software, and technology) to a ‘private sector end user’ that is located in a destination not listed in Country Group D:5 or Macau, provided it is not headquartered in and does not have an ultimate parent company headquartered in Macau or a destination specified in Country Group D:5, if the ultimate end use is the ‘‘development,’’ ‘‘production,’’ or storage (in a warehouse or other similar facility) of such eligible items. An entity may not use this exception if the ultimate end use of the items is training an AI model or any other activity not related to the ‘‘development,’’ ‘‘production,’’ or storage (in a warehouse or other similar facility) of such eligible items. For the purposes of this license exception, ‘private sector end user’ is an individual who is not acting on behalf of any government (other than the U.S. government); or a commercial firm (including its subsidiary and parent firms, and other subsidiaries of the same parent) that is not wholly owned by, or otherwise controlled by any government (other than the U.S. government). The items produced must be ultimately destined to customers outside of Macau or destinations specified in Country Group D:5. Although License Exception ACM shipments do not count toward country caps, exporters, reexporters, and transferors must maintain a system of distribution that allows them to account for the number of controlled items transferred to, and subsequently
+
+4. Updates to License Exception Notified Advanced Computing and Advanced Computing Authorized for ECCNs 3A090, 4A090, and Corresponding .z Items
+
+Currently, under § 740.8(a), License Exceptions Notified Advanced Computing (NAC) and Advanced Computing Authorized (ACA) are available for items classified in ECCNs 3A090, 4A090, 3A001.z, 4A003.z, 4A004.z, 4A005.z, 5A002.z, 5A004.z, 5A992.z, 5D002.z, or 5D992.z, except for items designed or marketed for use in a data center and meeting the parameters of 3A090.a. License Exception NAC authorizes the export and reexport of specified items to Macau and destinations specified in Country Group D:5 and entities headquartered in, or with an ultimate parent headquartered in, Macau or a destination specified in Country Group D:5 wherever located, that require a notification to BIS. License Exception ACA authorizes the export and reexport of any item classified in ECCN 3A090, 4A090, 3A001.z, 4A003.z, 4A004.z, 4A005.z, 5A002.z, 5A004.z, 5A992.z, 5D002.z, or 5D992.z (except for items designed or marketed for use in a datacenter and meeting the parameters of 3A090.a) to or within any destination specified in Country Groups D:1 and D:4 (except Macau, a destination in Country Group D:5, or an entity headquartered in, or with an ultimate parent headquartered in, Macau or a destination specified in Country Group D:5, wherever located), as well as transfers (in-country) within Macau and destinations in Country Group D:5. The destination scope of License Exception ACA in § 740.8(a) is amended by striking to D:1 or D:4 and
+
+Frm 00008
+
+advanced compute, both the advanced compute owner and the advanced compute operator must have a VEU authorization.
+
+memory bandwidth of the item(s) requested; and (3) whether the items are destined to be aggregated into a datacenter or computing cluster, and, if so: (i) the computing power of the computing cluster, measured in the aggregate TPP of all chips used in the cluster once the cluster is complete; and (ii) whether the cluster will be (a) exclusively for internal use by a company headquartered in the United States or a member of Country Group A:5 or A:6, or (b) used by any other companies not headquartered in A:5 or A:6, or by external parties such as through cloud services.
+
+replacing with ‘‘any destination worldwide.’’ Accordingly, the regulatory text now states, ‘‘to or within any destination worldwide (except Macau, a destination specified in Country Group D:5, or an entity headquartered in, or with an ultimate parent headquartered in, Macau or a destination specified in Country Group D:5, wherever located), as well as transfers (in-country) within Macau and destinations specified in Country Group D:5’’.
+
+In addition to the changes to License Exception ACA, BIS is amending the NAC notification procedures by seeking additional information as set forth in § 740.8(c). License Exception NAC established a notification process for exports and reexports to Macau or destinations specified in Country Group D:5 to provide BIS and interagency partners the opportunity to evaluate the national security risk posed by ICs that fall within this parameter. Since initial implementation, BIS and its interagency partners have revisited NAC to implement a faster internal review process. Specifically, during the evaluation process, interagency partners will be reviewing: (1) whether the export is NAC eligible; (2) whether the end-user has ties to a military or intelligence organization that prompt national security or human rights concerns; (3) if the technical parameters of the ICs are >2800 TPP or if the ICs have >1,000 GB/s memory bandwidth; (4) whether the ICs will be aggregated with other ICs into a datacenter cluster, or be used as a sample or in a standalone configuration (e.g., workstation); (5) if the ICs are going into the datacenter, the size of the data center; and (6) if the ICs will be used internally by a company headquartered in the United States or a company headquartered in Country Group A:5 or A:6. Exporters and reexporters utilizing License Exception NAC must provide this information to ensure efficient processing. BIS believes the use of this new review criteria will result in overall faster processing of all NAC notifications, as well as a greater percentage of NAC notifications being approved during the initial review period.
+
+As specified in paragraph 6 of Supplement No. 10 to Part 748, all UVEUs will be subject to limitations on where they can geographically allocate their AI computing power, measured by the aggregate TPP of chips that meet or exceed the scope of ECCN 3A090.a. Specifically, a UVEU headquartered in a country listed in paragraph (a) to Supplement no. 5 to Part 740 cannot transfer or install more than 25% of its total AI computing power—i.e., the AI computing power owned by the entity all its subsidiary and parent entities—to or in locations outside of countries listed in paragraph (a) to Supplement No. 5 to Part 740, and cannot transfer or install more than 7% of its total AI computing power to or in any single country outside of those listed in paragraph (a) to Supplement No. 5 to Part 740. Additionally, a UVEU headquartered in the United States cannot transfer or install more than 50% of its total AI computing power outside of the United States.
+
+C. Data Center Validated End-Users (DC VEUs): Universal and National VEUs
+
+In October 2024, BIS amended the EAR to expand Authorization VEU to include Data Center VEU (DC VEU). As noted in that rule, data centers play a vital role in global AI development, and the United States is committed to facilitating international AI development in a way that minimizes risk to national security. With this rule, BIS further expands the DC VEU Authorization by bifurcating it into a universal VEU (UVEU) and a national VEU (NVEU) Authorization. Companies headquartered in, or whose ultimate parent is headquartered in destinations specified in paragraph (a) of supplement no. 5 to part 740 may apply for the UVEU Authorization. With certain limitations, companies headquartered in, or whose ultimate parent is headquartered in, all destinations worldwide except Macau or destinations specified in Country Group D:5, that would like to qualify for exports, reexports, or transfers (in-country) of large amounts of advanced computing integrated circuits, may apply for the NVEU Authorization.
+
+For all NVEUs, as described in new paragraph (a)(2)(iii)(B) of § 748.15, a percompany, per-country installed base allocation of TPP, as measured by the collective computing power of items subject to ECCNs 3A090.a, 4A090.a, or corresponding .z paragraphs, will apply as follows:
+
+Cumulative TPP
+
+per-company
+
+Quarter
+
+per-country
+
+allocation
+
+2025 Q1 ............................ 633,000,000 2025 Q2 ............................ 949,500,000 2025 Q3 ............................ 1,266,000,000 2025 Q4 ............................ 1,582,500,000 2026 Q1 ............................ 1,899,000,000 2026 Q2 ............................ 2,690,250,000 2026 Q3 ............................ 3,481,500,000 2026 Q4 ............................ 4,272,750,000 2027 Q1–4 ........................ 5,064,000,000
+
+BIS recognizes that advanced compute data centers (DCs) may involve corporate relationships in which different parties own the data center, provide physical security, own the advanced compute assemblies, provide logical security, and are able to access the compute. To clarify the September 2024 DC VEU rule, BIS notes that the party that has ownership of the advanced compute should submit the DC VEU application. If such party cannot directly certify to all of the application information requested in § 748.15, it must inform BIS of the identities of other entities involved in the DC operations. Applicants may be required to obtain written assurances from those other entities during the application review process. If the operator of the advanced compute is different from the owner of the
+
+Moreover, to deploy this process, BIS is amending § 740.8(c) to add the following to the existing list of required information: (1) all NAC and license approvals to the end-user in the past 12 months under ECCN 3A090, 4A090, 3A001.z, 4A003.z, 4A004.z, 4A005.z, 5A002.z, 5A004.z, 5A992.z, 5D002.z, or 5D992.z (except for items designed or marketed for use in a datacenter and meeting the parameters of 3A090.a); (2)
+
+These TPP allocations were identified through an extensive analysis of the size of AI compute clusters necessary to train the largest AI models, and the rate at which those clusters are likely to grow over the next three years. These allocations represent clusters approximately 12 months, or one generation, behind the cluster size BIS believes will be needed to train the most advanced dual-use AI models. By providing a three-year roadmap, BIS aims to give predictability to industry while reducing the risks posed by the unchecked proliferation of the most advanced AI models and largest clusters
+
+Frm 00009
+
+Authorization, the traditional license application process is available under part 748 of the EAR.
+
+notify BIS 180 days prior to any exports, reexports, or transfers (in-country) to the new DC so that the EAR may be updated to include the new location(s). This notification will allow BIS to update supplement no. 7 to part 748 with the new data center’s address to notify exporters and reexporters of the UVEU location address that can receive exports and reexports under this authorization. The UVEU may choose whether to list a corporate address or a physical address of the new data center location. Otherwise, or in the period between notification to BIS and EAR amendment, UVEUs may furnish their BIS authorization letters to exporters and reexporters to enable continuity of exports and reexports to the new country and/or new DC.
+
+at any given time. These TPP allocations represent permitted cumulative installed base during a given quarter, not newly available TPP in addition to previous-quarter installed bases, and do not count towards or impact country allocations. Additionally, multiple NVEUs may operate in a single country, with each NVEU subject to the quarterly allocations above. Advanced computing ICs that suffer attrition due to factors such as loss, damage, failure, relocation, and resale will no longer count toward allocations. BIS is not identifying specific TPP allocations for future years at this time given the evolving nature of national security requirements, the geopolitical landscape, and the AI industry.
+
+Together with the Departments of State, Energy, and Defense, BIS will review allocations for subsequent years on an annual basis to determine future allocations.
+
+As explained in additional detail below, BIS is instituting specific country allocations of total processing performance (TPP) in new paragraph (b)(10) of § 742.6. As with Authorization VEU allocations, exports and reexports of advanced ICs will be counted against the following country allocation beginning on the effective date of this rule. From 2025 to 2027, countries will be subject to a cumulative maximum installed base allocation of 790,000,000 TPP. This TPP allocation represents permitted cumulative installed base for the entire period to and inclusive of 2027. Advanced computing ICs that suffer attrition due to factors such as loss, damage, failure, relocation, and resale will no longer count toward the allocation.
+
+A. Data Center VEU: National Validated End-User
+
+A National Validated End-User (NVEU) Authorization is available to all entities headquartered in or located in a destination in Country Groups A, B, or D:1–D:4, except Macau or destinations specified in Country Group D:5, as described in revised § 748.15(b)(2). New paragraph (a)(2)(iii) of § 748.15 describes the requirements to obtain an NVEU. In order to receive NVEU Authorization, a data center operator that owns its advanced computing capacity must apply to BIS and go through an intensive application process that will be subject to interagency review. Information required to be submitted to become a VEU is described in supplement no. 8 to part 748, some provisions of which are revised by this rule, including an update to paragraph (B)(2) of the supplement to require information about business activities and corporate relationships with government or military organizations in Macau and destinations specified Country Group D:5, e.g., direct sales to or contracts with such entities.
+
+1. Data Center VEU: Universal Validated End User
+
+The UVEU Authorization is available to companies headquartered in the countries listed in paragraph (a) to supplement no. 5 to Part 740. As described in new paragraph (a)(2)(ii)(A) of § 748.15, under the UVEU Application Overview, the UVEU Authorization provides the data centers that own their advanced computing capacity with a single authorization that will allow a UVEU to build DCs around the world, except in Macau or destinations specified in Country Group D:5, provided that the UVEU maintains its status by following the guidelines in supplement no. 10 to part 748. The UVEU is responsible for ensuring it complies with the applicable AI TPP geographic allocations. To receive UVEU status, a DC that owns its advanced computing capacity must certify that it will follow the guidelines outlined in supplement no. 10 to part 748 and go through an intensive application process. As previously noted, if the owner of the advanced compute cannot directly certify to all of the application information requested in § 748.15, it must include in its VEU application to BIS the identities of other entities involved in the DC operations. Through this process, BIS and its interagency partners will be able to assess whether the UVEU applicant meets the guidelines and resolve national security concerns.
+
+Accordingly, license applications for 3A090.a, 4A090.a, or corresponding .z items must be accompanied by a purchase order or equivalent firm contractual agreement reflecting the actual volume amount that the applicant seeks to export, reexport, or transfer (in-country). The purchase order requirement is found in paragraph (c) of supplement no. 2 to part 748. The purchase order must be for the fulfilment of actual items to be sold, although it may be contingent on license approval. In addition, licenses for these items generally will carry a one-year validity period during which the items must be exported, re-exported, or transferred (in country), pursuant to the revision to § 750.7(g) made in this rule. Should a lengthier validity period be required, such information must be provided with the license application or a request for extension must be filed in accordance with § 750.7(g)(1) or (2).
+
+BIS is not identifying specific TPP allocations for future years at this time given the evolving nature of national security requirements, the geopolitical landscape, and the AI industry.
+
+Approved applicants for the NVEU Authorization will be listed in the EAR as NVEUs in supplement no. 7 to part 748. This listing will serve to notify exporters and reexporters that the NVEU location can receive exports and reexports under this authorization. The NVEU may choose whether to list a corporate address or a physical address of the new data center location. NVEUs will be subject to the cumulative TPP allocations identified above.
+
+Approved applicants for the UVEU authorization will be listed in the EAR as UVEUs along with each authorized address identified in the UVEU application. As new DCs are brought online by the UVEU, it is required to
+
+D. License Applications
+
+Together with the Departments of State, Energy, and Defense, BIS will review allocations for subsequent years on an annual basis.
+
+1. Revision of License Review Policy
+
+To implement the new license review policy for § 742.6(a)(6)(iii)(A), BIS is updating the license review policy in § 742.6(b)(10). Section 742.6(b)(10)(iii)(A)(1) provides that a presumption of denial will apply to applications for Macau, destinations specified in Country Group D:5, and any entity headquartered in, or whose ultimate parent is headquartered in,
+
+For transactions that do not meet the terms and conditions for use of license exceptions, and for which the end user does not participate in the DC VEU
+
+Frm 00010
+
+be the most valuable and closely guarded elements of an AI model.
+
+purchase orders provided in license applications to track fulfillment of country allocations and will provide timely updates to the public on these allocations in aggregate at http:// www.bis.gov/advanced-computeresources.
+
+Macau or a destination specified in Country Group D:5.
+
+For end users headquartered or located in destinations listed in paragraph (a) of supplement no. 5 to Part 740, license applications will be reviewed under a presumption of approval under new § 742.6(b)(10)(iii)(A)(2).
+
+Given the importance of model weights to the functioning of advanced AI models, BIS has determined that, in order to protect U.S. national security and foreign policy interests, it is necessary to impose a global licensing requirement on the model weights of the most advanced AI models. Even if countries and end users of concern are able to obtain or reverse engineer the other elements of an advanced AI model—e.g., the architecture or ancillary code—those actors will be unable to use the model for activities that threaten U.S. national security and foreign policy unless they have the corresponding model weights. And crucially, they will not be able to train their own model weights unless they have access to thousands of advanced computing ICs. Thus, by imposing global controls on the model weights of the most advanced AI models, BIS will make it significantly more difficult for countries and end users of concern to access those models and their functions.
+
+2. Information Required in License Application
+
+Under certain circumstances when destination governments assure the U.S. Government of a commitment to protect advanced computing ICs consistent with U.S. national security interests, these TPP allocations may be increased up to 100% for a given destination. Once the U.S. Government has determined that a country has provided appropriate national security assurances, BIS will list that country in paragraph (b) to supplement no. 5 to Part 740. In such a case, the licensing policies pursuant to new § 742.6(b)(10)(iii)(B), would apply with an upward adjustment to country TPP allocations. While the U.S. Government—led by the Departments of State and Commerce—may pursue such government-to-government assurances independently to advance U.S. national security and foreign policy interests, in cases where BIS has not applied an allocation increase to a particular destination, license applicants seeking an upward departure from country TPP allocations should identify such interest in their license applications, along with the contact information for appropriate foreign government officials with whom BIS and interagency partners should engage on such assurances.
+
+Applicants are required to submit the total aggregated TPP volume of each export item on their license application. This information, consistent with new paragraph (c)(4) in supp. no. 2 to Part 748, should be included in block 22(j) in SNAP–R. If applicants are submitting a license for items destined to a country that is subject to a per-country TPP allocation, the applicant must fill out an individual license for each country and calculate the TPP per individual country. Applicants must submit relevant purchase orders and are encouraged to include additional information to support their TPP calculation in their Letter of Explanation (LOE). Calculate the aggregate TPP for each export item by adding the TPP for each integrated circuit. For additional information on calculating TPP, please refer to the Technical Notes to 3A090.
+
+In conjunction with technical experts from across the U.S. government, BIS has determined that a reasonable proxy for the performance of an AI model is the amount of compute—i.e., the number of computational operations— used to train the model. This determination is supported by empirical evidence compiled by leading AI researchers, which shows that the performance of an AI model depends in large part on the number of parameters in the model, the size of the dataset used to train the model, and the amount of compute used to train the model. Although there is disagreement about whether it is more important to maximize the number of parameters or the size of the dataset, there is a general consensus that, given a fixed model architecture, the amount of compute positively correlates with the performance of the model. Accordingly, at the outset of the training process, developers of advanced AI models set a ‘‘compute budget,’’ i.e., a fixed number of operations on which the model will be trained. It is possible, however, that better measures of model capabilities may become available over time. BIS will consider alternative approaches as they become available.
+
+### III. Overview of New Controls for AI
+
+Model Weights
+
+As of the effective date of this rule on January 13, 2025, in addition to expanding its controls on advanced computing ICs, BIS is imposing new controls on the model weights of the most advanced AI models. Model weights are ‘‘numerical parameter[s] within an AI model’’ that ‘‘help determine the model’s outputs in response to inputs.’’ Executive Order 14110 on the Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence. An AI model that lacks trained model weights produces meaningless outputs. Additionally, the developers of the most advanced AI models typically incorporate technical safeguards that help to prevent applications based on the model, such as chatbots or those served through APIs, from completing certain dangerous tasks, such as assisting in the development of nuclear, chemical, biological, or cyber weapons. With access to the model weights, it is easier to remove these safeguards. Model weights for advanced AI models can, moreover, be produced only by training the model on vast quantities of data using thousands of advanced computing ICs over a period of several months or more. Accordingly, model weights can
+
+For end users headquartered, or whose ultimate parent is headquartered, outside of destinations listed in paragraph (a) or (b) of supplement no. 5 to Part 740, Macau, and Country Group D:5, license applications for 3A090.a, 4A090.a, and corresponding .z items will be subject to a presumption of approval up to specific country allocations in TPP, as described in new § 742.6(b)(10)(iii)(B)(1). BIS will calculate progress toward country allocations by totaling the TPP of 3A090.a, 4A090.a, and corresponding .z items licensed to each destination in a given calendar year. When country allocations have been met for a specific country, licenses will be reviewed under a policy of denial, consistent with new § 742.6(b)(10)(iii)(B)(2).
+
+Together with the Departments of State, Energy, and Defense, BIS will review allocations for subsequent years on an annual basis. Moreover, absent regulatory changes, the licensing policies outlined in § 742.6(a)(6)(iii) will continue to apply.
+
+To keep the public informed on country allocations, BIS will use
+
+Using this measure, BIS is requiring a license to export, reexport, or transfer (in-country) the model weights of any closed-weight AI model—i.e., a model with weights that are not published— that has been trained on more than 1026 computational operations. Because the model weights of models trained with fewer than 1026 computational
+
+Frm 00011
+
+of closed-weight models trained using more than more than 1026 computational operations.
+
+operations are already stored at locations across the globe, and such models are available from foreign sources, imposing controls on such models would be ineffective. These models have shown concerning capabilities, however, and technical experts from across the U.S. government agree that the next generation of models—i.e., those trained on 1026 computational operations—will significantly reduce the barriers to enabling activities that threaten U.S. national security and foreign policy. To ensure that the licensing process consistently accounts for the risks associated with the most advanced AI models, BIS has decided to apply a presumption of denial review policy (implemented in § 742.6(a)(12)) to every license application involving the model weights of those models. This policy is necessary for two interrelated reasons. First, the potential risks to U.S. national security from even one case of diversion are extreme. For example, if a terrorist organization were to obtain the model weights of an advanced AI model, it could potentially gain permanent access to the full range of capabilities of that model. Second, because model weights can be stored, copied, and transferred using basic computer technologies, the risk of diversion is elevated. And if a particular set of model weights is diverted even once, it would be difficult to prevent further dissemination across the world. Accordingly, BIS must scrutinize every license application involving model weights to ensure that the end user does not present a risk of diversion and has adequate security measures in place. A presumption of denial review policy can ensure this consistent level of scrutiny.
+
+beneficial activities can do so. This includes small, independent research groups that are seeking to research model safety and trustworthiness, as well as defenses against AI risk, such as cyberattacks. It also includes small commercial entities that are pursuing applications of AI models that require expertise not possessed by leading AI developers; for example, many of the premier foreign language translation applications have been developed by small entities using open-weight models. Wide availability also allows governments and independent researchers to assess the risks posed by these models and develop mitigations. By comparison, the actors that can take advantage of the capabilities of ‘‘closed weight’’ models—i.e., models with weights that have not been made publicly available—are the original developer, actors who negotiate directly with original developers or deployers, and malicious actors that have stolen the weights. In practice, the most advanced closed weight models are, BIS assesses, closely held by their developers.
+
+As with advanced computing ICs, however, BIS is providing a license exception (License Exception AIA, implemented in new § 740.27) for the export or reexport of model weights to certain end users in certain destinations. As discussed, BIS and its interagency partners have identified a set of destinations where (1) the government has implemented measures with a view to preventing diversion of advanced AI technologies, and (2) there is an ecosystem that will enable and encourage firms to use advanced AI models activities that may have significant economic benefits. Those destinations, which are listed in paragraph (a) to Supplement No. 5 to Part 740, are Australia, Belgium, Canada, Denmark, Finland, France, Germany, Ireland, Italy, Japan, Netherlands, New Zealand, Norway, Republic of Korea, Spain, Sweden, Taiwan, the United Kingdom, and the United States. For end users headquartered in these destinations, listed in paragraph (a) of supplement no. 5 to Part 740, BIS is providing a license exception for export or reexport to entities located in all destinations except Macau and those in Country Group D:5. However, exporters and reexporters may not take advantage of this exception unless they ensure that the end user has instituted specific security measures that will reduce the risk of diversion, specified in paragraphs 14, 15, and 18 of supplement no. 10 to Part 748.
+
+Accordingly, BIS and its interagency partners are not today imposing controls on open-weight models. BIS also recognizes that users of open-weight models may need to perform additional training operations to fine tune open-weight models for beneficial uses. Accordingly, this IFR makes clear that training an open-weight model with a relatively small amount of additional computational operations does not subject that model to BIS’s controls. But as noted in the National Telecommunications and Information Administration’s report ‘‘Dual-Use Foundation Models with Widely Available Model Weights’’ published on July 30, 2024, the U.S. Government will continue to actively monitor risks that could arise from open-weight models and assess what actions might need to be taken if heightened risks emerge.
+
+Additionally, BIS is not imposing controls on the model weights of open-weight models. At present, there are no open-weight models known to have been trained on more than 1026 computational operations. Moreover, Commerce and its interagency partners assess that the most advanced open-weight models are currently less powerful than the most advanced closed-weight models, in part because the most advanced open-weight models have been trained on less computing power and because proprietary algorithmic advances have allowed closed-weight model developers to produce more advanced capabilities with the same computational resources. BIS has also determined that, for now, the economic and social benefits of allowing the model weights of open-weight models to be published without a license currently outweigh the risks posed by those models. Specifically, making model weights open ensures that many actors seeking to use the models for economically and socially
+
+In addition to applying to U.S.-origin model weights, this licensing requirement applies to the model weights of certain closed-weight models produced in foreign destinations. As discussed, training an AI model on more than 1026 computational operations is not possible without advanced computing ICs and other related advanced computing items. BIS has found that many foreign entities that are training advanced AI models or intend to train such models are using advanced computing ICs and related items that were directly produced with U.S. technology. To reduce the risk that such U.S. technology contributes to models that are diverted to malicious actors and used for activities that threaten U.S. national security and foreign policy interests, this IFR creates a new Foreign Direct Product (FDP) rule (implemented in new § 734.9(l)) for the model weights
+
+To reduce the economic impact on developers of closed models, BIS will also not require a license for the export, reexport, or transfer (in-country) of the model weights of closed models that are less powerful than the most powerful open-weight model (as determined by the AI Safety Institute and the U.S. Department of Energy). Because the model weights of the most powerful open-weight model will be available to all entities across the world, any entity seeking to use advanced AI models for activities that threaten U.S. national security and foreign policy will have no incentive to divert the model weights of less powerful closed models.
+
+Frm 00012
+
+foreign policy risk associated with the production of AI model weights outside of the United States, this rule applies a new Foreign Direct Product Rule (FDPR) in § 734.9(l). Under this new AI model weights FDPR, an item classified under new ECCN 4E091 is subject to the EAR based on product scope criteria to any location, worldwide. License requirements and license review policy are the same as those for ECCN 4E091, meaning that a license is not necessarily required just because this new FDPR establishes jurisdiction over the model. The applicable license requirements depend on the license requirements for 4E091 items, as well as end use and end user license requirements described in part 744 of the EAR.
+
+United States or a destination specified in paragraph (a) of supplement no. 5 to Part 740.
+
+In sum, BIS’s new controls for the model weights of the most advanced AI models reflects both BIS’s focus on the risks posed by the frontier of AI development and BIS’s expectation that increasingly powerful models will continue to be available from foreign sources, rendering controls on general purpose models behind the frontier ineffective. BIS’s controls will assist in the responsible management of the risks to national security and public safety posed by technological development at the frontier by ensuring that such models are diffused more broadly in a structured, staged manner. Additionally, restricting the export of model weights, while allowing access to the most advanced AI models through other methods, such as application programming interfaces, can unlock the beneficial uses of AI for users across the world while mitigating the national security and public safety risks posed by these models. Below, BIS explains its controls in more detail.
+
+As explained above, ECCN 4E091 excludes from the control any open-weight models. Note 1 to the ECCN states that ECCN 4E091 does not control the ‘parameters’ of any artificial intelligence model that has been ‘‘published’’ as defined in § 734.7(a), or that were subject to additional training ‘operations’ applied to ‘‘published’’ ‘parameters,’ such that the additional training ‘operations’ constitute no more than 2x1025 ‘operations’ or no more than 25 percent of the training ‘operations’ defined in Note 2, whichever is higher. ECCN 4E091 also excludes from the control models that are less powerful than the most powerful open-weight model (as determined by the AI Safety Institute and the U.S. Department of Energy). Note 2 to the ECCN states that ECCN 4E091 does not control the ‘parameters’ of any artificial intelligence model trained utilizing fewer ‘operations’ than the number needed to train an artificial intelligence model as capable, according to an aggregate of widely used benchmarks, as the most advanced artificial intelligence model that has been ‘‘published’’ as defined in § 734.7(a) of the EAR.
+
+A. AI Model Weights Technology Controls
+
+In the Commerce Control List (CCL), this rule adds new ECCN 4E091 for ‘parameters’ for advanced AI models, which are defined as having been trained utilizing 1026 or more ‘operations.’ ‘Parameters’ refers to any value learned during training (e.g., network weights, biases, etc.). ‘Operations’ include any subsequent training, such as fine-tuning the pre-trained model, but does not include the collection and curation of the input training data.
+
+To meet the new FDPR’s product scope, the 4E091 item must be produced by a complete plant or ‘major component’ of a plant that is located outside the United States, when the complete plant or ‘major component’ of a plant, whether made in the United States or a foreign country, is subject to the EAR and specified in ECCN 3A001.z, 3A090, 4A003.z, 4A004.z, 4A005.z, 4A090, 5A002.z, 5A004.z, or 5A992.z. The ICs, servers, and other electronic equipment described in those ECCNs, which would be considered ‘major components’ of a plant under this FDPR, are critical to producing model weights specified in 4E091. The FDPR also includes a note specifying that ECCN 4E091 includes any foreignproduced item that is further trained, including through techniques that follow on initial training, such as fine-tuning and quantization. Thus, the use of items not specified in ECCN 3A001.z, 3A090, 4A003.z, 4A004.z, 4A005.z, 4A090, 5A002.z, 5A004.z, or 5A992.z to conduct further training of a foreignproduced 4E091 item would not impact whether the 4E091 item is subject to the EAR.
+
+As described in Note 2 to ECCN 4E091, to determine if an AI model is excluded from ECCN 4E091, an exporter may either self-classify its model or obtain guidance from BIS. Self-classification may rely on guidance published on BIS’s website http:// www.bis.gov/advanced-computeresources or a technical opinion issued by the U.S. AI Safety Institute and the Department of Energy. For a BIS classification, exporters should submit a classification request in accordance with the procedures in §§ 748.1 and 748.3 of the EAR.
+
+This ECCN is controlled for regional stability (RS) reasons for exports, reexports, and transfers (in-country) to and within all destinations worldwide through new § 742.6(a)(13). The ECCN is also controlled for anti-terrorism (AT) reasons when destined to a country that has an AT:1 license requirement (i.e., Iran in § 742.8, Syria in § 742.9, or North Korea in § 742.19). See also parts 744 and 746 of the EAR for additional controls. License applications for items controlled under this RS control will be reviewed under a presumption of denial for all destinations other than those listed in paragraph (a) of supplement no. 5 to part 740, as established in new § 742.6(b)(14) of the EAR. License applications for destinations listed in paragraph (a) of supplement no. 5 to part 740 will be reviewed under a presumption of approval. The license requirements in § 742.6(a)(13) do not apply to deemed exports or deemed reexports for persons employed by entities headquartered in or with an ultimate parent headquartered in the
+
+B. Foreign-Direct Product Rule for AI Model Weights
+
+C. License Exception Eligibility for AI Model Weights
+
+As described above, access to the model weights of advanced AI models may enable malicious actors to advance military end uses, develop WMD, the deploy offensive cyber operations, and carry out human right abuses. Direct access to the model weights may, for example, enable malicious actors to use the model to provide step-by-step instructions for the creation of chemical or biological weapons, or to develop AI agents capable of conducting advanced cyberattacks. This risk applies with equal force to model weights produced outside the United States using U.S. technology as it does to model weights produced inside the United States. To address the national security and
+
+The only license exception available for new ECCN 4E091 is newly-created License Exception AIA in § 740.27. License Exception AIA authorizes the export, reexport, and transfer (in-country) of ECCN 4E091 to entities located within the destinations listed in paragraph (a) of supplement no. 5 to Part 740. This license exception also authorizes the export, reexport, and transfer (in-country) of AI model weights, including the most advanced AI models specified in ECCN 4E091, to entities headquartered in, or whose ultimate parent company is headquartered in, the destinations listed in paragraph (a) of supplement no. 5 to
+
+Frm 00013
+
+of reducing costs, harmonizing rules, and promoting flexibility.
+
+BIS encourages exporters, reexporters, and transferors, as well as IaaS providers serving domestic customers, to take additional steps as part of their compliance programs to determine whether the model weights in question will be exported, reexported, or transferred to a destination subject to a license requirement and, if so, either to apply for a license or inform their customers of the obligation to do so prior to export.
+
+Part 740 and located in any destination other than Macau or destinations listed in Country Group D:5. As discussed below, License Exception AIA also is available for certain eligible commodities, software, and technology. License Exception AIA cannot be used to export, reexport or transfer (in-country) ECCN 4E091 or other specified ECCNs to an entity headquartered outside of, or whose ultimate parent company is headquartered outside of, a destination specified in paragraph (a) of supplement no. 5 to Part 740.
+
+### IV. New Definition
+
+This interim final rule has been designated a ‘‘significant regulatory action’’ under section 3(f) of Executive Order 12866, as amended by Executive Order 14094.
+
+2. Notwithstanding any other provision of law, no person is required to respond to, nor shall any person be subject to a penalty for failure to comply with, a collection of information subject to the requirements of the Paperwork Reduction Act of 1995 (44 U.S.C. 3501 et seq.) (PRA), unless that collection of information displays a currently valid Office of Management and Budget (OMB) Control Number. Although this rule makes important changes to the EAR for items controlled for national security reasons, BIS believes that the overall increases in burdens and costs associated with the following information collections due to this rule are estimated to increase the number of submissions by 800 which is not expected to exceed the current approved estimates.
+
+Section 772.1 is amended by adding a definition for ‘‘model weights.’’ This term is added to § 772.1 to assist the public to easily find the definition, because it is used in multiple parts of the EAR.
+
+D. Red Flag Guidance on AI Model Weights
+
+In supplement no. 3 to part 732— BIS’s ‘‘Know Your Customer’’ Guidance and Red Flags—this IFR adds a new red flag to provide compliance guidance to assist exporters, re-exporters, and transferors of AI model weights in complying with BIS’s controls. New red flag 28 will help U.S. Infrastructure as a Service (IaaS) cloud computing providers located in the United States identify when training an advanced AI model for a customer that is a U.S. subsidiary of a foreign entity—and transferring the resulting model weights to that customer—creates a potential diversion concern. Under some circumstances, there is a substantial risk that the model weights will be exported from the United States in violation of BIS’s controls. New red flag 28 specifies that in scenarios where a U.S. subsidiary of an entity headquartered in destinations other than those listed in paragraph (a) of supplement no. 5 to Part 740 uses a U.S. IaaS provider’s products or services to train an AI model that falls within ECCN 4E091 raises a red flag under the EAR that the model weights may be exported to the connected entity without the necessary authorization. For example, if a U.S. IaaS provider provides infrastructure, in the form of clusters of advanced ICs, to train an AI model for a separate AI development organization, once the training run is complete, the model weights of the resulting AI model are transferred to the AI development organization. If a U.S. IaaS provider performs this service for a U.S. subsidiary of a foreign corporation headquartered in a destination to which a license requirement for ECCN 4E091 applies, the performance of the training run and the transfer of model weights creates a substantial risk that the model weights will be diverted to the entity’s ultimate parent in violation of the EAR and that the IaaS provider may have aided and abetted a violation of the EAR.
+
+Export Control Reform Act of 2018
+
+On August 13, 2018, the President signed into law the John S. McCain National Defense Authorization Act for Fiscal Year 2019, which included the Export Control Reform Act of 2018 (ECRA) (codified, as amended, at 50 U.S.C. 4801–4852). ECRA provides the legal basis for BIS’s principal authorities and serves as the authority under which BIS issues this rule. In particular, and as noted elsewhere, Section 1753 of ECRA (50 U.S.C. 4812) authorizes the regulation of exports, reexports, and transfers (in-country) of items subject to U.S. jurisdiction. Further, Section 1754(a)(1)–(16) of ECRA (50 U.S.C. 4813(a)(1)–(16)) authorizes, inter alia, the establishment of a list of controlled items; the prohibition of unauthorized exports, reexports, and transfers (in-country); the requirement of licenses or other authorizations for exports, reexports, and transfers (in-country) of controlled items; apprising the public of changes in policy, regulations, and procedures; and any other action necessary to carry out ECRA that is not otherwise prohibited by law. Pursuant to Section 1762(a) of ECRA (50 U.S.C. 4821(a)), these changes can be imposed in a final rule without prior notice and comment.
+
+• 0694–0088, ‘‘Simplified Network Application Processing System,’’ which carries a burden-hour estimate of 29.6 minutes for a manual or electronic submission;
+
+• 0694–0137 ‘‘License Exceptions and Exclusions,’’ which carries a burdenhour estimate average of 1.5 hours per submission (Note: submissions for License Exceptions are rarely required);
+
+• 0694–0096 ‘‘Five Year Records Retention Period,’’ which carries a burden-hour estimate of less than 1 minute; and
+
+• 0607–0152 ‘‘Automated Export System (AES) Program,’’ which carries a burden-hour estimate of 3 minutes per electronic submission.
+
+Additional information regarding these collections of information— including all background materials—can be found at https://www.reginfo.gov/public/do/PRAMain and using the search function to enter either the title of the collection or the OMB Control Number.
+
+3. This rule does not contain policies with federalism implications as that term is defined in Executive Order 13132. 4. Pursuant to section 1762 of ECRA (50 U.S.C. 4821), this action is exempt from the Administrative Procedure Act (APA) (5 U.S.C. 553) requirements for notice of proposed rulemaking, opportunity for public participation and delay in effective date.
+
+Rulemaking Requirements
+
+1. Executive Orders 12866, 13563, and 14094 direct agencies to assess all costs and benefits of available regulatory alternatives and, if regulation is necessary, to select regulatory approaches that maximize net benefits (including potential economic, environmental, public health and safety effects and distributive impacts and equity). Executive Order 13563 emphasizes the importance of quantifying both costs and benefits and
+
+5. Because a notice of proposed rulemaking and an opportunity for public comment are not required to be given for this rule by 5 U.S.C. 553, or
+
+Frm 00014
+
+paragraph (h) if it meets both of the following conditions:
+
+Supplement No. 3 to Part 732—BIS’s ‘‘Know Your Customer’’ Guidance and Red Flags
+
+by any other law, the analytical requirements of the Regulatory Flexibility Act, 5 U.S.C. 601, et seq., are not applicable. Accordingly, no regulatory flexibility analysis is required, and none has been prepared.
+
+* * * * *
+
+(A) The foreign-produced item is the ‘‘direct product’’ of ‘‘technology’’ or ‘‘software’’ subject to the EAR and specified in 3D001, 3D901, 3D991, 3D992, 3D993, 3D994, 3E001, 3E002, 3E003, 3E901, 3E991, 3E992, 3E993, 3E994, 4D001, 4D090, 4D993, 4D994, 4E001, 4E992, 4E993, 5D001, 5D002, 5D991, 5E001, 5E991, or 5E002 of the CCL; and
+
+Red Flags * * * * * 28. You will be providing Infrastructure-as- a-Service (IaaS) products or services, or other computing products or services, to assist in training an AI model with model weights captured by ECCN 4E091 for an entity headquartered, or whose ultimate parent is headquartered, in any destination other than those listed in paragraph (a) of supplement no. 5 to part 740 of the EAR. Such assistance creates a substantial risk that such AI model weights, due to their digital nature, will be exported or reexported to a destination for which a license is required and, if a license is not obtained, that the IaaS provider will have aided and abetted in a violation of the EAR. In such cases, the IaaS provider should inquire if the customer intends to export the model and if so, apply for a license as required or inform the customer of their obligation to do so prior to export.
+
+List of Subjects
+
+15 CFR Parts 732 and 750
+
+Administrative practice and procedure, Exports, Reporting and recordkeeping requirements.
+
+15 CFR Part 734
+
+Administrative practice and procedure, Exports, Inventions and patents, Research, Science and technology.
+
+15 CFR Parts 740
+
+Administrative practice and procedure, Exports, Reporting and recordkeeping.
+
+15 CFR Part 742
+
+Exports, Terrorism.
+
+(B) The foreign-produced item is: (1) Specified in ECCN 3A090, 3E001 (for 3A090), 4A090, or 4E001 (for 4A090) of the CCL; or (2) An integrated circuit, computer, ‘‘electronic assembly,’’ or ‘‘component’’ specified in ECCN 3A001.z, 4A003.z, 4A004.z, 4A005.z, 5A002.z, 5A004.z, or 5A992.z. (ii) Product of a complete plant or ’major component’ of a plant that is a ‘‘direct product.’’ A foreign-produced item meets the product scope of this paragraph (h) if it meets both of the following conditions:
+
+## PART 734—SCOPE OF THE EXPORT ADMINISTRATION REGULATIONS
+
+15 CFR Part 744
+
+Exports, Reporting and recordkeeping requirements, Terrorism.
+
+(A) The foreign-produced item is produced by any complete plant or ’major component’ of a plant that is located outside the United States, when the plant or ’major component’ of a plant, whether made in the United States or a foreign country, itself is a ‘‘direct product’’ of U.S.-origin ‘‘technology’’ or ‘‘software’’ that is specified in ECCN 3D001, 3D901, 3D991, 3D992, 3D993, 3D994, 3E001, 3E002, 3E003, 3E901, 3E991, 3E992, 3E993, 3E994, 4D001, 4D090, 4D993, 4D994, 4E001, 4E992, 4E993, 5D001, 5D991, 5E001, 5E991, 5D002, or 5E002 of the CCL; and
+
+■3. The authority citation for part 734 continues to read as follows:
+
+15 CFR Part 748
+
+Authority: 50 U.S.C. 4801–4852; 50 U.S.C. 4601 et seq.; 50 U.S.C. 1701 et seq.; E.O. 12938, 59 FR 59099, 3 CFR, 1994 Comp., p. 950; E.O. 13020, 61 FR 54079, 3 CFR, 1996 Comp., p. 219; E.O. 13026, 61 FR 58767, 3 CFR, 1996 Comp., p. 228; E.O. 13222, 66 FR 44025, 3 CFR, 2001 Comp., p. 783; E.O. 13637, 78 FR 16129, 3 CFR, 2014 Comp., p. 223; Notice of November 7, 2024, 89 FR 88867 (November 8, 2024); Pub. L. 118–50.
+
+Administrative practice and procedure, Exports, Reporting and recordkeeping requirements, Terrorism.
+
+15 CFR Part 762
+
+Administrative practice and procedure, Business and industry, Confidential business information, Exports, Reporting and recordkeeping requirements.
+
+■4. Section 734.9 is amended by: ■a. Revising paragraph (h); and ■b. Adding paragraph (l).
+
+15 CFR Part 772
+
+(B) The foreign-produced item is: (1) Specified in ECCN 3A090, 3E001 (for 3A090), 4A090, or 4E001 (for 4A090) of the CCL; or (2) An integrated circuit, computer, ‘‘electronic assembly,’’ or ‘‘component’’ specified in ECCN 3A001.z, 4A003.z, 4A004.z, 4A005.z, 5A002.z, 5A004.z, or 5A992.z. (2) Destination or end use scope of the advanced computing FDP rule. A foreign-produced item meets the destination scope of this paragraph (h)(2) if there is ‘‘knowledge’’ that the foreign-produced item is:
+
+The addition and revision read as follows:
+
+Exports.
+
+15 CFR Part 774
+
+§ 734.9 Foreign-Direct Product (FDP) Rules. * * * * * (h) Advanced computing FDP rule. A foreign-produced item is subject to the EAR if it meets both the product scope in paragraph (h)(1) of this section and the destination scope in paragraph (h)(2) of this section. See § 742.6(a)(6) of the EAR for license requirements and license exceptions and § 742.6(b)(10) for license review policy applicable to foreign-produced items that are subject to the EAR under this paragraph (h).
+
+Exports, Reporting and Recordkeeping Requirements.
+
+Accordingly, parts 732, 734, 740, 742, 744, 748, 750, 762, 772, and 774 of the Export Administration Regulations (15 CFR parts 730 through 774) are amended as follows:
+
+## PART 732—STEPS FOR USING THE EAR
+
+■1. The authority citation for part 732 continues to read as follows:
+
+(i) Destined to any location worldwide or will be incorporated into any ‘‘part,’’ ‘‘component,’’ ‘‘computer,’’ or ‘‘equipment’’ not designated EAR99 destined to any location worldwide; or
+
+(1) Product scope of advanced computing FDP rule. The product scope applies if a foreign-produced item meets the conditions of either paragraph (h)(1)(i) or (ii) of this section.
+
+Authority: 50 U.S.C. 4801–4852; 50 U.S.C. 4601 et seq.; 50 U.S.C. 1701 et seq.; E.O. 13026, 61 FR 58767, 3 CFR, 1996 Comp., p. 228; E.O. 13222, 66 FR 44025, 3 CFR, 2001 Comp., p. 783.
+
+(ii) ‘‘Technology’’ ‘‘developed’’ by an entity headquartered in, or whose ultimate parent company is
+
+(i) ‘‘Direct product’’ of ‘‘technology’’ or ‘‘software.’’ A foreign-produced item meets the product scope of this
+
+■2. Supplement No. 3 to part 732 is amended by adding paragraph 28 under ‘‘Red Flags’’ to read as follows:
+
+Frm 00015
+
+D:5, or an entity headquartered in, or whose ultimate parent is headquartered in, Macau or a destination specified in Country Group D:5, wherever located), as well as transfers (in-country) within Macau and destinations specified in Country Group D:5. These license exceptions may be used provided the export, reexport, or transfer (in-country) meets all of the applicable criteria identified under this paragraph (a) and none of the restrictions in paragraph (b) of this section. * * * * * (c) * * * (1) Procedures. At least twenty-five calendar days prior to exports or reexports using License Exception NAC, you must provide prior notification under License Exception NAC by submitting a completed application in SNAP–R in accordance with § 748.1 of the EAR. The following blocks must be completed, as appropriate: Blocks 1, 2, 3, 4, 5 (by marking box 5 export license or reexport license), 9, 14, 16, 17, 18, 19, 21, 22(a), (d), (e), (f), (g), (h), (i), (j), 23, 24, and 25 according to the instructions described in supplement no. 1 to part 748 of the EAR. Box 9 under special purpose must include NAC. The application must include certain information to allow for BIS to determine if the item in question otherwise meets the criteria for an item eligible for License Exception NAC. Required information to include in the NAC submission is as follows:
+
+(ii) The item is identified in paragraph (a)(9)(ii)(A) or (B) of this section and is being exported, reexported, or transferred (in-country) to or within a destination specified in Country Group D:1, D:4, or D:5, excluding any destination also specified in Country Groups A:5 or A:6, or to an entity headquartered in or whose ultimate parent is headquartered in, Macau or a destination specified in Country Group D:5, wherever located, and the license exception is other than: TMP, restricted to eligibility under the provisions of § 740.9(a)(6); NAC/ACA, under the provisions of § 740.8; RPL, under the provisions of § 740.10; GOV, restricted to eligibility under the provisions of § 740.11(b); TSU under the provisions of § 740.13(a) and (c); HBM under the provisions of § 740.25; AIA under the provisions of § 740.27 (for ECCN 4E091 to entities headquartered in countries listed in paragraph (a) of supplement no. 5 to part 740 and located in destinations other than Macau or Country Group D:5); or ACM under the provisions of § 740.28. Items restricted to eligibility only for the foregoing license exceptions are:
+
+D:5, for the ‘‘production’’ of a mask or an integrated circuit wafer or die.
+
+Note to 5 paragraph (h)(2)(ii): These end-use requirements under paragraph (h) apply when any entity headquartered in, or whose ultimate parent company is headquartered in, either Macau or a destination specified in Country Group D:5, is a party to any transaction involving the foreign-produced item, e.g., as a ‘‘purchaser,’’ ‘‘intermediate consignee,’’ ‘‘ultimate consignee,’’ or ‘‘end-user.’’
+
+* * * * * (l) AI Model weights FDP rule. A foreign-produced item is subject to the EAR if it meets both the product scope in paragraph (l)(1) of this section and the destination scope in paragraph (l)(2) of this section. See § 742.6(a)(13) of the EAR for license requirements and § 742.6(b)(10) for license review policy applicable to foreign-produced items that are subject to the EAR under this paragraph (l).
+
+(1) Product scope. The product scope applies if a foreign-produced item is specified in ECCN 4E091 and is produced by a complete plant or ‘major component’ of a plant that is located outside the United States, when the complete plant or ‘major component’ of a plant, whether made in the United States or a foreign country, is subject to the EAR and specified in ECCN 3A001.z, 3A090, 4A003.z, 4A004.z, 4A005.z, 4A090, 5A002.z, 5A004.z, or 5A992.z.
+
+(A) Controlled under ECCNs 3A090, 4A090, 4E091, or associated software and technology in 3D001, 3E001, 4D090, and 4E001; * * * * *
+
+■7. Section 740.8 is amended by revising the introductory text of paragraph (a) and paragraph (c)(1) to read as follows:
+
+Note 7 to paragraph (l)(1): A foreignproduced item specified in ECCN 4E091 includes any foreign produced item that is further trained or modified via post-training techniques such as fine-tuning, quantization, or other techniques.
+
+(i) Total Processing Performance of the item, as defined in ECCN 3A090;
+
+#### § 740.8 Notified Advanced Computing (NAC) and Advanced Computing Authorized (ACA).
+
+(ii) Performance density of the item, as defined in ECCN 3A090;
+
+(iii) Data sheet or other documentation showing how the item is designed and marketed (in particular, whether it is designed or marketed for datacenter use);
+
+(a) Eligibility requirements. License Exception NAC authorizes the export and reexport of any item classified in ECCN 3A090 (except for 3A090.c), 4A090, 3A001.z, 4A003.z, 4A004.z, 4A005.z, 5A002.z, 5A004.z, 5A992.z, 5D002.z, or 5D992.z, except for items designed or marketed for use in a datacenter and meeting the parameters of 3A090.a, to Macau and Country Group D:5 or an entity headquartered in or whose ultimate parent is headquartered in, Macau or a destination specified in Country Group D:5, wherever located. License Exception ACA authorizes the export, reexport, and transfer (in-country) of any item classified in ECCN 3A090 (except for 3A090.c), 4A090, 3A001.z, 4A003.z, 4A004.z, 4A005.z, 5A002.z, 5A004.z, 5A992.z, 5D002.z, or 5D992.z, except for items designed or marketed for use in a datacenter and meeting the parameters of 3A090.a, to or within any destination worldwide (except Macau, a
+
+(2) Destination scope. A foreignproduced 4E091 item meets the destination scope of this paragraph (l)(2) if the foreign-produced item is destined to any location worldwide. * * * * *
+
+## PART 740—LICENSE EXCEPTIONS
+
+■5. The authority citation for part 740 continues to read as follows:
+
+Authority: 50 U.S.C. 4801–4852; 50 U.S.C. 4601 et seq.; 50 U.S.C. 1701 et seq.; 22 U.S.C. 7201 et seq.; E.O. 13026, 61 FR 58767, 3 CFR, 1996 Comp., p. 228; E.O. 13222, 66 FR 44025, 3 CFR, 2001 Comp., p. 783.
+
+■6. Section 740.2 is amended by revising paragraph (a)(9)(ii) introductory text and paragraph (a)(9)(ii)(A) to read as follows:
+
+#### § 740.2 Restrictions on all License Exceptions. (9) * * *
+
+(iv) All NAC and license approvals to the end-user in the past 12 months;
+
+(v) Memory bandwidth of the item(s); and
+
+(vi) Whether the items are destined for use in a computing cluster, and, if so:
+
+(A) The computing power of the computing cluster, measured in the aggregate TPP of all chips used in the cluster once the cluster is complete; and
+
+(B) Whether the cluster will be: (1) Exclusively for internal use by a company headquartered in the United States or a destination specified in Country Group A:5 or A:6, or
+
+(2) Used by any other companies not headquartered in A:5 or A:6, or by external parties such as through cloud services.
+
+Frm 00016
+
+to Part 744 of the EAR without BIS authorization;
+
+requirements in paragraph (a)(3) of this section.
+
+■8. Add §§ 740.27, 740.28, and 740.29 to read as follows:
+
+(iii) Agrees items received under this license exception are not, without prior authorization from the U.S. Department of Commerce’s Bureau of Industry and Security (BIS), to be used to provide Infrastructure-as-a-Service (IaaS) access for training AI models specified in ECCN 4E091 for entities headquartered or located outside of, or whose ultimate parent company is headquartered outside of destinations listed in paragraph (a) of Supplement No. 5 to part 740;
+
+(3) Additional authorization for AI model weights. For items identified in paragraph (a)(2)(ii) of this section only, this license exception also authorizes the export, reexport, and transfer (in-country) to entities headquartered, or whose ultimate parent company is headquartered, in the destinations listed in paragraph (a) of supplement no. 5 to this part 740, as long as:
+
+#### § 740.27 License Exception Artificial Intelligence Authorization (AIA).
+
+(a) Scope. This license exception authorizes the export, reexport, and transfer (in-country) of the items identified in paragraphs (a)(1) and (a)(2)(i) of this section to entities located within destinations listed in paragraph (a) of supplement no. 5 to this part, unless the entity is headquartered outside of, or has an ultimate parent company headquartered outside of, a destination specified in paragraph (a) of supplement no. 5 to this part, with an additional authorization for certain model weights in paragraph (a)(3) of this section, subject to additional conditions. This license exception cannot be used to provide items identified in paragraph (a)(1) of this section to entities headquartered outside of or located outside of paragraph (a) in supplement no. 5 to this part for training AI models specified in ECCN 4E091. Prior to export, reexport, or transfer (in-country) of eligible items in paragraph (a)(1) of this section, the exporter, reexporter, or transferor must obtain the certification described in (b)(2) of this section and submit it to BIS.
+
+(i) The entities obtaining the items are located outside Macau or destinations specified in Country Group D:5, and
+
+(ii) These items will be stored in a facility that complies with paragraphs 14, 15 and 18 of the guidelines outlined in supplement no. 10 to part 748 (regardless of whether the facility is designated as a VEU).
+
+(iv) Agrees that the items received under this license exception will not be exported, reexported, or transferred (in-country) to an entity headquartered or located outside of, or whose ultimate parent company is headquartered outside of paragraph (a) of Supplement No. 5 to Part 740 without prior authorization from BIS; and
+
+(b) Requirements prior to use of this license exception for eligible commodities, software, and technology identified in paragraphs (a)(1) and (a)(2)(i) of this section—(1) Furnish ECCN. The exporter, reexporter, or transferor must furnish to the ultimate consignee the ECCN of each item to be exported, reexported, or transferred (in-country) pursuant to this section. Once furnished to a particular ultimate consignee, the ECCN need not be refurnished to that same ultimate consignee at the time the same exporter, reexporter, or transferor makes an additional export, reexport, or transfer (in-country) of the same item, if the ECCN(s) remains accurate at the time of the additional export, reexport, or transfer (in-country). For purposes of this license exception, the ultimate consignee is the entity that has ownership over the eligible item(s) in paragraph (a)(1) or (a)(2)(ii).
+
+(1) Eligible commodities for this exception are: ECCNs 3A001.z.1.a, z.2.a, z.3.a, z.4.a; 3A090.a; 4A003.z.1.a, z.2.a; 4A004.z.1; 4A005.z.1; 4A090.a; 5A002.z.1.a, z.2.a, z.3.a, z.4.a, z.5.a; 5A004.z.1.a, z.2.a; 5A992.z.1; 5A004.z.1.a, z.2.a; and 5A992.z.1. (2) Eligible software and technology for this exception are:
+
+(i) Advanced Integrated Circuits: 3D001 (for ‘‘software’’ for commodities controlled by 3A001.z.1.a, z.2.a, z.3.a, z.4.a and 3A090.a); 4D001 (for ‘‘software’’ for commodities controlled by 4A003.z.1.a, z.2.a, 4A004.z.1, and 4A005.z.1); 4D090 (for ‘‘software’’ for commodities controlled by 4A090.a); 4E001 (for ‘‘technology’’ for commodities controlled by 4A003.z.1.a, z.2.a, 4A004.z.1, 4A005.z.1, 4A090.a or ‘‘software’’ specified by 4D001 (for 4A003.z.1.a, z.2.a 4A004.z.1, and 4A005.z.1) or 4D090.a); ; 5D002.z.1.a z.2.a, z.3.a, z.4.a, z.5.a, z.6.a, z.7.a, z.8.a, and z.9.a, or 5D992.z.1; 5E002 (for ‘‘technology’’ for commodities controlled by 5A002.z.1.a, z.2.a, z.3.a, z.4.a, z.5.a or 5A004.z.1.a, z.2.a or ‘‘software’’ specified by 5D002 (for 5A002. z.1.a, z.2.a, z.3.a, z.4.a, z.5.a or 5A004.z.1.a, z.2.a commodities)); and 5E992 (for ‘‘technology’’ for commodities controlled by 5A992.z.1 or ‘‘software’’ controlled by 5D992.z.1.)
+
+(v) Inserts [NAME(S), SIGNATURE(S), AND TITLE(S) OF PERSON(S) AUTHORIZED TO SIGN THIS DOCUMENT ON BEHALF OF THE ULTIMATE CONSIGNEE, AND DATE(S) DOCUMENT IS SIGNED].
+
+(3) Notification to ultimate consignee of AIA shipment. With each shipment under License Exception AIA, the exporter (or reexporter or transferor as applicable), must notify the ultimate consignee in writing that the shipment is made pursuant to License Exception AIA. The notice must either specify which items are subject to License Exception AIA or state that the entire shipment is made pursuant to License Exception AIA. The notice must clearly identify the shipment to which it applies. The written notice may be conveyed by paper documents or by electronic methods such as facsimile or email.
+
+(2) Ultimate consignee certification. Prior to use of this license exception for items identified in (a)(1) only, the exporter, reexporter, or transferor must obtain a certification from the ultimate consignee. The certification is a one-time certification provided by each ultimate consignee that will be receiving items through the use of this license exception. The certification should provide that: [INSERT NAME(S) OF ULTIMATE CONSIGNEE(S)]:
+
+(c) Reporting requirement. Once the exporter, reexporter, or transferor obtains the certification from the ultimate consignee for items identified in paragraph (a)(1) only, prior to the initial export, reexport or transfer (in-country), the exporter, reexporter, or transferor must submit the certification to EARReports@bis.doc.gov, with the subject line: AIA Certification. Following submission of the certification, exporters, reexporters and in-country transferors are not required to sign or provide a subsequent certification if the notification described in (b)(4) is provided to the ultimate consignee. This reporting requirement is only applicable if the ultimate consignee is receiving items identified in paragraph (a)(1) with a cumulative total processing performance (TPP) of 253,000,000.
+
+(i) Is aware that [INSERT GENERAL DESCRIPTION AND APPLICABLE ECCN(S) OF ITEMS TO BE SHIPPED (e.g., Boards classified under ECCN 4A090.a)) will be shipped pursuant to License Exception Artificial Intelligence Authorization (AIA) of the Export Administration Regulations (EAR), 15 CFR parts 730–774;
+
+(ii) Agrees not to export, reexport, or transfer (in-country) these items to any end use or end user prohibited pursuant
+
+(ii) AI Model Weights specified by ECCN 4E091, subject to the additional
+
+Frm 00017
+
+#### § 740.28 License Exception Advanced Compute Manufacturing (ACM).
+
+(i) Is aware that [INSERT GENERAL DESCRIPTION AND APPLICABLE ECCN(S) OF ITEMS TO BE SHIPPED (e.g., Boards classified under ECCN 4A090.a)] will be shipped pursuant to License Exception Low Processing Performance;
+
+subsequently out, of the facility. Such accounting should be done for each facility, with records updated every six months or more frequently.
+
+(a) Scope. License Exception ACM authorizes the export, reexport, and transfer (in-country) of eligible items specified in paragraph (b) to ‘private sector end users’ for the ‘‘development,’’ ‘‘production,’’ or storage (in a warehouse or other similar facility) prior to export, reexport, or transfer (in country) to the ultimate end user of eligible items specified in paragraph (b) for items that are ultimately destined to customers outside of Macau or destinations specified in Country Group D:5, unless otherwise authorized.
+
+#### § 740.29 License Exception Low Processing Performance (LPP).
+
+(a) Scope. License Exception LPP authorizes the export and reexport of up to 26,900,000 cumulative total processing performance (TPP) of advanced computing integrated circuits per-calendar year directly to a single ultimate consignee. If the ultimate consignee is headquartered in a destination specified in paragraph (a) of supplement no. 5 to part 740, then the ultimate consignee may apply the cumulative TPP of exports and reexports of eligible commodities under this license exception toward the cumulative TPP limit of a different entity that will operate the items in paragraph (b). This license exception does not authorize transfers (in-country).
+
+(b) Eligible commodities, software, and technology. Items controlled by ECCNs 3A001.z; 3A090; 3D001 (for ‘‘software’’ for commodities controlled by 3A001.z or 3A090); 3E001 (for ‘‘technology’’ for commodities controlled by 3A001.z or 3A090); 4A003.z; 4A004.z; 4A005.z; 4A090; 4D001 (for ‘‘software’’ for commodities controlled by 4A003.z, 4A004.z, and 4A005.z); 4D090 (for ‘‘software’’ for commodities controlled by 4A090); 4E001 (for commodities controlled by 4A003.z, 4A004.z, 4A005.z, 4A090 or ‘‘software’’ specified by 4D001 (for 4A003.z, 4A004.z, or 4A005.z), or 4D090 (for ‘‘software’’ for commodities controlled by 4A090)); 5A002.z; 5A004.z; 5A992.z; 5D002.z; 5D992.z; 5E002 (for ‘‘technology’’ for commodities controlled by 5A002.z or 5A004.z or ‘‘software’’ specified by 5D002 (for 5A002.z or 5A004.z commodities)); or 5E992 (for ‘‘technology’’ for commodities controlled by 5A992.z or ‘‘software’’ controlled by 5D992.z).
+
+(ii) Agrees not to export, reexport, or transfer these items to any use or user prohibited under Part 744 of the Export Administration Regulations;
+
+(iii) Certifies that they have not received a ‘cumulative TPP’ of 26,900,000 of ECCNs 3A001.z.1.a, z.2.a, z.3.a, z.4.a; 3A090.a; 4A003.z.1.a, z.2.a; 4A004.z.1; 4A005.z.1; 4A090.a; 5A002.z.1.a, z.2.a, z.3.a, z.4.a, z.5.a; 5A004.z.1.a, z.2.a; 5A992.z.1, 5A004.z.1.a, z.2.a; and 5A992.z.1 items in the relevant calendar year under License Exception LPP.
+
+(iv) Inserts [NAME(S), SIGNATURE(S), AND TITLE(S) OF PERSON(S) AUTHORIZED TO SIGN THIS DOCUMENT ON BEHALF OF THE ULTIMATE CONSIGNEE, AND DATE(S) DOCUMENT IS SIGNED].
+
+(b) Eligible commodities. Eligible commodities are those under ECCNs 3A001.z.1.a, z.2.a, z.3.a, z.4.a; 3A090.a; 4A003.z.1.a, z.2.a; 4A004.z.1; 4A005.z.1; 4A090.a; 5A004.z.1.a, z.2.a; and 5A992.z.1. (c) Eligible destinations. This License Exception is available except:
+
+(g) Reporting requirement. (1) Exporters and reexporters, having obtained the required certification in paragraph (f) prior to exporting or reexporting eligible items, must provide a copy of that certification to BIS by email to EARReports@bis.doc.gov with subject line ‘‘LPP Shipment’’ within 30 days of the date on which the export or reexport takes place.
+
+(1) To destinations specified in Country Group D:5 or Macau, or
+
+(2) To any destination when the ultimate consignee is headquartered in or has an ultimate parent company headquartered in Macau or a destination specified in Country Group D:5.
+
+(2) Ultimate consignees receiving eligible commodities under this License Exception TPP must notify BIS by email to EARReports@bis.doc.gov with subject line ‘‘LPP TPP Limit Reached’’ whenever they have received the maximum allowable 26,900,000 TPP under this license exception in a calendar year in all shipments from all exporters and reexporters. Notification to BIS should be made as soon as the ultimate consignee actually receives the final shipment of eligible commodities that exhausts the consignee’s annual TPP volume limit.
+
+(d) Restriction on annual processing power volume of LPP. The total TPP volume of all exports and reexports of eligible commodities under this license exception made by all exporters and reexporters to a single ultimate consignee per calendar year may not exceed 26,900,000 TPP; however, there is no restriction on the number of shipments or the number of exporters and reexporters, provided that TPP volume is not exceeded. This annual TPP limit applies to shipments by all exporters and reexporters to the same ultimate consignee even though the shipments are made through more than one intermediate consignee.
+
+(c) Ineligible destinations. License Exception ACM does not authorize the export, reexport, or transfer (in-country) to Macau or any destination specified in Country Group D:5, or to any consignee wherever located when the ultimate consignee is headquartered in, or the ultimate consignee’s ultimate parent company is headquartered in, Macau or a destination specified in Country Group D:5.
+
+(d) Private sector end user. A ‘private sector end user’ is either an individual who is not acting on behalf of any government (other than the U.S. Government), or a commercial firm (including its subsidiary and parent firms, and other subsidiaries of the same parent) that is not wholly owned by, or otherwise controlled by any government (other than the U.S. Government).
+
+(3) Exporters and reexporters, prior to exporting or reexporting the eligible items, must notify BIS by email to EARReports@bis.doc.gov with the subject line ‘‘LPP Shipment’’ of any shipment with an aggregate TPP of 3,200,000. (h) Definitions—(1) Ultimate consignee. For purposes of this license exception, the ultimate consignee is the ultimate parent entity that has ultimate ownership over the items in paragraph (b).
+
+(e) Prohibited end use and end user. This license exception cannot be used to export or reexport items to any end use or end user prohibited under Part 744.
+
+(f) Ultimate Consignee Statement. Prior to use of this license exception the exporter or reexporter must obtain a certification from the ultimate consignee that: [INSERT NAME(S) OF ULTIMATE CONSIGNEE(S)]:
+
+(e) Accounting. Exporters, reexporters, and transferors must maintain a system of distribution that allows them to account for the number of controlled items transferred to, and
+
+(2) Cumulative TPP. The ‘cumulative TPP’ is the total amount of TPP, as defined in the Technical Notes to 3A090, of all eligible commodities in
+
+Frm 00018
+
+z.4.b, z.5.b or 5A004.z.1.b, z.2.b or ‘‘software’’ specified by 5D002 (for 5A002. z.1.b, z.2.b, z.3.b, z.4.b, z.5.b or 5A004.z.1.b, z.2.b commodities)); or 5E992 (for ‘‘technology’’ for commodities controlled by 5A992.z.2 or ‘‘software’’ controlled by 5D992.z.2.) to or within a destination in Country Groups D:1, D:4, or D:5 excluding destinations also specified in Country Groups A:5 or A:6. * * * * * (13) RS requirement that applies to artificial intelligence model weights. A license is required for the export, reexport, and transfer (in-country) of items specified in ECCN 4E091 to all destinations worldwide. The license requirements in this paragraph (a)(13) do not apply to deemed exports or deemed reexports for ‘permanent regular employees,’ as that term is defined § 734.20(d)(2), employed by entities headquartered in or with an ultimate parent headquartered in a destination specified in paragraph (a) of Supplement No. 5 to Part 740. * * * * * (b) * * * (10) * * * (iii) License review policy for paragraph (a)(6)(iii)(A)—(A)(1) Policy for Country Group D:5 and Macau. For items specified in paragraph (a)(6)(iii)(A) of this section, applications for exports, reexports, or transfers (in-country) to or within Macau or destinations specified in Country Group D:5 or to an entity headquartered in, or whose ultimate parent company is headquartered in, either Macau or a destination specified in Country Group D:5 will be reviewed under a presumption of denial.
+
+(6) * * * (iii)(A) Worldwide license requirement. A license is required to export, reexport, or transfer (in-country) items specified in ECCNs 3A001.z.1.a, z.2.a, z.3.a, z.4.a; 3A090.a; 3D001 (for ‘‘software’’ for commodities controlled by 3A001.z.1.a, z.2.a, z.3.a, z.4.a, or 3A090.a); 3E001 (for ‘‘technology’’ for commodities controlled by 3A001.z.1.a, z.2.a, z.3.a, z.4.a, or 3A090.a); 4A003.z.1.a, z.2.a; 4A004.z.1; 4A005.z.1; 4A090.a; 4D001 (for ‘‘software’’ for commodities controlled by 4A003.z.1.a, z.2.a, 4A004.z.1, and 4A005.z.1); 4D090 (for ‘‘software’’ for commodities controlled by 4A090.a); 4E001 (for commodities controlled by 4A003.z.1.a, z.2.a, 4A004.z.1, 4A005.z.1, 4A090.a or ‘‘software’’ specified by 4D001 (for 4A003.z.1.a, z.2.a, 4A004.z.1, or 4A005.z.1), or 4D090 (for ‘‘software’’ for commodities controlled by 4A090.a)); 5A002.z.1.a, z.2.a, z.3.a, z.4.a, z.5.a; 5A004.z.1.a, z.2.a; 5A992.z.1; 5D002.z.1.a, z.2.a, z.3.a, z.4.a, z.5.a, z.6.a, z.7.a, z.8.a, and z.9.a; 5D992.z.1; 5E002 (for ‘‘technology’’ for commodities controlled by 5A002.z.1.a, z.2.a, z.3.a, z.4.a, z.5.a or 5A004.z.1.a, z.2.a or ‘‘software’’ specified by 5D002 (for 5A002.z.1.a, z.2.a, z.3.a, z.4.a, z.5.a or 5A004.z.1.a, z.2.a commodities)); or 5E992 (for ‘‘technology’’ for commodities controlled by 5A992.z.1 or ‘‘software’’ controlled by 5D992.z.1.) to or within any destination worldwide.
+
+paragraph (b) that are received by a single ultimate consignee in all shipments from all exporters and reexporters in a calendar year. Cumulative TPP should be calculated by adding the individual TPP for any items specified in 3A090.a and 4A090.a and any items specified in 3A001.z, 4A003.z, 4A004.z, 4A005.z, 5A002.z, 5A004.z, or 5A992.z that meet or exceed the parameters of 3A090.a or 4A090.a.
+
+■9. Part 740 is amended by adding Supplement No. 5 to read as follows:
+
+Supplement No. 5 to Part 740— Artificial Intelligence Authorization Countries
+
+(a) Destinations eligible: Australia Belgium Canada Denmark Finland France Germany Ireland Italy Japan Netherlands New Zealand Norway Republic of Korea Spain Sweden Taiwan United Kingdom United States
+
+(b) Destinations that have provided government assurances to the U.S. Government and therefore are subject to a higher country allocation.
+
+(B) Country Groups D:1, D:4, or D:5 license requirement excluding destination also specified in Country Groups A:5 or A:6. A license is required to export, reexport, or transfer (in-country) items specified in ECCNs 3A001.z.1.b, z.2.b, z.3.b, z.4.b; 3A090.b; 3D001 (for ‘‘software’’ for commodities controlled by 3A001.z.1.b, z.2.b, z.3.b, z.4.b; 3A090.b); 3E001 (for ‘‘technology’’ for commodities controlled by 3A001.z.1.b, z.2.b, z.3.b, z.4.b, or 3A090.b); 4A003.z.1.b, z.2.b; 4A004.z.2; 4A005.z.2; 4A090.b; 4D001 (for ‘‘software’’ for commodities controlled by 4A003.z.1.b, z.2.b, 4A004.z.2, and 4A005.z.2); 4D090 (for ‘‘software’’ for commodities controlled by 4A090.b); 4E001 (for commodities controlled by 4A003.z.1.b, z.2.b, 4A004.z.2, 4A005.z.2, 4A090.b or ‘‘software’’ specified by 4D001 (for 4A003.z.1.b, z.2.b, 4A004.z.2, or 4A005.z.2), or 4D090 (for ‘‘software’’ for commodities controlled by 4A090.b)); 5A002.z.1.b, z.2.b, z.3.b, z.4.b, z.5.b; 5A004.z.1.b, z.2.b; 5A992.z.2; 5D002.z.1.b, z.2.b, z.3.b, z.4.b, z.5.b, z.6.b, z.7.b, z.8.b, and z.9.b; 5D992.z.2; 5E002 (for ‘‘technology’’ for commodities controlled by 5A002.z.1.b, z.2.b, z.3.b,
+
+## PART 742—CONTROL POLICY—CCL BASED CONTROLS
+
+■10. The authority citation for part 742 continues to read as follows:
+
+Authority: 50 U.S.C. 4801–4852; 50 U.S.C. 4601 et seq.; 50 U.S.C. 1701 et seq.; 22 U.S.C. 3201 et seq.; 42 U.S.C. 2139a; 22 U.S.C. 7201 et seq.; 22 U.S.C. 7210; Sec. 1503, Pub. L. 108–11, 117 Stat. 559; E.O. 12058, 43 FR 20947, 3 CFR, 1978 Comp., p. 179; E.O. 12851, 58 FR 33181, 3 CFR, 1993 Comp., p. 608; E.O. 12938, 59 FR 59099, 3 CFR, 1994 Comp., p. 950; E.O. 13026, 61 FR 58767, 3 CFR, 1996 Comp., p. 228; E.O. 13222, 66 FR 44025, 3 CFR, 2001 Comp., p. 783; Presidential Determination 2003–23, 68 FR 26459, 3 CFR, 2004 Comp., p. 320; Notice of November 7, 2024, 89 FR 88867 (November 8, 2024).
+
+■11. Section 742.6 is amended by ■a. Revising paragraph (a)(6)(iii); ■b. Adding paragraph (a)(13); ■c. Revising paragraph (b)(10)(iii); and ■d. Adding (b)(14).
+
+The revisions and additions read as follows:
+
+#### § 742.6 Regional stability.
+
+(2) Policy for countries in paragraph (a)of supplement no. 5 to part 740. For items specified in paragraph (a)(6)(iii)(A) of this section, applications for exports, reexports, or transfers (in-country) to or within destinations listed in paragraph (a) to supplement no. 5 of Part 740, or to entities headquartered in, or whose ultimate parent company is headquartered in, a destination listed in paragraph (a) to supplement no. 5 of Part 740 will be reviewed under a presumption of approval.
+
+(B) Country Allocations and licensing policy for all other destinations. For items specified in paragraph (a)(6)(iii)(A) of this section, applications for exports, reexports, or transfers (in-country) to or within a destination or to entities headquartered, or whose ultimate parent is headquartered, in a destination not listed in either paragraph (a) or (b) of supplement no. 5 of Part 740:
+
+Frm 00019
+
+either Macau or a destination specified in Country Group D:5. * * * * * (14) License Review Policy for AI Model Weights in (a)(13) of this section. Applications to export, reexport, or transfer (in-country) items classified under ECCN 4E091 will be reviewed under a presumption of denial for end users headquartered, or with an ultimate parent headquartered, outside of destinations listed in paragraph (a) to supplement No. 5 to part 740.
+
+(1) Not exceeding the country allocation. Applications for exports, reexports, or transfers (in-country) will be reviewed under a presumption of approval, up to a per-country allocation of 790,000,000 TPP for the period from 2025 to 2027, to or within destinations other than Country Group D:5 or Macau or to entities not headquartered in or whose ultimate parent company is not headquartered in destinations in Country Group D:5 or Macau. These TPP allocations represent permitted cumulative installed base, not newly available TPP in addition to previousyear installed bases. BIS will calculate progress toward country allocations by totaling the TPP of 3A090.a, 4A090.a, and corresponding .z items licensed to each destination cumulatively beginning in 2025. Items exported, re-exported, or transferred (in-country) before 2025 will not count toward country allocations. Please visit www.bis.gov/advanced-computeresources for an update on whether the country allocations have been met.
+
+destination specified in Country Group D:5 (e.g., a PRC-headquartered cloud or data server provider located outside of Country Groups D:1, D:4, or D:5 (excluding any destination also specified in Country Groups A:5 or A:6)).
+
+(B) Any item subject to the EAR and specified in ECCN 3A090.c destined to any destination other than Macau or those specified in Country Group D:5, for an entity that is headquartered in, or whose ultimate parent company is headquartered in, either Macau or a destination specified in Country Group D:5.
+
+Note to paragraph (b)(14): Note 2 to ECCN 4E091 explains that 4E091 does not control the ‘parameters’ of any artificial intelligence model trained utilizing fewer ‘operations’ than the number needed to train an artificial intelligence model as capable, according to an aggregate of widely used benchmarks, as the most advanced artificial intelligence model that has been ‘‘published’’ as defined in § 734.7(a) of the EAR.
+
+* * * * *
+
+## PART 748—APPLICATIONS (CLASSIFICATION, ADVISORY, AND LICENSE) AND DOCUMENTATION
+
+■14. The authority citation for part 748 is revised to read as follows:
+
+Authority: 50 U.S.C. 4801–4852; 50 U.S.C. 4601 et seq.; 50 U.S.C. 1701 et seq.; E.O. 13026, 61 FR 58767, 3 CFR, 1996 Comp., p. 228; E.O. 13222, 66 FR 44025, 3 CFR, 2001 Comp., p. 783; Notice of August 13, 2024, 8 FR 66187 (August 15, 2024).
+
+## PART 744—CONTROL POLICY: END- USER AND END-USE BASED
+
+(2) Exceeding the country allocation. After the country allocations above are met, applications will be reviewed under a policy of denial. Together with the Departments of State, Energy, and Defense, BIS will review allocations for subsequent years on an annual basis.
+
+■12. The authority citation for part 744 is revised to read as follows:
+
+■15. Section 748.3 is amended by adding paragraph (f) to read as follows:
+
+Authority: 50 U.S.C. 4801–4852; 50 U.S.C. 4601 et seq.; 50 U.S.C. 1701 et seq.; 22 U.S.C. 3201 et seq.; 42 U.S.C. 2139a; 22 U.S.C. 7201 et seq.; 22 U.S.C. 7210; E.O. 12058, 43 FR 20947, 3 CFR, 1978 Comp., p. 179; E.O. 12851, 58 FR 33181, 3 CFR, 1993 Comp., p. 608; E.O. 12938, 59 FR 59099, 3 CFR, 1994 Comp., p. 950; E.O. 13026, 61 FR 58767, 3 CFR, 1996 Comp., p. 228; E.O. 13099, 63 FR 45167, 3 CFR, 1998 Comp., p. 208; E.O. 13222, 66 FR 44025, 3 CFR, 2001 Comp., p. 783; E.O. 13224, 66 FR 49079, 3 CFR, 2001 Comp., p. 786; Notice of September 18, 2024, 89 FR 77011 (September 20, 2024); Notice of November 7, 2024, 89 FR 88867 (November 8, 2024).
+
+(C) For items specified in paragraph (a)(6)(iii)(A) of this section, applications for exports, reexports, or transfers (in-country) to or within destinations listed in paragraph (b) of supplement no. 5 to Part 740, TPP allocations may be increased up to 100% for that destination pursuant to government-togovernment assurances, as applicable. Accordingly, the licensing policy in paragraph (b)(10)(iii)(B) will apply, up to the adjusted country allocations.
+
+§ 748.3 Classification requests and advisory opinions. * * * * * (f) Classification requests for artificial intelligence models. Classification requests may be submitted to confirm that technology is not controlled under ECCN 4E091 because the artificial intelligence model has been trained utilizing fewer computational ‘operations’ than the number needed to train a model as capable, according to an average of widely used benchmarks, as the most advanced artificial intelligence model that has been ‘‘published’’ as defined in § 734.7(a) of the EAR. Refer to the technical notes to ECCN 4E091 for instructions regarding self-classifications of artificial intelligence models.
+
+■13. Revise § 744.23(a)(3)(i) to read as follows:
+
+(iv) For items specified in paragraph (a)(6)(iii)(B) of this section:
+
+§ 744.23 ‘‘Supercomputer,’’ ‘‘advancednode integrated circuits,’’ and semiconductor manufacturing equipment end use controls. * * * * * (a) * * * (3) * * * (i)(A) Any item subject to the EAR and specified in ECCN 3A001.z.1.b, z.2.b, z.3.b, z.4.b; 3A090.b; 4A003.z.1.b, z.2.b; 4A004.z.2; 4A005.z.2; 4A090.b; 5A002.z.1.b, z.2.b, z.3.b, z.4.b, z.5.b; 5A004.z.1.b, z.2.b; 5A992.z.2, 5D002.z.1.b, z.2.b, z.3.b, z.4.b, z.5.b, z.6.b, z.7.b, z.8.b, and z.9.b; 5D992.z.2 destined to any destination other than those specified in Country Groups D:1, D:4, or D:5 (excluding any destination also specified in Country Groups A:5 or A:6) for an entity that is headquartered in, or whose ultimate parent company is
+
+(A) Presumption of approval. Applications for exports, reexports, or transfers (in-country) will be reviewed with a presumption of approval to or within destinations not specified in Country Group D:5 or Macau or to an entity not headquartered in, and whose ultimate parent company is not headquartered in, either Macau or a destination specified in Country Group D:5.
+
+(B) Presumption of denial. Applications for exports, reexports, or transfers (in-country) will be reviewed under a presumption of denial to or within Macau or destinations specified in Country Group D:5 or to an entity headquartered in, or whose ultimate parent company is headquartered in,
+
+■16. Section 748.15 is amended by revising the introductory text and paragraphs (a)(1), (a)(2), (b), (d)(2), and (f) to read as follows:
+
+#### § 748.15 Authorization Validated End-User (VEU).
+
+Validated end-users (VEU) are those who have been previously approved by BIS pursuant to the requirements of this section. To be eligible for authorization VEU, exporters, reexporters, and validated end-user applicants must adhere to the conditions and restrictions set forth in paragraphs (a) through (f) of this section. If a request for VEU
+
+Frm 00020
+
+Applicants must provide written assurances from those other entities consistent with Supplement No. 10 to this part during the application review process. Government-to-Government assurances between the United States and the government of the country in which the NVEU wishes to operate may be sought before a NVEU is granted. Where multiple entities will own and operate the NVEU they should submit a joint application. For NVEUs, if the operator of the advanced compute is different from the owner of the advanced compute, the operator must itself have its own Authorization NVEU. After receiving NVEU Authorization, the NVEU will be listed as such in Supplement No. 7 to this part. The NVEU may inform BIS if it prefers that Supplement No. 7 list a corporate address or a physical address of the new data center location. Once approved for Authorization NVEU by BIS, the NVEU may furnish its BIS authorization letter that includes physical addresses as proof of its authorization to receive exports, reexports, or transfers (in-country) prior to the publication of an amendment to Supplement No. 7 that includes a physical address, or where Supplement No. 7 includes a corporate address but not a physical address.
+
+certifications from such entities as set forth in Supplement No. 10 to this part. For UVEUs, if the operator of the advanced compute is different from the owner of the advanced compute, the operator must itself have an Authorization UVEU. As appropriate, BIS will adjudicate complete UVEU applications within 30 days of receipt. A UVEU will need to file a notification with BIS when building a datacenter in a new location 180 days before any exports, reexports, or transfers (in-country) to the new datacenter. The notification should include the physical address of the new data center location. BIS will use this information to update the eligible destination column in the validated end user list in Supplement No. 7 to this part. The UVEU may choose whether to list a corporate address or a physical address of the new data center location. The UVEU may furnish its BIS authorization letter as proof of its authorization to receive exports, reexports, or transfers (in-country) prior to the publication of an amendment to Supplement No. 7 to this part that includes a physical address, or where Supplement No. 7 includes a corporate address but not a physical address. No other requirements may be placed on the UVEU beyond those described in Supplement No. 10 to this part as a condition for granting the original UVEU application.
+
+Authorization for a particular end-user is not granted, no new license requirement is triggered. In addition, such a result does not render the end user ineligible for license approvals from BIS. There are two types of VEU authorization: General VEU Authorization and Data Center VEU Authorization. General VEU Authorizations permit the export, reexport, and transfer to validated end-users of any eligible items that will be used in a specific eligible destination. Data Center VEU Authorizations permit the export and reexport to validated end-users of any eligible items that will be used in specific data centers. A data center is a facility or ‘‘facilities’’ that house a multi-racked, networked computer system that include servers, storage devices, and networking equipment. Data Center VEU Authorizations may be either universal or national authorizations.
+
+(a)(1) Eligible end-users for General VEU Authorizations and Data Center VEU Authorizations. The only end users to whom eligible items may be exported, reexported, or transferred under a General VEU Authorization or a Data Center VEU Authorization are those validated end-users identified in Supplement No. 7 to this part. Those entities were added as VEUs according to the provisions in this Section and Supplement Nos. 8 and 9 to this part.
+
+(2) Requests for authorizations—(i) Advisory opinion. To apply for a General VEU Authorization or Data Center VEU Authorization, requests for authorization must be submitted in the form of an advisory opinion request, as described in § 748.3(c), and must include a list of items (except as excluded by paragraph (c) of this section), identified by ECCN, intended for export, reexport, or transfer (in-country) to an eligible end-user, once approved.
+
+(B) NVEU TPP Allocation. NVEUs will be subject to a per-NVEU percountry installed base allocation of total processing performance (TPP), as measured by the collective computing power of items subject to ECCNs 3A090.a, 4A090.a, or corresponding .z paragraphs, as provided below:
+
+(B) UVEU Compute Geographic Allocations. UVEUs will be subject to the geographic allocations identified in paragraph 6 or Supplement No. 10 to this part.
+
+(iii) Applications for National VEU (NVEU) Authorization—(A) Application Overview. The NVEU Authorization will allow an entity to receive exports and reexports in a specific country as specified in their NVEU authorization. For every additional country in which the NVEU wants to operate, the owner of the advanced compute must obtain a separate NVEU authorization. To qualify for NVEU authorization, the owner of the advanced computing ICs must adhere to guidelines provided in Supplement No. 10 to this part but, depending on its location and the national security and foreign policy risks associated with that location, may be subject to other requirements. The owner of the advanced compute must certify that it will follow the guidelines in paragraphs 14, 15, and 18 of Supplement No. 10 to this part on or before January 15, 2026. If the owner of the advanced computing ICs cannot certify to all of the guidelines in Supplement No. 10 to this part, it must notify BIS in its application of the other entities involved in its operations.
+
+(ii) Applications for Universal VEU (UVEU) Authorization—(A) Application Overview. A UVEU authorization should be submitted by the owner of the advanced computing ICs. To qualify for UVEU authorization, the owner of the advanced computing ICs must certify that it will follow the guidelines in Supplement No. 10 to this part. The owner of the advanced compute must certify that it will follow the guidelines in paragraphs 14, 15, and 18 of Supplement No. 10 to this part on or before January 15, 2026. If the owner of the advanced computing ICs cannot certify to all of the guidelines in Supplement No. 10 to this part, it must notify BIS in its application of the other entities involved in its operations. The applicant must also provide signed
+
+TABLE 1 TO PARAGRAPH (a)(2)(iii)(B)
+
+Cumulative per-company
+
+Quarter
+
+per-country
+
+allocation
+
+in TPP
+
+2025 Q1 ............................ 633,000,000 2025 Q2 ............................ 949,500,000 2025 Q3 ............................ 1,266,000,000 2025 Q4 ............................ 1,582,500,000 2026 Q1 ............................ 1,899,000,000 2026 Q2 ............................ 2,690,250,000 2026 Q3 ............................ 3,481,500,000 2026 Q4 ............................ 4,272,750,000 2027 Q1–4 ........................ 5,064,000,000
+
+These TPP allocations represent permitted cumulative installed base during a given quarter, not newly available TPP in addition to previousquarter installed bases, and do not count towards or impact country allocations. Advanced computing ICs that suffer attrition due to factors such as loss, damage, failure, relocation, and resale do not count toward allocations.
+
+Frm 00021
+
+General VEUs and Data Center NVEUs are country-specific. Authorization as a validated end-user for one country specified in paragraph (b) of this section does not constitute authorization as a validated end-user for any other country specified in that paragraph for those types of VEUs.
+
+(iv) Information to include and address for submissions. To ensure a thorough review, applications for Authorization VEU must include the information described in Supplement No. 8 to this part. Applications for UVEU and NVEU should also include information demonstrating that the applicant can adhere to the guidelines described in Supplement No. 10 to this part. Requests for authorization will be accepted from exporters, reexporters, or end users. Submit the request to: The Office of Exporter Services, Bureau of Industry and Security, U.S. Department of Commerce, 14th Street and Pennsylvania Avenue NW, Room 2099B, Washington, DC 20230. Mark the package ‘‘Request for [insert ‘‘General,’’ ‘‘Data Center—Universal,’’ or ‘‘Data Center—National’’ as appropriate] Authorization Validated End-user.’’ * * * * * (b) Eligible destinations—(1) General VEU Authorizations. General VEU Authorizations may be used for the following destinations:
+
+(2) Reviews. Records related to activities covered by General or Data Center VEU Authorizations that are maintained by exporters, reexporters, transferors, and VEU will be reviewed on a periodic basis. Upon request by BIS, exporters, reexporters, transferors, and validated end-users must allow review of records, including on-site reviews covering the information set forth in paragraphs (e) and (f)(1) of this section. * * * * *
+
+* * * * * (f) Reporting and review requirements—(1) Reports—(i) Reexport Information Required for both types of VEU authorizations. Reexporters who make use of General VEU Authorizations are required to submit annual reports to BIS. Reexporters who make use of Data Center VEU Authorizations are required to submit semi-annual reports to BIS. For either authorization, reexporters must include, for each validated end user to whom the exporter or reexporter exported or reexported eligible items:
+
+■17. Amend supplement No. 2 to part 748 by adding paragraphs (c)(3) and (4) to read as follows:
+
+Supplement No. 2 to Part 748—Unique Application and Submission Requirements
+
+* * * * * (c) * * * (3) Purchase orders for Artificial Intelligence commodities. License applications for items controlled under ECCNs 3A090.a, 4A090.a, 3A001.z, 4A003.z, 4A004.z, 4A005.z, 5A002.z, 5A004.z, or 5A992.z require the submission of a purchase order or equivalent contractual agreement with the submission of the license application. The purchase order may be contingent on approval of the license. Upon approving a license for these items, BIS will generally limit the licensed quantity to the quantity specified on the purchase order.
+
+(A) The name and address of each validated end-user to whom eligible items were reexported;
+
+(B) The eligible destination to which the items were reexported;
+
+(C) The quantity of such items; (D) The value of such items; and (E) The ECCN(s) of such items. (ii) End user reports for Data Center VEU Authorizations. End users who make use of Data Center VEU Authorizations must submit reports to BIS semi-annually. End users must submit the following information, including, as appropriate:
+
+(i) The People’s Republic of China. (ii) India. (2) Data Center VEU Authorizations. (i) UVEU must be headquartered in, or have their ultimate parent company headquartered in, destinations listed in paragraph (a) of Supplement No. 5 to Part 740, and UVEU data centers may be located anywhere, except in Macau or destinations specified in Country Group D:5.
+
+(4) License applications for Artificial Intelligence commodities. Applicants are required to submit the total aggregated TPP value of each export item on their license application. This information should be included in block 22(j) in SNAP–R. If applicants are submitting a license for items destined to a country that is subject to a percountry TPP allocation, the applicant must fill out an individual license for each country and calculate the TPP per individual country. Applicants are encouraged to include information to support their TPP calculation in their Letter of Explanation (LOE). Calculate the aggregate TPP for each export item by adding the TPP for each integrated circuit. For additional information on calculating TPP, please refer to the Technical Notes to 3A090. * * * * *
+
+(A) A record of current inventory of eligible items received;
+
+(ii) NVEU may be headquartered, have an ultimate parent headquartered, or located in a destination specified in Country Groups A, B, or D:1–D:4, except Macau or destinations specified in Country Group D:5. NVEU data centers can be built around the world, except in Macau or destinations specified in Country Group D:5. * * * * * (d) * * * (2) Data Center VEU Authorizations. Items obtained under Data Center VEU Authorizations may not be used for any activities described in part 744 of the EAR. Eligible validated end users who obtain items under VEU may only:
+
+(B) Dates of when eligible items were received; and
+
+(C) For NVEUs, a list of current customers.
+
+(iii) Deadlines. For reexporters making use of General VEU Authorization, reports are due by February 15 of each year, and must cover the period from January 1 through December 31 of the prior year. For reexporters and end users making use of Data Center VEU Authorization, reports are due semiannually:
+
+(A) The first report is due July 15 of each year and must cover the period from January 1 through June 30;
+
+■18. Amend supplement No. 8 to part 748 by revising paragraphs B(2), (6), (9), and (10), and adding B(11) to read as follows:
+
+(B) The second report is due January 15 of each year and must cover the period from July 1 to December 31 of the previous year.
+
+(i) Use such items at the end user’s own facility located in an authorized destination;
+
+(ii) Consume such items during use; or
+
+Supplement No. 8 to Part 748— Information Required in Requests for VEU Authorization
+
+(iv) Addresses. Reports must be sent to: Office of Exporter Services, Bureau of Industry and Security, U.S. Department of Commerce, 14th Street and Constitution Avenue NW, Room 2099B, Washington, DC 20230. Mark the package ‘‘General Authorization Validated End-User Report’’ or ‘‘Data Center Authorization Validated End-user Report.’’
+
+(iii) In-country transfers and reexports are not permitted under Data Center VEU Authorization unless the transfer (in-country) or reexport is to a VEU authorized location by the same VEU or a separate authorization is obtained.
+
+Note 1 to paragraph (d): Authorizations set forth in supplement no. 7 to this part for
+
+* * * * *
+
+B * * *
+
+(2) An overview of any business activity or corporate relationship that the candidate has with either government or military organizations of Macau or a destination specified in Country Group D:5;
+
+Frm 00022
+
+These requirements should not be read as allowing any transfers that otherwise require a license.
+
+Treasury). The VEU must also adhere to determinations, including any prohibitions and mitigations, made under Commerce’s Information Communication Technology Services program at 15 CFR part 791, and the VEU must demonstrate that it has eliminated supply chain dependencies on advanced semiconductors specified in ECCN 3A090.a, 4A090.a, or .z derivatives meeting or exceeding the parameters of ECCN 3A090.a or 4A090.a and advanced networking equipment specified in ECCN 4A003.g, 5A001, 5A002.a, or 5A992.a. produced by any entities headquartered in Macau or destinations specified in Country Group D:5. The VEU must also demonstrate that it has eliminated supply chain dependencies on equipment and services listed by the Federal Communications Commission as covered by Section 2 of the Secure and Trusted Communications Networks Act of 2019. The VEU must also notify the U.S. Government, through the VEU program, of all cooperative activities, such as joint ventures, with any entities headquartered in Macau or a destination specified in Country Group D:5 or any individuals or entities that are on the EAR’s Entity List or OFAC’s Specially- Designated Nationals and Blocked Persons List. The VEU must report to BIS all equity interests (including contingent equity interests) or ownership stakes in the VEU by, or debt or obligations of the VEU from similar financial arrangements to, any entity. headquartered in Macau or a destination specified in Country Group D:5 or any individual or entities that are on the EAR’s Entity List or OFAC’s Specially-Designated Nationals and Blocked Persons List, with the exception of investments under 1 percent or $1 million, whichever is lower, individually or as aggregated across (a) entities that are affiliated or have formal or informal arrangements to act in concert, or (b) departments, agencies, or instrumentalities of, or that are controlled by, the national or subnational governments of Macau or a destination specified in Country Group D:5, in a VEU whose equity securities are primarily traded on an exchange in a country listed in paragraph (a) to Supplement No. 5 to Part 740.
+
+(6) For NVEUs, absent a legal prohibition or other such exceptional circumstances, a list of current and potential customers of the data center; * * * * * (9) An overview of the applicant’s supply chain risk management plan to limit PRCorigin equipment specified in paragraph 3 of Supplement No. 10 to Part 748 from entering the data-center environment and supply chain;
+
+(10) An overview of the applicant’s export control training program and compliance program procedures; and
+
+(11) (NVEU applicants only) An overview of the applicant’s ability to verify that items subject to the license requirement in § 742.6(a)(6)(iii) have not been moved from the specific country authorized for export or reexport by the NVEU (e.g. from the ping times to nearby secure servers); * * * * *
+
+■19. Supplement No. 10 to part 748 is added to read as follows:
+
+Supplement No. 10 to Part 748—Data Center VEU Authorization Guidelines
+
+### I. Certification and Policy Requirements
+
+Relating to National and Universal Validated End Users (VEU)
+
+Vetting Requirements
+
+1. General Compliance and Proven Track Record. The VEU must have a credible plan to meet or demonstrated track record of meeting established physical, cyber, and personnel security standards for large-scale data center operations and of complying with U.S. export control laws, a credible plan to or demonstrated track record of respecting human rights, as well as a clear and feasible plan for doing so in a destination that is not Macau, specified in Country Group D:5, or listed in paragraph (a) to Supplement No. 5 to Part 740.
+
+2. Foreign Military and Intelligence Ties. a. The VEU, to include all subsidiary and parent entities (as well as their personnel in their professional capacities), must be free of ties to any ‘military end users’ (as that term is defined in § 744.21(g)) or ‘militaryintelligence end users’ (as that term is defined in § 744.22(f)(2)).
+
+Export Restrictions
+
+b. Ties include research and development agreements and joint activities.
+
+5. Intra-company Transfer Notification. [Only for VEUs accredited via a UVEU] The UVEU must notify the BIS 60 days in advance of its intention to transfer any chips between countries in which the UVEU is using the UVEU authorization for such transfer, as well as any planned construction or installations of data centers in countries not previously included in prior notifications to BIS. BIS retains the right to impose licensing requirements for transfers of chips and/or to require additional conditions for entry into these countries.
+
+6. Geographic allocations. Only for entities headquartered in countries listed in paragraph (a) to Supplement no. 5 to Part 740 with UVEU status: The UVEU cannot transfer or install more than 25% of its total AI computing power, measured as the aggregate Total Processing Power (TPP) of chips that meet or exceed the scope of ECCN 3A090.a and are owned by the entity and all its subsidiary and parent entities, to or in locations outside of countries listed in paragraph (a) to Supplement No. 5 to Part 740, and cannot transfer or install more than 7% of its total AI computing power to or in any single country outside of those listed in paragraph (a) to Supplement No. 5 to Part 740). Only for U.S.-headquartered entities with UVEU status: The UVEU cannot transfer or install more than 50% of its total AI computing power outside of the United States, as measured on the reporting dates outlined in Section 10.
+
+Acceptable Use Policies
+
+7. Advanced AI Training. The VEU, to include all subsidiary and parent entities, may not, without authorization from BIS, train an AI model specified in ECCN 4E091, in whole or in part, in a location outside of, or as Infrastructure-as-a-Service (IaaS) for an entity headquartered outside of, countries listed in paragraph (a) to Supplement No. 5 to Part 740. Fine-tuning an AI model specified in ECCN 4E091 is permitted if such fine-tuning constitutes no more than 25 percent of the training operations of the original AI model specified in ECCN 4E091. Provision of application programming interface (API) access to AI models or infrastructure-as-a-service (IaaS) access for AI inference are not prohibited, and would only become prohibited if equivalent restrictions are put in place for U.S.-based computing resources.
+
+4. Transfer of Chips. The VEU may not, without authorization from BIS, transfer chips, assemblies, or computers that meet or exceed the scope of ECCN 3A090.a, 4A090.a, or .z items meeting or exceeding the parameters of ECCN 3A090.a or 4A090.a to any of the following:
+
+3. Foreign Technology Ties. The VEU, to include all subsidiary and parent entities (as well as their personnel in their professional capacities), must adhere to the U.S. rules on outbound investment at 31 CFR part 850 as applied to U.S. persons regardless of whether such VEU, entity, or individual is a U.S. person, without giving effect to any exception under 31 CFR 850.501(g), except that non-U.S. persons must submit materials to BIS, not the Department of the Treasury. Any notifications or other information that, because of this paragraph, would be required to be submitted in order to adhere to 31 CFR part 850 should be submitted to BIS as part of the VEU application. (For the avoidance of doubt, any notification or other information that would be required to be submitted pursuant to 31 CFR part 850 should continue to be submitted to the Department of the
+
+8. Model Weight Storage. The VEU may only store or transfer the model weights of an advanced AI model specified in ECCN 4E091 to facilities located in countries listed in paragraph (a) to Supplement No. 5 to Part 740, or to facilities located in jurisdictions other than Macau or those specified in Country Group D:5, provided such facilities are owned or operated by entities headquartered in, or with an ultimate parent headquartered in countries listed in paragraph (a) to Supplement No. 5 to Part 740, and provided the facility complies with the provisions of paragraphs 14, 15, and 18 of Supplement No. 10 to this part by January 15, 2026.
+
+a. Any entity located in, or headquartered in, Macau or a destination specified in Country Group D:5;
+
+b. Persons of any nationality working for or on behalf of a party on the EAR’s Entity List, ISN’s nonproliferation sanctions lists, or OFAC’s Specially Designated Nationals and Blocked Persons List;
+
+c. Persons of any nationality employed by a government entity of Macau or a government entity of a destination specified in Country Group D:5 or presenting a high risk of facilitating diversion to Macau or a destination specified in Country Group D:5.
+
+Frm 00023
+
+d. The VEU must put in place software and hardware mechanisms to detect and defeat tampering, such as illicit modification;
+
+listed in paragraph (a) to Supplement No. 5 to Part 740 are eligible if they meet the appropriate standards outlined in Supplement No. 10 to part 748 and, for NVEUs, if there is a government-togovernment arrangement between their government and the United States. If a government-to-government arrangement is rescinded by either party, the NVEU status of NVEUs and, as appropriate, the ability of a UVEU to operate in that country may be revoked.
+
+9. Prohibited Uses and Human Rights Safeguards. The VEU is responsible for ensuring that no items subject to the EAR are used to support any of the following:
+
+a. Activities described in part 744 and all relevant supplemental notices;
+
+b. Military and intelligence entities headquartered, or located in, Macau, destinations specified in Country Group D:5, and military and intelligence entities whose activities BIS informs the VEU could pose an unacceptable risk to U.S. national security or could enable human rights abuses or repression of democracy; or
+
+### II. Security Requirements
+
+c. Activities that enable human rights abuses and/or repression of democracy including through censorship; arbitrary or unlawful surveillance; and abusive genetic collection and analysis schemes.
+
+Ownership Security
+
+e. Plans for the secure operation of data centers supporting a VEU shall be implemented in accordance with a security management defense-in-depth framework that includes a review of the following factors:
+
+i. Threat analysis. Assess the capabilities, intentions, and opportunity of an adversary to exploit or damage assets or information.
+
+ii. Vulnerability analysis. Assess the inherent susceptibility to attack of a procedure, facility, information system, equipment, or policy.
+
+13. Ownership Security of VEUs: The VEU, to include all subsidiary and parent entities, must meet ownership security standards to ensure there are no Foreign Ownership, Control, or Influence (FOCI) factors related to Macau or a destination specified in Country Group D:5. Factors relating to the entity, its relevant foreign interest, and the government of such foreign interest shall be assessed against the requirements outlined in National Industrial Security Program Operating Manual (NISPOM) 32 CFR 117.11(b) and additional factors to include:
+
+Documentation, Auditing, and Reporting Requirements
+
+10. Reporting of Chip Installations. The VEU will report to BIS and other agencies on a semi-annual basis (each February 1 and August 1), a complete facility-specific chip accounting for itself and all parent and subsidiary entities, including:
+
+a. The quantities and types of chips that meet or exceed the parameters of 3A090.a, purchased, approved for export to facilities in given countries, reexported, transferred to relevant destinations and entities to which transfers have occurred, and installed in all data center facilities in destinations except Macau, destinations specified in Country Group D:5, and countries not listed in paragraph (a) to Supplement No. 5 to Part 740. b. A breakdown of the VEU’s total aggregate compute for chips, assemblies, and computers specified in 3A090.a, 4A090.a, or .z derivatives meeting or exceeding the parameters of ECCN 3A090.a or 4A090.a, in destinations except Macau and destinations specified in Country Group D:5 (including chips transferred but not yet installed). This accounting must also include information about chip attrition due to factors such as loss, damage, failure, relocation, and resale.
+
+iii. Probability analysis. Assess the probability of an adverse action, incident, or attack occurring.
+
+iv. Consequence analysis. Assess the consequences of such an action (expressed as a measure of loss, such as cost in dollars, resources, programmatic effect/mission impact, etc.)
+
+f. The following physical and technical security requirements are required for all VEU data centers:
+
+i. Compliance with Department of Defense Unified Facilities Criteria 4–010–05, Sections 3–4.4.1, 3–4.6.10, and 3–4.17.3; ii. No windows permitted in server core areas; and
+
+a. The VEU’s financial viability; b. Counterintelligence concerns, especially regarding key management or leadership personnel and company owners with regard to the government of Macau or the government of a destination specified in Country Group D:5, or to entities headquartered in, or nationals of, Macau or a destination specified in Country Group D:5;
+
+iii. 24/7/365 roving guard patrol or Perimeter Intrusion Detection System (PIDS) with a 15-minute response time;
+
+Software and Network Security
+
+c. Record of enforcement and/or engagement in unauthorized technology transfer;
+
+15. AI-Specific Cybersecurity. The VEU will establish and bear responsibility for the following additional practices for AI security:
+
+d. The nature of any relevant bilateral and multilateral security agreement and information exchange agreements; and
+
+a. Ensure compliance with all best practices in the NSA cybersecurity information sheet ‘‘Deploying AI Systems Securely,’’ and the recommended actions for every CISA CPG 1.0 goal cross-referenced therein.
+
+e. Any other factor that demonstrates a capability on the part of foreign interests to control or influence the operations or management of the VEU of concern.
+
+Baseline Security
+
+b. Establish accountability for usage; generate logs and other records of usage, to include logging and monitoring usage of third-party APIs and fine-tuning mechanisms;
+
+14. Baseline Security of Chips and Data. The VEU’s datacenters must be compliant with NIST 800–53 in a fashion certified as appropriate for compliance with these conditions and consistent with the security requirements associated with FedRAMP High, as well as with controls AC–3(7), AT– 2(1), CA–8(3), CM–7(4), CM–11(2), IR–4(14), PE–3(3), PM–3, and PS–7 from NIST 800–53. This includes:
+
+11. Monitoring, Recordkeeping, and Reporting. The VEU must perform ongoing monitoring, evaluation, and end user due diligence of all the vetting requirements, export restrictions, acceptable use policies, and security requirements herein. The VEU must further notify BIS if, at any time, any requirements have not been met and it must maintain for five years all records in conjunction with these conditions. These records must be made available pursuant to a request from BIS, whether through an end use check or otherwise. The VEU must also cooperate with BIS’s auditing of records and facilities described in this document. Failure to comply with BIS may result in revocation of VEU status.
+
+c. Comply with the following requirements on model weights specified in ECCN 4E091, in addition to complying with the best practices listed in (a):
+
+i. Model weights must be stored on dedicated devices not used by, or hosting the data of, other organizations.
+
+ii. Every interface by which model weights can be accessed, directly or indirectly, must be reviewed to determine the appropriate output rate of information necessary for its legitimate functionality. The output rate must be monitored, and rate limitations must be implemented to ensure the output rate is unable to exceed the rate established for the interface’s legitimate functionality.
+
+a. Advanced AI model weights and proprietary techniques used for advanced AI training must be treated as an information type with FIPS–199 security category {(confidentiality, HIGH), (integrity, HIGH), (availability, HIGH)}.
+
+b. Certification of compliance with the above NIST 800–53 requirements must be attested annually by a Third-Party Assessment Organization (3PAO) and made available to BIS. 3PAOs must be accredited and recognized by the FedRAMP Program Management Office, and have successfully completed the certification of a FedRAMPhigh Cloud Service Provider;
+
+12. Certification as VEU. An entity is certified as a VEU through the process described in Supplement No. 9 to this part. Entities headquartered in countries listed in paragraph (a) to Supplement No. 5 to Part 740 are eligible if they meet the standards provided in Section I and II. Entities in destinations except Macau, destinations specified in Country Group D:5, or those
+
+iii. Every interface, for which the established output rate is such that the model weights may be extracted in six months or less, must provide access only through a narrow, well-defined API, such as for inference or fine-tuning. The API must be thoroughly reviewed and secured to prevent model extraction attacks.
+
+c. The VEU must have procedures in place to address and prevent seizure of chips;
+
+Frm 00024
+
+Exemption for Intentional Publication
+
+Supply Chain Security
+
+13222, 66 FR 44025, 3 CFR, 2001 Comp., p. 783.
+
+None of the provisions of this document shall be interpreted as to apply to or prevent intentional publication of model weights, data, or code.
+
+16. Transit Security. The VEU must work with the chip provider to develop, implement, and maintain a shipment security plan, to include working with validated shipping providers, establishing a positive chain of custody, employing anti-theft and anti-tampering measures, conducting inspection/inventory upon receipt, and reporting any theft, loss, or tampering incidents to BIS within 30 days. The VEU will bear responsibility for tracking and security of chips and other items subject to export control while in transit and shall report any anomalies to BIS, as outlined in Section 11.
+
+■22. Section 762.2 is amended by adding paragraphs (b)(58), (59), and (60) to read as follows:
+
+## PART 750—APPLICATION PROCESSING, ISSUANCE, AND DENIAL
+
+#### § 762.2 Records to be retained. * * * * * (b) * * * (58) § 740.27, License Exception AIA. (59) § 740.28, License Exception ACM.
+
+■19. The authority citation for part 750 continues to read as follows:
+
+Authority: 50 U.S.C. 4801–4852; 50 U.S.C. 4601 et seq.; 50 U.S.C. 1701 et seq.; Sec. 1503, Pub. L. 108–11, 117 Stat. 559; E.O. 13026, 61 FR 58767, 3 CFR, 1996 Comp., p. 228; E.O. 13222, 66 FR 44025, 3 CFR, 2001 Comp., p. 783; E.O. 13637, 78 FR 16129, 3 CFR, 2013 Comp., p. 223; Presidential Determination 2003–23, 68 FR 26459, 3 CFR, 2004 Comp., p. 320.
+
+17. Sanitization and Disposal Procedures. The VEU must incorporate appropriate end-of-life procedures for chip sanitization and disposal that are verifiable and that ensure such chips do not enable prohibited activities, including by exceeding relevant caps.
+
+### (60) § 740.29, License Exception LPP.
+
+## PART 772—DEFINITIONS OF TERMS
+
+■23. The authority citation for part 772 continues to read as follows:
+
+Authority: 50 U.S.C. 4801–4852; 50 U.S.C. 4601 et seq.; 50 U.S.C. 1701 et seq.; E.O. 13222, 66 FR 44025, 3 CFR, 2001 Comp., p. 783.
+
+■20. Section 750.7 is amended by revising paragraph (g) introductory text to read as follows:
+
+Personnel Security
+
+18. Personnel Security Standards and Practices. In addition to the personnel security requirements in Section 13, the VEU must follow the below practices:
+
+§ 750.7 Issuance of licenses. * * * * * (g) License validity period. Licenses involving the export or reexport of items will generally have a four-year validity period, unless a different validity period has been requested and specifically approved by BIS or is otherwise specified on the license at the time that it is issued. Exceptions from the four-year validity period include: license applications for items controlled for short supply reasons, which will be limited to a one-year validity period during which the items must be exported, re-exported, or transferred (in country) and license applications reviewed and approved as an ‘‘emergency’’ (see § 748.4(h) of the EAR); and items controlled under ECCNs 0A501, 0A502, 0A504, 0A505, 0A506, 0A507, 0A508, 0A509, or listed in § 742.6(a)(6)(iii)(A) of the EAR, which will generally be limited to a one-year validity period during which the items must be exported, re-exported, or transferred (in country). Emergency licenses will expire no later than the last day of the calendar month following the month in which the emergency license is issued. The expiration date will be clearly stated on the face of the license. If the expiration date falls on a legal holiday (Federal or State), the validity period is automatically extended to midnight of the first business day following the expiration date. * * * * *
+
+a. The VEU must develop a plan to implement a personnel vetting model covering all individuals granted access to the VEU data center facility or corresponding systems.
+
+b. Personnel granted unescorted access to the VEU data center must be vetted under the following categories:
+
+i. Individuals specifically named on the U.S. Department of Treasury, Office of Foreign Assets Control (OFAC) Specially Designated Nationals List (SDN) or other OFAC sanctions lists; and
+
+ii. Individuals with employment history by a government, intelligence service, or military based in Macau or a destination specified in Country Group D:5, or with any parties on the EAR’s Entity List or OFAC’s SDN, Blocked Persons List, or other sanctions lists should be excluded from consideration. Individuals with employment history with entities headquartered in Macau or a destination specified in Country Group D:5 require additional vetting of their continuing ties, relationships, obligations, or other factors that could incentivize them to act on behalf of an entity headquartered in Macau or a destination specified in Country Group D:5.
+
+c. The VEU must establish and maintain a comprehensive program for detecting, assessing, disclosing, and managing insider threats, in accordance with the Cybersecurity and Infrastructure Security Agency Insider Threat Mitigation Guide, with particular consideration for insider threats that could enable access or prohibited uses by individuals or any other entities.
+
+Adherence to This Agreement
+
+■24. Section 772.1 is amended by adding, in alphabetical order, the definition for ‘‘Model Weights’’ to read as follows:
+
+#### § 772.1 Definitions of terms as used in the Export Administration Regulations (EAR). * * * * * Model Weights. See ECCN 4E091 (Supplement No. 1 to part 774). * * * * *
+
+## PART 774—THE COMMERCE CONTROL LIST
+
+■25. The authority citation for part 774 continues to read as follows:
+
+Authority: 50 U.S.C. 4801–4852; 50 U.S.C. 4601 et seq.; 50 U.S.C. 1701 et seq.; 10 U.S.C. 8720; 10 U.S.C. 8730(e); 22 U.S.C. 287c, 22 U.S.C. 3201 et seq.; 22 U.S.C. 6004; 42 U.S.C. 2139a; 15 U.S.C. 1824; 50 U.S.C. 4305; 22 U.S.C. 7201 et seq.; 22 U.S.C. 7210; E.O. 13026, 61 FR 58767, 3 CFR, 1996 Comp., p. 228; E.O. 13222, 66 FR 44025, 3 CFR, 2001 Comp., p. 783.
+
+■26. Supplement no. 1 to part 774 is amended by:
+
+■a. Revising ECCNs 3A001, 3A090, 3D001, 3E001, 4A003, 4A004, 4A005, 4A090, 4D001, 4D090, and 4E001;
+
+■b. Adding, in numerical order, ECCN 4E091;
+
+■c. Revising, 5A002, 5A992, 5A004, 5D002, 5D992, 5E002, and 5E992. The revisions and addition read as follows:
+
+Supplement No. 1 to Part 774—The Commerce Control List
+
+## PART 762—RECORDKEEPING
+
+19. Enforcement. Failure to adhere to this agreement may result in the revocation of VEU status on a national or global basis, denial of chip allocations or export licenses, as well as other penalties as appropriate under U.S. laws and regulations.
+
+■21. The authority citation for part 762 continues to read as follows:
+
+* * * * * 3A001 Electronic items as follows (see List of Items Controlled). Reason for Control: NS, RS, MT, NP, AT
+
+Authority: 50 U.S.C. 4801–4852; 50 U.S.C. 4601 et seq.; 50 U.S.C. 1701 et seq.; E.O.
+
+Frm 00025
+
+‘‘information security’’ functionality, and associated ‘‘software’’ and ‘‘technology’’ for the ‘‘production’’ or ‘‘development’’ of such microprocessors.
+
+Country chart (see Supp. No. 1
+
+Control(s)
+
+to part 738)
+
+—‘‘Monolithic integrated circuits’’; —‘‘Hybrid integrated circuits’’; —‘‘Multichip integrated circuits’’; —‘‘Film type integrated circuits’’, including
+
+silicon-on-sapphire integrated circuits; —‘‘Optical integrated circuits’’; —‘‘Three dimensional integrated circuits’’; —‘‘Monolithic Microwave Integrated
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions) LVS: N/A for MT, NP; N/A for ‘‘Monolithic
+
+NS applies to ‘‘Monolithic
+
+NS Column 1.
+
+Microwave Integrated Circuit’’ (‘‘MMIC’’) amplifiers in 3A001.b.2 and discrete micro-wave transistors in 3A001.b.3, except those 3A001.b.2 and b.3 items being exported or reexported for use in civil telecommunications applications.
+
+Microwave Integrated Circuit’’ (‘‘MMIC’’) amplifiers in 3A001.b.2, discrete microwave transistors in 3A001.b.3, except those that are being exported or reexported for use in civil telecommunications applications; N/A for and 3A001.z. Yes for: $1500: 3A001.c. $3000: 3A001.b.1, b.2 (exported or reexported for use in civil telecommunications applications), b.3 (exported or reexported for use in civil telecommunications applications), b.9, .d, .e, .f, and .g.
+
+NS applies to entire
+
+NS Column 2.
+
+entry.
+
+RS applies ‘‘Monolithic
+
+RS Column 1.
+
+Microwave Integrated Circuit’’ (‘‘MMIC’’) amplifiers in 3A001.b.2 and discrete micro-wave transistors in 3A001.b.3, except those 3A001.b.2 and b.3 items being exported or reexported for use in civil telecommunications applications.
+
+Circuits’’ (‘‘MMICs’’). a.1. Integrated circuits designed or rated as radiation hardened to withstand any of the following:
+
+a.1.a. A total dose of 5 × 103 Gy (Si), or higher;
+
+a.1.b. A dose rate upset of 5 × 106 Gy (Si)/ s, or higher; or
+
+a.1.c. A fluence (integrated flux) of neutrons (1 MeV equivalent) of 5 × 1013 n/ cm2 or higher on silicon, or its equivalent for other materials;
+
+Note: 3A001.a.1.c does not apply to Metal Insulator Semiconductors (MIS).
+
+$5000: 3A001.a (except a.1.a and a.5.a when controlled for MT), b.4 to b.7, and b.12. GBS: Yes for 3A001.a.1.b, a.2 to a.14 (except
+
+a.2. ‘‘Microprocessor microcircuits,’’ ‘‘microcomputer microcircuits,’’ microcontroller microcircuits, storage integrated circuits manufactured from a compound semiconductor, analog-to-digital converters, integrated circuits that contain analog-to-digital converters and store or process the digitized data, digital-to-analog converters, electro-optical or ‘‘optical integrated circuits’’ designed for ‘‘signal processing’’, field programmable logic devices, custom integrated circuits for which either the function is unknown or the control status of the equipment in which the integrated circuit will be used in unknown, Fast Fourier Transform (FFT) processors, Static Random-Access Memories (SRAMs), or ’non-volatile memories,’ having any of the following:
+
+.a.5.a when controlled for MT), b.2 (exported or reexported for use in civil telecommunications applications), b.8 (except for ‘‘vacuum electronic devices’’ exceeding 18 GHz), b.9., b.10, .g, .h, .i, and z.1.b (exported or reexported for use in civil telecommunications applications). NAC/ACA: Yes, for 3A001.z. AIA: Yes for 3A001.z.1.a, z.2.a, z.3.a, z.4.a ACM: Yes for 3A001.z LPP: Yes for 3A001.z.1.a, z.2.a, z.3.a, z.4.a
+
+RS applies to
+
+To or within any destina-
+
+tion worldwide. See § 742.6(a)(6)(iii)(A) of the EAR. RS applies to
+
+3A001.z.1.a, z.2.a, z.3.a, z.4.a.
+
+To or within destinations
+
+specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii)(B) of the EAR. MT applies to
+
+3A001.z.1.b, z.2.b, z.3.b, z.4.b.
+
+Note: See § 740.2(a)(9)(ii) of the EAR for license exception restrictions for ECCN 3A001.z.
+
+Special Conditions for STA STA: License Exception STA may not be
+
+used to ship any item in 3A001.b.2 or b.3, except those that are being exported or reexported for use in civil telecommunications applications, or 3A001.z to any of the destinations listed in Country Group A:5 or A:6 (See Supplement No. 1 to part 740 of the EAR).
+
+MT Column 1.
+
+3A001.a.1.a when usable in ‘‘missiles’’; and to 3A001.a.5.a when ‘‘designed or modified’’ for military use, hermetically sealed and rated for operation in the temperature range from below ¥54 °C to above +125 °C; and 3A001.z.2.
+
+Technical Note: For the purposes of 3A001.a.2, ’non-volatile memories’ are memories with data retention over a period of time after a power shutdown.
+
+a.2.a. Rated for operation at an ambient temperature above 398 K (+125 °C);
+
+a.2.b. Rated for operation at an ambient temperature below 218 K (¥55 °C); or
+
+List of Items Controlled Related Controls: (1) See Category XV of the
+
+a.2.c. Rated for operation over the entire ambient temperature range from 218 K (¥55 °C) to 398 K (+125 °C);
+
+USML for certain ‘‘space-qualified’’ electronics and Category XI of the USML for certain ASICs, ’transmit/receive modules,’ ’transmit modules,’ or ’MMICs’ ‘‘subject to the ITAR.’’ (2) See also 3A090, 3A101, 3A201, 3A611, 3A901 for cryogenic CMOS integrated circuits and parametric signal amplifiers or quantum limited amplifiers not controlled by 3A001, 3A991, and 9A515. Related Definitions: ’Microcircuit’ means a
+
+NP applies to pulse dis-
+
+NP Column 1.
+
+charge capacitors in 3A001.e.2 and superconducting solenoidal electromagnets in 3A001.e.3 that meet or exceed the technical parameters in 3A201.a and 3A201.b, respectively; and 3A001.z.3.
+
+N.B.: For cryogenic CMOS integrated circuits not specified by 3A001.a.2, see 3A901.a. Note: 3A001.a.2 does not apply to integrated circuits designed for civil automobile or railway train applications.
+
+a.3. ‘‘Microprocessor microcircuits’’, ‘‘microcomputer microcircuits’’ and microcontroller microcircuits, manufactured from a compound semiconductor and operating at a clock frequency exceeding 40 MHz;
+
+device in which a number of passive or active elements are considered as indivisibly associated on or within a continuous structure to perform the function of a circuit. For the purposes of integrated circuits in 3A001.a.1, 5 × 103 Gy(Si) = 5 × 105 Rads (Si); 5 × 106 Gy (Si)/ s = 5 × 108 Rads (Si)/s. Items:
+
+AT applies to entire entry AT Column 1.
+
+Reporting Requirements: See § 743.1 of the
+
+EAR for reporting requirements for exports under 3A001.b.2 or b.3 under License Exceptions, and Validated End-User authorizations. License Requirements: See § 744.17 of the
+
+EAR for additional license requirements for microprocessors having a processing speed of 5 GFLOPS or more and an arithmetic logic unit with an access width of 32 bit or more, including those incorporating
+
+Note: 3A001.a.3 includes digital signal processors, digital array processors and digital coprocessors.
+
+a.4. [Reserved] a.5. Analog-to-Digital Converter (ADC) and Digital-to-Analog Converter (DAC) integrated circuits, as follows:
+
+a.5.a. ADCs having any of the following: a.5.a.1. A resolution of 8 bit or more, but less than 10 bit, with a ‘‘sample rate’’ greater than 1.3 Giga Samples Per Second (GSPS);
+
+a. General purpose integrated circuits, as follows:
+
+Note 1: Integrated circuits include the following types:
+
+Frm 00026
+
+be considered as a conventional (non-interpolating) DAC.
+
+a.5.a.2. A resolution of 10 bit or more, but less than 12 bit, with a ‘‘sample rate’’ greater than 600 Mega Samples Per Second (MSPS);
+
+N)/20,480 ms, where N is the number of points;
+
+b. For interpolating DACs (oversampling DACs), the ’adjusted update rate’ is defined as the DAC update rate divided by the smallest interpolating factor. For interpolating DACs, the ’adjusted update rate’ may be referred to by different terms including: • input data rate • input word rate • input sample rate • maximum total input bus rate • maximum DAC clock rate for DAC clock input a.6. Electro-optical and ‘‘optical integrated circuits’’, designed for ‘‘signal processing’’ and having all of the following:
+
+a.5.a.3. A resolution of 12 bit or more, but less than 14 bit, with a ‘‘sample rate’’ greater than 400 MSPS;
+
+a.5.a.4. A resolution of 14 bit or more, but less than 16 bit, with a ‘‘sample rate’’ greater than 250 MSPS; or
+
+a.5.a.5. A resolution of 16 bit or more with a ‘‘sample rate’’ greater than 65 MSPS;
+
+N.B.: For integrated circuits that contain analog-to-digital converters and store or process the digitized data see 3A001.a.14.
+
+Technical Notes: For the purposes of 3A001.a.5.a: 1. A resolution of n bit corresponds to a quantization of 2n levels.
+
+2. The resolution of the ADC is the number of bits of the digital output that represents the measured analog input. Effective Number of Bits (ENOB) is not used to determine the resolution of the ADC.
+
+Technical Note: For the purposes of 3A001.a.12, when N is equal to 1,024 points, the formula in 3A001.a.12 gives an execution time of 500 ms.
+
+a.13. Direct Digital Synthesizer (DDS) integrated circuits having any of the following:
+
+a.13.a. A Digital-to-Analog Converter (DAC) clock frequency of 3.5 GHz or more and a DAC resolution of 10 bit or more, but less than 12 bit; or
+
+a.13.b. A DAC clock frequency of 1.25 GHz or more and a DAC resolution of 12 bit or more;
+
+Technical Note: For the purposes of 3A001.a.13, the DAC clock frequency may be specified as the master clock frequency or the input clock frequency.
+
+a.6.a. One or more than one internal ‘‘laser’’ diode;
+
+a.14. Integrated circuits that perform or are programmable to perform all of the following:
+
+a.6.b. One or more than one internal light detecting element; and
+
+a.14.a. Analog-to-digital conversions meeting any of the following:
+
+a.6.c. Optical waveguides; a.7. ’Field programmable logic devices’ having any of the following:
+
+3. For ‘‘multiple channel ADCs’’, the ‘‘sample rate’’ is not aggregated and the ‘‘sample rate’’ is the maximum rate of any single channel.
+
+a.14.a.1. A resolution of 8 bit or more, but less than 10 bit, with a ‘‘sample rate’’ greater than 1.3 Giga Samples Per Second (GSPS);
+
+a.7.a. A maximum number of single-ended digital input/outputs of greater than 700; or
+
+4. For ‘‘interleaved ADCs’’ or for ‘‘multiple channel ADCs’’ that are specified to have an interleaved mode of operation, the ‘‘sample rates’’ are aggregated and the ‘‘sample rate’’ is the maximum combined total rate of all of the interleaved channels.
+
+a.14.a.2. A resolution of 10 bit or more, but less than 12 bit, with a ‘‘sample rate’’ greater than 1.0 GSPS;
+
+a.7.b. An ’aggregate one-way peak serial transceiver data rate’ of 500 Gb/s or greater;
+
+Note: 3A001.a.7 includes: —Complex Programmable Logic Devices
+
+a.14.a.3. A resolution of 12 bit or more, but less than 14 bit, with a ‘‘sample rate’’ greater than 1.0 GSPS;
+
+(CPLDs); —Field Programmable Gate Arrays (FPGAs); —Field Programmable Logic Arrays (FPLAs); —Field Programmable Interconnects (FPICs).
+
+a.5.b. Digital-to-Analog Converters (DAC) having any of the following:
+
+a.5.b.1. A resolution of 10-bit or more but less than 12-bit, with an ’adjusted update rate’ of exceeding 3,500 MSPS; or
+
+a.14.a.4. A resolution of 14 bit or more, but less than 16 bit, with a ‘‘sample rate’’ greater than 400 Mega Samples Per Second (MSPS); or
+
+N.B.: For integrated circuits having field programmable logic devices that are combined with an analog-to-digital converter, see 3A001.a.14.
+
+a.5.b.2. A resolution of 12-bit or more and having any of the following:
+
+a.14.a.5. A resolution of 16 bit or more with a ‘‘sample rate’’ greater than 180 MSPS; and
+
+Technical Notes: For the purposes of 3A001.a.7: 1. Maximum number of digital input/ outputs in 3A001.a.7.a is also referred to as maximum user input/outputs or maximum available input/outputs, whether the integrated circuit is packaged or bare die.
+
+a.5.b.2.a. An ’adjusted update rate’ exceeding 1,250 MSPS but not exceeding 3,500 MSPS, and having any of the following: a.5.b.2.a.1. A settling time less than 9 ns to arrive at or within 0.024% of full scale from a full scale step; or
+
+a.5.b.2.a.2. A ’Spurious Free Dynamic Range’ (SFDR) greater than 68 dBc (carrier) when synthesizing a full scale analog signal of 100 MHz or the highest full scale analog signal frequency specified below 100 MHz; or
+
+a.14.b. Any of the following: a.14.b.1. Storage of digitized data; or a.14.b.2. Processing of digitized data; N.B. 1: For analog-to-digital converter integrated circuits see 3A001.a.5.a.
+
+N.B. 2: For field programmable logic devices see 3A001.a.7.
+
+2. ’Aggregate one-way peak serial transceiver data rate’ is the product of the peak serial one-way transceiver data rate times the number of transceivers on the FPGA.
+
+a.5.b.2.b. An ’adjusted update rate’ exceeding 3,500 MSPS;
+
+Technical Notes: For the purposes of 3A001.a.14: 1. A resolution of n bit corresponds to a quantization of 2n levels.
+
+2. The resolution of the ADC is the number of bits of the digital output of the ADC that represents the measured analog input. Effective Number of Bits (ENOB) is not used to determine the resolution of the ADC.
+
+a.8. [Reserved] a.9. [Reserved] a.10. Custom integrated circuits for which the function is unknown, or the control status of the equipment in which the integrated circuits will be used is unknown to the manufacturer, having any of the following:
+
+Technical Notes: For the purposes of 3A001.a.5.b: 1. ’Spurious Free Dynamic Range’ (SFDR) is defined as the ratio of the RMS value of the carrier frequency (maximum signal component) at the input of the DAC to the RMS value of the next largest noise or harmonic distortion component at its output.
+
+3. For integrated circuits with non-interleaving ‘‘multiple channel ADCs’’, the ‘‘sample rate’’ is not aggregated and the ‘‘sample rate’’ is the maximum rate of any single channel.
+
+a.10.a. More than 1,500 terminals; a.10.b. A typical ‘‘basic gate propagation delay time’’ of less than 0.02 ns; or
+
+2. SFDR is determined directly from the specification table or from the characterization plots of SFDR versus frequency.
+
+4. For integrated circuits with ‘‘interleaved ADCs’’ or with ‘‘multiple channel ADCs’’ that are specified to have an interleaved mode of operation, the ‘‘sample rates’’ are aggregated and the ‘‘sample rate’’ is the maximum combined total rate of all of the interleaved channels.
+
+a.10.c. An operating frequency exceeding 3 GHz;
+
+a.11. Digital integrated circuits, other than those described in 3A001.a.3 to 3A001.a.10 and 3A001.a.12, based upon any compound semiconductor and having any of the following:
+
+3. A signal is defined to be full scale when its amplitude is greater than ¥3 dBfs (full scale).
+
+4. ’Adjusted update rate’ for DACs is: a. For conventional (non-interpolating) DACs, the ’adjusted update rate’ is the rate at which the digital signal is converted to an analog signal and the output analog values are changed by the DAC. For DACs where the interpolation mode may be bypassed (interpolation factor of one), the DAC should
+
+b. Microwave or millimeter wave items, as follows:
+
+a.11.a. An equivalent gate count of more than 3,000 (2 input gates); or
+
+Technical Note: For the purposes of 3A001.b, the parameter peak saturated power output may also be referred to on product data sheets as output power, saturated power output, maximum power output, peak power output, or peak envelope power output.
+
+a.11.b. A toggle frequency exceeding 1.2 GHz;
+
+a.12. Fast Fourier Transform (FFT) processors having a rated execution time for an N-point complex FFT of less than (N log2
+
+Frm 00027
+
+Note 3: Notes 1 and 2 following the Category 3 heading for product group A. Systems, Equipment, and Components mean that 3A001.b.2 does not control ‘‘MMICs’’ if they are ‘‘specially designed’’ for other applications, e.g., telecommunications, radar, automobiles.
+
+output power greater than the continuouswave output power.
+
+N.B.: For parametric signal amplifiers or Quantum-limited amplifiers (QLAs) not specified by 3A001.b, see ECCN 3A901.b.
+
+b.2. ‘‘Monolithic Microwave Integrated Circuit’’ (‘‘MMIC’’) amplifiers that any of the following:
+
+b.1. ‘‘Vacuum electronic devices’’ and cathodes, as follows:
+
+N.B.: For ‘‘MMIC’’ amplifiers that have an integrated phase shifter see 3A001.b.12.
+
+Note 1: 3A001.b.1 does not control ‘‘vacuum electronic devices’’ designed or rated for operation in any frequency band and having all of the following:
+
+b.2.a. Rated for operation at frequencies exceeding 2.7 GHz up to and including 6.8 GHz with a ‘‘fractional bandwidth’’ greater than 15%, and having any of the following:
+
+a. Does not exceed 31.8 GHz; and b. Is ‘‘allocated by the ITU’’ for radiocommunications services, but not for radiodetermination.
+
+b.3. Discrete microwave transistors that are any of the following:
+
+b.3.a. Rated for operation at frequencies exceeding 2.7 GHz up to and including 6.8 GHz and having any of the following:
+
+b.2.a.1. A peak saturated power output greater than 75 W (48.75 dBm) at any frequency exceeding 2.7 GHz up to and including 2.9 GHz;
+
+Note 2: 3A001.b.1 does not control non- ‘‘space-qualified’’ ‘‘vacuum electronic devices’’ having all the following:
+
+b.3.a.1. A peak saturated power output greater than 400 W (56 dBm) at any frequency exceeding 2.7 GHz up to and including 2.9 GHz;
+
+b.2.a.2. A peak saturated power output greater than 55 W (47.4 dBm) at any frequency exceeding 2.9 GHz up to and including 3.2 GHz;
+
+a. An average output power equal to or less than 50 W; and
+
+b. Designed or rated for operation in any frequency band and having all of the following:
+
+b.3.a.2. A peak saturated power output greater than 205 W (53.12 dBm) at any frequency exceeding 2.9 GHz up to and including 3.2 GHz;
+
+b.2.a.3. A peak saturated power output greater than 40 W (46 dBm) at any frequency exceeding 3.2 GHz up to and including 3.7 GHz; or
+
+1. Exceeds 31.8 GHz but does not exceed 43.5 GHz; and 2. Is ‘‘allocated by the ITU’’ for radiocommunications services, but not for radiodetermination.
+
+b.3.a.3. A peak saturated power output greater than 115 W (50.61 dBm) at any frequency exceeding 3.2 GHz up to and including 3.7 GHz; or
+
+b.2.a.4. A peak saturated power output greater than 20 W (43 dBm) at any frequency exceeding 3.7 GHz up to and including 6.8 GHz;
+
+b.1.a. Traveling-wave ‘‘vacuum electronic devices,’’ pulsed or continuous wave, as follows:
+
+b.3.a.4. A peak saturated power output greater than 60 W (47.78 dBm) at any frequency exceeding 3.7 GHz up to and including 6.8 GHz;
+
+b.2.b. Rated for operation at frequencies exceeding 6.8 GHz up to and including 16 GHz with a ‘‘fractional bandwidth’’ greater than 10%, and having any of the following:
+
+b.1.a.1. Devices operating at frequencies exceeding 31.8 GHz;
+
+b.3.b. Rated for operation at frequencies exceeding 6.8 GHz up to and including 31.8 GHz and having any of the following:
+
+b.2.b.1. A peak saturated power output greater than 10 W (40 dBm) at any frequency exceeding 6.8 GHz up to and including 8.5 GHz; or
+
+b.1.a.2. Devices having a cathode heater with a turn on time to rated RF power of less than 3 seconds;
+
+b.1.a.3. Coupled cavity devices, or derivatives thereof, with a ‘‘fractional bandwidth’’ of more than 7% or a peak power exceeding 2.5 kW;
+
+b.3.b.1. A peak saturated power output greater than 50 W (47 dBm) at any frequency exceeding 6.8 GHz up to and including 8.5 GHz;
+
+b.2.b.2. A peak saturated power output greater than 5 W (37 dBm) at any frequency exceeding 8.5 GHz up to and including 16 GHz;
+
+b.1.a.4. Devices based on helix, folded waveguide, or serpentine waveguide circuits, or derivatives thereof, having any of the following:
+
+b.3.b.2. A peak saturated power output greater than 15 W (41.76 dBm) at any frequency exceeding 8.5 GHz up to and including 12 GHz;
+
+b.2.c. Rated for operation with a peak saturated power output greater than 3 W (34.77 dBm) at any frequency exceeding 16 GHz up to and including 31.8 GHz, and with a ‘‘fractional bandwidth’’ of greater than 10%; b.2.d. Rated for operation with a peak saturated power output greater than 0.1 nW (¥70 dBm) at any frequency exceeding 31.8 GHz up to and including 37 GHz;
+
+b.1.a.4.a. An ‘‘instantaneous bandwidth’’ of more than one octave, and average power (expressed in kW) times frequency (expressed in GHz) of more than 0.5;
+
+b.1.a.4.b. An ‘‘instantaneous bandwidth’’ of one octave or less, and average power (expressed in kW) times frequency (expressed in GHz) of more than 1;
+
+b.3.b.3. A peak saturated power output greater than 40 W (46 dBm) at any frequency exceeding 12 GHz up to and including 16 GHz; or
+
+b.3.b.4. A peak saturated power output greater than 7 W (38.45 dBm) at any frequency exceeding 16 GHz up to and including 31.8 GHz;
+
+b.3.c. Rated for operation with a peak saturated power output greater than 0.5 W (27 dBm) at any frequency exceeding 31.8 GHz up to and including 37 GHz;
+
+b.2.e. Rated for operation with a peak saturated power output greater than 1 W (30 dBm) at any frequency exceeding 37 GHz up to and including 43.5 GHz, and with a ‘‘fractional bandwidth’’ of greater than 10%;
+
+b.1.a.4.c. Being ‘‘space-qualified’’; or b.1.a.4.d. Having a gridded electron gun; b.1.a.5. Devices with a ‘‘fractional bandwidth’’ greater than or equal to 10%, with any of the following:
+
+b.3.d. Rated for operation with a peak saturated power output greater than 1 W (30 dBm) at any frequency exceeding 37 GHz up to and including 43.5 GHz;
+
+b.2.f. Rated for operation with a peak saturated power output greater than 31.62 mW (15 dBm) at any frequency exceeding 43.5 GHz up to and including 75 GHz, and with a ‘‘fractional bandwidth’’ of greater than 10%; b.2.g. Rated for operation with a peak saturated power output greater than 10 mW (10 dBm) at any frequency exceeding 75 GHz up to and including 90 GHz, and with a ‘‘fractional bandwidth’’ of greater than 5%; or
+
+b.1.a.5.a. An annular electron beam; b.1.a.5.b. A non-axisymmetric electron beam; or
+
+b.1.a.5.c. Multiple electron beams; b.1.b. Crossed-field amplifier ‘‘vacuum electronic devices’’ with a gain of more than 17 dB; b.1.c. Thermionic cathodes, designed for ‘‘vacuum electronic devices,’’ producing an emission current density at rated operating conditions exceeding 5 A/cm2 or a pulsed (non-continuous) current density at rated operating conditions exceeding 10 A/cm2;
+
+b.3.e. Rated for operation with a peak saturated power output greater than 0.1 nW (¥70 dBm) at any frequency exceeding 43.5 GHz; or
+
+b.3.f. Other than those specified by 3A001.b.3.a to 3A001.b.3.e and rated for operation with a peak saturated power output greater than 5 W (37.0 dBm) at all frequencies exceeding 8.5 GHz up to and including 31.8 GHz;
+
+b.2.h. Rated for operation with a peak saturated power output greater than 0.1 nW (¥70 dBm) at any frequency exceeding 90 GHz;
+
+b.1.d. ‘‘Vacuum electronic devices’’ with the capability to operate in a ’dual mode.’
+
+Note 1: The control status of a transistor in 3A001.b.3.a through 3A001.b.3.e, whose rated operating frequency includes frequencies listed in more than one frequency range, as defined by 3A001.b.3.a through 3A001.b.3.e, is determined by the lowest peak saturated power output control threshold.
+
+Note 1: [Reserved] Note 2: The control status of the ‘‘MMIC’’ whose rated operating frequency includes frequencies listed in more than one frequency range, as defined by 3A001.b.2.a through 3A001.b.2.h, is determined by the lowest peak saturated power output control threshold.
+
+Technical Note: For the purposes of 3A001.b.1.d, ’dual mode’ means the ‘‘vacuum electronic device’’ beam current can be intentionally changed between continuous-wave and pulsed mode operation by use of a grid and produces a peak pulse
+
+Note 2: 3A001.b.3 includes bare dice, dice mounted on carriers, or dice mounted in packages. Some discrete transistors may also
+
+Frm 00028
+
+3. For converters and harmonic mixers, designed to extend the operating or frequency range of signal analyzers, signal generators, network analyzers or microwave test receivers, see 3A001.b.7.
+
+be referred to as power amplifiers, but the status of these discrete transistors is determined by 3A001.b.3.
+
+b.4. Microwave solid state amplifiers and microwave assemblies/modules containing microwave solid state amplifiers, that are any of the following:
+
+b.9.c.1. For frequencies equal to or less than 18 GHz, an RF output power greater than 100 W; or
+
+b.9.c.2. A frequency greater than 18 GHz; Technical Notes: For the purposes of 3A001.b.9: 1. To calculate the volume in 3A001.b.9.b, the following example is provided: for a maximum rated power of 20 W, the volume would be: 20 W × 10 cm3/W = 200 cm3.
+
+Note 1: [Reserved] Note 2: The control status of an item whose rated operating frequency includes frequencies listed in more than one frequency range, as defined by 3A001.b.4.a through 3A001.b.4.e, is determined by the lowest peak saturated power output control threshold.
+
+b.4.a. Rated for operation at frequencies exceeding 2.7 GHz up to and including 6.8 GHz with a ‘‘fractional bandwidth’’ greater than 15%, and having any of the following:
+
+b.4.a.1. A peak saturated power output greater than 500 W (57 dBm) at any frequency exceeding 2.7 GHz up to and including 2.9 GHz;
+
+2. The ’turn-on time’ in 3A001.b.9.a refers to the time from fully-off to fully operational, i.e., it includes the warm-up time of the MPM.
+
+b.5. Electronically or magnetically tunable band-pass or band-stop filters, having more than 5 tunable resonators capable of tuning across a 1.5:1 frequency band (fmax/fmin) in less than 10 ms and having any of the following:
+
+b.4.a.2. A peak saturated power output greater than 270 W (54.3 dBm) at any frequency exceeding 2.9 GHz up to and including 3.2 GHz;
+
+b.4.a.3. A peak saturated power output greater than 200 W (53 dBm) at any frequency exceeding 3.2 GHz up to and including 3.7 GHz; or
+
+b.10. Oscillators or oscillator assemblies, specified to operate with a single sideband (SSB) phase noise, in dBc/Hz, less (better) than ¥ (126 + 20log10F ¥ 20log10f) anywhere within the range of 10 Hz ≤ F ≤ 10 kHz;
+
+b.5.a. A band-pass bandwidth of more than 0.5% of center frequency; or b.5.b. A band-stop bandwidth of less than 0.5% of center frequency; b.6. [Reserved] b.7. Converters and harmonic mixers, that are any of the following:
+
+b.4.a.4. A peak saturated power output greater than 90 W (49.54 dBm) at any frequency exceeding 3.7 GHz up to and including 6.8 GHz;
+
+Technical Note: For the purposes of 3A001.b.10, F is the offset from the operating frequency in Hz and f is the operating frequency in MHz.
+
+b.11. ‘Frequency synthesizer’ ‘‘electronic assemblies’’ having a ‘‘frequency switching time’’ as specified by any of the following:
+
+b.7.a. Designed to extend the frequency range of ‘‘signal analyzers’’ beyond 90 GHz;
+
+b.4.b. Rated for operation at frequencies exceeding 6.8 GHz up to and including 31.8 GHz with a ‘‘fractional bandwidth’’ greater than 10%, and having any of the following:
+
+b.11.a. Less than 143 ps; b.11.b. Less than 100 ms for any frequency change exceeding 2.2 GHz within the synthesized frequency range exceeding 4.8 GHz but not exceeding 31.8 GHz;
+
+b.7.b. Designed to extend the operating range of signal generators as follows:
+
+b.7.b.1. Beyond 90 GHz; b.7.b.2. To an output power greater than 100 mW (20 dBm) anywhere within the frequency range exceeding 43.5 GHz but not exceeding 90 GHz;
+
+b.4.b.1. A peak saturated power output greater than 70 W (48.45 dBm) at any frequency exceeding 6.8 GHz up to and including 8.5 GHz;
+
+b.4.b.2. A peak saturated power output greater than 50 W (47 dBm) at any frequency exceeding 8.5 GHz up to and including 12 GHz;
+
+b.11.c. [Reserved] b.11.d. Less than 500 ms for any frequency change exceeding 550 MHz within the synthesized frequency range exceeding 31.8 GHz but not exceeding 37 GHz;
+
+b.7.c. Designed to extend the operating range of network analyzers as follows:
+
+b.11.e. Less than 100 ms for any frequency change exceeding 2.2 GHz within the synthesized frequency range exceeding 37 GHz but not exceeding 75 GHz;
+
+b.7.c.1. Beyond 110 GHz; b.7.c.2. To an output power greater than 31.62 mW (15 dBm) anywhere within the frequency range exceeding 43.5 GHz but not exceeding 90 GHz;
+
+b.4.b.3. A peak saturated power output greater than 30 W (44.77 dBm) at any frequency exceeding 12 GHz up to and including 16 GHz; or
+
+b.11.f. Less than 100 ms for any frequency change exceeding 5.0 GHz within the synthesized frequency range exceeding 75 GHz but not exceeding 90 GHz; or
+
+b.7.c.3. To an output power greater than 1 mW (0 dBm) anywhere within the frequency range exceeding 90 GHz but not exceeding 110 GHz; or b.7.d. Designed to extend the frequency range of microwave test receivers beyond 110 GHz;
+
+b.4.b.4. A peak saturated power output greater than 20 W (43 dBm) at any frequency exceeding 16 GHz up to and including 31.8 GHz;
+
+b.4.c. Rated for operation with a peak saturated power output greater than 0.5 W (27 dBm) at any frequency exceeding 31.8 GHz up to and including 37 GHz;
+
+b.11.g. Less than 1 ms within the synthesized frequency range exceeding 90 GHz;
+
+Technical Note: For the purposes of 3A001.b.11, a ‘frequency synthesizer’ is any kind of frequency source, regardless of the actual technique used, providing a multiplicity of simultaneous or alternative output frequencies, from one or more outputs, controlled by, derived from or disciplined by a lesser number of standard (or master) frequencies.
+
+b.8. Microwave power amplifiers containing ‘‘vacuum electronic devices’’ controlled by 3A001.b.1 and having all of the following:
+
+b.4.d. Rated for operation with a peak saturated power output greater than 2 W (33 dBm) at any frequency exceeding 37 GHz up to and including 43.5 GHz, and with a ‘‘fractional bandwidth’’ of greater than 10%;
+
+b.8.a. Operating frequencies above 3 GHz; b.8.b. An average output power to mass ratio exceeding 80 W/kg; and
+
+b.4.e. Rated for operation at frequencies exceeding 43.5 GHz and having any of the following:
+
+b.8.c. A volume of less than 400 cm3; Note: 3A001.b.8 does not control equipment designed or rated for operation in any frequency band which is ‘‘allocated by the ITU’’ for radio-communications services, but not for radio-determination.
+
+b.4.e.1. A peak saturated power output greater than 0.2 W (23 dBm) at any frequency exceeding 43.5 GHz up to and including 75 GHz, and with a ‘‘fractional bandwidth’’ of greater than 10%;
+
+N.B.: For general purpose ‘‘signal analyzers’’, signal generators, network analyzers and microwave test receivers, see 3A002.c, 3A002.d, 3A002.e and 3A002.f, respectively.
+
+b.12. ’Transmit/receive modules, ‘transmit/ receive MMICs, ‘transmit modules,’ and ‘transmit MMICs,’ rated for operation at frequencies above 2.7 GHz and having all of the following:
+
+b.9. Microwave Power Modules (MPM) consisting of, at least, a traveling-wave ‘‘vacuum electronic device,’’ a ‘‘Monolithic Microwave Integrated Circuit’’ (‘‘MMIC’’) and an integrated electronic power conditioner and having all of the following:
+
+b.4.e.2. A peak saturated power output greater than 20 mW (13 dBm) at any frequency exceeding 75 GHz up to and including 90 GHz, and with a ‘‘fractional bandwidth’’ of greater than 5%; or
+
+b.12.a. A peak saturated power output (in watts), Psat, greater than 505.62 divided by the maximum operating frequency (in GHz) squared [Psat>505.62 W*GHz2/fGHz2] for any channel;
+
+b.9.a. A ’turn-on time’ from off to fully operational in less than 10 seconds;
+
+b.4.e.3. A peak saturated power output greater than 0.1 nW (¥70 dBm) at any frequency exceeding 90 GHz; or
+
+b.9.b. A volume less than the maximum rated power in Watts multiplied by 10 cm3/ W; and
+
+b.4.f. [Reserved] N.B.: 1. For ‘‘MMIC’’ amplifiers see 3A001.b.2. 2. For ‘transmit/receive modules’ and ‘transmit modules’ see 3A001.b.12.
+
+b.12.b. A ‘‘fractional bandwidth’’ of 5% or greater for any channel;
+
+b.9.c. An ‘‘instantaneous bandwidth’’ greater than 1 octave (fmax > 2fmin) and having any of the following:
+
+b.12.c. Any planar side with length d (in cm) equal to or less than 15 divided by the lowest operating frequency in GHz [d ≤
+
+Frm 00029
+
+e.2.a.3. A total energy equal to or more than 25 kJ;
+
+acoustic waves (bulk wave or surface wave) and light waves that permit the direct processing of signals or images, including spectral analysis, correlation or convolution;
+
+15cm*GHz*N/fGHz] where N is the number of transmit or transmit/receive channels; and
+
+b.12.d. An electronically variable phase shifter per channel;
+
+e.2.b. Capacitors with a repetition rate of 10 Hz or more (repetition rated capacitors) and having all of the following:
+
+Note: 3A001.c does not control acoustic wave devices that are limited to a single band pass, low pass, high pass or notch filtering, or resonating function.
+
+Technical Notes: For the purposes of 3A001.b.12: 1. A ‘transmit/receive module’ is a multifunction ‘‘electronic assembly’’ that provides bi-directional amplitude and phase control for transmission and reception of signals.
+
+e.2.b.1. A voltage rating equal to or more than 5 kV;
+
+e.2.b.2. An energy density equal to or more than 50 J/kg;
+
+d. Electronic devices and circuits containing ‘‘components,’’ manufactured from ‘‘superconductive’’ materials, ‘‘specially designed’’ for operation at temperatures below the ‘‘critical temperature’’ of at least one of the ‘‘superconductive’’ constituents and having any of the following:
+
+2. A ‘transmit module’ is an ‘‘electronic assembly’’ that provides amplitude and phase control for transmission of signals.
+
+3. A ‘transmit/receive MMIC’ is a multifunction ‘‘MMIC’’ that provides bi-directional amplitude and phase control for transmission and reception of signals.
+
+e.2.b.3. A total energy equal to or more than 100 J; and
+
+e.2.b.4. A charge/discharge cycle life equal to or more than 10,000;
+
+e.3. ‘‘Superconductive’’ electromagnets and solenoids, ‘‘specially designed’’ to be fully charged or discharged in less than one second and having all of the following:
+
+d.1. Current switching for digital circuits using ‘‘superconductive’’ gates with a product of delay time per gate (in seconds) and power dissipation per gate (in watts) of less than 10¥14 J; or
+
+4. A ‘transmit MMIC’ is a ‘‘MMIC’’ that provides amplitude and phase control for transmission of signals.
+
+Note: 3A001.e.3 does not control ‘‘superconductive’’ electromagnets or solenoids ‘‘specially designed’’ for Magnetic Resonance Imaging (MRI) medical equipment.
+
+d.2. Frequency selection at all frequencies using resonant circuits with Q-values exceeding 10,000;
+
+5. 2.7 GHz should be used as the lowest operating frequency (fGHz) in the formula in 3A001.b.12.c for transmit/receive or transmit modules that have a rated operation range extending downward to 2.7 GHz and below [d≤15cm*GHz*N/2.7 GHz].
+
+e.3.a. Energy delivered during the discharge exceeding 10 kJ in the first second;
+
+e. High energy devices as follows: e.1. ‘Cells’ as follows: e.1.a ‘Primary cells’ having any of the following at 20 °C:
+
+e.3.b. Inner diameter of the current carrying windings of more than 250 mm; and
+
+e.3.c. Rated for a magnetic induction of more than 8 T or ‘‘overall current density’’ in the winding of more than 300 A/mm2;
+
+e.1.a.1. ‘Energy density’ exceeding 550 Wh/ kg and a ‘continuous power density’ exceeding 50 W/kg; or
+
+6. 3A001.b.12 applies to ‘transmit/receive modules’ or ‘transmit modules’ with or without a heat sink. The value of d in 3A001.b.12.c does not include any portion of the ‘transmit/receive module’ or ‘transmit module’ that functions as a heat sink.
+
+e.4. Solar cells, cell-interconnectcoverglass (CIC) assemblies, solar panels, and solar arrays, which are ‘‘space-qualified,’’ having a minimum average efficiency exceeding 20% at an operating temperature of 301 K (28 °C) under simulated ‘AM0’ illumination with an irradiance of 1,367 Watts per square meter (W/m2);
+
+e.1.a.2. ‘Energy density’ exceeding 50 Wh/ kg and a ’continuous power density’ exceeding 350 W/kg;
+
+e.1.b. ‘Secondary cells’ having an ‘energy density’ exceeding 350 Wh/kg at 20 °C;
+
+7. ‘Transmit/receive modules’ or ‘transmit modules,’ ‘transmit/receive MMICs’ or ‘transmit MMICs’ may or may not have N integrated radiating antenna elements where N is the number of transmit or transmit/ receive channels.
+
+Technical Notes: 1. For the purposes of 3A001.e.1, ‘energy density’ (Wh/kg) is calculated from the nominal voltage multiplied by the nominal capacity in ampere-hours (Ah) divided by the mass in kilograms. If the nominal capacity is not stated, energy density is calculated from the nominal voltage squared then multiplied by the discharge duration in hours divided by the discharge load in Ohms and the mass in kilograms.
+
+c. Acoustic wave devices as follows and ‘‘specially designed’’ ‘‘components’’ therefor:
+
+c.1. Surface acoustic wave and surface skimming (shallow bulk) acoustic wave devices, having any of the following:
+
+c.1.a. A carrier frequency exceeding 6 GHz; c.1.b. A carrier frequency exceeding 1 GHz, but not exceeding 6 GHz and having any of the following:
+
+Technical Note: For the purposes of 3A001.e.4, ‘AM0’, or ‘Air Mass Zero’, refers to the spectral irradiance of sun light in the earth’s outer atmosphere when the distance between the earth and sun is one astronomical unit (AU).
+
+f. Rotary input type absolute position encoders having an ‘‘accuracy’’ equal to or less (better) than 1.0 second of arc and ‘‘specially designed’’ encoder rings, discs or scales therefor;
+
+2. For the purposes of 3A001.e.1, a ‘cell’ is defined as an electrochemical device, which has positive and negative electrodes, an electrolyte, and is a source of electrical energy. It is the basic building block of a battery.
+
+c.1.b.1. A ‘frequency side-lobe rejection’ exceeding 65 dB;
+
+c.1.b.2. A product of the maximum delay time and the bandwidth (time in ms and bandwidth in MHz) of more than 100;
+
+g. Solid-state pulsed power switching thyristor devices and ‘thyristor modules’, using either electrically, optically, or electron radiation controlled switch methods and having any of the following:
+
+3. For the purposes of 3A001.e.1.a, a ‘primary cell’ is a ‘cell’ that is not designed to be charged by any other source.
+
+c.1.b.3. A bandwidth greater than 250 MHz; or
+
+g.1. A maximum turn-on current rate of rise (di/dt) greater than 30,000 A/ms and offstate voltage greater than 1,100 V; or
+
+4. For the purposes of 3A001.e.1.b, a ‘secondary cell’ is a ‘cell’ that is designed to be charged by an external electrical source.
+
+c.1.b.4. A dispersive delay of more than 10 ms; or
+
+c.1.c. A carrier frequency of 1 GHz or less and having any of the following:
+
+g.2. A maximum turn-on current rate of rise (di/dt) greater than 2,000 A/ms and having all of the following:
+
+5. For the purposes of 3A001.e.1.a, ‘continuous power density’ (W/kg) is calculated from the nominal voltage multiplied by the specified maximum continuous discharge current in ampere (A) divided by the mass in kilograms. ‘Continuous power density’ is also referred to as specific power.
+
+c.1.c.1. A product of the maximum delay time and the bandwidth (time in ms and bandwidth in MHz) of more than 100;
+
+c.1.c.2. A dispersive delay of more than 10 ms; or
+
+c.1.c.3. A ‘frequency side-lobe rejection’ exceeding 65 dB and a bandwidth greater than 100 MHz;
+
+g.2.a. An off-state peak voltage equal to or greater than 3,000 V; and
+
+g.2.b. A peak (surge) current equal to or greater than 3,000 A;
+
+Note 1: 3A001.g. includes: —Silicon Controlled Rectifiers (SCRs) —Electrical Triggering Thyristors (ETTs) —Light Triggering Thyristors (LTTs) —Integrated Gate Commutated Thyristors
+
+Note: 3A001.e does not control batteries, including single-cell batteries.
+
+Technical Note: For the purposes of 3A001.c.1, ‘frequency side-lobe rejection’ is the maximum rejection value specified in data sheet.
+
+e.2. High energy storage capacitors as follows:
+
+(IGCTs) —Gate Turn-off Thyristors (GTOs) —MOS Controlled Thyristors (MCTs) —Solidtrons
+
+e.2.a. Capacitors with a repetition rate of less than 10 Hz (single shot capacitors) and having all of the following:
+
+c.2. Bulk (volume) acoustic wave devices that permit the direct processing of signals at frequencies exceeding 6 GHz;
+
+Note 2: 3A001.g does not control thyristor devices and ‘thyristor modules’ incorporated into equipment designed for civil railway or ‘‘civil aircraft’’ applications.
+
+e.2.a.1. A voltage rating equal to or more than 5 kV;
+
+e.2.a.2. An energy density equal to or more than 250 J/kg; and
+
+c.3. Acoustic-optic ‘‘signal processing’’ devices employing interaction between
+
+22:31 Jan 14, 2025 Frm 00030
+
+z. Any commodity described in 3A001 that meets or exceeds the performance parameters in 3A090, as follows:
+
+Technical Note: For the purposes of 3A001.g, a ‘thyristor module’ contains one or more thyristor devices.
+
+h. Solid-state power semiconductor switches, diodes, or ‘modules’, having all of the following:
+
+to part 738)
+
+z.1.a ‘‘Monolithic Microwave Integrated Circuit’’ (‘‘MMIC’’) amplifiers described in 3A001.b.2 and discrete microwave transistors in 3A001.b.3 that also meet or exceed the performance parameters in ECCN 3A090.a, except those 3A001.b.2 and b.3 items being exported or reexported for use in civil telecommunications applications;
+
+h.1. Rated for a maximum operating junction temperature greater than 488 K (215 °C);
+
+h.2. Repetitive peak off-state voltage (blocking voltage) exceeding 300 V; and
+
+h.3. Continuous current greater than 1 A. Technical Note: For the purposes of 3A001.h, ‘modules’ contain one or more solid-state power semiconductor switches or diodes.
+
+RS applies to 3A090.b ... To or within destinations
+
+specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii)(B) of the EAR. RS applies to 3A090.c ... To or within Macau or a
+
+z.1.b ‘‘Monolithic Microwave Integrated Circuit’’ (‘‘MMIC’’) amplifiers described in 3A001.b.2 and discrete microwave transistors in 3A001.b.3 that also meet or exceed the performance parameters in ECCN 3A090.b, except those 3A001.b.2 and b.3 items being exported or reexported for use in civil telecommunications applications;
+
+Note 1: Repetitive peak off-state voltage in 3A001.h includes drain to source voltage, collector to emitter voltage, repetitive peak reverse voltage and peak repetitive off-state blocking voltage.
+
+destination specified in Country Group D:5 of supplement no. 1 to part 740 of the EAR. See § 742.6(a)(6)(i)(B) of the EAR. AT applies to entire entry AT Column 1.
+
+z.2.a Commodities that are described in 3A001.a.1.a when usable in ‘‘missiles’’ that also meet or exceed the performance parameters in ECCN 3A090.a; and to 3A001.a.5.a when ‘‘designed or modified’’ for military use, hermetically sealed and rated for operation in the temperature range from below ¥54 °C to above +125 °C and that also meet or exceed the performance parameters in ECCN 3A090.a;
+
+Note 2: 3A001.h includes: —Junction Field Effect Transistors (JFETs) —Vertical Junction Field Effect Transistors
+
+(VJFETs) —Metal Oxide Semiconductor Field Effect
+
+Transistors (MOSFETs) —Double Diffused Metal Oxide
+
+Semiconductor Field Effect Transistor (DMOSFET) —Insulated Gate Bipolar Transistor (IGBT) —High Electron Mobility Transistors
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions) LVS: N/A GBS: N/A NAC/ACA: Yes, for 3A090.a, if the item is not
+
+designed or marketed for use in datacenters and has a ‘total processing performance’ of 4800 or more; yes, for 3A090.b, if the item is designed or marketed for use in datacenters. N/A for 3A090.c. HBM: Yes, for 3A090.c. See § 740.25 of the
+
+z.2.b Commodities that are described in 3A001.a.1.a when usable in ‘‘missiles’’ that also meet or exceed the performance parameters in ECCN 3A090.b; and to 3A001.a.5.a when ‘‘designed or modified’’ for military use, hermetically sealed and rated for operation in the temperature range from below ¥54 °C to above +125 °C and that also meet or exceed the performance parameters in ECCN 3A090.b;
+
+(HEMTs) —Bipolar Junction Transistors (BJTs) —Thyristors and Silicon Controlled Rectifiers
+
+(SCRs) —Gate Turn-Off Thyristors (GTOs) —Emitter Turn-Off Thyristors (ETOs) —PiN Diodes —Schottky Diodes
+
+EAR. AIA: Yes for 3A090.a ACM: Yes LPP: Yes for 3A090.a
+
+List of Items Controlled Related Controls: (1) See ECCNs 3D001,
+
+3E001, 5D002.z, and 5D992.z for associated technology and software controls. (2) See ECCNs 3A001.z, 5A002.z, 5A004.z, and 5A992.z. Related Definitions: N/A Items:
+
+z.3.a. Pulse discharge capacitors described in 3A001.e.2 and superconducting solenoidal electromagnets in 3A001.e.3 that meet or exceed the technical parameters in 3A201.a and 3A201.b, respectively and that also meet or exceed the performance parameters in ECCN 3A090.a;
+
+Note 3: 3A001.h does not apply to switches, diodes, or ‘modules’, incorporated into equipment designed for civil automobile, civil railway, or ‘‘civil aircraft’’ applications.
+
+i. Intensity, amplitude, or phase electrooptic modulators, designed for analog signals and having any of the following:
+
+i.1. A maximum operating frequency of more than 10 GHz but less than 20 GHz, an optical insertion loss equal to or less than 3 dB and having any of the following:
+
+a. Integrated circuits having one or more digital processing units having either of the following:
+
+a.1. A ‘total processing performance’ of 4800 or more, or a.2. A ‘total processing performance’ of 1600 or more and a ‘performance density’ of 5.92 or more. b. Integrated circuits having one or more digital processing units having either of the following:
+
+z.3.b Pulse discharge capacitors described in 3A001.e.2 and superconducting solenoidal electromagnets in 3A001.e.3 that meet or exceed the technical parameters in 3A201.a and 3A201.b, respectively and that also meet or exceed the performance parameters in ECCN 3A090.b;
+
+i.1.a. A ‘half-wave voltage’ (‘Vp’) less than 2.7 V when measured at a frequency of 1 GHz or below; or
+
+i.1.b. A ‘Vp’ of less than 4 V when measured at a frequency of more than 1 GHz; or
+
+z.4.a. All other commodities specified in this ECCN that meet or exceed the performance parameters of ECCN 3A090.a; or
+
+i.2. A maximum operating frequency equal to or greater than 20 GHz, an optical insertion loss equal to or less than 3 dB and having any of the following:
+
+b.1. A ‘total processing performance’ of 2400 or more and less than 4800 and a ‘performance density’ of 1.6 or more and less than 5.92, or
+
+z.4.b All other commodities specified in this ECCN that meet or exceed the performance parameters of ECCN 3A090.b. * * * * * 3A090 Integrated circuits as follows (see List of Items Controlled).
+
+i.2.a. A ‘Vp’ less than 3.3 V when measured at a frequency of 1 GHz or below; or
+
+i.2.b. A ‘Vp’ less than 5 V when measured at a frequency of more than 1 GHz.
+
+License Requirements
+
+Note: 3A001.i includes electro-optic modulators having optical input and output connectors (e.g., fiber-optic pigtails).
+
+Reason for Control: RS, AT
+
+Technical Note: For the purposes of 3A001.i, a ‘half-wave voltage’ (‘Vp’) is the applied voltage necessary to make a phase change of 180 degrees in the wavelength of light propagating through the optical modulator.
+
+Control(s)
+
+b.2. A ‘total processing performance’ of 1600 or more and a ‘performance density’ of 3.2 or more and less than 5.92. Note 1 to 3A090.a and 3A090.b: 3A090.a and 3A090.b do not apply to items that are not designed or marketed for use in datacenters and do not have a ‘total processing performance’ of 4800 or more. For 3A090.a and 3A090.b items that are not designed or marketed for use in datacenters and that have a ‘total processing performance’ of 4800 or more, see license exceptions NAC and ACA.
+
+Country chart (see Supp. No. 1
+
+to part 738)
+
+RS applies to 3A090.a ... To or within any destina-
+
+j. through y. [Reserved]
+
+Note 2 to 3A090.a and 3A090.b: Integrated circuits specified by 3A090 include graphical processing units (GPUs), tensor processing
+
+tion worldwide. See
+
+Frm 00031
+
+Exceptions, and Validated End-User authorizations.
+
+Technical note to 3A090.c: ‘Memory bandwidth density’ is the memory bandwidth measured in gigabytes per second divided by the area of the package or stack measured in square millimeters. In the case where a stack is contained in a package, use the memory bandwidth of the packaged device and the area of the package. High bandwidth memory includes dynamic random access memory integrated circuits, regardless of whether they conform to the JEDEC standards for high bandwidth memory, provided they have a ‘memory bandwidth density’ greater than 2 gigabytes per second per square millimeter. This control does not cover co-packaged integrated circuits with both high bandwidth memory and logic integrated circuit where the dominant function of the co-packaged integrated circuit is processing. It does include high bandwidth memory permanently affixed to a logic integrated circuit designed as a control interface and incorporating a physical layer (PHY) function. * * * * * 3D001 ‘‘Software’’ ‘‘specially designed’’ for the ‘‘development’’ or ‘‘production’’ of commodities controlled by 3A001.b to 3A002.h, 3A090, or 3B (except 3B001.a.4, c, d, f.1, f.5, k to n, p.2, p.4, r, 3B002.c, 3B903, 3B904, 3B991, 3B992, 3B993, or 3B994).
+
+units (TPUs), neural processors, in-memory processors, vision processors, text processors, co-processors/accelerators, adaptive processors, field-programmable logic devices (FPLDs), and application-specific integrated circuits (ASICs). Examples of integrated circuits are in the Note to 3A001.a.
+
+Note 3 to 3A090.a and 3A090.b: For ICs that are excluded from ECCN 3A090 under Note 2 or 3 to 3A090, those ICs are also not applicable for classifications made under ECCNs 3A001.z, 4A003.z, 4A004.z, 4A005.z, 4A090, 5A002.z, 5A004.z, 5A992.z, 5D002.z, or 5D992.z because those other CCL classifications are based on the incorporation of an IC that meets the control parameters under ECCN 3A090 or otherwise meets or exceeds the control parameters or ECCNs 3A090 or 4A090. See the Related Controls paragraphs of 3A001.z, 4A003.z, 4A004.z, 4A005.z, 4A090, 5A002.z, 5A004.z, 5A992.z, 5D002.z, or 5D992.z. Technical Notes to 3A090.a and 3A090.b: 1. ‘Total processing performance’ (‘TPP’) is 2 × ‘MacTOPS’ × ‘bit length of the operation’, aggregated over all processing units on the integrated circuit.
+
+a. For purposes of 3A090, ‘MacTOPS’ is the theoretical peak number of Tera (1012) operations per second for multiplyaccumulate computation (D = A × B + C).
+
+b. The 2 in the ‘TPP’ formula is based on industry convention of counting one multiply-accumulate computation, D = A × B + C, as 2 operations for purpose of datasheets. Therefore, 2 × MacTOPS may correspond to the reported TOPS or FLOPS on a datasheet.
+
+License Requirements
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions) TSR: Yes, except for ‘‘software’’ ‘‘specially
+
+designed’’ for the ‘‘development’’ or ‘‘production’’ of Traveling Wave Tube Amplifiers described in 3A001.b.8 having operating frequencies exceeding 18 GHz; or commodities specified in 3A090. AIA: Yes for ‘‘software’’ for commodities
+
+controlled by 3A001.z.1.a, z.2.a, z.3.a, z.4.a, and 3A090.a ACM: Yes for ‘‘software’’ for commodities
+
+controlled by 3A001.z Note: See § 740.2(a)(9)(ii) of the EAR for license exception restrictions for ECCN 3D001 ‘‘software’’ for commodities controlled by 3A001.z and 3A090. IEC: Yes, for ‘‘software’’ for equipment
+
+controlled by 3B001.q, see § 740.2(a)(22) and § 740.24 of the EAR.
+
+Special Conditions for STA STA: License Exception STA may not be
+
+used to ship or transmit ‘‘software’’ ‘‘specially designed’’ for the ‘‘development’’ or ‘‘production’’ of equipment specified by 3A090.a or 3B001. q to any of the destinations listed in Country Group A:5 or A:6 (See Supplement No.1 to part 740 of the EAR); and 3A090.b or 3A002.g.1 to any of the destinations listed in Country Group A:6.
+
+List of Items Controlled Related Controls: N/A Related Definitions: N/A Items: The list of items controlled is
+
+Reason for Control: NS, RS, AT
+
+Control(s)
+
+c. For purposes of 3A090, ‘bit length of the operation’ for a multiply-accumulate computation is the largest bit-length of the inputs to the multiply operation.
+
+NS applies to ‘‘software’’
+
+Country chart (see Supp. No. 1
+
+to part 738)
+
+contained in the ECCN heading. * * * * * 3E001 ‘‘Technology’’ according to the General Technology Note for the ‘‘development’’ or ‘‘production’’ of commodities controlled by 3A (except 3A901, 3A904, 3A980, 3A981, 3A991, 3A992, or 3A999), 3B (except 3B001.a.4, c, d, f.1, f.5, k to n, p.2, p.4, r, 3B002.c, 3B903, 3B904, 3B991, 3B992, 3B993, or 3B994) or 3C (except 3C907, 3C908, 3C909, or 3C992).
+
+Worldwide control. See
+
+#### § 742.4(a)(5) and (b)(10) of the EAR. RS applies to ‘‘software’’
+
+for equipment controlled by 3B001.q.
+
+d. Aggregate the TPPs for each processing unit on the integrated circuit to arrive at a total. ‘TPP’ = TPP1 + TPP2 + . . . . + TPPn (where n is the number or processing units on the integrated circuit).
+
+Worldwide control. See
+
+#### § 742.6(a)(10) and (b)(11) of the EAR. NS applies to ‘‘software’’
+
+for equipment controlled by 3B001.q.
+
+for commodities controlled by 3A001.b to 3A001.h, 3A001.z, and 3B (except as specified in the heading).
+
+2. The rate of ‘MacTOPS’ is to be calculated at its maximum value theoretically possible. The rate of ‘MacTOPS’ is assumed to be the highest value the manufacturer claims in annual or brochure for the integrated circuit. For example, the ‘TPP’ threshold of 4800 can be met with 600 tera integer operations (or 2 × 300 ‘MacTOPS’) at 8 bits or 300 tera FLOPS (or 2 × 150 ‘MacTOPS’) at 16 bits. If the IC is designed for MAC computation with multiple bit lengths that achieve different ‘TPP’ values, the highest ‘TPP’ value should be evaluated against parameters in 3A090.
+
+RS applies to ‘‘software’’
+
+for commodities controlled by 3A001.z.1.a, z.2.a, z.3.a, z.4.a and 3A090.a.
+
+RS applies to ‘‘software’’
+
+for commodities controlled by 3A001.z. 1.b, z.2.b, z.3.b, z.4.b and 3A090.b.
+
+NS Column 1.
+
+To or within any destina-
+
+tion worldwide. See § 742.6(a)(6)(iii)(A) of the EAR.
+
+License Requirements Reason for Control: NS, MT, NP, RS, AT
+
+Country chart (see Supp. No. 1
+
+To or within destinations
+
+Control(s)
+
+specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii)(B) of the EAR. RS applies to ‘‘software’’
+
+3. For integrated circuits specified by 3A090 that provide processing of both sparse and dense matrices, the ‘TPP’ values are the values for processing of dense matrices (e.g., without sparsity).
+
+for commodities controlled by 3A090.c.
+
+to part 738)
+
+NS applies to ‘‘tech-
+
+NS Column 1.
+
+nology’’ for commodities controlled by 3A001, 3A002, 3A003, 3B001 (except as noted in the heading), 3B002 (except 3B002.c), or 3C001 to 3C006.
+
+To or within Macau or a
+
+destination specified in Country Group D:5 of supplement no. 1 to part 740 of the EAR. See § 742.6(a)(6)(i) of the EAR. AT applies to entire entry AT Column 1.
+
+4. ‘Performance density’ is ‘TPP’ divided by ‘applicable die area’. For purposes of 3A090, ‘applicable die area’ is measured in millimeters squared and includes all die area of logic dies manufactured with a process node that uses a non-planar transistor architecture.
+
+Reporting Requirements
+
+c. High bandwidth memory having a ‘memory bandwidth density’ greater than 2 gigabytes per second per square millimeter.
+
+MT applies to ‘‘tech-
+
+MT Column 1.
+
+nology’’ for commodities controlled by 3A001 or 3A101 for MT Reasons.
+
+NP applies to ‘‘tech-
+
+NP Column 1.
+
+nology’’ for commodities controlled by 3A001, 3A201, or 3A225 to 3A234 for NP reasons.
+
+See § 743.1 of the EAR for reporting requirements for exports under License
+
+Frm 00032
+
+3E001 ‘‘technology’’ for commodities controlled by 3A001.z, 3A090. IEC: Yes, for ‘‘technology’’ for equipment
+
+to part 738)
+
+RS applies to ‘‘tech-
+
+Worldwide (See
+
+nology’’ for commodities controlled in 3A090, when exported from Macau or a destination specified in Country Group D:5.
+
+#### § 742.6(a)(6)(ii).
+
+to part 738)
+
+RS applies to
+
+4A003.z.1.a, z.2.a. To or within any destina-
+
+tion worldwide. See § 742.6(a)(6)(iii)(A) of the EAR. RS applies to
+
+controlled by 3B001.q, see § 740.2(a)(22) and § 740.24 of the EAR.
+
+Special Conditions for STA
+
+4A003.z.1.b, z.2.b. To or within destinations
+
+specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii)(B) of the EAR. CC applies to ‘‘digital
+
+STA: License Exception STA may not be
+
+RS applies to ‘‘tech-
+
+To or within any destina-
+
+used to ship or transmit ‘‘technology’’ according to the General Technology Note for the ‘‘development’’ or ‘‘production’’ of equipment specified by ECCNs 3A002.g.1 or 3B001.a.2 to any of the destinations listed in Country Group A:6 (See Supplement No.1 to part 740 of the EAR). License Exception STA may not be used to ship or transmit ‘‘technology’’ according to the General Technology Note for the ‘‘development’’ or ‘‘production’’ of components specified by ECCN 3A001.b.2, b.3, or commodities specified in 3A090, to any of the destinations listed in Country Group A:5 or A:6 (See Supplement No.1 to part 740 of the EAR).
+
+nology’’ for commodities controlled by 3A001.z.1.a, z.2.a, z.3.a, z.4.a, and 3A090.a.
+
+tion worldwide. See § 742.6(a)(6)(iii)(A) of the EAR.
+
+RS applies to ‘‘tech-
+
+To or within destinations
+
+nology’’ for commodities controlled by 3A001.z.1.b, z.2.b, z.3.b, z.4.b and 3A090.b.
+
+specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii)(B) of the EAR. RS applies to ‘‘tech-
+
+To or within Macau or a
+
+nology’’ for commodities controlled by 3A090.c.
+
+destination specified in Country Group D:5 of supplement no. 1 to part 740 of the EAR. See § 742.6(a)(6)(i)(B) of the EAR. RS applies to ‘‘tech-
+
+CC Column 1.
+
+computers’’ for computerized finger-print equipment.
+
+AT applies to entire entry
+
+AT Column 1.
+
+(refer to 4A994 for controls on ‘‘digital computers’’ with an APP >0.0128 but ≤70 WT).
+
+Note: For all destinations, except those countries in Country Group E:1 or E:2 of Supplement No. 1 to part 740 of the EAR, no license is required (NLR) for computers with an ‘‘Adjusted Peak Performance’’ (‘‘APP’’) not exceeding 70 Weighted TeraFLOPS (WT) and for ‘‘electronic assemblies’’ described in 4A003.c that are not capable of exceeding an ‘‘Adjusted Peak Performance’’ (‘‘APP’’) exceeding 70 Weighted TeraFLOPS (WT) in aggregation, except certain transfers as set forth in § 746.3 (Iraq).
+
+List of Items Controlled Related Controls: (1) ‘‘Technology’’ according
+
+to the General Technology Note for the ‘‘development’’ or ‘‘production’’ of certain ‘‘space-qualified’’ atomic frequency standards described in Category XV(e)(9), MMICs described in Category XV(e)(14), and oscillators described in Category XV(e)(15) of the USML are ‘‘subject to the ITAR’’ (see 22 CFR parts 120 through 130). See also 3E101, 3E201 and 9E515. (2) ‘‘Technology’’ for ‘‘development’’ or ‘‘production’’ of ‘‘Microwave Monolithic Integrated Circuits’’ (‘‘MMIC’’) amplifiers in 3A001.b.2 is controlled in this ECCN 3E001; 5E001.d refers only to that additional ‘‘technology’’ ‘‘required’’ for telecommunications. Related Definition: N/A Items: The list of items controlled is
+
+RS Column 2.
+
+nology’’ for commodities controlled by 3A001.a.15 or b.13, 3A004, 3B003, 3C007, 3C008, or 3C009.
+
+AT applies to entire entry AT Column 1.
+
+License Requirements Note: See § 744.17 of the EAR for additional license requirements for microprocessors having a processing speed of 5 GFLOPS or more and an arithmetic logic unit with an access width of 32 bit or more, including those incorporating ‘‘information security’’ functionality, and associated ‘‘software’’ and ‘‘technology’’ for the ‘‘production’’ or ‘‘development’’ of such microprocessors.
+
+Reporting Requirements
+
+Special Post Shipment Verification reporting and recordkeeping requirements for exports of computers to destinations in Computer Tier 3 may be found in § 743.2 of the EAR.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions) LVS: $5000; N/A for 4A003.b, c, and z. GBS: Yes, for 4A003.g and ‘‘specially
+
+contained in the ECCN heading. Note 1: 3E001 does not control ‘‘technology’’ for equipment or ‘‘components’’ controlled by 3A003.
+
+Reporting Requirements
+
+See § 743.1 of the EAR for reporting requirements for exports under License Exceptions, and Validated End-User authorizations.
+
+designed’’ ‘‘parts’’ and ‘‘components’’ therefor, exported separately or as part of a system. APP: Yes, for computers controlled by
+
+Note 2: 3E001 does not control ‘‘technology’’ for integrated circuits controlled by 3A001.a.3 to a.14 or .z, having all of the following:
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+4A003.b, and ‘‘electronic assemblies’’ controlled by 4A003.c, to the exclusion of other technical parameters. See § 740.7 of the EAR. NAC/ACA: Yes, for 4A003.z. AIA: Yes for 4A003.z.1.a, z.2.a ACM: Yes for 4A003.z LPP: Yes for 4A003.z.1.a, z.2.a
+
+(a) Using ‘‘technology’’ at or above 0.130 μm; and
+
+TSR: Yes, except N/A for MT, and
+
+(b) Incorporating multi-layer structures with three or fewer metal layers. * * * * * 4A003 ‘‘Digital computers’’, ‘‘electronic assemblies’’, and related equipment therefor, as follows (see List of Items Controlled) and ‘‘specially designed’’ ‘‘components’’ therefor.
+
+‘‘technology’’ for the ‘‘development’’ or ‘‘production’’ of: (a) vacuum electronic device amplifiers described in 3A001.b.8, having operating frequencies exceeding 19 GHz; (b) solar cells, coverglassinterconnect-cells or covered-interconnectcells (CIC) ‘‘assemblies’’, solar arrays and/ or solar panels described in 3A001.e.4; (c) ‘‘Monolithic Microwave Integrated Circuit’’ (‘‘MMIC’’) amplifiers in 3A001.b.2; and (d) discrete microwave transistors in 3A001.b.3; and (e) commodities described in 3A090. AIA: Yes for ‘‘technology’’ for commodities
+
+Note to List Based License Exceptions: See § 740.2(a)(9)(ii) of the EAR for license exception restrictions for ECCN 4A003.z.
+
+List of Items Controlled Related Controls: See also ECCNs 4A090,
+
+License Requirements Reason for Control: NS, RS, CC, AT
+
+Control(s)
+
+controlled by 3A001.z.1.a, z.2.a, z.3.a, z.4.a, and 3A090.a ACM: Yes for ‘‘technology’’ for commodities
+
+NS applies to 4A003.b,
+
+.c, and .z.1.
+
+NS applies to 4A003.g
+
+controlled by 3A001.z and 3A090
+
+and z.2.
+
+4A994 and 4A980. Related Definitions: N/A Items: Note 1: 4A003 includes the following: —‘Vector processors’ (as defined in Note 7 of
+
+Country chart (see Supp. No. 1
+
+to part 738)
+
+NS Column 1.
+
+the ‘‘Technical Note on ‘‘Adjusted Peak Performance’’ (‘‘APP’’)’’); —Array processors;
+
+NS Column 2.
+
+Frm 00033
+
+z.2.b Commodities specified in 4A003.g parameters in ECCN 4A090.b. 4A004 Computers as follows (see List of Items Controlled) and ‘‘specially designed’’ related equipment, ‘‘electronic assemblies’’ and ‘‘components’’ therefor.
+
+—Digital signal processors; —Logic processors; —Equipment designed for ‘‘image
+
+enhancement.’’ Note 2: The control status of the ‘‘digital computers’’ and related equipment described in 4A003 is determined by the control status of other equipment or systems provided:
+
+a. The ‘‘digital computers’’ or related equipment are essential for the operation of the other equipment or systems;
+
+License Requirements
+
+z.2 Commodities that are described in performance parameters in 4A090.b. 4A005 ‘‘Systems,’’ ‘‘equipment,’’ and ‘‘components’’ therefor, ‘‘specially designed’’ or modified for the generation, command and control, or delivery of ‘‘intrusion software’’ (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: NS, RS, AT
+
+b. The ‘‘digital computers’’ or related equipment are not a ‘‘principal element’’ of the other equipment or systems; and
+
+Control(s)
+
+N.B. 1: The control status of ‘‘signal processing’’ or ‘‘image enhancement’’ equipment ‘‘specially designed’’ for other equipment with functions limited to those required for the other equipment is determined by the control status of the other equipment even if it exceeds the ‘‘principal element’’ criterion.
+
+NS applies to entire
+
+entry.
+
+Reason for Control: NS, RS, AT
+
+Country chart (see Supp. No. 1
+
+Country chart (see Supp. No. 1
+
+to part 738)
+
+Control(s)
+
+to part 738)
+
+NS Column 2.
+
+NS applies to entire
+
+NS Column 1.
+
+RS applies to 4A004.z.1 To or within any destina-
+
+entry.
+
+tion worldwide. See § 742.6(a)(6)(iii)(A) of the EAR. RS applies to 4A004.z.2 To or within destinations
+
+RS applies to items con-
+
+To or within any destina-
+
+tion worldwide. See § 742.6(a)(6)(iii)(A) of the EAR. RS applies to items con-
+
+trolled by 4A005.z.1.
+
+specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii)(B) of the EAR. AT applies to entire entry AT Column 1.
+
+N.B. 2: For the control status of ‘‘digital computers’’ or related equipment for telecommunications equipment, see Category 5, Part 1 (Telecommunications). c. The ‘‘technology’’ for the ‘‘digital computers’’ and related equipment is determined by 4E.
+
+a. [Reserved] b. ‘‘Digital computers’’ having an ‘‘Adjusted Peak Performance’’ (‘‘APP’’) exceeding 70 Weighted TeraFLOPS (WT);
+
+To or within destinations
+
+specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii)(B) of the EAR. AT applies to entire entry AT Column 1.
+
+trolled by 4A005.z.2.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+c. ‘‘Electronic assemblies’’ ‘‘specially designed’’ or modified to be capable of enhancing performance by aggregation of processors so that the ‘‘APP’’ of the aggregation exceeds the limit in 4A003.b.;
+
+Reporting Requirements
+
+LVS: $5000, N/A for 4A004.z GBS: N/A NAC/ACA: Yes, for 4A004.z. AIA: Yes for 4A004.z.1 LPP: Yes for 4A004.z.1
+
+Note 1: 4A003.c applies only to ‘‘electronic assemblies’’ and programmable interconnections not exceeding the limit in 4A003.b when shipped as unintegrated ‘‘electronic assemblies.’’
+
+See § 743.1 of the EAR for reporting requirements for exports under License Exceptions, and Validated End-User authorizations.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+Note: See § 740.2(a)(9)(ii) of the EAR for license exception restrictions for ECCN 4A004.z.
+
+Note 2: 4A003.c does not control ‘‘electronic assemblies’’ ‘‘specially designed’’ for a product or family of products whose maximum configuration does not exceed the limit of 4A003.b.
+
+List of Items Controlled
+
+LVS: N/A GBS: N/A APP: N/A ACE: Yes, except to Country Group E:1 or
+
+Related Controls: See also ECCN 4A090. Related Definitions: N/A Items:
+
+d. to f. [Reserved] N.B.: For ‘‘electronic assemblies,’’ modules or equipment, performing analog-to-digital conversions, see 3A002.h.
+
+E:2. See § 740.22 of the EAR for eligibility criteria. NAC/ACA: Yes, for 4A005.z. AIA: Yes for 4A005.z.1 ACM: Yes for 4A005.z LPP: Yes for 4A005.z.1
+
+a. ‘Systolic array computers’; b. ‘Neural computers’; c. ‘Optical computers’. Technical Notes: 1. For the purposes of 4A004.a, ‘systolic array computers’ are computers where the flow and modification of the data is dynamically controllable at the logic gate level by the user.
+
+g. Equipment ‘‘specially designed’’ for aggregating the performance of ‘‘digital computers’’ by providing external interconnections which allow communications at unidirectional data rates exceeding 2.0 Gbyte/s per link.
+
+Note: See § 740.2(a)(9)(ii) of the EAR for license exception restrictions for ECCN 4A005.z.
+
+Special Conditions for STA
+
+STA: License Exception STA may not be
+
+2. For the purposes of 4A004.b, ‘neural computers’ are computational devices designed or modified to mimic the behavior of a neuron or a collection of neurons, i.e., computational devices which are distinguished by their hardware capability to modulate the weights and numbers of the interconnections of a multiplicity of computational components based on previous data.
+
+Note: 4A003.g does not control internal interconnection equipment (e.g., backplanes, buses) passive interconnection equipment, ‘‘network access controllers’’ or ‘‘communication channel controllers’’.
+
+h. through y. [Reserved] z. Commodities specified in this ECCN 4A003 that also meet or exceed the performance parameters in 4A090.
+
+z.1.a. Commodities specified in 4A003.b or .c that also meet or exceed the performance parameters in ECCN 4A090.a;
+
+used to ship items specified by ECCN 4A005.
+
+List of Items Controlled
+
+Related Controls: (1) Defense articles
+
+described in USML Category XI(b), and software directly related to a defense article, are ‘‘subject to the ITAR’’ (see 22 CFR parts 120 through 130). (2) See also ECCN 4A090. Related Definitions: N/A Items: The list of items controlled is
+
+3. For the purposes of 4A004.c, ‘optical computers’ are computers designed or modified to use light to represent data and whose computational logic elements are based on directly coupled optical devices.
+
+z.1.b Commodities specified in 4A003.b or .c that also meet or exceed the performance parameters in ECCN 4A090.b;
+
+contained in the ECCN heading, except for the commodities controlled under 4A005.z. a. through y. [Reserved] z.1. Commodities that are specified in performance parameters in 4A090.a.
+
+d. through y. [Reserved] z.1. Commodities that are described in performance parameters in 4A090.a; or
+
+z.2.a. Commodities specified in 4A003.g parameters in ECCN 4A090a; or
+
+Frm 00034
+
+z.2 Commodities that are specified in performance parameters in 4A090.b. 4A090 Computers as follows (see List of Items Controlled) and related equipment, ‘‘electronic assemblies,’’ and ‘‘components’’ therefor.
+
+RS applies to ‘‘software’’
+
+for commodities controlled by 4A003.z.1.b, z.2.b, 4A004.z.2, and 4A005.z.2.
+
+Related Controls: N/A Related Definitions: N/A Items:
+
+to part 738)
+
+To or within destinations
+
+specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii)(B) of the EAR. CC applies to ‘‘software’’
+
+License Requirements Reason for Control: RS, AT
+
+Country chart (see Supp. No. 1
+
+Control(s)
+
+to part 738)
+
+RS applies to 4A090.a ... To or within any destina-
+
+for computerized finger-print equipment controlled by 4A003 for CC reasons.
+
+tion worldwide. See § 742.6(a)(6)(iii)(A) of the EAR. RS applies to 4A090.b ... To or within destinations
+
+a. ‘‘Software’’ ‘‘specially designed’’ or modified for the ‘‘development’’ or ‘‘production’’, of equipment or ‘‘software’’ controlled by 4A001, 4A003, 4A004, 4A005 or 4D (except 4D090, 4D906, 4D980, 4D993 or 4D994).
+
+b. ‘‘Software’’, other than that controlled by 4D001.a, ‘‘specially designed’’ or modified for the ‘‘development’’ or ‘‘production’’ of equipment as follows:
+
+CC Column 1.
+
+b.1. ‘‘Digital computers’’ having an ‘‘Adjusted Peak Performance’’ (‘‘APP’’) exceeding 24 Weighted TeraFLOPS (WT);
+
+AT applies to entire entry AT Column 1.
+
+specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii)(B) of the EAR. AT applies to entire entry AT Column 1.
+
+Reporting Requirements
+
+b.2. ‘‘Electronic assemblies’’ ‘‘specially designed’’ or modified for enhancing performance by aggregation of processors so that the ‘‘APP’’ of the aggregation exceeds the limit in 4D001.b.1. * * * * * 4D090 ‘‘Software’’ ‘‘specially designed’’ or modified for the ‘‘development’’ or ‘‘production,’’ of computers and related equipment, ‘‘electronic assemblies,’’ and ‘‘components’’ therefor specified in ECCN 4A090.
+
+See § 743.1 of the EAR for reporting requirements for exports under License Exceptions, and Validated End-User authorizations.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions) TSR: Yes, except for ‘‘software’’ for the
+
+following: (1) The ‘‘development’’ or ‘‘production’’ of commodities with an ‘‘Adjusted Peak Performance’’ (‘‘APP’’) exceeding 29 WT;
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions) LVS: N/A GBS: N/A NAC/ACA: Yes AIA: Yes for 4A090.a ACM: Yes LPP: Yes for 4A090.a
+
+(2) The ‘‘development’’ or ‘‘production’’ of commodities controlled by 4A005 or ‘‘software’’ controlled by 4D004; or
+
+License Requirements
+
+Reason for Control: RS, AT
+
+(3) Commodities controlled by 4A003.z, 4A004.z, and 4A005.z APP: Yes to specific countries (see § 740.7 of
+
+List of Items Controlled Related Controls: (1) For associated
+
+Country chart (see Supp. No. 1
+
+Control(s)
+
+to part 738)
+
+the EAR for eligibility criteria). ACE: Yes for 4D001.a (for the
+
+‘‘software’’ for commodities in this ECCN, see 4D090, 5D002.z, and 5D992.z and for associated ‘‘technology’’ for commodities in this ECCN, see 4E001. (2) Also ECCNs 4A003.z, 4A004.z, 4A005.z, 5A002.z, 5A004.z, and 5A992.z. Related Definitions: N/A Items:
+
+RS applies to ‘‘software’’
+
+To or within any destina-
+
+tion worldwide. See § 742.6(a)(6)(iii)(A) of the EAR. RS applies to ‘‘software’’
+
+for commodities controlled by 4A090.a.
+
+‘‘development’’, ‘‘production’’ or ‘‘use’’ of equipment or ‘‘software’’ specified in ECCN 4A005 or 4D004), except to Country Group E:1 or E:2. See § 740.22 of the EAR for eligibility criteria. AIA: Yes for ‘‘software’’ for commodities
+
+To or within destinations
+
+specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii)(B) of the EAR. AT applies to entire entry AT Column 1.
+
+for commodities controlled by 4A090.b.
+
+controlled by 4A003.z.1.a, z.2.a, 4A004.z.1, and 4A005.z.1 ACM: Yes for ‘‘software’’ for commodities
+
+a. Computers, ‘‘electronic assemblies,’’ and ‘‘components’’ containing integrated circuits, any of which meets or exceeds the limits in 3A090.a. b. Computers, ‘‘electronic assemblies,’’ and ‘‘components’’ containing integrated circuits, any of which meets or exceeds the limits in 3A090.b. Technical Note: For purposes of 4A090.a and .b, computers include ‘‘digital computers,’’ ‘‘hybrid computers,’’ and analog computers. * * * * * 4D001 ‘‘Software’’ as follows (see List of Items Controlled).
+
+controlled by 4A003.z Note: See § 740.2(a)(9)(ii) for license exception restrictions for ‘‘software’’ for commodities controlled by 4A003.z, 4A004.z, and 4A005.z.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+Special Conditions for STA STA: License Exception STA may not be
+
+TSR: N/A AIA: Yes for commodities controlled by
+
+used to ship or transmit ‘‘software’’ ‘‘specially designed’’ or modified for the ‘‘development’’ or ‘‘production’’ of equipment specified by ECCN 4A001.a.2 or for the ‘‘development’’ or ‘‘production’’ of ‘‘digital computers’’ having an ‘Adjusted Peak Performance’ (‘APP’) exceeding 29 Weighted TeraFLOPS (WT) to any of the destinations listed in Country Group A:6 (See Supplement No.1 to part 740 of the EAR); may not be used to ship or transmit ‘‘software’’ specified in 4D001.a ‘‘specially designed’’ for the ‘‘development’’ or ‘‘production’’ of equipment specified by ECCN 4A005; and may not be used to ship or transmit ‘‘software’’ for commodities controlled by 4A003.z.1.a, z.2.a, 4A004.z.1, and 4A005.z.1 to any of the destinations listed in Country Group A:5 or A:6.
+
+License Requirements Reason for Control: NS, RS, CC, AT
+
+Country chart (see Supp. No. 1
+
+Control(s)
+
+to part 738)
+
+NS applies to entire
+
+NS Column 1.
+
+entry.
+
+RS applies to ‘‘software’’
+
+To or within any destina-
+
+for commodities controlled by 4A003.z.1.a, z.2.a, 4A004.z.1, and 4A005.z.1.
+
+tion worldwide. See
+
+4A090.a ACM: Yes
+
+List of Items Controlled
+
+Related Controls: For associated
+
+‘‘technology’’ for software in this ECCN, see 4E001. Related Definitions: N/A Items: The list of items controlled is
+
+contained in the ECCN heading. * * * * * 4E001 ‘‘Technology’’ as follows (see List of Items Controlled).
+
+Reason for Control: NS, MT, RS, CC, AT
+
+Frm 00035
+
+license exception restrictions for technology for .z paragraphs under ECCNs 4A003, 4A004, 4A005 or 4A090, or ‘‘software’’ specified by 4D001 (for 4A003.z, 4A004.z, 4A005.z, and 4A090).
+
+to part 738)
+
+NS applies to entire
+
+NS Column 1.
+
+entry, except for ‘‘technology’’ for 4A090 or ‘‘software’’ specified by 4D090.
+
+to part 738)
+
+RS applies entire entry .. To or within any destina-
+
+tion worldwide. See § 742.6(a)(13). AT applies to entire entry AT Column 1.
+
+Special Conditions for STA STA: License Exception STA may not be
+
+MT Column 1.
+
+MT applies to ‘‘tech-
+
+nology’’ for items controlled by 4A001.a and 4A101 for MT reasons.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions) TSR: N/A AIA: Yes ACM: No
+
+used to ship or transmit ‘‘technology’’ according to the General Technology Note for the ‘‘development’’ or ‘‘production’’ of any of the following equipment or ‘‘software’’: a. Equipment specified by ECCN 4A001.a.2; b. ‘‘Digital computers’’ having an ‘Adjusted Peak Performance’ (‘APP’) exceeding 70 Weighted TeraFLOPS (WT); c. ‘‘software’’ specified in the License Exception STA paragraph found in the License Exception section of ECCN 4D001; or ‘‘technology’’ for commodities controlled by 4A003.z.1.b, z.2.b, 4A004.z.2, 4A005.z.2, 4A090.b or ‘‘software’’ specified by 4D001 (for 4A003.z.1.b, z.2.b, 4A004.z.2, and 4A005.z.2), or 4D090.b to any of the destinations listed in Country Group A:6 (See Supplement No. 1 to part 740 of the EAR). License Exception STA may not be used to ship or transmit ‘‘technology’’ for commodities controlled by 4A003.z.1.a, z.2.a, 4A004.z.1, 4A005.z.1, 4A090.a or ‘‘software’’ specified by 4D001 (for 4A003.z.1.a, z.2.a, 4A004.z.1 and 4A005.z.1), or 4D090.a to any of the destinations listed in Country Group A:5 or A:6 (See Supplement No. 1 to part 740 of the EAR).
+
+RS applies to ‘‘tech-
+
+To or within any destina-
+
+nology’’ for commodities controlled by 4A003.z.1.a, z.2.a, 4A004.z.1, 4A005.z.1, 4A090.a or ‘‘software’’ specified by 4D001 (for 4A003.z.1.a, z.2.a, 4A004.z.1 and 4A005.z.1), or 4D090.a.
+
+tion worldwide. See § 742.6(a)(6)(iii)(A) of the EAR.
+
+RS applies to ‘‘tech-
+
+To or within destinations
+
+nology’’ for commodities controlled by 4A003.z.1.b, z.2.b, 4A004.z.2, 4A005.z.2, 4A090.b or ‘‘software’’ specified by 4D001 (for 4A003.z.1.b, z.2.b, 4A004.z.2, and 4A005.z.2), or 4D090.b.
+
+specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii)(B) of the EAR. CC applies to ‘‘tech-
+
+CC Column 1.
+
+nology’’ for computerized finger-print equipment controlled by 4A003 for CC reasons.
+
+AT applies to entire entry AT Column 1.
+
+Reporting Requirements
+
+List of Items Controlled Related Controls: N/A Related Definitions: N/A Items:
+
+See § 743.1 of the EAR for reporting requirements for exports under License Exceptions, and Validated End-User authorizations.
+
+Special Conditions for STA STA: License Exception STA may not be
+
+used to ship or transmit ‘‘technology’’ specified by ECCN 4E091 to any of the destinations listed in Country Group A:5 or A:6 (See Supplement No.1 to part 740 of the EAR).
+
+List of Items Controlled Related Controls: N/A Related Definition: N/A Items: The list of items controlled is
+
+contained in the ECCN heading. Technical Notes: For the purposes of 4E091: 1. ‘Parameters’ refers to any value learned during training (e.g., network weights, biases, etc.). ‘Parameters’ for an artificial intelligence model are also known as model weights.
+
+2. ‘Operations’ refers to mathematical operations used for pre-training and any subsequent training, such as fine-tuning the pre-trained model, but does not include the collection and curation of the input training data. Training ‘operations’ should account for operations required to perform all steps in the pre-training and subsequent training process, including those for forward and backward propagation for all relevant layers, pooling, and convolutions, regardless of the implementation and hardware limitations, and applied to all relevant operations. For example, consider a model composed of a single densely connected layer with I input neurons, O output neurons, and no biases being trained with backpropagation. Such a model would have a total of N = I * O learned parameters. Each forward pass would require N multiply accumulate operations, or (assuming floating point arithmetic) 2N FLOP. Each backward pass would require 2N multiply accumulate operations, or 4N FLOP. Then, in total, each training data point would require 6N FLOP. Training on a data set of size D would require 6ND total FLOP.
+
+a. ‘‘Technology’’ according to the General Technology Note, for the ‘‘development’’, ‘‘production’’, or ‘‘use’’ of equipment or ‘‘software’’ controlled by 4A (except 4A906, 4A980 or 4A994 and ‘‘use’’ of equipment controlled under 4A090) or 4D (except 4D906, 4D980, 4D993, 4D994 and ‘‘use’’ of software controlled under 4D090).
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions) TSR: Yes, except for the following:
+
+(1) ‘‘Technology’’ for the ‘‘development’’ or ‘‘production’’ of commodities with an ‘‘Adjusted Peak Performance’’ (‘‘APP’’) exceeding 70 WT or for the ‘‘development’’ or ‘‘production’’ of commodities controlled by 4A005 or ‘‘software’’ controlled by 4D004;
+
+b. ‘‘Technology’’ according to the General Technology Note, other than that controlled by 4E001.a, for the ‘‘development’’ or ‘‘production’’ of equipment as follows:
+
+(2) ‘‘Technology’’ for the ‘‘development’’ of ‘‘intrusion software’’; or
+
+b.1. ‘‘Digital computers’’ having an ‘‘Adjusted Peak Performance’’ (‘‘APP’’) exceeding 24 Weighted TeraFLOPS (WT);
+
+(3) ‘‘Technology’’ for commodities controlled by 4A003.z, 4A004.z, 4A005.z, 4A090 or ‘‘software’’ specified by 4D001 (for 4A003.z, 4A004.z, and 4A005.z), or 4D090 APP: Yes, to specific countries (see § 740.7 of
+
+b.2. ‘‘Electronic assemblies’’ ‘‘specially designed’’ or modified for enhancing performance by aggregation of processors so that the ‘‘APP’’ of the aggregation exceeds the limit in 4E001.b.1.
+
+the EAR for eligibility criteria). ACE: Yes for 4E001.a (for the ‘‘development’’,
+
+‘‘production’’ or ‘‘use’’ of equipment or ‘‘software’’ specified in ECCN 4A005 or 4D004); and for 4E001.c, except to Country Group E:1 or E:2. See § 740.22 of the EAR for eligibility criteria. AIA: Yes for ‘‘technology’’ for commodities
+
+3. If more than ten percent of the ‘operations’ involve training on data that was not ‘‘published’’ as defined in § 734.7(a) and was generated by a single data-generation model, then ‘operations’ the data-generation model used to generate the data should be counted, and if the data-generation model’s ‘parameters’ were not ‘‘published,’’ then the training ‘operations’ used to train the data-generating model should be counted as well. A single data-generation model includes variants of the same model, such as different checkpoints or fine-tuned variants. If multiple models with ‘parameters’ that were not ‘‘published’’ were used to generate data used for more than ten percent of the training ‘operations,’ then only the training
+
+c. ‘‘Technology’’ for the ‘‘development’’ of ‘‘intrusion software.’’
+
+Note 1: 4E001.a and .c do not apply to ‘‘vulnerability disclosure’’ or ‘‘cyber incident response’’.
+
+Note 2: Note 1 does not diminish national authorities’ rights to ascertain compliance with 4E001.a and .c. 4E091 ‘Parameters’ for an artificial intelligence model trained utilizing 1026 or more ‘operations.’
+
+controlled by 4A003.z.1.a, z.2.a, 4A004.z.1, 4A005.z.1, 4A090.a or ‘‘software’’ specified by 4D001 (for 4A003.z.1.a, z.2.a, 4A004.z.1 and 4A005.z.1), or 4D090.a ACM: Yes for ‘‘technology’’ for commodities
+
+controlled by 4A003.z, 4A004.z, 4A005.z, 4A090 or ‘‘software’’ specified by 4D001 (for 4A003.z, 4A004.z and 4A005.z), or 4D090.
+
+Reason for Control: RS, AT
+
+Frm 00036
+
+‘operations’ of the data-generation model using the most training ‘operations’ should be counted. No actual training ‘operation’ should be counted more than once, so if data-generation model A is used to train data-generation model B and data-generation model C, and models B and C are used to train model D, then the operations to train A are only added to the number of operations for model D once.
+
+(See ECCN 5D992.c). (5) After classification or self-classification in accordance with § 740.17(b) of the EAR, mass market encryption commodities that meet eligibility requirements are released from ‘‘EI’’ and ‘‘NS’’ controls. These commodities are designated 5A992.c. (6) See also ECCNs 3A090 and 4A090. Related Definitions: N/A Items:
+
+to part 738)
+
+EI applies to entire entry Refer to § 742.15 of the
+
+EAR.
+
+License Requirements Note: See § 744.17 of the EAR for additional license requirements for microprocessors having a processing speed of 5 GFLOPS or more and an arithmetic logic unit with an access width of 32 bit or more, including those incorporating ‘‘information security’’ functionality, and associated ‘‘software’’ and ‘‘technology’’ for the ‘‘production’’ or ‘‘development’’ of such microprocessors.
+
+Notes: 1. In accordance with § 734.7 of the EAR, 4E091 does not control the ‘parameters’ of any artificial intelligence model that have been ‘‘published’’ as defined in § 734.7(a). 4E091 also does not control the ‘parameters’ of any artificial intelligence model derived from a model whose parameters have been ‘published,’ except where the model has been derived using additional training ‘operations’ that constitute more than 2.5 × 1025 ‘operations’ or more than 25 percent of the training ‘operations’ defined in Note 2, whichever is higher.
+
+a. Designed or modified to use ‘cryptography for data confidentiality’ having a ‘described security algorithm’, where that cryptographic capability is usable, has been activated, or can be activated by any means other than secure ‘‘cryptographic activation’’, as follows:
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions) LVS: Yes: $500 for ‘‘components,’’
+
+a.1. Items having ‘‘information security’’ as a primary function;
+
+a.2. Digital communication or networking systems, equipment or components, not specified in paragraph 5A002.a.1;
+
+N/A for systems and equipment. N/A for 5A002.z. GBS: N/A ENC: Yes for certain EI controlled
+
+2. 4E091 does not control the ‘parameters’ of any artificial intelligence model trained utilizing fewer ‘operations’ than the number needed, based on the most efficient ‘‘published’’ methods to train artificial intelligence models, to train an artificial intelligence model as capable, according to an aggregate of widely used benchmarks, as the most advanced artificial intelligence model that has been ‘‘published’’ as defined in § 734.7(a) of the EAR. To provide certainty for this exclusion, the number of ‘operations’ needed should not decrease with algorithmic improvements.
+
+a.3. Computers, other items having information storage or processing as a primary function, and components therefor, not specified in paragraphs 5A002.a.1 or .a.2;
+
+commodities, see § 740.17 of the EAR for eligibility. NAC/ACA: Yes, for 5A002.z.1.b, z.2.b AIA: Yes 5A002.z.1.a, z.2.a, z.3.a, z.4.a, z.5.a ACM: Yes for 5A002.z LPP: Yes for 5A002.z.1.a, z.2.a, z.3.a, z.4.a,
+
+N.B.: For operating systems see also 5D002.a.1 and .c.1. a.4. Items, not specified in paragraphs 5A002.a.1 to a.3, where the ‘cryptography for data confidentiality’ having a ‘described security algorithm’ meets all of the following:
+
+z.5.a Note: See § 740.2(a)(9)(ii) of the EAR for license exception restrictions for ECCN 5A002.z.
+
+List of Items Controlled
+
+a.4.a. It supports a non-primary function of the item; and
+
+a.4.b. It is performed by incorporated equipment or ‘‘software’’ that would, as a standalone item, be specified by ECCNs 5A002, 5A003, 5A004, 5B002 or 5D002. N.B. to paragraph a.4: See Related Control Paragraph (4) of this ECCN 5A002 for examples of items not controlled by 5A002.a.4. Technical Notes: 1. For the purposes of 5A002.a, ‘cryptography for data confidentiality’ means ‘‘cryptography’’ that employs digital techniques and performs any cryptographic function other than any of the following:
+
+Related Controls: (1) ECCN 5A002.a controls ‘‘components’’ providing the means or functions necessary for ‘‘information security.’’ All such ‘‘components’’ are presumptively ‘‘specially designed’’ and controlled by 5A002.a. (2) See USML Categories XI (including XI(b)) and XIII(b) (including XIII(b)(2)) for controls on systems, equipment, and components described in 5A002.d or .e that are ‘‘subject to the ITAR’’ (see 22 CFR parts 120 through 130). (3) For ‘‘satellite navigation system’’ receiving equipment containing or employing decryption see 7A005, and for related decryption ‘‘software’’ and ‘‘technology’’ see 7D005 and 7E001. (4) Noting that items may be controlled elsewhere on the CCL, examples of items not controlled by ECCN 5A002.a.4 include the following: (a) An automobile where the only ‘cryptography for data confidentiality’ having a ‘described security algorithm’ is performed by a Category 5—Part 2 Note 3 eligible mobile telephone that is built into the car. In this case, secure phone communications support a non-primary function of the automobile but the mobile telephone (equipment), as a standalone item, is not controlled by ECCN 5A002 because it is excluded by the Cryptography Note (Note 3) (See ECCN 5A992.c). (b) An exercise bike with an embedded Category 5—Part 2 Note 3 eligible web browser, where the only controlled cryptography is performed by the web browser. In this case, secure web browsing supports a non-primary function of the exercise bike but the web browser (‘‘software’’), as a standalone item, is not controlled by ECCN 5D002 because it is excluded by the Cryptography Note (Note 3)
+
+2.a. An exporter may determine whether an AI model falls within this exclusion by either:
+
+2.a.1. Self classifying by relying on guidance published by BIS or technical opinions issued by the U.S. AI Safety Institute and the Department of Energy, should such opinions have been published, or
+
+2.a.2. A classification request to BIS in accordance with the procedures in §§ 748.1 and 748.3 of the EAR. * * * * * 5A002 ‘‘Information security’’ systems, equipment and ‘‘components,’’ as follows (see List of Items Controlled).
+
+License Requirements Reason for Control: NS, RS, AT, EI
+
+Country chart (see Supp. No. 1
+
+Control(s)
+
+to part 738)
+
+NS applies to entire
+
+NS Column 1.
+
+entry.
+
+RS applies to items con-
+
+To or within any destina-
+
+trolled by 5A002.z.1.a, z.2.a, z.3.a, z.4.a, z.5.a.
+
+tion worldwide. See § 742.6(a)(6)(iii)(A) of the EAR. RS applies to items con-
+
+To or within destinations
+
+specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii)(B) of AT applies to entire entry AT Column 1.
+
+trolled by 5A002.z.1.b, z.2.b, z.3.b, z.4.b, z.5.b.
+
+1.a. ‘‘Authentication;’’ 1.b. Digital signature; 1.c. Data integrity; 1.d. Non-repudiation; 1.e. Digital rights management, including the execution of copy-protected ‘‘software;’’
+
+1.f. Encryption or decryption in support of entertainment, mass commercial broadcasts or medical records management; or
+
+1.g. Key management in support of any function described in paragraphs 1.a to 1.f of this Technical Note paragraph 1.
+
+2. For the purposes of 5A002.a, ‘described security algorithm’ means any of the following:
+
+2.a. A ‘‘symmetric algorithm’’ employing a key length in excess of 56 bits, not including parity bits;
+
+2.b. An ‘‘asymmetric algorithm’’ where the security of the algorithm is based on any of the following:
+
+2.b.1. Factorization of integers in excess of 512 bits (e.g., RSA); 2.b.2. Computation of discrete logarithms in a multiplicative group of a finite field of size greater than 512 bits (e.g., Diffie-Hellman over Z/pZ); or
+
+2.b.3. Discrete logarithms in a group other than mentioned in paragraph 2.b.2 of this
+
+Frm 00037
+
+j.1.b. Networking equipment meeting all of the following:
+
+transactions’ in 5A002 Note 2 paragraph b. includes the collection and settlement of fares or credit functions.
+
+Technical Note in excess of 112 bits (e.g., Diffie-Hellman over an elliptic curve); or
+
+2.c. An ‘‘asymmetric algorithm’’ where the security of the algorithm is based on any of the following:
+
+j.1.b.1. Being specially designed to communicate with the devices specified by paragraph j.1.a. above; and
+
+c. Portable or mobile radiotelephones for civil use (e.g., for use with commercial civil cellular radio communication systems) that are not capable of transmitting encrypted data directly to another radiotelephone or equipment (other than Radio Access Network (RAN) equipment), nor of passing encrypted data through RAN equipment (e.g., Radio Network Controller (RNC) or Base Station Controller (BSC));
+
+2.c.1. Shortest vector or closest vector problems associated with lattices (e.g., NewHope, Frodo, NTRUEncrypt, Kyber, Titanium);
+
+2.c.2. Finding isogenies between Supersingular elliptic curves (e.g., Supersingular Isogeny Key Encapsulation); or
+
+2.c.3. Decoding random codes (e.g., McEliece, Niederreiter).
+
+j.1.b.2. The ‘‘information security’’ functionality is limited to supporting the ‘connected civil industry application’ of devices specified by paragraph j.1.a. above, or the tasks of ‘‘OAM’’ of this networking equipment or of other items specified by paragraph j. of this Note; and
+
+j.2. Where the ‘‘information security’’ functionality implements only published or commercial cryptographic standards, and the cryptographic functionality cannot easily be changed by the user.
+
+d. Cordless telephone equipment not capable of end-to-end encryption where the maximum effective range of unboosted cordless operation (i.e., a single, unrelayed hop between terminal and home base station) is less than 400 meters according to the manufacturer’s specifications;
+
+Technical Note: An algorithm described by Technical Note 2.c. may be referred to as being post-quantum, quantum-safe or quantum-resistant.
+
+Note 1: Details of items must be accessible and provided upon request, in order to establish any of the following:
+
+Technical Notes: 1. For the purposes of 5A002.a Note 2.j, ‘connected civil industry application’ means a network-connected consumer or civil industry application other than ‘‘information security’’, digital communication, general purpose networking or computing.
+
+e. Portable or mobile radiotelephones and similar client wireless devices for civil use, that implement only published or commercial cryptographic standards (except for anti-piracy functions, which may be non-published) and also meet the provisions of paragraphs a.2 to a.4 of the Cryptography Note (Note 3 in Category 5—Part 2), that have been customized for a specific civil industry application with features that do not affect the cryptographic functionality of these original non-customized devices;
+
+a. Whether the item meets the criteria of 5A002.a.1 to a.4; or b. Whether the cryptographic capability for data confidentiality specified by 5A002.a is usable without ‘‘cryptographic activation.’’
+
+Note 2: 5A002.a does not control any of the following items, or specially designed ‘‘information security’’ components therefor:
+
+a. Smart cards and smart card ‘readers/ writers’ as follows:
+
+a.1. A smart card or an electronically readable personal document (e.g., token coin, e-passport) that meets any of the following:
+
+2. For the purposes of 5A002.a Note 2.j.1.a.1, ‘non-arbitrary data’ means sensor or metering data directly related to the stability, performance or physical measurement of a system (e.g., temperature, pressure, flow rate, mass, volume, voltage, physical location, etc.), that cannot be changed by the user of the device.
+
+b. Being a ‘cryptographic activation token’; Technical Note: For the purposes of 5A002.b, a ‘cryptographic activation token’ is an item designed or modified for any of the following:
+
+f. Items, where the ‘‘information security’’ functionality is limited to wireless ‘‘personal area network ’’ functionality implementing only published or commercial cryptographic standards;
+
+a.1.a. The cryptographic capability meets all of the following:
+
+a.1.a.1. It is restricted for use in any of the following:
+
+1. Converting, by means of ‘‘cryptographic activation’’, an item not specified by Category 5—Part 2 into an item specified by 5A002.a or 5D002.c.1, and not released by the Cryptography Note (Note 3 in Category 5— Part 2); or
+
+g. Mobile telecommunications Radio Access Network (RAN) equipment designed for civil use, which also meet the provisions of paragraphs a.2 to a.4 of the Cryptography Note (Note 3 in Category 5—Part 2), having an RF output power limited to 0.1W (20 dBm) or less, and supporting 16 or fewer concurrent users;
+
+a.1.a.1.a. Equipment or systems, not described by 5A002.a.1 to a.4;
+
+a.1.a.1.b. Equipment or systems, not using ‘cryptography for data confidentiality’ having a ‘described security algorithm’; or
+
+a.1.a.1.c. Equipment or systems, excluded from 5A002.a by entries b. to f. of this Note; and
+
+2. Enabling by means of ‘‘cryptographic activation’’, additional functionality specified by 5A002.a of an item already specified by Category 5—Part 2;
+
+h. Routers, switches, gateways or relays, where the ‘‘information security’’ functionality is limited to the tasks of ‘‘Operations, Administration or Maintenance’’ (‘‘OAM’’) implementing only published or commercial cryptographic standards;
+
+a.1.a.2. It cannot be reprogrammed for any other use; or
+
+a.1.b. Having all of the following: a.1.b.1. It is specially designed and limited to allow protection of ‘personal data’ stored within;
+
+c. Designed or modified to use or perform ‘‘quantum cryptography’’;
+
+Technical Note: For the purposes of 5A002.c,’’quantum cryptography’’ is also known as Quantum Key Distribution (QKD).
+
+d. Designed or modified to use cryptographic techniques to generate channelizing codes, scrambling codes or network identification codes, for systems using ultra-wideband modulation techniques and having any of the following:
+
+i. General purpose computing equipment or servers, where the ‘‘information security’’ functionality meets all of the following:
+
+a.1.b.2. Has been, or can only be, personalized for public or commercial transactions or individual identification; and
+
+i.1. Uses only published or commercial cryptographic standards; and
+
+a.1.b.3. Where the cryptographic capability is not user-accessible;
+
+i.2. Is any of the following: i.2.a. Integral to a CPU that meets the provisions of Note 3 in Category 5—Part 2;
+
+Technical Note to paragraph a.1.b.1 of Note 2: For the purposes of 5A002.a Note 2.– a.1.b.1, ‘personal data’ includes any data specific to a particular person or entity, such as the amount of money stored and data necessary for ‘‘authentication.’’
+
+d.1. A bandwidth exceeding 500 MHz; or d.2. A ‘‘fractional bandwidth’’ of 20% or more;
+
+i.2.b. Integral to an operating system that is not specified by 5D002; or
+
+e. Designed or modified to use cryptographic techniques to generate the spreading code for ‘‘spread spectrum’’ systems, not specified by 5A002.d, including the hopping code for ‘‘frequency hopping’’ systems.
+
+i.2.c. Limited to ‘‘OAM’’ of the equipment; or
+
+a.2. ‘Readers/writers’ specially designed or modified, and limited, for items specified by paragraph a.1 of this Note;
+
+j. Items specially designed for a ‘connected civil industry application’, meeting all of the following:
+
+Technical Note to paragraph a.2 of Note 2: ’For the purposes of 5A002.a Note 2.a.2, ‘readers/writers’ include equipment that communicates with smart cards or electronically readable documents through a network.
+
+f. through y. [Reserved] z. Other commodities, as follows: z.1.a. Commodities that are described in 5A002.a and that also meet or exceed the performance parameters in 3A090.a or 4A090.a; z.1.b Commodities that are described in 5A002.a and that also meet or exceed the performance parameters in 3A090.b or 4A090.b;
+
+j.1. Being any of the following: j.1.a. A network-capable endpoint device meeting any of the following:
+
+j.1.a.1. The ‘‘information security’’ functionality is limited to securing ‘non-arbitrary data’ or the tasks of ‘‘Operations, Administration or Maintenance’’ (‘‘OAM’’); or
+
+b. Cryptographic equipment specially designed and limited for banking use or ‘money transactions’;
+
+j.1.a.2. The device is limited to a specific ‘connected civil industry application’; or
+
+Technical Note to paragraph b. of Note 2: For the purposes of 5A002.a Note 2.b, ‘money
+
+Frm 00038
+
+LPP: Yes for 5A004.z.1.a, z.2.a
+
+5A992.z.
+
+z.2.a Commodities that are described in 5A002.b and that also meet or exceed the performance parameters in 3A090.a or 4A090.a; z.2.b Commodities that are described in 5A002.b and that also meet or exceed the performance parameters in 3A090.b or 4A090.b; z.3.a Commodities that are described in 5A002.c and that also meet or exceed the performance parameters in 3A090.a or 4A090.a; z.3.b Commodities that are described in 5A002.c and that also meet or exceed the performance parameters in 3A090.b or 4A090.b; z.4.a Commodities that are described in 5A002.d and that also meet or exceed the performance parameters in 3A090.a or 4A090.a; z.4.b Commodities that are described in 5A002.d and that also meet or exceed the performance parameters in 3A090.b or 4A090.b; z.5.a Commodities that are described in 5A002.e and that also meet or exceed the performance parameters in 3A090.a or 4A090.a; or z.5.b Commodities that are described in 5A002.e and that also meet or exceed the performance parameters in 3A090.b or 4A090.b. 5A992 Equipment not controlled by 5A002 (see List of Items Controlled)
+
+license exception restrictions for ECCN 5A004.z.
+
+List of Items Controlled Related Controls: See also ECCNs 3A090 and
+
+4A090. Related Definitions: N/A Items:
+
+List of Items Controlled
+
+Related Controls: (1) ECCN 5A004.a controls
+
+‘‘components’’ providing the means or functions necessary for ‘‘information security.’’ All such ‘‘components’’ are presumptively ‘‘specially designed’’ and controlled by 5A004.a. (2) See also ECCNs 3A090 and 4A090. Related Definitions: N/A Items:
+
+a. [Reserved] b. [Reserved] c. Commodities classified as mass market encryption commodities in accordance with § 740.17(b) of the EAR.
+
+d. through y. [Reserved] z.1. Commodities that are described in 5A992.c and that also meet or exceed the performance parameters in 3A090.a or 4A090.a; or z.2 Commodities that are described in 5A992.c and that also meet or exceed the performance parameters in 3A090.b or 4A090.b. * * * * * 5A004 ‘‘Systems,’’ ‘‘equipment’’ and ‘‘components’’ for defeating, weakening or bypassing ‘‘information security,’’ as follows (see List of Items Controlled).
+
+a. Designed or modified to perform ‘cryptanalytic functions.’
+
+Note: 5A004.a includes systems or equipment, designed or modified to perform ‘cryptanalytic functions’ by means of reverse engineering.
+
+Technical Note: For the purposes of 5A004.a, ‘cryptanalytic functions’ are functions designed to defeat cryptographic mechanisms in order to derive confidential variables or sensitive data, including clear text, passwords or cryptographic keys.
+
+b. Items, not specified by ECCNs 4A005 or 5A004.a, designed to perform all of the following:
+
+License Requirements Reason for Control: NS, RS, AT, EI
+
+Control(s)
+
+License Requirements Reason for Control: RS, AT
+
+NS applies to entire
+
+entry.
+
+RS applies to items con-
+
+b.1. ‘Extract raw data’ from a computing or communications device; and
+
+Country chart (see Supp. No. 1
+
+b.2. Circumvent ‘‘authentication’’ or authorization controls of the device, in order to perform the function described in 5A004.b.1. Technical Note: For the purposes of 5A004.b.1, ‘extract raw data’ from a computing or communications device means to retrieve binary data from a storage medium, e.g., RAM, flash or hard disk, of the device without interpretation by the device’s operating system or filesystem.
+
+to part 738)
+
+NS Column 1.
+
+To or within any destina-
+
+tion worldwide. See § 742.6(a)(6)(iii)(A) of the EAR. RS applies to items con-
+
+trolled by 5A004.z.1.a, z.2.a.
+
+Country chart (see Supp. No. 1
+
+Control(s)
+
+to part 738)
+
+RS applies to items con-
+
+To or within any destina-
+
+To or within destinations
+
+specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii)(B) of the EAR. AT applies to entire entry AT Column 1. EI applies to entire entry Refer to § 742.15 of the
+
+trolled by 5A004.z.1.b, z.2.b.
+
+tion worldwide. See § 742.6(a)(6)(iii)(A) of the EAR. RS applies to items con-
+
+trolled by 5A992.z.1.
+
+To or within destinations
+
+specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii)(B) of the EAR. AT applies to entire entry AT Column 1.
+
+trolled by 5A992.z.2.
+
+License Requirements
+
+Note 1: 5A004.b does not apply to systems or equipment specially designed for the ‘‘development’’ or ‘‘production’’ of a computing or communications device.
+
+Note 2: 5A004.b does not include: a. Debuggers, hypervisors; b. Items limited to logical data extraction; c. Data extraction items using chip-off or JTAG; or
+
+EAR.
+
+d. Items specially designed and limited to jail-breaking or rooting.
+
+c. through y. [Reserved] z. Other commodities, as follows: z.1.a Commodities that are described in 5A004.a and that also meet or exceed the performance parameters in 3A090.a or 4A090.a; z.1.b Commodities that are described in 5A004.a and that also meet or exceed the performance parameters in 3A090.b or 4A090.b; z.2.a Commodities that are described in 5A004.b and that also meet or exceed the performance parameters in 3A090.a or 4A090.a; or z.2.b Commodities that are described in 5A004.b and that also meet or exceed the performance parameters in 3A090.b or 4A090.b. 5D002 ‘‘Software’’ as follows (see List of Items Controlled).
+
+See § 744.17 of the EAR for additional license requirements for microprocessors having a processing speed of 5 GFLOPS or more and an arithmetic logic unit with an access width of 32 bit or more, including those incorporating ‘‘information security’’ functionality, and associated ‘‘software’’ and ‘‘technology’’ for the ‘‘production’’ or ‘‘development’’ of such microprocessors.
+
+License Requirements Note: See § 744.17 of the EAR for additional license requirements for microprocessors having a processing speed of 5 GFLOPS or more and an arithmetic logic unit with an access width of 32 bit or more, including those incorporating ‘‘information security’’ functionality, and associated ‘‘software’’ and ‘‘technology’’ for the ‘‘production’’ or ‘‘development’’ of such microprocessors.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions) LVS: Yes: $500 for ‘‘components’’; N/A for
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions) LVS: N/A GBS: N/A NAC/ACA: Yes, for 5A992.z.2; N/A for all
+
+5A004.z. N/A for systems and equipment. GBS: N/A ENC: Yes for certain EI controlled
+
+commodities. See § 740.17 of the EAR for eligibility. NAC/ACA: Yes, for 5A004.z.1.b, z.2.b AIA: Yes for 5A004.z.1.a, z.2.a ACM: Yes for 5A004.z
+
+other 5A992 commodities. AIA: Yes for 5A992.z.1 ACM: Yes for 5A992.z LPP: Yes for 5A992.z.1
+
+Frm 00039
+
+4D001 as it applies to ‘‘software’’ for commodities controlled by 4A003.z, 4A004.z, and 4A005.z. Related Definitions: 5D002.a controls
+
+Reason for Control: NS, RS, AT, EI
+
+Country chart (see Supp. No. 1
+
+z.5.a Software that is described in 5D002.b and that also meet or exceed the performance parameters in 3D001 for 3A090.a or 4D001 for 4A090.a; z.5.b Software that is described in 5D002.b and that also meet or exceed the performance parameters in 3D001 for 3A090.b or 4D001 for 4A090.b; z.6.a Software that is described in 5D002.c.1 and that also meet or exceed the performance parameters in 3D001 for 3A090.a or 4D001 for 4A090.a; z.6.b Software that is described in 5D002.c.1 and that also meet or exceed the performance parameters in 3D001 for 3A090.b or 4D001 for 4A090.b; z.7.a Software that is described in 5D002.c.2 and that also meet or exceed the performance parameters in 3D001 for 3A090.a or 4D001 for 4A090.a; z.7.b Software that is described in 5D002.c.2 and that also meet or exceed the performance parameters in 3D001 for 3A090.b or 4D001 for 4A090.b; z.8.a Software that is described in 5D002.c.3.a and that also meet or exceed the performance parameters in 3D001 for 3A090.a or 4D001 for 4A090.a; z.8.b Software that is described in 5D002.c.3.a and that also meet or exceed the performance parameters in 3D001 for 3A090.b or 4D001 for 4A090.b; z.9.a Software that is described in 5D002.c.3.b and that also meet or exceed the performance parameters in 3D001 for 3A090.a or 4D001 for 4A090.a; or z.9.b Software that is described in 5D002.c.3.b and that also meet or exceed the performance parameters in 3D001 for 3A090.b or 4D001 for 4A090.b. * * * * * 5D992 ‘‘Information Security’’ ‘‘software,’’ not controlled by 5D002, as follows (see List of Items Controlled).
+
+‘‘software’’ designed or modified to use ‘‘cryptography’’ employing digital or analog techniques to ensure ‘‘information security.’’ Items:
+
+Control(s)
+
+to part 738)
+
+NS applies to entire
+
+NS Column 1.
+
+entry.
+
+RS applies to ‘‘software’’
+
+To or within any destina-
+
+controlled by 5D002.z.1.a, z.2.a, z.3.a, z.4.a, z.5.a, z.6.a, z.7.a, z.8.a, and z.9.a.
+
+tion worldwide. See § 742.6(a)(6)(iii)(A) of the EAR.
+
+a. ‘‘Software’’ ‘‘specially designed’’ or modified for the ‘‘development,’’ ‘‘production’’ or ‘‘use’’ of any of the following:
+
+a.1. Equipment specified by 5A002 or ‘‘software’’ specified by 5D002.c.1;
+
+RS applies to ‘‘software’’
+
+To or within destinations
+
+specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii)(B) of the EAR. AT applies to entire entry AT Column 1. EI applies to ‘‘software’’
+
+controlled by 5D002.z.1.b, z.2.b, z.3.b, z.4.b, z.5.b, z.6.b, z.7.b, z.8.b, and z.9.b.
+
+a.2. Equipment specified by 5A003 or ‘‘software’’ specified by 5D002.c.2; or
+
+a.3. Equipment or ‘‘software’’, as follows: a.3.a. Equipment specified by 5A004.a or ‘‘software’’ specified by 5D002.c.3.a;
+
+a.3.b. Equipment specified by 5A004.b or ‘‘software’’ specified by 5D002.c.3.b;
+
+b. ‘‘Software’’ having the characteristics of a ‘cryptographic activation token’ specified by 5A002.b;
+
+Refer to § 742.15 of the
+
+c. ‘‘Software’’ having the characteristics of, or performing or simulating the functions of, any of the following:
+
+in 5D002.a.1, a.3, .b, c.1 and c.3, for commodities or ‘‘software’’ controlled for EI reasons in ECCN 5A002, 5A004 or 5D002.
+
+EAR. Note: Encryption soft-
+
+ware is controlled because of its functional capacity, and not because of any informational value of such software; such software is not accorded the same treatment under the EAR as other ‘‘software’; and for export licensing purposes, encryption software is treated under the EAR in the same manner as a commodity included in ECCN 5A002.
+
+c.1. Equipment specified by 5A002.a, .c, .d or .e;
+
+Note: 5D002.c.1 does not apply to ‘‘software’’ limited to the tasks of ‘‘OAM’’ implementing only published or commercial cryptographic standards.
+
+c.2. Equipment specified by 5A003; or c.3. Equipment, as follows: c.3.a. Equipment specified by 5A004.a; c.3.b. Equipment specified by 5A004.b. Note: 5D002.c.3.b does not apply to ‘‘intrusion software’’.
+
+d. [Reserved] N.B.: See 5D002.b for items formerly specified in 5D002.d.
+
+e. through y. [Reserved] z. Other software, as follows: z.1.a Software that is described in 5D002.a.1, and that also meet or exceed the performance parameters in 3D001 for 3A090.a or 4D001 for 4A090.a; z.1.b Software that is described in 5D002.a.1, and that also meet or exceed the performance parameters in 3D001 for 3A090.b or 4D001 for 4A090.b; z.2.a Software that is described in 5D002.a.2, and that also meet or exceed the performance parameters in 3D001 for 3A090.a or 4D001 for 4A090.a; z.2.b Software that is described in 5D002.a.2, and that also meet or exceed the performance parameters in 3D001 for 3A090.b or 4D001 for 4A090.b; z.3.a Software that is described in 5D002.a.3a, and that also meet or exceed the performance parameters in 3D001 for 3A090.a or 4D001 for 4A090.a; z.3.b Software that is described in 5D002.a.3a, and that also meet or exceed the performance parameters in 3D001 for 3A090.b or 4D001 for 4A090.b; z.4.a Software that is described in 5D002.a.3.b, and that also meet or exceed the performance parameters in 3D001 for 3A090.a or 4D001 for 4A090.a; z.4.b Software that is described in 5D002.a.3.b, and that also meet or exceed the performance parameters in 3D001 for 3A090.b or 4D001 for 4A090.b;
+
+License Requirements Note: See § 744.17 of the EAR for additional license requirements for microprocessors having a processing speed of 5 GFLOPS or more and an arithmetic logic unit with an access width of 32 bit or more, including those incorporating ‘‘information security’’ functionality, and associated ‘‘software’’ and ‘‘technology’’ for the ‘‘production’’ or ‘‘development’’ of such microprocessors.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions) TSR: N/A ENC: Yes for certain EI controlled software.
+
+See § 740.17 of the EAR for eligibility. NAC/ACA: Yes, for 5D002.z. AIA: Yes for 5D002.z.1.a, z.2.a, z.3.a, z.4.a,
+
+z.5.a, z.6.a, z.7.a, z.8.a, and z.9.a ACM: Yes for 5D002.z
+
+Note: See § 740.2(a)(9)(ii) of the EAR for license exception restrictions for ECCN 5D002.z.
+
+List of Items Controlled Related Controls: (1) After classification or
+
+self-classification in accordance with § 740.17(b) of the EAR, mass market encryption software that meets eligibility requirements is released from ‘‘EI’’ and ‘‘NS’’ controls. This software is designated as 5D992.c. (2) See also ECCNs 3D001 as it applies to ‘‘software’’ for commodities controlled by 3A001.z and 3A090, and
+
+License Requirements Reason for Control: RS, AT
+
+Country chart (see Supp. No. 1
+
+Control(s)
+
+to part 738)
+
+RS applies to ‘‘software’’
+
+To or within any destina-
+
+tion worldwide. See § 742.6(a)(6)(iii)(A) of the EAR. RS applies to ‘‘software’’
+
+controlled by 5D992.z.1.
+
+To or within destinations
+
+specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii)(B) of the EAR. AT applies to entire entry AT Column 1.
+
+controlled by 5D992.z.2.
+
+License Requirements Note: See § 744.17 of the EAR for additional license requirements for microprocessors having a processing speed of 5 GFLOPS or more and an arithmetic logic unit with an access width of 32 bit or more, including those incorporating ‘‘information security’’ functionality, and associated ‘‘software’’ and ‘‘technology’’ for the ‘‘production’’ or ‘‘development’’ of such microprocessors.
+
+Frm 00040
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions) TSR: N/A NAC/ACA: Yes, for 5D992.z. AIA: Yes for 5D992.z.1 ACM: Yes for 5D992.z
+
+EI applies to ‘‘tech-
+
+nology’’ in 5E002.a for commodities or ‘‘software’’ controlled for EI reasons in ECCNs 5A002, 5A004 or 5D002, and to ‘‘technology’’ in 5E002.b.
+
+Note: See § 740.2(a)(9)(ii) of the EAR for license exception restrictions for ECCN 5D992.z.
+
+List of Items Controlled
+
+controlled by 5A002, 5A003, 5A004 or 5B002, or of ‘‘software’’ controlled by 5D002.a, z.1 through z.3, or 5D002.c, z.6 through z.8.
+
+to part 738)
+
+Refer to § 742.15 of the
+
+Note: 5E002.a does not apply to ‘‘technology’’ for items specified by 5A004.b, z.3 or z.4, 5D002.a.3.b, z.4, or 5D002.c.3.b.
+
+EAR.
+
+b. ‘‘Technology’’ having the characteristics of a ‘cryptographic activation token’ specified by 5A002.b, z.2.
+
+Note: 5E002 includes ‘‘information security’’ technical data resulting from procedures carried out to evaluate or determine the implementation of functions, features or techniques specified in Category 5—Part 2. 5E992 ‘‘Information Security’’ ‘‘technology’’ according to the General Technology Note, not controlled by 5E002, as follows (see List of Items Controlled).
+
+License Requirements Notes: (1) See § 744.17 of the EAR for additional license requirements for microprocessors having a processing speed of 5 GFLOPS or more and an arithmetic logic unit with an access width of 32 bit or more, including those incorporating ‘‘information security’’ functionality, and associated ‘‘software’’ and ‘‘technology’’ for the ‘‘production’’ or ‘‘development’’ of such microprocessors.
+
+Related Controls: (1) This entry does not control ‘‘software’’ designed or modified to protect against malicious computer damage, e.g., viruses, where the use of ‘‘cryptography’’ is limited to authentication, digital signature and/or the decryption of data or files. (2) See also ECCNs 3D001 as it applies to ‘‘software’’ for commodities controlled by 3A001.z and 3A090, and 4D001 as it applies to ‘‘software’’ for commodities controlled by 4A003.z, 4A004.z, and 4A005.z. Related Definitions: N/A Items:
+
+(2) When a person performs or provides technical assistance that incorporates, or otherwise draws upon, ‘‘technology’’ that was either obtained in the United States or is of U.S.-origin, then a release of the ‘‘technology’’ takes place. Such technical assistance, when rendered with the intent to aid in the ‘‘development’’ or ‘‘production’’ of encryption commodities or software that would be controlled for ‘‘EI’’ reasons under ECCN 5A002, 5A004 or 5D002, may require authorization under the EAR even if the underlying encryption algorithm to be implemented is from the public domain or is not of U.S.-origin.
+
+a. [Reserved] b. [Reserved] c. ‘‘Software’’ classified as mass market encryption software in accordance with § 740.17(b) of the EAR.
+
+d. through y. [Reserved] z.1 Other software that is described in 5D992 and that also meet or exceed the performance parameters in 3D001 for 3A090.a or 4D001 for 4A090.a; or z.2 Other software that is described in 5D992 and that also meet or exceed the performance parameters in 3D001 for 3A090.b or 4D001 for 4A090.b. * * * * * 5E002 ‘‘Technology’’ as follows (see List of Items Controlled).
+
+License Requirements
+
+Reason for Control: RS, AT
+
+Country chart (see Supp. No. 1
+
+Control(s)
+
+to part 738)
+
+RS applies to ‘‘tech-
+
+To or within any destina-
+
+nology’’ for commodities controlled by 5A992.z.1 or ‘‘software’’ controlled by 5D992.z.1.
+
+tion worldwide. See § 742.6(a)(6)(iii)(A) of the EAR.
+
+RS applies to ‘‘tech-
+
+To or within destinations
+
+nology’’ for commodities controlled by 5A992.z.2 or ‘‘software’’ controlled by 5D992.z.2.
+
+specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii)(B) of the EAR. AT applies to entire entry AT Column 1.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions) TSR: N/A ENC: Yes for certain EI controlled
+
+technology. See § 740.17 of the EAR for eligibility. AIA: Yes for ‘‘technology’’ for commodities
+
+License Requirements
+
+Reason for Control: NS, RS, AT, EI
+
+controlled by 5A002.z.1.a, z.2.a, z.3.a, z.4.a, z.5.a or 5A004.z.1.a, z.2.a or ‘‘software’’ specified by 5D002 (for 5A002.z.1.a, z.2.a, z.3.a, z.4.a, z.5.a or 5A004.z.1.a, z.2.a commodities) ACM: Yes for ‘‘technology’’ for commodities
+
+Country chart (see Supp. No. 1
+
+Control(s)
+
+to part 738)
+
+NS applies to entire
+
+NS Column 1.
+
+entry.
+
+License Requirements Note: See § 744.17 of the EAR for additional license requirements for microprocessors having a processing speed of 5 GFLOPS or more and an arithmetic logic unit with an access width of 32 bit or more, including those incorporating ‘‘information security’’ functionality, and associated ‘‘software’’ and ‘‘technology’’ for the ‘‘production’’ or ‘‘development’’ of such microprocessors.
+
+controlled by 5A002.z or 5A004.z or ‘‘software’’ specified by 5D002 (for 5A002.z or 5A004.z commodities Note: See § 740.2(a)(9)(ii) of the EAR for license exception restrictions for technology for .z paragraphs under ECCNs 5A002, 5A004 or ‘‘software’’ specified by 5D002 (for 5A002.z or 5A004.z commodities).
+
+RS applies to ‘‘tech-
+
+To or within any destina-
+
+nology’’ for commodities controlled by 5A002.z.1.a, z.2.a, z.3.a, z.4.a, z.5.a or 5A004.z.1.a, z.2.a or ‘‘software’’ specified by 5D002 (for 5A002.z.1.a, z.2.a, z.3.a, z.4.a, z.5.a or 5A004.z.1.a, z.2.a commodities).
+
+tion worldwide. See § 742.6(a)(6)(iii)(A) of the EAR.
+
+List Based License Exceptions (See Part 740 for a Description of All License Exceptions)
+
+List of Items Controlled Related Controls: See also 5E992. This entry
+
+TSR: N/A NAC/ACA: N/A AIA: Yes for ‘‘technology’’ for commodities
+
+does not control ‘‘technology’’ ‘‘required’’ for the ‘‘use’’ of equipment excluded from control under the Related Controls paragraph or the Technical Notes in ECCN 5A002 or ‘‘technology’’ related to equipment excluded from control under ECCN 5A002. Related Definitions: N/A Items:
+
+RS applies to ‘‘tech-
+
+To or within destinations
+
+nology’’ for commodities controlled by 5A002.z.1.b, z.2.b, z.3.b, z.4.b, z.5.b or 5A004.z.1.b, z.2.b or ‘‘software’’ specified by 5D002 (for 5A002.z.1.b, z.2.b, z.3.b, z.4.b, z.5.b or 5A004.z.1.b, z.2.b commodities).
+
+specified in Country Groups D:1, D:4, and D:5 of supplement no. 1 to part 740 of the EAR, excluding any destination also specified in Country Groups A:5 or A:6. See § 742.6(a)(6)(iii)(B) of the EAR.
+
+controlled by 5A992.z.1 or ‘‘software’’ controlled by 5D992.z.1 ACM: Yes for ‘‘technology’’ for commodities
+
+controlled by 5A992.z or ‘‘software’’ controlled by 5D992.z Note: See § 740.2(a)(9)(ii) of the EAR for license exception restrictions for technology for .z paragraphs under ‘‘technology’’ for commodities controlled by 5A992.z or ‘‘software’’ controlled by 5D992.z.
+
+a. ‘‘Technology’’ according to the General Technology Note for the ‘‘development,’’ ‘‘production’’ or ‘‘use’’ of equipment
+
+AT applies to entire entry AT Column 1.
+
+Frm 00041
+
+b. ‘‘Technology’’, n.e.s., for the ‘‘use’’ of mass market commodities controlled by
+
+Related Controls: N/A Related Definitions: N/A Items:
+
+a. [Reserved]
+
+5A992 or mass market ‘‘software’’ controlled by 5D992. * * * * *
+
+Thea D. Rozman Kendler, Assistant Secretary for Export Administration.
+
+[FR Doc. 2025–00636 Filed 1–13–25; 8:45 am]
+
+BILLING CODE 3510–33–P
+
+Frm 00042 Sfmt 9990

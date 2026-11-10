@@ -1,0 +1,63 @@
+{
+  "secid": "secid:regulation/homeaffairs.gov.au/cyber-security-act-2024",
+  "name": "Cyber Security Act 2024",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "cyber-security-act-2024",
+  "owner": "Department of Home Affairs",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Enacts key legislative commitments under Horizon 1 of the 2023–2030 Australian Cyber Security Strategy: mandatory security standards for smart devices, mandatory ransomware payment reporting, a 'limited use' obligation for information shared with the National Cyber Security Coordinator, and establishment of the Cyber Incident Review Board.",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by Department of Home Affairs (homeaffairs.gov.au) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within Department of Home Affairs (homeaffairs.gov.au).",
+  "license": {
+    "spdx": "CC-BY-4.0",
+    "Grouping": "Permissive",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
+    "publicly_redistributable": true,
+    "license_text_url": "https://creativecommons.org/licenses/by/4.0/",
+    "note": "Commonwealth of Australia copyright (homeaffairs.gov.au); licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).",
+    "notes": "Commonwealth of Australia copyright (homeaffairs.gov.au); licensed under Creative Commons Attribution 4.0 International (CC BY 4.0)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.legislation.gov.au/C2024A00098/latest/text",
+    "textUsed": "https://www.legislation.gov.au/C2024A00098/asmade/2024-11-29/text/1/pdf",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2024-11-29",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official regulation (https://www.legislation.gov.au/C2024A00098/asmade/2024-11-29/text/1/pdf) to Markdown (146,397 chars). Parsed 185 sections (168 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  }
+}

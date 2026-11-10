@@ -1,0 +1,63 @@
+{
+  "secid": "secid:regulation/gov.uk/childrens-wellbeing-and-schools-act-2026",
+  "name": "Children's Wellbeing and Schools Act 2026",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "childrens-wellbeing-and-schools-act-2026",
+  "owner": "United Kingdom Government",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "UK Act of Parliament on child protection and education; Section 70 inserts Section 214A into the Online Safety Act 2023 enabling secondary regulations to restrict, time-limit, or prevent children's access to specified services or interactive AI chatbot features of concern.",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by United Kingdom Government (gov.uk) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within United Kingdom Government (gov.uk).",
+  "license": {
+    "spdx": "OGL-UK-3.0",
+    "Grouping": "Permissive",
+    "redistribution": "yes",
+    "derivatives": "yes",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
+    "note": "Crown copyright; licensed under the Open Government Licence v3.0.",
+    "notes": "Crown copyright; licensed under the Open Government Licence v3.0."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.legislation.gov.uk/ukpga/2026/21/contents",
+    "textUsed": "https://www.legislation.gov.uk/ukpga/2026/21/data.xml",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "uk-clml-xml + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official regulation (https://www.legislation.gov.uk/ukpga/2026/21/data.xml) to Markdown (1,071,830 chars). Parsed 343 sections (282 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  }
+}

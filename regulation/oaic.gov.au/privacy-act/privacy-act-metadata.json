@@ -10,7 +10,7 @@
   "publication_id": "privacy-act",
   "owner": "Office of the Australian Information Commissioner (OAIC)",
   "type": "Regulation",
-  "description": "Australia's Privacy Act 1988 \u2014 federal privacy law containing the Australian Privacy Principles (APPs). Subject to ongoing significant reform via the Privacy Act Review.",
+  "description": "Australia's Privacy Act 1988 — federal privacy law containing the Australian Privacy Principles (APPs). Subject to ongoing significant reform via the Privacy Act Review.",
   "relationToCloudSecurity": "Applies to cloud-hosted systems within scope.",
   "relationToAISecurity": "Applies to AI systems within scope.",
   "license": {
@@ -36,7 +36,7 @@
   "current_extraction": {
     "s3_timestamp": "2026-05-21T18:26:11Z",
     "tool": "curl + tools-resources/utils/convert-HTML-to-Markdown.py",
-    "notes": "Acquired the OAIC's official overview of the Privacy Act 1988 from oaic.gov.au/privacy/the-privacy-act. This is the regulator's narrative explanation, not the statute text itself; the full Act is at https://www.legislation.gov.au/Series/C2004A03712 (linked in the doc). Future acquisition could pull the statute directly from legislation.gov.au."
+    "notes": "Extracted official regulation () to Markdown (727,993 chars). Parsed 599 sections (351 with explicit section identifiers)."
   },
   "extraction_history": [
     {

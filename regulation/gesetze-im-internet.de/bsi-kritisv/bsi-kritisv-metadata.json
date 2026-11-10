@@ -1,0 +1,62 @@
+{
+  "secid": "secid:regulation/gesetze-im-internet.de/bsi-kritisv",
+  "name": "Verordnung zur Bestimmung Kritischer Infrastrukturen nach dem BSI-Gesetz (BSI-Kritisverordnung — BSI-KritisV)",
+  "acronym": "BSI-KritisV",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "bsi-kritisv",
+  "owner": "Bundesministerium der Justiz / Juris",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Ordinance under the BSI Act defining sector thresholds and covered critical facilities across energy, water, food, IT/telecommunications, health, finance/insurance, transport, and municipal waste management.",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by Bundesministerium der Justiz / Juris (gesetze-im-internet.de) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within Bundesministerium der Justiz / Juris (gesetze-im-internet.de).",
+  "license": {
+    "spdx": "LicenseRef-Government-Work",
+    "Grouping": "Government-Work",
+    "redistribution": "permitted_for_reference",
+    "derivatives": "varies_by_jurisdiction",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.gesetze-im-internet.de/urhg/__5.html",
+    "note": "Official German Federal Government publication (gesetze-im-internet.de; § 5 UrhG public official work). Publicly released for free download, reference, and citation.",
+    "notes": "Official German Federal Government publication (gesetze-im-internet.de; § 5 UrhG public official work). Publicly released for free download, reference, and citation."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.gesetze-im-internet.de/bsi-kritisv/",
+    "textUsed": "https://www.gesetze-im-internet.de/bsi-kritisv/xml.zip",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "date": "2026-11-10",
+    "tool": "gesetze-im-internet-xml + tools-resources/utils/parse_regulatory_sections.py",
+    "s3_archive_path": "",
+    "notes": "Extracted official regulation (https://www.gesetze-im-internet.de/bsi-kritisv/xml.zip) to Markdown (73,060 chars). Parsed 23 sections (21 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  },
+  "end_state": "extracted",
+  "end_reason": "regulation-doc"
+}

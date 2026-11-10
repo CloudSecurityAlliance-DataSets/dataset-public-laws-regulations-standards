@@ -1,0 +1,62 @@
+{
+  "secid": "secid:regulation/oklahoma.gov/okcdpa",
+  "name": "Oklahoma Consumer Data Privacy Act",
+  "acronym": "OKCDPA",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "okcdpa",
+  "owner": "State of Oklahoma",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Oklahoma's comprehensive consumer privacy law. SB 546 (2026), signed March 20 2026, effective January 1 2027.",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by State of Oklahoma (oklahoma.gov) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within State of Oklahoma (oklahoma.gov).",
+  "license": {
+    "spdx": "CC0-1.0",
+    "Grouping": "Public Domain",
+    "redistribution": "yes",
+    "derivatives": "yes",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.usa.gov/government-works",
+    "note": "United States Government work (17 U.S.C. § 105); in the public domain worldwide.",
+    "notes": "United States Government work (17 U.S.C. § 105); in the public domain worldwide."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.oklegislature.gov/BillInfo.aspx?Bill=sb546&Session=2600",
+    "textUsed": "",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "date": "2026-11-10",
+    "tool": "",
+    "s3_archive_path": "",
+    "notes": "Registry URL resolves to a portal navigation or bill status page without full statutory text; recorded as metadata-only."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  },
+  "end_state": "metadata-only",
+  "end_reason": "portal-landing-page-only"
+}

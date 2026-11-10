@@ -1,0 +1,63 @@
+{
+  "secid": "secid:regulation/planalto.gov.br/decreto-12880-2026",
+  "name": "Decreto nº 12.880, de 18 de março de 2026 — Regulamenta a Lei nº 15.211, de 17 de setembro de 2025 (ECA Digital)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "decreto-12880-2026",
+  "owner": "Presidência da República do Brasil",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Brazilian presidential decree regulating Law 15.211/2025 (ECA Digital), designating the National Data Protection Authority (ANPD) as the lead administrative enforcement authority and establishing compliance obligations for digital services, conversational agents, large language models, and natural-language AI interfaces accessible to minors.",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by Presidência da República do Brasil (planalto.gov.br) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within Presidência da República do Brasil (planalto.gov.br).",
+  "license": {
+    "spdx": "LicenseRef-BR-Law9610-Art8-IV",
+    "Grouping": "Public Domain",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.planalto.gov.br/ccivil_03/leis/l9610.htm",
+    "note": "Official publication (planalto.gov.br); Brazilian Copyright Law (Lei nº 9.610, de 19 de fevereiro de 1998) Art. 8º(IV) (texts of treaties, laws, decrees, regulations, judicial decisions, and other official acts are not objects of copyright protection) and Federal Open Data Policy (Decreto nº 8.777/2016).",
+    "notes": "Official publication (planalto.gov.br); Brazilian Copyright Law (Lei nº 9.610, de 19 de fevereiro de 1998) Art. 8º(IV) (texts of treaties, laws, decrees, regulations, judicial decisions, and other official acts are not objects of copyright protection) and Federal Open Data Policy (Decreto nº 8.777/2016)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/d12880.htm",
+    "textUsed": "https://web.archive.org/web/20261017200502id_/https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/d12880.htm",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official regulation (https://web.archive.org/web/20261017200502id_/https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2026/decreto/d12880.htm) to Markdown (72,721 chars). Parsed 69 sections (66 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  }
+}

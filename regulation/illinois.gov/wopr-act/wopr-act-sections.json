@@ -1,0 +1,362 @@
+[
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "Illinois Wellness and Oversight for Psychological Resources Act (Public Act 104-0054)",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "HB1806 Enrolled LRB104 07364 AAS 17404 b\n\nAN ACT concerning regulation."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "Be it enacted by the People of the State of Illinois,",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "represented in the General Assembly:",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 4,
+    "section_id": "Section 1",
+    "section_name": "Short title. This Act may be cited as the",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "Wellness and Oversight for Psychological Resources Act."
+  },
+  {
+    "depth": 4,
+    "section_id": "Section 5",
+    "section_name": "Purpose. The purpose of this Act is to",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "safeguard individuals seeking therapy or psychotherapy\n\nservices by ensuring these services are delivered by\n\nqualified, licensed, or certified professionals. This Act is\n\nintended to protect consumers from unlicensed or unqualified\n\nproviders, including unregulated artificial intelligence\n\nsystems, while respecting individual choice and access to\n\ncommunity-based and faith-based mental health support."
+  },
+  {
+    "depth": 4,
+    "section_id": "Section 10",
+    "section_name": "Definitions. In this Act:",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "\"Administrative support\" means tasks performed to assist a\n\nlicensed professional in the delivery of therapy or\n\npsychotherapy services that do not involve communication.\n\n\"Administrative support\" includes, but is not limited to, the\n\nfollowing:"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "(1) managing appointment scheduling and reminders;",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "(2) processing billing and insurance claims; and",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "(3) drafting general communications related to therapy",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "HB1806 Enrolled LRB104 07364 AAS 17404 b\n\nlogistics that do not include therapeutic advice.\n\n\"Artificial intelligence\" has the meaning given to that\n\nterm in Section 2-101 of the Illinois Human Rights Act.\n\n\"Consent\" means a clear, explicit affirmative act by an\n\nindividual that: (i) unambiguously communicates the\n\nindividual's express, freely given, informed, voluntary,\n\nspecific, and unambiguous written agreement, including a\n\nwritten agreement provided by electronic means, and (ii) is\n\nrevocable by the individual. \"Consent\" does not include an\n\nagreement that is obtained by the following:"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "(1) the acceptance of a general or broad terms of use",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "agreement or a similar document that contains descriptions\n\nof artificial intelligence along with other unrelated\n\ninformation;"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "(2) an individual hovering over, muting, pausing, or",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "closing a given piece of digital content; or"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "(3) an agreement obtained through the use of deceptive",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "actions.\n\n\"Department\" means the Department of Financial and\n\nProfessional Regulation.\n\n\"Licensed professional\" means an individual who holds a\n\nvalid license issued by this State to provide therapy or\n\npsychotherapy services, including:"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "(1) a licensed clinical psychologist;",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "(2) a licensed clinical social worker;",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "(3) a licensed social worker;",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "HB1806 Enrolled LRB104 07364 AAS 17404 b"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "(4) a licensed professional counselor;",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "(5) a licensed clinical professional counselor;",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "(6) a licensed marriage and family therapist;",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "(7) a certified alcohol and other drug counselor",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "authorized to provide therapy or psychotherapy services;"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "(8) a licensed professional music therapist;",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "(9) a licensed advanced practice psychiatric nurse as",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "defined in Section 1-101.3 of the Mental Health and\n\nDevelopmental Disabilities Code; and"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "(10) any other professional authorized by this State",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "to provide therapy or psychotherapy services, except for a\n\nphysician.\n\n\"Peer support\" means services provided by individuals with\n\nlived experience of mental health conditions or recovery from\n\nsubstance use that are intended to offer encouragement,\n\nunderstanding, and guidance without clinical intervention.\n\n\"Religious counseling\" means counseling provided by clergy\n\nmembers, pastoral counselors, or other religious leaders\n\nacting within the scope of their religious duties if the\n\nservices are explicitly faith-based and are not represented as\n\nclinical mental health services or therapy or psychotherapy\n\nservices.\n\n\"Supplementary support\" means tasks performed to assist a\n\nlicensed professional in the delivery of therapy or\n\npsychotherapy services that do not involve therapeutic\n\ncommunication and that are not administrative support.\n\nHB1806 Enrolled LRB104 07364 AAS 17404 b\n\n\"Supplementary support\" includes, but is not limited to, the\n\nfollowing:"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "(1) preparing and maintaining client records,",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "including therapy notes;"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "(2) analyzing anonymized data to track client progress",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "or identify trends, subject to review by a licensed\n\nprofessional; and"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "(3) identifying and organizing external resources or",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "referrals for client use.\n\n\"Therapeutic communication\" means any verbal, non-verbal,\n\nor written interaction conducted in a clinical or professional\n\nsetting that is intended to diagnose, treat, or address an\n\nindividual's mental, emotional, or behavioral health concerns.\n\n\"Therapeutic communication\" includes, but is not limited to:"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "(1) direct interactions with clients for the purpose",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "of understanding or reflecting their thoughts, emotions,\n\nor experiences;"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "(2) providing guidance, therapeutic strategies, or",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "interventions designed to achieve mental health outcomes;"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "(3) offering emotional support, reassurance, or",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "empathy in response to psychological or emotional\n\ndistress;"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "(4) collaborating with clients to develop or modify",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "therapeutic goals or treatment plans; and"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "(5) offering behavioral feedback intended to promote",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "psychological growth or address mental health conditions.\n\nHB1806 Enrolled LRB104 07364 AAS 17404 b\n\n\"Therapy or psychotherapy services\" means services\n\nprovided to diagnose, treat, or improve an individual's mental\n\nhealth or behavioral health. \"Therapy or psychotherapy\n\nservices\" does not include religious counseling or peer\n\nsupport."
+  },
+  {
+    "depth": 4,
+    "section_id": "Section 15",
+    "section_name": "Permitted use of artificial intelligence.",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "(a) As used in this Section, \"permitted use of artificial\n\nintelligence\" means the use of artificial intelligence tools\n\nor systems by a licensed professional to assist in providing\n\nadministrative support or supplementary support in therapy or\n\npsychotherapy services where the licensed professional\n\nmaintains full responsibility for all interactions, outputs,\n\nand data use associated with the system and satisfies the\n\nrequirements of subsection (b).\n\n(b) No licensed professional shall be permitted to use\n\nartificial intelligence to assist in providing supplementary\n\nsupport in therapy or psychotherapy where the client's\n\ntherapeutic session is recorded or transcribed unless:"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "(1) the patient or the patient's legally authorized",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "representative is informed in writing of the following:\n\n(A) that artificial intelligence will be used; and\n\n(B) the specific purpose of the artificial\n\nintelligence tool or system that will be used; and"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "(2) the patient or the patient's legally authorized",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "representative provides consent to the use of artificial\n\nHB1806 Enrolled LRB104 07364 AAS 17404 b\n\nintelligence."
+  },
+  {
+    "depth": 4,
+    "section_id": "Section 20",
+    "section_name": "Prohibition on unauthorized therapy services.",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "(a) An individual, corporation, or entity may not provide,\n\nadvertise, or otherwise offer therapy or psychotherapy\n\nservices, including through the use of Internet-based\n\nartificial intelligence, to the public in this State unless\n\nthe therapy or psychotherapy services are conducted by an\n\nindividual who is a licensed professional.\n\n(b) A licensed professional may use artificial\n\nintelligence only to the extent the use meets the requirements\n\nof Section 15. A licensed professional may not allow\n\nartificial intelligence to do any of the following:"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "(1) make independent therapeutic decisions;",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "(2) directly interact with clients in any form of",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "therapeutic communication;"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "(3) generate therapeutic recommendations or treatment",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "plans without review and approval by the licensed\n\nprofessional; or"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "(4) detect emotions or mental states.",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 4,
+    "section_id": "Section 25",
+    "section_name": "Disclosure of records and communications. All",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "records kept by a licensed professional and all communications\n\nbetween an individual seeking therapy or psychotherapy\n\nservices and a licensed professional shall be confidential and\n\nshall not be disclosed except as required under the Mental\n\nHB1806 Enrolled LRB104 07364 AAS 17404 b\n\nHealth and Developmental Disabilities Confidentiality Act."
+  },
+  {
+    "depth": 4,
+    "section_id": "Section 30",
+    "section_name": "Enforcement and penalties.",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "(a) Any individual, corporation, or entity found in\n\nviolation of this Act shall pay a civil penalty to the\n\nDepartment in an amount not to exceed $10,000 per violation,\n\nas determined by the Department, with penalties assessed based\n\non the degree of harm and the circumstances of the violation.\n\nThe civil penalty shall be assessed by the Department after a\n\nhearing is held in accordance with Section 2105-100 of the\n\nDepartment of Professional Regulation Law of the Civil\n\nAdministrative Code of Illinois. An individual, corporation,\n\nor entity found in violation of this Act shall pay the civil\n\npenalty within 60 days after the date of an order by the\n\nDepartment imposing the civil penalty. The order shall\n\nconstitute a judgment and may be filed and executed in the same\n\nmanner as any judgment from a court of record.\n\n(b) The Department shall have authority to investigate any\n\nactual, alleged, or suspected violation of this Act."
+  },
+  {
+    "depth": 4,
+    "section_id": "Section 35",
+    "section_name": "Exceptions. This Act does not apply to the",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "following:"
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "(1) religious counseling;",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "(2) peer support; and",
+    "id_kind": "",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "(3) self-help materials and educational resources that",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "are available to the public and do not purport to offer\n\nHB1806 Enrolled LRB104 07364 AAS 17404 b\n\ntherapy or psychotherapy services."
+  },
+  {
+    "depth": 4,
+    "section_id": "Section 99",
+    "section_name": "Effective date. This Act takes effect upon",
+    "id_kind": "section_word",
+    "parent_id": "",
+    "body": "becoming law."
+  }
+]

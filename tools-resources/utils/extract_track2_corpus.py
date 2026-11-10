@@ -97,7 +97,10 @@ def html_to_clean_markdown(html_text: str, base_url: str, doc_title: str | None 
             tag.decompose()
 
     main = (
-        soup.select_one("#UCAP-CONTENT")
+        soup.select_one("#manylawsections")
+        or soup.select_one("#bill_all")
+        or soup.select_one("#singlelawsection")
+        or soup.select_one("#UCAP-CONTENT")
         or soup.select_one(".pages_content")
         or soup.select_one("#p-detail")
         or soup.select_one("#divCont")

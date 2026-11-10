@@ -16,17 +16,17 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 
 ## Summary
 
-**Total documents indexed:** 987
+**Total documents indexed:** 1146
 
 | Type | structured | metadata-only | readme-only | empty | **Total** |
 |---|---:|---:|---:|---:|---:|
 | `control/` | 127 | 45 | — | — | **172** |
-| `regulation/` | 79 | 1 | — | — | **80** |
+| `regulation/` | 187 | 51 | — | 1 | **239** |
 | `weakness/` | 1 | 1 | — | — | **2** |
 | `ttp/` | 1 | 4 | — | — | **5** |
 | `methodology/` | 9 | — | — | — | **9** |
 | `reference/` | 415 | 294 | 4 | 6 | **719** |
-| **Total** | **632** | **345** | **4** | **6** | **987** |
+| **Total** | **740** | **395** | **4** | **7** | **1146** |
 
 ## control/
 
@@ -209,83 +209,242 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 
 | Path | State | Files | Glyphs (MXJCSPI) | SecID |
 |---|---|---|---|---|
+| `regulation/adgm.com/data-protection-regulations/` | structured | 4 | `MX·CS··` | `secid:regulation/adgm.com/data-protection-regulations` |
+| `regulation/adilet.zan.kz/law-230-viii/` | structured | 4 | `MX·CS··` | `secid:regulation/adilet.zan.kz/law-230-viii` |
+| `regulation/alabama.gov/apdpa/` | structured | 4 | `MX·CS··` | `secid:regulation/alabama.gov/apdpa` |
 | `regulation/alberta.ca/hia/` | structured | 11 (+4 imgs) | `MX·CSPI` | `secid:regulation/alberta.ca/hia` |
 | `regulation/alberta.ca/pipa/` | structured | 11 (+4 imgs) | `MX·CSPI` | `secid:regulation/alberta.ca/pipa` |
+| `regulation/almeezan.qa/pdppl/` | metadata-only | 1 | `M······` | `secid:regulation/almeezan.qa/pdppl` |
+| `regulation/arkansas.gov/apdpa/` | metadata-only | 1 | `M······` | `secid:regulation/arkansas.gov/apdpa` |
+| `regulation/asamblea.gob.sv/decreto-141-2024/` | metadata-only | 1 | `M······` | `secid:regulation/asamblea.gob.sv/decreto-141-2024` |
+| `regulation/asamblea.gob.sv/decreto-234-2025/` | metadata-only | 1 | `M······` | `secid:regulation/asamblea.gob.sv/decreto-234-2025` |
+| `regulation/au.int/malabo-convention/` | structured | 4 | `MX·CS··` | `secid:regulation/au.int/malabo-convention` |
+| `regulation/bcn.cl/boletin-16821-19/` | metadata-only | 1 | `M······` | `secid:regulation/bcn.cl/boletin-16821-19` |
+| `regulation/bcn.cl/ley-21663/` | structured | 4 | `MX·CS··` | `secid:regulation/bcn.cl/ley-21663` |
+| `regulation/bis.gov/ear-advanced-computing/` | structured | 4 | `MX·CS··` | `secid:regulation/bis.gov/ear-advanced-computing` |
+| `regulation/boe.es/lopdgdd/` | structured | 4 | `MX·CS··` | `secid:regulation/boe.es/lopdgdd` |
+| `regulation/boe.es/nis2-transposition/` | metadata-only | 1 | `M······` | `secid:regulation/boe.es/nis2-transposition` |
+| `regulation/boe.es/rd-729-2023/` | structured | 4 | `MX·CS··` | `secid:regulation/boe.es/rd-729-2023` |
+| `regulation/boe.es/rd-817-2023/` | structured | 4 | `MX·CS··` | `secid:regulation/boe.es/rd-817-2023` |
+| `regulation/boe.es/rdl-19-2018/` | structured | 4 | `MX·CS··` | `secid:regulation/boe.es/rdl-19-2018` |
+| `regulation/ca.gov/ab-1008/` | structured | 4 | `MX·CS··` | `secid:regulation/ca.gov/ab-1008` |
+| `regulation/ca.gov/ab-2013/` | structured | 4 | `MX·CS··` | `secid:regulation/ca.gov/ab-2013` |
+| `regulation/ca.gov/ab-3030/` | structured | 4 | `MX·CS··` | `secid:regulation/ca.gov/ab-3030` |
 | `regulation/ca.gov/caloppa/` | structured | 6 | `MX·CS··` | `secid:regulation/ca.gov/caloppa` |
 | `regulation/ca.gov/ccpa-cpra/` | structured | 6 | `M··CSP·` | `secid:regulation/ca.gov/ccpa-cpra` |
 | `regulation/ca.gov/physicians-make-decisions-act/` | structured | 7 | `MX·CS··` | `secid:regulation/ca.gov/physicians-make-decisions-act` |
 | `regulation/ca.gov/sb-1001-bot-disclosure/` | structured | 6 | `MX·CS··` | `secid:regulation/ca.gov/sb-1001-bot-disclosure` |
+| `regulation/ca.gov/sb-1119/` | structured | 4 | `MX·CS··` | `secid:regulation/ca.gov/sb-1119` |
+| `regulation/ca.gov/sb-243/` | structured | 4 | `MX·CS··` | `secid:regulation/ca.gov/sb-243` |
 | `regulation/ca.gov/sb-327-iot-security/` | structured | 5 | `M··CSP·` | `secid:regulation/ca.gov/sb-327-iot-security` |
 | `regulation/ca.gov/sb-53-transparency-in-frontier-ai-act/` | structured | 7 | `MXJCS··` | `secid:regulation/ca.gov/sb-53-transparency-in-frontier-ai-act` |
+| `regulation/ca.gov/sb-867/` | structured | 4 | `MX·CS··` | `secid:regulation/ca.gov/sb-867` |
+| `regulation/ca.gov/sb-942/` | structured | 4 | `MX·CS··` | `secid:regulation/ca.gov/sb-942` |
+| `regulation/cac.gov.cn/ai-content-labeling-measures/` | structured | 4 | `MX·CS··` | `secid:regulation/cac.gov.cn/ai-content-labeling-measures` |
+| `regulation/cac.gov.cn/algorithm-recommendation-provisions/` | structured | 4 | `MX·CS··` | `secid:regulation/cac.gov.cn/algorithm-recommendation-provisions` |
+| `regulation/cac.gov.cn/anthropomorphic-interactive-ai-measures/` | structured | 4 | `MX·CS··` | `secid:regulation/cac.gov.cn/anthropomorphic-interactive-ai-measures` |
+| `regulation/cac.gov.cn/cross-border-data-transfer-security-assessment/` | structured | 4 | `MX·CS··` | `secid:regulation/cac.gov.cn/cross-border-data-transfer-security-assessment` |
+| `regulation/cac.gov.cn/csl/` | structured | 4 | `MX·CS··` | `secid:regulation/cac.gov.cn/csl` |
+| `regulation/cac.gov.cn/cybersecurity-review-measures/` | structured | 4 | `MX·CS··` | `secid:regulation/cac.gov.cn/cybersecurity-review-measures` |
+| `regulation/cac.gov.cn/deep-synthesis-provisions/` | structured | 4 | `MX·CS··` | `secid:regulation/cac.gov.cn/deep-synthesis-provisions` |
+| `regulation/cac.gov.cn/dsl/` | structured | 4 | `MX·CS··` | `secid:regulation/cac.gov.cn/dsl` |
 | `regulation/cac.gov.cn/genai-interim-measures/` | structured | 7 | `M··CSP·` | `secid:regulation/cac.gov.cn/genai-interim-measures` |
+| `regulation/cac.gov.cn/pipl/` | structured | 4 | `MX·CS··` | `secid:regulation/cac.gov.cn/pipl` |
 | `regulation/canada.ca/pipeda/` | structured | 11 (+2 imgs) | `MX·CSPI` | `secid:regulation/canada.ca/pipeda` |
-| `regulation/cao.go.jp/economic-security-promotion/` | structured | 7 | `MX·CS··` | `secid:regulation/cao.go.jp/economic-security-promotion` |
-| `regulation/cas.go.jp/specified-secret-protection/` | structured | 7 | `MX·CS··` | `secid:regulation/cas.go.jp/specified-secret-protection` |
+| `regulation/cao.go.jp/economic-security-information/` | structured | 4 | `MX·CS··` | `secid:regulation/cao.go.jp/economic-security-information` |
+| `regulation/cao.go.jp/economic-security-promotion/` | structured | 8 | `MX·CS··` | `secid:regulation/cao.go.jp/economic-security-promotion` |
+| `regulation/cas.go.jp/ai-promotion-act/` | structured | 4 | `MX·CS··` | `secid:regulation/cas.go.jp/ai-promotion-act` |
+| `regulation/cas.go.jp/specified-secret-protection/` | structured | 8 | `MX·CS··` | `secid:regulation/cas.go.jp/specified-secret-protection` |
+| `regulation/cas.go.jp/ucal/` | structured | 4 | `MX·CS··` | `secid:regulation/cas.go.jp/ucal` |
+| `regulation/chinhphu.vn/law-134-2025-qh15/` | metadata-only | 1 | `M······` | `secid:regulation/chinhphu.vn/law-134-2025-qh15` |
+| `regulation/chinhphu.vn/law-71-2025-qh15/` | metadata-only | 1 | `M······` | `secid:regulation/chinhphu.vn/law-71-2025-qh15` |
+| `regulation/chinhphu.vn/pdpd/` | metadata-only | 1 | `M······` | `secid:regulation/chinhphu.vn/pdpd` |
+| `regulation/coe.int/cets-225/` | structured | 4 | `MX·CS··` | `secid:regulation/coe.int/cets-225` |
+| `regulation/coe.int/ets-185/` | structured | 4 | `MX·CS··` | `secid:regulation/coe.int/ets-185` |
 | `regulation/colorado.gov/ai-act/` | structured | 9 (+1 imgs) | `MX·CSPI` | `secid:regulation/colorado.gov/ai-act` |
 | `regulation/colorado.gov/cpa-privacy-act/` | structured | 9 (+1 imgs) | `MX·CSPI` | `secid:regulation/colorado.gov/cpa-privacy-act` |
+| `regulation/congress.gov/chat-act-s2714/` | structured | 4 | `MX·CS··` | `secid:regulation/congress.gov/chat-act-s2714` |
 | `regulation/congress.gov/chips-act/` | structured | 5 | `MX·CS··` | `secid:regulation/congress.gov/chips-act` |
+| `regulation/congress.gov/guard-act-s3062/` | structured | 4 | `MX·CS··` | `secid:regulation/congress.gov/guard-act-s3062` |
+| `regulation/csa.gov.sg/cybersecurity-act/` | structured | 4 | `MX·CS··` | `secid:regulation/csa.gov.sg/cybersecurity-act` |
 | `regulation/ct.gov/ctdpa/` | structured | 9 (+1 imgs) | `MX·CSPI` | `secid:regulation/ct.gov/ctdpa` |
 | `regulation/cyber.go.jp/active-cyber-defense-act/` | structured | 6 | `MX·CS··` | `secid:regulation/cyber.go.jp/active-cyber-defense-act` |
 | `regulation/cyber.go.jp/basic-act-cybersecurity/` | structured | 5 | `MX·CS··` | `secid:regulation/cyber.go.jp/basic-act-cybersecurity` |
 | `regulation/delaware.gov/dpdpa/` | structured | 5 | `MX·CS··` | `secid:regulation/delaware.gov/dpdpa` |
+| `regulation/difc.com/dpl/` | metadata-only | 1 | `M······` | `secid:regulation/difc.com/dpl` |
+| `regulation/difc.com/dpl-reg-10/` | metadata-only | 1 | `M······` | `secid:regulation/difc.com/dpl-reg-10` |
 | `regulation/digital.go.jp/my-number-act/` | structured | 7 | `M··CSP·` | `secid:regulation/digital.go.jp/my-number-act` |
+| `regulation/ejustice.just.fgov.be/nis2-transposition/` | metadata-only | 1 | `M······` | `secid:regulation/ejustice.just.fgov.be/nis2-transposition` |
+| `regulation/ejustice.just.fgov.be/psd2-transposition/` | metadata-only | 1 | `M······` | `secid:regulation/ejustice.just.fgov.be/psd2-transposition` |
+| `regulation/esafety.gov.au/online-safety-act-2021/` | structured | 4 | `MX·CS··` | `secid:regulation/esafety.gov.au/online-safety-act-2021` |
+| `regulation/esafety.gov.au/phase-2-industry-codes/` | metadata-only | 1 | `M······` | `secid:regulation/esafety.gov.au/phase-2-industry-codes` |
 | `regulation/europa.eu/ai-act/` | structured | 12 | `MX·CS··` | `secid:regulation/europa.eu/ai-act` |
+| `regulation/europa.eu/cer/` | structured | 4 | `MX·CS··` | `secid:regulation/europa.eu/cer` |
 | `regulation/europa.eu/cra/` | structured | 9 | `M··CS··` | `secid:regulation/europa.eu/cra` |
+| `regulation/europa.eu/cyber-solidarity-act/` | structured | 4 | `MX·CS··` | `secid:regulation/europa.eu/cyber-solidarity-act` |
+| `regulation/europa.eu/cybersecurity-act/` | structured | 4 | `MX·CS··` | `secid:regulation/europa.eu/cybersecurity-act` |
 | `regulation/europa.eu/data-act/` | structured | 7 | `M··CS··` | `secid:regulation/europa.eu/data-act` |
+| `regulation/europa.eu/data-governance-act/` | structured | 4 | `MX·CS··` | `secid:regulation/europa.eu/data-governance-act` |
 | `regulation/europa.eu/dma/` | structured | 9 | `M··CS··` | `secid:regulation/europa.eu/dma` |
 | `regulation/europa.eu/dora/` | structured | 9 | `MX·CS··` | `secid:regulation/europa.eu/dora` |
 | `regulation/europa.eu/dsa/` | structured | 7 | `M··CS··` | `secid:regulation/europa.eu/dsa` |
+| `regulation/europa.eu/ehds/` | structured | 4 | `MX·CS··` | `secid:regulation/europa.eu/ehds` |
+| `regulation/europa.eu/eidas/` | structured | 4 | `MX·CS··` | `secid:regulation/europa.eu/eidas` |
+| `regulation/europa.eu/eidas-2/` | structured | 4 | `MX·CS··` | `secid:regulation/europa.eu/eidas-2` |
 | `regulation/europa.eu/eprivacy/` | structured | 6 | `MX·CS··` | `secid:regulation/europa.eu/eprivacy` |
+| `regulation/europa.eu/eu-kids-act/` | structured | 4 | `MX·CS··` | `secid:regulation/europa.eu/eu-kids-act` |
 | `regulation/europa.eu/gdpr/` | structured | 9 | `MX·CS··` | `secid:regulation/europa.eu/gdpr` |
+| `regulation/europa.eu/gpsr/` | structured | 4 | `MX·CS··` | `secid:regulation/europa.eu/gpsr` |
+| `regulation/europa.eu/machinery-regulation/` | structured | 4 | `MX·CS··` | `secid:regulation/europa.eu/machinery-regulation` |
 | `regulation/europa.eu/nis2/` | structured | 9 | `M··CS··` | `secid:regulation/europa.eu/nis2` |
+| `regulation/europa.eu/product-liability-directive/` | structured | 4 | `MX·CS··` | `secid:regulation/europa.eu/product-liability-directive` |
+| `regulation/europa.eu/psd2/` | structured | 4 | `MX·CS··` | `secid:regulation/europa.eu/psd2` |
+| `regulation/europa.eu/psd3/` | structured | 4 | `MX·CS··` | `secid:regulation/europa.eu/psd3` |
+| `regulation/europa.eu/red-3-3/` | structured | 4 | `MX·CS··` | `secid:regulation/europa.eu/red-3-3` |
 | `regulation/florida.gov/biometric-privacy-laws/` | structured | 5 | `MX·CS··` | `secid:regulation/florida.gov/biometric-privacy-laws` |
+| `regulation/florida.gov/fdbr/` | structured | 4 | `MX·CS··` | `secid:regulation/florida.gov/fdbr` |
+| `regulation/fsa.go.jp/payment-services-act/` | structured | 4 | `MX·CS··` | `secid:regulation/fsa.go.jp/payment-services-act` |
+| `regulation/gesetze-im-internet.de/bdsg/` | structured | 4 | `MX·CS··` | `secid:regulation/gesetze-im-internet.de/bdsg` |
+| `regulation/gesetze-im-internet.de/bsi-kritisv/` | structured | 4 | `MX·CS··` | `secid:regulation/gesetze-im-internet.de/bsi-kritisv` |
+| `regulation/gesetze-im-internet.de/bsig/` | structured | 4 | `MX·CS··` | `secid:regulation/gesetze-im-internet.de/bsig` |
+| `regulation/gesetze-im-internet.de/bsig-2009/` | metadata-only | 1 | `M······` | `secid:regulation/gesetze-im-internet.de/bsig-2009` |
+| `regulation/gesetze-im-internet.de/nis2umsucg/` | structured | 4 | `MX·CS··` | `secid:regulation/gesetze-im-internet.de/nis2umsucg` |
+| `regulation/gesetze-im-internet.de/sgb-v/` | structured | 4 | `MX·CS··` | `secid:regulation/gesetze-im-internet.de/sgb-v` |
+| `regulation/gesetze-im-internet.de/zag/` | structured | 4 | `MX·CS··` | `secid:regulation/gesetze-im-internet.de/zag` |
+| `regulation/gob.pe/ds-115-2025-pcm/` | metadata-only | 1 | `M······` | `secid:regulation/gob.pe/ds-115-2025-pcm` |
+| `regulation/gob.pe/ley-31814/` | structured | 4 | `MX·CS··` | `secid:regulation/gob.pe/ley-31814` |
 | `regulation/gov.bc.ca/pipa/` | structured | 5 | `M··CSP·` | `secid:regulation/gov.bc.ca/pipa` |
+| `regulation/gov.br/gsi/` | empty | 0 | `·······` | — |
+| `regulation/gov.il/privacy-protection-law/` | structured | 4 | `MX·CS··` | `secid:regulation/gov.il/privacy-protection-law` |
 | `regulation/gov.uk/ai-opportunities-action-plan/` | structured | 7 | `MX·CS··` | `secid:regulation/gov.uk/ai-opportunities-action-plan` |
+| `regulation/gov.uk/atrs/` | metadata-only | 1 | `M······` | `secid:regulation/gov.uk/atrs` |
+| `regulation/gov.uk/childrens-wellbeing-and-schools-act-2026/` | structured | 4 | `MX·CS··` | `secid:regulation/gov.uk/childrens-wellbeing-and-schools-act-2026` |
 | `regulation/gov.uk/computer-misuse-act/` | structured | 4 | `M··CS··` | `secid:regulation/gov.uk/computer-misuse-act` |
+| `regulation/gov.uk/crime-and-policing-act-2026/` | structured | 4 | `MX·CS··` | `secid:regulation/gov.uk/crime-and-policing-act-2026` |
+| `regulation/gov.uk/critical-third-parties-regime/` | metadata-only | 1 | `M······` | `secid:regulation/gov.uk/critical-third-parties-regime` |
+| `regulation/gov.uk/cyber-security-resilience-bill/` | metadata-only | 1 | `M······` | `secid:regulation/gov.uk/cyber-security-resilience-bill` |
 | `regulation/gov.uk/data-protection-act-2018/` | structured | 7 | `M··CS··` | `secid:regulation/gov.uk/data-protection-act-2018` |
 | `regulation/gov.uk/nis-regulations/` | structured | 7 | `M··CS··` | `secid:regulation/gov.uk/nis-regulations` |
+| `regulation/gov.uk/osa/` | structured | 4 | `MX·CS··` | `secid:regulation/gov.uk/osa` |
 | `regulation/gov.uk/psti-act/` | structured | 6 | `M··CS··` | `secid:regulation/gov.uk/psti-act` |
 | `regulation/gov.uk/uk-gdpr/` | structured | 7 | `M··CS··` | `secid:regulation/gov.uk/uk-gdpr` |
+| `regulation/gov.za/cybercrimes-act/` | structured | 4 | `MX·CS··` | `secid:regulation/gov.za/cybercrimes-act` |
+| `regulation/gov.za/popia/` | structured | 4 | `MX·CS··` | `secid:regulation/gov.za/popia` |
+| `regulation/govinfo.gov/bsa/` | structured | 4 | `MX·CS··` | `secid:regulation/govinfo.gov/bsa` |
 | `regulation/govinfo.gov/calea/` | structured | 7 (+1 imgs) | `MX·CS·I` | `secid:regulation/govinfo.gov/calea` |
 | `regulation/govinfo.gov/cfaa/` | structured | 8 (+1 imgs) | `MX·CS·I` | `secid:regulation/govinfo.gov/cfaa` |
 | `regulation/govinfo.gov/circia/` | structured | 5 | `M··CSP·` | `secid:regulation/govinfo.gov/circia` |
+| `regulation/govinfo.gov/cisa-2015/` | structured | 4 | `MX·CS··` | `secid:regulation/govinfo.gov/cisa-2015` |
 | `regulation/govinfo.gov/coppa/` | structured | 7 (+1 imgs) | `MX·CS·I` | `secid:regulation/govinfo.gov/coppa` |
 | `regulation/govinfo.gov/fisma/` | structured | 7 | `MX·CS··` | `secid:regulation/govinfo.gov/fisma` |
 | `regulation/govinfo.gov/glba/` | structured | 8 (+1 imgs) | `MX·CS·I` | `secid:regulation/govinfo.gov/glba` |
 | `regulation/govinfo.gov/hava/` | structured | 7 (+1 imgs) | `MX·CS·I` | `secid:regulation/govinfo.gov/hava` |
 | `regulation/govinfo.gov/hipaa/` | structured | 8 (+1 imgs) | `MX·CS·I` | `secid:regulation/govinfo.gov/hipaa` |
+| `regulation/govinfo.gov/sox/` | structured | 4 | `MX·CS··` | `secid:regulation/govinfo.gov/sox` |
+| `regulation/homeaffairs.gov.au/cirmp-rules/` | structured | 4 | `MX·CS··` | `secid:regulation/homeaffairs.gov.au/cirmp-rules` |
+| `regulation/homeaffairs.gov.au/cyber-security-act-2024/` | structured | 4 | `MX·CS··` | `secid:regulation/homeaffairs.gov.au/cyber-security-act-2024` |
+| `regulation/homeaffairs.gov.au/soci-act/` | structured | 4 | `MX·CS··` | `secid:regulation/homeaffairs.gov.au/soci-act` |
 | `regulation/illinois.gov/bipa/` | structured | 5 | `MX·CS··` | `secid:regulation/illinois.gov/bipa` |
+| `regulation/illinois.gov/wopr-act/` | structured | 4 | `MX·CS··` | `secid:regulation/illinois.gov/wopr-act` |
 | `regulation/in.gov/incdpa/` | structured | 5 | `MX·CS··` | `secid:regulation/in.gov/incdpa` |
 | `regulation/industry.gov.au/ai-action-plan/` | structured | 5 | `MX·CS··` | `secid:regulation/industry.gov.au/ai-action-plan` |
 | `regulation/iowa.gov/icdpa/` | structured | 5 | `MX·CS··` | `secid:regulation/iowa.gov/icdpa` |
+| `regulation/irishstatutebook.ie/data-protection-act-2018/` | metadata-only | 1 | `M······` | `secid:regulation/irishstatutebook.ie/data-protection-act-2018` |
+| `regulation/irishstatutebook.ie/nis2-transposition/` | metadata-only | 1 | `M······` | `secid:regulation/irishstatutebook.ie/nis2-transposition` |
+| `regulation/irishstatutebook.ie/psd2-regulations-2018/` | metadata-only | 1 | `M······` | `secid:regulation/irishstatutebook.ie/psd2-regulations-2018` |
+| `regulation/isap.sejm.gov.pl/nis2-transposition/` | metadata-only | 1 | `M······` | `secid:regulation/isap.sejm.gov.pl/nis2-transposition` |
+| `regulation/isap.sejm.gov.pl/psd2-transposition/` | metadata-only | 1 | `M······` | `secid:regulation/isap.sejm.gov.pl/psd2-transposition` |
+| `regulation/isap.sejm.gov.pl/uodo-act/` | metadata-only | 1 | `M······` | `secid:regulation/isap.sejm.gov.pl/uodo-act` |
+| `regulation/kentucky.gov/kcdpa/` | structured | 4 | `MX·CS··` | `secid:regulation/kentucky.gov/kcdpa` |
+| `regulation/law.moj.gov.tw/ai-fundamental-act/` | structured | 4 | `MX·CS··` | `secid:regulation/law.moj.gov.tw/ai-fundamental-act` |
+| `regulation/law.moj.gov.tw/cyber-security-management-act/` | structured | 4 | `MX·CS··` | `secid:regulation/law.moj.gov.tw/cyber-security-management-act` |
+| `regulation/legifrance.gouv.fr/lil/` | structured | 4 | `MX·CS··` | `secid:regulation/legifrance.gouv.fr/lil` |
+| `regulation/legifrance.gouv.fr/loi-2024-449/` | structured | 4 | `MX·CS··` | `secid:regulation/legifrance.gouv.fr/loi-2024-449` |
+| `regulation/legifrance.gouv.fr/nis2-transposition/` | metadata-only | 1 | `M······` | `secid:regulation/legifrance.gouv.fr/nis2-transposition` |
+| `regulation/legifrance.gouv.fr/psd2-transposition/` | metadata-only | 1 | `M······` | `secid:regulation/legifrance.gouv.fr/psd2-transposition` |
+| `regulation/lex.uz/orq-1115/` | metadata-only | 1 | `M······` | `secid:regulation/lex.uz/orq-1115` |
+| `regulation/lex.uz/orq-764/` | structured | 4 | `MX·CS··` | `secid:regulation/lex.uz/orq-764` |
+| `regulation/louisiana.gov/ldpa/` | metadata-only | 1 | `M······` | `secid:regulation/louisiana.gov/ldpa` |
 | `regulation/maryland.gov/facial-recognition-laws/` | structured | 5 | `MX·CS··` | `secid:regulation/maryland.gov/facial-recognition-laws` |
+| `regulation/maryland.gov/modpa/` | structured | 4 | `MX·CS··` | `secid:regulation/maryland.gov/modpa` |
 | `regulation/mass.gov/ai-bills/` | structured | 5 | `MX·CS··` | `secid:regulation/mass.gov/ai-bills` |
+| `regulation/mdes.go.th/pdpa/` | metadata-only | 1 | `M······` | `secid:regulation/mdes.go.th/pdpa` |
+| `regulation/meity.gov.in/aadhaar-act/` | metadata-only | 1 | `M······` | `secid:regulation/meity.gov.in/aadhaar-act` |
 | `regulation/meity.gov.in/dpdp/` | structured | 9 (+1 imgs) | `MX·CSPI` | `secid:regulation/meity.gov.in/dpdp` |
+| `regulation/meity.gov.in/dpdp-rules/` | metadata-only | 1 | `M······` | `secid:regulation/meity.gov.in/dpdp-rules` |
+| `regulation/meity.gov.in/it-act/` | structured | 4 | `MX·CS··` | `secid:regulation/meity.gov.in/it-act` |
+| `regulation/meity.gov.in/it-rules-2011/` | structured | 4 | `MX·CS··` | `secid:regulation/meity.gov.in/it-rules-2011` |
+| `regulation/meity.gov.in/it-rules-2021/` | structured | 4 | `MX·CS··` | `secid:regulation/meity.gov.in/it-rules-2021` |
+| `regulation/meity.gov.in/national-cyber-security-policy/` | structured | 4 | `MX·CS··` | `secid:regulation/meity.gov.in/national-cyber-security-policy` |
+| `regulation/meti.go.jp/installment-sales/` | structured | 4 | `MX·CS··` | `secid:regulation/meti.go.jp/installment-sales` |
+| `regulation/meti.go.jp/unfair-competition-prevention/` | structured | 4 | `MX·CS··` | `secid:regulation/meti.go.jp/unfair-competition-prevention` |
+| `regulation/mn.gov/mcdpa/` | structured | 4 | `MX·CS··` | `secid:regulation/mn.gov/mcdpa` |
+| `regulation/msit.go.kr/ai-basic-act/` | metadata-only | 1 | `M······` | `secid:regulation/msit.go.kr/ai-basic-act` |
+| `regulation/msit.go.kr/network-act/` | metadata-only | 1 | `M······` | `secid:regulation/msit.go.kr/network-act` |
 | `regulation/mt.gov/mcdpa/` | structured | 5 | `MX·CS··` | `secid:regulation/mt.gov/mcdpa` |
+| `regulation/nebraska.gov/lb-525/` | structured | 4 | `MX·CS··` | `secid:regulation/nebraska.gov/lb-525` |
+| `regulation/nebraska.gov/ndpa/` | structured | 4 | `MX·CS··` | `secid:regulation/nebraska.gov/ndpa` |
+| `regulation/nh.gov/privacy-act/` | metadata-only | 1 | `M······` | `secid:regulation/nh.gov/privacy-act` |
+| `regulation/nj.gov/njdpa/` | metadata-only | 1 | `M······` | `secid:regulation/nj.gov/njdpa` |
+| `regulation/normattiva.it/codice-privacy/` | metadata-only | 1 | `M······` | `secid:regulation/normattiva.it/codice-privacy` |
+| `regulation/normattiva.it/d-lgs-138-2024/` | metadata-only | 1 | `M······` | `secid:regulation/normattiva.it/d-lgs-138-2024` |
+| `regulation/normattiva.it/d-lgs-218-2017/` | metadata-only | 1 | `M······` | `secid:regulation/normattiva.it/d-lgs-218-2017` |
+| `regulation/normattiva.it/legge-132-2025/` | structured | 4 | `MX·CS··` | `secid:regulation/normattiva.it/legge-132-2025` |
 | `regulation/nv.gov/privacy-amendments/` | structured | 5 | `MX·CS··` | `secid:regulation/nv.gov/privacy-amendments` |
+| `regulation/ny.gov/ai-companion-models-law/` | structured | 4 | `MX·CS··` | `secid:regulation/ny.gov/ai-companion-models-law` |
 | `regulation/ny.gov/local-law-144-ai-hiring/` | structured | 6 | `MX·CS··` | `secid:regulation/ny.gov/local-law-144-ai-hiring` |
 | `regulation/ny.gov/nybcl/` | structured | 5 | `MX·CS··` | `secid:regulation/ny.gov/nybcl` |
 | `regulation/ny.gov/nydfs-500/` | structured | 13 (+2 imgs) | `MX·CSPI` | `secid:regulation/ny.gov/nydfs-500` |
 | `regulation/ny.gov/shield-act/` | structured | 5 | `MX·CS··` | `secid:regulation/ny.gov/shield-act` |
+| `regulation/oaic.gov.au/ndb/` | metadata-only | 1 | `M······` | `secid:regulation/oaic.gov.au/ndb` |
 | `regulation/oaic.gov.au/privacy-act/` | structured | 6 | `MX·CS··` | `secid:regulation/oaic.gov.au/privacy-act` |
+| `regulation/oklahoma.gov/okcdpa/` | metadata-only | 1 | `M······` | `secid:regulation/oklahoma.gov/okcdpa` |
 | `regulation/ontario.ca/phipa/` | structured | 5 | `M··CSP·` | `secid:regulation/ontario.ca/phipa` |
 | `regulation/oregon.gov/ocpa/` | structured | 6 | `MX·CS··` | `secid:regulation/oregon.gov/ocpa` |
+| `regulation/oregon.gov/sb-1546/` | structured | 4 | `MX·CS··` | `secid:regulation/oregon.gov/sb-1546` |
 | `regulation/parl.ca/aida/` | structured | 7 | `MX·CS··` | `secid:regulation/parl.ca/aida` |
+| `regulation/parl.ca/bill-c-34/` | structured | 5 | `MX·CS··` | `secid:regulation/parl.ca/bill-c-34` |
 | `regulation/parl.ca/ccspa/` | structured | 5 | `MX·CS··` | `secid:regulation/parl.ca/ccspa` |
 | `regulation/parl.ca/national-security-act-2017/` | structured | 5 | `MX·CS··` | `secid:regulation/parl.ca/national-security-act-2017` |
 | `regulation/parl.ca/nsicop-act/` | structured | 5 | `MX·CS··` | `secid:regulation/parl.ca/nsicop-act` |
 | `regulation/parl.ca/nsira-act/` | structured | 5 | `MX·CS··` | `secid:regulation/parl.ca/nsira-act` |
+| `regulation/pdp.gov.bh/pdpl/` | structured | 4 | `MX·CS··` | `secid:regulation/pdp.gov.bh/pdpl` |
+| `regulation/pdp.gov.my/pdpa/` | metadata-only | 1 | `M······` | `secid:regulation/pdp.gov.my/pdpa` |
 | `regulation/pdpc.gov.sg/pdpa/` | structured | 7 | `M··CSP·` | `secid:regulation/pdpc.gov.sg/pdpa` |
+| `regulation/peraturan.go.id/uu-pdp/` | metadata-only | 1 | `M······` | `secid:regulation/peraturan.go.id/uu-pdp` |
 | `regulation/pipc.go.kr/pipa/` | metadata-only | 2 | `M······` | `secid:regulation/pipc.go.kr/pipa` |
+| `regulation/planalto.gov.br/ai-bill-pl2338/` | structured | 4 | `MX·CS··` | `secid:regulation/planalto.gov.br/ai-bill-pl2338` |
+| `regulation/planalto.gov.br/decreto-12880-2026/` | structured | 4 | `MX·CS··` | `secid:regulation/planalto.gov.br/decreto-12880-2026` |
+| `regulation/planalto.gov.br/eca-digital/` | structured | 4 | `MX·CS··` | `secid:regulation/planalto.gov.br/eca-digital` |
 | `regulation/planalto.gov.br/lgpd/` | structured | 6 | `M··CSP·` | `secid:regulation/planalto.gov.br/lgpd` |
-| `regulation/ppc.go.jp/appi/` | structured | 8 | `MX·CSP·` | `secid:regulation/ppc.go.jp/appi` |
+| `regulation/planalto.gov.br/marco-civil/` | structured | 4 | `MX·CS··` | `secid:regulation/planalto.gov.br/marco-civil` |
+| `regulation/ppc.go.jp/appi/` | structured | 10 | `MX·CSP·` | `secid:regulation/ppc.go.jp/appi` |
+| `regulation/priv.gc.ca/ppcda-bill-c36/` | structured | 5 | `MX·CS··` | `secid:regulation/priv.gc.ca/ppcda-bill-c36` |
+| `regulation/privacy.gov.ph/dpa/` | structured | 4 | `MX·CS··` | `secid:regulation/privacy.gov.ph/dpa` |
 | `regulation/quebec.ca/loi-25/` | structured | 5 | `M··CSP·` | `secid:regulation/quebec.ca/loi-25` |
+| `regulation/ri.gov/dtppa/` | structured | 4 | `MX·CS··` | `secid:regulation/ri.gov/dtppa` |
+| `regulation/riksdagen.se/lbf-psd2/` | metadata-only | 1 | `M······` | `secid:regulation/riksdagen.se/lbf-psd2` |
+| `regulation/riksdagen.se/nis2-transposition/` | metadata-only | 1 | `M······` | `secid:regulation/riksdagen.se/nis2-transposition` |
+| `regulation/ris.bka.gv.at/nis2-transposition/` | metadata-only | 1 | `M······` | `secid:regulation/ris.bka.gv.at/nis2-transposition` |
+| `regulation/ris.bka.gv.at/zadig-2018/` | metadata-only | 1 | `M······` | `secid:regulation/ris.bka.gv.at/zadig-2018` |
+| `regulation/sdaia.gov.sa/pdpl/` | metadata-only | 1 | `M······` | `secid:regulation/sdaia.gov.sa/pdpl` |
 | `regulation/soumu.go.jp/telecommunications-business-act/` | structured | 7 | `MX·CS··` | `secid:regulation/soumu.go.jp/telecommunications-business-act` |
 | `regulation/texas.gov/cubi-biometric-privacy/` | structured | 6 | `MX·CS··` | `secid:regulation/texas.gov/cubi-biometric-privacy` |
+| `regulation/texas.gov/hb-149/` | structured | 4 | `MX·CS··` | `secid:regulation/texas.gov/hb-149` |
+| `regulation/texas.gov/tdpsa/` | structured | 4 | `MX·CS··` | `secid:regulation/texas.gov/tdpsa` |
 | `regulation/tn.gov/tipa/` | structured | 5 | `MX·CS··` | `secid:regulation/tn.gov/tipa` |
+| `regulation/uaelegislation.gov.ae/pdpl/` | structured | 4 | `MX·CS··` | `secid:regulation/uaelegislation.gov.ae/pdpl` |
+| `regulation/utah.gov/hb-452/` | structured | 4 | `MX·CS··` | `secid:regulation/utah.gov/hb-452` |
+| `regulation/utah.gov/sb-149/` | structured | 4 | `MX·CS··` | `secid:regulation/utah.gov/sb-149` |
+| `regulation/utah.gov/sb-226/` | structured | 4 | `MX·CS··` | `secid:regulation/utah.gov/sb-226` |
 | `regulation/utah.gov/ucpa/` | structured | 8 | `MX·CSP·` | `secid:regulation/utah.gov/ucpa` |
+| `regulation/vermont.gov/vdpa/` | structured | 4 | `MX·CS··` | `secid:regulation/vermont.gov/vdpa` |
 | `regulation/virginia.gov/vcdpa/` | structured | 6 | `M··CSP·` | `secid:regulation/virginia.gov/vcdpa` |
+| `regulation/wa.gov/hb-2225/` | structured | 4 | `MX·CS··` | `secid:regulation/wa.gov/hb-2225` |
 | `regulation/wa.gov/my-health-my-data-act/` | structured | 6 | `MX·CS··` | `secid:regulation/wa.gov/my-health-my-data-act` |
+| `regulation/wetten.overheid.nl/cbw/` | metadata-only | 1 | `M······` | `secid:regulation/wetten.overheid.nl/cbw` |
+| `regulation/wetten.overheid.nl/uavg/` | structured | 4 | `MX·CS··` | `secid:regulation/wetten.overheid.nl/uavg` |
+| `regulation/wetten.overheid.nl/wft-psd2/` | metadata-only | 1 | `M······` | `secid:regulation/wetten.overheid.nl/wft-psd2` |
 | `regulation/whitehouse.gov/eo-14028/` | structured | 8 (+1 imgs) | `MX·CSPI` | `secid:regulation/whitehouse.gov/eo-14028` |
 | `regulation/whitehouse.gov/nsm-ai/` | structured | 7 | `MX·CS··` | `secid:regulation/whitehouse.gov/nsm-ai` |
 | `regulation/whitehouse.gov/nsm-ai-framework/` | structured | 5 | `MX·CS··` | `secid:regulation/whitehouse.gov/nsm-ai-framework` |

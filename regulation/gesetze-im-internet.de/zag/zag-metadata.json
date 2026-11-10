@@ -1,0 +1,62 @@
+{
+  "secid": "secid:regulation/gesetze-im-internet.de/zag",
+  "name": "Zahlungsdiensteaufsichtsgesetz (ZAG)",
+  "acronym": "ZAG 2018",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "zag",
+  "owner": "Bundesministerium der Justiz / Juris",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "German Payment Services Supervision Act transposing PSD2. Includes Strong Customer Authentication (SCA), open banking (AISP/PISP), and operational/security requirements for payment service providers.",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by Bundesministerium der Justiz / Juris (gesetze-im-internet.de) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within Bundesministerium der Justiz / Juris (gesetze-im-internet.de).",
+  "license": {
+    "spdx": "LicenseRef-Government-Work",
+    "Grouping": "Government-Work",
+    "redistribution": "permitted_for_reference",
+    "derivatives": "varies_by_jurisdiction",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.gesetze-im-internet.de/urhg/__5.html",
+    "note": "Official German Federal Government publication (gesetze-im-internet.de; § 5 UrhG public official work). Publicly released for free download, reference, and citation.",
+    "notes": "Official German Federal Government publication (gesetze-im-internet.de; § 5 UrhG public official work). Publicly released for free download, reference, and citation."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://www.gesetze-im-internet.de/zag_2018/",
+    "textUsed": "https://www.gesetze-im-internet.de/zag_2018/xml.zip",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "date": "2026-11-10",
+    "tool": "gesetze-im-internet-xml + tools-resources/utils/parse_regulatory_sections.py",
+    "s3_archive_path": "",
+    "notes": "Extracted official regulation (https://www.gesetze-im-internet.de/zag_2018/xml.zip) to Markdown (205,108 chars). Parsed 102 sections (76 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  },
+  "end_state": "extracted",
+  "end_reason": "regulation-doc"
+}

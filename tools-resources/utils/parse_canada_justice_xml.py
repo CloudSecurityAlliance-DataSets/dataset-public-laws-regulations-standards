@@ -50,6 +50,12 @@ ENACTED_ACT_ACRONYMS = {
     "Avoiding Complicity in Mistreatment by Foreign Entities Act": "ACMFEA",
     "Intelligence Commissioner Act": "ICA",
     "Communications Security Establishment Act": "CSEA",
+    "Digital Safety Act": "DSA",
+    "Digital Safety Commission of Canada Act": "DSCCA",
+    "Protecting Privacy and Consumer Data Act": "PPCDA",
+    "Consumer Privacy Protection Act": "CPPA",
+    "Personal Information and Data Protection Tribunal Act": "PIDPTA",
+    "Artificial Intelligence and Data Act": "AIDA",
 }
 
 

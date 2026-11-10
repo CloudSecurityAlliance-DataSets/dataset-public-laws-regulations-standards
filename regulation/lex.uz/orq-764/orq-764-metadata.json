@@ -1,0 +1,63 @@
+{
+  "secid": "secid:regulation/lex.uz/orq-764",
+  "name": "Law of the Republic of Uzbekistan No. O'RQ-764 'On Cybersecurity' (О кибербезопасности, April 15, 2022)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "orq-764",
+  "owner": "National Database of Legislation of the Republic of Uzbekistan (LexUZ)",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "Law of the Republic of Uzbekistan No. O'RQ-764 'On Cybersecurity' (О кибербезопасности, April 15, 2022)",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by National Database of Legislation of the Republic of Uzbekistan (LexUZ) (lex.uz) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within National Database of Legislation of the Republic of Uzbekistan (LexUZ) (lex.uz).",
+  "license": {
+    "spdx": "LicenseRef-UZ-LawZRU42-Art8",
+    "Grouping": "Public Domain",
+    "redistribution": "permitted",
+    "derivatives": "permitted",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.wipo.int/wipolex/en/members/profile/UZ",
+    "note": "Official publication (lex.uz); Law of the Republic of Uzbekistan No. ZRU-42 of July 20, 2006 on Copyright and Related Rights Art. 8(1) (official documents — laws, Presidential decrees/resolutions, and decisions, as well as their official translations — are not objects of copyright).",
+    "notes": "Official publication (lex.uz); Law of the Republic of Uzbekistan No. ZRU-42 of July 20, 2006 on Copyright and Related Rights Art. 8(1) (official documents — laws, Presidential decrees/resolutions, and decisions, as well as their official translations — are not objects of copyright)."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://lex.uz/docs/5960604",
+    "textUsed": "https://lex.uz/docs/5960604",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official regulation (https://lex.uz/docs/5960604) to Markdown (39,820 chars). Parsed 49 sections (48 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  }
+}

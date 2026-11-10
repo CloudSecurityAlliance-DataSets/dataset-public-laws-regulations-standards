@@ -1,0 +1,63 @@
+{
+  "secid": "secid:regulation/ca.gov/sb-942",
+  "name": "California SB 942 — California AI Transparency Act (Business and Professions Code § 22757 et seq., enacted Sept 19, 2024)",
+  "acronym": "",
+  "alternate_names": [],
+  "version": "",
+  "publication_id": "sb-942",
+  "owner": "California State",
+  "type": "Regulation",
+  "subtype": [
+    "statute"
+  ],
+  "description": "California SB 942 — California AI Transparency Act (Business and Professions Code § 22757 et seq., enacted Sept 19, 2024)",
+  "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by California State (ca.gov) applicable to cloud service providers, data controllers, and digital operators.",
+  "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within California State (ca.gov).",
+  "license": {
+    "spdx": "CC0-1.0",
+    "Grouping": "Public Domain",
+    "redistribution": "yes",
+    "derivatives": "yes",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.usa.gov/government-works",
+    "note": "United States Government work (17 U.S.C. § 105); in the public domain worldwide.",
+    "notes": "United States Government work (17 U.S.C. § 105); in the public domain worldwide."
+  },
+  "links": {
+    "wikipedia": "",
+    "source": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240SB942",
+    "textUsed": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202320240SB942",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "",
+    "active": true,
+    "supersedes": null,
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": ""
+  },
+  "current_extraction": {
+    "s3_timestamp": "2026-11-04T05-00-00Z",
+    "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": false,
+    "notes": "Extracted official regulation (https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202320240SB942) to Markdown (11,351 chars). Parsed 21 sections (16 with explicit section identifiers)."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "2026-11-04T05-00-00Z",
+      "status": "current",
+      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
+      "tool": "requests + markdownify + tools-resources/utils/parse_regulatory_sections.py"
+    }
+  ],
+  "scope": {},
+  "notes": "",
+  "desired_end_state": {
+    "state": "extracted",
+    "reason": "regulation-doc"
+  }
+}

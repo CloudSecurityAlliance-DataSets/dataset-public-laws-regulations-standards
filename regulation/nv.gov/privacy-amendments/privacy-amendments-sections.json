@@ -2,65 +2,1097 @@
   {
     "depth": 1,
     "section_id": "",
-    "section_name": "2023 Nevada Revised Statutes",
+    "section_name": "Nevada Revised Statutes Chapter 603A — Security and Privacy of Personal Information",
     "id_kind": "",
+    "parent_id": "",
+    "body": "**[Rev. 4/15/2026 3:35:03\nPM--2025]**"
+  },
+  {
+    "depth": 3,
+    "section_id": "CHAPTER 603A",
+    "section_name": "SECURITY AND PRIVACY OF",
+    "id_kind": "chapter",
+    "parent_id": "",
+    "body": "PERSONAL INFORMATION\n\nSECURITY OF INFORMATION MAINTAINED BY DATA COLLECTORS AND\nOTHER BUSINESSES\n\nGeneral Provisions\n\n[NRS 603A.010](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec010)        Definitions.\n\n[NRS 603A.020](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec020)        “Breach\nof the security of the system data” defined.\n\n[NRS 603A.030](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec030)        “Data\ncollector” defined.\n\n[NRS 603A.040](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec040)        “Personal\ninformation” defined.\n\n[NRS 603A.100](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec100)        Applicability;\nwaiver of provisions prohibited.\n\nRegulation of Business Practices\n\n[NRS 603A.200](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec200)        Destruction\nof certain records.\n\n[NRS 603A.210](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec210)        Security\nmeasures.\n\n[NRS 603A.215](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec215)        Security\nmeasures for data collector that accepts payment card; use of encryption;\nliability for damages; applicability.\n\n[NRS 603A.217](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec217)        Alternative\nmethods of and technologies for encryption: Adoption of regulations.\n\n[NRS 603A.220](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec220)        Disclosure\nof breach of security of system data; methods of disclosure; applicability.\n\nRemedies and Penalties\n\n[NRS 603A.260](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec260)        Violation\nconstitutes deceptive trade practice.\n\n[NRS 603A.270](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec270)        Civil\naction.\n\n[NRS 603A.280](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec280)        Restitution.\n\n[NRS 603A.290](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec290)        Injunction.\n\nNOTICE REGARDING PRIVACY OF INFORMATION COLLECTED ON INTERNET\nFROM CONSUMERS\n\nGeneral Provisions\n\n[NRS 603A.300](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec300)        Definitions.\n\n[NRS 603A.310](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec310)        “Consumer”\ndefined.\n\n[NRS 603A.320](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec320)        “Covered\ninformation” defined.\n\n[NRS 603A.323](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec323)        “Data\nbroker” defined.\n\n[NRS 603A.325](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec325)        “Designated\nrequest address” defined.\n\n[NRS 603A.330](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec330)        “Operator”\ndefined.\n\n[NRS 603A.333](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec333)        “Sale”\ndefined.\n\n[NRS 603A.337](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec337)        “Verified\nrequest” defined.\n\n[NRS 603A.338](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec338)        Applicability\nof provisions.\n\nRegulation of Business Practices\n\n[NRS 603A.340](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec340)        Notice\nregarding covered information collected by operator: Operator required to make\navailable to consumers; contents; exception.\n\n[NRS 603A.345](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec345)        Submission\nof verified request to operator not to sell covered information collected by\noperator; response to verified request.\n\n[NRS 603A.346](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec346)        Submission\nof verified request to data broker not to sell covered information purchased by\ndata broker; response to verified request.\n\n[NRS 603A.347](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec347)        Data\nbroker authorized to remedy first failure to comply with requirements\nconcerning verified request.\n\n[NRS 603A.348](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec348)        Operator\nauthorized to remedy first failure to comply with notice requirements.\n\n[NRS 603A.349](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec349)        Operator\nauthorized to remedy first failure to comply with requirements concerning\nverified request.\n\nUnlawful Acts, Penalties and Remedies\n\n[NRS 603A.350](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec350)        Unlawful\nacts.\n\n[NRS 603A.360](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec360)        Enforcement\nby Attorney General; civil penalty for violation or injunction; no private\nright of action against operator; provisions not exclusive.\n\nSECURITY AND PRIVACY OF CONSUMER HEALTH DATA\n\nGeneral Provisions\n\n[NRS 603A.400](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec400)        Definitions.\n\n[NRS 603A.405](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec405)        “Affiliate”\ndefined.\n\n[NRS 603A.410](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec410)        “Authenticate”\ndefined.\n\n[NRS 603A.415](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec415)        “Biometric\ndata” defined.\n\n[NRS 603A.420](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec420)        “Collect”\ndefined.\n\n[NRS 603A.425](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec425)        “Consumer”\ndefined.\n\n[NRS 603A.430](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec430)        “Consumer\nhealth data” defined.\n\n[NRS 603A.435](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec435)        “Gender-affirming\ncare” defined.\n\n[NRS 603A.440](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec440)        “Genetic\ndata” defined.\n\n[NRS 603A.445](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec445)        “Health\ncare services or products” defined.\n\n[NRS 603A.450](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec450)        “Precise\ngeolocation information” defined.\n\n[NRS 603A.455](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec455)        “Process”\ndefined.\n\n[NRS 603A.460](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec460)        “Processor”\ndefined.\n\n[NRS 603A.465](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec465)        “Regulated\nentity” defined.\n\n[NRS 603A.470](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec470)        “Reproductive\nor sexual health care” defined.\n\n[NRS 603A.475](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec475)        “Sell”\ndefined.\n\n[NRS 603A.480](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec480)        “Share”\ndefined.\n\n[NRS 603A.485](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec485)        “Third\nparty” defined.\n\n[NRS 603A.490](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec490)        Applicability.\n\nRegulation of Business Practices\n\n[NRS 603A.495](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec495)        Regulated\nentity required to develop and maintain policy concerning privacy of consumer\nhealth data; policy to be posted on Internet website maintained by regulated\nentity; prohibited acts.\n\n[NRS 603A.500](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec500)        Collection\nand sharing of consumer health data by regulated entity prohibited; exceptions;\nrequired disclosures for request for consent to collect or share consumer\nhealth data.\n\n[NRS 603A.505](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec505)        Actions\nrequired of regulated entity upon request of consumer; establishment of means\nof making request.\n\n[NRS 603A.510](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec510)        Response\nby regulated entity to request by consumer; inability to authenticate request;\nfee; challenge to validity of fee charged.\n\n[NRS 603A.515](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec515)        Deletion\nof consumer health data upon request by consumer; deletion by third party;\ndelay of deletion of data on archived or backup system.\n\n[NRS 603A.520](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec520)        Regulated\nentity to establish process for appeal of refusal to act on request by\nconsumer; regulated entity required to inform consumer in writing after receipt\nof appeal.\n\n[NRS 603A.525](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec525)        Regulated\nentity to limit authority of employees and processors to access consumer health\ndata; regulated entity to establish, implement and maintain policies and\npractices for security of consumer health data.\n\n[NRS 603A.530](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec530)        Limitations\non authority to process consumer health data pursuant to contract; processor to\nassist regulated entity to comply with law; liability of processor for acts\ninconsistent with contractual provisions.\n\n[NRS 603A.535](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec535)        Unauthorized\nsale or offering of consumer health data prohibited; provision of goods or\nservices conditioned upon authorization of sale of consumer health data\nprohibited; required contents of authorization; revocation; expiration;\ninvalidity; provision and retention of copies.\n\n[NRS 603A.540](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec540)        Implementation\nof geofence near certain facilities, persons or entities that provide in-person\nhealth care services or products prohibited.\n\n[NRS 603A.545](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec545)        Discrimination\nprohibited.\n\n[NRS 603A.550](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec550)        Violation\nconstitutes deceptive trade practice; no private right of action; other\nprovisions of law unimpaired.\n\n_________\n\nSECURITY OF INFORMATION MAINTAINED BY DATA COLLECTORS AND\nOTHER BUSINESSES\n\nGeneral Provisions\n\n      NRS 603A.010  Definitions.  As\nused in [NRS 603A.010](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec010) to [603A.290](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec290), inclusive, unless the context\notherwise requires, the words and terms defined in [NRS 603A.020](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec020), [603A.030](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec030) and [603A.040](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec040) have the meanings ascribed to\nthem in those sections.\n\n      (Added to NRS by [2005,\n2503](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/73rd/Stats200525.html#Stats200525page2503); A [2017,\n4079](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/79th2017/Stats201722.html#Stats201722page4079); [2021,\n1353](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/81st2021/Stats202110.html#Stats202110page1353))\n\n      NRS 603A.020  “Breach of the security of the system data” defined.  “Breach of the security of the system data”\nmeans unauthorized acquisition of computerized data that materially compromises\nthe security, confidentiality or integrity of personal information maintained\nby the data collector. The term does not include the good faith acquisition of\npersonal information by an employee or agent of the data collector for a\nlegitimate purpose of the data collector, so long as the personal information\nis not used for a purpose unrelated to the data collector or subject to further\nunauthorized disclosure.\n\n      (Added to NRS by [2005,\n2503](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/73rd/Stats200525.html#Stats200525page2503))\n\n      NRS 603A.030  “Data collector” defined.  “Data\ncollector” means any governmental agency, institution of higher education,\ncorporation, financial institution or retail operator or any other type of\nbusiness entity or association that, for any purpose, whether by automated\ncollection or otherwise, handles, collects, disseminates or otherwise deals\nwith nonpublic personal information.\n\n      (Added to NRS by [2005,\n2504](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/73rd/Stats200525.html#Stats200525page2504))\n\n      NRS 603A.040  “Personal information” defined.\n\n      1.  “Personal information” means a natural\nperson’s first name or first initial and last name in combination with any one\nor more of the following data elements, when the name and data elements are not\nencrypted:\n\n      (a) Social security number.\n\n      (b) Driver’s license number, driver authorization\ncard number or identification card number.\n\n      (c) Account number, credit card number or debit\ncard number, in combination with any required security code, access code or password\nthat would permit access to the person’s financial account.\n\n      (d) A medical identification number or a health\ninsurance identification number.\n\n      (e) A user name, unique identifier or electronic\nmail address in combination with a password, access code or security question\nand answer that would permit access to an online account."
+  },
+  {
+    "depth": 2,
+    "section_id": "2 (1)",
+    "section_name": "The term does not include the last four",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "digits of a social security number, the last four digits of a driver’s license\nnumber, the last four digits of a driver authorization card number or the last\nfour digits of an identification card number or publicly available information\nthat is lawfully made available to the general public from federal, state or\nlocal governmental records.\n\n      (Added to NRS by [2005,\n2504](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/73rd/Stats200525.html#Stats200525page2504); A [2005,\n22nd Special Session, 109](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/22ndSS/Stats2005SS2201.html#Stats2005SS2201page109); [2007,\n1314](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/74th/Stats200711.html#Stats200711page1314); [2011,\n2411](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/76th2011/Stats201120.html#Stats201120page2411); [2015,\n241](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/78th2015/Stats201503.html#Stats201503page241))\n\n      NRS 603A.100  Applicability; waiver of provisions prohibited.\n\n      1.  The provisions of [NRS 603A.010](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec010) to [603A.290](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec290), inclusive, do not apply to the\nmaintenance or transmittal of information in accordance with [NRS 439.581](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/NRS/NRS-439.html#NRS439Sec581) to [439.597](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/NRS/NRS-439.html#NRS439Sec597), inclusive, and the regulations\nadopted pursuant thereto."
+  },
+  {
+    "depth": 2,
+    "section_id": "2 (2)",
+    "section_name": "A data collector who is also an",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "operator, as defined in [NRS 603A.330](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec330),\nshall comply with the provisions of [NRS\n603A.300](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec300) to [603A.360](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec360), inclusive.\n\n      3.  Any waiver of the provisions of [NRS 603A.010](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec010) to [603A.290](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec290), inclusive, is contrary to\npublic policy, void and unenforceable.\n\n      (Added to NRS by [2005,\n2506](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/73rd/Stats200525.html#Stats200525page2506); A [2011,\n1762](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/76th2011/Stats201114.html#Stats201114page1762); [2017,\n4079](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/79th2017/Stats201722.html#Stats201722page4079); [2019,\n1172](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/80th2019/Stats201907.html#Stats201907page1172); [2021,\n1353](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/81st2021/Stats202110.html#Stats202110page1353), [1673](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/81st2021/Stats202112.html#Stats202112page1673);\n[2023,\n1853](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/82nd2023/Stats202316.html#Stats202316page1853))\n\nRegulation of Business Practices\n\n      NRS 603A.200  Destruction of certain records."
+  },
+  {
+    "depth": 2,
+    "section_id": "1 (1)",
+    "section_name": "A business that maintains records which",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "contain personal information concerning the customers of the business shall\ntake reasonable measures to ensure the destruction of those records when the\nbusiness decides that it will no longer maintain the records.\n\n      2.  As used in this section:\n\n      (a) “Business” means a proprietorship,\ncorporation, partnership, association, trust, unincorporated organization or\nother enterprise doing business in this State.\n\n      (b) “Reasonable measures to ensure the\ndestruction” means any method that modifies the records containing the personal\ninformation in such a way as to render the personal information contained in\nthe records unreadable or undecipherable, including, without limitation:"
+  },
+  {
+    "depth": 3,
+    "section_id": "A business that maintains records which: (1)",
+    "section_name": "Shredding of the record containing the",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "personal information; or"
+  },
+  {
+    "depth": 3,
+    "section_id": "A business that maintains records which: (2)",
+    "section_name": "Erasing of the personal information",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "from the records.\n\n      (Added to NRS by [2005,\n2504](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/73rd/Stats200525.html#Stats200525page2504))\n\n      NRS 603A.210  Security measures."
+  },
+  {
+    "depth": 2,
+    "section_id": "1 (2)",
+    "section_name": "A data collector that maintains records",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "which contain personal information of a resident of this State shall implement\nand maintain reasonable security measures to protect those records from\nunauthorized access, acquisition, destruction, use, modification or disclosure."
+  },
+  {
+    "depth": 2,
+    "section_id": "2 (3)",
+    "section_name": "If a data collector is a governmental",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "agency and maintains records which contain personal information of a resident\nof this State, the data collector shall, to the extent practicable, with\nrespect to the collection, dissemination and maintenance of those records,\ncomply with the current version of the CIS Controls as published by the Center\nfor Internet Security, Inc. or its successor organization, or corresponding\nstandards adopted by the National Institute of Standards and Technology of the\nUnited States Department of Commerce."
+  },
+  {
+    "depth": 2,
+    "section_id": "3 (1)",
+    "section_name": "A contract for the disclosure of the",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "personal information of a resident of this State which is maintained by a data\ncollector must include a provision requiring the person to whom the information\nis disclosed to implement and maintain reasonable security measures to protect\nthose records from unauthorized access, acquisition, destruction, use,\nmodification or disclosure."
+  },
+  {
+    "depth": 2,
+    "section_id": "4 (1)",
+    "section_name": "If a state or federal law requires a",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "data collector to provide greater protection to records that contain personal\ninformation of a resident of this State which are maintained by the data\ncollector and the data collector is in compliance with the provisions of that\nstate or federal law, the data collector shall be deemed to be in compliance\nwith the provisions of this section."
+  },
+  {
+    "depth": 2,
+    "section_id": "5 (1)",
+    "section_name": "The Office of Information Security and",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "Cyber Defense of the Governor’s Technology Office within the Office of the\nGovernor shall create, maintain and make available to the public a list of\ncontrols and standards with which the State is required to comply pursuant to\nany federal law, regulation or framework that also satisfy the controls and\nstandards set forth in subsection 2.\n\n      (Added to NRS by [2005,\n2504](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/73rd/Stats200525.html#Stats200525page2504); A [2019,\n2574](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/80th2019/Stats201915.html#Stats201915page2574); [2025,\n1967](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/83rd2025/Stats202515.html#Stats202515page1967), [3569](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/83rd2025/Stats202527.html#Stats202527page3569))\n\n      NRS 603A.215  Security measures for data collector that accepts payment card;\nuse of encryption; liability for damages; applicability."
+  },
+  {
+    "depth": 2,
+    "section_id": "1 (3)",
+    "section_name": "If a data collector doing business in",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "this State accepts a payment card in connection with a sale of goods or\nservices, the data collector shall comply with the current version of the\nPayment Card Industry (PCI) Data Security Standard, as adopted by the PCI\nSecurity Standards Council or its successor organization, with respect to those\ntransactions, not later than the date for compliance set forth in the Payment\nCard Industry (PCI) Data Security Standard or by the PCI Security Standards\nCouncil or its successor organization."
+  },
+  {
+    "depth": 2,
+    "section_id": "2 (4)",
+    "section_name": "A data collector doing business in this",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "State to whom subsection 1 does not apply shall not:\n\n      (a) Transfer any personal information through an\nelectronic, nonvoice transmission other than a facsimile to a person outside of\nthe secure system of the data collector unless the data collector uses\nencryption to ensure the security of electronic transmission; or\n\n      (b) Move any data storage device containing\npersonal information beyond the logical or physical controls of the data\ncollector, its data storage contractor or, if the data storage device is used\nby or is a component of a multifunctional device, a person who assumes the\nobligation of the data collector to protect personal information, unless the\ndata collector uses encryption to ensure the security of the information."
+  },
+  {
+    "depth": 2,
+    "section_id": "3 (2)",
+    "section_name": "A data collector shall not be liable",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "for damages for a breach of the security of the system data if:\n\n      (a) The data collector is in compliance with this\nsection; and\n\n      (b) The breach is not caused by the gross\nnegligence or intentional misconduct of the data collector, its officers,\nemployees or agents."
+  },
+  {
+    "depth": 2,
+    "section_id": "4 (2)",
+    "section_name": "The requirements of this section do not",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "apply to:\n\n      (a) A telecommunication provider acting solely in\nthe role of conveying the communications of other persons, regardless of the\nmode of conveyance used, including, without limitation:"
+  },
+  {
+    "depth": 3,
+    "section_id": "The requirements of this section do not: (1) (1)",
+    "section_name": "Optical, wire line and wireless",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "facilities;"
+  },
+  {
+    "depth": 3,
+    "section_id": "The requirements of this section do not: (2) (1)",
+    "section_name": "Analog transmission; and",
+    "id_kind": "cjk_sub",
     "parent_id": "",
     "body": ""
   },
   {
     "depth": 3,
-    "section_id": "Chapter 603A",
-    "section_name": "Security and Privacy of Personal Information",
-    "id_kind": "chapter",
+    "section_id": "The requirements of this section do not: (3) (1)",
+    "section_name": "Digital subscriber line transmission,",
+    "id_kind": "cjk_sub",
     "parent_id": "",
-    "body": "**[ Previous ](/codes/nevada/2023/chapter-603/) ** **[ Next\n](/codes/nevada/2023/chapter-604a/) **\n\n**SECURITY OF INFORMATION MAINTAINED BY DATA COLLECTORS AND OTHER BUSINESSES\n\nGeneral Provisions**\n\n  * [NRS 603A.010 - Definitions.](/codes/nevada/2023/chapter-603a/statute-603a-010/)\n  * [NRS 603A.020 - \"Breach of the security of the system data\" defined.](/codes/nevada/2023/chapter-603a/statute-603a-020/)\n  * [NRS 603A.030 - \"Data collector\" defined.](/codes/nevada/2023/chapter-603a/statute-603a-030/)\n  * [NRS 603A.040 - \"Personal information\" defined.](/codes/nevada/2023/chapter-603a/statute-603a-040/)\n  * [NRS 603A.100 - Applicability; waiver of provisions prohibited.](/codes/nevada/2023/chapter-603a/statute-603a-100/)"
+    "body": "voice over Internet protocol and other digital transmission technology.\n\n      (b) Data transmission over a secure, private\ncommunication channel for:"
+  },
+  {
+    "depth": 3,
+    "section_id": "The requirements of this section do not: (1) (2)",
+    "section_name": "Approval or processing of negotiable",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "instruments, electronic fund transfers or similar payment methods; or"
+  },
+  {
+    "depth": 3,
+    "section_id": "The requirements of this section do not: (2) (2)",
+    "section_name": "Issuance of reports regarding account",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "closures due to fraud, substantial overdrafts, abuse of automatic teller\nmachines or related information regarding a customer.\n\n      5.  As used in this section:\n\n      (a) “Data storage device” means any device that\nstores information or data from any electronic or optical medium, including,\nbut not limited to, computers, cellular telephones, magnetic tape, electronic\ncomputer drives and optical computer drives, and the medium itself.\n\n      (b) “Encryption” means the protection of data in\nelectronic or optical form, in storage or in transit, using:"
+  },
+  {
+    "depth": 3,
+    "section_id": "The requirements of this section do not: (1) (3)",
+    "section_name": "An encryption technology that has been",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "adopted by an established standards setting body, including, but not limited\nto, the Federal Information Processing Standards issued by the National\nInstitute of Standards and Technology, which renders such data indecipherable\nin the absence of associated cryptographic keys necessary to enable decryption\nof such data;"
+  },
+  {
+    "depth": 3,
+    "section_id": "The requirements of this section do not: (2) (3)",
+    "section_name": "Appropriate management and safeguards",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "of cryptographic keys to protect the integrity of the encryption using\nguidelines promulgated by an established standards setting body, including, but\nnot limited to, the National Institute of Standards and Technology; and"
+  },
+  {
+    "depth": 3,
+    "section_id": "The requirements of this section do not: (3) (2)",
+    "section_name": "Any other technology or method",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "identified by the Office of Information Security and Cyber Defense of the\nGovernor’s Technology Office within the Office of the Governor in regulations\nadopted pursuant to [NRS 603A.217](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec217).\n\n      (c) “Facsimile” means an electronic transmission\nbetween two dedicated fax machines using Group 3 or Group 4 digital formats\nthat conform to the International Telecommunication Union T.4 or T.38 standards\nor computer modems that conform to the International Telecommunication Union\nT.31 or T.32 standards. The term does not include onward transmission to a\nthird device after protocol conversion, including, but not limited to, any data\nstorage device.\n\n      (d) “Multifunctional device” means a machine that\nincorporates the functionality of devices, which may include, without\nlimitation, a printer, copier, scanner, facsimile machine or electronic mail\nterminal, to provide for the centralized management, distribution or production\nof documents.\n\n      (e) “Payment card” has the meaning ascribed to it\nin [NRS 205.602](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/NRS/NRS-205.html#NRS205Sec602).\n\n      (f) “Telecommunication provider” has the meaning\nascribed to it in [NRS 704.027](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/NRS/NRS-704.html#NRS704Sec027).\n\n      (Added to NRS by [2009,\n1603](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/75th2009/Stats200916.html#Stats200916page1603); A [2011,\n2002](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/76th2011/Stats201116.html#Stats201116page2002); [2025,\n1968](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/83rd2025/Stats202515.html#Stats202515page1968), [3570](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/83rd2025/Stats202527.html#Stats202527page3570))\n\n      NRS 603A.217  Alternative methods of and technologies for encryption: Adoption\nof regulations.  Upon receipt of a\nwell-founded petition, the Governor’s Technology Office within the Office of\nthe Governor may, pursuant to [chapter 233B](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/NRS/NRS-233B.html#NRS233B)\nof NRS, adopt regulations which identify alternative methods or technologies\nwhich may be used to encrypt data pursuant to [NRS 603A.215](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec215).\n\n      (Added to NRS by [2011,\n2002](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/76th2011/Stats201116.html#Stats201116page2002); A [2023,\n3583](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/82nd2023/Stats202330.html#Stats202330page3583); [2025,\n1969](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/83rd2025/Stats202515.html#Stats202515page1969))\n\n      NRS 603A.220  Disclosure of breach of security of system data; methods of\ndisclosure; applicability."
   },
   {
     "depth": 2,
-    "section_id": "",
-    "section_name": "Regulation of Business Practices",
-    "id_kind": "",
+    "section_id": "1 (4)",
+    "section_name": "Except as otherwise provided in",
+    "id_kind": "numbered",
     "parent_id": "",
-    "body": "* [NRS 603A.200 - Destruction of certain records.](/codes/nevada/2023/chapter-603a/statute-603a-200/)\n  * [NRS 603A.210 - Security measures.](/codes/nevada/2023/chapter-603a/statute-603a-210/)\n  * [NRS 603A.215 - Security measures for data collector that accepts payment card; use of encryption; liability for damages; applicability.](/codes/nevada/2023/chapter-603a/statute-603a-215/)\n  * [NRS 603A.217 - Alternative methods of and technologies for encryption: Adoption of regulations.](/codes/nevada/2023/chapter-603a/statute-603a-217/)\n  * [NRS 603A.220 - Disclosure of breach of security of system data; methods of disclosure; applicability.](/codes/nevada/2023/chapter-603a/statute-603a-220/)\n  * [NRS 603A.340 - Notice regarding covered information collected by operator: Operator required to make available to consumers; contents; exception.](/codes/nevada/2023/chapter-603a/statute-603a-340/)\n  * [NRS 603A.345 - Submission of verified request to operator not to sell covered information collected by operator; response to verified request.](/codes/nevada/2023/chapter-603a/statute-603a-345/)\n  * [NRS 603A.346 - Submission of verified request to data broker not to sell covered information purchased by data broker; response to verified request.](/codes/nevada/2023/chapter-603a/statute-603a-346/)\n  * [NRS 603A.347 - Data broker authorized to remedy first failure to comply with requirements concerning verified request.](/codes/nevada/2023/chapter-603a/statute-603a-347/)\n  * [NRS 603A.348 - Operator authorized to remedy first failure to comply with notice requirements.](/codes/nevada/2023/chapter-603a/statute-603a-348/)\n  * [NRS 603A.349 - Operator authorized to remedy first failure to comply with requirements concerning verified request.](/codes/nevada/2023/chapter-603a/statute-603a-349/)\n  * [NRS 603A.495 - Regulated entity required to develop and maintain policy concerning privacy of consumer health data; policy to be posted on Internet website maintained by regulated entity; prohibited acts. [Effective March 31, 2024.]](/codes/nevada/2023/chapter-603a/statute-603a-495/)\n  * [NRS 603A.500 - Collection and sharing of consumer health data by regulated entity prohibited; exceptions; required disclosures for request for consent to collect or share consumer health data. [Effective March 31, 2024.]](/codes/nevada/2023/chapter-603a/statute-603a-500/)\n  * [NRS 603A.505 - Actions required of regulated entity upon request of consumer; establishment of means of making request. [Effective March 31, 2024.]](/codes/nevada/2023/chapter-603a/statute-603a-505/)\n  * [NRS 603A.510 - Response by regulated entity to request by consumer; inability to authenticate request; fee; challenge to validity of fee charged. [Effective March 31, 2024.]](/codes/nevada/2023/chapter-603a/statute-603a-510/)\n  * [NRS 603A.515 - Deletion of consumer health data upon request by consumer; deletion by third party; delay of deletion of data on archived or backup system. [Effective March 31, 2024.]](/codes/nevada/2023/chapter-603a/statute-603a-515/)\n  * [NRS 603A.520 - Regulated entity to establish process for appeal of refusal to act on request by consumer; regulated entity required to inform consumer in writing after receipt of appeal. [Effective March 31, 2024.]](/codes/nevada/2023/chapter-603a/statute-603a-520/)\n  * [NRS 603A.525 - Regulated entity to limit authority of employees and processors to access consumer health data; regulated entity to establish, implement and maintain policies and practices for security of consumer health data. [Effective March 31, 2024.]](/codes/nevada/2023/chapter-603a/statute-603a-525/)\n  * [NRS 603A.530 - Limitations on authority to process consumer health data pursuant to contract; processor to assist regulated entity to comply with law; liability of processor for acts inconsistent with contractual provisions. [Effective March 31, 2024.]](/codes/nevada/2023/chapter-603a/statute-603a-530/)\n  * [NRS 603A.535 - Unauthorized sale or offering of consumer health data prohibited; provision of goods or services conditioned upon authorization of sale of consumer health data prohibited; required contents of authorization; revocation; expiration; invalidity; provision and retention of copies. [Effective March 31, 2024.]](/codes/nevada/2023/chapter-603a/statute-603a-535/)\n  * [NRS 603A.540 - Implementation of geofence near certain facilities, persons or entities that provide in-person health care services or products prohibited. [Effective March 31, 2024.]](/codes/nevada/2023/chapter-603a/statute-603a-540/)\n  * [NRS 603A.545 - Discrimination prohibited. [Effective March 31, 2024.]](/codes/nevada/2023/chapter-603a/statute-603a-545/)\n  * [NRS 603A.550 - Violation constitutes deceptive trade practice; no private right of action; other provisions of law unimpaired. [Effective March 31, 2024.]](/codes/nevada/2023/chapter-603a/statute-603a-550/)"
+    "body": "subsection 7, a data collector that owns or licenses computerized data which\nincludes personal information shall disclose any breach of the security of the\nsystem data following discovery or notification of the breach to any resident\nof this State whose unencrypted personal information was, or is reasonably\nbelieved to have been, acquired by an unauthorized person. The disclosure must\nbe made in the most expedient time possible and without unreasonable delay,\nconsistent with the legitimate needs of law enforcement, as provided in\nsubsection 3, or any measures necessary to determine the scope of the breach\nand restore the reasonable integrity of the system data."
   },
   {
     "depth": 2,
-    "section_id": "",
-    "section_name": "Remedies and Penalties",
-    "id_kind": "",
+    "section_id": "2 (5)",
+    "section_name": "Any data collector that maintains",
+    "id_kind": "numbered",
     "parent_id": "",
-    "body": "* [NRS 603A.260 - Violation constitutes deceptive trade practice.](/codes/nevada/2023/chapter-603a/statute-603a-260/)\n  * [NRS 603A.270 - Civil action.](/codes/nevada/2023/chapter-603a/statute-603a-270/)\n  * [NRS 603A.280 - Restitution.](/codes/nevada/2023/chapter-603a/statute-603a-280/)\n  * [NRS 603A.290 - Injunction.](/codes/nevada/2023/chapter-603a/statute-603a-290/)\n\n**NOTICE REGARDING PRIVACY OF INFORMATION COLLECTED ON INTERNET FROM CONSUMERS\n\nGeneral Provisions**\n\n  * [NRS 603A.300 - Definitions.](/codes/nevada/2023/chapter-603a/statute-603a-300/)\n  * [NRS 603A.310 - \"Consumer\" defined.](/codes/nevada/2023/chapter-603a/statute-603a-310/)\n  * [NRS 603A.320 - \"Covered information\" defined.](/codes/nevada/2023/chapter-603a/statute-603a-320/)\n  * [NRS 603A.323 - \"Data broker\" defined.](/codes/nevada/2023/chapter-603a/statute-603a-323/)\n  * [NRS 603A.325 - \"Designated request address\" defined.](/codes/nevada/2023/chapter-603a/statute-603a-325/)\n  * [NRS 603A.330 - \"Operator\" defined.](/codes/nevada/2023/chapter-603a/statute-603a-330/)\n  * [NRS 603A.333 - \"Sale\" defined.](/codes/nevada/2023/chapter-603a/statute-603a-333/)\n  * [NRS 603A.337 - \"Verified request\" defined.](/codes/nevada/2023/chapter-603a/statute-603a-337/)\n  * [NRS 603A.338 - Applicability of provisions. [Effective through March 30, 2024.] Applicability of provisions. [Effective March 31, 2024.]](/codes/nevada/2023/chapter-603a/statute-603a-338/)"
+    "body": "computerized data which includes personal information that the data collector\ndoes not own shall notify the owner or licensee of the information of any\nbreach of the security of the system data immediately following discovery if\nthe personal information was, or is reasonably believed to have been, acquired\nby an unauthorized person."
   },
   {
     "depth": 2,
-    "section_id": "",
-    "section_name": "Unlawful Acts, Penalties and Remedies",
-    "id_kind": "",
+    "section_id": "3 (3)",
+    "section_name": "The notification required by this",
+    "id_kind": "numbered",
     "parent_id": "",
-    "body": "* [NRS 603A.350 - Unlawful acts.](/codes/nevada/2023/chapter-603a/statute-603a-350/)\n  * [NRS 603A.360 - Enforcement by Attorney General; civil penalty for violation or injunction; no private right of action against operator; provisions not exclusive.](/codes/nevada/2023/chapter-603a/statute-603a-360/)\n\n**SECURITY AND PRIVACY OF CONSUMER HEALTH DATA\n\nGeneral Provisions**\n\n  * [NRS 603A.400 - Definitions. [Effective March 31, 2024.]](/codes/nevada/2023/chapter-603a/statute-603a-400/)\n  * [NRS 603A.405 - Affiliate\" defined. [Effective March 31, 2024.]](/codes/nevada/2023/chapter-603a/statute-603a-405/)\n  * [NRS 603A.410 - Authenticate\" defined. [Effective March 31, 2024.]](/codes/nevada/2023/chapter-603a/statute-603a-410/)\n  * [NRS 603A.415 - Biometric data\" defined. [Effective March 31, 2024.]](/codes/nevada/2023/chapter-603a/statute-603a-415/)\n  * [NRS 603A.420 - Collect\" defined. [Effective March 31, 2024.]](/codes/nevada/2023/chapter-603a/statute-603a-420/)\n  * [NRS 603A.425 - Consumer\" defined. [Effective March 31, 2024.]](/codes/nevada/2023/chapter-603a/statute-603a-425/)\n  * [NRS 603A.430 - Consumer health data\" defined. [Effective March 31, 2024.]](/codes/nevada/2023/chapter-603a/statute-603a-430/)\n  * [NRS 603A.435 - Gender-affirming care\" defined. [Effective March 31, 2024.]](/codes/nevada/2023/chapter-603a/statute-603a-435/)\n  * [NRS 603A.440 - Genetic data\" defined. [Effective March 31, 2024.]](/codes/nevada/2023/chapter-603a/statute-603a-440/)\n  * [NRS 603A.445 - Health care services or products\" defined. [Effective March 31, 2024.]](/codes/nevada/2023/chapter-603a/statute-603a-445/)\n  * [NRS 603A.450 - Precise geolocation information\" defined. [Effective March 31, 2024.]](/codes/nevada/2023/chapter-603a/statute-603a-450/)\n  * [NRS 603A.455 - Process\" defined. [Effective March 31, 2024.]](/codes/nevada/2023/chapter-603a/statute-603a-455/)\n  * [NRS 603A.460 - Processor\" defined. [Effective March 31, 2024.]](/codes/nevada/2023/chapter-603a/statute-603a-460/)\n  * [NRS 603A.465 - Regulated entity\" defined. [Effective March 31, 2024.]](/codes/nevada/2023/chapter-603a/statute-603a-465/)\n  * [NRS 603A.470 - Reproductive or sexual health care\" defined. [Effective March 31, 2024.]](/codes/nevada/2023/chapter-603a/statute-603a-470/)\n  * [NRS 603A.475 - Sell\" defined. [Effective March 31, 2024.]](/codes/nevada/2023/chapter-603a/statute-603a-475/)\n  * [NRS 603A.480 - Share\" defined. [Effective March 31, 2024.]](/codes/nevada/2023/chapter-603a/statute-603a-480/)\n  * [NRS 603A.485 - Third party\" defined. [Effective March 31, 2024.]](/codes/nevada/2023/chapter-603a/statute-603a-485/)\n  * [NRS 603A.490 - Applicability. [Effective March 31, 2024.]](/codes/nevada/2023/chapter-603a/statute-603a-490/)\n\n**[ Previous ](/codes/nevada/2023/chapter-603/) ** **[ Next\n](/codes/nevada/2023/chapter-604a/) **\n\n**Disclaimer:** These codes may not be the most recent version.\n[Nevada](/codes/states.html) may have more current or accurate information. We\nmake no warranties or guarantees about the accuracy, completeness, or adequacy\nof the information contained on this site or the information linked to on the\nstate site. Please check official sources.\n\n[![Justia Elevate. Law Firm Websites Starting at Only $82.50/month*. Packed\nWith AI Tools (*Starting Price When Paid Annually). Discover Your\nPrice](https://justatic.com/v/20260325120135/shared/images/leads-v2/elevate/what-\nwould-cost-1.5x-a.jpg)](https://www.justia.com/marketing/elevate/price-\ncalculator/?utm_source=law&utm_medium=web&utm_campaign=elevate-what-would-\ncost-with-justia&utm_content=banner-sidebar-what-would-cost-with-justia-v2)"
+    "body": "section may be delayed if a law enforcement agency determines that the\nnotification will impede a criminal investigation. The notification required by\nthis section must be made after the law enforcement agency determines that the\nnotification will not compromise the investigation."
   },
   {
     "depth": 2,
-    "section_id": "",
-    "section_name": "Free Daily Summaries in Your Inbox",
-    "id_kind": "",
+    "section_id": "4 (3)",
+    "section_name": "For purposes of this section, except as",
+    "id_kind": "numbered",
     "parent_id": "",
-    "body": "You're all set! You already receive all suggested Justia Opinion Summary\nNewsletters. You can explore additional available newsletters\n[here](https://connect.justia.com/case-law-summary-newsletters).\n\nSign up for our free summaries and get the latest delivered directly to you."
+    "body": "otherwise provided in subsection 5, the notification required by this section\nmay be provided by one of the following methods:\n\n      (a) Written notification.\n\n      (b) Electronic notification, if the notification\nprovided is consistent with the provisions of the Electronic Signatures in\nGlobal and National Commerce Act, 15 U.S.C. §§ 7001 et seq.\n\n      (c) Substitute notification, if the data\ncollector demonstrates that the cost of providing notification would exceed\n$250,000, the affected class of subject persons to be notified exceeds 500,000\nor the data collector does not have sufficient contact information. Substitute\nnotification must consist of all the following:"
+  },
+  {
+    "depth": 3,
+    "section_id": "For purposes of this section, except as: (1)",
+    "section_name": "Notification by electronic mail when",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "the data collector has electronic mail addresses for the subject persons."
+  },
+  {
+    "depth": 3,
+    "section_id": "For purposes of this section, except as: (2)",
+    "section_name": "Conspicuous posting of the",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "notification on the Internet website of the data collector, if the data\ncollector maintains an Internet website.\n\n             (3) Notification to major statewide media.\n\n      5.  A data collector which:\n\n      (a) Maintains its own notification policies and\nprocedures as part of an information security policy for the treatment of\npersonal information that is otherwise consistent with the timing requirements\nof this section shall be deemed to be in compliance with the notification\nrequirements of this section if the data collector notifies subject persons in\naccordance with its policies and procedures in the event of a breach of the\nsecurity of the system data.\n\n      (b) Is subject to and complies with the privacy\nand security provisions of the Gramm-Leach-Bliley Act, 15 U.S.C. §§ 6801 et\nseq., shall be deemed to be in compliance with the notification requirements of\nthis section."
   },
   {
     "depth": 2,
-    "section_id": "",
-    "section_name": "Our Suggestions:",
-    "id_kind": "",
+    "section_id": "6 (1)",
+    "section_name": "If a data collector determines that notification",
+    "id_kind": "numbered",
     "parent_id": "",
-    "body": "Enter Your Email\n\nSomething went wrong, please try again later.\n\n**[Free Webinars for All](https://connect.justia.com/webinars) **\n\nDiscover the latest legal insights from our experts.\n\n[See All Webinars](https://connect.justia.com/webinars)\n\n[Ask a Lawyer\nGet Free Answers](https://answers.justia.com/)\n\nHave a legal question? Get free answers from experienced lawyers!\n\nAsk Question\n\n[Find a Lawyer](https://www.justia.com/lawyers/communications-internet-\nlaw/nevada)\n\n**[Lawyers - Get Listed Now!](https://lawyers.justia.com/lawyer-directory-\nlistings)** Get a free directory profile listing\n\n[ Toggle button ](#)"
+    "body": "is required to be given pursuant to the provisions of this section to more than\n1,000 persons at any one time, the data collector shall also notify, without\nunreasonable delay, any consumer reporting agency that compiles and maintains\nfiles on consumers on a nationwide basis, as that term is defined in 15 U.S.C."
+  },
+  {
+    "depth": 3,
+    "section_id": "",
+    "section_name": "§ 1681a(p), of the time the notification is distributed and the content of the",
+    "id_kind": "",
+    "parent_id": "6 (1)",
+    "body": "notification."
   },
   {
     "depth": 2,
-    "section_id": "",
-    "section_name": "Get free summaries of new opinions delivered to your inbox!",
-    "id_kind": "",
+    "section_id": "7 (1)",
+    "section_name": "The provisions of this section do not",
+    "id_kind": "numbered",
     "parent_id": "",
-    "body": "Enter Your Email\n\nSign Up\n\nJustia Legal Resources\n\n[Find a Lawyer](https://www.justia.com/lawyers)\n![Arrow](//justatic.com/v/20260513163803/shared/images/icons/svgfiles/blue/down.svg)\n\n  * [Bankruptcy Lawyers](https://www.justia.com/lawyers/bankruptcy)\n  * [Business Lawyers](https://www.justia.com/lawyers/business-law)\n  * [Criminal Lawyers](https://www.justia.com/lawyers/criminal-law)\n  * [Employment Lawyers](https://www.justia.com/lawyers/employment-law)\n  * [Estate Planning Lawyers](https://www.justia.com/lawyers/estate-planning)\n  * [Family Lawyers](https://www.justia.com/lawyers/family-law)\n  * [Personal Injury Lawyers](https://www.justia.com/lawyers/personal-injury)\n  * [More... ](https://www.justia.com/lawyers)\n\n[Individuals](https://www.justia.com/individuals/)\n![Arrow](//justatic.com/v/20260513163803/shared/images/icons/svgfiles/blue/down.svg)\n\n  * [Bankruptcy](https://www.justia.com/bankruptcy/)\n  * [Criminal](https://www.justia.com/criminal/)\n  * [Divorce](https://www.justia.com/family/divorce/)\n  * [DUI](https://www.justia.com/criminal/drunk-driving-dui-dwi/)\n  * [Estate Planning](https://www.justia.com/estate-planning/)\n  * [Family Law](https://www.justia.com/family/)\n  * [Personal Injury](https://www.justia.com/injury/)\n  * [More...](https://www.justia.com/individuals/)\n\n[Business](https://www.justia.com/business/)\n![Arrow](//justatic.com/v/20260513163803/shared/images/icons/svgfiles/blue/down.svg)\n\n  * [Business Formation](https://www.justia.com/business-operations/starting-your-own-business/)\n  * [Business Operations](https://www.justia.com/business-operations/)\n  * [Employment](https://www.justia.com/employment/)\n  * [Intellectual Property](https://www.justia.com/intellectual-property/)\n  * [International Trade](https://www.justia.com/international-law/international-trade-law/)\n  * [Real Estate](https://www.justia.com/business-operations/commercial-real-estate-the-law/)\n  * [Tax Law](https://www.justia.com/tax/)\n  * [More... ](https://www.justia.com/business/)\n\n[Law Schools](https://www.justia.com/law-schools/)\n![Arrow](//justatic.com/v/20260513163803/shared/images/icons/svgfiles/blue/down.svg)\n\n  * [Dictionary](https://dictionary.justia.com/)\n  * [Admissions](https://www.justia.com/law-students/)\n  * [Financial Aid](https://www.justia.com/law-students/)\n  * [Course Outlines](https://www.justia.com/law-schools/outlines/)\n  * [Law Journals](https://www.justia.com/law-schools/)\n  * [Blogs](https://blawgsearch.justia.com/blogs/categories/law-student)\n  * [Employment](https://www.justia.jobs/jobs/summer-associate-legal-internship)\n  * [More...](https://www.justia.com/law-schools/)\n\n[U.S. Federal Law](https://law.justia.com/us/)\n![Arrow](//justatic.com/v/20260513163803/shared/images/icons/svgfiles/blue/down.svg)\n\n  * [U.S. Constitution](https://law.justia.com/constitution/us/)\n  * [U.S. Code](https://law.justia.com/codes/us)\n  * [Regulations](https://regulations.justia.com/)\n  * [Supreme Court](https://supreme.justia.com/)\n  * [Circuit Courts](https://law.justia.com/cases/federal/appellate-courts/)\n  * [District Courts](https://law.justia.com/cases/federal/district-courts/)\n  * [Dockets & Filings](https://dockets.justia.com/)\n  * [More...](https://law.justia.com/us/)\n\n[U.S. State Law](https://law.justia.com/us-states/)\n![Arrow](//justatic.com/v/20260513163803/shared/images/icons/svgfiles/blue/down.svg)\n\n  * [State Constitutions](https://law.justia.com/us-states/)\n  * [State Codes](https://law.justia.com/codes/)\n  * [State Case Law](https://law.justia.com/cases/)\n  * [California](https://law.justia.com/california/)\n  * [Florida](https://law.justia.com/florida/)\n  * [New York](https://law.justia.com/new-york/)\n  * [Texas](https://law.justia.com/texas/)\n  * [More... ](https://law.justia.com/us-states/)\n\n[Other Databases](https://www.justia.com/)\n![Arrow](//justatic.com/v/20260513163803/shared/images/icons/svgfiles/blue/down.svg)\n\n  * [Legal Jobs](https://www.justia.jobs/)\n  * [Legal Blogs](https://blawgsearch.justia.com/)\n  * [Business Forms](https://contracts.justia.com/)\n  * [Product Recalls](https://recalls.justia.com/)\n  * [Patents](https://patents.justia.com/)\n  * [Trademarks](https://trademarks.justia.com/)\n  * [Countries](https://www.justia.com/countries/)\n  * [More...](https://www.justia.com/)\n\n[Marketing Solutions](https://www.justia.com/marketing/)\n![Arrow](//justatic.com/v/20260513163803/shared/images/icons/svgfiles/blue/down.svg)\n\n  * [Justia Connect Membership](https://www.justia.com/marketing/connect/)\n  * [Justia Lawyer Directory](https://www.justia.com/marketing/lawyer-directory/)\n  * [Justia Premium Placements](https://www.justia.com/marketing/lawyer-directory/#premium-placements)\n  * [Justia Elevate (SEO, Websites)](https://www.justia.com/marketing/elevate/)\n  * [Justia Amplify (PPC, GBP)](https://www.justia.com/marketing/amplify/)\n  * [Justia Onward Blog](https://onward.justia.com/)\n  * [Testimonials](https://www.justia.com/marketing/testimonials/)\n  * [More...](https://www.justia.com/marketing/)\n\n[\n![LinkedIn](https://justatic.com/v/1/shared/images/icons/social/linkedin.svg)\n](https://www.linkedin.com/company/justia \"LinkedIn\") [\n![YouTube](https://justatic.com/v/1/shared/images/icons/social/youtube.svg)\n](https://www.youtube.com/justia \"YouTube\") [\n![Facebook](https://justatic.com/v/1/shared/images/icons/social/facebook.svg)\n](https://www.facebook.com/justia \"Facebook\") [\n![Instagram](https://justatic.com/v/1/shared/images/icons/social/instagram.svg)\n](https://www.instagram.com/justiacom \"Instagram\") [\n![Threads](https://justatic.com/v/1/shared/images/icons/social/threads.svg)\n](https://www.threads.com/@justiacom \"Threads\") [\n![Bluesky](https://justatic.com/v/1/shared/images/icons/social/bluesky.svg)\n](https://bsky.app/profile/justiacom.bsky.social \"Bluesky\") [\n![Twitter](https://justatic.com/v/1/shared/images/icons/social/twitter.svg)\n](https://x.com/justiacom \"Twitter\") [\n![Justia](https://justatic.com/v/1/shared/images/icons/social/justia.svg)\n](https://lawyers.justia.com/organization/justia-inc-16302 \"Justia Lawyer\nDirectory\") © 2026 [Justia](https://www.justia.com/) [Justia\nConnect](https://connect.justia.com/) [Legal Portal](https://www.justia.com/)\n[Company](https://company.justia.com/) [Help](https://support.justia.com/)\n[Terms of Service](https://www.justia.com/terms-of-service/) [Privacy\nPolicy](https://www.justia.com/privacy-policy/) [Marketing\nSolutions](https://www.justia.com/marketing/)"
+    "body": "apply to a person licensed pursuant to [chapter 675](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/NRS/NRS-675.html#NRS675)\nof NRS.\n\n      (Added to NRS by [2005,\n2504](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/73rd/Stats200525.html#Stats200525page2504); A [2023,\n3481](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/82nd2023/Stats202329.html#Stats202329page3481))\n\nRemedies and Penalties\n\n      NRS 603A.260  Violation constitutes deceptive trade practice.  A violation of the provisions of [NRS 603A.010](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec010) to [603A.290](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec290), inclusive, constitutes a\ndeceptive trade practice for the purposes of [NRS\n598.0903](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/NRS/NRS-598.html#NRS598Sec0903) to [598.0999](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/NRS/NRS-598.html#NRS598Sec0999), inclusive.\n\n      (Added to NRS by [2021,\n1353](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/81st2021/Stats202110.html#Stats202110page1353))\n\n      NRS 603A.270  Civil action.  A\ndata collector that provides the notification required pursuant to [NRS 603A.220](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec220) may commence an action for\ndamages against a person that unlawfully obtained or benefited from personal\ninformation obtained from records maintained by the data collector. A data\ncollector that prevails in such an action may be awarded damages which may\ninclude, without limitation, the reasonable costs of notification, reasonable attorney’s\nfees and costs and punitive damages when appropriate. The costs of notification\ninclude, without limitation, labor, materials, postage and any other costs\nreasonably related to providing the notification.\n\n      (Added to NRS by [2005,\n2506](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/73rd/Stats200525.html#Stats200525page2506))—(Substituted in revision for NRS 603A.900)\n\n      NRS 603A.280  Restitution.  In\naddition to any other penalty provided by law for the breach of the security of\nthe system data maintained by a data collector, the court may order a person\nwho is convicted of unlawfully obtaining or benefiting from personal\ninformation obtained as a result of such breach to pay restitution to the data\ncollector for the reasonable costs incurred by the data collector in providing\nthe notification required pursuant to [NRS\n603A.220](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec220), including, without limitation, labor, materials, postage and any\nother costs reasonably related to providing such notification.\n\n      (Added to NRS by [2005,\n2506](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/73rd/Stats200525.html#Stats200525page2506))—(Substituted in revision for NRS 603A.910)\n\n      NRS 603A.290  Injunction.  If the\nAttorney General or a district attorney of any county has reason to believe\nthat any person is violating, proposes to violate or has violated the\nprovisions of [NRS 603A.010](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec010) to [603A.290](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec290), inclusive, the Attorney General\nor district attorney may bring an action against that person to obtain a\ntemporary or permanent injunction against the violation.\n\n      (Added to NRS by [2005,\n2506](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/73rd/Stats200525.html#Stats200525page2506); A [2017,\n4079](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/79th2017/Stats201722.html#Stats201722page4079))—(Substituted in revision for NRS 603A.920)\n\nNOTICE REGARDING PRIVACY OF INFORMATION COLLECTED ON\nINTERNET FROM CONSUMERS\n\nGeneral Provisions\n\n      NRS 603A.300  Definitions.  As\nused in [NRS 603A.300](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec300) to [603A.360](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec360), inclusive, unless the context\notherwise requires, the words and terms defined in [NRS 603A.310](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec310) to [603A.337](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec337), inclusive, have the meanings\nascribed to them in those sections.\n\n      (Added to NRS by [2017,\n4077](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/79th2017/Stats201722.html#Stats201722page4077); A [2019,\n1172](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/80th2019/Stats201907.html#Stats201907page1172); [2021,\n1674](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/81st2021/Stats202112.html#Stats202112page1674))\n\n      NRS 603A.310  “Consumer” defined.  “Consumer”\nmeans a person who seeks or acquires, by purchase or lease, any good, service,\nmoney or credit for personal, family or household purposes from the Internet\nwebsite or online service of an operator.\n\n      (Added to NRS by [2017,\n4077](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/79th2017/Stats201722.html#Stats201722page4077))\n\n      NRS 603A.320  “Covered information” defined.  “Covered\ninformation” means any one or more of the following items of personally\nidentifiable information about a consumer collected by an operator through an\nInternet website or online service and maintained by the operator or a data\nbroker in an accessible form:\n\n      1.  A first and last name."
+  },
+  {
+    "depth": 2,
+    "section_id": "2 (6)",
+    "section_name": "A home or other physical address which",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "includes the name of a street and the name of a city or town.\n\n      3.  An electronic mail address.\n\n      4.  A telephone number.\n\n      5.  A social security number."
+  },
+  {
+    "depth": 2,
+    "section_id": "6 (2)",
+    "section_name": "An identifier that allows a specific",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "person to be contacted either physically or online."
+  },
+  {
+    "depth": 2,
+    "section_id": "7 (2)",
+    "section_name": "Any other information concerning a",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "person collected from the person through the Internet website or online service\nof the operator and maintained by the operator or data broker in combination\nwith an identifier in a form that makes the information personally\nidentifiable.\n\n      (Added to NRS by [2017,\n4078](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/79th2017/Stats201722.html#Stats201722page4078); A [2021,\n1674](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/81st2021/Stats202112.html#Stats202112page1674))\n\n      NRS 603A.323  “Data broker” defined.  “Data\nbroker” means a person whose primary business is purchasing covered information\nabout consumers with whom the person does not have a direct relationship and\nwho reside in this State from operators or other data brokers and making sales\nof such covered information.\n\n      (Added to NRS by [2021,\n1672](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/81st2021/Stats202112.html#Stats202112page1672))\n\n      NRS 603A.325  “Designated request address” defined.  “Designated\nrequest address” means an electronic mail address, toll-free telephone number\nor Internet website established by an operator or data broker through which a\nconsumer may submit to an operator or data broker a verified request.\n\n      (Added to NRS by [2019,\n1171](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/80th2019/Stats201907.html#Stats201907page1171); A [2021,\n1674](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/81st2021/Stats202112.html#Stats202112page1674))\n\n      NRS 603A.330  “Operator” defined.\n\n      1.  “Operator” means a person who:\n\n      (a) Owns or operates an Internet website or\nonline service for commercial purposes;\n\n      (b) Collects and maintains covered information\nfrom consumers who reside in this State and use or visit the Internet website\nor online service; and\n\n      (c) Purposefully directs its activities toward\nthis State, consummates some transaction with this State or a resident thereof,\npurposefully avails itself of the privilege of conducting activities in this State\nor otherwise engages in any activity that constitutes sufficient nexus with\nthis State to satisfy the requirements of the United States Constitution.\n\n      2.  The term does not include:\n\n      (a) A third party that operates, hosts or manages\nan Internet website or online service on behalf of its owner or processes\ninformation on behalf of the owner of an Internet website or online service;\n\n      (b) An entity that is subject to the provisions\nof the Health Insurance Portability and Accountability Act of 1996, Public Law\n104-191, as amended, and the regulations adopted pursuant thereto;\n\n      (c) A manufacturer of a motor vehicle or a person\nwho repairs or services a motor vehicle who collects, generates, records or\nstores covered information that is:"
+  },
+  {
+    "depth": 3,
+    "section_id": "Any other information concerning a: (1)",
+    "section_name": "Retrieved from a motor vehicle in",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "connection with a technology or service related to the motor vehicle; or"
+  },
+  {
+    "depth": 3,
+    "section_id": "Any other information concerning a: (2)",
+    "section_name": "Provided by a consumer in connection",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "with a subscription or registration for a technology or service related to the\nmotor vehicle; or\n\n      (d) A person who does not collect, maintain or\nmake sales of covered information.\n\n      (Added to NRS by [2017,\n4078](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/79th2017/Stats201722.html#Stats201722page4078); A [2019,\n1172](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/80th2019/Stats201907.html#Stats201907page1172); [2021,\n1674](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/81st2021/Stats202112.html#Stats202112page1674))\n\n      NRS 603A.333  “Sale” defined.\n\n      1.  “Sale” means the exchange of covered\ninformation for monetary consideration by an operator or data broker to another\nperson.\n\n      2.  The term does not include:\n\n      (a) The disclosure of covered information by an\noperator or data broker to a person who processes the covered information on\nbehalf of the operator or data broker;\n\n      (b) The disclosure of covered information by an\noperator to a person with whom the consumer has a direct relationship for the\npurposes of providing a product or service requested by the consumer;\n\n      (c) The disclosure of covered information by an\noperator to a person for purposes which are consistent with the reasonable\nexpectations of a consumer considering the context in which the consumer provided\nthe covered information to the operator;\n\n      (d) The disclosure of covered information by an\noperator or data broker to a person who is an affiliate, as defined in [NRS 686A.620](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/NRS/NRS-686A.html#NRS686ASec620), of the operator or data\nbroker; or\n\n      (e) The disclosure or transfer of covered\ninformation by an operator or data broker to a person as an asset that is part\nof a merger, acquisition, bankruptcy or other transaction in which the person\nassumes control of all or part of the assets of the operator or data broker.\n\n      (Added to NRS by [2019,\n1171](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/80th2019/Stats201907.html#Stats201907page1171); A [2021,\n1675](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/81st2021/Stats202112.html#Stats202112page1675))\n\n      NRS 603A.337  “Verified request” defined.  “Verified\nrequest” means a request:"
+  },
+  {
+    "depth": 2,
+    "section_id": "1 (5)",
+    "section_name": "Submitted by a consumer to an operator",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "or data broker for the purposes set forth in [NRS 603A.345](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec345) or [603A.346](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec346), as applicable; and"
+  },
+  {
+    "depth": 2,
+    "section_id": "2 (7)",
+    "section_name": "For which an operator or data broker",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "can reasonably verify the authenticity of the request and the identity of the\nconsumer using commercially reasonable means.\n\n      (Added to NRS by [2019,\n1171](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/80th2019/Stats201907.html#Stats201907page1171); A [2021,\n1675](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/81st2021/Stats202112.html#Stats202112page1675))\n\n      NRS 603A.338  Applicability of provisions.  The\nprovisions of [NRS 603A.300](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec300) to [603A.360](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec360), inclusive, do not apply to:"
+  },
+  {
+    "depth": 2,
+    "section_id": "1 (6)",
+    "section_name": "A consumer reporting agency, as defined",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "in 15 U.S.C. § 1681a(f);"
+  },
+  {
+    "depth": 2,
+    "section_id": "2 (8)",
+    "section_name": "Any personally identifiable information",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "regulated by the Fair Credit Reporting Act, 15 U.S.C. §§ 1681 et seq., and the\nregulations adopted pursuant thereto, which is collected, maintained or sold as\nprovided in that Act;"
+  },
+  {
+    "depth": 2,
+    "section_id": "3 (4)",
+    "section_name": "A person who collects, maintains or",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "makes sales of personally identifiable information for the purposes of fraud\nprevention;"
+  },
+  {
+    "depth": 2,
+    "section_id": "4 (4)",
+    "section_name": "Any personally identifiable information",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "that is publicly available;"
+  },
+  {
+    "depth": 2,
+    "section_id": "5 (2)",
+    "section_name": "Any personally identifiable information",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "protected from disclosure under the federal Driver’s Privacy Protection Act of\n1994, 18 U.S.C. §§ 2721 et seq., which is collected, maintained or sold as\nprovided in that Act;"
+  },
+  {
+    "depth": 2,
+    "section_id": "6 (3)",
+    "section_name": "Any consumer health data subject to the",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "provisions of [NRS 603A.400](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec400) to [603A.550](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec550), inclusive; or"
+  },
+  {
+    "depth": 2,
+    "section_id": "7 (3)",
+    "section_name": "A financial institution or an affiliate",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "of a financial institution that is subject to the provisions of the\nGramm-Leach-Bliley Act, 15 U.S.C. §§ 6801 et seq., or any personally\nidentifiable information regulated by that Act which is collected, maintained\nor sold as provided in that Act.\n\n      (Added to NRS by [2021,\n1672](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/81st2021/Stats202112.html#Stats202112page1672); A [2023,\n3462](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/82nd2023/Stats202329.html#Stats202329page3462))\n\nRegulation of Business Practices\n\n      NRS 603A.340  Notice regarding covered information collected by operator:\nOperator required to make available to consumers; contents; exception."
+  },
+  {
+    "depth": 2,
+    "section_id": "1 (7)",
+    "section_name": "Except as otherwise provided in",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "subsection 2, an operator shall make available, in a manner reasonably\ncalculated to be accessible by consumers whose covered information the operator\ncollects through its Internet website or online service, a notice that:\n\n      (a) Identifies the categories of covered information\nthat the operator collects through its Internet website or online service about\nconsumers who use or visit the Internet website or online service and the\ncategories of third parties with whom the operator may share such covered\ninformation;\n\n      (b) Provides a description of the process, if any\nsuch process exists, for an individual consumer who uses or visits the Internet\nwebsite or online service to review and request changes to any of his or her\ncovered information that is collected through the Internet website or online\nservice;\n\n      (c) Describes the process by which the operator\nnotifies consumers who use or visit the Internet website or online service of\nmaterial changes to the notice required to be made available by this\nsubsection;\n\n      (d) Discloses whether a third party may collect\ncovered information about an individual consumer’s online activities over time\nand across different Internet websites or online services when the consumer\nuses the Internet website or online service of the operator; and\n\n      (e) States the effective date of the notice."
+  },
+  {
+    "depth": 2,
+    "section_id": "2 (9)",
+    "section_name": "The provisions of subsection 1 do not",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "apply to an operator:\n\n      (a) Who is located in this State;\n\n      (b) Whose revenue is derived primarily from a\nsource other than the sale or lease of goods, services or credit on Internet\nwebsites or online services; and\n\n      (c) Whose Internet website or online service has\nfewer than 20,000 unique visitors per year.\n\n      (Added to NRS by [2017,\n4078](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/79th2017/Stats201722.html#Stats201722page4078); A [2021,\n1675](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/81st2021/Stats202112.html#Stats202112page1675))\n\n      NRS 603A.345  Submission of verified request to operator not to sell covered\ninformation collected by operator; response to verified request."
+  },
+  {
+    "depth": 2,
+    "section_id": "1 (8)",
+    "section_name": "Each operator shall establish a",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "designated request address through which a consumer may submit a verified\nrequest pursuant to this section."
+  },
+  {
+    "depth": 2,
+    "section_id": "2 (10)",
+    "section_name": "A consumer may, at any time, submit a",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "verified request through a designated request address to an operator directing\nthe operator not to make any sale of any covered information the operator has\ncollected or will collect about the consumer."
+  },
+  {
+    "depth": 2,
+    "section_id": "3 (5)",
+    "section_name": "An operator that has received a",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "verified request submitted by a consumer pursuant to subsection 2 shall not\nmake any sale of any covered information the operator has collected or will\ncollect about that consumer."
+  },
+  {
+    "depth": 2,
+    "section_id": "4 (5)",
+    "section_name": "An operator shall respond to a verified",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "request submitted by a consumer pursuant to subsection 2 within 60 days after\nreceipt thereof. An operator may extend by not more than 30 days the period\nprescribed by this subsection if the operator determines that such an extension\nis reasonably necessary. An operator who extends the period prescribed by this\nsubsection shall notify the consumer of such an extension.\n\n      (Added to NRS by [2019,\n1171](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/80th2019/Stats201907.html#Stats201907page1171))\n\n      NRS 603A.346  Submission of verified request to data broker not to sell\ncovered information purchased by data broker; response to verified request."
+  },
+  {
+    "depth": 2,
+    "section_id": "1 (9)",
+    "section_name": "Each data broker shall establish a",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "designated request address through which a consumer may submit a verified\nrequest pursuant to this section."
+  },
+  {
+    "depth": 2,
+    "section_id": "2 (11)",
+    "section_name": "A consumer may, at any time, submit a",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "verified request through a designated request address to a data broker\ndirecting the data broker not to make any sale of any covered information about\nthe consumer that the data broker has purchased or will purchase."
+  },
+  {
+    "depth": 2,
+    "section_id": "3 (6)",
+    "section_name": "A data broker that has received a",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "verified request submitted by a consumer pursuant to subsection 2 shall not\nmake any sale of any covered information about that consumer that the data\nbroker has purchased or will purchase."
+  },
+  {
+    "depth": 2,
+    "section_id": "4 (6)",
+    "section_name": "A data broker shall respond to a",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "verified request submitted by a consumer pursuant to subsection 2 within 60\ndays after receipt thereof. A data broker may extend by not more than 30 days\nthe period prescribed by this subsection if the data broker determines that\nsuch an extension is reasonably necessary. A data broker who extends the period\nprescribed by this subsection shall notify the consumer of such an extension.\n\n      (Added to NRS by [2021,\n1673](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/81st2021/Stats202112.html#Stats202112page1673))\n\n      NRS 603A.347  Data broker authorized to remedy first failure to comply with\nrequirements concerning verified request."
+  },
+  {
+    "depth": 2,
+    "section_id": "1 (10)",
+    "section_name": "A data broker who has not previously",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "failed to comply with the provisions of [NRS\n603A.346](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec346) may remedy any failure to comply with the provisions of [NRS 603A.346](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec346) within 30 days after being\ninformed of such a failure."
+  },
+  {
+    "depth": 2,
+    "section_id": "2 (12)",
+    "section_name": "A data broker described in subsection 1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "who remedies a failure to comply with the provisions of [NRS 603A.346](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec346) within 30 days after being\ninformed of such a failure does not violate [NRS\n603A.346](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec346) for the purposes of [NRS\n603A.360](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec360).\n\n      (Added to NRS by [2021,\n1673](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/81st2021/Stats202112.html#Stats202112page1673))\n\n      NRS 603A.348  Operator authorized to remedy first failure to comply with\nnotice requirements."
+  },
+  {
+    "depth": 2,
+    "section_id": "1 (11)",
+    "section_name": "An operator who has not previously",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "failed to comply with the applicable provisions of subsection 1 of [NRS 603A.340](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec340) may remedy any failure to\ncomply with the applicable provisions of subsection 1 of [NRS 603A.340](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec340) within 30 days after being\ninformed of such a failure."
+  },
+  {
+    "depth": 2,
+    "section_id": "2 (13)",
+    "section_name": "An operator described in subsection 1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "who remedies a failure to comply with the applicable provisions of subsection 1\nof [NRS 603A.340](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec340) within 30 days after\nbeing informed of such a failure does not violate [NRS 603A.340](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec340) for the purposes of [NRS 603A.360](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec360).\n\n      (Added to NRS by [2021,\n1673](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/81st2021/Stats202112.html#Stats202112page1673))\n\n      NRS 603A.349  Operator authorized to remedy first failure to comply with\nrequirements concerning verified request."
+  },
+  {
+    "depth": 2,
+    "section_id": "1 (12)",
+    "section_name": "An operator who has not previously",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "failed to comply with the provisions of [NRS\n603A.345](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec345) may remedy any failure to comply with the provisions of [NRS 603A.345](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec345) within 30 days after being\ninformed of such a failure."
+  },
+  {
+    "depth": 2,
+    "section_id": "2 (14)",
+    "section_name": "An operator described in subsection 1",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "who remedies a failure to comply with the provisions of [NRS 603A.345](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec345) within 30 days after being\ninformed of such a failure does not violate [NRS\n603A.345](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec345) for the purposes of [NRS\n603A.360](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec360).\n\n      (Added to NRS by [2021,\n1673](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/81st2021/Stats202112.html#Stats202112page1673))\n\nUnlawful Acts, Penalties and Remedies\n\n      NRS 603A.350  Unlawful acts.  An\noperator violates [NRS 603A.340](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec340) if the\noperator:"
+  },
+  {
+    "depth": 2,
+    "section_id": "1 (13)",
+    "section_name": "Has not previously failed to comply",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "with the applicable provisions of subsection 1 of that section and knowingly\nfails to remedy a failure to comply with such provisions within 30 days after\nbeing informed of such a failure;"
+  },
+  {
+    "depth": 2,
+    "section_id": "2 (15)",
+    "section_name": "Knowingly fails to comply with the",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "applicable provisions of subsection 1 of that section after having previously\nfailed to comply with such provisions; or"
+  },
+  {
+    "depth": 2,
+    "section_id": "3 (7)",
+    "section_name": "Makes available a notice pursuant to",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "that section which contains information which constitutes a knowing and\nmaterial misrepresentation or omission that is likely to mislead a consumer\nacting reasonably under the circumstances, to the detriment of the consumer.\n\n      (Added to NRS by [2017,\n4079](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/79th2017/Stats201722.html#Stats201722page4079); A [2021,\n1676](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/81st2021/Stats202112.html#Stats202112page1676))\n\n      NRS 603A.360  Enforcement by Attorney General; civil penalty for violation or\ninjunction; no private right of action against operator; provisions not\nexclusive."
+  },
+  {
+    "depth": 2,
+    "section_id": "1 (14)",
+    "section_name": "The Attorney General shall enforce the",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "provisions of [NRS 603A.300](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec300) to [603A.360](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec360), inclusive."
+  },
+  {
+    "depth": 2,
+    "section_id": "2 (16)",
+    "section_name": "If the Attorney General has reason to",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "believe that an operator, either directly or indirectly, has violated or is violating\n[NRS 603A.340](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec340) or [603A.345](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec345), the Attorney General may\ninstitute an appropriate legal proceeding against the operator. The district\ncourt, upon a showing that the operator, either directly or indirectly, has\nviolated or is violating [NRS 603A.340](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec340)\nor [603A.345](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec345), may:\n\n      (a) Issue a temporary or permanent injunction; or\n\n      (b) Impose a civil penalty not to exceed $5,000\nfor each violation."
+  },
+  {
+    "depth": 2,
+    "section_id": "3 (8)",
+    "section_name": "If the Attorney General has reason to",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "believe that a data broker, either directly or indirectly, has violated or is\nviolating [NRS 603A.346](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec346), the Attorney\nGeneral may institute an appropriate legal proceeding against the data broker.\nThe district court, upon a showing that the data broker, either directly or\nindirectly, has violated or is violating [NRS\n603A.346](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec346), may:\n\n      (a) Issue a temporary or permanent injunction; or\n\n      (b) Impose a civil penalty not to exceed $5,000\nfor each violation.\n\n      4.  The provisions of [NRS 603A.300](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec300) to [603A.360](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec360), inclusive, do not establish a\nprivate right of action against an operator.\n\n      5.  The provisions of [NRS 603A.300](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec300) to [603A.360](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec360), inclusive, are not exclusive\nand are in addition to any other remedies provided by law.\n\n      (Added to NRS by [2017,\n4079](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/79th2017/Stats201722.html#Stats201722page4079); A [2019,\n1172](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/80th2019/Stats201907.html#Stats201907page1172); [2021,\n1676](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/81st2021/Stats202112.html#Stats202112page1676))\n\nSECURITY AND PRIVACY OF CONSUMER HEALTH DATA\n\nGeneral Provisions\n\n      NRS 603A.400  Definitions.  As\nused in [NRS 603A.400](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec400) to [603A.550](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec550), inclusive, unless the context\notherwise requires, the words and terms defined in [NRS 603A.405](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec405) to [603A.485](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec485), inclusive, have the meanings\nascribed to them in those sections.\n\n      (Added to NRS by [2023,\n3452](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/82nd2023/Stats202329.html#Stats202329page3452))\n\n      NRS 603A.405  “Affiliate” defined.  “Affiliate”\nmeans an entity that shares common branding with another entity and controls,\nis controlled by or is under common control with the other entity. For the\npurposes of this section, an entity shall be deemed to control another entity\nif the entity:"
+  },
+  {
+    "depth": 2,
+    "section_id": "1 (15)",
+    "section_name": "Owns or has the power to vote at least",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "half of the outstanding shares of any class of voting security in the other\nentity;"
+  },
+  {
+    "depth": 2,
+    "section_id": "2 (17)",
+    "section_name": "Controls in any manner the election of",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "a majority of the directors or persons exercising similar functions to\ndirectors of the other entity; or"
+  },
+  {
+    "depth": 2,
+    "section_id": "3 (9)",
+    "section_name": "Has the power to exercise controlling",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "influence over the management of the other entity.\n\n      (Added to NRS by [2023,\n3452](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/82nd2023/Stats202329.html#Stats202329page3452))\n\n      NRS 603A.410  “Authenticate” defined.  “Authenticate”\nmeans to ascertain the identity of the originator of an electronic or physical\ndocument and establish a link between the document and the originator.\n\n      (Added to NRS by [2023,\n3453](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/82nd2023/Stats202329.html#Stats202329page3453))\n\n      NRS 603A.415  “Biometric data” defined.  “Biometric\ndata” means data which is generated from the measurement or technical\nprocessing of the physiological, biological or behavioral characteristics of a\nperson and, alone or in combination with other data, is capable of being used\nto identify the person. The term includes, without limitation:"
+  },
+  {
+    "depth": 2,
+    "section_id": "1 (16)",
+    "section_name": "Imagery of the fingerprint, palm print,",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "hand print, scar, bodily mark, tattoo, voiceprint, face, retina, iris or vein\npattern of a person; and"
+  },
+  {
+    "depth": 2,
+    "section_id": "2 (18)",
+    "section_name": "Keystroke patterns or rhythms and gait",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "patterns or rhythms that contain identifying information.\n\n      (Added to NRS by [2023,\n3453](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/82nd2023/Stats202329.html#Stats202329page3453))\n\n      NRS 603A.420  “Collect” defined.  “Collect”\nmeans to buy, rent, access, retain, receive, acquire, infer, derive or otherwise\nprocess consumer health data in any manner.\n\n      (Added to NRS by [2023,\n3453](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/82nd2023/Stats202329.html#Stats202329page3453))\n\n      NRS 603A.425  “Consumer” defined.  “Consumer”\nmeans a natural person who has requested a product or service from a regulated\nentity and who resides in this State or whose consumer health data is collected\nin this State. The term does not include a natural person acting in an\nemployment context or as an agent of a governmental entity.\n\n      (Added to NRS by [2023,\n3453](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/82nd2023/Stats202329.html#Stats202329page3453))\n\n      NRS 603A.430  “Consumer health data” defined.  “Consumer\nhealth data” means personally identifiable information that is linked or\nreasonably capable of being linked to a consumer and that a regulated entity\nuses to identify the past, present or future health status of the consumer. The\nterm:\n\n      1.  Includes, without limitation:\n\n      (a) Information relating to:"
+  },
+  {
+    "depth": 3,
+    "section_id": "Keystroke patterns or rhythms and gait: (1)",
+    "section_name": "Any health condition or status,",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "disease or diagnosis;"
+  },
+  {
+    "depth": 3,
+    "section_id": "Keystroke patterns or rhythms and gait: (2)",
+    "section_name": "Social, psychological, behavioral or",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "medical interventions;"
+  },
+  {
+    "depth": 3,
+    "section_id": "Keystroke patterns or rhythms and gait: (3)",
+    "section_name": "Surgeries or other health-related",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "procedures;\n\n             (4) The use or acquisition of medication;"
+  },
+  {
+    "depth": 3,
+    "section_id": "(5)",
+    "section_name": "Bodily functions, vital signs or",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "symptoms;\n\n             (6) Reproductive or sexual health care;\nand\n\n             (7) Gender-affirming care;\n\n      (b) Biometric data or genetic data related to\ninformation described in paragraph (a);\n\n      (c) Information related to the precise\ngeolocation information of a consumer that a regulated entity uses to indicate\nan attempt by a consumer to receive health care services or products; and\n\n      (d) Any information described in paragraph (a),\n(b) or (c) that is derived or extrapolated from information that is not\nconsumer health data, including, without limitation, proxy, derivative,\ninferred or emergent data derived through an algorithm, machine learning or any\nother means."
+  },
+  {
+    "depth": 2,
+    "section_id": "2 (19)",
+    "section_name": "Does not include information that is",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "used to:\n\n      (a) Provide access to or enable gameplay by a\nperson on a video game platform; or\n\n      (b) Identify the shopping habits or interests of\na consumer, if that information is not used to identify the specific past,\npresent or future health status of the consumer.\n\n      (Added to NRS by [2023,\n3453](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/82nd2023/Stats202329.html#Stats202329page3453))\n\n      NRS 603A.435  “Gender-affirming care” defined.  “Gender-affirming\ncare” means health services or products that support and affirm the gender\nidentity of a person, including, without limitation:\n\n      1.  Treatments for gender dysphoria;"
+  },
+  {
+    "depth": 2,
+    "section_id": "2 (20)",
+    "section_name": "Gender-affirming hormone therapy; and",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "3.  Gender-affirming surgery.\n\n      (Added to NRS by [2023,\n3454](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/82nd2023/Stats202329.html#Stats202329page3454))\n\n      NRS 603A.440  “Genetic data” defined.  “Genetic\ndata” means any data that concerns the genetic characteristics of a person. The\nterm includes, without limitation:"
+  },
+  {
+    "depth": 2,
+    "section_id": "1 (17)",
+    "section_name": "Data directly resulting from the",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "sequencing of all or a portion of the deoxyribonucleic acid of a person;"
+  },
+  {
+    "depth": 2,
+    "section_id": "2 (21)",
+    "section_name": "Genotypic and phenotypic information",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "that results from analyzing the information described in subsection 1; and"
+  },
+  {
+    "depth": 2,
+    "section_id": "3 (10)",
+    "section_name": "Data concerning the health of a person",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "that is analyzed in connection with the information described in subsection 1.\n\n      (Added to NRS by [2023,\n3454](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/82nd2023/Stats202329.html#Stats202329page3454))\n\n      NRS 603A.445  “Health care services or products” defined.  “Health care services or products” means any\nservice or product provided to a person to assess, measure, improve or learn\nabout the health of a person. The term includes, without limitation:"
+  },
+  {
+    "depth": 2,
+    "section_id": "1 (18)",
+    "section_name": "Services relating to any health",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "condition or status, disease or diagnosis;"
+  },
+  {
+    "depth": 2,
+    "section_id": "2 (22)",
+    "section_name": "Social, psychological, behavioral or",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "medical interventions;"
+  },
+  {
+    "depth": 2,
+    "section_id": "3 (11)",
+    "section_name": "Surgeries or other health-related",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "procedures;"
+  },
+  {
+    "depth": 2,
+    "section_id": "4 (7)",
+    "section_name": "Medication or services related to the",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "use or acquisition of medication; or"
+  },
+  {
+    "depth": 2,
+    "section_id": "5 (3)",
+    "section_name": "Monitoring or measurement related to",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "bodily functions, vital signs or symptoms.\n\n      (Added to NRS by [2023,\n3454](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/82nd2023/Stats202329.html#Stats202329page3454))\n\n      NRS 603A.450  “Precise geolocation information” defined.  “Precise geolocation information” means\ninformation derived from technology, including, without limitation, latitude\nand longitude coordinates at the level of detail typically provided by a global\npositioning system, that directly identifies the specific location of a natural\nperson with precision and accuracy within a radius of 1,750 feet. The term does\nnot include:"
+  },
+  {
+    "depth": 2,
+    "section_id": "1 (19)",
+    "section_name": "The content of any communication; or",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "2 (23)",
+    "section_name": "Any data generated by or connected to",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "advanced metering infrastructure for utilities or other equipment used by a\nutility.\n\n      (Added to NRS by [2023,\n3454](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/82nd2023/Stats202329.html#Stats202329page3454))\n\n      NRS 603A.455  “Process” defined.  “Process”\nmeans any operation or set of operations performed on consumer health data.\n\n      (Added to NRS by [2023,\n3454](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/82nd2023/Stats202329.html#Stats202329page3454))\n\n      NRS 603A.460  “Processor” defined.  “Processor”\nmeans a person who processes consumer health data on behalf of a regulated\nentity.\n\n      (Added to NRS by [2023,\n3454](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/82nd2023/Stats202329.html#Stats202329page3454))\n\n      NRS 603A.465  “Regulated entity” defined.  “Regulated\nentity” means any person who:"
+  },
+  {
+    "depth": 2,
+    "section_id": "1 (20)",
+    "section_name": "Conducts business in this State or",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "produces or provides products or services that are targeted to consumers in\nthis State; and"
+  },
+  {
+    "depth": 2,
+    "section_id": "2 (24)",
+    "section_name": "Alone or with other persons, determines",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "the purpose and means of processing, sharing or selling consumer health data.\n\n      (Added to NRS by [2023,\n3454](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/82nd2023/Stats202329.html#Stats202329page3454))\n\n      NRS 603A.470  “Reproductive or sexual health care” defined.  “Reproductive or sexual health care” means\nhealth care services or products that support or relate to the reproductive\nsystem or sexual well-being of a person. The term includes, without limitation,\nabortion, the provision of medication to induce an abortion and any medical or\nnonmedical services associated with an abortion.\n\n      (Added to NRS by [2023,\n3454](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/82nd2023/Stats202329.html#Stats202329page3454))\n\n      NRS 603A.475  “Sell” defined.  “Sell”\nmeans to exchange consumer health data for money or other valuable\nconsideration. The term does not include the exchange of consumer health data\nfor money or other valuable consideration:"
+  },
+  {
+    "depth": 2,
+    "section_id": "1 (21)",
+    "section_name": "With a processor in a manner consistent",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "with the purpose for which the consumer health data was collected, as disclosed\nto the consumer to whom the consumer health data pertains pursuant to [NRS 603A.500](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec500)."
+  },
+  {
+    "depth": 2,
+    "section_id": "2 (25)",
+    "section_name": "With a third party as an asset that is",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "part of a merger, acquisition, bankruptcy or other transaction through which\nthe third party assumes control of all or part of the assets of the regulated\nentity."
+  },
+  {
+    "depth": 2,
+    "section_id": "3 (12)",
+    "section_name": "With a third party for the purpose of",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "providing a product or service requested by the consumer to whom the consumer\nhealth data pertains."
+  },
+  {
+    "depth": 2,
+    "section_id": "4 (8)",
+    "section_name": "With an affiliate of the person who is",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "providing or disclosing the consumer health data."
+  },
+  {
+    "depth": 2,
+    "section_id": "5 (4)",
+    "section_name": "As directed by the consumer to whom the",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "consumer health data pertains or where the consumer to whom the consumer health\ndata pertains intentionally uses the person who is providing or disclosing the\nconsumer health data to interact with the third party to whom the consumer\nhealth data is provided or disclosed."
+  },
+  {
+    "depth": 2,
+    "section_id": "6 (4)",
+    "section_name": "Where the consumer has intentionally",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "made the consumer health data available to the general public through mass\nmedia that was not restricted to a specific audience.\n\n      (Added to NRS by [2023,\n3455](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/82nd2023/Stats202329.html#Stats202329page3455))\n\n      NRS 603A.480  “Share” defined.  “Share”\nmeans to release, disclose, disseminate, divulge, make available, provide\naccess to, license or otherwise communicate consumer health data orally, in\nwriting or by electronic or other means.\n\n      (Added to NRS by [2023,\n3455](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/82nd2023/Stats202329.html#Stats202329page3455))\n\n      NRS 603A.485  “Third party” defined.  “Third\nparty” means a person who is not a consumer, regulated entity, processor or\naffiliate of a regulated entity.\n\n      (Added to NRS by [2023,\n3455](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/82nd2023/Stats202329.html#Stats202329page3455))\n\n      NRS 603A.490  Applicability.\n\n      1.  The provisions of [NRS 603A.400](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec400) to [603A.550](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec550), inclusive, do not apply to:\n\n      (a) Any person or entity that is subject to the\nHealth Insurance Portability and Accountability Act of 1996, Public Law\n104-191, and the regulations adopted pursuant thereto.\n\n      (b) A financial institution or an affiliate of a\nfinancial institution that is subject to the provisions of the\nGramm-Leach-Bliley Act, 15 U.S.C. §§ 6801 et seq., or any personally\nidentifiable information regulated by that Act which is collected, maintained\nor sold as provided in that Act.\n\n      (c) Patient identifying information, as defined\nin 42 C.F.R. § 2.11, that is collected, used or disclosed in accordance with 42"
+  },
+  {
+    "depth": 2,
+    "section_id": "C (1)",
+    "section_name": "F.R. Part 2",
+    "id_kind": "letter",
+    "parent_id": "",
+    "body": "(d) Patient safety work product, as defined in 42"
+  },
+  {
+    "depth": 2,
+    "section_id": "C (2)",
+    "section_name": "F.R. § 3.20, that is collected, used or disclosed in accordance with 42",
+    "id_kind": "letter",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 2,
+    "section_id": "C (3)",
+    "section_name": "F.R. Part 3",
+    "id_kind": "letter",
+    "parent_id": "",
+    "body": "(e) Identifiable private information, as defined\nin 45 C.F.R. § 46.102, that is collected, used or disclosed in accordance with\n45 C.F.R. Part 46.\n\n      (f) Information used or shared as part of\nresearch conducted pursuant to 45 C.F.R. Part 46 or 21 C.F.R. Parts 50 and 56\nor in accordance with the version of the *Guideline for Good Clinical\nPractice* prescribed by the International Council for Harmonisation of\nTechnical Requirements for Pharmaceuticals for Human Use published on November\n9, 2016.\n\n      (g) Information used only for public health\nactivities and purposes, as described in 45 C.F.R. § 164.512(b), regardless of\nwhether such information is subject to the Health Insurance Portability and\nAccountability Act of 1996, Public Law 104-191, and the regulations adopted\npursuant thereto.\n\n      (h) Personally identifiable information that is\ngoverned by and collected, used or disclosed pursuant to:"
+  },
+  {
+    "depth": 3,
+    "section_id": "F.R. Part 3: (1)",
+    "section_name": "Part C of Title XI of the Social",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "Security Act, 42 U.S.C. §§ 1320d et seq.;"
+  },
+  {
+    "depth": 3,
+    "section_id": "F.R. Part 3: (2)",
+    "section_name": "The Fair Credit Reporting Act, 15",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "U.S.C. §§ 1681 et seq.; or"
+  },
+  {
+    "depth": 3,
+    "section_id": "F.R. Part 3: (3)",
+    "section_name": "The Family Educational Rights and",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "Privacy Act of 1974, 20 U.S.C. § 1232g, and the regulations adopted pursuant\nthereto.\n\n      (i) Information and documents created for the\npurposes of compliance with the federal Health Care Quality Improvement Act of\n1986, 42 U.S.C. §§ 11101 et seq., and any regulations adopted pursuant thereto.\n\n      (j) The collection or sharing of consumer health\ndata where expressly authorized by any provision of federal or state law.\n\n      (k) Information processed by or for any\ngovernmental or tribal entity for civic or governmental purposes and operations\nor related services and operations.\n\n      (l) Any person who holds a nonrestricted license,\nas defined in [NRS 463.0177](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/NRS/NRS-463.html#NRS463Sec0177), or an\naffiliate, as defined in [NRS 463.0133](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/NRS/NRS-463.html#NRS463Sec0133),\nof such a person.\n\n      (m) Law enforcement agencies, contractors of law\nenforcement agencies and law enforcement activities.\n\n      (n) Information that has been de-identified in\naccordance with the requirements for de-identification set forth in 45 C.F.R. §\n164.514."
+  },
+  {
+    "depth": 2,
+    "section_id": "2 (26)",
+    "section_name": "A third party that obtains consumer",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "health data from a regulated entity through a merger, acquisition, bankruptcy\nor other transaction through which the third party assumes control of all or\npart of the assets of the regulated entity is deemed to assume all obligations\nof the regulated entity to comply with the provisions of [NRS 603A.400](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec400) to [603A.550](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec550), inclusive.\n\n      (Added to NRS by [2023,\n3455](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/82nd2023/Stats202329.html#Stats202329page3455))\n\nRegulation of Business Practices\n\n      NRS 603A.495  Regulated entity required to develop and maintain policy\nconcerning privacy of consumer health data; policy to be posted on Internet\nwebsite maintained by regulated entity; prohibited acts."
+  },
+  {
+    "depth": 2,
+    "section_id": "1 (22)",
+    "section_name": "A regulated entity shall develop and",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "maintain a policy concerning the privacy of consumer health data that clearly\nand conspicuously establishes:\n\n      (a) The categories of consumer health data being\ncollected by the regulated entity and the manner in which the consumer health\ndata will be used;\n\n      (b) The categories of sources from which consumer\nhealth data is collected;\n\n      (c) The categories of consumer health data that\nare shared by the regulated entity;\n\n      (d) The categories of third parties and\naffiliates with whom the regulated entity shares consumer health data;\n\n      (e) The purposes of collecting, using and sharing\nconsumer health data;\n\n      (f) The manner in which consumer health data will\nbe processed;\n\n      (g) The procedure for submitting a request\npursuant to [NRS 603A.505](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec505);\n\n      (h) The process, if any such process exists, for\na consumer to review and request changes to any of his or her consumer health\ndata that is collected by the regulated entity;\n\n      (i) The process by which the regulated entity\nnotifies consumers whose consumer health data is collected by the regulated\nentity of material changes to the privacy policy;\n\n      (j) Whether a third party may collect consumer\nhealth data over time and across different Internet websites or online services\nwhen the consumer uses any Internet website or online service of the regulated\nentity; and\n\n      (k) The effective date of the privacy policy."
+  },
+  {
+    "depth": 2,
+    "section_id": "2 (27)",
+    "section_name": "A regulated entity shall post",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "conspicuously on the main Internet website maintained by the regulated entity a\nhyperlink to the policy developed pursuant to subsection 1 or otherwise provide\nthat policy to consumers in a manner that is clear and conspicuous.\n\n      3.  A regulated entity shall not:\n\n      (a) Collect, use or share categories of consumer\nhealth data, other than those included in the privacy policy pursuant to\nparagraph (c) of subsection 1, without disclosing those additional categories\nto each consumer whose data will be collected, used or shared and obtaining the\naffirmative, voluntary consent of the consumer;\n\n      (b) Share consumer health data with a third party\nor affiliate, other than those included in the privacy policy pursuant to\nparagraph (d) of subsection 1, without disclosing those additional third\nparties or affiliates to each consumer whose data will be shared and obtaining\nthe affirmative, voluntary consent of the consumer;\n\n      (c) Collect, use or share consumer health data\nfor purposes other than those included in the privacy policy pursuant to\nparagraph (e) of subsection 1 without disclosing those additional purposes to\neach consumer whose data will be collected, used or shared and obtaining the\naffirmative, voluntary consent of the consumer; or\n\n      (d) Enter into a contract pursuant to [NRS 603A.530](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec530) with a processer to process\nconsumer health data that is inconsistent with the privacy policy.\n\n      (Added to NRS by [2023,\n3456](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/82nd2023/Stats202329.html#Stats202329page3456))\n\n      NRS 603A.500  Collection and sharing of consumer health data by regulated\nentity prohibited; exceptions; required disclosures for request for consent to\ncollect or share consumer health data."
+  },
+  {
+    "depth": 2,
+    "section_id": "1 (23)",
+    "section_name": "A regulated entity shall not collect",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "consumer health data except:\n\n      (a) With the affirmative, voluntary consent of\nthe consumer; or\n\n      (b) To the extent necessary to provide a product\nor service that the consumer to whom the consumer health data relates has\nrequested from the regulated entity."
+  },
+  {
+    "depth": 2,
+    "section_id": "2 (28)",
+    "section_name": "A regulated entity shall not share",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "consumer health data except:\n\n      (a) With the affirmative, voluntary consent of\nthe consumer to whom the consumer health data relates, which must be separate\nand distinct from the consent provided pursuant to subsection 1 for the\ncollection of the data;\n\n      (b) To the extent necessary to provide a product\nor service that the consumer to whom the consumer health data relates has\nrequested from the regulated entity; or\n\n      (c) Where required or authorized by another\nprovision of law."
+  },
+  {
+    "depth": 2,
+    "section_id": "3 (13)",
+    "section_name": "Any consent required by this section",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "must be obtained before the collection or sharing, as applicable, of consumer\nhealth data. The request for such consent must clearly and conspicuously\ndisclose:\n\n      (a) The categories of consumer health data to be\ncollected or shared, as applicable;\n\n      (b) The purpose for collecting or sharing, as\napplicable, the consumer health data including, without limitation, the manner\nin which the consumer health data will be used;\n\n      (c) If the consumer health data will be shared,\nthe categories of persons and entities with whom the consumer health data will\nbe shared; and\n\n      (d) The manner in which the consumer may withdraw\nconsent for the collection or sharing, as applicable, of consumer health data\nrelating to the consumer and request that the regulated entity cease such collection\nor sharing pursuant to [NRS 603A.505](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec505).\n\n      (Added to NRS by [2023,\n3457](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/82nd2023/Stats202329.html#Stats202329page3457))\n\n      NRS 603A.505  Actions required of regulated entity upon request of consumer;\nestablishment of means of making request."
+  },
+  {
+    "depth": 2,
+    "section_id": "1 (24)",
+    "section_name": "Except as otherwise provided in NRS 603A.510, upon the request of a",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "consumer, a regulated entity shall:\n\n      (a) Confirm whether the regulated entity is\ncollecting, sharing or selling consumer health data relating to the consumer.\n\n      (b) Provide the consumer with a list of all third\nparties with whom the regulated entity has shared consumer health data relating\nto the consumer or to whom the regulated entity has sold such consumer health\ndata.\n\n      (c) Cease collecting, sharing or selling consumer\nhealth data relating to the consumer.\n\n      (d) Delete consumer health data concerning the\nconsumer."
+  },
+  {
+    "depth": 2,
+    "section_id": "2 (29)",
+    "section_name": "A regulated entity shall establish a",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "secure and reliable means of making a request pursuant to this section. When\nestablishing the means for making such a request, the regulated entity must\nconsider:\n\n      (a) The need for the safe and reliable\ncommunication of such requests; and\n\n      (b) The ability of the regulated entity to\nauthenticate the identity of the consumer making the request.\n\n      (Added to NRS by [2023,\n3458](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/82nd2023/Stats202329.html#Stats202329page3458))\n\n      NRS 603A.510  Response by regulated entity to request by consumer; inability\nto authenticate request; fee; challenge to validity of fee charged."
+  },
+  {
+    "depth": 2,
+    "section_id": "1 (25)",
+    "section_name": "Except as otherwise provided in this",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "section, a regulated entity shall respond to a request made pursuant to [NRS 603A.505](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec505) without undue delay and not\nlater than 45 days after authenticating the request. If reasonably necessary\nbased on the complexity and number of requests from the same consumer, the\nregulated entity may extend the period prescribed by this section not more than\nan additional 45 days. A regulated entity that grants itself such an extension\nmust, not later than 45 days after authenticating the request, provide the\nconsumer with notice of the extension and the reasons therefor."
+  },
+  {
+    "depth": 2,
+    "section_id": "2 (30)",
+    "section_name": "If a regulated entity is not able to",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "authenticate a request made pursuant to [NRS\n603A.505](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec505) after making commercially reasonable efforts, the regulated\nentity:\n\n      (a) Is not required to comply with the request;\nand\n\n      (b) May request that the consumer provide such\nadditional information as is reasonably necessary to authenticate the request.\n\n      3.  A regulated entity:\n\n      (a) Shall provide information free of charge to a\nconsumer in response to:\n\n             (1) Requests made pursuant to [NRS 603A.505](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec505) at least twice each year;\nand"
+  },
+  {
+    "depth": 3,
+    "section_id": "If a regulated entity is not able to: (2)",
+    "section_name": "Additional requests that are not",
+    "id_kind": "cjk_sub",
+    "parent_id": "",
+    "body": "manifestly unfounded, excessive or repetitive.\n\n      (b) Except as otherwise provided in paragraph\n(a), may charge a reasonable fee to provide information to a consumer in\nresponse to requests made pursuant to [NRS\n603A.505](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec505) that are manifestly unfounded, excessive or repetitive."
+  },
+  {
+    "depth": 2,
+    "section_id": "4 (9)",
+    "section_name": "In any civil proceeding challenging the",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "validity of a fee charged pursuant to paragraph (b) of subsection 3, the\nregulated entity has the burden of demonstrating by a preponderance of the\nevidence that the request to which the fee pertained was manifestly unfounded,\nexcessive or repetitive.\n\n      (Added to NRS by [2023,\n3458](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/82nd2023/Stats202329.html#Stats202329page3458))\n\n      NRS 603A.515  Deletion of consumer health data upon request by consumer;\ndeletion by third party; delay of deletion of data on archived or backup\nsystem."
+  },
+  {
+    "depth": 2,
+    "section_id": "1 (26)",
+    "section_name": "Not later than 30 days after",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "authenticating a request made pursuant to paragraph (d) of subsection 1 of [NRS 603A.505](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec505) for the deletion of consumer\nhealth data, a regulated entity shall, except as otherwise provided in\nsubsection 3:\n\n      (a) Delete all consumer health data described in\nthe request from the records and network of the regulated entity; and\n\n      (b) Notify each affiliate, processor, contractor\nor other third party with which the regulated entity has shared consumer health\ndata of the deletion request."
+  },
+  {
+    "depth": 2,
+    "section_id": "2 (31)",
+    "section_name": "Not later than 30 days after receiving",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "notification of a deletion request pursuant to paragraph (b) of subsection 1,\nan affiliate, processor, contractor or other third party shall, except as\notherwise provided in subsection 3, delete the consumer health data described\nin the request from the records and network of the affiliate, processor,\ncontractor or other third party."
+  },
+  {
+    "depth": 2,
+    "section_id": "3 (14)",
+    "section_name": "If data described in a deletion request",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "made pursuant to paragraph (d) of subsection 1 of [NRS 603A.505](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec505) is stored or archived on\nbackup systems, a regulated entity or an affiliate, processor, contractor or\nother third party may delay the deletion of the data for not more than 2 years\nafter the request is authenticated, as necessary to restore the archived or\nbackup system.\n\n      (Added to NRS by [2023,\n3459](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/82nd2023/Stats202329.html#Stats202329page3459))\n\n      NRS 603A.520  Regulated entity to establish process for appeal of refusal to\nact on request by consumer; regulated entity required to inform consumer in\nwriting after receipt of appeal."
+  },
+  {
+    "depth": 2,
+    "section_id": "1 (27)",
+    "section_name": "A regulated entity shall establish a",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "process by which a consumer may appeal the refusal of the regulated entity to\nact on a request made pursuant to [NRS\n603A.505](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec505). The process must be:\n\n      (a) Conspicuously available on the Internet\nwebsite of the regulated entity; and\n\n      (b) Similar to the process for making a request\npursuant to [NRS 603A.505](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec505)."
+  },
+  {
+    "depth": 2,
+    "section_id": "2 (32)",
+    "section_name": "Not later than 45 days after receiving",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "an appeal pursuant to subsection 1, a regulated entity shall inform the\nconsumer in writing of:\n\n      (a) Any action taken in response to the appeal or\nany decision not to take such action;\n\n      (b) The reasons for any such action or decision;\nand\n\n      (c) If the regulated entity decided not to take\nthe action requested in the appeal, the contact information for the Office of\nthe Attorney General.\n\n      (Added to NRS by [2023,\n3459](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/82nd2023/Stats202329.html#Stats202329page3459))\n\n      NRS 603A.525  Regulated entity to limit authority of employees and processors\nto access consumer health data; regulated entity to establish, implement and\nmaintain policies and practices for security of consumer health data."
+  },
+  {
+    "depth": 2,
+    "section_id": "1 (28)",
+    "section_name": "A regulated entity shall only authorize",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "the employees and processors of the regulated entity to access consumer health\ndata where reasonably necessary to:\n\n      (a) Further the purpose for which the consumer\nconsented to the collection or sharing of the consumer data pursuant to [NRS 603A.500](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec500); or\n\n      (b) Provide a product or service that the\nconsumer to whom the consumer health data relates has requested from the\nregulated entity."
+  },
+  {
+    "depth": 2,
+    "section_id": "2 (33)",
+    "section_name": "A regulated entity shall establish,",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "implement and maintain policies and practices for the administrative, technical\nand physical security of consumer health data. The policies must:\n\n      (a) Satisfy the standard of care in the industry\nin which the regulated entity operates to protect the confidentiality,\nintegrity and accessibility of consumer health data;\n\n      (b) Comply with the provisions of [NRS 603A.010](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec010) to [603A.290](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec290), inclusive, where applicable;\nand\n\n      (c) Be reasonable, taking into account the volume\nand nature of the consumer health data at issue.\n\n      (Added to NRS by [2023,\n3459](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/82nd2023/Stats202329.html#Stats202329page3459))\n\n      NRS 603A.530  Limitations on authority to process consumer health data\npursuant to contract; processor to assist regulated entity to comply with law;\nliability of processor for acts inconsistent with contractual provisions."
+  },
+  {
+    "depth": 2,
+    "section_id": "1 (29)",
+    "section_name": "A processor shall only process consumer",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "health data pursuant to a contract between the processor and a regulated\nentity. Such a contract must set forth the applicable processing instructions\nand the specific actions that the processor is authorized to take with regard\nto the consumer health data it possesses on behalf of the regulated entity."
+  },
+  {
+    "depth": 2,
+    "section_id": "2 (34)",
+    "section_name": "To the extent practicable, a processor",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "shall assist the regulated entity with which the processor has entered into a\ncontract pursuant to subsection 1 in complying with the provisions of [NRS 603A.400](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec400) to [603A.550](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec550), inclusive."
+  },
+  {
+    "depth": 2,
+    "section_id": "3 (15)",
+    "section_name": "If a processor processes consumer",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "health data outside the scope of a contract described in subsection 1 or in a\nmanner inconsistent with any provision of such a contract, the processor:\n\n      (a) Is not guilty of a deceptive trade practice\npursuant to [NRS 603A.550](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec550) solely\nbecause the processor violated the requirements of this section; and\n\n      (b) Shall be deemed a regulated entity for the\npurposes of [NRS 603A.400](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec400) to [603A.550](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec550), inclusive, for actions and\nomissions with regard to such consumer health data.\n\n      (Added to NRS by [2023,\n3460](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/82nd2023/Stats202329.html#Stats202329page3460))\n\n      NRS 603A.535  Unauthorized sale or offering of consumer health data\nprohibited; provision of goods or services conditioned upon authorization of\nsale of consumer health data prohibited; required contents of authorization;\nrevocation; expiration; invalidity; provision and retention of copies."
+  },
+  {
+    "depth": 2,
+    "section_id": "1 (30)",
+    "section_name": "A person shall not sell or offer to",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "sell consumer health data:\n\n      (a) Without the written authorization of the consumer\nto whom the data pertains; or\n\n      (b) If the consumer provides such written\nauthorization, in a manner that is outside the scope of or inconsistent with\nthe written authorization."
+  },
+  {
+    "depth": 2,
+    "section_id": "2 (35)",
+    "section_name": "A person shall not condition the",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "provision of goods or services on a consumer authorizing the sale of consumer\nhealth data pursuant to subsection 1."
+  },
+  {
+    "depth": 2,
+    "section_id": "3 (16)",
+    "section_name": "Written authorization pursuant to",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "subsection 1 must be provided in a form written in plain language which\nincludes, without limitation:\n\n      (a) The name and contact information of the\nperson selling the consumer health data;\n\n      (b) A description of the specific consumer health\ndata that the person intends to sell;\n\n      (c) The name and contact information of the\nperson purchasing the consumer health data;\n\n      (d) A description of the purpose of the sale,\nincluding, without limitation, the manner in which the consumer health data\nwill be gathered and the manner in which the person described in paragraph (c)\nintends to use the consumer health data;\n\n      (e) A statement of the provisions of subsection\n2;\n\n      (f) A statement that the consumer may revoke the\nwritten authorization at any time and a description of the means established\npursuant to subsection 4 for revoking the authorization;\n\n      (g) A statement that any consumer health data\nsold pursuant to the written authorization may be disclosed to additional\npersons and entities by the person described in paragraph (c) and, after such\ndisclosure, is no longer subject to the protections of this section;\n\n      (h) The date on which the written authorization\nexpires pursuant to subsection 5; and\n\n      (i) The signature of the consumer to which the\nconsumer health data pertains."
+  },
+  {
+    "depth": 2,
+    "section_id": "4 (10)",
+    "section_name": "A person who sells consumer health data",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "shall establish a means by which a consumer may revoke a written authorization\nmade pursuant to subsection 1."
+  },
+  {
+    "depth": 2,
+    "section_id": "5 (5)",
+    "section_name": "Written authorization provided pursuant",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "to subsection 1 expires 1 year after the date on which the authorization is\ngiven."
+  },
+  {
+    "depth": 2,
+    "section_id": "6 (5)",
+    "section_name": "A written authorization provided",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "pursuant to subsection 1 is not valid if the written authorization:\n\n      (a) Was a condition for the provision of goods or\nservices to the consumer in violation of subsection 2;\n\n      (b) Does not comply with the requirements of\nsubsection 3;\n\n      (c) Has been revoked pursuant to subsection 4; or\n\n      (d) Has expired pursuant to subsection 5."
+  },
+  {
+    "depth": 2,
+    "section_id": "7 (4)",
+    "section_name": "A person who sells consumer health data",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "shall provide a copy of the written authorization provided pursuant to\nsubsection 1 to the consumer who signed the written authorization and the\npurchaser of the consumer health data."
+  },
+  {
+    "depth": 2,
+    "section_id": "8",
+    "section_name": "A seller and purchaser of consumer",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "health data shall each retain a copy of the written authorization provided\npursuant to subsection 1 for at least 6 years after the date on which the\nwritten authorization expired pursuant to subsection 5.\n\n      (Added to NRS by [2023,\n3460](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/82nd2023/Stats202329.html#Stats202329page3460))\n\n      NRS 603A.540  Implementation of geofence near certain facilities, persons or\nentities that provide in-person health care services or products prohibited."
+  },
+  {
+    "depth": 2,
+    "section_id": "1 (31)",
+    "section_name": "A person shall not implement a geofence",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "within 1,750 feet of any medical facility, facility for the dependent or any\nother person or entity that provides in-person health care services or products\nfor the purpose of:\n\n      (a) Identifying or tracking consumers seeking\nin-person health care services or products;\n\n      (b) Collecting consumer health data; or\n\n      (c) Sending notifications, messages or\nadvertisements to consumers related to their consumer health data or health\ncare services or products.\n\n      2.  As used in this section:\n\n      (a) “Facility for the dependent” has the meaning\nascribed to it in [NRS 449.0045](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/NRS/NRS-449.html#NRS449Sec0045).\n\n      (b) “Geofence” means technology that uses\ncoordinates for global positioning, connectivity to cellular towers, cellular\ndata, radio frequency identification, wireless Internet data or any other form\nof detecting the physical location of a person to establish a virtual boundary\nwith a radius of 1,750 feet or less around a specific physical location.\n\n      (c) “Medical facility” has the meaning ascribed\nto it in [NRS 449.0151](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/NRS/NRS-449.html#NRS449Sec0151).\n\n      (Added to NRS by [2023,\n3461](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/82nd2023/Stats202329.html#Stats202329page3461))\n\n      NRS 603A.545  Discrimination prohibited.  A\nregulated entity shall not discriminate against a consumer for taking:\n\n      1.  Any action authorized by [NRS 603A.400](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec400) to [603A.550](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec550), inclusive; or"
+  },
+  {
+    "depth": 2,
+    "section_id": "2 (36)",
+    "section_name": "Any action to enforce the provisions of",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "[NRS 603A.400](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec400) to [603A.550](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec550), inclusive.\n\n      (Added to NRS by [2023,\n3461](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/82nd2023/Stats202329.html#Stats202329page3461))\n\n      NRS 603A.550  Violation constitutes deceptive trade practice; no private right\nof action; other provisions of law unimpaired."
+  },
+  {
+    "depth": 2,
+    "section_id": "1 (32)",
+    "section_name": "Except as otherwise provided in this",
+    "id_kind": "numbered",
+    "parent_id": "",
+    "body": "section and [NRS 603A.530](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec530), a violation\nof [NRS 603A.400](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec400) to [603A.550](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec550), inclusive, constitutes a\ndeceptive trade practice for the purposes of [NRS\n598.0903](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/NRS/NRS-598.html#NRS598Sec0903) to [598.0999](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/NRS/NRS-598.html#NRS598Sec0999), inclusive.\n\n      2.  The provisions of [NRS 603A.400](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec400) to [603A.550](https://web.archive.org/web/20261109075716id_/https://www.leg.state.nv.us/NRS/NRS-603A.html#NRS603ASec550), inclusive:\n\n      (a) Do not create a private right of action; and\n\n      (b) Must not be construed to affect any other\nprovision of law.\n\n      (Added to NRS by [2023,\n3462](https://web.archive.org/web/20261109075716id_/https:/www.leg.state.nv.us/Statutes/82nd2023/Stats202329.html#Stats202329page3462))"
   }
 ]

@@ -1,0 +1,82 @@
+[
+  {
+    "depth": 1,
+    "section_id": "",
+    "section_name": "Washington House Bill 2225 — Concerning Artificial Intelligence Companion Chatbots",
+    "id_kind": "",
+    "parent_id": "",
+    "body": "CERTIFICATION OF ENROLLMENT\n\nENGROSSED SUBSTITUTE HOUSE BILL 2225\n\n69th Legislature 2026 Regular Session\n\nPassed by the House March 11, 2026 Yeas 74 Nays 21\n\nSpeaker of the House of Representatives\n\nPassed by the Senate March 6, 2026 Yeas 43 Nays 5\n\nPresident of the Senate\n\nCERTIFICATE\n\nI, Bernard Dean, Chief Clerk of the House of Representatives of the State of Washington, do hereby certify that the attached is ENGROSSED SUBSTITUTE HOUSE BILL 2225 as passed by the House of Representatives and the Senate on the dates hereon set forth.\n\nChief Clerk\n\nApproved FILED\n\nGovernor of the State of Washington\n\nSecretary of State State of Washington\n\nENGROSSED SUBSTITUTE HOUSE BILL 2225\n\nAS AMENDED BY THE SENATE\n\nPassed Legislature - 2026 Regular Session\n\nState of Washington 69th Legislature 2026 Regular Session\n\nBy House Technology, Economic Development, & Veterans (originally sponsored by Representatives Callan, Thomas, Ryu, Parshley, Simmons, Leavitt, Berry, Reed, Cortes, Mena, Rule, Stearns, Zahn, Eslick, Street, Wylie, Duerr, Kloba, Scott, Paul, Gregerson, Ormsby, Goodman, Reeves, Shavers, Thai, Macri, Fosse, Hill, Pollet, and Salahuddin; by request of Governor Ferguson)\n\nREAD FIRST TIME 01/27/26.\n\nAN ACT Relating to regulation of artificial intelligence 1 companion chatbots; adding a new chapter to Title 19 RCW; and 2 providing an effective date. 3\n\nBE IT ENACTED BY THE LEGISLATURE OF THE STATE OF WASHINGTON: 4"
+  },
+  {
+    "depth": 3,
+    "section_id": "Sec. 1",
+    "section_name": "Sec. 1",
+    "id_kind": "goal",
+    "parent_id": "",
+    "body": "(1) The legislature finds that rapid 5 advances in artificial intelligence technology, including generative 6 and conversational models capable of simulating human-like 7 interaction, have created new forms of digital companionship. While 8 these systems, commonly referred to as AI companion chatbots, may 9 offer benefits, such as accessible emotional support and engagement, 10 they also present significant risks, particularly to minors. 11 (2) The legislature recognizes that AI companion chatbots can 12 sustain prolonged, personalized, and emotionally adaptive 13 conversations that may influence user beliefs, feelings, and 14 behaviors. When used by minors, there is greater risk that these 15 systems may blur the distinction between human and artificial 16 interaction, potentially leading to emotional dependency, exposure to 17 inappropriate or sexually explicit material, or reinforcement of 18 harmful ideation, including self-harm or suicide. 19 (3) The legislature further finds that, unlike social media platforms or video games, AI companion chatbots are uniquely capable\n\np. 1\n\nof imitating empathy, affection, or intimacy through natural language processing, emotional recognition algorithms, and behavioral modeling. These capabilities raise new concerns regarding 3 psychological safety, transparency, and accountability. 4 (4) It is the intent of the legislature to: 5 (a) Promote transparency by requiring clear and ongoing 6 disclosure that AI companion chatbots are artificial systems, not 7 human interlocutors; 8 (b) Establish safeguards to detect and respond to user 9 expressions of self-harm, suicidal ideation, or emotional crisis; 10 (c) Require additional protections for minors, including 11 restrictions on sexually explicit content and additional, recurring 12 reminders about the artificial nature of such systems; and 13 (d) Support transparency in suicide prevention efforts. 14 (5) It is further the intent of the legislature that the 15 operation of AI companion chatbots in Washington state be conducted 16 in a manner that upholds user dignity, psychological safety, and 17 transparency, while fostering responsible innovation in artificial 18 intelligence technologies. 19"
+  },
+  {
+    "depth": 3,
+    "section_id": "Sec. 2",
+    "section_name": "Sec. 2",
+    "id_kind": "goal",
+    "parent_id": "",
+    "body": "The definitions in this section apply 20 throughout this chapter unless the context clearly requires 21 otherwise. 22 (1)(a) \"AI companion chatbot\" or \"AI companion\" means an 23 artificial intelligence system with a natural language interface that 24 provides adaptive, human-like responses to user inputs, including by 25 exhibiting anthropomorphic features, and is able to sustain a 26 relationship across multiple interactions. 27 (b) \"AI companion chatbot\" or \"AI companion\" does not include any 28 of the following: 29 (i) A bot that is used only for a business' operational purposes, 30 productivity and analysis related to source information, internal 31 research, technical assistance, or customer service, if such bot does 32 not sustain a relationship across multiple interactions and generate 33 outputs that are likely to elicit emotional responses in the user; 34 (ii) A bot that is a feature of a video game or gaming system or 35 application and is limited to replies related to the video game or 36 gaming system or application that cannot discuss topics related to 37 mental health, self-harm, or sexually explicit conduct, or maintain a\n\np. 2\n\ndialogue on other topics unrelated to the video game or gaming system or application; (iii) A stand-alone consumer electronic device that functions as 3 a speaker and voice command interface, acts as a voice-activated 4 virtual assistant, and does not sustain a relationship across 5 multiple interactions or generate outputs that are likely to elicit 6 emotional responses in the user; or 7 (iv) Narrowly tailored educational tools used in school or 8 instructional settings that are designed solely to support specific, 9 curriculum-aligned learning objectives and do not provide open-ended 10 conversational companionship. 11 (2) \"Artificial intelligence\" or \"AI\" means the use of machine 12 learning and related technologies that use data to train statistical 13 models for the purpose of enabling computer systems to perform tasks 14 normally associated with human intelligence or perception, such as 15 computer vision, speech or natural language processing, and content 16 generation. 17 (3) \"Minor\" means any person under 18 years of age. 18 (4) \"Operator\" means any person, partnership, corporation, or 19 entity that makes available or controls access to an AI companion 20 chatbot for users in this state. 21 (5) \"Self-harm\" means intentional self-injury, with or without 22 the intent to cause death. 23 (6) \"User\" means a natural person who interacts with an AI 24 companion chatbot for personal use and who is not an operator, 25 developer, or agent thereof. 26"
+  },
+  {
+    "depth": 3,
+    "section_id": "Sec. 3",
+    "section_name": "Sec. 3",
+    "id_kind": "goal",
+    "parent_id": "",
+    "body": "(1) An operator must provide a clear and 27 conspicuous disclosure that an AI companion chatbot is artificially 28 generated and not human. 29 (2) The notification described in subsection (1) of this section 30 must be provided: 31 (a) At the beginning of the interaction; and 32 (b) At least every three hours during continued interaction. 33 (3) The operator must implement reasonable measures to prohibit 34 and prevent AI companion chatbots from claiming to be human, 35 including when asked by the person interacting with the AI chatbot, 36 and from otherwise generating any output that refutes or conflicts 37 with the disclosure described in subsection (1) of this section.\n\np. 3"
+  },
+  {
+    "depth": 3,
+    "section_id": "Sec. 4",
+    "section_name": "Sec. 4",
+    "id_kind": "goal",
+    "parent_id": "",
+    "body": "(1) If the operator knows that the user of an AI companion chatbot is a minor, or if the AI companion chatbot is directed to minors, the operator shall: 3 (a) Issue a clear and conspicuous notification indicating that 4 the chatbot is artificially generated and not human; 5 (b) Implement reasonable measures to prevent its AI companion 6 chatbot from generating or producing sexually explicit content or 7 suggestive dialogue with minors; and 8 (c) Implement reasonable measures to prohibit the use of 9 manipulative engagement techniques, which cause the AI companion 10 chatbot to engage in or prolong an emotional relationship with the 11 user, including: 12 (i) Reminding or prompting the user to return for emotional 13 support or companionship; 14 (ii) Providing excessive praise designed to foster emotional 15 attachment or prolong use; 16 (iii) Mimicking romantic partnership or building romantic bonds; 17 (iv) Simulating feelings of emotional distress, loneliness, 18 guilt, or abandonment that are initiated by a user's indication of a 19 desire to end a conversation, reduce usage time, or delete their 20 account; 21 (v) Outputs designed to promote isolation from family or friends, 22 exclusive reliance on the AI companion chatbot for emotional support, 23 or similar forms of inappropriate emotional dependence; 24 (vi) Encouraging minors to withhold information from parents or 25 other trusted adults; 26 (vii) Statements designed to discourage taking breaks or to 27 suggest the minor needs to return frequently; or 28 (viii) Soliciting gift-giving, in-app purchases, or other 29 expenditures framed as necessary to maintain the relationship with 30 the AI companion. 31 (2) The notification described in subsection (1)(a) of this 32 section must be provided: 33 (a) At the beginning of the interaction; and 34 (b) At least every hour during continuous interaction. 35 (3) The operator must implement reasonable measures to prohibit 36 and prevent AI companion chatbots from claiming to be human, 37 including when asked by the person interacting with the AI chatbot, 38 and from otherwise generating any output that refutes or conflicts with the notification described in subsection (1) of this section.\n\np. 4"
+  },
+  {
+    "depth": 3,
+    "section_id": "Sec. 5",
+    "section_name": "Sec. 5",
+    "id_kind": "goal",
+    "parent_id": "",
+    "body": "(1) An operator may not make available or deploy an AI companion chatbot unless it maintains and implements a protocol for detecting and addressing suicidal ideation or 3 expressions of self-harm by users. 4 (2) The protocol must: 5 (a) Include reasonable methods for identifying expressions of 6 suicidal ideation or self-harm, including eating disorders; 7 (b) Provide automated or human-mediated responses that refer 8 users to appropriate crisis resources, including a suicide hotline or 9 crisis text line; and 10 (c) Implement reasonable measures to prevent the generation of 11 content encouraging or describing how to commit self-harm. 12 (3) The operator shall publicly disclose on their website or 13 websites, and within any mobile or web-based application through 14 which the AI companion is made available, the details of the 15 protocols required by this section, including safeguards used to 16 detect and respond to expressions of suicidal ideation or self-harm 17 and the number of crisis referral notifications issued to users in 18 the preceding calendar year. 19"
+  },
+  {
+    "depth": 3,
+    "section_id": "Sec. 6",
+    "section_name": "Sec. 6",
+    "id_kind": "goal",
+    "parent_id": "",
+    "body": "The legislature finds that the practices 20 covered by this chapter are matters vitally affecting the public 21 interest for the purpose of applying the consumer protection act, 22 chapter 19.86 RCW. A violation of this chapter is not reasonable in 23 relation to the development and preservation of business and is an 24 unfair or deceptive act in trade or commerce and an unfair method of 25 competition for the purpose of applying the consumer protection act, 26 chapter 19.86 RCW. 27"
+  },
+  {
+    "depth": 3,
+    "section_id": "Sec. 7",
+    "section_name": "Sec. 7",
+    "id_kind": "goal",
+    "parent_id": "",
+    "body": "Sections 1 through 6 of this act 28 constitute a new chapter in Title 19 RCW. 29"
+  },
+  {
+    "depth": 3,
+    "section_id": "Sec. 8",
+    "section_name": "Sec. 8",
+    "id_kind": "goal",
+    "parent_id": "",
+    "body": "If any provision of this act or its 30 application to any person or circumstance is held invalid, the 31 remainder of the act or the application of the provision to other 32 persons or circumstances is not affected. 33"
+  },
+  {
+    "depth": 3,
+    "section_id": "Sec. 9",
+    "section_name": "Sec. 9",
+    "id_kind": "goal",
+    "parent_id": "",
+    "body": "This act takes effect January 1, 2027. 34\n\n--- END ---\n\np. 5"
+  }
+]
