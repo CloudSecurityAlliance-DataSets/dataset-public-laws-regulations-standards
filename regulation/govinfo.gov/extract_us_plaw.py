@@ -36,6 +36,8 @@ def parse_md(md_path, slug=""):
     md = open(md_path, encoding="utf-8").read()
     md = re.sub(r"\{\d+\}-+", "", md)
     def _is_clerical_toc(m):
+        if m.group(2) in EXCLUDED_SECTIONS.get(slug, set()):
+            return False
         raw_line = m.group(0).strip()
         kw = m.group(1)
         rest = m.group(3).strip()
