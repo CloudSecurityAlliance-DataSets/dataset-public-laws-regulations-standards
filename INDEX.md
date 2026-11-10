@@ -21,12 +21,12 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | Type | structured | metadata-only | readme-only | empty | **Total** |
 |---|---:|---:|---:|---:|---:|
 | `control/` | 127 | 45 | — | — | **172** |
-| `regulation/` | 187 | 51 | — | 1 | **239** |
+| `regulation/` | 186 | 52 | — | 1 | **239** |
 | `weakness/` | 1 | 1 | — | — | **2** |
 | `ttp/` | 1 | 4 | — | — | **5** |
 | `methodology/` | 9 | — | — | — | **9** |
 | `reference/` | 415 | 294 | 4 | 6 | **719** |
-| **Total** | **740** | **395** | **4** | **7** | **1146** |
+| **Total** | **739** | **396** | **4** | **7** | **1146** |
 
 ## control/
 
@@ -209,7 +209,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 
 | Path | State | Files | Glyphs (MXJCSPI) | SecID |
 |---|---|---|---|---|
-| `regulation/adgm.com/data-protection-regulations/` | structured | 4 | `MX·CS··` | `secid:regulation/adgm.com/data-protection-regulations` |
+| `regulation/adgm.com/data-protection-regulations/` | metadata-only | 1 | `M······` | `secid:regulation/adgm.com/data-protection-regulations` |
 | `regulation/adilet.zan.kz/law-230-viii/` | structured | 4 | `MX·CS··` | `secid:regulation/adilet.zan.kz/law-230-viii` |
 | `regulation/alabama.gov/apdpa/` | structured | 4 | `MX·CS··` | `secid:regulation/alabama.gov/apdpa` |
 | `regulation/alberta.ca/hia/` | structured | 11 (+4 imgs) | `MX·CSPI` | `secid:regulation/alberta.ca/hia` |

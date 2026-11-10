@@ -26,7 +26,7 @@
   "links": {
     "wikipedia": "",
     "source": "https://www.adgm.com/operating-in-adgm/office-of-data-protection",
-    "textUsed": "https://assets.adgm.com/download/assets/ADGM+Brand+Book_2025.pdf/8dcd54d6356111f0aef28a0f7419fcea",
+    "textUsed": "",
     "csaLocation": ""
   },
   "lifecycle": {
@@ -37,27 +37,13 @@
     "retiredFromActiveUse": null,
     "notes": ""
   },
-  "current_extraction": {
-    "s3_timestamp": "2026-11-04T05-00-00Z",
-    "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py",
-    "tool_version": "1.0",
-    "extraction_host": "local",
-    "flags": [],
-    "force_ocr": false,
-    "notes": "Extracted official regulation (https://assets.adgm.com/download/assets/ADGM+Brand+Book_2025.pdf/8dcd54d6356111f0aef28a0f7419fcea) to Markdown (6,811 chars). Parsed 37 sections (8 with explicit section identifiers)."
-  },
-  "extraction_history": [
-    {
-      "s3_timestamp": "2026-11-04T05-00-00Z",
-      "status": "current",
-      "reason": "Track 2 National Security & Cybersecurity Strategy corpus extraction (#131)",
-      "tool": "pymupdf + tools-resources/utils/parse_regulatory_sections.py"
-    }
-  ],
+  "current_extraction": null,
+  "extraction_history": [],
   "scope": {},
   "notes": "",
   "desired_end_state": {
-    "state": "extracted",
-    "reason": "regulation-doc"
+    "state": "metadata-only",
+    "reason": "status-page-only",
+    "notes": "Full text is hosted on the ADGM Thomson Reuters Rulebook portal (https://en.adgm.thomsonreuters.com/rulebook/data-protection-regulations-2021), which blocks automated retrieval (HTTP 403)."
   }
 }

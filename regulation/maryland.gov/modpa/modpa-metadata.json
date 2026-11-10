@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted official regulation (https://mgaleg.maryland.gov/2024RS/bills/sb/sb0541e.pdf) to Markdown (62,913 chars). Parsed 2 sections (1 with explicit section identifiers)."
+    "notes": "Extracted official regulation (https://mgaleg.maryland.gov/2024RS/bills/sb/sb0541e.pdf) to Markdown (63,086 chars). Parsed 16 sections (15 with explicit section identifiers)."
   },
   "extraction_history": [
     {

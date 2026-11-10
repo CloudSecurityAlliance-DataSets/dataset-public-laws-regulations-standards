@@ -1,6 +1,6 @@
 "depth","section_id","section_name","id_kind","parent_id","body"
 "1","","Utah SB 226 — Artificial Intelligence Consumer Protection Amendments","","","LONG TITLEGeneral Description:This bill enacts provisions related to the use of generative artificial intelligence in consumer transactions and regulated services.Highlighted Provisions:This bill:defines terms;requires certain disclosures when generative artificial intelligence is used in consumer transactions and regulated services;establishes liability for violations of consumer protection laws involving artificial intelligence;provides a safe harbor for certain disclosures;grants rulemaking and enforcement authority to the Division of Consumer Protection;establishes penalties for violations; andextends the repeal date of the Artificial Intelligence Policy Act.Money Appropriated in this Bill:NoneOther Special Clauses:This bill provides a special effective date.Utah Code Sections Affected:AMENDS:63I-2-213, Effective upon governor's approval as last amended by Laws of Utah 2024, Third Special Session, Chapter 5ENACTS:13-75-101, Effective 05/07/25 Utah Code Annotated 195313-75-102, Effective 05/07/25 Utah Code Annotated 195313-75-103, Effective 05/07/25 Utah Code Annotated 195313-75-104, Effective 05/07/25 Utah Code Annotated 195313-75-105, Effective 05/07/25 Utah Code Annotated 195313-75-106, Effective 05/07/25 Utah Code Annotated 1953REPEALS:13-2-12, Effective 05/07/25 as enacted by Laws of Utah 2024, Chapter 186"
-"4","","13-75-101Effective 05/07/25. Definitions.","","","As used in this chapter:
+"4","13-75-101","Effective 05/07/25. Definitions.","statute","","As used in this chapter:
 
 (1)""Artificial intelligence technology"" means the same as that term is defined in Section 13-72-101.
 
@@ -21,22 +21,22 @@
 (9)""State certification"" means a state-granted authorization that:(a)permits an individual to use the term ""state certified"" as part of a designated title related to a specified occupation:(i)based on the individual meeting personal qualifications established under state law; and(ii)where state law prohibits a noncertified individual from using the term ""state certified"" as part of a designated title; and(b)does not prohibit a noncertified individual from engaging in the occupation for compensation.
 
 (10)""Supplier"" means the same as that term is defined in Section 13-11-3."
-"4","","13-75-102Effective 05/07/25. Liability for violation of consumer protection law.","","","It is not a defense to the violation of any statute administered and enforced by the division under Section 13-2-1 that generative artificial intelligence:
+"4","13-75-102","Effective 05/07/25. Liability for violation of consumer protection law.","statute","","It is not a defense to the violation of any statute administered and enforced by the division under Section 13-2-1 that generative artificial intelligence:
 
 (1)made the violative statement;
 
 (2)undertook the violative act; or
 
 (3)was used in furtherance of the violation."
-"4","","13-75-103Effective 05/07/25. Required disclosures.","","","(1)(a)A supplier that uses generative artificial intelligence to interact with an individual in connection with a consumer transaction shall disclose to the individual that the individual is interacting with generative artificial intelligence and not a human, if the individual asks or otherwise prompts the supplier about whether artificial intelligence is being used.(b)The individual's prompt or question under Subsection (1)(a) must be a clear and unambiguous request to determine whether the interaction is with a human or with artificial intelligence.
+"4","13-75-103","Effective 05/07/25. Required disclosures.","statute","","(1)(a)A supplier that uses generative artificial intelligence to interact with an individual in connection with a consumer transaction shall disclose to the individual that the individual is interacting with generative artificial intelligence and not a human, if the individual asks or otherwise prompts the supplier about whether artificial intelligence is being used.(b)The individual's prompt or question under Subsection (1)(a) must be a clear and unambiguous request to determine whether the interaction is with a human or with artificial intelligence.
 
 (2)An individual providing services in a regulated occupation shall:(a)prominently disclose when an individual receiving services is interacting with generative artificial intelligence in the provision of regulated services if the use of generative artificial intelligence constitutes a high-risk artificial intelligence interaction; and(b)comply with all requirements of the regulated occupation when providing services through generative artificial intelligence.
 
 (3)A disclosure required under Subsection (2) shall be provided:(a)verbally at the start of a verbal interaction; and(b)in writing before the start of a written interaction."
-"4","","13-75-104Effective 05/07/25. Safe harbor.","","","(1)A person is not subject to an enforcement action for violating Section 13-75-103 if the person's generative artificial intelligence clearly and conspicuously discloses:(a)at the outset of any interaction with an individual in connection with:(i)a consumer transaction; or(ii)the provision of regulated services; and(b)throughout the interaction that it:(i)is generative artificial intelligence;(ii)is not human; or(iii)is an artificial intelligence assistant.
+"4","13-75-104","Effective 05/07/25. Safe harbor.","statute","","(1)A person is not subject to an enforcement action for violating Section 13-75-103 if the person's generative artificial intelligence clearly and conspicuously discloses:(a)at the outset of any interaction with an individual in connection with:(i)a consumer transaction; or(ii)the provision of regulated services; and(b)throughout the interaction that it:(i)is generative artificial intelligence;(ii)is not human; or(iii)is an artificial intelligence assistant.
 
 (2)In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the division in consultation with the office, may make rules specifying forms and methods of disclosure that:(a)satisfy the requirements of Subsection (1); or(b)do not satisfy the requirements of Subsection (1)."
-"4","","13-75-105Effective 05/07/25. Enforcement.","","","(1)A violation of this chapter constitutes a violation of Subsection 13-11-4(1).
+"4","13-75-105","Effective 05/07/25. Enforcement.","statute","","(1)A violation of this chapter constitutes a violation of Subsection 13-11-4(1).
 
 (2)The division shall administer and enforce this chapter in accordance with Chapter 2, Division of Consumer Protection.
 
@@ -49,7 +49,7 @@
 (6)If a court of competent jurisdiction grants judgment or injunctive relief to the division, the court shall award the division:(a)reasonable attorney fees;(b)court costs; and(c)investigative fees.
 
 (7)(a)A person who violates an administrative or court order issued for a violation of this chapter is subject to a civil penalty of up to $5,000 for each violation.(b)The attorney general may impose a civil penalty authorized under this section in any civil action brought on behalf of the division."
-"4","","13-75-106Effective 05/07/25. Scope.","","","This chapter does not displace any other remedy or right authorized under:
+"4","13-75-106","Effective 05/07/25. Scope.","statute","","This chapter does not displace any other remedy or right authorized under:
 
 (1)the laws of this state; or
 
