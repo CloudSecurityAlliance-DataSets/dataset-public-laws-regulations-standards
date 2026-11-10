@@ -26,11 +26,11 @@
   "links": {
     "wikipedia": "",
     "source": "https://www.legislation.gov.uk/ukpga/2026/20/contents",
-    "textUsed": "https://www.legislation.gov.uk/ukpga/2025/28/data.xml",
+    "textUsed": "https://www.legislation.gov.uk/ukpga/2026/20/data.xml",
     "csaLocation": ""
   },
   "lifecycle": {
-    "published": "2026-01-01",
+    "published": "",
     "active": true,
     "supersedes": null,
     "supersededBy": null,
@@ -41,7 +41,7 @@
     "date": "2026-11-10",
     "tool": "uk-clml-xml + tools-resources/utils/parse_regulatory_sections.py",
     "s3_archive_path": "",
-    "notes": "Extracted official regulation (https://www.legislation.gov.uk/ukpga/2025/28/data.xml) to Markdown (242,461 chars). Parsed 183 sections (164 with explicit section identifiers)."
+    "notes": "Extracted official regulation (https://www.legislation.gov.uk/ukpga/2026/20/data.xml) to Markdown (1,925,791 chars). Parsed 711 sections (626 with explicit section identifiers)."
   },
   "extraction_history": [
     {

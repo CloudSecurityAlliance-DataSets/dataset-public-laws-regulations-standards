@@ -30,7 +30,7 @@
     "csaLocation": ""
   },
   "lifecycle": {
-    "published": "2023-01-01",
+    "published": "",
     "active": true,
     "supersedes": null,
     "supersededBy": null,
@@ -41,7 +41,7 @@
     "date": "2026-11-10",
     "tool": "uk-clml-xml + tools-resources/utils/parse_regulatory_sections.py",
     "s3_archive_path": "",
-    "notes": "Extracted official regulation (https://www.legislation.gov.uk/ukpga/2023/50/data.xml) to Markdown (639,431 chars). Parsed 311 sections (310 with explicit section identifiers)."
+    "notes": "Extracted official regulation (https://www.legislation.gov.uk/ukpga/2023/50/data.xml) to Markdown (754,624 chars). Parsed 311 sections (310 with explicit section identifiers)."
   },
   "extraction_history": [
     {

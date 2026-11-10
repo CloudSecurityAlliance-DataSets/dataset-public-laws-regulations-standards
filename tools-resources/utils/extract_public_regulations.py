@@ -371,7 +371,7 @@ def parse_uk_clml_xml(xml_bytes: bytes, doc_title: str) -> str:
                 lines.append("")
                 s_body = " ".join("".join(sched.itertext()).split())
                 if s_body:
-                    lines.append(s_body[:4000])
+                    lines.append(s_body)
                     lines.append("")
     return "\n".join(lines).strip() + "\n"
 
@@ -956,16 +956,13 @@ def fetch_and_convert_regulation(rel_slug: str, orig_url: str, doc_title: str) -
 
 
 def derive_verified_published_date(*texts: str) -> str:
-    """Extract a verified 4-digit year (1970..2029) or YYYY-MM-DD date from name/url/title/description, or return empty string."""
+    """Extract an explicit YYYY-MM-DD date from name/url/title/description, or return empty string (never synthesize -01-01)."""
     for t in texts:
         if not t:
             continue
         m_iso = re.search(r"\b(19[7-9]\d|20[0-2]\d)-(0[1-9]|1[0-2])-(0[1-9]|[12]\d|3[01])\b", t)
         if m_iso:
             return m_iso.group(0)
-        m_yr = re.search(r"(?:^|[^0-9])(19[7-9]\d|20[0-2]\d)(?:[^0-9]|$)", t)
-        if m_yr:
-            return f"{m_yr.group(1)}-01-01"
     return ""
 
 

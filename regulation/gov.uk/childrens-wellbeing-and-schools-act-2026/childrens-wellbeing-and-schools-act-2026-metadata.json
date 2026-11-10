@@ -30,7 +30,7 @@
     "csaLocation": ""
   },
   "lifecycle": {
-    "published": "2026-01-01",
+    "published": "",
     "active": true,
     "supersedes": null,
     "supersededBy": null,
@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted official regulation (https://www.legislation.gov.uk/ukpga/2026/21/data.xml) to Markdown (1,061,995 chars). Parsed 343 sections (282 with explicit section identifiers)."
+    "notes": "Extracted official regulation (https://www.legislation.gov.uk/ukpga/2026/21/data.xml) to Markdown (1,071,830 chars). Parsed 343 sections (282 with explicit section identifiers)."
   },
   "extraction_history": [
     {
