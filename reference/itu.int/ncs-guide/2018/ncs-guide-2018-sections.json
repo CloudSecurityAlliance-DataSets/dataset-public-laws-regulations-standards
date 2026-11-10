@@ -65,7 +65,7 @@
   },
   {
     "depth": 3,
-    "section_id": "3.5.3",
+    "section_id": "Foreword: 3.5.3",
     "section_name": "Evaluating the outcomes of the Strategy 27",
     "id_kind": "numbered",
     "parent_id": "",
@@ -81,7 +81,7 @@
   },
   {
     "depth": 3,
-    "section_id": "5.7.4",
+    "section_id": "Foreword: 5.7.4",
     "section_name": "Align domestic and international cybersecurity efforts 50",
     "id_kind": "numbered",
     "parent_id": "",
@@ -337,7 +337,7 @@
   },
   {
     "depth": 4,
-    "section_id": "3.5.3.5.3",
+    "section_id": "Phase III: 3.5.3",
     "section_name": "Evaluating the outcomes of the Strategy",
     "id_kind": "numbered",
     "parent_id": "3.5",
@@ -745,7 +745,7 @@
   },
   {
     "depth": 4,
-    "section_id": "5.7.5.7.4",
+    "section_id": "5.7.4",
     "section_name": "Align domestic and international cybersecurity efforts",
     "id_kind": "numbered",
     "parent_id": "5.7",

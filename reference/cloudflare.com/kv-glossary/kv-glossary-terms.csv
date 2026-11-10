@@ -1,0 +1,4 @@
+term,definition,source_anchor,notes
+cacheTtl,CacheTtl is a parameter that defines the length of time in seconds that a KV result is cached in the global network location it is accessed from.,https://developers.cloudflare.com/kv/glossary/#cachettl,
+KV namespace,A KV namespace is a key-value database replicated to Cloudflare’s global network. A KV namespace must require a binding and an id.,https://developers.cloudflare.com/kv/glossary/#kv-namespace,
+metadata,A metadata is a serializable value you append to each KV entry.,https://developers.cloudflare.com/kv/glossary/#metadata,

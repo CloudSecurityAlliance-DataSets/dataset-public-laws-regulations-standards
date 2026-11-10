@@ -1,0 +1,31 @@
+{
+  "secid": "secid:control/polishapi.org/polishapi",
+  "name": "PolishAPI",
+  "acronym": "PolishAPI",
+  "version": "",
+  "owner": "Polish banking-industry consortium",
+  "type": "Standard",
+  "description": "PolishAPI — the Polish Open Banking technical and security specification implementing PSD2 in Poland.",
+  "relationToCloudSecurity": "",
+  "relationToAISecurity": "",
+  "license": {
+    "spdx": "LicenseRef-Publisher-Restricted",
+    "redistribution": "prohibited",
+    "derivatives": "prohibited_without_license",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.polishapi.org",
+    "notes": "Mostly free. Publicly accessible web resource with no login required (Tier 2 of Kurt Seifried 2026-11-09 4-tier hosting rule: open-web no-login content is mirrored in the public dataset repository with attribution)."
+  },
+  "links": {
+    "source": "https://www.polishapi.org",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "active": true,
+    "supersedes": "",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "When CSA acquires a licensed copy, promote into a versioned subdir."
+  },
+  "notes": "Authored 2026-05-14. Stub-only — awaiting CSA's licensed copy (or, where mostly-free, awaiting license-verification per the public-repo TODO list)."
+}

@@ -5,26 +5,26 @@
   "alternate_names": [],
   "version": "",
   "publication_id": "",
-  "owner": "",
+  "owner": "Bitsight Technologies, Inc.",
   "type": "Reference",
   "subtype": [
     "glossary"
   ],
-  "description": "Bitsight Cybersecurity Glossary",
-  "relationToCloudSecurity": "",
-  "relationToAISecurity": "",
+  "description": "Bitsight Cybersecurity Glossary — 119 terms across attack-surface management, cyber-risk scoring, vendor risk, and security ratings vocabulary. Tightly aligned with Bitsight's security-rating product domain.",
+  "relationToCloudSecurity": "Indirect — many terms apply broadly (attack surface, security posture, vendor risk); some are Bitsight-product-flavored.",
+  "relationToAISecurity": "Minimal — pre-AI risk-rating vocabulary.",
   "license": {
     "spdx": "LicenseRef-Vendor-Copyright",
     "redistribution": "not_permitted_without_authorization",
     "derivatives": "not_permitted_without_authorization",
-    "publicly_redistributable": false,
+    "publicly_redistributable": true,
     "license_text_url": "",
-    "notes": "Vendor marketing content \u2014 copyright Bitsight"
+    "notes": "Vendor marketing content — copyright Bitsight. Internal CSA use only — extracted derivatives are not redistributable. Publicly accessible web resource with no login required (Tier 2 of Kurt Seifried 2026-11-09 4-tier hosting rule: open-web no-login content is mirrored in the public dataset repository with attribution)."
   },
   "links": {
     "wikipedia": "",
     "source": "https://www.bitsight.com/glossary",
-    "textUsed": "",
+    "textUsed": "https://www.bitsight.com/glossary",
     "csaLocation": ""
   },
   "lifecycle": {
@@ -36,13 +36,13 @@
     "notes": ""
   },
   "current_extraction": {
-    "s3_timestamp": "unknown",
-    "tool": "n/a (stub)",
-    "tool_version": "n/a",
-    "extraction_host": "n/a",
+    "s3_timestamp": "2026-05-21T00-00-00Z",
+    "tool": "extract_cybersecurity_glossary.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
     "flags": [],
     "force_ocr": null,
-    "notes": "Metadata-only stub from glossary research sweep 2026-05-21. Source extraction not yet attempted."
+    "notes": "Two-stage fetch: (1) tools-resources/utils/playwright_fetch.py captured the JS-hydrated index page (auto mode, networkidle + 8s dwell) into .source-cache.html; (2) the extractor parses 119 .definition-block deep-link URLs from that cache, then politely fetches each per-term page (1.5s delay) and extracts the term's article > first <p>. Per-term pages are plain server-rendered HTML, no JS / no anti-bot."
   },
   "extraction_history": [
     {
@@ -50,13 +50,21 @@
       "status": "stub",
       "reason": "Initial metadata stub created from glossary research sweep",
       "tool": "n/a"
+    },
+    {
+      "s3_timestamp": "2026-05-21T00-00-00Z",
+      "status": "structured",
+      "reason": "Extracted via requests + BeautifulSoup per PROCESSING-GLOSSARIES.md workflow",
+      "tool": "extract_cybersecurity_glossary.py"
     }
   ],
-  "scope": {},
-  "notes": "Metadata-only stub from glossary research sweep 2026-05-21. Source extraction not yet attempted.",
+  "scope": {
+    "terms_extracted": 119
+  },
+  "notes": "First demonstration of the hub-harvest + per-term-page-fetch pattern documented in PROCESSING-GLOSSARIES.md. Reusable for other JS-rendered SPAs where the index hydrates but content lives on per-term pages (Forescout, F5, etc. follow the same architecture). Re-run sequence: re-capture index via playwright_fetch.py, then re-run this script.",
   "desired_end_state": {
     "state": "metadata-only",
     "reason": "licensed",
-    "notes": "Vendor-copyrighted glossary; redistribution not permitted without authorization. Stub here is the public-dataset's complete representation \u2014 the structured terms (if extracted) live in the companion private repo dataset-private-laws-regulations-standards. No public-side gap."
+    "notes": "Vendor-copyrighted glossary; redistribution not permitted without authorization. Stub here is the public-dataset's complete representation — the structured terms (if extracted) live in the companion private repo dataset-private-laws-regulations-standards. No public-side gap."
   }
 }

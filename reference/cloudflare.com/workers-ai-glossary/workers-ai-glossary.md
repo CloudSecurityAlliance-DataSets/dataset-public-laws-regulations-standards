@@ -1,0 +1,91 @@
+# Workers Ai Glossary
+
+Source: https://developers.cloudflare.com/workers-ai/platform/glossary/
+Markdown alternate (used by the extractor): https://developers.cloudflare.com/workers-ai/platform/glossary/index.md
+
+License: LicenseRef-Vendor-Copyright (Cloudflare, Inc.; internal CSA use only — not redistributable).
+
+Extracted: 20 terms.
+
+---
+
+## AI models
+
+An AI model is a trained system that processes input data to generate predictions, decisions, or outputs based on patterns it has learned.
+
+## API Tokens
+
+API Tokens are authentication credentials used to securely access and manage Workers AI resources via the REST API.
+
+## Cloudflare Dashboard
+
+Cloudflare Dashboard is a web-based interface that allows users to manage Workers AI services, including model deployment and monitoring.
+
+## Context Window
+
+In generative AI, the context window is the sum of the number of input, reasoning, and completion or response tokens a model supports. You can find the context window limit on each model page.
+
+## D1
+
+D1 is Cloudflare's managed, serverless database with SQLite's SQL semantics, built-in disaster recovery, and Worker and HTTP API access.
+
+## Environment Variables
+
+Environment Variables are dynamic values that can be used within Workers to manage configuration settings, including those related to AI integrations.
+
+## Fine-Tuning
+
+Fine-Tuning is a general term for modifying an AI model by continuing to train it with additional data.
+
+## Function Calling
+
+Function Calling enables people to take Large Language Models (LLMs) and use the model response to execute functions or interact with external APIs.
+
+## Inference
+
+Inference refers to the process of using a trained machine learning model to make predictions or generate outputs based on new data.
+
+## LoRA Adapters
+
+LoRA Adapters (Low-Rank Adaptation adapters) are used in machine learning to fine-tune models efficiently by adjusting a small number of parameters, allowing for customization of AI models in Workers AI.Public LoRA Adapters are pre-trained Low-Rank Adaptation adapters available for public use.
+
+## Maximum Tokens
+
+In generative AI, the user-defined property max\_tokens defines the maximum number of tokens at which the model should stop responding. This limit cannot exceed the context window.
+
+## Model Catalog
+
+Model Catalog is a curated collection of AI models available within Workers AI, providing developers with a variety of pre-trained models for different tasks.
+
+## Prompt Engineering
+
+Prompt Engineering is the practice of designing and refining input prompts to effectively elicit desired responses from AI models.
+
+## Prompt Templates
+
+Prompt Templates are predefined structures that guide the input provided to AI models, enhancing consistency and effectiveness in responses.
+
+## REST API
+
+REST API is an application programming interface that allows developers to interact with Workers AI services over HTTP, enabling model management and inference requests.
+
+## Serverless GPUs
+
+Serverless GPUs are graphics processing units provided by Cloudflare in a serverless environment, enabling scalable and efficient execution of machine learning models without the need for managing underlying hardware.
+
+## Worker Bindings
+
+Worker Bindings are configurations that connect Workers scripts to external resources, such as AI models, enabling seamless integration and functionality.
+
+## Workers AI
+
+Workers AI is a Cloudflare service that enables running machine learning models on Cloudflare's global network, utilizing serverless GPUs. It allows developers to integrate AI capabilities into their applications using Workers, Pages, or via the REST API.
+
+## Workers KV
+
+Workers KVis a data storage that allows you to store and retrieve data globally.
+
+## Wrangler CLI
+
+Wrangler CLI is a command-line tool for building and deploying Cloudflare Workers, facilitating the integration of AI models into applications.
+

@@ -17,9 +17,9 @@
     "spdx": "LicenseRef-Vendor-Copyright",
     "redistribution": "not_permitted_without_authorization",
     "derivatives": "not_permitted_without_authorization",
-    "publicly_redistributable": false,
+    "publicly_redistributable": true,
     "license_text_url": "",
-    "notes": "Cloudflare, Inc. copyright. Public stub only; structured extraction lives in the private dataset companion repo (gated CSA access)."
+    "notes": "Cloudflare, Inc. copyright. Internal CSA use only — extracted derivatives are not redistributable. Publicly accessible web resource with no login required (Tier 2 of Kurt Seifried 2026-11-09 4-tier hosting rule: open-web no-login content is mirrored in the public dataset repository with attribution)."
   },
   "links": {
     "wikipedia": "",
@@ -36,24 +36,26 @@
     "notes": "Rolling developer-documentation glossary."
   },
   "current_extraction": {
-    "s3_timestamp": "unknown",
-    "tool": "n/a (stub)",
-    "tool_version": "n/a",
-    "extraction_host": "n/a",
+    "s3_timestamp": "2026-05-21T00-00-00Z",
+    "tool": "extract_dns_glossary.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
     "flags": [],
     "force_ocr": null,
-    "notes": "Metadata-only stub. License prohibits public redistribution; the structured extraction is held in the private dataset companion repo (dataset-private-laws-regulations-standards) and exposed only via the planned authenticated SecID resolver."
+    "notes": "Fetched the markdown alternate at .../glossary/index.md (returned by Cloudflare developer-docs as text/markdown). Parsed via tools-resources/utils/cloudflare_glossary.py which auto-detects table vs. heading-based layouts."
   },
   "extraction_history": [
     {
       "s3_timestamp": "2026-05-21T00-00-00Z",
-      "status": "stub",
-      "reason": "Stub created on the public side to mirror the private-repo structured extraction. Discovered via developers.cloudflare.com/llms.txt index, 2026-05-21.",
-      "tool": "n/a"
+      "status": "structured",
+      "reason": "First extraction; SecID match_node added as part of the 2026-05-21 Cloudflare per-product glossary batch",
+      "tool": "extract_dns_glossary.py"
     }
   ],
-  "scope": {},
-  "notes": "Mirror-stub for a Cloudflare developer-docs per-product glossary documented in PROCESSING-GLOSSARIES.md (dataset-private repo). Public-side metadata only; no term content held here.",
+  "scope": {
+    "terms_extracted": 14
+  },
+  "notes": "Cloudflare developer-documentation per-product glossary. Authored from scratch in this private repo because the SecID match_node was added as part of the 2026-05-21 batch (no pre-existing public-repo stub to mirror from). Public-repo metadata stub creation is a follow-up under the mirror-stub architecture documented in PROCESSING-GLOSSARIES.md.",
   "desired_end_state": {
     "state": "structured",
     "reason": "glossary"

@@ -98,6 +98,8 @@ def parse_heading(text: str):
     cleaned = clean_heading_text(text)
     if len(cleaned) > 310:
         return "", cleaned, ""
+    if re.search(r"(?:\.\s*){3,}\d+\s*$", cleaned):
+        return "", cleaned, ""
     for pat, kind in ID_PATTERNS:
         m = pat.match(cleaned)
         if m:
@@ -388,6 +390,9 @@ def main():
             sid = r["section_id"]
             pid = r["parent_id"]
             if pid and pid != sid:
+                base_pid = re.sub(r"\s*\(\d+\)$", "", pid.split(": ")[-1])
+                if sid.startswith(f"{base_pid}.") or sid.startswith(f"{base_pid} "):
+                    continue
                 if re.match(r"^(?:[IVX]+|\d+(?:\.\d+)*)$", pid) and re.match(r"^\d+(?:\.\d+)*$", sid):
                     r["section_id"] = f"{pid}.{sid}"
                 else:

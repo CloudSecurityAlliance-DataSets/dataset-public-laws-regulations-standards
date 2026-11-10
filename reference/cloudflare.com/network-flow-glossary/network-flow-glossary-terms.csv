@@ -1,0 +1,5 @@
+term,definition,source_anchor,notes
+flow data,"Represents records of communication between devices. There are a number of flow data protocols, such as NetFlow or sFlow.",https://developers.cloudflare.com/network-flow/glossary/#flow-data,
+NetFlow,Network protocol developed by Cisco to collect and monitor network traffic flow data.,https://developers.cloudflare.com/network-flow/glossary/#netflow,
+sampling,"In the context of Network Flow, sampling is the process of taking samples of packets for a specific period to identify potential attacks.",https://developers.cloudflare.com/network-flow/glossary/#sampling,
+sFlow,An industry standard packet sampling protocol to monitor network devices.,https://developers.cloudflare.com/network-flow/glossary/#sflow,

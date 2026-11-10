@@ -1,0 +1,31 @@
+{
+  "secid": "secid:control/openbanking.org.uk/read-write-api",
+  "name": "UK Open Banking Read/Write API Specification",
+  "acronym": "OB R/W API",
+  "version": "",
+  "owner": "Open Banking Limited (UK)",
+  "type": "Standard",
+  "description": "UK Open Banking Read/Write API Specification — the technical and security specifications for the UK Open Banking ecosystem. Security profile based on FAPI 1.0 Advanced.",
+  "relationToCloudSecurity": "",
+  "relationToAISecurity": "",
+  "license": {
+    "spdx": "LicenseRef-Publisher-Restricted",
+    "redistribution": "prohibited",
+    "derivatives": "prohibited_without_license",
+    "publicly_redistributable": true,
+    "license_text_url": "https://standards.openbanking.org.uk",
+    "notes": "Specifications mostly free; some certification materials paid/restricted. Publicly accessible web resource with no login required (Tier 2 of Kurt Seifried 2026-11-09 4-tier hosting rule: open-web no-login content is mirrored in the public dataset repository with attribution)."
+  },
+  "links": {
+    "source": "https://standards.openbanking.org.uk",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "active": true,
+    "supersedes": "",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "When CSA acquires a licensed copy, promote into a versioned subdir."
+  },
+  "notes": "Authored 2026-05-14. Stub-only — awaiting CSA's licensed copy (or, where mostly-free, awaiting license-verification per the public-repo TODO list)."
+}

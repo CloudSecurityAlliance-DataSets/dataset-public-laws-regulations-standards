@@ -5,26 +5,26 @@
   "alternate_names": [],
   "version": "",
   "publication_id": "",
-  "owner": "",
+  "owner": "Microsoft Corporation",
   "type": "Reference",
   "subtype": [
     "glossary"
   ],
-  "description": "MSRC Glossary",
-  "relationToCloudSecurity": "",
-  "relationToAISecurity": "",
+  "description": "Microsoft Security Response Center (MSRC) Glossary — vendor-published glossary of ~133 security terms used across Microsoft security advisories, CVE disclosures, and product security documentation. Maintained by the MSRC team.",
+  "relationToCloudSecurity": "Indirect — Microsoft-product-centric terminology, but covers identity (AD FS, Azure AD), authorization, and cloud-relevant primitives.",
+  "relationToAISecurity": "Includes AI-specific entries (AI Bug Bar, AI Safety) reflecting MSRC's expanding coverage of AI vulnerability disclosure.",
   "license": {
     "spdx": "LicenseRef-Vendor-Copyright",
     "redistribution": "not_permitted_without_authorization",
     "derivatives": "not_permitted_without_authorization",
-    "publicly_redistributable": false,
+    "publicly_redistributable": true,
     "license_text_url": "",
-    "notes": "Microsoft copyright, public web"
+    "notes": "Microsoft copyright. Internal CSA use only — extracted derivatives are not redistributable. Publicly accessible web resource with no login required (Tier 2 of Kurt Seifried 2026-11-09 4-tier hosting rule: open-web no-login content is mirrored in the public dataset repository with attribution)."
   },
   "links": {
     "wikipedia": "",
     "source": "https://www.microsoft.com/en-us/msrc/glossary",
-    "textUsed": "",
+    "textUsed": "https://www.microsoft.com/en-us/msrc/glossary",
     "csaLocation": ""
   },
   "lifecycle": {
@@ -33,16 +33,16 @@
     "supersedes": null,
     "supersededBy": null,
     "retiredFromActiveUse": null,
-    "notes": ""
+    "notes": "Rolling glossary maintained by MSRC."
   },
   "current_extraction": {
-    "s3_timestamp": "unknown",
-    "tool": "n/a (stub)",
-    "tool_version": "n/a",
-    "extraction_host": "n/a",
+    "s3_timestamp": "2026-05-21T00-00-00Z",
+    "tool": "extract_msrc_glossary.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
     "flags": [],
     "force_ocr": null,
-    "notes": "Metadata-only stub from glossary research sweep 2026-05-21. Source extraction not yet attempted."
+    "notes": "HTML fetched via requests with browser-realistic UA; parsed with BeautifulSoup. Anchored on <h4> elements inside <main>, with the following <p> as definition. Filtered short/empty placeholders. 133 terms extracted."
   },
   "extraction_history": [
     {
@@ -50,13 +50,20 @@
       "status": "stub",
       "reason": "Initial metadata stub created from glossary research sweep",
       "tool": "n/a"
+    },
+    {
+      "s3_timestamp": "2026-05-21T00-00-00Z",
+      "status": "structured",
+      "reason": "Extracted via requests + BeautifulSoup on h4+p AEM page layout",
+      "tool": "extract_msrc_glossary.py"
     }
   ],
-  "scope": {},
-  "notes": "Metadata-only stub from glossary research sweep 2026-05-21. Source extraction not yet attempted.",
+  "scope": {
+    "terms_extracted": 133
+  },
+  "notes": "Single-page AEM glossary with letter-section h2 markers and h4+p term entries. Synthetic source anchors generated from term slugs (page has no per-term IDs).",
   "desired_end_state": {
-    "state": "metadata-only",
-    "reason": "licensed",
-    "notes": "Vendor-copyrighted glossary; redistribution not permitted without authorization. Stub here is the public-dataset's complete representation \u2014 the structured terms (if extracted) live in the companion private repo dataset-private-laws-regulations-standards. No public-side gap."
+    "state": "structured",
+    "reason": "glossary"
   }
 }

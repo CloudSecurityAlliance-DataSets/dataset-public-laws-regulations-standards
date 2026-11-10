@@ -5,26 +5,26 @@
   "alternate_names": [],
   "version": "",
   "publication_id": "",
-  "owner": "",
+  "owner": "Cisco Systems, Inc.",
   "type": "Reference",
   "subtype": [
     "glossary"
   ],
-  "description": "Cisco Security Glossary",
-  "relationToCloudSecurity": "",
-  "relationToAISecurity": "",
+  "description": "Cisco Security Glossary — vendor-published security term reference covering ~462 entries from Cisco product documentation, with each entry tagged by applicable products and (where present) synonyms. Heavy on networking/firewall/VPN/IDS terminology consistent with Cisco's security portfolio.",
+  "relationToCloudSecurity": "Indirect — primarily network and on-prem security terminology, but many terms (VPN, NAT, IPsec, AAA) underpin cloud connectivity and hybrid architectures.",
+  "relationToAISecurity": "Minimal — predates AI-specific terminology; useful as a baseline networking glossary when cross-referencing AI-system network defenses.",
   "license": {
     "spdx": "LicenseRef-Vendor-Copyright",
     "redistribution": "not_permitted_without_authorization",
     "derivatives": "not_permitted_without_authorization",
-    "publicly_redistributable": false,
+    "publicly_redistributable": true,
     "license_text_url": "",
-    "notes": "Vendor product documentation \u2014 copyright Cisco"
+    "notes": "Vendor product documentation — copyright Cisco Systems, Inc. Internal CSA use only — extracted derivatives are not redistributable. Publicly accessible web resource with no login required (Tier 2 of Kurt Seifried 2026-11-09 4-tier hosting rule: open-web no-login content is mirrored in the public dataset repository with attribution)."
   },
   "links": {
     "wikipedia": "",
     "source": "https://www.cisco.com/c/en/us/td/docs/security/glossary/b_security_glossary_terms.html",
-    "textUsed": "",
+    "textUsed": "https://www.cisco.com/c/en/us/td/docs/security/glossary/b_security_glossary_terms.html",
     "csaLocation": ""
   },
   "lifecycle": {
@@ -33,16 +33,16 @@
     "supersedes": null,
     "supersededBy": null,
     "retiredFromActiveUse": null,
-    "notes": ""
+    "notes": "Rolling product-documentation glossary, updated alongside product releases."
   },
   "current_extraction": {
-    "s3_timestamp": "unknown",
-    "tool": "n/a (stub)",
-    "tool_version": "n/a",
-    "extraction_host": "n/a",
+    "s3_timestamp": "2026-05-21T00-00-00Z",
+    "tool": "extract_security_glossary.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
     "flags": [],
     "force_ocr": null,
-    "notes": "Metadata-only stub from glossary research sweep 2026-05-21. Source extraction not yet attempted."
+    "notes": "HTML fetched via requests with browser-realistic UA; parsed with BeautifulSoup. 462 .glossentry containers, each with h3.glossterm + .glossdef table; pulled the 'Definition' row and captured 'Synonym(s)' into notes when present. 1 duplicate removed (case-insensitive)."
   },
   "extraction_history": [
     {
@@ -50,13 +50,20 @@
       "status": "stub",
       "reason": "Initial metadata stub created from glossary research sweep",
       "tool": "n/a"
+    },
+    {
+      "s3_timestamp": "2026-05-21T00-00-00Z",
+      "status": "structured",
+      "reason": "Extracted via requests + BeautifulSoup on DITA glossentry/glossterm/glossdef structure",
+      "tool": "extract_security_glossary.py"
     }
   ],
-  "scope": {},
-  "notes": "Metadata-only stub from glossary research sweep 2026-05-21. Source extraction not yet attempted.",
+  "scope": {
+    "terms_extracted": 461
+  },
+  "notes": "Source is DITA-style structured HTML (glossentry/glossgroup/glossterm). Definition lives inside a key/value table; 'Products' and 'Synonym(s)' rows are also present — synonyms captured into the notes field, products dropped as they're Cisco-product-specific and not part of the term's meaning.",
   "desired_end_state": {
-    "state": "metadata-only",
-    "reason": "licensed",
-    "notes": "Vendor-copyrighted glossary; redistribution not permitted without authorization. Stub here is the public-dataset's complete representation \u2014 the structured terms (if extracted) live in the companion private repo dataset-private-laws-regulations-standards. No public-side gap."
+    "state": "structured",
+    "reason": "glossary"
   }
 }

@@ -1,0 +1,31 @@
+{
+  "secid": "secid:control/etsi.org/qsc",
+  "name": "ETSI ISG QSC — Quantum-Safe Cryptography",
+  "acronym": "ETSI QSC",
+  "version": "",
+  "owner": "European Telecommunications Standards Institute (ETSI)",
+  "type": "Standard",
+  "description": "ETSI ISG QSC deliverables — covering post-quantum cryptography migration, hybrid key exchange, and quantum-safe TLS/IPsec profiles.",
+  "relationToCloudSecurity": "",
+  "relationToAISecurity": "",
+  "license": {
+    "spdx": "LicenseRef-Publisher-Restricted",
+    "redistribution": "prohibited",
+    "derivatives": "prohibited_without_license",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.etsi.org/committee/cyber-qsc",
+    "notes": "Free download from etsi.org; ETSI retains copyright (same license posture as EN 303 645). Flagged in public-repo licensable-candidate list. Publicly accessible web resource with no login required (Tier 2 of Kurt Seifried 2026-11-09 4-tier hosting rule: open-web no-login content is mirrored in the public dataset repository with attribution)."
+  },
+  "links": {
+    "source": "https://www.etsi.org/committee/cyber-qsc",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "active": true,
+    "supersedes": "",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "When CSA acquires a licensed copy, promote into a versioned subdir."
+  },
+  "notes": "Authored 2026-05-14. Stub-only — awaiting CSA's licensed copy (or, where mostly-free, awaiting license-verification per the public-repo TODO list)."
+}

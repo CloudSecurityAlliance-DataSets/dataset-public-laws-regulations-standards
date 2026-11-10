@@ -1,0 +1,51 @@
+= Definitions, Glossary, Examples, and Explanations =
+
+We strive to use common and shared language when discussion security, risk, compliance, and our work in general.  This is in the spirit of [https://en.wikipedia.org/wiki/ISO_31000 ISO 31000]
+
+== General ==
+
+;Containment: Restrict communication of suspect systems, accounts or networks during an incident, in order to prevent the propagation of a compromise.
+;Decryption: Decryption is the process of transforming ciphertext (information unreadable to anyone without the key) into plaintext (information readable to anyone). This is completed by using the key along with the encryption algorithm in reverse.
+;Encryption: The process of transforming readable data (plaintext) into a form that is unreadable (cipher text) by all except the authorized person(s) possessing the correct key to decrypt the data.
+;Guideline: A document in support of policies, standards, and procedures containing general advice on the secure and responsible use of resources.  Adherence is not required or enforced, but is strongly recommended.
+;ID or User ID: A unique identifier assigned to a user, account or non-person entity.
+;Incident or IT Security Incident: A violation of the confidentiality, integrity, and/or availability of a company information resource. Disclosure, degradation, loss, and denial of data or the computing platform are the typical consequences of an incident.
+;Incident Response: Processes and procedures used to scope, contain and remediate an IT Security Incident and comply with any applicable legal obligations.
+;Log: A record of events that occur on a specific system.  This or file can be configured within the system to capture more or less data.
+;Penetration Test: The process of attempting to gain access to resources without knowledge of the software or access to the source code. The penetration test focuses on gaining access to critical assets or information.
+;Policy: A document which includes a concise set of requirements, rules or criteria, which influence and determine decisions and actions intended to manage key risks, usually describing "what" the requirements are, "why" they are required, and by "whom" they are to be implemented.
+;Procedure: A written set of steps to execute a policy through specific, prescribed actions; this is the "how" that a person or asset can be in compliance.  Procedures are more detailed than a policy.  They identify the method and state in a series of steps exactly how to accomplish an intended objective or requirement.
+;Remediation: Restoration of a compromised asset or service to normal operating capacity following an incident.
+;Standard: A mandatory action, explicit rules, requirements and/or configuration settings that are designed to support a policy area while ensuring acceptable levels of compliance. A standard will define accepted specifications for hardware, software, and/or behavior. 
+
+== Project Management ==
+;Requestor: An individual or group within the Wikimedia community who creates a task within [[Phabricator]] for a [[Wikimedia_Security_Team/Services|Security Service]]
+
+=== Tooling ===
+
+;Phabricator: Bug/Task tracking software used by Wikimedia Foundation and community
+
+== Vulnerability Management ==
+
+;Vulnerability: A weakness in a system that can be exploited by a threat.
+;Vulnerability Assessment:  A test of a software system with an emphasis on identifying areas of that system that are vulnerable to a computer attack.
+
+== Risk Management ==
+
+;Risk: The likelihood and impact of a '''threat''' exploiting a '''vulnerability'''.
+
+;Risk-Based Approach: The process for ensuring that important business decisions and behaviors remain within the overall risk appetite and acceptable risk tolerances.
+
+;Threat: Anything that can lead to damage or loss.
+
+;Vulnerability: A weakness or gap that can allow a '''threat''' to cause damage or loss.
+
+;Gap of Grief: The distance in understanding and prioritization between the technical and business focused elements of an organization.  This is often used when describing the need for translating security risks (esp technical) into business terms.[[https://www.youtube.com/watch?v=dl4y0Cfe9Lo 1]]
+
+=== Examples ===
+
+1.  Severe flooding from storms or heavy rain is a '''threat''' to property owners and people.  The structures and contents of many homes across the United States are '''vulnerable''' to damage or loss from flooding.  The '''risk''' of actual loss from flooding to property owners in dry, high-elevation areas usually is far less than the '''risk''' of those near rivers or other bodies of water prone to flooding.  In the U.S., in areas where the '''risk''' of damage or loss from flooding is highest (e.g., you live in a flood plain), property owners may be required to purchase flood insurance.
+
+2.  Physical theft of mobile phones is a '''threat''' due, in some cases, to their high resale value, high demand, and portability.  Modern mobile phones might have large amounts of included storage, and that might contain sensitive data.  For years, any stored sensitive data on stolen mobile devices was '''vulnerable''' to exposure due to the storage not being protected from access in some way.  The common use of encryption, passcodes, and other controls on modern mobile phones reduces the '''risk''' of the actual exposure of any sensitive data, while the '''risk''' of financial or productivity loss due to losing the device itself remains unchanged.
+
+[[Category:Wikimedia Security Team{{#translation:}}]]

@@ -1,0 +1,31 @@
+{
+  "secid": "secid:control/payments.ca/lynx",
+  "name": "Lynx — Canadian Large-Value Payment System",
+  "acronym": "Lynx",
+  "version": "",
+  "owner": "Payments Canada",
+  "type": "Standard",
+  "description": "Lynx is Canada's RTGS (real-time gross settlement) large-value payment system, operated by Payments Canada. By-laws are public; operational and security specifications are members-only.",
+  "relationToCloudSecurity": "",
+  "relationToAISecurity": "",
+  "license": {
+    "spdx": "LicenseRef-Publisher-Restricted",
+    "redistribution": "prohibited",
+    "derivatives": "prohibited_without_license",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.payments.ca/our-systems/our-payment-systems/lynx",
+    "notes": "By-laws are public; operational/security specs are members-only. Publicly accessible web resource with no login required (Tier 2 of Kurt Seifried 2026-11-09 4-tier hosting rule: open-web no-login content is mirrored in the public dataset repository with attribution)."
+  },
+  "links": {
+    "source": "https://www.payments.ca/our-systems/our-payment-systems/lynx",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "active": true,
+    "supersedes": "",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "Active. Replaced LVTS in 2021. Companion systems: ACSS (retail clearing), RTR (real-time rail — in development)."
+  },
+  "notes": "Authored 2026-05-14. Stub-only — awaiting CSA's licensed copy. Identity record in SecID registry."
+}

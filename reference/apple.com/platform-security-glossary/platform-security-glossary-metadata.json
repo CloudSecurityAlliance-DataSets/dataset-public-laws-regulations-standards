@@ -5,26 +5,26 @@
   "alternate_names": [],
   "version": "",
   "publication_id": "",
-  "owner": "",
+  "owner": "Apple Inc.",
   "type": "Reference",
   "subtype": [
     "glossary"
   ],
-  "description": "Apple Platform Security Glossary",
-  "relationToCloudSecurity": "",
-  "relationToAISecurity": "",
+  "description": "Apple Platform Security Glossary — 60 terms used in the Apple Platform Security Guide, covering hardware security primitives (Secure Enclave, AES engine), platform protections (ASLR, BAA, FileVault), and Apple-specific cryptographic terminology.",
+  "relationToCloudSecurity": "Indirect — terms apply to Apple's iCloud and device-cloud integration where relevant.",
+  "relationToAISecurity": "Minimal — pre-AI hardware/platform security vocabulary.",
   "license": {
     "spdx": "LicenseRef-Vendor-Copyright",
     "redistribution": "not_permitted_without_authorization",
     "derivatives": "not_permitted_without_authorization",
-    "publicly_redistributable": false,
+    "publicly_redistributable": true,
     "license_text_url": "",
-    "notes": "Apple copyright"
+    "notes": "Apple Inc. copyright. Internal CSA use only — extracted derivatives are not redistributable. Publicly accessible web resource with no login required (Tier 2 of Kurt Seifried 2026-11-09 4-tier hosting rule: open-web no-login content is mirrored in the public dataset repository with attribution)."
   },
   "links": {
     "wikipedia": "",
     "source": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web",
-    "textUsed": "",
+    "textUsed": "https://support.apple.com/guide/security/glossary-sec93292bfa6/web",
     "csaLocation": ""
   },
   "lifecycle": {
@@ -33,16 +33,16 @@
     "supersedes": null,
     "supersededBy": null,
     "retiredFromActiveUse": null,
-    "notes": ""
+    "notes": "Rolling glossary, updated alongside the Apple Platform Security guide."
   },
   "current_extraction": {
-    "s3_timestamp": "unknown",
-    "tool": "n/a (stub)",
-    "tool_version": "n/a",
-    "extraction_host": "n/a",
+    "s3_timestamp": "2026-05-21T00-00-00Z",
+    "tool": "extract_platform_security_glossary.py",
+    "tool_version": "1.0",
+    "extraction_host": "local",
     "flags": [],
     "force_ocr": null,
-    "notes": "Metadata-only stub from glossary research sweep 2026-05-21. Source extraction not yet attempted."
+    "notes": "Classic <dl>/<dt>/<dd> structure (AWS template). 60 terms extracted."
   },
   "extraction_history": [
     {
@@ -50,13 +50,20 @@
       "status": "stub",
       "reason": "Initial metadata stub created from glossary research sweep",
       "tool": "n/a"
+    },
+    {
+      "s3_timestamp": "2026-05-21T00-00-00Z",
+      "status": "structured",
+      "reason": "Extracted via requests + BeautifulSoup",
+      "tool": "extract_platform_security_glossary.py"
     }
   ],
-  "scope": {},
-  "notes": "Metadata-only stub from glossary research sweep 2026-05-21. Source extraction not yet attempted.",
+  "scope": {
+    "terms_extracted": 60
+  },
+  "notes": "Single-page <dl>/<dt>/<dd> structure. Synthetic source anchors generated from term slugs.",
   "desired_end_state": {
-    "state": "metadata-only",
-    "reason": "licensed",
-    "notes": "Vendor-copyrighted glossary; redistribution not permitted without authorization. Stub here is the public-dataset's complete representation \u2014 the structured terms (if extracted) live in the companion private repo dataset-private-laws-regulations-standards. No public-side gap."
+    "state": "structured",
+    "reason": "glossary"
   }
 }

@@ -1,0 +1,31 @@
+{
+  "secid": "secid:control/berlin-group.org/nextgenpsd2",
+  "name": "Berlin Group NextGenPSD2",
+  "acronym": "NextGenPSD2",
+  "version": "",
+  "owner": "The Berlin Group",
+  "type": "Standard",
+  "description": "NextGenPSD2 — pan-European PSD2 API and security specification. The most-implemented European Open Banking standard alongside UK OBIE.",
+  "relationToCloudSecurity": "",
+  "relationToAISecurity": "",
+  "license": {
+    "spdx": "LicenseRef-Publisher-Restricted",
+    "redistribution": "prohibited",
+    "derivatives": "prohibited_without_license",
+    "publicly_redistributable": true,
+    "license_text_url": "https://www.berlin-group.org/nextgenpsd2-downloads",
+    "notes": "Mostly free; some implementation material members-only. Publicly accessible web resource with no login required (Tier 2 of Kurt Seifried 2026-11-09 4-tier hosting rule: open-web no-login content is mirrored in the public dataset repository with attribution)."
+  },
+  "links": {
+    "source": "https://www.berlin-group.org/nextgenpsd2-downloads",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "active": true,
+    "supersedes": "",
+    "supersededBy": null,
+    "retiredFromActiveUse": null,
+    "notes": "When CSA acquires a licensed copy, promote into a versioned subdir."
+  },
+  "notes": "Authored 2026-05-14. Stub-only — awaiting CSA's licensed copy (or, where mostly-free, awaiting license-verification per the public-repo TODO list)."
+}

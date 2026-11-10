@@ -1,0 +1,86 @@
+[
+  {
+    "term": "anycast",
+    "definition": "Anycast is a network addressing and routing method in which incoming requests can be routed to a variety of different locations. Anycast typically routes incoming traffic to the nearest data center with the capacity to process the request efficiently.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-wan/glossary/#anycast"
+  },
+  {
+    "term": "data packet",
+    "definition": "A data packet is a unit of data consisting of user and control information. Information in a network is broken down into packets, that might follow different paths to their final destination.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-wan/glossary/#data-packet"
+  },
+  {
+    "term": "equal-cost multi-path routing",
+    "definition": "A technique that uses hashes calculated from packet data to determine the route chosen.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-wan/glossary/#equal-cost-multi-path-routing"
+  },
+  {
+    "term": "GRE tunnel",
+    "definition": "Stands for generic routing encapsulation. It is a protocol wrapping one data packet within another type of data packet. This is useful for enabling protocols that are not normally supported by a network.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-wan/glossary/#gre-tunnel"
+  },
+  {
+    "term": "ICMP",
+    "definition": "Internet Control Message Protocol (ICMP) is used by network devices to send error messages and other operational information. ICMP is useful for diagnostic purposes, for example.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-wan/glossary/#icmp"
+  },
+  {
+    "term": "Internet key exchange (IKE)",
+    "definition": "The protocol Cloudflare uses to create the IPsec tunnel between Cloudflare WAN and the customer's device.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-wan/glossary/#internet-key-exchange-ike"
+  },
+  {
+    "term": "IPsec tunnel",
+    "definition": "Stands for Internet Protocol secure. It is a group of protocols for securing connections between devices, by encrypting IP packets.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-wan/glossary/#ipsec-tunnel"
+  },
+  {
+    "term": "maximum segment size (MSS)",
+    "definition": "MSS limits the size of packets, or small chunks of data, that travel across a network, such as the Internet.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-wan/glossary/#maximum-segment-size-mss"
+  },
+  {
+    "term": "on-ramp",
+    "definition": "Refers to a way of connecting a business network to Cloudflare. Examples of on-ramps, or ways to connect to Cloudflare, are Anycast GRE tunnels, Anycast IPsec tunnels, Cloudflare Network Interconnect (CNI), Cloudflare Tunnel, and WARP.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-wan/glossary/#on-ramp"
+  },
+  {
+    "term": "static route",
+    "definition": "A fixed configuration to route traffic through Anycast tunnels from Cloudflare global network to the customer's locations.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-wan/glossary/#static-route"
+  },
+  {
+    "term": "subnet",
+    "definition": "Also known as subnetwork. It refers to a network that is part of another network.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-wan/glossary/#subnet"
+  },
+  {
+    "term": "traffic steering",
+    "definition": "Cloudflare evaluates your route's health and steers traffic according to priorities defined by you and / or tunnel health.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-wan/glossary/#traffic-steering"
+  },
+  {
+    "term": "tunnel health-check",
+    "definition": "A probe sent by Cloudflare to check for tunnel health. If a tunnel is not considered healthy, Cloudflare reroutes traffic to one that is considered healthy.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-wan/glossary/#tunnel-health-check"
+  },
+  {
+    "term": "WAN",
+    "definition": "Stands for Wide Area Network. It refers to a computer network that connects groups of computers over large distances. WANs are often used by businesses to connect their office networks. The objective is to make each of the local area networks (LANs) be remotely connected and accessible.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/cloudflare-wan/glossary/#wan"
+  }
+]

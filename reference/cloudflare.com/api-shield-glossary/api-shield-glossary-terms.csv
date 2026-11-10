@@ -1,0 +1,7 @@
+term,definition,source_anchor,notes
+API call,Also known as an API request. An API call is a message sent to a server asking an API to provide a service or information.,https://developers.cloudflare.com/api-shield/glossary/#api-call,
+API endpoint,"The API endpoint is the location where API calls or requests are fulfilled. API Shield defines endpoints as a host, method, and path tuple.",https://developers.cloudflare.com/api-shield/glossary/#api-endpoint,
+API schema,"The API schema defines which API requests are valid based on several request properties like target endpoint, path or query variable format, and HTTP method.",https://developers.cloudflare.com/api-shield/glossary/#api-schema,
+session identifier,A session identifier is a unique identifier that a website assigns to identify a specific user for the duration of their visit.,https://developers.cloudflare.com/api-shield/glossary/#session-identifier,
+source endpoint,The source endpoint is the endpoint managed by API Shield in Endpoint Management by its routing feature.,https://developers.cloudflare.com/api-shield/glossary/#source-endpoint,
+target endpoint,The target endpoint is the ultimate destination that a request is sent to by API Shield's routing feature.,https://developers.cloudflare.com/api-shield/glossary/#target-endpoint,

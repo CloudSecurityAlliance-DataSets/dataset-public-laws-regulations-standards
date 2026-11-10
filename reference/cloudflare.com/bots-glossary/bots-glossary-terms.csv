@@ -1,0 +1,8 @@
+term,definition,source_anchor,notes
+bot,"A software application programmed to do tasks that can be used for good (chatbots, search engine crawlers) or for evil (inventory hoarding, credential stuffing).",https://developers.cloudflare.com/bots/glossary/#bot,
+bot score,"A score from 1 to 99 that indicates how likely that request came from a bot, in which 1 to 29 is likely automated and 30 to 99 is likely human.",https://developers.cloudflare.com/bots/glossary/#bot-score,
+bot tags,"Additional information about a bot request, such as why Cloudflare has given it a bot score and whether the request came from a verified bot or a category of verified bots.",https://developers.cloudflare.com/bots/glossary/#bot-tags,
+Challenge solve rate (CSR),The percentage of issued challenges that were solved.,https://developers.cloudflare.com/bots/glossary/#challenge-solve-rate-csr,
+detection ID,Static rules that are used to detect predictable bot behavior with no overlap with human traffic.,https://developers.cloudflare.com/bots/glossary/#detection-id,
+JA3 fingerprint,"JA3 and JA4 fingerprints profile specific SSL/TLS clients across different destination IPs, Ports, and X509 certificates.",https://developers.cloudflare.com/bots/glossary/#ja3-fingerprint,
+verified bot,Bots that are transparent about who they are and what they do.,https://developers.cloudflare.com/bots/glossary/#verified-bot,

@@ -1,0 +1,32 @@
+[
+  {
+    "term": "Durable Execution",
+    "definition": "\"Durable Execution\" is a programming model that allows applications to execute reliably, automatically persist state, retry, and be resistant to errors caused by API, network or even machine/infrastructure failures. Cloudflare Workflows provide a way to build and deploy applications that align with this model.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/workflows/reference/glossary/#durable-execution"
+  },
+  {
+    "term": "Event",
+    "definition": "The event that triggered the Workflow instance. A WorkflowEvent may contain optional parameters (data) that a Workflow can operate on.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/workflows/reference/glossary/#event"
+  },
+  {
+    "term": "instance",
+    "definition": "A specific instance (running, paused, errored) of a Workflow. A Workflow can have a potentially infinite number of instances.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/workflows/reference/glossary/#instance"
+  },
+  {
+    "term": "step",
+    "definition": "A step is self-contained, individually retryable component of a Workflow. Steps may emit (optional) state that allows a Workflow to persist and continue from that step, even if a Workflow fails due to a network or infrastructure issue. A Workflow can have one or more steps up to the step limit.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/workflows/reference/glossary/#step"
+  },
+  {
+    "term": "Workflow",
+    "definition": "The named Workflow definition, associated with a single Workers script.",
+    "notes": "",
+    "source_anchor": "https://developers.cloudflare.com/workflows/reference/glossary/#workflow"
+  }
+]

@@ -10,19 +10,19 @@ Contents
 1. INTRODUCTION ····································································· 1
 
 1.1. A PARADIGM SHIFT BROUGHT ABOUT BY CYBERSPACE ······································ 1"
-"3","1.2","CHANGES SINCE 2015 ············································································· 2","numbered","","2. UNDERSTANDING ON CYBERSPACE ········································· 4
+"3","CYBERSECURITY STRATEGY: 1.2","CHANGES SINCE 2015 ············································································· 2","numbered","","2. UNDERSTANDING ON CYBERSPACE ········································· 4
 
 2.1. BENEFITS OF CYBERSPACE ········································································ 4"
-"3","2.2","INCREASING THREATS IN CYBERSPACE ·························································· 6","numbered","","3. VISIONS AND OBJECTIVES OF THIS STRATEGY ·························· 9
+"3","CYBERSECURITY STRATEGY: 2.2","INCREASING THREATS IN CYBERSPACE ·························································· 6","numbered","","3. VISIONS AND OBJECTIVES OF THIS STRATEGY ·························· 9
 
 3.1. ADHERENCE TO THE BASIC POSITION ON CYBERSECURITY··································· 9"
-"3","3.2","BASIC VISION OF CYBERSECURITY AS A GOAL ················································ 11","numbered","","4. POLICY APPROACHES TOWARDS ACHIEVING THE OBJECTIVE ····15"
-"3","4.1","ENABLING SOCIO-ECONOMIC VITALITY AND SUSTAINABLE DEVELOPMENT ·············· 15","numbered","","Advancing Cybersecurity as Value Creation Driver ·························································· 15
+"3","CYBERSECURITY STRATEGY: 3.2","BASIC VISION OF CYBERSECURITY AS A GOAL ················································ 11","numbered","","4. POLICY APPROACHES TOWARDS ACHIEVING THE OBJECTIVE ····15"
+"3","CYBERSECURITY STRATEGY: 4.1","ENABLING SOCIO-ECONOMIC VITALITY AND SUSTAINABLE DEVELOPMENT ·············· 15","numbered","","Advancing Cybersecurity as Value Creation Driver ·························································· 15
 
 Achieving a Supply Chain that Creates Values through Diverse Connections ···························· 18
 
 Building Secure IoT Systems ··················································································· 20"
-"3","4.2","BUILDING A SAFE AND SECURE SOCIETY FOR THE PEOPLE ·································· 22","numbered","","Measures for the Protection of the People and Society ······················································ 22
+"3","CYBERSECURITY STRATEGY: 4.2","BUILDING A SAFE AND SECURE SOCIETY FOR THE PEOPLE ·································· 22","numbered","","Measures for the Protection of the People and Society ······················································ 22
 
 Protection of Critical Infrastructure through Public and Private Sector Cooperation ···················· 24
 
@@ -43,7 +43,7 @@ Commitment to a Free, Fair, and Secure Cyberspace ···············
 Strengthening Capabilities for Defense, Deterrence, and Situational Awareness ························· 37
 
 International Cooperation and Collaboration ·································································· 40"
-"3","4.4","CROSS-CUTTING APPROACHES TO CYBERSECURITY ········································· 42","numbered","","Development and Assurance of Cybersecurity Human Resource ·········································· 42
+"3","CYBERSECURITY STRATEGY: 4.4","CROSS-CUTTING APPROACHES TO CYBERSECURITY ········································· 42","numbered","","Development and Assurance of Cybersecurity Human Resource ·········································· 42
 
 Advancement of Research and Development ································································· 46
 
@@ -104,7 +104,7 @@ agricultural society, industrial society, and information society to “Society 
 1 Multiple stakeholders are defined as “the national government, local governments, CII Operators, and Cyberspace-related Business Entities” in Article 16 of the Basic Act on Cybersecurity. Article 7 of the same Act defines Cyberspace-related Business Entities as “Cyberspace-Related Business Entities (referring to those engaged in business regarding the maintenance of the Internet and other advanced information and telecommunications networks, the utilization of information and telecommunications technologies, or involved in business related to Cybersecurity; the same applies hereinafter).” 2 In the Cybersecurity Strategy report (September 2015), the impact of these characteristics on society is compared to the explosion of knowledge triggered by Gutenberg’s invention of letterpress printing. 3 Society 5.0 is the 5th stage of human history, following the hunting society, agricultural society, industrial society, and information society. It is a society in which new value and new services are created continuously bringing wealth to the people of society. (Source: Growth Strategy 2017 (Cabinet Decision on June 9, 2017))
 
 examine the future vision of cybersecurity whilst taking into consideration these transformations."
-"3","1.1.2","Changes Since 2015","numbered","1","The Cybersecurity Strategy (hereinafter referred to as the “Strategy 2015”), enacted by the Cabinet
+"3","Introduction: 1.2","Changes Since 2015","numbered","1","The Cybersecurity Strategy (hereinafter referred to as the “Strategy 2015”), enacted by the Cabinet
 
 decision in September 2015 after deliberations by the Cybersecurity Strategic Headquarters
 
@@ -339,7 +339,7 @@ in which cooperation occurs across domains via cyberspace, and new services are 
 emerge continuously that generate more abundance for people through the sharing and analysis
 
 of data."
-"3","2.2.2","Increasing Threats in Cyberspace","numbered","2","While AI and IoT technologies and services have the potential to bring many benefits to people,
+"3","Understanding on Cyberspace: 2.2","Increasing Threats in Cyberspace","numbered","2","While AI and IoT technologies and services have the potential to bring many benefits to people,
 
 there is always the latent risk that the providers of these technologies and services will lose the
 
@@ -496,7 +496,7 @@ information; (ii) the rule of law; (iii) openness; (iv) autonomy; and (v) collab
 multi-stakeholders.
 
 29 Article 1 of the Basic Act stipulates that “the purpose of this Act is to comprehensively and effectively promote the cybersecurity policy ... and as a result, attempting to enhance economic and social vitality, sustainable development and realizing social conditions where the people can live with a sense of safety and security, and contributing to the protection of international peace and security as well as national security.”"
-"4","","(i) Assurance of the Free Flow of Information","","","For the sustainable development of cyberspace as a place for creation and innovation, it is
+"4","","(i) Assurance of the Free Flow of Information","","3.1","For the sustainable development of cyberspace as a place for creation and innovation, it is
 
 imperative to build and maintain a world in which transmitted information reaches the intended
 
@@ -507,7 +507,7 @@ recipient without being unfairly censored or illegally modified en route.
 privacy must also be maintained. As a basic condition for the free flow of information in cyber
 
 space, morality and commonsense are requested not to offend rights and interests of others."
-"4","","(ii) The Rule of Law","","","As the unification of cyberspace and real space progresses, the rule of law should also be
+"4","","(ii) The Rule of Law","","3.1","As the unification of cyberspace and real space progresses, the rule of law should also be
 
 maintained in cyberspace in the same way as in real space. Various domestic rules and norms,
 
@@ -518,7 +518,7 @@ international law is also applied in cyberspace. Application of existing interna
 development of norms continue to be essential for sustainable development of cyberspace as a
 
 safe and reliable space."
-"4","","(iii) Openness","","","In order to achieve the sustainable development of cyberspace as a space to generate new values,
+"4","","(iii) Openness","","3.1","In order to achieve the sustainable development of cyberspace as a space to generate new values,
 
 cyberspace must be open to all actors without restricting possibilities of linking diverse ideas and
 
@@ -527,7 +527,7 @@ knowledges. Japan adheres to the position that cyberspace must not be exclusivel
 by some a certain group of actors therein.
 
 31"
-"4","","(iv) Autonomy","","","Cyberspace has developed through the autonomous initiatives of multi-stakeholders. It is
+"4","","(iv) Autonomy","","3.1","Cyberspace has developed through the autonomous initiatives of multi-stakeholders. It is
 
 inappropriate and impossible for a state to take on the entire role of maintaining order for
 
@@ -540,7 +540,7 @@ various social systems to achieve their missions and functions autonomously. The
 will promote this approach.
 
 32"
-"4","","(v) Collaboration among Multi-stakeholders","","","Cyberspace is a multi-dimension world established through activities of multi-stakeholders,
+"4","","(v) Collaboration among Multi-stakeholders","","3.1","Cyberspace is a multi-dimension world established through activities of multi-stakeholders,
 
 30 Article 1 of the Basic Act stipulates “to ensure the free flow of information ... simultaneously.” 31 Article 3 of the Basic Act on the Formation of an Advanced Information and Telecommunications Network Society stipulates that “every people has an opportunity to easily and independently use the Internet and other advanced information and telecommunications networks.” 32 Article 3 Paragraph 2 of the Basic Act stipulates that “The promotion of the Cybersecurity policy must be carried out with the intent to raise awareness to each member of the public about Cybersecurity and encourage each member of the public to take voluntary actions.”
 
@@ -557,7 +557,7 @@ efforts. States have the role of promoting this coordination and collaboration, 
 measures enabling the fulfillment of such roles.
 
 33"
-"3","3.3.2","Basic Vision of Cybersecurity as a Goal","numbered","3","Based on Japan’s idea mentioned above, the following presents the desired outcome that
+"3","Visions and Objectives of this Strategy: 3.2","Basic Vision of Cybersecurity as a Goal","numbered","3","Based on Japan’s idea mentioned above, the following presents the desired outcome that
 
 cybersecurity initiatives must aim for and three approaches required to promoting such initiatives
 
@@ -604,7 +604,7 @@ mutually impacting each other will be called the “Cybersecurity Ecosystem” a
 type of ecosystem that develops sustainably.
 
 (2) Three Approaches"
-"4","","(i) Mission Assurance for Service Providers","","","Reliable execution of operations and services
+"4","","(i) Mission Assurance for Service Providers","","Visions and Objectives of this Strategy: 3.2","Reliable execution of operations and services
 
 “Mission Assurance” refers to the condition in which any organization represented by companies,
 
@@ -627,7 +627,7 @@ identify operations or services that represent their “missions” and take all
 secure and sustainable provision, rather than making cybersecurity initiatives themselves the
 
 goal."
-"4","","(ii) Risk Management","","","Assessment of Uncertainty and Appropriate Response
+"4","","(ii) Risk Management","","Visions and Objectives of this Strategy: 3.2","Assessment of Uncertainty and Appropriate Response
 
 “Risk management” means to minimize risks to an acceptable level by identifying, analyzing,
 
@@ -682,7 +682,7 @@ to eliminate the risk completely, we need to properly address such risks accordi
 or manifestation of each risk, and minimize cybersecurity risks at an acceptable level in
 
 counterbalance with the merits of services and products provided thereof."
-"4","","(iii) Participation, Coordination, and Collaboration","","","Measures, coordination and cooperation by individuals and organization from peacetime
+"4","","(iii) Participation, Coordination, and Collaboration","","Visions and Objectives of this Strategy: 3.2","Measures, coordination and cooperation by individuals and organization from peacetime
 
 “Participation, coordination and collaboration” applies to fundamental initiatives implemented
 
@@ -736,7 +736,7 @@ three years, for delivering results of the strategy. Each policy is expected to 
 following three approaches described in Japan’s Idea on Cybersecurity and the Basic Vision of
 
 Cybersecurity."
-"3","4.4.1","Enabling Socio-Economic Vitality and Sustainable Development","numbered","4","Enterprises are improving productivity of their business with active use of digital devices, such as
+"3","4.1","Enabling Socio-Economic Vitality and Sustainable Development","numbered","4","Enterprises are improving productivity of their business with active use of digital devices, such as
 
 personal computers and smart phones, and the Internet. Such technologies are also utilized to
 
@@ -1158,7 +1158,7 @@ In the future, the government intends to contribute to establishing a safe envir
 improving global information and communication networks by taking these Japanese measures
 
 as models and expanding them overseas through international coordination and standardization."
-"3","4.4.2","Building a Safe and Secure Society for the People","numbered","4","For the realization of society in which the people can live safely and securely, it is important to
+"3","4.2","Building a Safe and Secure Society for the People","numbered","4","For the realization of society in which the people can live safely and securely, it is important to
 
 ensure multi-layered cybersecurity, through the coordination of multi-stakeholders, including
 
@@ -1379,7 +1379,7 @@ operators is essential to promote initiatives for protecting critical infrastruc
 government will reach out to the senior executives to raise their awareness of cybersecurity while
 
 promoting the following initiatives."
-"4","","(i) Promotion of Risk Management","","","It is necessary to provide critical infrastructure services safely and continuously even during
+"4","","(i) Promotion of Risk Management","","4.2","It is necessary to provide critical infrastructure services safely and continuously even during
 
 cyberattacks. For that reason, in addition to implementing security measures in advance, it is
 
@@ -1392,7 +1392,7 @@ assessment with cross-organizational and complex risks in mind. The government w
 implement initiatives to ensure that these overall risk management activities function
 
 continuously and effectively."
-"4","","(ii) Improvement and Promotion of Safety Principles","","","In order to promote appropriate handling by critical infrastructure operators, the government will
+"4","","(ii) Improvement and Promotion of Safety Principles","","4.2","In order to promote appropriate handling by critical infrastructure operators, the government will
 
 work on further promotion of guidelines for the preparation of safety principles, while
 
@@ -1411,7 +1411,7 @@ standpoint of maintaining safety, the government will appropriately improve the 
 frameworks by means such as positioning cybersecurity measures as safety regulations within
 
 related laws and regulations, etc."
-"4","","(iii) NISC Cyber Incident Severity Scale for CIS Outages","","","According to recent trends in cyberattacks, it is necessary to enable stakeholders, such as
+"4","","(iii) NISC Cyber Incident Severity Scale for CIS Outages","","4.2","According to recent trends in cyberattacks, it is necessary to enable stakeholders, such as
 
 governmental bodies and critical infrastructure operators, to quickly share their understanding
 
@@ -1426,7 +1426,7 @@ respond rationally and appropriately while taking into consideration the effect 
 thoroughly informing the public. The government will also review the Scale as appropriate to
 
 improve it."
-"4","","(iv) Joint Training and Exercises between Public and Private Sectors","","","It is important to conduct training and exercises with the assumption of the occurrence of service
+"4","","(iv) Joint Training and Exercises between Public and Private Sectors","","4.2","It is important to conduct training and exercises with the assumption of the occurrence of service
 
 outages to increase the capabilities of critical infrastructure operators so that they can respond to
 
@@ -1437,7 +1437,7 @@ implement training and exercises among stakeholders of various sizes across publ
 sector boundaries, and expand the scope and improve the contents thereof as necessary for their
 
 continued development."
-"4","","(v) Security Measures for Industrial Control Systems (ICS)","","","There are critical infrastructure operators in such sectors as electricity, gas, and oil that use
+"4","","(v) Security Measures for Industrial Control Systems (ICS)","","4.2","There are critical infrastructure operators in such sectors as electricity, gas, and oil that use
 
 industrial control systems (ICS) to provide services. In these cases, it is likely that normal service
 
@@ -1548,7 +1548,7 @@ aiming not only to increase the response capability towards the growing threat o
 but also to prevent damages and, in the case of the occurrence of damages, prevent its spread
 
 and minimize the damage."
-"4","","(i) Increasing Defensive Capabilities and Conditional Awareness for Information Systems","","","The Agencies will work to prevent damage preemptively and prevent its spread thereof by
+"4","","(i) Increasing Defensive Capabilities and Conditional Awareness for Information Systems","","4.2","The Agencies will work to prevent damage preemptively and prevent its spread thereof by
 
 detecting malware behavior at the endpoint (personal computer, etc.) where programs are run.
 
@@ -1565,7 +1565,7 @@ to detect by analyzing threat, combining the phenomena that occur on various dev
 account management information. In order to implement those measures effectively, systems
 
 with a view to automating the work required for analysis of information must be established."
-"4","","(ii) Preventing Damages and the Spread Thereof through the Advanced Cross-","","","Organizational Collaboration among the Agencies
+"4","","(ii) Preventing Damages and the Spread Thereof through the Advanced Cross-","","4.2","Organizational Collaboration among the Agencies
 
 With consideration for the implementation status of malware monitoring on devices and
 
@@ -2125,7 +2125,7 @@ National Security Secretariat. When necessary, deliberation and decision will be
 National Security Council.
 
 (1) Ensuring National Resilience"
-"4","","(i) Mission Assurance","","","It is the mission of governmental bodies to protect and support people’s lives and socio-economic
+"4","","(i) Mission Assurance","","4.3","It is the mission of governmental bodies to protect and support people’s lives and socio-economic
 
 activities. Any failure in playing their role is a significant concern for national security. The
 
@@ -2154,7 +2154,7 @@ operations depend, while further enhancing the capabilities of cyber defense uni
 cyberattacks, and deepen collaboration with stakeholders involved in the mission assurance of
 
 the Self-Defense Forces."
-"4","","(ii) Protection of Japan’s Advanced Technologies and Defense Related Technologies","","","Advanced technologies are important national assets not only for assuring economic advantage,
+"4","","(ii) Protection of Japan’s Advanced Technologies and Defense Related Technologies","","4.3","Advanced technologies are important national assets not only for assuring economic advantage,
 
 but for national security as well. Japan will strengthen cybersecurity measures, including the
 
@@ -2183,7 +2183,7 @@ Furthermore, the government will promote measures at national research and devel
 organizations and universities and research institutes possessing advanced technology from the
 
 viewpoint of protecting information on advanced technologies."
-"4","","(iii) Measures Against the Malicious Use of Cyberspace by Terrorist Organizations","","","Cyberspace offers a place where individuals and organizations can exchange information and
+"4","","(iii) Measures Against the Malicious Use of Cyberspace by Terrorist Organizations","","4.3","Cyberspace offers a place where individuals and organizations can exchange information and
 
 express their thoughts freely. It now serves as the foundations of democracy. On the other hand,
 
@@ -2200,7 +2200,7 @@ other necessary measures in collaboration with the international community, whil
 guaranteeing the basic human rights including the freedom of expression.
 
 (2) Enhancing Deterrence Capabilities"
-"4","","(i) Measures for Effective Deterrence","","","International law, including the Charter of the United Nations, applies to cyberspace. As G7
+"4","","(i) Measures for Effective Deterrence","","4.3","International law, including the Charter of the United Nations, applies to cyberspace. As G7
 
 leaders affirmed at the Ise-Shima Summit, under some circumstances, cyber activities could
 
@@ -2239,7 +2239,7 @@ government will also strengthen capacity at the relevant authorities including l
 authorities and the Self-Defense Forces. In this regard, the acquisition of capabilities to prevent
 
 malicious cyber actors from using cyberspace may be considered."
-"4","","(ii) Confidence Building Measures","","","The government will work to build confidence among states in order to prevent the occurrence
+"4","","(ii) Confidence Building Measures","","4.3","The government will work to build confidence among states in order to prevent the occurrence
 
 of unforeseen circumstances and deterioration of the situation caused by cyberattacks. Due to
 
@@ -2262,7 +2262,7 @@ consultations. The government will also cooperate with other states to consider 
 coordinating issues regarding cyberspace.
 
 (3) Strengthening Cyber Situational Awareness"
-"4","","(i) Increasing the Capabilities of Relevant Governmental Bodies","","","In order to deter increasingly serious cyberattack, in addition to enhancing response capabilities,
+"4","","(i) Increasing the Capabilities of Relevant Governmental Bodies","","4.3","In order to deter increasingly serious cyberattack, in addition to enhancing response capabilities,
 
 adequate capabilities to detect, investigate, and analyze cyberattacks are necessary to make the
 
@@ -2281,7 +2281,7 @@ investigating, and analyzing cyberattacks. The government will also carry out in
 to counter-cyber intelligence.
 
 58"
-"4","","(ii) Threat Information Sharing","","","Information sharing among relevant ministries and agencies within the government and with our
+"4","","(ii) Threat Information Sharing","","4.3","Information sharing among relevant ministries and agencies within the government and with our
 
 ally and like-minded countries is essential for accurately responding to and deterring diverse
 
@@ -2376,7 +2376,7 @@ According to the Basic Strategy on Cybersecurity Capacity Building for Developin
 published in 2016, the government will proactively promote capacity building in developing
 
 countries."
-"3","4.4.4","Cross-Cutting Approaches to Cybersecurity","numbered","4","In order to achieve the three policy goals – “enabling socio-economic vitality and sustainable
+"3","4.4","Cross-Cutting Approaches to Cybersecurity","numbered","4","In order to achieve the three policy goals – “enabling socio-economic vitality and sustainable
 
 development,” “building a safe and secure society for the people,” and “contribution to the peace
 
