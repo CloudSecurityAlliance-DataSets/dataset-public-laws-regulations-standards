@@ -914,12 +914,16 @@ def fetch_and_convert_regulation(rel_slug: str, orig_url: str, doc_title: str) -
         # Check for embedded PDF links on publication landing pages (e.g., gov.uk/government/publications/...)
         if any(
             sub in final_url
-            for sub in ("/government/publications/", "meity.gov.in/", "coe.int/", "au.int/", "adgm.com/", "difc.com/")
+            for sub in ("/government/publications/", "meity.gov.in/", "coe.int/", "au.int/")
         ):
             soup = BeautifulSoup(html_str, "html.parser")
             for a in soup.find_all("a", href=True):
                 href = a["href"].strip()
-                if ".pdf" in href.lower():
+                href_low = href.lower()
+                if ".pdf" in href_low and not any(
+                    bad in href_low
+                    for bad in ("brand+book", "brand_book", "brand-book", "brand%20book", "logo", "248047.pdf")
+                ):
                     pdf_u = urllib.parse.urljoin(final_url, href)
                     pdata, pfinal = fetch_url_bytes(pdf_u, timeout=30)
                     if pdata and (pdata[:5] == b"%PDF-" or b"%PDF-1." in pdata[:1024]):

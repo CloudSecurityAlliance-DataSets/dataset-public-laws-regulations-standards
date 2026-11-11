@@ -20,8 +20,8 @@
     "derivatives": "yes",
     "publicly_redistributable": true,
     "license_text_url": "https://www.usa.gov/government-works",
-    "note": "United States Government work (17 U.S.C. § 105); in the public domain worldwide.",
-    "notes": "United States Government work (17 U.S.C. § 105); in the public domain worldwide."
+    "note": "United States Government work (17 U.S.C. \u00a7 105); in the public domain worldwide.",
+    "notes": "United States Government work (17 U.S.C. \u00a7 105); in the public domain worldwide."
   },
   "links": {
     "wikipedia": "",
@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted official regulation (https://www.govinfo.gov/content/pkg/PLAW-114publ113/html/PLAW-114publ113.htm) to Markdown (2,942,854 chars). Parsed 2568 sections (2217 with explicit section identifiers)."
+    "notes": "Extracted official regulation (https://www.govinfo.gov/content/pkg/PLAW-114publ113/html/PLAW-114publ113.htm) to Markdown (181,108 chars). Parsed 52 sections (51 with explicit section identifiers)."
   },
   "extraction_history": [
     {

@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted official regulation (https://privacy.gov.ph/data-privacy-act/) to Markdown (54,997 chars). Parsed 17 sections (12 with explicit section identifiers)."
+    "notes": "Extracted official regulation (https://privacy.gov.ph/data-privacy-act/) to Markdown (54,830 chars). Parsed 55 sections (54 with explicit section identifiers)."
   },
   "extraction_history": [
     {

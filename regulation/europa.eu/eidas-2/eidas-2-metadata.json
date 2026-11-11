@@ -10,7 +10,7 @@
   "subtype": [
     "statute"
   ],
-  "description": "Updates eIDAS to mandate the EU Digital Identity Wallet (EUDI Wallet) — a sovereign cross-border digital-identity wallet for citizens, residents, and businesses. Member states must offer at least one notified wallet by November 2026.",
+  "description": "Updates eIDAS to mandate the EU Digital Identity Wallet (EUDI Wallet) \u2014 a sovereign cross-border digital-identity wallet for citizens, residents, and businesses. Member states must offer at least one notified wallet by November 2026.",
   "relationToCloudSecurity": "Establishes statutory or regulatory compliance obligations issued by European Union (europa.eu) applicable to cloud service providers, data controllers, and digital operators.",
   "relationToAISecurity": "Governs data protection, automated decision-making, cybersecurity, or AI system compliance within European Union (europa.eu).",
   "license": {
@@ -44,7 +44,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": false,
-    "notes": "Extracted official regulation (https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1183) to Markdown (244,457 chars). Parsed 13 sections (11 with explicit section identifiers)."
+    "notes": "Extracted official regulation (https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32024R1183) to Markdown (244,365 chars). Parsed 10 sections (9 with explicit section identifiers)."
   },
   "extraction_history": [
     {

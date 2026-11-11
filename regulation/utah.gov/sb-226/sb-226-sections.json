@@ -9,49 +9,49 @@
   },
   {
     "depth": 4,
-    "section_id": "",
-    "section_name": "13-75-101Effective 05/07/25. Definitions.",
-    "id_kind": "",
+    "section_id": "13-75-101",
+    "section_name": "Effective 05/07/25. Definitions.",
+    "id_kind": "statute",
     "parent_id": "",
     "body": "As used in this chapter:\n\n(1)\"Artificial intelligence technology\" means the same as that term is defined in Section 13-72-101.\n\n(2)\"Consumer transaction\" means the same as that term is defined in Section 13-11-3.\n\n(3)\"Division\" means the Division of Consumer Protection created in Section 13-2-1.\n\n(4)\"Generative artificial intelligence\" means an artificial intelligence technology system that:(a)is trained on data;(b)is designed to simulate human conversation with a consumer through one or more of the following:(i)text;(ii)audio; or(iii)visual communication; and(c)generates non-scripted outputs similar to outputs created by a human, with limited or no human oversight.\n\n(5)\"High-risk artificial intelligence interaction\" means an interaction with generative artificial intelligence that involves:(a)the collection of sensitive personal information, including:(i)health data;(ii)financial data; or(iii)biometric data;(b)the provision of personalized recommendations, advice, or information that could reasonably be relied upon to make significant personal decisions, including the provision of:(i)financial advice or services;(ii)legal advice or services;(iii)medical advice or services; or(iv)mental health advice or services; or(c)other applications as defined by division rule.\n\n(6)\"License\" means a state-granted authorization for an individual to engage in a specified occupation:(a)based on the individual meeting personal qualifications established under state law; and(b)that is required before the individual may lawfully engage in the occupation for compensation.\n\n(7)\"Office\" means the Office of Artificial Intelligence Policy created in Section 13-74-201.\n\n(8)\"Regulated occupation\" means an occupation that:(a)is regulated by the Department of Commerce; and(b)requires an individual to obtain a license or state certification to practice the occupation.\n\n(9)\"State certification\" means a state-granted authorization that:(a)permits an individual to use the term \"state certified\" as part of a designated title related to a specified occupation:(i)based on the individual meeting personal qualifications established under state law; and(ii)where state law prohibits a noncertified individual from using the term \"state certified\" as part of a designated title; and(b)does not prohibit a noncertified individual from engaging in the occupation for compensation.\n\n(10)\"Supplier\" means the same as that term is defined in Section 13-11-3."
   },
   {
     "depth": 4,
-    "section_id": "",
-    "section_name": "13-75-102Effective 05/07/25. Liability for violation of consumer protection law.",
-    "id_kind": "",
+    "section_id": "13-75-102",
+    "section_name": "Effective 05/07/25. Liability for violation of consumer protection law.",
+    "id_kind": "statute",
     "parent_id": "",
     "body": "It is not a defense to the violation of any statute administered and enforced by the division under Section 13-2-1 that generative artificial intelligence:\n\n(1)made the violative statement;\n\n(2)undertook the violative act; or\n\n(3)was used in furtherance of the violation."
   },
   {
     "depth": 4,
-    "section_id": "",
-    "section_name": "13-75-103Effective 05/07/25. Required disclosures.",
-    "id_kind": "",
+    "section_id": "13-75-103",
+    "section_name": "Effective 05/07/25. Required disclosures.",
+    "id_kind": "statute",
     "parent_id": "",
     "body": "(1)(a)A supplier that uses generative artificial intelligence to interact with an individual in connection with a consumer transaction shall disclose to the individual that the individual is interacting with generative artificial intelligence and not a human, if the individual asks or otherwise prompts the supplier about whether artificial intelligence is being used.(b)The individual's prompt or question under Subsection (1)(a) must be a clear and unambiguous request to determine whether the interaction is with a human or with artificial intelligence.\n\n(2)An individual providing services in a regulated occupation shall:(a)prominently disclose when an individual receiving services is interacting with generative artificial intelligence in the provision of regulated services if the use of generative artificial intelligence constitutes a high-risk artificial intelligence interaction; and(b)comply with all requirements of the regulated occupation when providing services through generative artificial intelligence.\n\n(3)A disclosure required under Subsection (2) shall be provided:(a)verbally at the start of a verbal interaction; and(b)in writing before the start of a written interaction."
   },
   {
     "depth": 4,
-    "section_id": "",
-    "section_name": "13-75-104Effective 05/07/25. Safe harbor.",
-    "id_kind": "",
+    "section_id": "13-75-104",
+    "section_name": "Effective 05/07/25. Safe harbor.",
+    "id_kind": "statute",
     "parent_id": "",
     "body": "(1)A person is not subject to an enforcement action for violating Section 13-75-103 if the person's generative artificial intelligence clearly and conspicuously discloses:(a)at the outset of any interaction with an individual in connection with:(i)a consumer transaction; or(ii)the provision of regulated services; and(b)throughout the interaction that it:(i)is generative artificial intelligence;(ii)is not human; or(iii)is an artificial intelligence assistant.\n\n(2)In accordance with Title 63G, Chapter 3, Utah Administrative Rulemaking Act, the division in consultation with the office, may make rules specifying forms and methods of disclosure that:(a)satisfy the requirements of Subsection (1); or(b)do not satisfy the requirements of Subsection (1)."
   },
   {
     "depth": 4,
-    "section_id": "",
-    "section_name": "13-75-105Effective 05/07/25. Enforcement.",
-    "id_kind": "",
+    "section_id": "13-75-105",
+    "section_name": "Effective 05/07/25. Enforcement.",
+    "id_kind": "statute",
     "parent_id": "",
     "body": "(1)A violation of this chapter constitutes a violation of Subsection 13-11-4(1).\n\n(2)The division shall administer and enforce this chapter in accordance with Chapter 2, Division of Consumer Protection.\n\n(3)The attorney general shall:(a)give legal advice to the division regarding the division's responsibilities under this chapter; and(b)act as counsel for the division in the exercise of the division's responsibilities under this chapter.\n\n(4)In addition to the division's enforcement powers under Chapter 2, Division of Consumer Protection:(a)the division director may impose an administrative fine of up to $2,500 for each violation of this chapter; and(b)the division may bring an action in court to enforce this chapter.\n\n(5)In an action brought by the division to enforce this chapter, the court may:(a)declare that an act or practice violates this chapter;(b)issue an injunction for a violation of this chapter;(c)order disgorgement of money received in violation of this chapter;(d)order payment of disgorged money to an individual injured by a violation of this chapter;(e)impose a fine of up to $2,500 for each violation of this chapter; or(f)award other reasonable and necessary relief.\n\n(6)If a court of competent jurisdiction grants judgment or injunctive relief to the division, the court shall award the division:(a)reasonable attorney fees;(b)court costs; and(c)investigative fees.\n\n(7)(a)A person who violates an administrative or court order issued for a violation of this chapter is subject to a civil penalty of up to $5,000 for each violation.(b)The attorney general may impose a civil penalty authorized under this section in any civil action brought on behalf of the division."
   },
   {
     "depth": 4,
-    "section_id": "",
-    "section_name": "13-75-106Effective 05/07/25. Scope.",
-    "id_kind": "",
+    "section_id": "13-75-106",
+    "section_name": "Effective 05/07/25. Scope.",
+    "id_kind": "statute",
     "parent_id": "",
     "body": "This chapter does not displace any other remedy or right authorized under:\n\n(1)the laws of this state; or\n\n(2)federal law."
   },

@@ -38,8 +38,8 @@ ID_PATTERNS = [
     (re.compile(r"^((?:Pillar|Pilier|Pilar|Pijler|Eje\s+Estrat[eé]gico|Handlungsfeld)\s+(?:[IVXLCDM]+|\([ivxlcdm]+\)|\d+|\(\d+\)|One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten))(?![\.\-–]\d)\s*(?:[:\.\-–—]+|\s+)\s*(.+)$", re.IGNORECASE), "pillar"),
     # Division A / Title I / Titre Ier / Subtitle A / Part I / Part 1 / Part (1) / Part One / Раздел I / Розділ I / Teil 1 / Partie 1: "Part I: ..."
     (re.compile(r"^((?:Division|Title|Titre|T[ií]tulo|Subtitle|Part|Partie|Parte|Teil|Deel|Del|Část|Časť|Раздел|Розділ|Часть|Частина)\s+(?:[IVXLCDM]+(?:er)?|\([ivxlcdm]+\)|\d+(?:\.\d+)?|\(\d+\)|[A-Z]|One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten))(?![\.\-–]\d)\s*(?:[:\.\-–—]+|\s+)\s*(.+)$", re.IGNORECASE), "part"),
-    # CHAPTER 25.1 / Subchapter A / Chapter 1 / Chapter One / Глава 1 / Kapitel 1 / Chapitre 1 / Capítulo 1: "CHAPTER 25.1. Transparency in ..."
-    (re.compile(r"^((?:SUBCHAPTER|CHAPTER|Chapitre|Cap[ií]tulo|Capitolo|Kapitel|Hoofdstuk|Kapitola|Poglavje|Rozdzia[łl]|Глава|BAHAGIAN)\s+(?:\d+[A-Za-z]?(?:\.\d+)?|\(\d+\)|[IVXLCDM]+(?:er)?|\([ivxlcdm]+\)|[A-Z]|One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten))(?![\.\-–]\d)\s*(?:[:\.\-–—]+|\s+)\s*(.+)$", re.IGNORECASE), "chapter"),
+    # CHAPTER 25.1 / Subchapter A / Chapter 1 / Chapter One /CHAPTER XIIA / Глава 1 / Kapitel 1 / Chapitre 1 / Capítulo 1: "CHAPTER 25.1. Transparency in ..."
+    (re.compile(r"^((?:SUBCHAPTER|CHAPTER|Chapitre|Cap[ií]tulo|Capitolo|Kapitel|Hoofdstuk|Kapitola|Poglavje|Rozdzia[łl]|Глава|BAHAGIAN)\s+(?:\d+[A-Za-z]?(?:\.\d+)?|\(\d+\)|[IVXLCDM]+(?:er|[A-Z])?|\([ivxlcdm]+\)|[A-Z]|One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten))(?![\.\-–]\d)\s*(?:[:\.\-–—]+|\s+)\s*(.+)$", re.IGNORECASE), "chapter"),
     # Chinese, Taiwanese & Japanese chapter/section/article/supplementary-provision markers: "第一章 ...", "第 1 章 ...", "第１ はじめに", "第一节 ...", "第一条（目的）", "第 1 條", "附則第一条（施行期日）"
     (re.compile(r"^(第\s*[一二三四五六七八九十百千0-9０-９]+\s*[章篇编部編])\s*[:\.\-–—　]?\s*(.*)$"), "chapter"),
     (re.compile(r"^(第[一二三四五六七八九十百千0-9０-９]+)[\s　]+(.+)$"), "chapter"),
@@ -62,10 +62,10 @@ ID_PATTERNS = [
     (re.compile(r"^((?:Initiative|Eylem)\s+\d+(?:\.\d+)+)\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "initiative"),
     # Goal 1 / Priority 1 / Strategic Priority 1 / Línea de acción 1 / Line of action 1 / Principle 1 / Recommendation 1 / Finding 1: Title
     (re.compile(r"^((?:Goal|Objetivo|(?:Strategic\s+)?Priority|Stratejik\s+Öncelik|L[ií]nea\s+de\s+acci[oó]n|Line\s+of\s+action|Principle|Recommendation|Finding)\s+(?:[IVXLCDM]+|\d+(?:\.\d+)*))\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "goal"),
-    # Annex / Appendix / Schedule A / 1 / I: Title
-    (re.compile(r"^((?:Annex|Annexe|Anexo|Anhang|Bijlage|Appendix|Schedule)\s+(?:[A-Z]|\d+|[IVXLCDM]+))\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "annex"),
-    # Standalone identifiers without trailing title (e.g., "Principle 1", "Appendix A", "Section 2-501", "17940.", "1367.01.", "§ 1", "附則", "附則（...）")
-    (re.compile(r"^(§+\s*\d+[\dA-Za-z\.\-]*|\d{3,5}[A-Za-z]?(?:\.\d+(?:\.\d+)?)?|附則(?:（[^）]+）)?|(?:Division|Title|Titre|Subtitle|Subchapter|Pillar|Pilier|Pilar|Pijler|Part|Partie|Parte|Teil|Chapter|Chapitre|Cap[ií]tulo|Kapitel|Глава|Раздел|Розділ|Section|Sec\.|Article|Art[ií]culo|Artigo|Art\.|Annex|Appendix|Schedule|Principle|Goal|Objetivo|(?:Strategic\s+)?Priority|Stratejik\s+Öncelik|L[ií]nea\s+de\s+acci[oó]n|Line\s+of\s+action|Objective|Finding|Recommendation|(?:附則(?:（[^）]+）)?\s*)?第[一二三四五六七八九十百千0-9０-９]+[章篇编部編节節条條](?:[のノ之\-][一二三四五六七八九十百千0-9０-９]+)*)\s*(?:[IVXLCDM]+(?:er)?|\([ivxlcdm]+\)|(?:[LRD]\.?\s*)?\d+(?:er|[A-Za-z])?(?:[\.\-–]\d+[A-Za-z]?)*[º°]?|\(\d+\)|[A-Z]|One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten)?)\.?$", re.IGNORECASE), "standalone_id"),
+    # Annex / Appendix / Schedule A / 1 / I / THE FIRST SCHEDULE: Title
+    (re.compile(r"^((?:THE\s+(?:FIRST|SECOND|THIRD|FOURTH|FIFTH)\s+SCHEDULE|(?:Annex|Annexe|Anexo|Anhang|Bijlage|Appendix|Schedule)\s+(?:[A-Z]|\d+|[IVXLCDM]+)))\s*[:\.\-–—]?\s+(.+)$", re.IGNORECASE), "annex"),
+    # Standalone identifiers without trailing title (e.g., "Principle 1", "Appendix A", "Section 2-501", "17940.", "1367.01.", "§ 1", "附則", "附則（...）", "THE FIRST SCHEDULE")
+    (re.compile(r"^(§+\s*\d+[\dA-Za-z\.\-]*|\d{3,5}[A-Za-z]?(?:\.\d+(?:\.\d+)?)?|附則(?:（[^）]+）)?|THE\s+(?:FIRST|SECOND|THIRD|FOURTH|FIFTH)\s+SCHEDULE|(?:Division|Title|Titre|Subtitle|Subchapter|Pillar|Pilier|Pilar|Pijler|Part|Partie|Parte|Teil|Chapter|Chapitre|Cap[ií]tulo|Kapitel|Глава|Раздел|Розділ|Section|Sec\.|Article|Art[ií]culo|Artigo|Art\.|Annex|Appendix|Schedule|Principle|Goal|Objetivo|(?:Strategic\s+)?Priority|Stratejik\s+Öncelik|L[ií]nea\s+de\s+acci[oó]n|Line\s+of\s+action|Objective|Finding|Recommendation|(?:附則(?:（[^）]+）)?\s*)?第[一二三四五六七八九十百千0-9０-９]+[章篇编部編节節条條](?:[のノ之\-][一二三四五六七八九十百千0-9０-９]+)*)\s*(?:[IVXLCDM]+(?:er|[A-Z])?|\([ivxlcdm]+\)|(?:[LRD]\.?\s*)?\d+(?:er|[A-Za-z])?(?:[\.\-–]\d+[A-Za-z]?)*[º°]?|\(\d+\)|[A-Z]|One|Two|Three|Four|Five|Six|Seven|Eight|Nine|Ten)?)\.?$", re.IGNORECASE), "standalone_id"),
     # Roman-numeral dotted subsection: "I.1 Title" / "II.10 Title"
     (re.compile(r"^([IVX]{1,4}\.\d{1,2})\.?\s*[:\-–—]?\s+(.+)$"), "numbered"),
     # Roman numeral section: "I. Introduction" / "II. Our Vision" / "I Purpose" / "II Japan's National Interests"
@@ -132,7 +132,7 @@ def parse_heading(text: str):
                     kind = "part"
                 elif re.match(r"^(?:pillar|pilier|pilar|pijler)\b", low_sid):
                     kind = "pillar"
-                elif re.match(r"^(?:annex|appendix|schedule)\b", low_sid):
+                elif re.match(r"^(?:annex|appendix|schedule|the\s+(?:first|second|third|fourth|fifth)\s+schedule)\b", low_sid):
                     kind = "annex"
                 elif low_sid.startswith("objective"):
                     kind = "objective"
