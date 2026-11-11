@@ -9,35 +9,211 @@
   },
   {
     "depth": 2,
-    "section_id": "Chapter I (1)",
+    "section_id": "Chapter I",
     "section_name": "General Provisions",
     "id_kind": "chapter",
     "parent_id": "",
-    "body": "**Article 1:** These Provisions are drafted on the basis of the Cybersecurity Law of the PRC, the PRC Data Security Law, the Personal Information Protection Law of the PRC, The Measures on the Administration of Internet Information Services, and other relevant laws and administrative regulations, so as to strengthen the management of deep synthesis internet information services, carry forward the Core Socialist Values, preserve national security and the societal public interest, and protect the lawful rights and interests of citizens, legal persons, and other organizations.\n\n**Article 2:**  These Provisions apply to the application of deep synthesis technology to provide internet information services (hereinafter simply Deep Synthesis Services). Where laws or administrative regulations provide otherwise, follow those provisions.\n\n**Article 3:**  The state cybersecurity and informatization department is responsible for the overall planning and coordination of the nation's governance of deep synthesis services and related oversight and management efforts. The State Council Departments for telecommunications and public security are responsible for efforts on the oversight and management of deep synthesis services in accordance with their respective duties.\n\nLocal cybersecurity and informatization departments are responsible for the overall planning and coordination of the governance of deep synthesis services and related oversight and management efforts within the corresponding administrative region. Local departments for telecommunications and public security are responsible for efforts on the oversight and management of deep synthesis services in the corresponding administrative region, in accordance with their respective duties.\n\n**Article 4:**  The provision of deep synthesis services shall comply with laws and regulations, respect social mores and ethics, and adhere to the correct political direction, public opinion orientation, and values trends, to promote progress and improvement in deep synthesis services.\n\n**Article 5:**  Relevant industry organizations are encouraged to strengthen industry discipline, establishing and completing industry standards, norms, and systems for self-discipline and management, urging and guiding deep synthesis service providers and technical supports to improve operational specifications, carry out operations in accordance with law, and accept societal oversight."
+    "body": ""
   },
   {
-    "depth": 2,
-    "section_id": "Chapter I (2)",
-    "section_name": "I: Ordinary Provisions",
-    "id_kind": "chapter",
-    "parent_id": "",
-    "body": "**Article 6:**  Deep synthesis services must not be used by any organization or individual to produce, reproduce, publish, or transmit information that is prohibited by laws or administrative regulations, or to engage in activities that are prohibited by laws and administrative regulations such as those that endanger the national security and interests, harm the image of the nation, harm the societal public interest, disturb economic or social order, or harm the lawful rights and interests of others.\n\nDeep synthesis service providers and users must not use deep synthesis services to produce, reproduce, publish, or transmit fake news information. Where news information that is produced and published based on deep syntheses services is reprinted, The news information published by the source unit of Internet news information shall be reproduced according to law.\n\n**Article 7:**  Deep synthesis service providers shall implement primary responsibility for information security, establishing and completing management systems such as for user registration, review of algorithm mechanisms, scientific ethics reviews, review for information publication, data security, personal information protection, prevention of telecommunication network fraud, and emergency response, and shall have safe and controllable technical safeguard measures.\n\n**Article 8:**  Deep synthesis service providers shall draft and disclose management rules and platform covenants, improve service agreements, fulfill management responsibilities in accordance with law, and post the security obligations born by deep synthesis services' technical supporters and users in a conspicuous manner.\n\n**Article 9:**  Deep synthesis service providers shall verify the real identity information of the users of the deep synthesis services in accordance with law through means such as mobile telephone numbers, identification card numbers, uniform social credit codes, or the state's public online identity verification service, and must not provide information publication services to deep synthesis service users that have not had real name information verification.\n\n**Article 10:**  Deep synthesis service providers shall strengthen the management of deep synthesis content and employ technical measures or manual methods to conduct reviews of the data input by users and synthesis outcomes.\n\nDeep synthesis service providers shall establish and complete a pool of characteristics used to identify illegal and negative content, and improve standards, rules, and procedures for inclusion in the pool, and record and store related network logs.\n\nWhere deep synthesis service providers discover illegal or negative information, they shall employ measures to address it in accordance with law, store related records, and promptly make a report to the telecommunications department or relevant departments in charge; and take measures in accordance with laws and agreements against the related deep synthesis service users, such as giving warnings, restricted functions, service suspensions, and account closures.\n\n**Article 11:**  Deep synthesis service providers shall establish and complete mechanisms for dispelling rumors, and where it is discovered that deep synthesis information services were used to produce, reproduce, publish, or transmit false information, they shall promptly employ measures to dispel the rumors, store related records, and make a report to the cybersecurity and informatization departments and relevant departments in charge.\n\n**Article 12:**  Deep synthesis service providers shall set up convenient portals for user appeals, public complaints, and reports, and shall publish the process for handling them and the time limits for responses, promptly accepting and handling them, and giving feedback on the outcome.\n\n**Article 13:**  Internet application stores and other application distribution platforms shall implement safety management responsibility such as for pre-offering reviews, routine management, and emergency response, check deep synthesis services' security assessments, filings, and other such situations; and where relevant state provisions are violated, they shall promptly employ measures to address it such as not making it available on the market, warnings, suspending services, or taking it off the market."
+    "depth": 3,
+    "section_id": "Article 1",
+    "section_name": "Article 1",
+    "id_kind": "section_word",
+    "parent_id": "Chapter I",
+    "body": "These Provisions are drafted on the basis of the Cybersecurity Law of the PRC, the PRC Data Security Law, the Personal Information Protection Law of the PRC, The Measures on the Administration of Internet Information Services, and other relevant laws and administrative regulations, so as to strengthen the management of deep synthesis internet information services, carry forward the Core Socialist Values, preserve national security and the societal public interest, and protect the lawful rights and interests of citizens, legal persons, and other organizations."
+  },
+  {
+    "depth": 3,
+    "section_id": "Article 2",
+    "section_name": "Article 2",
+    "id_kind": "section_word",
+    "parent_id": "Chapter I",
+    "body": "These Provisions apply to the application of deep synthesis technology to provide internet information services (hereinafter simply Deep Synthesis Services). Where laws or administrative regulations provide otherwise, follow those provisions."
+  },
+  {
+    "depth": 3,
+    "section_id": "Article 3",
+    "section_name": "Article 3",
+    "id_kind": "section_word",
+    "parent_id": "Chapter I",
+    "body": "The state cybersecurity and informatization department is responsible for the overall planning and coordination of the nation's governance of deep synthesis services and related oversight and management efforts. The State Council Departments for telecommunications and public security are responsible for efforts on the oversight and management of deep synthesis services in accordance with their respective duties.\n\nLocal cybersecurity and informatization departments are responsible for the overall planning and coordination of the governance of deep synthesis services and related oversight and management efforts within the corresponding administrative region. Local departments for telecommunications and public security are responsible for efforts on the oversight and management of deep synthesis services in the corresponding administrative region, in accordance with their respective duties."
+  },
+  {
+    "depth": 3,
+    "section_id": "Article 4",
+    "section_name": "Article 4",
+    "id_kind": "section_word",
+    "parent_id": "Chapter I",
+    "body": "The provision of deep synthesis services shall comply with laws and regulations, respect social mores and ethics, and adhere to the correct political direction, public opinion orientation, and values trends, to promote progress and improvement in deep synthesis services."
+  },
+  {
+    "depth": 3,
+    "section_id": "Article 5",
+    "section_name": "Article 5",
+    "id_kind": "section_word",
+    "parent_id": "Chapter I",
+    "body": "Relevant industry organizations are encouraged to strengthen industry discipline, establishing and completing industry standards, norms, and systems for self-discipline and management, urging and guiding deep synthesis service providers and technical supports to improve operational specifications, carry out operations in accordance with law, and accept societal oversight."
   },
   {
     "depth": 2,
     "section_id": "Chapter II",
-    "section_name": "I: Data and Technical Management Specifications",
+    "section_name": "Ordinary Provisions",
     "id_kind": "chapter",
     "parent_id": "",
-    "body": "**Article 14:** Deep synthesis service providers and technical supporters shall strengthen the management of training data, employ necessary measures to ensure the security of training data, and where training data includes personal information, they shall comply with relevant provisions on the protection of personal information.\n\nWhere deep synthesis service providers and technical supports provide functions for editing biometric information such as faces and voices, they shall prompt the users of the deep synthesis service to notify the individuals whose personal information is being edited and obtain their independent consent in accordance with law.\n\n**Article 15:**  Deep synthesis service providers and technical supporters shall strengthen technical management, periodically reviewing, assessing, and verifying algorithmic mechanisms that produce synthesis.\n\nWhere deep synthesis service providers and technical supporters provide tools that have the following functional models or frameworks, they shall carry out security assessments either on their own or by entrusting a professional body:\n\n(1) Generating or editing biometric information such as faces or voices;\n\n(2) Generating or editing special items, scenarios, or other non-biometric information that might involve national security, the nation's image, national interests, and the societal public interest.\n\n**Article 16:**  Deep synthesis service providers shall employ technical measures to attach symbols to information content produced or edited by their services' users that do not impact users' usage, and store log information in accordance with laws, administrative regulations, and relevant state provisions.\n\n**Article 17:**  Where deep synthesis service providers provide the following deep synthesis services which might cause confusion or mislead the public, they shall make a conspicuous label in a reasonable position or location on information content they generate or edit, alerting the public of the deep synthesis generation:\n\n(1) services such as smart dialogue or smart writing, etc., which simulate natural persons to generate or edit texts;\n\n(2) speech generation services such as voice synthesis and imitations or editing services that significantly change personal identification characteristics;\n\n(3) services that generate images or video of virtual persons such as face generation, face swapping, face manipulation, and gesture manipulation, or editing services that significantly change personal identification characteristics;\n\n(4) Generation or editing services such as realistic immersive scenes;\n\n(5) Other services that have functions that generate or significantly alter information content.\n\nWhere deep synthesis service providers provide deep synthesis services other than those provided for in the preceding paragraph, they shall provide functions for prominently labeling, and alert deep synthesis service users that they may make prominent labels.\n\n**Article 18:**  Technical measures must not be employed by any organization or individual to delete, alter, or conceal the deep synthesis labels provided for in articles 16 and 17 of these Provisions."
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "Article 6",
+    "section_name": "Article 6",
+    "id_kind": "section_word",
+    "parent_id": "Chapter II",
+    "body": "Deep synthesis services must not be used by any organization or individual to produce, reproduce, publish, or transmit information that is prohibited by laws or administrative regulations, or to engage in activities that are prohibited by laws and administrative regulations such as those that endanger the national security and interests, harm the image of the nation, harm the societal public interest, disturb economic or social order, or harm the lawful rights and interests of others.\n\nDeep synthesis service providers and users must not use deep synthesis services to produce, reproduce, publish, or transmit fake news information. Where news information that is produced and published based on deep syntheses services is reprinted, The news information published by the source unit of Internet news information shall be reproduced according to law."
+  },
+  {
+    "depth": 3,
+    "section_id": "Article 7",
+    "section_name": "Article 7",
+    "id_kind": "section_word",
+    "parent_id": "Chapter II",
+    "body": "Deep synthesis service providers shall implement primary responsibility for information security, establishing and completing management systems such as for user registration, review of algorithm mechanisms, scientific ethics reviews, review for information publication, data security, personal information protection, prevention of telecommunication network fraud, and emergency response, and shall have safe and controllable technical safeguard measures."
+  },
+  {
+    "depth": 3,
+    "section_id": "Article 8",
+    "section_name": "Article 8",
+    "id_kind": "section_word",
+    "parent_id": "Chapter II",
+    "body": "Deep synthesis service providers shall draft and disclose management rules and platform covenants, improve service agreements, fulfill management responsibilities in accordance with law, and post the security obligations born by deep synthesis services' technical supporters and users in a conspicuous manner."
+  },
+  {
+    "depth": 3,
+    "section_id": "Article 9",
+    "section_name": "Article 9",
+    "id_kind": "section_word",
+    "parent_id": "Chapter II",
+    "body": "Deep synthesis service providers shall verify the real identity information of the users of the deep synthesis services in accordance with law through means such as mobile telephone numbers, identification card numbers, uniform social credit codes, or the state's public online identity verification service, and must not provide information publication services to deep synthesis service users that have not had real name information verification."
+  },
+  {
+    "depth": 3,
+    "section_id": "Article 10",
+    "section_name": "Article 10",
+    "id_kind": "section_word",
+    "parent_id": "Chapter II",
+    "body": "Deep synthesis service providers shall strengthen the management of deep synthesis content and employ technical measures or manual methods to conduct reviews of the data input by users and synthesis outcomes.\n\nDeep synthesis service providers shall establish and complete a pool of characteristics used to identify illegal and negative content, and improve standards, rules, and procedures for inclusion in the pool, and record and store related network logs.\n\nWhere deep synthesis service providers discover illegal or negative information, they shall employ measures to address it in accordance with law, store related records, and promptly make a report to the telecommunications department or relevant departments in charge; and take measures in accordance with laws and agreements against the related deep synthesis service users, such as giving warnings, restricted functions, service suspensions, and account closures."
+  },
+  {
+    "depth": 3,
+    "section_id": "Article 11",
+    "section_name": "Article 11",
+    "id_kind": "section_word",
+    "parent_id": "Chapter II",
+    "body": "Deep synthesis service providers shall establish and complete mechanisms for dispelling rumors, and where it is discovered that deep synthesis information services were used to produce, reproduce, publish, or transmit false information, they shall promptly employ measures to dispel the rumors, store related records, and make a report to the cybersecurity and informatization departments and relevant departments in charge."
+  },
+  {
+    "depth": 3,
+    "section_id": "Article 12",
+    "section_name": "Article 12",
+    "id_kind": "section_word",
+    "parent_id": "Chapter II",
+    "body": "Deep synthesis service providers shall set up convenient portals for user appeals, public complaints, and reports, and shall publish the process for handling them and the time limits for responses, promptly accepting and handling them, and giving feedback on the outcome."
+  },
+  {
+    "depth": 3,
+    "section_id": "Article 13",
+    "section_name": "Article 13",
+    "id_kind": "section_word",
+    "parent_id": "Chapter II",
+    "body": "Internet application stores and other application distribution platforms shall implement safety management responsibility such as for pre-offering reviews, routine management, and emergency response, check deep synthesis services' security assessments, filings, and other such situations; and where relevant state provisions are violated, they shall promptly employ measures to address it such as not making it available on the market, warnings, suspending services, or taking it off the market."
   },
   {
     "depth": 2,
-    "section_id": "Chapter I (3)",
-    "section_name": "V: Oversight Inspections and Legal Responsibility",
+    "section_id": "Chapter III",
+    "section_name": "Data and Technical Management Specifications",
     "id_kind": "chapter",
     "parent_id": "",
-    "body": "**Article 19:**  Deep synthesis service providers that have public opinion properties or the capacity for social mobilization shall perform formalities for filing and the modification or cancellation of filings.\n\nDeep synthesis service providers and technical supporters shall perform formalities for filing and the modification or cancellation of filings with reference to the preceding paragraph.\n\nDeep synthesis service providers and technical supporters that have completed filings shall indicate their filing number and provide links to publicly displayed information on the websites, applications, and so forth that they provide.\n\n**Article 20:**  Where deep synthesis service providers put new products, usages, or functions online that have public opinion properties or capacity for social mobilization shall follow the relevant state provisions to carry out security assessments.\n\n**Article 21:**  Internet information departments and departments for telecommunications and public security are to carry out oversight inspections of deep synthesis services in accordance with their duties. Deep synthesis service providers and technical supporters shall lawfully cooperate and provide necessary technological, data, and other support and assistance.\n\nWhere cybersecurity and informatization departments and the relevant competent departments discover that deep synthesis services have larger information security risks, they may, in accordance with the law and their duties, request that the deep synthesis service provider and technical supporters employ measures such as suspending information updates, user registration, or other related services. Deep synthesis service providers and technical supporters shall take measures as required to carry out rectification and eliminate threats.\n\n**Article 22:**  Where Deep synthesis service providers and technical supporters violate these provisions, they are to be punished in accordance with relevant laws and administrative regulations; and where serious consequences were caused, give heavier penalties in accordance with law.\n\nWhere violations of public security are constituted, the public security organs are to give public security administrative sanctions in accordance with law; where a crime is constituted, criminal responsibility is pursued in accordance with law."
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "Article 14",
+    "section_name": "Article 14",
+    "id_kind": "section_word",
+    "parent_id": "Chapter III",
+    "body": "Deep synthesis service providers and technical supporters shall strengthen the management of training data, employ necessary measures to ensure the security of training data, and where training data includes personal information, they shall comply with relevant provisions on the protection of personal information.\n\nWhere deep synthesis service providers and technical supports provide functions for editing biometric information such as faces and voices, they shall prompt the users of the deep synthesis service to notify the individuals whose personal information is being edited and obtain their independent consent in accordance with law."
+  },
+  {
+    "depth": 3,
+    "section_id": "Article 15",
+    "section_name": "Article 15",
+    "id_kind": "section_word",
+    "parent_id": "Chapter III",
+    "body": "Deep synthesis service providers and technical supporters shall strengthen technical management, periodically reviewing, assessing, and verifying algorithmic mechanisms that produce synthesis.\n\nWhere deep synthesis service providers and technical supporters provide tools that have the following functional models or frameworks, they shall carry out security assessments either on their own or by entrusting a professional body:\n\n(1) Generating or editing biometric information such as faces or voices;\n\n(2) Generating or editing special items, scenarios, or other non-biometric information that might involve national security, the nation's image, national interests, and the societal public interest."
+  },
+  {
+    "depth": 3,
+    "section_id": "Article 16",
+    "section_name": "Article 16",
+    "id_kind": "section_word",
+    "parent_id": "Chapter III",
+    "body": "Deep synthesis service providers shall employ technical measures to attach symbols to information content produced or edited by their services' users that do not impact users' usage, and store log information in accordance with laws, administrative regulations, and relevant state provisions."
+  },
+  {
+    "depth": 3,
+    "section_id": "Article 17",
+    "section_name": "Article 17",
+    "id_kind": "section_word",
+    "parent_id": "Chapter III",
+    "body": "Where deep synthesis service providers provide the following deep synthesis services which might cause confusion or mislead the public, they shall make a conspicuous label in a reasonable position or location on information content they generate or edit, alerting the public of the deep synthesis generation:\n\n(1) services such as smart dialogue or smart writing, etc., which simulate natural persons to generate or edit texts;\n\n(2) speech generation services such as voice synthesis and imitations or editing services that significantly change personal identification characteristics;\n\n(3) services that generate images or video of virtual persons such as face generation, face swapping, face manipulation, and gesture manipulation, or editing services that significantly change personal identification characteristics;\n\n(4) Generation or editing services such as realistic immersive scenes;\n\n(5) Other services that have functions that generate or significantly alter information content.\n\nWhere deep synthesis service providers provide deep synthesis services other than those provided for in the preceding paragraph, they shall provide functions for prominently labeling, and alert deep synthesis service users that they may make prominent labels."
+  },
+  {
+    "depth": 3,
+    "section_id": "Article 18",
+    "section_name": "Article 18",
+    "id_kind": "section_word",
+    "parent_id": "Chapter III",
+    "body": "Technical measures must not be employed by any organization or individual to delete, alter, or conceal the deep synthesis labels provided for in articles 16 and 17 of these Provisions."
+  },
+  {
+    "depth": 2,
+    "section_id": "Chapter IV",
+    "section_name": "Oversight Inspections and Legal Responsibility",
+    "id_kind": "chapter",
+    "parent_id": "",
+    "body": ""
+  },
+  {
+    "depth": 3,
+    "section_id": "Article 19",
+    "section_name": "Article 19",
+    "id_kind": "section_word",
+    "parent_id": "Chapter IV",
+    "body": "Deep synthesis service providers that have public opinion properties or the capacity for social mobilization shall perform formalities for filing and the modification or cancellation of filings.\n\nDeep synthesis service providers and technical supporters shall perform formalities for filing and the modification or cancellation of filings with reference to the preceding paragraph.\n\nDeep synthesis service providers and technical supporters that have completed filings shall indicate their filing number and provide links to publicly displayed information on the websites, applications, and so forth that they provide."
+  },
+  {
+    "depth": 3,
+    "section_id": "Article 20",
+    "section_name": "Article 20",
+    "id_kind": "section_word",
+    "parent_id": "Chapter IV",
+    "body": "Where deep synthesis service providers put new products, usages, or functions online that have public opinion properties or capacity for social mobilization shall follow the relevant state provisions to carry out security assessments."
+  },
+  {
+    "depth": 3,
+    "section_id": "Article 21",
+    "section_name": "Article 21",
+    "id_kind": "section_word",
+    "parent_id": "Chapter IV",
+    "body": "Internet information departments and departments for telecommunications and public security are to carry out oversight inspections of deep synthesis services in accordance with their duties. Deep synthesis service providers and technical supporters shall lawfully cooperate and provide necessary technological, data, and other support and assistance.\n\nWhere cybersecurity and informatization departments and the relevant competent departments discover that deep synthesis services have larger information security risks, they may, in accordance with the law and their duties, request that the deep synthesis service provider and technical supporters employ measures such as suspending information updates, user registration, or other related services. Deep synthesis service providers and technical supporters shall take measures as required to carry out rectification and eliminate threats."
+  },
+  {
+    "depth": 3,
+    "section_id": "Article 22",
+    "section_name": "Article 22",
+    "id_kind": "section_word",
+    "parent_id": "Chapter IV",
+    "body": "Where Deep synthesis service providers and technical supporters violate these provisions, they are to be punished in accordance with relevant laws and administrative regulations; and where serious consequences were caused, give heavier penalties in accordance with law.\n\nWhere violations of public security are constituted, the public security organs are to give public security administrative sanctions in accordance with law; where a crime is constituted, criminal responsibility is pursued in accordance with law."
   },
   {
     "depth": 2,
@@ -45,22 +221,30 @@
     "section_name": "Supplementary Provisions",
     "id_kind": "chapter",
     "parent_id": "",
-    "body": "**Article 23:**  The meaning of the following terms as used in these Provisions:\n\nDeep synthesis technology refers to the use of technologies such as deep learning and virtual reality, that use generative sequencing algorithms to create text, images, audio, video, virtual scenes, or other information; including but not limited to:\n\n(1) Technologies for generating or editing text content, such as chapter generation, text style conversion, and question-and-answer dialogues;\n\n(2) Technologies for generating or editing voice content, such as text-to-speech, voice conversion, and voice attribute editing;\n\n(3) Technologies for generating or editing non-voice audio content, such as music generation and scene sound editing;\n\n(4) Technologies for generating or editing biometric features in images and video content, such as face generation, face swapping, personal attribute editing, face manipulation, or gesture manipulation;\n\n(5) Technologies for generating or editing non-biometric features in images and video content, such as image generation, enhancement, or restoration;\n\n(6) Technology for generating or editing digital characters or virtual scenes, such as 3D reconstruction or digital simulations.\n\n\"deep synthesis service providers“ refers to organizations and individuals providing deep synthesis services.\n\n\"Deep synthesis service providers' technical supporters“ refers to organizations and individuals that provide technical support for deep synthesis services.\n\n\"Deep synthesis service users\" refers to organizations and individuals using deep synthesis services to make, reproduce, publish, or transmit information.\n\n\"Training data\" refers to annotated or benchmark datasets that are used to train machine learning models.\n\n\"Immersive scenes\" refers to highly realistic virtual scenes that are generated or edited by applying deep synthesis technology and can be experienced or interacted with by participants.\n\n**Article 24:**  Where deep synthesis service providers and technical supporters engage in online publication services, online cultural activities, and online A/V programming activities, they shall concurrently comply with the provisions of departments for news publication, culture and tourism, and radio and television.\n\n**Article 25:**  These rules shall take effect on January 10, 2023.\n\nCite this as:\n\nAPA (7th ed.) MLA (9th ed.) Chicago (Author-Date) IEEE Harvard Vancouver ASA ACS ACM BibTeX       Copy Citation\n\nTranslate, China Law. \"互联网信息服务深度合成管理规定.\" *China Law Translate*. 2022. Accessed on November 10, 2026 at 17:26. https://www.chinalawtranslate.com/deep-synthesis/.\n\nClick to rate this post!\n\n[Total: 0 Average: 0]"
-  },
-  {
-    "depth": 5,
-    "section_id": "",
-    "section_name": "China Law Translate",
-    "id_kind": "",
-    "parent_id": "Chapter V",
-    "body": "CLT is a crowdsourced, crowdfunded legal translation project that enables English speaking people to better understand Chinese law.\n\n- China Law Translate\n\n  2026/11/04\n\n  [Notes for Anticipated CPL Reforms](https://www.chinalawtranslate.com/en/notes-for-anticipated-cpl-reforms/)\n- China Law Translate\n\n  2026/10/15\n\n  [China’s “NetID” One Year in: Big Brother or Small Bother？](https://www.chinalawtranslate.com/en/chinas-netid-one-year-in-big-brother-or-small-bother/)\n- China Law Translate\n\n  2026/10/06\n\n  [Some Issues in the Draft Cross-border Corruption Law](https://www.chinalawtranslate.com/en/some-issues-in-the-draft-cross-border-corruption-law/)\n- China Law Translate\n\n  2026/09/24\n\n  [A few notes on the Ethnic Unity Law](https://www.chinalawtranslate.com/en/a-few-notes-on-the-ethnic-unity-law/)"
+    "body": ""
   },
   {
     "depth": 3,
-    "section_id": "",
-    "section_name": "Related posts:",
-    "id_kind": "",
+    "section_id": "Article 23",
+    "section_name": "Article 23",
+    "id_kind": "section_word",
     "parent_id": "Chapter V",
-    "body": "1. [Provisions on the Management of Internet Post Comments Services](https://www.chinalawtranslate.com/en/provisions-on-the-management-of-internet-post-comments-services/ \"Provisions on the Management of Internet Post Comments Services\")\n2. [Internet Group Information Service Management Provisions](https://www.chinalawtranslate.com/en/internet-group-information-service-management-provisions/ \"Internet Group Information Service Management Provisions\")\n3. [Public Security Organs Internet Security Oversight and Inspection Provisions (Draft For Solicitation of Comments)](https://www.chinalawtranslate.com/en/public-security-organs-internet-security-oversight-and-inspection-provisions-draft-for-solicitation-of-comments/ \"Public Security Organs Internet Security Oversight and Inspection Provisions (Draft For Solicitation of Comments)\")\n4. [The Supreme People's Court's Provisions on Several Issues Related to Trial of Cases by the Internet Courts](https://www.chinalawtranslate.com/en/the-supreme-peoples-courts-provisions-on-several-issues-related-to-trial-of-cases-by-the-internet-courts/ \"The Supreme People's Court's Provisions on Several Issues Related to Trial of Cases by the Internet Courts\")\n\nPublished in [Internet](https://www.chinalawtranslate.com/en/topics/internet/ \"View all posts in Internet\")"
+    "body": "The meaning of the following terms as used in these Provisions:\n\nDeep synthesis technology refers to the use of technologies such as deep learning and virtual reality, that use generative sequencing algorithms to create text, images, audio, video, virtual scenes, or other information; including but not limited to:\n\n(1) Technologies for generating or editing text content, such as chapter generation, text style conversion, and question-and-answer dialogues;\n\n(2) Technologies for generating or editing voice content, such as text-to-speech, voice conversion, and voice attribute editing;\n\n(3) Technologies for generating or editing non-voice audio content, such as music generation and scene sound editing;\n\n(4) Technologies for generating or editing biometric features in images and video content, such as face generation, face swapping, personal attribute editing, face manipulation, or gesture manipulation;\n\n(5) Technologies for generating or editing non-biometric features in images and video content, such as image generation, enhancement, or restoration;\n\n(6) Technology for generating or editing digital characters or virtual scenes, such as 3D reconstruction or digital simulations.\n\n\"deep synthesis service providers“ refers to organizations and individuals providing deep synthesis services.\n\n\"Deep synthesis service providers' technical supporters“ refers to organizations and individuals that provide technical support for deep synthesis services.\n\n\"Deep synthesis service users\" refers to organizations and individuals using deep synthesis services to make, reproduce, publish, or transmit information.\n\n\"Training data\" refers to annotated or benchmark datasets that are used to train machine learning models.\n\n\"Immersive scenes\" refers to highly realistic virtual scenes that are generated or edited by applying deep synthesis technology and can be experienced or interacted with by participants."
+  },
+  {
+    "depth": 3,
+    "section_id": "Article 24",
+    "section_name": "Article 24",
+    "id_kind": "section_word",
+    "parent_id": "Chapter V",
+    "body": "Where deep synthesis service providers and technical supporters engage in online publication services, online cultural activities, and online A/V programming activities, they shall concurrently comply with the provisions of departments for news publication, culture and tourism, and radio and television."
+  },
+  {
+    "depth": 3,
+    "section_id": "Article 25",
+    "section_name": "Article 25",
+    "id_kind": "section_word",
+    "parent_id": "Chapter V",
+    "body": "These rules shall take effect on January 10, 2023.\n\nCite this as:\n\nAPA (7th ed.) MLA (9th ed.) Chicago (Author-Date) IEEE Harvard Vancouver ASA ACS ACM BibTeX       Copy Citation\n\nTranslate, China Law. \"互联网信息服务深度合成管理规定.\" *China Law Translate*. 2022. Accessed on November 10, 2026 at 17:26. https://www.chinalawtranslate.com/deep-synthesis/.\n\nClick to rate this post!\n\n[Total: 0 Average: 0]"
   }
 ]

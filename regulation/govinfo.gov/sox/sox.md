@@ -23,139 +23,139 @@ Public Law 107-204
 United States of America in Congress <<NOTE: Sarbanes-Oxley Act of
 2002. Corporate responsibility.>> assembled,
 
-#### SECTION 1. SHORT <<NOTE: 15 USC 7201 note.>> TITLE; TABLE OF CONTENTS.
+#### SECTION 1. SHORT TITLE; TABLE OF CONTENTS.
 
     (a) Short Title.--This Act may be cited as the ``Sarbanes-Oxley Act
 of 2002''.
     (b) Table of Contents.--The table of contents for this Act is as
 follows:
 
-#### Sec. 1. Short title; table of contents.
-#### Sec. 2. Definitions.
-#### Sec. 3. Commission rules and enforcement.
+Sec. 1. Short title; table of contents.
+Sec. 2. Definitions.
+Sec. 3. Commission rules and enforcement.
 
-### TITLE I--PUBLIC COMPANY ACCOUNTING OVERSIGHT BOARD
+TITLE I--PUBLIC COMPANY ACCOUNTING OVERSIGHT BOARD
 
-#### Sec. 101. Establishment; administrative provisions.
-#### Sec. 102. Registration with the Board.
-#### Sec. 103. Auditing, quality control, and independence standards and
+Sec. 101. Establishment; administrative provisions.
+Sec. 102. Registration with the Board.
+Sec. 103. Auditing, quality control, and independence standards and
            rules.
-#### Sec. 104. Inspections of registered public accounting firms.
-#### Sec. 105. Investigations and disciplinary proceedings.
-#### Sec. 106. Foreign public accounting firms.
-#### Sec. 107. Commission oversight of the Board.
-#### Sec. 108. Accounting standards.
-#### Sec. 109. Funding.
+Sec. 104. Inspections of registered public accounting firms.
+Sec. 105. Investigations and disciplinary proceedings.
+Sec. 106. Foreign public accounting firms.
+Sec. 107. Commission oversight of the Board.
+Sec. 108. Accounting standards.
+Sec. 109. Funding.
 
-### TITLE II--AUDITOR INDEPENDENCE
+TITLE II--AUDITOR INDEPENDENCE
 
-#### Sec. 201. Services outside the scope of practice of auditors.
-#### Sec. 202. Preapproval requirements.
-#### Sec. 203. Audit partner rotation.
-#### Sec. 204. Auditor reports to audit committees.
-#### Sec. 205. Conforming amendments.
-#### Sec. 206. Conflicts of interest.
-#### Sec. 207. Study of mandatory rotation of registered public accounting
+Sec. 201. Services outside the scope of practice of auditors.
+Sec. 202. Preapproval requirements.
+Sec. 203. Audit partner rotation.
+Sec. 204. Auditor reports to audit committees.
+Sec. 205. Conforming amendments.
+Sec. 206. Conflicts of interest.
+Sec. 207. Study of mandatory rotation of registered public accounting
            firms.
-#### Sec. 208. Commission authority.
-#### Sec. 209. Considerations by appropriate State regulatory authorities.
+Sec. 208. Commission authority.
+Sec. 209. Considerations by appropriate State regulatory authorities.
 
-### TITLE III--CORPORATE RESPONSIBILITY
+TITLE III--CORPORATE RESPONSIBILITY
 
-#### Sec. 301. Public company audit committees.
-#### Sec. 302. Corporate responsibility for financial reports.
-#### Sec. 303. Improper influence on conduct of audits.
-#### Sec. 304. Forfeiture of certain bonuses and profits.
-#### Sec. 305. Officer and director bars and penalties.
-#### Sec. 306. Insider trades during pension fund blackout periods.
-#### Sec. 307. Rules of professional responsibility for attorneys.
-#### Sec. 308. Fair funds for investors.
+Sec. 301. Public company audit committees.
+Sec. 302. Corporate responsibility for financial reports.
+Sec. 303. Improper influence on conduct of audits.
+Sec. 304. Forfeiture of certain bonuses and profits.
+Sec. 305. Officer and director bars and penalties.
+Sec. 306. Insider trades during pension fund blackout periods.
+Sec. 307. Rules of professional responsibility for attorneys.
+Sec. 308. Fair funds for investors.
 
-### TITLE IV--ENHANCED FINANCIAL DISCLOSURES
+TITLE IV--ENHANCED FINANCIAL DISCLOSURES
 
-#### Sec. 401. Disclosures in periodic reports.
-#### Sec. 402. Enhanced conflict of interest provisions.
-#### Sec. 403. Disclosures of transactions involving management and principal
+Sec. 401. Disclosures in periodic reports.
+Sec. 402. Enhanced conflict of interest provisions.
+Sec. 403. Disclosures of transactions involving management and principal
            stockholders.
 
 [[Page 116 STAT. 746]]
 
-#### Sec. 404. Management assessment of internal controls.
-#### Sec. 405. Exemption.
-#### Sec. 406. Code of ethics for senior financial officers.
-#### Sec. 407. Disclosure of audit committee financial expert.
-#### Sec. 408. Enhanced review of periodic disclosures by issuers.
-#### Sec. 409. Real time issuer disclosures.
+Sec. 404. Management assessment of internal controls.
+Sec. 405. Exemption.
+Sec. 406. Code of ethics for senior financial officers.
+Sec. 407. Disclosure of audit committee financial expert.
+Sec. 408. Enhanced review of periodic disclosures by issuers.
+Sec. 409. Real time issuer disclosures.
 
-### TITLE V--ANALYST CONFLICTS OF INTEREST
+TITLE V--ANALYST CONFLICTS OF INTEREST
 
-#### Sec. 501. Treatment of securities analysts by registered securities
+Sec. 501. Treatment of securities analysts by registered securities
            associations and national securities exchanges.
 
-### TITLE VI--COMMISSION RESOURCES AND AUTHORITY
+TITLE VI--COMMISSION RESOURCES AND AUTHORITY
 
-#### Sec. 601. Authorization of appropriations.
-#### Sec. 602. Appearance and practice before the Commission.
-#### Sec. 603. Federal court authority to impose penny stock bars.
-#### Sec. 604. Qualifications of associated persons of brokers and dealers.
+Sec. 601. Authorization of appropriations.
+Sec. 602. Appearance and practice before the Commission.
+Sec. 603. Federal court authority to impose penny stock bars.
+Sec. 604. Qualifications of associated persons of brokers and dealers.
 
-### TITLE VII--STUDIES AND REPORTS
+TITLE VII--STUDIES AND REPORTS
 
-#### Sec. 701. GAO study and report regarding consolidation of public
+Sec. 701. GAO study and report regarding consolidation of public
            accounting firms.
-#### Sec. 702. Commission study and report regarding credit rating agencies.
-#### Sec. 703. Study and report on violators and violations
-#### Sec. 704. Study of enforcement actions.
-#### Sec. 705. Study of investment banks.
+Sec. 702. Commission study and report regarding credit rating agencies.
+Sec. 703. Study and report on violators and violations
+Sec. 704. Study of enforcement actions.
+Sec. 705. Study of investment banks.
 
-### TITLE VIII--CORPORATE AND CRIMINAL FRAUD ACCOUNTABILITY
+TITLE VIII--CORPORATE AND CRIMINAL FRAUD ACCOUNTABILITY
 
-#### Sec. 801. Short title.
-#### Sec. 802. Criminal penalties for altering documents.
-#### Sec. 803. Debts nondischargeable if incurred in violation of securities
+Sec. 801. Short title.
+Sec. 802. Criminal penalties for altering documents.
+Sec. 803. Debts nondischargeable if incurred in violation of securities
            fraud laws.
-#### Sec. 804. Statute of limitations for securities fraud.
-#### Sec. 805. Review of Federal Sentencing Guidelines for obstruction of
+Sec. 804. Statute of limitations for securities fraud.
+Sec. 805. Review of Federal Sentencing Guidelines for obstruction of
            justice and extensive criminal fraud.
-#### Sec. 806. Protection for employees of publicly traded companies who
+Sec. 806. Protection for employees of publicly traded companies who
            provide evidence of fraud.
-#### Sec. 807. Criminal penalties for defrauding shareholders of publicly
+Sec. 807. Criminal penalties for defrauding shareholders of publicly
            traded companies.
 
-### TITLE IX--WHITE-COLLAR CRIME PENALTY ENHANCEMENTS
+TITLE IX--WHITE-COLLAR CRIME PENALTY ENHANCEMENTS
 
-#### Sec. 901. Short title.
-#### Sec. 902. Attempts and conspiracies to commit criminal fraud offenses.
-#### Sec. 903. Criminal penalties for mail and wire fraud.
-#### Sec. 904. Criminal penalties for violations of the Employee Retirement
+Sec. 901. Short title.
+Sec. 902. Attempts and conspiracies to commit criminal fraud offenses.
+Sec. 903. Criminal penalties for mail and wire fraud.
+Sec. 904. Criminal penalties for violations of the Employee Retirement
            Income Security Act of 1974.
-#### Sec. 905. Amendment to sentencing guidelines relating to certain white-
+Sec. 905. Amendment to sentencing guidelines relating to certain white-
            collar offenses.
-#### Sec. 906. Corporate responsibility for financial reports.
+Sec. 906. Corporate responsibility for financial reports.
 
-### TITLE X--CORPORATE TAX RETURNS
+TITLE X--CORPORATE TAX RETURNS
 
-#### Sec. 1001. Sense of the Senate regarding the signing of corporate tax
+Sec. 1001. Sense of the Senate regarding the signing of corporate tax
            returns by chief executive officers.
 
-### TITLE XI--CORPORATE FRAUD AND ACCOUNTABILITY
+TITLE XI--CORPORATE FRAUD AND ACCOUNTABILITY
 
-#### Sec. 1101. Short title.
-#### Sec. 1102. Tampering with a record or otherwise impeding an official
+Sec. 1101. Short title.
+Sec. 1102. Tampering with a record or otherwise impeding an official
            proceeding.
-#### Sec. 1103. Temporary freeze authority for the Securities and Exchange
+Sec. 1103. Temporary freeze authority for the Securities and Exchange
            Commission.
-#### Sec. 1104. Amendment to the Federal Sentencing Guidelines.
-#### Sec. 1105. Authority of the Commission to prohibit persons from serving
+Sec. 1104. Amendment to the Federal Sentencing Guidelines.
+Sec. 1105. Authority of the Commission to prohibit persons from serving
            as officers or directors.
-#### Sec. 1106. Increased criminal penalties under Securities Exchange Act of
+Sec. 1106. Increased criminal penalties under Securities Exchange Act of
            1934.
-#### Sec. 1107. Retaliation against informants.
+Sec. 1107. Retaliation against informants.
 
-#### SEC. 2. <<NOTE: 15 USC 7201.>> DEFINITIONS.
+#### SEC. 2. DEFINITIONS.
 
     (a) In General.--In this Act, the following definitions shall apply:
-### (1) Appropriate state regulatory authority.--The term
+(1) Appropriate state regulatory authority.--The term
         ``appropriate State regulatory authority'' means the State
         agency or other authority responsible for the licensure or other
         regulation of the practice of accounting in the State or States
@@ -181,7 +181,7 @@ follows:
                 financial statements of the issuer; and
                     (B) if no such committee exists with respect to an
                 issuer, the entire board of directors of the issuer.
-### (4) Audit report.--The term ``audit report'' means a
+(4) Audit report.--The term ``audit report'' means a
         document or other record--
                     (A) prepared following an audit performed for
                 purposes of compliance by an issuer with the
@@ -194,7 +194,7 @@ follows:
                       expressed.
             (5) Board.--The term ``Board'' means the Public Company
         Accounting Oversight Board established under section 101.
-### (6) Commission.--The term ``Commission'' means the
+(6) Commission.--The term ``Commission'' means the
         Securities and Exchange Commission.
             (7) Issuer.--The term ``issuer'' means an issuer (as defined
         in section 3 of the Securities Exchange Act of 1934 (15 U.S.C.
@@ -209,7 +209,7 @@ follows:
         registered public accounting firm, other than those provided to
         an issuer in connection with an audit or a review of the
         financial statements of an issuer.
-### (9) Person associated with a public accounting firm.--
+(9) Person associated with a public accounting firm.--
                     (A) In general.--The terms ``person associated with
                 a public accounting firm'' (or with a ``registered
                 public accounting firm'') and ``associated person of a
@@ -234,7 +234,7 @@ follows:
                 the Board determines that any such exemption is
                 consistent with the purposes of this Act, the public
                 interest, or the protection of investors.
-### (10) Professional standards.--The term ``professional
+(10) Professional standards.--The term ``professional
         standards'' means--
                     (A) accounting principles that are--
                           (i) established by the standard setting body
@@ -267,7 +267,7 @@ follows:
                     (B) to the extent so designated by the rules of the
                 Board, any associated person of any entity described in
                 subparagraph (A).
-### (12) Registered public accounting firm.--The term
+(12) Registered public accounting firm.--The term
         ``registered public accounting firm'' means a public accounting
         firm registered with the Board in accordance with this Act.
             (13) Rules of the board.--The term ``rules of the Board''
@@ -288,7 +288,7 @@ follows:
         Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(47)), as
         amended by this Act, and includes the rules, regulations, and
         orders issued by the Commission thereunder.
-### (16) State.--The term ``State'' means any State of the
+(16) State.--The term ``State'' means any State of the
         United States, the District of Columbia, Puerto Rico, the Virgin
         Islands, or any other territory or possession of the United
         States.
@@ -297,7 +297,7 @@ follows:
 Exchange Act of 1934 (15 U.S.C. 78c(a)(47)) is amended by inserting
 ``the Sarbanes-Oxley Act of 2002,'' before ``the Public''.
 
-#### SEC. 3. <<NOTE: 15 USC 7202.>> COMMISSION RULES AND ENFORCEMENT.
+#### SEC. 3. COMMISSION RULES AND ENFORCEMENT.
 
     (a) Regulatory Action.--The Commission shall promulgate such rules
 and regulations, as may be necessary or appropriate in the public
@@ -313,7 +313,7 @@ Act.
         such person shall be subject to the same penalties, and to the
         same extent, as for a violation of that Act or such rules or
         regulations.
-### (2) Investigations, injunctions, and prosecution of
+(2) Investigations, injunctions, and prosecution of
         offenses.--Section 21 of the Securities Exchange Act of 1934 (15
         U.S.C. 78u) is amended--
                     (A) in subsection (a)(1), by inserting ``the rules
@@ -354,7 +354,7 @@ Act.
 
     (c) Effect on Commission Authority.--Nothing in this Act or the
 rules of the Board shall be construed to impair or limit--
-### (1) the authority of the Commission to regulate the
+(1) the authority of the Commission to regulate the
         accounting profession, accounting firms, or persons associated
         with such firms for purposes of enforcement of the securities
         laws;
@@ -371,7 +371,7 @@ rules of the Board shall be construed to impair or limit--
 
 ### TITLE I--PUBLIC COMPANY ACCOUNTING OVERSIGHT BOARD
 
-#### SEC. 101. <<NOTE: 15 USC 7211.>> ESTABLISHMENT; ADMINISTRATIVE
+#### SEC. 101. ESTABLISHMENT; ADMINISTRATIVE
             PROVISIONS.
 
     (a) Establishment of Board.--There is established the Public Company
@@ -417,7 +417,7 @@ Commission under subsection (d) of this section--
         public accounting firms and associated persons thereof, or
         otherwise to carry out this Act, in order to protect investors,
         or to further the public interest;
-### (6) enforce compliance with this Act, the rules of the
+(6) enforce compliance with this Act, the rules of the
         Board, professional standards, and the securities laws relating
         to the preparation and issuance of audit reports and the
         obligations and liabilities of accountants with respect thereto,
@@ -462,7 +462,7 @@ transition to the Board's operation.
         continuing payments, subject to such conditions as the
         Commission may impose, under standard arrangements for the
         retirement of members of public accounting firms.
-### (4) Appointment of board members.--
+(4) Appointment of board members.--
                     (A) Initial board.--Not <<NOTE: Deadline.>> later
                 than 90 days after the date of enactment of this Act,
                 the Commission, after consultation with the Chairman of
@@ -478,7 +478,7 @@ transition to the Board's operation.
                 affect the powers of the Board, but shall be filled in
                 the same manner as provided for appointments under this
                 section.
-### (5) Term of service.--
+(5) Term of service.--
                     (A) In general.--The term of service of each Board
                 member shall be 5 years, and until a successor is
                 appointed, except that--
@@ -495,7 +495,7 @@ transition to the Board's operation.
                 member of the Board, or as chairperson of the Board, for
                 more than 2 terms, whether or not such terms of service
                 are consecutive.
-### (6) Removal from office.--A member of the Board may be
+(6) Removal from office.--A member of the Board may be
         removed by the Commission from office, in accordance with
         section 107(d)(3), for good cause shown before the expiration of
         the term of that member.
@@ -503,7 +503,7 @@ transition to the Board's operation.
     (f) Powers of the Board.--In addition to any authority granted to
 the Board otherwise in this Act, the Board shall have the power, subject
 to section 107--
-### (1) to sue and be sued, complain and defend, in its
+(1) to sue and be sued, complain and defend, in its
         corporate name and through its own counsel, with the approval of
         the Commission, in any Federal, State, or other court;
             (2) to conduct its operations and maintain offices, and to
@@ -536,7 +536,7 @@ the approval of the Commission--
             (1) provide for the operation and administration of the
         Board, the exercise of its authority, and the performance of its
         responsibilities under this Act;
-### (2) permit, as the Board determines necessary or
+(2) permit, as the Board determines necessary or
         appropriate, delegation by the Board of any of its functions to
         an individual member or employee of the Board, or to a division
         of the Board, including functions with respect to hearing,
@@ -562,7 +562,7 @@ the approval of the Commission--
         matters) of 1 year for former members of the Board, and
         appropriate periods (not to exceed 1 year) for former staff of
         the Board; and
-### (4) provide as otherwise required by this Act.
+(4) provide as otherwise required by this Act.
 
     (h) Annual Report <<NOTE: Deadline.>> to the Commission.--The Board
 shall submit an annual report (including its audited financial
@@ -572,7 +572,7 @@ of the Senate, and the Committee on Financial Services of the House of
 Representatives, not later than 30 days after the date of receipt of
 that report by the Commission.
 
-#### SEC. 102. <<NOTE: 15 USC 7212.>> REGISTRATION WITH THE BOARD.
+#### SEC. 102. REGISTRATION WITH THE BOARD.
 
     (a) Mandatory Registration.--Beginning 180 days after the date of
 the determination of the Commission under section 101(d), it shall be
@@ -648,7 +648,7 @@ of, any audit report with respect to any issuer.
         the rules of the Board, unless the Board, prior to such date,
         issues a written notice of disapproval to, or requests more
         information from, the prospective registrant.
-### (2) Treatment.--A written notice of disapproval of a
+(2) Treatment.--A written notice of disapproval of a
         completed application under paragraph (1) for registration shall
         be treated as a disciplinary sanction for purposes of sections
         105(d) and 107(c).
@@ -676,11 +676,11 @@ collect a registration fee and an annual fee from each registered public
 accounting firm, in amounts that are sufficient to recover the costs of
 processing and reviewing applications and annual reports.
 
-#### SEC. 103. <<NOTE: 15 USC 7213.>> AUDITING, QUALITY CONTROL, AND
+#### SEC. 103. AUDITING, QUALITY CONTROL, AND
             INDEPENDENCE STANDARDS AND RULES.
 
     (a) Auditing, Quality Control, and Ethics Standards.--
-### (1) In general.--The Board shall, by rule, establish,
+(1) In general.--The Board shall, by rule, establish,
         including, to the extent it determines appropriate, through
         adoption of standards proposed by 1 or more professional groups
         of accountants designated pursuant to paragraph (3)(A) or
@@ -763,7 +763,7 @@ processing and reviewing applications and annual reports.
                           (vi) internal inspection; and
                           (vii) such other requirements as the Board may
                       prescribe, subject to subsection (a)(1).
-### (3) Authority to adopt other standards.--
+(3) Authority to adopt other standards.--
                     (A) In general.--In carrying out this subsection,
                 the Board--
                           (i) may adopt as its rules, subject to the
@@ -832,7 +832,7 @@ designated professional groups of accountants and advisory groups
 described in paragraphs (3)(A) and (4) of subsection (a), and its
 pending issues agenda for future standard setting projects.
 
-#### SEC. 104. <<NOTE: 15 USC 7214.>> INSPECTIONS OF REGISTERED PUBLIC
+#### SEC. 104. INSPECTIONS OF REGISTERED PUBLIC
             ACCOUNTING FIRMS.
 
     (a) In General.--The Board shall conduct a continuing program of
@@ -842,7 +842,7 @@ rules of the Board, the rules of the Commission, or professional
 standards, in connection with its performance of audits, issuance of
 audit reports, and related matters involving issuers.
     (b) Inspection Frequency.--
-### (1) In general.--Subject to paragraph (2), inspections
+(1) In general.--Subject to paragraph (2), inspections
         required by this section shall be conducted--
                     (A) annually with respect to each registered public
                 accounting firm that regularly provides audit reports
@@ -854,7 +854,7 @@ audit reports, and related matters involving issuers.
                 respect to each registered public accounting firm that
                 regularly provides audit reports for 100 or fewer
                 issuers.
-### (2) Adjustments to schedules.--The Board may, by rule,
+(2) Adjustments to schedules.--The Board may, by rule,
         adjust the inspection schedules set under paragraph (1) if the
         Board finds that different inspection schedules are consistent
         with the purposes of this Act, the public interest, and the
@@ -870,10 +870,10 @@ section, and in accordance with its rules for such inspections--
         this Act, the rules of the Board, the rules of the Commission,
         the firm's own quality control policies, or professional
         standards;
-### (2) report any such act, practice, or omission, if
+(2) report any such act, practice, or omission, if
         appropriate, to the Commission and each appropriate State
         regulatory authority; and
-### (3) begin a formal investigation or take disciplinary
+(3) begin a formal investigation or take disciplinary
         action, if appropriate, with respect to any such violation, in
         accordance with this Act and the rules of the Board.
 
@@ -917,7 +917,7 @@ inspection under this section, subject to subsection (h), shall be--
         any letter or comments by the Board or the inspector, and any
         letter of response from the registered public accounting firm;
         and
-### (2) made available in appropriate detail to the public
+(2) made available in appropriate detail to the public
         (subject to section 105(b)(5)(A), and to the protection of such
         confidential and proprietary information as the Board may
         determine to be appropriate, or as may be required by law),
@@ -952,7 +952,7 @@ inspection under this section, subject to subsection (h), shall be--
         the 30-day period following the date of the event giving rise to
         the review under subparagraph (A) or (B) of paragraph (1).
 
-#### SEC. 105. <<NOTE: 15 USC 7215.>> INVESTIGATIONS AND DISCIPLINARY
+#### SEC. 105. INVESTIGATIONS AND DISCIPLINARY
             PROCEEDINGS.
 
     (a) In General.--The <<NOTE: Establishment.>> Board shall establish,
@@ -1004,7 +1004,7 @@ firms and associated persons of such firms.
                 person, including any client of a registered public
                 accounting firm, that the Board considers relevant or
                 material to an investigation under this section.
-### (3) Noncooperation with investigations.--
+(3) Noncooperation with investigations.--
                     (A) In general.--If a registered public accounting
                 firm or any associated person thereof refuses to
                 testify, produce documents, or otherwise cooperate with
@@ -1022,7 +1022,7 @@ firms and associated persons of such firms.
                     (B) Procedure.--Any action taken by the Board under
                 this paragraph shall be subject to the terms of section
                 107(c).
-### (4) Coordination and referral of investigations.--
+(4) Coordination and referral of investigations.--
                     (A) Coordination.--The <<NOTE: Notification.>> Board
                 shall notify the Commission of any pending Board
                 investigation involving a potential violation of the
@@ -1049,7 +1049,7 @@ firms and associated persons of such firms.
                                 more States; and
                                     (III) the appropriate State
                                 regulatory authority.
-### (5) Use of documents.--
+(5) Use of documents.--
                     (A) Confidentiality.--Except as provided in
                 subparagraph (B), all documents and information prepared
                 or received by or specifically for the Board, and
@@ -1172,7 +1172,7 @@ firms and associated persons of such firms.
                     (B) repeated instances of negligent conduct, each
                 resulting in a violation of the applicable statutory,
                 regulatory, or professional standard.
-### (6) Failure to supervise.--
+(6) Failure to supervise.--
                     (A) In general.--The Board may impose sanctions
                 under this section on a registered accounting firm or
                 upon the supervisory personnel of such firm, if the
@@ -1207,7 +1207,7 @@ firms and associated persons of such firms.
                       no reasonable cause to believe that such
                       procedures and system were not being complied
                       with.
-### (7) Effect of suspension.--
+(7) Effect of suspension.--
                     (A) Association with a public accounting firm.--It
                 shall be unlawful for any person that is suspended or
                 barred from being associated with a registered public
@@ -1233,7 +1233,7 @@ firms and associated persons of such firms.
                 Board or the Commission.
 
     (d) Reporting of Sanctions.--
-### (1) Recipients.--If the Board imposes a disciplinary
+(1) Recipients.--If the Board imposes a disciplinary
         sanction, in accordance with this section, the Board shall
         report the sanction to--
                     (A) the Commission;
@@ -1265,7 +1265,7 @@ firms and associated persons of such firms.
         pending review of any disciplinary action of the Board under
         this subsection.
 
-#### SEC. 106. <<NOTE: 15 USC 7216.>> FOREIGN PUBLIC ACCOUNTING FIRMS.
+#### SEC. 106. FOREIGN PUBLIC ACCOUNTING FIRMS.
 
     (a) Applicability to Certain Foreign Firms.--
             (1) In general.--Any foreign public accounting firm that
@@ -1295,7 +1295,7 @@ firms and associated persons of such firms.
         the Board in accordance with, this title.
 
     (b) Production of Audit Workpapers.--
-### (1) Consent by foreign firms.--If a foreign public
+(1) Consent by foreign firms.--If a foreign public
         accounting firm issues an opinion or otherwise performs material
         services upon which a registered public accounting firm relies
         in issuing all or part of any audit report or any opinion
@@ -1307,7 +1307,7 @@ firms and associated persons of such firms.
                     (B) to be subject to the jurisdiction of the courts
                 of the United States for purposes of enforcement of any
                 request for production of such workpapers.
-### (2) Consent by domestic firms.--A registered public
+(2) Consent by domestic firms.--A registered public
         accounting firm that relies upon the opinion of a foreign public
         accounting firm, as described in paragraph (1), shall be
         deemed--
@@ -1333,7 +1333,7 @@ accounting firm'' means a public accounting firm that is organized and
 operates under the laws of a foreign government or political subdivision
 thereof.
 
-#### SEC. 107. <<NOTE: 15 USC 7217.>> COMMISSION OVERSIGHT OF THE BOARD.
+#### SEC. 107. COMMISSION OVERSIGHT OF THE BOARD.
 
     (a) General Oversight Responsibility.--The Commission shall have
 oversight and enforcement authority over the Board, as provided in this
@@ -1353,7 +1353,7 @@ purposes of those sections 17(a)(1) and 17(b)(1).
 
 [[Page 116 STAT. 766]]
 
-### (3) Approval criteria.--The Commission shall approve a
+(3) Approval criteria.--The Commission shall approve a
         proposed rule, if it finds that the rule is consistent with the
         requirements of this Act and the securities laws, or is
         necessary or appropriate in the public interest or for the
@@ -1397,12 +1397,12 @@ purposes of those sections 17(a)(1) and 17(b)(1).
         applicable to that Board''.
 
     (c) Commission Review of Disciplinary Action Taken by the Board.--
-### (1) Notice of sanction.--The Board shall promptly file
+(1) Notice of sanction.--The Board shall promptly file
         notice with the Commission of any final sanction on any
         registered public accounting firm or on any associated person
         thereof, in such form and containing such information as the
         Commission, by rule, may prescribe.
-### (2) Review of sanctions.--The provisions of sections
+(2) Review of sanctions.--The provisions of sections
         19(d)(2) and 19(e)(1) of the Securities Exchange Act of 1934 (15
         U.S.C. 78s (d)(2) and (e)(1)) shall govern the review by the
         Commission of final disciplinary sanctions imposed by the Board
@@ -1488,13 +1488,13 @@ purposes of those sections 17(a)(1) and 17(b)(1).
                 rule, or any professional standard by any registered
                 public accounting firm or any associated person thereof.
 
-#### SEC. 108. ACCOUNTING <<NOTE: 15 USC 7218.>> STANDARDS.
+#### SEC. 108. ACCOUNTING STANDARDS.
 
     (a) Amendment to Securities Act of 1933.--Section 19 of the
 Securities Act of 1933 (15 U.S.C. 77s) is amended--
             (1) by redesignating subsections (b) and (c) as subsections
         (c) and (d), respectively; and
-### (2) by inserting after subsection (a) the following:
+(2) by inserting after subsection (a) the following:
 
     ``(b) Recognition of Accounting Standards.--
             ``(1) In general.--In carrying out its authority under
@@ -1552,7 +1552,7 @@ to impair or limit the authority of the Commission to establish
 accounting principles or standards for purposes of enforcement of the
 securities laws.
     (d) Study and Report on Adopting Principles-Based Accounting.--
-### (1) Study.--
+(1) Study.--
                     (A) In general.--The Commission shall conduct a
                 study on the adoption by the United States financial
                 reporting system of a principles-based accounting
@@ -1570,14 +1570,14 @@ securities laws.
                       implemented; and
                           (iv) a thorough economic analysis of the
                       implementation of a principles-based system.
-### (2) Report.--Not later than 1 year after the date of
+(2) Report.--Not later than 1 year after the date of
         enactment of this Act, the Commission shall submit a report on
         the results of the study required by paragraph (1) to the
         Committee on Banking, Housing, and Urban Affairs of the Senate
         and the Committee on Financial Services of the House of
         Representatives.
 
-#### SEC. 109. <<NOTE: 15 USC 7219.>> FUNDING.
+#### SEC. 109. FUNDING.
 
     (a) In General.--The Board, and the standard setting body designated
 pursuant to section 19(b) of the Securities Act of 1933, as amended by
@@ -1607,7 +1607,7 @@ tasks contemplated by section 101(d).
         (e). Accounting support fees and other receipts of the Board and
         of such standard-setting body shall not be considered public
         monies of the United States.
-### (2) Funds generated from the collection of monetary
+(2) Funds generated from the collection of monetary
         penalties.--Subject to the availability in advance in an
         appropriations Act, and notwithstanding subsection (i), all
         funds collected by the Board as a result of the assessment of
@@ -1866,7 +1866,7 @@ Act of 1934 (15 U.S.C. 78j-1) is amended--
             (3) in subsection (c), by striking ``No independent public
         accountant'' and inserting ``No registered public accounting
         firm''; and
-### (4) in subsection (b)--
+(4) in subsection (b)--
                     (A) by striking ``the accountant'' each place that
                 term appears and inserting ``the firm'';
                     (B) by striking ``such accountant'' each place that
@@ -1886,7 +1886,7 @@ U.S.C. 78a et seq.) is amended--
 
     (d) Conforming Amendment.--Section 10A(f) of the Securities Exchange
 Act of 1934 (15 U.S.C. 78k(f)) <<NOTE: 15 USC 78j-1.>>  is amended--
-### (1) by striking ``Definition'' and inserting
+(1) by striking ``Definition'' and inserting
         ``Definitions''; and
             (2) by adding at the end the following: ``As used in this
         section, the term `issuer' means an issuer (as defined in
@@ -1913,7 +1913,7 @@ independent public accounting firm and participated in
 any capacity in the audit of that issuer during the 1-year period
 preceding the date of the initiation of the audit.''.
 
-#### SEC. 207. <<NOTE: 15 USC 7232.>> STUDY OF MANDATORY ROTATION OF
+#### SEC. 207. STUDY OF MANDATORY ROTATION OF
             REGISTERED PUBLIC ACCOUNTING FIRMS.
 
     (a) Study and Review Required.--The Comptroller General of the
@@ -1932,7 +1932,7 @@ rotation'' refers to the imposition of a limit on the period of years in
 which a particular registered public accounting firm may be the auditor
 of record for a particular issuer.
 
-#### SEC. 208. <<NOTE: 15 USC 7233.>> COMMISSION AUTHORITY.
+#### SEC. 208. COMMISSION AUTHORITY.
 
     (a) Commission Regulations.-- <<NOTE: Deadline.>> Not later than 180
 days after the date of enactment of this Act, the Commission shall issue
@@ -1948,7 +1948,7 @@ issuer prohibited by any of subsections (g) through (l) of section 10A
 of the Securities Exchange Act of 1934, as added by this title, or any
 rule or regulation of the Commission or of the Board issued thereunder.
 
-#### SEC. 209. <<NOTE: 15 USC 7234.>> CONSIDERATIONS BY APPROPRIATE STATE
+#### SEC. 209. CONSIDERATIONS BY APPROPRIATE STATE
             REGULATORY AUTHORITIES.
 
     In supervising nonregistered public accounting firms and their
@@ -2040,7 +2040,7 @@ is amended <<NOTE: 15 USC 78j-1.>> by adding at the end the following:
                     ``(B) to any advisers employed by the audit
                 committee under paragraph (5).''.
 
-#### SEC. 302. <<NOTE: 15 USC 7241.>> CORPORATE RESPONSIBILITY FOR FINANCIAL
+#### SEC. 302. CORPORATE RESPONSIBILITY FOR FINANCIAL
             REPORTS.
 
     (a) Regulations Required.--The Commission shall, by rule, require,
@@ -2050,18 +2050,18 @@ principal executive officer or officers and the principal financial
 officer or officers, or persons performing similar functions, certify in
 each annual or quarterly report filed or submitted under either such
 section of such Act that--
-### (1) the signing officer has reviewed the report;
+(1) the signing officer has reviewed the report;
             (2) based on the officer's knowledge, the report does not
         contain any untrue statement of a material fact or omit to state
         a material fact necessary in order to make the statements made,
         in light of the circumstances under which such statements were
         made, not misleading;
-### (3) based on such officer's knowledge, the financial
+(3) based on such officer's knowledge, the financial
         statements, and other financial information included in the
         report, fairly present in all material respects the financial
         condition and results of operations of the issuer as of, and
         for, the periods presented in the report;
-### (4) the signing officers--
+(4) the signing officers--
                     (A) are responsible for establishing and maintaining
                 internal controls;
                     (B) have designed such internal controls to ensure
@@ -2087,7 +2087,7 @@ section of such Act that--
                     (B) any fraud, whether or not material, that
                 involves management or other employees who have a
                 significant role in the issuer's internal controls; and
-### (6) the signing officers have indicated in the report
+(6) the signing officers have indicated in the report
         whether or not there were significant changes in internal
         controls or in other factors that could significantly affect
         internal controls subsequent to the date of their evaluation,
@@ -2107,7 +2107,7 @@ outside of the United States.
 effective not later than 30 days after the date of enactment of this
 Act.
 
-#### SEC. 303. <<NOTE: 15 USC 7242.>> IMPROPER INFLUENCE ON CONDUCT OF
+#### SEC. 303. IMPROPER INFLUENCE ON CONDUCT OF
             AUDITS.
 
     (a) Rules To Prohibit.--It shall be unlawful, in contravention of
@@ -2126,13 +2126,13 @@ issued under this section.
 shall be in addition to, and shall not supersede or preempt, any other
 provision of law or any rule or regulation issued thereunder.
     (d) Deadline for Rulemaking.--The Commission shall--
-### (1) propose the rules or regulations required by this
+(1) propose the rules or regulations required by this
         section, not later than 90 days after the date of enactment of
         this Act; and
-### (2) issue final rules or regulations required by this
+(2) issue final rules or regulations required by this
         section, not later than 270 days after that date of enactment.
 
-#### SEC. 304. <<NOTE: 15 USC 7243.>> FORFEITURE OF CERTAIN BONUSES AND
+#### SEC. 304. FORFEITURE OF CERTAIN BONUSES AND
             PROFITS.
 
     (a) Additional Compensation Prior to Noncompliance With Commission
@@ -2141,7 +2141,7 @@ an accounting restatement due to the material noncompliance of the
 issuer, as a result of misconduct, with any financial reporting
 requirement under the securities laws, the chief executive officer and
 chief financial officer of the issuer shall reimburse the issuer for--
-### (1) any bonus or other incentive-based or equity-based
+(1) any bonus or other incentive-based or equity-based
         compensation received by that person from the issuer during the
         12-month period following the first public issuance or filing
         with the Commission (whichever first occurs) of the financial
@@ -2176,7 +2176,7 @@ the Commission may seek, and any Federal court may grant, any equitable
 relief that may be appropriate or necessary for the benefit of
 investors.''.
 
-#### SEC. 306. <<NOTE: 15 USC 7244.>> INSIDER TRADES DURING PENSION FUND
+#### SEC. 306. INSIDER TRADES DURING PENSION FUND
             BLACKOUT PERIODS.
 
     (a) Prohibition of Insider Trading During Pension Fund Blackout
@@ -2191,7 +2191,7 @@ Periods.--
         such equity security if such director or officer acquires such
         equity security in connection with his or her service or
         employment as a director or executive officer.
-### (2) Remedy.--
+(2) Remedy.--
                     (A) In general.--Any profit realized by a director
                 or executive officer referred to in paragraph (1) from
                 any purchase, sale, or other acquisition or transfer in
@@ -2209,7 +2209,7 @@ Periods.--
                 fails diligently to prosecute the action thereafter,
                 except that no such suit shall be brought more than 2
                 years after the date on which such profit was realized.
-### (3) Rulemaking Authorized.--The Commission shall, in
+(3) Rulemaking Authorized.--The Commission shall, in
         consultation with the Secretary of Labor, issue rules to clarify
         the application of this subsection and to prevent evasion
         thereof. Such rules shall provide for the application of the
@@ -2256,14 +2256,14 @@ Periods.--
                       individual account plan by reason of a corporate
                       merger, acquisition, divestiture, or similar
                       transaction involving the plan or plan sponsor.
-### (5) Individual account plan.--For purposes of this
+(5) Individual account plan.--For purposes of this
         subsection, the term ``individual account plan'' has the meaning
         provided in section 3(34) of the Employee Retirement Income
         Security Act of 1974 (29 U.S.C. 1002(34), except that such term
         shall not include a one-participant retirement plan (within the
         meaning of section 101(i)(8)(B) of such Act (29 U.S.C.
         1021(i)(8)(B))).
-### (6) Notice to directors, executive officers, and the
+(6) Notice to directors, executive officers, and the
         commission.--In any case in which a director or executive
         officer is subject to the requirements of this subsection in
         connection with a blackout period (as defined in paragraph (4))
@@ -2456,7 +2456,7 @@ Individual Account Plan.--
             (3) Civil penalties for failure to provide notice.--Section
         502 of such Act (29 U.S.C. 1132) is amended--
                     (A) in subsection (a)(6), by striking ``(5), or
-### (6)'' and inserting ``(5), (6), or (7)'';
+(6)'' and inserting ``(5), (6), or (7)'';
                     (B) by redesignating paragraph (7) of subsection (c)
                 as paragraph (8); and
                     (C) by inserting after paragraph (6) of subsection
@@ -2471,7 +2471,7 @@ beneficiary shall be treated as a separate violation.''.
 
 [[Page 116 STAT. 784]]
 
-### (3) Plan amendments.--If any amendment made by this
+(3) Plan amendments.--If any amendment made by this
         subsection requires an amendment to any plan, such plan
         amendment shall not be required to be made before the first plan
         year beginning on or after the effective date of this section,
@@ -2491,7 +2491,7 @@ the enactment of this Act. Good faith compliance with the requirements
 of such provisions in advance of the issuance of applicable regulations
 thereunder shall be treated as compliance with such provisions.
 
-#### SEC. 307. <<NOTE: 15 USC 7245.>> RULES OF PROFESSIONAL RESPONSIBILITY
+#### SEC. 307. RULES OF PROFESSIONAL RESPONSIBILITY
             FOR ATTORNEYS.
 
     Not <<NOTE: Deadline.>> later than 180 days after the date of
@@ -2514,7 +2514,7 @@ including a rule--
         employed directly or indirectly by the issuer, or to the board
         of directors.
 
-#### SEC. 308. <<NOTE: 15 USC 7246.>> FAIR FUNDS FOR INVESTORS.
+#### SEC. 308. FAIR FUNDS FOR INVESTORS.
 
     (a) Civil Penalties Added to Disgorgement Funds for the Relief of
 Victims.--If in any judicial or administrative action brought by the
@@ -2540,7 +2540,7 @@ received as gifts, bequests, or devises shall be deposited in the
 disgorgement fund and shall be available for allocation in accordance
 with subsection (a).
     (c) Study Required.--
-### (1) Subject of study.--The Commission shall review and
+(1) Subject of study.--The Commission shall review and
         analyze--
                     (A) enforcement actions by the Commission over the
                 five years preceding the date of the enactment of this
@@ -2583,7 +2583,7 @@ proceeding described in subsection (a).
 
 ### TITLE IV--ENHANCED FINANCIAL DISCLOSURES
 
-#### SEC. 401. DISCLOSURES <<NOTE: 15 USC 7261.>> IN PERIODIC REPORTS.
+#### SEC. 401. DISCLOSURES IN PERIODIC REPORTS.
 
     (a) Disclosures Required.--Section 13 of the Securities Exchange Act
 of 1934 (15 U.S.C. 78m) is amended by adding at the end the following:
@@ -2640,7 +2640,7 @@ shall be presented in a manner that--
                 result in financial statements of issuers reflecting the
                 economics of such off-balance sheet transactions to
                 investors in a transparent fashion.
-### (2) Report and recommendations.--
+(2) Report and recommendations.--
         Not <<NOTE: Deadline.>> later than 6 months after the date of
         completion of the study required by paragraph (1), the
         Commission shall submit a report to the President, the Committee
@@ -2793,7 +2793,7 @@ subsection (a) and inserting the following:
 by this section shall be effective 30 days after the date of the
 enactment of this Act.
 
-#### SEC. 404. MANAGEMENT <<NOTE: 15 USC 7262.>> ASSESSMENT OF INTERNAL
+#### SEC. 404. MANAGEMENT ASSESSMENT OF INTERNAL
             CONTROLS.
 
     (a) Rules Required.--The Commission shall prescribe rules requiring
@@ -2817,14 +2817,14 @@ shall be made in accordance with standards for attestation engagements
 issued or adopted by the Board. Any such attestation shall not be the
 subject of a separate engagement.
 
-#### SEC. 405. <<NOTE: 15 USC 7263.>> EXEMPTION.
+#### SEC. 405. EXEMPTION.
 
     Nothing in section 401, 402, or 404, the amendments made by those
 sections, or the rules of the Commission under those sections shall
 apply to any investment company registered under section 8 of the
 Investment Company Act of 1940 (15 U.S.C. 80a-8).
 
-#### SEC. 406. CODE OF <<NOTE: 15 USC 7264.>> ETHICS FOR SENIOR FINANCIAL
+#### SEC. 406. CODE OF ETHICS FOR SENIOR FINANCIAL
             OFFICERS.
 
     (a) Code of Ethics Disclosure.--
@@ -2846,16 +2846,16 @@ of ethics for senior financial officers.
 
     (c) Definition.--In this section, the term ``code of ethics'' means
 such standards as are reasonably necessary to promote--
-### (1) honest and ethical conduct, including the ethical
+(1) honest and ethical conduct, including the ethical
         handling of actual or apparent conflicts of interest between
         personal and professional relationships;
 
 [[Page 116 STAT. 790]]
 
-### (2) full, fair, accurate, timely, and understandable
+(2) full, fair, accurate, timely, and understandable
         disclosure in the periodic reports required to be filed by the
         issuer; and
-### (3) compliance with applicable governmental rules and
+(3) compliance with applicable governmental rules and
         regulations.
 
     (d) Deadline for Rulemaking.--The Commission shall--
@@ -2864,7 +2864,7 @@ such standards as are reasonably necessary to promote--
             (2) issue final rules to implement this section, not later
         than 180 days after that date of enactment.
 
-#### SEC. 407. DISCLOSURE <<NOTE: 15 USC 7265.>> OF AUDIT COMMITTEE FINANCIAL
+#### SEC. 407. DISCLOSURE OF AUDIT COMMITTEE FINANCIAL
             EXPERT.
 
     (a) Rules Defining ``Financial Expert''.--The Commission shall issue
@@ -2881,16 +2881,16 @@ person has, through education and experience as a public accountant or
 auditor or a principal financial officer, comptroller, or principal
 accounting officer of an issuer, or from a position involving the
 performance of similar functions--
-### (1) an understanding of generally accepted accounting
+(1) an understanding of generally accepted accounting
         principles and financial statements;
-### (2) experience in--
+(2) experience in--
                     (A) the preparation or auditing of financial
                 statements of generally comparable issuers; and
                     (B) the application of such principles in connection
                 with the accounting for estimates, accruals, and
                 reserves;
-### (3) experience with internal accounting controls; and
-### (4) an understanding of audit committee functions.
+(3) experience with internal accounting controls; and
+(4) an understanding of audit committee functions.
 
     (c) Deadline for Rulemaking.--The Commission shall--
             (1) propose rules to implement this section, not later than
@@ -2898,7 +2898,7 @@ performance of similar functions--
             (2) issue final rules to implement this section, not later
         than 180 days after that date of enactment.
 
-#### SEC. 408. <<NOTE: 15 USC 7266.>> ENHANCED REVIEW OF PERIODIC DISCLOSURES
+#### SEC. 408. ENHANCED REVIEW OF PERIODIC DISCLOSURES
             BY ISSUERS.
 
     (a) Regular and Systematic Review.--The Commission shall review
@@ -2912,19 +2912,19 @@ issuer's financial statement.
     (b) Review Criteria.--For purposes of scheduling the reviews
 required by subsection (a), the Commission shall consider, among other
 factors--
-### (1) issuers that have issued material restatements of
+(1) issuers that have issued material restatements of
         financial results;
             (2) issuers that experience significant volatility in their
         stock price as compared to other issuers;
-### (3) issuers with the largest market capitalization;
+(3) issuers with the largest market capitalization;
 
 [[Page 116 STAT. 791]]
 
             (4) emerging companies with disparities in price to earning
         ratios;
-### (5) issuers whose operations significantly affect any
+(5) issuers whose operations significantly affect any
         material sector of the economy; and
-### (6) any other factors that the Commission may consider
+(6) any other factors that the Commission may consider
         relevant.
 
     (c) Minimum Review Period.--In no event shall an issuer required to
@@ -2934,7 +2934,7 @@ years.
 
 #### SEC. 409. REAL TIME ISSUER DISCLOSURES.
 
-### Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m),
+Section 13 of the Securities Exchange Act of 1934 (15 U.S.C. 78m),
 as amended by this Act, is amended by adding at the end the following:
     ``(l) Real Time Issuer Disclosures.--Each issuer reporting under
 section 13(a) or 15(d) shall disclose to the public on a rapid and
@@ -3080,7 +3080,7 @@ necessary for the protection of investors and in the public interest.
 
 #### SEC. 601. AUTHORIZATION OF APPROPRIATIONS.
 
-### Section 35 of the Securities Exchange Act of 1934 (15 U.S.C. 78kk)
+Section 35 of the Securities Exchange Act of 1934 (15 U.S.C. 78kk)
 is amended to read as follows:
 
 ``SEC. 35. AUTHORIZATION OF APPROPRIATIONS.
@@ -3204,7 +3204,7 @@ an Offering of Penny Stock.--
 
     (a) Brokers and Dealers.--Section 15(b)(4) of the Securities
 Exchange Act of 1934 (15 U.S.C. 78o) is amended--
-### (1) by striking subparagraph (F) and inserting the
+(1) by striking subparagraph (F) and inserting the
         following:
             ``(F) is subject to any order of the Commission barring or
         suspending the right of the person to be associated with a
@@ -3239,7 +3239,7 @@ Act of 1940 (15 U.S.C. 80b-3(e)) is amended--
         investment adviser;'';
             (2) in paragraph (8), by striking the period at the end and
         inserting ``; or''; and
-### (3) by adding at the end the following:
+(3) by adding at the end the following:
             ``(9) is subject to any final order of a State securities
         commission (or any agency or officer performing like functions),
         State authority that supervises or examines banks, savings
@@ -3258,7 +3258,7 @@ Act of 1940 (15 U.S.C. 80b-3(e)) is amended--
                 manipulative, or deceptive conduct.''.
 
     (c) Conforming Amendments.--
-### (1) Securities exchange act of 1934.--The Securities
+(1) Securities exchange act of 1934.--The Securities
         Exchange Act of 1934 (15 U.S.C. 78a et seq.) is amended--
                     (A) in section 3(a)(39)(F) (15 U.S.C.
                 78c(a)(39)(F))--
@@ -3286,19 +3286,19 @@ Act of 1940 (15 U.S.C. 80b-3(e)) is amended--
         Investment Advisers Act of 1940 (15 U.S.C. 80b-3(f)) is
         amended--
                     (A) by striking ``or (8)'' and inserting ``(8), or
-### (9)''; and
+(9)''; and
                     (B) by inserting ``or (3)'' after ``paragraph (2)''.
 
 [[Page 116 STAT. 797]]
 
 ### TITLE VII--STUDIES AND REPORTS
 
-#### SEC. 701. <<NOTE: 15 USC 7201 note.>> GAO STUDY AND REPORT REGARDING
+#### SEC. 701. GAO STUDY AND REPORT REGARDING
             CONSOLIDATION OF PUBLIC ACCOUNTING FIRMS.
 
     (a) Study Required.--The Comptroller General of the United States
 shall conduct a study--
-### (1) to identify--
+(1) to identify--
                     (A) the factors that have led to the consolidation
                 of public accounting firms since 1989 and the consequent
                 reduction in the number of firms capable of providing
@@ -3325,11 +3325,11 @@ shall conduct a study--
 
     (b) Consultation.--In planning and conducting the study under this
 section, the Comptroller General shall consult with--
-### (1) the Commission;
+(1) the Commission;
             (2) the regulatory agencies that perform functions similar
         to the Commission within the other member countries of the Group
         of Seven Industrialized Nations;
-### (3) the Department of Justice; and
+(3) the Department of Justice; and
             (4) any other public or private sector organization that the
         Comptroller General considers appropriate.
 
@@ -3381,7 +3381,7 @@ enactment of this Act.
     (a) Study.--The Commission shall conduct a study to determine, based
 upon information for the period from January 1, 1998, to December 31,
 2001--
-### (1) the number of securities professionals, defined as
+(1) the number of securities professionals, defined as
         public accountants, public accounting firms, investment bankers,
         investment advisers, brokers, dealers, attorneys, and other
         securities professionals practicing before the Commission--
@@ -3458,7 +3458,7 @@ investment banks and financial advisers--
         and other financial arrangements that may have had the effect of
         altering the company's reported financial statements in ways
         that obscured the true financial picture of the company;
-### (2) in the failure of Global Crossing, including with
+(2) in the failure of Global Crossing, including with
         respect to transactions involving swaps of fiberoptic cable
         capacity, in the designing transactions that may have had the
         effect of altering the company's reported financial statements
@@ -3485,7 +3485,7 @@ in the study.
 ### TITLE VIII--CORPORATE <<NOTE: Corporate and Criminal Fraud
 Accountability Act of 2002.>> AND CRIMINAL FRAUD ACCOUNTABILITY
 
-#### SEC. 801. <<NOTE: 18 USC 1501 note.>> SHORT TITLE.
+#### SEC. 801. SHORT TITLE.
 
     This title may be cited as the ``Corporate and Criminal Fraud
 Accountability Act of 2002''.
@@ -3553,12 +3553,12 @@ end the following new items:
 #### SEC. 803. DEBTS NONDISCHARGEABLE IF INCURRED IN VIOLATION OF SECURITIES
             FRAUD LAWS.
 
-### Section 523(a) of title 11, United States Code, is amended--
-### (1) in paragraph (17), by striking ``or'' after the
+Section 523(a) of title 11, United States Code, is amended--
+(1) in paragraph (17), by striking ``or'' after the
         semicolon;
             (2) in paragraph (18), by striking the period at the end and
         inserting ``; or''; and
-### (3) by adding at the end, the following:
+(3) by adding at the end, the following:
             ``(19) that--
                     ``(A) is for--
                           ``(i) the violation of any of the Federal
@@ -3586,8 +3586,8 @@ end the following new items:
 
     (a) In General.--Section 1658 of title 28, United States Code, is
 amended--
-### (1) by inserting ``(a)'' before ``Except''; and
-### (2) by adding at the end the following:
+(1) by inserting ``(a)'' before ``Except''; and
+(2) by adding at the end the following:
 
     ``(b) Notwithstanding subsection (a), a private right of action that
 involves a claim of fraud, deceit, manipulation, or contrivance in
@@ -3610,7 +3610,7 @@ this section shall create a new, private right of action.
 
 [[Page 116 STAT. 802]]
 
-#### SEC. 805. <<NOTE: 28 USC 994 note.>> REVIEW OF FEDERAL SENTENCING
+#### SEC. 805. REVIEW OF FEDERAL SENTENCING
             GUIDELINES FOR OBSTRUCTION OF JUSTICE AND EXTENSIVE CRIMINAL
             FRAUD.
 
@@ -3619,7 +3619,7 @@ Pursuant to section 994 of title 28, United States Code, and in
 accordance with this section, the United States Sentencing Commission
 shall review and amend, as appropriate, the Federal Sentencing
 Guidelines and related policy statements to ensure that--
-### (1) the base offense level and existing enhancements
+(1) the base offense level and existing enhancements
         contained in United States Sentencing Guideline 2J1.2 relating
         to obstruction of justice are sufficient to deter and punish
         that activity;
@@ -3635,7 +3635,7 @@ Guidelines and related policy statements to ensure that--
                           (iii) more than minimal planning; or
                     (B) the offense involved abuse of a special skill or
                 a position of trust;
-### (3) the guideline offense levels and enhancements for
+(3) the guideline offense levels and enhancements for
         violations of section 1519 or 1520 of title 18, United States
         Code, as added by this title, are sufficient to deter and punish
         that activity;
@@ -3794,7 +3794,7 @@ end the following new item:
 ### TITLE IX--WHITE-COLLAR <<NOTE: White-Collar Crime Penalty Enhancement
 Act of 2002.>> CRIME PENALTY ENHANCEMENTS
 
-#### SEC. 901. <<NOTE: 18 USC 1341 note.>> SHORT TITLE.
+#### SEC. 901. SHORT TITLE.
 
     This title may be cited as the ``White-Collar Crime Penalty
 Enhancement Act of 2002''.
@@ -3829,13 +3829,13 @@ amended by striking ``five'' and inserting ``20''.
 #### SEC. 904. CRIMINAL PENALTIES FOR VIOLATIONS OF THE EMPLOYEE RETIREMENT
             INCOME SECURITY ACT OF 1974.
 
-### Section 501 of the Employee Retirement Income Security Act of 1974
+Section 501 of the Employee Retirement Income Security Act of 1974
 (29 U.S.C. 1131) is amended--
-### (1) by striking ``$5,000'' and inserting ``$100,000'';
+(1) by striking ``$5,000'' and inserting ``$100,000'';
             (2) by striking ``one year'' and inserting ``10 years''; and
             (3) by striking ``$100,000'' and inserting ``$500,000''.
 
-#### SEC. 905. <<NOTE: 28 USC 994 note.>> AMENDMENT TO SENTENCING GUIDELINES
+#### SEC. 905. AMENDMENT TO SENTENCING GUIDELINES
             RELATING TO CERTAIN WHITE-COLLAR OFFENSES.
 
     (a) Directive to the United States Sentencing Commission.--Pursuant
@@ -3846,7 +3846,7 @@ Sentencing Guidelines and related policy statements to implement the
 provisions of this Act.
     (b) Requirements.--In carrying out this section, the Sentencing
 Commission shall--
-### (1) ensure that the sentencing guidelines and policy
+(1) ensure that the sentencing guidelines and policy
         statements reflect the serious nature of the offenses and the
         penalties set forth in this Act, the growing incidence of
         serious fraud offenses which are identified above, and the need
@@ -3858,7 +3858,7 @@ Commission shall--
         by this Act are sufficient to deter and punish such offenses,
         and specifically, are adequate in view of the statutory
         increases in penalties contained in this Act;
-### (3) assure reasonable consistency with other relevant
+(3) assure reasonable consistency with other relevant
         directives and sentencing guidelines;
             (4) account for any additional aggravating or mitigating
         circumstances that might justify exceptions to the generally
@@ -3935,7 +3935,7 @@ corporation.
 ### TITLE XI--CORPORATE <<NOTE: Corporate Fraud Accountability Act of
 2002.>> FRAUD ACCOUNTABILITY
 
-#### SEC. 1101. <<NOTE: 15 USC 78a note.>> SHORT TITLE.
+#### SEC. 1101. SHORT TITLE.
 
     This title may be cited as the ``Corporate Fraud Accountability Act
 of 2002''.
@@ -3943,8 +3943,8 @@ of 2002''.
 #### SEC. 1102. TAMPERING WITH A RECORD OR OTHERWISE IMPEDING AN OFFICIAL
             PROCEEDING.
 
-### Section 1512 of title 18, United States Code, is amended--
-### (1) by redesignating subsections (c) through (i) as
+Section 1512 of title 18, United States Code, is amended--
+(1) by redesignating subsections (c) through (i) as
         subsections (d) through (j), respectively; and
             (2) by inserting after subsection (b) the following new
         subsection:
@@ -4037,7 +4037,7 @@ both.''.
 Exchange Act of 1934 (15 U.S.C. 78u-3(c)(2)) is amended by striking
 ``This'' and inserting ``paragraph (1)''.
 
-#### SEC. 1104. <<NOTE: 28 USC 994 note.>> AMENDMENT TO THE FEDERAL
+#### SEC. 1104. AMENDMENT TO THE FEDERAL
             SENTENCING GUIDELINES.
 
     (a) Request for Immediate Consideration by The United States
@@ -4046,7 +4046,7 @@ of title 28, United States Code, and in accordance with this section,
 the United States Sentencing Commission is requested to--
             (1) promptly review the sentencing guidelines applicable to
         securities and accounting fraud and related offenses;
-### (2) expeditiously consider the promulgation of new
+(2) expeditiously consider the promulgation of new
         sentencing guidelines or amendments to existing sentencing
         guidelines to provide an enhancement for officers or directors
         of publicly traded corporations who commit fraud and related
@@ -4061,11 +4061,11 @@ the United States Sentencing Commission is requested to--
 
     (b) Considerations in Review.--In carrying out this section, the
 Sentencing Commission is requested to--
-### (1) ensure that the sentencing guidelines and policy
+(1) ensure that the sentencing guidelines and policy
         statements reflect the serious nature of securities, pension,
         and accounting fraud and the need for aggressive and appropriate
         law enforcement action to prevent such offenses;
-### (2) assure reasonable consistency with other relevant
+(2) assure reasonable consistency with other relevant
         directives and with other guidelines;
             (3) account for any aggravating or mitigating circumstances
         that might justify exceptions, including circumstances for which
@@ -4075,7 +4075,7 @@ Sentencing Commission is requested to--
         for an obstruction of justice offense are adequate in cases
         where documents or other physical evidence are actually
         destroyed or fabricated;
-### (5) ensure that the guideline offense levels and
+(5) ensure that the guideline offense levels and
         enhancements under United States Sentencing Guideline 2B1.1 (as
         in effect on the date of enactment of this Act) are sufficient
         for a fraud offense when the number of victims adversely
@@ -4130,12 +4130,12 @@ or director of any such issuer.''.
 #### SEC. 1106. INCREASED CRIMINAL PENALTIES UNDER SECURITIES EXCHANGE ACT OF
             1934.
 
-### Section 32(a) of the Securities Exchange Act of 1934 (15 U.S.C.
+Section 32(a) of the Securities Exchange Act of 1934 (15 U.S.C.
 78ff(a)) is amended--
             (1) by striking ``$1,000,000, or imprisoned not more than 10
         years'' and inserting ``$5,000,000, or imprisoned not more than
         20 years''; and
-### (2) by striking ``$2,500,000'' and inserting
+(2) by striking ``$2,500,000'' and inserting
         ``$25,000,000''.
 
 #### SEC. 1107. RETALIATION AGAINST INFORMANTS.
