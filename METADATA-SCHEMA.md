@@ -214,8 +214,8 @@ when the distinction could trip up a lookup.
 |---|---|---|
 | `spdx` | Yes | SPDX identifier when available (e.g., `CC-BY-4.0`, `CC-BY-SA-4.0`, `Apache-2.0`, `CC0-1.0`). Use `LicenseRef-{custom}` for non-SPDX licenses. |
 | `redistribution` | Yes | Free-text: `permitted`, `permitted_with_attribution`, `permitted_for_study_purposes`, `prohibited`, etc. |
-| `derivatives` | Yes | Free-text: `permitted`, `permitted_with_attribution`, `share_alike_required`, `prohibited`. |
-| `publicly_redistributable` | Yes | Boolean. Drives whether content goes in this public repo or the private archive. Set it from the source's access tier under the 4-tier hosting rule (AGENTS.md), not only from the licence text: a Tier 3 (free login) or Tier 4 (paid / members-only) source is `false` here unless a `public_exception` is recorded. |
+| `derivatives` | Yes | Free-text: `permitted`, `permitted_with_attribution`, `share_alike_required`, `adaptations_may_be_made_but_not_shared` (e.g., CC BY-NC-ND), `prohibited`. |
+| `publicly_redistributable` | Yes | Boolean. Drives whether content goes in this public repo or the private archive. Set it from the source's access tier under the 4-tier hosting rule (AGENTS.md), not only from the licence text: a Tier 3 (free login) or Tier 4 (paid / members-only) source is `false` here unless Kurt grants an exception (see [Public hosting exceptions](#public-hosting-exceptions)). |
 | `license_text_url` | Recommended | URL to the full license text. |
 | `notes` | Optional | Free-text caveats. |
 
@@ -328,27 +328,32 @@ Records the **intended** terminal state for the document, paired with `current_e
 
 For the meaningful-gap analysis, see `tools-resources/utils/backfill_desired_end_state.py` (heuristic backfill) and the `build_index.py` summary which compares current vs desired.
 
-### Public Exception Object
+### Public hosting exceptions
 
-Optional, and rare. Under the 4-tier hosting rule (see [AGENTS.md](AGENTS.md#licensedrestricted-content-is-not-committed-here-4-tier-hosting-rule-2026-11-09)), content from a Tier 3 (free login) or Tier 4 (paid / members-only) source is never hosted in this public repository unless Kurt grants a specific, explicit, well-documented exception with solid reasons. When he does, record it in that edition's directory metadata:
+There is no metadata field for this. Under the 4-tier hosting rule (see [AGENTS.md](AGENTS.md#licensedrestricted-content-is-not-committed-here-4-tier-hosting-rule-2026-11-09)), content from a Tier 3 (free login) or Tier 4 (paid / members-only) source is never hosted in this public repository unless Kurt grants a specific, explicit, well-documented exception with solid reasons. A metadata file cannot grant itself one.
 
-```json
-"public_exception": {
-  "approved_by": "Kurt Seifried",
-  "date": "2026-11-20",
-  "reference": "https://github.com/CSA-Internal-Governance/SecID/issues/NN",
-  "reason": "Why public hosting is justified for this source, in enough detail to be checked."
+When Kurt grants an exception, it is recorded as an entry in the `ALLOWLIST` constant in `tools-resources/utils/check_tier_restrictions.py`:
+
+```python
+{
+    "kind": "tier3-4-exception",
+    "path": "control/<namespace>/<name>/<version>",      # one exact edition directory
+    "secid": "secid:control/<namespace>/<name>@<version>",  # must equal that directory's metadata secid
+    "files": ["<name>-<version>.md"],                    # explicit file names in that directory only
+    "approved_by": "Kurt Seifried",
+    "date": "YYYY-MM-DD",
+    "reason": "The solid reasons, in enough detail to be checked.",
+    "reference": "https://github.com/<CSA org>/<repo>/issues/<n>",  # his recorded decision
 }
 ```
 
-| Field | Description |
-|---|---|
-| `approved_by` | Who granted the exception. |
-| `date` | `YYYY-MM-DD` the exception was granted. |
-| `reference` | `https://` link to the issue, ADR or decision record that grants it. |
-| `reason` | The reasons, stated in the record. |
+The gate validates every entry: all fields present, a real date that is neither in the future nor before the rule (2026-11-09), a reason of substance, a reference to a GitHub issue, PR or decision document in a CSA organization, and, for this kind, `approved_by` equal to Kurt. An entry covers only the files it lists, directly in its directory. Subdirectories, sibling editions and the publisher directory inherit nothing.
 
-All four fields are required and non-empty. The CI gate `tools-resources/utils/check_tier_restrictions.py` fails a PR that commits anything other than `README.md` or `*-metadata.json` under a Tier 3/4 publisher domain (listed in the script) unless the nearest directory metadata carries a valid `public_exception`. An agent never adds this object on its own initiative: it records a decision, and the `reference` must point to that decision.
+A second kind, `tier1-2-source`, records a source that is itself Tier 1 or 2 (public, no login) although its publisher's standards are gated. It is a classification, not an exception, and it carries an `evidence` URL for the public upstream. Today the only entry is the OVAL Repository text under `reference/cisecurity.org/oval/` (upstream: the public GitHub repository CISecurity/OVALRepo).
+
+Adding or widening an entry changes a CI gate. Under the program's rules that needs a different-vendor review and a decision record, so an agent cannot approve its own exception.
+
+Without an entry, a Tier 3/4 publisher directory may hold only stubs: the edition's own `<dir>-metadata.json` (or `<parent>-<dir>-metadata.json`), which must be valid JSON within 16 KiB, with no string longer than 3,000 characters and a `secid` that names the directory, plus at most one `README.md` of up to 6 KiB beside it. Per-file sidecars and marker `_meta.json` files count as content there.
 
 ### Extraction History (Array)
 
@@ -407,7 +412,7 @@ A metadata file is **valid** when:
 4. `license.spdx` is set (use `LicenseRef-{...}` for non-SPDX)
 5. `license.publicly_redistributable` is set (boolean)
 
-Tier restrictions are checked in CI: `python3 -I tools-resources/utils/check_tier_restrictions.py` (see [Public Exception Object](#public-exception-object)).
+Tier restrictions are checked in CI: `python3 -I tools-resources/utils/check_tier_restrictions.py` (see [Public hosting exceptions](#public-hosting-exceptions)).
 
 ## Examples in the Repo
 

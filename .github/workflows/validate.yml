@@ -4,9 +4,9 @@ name: Validate dataset
 #   1. audit_secid_alignment.py against CloudSecurityAlliance/SecID main
 #   2. AICM crosswalk & patch figure/invariant checks
 #   3. CCM 4.1.1 & CAIQ 4.1.0 figure/invariant checks
-#   4. Tier-restriction gate: no Tier 3/4 publisher content beyond metadata/README
-#      stubs unless the edition records a public_exception (4-tier hosting rule;
-#      dataset-public-laws-regulations-standards#148)
+#   4. Tier-restriction gate: no symlinks, and no Tier 3/4 publisher content beyond
+#      validated metadata/README stubs unless the gate's own reviewed ALLOWLIST
+#      covers it (4-tier hosting rule; dataset-public-laws-regulations-standards#148)
 #
 # Actions are pinned by commit SHA (tag in the trailing comment).
 
