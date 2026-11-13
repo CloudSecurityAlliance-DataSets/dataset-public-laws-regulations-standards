@@ -130,6 +130,7 @@ The publication number (CSWP 29) goes in the metadata as `publication_id`, not i
 | Version | `v4.0.1` (PCI explicitly writes the `v`) |
 | Path | `control/pcisecuritystandards.org/pci-dss/v4.0.1/` |
 | SecID | `secid:control/pcisecuritystandards.org/pci-dss@4.0.1` (SecID strips the `v`) |
+| Hosting | Tier 4 under the 4-tier rule (click-through licence), so the full text goes to the private dataset at the same path; this repository keeps the metadata stub |
 
 Filesystem and SecID identifier can differ on the `v` prefix — the canonical form for SecID matters for resolution, the filesystem form mirrors what the publisher uses.
 

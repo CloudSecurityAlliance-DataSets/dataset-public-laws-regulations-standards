@@ -14,17 +14,17 @@
   "relationToAISecurity": "PCI DSS v3.2.1 does not address AI; AI systems handling cardholder data were still subject to its requirements.",
   "license": {
     "spdx": "LicenseRef-PCI-SSC-Read-Copy-License",
-    "redistribution": "permitted_for_study_purposes",
+    "redistribution": "prohibited",
     "derivatives": "modification_prohibited_per_section_III_1_2",
-    "publicly_redistributable": true,
-    "license_text_url": "https://www.pcisecuritystandards.org/document_library_terms/",
-    "notes": "PCI SSC License Agreement applies (same as for v4.0/v4.0.1). Free Read and Copy License for study purposes; modification prohibited."
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.pcisecuritystandards.org/terms_and_conditions/",
+    "notes": "PCI SSC distributes PCI DSS through its document library after the user accepts a click-through licence agreement; that agreement was not re-read for this change. The PCI SSC Terms and Conditions (read 2026-11-13) say: \"Except for the limited rights expressly granted herein, or as otherwise required by law or granted pursuant to a separate written agreement between you and the Council, you may not publish, distribute, copy, assign, license, sublicense, transfer, sell, prepare of derivative works of, or use for any non-personal purpose, any Content\". Since 2026-11-13 this public repository holds only this metadata stub. Correction 2026-11-13: earlier metadata set publicly_redistributable to true on a reading of the licence as permitting study-purpose redistribution, and pointed license_text_url at /document_library_terms/, which now returns 404."
   },
   "links": {
     "wikipedia": "https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard",
     "source": "https://www.pcisecuritystandards.org/document_library/",
     "textUsed": "https://www.commerce.uwo.ca/pdf/PCI_DSS_v3-2-1.pdf",
-    "textUsedNotes": "PCI SSC retired v3.2.1 from public download. The authentic PDF (Author=PCI SSC in metadata, 139 pages) is hosted by University of Western Ontario at the URL above. PCI SSC's own legacy URL https://www.pcisecuritystandards.org/pdfs/PCI-DSS-3.2.1-Release.pdf serves only the 1-page press release, not the full standard.",
+    "textUsedNotes": "PCI SSC retired v3.2.1 from public download. The authentic PDF (Author=PCI SSC in metadata, 139 pages) is hosted by University of Western Ontario at the URL above. PCI SSC's own legacy URL https://www.pcisecuritystandards.org/pdfs/PCI-DSS-3.2.1-Release.pdf serves only the 1-page press release, not the full standard. The text was therefore taken from a third-party university copy, not from PCI SSC.",
     "csaLocation": ""
   },
   "lifecycle": {
@@ -46,7 +46,7 @@
       "--paginate_output"
     ],
     "force_ocr": false,
-    "notes": "Extracted in ~8 minutes total on the GPU box without --force_ocr (PCI DSS v3.2.1 has a clean text layer, same as v4.0.1). The parser walks marker's Table block tree to emit one row per requirement. v3.2.1 tables differ from v4.0.1: 3-column 'PCI DSS Requirements / Testing Procedures / Guidance' (no Defined/Customized Approach distinction), and each Table block contains many requirements as separate rows."
+    "notes": "This describes the extraction held in the private dataset (dataset-private-laws-regulations-standards, same path); none of its files are in this public repository. Extracted in ~8 minutes total on the GPU box without --force_ocr (PCI DSS v3.2.1 has a clean text layer, same as v4.0.1). The parser walks marker's Table block tree to emit one row per requirement. v3.2.1 tables differ from v4.0.1: 3-column 'PCI DSS Requirements / Testing Procedures / Guidance' (no Defined/Customized Approach distinction), and each Table block contains many requirements as separate rows."
   },
   "extraction_history": [
     {
@@ -71,9 +71,10 @@
     "extracted_appendix_a3": 20,
     "extraction_notes": "A3.1.3 and A3.2.2.1 are present in the PCI SSC source PDF but not captured as separate rows: marker rendered those table-continuations without the leading 'A3 Requirements' header column, so the parser cannot anchor a requirement ID. The testing-procedure text for both still appears under the preceding requirement."
   },
-  "notes": "v3.2.1 is retired (superseded by v4.0/v4.0.1). Useful for mapping work that pre-dates the v4.0 cutover and for understanding the evolution of PCI DSS requirement numbering.",
+  "notes": "v3.2.1 is retired (superseded by v4.0/v4.0.1). Useful for mapping work that pre-dates the v4.0 cutover and for understanding the evolution of PCI DSS requirement numbering. Hosting: metadata-only in this public repository. The full text, page images, structured data and extraction scripts were removed on 2026-11-13 and are held in the private companion dataset (dataset-private-laws-regulations-standards, same path) under the 4-tier hosting rule (Kurt Seifried, 2026-11-09: free-login sources need his approval before public mirroring; paid or members-only sources are never mirrored publicly without an explicit, documented exception); this source is Tier 4 as the program treats it (click-through licence agreement before download). On 2026-11-13 Kurt chose the option \"Move all four (Recommended)\". The content had been public here from this repository's first commit (2026-05-12) until then; it remains in git history, and whether to purge that history is a separate decision still pending. Records: CloudSecurityAlliance-DataSets/dataset-public-laws-regulations-standards#148, CloudSecurityAlliance-DataSets/dataset-private-laws-regulations-standards#15. Any return to public hosting needs an explicit, documented exception from Kurt, recorded as a public_exception object in this file (see METADATA-SCHEMA.md).",
   "desired_end_state": {
-    "state": "structured",
-    "reason": "control-catalog"
+    "state": "metadata-only",
+    "reason": "licensed",
+    "notes": "Full text held in dataset-private-laws-regulations-standards since 2026-11-13 (Tier 4 as the program treats it (click-through licence agreement before download)). Public hosting needs an explicit, documented exception recorded as public_exception."
   }
 }

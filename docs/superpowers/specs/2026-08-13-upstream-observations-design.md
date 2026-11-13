@@ -437,6 +437,8 @@ That does not automatically make the local extraction wrong — it derives from 
 
 **PCI DSS v4.0.1 is the example that holds**, verified rather than assumed: published only as a PDF behind a document library, no repository, no tags, no structured distribution, and `parse_pci_dss.py` produces the first structured form.
 
+> **Update 2026-11-13:** PCI DSS turned out to be a poor example for *this* repository. Its document library sits behind a click-through licence, and the program treats it as Tier 4 under the 4-tier hosting rule. Its extraction and `parse_pci_dss.py` were moved to the private dataset ([#148](https://github.com/CloudSecurityAlliance-DataSets/dataset-public-laws-regulations-standards/issues/148)), and `AGENTS.md` now keeps NIST SP 800-53 r5 as the exception's example while restricting the exception to sources this repository may host.
+
 ## Validation
 
 Two checks, both cheap, both separable from the harder problem of re-verifying facts:

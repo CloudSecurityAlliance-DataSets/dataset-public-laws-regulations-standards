@@ -20,20 +20,20 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 
 | Type | structured | metadata-only | readme-only | empty | **Total** |
 |---|---:|---:|---:|---:|---:|
-| `control/` | 127 | 45 | — | — | **172** |
+| `control/` | 121 | 51 | — | — | **172** |
 | `regulation/` | 186 | 52 | — | 1 | **239** |
 | `weakness/` | 1 | 1 | — | — | **2** |
 | `ttp/` | 1 | 4 | — | — | **5** |
 | `methodology/` | 9 | — | — | — | **9** |
 | `reference/` | 415 | 294 | 4 | 6 | **719** |
-| **Total** | **739** | **396** | **4** | **7** | **1146** |
+| **Total** | **733** | **402** | **4** | **7** | **1146** |
 
 ## control/
 
 | Path | State | Files | Glyphs (MXJCSPI) | SecID |
 |---|---|---|---|---|
 | `control/agid.gov.it/spid/` | metadata-only | 2 | `M······` | `secid:control/agid.gov.it/spid` |
-| `control/aicpa.org/tsc/2017/` | structured | 11 (+2 imgs) | `MXJCSPI` | `secid:control/aicpa.org/tsc@2017` |
+| `control/aicpa.org/tsc/2017/` | metadata-only | 2 | `M······` | `secid:control/aicpa.org/tsc@2017` |
 | `control/aiuc.com/aiuc-1/` | structured | 5 | `M··CSP·` | `secid:control/aiuc.com/aiuc-1` |
 | `control/alignment.org/evals/` | structured | 5 | `MX·CS··` | `secid:control/alignment.org/evals` |
 | `control/allenai.org/decodingtrust/` | structured | 5 | `MX·CS··` | `secid:control/allenai.org/decodingtrust` |
@@ -51,7 +51,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/bsi.bund.de/c5/` | structured | 10 | `M··CS··` | `secid:control/bsi.bund.de/c5` |
 | `control/bsi.bund.de/it-grundschutz/` | structured | 7 | `M··CSP·` | `secid:control/bsi.bund.de/it-grundschutz` |
 | `control/bsp.gov.ph/pesonet/` | metadata-only | 2 | `M······` | `secid:control/bsp.gov.ph/pesonet` |
-| `control/cisecurity.org/cis-controls/v8/` | structured | 6 | `MXJCS··` | `secid:control/cisecurity.org/cis-controls@8` |
+| `control/cisecurity.org/cis-controls/v8/` | metadata-only | 2 | `M······` | `secid:control/cisecurity.org/cis-controls@8` |
 | `control/cloudsecurityalliance.org/aicm/0.0.2/` | structured | 17 | `M··CS··` | `secid:control/cloudsecurityalliance.org/aicm@0.0.2` |
 | `control/cloudsecurityalliance.org/aicm/1.0.3/` | structured | 4 | `M··CS··` | `secid:control/cloudsecurityalliance.org/aicm@1.0.3` |
 | `control/cloudsecurityalliance.org/aicm/1.1.0/` | structured | 7 | `MX·CS··` | `secid:control/cloudsecurityalliance.org/aicm@1.1.0` |
@@ -106,7 +106,7 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/google.com/security-best-practices/` | structured | 5 | `MX·CS··` | `secid:control/google.com/security-best-practices` |
 | `control/gov.br/gov-br/` | metadata-only | 2 | `M······` | `secid:control/gov.br/gov-br` |
 | `control/gov.uk/one-login/` | metadata-only | 2 | `M······` | `secid:control/gov.uk/one-login` |
-| `control/hitrustalliance.net/csf/v11.3.0/` | structured | 7 (+1 imgs) | `MX·CSPI` | `secid:control/hitrustalliance.net/csf@v11.3.0` |
+| `control/hitrustalliance.net/csf/v11.3.0/` | metadata-only | 2 | `M······` | `secid:control/hitrustalliance.net/csf@v11.3.0` |
 | `control/ibm.com/ai-controls-framework/` | structured | 5 | `MX·CS··` | `secid:control/ibm.com/ai-controls-framework` |
 | `control/idrbt.ac.in/cybersecurity-framework/` | metadata-only | 2 | `M······` | `secid:control/idrbt.ac.in/cybersecurity-framework` |
 | `control/imda.gov.sg/ai-verify/` | structured | 5 | `MX·CS··` | `secid:control/imda.gov.sg/ai-verify` |
@@ -181,9 +181,9 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 | `control/openidentityexchange.org/trust-framework/` | metadata-only | 2 | `M······` | `secid:control/openidentityexchange.org/trust-framework` |
 | `control/payments.ca/lynx/` | metadata-only | 2 | `M······` | `secid:control/payments.ca/lynx` |
 | `control/pcisecuritystandards.org/pa-dss/` | metadata-only | 2 | `M······` | `secid:control/pcisecuritystandards.org/pa-dss` |
-| `control/pcisecuritystandards.org/pci-dss/v3.2.1/` | structured | 148 (+140 imgs) | `MXJCSPI` | `secid:control/pcisecuritystandards.org/pci-dss@3.2.1` |
-| `control/pcisecuritystandards.org/pci-dss/v4.0/` | structured | 348 (+340 imgs) | `MXJCSPI` | `secid:control/pcisecuritystandards.org/pci-dss@4.0` |
-| `control/pcisecuritystandards.org/pci-dss/v4.0.1/` | structured | 349 (+341 imgs) | `MXJCSPI` | `secid:control/pcisecuritystandards.org/pci-dss@4.0.1` |
+| `control/pcisecuritystandards.org/pci-dss/v3.2.1/` | metadata-only | 2 | `M······` | `secid:control/pcisecuritystandards.org/pci-dss@3.2.1` |
+| `control/pcisecuritystandards.org/pci-dss/v4.0/` | metadata-only | 2 | `M······` | `secid:control/pcisecuritystandards.org/pci-dss@4.0` |
+| `control/pcisecuritystandards.org/pci-dss/v4.0.1/` | metadata-only | 2 | `M······` | `secid:control/pcisecuritystandards.org/pci-dss@4.0.1` |
 | `control/pcisecuritystandards.org/pci-pin/` | metadata-only | 2 | `M······` | `secid:control/pcisecuritystandards.org/pci-pin` |
 | `control/pcisecuritystandards.org/secure-software-standard/` | metadata-only | 2 | `M······` | `secid:control/pcisecuritystandards.org/secure-software-standard` |
 | `control/philsys.gov.ph/philsys/` | metadata-only | 2 | `M······` | `secid:control/philsys.gov.ph/philsys` |

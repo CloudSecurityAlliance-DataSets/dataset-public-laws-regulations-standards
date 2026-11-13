@@ -4,6 +4,8 @@ Triage of 112 documents currently in `control/` (state = `extracted`, no per-con
 
 Companion CSV: `tools-resources/working/control-extraction-triage.csv`
 
+> **Update 2026-11-13:** all PCI DSS editions, including the `pci-dss/v4.0` row below, and `parse_pci_dss.py` were moved to the private dataset under the 4-tier hosting rule ([#148](https://github.com/CloudSecurityAlliance-DataSets/dataset-public-laws-regulations-standards/issues/148)). The PCI DSS rows here are a historical record.
+
 ## Counts by decision (post-PR-C corrections)
 
 | Decision | Count |

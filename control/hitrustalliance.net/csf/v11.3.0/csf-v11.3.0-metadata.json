@@ -18,7 +18,7 @@
     "derivatives": "prohibited",
     "publicly_redistributable": false,
     "license_text_url": "https://hitrustalliance.net/agreement/",
-    "notes": "HITRUST CSF is proprietary; access requires a HITRUST license. Repository holds metadata-only stub for SecID discovery; full content stays under license."
+    "notes": "HITRUST CSF is proprietary. The source document carries the notice \"(c) 2024 HITRUST. All rights reserved. Any commercial uses or creations of derivative works are prohibited.\" Access requires a HITRUST licence. Since 2026-11-13 this public repository holds only this metadata stub. Correction 2026-11-13: an earlier version of this note already claimed that, but the full text and the structured controls had in fact been committed here since 2026-05-12."
   },
   "links": {
     "source": "https://hitrustalliance.net/product-tool/hitrust-csf/",
@@ -43,7 +43,7 @@
       "--paginate_output"
     ],
     "force_ocr": false,
-    "notes": "Marker-extracted from HITRUST-published material. extract_hitrust_csf.py parses the marker markdown into 150 Control References across 13 Control Categories (00-13, with 04.0 not having leaf controls in this version). Repository holds the extraction artifacts only; full CSF requires a HITRUST license."
+    "notes": "This describes the extraction held in the private dataset (dataset-private-laws-regulations-standards, same path); none of its files are in this public repository. Marker-extracted from HITRUST-published material. extract_hitrust_csf.py parses the marker markdown into 150 Control References across 13 Control Categories (00-13, with 04.0 not having leaf controls in this version). Repository holds the extraction artifacts only; full CSF requires a HITRUST license."
   },
   "extraction_history": [
     {
@@ -54,9 +54,10 @@
     }
   ],
   "scope": {},
-  "notes": "Proprietary framework \u2014 confirm license terms before redistributing extracted content.",
+  "notes": "Hosting: metadata-only in this public repository. The full text, page images, structured data and extraction scripts were removed on 2026-11-13 and are held in the private companion dataset (dataset-private-laws-regulations-standards, same path) under the 4-tier hosting rule (Kurt Seifried, 2026-11-09: free-login sources need his approval before public mirroring; paid or members-only sources are never mirrored publicly without an explicit, documented exception); this source is Tier 4 (licensed / members-only access). On 2026-11-13 Kurt chose the option \"Move all four (Recommended)\". The content had been public here from this repository's first commit (2026-05-12) until then; it remains in git history, and whether to purge that history is a separate decision still pending. Records: CloudSecurityAlliance-DataSets/dataset-public-laws-regulations-standards#148, CloudSecurityAlliance-DataSets/dataset-private-laws-regulations-standards#15. Any return to public hosting needs an explicit, documented exception from Kurt, recorded as a public_exception object in this file (see METADATA-SCHEMA.md).",
   "desired_end_state": {
-    "state": "structured",
-    "reason": "control-catalog"
+    "state": "metadata-only",
+    "reason": "licensed",
+    "notes": "Full text held in dataset-private-laws-regulations-standards since 2026-11-13 (Tier 4 (licensed / members-only access)). Public hosting needs an explicit, documented exception recorded as public_exception."
   }
 }
