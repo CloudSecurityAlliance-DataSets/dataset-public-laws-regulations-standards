@@ -16,9 +16,14 @@ CIS, PCI SSC) was found in this repository, where it had been since the first co
 
 Threat model
 ------------
-The gate stops restricted content from entering the public repository: text, data or
-images from a Tier 3 (free login) or Tier 4 (paid / members-only) publisher committed
-by mistake or by an agent acting on its own. It does this mechanically. It cannot
+The gate stops restricted content from entering the public repository under the
+publisher domains listed in RESTRICTED_DOMAINS: every tracked file beneath one of those
+domain directories must match a reviewed path + SHA-256 fingerprint, whether it is text,
+data or an image, and whether it was committed by mistake or by an agent acting on its
+own. It does NOT cover restricted text copied to a path outside those domains (e.g.
+under another publisher's directory), nor publishers missing from RESTRICTED_DOMAINS;
+those still depend on review. The guarantee also assumes changes to this gate are
+themselves reviewed (below). It does this mechanically. It cannot
 judge whether an approval is authentic.
 
 The ALLOWLIST and FINGERPRINTS below are checked for syntax only: required fields, a
@@ -194,7 +199,7 @@ FINGERPRINTS: dict[str, str] = {
     "control/aicpa.org/tsc/2017/README.md": "e44d16a0f927da1b6d7f648e82e18240872125b14939ab1e60acd05605422bfe",
     "control/aicpa.org/tsc/2017/tsc-2017-metadata.json": "b83a91e6b8224bb70fe44dfb06d43bef382b12a7b9922090c68b81274c4688fb",
     "control/cisecurity.org/cis-controls/v8/README.md": "3cdab7b5885a301e311b4f5814453cf741add82359f636c28c2705aa7d628ef6",
-    "control/cisecurity.org/cis-controls/v8/cis-controls-v8-metadata.json": "73c6cfa5f4018e54a553f901179bb27bb8081be1d97aa15e068ab6a82921565a",
+    "control/cisecurity.org/cis-controls/v8/cis-controls-v8-metadata.json": "8b9f6b908a7e9a95b968aa2c81073082b4f8c7bdab7dc0734a9539dae04b4b08",
     "control/hitrustalliance.net/csf/v11.3.0/README.md": "236840a03ff4ee04085ea1775c2804e962bbb13c84ab86279056d55981d16317",
     "control/hitrustalliance.net/csf/v11.3.0/csf-v11.3.0-metadata.json": "09266092d21295587346960d7588d923ab732949a726c076a6b320cb3c282b6c",
     "control/isaca.org/cobit/README.md": "da4647a09b5e6e8135cb38b6c730c3b36e8758736c91f5e52ad7b9834e487bee",
