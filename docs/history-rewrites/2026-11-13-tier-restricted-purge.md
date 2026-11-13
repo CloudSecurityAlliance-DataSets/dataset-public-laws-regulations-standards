@@ -11,13 +11,17 @@
 **Verified on a fresh clone from GitHub after the push:**
 - 0 of the 406 content blobs are reachable from any branch.
 - 0 purged paths appear in any commit.
-- A scan for restricted-text markers over 14,015 blobs found nothing.
+- A scan for restricted-text markers over every blob reachable from the rewritten branches (9,372 unique blobs) found nothing.
 - `main`'s tree hash is identical.
 - CI (`validate`, `tier-restrictions`, `ci-passed`) passed on the new `main` (`8398500`).
 
 **Not covered by the rewrite:** GitHub keeps pull-request refs (`refs/pull/*`, 133 of them) and cached views. Only GitHub Support can remove these. The request is tracked in #150.
 
-**If you have an old clone:** re-clone, or run `git fetch --prune origin` and then `git reset --hard origin/<branch>` on each branch you use. Don't push an old branch back: it would restore the purged content, and the tier gate would fail it.
+**If you have an old clone (made before 2026-11-13):** every local branch, stash and reflog in it still holds the purged content.
+
+- **Never push an old branch or commit back.** Pushing one would put the purged content back into this public repository's history. The tier gate checks only the files at a commit's tip, so a branch with a clean tip but old history would pass it. Whether a history check should be added is tracked in #152.
+- **Save unpublished work first.** List commits that exist only in your clone with `git log --branches --not --remotes`. Turn any you need into patches (`git format-patch`), and record uncommitted changes and stashes the same way.
+- **Then replace the clone.** Make a fresh clone, and re-apply your patches onto the new branches (the commit map below shows where an old commit went). Delete the old clone, because its packs, stashes and reflogs keep the purged content. Resetting branches in place (`git fetch --prune` + `git reset --hard origin/<branch>`) is not enough: other local branches, stashes and the reflog still reference the old history.
 
 ## Commit map (old → new)
 
