@@ -62,6 +62,6 @@
   "desired_end_state": {
     "state": "metadata-only",
     "reason": "licensed",
-    "notes": "Full text held in dataset-private-laws-regulations-standards since 2026-11-13 (Tier 3 (CIS WorkBench registration required to download the source XLSX)). Public hosting needs an explicit, documented exception recorded as public_exception."
+    "notes": "Full text held in dataset-private-laws-regulations-standards since 2026-11-13. Access tier: Tier 3 (CIS WorkBench registration required to download the source XLSX). Public hosting needs an explicit, documented exception recorded as public_exception."
   }
 }
