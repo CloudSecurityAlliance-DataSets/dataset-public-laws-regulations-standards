@@ -719,14 +719,14 @@ def self_test() -> int:
         if got != ok:
             failures.append(f"allowlist validation: {name} gave the wrong answer")
 
-    n_cases = len(cases) + len(al_cases) + 3  # + symlink walk, symlink git, invalid-allowlist run
+    n_cases = len(cases) + len(al_cases) + 4  # + exit 1/0 run, invalid-allowlist run, symlink walk, symlink git
     if failures:
         print("SELF-TEST FAILED:")
         for f in failures:
             print(f"  - {f}")
         return 1
     print(f"Self-test passed ({n_cases} cases: {sum(1 for c in cases if c[2])} expected failures among "
-          f"{len(cases)} fixture files, {len(al_cases)} allowlist validations, 3 run-level checks).")
+          f"{len(cases)} fixture files, {len(al_cases)} allowlist validations, 4 run-level checks).")
     return 0
 
 
