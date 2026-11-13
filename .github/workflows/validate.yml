@@ -4,6 +4,9 @@ name: Validate dataset
 #   1. audit_secid_alignment.py against CloudSecurityAlliance/SecID main
 #   2. AICM crosswalk & patch figure/invariant checks
 #   3. CCM 4.1.1 & CAIQ 4.1.0 figure/invariant checks
+#   4. Tier-restriction gate: no symlinks, and no Tier 3/4 publisher content beyond
+#      validated metadata/README stubs unless the gate's own reviewed ALLOWLIST
+#      covers it (4-tier hosting rule; dataset-public-laws-regulations-standards#148)
 #
 # Actions are pinned by commit SHA (tag in the trailing comment).
 
@@ -53,11 +56,35 @@ jobs:
       - name: Check CCM 4.1.1 and CAIQ 4.1.0 figures/invariants
         run: python3 control/cloudsecurityalliance.org/ccm/check_figures.py
 
+  tier-restrictions:
+    name: tier-restrictions
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout dataset-public-laws-regulations-standards
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+        with:
+          persist-credentials: false
+
+      - name: Setup Python
+        uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5.6.0
+        with:
+          python-version: "3.12"
+
+      - name: Self-test the tier-restriction gate
+        run: python3 -I tools-resources/utils/check_tier_restrictions.py --self-test
+
+      - name: Check for tier-restricted content (Tier 3/4 publishers)
+        run: python3 -I tools-resources/utils/check_tier_restrictions.py --repo "$GITHUB_WORKSPACE"
+
   ci-passed:
     name: ci-passed
     if: always()
     needs:
       - validate
+      - tier-restrictions
     runs-on: ubuntu-latest
     timeout-minutes: 2
     permissions: {}

@@ -10,11 +10,11 @@
   "relationToAISecurity": "PCI DSS does not specifically address AI; AI systems handling cardholder data are still subject to PCI DSS requirements regardless of the implementation technology.",
   "license": {
     "spdx": "LicenseRef-PCI-SSC-Read-Copy-License",
-    "redistribution": "permitted_for_study_purposes",
+    "redistribution": "prohibited",
     "derivatives": "modification_prohibited_per_section_III_1_2",
-    "publicly_redistributable": true,
-    "license_text_url": "https://www.pcisecuritystandards.org/document_library_terms/",
-    "notes": "PCI SSC License Agreement grants free Read and Copy License for study purposes. Implementation License (Section II) adds patent non-assertion covenant. Modification of the standard text is prohibited (Section III.1.2). Derived works such as structured extractions for analysis/mapping are permitted under fair-use study purposes."
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.pcisecuritystandards.org/terms_and_conditions/",
+    "notes": "PCI SSC distributes PCI DSS through its document library after the user accepts a click-through licence agreement; that agreement was not re-read for this change. The PCI SSC Terms and Conditions (read 2026-11-13) say: \"Except for the limited rights expressly granted herein, or as otherwise required by law or granted pursuant to a separate written agreement between you and the Council, you may not publish, distribute, copy, assign, license, sublicense, transfer, sell, prepare of derivative works of, or use for any non-personal purpose, any Content\". Since 2026-11-13 this public repository holds only this metadata stub. Correction 2026-11-13: earlier metadata set publicly_redistributable to true on a reading of the licence as permitting study-purpose redistribution, and pointed license_text_url at /document_library_terms/, which now returns 404."
   },
   "links": {
     "wikipedia": "https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard",
@@ -27,14 +27,14 @@
     "active": false,
     "supersededBy": "PCI DSS v4.0.1 (June 2024)",
     "retiredFromActiveUse": "2024-12-31",
-    "notes": "PCI DSS v4.0 was retired on 2024-12-31 when v4.0.1 became the active standard. v4.0.1 contains errata corrections only; requirement IDs are identical between v4.0 and v4.0.1, so mappings built against either version are interchangeable at the requirement-ID level. Structured CSV/JSON for v4.0 is now in this directory (re-extracted from a local archived copy of the v4.0 PDF, since PCI SSC no longer hosts the v4.0 PDF for direct download)."
+    "notes": "PCI DSS v4.0 was retired on 2024-12-31 when v4.0.1 became the active standard. v4.0.1 contains errata corrections only; requirement IDs are identical between v4.0 and v4.0.1, so mappings built against either version are interchangeable at the requirement-ID level. Structured CSV/JSON for v4.0 was re-extracted from a local archived copy of the v4.0 PDF (PCI SSC no longer hosts it for direct download). Since 2026-11-13 it is held in the private dataset, dataset-private-laws-regulations-standards, at control/pcisecuritystandards.org/pci-dss/v4.0/; this public directory holds only the metadata stub."
   },
   "current_extraction": {
     "s3_timestamp": "2026-05-21T04:20:15Z",
     "tool": "marker",
     "tool_version": "single, --formats markdown,json",
     "force_ocr": false,
-    "notes": "Re-extracted with marker emitting both markdown and JSON block tree. Structured parser (parse_pci_dss.py) walks the JSON Table block tree and emits pci-dss-v4.0-requirements.{csv,json}. Captures 203 main requirements (1-12) plus 23 Appendix A entries (A1/A2/A3). 28 main requirements from v4.0.1's count are missing because marker rendered those pages as prose, not tables; consumers can fall back to the v4.0.1 CSV by requirement_id."
+    "notes": "This describes the extraction held in the private dataset (dataset-private-laws-regulations-standards, same path); none of its files are in this public repository. Re-extracted with marker emitting both markdown and JSON block tree. Structured parser (parse_pci_dss.py) walks the JSON Table block tree and emits pci-dss-v4.0-requirements.{csv,json}. Captures 203 main requirements (1-12) plus 23 Appendix A entries (A1/A2/A3). 28 main requirements from v4.0.1's count are missing because marker rendered those pages as prose, not tables; consumers can fall back to the v4.0.1 CSV by requirement_id."
   },
   "extraction_history": [
     {
@@ -56,7 +56,9 @@
     "goals": 6
   },
   "desired_end_state": {
-    "state": "structured",
-    "reason": "control-catalog"
-  }
+    "state": "metadata-only",
+    "reason": "licensed",
+    "notes": "Full text held in dataset-private-laws-regulations-standards since 2026-11-13. Access tier: Tier 4 as the program treats it (click-through licence agreement before download). Public hosting needs an explicit, documented exception from Kurt, added to the ALLOWLIST in tools-resources/utils/check_tier_restrictions.py."
+  },
+  "notes": "Hosting: metadata-only in this public repository. The full text, page images, structured data and extraction scripts were removed on 2026-11-13 and are held in the private companion dataset (dataset-private-laws-regulations-standards, same path) under the 4-tier hosting rule (Kurt Seifried, 2026-11-09: free-login sources need his approval before public mirroring; paid or members-only sources are never mirrored publicly without an explicit, documented exception); this source is Tier 4 as the program treats it (click-through licence agreement before download). On 2026-11-13 Kurt chose the option \"Move all four (Recommended)\". The content had been public here from this repository's first commit (2026-05-12) until then; it remains in git history, and whether to purge that history is a separate decision still pending. Records: CloudSecurityAlliance-DataSets/dataset-public-laws-regulations-standards#148, CloudSecurityAlliance-DataSets/dataset-private-laws-regulations-standards#15. Any return to public hosting needs an explicit, documented exception from Kurt, added as an entry in the ALLOWLIST of tools-resources/utils/check_tier_restrictions.py (a reviewed CI-gate change; see METADATA-SCHEMA.md, Public hosting exceptions)."
 }

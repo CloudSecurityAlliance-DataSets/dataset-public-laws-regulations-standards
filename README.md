@@ -20,7 +20,7 @@ Public repository of bulk-processed laws, regulations, standards, frameworks, an
 Machine-readable extractions of public-license security knowledge:
 
 - **Regulations** — EU AI Act, GDPR, NIS2, DORA, BSI AI C4, US federal/state laws
-- **Standards & frameworks** — NIST CSF 2.0, NIST SP 800-53, PCI DSS, CSA CCM, CSA AICM, HITRUST CSF
+- **Standards & frameworks** — NIST CSF 2.0, NIST SP 800-53, CSA CCM, CSA AICM (PCI DSS, HITRUST CSF, AICPA TSC and CIS Controls are metadata-only stubs here; their full text is in the private companion dataset)
 - **Weakness taxonomies** — MITRE CWE, OWASP Top 10
 - **Adversary techniques** — MITRE ATT&CK, ATLAS, FIGHT
 - **Methodologies** — NIST IR 8477, CVSS, others
@@ -37,13 +37,13 @@ Current state of every document tracked in this repo, broken down by SecID type 
 
 | Type | structured | metadata-only | readme-only | empty | **Total** |
 |---|---:|---:|---:|---:|---:|
-| `control/` | 127 | 45 | — | — | **172** |
+| `control/` | 121 | 51 | — | — | **172** |
 | `regulation/` | 186 | 52 | — | 1 | **239** |
 | `weakness/` | 1 | 1 | — | — | **2** |
 | `ttp/` | 1 | 4 | — | — | **5** |
 | `methodology/` | 9 | — | — | — | **9** |
 | `reference/` | 415 | 294 | 4 | 6 | **719** |
-| **Total** | **739** | **396** | **4** | **7** | **1146** |
+| **Total** | **733** | **402** | **4** | **7** | **1146** |
 
 See [`INDEX.md`](INDEX.md) for the per-document table including SecID identifiers and extraction-state glyphs.
 <!-- INVENTORY-END -->
@@ -56,10 +56,10 @@ We collect public laws, regulations, and standards across the security-and-compl
 
 ### Domain verticals
 
-- **Information security (general)** — NIST SP 800-53/CSF, CSA CCM, PCI DSS, ISO/IEC 27001 (private)
+- **Information security (general)** — NIST SP 800-53/CSF, CSA CCM, PCI DSS (private), ISO/IEC 27001 (private)
 - **Privacy & data protection** — GDPR, US state privacy acts (CCPA/VCDPA/CTDPA/etc.), PIPEDA, LGPD, APPI, DPDP, PDPA, Loi 25, PIPA (AB/BC)
 - **Healthcare** — HIPAA, Alberta HIA, Ontario PHIPA
-- **Finance** — NYDFS Part 500, DORA, GLBA, PCI DSS (also a control framework)
+- **Finance** — NYDFS Part 500, DORA, GLBA, PCI DSS (private; also a control framework)
 - **Identity & access** — NIST SP 800-63 series, FIDO standards, IDPro BoK
 - **Critical infrastructure / sectoral cyber**
   - Energy: NERC CIP (US bulk electric)
@@ -103,7 +103,7 @@ We collect public laws, regulations, and standards across the security-and-compl
 
 ### What does **not** belong here
 
-- **Licensed/restricted content** (ISO, IEC, IEEE, members-only frameworks) → companion private repo
+- **Licensed/restricted content** — free-login (Tier 3) and paid or members-only (Tier 4) sources such as ISO, IEC, IEEE, PCI DSS, HITRUST CSF, AICPA TSC and CIS Controls → companion private repo, with only a metadata stub here. CI enforces this (`tools-resources/utils/check_tier_restrictions.py`).
 - **Bulk-mirror datasets where the publisher already hosts version-tagged authoritative copies** (CVE Project, MITRE ATT&CK STIX, CISA KEV JSON feed) → reference-only stub pointing at upstream
 - **Tooling outputs that aren't published as security guidance** (security product configuration files, vendor product docs)
 
@@ -130,7 +130,7 @@ SecID-{type} repos          ← per-item splits (future)
 Mirrors SecID's `type/namespace/name/version/` structure:
 
 ```
-control/        ← security requirements (CCM, CSF, PCI DSS, 800-53, etc.)
+control/        ← security requirements (CCM, CSF, 800-53, etc.)
 regulation/     ← legally binding (GDPR, AI Act, NIS2, etc.)
 weakness/       ← vulnerability taxonomies (CWE, OWASP Top 10)
 ttp/            ← adversary techniques (ATT&CK, ATLAS)
@@ -164,12 +164,13 @@ This repository contains only **publicly redistributable** content under each so
 - EU legislation — EUR-Lex reuse policy
 - MITRE CWE — MITRE CWE Terms of Use
 - CSA CCM/AICM — CSA-published (free for non-commercial use with attribution)
-- PCI SSC standards — PCI SSC Read and Copy License
 - OWASP — CC BY-SA 4.0
 
 Each document's `[dirname]-metadata.json` carries an SPDX license identifier and redistribution flag.
 
-**Licensed/restricted content** (ISO, IEEE, etc.) is **not** stored here — the directory carries metadata-only stubs with purchase URLs. The full content lives in a separate private archive.
+**Licensed/restricted content** (ISO, IEEE, PCI DSS, HITRUST CSF, AICPA TSC, CIS Controls, etc.) is **not** stored here — the directory carries metadata-only stubs with source URLs. The full content lives in the private companion dataset. This follows the 4-tier hosting rule described in [`AGENTS.md`](AGENTS.md#licensedrestricted-content-is-not-committed-here-4-tier-hosting-rule-2026-11-09). The CI gate `tools-resources/utils/check_tier_restrictions.py` fails any PR that commits more than a validated metadata or README stub under a Tier 3 or Tier 4 publisher domain, unless a reviewed `ALLOWLIST` entry in the gate itself covers that exact edition and file. An exception Kurt grants is recorded there, not in the edition's metadata.
+
+PCI DSS (v3.2.1, v4.0, v4.0.1), HITRUST CSF v11.3.0, AICPA TSC 2017 and CIS Controls v8 were committed here in full from the first commit until 2026-11-13, when they were moved to the private dataset ([#148](https://github.com/CloudSecurityAlliance-DataSets/dataset-public-laws-regulations-standards/issues/148)). They remain in this repository's git history; whether to purge that history is a separate, pending decision.
 
 ## Sister Repository
 

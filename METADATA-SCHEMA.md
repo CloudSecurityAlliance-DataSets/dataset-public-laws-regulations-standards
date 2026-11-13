@@ -9,7 +9,7 @@ Use `<name>-<version>` as the filename prefix throughout the directory — the s
 - **Directory metadata** (required, one per document): `<name>-<version>-metadata.json`
 - **Per-file sidecar** (optional, when a file deviates from directory defaults): `<filename>-file-metadata.json`
 
-Example layout:
+Example layout (illustrative: since 2026-11-13 these PCI DSS files live in the private companion dataset, because PCI DSS is a Tier 4 source, and this repository keeps only the metadata stub; the layout rule is the same in both repositories):
 
 ```
 control/pcisecuritystandards.org/pci-dss/v4.0.1/
@@ -59,10 +59,10 @@ Scripts, source files retaining publisher's exact filename (XLSX, PDF source), a
 
   "license": {
     "spdx": "LicenseRef-PCI-SSC-Read-Copy-License",
-    "redistribution": "permitted_for_study_purposes",
+    "redistribution": "prohibited",
     "derivatives": "modification_prohibited_per_section_III_1_2",
-    "publicly_redistributable": true,
-    "license_text_url": "https://www.pcisecuritystandards.org/document_library_terms/",
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.pcisecuritystandards.org/terms_and_conditions/",
     "notes": "Any clarifying notes about the license."
   },
 
@@ -202,10 +202,10 @@ when the distinction could trip up a lookup.
 ```json
 "license": {
   "spdx": "LicenseRef-PCI-SSC-Read-Copy-License",
-  "redistribution": "permitted_for_study_purposes",
+  "redistribution": "prohibited",
   "derivatives": "modification_prohibited_per_section_III_1_2",
-  "publicly_redistributable": true,
-  "license_text_url": "https://www.pcisecuritystandards.org/document_library_terms/",
+  "publicly_redistributable": false,
+  "license_text_url": "https://www.pcisecuritystandards.org/terms_and_conditions/",
   "notes": "Optional clarifying notes."
 }
 ```
@@ -214,8 +214,8 @@ when the distinction could trip up a lookup.
 |---|---|---|
 | `spdx` | Yes | SPDX identifier when available (e.g., `CC-BY-4.0`, `CC-BY-SA-4.0`, `Apache-2.0`, `CC0-1.0`). Use `LicenseRef-{custom}` for non-SPDX licenses. |
 | `redistribution` | Yes | Free-text: `permitted`, `permitted_with_attribution`, `permitted_for_study_purposes`, `prohibited`, etc. |
-| `derivatives` | Yes | Free-text: `permitted`, `permitted_with_attribution`, `share_alike_required`, `prohibited`. |
-| `publicly_redistributable` | Yes | Boolean. Drives whether content goes in this public repo or the private archive. |
+| `derivatives` | Yes | Free-text: `permitted`, `permitted_with_attribution`, `share_alike_required`, `adaptations_noncommercial_only_never_shared` (e.g., CC BY-NC-ND 4.0: Adapted Material may be produced for non-commercial purposes only and never shared; format-only conversions are not Adapted Material under its Section 2(a)(4)), `prohibited`. |
+| `publicly_redistributable` | Yes | Boolean. Drives whether content goes in this public repo or the private archive. Set it from the source's access tier under the 4-tier hosting rule (AGENTS.md), not only from the licence text: a Tier 3 (free login) or Tier 4 (paid / members-only) source is `false` here unless Kurt grants an exception (see [Public hosting exceptions](#public-hosting-exceptions)). |
 | `license_text_url` | Recommended | URL to the full license text. |
 | `notes` | Optional | Free-text caveats. |
 
@@ -316,7 +316,7 @@ Records the **intended** terminal state for the document, paired with `current_e
 | `extracted` | `policy-doc` | policy/framework with no per-item structure (NSM-AI Framework) |
 | `extracted` | `template` | fillable template (FedRAMP SSP appendices F/G/Q) |
 | `extracted` | `playbook` | process playbook (FedRAMP CSP Authorization Playbook) |
-| `metadata-only` | `licensed` | restricted-license; can't redistribute (ISO, IEEE, members-only) |
+| `metadata-only` | `licensed` | restricted-license or Tier 3/4 access; can't host publicly (ISO, IEEE, PCI DSS, HITRUST, members-only) |
 | `metadata-only` | `upstream-only` | publisher hosts version-tagged authoritative data (MITRE ATT&CK STIX, CVE Project) |
 | `metadata-only` | `pending-acquisition` | source not yet acquired |
 | `metadata-only` | `pending-extraction` | source acquired, marker run pending |
@@ -327,6 +327,35 @@ Records the **intended** terminal state for the document, paired with `current_e
 | `dropped` | `superseded` | newer version already structured here |
 
 For the meaningful-gap analysis, see `tools-resources/utils/backfill_desired_end_state.py` (heuristic backfill) and the `build_index.py` summary which compares current vs desired.
+
+### Public hosting exceptions
+
+There is no metadata field for this. Under the 4-tier hosting rule (see [AGENTS.md](AGENTS.md#licensedrestricted-content-is-not-committed-here-4-tier-hosting-rule-2026-11-09)), content from a Tier 3 (free login) or Tier 4 (paid / members-only) source is never hosted in this public repository unless Kurt grants a specific, explicit, well-documented exception with solid reasons. A metadata file cannot grant itself one.
+
+When Kurt grants an exception, it is recorded as an entry in the `ALLOWLIST` constant in `tools-resources/utils/check_tier_restrictions.py`:
+
+```python
+{
+    "kind": "tier3-4-exception",
+    "path": "control/<namespace>/<name>/<version>",      # one exact edition directory
+    "secid": "secid:control/<namespace>/<name>@<version>",  # must equal that directory's metadata secid
+    "files": ["<name>-<version>.md"],                    # explicit file names in that directory only
+    "approved_by": "Kurt Seifried",
+    "date": "YYYY-MM-DD",
+    "reason": "The solid reasons, in enough detail to be checked.",
+    "reference": "https://github.com/<CSA org>/<repo>/issues/<n>",  # his recorded decision
+}
+```
+
+The gate validates every entry: all fields present, a real date that is neither in the future nor before the rule (2026-11-09), a reason of substance, a reference to a GitHub issue, PR or decision document in a CSA organization, and, for this kind, `approved_by` equal to Kurt. An entry covers only the files it lists, directly in its directory. Subdirectories, sibling editions and the publisher directory inherit nothing.
+
+A second kind, `tier1-2-source`, records a source that is itself Tier 1 or 2 (public, no login) although its publisher's standards are gated. It is a classification, not an exception, and it carries an `evidence` URL for the public upstream. Today the only entry is the OVAL Repository text under `reference/cisecurity.org/oval/` (upstream: the public GitHub repository CISecurity/OVALRepo).
+
+Adding or widening an entry changes a CI gate. Under the program's rules that needs a different-vendor review and a decision record, so an agent cannot approve its own exception. The gate checks entries for syntax only: a typed `approved_by` proves nothing. The reviewer must open the linked `reference` and confirm Kurt approved that exact entry.
+
+**Every file under a Tier 3/4 publisher domain is also fingerprinted.** The script's `FINGERPRINTS` maps each allowed path to its reviewed SHA-256. That covers stubs as well as allowlisted files. A new stub, or an edit to an existing one, fails CI until a reviewed gate change adds or updates its line; `--print-fingerprints` prints the lines to add. This stops restricted text from being placed in a capped stub, chunked across new edition directories, or swapped into an existing README.
+
+Without an entry (and in addition to its fingerprint), a file in a Tier 3/4 publisher directory must be a stub: the edition's own `<dir>-metadata.json` (or `<parent>-<dir>-metadata.json`), which must be valid JSON within 16 KiB, with no string longer than 3,000 characters and a `secid` that names the directory, plus at most one `README.md` of up to 6 KiB beside it. Per-file sidecars and marker `_meta.json` files count as content there.
 
 ### Extraction History (Array)
 
@@ -385,8 +414,9 @@ A metadata file is **valid** when:
 4. `license.spdx` is set (use `LicenseRef-{...}` for non-SPDX)
 5. `license.publicly_redistributable` is set (boolean)
 
+Tier restrictions are checked in CI: `python3 -I tools-resources/utils/check_tier_restrictions.py` (see [Public hosting exceptions](#public-hosting-exceptions)).
+
 ## Examples in the Repo
 
-- `control/pcisecuritystandards.org/pci-dss/v4.0.1/pci-dss-v4.0.1-metadata.json`
-- `control/pcisecuritystandards.org/pci-dss/v4.0/pci-dss-v4.0-metadata.json` (legacy markdown only)
+- `control/pcisecuritystandards.org/pci-dss/v4.0.1/pci-dss-v4.0.1-metadata.json` (metadata-only stub for a Tier 4 source; the full extraction is in the private dataset)
 - `control/nist.gov/csf/2.0/csf-2.0-metadata.json`

@@ -168,6 +168,8 @@ Bulk-authored stubs (PR ~20) have basic fields populated but `relationToCloudSec
 
 The V1 mapping deliverable [`CINO-Security-Mapping-CCM-Set-Theory-Mappings`](https://github.com/CloudSecurityAlliance-Internal/CINO-Security-Mapping-CCM-Set-Theory-Mappings) consumes from this repo.
 
+**2026-11-13:** PCI DSS, AICPA TSC, CIS Controls v8 and HITRUST CSF were moved to `dataset-private-laws-regulations-standards` (same paths) under the 4-tier hosting rule ([#148](https://github.com/CloudSecurityAlliance-DataSets/dataset-public-laws-regulations-standards/issues/148)). A consumer that reads them from this public repository must re-pin to the private dataset.
+
 | Framework | New path | Status |
 |---|---|---|
 | CCM 4.0.13 | `control/cloudsecurityalliance.org/ccm/4.0.13/` | Ready |
@@ -176,17 +178,17 @@ The V1 mapping deliverable [`CINO-Security-Mapping-CCM-Set-Theory-Mappings`](htt
 | AICM 1.0.3 | `control/cloudsecurityalliance.org/aicm/1.0.3/` | Ready |
 | NIST CSF 2.0 | `control/nist.gov/csf/2.0/` | Ready |
 | NIST CSF 1.1 | `control/nist.gov/csf/1.1/` | Ready |
-| PCI DSS v4.0.1 | `control/pcisecuritystandards.org/pci-dss/v4.0.1/` | Ready (222 rows) |
-| PCI DSS v3.2.1 | `control/pcisecuritystandards.org/pci-dss/v3.2.1/` | Ready (277 rows) |
-| AICPA TSC 2017 | `control/aicpa.org/tsc/2017/` | Ready (68 criteria) |
-| CIS Controls v8 | `control/cisecurity.org/cis-controls/v8/` | Ready (153 safeguards) |
+| PCI DSS v4.0.1 | `control/pcisecuritystandards.org/pci-dss/v4.0.1/` | Moved to the private dataset 2026-11-13 ([#148](https://github.com/CloudSecurityAlliance-DataSets/dataset-public-laws-regulations-standards/issues/148)); metadata-only stub here |
+| PCI DSS v3.2.1 | `control/pcisecuritystandards.org/pci-dss/v3.2.1/` | Moved to the private dataset 2026-11-13 ([#148](https://github.com/CloudSecurityAlliance-DataSets/dataset-public-laws-regulations-standards/issues/148)); metadata-only stub here |
+| AICPA TSC 2017 | `control/aicpa.org/tsc/2017/` | Moved to the private dataset 2026-11-13 ([#148](https://github.com/CloudSecurityAlliance-DataSets/dataset-public-laws-regulations-standards/issues/148)); metadata-only stub here |
+| CIS Controls v8 | `control/cisecurity.org/cis-controls/v8/` | Moved to the private dataset 2026-11-13 ([#148](https://github.com/CloudSecurityAlliance-DataSets/dataset-public-laws-regulations-standards/issues/148)); metadata-only stub here |
 | ENX ISA v6 | `control/enx.com/isa/6/` | Ready (80 controls) |
 | NIST SP 800-53 r5 | `control/nist.gov/800-53/r5/` | Ready (1,189 entries) |
 | NIST SP 800-171 r3 | `control/nist.gov/800-171/` | Ready (structured) |
 | NIST SP 800-172 | `control/nist.gov/800-172/` | Ready (35 enhanced reqs — PR #20) |
 | NIST SP 800-161 r1 | `control/nist.gov/800-161/r1/` | Ready (191 controls — PR #20) |
 | NIST SP 800-82 r3 | `control/nist.gov/800-82/r3/` | Ready (230 OT controls — PR #21) |
-| HITRUST CSF v11.3.0 | `control/hitrustalliance.net/csf/v11.3.0/` | Ready (150 controls — PR #20) |
+| HITRUST CSF v11.3.0 | `control/hitrustalliance.net/csf/v11.3.0/` | Moved to the private dataset 2026-11-13 ([#148](https://github.com/CloudSecurityAlliance-DataSets/dataset-public-laws-regulations-standards/issues/148)); metadata-only stub here |
 | AWS Well-Architected Security Pillar | `control/amazon.com/well-architected/` | Ready (63 BPs — PR #16) |
 
 ## Recently completed (history)

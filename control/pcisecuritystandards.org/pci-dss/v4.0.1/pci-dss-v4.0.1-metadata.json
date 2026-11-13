@@ -10,11 +10,11 @@
   "relationToAISecurity": "PCI DSS does not specifically address AI workloads. AI systems that store, process, or transmit cardholder data remain subject to PCI DSS requirements regardless of the implementation technology. For AI-specific cybersecurity guidance, see CSA AICM, NIST AI RMF (NIST.AI.100-1), and NIST AI 600-1.",
   "license": {
     "spdx": "LicenseRef-PCI-SSC-Read-Copy-License",
-    "redistribution": "permitted_for_study_purposes",
+    "redistribution": "prohibited",
     "derivatives": "modification_prohibited_per_section_III_1_2",
-    "publicly_redistributable": true,
-    "license_text_url": "https://www.pcisecuritystandards.org/document_library_terms/",
-    "notes": "PCI SSC License Agreement grants free Read and Copy License for study purposes. Implementation License (Section II) adds patent non-assertion covenant. Modification of the standard text is prohibited (Section III.1.2). Derived works such as structured extractions for analysis/mapping are permitted under fair-use study purposes."
+    "publicly_redistributable": false,
+    "license_text_url": "https://www.pcisecuritystandards.org/terms_and_conditions/",
+    "notes": "PCI SSC distributes PCI DSS through its document library after the user accepts a click-through licence agreement; that agreement was not re-read for this change. The PCI SSC Terms and Conditions (read 2026-11-13) say: \"Except for the limited rights expressly granted herein, or as otherwise required by law or granted pursuant to a separate written agreement between you and the Council, you may not publish, distribute, copy, assign, license, sublicense, transfer, sell, prepare of derivative works of, or use for any non-personal purpose, any Content\". Since 2026-11-13 this public repository holds only this metadata stub. Correction 2026-11-13: earlier metadata set publicly_redistributable to true on a reading of the licence as permitting study-purpose redistribution, and pointed license_text_url at /document_library_terms/, which now returns 404."
   },
   "links": {
     "wikipedia": "https://en.wikipedia.org/wiki/Payment_Card_Industry_Data_Security_Standard",
@@ -39,7 +39,7 @@
       "--paginate_output"
     ],
     "force_ocr": false,
-    "notes": "Initial extraction at 2026-05-09T22-45-48Z used --force_ocr and produced 6 garbled OCR artifacts plus missed 9 requirement IDs. Re-extracted without --force_ocr at 2026-05-10T10-03-09Z; zero OCR artifacts, 524 unique requirement IDs detected (superset of force_ocr's 515). Runtime dropped from 169 min to 10 min. Force OCR was inappropriate for this clean text-layer PDF."
+    "notes": "This describes the extraction held in the private dataset (dataset-private-laws-regulations-standards, same path); none of its files are in this public repository. Initial extraction at 2026-05-09T22-45-48Z used --force_ocr and produced 6 garbled OCR artifacts plus missed 9 requirement IDs. Re-extracted without --force_ocr at 2026-05-10T10-03-09Z; zero OCR artifacts, 524 unique requirement IDs detected (superset of force_ocr's 515). Runtime dropped from 169 min to 10 min. Force OCR was inappropriate for this clean text-layer PDF."
   },
   "extraction_history": [
     {
@@ -62,7 +62,9 @@
     "goals": 6
   },
   "desired_end_state": {
-    "state": "structured",
-    "reason": "control-catalog"
-  }
+    "state": "metadata-only",
+    "reason": "licensed",
+    "notes": "Full text held in dataset-private-laws-regulations-standards since 2026-11-13. Access tier: Tier 4 as the program treats it (click-through licence agreement before download). Public hosting needs an explicit, documented exception from Kurt, added to the ALLOWLIST in tools-resources/utils/check_tier_restrictions.py."
+  },
+  "notes": "Hosting: metadata-only in this public repository. The full text, page images, structured data and extraction scripts were removed on 2026-11-13 and are held in the private companion dataset (dataset-private-laws-regulations-standards, same path) under the 4-tier hosting rule (Kurt Seifried, 2026-11-09: free-login sources need his approval before public mirroring; paid or members-only sources are never mirrored publicly without an explicit, documented exception); this source is Tier 4 as the program treats it (click-through licence agreement before download). On 2026-11-13 Kurt chose the option \"Move all four (Recommended)\". The content had been public here from this repository's first commit (2026-05-12) until then; it remains in git history, and whether to purge that history is a separate decision still pending. Records: CloudSecurityAlliance-DataSets/dataset-public-laws-regulations-standards#148, CloudSecurityAlliance-DataSets/dataset-private-laws-regulations-standards#15. Any return to public hosting needs an explicit, documented exception from Kurt, added as an entry in the ALLOWLIST of tools-resources/utils/check_tier_restrictions.py (a reviewed CI-gate change; see METADATA-SCHEMA.md, Public hosting exceptions)."
 }

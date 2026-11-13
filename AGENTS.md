@@ -42,7 +42,7 @@ control/
 │   ├── aicm/1.0.3/
 │   └── ccm-caiq/4.0.3/
 ├── pcisecuritystandards.org/
-│   └── pci-dss/v4.0.1/
+│   └── pci-dss/v4.0.1/          (metadata-only stub; full text is private)
 └── nist.gov/
     ├── csf/2.0/
     ├── 800-53/r5/
@@ -134,7 +134,7 @@ Reasons:
 - Bulk JSON/YAML inflates this repo for no marginal value over a `git clone` of upstream.
 - Version-pinning via upstream tag is more reliable than committing one snapshot here.
 
-Exception: if structured-extraction from a PDF/XLSX produces the *first* machine-readable form of a doc (e.g., NIST SP 800-53 r5 from the NIST-published XLSX, PCI DSS from marker output of the PDF), commit the derived structured form. The derived data didn't exist publicly before.
+Exception: if structured-extraction from a PDF/XLSX produces the *first* machine-readable form of a doc (e.g., NIST SP 800-53 r5 from the NIST-published XLSX), commit the derived structured form. The derived data didn't exist publicly before. This exception applies only to sources this repository may host under the 4-tier rule below; the derived forms of Tier 3 and Tier 4 sources (e.g., PCI DSS) belong in the private dataset.
 
 ### Licensed/restricted content is not committed here (4-Tier Hosting Rule, 2026-11-09)
 
@@ -144,8 +144,12 @@ On 2026-11-09, Kurt Seifried established the general 4-tier rule governing what 
 
 1. **Tier 1 (Public government / intergovernmental websites):** Always committed to **this public repository** (`dataset-public-laws-regulations-standards`, and `SecID-Data*`) regardless of license (including all 404 national security, defense, cybersecurity & AI strategies, government glossaries such as `bsi.bund.de/glossary`, and public government control frameworks). Preserve attribution and upstream license fields in `-metadata.json` (`publicly_redistributable: true`).
 2. **Tier 2 (Public web, no login required):** Treated as publicly mirrorable and committed to **this public repository** with attribution and source terms preserved in `-metadata.json` (including open standards and public web security glossaries such as `apple.com`, `barracuda.com`, `beyondtrust.com`, `bitsight.com`, `checkmk.com`, `cisco.com`, `cloudflare.com`, `cyberark.com`, `forescout.com`, `microsoft.com`, `paloaltonetworks.com`, `vulncheck.com`).
-3. **Tier 3 (Free login / registration wall required, e.g., CIS Benchmarks PDF download, Open Group TOGAF / Open FAIR, NFPA):** **Ask Kurt first** (`needs-kurt` issue in `CSA-Internal-Governance/SecID`) before mirroring publicly.
-4. **Tier 4 (Paid login, paid purchase, or members-only access, e.g., `iso.org`, `iec.ch`, `bsigroup.com`, `cen.eu`, `isaca.org`, `hitrustalliance.net`, `swift.com`):** **Never mirror publicly** unless a specific, explicit, well-documented exception with solid reasons is granted. Identity records live in the SecID registry (`~/GitHub/CloudSecurityAlliance/SecID/registry/{type}/{tld}/{org}.json`), and full extracted content lives in the companion private repo `dataset-private-laws-regulations-standards`.
+3. **Tier 3 (Free login / registration wall required, e.g., CIS Benchmarks PDF download, CIS Controls via CIS WorkBench, AICPA Trust Services Criteria via a free AICPA & CIMA account, Open Group TOGAF / Open FAIR, NFPA):** **Ask Kurt first** (`needs-kurt` issue in `CSA-Internal-Governance/SecID`) before mirroring publicly.
+4. **Tier 4 (Paid login, paid purchase, or members-only access, e.g., `iso.org`, `iec.ch`, `bsigroup.com`, `cen.eu`, `isaca.org`, `hitrustalliance.net`, `swift.com`; the program also treats `pcisecuritystandards.org`, whose PCI DSS download sits behind a click-through licence, as Tier 4):** **Never mirror publicly** unless a specific, explicit, well-documented exception with solid reasons is granted. Identity records live in the SecID registry (`~/GitHub/CloudSecurityAlliance/SecID/registry/{type}/{tld}/{org}.json`), and full extracted content lives in the companion private repo `dataset-private-laws-regulations-standards`.
+
+**Enforced in CI.** `tools-resources/utils/check_tier_restrictions.py` (job `tier-restrictions` in `.github/workflows/validate.yml`, required by `ci-passed`) fails on any symlink or submodule link in the repository, and checks every file below a path segment that names a Tier 3 or Tier 4 publisher domain in two layers. First, the file's path and SHA-256 must match a reviewed entry in the script's `FINGERPRINTS`, so any new or edited file there, stubs included, fails until a reviewed gate change adds its fingerprint (`--print-fingerprints` prints the lines; paste only what a reviewer has opened and checked). Second, it must be a validated stub or exactly allowlisted. A stub is the edition's own `<dir>-metadata.json` (valid JSON, within size caps, its `secid` naming that directory) plus at most one small `README.md`; sidecars, `_meta.json` and anything else count as content. The only way through for content is an entry in the `ALLOWLIST` inside the script, bound to one exact edition directory, its SecID and an explicit file list. A Tier 3/4 entry must be an exception Kurt granted, linked to his recorded decision; the other kind records a Tier 1/2 source published by a restricted publisher (today only three OVAL files under `cisecurity.org`). Edition metadata cannot grant itself an exception. The gate checks `ALLOWLIST` and `FINGERPRINTS` for syntax only; a typed `approved_by` proves nothing. Approval is authentic only because changing either list changes a CI gate, which needs a different-vendor review that opens the linked decision or evidence, confirms Kurt approved that exact entry, and opens every newly fingerprinted file (see [METADATA-SCHEMA.md](METADATA-SCHEMA.md#public-hosting-exceptions) and the threat model in the script's docstring). The script also prints, without failing, every directory that holds content while its metadata says `publicly_redistributable: false`. Run `python3 -I tools-resources/utils/check_tier_restrictions.py --self-test` after changing it.
+
+**History.** PCI DSS (v3.2.1, v4.0, v4.0.1), HITRUST CSF v11.3.0, AICPA TSC 2017 and CIS Controls v8 were committed here in full from the repository's first commit (2026-05-12) until 2026-11-13. On that date Kurt chose the option "Move all four (Recommended)", and they were moved to the private dataset ([#148](https://github.com/CloudSecurityAlliance-DataSets/dataset-public-laws-regulations-standards/issues/148)). They remain in git history; purging that history is a separate, pending decision.
 
 ### Namespaces are **DNS domain names of the publishing organization**
 
@@ -185,6 +189,7 @@ This repository contains documentation and data — no traditional build/lint/te
 |---|---|
 | `python3 tools-resources/utils/audit_secid_alignment.py` | After adding or moving any document directory. Verifies every metadata `secid` field resolves to a registered SecID namespace. Exits 1 if anything is missing. |
 | `python3 tools-resources/utils/build_index.py` | After adding/removing documents or changing extraction state. Regenerates `INDEX.md` at repo root. |
+| `python3 -I tools-resources/utils/check_tier_restrictions.py` | Before every PR (CI runs it). Fails on symlinks, and on any file under a Tier 3/4 publisher domain that lacks a reviewed `FINGERPRINTS` entry or is neither a validated metadata/README stub nor covered by the script's `ALLOWLIST`. Adding or editing a stub there needs a reviewed fingerprint update (`--print-fingerprints`). `--self-test` checks the script itself. |
 | `python3 control/cloudsecurityalliance.org/aicm/crosswalks/check_figures.py` | After regenerating the AICM crosswalk or editing AICM prose. Asserts that the counts quoted across the seven AICM docs still match the committed data. Exits 1 on drift. |
 | `python3 control/cloudsecurityalliance.org/ccm/check_figures.py` | After re-extracting CCM 4.1.1 or CAIQ 4.1.0, or editing their prose. Asserts the 4.1.0 → 4.1.1 invariants (no ID moved, 101 reworded specifications, mapping and DORA counts) and every figure the CCM 4.1.1 docs and the CAIQ 4.1.0 changed-question table quote. Exits 1 on drift. |
 
@@ -232,7 +237,7 @@ Default is **OFF**. Clean text-layer PDFs come out faster and cleaner without it
 
 #### After extraction: name files to match SecID
 
-Marker outputs `<input-basename>.md`. The SecID convention requires `<name>-<version>.md` matching the directory path. Rename marker's output before committing — e.g., if your input was `PCI-DSS-v4_0_1.pdf` landing in `control/pcisecuritystandards.org/pci-dss/v4.0.1/`, rename `PCI-DSS-v4_0_1.md` → `pci-dss-v4.0.1.md` (and the companion `_meta.json`). The `_page_*.jpeg` images keep their marker-assigned names.
+Marker outputs `<input-basename>.md`. The SecID convention requires `<name>-<version>.md` matching the directory path. Rename marker's output before committing — e.g., if your input was `PCI-DSS-v4_0_1.pdf` landing in `control/pcisecuritystandards.org/pci-dss/v4.0.1/` (in the private dataset, since PCI DSS is Tier 4; the naming rule is the same in both repositories), rename `PCI-DSS-v4_0_1.md` → `pci-dss-v4.0.1.md` (and the companion `_meta.json`). The `_page_*.jpeg` images keep their marker-assigned names.
 
 #### Common pitfalls
 
@@ -245,7 +250,7 @@ Marker outputs `<input-basename>.md`. The SecID convention requires `<name>-<ver
 Each standard with a regular requirement structure has a domain-specific extraction script co-located with the data. Two naming conventions are in use; pick whichever matches the document's nearest sibling:
 
 - `extract_<name>.py` in the version directory — current convention (NIST 800-171, AI RMF, Privacy Framework, 800-218, 800-37 r2, 800-66 r2, 800-207, AI 600-1, 800-63A/B/C, 800-160 v1, FIPS 200, and most other NIST extractions; also `regulation/` jurisdiction extractors).
-- `parse_<name>.py` co-located or under `scripts/` — older convention (PCI DSS, CCM, AICM, CIS Controls, AICPA TSC).
+- `parse_<name>.py` co-located or under `scripts/` — older convention (CCM, AICM; the PCI DSS, CIS Controls and AICPA TSC parsers moved to the private dataset with their content on 2026-11-13).
 
 The script walks marker's `Table` block tree (or the source's native structure for XLSX/HTML inputs) to emit one row per requirement/control/article.
 
@@ -288,4 +293,4 @@ python3 tools-resources/utils/docx_to_md.py
 - Originals live in S3, not git
 - Public repo: feature branches + PRs, never push directly to main
 
-For the step-by-step flow when adding a new document, see [Workflow when adding a new document](#workflow-when-adding-a-new-document) above. For licensed/restricted material that doesn't belong here, see [Licensed/restricted content is not committed here](#licensedrestricted-content-is-not-committed-here).
+For the step-by-step flow when adding a new document, see [Workflow when adding a new document](#workflow-when-adding-a-new-document) above. For licensed/restricted material that doesn't belong here, see [Licensed/restricted content is not committed here](#licensedrestricted-content-is-not-committed-here-4-tier-hosting-rule-2026-11-09).
