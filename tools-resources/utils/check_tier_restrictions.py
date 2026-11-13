@@ -14,45 +14,69 @@ This gate was added after full text from four Tier 3/4 publishers (HITRUST, AICP
 CIS, PCI SSC) was found in this repository, where it had been since the first commit
 (dataset-public-laws-regulations-standards#148).
 
+Threat model
+------------
+The gate stops restricted content from entering the public repository: text, data or
+images from a Tier 3 (free login) or Tier 4 (paid / members-only) publisher committed
+by mistake or by an agent acting on its own. It does this mechanically. It cannot
+judge whether an approval is authentic.
+
+The ALLOWLIST and FINGERPRINTS below are checked for syntax only: required fields, a
+plausible date, a link of the right shape, well-formed hashes. A typed name such as
+`approved_by: "Kurt Seifried"` proves nothing. Approval is authentic only because every
+change to ALLOWLIST or FINGERPRINTS is a change to this CI gate. Under the program's
+rules, such a change needs a different-vendor review, and that review must:
+  - open the linked `reference` (and `evidence`) and confirm that Kurt approved that
+    exact entry (path, SecID, files) for a Tier 3/4 exception, or that the upstream is
+    really public with no login for a Tier 1/2 source;
+  - open every new or changed fingerprinted file and confirm that it is only a stub
+    (identity metadata and a short description, no restricted text), or that an
+    approved ALLOWLIST entry covers it.
+A reviewer who does not do this turns the gate into a rubber stamp.
+
 What it checks (blocking)
 -------------------------
 1. No symbolic links or submodule links anywhere in the repository. They could point
    enumeration at content outside the tracked tree.
-2. Under any path segment that names a Tier 3 or Tier 4 publisher domain (see
-   RESTRICTED_DOMAINS; subdomains match too, so `standards.iso.org` counts as
-   `iso.org`), only metadata stubs may exist. A stub is checked by content, not only
-   by name. It must sit in an edition directory inside a SecID type root
-   (`<type>/<namespace>/<name>/` or `<type>/<namespace>/<name>/<version>/`) and be
-   one of these:
-   - the edition's own metadata, named `<dir>-metadata.json` or
-     `<parent>-<dir>-metadata.json` (one per directory). It must be a JSON object of
-     at most METADATA_MAX_BYTES, with no string longer than METADATA_MAX_STRING
-     characters, and a `secid` that names this directory;
-   - one `README.md` in a directory that has its own metadata, of at most
-     README_MAX_BYTES.
-   Anything else fails, including per-file `-file-metadata.json` sidecars and
-   marker `_meta.json` files. The only way through is an entry in ALLOWLIST, below.
-3. Every ALLOWLIST entry is itself validated, and binds to one exact edition
-   directory and an explicit list of file names in it. Nothing inherits to
-   subdirectories or to sibling editions.
-
-The allowlist lives in this file on purpose. Adding an entry changes a CI gate, which
-under the program's rules needs a different-vendor review and a decision record.
-Edition metadata cannot grant itself an exception.
+2. Every file under a path segment that names a Tier 3 or Tier 4 publisher domain (see
+   RESTRICTED_DOMAINS; subdomains match, so `standards.iso.org` counts as `iso.org`)
+   must pass BOTH layers:
+   Layer 1, reviewed fingerprint: its path and SHA-256 must appear in FINGERPRINTS. A
+     new file, or any edit to an existing one, fails until a reviewed gate change adds
+     or updates its entry. This stops restricted text from being slipped into a
+     capped stub, chunked across new edition directories, or swapped into an existing
+     README.
+   Layer 2, content rules:
+     a. If an exact ALLOWLIST entry covers the file (same directory, file name in the
+        entry's list) and the directory's own metadata carries the entry's SecID, the
+        file is allowed. The stub caps below do not apply to it.
+     b. Otherwise only stubs are allowed: the edition's own metadata, named
+        `<dir>-metadata.json` or `<parent>-<dir>-metadata.json` (one per directory,
+        in an edition directory `<type>/<namespace>/<name>[/<version>]`): a JSON
+        object of at most METADATA_MAX_BYTES, no string longer than
+        METADATA_MAX_STRING characters, with a `secid` that names the directory; and
+        one `README.md` beside that metadata, of at most README_MAX_BYTES. Anything
+        else fails, including `-file-metadata.json` sidecars and `_meta.json` files.
+3. ALLOWLIST and FINGERPRINTS are validated. An ALLOWLIST entry binds to one exact
+   edition directory and an explicit list of file names in it; nothing inherits to
+   subdirectories, siblings or parents.
 
 What it reports (non-blocking)
 ------------------------------
 Every directory that holds content files while its metadata says
-`license.publicly_redistributable: false`. The flag is not yet reliable across the
-repository; once the metadata backfill is done, this report can become blocking.
+`license.publicly_redistributable: false` (a later metadata backfill can make this
+blocking), and any FINGERPRINTS or ALLOWLIST entries that no longer match a file.
 
-Files come from `git ls-files -s` (tracked files with their modes), so gitignored
-local source PDFs do not count. Outside a git work tree the script walks the
-filesystem instead.
+Files come from `git ls-files -s` (tracked files with their modes), so gitignored local
+source PDFs do not count. Outside a git work tree the script walks the filesystem.
 
 Usage:
     python3 -I tools-resources/utils/check_tier_restrictions.py [--repo PATH]
     python3 -I tools-resources/utils/check_tier_restrictions.py --self-test
+    python3 -I tools-resources/utils/check_tier_restrictions.py --list-self-test-cases
+    python3 -I tools-resources/utils/check_tier_restrictions.py --print-fingerprints
+        (prints FINGERPRINTS lines for every file under a restricted domain; paste
+        only what a reviewer has checked)
 
 Exit status: 0 pass, 1 violations found (or self-test failure), 2 usage error.
 Standard library only.
@@ -62,6 +86,7 @@ from __future__ import annotations
 import argparse
 import datetime as _dt
 import fnmatch
+import hashlib
 import json
 import os
 import re
@@ -71,6 +96,8 @@ import sys
 import tempfile
 from collections import defaultdict
 from pathlib import PurePosixPath
+
+SCRIPT_PATH = "tools-resources/utils/check_tier_restrictions.py"
 
 # Publisher domains whose standards are behind a free login (Tier 3) or a paid /
 # members-only wall (Tier 4). Sources: AGENTS.md "Licensed/restricted content is not
@@ -103,9 +130,10 @@ RESTRICTED_DOMAINS: dict[str, str] = {
 SECID_TYPES = frozenset({"advisory", "weakness", "ttp", "control", "capability", "methodology",
                          "disclosure", "regulation", "entity", "reference"})
 
-# Stub caps. Set at about twice the largest legitimate stub under a restricted domain
-# on 2026-11-13: metadata 7,997 bytes (control/aicpa.org/tsc/2017), longest metadata
-# string 1,441 characters (same file), README 3,099 bytes (reference/cisecurity.org/oval).
+# Stub caps (second layer). Set at about twice the largest legitimate stub under a
+# restricted domain on 2026-11-13: metadata 7,997 bytes (control/aicpa.org/tsc/2017),
+# longest metadata string 1,441 characters (same file), README 3,099 bytes
+# (reference/cisecurity.org/oval).
 METADATA_MAX_BYTES = 16 * 1024
 METADATA_MAX_STRING = 3000
 README_MAX_BYTES = 6 * 1024
@@ -119,19 +147,25 @@ _REFERENCE_RE = re.compile(
     r"(issues/\d+|pull/\d+|blob/[A-Za-z0-9._/-]+\.md(#[A-Za-z0-9._-]+)?)$")
 _HTTPS_RE = re.compile(r"^https://[A-Za-z0-9.-]+\.[A-Za-z]{2,}/\S+$")
 _DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
+_SHA256_RE = re.compile(r"^[0-9a-f]{64}$")
 
-# Reviewed allowlist: the ONLY way content other than a metadata stub may sit under a
-# restricted publisher domain. Each entry binds to one exact edition directory, the
-# SecID its metadata carries, and an explicit list of file names (fnmatch patterns,
-# no "/") directly in that directory. Two kinds:
+# ======================================================================================
+# REVIEWED GATE DATA. Every change below is a CI-gate change: it needs a different-vendor
+# review that verifies the linked decision/evidence and the fingerprinted file contents
+# (see "Threat model" above). Syntax checks here do not establish approval.
+# ======================================================================================
+
+# The ONLY way content other than a metadata stub may sit under a restricted publisher
+# domain. Each entry binds to one exact edition directory, the SecID its metadata
+# carries, and an explicit list of file names (fnmatch patterns, no "/") directly in
+# that directory. Two kinds:
 #   "tier3-4-exception": an explicit, documented exception Kurt granted for Tier 3/4
-#       content. approved_by must be EXCEPTION_APPROVER; reference must link the
-#       GitHub issue, PR or decision document that records his decision.
+#       content. approved_by must be EXCEPTION_APPROVER; reference must link the GitHub
+#       issue, PR or decision document that records his decision.
 #   "tier1-2-source": a source that is itself Tier 1/2 (public, no login) although its
 #       publisher's standards are gated. Not an exception; evidence links the public
-#       upstream. reference links the reviewed PR that classified it.
-# Adding or widening an entry changes this gate: it needs a different-vendor review
-# and a decision record. There are no Tier 3/4 exceptions today.
+#       upstream; reference links the reviewed PR that classified it.
+# There are no Tier 3/4 exceptions today.
 ALLOWLIST: list[dict] = [
     {
         "kind": "tier1-2-source",
@@ -149,6 +183,54 @@ ALLOWLIST: list[dict] = [
     },
 ]
 
+# Reviewed SHA-256 of every file allowed under a restricted publisher domain: stubs
+# (own metadata, README.md) and files an ALLOWLIST entry covers. Path -> hex digest.
+# A new file or an edited one fails until its entry here is added or updated in a
+# reviewed gate change. `--print-fingerprints` prints current values; paste only what a
+# reviewer has opened and checked.
+FINGERPRINTS: dict[str, str] = {
+    # 35 stubs (23 metadata, 12 README) and 3 OVAL files covered by ALLOWLIST, reviewed for
+    # dataset-public-laws-regulations-standards#149 on 2026-11-13.
+    "control/aicpa.org/tsc/2017/README.md": "e44d16a0f927da1b6d7f648e82e18240872125b14939ab1e60acd05605422bfe",
+    "control/aicpa.org/tsc/2017/tsc-2017-metadata.json": "b83a91e6b8224bb70fe44dfb06d43bef382b12a7b9922090c68b81274c4688fb",
+    "control/cisecurity.org/cis-controls/v8/README.md": "3cdab7b5885a301e311b4f5814453cf741add82359f636c28c2705aa7d628ef6",
+    "control/cisecurity.org/cis-controls/v8/cis-controls-v8-metadata.json": "73c6cfa5f4018e54a553f901179bb27bb8081be1d97aa15e068ab6a82921565a",
+    "control/hitrustalliance.net/csf/v11.3.0/README.md": "236840a03ff4ee04085ea1775c2804e962bbb13c84ab86279056d55981d16317",
+    "control/hitrustalliance.net/csf/v11.3.0/csf-v11.3.0-metadata.json": "09266092d21295587346960d7588d923ab732949a726c076a6b320cb3c282b6c",
+    "control/isaca.org/cobit/README.md": "da4647a09b5e6e8135cb38b6c730c3b36e8758736c91f5e52ad7b9834e487bee",
+    "control/isaca.org/cobit/cobit-metadata.json": "4e287aebfea350311e3f6f7f20c81f09a74b1834432d0e17c3a2888a18ace041",
+    "control/pcisecuritystandards.org/pa-dss/README.md": "4e814862014a2c433dbca0b7e2d90c4cc0401a148e0386a747a34f7f4adec6f2",
+    "control/pcisecuritystandards.org/pa-dss/pa-dss-metadata.json": "7e4f055987157aa606ad540adf604e0706e9753bc323d7ff068f91ae4d8f7591",
+    "control/pcisecuritystandards.org/pci-dss/v3.2.1/README.md": "347e4fcdbd6a49aa2f2c9d95470b0125efa84f8a9c4ebf7d326714dd6a6a8798",
+    "control/pcisecuritystandards.org/pci-dss/v3.2.1/pci-dss-v3.2.1-metadata.json": "fa960e9089e08ee852db89f6ab2061b1c631b56ac1a18280866481f16ae092f7",
+    "control/pcisecuritystandards.org/pci-dss/v4.0.1/README.md": "d297f1c3cb018443e049283d7753bb943b715095426991e9d175357b45e7327b",
+    "control/pcisecuritystandards.org/pci-dss/v4.0.1/pci-dss-v4.0.1-metadata.json": "6d7ebe1f9bde741f8d0dd980f988de7ace3cea4e81cfc7e46fb5d94c685034d8",
+    "control/pcisecuritystandards.org/pci-dss/v4.0/README.md": "fb43e327956a79ccca61cc4eeda6b78651cbbe8c3a1430acc31b5c7d29dac4a9",
+    "control/pcisecuritystandards.org/pci-dss/v4.0/pci-dss-v4.0-metadata.json": "338d3956b4b5eaa6b419473708984b7cf5ff56018a4af93cdf9d23240afdc4f5",
+    "control/pcisecuritystandards.org/pci-pin/README.md": "e726f77ef61727b21755ddea9203d29ef26b0a4c981e3fce889390fee5b22256",
+    "control/pcisecuritystandards.org/pci-pin/pci-pin-metadata.json": "2e8854acf1274542555262afb3edc3d9d9f59c35ea4d4f9618c1161259caf53a",
+    "control/pcisecuritystandards.org/secure-software-standard/README.md": "8105b428a0aa7f67e20d980c12e866c070b725c48d43271e11f0cc160fc4e024",
+    "control/pcisecuritystandards.org/secure-software-standard/secure-software-standard-metadata.json": "9c5d0764b55b86bcb050db54618d165aed51a9baa67296437e9f8bb77e604d2e",
+    "control/securityforum.org/sogp/2022/sogp-2022-metadata.json": "9ba4191550fec35211c10513dfe120664c3fa167ff85df412730f7bcc2701fd6",
+    "control/swift.com/csp/README.md": "e58e96052b989af111189acfa9ede5b2a65c3136e00b8c2f062f9fdf8aee166c",
+    "control/swift.com/csp/csp-metadata.json": "f5ebaece38fa0310a26df2d1e6fc9cc528f2b175b4d6d0d5b9feb661cda5e49f",
+    "reference/asisonline.org/security-industry-glossary/security-industry-glossary-metadata.json": "52a274d680f4427479f77383493cb381d8045d006a0bfef7da51092ca79e4f4f",
+    "reference/bsigroup.com/cyber-security-glossary/cyber-security-glossary-metadata.json": "fc7bf73780d6d339c066b285b9464cc2bbef706e9c5470e89062c0be6b5b18dc",
+    "reference/cisecurity.org/cybersecurity-terms-definitions/cybersecurity-terms-definitions-metadata.json": "b8d3d5b0141e812ba58847ffaeb9d6c0472e4410d2b242db5ddb60e7fdc80b2e",
+    "reference/cisecurity.org/oval/README.md": "c456a117bd26199f27dae84b0e875cd8a667767e09d81c8cfb6bf4636c834d8f",
+    "reference/cisecurity.org/oval/oval-metadata.json": "b0669bef4a8efd06527dd149b435843ec42d13f4ad345139dcf247bede9ec1a7",
+    "reference/cisecurity.org/oval/oval-sections.csv": "c43122b33a10c3745edd28ad982ca7f954d1a978610b717df236ad09b8ff8b2c",
+    "reference/cisecurity.org/oval/oval-sections.json": "1bb87dabd644d152a2c2334022f8126c0f1f066c09470fce8471473b133c2e90",
+    "reference/cisecurity.org/oval/oval.md": "481602d98f7c8fdd9460d4f801b4a84b9b79e8a23e6cf8bfadb8baf4a1d023eb",
+    "reference/hitrustalliance.net/glossary-of-terms-and-acronyms/glossary-of-terms-and-acronyms-metadata.json": "a7851c9d76f5bf26948621a391125ca4269c5ea18f4e269d693f251f7cad9247",
+    "reference/iec.ch/iec-glossary/iec-glossary-metadata.json": "aa15f8e3440890863dfc105b9eba5febfe05665ac27950256c253ed750ea4cd6",
+    "reference/isaca.org/cybersecurity-fundamentals-glossary/cybersecurity-fundamentals-glossary-metadata.json": "3c5b0f73dd5cb5e9df74de0521cae6cdc45a3f1997728b769ac99e48ae0e659d",
+    "reference/nfpa.org/nfpa-glossary/nfpa-glossary-metadata.json": "83be9009994dc2a9232c1e7d99c5dc713d5ae3c6897608bc86d2792f86d68a26",
+    "reference/opengroup.org/opaf-glossary/opaf-glossary-metadata.json": "2da669fd698a03db1eec663c7319d6fd5ca9dfa90347c385731365f63a0fa775",
+    "reference/pcisecuritystandards.org/pci-glossary/pci-glossary-metadata.json": "c2de0eb19370b7e75984b6095edeeb3f37e6eec41269a1588e211b482bd615ec",
+    "reference/sharedassessments.org/tprm-glossary/tprm-glossary-metadata.json": "e746a7dc49adb0ed9945e03ad0338f9d706ba6fe41129b8e784e0b3097042eb7",
+}
+
 
 # ----------------------------------------------------------------------------- helpers
 def restricted_domain(segment: str) -> str | None:
@@ -157,6 +239,15 @@ def restricted_domain(segment: str) -> str | None:
     for domain in RESTRICTED_DOMAINS:
         if seg == domain or seg.endswith("." + domain):
             return domain
+    return None
+
+
+def restricted_hit(rel: str) -> str | None:
+    """The restricted domain named by any directory segment of rel, or None."""
+    for seg in PurePosixPath(rel).parts[:-1]:
+        dom = restricted_domain(seg)
+        if dom:
+            return dom
     return None
 
 
@@ -171,6 +262,14 @@ def own_metadata_names(dir_path: str) -> set[str]:
 def is_report_stub(name: str) -> bool:
     """Name-only stub test, used only by the non-blocking report."""
     return name == "README.md" or name.endswith("-metadata.json")
+
+
+def sha256_file(path: str) -> str:
+    h = hashlib.sha256()
+    with open(path, "rb") as fh:
+        for chunk in iter(lambda: fh.read(1 << 20), b""):
+            h.update(chunk)
+    return h.hexdigest()
 
 
 def list_entries(root: str, use_git: bool | None = None) -> tuple[list[str], list[str]]:
@@ -254,7 +353,8 @@ def secid_matches_dir(secid, dir_path: str) -> bool:
 
 
 def validate_allowlist(entries: list[dict], today: _dt.date | None = None) -> list[str]:
-    """Return the problems with the allowlist (empty list = valid)."""
+    """Syntax checks on ALLOWLIST (empty list = valid). These do not establish approval;
+    see the threat model."""
     today = today or _dt.date.today()
     problems = []
     seen = set()
@@ -314,9 +414,43 @@ def validate_allowlist(entries: list[dict], today: _dt.date | None = None) -> li
     return problems
 
 
+def validate_fingerprints(fingerprints: dict) -> list[str]:
+    """Syntax checks on FINGERPRINTS (empty list = valid)."""
+    if not isinstance(fingerprints, dict):
+        return ["FINGERPRINTS must be a dict of path -> sha256"]
+    problems = []
+    for path, digest in fingerprints.items():
+        if (not isinstance(path, str) or path != PurePosixPath(path).as_posix() or ".." in PurePosixPath(path).parts
+                or path.startswith("/")):
+            problems.append(f"FINGERPRINTS: bad path {path!r}")
+        elif restricted_hit(path) is None:
+            problems.append(f"FINGERPRINTS: {path} is not under a restricted publisher domain")
+        if not isinstance(digest, str) or not _SHA256_RE.match(digest):
+            problems.append(f"FINGERPRINTS: {path} needs a lower-case 64-hex SHA-256, got {digest!r}")
+    return problems
+
+
+def fingerprint_problem(root: str, rel: str, fingerprints: dict) -> str | None:
+    """Layer 1: the file's path and SHA-256 must match a reviewed FINGERPRINTS entry."""
+    actual = sha256_file(os.path.join(root, *rel.split("/")))
+    expected = fingerprints.get(rel)
+    line = f'    "{rel}": "{actual}",'
+    if expected is None:
+        return (f"{rel} has no reviewed fingerprint. If it is a stub (or an approved ALLOWLIST entry covers "
+                f"it), add this line to FINGERPRINTS in {SCRIPT_PATH}:\n{line}\n"
+                "        That is a CI-gate change: it needs a cross-vendor review that opens the file and confirms "
+                "it holds no restricted text.")
+    if expected != actual:
+        return (f"{rel} changed since its fingerprint was reviewed ({expected[:12]}... -> {actual[:12]}...). "
+                f"If the new content is still only a stub, replace its FINGERPRINTS entry in {SCRIPT_PATH} with:\n"
+                f"{line}\n        That is a CI-gate change and needs a cross-vendor review of the new content.")
+    return None
+
+
 # ----------------------------------------------------------------------------- checks
-def check_restricted(root: str, files: list[str], allowlist: list[dict]) -> tuple[dict, list[str]]:
-    """Blocking check. Returns ({location: {domain, files, reasons}}, notes)."""
+def check_restricted(root: str, files: list[str], allowlist: list[dict],
+                     fingerprints: dict) -> tuple[dict, list[str], int]:
+    """Blocking check. Returns ({location: {domain, files, reasons}}, notes, n_restricted)."""
     by_dir: dict[str, list[str]] = defaultdict(list)
     for f in files:
         p = PurePosixPath(f)
@@ -325,11 +459,14 @@ def check_restricted(root: str, files: list[str], allowlist: list[dict]) -> tupl
     violations: dict[str, dict] = {}
     allowed: dict[str, int] = defaultdict(int)
     meta_cache: dict[str, tuple[dict | None, list[str]]] = {}
+    seen_restricted: set[str] = set()
 
     def fail(loc, dom, rel, reason):
-        v = violations.setdefault(loc, {"domain": dom, "files": [], "reasons": set()})
-        v["files"].append(rel)
-        v["reasons"].add(reason)
+        v = violations.setdefault(loc, {"domain": dom, "files": [], "reasons": []})
+        if rel not in v["files"]:
+            v["files"].append(rel)
+        if reason not in v["reasons"]:
+            v["reasons"].append(reason)
 
     def own_metadata(dir_path: str) -> tuple[str | None, str | None]:
         names = sorted(n for n in by_dir.get(dir_path, []) if n in own_metadata_names(dir_path))
@@ -368,53 +505,56 @@ def check_restricted(root: str, files: list[str], allowlist: list[dict]) -> tupl
         return data, probs
 
     for rel in files:
-        p = PurePosixPath(rel)
-        parts = p.parts
-        hit = next(((i, d) for i, seg in enumerate(parts[:-1]) if (d := restricted_domain(seg))), None)
-        if hit is None:
+        dom = restricted_hit(rel)
+        if dom is None:
             continue
-        _, dom = hit
+        seen_restricted.add(rel)
+        p = PurePosixPath(rel)
         name, dir_path = p.name, p.parent.as_posix()
         dparts = p.parent.parts
-        in_edition_dir = dparts[0] in SECID_TYPES and len(dparts) in (3, 4) and restricted_domain(dparts[1])
+        in_edition_dir = bool(dparts[0] in SECID_TYPES and len(dparts) in (3, 4) and restricted_domain(dparts[1]))
 
-        # (a) the edition's own metadata
-        if in_edition_dir and name in own_metadata_names(dir_path):
+        # Layer 1: reviewed fingerprint (applies to every file, stub or allowlisted)
+        fp = fingerprint_problem(root, rel, fingerprints)
+        if fp:
+            fail(dir_path, dom, rel, fp)
+
+        # Layer 2a: an exact ALLOWLIST allowance, evaluated first
+        entry = entries.get(dir_path)
+        if entry is not None and any(fnmatch.fnmatchcase(name, pat) for pat in entry["files"]):
             meta_rel, amb = own_metadata(dir_path)
-            if amb:
-                fail(dir_path, dom, rel, amb)
-                continue
-            _, probs = metadata_problems(rel)
-            for pr in probs:
-                fail(dir_path, dom, rel, pr)
+            data = metadata_problems(meta_rel)[0] if meta_rel else None
+            if amb or data is None or data.get("secid") != entry["secid"]:
+                fail(dir_path, dom, rel, f"ALLOWLIST entry for {dir_path} names {entry['secid']}, but the "
+                                         "directory's own metadata is missing, invalid, ambiguous or carries "
+                                         "another secid")
+            elif not fp:
+                allowed[dir_path] += 1
             continue
 
-        # (b) one README.md in a directory that has its own valid metadata
+        # Layer 2b: fallback stub rules for files no allowance covers
+        if in_edition_dir and name in own_metadata_names(dir_path):
+            _, amb = own_metadata(dir_path)
+            if amb:
+                fail(dir_path, dom, rel, amb)
+            else:
+                for pr in metadata_problems(rel)[1]:
+                    fail(dir_path, dom, rel, pr)
+            continue
         if name == "README.md":
-            meta_rel, amb = own_metadata(dir_path) if in_edition_dir else (None, None)
-            size = os.path.getsize(os.path.join(root, *parts))
+            meta_rel, _ = own_metadata(dir_path) if in_edition_dir else (None, None)
+            size = os.path.getsize(os.path.join(root, *p.parts))
             if not in_edition_dir or meta_rel is None:
                 fail(dir_path, dom, rel, f"{rel}: README.md outside an edition directory with its own metadata")
             elif size > README_MAX_BYTES:
-                fail(dir_path, dom, rel, f"{rel}: {size} bytes, over the {README_MAX_BYTES}-byte README cap")
+                fail(dir_path, dom, rel, f"{rel}: {size} bytes, over the {README_MAX_BYTES}-byte README cap "
+                                         "(an exact ALLOWLIST entry can allow a larger one)")
             continue
-
-        # (c) anything else needs an exact allowlist entry for this very directory
-        entry = entries.get(dir_path)
         if entry is None:
             fail(dir_path, dom, rel, "content file with no ALLOWLIST entry for this exact directory "
                                      "(metadata-like files other than the edition's own count as content)")
-            continue
-        if not any(fnmatch.fnmatchcase(name, pat) for pat in entry["files"]):
+        else:
             fail(dir_path, dom, rel, f"{name} is not in the ALLOWLIST entry's files for {dir_path}")
-            continue
-        meta_rel, amb = own_metadata(dir_path)
-        data = metadata_problems(meta_rel)[0] if meta_rel else None
-        if data is None or data.get("secid") != entry["secid"]:
-            fail(dir_path, dom, rel, f"ALLOWLIST entry for {dir_path} names {entry['secid']}, but the "
-                                     "directory's own metadata is missing, invalid or carries another secid")
-            continue
-        allowed[dir_path] += 1
 
     notes = []
     for path, n in sorted(allowed.items()):
@@ -425,7 +565,11 @@ def check_restricted(root: str, files: list[str], allowlist: list[dict]) -> tupl
         missing = [pat for pat in e["files"] if not any(fnmatch.fnmatchcase(n, pat) for n in present)]
         if missing:
             notes.append(f"stale ALLOWLIST entry {path}: no file matches {missing}")
-    return violations, notes
+    stale = sorted(set(fingerprints) - set(files))
+    if stale:
+        notes.append(f"{len(stale)} stale FINGERPRINTS entries (file no longer present): {', '.join(stale[:5])}"
+                     + (" ..." if len(stale) > 5 else ""))
+    return violations, notes, len(seen_restricted)
 
 
 def report_unflagged(root: str, files: list[str]) -> list[tuple[str, int]]:
@@ -465,26 +609,27 @@ def report_unflagged(root: str, files: list[str]) -> list[tuple[str, int]]:
 
 
 # ----------------------------------------------------------------------------- output
-def run(root: str, use_git: bool | None = None, out=sys.stdout, allowlist: list[dict] | None = None) -> int:
+def run(root: str, use_git: bool | None = None, out=sys.stdout, allowlist: list[dict] | None = None,
+        fingerprints: dict | None = None) -> int:
     allowlist = ALLOWLIST if allowlist is None else allowlist
+    fingerprints = FINGERPRINTS if fingerprints is None else fingerprints
     in_actions = os.environ.get("GITHUB_ACTIONS") == "true"
     files, links = list_entries(root, use_git)
     status = 0
 
     print(f"Tier-restriction gate: checked {len(files)} files against "
-          f"{len(RESTRICTED_DOMAINS)} Tier 3/4 publisher domains; "
-          f"{len(allowlist)} ALLOWLIST entries.", file=out)
+          f"{len(RESTRICTED_DOMAINS)} Tier 3/4 publisher domains; {len(allowlist)} ALLOWLIST entries; "
+          f"{len(fingerprints)} reviewed FINGERPRINTS.", file=out)
 
-    al_problems = validate_allowlist(allowlist)
-    if al_problems:
-        status = 1
-        print("FAIL: the ALLOWLIST itself is invalid:", file=out)
-        for pr in al_problems:
+    data_problems = validate_allowlist(allowlist) + validate_fingerprints(fingerprints)
+    if data_problems:
+        print("FAIL: the gate's reviewed data (ALLOWLIST / FINGERPRINTS) is invalid:", file=out)
+        for pr in data_problems:
             print(f"  {pr}", file=out)
             if in_actions:
-                print(f"::error title=Tier gate allowlist::{pr}", file=out)
-        print("Fix the ALLOWLIST before anything else is checked.", file=out)
-        return status
+                print(f"::error title=Tier gate data::{pr}", file=out)
+        print("Fix the gate data before anything else is checked.", file=out)
+        return 1
 
     if links:
         status = 1
@@ -494,7 +639,9 @@ def run(root: str, use_git: bool | None = None, out=sys.stdout, allowlist: list[
             if in_actions:
                 print(f"::error title=Symlink or submodule link::{ln}", file=out)
 
-    violations, notes = check_restricted(root, files, allowlist)
+    violations, notes, n_restricted = check_restricted(root, files, allowlist, fingerprints)
+    print(f"  {n_restricted} files sit under restricted publisher domains; each needs a reviewed fingerprint.",
+          file=out)
     for n in notes:
         print(f"  {n}", file=out)
 
@@ -511,32 +658,47 @@ def run(root: str, use_git: bool | None = None, out=sys.stdout, allowlist: list[
     print("", file=out)
     if not violations:
         if status == 0:
-            print("PASS: no restricted-publisher content beyond validated metadata/README stubs.", file=out)
+            print("PASS: every file under a restricted publisher domain matches a reviewed fingerprint and is "
+                  "a valid stub or exactly allowlisted.", file=out)
         return status
     total = sum(len(v["files"]) for v in violations.values())
     print(f"FAIL: {total} files in {len(violations)} directories under Tier 3/4 publisher domains.", file=out)
-    print("Under these domains only an edition's own metadata and one README.md may exist, within the "
-          "size caps, unless an exact ALLOWLIST entry in this script covers the file. Full text belongs in "
-          "dataset-private-laws-regulations-standards.", file=out)
+    print("Under these domains a file must (1) match a reviewed SHA-256 in FINGERPRINTS and (2) be the edition's "
+          "own metadata or one README.md within the size caps, unless an exact ALLOWLIST entry covers it. Both "
+          f"lists live in {SCRIPT_PATH}; changing them is a CI-gate change that needs a cross-vendor review. "
+          "Full text belongs in dataset-private-laws-regulations-standards.", file=out)
     for loc, v in sorted(violations.items()):
         print(f"  {loc}/  [{v['domain']}: {RESTRICTED_DOMAINS[v['domain']]}]  {len(v['files'])} files", file=out)
-        for r in sorted(v["reasons"])[:5]:
+        for r in v["reasons"][:4]:
             print(f"      reason: {r}", file=out)
+        if len(v["reasons"]) > 4:
+            print(f"      ... and {len(v['reasons']) - 4} more reasons", file=out)
         for f in v["files"][:5]:
             print(f"      {f}", file=out)
         if len(v["files"]) > 5:
             print(f"      ... and {len(v['files']) - 5} more", file=out)
         if in_actions:
             print(f"::error title=Tier-restricted content::{loc}/ holds {len(v['files'])} files under "
-                  f"{v['domain']} ({RESTRICTED_DOMAINS[v['domain']]}) that are not valid stubs or allowlisted.",
+                  f"{v['domain']} ({RESTRICTED_DOMAINS[v['domain']]}) without a reviewed fingerprint or that are "
+                  "not valid stubs / allowlisted. See the job log for the exact lines to add after review.",
                   file=out)
     return 1
 
 
-# ----------------------------------------------------------------------------- self-test
-def self_test() -> int:
-    failures: list[str] = []
+def print_fingerprints(root: str) -> int:
+    files, _ = list_entries(root)
+    for rel in files:
+        if restricted_hit(rel):
+            print(f'    "{rel}": "{sha256_file(os.path.join(root, *rel.split("/")))}",')
+    return 0
 
+
+# ----------------------------------------------------------------------------- self-test
+FROZEN_TODAY = _dt.date(2026, 11, 13)  # synthetic fixtures only; the real data uses today's date
+
+
+def _self_test_data():
+    """All self-test cases, shared by --self-test and --list-self-test-cases."""
     def meta(secid, public=False, **extra):
         d = {"secid": secid, "license": {"spdx": "X", "publicly_redistributable": public}}
         d.update(extra)
@@ -553,10 +715,14 @@ def self_test() -> int:
         "reason": "Self-test fixture only: stands in for an explicit, documented exception.",
         "reference": "https://github.com/CSA-Internal-Governance/SecID/issues/1",
     }
-    allowlist = ALLOWLIST + [test_exception]
+    readme_exception = dict(test_exception, path="control/iso.org/27799/2016", secid="secid:control/iso.org/27799@2016",
+                            files=["README.md", "27799-2016.md"])
+    allowlist = ALLOWLIST + [test_exception, readme_exception]
+    restricted_text = "Clause 5.1 The organization shall determine external and internal issues. " * 20  # ~1.5 KB
 
-    # (path, body, expected_to_fail, case-name). A failing file is expected inside the
-    # violation keyed by its directory. Every case below is a separate regression test.
+    # (path, body, must_fail, name). Every file under a restricted domain is fingerprinted
+    # with its own body unless FP_OVERRIDE says otherwise, so the content cases below
+    # fail on layer 2 alone and the fingerprint cases fail on layer 1 alone.
     cases = [
         # --- legitimate stubs
         ("control/iso.org/27001/2022/27001-2022-metadata.json", meta("secid:control/iso.org/27001@2022"), False, "own metadata (versioned)"),
@@ -576,7 +742,24 @@ def self_test() -> int:
         ("control/notiso.org/a/1/a-1-metadata.json", meta("secid:control/notiso.org/a@1", True), False, "look-alike domain metadata"),
         ("control/notiso.org/a/1/a-1.md", "text", False, "look-alike domain content"),
         ("control/iso.org.example.com/b/b.md", "text", False, "domain as a prefix of another domain"),
-        # --- P1-1: stub checks by content, not name
+        # --- round 2 P1: every restricted file needs a reviewed fingerprint (layer 1)
+        ("control/iso.org/27099/2022/27099-2022-metadata.json",
+         meta("secid:control/iso.org/27099@2022", description=restricted_text), True,
+         "R2-P1 under-cap restricted text in a new edition's metadata (not fingerprinted)"),
+        ("control/iso.org/27100/2020/27100-2020-metadata.json",
+         meta("secid:control/iso.org/27100@2020", text=restricted_text[:700]), True,
+         "R2-P1 restricted text chunked across new edition dirs (chunk 1)"),
+        ("control/iso.org/27102/2019/27102-2019-metadata.json",
+         meta("secid:control/iso.org/27102@2019", text=restricted_text[700:1400]), True,
+         "R2-P1 restricted text chunked across new edition dirs (chunk 2)"),
+        ("control/hitrustalliance.net/csf/v11.3.0/csf-v11.3.0-metadata.json",
+         meta("secid:control/hitrustalliance.net/csf@v11.3.0"), False, "own metadata"),
+        ("control/hitrustalliance.net/csf/v11.3.0/README.md", "# HITRUST CSF\n\n" + restricted_text, True,
+         "R2-P1 existing README edited to hold restricted text under the cap (fingerprint mismatch)"),
+        ("control/iso.org/27103/2018/27103-2018-metadata.json", meta("secid:control/iso.org/27103@2018"), False, "own metadata"),
+        ("control/iso.org/27103/2018/README.md", "# a short new README", True,
+         "R2-P1 new README with no fingerprint in an existing edition"),
+        # --- P1-1 (round 1): stub checks by content, not name (layer 2; fingerprinted)
         ("control/iso.org/27017/2015/27017-2015-metadata.json", meta("secid:control/iso.org/27017@2015"), False, "own metadata"),
         ("control/iso.org/27017/2015/controls-file-metadata.json", json.dumps({"text": "x" * 100}), True, "P1-1 full text renamed to a -file-metadata.json sidecar"),
         ("control/iso.org/27017/2015/27017-2015_meta.json", "{}", True, "P1-1 marker _meta.json is content"),
@@ -611,6 +794,12 @@ def self_test() -> int:
         ("control/iso.org/27701/2022/27701-2022-metadata.json", meta("secid:control/iso.org/27701@2022"), False, "own metadata"),
         ("control/iso.org/27701/2022/27701-2019.md", "text", True, "P2-3 sibling edition does not inherit the exception"),
         ("control/iso.org/27701/27701.md", "text", True, "P2-3 parent directory does not inherit the exception"),
+        ("control/iso.org/27701/2019/27701-2019-extra.md", "text", True, "R2-P1 allowlisted directory, file not in the entry and not fingerprinted"),
+        # --- round 2 P2: an exact allowance can authorize a README over the stub cap
+        ("control/iso.org/27799/2016/27799-2016-metadata.json", meta("secid:control/iso.org/27799@2016"), False, "own metadata"),
+        ("control/iso.org/27799/2016/README.md", "# approved long README\n" + "approved text " * 800, False,
+         "R2-P2 README over the stub cap passes when an exact ALLOWLIST entry lists it"),
+        ("control/iso.org/27799/2016/27799-2016.md", "approved text", False, "allowlisted content beside it"),
         # --- P2-5: OVAL is the exact reviewed files only
         ("reference/cisecurity.org/oval/oval-metadata.json", meta("secid:reference/cisecurity.org/oval", True), False, "OVAL own metadata"),
         ("reference/cisecurity.org/oval/README.md", "# OVAL", False, "OVAL README"),
@@ -625,26 +814,91 @@ def self_test() -> int:
         ("control/example.org/doc/2/doc-2-metadata.json", meta("secid:control/example.org/doc@2", True), False, "report: content + true"),
         ("control/example.org/doc/2/doc-2.md", "text", False, "report: content + true"),
     ]
+    # path -> None (no fingerprint) or the reviewed original body (fingerprint mismatch)
+    fp_override = {
+        "control/iso.org/27099/2022/27099-2022-metadata.json": None,
+        "control/iso.org/27100/2020/27100-2020-metadata.json": None,
+        "control/iso.org/27102/2019/27102-2019-metadata.json": None,
+        "control/hitrustalliance.net/csf/v11.3.0/README.md": "# HITRUST CSF\n\nMetadata-only stub.\n",
+        "control/iso.org/27103/2018/README.md": None,
+        "control/iso.org/27701/2019/27701-2019-extra.md": None,
+    }
     expected_unflagged = {"control/example.org/doc/1", "control/iso.org/27002/2022", "control/aicpa.org/tsc/2017",
                           "control/cisecurity.org/cis-controls/v8", "control/iso.org/27701/2019",
                           "control/iso.org/27701/2022", "control/iso.org/27017/2015",
-                          "control/iso.org/27701/2019/scripts", "control/iso.org/27036/1"}
+                          "control/iso.org/27701/2019/scripts", "control/iso.org/27036/1",
+                          "control/iso.org/27799/2016"}
+
+    today = _dt.date.today()
+    al_cases = [  # (name, entries, valid?, clock) clock None = today's real date
+        ("production ALLOWLIST is valid against today's date", ALLOWLIST, True, None),
+        ("R2-P2 production-style entry dated today validates", [dict(test_exception, date=today.isoformat())], True, None),
+        ("test exception is valid", [test_exception], True, FROZEN_TODAY),
+        ("P1-2 review's bogus exception rejected", [dict(test_exception, **bogus)], False, FROZEN_TODAY),
+        ("approved_by someone other than Kurt rejected", [dict(test_exception, approved_by="Someone Else")], False, FROZEN_TODAY),
+        ("future date rejected", [dict(test_exception, date="2026-12-01")], False, FROZEN_TODAY),
+        ("future date rejected against today's date", [dict(test_exception, date=(today + _dt.timedelta(days=1)).isoformat())], False, None),
+        ("date before the rule rejected", [dict(test_exception, date="2026-01-01")], False, FROZEN_TODAY),
+        ("bare https:// reference rejected", [dict(test_exception, reference="https://")], False, FROZEN_TODAY),
+        ("non-CSA reference rejected", [dict(test_exception, reference="https://github.com/someone/repo/issues/1")], False, FROZEN_TODAY),
+        ("one-word reason rejected", [dict(test_exception, reason="x")], False, FROZEN_TODAY),
+        ("P2-3 publisher-level path rejected", [dict(test_exception, path="control/iso.org")], False, FROZEN_TODAY),
+        ("trailing-slash path rejected", [dict(test_exception, path="control/iso.org/27701/2019/")], False, FROZEN_TODAY),
+        ("secid naming another edition rejected", [dict(test_exception, secid="secid:control/iso.org/27701@2022")], False, FROZEN_TODAY),
+        ("bare wildcard file pattern rejected", [dict(test_exception, files=["*"])], False, FROZEN_TODAY),
+        ("file pattern with a slash rejected", [dict(test_exception, files=["scripts/*.py"])], False, FROZEN_TODAY),
+        ("empty files list rejected", [dict(test_exception, files=[])], False, FROZEN_TODAY),
+        ("unknown kind rejected", [dict(test_exception, kind="exception")], False, FROZEN_TODAY),
+        ("tier1-2-source without evidence rejected", [{k: v for k, v in ALLOWLIST[0].items() if k != "evidence"}], False, FROZEN_TODAY),
+        ("duplicate path rejected", [test_exception, test_exception], False, FROZEN_TODAY),
+    ]
+    fp_cases = [  # (name, fingerprints, valid?)
+        ("production FINGERPRINTS is valid", FINGERPRINTS, True),
+        ("fingerprint that is not 64 hex rejected", {"control/iso.org/a/a-metadata.json": "abc"}, False),
+        ("upper-case hex fingerprint rejected", {"control/iso.org/a/a-metadata.json": "A" * 64}, False),
+        ("fingerprint for a path outside restricted domains rejected", {"control/nist.gov/a/a-metadata.json": "a" * 64}, False),
+        ("fingerprint path with .. rejected", {"control/iso.org/../x/a.md": "a" * 64}, False),
+    ]
+    run_cases = [
+        "run() exits 1 on violations, then 0 once every must-fail fixture is removed",
+        "P1-2 run() fails when the review's bogus exception is added to ALLOWLIST",
+        "R2-P1 run() fails when FINGERPRINTS holds a malformed digest",
+        "P2-4 symlinked file and symlinked directory found by the filesystem walk; run() fails",
+        "P2-4 the same links staged in git are found as mode 120000; run() fails",
+    ]
+    return dict(cases=cases, fp_override=fp_override, expected_unflagged=expected_unflagged, al_cases=al_cases,
+                fp_cases=fp_cases, run_cases=run_cases, allowlist=allowlist, test_exception=test_exception,
+                bogus=bogus)
+
+
+def self_test() -> int:
+    t = _self_test_data()
+    cases, allowlist = t["cases"], t["allowlist"]
+    failures: list[str] = []
 
     if shutil.which("git") is None:
         print("SELF-TEST FAILED: git is required (the symlink check reads git file modes).")
         return 1
 
+    fingerprints = {}
+    for rel, body, _, _ in cases:
+        if restricted_hit(rel) is None:
+            continue
+        reviewed = t["fp_override"].get(rel, body) if rel in t["fp_override"] else body
+        if reviewed is not None:
+            fingerprints[rel] = hashlib.sha256(reviewed.encode("utf-8")).hexdigest()
+
     with tempfile.TemporaryDirectory(prefix="tier-gate-selftest-") as tmp:
         for rel, body, _, _ in cases:
             path = os.path.join(tmp, *rel.split("/"))
             os.makedirs(os.path.dirname(path), exist_ok=True)
-            with open(path, "w", encoding="utf-8") as fh:
+            with open(path, "w", encoding="utf-8", newline="") as fh:
                 fh.write(body)
 
         files, links = list_entries(tmp, use_git=False)
         if links:
             failures.append(f"unexpected links before the symlink cases: {links}")
-        violations, notes = check_restricted(tmp, files, allowlist)
+        violations, notes, _ = check_restricted(tmp, files, allowlist, fingerprints)
         failing_files = {f for v in violations.values() for f in v["files"]}
         for rel, _, should_fail, name in cases:
             if should_fail and rel not in failing_files:
@@ -653,24 +907,29 @@ def self_test() -> int:
                 failures.append(f"false positive: {name} ({rel})")
         if not any("reference/cisecurity.org/oval/ 3 files" in n for n in notes):
             failures.append(f"OVAL allowance not reported as exactly 3 files: {notes}")
+        hit_msgs = [r for v in violations.values() for r in v["reasons"] if "27099-2022-metadata.json has no reviewed" in r]
+        if not hit_msgs or "add this line to FINGERPRINTS" not in hit_msgs[0] or "cross-vendor review" not in hit_msgs[0]:
+            failures.append("the missing-fingerprint message does not say exactly what to add and that it needs review")
         unflagged = {d for d, _ in report_unflagged(tmp, files)}
-        if unflagged != expected_unflagged:
-            failures.append(f"non-blocking report: missing {sorted(expected_unflagged - unflagged)}, "
-                            f"unexpected {sorted(unflagged - expected_unflagged)}")
+        if unflagged != t["expected_unflagged"]:
+            failures.append(f"non-blocking report: missing {sorted(t['expected_unflagged'] - unflagged)}, "
+                            f"unexpected {sorted(unflagged - t['expected_unflagged'])}")
 
         sink = open(os.devnull, "w", encoding="utf-8")
         try:
-            if run(tmp, use_git=False, out=sink, allowlist=allowlist) != 1:
+            if run(tmp, use_git=False, out=sink, allowlist=allowlist, fingerprints=fingerprints) != 1:
                 failures.append("run() did not exit 1 on violations")
             for rel, _, should_fail, _ in cases:
                 if should_fail:
                     os.remove(os.path.join(tmp, *rel.split("/")))
-            if run(tmp, use_git=False, out=sink, allowlist=allowlist) != 0:
+            if run(tmp, use_git=False, out=sink, allowlist=allowlist, fingerprints=fingerprints) != 0:
                 failures.append("run() did not exit 0 once every failing case was removed")
-            # P1-2: the bogus exception reproduced by the review, as an allowlist entry
-            bad = dict(test_exception, **bogus)
-            if run(tmp, use_git=False, out=sink, allowlist=ALLOWLIST + [bad]) != 1:
+            bad = dict(t["test_exception"], **t["bogus"])
+            if run(tmp, use_git=False, out=sink, allowlist=ALLOWLIST + [bad], fingerprints=fingerprints) != 1:
                 failures.append("run() accepted an invalid ALLOWLIST")
+            if run(tmp, use_git=False, out=sink, allowlist=allowlist,
+                   fingerprints=dict(fingerprints, **{"control/iso.org/27001/2022/README.md": "0" * 63})) != 1:
+                failures.append("run() accepted a malformed FINGERPRINTS digest")
 
             # P2-4: symlinks, by filesystem walk and by git file mode
             os.symlink("/etc/hosts", os.path.join(tmp, "control", "notiso.org", "a", "1", "linked.md"))
@@ -678,7 +937,7 @@ def self_test() -> int:
             _, walk_links = list_entries(tmp, use_git=False)
             if len(walk_links) != 2:
                 failures.append(f"P2-4 filesystem walk found {len(walk_links)} links, expected 2: {walk_links}")
-            if run(tmp, use_git=False, out=sink, allowlist=allowlist) != 1:
+            if run(tmp, use_git=False, out=sink, allowlist=allowlist, fingerprints=fingerprints) != 1:
                 failures.append("P2-4 run() did not fail on symlinks (walk)")
             subprocess.run(["git", "-c", "init.defaultBranch=main", "init", "-q", tmp], check=True, timeout=60,
                            capture_output=True)
@@ -688,60 +947,41 @@ def self_test() -> int:
             if not any("linked.md (symlink, git mode 120000)" in ln for ln in git_links) or \
                not any("linked-dir (symlink, git mode 120000)" in ln for ln in git_links):
                 failures.append(f"P2-4 git mode 120000 not detected: {git_links}")
-            if run(tmp, use_git=True, out=sink, allowlist=allowlist) != 1:
+            if run(tmp, use_git=True, out=sink, allowlist=allowlist, fingerprints=fingerprints) != 1:
                 failures.append("P2-4 run() did not fail on symlinks (git)")
         finally:
             sink.close()
 
-    today = _dt.date(2026, 11, 13)
-    al_cases = [
-        ("real ALLOWLIST is valid", ALLOWLIST, True),
-        ("test exception is valid", [test_exception], True),
-        ("P1-2 review's bogus exception rejected", [dict(test_exception, **bogus)], False),
-        ("approved_by someone other than Kurt rejected", [dict(test_exception, approved_by="Someone Else")], False),
-        ("future date rejected", [dict(test_exception, date="2026-12-01")], False),
-        ("date before the rule rejected", [dict(test_exception, date="2026-01-01")], False),
-        ("bare https:// reference rejected", [dict(test_exception, reference="https://")], False),
-        ("non-CSA reference rejected", [dict(test_exception, reference="https://github.com/someone/repo/issues/1")], False),
-        ("one-word reason rejected", [dict(test_exception, reason="x")], False),
-        ("P2-3 publisher-level path rejected", [dict(test_exception, path="control/iso.org")], False),
-        ("trailing-slash path rejected", [dict(test_exception, path="control/iso.org/27701/2019/")], False),
-        ("secid naming another edition rejected", [dict(test_exception, secid="secid:control/iso.org/27701@2022")], False),
-        ("bare wildcard file pattern rejected", [dict(test_exception, files=["*"])], False),
-        ("file pattern with a slash rejected", [dict(test_exception, files=["scripts/*.py"])], False),
-        ("empty files list rejected", [dict(test_exception, files=[])], False),
-        ("unknown kind rejected", [dict(test_exception, kind="exception")], False),
-        ("tier1-2-source without evidence rejected", [{k: v for k, v in ALLOWLIST[0].items() if k != "evidence"}], False),
-        ("duplicate path rejected", [test_exception, test_exception], False),
-    ]
-    for name, entries, ok in al_cases:
-        got = validate_allowlist(entries, today=today) == []
-        if got != ok:
+    for name, entries, ok, clock in t["al_cases"]:
+        if (validate_allowlist(entries, today=clock) == []) != ok:
             failures.append(f"allowlist validation: {name} gave the wrong answer")
+    for name, fps, ok in t["fp_cases"]:
+        if (validate_fingerprints(fps) == []) != ok:
+            failures.append(f"fingerprint validation: {name} gave the wrong answer")
 
-    n_cases = len(cases) + len(al_cases) + 4  # + exit 1/0 run, invalid-allowlist run, symlink walk, symlink git
+    n = len(cases) + len(t["al_cases"]) + len(t["fp_cases"]) + len(t["run_cases"])
     if failures:
         print("SELF-TEST FAILED:")
         for f in failures:
             print(f"  - {f}")
         return 1
-    print(f"Self-test passed ({n_cases} cases: {sum(1 for c in cases if c[2])} expected failures among "
-          f"{len(cases)} fixture files, {len(al_cases)} allowlist validations, 4 run-level checks).")
+    print(f"Self-test passed ({n} cases: {len(cases)} fixture files, {sum(1 for c in cases if c[2])} of which must "
+          f"fail; {len(t['al_cases'])} allowlist validations; {len(t['fp_cases'])} fingerprint validations; "
+          f"{len(t['run_cases'])} run-level checks).")
     return 0
 
 
-def list_self_test_cases() -> None:
-    """Print the self-test case names (for review)."""
-    src = open(__file__, encoding="utf-8").read()
-    for m in re.finditer(r'(True|False), "([^"]+)"\),?\n', src):
-        print(f"  [{'must fail' if m.group(1) == 'True' else 'must pass'}] {m.group(2)}")
-    for m in re.finditer(r'\("([^"]+)", (?:\[|ALLOWLIST)[^\n]*, (True|False)\),\n', src):
-        print(f"  [allowlist {'valid' if m.group(2) == 'True' else 'invalid'}] {m.group(1)}")
-    for name in ("run() exits 1 on violations, then 0 once every must-fail fixture is removed",
-                 "P1-2 run() fails when the review's bogus exception is added to ALLOWLIST",
-                 "P2-4 symlinked file and symlinked directory found by the filesystem walk; run() fails",
-                 "P2-4 the same links staged in git are found as mode 120000; run() fails"):
+def list_self_test_cases() -> int:
+    t = _self_test_data()
+    for rel, _, must_fail, name in t["cases"]:
+        print(f"  [{'must fail' if must_fail else 'must pass'}] {name}")
+    for name, _, ok, _ in t["al_cases"]:
+        print(f"  [allowlist {'valid' if ok else 'invalid'}] {name}")
+    for name, _, ok in t["fp_cases"]:
+        print(f"  [fingerprints {'valid' if ok else 'invalid'}] {name}")
+    for name in t["run_cases"]:
         print(f"  [run-level] {name}")
+    return 0
 
 
 def main(argv: list[str] | None = None) -> int:
@@ -749,16 +989,19 @@ def main(argv: list[str] | None = None) -> int:
     ap.add_argument("--repo", default=None, help="Repository root (default: two levels above this script)")
     ap.add_argument("--self-test", action="store_true", help="Run built-in fixtures and exit")
     ap.add_argument("--list-self-test-cases", action="store_true", help="Print the self-test case names")
+    ap.add_argument("--print-fingerprints", action="store_true",
+                    help="Print FINGERPRINTS lines for every file under a restricted domain (review before pasting)")
     args = ap.parse_args(argv)
     if args.list_self_test_cases:
-        list_self_test_cases()
-        return 0
+        return list_self_test_cases()
     if args.self_test:
         return self_test()
     root = args.repo or os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
     if not os.path.isdir(root):
         print(f"not a directory: {root}", file=sys.stderr)
         return 2
+    if args.print_fingerprints:
+        return print_fingerprints(root)
     return run(root)
 
 

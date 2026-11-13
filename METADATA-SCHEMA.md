@@ -214,7 +214,7 @@ when the distinction could trip up a lookup.
 |---|---|---|
 | `spdx` | Yes | SPDX identifier when available (e.g., `CC-BY-4.0`, `CC-BY-SA-4.0`, `Apache-2.0`, `CC0-1.0`). Use `LicenseRef-{custom}` for non-SPDX licenses. |
 | `redistribution` | Yes | Free-text: `permitted`, `permitted_with_attribution`, `permitted_for_study_purposes`, `prohibited`, etc. |
-| `derivatives` | Yes | Free-text: `permitted`, `permitted_with_attribution`, `share_alike_required`, `adaptations_may_be_made_but_not_shared` (e.g., CC BY-NC-ND), `prohibited`. |
+| `derivatives` | Yes | Free-text: `permitted`, `permitted_with_attribution`, `share_alike_required`, `adaptations_noncommercial_only_never_shared` (e.g., CC BY-NC-ND 4.0: Adapted Material may be produced for non-commercial purposes only and never shared; format-only conversions are not Adapted Material under its Section 2(a)(4)), `prohibited`. |
 | `publicly_redistributable` | Yes | Boolean. Drives whether content goes in this public repo or the private archive. Set it from the source's access tier under the 4-tier hosting rule (AGENTS.md), not only from the licence text: a Tier 3 (free login) or Tier 4 (paid / members-only) source is `false` here unless Kurt grants an exception (see [Public hosting exceptions](#public-hosting-exceptions)). |
 | `license_text_url` | Recommended | URL to the full license text. |
 | `notes` | Optional | Free-text caveats. |
@@ -351,9 +351,11 @@ The gate validates every entry: all fields present, a real date that is neither 
 
 A second kind, `tier1-2-source`, records a source that is itself Tier 1 or 2 (public, no login) although its publisher's standards are gated. It is a classification, not an exception, and it carries an `evidence` URL for the public upstream. Today the only entry is the OVAL Repository text under `reference/cisecurity.org/oval/` (upstream: the public GitHub repository CISecurity/OVALRepo).
 
-Adding or widening an entry changes a CI gate. Under the program's rules that needs a different-vendor review and a decision record, so an agent cannot approve its own exception.
+Adding or widening an entry changes a CI gate. Under the program's rules that needs a different-vendor review and a decision record, so an agent cannot approve its own exception. The gate checks entries for syntax only: a typed `approved_by` proves nothing. The reviewer must open the linked `reference` and confirm Kurt approved that exact entry.
 
-Without an entry, a Tier 3/4 publisher directory may hold only stubs: the edition's own `<dir>-metadata.json` (or `<parent>-<dir>-metadata.json`), which must be valid JSON within 16 KiB, with no string longer than 3,000 characters and a `secid` that names the directory, plus at most one `README.md` of up to 6 KiB beside it. Per-file sidecars and marker `_meta.json` files count as content there.
+**Every file under a Tier 3/4 publisher domain is also fingerprinted.** The script's `FINGERPRINTS` maps each allowed path to its reviewed SHA-256. That covers stubs as well as allowlisted files. A new stub, or an edit to an existing one, fails CI until a reviewed gate change adds or updates its line; `--print-fingerprints` prints the lines to add. This stops restricted text from being placed in a capped stub, chunked across new edition directories, or swapped into an existing README.
+
+Without an entry (and in addition to its fingerprint), a file in a Tier 3/4 publisher directory must be a stub: the edition's own `<dir>-metadata.json` (or `<parent>-<dir>-metadata.json`), which must be valid JSON within 16 KiB, with no string longer than 3,000 characters and a `secid` that names the directory, plus at most one `README.md` of up to 6 KiB beside it. Per-file sidecars and marker `_meta.json` files count as content there.
 
 ### Extraction History (Array)
 
