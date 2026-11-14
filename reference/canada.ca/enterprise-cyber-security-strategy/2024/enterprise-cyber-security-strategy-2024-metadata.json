@@ -21,6 +21,13 @@
     "license_text_url": "https://open.canada.ca/en/open-government-licence-canada",
     "notes": "Open Government Licence – Canada (and Reproduction of Federal Law Order for federal statutes)."
   },
+  "access_tier": 1,
+  "tier_evidence": {
+    "url": "https://www.canada.ca/en/government/system/digital-government/online-security-privacy/enterprise-cyber-security-strategy.html",
+    "checked": "2026-11-14",
+    "method": "host-suffix",
+    "note": "Classified from the URL host (government suffix canada.ca); not fetched in this pass. Every recorded source URL (textUsed, retrieval_url, source) is on a government host."
+  },
   "links": {
     "wikipedia": "",
     "source": "https://www.canada.ca/en/government/system/digital-government/online-security-privacy/enterprise-cyber-security-strategy.html",

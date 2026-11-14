@@ -23,6 +23,13 @@
     "note": "Official publication (gob.cl); Republic of Chile Law No. 17,336 on Intellectual Property and Diario Oficial / MinCiencia open government publication terms (official supreme decrees and open-licensed national policy documents).",
     "notes": "Official publication (gob.cl); Republic of Chile Law No. 17,336 on Intellectual Property and Diario Oficial / MinCiencia open government publication terms (official supreme decrees and open-licensed national policy documents)."
   },
+  "access_tier": 1,
+  "tier_evidence": {
+    "url": "https://www.diariooficial.interior.gob.cl/publicaciones/2023/12/04/43717/01/2415658.pdf",
+    "checked": "2026-11-14",
+    "method": "host-suffix",
+    "note": "Classified from the URL host (government suffix gob.cl); not fetched in this pass. Every recorded source URL (textUsed, retrieval_url, source) is on a government host."
+  },
   "links": {
     "wikipedia": "",
     "source": "https://www.diariooficial.interior.gob.cl/publicaciones/2023/12/04/43717/01/2415658.pdf",

@@ -23,6 +23,13 @@
     "note": "African Union Commission copyright retained; prior permission required for commercial redistribution or derivative works. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
     "notes": "African Union Commission copyright retained; prior permission required for commercial redistribution or derivative works. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
   },
+  "access_tier": 1,
+  "tier_evidence": {
+    "url": "https://au.int/sites/default/files/treaties/29560-treaty-0048_-_african_union_convention_on_cyber_security_and_personal_data_protection_e.pdf",
+    "checked": "2026-11-14",
+    "method": "host-suffix",
+    "note": "Classified from the URL host (government suffix int); not fetched in this pass. Every recorded source URL (textUsed, retrieval_url, source) is on a government host."
+  },
   "links": {
     "wikipedia": "",
     "source": "https://au.int/en/treaties/african-union-convention-cyber-security-and-personal-data-protection",

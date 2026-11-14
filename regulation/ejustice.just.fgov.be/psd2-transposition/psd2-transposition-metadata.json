@@ -23,6 +23,13 @@
     "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (ejustice.just.fgov.be) is governed by Belgian Code of Economic Law (Code de droit économique) Art. XI.172 (official acts of authority excluded from copyright) and federal open data reuse framework. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
     "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (ejustice.just.fgov.be) is governed by Belgian Code of Economic Law (Code de droit économique) Art. XI.172 (official acts of authority excluded from copyright) and federal open data reuse framework. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
   },
+  "access_tier": 1,
+  "tier_evidence": {
+    "url": "https://www.ejustice.just.fgov.be",
+    "checked": "2026-11-14",
+    "method": "host-suffix",
+    "note": "Classified from the URL host (government suffix fgov.be); not fetched in this pass. Every recorded source URL (textUsed, retrieval_url, source) is on a government host."
+  },
   "links": {
     "wikipedia": "",
     "source": "https://www.ejustice.just.fgov.be",

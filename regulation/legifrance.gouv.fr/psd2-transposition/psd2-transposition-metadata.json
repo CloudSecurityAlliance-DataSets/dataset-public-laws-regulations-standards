@@ -23,6 +23,13 @@
     "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document for legifrance.gouv.fr is acquired and verified against jurisdiction copyright terms). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
     "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document for legifrance.gouv.fr is acquired and verified against jurisdiction copyright terms). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
   },
+  "access_tier": 1,
+  "tier_evidence": {
+    "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000035384810",
+    "checked": "2026-11-14",
+    "method": "host-suffix",
+    "note": "Classified from the URL host (government suffix gouv.fr); not fetched in this pass. Every recorded source URL (textUsed, retrieval_url, source) is on a government host."
+  },
   "links": {
     "wikipedia": "",
     "source": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000035384810",

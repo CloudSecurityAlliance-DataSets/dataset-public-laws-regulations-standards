@@ -22,6 +22,13 @@
     "license_text_url": "https://www.nist.gov/director/licensing",
     "notes": "Work of NIST is in the public domain in the United States per Section 105 of the US Copyright Act."
   },
+  "access_tier": 1,
+  "tier_evidence": {
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r5.pdf",
+    "checked": "2026-11-14",
+    "method": "host-suffix",
+    "note": "Classified from the URL host (government suffix gov); not fetched in this pass. Every recorded source URL (textUsed, retrieval_url, source) is on a government host."
+  },
   "links": {
     "wikipedia": "https://en.wikipedia.org/wiki/NIST_Special_Publication_800-53",
     "source": "https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final",

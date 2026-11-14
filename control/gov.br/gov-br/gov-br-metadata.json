@@ -16,6 +16,13 @@
     "license_text_url": "https://www.gov.br/governodigital/pt-br/identidade",
     "notes": "Public technical docs; participant rules partly restricted. Public-release government / central bank publication (Tier 1 of Kurt Seifried 2026-11-09 4-tier hosting rule: public government website content goes into the public dataset repository regardless of license)."
   },
+  "access_tier": 1,
+  "tier_evidence": {
+    "url": "https://www.gov.br/governodigital/pt-br/identidade",
+    "checked": "2026-11-14",
+    "method": "host-suffix",
+    "note": "Classified from the URL host (government suffix gov.br); not fetched in this pass. Every recorded source URL (textUsed, retrieval_url, source) is on a government host."
+  },
   "links": {
     "source": "https://www.gov.br/governodigital/pt-br/identidade",
     "csaLocation": ""

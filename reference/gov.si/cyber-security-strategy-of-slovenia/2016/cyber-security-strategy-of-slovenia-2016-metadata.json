@@ -23,6 +23,13 @@
     "note": "Official publication (gov.si); Slovenian Copyright and Related Rights Act (ZASP) Art. 9 (official legislative, administrative, and judicial texts, including Parliamentary Resolutions and government strategies, are not protected by copyright).",
     "notes": "Official publication (gov.si); Slovenian Copyright and Related Rights Act (ZASP) Art. 9 (official legislative, administrative, and judicial texts, including Parliamentary Resolutions and government strategies, are not protected by copyright)."
   },
+  "access_tier": 1,
+  "tier_evidence": {
+    "url": "https://www.gov.si/assets/ministrstva/MNZJU/MDP/DDD/DID/Cyber_Security_Strategy_Slovenia.pdf",
+    "checked": "2026-11-14",
+    "method": "host-suffix",
+    "note": "Classified from the URL host (government suffix gov.si); not fetched in this pass. Every recorded source URL (textUsed, retrieval_url, source) is on a government host."
+  },
   "links": {
     "wikipedia": "",
     "source": "https://www.gov.si/en/topics/cyber-security/",

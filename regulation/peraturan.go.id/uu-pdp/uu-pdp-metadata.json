@@ -23,6 +23,13 @@
     "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (peraturan.go.id) is governed by Republic of Indonesia Law No. 28 of 2014 on Copyright Art. 42(b) (no copyright subsists in laws, Government Regulations, Presidential Regulations/Decrees, regional regulations, and decisions of state bodies). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
     "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (peraturan.go.id) is governed by Republic of Indonesia Law No. 28 of 2014 on Copyright Art. 42(b) (no copyright subsists in laws, Government Regulations, Presidential Regulations/Decrees, regional regulations, and decisions of state bodies). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
   },
+  "access_tier": 1,
+  "tier_evidence": {
+    "url": "https://peraturan.go.id",
+    "checked": "2026-11-14",
+    "method": "host-suffix",
+    "note": "Classified from the URL host (government suffix go.id); not fetched in this pass. Every recorded source URL (textUsed, retrieval_url, source) is on a government host."
+  },
   "links": {
     "wikipedia": "",
     "source": "https://peraturan.go.id",

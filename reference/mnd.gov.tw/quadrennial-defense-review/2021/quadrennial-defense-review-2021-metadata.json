@@ -23,6 +23,13 @@
     "note": "Official publication (mnd.gov.tw) with explicit copyright reservation ('All rights reserved' or prior permission requirement) in document text. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
     "notes": "Official publication (mnd.gov.tw) with explicit copyright reservation ('All rights reserved' or prior permission requirement) in document text. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
   },
+  "access_tier": 1,
+  "tier_evidence": {
+    "url": "https://www.mnd.gov.tw/en/InformationServices/QDRFile/5/2/110%20QDR(%E8%8B%B1%E6%96%87%E6%AD%A3%E5%BC%8F%E7%89%88).pdf",
+    "checked": "2026-11-14",
+    "method": "host-suffix",
+    "note": "Classified from the URL host (government suffix gov.tw); not fetched in this pass. Every recorded source URL (textUsed, retrieval_url, source) is on a government host."
+  },
   "links": {
     "wikipedia": "",
     "source": "https://www.mnd.gov.tw/en/InformationServices/QDR",

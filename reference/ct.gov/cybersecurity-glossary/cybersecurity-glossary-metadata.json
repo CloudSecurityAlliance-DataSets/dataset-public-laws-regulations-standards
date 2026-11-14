@@ -21,6 +21,13 @@
     "license_text_url": "",
     "notes": "US state govt publication, likely public-domain \u2014 US state government work; redistribution rules vary."
   },
+  "access_tier": 1,
+  "tier_evidence": {
+    "url": "https://www.cga.ct.gov/2016/rpt/2016-R-0267.htm",
+    "checked": "2026-11-14",
+    "method": "host-suffix",
+    "note": "Classified from the URL host (government suffix gov); not fetched in this pass. Every recorded source URL (textUsed, retrieval_url, source) is on a government host."
+  },
   "links": {
     "wikipedia": "",
     "source": "https://www.cga.ct.gov/2016/rpt/2016-R-0267.htm",

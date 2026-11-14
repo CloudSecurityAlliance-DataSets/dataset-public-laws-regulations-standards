@@ -23,6 +23,13 @@
     "note": "European Union official publication (enisa.europa.eu); reuse authorized with attribution under Commission Decision 2011/833/EU.",
     "notes": "European Union official publication (enisa.europa.eu); reuse authorized with attribution under Commission Decision 2011/833/EU."
   },
+  "access_tier": 1,
+  "tier_evidence": {
+    "url": "https://www.enisa.europa.eu/sites/default/files/publications/Updated%20Good%20Practice%20Guide%20on%20NCSS.pdf",
+    "checked": "2026-11-14",
+    "method": "host-suffix",
+    "note": "Classified from the URL host (government suffix europa.eu); not fetched in this pass. Every recorded source URL (textUsed, retrieval_url, source) is on a government host."
+  },
   "links": {
     "wikipedia": "",
     "source": "https://www.enisa.europa.eu/publications/ncss-good-practice-guide",

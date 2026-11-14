@@ -23,6 +23,13 @@
     "note": "Official publication (dnp.gov.co); Republic of Colombia Law 23 of 1982 on Copyright Art. 41 (permitted reproduction of the Constitution, laws, decrees, ordinances, regulations, and other administrative acts, including CONPES policy documents, conforming to the official edition) and Law 1712 of 2014 (Transparency and Open Data).",
     "notes": "Official publication (dnp.gov.co); Republic of Colombia Law 23 of 1982 on Copyright Art. 41 (permitted reproduction of the Constitution, laws, decrees, ordinances, regulations, and other administrative acts, including CONPES policy documents, conforming to the official edition) and Law 1712 of 2014 (Transparency and Open Data)."
   },
+  "access_tier": 1,
+  "tier_evidence": {
+    "url": "https://colaboracion.dnp.gov.co/CDT/Conpes/Econ%C3%B3micos/3975.pdf",
+    "checked": "2026-11-14",
+    "method": "host-suffix",
+    "note": "Classified from the URL host (government suffix gov.co); not fetched in this pass. Every recorded source URL (textUsed, retrieval_url, source) is on a government host."
+  },
   "links": {
     "wikipedia": "",
     "source": "https://colaboracion.dnp.gov.co/CDT/Conpes/Econ%C3%B3micos/3975.pdf",

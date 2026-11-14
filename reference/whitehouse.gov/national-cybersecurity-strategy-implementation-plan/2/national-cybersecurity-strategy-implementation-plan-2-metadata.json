@@ -21,6 +21,13 @@
     "license_text_url": "https://www.usa.gov/government-works",
     "notes": "Work of the U.S. Federal Government; in the public domain in the United States under 17 U.S.C. § 105."
   },
+  "access_tier": 1,
+  "tier_evidence": {
+    "url": "https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/05/National-Cybersecurity-Strategy-Implementation-Plan-Version-2.pdf",
+    "checked": "2026-11-14",
+    "method": "host-suffix",
+    "note": "Classified from the URL host (government suffix gov); not fetched in this pass. Every recorded source URL (textUsed, retrieval_url, source) is on a government host."
+  },
   "links": {
     "wikipedia": "",
     "source": "https://bidenwhitehouse.archives.gov/wp-content/uploads/2024/05/National-Cybersecurity-Strategy-Implementation-Plan-Version-2.pdf",

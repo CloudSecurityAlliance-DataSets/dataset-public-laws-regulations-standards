@@ -23,6 +23,13 @@
     "note": "Official publication (gov.pl); Polish Act of 4 February 1994 on Copyright and Related Rights Art. 4 (normative acts, resolutions of the Council of Ministers published in Monitor Polski, and official documents/materials are not subject to copyright).",
     "notes": "Official publication (gov.pl); Polish Act of 4 February 1994 on Copyright and Related Rights Art. 4 (normative acts, resolutions of the Council of Ministers published in Monitor Polski, and official documents/materials are not subject to copyright)."
   },
+  "access_tier": 1,
+  "tier_evidence": {
+    "url": "https://www.gov.pl/attachment/6a4aafc6-e339-4cd5-a8e6-cd47257f02d8",
+    "checked": "2026-11-14",
+    "method": "host-suffix",
+    "note": "Classified from the URL host (government suffix gov.pl); not fetched in this pass. Every recorded source URL (textUsed, retrieval_url, source) is on a government host."
+  },
   "links": {
     "wikipedia": "",
     "source": "https://www.gov.pl/web/cyfryzacja/strategia-cyberbezpieczenstwa-rzeczypospolitej-polskiej-na-lata-2019-2024",

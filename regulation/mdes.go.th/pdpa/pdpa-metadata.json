@@ -23,6 +23,13 @@
     "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (mdes.go.th) is governed by Kingdom of Thailand Copyright Act B.E. 2537 (1994) Sec. 7(2)-(3) (constitutions, legislation, regulations, notifications, orders, explanations and official correspondence of Ministries, Departments, or state agencies are not deemed copyright works). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
     "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (mdes.go.th) is governed by Kingdom of Thailand Copyright Act B.E. 2537 (1994) Sec. 7(2)-(3) (constitutions, legislation, regulations, notifications, orders, explanations and official correspondence of Ministries, Departments, or state agencies are not deemed copyright works). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
   },
+  "access_tier": 1,
+  "tier_evidence": {
+    "url": "https://www.mdes.go.th",
+    "checked": "2026-11-14",
+    "method": "host-suffix",
+    "note": "Classified from the URL host (government suffix go.th); not fetched in this pass. Every recorded source URL (textUsed, retrieval_url, source) is on a government host."
+  },
   "links": {
     "wikipedia": "",
     "source": "https://www.mdes.go.th",

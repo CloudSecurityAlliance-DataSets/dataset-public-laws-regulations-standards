@@ -23,6 +23,13 @@
     "note": "Licensed under Creative Commons Attribution 3.0 IGO (CC BY 3.0 IGO) as stated in the publication copyright notice.",
     "notes": "Licensed under Creative Commons Attribution 3.0 IGO (CC BY 3.0 IGO) as stated in the publication copyright notice."
   },
+  "access_tier": 1,
+  "tier_evidence": {
+    "url": "https://www.itu.int/dms_pub/itu-d/opb/str/D-STR-CYB_GUIDE.01-2018-PDF-E.pdf",
+    "checked": "2026-11-14",
+    "method": "host-suffix",
+    "note": "Classified from the URL host (government suffix int); not fetched in this pass. Every recorded source URL (textUsed, retrieval_url, source) is on a government host."
+  },
   "links": {
     "wikipedia": "",
     "source": "https://www.itu.int/pub/d-str-cyb_guide.01-2018",

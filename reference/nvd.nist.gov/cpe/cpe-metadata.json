@@ -22,6 +22,13 @@
     "license_text_url": "https://www.nist.gov/director/licensing",
     "notes": "CPE is maintained by NIST/NVD; works of NIST are in the US public domain (17 USC 105). The legacy MITRE CPE 2.2 spec is on the MITRE site under their terms."
   },
+  "access_tier": 1,
+  "tier_evidence": {
+    "url": "https://nvd.nist.gov/products/cpe",
+    "checked": "2026-11-14",
+    "method": "host-suffix",
+    "note": "Classified from the URL host (government suffix gov); not fetched in this pass. Every recorded source URL (textUsed, retrieval_url, source) is on a government host."
+  },
   "links": {
     "wikipedia": "https://en.wikipedia.org/wiki/Common_Platform_Enumeration",
     "source": "https://nvd.nist.gov/products/cpe",
