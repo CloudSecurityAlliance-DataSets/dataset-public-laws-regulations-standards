@@ -14,8 +14,15 @@
     "spdx": "LicenseRef-Unclear-Quasi-Public-Body",
     "redistribution": "unclear",
     "derivatives": "unclear",
-    "publicly_redistributable": false,
-    "notes": "Published by a quasi-public body (specially-approved corporation / public-interest incorporated foundation) rather than a national government organ directly -- the Copyright Act Article 13 government-notification exclusion may not extend cleanly to this publisher. Freely readable public web content; citation/reference use is reasonable, but full redistribution status is unconfirmed. Treat as internal working data pending confirmation, consistent with the FISC entry."
+    "publicly_redistributable": true,
+    "notes": "Published by a quasi-public body (specially-approved corporation / public-interest incorporated foundation) rather than a national government organ directly -- the Copyright Act Article 13 government-notification exclusion may not extend cleanly to this publisher. Freely readable public web content; citation/reference use is reasonable, but full redistribution status is unconfirmed. Hosted publicly under the 4-tier hosting rule regardless of licence: the PrivacyMark overview is on the open web with no login (Tier 2; see `tier_evidence`). JIPDEC is a foundation rather than a government body and privacymark.org is not a government domain, so this is Tier 2, not Tier 1. The redistribution and derivatives fields still record that JIPDEC's own terms are unconfirmed."
+  },
+  "access_tier": 2,
+  "tier_evidence": {
+    "url": "https://privacymark.org/about/outline_and_purpose.html",
+    "checked": "2026-11-14",
+    "method": "fetch",
+    "note": "Public HTML page, no login; the PrivacyMark outline text is in the page."
   },
   "links": {
     "source": "https://privacymark.org/about/outline_and_purpose.html",

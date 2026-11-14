@@ -65,12 +65,33 @@ What it checks (blocking)
 3. ALLOWLIST and FINGERPRINTS are validated. An ALLOWLIST entry binds to one exact
    edition directory and an explicit list of file names in it; nothing inherits to
    subdirectories, siblings or parents.
+4. Metadata truth, for every edition metadata file in the repository (any
+   `*-metadata.json` other than a `-file-metadata.json` sidecar, under a SecID type
+   root). Content files are counted against the nearest ancestor directory that has
+   metadata; README.md and metadata files are not content.
+   a. A directory may not hold content while its metadata says
+      `license.publicly_redistributable: false` (dataset-public-laws-regulations-
+      standards#154 made this blocking once the metadata had been corrected).
+   b. `access_tier`, when present, must be the integer 1, 2, 3 or 4 and come with a
+      `tier_evidence` object: `url` (http or https), `checked` (a real YYYY-MM-DD date,
+      not in the future), `method` (one of TIER_METHODS) and a `note`. `tier_evidence`
+      without `access_tier` fails.
+   c. Tier 1 or 2 requires `publicly_redistributable: true`. Tier 3 or 4 requires
+      `false`, and no content in the directory, unless a `tier3-4-exception` ALLOWLIST
+      entry names that exact directory.
+   d. Method `host-suffix` proves only Tier 1, and only when the evidence URL's host
+      ends in one of GOV_HOST_SUFFIXES. Method `recorded` (a classification the program
+      recorded but this check did not re-observe) may only say Tier 3 or 4: a record
+      can keep something private, never make it public.
+   e. An edition metadata file that is not a readable JSON object fails.
+   Check 4 makes the metadata agree with itself and with the rule. It cannot tell
+   whether a recorded tier is true: a `fetch` or `browser` claim of Tier 2 is only as
+   good as its evidence. `tier_evidence` exists so that a reviewer can re-check it, and
+   a PR that sets or raises a tier on a directory holding content needs that check.
 
 What it reports (non-blocking)
 ------------------------------
-Every directory that holds content files while its metadata says
-`license.publicly_redistributable: false` (a later metadata backfill can make this
-blocking), and any FINGERPRINTS or ALLOWLIST entries that no longer match a file.
+Any FINGERPRINTS or ALLOWLIST entries that no longer match a file.
 
 Files come from `git ls-files -s` (tracked files with their modes), so gitignored local
 source PDFs do not count. Outside a git work tree the script walks the filesystem.
@@ -153,6 +174,36 @@ _REFERENCE_RE = re.compile(
 _HTTPS_RE = re.compile(r"^https://[A-Za-z0-9.-]+\.[A-Za-z]{2,}/\S+$")
 _DATE_RE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 _SHA256_RE = re.compile(r"^[0-9a-f]{64}$")
+_URL_RE = re.compile(r"^https?://[A-Za-z0-9.-]+\.[A-Za-z]{2,}(:\d+)?(/\S*)?$")
+
+# How a metadata file's `tier_evidence` was obtained (check 4b/4d).
+TIER_METHODS: dict[str, str] = {
+    "fetch": "a scripted HTTP GET of the evidence URL showed the content with no login",
+    "browser": "the evidence URL was loaded in a real browser (JS-rendered or bot-filtered sites)",
+    "host-suffix": "Tier 1 only: the evidence URL's host is a government domain in GOV_HOST_SUFFIXES; not fetched",
+    "recorded": "Tier 3/4 only: the program's own recorded classification, not re-observed in this check",
+}
+
+# Host suffixes treated as government websites (Tier 1) for method "host-suffix". Each is
+# a domain whose registry limits registration to government bodies (`gov` is the US
+# .gov, `int` holds intergovernmental treaty organisations). Listed exactly, not as a
+# pattern, because some open ccTLDs let anyone register `go.<cc>` or `gov.<cc>`. A host
+# matches when it equals a suffix or ends in "." + suffix. Adding a suffix lets metadata
+# claim Tier 1 without a fetch, so it needs the same review as any other gate change.
+GOV_HOST_SUFFIXES: tuple[str, ...] = (
+    "gov", "mil", "int",
+    "admin.ch", "bund.de", "canada.ca", "europa.eu", "fgov.be", "gc.ca", "gub.uy", "gv.at", "govt.nz",
+    "nic.in",
+    "go.cr", "go.id", "go.jp", "go.ke", "go.kr", "go.th",
+    "gob.ar", "gob.cl", "gob.do", "gob.es", "gob.mx", "gob.pe", "gob.sv",
+    "gouv.fr", "gouv.sn",
+    "gov.ae", "gov.au", "gov.bd", "gov.bh", "gov.br", "gov.cn", "gov.co", "gov.cz", "gov.eg", "gov.et",
+    "gov.fj", "gov.gh", "gov.gr", "gov.ie", "gov.il", "gov.in", "gov.it", "gov.jm", "gov.jo", "gov.kw",
+    "gov.lk", "gov.lv", "gov.ma", "gov.mn", "gov.my", "gov.ng", "gov.np", "gov.om", "gov.pg", "gov.ph",
+    "gov.pk", "gov.pl", "gov.pt", "gov.py", "gov.qa", "gov.ro", "gov.rs", "gov.ru", "gov.rw", "gov.sa",
+    "gov.sg", "gov.si", "gov.sk", "gov.to", "gov.tr", "gov.tt", "gov.tw", "gov.ua", "gov.uk", "gov.vn",
+    "gov.vu", "gov.ws", "gov.za", "gov.zm",
+)
 
 # ======================================================================================
 # REVIEWED GATE DATA. Every change below is a CI-gate change: it needs a different-vendor
@@ -196,6 +247,9 @@ ALLOWLIST: list[dict] = [
 FINGERPRINTS: dict[str, str] = {
     # 35 stubs (23 metadata, 12 README) and 3 OVAL files covered by ALLOWLIST, reviewed for
     # dataset-public-laws-regulations-standards#149 on 2026-11-13.
+    # Re-fingerprinted for #154 on 2026-11-14: the metadata stubs of isaca.org/cobit and
+    # pcisecuritystandards.org pa-dss, pci-pin and secure-software-standard (now
+    # publicly_redistributable false, access_tier 4 with tier_evidence; still metadata only).
     "control/aicpa.org/tsc/2017/README.md": "e44d16a0f927da1b6d7f648e82e18240872125b14939ab1e60acd05605422bfe",
     "control/aicpa.org/tsc/2017/tsc-2017-metadata.json": "b83a91e6b8224bb70fe44dfb06d43bef382b12a7b9922090c68b81274c4688fb",
     "control/cisecurity.org/cis-controls/v8/README.md": "3cdab7b5885a301e311b4f5814453cf741add82359f636c28c2705aa7d628ef6",
@@ -203,9 +257,9 @@ FINGERPRINTS: dict[str, str] = {
     "control/hitrustalliance.net/csf/v11.3.0/README.md": "236840a03ff4ee04085ea1775c2804e962bbb13c84ab86279056d55981d16317",
     "control/hitrustalliance.net/csf/v11.3.0/csf-v11.3.0-metadata.json": "09266092d21295587346960d7588d923ab732949a726c076a6b320cb3c282b6c",
     "control/isaca.org/cobit/README.md": "da4647a09b5e6e8135cb38b6c730c3b36e8758736c91f5e52ad7b9834e487bee",
-    "control/isaca.org/cobit/cobit-metadata.json": "4e287aebfea350311e3f6f7f20c81f09a74b1834432d0e17c3a2888a18ace041",
+    "control/isaca.org/cobit/cobit-metadata.json": "d3d6730fa1e2c38e61c7d8f8367965061aabd48a29b37798549aa60b0106f442",
     "control/pcisecuritystandards.org/pa-dss/README.md": "4e814862014a2c433dbca0b7e2d90c4cc0401a148e0386a747a34f7f4adec6f2",
-    "control/pcisecuritystandards.org/pa-dss/pa-dss-metadata.json": "7e4f055987157aa606ad540adf604e0706e9753bc323d7ff068f91ae4d8f7591",
+    "control/pcisecuritystandards.org/pa-dss/pa-dss-metadata.json": "e93877401cc1e5d2b4f5b9c285669a43e4702ce8e84b57e3528ca6550e1f82bd",
     "control/pcisecuritystandards.org/pci-dss/v3.2.1/README.md": "347e4fcdbd6a49aa2f2c9d95470b0125efa84f8a9c4ebf7d326714dd6a6a8798",
     "control/pcisecuritystandards.org/pci-dss/v3.2.1/pci-dss-v3.2.1-metadata.json": "fa960e9089e08ee852db89f6ab2061b1c631b56ac1a18280866481f16ae092f7",
     "control/pcisecuritystandards.org/pci-dss/v4.0.1/README.md": "d297f1c3cb018443e049283d7753bb943b715095426991e9d175357b45e7327b",
@@ -213,9 +267,9 @@ FINGERPRINTS: dict[str, str] = {
     "control/pcisecuritystandards.org/pci-dss/v4.0/README.md": "fb43e327956a79ccca61cc4eeda6b78651cbbe8c3a1430acc31b5c7d29dac4a9",
     "control/pcisecuritystandards.org/pci-dss/v4.0/pci-dss-v4.0-metadata.json": "338d3956b4b5eaa6b419473708984b7cf5ff56018a4af93cdf9d23240afdc4f5",
     "control/pcisecuritystandards.org/pci-pin/README.md": "e726f77ef61727b21755ddea9203d29ef26b0a4c981e3fce889390fee5b22256",
-    "control/pcisecuritystandards.org/pci-pin/pci-pin-metadata.json": "2e8854acf1274542555262afb3edc3d9d9f59c35ea4d4f9618c1161259caf53a",
+    "control/pcisecuritystandards.org/pci-pin/pci-pin-metadata.json": "ae198b56bed02d8953ae1551aef4825e9539e1bfae49bd1b56f22ae83672a079",
     "control/pcisecuritystandards.org/secure-software-standard/README.md": "8105b428a0aa7f67e20d980c12e866c070b725c48d43271e11f0cc160fc4e024",
-    "control/pcisecuritystandards.org/secure-software-standard/secure-software-standard-metadata.json": "9c5d0764b55b86bcb050db54618d165aed51a9baa67296437e9f8bb77e604d2e",
+    "control/pcisecuritystandards.org/secure-software-standard/secure-software-standard-metadata.json": "51fbf50b2c2f73d9e3406765006cbf7c25a997936e1813ff2b1e6edab32808e9",
     "control/securityforum.org/sogp/2022/sogp-2022-metadata.json": "9ba4191550fec35211c10513dfe120664c3fa167ff85df412730f7bcc2701fd6",
     "control/swift.com/csp/README.md": "e58e96052b989af111189acfa9ede5b2a65c3136e00b8c2f062f9fdf8aee166c",
     "control/swift.com/csp/csp-metadata.json": "f5ebaece38fa0310a26df2d1e6fc9cc528f2b175b4d6d0d5b9feb661cda5e49f",
@@ -577,45 +631,153 @@ def check_restricted(root: str, files: list[str], allowlist: list[dict],
     return violations, notes, len(seen_restricted)
 
 
-def report_unflagged(root: str, files: list[str]) -> list[tuple[str, int]]:
-    """Non-blocking: edition dirs with content files whose metadata says
-    license.publicly_redistributable is false."""
+def is_edition_metadata(rel: str) -> bool:
+    p = PurePosixPath(rel)
+    return (len(p.parts) >= 3 and p.parts[0] in SECID_TYPES and p.name.endswith("-metadata.json")
+            and not p.name.endswith("-file-metadata.json"))
+
+
+def content_by_metadata(files: list[str]) -> dict[str, int]:
+    """Map every edition metadata file to the number of content files it governs: files
+    in its directory or below it, up to the next directory that has its own metadata.
+    README.md and metadata files are not content. Where one directory holds several
+    metadata files, the first by name governs (as before)."""
     names_by_dir: dict[str, list[str]] = defaultdict(list)
     for f in files:
         p = PurePosixPath(f)
         names_by_dir[p.parent.as_posix()].append(p.name)
-    counts: dict[str, int] = defaultdict(int)
-    cache: dict[str, bool] = {}
+    counts: dict[str, int] = {f: 0 for f in files if is_edition_metadata(f)}
     for rel in files:
         p = PurePosixPath(rel)
         if len(p.parts) < 3 or p.parts[0] not in SECID_TYPES or is_report_stub(p.name):
             continue
         cur = p.parent
-        meta = None
         while len(cur.parts) >= 2:
             cands = sorted(n for n in names_by_dir.get(cur.as_posix(), [])
                            if n.endswith("-metadata.json") and not n.endswith("-file-metadata.json"))
             if cands:
                 meta = f"{cur.as_posix()}/{cands[0]}"
+                counts[meta] = counts.get(meta, 0) + 1
                 break
             cur = cur.parent
-        if not meta:
+    return counts
+
+
+def _load_metadata(root: str, rel: str):
+    try:
+        with open(os.path.join(root, *rel.split("/")), encoding="utf-8") as fh:
+            data = json.load(fh)
+    except (OSError, ValueError):
+        return None
+    return data if isinstance(data, dict) else None
+
+
+def report_unflagged(root: str, files: list[str]) -> list[tuple[str, int]]:
+    """Directories (of the governing metadata) with content files whose metadata says
+    license.publicly_redistributable is false. Check 4a turns each into a failure."""
+    out = []
+    for meta, n in content_by_metadata(files).items():
+        if not n:
             continue
-        if meta not in cache:
-            try:
-                with open(os.path.join(root, *meta.split("/")), encoding="utf-8") as fh:
-                    lic = json.load(fh).get("license")
-            except (OSError, ValueError, AttributeError):
-                lic = None
-            cache[meta] = isinstance(lic, dict) and lic.get("publicly_redistributable") is False
-        if cache[meta]:
-            counts[PurePosixPath(meta).parent.as_posix()] += 1
-    return sorted(counts.items())
+        data = _load_metadata(root, meta)
+        lic = data.get("license") if data else None
+        if isinstance(lic, dict) and lic.get("publicly_redistributable") is False:
+            out.append((PurePosixPath(meta).parent.as_posix(), n))
+    return sorted(out)
+
+
+def gov_host_suffix(url) -> str | None:
+    """The GOV_HOST_SUFFIXES entry the URL's host ends in, or None."""
+    if not isinstance(url, str) or not _URL_RE.match(url):
+        return None
+    host = url.split("://", 1)[1].split("/", 1)[0].split(":", 1)[0].lower().rstrip(".")
+    for suffix in GOV_HOST_SUFFIXES:
+        if host == suffix or host.endswith("." + suffix):
+            return suffix
+    return None
+
+
+def tier_field_problems(data: dict, today: _dt.date) -> list[str]:
+    """Check 4b/4d: the shape of access_tier and tier_evidence (empty list = valid)."""
+    if "access_tier" not in data:
+        return ["tier_evidence is present without access_tier"] if "tier_evidence" in data else []
+    tier = data["access_tier"]
+    if type(tier) is not int or tier not in (1, 2, 3, 4):  # bool and float (1.0) are rejected
+        return [f"access_tier must be the integer 1, 2, 3 or 4, got {tier!r}"]
+    ev = data.get("tier_evidence")
+    if not isinstance(ev, dict):
+        return ["access_tier needs a tier_evidence object (url, checked, method, note)"]
+    probs = []
+    if not isinstance(ev.get("url"), str) or not _URL_RE.match(ev["url"]):
+        probs.append(f"tier_evidence.url must be an http(s) URL, got {ev.get('url')!r}")
+    checked = ev.get("checked")
+    d = None
+    if isinstance(checked, str) and _DATE_RE.match(checked):
+        try:
+            d = _dt.date.fromisoformat(checked)
+        except ValueError:
+            d = None
+    if d is None:
+        probs.append(f"tier_evidence.checked must be a real YYYY-MM-DD date, got {checked!r}")
+    elif d > today:
+        probs.append(f"tier_evidence.checked {checked} is in the future")
+    method = ev.get("method")
+    if method not in TIER_METHODS:
+        probs.append(f"tier_evidence.method must be one of {sorted(TIER_METHODS)}, got {method!r}")
+    note = ev.get("note")
+    if not isinstance(note, str) or len(note.strip()) < 15:
+        probs.append("tier_evidence.note must say what was observed (at least 15 characters)")
+    if method == "host-suffix":
+        if tier != 1:
+            probs.append(f"method host-suffix proves only Tier 1, not Tier {tier}")
+        elif gov_host_suffix(ev.get("url")) is None:
+            probs.append(f"method host-suffix needs a URL whose host is in GOV_HOST_SUFFIXES, got {ev.get('url')!r}")
+    if method == "recorded" and tier in (1, 2):
+        probs.append("method recorded may only say Tier 3 or 4: a record can keep a source private, never make it public")
+    return probs
+
+
+def check_metadata_truth(root: str, files: list[str], allowlist: list[dict],
+                         today: _dt.date | None = None) -> dict[str, list[str]]:
+    """Blocking check 4. Returns {metadata path: [problems]}."""
+    today = today or _dt.date.today()
+    exceptions = {e["path"] for e in allowlist if e.get("kind") == "tier3-4-exception"}
+    problems: dict[str, list[str]] = {}
+    for meta, n_content in sorted(content_by_metadata(files).items()):
+        data = _load_metadata(root, meta)
+        if data is None:
+            problems[meta] = ["not a readable JSON object, so nothing can confirm that the content it governs may "
+                              "be public"]
+            continue
+        lic = data.get("license") if isinstance(data.get("license"), dict) else {}
+        public = lic.get("publicly_redistributable")
+        probs = tier_field_problems(data, today)
+        if n_content and public is False:
+            probs.append(f"{n_content} content files sit under this metadata while license.publicly_redistributable "
+                         "is false. Find the source's tier: Tier 1/2 -> set it true and record access_tier and "
+                         "tier_evidence; Tier 3/4 -> the content belongs in dataset-private-laws-regulations-standards "
+                         "unless Kurt grants an exception (ask first; do not move it on your own)")
+        tier = data.get("access_tier")
+        if type(tier) is int and tier in (1, 2, 3, 4):
+            excepted = PurePosixPath(meta).parent.as_posix() in exceptions
+            if tier in (1, 2) and public is not True:
+                probs.append(f"access_tier {tier} means the rule allows public hosting, so "
+                             f"license.publicly_redistributable must be true, got {public!r}")
+            if tier in (3, 4) and not excepted:
+                if public is not False:
+                    probs.append(f"access_tier {tier} needs license.publicly_redistributable false (no "
+                                 f"tier3-4-exception ALLOWLIST entry names this directory), got {public!r}")
+                if n_content:
+                    probs.append(f"access_tier {tier} source with {n_content} content files and no "
+                                 "tier3-4-exception ALLOWLIST entry for this exact directory")
+        if probs:
+            problems[meta] = probs
+    return problems
 
 
 # ----------------------------------------------------------------------------- output
 def run(root: str, use_git: bool | None = None, out=sys.stdout, allowlist: list[dict] | None = None,
-        fingerprints: dict | None = None) -> int:
+        fingerprints: dict | None = None, today: _dt.date | None = None) -> int:
     allowlist = ALLOWLIST if allowlist is None else allowlist
     fingerprints = FINGERPRINTS if fingerprints is None else fingerprints
     in_actions = os.environ.get("GITHUB_ACTIONS") == "true"
@@ -650,15 +812,28 @@ def run(root: str, use_git: bool | None = None, out=sys.stdout, allowlist: list[
     for n in notes:
         print(f"  {n}", file=out)
 
-    unflagged = report_unflagged(root, files)
+    meta_problems = check_metadata_truth(root, files, allowlist, today=today)
+    n_meta = sum(1 for f in files if is_edition_metadata(f))
+    tiered = 0
+    for f in files:
+        if is_edition_metadata(f):
+            data = _load_metadata(root, f)
+            tiered += bool(data and "access_tier" in data)
     print("", file=out)
-    print(f"Non-blocking report: {len(unflagged)} directories hold content files while their "
-          "metadata says publicly_redistributable: false.", file=out)
-    for d, n in unflagged:
-        print(f"  {d}/  ({n} content files)", file=out)
-    if in_actions and unflagged:
-        print(f"::notice title=Tier gate (non-blocking)::{len(unflagged)} directories hold content while "
-              "their metadata says publicly_redistributable: false. See the job log.", file=out)
+    print(f"Metadata truth: {n_meta} edition metadata files, {tiered} with access_tier.", file=out)
+    if meta_problems:
+        status = 1
+        print(f"FAIL: {len(meta_problems)} metadata files contradict the 4-tier rule or carry malformed tier "
+              "fields (see METADATA-SCHEMA.md, access_tier):", file=out)
+        for meta, probs in meta_problems.items():
+            print(f"  {meta}", file=out)
+            for pr in probs:
+                print(f"      {pr}", file=out)
+                if in_actions:
+                    print(f"::error file={meta},title=Metadata truth::{pr}", file=out)
+    else:
+        print("  PASS: no directory holds content while its metadata says not redistributable, and every "
+              "access_tier agrees with publicly_redistributable and carries valid evidence.", file=out)
 
     print("", file=out)
     if not violations:
@@ -791,7 +966,8 @@ def _self_test_data():
          False, "metadata carrying a well-formed public_exception"),
         ("control/cisecurity.org/cis-controls/v8/cis-controls-v8.csv", "a,b", True, "P1-2 even a well-formed public_exception in metadata does not allow content"),
         # --- allowlisted exception: exact directory and files only (P2-3)
-        ("control/iso.org/27701/2019/27701-2019-metadata.json", meta("secid:control/iso.org/27701@2019"), False, "own metadata"),
+        ("control/iso.org/27701/2019/27701-2019-metadata.json", meta("secid:control/iso.org/27701@2019", True), False,
+         "own metadata (an excepted directory is publicly hosted, so its metadata says true)"),
         ("control/iso.org/27701/2019/27701-2019.md", "text", False, "allowlisted file in the exact directory"),
         ("control/iso.org/27701/2019/27701-2019.csv", "a,b", True, "P2-3 file not named in the allowlist entry"),
         ("control/iso.org/27701/2019/scripts/parse.py", "print()", True, "P2-3 subdirectory does not inherit the exception"),
@@ -801,7 +977,8 @@ def _self_test_data():
         ("control/iso.org/27701/27701.md", "text", True, "P2-3 parent directory does not inherit the exception"),
         ("control/iso.org/27701/2019/27701-2019-extra.md", "text", True, "R2-P1 allowlisted directory, file not in the entry and not fingerprinted"),
         # --- round 2 P2: an exact allowance can authorize a README over the stub cap
-        ("control/iso.org/27799/2016/27799-2016-metadata.json", meta("secid:control/iso.org/27799@2016"), False, "own metadata"),
+        ("control/iso.org/27799/2016/27799-2016-metadata.json", meta("secid:control/iso.org/27799@2016", True), False,
+         "own metadata (excepted, so true)"),
         ("control/iso.org/27799/2016/README.md", "# approved long README\n" + "approved text " * 800, False,
          "R2-P2 README over the stub cap passes when an exact ALLOWLIST entry lists it"),
         ("control/iso.org/27799/2016/27799-2016.md", "approved text", False, "allowlisted content beside it"),
@@ -813,9 +990,9 @@ def _self_test_data():
         ("reference/cisecurity.org/oval/oval-sections.json", "[]", False, "OVAL reviewed file oval-sections.json"),
         ("reference/cisecurity.org/oval/extra.csv", "a,b", True, "P2-5 unlisted file beside OVAL"),
         ("reference/cisecurity.org/oval/iso.org/27001/data.csv", "a,b", True, "P2-5 nested path under OVAL"),
-        # --- non-blocking report fixtures
-        ("control/example.org/doc/1/doc-1-metadata.json", meta("secid:control/example.org/doc@1", False), False, "report: content + false"),
-        ("control/example.org/doc/1/doc-1.md", "text", False, "report: content + false"),
+        # --- content-while-not-redistributable fixtures (check 4a; the run-level test shows it blocks)
+        ("control/example.org/doc/1/doc-1-metadata.json", meta("secid:control/example.org/doc@1", False), False, "4a: content + false (metadata)"),
+        ("control/example.org/doc/1/doc-1.md", "text", False, "4a: content + false (content; blocks in run())"),
         ("control/example.org/doc/2/doc-2-metadata.json", meta("secid:control/example.org/doc@2", True), False, "report: content + true"),
         ("control/example.org/doc/2/doc-2.md", "text", False, "report: content + true"),
     ]
@@ -829,10 +1006,9 @@ def _self_test_data():
         "control/iso.org/27701/2019/27701-2019-extra.md": None,
     }
     expected_unflagged = {"control/example.org/doc/1", "control/iso.org/27002/2022", "control/aicpa.org/tsc/2017",
-                          "control/cisecurity.org/cis-controls/v8", "control/iso.org/27701/2019",
-                          "control/iso.org/27701/2022", "control/iso.org/27017/2015",
-                          "control/iso.org/27701/2019/scripts", "control/iso.org/27036/1",
-                          "control/iso.org/27799/2016"}
+                          "control/cisecurity.org/cis-controls/v8", "control/iso.org/27701/2022",
+                          "control/iso.org/27017/2015", "control/iso.org/27701/2019/scripts",
+                          "control/iso.org/27036/1"}
 
     today = _dt.date.today()
     al_cases = [  # (name, entries, valid?, clock) clock None = today's real date
@@ -866,14 +1042,85 @@ def _self_test_data():
     ]
     run_cases = [
         "run() exits 1 on violations, then 0 once every must-fail fixture is removed",
+        "4a run() still exits 1 while one directory holds content under metadata saying false",
         "P1-2 run() fails when the review's bogus exception is added to ALLOWLIST",
         "R2-P1 run() fails when FINGERPRINTS holds a malformed digest",
         "P2-4 symlinked file and symlinked directory found by the filesystem walk; run() fails",
         "P2-4 the same links staged in git are found as mode 120000; run() fails",
+        "4 run() exits 1 on the metadata-truth fixtures, then 0 once the must-fail ones are removed",
     ]
+
+    # --- check 4 (metadata truth). (name, directory, metadata dict or raw text,
+    # extra file paths relative to the directory (content), must_fail). Every case gets
+    # its own edition directory; must_fail means check_metadata_truth flags its metadata.
+    def tm(public, tier=None, ev=None, **extra):
+        d = {"secid": "secid:reference/x/doc", "license": {"spdx": "X", "publicly_redistributable": public}}
+        if public is None:
+            del d["license"]["publicly_redistributable"]
+        if tier is not None:
+            d["access_tier"] = tier
+        if ev is not None:
+            d["tier_evidence"] = ev
+        d.update(extra)
+        return d
+
+    def ev(url="https://www.example.com/doc.pdf", method="fetch", checked="2026-11-13",
+           note="Direct PDF download, no login."):
+        return {"url": url, "checked": checked, "method": method, "note": note}
+
+    gov = "https://www.ipa.go.jp/security/doc.pdf"
+    mcase = [
+        ("legacy: content, true, no tier", tm(True), ["doc.md"], False),
+        ("4a content while false", tm(False), ["doc.md"], True),
+        ("4a content in a subdirectory, ancestor metadata says false", tm(False), ["sub/data.csv"], True),
+        ("4a a -file-metadata.json sidecar saying false does not govern", tm(True), ["doc.md", "doc.pdf-file-metadata.json"], False),
+        ("stub (README only) while false", tm(False), ["README.md"], False),
+        ("Tier 1 host-suffix (go.jp), true, content", tm(True, 1, ev(gov, "host-suffix")), ["doc.md"], False),
+        ("Tier 1 host-suffix (.gov), true", tm(True, 1, ev("https://csrc.nist.gov/pubs/sp/800/53", "host-suffix")), [], False),
+        ("Tier 1 host-suffix (.int), true", tm(True, 1, ev("https://www.itu.int/x.pdf", "host-suffix")), [], False),
+        ("4d host-suffix on a non-government host", tm(True, 1, ev("https://www.example.com/x", "host-suffix")), [], True),
+        ("4d host-suffix on a look-alike (fakegov.uk)", tm(True, 1, ev("https://fakegov.uk/x", "host-suffix")), [], True),
+        ("4d host-suffix on an open ccTLD (go.co)", tm(True, 1, ev("https://go.co/x", "host-suffix")), [], True),
+        ("4d host-suffix claiming Tier 2", tm(True, 2, ev(gov, "host-suffix")), [], True),
+        ("Tier 2 by fetch, true, content", tm(True, 2, ev()), ["doc.md"], False),
+        ("Tier 2 by browser, true", tm(True, 2, ev(method="browser")), [], False),
+        ("4c Tier 1 while false", tm(False, 1, ev(gov, "host-suffix")), [], True),
+        ("4c Tier 2 with publicly_redistributable missing", tm(None, 2, ev()), [], True),
+        ("4c Tier 3 while true, no exception", tm(True, 3, ev()), [], True),
+        ("Tier 4 stub, false, recorded", tm(False, 4, ev(method="recorded", note="Program classification, not re-observed.")),
+         ["README.md"], False),
+        ("4c Tier 4 with content (and false)", tm(False, 4, ev()), ["doc.md"], True),
+        ("4c Tier 3 with content and true, exact tier3-4-exception", tm(True, 3, ev()), ["doc.md"], False),
+        ("4c Tier 3 with content, exception names a sibling directory", tm(True, 3, ev()), ["doc.md"], True),
+        ("4d recorded claiming Tier 2", tm(True, 2, ev(method="recorded")), [], True),
+        ("4b access_tier as a string", tm(True, "2", ev()), [], True),
+        ("4b access_tier true (bool)", tm(True, True, ev()), [], True),
+        ("4b access_tier 1.0 (float)", tm(True, 1.0, ev(gov, "host-suffix")), [], True),
+        ("4b access_tier 5", tm(True, 5, ev()), [], True),
+        ("4b access_tier without tier_evidence", tm(True, 2), [], True),
+        ("4b tier_evidence without access_tier", tm(True, None, ev()), [], True),
+        ("4b tier_evidence not an object", tm(True, 2, "fetched it"), [], True),
+        ("4b evidence date in the future", tm(True, 2, ev(checked="2026-12-01")), [], True),
+        ("4b evidence date that does not exist", tm(True, 2, ev(checked="2026-02-30")), [], True),
+        ("4b evidence URL not http(s)", tm(True, 2, ev(url="ftp://example.com/x")), [], True),
+        ("4b unknown evidence method", tm(True, 2, ev(method="guess")), [], True),
+        ("4b empty evidence note", tm(True, 2, ev(note=" ")), [], True),
+        ("4e metadata that is not valid JSON", "{not json", ["doc.md"], True),
+        ("4e metadata that is a JSON list", "[1, 2]", [], True),
+    ]
+    meta_cases = []
+    for i, (name, data, extra, must_fail) in enumerate(mcase):
+        d = f"reference/case{i:02d}.example.org/doc"
+        if isinstance(data, dict):
+            data = dict(data, secid=f"secid:reference/case{i:02d}.example.org/doc")
+        meta_cases.append((name, d, data, extra, must_fail))
+    exc_dir = next(c[1] for c in meta_cases if "exact tier3-4-exception" in c[0])
+    sib_dir = next(c[1] for c in meta_cases if "names a sibling directory" in c[0])
+    meta_allowlist = [dict(test_exception, path=exc_dir, secid=f"secid:{exc_dir}"),
+                      dict(test_exception, path=sib_dir + "-sibling", secid=f"secid:{sib_dir}-sibling")]
     return dict(cases=cases, fp_override=fp_override, expected_unflagged=expected_unflagged, al_cases=al_cases,
                 fp_cases=fp_cases, run_cases=run_cases, allowlist=allowlist, test_exception=test_exception,
-                bogus=bogus)
+                bogus=bogus, meta_cases=meta_cases, meta_allowlist=meta_allowlist)
 
 
 def self_test() -> int:
@@ -927,6 +1174,10 @@ def self_test() -> int:
             for rel, _, should_fail, _ in cases:
                 if should_fail:
                     os.remove(os.path.join(tmp, *rel.split("/")))
+            # check 4a is blocking: the one content-while-false directory left still fails run()
+            if run(tmp, use_git=False, out=sink, allowlist=allowlist, fingerprints=fingerprints) != 1:
+                failures.append("4a run() did not exit 1 while a directory held content under metadata saying false")
+            os.remove(os.path.join(tmp, "control", "example.org", "doc", "1", "doc-1.md"))
             if run(tmp, use_git=False, out=sink, allowlist=allowlist, fingerprints=fingerprints) != 0:
                 failures.append("run() did not exit 0 once every failing case was removed")
             bad = dict(t["test_exception"], **t["bogus"])
@@ -964,7 +1215,40 @@ def self_test() -> int:
         if (validate_fingerprints(fps) == []) != ok:
             failures.append(f"fingerprint validation: {name} gave the wrong answer")
 
-    n = len(cases) + len(t["al_cases"]) + len(t["fp_cases"]) + len(t["run_cases"])
+    # check 4: metadata truth, in its own tree
+    with tempfile.TemporaryDirectory(prefix="tier-gate-selftest-meta-") as tmp:
+        for _, d, data, extra, _ in t["meta_cases"]:
+            os.makedirs(os.path.join(tmp, *d.split("/")), exist_ok=True)
+            with open(os.path.join(tmp, *d.split("/"), "doc-metadata.json"), "w", encoding="utf-8") as fh:
+                fh.write(data if isinstance(data, str) else json.dumps(data))
+            for rel in extra:
+                path = os.path.join(tmp, *d.split("/"), *rel.split("/"))
+                os.makedirs(os.path.dirname(path), exist_ok=True)
+                with open(path, "w", encoding="utf-8") as fh:
+                    fh.write("{}" if rel.endswith(".json") else "text")
+        files, _ = list_entries(tmp, use_git=False)
+        flagged = check_metadata_truth(tmp, files, t["meta_allowlist"], today=FROZEN_TODAY)
+        for name, d, _, _, must_fail in t["meta_cases"]:
+            hit = f"{d}/doc-metadata.json" in flagged
+            if must_fail and not hit:
+                failures.append(f"metadata truth: not caught: {name}")
+            if not must_fail and hit:
+                failures.append(f"metadata truth: false positive: {name}: {flagged[f'{d}/doc-metadata.json']}")
+        sink = open(os.devnull, "w", encoding="utf-8")
+        try:
+            if run(tmp, use_git=False, out=sink, allowlist=t["meta_allowlist"], fingerprints={},
+                   today=FROZEN_TODAY) != 1:
+                failures.append("4 run() did not exit 1 on the metadata-truth fixtures")
+            for _, d, _, _, must_fail in t["meta_cases"]:
+                if must_fail:
+                    shutil.rmtree(os.path.join(tmp, *d.split("/")))
+            if run(tmp, use_git=False, out=sink, allowlist=t["meta_allowlist"], fingerprints={},
+                   today=FROZEN_TODAY) != 0:
+                failures.append("4 run() did not exit 0 once the must-fail metadata-truth fixtures were removed")
+        finally:
+            sink.close()
+
+    n = len(cases) + len(t["al_cases"]) + len(t["fp_cases"]) + len(t["run_cases"]) + len(t["meta_cases"])
     if failures:
         print("SELF-TEST FAILED:")
         for f in failures:
@@ -972,7 +1256,8 @@ def self_test() -> int:
         return 1
     print(f"Self-test passed ({n} cases: {len(cases)} fixture files, {sum(1 for c in cases if c[2])} of which must "
           f"fail; {len(t['al_cases'])} allowlist validations; {len(t['fp_cases'])} fingerprint validations; "
-          f"{len(t['run_cases'])} run-level checks).")
+          f"{len(t['run_cases'])} run-level checks; {len(t['meta_cases'])} metadata-truth fixtures, "
+          f"{sum(1 for c in t['meta_cases'] if c[4])} of which must fail).")
     return 0
 
 
@@ -986,6 +1271,8 @@ def list_self_test_cases() -> int:
         print(f"  [fingerprints {'valid' if ok else 'invalid'}] {name}")
     for name in t["run_cases"]:
         print(f"  [run-level] {name}")
+    for name, _, _, _, must_fail in t["meta_cases"]:
+        print(f"  [metadata truth {'must fail' if must_fail else 'must pass'}] {name}")
     return 0
 
 

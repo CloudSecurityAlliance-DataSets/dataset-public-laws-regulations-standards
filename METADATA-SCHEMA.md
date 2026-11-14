@@ -143,6 +143,8 @@ Scripts, source files retaining publisher's exact filename (XLSX, PDF source), a
 | `alternate_names` | array | Other names/aliases practitioners use. |
 | `version_aliases` | array | Other version strings that denote this same release. See [Version aliases](#version-aliases). |
 | `publication_id` | string | Publisher's exact publication identifier (e.g., `NIST.CSWP.29`, `PCI-DSS-v4_0_1`). |
+| `access_tier` | integer | The source's tier under the 4-tier hosting rule: `1`, `2`, `3` or `4`. See [Access tier and evidence](#access-tier-and-evidence). |
+| `tier_evidence` | object | How the tier was established: `url`, `checked`, `method`, `note`. Required whenever `access_tier` is set. |
 | `relationToCloudSecurity` | string | How this affects cloud security. |
 | `relationToAISecurity` | string | How this affects AI security. |
 | `lifecycle` | object | Version lifecycle (published, supersedes, retired). |
@@ -215,9 +217,52 @@ when the distinction could trip up a lookup.
 | `spdx` | Yes | SPDX identifier when available (e.g., `CC-BY-4.0`, `CC-BY-SA-4.0`, `Apache-2.0`, `CC0-1.0`). Use `LicenseRef-{custom}` for non-SPDX licenses. |
 | `redistribution` | Yes | Free-text: `permitted`, `permitted_with_attribution`, `permitted_for_study_purposes`, `prohibited`, etc. |
 | `derivatives` | Yes | Free-text: `permitted`, `permitted_with_attribution`, `share_alike_required`, `adaptations_noncommercial_only_never_shared` (e.g., CC BY-NC-ND 4.0: Adapted Material may be produced for non-commercial purposes only and never shared; format-only conversions are not Adapted Material under its Section 2(a)(4)), `prohibited`. |
-| `publicly_redistributable` | Yes | Boolean. Drives whether content goes in this public repo or the private archive. Set it from the source's access tier under the 4-tier hosting rule (AGENTS.md), not only from the licence text: a Tier 3 (free login) or Tier 4 (paid / members-only) source is `false` here unless Kurt grants an exception (see [Public hosting exceptions](#public-hosting-exceptions)). |
+| `publicly_redistributable` | Yes | Boolean. Drives whether content goes in this public repo or the private archive. Set it from the source's access tier under the 4-tier hosting rule (AGENTS.md), not only from the licence text: a Tier 3 (free login) or Tier 4 (paid / members-only) source is `false` here unless Kurt grants an exception (see [Public hosting exceptions](#public-hosting-exceptions)); a Tier 1 or Tier 2 source is `true` even when the publisher's terms do not grant redistribution. When `access_tier` is recorded, CI checks that the two agree (see [Access tier and evidence](#access-tier-and-evidence)). A directory that holds content may not say `false`. |
 | `license_text_url` | Recommended | URL to the full license text. |
 | `notes` | Optional | Free-text caveats. |
+
+The other licence fields (`spdx`, `redistribution`, `derivatives`, `notes`) record what the **publisher's terms** say, and they stay accurate even when the tier rule overrides them. A government document whose terms are unclear, or a vendor glossary whose copyright notice grants nothing, keeps `redistribution: "unclear"` or `"not_permitted_without_authorization"`, while `publicly_redistributable` is `true` because the 4-tier rule allows hosting it. Say so in `notes` (for example: "the public copy here rests on the 4-tier hosting rule, not on a licence from the publisher"); never write "internal use only" or "private working copy" in the metadata of a public entry.
+
+### Access tier and evidence
+
+```json
+"access_tier": 1,
+"tier_evidence": {
+  "url": "https://www.ipa.go.jp/security/guide/hjuojm00000055l0-att/000045873.pdf",
+  "checked": "2026-11-14",
+  "method": "fetch",
+  "note": "Direct PDF download from ipa.go.jp, no login (HTTP 206, application/pdf)."
+}
+```
+
+`access_tier` records which tier of the 4-tier hosting rule (AGENTS.md) the source is in; place it right after `license`. Kurt Seifried, 2026-11-09: *"so in general anything we get from a public gov website, goes into the public dataset repo regardless of license. in general if it's on the web, and there's no login, we treat it as if we can mirror it. if there is a free login, ask me, and if it' a paid login, or paid access like iso.org, we do NOT mirror it publicly ever unless there is a specific exception granted, and it would have to be explicit and well documented and have solid reasons for it."*
+
+| `access_tier` | Meaning | `publicly_redistributable` | Content in this repository |
+|---|---|---|---|
+| `1` | Public government or intergovernmental website | `true` | Allowed, regardless of licence |
+| `2` | Open web, no login | `true` | Allowed, regardless of licence |
+| `3` | Free login or registration wall | `false` | Not allowed: Kurt approves each source first |
+| `4` | Paid, members-only, or (as the program treats PCI SSC) a click-through licence | `false` | Not allowed unless Kurt grants an explicit exception |
+
+A Tier 3 or Tier 4 source with a granted exception is the only case where the tier and `publicly_redistributable` disagree: the exception is an entry in the gate's `ALLOWLIST` (see [Public hosting exceptions](#public-hosting-exceptions)), never a metadata field.
+
+`tier_evidence` says how the tier was established:
+
+| Field | Description |
+|---|---|
+| `url` | The http(s) URL that was checked: the document itself where possible (`textUsed`), else the page that serves it. |
+| `checked` | The date of the check, `YYYY-MM-DD`. |
+| `method` | `fetch` (a scripted GET showed the content with no login), `browser` (loaded in a real browser, for JavaScript-rendered or bot-filtered sites), `host-suffix` (Tier 1 only: the URL's host is a government domain in the gate's `GOV_HOST_SUFFIXES`; not fetched), or `recorded` (Tier 3 or 4 only: the program's own classification, not re-observed). |
+| `note` | What was observed, in a sentence: "direct PDF download, no login", "registration form before download", "store sells it at US$90". |
+
+Leave both fields out when the tier has not been established. Do not guess: a missing tier is honest, a wrong one is not. `tools-resources/utils/backfill_access_tier.py` records Tier 1 by `host-suffix` for entries that are already `publicly_redistributable: true` and whose every recorded source URL is on a government host; anything else is set by hand after a check.
+
+**Enforced in CI** by `tools-resources/utils/check_tier_restrictions.py` (check 4, blocking), for every edition metadata file:
+
+- no directory may hold content (anything but `README.md` and metadata files, counted against the nearest metadata at or above it) while its metadata says `publicly_redistributable: false`;
+- `access_tier` must be the integer 1-4 with a complete `tier_evidence` (`checked` a real date, not in the future); `tier_evidence` without `access_tier` fails;
+- Tier 1 or 2 requires `publicly_redistributable: true`; Tier 3 or 4 requires `false` and no content, unless a `tier3-4-exception` `ALLOWLIST` entry names that exact directory;
+- `host-suffix` may only claim Tier 1, on a host in `GOV_HOST_SUFFIXES`; `recorded` may only claim Tier 3 or 4. A record can keep a source private, never make it public.
 
 ### Links Object
 
@@ -412,9 +457,10 @@ A metadata file is **valid** when:
 2. Required fields are present
 3. `secid` matches the directory path
 4. `license.spdx` is set (use `LicenseRef-{...}` for non-SPDX)
-5. `license.publicly_redistributable` is set (boolean)
+5. `license.publicly_redistributable` is set (boolean), and is not `false` in a directory that holds content
+6. If `access_tier` is set, it agrees with `publicly_redistributable` and carries valid `tier_evidence` (see [Access tier and evidence](#access-tier-and-evidence))
 
-Tier restrictions are checked in CI: `python3 -I tools-resources/utils/check_tier_restrictions.py` (see [Public hosting exceptions](#public-hosting-exceptions)).
+Tier restrictions and rules 5-6 are checked in CI: `python3 -I tools-resources/utils/check_tier_restrictions.py` (see [Public hosting exceptions](#public-hosting-exceptions) and [Access tier and evidence](#access-tier-and-evidence)).
 
 ## Examples in the Repo
 

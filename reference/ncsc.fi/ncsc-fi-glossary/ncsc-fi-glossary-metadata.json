@@ -17,9 +17,16 @@
     "spdx": "NOASSERTION",
     "redistribution": "unknown",
     "derivatives": "unknown",
-    "publicly_redistributable": false,
+    "publicly_redistributable": true,
     "license_text_url": "",
-    "notes": "Finnish government (Traficom)\n\nPhase 4c verification: original ncsc.fi URL returned 404. Page moved to https://www.traficom.fi/en/everyday-information-security/glossary-central-cyber-security-terms \u2014 footer reads '(c) Traficom'. No CC badge on the new page. Finnish public sector data is typically open but not declared. License remains NOASSERTION."
+    "notes": "Finnish government (Traficom)\n\nPhase 4c verification: original ncsc.fi URL returned 404. Page moved to https://www.traficom.fi/en/everyday-information-security/glossary-central-cyber-security-terms \u2014 footer reads '(c) Traficom'. No CC badge on the new page. Finnish public sector data is typically open but not declared. License remains NOASSERTION.\n\nHosted publicly under the 4-tier hosting rule regardless of licence: Traficom, the Finnish Transport and Communications Agency that hosts NCSC-FI, is a government agency, and the glossary page reads with no login (Tier 1; see `tier_evidence`)."
+  },
+  "access_tier": 1,
+  "tier_evidence": {
+    "url": "https://www.traficom.fi/en/everyday-information-security/glossary-central-cyber-security-terms",
+    "checked": "2026-11-14",
+    "method": "fetch",
+    "note": "Public page of Traficom, a Finnish government agency; the glossary terms are in the page, no login."
   },
   "links": {
     "wikipedia": "",

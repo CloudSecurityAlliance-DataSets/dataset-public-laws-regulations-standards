@@ -19,7 +19,14 @@
     "derivatives": "not_permitted_without_authorization",
     "publicly_redistributable": true,
     "license_text_url": "",
-    "notes": "Cloudflare, Inc. copyright. Internal CSA use only — extracted derivatives are not redistributable. Publicly accessible web resource with no login required (Tier 2 of Kurt Seifried 2026-11-09 4-tier hosting rule: open-web no-login content is mirrored in the public dataset repository with attribution)."
+    "notes": "Cloudflare, Inc. copyright. The publisher has not licensed redistribution (see `redistribution`); the public copy here rests on the 4-tier hosting rule, not on a licence from the publisher. Publicly accessible web resource with no login required (Tier 2 of Kurt Seifried 2026-11-09 4-tier hosting rule: open-web no-login content is mirrored in the public dataset repository with attribution)."
+  },
+  "access_tier": 2,
+  "tier_evidence": {
+    "url": "https://developers.cloudflare.com/bots/glossary/index.md",
+    "checked": "2026-11-14",
+    "method": "fetch",
+    "note": "Glossary page reads with no login; the extracted term \"verified bot\" appears in it."
   },
   "links": {
     "wikipedia": "",

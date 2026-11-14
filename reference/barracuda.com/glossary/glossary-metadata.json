@@ -19,7 +19,14 @@
     "derivatives": "not_permitted_without_authorization",
     "publicly_redistributable": true,
     "license_text_url": "",
-    "notes": "Barracuda Networks copyright Publicly accessible web resource with no login required (Tier 2 of Kurt Seifried 2026-11-09 4-tier hosting rule: open-web no-login content is mirrored in the public dataset repository with attribution)."
+    "notes": "Barracuda Networks copyright. The publisher has not licensed redistribution (see `redistribution`); the public copy here rests on the 4-tier hosting rule, not on a licence from the publisher. Publicly accessible web resource with no login required (Tier 2 of Kurt Seifried 2026-11-09 4-tier hosting rule: open-web no-login content is mirrored in the public dataset repository with attribution)."
+  },
+  "access_tier": 2,
+  "tier_evidence": {
+    "url": "https://www.barracuda.com/support/glossary/account-takeover",
+    "checked": "2026-11-14",
+    "method": "fetch",
+    "note": "Glossary term pages read with no login; the extracted definition of \"Account Takeover\" is in the page."
   },
   "links": {
     "wikipedia": "https://en.wikipedia.org/wiki/Barracuda_Networks",
@@ -62,10 +69,10 @@
     "terms_extracted": 159,
     "extraction_note": "159 terms (all sitemap glossary URLs) in the canonical {term, definition, source_anchor, notes} schema (glossary-terms.csv/.json). For 145 entries the definition is the page's curated schema.org Article description; for the 14 whose Article description is empty (marketing-promo-only pages), it is AI-distilled from the page body prose via extract_barracuda_glossary.py + Claude — recorded per-row in notes ('ai_distilled_from_body'). SEO-article <h1> titles are reduced to bare terms (e.g. 'What is cloud WAF: Use case and benefits' -> 'Cloud WAF')."
   },
-  "notes": "Structured extraction complete (2026-07-10): 159 terms via extract_barracuda_glossary.py (145 curated descriptions + 14 AI-distilled from body prose). Vendor-copyrighted — CSA private working copy, not for redistribution. SecID namespace registered via SecID PR #107 (registry/reference/com/barracuda.json).",
+  "notes": "Structured extraction complete (2026-07-10): 159 terms via extract_barracuda_glossary.py (145 curated descriptions + 14 AI-distilled from body prose). Vendor-copyrighted; hosted publicly under the 4-tier hosting rule (Tier 2), not under a licence from Barracuda. SecID namespace registered via SecID PR #107 (registry/reference/com/barracuda.json).",
   "desired_end_state": {
     "state": "structured",
-    "reason": "licensed",
-    "notes": "Vendor-copyrighted glossary; redistribution not permitted without authorization. This is CSA's private working copy, so the intended end state is structured extraction (per-term {term, definition, source_anchor, notes}) held here for internal research — not a metadata-only stub."
+    "reason": "glossary",
+    "notes": "Structured per-term extraction, hosted publicly with attribution under the 4-tier hosting rule (Tier 2: open web, no login). Barracuda has not licensed redistribution; see license."
   }
 }
