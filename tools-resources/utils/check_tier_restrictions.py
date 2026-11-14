@@ -1124,7 +1124,7 @@ def check_restricted(root: str, files: list[str], allowlist: list[dict],
         else:
             try:
                 with open(full, encoding="utf-8") as fh:
-                    data = json.load(fh)
+                    data = strict_json_load(fh)
             except (OSError, ValueError) as exc:
                 probs.append(f"{rel}: not valid JSON ({exc})")
             if data is not None and not isinstance(data, dict):
@@ -1310,12 +1310,32 @@ def json_restriction(obj) -> str | None:
     return None
 
 
+
+def _reject_duplicate_keys(pairs):
+    """object_pairs_hook: duplicate keys are an error, never "last one wins".
+
+    Python's json keeps the last duplicate silently, so
+    {"publicly_redistributable": false, "publicly_redistributable": true} would read as
+    public (PR #155, Codex round 5). ValueError makes every reader treat the file as
+    unreadable, which fails closed."""
+    out = {}
+    for key, value in pairs:
+        if key in out:
+            raise ValueError(f"duplicate JSON key {key!r}")
+        out[key] = value
+    return out
+
+
+def strict_json_load(fh):
+    """json.load that rejects duplicate keys at every nesting level."""
+    return json.load(fh, object_pairs_hook=_reject_duplicate_keys)
+
 def json_tripwire(root: str, rel: str) -> str | None:
     """Check 5b for one infrastructure `.json` file: read BOM-tolerantly; a file that
     still cannot be read or parsed needs a pin, since its declarations cannot be checked."""
     try:
         with open(os.path.join(root, *rel.split("/")), encoding="utf-8-sig") as fh:
-            data = json.load(fh)
+            data = strict_json_load(fh)
     except (OSError, ValueError, RecursionError):  # UnicodeDecodeError and JSONDecodeError are ValueErrors
         return "an infrastructure JSON file that cannot be read or parsed, so its declarations cannot be checked"
     why = json_restriction(data)
@@ -1381,7 +1401,7 @@ def content_by_metadata(files: list[str]) -> dict[str, int]:
 def _load_metadata(root: str, rel: str):
     try:
         with open(os.path.join(root, *rel.split("/")), encoding="utf-8") as fh:
-            data = json.load(fh)
+            data = strict_json_load(fh)
     except (OSError, ValueError):
         return None
     return data if isinstance(data, dict) else None
@@ -2240,6 +2260,17 @@ def _self_test_data():
         ("R155r4 Codex: a trailing-comma JSON that cannot be parsed fails unless pinned",
          {"tools-resources/working/trailing.json": '{"publicly_redistributable": false, "text": "' + chunk + '",}'},
          True, "tools-resources/working/trailing.json", {"tools-resources/working/trailing.json"}, {}),
+        # --- round 5: duplicate JSON keys must not read as "last one wins"
+        ("R155r5 Codex: infrastructure JSON with a duplicated publicly_redistributable (false, then true) fails",
+         {"tools-resources/working/dup.json":
+              '{"publicly_redistributable": false, "publicly_redistributable": true, "text": "' + chunk + '"}'},
+         True, "tools-resources/working/dup.json", {"tools-resources/working/dup.json"}, {}),
+        ("R155r5 Codex: edition metadata with a duplicated license (false, then true) fails, content beside it",
+         {"control/example.org/dup/dup-metadata.json":
+              '{"secid": "secid:control/example.org/dup", "license": {"publicly_redistributable": false}, '
+              '"license": {"publicly_redistributable": true}}',
+          "control/example.org/dup/dup.md": big},
+         True, "control/example.org/dup/dup-metadata.json", {"control/example.org/dup/dup.md"}, {}),
         ("R155r4 a nested access_tier given as the string \"4\" fails unless pinned",
          {"tools-resources/working/nested-str-tier.json": J({"a": {"b": [{"access_tier": "4", "text": big}]}})},
          True, "tools-resources/working/nested-str-tier.json", {"tools-resources/working/nested-str-tier.json"}, {}),
