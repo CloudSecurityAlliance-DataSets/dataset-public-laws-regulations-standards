@@ -16,7 +16,7 @@ The Control Criteria document defines what cloud service providers must implemen
 
 | File | Contents |
 |---|---|
-| `ismap-control-criteria-2022-04-01-metadata.json` | Directory metadata (schema per METADATA-SCHEMA.md) |
+| `control-criteria-2022-04-01-metadata.json` | Directory metadata (schema per METADATA-SCHEMA.md) |
 | `ismap-control-criteria-2022-04-01.json` | 263 control-level rows, structured |
 | `ismap-control-criteria-2022-04-01.csv` | Same, flat CSV |
 | `ismap-control-criteria-2022-04-01-raw.txt` | `pdftotext -layout` output of the (decrypted) source PDF — narrative reference |

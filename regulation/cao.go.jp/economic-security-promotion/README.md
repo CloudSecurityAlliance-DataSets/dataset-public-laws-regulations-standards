@@ -4,7 +4,7 @@ Act No. 43 of Reiwa 4 (2022). Establishes 4 pillars: supply-chain resilience for
 
 - **SecID:** `secid:regulation/cao.go.jp/economic-security-promotion`
 - **Source:** https://www.cao.go.jp/keizai_anzen_hosho/suishinhou/infra/doc/infra_gaiyou_eng.pdf
-- **License:** LicenseRef-Japan-Government-Law-Excluded-From-Copyright (permitted) -- see `economic-security-promotion-overview-metadata.json`
+- **License:** LicenseRef-Japan-Government-Law-Excluded-From-Copyright (permitted) -- see `economic-security-promotion-metadata.json`
 
 **Status:** Overview only. Full article text blocked at the only known source.
 

@@ -4,7 +4,7 @@ Version 7.0, revised June 2026. Published as 5 companion volumes: Overview, Mana
 
 - **SecID:** `secid:control/mhlw.go.jp/medical-info-systems-safety`
 - **Source:** https://www.mhlw.go.jp/content/10808000/001716290.pdf
-- **License:** LicenseRef-Japan-Government-Notification-Likely-Excluded (likely_permitted) -- see `medical-info-systems-safety-overview-metadata.json`
+- **License:** LicenseRef-Japan-Government-Notification-Likely-Excluded (likely_permitted) -- see `medical-info-systems-safety-metadata.json`
 
 **Status:** 1 of 5 volumes acquired (Overview). Management, Planning & Administration, System Operations, and Maintenance Outsourcing volumes still TODO -- URLs recorded.
 
