@@ -15,6 +15,13 @@
     "license_text_url": "https://www.usa.gov/government-copyright",
     "notes": "Work of the US government is in the public domain in the United States per 17 U.S.C. \u00a7 105. State and local government works generally follow the same convention but may vary; consult the specific issuer for definitive terms."
   },
+  "access_tier": 1,
+  "tier_evidence": {
+    "url": "https://www.fedramp.gov/",
+    "checked": "2026-11-14",
+    "method": "host-suffix",
+    "note": "Classified from the URL host (government suffix gov); not fetched in this pass. Every recorded source URL (textUsed, retrieval_url, source) is on a government host."
+  },
   "links": {
     "source": "https://www.fedramp.gov/",
     "csaLocation": ""

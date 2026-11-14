@@ -23,6 +23,13 @@
     "note": "Official publication (nukib.gov.cz); Czech Copyright Act (Act No. 121/2000 Sb.) Section 3(a) (official works, including government policies, strategies, and public registers, excluded from copyright protection).",
     "notes": "Official publication (nukib.gov.cz); Czech Copyright Act (Act No. 121/2000 Sb.) Section 3(a) (official works, including government policies, strategies, and public registers, excluded from copyright protection)."
   },
+  "access_tier": 1,
+  "tier_evidence": {
+    "url": "https://nukib.gov.cz/download/publications_en/strategy_action_plan/National-Cyber-Security-Strategy-Czechia-2026.pdf",
+    "checked": "2026-11-14",
+    "method": "host-suffix",
+    "note": "Classified from the URL host (government suffix gov.cz); not fetched in this pass. Every recorded source URL (textUsed, retrieval_url, source) is on a government host."
+  },
   "links": {
     "wikipedia": "",
     "source": "https://nukib.gov.cz/en/cyber-security/strategy-action-plan/",

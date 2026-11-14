@@ -23,6 +23,13 @@
     "note": "Crown copyright; licensed under the Open Government Licence v3.0.",
     "notes": "Crown copyright; licensed under the Open Government Licence v3.0."
   },
+  "access_tier": 1,
+  "tier_evidence": {
+    "url": "https://publications.parliament.uk/pa/bills/cbill/59-02/0002/260002.pdf",
+    "checked": "2026-11-14",
+    "method": "fetch",
+    "note": "The bill's text downloads from publications.parliament.uk as a PDF with no login (HTTP 206, application/pdf). The gov.uk page recorded in links.source returned 404 on 2026-11-14. \"registration\" in this record refers to the bill's registration in SecID, not to access."
+  },
   "links": {
     "wikipedia": "",
     "source": "https://www.gov.uk/government/publications/cyber-security-and-resilience-bill",

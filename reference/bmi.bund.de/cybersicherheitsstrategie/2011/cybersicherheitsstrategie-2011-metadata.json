@@ -23,6 +23,13 @@
     "note": "Official German Federal Government publication (bmi.bund.de; § 5 UrhG public official work). Publicly released for free download, reference, and citation.",
     "notes": "Official German Federal Government publication (bmi.bund.de; § 5 UrhG public official work). Publicly released for free download, reference, and citation."
   },
+  "access_tier": 1,
+  "tier_evidence": {
+    "url": "https://www.enisa.europa.eu/sites/default/files/all_files/cyber_eng.pdf",
+    "checked": "2026-11-14",
+    "method": "host-suffix",
+    "note": "Classified from the URL host (government suffix europa.eu); not fetched in this pass. Every recorded source URL (textUsed, retrieval_url, source) is on a government host."
+  },
   "links": {
     "wikipedia": "",
     "source": "https://www.bmi.bund.de/DE/themen/it-und-digitalpolitik/it-und-cybersicherheit/cybersicherheitsstrategie/cybersicherheitsstrategie-node.html",

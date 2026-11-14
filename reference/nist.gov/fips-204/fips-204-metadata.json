@@ -21,6 +21,13 @@
     "license_text_url": "https://www.copyright.gov/title17/92chap1.html#105",
     "notes": "Work of NIST is in the US public domain (17 USC \u00a7105)."
   },
+  "access_tier": 1,
+  "tier_evidence": {
+    "url": "https://csrc.nist.gov/pubs/fips/204/final",
+    "checked": "2026-11-14",
+    "method": "host-suffix",
+    "note": "Classified from the URL host (government suffix gov); not fetched in this pass. Every recorded source URL (textUsed, retrieval_url, source) is on a government host."
+  },
   "links": {
     "source": "https://csrc.nist.gov/pubs/fips/204/final",
     "csaLocation": ""

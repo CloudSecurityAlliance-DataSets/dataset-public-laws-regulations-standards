@@ -21,6 +21,13 @@
     "license_text_url": "https://open.canada.ca/en/open-government-licence-canada",
     "notes": "Open Government Licence – Canada (and Reproduction of Federal Law Order for federal statutes)."
   },
+  "access_tier": 1,
+  "tier_evidence": {
+    "url": "https://publications.gc.ca/collections/Collection/CP22-77-2004E.pdf",
+    "checked": "2026-11-14",
+    "method": "host-suffix",
+    "note": "Classified from the URL host (government suffix gc.ca); not fetched in this pass. Every recorded source URL (textUsed, retrieval_url, source) is on a government host."
+  },
   "links": {
     "wikipedia": "",
     "source": "https://publications.gc.ca/site/eng/258665/publication.html",

@@ -23,6 +23,13 @@
     "note": "Official publication (ncsc.ch); Swiss Federal Act on Copyright and Related Rights (URG / LDA, SR 231.1) Art. 5 (laws, decrees, administrative decisions, and official reports excluded from copyright protection).",
     "notes": "Official publication (ncsc.ch); Swiss Federal Act on Copyright and Related Rights (URG / LDA, SR 231.1) Art. 5 (laws, decrees, administrative decisions, and official reports excluded from copyright protection)."
   },
+  "access_tier": 1,
+  "tier_evidence": {
+    "url": "https://www.bacs.admin.ch/dam/de/sd-web/JQFmJLTCAVPI/strategie-zum-schutz-der-schweiz-vor-cyberrisiken-2012-de.pdf",
+    "checked": "2026-11-14",
+    "method": "host-suffix",
+    "note": "Classified from the URL host (government suffix admin.ch); not fetched in this pass. Every recorded source URL (textUsed, retrieval_url, source) is on a government host."
+  },
   "links": {
     "wikipedia": "",
     "source": "https://www.bacs.admin.ch/dam/de/sd-web/JQFmJLTCAVPI/strategie-zum-schutz-der-schweiz-vor-cyberrisiken-2012-de.pdf",

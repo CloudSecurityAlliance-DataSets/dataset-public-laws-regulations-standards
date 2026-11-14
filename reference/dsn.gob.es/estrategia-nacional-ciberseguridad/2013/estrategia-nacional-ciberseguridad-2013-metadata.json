@@ -23,6 +23,13 @@
     "note": "Official publication (dsn.gob.es); Spanish Consolidated Intellectual Property Law (Real Decreto Legislativo 1/1996, TRLPI) Art. 13 (official legal/regulatory dispositions, royal decrees, ministerial orders in BOE, and official state acts) and Ley 37/2007 on Reuse of Public Sector Information.",
     "notes": "Official publication (dsn.gob.es); Spanish Consolidated Intellectual Property Law (Real Decreto Legislativo 1/1996, TRLPI) Art. 13 (official legal/regulatory dispositions, royal decrees, ministerial orders in BOE, and official state acts) and Ley 37/2007 on Reuse of Public Sector Information."
   },
+  "access_tier": 1,
+  "tier_evidence": {
+    "url": "https://www.lamoncloa.gob.es/documents/20131332estrategiadeciberseguridadx.pdf",
+    "checked": "2026-11-14",
+    "method": "host-suffix",
+    "note": "Classified from the URL host (government suffix gob.es); not fetched in this pass. Every recorded source URL (textUsed, retrieval_url, source) is on a government host."
+  },
   "links": {
     "wikipedia": "",
     "source": "https://www.lamoncloa.gob.es/documents/20131332estrategiadeciberseguridadx.pdf",

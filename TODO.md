@@ -118,7 +118,7 @@ License research complete (PR #15). These have explicit open licenses verified �
 
 ### Unresolved license terms (need direct contact or PDF inspection)
 
-- [ ] **ISMAP Control Criteria** (`ismap.go.jp`) — ingested 2026-07-16 (`control/ismap.go.jp/control-criteria/2022-04-01/`), no terms-of-use/copyright statement found on the portal; confirm with the ISMAP Secretariat or by inspecting the site footer before treating as publicly redistributable
+- [ ] **ISMAP Control Criteria** (`ismap.go.jp`) — ingested 2026-07-16 (`control/ismap.go.jp/control-criteria/2022-04-01/`), no terms-of-use/copyright statement found on the portal. Hosting no longer waits on this: it is Tier 1 under the 4-tier rule (public government site, PDF with no login, checked 2026-11-14, #154), so it is publicly redistributable regardless of licence. Still worth recording the actual terms in its `license` fields when found
 - [ ] **STET PSD2 API** (`stet.eu`) — inspect spec PDF footer or contact STET
 - [ ] **Kantara Consent Receipt Specification** (`kantarainitiative.org`)
 - [ ] **OIX Trust Framework methodology** (`openidentityexchange.org`)

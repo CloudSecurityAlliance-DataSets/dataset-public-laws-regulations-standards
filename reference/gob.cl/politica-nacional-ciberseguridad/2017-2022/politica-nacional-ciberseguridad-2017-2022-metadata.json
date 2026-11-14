@@ -23,6 +23,13 @@
     "note": "Government of Chile official publication (gob.cl); explicitly licensed in the document imprint under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).",
     "notes": "Government of Chile official publication (gob.cl); explicitly licensed in the document imprint under Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)."
   },
+  "access_tier": 1,
+  "tier_evidence": {
+    "url": "https://www.itu.int/en/ITU-D/Cybersecurity/Documents/National_Strategies_Repository/Chile_NCSP%20%28ENG%29.pdf",
+    "checked": "2026-11-14",
+    "method": "host-suffix",
+    "note": "Classified from the URL host (government suffix int); not fetched in this pass. Every recorded source URL (textUsed, retrieval_url, source) is on a government host."
+  },
   "links": {
     "wikipedia": "",
     "source": "https://www.itu.int/en/ITU-D/Cybersecurity/Documents/National_Strategies_Repository/Chile_NCSP%20%28ENG%29.pdf",

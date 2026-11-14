@@ -23,6 +23,13 @@
     "note": "International intergovernmental organization publication (coe.int); copyright retained by issuing organization. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
     "notes": "International intergovernmental organization publication (coe.int); copyright retained by issuing organization. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
   },
+  "access_tier": 1,
+  "tier_evidence": {
+    "url": "https://rm.coe.int/1680a49dab",
+    "checked": "2026-11-14",
+    "method": "host-suffix",
+    "note": "Classified from the URL host (government suffix int); not fetched in this pass. Every recorded source URL (textUsed, retrieval_url, source) is on a government host."
+  },
   "links": {
     "wikipedia": "",
     "source": "https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=225",

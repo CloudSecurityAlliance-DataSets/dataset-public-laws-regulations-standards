@@ -23,6 +23,13 @@
     "note": "Government of Pakistan (National Security Division, Prime Minister's Office) explicit open publication license ('This publication may be reproduced and transmitted by any means for non-commercial or commercial Reference with due attribution to the Government of Pakistan') and Pakistan Copyright Ordinance 1962 Sec. 57(1)(q).",
     "notes": "Government of Pakistan (National Security Division, Prime Minister's Office) explicit open publication license ('This publication may be reproduced and transmitted by any means for non-commercial or commercial Reference with due attribution to the Government of Pakistan') and Pakistan Copyright Ordinance 1962 Sec. 57(1)(q)."
   },
+  "access_tier": 1,
+  "tier_evidence": {
+    "url": "https://nsd.gov.pk/SiteImage/Publication/NSP%20Policy.pdf",
+    "checked": "2026-11-14",
+    "method": "host-suffix",
+    "note": "Classified from the URL host (government suffix gov.pk); not fetched in this pass. Every recorded source URL (textUsed, retrieval_url, source) is on a government host."
+  },
   "links": {
     "wikipedia": "",
     "source": "https://nsd.gov.pk/",

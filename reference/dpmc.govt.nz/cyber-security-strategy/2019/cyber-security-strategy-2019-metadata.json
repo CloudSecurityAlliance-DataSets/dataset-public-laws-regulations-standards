@@ -23,6 +23,13 @@
     "note": "Crown copyright New Zealand (dpmc.govt.nz); licensed under Creative Commons Attribution 4.0 International (NZGOAL / CC BY 4.0).",
     "notes": "Crown copyright New Zealand (dpmc.govt.nz); licensed under Creative Commons Attribution 4.0 International (NZGOAL / CC BY 4.0)."
   },
+  "access_tier": 1,
+  "tier_evidence": {
+    "url": "https://www.dpmc.govt.nz/sites/default/files/2019-07/Cyber%20Security%20Strategy.pdf",
+    "checked": "2026-11-14",
+    "method": "host-suffix",
+    "note": "Classified from the URL host (government suffix govt.nz); not fetched in this pass. Every recorded source URL (textUsed, retrieval_url, source) is on a government host."
+  },
   "links": {
     "wikipedia": "",
     "source": "https://www.dpmc.govt.nz/sites/default/files/2019-07/Cyber%20Security%20Strategy.pdf",

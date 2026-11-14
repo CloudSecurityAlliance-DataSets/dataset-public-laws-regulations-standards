@@ -21,6 +21,13 @@
     "license_text_url": "https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/",
     "notes": "Open Government Licence v3.0 — Crown copyright."
   },
+  "access_tier": 1,
+  "tier_evidence": {
+    "url": "https://assets.publishing.service.gov.uk/media/5a81914de5274a2e8ab54ae9/national_cyber_security_strategy_2016.pdf",
+    "checked": "2026-11-14",
+    "method": "host-suffix",
+    "note": "Classified from the URL host (government suffix gov.uk); not fetched in this pass. Every recorded source URL (textUsed, retrieval_url, source) is on a government host."
+  },
   "links": {
     "wikipedia": "",
     "source": "https://www.gov.uk/government/publications/national-cyber-security-strategy-2016-to-2021",

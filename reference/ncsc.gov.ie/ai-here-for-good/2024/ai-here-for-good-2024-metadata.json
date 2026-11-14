@@ -23,6 +23,13 @@
     "note": "Official publication (ncsc.gov.ie); Government of Ireland Public Sector Information (PSI) Open Data Licence (CC BY 4.0) / European Union (Open Data and Re-use of Public Sector Information) Regulations 2021 (S.I. No. 376/2021).",
     "notes": "Official publication (ncsc.gov.ie); Government of Ireland Public Sector Information (PSI) Open Data Licence (CC BY 4.0) / European Union (Open Data and Re-use of Public Sector Information) Regulations 2021 (S.I. No. 376/2021)."
   },
+  "access_tier": 1,
+  "tier_evidence": {
+    "url": "https://enterprise.gov.ie/en/publications/publication-files/national-ai-strategy-refresh-2024.pdf",
+    "checked": "2026-11-14",
+    "method": "host-suffix",
+    "note": "Classified from the URL host (government suffix gov.ie); not fetched in this pass. Every recorded source URL (textUsed, retrieval_url, source) is on a government host."
+  },
   "links": {
     "wikipedia": "",
     "source": "https://enterprise.gov.ie/en/publications/national-ai-strategy-refresh-2024.html",

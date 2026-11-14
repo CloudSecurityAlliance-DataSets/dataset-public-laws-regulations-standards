@@ -4,7 +4,7 @@ STAR-1 Conformance Requirements and Assessment Methods, December 2024. IoT produ
 
 - **SecID:** `secid:control/ipa.go.jp/jc-star`
 - **Source:** https://www.ipa.go.jp/en/security/jc-star/tekigou-kizyun-guide/label1/s6ckaf000000ggej-att/STAR-1_Conformance_Requirements_and_Assessment_Methods.pdf
-- **License:** LicenseRef-Unclear-Quasi-Public-Body (unclear) -- see `jc-star-star1-requirements-metadata.json`
+- **License:** LicenseRef-Unclear-Quasi-Public-Body (unclear) -- see `jc-star-metadata.json`
 
 **Status:** STAR-1 tier fully acquired. STAR-2/3/4 requirement documents not yet acquired.
 

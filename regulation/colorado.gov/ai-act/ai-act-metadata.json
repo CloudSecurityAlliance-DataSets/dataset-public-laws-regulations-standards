@@ -20,6 +20,13 @@
     "license_text_url": "https://www.copyright.gov/title17/92chap1.html#105",
     "notes": "US state statutes are public-domain government works and may be freely redistributed."
   },
+  "access_tier": 1,
+  "tier_evidence": {
+    "url": "https://leg.colorado.gov/bills/sb24-205",
+    "checked": "2026-11-14",
+    "method": "host-suffix",
+    "note": "Classified from the URL host (government suffix gov); not fetched in this pass. Every recorded source URL (textUsed, retrieval_url, source) is on a government host."
+  },
   "links": {
     "wikipedia": "https://en.wikipedia.org/wiki/Colorado_Artificial_Intelligence_Act",
     "source": "https://leg.colorado.gov/bills/sb24-205",

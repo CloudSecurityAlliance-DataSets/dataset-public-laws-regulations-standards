@@ -12,9 +12,9 @@
     "spdx": "LicenseRef-Publisher-Restricted",
     "redistribution": "prohibited",
     "derivatives": "prohibited_without_license",
-    "publicly_redistributable": true,
+    "publicly_redistributable": false,
     "license_text_url": "https://uidai.gov.in/en/ecosystem/authentication-devices-documents/about-authentication.html",
-    "notes": "Free download with UIDAI / Government of India copyright. Bulk redistribution terms unclear — flag for license verification. Public-release government / central bank publication (Tier 1 of Kurt Seifried 2026-11-09 4-tier hosting rule: public government website content goes into the public dataset repository regardless of license)."
+    "notes": "Free download with UIDAI / Government of India copyright. Bulk redistribution terms unclear — flag for license verification. Corrected 2026-11-14 (dataset-public-laws-regulations-standards#154): not marked publicly redistributable, because the access tier of this document is not established. This stub's own records describe restricted or unverified access (\"awaiting CSA's licensed copy\", \"members-only\") and no document was acquired, so the earlier Tier 1 hosting statement here had no evidence behind it. Establish the tier from the document itself before acquiring it: Tier 1 or 2 would allow public hosting, Tier 3 needs Kurt's approval, Tier 4 is never mirrored publicly."
   },
   "links": {
     "source": "https://uidai.gov.in/en/ecosystem/authentication-devices-documents/about-authentication.html",

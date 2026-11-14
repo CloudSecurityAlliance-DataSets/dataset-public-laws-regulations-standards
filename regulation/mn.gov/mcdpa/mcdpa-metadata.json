@@ -23,6 +23,13 @@
     "note": "United States Government work (17 U.S.C. § 105); in the public domain worldwide.",
     "notes": "United States Government work (17 U.S.C. § 105); in the public domain worldwide."
   },
+  "access_tier": 1,
+  "tier_evidence": {
+    "url": "https://www.revisor.mn.gov/laws/2024/0/Session+Law/Chapter/121/",
+    "checked": "2026-11-14",
+    "method": "host-suffix",
+    "note": "Classified from the URL host (government suffix gov); not fetched in this pass. Every recorded source URL (textUsed, retrieval_url, source) is on a government host."
+  },
   "links": {
     "wikipedia": "",
     "source": "https://www.revisor.mn.gov/bills/93/2024/0/HF/4757/",

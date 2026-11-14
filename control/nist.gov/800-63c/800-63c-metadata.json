@@ -20,6 +20,13 @@
     "license_text_url": "https://www.nist.gov/director/licensing",
     "notes": "Work of NIST is in the US public domain (17 USC \u00a7105)."
   },
+  "access_tier": 1,
+  "tier_evidence": {
+    "url": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-63c.pdf",
+    "checked": "2026-11-14",
+    "method": "host-suffix",
+    "note": "Classified from the URL host (government suffix gov); not fetched in this pass. Every recorded source URL (textUsed, retrieval_url, source) is on a government host."
+  },
   "links": {
     "source": "https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-63c.pdf",
     "csaLocation": ""

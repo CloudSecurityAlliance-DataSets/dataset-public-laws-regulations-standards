@@ -17,9 +17,16 @@
     "spdx": "NOASSERTION",
     "redistribution": "unknown",
     "derivatives": "unknown",
-    "publicly_redistributable": false,
+    "publicly_redistributable": true,
     "license_text_url": "",
-    "notes": "BC government work\n\nPhase 4c verification: every gov.bc.ca page refused connection from automated browsers (net::ERR_EMPTY_RESPONSE). Per web search, OGL-BC-2.0 covers BC Data Catalogue items, but general government website content is 'access only' by default. License remains NOASSERTION pending manual verification."
+    "notes": "BC government work\n\nPhase 4c verification: every gov.bc.ca page refused connection from automated browsers (net::ERR_EMPTY_RESPONSE). Per web search, OGL-BC-2.0 covers BC Data Catalogue items, but general government website content is 'access only' by default. License remains NOASSERTION pending manual verification.\n\nHosted publicly under the 4-tier hosting rule regardless of licence: the glossary was published on the public BC government website (www2.gov.bc.ca) with no login (Tier 1). On 2026-11-14 the live page returned 404; the extraction comes from the Internet Archive's 2025-04-03 snapshot, which reads with no login (see `tier_evidence`)."
+  },
+  "access_tier": 1,
+  "tier_evidence": {
+    "url": "https://web.archive.org/web/20250403153522/https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/information-security/information-security-awareness/information-security-glossary",
+    "checked": "2026-11-14",
+    "method": "browser",
+    "note": "The live www2.gov.bc.ca page returned 404 in a browser; the Internet Archive copy of that government page shows the glossary terms with no login."
   },
   "links": {
     "wikipedia": "",
@@ -39,7 +46,7 @@
   "current_extraction": {
     "s3_timestamp": "2026-05-22T02:14:32Z",
     "tool": "playwright headless browser (Internet Archive snapshot) + extract_infosec_glossary.py",
-    "retrieval_url": "https://web.archive.org/web/20250403153522/https://www2.gov.bc.ca/.../information-security-glossary",
+    "retrieval_url": "https://web.archive.org/web/20250403153522/https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/information-security/information-security-awareness/information-security-glossary",
     "notes": "Acquired and structured 249 terms from the BC Government Information Security Glossary. The live www2.gov.bc.ca URL returned empty responses (likely upstream filtering or transient unavailability), so the 2025-04-03 Internet Archive snapshot was used. License NOASSERTION on source; treating as public-information government work per user direction.",
     "term_count": 249
   },

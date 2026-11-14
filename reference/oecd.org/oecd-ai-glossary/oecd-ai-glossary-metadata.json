@@ -17,9 +17,16 @@
     "spdx": "LicenseRef-OECD-Terms-and-Conditions",
     "redistribution": "permitted_with_attribution",
     "derivatives": "unknown",
-    "publicly_redistributable": false,
+    "publicly_redistributable": true,
     "license_text_url": "http://www.oecd.org/termsandconditions",
-    "notes": "OECD publications are governed by the OECD Terms and Conditions (http://www.oecd.org/termsandconditions). Working papers like this AI paper are typically available under terms permitting copying and reproduction with attribution. \u00a9 OECD 2024."
+    "notes": "OECD publications are governed by the OECD Terms and Conditions (http://www.oecd.org/termsandconditions). Working papers like this AI paper are typically available under terms permitting copying and reproduction with attribution. \u00a9 OECD 2024. Hosted publicly under the 4-tier hosting rule: the OECD is an intergovernmental organisation and the paper's PDF downloads from oecd.org with no login (Tier 1; see `tier_evidence`)."
+  },
+  "access_tier": 1,
+  "tier_evidence": {
+    "url": "https://www.oecd.org/content/dam/oecd/en/publications/reports/2024/05/defining-ai-incidents-and-related-terms_88d089ec/d1a8d965-en.pdf",
+    "checked": "2026-11-14",
+    "method": "fetch",
+    "note": "Direct PDF download from oecd.org, no login (HTTP 206, application/pdf)."
   },
   "links": {
     "wikipedia": "",

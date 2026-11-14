@@ -23,6 +23,13 @@
     "note": "Italian Government open publication (agid.gov.it); licensed under CC BY 4.0 (CAD Art. 52 / IODL 2.0).",
     "notes": "Italian Government open publication (agid.gov.it); licensed under CC BY 4.0 (CAD Art. 52 / IODL 2.0)."
   },
+  "access_tier": 1,
+  "tier_evidence": {
+    "url": "https://assets.innovazione.gov.it/1637777513-strategic-program-aiweb.pdf",
+    "checked": "2026-11-14",
+    "method": "host-suffix",
+    "note": "Classified from the URL host (government suffix gov.it); not fetched in this pass. Every recorded source URL (textUsed, retrieval_url, source) is on a government host."
+  },
   "links": {
     "wikipedia": "",
     "source": "https://assets.innovazione.gov.it/1637777513-strategic-program-aiweb.pdf",

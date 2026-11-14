@@ -23,6 +23,13 @@
     "note": "United States Government work (17 U.S.C. § 105); in the public domain worldwide.",
     "notes": "United States Government work (17 U.S.C. § 105); in the public domain worldwide."
   },
+  "access_tier": 1,
+  "tier_evidence": {
+    "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1546/Introduced",
+    "checked": "2026-11-14",
+    "method": "host-suffix",
+    "note": "Classified from the URL host (government suffix gov); not fetched in this pass. Every recorded source URL (textUsed, retrieval_url, source) is on a government host."
+  },
   "links": {
     "wikipedia": "",
     "source": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1546",

@@ -14,12 +14,19 @@
   "relationToCloudSecurity": "Direct — Cloudflare is a CDN/security platform; product-specific terminology applies to cloud-security contexts.",
   "relationToAISecurity": "Varies by product; AI Gateway / Workers AI / AI Crawl Control / AI Search entries are AI-relevant by definition.",
   "license": {
-    "spdx": "LicenseRef-Vendor-Copyright",
-    "redistribution": "not_permitted_without_authorization",
-    "derivatives": "not_permitted_without_authorization",
+    "spdx": "NOASSERTION",
+    "redistribution": "unclear",
+    "derivatives": "unclear",
     "publicly_redistributable": true,
     "license_text_url": "",
-    "notes": "Cloudflare, Inc. copyright. Internal CSA use only — extracted derivatives are not redistributable. Publicly accessible web resource with no login required (Tier 2 of Kurt Seifried 2026-11-09 4-tier hosting rule: open-web no-login content is mirrored in the public dataset repository with attribution)."
+    "notes": "Licence not established for this documentation. Cloudflare's licence page (https://developers.cloudflare.com/fundamentals/reference/policies-compliances/licenses/, checked 2026-11-14) says the \"Cloudflare Workers documentation website\" is licensed under CC BY-SA 4.0, but this glossary comes from the waiting-room documentation (https://developers.cloudflare.com/waiting-room/glossary/), which that statement does not clearly cover. The LICENSE file of the cloudflare-docs GitHub repository (https://github.com/cloudflare/cloudflare-docs/blob/production/LICENSE) says CC BY 4.0 instead, so Cloudflare's two statements conflict. Hosting here does not rest on either licence: Publicly accessible web resource with no login required (Tier 2 of Kurt Seifried 2026-11-09 4-tier hosting rule: open-web no-login content is mirrored in the public dataset repository with attribution)."
+  },
+  "access_tier": 2,
+  "tier_evidence": {
+    "url": "https://developers.cloudflare.com/waiting-room/glossary/index.md",
+    "checked": "2026-11-14",
+    "method": "fetch",
+    "note": "Glossary page reads with no login; the extracted term \"SEO crawlers\" appears in it."
   },
   "links": {
     "wikipedia": "",

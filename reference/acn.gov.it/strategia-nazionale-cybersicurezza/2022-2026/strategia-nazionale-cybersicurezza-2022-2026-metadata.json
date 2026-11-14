@@ -23,6 +23,13 @@
     "note": "Italian Government open publication (acn.gov.it); licensed under CC BY 4.0 (CAD Art. 52 / IODL 2.0).",
     "notes": "Italian Government open publication (acn.gov.it); licensed under CC BY 4.0 (CAD Art. 52 / IODL 2.0)."
   },
+  "access_tier": 1,
+  "tier_evidence": {
+    "url": "https://www.acn.gov.it/portale/documents/20119/531899/ACN_EN_Strategy.pdf/4ccff3e7-b88f-e5e2-d429-01c982994e73?t=1719931787736",
+    "checked": "2026-11-14",
+    "method": "host-suffix",
+    "note": "Classified from the URL host (government suffix gov.it); not fetched in this pass. Every recorded source URL (textUsed, retrieval_url, source) is on a government host."
+  },
   "links": {
     "wikipedia": "",
     "source": "https://www.acn.gov.it/portale/en/strategia-nazionale-di-cybersicurezza",

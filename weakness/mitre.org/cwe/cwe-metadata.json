@@ -1,0 +1,36 @@
+{
+  "secid": "secid:weakness/mitre.org/cwe",
+  "name": "Common Weakness Enumeration",
+  "acronym": "CWE",
+  "version": "",
+  "owner": "MITRE Corporation (with US-CERT/CISA sponsorship)",
+  "type": "Taxonomy",
+  "description": "Source-level record for CWE. The versioned editions live in their own directories (for example 4.19.1/). This record governs the CWE material kept at source level: the derived data under scripts-extra/output/ (CWE-Basic-Data.csv restates CWE IDs, names and descriptions; CWE-AI-Classifications.* and its report add CSA's AI-relevance classification) and this README. CSA's own analysis notes (analysis/) and tooling (scripts/, scripts-extra/) are listed in the tier gate's TYPE_ROOT_INFRASTRUCTURE and pinned instead.",
+  "license": {
+    "spdx": "LicenseRef-MITRE-CWE-Terms-of-Use",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
+    "publicly_redistributable": true,
+    "license_text_url": "https://cwe.mitre.org/about/termsofuse.html",
+    "notes": "CWE Terms of Use (checked 2026-11-14): \"CWE™ is free to use by any organization or individual for any research, development, and/or commercial purposes\"; MITRE grants a non-exclusive, royalty-free licence, on the condition that copies reproduce MITRE's copyright designation and the licence. The classification columns in CWE-AI-Classifications.* are CSA's own work."
+  },
+  "access_tier": 2,
+  "tier_evidence": {
+    "url": "https://cwe.mitre.org/data/downloads.html",
+    "checked": "2026-11-14",
+    "method": "fetch",
+    "note": "The CWE downloads page and Terms of Use read with no login (HTTP 200), and the CWE CSV and XML downloads are linked from it. mitre.org is not a government domain, so Tier 2."
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Common_Weakness_Enumeration",
+    "source": "https://cwe.mitre.org/",
+    "textUsed": "https://cwe.mitre.org/data/downloads.html",
+    "csaLocation": ""
+  },
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "taxonomy",
+    "notes": "Source-level record; the editions are the version directories."
+  },
+  "notes": "Added 2026-11-14 (dataset-public-laws-regulations-standards#154) so that the derived CWE data kept at source level has a governing record."
+}
