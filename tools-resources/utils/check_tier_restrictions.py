@@ -21,10 +21,18 @@ publisher domains listed in RESTRICTED_DOMAINS: every tracked file beneath one o
 domain directories must match a reviewed path + SHA-256 fingerprint, whether it is text,
 data or an image, and whether it was committed by mistake or by an agent acting on its
 own. Under ANY publisher domain, check 4 pins every file governed by a record (or marked
-by a sidecar) that is not plainly public, so restricted text cannot be stuffed into a
-restrictive stub anywhere either. What it does NOT cover: restricted text placed under a
-record that falsely says it is public (outside RESTRICTED_DOMAINS), and the listed
-infrastructure paths outside the type roots (check 5); those still depend on review. The guarantee also assumes changes to this gate are
+by a sidecar) that is not plainly public, and every listed tooling file inside the type
+roots, so restricted text cannot be stuffed into a restrictive stub or a tooling file
+anywhere either. Outside the type roots (check 5), files whose path names a restricted
+publisher or document, and JSON that declares a restriction, must be pinned.
+What it does NOT cover, and leaves to review:
+  - restricted text placed under a record that falsely says it is public (outside
+    RESTRICTED_DOMAINS): the gate trusts a record that says it is public;
+  - restricted text pasted into an infrastructure file outside the type roots (docs/,
+    plans/, resumption-summaries/, tools-resources/, root *.md) whose path names no
+    restricted publisher or document and which is not JSON declaring a restriction:
+    those paths change constantly and are not pinned;
+  - CSA-authored text deliberately pasted into an unrelated infrastructure file. The guarantee also assumes changes to this gate are
 themselves reviewed (below). It does this mechanically. It cannot
 judge whether an approval is authentic.
 
@@ -98,17 +106,18 @@ What it checks (blocking)
    g. `license` must be an object and `license.publicly_redistributable` a boolean,
       present: a missing value or the string "false" fails.
    h. Every tracked file under a type root is governed or is listed exactly in
-      TYPE_ROOT_INFRASTRUCTURE (CSA's own tooling and notes); a `*-metadata.json` that is
-      neither canonical edition metadata nor a sidecar fails.
+      TYPE_ROOT_INFRASTRUCTURE (CSA's own tooling and notes). Listed files are exempt
+      from governance and pinned (j). A `*-metadata.json` that is neither canonical
+      edition metadata nor a sidecar fails.
    i. Sidecars (`<file>-file-metadata.json`) only ever restrict. Each must be a JSON
       object naming a tracked file in its directory (or a gitignored original, see
       UNTRACKED_ORIGINAL_SUFFIXES), with a matching `filename` if it gives one. One whose
       `license` or `license_override` says publicly_redistributable false, or whose
       access_tier is 3 or 4, marks its file not public: that file may not be tracked here,
       and the sidecar is pinned (j). A sidecar saying true never loosens its record.
-   j. Pinned only: every file governed by a restrictive record, the record itself, and
-      every file a restrictive sidecar marks, must match a reviewed path + SHA-256 in
-      FINGERPRINTS, whatever the publisher domain. This, not the caps, is what stops
+   j. Pinned only: every file governed by a restrictive record, the record itself, every
+      file a restrictive sidecar marks, and every TYPE_ROOT_INFRASTRUCTURE file must
+      match a reviewed path + SHA-256 in FINGERPRINTS, whatever the publisher domain. This, not the caps, is what stops
       restricted text being stuffed into stubs or chunked across new edition directories.
    Check 4 makes the metadata agree with itself and with the rule. It cannot tell
    whether a recorded tier, or a record that says it is public, is true: a `fetch` or
@@ -116,7 +125,15 @@ What it checks (blocking)
    so a reviewer can re-check it.
 5. Outside the SecID type roots, tracked files may only be root files matching
    ROOT_FILE_PATTERNS or sit under INFRASTRUCTURE_PREFIXES, and no `*-metadata.json`
-   may sit there at all.
+   may sit there at all. Two tripwires apply there (these paths are not pinned
+   wholesale, because they change constantly):
+   a. a file whose path names a restricted publisher (the first label of each
+      RESTRICTED_DOMAINS entry, e.g. `iso`, `pcisecuritystandards`, `aicpa-cima`) or a
+      known restricted document (RESTRICTED_DOCUMENT_STEMS: `pci-dss`, `hitrust`,
+      `cobit`, `iso-27001`, ...) must be pinned. Matching is on whole path words, so
+      `isolation.md` does not trip `iso`;
+   b. a JSON file that anywhere declares `publicly_redistributable: false` or an
+      `access_tier` of 3 or 4 must be pinned.
 
 What it reports (non-blocking)
 ------------------------------
@@ -272,6 +289,14 @@ GOV_HOST_SUFFIXES: tuple[str, ...] = (
 INFRASTRUCTURE_PREFIXES: tuple[str, ...] = (".github/", "docs/", "plans/", "resumption-summaries/", "tools-resources/")
 ROOT_FILE_PATTERNS: tuple[str, ...] = ("*.md", "LICENSE", ".gitignore", ".gitattributes")
 
+# Check 5a: names of known restricted documents. A file in an infrastructure path whose
+# path contains one of these word sequences, or a restricted publisher's domain label,
+# must be pinned in FINGERPRINTS. Adding a stem tightens the gate.
+RESTRICTED_DOCUMENT_STEMS: tuple[tuple[str, ...], ...] = (
+    ("pci", "dss"), ("hitrust",), ("hitrust", "csf"), ("cobit",), ("iso", "27001"), ("iso", "27002"),
+    ("tsc", "2017"), ("cis", "controls"),
+)
+
 # Gitignored source originals (.gitignore) that a `<file>-file-metadata.json` sidecar may
 # describe although they are not tracked.
 UNTRACKED_ORIGINAL_SUFFIXES: tuple[str, ...] = (".pdf", ".xlsx", ".docx", ".zip", ".gz", ".xz")
@@ -310,17 +335,18 @@ ALLOWLIST: list[dict] = [
     },
 ]
 
-# Check 4h: files inside a SecID type root that no edition metadata governs, and that are
-# CSA's own tooling, analysis or orientation notes rather than a dataset's content (the
-# AICM and CCM figure checks and crosswalk builders, the CWE AI-analysis kit, namespace-
-# level extractors and READMEs). Exact paths, not prefixes: a new file here is a gate
-# change. Any other ungoverned file under a type root fails. Reviewed for #154 on
-# 2026-11-14 (61 files).
+# Check 4h: files inside a SecID type root that are CSA's own tooling, analysis or
+# orientation notes rather than a dataset's content (the AICM crosswalk builders and the
+# AICM and CCM figure checks, the CWE AI-analysis code, tests and notes, namespace-level
+# extractors, link-list READMEs). They are exempt from edition governance, and every one
+# is pinned in FINGERPRINTS (check 4j), so replacing or appending to one fails until a
+# reviewed gate change. Exact paths, not prefixes: a new file here is a gate change. Any
+# other ungoverned file under a type root fails. Dataset-like files that were listed in
+# round 3 (the CWE derived data, the AICM crosswalk CSVs and notes) are governed by the
+# source-level records weakness/mitre.org/cwe/cwe-metadata.json and
+# control/cloudsecurityalliance.org/aicm/aicm-metadata.json instead. Reviewed for #154 on
+# 2026-11-14 (52 files).
 TYPE_ROOT_INFRASTRUCTURE: frozenset[str] = frozenset({
-    'control/cloudsecurityalliance.org/aicm/README.md',
-    'control/cloudsecurityalliance.org/aicm/VERSIONING.md',
-    'control/cloudsecurityalliance.org/aicm/crosswalks/aicm-1.0.3-to-1.1.0-crosswalk.csv',
-    'control/cloudsecurityalliance.org/aicm/crosswalks/aicm-caiq-1.0.2-to-1.1.0-crosswalk.csv',
     'control/cloudsecurityalliance.org/aicm/crosswalks/build_caiq_changelog.py',
     'control/cloudsecurityalliance.org/aicm/crosswalks/build_changelog.py',
     'control/cloudsecurityalliance.org/aicm/crosswalks/build_crosswalk.py',
@@ -344,7 +370,6 @@ TYPE_ROOT_INFRASTRUCTURE: frozenset[str] = frozenset({
     'regulation/gov.uk/extract_uk_legislation.py',
     'regulation/govinfo.gov/extract_us_plaw.py',
     'regulation/us-state-regulations-overview.md',
-    'weakness/mitre.org/cwe/README.md',
     'weakness/mitre.org/cwe/analysis/AI-ATTACK-SURFACE-MODEL.md',
     'weakness/mitre.org/cwe/analysis/CVE-AI-VULNERABILITY-HUNTING.md',
     'weakness/mitre.org/cwe/analysis/CWE-AI-METHODOLOGY.md',
@@ -362,10 +387,6 @@ TYPE_ROOT_INFRASTRUCTURE: frozenset[str] = frozenset({
     'weakness/mitre.org/cwe/scripts-extra/cwe_ai_analysis/loaders.py',
     'weakness/mitre.org/cwe/scripts-extra/cwe_ai_analysis/models.py',
     'weakness/mitre.org/cwe/scripts-extra/cwe_ai_analysis/utils.py',
-    'weakness/mitre.org/cwe/scripts-extra/output/CWE-AI-Classifications-Report.md',
-    'weakness/mitre.org/cwe/scripts-extra/output/CWE-AI-Classifications.csv',
-    'weakness/mitre.org/cwe/scripts-extra/output/CWE-AI-Classifications.json',
-    'weakness/mitre.org/cwe/scripts-extra/output/CWE-Basic-Data.csv',
     'weakness/mitre.org/cwe/scripts-extra/pyproject.toml',
     'weakness/mitre.org/cwe/scripts-extra/requirements-dev.txt',
     'weakness/mitre.org/cwe/scripts-extra/requirements.txt',
@@ -767,6 +788,61 @@ FINGERPRINTS: dict[str, str] = {
     "reference/xonasystems.com/cybersecurity-glossary/cybersecurity-glossary-metadata.json": "6506b9de2a8a27e0098f48a1c19a68dda29626dfbb1963a06c854c4f75bf81a5",
     "reference/zohocorp.com/eprotect-security-glossary/eprotect-security-glossary-metadata.json": "e9e166188a34fd8e548fab7e8db6dfffcae6815ed2bdf772d4774104b4823f91",
     "reference/zscaler.com/security-terms-glossary/security-terms-glossary-metadata.json": "c7e7efed0f2bb18bfce6c283395e341b10b492f10992071b35e3d361b59ec2be",
+    # Check 4h/4j, reviewed for #154 on 2026-11-14: the 52 TYPE_ROOT_INFRASTRUCTURE files (CSA tooling, tests,
+    # configs, link-list READMEs and analysis notes; 402,663 bytes in all, no third-party copyright or licence
+    # notice in any of them). Replacing or appending to one fails until its line here is updated in review.
+    "control/cloudsecurityalliance.org/aicm/crosswalks/build_caiq_changelog.py": "f364896b2ad9585ca7b5725ddfcabd07cd45910a0e78f95d85ac5f38ae17a488",
+    "control/cloudsecurityalliance.org/aicm/crosswalks/build_changelog.py": "a270834266f277a96a8b2be936f9e6e2a797f77835f6dd467ba5eb33f7ee6ea0",
+    "control/cloudsecurityalliance.org/aicm/crosswalks/build_crosswalk.py": "9bb08a5e05edac9d1a67e3864bf3ee7b65ff7b949f7de67cf240dded32b16242",
+    "control/cloudsecurityalliance.org/aicm/crosswalks/check_figures.py": "52f91e2b2805feb4a66c29dbde5b95bafba84b5ee0516625cdeeb557831c10b2",
+    "control/cloudsecurityalliance.org/ccm/README.md": "cb14d7916eb84c1206e3270bcea596fb248b34fb4e0fd929dbf1585b83b25f19",
+    "control/cloudsecurityalliance.org/ccm/check_figures.py": "b41d2b2ddbe12f0d0818cf25aa2ce1fec79feaf709c01ab8888b8cd0a69e3dcd",
+    "reference/amazon.com/security-guidance/AWS/README.md": "1b312271fe7212c2770e90233a5ea2c8ccb3daf72c036f6b089c0dcc27561508",
+    "reference/amazon.com/security-guidance/AWS/convert-html-to-markdown-in-place.py": "8c867e52a33a00c0ac7c1463722841767c78fe334338357a226ae756bfb3082a",
+    "reference/amazon.com/security-guidance/AWS/get-all-sitemaps-secur-files.sh": "692c94d683b6d1510e0c4e60ce989bdcf876ac4df4e1ae76225982c7f2e9a73f",
+    "reference/anthropic.com/model-cards/README.md": "447a6050888653bbe2f9dbac67ffbf15c5b1a42d16e4139907c1e8e219a07a99",
+    "reference/github.com/advisory-database/README.md": "6ded227753701a472d450cc8e599c0d6a9c3d0d7ce7b33023894f2a553e92c08",
+    "reference/google.com/model-cards/README.md": "73b78557c9e0bea6ba0b652b599154edf3510567ad151b74394042d6c8b1a818",
+    "reference/google.com/security-guidance/GCP/README.md": "8421bd5894d5dfa2536778a0990e8fd1cd47a0777a78955d465d253456653dbc",
+    "reference/google.com/security-guidance/GCP/convert-all-google-files-to-markdown-in-place.py": "3995590c8dea21caed8a16231f4e02afebc02fd71e044b4cb7b7c697e308ea17",
+    "reference/google.com/security-guidance/GCP/create-file-blocks-for-chatbot.sh": "2cff54db9b503d84a2896f557f948fb7cb945d910de00c15e52da318e13205d2",
+    "reference/google.com/security-guidance/GCP/get-all-sitemaps-secur-files.sh": "0fdb720eb5b931777db2eb78cc5da7740eab753620f37206a768a8c0be55dc03",
+    "reference/microsoft.com/security-guidance/Azure/README.md": "55175bdd796ee3bf269951bedc359a396526a712f43d841b661edb75a14c44f2",
+    "reference/openai.com/security-guidance/Economic-Blueprint/README.md": "25904b31c90ba605f5367573f87934894f7a76db663abfa43920aea6f931b403",
+    "reference/openai.com/system-cards/README.md": "67c8b48d6ed3185aae1de67795ec701d7546d24028c5f4f63523d3630947726a",
+    "regulation/europa.eu/extract_eu_regulation.py": "90a4759b80caafdfaa0a0dc1a35dad893289c45b5d39ec9498c0a6785ea4a4e7",
+    "regulation/gov.uk/extract_uk_legislation.py": "9a74431ef4a1cbe4e1ecb01b62b359bddbd9564caf40a4f9b3752faeaa3dbe66",
+    "regulation/govinfo.gov/extract_us_plaw.py": "ddced0f1ba933b2db3680e08e5f99c7bb5b516d5b9968140779a9902d87b4c26",
+    "regulation/us-state-regulations-overview.md": "ed62df7b7251bde7e9b2e9d1ccc4865a64c6da8ae2060e625eb9defcd1ebd84f",
+    "weakness/mitre.org/cwe/analysis/AI-ATTACK-SURFACE-MODEL.md": "15b8cb1fde0102e9bb56ce0ae80469e815e66b11da31dc19c26ec1be05c839d6",
+    "weakness/mitre.org/cwe/analysis/CVE-AI-VULNERABILITY-HUNTING.md": "0751b883bf67b0f57515f7ad0941a0f5e1bb3132555b64a0eaa0380c5909f5c2",
+    "weakness/mitre.org/cwe/analysis/CWE-AI-METHODOLOGY.md": "6600eea9f2d6d11edf92a996e1d593b4a7b26b5f484d69f87a0f4f0eb6df7a23",
+    "weakness/mitre.org/cwe/analysis/CWE-AI-RELEVANCE-REPORT.md": "ddc2e4db4214c66d184815934da99532dca3832d1500a07eb672825208f1f240",
+    "weakness/mitre.org/cwe/analysis/CWE-PRIMER.md": "0cb501c593955c922e660f82aedca90028a52f7d51a5ea53c68663c1c0bb8771",
+    "weakness/mitre.org/cwe/analysis/USAGE.md": "d72ff58af46e0031a92c0f2b8dd3d7c8fff6ace69cdaa431e832bdb4d26b752e",
+    "weakness/mitre.org/cwe/scripts-extra/.gitignore": "3edda20e481c85348a38ac003c7c59717cdb8f80cf1e3bcc8710f9ae0ffa5946",
+    "weakness/mitre.org/cwe/scripts-extra/README.md": "3e8444009d51f06e6032f962b19acf2e6ca4713c5f34796df577918a3677df65",
+    "weakness/mitre.org/cwe/scripts-extra/cwe_ai_analysis/__init__.py": "0034c697db04dcbf7ae51f681084d685f7da8cbe783d3a4b8addcccd88eaf472",
+    "weakness/mitre.org/cwe/scripts-extra/cwe_ai_analysis/classifiers.py": "820f057086e026e1ae0b8d8e6c386a4894ec3e9fe07e34654130a5b3c9607b5b",
+    "weakness/mitre.org/cwe/scripts-extra/cwe_ai_analysis/cli.py": "d2dc419fa9c54d30b484e75f31270263420240c2f609bb002262878f411283ab",
+    "weakness/mitre.org/cwe/scripts-extra/cwe_ai_analysis/config.py": "f253c783bc29e253044c472bc543a57ddc5ffa758494f38b2dfffd02626060da",
+    "weakness/mitre.org/cwe/scripts-extra/cwe_ai_analysis/exporters.py": "07de490469c51cd160d2efe3b83d92c0da9ad00cdde5969c269da1970c37521b",
+    "weakness/mitre.org/cwe/scripts-extra/cwe_ai_analysis/extractors.py": "0beb725705df89854c88618221e2026e0196c9c5d3587ffb1c8f39a0ca4a005f",
+    "weakness/mitre.org/cwe/scripts-extra/cwe_ai_analysis/loaders.py": "13bb02f66cca59de920241410ef566bc30730dbc05b1b0b2af8346f777efd51e",
+    "weakness/mitre.org/cwe/scripts-extra/cwe_ai_analysis/models.py": "364ac1a9baf8a04c4966a493cd97e944cfc3b6fcc83b1df4c41e393d2b1d502b",
+    "weakness/mitre.org/cwe/scripts-extra/cwe_ai_analysis/utils.py": "8eb5e9351d3c53eac4927a14777ee367a84af507fe8864681cbe96d32e1e9041",
+    "weakness/mitre.org/cwe/scripts-extra/pyproject.toml": "23e283546b02c4ed5ecd9437b591206dbd95329876a2d86e7e4a7f995bb41a14",
+    "weakness/mitre.org/cwe/scripts-extra/requirements-dev.txt": "5aadcefb862db0d849e4425ff491831f4410e69fd1615a2dc77f9528b4f2cb99",
+    "weakness/mitre.org/cwe/scripts-extra/requirements.txt": "8a773a1d3be99bb845229d7d3af3dcf3cdaf312bc55f4a6562b52b14f3dc70e5",
+    "weakness/mitre.org/cwe/scripts-extra/tests/__init__.py": "2fdf945669eaf74b173cd70732fe378b5340e9259d819469fc5f5b50ba0e4c5c",
+    "weakness/mitre.org/cwe/scripts-extra/tests/conftest.py": "21a1a3380e151f171939256de7fff664e2a45a7ede61077fdd8074b98fe7a1fd",
+    "weakness/mitre.org/cwe/scripts-extra/tests/test_classifiers.py": "07a2841404352d67c556286006440714b008d543fb38f2a6682f7c6c4128716c",
+    "weakness/mitre.org/cwe/scripts-extra/tests/test_extractors.py": "5f4760c28f45df6df6ff4ecc96fd81fe4c86b05536fae35e3667efd95f258374",
+    "weakness/mitre.org/cwe/scripts-extra/tests/test_loaders.py": "70b8ff4b047b93ba50f0d73b9c08cd568a3c2376fb267451e9858b4ae28283f6",
+    "weakness/mitre.org/cwe/scripts-extra/tests/test_models.py": "1bcd4e4834fa836171162d1f4d847e9d2aa88822e25ed39caa4baa9a778006a7",
+    "weakness/mitre.org/cwe/scripts/download-cwe-documents.sh": "be08bff68459c2762a4d51a1443585670ff87a1df429013578a3eb8d3f3f031d",
+    "weakness/mitre.org/cwe/scripts/download-cwe-items.sh": "b3b1a350fcba68feb1ee97324a72a59588eb06735ca071b9a7d1d1bcd145c20a",
+    "weakness/mitre.org/cwe/scripts/html_to_markdown.py": "a2890c47f20016e59a5d9b25346a9b6814bbb5bc2dbec0f5891c69c476b524dd",
 }
 
 
@@ -961,9 +1037,9 @@ def validate_fingerprints(fingerprints: dict) -> list[str]:
         if (not isinstance(path, str) or path != PurePosixPath(path).as_posix() or ".." in PurePosixPath(path).parts
                 or path.startswith("/")):
             problems.append(f"FINGERPRINTS: bad path {path!r}")
-        elif restricted_hit(path) is None and not in_type_root(path):
-            problems.append(f"FINGERPRINTS: {path} is neither under a restricted publisher domain nor in a SecID "
-                            "type root")
+        elif restricted_hit(path) is None and not in_type_root(path) and not is_infrastructure_path(path):
+            problems.append(f"FINGERPRINTS: {path} is not under a restricted publisher domain, in a SecID type "
+                            "root or in a listed infrastructure path")
         if not isinstance(digest, str) or not _SHA256_RE.match(digest):
             problems.append(f"FINGERPRINTS: {path} needs a lower-case 64-hex SHA-256, got {digest!r}")
     return problems
@@ -1136,6 +1212,50 @@ def in_type_root(rel: str) -> bool:
     return len(parts) >= 2 and parts[0] in SECID_TYPES
 
 
+def is_infrastructure_path(rel: str) -> bool:
+    """Check 5: a path outside the type roots where tracked files may live."""
+    p = PurePosixPath(rel)
+    if in_type_root(rel):
+        return False
+    return ((len(p.parts) == 1 and any(fnmatch.fnmatchcase(p.name, pat) for pat in ROOT_FILE_PATTERNS))
+            or rel.startswith(INFRASTRUCTURE_PREFIXES))
+
+
+def restricted_path_tokens() -> set[tuple[str, ...]]:
+    """Word sequences that name a restricted publisher (the first label of each
+    RESTRICTED_DOMAINS entry, e.g. ("iso",), ("aicpa", "cima")) or a known restricted
+    document (RESTRICTED_DOCUMENT_STEMS)."""
+    tokens = {tuple(d.rsplit(".", 1)[0].split("-")) for d in RESTRICTED_DOMAINS}
+    return tokens | set(RESTRICTED_DOCUMENT_STEMS)
+
+
+def tripwire_token(rel: str) -> tuple[str, ...] | None:
+    """Check 5a: the restricted publisher or document a path names, matched on whole
+    words of the path (split at anything not a letter or digit), so `iso-27001.md` and
+    `docs/iso/x.md` match `iso` while `isolation.md` does not."""
+    words = [w for w in re.split(r"[^a-z0-9]+", rel.lower()) if w]
+    for tok in sorted(restricted_path_tokens(), key=lambda t: (-len(t), t)):
+        n = len(tok)
+        if any(tuple(words[i:i + n]) == tok for i in range(len(words) - n + 1)):
+            return tok
+    return None
+
+
+def declares_restriction(obj) -> bool:
+    """Check 5b: a JSON value that anywhere declares publicly_redistributable false or an
+    access_tier of 3 or 4."""
+    if isinstance(obj, dict):
+        if obj.get("publicly_redistributable") is False:
+            return True
+        tier = obj.get("access_tier")
+        if type(tier) is int and tier in (3, 4):
+            return True
+        return any(declares_restriction(v) for v in obj.values())
+    if isinstance(obj, list):
+        return any(declares_restriction(v) for v in obj)
+    return False
+
+
 def is_edition_metadata(rel: str) -> bool:
     p = PurePosixPath(rel)
     return (in_type_root(rel) and len(p.parent.parts) >= 2
@@ -1166,8 +1286,8 @@ def governance(files: list[str]) -> tuple[dict[str, list[str]], dict[str, list[s
     governed: dict[str, list[str]] = defaultdict(list)
     ungoverned: list[str] = []
     for f in files:
-        if not in_type_root(f) or is_edition_metadata(f):
-            continue
+        if not in_type_root(f) or is_edition_metadata(f) or f in TYPE_ROOT_INFRASTRUCTURE:
+            continue  # listed CSA tooling is exempt from governance and pinned instead (check 4h/4j)
         cur = PurePosixPath(f).parent
         while len(cur.parts) >= 2:
             if cur.as_posix() in metas:
@@ -1388,10 +1508,26 @@ def analyse_metadata(root: str, files: list[str], allowlist: list[dict], fingerp
             problems[f].append("tracked file outside the SecID type roots and outside the listed infrastructure "
                                f"paths ({', '.join(INFRASTRUCTURE_PREFIXES)} and root files {', '.join(ROOT_FILE_PATTERNS)})")
     for f in ungoverned:
-        if f not in TYPE_ROOT_INFRASTRUCTURE:
-            problems[f].append("no edition metadata governs this file: add the directory's canonical metadata "
-                               "(<dir>-metadata.json) or, for CSA's own tooling, a reviewed TYPE_ROOT_INFRASTRUCTURE "
-                               "entry")
+        problems[f].append("no edition metadata governs this file: add the directory's canonical metadata "
+                           "(<dir>-metadata.json) or, for CSA's own tooling, a reviewed TYPE_ROOT_INFRASTRUCTURE "
+                           "entry and fingerprint")
+    for f in files:
+        if f in TYPE_ROOT_INFRASTRUCTURE:  # 4h: exempt from governance, so pinned
+            pins[f] = "listed CSA tooling exempt from governance (TYPE_ROOT_INFRASTRUCTURE)"
+        elif is_infrastructure_path(f):  # 5a/5b: tripwires on the unpinned infrastructure paths
+            tok = tripwire_token(f)
+            if tok:
+                pins[f] = (f"an infrastructure file whose path names a restricted publisher or document "
+                           f"({'-'.join(tok)})")
+            if f.lower().endswith(".json"):
+                try:
+                    with open(os.path.join(root, *f.split("/")), encoding="utf-8") as fh:
+                        decl = declares_restriction(json.load(fh))
+                except (OSError, ValueError):
+                    decl = False
+                if decl:
+                    pins[f] = ("an infrastructure JSON file that declares publicly_redistributable false or "
+                               "access_tier 3/4")
 
     for d, ms in sorted(metas.items()):
         if len(ms) > 1:  # 4f: which record governs would be ambiguous
@@ -1556,8 +1692,9 @@ def run(root: str, use_git: bool | None = None, out=sys.stdout, allowlist: list[
             data = _load_metadata(root, f)
             tiered += bool(data and "access_tier" in data)
     print("", file=out)
-    print(f"Metadata truth: {n_meta} edition metadata files, {tiered} with access_tier; {len(pins)} files sit "
-          "under a record or sidecar that is not plainly public and must match a reviewed fingerprint.", file=out)
+    print(f"Metadata truth: {n_meta} edition metadata files, {tiered} with access_tier; {len(pins)} files must "
+          "match a reviewed fingerprint (under a record or sidecar that is not plainly public, listed tooling, or "
+          "tripped infrastructure files).", file=out)
     if meta_problems:
         status = 1
         print(f"FAIL: {len(meta_problems)} files break the metadata rules (governance, pinning, 4-tier "
@@ -1782,7 +1919,9 @@ def _self_test_data():
         ("fingerprint that is not 64 hex rejected", {"control/iso.org/a/a-metadata.json": "abc"}, False),
         ("upper-case hex fingerprint rejected", {"control/iso.org/a/a-metadata.json": "A" * 64}, False),
         ("fingerprint for a path in a type root (check 4j pins) is valid", {"control/nist.gov/a/a-metadata.json": "a" * 64}, True),
-        ("fingerprint for a path outside type roots and restricted domains rejected", {"tools-resources/x/x.md": "a" * 64}, False),
+        ("fingerprint for an infrastructure path (check 5 tripwire pins) is valid", {"docs/x.md": "a" * 64}, True),
+        ("fingerprint for a path outside type roots, restricted domains and infrastructure rejected",
+         {"datasets/x/x.md": "a" * 64}, False),
         ("fingerprint path with .. rejected", {"control/iso.org/../x/a.md": "a" * 64}, False),
     ]
     run_cases = [
@@ -1994,6 +2133,35 @@ def _self_test_data():
          {"reference/casebadsc.example.org/doc/doc-metadata.json": J(pub), "reference/casebadsc.example.org/doc/doc.md": "text",
           "reference/casebadsc.example.org/doc/doc.md-file-metadata.json": "{not json"},
          True, "reference/casebadsc.example.org/doc/doc.md-file-metadata.json", set(), {}),
+        # --- round 3 (P1): exempt and infrastructure files
+        ("R155r3 appending restricted text to a listed tooling file fails (pinned before the edit)",
+         {"weakness/mitre.org/cwe/scripts/download-cwe-items.sh": "#!/bin/bash\nwget x\n" + big},
+         True, "weakness/mitre.org/cwe/scripts/download-cwe-items.sh", set(),
+         {"weakness/mitre.org/cwe/scripts/download-cwe-items.sh": "#!/bin/bash\nwget x\n"}),
+        ("R155r3 a listed tooling file replaced, unpinned, fails",
+         {"regulation/gov.uk/extract_uk_legislation.py": big}, True, "regulation/gov.uk/extract_uk_legislation.py",
+         {"regulation/gov.uk/extract_uk_legislation.py"}, {}),
+        ("R155r3 Codex: docs/pci-dss-v4.0.1.md fails unless pinned",
+         {"docs/pci-dss-v4.0.1.md": big}, True, "docs/pci-dss-v4.0.1.md", {"docs/pci-dss-v4.0.1.md"}, {}),
+        ("R155r3 Codex: tools-resources/working/pci-dss-v4.0.1.json declaring false / Tier 4 fails unless pinned",
+         {"tools-resources/working/pci-dss-v4.0.1.json": J({"license": {"publicly_redistributable": False},
+                                                             "access_tier": 4, "text": big})},
+         True, "tools-resources/working/pci-dss-v4.0.1.json", {"tools-resources/working/pci-dss-v4.0.1.json"}, {}),
+        ("R155r3 an infrastructure JSON declaring access_tier 4 fails unless pinned, whatever its name",
+         {"tools-resources/working/notes.json": J({"items": [{"access_tier": 4, "text": big}]})},
+         True, "tools-resources/working/notes.json", {"tools-resources/working/notes.json"}, {}),
+        ("R155r3 Codex: a root pci-dss-v4.0.1.md fails unless pinned",
+         {"pci-dss-v4.0.1.md": big}, True, "pci-dss-v4.0.1.md", {"pci-dss-v4.0.1.md"}, {}),
+        ("R155r3 a short token matches only as a whole path word: docs/iso/27001-notes.md fails",
+         {"docs/iso/27001-notes.md": "notes"}, True, "docs/iso/27001-notes.md", {"docs/iso/27001-notes.md"}, {}),
+        ("R155r3 a legitimate docs/ file passes unpinned",
+         {"docs/notes.md": "# Notes"}, False, None, {"docs/notes.md"}, {}),
+        ("R155r3 substrings are not tokens: isolation, swiftly, ciscoes and a public JSON pass unpinned",
+         {"docs/isolation-guide.md": "x", "plans/2026-11-14-swiftly.md": "x", "tools-resources/ciscoes.md": "x",
+          "tools-resources/working/public.json": J({"license": {"publicly_redistributable": True}})},
+         False, None, "all", {}),
+        ("R155r3 a reviewed (pinned) tripwire file passes",
+         {"docs/hitrust-csf-mapping-notes.md": "CSA's own notes on the mapping."}, False, None, set(), {}),
         ("R155r2-P1-1 PESONet as corrected (false), with content added: fails",
          {"control/bsp.gov.ph/pesonet/pesonet-metadata.json": J(pesonet),
           "control/bsp.gov.ph/pesonet/README.md": "# PESONet\n\n## License and access\n\nMembers-only.\n",
@@ -2120,7 +2288,7 @@ def self_test() -> int:
                 fh.write(body)
         fps = {rel: hashlib.sha256(reviewed.get(rel, body).encode("utf-8")).hexdigest()
                for rel, body in written.items()
-               if rel not in unpinned and (in_type_root(rel) or restricted_hit(rel))}
+               if rel not in unpinned and (in_type_root(rel) or restricted_hit(rel) or is_infrastructure_path(rel))}
         files, _ = list_entries(tmp, use_git=False)
         flagged = check_metadata_truth(tmp, files, t["meta_allowlist"], fingerprints=fps, today=FROZEN_TODAY)
         for name, d, _, _, must_fail, which in t["meta_cases"]:
@@ -2130,9 +2298,11 @@ def self_test() -> int:
             if not must_fail and any(k.startswith(d + "/") for k in flagged):
                 failures.append(f"metadata truth: false positive: {name}: "
                                 f"{[v for k, v in flagged.items() if k.startswith(d + '/')]}")
+        all_raw = {r for c in t["raw_cases"] for r in c[1]}
         for name, rfiles, must_fail, which, _, _ in t["raw_cases"]:
             dirs = {PurePosixPath(r).parent.as_posix() for r in rfiles}
-            mine = [k for k in flagged if k in rfiles or PurePosixPath(k).parent.as_posix() in dirs]
+            mine = [k for k in flagged if k in rfiles or (PurePosixPath(k).parent.as_posix() in dirs
+                                                          and k not in all_raw)]
             if must_fail and which not in flagged:
                 failures.append(f"metadata truth: not caught: {name} (expected {which} flagged; got {mine})")
             if not must_fail and mine:
