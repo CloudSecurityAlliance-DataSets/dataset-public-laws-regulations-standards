@@ -18,9 +18,16 @@
     "spdx": "LicenseRef-Japan-Government-Unclear",
     "redistribution": "unclear",
     "derivatives": "unclear",
-    "publicly_redistributable": false,
+    "publicly_redistributable": true,
     "license_text_url": "",
-    "notes": "No explicit terms-of-use or copyright license was found on ismap.go.jp for this document during acquisition (2026-07-16). The document itself states the English text is 'reference material' only and the Japanese original governs interpretation, but says nothing about redistribution/derivative rights. Needs manual confirmation (check ismap.go.jp footer/terms page, or contact the ISMAP Secretariat) before this structured extraction is redistributed beyond this repo. Flagged in TODO.md alongside the repo's other unresolved-license entries. Until confirmed, treat the CSV/JSON here as internal working data."
+    "notes": "No explicit terms-of-use or copyright license was found on ismap.go.jp for this document during acquisition (2026-07-16). The document itself states the English text is 'reference material' only and the Japanese original governs interpretation, but says nothing about redistribution/derivative rights. The terms themselves are still unconfirmed (TODO.md). Hosting does not wait on them: under the 4-tier hosting rule a document from a public government website goes in this public repository regardless of licence, and ismap.go.jp (run by NISC, the Digital Agency, MIC and METI) serves this PDF with no login (Tier 1; see `tier_evidence`)."
+  },
+  "access_tier": 1,
+  "tier_evidence": {
+    "url": "https://www.ismap.go.jp/csm/sys_attachment.do?sys_id=bb71912b1b985910f18c65fa234bcb9f",
+    "checked": "2026-11-14",
+    "method": "fetch",
+    "note": "Direct PDF download from ismap.go.jp, no login (HTTP 200, application/pdf)."
   },
   "links": {
     "source": "https://www.ismap.go.jp/",

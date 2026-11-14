@@ -23,6 +23,13 @@
     "note": "United States Government work (17 U.S.C. § 105); in the public domain worldwide.",
     "notes": "United States Government work (17 U.S.C. § 105); in the public domain worldwide."
   },
+  "access_tier": 1,
+  "tier_evidence": {
+    "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Passed%20Legislature/2225-S.PL.pdf",
+    "checked": "2026-11-14",
+    "method": "host-suffix",
+    "note": "Classified from the URL host (government suffix gov); not fetched in this pass. Every recorded source URL (textUsed, retrieval_url, source) is on a government host."
+  },
   "links": {
     "wikipedia": "",
     "source": "https://app.leg.wa.gov/billsummary?BillNumber=2225&Year=2025",

@@ -14,8 +14,15 @@
     "spdx": "LicenseRef-Unclear-Quasi-Public-Body",
     "redistribution": "unclear",
     "derivatives": "unclear",
-    "publicly_redistributable": false,
-    "notes": "Published by a quasi-public body (specially-approved corporation / public-interest incorporated foundation) rather than a national government organ directly -- the Copyright Act Article 13 government-notification exclusion may not extend cleanly to this publisher. Freely readable public web content; citation/reference use is reasonable, but full redistribution status is unconfirmed. Treat as internal working data pending confirmation, consistent with the FISC entry."
+    "publicly_redistributable": true,
+    "notes": "Published by a quasi-public body (specially-approved corporation / public-interest incorporated foundation) rather than a national government organ directly -- the Copyright Act Article 13 government-notification exclusion may not extend cleanly to this publisher. Freely readable public web content; citation/reference use is reasonable, but full redistribution status is unconfirmed. Hosted publicly under the 4-tier hosting rule regardless of licence: IPA, an incorporated administrative agency under Japan's Ministry of Economy, Trade and Industry, publishes it on its government website (ipa.go.jp) with no login (Tier 1; see `tier_evidence`). The redistribution and derivatives fields still record that IPA's own terms are unconfirmed."
+  },
+  "access_tier": 1,
+  "tier_evidence": {
+    "url": "https://www.ipa.go.jp/en/security/jisec/scheme_jisec.html",
+    "checked": "2026-11-14",
+    "method": "fetch",
+    "note": "Public HTML page on ipa.go.jp, no login; the scheme overview text is in the page."
   },
   "links": {
     "source": "https://www.ipa.go.jp/en/security/jisec/scheme_jisec.html",

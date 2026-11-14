@@ -16,6 +16,13 @@
     "attribution": "© Federal Office for Information Security (BSI) 2026",
     "notes": "C5:2026 is licensed CC BY-ND 4.0 (© BSI 2026). Verbatim redistribution with attribution is permitted; NoDerivatives. The CSV/JSON here is a faithful format-shift of BSI's official editable workbook (C5_2026_editable.xlsx) — criteria text reproduced verbatim, no edits — hosted for reference and machine consumption. The earlier C5:2020 edition in this directory was published under general BSI terms of use, not CC BY-ND."
   },
+  "access_tier": 1,
+  "tier_evidence": {
+    "url": "https://www.bsi.bund.de/EN/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Empfehlungen-nach-Angriffszielen/Cloud-Computing/Kriterienkatalog-C5/kriterienkatalog-c5_node.html",
+    "checked": "2026-11-14",
+    "method": "host-suffix",
+    "note": "Classified from the URL host (government suffix bund.de); not fetched in this pass. Every recorded source URL (textUsed, retrieval_url, source) is on a government host."
+  },
   "links": {
     "source": "https://www.bsi.bund.de/EN/Themen/Unternehmen-und-Organisationen/Informationen-und-Empfehlungen/Empfehlungen-nach-Angriffszielen/Cloud-Computing/Kriterienkatalog-C5/kriterienkatalog-c5_node.html",
     "pdf_2026": "https://www.bsi.bund.de/SharedDocs/Downloads/EN/BSI/CloudComputing/ComplianceControlsCatalogue/2026/C5_2026.pdf?__blob=publicationFile&v=7",

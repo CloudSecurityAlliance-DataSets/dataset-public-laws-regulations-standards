@@ -23,6 +23,13 @@
     "note": "Official publication (gov.br); Brazilian Copyright Law (Lei nº 9.610, de 19 de fevereiro de 1998) Art. 8º(IV) (texts of treaties, laws, decrees, regulations, judicial decisions, and other official acts are not objects of copyright protection) and Federal Open Data Policy (Decreto nº 8.777/2016).",
     "notes": "Official publication (gov.br); Brazilian Copyright Law (Lei nº 9.610, de 19 de fevereiro de 1998) Art. 8º(IV) (texts of treaties, laws, decrees, regulations, judicial decisions, and other official acts are not objects of copyright protection) and Federal Open Data Policy (Decreto nº 8.777/2016)."
   },
+  "access_tier": 1,
+  "tier_evidence": {
+    "url": "https://www.gov.br/defesa/pt-br/assuntos/copy_of_estado-e-defesa/pnd_end_congresso_1.pdf",
+    "checked": "2026-11-14",
+    "method": "host-suffix",
+    "note": "Classified from the URL host (government suffix gov.br); not fetched in this pass. Every recorded source URL (textUsed, retrieval_url, source) is on a government host."
+  },
   "links": {
     "wikipedia": "",
     "source": "https://www.gov.br/defesa/pt-br/assuntos/copy_of_estado-e-defesa/pnd_end_congresso_1.pdf",

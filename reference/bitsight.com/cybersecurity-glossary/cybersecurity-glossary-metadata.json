@@ -19,7 +19,14 @@
     "derivatives": "not_permitted_without_authorization",
     "publicly_redistributable": true,
     "license_text_url": "",
-    "notes": "Vendor marketing content — copyright Bitsight. Internal CSA use only — extracted derivatives are not redistributable. Publicly accessible web resource with no login required (Tier 2 of Kurt Seifried 2026-11-09 4-tier hosting rule: open-web no-login content is mirrored in the public dataset repository with attribution)."
+    "notes": "Vendor marketing content — copyright Bitsight. Bitsight's site footer reads \"All Rights Reserved\" and states no open licence (checked 2026-11-14). The public copy here rests on the 4-tier hosting rule, not on a licence from the publisher. Publicly accessible web resource with no login required (Tier 2 of Kurt Seifried 2026-11-09 4-tier hosting rule: open-web no-login content is mirrored in the public dataset repository with attribution)."
+  },
+  "access_tier": 2,
+  "tier_evidence": {
+    "url": "https://www.bitsight.com/glossary/what-is-attack-surface",
+    "checked": "2026-11-14",
+    "method": "fetch",
+    "note": "Glossary term pages read with no login; the extracted definition of \"Attack Surface\" is in the page."
   },
   "links": {
     "wikipedia": "",
@@ -63,8 +70,8 @@
   },
   "notes": "First demonstration of the hub-harvest + per-term-page-fetch pattern documented in PROCESSING-GLOSSARIES.md. Reusable for other JS-rendered SPAs where the index hydrates but content lives on per-term pages (Forescout, F5, etc. follow the same architecture). Re-run sequence: re-capture index via playwright_fetch.py, then re-run this script.",
   "desired_end_state": {
-    "state": "metadata-only",
-    "reason": "licensed",
-    "notes": "Vendor-copyrighted glossary; redistribution not permitted without authorization. Stub here is the public-dataset's complete representation — the structured terms (if extracted) live in the companion private repo dataset-private-laws-regulations-standards. No public-side gap."
+    "state": "structured",
+    "reason": "glossary",
+    "notes": "Structured per-term extraction, hosted publicly with attribution under the 4-tier hosting rule (Tier 2: open web, no login). The publisher's own terms are recorded under license."
   }
 }

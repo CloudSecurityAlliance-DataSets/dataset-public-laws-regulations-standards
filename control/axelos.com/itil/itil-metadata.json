@@ -16,9 +16,9 @@
     "spdx": "LicenseRef-Vendor-Publication",
     "redistribution": "permitted_with_attribution",
     "derivatives": "see_source",
-    "publicly_redistributable": true,
+    "publicly_redistributable": false,
     "license_text_url": "",
-    "notes": "Vendor publication. Verify license terms at source."
+    "notes": "Vendor publication. Verify license terms at source. Corrected 2026-11-14 (dataset-public-laws-regulations-standards#154): not marked publicly redistributable, because the access tier of this document is not established. This stub's own records describe restricted or unverified access (\"membership required\", \"purchase\") and no document was acquired. Establish the tier from the document itself before acquiring it: Tier 1 or 2 would allow public hosting, Tier 3 needs Kurt's approval, Tier 4 is never mirrored publicly."
   },
   "links": {
     "source": "https://www.axelos.com/best-practice-solutions/itil",

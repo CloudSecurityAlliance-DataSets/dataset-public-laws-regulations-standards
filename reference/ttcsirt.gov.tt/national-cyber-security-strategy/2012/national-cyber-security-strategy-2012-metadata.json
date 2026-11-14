@@ -23,6 +23,13 @@
     "note": "Official publication (ttcsirt.gov.tt); Republic of Trinidad and Tobago Copyright Act (Chap. 82:80, Act No. 8 of 1997) Sec. 7(1)(b) (no copyright protection extends to any official text of a legislative, administrative or legal nature, or any official translation thereof).",
     "notes": "Official publication (ttcsirt.gov.tt); Republic of Trinidad and Tobago Copyright Act (Chap. 82:80, Act No. 8 of 1997) Sec. 7(1)(b) (no copyright protection extends to any official text of a legislative, administrative or legal nature, or any official translation thereof)."
   },
+  "access_tier": 1,
+  "tier_evidence": {
+    "url": "https://ttcsirt.gov.tt/wp-content/uploads/2024/07/National_Cyber_Security_Stategy_2012.pdf",
+    "checked": "2026-11-14",
+    "method": "host-suffix",
+    "note": "Classified from the URL host (government suffix gov.tt); not fetched in this pass. Every recorded source URL (textUsed, retrieval_url, source) is on a government host."
+  },
   "links": {
     "wikipedia": "",
     "source": "https://ttcsirt.gov.tt/wp-content/uploads/2024/07/National_Cyber_Security_Stategy_2012.pdf",

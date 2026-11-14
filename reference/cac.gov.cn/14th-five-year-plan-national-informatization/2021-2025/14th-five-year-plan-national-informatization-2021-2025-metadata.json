@@ -23,6 +23,13 @@
     "note": "Official publication (cac.gov.cn); Copyright Law of the People's Republic of China Art. 5(1) (laws, regulations, resolutions, decisions and orders of state organs, and other documents of a legislative, administrative or judicial nature and their official translations are excluded from copyright protection).",
     "notes": "Official publication (cac.gov.cn); Copyright Law of the People's Republic of China Art. 5(1) (laws, regulations, resolutions, decisions and orders of state organs, and other documents of a legislative, administrative or judicial nature and their official translations are excluded from copyright protection)."
   },
+  "access_tier": 1,
+  "tier_evidence": {
+    "url": "https://www.cac.gov.cn/rootimages/uploadimg/1642205314564505/1642205314564505.pdf",
+    "checked": "2026-11-14",
+    "method": "host-suffix",
+    "note": "Classified from the URL host (government suffix gov.cn); not fetched in this pass. Every recorded source URL (textUsed, retrieval_url, source) is on a government host."
+  },
   "links": {
     "wikipedia": "",
     "source": "https://www.cac.gov.cn/2021-12/27/c_1642205312337636.htm",

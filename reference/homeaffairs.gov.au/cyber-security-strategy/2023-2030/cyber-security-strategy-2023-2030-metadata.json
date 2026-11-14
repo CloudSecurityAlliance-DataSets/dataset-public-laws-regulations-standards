@@ -23,6 +23,13 @@
     "note": "Commonwealth of Australia copyright (homeaffairs.gov.au); licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).",
     "notes": "Commonwealth of Australia copyright (homeaffairs.gov.au); licensed under Creative Commons Attribution 4.0 International (CC BY 4.0)."
   },
+  "access_tier": 1,
+  "tier_evidence": {
+    "url": "https://www.homeaffairs.gov.au/cyber-security-subsite/files/2023-cyber-security-strategy.pdf",
+    "checked": "2026-11-14",
+    "method": "host-suffix",
+    "note": "Classified from the URL host (government suffix gov.au); not fetched in this pass. Every recorded source URL (textUsed, retrieval_url, source) is on a government host."
+  },
   "links": {
     "wikipedia": "",
     "source": "https://www.homeaffairs.gov.au/about-us/our-portfolios/cyber-security/strategy/2023-2030-australian-cyber-security-strategy",

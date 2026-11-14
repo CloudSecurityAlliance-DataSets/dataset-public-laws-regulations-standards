@@ -1,0 +1,27 @@
+{
+  "secid": "secid:control/cloudsecurityalliance.org/aicm",
+  "name": "AI Controls Matrix",
+  "acronym": "AICM",
+  "version": "",
+  "owner": "Cloud Security Alliance (CSA)",
+  "type": "Framework",
+  "description": "Source-level record for CSA's AI Controls Matrix. The editions live in their version directories (0.0.2, 1.0.3, 1.1.0, 1.1.1). This record governs the CSA material kept at source level: the cross-release crosswalks in crosswalks/ (AICM 1.0.3 to 1.1.0, and AI-CAIQ 1.0.2 to 1.1.0, which carry control and question titles), VERSIONING.md and the README. The crosswalk and figure-check scripts are listed in the tier gate's TYPE_ROOT_INFRASTRUCTURE and pinned instead.",
+  "license": {
+    "spdx": "LicenseRef-CSA-CC-BY-NC-SA-4.0",
+    "redistribution": "permitted_with_attribution_non_commercial",
+    "derivatives": "permitted_with_share_alike",
+    "publicly_redistributable": true,
+    "license_text_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "notes": "CSA publications are typically released under CC BY-NC-SA 4.0. Copyright notice in the v1.1.1 workbook reads © Copyright 2026 Cloud Security Alliance."
+  },
+  "links": {
+    "source": "https://cloudsecurityalliance.org/artifacts/ai-controls-matrix-v1-1",
+    "csaLocation": ""
+  },
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "control-catalog",
+    "notes": "Source-level record; the editions are the version directories."
+  },
+  "notes": "Added 2026-11-14 (dataset-public-laws-regulations-standards#154) so that the crosswalks and notes kept at source level have a governing record. CSA's own publication: the 4-tier hosting rule concerns third-party sources, so no access_tier is recorded."
+}

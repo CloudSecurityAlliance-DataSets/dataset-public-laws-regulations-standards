@@ -15,11 +15,18 @@
   "relationToAISecurity": "Applies to AI systems within scope.",
   "license": {
     "spdx": "LicenseRef-Vendor-Publication",
-    "redistribution": "permitted_with_attribution",
+    "redistribution": "see_source",
     "derivatives": "see_source",
-    "publicly_redistributable": true,
+    "publicly_redistributable": false,
     "license_text_url": "",
-    "notes": "Vendor publication. Verify license terms at source."
+    "notes": "ISACA sells COBIT publications (Tier 4: paid; see `tier_evidence`), so this stays a metadata-only stub and the text is not hosted in this public repository. ISACA's licence terms were not verified: the earlier `redistribution` value, permitted_with_attribution, was never checked and was withdrawn on 2026-11-14."
+  },
+  "access_tier": 4,
+  "tier_evidence": {
+    "url": "https://www.isaca.org/store2/product/CB19DOP-C",
+    "checked": "2026-11-14",
+    "method": "browser",
+    "note": "ISACA's store sells COBIT 2019 publications (this focus-area title: US$90 for non-members, US$50 for members). isaca.org/resources/cobit points to the store and showed no free public copy of the framework."
   },
   "links": {
     "source": "https://www.isaca.org/resources/cobit",
@@ -40,7 +47,7 @@
     "extraction_host": "n/a",
     "flags": [],
     "force_ocr": null,
-    "notes": "Metadata-only stub. Source acquisition + extraction TODO."
+    "notes": "Metadata-only stub (Tier 4 source); no public extraction."
   },
   "extraction_history": [
     {
@@ -51,7 +58,7 @@
     }
   ],
   "scope": {},
-  "notes": "Metadata stub; acquire source and extract.",
+  "notes": "Metadata-only stub: COBIT is a paid ISACA publication (Tier 4), so its text is not hosted here.",
   "desired_end_state": {
     "state": "metadata-only",
     "reason": "licensed",

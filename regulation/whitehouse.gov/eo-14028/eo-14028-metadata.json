@@ -20,6 +20,13 @@
     "license_text_url": "https://www.usa.gov/government-copyright",
     "notes": "Work of the US government is in the public domain in the United States per 17 USC \u00a7 105."
   },
+  "access_tier": 1,
+  "tier_evidence": {
+    "url": "https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/",
+    "checked": "2026-11-14",
+    "method": "host-suffix",
+    "note": "Classified from the URL host (government suffix gov); not fetched in this pass. Every recorded source URL (textUsed, retrieval_url, source) is on a government host."
+  },
   "links": {
     "source": "https://www.whitehouse.gov/briefing-room/presidential-actions/2021/05/12/executive-order-on-improving-the-nations-cybersecurity/",
     "csaLocation": ""

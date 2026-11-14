@@ -19,7 +19,14 @@
     "derivatives": "not_permitted_without_authorization",
     "publicly_redistributable": true,
     "license_text_url": "",
-    "notes": "BSI Terms of Use restrict to non-commercial use; commercial use requires separate licence agreement. Reclassified from NOASSERTION after Phase 4c verification. Internal CSA use only — extracted derivatives are not redistributable. Public-release government / central bank publication (Tier 1 of Kurt Seifried 2026-11-09 4-tier hosting rule: public government website content goes into the public dataset repository regardless of license)."
+    "notes": "BSI Terms of Use restrict to non-commercial use; commercial use requires separate licence agreement. Reclassified from NOASSERTION after Phase 4c verification. BSI's own terms are summarised above. The public copy here rests on the 4-tier hosting rule (Tier 1), not on those terms. Public-release government / central bank publication (Tier 1 of Kurt Seifried 2026-11-09 4-tier hosting rule: public government website content goes into the public dataset repository regardless of license)."
+  },
+  "access_tier": 1,
+  "tier_evidence": {
+    "url": "https://www.bsi.bund.de/EN/Themen/Unternehmen-und-Organisationen/Standards-und-Zertifizierung/Elektronischer-Zahlungsverkehr/Glossar/glossar_node.html",
+    "checked": "2026-11-14",
+    "method": "fetch",
+    "note": "Public page on BSI's government website (bsi.bund.de), no login; the extracted term \"PSD2\" is in it."
   },
   "links": {
     "wikipedia": "",

@@ -4,7 +4,7 @@ Japan's Common Criteria (ISO/IEC 15408) national scheme. IPA is the sole Certifi
 
 - **SecID:** `secid:control/ipa.go.jp/jisec`
 - **Source:** https://www.ipa.go.jp/en/security/jisec/scheme_jisec.html
-- **License:** LicenseRef-Unclear-Quasi-Public-Body (unclear) -- see `jisec-scheme-overview-metadata.json`
+- **License:** LicenseRef-Unclear-Quasi-Public-Body (unclear) -- see `jisec-metadata.json`
 
 **Status:** Web page content fully captured; no separate downloadable scheme document identified.
 

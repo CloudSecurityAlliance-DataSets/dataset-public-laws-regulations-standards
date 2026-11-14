@@ -23,6 +23,13 @@
     "note": "European Union official publication (europa.eu); reuse authorized with attribution under Commission Decision 2011/833/EU.",
     "notes": "European Union official publication (europa.eu); reuse authorized with attribution under Commission Decision 2011/833/EU."
   },
+  "access_tier": 1,
+  "tier_evidence": {
+    "url": "https://publications.europa.eu/resource/cellar/8707360e-15f6-11f0-b1a3-01aa75ed71a1.0001.02/DOC_1",
+    "checked": "2026-11-14",
+    "method": "host-suffix",
+    "note": "Classified from the URL host (government suffix europa.eu); not fetched in this pass. Every recorded source URL (textUsed, retrieval_url, source) is on a government host."
+  },
   "links": {
     "wikipedia": "",
     "source": "https://digital-strategy.ec.europa.eu/en/library/ai-continent-action-plan",

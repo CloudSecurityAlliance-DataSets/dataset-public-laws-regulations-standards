@@ -21,6 +21,13 @@
     "license_text_url": "",
     "notes": "Government publication. Verify per-jurisdiction reuse terms."
   },
+  "access_tier": 1,
+  "tier_evidence": {
+    "url": "http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709.htm",
+    "checked": "2026-11-14",
+    "method": "host-suffix",
+    "note": "Classified from the URL host (government suffix gov.br); not fetched in this pass. Every recorded source URL (textUsed, retrieval_url, source) is on a government host."
+  },
   "links": {
     "source": "http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709.htm",
     "csaLocation": ""

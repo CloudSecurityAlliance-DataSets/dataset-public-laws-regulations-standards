@@ -4,7 +4,7 @@ Act No. 108 of 2013, effective December 2014. Organizes national-security secret
 
 - **SecID:** `secid:regulation/cas.go.jp/specified-secret-protection`
 - **Source:** https://www.cas.go.jp/jp/tokuteihimitsu/gaiyou_en.pdf
-- **License:** LicenseRef-Japan-Government-Law-Excluded-From-Copyright (permitted) -- see `specified-secret-protection-overview-metadata.json`
+- **License:** LicenseRef-Japan-Government-Law-Excluded-From-Copyright (permitted) -- see `specified-secret-protection-metadata.json`
 
 **Status:** Overview only. Full article text blocked at the only known source.
 

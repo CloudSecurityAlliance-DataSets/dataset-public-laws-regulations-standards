@@ -17,6 +17,13 @@
     "publicly_redistributable": true,
     "notes": "Primary legislation -- excluded from copyright under Japan's Copyright Act Article 13, same basis as APPI and the My Number Act."
   },
+  "access_tier": 1,
+  "tier_evidence": {
+    "url": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/eng/Resources/laws/pdf/090204_2.pdf",
+    "checked": "2026-11-14",
+    "method": "host-suffix",
+    "note": "Classified from the URL host (government suffix go.jp); not fetched in this pass. Every recorded source URL (textUsed, retrieval_url, source) is on a government host."
+  },
   "links": {
     "source": "https://www.soumu.go.jp/main_sosiki/joho_tsusin/eng/Resources/laws/pdf/090204_2.pdf",
     "csaLocation": ""

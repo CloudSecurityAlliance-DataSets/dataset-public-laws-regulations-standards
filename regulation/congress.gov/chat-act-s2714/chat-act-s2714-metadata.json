@@ -23,6 +23,13 @@
     "note": "United States Government work (17 U.S.C. § 105); in the public domain worldwide.",
     "notes": "United States Government work (17 U.S.C. § 105); in the public domain worldwide."
   },
+  "access_tier": 1,
+  "tier_evidence": {
+    "url": "https://www.govinfo.gov/content/pkg/BILLS-119s2714is/html/BILLS-119s2714is.htm",
+    "checked": "2026-11-14",
+    "method": "host-suffix",
+    "note": "Classified from the URL host (government suffix gov); not fetched in this pass. Every recorded source URL (textUsed, retrieval_url, source) is on a government host."
+  },
   "links": {
     "wikipedia": "",
     "source": "https://www.congress.gov/bill/119th-congress/senate-bill/2714",

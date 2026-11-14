@@ -14,9 +14,16 @@
     "spdx": "LicenseRef-PCI-SSC-Read-Copy-License",
     "redistribution": "permitted_for_study_purposes",
     "derivatives": "modification_prohibited",
-    "publicly_redistributable": true,
+    "publicly_redistributable": false,
     "license_text_url": "https://www.pcisecuritystandards.org/document_library_terms/",
-    "notes": "PCI SSC Read-Copy License; free download with click-through."
+    "notes": "PCI SSC Read-Copy License; free download with click-through. The program treats PCI SSC's click-through downloads as Tier 4 (AGENTS.md, 4-tier hosting rule; CSA-Internal-Governance/SecID ADR-005 \u00a72: click-through sources stay private unless Kurt approves each one), so this stays a metadata-only stub and is not publicly redistributable here."
+  },
+  "access_tier": 4,
+  "tier_evidence": {
+    "url": "https://www.pcisecuritystandards.org/document_library/",
+    "checked": "2026-11-14",
+    "method": "recorded",
+    "note": "The program's classification (AGENTS.md; the tier gate's RESTRICTED_DOMAINS), not re-observed: on 2026-11-14 the library's document list did not load in an automated browser. The independent licensing review of 2026-11-13 saw no login, a click-through licence before each download, and HTTP 403 on direct PDF requests."
   },
   "links": {
     "source": "https://www.pcisecuritystandards.org/document_library/",
@@ -37,7 +44,7 @@
     "extraction_host": "n/a",
     "flags": [],
     "force_ocr": null,
-    "notes": "Metadata-only stub. Source acquisition + extraction TODO."
+    "notes": "Metadata-only stub (Tier 4 source); no public extraction."
   },
   "extraction_history": [
     {
@@ -48,7 +55,7 @@
     }
   ],
   "scope": {},
-  "notes": "Metadata stub; acquire source and extract.",
+  "notes": "Metadata-only stub: a Tier 4 source for this program (click-through licence), so its text is not hosted here.",
   "desired_end_state": {
     "state": "dropped",
     "reason": "withdrawn",

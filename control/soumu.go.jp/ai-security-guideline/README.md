@@ -4,7 +4,7 @@ Finalized (not still draft) after public comment closed January 29, 2026 (52 com
 
 - **SecID:** `secid:control/soumu.go.jp/ai-security-guideline`
 - **Source:** https://www.soumu.go.jp/menu_news/s-news/01cyber01_02000001_00282.html
-- **License:** LicenseRef-Japan-Government-Notification-Likely-Excluded (likely_permitted) -- see `ai-security-guideline-announcement-metadata.json`
+- **License:** LicenseRef-Japan-Government-Notification-Likely-Excluded (likely_permitted) -- see `ai-security-guideline-metadata.json`
 
 **Status:** Announcement page only. Guideline body PDF not yet located/acquired.
 

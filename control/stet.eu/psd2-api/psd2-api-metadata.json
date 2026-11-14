@@ -12,9 +12,9 @@
     "spdx": "LicenseRef-Publisher-Restricted",
     "redistribution": "prohibited",
     "derivatives": "prohibited_without_license",
-    "publicly_redistributable": true,
+    "publicly_redistributable": false,
     "license_text_url": "https://www.stet.eu/en/standards/open-banking/",
-    "notes": "Mostly free. Publicly accessible web resource with no login required (Tier 2 of Kurt Seifried 2026-11-09 4-tier hosting rule: open-web no-login content is mirrored in the public dataset repository with attribution)."
+    "notes": "Mostly free. Corrected 2026-11-14 (dataset-public-laws-regulations-standards#154): not marked publicly redistributable, because the access tier of this document is not established. This stub's own records describe restricted or unverified access (\"awaiting CSA's licensed copy\") and no document was acquired, so the earlier Tier 2 hosting statement here had no evidence behind it. Establish the tier from the document itself before acquiring it: Tier 1 or 2 would allow public hosting, Tier 3 needs Kurt's approval, Tier 4 is never mirrored publicly."
   },
   "links": {
     "source": "https://www.stet.eu/en/standards/open-banking/",
