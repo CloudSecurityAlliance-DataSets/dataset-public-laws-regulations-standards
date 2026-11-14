@@ -23,13 +23,6 @@
     "note": "Open Government Licence – Canada (https://open.canada.ca/en/open-government-licence-canada).",
     "notes": "Open Government Licence – Canada (https://open.canada.ca/en/open-government-licence-canada)."
   },
-  "access_tier": 1,
-  "tier_evidence": {
-    "url": "https://ised-isde.canada.ca/site/ised/en/pan-canadian-artificial-intelligence-strategy",
-    "checked": "2026-11-14",
-    "method": "host-suffix",
-    "note": "Classified from the URL host (government suffix canada.ca); not fetched in this pass. Every recorded source URL (textUsed, retrieval_url, source) is on a government host."
-  },
   "links": {
     "wikipedia": "",
     "source": "https://ised-isde.canada.ca/site/ised/en/pan-canadian-artificial-intelligence-strategy",

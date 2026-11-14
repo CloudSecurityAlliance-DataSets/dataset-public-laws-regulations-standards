@@ -23,13 +23,6 @@
     "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (u.ae) is governed by UAE Telecommunications and Digital Government Regulatory Authority (TDRA) and UAE Government portal Terms and Conditions (copyright and intellectual property rights in ministerial strategy publications are reserved unless explicitly stated otherwise). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
     "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (u.ae) is governed by UAE Telecommunications and Digital Government Regulatory Authority (TDRA) and UAE Government portal Terms and Conditions (copyright and intellectual property rights in ministerial strategy publications are reserved unless explicitly stated otherwise). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
   },
-  "access_tier": 1,
-  "tier_evidence": {
-    "url": "https://csc.gov.ae",
-    "checked": "2026-11-14",
-    "method": "host-suffix",
-    "note": "Classified from the URL host (government suffix gov.ae); not fetched in this pass. Every recorded source URL (textUsed, retrieval_url, source) is on a government host."
-  },
   "links": {
     "wikipedia": "",
     "source": "https://csc.gov.ae",

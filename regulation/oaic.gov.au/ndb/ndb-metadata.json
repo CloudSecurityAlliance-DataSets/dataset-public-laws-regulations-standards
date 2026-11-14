@@ -23,13 +23,6 @@
     "note": "Commonwealth of Australia copyright (oaic.gov.au); licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).",
     "notes": "Commonwealth of Australia copyright (oaic.gov.au); licensed under Creative Commons Attribution 4.0 International (CC BY 4.0)."
   },
-  "access_tier": 1,
-  "tier_evidence": {
-    "url": "https://www.oaic.gov.au/privacy/notifiable-data-breaches",
-    "checked": "2026-11-14",
-    "method": "host-suffix",
-    "note": "Classified from the URL host (government suffix gov.au); not fetched in this pass. Every recorded source URL (textUsed, retrieval_url, source) is on a government host."
-  },
   "links": {
     "wikipedia": "",
     "source": "https://www.oaic.gov.au/privacy/notifiable-data-breaches",

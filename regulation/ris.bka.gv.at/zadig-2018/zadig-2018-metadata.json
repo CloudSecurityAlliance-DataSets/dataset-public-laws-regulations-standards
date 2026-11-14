@@ -23,13 +23,6 @@
     "note": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (ris.bka.gv.at) is governed by Austrian Copyright Act (UrhG) § 7 (Freie Werke — official works produced primarily for official use) and Open Data Österreich (CC BY 4.0). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
     "notes": "Metadata-only record (full text pending acquisition; redistribution rights not asserted until primary document is acquired and verified). Underlying official publication (ris.bka.gv.at) is governed by Austrian Copyright Act (UrhG) § 7 (Freie Werke — official works produced primarily for official use) and Open Data Österreich (CC BY 4.0). Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
   },
-  "access_tier": 1,
-  "tier_evidence": {
-    "url": "https://www.ris.bka.gv.at",
-    "checked": "2026-11-14",
-    "method": "host-suffix",
-    "note": "Classified from the URL host (government suffix gv.at); not fetched in this pass. Every recorded source URL (textUsed, retrieval_url, source) is on a government host."
-  },
   "links": {
     "wikipedia": "",
     "source": "https://www.ris.bka.gv.at",

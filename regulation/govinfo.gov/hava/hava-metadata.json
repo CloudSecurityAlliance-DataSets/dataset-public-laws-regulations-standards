@@ -21,13 +21,6 @@
     "license_text_url": "https://www.usa.gov/government-copyright",
     "notes": "Work of the US government is in the public domain in the United States per 17 USC \u00a7 105."
   },
-  "access_tier": 1,
-  "tier_evidence": {
-    "url": "https://www.govinfo.gov/content/pkg/PLAW-107publ252/pdf/PLAW-107publ252.pdf",
-    "checked": "2026-11-14",
-    "method": "host-suffix",
-    "note": "Classified from the URL host (government suffix gov); not fetched in this pass. Every recorded source URL (textUsed, retrieval_url, source) is on a government host."
-  },
   "links": {
     "source": "https://www.govinfo.gov/content/pkg/PLAW-107publ252/pdf/PLAW-107publ252.pdf",
     "csaLocation": ""

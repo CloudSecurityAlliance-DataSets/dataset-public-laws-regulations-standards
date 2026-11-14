@@ -23,13 +23,6 @@
     "note": "Official publication (gov.il); State of Israel Copyright Act, 2007 (5768-2007) Chapter 6 Secs. 36, 42 (State copyright in non-legislative ministerial and INCD strategy publications) and gov.il Terms of Use. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09).",
     "notes": "Official publication (gov.il); State of Israel Copyright Act, 2007 (5768-2007) Chapter 6 Secs. 36, 42 (State copyright in non-legislative ministerial and INCD strategy publications) and gov.il Terms of Use. Public-release government/intergovernmental strategy document; hosted in dataset-public-laws-regulations-standards per SecID program policy (2026-11-09)."
   },
-  "access_tier": 1,
-  "tier_evidence": {
-    "url": "https://www.wipo.int/wipolex/en/text/347462",
-    "checked": "2026-11-14",
-    "method": "host-suffix",
-    "note": "Classified from the URL host (government suffix int); not fetched in this pass. Every recorded source URL (textUsed, retrieval_url, source) is on a government host."
-  },
   "links": {
     "wikipedia": "",
     "source": "https://www.wipo.int/wipolex/en/text/347462",

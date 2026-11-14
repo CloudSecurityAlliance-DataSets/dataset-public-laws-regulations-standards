@@ -19,13 +19,6 @@
     "license_text_url": "",
     "notes": "Government regulation; license terms vary by jurisdiction. Generally permitted for reference and citation; consult the specific issuer's terms before redistribution at scale."
   },
-  "access_tier": 1,
-  "tier_evidence": {
-    "url": "http://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm",
-    "checked": "2026-11-14",
-    "method": "host-suffix",
-    "note": "Classified from the URL host (government suffix gov.cn); not fetched in this pass. Every recorded source URL (textUsed, retrieval_url, source) is on a government host."
-  },
   "links": {
     "source": "http://www.cac.gov.cn/2023-07/13/c_1690898327029107.htm",
     "csaLocation": ""
