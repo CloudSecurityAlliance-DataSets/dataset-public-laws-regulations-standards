@@ -15,7 +15,7 @@
 - `main`'s tree hash is identical.
 - CI (`validate`, `tier-restrictions`, `ci-passed`) passed on the new `main` (`8398500`).
 
-**Not covered by the rewrite:** GitHub keeps pull-request refs (`refs/pull/*`, 133 of them) and cached views. Only GitHub Support can remove these. The request is tracked in #150.
+**Not covered by the rewrite, and left in place by Kurt's decision:** GitHub keeps pull-request refs (`refs/pull/*`: 134 in total on 2026-11-13; those of pull requests opened before the rewrite reference pre-rewrite commits) and cached views, and pre-rewrite commits stay fetchable by commit ID. Only GitHub Support could remove these. Kurt decided not to ask (#150, 2026-11-13): *"ok paus.e what licensed 3rd party material? are you talking about the data pubblic repo? that's fine. leave it as is."* and then *"all are freely available and generally qell known so this is ok. so lets log that"*. *Agent's classification (Claude):* the remaining historical exposure is treated as an accepted, documented exception to the 4-tier rule, for the reason Kurt gave (the documents are freely available and generally well known). It covers only that existing historical exposure. It does not authorize republishing the documents: the full text stays in the private dataset, and putting it back here would need a separate, explicit decision by Kurt before any ALLOWLIST entry is added.
 
 **If you have an old clone (made before 2026-11-13):** every local branch, stash and reflog in it still holds the purged content.
 
