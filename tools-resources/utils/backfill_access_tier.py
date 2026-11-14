@@ -98,7 +98,7 @@ def main(argv=None) -> int:
     args = ap.parse_args(argv)
     gate = load_gate()
     files, _ = gate.list_entries(args.repo)
-    metas, governed = gate.governance(files)
+    metas, governed, _ = gate.governance(files)
     skipped: Counter = Counter()
     removed_why: Counter = Counter()
     written = removed = kept = 0
@@ -127,8 +127,7 @@ def main(argv=None) -> int:
         if ("access_tier" in data or "tier_evidence" in data) and not ours:
             skipped["has a tier from another method"] += 1
             continue
-        n_content = sum(1 for f in governed.get(d, [])
-                        if gate.is_content(f, d) and not f.endswith("-file-metadata.json"))
+        n_content = sum(1 for f in governed.get(d, []) if gate.is_content(f, d) and not gate.is_sidecar(f))
         readme = os.path.join(args.repo, *d.split("/"), "README.md")
         readme_text = ""
         if f"{d}/README.md" in governed.get(d, []):

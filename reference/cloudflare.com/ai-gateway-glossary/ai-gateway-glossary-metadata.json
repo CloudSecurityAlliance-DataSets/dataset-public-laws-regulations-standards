@@ -14,12 +14,12 @@
   "relationToCloudSecurity": "Direct — Cloudflare is a CDN/security platform; product-specific terminology applies to cloud-security contexts.",
   "relationToAISecurity": "Varies by product; AI Gateway / Workers AI / AI Crawl Control / AI Search entries are AI-relevant by definition.",
   "license": {
-    "spdx": "CC-BY-SA-4.0",
-    "redistribution": "permitted_with_attribution_share_alike",
-    "derivatives": "share_alike_required",
+    "spdx": "NOASSERTION",
+    "redistribution": "unclear",
+    "derivatives": "unclear",
     "publicly_redistributable": true,
-    "license_text_url": "https://developers.cloudflare.com/fundamentals/reference/policies-compliances/licenses/",
-    "notes": "Cloudflare states that all documentation on its developer documentation website is licensed under CC BY-SA 4.0 (https://developers.cloudflare.com/fundamentals/reference/policies-compliances/licenses/, checked 2026-11-14). The LICENSE file of the cloudflare-docs GitHub repository says CC BY 4.0 instead. This record follows the website's statement, which covers the pages this glossary was taken from and is also the stricter of the two: attribute Cloudflare, and share derived data (the term files here) under CC BY-SA 4.0. Publicly accessible web resource with no login required (Tier 2 of Kurt Seifried 2026-11-09 4-tier hosting rule: open-web no-login content is mirrored in the public dataset repository with attribution)."
+    "license_text_url": "",
+    "notes": "Licence not established for this documentation. Cloudflare's licence page (https://developers.cloudflare.com/fundamentals/reference/policies-compliances/licenses/, checked 2026-11-14) says the \"Cloudflare Workers documentation website\" is licensed under CC BY-SA 4.0, but this glossary comes from the ai-gateway documentation (https://developers.cloudflare.com/ai-gateway/glossary/), which that statement does not clearly cover. The LICENSE file of the cloudflare-docs GitHub repository (https://github.com/cloudflare/cloudflare-docs/blob/production/LICENSE) says CC BY 4.0 instead, so Cloudflare's two statements conflict. Hosting here does not rest on either licence: Publicly accessible web resource with no login required (Tier 2 of Kurt Seifried 2026-11-09 4-tier hosting rule: open-web no-login content is mirrored in the public dataset repository with attribution)."
   },
   "access_tier": 2,
   "tier_evidence": {

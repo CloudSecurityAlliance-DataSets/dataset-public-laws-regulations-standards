@@ -36,6 +36,8 @@ control/nist.gov/csf/2.0/
 └── extract_csf.py                        ← reproducibility script
 ```
 
+**The metadata file's name is fixed by its directory** and CI enforces it: `<dir>-metadata.json`, or `<parent>-<dir>-metadata.json` for a version directory (a lower-case, hyphenated form of either is also accepted). Any other `*-metadata.json` fails, except a per-file sidecar `<file>-file-metadata.json`. Every other file under a type root belongs to the nearest directory at or above it that has such metadata; a file no metadata governs fails, unless it is CSA's own tooling listed in the tier gate's `TYPE_ROOT_INFRASTRUCTURE`.
+
 **Rule of thumb:** the `<name>-<version>` prefix matches the last two path components. For `control/pcisecuritystandards.org/pci-dss/v4.0.1/`, that's `pci-dss-v4.0.1`. For `control/nist.gov/csf/2.0/`, that's `csf-2.0`. For documents without versions (e.g., `regulation/europa.eu/ai-act/`), use just the name: `ai-act-metadata.json`.
 
 Scripts, source files retaining publisher's exact filename (XLSX, PDF source), and marker-generated page images keep their natural names — only the extraction outputs follow the `<name>-<version>` prefix convention.
@@ -259,12 +261,13 @@ Leave both fields out when the tier has not been established. Do not guess: a mi
 
 **Enforced in CI** by `tools-resources/utils/check_tier_restrictions.py` (check 4, blocking), for every edition metadata file:
 
-- every file is governed by the metadata of the nearest directory at or above it that has metadata; one directory may hold only one edition metadata file, and a record that is not restrictive may not sit below a restrictive one;
+- every file under a type root is governed by the metadata of the nearest directory at or above it that has metadata (named for its directory; see File Naming), or is listed in `TYPE_ROOT_INFRASTRUCTURE`; one directory may hold only one edition metadata file, and a record that is not restrictive may not sit below a restrictive one. Outside the type roots, files may only sit in the listed infrastructure paths (`.github/`, `docs/`, `plans/`, `resumption-summaries/`, `tools-resources/`, root `*.md` and similar), and no `*-metadata.json` may sit there;
 - `license.publicly_redistributable` must be present and a boolean (`"false"` as a string fails);
-- a restrictive record (`publicly_redistributable` not true, or Tier 3/4) governs only a stub: the metadata within the stub caps, one `README.md` beside it within the README cap, and no content. Content is everything else, including `-file-metadata.json` sidecars and READMEs in subdirectories;
+- a restrictive record (`publicly_redistributable` not true, or Tier 3/4) governs only a stub: its metadata and one `README.md` beside it, and no content (everything else, including `-file-metadata.json` sidecars and READMEs in subdirectories). **Every file under a restrictive record, the record included, must match a reviewed SHA-256 in the gate's `FINGERPRINTS`, under any publisher domain**, so editing such a stub is a reviewed gate change (`--print-fingerprints` prints the lines). Size caps apply as a second layer;
+- a sidecar can only restrict: if its `license` or `license_override` says `publicly_redistributable: false` (or its `access_tier` is 3 or 4), the file it names may not be tracked here and the sidecar is pinned. A sidecar must name a tracked file in its directory (or a gitignored original) and is never able to loosen its record;
 - `access_tier` must be the integer 1-4 with a complete `tier_evidence` (`checked` a real date, not in the future); `tier_evidence` without `access_tier` fails;
 - Tier 1 or 2 requires `publicly_redistributable: true`; Tier 3 or 4 requires `false`, unless a `tier3-4-exception` `ALLOWLIST` entry names that exact directory and the record's SecID, in which case only the entry's listed files, directly in that directory, may be there;
-- `host-suffix` may only claim Tier 1, on a host in `GOV_HOST_SUFFIXES`, for an acquired document whose metadata and README mention no access restriction; `recorded` may only claim Tier 3 or 4. A record can keep a source private, never make it public.
+- `host-suffix` may only claim Tier 1, on a host in `GOV_HOST_SUFFIXES`, for an acquired document whose metadata, evidence note and README mention no access restriction; `recorded` may only claim Tier 3 or 4. A record can keep a source private, never make it public.
 
 ### Links Object
 
