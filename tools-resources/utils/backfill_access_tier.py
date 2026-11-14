@@ -4,9 +4,16 @@
 Under the 4-tier hosting rule a document from a public government website is Tier 1.
 This script records that tier, with `tier_evidence` (see METADATA-SCHEMA.md), for
 edition metadata whose recorded source URLs are ALL on government hosts, without
-fetching anything. It writes an entry only when every condition holds:
+fetching anything. A publisher's domain is weak evidence: the tier belongs to the
+document, not the domain. So it writes an entry only when every condition holds:
 
   - the metadata has no `access_tier` yet (entries verified by hand are never touched);
+  - the document was acquired: the directory holds content other than README.md,
+    metadata and sidecars. A stub whose document was never fetched says nothing about
+    how that document is reached;
+  - neither the metadata's text (URLs removed) nor its README mentions an access
+    restriction (members-only, purchase, subscription, registration, awaiting a licensed
+    copy, ...: the gate's ACCESS_RESTRICTION_RE);
   - `license.publicly_redistributable` is already true. A government-host entry that
     says false is usually a stub whose document was never acquired, so whether it is
     public on the web is unknown; the script does not flip it;
@@ -18,8 +25,12 @@ fetching anything. It writes an entry only when every condition holds:
   - the file re-serialises byte-for-byte with json.dumps(indent=2), so the only diff is
     the two inserted fields.
 
-The suffix list and the evidence rules live in check_tier_restrictions.py, which
-validates the result in CI (method host-suffix may only claim Tier 1, on a listed host).
+It also reconciles: an entry it tagged earlier (method host-suffix) that no longer meets
+these conditions loses both fields again. Entries with any other method are never
+touched.
+
+The suffix list, the restriction wording and the evidence rules live in
+check_tier_restrictions.py, which validates the result in CI (check 4d).
 
 Usage:
     python3 -I tools-resources/utils/backfill_access_tier.py            # dry run: report only
@@ -57,10 +68,9 @@ def style_of(text: str, data: dict):
     return None
 
 
-def candidate(gate, data: dict):
-    """(evidence url, suffix) when the entry qualifies, else (None, reason)."""
-    if "access_tier" in data or "tier_evidence" in data:
-        return None, "already has tier fields"
+def qualifies(gate, data: dict, n_content: int, readme_text: str):
+    """(evidence url, suffix) when host-suffix may classify the entry, else (None, reason).
+    Ignores any tier fields the entry already has."""
     lic = data.get("license") if isinstance(data.get("license"), dict) else {}
     if lic.get("publicly_redistributable") is not True:
         return None, "publicly_redistributable is not true"
@@ -73,6 +83,10 @@ def candidate(gate, data: dict):
     suffixes = [gate.gov_host_suffix(u) for u in urls]
     if not all(suffixes):
         return None, "a source URL is not on a government host"
+    if not n_content:
+        return None, "no acquired content (stub)"
+    if gate.restriction_words(gate.access_text(data, readme_text)):
+        return None, "metadata or README mentions an access restriction"
     return (urls[0], suffixes[0]), None
 
 
@@ -84,12 +98,16 @@ def main(argv=None) -> int:
     args = ap.parse_args(argv)
     gate = load_gate()
     files, _ = gate.list_entries(args.repo)
+    metas, governed = gate.governance(files)
     skipped: Counter = Counter()
-    written = 0
+    removed_why: Counter = Counter()
+    written = removed = kept = 0
     by_suffix: Counter = Counter()
-    for rel in files:
-        if not gate.is_edition_metadata(rel):
+    for d, ms in sorted(metas.items()):
+        if len(ms) != 1:
+            skipped["more than one metadata file in the directory"] += 1
             continue
+        rel = ms[0]
         if gate.restricted_hit(rel):
             skipped["under a Tier 3/4 publisher domain"] += 1
             continue
@@ -104,11 +122,38 @@ def main(argv=None) -> int:
         if not isinstance(data, dict):
             skipped["not a JSON object"] += 1
             continue
-        found, reason = candidate(gate, data)
+        ev = data.get("tier_evidence") if isinstance(data.get("tier_evidence"), dict) else {}
+        ours = ev.get("method") == "host-suffix"
+        if ("access_tier" in data or "tier_evidence" in data) and not ours:
+            skipped["has a tier from another method"] += 1
+            continue
+        n_content = sum(1 for f in governed.get(d, [])
+                        if gate.is_content(f, d) and not f.endswith("-file-metadata.json"))
+        readme = os.path.join(args.repo, *d.split("/"), "README.md")
+        readme_text = ""
+        if f"{d}/README.md" in governed.get(d, []):
+            with open(readme, encoding="utf-8", errors="replace") as fh:
+                readme_text = fh.read()
+        found, reason = qualifies(gate, data, n_content, readme_text)
+        style = style_of(text, data)
+        if ours:
+            if found and found[0] == ev.get("url"):
+                kept += 1
+                continue
+            if style is None:
+                skipped["formatting would change (edit by hand)"] += 1
+                print(f"  cannot remove (formatting): {rel}")
+                continue
+            removed += 1
+            removed_why[reason or "evidence URL changed"] += 1
+            if args.write:
+                new = {k: v for k, v in data.items() if k not in ("access_tier", "tier_evidence")}
+                with open(path, "w", encoding="utf-8") as fh:
+                    fh.write(json.dumps(new, indent=2, ensure_ascii=style[0]) + style[1])
+            continue
         if not found:
             skipped[reason] += 1
             continue
-        style = style_of(text, data)
         if style is None:
             skipped["formatting would change (edit by hand)"] += 1
             print(f"  skip (formatting): {rel}")
@@ -119,7 +164,8 @@ def main(argv=None) -> int:
             "checked": args.date,
             "method": "host-suffix",
             "note": (f"Classified from the URL host (government suffix {suffix}); not fetched in this pass. Every "
-                     "recorded source URL (textUsed, retrieval_url, source) is on a government host."),
+                     "recorded source URL (textUsed, retrieval_url, source) is on a government host, the document "
+                     "was acquired, and no access restriction is noted."),
         }
         new = {}
         for k, v in data.items():
@@ -135,11 +181,13 @@ def main(argv=None) -> int:
         if args.write:
             with open(path, "w", encoding="utf-8") as fh:
                 fh.write(json.dumps(new, indent=2, ensure_ascii=style[0]) + style[1])
-    verb = "wrote" if args.write else "would write"
-    print(f"{verb} access_tier 1 (host-suffix) to {written} metadata files")
-    for s, n in sorted(by_suffix.items()):
-        print(f"  {s}: {n}")
-    print("skipped:")
+    verb = "" if args.write else "(dry run) "
+    print(f"{verb}host-suffix Tier 1: {kept} kept, {written} added, {removed} removed")
+    for r, n in removed_why.most_common():
+        print(f"  removed because: {r}: {n}")
+    for s_, n in sorted(by_suffix.items()):
+        print(f"  added via {s_}: {n}")
+    print("not classified:")
     for r, n in skipped.most_common():
         print(f"  {n:5d}  {r}")
     return 0

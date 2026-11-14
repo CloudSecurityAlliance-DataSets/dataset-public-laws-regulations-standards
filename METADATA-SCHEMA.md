@@ -252,17 +252,19 @@ A Tier 3 or Tier 4 source with a granted exception is the only case where the ti
 |---|---|
 | `url` | The http(s) URL that was checked: the document itself where possible (`textUsed`), else the page that serves it. |
 | `checked` | The date of the check, `YYYY-MM-DD`. |
-| `method` | `fetch` (a scripted GET showed the content with no login), `browser` (loaded in a real browser, for JavaScript-rendered or bot-filtered sites), `host-suffix` (Tier 1 only: the URL's host is a government domain in the gate's `GOV_HOST_SUFFIXES`; not fetched), or `recorded` (Tier 3 or 4 only: the program's own classification, not re-observed). |
+| `method` | `fetch` (a scripted GET showed the content with no login), `browser` (loaded in a real browser, for JavaScript-rendered or bot-filtered sites), `host-suffix` (Tier 1 only, and only for a document that was acquired and whose metadata and README note no access restriction: the URL's host is a government domain in the gate's `GOV_HOST_SUFFIXES`; not fetched), or `recorded` (Tier 3 or 4 only: the program's own classification, not re-observed). |
 | `note` | What was observed, in a sentence: "direct PDF download, no login", "registration form before download", "store sells it at US$90". |
 
-Leave both fields out when the tier has not been established. Do not guess: a missing tier is honest, a wrong one is not. `tools-resources/utils/backfill_access_tier.py` records Tier 1 by `host-suffix` for entries that are already `publicly_redistributable: true` and whose every recorded source URL is on a government host; anything else is set by hand after a check.
+Leave both fields out when the tier has not been established. Do not guess: a missing tier is honest, a wrong one is not. The tier belongs to the document, not to its publisher's domain: a government body can still put a document behind a members-only portal. `tools-resources/utils/backfill_access_tier.py` records Tier 1 by `host-suffix` only for entries that are already `publicly_redistributable: true`, whose every recorded source URL is on a government host, whose document was acquired (content other than README, metadata and sidecars), and whose metadata and README mention no access restriction (members-only, purchase, subscription, registration, awaiting a licensed copy, ...). Re-running it removes tags that no longer qualify. Anything else is set by hand after a check.
 
 **Enforced in CI** by `tools-resources/utils/check_tier_restrictions.py` (check 4, blocking), for every edition metadata file:
 
-- no directory may hold content (anything but `README.md` and metadata files, counted against the nearest metadata at or above it) while its metadata says `publicly_redistributable: false`;
+- every file is governed by the metadata of the nearest directory at or above it that has metadata; one directory may hold only one edition metadata file, and a record that is not restrictive may not sit below a restrictive one;
+- `license.publicly_redistributable` must be present and a boolean (`"false"` as a string fails);
+- a restrictive record (`publicly_redistributable` not true, or Tier 3/4) governs only a stub: the metadata within the stub caps, one `README.md` beside it within the README cap, and no content. Content is everything else, including `-file-metadata.json` sidecars and READMEs in subdirectories;
 - `access_tier` must be the integer 1-4 with a complete `tier_evidence` (`checked` a real date, not in the future); `tier_evidence` without `access_tier` fails;
-- Tier 1 or 2 requires `publicly_redistributable: true`; Tier 3 or 4 requires `false` and no content, unless a `tier3-4-exception` `ALLOWLIST` entry names that exact directory;
-- `host-suffix` may only claim Tier 1, on a host in `GOV_HOST_SUFFIXES`; `recorded` may only claim Tier 3 or 4. A record can keep a source private, never make it public.
+- Tier 1 or 2 requires `publicly_redistributable: true`; Tier 3 or 4 requires `false`, unless a `tier3-4-exception` `ALLOWLIST` entry names that exact directory and the record's SecID, in which case only the entry's listed files, directly in that directory, may be there;
+- `host-suffix` may only claim Tier 1, on a host in `GOV_HOST_SUFFIXES`, for an acquired document whose metadata and README mention no access restriction; `recorded` may only claim Tier 3 or 4. A record can keep a source private, never make it public.
 
 ### Links Object
 
