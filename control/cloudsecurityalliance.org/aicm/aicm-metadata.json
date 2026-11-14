@@ -7,12 +7,12 @@
   "type": "Framework",
   "description": "Source-level record for CSA's AI Controls Matrix. The editions live in their version directories (0.0.2, 1.0.3, 1.1.0, 1.1.1). This record governs the CSA material kept at source level: the cross-release crosswalks in crosswalks/ (AICM 1.0.3 to 1.1.0, and AI-CAIQ 1.0.2 to 1.1.0, which carry control and question titles), VERSIONING.md and the README. The crosswalk and figure-check scripts are listed in the tier gate's TYPE_ROOT_INFRASTRUCTURE and pinned instead.",
   "license": {
-    "spdx": "LicenseRef-CSA-CC-BY-NC-SA-4.0",
-    "redistribution": "permitted_with_attribution_non_commercial",
-    "derivatives": "permitted_with_share_alike",
+    "spdx": "LicenseRef-CSA-Copyright-Notice",
+    "redistribution": "prohibited",
+    "derivatives": "prohibited",
     "publicly_redistributable": true,
-    "license_text_url": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
-    "notes": "CSA publications are typically released under CC BY-NC-SA 4.0. Copyright notice in the v1.1.1 workbook reads © Copyright 2026 Cloud Security Alliance."
+    "license_text_url": "",
+    "notes": "CSA's own notice in AICMv1.1.1-generated_at_2026_07_22.xlsx (Introduction!A81, read 2026-11-14): \"© Copyright 2026 Cloud Security Alliance - All rights reserved\". It lets users download, store, display, view, print and link to the document subject to the following: \"(a) the AI Controls Matrix v1.1.1 may be used solely for your personal, informational, non-commercial use; (b) the AI Controls Matrix v1.1.1 may not be modified or altered in any way; (c) the AI Controls Matrix v1.1.1 may not be redistributed; and (d) the trademark, copyright or other notices may not be removed\". Quotation is allowed under the fair-use provisions of the US Copyright Act, with attribution. CSA is the copyright holder and hosts its own material in this CSA-maintained public dataset: that is CSA's own authority, not a permission to anyone else, and downstream users have only the rights the notice grants. Corrected on 2026-11-14 (dataset-public-laws-regulations-standards#154): the earlier record said CSA publications are typically released under CC BY-NC-SA 4.0 (LicenseRef-CSA-CC-BY-NC-SA-4.0 / permitted_with_attribution_non_commercial), which this notice does not support. This source-level record takes the AICM v1.1.1 notice as the terms for the CSA material it governs."
   },
   "links": {
     "source": "https://cloudsecurityalliance.org/artifacts/ai-controls-matrix-v1-1",

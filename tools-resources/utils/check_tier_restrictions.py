@@ -26,12 +26,18 @@ roots, so restricted text cannot be stuffed into a restrictive stub or a tooling
 anywhere either. Outside the type roots (check 5), files whose path names a restricted
 publisher or document, and JSON that declares a restriction, must be pinned.
 What it does NOT cover, and leaves to review:
-  - restricted text placed under a record that falsely says it is public (outside
-    RESTRICTED_DOMAINS): the gate trusts a record that says it is public;
-  - restricted text pasted into an infrastructure file outside the type roots (docs/,
-    plans/, resumption-summaries/, tools-resources/, root *.md) whose path names no
-    restricted publisher or document and which is not JSON declaring a restriction:
-    those paths change constantly and are not pinned;
+  - restricted text placed under a record that says it is public (outside
+    RESTRICTED_DOMAINS): the gate trusts a record that says it is public, whether or not
+    that is true. This includes the nine data-bearing files under the source-level
+    records weakness/mitre.org/cwe/cwe-metadata.json and
+    control/cloudsecurityalliance.org/aicm/aicm-metadata.json, which accept edits like
+    any file under a public record;
+  - restricted text in an infrastructure file outside the type roots (docs/, plans/,
+    resumption-summaries/, tools-resources/, root *.md) whose name the tripwire does not
+    recognise and which is not JSON declaring (or mis-typing) a restriction. The name
+    tripwire (5a) catches plausible accidental names only (`pci-dss-v4.0.1.md`,
+    `ISO27001-2022.md`); a deliberately disguised name gets through. Those paths change
+    constantly and are not pinned;
   - CSA-authored text deliberately pasted into an unrelated infrastructure file. The guarantee also assumes changes to this gate are
 themselves reviewed (below). It does this mechanically. It cannot
 judge whether an approval is authentic.
@@ -130,10 +136,15 @@ What it checks (blocking)
    a. a file whose path names a restricted publisher (the first label of each
       RESTRICTED_DOMAINS entry, e.g. `iso`, `pcisecuritystandards`, `aicpa-cima`) or a
       known restricted document (RESTRICTED_DOCUMENT_STEMS: `pci-dss`, `hitrust`,
-      `cobit`, `iso-27001`, ...) must be pinned. Matching is on whole path words, so
-      `isolation.md` does not trip `iso`;
-   b. a JSON file that anywhere declares `publicly_redistributable: false` or an
-      `access_tier` of 3 or 4 must be pinned.
+      `cobit`, `iso-27001`, ...) must be pinned. Short tokens match on whole path words,
+      so `isolation.md` does not trip `iso`; document stems and publisher labels of
+      COLLAPSED_LABEL_MIN or more characters also match inside each path segment with
+      every non-alphanumeric removed, so `ISO27001-2022.md` and `PCI-DSSv4_0_1.md` trip.
+      A name tripwire, not a content check: it catches plausible accidental names only;
+   b. a JSON file (read BOM-tolerantly) that at any depth declares
+      `publicly_redistributable: false` or an `access_tier` of 3 or 4, gives either field
+      a non-canonical value (`"false"`, `"4"`, `4.0`, null), or cannot be read or parsed
+      at all must be pinned.
 
 What it reports (non-blocking)
 ------------------------------
@@ -294,8 +305,18 @@ ROOT_FILE_PATTERNS: tuple[str, ...] = ("*.md", "LICENSE", ".gitignore", ".gitatt
 # must be pinned in FINGERPRINTS. Adding a stem tightens the gate.
 RESTRICTED_DOCUMENT_STEMS: tuple[tuple[str, ...], ...] = (
     ("pci", "dss"), ("hitrust",), ("hitrust", "csf"), ("cobit",), ("iso", "27001"), ("iso", "27002"),
-    ("tsc", "2017"), ("cis", "controls"),
+    ("iso", "27017"), ("iso", "42001"), ("iec", "62443"), ("tsc", "2017"), ("cis", "controls"),
+    ("swift", "csp"), ("swift", "cscf"),
 )
+# Check 5a also looks for these in the collapsed form of each path segment (lower-case,
+# every non-alphanumeric removed), so `ISO27001-2022.md`, `PCI-DSSv4_0_1.md` and
+# `COBIT2019.md` trip: every joined document stem above, and every publisher label of
+# COLLAPSED_LABEL_MIN or more characters. Shorter labels (`iso`, `iec`, `cen`, `ieee`,
+# `isc2`, `nfpa`) only match as whole path words, so `isolation` and `cisco` pass.
+# AMBIGUOUS_LABELS are ordinary words (`swift` is also a programming language): never
+# matched on their own, only through a document stem such as `swift-csp`.
+COLLAPSED_LABEL_MIN = 5
+AMBIGUOUS_LABELS: frozenset[str] = frozenset({"swift"})
 
 # Gitignored source originals (.gitignore) that a `<file>-file-metadata.json` sidecar may
 # describe although they are not tracked.
@@ -1221,39 +1242,84 @@ def is_infrastructure_path(rel: str) -> bool:
             or rel.startswith(INFRASTRUCTURE_PREFIXES))
 
 
+def _collapse(s: str) -> str:
+    return re.sub(r"[^a-z0-9]", "", s.lower())
+
+
 def restricted_path_tokens() -> set[tuple[str, ...]]:
     """Word sequences that name a restricted publisher (the first label of each
-    RESTRICTED_DOMAINS entry, e.g. ("iso",), ("aicpa", "cima")) or a known restricted
-    document (RESTRICTED_DOCUMENT_STEMS)."""
-    tokens = {tuple(d.rsplit(".", 1)[0].split("-")) for d in RESTRICTED_DOMAINS}
+    RESTRICTED_DOMAINS entry, e.g. ("iso",), ("aicpa", "cima"); not AMBIGUOUS_LABELS) or
+    a known restricted document (RESTRICTED_DOCUMENT_STEMS)."""
+    tokens = {tuple(d.rsplit(".", 1)[0].split("-")) for d in RESTRICTED_DOMAINS
+              if d.rsplit(".", 1)[0] not in AMBIGUOUS_LABELS}
     return tokens | set(RESTRICTED_DOCUMENT_STEMS)
 
 
+def restricted_collapsed_stems() -> set[str]:
+    """Strings looked for inside the collapsed form of each path segment."""
+    stems = {"".join(t) for t in RESTRICTED_DOCUMENT_STEMS}
+    for d in RESTRICTED_DOMAINS:
+        label = d.rsplit(".", 1)[0]
+        if label not in AMBIGUOUS_LABELS and len(_collapse(label)) >= COLLAPSED_LABEL_MIN:
+            stems.add(_collapse(label))
+    return stems
+
+
 def tripwire_token(rel: str) -> tuple[str, ...] | None:
-    """Check 5a: the restricted publisher or document a path names, matched on whole
+    """Check 5a: the restricted publisher or document a path names. Matched (1) on whole
     words of the path (split at anything not a letter or digit), so `iso-27001.md` and
-    `docs/iso/x.md` match `iso` while `isolation.md` does not."""
+    `docs/iso/x.md` match `iso` while `isolation.md` does not; and (2) inside the
+    collapsed form of each path segment, for the longer stems only, so `ISO27001-2022.md`
+    and `PCI-DSSv4_0_1.md` match while `cisco-notes.md` does not."""
     words = [w for w in re.split(r"[^a-z0-9]+", rel.lower()) if w]
     for tok in sorted(restricted_path_tokens(), key=lambda t: (-len(t), t)):
         n = len(tok)
         if any(tuple(words[i:i + n]) == tok for i in range(len(words) - n + 1)):
             return tok
+    segments = [_collapse(seg) for seg in rel.split("/")]
+    for stem in sorted(restricted_collapsed_stems(), key=lambda t: (-len(t), t)):
+        if any(stem in seg for seg in segments):
+            return (stem,)
     return None
 
 
-def declares_restriction(obj) -> bool:
-    """Check 5b: a JSON value that anywhere declares publicly_redistributable false or an
-    access_tier of 3 or 4."""
-    if isinstance(obj, dict):
-        if obj.get("publicly_redistributable") is False:
-            return True
-        tier = obj.get("access_tier")
-        if type(tier) is int and tier in (3, 4):
-            return True
-        return any(declares_restriction(v) for v in obj.values())
-    if isinstance(obj, list):
-        return any(declares_restriction(v) for v in obj)
-    return False
+def json_restriction(obj) -> str | None:
+    """Check 5b: why a JSON value needs a pin, or None. Searched at any nesting depth
+    (iteratively): a declared publicly_redistributable false or access_tier 3/4, or either
+    field with a value that is not canonical (publicly_redistributable not a boolean,
+    access_tier not the integer 1, 2, 3 or 4), which cannot be read as unrestricted."""
+    stack = [obj]
+    while stack:
+        cur = stack.pop()
+        if isinstance(cur, dict):
+            if "publicly_redistributable" in cur:
+                v = cur["publicly_redistributable"]
+                if v is False:
+                    return "declares publicly_redistributable false"
+                if not isinstance(v, bool):
+                    return f"has a non-boolean publicly_redistributable ({v!r})"
+            if "access_tier" in cur:
+                t = cur["access_tier"]
+                if type(t) is int and t in (3, 4):
+                    return f"declares access_tier {t}"
+                if not (type(t) is int and t in (1, 2)):
+                    return f"has a non-canonical access_tier ({t!r})"
+            stack.extend(cur.values())
+        elif isinstance(cur, list):
+            stack.extend(cur)
+    return None
+
+
+def json_tripwire(root: str, rel: str) -> str | None:
+    """Check 5b for one infrastructure `.json` file: read BOM-tolerantly; a file that
+    still cannot be read or parsed needs a pin, since its declarations cannot be checked."""
+    try:
+        with open(os.path.join(root, *rel.split("/")), encoding="utf-8-sig") as fh:
+            data = json.load(fh)
+    except (OSError, ValueError, RecursionError):  # UnicodeDecodeError and JSONDecodeError are ValueErrors
+        return "an infrastructure JSON file that cannot be read or parsed, so its declarations cannot be checked"
+    why = json_restriction(data)
+    return f"an infrastructure JSON file that {why}" if why else None
 
 
 def is_edition_metadata(rel: str) -> bool:
@@ -1520,14 +1586,9 @@ def analyse_metadata(root: str, files: list[str], allowlist: list[dict], fingerp
                 pins[f] = (f"an infrastructure file whose path names a restricted publisher or document "
                            f"({'-'.join(tok)})")
             if f.lower().endswith(".json"):
-                try:
-                    with open(os.path.join(root, *f.split("/")), encoding="utf-8") as fh:
-                        decl = declares_restriction(json.load(fh))
-                except (OSError, ValueError):
-                    decl = False
-                if decl:
-                    pins[f] = ("an infrastructure JSON file that declares publicly_redistributable false or "
-                               "access_tier 3/4")
+                why = json_tripwire(root, f)
+                if why:
+                    pins[f] = why
 
     for d, ms in sorted(metas.items()):
         if len(ms) > 1:  # 4f: which record governs would be ambiguous
@@ -2156,10 +2217,38 @@ def _self_test_data():
          {"docs/iso/27001-notes.md": "notes"}, True, "docs/iso/27001-notes.md", {"docs/iso/27001-notes.md"}, {}),
         ("R155r3 a legitimate docs/ file passes unpinned",
          {"docs/notes.md": "# Notes"}, False, None, {"docs/notes.md"}, {}),
-        ("R155r3 substrings are not tokens: isolation, swiftly, ciscoes and a public JSON pass unpinned",
+        ("R155r3/r4 look-alikes pass unpinned: isolation, swiftly, cisco, swift-programming, canonical public JSON",
          {"docs/isolation-guide.md": "x", "plans/2026-11-14-swiftly.md": "x", "tools-resources/ciscoes.md": "x",
-          "tools-resources/working/public.json": J({"license": {"publicly_redistributable": True}})},
+          "docs/cisco-notes.md": "x", "docs/swift-programming.md": "x",
+          "tools-resources/working/public.json": J({"license": {"publicly_redistributable": True},
+                                                    "nested": [{"access_tier": 2, "publicly_redistributable": True}]}),
+          "tools-resources/working/bom-public.json": "\ufeff" + J({"license": {"publicly_redistributable": True}})},
          False, None, "all", {}),
+        # --- round 4: filename variants and JSON that cannot be read as unrestricted
+        ("R155r4 Codex: docs/ISO27001-2022.md fails unless pinned (collapsed segment)",
+         {"docs/ISO27001-2022.md": big}, True, "docs/ISO27001-2022.md", {"docs/ISO27001-2022.md"}, {}),
+        ("R155r4 Codex: docs/PCI-DSSv4_0_1.md fails unless pinned (collapsed segment)",
+         {"docs/PCI-DSSv4_0_1.md": big}, True, "docs/PCI-DSSv4_0_1.md", {"docs/PCI-DSSv4_0_1.md"}, {}),
+        ("R155r4 a document stem split across path segments (docs/pci/dss-v4.md) fails unless pinned (word rule)",
+         {"docs/pci/dss-v4.md": big}, True, "docs/pci/dss-v4.md", {"docs/pci/dss-v4.md"}, {}),
+        ("R155r4 Codex: docs/COBIT2019.md fails unless pinned (collapsed segment)",
+         {"docs/COBIT2019.md": big}, True, "docs/COBIT2019.md", {"docs/COBIT2019.md"}, {}),
+        ("R155r4 Codex: a BOM-prefixed JSON declaring access_tier 4 and false fails unless pinned",
+         {"tools-resources/working/bom.json": "\ufeff" + J({"access_tier": 4, "publicly_redistributable": False,
+                                                             "text": big})},
+         True, "tools-resources/working/bom.json", {"tools-resources/working/bom.json"}, {}),
+        ("R155r4 Codex: a trailing-comma JSON that cannot be parsed fails unless pinned",
+         {"tools-resources/working/trailing.json": '{"publicly_redistributable": false, "text": "' + chunk + '",}'},
+         True, "tools-resources/working/trailing.json", {"tools-resources/working/trailing.json"}, {}),
+        ("R155r4 a nested access_tier given as the string \"4\" fails unless pinned",
+         {"tools-resources/working/nested-str-tier.json": J({"a": {"b": [{"access_tier": "4", "text": big}]}})},
+         True, "tools-resources/working/nested-str-tier.json", {"tools-resources/working/nested-str-tier.json"}, {}),
+        ("R155r4 a nested access_tier given as 4.0 fails unless pinned",
+         {"tools-resources/working/nested-float-tier.json": J({"x": [{"y": {"access_tier": 4.0}}]})},
+         True, "tools-resources/working/nested-float-tier.json", {"tools-resources/working/nested-float-tier.json"}, {}),
+        ("R155r4 a nested publicly_redistributable given as the string \"false\" fails unless pinned",
+         {"tools-resources/working/nested-str-pr.json": J({"items": [{"license": {"publicly_redistributable": "false"}}]})},
+         True, "tools-resources/working/nested-str-pr.json", {"tools-resources/working/nested-str-pr.json"}, {}),
         ("R155r3 a reviewed (pinned) tripwire file passes",
          {"docs/hitrust-csf-mapping-notes.md": "CSA's own notes on the mapping."}, False, None, set(), {}),
         ("R155r2-P1-1 PESONet as corrected (false), with content added: fails",

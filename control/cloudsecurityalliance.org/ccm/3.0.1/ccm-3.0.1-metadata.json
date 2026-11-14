@@ -14,12 +14,12 @@
   "relationToCloudSecurity": "CCM v3.0.1 was the dominant cloud security control framework from 2014 to 2021. Many existing CSA STAR Registry self-assessments and audit reports reference v3.0.1 control IDs. The framework mappings make v3.0.1 a useful pivot point for translating between cloud-security frameworks of that era.",
   "relationToAISecurity": "CCM v3.0.1 predates the modern AI security landscape. AI-specific cloud controls are now covered by CSA AICM (AI Controls Matrix). For AI workloads using cloud infrastructure, CCM v3.0.1 (or v4.x for new work) remains applicable to the underlying cloud platform; AICM adds AI-specific overlays.",
   "license": {
-    "spdx": "LicenseRef-CSA-CCM",
-    "redistribution": "permitted_with_attribution",
-    "derivatives": "permitted_with_attribution",
+    "spdx": "LicenseRef-CSA-Copyright-Notice",
+    "redistribution": "prohibited",
+    "derivatives": "prohibited",
     "publicly_redistributable": true,
-    "license_text_url": "https://cloudsecurityalliance.org/research/cloud-controls-matrix",
-    "notes": "CCM is published by CSA for industry use. Free download from CSA's artifacts portal (account registration required). Derivatives and structured extractions like this one are permitted with attribution to CSA. The source XLSX is committed here for full reproducibility because CCM is CSA-owned and CSA's redistribution policy permits it."
+    "license_text_url": "",
+    "notes": "CSA's own notice in ccm-3.0.1.xlsx (CSA CCM V3.0.1!A141, read 2026-11-14): \"\u00a9 Copyright 2014 Cloud Security Alliance - All rights reserved\". It lets users download, store, display, view, print and link to the document subject to the following: \"(a) the Cloud Controls Matrix v3.0.1 may be used solely for your personal, informational, non-commercial use; (b) the Cloud Controls Matrix v3.0.1 may not be modified or altered in any way; (c) the Cloud Controls Matrix v3.0.1 may not be redistributed; and (d) the trademark, copyright or other notices may not be removed\". Quotation is allowed under the fair-use provisions of the US Copyright Act, with attribution. CSA is the copyright holder and hosts its own material in this CSA-maintained public dataset: that is CSA's own authority, not a permission to anyone else, and downstream users have only the rights the notice grants. Corrected on 2026-11-14 (dataset-public-laws-regulations-standards#154): the earlier record said CSA publications are typically released under CC BY-NC-SA 4.0 (LicenseRef-CSA-CCM / permitted_with_attribution), which this notice does not support. Access, from the earlier record: a free download from CSA's artifacts portal, account registration required. The earlier statements that derivatives are permitted with attribution and that CSA's redistribution policy permits committing the source workbook were not supported by this notice and were removed; the workbook is not tracked here (*.xlsx is gitignored)."
   },
   "links": {
     "wikipedia": "https://en.wikipedia.org/wiki/Cloud_Controls_Matrix",
