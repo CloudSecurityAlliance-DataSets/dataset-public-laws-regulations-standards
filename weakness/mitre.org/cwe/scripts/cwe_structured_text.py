@@ -26,9 +26,9 @@ SUPPORTED_TAGS = frozenset(
     "p div br ul ol li b i table tbody tr th td caption img sup span".split()
 )
 _BLOCK_TAGS = frozenset({"p", "div", "ul", "ol", "table"})
-_TABLE_PARTS = frozenset({"tbody", "thead", "tfoot"})
-# Example_Code that holds these is real structured content, not source code.
-_STRUCTURAL_IN_CODE = frozenset({"p", "ul", "ol", "table"})
+_TABLE_PARTS = frozenset({"tbody"})
+# Example_Code that holds a list or table keeps that structure (a fence would destroy it).
+_STRUCTURAL_IN_CODE = frozenset({"ul", "ol", "table"})
 
 
 class UnsupportedMarkupError(ValueError):
@@ -49,20 +49,29 @@ _LINE_START_ESCAPES = (
     (re.compile(r"^(\s*)(>)"), r"\1\\\2"),
     (re.compile(r"^(\s*)([-+*])(?=\s|$)"), r"\1\\\2"),
     (re.compile(r"^(\s*)(\d+)([.)])(?=\s|$)"), r"\1\2\\\3"),
-    (re.compile(r"^(\s*)(-{3,}|={3,}|\*{3,}|_{3,})\s*$"), r"\1\\\2"),
-    (re.compile(r"^(\s*)(`{3,}|~{3,})"), r"\1\\\2"),
+    (re.compile(r"^(\s*)(={1,}|-{3,}|\*{3,}|_{3,})\s*$"), r"\1\\\2"),
+    (re.compile(r"^(\s*)(~{3,})"), r"\1\\\2"),
 )
+
+
+_BACKSLASH_BEFORE_PUNCT = re.compile(r"\\(?=[!-/:-@\[-`{-~])")
+# An underscore is literal inside a word (MAX_PATH) and would be emphasis elsewhere.
+_LONE_UNDERSCORE = re.compile(r"(?<![^\W_])_|_(?![^\W_])")
 
 
 def escape_inline(text: str, at_line_start: bool = True) -> str:
     """Escape prose so it renders as written, keeping it readable as plain text.
 
     ``<`` becomes ``&lt;``; ``&`` is escaped only where it would start an HTML
-    entity; a line-initial ``#``, ``>``, ``-``, ``+``, ``*`` or ``N.`` gets a
-    backslash. Ordinary mid-line punctuation is left alone. ``at_line_start``
-    says whether the first line of ``text`` begins a markdown line.
+    entity; ``*`` and backtick are always backslash-escaped, ``_`` unless it sits
+    between two alphanumerics; a line-initial ``#``, ``>``, ``-``, ``+``, ``=``
+    or ``N.`` gets a backslash. Other mid-line punctuation is left alone.
+    ``at_line_start`` says whether the first line of ``text`` begins a markdown line.
     """
+    text = _BACKSLASH_BEFORE_PUNCT.sub(r"\\\\", text)
     text = _ENTITY_AMP.sub("&amp;", text).replace("<", "&lt;")
+    text = text.replace("*", "\\*").replace("`", "\\`")
+    text = _LONE_UNDERSCORE.sub(r"\\_", text)
     out = []
     for i, line in enumerate(text.split("\n")):
         if i > 0 or at_line_start:
@@ -112,14 +121,14 @@ class _Inline:
     def br(self) -> None:
         self.pieces.append(("br", None))
 
-    def render(self, at_line_start: bool = True, br: str = "  \n") -> str:
+    def render(self, at_line_start: bool = True, br: str = "\\\n") -> str:
         out: list[str] = []
         line_start = at_line_start
         for kind, val in self.pieces:
             if kind == "br":
                 if out and out[-1].endswith(" "):
                     out[-1] = out[-1].rstrip(" ")
-                if out:  # a leading break adds nothing
+                if out and out[-1] != br:  # a leading or repeated break adds nothing
                     out.append(br)
                     line_start = True
                 continue
@@ -134,6 +143,8 @@ class _Inline:
                 continue
             out.append(escape_inline(t, at_line_start=line_start))
             line_start = False
+        while out and out[-1] == br:
+            out.pop()
         s = "".join(out).strip(" \n")
         return re.sub(r" +\n", "\n", s) if br == "\n" else s
 
@@ -192,7 +203,7 @@ def _inline_child(run: _Inline, c: Element, name: str, ctx: str, cell: bool) -> 
             return
         sub = _Inline()
         _fill_inline(sub, c, ctx, cell)
-        inner = sub.render(at_line_start=False, br="\n" if cell else "  \n")
+        inner = sub.render(at_line_start=False, br="\n" if cell else "\\\n")
         if not inner:
             run.text(" " if sub.pieces else "")
             return
@@ -221,7 +232,7 @@ def _blocks(e: Element, ctx: str, cell: bool = False) -> list[tuple[str, str]]:
 
     def flush() -> None:
         nonlocal run
-        s = run.render(br="\n" if cell else "  \n")
+        s = run.render(br="\n" if cell else "\\\n")
         if s:
             blocks.append(("text", s))
         run = _Inline()
@@ -315,7 +326,7 @@ def _table_md(e: Element, ctx: str) -> list[tuple[str, str]]:
     add_rows(e)
     out: list[tuple[str, str]] = []
     if caption:
-        out.append(("text", f"*{escape_inline(caption, at_line_start=False)}*"))
+        out.append(("text", f"*{caption}*"))
     if not rows:
         return out
     width = max(len(cells) for _, cells in rows)
@@ -384,8 +395,10 @@ class _Code:
         s = re.sub(r"\s*\r?\n\s*$", "", s)
         s = s.replace("\r\n", "\n")
         lines = s.split("\n")
-        if lead_nl and len(lines) > 1:
+        if lead_nl:  # every line is pretty-printed: remove the common indentation
             lines = textwrap.dedent("\n".join(lines)).split("\n")
+        elif len(lines) > 1:  # the first line continues the current one
+            lines = lines[:1] + textwrap.dedent("\n".join(lines[1:])).split("\n")
         for i, ln in enumerate(lines):
             if i:
                 self.finish_line()
@@ -434,8 +447,8 @@ def _walk_code(code: _Code, e: Element, ctx: str) -> None:
             name = _local(c.tag)
             if name == "br":
                 code.br()
-            elif name == "div":
-                indented = "margin-left" in (c.get("style") or "")
+            elif name in ("div", "p"):
+                indented = name == "div" and "margin-left" in (c.get("style") or "")
                 code.block_start(indented)
                 _walk_code(code, c, ctx)
                 code.block_end(indented)

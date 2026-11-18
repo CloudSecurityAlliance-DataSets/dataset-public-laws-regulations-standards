@@ -71,7 +71,7 @@ class StructuredTextUnit(unittest.TestCase):
         )
         out = st.structured_text_to_md(e, "T/x")
         self.assertEqual(
-            out, "x  \ny![Alt](https://cwe.mitre.org/data/images/a.png)"
+            out, "x\\\ny![Alt](https://cwe.mitre.org/data/images/a.png)"
         )
 
     def test_table_converts(self):
@@ -92,7 +92,13 @@ class StructuredTextUnit(unittest.TestCase):
         self.assertFalse(st.escape_inline("> quote").startswith(">"))
         self.assertTrue(st.escape_inline("- item").startswith("\\-"))
         self.assertTrue(st.escape_inline("1. item").startswith("1\\."))
-        self.assertEqual(st.escape_inline("a - b # c > d * e"), "a - b # c > d * e")
+        self.assertEqual(st.escape_inline("a - b # c > d = e"), "a - b # c > d = e")
+        self.assertEqual(st.escape_inline("nresp*sizeof(char*)"), "nresp\\*sizeof(char\\*)")
+        self.assertEqual(st.escape_inline("use `x`"), "use \\`x\\`")
+        self.assertEqual(st.escape_inline("MAX_PATH and snake_case"), "MAX_PATH and snake_case")
+        self.assertEqual(st.escape_inline("an _emphasis_ here"), "an \\_emphasis\\_ here")
+        self.assertEqual(st.escape_inline("text\n===="), "text\n\\====")
+        self.assertEqual(st.escape_inline("a \\* b"), "a \\\\\\* b")
         self.assertEqual(st.escape_inline("AT&T and &amp; x"), "AT&T and &amp;amp; x")
         cell = st.escape_table_cell("a|b\nc")
         self.assertNotIn("\n", cell)
@@ -103,6 +109,56 @@ class StructuredTextUnit(unittest.TestCase):
         out = st.structured_text_to_md(e, "T/x")
         self.assertTrue(out.startswith("\\#"))
         self.assertNotIn("<b", out)
+
+    def test_caption_escaped_once(self):
+        e = parse(
+            "<xhtml:table><xhtml:caption>a &lt; b</xhtml:caption>"
+            "<xhtml:tr><xhtml:td>x</xhtml:td></xhtml:tr></xhtml:table>"
+        )
+        self.assertTrue(st.structured_text_to_md(e, "T/x").startswith("*a &lt; b*\n\n"))
+
+    def test_thead_is_unsupported(self):
+        e = parse(
+            "<xhtml:table><xhtml:thead><xhtml:tr><xhtml:th>A</xhtml:th></xhtml:tr>"
+            "</xhtml:thead></xhtml:table>"
+        )
+        with self.assertRaises(st.UnsupportedMarkupError) as cm:
+            st.structured_text_to_md(e, "CWE-1/x")
+        self.assertIn("thead", str(cm.exception))
+
+    def test_pretty_printed_code_is_dedented(self):
+        # CWE-102 shape: tab-indented single-line segments between nested divs.
+        ec = ET.fromstring(
+            f'<Example_Code xmlns:xhtml="{XH}" Nature="Bad" Language="XML">'
+            "<xhtml:div>\n\t\t\t\t   &lt;form-validation&gt;\n\t\t\t\t   "
+            '<xhtml:div style="margin-left:1em;">\n\t\t\t\t\t &lt;formset&gt;\n\t\t\t\t\t '
+            '<xhtml:div style="margin-left:1em;">\n\t\t\t\t\t   &lt;form a="1"/&gt;'
+            "<xhtml:br />\n\t\t\t\t\t   &lt;form a=\"2\"/&gt;\n\t\t\t\t\t </xhtml:div>\n"
+            "\t\t\t\t\t &lt;/formset&gt;\n\t\t\t\t   </xhtml:div>\n"
+            "\t\t\t\t   &lt;/form-validation&gt;\n\t\t\t\t </xhtml:div></Example_Code>"
+        )
+        out = st.example_code_to_md(ec, "T/ex")
+        self.assertEqual(
+            out.split("```xml\n")[1].rsplit("\n```", 1)[0],
+            '<form-validation>\n    <formset>\n        <form a="1"/>\n'
+            '        <form a="2"/>\n    </formset>\n</form-validation>',
+        )
+
+    def test_multiline_segment_without_leading_newline_is_dedented(self):
+        ec = ET.fromstring(
+            f'<Example_Code xmlns:xhtml="{XH}" Language="C">a;\n\t\tb;\n\t\t  c;\n\t</Example_Code>'
+        )
+        self.assertIn("```c\na;\nb;\n  c;\n```", st.example_code_to_md(ec, "T/ex"))
+
+    def test_example_code_with_only_p_is_fenced(self):
+        ec = ET.fromstring(
+            f'<Example_Code xmlns:xhtml="{XH}" Nature="Attack" Language="Other">'
+            "<xhtml:p>GET /x HTTP/1.1</xhtml:p></Example_Code>"
+        )
+        self.assertEqual(
+            st.example_code_to_md(ec, "T/ex"),
+            "*Example (Attack, Other):*\n\n```other\nGET /x HTTP/1.1\n```",
+        )
 
     def test_fence_longer_than_backticks(self):
         out = st.fence("a ``` b\n\tindented", "php")
@@ -208,6 +264,52 @@ def structured_elements(root: ET.Element):
             yield e, False
 
 
+def find_weakness(root: ET.Element, cwe_id: str) -> ET.Element:
+    return next(
+        e for e in root.iter() if local(e.tag) == "Weakness" and e.get("ID") == cwe_id
+    )
+
+
+@unittest.skipUnless(ZIP_419.exists(), "4.19.1 original not present")
+class RealShapes(unittest.TestCase):
+    @classmethod
+    def setUpClass(cls):
+        cls.root = load_zip(ZIP_419)
+
+    def test_cwe1236_attack_p_example_is_fenced(self):
+        w = find_weakness(self.root, "1236")
+        ec = next(
+            e for e in w.iter()
+            if local(e.tag) == "Example_Code" and e.get("Nature") == "Attack"
+        )
+        out = st.example_code_to_md(ec, "CWE-1236")
+        self.assertTrue(out.startswith("*Example (Attack, Other):*\n\n```other\n"), out)
+        self.assertTrue(out.endswith("\n```"))
+
+    def test_cwe1220_table_example_is_structured(self):
+        w = find_weakness(self.root, "1220")
+        ec = next(
+            e for e in w.iter()
+            if local(e.tag) == "Example_Code"
+            and any(local(c.tag) == "table" for c in e.iter())
+        )
+        out = st.example_code_to_md(ec, "CWE-1220")
+        self.assertTrue(out.startswith("*Example (Bad, Other):*\n\n"))
+        self.assertNotIn("```", out)
+        self.assertIn("| --- |", out)
+
+    def test_cwe190_body_text_keeps_asterisks(self):
+        w = find_weakness(self.root, "190")
+        texts = [
+            st.structured_text_to_md(e, "CWE-190")
+            for e in w.iter()
+            if local(e.tag) in ("Body_Text", "Intro_Text")
+        ]
+        hit = [t for t in texts if "nresp" in t]
+        self.assertTrue(hit)
+        self.assertIn("nresp\\*sizeof(char\\*)", hit[0])
+
+
 class AllRealData(unittest.TestCase):
     def _convert_all(self, path: Path) -> int:
         root = load_zip(path)
@@ -236,6 +338,34 @@ class AllRealData(unittest.TestCase):
     @unittest.skipUnless(ZIP_50.exists(), "5.0 original not present")
     def test_all_structured_text_in_5_0_converts(self):
         self.assertGreater(self._convert_all(ZIP_50), 1000)
+
+    def _assert_code_indent_is_clean(self, path: Path) -> None:
+        root = load_zip(path)
+        bad = []
+        for e, is_code in structured_elements(root):
+            if not is_code:
+                continue
+            out = st.example_code_to_md(e, "x")
+            in_fence = False
+            for line in out.split("\n")[2:]:
+                if line.startswith("```"):
+                    in_fence = not in_fence
+                    continue
+                if not in_fence:
+                    continue
+                stripped = line.lstrip(" ")
+                indent = len(line) - len(stripped)
+                if line.startswith("\t") or indent % 4:
+                    bad.append(line[:60])
+        self.assertEqual(bad[:5], [], f"{len(bad)} badly indented code lines")
+
+    @unittest.skipUnless(ZIP_419.exists(), "4.19.1 original not present")
+    def test_code_indentation_clean_4_19_1(self):
+        self._assert_code_indent_is_clean(ZIP_419)
+
+    @unittest.skipUnless(ZIP_50.exists(), "5.0 original not present")
+    def test_code_indentation_clean_5_0(self):
+        self._assert_code_indent_is_clean(ZIP_50)
 
     @unittest.skipUnless(ZIP_50.exists(), "5.0 original not present")
     def test_output_is_deterministic(self):
