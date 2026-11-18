@@ -25,7 +25,7 @@ MITRE's Common Weakness Enumeration (CWE) version 4.19.1, released 2026-01-21, a
 | Entry type | Count |
 | --- | --- |
 | Weaknesses | 969 |
-| Categorys | 420 |
+| Categories | 420 |
 | Views | 58 |
 
 ### Weaknesses by abstraction
@@ -40,7 +40,7 @@ MITRE's Common Weakness Enumeration (CWE) version 4.19.1, released 2026-01-21, a
 
 ### By status
 
-| Status | Weaknesses | Categorys | Views |
+| Status | Weaknesses | Categories | Views |
 | --- | --- | --- | --- |
 | Stable | 26 | 46 | 8 |
 | Draft | 432 | 70 | 18 |
@@ -1022,7 +1022,7 @@ MITRE's Common Weakness Enumeration (CWE) version 4.19.1, released 2026-01-21, a
 | [CWE-1431](weaknesses/CWE-1431.md) | Driving Intermediate Cryptographic State/Results to Hardware Module Outputs | Base | Incomplete | Allowed |
 | [CWE-1434](weaknesses/CWE-1434.md) | Insecure Setting of Generative AI/ML Model Inference Parameters | Base | Draft | Allowed |
 
-## Categorys
+## Categories
 
 | ID | Name | Status |
 | --- | --- | --- |
