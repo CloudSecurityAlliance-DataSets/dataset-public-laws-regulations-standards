@@ -61,13 +61,22 @@ class LoadTests(unittest.TestCase):
             data = json.loads(side.read_text())
             data["sha256"] = "0" * 64
             side.write_text(json.dumps(data))
-            with self.assertRaises(cx.SourceVerificationError):
+            with self.assertRaisesRegex(cx.SourceVerificationError, "sha256"):
                 cx.load_edition(Path(tmp), "5.0")
 
     def test_version_mismatch_raises(self):
+        # Files carry the requested name so the SHA passes and the catalog
+        # Version check is what rejects them.
         with tempfile.TemporaryDirectory() as tmp:
-            self._copy(tmp, "5.0")
-            with self.assertRaises(cx.SourceVerificationError):
+            src = CWE_DIR / "5.0"
+            for suffix in ("", "-file-metadata.json"):
+                shutil.copyfile(
+                    src / f"cwec_v5.0.xml.zip{suffix}",
+                    Path(tmp) / f"cwec_v9.9.xml.zip{suffix}",
+                )
+            with self.assertRaisesRegex(
+                cx.SourceVerificationError, r"catalog Version '5\.0' != '9\.9'"
+            ):
                 cx.load_edition(Path(tmp), "9.9")
 
     def test_entry_helpers(self):
@@ -126,6 +135,45 @@ class OutlineTests(unittest.TestCase):
         for n in walk(cx.view_outline(ed, 1000)):
             ids = [c.cwe_id for c in n.children]
             self.assertEqual(ids, sorted(ids))
+
+
+class DanglingReferenceTests(unittest.TestCase):
+    def _mutated(self, edit):
+        ed = cx.load_edition(CWE_DIR / "5.0", "5.0")  # fresh, not the cache
+        edit(ed)
+        return ed
+
+    def test_dangling_view_root_raises(self):
+        def edit(ed):
+            m = cx.child(ed.views[1000], "Members")
+            m[0].set("CWE_ID", "999999")
+        ed = self._mutated(edit)
+        with self.assertRaisesRegex(cx.DanglingReferenceError, "view 1000.*CWE-999999"):
+            cx.view_outline(ed, 1000)
+
+    def test_dangling_group_member_raises(self):
+        def edit(ed):
+            for g in ed.groups.values():
+                for h in cx.children(cx.child(g, "Relationships"), "Has_Member"):
+                    if h.get("View_ID") == "699":
+                        h.set("CWE_ID", "999999")
+                        return
+            self.fail("no Has_Member in view 699")
+        ed = self._mutated(edit)
+        with self.assertRaisesRegex(cx.DanglingReferenceError, "view 699.*CWE-999999"):
+            cx.view_outline(ed, 699)
+
+    def test_dangling_childof_parent_raises(self):
+        def edit(ed):
+            rw = cx.child(ed.weaknesses[79], "Related_Weaknesses")
+            for r in cx.children(rw, "Related_Weakness"):
+                if r.get("Nature") == "ChildOf" and r.get("View_ID") == "1000":
+                    r.set("CWE_ID", "999999")
+                    return
+            self.fail("no ChildOf in view 1000")
+        ed = self._mutated(edit)
+        with self.assertRaisesRegex(cx.DanglingReferenceError, "view 1000.*CWE-999999"):
+            cx.view_outline(ed, 1000)
 
 
 class ImplicitTests(unittest.TestCase):

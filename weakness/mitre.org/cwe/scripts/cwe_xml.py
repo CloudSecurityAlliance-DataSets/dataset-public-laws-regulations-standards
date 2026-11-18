@@ -22,6 +22,10 @@ class SourceVerificationError(ValueError):
     """The edition's zip or XML does not match its committed sidecar/version."""
 
 
+class DanglingReferenceError(ValueError):
+    """A view names a CWE ID that is absent from the catalog."""
+
+
 def local(tag: str) -> str:
     return tag.rsplit("}", 1)[-1]
 
@@ -206,11 +210,14 @@ def _view_edges(ed: Edition, view_id: int):
 
 
 def _view_graph(ed: Edition, view_id: int):
-    roots = [r for r in explicit_members(ed, view_id) if entry_kind(ed, r)]
+    roots = explicit_members(ed, view_id)
     kids, primary = _view_edges(ed, view_id)
-    kids = {
-        p: sorted(c for c in cs if entry_kind(ed, c)) for p, cs in kids.items()
-    }
+    for i in [*roots, *kids, *(c for cs in kids.values() for c in cs)]:
+        if entry_kind(ed, i) is None:
+            raise DanglingReferenceError(
+                f"view {view_id} names CWE-{i}, which is not in the catalog"
+            )
+    kids = {p: sorted(cs) for p, cs in kids.items()}
     reachable: set[int] = set()
     parents: dict[int, set[int]] = {}
     stack = list(roots)
