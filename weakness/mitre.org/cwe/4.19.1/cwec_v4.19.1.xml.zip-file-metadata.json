@@ -6,5 +6,5 @@
   "retrieved_at": "2026-11-18T19:10:25Z",
   "retrieved_method": "curl",
   "license_override": null,
-  "notes": "MITRE's full CWE 4.19.1 XML (one file, cwec_v4.19.1.xml, inside the zip). Binary original: git-ignored here, kept in S3. Input to scripts/cwe_to_markdown.py, which refuses to run if this sha256 does not match."
+  "notes": "MITRE's full CWE 4.19.1 XML (one file, cwec_v4.19.1.xml, inside the zip). Binary original: git-ignored here, kept in S3. Input for the markdown rendering being added in #161; verify downloads against this sha256."
 }
