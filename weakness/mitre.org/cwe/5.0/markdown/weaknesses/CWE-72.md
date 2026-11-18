@@ -1,0 +1,106 @@
+---
+secid: "secid:weakness/mitre.org/cwe@5.0#CWE-72"
+cwe_id: "CWE-72"
+entry_type: weakness
+name: "Improper Handling of Apple HFS+ Alternate Data Stream Path"
+abstraction: Variant
+structure: Simple
+status: Incomplete
+mapping_usage: Allowed
+cwe_version: "5.0"
+cwe_release_date: "2026-10-28"
+upstream: "https://cwe.mitre.org/data/definitions/72.html"
+---
+
+# CWE-72: Improper Handling of Apple HFS+ Alternate Data Stream Path
+
+## Description
+
+The product does not properly handle special paths that may identify the data or resource fork of a file on the HFS+ file system.
+
+## Related Weaknesses
+
+| Nature | Entry | View | Ordinal |
+| --- | --- | --- | --- |
+| ChildOf | [CWE-66](../weaknesses/CWE-66.md) Improper Handling of File Names that Identify Virtual Resources (Base) | [CWE-1000](../views/CWE-1000.md) | Primary |
+
+## Weakness Ordinalities
+
+- **Resultant**
+
+## Applicable Platforms
+
+| Type | Class | Prevalence |
+| --- | --- | --- |
+| Language | Not Language-Specific | Undetermined |
+| Operating System | macOS | Undetermined |
+
+## Background Details
+
+The Apple HFS+ file system permits files to have multiple data input streams, accessible through special paths. The Mac OS X operating system provides a way to access the different data input streams through special paths and as an extended attribute:
+
+\- Resource fork: file/..namedfork/rsrc, file/rsrc (deprecated), xattr:com.apple.ResourceFork
+
+\- Data fork: file/..namedfork/data (only versions prior to Mac OS X v10.5)
+
+Additionally, on filesystems that lack native support for multiple streams, the resource fork and file metadata may be stored in a file with ".\_" prepended to the name.
+
+Forks can also be accessed through non-portable APIs.
+
+Forks inherit the file system access controls of the file they belong to.
+
+Programs need to control access to these paths, if the processing of a file system object is dependent on the structure of its path.
+
+## Modes Of Introduction
+
+- **Implementation**
+
+## Common Consequences
+
+| Scope | Impact | Note |
+| --- | --- | --- |
+| Confidentiality<br>Integrity | Read Files or Directories<br>Modify Files or Directories<br>Bypass Protection Mechanism | If the product chooses actions to take based on the file name, then if an attacker provides the data or resource fork, the product may take unexpected actions. Further, if the product intends to restrict access to a file, then an attacker might still be able to bypass intended access restrictions by requesting the data or resource fork for that file. |
+
+## Demonstrative Examples
+
+### Example 1 (DX-227)
+
+Consider a web server that uses the Apple HFS+ file system. It interprets FILE.cgi as processing instructions.
+
+An adversary could request "FILE.cgi/..namedfork/data" to prevent FILE.cgi from being executed, instead disclosing the source code for FILE.cgi. This might occur because the web server invokes the default handler which may return the contents of the file.
+
+## Observed Examples
+
+| Reference | Description |
+| --- | --- |
+| [CVE-2004-1084](https://www.cve.org/CVERecord?id=CVE-2004-1084) | Server allows remote attackers to read files and resource fork content via HTTP requests to certain special file names related to multiple data streams in HFS+. |
+
+## Functional Areas
+
+- File Processing
+
+## Affected Resources
+
+- File or Directory
+
+## References
+
+- [REF-578] NetSec. "NetSec Security Advisory: Multiple Vulnerabilities Resulting From Use Of Apple OSX HFS+". BugTraq. 2005-02-16. <https://seclists.org/bugtraq/2005/Feb/309> (URL validated: 2023-04-07).
+
+## Mapping Notes
+
+- **Usage:** Allowed
+- **Rationale:** This CWE entry is at the Variant level of abstraction, which is a preferred level of abstraction for mapping to the root causes of vulnerabilities.
+- **Comments:** Carefully read both the name and description to ensure that this mapping is an appropriate fit. Do not try to 'force' a mapping to a lower-level Base/Variant simply to comply with this preferred level of abstraction.
+- **Reasons:** Acceptable-Use
+
+## Notes
+
+- **Theoretical**: This and similar problems exist because the same resource can have multiple identifiers that dictate which behavior can be performed on the resource.
+
+- **Research Gap**: Under-studied
+
+---
+Generated from MITRE's CWE 5.0 XML (cwec_v5.0.xml) by weakness/mitre.org/cwe/scripts/cwe_to_markdown.py. Content history is omitted.
+Copyright © The MITRE Corporation. CWE™ is a trademark of The MITRE Corporation.
+Used under the CWE Terms of Use: https://cwe.mitre.org/about/termsofuse.html (full text: https://github.com/CloudSecurityAlliance-DataSets/dataset-public-laws-regulations-standards/blob/main/weakness/mitre.org/cwe/5.0/LICENSE.txt).
