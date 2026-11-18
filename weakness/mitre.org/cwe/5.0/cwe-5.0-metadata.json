@@ -38,7 +38,7 @@
   "lifecycle": {
     "published": "2026-10-28",
     "active": true,
-    "supersedes": "CWE 4.19.1 (held in this repository at weakness/mitre.org/cwe/4.19.1/) and earlier 4.x versions; MITRE also published 4.20 and 4.21 before 5.0, which are not held here",
+    "supersedes": "CWE 4.21, 4.20 and 4.19.1 (held in this repository at weakness/mitre.org/cwe/4.21/, 4.20/ and 4.19.1/) and earlier 4.x versions; MITRE published 4.21 the same day as 5.0",
     "supersededBy": null,
     "retiredFromActiveUse": null,
     "notes": "CWE is on a roughly quarterly release cadence. 5.0 is a major version with XML schema 8.0 (namespace cwe-8): Categories/Category became Groupings/Grouping, weaknesses gained Dimensions and Technical_Nuance elements, and a new relationship nature Overlaps was added. Version-specific extractions are kept here for mapping reproducibility."

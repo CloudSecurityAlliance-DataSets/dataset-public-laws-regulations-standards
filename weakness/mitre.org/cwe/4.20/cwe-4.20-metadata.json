@@ -1,0 +1,80 @@
+{
+  "secid": "secid:weakness/mitre.org/cwe@4.20",
+  "name": "Common Weakness Enumeration",
+  "acronym": "CWE",
+  "alternate_names": [
+    "MITRE CWE",
+    "CWE List"
+  ],
+  "version": "4.20",
+  "publication_id": "CWE-4.20",
+  "owner": "MITRE Corporation (with US-CERT/CISA sponsorship)",
+  "type": "Taxonomy",
+  "description": "CWE is a community-developed list of common software and hardware weakness types. Each CWE entry describes a class of weakness (e.g., CWE-79 Cross-Site Scripting, CWE-89 SQL Injection) with consequences, examples, mitigations, and relationships to other entries. CVE entries cite their underlying weakness type via CWE IDs. CWE is organized into views — most-used are CWE-1000 (Research Concepts, the parent taxonomy), CWE-699 (Software Development), and CWE-1194 (Hardware Design). Version 4.20 is a release of the 4.x branch (XML schema 7.3) published 2026-04-30.",
+  "relationToCloudSecurity": "CWE underpins CVE classification: every CVE typically maps to one or more CWE IDs identifying the underlying weakness pattern. Cloud workload protection and code analysis tools commonly classify findings by CWE. The CWE Top 25 Most Dangerous Weaknesses is widely referenced in cloud-security guidance and procurement checklists.",
+  "relationToAISecurity": "CWE has begun adding AI-relevant weaknesses (e.g., CWE-1039 Inadequate Detection or Handling of Adversarial Input Perturbations in Automated Recognition Mechanism, CWE-1426 Improper Validation of Generative AI Output). MITRE ATLAS and CSA AICM provide more AI-specific coverage; CWE captures AI weaknesses at the software-engineering layer.",
+  "license": {
+    "spdx": "LicenseRef-MITRE-CWE-Terms-of-Use",
+    "redistribution": "permitted_with_attribution",
+    "derivatives": "permitted_with_attribution",
+    "publicly_redistributable": true,
+    "license_text_url": "https://cwe.mitre.org/about/termsofuse.html",
+    "notes": "MITRE CWE Terms of Use permit free use, redistribution, and derivative works with attribution to MITRE. A copy of the upstream LICENSE.txt is committed alongside the data for provenance."
+  },
+  "access_tier": 2,
+  "tier_evidence": {
+    "url": "https://cwe.mitre.org/data/archive.html",
+    "checked": "2026-11-18",
+    "method": "fetch",
+    "note": "MITRE's CWE archive page links each past release's full XML zip, served over plain HTTP(S) with no login; the Terms of Use page grants free use and redistribution with attribution."
+  },
+  "links": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Common_Weakness_Enumeration",
+    "source": "https://cwe.mitre.org/",
+    "textUsed": "https://cwe.mitre.org/data/archive.html",
+    "downloadXml": "https://cwe.mitre.org/data/xml/cwec_v4.20.xml.zip",
+    "csaLocation": ""
+  },
+  "lifecycle": {
+    "published": "2026-04-30",
+    "active": false,
+    "supersedes": "CWE 4.19.1 (held in this repository at weakness/mitre.org/cwe/4.19.1/) and earlier 4.x versions",
+    "supersededBy": "4.21",
+    "retiredFromActiveUse": null,
+    "notes": "CWE is on a roughly quarterly release cadence; 4.20 followed 4.19.1 and was followed by 4.21, which MITRE published on 2026-10-28 together with 5.0. Same XML schema family as 4.19.1 (cwe-7 namespace, schema 7.3). Version-specific extractions are kept here for mapping reproducibility."
+  },
+  "current_extraction": {
+    "s3_timestamp": "unknown",
+    "tool": "scripts/cwe_to_markdown.py (markdown/ from MITRE's full XML)",
+    "tool_version": "n/a",
+    "extraction_host": "local",
+    "flags": [],
+    "force_ocr": null,
+    "notes": "MITRE archives only the full XML for past releases, so this edition has no CSV, per-view JSON or merged cwe-4.20-all files; only markdown/ is generated, by scripts/cwe_to_markdown.py from cwec_v4.20.xml.zip (kept in S3 and pinned by cwec_v4.20.xml.zip-file-metadata.json, which the script checks before it runs). The markdown/ folder is an index and one page per weakness, category and view. MITRE's REST API serves only the latest content, so it cannot reproduce this edition; the versioned XML zip is the source of record."
+  },
+  "extraction_history": [
+    {
+      "s3_timestamp": "unknown",
+      "status": "current",
+      "reason": "Direct download of MITRE's full CWE 4.20 XML and generation of markdown/",
+      "tool": "scripts/cwe_to_markdown.py"
+    }
+  ],
+  "scope": {
+    "full_xml": {
+      "weaknesses": 969,
+      "deprecated_weaknesses": 25,
+      "categories": 422,
+      "views": 59,
+      "external_references": 1026
+    },
+    "xml_schema": "7.3",
+    "view_1000_name": "Research Concepts"
+  },
+  "notes": "CWE is the authoritative weakness taxonomy referenced by CVE, the OWASP Top 10, MITRE ATT&CK weakness mappings, and most static-analysis tools. The upstream MITRE site is canonical for definitions. This edition holds only the markdown generated from MITRE's full XML; it has no structured CSV/JSON (see weakness/mitre.org/cwe/5.0/ and 4.19.1/ for those).",
+  "desired_end_state": {
+    "state": "structured",
+    "reason": "taxonomy",
+    "notes": "MITRE CWE — Terms of Use permit redistribution + derivatives. Explicit setter to prevent heuristic reverts; this edition's structured form is the generated markdown (MITRE archives only full XML for past releases)."
+  }
+}

@@ -48,10 +48,14 @@ CWE is a community-developed list of common software and hardware security weakn
 
 Each edition directory holds a `markdown/` folder generated from MITRE's full XML for that edition, for people to read and for AI pipelines to ingest:
 
-| Edition | Folder | Pages |
-|---|---|---|
-| 4.19.1 | [`4.19.1/markdown/`](4.19.1/markdown/index.md) | index, 969 weaknesses, 420 categories, 58 views |
-| 5.0 | [`5.0/markdown/`](5.0/markdown/index.md) | index, 984 weaknesses, 431 groupings, 62 views |
+| Edition | Folder | Pages | Other files |
+|---|---|---|---|
+| 4.19.1 | [`4.19.1/markdown/`](4.19.1/markdown/index.md) | index, 969 weaknesses, 420 categories, 58 views | per-view CSV and JSON, merged `cwe-4.19.1-all.*` |
+| 4.20 | [`4.20/markdown/`](4.20/markdown/index.md) | index, 969 weaknesses, 422 categories, 59 views | none (XML only) |
+| 4.21 | [`4.21/markdown/`](4.21/markdown/index.md) | index, 984 weaknesses, 431 categories, 62 views | none (XML only) |
+| 5.0 | [`5.0/markdown/`](5.0/markdown/index.md) | index, 984 weaknesses, 431 groupings, 62 views | per-view CSV and JSON, merged `cwe-5.0-all.*` |
+
+MITRE archives only the full XML for past releases, so 4.20 and 4.21 (the latter published the same day as 5.0, as the schema-7 release) have the generated markdown but no CSV, per-view JSON or merged files.
 
 - `index.md`: edition, release date, source zip and its SHA-256, licence and attribution, counts, and tables of every weakness, category or grouping, and view.
 - `weaknesses/CWE-<id>.md`: one page per weakness, deprecated ones included. YAML front matter (`secid`, `cwe_id`, `name`, `abstraction`, `structure`, `status`, `mapping_usage`, `cwe_version`, `upstream`), then MITRE's sections in schema order. Each heading is MITRE's element name with spaces for underscores, so its GitHub anchor equals the SecID section subpath (`#potential-mitigations`).
