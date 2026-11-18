@@ -20,18 +20,21 @@ Kurt's asks, verbatim (2026-11-18):
 
 Answer to the last, chosen by Kurt: "XML, one pass (Recommended)".
 
+> "we also need to get 4.20 and 4.21 I guess?"
+
+MITRE archives only the full XML (plus PDF and diff reports) for past releases, so 4.20 and 4.21 are added as XML-only editions: original zip (S3) and sidecar, metadata, `LICENSE.txt` and generated `markdown/`. They have no per-view CSV, per-view JSON or merged files, because MITRE does not publish those for past releases (AI's call, 2026-11-18).
+
 The CWE data here today is CSV and JSON. The CSV packs most fields into ambiguous `::KEY:value::` strings; the per-view JSON is a `yq` conversion of MITRE's XML that loses the order of mixed text and markup. Neither reads well for a person or an AI pipeline. Markdown, one page per entry, gives both a clean unit to read, cite and retrieve.
 
 ## Goals
 
 1. Scripts that render one CWE edition as markdown: an index page, one page per weakness, one per category (4.x) or grouping (5.0), and one per view.
-2. Render both editions held here: 4.19.1 (existing) and 5.0 (new).
+2. Render every edition held here: 4.19.1 (existing), 4.20, 4.21 and 5.0 (new).
 3. Add CWE 5.0 as a full edition, matching what 4.19.1 holds (MITRE's three per-view CSVs and per-view JSON, merged `cwe-5.0-all.{csv,json}`, `LICENSE.txt`, metadata), plus the full XML original for both editions.
 4. Output regenerates byte for byte from a pinned input, so the planned reproducibility gate (#158) can re-run it.
 
 ## Non-goals
 
-- CWE 4.20 and 4.21 (4.21 is a schema-7 copy of 5.0 for migrating consumers).
 - Changing the existing 4.19.1 CSV, per-view JSON or merged files.
 - A corrected JSON export from the XML. The markdown is this pass's readable form; the `yq` per-view JSON is kept for parity and its limitation recorded in metadata.
 - A per-item record repo (`SecID-weakness`, AGENTS.md tier 3). These pages are a rendering of the whole catalog, not provenance-enveloped records.

@@ -143,9 +143,26 @@
 - [ ] **Step 6:** Spot-check the pages listed in spec §Verification against `https://cwe.mitre.org/data/definitions/<id>.html`; report any difference in content (not layout).
 - [ ] **Step 7:** Run the whole test suite and `python3 -I tools-resources/utils/check_tier_restrictions.py` (after `git add -N`). Expected: all pass.
 
+### Task 5: CWE 4.20 and 4.21 editions (XML-only)
+
+Added 2026-11-18 at Kurt's request ("we also need to get 4.20 and 4.21 I guess?"). MITRE archives only the full XML for past releases, so these editions have no CSV, per-view JSON or merged files.
+
+**Files:**
+- Create in `weakness/mitre.org/cwe/4.20/` and `weakness/mitre.org/cwe/4.21/`: `cwec_v<v>.xml.zip` (git-ignored; download from `https://cwe.mitre.org/data/xml/cwec_v<v>.xml.zip`), `cwec_v<v>.xml.zip-file-metadata.json` (same shape and wording as `5.0/cwec_v5.0.xml.zip-file-metadata.json`; real `retrieved_at` in UTC), `cwe-<v>-metadata.json`, `LICENSE.txt` (copy of `5.0/LICENSE.txt` after confirming MITRE's terms are unchanged), `markdown/**` (generated)
+- Modify: `weakness/mitre.org/cwe/4.19.1/cwe-4.19.1-metadata.json` (`lifecycle.supersededBy` → `4.20`; note), `weakness/mitre.org/cwe/5.0/cwe-5.0-metadata.json` (`lifecycle.supersedes` names 4.21, 4.20 and 4.19.1 as held), `weakness/mitre.org/cwe/README.md` (list all four editions; say which have CSV/JSON)
+
+**Interfaces:**
+- Consumes: `cwe_to_markdown.py --version V [--check]` (Task 4); `load_edition` (Task 3). No code changes expected; if the renderer or loader fails on 4.20/4.21, fix it there with a test and report it.
+
+- [ ] **Step 1:** Download both zips; confirm each holds one `cwec_v<v>.xml` whose `Weakness_Catalog/@Version` is `4.20` / `4.21`; write the sidecars with the measured SHA-256.
+- [ ] **Step 2:** Write `cwe-4.20-metadata.json` and `cwe-4.21-metadata.json` from `cwe-5.0-metadata.json`'s structure, with each edition's own facts measured from its XML: catalog date (`lifecycle.published`), schema version from `xsi:schemaLocation`, counts (weaknesses, deprecated, categories, views, external references), `access_tier` 2 with `tier_evidence` (url `https://cwe.mitre.org/data/archive.html`, checked `2026-11-18`). Lifecycle: 4.20 `supersedes` 4.19.1, `supersededBy` `4.21`; 4.21 `supersedes` 4.20, `supersededBy` `5.0`, note that MITRE published 4.21 the same day as 5.0 as the schema-7 release for consumers migrating to schema 8, and state how its counts compare with 5.0 as measured. Both `active: false`. `current_extraction`: tool `scripts/cwe_to_markdown.py`; notes that MITRE archives only full XML for past releases, so no CSV/JSON files exist here. No claim that is not measured.
+- [ ] **Step 3:** Generate and check: `cwe_to_markdown.py --version 4.20`, `--version 4.21`, then `--check` for all four editions. Expected: exit 0 each. Report counts and `du -sh` per `markdown/`.
+- [ ] **Step 4:** Run the full `unittest` suite, `audit_secid_alignment.py`, `check_tier_restrictions.py` (after `git add -N`). Expected: all pass.
+- [ ] **Step 5:** Commit.
+
 ### Controller finish (after all tasks are reviewed)
 
 - [ ] Regenerate `INDEX.md` (`build_index.py`); run `audit_secid_alignment.py` and `check_tier_restrictions.py`.
-- [ ] `sync_originals_to_s3.sh --dry-run`, then the real sync for the two zips.
+- [ ] `sync_originals_to_s3.sh --dry-run`, then the real sync for the four zips.
 - [ ] Whole-branch review on the strongest model; fix findings.
 - [ ] PR with `Closes #160`, sizes, counts, verification results; resumption summary.
