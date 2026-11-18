@@ -116,7 +116,7 @@ Copyright © The MITRE Corporation. CWE™ is a trademark of The MITRE Corporati
 Used under the CWE Terms of Use: https://cwe.mitre.org/about/termsofuse.html (full text: <absolute GitHub URL of this edition's LICENSE.txt>).
 ```
 
-**Licence decision (AI's call, 2026-11-18, under Kurt's goal order: honesty and correctness over cost).** Each page carries MITRE's copyright designation, the trademark notice and a licence statement with absolute links. Each `markdown/` folder and edition directory carries the full `LICENSE.txt`. Inlining the full licence (about 2.7 KB) on every page was rejected: about 8 MB across 2,900 pages and boilerplate in every retrieval chunk. The repository and each `markdown/` folder are the copies that reproduce the licence in full. Kurt can overrule this.
+**Licence decision (AI's call, 2026-11-18, under Kurt's goal order: honesty and correctness over cost).** Each page carries MITRE's copyright designation, the trademark notice and a licence statement with absolute links. Each `markdown/` folder and edition directory carries the full `LICENSE.txt`. Inlining the full licence (about 2.7 KB) on every page was rejected: about 8 MB across 2,900 pages and boilerplate in every retrieval chunk. The repository and each `markdown/` folder are the copies that reproduce the licence in full. Kurt confirmed the licence question is settled (2026-11-18): *"we treat mitre like the gov, we republish their data, it's fine."* The short attribution footer stays because MITRE's terms ask for it and it costs nothing.
 
 ## Structured text (XHTML to markdown)
 
