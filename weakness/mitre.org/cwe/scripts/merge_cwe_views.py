@@ -12,12 +12,14 @@ Common Consequences, etc.) are identical across views — only the
 relationship columns differ. This script merges by CWE-ID and tracks
 which views each entry appears in.
 
-Input: CWE-Research-Concepts-1000.csv
-       CWE-Software-Development-699.csv
-       CWE-Hardware-Design-1194.csv
+Usage: merge_cwe_views.py --edition-dir DIR --version V
 
-Output: cwe-4.19.1-all.csv
-        cwe-4.19.1-all.json
+Input (in DIR): CWE-Research-Concepts-1000.csv
+                CWE-Software-Development-699.csv
+                CWE-Hardware-Design-1194.csv
+
+Output (in DIR): cwe-V-all.csv
+                 cwe-V-all.json
 
 Each output row has:
   - cwe_id              numeric (e.g., 79)
@@ -38,9 +40,11 @@ Each output row has:
   - taxonomy_mappings
   - related_attack_patterns
 """
+import argparse
 import csv
 import json
 import re
+from pathlib import Path
 from collections import defaultdict
 
 VIEW_FILES = [
@@ -58,9 +62,16 @@ def parse_capec(s):
 
 
 def main():
+    ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
+    ap.add_argument("--edition-dir", required=True, type=Path,
+                    help="directory holding the three per-view CSVs; outputs are written here")
+    ap.add_argument("--version", required=True, help="CWE version, e.g. 5.0")
+    args = ap.parse_args()
+    edition_dir = args.edition_dir
+
     by_id = {}
     for view_id, fn in VIEW_FILES:
-        with open(fn, newline="", encoding="utf-8") as f:
+        with open(edition_dir / fn, newline="", encoding="utf-8") as f:
             reader = csv.DictReader(f)
             for row in reader:
                 cwe_id_raw = row.get("CWE-ID", "").strip()
@@ -101,7 +112,7 @@ def main():
     sorted_entries = sorted(by_id.values(), key=lambda x: x["cwe_id"])
 
     # Write JSON (rich)
-    with open("cwe-4.19.1-all.json", "w", encoding="utf-8") as f:
+    with open(edition_dir / f"cwe-{args.version}-all.json", "w", encoding="utf-8") as f:
         json.dump(sorted_entries, f, indent=2, ensure_ascii=False)
 
     # Write CSV (flattened — views list joined, related_weaknesses_by_view JSON-encoded)
@@ -113,7 +124,7 @@ def main():
         "detection_methods", "potential_mitigations", "observed_examples",
         "taxonomy_mappings", "related_attack_patterns", "likelihood_of_exploit",
     ]
-    with open("cwe-4.19.1-all.csv", "w", newline="", encoding="utf-8") as f:
+    with open(edition_dir / f"cwe-{args.version}-all.csv", "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=fields, quoting=csv.QUOTE_ALL)
         w.writeheader()
         for e in sorted_entries:

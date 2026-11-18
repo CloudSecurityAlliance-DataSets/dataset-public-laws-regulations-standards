@@ -1,0 +1,10 @@
+{
+  "filename": "cwec_v4.19.1.xml.zip",
+  "role": "source",
+  "sha256": "61e08a4e9298ba77f2213f6d467ff00557b90d11f37ecf710204237339d9c68f",
+  "retrieved_from": "https://cwe.mitre.org/data/xml/cwec_v4.19.1.xml.zip",
+  "retrieved_at": "2026-11-18T19:10:25Z",
+  "retrieved_method": "curl",
+  "license_override": null,
+  "notes": "MITRE's full CWE 4.19.1 XML (one file, cwec_v4.19.1.xml, inside the zip). Binary original: git-ignored here, kept in S3. Input for the markdown rendering being added in #161; verify downloads against this sha256."
+}
