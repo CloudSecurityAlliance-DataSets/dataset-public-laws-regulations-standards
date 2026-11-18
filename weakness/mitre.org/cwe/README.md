@@ -67,7 +67,7 @@ python3 weakness/mitre.org/cwe/scripts/cwe_to_markdown.py --version 5.0 --check 
 python3 -m unittest discover -s weakness/mitre.org/cwe/scripts/tests -v
 ```
 
-The script refuses to run if the zip's SHA-256 differs from its committed sidecar (`cwec_v<version>.xml.zip-file-metadata.json`), and it fails on XML elements or markup it does not know rather than dropping them. Output is byte-for-byte reproducible.
+The script refuses to run if the zip's SHA-256 differs from its committed sidecar (`cwec_v<version>.xml.zip-file-metadata.json`), and it fails rather than dropping anything: on XML elements, attributes or markup it does not know, and on a second copy of an element that MITRE's schema allows only once. Every element the schema lets repeat is rendered in full. Output is byte-for-byte reproducible.
 
 What is left out:
 

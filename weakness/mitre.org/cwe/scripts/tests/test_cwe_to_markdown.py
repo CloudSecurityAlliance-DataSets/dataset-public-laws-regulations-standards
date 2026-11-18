@@ -206,7 +206,8 @@ class PageTests(unittest.TestCase):
             index = dict(h2_sections(files["index.md"]))
             for heading, kind, count in (
                 ("Weaknesses", "weaknesses", nw),
-                (ed.group_term + "s", ed.group_dir, ng),
+                ({"Category": "Categories", "Grouping": "Groupings"}[ed.group_term],
+                 ed.group_dir, ng),
                 ("Views", "views", nv),
             ):
                 rows = [ln for ln in index[heading].split("\n") if ln.startswith("| [CWE-")]
@@ -214,6 +215,17 @@ class PageTests(unittest.TestCase):
                 ids = [int(re.match(r"\| \[CWE-(\d+)\]", r).group(1)) for r in rows]
                 self.assertEqual(ids, sorted(ids), f"{v} {heading} not in numeric order")
                 self.assertIn(f"]({kind}/CWE-{ids[0]}.md)", rows[0])
+
+    def test_index_plurals(self):
+        expected = {"4.19.1": "Categories", "5.0": "Groupings"}
+        for v in VERSIONS:
+            page = FILES[v]["index.md"]
+            self.assertIn(f"\n## {expected[v]}\n", page)
+            self.assertIn(f"| {expected[v]} | {CATALOG[v][1]} |", page)
+            self.assertIn(f"| Status | Weaknesses | {expected[v]} | Views |", page)
+            for path, text in FILES[v].items():
+                self.assertNotIn("Categorys", text, f"{v} {path}")
+                self.assertNotIn("Groupings s", text, f"{v} {path}")
 
     def test_license_copied(self):
         for v in VERSIONS:
@@ -416,6 +428,49 @@ class ContentTests(unittest.TestCase):
         page = ctm.render_group(ed, g)
         self.assertIn("CWE-999998", page)
         self.assertNotIn("[CWE-999998]", page)
+
+    def test_repeated_values_all_rendered(self):
+        # Observed_Example/Rationale repeats (schema 8): both values on CWE-125's Heartbleed row
+        page = FILES["5.0"]["weaknesses/CWE-125.md"]
+        row = next(ln for ln in page.split("\n") if ln.startswith("| [CVE-2014-0160]("))
+        self.assertIn("Influential/Newsworthy; Chain", row)
+        # External_Reference/Media_Type repeats: REF-1556 lists two media types
+        page = FILES["5.0"]["weaknesses/CWE-1461.md"]
+        ref = next(ln for ln in page.split("\n") if ln.startswith("- [REF-1556]"))
+        self.assertIn("Media types: Common-Proprietary-Text; Video", ref)
+
+    def test_repeated_single_valued_element_fails(self):
+        ed = ED["5.0"]
+        ns = ed.weaknesses[79].tag[: ed.weaknesses[79].tag.index("}") + 1]
+        w = copy.deepcopy(ed.weaknesses[79])
+        w.append(copy.deepcopy(cx.child(w, "Description")))
+        with self.assertRaisesRegex(ctm.UnexpectedMarkupError, r"CWE-79.*<Description> appears 2 times"):
+            ctm.render_weakness(ed, w)
+        w = copy.deepcopy(ed.weaknesses[79])
+        mn = cx.child(w, "Mapping_Notes")
+        ET.SubElement(mn, ns + "Usage").text = "Prohibited"
+        with self.assertRaisesRegex(ctm.UnexpectedMarkupError, r"CWE-79.*<Usage> appears 2 times"):
+            ctm.render_weakness(ed, w)
+        w = copy.deepcopy(ed.weaknesses[79])
+        mit = cx.child(cx.child(w, "Potential_Mitigations"), "Mitigation")
+        ET.SubElement(mit, ns + "Strategy").text = "One"
+        ET.SubElement(mit, ns + "Strategy").text = "Two"
+        with self.assertRaisesRegex(ctm.UnexpectedMarkupError, r"CWE-79.*<Strategy> appears"):
+            ctm.render_weakness(ed, w)
+        view = copy.deepcopy(ed.views[1000])
+        view.append(copy.deepcopy(cx.child(view, "Members")))
+        with self.assertRaisesRegex(ctm.UnexpectedMarkupError, r"CWE-1000.*<Members> appears 2 times"):
+            ctm.render_view(ed, view)
+        ref = copy.deepcopy(ed.references["REF-709"])
+        ET.SubElement(ref, ns + "Title").text = "Second title"
+        ed2 = dataclasses.replace(ed, references={**ed.references, "REF-709": ref})
+        with self.assertRaisesRegex(ctm.UnexpectedMarkupError, r"REF-709.*<Title> appears 2 times"):
+            ctm.render_weakness(ed2, ed.weaknesses[79])
+
+    def test_no_unchecked_single_reads(self):
+        # Every single-valued read goes through _one(), which fails on a repeat.
+        src = Path(ctm.__file__).read_text(encoding="utf-8")
+        self.assertIsNone(re.search(r"(?<![\w.])child\(|cx\.child\(", src))
 
     def test_unknown_element_fails(self):
         ed = ED["5.0"]

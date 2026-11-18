@@ -12,7 +12,8 @@ memory and exits 1, listing every file that differs, is missing or is extra.
 
 Layout and wording follow docs/superpowers/specs/2026-11-18-cwe-markdown-design.md.
 MITRE's Content_History (people's names) is never read. An element or attribute this
-script does not know fails the run with the CWE ID, so nothing is dropped silently.
+script does not know, or a repeat of an element the schema allows once, fails the run with
+the CWE ID, so nothing is dropped silently; every repeatable element is rendered in full.
 Output is UTF-8 with LF line endings, has no timestamps or local paths, and lists files
 in numeric ID order. Python 3.10+ standard library only.
 """
@@ -33,7 +34,7 @@ if str(SCRIPTS_DIR) not in sys.path:  # also works under python3 -I
 
 import cwe_structured_text as st  # noqa: E402
 import cwe_xml as cx  # noqa: E402
-from cwe_xml import Edition, child, children, local  # noqa: E402
+from cwe_xml import Edition, children, local  # noqa: E402
 
 SCRIPT_REL = "weakness/mitre.org/cwe/scripts/cwe_to_markdown.py"
 LICENSE_BASE = (
@@ -74,6 +75,16 @@ def _check(elem: Element, ctx: str, kids: tuple[str, ...] = (), attrs: tuple[str
     for a in elem.attrib:
         if local(a) not in attrs:
             raise UnexpectedMarkupError(f"{ctx}: unexpected attribute {local(a)}= on <{local(elem.tag)}>")
+
+
+def _one(parent: Element | None, name: str, ctx: str) -> Element | None:
+    """The ``name`` child of ``parent`` that the schema allows at most once (None if absent).
+    A second one fails the run instead of being dropped."""
+    found = children(parent, name)
+    if len(found) > 1:
+        raise UnexpectedMarkupError(
+            f"{ctx}: <{name}> appears {len(found)} times in <{local(parent.tag)}>; expected at most one")
+    return found[0] if found else None
 
 
 def _leaf(elem: Element | None, ctx: str) -> str:
@@ -174,14 +185,17 @@ def _link(text: str, url: str) -> str:
     return f"[{text}]({url})"
 
 
+def _plural_noun(word: str) -> str:
+    """weakness -> weaknesses, category -> categories, Grouping -> Groupings."""
+    if word.lower().endswith("ss"):
+        return word + "es"
+    if word.lower().endswith("y"):
+        return word[:-1] + "ies"
+    return word + "s"
+
+
 def _plural(n: int, word: str) -> str:
-    if n == 1:
-        return f"1 {word}"
-    if word == "weakness":
-        return f"{n} weaknesses"
-    if word == "category":
-        return f"{n} categories"
-    return f"{n} {word}s"
+    return f"1 {word}" if n == 1 else f"{n} {_plural_noun(word)}"
 
 
 # ------------------------------------------------------------ entry links
@@ -250,7 +264,8 @@ def _front_matter(ed: Edition, e: Element, kind: str) -> list[str]:
     if kind == "view":
         fm.append(f"view_type: {_yaml(e.get('Type'))}")
     fm.append(f"status: {_yaml(e.get('Status'))}")
-    usage = " ".join(cx.text(child(child(e, "Mapping_Notes"), "Usage")).split())
+    mn = _one(e, "Mapping_Notes", f"CWE-{i}")
+    usage = " ".join(cx.text(_one(mn, "Usage", f"CWE-{i}/Mapping_Notes")).split())
     if usage:
         fm.append(f"mapping_usage: {_yaml(usage)}")
     fm += [
@@ -298,7 +313,7 @@ def _reference(ed: Edition, ref_id: str, section: str, ctx: str) -> str:
                        "URL", "URL_Date", "Alt_URL", "Alt_URL_Date",
                        "Access_Restrictions", "Media_Type", "Rationale"),
            attrs=("Reference_ID",))
-    one = lambda name: _leaf(child(r, name), c)  # noqa: E731
+    one = lambda name: _leaf(_one(r, name, c), c)  # noqa: E731
     authors = [_esc(a) for a in _leaves(r, "Author", c)]
     parts = []
     if authors:
@@ -323,8 +338,9 @@ def _reference(ed: Edition, ref_id: str, section: str, ctx: str) -> str:
             parts.append(s)
     if one("Access_Restrictions"):
         parts.append(f"Access restrictions: {_esc(one('Access_Restrictions'))}")
-    if one("Media_Type"):
-        parts.append(f"Media type: {_esc(one('Media_Type'))}")
+    media = [_esc(x) for x in _leaves(r, "Media_Type", c)]
+    if media:
+        parts.append(("Media type: " if len(media) == 1 else "Media types: ") + "; ".join(media))
     rationale = _leaves(r, "Rationale", c)
     if rationale:
         parts.append("Rationale: " + "; ".join(_esc(x) for x in rationale))
@@ -354,9 +370,9 @@ def _taxonomy_mappings(tm: Element | None, ctx: str) -> str:
         _check(m, ctx, kids=("Entry_ID", "Entry_Name", "Mapping_Fit"), attrs=("Taxonomy_Name",))
         rows.append([
             _esc(m.get("Taxonomy_Name") or ""),
-            _esc(_leaf(child(m, "Entry_ID"), ctx)),
-            _esc(_leaf(child(m, "Entry_Name"), ctx)),
-            _esc(_leaf(child(m, "Mapping_Fit"), ctx)),
+            _esc(_leaf(_one(m, "Entry_ID", ctx), ctx)),
+            _esc(_leaf(_one(m, "Entry_Name", ctx), ctx)),
+            _esc(_leaf(_one(m, "Mapping_Fit", ctx), ctx)),
         ])
     return _table(["Taxonomy", "Entry ID", "Entry Name", "Mapping Fit"], rows) if rows else ""
 
@@ -367,14 +383,14 @@ def _mapping_notes(ed: Edition, mn: Element | None, ctx: str) -> str:
     c = f"{ctx}/Mapping_Notes"
     _check(mn, c, kids=("Usage", "Rationale", "Comments", "Reasons", "Suggestions"))
     items = []
-    usage = _leaf(child(mn, "Usage"), c)
+    usage = _leaf(_one(mn, "Usage", c), c)
     if usage:
         items.append(_item("**Usage:**", _esc(usage)))
     for name in ("Rationale", "Comments"):
-        body = _md(child(mn, name), c)
+        body = _md(_one(mn, name, c), c)
         if body:
             items.append(_item(f"**{name}:**", body))
-    reasons = child(mn, "Reasons")
+    reasons = _one(mn, "Reasons", c)
     if reasons is not None:
         _check(reasons, c, kids=("Reason",))
         types = []
@@ -383,7 +399,7 @@ def _mapping_notes(ed: Edition, mn: Element | None, ctx: str) -> str:
             types.append(_esc(r.get("Type") or ""))
         if types:
             items.append(_item("**Reasons:**", ", ".join(types)))
-    sugg = child(mn, "Suggestions")
+    sugg = _one(mn, "Suggestions", c)
     if sugg is not None:
         _check(sugg, c, kids=("Suggestion",))
         lines = []
@@ -436,11 +452,11 @@ def _alternate_terms(e: Element | None, ctx: str) -> str:
     items = []
     for t in children(e, "Alternate_Term"):
         _check(t, ctx, kids=("Term", "Role", "Description"))
-        label = f"**{_esc(_leaf(child(t, 'Term'), ctx))}**"
+        label = f"**{_esc(_leaf(_one(t, 'Term', ctx), ctx))}**"
         roles = _leaves(t, "Role", ctx)
         if roles:
             label += f" ({', '.join(_esc(r) for r in roles)})"
-        body = _md(child(t, "Description"), ctx)
+        body = _md(_one(t, "Description", ctx), ctx)
         items.append(_item(label + (":" if body else ""), body))
     return _join_items(items)
 
@@ -465,7 +481,7 @@ def _related_weaknesses(ed: Edition, e: Element | None, ctx: str) -> str:
     rows = []
     for r in children(e, "Related_Weakness"):
         _check(r, ctx, kids=("Dimensions",), attrs=("Nature", "CWE_ID", "View_ID", "Ordinal", "Chain_ID"))
-        dims = _dims(child(r, "Dimensions"), ctx)
+        dims = _dims(_one(r, "Dimensions", ctx), ctx)
         rows.append([
             _esc(r.get("Nature") or ""),
             entry_line(ed, int(r.get("CWE_ID"))),
@@ -484,8 +500,8 @@ def _ordinalities(e: Element | None, ctx: str) -> str:
     items = []
     for o in children(e, "Weakness_Ordinality"):
         _check(o, ctx, kids=("Ordinality", "Description"))
-        desc = _md(child(o, "Description"), ctx)
-        label = f"**{_esc(_leaf(child(o, 'Ordinality'), ctx))}**"
+        desc = _md(_one(o, "Description", ctx), ctx)
+        label = f"**{_esc(_leaf(_one(o, 'Ordinality', ctx), ctx))}**"
         items.append(_item(label + (":" if desc else ""), desc))
     return _join_items(items)
 
@@ -525,7 +541,7 @@ def _modes(e: Element | None, ctx: str) -> str:
     items = []
     for i in children(e, "Introduction"):
         _check(i, ctx, kids=("Phase", "Custom_Phase", "Note"))
-        note = _md(child(i, "Note"), ctx)
+        note = _md(_one(i, "Note", ctx), ctx)
         items.append(_item(f"**{_phases(i, ctx)}**" + (":" if note else ""), note))
     return _join_items(items)
 
@@ -548,10 +564,10 @@ def _consequences(e: Element | None, ctx: str) -> str:
 
 def _effectiveness(e: Element, ctx: str) -> list[str]:
     out = []
-    eff = _leaf(child(e, "Effectiveness"), ctx)
+    eff = _leaf(_one(e, "Effectiveness", ctx), ctx)
     if eff:
         out.append(f"**Effectiveness:** {_esc(eff)}")
-    notes = _md(child(e, "Effectiveness_Notes"), ctx)
+    notes = _md(_one(e, "Effectiveness_Notes", ctx), ctx)
     if notes:
         out.append(_labelled("Effectiveness Notes", notes))
     return out
@@ -565,13 +581,13 @@ def _detection_methods(e: Element | None, ctx: str) -> str:
     for d in children(e, "Detection_Method"):
         _check(d, ctx, kids=("Method", "Phase", "Custom_Phase", "Description", "Effectiveness",
                              "Effectiveness_Notes"), attrs=("Detection_Method_ID",))
-        label = [f"**Method:** {_esc(_leaf(child(d, 'Method'), ctx))}"]
+        label = [f"**Method:** {_esc(_leaf(_one(d, 'Method', ctx), ctx))}"]
         phases = _phases(d, ctx)
         if phases:
             label.append(f"**Phase:** {phases}")
         if d.get("Detection_Method_ID"):
             label.append(f"**ID:** {_esc(d.get('Detection_Method_ID'))}")
-        body = [b for b in [_md(child(d, "Description"), ctx), *_effectiveness(d, ctx)] if b]
+        body = [b for b in [_md(_one(d, "Description", ctx), ctx), *_effectiveness(d, ctx)] if b]
         items.append(_item(SEP.join(label), "\n\n".join(body)))
     return "\n\n".join(items)
 
@@ -588,12 +604,12 @@ def _mitigations(e: Element | None, ctx: str) -> str:
         phases = _phases(m, ctx)
         if phases:
             label.append(f"**Phase:** {phases}")
-        strategy = _leaf(child(m, "Strategy"), ctx)
+        strategy = _leaf(_one(m, "Strategy", ctx), ctx)
         if strategy:
             label.append(f"**Strategy:** {_esc(strategy)}")
         if m.get("Mitigation_ID"):
             label.append(f"**ID:** {_esc(m.get('Mitigation_ID'))}")
-        body = [b for b in [_md(child(m, "Description"), ctx), *_effectiveness(m, ctx)] if b]
+        body = [b for b in [_md(_one(m, "Description", ctx), ctx), *_effectiveness(m, ctx)] if b]
         items.append(_item(SEP.join(label), "\n\n".join(body)))
     return "\n\n".join(items)
 
@@ -639,12 +655,12 @@ def _observed_examples(e: Element | None, ctx: str) -> str:
     rows = []
     for o in children(e, "Observed_Example"):
         _check(o, ctx, kids=("Reference", "Description", "Link", "Rationale"))
-        ref = _leaf(child(o, "Reference"), ctx)
-        link = _leaf(child(o, "Link"), ctx)
+        ref = _leaf(_one(o, "Reference", ctx), ctx)
+        link = _leaf(_one(o, "Link", ctx), ctx)
         rows.append([
             _link(ref, link) if link else _esc(ref),
-            _cell_md(child(o, "Description"), ctx),
-            _cell_md(child(o, "Rationale"), ctx),
+            _cell_md(_one(o, "Description", ctx), ctx),
+            "; ".join(_cell_md(x, ctx) for x in children(o, "Rationale")),
         ])
     return _table(["Reference", "Description", "Rationale"], rows) if rows else ""
 
@@ -688,7 +704,7 @@ def render_weakness(ed: Edition, elem: Element) -> str:
     ctx = f"CWE-{i}"
     _check(elem, ctx, kids=WEAKNESS_CHILDREN,
            attrs=("ID", "Name", "Abstraction", "Structure", "Status", "Diagram"))
-    get = lambda name: child(elem, name)  # noqa: E731
+    get = lambda name: _one(elem, name, ctx)  # noqa: E731
     description = _md(get("Description"), ctx)
     if elem.get("Diagram"):
         image = urljoin(MITRE_SITE, elem.get("Diagram"))
@@ -733,7 +749,7 @@ def render_group(ed: Edition, elem: Element) -> str:
     _check(elem, ctx, kids=("Summary", "Relationships", "Taxonomy_Mappings", "References",
                             "Mapping_Notes", "Notes", "Content_History"),
            attrs=("ID", "Name", "Status"))
-    rels = child(elem, "Relationships")
+    rels = _one(elem, "Relationships", ctx)
     rows = []
     if rels is not None:
         _check(rels, ctx, kids=("Has_Member",))
@@ -745,12 +761,12 @@ def render_group(ed: Edition, elem: Element) -> str:
             rows.append([entry_line(ed, int(m.get("CWE_ID"))), view_cell])
     sections = [
         (None, _banner(elem, ed.group_term.lower())),
-        ("Summary", _md(child(elem, "Summary"), ctx)),
+        ("Summary", _md(_one(elem, "Summary", ctx), ctx)),
         ("Members", _table(["Member", "View"], rows) if rows else ""),
-        ("Taxonomy Mappings", _taxonomy_mappings(child(elem, "Taxonomy_Mappings"), ctx)),
-        ("References", _references(ed, child(elem, "References"), ctx)),
-        ("Mapping Notes", _mapping_notes(ed, child(elem, "Mapping_Notes"), ctx)),
-        ("Notes", _notes(child(elem, "Notes"), ctx)),
+        ("Taxonomy Mappings", _taxonomy_mappings(_one(elem, "Taxonomy_Mappings", ctx), ctx)),
+        ("References", _references(ed, _one(elem, "References", ctx), ctx)),
+        ("Mapping Notes", _mapping_notes(ed, _one(elem, "Mapping_Notes", ctx), ctx)),
+        ("Notes", _notes(_one(elem, "Notes", ctx), ctx)),
     ]
     title = f"CWE-{i}: {_esc(elem.get('Name') or '')}"
     return _page(ed, _front_matter(ed, elem, ed.group_term.lower()), title, sections)
@@ -810,11 +826,11 @@ def _stated_parents(ed: Edition, view_id: int, cwe_id: int) -> list[int]:
     vid = str(view_id)
     out = []
     w = ed.weaknesses.get(cwe_id)
-    for r in children(child(w, "Related_Weaknesses"), "Related_Weakness"):
+    for r in children(_one(w, "Related_Weaknesses", f"CWE-{cwe_id}"), "Related_Weakness"):
         if r.get("Nature") == "ChildOf" and r.get("View_ID") == vid:
             out.append(int(r.get("CWE_ID")))
     for gid, g in sorted(ed.groups.items()):
-        for m in children(child(g, "Relationships"), "Has_Member"):
+        for m in children(_one(g, "Relationships", f"CWE-{gid}"), "Has_Member"):
             if m.get("View_ID") == vid and int(m.get("CWE_ID")) == cwe_id:
                 out.append(gid)
     return sorted(set(out))
@@ -827,8 +843,8 @@ def _audience(e: Element | None, ctx: str) -> str:
     items = []
     for s in children(e, "Stakeholder"):
         _check(s, ctx, kids=("Type", "Description"))
-        desc = _md(child(s, "Description"), ctx)
-        label = f"**{_esc(_leaf(child(s, 'Type'), ctx))}**"
+        desc = _md(_one(s, "Description", ctx), ctx)
+        label = f"**{_esc(_leaf(_one(s, 'Type', ctx), ctx))}**"
         items.append(_item(label + (":" if desc else ""), desc))
     return _join_items(items)
 
@@ -839,17 +855,18 @@ def render_view(ed: Edition, elem: Element) -> str:
     _check(elem, ctx, kids=("Objective", "Audience", "Members", "Filter", "References",
                             "Mapping_Notes", "Notes", "Content_History"),
            attrs=("ID", "Name", "Type", "Status"))
+    _one(elem, "Members", ctx)  # read by cwe_xml's outline helpers; a repeat must fail here
     vtype, status = elem.get("Type") or "", elem.get("Status") or ""
     title = f"CWE-{i}: {_esc(elem.get('Name') or '')}"
     front = _front_matter(ed, elem, "view")
-    objective = _md(child(elem, "Objective"), ctx)
+    objective = _md(_one(elem, "Objective", ctx), ctx)
     head = [f"**View type:** {_esc(vtype)}", f"**Status:** {_esc(status)}"]
 
     if status in INACTIVE:
         omitted = [label for name, label in (
             ("Audience", "audience"), ("Members", "members"), ("Filter", "filter"),
             ("References", "references"), ("Mapping_Notes", "mapping notes"), ("Notes", "notes"),
-        ) if child(elem, name) is not None]
+        ) if _one(elem, name, ctx) is not None]
         note = _banner(elem, "view")
         if omitted:
             listed = omitted[0] if len(omitted) == 1 else ", ".join(omitted[:-1]) + " and " + omitted[-1]
@@ -884,7 +901,7 @@ def render_view(ed: Edition, elem: Element) -> str:
         head.append(f"**Members:** {_count_phrase(ed, ids)}")
         members_md = "\n".join("- " + entry_line(ed, x) for x in ids)
     elif vtype == "Implicit":
-        flt = " ".join(cx.text(child(elem, "Filter")).split())
+        flt = " ".join(cx.text(_one(elem, "Filter", ctx)).split())
         filter_md = st.fence(flt, "xpath") if flt else ""
         ids = cx.implicit_members(ed, i)
         if ids is None:
@@ -903,13 +920,13 @@ def render_view(ed: Edition, elem: Element) -> str:
     sections = [
         (None, SEP.join(head)),
         ("Objective", objective),
-        ("Audience", _audience(child(elem, "Audience"), ctx)),
+        ("Audience", _audience(_one(elem, "Audience", ctx), ctx)),
         ("Filter", filter_md),
         ("Members", members_md),
         *extra,
-        ("References", _references(ed, child(elem, "References"), ctx)),
-        ("Mapping Notes", _mapping_notes(ed, child(elem, "Mapping_Notes"), ctx)),
-        ("Notes", _notes(child(elem, "Notes"), ctx)),
+        ("References", _references(ed, _one(elem, "References", ctx), ctx)),
+        ("Mapping Notes", _mapping_notes(ed, _one(elem, "Mapping_Notes", ctx), ctx)),
+        ("Notes", _notes(_one(elem, "Notes", ctx), ctx)),
     ]
     return _page(ed, front, title, sections)
 
@@ -950,7 +967,7 @@ def render_index(ed: Edition) -> str:
 
     counts = ["### By entry type", "", _table(["Entry type", "Count"], [
         ["Weaknesses", str(len(ed.weaknesses))],
-        [f"{gt}s", str(len(ed.groups))],
+        [_plural_noun(gt), str(len(ed.groups))],
         ["Views", str(len(ed.views))],
     ])]
     abstractions = [w.get("Abstraction") or "" for w in ed.weaknesses.values()]
@@ -960,13 +977,14 @@ def render_index(ed: Edition) -> str:
     statuses = {k: [e.get("Status") or "" for e in t.values()]
                 for k, t in (("w", ed.weaknesses), ("g", ed.groups), ("v", ed.views))}
     all_status = statuses["w"] + statuses["g"] + statuses["v"]
-    counts += ["", "### By status", "", _table(["Status", "Weaknesses", f"{gt}s", "Views"], [
+    counts += ["", "### By status", "", _table(["Status", "Weaknesses", _plural_noun(gt), "Views"], [
         [_esc(s)] + [str(statuses[k].count(s)) for k in ("w", "g", "v")]
         for s in _ordered(all_status, STATUS_ORDER)
     ])]
 
     def usage(e):
-        return _esc(cx.text(child(child(e, "Mapping_Notes"), "Usage")))
+        c = f"CWE-{e.get('ID')}"
+        return _esc(cx.text(_one(_one(e, "Mapping_Notes", c), "Usage", c + "/Mapping_Notes")))
 
     weaknesses = _table(["ID", "Name", "Abstraction", "Status", "Mapping usage"], [
         [cwe_link(ed, i, ""), _esc(w.get("Name") or ""), _esc(w.get("Abstraction") or ""),
@@ -986,7 +1004,7 @@ def render_index(ed: Edition) -> str:
         (None, intro),
         ("Counts", "\n".join(counts)),
         ("Weaknesses", weaknesses),
-        (f"{gt}s", groups),
+        (_plural_noun(gt), groups),
         ("Views", views),
     ])
 
