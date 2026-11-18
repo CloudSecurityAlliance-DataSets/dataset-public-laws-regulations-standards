@@ -5,28 +5,28 @@
 Per-doc state glyphs (left to right):
 
 - **M** = `<name>-<version>-metadata.json` present (with `secid` field)
-- **X** = markdown extraction (`<name>-<version>.md`)
+- **X** = markdown extraction (`<name>-<version>.md`, or a generated per-entry `markdown/` folder with `markdown/index.md`)
 - **J** = marker JSON block tree (`<name>-<version>.json` alongside markdown)
 - **C** = structured CSV (`<name>-<version>-{controls,requirements,criteria,subcategories,sections}.csv`)
 - **S** = structured JSON (matching CSV pattern)
 - **P** = reproducibility parser script (`parse_*.py` / `extract_*.py` / `build_*.py`)
 - **I** = page images (jpeg/png from marker)
 
-State label: `structured` > `extracted` > `metadata-only` > `source-only` > `empty`
+State label: `structured` > `extracted` > `metadata-only` > `source-only` > `empty`. A generated per-entry `markdown/` folder counts as `structured`.
 
 ## Summary
 
-**Total documents indexed:** 1146
+**Total documents indexed:** 1149
 
 | Type | structured | metadata-only | readme-only | empty | **Total** |
 |---|---:|---:|---:|---:|---:|
 | `control/` | 121 | 51 | — | — | **172** |
 | `regulation/` | 186 | 52 | — | 1 | **239** |
-| `weakness/` | 1 | 1 | — | — | **2** |
+| `weakness/` | 4 | 1 | — | — | **5** |
 | `ttp/` | 1 | 4 | — | — | **5** |
 | `methodology/` | 9 | — | — | — | **9** |
 | `reference/` | 415 | 294 | 4 | 6 | **719** |
-| **Total** | **733** | **402** | **4** | **7** | **1146** |
+| **Total** | **736** | **402** | **4** | **7** | **1149** |
 
 ## control/
 
@@ -453,7 +453,10 @@ State label: `structured` > `extracted` > `metadata-only` > `source-only` > `emp
 
 | Path | State | Files | Glyphs (MXJCSPI) | SecID |
 |---|---|---|---|---|
-| `weakness/mitre.org/cwe/4.19.1/` | structured | 11 | `M··CS··` | `secid:weakness/mitre.org/cwe@4.19.1` |
+| `weakness/mitre.org/cwe/4.19.1/` | structured | 12 | `MX·CS··` | `secid:weakness/mitre.org/cwe@4.19.1` |
+| `weakness/mitre.org/cwe/4.20/` | structured | 4 | `MX·····` | `secid:weakness/mitre.org/cwe@4.20` |
+| `weakness/mitre.org/cwe/4.21/` | structured | 4 | `MX·····` | `secid:weakness/mitre.org/cwe@4.21` |
+| `weakness/mitre.org/cwe/5.0/` | structured | 12 | `MX·CS··` | `secid:weakness/mitre.org/cwe@5.0` |
 | `weakness/mitre.org/maec/` | metadata-only | 2 | `M······` | `secid:weakness/mitre.org/maec` |
 
 ## ttp/

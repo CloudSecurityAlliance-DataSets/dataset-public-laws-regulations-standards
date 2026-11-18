@@ -49,13 +49,36 @@ def looks_like_version(name: str) -> bool:
     return any(p.match(name) for p in _VERSION_PATTERNS)
 
 
+def _slug(s: str) -> str:
+    return re.sub(r"[^a-z0-9.]+", "-", s.lower()).strip("-")
+
+
+def canonical_metadata_names(p: Path) -> set[str]:
+    """The names a directory's own edition record may have, as AGENTS.md and
+    METADATA-SCHEMA.md define them (and the tier gate enforces):
+    `<dir>-metadata.json` or `<parent>-<dir>-metadata.json`, each also in
+    lower-case slug form. A per-file sidecar `<file>-file-metadata.json` is never
+    the edition record."""
+    return {
+        f"{p.name}-metadata.json",
+        f"{_slug(p.name)}-metadata.json",
+        f"{p.parent.name}-{p.name}-metadata.json",
+        f"{_slug(p.parent.name)}-{_slug(p.name)}-metadata.json",
+    }
+
+
 def classify_files(p: Path) -> dict:
     """Inspect a directory and return a flag dict describing what's there.
 
-    Heuristics-based: looks at filename patterns to determine roles.
+    Heuristics-based: looks at filename patterns to determine roles. Only the
+    directory's canonical edition record sets `has_metadata`/`secid`; per-file
+    sidecars and other `*-metadata.json` files are ignored. A generated
+    per-entry `markdown/` folder (with `markdown/index.md`) counts as markdown
+    and as a structured form.
     """
     state = {
         "has_markdown": False,
+        "has_markdown_tree": False,
         "has_marker_json": False,
         "has_marker_meta": False,
         "has_structured_csv": False,
@@ -72,19 +95,28 @@ def classify_files(p: Path) -> dict:
     if not p.is_dir():
         return state
 
-    for f in p.iterdir():
+    if (p / "markdown" / "index.md").is_file():
+        state["has_markdown"] = True
+        state["has_markdown_tree"] = True
+
+    edition_names = canonical_metadata_names(p)
+    for f in sorted(p.iterdir()):
         if not f.is_file():
             continue
         state["n_files"] += 1
         name = f.name.lower()
 
-        if name.endswith("-metadata.json"):
+        if f.name in edition_names:
             state["has_metadata"] = True
             try:
                 data = json.loads(f.read_text())
                 state["secid"] = data.get("secid")
             except Exception:
                 pass
+        elif name.endswith("-metadata.json"):
+            # Per-file sidecar (`*-file-metadata.json`) or a non-canonical
+            # record: not the edition record, and not structured data.
+            continue
         elif name.endswith("_meta.json"):
             state["has_marker_meta"] = True
         elif re.search(r"-(requirements|controls|criteria|subcategories|sections)\.csv$", name):
@@ -119,7 +151,7 @@ def classify_files(p: Path) -> dict:
 
 def state_label(s: dict) -> str:
     """Short label summarizing extraction state, ordered by completeness."""
-    if s["has_structured_csv"] or s["has_structured_json"]:
+    if s["has_structured_csv"] or s["has_structured_json"] or s["has_markdown_tree"]:
         return "structured"
     if s["has_markdown"] or s["has_marker_json"]:
         return "extracted"
@@ -245,14 +277,14 @@ def render(tree: dict) -> str:
     lines.append("Per-doc state glyphs (left to right):")
     lines.append("")
     lines.append("- **M** = `<name>-<version>-metadata.json` present (with `secid` field)")
-    lines.append("- **X** = markdown extraction (`<name>-<version>.md`)")
+    lines.append("- **X** = markdown extraction (`<name>-<version>.md`, or a generated per-entry `markdown/` folder with `markdown/index.md`)")
     lines.append("- **J** = marker JSON block tree (`<name>-<version>.json` alongside markdown)")
     lines.append("- **C** = structured CSV (`<name>-<version>-{controls,requirements,criteria,subcategories,sections}.csv`)")
     lines.append("- **S** = structured JSON (matching CSV pattern)")
     lines.append("- **P** = reproducibility parser script (`parse_*.py` / `extract_*.py` / `build_*.py`)")
     lines.append("- **I** = page images (jpeg/png from marker)")
     lines.append("")
-    lines.append("State label: `structured` > `extracted` > `metadata-only` > `source-only` > `empty`")
+    lines.append("State label: `structured` > `extracted` > `metadata-only` > `source-only` > `empty`. A generated per-entry `markdown/` folder counts as `structured`.")
     lines.append("")
 
     _, _, _, n_docs = crosstab(tree)

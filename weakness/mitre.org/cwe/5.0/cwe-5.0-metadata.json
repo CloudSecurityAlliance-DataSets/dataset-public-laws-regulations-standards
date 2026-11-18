@@ -38,19 +38,19 @@
   "lifecycle": {
     "published": "2026-10-28",
     "active": true,
-    "supersedes": "CWE 4.19.1 (held in this repository at weakness/mitre.org/cwe/4.19.1/) and earlier 4.x versions; MITRE also published 4.20 and 4.21 before 5.0, which are not held here",
+    "supersedes": "CWE 4.21, 4.20 and 4.19.1 (held in this repository at weakness/mitre.org/cwe/4.21/, 4.20/ and 4.19.1/) and earlier 4.x versions; MITRE published 4.21 the same day as 5.0",
     "supersededBy": null,
     "retiredFromActiveUse": null,
     "notes": "CWE is on a roughly quarterly release cadence. 5.0 is a major version with XML schema 8.0 (namespace cwe-8): Categories/Category became Groupings/Grouping, weaknesses gained Dimensions and Technical_Nuance elements, and a new relationship nature Overlaps was added. Version-specific extractions are kept here for mapping reproducibility."
   },
   "current_extraction": {
     "s3_timestamp": "unknown",
-    "tool": "scripts/download-cwe-items.sh (MITRE per-view CSV and XML, yq conversion) and scripts/merge_cwe_views.py (unified catalog)",
+    "tool": "scripts/download-cwe-items.sh (MITRE per-view CSV and XML, yq conversion), scripts/merge_cwe_views.py (unified catalog) and scripts/cwe_to_markdown.py (markdown/ from MITRE's full XML)",
     "tool_version": "n/a",
     "extraction_host": "local",
     "flags": [],
     "force_ocr": null,
-    "notes": "MITRE publishes CWE 5.0 as per-view CSVs and XML plus a full XML file. The 3 views in this repo (1000, 699, 1194) overlap; merge_cwe_views.py --edition-dir 5.0 --version 5.0 unifies them into cwe-5.0-all.{csv,json} keyed by cwe_id with a `views` list and `related_weaknesses_by_view` dict. 958 distinct entries (507 in 2+ views): the 956 non-deprecated weaknesses in view 1000, plus the deprecated CWE-391 and CWE-613, which MITRE's view-699 CSV still lists. File names keep the 4.19.1 names for continuity across editions; in 5.0 MITRE names view 1000 \"Complete Weakness Hierarchy\" (it is \"Research Concepts\" in 4.19.1; the rename had happened by 4.21). The per-view JSON files (CWE-*-{699,1000,1194}.json) are a mechanical yq XML-to-JSON conversion of MITRE's per-view XML. yq does not keep the order of mixed text and markup, so prose such as demonstrative examples loses its original sequence; use MITRE's full XML for prose (cwec_v5.0.xml.zip, kept in S3 and pinned by cwec_v5.0.xml.zip-file-metadata.json). A markdown rendering generated from that XML is being added in #161. MITRE's REST API serves only the latest content (it reports 4.21 at the time of writing), so it cannot reproduce this edition; the versioned XML zip is the source of record."
+    "notes": "MITRE publishes CWE 5.0 as per-view CSVs and XML plus a full XML file. The 3 views in this repo (1000, 699, 1194) overlap; merge_cwe_views.py --edition-dir 5.0 --version 5.0 unifies them into cwe-5.0-all.{csv,json} keyed by cwe_id with a `views` list and `related_weaknesses_by_view` dict. 958 distinct entries (507 in 2+ views): the 956 non-deprecated weaknesses in view 1000, plus the deprecated CWE-391 and CWE-613, which MITRE's view-699 CSV still lists. File names keep the 4.19.1 names for continuity across editions; in 5.0 MITRE names view 1000 \"Complete Weakness Hierarchy\" (it is \"Research Concepts\" in 4.19.1; the rename had happened by 4.21). The per-view JSON files (CWE-*-{699,1000,1194}.json) are a mechanical yq XML-to-JSON conversion of MITRE's per-view XML. yq does not keep the order of mixed text and markup, so prose such as demonstrative examples loses its original sequence; use MITRE's full XML for prose (cwec_v5.0.xml.zip, kept in S3 and pinned by cwec_v5.0.xml.zip-file-metadata.json). The markdown/ folder (an index and one page per weakness, grouping and view) is generated from that XML by scripts/cwe_to_markdown.py. MITRE's REST API serves only the latest content (it reports 4.21 at the time of writing), so it cannot reproduce this edition; the versioned XML zip is the source of record."
   },
   "extraction_history": [
     {

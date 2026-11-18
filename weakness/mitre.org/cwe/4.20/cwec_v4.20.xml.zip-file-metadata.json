@@ -1,0 +1,10 @@
+{
+  "filename": "cwec_v4.20.xml.zip",
+  "role": "source",
+  "sha256": "3976f599e5e5200219a3108bb896d06e2a88fbb293369e1883cb423a5e9d7d50",
+  "retrieved_from": "https://cwe.mitre.org/data/xml/cwec_v4.20.xml.zip",
+  "retrieved_at": "2026-11-18T20:56:37Z",
+  "retrieved_method": "curl",
+  "license_override": null,
+  "notes": "MITRE's full CWE 4.20 XML (one file, cwec_v4.20.xml, inside the zip). Binary original: git-ignored here, kept in S3. Input to scripts/cwe_to_markdown.py, which refuses to run if this sha256 does not match."
+}
