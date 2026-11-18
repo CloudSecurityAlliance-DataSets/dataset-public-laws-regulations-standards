@@ -14,16 +14,16 @@ from xml.etree import ElementTree as ET
 
 SCRIPTS_DIR = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(SCRIPTS_DIR))
+sys.path.insert(0, str(Path(__file__).resolve().parent))
 
+import cwe_test_editions as eds  # noqa: E402
 import cwe_to_markdown as ctm  # noqa: E402
 import cwe_xml as cx  # noqa: E402
 
 CWE_DIR = SCRIPTS_DIR.parent
-VERSIONS = ("4.19.1", "5.0")
-CATALOG = {  # weaknesses, categories/groupings, views (spec, Input table)
-    "4.19.1": (969, 420, 58),
-    "5.0": (984, 431, 62),
-}
+# Every edition folder with a zip sidecar; the tests that need one whose zip is
+# absent skip (or fail, with CWE_REQUIRE_ZIPS=1).
+VERSIONS = tuple(eds.editions())
 LICENSE_URL = (
     "https://github.com/CloudSecurityAlliance-DataSets/"
     "dataset-public-laws-regulations-standards/blob/main/weakness/mitre.org/cwe/{v}/LICENSE.txt"
@@ -38,14 +38,24 @@ SECTION_ORDER = [
     "Related Attack Patterns", "References", "Mapping Notes", "Notes",
 ]
 
-ED = {}
-FILES = {}
+class _ByEdition(dict):
+    """Loaded editions (ED) or their rendered files (FILES). Reading an edition whose
+    zip is absent skips the test, or fails it with CWE_REQUIRE_ZIPS=1."""
+
+    def __missing__(self, version):
+        eds.require(version)
+        raise KeyError(version)
+
+
+ED = _ByEdition()
+FILES = _ByEdition()
 
 
 def setUpModule():
     for v in VERSIONS:
-        ED[v] = cx.load_edition(CWE_DIR / v, v)
-        FILES[v] = ctm.render_edition(ED[v])
+        if eds.present(v):
+            ED[v] = cx.load_edition(CWE_DIR / v, v)
+            FILES[v] = ctm.render_edition(ED[v])
 
 
 def footer(v):
@@ -126,113 +136,128 @@ class PageTests(unittest.TestCase):
 
     def test_section_order(self):
         for v in VERSIONS:
-            page = FILES[v]["weaknesses/CWE-79.md"]
-            sections = h2_sections(page)
-            headings = [h for h, _ in sections]
-            self.assertGreaterEqual(len(headings), 15, headings)
-            for h in headings:
-                self.assertIn(h, SECTION_ORDER, f"{v}: unexpected heading {h!r}")
-            idx = [SECTION_ORDER.index(h) for h in headings]
-            self.assertEqual(idx, sorted(idx), f"{v}: {headings}")
-            self.assertEqual(len(set(headings)), len(headings), headings)
-            for h, body in sections:
-                self.assertTrue(body.strip(), f"{v}: empty section {h!r}")
+            with self.subTest(edition=v):
+                page = FILES[v]["weaknesses/CWE-79.md"]
+                sections = h2_sections(page)
+                headings = [h for h, _ in sections]
+                self.assertGreaterEqual(len(headings), 15, headings)
+                for h in headings:
+                    self.assertIn(h, SECTION_ORDER, f"{v}: unexpected heading {h!r}")
+                idx = [SECTION_ORDER.index(h) for h in headings]
+                self.assertEqual(idx, sorted(idx), f"{v}: {headings}")
+                self.assertEqual(len(set(headings)), len(headings), headings)
+                for h, body in sections:
+                    self.assertTrue(body.strip(), f"{v}: empty section {h!r}")
 
     def test_no_empty_sections_anywhere(self):
         for v in VERSIONS:
-            for path, page in FILES[v].items():
-                if not path.endswith(".md"):
-                    continue
-                for h, body in h2_sections(page.split("\n---\nGenerated from")[0]):
-                    self.assertTrue(body.strip(), f"{v} {path}: empty section {h!r}")
+            with self.subTest(edition=v):
+                for path, page in FILES[v].items():
+                    if not path.endswith(".md"):
+                        continue
+                    for h, body in h2_sections(page.split("\n---\nGenerated from")[0]):
+                        self.assertTrue(body.strip(), f"{v} {path}: empty section {h!r}")
 
     def test_line_hygiene(self):
         for v in VERSIONS:
-            for path, page in FILES[v].items():
-                if not path.endswith(".md"):
-                    continue
-                self.assertNotIn("\r", page, path)
-                for n, line in enumerate(page.split("\n"), 1):
-                    self.assertEqual(line, line.rstrip(" "), f"{v} {path}:{n} trailing space")
-                    self.assertNotRegex(line, r"^\s*-\s*$", f"{v} {path}:{n} empty list item")
-                    self.assertNotIn("\\<br>", line, f"{v} {path}:{n} escaped <br>")
+            with self.subTest(edition=v):
+                for path, page in FILES[v].items():
+                    if not path.endswith(".md"):
+                        continue
+                    self.assertNotIn("\r", page, path)
+                    for n, line in enumerate(page.split("\n"), 1):
+                        self.assertEqual(line, line.rstrip(" "), f"{v} {path}:{n} trailing space")
+                        self.assertNotRegex(line, r"^\s*-\s*$", f"{v} {path}:{n} empty list item")
+                        self.assertNotIn("\\<br>", line, f"{v} {path}:{n} escaped <br>")
 
     def test_new_5_0_sections(self):
         self.assertIn("\n## Technical Nuance\n", FILES["5.0"]["weaknesses/CWE-1039.md"])
         self.assertIn("\n## Dimensions\n", FILES["5.0"]["weaknesses/CWE-1024.md"])
-        for path, page in FILES["4.19.1"].items():
-            self.assertNotIn("\n## Technical Nuance\n", page, path)
-            self.assertNotIn("\n## Dimensions\n", page, path)
+        for v in VERSIONS:
+            with self.subTest(edition=v):
+                if ED[v].schema_major != 7:
+                    continue
+                for path, page in FILES[v].items():
+                    self.assertNotIn("\n## Technical Nuance\n", page, path)
+                    self.assertNotIn("\n## Dimensions\n", page, path)
 
     def test_footer_on_every_page(self):
         for v in VERSIONS:
-            end = "\n\n" + footer(v)
-            md = [p for p in FILES[v] if p.endswith(".md")]
-            self.assertGreater(len(md), 1400)
-            for path in md:
-                self.assertTrue(FILES[v][path].endswith(end), f"{v} {path}")
+            with self.subTest(edition=v):
+                end = "\n\n" + footer(v)
+                md = [p for p in FILES[v] if p.endswith(".md")]
+                self.assertGreater(len(md), 1400)
+                for path in md:
+                    self.assertTrue(FILES[v][path].endswith(end), f"{v} {path}")
 
     def test_all_relative_links_resolve(self):
         link = re.compile(r"\]\(<?([^)\s>]+)>?\)")
         for v in VERSIONS:
-            keys = set(FILES[v])
-            n = 0
-            for path, page in FILES[v].items():
-                if not path.endswith(".md"):
-                    continue
-                for target in link.findall(strip_code(page)):
-                    if re.match(r"^[a-z][a-z0-9+.-]*:", target) or target.startswith("#"):
+            with self.subTest(edition=v):
+                keys = set(FILES[v])
+                n = 0
+                for path, page in FILES[v].items():
+                    if not path.endswith(".md"):
                         continue
-                    n += 1
-                    resolved = posixpath.normpath(
-                        posixpath.join(posixpath.dirname(path), target.split("#")[0])
-                    )
-                    self.assertIn(resolved, keys, f"{v} {path} -> {target}")
-            self.assertGreater(n, 10000)
+                    for target in link.findall(strip_code(page)):
+                        if re.match(r"^[a-z][a-z0-9+.-]*:", target) or target.startswith("#"):
+                            continue
+                        n += 1
+                        resolved = posixpath.normpath(
+                            posixpath.join(posixpath.dirname(path), target.split("#")[0])
+                        )
+                        self.assertIn(resolved, keys, f"{v} {path} -> {target}")
+                self.assertGreater(n, 10000)
 
     def test_counts(self):
         for v in VERSIONS:
-            ed, files = ED[v], FILES[v]
-            nw, ng, nv = CATALOG[v]
-            self.assertEqual((len(ed.weaknesses), len(ed.groups), len(ed.views)), (nw, ng, nv))
-            folders = {}
-            for p in files:
-                folders.setdefault(p.split("/")[0] if "/" in p else "", []).append(p)
-            self.assertEqual(len(folders["weaknesses"]), nw)
-            self.assertEqual(len(folders[ed.group_dir]), ng)
-            self.assertEqual(len(folders["views"]), nv)
-            self.assertEqual(sorted(folders[""]), ["LICENSE.txt", "index.md"])
-            self.assertEqual(set(folders), {"", "weaknesses", ed.group_dir, "views"})
-            index = dict(h2_sections(files["index.md"]))
-            for heading, kind, count in (
-                ("Weaknesses", "weaknesses", nw),
-                ({"Category": "Categories", "Grouping": "Groupings"}[ed.group_term],
-                 ed.group_dir, ng),
-                ("Views", "views", nv),
-            ):
-                rows = [ln for ln in index[heading].split("\n") if ln.startswith("| [CWE-")]
-                self.assertEqual(len(rows), count, f"{v} {heading}")
-                ids = [int(re.match(r"\| \[CWE-(\d+)\]", r).group(1)) for r in rows]
-                self.assertEqual(ids, sorted(ids), f"{v} {heading} not in numeric order")
-                self.assertIn(f"]({kind}/CWE-{ids[0]}.md)", rows[0])
+            with self.subTest(edition=v):
+                ed, files = ED[v], FILES[v]
+                self.assertIn(v, eds.EXPECTED, f"add CWE {v}'s catalog counts to EXPECTED")
+                exp = eds.EXPECTED[v]
+                nw, ng, nv = exp["weaknesses"], exp["groups"], exp["views"]
+                self.assertEqual((len(ed.weaknesses), len(ed.groups), len(ed.views)), (nw, ng, nv))
+                folders = {}
+                for p in files:
+                    folders.setdefault(p.split("/")[0] if "/" in p else "", []).append(p)
+                self.assertEqual(len(folders["weaknesses"]), nw)
+                self.assertEqual(len(folders[ed.group_dir]), ng)
+                self.assertEqual(len(folders["views"]), nv)
+                self.assertEqual(sorted(folders[""]), ["LICENSE.txt", "index.md"])
+                self.assertEqual(set(folders), {"", "weaknesses", ed.group_dir, "views"})
+                index = dict(h2_sections(files["index.md"]))
+                for heading, kind, count in (
+                    ("Weaknesses", "weaknesses", nw),
+                    ({"Category": "Categories", "Grouping": "Groupings"}[ed.group_term],
+                     ed.group_dir, ng),
+                    ("Views", "views", nv),
+                ):
+                    rows = [ln for ln in index[heading].split("\n") if ln.startswith("| [CWE-")]
+                    self.assertEqual(len(rows), count, f"{v} {heading}")
+                    ids = [int(re.match(r"\| \[CWE-(\d+)\]", r).group(1)) for r in rows]
+                    self.assertEqual(ids, sorted(ids), f"{v} {heading} not in numeric order")
+                    self.assertIn(f"]({kind}/CWE-{ids[0]}.md)", rows[0])
 
     def test_index_plurals(self):
-        expected = {"4.19.1": "Categories", "5.0": "Groupings"}
+        plural = {7: "Categories", 8: "Groupings"}  # MITRE's term per schema major
         for v in VERSIONS:
-            page = FILES[v]["index.md"]
-            self.assertIn(f"\n## {expected[v]}\n", page)
-            self.assertIn(f"| {expected[v]} | {CATALOG[v][1]} |", page)
-            self.assertIn(f"| Status | Weaknesses | {expected[v]} | Views |", page)
-            for path, text in FILES[v].items():
-                self.assertNotIn("Categorys", text, f"{v} {path}")
-                self.assertNotIn("Groupings s", text, f"{v} {path}")
+            with self.subTest(edition=v):
+                term = plural[ED[v].schema_major]
+                page = FILES[v]["index.md"]
+                self.assertIn(f"\n## {term}\n", page)
+                self.assertIn(f"| {term} | {len(ED[v].groups)} |", page)
+                self.assertIn(f"| Status | Weaknesses | {term} | Views |", page)
+                for path, text in FILES[v].items():
+                    self.assertNotIn("Categorys", text, f"{v} {path}")
+                    self.assertNotIn("Groupings s", text, f"{v} {path}")
 
     def test_license_copied(self):
         for v in VERSIONS:
-            self.assertEqual(
-                FILES[v]["LICENSE.txt"].encode("utf-8"),
-                (CWE_DIR / v / "LICENSE.txt").read_bytes(),
-            )
+            with self.subTest(edition=v):
+                self.assertEqual(
+                    FILES[v]["LICENSE.txt"].encode("utf-8"),
+                    (CWE_DIR / v / "LICENSE.txt").read_bytes(),
+                )
 
     def test_index_header(self):
         ed = ED["5.0"]
@@ -263,10 +288,11 @@ class PageTests(unittest.TestCase):
                     stripped.remove(c)
                 self.assertEqual(render(ed, table[i]), render(ed, stripped), i)
         for v in VERSIONS:
-            for path, page in FILES[v].items():
-                self.assertIsNone(
-                    re.search(r"^#+\s*Content[ _]History", page, re.M | re.I), f"{v} {path}"
-                )
+            with self.subTest(edition=v):
+                for path, page in FILES[v].items():
+                    self.assertIsNone(
+                        re.search(r"^#+\s*Content[ _]History", page, re.M | re.I), f"{v} {path}"
+                    )
 
     def test_deterministic(self):
         self.assertEqual(ctm.render_edition(ED["5.0"]), FILES["5.0"])
@@ -342,11 +368,12 @@ class ContentTests(unittest.TestCase):
 
     def test_view_1000_lists_every_active_weakness(self):
         for v in VERSIONS:
-            ed = ED[v]
-            page = FILES[v]["views/CWE-1000.md"]
-            active = [i for i, w in ed.weaknesses.items() if w.get("Status") != "Deprecated"]
-            for i in active:
-                self.assertIn(f"](../weaknesses/CWE-{i}.md)", page, f"{v} CWE-{i}")
+            with self.subTest(edition=v):
+                ed = ED[v]
+                page = FILES[v]["views/CWE-1000.md"]
+                active = [i for i, w in ed.weaknesses.items() if w.get("Status") != "Deprecated"]
+                for i in active:
+                    self.assertIn(f"](../weaknesses/CWE-{i}.md)", page, f"{v} CWE-{i}")
         page = FILES["5.0"]["views/CWE-1000.md"]
         sections = dict(h2_sections(page))
         lost = sections["Not reachable from this view's roots"]

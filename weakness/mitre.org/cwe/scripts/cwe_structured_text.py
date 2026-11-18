@@ -49,7 +49,9 @@ _LINE_START_ESCAPES = (
     (re.compile(r"^(\s*)(>)"), r"\1\\\2"),
     (re.compile(r"^(\s*)([-+*])(?=\s|$)"), r"\1\\\2"),
     (re.compile(r"^(\s*)(\d+)([.)])(?=\s|$)"), r"\1\2\\\3"),
-    (re.compile(r"^(\s*)(={1,}|-{3,}|\*{3,}|_{3,})\s*$"), r"\1\\\2"),
+    # A line of only "=" or of two or more "-" would underline the previous line
+    # as a setext heading. ("*" and "_" are escaped everywhere before this runs.)
+    (re.compile(r"^(\s*)(={1,}|-{2,})\s*$"), r"\1\\\2"),
     (re.compile(r"^(\s*)(~{3,})"), r"\1\\\2"),
 )
 
@@ -62,10 +64,13 @@ _LONE_UNDERSCORE = re.compile(r"(?<![^\W_])_|_(?![^\W_])")
 def escape_inline(text: str, at_line_start: bool = True) -> str:
     """Escape prose so it renders as written, keeping it readable as plain text.
 
-    ``<`` becomes ``&lt;``; ``&`` is escaped only where it would start an HTML
-    entity; ``*`` and backtick are always backslash-escaped, ``_`` unless it sits
-    between two alphanumerics; a line-initial ``#``, ``>``, ``-``, ``+``, ``=``
-    or ``N.`` gets a backslash. Other mid-line punctuation is left alone.
+    A backslash before ASCII punctuation is doubled, so it stays a literal
+    backslash; ``<`` becomes ``&lt;``; ``&`` is escaped only where it would start
+    an HTML entity; ``*`` and backtick are always backslash-escaped, ``_`` unless
+    it sits between two alphanumerics; a line-initial ``#``, ``>``, ``-``, ``+``,
+    ``~~~`` or ``N.`` that would start a heading, quote, list or fence gets a
+    backslash, as does a line made only of ``=`` or of two or more ``-`` (a
+    setext heading underline). Other mid-line punctuation is left alone.
     ``at_line_start`` says whether the first line of ``text`` begins a markdown line.
     """
     text = _BACKSLASH_BEFORE_PUNCT.sub(r"\\\\", text)
@@ -470,8 +475,13 @@ def example_code_to_md(elem: Element, context: str) -> str:
 
     The label is ``*Example (Nature, Language):*`` (Nature, then Language when
     present; ``*Example (Attack):*`` with no Language). The fence is tagged with
-    the lower-cased Language. An Example_Code that holds a paragraph, list or
-    table is real structured content, so it renders as prose under the label.
+    the lower-cased Language. Everything except a list or table is fenced:
+    text, ``br`` (a newline), ``b``/``i``/``span``/``sup`` (their text only),
+    and ``div`` or ``p`` (each starts a new line; a ``div`` with a
+    ``margin-left`` style indents four spaces). Several paragraphs are therefore
+    joined by single newlines inside the fence, with no blank line between them.
+    An Example_Code that holds a list or table renders as structured markdown
+    under the label instead, because a fence would destroy that structure.
     """
     parts = [p for p in (elem.get("Nature"), elem.get("Language")) if p]
     label = f"*Example ({', '.join(parts)}):*" if parts else "*Example:*"

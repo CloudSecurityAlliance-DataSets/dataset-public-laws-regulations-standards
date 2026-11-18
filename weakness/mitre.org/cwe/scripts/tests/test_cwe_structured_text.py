@@ -8,12 +8,15 @@ from xml.etree import ElementTree as ET
 
 SCRIPTS_DIR = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(SCRIPTS_DIR))
+sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 import cwe_structured_text as st  # noqa: E402
+import cwe_test_editions as eds  # noqa: E402
 
-CWE_DIR = SCRIPTS_DIR.parent
-ZIP_419 = CWE_DIR / "4.19.1" / "cwec_v4.19.1.xml.zip"
-ZIP_50 = CWE_DIR / "5.0" / "cwec_v5.0.xml.zip"
+# Real-data tests call eds.require(<edition>) first: they skip when that edition's
+# git-ignored zip is absent, and fail instead with CWE_REQUIRE_ZIPS=1.
+ZIP_419 = eds.zip_path("4.19.1")
+ZIP_50 = eds.zip_path("5.0")
 XH = "http://www.w3.org/1999/xhtml"
 
 
@@ -211,9 +214,37 @@ class StructuredTextUnit(unittest.TestCase):
         self.assertTrue(out.startswith("*Example (Bad, Other):*\n\n| A |"))
         self.assertNotIn("```", out)
 
+    def test_example_code_paragraphs_are_fenced_one_per_line(self):
+        # Several paragraphs stay in the fence, joined by single newlines.
+        ec = ET.fromstring(
+            f'<Example_Code xmlns:xhtml="{XH}" Nature="Bad" Language="Other">'
+            "<xhtml:p>first</xhtml:p><xhtml:p>second</xhtml:p></Example_Code>"
+        )
+        self.assertEqual(
+            st.example_code_to_md(ec, "T/ex"),
+            "*Example (Bad, Other):*\n\n```other\nfirst\nsecond\n```",
+        )
 
-@unittest.skipUnless(ZIP_419.exists(), "4.19.1 original not present")
+    def test_setext_underline_lines_are_escaped(self):
+        # A prose line of only "--" or "=" after a break would turn the line
+        # before it into a heading.
+        for xml, expected in (
+            ("text<xhtml:br/>--", "text\\\n\\--"),
+            ("text<xhtml:br/>---", "text\\\n\\---"),
+            ("text<xhtml:br/>=", "text\\\n\\="),
+            ("text<xhtml:br/>-- not a rule", "text\\\n-- not a rule"),
+        ):
+            with self.subTest(xml=xml):
+                self.assertEqual(st.structured_text_to_md(parse(xml), "T/x"), expected)
+        self.assertEqual(st.escape_inline("a\n--"), "a\n\\--")
+        self.assertEqual(st.escape_inline("a\n***"), "a\n\\*\\*\\*")
+        self.assertEqual(st.escape_inline("a\n___"), "a\n\\_\\_\\_")
+
+
 class Cwe79(unittest.TestCase):
+    def setUp(self):
+        eds.require("4.19.1")
+
     def test_cwe79_result_example_order(self):
         root = load_zip(ZIP_419)
         weakness = next(
@@ -270,11 +301,14 @@ def find_weakness(root: ET.Element, cwe_id: str) -> ET.Element:
     )
 
 
-@unittest.skipUnless(ZIP_419.exists(), "4.19.1 original not present")
 class RealShapes(unittest.TestCase):
-    @classmethod
-    def setUpClass(cls):
-        cls.root = load_zip(ZIP_419)
+    _root = None
+
+    def setUp(self):
+        eds.require("4.19.1")
+        if RealShapes._root is None:
+            RealShapes._root = load_zip(ZIP_419)
+        self.root = RealShapes._root
 
     def test_cwe1236_attack_p_example_is_fenced(self):
         w = find_weakness(self.root, "1236")
@@ -331,13 +365,11 @@ class AllRealData(unittest.TestCase):
         del stack
         return count
 
-    @unittest.skipUnless(ZIP_419.exists(), "4.19.1 original not present")
-    def test_all_structured_text_in_4_19_1_converts(self):
-        self.assertGreater(self._convert_all(ZIP_419), 1000)
-
-    @unittest.skipUnless(ZIP_50.exists(), "5.0 original not present")
-    def test_all_structured_text_in_5_0_converts(self):
-        self.assertGreater(self._convert_all(ZIP_50), 1000)
+    def test_all_structured_text_converts(self):
+        for v in eds.editions():
+            with self.subTest(edition=v):
+                eds.require(v)
+                self.assertGreater(self._convert_all(eds.zip_path(v)), 1000)
 
     def _assert_code_indent_is_clean(self, path: Path) -> None:
         root = load_zip(path)
@@ -359,16 +391,14 @@ class AllRealData(unittest.TestCase):
                     bad.append(line[:60])
         self.assertEqual(bad[:5], [], f"{len(bad)} badly indented code lines")
 
-    @unittest.skipUnless(ZIP_419.exists(), "4.19.1 original not present")
-    def test_code_indentation_clean_4_19_1(self):
-        self._assert_code_indent_is_clean(ZIP_419)
+    def test_code_indentation_clean(self):
+        for v in eds.editions():
+            with self.subTest(edition=v):
+                eds.require(v)
+                self._assert_code_indent_is_clean(eds.zip_path(v))
 
-    @unittest.skipUnless(ZIP_50.exists(), "5.0 original not present")
-    def test_code_indentation_clean_5_0(self):
-        self._assert_code_indent_is_clean(ZIP_50)
-
-    @unittest.skipUnless(ZIP_50.exists(), "5.0 original not present")
     def test_output_is_deterministic(self):
+        eds.require("5.0")
         root = load_zip(ZIP_50)
         elems = [e for e, c in structured_elements(root) if not c][:200]
         a = [st.structured_text_to_md(e, "x") for e in elems]

@@ -1,15 +1,19 @@
 """Tests for cwe_xml (edition loader, view outlines, implicit views)."""
 
+import hashlib
 import json
 import shutil
 import sys
 import tempfile
 import unittest
+import zipfile
 from pathlib import Path
 
 SCRIPTS_DIR = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(SCRIPTS_DIR))
+sys.path.insert(0, str(Path(__file__).resolve().parent))
 
+import cwe_test_editions as eds  # noqa: E402
 import cwe_xml as cx  # noqa: E402
 
 CWE_DIR = SCRIPTS_DIR.parent
@@ -17,6 +21,9 @@ _CACHE = {}
 
 
 def edition(version):
+    """The loaded edition; skips the test (or fails it, with CWE_REQUIRE_ZIPS=1)
+    when its git-ignored zip is absent."""
+    eds.require(version)
     if version not in _CACHE:
         _CACHE[version] = cx.load_edition(CWE_DIR / version, version)
     return _CACHE[version]
@@ -33,21 +40,30 @@ def graph_views(ed):
 
 
 class LoadTests(unittest.TestCase):
+    def test_editions_found(self):
+        self.assertEqual(eds.editions()[:1], ["4.19.1"])
+        self.assertIn("5.0", eds.editions())
+
     def test_load_counts(self):
-        ed = edition("4.19.1")
-        self.assertEqual(
-            (len(ed.weaknesses), len(ed.groups), len(ed.views), len(ed.references)),
-            (969, 420, 58, 1012),
-        )
-        self.assertEqual((ed.group_term, ed.group_dir, ed.schema_major), ("Category", "categories", 7))
-        ed = edition("5.0")
-        self.assertEqual(
-            (len(ed.weaknesses), len(ed.groups), len(ed.views), len(ed.references)),
-            (984, 431, 62, 1081),
-        )
-        self.assertEqual((ed.group_term, ed.group_dir, ed.schema_major), ("Grouping", "groupings", 8))
+        for v in eds.editions():
+            with self.subTest(edition=v):
+                self.assertIn(v, eds.EXPECTED, f"add CWE {v}'s catalog counts to EXPECTED")
+                exp = eds.EXPECTED[v]
+                ed = edition(v)
+                deprecated = sum(w.get("Status") == "Deprecated" for w in ed.weaknesses.values())
+                self.assertEqual(
+                    (len(ed.weaknesses), deprecated, len(ed.groups), len(ed.views),
+                     len(ed.references), ed.schema_major),
+                    (exp["weaknesses"], exp["deprecated"], exp["groups"], exp["views"],
+                     exp["references"], exp["schema_major"]),
+                )
+                self.assertEqual(
+                    (ed.group_term, ed.group_dir),
+                    {7: ("Category", "categories"), 8: ("Grouping", "groupings")}[ed.schema_major],
+                )
 
     def _copy(self, tmp, version):
+        eds.require(version)
         src = CWE_DIR / version
         name = f"cwec_v{version}.xml.zip"
         shutil.copyfile(src / name, Path(tmp) / name)
@@ -67,6 +83,7 @@ class LoadTests(unittest.TestCase):
     def test_version_mismatch_raises(self):
         # Files carry the requested name so the SHA passes and the catalog
         # Version check is what rejects them.
+        eds.require("5.0")
         with tempfile.TemporaryDirectory() as tmp:
             src = CWE_DIR / "5.0"
             for suffix in ("", "-file-metadata.json"):
@@ -90,6 +107,75 @@ class LoadTests(unittest.TestCase):
         self.assertEqual(cx.entry_path(ed, 1000), "views/CWE-1000.md")
         self.assertEqual(cx.entry_path(edition("4.19.1"), 16), "categories/CWE-16.md")
         self.assertTrue(cx.entry_name(ed, 79))
+
+
+NS7 = "http://cwe.mitre.org/cwe-7"
+
+
+def write_edition(tmp, version, body, ns=NS7):
+    """A synthetic edition in ``tmp``: a one-member zip and a matching sidecar."""
+    xml = (f'<Weakness_Catalog xmlns="{ns}" Name="CWE" Version="{version}" '
+           f'Date="2026-01-01">{body}</Weakness_Catalog>').encode("utf-8")
+    name = f"cwec_v{version}.xml.zip"
+    path = Path(tmp) / name
+    with zipfile.ZipFile(path, "w") as zf:
+        zf.writestr(f"cwec_v{version}.xml", xml)
+    sidecar = {"filename": name, "sha256": hashlib.sha256(path.read_bytes()).hexdigest()}
+    (Path(tmp) / f"{name}-file-metadata.json").write_text(json.dumps(sidecar), encoding="utf-8")
+
+
+class SyntheticLoadTests(unittest.TestCase):
+    """Malformed catalogs, built in a temp dir: no MITRE zip needed."""
+
+    def _load(self, body, ns=NS7):
+        with tempfile.TemporaryDirectory() as tmp:
+            write_edition(tmp, "9.9", body, ns)
+            return cx.load_edition(Path(tmp), "9.9")
+
+    def test_minimal_catalog_loads(self):
+        ed = self._load('<Weaknesses><Weakness ID="1" Name="a"/><Weakness ID="2" Name="b"/></Weaknesses>'
+                        '<Categories><Category ID="3" Name="c"/></Categories>'
+                        '<Views><View ID="4" Name="d"/></Views>'
+                        '<External_References><External_Reference Reference_ID="REF-1"/>'
+                        '<External_Reference Reference_ID="REF-2"/></External_References>')
+        self.assertEqual((sorted(ed.weaknesses), sorted(ed.groups), sorted(ed.views)), ([1, 2], [3], [4]))
+        self.assertEqual(sorted(ed.references), ["REF-1", "REF-2"])
+        self.assertEqual(ed.schema_major, 7)
+
+    def test_duplicate_weakness_id_raises(self):
+        with self.assertRaisesRegex(cx.DuplicateIdError, r"two Weakness entries have ID 7 \(CWE-7\)"):
+            self._load('<Weaknesses><Weakness ID="7" Name="a"/><Weakness ID="7" Name="b"/></Weaknesses>')
+
+    def test_duplicate_group_and_view_ids_raise(self):
+        with self.assertRaisesRegex(cx.DuplicateIdError, r"two Category entries have ID 5"):
+            self._load('<Categories><Category ID="5" Name="a"/><Category ID="5" Name="b"/></Categories>')
+        with self.assertRaisesRegex(cx.DuplicateIdError, r"two Grouping entries have ID 5"):
+            self._load('<Groupings><Grouping ID="5" Name="a"/><Grouping ID="5" Name="b"/></Groupings>',
+                       ns="http://cwe.mitre.org/cwe-8")
+        with self.assertRaisesRegex(cx.DuplicateIdError, r"two View entries have ID 6"):
+            self._load('<Views><View ID="6" Name="a"/><View ID="6" Name="b"/></Views>')
+
+    def test_id_shared_across_entry_types_raises(self):
+        with self.assertRaisesRegex(cx.DuplicateIdError, r"CWE-8 is both a Weakness and a View"):
+            self._load('<Weaknesses><Weakness ID="8" Name="a"/></Weaknesses>'
+                       '<Views><View ID="8" Name="b"/></Views>')
+
+    def test_duplicate_reference_id_raises(self):
+        with self.assertRaisesRegex(cx.DuplicateIdError, r"Reference_ID REF-9"):
+            self._load('<External_References><External_Reference Reference_ID="REF-9"/>'
+                       '<External_Reference Reference_ID="REF-9"/></External_References>')
+
+    def test_duplicate_error_is_a_source_verification_error(self):
+        self.assertTrue(issubclass(cx.DuplicateIdError, cx.SourceVerificationError))
+
+    def test_schema_minor_in_namespace_reads_major(self):
+        self.assertEqual(self._load("", ns="http://cwe.mitre.org/cwe-8.1").schema_major, 8)
+
+    def test_namespace_without_schema_number_raises(self):
+        for ns in ("http://cwe.mitre.org/cwe-x", "http://example.org/catalog"):
+            with self.subTest(ns=ns):
+                with self.assertRaisesRegex(cx.SourceVerificationError, "schema major version"):
+                    self._load("", ns=ns)
 
 
 class OutlineTests(unittest.TestCase):
@@ -139,6 +225,7 @@ class OutlineTests(unittest.TestCase):
 
 class DanglingReferenceTests(unittest.TestCase):
     def _mutated(self, edit):
+        eds.require("5.0")
         ed = cx.load_edition(CWE_DIR / "5.0", "5.0")  # fresh, not the cache
         edit(ed)
         return ed
@@ -191,26 +278,28 @@ class ImplicitTests(unittest.TestCase):
             self.assertIn("C", langs)
 
     def test_implicit_604_is_deprecated(self):
-        for version in ("4.19.1", "5.0"):
-            ed = edition(version)
-            expected = sorted(
-                i
-                for d in (ed.weaknesses, ed.groups, ed.views)
-                for i, e in d.items()
-                if e.get("Status") == "Deprecated"
-            )
-            self.assertEqual(cx.implicit_members(ed, 604), expected)
+        for version in eds.editions():
+            with self.subTest(edition=version):
+                ed = edition(version)
+                expected = sorted(
+                    i
+                    for d in (ed.weaknesses, ed.groups, ed.views)
+                    for i, e in d.items()
+                    if e.get("Status") == "Deprecated"
+                )
+                self.assertEqual(cx.implicit_members(ed, 604), expected)
 
     def test_all_active_implicit_filters_known(self):
-        for version in ("4.19.1", "5.0"):
-            ed = edition(version)
-            for vid, v in ed.views.items():
-                if v.get("Type") != "Implicit":
-                    continue
-                flt = cx.text(cx.child(v, "Filter"))
-                if flt == "/Weakness_Catalog[false()]":
-                    continue
-                self.assertIsNotNone(cx.implicit_members(ed, vid), (version, vid))
+        for version in eds.editions():
+            with self.subTest(edition=version):
+                ed = edition(version)
+                for vid, v in ed.views.items():
+                    if v.get("Type") != "Implicit":
+                        continue
+                    flt = cx.text(cx.child(v, "Filter"))
+                    if flt == "/Weakness_Catalog[false()]":
+                        continue
+                    self.assertIsNotNone(cx.implicit_members(ed, vid), (version, vid))
 
     def test_unknown_filter_returns_none(self):
         ed = edition("4.19.1")

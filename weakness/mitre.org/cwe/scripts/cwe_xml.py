@@ -10,6 +10,7 @@ from __future__ import annotations
 import hashlib
 import io
 import json
+import re
 import zipfile
 from dataclasses import dataclass
 from pathlib import Path
@@ -19,7 +20,13 @@ from xml.etree.ElementTree import Element
 
 
 class SourceVerificationError(ValueError):
-    """The edition's zip or XML does not match its committed sidecar/version."""
+    """The edition's zip or XML does not match its committed sidecar/version,
+    or the catalog cannot be read as one (e.g. no schema version in its namespace)."""
+
+
+class DuplicateIdError(SourceVerificationError):
+    """Two catalog entries share a CWE ID, or two External_Reference entries share a
+    Reference_ID; indexing them by ID would silently keep only one."""
 
 
 class DanglingReferenceError(ValueError):
@@ -101,13 +108,25 @@ def load_edition(edition_dir: Path, version: str) -> Edition:
         raise SourceVerificationError(
             f"{zip_name}: catalog Version {root.get('Version')!r} != {version!r}"
         )
-    ns = root.tag[: root.tag.index("}") + 1] if root.tag.startswith("{") else ""
-    schema_major = int(ns.rsplit("-", 1)[-1].rstrip("}")) if ns else 0
+    ns = root.tag[1 : root.tag.index("}")] if root.tag.startswith("{") else ""
+    # MITRE's namespace ends in cwe-<major> (cwe-7, cwe-8); take the leading
+    # integer so a future cwe-8.1 still reads as schema 8.
+    m = re.match(r"cwe-(\d+)", ns.rsplit("/", 1)[-1])
+    if m is None:
+        raise SourceVerificationError(
+            f"{zip_name}: cannot read the schema major version from namespace {ns!r}"
+            " (expected one ending in cwe-<number>)"
+        )
+    schema_major = int(m.group(1))
 
     def by_id(container: str, item: str) -> dict[int, Element]:
-        return {
-            int(e.get("ID")): e for e in children(child(root, container), item)
-        }
+        out: dict[int, Element] = {}
+        for e in children(child(root, container), item):
+            i = int(e.get("ID"))
+            if i in out:
+                raise DuplicateIdError(f"{zip_name}: two {item} entries have ID {i} (CWE-{i})")
+            out[i] = e
+        return out
 
     weaknesses = by_id("Weaknesses", "Weakness")
     views = by_id("Views", "View")
@@ -117,10 +136,20 @@ def load_edition(edition_dir: Path, version: str) -> Edition:
     else:
         group_term, group_dir = "Category", "categories"
         groups = by_id("Categories", "Category")
-    references = {
-        e.get("Reference_ID"): e
-        for e in children(child(root, "External_References"), "External_Reference")
-    }
+    seen: dict[int, str] = {}
+    for kind, table in (("Weakness", weaknesses), (group_term, groups), ("View", views)):
+        for i in table:
+            if i in seen:
+                raise DuplicateIdError(f"{zip_name}: CWE-{i} is both a {seen[i]} and a {kind}")
+            seen[i] = kind
+    references: dict[str, Element] = {}
+    for e in children(child(root, "External_References"), "External_Reference"):
+        rid = e.get("Reference_ID")
+        if rid in references:
+            raise DuplicateIdError(
+                f"{zip_name}: two External_Reference entries have Reference_ID {rid}"
+            )
+        references[rid] = e
     return Edition(
         version=version,
         date=root.get("Date", ""),
