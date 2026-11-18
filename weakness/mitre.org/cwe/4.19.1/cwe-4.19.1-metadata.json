@@ -30,11 +30,11 @@
   },
   "lifecycle": {
     "published": "2026-01-21",
-    "active": true,
+    "active": false,
     "supersedes": "CWE 4.19 and earlier 4.x maintenance versions",
     "supersededBy": "5.0",
     "retiredFromActiveUse": null,
-    "notes": "CWE is on a roughly quarterly release cadence; 4.x has been the active major version since 2018. Version-specific extractions are kept here for mapping reproducibility."
+    "notes": "CWE is on a roughly quarterly release cadence; 4.x was the active major version from 2018 until 5.0 (2026-10-28); 4.20 and 4.21, which are not held here, were released between 4.19.1 and 5.0. Version-specific extractions are kept here for mapping reproducibility."
   },
   "current_extraction": {
     "s3_timestamp": "unknown",
