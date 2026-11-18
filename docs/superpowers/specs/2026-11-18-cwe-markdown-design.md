@@ -2,7 +2,7 @@
 
 **Status:** Design, 2026-11-18. Approved by Kurt ("ok lets get datasets updated and that ai markdown stuff done asap"); source switched from CSV to XML by Kurt the same day (see Approaches).
 **Issue:** [#160](https://github.com/CloudSecurityAlliance-DataSets/dataset-public-laws-regulations-standards/issues/160)
-**Scope:** `weakness/mitre.org/cwe/` (new `5.0/` edition, new converter scripts, generated `markdown/` folders for 4.19.1 and 5.0, metadata and README updates)
+**Scope:** `weakness/mitre.org/cwe/` (new `5.0/`, `4.20/` and `4.21/` editions, new converter scripts, generated `markdown/` folders for 4.19.1, 4.20, 4.21 and 5.0, metadata and README updates)
 
 ## Why
 
@@ -22,7 +22,7 @@ Answer to the last, chosen by Kurt: "XML, one pass (Recommended)".
 
 > "we also need to get 4.20 and 4.21 I guess?"
 
-MITRE archives only the full XML (plus PDF and diff reports) for past releases, so 4.20 and 4.21 are added as XML-only editions: original zip (S3) and sidecar, metadata, `LICENSE.txt` and generated `markdown/`. They have no per-view CSV, per-view JSON or merged files, because MITRE does not publish those for past releases (AI's call, 2026-11-18).
+MITRE's release archive (https://cwe.mitre.org/data/archive.html) keeps each past release's full XML zip, PDF, schema and difference reports, and no per-view CSV or JSON, so 4.20 and 4.21 are added as XML-only editions: original zip (S3) and sidecar, metadata, `LICENSE.txt` and generated `markdown/`. They have no per-view CSV, per-view JSON or merged files, because MITRE does not publish those for past releases (AI's call, 2026-11-18).
 
 The CWE data here today is CSV and JSON. The CSV packs most fields into ambiguous `::KEY:value::` strings; the per-view JSON is a `yq` conversion of MITRE's XML that loses the order of mixed text and markup. Neither reads well for a person or an AI pipeline. Markdown, one page per entry, gives both a clean unit to read, cite and retrieve.
 
@@ -30,7 +30,7 @@ The CWE data here today is CSV and JSON. The CSV packs most fields into ambiguou
 
 1. Scripts that render one CWE edition as markdown: an index page, one page per weakness, one per category (4.x) or grouping (5.0), and one per view.
 2. Render every edition held here: 4.19.1 (existing), 4.20, 4.21 and 5.0 (new).
-3. Add CWE 5.0 as a full edition, matching what 4.19.1 holds (MITRE's three per-view CSVs and per-view JSON, merged `cwe-5.0-all.{csv,json}`, `LICENSE.txt`, metadata), plus the full XML original for both editions.
+3. Add CWE 5.0 as a full edition, matching what 4.19.1 holds (MITRE's three per-view CSVs and per-view JSON, merged `cwe-5.0-all.{csv,json}`, `LICENSE.txt`, metadata), plus the full XML original for every edition held (4.19.1, 4.20, 4.21 and 5.0).
 4. Output regenerates byte for byte from a pinned input, so the planned reproducibility gate (#158) can re-run it.
 
 ## Non-goals
@@ -43,7 +43,7 @@ The CWE data here today is CSV and JSON. The CSV packs most fields into ambiguou
 
 - **Silent loss.** No XHTML element, entry, view member or reference is dropped without the run failing or the page saying so.
 - **Lost attribution.** MITRE's terms allow copies "on the condition that you reproduce MITRE's copyright designation and this license".
-- **People's names.** MITRE's `Content_History` records submitters and modifiers by name. Pages omit content history (CSA rule: never write about specific people in a work repo; safety and privacy rank first).
+- **Content history in the pages.** MITRE's `Content_History` holds the submission and modification records for each entry. That is editorial history, not weakness content, so the markdown omits it and each page's footer says so. MITRE's XML and the mirrored per-view JSON keep it as MITRE publishes it, under Kurt's rule (2026-11-18): *"we treat mitre like the gov, we republish their data, it's fine."* Author names in References citations are kept (rulings during build, 2026-11-18, recorded on #160).
 - **Non-reproducible output.** No timestamps, run dates, absolute local paths or unordered iteration in generated files.
 
 ## Approaches considered
@@ -63,9 +63,11 @@ Per edition directory: `cwec_v<ver>.xml.zip`, MITRE's versioned download (`https
 | Edition | sha256 | Weaknesses | Categories / Groupings | Views | External refs |
 |---|---|---|---|---|---|
 | 4.19.1 (2026-01-21, schema 7.3, namespace `cwe-7`) | `61e08a4e…c68f` | 969 (25 deprecated) | 420 Categories | 58 | 1,012 |
+| 4.20 (2026-04-30, schema 7.3, namespace `cwe-7`) | `3976f599…7d50` | 969 (25 deprecated) | 422 Categories | 59 | 1,026 |
+| 4.21 (2026-10-28, schema 7.4, namespace `cwe-7`) | `5225e2b4…8862` | 984 (28 deprecated) | 431 Categories | 62 | 1,081 |
 | 5.0 (2026-10-28, schema 8.0, namespace `cwe-8`) | `bcda44c9…a3dc` | 984 (28 deprecated) | 431 Groupings | 62 | 1,081 |
 
-Schema 8.0 differences the code handles: `Categories/Category` became `Groupings/Grouping`; new weakness elements `Dimensions` (107 weaknesses; `Dimension/@Type` plus text) and `Technical_Nuance` (53; structured text); new relationship nature `Overlaps`. Element lookups match on local name, so one code path reads both namespaces.
+Schema 8.0 differences the code handles: `Categories/Category` became `Groupings/Grouping`; new weakness elements `Dimensions` (107 weaknesses; `Dimension/@Type` plus text) and `Technical_Nuance` (53; structured text); new relationship nature `Overlaps`. Element lookups match on local name, so one code path reads both namespaces. The schema major version is the leading integer after `cwe-` in the namespace (a namespace without one fails the run). Two entries with the same CWE ID (in one list or across weaknesses, categories or groupings, and views), or two External_References with the same `Reference_ID`, fail the run rather than one silently replacing the other.
 
 ## Output layout
 
@@ -79,7 +81,7 @@ weakness/mitre.org/cwe/<version>/markdown/
 └── views/CWE-<id>.md
 ```
 
-About 1,450 pages per edition. Each folder stays under GitHub's 1,000-entry listing limit (largest: 984 weaknesses).
+`categories/` holds the 4.x editions' pages (4.19.1, 4.20, 4.21). Between 1,448 (4.19.1) and 1,478 (4.21, 5.0) pages per edition. Each folder stays under GitHub's 1,000-entry listing limit (largest: 984 weaknesses).
 
 ## Entry pages (weakness, category/grouping, view)
 
@@ -92,7 +94,7 @@ Front matter (weakness example):
 secid: "secid:weakness/mitre.org/cwe@5.0#CWE-79"
 cwe_id: "CWE-79"
 entry_type: weakness            # weakness | category | grouping | view
-name: "Improper Neutralization of Input During Web Page Generation ('Cross-site Scripting')"
+name: "Improper Neutralization of Input During Web Page Generation"
 abstraction: Base               # weaknesses only
 structure: Simple               # weaknesses only
 status: Stable
@@ -120,18 +122,22 @@ Used under the CWE Terms of Use: https://cwe.mitre.org/about/termsofuse.html (fu
 
 ## Structured text (XHTML to markdown)
 
-MITRE's structured text fields hold text mixed with XHTML. Measured tag inventory across 5.0: `p`, `div`, `br`, `ul`, `ol`, `li`, `b`, `i`, `table`, `tbody`, `tr`, `th`, `td`, `caption`, `img`, `sup`, `span`. The converter walks elements in document order (`text`, children, `tail`), so order is preserved. Any other tag fails the run with the CWE ID and path. Demonstrative examples: `Intro_Text` and `Body_Text` as prose; each `Example_Code` labelled `*Example (<Nature>, <Language>):*` (Bad, Good, Attack, Result, Informative). An `Example_Code` holding only text, `br`, `div`, `b`, `i`, `span` or a single `p` is a fenced block tagged with the lower-cased language; `br` is a newline, each nested `div` with a `margin-left` style indents four spaces, XML pretty-print whitespace is removed, nothing is escaped, and the fence grows past any backtick run in the code. An `Example_Code` holding a table or list renders as structured markdown under its label, because a fence would destroy the structure (ruling during build, 2026-11-18). Outside code, text renders as written: `<` becomes `&lt;`, `&` is escaped only where it would start an entity, `*` and backticks are backslash-escaped, `_` is escaped unless it sits between two alphanumerics, `|` is escaped in table cells, line-initial `#`, `>`, `-`, `+`, `*`, `=` and `N.` are escaped, and a `br` in prose is a trailing-backslash hard break.
+MITRE's structured text fields hold text mixed with XHTML. Measured tag inventory across 5.0: `p`, `div`, `br`, `ul`, `ol`, `li`, `b`, `i`, `table`, `tbody`, `tr`, `th`, `td`, `caption`, `img`, `sup`, `span`. The converter walks elements in document order (`text`, children, `tail`), so order is preserved. Any other tag fails the run with the CWE ID and path. Demonstrative examples: `Intro_Text` and `Body_Text` as prose; each `Example_Code` labelled `*Example (<Nature>, <Language>):*` (Bad, Good, Attack, Result, Informative). An `Example_Code` holding anything but a table or list (text, `br`, `div`, `p`, `b`, `i`, `span`, `sup`) is a fenced block tagged with the lower-cased language; `br` is a newline, each `div` or `p` starts a new line (so several paragraphs are joined by single newlines, with no blank line between them; kept as is by a ruling during build, 2026-11-18), each nested `div` with a `margin-left` style indents four spaces, XML pretty-print whitespace is removed, nothing is escaped, and the fence grows past any backtick run in the code. An `Example_Code` holding a table or list renders as structured markdown under its label, because a fence would destroy the structure (ruling during build, 2026-11-18). Outside code, text renders as written: a backslash before ASCII punctuation is doubled (so it stays a literal backslash), `<` becomes `&lt;`, `&` is escaped only where it would start an entity, `*` and backticks are backslash-escaped, `_` is escaped unless it sits between two alphanumerics, `|` is escaped in table cells, a line-initial `#`, `>`, `-`, `+`, `~~~` or `N.` that would start a heading, quote, list or fence is escaped, as is a line made only of `=` or of two or more `-` (it would underline the line before as a setext heading), and a `br` in prose is a trailing-backslash hard break.
 
 ## View pages
 
 Each opens with the view's name, type, status, objective, audience and member counts.
 
-- **Graph views** (39 in 5.0, e.g. 1000, 699, 1194, the Top 25 lists): a nested outline. Roots are the view's `Members/Has_Member`. A category's or grouping's children are its `Has_Member` entries with that `@View_ID`; a weakness's children are the weaknesses with a `ChildOf` to it with that `@View_ID`. Each entry is expanded once, under its `Primary` parent in that view (else its lowest-ID parent); any other parent lists it as a one-line cross-reference. Cycles are guarded. The script asserts every entry reachable in the view is expanded exactly once.
+- **Graph views** (39 in 5.0, e.g. 1000, 699, 1194, the Top 25 lists): a nested outline. Roots are the view's `Members/Has_Member`. A category's or grouping's children are its `Has_Member` entries with that `@View_ID`; a weakness's children are the weaknesses with a `ChildOf` to it with that `@View_ID`. Each entry is expanded once, under its `Primary` parent in that view (else its lowest-ID parent); any other parent lists it as a one-line cross-reference. Cycles are guarded. The script asserts every entry reachable in the view is expanded exactly once. Entries that have a parent in the view but that no root reaches are listed at the end of the page under "Not reachable from this view's roots", each with its parent (ruling during build, 2026-11-18). In 4.21 and 5.0, view 1000 has two: CWE-378 and CWE-379, whose only parent there is deprecated CWE-377.
 - **Explicit views** (6): a flat list of members.
 - **Implicit views** (17): the view's XPath `Filter` shown as code, then the members it selects. The script holds an exact predicate for each of the 15 active filter strings (e.g. `[./Applicable_Platforms/Language/@Name='C']`, `[@Status='Deprecated']`); an unknown filter string gets the filter only, a stated "members not computed", and a warning in the run output.
 - Obsolete and deprecated views render their description and status only.
 
 Each line in an outline: `[CWE-79](../weaknesses/CWE-79.md) Name (Base)`.
+
+## Upstream data
+
+The pages reproduce MITRE's data as published, upstream errors included (ruling during build, 2026-11-18). Example: in 4.21 and 5.0, CWE-1475's observed-example row labelled CVE-2025-50328 links to CVE-2026-58052, as MITRE's XML does.
 
 ## Index page
 
@@ -143,7 +149,7 @@ All under `weakness/mitre.org/cwe/scripts/`, Python 3.10+ standard library only,
 
 | File | Responsibility |
 |---|---|
-| `cwe_xml.py` | Load and verify an edition (zip, sidecar SHA-256, version), index entries by ID, namespace-agnostic element access, view outline construction, implicit-view predicates |
+| `cwe_xml.py` | Load and verify an edition (zip, sidecar SHA-256, version, schema major, unique IDs), index entries by ID, namespace-agnostic element access, view outline construction, implicit-view predicates |
 | `cwe_structured_text.py` | XHTML structured text to markdown, and markdown escaping |
 | `cwe_to_markdown.py` | Page rendering, `index.md`, writing the folder, `--check`, CLI |
 | `merge_cwe_views.py` | Moved from `4.19.1/`, now takes the edition directory and version |
@@ -159,14 +165,16 @@ All under `weakness/mitre.org/cwe/scripts/`, Python 3.10+ standard library only,
 5. `cwe-5.0-metadata.json` from 4.19.1's, with 5.0's facts: release date 2026-10-28, schema 8.0 changes, counts recomputed from the files, `access_tier: 2` with `tier_evidence` (public web, no login, checked 2026-11-18), a note that the per-view JSON is a mechanical `yq` conversion that does not keep text order (use `markdown/` or the XML for prose), and a note that MITRE's REST API serves only the latest content. In 4.19.1's metadata: `lifecycle.published` to `2026-01-21` (MITRE's catalog date; it says "2025" today), `lifecycle.supersededBy: "5.0"`, the same `yq` note.
 6. Upload the zips with `tools-resources/utils/sync_originals_to_s3.sh` (`--dry-run` first).
 
+Later releases follow the procedure in `weakness/mitre.org/cwe/README.md` ("Adding a new CWE release").
+
 ## Verification
 
-- `cwe_to_markdown.py --version <v> --check` passes for both editions.
+- `cwe_to_markdown.py --version <v> --check` passes for every edition (4.19.1, 4.20, 4.21, 5.0).
 - Page counts equal the catalog counts in the Input table; each view outline expands every reachable entry exactly once.
 - Every relative link in `markdown/` resolves to a generated file.
 - Structured-text order: CWE-79's "Result" example renders its nested form lines between "Please Login:" and the closing `</div></div>`, as in MITRE's XML.
 - Spot-check against MITRE's HTML pages: CWE-79, CWE-89, CWE-1426, CWE-1039 (5.0 `Technical_Nuance`), CWE-1024 (5.0 `Dimensions`), a Pillar, a hardware weakness, a deprecated entry, a grouping, view 1000 and an implicit view.
-- Repository checks: `audit_secid_alignment.py`, `build_index.py`, `check_tier_restrictions.py`, and the scripts' `unittest` suite.
+- Repository checks: `audit_secid_alignment.py`, `build_index.py`, `check_tier_restrictions.py`, and the scripts' `unittest` suite. Tests that need an edition's git-ignored zip skip when it is absent and name it; `CWE_REQUIRE_ZIPS=1` turns those skips into failures (for the #158 gate).
 - Report total size of each `markdown/` folder in the PR.
 
 ## Left to the builder
