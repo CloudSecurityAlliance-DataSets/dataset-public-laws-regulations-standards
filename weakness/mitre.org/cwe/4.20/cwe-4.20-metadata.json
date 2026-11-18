@@ -50,7 +50,7 @@
     "extraction_host": "local",
     "flags": [],
     "force_ocr": null,
-    "notes": "MITRE archives only the full XML for past releases, so this edition has no CSV, per-view JSON or merged cwe-4.20-all files; only markdown/ is generated, by scripts/cwe_to_markdown.py from cwec_v4.20.xml.zip (kept in S3 and pinned by cwec_v4.20.xml.zip-file-metadata.json, which the script checks before it runs). The markdown/ folder is an index and one page per weakness, category and view. MITRE's REST API serves only the latest content, so it cannot reproduce this edition; the versioned XML zip is the source of record."
+    "notes": "MITRE's release archive (https://cwe.mitre.org/data/archive.html, checked 2026-11-18) has no per-view CSV or JSON for past releases: it keeps each release's full XML zip, PDF, schema (XSD) and difference reports. So this edition has no CSV, per-view JSON or merged cwe-4.20-all files; only markdown/ is generated, by scripts/cwe_to_markdown.py from cwec_v4.20.xml.zip (kept in S3 and pinned by cwec_v4.20.xml.zip-file-metadata.json, which the script checks before it runs). The markdown/ folder is an index and one page per weakness, category and view. MITRE's REST API serves only the latest content, so it cannot reproduce this edition; the versioned XML zip is the source of record."
   },
   "extraction_history": [
     {
@@ -75,6 +75,6 @@
   "desired_end_state": {
     "state": "structured",
     "reason": "taxonomy",
-    "notes": "MITRE CWE — Terms of Use permit redistribution + derivatives. Explicit setter to prevent heuristic reverts; this edition's structured form is the generated markdown (MITRE archives only full XML for past releases)."
+    "notes": "MITRE CWE — Terms of Use permit redistribution + derivatives. Explicit setter to prevent heuristic reverts; this edition's structured form is the generated markdown (MITRE's archive has no per-view CSV or JSON for past releases)."
   }
 }

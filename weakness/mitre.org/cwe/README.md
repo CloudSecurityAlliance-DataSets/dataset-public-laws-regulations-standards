@@ -55,12 +55,13 @@ Each edition directory holds a `markdown/` folder generated from MITRE's full XM
 | 4.21 | [`4.21/markdown/`](4.21/markdown/index.md) | index, 984 weaknesses, 431 categories, 62 views | none (XML only) |
 | 5.0 | [`5.0/markdown/`](5.0/markdown/index.md) | index, 984 weaknesses, 431 groupings, 62 views | per-view CSV and JSON, merged `cwe-5.0-all.*` |
 
-MITRE archives only the full XML for past releases, so 4.20 and 4.21 (the latter published the same day as 5.0, as the schema-7 release) have the generated markdown but no CSV, per-view JSON or merged files.
+MITRE's [release archive](https://cwe.mitre.org/data/archive.html) has no per-view CSV or JSON for past releases (it keeps each release's full XML zip, PDF, schema and difference reports), so 4.20 and 4.21 (the latter published the same day as 5.0, as the schema-7 release) have the generated markdown but no CSV, per-view JSON or merged files.
 
 - `index.md`: edition, release date, source zip and its SHA-256, licence and attribution, counts, and tables of every weakness, category or grouping, and view.
-- `weaknesses/CWE-<id>.md`: one page per weakness, deprecated ones included. YAML front matter (`secid`, `cwe_id`, `name`, `abstraction`, `structure`, `status`, `mapping_usage`, `cwe_version`, `upstream`), then MITRE's sections in schema order. Each heading is MITRE's element name with spaces for underscores, so its GitHub anchor equals the SecID section subpath (`#potential-mitigations`).
-- `categories/` (4.x) or `groupings/` (5.0): MITRE's term for the edition. Each page lists its members and the view each membership belongs to.
-- `views/`: Graph views as a nested outline (each entry in full once, under its primary parent; other parents point to it), Explicit views as a list, Implicit views as their XPath filter plus the members it selects. Obsolete and deprecated views show their objective and status only.
+- `weaknesses/CWE-<id>.md`: one page per weakness, deprecated ones included. YAML front matter (`secid`, `cwe_id`, `entry_type`, `name`, `abstraction`, `structure`, `status`, `mapping_usage` when MITRE gives one, `cwe_version`, `cwe_release_date`, `upstream`), then MITRE's sections in schema order. Each heading is MITRE's element name with spaces for underscores, so its GitHub anchor equals the SecID section subpath (`#potential-mitigations`).
+- `categories/` (4.x) or `groupings/` (5.0): MITRE's term for the edition. Each page lists its members and the view each membership belongs to. Front matter as for weaknesses, without `abstraction` and `structure`.
+- `views/`: Graph views as a nested outline (each entry in full once, under its primary parent; other parents point to it), Explicit views as a list, Implicit views as their XPath filter plus the members it selects. Obsolete and deprecated views show their objective and status only. Front matter as for categories, plus `view_type` (Graph, Explicit or Implicit).
+- `index.md` front matter: `secid`, `entry_type: index`, `cwe_version`, `cwe_release_date`, `source` (the zip's URL) and `sha256`.
 - `LICENSE.txt`: a copy of the edition's MITRE Terms of Use. Every page ends with MITRE's copyright and trademark notice and a link to the terms.
 
 Regenerate or check a folder (needs `cwec_v<version>.xml.zip` in the edition directory: it is git-ignored, kept in S3 at the same path, and downloadable from `https://cwe.mitre.org/data/xml/`):
@@ -71,16 +72,33 @@ python3 weakness/mitre.org/cwe/scripts/cwe_to_markdown.py --version 5.0 --check 
 python3 -m unittest discover -s weakness/mitre.org/cwe/scripts/tests -v
 ```
 
+Tests that need an edition's zip skip when it is absent and say which zip to fetch; set `CWE_REQUIRE_ZIPS=1` to make them fail instead.
+
 The script refuses to run if the zip's SHA-256 differs from its committed sidecar (`cwec_v<version>.xml.zip-file-metadata.json`), and it fails rather than dropping anything: on XML elements, attributes or markup it does not know, and on a second copy of an element that MITRE's schema allows only once. Every element the schema lets repeat is rendered in full. Output is byte-for-byte reproducible.
+
+The data is reproduced as MITRE published it, upstream errors included. For example, in 4.21 and 5.0, CWE-1475's observed-example row labelled CVE-2025-50328 links to CVE-2026-58052, as it does in MITRE's XML.
 
 What is left out:
 
-- MITRE's content history (who submitted or modified each entry, and when), because CSA work does not write about specific people. Each page's footer says so.
+- MITRE's content history (the submission and modification records for each entry). It is editorial history, not weakness content, so the markdown omits it; each page's footer says so. MITRE's XML and the mirrored per-view JSON keep it as MITRE publishes it (Kurt, 2026-11-18: *"we treat mitre like the gov, we republish their data, it's fine."*). Citations under References keep their authors' names.
 - Relationships that MITRE's website derives in reverse (a weakness's children, and the categories and views that list it). The view and category/grouping pages hold them.
+
+## Adding a new CWE release
+
+1. Download MITRE's `cwec_v<v>.xml.zip` (`https://cwe.mitre.org/data/xml/cwec_v<v>.xml.zip`) into a new edition directory `weakness/mitre.org/cwe/<v>/`.
+2. Write its sidecar `cwec_v<v>.xml.zip-file-metadata.json` with the zip's `sha256`, `retrieved_from` and `retrieved_at` (copy the shape of another edition's sidecar).
+3. Copy `LICENSE.txt` from the previous edition after confirming MITRE's [Terms of Use](https://cwe.mitre.org/about/termsofuse.html) have not changed; if they have, take the new text.
+4. Write `cwe-<v>-metadata.json` from the previous edition's, with this edition's facts measured from its XML and `access_tier` with `tier_evidence`.
+5. Set the previous edition's `lifecycle.supersededBy` to `<v>`.
+6. Run `python3 weakness/mitre.org/cwe/scripts/cwe_to_markdown.py --version <v>`, then the same with `--check`.
+7. Add the edition's catalog counts to `EXPECTED` in `scripts/tests/cwe_test_editions.py`, then run the tests (`python3 -m unittest discover -s weakness/mitre.org/cwe/scripts/tests -v`).
+8. Upload the zip to S3: `tools-resources/utils/sync_originals_to_s3.sh --dry-run`, then without `--dry-run`.
+9. Add the edition to the table under Markdown above.
+10. Regenerate `INDEX.md`: `python3 tools-resources/utils/build_index.py`.
 
 ## Key CWE Views
 
-- **CWE-1000**: Research Concepts View
+- **CWE-1000**: Research Concepts in 4.19.1 and 4.20; Complete Weakness Hierarchy in 4.21 and 5.0
 - **CWE-699**: Software Development View  
 - **CWE-1194**: Hardware Design View
 - **CWE-1350**: Weaknesses in the 2023 CWE Top 25
