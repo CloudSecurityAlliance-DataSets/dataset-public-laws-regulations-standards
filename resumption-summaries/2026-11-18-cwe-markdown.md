@@ -61,3 +61,15 @@ Kurt's asks, verbatim, in order:
 **Not on GitHub:** the session transcript and the per-task subagent ledger (git-ignored scratch); the task and fix reports were copied into `plans/reviews/2026-11-18-cwe-markdown/` with local paths scrubbed. The XML zips are in S3, not git.
 
 **Confidence level:** High for the generated output (byte-reproducible, all relative links resolve, every task independently reviewed, implicit views matched against an XPath engine). Medium for rendering on markdown engines other than GitHub's.
+
+## Update — 2026-11-19
+
+**Kurt, verbatim:** "lets default to mirroring data faithfully, so that means leaving names in." Asked whether that extends to the generated markdown, he chose "Include, at page end (Recommended)". On CWE-1475 he asked to see the original, noting the website does not show the link.
+
+**What changed:** #166. Every CWE markdown page (all four editions) now ends with MITRE's `Content History`. AGENTS.md records the rule with Kurt's words, and the AI's reading is labelled as such: mirrored copies keep names, and derived forms say what they leave out. The merged `cwe-<v>-all.*` files now state the 7 CSV columns they drop. The 2026-11-18 review brief's claim 9 is marked superseded. Evidence is in `plans/reviews/2026-11-19-cwe-content-history/`.
+
+**Closed:** whether to strip contributor names from the mirrored JSON. Kurt said to keep them.
+
+**CWE-1475 finding:** MITRE's page does carry the link. The row's visible text is CVE-2025-50328, but its `href` is CVE-2026-58052; the XML says the same (`cwec_v5.0.xml` lines 62236–62244). Shown to Kurt with links. Reporting it to MITRE is his call (offered).
+
+**Known gaps against the new default:** tracked in #165: merged files keep 16 of 23 columns, inactive views omit some sections, and the `scripts-extra` basic-data extract keeps only some fields.
