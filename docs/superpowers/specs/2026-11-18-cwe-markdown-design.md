@@ -1,7 +1,7 @@
 # CWE as Markdown, and CWE 5.0
 
-**Status:** Design, 2026-11-18. Approved by Kurt ("ok lets get datasets updated and that ai markdown stuff done asap"); source switched from CSV to XML by Kurt the same day (see Approaches).
-**Issue:** [#160](https://github.com/CloudSecurityAlliance-DataSets/dataset-public-laws-regulations-standards/issues/160)
+**Status:** Design, 2026-11-18. Approved by Kurt ("ok lets get datasets updated and that ai markdown stuff done asap"); source switched from CSV to XML by Kurt the same day (see Approaches). Updated 2026-11-19: content history is included (see Anti-goals and Entry pages).
+**Issue:** [#160](https://github.com/CloudSecurityAlliance-DataSets/dataset-public-laws-regulations-standards/issues/160); content history [#166](https://github.com/CloudSecurityAlliance-DataSets/dataset-public-laws-regulations-standards/issues/166)
 **Scope:** `weakness/mitre.org/cwe/` (new `5.0/`, `4.20/` and `4.21/` editions, new converter scripts, generated `markdown/` folders for 4.19.1, 4.20, 4.21 and 5.0, metadata and README updates)
 
 ## Why
@@ -43,7 +43,7 @@ The CWE data here today is CSV and JSON. The CSV packs most fields into ambiguou
 
 - **Silent loss.** No XHTML element, entry, view member or reference is dropped without the run failing or the page saying so.
 - **Lost attribution.** MITRE's terms allow copies "on the condition that you reproduce MITRE's copyright designation and this license".
-- **Content history in the pages.** MITRE's `Content_History` holds the submission and modification records for each entry. That is editorial history, not weakness content, so the markdown omits it and each page's footer says so. MITRE's XML and the mirrored per-view JSON keep it as MITRE publishes it, under Kurt's rule (2026-11-18): *"we treat mitre like the gov, we republish their data, it's fine."* Author names in References citations are kept (rulings during build, 2026-11-18, recorded on #160).
+- **Stripping or rewriting upstream content, people's names included.** MITRE's `Content_History` (the submission, contribution and modification records for each entry, and its previous names) is rendered on every entry page as its last section, names and organizations as MITRE publishes them. Kurt's decision, 2026-11-19 ([#166](https://github.com/CloudSecurityAlliance-DataSets/dataset-public-laws-regulations-standards/issues/166)): *"lets default to mirroring data faithfully, so that means leaving names in."* He then chose "Include, at page end (Recommended)". This superseded the first build's ruling (2026-11-18, recorded on #160), under which the markdown omitted content history as editorial history, not weakness content, and each page's footer said so; MITRE's XML and the mirrored per-view JSON kept it then as now, under Kurt's rule (2026-11-18): *"we treat mitre like the gov, we republish their data, it's fine."* Author names in References citations were kept from the start (rulings during build, 2026-11-18, recorded on #160).
 - **Non-reproducible output.** No timestamps, run dates, absolute local paths or unordered iteration in generated files.
 
 ## Approaches considered
@@ -105,15 +105,21 @@ upstream: "https://cwe.mitre.org/data/definitions/79.html"
 ---
 ```
 
-Weakness sections, in order, each left out when empty: Description, Extended Description, Alternate Terms, Related Weaknesses (table: nature, entry linked with its name, view, ordinal), Weakness Ordinalities, Applicable Platforms (table), Background Details, Modes Of Introduction, Exploitation Factors, Likelihood Of Exploit, Common Consequences (table), Detection Methods, Potential Mitigations, Demonstrative Examples, Observed Examples (table, CVE linked to cve.org), Functional Areas, Affected Resources, Dimensions (5.0), Technical Nuance (5.0), Taxonomy Mappings (table), Related Attack Patterns (CAPEC linked to capec.mitre.org), References, Mapping Notes, Notes. A weakness `@Diagram` becomes an image link to MITRE. Deprecated entries render whatever MITRE keeps for them (description, notes and any pointer to the replacement entry).
+Weakness sections, in order, each left out when empty: Description, Extended Description, Alternate Terms, Related Weaknesses (table: nature, entry linked with its name, view, ordinal), Weakness Ordinalities, Applicable Platforms (table), Background Details, Modes Of Introduction, Exploitation Factors, Likelihood Of Exploit, Common Consequences (table), Detection Methods, Potential Mitigations, Demonstrative Examples, Observed Examples (table, CVE linked to cve.org), Functional Areas, Affected Resources, Dimensions (5.0), Technical Nuance (5.0), Taxonomy Mappings (table), Related Attack Patterns (CAPEC linked to capec.mitre.org), References, Mapping Notes, Notes, Content History. A weakness `@Diagram` becomes an image link to MITRE. Deprecated entries render whatever MITRE keeps for them (description, notes and any pointer to the replacement entry).
 
-Category/grouping pages: Summary, Members (from `Relationships/Has_Member`, with the view each membership belongs to), Taxonomy Mappings, References, Mapping Notes, Notes.
+Category/grouping pages: Summary, Members (from `Relationships/Has_Member`, with the view each membership belongs to), Taxonomy Mappings, References, Mapping Notes, Notes, Content History.
+
+Content History (2026-11-19, #166) is the last section of every weakness, category/grouping and view page, directly above the footer (anchor `#content-history`). It renders MITRE's `Content_History` as published:
+
+- One table of events, kinds in the order MITRE's own pages list them (submissions, then contributions, then modifications), each kind in MITRE's document order. Columns: Event (`Submission`, `Contribution (<Type>)`, `Modification`), Date, Name, Organization, Release (`CWE <version>, <release date>`), Importance, Comment. Schema 8 lets `Submission_Name` and `Contribution_Name` repeat (and 5.0's CWE-1461 has two `Submission`s): every name and every event is rendered, repeated names one per line in the cell. Cells are escaped as in every other table, and a comment's line breaks (XML pretty-printing) collapse to spaces. As in every table, a column empty in every row of the page is left out.
+- Then **Previous Entry Names:** as a list, `<name> — <date>` (the date MITRE stopped using the name), with `, CWE <version>` where MITRE gives one.
+- An unknown element or attribute anywhere in `Content_History`, markup inside a value, or a repeat of a field the schema allows once (every field except the two names) fails the run.
 
 Footer on every page:
 
 ```markdown
 ---
-Generated from MITRE's CWE <ver> XML (cwec_v<ver>.xml) by weakness/mitre.org/cwe/scripts/cwe_to_markdown.py. Content history is omitted.
+Generated from MITRE's CWE <ver> XML (cwec_v<ver>.xml) by weakness/mitre.org/cwe/scripts/cwe_to_markdown.py.
 Copyright © The MITRE Corporation. CWE™ is a trademark of The MITRE Corporation.
 Used under the CWE Terms of Use: https://cwe.mitre.org/about/termsofuse.html (full text: <absolute GitHub URL of this edition's LICENSE.txt>).
 ```
@@ -131,7 +137,8 @@ Each opens with the view's name, type, status, objective, audience and member co
 - **Graph views** (39 in 5.0, e.g. 1000, 699, 1194, the Top 25 lists): a nested outline. Roots are the view's `Members/Has_Member`. A category's or grouping's children are its `Has_Member` entries with that `@View_ID`; a weakness's children are the weaknesses with a `ChildOf` to it with that `@View_ID`. Each entry is expanded once, under its `Primary` parent in that view (else its lowest-ID parent); any other parent lists it as a one-line cross-reference. Cycles are guarded. The script asserts every entry reachable in the view is expanded exactly once. Entries that have a parent in the view but that no root reaches are listed at the end of the page under "Not reachable from this view's roots", each with its parent (ruling during build, 2026-11-18). In 4.21 and 5.0, view 1000 has two: CWE-378 and CWE-379, whose only parent there is deprecated CWE-377.
 - **Explicit views** (6): a flat list of members.
 - **Implicit views** (17): the view's XPath `Filter` shown as code, then the members it selects. The script holds an exact predicate for each of the 15 active filter strings (e.g. `[./Applicable_Platforms/Language/@Name='C']`, `[@Status='Deprecated']`); an unknown filter string gets the filter only, a stated "members not computed", and a warning in the run output.
-- Obsolete and deprecated views render their description and status only.
+- Obsolete and deprecated views render their objective, status and content history only, with a note naming any sections not rendered.
+- Every view page ends with Content History (see Entry pages).
 
 Each line in an outline: `[CWE-79](../weaknesses/CWE-79.md) Name (Base)`.
 

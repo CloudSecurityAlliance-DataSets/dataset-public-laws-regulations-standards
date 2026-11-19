@@ -11,9 +11,12 @@ edition's), ``weaknesses/CWE-<id>.md``, ``categories/`` (schema 7) or ``grouping
 memory and exits 1, listing every file that differs, is missing or is extra.
 
 Layout and wording follow docs/superpowers/specs/2026-11-18-cwe-markdown-design.md.
-MITRE's Content_History (people's names) is never read. An element or attribute this
-script does not know, or a repeat of an element the schema allows once, fails the run with
-the CWE ID, so nothing is dropped silently; every repeatable element is rendered in full.
+MITRE's Content_History (submissions, contributions, modifications and previous entry
+names, with the people and organizations MITRE records) is rendered in full as the last
+section of every entry page, as MITRE publishes it (AGENTS.md, "Mirror faithfully"; #166).
+An element or attribute this script does not know, or a repeat of an element the schema
+allows once, fails the run with the CWE ID, so nothing is dropped silently; every
+repeatable element is rendered in full.
 Output is UTF-8 with LF line endings, has no timestamps or local paths, and lists files
 in numeric ID order. Python 3.10+ standard library only.
 """
@@ -243,8 +246,7 @@ def footer(ed: Edition) -> str:
     v = ed.version
     return (
         "---\n"
-        f"Generated from MITRE's CWE {v} XML (cwec_v{v}.xml) by {SCRIPT_REL}. "
-        "Content history is omitted.\n"
+        f"Generated from MITRE's CWE {v} XML (cwec_v{v}.xml) by {SCRIPT_REL}.\n"
         f"{ATTRIBUTION}\n"
         f"Used under the CWE Terms of Use: {TERMS_URL} "
         f"(full text: {LICENSE_BASE}/{v}/LICENSE.txt).\n"
@@ -430,6 +432,66 @@ def _notes(notes: Element | None, ctx: str) -> str:
             label += f" ({_esc(stamp)})"
         items.append(_item(label + ":", _md(n, ctx)))
     return "\n\n".join(items)
+
+
+# Content_History event kinds in the order MITRE's own pages list them, and the
+# <Kind>_<Field> children each may hold. Schema 8 lets Submission_Name and
+# Contribution_Name repeat; every other field occurs at most once.
+HISTORY_EVENTS = (
+    ("Submission", ("Name", "Organization", "Date", "Version", "ReleaseDate", "Comment")),
+    ("Contribution", ("Name", "Organization", "Date", "Version", "ReleaseDate", "Comment")),
+    ("Modification", ("Name", "Organization", "Date", "Version", "ReleaseDate", "Importance",
+                      "Comment")),
+)
+HISTORY_REPEATED_NAMES = ("Submission", "Contribution")
+
+
+def _history_row(ev: Element, kind: str, fields: tuple[str, ...], ctx: str) -> list[str]:
+    """One Submission, Contribution or Modification as a table row."""
+    _check(ev, ctx, kids=tuple(f"{kind}_{f}" for f in fields),
+           attrs=("Type",) if kind == "Contribution" else ())
+
+    def one(field: str) -> str:
+        return _esc(_leaf(_one(ev, f"{kind}_{field}", ctx), ctx))
+
+    if kind in HISTORY_REPEATED_NAMES:
+        names = [_esc(x) for x in _leaves(ev, f"{kind}_Name", ctx)]
+    else:
+        names = [one("Name")]
+    event = kind + (f" ({_esc(ev.get('Type'))})" if ev.get("Type") else "")
+    version = one("Version")
+    release = ", ".join(x for x in (f"CWE {version}" if version else "", one("ReleaseDate")) if x)
+    return [event, one("Date"), "<br>".join(x for x in names if x), one("Organization"),
+            release, one("Importance"), one("Comment")]
+
+
+def _content_history(ch: Element | None, ctx: str) -> str:
+    """MITRE's Content_History as published: one table of submissions, contributions and
+    modifications (each kind in document order), then the entry's previous names."""
+    if ch is None:
+        return ""
+    c = f"{ctx}/Content_History"
+    _check(ch, c, kids=("Submission", "Modification", "Contribution", "Previous_Entry_Name"))
+    rows = [_history_row(ev, kind, fields, f"{c}/{kind}[{n}]")
+            for kind, fields in HISTORY_EVENTS
+            for n, ev in enumerate(children(ch, kind), 1)]
+    items = []
+    for n, p in enumerate(children(ch, "Previous_Entry_Name"), 1):
+        pc = f"{c}/Previous_Entry_Name[{n}]"
+        _check(p, pc, attrs=("Date", "Version"))
+        if len(p):
+            raise UnexpectedMarkupError(f"{pc}: unexpected markup")
+        item = f"- {_esc(p.text or '')} — {_esc(p.get('Date') or '')}"
+        if p.get("Version"):
+            item += f", CWE {_esc(p.get('Version'))}"
+        items.append(item)
+    blocks = []
+    if rows:
+        blocks.append(_table(
+            ["Event", "Date", "Name", "Organization", "Release", "Importance", "Comment"], rows))
+    if items:
+        blocks.append(_labelled("Previous Entry Names", "\n".join(items)))
+    return "\n\n".join(blocks)
 
 
 # ------------------------------------------------------- weakness sections
@@ -735,6 +797,7 @@ def render_weakness(ed: Edition, elem: Element) -> str:
         ("References", _references(ed, get("References"), ctx)),
         ("Mapping Notes", _mapping_notes(ed, get("Mapping_Notes"), ctx)),
         ("Notes", _notes(get("Notes"), ctx)),
+        ("Content History", _content_history(get("Content_History"), ctx)),
     ]
     title = f"CWE-{i}: {_esc(elem.get('Name') or '')}"
     return _page(ed, _front_matter(ed, elem, "weakness"), title, sections)
@@ -767,6 +830,7 @@ def render_group(ed: Edition, elem: Element) -> str:
         ("References", _references(ed, _one(elem, "References", ctx), ctx)),
         ("Mapping Notes", _mapping_notes(ed, _one(elem, "Mapping_Notes", ctx), ctx)),
         ("Notes", _notes(_one(elem, "Notes", ctx), ctx)),
+        ("Content History", _content_history(_one(elem, "Content_History", ctx), ctx)),
     ]
     title = f"CWE-{i}: {_esc(elem.get('Name') or '')}"
     return _page(ed, _front_matter(ed, elem, ed.group_term.lower()), title, sections)
@@ -861,6 +925,7 @@ def render_view(ed: Edition, elem: Element) -> str:
     front = _front_matter(ed, elem, "view")
     objective = _md(_one(elem, "Objective", ctx), ctx)
     head = [f"**View type:** {_esc(vtype)}", f"**Status:** {_esc(status)}"]
+    history = ("Content History", _content_history(_one(elem, "Content_History", ctx), ctx))
 
     if status in INACTIVE:
         omitted = [label for name, label in (
@@ -870,10 +935,11 @@ def render_view(ed: Edition, elem: Element) -> str:
         note = _banner(elem, "view")
         if omitted:
             listed = omitted[0] if len(omitted) == 1 else ", ".join(omitted[:-1]) + " and " + omitted[-1]
-            note += (f"\n>\n> Only the objective and status of an obsolete or deprecated view are "
-                     f"rendered here. Not rendered from MITRE's XML for this view: {listed}. "
-                     f"MITRE's page: <{DEFINITION_URL.format(i)}>")
-        return _page(ed, front, title, [(None, SEP.join(head)), (None, note), ("Objective", objective)])
+            note += (f"\n>\n> Only the objective, status and content history of an obsolete or "
+                     f"deprecated view are rendered here. Not rendered from MITRE's XML for this "
+                     f"view: {listed}. MITRE's page: <{DEFINITION_URL.format(i)}>")
+        return _page(ed, front, title,
+                     [(None, SEP.join(head)), (None, note), ("Objective", objective), history])
 
     members_md, extra = "", []
     filter_md = ""
@@ -927,6 +993,7 @@ def render_view(ed: Edition, elem: Element) -> str:
         ("References", _references(ed, _one(elem, "References", ctx), ctx)),
         ("Mapping Notes", _mapping_notes(ed, _one(elem, "Mapping_Notes", ctx), ctx)),
         ("Notes", _notes(_one(elem, "Notes", ctx), ctx)),
+        history,
     ]
     return _page(ed, front, title, sections)
 
@@ -960,7 +1027,6 @@ def render_index(ed: Edition) -> str:
         f"SHA-256 `{ed.sha256}`",
         f"- **Licence:** CWE Terms of Use, <{TERMS_URL}>; full text in [LICENSE.txt](LICENSE.txt)",
         f"- **Attribution:** {ATTRIBUTION}",
-        "- **Omitted:** MITRE's content history (who submitted or modified each entry, and when)",
         f"- **Upstream pages:** <https://cwe.mitre.org/data/definitions/> (MITRE's site shows the "
         f"latest CWE version, which may differ from {v})",
     ])

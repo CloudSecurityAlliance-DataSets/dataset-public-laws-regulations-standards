@@ -35,8 +35,9 @@ SECTION_ORDER = [
     "Common Consequences", "Detection Methods", "Potential Mitigations",
     "Demonstrative Examples", "Observed Examples", "Functional Areas",
     "Affected Resources", "Dimensions", "Technical Nuance", "Taxonomy Mappings",
-    "Related Attack Patterns", "References", "Mapping Notes", "Notes",
+    "Related Attack Patterns", "References", "Mapping Notes", "Notes", "Content History",
 ]
+HISTORY_KINDS = ("Submission", "Contribution", "Modification")
 
 class _ByEdition(dict):
     """Loaded editions (ED) or their rendered files (FILES). Reading an edition whose
@@ -62,7 +63,7 @@ def footer(v):
     return (
         "---\n"
         f"Generated from MITRE's CWE {v} XML (cwec_v{v}.xml) by "
-        "weakness/mitre.org/cwe/scripts/cwe_to_markdown.py. Content history is omitted.\n"
+        "weakness/mitre.org/cwe/scripts/cwe_to_markdown.py.\n"
         "Copyright © The MITRE Corporation. CWE™ is a trademark of The MITRE Corporation.\n"
         "Used under the CWE Terms of Use: https://cwe.mitre.org/about/termsofuse.html "
         f"(full text: {LICENSE_URL.format(v=v)}).\n"
@@ -105,6 +106,26 @@ def strip_code(page):
         if fence is None:
             keep.append(line)
     return re.sub(r"(`+)(?!`).*?(?<!`)\1(?!`)", "", "\n".join(keep))
+
+
+def history_section(page):
+    """The body of the page's '## Content History' section, footer excluded."""
+    return dict(h2_sections(page.split("\n---\nGenerated from")[0]))["Content History"]
+
+
+def history_rows(section):
+    """The Content History table as [{column: cell}], in page order."""
+    lines = [ln for ln in section.split("\n") if ln.startswith("| ")]
+    split = lambda ln: [c.strip() for c in re.split(r"(?<!\\)\|", ln)[1:-1]]  # noqa: E731
+    header = split(lines[0])
+    return [dict(zip(header, split(ln))) for ln in lines[2:]]
+
+
+def history_events(elem):
+    """The Submission, Contribution and Modification elements of an entry's
+    Content_History, in the page's order (by kind, then MITRE's document order)."""
+    ch = cx.child(elem, "Content_History")
+    return [e for kind in HISTORY_KINDS for e in cx.children(ch, kind)]
 
 
 class PageTests(unittest.TestCase):
@@ -268,32 +289,6 @@ class PageTests(unittest.TestCase):
         self.assertIn("](LICENSE.txt)", page)
         self.assertIn("Copyright © The MITRE Corporation", page.split("\n---\nGenerated")[0])
 
-    def test_content_history_has_no_effect(self):
-        ed = ED["5.0"]
-        ids = sorted(ed.weaknesses)
-        picks = sorted({79, 89, 1426, 1039, 1024, 377, *ids[::50]})
-        self.assertGreaterEqual(len(picks), 20)
-        for i in picks:
-            w = ed.weaknesses[i]
-            stripped = copy.deepcopy(w)
-            history = [c for c in stripped if cx.local(c.tag) == "Content_History"]
-            self.assertTrue(history, f"CWE-{i} has no Content_History to remove")
-            for c in history:
-                stripped.remove(c)
-            self.assertEqual(ctm.render_weakness(ed, w), ctm.render_weakness(ed, stripped), i)
-        for table, render in ((ed.groups, ctm.render_group), (ed.views, ctm.render_view)):
-            for i in sorted(table)[:5]:
-                stripped = copy.deepcopy(table[i])
-                for c in [c for c in stripped if cx.local(c.tag) == "Content_History"]:
-                    stripped.remove(c)
-                self.assertEqual(render(ed, table[i]), render(ed, stripped), i)
-        for v in VERSIONS:
-            with self.subTest(edition=v):
-                for path, page in FILES[v].items():
-                    self.assertIsNone(
-                        re.search(r"^#+\s*Content[ _]History", page, re.M | re.I), f"{v} {path}"
-                    )
-
     def test_deterministic(self):
         self.assertEqual(ctm.render_edition(ED["5.0"]), FILES["5.0"])
 
@@ -419,10 +414,12 @@ class ContentTests(unittest.TestCase):
             for i in (629, 679, 999, 630):
                 page = ctm.render_view(ED["5.0"], ED["5.0"].views[i])
                 headings = [h for h, _ in h2_sections(page)]
-                self.assertEqual(headings, ["Objective"], (i, headings))
+                self.assertEqual(headings, ["Objective", "Content History"], (i, headings))
                 self.assertNotIn("not computed", page)
         self.assertEqual(err.getvalue(), "")
-        self.assertIn("members", FILES["5.0"]["views/CWE-629.md"].split("## Objective")[0])
+        note = FILES["5.0"]["views/CWE-629.md"].split("## Objective")[0]
+        self.assertIn("members", note)
+        self.assertIn("Only the objective, status and content history of an obsolete", note)
 
     def test_unknown_filter_on_active_view_says_not_computed(self):
         ed = ED["5.0"]
@@ -511,6 +508,214 @@ class ContentTests(unittest.TestCase):
         ET.SubElement(mit, ns + "Cost").text = "x"
         with self.assertRaisesRegex(ctm.UnexpectedMarkupError, r"CWE-79.*Cost"):
             ctm.render_weakness(ed, w)
+
+
+def _entries(ed):
+    """(folder, CWE ID, element) for every weakness, category/grouping and view."""
+    for table, folder in ((ed.weaknesses, "weaknesses"), (ed.groups, ed.group_dir),
+                          (ed.views, "views")):
+        for i, e in sorted(table.items()):
+            yield folder, i, e
+
+
+class ContentHistoryTests(unittest.TestCase):
+    """MITRE's Content_History, rendered as the last section of every entry page
+    (Kurt, 2026-11-19: "lets default to mirroring data faithfully")."""
+
+    def test_cwe79_history_is_last_section(self):
+        for v in VERSIONS:
+            with self.subTest(edition=v):
+                ch = cx.child(ED[v].weaknesses[79], "Content_History")
+                page = FILES[v]["weaknesses/CWE-79.md"]
+                headings = [h for h, _ in h2_sections(page)]
+                self.assertEqual(headings[-1], "Content History", f"{v}: {headings}")
+                self.assertEqual(headings.count("Content History"), 1, headings)
+                tail = page.split("\n## Content History\n", 1)[1]
+                self.assertTrue(tail.endswith("\n\n" + footer(v)), f"{v}: not directly above the footer")
+                section = history_section(page)
+                subs = cx.children(ch, "Submission")
+                names = [x for s in subs for x in cx.children(s, "Submission_Name")]
+                orgs = [x for s in subs for x in cx.children(s, "Submission_Organization")]
+                self.assertTrue(names, f"{v}: CWE-79 has no Submission_Name to look for")
+                for x in names + orgs:
+                    self.assertIn(ctm._esc(cx.text(x)), section, f"{v}: {cx.local(x.tag)}")
+                mods = cx.children(ch, "Modification")
+                self.assertGreater(len(mods), 10, v)
+                rows = history_rows(section)
+                self.assertEqual(
+                    [r["Date"] for r in rows if r["Event"] == "Modification"],
+                    [cx.text(cx.child(m, "Modification_Date")) for m in mods],
+                    v,
+                )
+
+    def test_every_entry_page_ends_with_history(self):
+        for v in VERSIONS:
+            with self.subTest(edition=v):
+                n = {}
+                for folder, i, e in _entries(ED[v]):
+                    ch = cx.child(e, "Content_History")
+                    headings = [h for h, _ in h2_sections(FILES[v][f"{folder}/CWE-{i}.md"])]
+                    if ch is not None and len(ch):
+                        self.assertEqual(headings[-1:], ["Content History"], f"{v} {folder}/CWE-{i}")
+                        n[folder] = n.get(folder, 0) + 1
+                    else:
+                        self.assertNotIn("Content History", headings, f"{v} {folder}/CWE-{i}")
+                self.assertEqual(set(n), {"weaknesses", ED[v].group_dir, "views"}, n)
+        self.assertIn("\n## Content History\n", FILES["4.19.1"]["categories/CWE-1210.md"])
+        self.assertIn("\n## Content History\n", FILES["5.0"]["groupings/CWE-1210.md"])
+        self.assertIn("\n## Content History\n", FILES["5.0"]["views/CWE-1000.md"])
+
+    def test_every_history_value_in_its_row(self):
+        for v in VERSIONS:
+            with self.subTest(edition=v):
+                n = 0
+                for folder, i, e in _entries(ED[v]):
+                    events = history_events(e)
+                    if not events:
+                        continue
+                    where = f"{v} {folder}/CWE-{i}"
+                    rows = history_rows(history_section(FILES[v][f"{folder}/CWE-{i}.md"]))
+                    self.assertEqual(len(rows), len(events), where)
+                    for ev, row in zip(events, rows):
+                        kind = cx.local(ev.tag)
+                        label = f"Contribution ({ev.get('Type')})" if kind == "Contribution" else kind
+                        self.assertEqual(row["Event"], label, where)
+                        self.assertEqual(row["Date"], cx.text(cx.child(ev, f"{kind}_Date")), where)
+                        line = " | ".join(row.values())
+                        for leaf in ev:
+                            self.assertIn(ctm._esc(leaf.text or ""), line, f"{where} {cx.local(leaf.tag)}")
+                        n += 1
+                self.assertGreater(n, 16000, v)
+
+    def test_previous_entry_names(self):
+        for v in VERSIONS:
+            with self.subTest(edition=v):
+                n = versioned = 0
+                for folder, i, e in _entries(ED[v]):
+                    prev = cx.children(cx.child(e, "Content_History"), "Previous_Entry_Name")
+                    if not prev:
+                        continue
+                    section = history_section(FILES[v][f"{folder}/CWE-{i}.md"])
+                    self.assertIn("**Previous Entry Names:**", section)
+                    items = [ln for ln in section.split("\n") if ln.startswith("- ")]
+                    expect = []
+                    for p in prev:
+                        item = f"- {ctm._esc(p.text or '')} — {p.get('Date')}"
+                        if p.get("Version"):
+                            item += f", CWE {p.get('Version')}"
+                            versioned += 1
+                        expect.append(item)
+                    self.assertEqual(items, expect, f"{v} CWE-{i}")
+                    n += len(prev)
+                self.assertGreater(n, 900, v)
+                self.assertEqual(versioned, 4, v)
+        section = history_section(FILES["5.0"]["weaknesses/CWE-113.md"])
+        self.assertIn("- HTTP Response Splitting — 2008-04-11, CWE Draft 9\n", section)
+
+    def test_two_submissions_both_shown(self):
+        ed = ED["5.0"]
+        found = [(folder, i, e) for folder, i, e in _entries(ed)
+                 if len(cx.children(cx.child(e, "Content_History"), "Submission")) > 1]
+        self.assertEqual([i for _, i, _ in found], [1461])
+        folder, i, e = found[0]
+        subs = cx.children(cx.child(e, "Content_History"), "Submission")
+        self.assertEqual(len(subs), 2)
+        rows = [r for r in history_rows(history_section(FILES["5.0"][f"{folder}/CWE-{i}.md"]))
+                if r["Event"] == "Submission"]
+        self.assertEqual(len(rows), 2)
+        for s, row in zip(subs, rows):
+            self.assertEqual(row["Name"], "<br>".join(
+                ctm._esc(cx.text(x)) for x in cx.children(s, "Submission_Name")))
+            self.assertEqual(row["Organization"], ctm._esc(cx.text(cx.child(s, "Submission_Organization"))))
+            self.assertEqual(row["Date"], cx.text(cx.child(s, "Submission_Date")))
+        self.assertNotEqual(rows[0]["Name"], rows[1]["Name"])
+        for v in VERSIONS:
+            if v != "5.0":
+                with self.subTest(edition=v):
+                    for folder, i, e in _entries(ED[v]):
+                        self.assertEqual(len(cx.children(cx.child(e, "Content_History"), "Submission")), 1)
+
+    def test_repeated_names_all_shown(self):
+        # Schema 8 lets Submission_Name and Contribution_Name repeat.
+        multi = []
+        for folder, i, e in _entries(ED["5.0"]):
+            for ev in history_events(e):
+                names = cx.children(ev, cx.local(ev.tag) + "_Name")
+                if len(names) > 1:
+                    multi.append((folder, i, ev, names))
+        self.assertEqual({cx.local(ev.tag) for _, _, ev, _ in multi}, {"Submission", "Contribution"})
+        for folder, i, ev, names in multi:
+            rows = history_rows(history_section(FILES["5.0"][f"{folder}/CWE-{i}.md"]))
+            want = "<br>".join(ctm._esc(cx.text(x)) for x in names)
+            self.assertIn(want, [r["Name"] for r in rows], f"CWE-{i}")
+
+    def test_multiline_comment_collapses_into_one_cell(self):
+        section = history_section(FILES["5.0"]["weaknesses/CWE-1461.md"])
+        self.assertIn(
+            "| Participated in a series of meetings betwee March 2026 and September 26, in which "
+            "members contributed significant feedback related to this entry as it evolved before "
+            "publication in CWE 5.0. |",
+            section,
+        )
+
+    def test_history_cells_escaped(self):
+        ed = ED["5.0"]
+        w = copy.deepcopy(ed.weaknesses[79])
+        mod = cx.child(cx.child(w, "Content_History"), "Modification")
+        cx.child(mod, "Modification_Comment").text = "a | b *c*\n\t\tnext <tag>"
+        rows = history_rows(history_section(ctm.render_weakness(ed, w)))
+        self.assertEqual(len(rows), len(history_events(w)))
+        first = next(r for r in rows if r["Event"] == "Modification")
+        self.assertEqual(first["Comment"], "a \\| b \\*c\\* next &lt;tag>")
+
+    def test_no_page_says_history_omitted(self):
+        for v in VERSIONS:
+            with self.subTest(edition=v):
+                for path, page in FILES[v].items():
+                    found = re.search(r"(?i)content history is omitted|\*\*Omitted:\*\*", page)
+                    self.assertIsNone(found, f"{v} {path}")
+
+    def test_unknown_or_repeated_history_markup_fails(self):
+        ed = ED["5.0"]
+        ns = ed.weaknesses[79].tag[: ed.weaknesses[79].tag.index("}") + 1]
+
+        def history(elem):
+            return cx.child(elem, "Content_History")
+
+        def fails(pattern, mutate, render=ctm.render_weakness, elem=ed.weaknesses[79]):
+            e = copy.deepcopy(elem)
+            mutate(e)
+            with self.assertRaisesRegex(ctm.UnexpectedMarkupError, pattern):
+                render(ed, e)
+
+        fails(r"CWE-79.*Content_History.*<Review>",
+              lambda e: ET.SubElement(history(e), ns + "Review"))
+        fails(r"CWE-79.*<Modification_Reviewer>",
+              lambda e: ET.SubElement(cx.child(history(e), "Modification"), ns + "Modification_Reviewer"))
+        fails(r"CWE-79.*Status=",
+              lambda e: cx.child(history(e), "Submission").set("Status", "x"))
+        fails(r"CWE-79.*Reason=",
+              lambda e: cx.child(history(e), "Previous_Entry_Name").set("Reason", "x"))
+        fails(r"CWE-79.*Previous_Entry_Name.*markup",
+              lambda e: ET.SubElement(cx.child(history(e), "Previous_Entry_Name"),
+                                      "{http://www.w3.org/1999/xhtml}b"))
+        fails(r"CWE-79.*Modification_Comment.*attributes",
+              lambda e: cx.child(cx.child(history(e), "Modification"), "Modification_Comment").set("x", "y"))
+        fails(r"CWE-79.*<Modification_Date> appears 2 times",
+              lambda e: ET.SubElement(cx.child(history(e), "Modification"), ns + "Modification_Date"))
+        fails(r"CWE-79.*<Submission_Organization> appears 2 times",  # CWE-79 has none; add two
+              lambda e: [ET.SubElement(cx.child(history(e), "Submission"), ns + "Submission_Organization")
+                         for _ in range(2)])
+        fails(r"CWE-79.*<Modification_Name> appears 2 times",
+              lambda e: ET.SubElement(cx.child(history(e), "Modification"), ns + "Modification_Name"))
+        fails(r"CWE-79.*<Content_History> appears 2 times",
+              lambda e: e.append(copy.deepcopy(history(e))))
+        fails(r"CWE-1210.*<Review>", lambda e: ET.SubElement(history(e), ns + "Review"),
+              ctm.render_group, ed.groups[1210])
+        fails(r"CWE-1000.*<Review>", lambda e: ET.SubElement(history(e), ns + "Review"),
+              ctm.render_view, ed.views[1000])
+        fails(r"CWE-629.*<Review>", lambda e: ET.SubElement(history(e), ns + "Review"),
+              ctm.render_view, ed.views[629])
 
 
 if __name__ == "__main__":
