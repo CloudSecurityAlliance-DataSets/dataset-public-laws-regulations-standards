@@ -154,6 +154,12 @@ On 2026-11-09, Kurt Seifried established the general 4-tier rule governing what 
 
 **History.** PCI DSS (v3.2.1, v4.0, v4.0.1), HITRUST CSF v11.3.0, AICPA TSC 2017 and CIS Controls v8 were committed here in full from the repository's first commit (2026-05-12) until 2026-11-13. On that date Kurt chose the option "Move all four (Recommended)", and they were moved to the private dataset ([#148](https://github.com/CloudSecurityAlliance-DataSets/dataset-public-laws-regulations-standards/issues/148)). They remain in git history; purging that history is a separate, pending decision.
 
+### Mirror faithfully (2026-11-19)
+
+Kurt, 2026-11-19: *"lets default to mirroring data faithfully, so that means leaving names in."*
+
+The AI's reading, recorded 2026-11-19: by default, mirrored copies keep upstream content as the publisher published it, including people's names in upstream records (for example, MITRE CWE's content history of who submitted, contributed to or modified each entry; [#166](https://github.com/CloudSecurityAlliance-DataSets/dataset-public-laws-regulations-standards/issues/166)), and are not stripped or rewritten. A derived form (generated markdown, merged CSV/JSON) may select or reformat fields, but it says what it leaves out and never alters or drops a value it carries. Known gaps against this default are tracked in [#165](https://github.com/CloudSecurityAlliance-DataSets/dataset-public-laws-regulations-standards/issues/165). Exceptions are Kurt's to record. This rule covers what a hosted source keeps; whether a source may be hosted here at all is the 4-tier rule above.
+
 ### Namespaces are **DNS domain names of the publishing organization**
 
 The SecID spec ([SPEC.md §1.2](https://github.com/CloudSecurityAlliance/SecID/blob/main/SPEC.md)) requires the namespace to be the publishing org's domain name. In practice this means:

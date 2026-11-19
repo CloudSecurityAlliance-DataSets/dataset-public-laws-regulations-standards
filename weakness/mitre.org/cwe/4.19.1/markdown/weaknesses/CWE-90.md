@@ -115,7 +115,47 @@ Because the code fails to neutralize the address string used to construct the qu
 
 - **Relationship**: Factors: resultant to special character mismanagement, MAID, or denylist/allowlist problems. Can be primary to authentication and verification errors.
 
+## Content History
+
+| Event | Date | Name | Organization | Release | Comment |
+| --- | --- | --- | --- | --- | --- |
+| Submission | 2006-07-19 | PLOVER |  | CWE Draft 3, 2006-07-19 |  |
+| Modification | 2008-07-01 | Sean Eidemiller | Cigital |  | added/updated demonstrative examples |
+| Modification | 2008-07-01 | Eric Dalci | Cigital |  | updated Time_of_Introduction |
+| Modification | 2008-09-08 | CWE Content Team | MITRE |  | updated Applicable_Platforms, Relationships, Other_Notes, Taxonomy_Mappings |
+| Modification | 2009-05-27 | CWE Content Team | MITRE |  | updated Name |
+| Modification | 2009-10-29 | CWE Content Team | MITRE |  | updated Other_Notes, Relationship_Notes |
+| Modification | 2010-02-16 | CWE Content Team | MITRE |  | updated Relationships, Taxonomy_Mappings |
+| Modification | 2010-06-21 | CWE Content Team | MITRE |  | updated Demonstrative_Examples, Description, Name, Potential_Mitigations, Relationships |
+| Modification | 2011-06-01 | CWE Content Team | MITRE |  | updated Common_Consequences |
+| Modification | 2012-05-11 | CWE Content Team | MITRE |  | updated Common_Consequences, Observed_Examples, Related_Attack_Patterns, Relationships |
+| Modification | 2012-10-30 | CWE Content Team | MITRE |  | updated Demonstrative_Examples, Potential_Mitigations |
+| Modification | 2014-06-23 | CWE Content Team | MITRE |  | updated Relationships |
+| Modification | 2014-07-30 | CWE Content Team | MITRE |  | updated Relationships, Taxonomy_Mappings |
+| Modification | 2015-12-07 | CWE Content Team | MITRE |  | updated Relationships |
+| Modification | 2017-11-08 | CWE Content Team | MITRE |  | updated Applicable_Platforms, Modes_of_Introduction, Relationships |
+| Modification | 2018-03-27 | CWE Content Team | MITRE |  | updated Relationships |
+| Modification | 2019-06-20 | CWE Content Team | MITRE |  | updated Relationships |
+| Modification | 2020-02-24 | CWE Content Team | MITRE |  | updated Potential_Mitigations, Relationships |
+| Modification | 2020-06-25 | CWE Content Team | MITRE |  | updated Potential_Mitigations, Relationship_Notes |
+| Modification | 2020-08-20 | CWE Content Team | MITRE |  | updated Relationships |
+| Modification | 2020-12-10 | CWE Content Team | MITRE |  | updated Relationships |
+| Modification | 2021-10-28 | CWE Content Team | MITRE |  | updated Relationships |
+| Modification | 2022-04-28 | CWE Content Team | MITRE |  | updated Research_Gaps |
+| Modification | 2022-10-13 | CWE Content Team | MITRE |  | updated Observed_Examples |
+| Modification | 2023-01-31 | CWE Content Team | MITRE |  | updated Description |
+| Modification | 2023-04-27 | CWE Content Team | MITRE |  | updated Detection_Factors, Relationships, Time_of_Introduction |
+| Modification | 2023-06-29 | CWE Content Team | MITRE |  | updated Mapping_Notes |
+| Modification | 2024-02-29 | CWE Content Team | MITRE | CWE 4.14, 2024-02-29 | updated Demonstrative_Examples |
+| Modification | 2025-12-11 | CWE Content Team | MITRE | CWE 4.19, 2025-12-11 | updated Relationships, Weakness_Ordinalities |
+
+**Previous Entry Names:**
+
+- LDAP Injection — 2008-04-11
+- Failure to Sanitize Data into LDAP Queries (aka 'LDAP Injection') — 2009-05-27
+- Failure to Sanitize Data into LDAP Queries ('LDAP Injection') — 2010-06-21
+
 ---
-Generated from MITRE's CWE 4.19.1 XML (cwec_v4.19.1.xml) by weakness/mitre.org/cwe/scripts/cwe_to_markdown.py. Content history is omitted.
+Generated from MITRE's CWE 4.19.1 XML (cwec_v4.19.1.xml) by weakness/mitre.org/cwe/scripts/cwe_to_markdown.py.
 Copyright © The MITRE Corporation. CWE™ is a trademark of The MITRE Corporation.
 Used under the CWE Terms of Use: https://cwe.mitre.org/about/termsofuse.html (full text: https://github.com/CloudSecurityAlliance-DataSets/dataset-public-laws-regulations-standards/blob/main/weakness/mitre.org/cwe/4.19.1/LICENSE.txt).

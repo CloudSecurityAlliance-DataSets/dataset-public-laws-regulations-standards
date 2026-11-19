@@ -85,7 +85,33 @@ The product contains protection mechanisms to restrict access to 'realdir/filena
 
 - **Theoretical**: This is a manipulation that uses an injection for one consequence (containment violation using relative path) to achieve a different consequence (equivalence by alternate name).
 
+## Content History
+
+| Event | Date | Name | Organization | Release | Comment |
+| --- | --- | --- | --- | --- | --- |
+| Submission | 2006-07-19 | PLOVER |  | CWE Draft 3, 2006-07-19 |  |
+| Modification | 2008-07-01 | Eric Dalci | Cigital |  | updated Time_of_Introduction |
+| Modification | 2008-09-08 | CWE Content Team | MITRE |  | updated Relationships, Other_Notes, Taxonomy_Mappings |
+| Modification | 2008-10-14 | CWE Content Team | MITRE |  | updated Description, Name, Observed_Examples, Other_Notes, Theoretical_Notes |
+| Modification | 2011-06-01 | CWE Content Team | MITRE |  | updated Common_Consequences |
+| Modification | 2012-05-11 | CWE Content Team | MITRE |  | updated Observed_Examples, Relationships |
+| Modification | 2012-10-30 | CWE Content Team | MITRE |  | updated Potential_Mitigations |
+| Modification | 2014-07-30 | CWE Content Team | MITRE |  | updated Relationships, Taxonomy_Mappings |
+| Modification | 2017-11-08 | CWE Content Team | MITRE |  | updated Applicable_Platforms |
+| Modification | 2020-02-24 | CWE Content Team | MITRE |  | updated Relationships |
+| Modification | 2020-06-25 | CWE Content Team | MITRE |  | updated Observed_Examples, Potential_Mitigations |
+| Modification | 2023-01-31 | CWE Content Team | MITRE |  | updated Description |
+| Modification | 2023-04-27 | CWE Content Team | MITRE |  | updated Relationships |
+| Modification | 2023-06-29 | CWE Content Team | MITRE |  | updated Mapping_Notes |
+| Modification | 2025-09-09 | CWE Content Team | MITRE | CWE 4.18, 2025-09-09 | updated Affected_Resources, Functional_Areas |
+| Modification | 2025-12-11 | CWE Content Team | MITRE | CWE 4.19, 2025-12-11 | updated Applicable_Platforms, Weakness_Ordinalities |
+
+**Previous Entry Names:**
+
+- Path Issue - dirname/fakechild/../realchild/filename — 2008-04-11
+- Path Equivalence: 'dirname/fakechild/../realchild/filename' — 2008-10-14
+
 ---
-Generated from MITRE's CWE 4.19.1 XML (cwec_v4.19.1.xml) by weakness/mitre.org/cwe/scripts/cwe_to_markdown.py. Content history is omitted.
+Generated from MITRE's CWE 4.19.1 XML (cwec_v4.19.1.xml) by weakness/mitre.org/cwe/scripts/cwe_to_markdown.py.
 Copyright © The MITRE Corporation. CWE™ is a trademark of The MITRE Corporation.
 Used under the CWE Terms of Use: https://cwe.mitre.org/about/termsofuse.html (full text: https://github.com/CloudSecurityAlliance-DataSets/dataset-public-laws-regulations-standards/blob/main/weakness/mitre.org/cwe/4.19.1/LICENSE.txt).

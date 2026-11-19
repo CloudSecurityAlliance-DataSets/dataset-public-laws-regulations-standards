@@ -629,7 +629,75 @@ From a weakness standpoint, these variants represent distinct programmer errors.
 
 - **Research Gap**: More investigation is needed into the distinction between the OS command injection variants, including the role with argument injection (CWE-88). Equivalent distinctions may exist in other injection-related problems such as SQL injection.
 
+## Content History
+
+| Event | Date | Name | Organization | Release | Comment |
+| --- | --- | --- | --- | --- | --- |
+| Submission | 2006-07-19 | PLOVER |  | CWE Draft 3, 2006-07-19 |  |
+| Contribution (Content) | 2024-02-29 | Abhi Balakrishnan |  | CWE 4.15, 2024-07-16 | Provided diagram to improve CWE usability |
+| Modification | 2008-07-01 | Sean Eidemiller | Cigital | CWE 1.0, 2008-09-09 | added/updated demonstrative examples |
+| Modification | 2008-07-01 | Eric Dalci | Cigital | CWE 1.0, 2008-09-09 | updated Time_of_Introduction |
+| Modification | 2008-08-01 |  | KDM Analytics | CWE 1.0, 2008-09-09 | added/updated white box definitions |
+| Modification | 2008-08-15 |  | Veracode | CWE 1.0, 2008-09-09 | Suggested OWASP Top Ten 2004 mapping |
+| Modification | 2008-09-08 | CWE Content Team | MITRE | CWE 1.0, 2008-09-09 | updated Relationships, Other_Notes, Taxonomy_Mappings |
+| Modification | 2008-10-14 | CWE Content Team | MITRE | CWE 1.0.1, 2008-10-14 | updated Description |
+| Modification | 2008-11-24 | CWE Content Team | MITRE | CWE 1.1, 2008-11-25 | updated Observed_Examples, Relationships, Taxonomy_Mappings |
+| Modification | 2009-01-12 | CWE Content Team | MITRE | CWE 1.2, 2009-01-12 | updated Common_Consequences, Demonstrative_Examples, Description, Likelihood_of_Exploit, Name, Observed_Examples, Other_Notes, Potential_Mitigations, Relationships, Research_Gaps, Terminology_Notes |
+| Modification | 2009-03-10 | CWE Content Team | MITRE | CWE 1.3, 2009-03-10 | updated Potential_Mitigations |
+| Modification | 2009-05-27 | CWE Content Team | MITRE | CWE 1.4, 2009-05-27 | updated Name, Related_Attack_Patterns |
+| Modification | 2009-07-17 | KDM Analytics |  | CWE 1.5, 2009-07-27 | Improved the White_Box_Definition |
+| Modification | 2009-07-27 | CWE Content Team | MITRE | CWE 1.5, 2009-07-27 | updated Description, Name, White_Box_Definitions |
+| Modification | 2009-10-29 | CWE Content Team | MITRE | CWE 1.6, 2009-10-29 | updated Observed_Examples, References |
+| Modification | 2009-12-28 | CWE Content Team | MITRE | CWE 1.7, 2009-12-28 | updated Detection_Factors |
+| Modification | 2010-02-16 | CWE Content Team | MITRE | CWE 1.8, 2010-02-16 | updated Detection_Factors, Potential_Mitigations, References, Relationships, Taxonomy_Mappings |
+| Modification | 2010-04-05 | CWE Content Team | MITRE | CWE 1.8.1, 2010-04-05 | updated Potential_Mitigations |
+| Modification | 2010-06-21 | CWE Content Team | MITRE | CWE 1.9, 2010-06-21 | updated Common_Consequences, Description, Detection_Factors, Name, Observed_Examples, Potential_Mitigations, References, Relationships |
+| Modification | 2010-09-27 | CWE Content Team | MITRE | CWE 1.10, 2010-09-27 | updated Potential_Mitigations |
+| Modification | 2010-12-13 | CWE Content Team | MITRE | CWE 1.11, 2010-12-13 | updated Description, Potential_Mitigations |
+| Modification | 2011-03-29 | CWE Content Team | MITRE | CWE 1.12, 2011-03-30 | updated Demonstrative_Examples, Description |
+| Modification | 2011-06-01 | CWE Content Team | MITRE | CWE 1.13, 2011-06-01 | updated Common_Consequences, Relationships, Taxonomy_Mappings |
+| Modification | 2011-06-27 | CWE Content Team | MITRE | CWE 2.0, 2011-06-27 | updated Relationships |
+| Modification | 2011-09-13 | CWE Content Team | MITRE | CWE 2.1, 2011-09-13 | updated Potential_Mitigations, References, Relationships, Taxonomy_Mappings |
+| Modification | 2012-05-11 | CWE Content Team | MITRE | CWE 2.2, 2012-05-15 | updated Demonstrative_Examples, References, Relationships, Taxonomy_Mappings |
+| Modification | 2012-10-30 | CWE Content Team | MITRE | CWE 2.3, 2012-10-30 | updated Observed_Examples, Potential_Mitigations |
+| Modification | 2014-02-18 | CWE Content Team | MITRE | CWE 2.6, 2014-02-19 | updated Applicable_Platforms, Demonstrative_Examples, Terminology_Notes |
+| Modification | 2014-06-23 | CWE Content Team | MITRE | CWE 2.7, 2014-06-23 | updated Relationships |
+| Modification | 2014-07-30 | CWE Content Team | MITRE | CWE 2.8, 2014-07-31 | updated Detection_Factors, Relationships, Taxonomy_Mappings |
+| Modification | 2015-12-07 | CWE Content Team | MITRE | CWE 2.9, 2015-12-07 | updated Relationships |
+| Modification | 2017-11-08 | CWE Content Team | MITRE | CWE 3.0, 2017-11-08 | updated Modes_of_Introduction, References, Relationships, Taxonomy_Mappings, White_Box_Definitions |
+| Modification | 2018-03-27 | CWE Content Team | MITRE | CWE 3.1, 2018-03-27 | updated Relationships |
+| Modification | 2019-01-03 | CWE Content Team | MITRE | CWE 3.2, 2019-01-03 | updated References, Relationships, Taxonomy_Mappings |
+| Modification | 2019-06-20 | CWE Content Team | MITRE | CWE 3.3, 2019-06-20 | updated Relationships |
+| Modification | 2019-09-19 | CWE Content Team | MITRE | CWE 3.4, 2019-09-19 | updated Relationships |
+| Modification | 2020-02-24 | CWE Content Team | MITRE | CWE 4.0, 2020-02-24 | updated Potential_Mitigations, Relationships |
+| Modification | 2020-06-25 | CWE Content Team | MITRE | CWE 4.1, 2020-06-25 | updated Observed_Examples, Potential_Mitigations |
+| Modification | 2020-08-20 | CWE Content Team | MITRE | CWE 4.2, 2020-08-20 | updated Relationships |
+| Modification | 2020-12-10 | CWE Content Team | MITRE | CWE 4.3, 2020-12-10 | updated Potential_Mitigations, Relationships |
+| Modification | 2021-07-20 | CWE Content Team | MITRE | CWE 4.5, 2021-07-20 | updated Observed_Examples, Relationships |
+| Modification | 2021-10-28 | CWE Content Team | MITRE | CWE 4.6, 2021-10-28 | updated Relationships |
+| Modification | 2022-04-28 | CWE Content Team | MITRE | CWE 4.7, 2022-04-28 | updated Demonstrative_Examples |
+| Modification | 2022-06-28 | CWE Content Team | MITRE | CWE 4.8, 2022-06-28 | updated Observed_Examples, Relationships |
+| Modification | 2022-10-13 | CWE Content Team | MITRE | CWE 4.9, 2022-10-13 | updated References |
+| Modification | 2023-01-31 | CWE Content Team | MITRE | CWE 4.10, 2023-01-31 | updated Common_Consequences, Description |
+| Modification | 2023-04-27 | CWE Content Team | MITRE | CWE 4.11, 2023-04-27 | updated Detection_Factors, References, Relationships, Time_of_Introduction |
+| Modification | 2023-06-29 | CWE Content Team | MITRE | CWE 4.12, 2023-06-29 | updated Mapping_Notes, Relationships |
+| Modification | 2024-07-16 | CWE Content Team | MITRE | CWE 4.15, 2024-07-16 | updated Alternate_Terms, Common_Consequences, Demonstrative_Examples, Description, Diagram, References |
+| Modification | 2024-11-19 | CWE Content Team | MITRE | CWE 4.16, 2024-11-19 | updated Relationships |
+| Modification | 2025-09-09 | CWE Content Team | MITRE | CWE 4.18, 2025-09-09 | updated Applicable_Platforms, Detection_Factors, Observed_Examples, Potential_Mitigations, References |
+| Modification | 2025-12-11 | CWE Content Team | MITRE | CWE 4.19, 2025-12-11 | updated Applicable_Platforms, Demonstrative_Examples, Observed_Examples, Relationships, Weakness_Ordinalities |
+| Modification | 2026-04-30 | CWE Content Team | MITRE | CWE 4.20, 2026-04-30 | updated Applicable_Platforms, Relationships |
+| Modification | 2026-10-28 | CWE Content Team | MITRE | CWE 5.0, 2026-10-28 | updated Applicable_Platforms, Description, Dimensions, Modes_of_Introduction, Name, References, Relationships, Taxonomy_Mappings, Technical_Nuance |
+
+**Previous Entry Names:**
+
+- OS Command Injection — 2008-04-11
+- Failure to Sanitize Data into an OS Command (aka 'OS Command Injection') — 2009-01-12
+- Failure to Preserve OS Command Structure (aka 'OS Command Injection') — 2009-05-27
+- Failure to Preserve OS Command Structure ('OS Command Injection') — 2009-07-27
+- Improper Sanitization of Special Elements used in an OS Command ('OS Command Injection') — 2010-06-21
+- Improper Neutralization of Special Elements used in an OS Command ('OS Command Injection') — 2026-10-28
+
 ---
-Generated from MITRE's CWE 5.0 XML (cwec_v5.0.xml) by weakness/mitre.org/cwe/scripts/cwe_to_markdown.py. Content history is omitted.
+Generated from MITRE's CWE 5.0 XML (cwec_v5.0.xml) by weakness/mitre.org/cwe/scripts/cwe_to_markdown.py.
 Copyright © The MITRE Corporation. CWE™ is a trademark of The MITRE Corporation.
 Used under the CWE Terms of Use: https://cwe.mitre.org/about/termsofuse.html (full text: https://github.com/CloudSecurityAlliance-DataSets/dataset-public-laws-regulations-standards/blob/main/weakness/mitre.org/cwe/5.0/LICENSE.txt).

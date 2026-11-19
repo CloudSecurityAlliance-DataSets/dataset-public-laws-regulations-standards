@@ -396,7 +396,56 @@ retrieve the PR number from a more trusted source.
 
 - **Theoretical**: Injection problems encompass a wide variety of issues -- all mitigated in very different ways. For this reason, the most effective way to discuss these weaknesses is to note the distinct features that classify them as injection weaknesses. The most important issue to note is that all injection problems share one thing in common -- i.e., they allow for the injection of control plane data into the user-controlled data plane. This means that the execution of the process may be altered by sending code in through legitimate data channels, using no other mechanism. While buffer overflows, and many other flaws, involve the use of some further issue to gain execution, injection problems need only for the data to be parsed. The most classic instantiations of this category of weakness are SQL injection and format string vulnerabilities.
 
+## Content History
+
+| Event | Date | Name | Organization | Release | Comment |
+| --- | --- | --- | --- | --- | --- |
+| Submission | 2006-07-19 | PLOVER |  | CWE Draft 3, 2006-07-19 |  |
+| Contribution (Content) | 2023-06-29 | "Mapping CWE to 62443" Sub-Working Group | CWE-CAPEC ICS/OT SIG | CWE 4.12, 2023-06-29 | Suggested mappings to ISA/IEC 62443. |
+| Contribution (Content) | 2024-02-29 | Abhi Balakrishnan |  | CWE 4.17, 2025-04-03 | Contributed usability diagram concepts used by the CWE team. |
+| Contribution (Feedback) | 2025-08-22 | Matthew A. Pagan | Spectrum | CWE 4.19, 2025-12-11 | Discovered a syntax issue in the Python3 demox (DX-156) and suggested a fix |
+| Modification | 2008-07-01 | Eric Dalci | Cigital |  | updated Time_of_Introduction |
+| Modification | 2008-09-08 | CWE Content Team | MITRE |  | updated Applicable_Platforms, Relationships, Research_Gaps, Taxonomy_Mappings |
+| Modification | 2009-01-12 | CWE Content Team | MITRE |  | updated Common_Consequences, Demonstrative_Examples, Description, Likelihood_of_Exploit, Name, Potential_Mitigations, Relationships |
+| Modification | 2009-03-10 | CWE Content Team | MITRE |  | updated Potential_Mitigations |
+| Modification | 2009-05-27 | CWE Content Team | MITRE |  | updated Demonstrative_Examples, Name |
+| Modification | 2010-02-16 | CWE Content Team | MITRE |  | updated Potential_Mitigations |
+| Modification | 2010-06-21 | CWE Content Team | MITRE |  | updated Description, Potential_Mitigations |
+| Modification | 2011-03-29 | CWE Content Team | MITRE |  | updated Name |
+| Modification | 2011-06-01 | CWE Content Team | MITRE |  | updated Common_Consequences |
+| Modification | 2012-05-11 | CWE Content Team | MITRE |  | updated Common_Consequences, Demonstrative_Examples, Observed_Examples, References, Relationships |
+| Modification | 2012-10-30 | CWE Content Team | MITRE |  | updated Potential_Mitigations |
+| Modification | 2013-02-21 | CWE Content Team | MITRE |  | updated Relationships |
+| Modification | 2014-07-30 | CWE Content Team | MITRE |  | updated Relationships |
+| Modification | 2015-12-07 | CWE Content Team | MITRE |  | updated Relationships |
+| Modification | 2017-11-08 | CWE Content Team | MITRE |  | updated Demonstrative_Examples, Modes_of_Introduction, Relationships |
+| Modification | 2019-06-20 | CWE Content Team | MITRE |  | updated Related_Attack_Patterns, Type |
+| Modification | 2019-09-19 | CWE Content Team | MITRE |  | updated Relationships |
+| Modification | 2020-02-24 | CWE Content Team | MITRE |  | updated Potential_Mitigations, Relationships |
+| Modification | 2020-06-25 | CWE Content Team | MITRE |  | updated Potential_Mitigations |
+| Modification | 2020-08-20 | CWE Content Team | MITRE |  | updated Relationships |
+| Modification | 2021-03-15 | CWE Content Team | MITRE |  | updated Demonstrative_Examples |
+| Modification | 2021-07-20 | CWE Content Team | MITRE |  | updated Relationships |
+| Modification | 2021-10-28 | CWE Content Team | MITRE |  | updated Relationships |
+| Modification | 2022-04-28 | CWE Content Team | MITRE |  | updated Research_Gaps |
+| Modification | 2022-06-28 | CWE Content Team | MITRE |  | updated Observed_Examples, Relationships |
+| Modification | 2022-10-13 | CWE Content Team | MITRE |  | updated Observed_Examples |
+| Modification | 2023-01-31 | CWE Content Team | MITRE |  | updated Demonstrative_Examples, Description, Potential_Mitigations, Relationships |
+| Modification | 2023-04-27 | CWE Content Team | MITRE |  | updated Demonstrative_Examples, Detection_Factors, Relationships, Time_of_Introduction |
+| Modification | 2023-06-29 | CWE Content Team | MITRE |  | updated Mapping_Notes, Relationships, Taxonomy_Mappings |
+| Modification | 2024-02-29 | CWE Content Team | MITRE | CWE 4.14, 2024-02-29 | updated Demonstrative_Examples, Potential_Mitigations, References |
+| Modification | 2024-07-16 | CWE Content Team | MITRE | CWE 4.15, 2024-07-16 | updated Applicable_Platforms, Observed_Examples |
+| Modification | 2024-11-19 | CWE Content Team | MITRE | CWE 4.16, 2024-11-19 | updated Mapping_Notes, Relationships |
+| Modification | 2025-04-03 | CWE Content Team | MITRE | CWE 4.17, 2025-04-03 | updated Alternate_Terms, Common_Consequences, Description, Diagram, Theoretical_Notes |
+| Modification | 2025-12-11 | CWE Content Team | MITRE | CWE 4.19, 2025-12-11 | updated Demonstrative_Examples, Relationships, Weakness_Ordinalities |
+
+**Previous Entry Names:**
+
+- Code Injection — 2009-01-12
+- Failure to Control Generation of Code (aka 'Code Injection') — 2009-05-27
+- Failure to Control Generation of Code ('Code Injection') — 2011-03-29
+
 ---
-Generated from MITRE's CWE 4.19.1 XML (cwec_v4.19.1.xml) by weakness/mitre.org/cwe/scripts/cwe_to_markdown.py. Content history is omitted.
+Generated from MITRE's CWE 4.19.1 XML (cwec_v4.19.1.xml) by weakness/mitre.org/cwe/scripts/cwe_to_markdown.py.
 Copyright © The MITRE Corporation. CWE™ is a trademark of The MITRE Corporation.
 Used under the CWE Terms of Use: https://cwe.mitre.org/about/termsofuse.html (full text: https://github.com/CloudSecurityAlliance-DataSets/dataset-public-laws-regulations-standards/blob/main/weakness/mitre.org/cwe/4.19.1/LICENSE.txt).

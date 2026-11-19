@@ -91,7 +91,36 @@ Attackers can embed XSS exploits into the values for IMG attributes (e.g. SRC) t
 - **Comments:** Carefully read both the name and description to ensure that this mapping is an appropriate fit. Do not try to 'force' a mapping to a lower-level Base/Variant simply to comply with this preferred level of abstraction.
 - **Reasons:** Acceptable-Use
 
+## Content History
+
+| Event | Date | Name | Organization | Release | Comment |
+| --- | --- | --- | --- | --- | --- |
+| Submission | 2006-07-19 | PLOVER |  | CWE Draft 3, 2006-07-19 |  |
+| Modification | 2008-07-01 | Eric Dalci | Cigital |  | updated Time_of_Introduction |
+| Modification | 2008-09-08 | CWE Content Team | MITRE |  | updated Relationships, Taxonomy_Mappings |
+| Modification | 2008-10-14 | CWE Content Team | MITRE |  | updated Description |
+| Modification | 2009-05-27 | CWE Content Team | MITRE |  | updated Description, Name |
+| Modification | 2009-10-29 | CWE Content Team | MITRE |  | updated Relationships |
+| Modification | 2009-12-28 | CWE Content Team | MITRE |  | updated Observed_Examples |
+| Modification | 2010-06-21 | CWE Content Team | MITRE |  | updated Description, Name, Potential_Mitigations |
+| Modification | 2011-06-01 | CWE Content Team | MITRE |  | updated Common_Consequences |
+| Modification | 2012-05-11 | CWE Content Team | MITRE |  | updated Relationships |
+| Modification | 2012-10-30 | CWE Content Team | MITRE |  | updated Potential_Mitigations |
+| Modification | 2014-07-30 | CWE Content Team | MITRE |  | updated Relationships, Taxonomy_Mappings |
+| Modification | 2017-05-03 | CWE Content Team | MITRE |  | updated Related_Attack_Patterns |
+| Modification | 2017-11-08 | CWE Content Team | MITRE |  | updated Applicable_Platforms |
+| Modification | 2020-02-24 | CWE Content Team | MITRE |  | updated Relationships |
+| Modification | 2023-04-27 | CWE Content Team | MITRE |  | updated Relationships |
+| Modification | 2023-06-29 | CWE Content Team | MITRE |  | updated Mapping_Notes |
+| Modification | 2025-12-11 | CWE Content Team | MITRE | CWE 4.19, 2025-12-11 | updated Applicable_Platforms, Weakness_Ordinalities |
+
+**Previous Entry Names:**
+
+- Script in IMG Tags — 2008-04-11
+- Failure to Sanitize Script in Attributes of IMG Tags in a Web Page — 2009-05-27
+- Improper Sanitization of Script in Attributes of IMG Tags in a Web Page — 2010-06-21
+
 ---
-Generated from MITRE's CWE 4.19.1 XML (cwec_v4.19.1.xml) by weakness/mitre.org/cwe/scripts/cwe_to_markdown.py. Content history is omitted.
+Generated from MITRE's CWE 4.19.1 XML (cwec_v4.19.1.xml) by weakness/mitre.org/cwe/scripts/cwe_to_markdown.py.
 Copyright © The MITRE Corporation. CWE™ is a trademark of The MITRE Corporation.
 Used under the CWE Terms of Use: https://cwe.mitre.org/about/termsofuse.html (full text: https://github.com/CloudSecurityAlliance-DataSets/dataset-public-laws-regulations-standards/blob/main/weakness/mitre.org/cwe/4.19.1/LICENSE.txt).

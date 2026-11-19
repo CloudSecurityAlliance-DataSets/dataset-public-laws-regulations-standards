@@ -263,7 +263,48 @@ An alternative, commonly-cited mitigation for this kind of weakness is to use th
 
 - **Other**: Factors: special character errors can play a role in increasing the variety of code that can be injected, although some vulnerabilities do not require special characters at all, e.g. when a single function without arguments can be referenced and a terminator character is not necessary.
 
+## Content History
+
+| Event | Date | Name | Organization | Release | Comment |
+| --- | --- | --- | --- | --- | --- |
+| Submission | 2006-07-19 | PLOVER |  | CWE Draft 3, 2006-07-19 |  |
+| Modification | 2008-07-01 | Eric Dalci | Cigital |  | updated Time_of_Introduction |
+| Modification | 2008-08-15 |  | Veracode |  | Suggested OWASP Top Ten 2004 mapping |
+| Modification | 2008-09-08 | CWE Content Team | MITRE |  | updated Applicable_Platforms, Description, Modes_of_Introduction, Relationships, Other_Notes, Taxonomy_Mappings, Weakness_Ordinalities |
+| Modification | 2009-01-12 | CWE Content Team | MITRE |  | updated Description, Observed_Examples, Other_Notes, Research_Gaps |
+| Modification | 2009-05-27 | CWE Content Team | MITRE |  | updated Alternate_Terms, Applicable_Platforms, Demonstrative_Examples, Description, Name, References |
+| Modification | 2010-02-16 | CWE Content Team | MITRE |  | updated Potential_Mitigations |
+| Modification | 2010-06-21 | CWE Content Team | MITRE |  | updated Description, Name |
+| Modification | 2011-06-01 | CWE Content Team | MITRE |  | updated Common_Consequences |
+| Modification | 2012-05-11 | CWE Content Team | MITRE |  | updated Common_Consequences, Demonstrative_Examples, References, Relationships |
+| Modification | 2012-10-30 | CWE Content Team | MITRE |  | updated Potential_Mitigations |
+| Modification | 2013-02-21 | CWE Content Team | MITRE |  | updated Observed_Examples |
+| Modification | 2014-07-30 | CWE Content Team | MITRE |  | updated Relationships, Taxonomy_Mappings |
+| Modification | 2017-11-08 | CWE Content Team | MITRE |  | updated Causal_Nature, Modes_of_Introduction, References, Relationships, Taxonomy_Mappings |
+| Modification | 2019-01-03 | CWE Content Team | MITRE |  | updated Taxonomy_Mappings |
+| Modification | 2019-06-20 | CWE Content Team | MITRE |  | updated Type |
+| Modification | 2020-02-24 | CWE Content Team | MITRE |  | updated Potential_Mitigations, Relationships |
+| Modification | 2020-06-25 | CWE Content Team | MITRE |  | updated Potential_Mitigations |
+| Modification | 2021-03-15 | CWE Content Team | MITRE |  | updated Relationships |
+| Modification | 2021-10-28 | CWE Content Team | MITRE |  | updated Relationships |
+| Modification | 2022-04-28 | CWE Content Team | MITRE |  | updated Research_Gaps |
+| Modification | 2022-06-28 | CWE Content Team | MITRE |  | updated Observed_Examples |
+| Modification | 2022-10-13 | CWE Content Team | MITRE |  | updated Observed_Examples |
+| Modification | 2023-01-31 | CWE Content Team | MITRE |  | updated Demonstrative_Examples, Description |
+| Modification | 2023-04-27 | CWE Content Team | MITRE |  | updated Demonstrative_Examples, Detection_Factors, Relationships, Time_of_Introduction |
+| Modification | 2023-06-29 | CWE Content Team | MITRE |  | updated Mapping_Notes |
+| Modification | 2024-02-29 | CWE Content Team | MITRE | CWE 4.14, 2024-02-29 | updated Demonstrative_Examples, Potential_Mitigations, References |
+| Modification | 2024-07-16 | CWE Content Team | MITRE | CWE 4.15, 2024-07-16 | updated Applicable_Platforms, Observed_Examples |
+| Modification | 2025-04-03 | CWE Content Team | MITRE | CWE 4.17, 2025-04-03 | updated Common_Consequences, Description, Diagram |
+| Modification | 2025-12-11 | CWE Content Team | MITRE | CWE 4.19, 2025-12-11 | updated Demonstrative_Examples, Relationships |
+
+**Previous Entry Names:**
+
+- Direct Dynamic Code Evaluation ('Eval Injection') — 2008-04-11
+- Insufficient Control of Directives in Dynamically Evaluated Code (aka 'Eval Injection') — 2009-05-27
+- Improper Sanitization of Directives in Dynamically Evaluated Code ('Eval Injection') — 2010-06-21
+
 ---
-Generated from MITRE's CWE 4.19.1 XML (cwec_v4.19.1.xml) by weakness/mitre.org/cwe/scripts/cwe_to_markdown.py. Content history is omitted.
+Generated from MITRE's CWE 4.19.1 XML (cwec_v4.19.1.xml) by weakness/mitre.org/cwe/scripts/cwe_to_markdown.py.
 Copyright © The MITRE Corporation. CWE™ is a trademark of The MITRE Corporation.
 Used under the CWE Terms of Use: https://cwe.mitre.org/about/termsofuse.html (full text: https://github.com/CloudSecurityAlliance-DataSets/dataset-public-laws-regulations-standards/blob/main/weakness/mitre.org/cwe/4.19.1/LICENSE.txt).

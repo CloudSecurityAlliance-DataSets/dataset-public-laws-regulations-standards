@@ -599,7 +599,65 @@ The constructed path string uses os.sep to add the appropriate separation charac
 
   Any combination of directory separators ("/", "\\", etc.) and numbers of "." (e.g. "....") can produce unique variants; for example, the "//../" variant is not listed (CVE-2004-0325). See this entry's children and lower-level descendants.
 
+## Content History
+
+| Event | Date | Name | Organization | Release | Comment |
+| --- | --- | --- | --- | --- | --- |
+| Submission | 2006-07-19 | PLOVER |  | CWE Draft 3, 2006-07-19 |  |
+| Contribution (Feedback) | 2022-07-11 | Nick Johnston |  |  | Identified weakness in Perl demonstrative example |
+| Contribution (Content) | 2024-02-29 | Abhi Balakrishnan |  | CWE 4.15, 2024-07-16 | Provided diagram to improve CWE usability |
+| Contribution (Feedback) | 2024-11-01 | Drew Buttner | MITRE |  | Identified weakness in "good code" for Python demonstrative example |
+| Modification | 2008-07-01 | Eric Dalci | Cigital |  | updated Potential_Mitigations, Time_of_Introduction |
+| Modification | 2008-08-15 |  | Veracode |  | Suggested OWASP Top Ten 2004 mapping |
+| Modification | 2008-09-08 | CWE Content Team | MITRE |  | updated Alternate_Terms, Relationships, Other_Notes, Relationship_Notes, Relevant_Properties, Taxonomy_Mappings, Weakness_Ordinalities |
+| Modification | 2008-10-14 | CWE Content Team | MITRE |  | updated Description |
+| Modification | 2008-11-24 | CWE Content Team | MITRE |  | updated Relationships, Taxonomy_Mappings |
+| Modification | 2009-07-27 | CWE Content Team | MITRE |  | updated Potential_Mitigations |
+| Modification | 2010-02-16 | CWE Content Team | MITRE |  | updated Alternate_Terms, Applicable_Platforms, Common_Consequences, Demonstrative_Examples, Description, Detection_Factors, Likelihood_of_Exploit, Name, Observed_Examples, Other_Notes, Potential_Mitigations, References, Related_Attack_Patterns, Relationship_Notes, Relationships, Research_Gaps, Taxonomy_Mappings, Terminology_Notes, Time_of_Introduction, Weakness_Ordinalities |
+| Modification | 2010-06-21 | CWE Content Team | MITRE |  | updated Common_Consequences, Demonstrative_Examples, Description, Detection_Factors, Potential_Mitigations, References, Relationships |
+| Modification | 2010-09-27 | CWE Content Team | MITRE |  | updated Potential_Mitigations |
+| Modification | 2010-12-13 | CWE Content Team | MITRE |  | updated Potential_Mitigations |
+| Modification | 2011-03-29 | CWE Content Team | MITRE |  | updated Potential_Mitigations |
+| Modification | 2011-06-27 | CWE Content Team | MITRE |  | updated Relationships |
+| Modification | 2011-09-13 | CWE Content Team | MITRE |  | updated Potential_Mitigations, References, Relationships, Taxonomy_Mappings |
+| Modification | 2012-05-11 | CWE Content Team | MITRE |  | updated Demonstrative_Examples, References, Relationships |
+| Modification | 2012-10-30 | CWE Content Team | MITRE |  | updated Potential_Mitigations |
+| Modification | 2013-02-21 | CWE Content Team | MITRE |  | updated Observed_Examples |
+| Modification | 2013-07-17 | CWE Content Team | MITRE |  | updated Related_Attack_Patterns, Relationships |
+| Modification | 2014-06-23 | CWE Content Team | MITRE |  | updated Other_Notes, Research_Gaps |
+| Modification | 2014-07-30 | CWE Content Team | MITRE |  | updated Detection_Factors, Relationships, Taxonomy_Mappings |
+| Modification | 2015-12-07 | CWE Content Team | MITRE |  | updated Relationships |
+| Modification | 2017-01-19 | CWE Content Team | MITRE |  | updated Related_Attack_Patterns |
+| Modification | 2017-05-03 | CWE Content Team | MITRE |  | updated Demonstrative_Examples |
+| Modification | 2017-11-08 | CWE Content Team | MITRE |  | updated Affected_Resources, Causal_Nature, Likelihood_of_Exploit, References, Relationships, Relevant_Properties, Taxonomy_Mappings |
+| Modification | 2018-03-27 | CWE Content Team | MITRE |  | updated References, Relationships |
+| Modification | 2019-01-03 | CWE Content Team | MITRE |  | updated References, Related_Attack_Patterns, Relationships, Taxonomy_Mappings |
+| Modification | 2019-06-20 | CWE Content Team | MITRE |  | updated Related_Attack_Patterns, Relationships, Type |
+| Modification | 2019-09-19 | CWE Content Team | MITRE |  | updated Relationships |
+| Modification | 2020-02-24 | CWE Content Team | MITRE |  | updated Potential_Mitigations, Relationships |
+| Modification | 2020-06-25 | CWE Content Team | MITRE |  | updated Demonstrative_Examples, Potential_Mitigations |
+| Modification | 2020-08-20 | CWE Content Team | MITRE |  | updated Relationships |
+| Modification | 2020-12-10 | CWE Content Team | MITRE |  | updated Potential_Mitigations, Relationships |
+| Modification | 2021-03-15 | CWE Content Team | MITRE |  | updated Demonstrative_Examples, Relationships |
+| Modification | 2021-07-20 | CWE Content Team | MITRE |  | updated Relationships |
+| Modification | 2021-10-28 | CWE Content Team | MITRE |  | updated Observed_Examples, Relationships |
+| Modification | 2022-06-28 | CWE Content Team | MITRE |  | updated Observed_Examples, Relationships |
+| Modification | 2022-10-13 | CWE Content Team | MITRE |  | updated Observed_Examples, References |
+| Modification | 2023-01-31 | CWE Content Team | MITRE |  | updated Common_Consequences, Description, Detection_Factors |
+| Modification | 2023-04-27 | CWE Content Team | MITRE |  | updated Demonstrative_Examples, References, Relationships, Time_of_Introduction |
+| Modification | 2023-06-29 | CWE Content Team | MITRE |  | updated Mapping_Notes, Relationships |
+| Modification | 2023-10-26 | CWE Content Team | MITRE |  | updated Observed_Examples |
+| Modification | 2024-07-16 | CWE Content Team | MITRE | CWE 4.15, 2024-07-16 | updated Common_Consequences, Description, Diagram, Observed_Examples, Other_Notes, References |
+| Modification | 2024-11-19 | CWE Content Team | MITRE | CWE 4.16, 2024-11-19 | updated Demonstrative_Examples, Relationships |
+| Modification | 2025-04-03 | CWE Content Team | MITRE | CWE 4.17, 2025-04-03 | updated Relationships |
+| Modification | 2025-09-09 | CWE Content Team | MITRE | CWE 4.18, 2025-09-09 | updated Applicable_Platforms, Detection_Factors, Observed_Examples, Potential_Mitigations, References |
+| Modification | 2025-12-11 | CWE Content Team | MITRE | CWE 4.19, 2025-12-11 | updated Mapping_Notes, Relationships |
+
+**Previous Entry Names:**
+
+- Path Traversal — 2010-02-16
+
 ---
-Generated from MITRE's CWE 4.19.1 XML (cwec_v4.19.1.xml) by weakness/mitre.org/cwe/scripts/cwe_to_markdown.py. Content history is omitted.
+Generated from MITRE's CWE 4.19.1 XML (cwec_v4.19.1.xml) by weakness/mitre.org/cwe/scripts/cwe_to_markdown.py.
 Copyright © The MITRE Corporation. CWE™ is a trademark of The MITRE Corporation.
 Used under the CWE Terms of Use: https://cwe.mitre.org/about/termsofuse.html (full text: https://github.com/CloudSecurityAlliance-DataSets/dataset-public-laws-regulations-standards/blob/main/weakness/mitre.org/cwe/4.19.1/LICENSE.txt).

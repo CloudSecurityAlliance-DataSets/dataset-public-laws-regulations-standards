@@ -58,7 +58,7 @@ Python 3.10+ standard library only; run here on 3.14. CI runs the tier gate and 
 | 6 | Implicit views select what MITRE's XPath selects | `cwe_xml.py` `IMPLICIT_FILTERS` | compare with an XPath 1.0 engine (lxml) on the XML | identical ID sets for the 15 active filters (checked in Task 3 review) |
 | 7 | Top 25 views keep MITRE's rank order | outline roots in member order | 5.0 `views/CWE-1435.md` | order equals the 2025 Top 25 list |
 | 8 | Every page carries MITRE attribution and licence | footer | grep the last three lines of every `.md` | identical footer naming the edition's own `LICENSE.txt` |
-| 9 | Markdown never contains content-history names | renderer omits `Content_History` | `test_content_history_has_no_effect` | pages identical with `Content_History` removed |
+| 9 | Markdown never contains content-history names (**superseded 2026-11-19 by #166:** Kurt chose to mirror faithfully, so every page now ends with MITRE's Content History) | renderer omits `Content_History` | `test_content_history_has_no_effect` | pages identical with `Content_History` removed |
 | 10 | All relative links resolve | output | link test; or a script over `markdown/**` | 0 broken of ~90,700 |
 | 11 | Metadata numbers are measured | four `cwe-<v>-metadata.json` | count weaknesses, deprecated, groups, views, references in each XML | equal to the `scope` figures and the spec's Input table |
 | 12 | INDEX.md rows are correct | `build_index.py` | regenerate in a full checkout; `git diff INDEX.md` | no diff; CWE rows show real SecIDs, 4.20/4.21 `structured` |
@@ -86,6 +86,8 @@ Every task had an independent review on the most capable model, then fixes and a
 - **Multi-paragraph code examples** (9 in 5.0) are fenced with single newlines between paragraphs (#163).
 - **CI does not regenerate or check the markdown**; that needs the zips in CI (#158).
 - **`INDEX.md` counts git-ignored originals** present in the checkout (a clean clone shows one fewer file for some CWE editions); pre-existing behaviour, #158.
+
+**Update 2026-11-19.** Kurt: *"lets default to mirroring data faithfully, so that means leaving names in."* He then chose to include MITRE's content history in the markdown (#166). Claim 9 and the content-history items above describe the state merged in #161, before that change.
 
 ## Where the author is least confident
 

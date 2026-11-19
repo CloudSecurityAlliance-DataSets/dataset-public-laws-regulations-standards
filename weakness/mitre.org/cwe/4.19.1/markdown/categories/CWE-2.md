@@ -41,7 +41,28 @@ This category represents one of the phyla in the Seven Pernicious Kingdoms vulne
 - **Comments:** See member weaknesses of this category.
 - **Reasons:** Category
 
+## Content History
+
+| Event | Date | Name | Organization | Release | Comment |
+| --- | --- | --- | --- | --- | --- |
+| Submission | 2006-07-19 | 7 Pernicious Kingdoms |  | CWE Draft 3, 2006-07-19 |  |
+| Modification | 2008-09-08 | CWE Content Team | MITRE |  | updated Relationships |
+| Modification | 2013-07-17 | CWE Content Team | MITRE |  | updated Relationships |
+| Modification | 2015-12-07 | CWE Content Team | MITRE |  | updated Relationships |
+| Modification | 2017-01-19 | CWE Content Team | MITRE |  | updated Maintenance_Notes, Relationships |
+| Modification | 2017-11-08 | CWE Content Team | MITRE |  | updated Description, Maintenance_Notes, Name |
+| Modification | 2018-03-27 | CWE Content Team | MITRE |  | updated Relationships |
+| Modification | 2019-06-20 | CWE Content Team | MITRE |  | updated Relationships |
+| Modification | 2020-02-24 | CWE Content Team | MITRE |  | updated References |
+| Modification | 2021-10-28 | CWE Content Team | MITRE |  | updated Relationships |
+| Modification | 2023-04-27 | CWE Content Team | MITRE |  | updated Mapping_Notes |
+| Modification | 2023-06-29 | CWE Content Team | MITRE |  | updated Mapping_Notes |
+
+**Previous Entry Names:**
+
+- Environment — 2017-11-08
+
 ---
-Generated from MITRE's CWE 4.19.1 XML (cwec_v4.19.1.xml) by weakness/mitre.org/cwe/scripts/cwe_to_markdown.py. Content history is omitted.
+Generated from MITRE's CWE 4.19.1 XML (cwec_v4.19.1.xml) by weakness/mitre.org/cwe/scripts/cwe_to_markdown.py.
 Copyright © The MITRE Corporation. CWE™ is a trademark of The MITRE Corporation.
 Used under the CWE Terms of Use: https://cwe.mitre.org/about/termsofuse.html (full text: https://github.com/CloudSecurityAlliance-DataSets/dataset-public-laws-regulations-standards/blob/main/weakness/mitre.org/cwe/4.19.1/LICENSE.txt).
