@@ -57,8 +57,6 @@ Each edition directory holds a `markdown/` folder generated from MITRE's full XM
 
 MITRE's [release archive](https://cwe.mitre.org/data/archive.html) has no per-view CSV or JSON for past releases (it keeps each release's full XML zip, PDF, schema and difference reports), so 4.20 and 4.21 (the latter published the same day as 5.0, as the schema-7 release) have the generated markdown but no CSV, per-view JSON or merged files.
 
-The merged `cwe-<v>-all.{csv,json}` (4.19.1 and 5.0, built from MITRE's three per-view CSVs by `scripts/merge_cwe_views.py`) keep 16 of the 23 columns in MITRE's per-view CSVs and leave out Weakness Ordinalities, Background Details, Alternate Terms, Exploitation Factors, Functional Areas, Affected Resources and Notes, which remain in the per-view CSVs; tracked in [#165](https://github.com/CloudSecurityAlliance-DataSets/dataset-public-laws-regulations-standards/issues/165).
-
 - `index.md`: edition, release date, source zip and its SHA-256, licence and attribution, counts, and tables of every weakness, category or grouping, and view.
 - `weaknesses/CWE-<id>.md`: one page per weakness, deprecated ones included. YAML front matter (`secid`, `cwe_id`, `entry_type`, `name`, `abstraction`, `structure`, `status`, `mapping_usage` when MITRE gives one, `cwe_version`, `cwe_release_date`, `upstream`), then MITRE's sections in schema order, the last being `Content History`. Each heading is MITRE's element name with spaces for underscores, so its GitHub anchor equals the SecID section subpath (`#potential-mitigations`, `#content-history`).
 - `categories/` (4.x) or `groupings/` (5.0): MITRE's term for the edition. Each page lists its members and the view each membership belongs to. Front matter as for weaknesses, without `abstraction` and `structure`.
@@ -66,6 +64,8 @@ The merged `cwe-<v>-all.{csv,json}` (4.19.1 and 5.0, built from MITRE's three pe
 - `Content History`, the last section of every weakness, category or grouping, and view page, directly above the footer: MITRE's submission, contribution and modification records as one table (event, date, name, organization, release, importance, comment; submissions first, then contributions, then modifications, each in MITRE's order), then the entry's previous names, each with the date MITRE stopped using it (and, where MITRE gives one, the CWE version). Names and organizations appear as MITRE publishes them.
 - `index.md` front matter: `secid`, `entry_type: index`, `cwe_version`, `cwe_release_date`, `source` (the zip's URL) and `sha256`.
 - `LICENSE.txt`: a copy of the edition's MITRE Terms of Use. Every page ends with MITRE's copyright and trademark notice and a link to the terms.
+
+The merged `cwe-<v>-all.{csv,json}` (4.19.1 and 5.0, built from MITRE's three per-view CSVs by `scripts/merge_cwe_views.py`) keep 16 of the 23 columns in MITRE's per-view CSVs and leave out Weakness Ordinalities, Background Details, Alternate Terms, Exploitation Factors, Functional Areas, Affected Resources and Notes, which remain in the per-view CSVs; tracked in [#165](https://github.com/CloudSecurityAlliance-DataSets/dataset-public-laws-regulations-standards/issues/165).
 
 Regenerate or check a folder (needs `cwec_v<version>.xml.zip` in the edition directory: it is git-ignored, kept in S3 at the same path, and downloadable from `https://cwe.mitre.org/data/xml/`):
 
@@ -77,7 +77,7 @@ python3 -m unittest discover -s weakness/mitre.org/cwe/scripts/tests -v
 
 Tests that need an edition's zip skip when it is absent and say which zip to fetch; set `CWE_REQUIRE_ZIPS=1` to make them fail instead.
 
-The script refuses to run if the zip's SHA-256 differs from its committed sidecar (`cwec_v<version>.xml.zip-file-metadata.json`), and it fails rather than dropping anything: on XML elements, attributes or markup it does not know, and on a second copy of an element that MITRE's schema allows only once. Every element the schema lets repeat is rendered in full. One exception to the first rule: in content history, submissions and the submitter and contributor names are rendered in full in every edition, because schema 8.0 lets them repeat; schema 7.x allows one of each, but a repeat in a 4.x edition is rendered rather than rejected (none occurs today). Output is byte-for-byte reproducible.
+The script refuses to run if the zip's SHA-256 differs from its committed sidecar (`cwec_v<version>.xml.zip-file-metadata.json`), and it fails rather than dropping anything: on XML elements, attributes or markup it does not know, and on a second copy of an element that MITRE's schema allows only once. Every element the schema lets repeat is rendered in full. One exception to the once-only rule: in content history, submissions and the submitter and contributor names are rendered in full in every edition, because schema 8.0 lets them repeat; schema 7.x allows one of each, but a repeat in a 4.x edition is rendered rather than rejected (none occurs today). Output is byte-for-byte reproducible.
 
 The data is reproduced as MITRE published it, upstream errors included. For example, in 4.21 and 5.0, CWE-1475's observed-example row labelled CVE-2025-50328 links to CVE-2026-58052, as it does in MITRE's XML and on MITRE's own page for CWE-1475 (the link target is CVE-2026-58052; the visible text is CVE-2025-50328).
 
