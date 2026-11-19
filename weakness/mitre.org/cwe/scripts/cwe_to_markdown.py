@@ -16,7 +16,9 @@ names, with the people and organizations MITRE records) is rendered in full as t
 section of every entry page, as MITRE publishes it (AGENTS.md, "Mirror faithfully"; #166).
 An element or attribute this script does not know, or a repeat of an element the schema
 allows once, fails the run with the CWE ID, so nothing is dropped silently; every
-repeatable element is rendered in full.
+repeatable element is rendered in full. (Exception: Content_History's Submission,
+Submission_Name and Contribution_Name repeat under schema 8 and are rendered in full in
+every edition, including schema 7, which allows one of each.)
 Output is UTF-8 with LF line endings, has no timestamps or local paths, and lists files
 in numeric ID order. Python 3.10+ standard library only.
 """
@@ -435,8 +437,9 @@ def _notes(notes: Element | None, ctx: str) -> str:
 
 
 # Content_History event kinds in the order MITRE's own pages list them, and the
-# <Kind>_<Field> children each may hold. Schema 8 lets Submission_Name and
-# Contribution_Name repeat; every other field occurs at most once.
+# <Kind>_<Field> children each may hold. Schema 8 lets Submission, Submission_Name and
+# Contribution_Name repeat; schema 7 allows one of each, but a repeat there is rendered
+# too rather than rejected. Every other field occurs at most once (_one fails on a repeat).
 HISTORY_EVENTS = (
     ("Submission", ("Name", "Organization", "Date", "Version", "ReleaseDate", "Comment")),
     ("Contribution", ("Name", "Organization", "Date", "Version", "ReleaseDate", "Comment")),
@@ -446,8 +449,17 @@ HISTORY_EVENTS = (
 HISTORY_REPEATED_NAMES = ("Submission", "Contribution")
 
 
+def _no_xhtml(elem: Element, ctx: str) -> None:
+    """Fail on an XHTML child. ``_check`` skips XHTML (the structured-text converter checks
+    it), but Content_History holds no structured text, so XHTML there would be lost."""
+    for c in elem:
+        if isinstance(c.tag, str) and c.tag.startswith(XHTML_NS):
+            raise UnexpectedMarkupError(f"{ctx}: unexpected element <xhtml:{local(c.tag)}>")
+
+
 def _history_row(ev: Element, kind: str, fields: tuple[str, ...], ctx: str) -> list[str]:
     """One Submission, Contribution or Modification as a table row."""
+    _no_xhtml(ev, ctx)
     _check(ev, ctx, kids=tuple(f"{kind}_{f}" for f in fields),
            attrs=("Type",) if kind == "Contribution" else ())
 
@@ -471,6 +483,7 @@ def _content_history(ch: Element | None, ctx: str) -> str:
     if ch is None:
         return ""
     c = f"{ctx}/Content_History"
+    _no_xhtml(ch, c)
     _check(ch, c, kids=("Submission", "Modification", "Contribution", "Previous_Entry_Name"))
     rows = [_history_row(ev, kind, fields, f"{c}/{kind}[{n}]")
             for kind, fields in HISTORY_EVENTS

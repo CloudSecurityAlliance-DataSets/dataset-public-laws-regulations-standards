@@ -717,6 +717,29 @@ class ContentHistoryTests(unittest.TestCase):
         fails(r"CWE-629.*<Review>", lambda e: ET.SubElement(history(e), ns + "Review"),
               ctm.render_view, ed.views[629])
 
+    def test_xhtml_inside_history_containers_fails(self):
+        # _check skips XHTML children (structured text checks them), but no Content_History
+        # container holds structured text, so XHTML there must fail, not vanish.
+        ed = ED["5.0"]
+        xhtml = "{http://www.w3.org/1999/xhtml}p"
+        cases = [
+            (ctm.render_weakness, ed.weaknesses[79], lambda ch: ch, r"CWE-79/Content_History"),
+            (ctm.render_weakness, ed.weaknesses[79], lambda ch: cx.child(ch, "Submission"),
+             r"CWE-79/Content_History/Submission\[1\]"),
+            (ctm.render_weakness, ed.weaknesses[79], lambda ch: cx.children(ch, "Modification")[2],
+             r"CWE-79/Content_History/Modification\[3\]"),
+            (ctm.render_weakness, ed.weaknesses[79], lambda ch: cx.child(ch, "Contribution"),
+             r"CWE-79/Content_History/Contribution\[1\]"),
+            (ctm.render_group, ed.groups[1210], lambda ch: ch, r"CWE-1210/Content_History"),
+            (ctm.render_view, ed.views[629], lambda ch: ch, r"CWE-629/Content_History"),
+        ]
+        for render, elem, target, where in cases:
+            with self.subTest(where=where):
+                e = copy.deepcopy(elem)
+                ET.SubElement(target(cx.child(e, "Content_History")), xhtml).text = "lost text"
+                with self.assertRaisesRegex(ctm.UnexpectedMarkupError, where + r".*xhtml:p"):
+                    render(ed, e)
+
 
 if __name__ == "__main__":
     unittest.main()

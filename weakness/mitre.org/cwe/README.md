@@ -75,13 +75,16 @@ python3 -m unittest discover -s weakness/mitre.org/cwe/scripts/tests -v
 
 Tests that need an edition's zip skip when it is absent and say which zip to fetch; set `CWE_REQUIRE_ZIPS=1` to make them fail instead.
 
-The script refuses to run if the zip's SHA-256 differs from its committed sidecar (`cwec_v<version>.xml.zip-file-metadata.json`), and it fails rather than dropping anything: on XML elements, attributes or markup it does not know, and on a second copy of an element that MITRE's schema allows only once. Every element the schema lets repeat is rendered in full. Output is byte-for-byte reproducible.
+The script refuses to run if the zip's SHA-256 differs from its committed sidecar (`cwec_v<version>.xml.zip-file-metadata.json`), and it fails rather than dropping anything: on XML elements, attributes or markup it does not know, and on a second copy of an element that MITRE's schema allows only once. Every element the schema lets repeat is rendered in full. One exception to the first rule: in content history, submissions and the submitter and contributor names are rendered in full in every edition, because schema 8.0 lets them repeat; schema 7.x allows one of each, but a repeat in a 4.x edition is rendered rather than rejected (none occurs today). Output is byte-for-byte reproducible.
 
 The data is reproduced as MITRE published it, upstream errors included. For example, in 4.21 and 5.0, CWE-1475's observed-example row labelled CVE-2025-50328 links to CVE-2026-58052, as it does in MITRE's XML and on MITRE's own page for CWE-1475 (the link target is CVE-2026-58052; the visible text is CVE-2025-50328).
 
 People's names are kept as MITRE publishes them, in the content history and in the citations under References (Kurt, 2026-11-19: *"lets default to mirroring data faithfully, so that means leaving names in."*; see "Mirror faithfully" in the repository's AGENTS.md). The first build (2026-11-18) left content history out of the markdown as editorial history; that decision was superseded on 2026-11-19 ([#166](https://github.com/CloudSecurityAlliance-DataSets/dataset-public-laws-regulations-standards/issues/166)). MITRE's XML and the mirrored per-view JSON keep it too (Kurt, 2026-11-18: *"we treat mitre like the gov, we republish their data, it's fine."*).
 
-What is left out: relationships that MITRE's website derives in reverse (a weakness's children, and the categories and views that list it). The view and category/grouping pages hold them.
+What is left out:
+
+- Relationships that MITRE's website derives in reverse (a weakness's children, and the categories and views that list it). The view and category/grouping pages hold them.
+- For obsolete and deprecated views, everything except the objective, status and content history: their audience, members, filter, references, mapping notes and notes. Each such page names what it leaves out and links to MITRE's page. This is a known gap against the "Mirror faithfully" default, tracked in [#165](https://github.com/CloudSecurityAlliance-DataSets/dataset-public-laws-regulations-standards/issues/165).
 
 ## Adding a new CWE release
 
