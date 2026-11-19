@@ -155,7 +155,41 @@ Notice that XSS (CWE-79) is also possible in this situation.
 
 - **Relationship**: "HTML injection" (see CWE-79: XSS) could be thought of as an example of this, but the code is injected and executed on the client side, not the server side. Server-Side Includes (SSI) are an example of direct static code injection.
 
+## Content History
+
+| Event | Date | Name | Organization | Release | Comment |
+| --- | --- | --- | --- | --- | --- |
+| Submission | 2006-07-19 | PLOVER |  | CWE Draft 3, 2006-07-19 |  |
+| Modification | 2008-07-01 | Eric Dalci | Cigital |  | updated Potential_Mitigations, Time_of_Introduction |
+| Modification | 2008-09-08 | CWE Content Team | MITRE |  | updated Applicable_Platforms, Relationships, Other_Notes, Taxonomy_Mappings, Weakness_Ordinalities |
+| Modification | 2009-05-27 | CWE Content Team | MITRE |  | updated Description, Name |
+| Modification | 2010-04-05 | CWE Content Team | MITRE |  | updated Description, Name |
+| Modification | 2010-06-21 | CWE Content Team | MITRE |  | updated Potential_Mitigations |
+| Modification | 2011-06-01 | CWE Content Team | MITRE |  | updated Common_Consequences |
+| Modification | 2012-05-11 | CWE Content Team | MITRE |  | updated Common_Consequences, Demonstrative_Examples, Relationships |
+| Modification | 2012-10-30 | CWE Content Team | MITRE |  | updated Potential_Mitigations |
+| Modification | 2013-02-21 | CWE Content Team | MITRE |  | updated Observed_Examples |
+| Modification | 2014-06-23 | CWE Content Team | MITRE |  | updated Enabling_Factors_for_Exploitation, Other_Notes, Relationship_Notes |
+| Modification | 2014-07-30 | CWE Content Team | MITRE |  | updated Relationships, Taxonomy_Mappings |
+| Modification | 2017-05-03 | CWE Content Team | MITRE |  | updated Related_Attack_Patterns |
+| Modification | 2017-11-08 | CWE Content Team | MITRE |  | updated Affected_Resources, Applicable_Platforms, Causal_Nature, Demonstrative_Examples, Enabling_Factors_for_Exploitation, Modes_of_Introduction, Relationships |
+| Modification | 2020-02-24 | CWE Content Team | MITRE |  | updated Potential_Mitigations, Relationships, Taxonomy_Mappings |
+| Modification | 2020-06-25 | CWE Content Team | MITRE |  | updated Potential_Mitigations |
+| Modification | 2021-03-15 | CWE Content Team | MITRE |  | updated Demonstrative_Examples |
+| Modification | 2021-10-28 | CWE Content Team | MITRE |  | updated Relationships |
+| Modification | 2022-10-13 | CWE Content Team | MITRE |  | updated Relationships, Taxonomy_Mappings |
+| Modification | 2023-01-31 | CWE Content Team | MITRE |  | updated Description |
+| Modification | 2023-04-27 | CWE Content Team | MITRE |  | updated Modes_of_Introduction, Relationships, Time_of_Introduction |
+| Modification | 2023-06-29 | CWE Content Team | MITRE |  | updated Mapping_Notes |
+| Modification | 2025-12-11 | CWE Content Team | MITRE | CWE 4.19, 2025-12-11 | updated Detection_Factors, Relationships |
+
+**Previous Entry Names:**
+
+- Direct Static Code Injection — 2008-04-11
+- Insufficient Control of Directives in Statically Saved Code (Static Code Injection) — 2009-05-27
+- Improper Sanitization of Directives in Statically Saved Code ('Static Code Injection') — 2010-04-05
+
 ---
-Generated from MITRE's CWE 4.19.1 XML (cwec_v4.19.1.xml) by weakness/mitre.org/cwe/scripts/cwe_to_markdown.py. Content history is omitted.
+Generated from MITRE's CWE 4.19.1 XML (cwec_v4.19.1.xml) by weakness/mitre.org/cwe/scripts/cwe_to_markdown.py.
 Copyright © The MITRE Corporation. CWE™ is a trademark of The MITRE Corporation.
 Used under the CWE Terms of Use: https://cwe.mitre.org/about/termsofuse.html (full text: https://github.com/CloudSecurityAlliance-DataSets/dataset-public-laws-regulations-standards/blob/main/weakness/mitre.org/cwe/4.19.1/LICENSE.txt).

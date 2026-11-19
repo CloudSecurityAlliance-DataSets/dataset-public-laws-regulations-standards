@@ -15,7 +15,6 @@ MITRE's Common Weakness Enumeration (CWE) version 4.21, released 2026-10-28, as 
 - **Source:** `cwec_v4.21.xml` in [cwec_v4.21.xml.zip](https://cwe.mitre.org/data/xml/cwec_v4.21.xml.zip), SHA-256 `5225e2b4976696b5b90b62cdad0ddab4e8898103d61350971e366a377e718862`
 - **Licence:** CWE Terms of Use, <https://cwe.mitre.org/about/termsofuse.html>; full text in [LICENSE.txt](LICENSE.txt)
 - **Attribution:** Copyright © The MITRE Corporation. CWE™ is a trademark of The MITRE Corporation.
-- **Omitted:** MITRE's content history (who submitted or modified each entry, and when)
 - **Upstream pages:** <https://cwe.mitre.org/data/definitions/> (MITRE's site shows the latest CWE version, which may differ from 4.21)
 
 ## Counts
@@ -1541,6 +1540,6 @@ MITRE's Common Weakness Enumeration (CWE) version 4.21, released 2026-10-28, as 
 | [CWE-2000](views/CWE-2000.md) | Comprehensive CWE Dictionary | Implicit | Draft |
 
 ---
-Generated from MITRE's CWE 4.21 XML (cwec_v4.21.xml) by weakness/mitre.org/cwe/scripts/cwe_to_markdown.py. Content history is omitted.
+Generated from MITRE's CWE 4.21 XML (cwec_v4.21.xml) by weakness/mitre.org/cwe/scripts/cwe_to_markdown.py.
 Copyright © The MITRE Corporation. CWE™ is a trademark of The MITRE Corporation.
 Used under the CWE Terms of Use: https://cwe.mitre.org/about/termsofuse.html (full text: https://github.com/CloudSecurityAlliance-DataSets/dataset-public-laws-regulations-standards/blob/main/weakness/mitre.org/cwe/4.21/LICENSE.txt).

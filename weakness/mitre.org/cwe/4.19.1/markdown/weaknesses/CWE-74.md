@@ -404,7 +404,58 @@ retrieve the PR number from a more trusted source.
 
 - **Theoretical**: Many people treat injection only as an input validation problem (CWE-20) because many people do not distinguish between the consequence/attack (injection) and the protection mechanism that prevents the attack from succeeding. However, input validation is only one potential protection mechanism (output encoding is another), and there is a chaining relationship between improper input validation and the improper enforcement of the structure of messages to other components. Other issues not directly related to input validation, such as race conditions, could similarly impact message structure.
 
+## Content History
+
+| Event | Date | Name | Organization | Release | Comment |
+| --- | --- | --- | --- | --- | --- |
+| Submission | 2006-07-19 | CLASP |  | CWE Draft 3, 2006-07-19 |  |
+| Contribution (Content) | 2022-10-24 | Nadav Noy, Roy Blit | Legit Security | CWE 4.19, 2025-12-08 | Suggested CI/CD coverage and provided demonstrative example |
+| Modification | 2008-07-01 | Eric Dalci | Cigital |  | updated Time_of_Introduction |
+| Modification | 2008-08-15 |  | Veracode |  | Suggested OWASP Top Ten 2004 mapping |
+| Modification | 2008-09-08 | CWE Content Team | MITRE |  | updated Common_Consequences, Description, Relationships, Other_Notes, Relationship_Notes, Taxonomy_Mappings, Weakness_Ordinalities |
+| Modification | 2009-01-12 | CWE Content Team | MITRE |  | updated Relationships |
+| Modification | 2009-05-27 | CWE Content Team | MITRE |  | updated Name, Related_Attack_Patterns |
+| Modification | 2009-07-27 | CWE Content Team | MITRE |  | updated Relationships |
+| Modification | 2009-10-29 | CWE Content Team | MITRE |  | updated Description, Other_Notes |
+| Modification | 2010-02-16 | CWE Content Team | MITRE |  | updated Relationships |
+| Modification | 2010-04-05 | CWE Content Team | MITRE |  | updated Related_Attack_Patterns |
+| Modification | 2010-06-21 | CWE Content Team | MITRE |  | updated Description, Name |
+| Modification | 2010-12-13 | CWE Content Team | MITRE |  | updated Common_Consequences, Relationship_Notes |
+| Modification | 2011-06-01 | CWE Content Team | MITRE |  | updated Common_Consequences |
+| Modification | 2012-05-11 | CWE Content Team | MITRE |  | updated Related_Attack_Patterns, Relationships |
+| Modification | 2012-10-30 | CWE Content Team | MITRE |  | updated Potential_Mitigations |
+| Modification | 2014-02-18 | CWE Content Team | MITRE |  | updated Related_Attack_Patterns |
+| Modification | 2014-06-23 | CWE Content Team | MITRE |  | updated Relationships |
+| Modification | 2014-07-30 | CWE Content Team | MITRE |  | updated Relationships, Taxonomy_Mappings |
+| Modification | 2015-12-07 | CWE Content Team | MITRE |  | updated Relationships |
+| Modification | 2017-01-19 | CWE Content Team | MITRE |  | updated Relationships |
+| Modification | 2017-05-03 | CWE Content Team | MITRE |  | updated Potential_Mitigations, Related_Attack_Patterns |
+| Modification | 2017-11-08 | CWE Content Team | MITRE |  | updated Applicable_Platforms, Causal_Nature, Likelihood_of_Exploit, Modes_of_Introduction, Relationships |
+| Modification | 2018-03-27 | CWE Content Team | MITRE |  | updated Relationships |
+| Modification | 2019-01-03 | CWE Content Team | MITRE |  | updated Related_Attack_Patterns |
+| Modification | 2019-06-20 | CWE Content Team | MITRE |  | updated Related_Attack_Patterns, Relationships |
+| Modification | 2020-02-24 | CWE Content Team | MITRE |  | updated References, Relationship_Notes, Relationships, Theoretical_Notes |
+| Modification | 2020-06-25 | CWE Content Team | MITRE |  | updated Potential_Mitigations |
+| Modification | 2020-08-20 | CWE Content Team | MITRE |  | updated Related_Attack_Patterns, Relationships |
+| Modification | 2021-10-28 | CWE Content Team | MITRE |  | updated Relationships |
+| Modification | 2022-04-28 | CWE Content Team | MITRE |  | updated Demonstrative_Examples, Related_Attack_Patterns |
+| Modification | 2022-06-28 | CWE Content Team | MITRE |  | updated Observed_Examples |
+| Modification | 2022-10-13 | CWE Content Team | MITRE |  | updated Observed_Examples |
+| Modification | 2023-01-31 | CWE Content Team | MITRE |  | updated Description |
+| Modification | 2023-04-27 | CWE Content Team | MITRE |  | updated Detection_Factors, Relationships, Time_of_Introduction |
+| Modification | 2023-06-29 | CWE Content Team | MITRE |  | updated Mapping_Notes |
+| Modification | 2024-07-16 | CWE Content Team | MITRE | CWE 4.15, 2024-07-16 | updated Observed_Examples |
+| Modification | 2024-11-19 | CWE Content Team | MITRE | CWE 4.16, 2024-11-19 | updated Demonstrative_Examples, Observed_Examples |
+| Modification | 2025-09-09 | CWE Content Team | MITRE | CWE 4.18, 2025-09-09 | updated Demonstrative_Examples |
+| Modification | 2025-12-11 | CWE Content Team | MITRE | CWE 4.19, 2025-12-11 | updated Demonstrative_Examples, Description, Diagram, Maintenance_Notes, Other_Notes, References, Relationships |
+
+**Previous Entry Names:**
+
+- Injection — 2008-04-11
+- Failure to Sanitize Data into a Different Plane (aka 'Injection') — 2009-05-27
+- Failure to Sanitize Data into a Different Plane ('Injection') — 2010-06-21
+
 ---
-Generated from MITRE's CWE 4.19.1 XML (cwec_v4.19.1.xml) by weakness/mitre.org/cwe/scripts/cwe_to_markdown.py. Content history is omitted.
+Generated from MITRE's CWE 4.19.1 XML (cwec_v4.19.1.xml) by weakness/mitre.org/cwe/scripts/cwe_to_markdown.py.
 Copyright © The MITRE Corporation. CWE™ is a trademark of The MITRE Corporation.
 Used under the CWE Terms of Use: https://cwe.mitre.org/about/termsofuse.html (full text: https://github.com/CloudSecurityAlliance-DataSets/dataset-public-laws-regulations-standards/blob/main/weakness/mitre.org/cwe/4.19.1/LICENSE.txt).

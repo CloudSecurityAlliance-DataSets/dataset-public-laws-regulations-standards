@@ -278,7 +278,48 @@ Note that the above PHP example can be mitigated by setting allow_url_fopen to f
 
   Can overlap directory traversal in local inclusion problems.
 
+## Content History
+
+| Event | Date | Name | Organization | Release | Importance | Comment |
+| --- | --- | --- | --- | --- | --- | --- |
+| Submission | 2006-07-19 | PLOVER |  | CWE Draft 3, 2006-07-19 |  |  |
+| Modification | 2008-07-01 | Eric Dalci | Cigital | CWE 1.0, 2008-09-09 |  | updated Time_of_Introduction |
+| Modification | 2008-09-08 | CWE Content Team | MITRE | CWE 1.0, 2008-09-09 |  | updated Relationships, Relationship_Notes, Research_Gaps, Taxonomy_Mappings |
+| Modification | 2009-01-12 | CWE Content Team | MITRE | CWE 1.2, 2009-01-12 |  | updated Relationships |
+| Modification | 2009-03-10 | CWE Content Team | MITRE | CWE 1.3, 2009-03-10 |  | updated Relationships |
+| Modification | 2009-05-27 | CWE Content Team | MITRE | CWE 1.4, 2009-05-27 |  | updated Description, Name |
+| Modification | 2009-12-28 | CWE Content Team | MITRE | CWE 1.7, 2009-12-28 |  | updated Alternate_Terms, Applicable_Platforms, Demonstrative_Examples, Likelihood_of_Exploit, Potential_Mitigations, Time_of_Introduction |
+| Modification | 2010-02-16 | CWE Content Team | MITRE | CWE 1.8, 2010-02-16 | Critical | converted from Compound_Element to Weakness |
+| Modification | 2010-02-16 | CWE Content Team | MITRE | CWE 1.8, 2010-02-16 |  | updated Alternate_Terms, Common_Consequences, Detection_Factors, Potential_Mitigations, References, Related_Attack_Patterns, Relationships, Taxonomy_Mappings, Type |
+| Modification | 2010-06-21 | CWE Content Team | MITRE | CWE 1.9, 2010-06-21 |  | updated Potential_Mitigations, References |
+| Modification | 2010-09-27 | CWE Content Team | MITRE | CWE 1.10, 2010-09-27 |  | updated Potential_Mitigations |
+| Modification | 2010-12-13 | CWE Content Team | MITRE | CWE 1.11, 2010-12-13 |  | updated Potential_Mitigations |
+| Modification | 2011-06-27 | CWE Content Team | MITRE | CWE 2.0, 2011-06-27 |  | updated Relationships |
+| Modification | 2012-10-30 | CWE Content Team | MITRE | CWE 2.3, 2012-10-30 |  | updated Potential_Mitigations, References |
+| Modification | 2013-02-21 | CWE Content Team | MITRE | CWE 2.4, 2013-02-21 |  | updated Alternate_Terms, Name, Observed_Examples |
+| Modification | 2017-01-19 | CWE Content Team | MITRE | CWE 2.10, 2017-01-19 |  | updated Relationships |
+| Modification | 2017-11-08 | CWE Content Team | MITRE | CWE 3.0, 2017-11-08 |  | updated Affected_Resources, Demonstrative_Examples, Likelihood_of_Exploit, Modes_of_Introduction, References, Relationships |
+| Modification | 2019-06-20 | CWE Content Team | MITRE | CWE 3.3, 2019-06-20 |  | updated Type |
+| Modification | 2020-02-24 | CWE Content Team | MITRE | CWE 4.0, 2020-02-24 |  | updated Potential_Mitigations, Relationships |
+| Modification | 2020-06-25 | CWE Content Team | MITRE | CWE 4.1, 2020-06-25 |  | updated Potential_Mitigations |
+| Modification | 2021-03-15 | CWE Content Team | MITRE | CWE 4.4, 2021-03-15 |  | updated Potential_Mitigations |
+| Modification | 2021-10-28 | CWE Content Team | MITRE | CWE 4.6, 2021-10-28 |  | updated Relationships |
+| Modification | 2022-04-28 | CWE Content Team | MITRE | CWE 4.7, 2022-04-28 |  | updated Research_Gaps |
+| Modification | 2022-10-13 | CWE Content Team | MITRE | CWE 4.9, 2022-10-13 |  | updated References |
+| Modification | 2023-01-31 | CWE Content Team | MITRE | CWE 4.10, 2023-01-31 |  | updated Description, Detection_Factors |
+| Modification | 2023-04-27 | CWE Content Team | MITRE | CWE 4.11, 2023-04-27 |  | updated References, Relationships, Time_of_Introduction |
+| Modification | 2023-06-29 | CWE Content Team | MITRE | CWE 4.12, 2023-06-29 |  | updated Mapping_Notes |
+| Modification | 2025-04-03 | CWE Content Team | MITRE | CWE 4.17, 2025-04-03 |  | updated Demonstrative_Examples |
+| Modification | 2025-09-09 | CWE Content Team | MITRE | CWE 4.18, 2025-09-09 |  | updated Potential_Mitigations, References |
+| Modification | 2025-12-11 | CWE Content Team | MITRE | CWE 4.19, 2025-12-11 |  | updated Applicable_Platforms, Demonstrative_Examples, Relationships, Weakness_Ordinalities |
+
+**Previous Entry Names:**
+
+- PHP File Inclusion — 2008-04-11
+- Insufficient Control of Filename for Include/Require Statement in PHP Program (aka 'PHP File Inclusion') — 2009-05-27
+- Improper Control of Filename for Include/Require Statement in PHP Program ('PHP File Inclusion') — 2013-02-21
+
 ---
-Generated from MITRE's CWE 4.20 XML (cwec_v4.20.xml) by weakness/mitre.org/cwe/scripts/cwe_to_markdown.py. Content history is omitted.
+Generated from MITRE's CWE 4.20 XML (cwec_v4.20.xml) by weakness/mitre.org/cwe/scripts/cwe_to_markdown.py.
 Copyright © The MITRE Corporation. CWE™ is a trademark of The MITRE Corporation.
 Used under the CWE Terms of Use: https://cwe.mitre.org/about/termsofuse.html (full text: https://github.com/CloudSecurityAlliance-DataSets/dataset-public-laws-regulations-standards/blob/main/weakness/mitre.org/cwe/4.20/LICENSE.txt).

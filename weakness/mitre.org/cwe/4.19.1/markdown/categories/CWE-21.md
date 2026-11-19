@@ -25,7 +25,28 @@ This category has been deprecated. It was originally used for organizing weaknes
 - **Comments:** See the summary, which might have suggestions for other CWEs to consider.
 - **Reasons:** Category, Deprecated
 
+## Content History
+
+| Event | Date | Name | Organization | Release | Comment |
+| --- | --- | --- | --- | --- | --- |
+| Submission | 2006-07-19 | PLOVER |  | CWE Draft 3, 2006-07-19 |  |
+| Modification | 2008-09-08 | CWE Content Team | MITRE |  | updated Relationships, Taxonomy_Mappings, Type |
+| Modification | 2008-10-14 | CWE Content Team | MITRE |  | updated Description |
+| Modification | 2012-05-11 | CWE Content Team | MITRE |  | updated Related_Attack_Patterns |
+| Modification | 2013-02-21 | CWE Content Team | MITRE |  | updated Potential_Mitigations |
+| Modification | 2014-02-18 | CWE Content Team | MITRE |  | updated Potential_Mitigations |
+| Modification | 2015-12-07 | CWE Content Team | MITRE |  | updated Relationships |
+| Modification | 2017-11-08 | CWE Content Team | MITRE |  | updated Applicable_Platforms, Description, Potential_Mitigations, Related_Attack_Patterns, Relationships |
+| Modification | 2019-06-20 | CWE Content Team | MITRE |  | updated Relationships |
+| Modification | 2020-02-24 | CWE Content Team | MITRE |  | updated Description, Name, Relationships, Type |
+| Modification | 2021-03-15 | CWE Content Team | MITRE |  | updated Taxonomy_Mappings |
+| Modification | 2023-06-29 | CWE Content Team | MITRE |  | updated Mapping_Notes |
+
+**Previous Entry Names:**
+
+- Pathname Traversal and Equivalence Errors — 2020-02-24
+
 ---
-Generated from MITRE's CWE 4.19.1 XML (cwec_v4.19.1.xml) by weakness/mitre.org/cwe/scripts/cwe_to_markdown.py. Content history is omitted.
+Generated from MITRE's CWE 4.19.1 XML (cwec_v4.19.1.xml) by weakness/mitre.org/cwe/scripts/cwe_to_markdown.py.
 Copyright © The MITRE Corporation. CWE™ is a trademark of The MITRE Corporation.
 Used under the CWE Terms of Use: https://cwe.mitre.org/about/termsofuse.html (full text: https://github.com/CloudSecurityAlliance-DataSets/dataset-public-laws-regulations-standards/blob/main/weakness/mitre.org/cwe/4.19.1/LICENSE.txt).
